@@ -17,7 +17,7 @@ The purpose of this page is to document configuration of our SFDC org. This will
 For roles that should automatically receive Salesforce access your account and permissions will be automatically created by Okta. For anyone else who needs Salesforce access for their job responsibilities, please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
 ### Salesforce Installed Packages
-This has moved to the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/sales/sales-systems/#sfdc-installed-packages)
+This has moved to the [Internal Handbook](https://internal.gitlab.com/handbook/sales/sales-systems/#sfdc-installed-packages)
 
 ### SFDC Certificates And Updating Expiring Certificates 
 #### Salesforce Certificates 

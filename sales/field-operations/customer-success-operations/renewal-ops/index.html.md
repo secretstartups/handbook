@@ -33,7 +33,7 @@ Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.go
 
 - **Measure**
     1. Create continuous workflow that accurately measures and analyzes the main areas of churn and contraction
-    1. Define Renewal Metrics to assist in forecasting based on Usage, Engagement, and [Predictive Models](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)
+    1. Define Renewal Metrics to assist in forecasting based on Usage, Engagement, and [Predictive Models](https://internal.gitlab.com/handbook/sales/propensity_models/)
 - **Improve Workflows**
     1. Identify and focus on areas of improvement in the customer lifecycle to prevent further churn and contraction and iterate on scalable solutions
 - **Mitigate Risk - Customer Segmentation**

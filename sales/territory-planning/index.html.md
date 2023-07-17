@@ -35,5 +35,5 @@ Crafting a plan like this involves more work and effort upfront, but gets easier
 - Develop strategies and action plans to reach your goals and targets.
 - Review and track your results.
 
-View the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/territory-planning/) to access the **[Territory Planning Toolkit](https://drive.google.com/drive/folders/1fW6SUOws6T7qlxtvMOr_EGN6779_VdsZ)** and to get started on your plan.
+View the [internal handbook](https://internal.gitlab.com/handbook/sales/territory-planning/) to access the **[Territory Planning Toolkit](https://drive.google.com/drive/folders/1fW6SUOws6T7qlxtvMOr_EGN6779_VdsZ)** and to get started on your plan.
 

@@ -32,7 +32,7 @@ The Data Intelligence team follows the legal framework as defined in GDPR for th
 ## <i class="far fa-folder-open" id="biz-tech-icons"></i> Data Intelligence Governance Policies
 
 ### Account Creation Policy
-The Account Creation Policy can be found in the [Internal Handbook.](https://internal-handbook.gitlab.io/handbook/sales/data-intelligence/governance/_governance/)
+The Account Creation Policy can be found in the [Internal Handbook.](https://internal.gitlab.com/handbook/sales/data-intelligence/governance/_governance/)
 
 **Data Enrichment**
 Data enrichment within our Salesforce.com instance is primairly done through ZoomInfo. Data enrichment is a process whereby our customer and prospect data is enriched with information from a third-party database. 

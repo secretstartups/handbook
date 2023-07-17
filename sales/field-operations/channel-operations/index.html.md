@@ -828,7 +828,7 @@ Below are descritpions of the different columns in the Channel Forecasting modul
 | Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
  
 ## Alliances and OEMs
-Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal-handbook.gitlab.io/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
+Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
 For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
  
 ### Opportunity Tagging for Marketplace Deals
@@ -912,7 +912,7 @@ Other factors:
 
 As a reminder, comp neutrality only applies to comp and does not retire quota. 
 
-For additional information, please review [Channel Neutral Compensation](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#channel-neutral-commissions) within the internal Sales Ops commission section of the Handbook.
+For additional information, please review [Channel Neutral Compensation](https://internal.gitlab.com/handbook/sales/sales-commission/#channel-neutral-commissions) within the internal Sales Ops commission section of the Handbook.
 
 Internal: [Partner Program Discount Matrix](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#program-and-incentive-definitions)
 For Partner Program discounts specific to US PubSec, please reach out to #partner-program-ops on Slack.

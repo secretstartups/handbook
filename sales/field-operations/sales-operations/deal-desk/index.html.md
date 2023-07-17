@@ -1094,8 +1094,8 @@ To reach an ABDM, use the #a_aws_deal_registration or #a_gcp_deal_registration S
 #### Alliance Deal/Private Offer Resources
 
 - Internal Handbook: 
-  - [Google Cloud Platform](https://internal-handbook.gitlab.io/handbook/alliances/gcp/)
-  - [Amazon Web Services](https://internal-handbook.gitlab.io/handbook/alliances/aws/)
+  - [Google Cloud Platform](https://internal.gitlab.com/handbook/alliances/gcp/)
+  - [Amazon Web Services](https://internal.gitlab.com/handbook/alliances/aws/)
 - Marketplace FAQ
   - [Google Cloud Private Offers](https://docs.google.com/document/d/1S0k0T12xkXajpHt9uvl3YDA4OSOwS6qB9pHmRKiqCgA/edit#bookmark=id.5hmmfbjqr9xn)
   - [Amazon Web Services Private Offer](https://docs.google.com/document/d/1S0k0T12xkXajpHt9uvl3YDA4OSOwS6qB9pHmRKiqCgA/edit#bookmark=id.ee7ef9xn6p1k)

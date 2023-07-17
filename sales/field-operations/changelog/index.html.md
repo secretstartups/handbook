@@ -22,11 +22,11 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2023-06-26 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/336))
 
-**Sales Ops: [Change to Clari Forecast Reset Date](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)**
+**Sales Ops: [Change to Clari Forecast Reset Date](https://internal.gitlab.com/handbook/sales/sales-forecasting/)**
 
 **Sales Ops: [FY24 Q2 QBR Top Asks Tracking](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3614)**
 
-**Sales Ops: [SFDC Account Creation Policy Change](https://internal-handbook.gitlab.io/handbook/sales/data-intelligence/governance/_governance/)**
+**Sales Ops: [SFDC Account Creation Policy Change](https://internal.gitlab.com/handbook/sales/data-intelligence/governance/_governance/)**
 
 **CS Ops: [Scale Engagement Requests in Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3902)**
 
@@ -80,7 +80,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2022-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/197))
 
-**Sales Ops: [Clari New Logo Forecasting Changes](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/#new-logo-override-for-clari)**
+**Sales Ops: [Clari New Logo Forecasting Changes](https://internal.gitlab.com/handbook/sales/sales-forecasting/#new-logo-override-for-clari)**
 
 **Sales Ops: [Account Ownership Rules of Engagement Updates](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/111511/diffs#note_1111460308)**
 
@@ -110,21 +110,21 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Chorus SSO Login Now Available](/handbook/sales/field-operations/sales-operations/go-to-market/chorus/)**
 
-**Sales Ops: [New Field: PTE Likely to Uptier](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)**
+**Sales Ops: [New Field: PTE Likely to Uptier](https://internal.gitlab.com/handbook/sales/propensity_models/)**
 
-**Sales Ops: [PTC Scoring Change](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/)**
+**Sales Ops: [PTC Scoring Change](https://internal.gitlab.com/handbook/sales/propensity_models/)**
 
 **Sales Ops: [Potential Users Field Scrub](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3176)**
 
 ### 2022-08-22 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/165))
 
-**Sales Ops: [New Forecast visibility and requirements in Clari](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/merge_requests/1213)**
+**Sales Ops: [New Forecast visibility and requirements in Clari](https://gitlab.com/internal-handbook/internal.gitlab.com/-/merge_requests/1213)**
 
 ### 2022-08-08 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/162))
 
 **Sales Ops: [New Restricted Party Field & Process in SFDC](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/162#new-restricted-party-field-process-in-sfdc)**
 
-**Sales Ops: [Late Renewal Exception Process Automation](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/#steps-to-request-an-exception)**
+**Sales Ops: [Late Renewal Exception Process Automation](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/#steps-to-request-an-exception)**
 
 ## Q2-FY23
 
@@ -155,7 +155,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Sales Ops: [Quarterly Review - Account & Opp Ownership Updates](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2914)**
 
-**Sales Ops: [Forecasting Updates in Clari](https://internal-handbook.gitlab.io/sales/sales-forecasting/)**
+**Sales Ops: [Forecasting Updates in Clari](https://internal.gitlab.com/sales/sales-forecasting/)**
 
 **Deal Desk & Order Management: [Quarterly CSAT Survey](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#2-regional-support-satisfaction)**
 

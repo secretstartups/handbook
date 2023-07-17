@@ -303,8 +303,8 @@ Extending self-managed trials requires access to the internal `Licensing App`.
 
 United States
 
-- **Public** University = [Public Sector team](https://internal-handbook.gitlab.io/handbook/sales/public-sector/#us-state--local-government)
-- **Private** University = [Public Sector team](https://internal-handbook.gitlab.io/handbook/sales/public-sector/#us-state--local-government)
+- **Public** University = [Public Sector team](https://internal.gitlab.com/handbook/sales/public-sector/#us-state--local-government)
+- **Private** University = [Public Sector team](https://internal.gitlab.com/handbook/sales/public-sector/#us-state--local-government)
 
 Rest of the World
 

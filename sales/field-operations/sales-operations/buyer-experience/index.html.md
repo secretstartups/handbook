@@ -22,7 +22,7 @@ This team evaluates all initiatives and makes prioritization decisions based on 
 
 ### Internal Handbook
 
-The [Buyer Experience Group Internal Handbook](https://internal-handbook.gitlab.io/handbook/sales/buyer-experience-group/) page captures internal-only information, including an up-to-date project tracker. 
+The [Buyer Experience Group Internal Handbook](https://internal.gitlab.com/handbook/sales/buyer-experience-group/) page captures internal-only information, including an up-to-date project tracker. 
 
 ### Resources
 [Resources](/handbook/marketing/digital-experience/buyer-experience-repository/)
@@ -63,7 +63,7 @@ The [Buyer Experience Group Internal Handbook](https://internal-handbook.gitlab.
 | [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests | 
 | [CustomersDot Access and Use](/handbook/product/fulfillment-guide/#customersdot-admin-panel) | Logging in, information available in CustomersDot, seat reconciliations for a customer, usage data for a customer | 
 | [Troubleshooting: True Ups, licenses + EULAs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
-| [Cloud Licensing (Internal)](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
+| [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
 | [Cloud Licesing Overview (External)](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 
 | [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams | 
 | [Fulfillment Direction](/direction/fulfillment/) | Fulfillment overview, 1-year plan, responsibilities, roadmap, OKRs, PIs | 

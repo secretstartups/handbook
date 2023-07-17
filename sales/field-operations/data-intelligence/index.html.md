@@ -21,7 +21,7 @@ Our Data Governance page can be found [here](https://about.gitlab.com/handbook/s
 Data Intelligence reports into Sales Operations under Field Operations. 
 
 <BR>
-The detailed Data Intelligence Handbook is located in the [internal handbook](https://internal-handbook.gitlab.io/handbook/sales/data-intelligence/).
+The detailed Data Intelligence Handbook is located in the [internal handbook](https://internal.gitlab.com/handbook/sales/data-intelligence/).
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 

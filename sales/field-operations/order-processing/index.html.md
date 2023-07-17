@@ -164,7 +164,7 @@ GitLab's Cloud Licensing experience allows for the activation and provisioning o
 
 #### Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data: Eligibility
 
-The SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/#feature-availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
+The SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://internal.gitlab.com/handbook/product/fulfillment/#feature-availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
 
 #### Auto-Renewal, Quarterly Subscription Reconciliation, and Operational Data: Sales Assisted Transactions
 
@@ -174,7 +174,7 @@ Specific fields have been added to the Quote object to support SuperSonics Funct
 
 This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Data). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
 
-For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/#feature-availability-matrix), the default values will be "No" for all fields. 
+For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://internal.gitlab.com/handbook/product/fulfillment/#feature-availability-matrix), the default values will be "No" for all fields. 
 - Note: If a customer is exempt from SuperSonics, or has opted out, Legal Language will populate on the Order Form noting that SuperSonics does not apply. In these cases, such language can only be removed or edited by the GitLab Legal Team.
   - For exemptions related to MSAs or partner deals, legal opt-out language will not populate on the Order Form. 
 
@@ -256,7 +256,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
   - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
 2. **I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?**
-  - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/#feature-availability-matrix) for more information on exemptions.
+  - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://internal.gitlab.com/handbook/product/fulfillment/#feature-availability-matrix) for more information on exemptions.
   - Note: This language is not optional and cannot be removed unless the customer opts into SuperSonics. If you would like to discuss such a scenario, tag @Sales-Support in chatter.
 3. **My customer is exempt from SuperSonics, and they have requested edits to the opt-out language on the Order Form. What do I do?**
   - Please open a [Legal Request](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) case to discuss potential edits to the language with the Legal Team.   
@@ -273,7 +273,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 
 The following resources pertaining to the SuperSonics Billing and Subscription Management Experience are for internal purposes only.
 
-- [Availability Matrix](https://internal-handbook.gitlab.io/handbook/product/fulfillment/#feature-availability-matrix)
+- [Availability Matrix](https://internal.gitlab.com/handbook/product/fulfillment/#feature-availability-matrix)
 - [Licensing Private Handbook](https://gitlab-com.gitlab.io/licensing/)
 - [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#)
 - [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7)
@@ -1180,7 +1180,7 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
 ##### Late Renewals
 - If a renewal is achieved *within 30 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
 - **Renewal opportunities must be Closed Lost if the renewal is not achieved within 30 days after the Quote Start date (Renewal Date).**
-     - See the [Late Renewal Notification & Auto Close Processes](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/#late-renewal-notification--auto-close-process) section of the handbook for details on how the system automatidally supports the 30 day late renewal policy.
+     - See the [Late Renewal Notification & Auto Close Processes](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/#late-renewal-notification--auto-close-process) section of the handbook for details on how the system automatidally supports the 30 day late renewal policy.
 - If a renewal is achieved *more than 30 days after the Renewal Date, but less than 180 days after the Renewal Date*:
   - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
   - The original Closed Lost opportunity will remain as is. A second Closed Lost opportunity will be created and closed with the inverse values of the original, to effectively cancel the original Closed Lost opportunity. This new Closed Lost opportunity will have the same close date as the new Closed Won renewal opportunity. See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
@@ -1195,8 +1195,8 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
   - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
   - Anticipated (revised) Renewal Close Date
   
-- Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that [Sales Operations can take the appropriate actions](https://internal-handbook.gitlab.io/handbook/sales/sales-operations/#late-renewal-exception-process) to exclude the opportunity from auto closure / forward the opportunity to Billing Ops for early booking.
-     -  - See the [Late Renewal Notification & Auto Close Processes](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/#steps-to-request-an-exception) section of the handbook for details on how the system automatidally supports late renewal exceptions.
+- Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that [Sales Operations can take the appropriate actions](https://internal.gitlab.com/handbook/sales/sales-operations/#late-renewal-exception-process) to exclude the opportunity from auto closure / forward the opportunity to Billing Ops for early booking.
+     -  - See the [Late Renewal Notification & Auto Close Processes](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/#steps-to-request-an-exception) section of the handbook for details on how the system automatidally supports late renewal exceptions.
 
 
 **Do I have to wait to submit my opportunity for approval?**

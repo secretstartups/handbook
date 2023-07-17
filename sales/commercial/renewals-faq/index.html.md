@@ -182,7 +182,7 @@ A: If the customer has exceed their license count (this info can be viewed under
 
 ### Other helpful resources
 
-[Auto Renewal FAQ](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/auto-renewal-old/)
+[Auto Renewal FAQ](https://internal.gitlab.com/handbook/product/fulfillment/archive/auto-renewal-old/)
 
 [How to subscribe to GitLab](https://docs.gitlab.com/ee/subscriptions/)
 

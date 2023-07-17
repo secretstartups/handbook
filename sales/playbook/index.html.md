@@ -54,10 +54,10 @@ As the account lead, your role centers on successfully orchestrating all of the 
 
 ## Sales planning
 Every Strategic Account Executive in Enterprise Sales should have a **territory plan** for how they're approaching their patch. 
-- The first step is to [create a sales territory plan](https://internal-handbook.gitlab.io/handbook/sales/territory-planning/): a collaborative, workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. It’s usually done annually and updated throughout the year. 
+- The first step is to [create a sales territory plan](https://internal.gitlab.com/handbook/sales/territory-planning/): a collaborative, workable plan for targeting the right customers and implementing goals for income and consistent sales growth over time. It’s usually done annually and updated throughout the year. 
 - Your MVP territory plan will help you prioritize your accounts. 
 - This is followed by creating [account plans](https://about.gitlab.com/handbook/sales/account-planning/) for those accounts. Every priority account identified in your territory plan should have an account plan complete and linked in the Gainsight overview in Salesforce.
-- View the territory planning template and worksheet in [our internal handbook](https://internal-handbook.gitlab.io/handbook/sales/territory-planning/). And view the [account planning template here](https://docs.google.com/presentation/d/1AcwkYebTZ9mPfGsKlzd5IvppB_cc8to9z_yUvievSL4/edit?usp=sharing).
+- View the territory planning template and worksheet in [our internal handbook](https://internal.gitlab.com/handbook/sales/territory-planning/). And view the [account planning template here](https://docs.google.com/presentation/d/1AcwkYebTZ9mPfGsKlzd5IvppB_cc8to9z_yUvievSL4/edit?usp=sharing).
 - And view additional data sources and reports in the plan template (beneath the slides) as well as at the [bottom of this page](https://about.gitlab.com/handbook/sales/playbook/#quick-links-to-common-tools).
 - If an account is moving to a new seller, use the [Account Handover issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1240) and associated process to give the new rep everything they need to best support their customer.
 
@@ -65,7 +65,7 @@ Every Strategic Account Executive in Enterprise Sales should have a **territory 
 ## Prospecting and keeping your pipeline healthy
 *View important guidance on the [Sales Prospecting](/handbook/sales/prospecting/) handbook page. The expectation for Enterprise Sellers is that they have 3.5x pipe coverage.*
 
-Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target. When forecasting, use the **[Sales Forecasting handbook page](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/)** and [Clari cheat sheet](https://docs.google.com/presentation/d/1ZvQzFrmmqsJPUIk_FxfTy5X0G59IIWDve0Rfmfw1Wec/edit#slide=id.g133719dda83_2_102) to help you.
+Generally, surprises - whether in the form of sudden, major deals or sudden, major losses - are a bad thing. We have to strive to create predictable results. At first, this seems like trying to predict the vast unknown. But if you have a strong strategy in place for your pipeline, you’ll be able to see exactly how your year will turn out well before it happens. This means better, more reliable forecasts and less stress for you on whether you’ll meet that target. When forecasting, use the **[Sales Forecasting handbook page](https://internal.gitlab.com/handbook/sales/sales-forecasting/)** and [Clari cheat sheet](https://docs.google.com/presentation/d/1ZvQzFrmmqsJPUIk_FxfTy5X0G59IIWDve0Rfmfw1Wec/edit#slide=id.g133719dda83_2_102) to help you.
 
 **Validate, validate, validate.** Effective qualification is just the first step. As you invest in a prospect, it’s important to continuously validate the opportunity throughout the sales cycle and make sure it can deliver results for you and that we are the effective solution for the prospect.
 
@@ -129,14 +129,14 @@ If you don’t have access to the items below and believe you should, open an [A
 - [The GitLab Swag store](https://shop.gitlab.com/) is another way to send thanks or share the GitLab spirit with busienss contacts or family. [View our policies on swag here.](/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/) Remember to abide by [our policies](https://about.gitlab.com/handbook/legal/anti-corruption-policy/) around gifts for prospects or customers and check with #legal in Slack if you have questions.
 
 #### **Understanding your business**
-- View internal data resources in our [internal handbook for Territory Planning here](https://internal-handbook.gitlab.io/handbook/sales/territory-planning/#data-sources).
-- Salesforce (View in Okta), including reports that contain [propensity model data](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/).
+- View internal data resources in our [internal handbook for Territory Planning here](https://internal.gitlab.com/handbook/sales/territory-planning/#data-sources).
+- Salesforce (View in Okta), including reports that contain [propensity model data](https://internal.gitlab.com/handbook/sales/propensity_models/).
 - [Clari](https://about.gitlab.com/handbook/sales/forecasting/) is used to view and document forecasting and pipeline data.
 - [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) is a data visualization tool. Your manager can send you specific dashboards relevant to your team to view.
 - [DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/) is used by SDRs who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account.
 - [Datafox](https://about.gitlab.com/handbook/business-technology/tech-stack/#datafox) is used to view relevant account information.
 - [LeanData](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/) is automatically pulled into Salesforce as data that you can use to better understand contacts and accounts. You don’t need to request access.
--[GitLab Propensity Models](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/) allow you to dive deep into data provided by our Data Science Team.
+-[GitLab Propensity Models](https://internal.gitlab.com/handbook/sales/propensity_models/) allow you to dive deep into data provided by our Data Science Team.
 
 #### **Understanding your customers current product usage**
 - [Product Usage Data in Gainsight](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#using-product-usage-data-in-gainsight) is used by your CSM and can provide you with insights into current customer usage data by use case by walking you through the relevant dashboard in Gainsight.
