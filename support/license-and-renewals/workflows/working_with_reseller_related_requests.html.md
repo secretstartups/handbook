@@ -14,7 +14,7 @@ Reseller is another word for [Channel Partner](https://about.gitlab.com/handbook
 Note that an [Alliance Partner](https://about.gitlab.com/handbook/support/partnerships/alliance.html)
 is different from a Channel Partner, and is **not** a reseller. See the
 [GitLab Alliances Handbook Page](https://about.gitlab.com/handbook/alliances/) and the
-[Internal Alliances Handbook Page](https://internal-handbook.gitlab.io/handbook/alliances/)
+[Internal Alliances Handbook Page](https://internal.gitlab.com/handbook/alliances/)
 for more on alliances.
 
 When a customer purchases through a reseller we follow different workflows than

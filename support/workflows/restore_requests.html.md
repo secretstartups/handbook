@@ -27,7 +27,7 @@ Use this workflow when a customer requests that we restore data from GitLab SaaS
 
 1. Reply to the ticket with the [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml) macro.
 
-For further guidance in these cases, please see the [internal handbook](https://internal-handbook.gitlab.io/handbook/support/#data-restore-requests-exemptions).
+For further guidance in these cases, please see the [internal handbook](https://internal.gitlab.com/handbook/support/#data-restore-requests-exemptions).
 
 **If the criteria for restoration is met:**
 

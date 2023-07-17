@@ -21,7 +21,7 @@ and refer that your role entitles you to access with
 ### License types
 
 
-An overview of the different licenses types can be seen in this [handbook page](https://internal-handbook.gitlab.io/handbook/product/fulfillment/definitions/#licensing-terms) (internal only).
+An overview of the different licenses types can be seen in this [handbook page](https://internal.gitlab.com/handbook/product/fulfillment/definitions/#licensing-terms) (internal only).
 
 The type of the License object associated to a subscription version can be identified by using the info below:
 
