@@ -170,14 +170,13 @@ No, not at this time.
 | [Palwasha Malik](https://www.linkedin.com/in/palwasha-malik/) | Non-GitLab shadow - Software developer at [Devsinc](https://devsinc.com/)  |
 | [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadow - Independent software engineer |
 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
+| [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
+
 
 ## Schedule
 
-
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| July 3 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
-| July 10    |  [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
 | July 17    |  [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | CS Student at [University of Virginia](https://www.virginia.edu/) |
 | July 24    |  Available | |
 | July 31    |  Available | |
