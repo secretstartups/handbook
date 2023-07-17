@@ -16,7 +16,7 @@ description: "GitLab Data Science Team Handbook"
 **PURPOSE: This page is focused on the operations of GitLab's internal _Data Science Team_. For information about GitLab's Product Data Science Capabilities, please visit [GitLab ModelOps](https://about.gitlab.com/direction/modelops/)**
 {: .alert .alert-success}
 
-`Last Updated At: 2023-05-18`
+`Last Updated At: 2023-07-13`
 
 # The Internal Data Science Team at GitLab
 
@@ -154,23 +154,25 @@ Maturity of data science projects is similar to the [GitLab product maturity mod
 
 - Organizational Sponsor: Customer Success
 - Use Cases: [Issue](https://gitlab.com/gitlab-data/analytics/-/issues/14907)
-- Plans for next iteration: Churn forecasting (in progress), PtC refresh (Q3)
+- Plans for next iteration: Churn forecasting (in progress, Q2), Downtier Measure (Q3), PtC refresh (Q4)
 - Slack Channel (internal only): [#data-propensity-projects](https://gitlab.slack.com/archives/C02172C5KH7)
 - Repositories (internal only): 
    - [Propensity to Contract](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn)
    - [Propensity to Downtier](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-downtier)
+   - [Churn Forecasting](https://gitlab.com/gitlab-data/data-science-projects/churn-forecasting)
 - Read-outs (internal only): 
    - [PtC slide deck](https://docs.google.com/presentation/d/1Gd-GhHhWHHc1N8zJtLGKtNF4W2T9d82Sv_fZ_j2236U/edit#slide=id.g29a70c6c35_0_68)
    - [Downtier Executive Read Out](https://docs.google.com/presentation/d/1kcTPP5NKnqTKnOTm2HGSSVsYP3x6TdeKGxv28U702yo/edit#slide=id.g1b861242c79_0_522)
    - [Downtier Read Out](https://docs.google.com/presentation/d/13xcuQE6G3alvHoklWvmDm-MOIb0V7QhckgXCd5IHHuc/edit#slide=id.g123a13deda8_0_405)
    - [Sales Leadership Readout - PtC for June - Aug 2022](https://docs.google.com/presentation/d/1eTG6U3EaxXK06P2-IsFUzwfesJKtDNZJQ37qKJYi-vM/edit#slide=id.g17b7d66f003_0_11)
    - [Sales Leadership Readout - PtC for Sep 2022 - Mar 2023](https://docs.google.com/presentation/d/1waIKnjnL6lA1UKH-Fc2BYdOw6gtjiBKkmlyl6F8YFEw/edit#slide=id.g218452df868_0_1099)
+   - [Churn Forecasting - July 2023](https://docs.google.com/presentation/d/1hiukpYHzopsTWH0CWnS_2uah9G2TLq_JOMojQz4mZao/edit#slide=id.g25880664535_2_278)
 - Dashboards (internal only):
    - [PtC Inspector](https://app.periscopedata.com/app/gitlab:safe-dashboard/971581/PtC-Inspector)
    - [PtC Results Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1055609/PtC-Performance-Results)
    - [Health of Ultimate Accounts Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/1098020/Health-of-Ultimate-Accounts)
 - Data sources:  Product usage: SaaS & Self-Managed - paid tiers; Product stage usage: SaaS & Self-Managed - paid tiers; Salesforce (account, opportunities, events, tasks); Zuora (billing); Bizible (marketing); ZenDesk (help tickets); Firmographics, account health fields; security score
-   - Future sources: # of answered emails, ratio sent/answered emails
+   - Future sources: # of answered emails, ratio sent/answered emails, sales activity (Gainsight)
 
 ### Conversion
 
