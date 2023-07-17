@@ -72,7 +72,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 * **Opening:** If you have multiple openings, you are typically choosing the one that started the earliest. You can check the approvals tab to confirm this, but you should also be able to tell based on the smallest opening number. Choosing the earliest opening helps ensure an accurate Time to Fill. 
 
 
-* **Start date:** New hires start on Monday, with exceptions made for public holidays for a new hires’ location, Family & Friends Day, and other designated [no start dates](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) as chosen by People Connect. Additionally, internal hires with salary changes start on the 1st or 16th only (regardless of the day of the week), and those in Sales can only start on the 1st.
+* **Start date:** New hires start on Monday, with exceptions made for public holidays for a new hires’ location, Family & Friends Day, and other designated [no start dates](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/people_connect_team/) as chosen by People Connect. Additionally, internal hires with salary changes start on the 1st or 16th only (regardless of the day of the week), and those in Sales can only start on the 1st.
 
 
 * **Job Title:** It’s important that we use the correct title, which should not include a specialty. People Managers have “Manager, “ before the rest of their title, whereas individual contributors will have the title followed by Manager. Total Rewards will review this title to ensure it matches with those in WorkDay. In some cases, such as Area Sales Manager, industry standards indicate that our expected conventions will not work and exceptions are made. 
@@ -215,7 +215,7 @@ Information in the offer package for counter offers should include the following
 Once the offer is approved in Greenhouse and references are completed, a candidate can be moved to the Background Check and Offer stage and an offer will be verbalized to the candidate by the Recruiter or Hiring Manager. _**Please note:** verbal offers should not be made to candidates in Japan until after a clear background check has been received. If the offer is ready to be verbalized but the background check is not yet complete, the hiring manager or recruiter can let the candidate know that they would like to make an offer, but it is contingent upon their background checking coming back clear._
 
 Offer details usually include:
-- [Start Date](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/people_connect_team/) - ensure that the candidates start date is not a no-start date (unless needed for legal reasons). They should never start on a National holiday in the country when they are located, and anticipate that the People Connect team requests at least 10 days' notice from the time the candidate is marked as hired until their start date.
+- [Start Date](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/people_connect_team/) - ensure that the candidates start date is not a no-start date (unless needed for legal reasons). They should never start on a National holiday in the country when they are located, and anticipate that the People Connect team requests at least 10 days' notice from the time the candidate is marked as hired until their start date.
 - Job Title
 - Salary
 - General and specific [benefits](/handbook/total-rewards/benefits/)

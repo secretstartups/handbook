@@ -42,12 +42,12 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 ## Team Process Pages
 
-- [TA Key Performance Indicators](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
+- [TA Key Performance Indicators](https://internal.gitlab.com/handbook/people-group/talent-acquisition/key-performance-indicators/) Note: this page is currently in our internal handbook as they are a work in progress.
 - [Meeting Cadence](/handbook/hiring/meetings/)
 - [Talent Acquisition Alignment](/handbook/hiring/recruiting-alignment/)
 - [Diversity, Inclusion & Belonging Talent Acquisition Initiatives](/company/culture/inclusion/talent-acquisition-initiatives/)
 - [Triad Process](/handbook/hiring/talent-acquisition-framework/triadprocess/)
-- [Quarterly Updates](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/quarterly-updates/) Note: Internal only
+- [Quarterly Updates](https://internal.gitlab.com/handbook/people-group/talent-acquisition/quarterly-updates/) Note: Internal only
 
 <details>
 <summary markdown="span">Shared Definitions</summary>
@@ -150,7 +150,7 @@ Please find pages for potential and active applicants below.
 
 <details><summary markdown="span">Req access and permissions</summary>
 
-  * As a member of the Talent Acquisition team, you have the ability to add team members to view your job with differing layers of access. By default, all team members can access the interview kit & scorecard of someone they’re interviewing and this access does not need to be granted. For team members who require additional access, such as a Hiring Manager or their EBA, you will need to grant that access where appropriate. You can use [this guide](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/enablement-team/#greenhouse-admin-instructions) to help determine the appropriate access. <br>
+  * As a member of the Talent Acquisition team, you have the ability to add team members to view your job with differing layers of access. By default, all team members can access the interview kit & scorecard of someone they’re interviewing and this access does not need to be granted. For team members who require additional access, such as a Hiring Manager or their EBA, you will need to grant that access where appropriate. You can use [this guide](https://internal.gitlab.com/handbook/people-group/talent-acquisition/enablement-team/#greenhouse-admin-instructions) to help determine the appropriate access. <br>
   * As you are deciding what access level someone should have, default to the setting that allows the most confidentiality for a candidate. If a team member does not need access to scorecards, for example, we should be choosing an access level that does not allow them to see them. A job admin (someone with higher level permissions) typically should not be at the same level or a direct report of a job they have access to. Recruiters typically grant only Hiring Manager access - interviewers do not need special access and cannot access scorecards or cadidate profiles through Greenhouse.<br>
   * To add or remove access in a job, go to ‘job setup’ and click ‘hiring team’. Add or remove access under “Who can see this job?”. Unfortunately, there is no way to bulk add or remove access. You can also add and remove access when creating your job from a template. If you are searching for a team member and cannot find their name, ensure that you do not have filters activated. **Do not grant admin access through templates,** because this could create problems in the future.
   </details>
@@ -404,7 +404,7 @@ Processing for the United Arab Emirates could take up to a month, so we recommen
 - [Background checks](/handbook/people-policies/#background-checks)
 - [Benefits](/handbook/total-rewards/benefits/)
 - [Compensation](/handbook/total-rewards/compensation/)
-- [Contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/)
+- [Contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/)
 - [GitLab talent ambassador](/handbook/hiring/gitlab-ambassadors/)
 - [Onboarding](/handbook/people-group/general-onboarding)
 - [Stock options](/handbook/stock-options)

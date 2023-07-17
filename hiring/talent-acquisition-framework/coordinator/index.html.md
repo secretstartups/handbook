@@ -271,7 +271,7 @@ It's important to note that the USA Reference Check form should be sent to the c
 In the form, you'll find a question that informs the candidate that they will be required to sign an Employee Invention Assignment Agreement. They are asked for invention disclosures. If they state "none" or "n/a", you can skip this step. If the candidate discloses any outside activities, CES will take the following steps: 
 1. Email the Team through Greenhouse using the template `CES - PIAA Disclosed`.
 2. Fill out the email template with the hiring managers name and a screen shot of the disclosed information. This email will be sent to the People Connect Team at  people-connect@gitlab.com. **Please rember to put the name of the candidate in the email subject line.** 
-People Connect will follow our standard process per the [internal handbook](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Reach out to legal_employment@gitlab.com with any questions about things written in a PIAA.
+People Connect will follow our standard process per the [internal handbook](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#piaa). Reach out to legal_employment@gitlab.com with any questions about things written in a PIAA.
 
 **Outside Work**
 
@@ -316,7 +316,7 @@ These calls don’t require you to submit a scorecard in Greenhouse. If a candid
 
 The [Candidate Experience Specialists](https://handbook.gitlab.com/job-families/people-group/candidate-experience/) will prepare the contract. While the Candidate Experience Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1 business day. If the contract is time-sensitive, please provide context for the rush. If the Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter and CES manager via Greenhouse and will provide context.
 
-Recruiters should make themselves familiar with the basic knowledge of the contract processes that can be found on the [CES Contract Processes](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#framework-coord) page and the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/#employment-agreements) page, as well as the [Employment Contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/) page in the internal handbook.
+Recruiters should make themselves familiar with the basic knowledge of the contract processes that can be found on the [CES Contract Processes](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#framework-coord) page and the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/#employment-agreements) page, as well as the [Employment Contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/) page in the internal handbook.
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
@@ -360,7 +360,7 @@ Prominent reasons for urgent hires are Critical Skill Gap / New business opportu
 
 ### Next Steps
 
-People Connect Specialist will create the onboarding issue and start the [onboarding tasks](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/) no later than two weeks before the new team member joins. Should a contract not be signed prior to 10 working days from the start date, a new start date will be required.
+People Connect Specialist will create the onboarding issue and start the [onboarding tasks](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/) no later than two weeks before the new team member joins. Should a contract not be signed prior to 10 working days from the start date, a new start date will be required.
 
 For questions about the new team member's onboarding status, you can @mention them in the `#people-connect-ces` Slack channel.
 

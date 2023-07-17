@@ -32,7 +32,7 @@ This group meets once a week to audit the centralized headcount report for their
 #### Timeline
 **Mondays - 12pm PT** FP&A and TA delegates refresh inputs to weekly report
 - Weekly - Triad Reviews live hiring plan and makes any updates needed for Adaptive/GH in shared Interlock sheets by cost center - [Sales/CRO](https://docs.google.com/spreadsheets/u/0/d/1DkrAGp4lfYJ-mQGKbTEb8uNmxvIwUHWpak2Zaz8zO7U/edit), [Marketing](https://docs.google.com/spreadsheets/u/0/d/1Ok3-lqAyhjvK5mDeenxfIyl0DYFsCwRT2jsdp-Zql_g/edit), [G&A](https://docs.google.com/spreadsheets/u/0/d/1y0aPc9d_XxWqiIWpYnbQ4jBZ7kWfpAqKWISsnAuyAKE/edit) and [R&D](https://docs.google.com/spreadsheets/u/0/d/19xRXa23hQP6Tkfodz8R18RD2lhO0WufFtg9HIXy0AI0/edit). Weekly snapshot is shared to Finance and People Senior Leadership. <br>
-TA Leadership Enablement for these sheets can be found [here](https://internal-handbook.gitlab.io/handbook/people-group/talent-acquisition/talent-acquisition-reporting-+-tools/).
+TA Leadership Enablement for these sheets can be found [here](https://internal.gitlab.com/handbook/people-group/talent-acquisition/talent-acquisition-reporting-+-tools/).
 
 **Wednesdays - 5pm PT** TA Directors (DRIs) run audit and surface inconsistencies. Action where available and drive conversation at interlock meeting when needed.
 
