@@ -44,7 +44,7 @@ To see an overview of the FY24 ABM Strategy, GitLab team members can review this
 ### FY24 Focus Countries
 {: #focus-countries .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-ABM team focus countries can be found [here](https://internal-handbook.gitlab.io/handbook/sales/globalization/#globalization) in the internal handbook. 
+ABM team focus countries can be found [here](https://internal.gitlab.com/handbook/sales/globalization/#globalization) in the internal handbook. 
 
 ## ABM Key Account List
 {: #abm-key-account-list .gitlab-purple}
