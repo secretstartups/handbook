@@ -17,6 +17,11 @@ The resources in this page are meant to support product designers, researchers, 
 
 Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](/handbook/spending-company-money/).
 
+## Mentoring and coaching
+
+### College-level course involvement
+- [GitLab-sponsored Tufts University Human Factors/Engineering Psychology Capstone Course](/handbook/product/ux/learning-and-development/tufts-university-capstone-course)
+
 ## Product design 
 
 ### Books
