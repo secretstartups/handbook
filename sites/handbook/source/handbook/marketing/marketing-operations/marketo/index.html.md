@@ -155,8 +155,8 @@ Starting in November 2022, teams within Marketo will transition to utilizing the
 
 Data and engineering teams have developed integrations to bring data related to in-product customer and trial usage to Marketo. 
 
-1. [Marketing Contact Datamart & Pump](https://internal-handbook.gitlab.io/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
-2. [SaaS Trial & Handshakes](https://internal-handbook.gitlab.io/marketing-operations/product-data/#saas-trials--handraise) : Fields start with `[PQL]`
+1. [Marketing Contact Datamart & Pump](https://internal.gitlab.com/marketing-operations/product-data/#marketing-datamart-pump-and-pql-information-email-marketing-data-mart): Fields start with `[CDB]`
+2. [SaaS Trial & Handshakes](https://internal.gitlab.com/marketing-operations/product-data/#saas-trials--handraise) : Fields start with `[PQL]`
 3. [Propensity to Buy Models](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/#conversion): Fields start with [PTPT] - Trial users only at the moment
 
 ### Campaign Limits

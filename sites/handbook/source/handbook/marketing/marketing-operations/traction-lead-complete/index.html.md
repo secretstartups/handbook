@@ -27,7 +27,7 @@ Traction assigns each MQL (Marketing Qualified Lead) to the member of the Sales 
 
 ##  Lead Routing Workflow
 
-To read in more detail how our lead routing logic is set up, please visit the internal handbook page on [Traction](https://internal-handbook.gitlab.io/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/traction/). 
+To read in more detail how our lead routing logic is set up, please visit the internal handbook page on [Traction](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/traction/). 
 
 
 ## Partner Lead Assignment 
