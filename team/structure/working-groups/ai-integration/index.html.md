@@ -86,7 +86,7 @@ The table below lists all exit criteria for the working group. This is the [top-
 | Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Analytics, Govern, ModelOps, and Secure |
 | Functional Lead - UX             | @pedroms  | [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms)   | Staff Product Designer |
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
-| Pricing representative             | @seanhall | [Sean Hall](https://about.gitlab.com/company/team/#seanhall)   | Principal Pricing Manager, Product |
+| Pricing representative             | TBH | TBH  | Principal Pricing Manager, Product |
 | Product representative             | @mushakov | [Melissa Ushakov](https://about.gitlab.com/company/team/#mushakov)   | Group Manager, Product - Plan |
 | Product representative             | @sarahwaldner | [Sarah Waldner](https://about.gitlab.com/company/team/#sarahwaldner)   | Group Manager, Product - Create |
 | Product representative             | @abellucci| [Alana Bellucci](https://about.gitlab.com/company/team/#abellucci)   | Senior Product Manager, Govern:Threat Insights |
