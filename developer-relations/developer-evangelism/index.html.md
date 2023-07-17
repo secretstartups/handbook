@@ -49,7 +49,7 @@ When differentiating this approach from traditional developer relations programs
 
 ### KPIs
 
-The [FY24 Marketing Strategy](https://internal-handbook.gitlab.io/handbook/marketing/fy24-strategy/#marketing-customer-journey) (internal only) shows a Customer Journey with five stages: Awareness, Consideration, Conversion, Expansion, and Evangelism. While our team can influence people at each stage, we are primarily focused on Awareness and Evangelism.
+The [FY24 Marketing Strategy](https://internal.gitlab.com/handbook/marketing/fy24-strategy/#marketing-customer-journey) (internal only) shows a Customer Journey with five stages: Awareness, Consideration, Conversion, Expansion, and Evangelism. While our team can influence people at each stage, we are primarily focused on Awareness and Evangelism.
 
 Awareness and Evangelism are generated through the content we create, the events we support, and the other activities that help us reach more developers. The KPIs we use to measure our impact on these two stages are:
 - views from content published across owned and earned channels
