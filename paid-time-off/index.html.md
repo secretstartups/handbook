@@ -176,7 +176,7 @@ In the United States, team members may experience a qualifying condition under t
 
 #### Sick Time Procedures - Netherlands
 
-Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/employment_contracts/):
+Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/):
 
 - Team members must notify their manager of any sick leave needed.
 - Team members must then enter the sick time via Time Off by Deel as aligned above.
