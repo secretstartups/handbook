@@ -898,7 +898,7 @@ This aligns with how we work since everything at GitLab is [public by default](/
 
 #### Daily Sync Escalation Process
 
-GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/company/daily-sync-escalation-process/).
+GitLab has a specific process to follow in crisis situations to ensure effective communications. Details can be found in the [internal handbook](https://internal.gitlab.com/handbook/company/daily-sync-escalation-process/).
 
 
 ## Presentations
