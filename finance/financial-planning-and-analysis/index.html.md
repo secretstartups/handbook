@@ -85,7 +85,7 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Set annual quota assignments for revenue producing roles
 
 #### FY24 Plan
-Final FY24 Planning documents are on Google Drive, please find the links in the [Internal Handbook](https://internal-handbook.gitlab.io/handbook/finance/documents/). These include:
+Final FY24 Planning documents are on Google Drive, please find the links in the [Internal Handbook](https://internal.gitlab.com/handbook/finance/documents/). These include:
 
 - FY24 Plan Board Approval Presentation
 - FY24 Plan SSOT Hiring List

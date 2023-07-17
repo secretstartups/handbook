@@ -8,4 +8,4 @@ title: "Sales Compensation Plan"
 
 - TOC
 {:toc .toc-list-icons .hidden-md .hidden-lg}
-FY23 Compensation T&Cs can be found in the Internal Handbook: https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#fy23-sales-commission-policies
+FY23 Compensation T&Cs can be found in the Internal Handbook: https://internal.gitlab.com/handbook/sales/sales-commission/#fy23-sales-commission-policies

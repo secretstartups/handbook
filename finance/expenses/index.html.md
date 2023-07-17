@@ -138,7 +138,7 @@ All amounts listed below are in USD. Your Navan Profile will default your base c
     <td class="tg-btxf">6040 - Office Supplies</td>
     <td class="tg-btxf">5040 - Office Supplies COGS</td>
     <td class="tg-btxf">Office Supplies</td>
-    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per quarter. Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.</td>
+    <td class="tg-btxf">To be ordered via Moo, attach receipt from Moo. Refer to the <a href="https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards"><span style="color:#905">Ordering Business Cards</span></a>.<br> -  $15 per quarter. Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Car Rental</td>
