@@ -33,7 +33,7 @@ These assets have two different purposes:
 
 All our internal competitive intelligence (competitor cards, internal webinars and documents) are hosted on our [Highspot page](https://gitlab.highspot.com/spots/615dd78be6303bc4429268a1), leveraging our [Crayon](app.crayon.co) competitive intelligence tool, which hosts the competitor cards. 
 
-For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal-handbook.gitlab.io/handbook/marketing/brand-and-product-marketing/)
+For more information on Crayon, see our [competitive intelligence page in the internal handbook](https://internal.gitlab.com/handbook/marketing/brand-and-product-marketing/)
 
 Access to Crayon has been opened to all our Sales, Product, Engineering, and Marketing teams. You can access Crayon through the Okta tile (search for it within Okta if it doesn't appear on your list). In the spirit of the GitLab value of collaboration, all accounts are given "collaborator" level access, meaning all users can create and edit content in the same way as the competitive intelligence team. Users may be downgraded to "viewer" access if necessary.
 
