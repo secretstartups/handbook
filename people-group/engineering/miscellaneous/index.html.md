@@ -46,7 +46,7 @@ Once per day, closed issues in the [training project](https://gitlab.com/gitlab-
 
 Every hour, a scheduled job checks the letter of employment requests spreadsheet for new entries. For each entry, a letter of employment will be generated using the team member's Workday data. The letter is then sent directly to the team member's work email address.
 
-To retrieve your letter of employment, please use the process in the internal handbook [here](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/frequently_requested/#letter-of-employment).
+To retrieve your letter of employment, please use the process in the internal handbook [here](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested/#letter-of-employment).
 
 ## Entities sync
 

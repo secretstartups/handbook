@@ -174,7 +174,7 @@ Note that calibration structure may vary by division and department depending on
 
 ### Engineering Promotion Feedback Pilot
 
-In the Engineering Division, we are piloting a formal process for incorporating peer feedback into the promotion process for Engineers who are pursuing a promotion to an individual contributor role at a Staff level or higher as outlined in our [individual contributor job framework](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/career-development-resources/).
+In the Engineering Division, we are piloting a formal process for incorporating peer feedback into the promotion process for Engineers who are pursuing a promotion to an individual contributor role at a Staff level or higher as outlined in our [individual contributor job framework](https://internal.gitlab.com/handbook/people-group/people-operations/career-development-resources/).
 
 We will incorporate feedback from 2-3 individuals who work directly, closely, and regularly with the team member. Feedback can be from team members within Engineering, or from stakeholders that work closely with the team member (these could be individuals within Engineering, or stable counterparts in other divisions, I.E. Product). Ideally, we would have a mix of both Engineering and cross-functional feedback for completeness and balance. 
 
@@ -784,7 +784,7 @@ The team member going through this transition and assigned to their Career Mobil
 
 ## Promotions and Transfers of Employees in Commissionable Roles
 
-This section describes the steps required for promoting or transferring employees with a [Sales Commission Plan](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#fy23-sales-commission-policies). When a promotion or transfer occurs, it is important for Sales Managers to follow specific steps to ensure a smooth employee experience during the transition. The Sales Operations, Sales Finance, and the Commissions team need to be informed so the necessary systems can be updated and the team member can receive a new compensation plan. 
+This section describes the steps required for promoting or transferring employees with a [Sales Commission Plan](https://internal.gitlab.com/handbook/sales/sales-commission/#fy23-sales-commission-policies). When a promotion or transfer occurs, it is important for Sales Managers to follow specific steps to ensure a smooth employee experience during the transition. The Sales Operations, Sales Finance, and the Commissions team need to be informed so the necessary systems can be updated and the team member can receive a new compensation plan. 
 
 **Note** These steps are in addition to all other steps required for promotions and transfers in partnership with the People team. 
 
@@ -810,7 +810,7 @@ This section describes the steps required for promoting or transferring employee
 3. The quotas are submitted to the Commissions team to then add to the Xactly system where all commissions are managed and monitored.  
 4. Issue new compensation plan to the **New** Sales Manager for approval and release to team member. 
 
-[^1]: During fiscal year planning, Sales Strategy and Analytics work closely with Sales Management to assign values (full quota) to all the different Sales Territories. When a new sales employee joins, their ASM assigns them a territory (at which point there is a pre-determined value), and Sales Commissions applies a [ramp schedule](https://internal-handbook.gitlab.io/handbook/sales/sales-commission/#month-1-ramp-schedule) based on the employee's start date and role to arrive at their carried quota.
+[^1]: During fiscal year planning, Sales Strategy and Analytics work closely with Sales Management to assign values (full quota) to all the different Sales Territories. When a new sales employee joins, their ASM assigns them a territory (at which point there is a pre-determined value), and Sales Commissions applies a [ramp schedule](https://internal.gitlab.com/handbook/sales/sales-commission/#month-1-ramp-schedule) based on the employee's start date and role to arrive at their carried quota.
 
 
 ## For Team Members: Transitioning To A New Manager
