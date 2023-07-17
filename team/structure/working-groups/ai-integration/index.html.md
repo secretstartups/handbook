@@ -45,7 +45,7 @@ We want to enable all product teams to be able to use advanced AI capabilities f
 
 The working group will facilitate fast experimentation and prototyping of AI capabilities. We will also advise on what must be considered (and in some cases, get explicit approval on) before moving to production, including legal approval, ethical use of AI, potential necessary changes to terms of service, performance implications, hosting cost implications, infrastructure readiness, security readiness, licensing of 3rd party software/services, appropriate GitLab licensing levels for features, value add in helping users achieve their goals and needs, etc.
 
-More information on the effort and plans can be found in the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/).
+More information on the effort and plans can be found in the [internal handbook](https://internal.gitlab.com/handbook/product/ai-strategy/ai-integration-effort/).
 
 ### Goals
 

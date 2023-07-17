@@ -28,7 +28,7 @@ enhancements. This will be accomplished through the creation and publication of 
 security policy and proposed fixes for the high risk and low effort token management issues. With
 this, the Token Management Working Group will set up the fast follow on mid to long term token
 management security enhancement effort for success. For additional detail please visit our 
-[Token Leaks internal handbook page](https://internal-handbook.gitlab.io/handbook/engineering/security/token-leaks/).
+[Token Leaks internal handbook page](https://internal.gitlab.com/handbook/engineering/security/token-leaks/).
 All the tokens will be stored in GitLab the application as we ship it to users and customers. By
 dogfooding these enhancements and making improvements to meet our own security needs, we will
 improve token management and protection of secrets for all users, becoming better stewards of our
