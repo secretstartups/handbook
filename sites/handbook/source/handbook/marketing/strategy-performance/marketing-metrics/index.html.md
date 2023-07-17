@@ -180,7 +180,7 @@ GitLab counts the number of SaaS trial signups by counting the number of Inquiri
 GitLab measures the Trial-to-Paid conversion rate by looking at the number of top-level group namespaces created for business use by time period, then finding the percent of those namespaces that became paying after 45 days from their trial start date.
 
 We do not count every namespace trial. Instead, we only include those with the following criteria:
- - Only trials considered [Valuable Signups](https://internal-handbook.gitlab.io/handbook/marketing/growth/growth/#valuable-signup-metric)
+ - Only trials considered [Valuable Signups](https://internal.gitlab.com/handbook/marketing/growth/growth/#valuable-signup-metric)
  - First time going through the trial
  - Top-level namespaces
  - Non-GitLab company related namespaces.
