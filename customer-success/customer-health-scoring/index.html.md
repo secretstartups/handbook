@@ -282,8 +282,8 @@ Predictive Analytics is not a silver bullet. It will not cure all that ails you.
 
 | Prediction Type | Model Name | Status | Description | 
 | :--: | :--: | :--: | :--: | 
-| Expansion | [Propensity To Expand (PTE)](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to expand (increase ARR) |
-| Churn and Contraction | [Propensity To Churn or Contract (PTC)](https://internal-handbook.gitlab.io/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to churn or contract (decrease ARR) |  
+| Expansion | [Propensity To Expand (PTE)](https://internal.gitlab.com/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to expand (increase ARR) |
+| Churn and Contraction | [Propensity To Churn or Contract (PTC)](https://internal.gitlab.com/handbook/sales/propensity_models/) | Active | Predicts whether an account is likely to churn or contract (decrease ARR) |  
 
 ### Appetite and ability to expand (Seats, uptier)
 
@@ -354,7 +354,7 @@ Indicators from Seat Reduction or Downtier above plus:
 - [Customer Analytics Roadmap (internal-only document)](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gb3e6c0a32e_0_5) (slide deck)
 - [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
 - [Operational Data Vision](/handbook/customer-success/product-usage-data/)
-- [Cloud Licensing Documentation](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
-- [Strict Cloud Licensing](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
+- [Cloud Licensing Documentation](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
+- [Strict Cloud Licensing](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
 - [Service Ping Metrics list](https://metrics.gitlab.com/) (subscription, operational, and optional)
-- [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)
+- [Operational Service Data](https://internal.gitlab.com/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)

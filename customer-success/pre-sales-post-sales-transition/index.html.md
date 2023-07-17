@@ -61,7 +61,7 @@ In order to ensure the CSM workload is distributed effectively, SAs should reach
 - Salesforce link to the Account
 - Salesforce link to the Opportunity
 - Expected Close Date
-- [Landed Addressable Market (LAM)](https://internal-handbook.gitlab.io/handbook/sales/lam/) (GitLab internal Link) of the Account
+- [Landed Addressable Market (LAM)](https://internal.gitlab.com/handbook/sales/lam/) (GitLab internal Link) of the Account
 
 After a CSM is assigned by the manager, the SA should arrange an internal [account team](/handbook/customer-success/account-team/) meeting.
 

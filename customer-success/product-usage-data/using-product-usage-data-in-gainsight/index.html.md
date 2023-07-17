@@ -296,7 +296,7 @@ When they activate with Cloud Licensing, customers share `Subscription Data`, wh
    - Available on 14.1+
    - [Cloud Licensing Overview](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/)
 - **Service Ping**: a service that collects the payload including Subscription, Operational, and Optional Metrics
-   - [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) - internal handbook
+   - [Operational Service Data](https://internal.gitlab.com/handbook/product/fulfillment/archive/operational-service-data/#register) - internal handbook
 - **Operational Metrics**: a subset of Service Ping containing product usage data that is required to collect the core metrics required metrics per [Customer Success Services](https://about.gitlab.com/services/customer-success-services/))
   -. Available on 14.1+
 
@@ -304,10 +304,10 @@ When they activate with Cloud Licensing, customers share `Subscription Data`, wh
 
 - [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) (client facing)
 - [Operational Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
-- [Cloud Licensing Documentation](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
-- [Strict Cloud Licensing](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
+- [Cloud Licensing Documentation](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) (internal handbook)
+- [Strict Cloud Licensing](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/strictcloudlicensing/) (internal handbook)
 - [Service Ping Metrics list](https://metrics.gitlab.com/) (subscription, operational, and optional)
-- [Operational Service Data](https://internal-handbook.gitlab.io/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)
+- [Operational Service Data](https://internal.gitlab.com/handbook/product/fulfillment/archive/operational-service-data/#register) (internal handbook)
 
 #### Service Ping (self-managed)
 

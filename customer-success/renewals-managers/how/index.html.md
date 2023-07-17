@@ -13,7 +13,7 @@ View the Renewals Manager handbook pages:
 - [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/home) - Information about the organization.
 - [What we do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what) - Information about what tasks and activities renewals managers perform.
 
-Renewals Managers --> visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) for more information.
+Renewals Managers --> visit the internal handbook [page](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/) for more information.
 
 ---
 

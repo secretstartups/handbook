@@ -141,7 +141,7 @@ Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the th
 ## Limitations
 1. Some customers have been given an exception for sending usage data. 
    1. [Cloud licensing and the support exemption process explained](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html)
-   1. [INTERNAL - Customer Availability, Eligibility & Opt-Out](https://internal-handbook.gitlab.io/handbook/product/fulfillment/cloudlicensing/cloud-licensing/#customer-availability-eligibility--opt-out)
+   1. [INTERNAL - Customer Availability, Eligibility & Opt-Out](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/#customer-availability-eligibility--opt-out)
    1. [Cloud Licensing Adoption Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/WIPCloudLicensingPOC/CloudLicensingAdoption?:iid=1)
    1. **Resolution**: Exceptions are considered valid reasons for a customer to not be sending data. However, we have made more exceptions than planned and will be working on enablement on removing exceptions at time of renewal wherever possible.
 1. All user-based metrics use `licenses sold` as the denominator. This means that while we can see the OVERALL value an account is paying for, we will not see if a new or recently upgraded subscription finds value with a small portion of their `billable users`. E.g., if a customer purchased 500 licenses, but has only deployed 50 licenses (`billable users`), then the account will show red for user-based health scores

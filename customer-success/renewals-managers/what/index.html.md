@@ -12,7 +12,7 @@ View the Renewals Manager handbook pages:
 - [Home](https://about.gitlab.com/handbook/customer-success/renewals-managers/home) - Information about the organization.
 - [How We Do It](https://about.gitlab.com/handbook/customer-success/renewals-managers/how) - Information about how renewals managers execute on the mission.
 
-Renewals Managers --> visit the internal handbook [page](https://internal-handbook.gitlab.io/handbook/sales/go-to-market/renewals/) for more information.
+Renewals Managers --> visit the internal handbook [page](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/) for more information.
 
 
 ---
@@ -37,7 +37,7 @@ The Renewals team primarily uses these key fields on Renewal Opportunities:
 - `Next Steps History` - the record of previous Next Steps
 
 ## Forecasting
-- `Renewal Forecast Health` [link](https://internal-handbook.gitlab.io/handbook/sales/sales-forecasting/#forecast-category-and-renewal-forecast-health-fields) - Red, Yellow, Green health rating based on the Net ARR field
+- `Renewal Forecast Health` [link](https://internal.gitlab.com/handbook/sales/sales-forecasting/#forecast-category-and-renewal-forecast-health-fields) - Red, Yellow, Green health rating based on the Net ARR field
 - `Renewal Risk Category` - used to categorize the magnitude of risk on a Renewal and if the risk is Actionable
 - `ARR Basis` - the revenue that is Available to Renew (ATR)
 - `Amount` - the forecasted revenue for the deal
