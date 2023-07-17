@@ -207,8 +207,8 @@ If you require project-based access, you can request temporary developer access 
 
 #### Where can it be found?
 
-- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/main/content)
-- [Live Website](https://internal-handbook.gitlab.io)
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal.gitlab.com/-/tree/main/content)
+- [Live Website](https://internal.gitlab.com)
 
 #### Why is there a internal handbook?
 
@@ -221,13 +221,13 @@ Only add items to the internal handbook that fall into the [not public](/handboo
 #### Accessing the internal handbook group.
 
 All team members will have this added to their Okta access when they join the company. Login to your Okta dashboard and click on the  `GitLab Internal Handbook` tile. You will have to authenticate with Okta first.
-- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source)
-- [Website](https://internal-handbook.gitlab.io)
+- [Internal Handbook Project](https://gitlab.com/internal-handbook/internal.gitlab.com/-/tree/master/source)
+- [Website](https://internal.gitlab.com)
 
 #### Updating the Internal Handbook
 
-1. You are on the [live internal handbook website](https://internal-handbook.gitlab.io/)
-1. Click "Open in Web IDE" on the top right of the page. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/tree/master/source).
+1. You are on the [live internal handbook website](https://internal.gitlab.com/)
+1. Click "Open in Web IDE" on the top right of the page. It will take you to the [Internal Handbook Project](https://gitlab.com/internal-handbook/internal.gitlab.com/-/tree/master/source).
 1. Make edits in the same way that you would with Web IDE on the public handbook site.
 1. If there is already a section you want to add to, you can select that folder now, go into the appropriate folder, and edit. If the section you are needing has not been created yet, click on the "+" and create a "new file".
 
