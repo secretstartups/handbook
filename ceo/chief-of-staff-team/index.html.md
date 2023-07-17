@@ -68,7 +68,7 @@ Whether it's a product feature proposal, a new initiative roll-out, or questions
 Examples of a cross-functional project:
 - Helping shepherd KPI and/or OKR progress
 - Helping to launch a foreign entity
-- Providing guidance around how to use GitLab's [internal handbook](https://internal-handbook.gitlab.io/)
+- Providing guidance around how to use GitLab's [internal handbook](https://internal.gitlab.com/)
 
 #### Under-resourced
 
