@@ -286,12 +286,11 @@ If your GC is optional and you need to move the date, please work with your depa
 | [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance| 
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO | 
 | [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product | 
-| [Infrastructure](/handbook/engineering/infrastructure/) | Mek Stittri | Yes | Twice per quarter | | EBA to Engineering | 
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
 | [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering | 
 | [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
-| [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month | | EBA to Engineering | 
+| [Infrastructure & Quality](/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering | 
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 | [IT](/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |
