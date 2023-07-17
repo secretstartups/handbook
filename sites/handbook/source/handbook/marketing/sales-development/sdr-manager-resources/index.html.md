@@ -163,7 +163,7 @@ Example:
 * This allows you to see what members/roles are associated with each territory. When you need a change in BDR assignment to a territory, please sharethe territory name with Sales Dev Ops, not the name of the account. Search for the account owner name and tell Sales Dev Ops which territory/territories require that BDR to be assigned.
 
 ## Onboarding
-GitLab People Connect Team members will [create the onboarding issue](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#timing) and start completing the onboarding tasks, no later than one week before the new team member joins. People Connect Team members require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. This issue will be automatically assigned to you. As a manager, you will [also have tasks](/handbook/people-group/general-onboarding/#managers-of-new-team-members) that need to be completed prior to the new team member's start date. 
+GitLab People Connect Team members will [create the onboarding issue](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#timing) and start completing the onboarding tasks, no later than one week before the new team member joins. People Connect Team members require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. This issue will be automatically assigned to you. As a manager, you will [also have tasks](/handbook/people-group/general-onboarding/#managers-of-new-team-members) that need to be completed prior to the new team member's start date. 
 
 The general onboarding issue will also automatically add a ['Sales Development' section](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/main/.gitlab/issue_templates/onboarding_tasks/department_sales_development.md) under 'Job Specific Tasks' based on the role of the new SDR. Both you and your new hire will have tasks to complete in this section. 
 
@@ -171,7 +171,7 @@ With the creation of this issue, an [access request (AR) will also be automatica
      *See what is being auto provisioned on this AR [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_demand_generation). 
 
 ### New Hire's First Day
-On your new hire's first day, the assigned People Connect Team member will [schedule a welcome email](https://internal-handbook.gitlab.io/handbook/people-group/people-operations/people-connect/onboarding_process/#day-1-onboarding-tasks) to arrive at 7:30am (local time of the new team member) on their start date detailing how your new hire can access GitLab and begin their onboarding process. 
+On your new hire's first day, the assigned People Connect Team member will [schedule a welcome email](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#day-1-onboarding-tasks) to arrive at 7:30am (local time of the new team member) on their start date detailing how your new hire can access GitLab and begin their onboarding process. 
 
 ### Manager Onboarding Checklist
 ##### Prior to Day 1

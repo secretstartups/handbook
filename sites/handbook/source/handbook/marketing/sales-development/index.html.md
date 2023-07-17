@@ -938,7 +938,7 @@ The main documentation may be found [here](https://docs.google.com/document/d/1D
 
 ### Do Not Call and Do Not Email Automations
 
-Leads with certain criteria will be automatically labeled as **Do Not Call** and or **Do Not Email** shortly after loading into our database. It's understandable this can be frustrating for certain territories. Please keep in mind, the criteria behind this automation has been set in order to follow local law. Please see the [Internal GitLab handbook](https://internal-handbook.gitlab.io/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/do-no-contact) for more information on the triggers. 
+Leads with certain criteria will be automatically labeled as **Do Not Call** and or **Do Not Email** shortly after loading into our database. It's understandable this can be frustrating for certain territories. Please keep in mind, the criteria behind this automation has been set in order to follow local law. Please see the [Internal GitLab handbook](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/do-no-contact) for more information on the triggers. 
 
 ### Up-Front Contract
 
