@@ -41,7 +41,7 @@ Each quarter a Slack reminder will go out in #people-manager-and-above channel t
 | **[GitLab Engagement Survey](https://about.gitlab.com/handbook/people-group/engagement/)**                  | Task: Actions incorporated in OKRs, Task: Engagement Survey Action Planning execution    | Task: Engagement Survey Action Planning execution               | Task: Engagement Survey Action Planning execution    | 
 | **[Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/)** |   Task: Mid-year Check in conversation with your team, Key Date: Mid-year check in closed |                          |                     |
 | **[Career Development Conversations](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/)**          | Task: (Optional) Kick off your Individual Growth Plan in Workday                        | Task: Providing continued support on IGP actions of your team members     | Task: Providing continued support on IGP actions of your team members                     |
-| **[360 feedback](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy24)** | Task: Nomination and Feedback phase. | Task: Review and Discussion phase. 30s close on 2023-09-22 |                         |
+| **[360 feedback](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy24)** | Task: Nomination and Feedback phase. | Task: Review and discussion phase to be completed by 2023-09-22 |                         |
 
 
 ### FY24 Q4
