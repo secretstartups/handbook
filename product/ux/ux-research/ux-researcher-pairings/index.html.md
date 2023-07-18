@@ -36,7 +36,7 @@ If you're part of a pairing, please document it in the table below:
 | UX Researcher | UX Researcher pairing | Pairing details | End date |
 |---------------|-----------------------|----------|----------|
 | Will Leidheiser | Danika Teverovsky | Learn about PNPS process from start to finish through a mixture of sync calls and async recordings | 2023-04-30 |
-|               |                       |          |          |
+| Michael Oliver  | Danika Teverovsky | Develop more skills for discovering JTBD and how to use the framework to find strategic opportunities at GitLab | 2023-10-31  |
 |               |                       |          |          |
 
  
