@@ -543,7 +543,7 @@ The failure was caused by a bug in the application code.
 - Include your findings in a note in the bug issue about the failure.
 - Add the steps to reproduce the bug and expected/actual behavior.
 - Apply the `~"type::bug"` label, and cc-ing the corresponding Engineering Managers (EM), QEM, and SET.
-- Apply the `~"found by e2e test"` label to the bug issue to indicate the bug was found by the end-to-end test execution.
+- Apply the `~"found by e2e test"` label to the bug issue (or bug fix MR if it is fixed immediately) to indicate the bug was found by the end-to-end test execution.
 - If the problem adheres to the definition of a [transient bug](/handbook/engineering/quality/issue-triage/#transient-bugs), apply the ~"bug::transient" label as well.
 - If there is an issue open already for the bug, use this issue instead and apply the above steps.
 - Communicate the issue in the corresponding Slack channels.
