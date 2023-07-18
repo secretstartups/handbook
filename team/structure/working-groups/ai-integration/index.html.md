@@ -185,9 +185,7 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Alper Akgun| Staff Fullstack Engineer | VS Code Extension |
 | Tomas Vik| Staff Fullstack Engineer | VS Code Extension |
 | Enrique| Staff Frontend Engineer | VS Code Extension |
-| Paul Slaughter| Staff Frontend Engineer | VS Code Extension |
 | André Luís | Engineering Manager | Editor Extensions  |
-| Shekhar Patnaik | Staff Fullstack Engineer | Editor Extensions  |
 | Mike Eddington | Staff Backend Engineer | Editor Extensions (Visual Studio) |
 | Ross Fuhrman | Senior Backend Engineer | Editor Extensions (Visual Studio) |
 | Gabriel Mazetto | Senior Backend Engineer | Editor Extensions (JetBrains) |
