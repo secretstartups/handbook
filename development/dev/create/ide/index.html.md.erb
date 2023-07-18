@@ -275,9 +275,13 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 **Async Phase of Pre-IPM Process - Refinement:**
 
 1. Identify all issues which:
+   1. Have the `~"Category:Remote Development"` **AND**
    1. Have the `~"rd-workflow::unprioritized"` **AND**
-   1. Have the `%"Next 1-3 releases"` milestone applied **AND**
+   1. Have the `%"Next 1-3 releases"` milestone applied (optionally include additional milestones for next `3-4`/`4-7` releases, if these are being used) **AND**
    1. Do **NOT** yet have the `~refined` label
+1. This can be done either by:
+    1. Doing a [direct issue search](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Category%3ARemote%20Development&label_name%5B%5D=rd-workflow%3A%3Aunprioritized&not%5Blabel_name%5D%5B%5D=refined&milestone_title=Next%201-3%20releases&milestone_title=Next%203-4%20releases&milestone_title=Next%204-7%20releases&first_page_size=100)
+    1. Using the Iteration Planning board by _temporarily_ applying `Label=~refined` and `Milestone=%"Next 1-3 releases"` to the board filters. _Make sure you don't save this filter to the defualt board settings_
 1. Assign each of these issues to an appropriate team member to be refined. This process can be whatever works for the team, but
    in general issues should be refined by someone who has the knowledge and availability to refine them properly and promptly.
    If there are questions, ask for help or reassign it to someone else.
@@ -289,7 +293,8 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 
 **Sync Phase of Pre-IPM Process - Prioritization:**
 
-1. During each Pre-IPM meeting, we will (temporarily) [filter the Iteration Planning board on the `~refined` label](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development&label_name[]=refined), so that only refined issues appear in the `~"rd-workflow::unprioritized"` list.
+1. During each Pre-IPM meeting, we will _temporarily_ [filter the Iteration Planning board on the `~refined` label](https://gitlab.com/groups/gitlab-org/-/boards/5283620?label_name[]=Category%3ARemote%20Development&label_name[]=refined),
+   so that only refined issues appear in the `~"rd-workflow::unprioritized"` list. _Make sure you don't save this filter to the defualt board settings_
 1. The goal of each Pre-IPM sync meeting will be to prioritize all of these issues into the `~"rd-workflow::prioritized"` list, based on their
    relative importance, whether they are blocking other issues, etc. They are prioritized by dragging them into the appropriate order in the `~"rd-workflow::prioritized"` list, with the highest-priority issues being at the top, and the lowest-priority issues being at the bottom.
 1. After an issue has been moved to the `~"rd-workflow::prioritized"` list, it should be assigned to the current `Iteration` of the `Iteration Cadence`. 
