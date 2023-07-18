@@ -88,47 +88,61 @@ To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/d
 
 - **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
 
-- **GitLab Assembly:** Synchronous time to hear from GitLab leaders and answer team member questions
+- **GitLab Assembly:** All-company synchronous time to hear from GitLab leaders and answer team member questions
 
 To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group.
 
 ## GitLab Assembly
 
-GitLab Assembly is scheduled to take place in the weeks following each quarterly earnings call and gives team members synchronous time to hear from GitLab leaders and ask questions.  Assembly is a 40 minute meeting, consisting of ~25 mins content  and ~15 mins Q&A.
-
-To give global team members an opportunity to join live, there will be two live-hosted Assembly events each quarter, at 8 am PT (3pm UTC) and 5 pm PT (12am UTC).
+GitLab Assembly is our quarterly all-company meeting and is an opportunity for team members to hear from leaders and teams across the company. Assembly provides a holistic view of top priorities, customer stories and data, cross-collaboration, department deep dives, and other team member stories to bolster team member engagement, shared visibility, and company connectedness. Assembly is a 50-minute meeting consisting of ~35 minutes of content and ~15 minutes of Q&A and is scheduled to take place late in the second month or early in the third month of each quarter (January, April, June, October). To give global team members an opportunity to join live, there will be two live-hosted Assembly events each quarter, with the first event at 5pm PT (12am UTC) and the second event the next day at 8am PT (3pm UTC).
 
 To produce each quarterly Assembly, the People Communications & Engagement DRI:
 1. Works with the EBA team to schedule a date six to eight weeks in advance
-1. Creates the agenda and sends out the Assembly calendar invite(s) to all team members after the earnings call date has been publicly announced
-1. Proposes a host and topics to be discussed in addition to CEO and CFO presentations
+1. Engages a production partner for the live event production
+   - Collaborates with the production partner on run of show
+   - Coordinates with the production partner on pre-records
+   - Meets weekly with the production partner for the 6 weeks leading up to Assembly
+1. Creates the agenda and sends out the Assembly calendar invites to all team members three to four weeks in advance of Assembly
+1. Creates the event in Slido to open question submissions prior to both Assembly events
+1. Partners with Functional Leaders on top-of-mind topics, and proposes a host, speakers, and segments
 1. Facilitates and secures People Leadership reviews and approvals of proposed host and topics
 1. Works with the CoS and CoS team to:
-    - Confirm timeline for E-Group content creation
+    - Determine CEO presentation specifics
     - Align on CEO key messages and themes to present
-      - CoS team is DRI for CEO slide content 
-      - People Comms & Engagement DRI creates talk track
     - Schedule and attend feedback sessions with the CEO
-1. Partners with the CFO, host, and additional speakers to create content for presentations.
-    - Drafts content as needed
-1. Compiles all content into deck and secures:
-    - People Leadership review and approval
-    - Legal review and approval
-1. Engages with the Digital Production team to secure resources for editing pre-recorded video content
-1. Records the CEO presentation and any additional pre-recorded content
-    - Uploads to Google Drive for the Digital Production team to access
-    - Transcribes video and timestamps transitions for the Digital Production team
-1. Facilitates and secures final review and approval of video content and deck by:
+1. Partners with the host and additional speakers on their presentations
+    - Determines presentation specifics
+    - Drafts content or delegates additional team members to draft content as needed
+1. Partners with the production partner on the Assembly presentation deck and secures:
+    - People Leadership review 
+    - Marketing and Design review 
+1. Engages with the internal Digital Production team and the production partner to secure resources for editing pre-recorded video content
+1. Records the CEO presentation and facilitates the recording of any additional pre-recorded content 
+    - Uploads to Google Drive for the Digital Production team to access as needed
+    - Adds video timestamp transitions for the Digital Production team
+1. Facilitates and secures final review and approval of video content and Assembly presentation deck by:
+    - Host and speakers
     - People Leadership
     - Legal
-1. Conducts a dress rehearsal with the host and live presenters, if desired by host and live presenters
-1. Joins Assembly meeting and records screen 
-    - Host leads meeting and moderates Q&A
-1. Submits recording to Video Production team to produce final recording
-1. Uploads final recording to Level Up
-1. Shares final recording in the next issue of While You Were Iterating
-1. Requests feedback from team members, People Leadership, and E-Group post-Assembly
+1. Facilitates a final technical check/dress rehearsal for the production company, host, and live speakers
 
+On the day of Assembly:
+1. Assembly host, speakers, and E-Group join a separate speaker Zoom that is broadcasted to the all-team-member Zoom 15 minutes prior to the event start time for event one and 5 minutes prior to the event start time for event two.
+    - Speakers are asked to keep their camera on and microphone muted (until time to speak) for the entire duration of the meeting. They will not be shown at all times, but toggling on and off cameras in the speaker Zoom can impact the live production.
+    - Speakers and production team will be joined in the speaker Zoom by one member of the People Communications & Engagement team.
+1. The People Comms & Engagement DRI joins the all-team-member Zoom to facilitate any team member needs. The production company broadcasts the event countdown and facilitates the waiting room.
+    - The chat from this Zoom will be backed up for reference.
+1. At each event start, the host begins leading the meeting once the countdown is complete, and moves through the event run of show.
+1. Team members are encouraged to submit questions to the Slido event and upvote questions they would like to see answered.
+1. At Q&A, the Host reads questions aloud in up-voted order.
+1. E-Group works collaboratively on a Q&A document to facilitate who will respond to each question.
+1. An assigned scribe tracks Q&A directly in the agenda document.
+
+After the second Assembly event:
+1. The production partner shares the recording for both Assembly events with the People Comms & Engagement DRI.
+1. The People Comms & Engagement DRI shares the Assembly recording with the Learning and Development team to upload to Level Up.
+1. Once uploaded to Level Up, the People Comms & Engagement DRI shares final recording and any needed follow-ups with all team members in the next issue of the all-company newsletter, While You Were Iterating.
+1. The People Comms & Engagement DRI/team requests feedback from team members, People Leadership, and E-Group post-Assembly.
 
 ## People Communications & Engagement Planning
 
