@@ -37,13 +37,6 @@ We are allowed to issue trial licenses because they:
 
 **Note:** Unlike [SaaS](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials), a Self-managed extension does **not** require a pre-existing Trial license. Instead, start with the current almost-expired license, or most-recent expired license.
 
-1. Before taking any action to create the trial license, get confirmation from
-   the customer (or GitLab Sales contact) that they understand and accept the
-   [constraints](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded)
-   that accompany a trial. Use the `Support::L&R::Trial Subscription - Exclusions Sign Off`
-   macro in Zendesk for this purpose. Be sure to assign the ticket to
-   yourself so that you will receive the customer's response and be
-   able to take action quickly.
 1. Open the expired or soon to expire license and select `Duplicate License`
 1. Set the `License type` to `Legacy License`.
 1. Delete the contents of `Zuora subscription ID` field if present.
