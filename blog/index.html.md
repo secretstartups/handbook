@@ -244,7 +244,7 @@ Please [add a reference](#image-attribution) to the cover image source, owner, a
 
 Please [see the instructions on sizing, formatting, and storing images](#images-and-illustration).
 
-###### Inclusive photos
+##### Inclusive photos
 
 We try to keep images on the blog neutral in terms of gender, ethnicity, etc. This generally means avoiding using stock images of people. It is also better to avoid using images of people (for example, GitLab team members at an event) for the cover photo because the blog post title and description overlay the image, which can look too busy.
 
