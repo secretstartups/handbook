@@ -237,6 +237,11 @@ Available selectors can be found in the [selector.yml](https://gitlab.com/gitlab
 * Testing of new selectors for Airflow DAGs
 * Testing version upgrades to the dbt environment
 
+#### 📚✏️generate_dbt_docs
+
+You should run this pipeline manually when either `*.md` or `.yml` files are changed under `transform/snowflake-dbt/` folder. The motivation for this pipeline is to check and validate changes in the `dbt` documentation as there is no check on how the documentation was created - errors are allowed and not validated, by default. There are no parameters for this pipeline.
+
+
 #### DBT CI Job size
 
 If you want to run a dbt job via the `specify_*_model` or `specify_*_exclude`, you have the possibility to choose the size of the Snowflake warehouse you want to use in the CI job. Starting with XS, followed by L and last you can select XL size warehouse. This can be done to trigger different CI Jobs.
