@@ -171,9 +171,6 @@ For more details on logistics of ending an interim or acting period please refer
   eng:stfe(Staff Frontend Engineer);
   click eng:stfe "https://handbook.gitlab.com/job-families/engineering/development/frontend/#staff-frontend-engineer";
 
-  eng:fem(Frontend Engineering Manager);
-  click eng:fem "https://handbook.gitlab.com/job-families/engineering/development/frontend/manager/";
-
   %% backend roles
   eng:tbe(Intern Backend Engineer);
   click eng:tbe "https://handbook.gitlab.com/job-families/engineering/development/backend/#intern-backend-engineer";
@@ -189,9 +186,6 @@ For more details on logistics of ending an interim or acting period please refer
 
   eng:stbe(Staff Backend Engineer);
   click eng:stbe "https://handbook.gitlab.com/job-families/engineering/development/backend/#staff-backend-engineer";
-
-  eng:bem(Backend Engineering Manager);
-  click eng:bem "https://handbook.gitlab.com/job-families/engineering/development/backend/manager/";
 
   %% fullstack roles
   eng:tfs(Intern Fullstack Engineer);
@@ -209,9 +203,9 @@ For more details on logistics of ending an interim or acting period please refer
   eng:stfs(Staff Fullstack Engineer);
   click eng:stfs "https://handbook.gitlab.com/job-families/engineering/development/fullstack/#staff-fullstack-engineer";
 
-  eng:fsm(Fullstack Engineering Manager);
-  click eng:fsm "https://handbook.gitlab.com/job-families/engineering/development/management/fullstack-manager/";
-
+  %% Engineering Manager
+  eng:em(Engineering Manager);
+  click eng:em "https://handbook.gitlab.com/job-families/engineering/development/management/engineering-manager/";
 
   %% engineering leadership
   eng:sme(Senior Engineering Manager);
@@ -237,17 +231,17 @@ For more details on logistics of ending an interim or acting period please refer
 
   %% career progression
   subgraph Based on Merit and Company Need
-  eng:stfe & eng:fem
-  eng:stbe & eng:bem
-  eng:stfs & eng:fsm;
+  eng:stfe & eng:em
+  eng:stbe & eng:em
+  eng:stfs & eng:em;
 
-  eng:bem & eng:fem & eng:fsm-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
+  eng:em-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
   eng:stbe & eng:stfe & eng:stfs-->eng:pre-->eng:dis-->eng:fel;
   end
   subgraph Merit Based
-  eng:tfe-->eng:afe-->eng:ife-->eng:sfe-->eng:stfe & eng:fem
-  eng:tbe-->eng:abe-->eng:ibe-->eng:sbe-->eng:stbe & eng:bem;
-  eng:tfs-->eng:afs-->eng:ifs-->eng:sfs-->eng:stfs & eng:fsm;
+  eng:tfe-->eng:afe-->eng:ife-->eng:sfe-->eng:stfe & eng:em
+  eng:tbe-->eng:abe-->eng:ibe-->eng:sbe-->eng:stbe & eng:em;
+  eng:tfs-->eng:afs-->eng:ifs-->eng:sfs-->eng:stfs & eng:em;
   end
 ```
 </div>
