@@ -392,7 +392,6 @@ Processing for the United Arab Emirates could take up to a month, so we recommen
 ---
 
 - [Greenhouse](/handbook/hiring/greenhouse/)
-- [People Technology & Insights](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
 
 
