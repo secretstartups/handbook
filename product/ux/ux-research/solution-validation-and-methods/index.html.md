@@ -20,6 +20,8 @@ After identifying and understanding a problem, its context, and the people aroun
 
 ### When to use Solution Validation?
 
+Solution validation happens [later on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-things-rightsolution-validation) when we want to get feedback on potential solutions or solutions made available to users. 
+
 Solution validation research is conducted after we have a working design or prototype that was created to solve the problem(s) discovered in Problem Validation research. It is not necessary for the design or prototype to be high fidelity, it only needs to be able to support the task(s) it was designed for.
 
 You can and should conduct solution validation research when confidence in the proposed solution isn't high, as it can help identify issues that may have been missed during other stages of the project. A great way to increase the confidence in your solution is to base design decisions on prior user research.
