@@ -356,30 +356,6 @@ In situations where scorecards greatly differ, it is helpful to meet with everyo
 
 While Hiring Managers are the directly responsible individual (DRI) for hiring decisions and are allowed to override Interviewers, making great hiring decisions is part of their own individual performance and they will be held accountable for them.
 
-### Changing stages for a candidate
-
-Each role has similar stages, with various interviews within each stage. Below is a typical outline of the stages:
-
-- **Application Review**
-  - This stage typically consists only of one event, which is the application review, where all new applicants are added. Hiring Managers and/or Interviewers can leave a scorecard in this stage on if they want to advance or reject a candidate.
-- **Assessment** (added per role)
-  - This stage is only added to roles that use questionnaires as part of the interview process. The assessment is done completely within Greenhouse, where the questions are added per job, the candidate submits their answers via a link in Greenhouse, and the graders review the answers in Greenhouse and leave a scorecard.
-- **Screening**
-  - This stage has only the screening call, where the Talent Acquisition Team does an initial call with the candidate to review their experience, skills, and values-alignment.
-- **Evergreen**
-  - The "Evergreen" stage is utilized during Evergreen positions only, and encompasses some of the interviews that would typically take place in a team interview. They allow for seamless transferring of scorecards when the candidate moves into the official hiring req.
-- **Team Interview**
-  - The "Team Interview" usually has several interviews within it, typically with the Hiring Manager, two peers, a director, and/or a panel interview.
-- **Reference Check**
-  - There are two spots for completed reference checks, one from a former peer and one from a former manager. This is also where the Recruiter sends a form to collect this information, along with details needed for the eventual contract.
-- **Background Check and Offer**
-  - This is where the Talent Acquisition Team prepares the offer and the offer is approved. Candidates should be moved into this stage once they are ready for a verbal offer.
-
-On rare occasion, there may be additional or less stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. 
-
-If a candidate will have more interviews in a stage than predetermined, you can add additional interview events as long as the candidate is in the stage where you need to add the additional event.
-
-Please take caution when changing or deleting stages for existing vacancies. If a stage is deleted in a requisition and candidates are scheduled for interviews on that stage, the interview will be deleted from Greenhouse. It will still exist on the Google Calendar, but it will need to be rescheduled through Greenhouse using one of the current stages for the requisition.
 
 ### Updating candidate information
 
@@ -514,17 +490,6 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
 
     * `Name` and `Email` are the two fields Greenhouse looks at when suggesting a potential duplicate profile.
 
-### Greenhouse Forms
-
-Greenhouse offers the ability to create and send **Forms** to candidates to gather additional information.
-
-* **Creating a Form**
-
-Forms are created on a *per requisition basis*. Fortunately, `Admins` can apply it to requisitions en masse via a bulk update. More information on how to create and set-up forms can be found on Greenhouse's [Create a Form](https://support.greenhouse.io/hc/en-us/articles/360019754651-Create-a-Form) help page.
-
-* **Reviewing Form Responses**
-
-When an emailed form is completed by a candidate, the designated recipients will receive an email notifying them of its completion. More information about that workflow can be found on Greenhouse's [Review Candidate Response to Form](https://support.greenhouse.io/hc/en-us/articles/360019755771-Send-Forms#response) help page.
 
 ### Greenhouse Inclusion
 
@@ -535,16 +500,6 @@ Enabled features include:
 - Anonymous take-home test grading.
 - Hiding a candidate's source to Interviewers.
 - Hiding specific sections of a candidate's resume in various workflow stages.
-
-### Greenhouse Support
-
-Greenhouse has a very robust [Support Center](https://www.greenhouse.io/support), with articles, how-to videos, webinars, and more.
-
-If you have a **Product Enhancement Request** or need to submit a **Support Ticket**, please reach out to the [Talent Acquisition Ops Team](mailto:talent acquisitionops@gitlab.com). Alternatively, you have three options to reach Greenhouse's Support Team directly
-
-1. By emailing `support@greenhouse.io`
-1. By using the *Live Chat* feature from anywhere within Greenhouse (bottom left corner)
-1. By submitting a request on [Greenhouse Support's Website](https://support.greenhouse.io/hc/en-us/requests/new).
 
 
 =======
