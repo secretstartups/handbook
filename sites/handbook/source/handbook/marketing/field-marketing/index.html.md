@@ -1466,11 +1466,12 @@ You will be notified via the Geekbot plug in on slack at 9 AM your local time on
 We follow the processes documented in the [Communicating your time off section](/handbook/paid-time-off/#communicating-your-time-off) of our handbook page.
 
 Specifically: 
-1. Add your OOO to Time Off by Deel 
-1. Add an OOO for your email 
-1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you.
-1. Add an OOO to your Slack profile
-1. Ad an OOO to your GitLab profile and mark yourself as `busy`
+1. Add your OOO to [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel) 
+1. Add an OOO message for your email. Please ensure you are including a DRI in your OOO email response for people outside the company to contact.
+1. Turn on [Google Calendar's "out of office" setting](https://support.google.com/calendar/answer/7638168?hl=en) (scroll down to "Show when you’re out of office") to create an out of office event that will automatically decline new and existing meetings for you. Or, please ensure to manually cancel/decline/reschedule any meetings if you will not be in attendance. 
+1. Add an OOO to your Slack profile (this will occur automatically when you submit your OOO to Time Off by Deel). If you’re traveling for an event and not necessarily on PTO/vacation, please ensure you are manually updating your Slack status accordingly.
+1. Add an OOO to your GitLab profile and mark yourself as `busy`
+1. For the AMER FM Team, please add your OOO to the [FM AMER Team PTO Google calender](https://calendar.google.com/calendar/u/0?cid=Y18yZjA0OGVhNzc3YjcyZWQzYTRmY2VkOTZjZWI5NjRiMTNlNWM1YmMxOTA4M2FjNmE5YWNjYjUwMzc0NWZhNjlhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 1. If you are a manager of people, please [assign a delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) so you will not hold approvals while you're enjoying your time off.
 
 # Field Marketing MR process
