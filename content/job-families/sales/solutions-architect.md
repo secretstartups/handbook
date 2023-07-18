@@ -37,7 +37,7 @@ The Associate Solutions Architect is a [grade 5](https://about.gitlab.com/handbo
 - Customer feedbacks: Effectively communicate customer feedback, requirements, and challenges to relevant teams (including Product Development, Sales, and Marketing) to drive continuous improvement.
 - Market knowledge: Maintain a foundational understanding of technologies related to GitLab's market focus.
 - Gitlab knowledge: Develop a comprehensive knowledge of the GitLab platform and associated technologies. Stay up to date with product updates, new features, and industry trends related to GitLab.
-- Training & Certificationst: Participate in training and certification programs to enhance expertise in specific technologies.
+- Training & Certifications: Aquire industry standard certifications to build up credibility as technical expert.
 - Growth & Development: Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
 
 #### Associate Solutions Architect Requirements
@@ -61,13 +61,13 @@ The Solutions Architect is a [grade 6](https://about.gitlab.com/handbook/total-r
 
 - Technical expertise: Engage with customers, both onsite and remotely, by providing technical expertise during the pre-sales process. The additional responsibility implies adopting a more mature consultancy and advisor role during the pre-sales process while providing technical assistance and solution guidance.
 - Sales strategy: Collaborate with the sales team to go beyond support to formulate and execute a sales strategy to exceed revenue targets through the adoption of GitLab.
-- Technical guidance: Provide a more advanced contribution to guide technical evaluations via POC/POV ownership, RFP/audit support, and workshop design.
+- Technical guidance: Be the Directly Responsible Individual ([DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/)) on technical evaluations via POC/POV ownership, technical part of tender/audit support, and workshop design.
 - Customer relationships: Build deep relationships with people within customer environments to enable them to be GitLab advocates.
 - Customer feedbacks: Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 - Market knowledge: Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.
 - Gitlab knowledge: With comprehensive knowledge of the GitLab platform and associated technologies, educate customers of all sizes on the value proposition of GitLab while participating in discussions throughout the organization to ensure successful GitLab deployment.
 - Growth & Development: Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
-- Customer insights: Run Value Stream Assessments in your account with support of a Senior SA leading the engagement
+- Strategic Client Engagement: Run Value Stream Assessments in your account with support of a Senior SA leading the engagement
 
 #### Solutions Architect Requirements
 
