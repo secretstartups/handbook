@@ -20,6 +20,8 @@ Problem validation research seeks to provide decision makers with a well underst
 - **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem.
 
 ### When to use problem validation?
+Problem validation happens [earlier on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-the-right-thingproblem-validation) when we want to get insight into a problem and scope down the focus of a problem. 
+
 **Foundational research** is done when we don’t have a good understanding of what the problem is we need to solve. Often this occurs at the very beginning of the product design process. The purpose is to formulate a problem to solve and have a decent level of confidence that the problem is a relevant one. 
 
 **Descriptive and informative research** starts with a problem statement, which provides us a concrete problem to solve. This research is used to gain a better understanding of the context we are trying to solve for through our design and is imperative to fill the knowledge gaps of the solution environment by what our participants know. 
