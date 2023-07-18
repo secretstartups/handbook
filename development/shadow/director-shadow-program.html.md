@@ -177,8 +177,8 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| July 17    |  [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | CS Student at [University of Virginia](https://www.virginia.edu/) |
-| July 24    |  Available | |
+| July 17    |  [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-Gitlab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
+| July 24    |  [Alejandro Mogollon Medina](https://gitlab.com/mellab) | Non-GitLab shadow: GitLab Hero & HashiCorp Ambassador  |
 | July 31    |  Available | |
 | August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager for Animation & Gaming Technical Support at [Netflix](https://www.netflix.com)  |
 | August 14  |  Available | |
