@@ -544,3 +544,20 @@ Similar to PathFactory, Highspot is a tool that can point customers to a set of 
 **Can Highspot users send PathFactory content to customers?**
 
 Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.  
+
+### Highspot for GitLab Duo Content 
+
+As of 2023-07-17, the [GitLab Duo (AI) spot](https://gitlab.highspot.com/spots/64b14e7cc4b08381c0408bb4?list=all&overview=true) was added to Highspot to help reps easily discover internal and external resources needed to understand our developing AI strategy and effectively communicate our position with prospects and customers. 
+
+Moving forward, **all AI-related content – internal and external – should be added to the GitLab Duo (AI) spot.** Stakeholders have been given edit access to this spot so they can add content. If you are a Highspot content contributor adding content to this spot, please review and follow the below guidelines to ensure we maintain an efficient user experience in this spot. If you need access to add content to this spot, please reach out in #highspot-content-owners.
+
+1. Review the [guidance for uploading content above](/handbook/sales/field-communications/gitlab-highspot/#gitlab-highspot-best-practices-for-content-owners) to ensure you are adding content in accordance with our best-practices.
+1. If it makes sense in a secondary spot (i.e. Customer Outreach, Customer Success, Field Strategy & Enablement, etc.) [bookmark](/handbook/sales/field-communications/gitlab-highspot/#including-content-in-more-than-one-spot) the content into another spot once added in the AI spot. 
+1. Apply at LEAST one of the eight lists (tags) available in the AI spot.
+1. New content will appear in the "Revenue-Focused" (owned by PMM) and "Techincal Resources" (owned by Dev Rel/Technical Marketing) sections automatically based on the lists applied. No action is needed from teams owning these sections.
+1.  To ensure the most relevant resources are served up on the homepage, featured content in “What to Know” section (owned by PMM), “Key Messaging” (owned by PMM) and “Competitive Resources” (owned by Competitive Intelligence) will have to be added manually by owners by editing the overview page for the spot. 
+   1. To add content to the spot homepage, navigate to the three dots in the righthand corner when on the spot homepage. 
+   1. Select "view overview for spot". 
+   1. Navigate to the three dots in the righthand corner and select "edit". 
+   1. Any changes you make here will be reflected on the spot homepage. Review [Highspot's SmartPage help articles](https://help.highspot.com/hc/en-us/sections/360007945533-Design-Build-SmartPages-) for more information.
+
