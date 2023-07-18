@@ -14,7 +14,11 @@ our acquisitions approach visit our [acquisitions process](/handbook/acquisition
 
 ## Overview
 
-Integration planning begins well before a transaction closes. At the appropriate time during the deal process, the Sr. Dir. Corporate Development, the DRI for the integration stage, establishes an integration working group (IWG). The IWG has representatives from divisions across GitLab (e.g., Finance, Legal, Product, Engineering, People, etc.). 
+Integration planning begins well before a transaction closes. At the appropriate time during the deal process, the Sr. Dir. Corporate Development, the DRI for the integration stage, will help facilitate the integration between the relevant divisions and functions involved. To accomplish that, an integration working group (IWG) will be established with representatives from divisions across GitLab (e.g., Finance, Legal, Product, Engineering, People, etc.). 
+
+Importantly, each integration will have an executive sponsor from the E-Group as well as two additional DRIs:
+1. Roadmap DRI - the Product Champion for the acquisition, will be responsible the direction, impact, scope, and alignment of the integration
+1. Engagement DRI - the Engineering Champion for the acquisition, will be responsible for the implementation of the technical integration milestones and retention of the acquired team members within GitLab.
 
 We use the deal documents, findings from diligence and other data and information to establish a written Day 1 Plan and Long-Term Plan. The former documents what exactly needs to occur or needs to be in place on Day 1 following the closing of the transaction. The Long-Term Plan includes key milestones developed as part of the Acquisition Process. Each of the subject matter experts on the IWG identifies what needs to be done in advance of, and on, Day 1 and for the period during which the Long-Term Plan is effective until integration is complete. 
 
