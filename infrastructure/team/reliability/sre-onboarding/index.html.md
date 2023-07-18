@@ -83,10 +83,10 @@ issues and MRs. Mirrors are setup in case that GitLab.com is unavailable.
 Repositories that are necessary for assets, configuration, infrastructure, releases
 and patch management use https://ops.GitLab.net as a remote.
 
-1. [terraform](https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure): This
+1. [terraform](https://ops.gitlab.net/gitlab-com/gl-infra/config-mgmt): This
 is the repository that holds all terraform configuration for the GitLab.com staging,
 production and operations environments. There is a
-[repository mirror](https://gitlab.com/gitlab-com/gitlab-com-infrastructure)
+[repository mirror](https://gitlab.com/gitlab-com/gl-infra/config-mgmt)
 on GitLab.com .
 
 1. [chef cookbooks](https://gitlab.com/groups/gitlab-cookbooks): These
