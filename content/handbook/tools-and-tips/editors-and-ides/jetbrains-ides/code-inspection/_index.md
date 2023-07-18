@@ -84,7 +84,27 @@ If it was needed due to a JetBrains bug or limitation, you can reference the spe
 
 If one doesn't exist yet, you should open an issue against JetBrains and add it to that page.
 
-### Using `Inspect Code` with custom scopes
+## Each `noinspection` and explanation should be a one-liner
+
+All `# noinspection - <some link or explanation>` comments should be on a single line.
+
+This is because we want to to avoid the possibility of deleting an obsolete/fixed `# noinspection` line
+but forgetting to delete the separate associated comment line.
+
+This should be done consistently, even if there needs to be an associated `# rubocop:disable Layout/LineLength`,
+on a separate line (because that will cause a separate RuboCop warning if it is left in while no longer
+necessary).
+
+Other options considered:
+
+- We could use a URL shortener service, but that makes people concerned about the security of clicking
+on links with an unknown destination.
+  [We did discuss and reject in the past the possibility of an internal URL shortener](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/861).
+- We could leave some of the comment without an explanation of link, but that leaves us with the original
+  problem of people not understanding their purpose, and having to manually address repeated questions
+  around them, rather than people discovering the answer themselves in this section.
+
+## Using `Inspect Code` with custom scopes
 
 One way you can make Code Inspections (and other JetBrains operations) faster and more powerful is through
 the use of _custom scopes_
