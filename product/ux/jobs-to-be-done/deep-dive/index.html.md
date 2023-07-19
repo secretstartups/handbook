@@ -104,6 +104,10 @@ Jobs to be Done are discovered by interviewing real-world users. At GitLab, it i
 5. Afterwards, you can modify this [JTBD Script template](https://docs.google.com/document/d/1wnvsJtWrLntliOxyYudrSnqatmxPZBvAYobXusW2np8/copy) to help you conduct the interviews. Remember to keep the scope and output of the interviews in mind while modifying the script. Keep in mind the job process and statement should be something that does not need a user interface and might even be applicable in the distant future.
 6. Finally, summarize the data using a MURAL board similar to this [previously used JTBD canvas](https://app.mural.co/invitation/mural/gitlab2474/1675880999233?sender=u8b3435b2496ba7d2d7ba2448&key=579d151e-cb05-41e1-9355-d2a4c133da99). If possible, have a note-taker fill out each participant's canvas as the interviews take place. Then, present it to the participant as a way to verify the information. 
 
+### _How can I use_ JTBD?
+
+JTBD can be used to obtain valuable insights through numerous methods, from screeners to heuristic evaluations. You can see more detailed uses of JTBD on our How to use Jobs to Be Done handbook page. If you plan on using one of these methods, remember to use interviews to validate your jobs before spending too much time learning about inaccurate jobs.
+
 ## JTBD examples and tips
 
 JTBDs are difficult to get right can take some time to refine. Below is an example of a job statement and its versions throughout the refinement process. The feedback provided for each version can offer some helpful tips to keep in mind when you're writing them.

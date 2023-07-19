@@ -103,6 +103,10 @@ _JTBD hierarchy diagram_
 
 ![JTBD hierarchy diagram](JTBD_Diagram.png)
 
+### Using JTBD at GitLab
+
+There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our How to use Jobs to Be Done handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs] before spending too much time learning about inaccurate jobs.
+
 ## Quick methods to increase confidence
 
 - Reference previous research and industry standards.
