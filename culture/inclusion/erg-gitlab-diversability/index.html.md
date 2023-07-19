@@ -58,12 +58,3 @@ If you do not believe you need to request reasonable accommodations and you are 
 ### Not sure about disclosure? The DiversABILITY TMRG is here to listen and guide (if you want)
 
 Determining whether or not to disclose your disability at work is a deeply personal choice. If you would like to chat with someone about it discreetly, please feel free to DM Wil Spillane or Kaitlyn Chappell on Slack and they can either chat with you directly or point you to someone else who might be a better fit for the discussion.
-
-## Design Assets
-
-### Logos
-
-- [core logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/global-diversity-inclusion/full-color/png/di-diversability-logo-rgb.png)
-- [one color logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/gitlab-brand-files/gitlab-logo-files/global-diversity-inclusion/1-color/png/di-diversability-logo-one-color-rgb.png)
-- [banner with logo no wordmark](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/design/web-design/about-gitlab-com/blog/cover-images/png/d%26i_gitlab-diversability.png)
-
