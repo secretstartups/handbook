@@ -18,6 +18,6 @@ flowchart TD
     CVSSS1 --> |No| PublicFix{Consider making the fix<br>in the public repository<br>and shipping backports<br>in the next regular release}
     RegularRelease --> |Yes| ShipRegularRelease(Include the fix in the regular security release)
     RegularRelease --> |No| CVSSS1
-    PublicFix -->|We really can't risk making the fix in public,<br>even with a 'low profile' MR| CriticalRelease(Critical Security Release)
+    PublicFix -->|We really can't risk making the fix in public,<br>even with a 'low profile' MR| CriticalRelease(Schedule Critical Security Release with Release Managers)
     PublicFix -->|The impact is much greater for .com than<br>for other GitLab instances, we can risk it| ShipPublicFix(Fix it in public and backport later)
 ```
