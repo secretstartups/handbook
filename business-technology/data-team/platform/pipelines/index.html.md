@@ -308,6 +308,12 @@ Data is stored in the table (in the `RAW.SAAS_USAGE_PING` schema):
 
 Details about implementation are exposed in **[redis-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
 
+
+#### SaaS Service Ping - Admin mode
+Please note that in order to run the `saas_usage_ping` pipeline, the service account `analyticsapi@gitlab.com` needs [**admin_mode**](https://docs.gitlab.com/ee/administration/settings/).
+
+Without admin_mode, the request to `https://gitlab.com/api/v4/usage_data/queries` will fail, as seen in this [issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/23398).
+
 ## SheetLoad
 
 SheetLoad is the process by which a Google Sheets and CSVs from GCS or S3 can be ingested into the data warehouse.
