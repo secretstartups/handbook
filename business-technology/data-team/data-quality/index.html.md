@@ -382,3 +382,8 @@ Our own [Postgres_Pipeline](https://gitlab.com/gitlab-data/analytics/tree/master
 We use dbt for all transformations in the warehouse. [We require tests on all new dbt models](/handbook/business-technology/data-team/#transformation) and regularly update tests as needed. These tests, as well as the extraction tests and checks, should be written in line with the data quality philosophy described above.
 
 
+### Data Quality Incidents Resulting in Permanently Lost Data
+
+| Issue | Impacted Data Source | Impact | Impact Window |
+| --- | --- | --- | --- |
+| [Snowplow endpoint certificate expired for a day](https://gitlab.com/gitlab-org/gitlab/-/issues/416991) | Snowplow | No Snowplow events recorded for most of one day | `2023-07-04` |
