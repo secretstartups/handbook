@@ -24,9 +24,14 @@ Note that Vakantiegeld is built into offers as well as our [Compensation Calcula
 
 ## Medical
 
-There is no additional medical coverage scheme through GitLab.
+Effective 1 August 2023, Full-Time Netherlands team members will be paid a monthly allowance of 100 Euros to subsidize healthcare costs. 
 
-Note that in the Netherlands every citizen is obliged to have at least a basic health insurance package (basisverzekering) with a health insurance company. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
+Team Members will still need to purchase their own health insurance package (basisverzekering) with a a health insurance company, as required by the Netherland's statutory healthcare system. If you do not have health insurance, you can be fined by the Sociale Verzekeringsbank.
+
+Team Members will automatically receive the allowance via payroll. No documentation is needed to receive the allowance. The allowance is subject to taxes, which payroll will withhold on a monthly basis. 
+
+The allowance will be prorated for New Hires that start in the middle of the month and terminations that are effective in the middle of the month. Team members on sick pay or unpaid parental leave will still receive the monthly allowance. Team members who are on other unpaid leaves will not receive the stipend during their leave.  
+
 
 Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
@@ -177,3 +182,9 @@ The Group Accident Policy is based on calculation in arrears. At the end of the 
 On the invoice, a bank account number will be provided to pay the annual premium. 
 Total Rewards will send the invoice to Accounts Payable for payment. 
 
+### Administration for Medical Allowance
+
+All Full-Time team members and New Hires will automatically recieve a medical allowance that will be taxed. 
+Payroll will add the allowance to New Hires' pay. 
+Payroll will continue to pay out the allowance during sick pay or unpaid parental leave
+Payroll will cease payment of the allowance when team members are on other unpaid leave 
