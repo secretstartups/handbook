@@ -91,7 +91,18 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [Zendesk Supper App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
+  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
+
+#### GitLab Views
+
+The GitLab Views appears in the navbar and allows the agent a more customizable
+set if Zendesk views.
+
+App information:
+
+- Located in the navbar
+- This application was developed in-house and can be found
+  [GitLab Views App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab_views).
 
 #### Mechanizer
 
@@ -116,6 +127,21 @@ App information:
 - Located in the navbar
 - This application was developed in-house and can be found
   [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)
+
+#### Support Ops Super App
+
+A plugin controlled app that can do several things Support Ops related
+
+The current plugins are:
+
+- **Namespace Lookup**
+  > This lets you search gitlab.com for a namespace. It then displays information based on the results. This is related to the one in the GitLab Super App, but instead it shows less information and shows the SFDC IDs it is associated with.
+
+App information:
+
+- Located in the ticket sidebar
+- This application was developed in-house and can be found
+  [Support Ops Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/support-ops-super-app).
 
 #### Ticket Redaction App
 
@@ -283,7 +309,7 @@ App information:
 
 - Located in the ticket sidebar
 - This application was developed in-house and can be found
-  [Zendesk Supper App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
+  [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
 
 ## Zendesk US Federal App List
 
