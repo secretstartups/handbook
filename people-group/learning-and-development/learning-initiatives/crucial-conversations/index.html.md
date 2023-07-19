@@ -71,14 +71,15 @@ _Last updated 2022-04_
 
 ### Reviews
 
-`Overall I loved the course and the material. It felt very relevant and relatable. I especially liked the prompts that were created for the breakout sessions because it felt like there was a lot of thought put into trying to make the scenarios relevant to how we work at GitLab.`
-`This course taught me alot about myself and how to make improvements when having crucial conversations!`
+> Overall I loved the course and the material. It felt very relevant and relatable. I especially liked the prompts that were created for the breakout sessions because it felt like there was a lot of thought put into trying to make the scenarios relevant to how we work at GitLab.
 
-`Crucial Conversations course provides a simple-to-understand set of tools and techniques that will help me be more candid and assertive in both professional and personal conversations. The self-paced study combined with weekly live sessions was moderately demanding, it provided nice accountability that nudged me towards learning each week.`
+> This course taught me alot about myself and how to make improvements when having crucial conversations!
 
-`This course is fantastic! Within the first week, I was already able to apply real skills to conversations I have every day. I've always considered difficult conversations to be an area where I could really benefit from improvement and now I believe if I continue to practice and improve these skills, I will see significant results both in and out of work.`
+> Crucial Conversations course provides a simple-to-understand set of tools and techniques that will help me be more candid and assertive in both professional and personal conversations. The self-paced study combined with weekly live sessions was moderately demanding, it provided nice accountability that nudged me towards learning each week.
 
-`The Crucial Conversations course helped me understand how I can be a better individual in all aspects of my life. There are a bunch of skills covered in the course that I can use in both my personal life and professional life that will help me better communicate with those around me, and - crucially - be more effective at moving through tough conversations about important topics.`
+> This course is fantastic! Within the first week, I was already able to apply real skills to conversations I have every day. I've always considered difficult conversations to be an area where I could really benefit from improvement and now I believe if I continue to practice and improve these skills, I will see significant results both in and out of work.
+
+> The Crucial Conversations course helped me understand how I can be a better individual in all aspects of my life. There are a bunch of skills covered in the course that I can use in both my personal life and professional life that will help me better communicate with those around me, and - crucially - be more effective at moving through tough conversations about important topics.
 
 # Crucial Conversations Alumni
 
