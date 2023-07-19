@@ -72,7 +72,7 @@ GitLab enables developers and security to work together in a single tool, allowi
 ### EMEA Time Zone Webinars
 
 #### Intro to CI/CD
-##### July 20th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
+##### July 24th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
 
 Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
 
