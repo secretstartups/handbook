@@ -370,20 +370,24 @@ Customized GitLab merchandise will be created for these contributors and will be
 
 ## Contributor lifecycle segments
 
-In an effort to understand, support, and empower the GitLab code contributor community, we have come up with the following lifecycle segments:
+In an effort to understand, support, and empower the GitLab code contributor community, we have come up with the following lifecycle segments.
+
+These lifecycle segments are assigned on an individual user level. For organizational recognition, see [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations/).
 
 | Contributor Experience level | MRs merged
 | ------ | ------ | 
-| New | 1-3 MRs |
-| Experienced | 4-10 MRs |
-| Advanced | 10+ MRs |
+| Level 0 | 0 MRs |
+| Level 1 | 1 - 3 MRs |
+| Level 2 | 4 - 25 MRs |
+| Level 3 | 26 - 75 MRs |
+| Level 4 | 75+ MRs |
 
 | Contributor Status | MRs merged | Timeframe
 | ------ | ------ | ------ |
-| First time contributor | First MR merged | Current month | 
-| Regular Contributor | 10+ MRs | Last 6 months | 
-| [Leading organizations](https://about.gitlab.com/handbook/marketing/developer-relations/leading-organizations/) | 20+ MRs | last 3 completed months |
-| Inactive contributors | 0 MRs | last 6 months |
+| Casual contributor | < 10 MRs | Last 6 months | 
+| Regular contributor | 10+ MRs | Last 6 months | 
+| Leading contributor | 20+ MRs | last 6 months |
+| [Core](/community/core-team/) | Election based | All time |
 
 Segmenting our contributor community will allow us to understand better how contributors "move" across this funnel and how we can better support them through their journey.
 
