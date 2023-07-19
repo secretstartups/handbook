@@ -130,6 +130,20 @@ When seeking to edit the GitLab for Open Source application page, find the appro
 
 Members of the [Developer Relations team](/handbook/marketing/developer-relations/) use GitLab Service Desk to manage program members' support requests. Because these requests often contain sensitive data and personally identifying information, we file them as issues in [a private project](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support). When a new request arrives, Service Desk will label the issue as `OS Program Support::Intake`. When the ticket is under active review and remediation with a team member, that team member should assign it to themselves and add the `OS Program Support::Open` label. When a support issue is pending program member review and/or additional details, it should receive the `OS Program Supprt::Pending` label. And when a a support issue has been resolved, it should receive the `OS Program Support::Closed` label. View the current status of all open program support issues on [a private project board](https://gitlab.com/gitlab-com/marketing/community-relations/open-source-program/open-source-program-support/-/boards/5749258).
 
+### Viewing program application reports
+
+Community Programs team members can access data regarding GitLab for Open Source Program applications via SheerID. These data are useful for understanding application trends, changes in application volume, and more.
+
+To access a report:
+
+1. Log into SheerID at `https://my.sheerid.com/`
+1. In the left-side navigation bar, click `Reporting`
+1. Set a time parameter in the `Timeline` selector
+1. Choose `Member OSS` from the `Program Name` pulldown selector
+1. Click the blue `Update` button
+
+[View a video tutorial](https://drive.google.com/file/d/1umJ7t0K3BRSI3HwQ090IBWZ3g64Ae2hN/view?usp=drive_link) of this process.
+
 # GitLab Open Source Partners
 
 The [GitLab Open Source Partners](/solutions/open-source/partners/) program exists to build relationships with prominent open source projects using GitLab as a critical component of their infrastructure. By building these relationships, GitLab hopes to strengthen the open source ecosystem.
