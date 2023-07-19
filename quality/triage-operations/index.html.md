@@ -400,17 +400,18 @@ graph LR
 * Rate limiting: 100 times per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_unassign_review.rb>
 
-#### Reactive `label` command
+#### Reactive `label` and `unlabel` commands
 
 * Automation conditions:
-  - A new note that starts with `@gitlab-bot label ~"label-name"` where `label-name` matches: 
+  - A new note that starts with `@gitlab-bot label ~"label-name"` or `@gitlab-bot unlabel ~"label-name"` where `label-name` matches: 
     - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`, `category:*`
-    - `backend`, `database`, `documentation`, `frontend`, `security`, `UX`
+    - `backend`, `database`, `documentation`, `frontend`, `handbook`, `UX`
+    - `security` (`label` only for community members)
     - `workflow::in dev`, `workflow::ready for review`, `workflow::blocked`
-  - The note is posted by the author or a team member
-* **Note**: to add multiple labels, list all labels after the command, for example: `@gitlab-bot label ~"group::project management" ~"type::bug"`
+  - The note is posted by the author, an assignee, or a team member
+* **Note**: to add or remove multiple labels, list all labels after the command, for example: `@gitlab-bot label ~"group::project management" ~"type::bug"`
 * Automation actions:
-  - Adds the requested label
+  - Adds or removes the requested label
 * Rate limiting: 60 times per requester/item per hour
 * Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/community/command_mr_label.rb>
 
