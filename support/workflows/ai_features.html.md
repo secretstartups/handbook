@@ -37,3 +37,4 @@ This table links to the epic name or production documentation, along with the re
 | [AI for Security and Operations: Generate tests in MR](https://gitlab.com/groups/gitlab-org/-/epics/10366) | [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/408995) |
 | [AI for Everyone: Summarize Issue Comments](https://gitlab.com/groups/gitlab-org/-/epics/10344) | [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/407779) |
 | [AI for Everyone: GitLab Chat](https://gitlab.com/groups/gitlab-org/-/epics/10220) | [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/408527)|
+| [AI for Everyone: Fill in merge request descriptions with AI](https://gitlab.com/groups/gitlab-org/-/epics/10591) | [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/416537)|
