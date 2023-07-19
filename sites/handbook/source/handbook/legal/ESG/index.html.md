@@ -46,6 +46,27 @@ Please allow a minimum of 10 working days for review.
 #### Team Member Volunteerism
 Through the GitLab Volunteer Program, GitLab team members are able to organize volunteer activities in their local community or virtually. If you would like to submit a request to organize a volunteer activity with a Registered Nonprofit Organization, please go to the [Philanthropic Requests epic](https://gitlab.com/groups/gitlab-com/-/epics/2145) and open a new issue using the [Volunteer_Support Template](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=volunteer_support).
 
+**SuitUp Volunteer Opportunities**
+
+[SuitUp](https://www.volunteersuitup.com/) is a 501c3 nonprofit that helps students prepare for life beyond the classroom and increase career readiness by partnering with businesses and schools to develop, organize, and implement engaging innovative business plan competitions in communities. SuitUp empowers students to discover their passions through experiential learning opportunities and mentorship alongside corporate volunteers.
+
+GitLab and SuitUp are teaming up to provide virtual volunteer opportunities for team members to make an impact on students around the world. Below is a list of the upcoming volunteer opportunities with SuitUp: 
+
+1. College & Career Panel: 
+    - Overview
+      - We will be kicking off the partnership with SuitUp by hosting a panel for students around the world. The panel's purpose is to share what it's like to work at GitLab while educating students about career opportunities, working in tech, individual college/career journeys, and resources to help support the journey into the corporate world.
+   - Date/Time: **Wednesday, August 2 from 10-11am EST**
+   - Sign up to be a panelist [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/34312)
+
+2. Virtual Competitions
+
+   - Overview: 
+       - Coached by GitLab volunteers, students (in teams of 4–10) will role-play as CEOs of the company tasked with solving a realistic corporate challenge. GitLab will work directly with SuitUp’s Programs Team to design a custom competition challenge that reflects their brand and social impact initiatives. Each team will pitch their idea to panel of judges and the winning team will come away with a prize.
+   - Dates/Times: 
+        - 1st Competition: October 11, 9am-11am EST
+        - 2nd Competition: October 11, 7-9pm EST 
+
+
 #### In Kind Support & Matching Gifts Program
 Currently, GitLab does not offer an in-kind product donation program for nonprofits. Please keep an eye on this page for updates. In addition, at this time, GitLab does not offer a matching gifts program. 
 
