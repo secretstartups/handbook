@@ -50,7 +50,7 @@ An issue is considered completely triaged when all of the following criteria are
 
 ## Type Labels
 
-Type labels are defined on the [labels page](https://docs.gitlab.com/ee/development/labels/index.html#type-labels).
+Type labels are defined on the [Engineering Metrics page](/handbook/engineering/metrics/#work-type-classification).
 If you are unsure about the type, you can tag the product or engineering manager for the [group](#group-labels) and ask their opinion.
 
 ## Group labels
