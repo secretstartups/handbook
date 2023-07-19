@@ -50,9 +50,18 @@ Currently, our frontend development guidelines only document features and practi
 
 #### Exit Criteria Progress
 
-| Criteria                             | Start Date | Completed Date | Progress | DRI     |
-| ------------------------------------ | ---------- | -------------- | -------- | ------- |
-| Add guidelines about frontend vision |            |                | 0%       | `@you?` |
+| Criteria                                                                                                  | Start Date | Completed Date | Progress | DRI     |
+| --------------------------------------------------------------------------------------------------------- | ---------- | -------------- | -------- | ------- |
+| Add introduction page to frontend documentation, explaining direction and high-level overview of the frontend codebase/architecture.              |            | 2023-06-28 | 100% | @f_caplette |
+| Include evolution of codebase over a three-year horizon.                                                  |            |                |          | @ntepluhina |
+| List frontend technologies used and the design principles that guide the frontend team's work.            |            |                |          | @leipert |
+| Explicitly define deprecation/removal plans, including why these features are being deprecated.           |            |                |          |         |
+| Communicate outcome to the broader frontend functional group.                                             |            |                |          | @donaldcook |
+| Discuss and document communication plan, including the frequency of updates from the working group.       |            |                |          | @donaldcook |
+| Document the requirements for reusable components outside of GitLab UI.                                                                    |            |                |          | @pslaughter |
+| [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536) |            |                |          |         |
+| Determine how the exception to the main strategy process will work, and if there is a need for a separate area for "wild" ideas.                |            |                |          | @ntepluhina |
+| Determine the evaluation and decision-making process for RFCs.                                            |            |                |          |     @f_caplette     |
 
 ### Roles and Responsibilities
 
