@@ -278,7 +278,7 @@ Steps:
     * Ask our CSMs in our `#customer-success` Slack channel about their preferences on how to communicate this change to our main customers:
         * Ping CSM managers using the `@cs-tam-mgrs` alias to request that they notify the CSMs for our top SaaS customers.
         * They might propose that we communicate in the customer's channel about the specifics of the change. If that is the case draft a msg, agree on its content with the CSM and share it in the relevant customer Slack channels (in sync with the CSM).
-    * Share information and a link to the Issue in `#whats-happening-at-gitlab` slack channel
+    * Share information and a link to the Issue in `#whats-happening-at-gitlab` Slack channel, mentioning `@release-managers`, `@db-team` and `@dbre` for visibility and engagement.
 * Shortly after that, the communication or change issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
 [The company official way to communicate downtime to customers is via status.io].
 * From this point, when the upcoming change is already public, we should:
