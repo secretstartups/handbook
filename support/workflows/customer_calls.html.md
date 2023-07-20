@@ -341,7 +341,7 @@ See more tips about video, environment and dress on our [communication page](/ha
 
 ### Audio
 
-[You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones), but [avoid AirPods because of audio quality and battery life issues](/handbook/finance/procurement/office-equipment-supplies/#price-guide-for-common-home-office-items).
+[You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones).
 
 See more tips on our [All Remote Workspace page](/company/culture/all-remote/workspace/)
 - [About Headphones](/company/culture/all-remote/workspace/#headphones)
