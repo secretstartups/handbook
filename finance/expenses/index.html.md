@@ -49,7 +49,7 @@ Team members are reimbursed on different schedules depending on their location. 
 * Gift cards are not accepted as a form of payment for business expenses.
 * Expense items must clearly state if the spend includes amounts for clients / non-team members. Tax requirements in certain countries require us to account for client spending differently.
 * All internet/telephone reimbursements must have a detailed receipt attached which shows the amount, service, and service date.
-   - Please note we do not reimburse late fees, initial set up, or equipment costs, including ipads, mobile phone handsets, airpods, routers.
+   - Please note we do not reimburse late fees, initial set up, or equipment costs, including ipads, mobile phone handsets, routers.
    - We do not reimburse for additional services on your telecoms provider bill, i.e. Television package, additional sim cards, family packs.
    - If an itemized bill is not available , costs will only be reimbursed for the element relating to Internet Access , i.e. if you pay for tv, internet & phone - the invoice should be divided by 3 /# of services and we will pay this value only.
 * Team members are not allowed to expense items on behalf of their managers.
