@@ -127,7 +127,7 @@ With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, pl
 3. Regarding GitLab financial information, GitLab is a public company and its public filings can be found on SEC.gov or on [GitLab's Investor Relations website](https://ir.gitlab.com/financial-information/sec-filings)
 
 ## Escalation Process
-In instances where a customer or a partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://drive.google.com/drive/folders/19ZHBpaRmmFJNG2BTp-Q5zI20yzt_X0Yr). Included in the overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable escalation form(s) 
+In instances where a customer or a partner has requested material non-standard terms that are not generally accepted, and where the transaction may merit additional consideration, please follow the [Escalation Process Overview](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-commercial/). Included in the overview are the steps required to meet threshold requirements, ensure the matter receives the appropriate level of review, and provide guidance to complete the applicable escalation form(s) 
 **Note This document is only available for GitLab Team Members.**
 
 ## How to get a Data Processing Addendum (DPA) signed
@@ -156,7 +156,7 @@ Occasionally GitLab will receive a notice from a customer or partner outlining e
 
 ## Legal Commercial Coverage Model
 
-1. Please review the [Legal Coverage Model](https://docs.google.com/presentation/d/1IlrKvGnf2aIFRAGfUNmWNXt-Sp5LJRBB/edit#slide=id.p1) which provides an overview of the GitLab Legal coverage model by region & segment. *NOTE: this is available to GitLab team members only*
+1. Please review the [Legal Coverage Model](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-commercial/) which provides an overview of the GitLab Legal coverage model by region & segment. **NOTE: this is available to GitLab team members only**
 2. Even though this resource provides individual contact information, please follow the applicable steps to open a Legal Request if you have a need related to a customer.
 3. Please note this model is a guide, as the specific team member assigned will take into consideration current work-flow and subject-matter expertise.
 
@@ -178,7 +178,7 @@ With regards to completing RFPs, sometimes referred to as RFIs, RFQs or RFXs, pl
 
 
 ## Best Practices for a Legal Call
-Please review the GitLab [Legal Best Practices Resource](https://docs.google.com/document/d/1jo90-IWcUebRN5OQzqluxrqAtcpnv55U24FqB1RWuxs/edit) which outlines best practices when contemplating a call between Legal and customer or partner's legal representative. 
+Please review the GitLab [Legal Best Practices Resource](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-commercial/) which outlines best practices when contemplating a call between Legal and customer or partner's legal representative. 
 **NOTE: This is available to GitLab Team Members only**
 
 ## Request for Training (LevelUp) Certification Purchases
@@ -211,7 +211,7 @@ Once the Request Form is executed, the sales team member or solutions architect 
 5. GitLab has a [Master Partner Agreement](https://about.gitlab.com/handbook/resellers/reseller-agreement/) that can include multiple exhibits to enable partners to: (i) resell, (ii) refer, or (iii) distribute GitLab software and professional services.
 
 ## When does GitLab Negotiate?
-GitLab has certain thresholds when determining when, and to what extent, we will negotiate our standard terms.  GitLab will consider engaging in negotiations as detailed [here].  
+GitLab has certain thresholds when determining when, and to what extent, we will negotiate our standard terms.  GitLab will consider engaging in negotiations as detailed [here](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-commercial/).  
 **NOTE: This is available to GitLab team members only**
 
 If the net ARR threshold requirements are met, a Sales team member must open a Legal Request to ask for the most current agreement template. Please do not save an agreement template to a local drive as it may not be the most current version of the agreement. It is highly recommended that the Sales team member uses discretion and discusses the approach with the assigned Legal team member to set the appropriate expectations with the customer. Please see the Subscription Agreement basics below. While negotiation may be inevitable, it is always worth considering the following implications and how best to establish the tone of potential negotiations:
