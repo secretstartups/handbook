@@ -234,7 +234,7 @@ When the call has ended:
 
 #### When the customer incident is not resolved
 
-Situations may arise where a customer incident has not been resolved but they need to step away for an extended time period, such as a night to get rest. Before ending the call in such a scenario, explain to the customer that follow up should happen with a _new_ emergency. That will ensure th a DRI for the next time they're available.
+Situations may arise where a customer incident has not been resolved, but they need to step away for an extended time period, such as overnight to get rest. Before ending the call in this situation, explain to the customer that they need to create a _new_ emergency for follow-up. Creating a new emergency ensures that there is a DRI when the customer is available again.
 
 For example:
 
