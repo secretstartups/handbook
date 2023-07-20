@@ -24,7 +24,7 @@ At GitLab, we have our own flavor of JTBD and use it throughout the design proce
 
 JTBD come directly from research and customer conversations with those people who do the tasks/jobs we need to design for. [Problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/#what-is-problem-validation) is one of the most effective ways to confidently inform the writing of a JTBD.
 
-To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to create a Job Map](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/mapping-jobs-to-be-done/)
+To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to use JTBD](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/using-jtbd/)
 
 You can also watch the following video for a brief overview of why JTBD are so valuable in the product development process:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/H6j1Xd4yufI"></iframe></figure>
@@ -105,7 +105,7 @@ _JTBD hierarchy diagram_
 
 ### Using JTBD at GitLab
 
-There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our How to use Jobs to Be Done handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs] before spending too much time learning about inaccurate jobs.
+There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) before spending too much time learning about inaccurate jobs.
 
 ## Quick methods to increase confidence
 
