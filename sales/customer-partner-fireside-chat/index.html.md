@@ -38,7 +38,7 @@ The process to nominiate a customer or partner for a fireside side chat:
 1. Selecting and pairing the right guest and moderator. Ensuring you have a well thought out agenda for the chat that you both are aligned to 
 1. Scheduling at least 1 prep call in advance, to conduct a quick tech check, go over the topics and flow of the chat. We recommend that the guest and moderator spend at least 5 minutes getting to know each other prior to the Fireside Chat. The moderator should also set expectations during this chat, cover the need to use inclusive language, and share a bit about GitLab’s CREDIT values 
 1. Have a well-prepared and knowledgeable moderator. Prior to the fireside chat, they should have invested time in learning about the customer or partner. A great moderator can help the customer or partner feel comfortable & make the conversation interesting for the audience 
-1. Ensuring the guest and moderator have the right equipment; we recommend a dedicated microphone (preferably not airpods), a webcam or camera other than the standard MacBook camera, and an ultra-stable internet connection
+1. Ensuring the guest and moderator have the right equipment; we recommend a dedicated microphone, a webcam or camera other than the standard MacBook camera, and an ultra-stable internet connection
 1. Create an informal setting, both the guest and the moderator should feel comfortable with the questions, the format, and letting the conversation flow naturally. However, the informality of a fireside chat does not mean that the fireside chats are unprepared, a lot of work goes into these behind the scenes and should not be skipped.  
 
 
