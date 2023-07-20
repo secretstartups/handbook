@@ -35,8 +35,8 @@ These standards apply to all GitLab team-members, contractors, advisors, and con
 | Role  | Responsibility | 
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this document |
-| PeopleOps | Responsible for implementing and executing this document | 
-| PeopleOps (Code Owners) | Responsible for approving significant changes and exceptions to this document |
+| People Connect | Responsible for implementing and executing this document | 
+| People Connect (Code Owners) | Responsible for approving significant changes and exceptions to this document |
 
 ## Offboarding Procedure
 
@@ -109,10 +109,13 @@ As per the [automation](https://about.gitlab.com/handbook/people-group/engineeri
 The People Connect Team member will need to complete:
 
 - Remove the team members ReadMe
+   - If the ReadMe is in a private project, request assistance from the IT Ops team to delete (you can tag them in the team page MR and private Slack channel)
+- Check for hardcoded references
+   - The People Connect Specialist handling the offboarding should check to see whether the offboarded team members name is listed on any other public Handbook pages. This can be done by doing a Google search for the team members name and "GitLab" - this should pull up results that reflect any association with the team members name and GitLab (including a ReadMe).
 
 ### Offboarding Compliance
 
-The People Connect Team ensures all offboarding issues are opened within each week of the offboarding date and once all tasks have been completed by the relevant Team Member(s) and/or Departments, The People Connect Team will close the offboarding issue. On a quarterly basis the People Connect Team  will audit all open offboarding issues and ping the relevant Departments within the offboarding issue to call for tasks to be completed.
+The People Connect Team ensures all offboarding issues are opened within each week of the offboarding date and once all tasks have been completed by the relevant Team Member(s) and/or Departments, the People Connect Team will close the offboarding issue. On a quarterly basis the People Connect Team  will audit all open offboarding issues and ping the relevant Departments within the offboarding issue to call for tasks to be completed.
 
 
 All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-technology/tech-stack-applications/).
