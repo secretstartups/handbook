@@ -570,6 +570,17 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 
     If the related SDR relays information that was not picked up in the new SDR's research, the new SDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member who has been engaged so they can reach out. If the new SDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the new SDR and the related SDR. **Note: Only activity logged in SFDC will be recognized as activity.**
 
+## BDR Territory Movement Rules of Engagement
+
+When a territory moves from one BDR to another but the previous BDR remains with the same team (ex: moves from one MM territory to another) the BDR vacating the territory will have the chance to temporarily retain ownership of accounts with which they have generated ongoing engagement (subject to manager approval). At the time of the holdover, an issue will be created that will be reviewed in 30 days to verify account ownership. This includes:
+
+*  The outgoing BDR will be allowed to hold back for 30 days any account with which they can demonstrate two-way engagement that could potentially lead to an IQM and new opportunity. If, after 30 days, no IQM has been set and no stage 0 opportunity exists, the account will be moved by the manager to the new BDR assigned to the territory. If the outgoing BDR is successful in generating a new opportunity, the account will remain with them until the opportunity is either qualified or unqualified. 
+* The outgoing BDR will be allowed to hold back for 30 days any account with which there is an existing stage 0 opportunity where they are listed as the BDR. After 30 days if the opportunity is not qualified, the account will be moved by the manager to the new BDR assigned to the territory.
+* In instances where an account has been reassigned to the new BDR and the outgoing BDR had two-way engagement more than 30 days ago with the account but was unable to convert them to an SAO, and the account later returns unprompted and with no prior activity from the new BDR assigned to the territory and wants to pursue a conversation with sales, the team (manager) will receive SAO credit from any resulting opportunity.
+* Any other situations that arise which result in a credit dispute will be investigated and resolved by the BDRs' leader and senior leader.
+
+**The new BDR assigned to the territory is free to work any account (by moving them into Actively Working Account status) that was previously engaged with by the outgoing BDR but does not have an existing stage 0 opportunity, nor is part of the 30 day holdover, and will receive SAO credit for any opportunity that is generated from their activity based on normal rules of engagement.**
+
 ## Inbound Lead Management
 
 **Begin with Enriching and using Find Duplicates**
