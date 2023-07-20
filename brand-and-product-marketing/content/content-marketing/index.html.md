@@ -160,8 +160,7 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 
 **Examples:**
 1. [How Hotjar deploys 50% faster with GitLab](/customers/hotjar/)
-2. [Axway aims for elite DevOps status with GitLab](/customers/axway-devops/)
-3. [Security provider KnowBe4 keeps code in-house and speeds up deployment](/customers/knowbe4/)
+2. [Security provider KnowBe4 keeps code in-house and speeds up deployment](/customers/knowbe4/)
 
 ## Recommended Slack channels
 
