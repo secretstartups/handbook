@@ -287,8 +287,8 @@ Your primary job is to coordinate the emergency response. That could mean:
 
 It could _equally_ mean:
 
-- identifying other experts on the Support team to help do the above
-- reaching out to development teams to find a subject matter expert (SME)
+- [identifying other experts](/handbook/support/workflows/how-to-get-help.html#expand-to-support-pods-and-other-subject-matter-experts) on the Support team to help do the above
+- [reaching out to development teams](/handbook/support/workflows/how-to-get-help.html#how-to-find-the-correct-development-section-and-group-to-reach-out-for-help) to find a subject matter expert (SME)
 - suggesting that the customer reach out to additional experts on their side (for example, if the problem is slow storage, you might suggest getting someone from their storage team)
 
 Remember to say only things that help the customer and that maintain their confidence in you as the person in charge of getting their problem resolved. When you're not sure what to do, you might also be unsure what to say. Here are some phrases that might help:
@@ -301,7 +301,13 @@ Remember to say only things that help the customer and that maintain their confi
 
 If you encounter a SaaS emergency at the weekend that you are unable to progress, then consider checking if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available to offer any help or guidance.
 
-If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager). 
+
+### Triggering a Developer Escalation
+
+On rare occasions, you and the manager on-call may decide it's necessary to initiate the [developer escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process) to get the needed developer input. Keep in mind that the developer who takes the escalation might not be familiar with the aspect of GitLab that is the focus of the emergency, and it can take them time to get up to speed.
+
+To trigger a developer escalation, see [this process outline](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#process-outline). 
 
 ## License Emergencies
 
