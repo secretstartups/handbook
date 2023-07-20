@@ -6,20 +6,19 @@ canonical_path: "/company/team/structure/working-groups/product-accessibility/"
 ---
 
 ## On this page
-
 {:.no_toc}
 
 - TOC
-  {:toc}
+{:toc}
 
 ## Attributes
 
 | Property          | Value                                                                                                                                     |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Date Created      | 2023-04-20                                                                                                                                |
+| Date Created      | 2023-07-19                                                                                                                                |
 | Target End Date   | TBD                                                                                                                                       |
-| Slack             | #wg_* (only accessible from within the company)                                                                             |
-| Google Doc        | [Agenda](tbd) (only accessible from within the company) |
+| Slack             | #wg_product_accessibility (only accessible from within the company)                                                                             |
+| Google Doc        | [Agenda](https://docs.google.com/document/d/1Ss3vVvLS_sxwkuXT6zm2Unz69KRH2S_FWG_G3xUesRE/edit?usp=sharing) (only accessible from within the company) |
 | Epic              |                                                                               |
 | Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress)                                                                                     |
 
@@ -47,7 +46,7 @@ This Working Group has the following goals:
 
 | Criteria                                                                                      | Start Date | Completed Date | Progress | DRI     |
 | --------------------------------------------------------------------------------------------- | ---------- | -------------- | -------- | ------- |
-| Add axe-core cehcks to feature specs                                                          |            |                | 0%       | `@you?` |
+| Add axe-core checks to feature specs                                                          |            |                | 0%       | `@you?` |
 | Add axe-core checks to components specs                                                       |            |                | 0%       | `@you?` |
 | Address accessibility violations                                                              |            |                | 0%       | `@you?` |
 | Validate existing accessibility issues                                                        |            |                | 0%       | `@you?` |
