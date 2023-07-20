@@ -339,6 +339,47 @@ Project labels are defined as needed, but they are required unless the issue des
 
 Incidents impacting Delivery may optionally include an [impact label](/handbook/engineering/releases/#delivery-impact-labels). 
 
+#### Delivery:System-specific ways of working
+
+In addition to the Epics, Issue Boards, Labels, and Workflow practices common to the entire team, the Delivery:System team adopts a few extra approaches to improve its communication and better share knowledge and decisions within the team.
+
+* Each Epic should contain a `Decision Log`: this helps to keep a single, centralized SSOT where all decisions taken during project work are listed. For completeness, we should report the date of the decision,
+who was involved in the discussion and decision, and the outcome of the decision.
+
+For simplicity, you can use the snippet below to add Decision Log to Epics Description:
+```
+### Decision Log
+
+<details>
+  <summary>Decision List</summary>
+
+  <details>
+    <summary>YYYY-MM-DD</summary>
+      <Discussion details, people involved in the discussion and decision, decision outcome>
+  </details>
+</details>
+```
+
+* Each Issue should contain a `Progress Thread` as a comment: this helps make the work visible in an async environment and shares knowledge while the work progresses.
+Comments within the progress thread should highlight the progress achieved, the intermediate steps/results we got, assumptions, discoveries, and blockers we face.
+This approach allows people from the team and outside of the team to build a clear idea and eventually contribute with comments and suggestions.
+
+* Each week, we should provide at least two status updates on Slack: Epics and Issues are our SSOT for the work we are doing, and to make the work more inclusive and visible to the team and the wider group,
+we should post a status update on the Delivery Group channel (`#g_delivery`) at least two times a week (more updates are welcome). The status updates should provide what we completed, what we plan to do today, and what we will do next, and items not work-related and part of everyday life. In the Status Update, links to Progress Thread comments are highly recommended so that we can provide more context and use the Issue as SSOT for discussions. 
+
+An example of a status update is:
+```
+Today:
+* Weekly sync meeting
+* Reviewed team OKR related MRs
+* Wrestled draft MR to implement a flagger Canary resource template but helm(files) and pipeline failures gave me a hard time
+* Had the best Pistachio Icecream ever
+
+Tomorrow:
+* Fighting with Helm: I gave a [more detailed update on the issue's progress thread](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19471#note_1473654659)
+* Going for a marathon training in my early morning
+```
+
 ### Choosing something to work on
 
 The Delivery group generally has working epics assigned to a [DRI] who is responsible for making sure work is broken down into issues, and appropriate issues are moved onto the [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the [Build board] regardless of which project it belongs to.
