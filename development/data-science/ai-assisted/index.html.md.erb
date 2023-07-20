@@ -53,9 +53,19 @@ The following people are permanent members of the AI Assisted Group:
 * Tag a team member in a merge request or issue
 * Post a message in the #g_ai_assisted channel (internal only)
 
-## Initial focus
+##  Responsibilities
 
-Our initial focus is to integrate the acquired UnReview technology into GitLab, starting with the establishment of the AI Assisted team in June of 2021. In a nutshell, UnReview is a machine learning (ML) based solution for automatically identifying appropriate expert code reviewers. The [press release](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html) has more details on the acquisition. Additional information on the UnReview technology and the integration process can be found on the [project page](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/projects/unreview/).
+Team responsibilites include:
+* Creating, testing, and tuning ML models
+* Creating PoCs for AI features, all in accordance with the product roadmap and alignment between the AI Assisted and AI Framework teams. The PoC proves the concept. It doesn't need to implement non-functional requirements such as performance, availability, maintainability, observability, etc.  A PoC may also be written a different language than what is implemented in production (Python to Ruby or vice-versa).  This is similar to how [the vulnerability research and secure development teams operate](https://about.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/#how-we-work).
+* Turning these PoCs over to the relevant product group (such as AI Framework formerly called AI Enablement) to be productized and supported long-term. This is a similar to how the [vulnerability research team](/handbook/engineering/development/sec/secure/vulnerability-research/) operates (examples of the transition process followed for [LicenseDB](https://docs.google.com/document/d/1NQwdmgngmFLS-0iA5DhywKf_8H7w0oJQfmWRPyKG5i0/edit#heading=h.xr5pzhtyxvhi) and [VET](https://docs.google.com/presentation/d/1VAtshsRQaF9PRSNGL-A9uDQUm38k7tBxDrhRqGrWqzc/edit#slide=id.p)).
+
+## Short term priorities
+
+* Improving the user acceptance rate of code suggestions.
+* Keeping the current AI gateway running and working until AI Framework takes over production support for it (with continued collaboration from those who know it).
+* Custom evaluation pipelines (prompt library) - [Epic](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/code-suggestions/-/epics/10) 
+
 
 ## Project management process
 
@@ -69,9 +79,10 @@ Our team use the following workflow stages defined in the [Product Development F
 
 We use an epic roadmap to track epic progress on a quarterly basis.
 
+
 ### Issue boards
 
-We use a [team specific issue board](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/review-recommender/-/boards/3537332?label_name[]=group%3A%3Aai%20assisted) to track issue progress on a daily basis. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group. Currently as the team is working on Suggested Reviewer as a feature we have a single board.
+We use a [team-specific issue board](https://gitlab.com/groups/gitlab-org/-/boards/5885823?label_name%5B%5D=Category%3ACode%20Suggestions) to track issue progress. Issue boards are our single source of truth for the status of our work. Issue boards should be viewed at the highest group level for visibility into all nested projects in a group. Currently, as the team is working on the Code Suggestions feature, we have a single board.
 
 
 ### Iteration
@@ -130,7 +141,7 @@ We tag each issue and MR with the planned milestone or the milestone at time of 
 
 Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to record all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
 
-We have a weekly team meeting at 8am Pacific on Thursdays.
+We have a weekly team meeting at 11pm Pacific on Wednesdays (as many team members are in APAC).
 
 Meetings will be in the [`AI Assisted Group` playlist in GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kp5fbMFUOKl-uroknEjofJ3)
 
@@ -148,11 +159,19 @@ We are always exploring new tools and frameworks to optimize the ML workflow . C
 - Pytorch as a framework
 - Opensource tools for Model Monitoring and Observability
 
+<%# TBD Mon to link to the code sugestions architecture documentation %>
+
+
 ### Demos
 
-We periodically showcase demos and if there is any specefic demo on Machine learning that would be beneficial we would love to hear from you . Here is a list
+We periodically showcase demos, and if there is any specific demo on Machine learning that would be beneficial, we would love to hear from you. We have monthly demo days when the team presents recent work done in ML, answers questions relevant to ML, and makes tutorials.  Here is a list
 
 - [CI/CD for Machine-learning](https://www.youtube.com/watch?v=7mUgGFgab4E)
 - [Suggested Reviewer MLOPS pipeline using Gitlab]
 
+<%# TBD Mon to update with links to code suggestion demos %>
+
+
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Applied Ml" } %>
+
+<%# TBD Mon to update as the dashboads are empty %>
