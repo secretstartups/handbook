@@ -68,7 +68,7 @@ Articulating value is a critical sales skill in achieving [Command of the Messag
 
 ----
 
-<big>[Axway](/customers/axway-devops/)</big><br>
+<big>Axway</big><br>
 **Problem:** Legacy CD tool was slow to provide developer feedback and lacked security<br>
 **Solution:** GitLab Premium (CI/CD)<br>
 **Result:** Reduced change failure rate below 15%, and MTTR to less than 2 hours.<br>
