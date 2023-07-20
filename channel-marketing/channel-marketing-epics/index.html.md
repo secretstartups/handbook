@@ -15,9 +15,9 @@ description: "A comprehensive list of all of Channel Marketing epic codes."
 
 # Channel Marketing Epics
 
-## MDF Requests
-
 Create epic here: https://gitlab.com/groups/gitlab-com/marketing/-/epics/new
+
+## MDF Requests
 
 **Note:** Do not pay out invoice/P.O. until MDF proof of performance (POP), lead list and Invoice have been processed and noted as approved by the Partner Marketing team.
 
@@ -168,5 +168,58 @@ For all details regarding swag, [please see here](https://about.gitlab.com/handb
 
 /label ~"mktg-status::wip"  ~“Channel Marketing” ~"Channel" ~"MDF"
 /confidential
+```
+
+
+## Channel Events
+
+**To Partner Marketing Webinars**
+
+
+```
+<!-- Name this epic: Name of Event - Date of Event -->
+
+## [Main Issue]()
+
+## [Copy Document](https://docs.google.com/document/d/1w9yMw2DQJ5u1RxC3kYO0ZgQM5TJfKlRiGGjJqVFg1GE/edit?usp=sharing)
+
+## [Dry Run Agenda]() - [template](https://docs.google.com/document/d/1vrdOEV4fbl5bzYpqQcCFnMN6QjuCIc0nRfilP3IvCfM/edit#heading=h.qv152nkfuvce)
+
+## [Landing Page]() - `to be added when live` 
+
+## Key Details 
+* **Channel Marketing Manager:** 
+* **Campaign Type:** Webinar
+* **Official Name:** 
+* **Date(s):**  
+* **Campaign Name (SFDC/Marketo Name):**
+Format: YYYYMMDD_FYYY_QX_Quarterly_Partner_Marketing_Webinar_Region (i.e. EMEA/AMER or APAC)
+Note: Campaign format is critical to maintain reporting integrity
+* [ ] [**Salesforce Campaign**]()
+* [ ] [**Marketo Program**]()
+
+## On24 Links
+- [ ] [Link for AUDIENCE to join](ADD LINK TO THE AUDIENCE from ON24)
+- [ ] [Link to registration reports, analytics, etc.](ADD LINK TO THE Reports from ON24)
+- [ ] [Link used to review audience-view of event lobby](ADD LINK TO THE Preview from ON24)
+- [ ] [Link supplied to event producer, presenters and Q&A managers to conduct dry run and join webinar day of](ADD LINK TO THE Present from ON24)
+
+## Sub-Issue Creation
+Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit?usp=sharing) to calculate the due dates. `All Webcasts will be -45 day SLA webcasts since they require all new content.`
+
+### PMM Creates and assigns all to self except Marketo LP&A
+
+* [ ] [On24 Event Creation](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#on24-webcast-setup)
+* [ ] [Program Tracking](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=program-tracking)
+* [ ] [Webcast Prep Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast-prep)
+* [ ] [Dry Run Scheduling Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast_dry_run_scheduling)
+* [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) 
+* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_mkto_landing_page)
+* [ ] [News on Demand Article/Email Creation]()
+* [ ] [Update Partner Portal - Partner Marketing Webinar Page]()
+* [ ] [Create Post-event Survey]()
+
+
+/label ~"mktg-status::wip" ~"Webcast - GitLab Hosted" ~"Channel Marketing"
 ```
 
