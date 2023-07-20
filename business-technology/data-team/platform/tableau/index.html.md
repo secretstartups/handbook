@@ -672,6 +672,8 @@ Tableau offers several [certifications](https://www.tableau.com/learn/certificat
 
 </details>
 
+<details markdown=1>
+
 <summary><b>GitLab Training Videos</b></summary>
 
 * [Creating a Tableau Data Source: Custom SQL](https://youtu.be/dE0fnhYcyDA)
