@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "GitLab Security Secure Coding Training"
 ---
 
+{::options parse_block_html="true" /}
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -25,13 +27,9 @@ classes of vulnerabilities that have been identified in GitLab.
 
 ## Secure Code Warrior
 
-GitLab uses Secure Code Warrior to provide ongoing secure coding training. Log in via Okta.
+GitLab uses Secure Code Warrior to provide ongoing secure coding training. Eligible team members can log in via Okta.
 
-### Accessing Secure Code Warrior
-
-AppSec currently has a limited number of seats available on Secure Code Warrior. Please [check and comment on this issue](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1580) if you'd like access!
-
-The AppSec team may, at its discretion, remove users to release seats for other team members. We will let you know if this happens.
+If you think you should have access but don't see it in Okta, check this list of roles below.
 
 ### Using Secure Code Warrior
 
@@ -47,11 +45,120 @@ Visit the [`#security-secure-code-warrior`](https://gitlab.slack.com/archives/C0
 
 Found a bug, confusing content, or incorrect answer? Please use Secure Code Warrior's built in bug reporting by selecting "Help" in the top right, then selecting "Submit bug or feedback". This will help improve the platform for all users.
 
-## GitLab Secure Coding Training
+### Mandatory training
 
-GitLab Secure Coding Training is an annual requirement that must be completed by a sub-group of individuals in the Engineering Department.  GitLab has created in-house training that is being provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party security platform.
+GitLab requires that team members with development responsibilities complete a specific secure code training course at least annually. Each team member must complete it by the end of the Financial Year at the latest. 
 
-This training is intended to help developers identify potential security vulnerabilities early, with the goal of reducing the number of vulnerabilities in the product over time.
+The training is provided via Secure Code Warrior and the course is titled ["GitLab Secure Development Short Course"](https://portal.securecodewarrior.com/#/courses/course-list/e6a9e788-8aa7-4aeb-9849-9072c00e6f58). It takes 1-3 hours. The requirement is only to complete the course: hints may be used, and incorrect answers are OK. Have fun and learn!
+
+<details>
+  <summary markdown="span">Expand to see the roles who must complete mandatory training.</summary>
+
+The criteria used to determine inclusion were:
+
+- Does the role description include writing or reviewing code that may interact with GitLab RED data, and in a language supported by Secure Code Warrior?
+  - This is typically Individual Contributors and their direct Managers. Senior Managers and above are excluded, at present.
+- Does AppSec believe the role benefit from Secure Code Training anyway?
+
+If a role should be added or removed, please open an MR and @ mention `@gitlab-com/gl-security/appsec`. If your role is in the list already but SCW doesn't show up in Okta, ask for help in `#secure-code-warrior` on Slack. An AppSec team member will add you to [the Google Group](https://groups.google.com/a/gitlab.com/g/okta-securecodewarrior-users/members) and update any baseline entitlements / onboarding checklists to ensure those in your role are included in the future.
+
+The roles are:
+
+- `ceo_fullstack_engineer`
+- `community_relations_fullstack_engineer`
+- `community_relations_senior_fullstack_engineer`
+- `community_relations_staff_fullstack_engineer`
+- `corporate_it_it_security_analyst`
+- `corporate_it_it_systems_engineer`
+- `corporate_it_senior_it_compliance_engineer`
+- `corporate_it_senior_it_security_engineer`
+- `corporate_it_senior_it_site_reliability_engineer`
+- `corporate_it_senior_it_systems_engineer`
+- `corporate_it_staff_it_systems_engineer`
+- `csm_customer_success_engineer`
+- `csm_manager_customer_success_engineers`
+- `csm_senior_customer_success_engineer`
+- `customer_support_manager_support_engineering`
+- `customer_support_senior_support_engineer`
+- `customer_support_staff_support_engineer`
+- `customer_support_support_engineer`
+- `data_analytics_engineer`
+- `data_data_engineer`
+- `data_data_scientist`
+- `data_junior_data_engineer`
+- `data_senior_analytics_engineer`
+- `data_senior_data_engineer`
+- `data_senior_data_scientist`
+- `data_staff_analytics_engineer`
+- `data_staff_data_engineer`
+- `data_staff_data_scientist`
+- `development_associate_backend_engineer`
+- `development_associate_fullstack_engineer`
+- `development_backend_engineer`
+- `development_distinguished_engineer`
+- `development_distribution_engineer`
+- `development_engineering_fellow`
+- `development_frontend_engineer`
+- `development_fullstack_engineer`
+- `development_manager_engineering`
+- `development_manager_frontend_engineering`
+- `development_manager_fullstack_engineering`
+- `development_principal_engineer`
+- `development_principal_fullstack_engineer`
+- `development_senior_backend_engineer`
+- `development_senior_distinguished_engineer`
+- `development_senior_distribution_engineer`
+- `development_senior_frontend_engineer`
+- `development_senior_fullstack_engineer`
+- `development_senior_vulnerability_research_engineer`
+- `development_staff_backend_engineer`
+- `development_staff_frontend_engineer`
+- `development_staff_fullstack_engineer`
+- `development_staff_vulnerability_research_engineer`
+- `digital_experience_fullstack_engineer`
+- `digital_experience_manager_engineering`
+- `digital_experience_manager_engineering_marketing`
+- `digital_experience_marketing_frontend_engineer`
+- `digital_experience_senior_frontend_engineer`
+- `digital_experience_senior_marketing_frontend_engineer`
+- `enterprise_applications_integrations_engineer`
+- `enterprise_applications_senior_integrations_engineer`
+- `incubation_engineering_senior_fullstack_engineer`
+- `incubation_engineering_staff_incubation_engineer`
+- `infrastructure_backend_engineer`
+- `infrastructure_distinguished_engineer_infrastructure`
+- `infrastructure_engineering_fellow_infrastructure`
+- `infrastructure_senior_backend_engineer`
+- `infrastructure_senior_database_reliability_engineer`
+- `infrastructure_senior_site_reliability_engineer`
+- `infrastructure_site_reliability_engineer`
+- `infrastructure_staff_backend_engineer`
+- `infrastructure_staff_site_reliability_engineer`
+- `marketing_ops_senior_data_engineer`
+- `people_operations_fullstack_engineer`
+- `quality_backend_engineer`
+- `quality_manager_quality_engineering`
+- `quality_principal_engineer`
+- `quality_senior_backend_engineer`
+- `quality_senior_engineering_analyst`
+- `quality_senior_software_engineer_in_test`
+- `quality_software_engineer_in_test`
+- `quality_staff_backend_engineer`
+- `quality_staff_engineering_analyst`
+- `quality_staff_software_engineer_in_test`
+- `security_distinguished_engineer_security`
+- `security_manager_security_assurance_engineering`
+- `security_manager_security_engineering`
+- `security_principal_security_engineer`
+- `security_security_assurance_engineer`
+- `security_security_engineer`
+- `security_senior_security_assurance_engineer`
+- `security_senior_security_engineer`
+- `security_staff_security_assurance_engineer`
+- `security_staff_security_engineer`
+- `ux_senior_fullstack_engineer`
+
+</details>
 
 ## Other Training
 
