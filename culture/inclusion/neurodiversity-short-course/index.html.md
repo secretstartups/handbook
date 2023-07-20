@@ -11,6 +11,9 @@ canonical_path: "/company/culture/inclusion/neurodiversity-short-course/"
 
 In this course you will read or watch content created by the Diversity, Inclusion & Belonging team, curated from experts in the field via Linkedin Learning and hear from GitLab Team Members who are neurodivergent. I am excited for GitLab Team Members to learn more about Neurodiversity and I want you all to remember the experiences that you will read or watch are all individuals, everyone's experience is different, what works for one person may not work for another. This course will hopefully give you some methods to help appreciate people as individuals with individual needs and to be more inclusive to neurodivergent team members. This is not a certification and the learning is a continuous process. 
 
+You can access this short course in [LevelUp here](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/neurodiversity-in-the-workplace
+)
+
 ### Exploring Neurodiversity 
 
 #### [Defining Neurodiversity via Linkedin Learning](https://www.linkedin.com/learning/hiring-and-supporting-neurodiversity-in-the-workplace/defining-neurodiversity?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2255073)
