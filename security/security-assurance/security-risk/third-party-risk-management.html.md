@@ -273,12 +273,16 @@ Want to vet a third party before initiating a new procurement request? [Click he
 
 ### TPRM Risk Acceptance Process
 
-Risk acceptance can be pursued when the business acknowledges that potential loss from a risk is not great enough to warrant spending the resources necessary to avoid it. When Risk Acceptance is a viable option TPRM will fill out the [Risk Acceptance Issue template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) and assign it to the Business Owner. Note that business justification and [approvals](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) are required.
+Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relavent stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
 
-There are two TPRM Risk Acceptance types:
+Identified deficiencies are reported to the Business Owner via a [Risk Acceptance Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) within GitLab. This issue contains (1) background information pertanent to the vendor or requisition, (2) a description of the validations performed by the Security Risk team, and (3) a description of Security deficiencies and resulting risk that may be present to GitLab data shared with the vendor. A "worst case" scenario is included to portray the potential real-world impact of a security incident resulting from the risk. If the Business Owner decides to move forward with the vendor in light of the reported deficiencies, they are responsible for completion of the below items:
+1. **Acknowledgement** of the [Accept the Risk](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
+2. **Justification** for moving forward with the vendor in light of the identified defiencies.
+3. **Approval** of the risk. Note that this may require multiple levels of approval based on the level of risk identified. See below.
 
-1. When business needs dictate that the Security Assessment process is delayed or bypassed (Delay or Bypass TPRM Review)
-2. When Observations are identified during a Security Assessment (Accepting Risk Associated to a Known Issue)
+Deficiencies require different stakeholder input based on the level of risk associated with the deficiency:
+- **Moderate Risks** are defined as risks that could result in the loss or improper disclosure of "lower" sensitivity (Orange) GitLab data. These risks are reported to the Business Owner for approval. If the Business Owner is not a Director or above, additional Director approval is required.
+- **High Risks** are risks that could result in the loss or improper disclosure of higher sensitivity (Red) data belonging to GitLab customers. Due to the higher level of sensitivity and potential impact on GitLab's obligations for securing this data, approvals are required from the Business Owner, their Director, and the appropriate member of the E-Group as determined by the Security Risk team. This is done to ensure appropriate stakeholder visibility and understanding of the risk being undertaken.
 
 In the case of a control deficiency introducing a material risk to the security of data, the Privacy team should be notified prior to finalization of the associated Risk Acceptance. Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner.
 
