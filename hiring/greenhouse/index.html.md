@@ -48,7 +48,7 @@ All applicants begin our hiring process in the `Application Review` stage. If yo
 1. Provide the Talent Acquisition Team with your feedback on candidates:
    1. Click on a candidate in the `Candidates` tab to view them for a specific role or click, `All Candidates`, to view all candidates that you're an Interviewer for.
    1. Click `Application` on the left side of an applicant's profile to view their resume and cover letter, if provided. You can also click on the `Details` tab on the top of an applicant's profile under `All Attachements` to see a preview of both the resume and cover letter, if provided. Below the documents, click, `Job Post Questions` to expand and view their answers to specific application questions. If there are **no** job post questions answered, the candidate was likely sourced or exported from an internal job board and would need to have the questions [sent to them](https://support.greenhouse.io/hc/en-us/articles/360002568971-Job-Post-Request-Email#%E2%80%9Cindividual%E2%80%9D). You may send them or you can tag your recruiter to do so.
-   1. Evaluate the candidate's resume, cover letter, and job post questions while being [mindful of our hiring principles](/handbook/hiring/principles/). Leave your recommendation on the candidate as a note in the `Make a Note` area in the right sidebar and tag the responsible Recruiter.
+   1. Evaluate the candidate's resume, cover letter, and job post questions while being [mindful of our hiring principles](/handbook/hiring/#our-guiding-principles). Leave your recommendation on the candidate as a note in the `Make a Note` area in the right sidebar and tag the responsible Recruiter.
     1. If the candidate does not meet the requirements of the requisition or if other candidates are better qualified, you are welcome to directly decline the candidate by **1)** Selecting `Reject`, **2)** Selecting the `Rejection Reason` and adding notes if applicable, and **3)** Selecting the appropriate rejection email template.
             1. Please use the `Default Candidate Rejection` template and send from `noreply@greenhouse.io`
             1. For referred candidates, please select the `Reject referral after resume review` template and ensure it is coming from you so the referred candidates have a point of contact should they require reassigning for the rejection.
@@ -455,7 +455,7 @@ To change the name of a division or department, click the pencil button next to 
 
 Internal GitLab trainings were done on Greenhouse, for basic users, Interviewers, and Hiring Managers. These trainings can be found in the [GitLab Videos folder](https://drive.google.com/drive/u/1/folders/1IK3Wb3P9_u0akMx5ASG26cuehY_LeRe8) on the Google Drive and are only accessible to GitLab team-members, as there is confidential information contained within the videos.
 
-Greenhouse has training material specifically for new [Recruiters](https://support.greenhouse.io/hc/en-us/articles/360016249232-Training-Your-Team-Recruiter) and [Coordinators](https://support.greenhouse.io/hc/en-us/articles/360016249292-Training-Your-Team-Coordinator) that cover what each team member needs to know while working with the system.
+Greenhouse has training material specifically for new [Recruiters](https://support.greenhouse.io/hc/en-us/articles/201981530-Greenhouse-training-guide-for-hiring-managers-and-recruiters) and [Coordinators](https://learn.greenhouse.io/page/recruiters-recruiting-coordinators) that cover what each team member needs to know while working with the system.
 
 ### Greenhouse CRM
 
@@ -468,7 +468,7 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
 * [CRM Overview](https://support.greenhouse.io/hc/en-us/articles/360022793612-CRM-Overview)
 * [CRM License Functionality](https://support.greenhouse.io/hc/en-us/articles/360014882832-Greenhouse-CRM-License-Functionality-Grid)
 * [Leveraging Greenhouse CRM (Webinar)](https://support.greenhouse.io/hc/en-us/articles/360027741072)
-* [Greenhouse Prospecting Chrome Plug-In](https://chrome.google.com/webstore/detail/greenhouse-prospecting/plmlekabedgfocpkpncacfblnjkgonpk?hl=en-US)
+* [Greenhouse Recruiting Chrome Extension](https://chrome.google.com/webstore/detail/greenhouse-recruiting-chr/naooopefdfeangnkgmjpklgblnfmbaea)
 
 #### High-Level Workflow
 
