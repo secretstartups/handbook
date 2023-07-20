@@ -134,6 +134,19 @@ standards into our workflows, and defining guidelines and best practices that wi
 designing and building products. A breakdown of the vision you’ll be helping to deliver within the UX
 Foundation category can be found on our [product direction page](https://about.gitlab.com/direction/manage/foundations/).
 
+## UX Paper Cuts Specialty
+
+The UX Paper Cuts team is responsible for identifying and fixing small, impactful usability issues in the GitLab product. Like the Foundations team, UX Paper Cuts doesn't work within a specific product area, but across the product as a whole, identifying issues and creating merge requests to continually [improve the user experience](https://nicolasdular.gitlab.io/gitlab-polish-gallery/?&label=UX%20Paper%20Cuts). You'll also spend your time helping to implement and evolve the Design System and GitLab UI and assist in burning down backlogs of known UI and usability problems. By focusing on small details, you will help create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product.
+
+#### UX Paper Cuts Responsibilities
+
+Everything in the various levels of Product Designer roles, plus:
+
+- **Intermediate development skills** We work primarily with Vue, Rails, and SCSS, so designers should be comfortable updating, building, and reviewing code within those frameworks.
+- **Advanced git knowledge** Since we spend most of our time working in merge requests, designers should be comfortable using git effectively.
+- **Creation and management of feature flags** Know when to use feature flags, how to create them, and montitor their progress and potential feedback.
+- **Familiarity with unit testing** The ability to fix, update, and write RSpec and Jest tests.
+
 ## Tools
 
 Tools used by the UX department are flexible depending on the needs of the work. Please see the [Product Designer Onboarding](http://about.gitlab.com/handbook/product/ux/product-designer-onboarding/) page for more details.
