@@ -124,7 +124,7 @@ Below you will find a summary of our overall results, as well as key insights an
 | 75% | 17% | 8% |
 
 #### Detailed Results (Overall)
-We’ve documented our detailed FY24 Culture Amp Engagement survey results in a [presentation] (https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
+We’ve documented our detailed FY24 Culture Amp Engagement survey results in a [presentation](https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
 
 Those detailed results highlight the strengths and opportunities shared below in greater detail.
 
@@ -157,7 +157,7 @@ In addition to Engagement, we asked questions about other factors regarding our 
 | GitLab effectively directs resources (funding, people and effort) towards company goals | 57% |
 | When there are career opportunities at GitLab, I am aware of them | 58% |
 
-Additional analysis associated with these opportunities is included in our detailed FY24 Culture Amp Engagement survey results [presentation] (https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
+Additional analysis associated with these opportunities is included in our detailed FY24 Culture Amp Engagement survey results [presentation](https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
 
 
 ### FY'23 Pulse Engagement Survey
