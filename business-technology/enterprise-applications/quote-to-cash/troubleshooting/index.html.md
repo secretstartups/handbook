@@ -114,7 +114,7 @@ Communicate to the customer
 To help me provide better support for your renewal I'll need some more information, could you please provide a screenshot following the below instructions?
 
 1. Navigate to Admin Area
-1. Click `License` as it's shown [here](https://docs.gitlab.com/ee/user/admin_area/img/license_details.png) and send it to me
+1. Click `License` as it's shown [here](https://docs.gitlab.com/ee/administration/img/license_details.png) and send it to me
    * For GitLab.com
 1. Navigate to group settings
 1. Navigate to billing
