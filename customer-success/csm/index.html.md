@@ -129,7 +129,20 @@ Equip team members to speak to product capabilities, value propositions, busines
 [Epic for Big Rock 3](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/96) (GitLab-internal only)
 
 
-Position CSMs to identify opportunity & risk through excellent account management practices. To ascend beyond transactional Q&A, and build relationships as a trusted advisor.
+Ensure our customers receive ongoing value through increasing product adoption and growth, aligned with the customer's desired business outcomes. 
+
+CSMs equipped to work as trusted advisors with our customers to achieve their objectives in a reportable, quantifiable way through a framework that also enables early and accurate identification of both opportunity and risk. 
+
+**Examples:**
+
+Objective: increase developer productivity
+
+How is/will productivity be measured?
+- Measured through release volume and release frequency in the absence of being able to track all of DORA.
+
+What are their technical milestones to get to this business outcome?
+- How many apps need to be completed by xxx to get to the intended business outcome of yyy?
+- What use cases adopted, and by when?
 
 ### Big Rock Archive
 
