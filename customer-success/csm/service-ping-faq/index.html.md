@@ -67,7 +67,7 @@ Our documentation shows all usage statistics and content that is sent back to Gi
 You can inspect the data and have your security team review it. They can continue to monitor (via ELK stack) that GitLab is not breaking security policy with new releases. We invite you to ship this data to an internal ELK stack, and sanitize it before sending to your GitLab Customer Success Manager. If we can get your security team to review and approve, we can fully automate this process so you don't have to go to the trouble.
 
 ## 7. We have network isolation and there is no way for usage to get out of their network
-We respect your organizations' network security policies and restrictions and understand there are situations where it is not feasible or technically possible to submit service ping over the Internet. If Service Ping is blocked by a firewall, load balancer, or proxy, you might consider [modifying](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#network-configuration) your network configuration to un-block the Service Ping payload from being sent to GitLab.
+We respect your organizations' network security policies and restrictions and understand there are situations where it is not feasible or technically possible to submit service ping over the Internet. If Service Ping is blocked by a firewall, load balancer, or proxy, you might consider [modifying](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#network-configuration) your network configuration to un-block the Service Ping payload from being sent to GitLab.
 
 If you see value in sharing Service Ping data and it’s not technically possible for you to do so directly, GitLab can provide you instructions to share the data manually, including allowing you to sanitize certain data as preferred.
 
@@ -78,6 +78,6 @@ You can view the payload at "/admin/application_settings/metrics_and_profiling" 
 Product Documentation: Deactivate the Service Ping
 
 **Important Documentation links**
-1. [Admin Settings for Service Ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#service-ping)
-1. [Usage Statistics Collected](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-statistics-collected)
-1. [Network Configuration](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#network-configuration)
+1. [Admin Settings for Service Ping](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#service-ping)
+1. [Usage Statistics Collected](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#usage-statistics-collected)
+1. [Network Configuration](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#network-configuration)
