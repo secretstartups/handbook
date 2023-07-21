@@ -47,13 +47,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 ### APAC Time Zone Webinars
 
-#### Intro to CI/CD
-##### July 20th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__YLOkJBNRtajcjW2_pSGgQ#)
-
 #### Advanced CI/CD
 ##### July 25th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
 
