@@ -72,7 +72,7 @@ While many of the links below are included in the email, it would be helpful to 
 1. [Administrator Documentation](https://docs.gitlab.com/ee/administration/index.html) (self-managed only)
 1. [Subscription setup and management](https://docs.gitlab.com/ee/subscriptions/index.html)
 1. [Licensing and subscription FAQ](/pricing/licensing-faq/)
-1. [Uploading your license](https://docs.gitlab.com/ee/user/admin_area/license.html#uploading-your-license) (self-managed only)
+1. [Uploading your license](https://docs.gitlab.com/ee/administration/license.html#uploading-your-license) (self-managed only)
 1. Features available by plan: [GitLab SaaS](/pricing/feature-comparison/) & [Self-Managed](/pricing/feature-comparison/)
 1. [Support portal](https://support.gitlab.com/hc/en-us)
 1. [Statement of Support](/support/statement-of-support/)
