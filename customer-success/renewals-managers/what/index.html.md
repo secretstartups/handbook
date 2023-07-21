@@ -39,12 +39,12 @@ The Renewals team primarily uses these key fields on Renewal Opportunities:
 ## Forecasting
 - `Renewal Forecast Health` [link](https://internal.gitlab.com/handbook/sales/sales-forecasting/#forecast-category-and-renewal-forecast-health-fields) - Red, Yellow, Green health rating based on the Net ARR field
 - `Renewal Risk Category` - used to categorize the magnitude of risk on a Renewal and if the risk is Actionable
-- `ARR Basis` - the revenue that is Available to Renew (ATR)
+- `ATR` - the revenue that is Available to Renew (ATR)
 - `Amount` - the forecasted revenue for the deal
 - `Renewal Swing ARR` - the revenue the Account team believes can be saved on an at-risk Renewal if we take action
-- `Net ARR` - the delta between the ARR Basis and the Amount. Positive NetARR reflects Growth while negative NetARR reflects Churn or Contraction.
-- `ARR Basis (for Clari)` - Used for calculating Renewal Rate. This is the revenue that is Available to Renew (ATR)
-- `Won ARR Basis (for Clari)` - Used for calculating Renewal Rate. This is the forecasted renewal revenue for the deal. This field caps out at 100% of the ARR Basis (for Clari) field to reflect no more than a 100% renewal.
+- `Net ARR` - the delta between the ATR and the Amount. Positive NetARR reflects Growth while negative NetARR reflects Churn or Contraction.
+- `ATR` - Used for calculating Renewal Rate. This is the revenue that is Available to Renew (ATR)
+- `Won ATR` - Used for calculating Renewal Rate. This is the forecasted renewal revenue for the deal. This field caps out at 100% of the ATR field to reflect no more than a 100% renewal.
 
 ## Ownership
 - `Opportunity Owner` - the DRI for the outcome of the Opportunity
@@ -173,24 +173,24 @@ The following detail different opportunities and our standard appraoch to quanti
 
 The key revenue fields for setting the Renewal forecast are:
 
-- `ARR Basis (for Clari)`
+- `ATR`
 - `Amount`
-- `Won ARR Basis (for Clari)`
+- `Won ATR`
 - `Renewal Swing ARR`
 
-The `ARR Basis (for Clari)` field is the amount of revenue that is up Available to Renew (ATR). The `Won ARR Basis (for Clari)` is the field we use to indicate how much of the ATR we believe will be renewed on a given Subscription. This field is populated based on the revenue input in the `Amount` field.
+The `ATR` field is the amount of revenue that is up Available to Renew (ATR). The `Won ATR` is the field we use to indicate how much of the ATR we believe will be renewed on a given Subscription. This field is populated based on the revenue input in the `Amount` field.
 
-By comparing the `Won ARR Basis (for Clari)` field to the `ARR Basis (for Clari)` `field we can determine a forecasted renewal rate with the following formula:
+By comparing the `Won ATR` field to the `ATR` `field we can determine a forecasted renewal rate with the following formula:
 
-`(Won ARR Basis (for Clari)` / `ARR Basis (for Clari)`) * 100 = Worst Case Renewal Rate`
+`(Won ATR` / `ATR`) * 100 = Worst Case Renewal Rate`
 
-For example, if we have a renewal with $100k in the `ARR Basis (for Clari)` field, that means we have a Subscription with $100k of ARR to renew. Based on their analysis, a Renewals Manager predicts that, as a worst-case scenario, we will renew $75k out of the $100k, and the Customer will Contract by $25k. The Renewals Manager will input $75k in the `Amount` field (which populates the `Won ARR Basis (for Clari)` field with $75k). Based on the above formula, we arrive at a 75% Renewal Rate for this deal as a worst-case scenario.
+For example, if we have a renewal with $100k in the `ATR` field, that means we have a Subscription with $100k of ARR to renew. Based on their analysis, a Renewals Manager predicts that, as a worst-case scenario, we will renew $75k out of the $100k, and the Customer will Contract by $25k. The Renewals Manager will input $75k in the `Amount` field (which populates the `Won ATR` field with $75k). Based on the above formula, we arrive at a 75% Renewal Rate for this deal as a worst-case scenario.
 
 `($75,000/$100,000)*100 = 75%`
 
-The next step is to determine our potential best-case scenario. We achieve this by using the `Renewal Swing ARR` field and adding that value to the `Won ARR Basis (for Clari)` field value. The formula looks like this:
+The next step is to determine our potential best-case scenario. We achieve this by using the `Renewal Swing ARR` field and adding that value to the `Won ATR` field value. The formula looks like this:
 
-`(`Won ARR Basis (for Clari)` +` Renewal Swing ARR` / `ARR Basis (for Clari)`) * 100 = Best Case Renewal Rate`
+`(`Won ATR` +` Renewal Swing ARR` / `ATR`) * 100 = Best Case Renewal Rate`
 
 Building on the above example, the Renewals Manager determines that if we take action, we could save the $25k of revenue that is at risk. To reflect this in the forecast, the Renewals Manager updates the `Renewal Swing ARR` field with $25k so that our best-case Renewal Rate looks like this:
 
