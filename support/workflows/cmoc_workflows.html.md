@@ -119,7 +119,7 @@ As an example, refer to [this issue](https://gitlab.com/gitlab-com/support/suppo
 
 ### About Contact Requests
 
-Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests.
+Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests. Additionally, refer to the [End of Shift Handover Procedure](#end-of-shift-handover-procedure) for details on handing off contact requests.
 
 ### How to Page the CMOC?
 
@@ -469,13 +469,17 @@ Once the GitLab Status Twitter account has posted about the maintenance schedule
 
 ## End of Shift Handover Procedure
 
-It's necessary to inform the ingress CMOC of any relevant activity that ocurred during your shift or if there are incidents that are still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) template. Do this even if nothing happened during your shift, signaling that everything is fine is also useful information. It's critical to remember that since we [work out in the open](https://about.gitlab.com/blog/2015/08/03/almost-everything-we-do-is-now-open/) by default, the CMOC Handover issue tracker is open to the public. **A handover issue should be made confidential if it must contain any sensitive information.**
+It's necessary to inform the ingress CMOC of any relevant activity that ocurred during your shift or if there are incidents that are still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) template. Do this even if nothing happened during your shift, signaling that everything is fine is also useful information. 
 
 If handover occurs during an active incident where the quick summary you'd provide in the issue is insufficient to properly prepare the ingress CMOC of the situation, you are encouraged to start a Zoom call in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) and invite the ingress CMOC to it so that they can be caught up synchronously. You can use the following slash command to expedite setting the meeting up.
 
 ```plain
 /zoom meeting CMOC Handover Briefing
 ```
+
+While the CMOC Handover issue tracker is open to the public, the template [defaults to confidential](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3504) in an effort to prevent accidental leakage of confidential information.
+
+Contact requests opened during a shift should by default be assigned to the Support Engineer that created the ticket. It can be useful to mention the request for awareness of the next shift. However, it's not necessary to re-assign the contact request or continue to include it in subsequent handoffs unless action needs to be taken. In many cases, users don't respond to the contact request. You may want to consider re-assigning contact requests and handing it off to another shift if you intend to be OOO, for example. 
 
 ## CMOC Training Resources
 
