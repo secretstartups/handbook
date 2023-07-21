@@ -12,7 +12,7 @@ description: "Job families are organized by function at GitLab and we use them t
 
 ## Job Families
 
-* Job families are [organized by function in directories in the `content-sites` repository](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content/job-families).
+* Job families are [organized by function in directories in the `content-sites/handbook` repository](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content/job-families).
 * For any questions related to job families, please contact [total rewards](/handbook/total-rewards/benefits/#contact-total-rewards).
 
 ### Things to Keep in Mind
@@ -229,9 +229,9 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB_NMinV4X2QPWLudnHHWapasxRz5HJCuCQ/edit#slide=id.g551bcad215_0_146) of this process. If you use these slides please remember that the HANDBOOK is the most up to date and the slides and/or videos may be dated.
 
-1. Go to the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com?nav_source=navbar) project on `gitlab.com`
-1. Select the [source](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source) directory
-1.  Go to the [job-families](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/job-families) directory
+1. Go to the [`content-sites/handbook`](https://gitlab.com/gitlab-com/content-sites/handbook) project on `gitlab.com`
+1. Select the [content](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content) directory
+1. Go to the [job-families](https://gitlab.com/gitlab-com/content-sites/handbook/-/tree/main/content/job-families) directory
 1. Select the department where you will be making the new job family (i.e. Marketing, Sales, etc)
 1. Once you are in the correct department directory, select the `+`
 1. From the drop down list, select `New file`
