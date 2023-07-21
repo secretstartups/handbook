@@ -144,7 +144,7 @@ determine what changes, if any, are needed in the list. At this time the
 
 1. Request that L&R Support Engineers set a Support Priority Score for each
    issue and epic labeled `Support Priority::Categorize` by creating a new
-   issue from the [Monthly Prioritization](https://gitlab.com/gitlab-com/support/licensing-subscription/fulfillment-requests/-/issues/new?issuable_template=monthly_prioritization.md)
+   issue from the [Monthly Prioritization](https://gitlab.com/gitlab-com/support/licensing-subscription/fulfillment-requests/-/issues/new?issuable_template=monthly_prioritization)
    template
 1. Open a discussion with the L&R SEs about any issues or epics labeled
    `Support Priority::Review`, and change the score for those accordingly
