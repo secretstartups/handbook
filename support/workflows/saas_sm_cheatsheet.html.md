@@ -49,9 +49,9 @@ SaaS, or Dedicated.
 
 |      |       |
 |:----:| ----- |
-|Self-managed| Administrators of self-managed systems will have access to their instance admin. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/user/admin_area/#gitlab-admin-area). |
+|Self-managed| Administrators of self-managed systems will have access to their instance admin. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/administration/admin_area.html#gitlab-admin-area). |
 |DotCom| Only GitLab Team Members can make use of administrative tasks on gitLab.com, therefore access is not granted to customers.|
-|Dedicated| There is no console access for customers. However, customers have instance admins that can access the admin panel. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/user/admin_area/#gitlab-admin-area). |
+|Dedicated| There is no console access for customers. However, customers have instance admins that can access the admin panel. Use the following documentation for reference: [Admin area docs](https://docs.gitlab.com/ee/administration/admin_area.html#gitlab-admin-area). |
 
 #### Gitaly
 
