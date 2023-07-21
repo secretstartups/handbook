@@ -10,25 +10,27 @@ description: "Product designer pairs rotation schedule"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This is the rotation schedule for FY24-Q1 and Q2 (February 2023 - July 2023). Learn more about [Pair Designing](/handbook/product/ux/how-we-work/#pair-designing).
+## Design Pairs
 
-[//]: # TIP: Create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table)
+This is the rotation schedule for FY24-Q3 and Q4 (2023-08-01 until 2024-01-31). Learn more about [Pair Designing](/handbook/product/ux/how-we-work/#pair-designing).
 
-| Designer               | Design Pair            |
-|------------------------|------------------------|
-| Katie Macoy	         | Libor Vanc             |
-| Veethika Mishra	 | Julia Miocene          |
-| Gina Doyle	         | Emily Sybrant |
-| Sunjung Park	         | Becka Lippert          |
-| Pedro Moreira da Silva | Matt Nearents |
-| Kevin Comoli	         | Camellia Yang          |
-| Dan Mizzi-Harris	 | Jeremy Elder           |
-| Sascha Eggenberger	 | Annabel Gray           |
-| Mike Nichols	         | Amelia Bauerly         |
-| Nick Leonard	         | Nick Brandt            |
-| Austin Regnery	 | Michael Fangman        |
-| Alex Fracazo	         | Michael Le             |
-| Emily Bauman          | Ali Ndlovu             |
+[//]: # TIP: To update the table below, create the schedule in a temporary spreadsheet, and then copy/paste the rows into an online markdown generator (https://www.google.com/search?q=copy-table-in-excel-and-paste-as-a-markdown-table)
+
+| Designer               | Design Pair                |
+|------------------------|----------------------------|
+| Katie Macoy	         | Alex Fracazo               | 
+| Mike Nichols	         | Camellia Yang              |
+| Nick Brandt            | Jeremy Elder               |
+| Michael Le             | Libor Vanc                 |
+| Julia Miocene          | Gina Doyle	              |
+| Veethika Mishra        | Annabel Gray               |
+| Emily Bauman           | Pedro Moreira da Silva     |
+| Austin Regnery         | Sunjung Park	              |
+| Kevin Comoli	         | Sascha Eggenberger	      |
+| Becka Lippert          | Matt Nearents              |
+| Amelia Bauerly         | Emily Sybrant	      |
+| Timothy Noah           | Dan Mizz-Harris            |
+| Nick Leonard (OOO until 2023-09-18) | Michael Fangman (OOO until 2023-08-31) |        
 
 ### Temporary pairing
 
