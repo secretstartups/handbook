@@ -102,10 +102,62 @@ The survey factors for FY24 were as follows with each section including three to
 - 2023-06-22: Managers with 5+ responses receive reports via Culture Amp
 - 2023-06-22: Initial results at the Q2 Assembly
 - 2023-06-22 through 2023-07-04: Leaders/Managers review their reports and discuss/brainstorm action plans in Staff/team meetings
-- 2023-07-17: Target date for full results shared company-wide
+- 2023-07-21: Target date for full results shared company-wide
 - 2023-07-30: Finalize Action items and document in epics/issues
 - 2023-08-01: Division action plans added to FY'24 Q3 OKRs and Division epics
 - 2023-08-31: Department action plans (if applicable) complete
+
+### FY'24 Q2 Engagement Survey Results
+Our Engagement Survey FY'24 Q2 ran from 2023-05-22 to 2023-06-07. The survey was opened to team members hired before 2023-04-30.
+- We reached 88% participation which is 6% higher than the FY23 Pulse Engagement survey.
+- Overall engagement score of 75% favorable, 17%  neutral and 8% unfavourable.
+- We scored 6% lower than we did in the FY'23 Q2 Engagement Survey overall, but this score is still 2% higher than our New Tech peer group, which consists of ~200 fast growing and disruptive tech companies who have ~1000+ total team members.
+- Amongst our SaaS Talent Peers of 1000+ team members, Culture Amp shared that engagement scores are decreasing by 5-10% due to macroeconomic conditions and uncertainty in the industry.
+- GitLab remains in a strong position from an overall engagement score perspective with several opportunities highlighted in the detailed results section.
+
+Below you will find a summary of our overall results, as well as key insights and opportunities. A huge thanks to everyone who completed the survey and made their voices heard. Your feedback helps us to continually improve the experience of working at GitLab.
+
+#### Company Results (Overall)
+
+| **Favourable** | **Neutral** | **Unfavourable** |
+| ---------- | ------- | ------------ |
+| 75% | 17% | 8% |
+
+#### Detailed Results (Overall)
+We’ve documented our detailed FY24 Culture Amp Engagement survey results in a [presentation] (https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
+
+Those detailed results highlight the strengths and opportunities shared below in greater detail.
+
+#### Top Three Scores
+In addition to Engagement, we asked questions about other factors regarding our workplace and culture. A factor score is the average score of all questions within that factor.
+
+| **Factor** | **Favourability Rating** |
+| ------ | -------------------- |
+| Psychological Safety | 88% |
+| Your Manager | 84% |
+| Connectedness | 78% |
+
+| **Top Scores - Individual statements** | **Favourability Rating** |
+| ------ | -------------------- |
+| I enjoy engaging with my peers at GitLab | 94% |
+| It is easy to ask other members of your team for help | 92% |
+| No one on my team would deliberately act in a way that undermines my efforts | 91% |
+
+#### Top Three Opportunities
+
+| **Factor** | **Favourability Rating** |
+| ------ | -------------------- |
+| Action | 58% |
+| Company Confidence | 60% |
+| Our Leaders | 62% |
+
+| **Opportunities - Individual statements** | **Favourability Rating** |
+| ------ | -------------------- |
+| I believe action will take place as a result of this survey | 55% |
+| GitLab effectively directs resources (funding, people and effort) towards company goals | 57% |
+| When there are career opportunities at GitLab, I am aware of them | 58% |
+
+Additional analysis associated with these opportunities is included in our detailed FY24 Culture Amp Engagement survey results [presentation] (https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
 
 
 ### FY'23 Pulse Engagement Survey
