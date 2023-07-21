@@ -1108,7 +1108,7 @@ Example Sponsor Activities
 
 ### Accounts Created in Salesforce utilizing CE Usage Ping Data
 
-The [CE Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) provides GitLab with some limited insight into how end users are utilizing the platform.
+The [CE Usage ping](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html) provides GitLab with some limited insight into how end users are utilizing the platform.
 The raw information is cleaned, enriched and then pushed to SFDC as an Account by the Data Team.
 
 If there is not an existing account match in Salesforce, a new account record will be created with the following information populated:

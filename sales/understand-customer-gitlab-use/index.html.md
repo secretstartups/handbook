@@ -47,7 +47,7 @@ Take a look at a Training Video to explain in greater detail by searching for th
 
 ## Open Source users - GitLab CE Instances and CE Active Users on SFDC Accounts
 
-In an effort to make the [Usage/Version ping data](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) simpler to use in SFDC, there are 2 fields directly on the account layout - "CE Instances" and "Active CE Users" under the "GitLab/Tech Stack Information" section on the Salesforce account record.
+In an effort to make the [Usage/Version ping data](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html) simpler to use in SFDC, there are 2 fields directly on the account layout - "CE Instances" and "Active CE Users" under the "GitLab/Tech Stack Information" section on the Salesforce account record.
 
 The source of these fields is to use the latest version ping record for and usage record for each host seen in the last 60 days and combine them into a single record.
 The hosts are separated into domain-based hosts and IP-based hosts.
