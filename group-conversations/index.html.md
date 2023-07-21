@@ -399,7 +399,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday August 3 | Development | Christopher Lefelhocz | July 26 |
 | Tuesday August 8 | **Available** | DRI | Key Review Date |
 | Wednesday August 9 |  **Available** | DRI | Key Review Date |
-| Thursday August 10 |  **Available** | DRI | Key Review Date |
+| Thursday August 10 |  Product | DRI | - |
 | Tuesday August 15 | **Available** | DRI | Key Review Date |
 | Wednesday August 16 | **Available** | DRI | Key Review Date |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
