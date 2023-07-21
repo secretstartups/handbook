@@ -248,6 +248,31 @@ The purpose of these fields is to provide additional, helpful information as you
 - [CP] Metrics
 - [CP] Identify Pain
 
+#### GitLabs Value Pillars
+
+
+GitLab’s Value Pillars highlight the current trends in the market and emphasize the importance of being proficient in software development, security, and deployment to succeed in the fast-paced world of innovation. These pillars dive into the challenges faced by companies undergoing digital transformation, such as the need to transition from project-driven to product-driven development, limited visibility, and increasing responsibilities for developers. Another challenge is tool chain sprawl, where the use of multiple point solutions leads to inefficiencies and complexity. All of this emphasizes the need for consolidation of tool chains to drive automation, productivity, and cost-cutting measures as the market is seeking a comprehensive DevSecOps platform like GitLab to help build better software faster and increase developer productivity throughout the software development lifecycle.
+
+Some of the most common goals we hear from our customers are to improve developer experience, increase productivity, measure impact, secure the software supply chain, and ensure a smooth cloud migration. GitLab is the most comprehensive DevSecOps platform that empowers development, security, and operations teams to build better software faster. It offers end-to-end visibility, better insights, improved collaboration, and faster time to value. GitLab covers all aspects of the software delivery process, from planning and creating to integrating and verifying, deploying, operating, monitoring, and improving. It allows for proactive identification and remediation of vulnerabilities, seamless tracking and resolution of issues, and collection of data from requirements to production to ensure high-quality code delivery.
+
+##### Communicating Value Pillars to your Customers
+As you continue to have strategic conversations via EBRs or cadence calls with your customers, please reference Level Ups [DevSecOps training](https://levelup.gitlab.com/learn/course/the-devsecops-narrative-accreditation-training-ent-105/take-the-training/accreditation-training-and-recording-submission?client=internal-team-members). FYI: value pillars slide/talk track can be found around the 5:00 min mark in the “The DecSecOps Story: Official Talk Track 2023” portion of the training.
+
+The value pillars slide and overview of the talk track has also been added to the [EBR deck (slide 12) ](https://docs.google.com/presentation/d/1lge6RU7oyt35IW8aQm1lDI-CBPxSyrMeojNlR24V-9w/edit#slide=id.g252e16e1096_0_2111)to ensure these are being discussed with the right personas during the EBR but please don’t wait for the EBR! These can also be discussed during your cadence calls and reaffirmed with your customer during the EBR.
+
+When talking through the value pillars slide with your customer, what you will want to understand is if the 4 value pillars on the slide resonate with the customer and will allow you to dig deeper if they say “yes” to one of the 4 pillars. If not, or the customer is unsure, that is a great time to ask what other objectives they are looking to pursue in the coming months and what metrics they need to support that.
+
+Highlighting these themes will be crucial in understanding what each of your customers are trying to achieve and how GitLab can help them achieve it. For a full overview of each value pillar, what pain point it’s addressing, along with questions to ask to better align on the metrics and KPIs, please refer to [this](https://docs.google.com/document/d/1yPxL52DeSu-tgUg-Q2I86xiXfjTx75mqy5bxt1fJ3YE/edit#heading=h.s9pdi436ryd6) document. Also, [Highspot](https://gitlab.highspot.com/items/638449543d5c15391109508d) is a great resource for the entire official customer deck of 2023 including talk track and how to position with your customer.
+
+Below lists out each value pillar and the KPIs / metrics we should be driving toward for each. This can be used as the basis for the value GitLab can show to address these objectives. 
+
+| Value Pillar | KPI | |
+|---|---|---|
+|**Make developers more productive**| Release Frequency, Cycle time, MR Efficiency, Code Commits, Time to developer onboarding, Time spent in review, # of re-approvals / other interventions, # code defects
+ |**Measure Efficiency and productivity**| Deployment frequency|
+|**Secure the software supply chain**| Security audit findings, Incident response time, Context switching time, # of compliance/regulatory frameworks customers have gotten through after adopting GitLab
+ |**Accelerate cloud migration**| # apps migrated, Percentage of apps targeted for migration that have migrated, Cycle time, Deployment success rate
+
 #### Business Outcomes vs. Value Drivers
 
 When talking to customers about their objectives, we want to [level up the conversation to strategic outcomes](/handbook/customer-success/csm/success-plans/questions-techniques/#leveling-up-from-operationaltechnical-to-strategic). Ideally, the customer will provide us a business outcome in their own words. However, we won't always be able to get that from the customer, and in which case we can use our [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers) to describe the strategic outcome.
