@@ -107,7 +107,7 @@ _last updated: April 2023_
 
 ## User cap for groups on SaaS
 
-We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/user/admin_area/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal.gitlab.com/handbook/product/fulfillment/saas-user-caps/). 
+We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/administration/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal.gitlab.com/handbook/product/fulfillment/saas-user-caps/). 
 
 ## Experience for customers that purchased through a reseller
 
@@ -604,7 +604,7 @@ The following individuals should be looped into the issue, depending on the impa
 
 **License won't activate due to a true-up or seat overage mismatch**
 
-1. For customers on 14.3+ we allow activating a license even if there's a 10% seat overage [issue #333851](https://gitlab.com/gitlab-org/gitlab/-/issues/333851). You can learn more about this [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/user/admin_area/license.md#users-exceed-license-limit-upon-renewal) and see the associated [MR #67507](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67507) and [MR #67508](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67508)
+1. For customers on 14.3+ we allow activating a license even if there's a 10% seat overage [issue #333851](https://gitlab.com/gitlab-org/gitlab/-/issues/333851). You can learn more about this [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/administration/license.md#users-exceed-license-limit-upon-renewal) and see the associated [MR #67507](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67507) and [MR #67508](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/67508)
 1. With Cloud Licensing, we won't block activation due to mismatch seats. If a customer applies a license with less seats than their currently active users, we will reconcile it in their following QSR or true-up event.
 
 **What type of connection does the GitLab instance require to activate Cloud Licensing?**
