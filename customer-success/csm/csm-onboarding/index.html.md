@@ -56,6 +56,14 @@ For self lead training and experimentation you can setup your own playgound/demo
 
 - [Demo Systems Initial Set Up - Project](https://gitlab.com/gitlab-com/customer-success/demo-engineering/demo-systems-initial-set-up) (Privat project for GitLab members only)
 
+## GitLab Self Managed Playgound and Demospace
+
+Many of our prospects and customer choose the option to maintain their own Self Managed GitLab installation based on the reference architecture. To be able to walk in your customers shoes and experience the same possibilities as well as challenges, there is a [shared GitLab Omnibus enviroment](https://about.gitlab.com/handbook/customer-success/demo-systems/#shared-environments) for CSMs to use.
+
+1. Follow [these instructions to get access to the shared Omnibus Instances](https://about.gitlab.com/handbook/customer-success/demo-systems/#access-shared-omnibus-instances)
+1. The [Get started administering GitLab](https://docs.gitlab.com/ee/administration/get_started.html) Guide is a great starting point
+1. You can [export](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#manually-upload-service-ping-payload) a [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data file from the instance and explore product usage data via the [Service ping analysis engine](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/service-ping-analysis-engine) 
+
 ## Finding Answers
 
 GitLab is a massive and everchanging Product, nobody can know everything. So it is important to learn how to find answers. These handbook pages might help you with it.
