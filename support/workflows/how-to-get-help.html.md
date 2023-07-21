@@ -110,6 +110,7 @@ Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitl
 | Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
 | Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) | 
 | Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) | 
+| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request | 
 
 The steps for submitting a help request are as follows:
 
@@ -123,6 +124,7 @@ The steps for submitting a help request are as follows:
 1. If you encounter any problems, such as obtaining a timely response from Development, then please make the corresponding Engineering Manager and [John Lyttle](https://gitlab.com/jlyttle) aware. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`
 1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
 
+**Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
 
 ### Quick Links and Resources
 - [Needs Collaboration view](https://gitlab.zendesk.com/agent/filters/360080204660) in ZenDesk.
