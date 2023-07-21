@@ -15,14 +15,22 @@ Currently, GitLab Dedicated license provisioning needs to be handled manually wh
 
 In the interim the following steps are required in order to generate the license file and ensure that the request is tracked correctly.
 
+### License requests for new GitLab Dedicated customers
+
 1. Deal Desk manually creates the opportunity quote and adds the GitLab Dedicated SKUs.
-2. The quote is synced to Zuora, where the subscription is created.
-3. The GitLab Dedicated team reach out to Support via an [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) providing the SFDC opportunity link and requesting a license file is manually created.
-4. L&R Support verifies that the SFDC opportunity is `closed-won` and manually creates the license file.
+1. The quote is synced to Zuora, where the subscription is created.
+1. The GitLab Dedicated team reach out to Support via the 'Other Licenses and Renwals issue' [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) providing the SFDC opportunity link and requesting a license file is manually created.
+1. L&R Support verifies that the SFDC opportunity is `closed-won` and manually creates the license file.
    - The L&R support engineer adds an internal note containing a link to the license in CustomerDot so that that it can be tracked with the Accounting team for revenue recognition.
    - The L&R engineer sends the license file to the "sold-to" account owner and CC's the GitLab Dedicated team member who raised the ticket. 
-6. The GitLab Dedicated team notifies revenue recognition & AR for confirmation of provisioning.
+1. The GitLab Dedicated team notifies revenue recognition & AR for confirmation of provisioning.
 
+### License requests for existing or multi-year licensed GitLab Dedicated customers
+
+1. For renewing or multi-year licensed customers a new GitLab Dedicated license will need to be manually generated at the end date of the customer's subscription.
+1. Requests for a renewed 1 year license subscription may be submitted by the GitLab Dedicated team or other stakeholders such as Sales or CSM's.
+1. Requests should be submitted via the 'Other Licenses and Renewals issue' [internal request form](https://gitlab-com.gitlab.io/support/internal-requests-form/) and should include the corresponding SFDC opportunity link.
+1. L&R Support implement should then implement steps 4 and 5 as detailed in the above workflow [License requests for new GitLab Dedicated customers](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/how-to-handle-gitlab-dedicated-licensing.html#license-requests-for-existing-or-multi-year-licensed-gitLab-dedicated-customers).
 
 If you have any questions then please reach out to:
 
