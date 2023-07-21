@@ -28,11 +28,11 @@ This page provides an overview on relevant CSM leadership processes.
 | [Chloe Whitestone](/company/team/#chloe) | Enterprise | AMER East | Manager | Strategic |
 | [Sophie Pouliquen](/company/team/#spouliquen1) | Enterprise | AMER East | Manager | Major |
 | [Tiffany McAtee](/company/team/#tiffanymcatee.gitlab) | Enterprise | AMER East | Manager | Major |
-| TBH | Enterprise | AMER West | Manager | Strategic |
+| [Erica Sivak](/company/team/#esivak) | Enterprise | AMER West | Manager | Strategic |
 | [Jamie Reid](/company/team/#jrreid) | Enterprise | AMER West | Manager | Major |
 | [Dave Thompson](/company/team/#dthompson3) | Enterprise | APAC | Manager | N/A |
 | [Michael Leutz](/company/team/#mrleutz) | Enterprise | EMEA | Director | N/A |
-| [James Wormwell](/company/team/#jwormwell) | Enterprise | EMEA | Manager | N/A |
+| [Chenje Katanda](/company/team/#ckatanda) | Enterprise | EMEA (NEUR) | Manager | N/A |
 | [Ally Frusciano](/company/team/#afrusciano) | Commercial | Global | Director | Territory & Key |
 | TBH | Commercial | AMER | Manager | Territory |
 | [Christina Souleles](/company/team/#csouleles) | Commercial | EMEA | Manager | N/A |
@@ -153,6 +153,7 @@ The CSM Manager should then work with their team to help the CSM drive up and de
 
 - [Success Plan Handbook](/handbook/customer-success/csm/success-plans/)
 - Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
+
 
 ### Health Review and At-Risk Customers
 
