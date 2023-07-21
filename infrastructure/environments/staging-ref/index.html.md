@@ -102,7 +102,7 @@ After signing in you can proceed using the environment as required. If destructi
 
 #### Admin access
 
-To promote your user to Admin, please sign in as Admin using the `Staging Ref credentials` from [1Password Engineering vault](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com). Then navigate to the [Admin Area’s Users page](https://docs.gitlab.com/ee/user/admin_area/#administering-users) and edit your user's Access Level.
+To promote your user to Admin, please sign in as Admin using the `Staging Ref credentials` from [1Password Engineering vault](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com). Then navigate to the [Admin Area’s Users page](https://docs.gitlab.com/ee/administration/admin_area.html#administering-users) and edit your user's Access Level.
 
 Note that Staging Ref environment is shared across all engineers. If you plan to perform changes to GitLab Admin settings, use the [`#staging-ref`](https://gitlab.slack.com/archives/C02LN0K1N3Y) Slack channel to communicate changes broadly.
 
@@ -159,7 +159,7 @@ If you need a specific dashboard or an existing dashboard does not work please r
 
 By default, all users and groups are on the `Free` plan. To upgrade a paid plan use [Admin account](#admin-access) and do the following:
 
-1. Navigate to [Admin area](https://docs.gitlab.com/ee/user/admin_area/).
+1. Navigate to [Admin area](https://docs.gitlab.com/ee/administration/).
 1. Select Users or Groups section depending on what entity you would like to upgrade.
 1. Search for user or group by name and click "Edit".
 1. Select the required paid plan in "Plan".
