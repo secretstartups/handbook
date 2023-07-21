@@ -59,7 +59,7 @@ Currently, our frontend development guidelines only document features and practi
 | Communicate outcome to the broader frontend functional group.                                             |            |                |          | @donaldcook |
 | Discuss and document communication plan, including the frequency of updates from the working group.       |            |                |          | @donaldcook |
 | Document the requirements for reusable components outside of GitLab UI.                                                                    |            |                |          | @pslaughter |
-| [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536) |            |                |          |         |
+| [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536) |            |                |          | @andrei.zubov |
 | Determine how the exception to the main strategy process will work, and if there is a need for a separate area for "wild" ideas.                |            |                |          | @ntepluhina |
 | Determine the evaluation and decision-making process for RFCs.                                            |            |                |          |     @f_caplette     |
 
