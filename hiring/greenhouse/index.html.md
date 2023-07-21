@@ -160,38 +160,7 @@ Some roles may be sent questions after we've sourced them. If this is applicable
 
 ### Access levels and permissions
 
-Greenhouse has a variety of user-permissions for ensuring that team members have the appropriate access per assigned vacancies. By default, any `Job Admin` will have the following permissions on an assigned requisition:
-- The ability to see dashboard, pipeline, and reports.
-- The ability to see all candidates.
-- The ability to add and edit candidates and referrals.
-- The ability to be assigned Hiring Team roles.
-
-Below is a list of the various access levels, by team, and what they generally entail:
-
-- The **Talent Acquisition Team** (*excluding* the Recruiting Program Analyst and Recruiting- and Sourcing Lead(s)/Manager(s) should be assigned `Job Admin: Talent Acquisition` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer or Coordinator).
-- The **People Success Team** (*excluding* the CPO and Talent Acquisition Team) should be assigned `Job Admin: People Success` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
-- All **Executives** (*excluding* the CEO and CPO) should be assigned `Job Admin: Job Approver` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. Such permissions allow them the same access as a Hiring Manager, plus the ability to approve new vacancies and offers.
-- All **Hiring Managers** (*excluding* Executives) should be assigned `Job Admin: Hiring Manager` permissions for all *Open-*, *Closed-*, and *All Future Jobs* in their respective department. However, there are a few exceptions:
-    1. If they're a Hiring Manager for **only** one requisition.
-        * In this scenario, they should **not** be given access to *All Future Jobs*, but only to the current vacancies where they are the Hiring Manager.
-    2. If they're on the Hiring Team for a requisition **outside** of their own team.
-        * In this scenario, they should be add as a Hiring Team member for that requisition only.
-- All **Executive Assistants** should be assigned `Job Admin: Scheduling` permissions for all *Open-*, *Closed-*, and *All Future Jobs* regardless of their involvement with a particular department (e.g. if they're an Interviewer).
-- Any user that needs to access all vacancies and data, including diversity data, should be assigned `Site Admin` permissions.
-    * The current `Site Admins` include: the Recruiting Program Analyst,  Recruiting- and Sourcing Lead(s)/Manager(s).
-        * Leads and Managers will use their `Site Admin` permissions in the following scenarios:
-            1. Updating a requisition's Department.
-            1. Updating a requisition's *Approval Chain*.
-            1. By-passing a requisition's approval after updating its information.
-                * This by-pass is **only** permitted if the requisition was already fully approved.
-            1. Adding or removing *Recruiting Agencies* and *Agency Recruiters*.
-- Any user on a Hiring Team that is expected to interview candidates or review applications should be assigned permissions for **only** the vacancies where their participation is expected.
-- All other users should be assigned `Basic` permissions and can see interview kits when interviewing any candidate.
-
-There are a few other permission levels in Greenhouse that are not frequently used:
-- `Job Admin: Standard`: grants default `Job Admin` permissions, plus the ability to advance or reject candidates.
-- `Job Admin: People Business Partner`: grants default `Job Admin` permissions, but allows a user to see notes and scorecards.
-- `Job Admin: Recruiting Agency`: this access level is designated for **Recruiting Agencies** only when they need the ability to advance or reject candidates.
+This can be done by Enablement only. For instructions, see the [internal handbook](https://internal.gitlab.com/handbook/people-group/talent-acquisition/enablement-team/#greenhouse-admin-instructions) for more information.
 
 #### How to upgrade or change access levels
 
@@ -391,30 +360,7 @@ If you have a suggestion for a new or existing REVIEWED email template for the R
 
 ### Updating requisition and offer approval flows
 
-There are two separate approval flows: one for creating a **requisition** and one for creating an **Offer**. Please note that only `Site Admins` are able to update or add new approvals in Greenhouse.
-
-To configure approval flows, click the `Configure` section (gear icon) in the top right corner, then `Approvals`. There will be two columns; one for **requisition "Job" Approvals** (left) and the other for **Offer Approvals** (right). Each Department that either has a unique sub-deparment in Greenhouse **or** unique Executive should have its own section. For example, *Customer Success* and *Sales* are separate Departments and therefore require separate sections even though they're both under the same Executive. Similarly, *G&A* is a Department that has multiple sub-departments with multiple Executives, so each sub-department under G&A needs to be separated into its own approvals by the corresponding Executive (e.g. Finance for CFO, People Group for CPO, etc.). Approvals are always split out by the Executive.
-
-To note, approval flows must be created **prior** to the creation of a requisition or offer approval or it will **not** be submitted correctly.
-
-To create a new section of approvals:
-
-1. Scroll to the bottom of the page and clicking `Add Approval by office/department`.
-1. Then choose what Department this section will be for (e.g. *Sales* for a Department that has only one Executive or *Finance* for a sub-department that has multiple executives).
-1. Do **not** select an *Office* and click `Create`.
-1. Click `Add Approval Step` under the jobs approval column. Then click `Add` and search for appropriate team member for Step 1 ([as outlined below](/handbook/hiring/greenhouse#approval-flows)) and select their name. If there should be more than one team member, click `Add` again and search for and select their name. If you choose more than one person, you'll notice above their names is a dropdown that says *"1 of 2 required"* - keep this as is. If for any reason we do need both approvals, you can change it to have both be required. Click `Save`.
-1. Click `Add Approval Step`, then click `Add` and search for appropriate team member(s) for Step 2 ([as outlined below](/handbook/hiring/greenhouse#approval-flows)) and select their name(s). Click `Save`.
-1. Click `Add Approval Step`, then click `Add` and search for appropriate team member(s) for Step 3 ([as outlined below](/handbook/hiring/greenhouse#approval-flows)) and select their name(s). Click `Save`.
-1. Repeat steps 4-6 above for the offer approvals column.
-1. You are ready to start creating and approving vacancies and offers!
-
-To change an existing section of approvals:
-
-1. Find the appropriate section, then hover over what you want to change.
-- If you want to change the participants in an approval step, click the `Pencil` icon, so that you can remove and/or add team members.
-     - Hover over the team member's name and click the `"X"` to remove them.
-- If you want to delete an approval step in its **entirety**, click the `"X"`.
-- If you want to change the order of an approval flow, click and drag that step to the appropriate placing.
+This can be done by Enablement only. For instructions, see the [internal handbook](https://internal.gitlab.com/handbook/people-group/talent-acquisition/enablement-team/#greenhouse-admin-instructions) for more information.
 
 ##### Approval flows
 
@@ -450,12 +396,6 @@ To change the name of a division or department, click the pencil button next to 
 
 
 ## Additional resources
-
-### Training
-
-Internal GitLab trainings were done on Greenhouse, for basic users, Interviewers, and Hiring Managers. These trainings can be found in the [GitLab Videos folder](https://drive.google.com/drive/u/1/folders/1IK3Wb3P9_u0akMx5ASG26cuehY_LeRe8) on the Google Drive and are only accessible to GitLab team-members, as there is confidential information contained within the videos.
-
-Greenhouse has training material specifically for new [Recruiters](https://support.greenhouse.io/hc/en-us/articles/201981530-Greenhouse-training-guide-for-hiring-managers-and-recruiters) and [Coordinators](https://learn.greenhouse.io/page/recruiters-recruiting-coordinators) that cover what each team member needs to know while working with the system.
 
 ### Greenhouse CRM
 
