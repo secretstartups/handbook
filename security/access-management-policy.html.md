@@ -225,7 +225,7 @@ The generic `@gitlab-bot` account should not be used for new automations. For
 different tasks, a new service account should be created. The rationales behind this are:
 
 * Enable better isolation of scope:
-  - Different tasks will have different [API requests quota](https://docs.gitlab.com/ee/user/admin_area/settings/user_and_ip_rate_limits.html).
+  - Different tasks will have different [API requests quota](https://docs.gitlab.com/ee/administration/settings/user_and_ip_rate_limits.html).
   - Easier to track misbehaviors and notify the responsible group for a particular automation.
   - More secure by sharing less and enable possibility for [least access](/handbook/security/access-management-policy.html#least-privilege-reviews-for-access-requests).
   - More robust by not having a single point of failure (account).
