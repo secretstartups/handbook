@@ -156,18 +156,29 @@ Before closing the Account Escalation:
 
 - How do we handle emergency tickets opened by the customer during an Account Escalation?
 
-    >The Lead Support Engineer's main priority during their workday is the escalated customer. In general, an escalated customer should **not** trigger the [regular emergency process](/handbook/support/workflows/customer_emergencies_workflows.html). The Lead Support Engineer will work directly with the customer, and if necessary, request additional resources. The Account Owner must notify support of the emergency in the `#a_customer_escalation` channel.
+    > The Lead Support Engineer's main priority during their workday is the escalated customer. In general, an escalated customer should **not** trigger the [regular emergency process](/handbook/support/workflows/customer_emergencies_workflows.html). The Lead Support Engineer will work directly with the customer, and if necessary, request additional resources. The Account Owner must notify support of the emergency in the `#a_customer_escalation` channel.
 
 - What if an emergency occurs out-of-hours for the Lead Engineer?
 
     > In this case, the customer can trigger our [emergency support process](https://about.gitlab.com/support/#how-to-trigger-emergency-support). There must already be awareness of this possibility among the Lead Support Engineer and Manager DRI, with proactive communication sent to the scheduled on-call Support Engineers, Managers, and Development teams.
+    > 
+    > The Manager and Lead Support Engineer should consider being on "heightened alert" during this time and offer support if possible. However, at a minimum, they will review the emergency when back online to document the troubleshooting efforts taken in the Support escalation incident and timeline, and perform any post-mortem reviews with the customer.
 
-    >The Manager and Lead Support Engineer should consider being on "heightened alert" during this time and offer support if possible. However, at a minimum, they will review the emergency when back online to document the troubleshooting efforts taken in the Support escalation incident and timeline, and perform any post-mortem reviews with the customer.
+- Is it just one ZD ticket per Account Escalation, or is it sometimes multiple?
+
+    > In principle, an Account Escalation means "this account, for some reason, is in a heightened/risky state". 
+    > 
+    > Imagine you're really hungry and are walking to get an apple. You might be slightly more likely to make a rude gesture to a car that cuts you off at the crosswalk than you are usually inclined to.
+    > 
+    > We have the "Escalated State" checkbox on the orgs in Zendesk for this reason: if they're escalated they're likely to be in a heightened state of emotion and urgency all around. 
+     Individual tickets may or may not be relevant to the exit criteria for the escalation, but all points of contact are relevant to the overall customer sentiment.
+    > 
+    > Be aware and circulate the info to the escalation channel, and let the folks there know to what extent you can contribute to creating a positive customer experience. In turn, let the manager and lead support engineer guide any deviations we may want to take to typical support workflows.
 
 - How often should I initiate a sync meeting? Daily? Weekly?
 
-    >The appropriate cadence for a sync meeting should be determined in collaboration with the escalation team. As a general rule, it is dependent on the severity of the escalation, but there are exceptions.
+    > The appropriate cadence for a sync meeting should be determined in collaboration with the escalation team. As a general rule, it is dependent on the severity of the escalation, but there are exceptions.
 
 - If the customer is stable, how long do I need to wait to close the Account Escalation?
 
-    >It depends; ensure the customer is comfortable with the current solution, and their instance status remains stable. Sync with the escalation team to make a decision together, confirming that the exit criteria have been met. There is not a hard rule for this.
+    > It depends; ensure the customer is comfortable with the current solution, and their instance status remains stable. Sync with the escalation team to make a decision together, confirming that the exit criteria have been met. There is not a hard rule for this.
