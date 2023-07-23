@@ -140,6 +140,32 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ## Specialties
 
+### Payroll Accountant
+
+Responsibilities
+- Work with the Payroll and Stock teams to prepare payroll and stock tax (RSUs, Options, ESPP) journal entries
+- Perform reconciliations for all payroll-related general ledger accounts and investigate variances
+- Perform monthly and quarterly flux analysis over payroll-related accrual and expense balances
+- Document and maintain payroll accounting processes and procedures
+- Provide recommendations for streamlining or automating processes
+- Support internal and external audits and ensure compliance with internal controls
+- Participate in payroll and other ad hoc projects as needed
+- Perform balancing activities between the payroll and the vendor(s)
+- Participate in the execution of payroll accounting compliance activities; SOX and internal audits, controls
+
+Requirements
+- Experience with international subsidiaries, PEO providers, and recording and reconciling in multiple currencies
+- 3-5 years US GAAP public company experience is required.
+- Software company experience preferred.
+- Strong working knowledge of GAAP principles.
+- Experience with Netsuite or other big ERP system preferred but not required.
+- Proficient with Microsoft Office suite and/or Google Docs and Sheets.
+- ExperIence working with international subsidiaries.
+- Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results.
+- Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision.
+- You share our values, and work in accordance with those values.
+
+
 ### International Reporting
 
 The Internal Reporting Accountants plays an integral role in financial reporting, our external audit, coordination with local service providers for each of our entities, and more with a proven ability to work independently and keep up with a fast-paced environment. This role helps to create a highly efficient, world class accounting and reporting function. Additional requirements are to know your way around GAAP principles and financial statements.
