@@ -30,6 +30,12 @@ Annually we prioritize countries that we believe offer the most opportunity for 
 | ------ | ------------ | ------ | 
 | [Smartling](/handbook/marketing/localization/smartling/) | Localization platform | [Instructions for access](/handbook/marketing/localization/smartling/#access-to-smartling) 
 
+### Localization Slack channels
+
+We use Slack internally as a communication tool. The Localization channels are as follows:
+
+- `#localization`: General localization channel.
+
 ### Translating content for campaigns
 
 Localized campaigns currently follow the [integrated campaign process](/handbook/marketing/campaigns/#campaign-planning). The Integrated Marketing team is responsible for content localization for integrated campaigns. 
