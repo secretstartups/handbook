@@ -29,7 +29,7 @@ This page details processes and general guidelines specific to the Executive Bus
 | [People](https://about.gitlab.com/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging) 
 | [Product](https://about.gitlab.com/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO) 
 | [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Christie Lenneville (VP of UX)<br>Hillary Benson (Sr Director of Product Management) 
-| [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Michael McBride (CRO)  
+| [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)  
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Nima Badiey (VP of Alliances) 
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Ryan O’Nell (VP of Commercial Sales)<br>Mike Pyle (VP of Enterprise Sales) 
