@@ -52,6 +52,11 @@ To promote advancement, cultural awareness, talent recruitment, retention, and p
 * [Launch Call March 4th, 2021](https://calendar.google.com/calendar/u/0/r/eventedit/MXE5MGZpb3JuZzRwaHEzcnBkbWZjcjNrcnFfMjAyMTAzMDRUMTkwMDAwWiBwbWVqaWFAZ2l0bGFiLmNvbQ?tab=mc)
 * Latinx Round Table, an Iteration to [DIB Roundtable](https://about.gitlab.com/company/culture/inclusion/dib-roundtables/) – [Issue](https://gitlab.com/gitlab-com/latinx-tmrg/-/issues/38)
 
+## Language specific channels
+Within GitLab's Slack, there are language-specific channels for those who want to converse with people in their native tongue or practice learning a new language. 
+
+* `#lang-es`
+* `#lang-pt`
 
 ## Community Outreach 
 Our Gente members are proud to be contributing externally to the following charitable organizations dedicated to supporting the Latinx community
