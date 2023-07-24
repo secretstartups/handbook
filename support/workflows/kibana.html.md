@@ -66,6 +66,16 @@ The majority of results as entries that returned `200`, which aren't in the scop
 
 ![Filtered results for a specific username](/images/support/kibana_filtered-results.jpg)
 
+#### Identify cause of IP Blocks
+
+There are some useful tips [here](ip-blocks.html) about searching kibana for errors related to IP blocks.
+
+#### Log Identification
+
+Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
+
+Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
+
 ### Tips and Tricks
 
 This section details how you can find very specific pieces of information in Kibana by searching for and filtering out specific fields. Each tip includes a link to the group, subgroup, or project that was used in the example for reference.
@@ -215,12 +225,6 @@ It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `g
 
 See the [500 errors workflow](500_errors.html) for more information on searching and finding errors on GitLab.com
 
-#### Log Identification
-
-Not sure what to look for? Consider using a Self-Managed instance to replicate the bug/action you're investigating. This will allow you to confirm whether or not an issue is specific to GitLab.com, while also providing easily accessible logs to reference while searching through Kibana.
-
-Support Engineers looking to configure a Self-Managed instance should review our [Sandbox Cloud page](/handbook/infrastructure-standards/realms/sandbox/) for a list of available (company provided) hosting options.
-
 #### Filter by IP Range
 
 Customers will sometimes give us an IP Range of their resources such as their Kubernetes cluster or other external servers that may need to access GitLab. You can search a range by using Elasticsearch Query DSL.
@@ -265,11 +269,7 @@ If there is an error, search for an existing issue. Errors where the metadata is
 
 If no error is found and the import is partial, most likely it is a timeout issue.
 
-### Identify cause of IP Blocks
-
-There are some useful tips [here](ip-blocks.html) about searching kibana for errors related to IP blocks.
-
-#### Known Import Issues
+##### Known Import Issues
 
 - **Imported project's size differs from where it originated**
   - See [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/27742#note_215721494) for an explanation as to why. As artifacts are part of repository size, whether they are present can make a big difference.
@@ -284,7 +284,7 @@ If you found a Correlation ID that is relevant for your troubleshooting, you can
 
 Kibana can be used to search for specific errors related to a purchase attempt. Since purchases can be made either in GitLab.com or [CustomersDot](https://customers.gitlab.com/customers/sign_in), it is important to determine which system a customer was using to make the purchase; then use the tips specific to the system below. **Note:** the ticket submitter might not be the customer making the purchase.
 
-#### GitLab.com purchase errors
+##### GitLab.com purchase errors
 
 **Note**: You need to have the **GitLab username** of the account used to make the purchase. Sometimes the user fills the `GitLab username` value of the ticket fields, or you can check the ticket requester's GitLab username in the [GitLab User Lookup Zendesk App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app).
 
@@ -300,7 +300,7 @@ If you encounter a generic error message try checking CustomersDot purchase erro
 
 **Tip:** To see the details of a user's purchase attempt, go to `https://log.gprd.gitlab.net/goto/45bb89c0-6ccc-11ed-9f43-e3784d7fe3ca` and update the value of `json.username`.
 
-#### CustomersDot purchase errors
+##### CustomersDot purchase errors
 
 **Note**: You need to have the **CustomersDot customer ID** of the account used to make the purchase. Refer to `Step 1` under [this section](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry) on how to get the customer ID.
 
@@ -313,3 +313,11 @@ If you encounter a generic error message try checking CustomersDot purchase erro
 Feeling Lazy? Go to `https://log.gprd.gitlab.net/goto/9c28ba80-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.customer_id`.
 
 In case you have the namespace details, get the **Namespace ID** then go to `https://log.gprd.gitlab.net/goto/b598dfe0-9d9b-11ed-9f43-e3784d7fe3ca` and update the value of `json.params.gl_namespace_id`
+
+#### Check user actions on a repository
+
+When looking at the `pubsub-rails-inf-gprd-*` index, you can determine if a user has recently cloned, pushed, or downloaded a repository. You can filter by `json.username`, `json.path` (the repository), and `json.action` to find specific events:
+
+- `action: git_upload_pack` is when someone performs a clone of a repository.
+- `action: git_receive_pack` is when someone push's a repository.
+- `action: archive` is when someone downloads a repository via the `Download source code` button in the UI.
