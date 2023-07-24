@@ -1,11 +1,11 @@
 ---
 layout: handbook-page-toc
 title: 6sense
-description: 6sense Overview
-twitter_image: /images/tweets/handbook-marketing.png
-twitter_site: '@gitlab'
-twitter_creator: '@gitlab'
+description: 6sense is an Account Based Marketing platform that uses a predictive model to identify the right customers at the ideal time
 ---
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -20,7 +20,9 @@ This page is under construction while we work to migrate from Demandbase to 6sen
 
 ## Overview
 
-[6sense](https://6sense.com/) is a an [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) platform that uses a predictive model to identify the right customers at the ideal time.  
+[6sense](https://6sense.com/) is a an [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) platform that uses a predictive model to identify the right customers at the ideal time.
+
+**This page contains public information about 6sense and how we use it. In addition to this page, additional, non-public information for GitLab team members can be found in the [internal handbook](https://internal.gitlab.com/handbook/marketing/marketing-strategy-and-platforms/marketing-operations/6sense/).**
 
 ## Implementation
 
@@ -28,7 +30,27 @@ We are currently implementing 6sense. Follow along in [this epic](https://gitlab
 
 ## Integrations
 
-6sense is integrated with Salesforce, Marketo, Outreach, and Qualified. In addition, user management is managed through Okta.
+6sense is integrated with Salesforce, Marketo, Outreach, Qualified, and Slack. In addition, user management is managed through Okta.
+
+### Salesforce
+
+6sense and Salesforce are integrated bi-directionally. Salesforce passes data to 6sense to inform and optimize the 6sense predictive data model, which is the foundation of our 6sense instance. The 6sense predictive data model takes in data from various sources including Salesforce campaign engagement acticity, to determine its intent model. 6sense also reviews the relevant opportunity definition in order to determine profile model. Finally, 6sense reviews Salesforce task and event activity to determine its reach model.
+
+6sense data is also pushed to Salesforce. 6sense fields can be seen on the Account, Contact, and Lead objects in Salesforce. 
+
+Salesforce users with a 6sense log in can also leverage the 6sense iframe in Salesforce. 
+
+### Marketo
+
+Marketo activity is passed to 6sense to inform the predictive models. Marketo form fills and email activity are included in the intent model. Outbound email activity from Marketo is used in the reach model. 
+
+### Outreach
+
+### Qualified
+
+### Slack
+
+The 6sense <> Slack integration can be used to send 6sense alerts via Slack. Documentation for how to set Slack alerts can be found [here](https://support.6sense.com/knowledge-base/360062370233-how-to-set-up-a-6sense-alert/#h_01EWYS24ZQXD947P52J1N5YFC4)(6sense login required).
 
 ## Support
 
@@ -59,9 +81,9 @@ The following teams have role-based access to 6sense:
 
 Training schedule TBD. Schedule of trainings and recordings of trainings will be posted here.
 
-### Orchestration
+## Orchestrations
 
-#### Add Lead to Sequence from the Account
+### Add Lead to Sequence from the Account
 
 With 6Sense, you can use segments to monitor the intent and engagement of target accounts from the Sales Intelligence dashboard in Salesforce.
 
@@ -70,7 +92,7 @@ With 6Sense, you can use segments to monitor the intent and engagement of target
 3. Select the lead and `add to Outreach` 
 4. Outreach will prompt you with Outreach Sequence, pick the sequence you would like to add the lead to.
 
-#### Acquire New Contacts to Outreach Sequence
+### Acquire New Contacts to Outreach Sequence
 
 You can add a segment to an Outreach Sequence directly on the 6Sense Naive Web Application. To do so, you’ll need to create a new orchestration with the criteria: I want to `acquire new contacts` and add them to `an Outreach Sequence`. 
 
