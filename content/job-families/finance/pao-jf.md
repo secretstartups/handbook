@@ -1,12 +1,12 @@
 ---
-title: "Principal Accounting Officer"
+title: "Chief Accounting Officer"
 ---
 
-The Principal Accounting Officer (PAO) leads the accounting function including spanning technical accounting, reporting, and accounting operations. The PAO serves as the Directly Responsible Individual for the financial reporting process and SoX controls as GitLab manages its current growth while preparing the company for operating as a public company. The ideal leader will be able to strike the right balance of controllership and integrity with business practicality. The PAO leads and directs an accounting team capable of dealing with a rapidly growing and changing business environment. Experience leading and scaling a public company accounting team. Experience in software, global operations and managing remote teams is strongly desired.
+The Chief Accounting Officer (CAO) leads the accounting function including spanning technical accounting, reporting, and accounting operations. The PAO serves as the Directly Responsible Individual for the financial reporting process and SoX controls as GitLab manages its current growth while preparing the company for operating as a public company. The ideal leader will be able to strike the right balance of controllership and integrity with business practicality. The CAO leads and directs an accounting team capable of dealing with a rapidly growing and changing business environment. Experience leading and scaling a public company accounting team. Experience in software, global operations and managing remote teams is strongly desired.
 
 ## Job Grade
 
-The Principal Accounting Officer (PAO) is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Chief Accounting Officer (CAO) is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Primary Job Responsibilities
 
