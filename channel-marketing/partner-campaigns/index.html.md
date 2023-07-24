@@ -182,7 +182,7 @@ GitLab allows Channel Partners to sponsor our owned events. The leads acquired b
 
  to
 
- > If `Vartopia Partner Account` is not equal to `Account ID of the Partner Sponsor(s)`, `Lead Acquisition Source` change value to `Owned Event`
+ > If `Vartopia Partner Account` is empty, leave blank (Do Nothing).
 
  2c. Add Choice: If `Vartopia Partner Account` is equal to `Account ID of the Partner Sponsor (s)`, `Lead Acquisition Source` change value to `Partner Sponsored Event`
 
