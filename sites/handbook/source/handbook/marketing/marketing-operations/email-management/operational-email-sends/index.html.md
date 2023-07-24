@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Email Management"
-description: "Email database management is a core responsibility for MktgOps. Ensuring GitLab is following email best practices, in compliance with Global spam laws and overall health of active database are all priorities."
+title: "Operational Email Sends"
+description: "The Marketing Operations team works very closely with the Lifecyle Marketing team, and sometimes are tasked with deploying non-demand generation emails."
 ---
 
 ## On this page
