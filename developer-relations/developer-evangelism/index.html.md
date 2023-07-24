@@ -97,15 +97,17 @@ Inspired by GitLab's [collaboration value](/handbook/values/#collaboration), the
 | Division  | Stable counterpart | Activities | 
 |-----------|--------------------|------------|
 | Alliances & Infrastructure | [Abubakar Siddiq Ango](https://gitlab.com/abuango) | [Infrastructure Meetings](/handbook/engineering/infrastructure/#meetings), [Alliances](https://about.gitlab.com/handbook/alliances/) | 
-| Product   | [Michael Friedrich](https://gitlab.com/dnsmichi)   | [Monthly Verify Field Sync (internal)](https://gitlab.com/gitlab-com/Product/-/issues/?search=verify&sort=updated_desc&state=all&label_name%5B%5D=Field%20Sync&first_page_size=20), Ops: [Monitor:Observability direction](/direction/monitor/observability/), [Sec section](/handbook/product/categories/features/#sec-section): Secure, Govern | 
+| Product   | [Michael Friedrich](https://gitlab.com/dnsmichi)   | [Dev](/handbook/product/categories/features/#dev-section): Create:IDE ([Web IDE](/direction/create/ide/web_ide/), [Remote Development](/direction/create/ide/remote_development/)), [CI](/handbook/product/categories/features/#ci-section): [Monthly CI Section Field Sync (internal)](https://gitlab.com/gitlab-com/Product/-/issues/?sort=updated_desc&state=all&label_name%5B%5D=Field%20Sync&label_name%5B%5D=section%3A%3Aci&first_page_size=20), Ops: [Monitor:Observability direction](/direction/monitor/observability/), [Sec section](/handbook/product/categories/features/#sec-section): [Secure, Govern](/direction/govern/) | 
 
 As stable counterparts, Developer Evangelists are expected to actively engage with the divisions to identify collaboration opportunities and act as the primary point of contact for requests for Developer Evangelism support from these divisions. 
 
 Collaboration examples that source from stable counterpart activities:  
 
+- [Blog/Videos - Remote Development awareness in FY24](https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/190)
 - [Support Web IDE Beta Launch, 2022-12-19](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/185)
 - [Support the Flux integration into GitLab's GitOps feature (configure stage, agent for Kubernetes)](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/207)
 - [Support the CI/CD Components launch](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/230)
+- Feature proposals: [Pipeline Efficiency: Observability and AI Optimization](https://gitlab.com/groups/gitlab-org/-/epics/11050), [Runner Fleet: Cost Management & AI Optimization](https://gitlab.com/groups/gitlab-org/-/epics/6720)
 
 ## <i class="fa fa-tasks" aria-hidden="true"></i> What we do
 
