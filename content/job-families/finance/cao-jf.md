@@ -2,7 +2,7 @@
 title: "Chief Accounting Officer"
 ---
 
-The Chief Accounting Officer (CAO) leads the accounting function including spanning technical accounting, reporting, and accounting operations. The PAO serves as the Directly Responsible Individual for the financial reporting process and SoX controls as GitLab manages its current growth while preparing the company for operating as a public company. The ideal leader will be able to strike the right balance of controllership and integrity with business practicality. The CAO leads and directs an accounting team capable of dealing with a rapidly growing and changing business environment. Experience leading and scaling a public company accounting team. Experience in software, global operations and managing remote teams is strongly desired.
+The Chief Accounting Officer (CAO) leads the accounting function including spanning technical accounting, reporting, and accounting operations. The CAO serves as the Directly Responsible Individual for the financial reporting process and SoX controls as GitLab manages its current growth while preparing the company for operating as a public company. The ideal leader will be able to strike the right balance of controllership and integrity with business practicality. The CAO leads and directs an accounting team capable of dealing with a rapidly growing and changing business environment. Experience leading and scaling a public company accounting team. Experience in software, global operations and managing remote teams is strongly desired.
 
 ## Job Grade
 
@@ -13,7 +13,7 @@ The Chief Accounting Officer (CAO) is a [grade 12](https://about.gitlab.com/hand
 1. Manage a globally distributed team whose functions include accounting, accounts payable, payroll, technical accounting, and reporting
 1. Lead all aspects of accounting operations including month-end close and annual audit
 1. Develop a high-quality corporate governance environment, introduce and improve policies and procedures, participate and lead relevant portion of Audit Committee meetings, own relationships with auditors
-1. In partnership with the CFO serve as the technical accounting decision-maker for the company – implement accounting policies across the organization.
+1. In partnership with the CFO, serve as the technical accounting decision-maker for the company – implement accounting policies across the organization.
 1. Manage the accounting budget – establishing the right mix of internal and outside spend and demonstrating innovation in how finance services are delivered
 1. Implement a control structure that complies with SOX
 1. Build efficiencies into all aspects of the group's operations including systems and process.
@@ -58,4 +58,4 @@ Candidates for this position can expect to interview with future direct reports,
 
 ## Career Ladder
 
-The next step in the PAO job family is to move to the [CFO](/job-families/finance/chief-financial-officer/) job family.
+The next step in the CAO job family is to move to the [CFO](/job-families/finance/chief-financial-officer/) job family.
