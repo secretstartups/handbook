@@ -63,8 +63,9 @@ GitLab and SuitUp are teaming up to provide virtual volunteer opportunities for 
    - Overview: 
        - Coached by GitLab volunteers, students (in teams of 4–10) will role-play as CEOs of the company tasked with solving a realistic corporate challenge. GitLab will work directly with SuitUp’s Programs Team to design a custom competition challenge that reflects their brand and social impact initiatives. Each team will pitch their idea to panel of judges and the winning team will come away with a prize.
    - Dates/Times: 
-        - 1st Competition: **October 11, 9am-11am EST**
+        - 1st Competition: **October 11, 9-11am EST**
         - 2nd Competition: **October 11, 7-9pm EST** 
+   - Sign up to be a volunteer [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/34178)  
 
 
 #### In Kind Support & Matching Gifts Program
