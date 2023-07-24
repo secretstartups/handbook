@@ -79,6 +79,19 @@ While Support typically identifies users by their membership in a paid namespace
    - Include the paid namespace when determining the data classification level.
 1. If the user is classed as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) the user or an owner of the paid group raises the ticket.
 
+#### Account Verification Matrix
+
+The table below provides a summary of the available verification options based on the owner and user type:
+
+| Requester | Target | Rule | Comment
+| --- | --- | --- | ---
+| Enterprise Owner | Own account | Owner passes challenges on own account, owner vouch (if required), must be provided by a different owner | If no other owner is available for vouch, see [internal handbook](https://internal-handbook.gitlab.io/handbook/support) for other challenges.
+| Enterprise Owner | Member of paid group or intent to be added | Owner passes challenges on own account, vouch can come from same owner. Target user does not have to be CCd on ticket. Multiple enterprise users may be handled per ticket | 
+| Owner | Non-enterprise user | Owner can raise the ticket, user must supply the answers, owner can vouch. One user per ticket | 
+| Paid User | Own account | User passes challenges on own account. Owner can vouch. |
+| Paid User | Other member of same paid group | Target user passes challenges on own account. Communication is direct from the target user who must be CC'd on ticket |
+| Free User | Non-member of group with intent to be added | Not allowed - request must come from group owner | 
+
 #### Conditions when account is used to access Customers Portal
 
 [Customers Portal](https://customers.gitlab.com) requires all customers to access through a [Linked Gitlab Account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account).
@@ -104,7 +117,7 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
 1. Use the [ZenDesk GitLab Super App's 2FA Helper](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) to determine the [risk factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
    - [Specific conditions are required to be considered for 2FA resets](#checking-user-eligibility-2fa-requests-only).
    - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#checking-user-eligibility-2fa-requests-only) for further guidance.
-   - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, you can accept the owner's answers on the user's behalf. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching). The answers can relate to either the owner's or user's account (pick one, not pieces from both).
+   - If a group owner is answering on an [enterprise user's](gitlab-com_overview.html#enterprise-users) behalf, the answers must relate to the group owner's account, not the user's accout. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching).
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
 1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
