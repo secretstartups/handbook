@@ -87,7 +87,7 @@ This principle aligns well with a few of GitLab's core values, such as:
 
 Once a feature or process finds product fit or is validated to be of significant positive value, it should be a candidate for further automation. This is particularly important to do last, since spending the time up front to automate a un-validated solution to a problem is particularly risky and not very iterative.
 
-While this may seem to be common sense as part of this flow, it is often times counter-intertuitive in practice. This is because there is a strong desire to reduce manual touches, or to launch with a great UX from the very beginning. The challenge is that this often significantly increases the iteration size, and can delay important learnings which may cause a chagne in direction.
+While this may seem to be common sense as part of this flow, it is often times counter-intertuitive in practice. This is because there is a strong desire to reduce manual touches, or to launch with a great UX from the very beginning. The challenge is that this often significantly increases the iteration size, and can delay important learnings which may cause a change in direction.
 
 As Elon notes in the interview:
 
