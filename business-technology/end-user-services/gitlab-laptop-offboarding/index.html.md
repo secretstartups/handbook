@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
-title: End User Services
+title: Gitlab Laptop Offboarding Guide
+description: "This section stands as the single source of information in regards to how to properly offboard your Gitlab laptop."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
