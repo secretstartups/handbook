@@ -27,8 +27,8 @@ The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter
 [link to original](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
 
 Milestone naming convention; Milestone FYxx-Qxx-MSxx. I.e. FY22-Q02-MS01 <br>
-LT = Leadership Team (`@rparker2`, `@iweeks`, `@dvanrooijen2`, `@mlaanen`) <br>
-DT = Data team (Product Fusion Team, GTM Fusion Team or Data Platform Team)
+LT = Leadership Team (`@amiebright`, `@iweeks`, `@dvanrooijen2`, `@nmcavinue`) <br>
+DT = Data team (Product Fusion Team, GTM Fusion Team, BI Platform Team, or Data Platform Team)
 
 The overall ambition is to **structure** why, when and what we are doing. 
 - OKRs will lead to **why**
@@ -58,7 +58,7 @@ This approach has many benefits, including:
 
 ### Bi-Weekly Milestone Planning
 
-The data team works in two-week intervals, called milestones. 1 milestone per quarter will take three weeks long, because a quarter contains 13 weeks. The milestone that takes 3 weeks is the milestone that covers a major holiday or if the majority of the team is on vacation or at Contribute. Milestones start on Wednesdays and end on Tuesdays. This discourages last-minute merging on Fridays and allows the team to have milestone planning meetings at the top of the milestone.
+The data team works in two-week intervals, called milestones. 1 milestone per quarter will be one week long, because a quarter contains 13 weeks. The milestone that takes 1 week is the last week of the quarter and is reserved for work breakdowns and quarter initiative wrap-up.  Milestones start on Wednesdays and end on Tuesdays. This discourages last-minute merging on Fridays and allows the team to have milestone planning meetings at the top of the milestone.
 
 Milestone planning should take into consideration:
 
