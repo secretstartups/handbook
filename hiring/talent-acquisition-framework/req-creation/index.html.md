@@ -221,7 +221,7 @@ To do this, the following steps should be taken:
 1. Choose "Country Hiring Restriction" as the rejection reason and choose to "send email" using the "Reject because we cannot hire in this country" template to be sent to the candidate.
 
 
-Similarly, you can set up a custom rule to reject candidates based on visa requirements following the process above and applying rules to the question "Will you now or in the future require sponsorship for a visa to remain in your current location? (Please be aware that GitLab does not offer any form of Work Sponsorship.)"
+Similarly, you can set up a custom rule to reject candidates based on visa requirements following the process above and applying rules to the question "Will you now or in the future require sponsorship for a visa to remain in your current location? (Please be aware that GitLab does not offer any form of Work Sponsorship.)
 
 
 If you are applying rules to reject candidates based on visa sponsorship needs it's important to consider whether there's a possibility that we may reject candidates with complex situations that we actually can hire. If there is any doubt, avoid using rules to reject candidates automatically based on visa sponsorship requirements.
@@ -258,6 +258,7 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
    - Finally, under `Additional Settings`, check `This interview requires scorecards to be submitted` and leave **unchecked** `Hide candidate name and details from grader`.
    - Then click `Save`.
 1. The next stage is the `Screening` call stage, which should be standard across the organization. Click `Edit` on this stage, scroll to the bottom, and choose the recruiter as the default interviewer and set interview duration to 30 minutes. It is important for this stage to be named the same across the organization for reporting purposes.
+1. The next stage is `Initial Interview`, where the R&D candidates usually have their technical interview and all other departments usually have a hiring manager interview. Under this stage, you usually will only have one interview. They are typically called “Topic of interview, Interviewer, length of interview”. For example: Technical Interview, Harry Potter (60 mins). This will help CES know what to schedule.  _Please note that this stage operates independently, so you cannot collect availability for a different stage's interviews while in this stage, and you cannot collect scorecards after you've left the stage. Never move a candidate out of this stage while they have a planned interview._ Please see the stage below for additional guidelines.
 1. The next stage is `Team Interview`, where the candidates will meet with peers and the hiring manager. Under this stage, you should see multiple interviews. They are typically called “Topic of interview, Interviewer, length of interview”. For example: Technical Interview, Harry Potter (60 mins). This will help CES know what to schedule.
    - The `Team Interview` stage should be laid out according to the order the interviews must take place. 
    - The interview plan should be defined during the intake call to include what attributes from the scorecard each interviewer is addressing as well as standard questions each interviewer should ask. **You should always know the interview plan prior to beginning any candidate screens.**
@@ -271,14 +272,15 @@ If you are applying rules to reject candidates based on visa sponsorship needs i
    - To add additional questions, click `Add Custom Question`, title it `Full Notes`, choose `Text` as the answer type, and click `Add Custom Question`. Each interview topic should use consistent questions between candidates, so the Recruiter should collect those from interviewers and enter them before the interview process begins.
    - The two `Additional Settings` should both be checked.
    - Click `Save`.
+1. For Go to Market (Sales and G&A) positions, the next stage is `Debrief`. This is a holding space where candidates should go after all scorecards have been submitted and interviews complete. We use this stage to measure the length of time it takes to make a decision after interviews are complete, and help Recruiters easily identify a candidate who should be kept warm.
 1. The next stage is `Background Check & References`, where you will see Reference Check forms. Do not remove or change these forms without speaking to Enablement.
-1. There is an optional `Justification` section used by the R&D division. This section should include three questions:
+1. For R&D roles, the next stage is the `Debrief` stage. The interview within this stage is called Justification and should include three questions below. It is not an actual interview, but a space where hiring managers are able to explain their rationale for recommending an offer.
    - In what specific way(s) does this candidate make the team better?
    - What flags were raised during the interview process?
    - How do we intend on setting this candidate up for success?
-1. The last stage is the `Offer` stage and cannot be edited or removed. Some important notes about the interview plan:
-   - Every interview should be evaluating values in the attributes section.
-   - On occasion, there may be additional or fewer stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed.
+1. The last stage is the `Background Check and Offer` stage and cannot be edited or removed. 
+
+On occasion, there may be additional or fewer stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed.
 
 
 #### Update the Hiring Team
