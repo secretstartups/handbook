@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Integrate with GitLab"
+title: "GitLab Integration Instructions"
 description: Learn about integrating with GitLab, as well as partnership, marketing, and licensing opportunities.
 ---
 
