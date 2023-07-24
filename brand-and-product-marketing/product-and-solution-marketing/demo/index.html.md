@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
 title: "DEPRECATED-Demos"
-noindex: true
 ---
 
 ## On this page
