@@ -18,6 +18,22 @@ There are a series of steps that are taken when preparing a job offer at GitLab 
 
 These steps outline all of the major stages that Recruiters follow in our job offer process.
 
+### **Debrief**
+
+_Note: This step happens simultaneously with the Reference Check stage for R&D and is often referred to as Justification._
+
+**Sales and G&A**
+For Sales and G&A roles, the Debrief stage is a holding stage that takes place before Reference Checks are initiated. Candidates should be placed here after all scorecards are submitted and interviews are complete, while the decision is made to create an offer. There is no interview here, so one does not need to exist within the interview plan. 
+
+**R&D**
+For the R&D team, the interview within the Debrief stage is called Justification. Once it is determined that a candidate will be moving to the offer stage, the hiring manager will answer the following questions in the justification stage in the candidate's greenhouse profile:
+- In what specific way(s) does this candidate make the team better?
+- What flags were raised during the interview process? Include any past rejections, thumbs-down ratings, or hesitancy from previous interview scorecards (but not resume reviews), as well as your reasons for being comfortable moving forward despite these (preferably with confirmation from the past interviewer).
+- How do we intend on setting this candidate up for success?
+- Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) [for the specific role](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families)? (please add them to the appropriate scorecard section)
+- Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer)
+
+The justification section is a good place to add as much detail and context as possible since offers will often be reviewed by individuals that were not part of the interview process so this is their primary source of information for whether or not an offer should be approved.
 
 ### **Reference Reviews**
 
@@ -37,16 +53,7 @@ If you would like the Hiring Manager to receive an email when the form has been 
 Your Hiring Manager will be responsible for completing their reference checks.
 
 
-### **Justification (Engineering Only)**
 
-Once it is determined that a candidate will be moving to the offer stage, the hiring manager will answer the following questions in the justification stage in the candidate's greenhouse profile:
-- In what specific way(s) does this candidate make the team better?
-- What flags were raised during the interview process? Include any past rejections, thumbs-down ratings, or hesitancy from previous interview scorecards (but not resume reviews), as well as your reasons for being comfortable moving forward despite these (preferably with confirmation from the past interviewer).
-- How do we intend on setting this candidate up for success?
-- Engineering specific: Does the candidate meet a simple majority of nice-to-have requirements (5 of 9) [for the specific role](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families)? (please add them to the appropriate scorecard section)
-- Is the offer in-plan, and why? (e.g.: critical budgeted hire, backfill, transfer)
-
-The justification section is a good place to add as much detail and context as possible since offers will often be reviewed by individuals that were not part of the interview process so this is their primary source of information for whether or not an offer should be approved.
 
 
 #### Recruiter Quality Check (Engineering Only)
