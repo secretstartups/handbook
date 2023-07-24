@@ -29,7 +29,7 @@ We have IT Analysts available 24x5 to assist or fix anything you need related to
 
 ## How Can We Help?
 
-There is a lot of information on this page. We've added emojis to help you get started.
+There is a lot of information on this page. We've added emoji to help you get started.
 
 - 🆕 If you are onboarding (new to GitLab), this is a helpful section for you to check out.
 - 👀 Frequently asked questions

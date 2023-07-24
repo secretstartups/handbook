@@ -34,7 +34,7 @@ bottom of the ticket page.
 
 With agent workspace, the reply box you type your reply into now has a WYSIWYG
 at the very bottom of the box. Using this you can format your reply, attach
-files, insert emojis, and create links.
+files, insert emoji, and create links.
 
 #### Markdown links no longer work
 
