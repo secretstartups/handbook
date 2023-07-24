@@ -18,7 +18,7 @@ Many of our projects focus on providing self service access request provisioning
 
 ## Direction
 
-See our [IT Engineering Development Direction](/handbook/it/engineering/dev/direction) handbook page to learn more.
+See our [IT Engineering Development Direction](/handbook/it/engineering/dev/direction/) handbook page to learn more.
 
 ## Team
 
@@ -85,4 +85,4 @@ In 2023 (FY24), we are focused on moving from our v1 viable architecture to a v2
 
 As we learn more through the current iterations, we'll evaluate what approach makes sense for future iterations. It is unclear yet whether we will continue focusing on isolated point solutions, consolidate into a unified backend API, or take a hybrid approach with modular microservices.
 
-See the [IT Engineering Development Direction](/handbook/it/engineering/dev/direction) handbook page to learn more.
+See the [IT Engineering Development Direction](/handbook/it/engineering/dev/direction/) handbook page to learn more.
