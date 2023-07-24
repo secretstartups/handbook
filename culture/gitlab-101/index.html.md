@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "GitLab 101"
+title: "GitLab CEO 101"
 description: "There is a monthly GitLab CEO 101 call with new hires and the CEO. This is a zoom call that will be a public stream to YouTube."
 canonical_path: "/company/culture/gitlab-101/"
 ---
