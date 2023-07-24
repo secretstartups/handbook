@@ -151,8 +151,13 @@ These tactics/motions may not always be approved or appropriate for each risk sc
 4. **Articulate the intervention being actioned/requested** in the `Manager Notes` field using the following syntax - 
     - A. [No action required] - start the notes with this if there is no ask
     - B. [Risk intervention ask/idea] - begin the manager notes with a short phrase describing the intervention tactic, with a *short* summary/context
-4. **Review and prioritize interventions** in your scheduled forecasting calls with the management team. 
-5. **Kick off the intervention in chatter** using this example format:
+5. *Update the Manager note section with one or more of the following hashtags** to demonstrate the appropriate status
+    - A. [#UserMigration] - demonstrates C&C in a scenario where actual revenue is not leaving the company but rather being shifted to another opportunity (RM needs to document the opportunity where the revenue is captured by including the link in manager notes in accompaniment of the hashtag)
+    - B. [#Risk] - leverage when the renewal opportunity should be on a "watch-list" but the risk is not vetted enough to be reflected in the forecasting fields
+    - C. [#DeferredChurn] - leverage on renewal opportunities where a negative impact to renewal rate and/or arr basis occurred due to activity outside of standard practices. Example 1, we waive a true-up {at renewal prep stage} and add on the users, increasing the arr basis spend knowing the customer will likely decrease seat count at the next renewal. Example 2, we have two opportunities that are related due to a migration project and close win the opportunity with the nARR attached to it at the end of the quarter and wait to close loss the opportunity with negative arr in the new quarter.
+    - D. [#RiskMitigated] - leverage to represent the journey of moving a renewal opportunity to Red back to Green via mitigation efforts. A brief outline of events displaying the journey/mitigation efforts should be documented when using this hashtag.
+6. **Review and prioritize interventions** in your scheduled forecasting calls with the management team. 
+7. **Kick off the intervention in chatter** using this example format:
     - [Risk Intervention] (Executive involvement - EXEC_NAME email, in the next 2 weeks) Hi EXEC_NAME - our customer is a huge fan of your work and I think an email from you would be impactful in mitigating the risk we are seeing on this opp. Here's a _doc_ with language and context.  @EXEC_NAME, CC: @MANAGER
     - [Risk Intervention] (CSM/E Workshop - premium feature demo, next week) Hi CSM_Name, if we can demonstrate the efficacy of premium features for this customer we have a chance to save this opp. I've kicked off a triage issue to manage the workshop - here's the _link_. @CSM_Name CC: @MANAGER 
 
