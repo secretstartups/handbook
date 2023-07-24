@@ -61,6 +61,8 @@ In addition to our statuses, there are substatus that are required for XDRs to u
 | Staying with subversion option |
 | No data aollected |
 | Recalled from Partner |
+| No Action |
+| Denied from Startups Program - Sales Dev to re-engage |
 
 | Bad Data |
 |---- |

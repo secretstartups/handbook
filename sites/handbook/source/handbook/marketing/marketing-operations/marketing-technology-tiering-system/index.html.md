@@ -53,7 +53,7 @@ The combined score of all three criteria categories determines a tool's tier:
 
 ## List of Tools by Tier
 
-A list of tools in the marketing technology stack can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/#-tech-stack).
+A list of tools in the marketing technology stack can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/#-marketing-technology-stack).
 
 
 ## Roles and Responsibilities 
@@ -66,7 +66,7 @@ A member of the Marketing Operations team will be the technical owner for `Manag
 
 The SSoT for `business owner` and `technical owner` is the [GitLab Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). **Please note that we are currently updating the business and technical owners listed in the GitLab Tech Stack and there may be disparities. If you have questions during this update, please reach out in #mktgops on Slack.**
 
-### Business and Technical Roles and Responsibilities 
+### Business and Technical Owner Roles and Responsibilities 
 
 | Area | Business Owner Responsibilities | Technical Owner Responsibilities | 
 |------|---------------------------------|----------------------------------|

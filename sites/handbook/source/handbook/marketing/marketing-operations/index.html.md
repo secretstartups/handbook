@@ -59,9 +59,9 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 ## <i class="far fa-handshake" id="biz-tech-icons"></i> Teams We Work Closely With
 
-##  Working with Channel Partner Marketing
+###  Working with Channel Partner Marketing
 
-### Channel Partner Marketing Expectation
+#### Channel Partner Marketing Expectation
 {: .no_toc}
 
 - To open [issues](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for any new request using the problem statement.
@@ -69,7 +69,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 - To provide full problem statement on the issue with as much context as possible.
 - Optional - suggested solution for this issue.
 
-### Marketing Ops Expectation
+#### Marketing Ops Expectation
 {: .no_toc}
 
 - To use [labels](/handbook/marketing/marketing-operations/#labeling) to denote where the issue is
@@ -77,7 +77,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 - To provide solution options for the problem statement with clear outline of timeline/ potential blockers.
 - To verify possibility of the suggested solution(if there is one).
 
-### Bi-weekly Meeting
+#### Bi-weekly Meeting
 {: .no_toc}
 
  New issues will be prioritized within the bi-weekly meeting where Salina can understand if/what work should be deprioritised to complete the new work.
@@ -90,7 +90,7 @@ Salina to
 If no new issues- can either discuss issues or skip a week. 
 
 
-### Handbook Updates
+#### Handbook Updates
 {: .no_toc}
 
 When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` handbook pages (or sub-pages), we have a Zapier workflow set up that will push the MR (upon merge) to the related Slack channel to ensure our teams are aware of any change that is made to the page. In order for the merged MR to show up in the respective Slack channel, you must add one of the following corresponding `labels` on the MR. Slack updates will also trigger for MktgOps MRs when created.
@@ -107,7 +107,7 @@ When making an update to a handbook page for `ABM`, `FMM`, `MOps`, or `SDR` hand
 
 The marketing operations team uses collective merge requests, known as our milestone MRs, to make multiple updates across our handbook, see high-level updates in 1 MR, and avoid conflicts with each other. Here is an [example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/71109). We list all major changes with our GitLab username in the description after a commit and link any relevant issues that the commit closes out. If you have an update for the marketing operations handbook, please feel free to use our milestone MR to make a commit and tag us for review to avoid conflicts.
 
-## Working with Sales Systems for New Fields and/or Permission Set Updates
+### Working with Sales Systems for New Fields and/or Permission Set Updates
 
 The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to deploy new/updated fields and permission sets. See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
 
@@ -332,7 +332,7 @@ Periodically Marketing Operations and other teams through the marketing org make
 ### Marketing Technology Tiering System
 {: .no_toc}
 
-The Marketing Operations team maintains the Marketing technology tiering system in order to prioritize requests, provide support, and optimize processes.
+The Marketing Operations team maintains the [Marketing technology tiering system](https://about.gitlab.com/handbook/marketing/marketing-operations/marketing-technology-tiering-system/) in order to prioritize requests, provide support, and optimize processes.
 
 ### Tools in the Stack
 
@@ -593,6 +593,7 @@ Status in the table below means:
 | Request - Community | inbound |  | Active |
 | Request - Public Sector | inbound |  | Active |
 | Other | Other |  | Active |
+| 6Sense | outbound | Acquired from the 6Sense database | Active |
 | AE Generated | outbound | Sourced by an Account Executive through networking or professional groups | Active |
 | LinkedIn | outbound |  | Active |
 | Prospecting | outbound |  | Active |

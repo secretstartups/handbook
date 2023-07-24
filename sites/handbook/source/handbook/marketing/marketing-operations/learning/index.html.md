@@ -4,14 +4,13 @@ title: "Learning Marketing Operations"
 description: "This handbook page is to provide updated marketing operations learning and resources materials."
 ---
 
-{::options parse_block_html="true" /}
-
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-  {:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
 
 # Learning Marketing Operations
 

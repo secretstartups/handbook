@@ -177,6 +177,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 | Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
 | Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
 | Marketing Invited | Marketing geo-targeted email |  |
+| Declined Invitation | Event nvitation declined by recipient | |
 | Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
 | Registered | Registered for event |  |
 | Cancelled | Registered, but cancelled ahead of the event |  |
@@ -657,8 +658,9 @@ These steps are not yet configured. If you are planning to do this for your next
 **If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
+Use these instructions if you are NOT working through Integrate DAP. For the instructions for campaigns through DAP, go to the section below.
 
-### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
+### Step 1: Do not use this program if your campaign is running through Integrate DAP. See instructions below for DAP: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
 
 - Use format `YYYY_Vendor_NameofAsset`
 - If the content syndication is part of a package with an external vendor, promoting several assets or webcasts, keep all of the Marketo programs together in a folder for easy access as part of a single vendor program.
@@ -716,6 +718,128 @@ These steps are not yet configured. If you are planning to do this for your next
 - If the program is being ran by Digital Marketing, add the SFDC campaign under the parent campaign `Demand Gen Pulishers/Sponsorships`  
 
 **If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
+
+## Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP
+If your content syndication program is not running through DAP, please use the instructions above. 
+
+The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. If you only need to add a new asset to an existing Region/Vendor pair in Marketo, skip to the instructions below. 
+
+You must keep the same Asset number for existing assets, otherwise the existing automation will fail. A complete list of the current assets is available [here](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184). Be sure to add new assets to this list to maintain a SSOT for reference.
+
+### Instructions to add a new Region-Vendor-Asset combo:
+
+### Step 1: Create SFDC campaigns
+- Create the SFDC campaigns directly in Salesforce. Each asset requires a campaign.
+- Format: YYYY_Region_Vendor_AssetName (examples: 2024_AMER_Demand_Science_2023DevSecOpsReport:ProductivityEfficiency, 2024_EMEA_Integrate_AchieveDevSecOpswithGitLabCI/CD)
+    - Set the campaign to `Active`
+    - Change the `Campaign Owner` to your name
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date`
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+    - Update `Region` and `Subregion` 
+- Associate this campaign to the appropriate [parent campaign](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=365937335). 
+
+### Step 2: [Clone this program - ContentSynd_Region_Vendor_DAP_Assets_Populated](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15954A1) - This is the recommended template. Note that this program has the asset titles and types pre-populated. If you want a version without the asset tokens populated (not recommended only because it requires more set-up work), clone [ContentSynd_Region_Vendor](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15661A1). You will still need to add the SFDC campaign tokens in both versions. 
+- Use format `ContentSynd_Region_Vendor`
+- Save the program to the folder for the appropriate FY under Content.
+
+### Step 3: Update Marketo tokens
+
+- If you are adding new assets as well, please follow the instructions below for new assets in addition to these instructions for setting up a new Region/Vendor.
+- If you used the program template with the {{my.Assetx-Title}} and {{my.Assetx-Type}} prepopulated, complete the {{my.Assetx-sfdc_campaign}} for each asset. 
+- In order to complete the {{my.Assetx-sfdc_campaign}}, the campaigns must be created in SFDC first and the campaign in SFDC must be marked as `Active`. This token will validate the campaign exists in SFDC in order to populate. Pay close attention to the asset number you are populating. The tokens are not in order.
+- If you used the program template without tokens pre-populated, complete each {{my.Assetx-Title}}, {{my.Assetx-Type}}, and {{my.Assetx-sfdc_campaign}}. Be sure to reference the [existing asset list](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184) when you complete the tokens. Do not include the `Asset [number] -` in the token value. If you are not using a specific asset (for example, you aren't using Asset 4 in your program), skip that token. You will delete it from the automation later. 
+     - For {{my.Assetx-Type}}, the only available options are `Whitepaper`, `eBook`, `Report`, `Video`, or `General`
+         - If you add a Content Type value other than the above, the record will hit an error when syncing to Salesforce because these are the only currently available picklist items for `Initial Source`
+- Complete the `{{campaign owner email}}, {{region}}, and {{vendor}} tokens.  
+
+### Step 4: Modify & Activate Marketo smart campaigns
+It is critical that any reference to asset number in Marketo automation (not tokens) uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
+
+- `02 Interesting Moments`
+     - **Smart list**: No changes. Confirm that all references to the Marketo program match your program name.
+     - **Flow**: `Step 2-Interesting Moment` - Delete the selection for any assets you are not using for this Region/Vendor by clicking the X next to the relevant Choice. Confirm that you are deleting the choice referencing the correct asset. For example, Asset 4 is a French asset. If you are not using it in AMER, you will click the X next to Choice 4 (confirm this is the choice referencing Asset 4 before deletion). You will delete the same selections for Processing and Manual Upload processing. Note that it is not obvious when the selection deletes. Please confirm that the asset number you are deleting is correct before you click again.
+     - **Schedule**: Click on `Activate`. This should be set to `Each person can run through the flow every time`.
+- `01 Processing`
+     - **Smart list**: No changes. Confirm that all references to the Marketo program match your program name.
+     - **Flow** (confirm that program references match the Marketo program name): `Step 1 - Add to List`- Delete any assets you are not using from the asset list. This will cause any responses that come in with that asset number to go into the error list and you can manually add them to the correct SFDC campaign. 
+          - `Step 2 - Add to SFDC Campaign` - Delete the selection for any assets you are not using for this Region/Vendor by clicking the X next to the relevant Choice. Confirm that you are deleting the choice referencing the correct asset. If you do not delete the choices for unused campaigns, the responses will be added to the template campaign in SFDC.
+      - **Schedule**: Click on `Activate`. This should be set to `Each person can run through the flow every time`.
+- `03 Manual upload processing`
+     - **Smart list**: No changes. Confirm that the program name in the filter matches your Marketo program name.
+     - **Flow** (confirm that program references match the Marketo program name): `Step 2 - Add to List`- Delete any assets you are not using from the asset list. This will cause any responses that come in with that asset number to go into the error list and you can manually add them to the correct SFDC campaign. 
+          - `Step 5 - Add to SFDC Campaign - Delete the selection for any assets you are not using for this Region/Vendor by clicking the X next to the relevant Choice. Confirm that you are deleting the choice referencing the correct asset. If you do not delete the choices for unused campaigns, the responses will be added to the template campaign in SFDC. Note that it is not obvious when the selection deletes. Please confirm that the asset number you are deleting is correct before you click again.
+      - **Schedule**: No changes. This will be activated by MOps if it is required. It will only be used on a manual upload and is not necessary if you use the self-service upload process.
+          
+### Step 5: Important information for content syndication list uploads          
+When you do your list upload, you must be sure that the `Asset [number] -` that corresponds to each asset is included in the `Content Syndication Asset` field so the automation will trigger, using the format `Asset [number] -` ("asset number space -"). The recommendation is to populate the `Content Syndication Asset` field using the format `Asset [number] - Name of asset` (example: `Asset 2 - 2023 Global DevSecOps Report: Security & Compliance`). A complete list of current assets with their asset number can be found [here](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184). This also applies if the responses are set directly from the vendor. They must be set-up in the vendor system with the appropriate asset number.
+
+It is critical that any reference to asset number in the upload or send from the vendor uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
+
+
+### Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP - adding a new asset
+If your content syndication program is not running through DAP, please use the instructions above. 
+
+The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. These instructions are to add a new asset to an existing region/vendor program in Marketo. You can also use these instructions to add additional assets (beyond the 15 already determined) to a new Region/Vendor Marketo program.
+
+### Step 1: Add new assets to the SSOT spreadsheet
+You must keep the same Asset number for existing assets, otherwise the existing automation will fail. A complete list of the current assets is available [here](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184). Be sure to add new assets to this list to maintain a SSOT for reference.
+
+### Step 2: Create SFDC campaigns
+- Create the SFDC campaigns directly in Salesforce. Each asset requires a campaign.
+- Format: YYYY_Region_Vendor_AssetName (examples: 2024_AMER_Demand_Science_2023DevSecOpsReport:ProductivityEfficiency, 2024_EMEA_Integrate_AchieveDevSecOpswithGitLabCI/CD)
+    - Mark the campaign as `Active`
+    - Change the `Campaign Owner` to your name
+    - Update the event epic
+    - Update the description
+    - Update `Start Date` to the date of launch
+    - Update `End Date`
+    - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
+    - Update `Region` and `Subregion` 
+- Associate this campaign to the appropriate [parent campaign](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=365937335). 
+
+### Step 3: Find the existing Marketo program for your Region/Vendor pair
+
+### Step 4: Add new Marketo tokens
+
+- Click and drag the word `Text` into the token area.
+- Under Token Name, name the token `Assetx-Title`. Marketo will add the `my.` and brackets. For example, if you are adding asset 18, name the token `Asset18-Title`. 
+- Under Value, enter the name of the asset without the Asset Number. This will be used to populate the Interesting Moments and the asset number isn't necessary.
+- Click Save.
+- Click and drag the word `Text` into the token area.
+- Under Token Name, name the token `Assetx-Type`. Marketo will add the `my.` and brackets. For example, if you are adding asset 18, name the token `Asset18-Type`.
+- Under Value, enter the asset type. The only available options are `Whitepaper`, `eBook`, `Report`, `Video`, or `General`
+    - If you add a Content Type value other than the above, the record will hit an error when syncing to Salesforce because these are the only currently available picklist items for `Initial Source`
+- Click Save.
+- Click and drag `SFDC Campaign` into the token area.
+- Under Token Name, name the token `Assetx-sfdc_campaign`. Marketo will add the `my.` and brackets. For example, if you are adding asset 18, name the token `Asset18-sfdc_campaign`.
+- Under Value, start typing the SFDC campaign you created in Step 2. It may take time for SFDC to sync to Marketo, so if it is not immediately available, use a placeholder campaign and set a reminder to come back to it after you complete the other steps.
+- Click Save. 
+
+### Step 5: Modify Marketo smart campaigns
+It is critical that any reference to asset number in the Marketo automation below uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
+
+- `02 Interesting Moments`
+     - **Smart list**: Add the Asset number to `Data Value Changes: Attribute=Content Syndication Asset, New Value contains [Asset list]`. Follow the same convention that is already in the list.
+     - **Flow**: `Step 2-Interesting Moment` - Click `Add Choice`.
+          - To add the new choice, change it to `Content Syndication Asset contains Asset x -`, `Type: Milestone, Description: Downloaded {{my.Assetx-Type}}-{{my.Assetx-Title}} from 3rd party site: {{my.vendor}}`. Replace the x in the token with the asset number.
+- `01 Processing`
+     - **Smart list**: Add the Asset number to `Data Value Changes: Attribute=Content Syndication Asset, New Value contains [Asset list]`. Follow the same convention that is already in the list.
+     - **Flow**: `Step 1 - Add to List`- Add the Asset number to the asset list. Follow the same convention that is already in the list. 
+          - `Step 2 - Add to SFDC Campaign` - Click `Add Choice`.
+          - To add the new choice, change it to `Content Syndication Asset contains Asset x -`, `Campaign: {{my.Assetx-sfdc_campaign}}.` Replace the x in the token with the asset number. This is the token you added in Step 4. `Status: Downloaded`. 
+- `03 Manual upload processing`
+     - **Smart list**: No changes
+     - **Flow**: `Step 2 - Add to List`- Add the Asset number to the asset list. Follow the same convention that is already in the list. 
+          - `Step 5 - Add to SFDC Campaign` - Click `Add Choice`.
+          - To add the new choice, change it to `Content Syndication Asset contains Asset x -`, `Campaign: {{my.Assetx-sfdc_campaign}}.` Replace the x in the token with the asset number. This is the token you added in Step 4. `Status: Downloaded`.
+          
+### Step 6: Important information for content syndication list uploads          
+When you do your list upload, you must be sure that the `Asset [number] -` that corresponds to each asset is included in the `Content Syndication Asset` field so the automation will trigger, using the format `Asset [number] -` ("asset number space -"). The recommendation is to populate the `Content Syndication Asset` field using the format `Asset [number] - Name of asset` (example: `Asset 2 - 2023 Global DevSecOps Report: Security & Compliance`). A complete list of current assets with their asset number can be found [here](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184). This also applies if the responses are set directly from the vendor. They must be set-up in the vendor system with the appropriate asset number.
+
+It is critical that any reference to asset number in the upload or send from the vendor uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
 
 ## Steps to Setup Surveys in Marketo and SFDC
 There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
