@@ -139,7 +139,8 @@ System tools and binaries such as `ping` and `curl` are helpful, but keep in min
 
 ```ruby
 URI_PATH = '/api/v1/seat_links'
-base_uri = EE::SUBSCRIPTIONS_URL
+base_uri = EE::SUBSCRIPTIONS_URL # For GitLab version lower than 16.0.0
+base_uri = ::Gitlab::Routing.url_helpers.subscription_portal_url # For GitLab version 16.0.0 and above
 
 head_resp = Gitlab::HTTP.head(base_uri)
 
