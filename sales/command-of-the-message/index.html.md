@@ -19,16 +19,17 @@ GitLab has adopted and operationalized Force Management's Command of the Message
 ## Customer Value Drivers
 
 Value drivers describe what organizations are likely proactively looking for or needing and are top-of-mind customer topics that exist even if GitLab doesn’t. Value drivers may cause buyers to re-allocate discretionary funds, and they support a value-based customer conversation. Organizations adopt and implement GitLab for the following value drivers:
-1.  **Increase Operational Efficiencies** - _simplify the software development toolchain to reduce total cost of ownership_
-1.  **Deliver Better Products Faster** - _accelerate the software delivery process to meet business objectives_
-1.  **Reduce Security and Compliance Risk** - _simplify processes to comply with internal processes, controls and industry regulations without compromising speed_
+1.  **Increase Operational Efficiencies** - _Simplify the software development toolchain to reduce total cost of ownership_
+1.  **Deliver Better Products Faster** - _Accelerate the software delivery process to meet business objectives_
+1.  **Reduce Security and Compliance Risk** - _Simplify processes to comply with internal processes, controls and industry regulations without compromising speed_
+1.  **Accelerate Cloud Adoption & Transformation** - _Standardize cloud processes to accelerate business outcomes_
 
 ## GitLab Differentiators
 
 | GitLab Differentiator | Description |
 | ------ | ------ |
 | **Single Application for Entire DevOps Lifecycle** | - Complete DevSecOps platform delivered as a single application<br> - One interface, one user-model, one data model<br> - A software "factory" that supports the entire DevOps lifecycle<br> - Deeply integrated, making developers happier and more efficient<br> - Centralized collaboration for a wide variety of roles (collaborate without waiting) |
-| **Leading SCM and CI in One Application** | - The backbone of a DevOps toolchain in one application<br> - Streamlines code review and collaboration<br> - Start with SCM or CI (or both)<br> - One interface, one user-model, one data model<br> - Interoperable with other tools (continue using tools you love!)<br> - Proven enterprise scale |
+| **Leading SCM and CI / CD in One Application** | - The backbone of a DevOps toolchain in one application<br> - Streamlines code review and collaboration<br> - Start with SCM or CI (or both)<br> - One interface, one user-model, one data model<br> - Interoperable with other tools (continue using tools you love!)<br> - Proven enterprise scale |
 | **Built In Security and Compliance** | - Security features out-of-the-box (code scanning, dependency scanning, secrets detection, etc.)<br> - Automated security testing and audit controls to facilitate policy compliance<br> - Shift left: move security testing earlier in the development lifecycle; security testing at the point of code commit<br> - Developers get immediate feedback about new vulnerabilities they introduce<br> - Enables better collaboration between development and security teams<br> - One interface, one user-model, one data model for DevSecOps |
 | **Deploy Your Software Anywhere** | - Deploy to any environment, any cloud<br> - Support for GCP, AWS, Azure, OpenShift, VMWare, On Prem, Bare Metal, etc.<br> - Workflow portability: one deployment workflow regardless of destination |
 | **Optimized for Kubernetes** | - Enables adoption of modern cloud-native development patterns such as microservices and serverless<br> - Minimizes the Kubernetes learning curve by enabling setup and use of clusters from the GitLab user interface<br> - View and manage Kubernetes deployment pod details and logs from the GitLab user interface<br> - Automatic monitoring of every Kubernetes deployed application and the clusters they are deployed to<br> - Built-in canary and incremental deployment strategies with automatic canary metric collection and display<br> - Active contributor to the future of cloud native technologies (through the Cloud Native Computing Foundation) |
