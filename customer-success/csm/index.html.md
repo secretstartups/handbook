@@ -272,6 +272,7 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
    - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
    - [How To: DevSecOps Adoption Tracking in Gainsight](/handbook/customer-success/csm/devsecops-adoption-tracking/)
 - [Cadence Calls](/handbook/customer-success/csm/cadence-calls/)
+- [Executive Relationships](/handbook/customer-success/csm/executive-relationships/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/csm/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/csm/health-score-triage/)
