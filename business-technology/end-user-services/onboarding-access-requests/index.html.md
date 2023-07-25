@@ -238,7 +238,7 @@ Therefore the vendor should be able to handle most if not all shipping requireme
 
 ### Laptop Recycle/Return
 
-We're now enganging SIPI Asset Recovery for devices around the world that need to be recycled/returned (https://www.sipicorp.com/itad/) Laptops may also be returned to the company via an IT Team member for data sanitization and repurposing. GitLab IT will provide a shipping label and box upon request at no cost to yourself. 
+We're now engaging SIPI Asset Recovery for devices that need to be recycled/returned (https://www.sipicorp.com/itad/) Laptops may also be returned to the company via an IT Team member for data sanitization and repurposing. GitLab IT will provide a shipping label and box upon request at no cost to yourself. 
 
 We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to a GitLab IT Team Member. 
 
