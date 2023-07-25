@@ -63,7 +63,7 @@ There are five teams in the Security Assurance sub-department.
 * [Security Evangelization](/handbook/security/security-assurance/field-security/Evangelism.html) 
 
 ### Security Governance Core Competencies 
-* [Security Policies, Standards and Control maintenance](/handbook/security/controlled-document-program.html) 
+* [Security Policies, Standards and Control maintenance](/handbook/security/controlled-document-procedure.html)
 * [Security Assurance Metrics](https://about.gitlab.com/handbook/security/security-assurance/governance/#security-assurance-metrics)
 * [Regulatory Landscape Monitoring](https://about.gitlab.com/handbook/security/security-assurance/governance/#regulatory-and-compliance-landscape-monitoring)
 * [Security Awareness and Training](/handbook/security/security-assurance/governance/sec-awareness-training.html)
