@@ -208,7 +208,7 @@ If you have a great training idea and/or enablement request, we'd love to hear i
         - `FE status::wip`
         - `FE status::backlog`
 - Field Enablement will collaborate with the requester on the request details directly in the issue to clarify any missing information, set up a discovery call, and/or update on next steps.
-- [Click here](/handbook/sales/field-operations/field-enablement/prioritization-framework) for a deeper look into the Field Enablement team's prioritization framework
+- 
 
 If you have a Field Communications request (process change, announcement, etc.), please see the request process outlined [here](/handbook/sales/field-communications/#requesting-field-announcements).
 
