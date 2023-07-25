@@ -657,7 +657,13 @@ In this example, the introductions would be:
 
 #### Cross-regional Working Hours Recommendations
 
-The following chart shows some helpful suggestions/considerations for scheduling across multiple regions while being respectful of common working hours.
+If you're scheduling a meeting across multiple regions, consider using the time ranges below to respect common working hours.
+
+The suggested times are organized by the regions that you're trying to accommodate.
+Each suggested window is shown in the local time zone.
+For example, if your meeting includes team members in EMEA and AMER, you could consider scheduling from 8:00 AM to 10:00 AM Pacific Time.
+
+Note: Time zone offsets change throughout the year due to Daylight Savings Time, Summer Time, and similar time changes, so these suggested times may be less convenient at different times of year.
 
 ##### EMEA/AMER
 
@@ -668,19 +674,19 @@ The following chart shows some helpful suggestions/considerations for scheduling
 | Istanbul/Tel Aviv | 06:00 PM  | 08:00 PM |
 | Abu Dhabi         | 07:00 PM  | 09:00 PM |
 | Mumbai            | 08:30 PM  | 09:30 PM |
-| PST               | 08:00 AM  | 10:00 AM |
-| EST               | 11:00 AM  | 01:00 PM |
+| Pacific Time      | 08:00 AM  | 10:00 AM |
+| Eastern Time      | 11:00 AM  | 01:00 PM |
 
 ##### APAC/AMER
 
-| Timezone    | Start    | End     |
-|-------------|----------|---------|
-| Sydney      | 09:00 AM | 11:00AM |
-| Tokyo       | 08:00 AM | 10:00AM |
-| Hong Kong   | 07:00 AM | 09:00AM |
-| Ho Chi Minh | 07:00 AM | 08:00AM |
-| PST         | 04:00 PM | 06:00PM |
-| EST         | 07:00 PM | 09:00PM |
+| Timezone     | Start    | End      |
+|--------------|----------|----------|
+| Sydney       | 09:00 AM | 11:00 AM |
+| Tokyo        | 08:00 AM | 10:00 AM |
+| Hong Kong    | 07:00 AM | 09:00 AM |
+| Ho Chi Minh  | 07:00 AM | 08:00 AM |
+| Pacific Time | 04:00 PM | 06:00 PM |
+| Eastern Time | 07:00 PM | 09:00 PM |
 
 ##### EMEA/APAC
 
