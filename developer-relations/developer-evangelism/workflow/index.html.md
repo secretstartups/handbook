@@ -47,8 +47,8 @@ These are the recommended labels for Epics created in the Developer Relations gr
 
 | Label                      | Description |
 |----------------------------|----------------------------------------------------------------|
-| `Community-Events`       | Should be applied to all events related epics |
-| `Community-Content` | Should be applied to all Content related epics |
+| `DevRel-Events`       | Should be applied to all events related epics |
+| `DevRel-Content` | Should be applied to all Content related epics |
 | `Region-AMER` | Applied to events happening in North America |
 | `Region-APAC`  | Applied to events happening in APAC |
 | `Region-EMEA` | Applied to events in EMEA |
@@ -79,16 +79,20 @@ Please use this template when creating Epics for activities that should appear f
 Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines 
 
 Content: Title - Author - Publish Month, Publish Year 
-
 -->
 
 ## Activity Summary
 
 <!-- Please consider addressing these key questions in your summary: 
+
 1. Who is our audience?
+
 1. What is the best content type (blog post, video, how-to) to deliver this message?
+
 1. How does this content help our audience?
+
 1. How does this content help us achieve our goals?
+
 -->
 
 ## Team or Individual DRIs
@@ -103,13 +107,14 @@ Content: Title - Author - Publish Month, Publish Year
 /label ~"dev-evangelism" 
 <!-- Example: 
 
-/label ~"Community-Content" ~"Region-AMER" ~"FY24-Q2" 
+/label ~"DevRel-Content" ~"FY24-Q3" 
 
 Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
 
-<!--Link to parent epic where necessary -->
-<!-- Content epic (remove events epic action below) -->
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/community-relations/-/epics/98 
+<!--Link to parent epic where necessary. Please choose the quarterly epic from the FY24 main epic
+https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 -->
+
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/240 
 
 <!-- Link to Child epic where necessary -->
 /child_epic 
@@ -137,10 +142,15 @@ Others: Title
 ## Activity Summary
 
 <!-- Please consider addressing these key questions in your summary: 
+
 1. Who is our audience?
+
 1. What is the best content type (blog post, video, how-to) to deliver this message?
+
 1. How does this content help our audience?
+
 1. How does this content help us achieve our goals?
+
 -->
 
 ## Team or Individual DRIs
@@ -155,7 +165,7 @@ Others: Title
 /label ~"dev-evangelism" 
 <!-- Example: 
 
-/label ~"Community-Events" ~"Region-AMER" ~"FY24-Q1" 
+/label ~"DevRel-Events" ~"Region-AMER" ~"FY24-Q3" 
 
 Note: These are samples for guidance, please add relevant labels for activity region, type, quarter or any other labels relevant to your team/program. Please include additional relevant labels here.  -->
 
@@ -243,7 +253,7 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 > 💡 Add a new buffer campaign and post screenshots into this issue. 
 
-/label ~"dev-evangelism" ~"DE-Type::Evangelist" ~"Community-Content"  ~"Content-Releases" 
+/label ~"dev-evangelism" ~"DE-Type::Evangelist" ~"DevRel-Content"  ~"Content-Releases" 
 
 /cc @gitlab-de
 
