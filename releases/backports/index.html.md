@@ -3,6 +3,12 @@ layout: markdown_page
 title: "Backports"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Backports overview
 
 This section seeks to remove confusion around backports at GitLab. Please raise an MR to this page or reach out to the [Delivery Group](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery) if you have questions. Also remember to check the [Backports FAQ](/handbook/engineering/releases/backports/#backports-faq)
