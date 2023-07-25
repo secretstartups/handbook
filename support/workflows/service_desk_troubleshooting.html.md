@@ -14,7 +14,7 @@ description: Basic process on troubleshooting Service Desk within GitLab.com.
 
 ### Overview
 
-Users can experience various issues while utilizing [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk.html). This guide walks through troubleshooting when an email does not generate a Service Desk issue.
+Users can experience various issues while utilizing [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/). This guide walks through troubleshooting when an email does not generate a Service Desk issue.
 
 See also, the [Service Desk runbook doc](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/service_desk).
 
