@@ -263,6 +263,23 @@ Projects may adopt these guidelines for maintainership to help grow maintainers 
 - Consider creating project-specific development guidelines if they don't already exist for the project.
 - Add instructions on how to become a project maintainer to the project README.
 
+#### Accelerated maintainer onboarding for smaller projects
+
+Smaller projects with a limited number of maintainers can benefit from an accelerated onboarding process. This process is less involved than the main GitLab maintainership, mainly because there is not enough feature work and MRs in these smaller projects. Each project can modify this process to fit their needs.
+
+The onboarding process consists of the following steps:
+
+- Establish the criteria for becoming a maintainer and the process for onboarding new maintainers and document them on an issue. For example:
+  - Eligible engineers: Everyone who wants to work with TypeScript.
+  - Training: Recorded code walk-through and interactive pairing sessions.
+  - Criteria for becoming a maintainer: Self-selection after the training based on confidence in the codebase.
+- Share knowledge by pair programming on an end-to-end feature. A current project maintainer will host a series of pairing sessions to educate potential maintainers. In the VS Code Extension pilot, we changed the implementation of one of the VS Code commands in four one-hour sessions spread over four weeks.
+- Schedule the code walk-through and pairing sessions with potential new maintainers. Determine the appropriate amount of time and number of sessions needed to provide a comprehensive understanding of the codebase.
+- In the pilot program, we also considered that each potential maintainer will do X MR reviews, but there wasn't enough MRs in the project.
+- After you design the process, ask for feedback from potential new maintainers. They might prefer a different mix of walk-throughs, pairing sessions and other resources.
+
+By following this onboarding process, projects can efficiently add new maintainers with a solid understanding of the codebase and the project's business logic. An example of this process in action can be seen in the [GitLab VS Code Extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension/-/issues/656) Project.
+
 #### Maintainer process template
 
 Use this lightweight template as a starting point for defining your project's maintainer requirements.
