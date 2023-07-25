@@ -68,10 +68,12 @@ Through that process you may:
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
-to yourself. In the SGG environment, that shouldn't stop anybody from
-collaborating with you on the ticket. What it will do is let others know that
-you have taken responsibility for the ticket, allowing them to help you or to
-move on to another new ticket.
+to yourself using the `take it` button. In the SGG environment, that shouldn't 
+prevent anybody from collaborating with you on the ticket. What it _**will**_ do 
+is signal that you're the DRI for providing a great customer experience, as the 
+ticket progresses towards `Status: Solved`. This enables other team members 
+seeking to assign themselves New ticket/s from the queue, to move on to reviewing 
+the next New unassigned ticket.
 
 *NOTE: The SLA clock continues to run until you've sent a public response to
 the user!*
