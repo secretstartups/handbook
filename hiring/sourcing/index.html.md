@@ -227,6 +227,10 @@ The recommended process of re-contacting candidates:
 1. Re-contacting a candidate for the same/another position if the candidate failed in the previous interview process: we suggest other TA member re-contact them after 6+ months from the time of their last interview. Please consult with the other TA member who contacted/recruited them previously and discuss the case, if needed.
 2. Re-contacting the candidate for the same/another position if they haven't responded to the past inmails: the recommended time to contact the candidate again is around 3 months. Please consult with the other TA member who contacted them previously and discuss the case, if needed.
 
+### Rehires
+
+If a former GitLab team member is identified by the Hiring Manager, Recruiter, or a current team member as a potential rehire, the Recruiter should contact People Connect directly using the Greenhouse email template titled `Rehire Eligibility Request (send to people-connect@gitlab.com)` before approaching the candidate. People Connect will conduct a review of possible performance concerns or other factors that may have impacted the candidate’s departure from their role at GitLab. People Connect will inform the Recruiter directly if the candidate is eligible for rehire and the recruiter will add a private note of the decision to the candidate's Greenhouse profile (i.e. “eligible for rehire” or “not eligible for rehire”). Note that rehires are not eligible for referral bonuses.  
+
 ### For GitLab Hiring Managers and Team Members
 
 If you are a Hiring Manager on a open role, your recruiter will partner with you to ensure you have a good action plan for building a passive candidate pool for your role.
