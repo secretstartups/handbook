@@ -65,6 +65,8 @@ The location factor review is an internal process completed by the Total Rewards
     1. If the formula is overwritten, notate the reasoning why.
 1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/location_factors.yml).
 
+_Note_: Please note that a change in location factor does not imply a change in compensation.
+
 ##### Pulling Survey Data and Matching
 
 **ERI**
