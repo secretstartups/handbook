@@ -24,6 +24,7 @@ This handbook page is meant to cover who we are and why we exist at GitLab. On t
 ## People Analytics Handbook Contents
 
 * [People Analytics Data Guide](/handbook/people-group/people-ops-tech-analytics/people-analytics/data-guide/)
+* [People Analytics Tableau Dashboard Overview](/handbook/people-group/people-ops-tech-analytics/people-analytics/people-tableau/)
 
 ## What is People Analytics?
 
