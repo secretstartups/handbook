@@ -19,14 +19,14 @@ description: "Frequently asked questions for GitLab team members regarding 2FA, 
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+Inline with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
 
 ## Purpose
 
-Please read through this page to find the common troubleshooting questions GitLab Team Members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the [bottom of the page](https://about.gitlab.com/handbook/business-technology/end-user-services/self-help-troubleshooting/#cant-find-what-you-are-looking-for).
+Please read through this page to find the common troubleshooting questions GitLab Team Members encounter. If you cannot find an answer to your question, please find more information on how to contact us at the [bottom of the page](#cant-find-what-you-are-looking-for).
 
 ### <i class="fas fa-question-circle" id="biz-tech-icons"></i> Frequently Asked Questions
 
@@ -44,7 +44,7 @@ Please read through this page to find the common troubleshooting questions GitLa
 
 #### Okta
 
-WebAuthn is now required for all Okta users. Refer [to these instructions](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) on how to configure this.
+WebAuthn is now required for all Okta users. Refer [to these instructions](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) on how to configure this.
 
 - If your TouchID, Yubikey or Mobile Authentication is not working make sure your OS and phone is updated to the latest version
 - Try to login with different browsers (Chrome and Safari)
@@ -67,7 +67,7 @@ If you cleared your cache and got locked out please do the following:
 - If your phone is set up with a passkey, you may use your phone to get into OKTA and reset your WebAuthN (Biometrics/Touch ID)
 - If you do not have a Yubi key or your phone set up; you will need to contact #it-help to reset your WebAuthN (Biometrics/Touch ID) in OKTA
 
-Please check out the [following page](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--yubikey-to-okta) for information and assistance on setting up WebAuthN (Biometrics/Touch ID)/Phone passkey and Yubikey
+Please check out the [following page](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) for information and assistance on setting up WebAuthN (Biometrics/Touch ID)/Phone passkey and Yubikey
 
 #### My YubiKey is Entering Codes Into Slack and Sending Them (OTP Touch Options, "Getting Yubikey'd")
 
@@ -163,9 +163,9 @@ Want to know how as an organization we leverage Okta as a Single Sign On tool? P
 
 ### I want to access my work Gmail on my phone
 
-Please refer to our GitLab Acceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab Gmail account to your personal device. 
+Please refer to our GitLab Acceptable Use Policy on [Personal Phones Mobile Phone and Tablet Usage](/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) prior to adding your GitLab Gmail account to your personal device. 
 
-- You will need to follow and complete [this guide](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) before the next steps.
+- You will need to follow and complete [this guide](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) before the next steps.
 - Download the official Gmail app made by Google LLC to your phone
     - iOS: [here](https://apps.apple.com/us/app/gmail-email-by-google/id422689480)
     - Android: [here](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_CA&gl=US&pli=1)
@@ -211,13 +211,13 @@ If you are keeping your GitLab machine [Laptop Buy Back Policy](/handbook/busine
 
 #### Jamf (macOS)
 
-- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
 - Make sure all your data is backed up and laptop is powered on and connected to the internet
 - Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
 
 #### Drivestrike (Linux)
 
-- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
+- Please schedule a time with an IT Analyst to have your laptop wiped. You can find their schedules [here](/handbook/business-technology/team-member-enablement/#laptop-wipe-schedules-for-it-analysts).
 - Please refer to your refresh [issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues) which contains further instructions
 
 - We will send you an email which will contain install instructions for Drivestrike
@@ -294,7 +294,7 @@ If you need to wipe a macOS system because you have received a new (refreshed) s
 
 ### Reinstalling macOS after a Jamf wipe
 
-We use Jamf to wipe Macs when you're either getting a new laptop, sending it back to our supplier, or retaining your laptop after you have left the company (https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
+We use Jamf to wipe Macs when you're either getting a new laptop, sending it back to our supplier, or retaining your laptop [after you have left the company](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy).
 
 After we have initiated the wipe from our end, the Mac should restart several times and end up in the Setup Assistant window. If this is not the case then you will need to manually reinstall macOS by following the steps below:
 
@@ -353,11 +353,11 @@ Once this is complete you can then install OS by clicking on Reinstall macOS fro
 There are several ways to reach the IT team:
 1. You can reach out to us on Slack via #it_help
 2. Email us at it-help@gitlab.com
-3. Create an access request using the [Individual_Bulk_Access_Request template here](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
+3. Create an access request using the [Individual_Bulk_Access_Request template here](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/)
 
 ### How to Contact Us or Escalate Priority Issues Outside of Standard Hours
 
-We ask that all requests are made through an [IT Help Issue](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). We will triage and address them as soon as we can. All issues created in the queue are public by default. Privileged or private communications should be sent to #it_help on Slack or [it-help@gitlab.com.](mailto:it-help@gitlab.com.) .Screenshots and videos are very helpful when experiencing an issue, especially if there is an error message.
+We ask that all requests are made through an [IT Help Issue](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/). We will triage and address them as soon as we can. All issues created in the queue are public by default. Privileged or private communications should be sent to #it_help on Slack or [it-help@gitlab.com](mailto:it-help@gitlab.com). Screenshots and videos are very helpful when experiencing an issue, especially if there is an error message.
 
 As a distributed team, we have support around the clock with team members in AMER, EMEA, and APAC.
 High volumes of issues being triaged can dictate the delay in response within that window. If the issue is extremely time sensitive and warrants escalation, use judgement on whether or not it can wait until ‘business hours’.
