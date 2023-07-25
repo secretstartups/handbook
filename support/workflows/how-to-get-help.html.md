@@ -110,7 +110,7 @@ Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitl
 | Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
 | Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) | 
 | Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) | 
-| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request | 
+| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) | 
 
 The steps for submitting a help request are as follows:
 
