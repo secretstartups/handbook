@@ -36,7 +36,7 @@ The GitLab Inc JiHu Enablement Team includes team members who are directly enabl
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 | Exec Stakeholder                                 | Sid Sijbrandij                | @sytses                 |                                         |                                         |
 | General                                 | Stella Treas, Jerome Ng                 | @streas, @jeromezng                     |                                         |                                         |
-| Public Relations/External Comms         | Natasha Woods, Melissa Smolensky        | @nwoods1, @melsmo                       |                                         |                                         |
+| Global Communications        | Lisa Boughner        | @lboughner                       |                                         |                                         |
 | Strategic Marketing                     | Melissa Smolensky                       | @melsmo                                 | Nout Boctor-Smith                       | @nbsmith                                  |
 | Brand                                   | Emily Kyle, Luke Babb                   | @emily @luke                            |                                         |                                         |
 | Sales - APAC                            | Anthony McMahon                         | @amcmahon88                             |                                         |                                         |
