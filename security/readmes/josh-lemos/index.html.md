@@ -29,7 +29,7 @@ Everything starts with people, without which we would not have organizational le
 ## Flaws & Pitfalls
 - In the quest for continuous improvement I can over index on problems and spend too little time appreciating progress. It is something I coach leaders to do but can fail to take my own advice.
 -  While I try to meet people where they are I can misjudge the amount of support an individual wants or needs. If you find yourself wanting more guidance or autonomy feel free to tell me where you want to set those agency boundaries.
-- At times I am quick to identify and advocate for a solution especially in problem areas where I have considerable experience or domain expertise. Feel free to encourage me to spend more time hosting the discussion before deciding on a solution
+- At times I am quick to identify and advocate for a solution especially in problem areas where I have considerable experience or domain expertise. Feel free to encourage me to spend more time hosting the discussion before deciding on a solution.
 
 ## Communication Preferences
 __Slack__ - By default Slack is the best way to engage. By default I will delay-send messages to deliver during the recipients working hours. <br/> 
