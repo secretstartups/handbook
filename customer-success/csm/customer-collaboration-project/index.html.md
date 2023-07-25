@@ -46,7 +46,7 @@ The projects are further ordered into Sub-Groups by region:
 - [TAM Issue tracker](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/tam-issue-tracking) Tracking of product feature requests.
 - [Interacting with the Product Team](/handbook/customer-success/csm/product/#product-interacting-with-csms) and [Prioritizing Customer issues](/handbook/product/product-processes/customer-issues-prioritization-framework/#customer-success).
 - [Public Pages for Issue creation](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/tree/master/public).
-- [ServiceDesk Function](https://docs.gitlab.com/ee/user/project/service_desk.html#service-desk), to enable other users of the customer without a role in the Customer Collaboration Project to create issues. The CSM should notify the customer that the Collaboration Project is not meant for product support and troubleshooting inquiries.
+- [ServiceDesk Function](https://docs.gitlab.com/ee/user/project/service_desk/), to enable other users of the customer without a role in the Customer Collaboration Project to create issues. The CSM should notify the customer that the Collaboration Project is not meant for product support and troubleshooting inquiries.
 - Sharing service ping metrics, graphics, and Usage metrics guides via PDF, CSV with GitLab from the Customer ([configure Collab project for LFS](https://docs.gitlab.com/ee/user/project/settings/index.html#configure-project-visibility-features-and-permissions)).
 - Storing EBR and other meeting recordings ([configure Collab project for LFS](https://docs.gitlab.com/ee/user/project/settings/index.html#configure-project-visibility-features-and-permissions)).
 - Store Meeting Minutes.
