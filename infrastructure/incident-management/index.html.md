@@ -253,7 +253,7 @@ Corrective Actions (CAs) are work items that we create as a result of an inciden
 
 Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue.
 
-Corrective Actions issues in the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new) should be created using the [Corrective Action issue template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/blob/master/.gitlab/issue_templates/incident-corrective-action.md) to ensure consistency in format and labeling.
+Corrective Actions issues in the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new) should be created using the [Corrective Action issue template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/blob/master/.gitlab/issue_templates/incident-corrective-action.md) to ensure consistency in format, labels and application/monitoring of [service level objectives for completion](/handbook/engineering/quality/issue-triage/#severity-slos)
 
 ### Best practices and examples, when creating a Corrective Action issue:
 
