@@ -562,37 +562,37 @@ We demonstrate efficiency when we work on the right things, not doing more than 
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-0lax">*Developing an understanding of being a manager of 1: Take responsibility for your own tasks and deliver on commitments <br>* Brings up ideas for process improvements to 1:1s. *Learns to write everything down as it is far more efficient to read a document at your convenience than to have to ask and explain.</td>
+    <td class="tg-0lax">Develops an understanding of being a manager of 1 by taking responsibility for your own tasks and delivering on commitments. Brings up ideas for process improvements to 1:1s. Learns to write everything down as it is far more efficient to read a document at your convenience than to have to ask and explain.</td>
     <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSes0ht9Zj8_bijft2WQmGH4wbmTtzs-ArFHbWoF5H8EiRNI8w/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-0lax">* Has a growing understanding of efficiency and is acting by surfacing process inefficiencies in the team <br> *Seeks out ways to be more effective in their role, while also starting to mentor others in ways to work efficiently.</td>
+    <td class="tg-0lax">Develops a deeper understanding of efficiency and actively identifies process inefficiencies within the team. Seeks out ways to be more effective in their role, while also starting to mentor others in ways to work efficiently.</td>
   </tr>
   <tr>
     <td class="tg-0lax"><br>7</td>
-    <td class="tg-0lax">* Models a culture of efficiency within the team where people make good, timely decisions using available data and assessing multiple alternatives <br> *Models using boring solutions for increasing the speed of innovation for our organization and product </td>
+    <td class="tg-0lax">Models a culture of efficiency within the team where people make good, timely decisions using available data and assessing multiple alternatives. Models using boring solutions for increasing the speed of innovation for our organization and product.</td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
-    <td class="tg-0lax">* Takes ownership of own team process inefficiencies, implements cross team efforts in ensuring things are running smoothly <br> Implements a way of working in the team where team members first search for their own answers and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a low level of shame</td>
+    <td class="tg-0lax">Takes ownership of own team process inefficiencies, implements cross team efforts in ensuring things are running smoothly. Implements a way of working in the team where team members first search for their own answers and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a low level of shame.</td>
     <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc45Yrl0FbXOJ27DMFec8L7b7I_Egtlgd7CUeRj2GQCdBhe2g/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">*Takes ownership of group level process inefficiencies, guides cross sub-departments in ensuring things are running smoothly <br> Fosters a culture in the sub-departments where you respect others' time and promote self-service and self-learning</td>
+    <td class="tg-0lax">Takes ownership of group level process inefficiencies and guides cross sub-departments in ensuring things are running smoothly. Fosters a culture in the sub-departments where you respect others' time and promote self-service and self-learning.</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">* Drives the framework of frugality on a department level and owns departments efforts in ensuring things are running smoothly <br> *Drives efficient resolution of highly complex or unusual business problems that impact the department / team. Holds their managers and peers accountable for upholding this value</td>
+    <td class="tg-0lax">Drives the framework of frugality on a department level and owns departments efforts in ensuring things are running smoothly. Drives efficient resolution of highly complex or unusual business problems that impact the department / team. Holds their managers and peers accountable for upholding this value.</td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">* Develops the framework and strategy of frugality cross division.  Resulting in efforts ensuring things are running smoothly <br> *Develops leaders to action on division/department/team inefficiencies. Hold their management teams accountable for upholding this value.</td>
+    <td class="tg-0lax">Develops the framework and strategy of frugality cross division resulting in efforts ensuring things are running smoothly. Develops leaders to action on division/department/team inefficiencies. Hold their management teams accountable for upholding this value.</td>
   </tr>
   <tr>
     <td class="tg-0lax">12</td>
-    <td class="tg-0lax">* Leads with efficiency across the company. Ensures efficient resource allocation decisions across the company <br> * Leads across company strategy and policy improvements that move the business towards more efficiency. They hold their senior management and the e-group accountable for upholding this value</td>
+    <td class="tg-0lax">Leads with efficiency across the company. Ensures efficient resource allocation decisions across the company. Leads across company strategy and policy improvements that move the business towards more efficiency. They hold their senior management and the e-group accountable for upholding this value.</td>
   </tr>
   <tr>
     <td class="tg-0lax">EVP/CXO</td>
