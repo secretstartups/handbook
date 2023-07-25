@@ -76,6 +76,10 @@ Meetings are integral to interfacing with customers; whether we are joining a ca
 
 Account owners (AEs, SAEs) working with customers that [qualify](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/CSM-Segments) for Scale CSE may find that their customer would benefit from a Scale CSE engagement outside of the [normal operating rhythm during the customer lifecycle](/handbook/customer-success/csm/segment/scale/#customer-lifecycle) (programmatic call invitations from Gainsight, manual outreach by CSE in Outreach, Office Hours and Webinars). In these cases, it is best to submit ad-hoc engagement requests through Salesforce. You can submit a case for a CSE to engage with you on an account by clicking on "CSE Help" at the top of the Salesforce account page chatter (click "Show Feed" to open it first ). This will help to qualify the engagement and help the CSE prepare for a productive conversation with the customer.
 
+This brief screencast demonstrates how to reveal the CSE Help button when on an account page in Salesforce:
+
+![example-clip-demonstrating-scale-cse-request-sfdc](/images/handbook/customer-success/cse-help.gif)
+
 ### Requesting Scale CSE Engagement (Account Owners only - AEs, SAEs)
 
 Only account owners should file a new issue requesting a Scale CSE engagement for their customer. Other stakeholders at GitLab (Solutions Architects, Support, Professional Services) may identify a potential opportunity for Scale CSE engagement, but ultimately the account owner should be notified to follow through the request process and communicate to the customer that a request has been made.
