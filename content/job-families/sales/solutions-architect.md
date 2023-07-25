@@ -67,7 +67,7 @@ The Solutions Architect is a [grade 6](https://about.gitlab.com/handbook/total-r
 - Serve as the customer advocate to other GitLab teams, including Product Development, Sales, and Marketing.
 - Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
 - Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.
-- Run Value Stream Assessments in your account with support of a Senior SA leading the engagement
+- Run Value Stream Assessments in your account with support of a Senior SA leading the engagement.
 
 #### Solutions Architect Requirements
 
