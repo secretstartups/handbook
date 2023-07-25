@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Advanced CI/CD
-##### July 25th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xEnLCQgCRzedFJzrkoXy9A#)
-
 #### GitLab - The AI Powered DevSecOps Platform
 ##### July 26th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -47,13 +40,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 ### APAC Time Zone Webinars
 
-#### Advanced CI/CD
-##### July 25th, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RBS38KYzRi-BLQUpli4O0Q#)
-
 #### DevSecOps/Compliance
 ##### July 31st, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
 
@@ -63,19 +49,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 
 ### EMEA Time Zone Webinars
-
-#### Intro to CI/CD
-##### July 24th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_OztFR_JMTC65F7DFj7ibPA#)
-
-#### Advanced CI/CD
-##### July 25th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_R8DdvEmuTxaMx6gGLGX7Rw#)
 
 #### DevSecOps/Compliance
 ##### July 31st, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
