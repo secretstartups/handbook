@@ -170,12 +170,12 @@ A scoring model is used to score each risk and is based on the Likelihood of the
   <tr>
     <td class="tg-nrix">6</td>
     <td class="tg-28x2">CRITICAL</td>
-    <td class="tg-cly1">Easily initiate a threat event; no expertise required</td>
+    <td class="tg-cly1">No expertise required to initiate a threat event</td>
   </tr>
   <tr>
     <td class="tg-nrix">5</td>
     <td class="tg-28x2">VERY HIGH</td>
-    <td class="tg-cly1">Minimal difficulty to initiate a threat event</td>
+    <td class="tg-cly1">Low level of expertise required to initiate a threat event</td>
   </tr>
   <tr>
     <td class="tg-nrix">4</td>
@@ -190,7 +190,7 @@ A scoring model is used to score each risk and is based on the Likelihood of the
   <tr>
     <td class="tg-nrix">2</td>
     <td class="tg-nc7u">LOW</td>
-    <td class="tg-cly1">Requires expertise to initiate a threat event</td>
+    <td class="tg-cly1">Requires significant expertise to initiate a threat event</td>
   </tr>
   <tr>
     <td class="tg-nrix">1</td>
