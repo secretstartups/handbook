@@ -252,12 +252,13 @@ Although rare, there are times a candidate may decline an offer once an offer is
 
 * Declined at time of verbal offer (no contract generated, but offer fully approved)
    * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
-   * Make appropriate changes in Adaptive (DRI: FBP)
+   * FP&A will make appropriate changes in Adaptive (DRI: FBP)
 
 * Declined at time of contract (a contract has been generated)
    * Notify CES via the candidate notes section in GH that the candidate has declined offer and the contract needs to be voided. CES will then follow their own decline process. (DRI: Recruiter)
+   * Add a "Rescinded Acceptance" tag to the candidate's profile. Depending on the circumstance, you may also choose to add a "Do Not Hire" tag, such as in the case of a rescind due to accepting another offer.
    * Notify your [Finance Business Partner](/handbook/finance/#finance-business-partner-alignment) via the candidates notes section in GH that the candidate has declined the offer (DRI: Recruiter)
-   * Make appropriate changes in Adaptive (DRI: FBP)
+   * FP&A will make appropriate changes in Adaptive (DRI: FBP)
 
 
 ### **After the Employment Contract is Signed**

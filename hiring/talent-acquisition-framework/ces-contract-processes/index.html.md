@@ -304,16 +304,17 @@ _Important: Employment contracts cannot be backdated. If a team member requests 
 * Once siged by both parties, the contract should be uploaded to the Documents section of the team member Workday profile, using the 'Contracts and Changes' document category.
 
 ### How to Unhire a Candidate After Contract is Signed
-If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. Please note that the steps below are assuming that the person will not be working for GitLab; if you are hoping to just amend their offer after they've been marked as hried, please view the Resend process above. 
+If for some reason a candidate declines an offer after they have been hired into the system, whoever receives that information needs to make sure `@ces` is tagged in the Greenhouse profile and is made aware that the candidate will no longer be starting at GitLab. Please note that the steps below are assuming that the person will not be working for GitLab; if you are hoping to just amend their offer after they've been marked as hired, please view the Resend process above. 
 
 If they have been hired in Greenhouse and exported to BambooHR, Enablement will need to follow these steps:
 1. Unhire the candidate in Greenhouse if the req is still open. If the req is closed, Enablement will need to be brought in to unhire.
 1. Ask the Recruiter to reject them in Greenhouse; add reasons in notes, you may add the email that was sent by the candidate. Click ‘reject and don’t send email’.  
 1. Cancel any scheduled emails in Greenhouse.
-1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. 
+1. Tag the VP, People Operations in the `#people-group-confidential` Slack channel and ask to remove the profile from BambooHR and @ mention the @people-exp team for visibility. Only a BambooHR owner (at GitLab this is the VP, People Operations) can remove the profile, this is why this step is so important. Note: This isn't a typo---BambooHR is still collecting profiles even though we have migrated to WorkDay.
 1. If they were hired via a PEO, inform the contact person at the PEO of this change immediately, ideally before onboarding starts. If they are in a country that uses outside payroll, we will need to inform the payroll company as well. 
 1. Message IT, People Connect, and the Sr. Background Check Specialist in the #peopleops-alerts-private channel to let them know to cancel any laptop orders, onboarding issues, background checks, and remove from Workday.
 1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
+1. If the Recruiter has not done so already, add a candidate tag of `Rescinded Acceptance` to the candidate's profile.
 
 ## Letter of Adjustment
 
@@ -357,9 +358,9 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
 
 ## Rehires
 
-In the event that a former team member is rehired with the company, they will still go through the normal interviewing process and standard onboarding. Once the contract is signed, CES should ensure that there are no profiles left to merge and that `Former Team Member` is selected as the Source. These two things ensure no duplicate profiles are created and no manual hiring has to be done into the Workday system. They should have their old hire record on their Greenhouse account.
+In the event that a former team member is rehired with the company, they will still go through the normal interviewing process and standard onboarding. Once the contract is signed, CES should ensure that there are no profiles left to merge and that `Former Team Member` is selected as a candidate tag on the right hand side of their profile. They should have their old hire record on their Greenhouse account.
 
-Should the candidate be marked as hired and the source was not updated beforehand, please let People Connect know as soon as possible in #peopleops-alerts-private to let them know that a manual fix will need to be done.
+Please let People Connect know in #peopleops-alerts-private if a rehire is happening.
 
 ## Process for GitLab team-members in the Netherlands
 In this location, a temporary contract (tijdelijk contract) is for 12 months, with a pre-determined end date. A dismissal procedure is not required to terminate a temporary contract at the end of its duration. However communication about the extension of the contract must happen at the latest 1 month before the actual contract end date (aanzegtermijn).
@@ -379,18 +380,8 @@ The People Operation Specialist are in charge of [contract renewals](/handbook/p
 
 _GitLab IT BV contracts should only be used for contractors. All Netherlands **employees** should be issued the GitLab BV contract._
 
-## Process for GitLab Team Members in Australia
-GitLab has an entity in this location. All team members in this location are employees.
-
-Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
-
-## Process for GitLab Team Members in New Zealand
-GitLab has an entity in Australia, and New Zealand falls under that entity. All team members in this location are employees.
-
-Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
-
-## Process for GitLab Team Members in Ireland
-GitLab has an entity (Ireland LTD) in Ireland . All team members in this location are employees.
+## Process for GitLab Team Members in Australia, New Zealand, or Ireland
+GitLab has an entity in this location. All team members in this location are employees. Please note that Northern Ireland is under the United Kingdom, so if you see an address that includes UK you should hold and verify on google maps where the candidate is located and whether a different contract and background check are needed.
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
@@ -507,7 +498,7 @@ To create the contract:
 1. The Candidate Experience Specialist will [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
 
-## How to add the New Hire to the remote platform
+## How to add the New Hire to the Remote platform
 
 1. Log into the [Remote](https://employ.remote.com/dashboard) platform
 1. Click the onboarding tab on the left side of the page
@@ -558,7 +549,7 @@ Kindly note the following when filling in this section:
 1. Once you have reviewed, and everything is in order, click ‘invite now’. 
 1. Your candidate has been submitted successfully. You are able to see the progress on the Remote homepage. 
 
-## How to add the New Hire to the Papaya platform?
+## How to add the New Hire to the Papaya platform
 
 1. Log into the [Papaya](https://gitlab.papayaglobal.com/backoffice/org/1826/dashboard) platform
 1. Click the ‘add worker’ tab on the top right side of the page
@@ -598,9 +589,6 @@ Kindly note the following when filling in this section:
 1. Should there be any questions or amendments that need to be made, depending on their complexity, they could have to be directed to the Local Team (48 hours), then back to the Legal Team (24 hours), before making its way back to us again for reapproval, then issued to the candidate again. 
 1. Once the candidate accepts, Papaya will inform us.  
 
-## Employment Agreements for GitLab team members in China
-
-GitLab is working in partnership with [CIIC](http://www.ciicsh.com/ciicsh/ywsy/index.html) to employ GitLab team-members located in China. Signed agreements between GitLab and CIIC are required to employ any new hire. Therefore, there will be a lead time of approximately three weeks prior to starting. As soon as it becomes clear that an offer to a candidate is going to be made, People Ops will reach out to CIIC to begin the process. The process for preparing the agreements between all parties is as follows:
 
 **GitLab and New Hire:**
 
