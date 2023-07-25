@@ -1,24 +1,24 @@
 ---
 title: "Security Compliance - Roles & Responsibilities"
-description: "Security Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance."
+description: "Security Compliance professionals at GitLab focus on operating our security and privacy compliance programs and are proficient in all things security compliance."
 extra_js:
 - libs/mermaid.min.js
 ---
 For members of GitLab's [Security Assurance sub department](https://about.gitlab.com/handbook/security/security-assurance/), it is the goal of [Security Compliance](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/) to:
 
-1. Enable security to scale through the definition of security controls and document the boundaries and applicability of the information security management system to establish its scope.
+1. Enable security to scale through the definition of security and privacy controls and document the boundaries and applicability of the information security management system to establish its scope.
 1. Work across industries to support GitLab customers in their own compliance journey.
 1. Identify and mitigate GitLab information security risk through continuous control monitoring and automation.
 
-Security Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. They are comfortable operating within our transparent compliance programs and understand how compliance works with cloud-native technology stacks.
+Security Compliance professionals at GitLab focus on operating our security and privacy compliance programs and are proficient in all things security compliance. They are comfortable operating within our transparent compliance programs and understand how compliance works with cloud-native technology stacks.
 
 ## Responsibilities
 
-- Professionally handle communications with internal and external stakeholders on compliance issues
+- Professionally handle communications with internal and external stakeholders on security and privacy compliance issues
 - Maintain up-to-date knowledge of GitLab's product, environment, systems and architecture
 - Educate control owners on compliance workflows and processes
 - Maintain GitLab's security control framework and continuous control monitoring activities
-- Gather and report on established metrics within the security compliance programs
+- Gather and report on established metrics within the security and privacy compliance programs
 
 ## Requirements
 
