@@ -117,7 +117,7 @@ If the author of a guest post is not an official GitLab partner, they may link b
 
 #### If you see a story we should feature on our blog
 
-If you spot a tweet, post, or feedback anywhere detailing an interesting use case for GitLab which you think could make a good story, open an issue and ping @nwoods and @nicolecsmith to help determine whether we should pursue an interview for a blog post or case study (we will not ask the original author to create something for us).
+If you spot a tweet, post, or feedback anywhere detailing an interesting use case for GitLab which you think could make a good story, open an issue and ping @lboughner and @nicolecsmith to help determine whether we should pursue an interview for a blog post or case study (we will not ask the original author to create something for us).
 
 ### Is your blog post SAFE?
 
