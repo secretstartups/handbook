@@ -255,7 +255,7 @@ The Editorial team reviews the `Blog::Pitch` list on a rolling basis and will re
     - **A web article** – If the content is evergreen, it may be more appropriate as a [web article](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#web-article).
     - **The handbook** – This is great for evergreen content that documents how we do things at GitLab or why we do things a certain way. Blog posts generally should have an element of "newness" or news to them. If the topic of a pitched blog post won't age, or the audience is primarily internal, the handbook is a better option. Because our handbook is public, pages from it can be shared in the same way as a blog post.
         - Example: This page on [Why GitLab uses the term all-remote to describe its 100% remote workforce](/company/culture/all-remote/terminology/) was originally suggested as a blog post, but works better as a handbook page, because the content is evergreen and can be built on over time.
-    - **An external publication** – If the pitch sounds like a great story but doesn't seem like a good fit for our blog [scope and audience](#scope), it might work as a contributed article to an external publication, where it could have a better chance of reaching the right audience. In this case, please ping `@cweaver1` for product-related stories or `@JMLeslie` for company-related or corporate stories.
+    - **An external publication** – If the pitch sounds like a great story but doesn't seem like a good fit for our blog [scope and audience](#scope), it might work as a contributed article to an external publication, where it could have a better chance of reaching the right audience. In this case, please ping `@lboughner`.
 
 ## Sourcing blog posts
 
@@ -322,7 +322,7 @@ If the team member is unsure who from Legal to ping for approval, share in #lega
 
 Most blog posts requiring approval are accounted for above, but occasionally there may be other topics that are potentially sensitive and should be run by PR and possibly Legal for risk assessment before proceeding.
 
-- If the article needs PR attention, tag @nwoods
+- If the article needs PR attention, tag `@lboughner`
 - If the article needs Legal attention, follow the process outlined [here](/handbook/legal/materials-legal-review-process/)
 
 ##### Cross-linking
