@@ -1,0 +1,88 @@
+<section class="row td-box td-box--dark position-relative td-box--height-auto" style="padding: 2em 0em;">
+    <div class="col-12">
+        <div class="container text-center td-arrow-down">
+            <div class="h4 mb-0">
+                <p class="h1 text-center">Table of Contents</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .col {
+        padding-bottom: 2em;
+    }
+    .row > .card {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    h3 > i {
+        padding-right: 1em;
+    }
+</style>
+<section id="td-block-1" class="td-box td-box--white td-box--height-auto">
+
+{{ $.Scratch.Set "counter" 0}}
+{{ $.Scratch.Set "dojoin" false }}
+
+
+{{ range .Site.Data.toc }}
+{{ $counter := $.Scratch.Get "counter" }}
+{{ $dojoin := $.Scratch.Get "dojoin" }}
+{{ if eq $counter 0 }}
+<div class="row">
+{{ end }}
+
+{{ if not $dojoin }}
+<div class="col">
+    <div class="card" style="height: 100%;">
+{{else}}
+{{ $.Scratch.Set "dojoin" false }}
+{{ $dojoin := false }}
+{{ end }}
+        <div class="card-header">
+            <a href="{{ .url }}">
+                <h3><i class="{{ .icon }}"></i> {{ .name }}</h3>
+            </a>
+        </div>
+        <div class="card-body">
+            <div class="list-group">
+                {{ range .links }}
+                {{ $u := urls.Parse .url }}
+                {{ $url := .url }}
+                {{ if not $u.IsAbs }}
+                    {{ $url := (relref $.Page .url) }}
+                {{ end }}
+                <a href="{{ $url }}" class="list-group-item list-group-item-action">{{.name}}</a>
+                {{ end }}
+            </div>
+        </div>
+
+{{ if not .join }}
+    </div> <!-- card -->
+</div> <!-- col -->
+{{ if eq $counter 2 }}
+</div> <!-- row -->
+{{ $.Scratch.Add "counter" -2}}
+
+{{else}}
+
+{{ if not .join }}
+    {{ $.Scratch.Add "counter" 1}}
+{{ end }}
+
+{{ end }}
+{{ else }}
+{{ $.Scratch.Set "dojoin" true }}
+{{ $dojoin := true }}
+{{ end }}
+
+{{ end }} <!-- end of Range -->
+{{ $counter := $.Scratch.Get "counter" }}
+{{ if ne $counter 0}}
+<div class="col"></div>
+<div class="col"></div>
+</div> <!-- row -->
+{{ end }}
+</section>

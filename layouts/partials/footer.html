@@ -30,7 +30,7 @@
           <span class="ms-1"><a href="#" class="ot-sdk-show-settings">Cookie Settings</a></span>
         {{ if not .Site.Params.ui.footer_about_disable -}}
           {{ with .Site.GetPage "about" -}}
-            <p class="td-footer__about mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
+            <span class="ms-1"><a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
           {{- end -}}
         {{ end }}
       </div>
