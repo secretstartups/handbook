@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Sales Enablement Sessions"
+title: "Field Enablement Spotlight: Continuous Education at GitLab"
 description: "Continuous education webcast series for GitLab sales team members" 
 ---
 
@@ -14,16 +14,15 @@ description: "Continuous education webcast series for GitLab sales team members"
 
 ----
 
-# Sales Enablement Sessions
+# Field Enablement Spotlight Sessions
 
 ## Upcoming Training
-To see what training is coming soon, view the [Sales Enablement Session issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
+To see what training is coming soon, view the [Field Enablement Spotlight issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
 **Summer 2023 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jul 20 | *No session during the last week of the quarter* | N/A |
 | Jul 27 | *No session during the last week of the quarter* | N/A |
 
                                                                                                                                    
@@ -181,7 +180,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 ## Get an invite to the weekly session
 
-To get a calendar invite to the weekly Sales Enablement session, make sure you are added to the one of the following email groups.
+To get a calendar invite to the weekly Field Enablement Spotlight, make sure you are added to the one of the following email groups.
 
 - Sales Team `sales-all@`
 - SDR Team `sdr@`
@@ -218,7 +217,7 @@ There are a few places to see previous Sales Enablement sessions:
 - [Collaborating with Community Programs](/handbook/sales/training/sales-enablement-sessions/enablement/collaborating-community-programs/)
 
 ## To request new sales enablement sessions
-- Complete and submit this [Sales Enablement Session Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
+- Complete and submit this [Field Enablement Spotlight Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
 - For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
 
 ## Scheduling trainings
@@ -235,7 +234,6 @@ There are a few places to see previous Sales Enablement sessions:
     *   Tentative dates listed as “TENTATIVE - ZZZ”
     *   Intended SME/speaker(s) assigned to the issue
     *   Ping the SME in the issue to ask if they can commit to it, get their commitment before you schedule.
-*   John Jeremiah to open issues in Product Marketing aligned to each of the above
 
 **1-2 weeks before the start of a new quarter**
 *   John Blevins to schedule meeting with all SMEs/speakers
@@ -256,10 +254,10 @@ There are a few places to see previous Sales Enablement sessions:
   - Move the issue to the `status:scheduled` column.
   - Manually drag the issue to order issues in the column by date.
 
-## Enablement calendar
-Sales enablement sessions are scheduled on the [Sales Enablement calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_5n3g60l58thum9aovp8iisav34%40group.calendar.google.com&ctz=America%2FLos_Angeles) so that everyone on the Sales and Customer Enablement and PMM team has the ability to edit the calendar event.
+## Enablement Calendar
+Field Enablement Spotlight sessions are scheduled on the [Sales Enablement calendar](https://calendar.google.com/calendar/embed?src=gitlab.com_5n3g60l58thum9aovp8iisav34%40group.calendar.google.com&ctz=America%2FLos_Angeles) so that everyone on the Sales and Customer Enablement and PMM team has the ability to edit the calendar event.
 
-## How to conduct a sales enablement training
+## How to conduct a Field Enablement Spotlight Session
 
 - Each training session has a [speaker](#speaker) and a [moderator](#moderator)
 - Sessions are 30 minutes long
