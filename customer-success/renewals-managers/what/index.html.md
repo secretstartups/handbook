@@ -150,19 +150,19 @@ These tactics/motions may not always be approved or appropriate for each risk sc
 3. **Describe the impact of a successful intervention** in the `Renewal Swing ARR` field
 4. **Articulate the intervention being actioned/requested** in the `Manager Notes` field using the following syntax:
 
--    **Date**: The date of your update
+    - *Date*: The date of your update
 
-- **Current Risk Status**: Why the oppty is at risk?
+    - *Current Risk Status*: Why the oppty is at risk?
 
-- **Customer Brief**: What do we know about the customer’s position and sentiment toward the renewal?
+    - *Customer Brief*: What do we know about the customer’s position and sentiment toward the renewal?
 
-- **LT Intervention in Process**: What intervention tactic is currently in progress, if none, mark N/A.
+    - *LT Intervention in Process*: What intervention tactic is currently in progress, if none, mark N/A.
 
-- **LT Intervention Needed**: What intervention tactic is needed, mark N/A if one is “in process" and outlined in the above note.
+    - *LT Intervention Needed*: What intervention tactic is needed, mark N/A if one is “in process" and outlined in the above note.
 
 5. **Update the Manager note section with one or more of the following hashtags** to demonstrate the appropriate status
     - A. [#UserMigration] - demonstrates C&C in a scenario where actual revenue is not leaving the company but rather being shifted to another opportunity (RM needs to document the opportunity where the revenue is captured by including the link in manager notes in accompaniment of the hashtag)
-    - B. [#Risk] - leverage when the renewal opportunity should be on a "watch-list" but the risk is not vetted enough to be reflected in the forecasting fields
+    - B. [#Risk] - leverage when the renewal opportunity should be on a "watch-list" but the risk is not vetted enough to be reflected in the forecasting fields. Also can be used to describe contraction risk when we cannot match the risk with the quote.
     - C. [#DeferredChurn] - leverage on renewal opportunities where a negative impact to renewal rate and/or arr basis occurred due to activity outside of standard practices. Example 1, we waive a true-up {at renewal prep stage} and add on the users, increasing the arr basis spend knowing the customer will likely decrease seat count at the next renewal. Example 2, we have two opportunities that are related due to a migration project and close win the opportunity with the nARR attached to it at the end of the quarter and wait to close loss the opportunity with negative arr in the new quarter.
     - D. [#RiskMitigated] - leverage to represent the journey of moving a renewal opportunity to Red back to Green via mitigation efforts. A brief outline of events displaying the journey/mitigation efforts should be documented when using this hashtag.
 6. **Review and prioritize interventions** in your scheduled forecasting calls with the management team. 
