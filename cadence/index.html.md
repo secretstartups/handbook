@@ -94,7 +94,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
 1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari){:data-ga-name="clari"}{:data-ga-location="body"})
 1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
-1. [GitLab Assembly](/company/gitlab-assembly/)
+1. [GitLab Assembly](/company/gitlab-all-company-meetings/)
 1. [Quarterly Kickoff](/handbook/ceo/chief-of-staff-team/#quarterly-kickoff)
 1. [Earnings activities](/handbook/finance/investor-relations/)
 
