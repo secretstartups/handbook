@@ -19,9 +19,55 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 [Fair Work Information Statement](https://www.fairwork.gov.au/sites/default/files/migration/724/Fair-Work-Information-Statement.pdf)
 
 ### Medical
-GitLab does not plan to offer Private Health Insurance at this time because Australians can access the public health system for free or at a lower cost through Medicare (funded by tax).
+Effective 2023-07-27, all Australian Team members will be eligible to enroll into one of BUPA’s hospital plans and add/mix it with extra coverage options if you prefer. GitLab employees can mix and match (one Hospital plan level and one Extras option) to suit their needs.
 
-Please note, Medicare doesn't cover all costs and [other health services](https://www.servicesaustralia.gov.au/individuals/subjects/whats-covered-medicare/health-care-and-medicare). Depending on the treatment, tests required and medications, individuals may still have to pay out of pocket. Some individuals may also have to pay a [Medicare levy and a Medicare levy surcharge](https://www.ato.gov.au/Individuals/Medicare-levy/). These individuals can avoid the surcharge by taking out private health insurance.
+* [BUPA Hospital Plan Highlights](https://drive.google.com/drive/folders/18kU_lHdKau2xBoKLC_6hAsC7UP43HzZ9?usp=sharing) 
+  * Gold (Nil, $250, $500, $750)
+  * Silver Plus (Nil, $250, $500, $750)
+* [BUPA Extra Options Highlights](https://drive.google.com/drive/folders/1nV7Z_9p_5uMybo2Hi_SerdcerAWGMud3?usp=sharing)
+  * Corporate 60, 70, 80, & 90 Extras Options 
+
+The full plan & extra options pdfs are available when reviewing your options on the GitLab BUPA portal (see below “Enrolling” section).  
+
+#### Waiting Periods
+For most services there’s a period of time before coverage for the services on the new policy starts. 
+
+The following waiting periods apply for hospital cover:
+  * palliative care, psychiatric and rehabilitation services – two months
+  * pre-existing conditions, ailments or illnesses and pregnancy (including childbirth) – 12 months
+  * all other treatments included in your cover – two months.
+  * emergency ambulance transport or on-the-spot treatment – one day
+
+The following waiting periods apply for extras cover:
+  * All 2 & 6 month waiting periods on “Extra” options  are waived for GitLab employees. 
+  * major dental, root fillings, orthodontics, selected health aids and appliances - 12 months
+  * emergency ambulance transport or on-the-spot treatment – one day
+
+Waiting period for pre-existing conditions: 12-month waiting period applies for pre-existing conditions; however, *if a team member has served the waiting period with their previous health provider, they will not need to serve the waiting period when joining GitLab’s medical offering.*
+
+#### Monthly Plan Premium
+GitLab will be covering the monthly premium cost *(up to 350 AUD)* of your elected coverage to cover yourself and dependents (if applicable). 
+Please note: In addition to the monthly premium credit (up to 350 AUD), GitLab will also cover any fringe benefit tax associated. 
+
+Up to 350 AUD will be applied to your monthly premium rate when going through your enrollment on BUPA’s employer portal. You will be responsible for paying any premiums that may exceed the 350 AUD applied subsidy. *Plan rates can be seen through the [GitLab BUPA employer portal](https://www.bupa.com.au/corporate/gitlab) when reviewing your plan & extra options.* 
+Payment details will be required to complete your enrollment process on BUPA.
+
+#### Enrolling
+Starting on 2023-07-27, Australian team members will be able to review their plan options & rates, elect their hospital plan & extra option, and enroll directly on [BUPA’s employer portal](https://www.bupa.com.au/corporate/gitlab) for GitLab. 
+
+* https://www.bupa.com.au/corporate/gitlab 
+* Click on “Get a quote” and go through the 6 quick registration questions (residency status, single or family coverage, DOB, State, income bracket, contact details). 
+* Once you confirm your details, you’ll be able to view your hospital & extra options, plan pdf summaries, extra highlights, and their monthly plan rates (please ensure “paying” is set to “monthly”). 
+* Once you “select and proceed” your preferred coverage, click “join now”
+* You’ll then need to complete BUPA’s application process to complete your enrollment: Contact & Medicare details, Rebate application, Payment details, Current health cover information. 
+
+
+#### Contact & Support for Enrollment, Plan Questions
+If you have any questions on the plan, help enrolling on BUPA’s portal, have any other questions comparing your current plan with BUPA’s offerings - you can reach out to BUPA for direct plan support at *1300-622-074* or utilize their virtual chat support on the portal for basic questions. 
+
+Additionally, please feel free to reach out to our consultants, WTW, for direct support and assistance on any enrollment, plan, or questions you may have with the medical plan. 
+Please email *paul.dervan@wtwco.com* and cc’ *total-rewards@gitlab.com* 
+
 
 ### Superannuation
 GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10.5% of the team member's total salary, with a quarterly cap of $6,323.10 AUD. Super is on top of the salary listed in the compensation calculator/contract.
