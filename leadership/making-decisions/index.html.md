@@ -58,12 +58,23 @@ DRIs are not project or program managers unless they are team members who work w
 
 ## Decision Proposals for Collaborating and Communicating 
 
-Decisions that require input, buy-in, or awareness of others should be accompanied by a brief, documented proposal. This can be captured in an agenda, issue, or Google Doc, but it should include the following elements:
+Decisions that require input, buy-in, or awareness of others should be accompanied by a brief, documented proposal. This can be captured in an agenda, [issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/decision-template.md), or Google Doc. Proposals should include [SPADE Decision Making](https://coda.io/@gokulrajaram/gokuls-spade-toolkit) components. At GitLab, we should share the following:
 
-1. Options considered: what alternative approaches were considered, including the one that you recommend
-1. Recommendation: justification for why your preferred path was recommended over others. When appropriate and possible, this should include a recommendation grounded in data
-1. Why is this smallest and fastest: a statement on how you are taking an [iterative approach](/handbook/values/#iteration). Otherwise said, could this decision be broken into even smaller parts? If yes, revisit items and 1 and 2.
-1. Note who was consulted in the decision and proposal alternatives. Documenting who was involved and their role in the decision (consulted or DRI). This helps the team visually see if we have been inclusive in the data gathering phase. 
+1. Setting 
+    1. Precisely define the “what.” What decision is being made? What is the scope of the decision? Does this impact the product, the platform, or the entire company? Be as specific as possible. 
+    1. Be clear on the "when." Explain the why of the “when.” Why that date? Why that duration? 
+    1. Explain the "why." Clearly establishing the why is the key to the setting.
+    1. Why is this smallest and fastest? A statement on how you are taking an [iterative approach](/handbook/values/#iteration). Otherwise said, could this decision be broken into even smaller parts? If not, why not?
+1. People
+    1. Note who was consulted in the decision and proposal alternatives. Documenting who was involved and their role in the decision (consulted or DRI). This helps the team visually see if we have been inclusive in the data gathering phase. 
+1. Alteratives
+    1. What alternative approaches were considered, including the one that you recommend? This is also a section to link designs or other external documentation.
+1. Decision
+    1. Which alternative or option was chosen? This should be updated following DRIs decision.
+1. Explain
+    1. Details for your recommendation. Justification for why your preferred path was recommended over others. When appropriate and possible, this should include a recommendation grounded in data. 
+
+We have an issue template that captures these elements: https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/decision-template.md. 
 
 ## E-Group Conversation on Making Decisions
 
