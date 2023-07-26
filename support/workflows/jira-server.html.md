@@ -219,7 +219,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
             -->
    ```
 
-1. Add the following before the closure of service block in `server.xml`
+1. Add the following just before the closure of the `</Service>` block in `server.xml`
 
    ```
    <Connector port="443" protocol="org.apache.coyote.http11.Http11NioProtocol"
@@ -231,7 +231,6 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
            clientAuth="false" useBodyEncodingForURI="true"
            relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
                  keyAlias="tomcat" keystoreFile="conf/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks" keystorePass="Jira_PASSWORD" keystoreType="JKS" />
-       </Service>
    ```
 
    Replace the values for your `keyAlias`, `keystoreFile` and `keystrokePass` accordingly.
