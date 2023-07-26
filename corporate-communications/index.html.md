@@ -268,14 +268,18 @@ If your request for an external announcement meets the Level 1 criteria, please 
 - What research data (e.g. statistics or research reports) could support the key messages or otherwise add news hooks to the release? 
 - What key point(s) would you like to make in the executive quote and who should be quoted? 
 
-### Partner Requests for Press Release Support
-If a channel or alliance partner is interested in taking the lead on making a formal announcement, please complete a [partner announcement issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=partner-announcement-request), which includes details on the review and approval process as well as links to the press release template.
+### Partner Requests for Public Relations Support
+Any use of GitLab’s name, brand, or logo requires prior email approval by GitLab according to the process outlined below. 
+- GitLab is proud of its collaborative partner program, and we encourage partners to showcase their solutions, capabilities and customer success stories through partner-led blogs (blog template forthcoming). 
+- Partners seeking to issue a press release that includes mention of their partnership with GitLab must meet the criteria outlined below (and in the [GitLab Partner Portal](https://partners.gitlab.com/English/?ReturnUrl=%2fEnglish%2fPartner%2fhome.aspx)).
+- Partner public relations participation criteria:
+   - A signed partner contract
+   - Minimum 10 joint customers
+   - New partners: please reach out to your account representative for guidance.
+- Please note: GitLab requires up to 6 weeks of lead time to support external communications requests. 
+- Please email your account representative for guidance on the approvals required and copy the GitLab Corporate Communications team at press@gitlab.com.
+- GitLab account representatives: Any requests for public relations support requires approval from your executive sponsor, Patty Cheung. Please reach out via #external-comms in Slack if you have questions about this.
 
-A few stipulations:
-- Any press release issued by a partner that includes GitLab’s name or logo must be approved by GitLab.
-- GitLab cannot guarantee support for a partner’s press release. 
-- The PR team requires a minimum of 15 days to review and approve press releases. 
-- The partner contract must be signed and finalized before considering an announcement.
 
 
 ### GitLab Vendor Reference Requests
