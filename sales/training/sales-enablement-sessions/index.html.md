@@ -193,7 +193,7 @@ You can [fill out an access request](/handbook/business-technology/team-member-e
 
 There are a few places to see previous Sales Enablement sessions:
 
-- The latest, most relevant sessions are highlighted within the [GitLab Sales Learning Framework](/handbook/sales/training/#gitlab-sales-learning-framework)
+- The latest, most relevant sessions are highlighted within the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6480e56aff37cbf397ac752f?lfrm=srp.6) page in Highspot.
 - [Sales enablement Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX) on GitLab Unfiltered YouTube
 - [Sales enablement Youtube playlist](https://www.YouTube.com/watch?v=ZyyBq3_rzJo&list=PLFGfElNsQthYe-_LZdge1SVc1XEM1bQfG) on GitLab YouTube
 - Historical sessions that were recorded in Google drive can be accessed via this [deprecated spreadsheet](https://docs.google.com/spreadsheets/d/1ETY7FfCzb2q9h2EkYttlW_Qpl7IHUF-F2rOJG2W03Yk/edit#gid=0)
@@ -296,6 +296,16 @@ Sales enablement sessions are scheduled on the [Sales Enablement calendar](https
 
 The moderator should serve as the host of the call and overall wingperson for the presenter. The moderator monitors chat to raise questions to the presenter and searches for links that are mentioned on the call to make sure they get linked in the handbook page for the training.
 
+**Moderator tasks prior to the session**
+
+- Confirm presenter availability & learning objectives.
+- Solicit input from #field-enablement-chatter on any important announcements that should be made at the beginning or end of the session. 
+- Update the [session agenda document](https://docs.google.com/document/d/1hEFNxrjZYgM7GTrV47R6KLkP4AmTe-Mg_Rkr_snTOtw/edit?usp=sharing) embedded in calendar invite. 
+- Change the title of the calendar invite to match the weekly topic and session length.
+- Promote the upcoming session in the #sales & #customer-success slack channels.
+
+**Moderator tasks during the session**
+
 - Log in to zoom 5 minutes ahead of time
 - The video should not be recording, but pause if this is the case
 - At 12pm ET / 9am PT welcome everyone to the call and remind them that the presentation will be public/private. Specifically mention how to talk about sensitive info on every intro.
@@ -308,11 +318,13 @@ The moderator should serve as the host of the call and overall wingperson for th
 
 - Monitor the time. If the presentation goes longer than 15 minutes, interrupt to remind the speaker that we are at 15 minutes and we want to leave time for Q&A.
 - Stop the recording.
-- After the sales enablement session, upload the video to  the [YouTube Unfiltered channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). Here's a video tutorial on how to upload a video to the GitLab Unfiltered channel:
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/xGwX9zjNr2E" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-- Make sure a link to the handbook page is included in the description of the YouTube video
-- Post a link to the YouTube video in the #sales slack channel
+**Moderator tasks after the session** 
+
+- Upload recorded session to the [Continuing Education](https://drive.google.com/drive/folders/1-d_XgvwChwJhqyVAkasoaJfbEvX6Db-f?usp=sharing) Google Drive folder.
+- Upload recorded session to the [Field Strategy & Enablement](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32) spot on Highspot. Make sure the video properties are set to "internal" and to "prevent downloading or remixing."
+- Update future & past sessions list with the Google Drive recording link in the [Sales Enablement Sessions Handbook.](https://about.gitlab.com/handbook/sales/training/sales-enablement-sessions/#sales-enablement-sessions)
+- Add session recording to the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6480e56aff37cbf397ac752f) Highspot page. 
+- Promote the recorded session availability on #Sales & #customer-success Slack channels. 
+- Check the zoom meeting report & record the number of total attendees as a comment in the issue.
