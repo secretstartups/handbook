@@ -57,3 +57,34 @@ To debug services run as background jobs, you will need to set up debugging for 
           - `BUNDLE_GEMFILE`
           - `ENABLE_BOOTSNAP`
           - `RAILS_ENV`
+
+
+## Configuring GDK database connection
+
+First, follow the ["Access the database with a GUI"](https://docs.gitlab.com/ee/development/database/database_debugging.html#access-the-database-with-a-gui)
+instructions to reconfigure postgresql under the GDK to run on localhost.
+
+Then configure the develoment database:
+
+1. Go to `File -> New -> Data Source -> Postgresql` (or from the `Databases` tab on the right border)
+1. Enter a name: `gitlabhq_development@localhost`
+1. Host: `localhost`
+1. Port: `5432`
+1. Authentication `User & Password`
+1. User - leave blank
+1. Password: leave default, shows `<hidden>`
+1. URL (auto-calculated from the above fields): `jdbc:postgresql://localhost:5432/gitlabhq_development`
+1. Download driver if needed.
+1. Click `Test Connection`.
+
+Then access the database:
+
+1. Open the `Databases` panel from the right border
+1. Click the Refresh button (circle arrows)
+1. Expand to see tables/views/etc.
+
+If you want to add more schemas from `config/database.yml`:
+1. Go to `Database` tab
+1. Right click on top level of database, and view `Properties` (or the "wrench" button)
+1. Go to the `Schemas` tab
+1. Select the schemas you want.
