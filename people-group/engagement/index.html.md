@@ -159,6 +159,22 @@ In addition to Engagement, we asked questions about other factors regarding our 
 
 Additional analysis associated with these opportunities is included in our detailed FY24 Culture Amp Engagement survey results [presentation](https://docs.google.com/presentation/d/1fs5mPdQUdZXR6blK-5cFZL_N-Qr2Y8eta_EhKQAYa64/edit?usp=sharing) that is available only for GitLab team members.
 
+#### Using Epics and Issues to Create an Action Plan
+
+For the FY24 Engagement Survey, all divisions are recommended to create an Epic to store Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of the engagement survey results that includes: highlights, lowlights, recommended actions, and resources. Epic's can be created in division issue boards or projects that are applicable to the organization.
+
+In addition, Managers can create an Engagement Survey Action Issue that links to the division wide epic. In the Issue, managers can link team wide actions to the division.
+
+
+##### FY24 Division-Wide Engagement Survey Action Epics
+
+- Product
+- Engineering
+- Sales
+- Marketing
+- Finance
+- People
+- Legal
 
 ### FY'23 Pulse Engagement Survey
 
@@ -184,7 +200,7 @@ Once the GitLab Team Member Engagement Survey has been closed out, reports will 
 - After action items have been identified at the E-Group level, all managers who received an engagement survey result report (AKA: managers with 5+ direct reports who responded to the survey) will also be asked to create an action plan in Culture Amp.
 - A manager may choose to align their action planning to their leader or division or they may choose to add a specific and separate action for their team. This will likely depend on the size/structure of the organization.
 
-##### Using Epics and Issues to Create an Action Plan
+#### Using Epics and Issues to Create an Action Plan
 
 For the FY23 Engagement Survey, all divisions are recommended to create an Epic to store Engagement Survey Action Issues. Every Division should create an Epic that gives an overview of the engagement survey results that includes: highlights, lowlights, recommended actions, and resources. Epic's can be created in division issue boards or projects that are applicable to the organization.
 
@@ -192,7 +208,7 @@ In addition, Managers can create an Engagement Survey Action Issue that links to
 
 See the [example epics](https://about.gitlab.com/handbook/people-group/engagement/#taking-action) from FY22 for inspiration.
 
-**FY23 Division-Wide Engagement Survey Action Epics:**
+##### FY23 Division-Wide Engagement Survey Action Epics
 
 - [Engineering](https://gitlab.com/groups/gitlab-com/-/epics/1887)
 - [Product](https://gitlab.com/groups/gitlab-com/-/epics/1883)
