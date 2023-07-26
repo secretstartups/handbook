@@ -208,7 +208,7 @@ Be sure that slides are prepared with enough notice for the CEO to record a vide
 
 ## Quarterly Kickoff
 
-The CEO does a Quarterly Kickoff in the first month of each quarter. The Chief of Staff Team plays a role in creating materials, recording content, and preparing the CEO. Details can be found on the [Assembly page](/company/gitlab-assembly/#quarterly-kickoff) of the handbook. 
+The CEO does a Quarterly Kickoff in the first month of each quarter. The Chief of Staff Team plays a role in creating materials, recording content, and preparing the CEO. Details can be found on the [Assembly page](/company/gitlab-all-company-meetings/#quarterly-kickoff) of the handbook. 
 
 ## E-Group Offsite
 
