@@ -155,3 +155,7 @@ Yes. You can request to add custom notecards to kits.
 
 * Boundless needs the verbiage to print on the card
 * Generally 3 x 5” with a GitLab logo on top
+
+### Who can help me with a declaration letter / support with getting Swag items released from customs?
+
+Please email Savanah at Boundless via ssporer@boundlessnetwork.com and she can assist you with getting Swag items cleared.
