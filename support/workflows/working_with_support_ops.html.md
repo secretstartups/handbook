@@ -67,31 +67,29 @@ close out the issue.
 
 ### Propose a change
 
-To propose or request a change, you should first create an issue in the
+To propose or request a change, create an issue in the
 [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
-so it can be discussed amongst the team. Keep in mind if the proposal is
-impacting teams other than Support, you would want to include the other teams
-in the discussion.
+so it can be discussed amongst the team. If the proposal impacts teams other
+than Support, include those teams in the discussion.
 
-After creating the issue, you should then set a due date for it. This
-will represent the day when the discussions are ended and a decision will be
-reached between the approving manager(s) and the requester. If you need Support
-Operations assistance in the discussion, make sure to ping the Support
-Operations team using `@gitlab-com/support/support-ops`. 
+When creating the issue, be sure to set a reasonable due date. Choose a date
+on which the discussions will end and a decision will be
+reached between the approving manager(s) and the requester. If you need the
+assistance of Support Operations in the discussion, you can ping the Support
+Operations team using `@gitlab-com/support/support-ops`.
 
-Once a decision has been reached and agreed upon, the approving manager will
-then ping the Support Operations team using `@gitlab-com/support/support-ops`.
-From there, a Support Operations team member will review the issue and ask for
-any clarification as needed.
+Once a decision has been made, the approving manager will then ping the Support
+Operations team in a comment on the issue using
+`@gitlab-com/support/support-ops`. A Support Operations team member will then
+review the issue and ask for any clarification as needed.
 
-After Support Operations has confirmed the request and gotten any needed
-clarification, they will then create an issue in the correct tracker,
-depending on the nature of the request.
+After Support Operations has confirmed the request and received any requested
+clarification, they will then create an issue in the appropriate tracker.
 
-Support Operations will then work from the new issue(s), performing testing and
-the like. Make sure you are available to help with the testing and review the
-results of said testing. Support Operations will ask and expect you to review
-everything before moving onto next steps.
+Support Operations will then work from the new issue to perform testing and
+other related tasks. At this stage, ensure you are available to help with the
+testing and review the results. Support Operations will ask the original
+requester to review everything before moving on to the next step.
 
 **Note**: Do not create the issues in the Support Operations issue tracker(s).
 They require a support-team-meta issue for discussion and approval from a
