@@ -20,7 +20,7 @@ Information about SIRT responsibilities and incident ownership is available in t
 
 ## Incident Severity
 
-Before engaging the SEOC, please review [our severity and priority levels](/handbook/security/security-operations/sirt/severity-matrix) to ensure that the incident has been assigned the appropriate level of response.
+Before engaging the SEOC, please review [our severity and priority levels](/handbook/security/security-operations/sirt/severity-matrix.html) to ensure that the incident has been assigned the appropriate level of response.
 
 For phishing related issues, see [Phishing](#phishing). For other non-urgent issues, see [Low Severity Issues](#low-severity-issues)/
 
