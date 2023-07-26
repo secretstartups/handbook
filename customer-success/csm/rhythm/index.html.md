@@ -29,4 +29,4 @@ Click here for a [downloadable version](https://lucid.app/documents/view/fd53487
 
 #### Commercial CSM Rhythm of Business
 
-While the motions in the rhythm of business will remain the same as above, the [Commercial](/handbook/customer-success/csm/segment/mid-touch/) CSM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Commercial CSM, please see the [Commercial Segment handbook page](/handbook/customer-success/csm/segment/mid-touch/#rhythm-of-business).
+While the motions in the rhythm of business will remain the same as above, the [Commercial](/handbook/customer-success/csm/segment/commercial/) CSM team will have a slightly different approach to their workflow and books of business. For details on what the expectations would be of a Commercial CSM, please see the [Commercial Segment handbook page](/handbook/customer-success/csm/segment/commercial/#rhythm-of-business).
