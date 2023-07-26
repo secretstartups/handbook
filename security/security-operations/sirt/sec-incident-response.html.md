@@ -52,8 +52,7 @@ The GitLab Security team identifies security incidents as any violation, or thre
 ### Incident Response Process - this guide covers the following activities for all identified security incidents:
 
 1. Detection
-- The SIRT, other internal, or external entity identifies a Security or Privacy
-- Event that may be the result of a potential exploitation of a Security Vulnerability or Weakness, or that may the result of an innocent error
+- The SIRT, other internal, or external entity identifies a Security or Privacy Event that may be the result of a potential exploitation of a Security Vulnerability or Weakness, or that may the result of an innocent error
 - One of our Security detection controls identifies event outside of the established security baseline
 2. Analysis
 - SIRT determines whether the reported security or privacy event is in actuality security or a privacy event
