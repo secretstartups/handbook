@@ -14,7 +14,7 @@ This page describes the individual steps involved in deploying application chang
 
 ### GitLab.com deployments process
 
-GitLab.com receives updates multiple times a day with new deployment branches currently created at **00:00, 03:00, 06:00, 8:00, 11:00, 13:00, 15:00, 18:00 and 21:00 UTC** from Monday through Friday.
+GitLab.com receives updates multiple times a day with new deployment branches currently created at **00:00, 03:00, 06:00, 8:00, 11:00, 13:00, 15:00, 17:00 and 21:00 UTC** from Monday through Friday.
 
 ![GitLab.com deployment process](gitlab-com-deployment-pipeline.png)
 
