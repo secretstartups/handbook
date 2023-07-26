@@ -44,7 +44,7 @@ variables:
 
   ### PERFORMANCE ###
   # GIT_* variables to speed up repo cloning/fetching
-  GIT_DEPTH: 10
+  GIT_DEPTH: 0
   # Disabling LFS and submodules will speed up jobs, because runners don't have to perform
   # the submodule steps during repo clone/fetch. These settings can be deleted if you are using
   # LFS or submodules.
@@ -62,7 +62,7 @@ variables:
     if: '$CI_MERGE_REQUEST_IID || $CI_COMMIT_TAG'
 
 .hugo:
-  image: registry.gitlab.com/pages/hugo/hugo_extended:0.111.3
+  image: registry.gitlab.com/pages/hugo/hugo_extended:0.115.3
   stage: deploy
   needs: []
   script:
@@ -72,7 +72,7 @@ variables:
     - ./scripts/update-counts.sh
     - ./scripts/sync-data.sh
     - npm ci
-    - hugo
+    - hugo --enableGitInfo
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
   artifacts:

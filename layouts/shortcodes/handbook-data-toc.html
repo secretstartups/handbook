@@ -1,0 +1,19 @@
+{{ range .Site.Data.toc }}
+	<h3>{{ .name }}</h3>
+	<ul>
+		<li><a href="{{ .url }}">{{ .name }}</a></li>
+		{{ template "sublinks" (dict "links" .links) }}
+	</ul>
+{{ end }}
+
+
+{{ define "sublinks" }}
+<ul>
+	{{ range .links}}
+		<li><a href="{{ .url }}">{{ .name }}</a></li>
+		{{ if .links }}
+			{{ template "sublinks" (dict "links" .links) }}
+		{{ end }}
+	{{ end }}
+</ul>
+{{ end }}

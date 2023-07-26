@@ -10,7 +10,7 @@
 <tbody>
 {{ $site := .Get "site" }}
 {{ $sep := "," }}
-{{ $csv := getCSV $sep (printf "data/%s-count.csv" $site) }}
+{{ $csv := getCSV $sep (printf "csv/%s-count.csv" $site) }}
 {{ range $i, $r := after 1 $csv }}
 <tr>
 <td style="text-align:center">{{ index $r 0 }}</td>
