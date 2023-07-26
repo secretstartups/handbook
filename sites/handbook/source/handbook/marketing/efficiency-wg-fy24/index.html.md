@@ -11,7 +11,7 @@ canonical_path: "/handbook/marketing/efficiency-wg-fy24"
 |-|-|
 | Date Created | 2023-07-18 |
 | End Date | 2023-10-31 |
-| Slack | [#marketing-action-planning](https://gitlab.slack.com/archives/C05GJR0741W) |
+| Slack | [#wg_marketing_efficiency_fy24](https://gitlab.slack.com/archives/C05J8PTGF6K) |
 | Google Doc | [Working Group Doc](https://docs.google.com/document/d/1-vZTwstweeJa_73nld_ABl8ar1h3ulVgylalZKtlp5g/edit#heading=h.mz0r2cgw3bv3)  |
 | Overview & Status | [Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4199) |
 
