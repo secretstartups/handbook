@@ -104,10 +104,9 @@ _last updated: April 2023_
 | **Special Notes** | [For dismissal](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113523#note_1323268332): <br> - For now: can we allow for dismissal but have it re-appear ever 14 days <br> - For later / closer to enforcement: we make the banner [re-appear every day if dismissed](https://gitlab.com/gitlab-org/gitlab/-/issues/398620#note_1362053624). | For dismissal: <br> - Customer can dismiss banner but it will re-appear if they change thresholds (eg they jump from 70% of usage to 95% of usage) <br> - The banner will become [non-dismissable when usage is above 95%](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/122494).  |  |   | 
 | **Links** | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/97807) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#pre-enforcement-banner-notification) | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification-1) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli-1) |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#emails)  | 
 
-
 ## User cap for groups on SaaS
 
-We currently have a version of [User Caps for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups) built for SaaS, which is similar in behavior to the [self-managed User Caps feature](https://docs.gitlab.com/ee/administration/settings/sign_up_restrictions.html#user-cap). As of now, this feature is not ready for production use. GitLab team members can learn more about the feature in the [internal handbook](https://internal.gitlab.com/handbook/product/fulfillment/saas-user-caps/). 
+On GitLab.com, this feature is now available for all groups. For more information, see [User cap for groups](https://docs.gitlab.com/ee/user/group/manage.html#user-cap-for-groups).
 
 ## Experience for customers that purchased through a reseller
 
