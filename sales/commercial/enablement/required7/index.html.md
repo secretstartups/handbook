@@ -113,7 +113,7 @@ Call notes must be logged against the opportunity record, _NOT_ the account. Thi
 
 ## 2/ Ranking your accounts
 
-The goal of ranking your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect.
+The goal of ranking your accounts (customers AND prospects) is to enable you to prioritize your time and proactively work on the right customers with the right amount of effort. When your accounts are ranked effectively, you can work on a cadence that helps you grow ARR by spending the right amount of time depending on the potential and current value of the customer/prospect. It also gives you the opportunity to verify if the account is correctly aligned to you and, if not, take corrective action as per the [Rules of Engagement](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership).
 
 ### When to do it
 
@@ -123,7 +123,7 @@ _Important: you should also re-rank your accounts when you get new information o
 
 ### How to do it
 
-Do some brief research on the customer’s employee count, LinkedIn Insights, latest news, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. Once you have decided which rank it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that rank. You can also check out the [account ranking section on the handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for more detailed information.
+Do some brief research on the customer’s employee count, LinkedIn Insights, latest news, current subscription (or license tier of interest if it’s a prospect) and make a judgement on its potential. You must verify that the account is correctly aligned to you during this exercise and if it's incorrect,[request that it is moved](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#exception-process-to-request-account-ownership-change). Once you have decided which rank it should be in, mark the account as such in Salesforce and enter notes that outline why you chose that rank. You can also check out the [account ranking section on the handbook](https://about.gitlab.com/handbook/sales/commercial/#account-ranking) for more detailed information.
 
 Here are some things to consider when ranking an account:
 
