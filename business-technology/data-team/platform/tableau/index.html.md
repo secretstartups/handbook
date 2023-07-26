@@ -29,7 +29,7 @@ description: "Tableau at GitLab"
 
 ### FY24 Tableau Deployment Roadmap
 
-We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) and will stand-up the Tableau Production program using Experimental, Beta, and Generally Available dashboards.
+We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) and will stand-up the Tableau Production program using Experimental, Beta, and Generally Available dashboards. A more complete version of the Tableau implementation roadmap can be found at [this Data Team epic](https://gitlab.com/groups/gitlab-data/-/epics/895).
 
 - FY24-Q1 - Experimental Dashboards
     - Ready Tableau Online environment for Production Releases 
@@ -37,17 +37,15 @@ We follow the nomenclature found in the [GitLab Docs](https://docs.gitlab.com/ee
     - Develop a list of Top SSOT Dashboards for GTM and Finance
     - Develop project plan for deprecating the legacy schema in Snowflake
 - FY24-Q2 - Experimental and Beta Dashboards
-    - GTM and Finance teams to migrate key content to Tableau Production 
+    - GTM and Finance teams to begin migrating key content to Tableau Production 
     - Design Spike: Test Tableau embedding capabilities for 1 Engineering KPI Public Handbook embedding use case 
-    - Deprecate GTM and Finance related data models in the legacy schema
-    - Develop additional data models for R&D to support Tableau migration in Q3
 - FY24-Q3 - Generally Available Dashboards
+    - Develop additional data models for R&D to support Tableau migration in Q3
     - Bring R&D, People, and the rest of the Enterprise into focus 
-    - Business teams to migrate key content across all use cases, including embedding KPI charts in the handbook 
-    - Deprecate R&D and People related data models in the legacy schema in Snowflake
+    - Establish, communicate, and initiate the process for cutting over KPI charts in the handbook 
 - FY24-Q4 - Generally Available Dashboards
     - All Business departments to migrate key content 
-    - Deprecate remaining data models in the legacy schema in Snowflake
+    - Complete the cutover of all KPI charts in the handbook
     - Complete Tableau migration efforts
 
 ## Governance Model
@@ -63,6 +61,12 @@ Our Tableau self-governing model is administered and enforced in the [GitLab Tab
 ### Tableau Project Architecture
 
 The Project Architecture in Tableau Online is replicated and governed in the GitLab Tableau Project. Please see the [GitLab Tableau Project](https://gitlab.com/gitlab-data/tableau) for more details. Below are descriptions of the project folders and a sample of the project architecture found in Tableau online.
+
+The top-level folders in our Tableau Project, and their corresponding levels of governance, include:
+- `Development`: content in this folder intentionally includes no governance, in order to enable users to quickly prototype. As such it should be considered to be sandbox content.
+- `Ad Hoc`: content in this folder has been reviewed and approved by a sub-project leader, with traceability via an MR. (see [project-permission-structure](handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities) for a list of sub-project leaders.)
+- `Production`: content in this folder has been reviewed and approved by sub-project leader(s) as well as project leader(s). This is the highest level of certification for Tableau content.
+- `Resources`: content in this folder includes workbook templates and certified data sources that can be used in workbook development
 
 <details markdown=1>
 
@@ -169,6 +173,41 @@ graph LR
 2. **Development:** All Tableau Content Development starts in the Development Project Folder. The Development Folder is a Sandbox environment where Tableau developers are free to experiment and iterate with content and share with team members for initial peer reviews. Tableau Developers can organize their Sandbox work using [Collections](https://help.tableau.com/current/pro/desktop/en-us/collections.htm) for easy access and sharing.  **The Development Folder will have the same user experience as our old Sisense BI tool where team members can create and share content on demand without any approvals being required from the BI Platform team.** Tableau Creators should follow [SAFE development workflow guidelines](/handbook/business-technology/data-team/platform/safe-data/#tableau) when working with MNPI data in the development folder. 
 3. **Ad-Hoc Publishing:** When content in the Development Project Folder is ready for publishing, it can be published in the Ad-Hoc Project Folder if it adheres to the [Ad-Hoc Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. **Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) for detailed steps on publishing content to the Ad-Hoc Project Folder.** 
 4. **Production Publishing:** When content in the Development or Ad-Hoc Project Folders is ready for Production publishing, it can be published in the Production Project Folder if it adheres to the [Trusted Data Development](/handbook/business-technology/data-team/data-development/#data-development-at-gitlab) methodology. Content that adheres to the Trusted Data Development process will get a Certified Stamp in Production. If the content does not adhere to the Trusted Data Development requirements, but is still considered SSOT, Production grade content, the content can still be published in Production, but it will not receive a Certified Stamp. In such cases, there should be an issue with a project plan for the Tableau content to receive a Certified Stamp. **Please see the [README](https://gitlab.com/gitlab-data/tableau/-/blob/main/README.md) for detailed steps on publishing content to the Production Project Folder.**
+
+### BIOps Workflow Examples
+
+The flowchart below illustrates 3 examples of the BIOps publication workflow.
+
+In Example 1, a developer is publishing a dashboard to their own **Development** space. No governance or approval is required.
+
+In Example 2, a developer is publishing a dashboard to a sub-folder within the **Ad Hoc** space. This requires review and approval by the project leads (i.e. Functional Team leaders) of the sub-folder the dashboard will be published to. For example, if the developer is publishing a dashboard to the Sales sub-folder within the Ad Hoc space, a Sales sub-project leader will need to review and approve it.
+
+In Example 3, a developer is publishing a dashboard to a sub-folder within the **Production** space. This requires review and approval by the project leaders (i.e. Functional Team leaders) of the sub-folder the dashboard will be published to, _as well as_ review and approval by the top-level project leaders (i.e. project leaders from the Enterprise Data Team). For example, if the developer is publishing a dashboard to the Sales sub-folder within the Production space, a Sales sub-project leader will need to review and approve it, and an Enterprise Data Team project leader will need to additionally review and approve it.
+```mermaid
+flowchart TD
+    A["Developer creates dashboard"]
+
+    subgraph C["No Approval Required"]
+        p1["Developer publishes\ndashboard"]
+    end
+
+    subgraph D["Requires Functional Approval"]
+        mr1["Developer creates Tableau\nproject issue"] -->
+        mr2["BI Team creates\nMR for approval"] -->
+        mr3["Sub-project leader MR approval\nkicks off dashboard publication"]
+    end
+
+    subgraph E["Requires Functional & BI Team Approval"]
+        mr4["Developer creates Tableau\nproject issue"] -->
+        mr5["Data team creates\nMR for approval"] -->
+        mr6["Sub-project leader\napproves MR"] -->
+        mr7["Project leader's MR approval\nkicks off publication"]
+    end
+
+A --> |to publish to Development|C
+A --> |to publish to Ad Hoc|D 
+A --> |to publish to Production|E
+```
 
 ### BI Development Excellence
 
