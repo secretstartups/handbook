@@ -66,8 +66,6 @@ The Zaps are organized in the [Developer Evangelism folder](https://zapier.com/a
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
 | [Hackernews: Slack notifications for front page mentions: GitLab](https://zapier.com/app/editor/58944326) | Hackernews: `GitLab` front page stories to `#developer-evangelism` Slack channel | HackerNews, Slack |
-| [Hackernews: Slack notifications for front page mentions: Opstrace](https://zapier.com/app/editor/151511040) | Hackernews: `Opstrace` front page stories to `#developer-evangelism` Slack channel | HackerNews, Slack |
-| [Hackernews: Slack notifications for front page mentions: Clickhouse](https://zapier.com/app/editor/153149325) | Hackernews: `Clickhouse` front page stories to `#developer-evangelism` Slack channel | HackerNews, Slack |
 | [Hackernews: Slack notifications for front page mentions: Open Core](https://zapier.com/webintent/edit-zap/159764533) | Hackernews: `Open Core` front page stories to `#developer-evangelism` Slack channel | HackerNews, Slack |
 | [Hackernews: Slack Notifications for mentions: GitLab](https://zapier.com/app/editor/52810208) | Hackernews: `GitLab` mentions to `#hn-mentions` Slack channel |  HackerNews, Slack |
 | [Hackernews: Slack Notifications for mentions: DevOps Platform](https://zapier.com/app/editor/131452972) | Hackernews: `DevOps Platform` mentions to `#hn-mentions` Slack channel |  HackerNews, Slack |
