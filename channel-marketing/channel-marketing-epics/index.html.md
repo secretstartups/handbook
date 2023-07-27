@@ -179,7 +179,7 @@ For all details regarding swag, [please see here](https://about.gitlab.com/handb
 ```
 <!-- Name this epic: Name of Event - Date of Event -->
 
-## [Main Issue]()
+## [Main Issue]() - [template] (https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=ptnr_mktg_webinar_main_template)
 
 ## [Copy Document](https://docs.google.com/document/d/1w9yMw2DQJ5u1RxC3kYO0ZgQM5TJfKlRiGGjJqVFg1GE/edit?usp=sharing)
 
@@ -215,9 +215,9 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Dry Run Scheduling Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast_dry_run_scheduling)
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) 
 * [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_mkto_landing_page)
-* [ ] [News on Demand Article/Email Creation]()
-* [ ] [Update Partner Portal - Partner Marketing Webinar Page]()
-* [ ] [Create Post-event Survey]()
+* [ ] [News on Demand Article/Email Creation](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=NoD_promotion)
+* [ ] [Update Partner Portal - Partner Marketing Webinar Page](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Update_Portal_PtnrMktgWebinar)
+* [ ] [Create Post-event Survey](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=to_ptnr_postevent_survey)
 
 
 /label ~"mktg-status::wip" ~"Webcast - GitLab Hosted" ~"Channel Marketing"
