@@ -171,15 +171,15 @@ No, not at this time.
 | [Anshuman Singh](https://www.linkedin.com/in/anshuman-singh-4537731a5/) | Non-GitLab shadow - Independent software engineer |
 |  [Aleesha Dawson](https://www.linkedin.com/in/aleesha-moran/) | [GitLab shadow](https://gitlab.com/adawson-gitlab) - Customer Success Manager |
 | [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
+| [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-Gitlab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
 
 
 ## Schedule
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| July 17    |  [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-Gitlab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
 | July 24    |  [Alejandro Mogollon Medina](https://gitlab.com/mellab) | Non-GitLab shadow: GitLab Hero & HashiCorp Ambassador  |
-| July 31    |  Available | |
+| July 31    |  [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GItLab shadow - engineering leader |
 | August 7   |  [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow -  Manager for Animation & Gaming Technical Support at [Netflix](https://www.netflix.com)  |
 | August 14  |  Available | |
 | August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
