@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Data & Analytics Team Operating Principles"
-description: "GitLab Data & Analytics Team Operating Principles Handbook"
+title: "Enterprise Data & Insights Team Operating Principles"
+description: "GitLab Enterprise Data & Insights Team Operating Principles Handbook"
 ---
 
 ## On this page
@@ -10,9 +10,27 @@ description: "GitLab Data & Analytics Team Operating Principles Handbook"
 {::options parse_block_html="true" /}
 
 ----
-## <i class="far fa-compass fa-fw color-orange font-awesome" aria-hidden="true"></i>Data & Analytics Operating Principles
+## Data Management Principles
+**Decisions about our data are guided and aliged to 10 Enterprise Data Management Principles
+### Maximize the Value of Data
+- We treat data as a **shared strategic asset** with the same disciplines as other recognized (tangible and intangible) assets, including managing the risks associated with it.
+- **Data belongs to the organization**, not to teams or individuals. 
+- We promote **innovation** through data insights, recommendations and solutions.
 
-**We are proud, yet humbled to be the Center of Excellence for Data & Analytics at one of the world’s most innovative companies.**
+### Data Protection & Privacy
+- We ensure that GitLab data is **appropriately protected**.
+- We manage our data products in a **transparent manner**.
+- We have **data governance** practices in place to clarify data roles, responsibilities, standards and policies.
+
+### Data Management
+- We **manage the complete data journey** from creation, through storage, transformation, and usage to archival and deletion.
+- **Business functions own and are accountable** for the quality of our data.
+- We ensure our data is **discoverable, traceable, and classified**.
+- We proactively design for and **manage the quality** of our data.
+
+## Data & Insights Operating Principles
+
+**We are proud, yet humbled to be the Center of Excellence for Data & Insights at one of the world’s most innovative companies.**
 
 There are three **Data Team Operating Principles**: 
 ```mermaid
