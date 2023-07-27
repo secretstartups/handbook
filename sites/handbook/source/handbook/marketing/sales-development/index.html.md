@@ -304,7 +304,7 @@ While the below measurements do not impact your quota attainment, they are monit
   * Number of calls made
   * Number of personalized emails sent
   * LinkedIn InMails
-  * Drift Chats
+  * Qualified Engagements
   * Number of leads accepted and worked
 
 
@@ -411,7 +411,7 @@ These MQLs will show up in your S1 or B1 lead and contact views in Salesforce. T
 
 #### Lead Routing Level Procedure
 
-The SDR Managers will be responsible for facilitating lead routing level changes at the beginning of each new month (when applicable) by making the requisite moves in Traction and Drift.
+The SDR Managers will be responsible for facilitating lead routing level changes at the beginning of each new month (when applicable) by making the requisite moves in Traction and Qualified.
 
 #### Levels
 
@@ -420,28 +420,28 @@ The SDR Managers will be responsible for facilitating lead routing level changes
 ##### Onboarding
 
 * Timeframe: Month 0
-* Parameters: SDR not on quota, leads are off in Traction, Drift is off
+* Parameters: SDR not on quota, leads are off in Traction, Qualified is off
 
 #####  Ramping 1
 
 * Timeframe: Month 1
-* Parameters: SDR is on 25% quota, leads are set at 50% in Traction, Drift is off
+* Parameters: SDR is on 25% quota, leads are set at 50% in Traction, Qualified is off
 
 #####  Ramping 2
 
 * Timeframe: Month 2
-* Parameters: SDR is on 50% quota, leads are set at 100% in Traction, Drift is off
+* Parameters: SDR is on 50% quota, leads are set at 100% in Traction, Qualified is off
 
 #####  Ramping 3
 
 * Timeframe: Month 3
-* Parameters: SDR is on 75% quota, leads are set at 100% in Traction, SDR is added to Drift
-* To add SDRs to Drift, create a new [access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) and copy and paste in the code for the [Drift access request template](https://gitlab.com/-/ide/project/gitlab-com/team-member-epics/access-requests/edit/master/-/.gitlab/issue_templates/role_baseline_access_request_tasks/department_sales_development/role_sales_development_representative_drift.md)
+* Parameters: SDR is on 75% quota, leads are set at 100% in Traction, SDR is added to Qualified
+
 
 ##### Expert
 
 * Timeframe: Months 4+
-* Parameters: SDR is on full quota, leads are set at 100% in Traction, Drift is on
+* Parameters: SDR is on full quota, leads are set at 100% in Traction, Qualified is on
 * SDR is now able to create their own Outreach sequences [pending approval](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#outreach-sequence-creation-process).
 
 #### Performance Requirements
@@ -462,7 +462,7 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 
 #### SDR Lead Views
 
-* **S1 View** - [MQL’s,](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring)and "Hot" leads that need to be actioned within 60 minutes (i.e event)s, and Drift conversation leads for tenured SDRs
+* **S1 View** - [MQL’s,](/handbook/marketing/marketing-operations/marketo/#mql-and-lead-scoring)and "Hot" leads that need to be actioned within 60 minutes (i.e event)s, and Qualified conversation leads for tenured SDRs
 * **S2 View** - Only leads that are active in a HT touch sequence and have a phone number
 * **S3 View** - Qualifying leads. These are leads that you are actively qualifying in a back and forth conversation either by email or through phone calls.  Each lead needs to either be active in a follow-up sequence, have an active task, or have a future meeting scheduled which can be seen in a future “last activity” date.
 
@@ -597,8 +597,8 @@ When a territory moves from one BDR to another but the previous BDR remains with
         *   If there is another lead at the same company with a Lead Status of MQL, ownership is determined by the lead whose MQL Date is the earliest. If there is another lead at the same company with a Lead Status of Accepted or Qualifying, pass the MQL to the owner of the accepted/qualifying lead.
     *  Should a BDR receive a lead not associated with an Actively Working account, they are responsible for assigning the lead back to the SDR who assigned it to them. If it came from Traction, they should chatter mktgops support on the record so that it can be routed correctly.
 
-5. Drift leads associated with **“Actively Working”** accounts
-    *  SDR will be routed the lead and will need to quickly offer a meeting with the assigned BDR. From there they will move the lead into qualifying status, transfer ownership to the BDR and click to send notification.
+5. Qualified leads associated with **“Actively Working”** accounts
+    * BDR assigned to the Actively Working Account will have the lead routed to them
 
 
 **Outreach & Marketo**
@@ -1084,12 +1084,12 @@ Support might include pre event outreach by BDR's to help drive attendance/meeti
 ### Joint Partner Related Events.
 BDRs should not support joint partner related events where there the routing plan is to have the leads worked by the partner. Additionally, the following routing should be taken into the routing workflow.
 * MQLs or Good/Hot leads related to BDR Actively Working Accounts + leads in qualifying status + leads active in sequence should not be passed to the partner but rather to the BDR Assigned or the current sales development lead owner.
-* Any meetings booked at the event via Drift will automatically route to the SDR team.
+* Any meetings booked at the event via Qualified will automatically route to the SDR team.
 
 ### Routing nuances
 * Any BDR 'Sales Nominated' prospects added to the campaign who respond to invite sequence will be worked by the BDR Assigned. If the account isn't in Actively Working status, they will be notified to move the account into Actively Working status so they can continue to work the engaged lead as well as begin strategic outreach to others at the account leveraging this compelling engagement.
-* Drift meetings scheduled related to an Actively Working account will be facilited by the BDR Assigned. All others will route to the SDR org per the normal routing workflow.
-    * Drift Leads will appear as MQLs in the SDRs S1 lead view if the SDR engages the prospect and receives a business email from them. The SDR who receives the MQL will be decided by which SDR closed the conversation in Drift, had a meeting booked with the prospect on their calendar, or  was the last routed user to receive the lead.
+* Qualified meetings scheduled related to an Actively Working account will be facilited by the BDR Assigned. All others will route to the SDR org per the normal routing workflow.
+    *  Qualified Leads will appear as MQLs in the SDRs S1 lead view if the SDR engages the prospect and receives a business email from them. The SDR who receives the MQL will be decided by which SDR closed the conversation in Qualified, had a meeting booked with the prospect on their calendar, or  was the last routed user to receive the lead.
 * To test whether speed to lead increases conversion of event leads we will be moving High Priority campaign leads directly into BDR priority views with corresponding [SLA of 60 minute response time](/handbook/marketing/sales-development/#lead-and-contact-views). Any campaign checked as High Priority will have any members that relate to Actively Working accounts marked as High Priority irregardless of their lead status. These will show up in the BDR's priority view.
 * All other leads will route based on our normal routing workflow.
 
