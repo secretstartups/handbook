@@ -8,6 +8,9 @@ Please note that all links are GitLab-internal only.
 ## Trading Window Status
 - GitLab Team Members can view the current trading window status via the [Trading Window Status Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12780).
 
+## Working with Corporate Legal
+- For questions related to corporate matters, please review the content and materials within [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries). The team will continue to update the Corporate Library. 
+- If the question a team member has is not answered within [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries), please open an Issue pursuant to the [RFP Process](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html#request-for-proposal-rfp-process)
 
 ## Insider Trading Policy and Insider Trading Policy FAQ
 - [Insider Trading Policy](https://drive.google.com/file/d/1chE70vX27LA8OK0KvfQ7RMAai_nf3rq7/view)
