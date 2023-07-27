@@ -110,12 +110,10 @@ Within 7 calendar days of assignment the CAM will:
 1. Send the appropriate certification award email to the main Partner contact person. The award email contains the following elements:
     1. Congratulations
     2. Access to a Badge Graphic Download 
-    3. Offers partners help to create a press release announcing their new certification
     4. Directs partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
 2. The Issue will also be automatically be assigned to GitLab Partner Help Desk who will: 
     1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
-    
-    2. If the partner indicates they want to create a Press Release about their new Services Certification; the CAM can follow the instructions on the [Channel Marketing Page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support)  to request a press release.
+3. Any request for public relations support must go through the CAM as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
 
 ### GitLab Training Services Partner Award Process
 
