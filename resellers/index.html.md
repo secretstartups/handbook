@@ -41,34 +41,26 @@ How to Navigate: To find your way back to the 1st Page [CLICK HERE](https://abou
 
 
 
-* [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)
-
-        In this section you will learn how the GitLab Channel Partner Program works, the value GitLab brings to partners,  Program Benefits & requirements, and an introduction to GitLab Services program.
-
-* [Channel Partners: Working with GitLab](/handbook/resellers/channel-working-with-GitLab/)
-
-        In this section you will be given a deep dive into working with and managing the Four main aspects of the GitLab: (1) Administration, (2) Sales, (3) Marketing, and (4) Technical.  
-
-* [Channel Partners: Developing your GitLab Practice](/handbook/resellers/services/)
-
-        In this section you will learn the keys to developing your GitLab practice through our Partner Capabilites Journey and the specific steps of Walk, Run, Fly philosophies. 
-
-* [Channel Partners: Training and Certifications](/handbook/resellers/training/)
-
-        In this section you will learn how the GitLab Partner Enablement Program is designed to provide our partners with similar training as GitLab employees themselves. Specifically developing core training, accreditation and certification for sales, solution architects (pre-sales engineers), and post sales engineers and consultants. 
-
-* [Channel Partners: Technical Presales Enablement](https://about.gitlab.com/handbook/resellers/partner-enablement/) 
-
-        In this section we review assets and enablement from the perspective of Channel Partners' Technical Presales constituencies.
-
-
-* [Partner Operations (GitLab Internal)](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)
-
-       For GitLab Team members only.  In this section GitLab Team members will find important information on how to navigate internal processes of the Partner Program. 
-      
-* [GitLab Alliance Program](https://about.gitlab.com/partners/technology-partners/)
-
-      This link will allow you to explore the exceptional technology companies we proudly partner with.
+| GitLab Channel Partner Program Sections                                                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [Channel Program Guide](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/)                                                                                                                                                                                                                                      |
+| In this section you will learn how the GitLab Channel Partner Program works, the value GitLab brings to partners, Program Benefits & requirements, and an introduction to GitLab Services program.                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [Channel Partners: Working with GitLab](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/)                                                                                                                                                                                                                |
+| In this section, you will be given a deep dive into working with and managing the Four main aspects of the GitLab: (1) Administration, (2) Sales, (3) Marketing, (4) Technical, and (5) Distributors.                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [Channel Partners: Developing your GitLab Practice](https://about.gitlab.com/handbook/resellers/services/)                                                                                                                                                                                                                       |
+| In this section, you will learn how the GitLab Partner Enablement Program is designed to provide our partners with similar training as GitLab employees. Specifically developing core training, accreditation, and certification for sales, solution architects (pre-sales engineers), and post-sales engineers and consultants. |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [Channel Partners: Technical Presales Enablement](https://about.gitlab.com/handbook/resellers/partner-enablement/)                                                                                                                                                                                                               |
+| In this section, we review assets and enablement from the perspective of Channel Partners' Technical Presales constituencies.                                                                                                                                                                                                    |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [Partner Operations (GitLab Internal)](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/)                                                                                                                                                                                                             |
+| For GitLab Team members only. In this section, GitLab Team members will find important information on navigating the Partner Program's internal processes.                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                  |
+| [GitLab Alliance Program](https://about.gitlab.com/partners/technology-partners/)                                                                                                                                                                                                                                                |
+| This link will allow you to explore the exceptional technology companies we proudly partner with.                                                                                                                                                                                                                                |
 
 
 
