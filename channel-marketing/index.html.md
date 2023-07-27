@@ -260,3 +260,6 @@ Note, the subject needs to be an exact match of what's displayed above, otherwis
 ### Channel Marketing Campaign Issue Templates & Epic Codes
 
 [Channel Marketing Epics](/handbook/marketing/channel-marketing/channel-marketing-epics/)
+
+*   [MDF Requests] (https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/#mdf-requests)
+*   [Channel Events] (https://about.gitlab.com/handbook/marketing/channel-marketing/channel-marketing-epics/#channel-events)
