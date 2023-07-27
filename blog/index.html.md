@@ -98,9 +98,6 @@ When the merge request has been reviewed by the Editorial team, please assign th
 
 We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window.
 
-### Joint announcements
-
-Joint announcements with partners or other third parties should first be [proposed to the Corporate Communications team](/handbook/marketing/corporate-communications/#requests-for-external-announcements) ahead of writing to maximize impact and ensure alignment across teams. They will decide whether we issue a press release, blog post, or communicate via other channels. If they decide to move forward with a blog post, please ping @sgittlen.
 
 ### Guest posts by GitLab partners
 
