@@ -131,7 +131,11 @@ Feel free to ask your Recruiter which type of interview you can expect.
 
 <summary>How to request for a reasonable accommodation</summary>
 
-We want our interview process to be accessible to everyone. You can inform us of any reasonable adjustments we can make to better accommodate your needs by emailing `ces@gitlab.com` at any point in the interview process. Examples of reasonable accommodation include making a change to the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. As part of our [interviewing process](/handbook/hiring/interviewing/#adjustments-to-our-interview-process), we ask all applicants if they require any type of adjustment or accommodation.
+At GitLab we pride ourselves on ensuring that everyone can contribute. To make certain that everyone's interview experience is a positive one, we encourage those who require a reasonable accommodation to successfully carry out the interview process, to reach out to `ces@gitlab.com`. The Candidate Experience team along with Talent Acquisition leadership will work with you to define and accommodate those needs. This could include but is not limited to the following:
+
+- Translation Services
+- Use of additional services or assistive technologies
+- Assistance in setting up Closed Captioning for interviews
 
 </details>
 
@@ -180,21 +184,6 @@ Example of dual Interview process outline
 1. If you are interviewing for two roles within the same job family and job grade, the offers will be the same.
 1. If you are interviewing for two roles in different job families the offers may be different. 
 
-</details>
-
-<details markdown="1">
-
-<summary>Do you offer interview reimbursements?</summary>
-
-If you are invited for an interview with GitLab and you need financial support for your interview, you may be reimbursed for the following:
-
-- Childcare or adult care for dependents
-- Rental costs associated with laptop or computer if you don't own or have access to one
-- Transportation to a facility with internet access if your home does not have reliable internet service
-- Meeting room costs in a co-working space if your environment is not conducive to an interview
-- Translation services if you are d/Deaf or hard of hearing
-
-To initiate the reimbursement process, please email `ces@gitlab.com`. 
 
 </details>
 

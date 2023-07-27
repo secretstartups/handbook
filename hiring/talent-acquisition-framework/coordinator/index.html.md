@@ -111,41 +111,28 @@ This process not only applies to executive requisitions, but any reqs or intervi
 
 - The EBA and CES team will communicate any interview changes or concerns in the slack channel. Other requests such as flagging an offer, completing an interview scorecard, or regarding the executive's schedule may be communicated in this channel as well.
 
-#### CES Slack Channel 
+#### Candidate Reimbursement Process
 
-TA/CES will be using a custom slack channel to consolidate all requests directed towards CES from GitLab Team Members who participate in interviews. 
+On occasion, candidates may need to interview in person with a team member at GitLab or they may require a reasonable accommodation to be successful in their interview process. In these cases, candidates are eligible for reimbursement from GitLab to cover any expenses incurred during this process. Please see process below on to handle candidate reimbursement in these cases. DRI - Senior CES, CES Manager
 
-Slack Channel: #interview-help-ta
+**Important to note:** The department the candidate is interviewing for will be responsible to reimburse from their budget IF they are requiring these expenses to be incurred (i.e. face to face interview costs). Any candidate requesting a reasonable accommodation throughout their interview process will have their request reviewed and approved by TALT. These reimbursements will be paid from the TA budget (i.e interpreter services)
 
-**IMPORTANT:** Please DO NOT use candidates full names in the channel. Instead, please use their initials and/or link to their GH profile when communicating.
+1. Recruiter/Candidate reaches out to CES for candidate reimbursement. 
+1. There are two types of reimbursement:
 
-This channel will be monitored by CES team members on a rotating schedule to accommodate varying timezones. 
+   - Candidate incurred costs during their interview process due to the department they are interviewing for having specific demands. These will be reimbursed out of the department specific budget.
+   Items approved for reimbursement are:
+      - All modes of transportation
+      - Meals
+      - Accommodations if they are necessary 
+   - If a candidate has a reasonable accommodation request to assist them throughout their interview process, they can email CES and CES will work with TALT to assess and accommodate. These will come out of the TA budget if costs are incurred. This can include but is not limited to the following: 
+      - Translation Services
+      - Use of additional services or assistive technologies
+      - Assistance in setting up Closed Captioning for interviews (may not require reimbursement)
+1. CES will send “Candidate Reimbursement” email template from Greenhouse from their own GitLab email address, not ces@gitlab.com. **Note:** these emails will need to stay out of the CES service desk, hence the reason the CES responsible for this process will send from their personal GitLab email.
+1. Once the candidate submits the form attached to the email, both CES and AP will be alerted via spreadsheet.
+1. Accounts Payable will then process the candidates reimbursement request and respond to all that it has been completed. Candidates can expect to receive their reimbursement within 1-2 weeks of submission.
 
-**How Gitlab Team Members will utilize the Workflow within #interview-help-ta**
-- Open slack channel #interview-help-ta
-- Click Shortcuts button in the bottom left corner (looks like a lightning bolt)
-- Click “CES HelpDesk”
-- Click “Request Category” drop down and choose category pertaining to specific request
-- Click “Urgency of your Request” drop down to let CES know the importance of your request.
-- In “Details” box please provide CES details on what you need. 
-**IMPORTANT:** please do NOT write candidates name. Instead use initials and link the candidates GH profile.
-- Requests sent to CES that include a candidates name will be removed.
-- Click “Submit”
-
-CES team members will respond to Gitlab Team Member workflow requests in the channel directly themselves and/or ping the designated CES to assist. Once the request is handled, the CES team member will mark the workflow with a green check mark indicating that the request was actioned and resolved.
-
-**The purpose of this private Slack Channel is to:**
-- Condense hiring slack channels that CES has to monitor.
-- Urgent situations will be handled quickly as CES will alternate times to monitor channel.
-- One channel for all GL team members to reach CES
-- Allows contract team members access to all pings for CES
-- Will help distribute workload for CES pings between all of CES
-
-**This will allow:**
-- Quicker response time to requests from GitLab Team Members which will assist in improving interviewer experience.
-- Streamline process for CES to receive and action Urgent requests from GitLab Team Members.
-- Provide a more accessible point of contact for CES rather than an email.
-- Will assist in providing coverage for when CES members are offline or on PTO.
 
 #### Prelude
 
