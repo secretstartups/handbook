@@ -19,9 +19,9 @@ The Field Security Team, Legal & Corporate Affairs, Field Ops and Sales have cre
 
 1. Upon receipt of a Request for Proposal (RFP) or Request for Information (RFI), the Sales Team Member should ensure that an Account and Opportunity are created in SFDC;
 1. If the RFP will require more than a quote being created (e.g. insight and assistance from various stakeholders), the Sales Team Member should request and receive ASM (or higher) approval via Chatter in the SFDC Opportunity. 
-1. The Sales Team Member will review content in [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries) for any questions related to Security, Legal and ESG. _NOTE:_ All Team Members have a base-line entitlement.
+1. The Sales Team Member will review content in [AnswerBase](https://app.vendorpedia.com/vendor-portal/libraries) for any questions related to Security, Corporate, Privacy, Commercial Legal, and ESG. _NOTE:_ All Team Members have a base-line entitlement.
 1. Sales Team Member should engage [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team), per standard process, for any question related to pricing and/or quoting. 
-1. For questions related to Product, Marketing, Legal and/or ESG which were not answered following the steps above, the Sales Team Member can open an Issue [here](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=RFP_Intake%20Form): **be sure to select the RFP Intake Issue Template**
+1. For questions related to Product, Security, Corporate, Privacy, Commercial Legal, and ESG which were not answered following the steps above, the Sales Team Member can open an Issue [here](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=RFP_Intake%20Form): **be sure to select the RFP Intake Issue Template**
 1. When filling out the **RFP Intake Issue Template** please do the following:
 
     - Select the box for the applicable Content Area(s); and
