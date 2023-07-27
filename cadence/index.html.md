@@ -72,7 +72,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 ## 3 years
 
-1. [Our strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
+1. [Strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
 1. [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro)
 1. [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
