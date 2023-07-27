@@ -120,7 +120,7 @@ Planning issue templates follow a format similar to this. Teams can add addition
 
 Team Planning Issue Templates:
 
-* [Configure Team Template](https://gitlab.com/gitlab-org/configure/general/-/blob/master/.gitlab/issue_templates/Planning_Issue.md)
+* [Environments Team Template](https://gitlab.com/gitlab-org/ci-cd/deploy-stage/environments-group/general/-/blob/master/.gitlab/issue_templates/Planning_Issue.md)
 * [Monitor APM Team Template](https://gitlab.com/gitlab-org/monitor/apm/-/blob/master/.gitlab/issue_templates/planning-issue.md)
 * [Monitor Health Team Template](https://gitlab.com/gitlab-org/monitor/health/-/blob/master/.gitlab/issue_templates/planning-issue.md)
 
