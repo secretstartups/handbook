@@ -34,10 +34,9 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | ---- | ------------ | ------------- | ------------- |
 | Manoj Kumar | Verticurl, Client Success Manager | @ManoSiv | `manojkumar.sivalingam@verticurl.com` |
 | Priya | Verticurl, Campaigns Team Consultant | @priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
-| Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
-| Deepak Devadas | Verticurl, FMM/ABM resource | @deepak.k.verticurl | `deepak.devadas@verticurl.com` |
+| Viswanath R | Verticurl, Project Management | n/a | `Viswanath.R@verticurl.com` |
 | Sowkarthick Ramakrishnan | Verticurl, FMM/ABM resource | @SowKarthick  | `sowkarthick.ramakrishnan@verticurl.com` |
-| Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
+|Ujjai Walter| EMEA FMC Client Success Manager | n/a | `ujjaiwalter.s@verticurl.com` |
 
 ## Project Management - Campaigns team
 {: #project-management-campaigns-team}
