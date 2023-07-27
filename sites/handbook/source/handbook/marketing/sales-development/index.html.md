@@ -518,7 +518,6 @@ SDR Managers will monitor key metrics and ensure they are being handled effectiv
 * [**Video on How to Merge Leads Together**](https://www.youtube.com/watch?v=Q_EyDQdaLZw&ab_channel=GitLabUnfiltered)
 * [**Video on How to Merge a Lead and a Contact Together**](https://www.youtube.com/watch?v=qHrCyKiNwDQ&ab_channel=GitLabUnfiltered)
 
-
 ## Rules of Engagement Quick Guide
 
 * **Is the MQL from an Existing Account?**
@@ -682,15 +681,6 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 
 Whether it be from inbound follow up or outbound prospecting, you’re going to be engaging with prospects who are directly involved in a project or team related to the potential purchase of GitLab within a buying group, either as an evaluator, decision-maker, technical buyer, or influencer. During those interactions, you’ll be looking to gather information related to the SAO qualification criteria.
 
-### Using Chatter in Salesforce
-
-Any changes to lead and contact ownership that you are unable to make yourself are made by your Team Lead or Managers. Please Chatter and tag the relevant people in your direct team. Do not Chatter Sales Support.
-
-If an account you are working is in incorrect AE/SAL ownership this very is likely due to incorrect account data. Changes to account addresses, employees or parent/child association are made by Sales Dev Directors Brian Tabbert (AMER) and Elsje Smart (APAC/EMEA) or Mona Elliott. Please tag the relevant person in Chatter. Do not Chatter Sales Support. Currently we can't change PubSec type or Parent hierarchy.
-
-If an opportunity has incorrect data once it has moved into Stage 1 - Discovery, please Chatter your manager about the required changes, they will then Chatter one of Sales Dev Operations (Ramona, Panos, Ed) once final changes are agreed between you. All the rest of Sales Dev are unable to edit opportunities once they are in Stage 1, so please try and ensure you have all the information on the opportunity _before_ you ask the AE/SAL to accept it.
-
-
 ### Qualification Criteria and SAOs
 
 Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](/handbook/sales/field-operations/gtm-resources/#opportunities)
@@ -715,10 +705,9 @@ At this point, the opportunity will be in your ownership but you can not have yo
 #### When will it be credited as an SAO?
 After the AE/SAL meets with the prospect to verify and supplement qualification criteria, they will move the opportunity into Stage 1 Discovery. The AE/SAL is expected to move the opportunity into the correct stage within 48 hours of the meeting reflected in the "Next Step" date field.
 
-All of Sales Dev are unable to edit opportunities once they are in Stage 1, so please ensure you have all the information on the opportunity before you ask the AE/SAL to accept it.
+If an opportunity has incorrect data after it has moved into Stage 1 - Discovery, please Chatter your manager about the required changes, they will then Chatter someone from Sales Dev Operations (Ramona, Panos, Ed) once final changes are agreed upon. No one else from Sales Dev can edit opportunities once they are in Stage 1, so please try and ensure you have all the information on the opportunity _before_ you ask the AE/SAL to accept it.
 
 If the opportunity is for a new group of users in a Large account where sales is working on a large "central" opportunity, then your opportunity should be merged to that opportunity for you to get credit for the users you have brought to the deal. [See under Stage 8](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in the Sales Go To Market Handbook
-
 
 * [ How to create an opportunity](/handbook/sales/field-operations/gtm-resources/#creating-a-new-business-opportunity-from-lead-record)
 
@@ -728,15 +717,25 @@ Before scheduling the meeting with the AE/SAE, you will need to verify the sales
 2. On ZoomInfo or other sources, verify the HQ of the company or the ultimate user. Unless the account is Named, lead ownership is determined based on the HQ of a company, regardless of the lead's location geographically.
 3. If there's an account already assigned to a different segment, please do not immediately pass leads that your research says should be for another segment. Instead, please chatter ASM and the current account owner with your data. If there is a consensus, please then tag Sales Support for the reassignment. Please be mindful of discrepancies between our SSOT and LinkedIn. There are many cases where LI employee count does not indicate the reality of their employee size. For example, in companies with commonly used names, LI can overstate their employee count. On the other hand, LI can understate the employee count of companies that do not have a very strong tech presence.
 
-#### Lead/Contact Review Admin Lead Record Section
+### Overriding Incorrect Account Assignments
 
-As part of your MQL conversion (lead to account) process, we will need your help in verifying the company address so the account and/or opportunity will populate with the correct territory owner. The fields in the Lead/Contact Review Admin section of the record will all need to be updated with the correct information if there is differing company address information.
+**Before proceeding, please familiarize yourself with our [Account Creation Policy](https://internal.gitlab.com/handbook/sales/data-intelligence/governance/_governance/) and [Sales Segment and Hierarchy Review Process](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#sales-segment-and-hierarchy-review-process).**
 
-These fields will not have an approval process therefore we are relying on Sales Dev to choose reputable sources (ie. an email from a prospect confirming address). The new information will be added into the Lead Waterfall Address field and ETM will rely on this field to route the opportunity when opened.
+Our data isn't perfect. There will be times when ZoomInfo is not reflecting the proper address or employee count for the organization you are working or a parent-child relationship is not properly documented. We have an established workflow through which you can get your accounts assigned to the proper territory and sales team member in these situations.
 
-In **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)**,  a member of the Marketing Ops team goes over the Company address fields and how they are used for Accounting Routing and Opp assignment. 
+**Please note that as a standing rule, SDRs and BDRs should never directly Chatter Sales Support with these issues.**
 
-A list of example "Reputable Sources" will come shortly
+What do I do when ZoomInfo has improper data on an account?
+
+1. The first (and most timely) opportunity to override incorrect ZoomInfo data is when working with a Lead record in Salesforce. When you have verified a correct address/employee count through an accepted source, you should navigate to the **Lead/Contact Review Admin** section on the lead record. Here you can input the correct address and/or employee count, along with the source by which you verified the information. You should always try to input a full address including street number, but in order for the record to route correctly, a postal code, state (when applicable) and country are required. Vital to this process is that you check the box labeled **[Admin] Exclude from Enrichment**. Failure to do this will result in the ZoomInfo data overwriting your changes. This process is modeled in **[this video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered)** courtesy of our Marketing Ops team.
+
+2. If your Lead record override is unsuccessful, you just have an existing account record that you need overriden, or you need a parent-child relationship adjusted, Chatter the appropriate Sales Dev Director to assist you: Brian Tabbert (Global Commercial and ENT AMER), Elsje Smart (ENT APAC/EMEA) or Mona Elliott. In your chatter you need to include the full company address and/or employee count as well as your source for the correct information. The Director will then complete the appropriate **Account Review Admin** fields on the account record. After completing the override, the Director will Chatter you letting you know. At this point, the SalesForce automation process takes effect. This process consists of the following:
+
+    1. Overnight the segment/hierarchy updates
+    2. Territory rules run and update the territory
+    3. Account job runs and updates the account demographics fields and the Owner/BDR Assigned on the account
+     
+This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist. 
 
 #### How do I request SAO credit on a Web Direct opportunity?
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
