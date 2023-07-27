@@ -49,7 +49,7 @@ motivate and inspire others to build and strengthen their promotion documents. I
 public promotion documents are part of GitLab's  
 [Promotion Philosophy](/handbook/people-group/promotions-transfers/#promotion-philosophy). 
 GitLab Support team members can link their internally 
-public promotion documents in this section. Having a public in-progress promotion document is **optional**. It is encouraged for Staff+ promotions.
+public promotion documents in this section. Having a public in-progress promotion document is **optional**. If you are open to share your in-progress promotion document with the Support team you can use the Slack channel: #support_team-chat.
 
 If you want to list your document here, decide what level of publicity you are comfortable with. Set the appropriate access for the GitLab group in the document's _Share_ settings: You can keep it read-only (`Viewer`), allow others to comment and suggest edits (`Commenter`) – or fully open it to collaboration (`Editor`).
 
