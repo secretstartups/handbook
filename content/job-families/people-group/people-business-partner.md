@@ -2,7 +2,11 @@
 title: "People Business Partner"
 ---
 
-People Business Partners (PBPs) are responsible for aligning business objectives with people solutions in the organizations they support. In many companies, the role is referred to as HR Business Partner (HRBP). Successful PBPs act as business professionals, team member champions, and change agents. PBPs are HR experts who partner with and advise the business by maintaining literacy about the business unit's financial position, its midrange plans, its way of operating, and its competition.
+People Business Partners (PBPs) are responsible for aligning business objectives with people solutions in the organizations they support. A PBP acts as a trusted and strategic advisor, coach, and change agent to senior leadership, providing data driven insights and expertise on people-related matters, to inform and support a tightly aligned business and talent strategy.
+
+People Business Partners are aligned across all divisions and departments at GitLab to ensure dedicated partnership.
+
+PBPs contribute to the overall success of People Group driven initiatives by facilitating engagement of other People Group DRI's when appropriate, providing insights from client groups to inform new program and iterations, and championing key initiatives.
 
 ## Associate People Business Partner (PBP)
 
@@ -12,14 +16,14 @@ The Associate People Business Partner is a [grade 5](https://about.gitlab.com/ha
 
 ### Responsibilities
 
-- Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level; may support VP depending on organizational structure.
-- Analyzes trends and metrics in partnership with the People Ops group to develop solutions, programs, and opportunities for learning.
+- Forms effective relationships with the client groups and consults with line management, providing People guidance when appropriate. Typically supports front line managers through director-level
+- Gathers data to aid in trend analysis and gain insight to contribute to solutions, programs, and opportunities for learning.
 - May engage with Team Member Relations on basic employee relations issues to provide context, create a plan in conjunction with Team Member Relations, and keep managers apprised of the status as needed.
-- Maintains knowledge of legal requirements related to day-to-day management of team members, reducing legal risks and ensuring regulatory compliance.
+- Learn legal requirements related to day-to-day management of team members, reducing legal risks and ensuring regulatory compliance.
 - Works closely with management and team members to improve work relationships, build morale, and increase productivity and retention.
 - Partners with team members globally to ensure a vibrant and effective workplace.
-- Provides guidance and input on division restructures, workforce planning and succession planning.
-- Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews.
+- Provides insight on division restructures, workforce planning and succession planning with guidance and support from their manager.
+- Executes on company-wide Talent Programs within their client group, including Annual Talent Assessment and Compensation Reviews with support from PBP team. May provide tactical support on these programs which benefit the broader PBP team.
 
 ### Requirements
 
@@ -29,7 +33,7 @@ The Associate People Business Partner is a [grade 5](https://about.gitlab.com/ha
 - Effective verbal and written communications.
 - Passion for results; able to deliver full-cycle projects (start to finish) and results in a timely manner.
 - A team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
-- Ability to solve moderate to complex problems; resourceful and takes initiative to seek internal and external resources when problem-solving.
+- Ability to solve problems of basic complexity; resourceful and takes initiative to seek internal and external resources and support when problem-solving.
 - Experience working with Global Talent (Americas, EMEA, APAC) strongly preferred.
 - Very strong EQ, with fine tuned instincts and problem solving skills.
 - Bachelor's degree preferred
@@ -136,6 +140,44 @@ This job may be an individual contributor or a manager of people, but the title 
 - Comfortable with high volume and very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work daily.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
 
+## Senior Manager, People Business Partner (PBP)
+
+### Job Grade
+
+The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+### Responsibilities
+
+- Typically supports e-group and multiple VPs across one or more functions. Partners with senior leadership on a wide range of matters related to talent and is seen as a thought leader on people/business issues of all levels. May consult on talent strategy, management development, team member engagement programs, organizational design/development.
+- Constantly forecasting and predicting issues and takes measures to course correct before impact within client group
+- Uses data to identify trends and develops and influences solutions to drive results in the organization. Results may have reach beyond immediate client group.
+- Maintains deep expertise of their client groups' business, operating model, objectives, and industry trends.
+- Develops and drives People programs and processes from start to finish that align with GitLab goals and values. Deliver meaningful results to the client group with ongoing improvements that take into account both the client group and broader GitLab impact
+- Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
+- Partners with client group leadership team and relevant People groups to drive a talent strategy focused on engagement and retention of top talent. Works with Total Rewards and Talent and Engagement to ensure key trends and retention levers are addressed and used effectively.
+- Provides guidance and input on business unit restructures, workforce planning and succession planning
+- Own specific iterations related to company-wide Talent Programs based on feedback from their client group and PBP team.
+- Executes on company-wide Talent Programs within their client groups, including Annual Talent Assessment and Compensation Reviews, ensuring alignment to broader People priorities in execution.
+- Facilitates connection to other People Group DRI's when appropriate to remain focused on the most impactful work while ensuring relevant DRI's are engaged
+
+
+### Requirements
+
+- Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
+- Expert-level experience in a variety of HR competency areas such as organizational design and development, leadership development, change management, performance management, and employee relations.
+- Strong attention to detail and ability to work well with fluid information.
+- Comfortable using technology, including Google Workspace and Gitlab.
+- Effective and concise verbal and written communication skills; ability to collaborate cross-functionally.
+- Obsessed with results that matter; able to create and deliver full-cycle projects (start to finish) and results in a timely manner.
+- Team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
+- Ability to solve complex problems; resourceful and takes initiative to seek internal and external resources when problem-solving.
+- Very strong EQ, with fine-tuned instincts and problem-solving skills. Demonstrates sound, consistent, trusted judgment.
+- Experience working with Global Talent (Americas, EMEA, APAC); remote experience preferred.
+- Comfortable with high volume and very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work.
+- Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
+
+
+
 ## Director, People Business Partner (PBP)
 
 ### Job Grade
@@ -146,6 +188,7 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 
 - Forms effective relationships with the client groups and consults with executive level management, providing People guidance when appropriate. Typically supports at least one C-level executive, as well as multiple VPs.
 - Mentors, coaches and provides feedback to managers at all levels; also mentors other People team members.
+- Constantly forecasting and predicting issues and takes measures to course correct before impact within own client group and in collaboration with other PBPs to do so across multiple divisions when appropriate
 - Identifies great talent, internally and externally, who will raise the bar on the team.
 - Analyzes trends and metrics in partnership with the People Operations and DIB groups to develop solutions, programs, and opportunities for growth.
 - Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
@@ -154,7 +197,7 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 - Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
 - Identifies learning needs for business units and individual executive coaching needs. Participates in evaluation and monitoring of learning solutions to ensure success. Follows up to ensure learning and development objectives are met.
 - Lead iterations to company-wide Talent Programs based on feedback from aligned departments, PBP team, L&D, and other stakeholders.
-- Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews.
+- Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews, ensuring alignment toward broader People priorities in execution.
 - Support e-group level talent discussions in partnership with CPO
 
 ### Requirements
@@ -171,6 +214,41 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 - Strong drive and initiative with the ability to self-manage.
 - Successfully able to manage high volume, very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work daily.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
+
+
+## Senior Director, People Business Partner
+
+### Job Grade
+
+The Senior Director, People Business Partner is a [job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+- Partner with executive leaders across GitLab to develop a talent strategy by Division including organizational design and effectiveness, talent management, team member engagement, and other key people initiatives. Typically supports multiple e-group members along with VPs within their client groups.
+- Mentors, coaches and provides feedback to leaders as appropriate; also mentors other People team members.
+- Sets the vision, builds, and leads a team of highly collaborative and effective People Business Partners
+- Partners with executives to lead through change with impact across multiple divisions or lines of business
+- Interacts frequently with e-group and senior leadership on matters critical to the success, engagement, and retention of our team members
+- Partners with other People Group leaders to contribute to our talent strategy and People programs that meet the needs of our team members through a demonstrated understanding of the business and deep knowledge of the organization they support
+- Leverages understanding of multiple Divisions needs and goals to make connections across the business to increase collaboration, efficiency and results across teams
+- Is a role model and champion of GitLab values themselves, and challenges leaders to maintain commitment to our CREDIT values through our People practices as we scale
+
+
+### Requirements
+
+
+- Extends that of the Director, PBP
+- Relevant, progressive HR experience, with at least 10 years as a business partner supporting Senior Executive and/or C-level leaders.
+- Experience leading People Business Partner teams or other People teams
+- Demonstrated ability to use data to influence strategic business and talent decisions with company wide impact
+- Effective and concise verbal and written communication skills with the ability to influence even the most challenging stakeholders
+- Resourceful and takes initiative to seek internal and external resources when problem-solving.
+- Identifies opportunities and successfully implements Talent program development aligned to the business needs at scale.
+- Experience leading Global Teams; remote experience strongly preferred.
+- Very strong EQ, with fine-tuned instincts and problem-solving skills. Consistently demonstrates sound, trusted judgment
+- Able to switch between strategic and tactical work daily and make recommendations to improve tactical processes for scale.
+- Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
+
 
 ## Specialties
 
