@@ -57,6 +57,7 @@ The Distribution team works together on [Bug Prioritization](https://about.gitla
 Process:
 
 - Team creates a new [Planning issue](https://gitlab.com/gitlab-org/distribution/team-tasks/-/issues/?label_name%5B%5D=Planning%20Issue)
+- SET creates a new issue using [Bug Prioritization template](https://gitlab.com/gitlab-org/quality/quality-engineering/team-tasks/-/issues/new?issuable_template=Distribution%20Bug%20Prioritization)
 - SET reviews open bugs using [Distribution Issues](https://app.periscopedata.com/app/gitlab/1045553/Distribution-Issues)
   - Add [Severity labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) to bugs that are missing a severity label
   - Review open bugs following [Prioritization Guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/bug-prioritization/#prioritization-guidelines)
