@@ -171,13 +171,24 @@ Learn about the steps we take to share our content.
 
 After content has been crafted and published, the next step is distribution. Here are some steps to assist in the process:
 
-1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
+1. Use the [UTM Generator](/handbook/marketing/developer-relations/utm-strategy/#utm-generator) to create UTM codes and short URLs for your content. Further insights about this can be found in the Developer Evangelism [UTM Strategy](/handbook/marketing/developer-relations/utm-strategy/). 
+
+For documentation and community:
+
+1. Tutorial blog posts, demos, etc. that are helpful to everyone should be added to the [GitLab documentation](https://docs.gitlab.com/). Follow the contribution docs and create [related topics](https://docs.gitlab.com/ee/development/documentation/topic_types/#related-topics) headings if not existing. Raise an MR, use content short URLs, and ask the [designed technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) to review. Example MR: [Add tutorial blog posts to workspaces docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/127500)
+1. Consider sharing your content on one of our community platforms like the [GitLab Forum](https://forum.gitlab.com/) or the [r/gitlab](https://www.reddit.com/r/gitlab) subreddit. If you're covering a topic that's broader than GitLab, you can also consider other subreddits or cross-posting your content on blogging sites like dev.to.
+
+For social media: 
+
 1. Draft some copy for sharing your content on social media. See [Content Sharing](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#content) for tips and an overview of different platforms. Review the [message tips](/handbook/marketing/developer-relations/developer-evangelism/social-media/#message-tips) for additional engagement ideas, e.g. emojis.
 1. Suggest your content as a story on Bambu so other GitLab team members can also share it. [Details on how to suggest content on Bambu](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/team-member-social-advocacy/#suggesting-content-for-team-members-to-share-on-bambu).
-1. Consider sharing your content on one of our community platforms like the [GitLab Forum](https://forum.gitlab.com/) or the [r/gitlab](https://www.reddit.com/r/gitlab) subreddit. If you're covering a topic that's broader than GitLab, you can also consider other subreddits or cross-posting your content on blogging sites like dev.to.
 1. After posting your content on social media, share a link in the [`#social-media-action`](https://gitlab.slack.com/archives/C01AZ9C8Z4G) Slack channel to request promotion from the social media team. 
+
+For GitLab teams:
+
 1. Content that can be useful to our Field Teams, should also be posted in [Highspot](https://gitlab.highspot.com/). 
 1. Share an update in the [#dev-evangelism-and-technical-marketing](https://app.slack.com/client/T02592416/CMELFQS4B) Slack channel using the following message template:
+
 
 ```
 :results-tanuki: <Content type> published: <title>
