@@ -58,9 +58,8 @@ The GitLab Authorized Reseller logo allows your prospects and customers to know 
 * Use the GitLab Authorized Reseller logo on your materials where appropriate and in accordance with our [brand and logo guidelines](https://design.gitlab.com/brand-logo/core-logo/).
 * The logos are available in the [README file](https://gitlab.com/gitlab-com/resellers/) of the resellers project. Also, the logos can also be downloaded from the Marketing collection of the Asset Library in the [Partner Portal](https://partners.gitlab.com).
 
-### **GitLab Press Kit**
-
-Download the [GitLab Press Kit](https://about.gitlab.com/press/press-kit/) for access to our latest "About Us" information as well as other key details. Note, a press release kit for you to use to announce your partnership with GitLab is available in the marketing section of the Partner Portal. 
+### **GitLab Public Relations Request**
+Any requests for public relations support must go through the CAM as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
 
 ### **Partner Instant Marketing Campaigns** 
 
