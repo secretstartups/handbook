@@ -284,11 +284,14 @@ Any use of GitLab’s name, brand, or logo requires prior email approval by GitL
 
 ### GitLab Vendor Reference Requests
 
-If you receive a vendor request for GitLab to act as a reference (case study, blog post, press release, GitLab logo on their website, etc.) for the product, service, and/or technology that your GitLab team is using, please refer to the [process outlined](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-strategy/#vendor-reference-requests) on the Brand Strategy team's handbook.
+If you receive a vendor request for GitLab to act as a reference (case study, blog post, GitLab logo on their website, etc.) for the product, service, and/or technology that your GitLab team is using, please refer to the [process](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-strategy/#vendor-reference-requests) outlined on the Brand Strategy team's handbook. If the vendor requests a press release, please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-public-relations-support).
+
 
 ### GitLab Press Releases
 
-GitLab's corporate communications team is the [DRI](/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for writing all press releases that are issued by the company and routing through the appropriate approval process. The team has developed an [issue template to help make the press release development and approval process](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=press-release-template) more streamlined and consistent. If you have any questions on the press release process or how to make an announcement request, please reach out via the `#external-comms` Slack channel or submit an `announcement` [issue template in the Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) (see Requests for Announcements section above).
+GitLab's corporate communications team is the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) (directly responsible individual) for writing all press releases that are issued by the company and routing through the appropriate approval process. If you have questions about the press release process or how to make an announcement request, please reach out via the #external-comms Slack channel or submit an announcement [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=announcement) (see Requests for Announcements section above).
+
+For partner-led blogs or press releases, please refer to the [partner PR request section](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) of the handbook. Note that due to the volume of requests, GitLab rarely writes joint press releases.
 
 ### Using Public Issues to Communicate with Users
 
