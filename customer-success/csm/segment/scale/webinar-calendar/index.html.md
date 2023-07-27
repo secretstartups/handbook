@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### GitLab - The AI Powered DevSecOps Platform
-##### July 26th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Join us to learn about the evolution of the Gitlab platform from DevOps to DevSecOps to the new AI-powered DevSecOps platform!
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_M5uLxfsURdWQxl1x1R1e_A#)
-
 #### DevSecOps/Compliance
 ##### July 31st, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
