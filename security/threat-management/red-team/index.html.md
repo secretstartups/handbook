@@ -107,6 +107,8 @@ To help ensure consistency, we have created a [project template](https://gitlab.
 
 ## Is This the Red Team?
 
+### Why we don't answer this question
+
 The goal of a Red Team operation is often to test our policies and procedures when reacting to an actual threat. This includes identifying suspicious activity and following the appropriate runbook to investigate and respond to that threat.
 
 If any team member, at any time, could simply ask *"Hey, this looks suspicious. Is this our Red Team?"* then this opportunity would be lost. **Instead, all suspicious activity should be treated as potentially malicious and acted upon accordingly**.
@@ -115,6 +117,16 @@ We have private Slack channels in place where designated team members can ask th
 
 You can read more about this process in the ["deconfliction" section](./red-team-roe.html#deconfliction-process) of our rules of engagement.
 
-If the Red Team is ever asked *"Is this you?"* by someone who is not fully informed on an active operation, they will respond with the following text:
+### How the Red Team will respond to this question
 
-> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [https://about.gitlab.com/handbook/security/#contact-gitlab-security](https://about.gitlab.com/handbook/security/#contact-gitlab-security).<br><br>Red Team operations provide an opportunity to practice these processes, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
+If the Red Team is ever asked *"Is this you?"* by someone other than the designated team members mentioned above, they will respond with the following text:
+
+> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [https://about.gitlab.com/handbook/security/#contact-gitlab-security](https://about.gitlab.com/handbook/security/#contact-gitlab-security).<br><br>Red Team operations provide an opportunity to practice detecting and responding to real-world attacks, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
+
+### How others should respond to this question
+
+Because we want to treat all activity as potentially malicious, anyone else receiving this question should also use a consistent response. Feel free to use your own words. The following can be a guide: 
+
+> We want to treat any suspicious activity as potentially malicious. Let's continue following our normal procedures to report and investigate this. Any Red Team operation will have controls in place to keep things from escalating too far. You can read more about this here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
+
+If the person receiving this question happens to be a Security Director or a trusted participant in an ongoing stealth operation, they can then use established channels to communicate with the Red Team.
