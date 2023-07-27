@@ -51,11 +51,13 @@ For CSMs with larger books of business, it is appropriate to update an AE or SAE
 
 The CSM will ask the initial renewal question, this should be a ['soft'](https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/7214-soft-fact-questions.html) question to see if there is any risk in the account and to provide time to mitigate any risk.  An example of this soft question is, "I know you have your renewal coming up in the next few months - how are you feeling about the renewal currently, and are there any changes you are considering that we can prepare for?"
 
+Another good approach is to align this renewal conversation with the customer's budget rounds, typically happening mid-year (june/july). You can then ask the customer if they have foreseen in budget for GitLab Licenses in their next fiscal year.
+
 If the customer indicates any risk of contraction or churn in this conversation, the [CSM sets the CSM Sentiment field to red](/handbook/customer-success/csm/health-score-triage/#red), which then overrides the 'Overall Health' field to red also.  
 
 It's important that the CSM asks this question no later than the 30-day window from when the CTA is automatically opened:
  - If risk is indicated, 3 months can be enough time remaining to make a meaningful change to outcomes
- - If a renewals manager is involved, they will be reaching out the customer about the renewal itself 10 weeks before the renewal and being informed at this time of renewal risk will make our approach much more sensitive to the customer scenario
+ - If a renewals manager is involved, they will be reaching out the customer about the renewal itself, 10 weeks before the renewal. Being informed, at this time, of renewal risk, will make our approach much more sensitive to the customer scenario.
  
 If the status of the renewal is already known (renewal conversation with SAE or AE has happened, negotiations or contract is in-flight), the CSM can close the renewal CTA selecting the appropriate close reason. 
 
