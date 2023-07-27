@@ -17,23 +17,23 @@ description: "This page is an overview of the search team alignment and the tale
 | Commercial Sales,	AMER | Hannah Stewart  | Michelle Jubrey |
 | Commercial Sales,	EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
-| Field Operations,	US/EMEA | Kelsey Hart  | Sruthy Menon |
+| Field Operations,	US/EMEA | Kelsey Hart  | Alice Crosbie |
 | Customer Success, EMEA | Debbie Harris and Joanna Muttiah | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
-| Marketing, BDR/SDR (Global)| Caroline Rebello |  Michelle Jubrey |
+| Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
 | G&A, Legal | Steph Sarff | Michelle Jubrey |
 | G&A, Accounting, People | Steph Sarff | Michelle Jubrey |
-| G&A, IT | Kelsey Hart | Sruthy Menon |
+| G&A, IT | Kelsey Hart | Alice Crosbie |
 | Internal | Jenna VanZutphen | Sruthy Menon |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
 | Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
 | Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
-| Support | Joanna Michniewicz  |  Guido Rolli |
-| Security | Matt Angell | Guido Rolli|
-| Incubation | Matt Angell  | Guido Rolli |
-| Product Management  | Matt Angell  | Guido Rolli |
+| Support | Joanna Michniewicz  |  Alice Crosbie |
+| Security | Matt Angell | Alice Crosbie |
+| Incubation | Matt Angell  | Alice Crosbie |
+| Product Management  | Matt Angell  | Alice Crosbie |
 | UX  | Riley Smith | Guido Rolli |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
