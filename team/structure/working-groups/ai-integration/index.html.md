@@ -68,8 +68,15 @@ This is a list of topics that we want to discuss:
 
 ### Exit Criteria
 
-The table below lists all exit criteria for the working group. This is the [top-level epic](https://gitlab.com/groups/gitlab-org/-/epics/9997).
+The following criteria should be met for the group to disband:
 
+- Product teams have a clear method to build and integrate AI into GitLab product areas.
+- The integration platform should have a [product group](https://about.gitlab.com/handbook/product/categories/) handling maintanence and feature development
+- We have a structured methodology for evaluating new AI models, adding them to the integration platform to allow them to be consumed by product teams.
+- We have a roadmap plan to achieve GA for our initial AI experiments. 
+- Documented process for handling AI feature proposals as part of the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
+- Move [SAFE](/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). 
+- Develop an evaluation process of user experience between options to make more intelligent decisions on which engineering solution we recommend.   
 ### Q2 OKRs
 
 [Deliver X experimental, Y beta, and Z GA AI features](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2048)
