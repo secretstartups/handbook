@@ -70,12 +70,12 @@ Failure alerts looks like below
 
 ### Incremental and full loads
 
-1. Incremental extract 
+1. **Incremental extract** 
 - This is the most convenient methodology, a minimal amount of records is transferred. Prerequisite is that there is a delta column available on the source table level
 - +/- 120 tables are incrementally extracted
 - Load time about 1 hour 30 Minutes
 - Executed every 12 hours 
-2. Full extract (at this moment +/- 100 tables & load tie about 4 hours)
+2. **Full extract** (at this moment +/- 100 tables & load tie about 4 hours)
 - This is the alternative if no delta column is available on source table level, or if records are deleted in the source.
 - +/- 70 tables are incrementally extracted
 - Load time about 2 Hour 20 Minutes
@@ -86,6 +86,35 @@ The extraction methodology is determined via the [manifest file](https://gitlab.
 Below a overview of the end 2 end flow. From GCP snapshot creation up untill dbt processing:
 
 ![load-schema-gitlab-com](./load-schema-gitlab-com.png)
+
+#### Large tables backfilling
+
+In case files in the `Postgres` pipeline definition are changed in the files:
+* [el_gitlab_com_ci_db_manifest.yaml](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/postgres_pipeline/manifests_decomposed/el_gitlab_com_ci_db_manifest.yaml) and
+* [el_gitlab_com_db_manifest.yaml](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/postgres_pipeline/manifests_decomposed/el_gitlab_com_db_manifest.yaml) 
+
+and the changes lead to modifying the table structure and will trigger the backfill. In case some of the huge tables are changed - will be running for a long duration generating an outage for a large number of data sets downstream. 
+
+Check the number of records in the table using the `SQL` command:
+```sql
+SELECT COUNT(1)
+  FROM raw.tap_postgres.{TABLE_NAME};
+```
+
+A suitable example of the enormous table is `CI_JOB_ARTIFACT`.
+
+It is difficult to say what represents _"huge"_ table,  probably everything with over `200m` records should be considered a huge table.
+ 
+> **Warning:** In case you have a huge table among changed tables, avoid deploying the code during the work days. 
+
+Generally, when we have had to do backfill on tables with large volumes of data, we should do it on a weekend so that no business stakeholders are affected by the long execution of backfilling. 
+
+This recommendation is relevant to 2 `DAG`s which are affected by the changes:
+* [el_gitlab_com_ci_db_incremental_backfill](https://airflow.gitlabdata.com/tree?dag_id=el_gitlab_com_ci_db_incremental_backfill)
+* [el_gitlab_com_db_incremental_backfill](https://airflow.gitlabdata.com/tree?dag_id=el_gitlab_com_db_incremental_backfill)
+
+A matching example is exposed in the [**issue**](https://gitlab.com/gitlab-data/analytics/-/issues/15990) should use to backfill your changes.
+
 
 ### Manual Backfill of table from Postgres To Snowflake
 
@@ -154,7 +183,7 @@ FROM `@stage`/experiment_subjects.csv ;
 The stage is the Postgres pipeline stage.
 
 Step 6: Load the data using copy into and load this data in RAW.tap_postgres.gitlab_db_experiment_subjects table.
-
+ 
 ### GitLab Database Schema Changes and DangerFile
 
 The Data Platform team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
