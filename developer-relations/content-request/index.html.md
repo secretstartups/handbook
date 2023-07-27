@@ -24,6 +24,8 @@ This handbook page describes the process for requesting materials from the Devel
 
 In line with GitLab's [dogfooding subvalue](/handbook/values/#dogfooding), our team uses GitLab epics and issues to track requests, plan work, and collaborate. Opening an issue is the best way to initiate a request. To do this, please use the [Developer Relations content request template](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=content-request). By following the template fields and answering included questions, you will provide the information our team requires to triage the request.
 
+[<i class="fas fa-edit"></i> Submit a content request](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=content-request){:.btn .btn-purple-inv}
+
 ## How we triage requests
 
 Our team reviews all incoming requests for new content according to the following process:
