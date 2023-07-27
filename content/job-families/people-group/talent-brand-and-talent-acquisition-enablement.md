@@ -59,13 +59,15 @@ The Progam Manager, Enablement is a [grade 6](https://about.gitlab.com/handbook/
 #### Program Manager, Enablement Responsibilities
 
 - Act as project manager for recruiting operations initiatives
-- Run our talent acquisition surveys
 - Work with Senior Manager, Enablement to develop bespoke reporting for the TA function and analyze recurring metrics
 - Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm
 - Manage procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
-- Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
+- Act as subject matter expert on 2+ areas of Enablement work, for example:
+    - Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
+    - Oversee all technical systems for the Candidate Experience team such as Prelude, Guide, and TextExpander
+    - Develop significant Greenhouse expertise and utilize those skills to make smart decisions for data integrity while owning data cleanup
+- Act as liaison between Enablement and at least one other team, such as Candidate Experience, Legal, or Finance
 - Proactively suggest and run teambuilding and incentive programs for the team
-- Partner with TA Leadership Team and utilize project management skillset to keep the team focused on weekly metrics and OKR progress
 - Ensure inclusivity in establishing processes and policies for our TA team members and candidates alike by focusing on Diversity, Inclusion, and Belonging
 
 #### Program Manager, Enablement Requirements

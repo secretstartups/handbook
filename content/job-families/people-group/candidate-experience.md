@@ -80,7 +80,7 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 ### Responsibilities
 
 - Build and manage a team of Candidate Experience Specialists
-- Manage candidate experience directly for all executive and confidential hires, providing an exceptional and high touch candidate experience
+- Manage candidate experience for  complex hires, including executive and confidential hiring, ensuring an exceptional and high touch candidate experience
 - Recommend and implement tools and processes that will continuously improve our candidate experience
 - Provide input into the recruiting strategies that will impact candidate experience and scheduling
 - Work closely with various internal functional groups to understand business requirements, and consult on talent solutions
@@ -91,7 +91,7 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 
 ### Requirements
 
-- Experience with recruiting coordination at all levels, including Executive
+- Experience with recruiting coordination at multiple levels, including Executive
 - Experience managing and influencing others, and building out trainings to upskill team members
 - Excellent project management skills
 - Experience partnering closely with sourcers, recruiters, hiring managers, and candidate experience specialists/recruiting coordinators
@@ -100,6 +100,38 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 - Solves problems in thoughtful, strategic ways that incorporate broader goals
 - Able to use, or willingness to learn, GitLab
 
+
+## Manager, Candidate Experience
+
+### Job Grade
+
+The Manager, Candidate Experience is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+- Build and manage a high-functioning Candidate Experience team with distinct KPIs
+- Coach Candidate Experience Specialists in terms of career progression and professional growth
+- Recommend and execute on strategic and data-driven decisions on behalf of the candidates and Candidate Experience Specialists
+- Implement tools and processes that will continuously improve our candidate experience
+- Provide recommendations into the recruiting strategies that will impact candidate experience for all of Talent Acquisition
+- Work closely with various internal functional groups and Talent Acquisition Managers to understand business requirements, and consult on talent solutions
+- Stay connected to the competitive landscape, including trends in recruiting coordination and candidate experience
+- Maintain a high level of understanding of our ATS and its integrated people systems to ensure that the full Candidate Experience team maintains data integrity
+- Own surveys related to candidate experience and work across teams to communicate and improve results
+- Provide consistent training and best practices to the rest of the recruiting team
+- Consistently balance business needs with a maintaining a quality, innovative candidate experience
+
+### Requirements
+
+- Experience with recruiting coordination at all levels and a strong understanding of all aspects of Talent Acquisition
+- Experience managing and influencing others, and building out trainings to upskill team members
+- Experience implementing new ways of working across a globally distributed team
+- Excellent project management skills
+- Experience partnering closely with management and leadership across a company
+- Proven organizational skills with high attention to detail
+- Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse)
+- Solves problems in thoughtful, strategic ways that incorporate broader goals and consider business needs
+- Able to use, or willingness to learn, GitLab
 
 ## Career Ladder
 
