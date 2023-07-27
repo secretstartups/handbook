@@ -368,27 +368,31 @@ There is no integration with Marketo. However, through the [Marketo program/SFDC
 
 ### NetSuite
 
-We will eventually be able to use an FTP data integration to download actual expenses from NetSuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
+Expenses are loaded from NetSuite to Allocadia by Marketing Finance, [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for AP, so generally at the end of the month. These expenses will automatically map to the line items and show in the `Actuals` column in the Activity Plan if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do it's best guess but without the Allocadia ID, we will need to confirm or correct.
 
 
-#### Mapping Expenses
+#### Mapping Expenses via Line Item IDs
 
-The huge advantage of having an Allocadia ID tagged throughout the systems is that it can then be used to easily match line item plans/forecasts with actuals.
-Allocadia has set up the following (hardcoded!) mapping for our instance:
+The huge advantage of having an Allocadia ID tagged throughout the systems is that it can then be used to easily match line item plans/forecasts with actuals. **Classifications (aka line item IDs) are no longer required to be created in NetSuite.** 
 
-1. Map to a Line Item by ID, using the 7 digits found in Class: Name
+Think of each line item ID as its own budget line. Each Allocadia line item ID will represent that particular budgetary item (versus using one main line item ID for all event charges, as was our previous practice).
 
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Existing Salesforce Campaign field
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Campaign Name to be Created field
-If Class: Name is not “- No Class -“, map to a Line Item by a match on the Comments field. 
+**Example Event in Allocadia:**  
 
-2. If Department: Name field = [name], map to the activity plan with a matching Department: Name rollup panel field value
-**NOTE: This means that if we change the name of the activity plan department, we need to let Allocadia know!**
+![Example Event](/handbook/marketing/strategy-performance/allocadia/Alloscreenshot.png)
 
-3. If Department: Name = Field Marketing + Subsidiary: Name = `Gitlab XXX`, map to the `Y REGION` folder
+In this example, you would use your sponsorship line item ID when submitting your sponsorship contract through Zip. You would then use your swag line item ID when submitting your swag order through Zip. If you used your Navan card for shipping charges and additional booth charges, you would enter those individual line item IDs into Navan when submitting your receipts (see below for more information regarding the new Navan field.)
 
-To find expenses that need to be mapped after the NetSuite actual upload, go to the home page. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from NetSuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
+#### Submitting Expenses
 
+##### For expenses submitted through Zip/Coupa:
+   - Populate the line item Allocadia ID in the Zip request - this will ensure the PO and invoice are both mapped to the correct Allocadia line item
+   - Marketing Finance will confirm the Allocadia line item ID is correct and is properly forecasted. Zip/Coupa requests without Allocadia IDs will not be approved until an ID is provided. See [screenshot](https://drive.google.com/file/d/1DoyN4_uTlYO5q1VGPN-NRiL8M0Lv76z9/view?usp=sharing) for example.
+
+##### For expenses submitted through Navan:
+   - Enter the Allocadia line item ID in the `Allocadia ID (Marketing Only)` field when submitting the expense. This will ensure the expense is mapped to the correct Allocadia line item ID. See [screenshot](https://drive.google.com/file/d/1o4eeas6uxeBzUtxevBgZrhQkEv4duD7_/view?usp=sharing) for example.
+
+To find expenses that need to be mapped after the NetSuite actual upload, go to the home page in Allocadia. In the `Actuals` column, see if your `Map` column has a Map (#) in red. If so, click on that link, and it will open a new screen to show you what needs to be mapped. Scroll over to see descriptions, invoice numbers, etc from NetSuite. All you do is select the hierarchy category and then the line item to match each one to. Then hit map. You can also bulk map by shifting /clicking several lines and then hit bulk map for a smaller screen with its own “map” button.
 If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
 
 ##### Field Marketing Expense Mapping
