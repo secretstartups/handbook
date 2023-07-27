@@ -22,6 +22,20 @@ is correct. We define here our most current processes for determining scope,
 gathering data and feedback, choosing a path forward, rolling out a change,
 managing adoption, and reviewing results for future improvements.
 
+### This process is not limited to the GitLab Support Leadership Team
+
+If you're looking to roll out a global change (see definition below), you might
+have been directed to this process. Global changes are commonly but not
+exclusively handled by the GitLab Support Leadership Team. For that reason, this
+process is documented within the "Managers" handbook section.  
+This does not mean the process should only be followed by managers. If you're
+having trouble with any part of it, reach out for guidance – either to your
+manager or SEs who followed the process before.
+
+Examples of SEs using the process:
+ - [Slack groups per SGG and region](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4618#gitlab-support-process-change-rollout-plan)
+ - [Limit PagerDuty Notifications in `#support_self-managed` to Triggered Events](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5090)
+
 ## Start with a Request for Comments (RFC)
 
 An RFC is a safe space for a lively discussion where all contributors bring
