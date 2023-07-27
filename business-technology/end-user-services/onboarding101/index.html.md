@@ -55,17 +55,14 @@ Tip: If two or more users use the same MacBook Pro, each user can add a fingerpr
 ## MacBook Cheat Sheet 
 
 If you are new to using a MacBook or switched from another OS such as windows check out these useful shortcuts and options!
-<details><summary>Click Here for Tips!</summary>
 
 ![mactips2.png](mactips2.png)
 
 ![mactips1.png](mactips1.png)
 
-</details>
-
 ### Official Apple Training
 
-Apple has official training sessions available every week! These training sessions are great if you are new to using a MacBook or want some tips and insider knowledge on using a MacBook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e)
+Apple has official training sessions available every week! These training sessions are great if you are new to using a MacBook or want some tips and insider knowledge on using a MacBook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e).
 
 ## Laptop Setup: Linux
 
