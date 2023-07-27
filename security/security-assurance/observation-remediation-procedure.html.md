@@ -129,6 +129,7 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 - [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
 - [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html)
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
+- [Insight Charts](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/insights/#/Observation_Issues_Chart)
 - [Control Health and Effectiveness Rating Procedure](https://about.gitlab.com/handbook/security/security-assurance/control-health-effectiveness-rating.html)
 
 ## Contact & Feedback
