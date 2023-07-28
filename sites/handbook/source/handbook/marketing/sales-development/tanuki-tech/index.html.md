@@ -111,8 +111,8 @@ TT251: Competitive Workshop
 >
 > 3 credit hours
 
-TT252: Competitve Objection Handling (WIP)
-> In this class, we discuss objection handling techniques and demonstrate how to utilize them in your sales conversations.
+TT252: Influence and Persuasion
+> In this class, we discuss more advanced objection handling techniques and introduce influence and persuasion.
 >
 > 3 credit hours
 
@@ -197,7 +197,7 @@ To qualify for promotions, sales development team members are required to keep u
 | -------------- | ----------- | ----------- |
 | First quarter  | TT100, TT101, TT102, TT103, TT110, onboarding checklist, inbound, sales quick starts | TT100, TT101, TT102, TT103, TT110, onboarding checklist, outbound, sales quick starts |
 | Second quarter | TT120, TTT201, T210, TT211, TT251 | TT120, TT201, TT210, TT211, TT251 |
-| Third quarter  | TT200, TT220, TT300 | TT200, TT220, TT300 |
+| Third quarter  | TT200, TT220, TT252, TT300 | TT200, TT220, TT252, TT300 |
 | Fourth quarter | TT301, TT330 | TT301, TT330 |
 
 To see your current progress, see [here](https://docs.google.com/spreadsheets/d/1P7QvZ09F8OT7LJTeMRYbu6_Oxjw9UdouaJ5Oeo8SU8k/edit?usp=sharing).
