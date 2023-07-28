@@ -502,14 +502,17 @@ We have the following automation goals for the Remote Development Workflow. Unle
 
 **Automation:**
 - Issues in ~rd-workflow::prioritized but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration (TODO: implement)
-- Issues in ~rd-workflow::prioritized and with weight assigned but no assignee should get a warning comment (TODO: implement)
-- Issues in ~rd-workflow::prioritized and specific milestone but no weight assigned should get a warning comment (TODO: implement)
+
+**Goal:** To ensure closed issues are in the correct state
+
+**Automation:**
+- Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.  (TODO: implement)
 
 **Goal:** Syncing Remote Development workflow and GitLab workflow labels
 
 **Automation:**
 - Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"workflow::refinement" assigned (TODO: implement)
-- Unstarted issues in ~rd-workflow::prioritized but with ~"workflow::refinement" assigned should get ~"workflow::ready for development" assigned (TODO: implement)
+- Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned (TODO: implement)
 - Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
 
 **Goal:** To ensure issues and MRs are 1-1
