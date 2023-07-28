@@ -1361,9 +1361,13 @@ Below are some attributes of political and non-political work environments. GitL
 | Values are weaponized and used out of their intended context | Team members utilize values with a positive intent |
 | Team members are driven by self-interest | Team members are driven by company interest |
 | Team members work in silos | Team members optimize globally  |
-| People have territorial behaviors | People have [short toes](#short-toes) |
+| People have territorial behaviors and are quick to perceive suggestions as attacks | People have [short toes](#short-toes) |
 | People have unhealthy alliances with backroom conversations | People have good intent and actively collaborate with folks |
 | Information is intentionally withheld | Information is shared early (often WIP) and at the same time with all interested parties  |
+| People try to undermine each other's credibility by arguing with the weakest part of their argument | People take a ["steel man" position](/values/#assume-positive-intent) and argue against the strongest version of your opponent’s position |
+| Folks do not provide direct feedback. Instead, they withhold their thoughts or speak behind each other's backs | Feedback is given directly. This includes feedback about a manager's team |
+| Communicating your own suggestions through a report instead of directly | Feedback is given directly from the person who has it |
+| Evaluating proposals or work by who said or did it instead of by what is in it | Proposals and work is evaluated without regard to who worked on them |
 
 {{< youtube id="vEk9z5vumB8" >}}
 
