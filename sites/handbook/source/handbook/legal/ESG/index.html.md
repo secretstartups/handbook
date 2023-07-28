@@ -18,7 +18,7 @@ Environmental, social, and governance (ESG) practices, although newly formalized
 
 In December 2022, we conducted an ESG materiality assessment to determine which ESG topics are most important to our business and our stakeholders. Through engagement with both internal and external stakeholders, we explored which ESG topics have the greatest impact on GitLab’s business, and where we have the potential to have the greatest impact on the environment, society, and our global communities. Our materiality matrix was finalized in January 2023.
 
-In 2023, we plan to release our inaugural ESG report as a new section in our Handbook. This section will include GitLab-related ESG data, our strategy, our goals, and our progress. In the meantime, the links below provide relevant information on our ESG initiatives to date. 
+In 2023, we released our inaugural [FY23 ESG Report](https://about.gitlab.com/handbook/esg/) in the Handbook. The report includes information on our key ESG focus areas, our programs and policies, acheivements to date, metrics and targets, and plans for the future. 
 
 ## ESG Request Process
 
@@ -141,6 +141,9 @@ Here are GitLab’s current key topics with their drivers:
 
 ## Our Progress
 Please read our [ESG report](https://about.gitlab.com/handbook/esg/) to learn about our progress. 
+
+## ESG Training 
+To learn more about ESG at GitLab, please take our ESG Training course available on [LevelUp](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/esg-training) and in the [Handbook](https://about.gitlab.com/handbook/legal/ESG/ESG-Training/). 
 
 ## Measuring Results 
 
