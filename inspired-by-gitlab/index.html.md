@@ -99,6 +99,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "We are building our own handbook inspired by Gitlab. Thank you to the entire Gitlab team for open sourcing so much information."
 1. [Synura](https://www.synura.com)
    - "Founded by a [former GitLab employee](https://twitter.com/j4yav), Synura is a video collaboration app that follows most GitLab remote work practices including a [public handbook](https://www.synura.com/handbook/).
+1. [Gozynta](https://www.gozynta.com)
+   - "We were inspired by Gitlab to start Gozynta as a remote-first company in 2018.  This model has given us the flexibility to build a great team spread across 5 different countries, and has permitted our founders to move to a new country themselves (something they never imagined being able to do before).  We use Gitlab internally to manage our development team, and keep coming back to the Gitlab Handbook for additional inspiration on how to run our company better.  Thanks Gitlab!"
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
