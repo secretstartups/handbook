@@ -123,52 +123,7 @@ Wider community members should contact the [Contributor Success Team](/handbook/
 
 ### Ruby Gems
 
-When publishing gems for GitLab, you should:
-
-1. Ensure the gem doesn't become orphaned, or unable to be published, by either:
-   - Using the [`gitlab-qa`](https://rubygems.org/profiles/gitlab-qa) RubyGems.org user.
-     The user credentials can be found in the 1password `Engineering` vault.
-   - Adding it to the list of [Gem Owners](https://guides.rubygems.org/managing-owners-using-ui) on RubyGems.org. You can also do this from a command line with the `gem` tool. For example, run this command to make the `gitlab-qa` user a co-owner:
-
-      ```shell
-      $ gem owner <gem_name> --add gitlab-qa
-      ```
-
-1. Follow the [gem development documents](https://docs.gitlab.com/ee/development/gemfile.html#gitlab-created-gems).
-1. Optional. Add some or all of the following users as co-owners:
-   - [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
-   - [Rémy Coutable](https://rubygems.org/profiles/rymai)
-   - [Stan Hu](https://rubygems.org/profiles/stanhu)
-1. Optional. Add any other relevant developers as co-owners.
-
-#### New version release
-
-Gem projects should use the [shared CI/CD config](https://gitlab.com/gitlab-org/quality/pipeline-common/-/blob/master/ci/gem-release.yml)
-to release and publish new gem versions by adding the following to their `.gitlab-ci.yml`:
-
-```yaml
-include:
-  - project: 'gitlab-org/quality/pipeline-common'
-    file: '/ci/gem-release.yml'
-```
-
-Note that this will include access token configuration inherited from the `gitlab-org` group, which will
-be used to upload the gem package to rubygems.org.
-
-Make sure to create a `v0.0.0` tag if you don't already have any [SemVer](https://semver.org) tag so
-that the auto-release can compute the diff when releasing the actual first version of the gem.
-This job will handle building and publishing the gem, as well as creating the tag, release and populating its release notes by
-using the [Generate changelog data](https://docs.gitlab.com/ee/api/repositories.html#generate-changelog-data) API endpoint.
-
-For instructions for when and how to generate a changelog entry file, see the dedicated [Changelog entries](https://docs.gitlab.com/ee/development/changelog.html) page.
-
-[To be consistent with the GitLab project](https://docs.gitlab.com/ee/development/changelog.html),
-Gem projects could also define a changelog YAML configuration file at `.gitlab/changelog_config.yml` with the same content
-as [in the `gitlab-styles` gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/blob/master/.gitlab/changelog_config.yml).
-
-To ease the release process, you could also create a `.gitlab/merge_request_templates/Release.md` MR template with the same content
-as [in the `gitlab-styles` gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles/-/raw/master/.gitlab/merge_request_templates/Release.md)
-(make sure to replace `gitlab-styles` with the actual gem name).
+Follow the [development guidelines for Ruby gems](https://docs.gitlab.com/ee/development/gems.html).
 
 ## Relevant links
 
