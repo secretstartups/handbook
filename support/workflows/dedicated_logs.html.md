@@ -95,3 +95,14 @@ SAML related fields:
 Use this OpenSearch filter to find logs related to the GitLab application:
 
 - `kubernetes.labels.release: gitlab` 
+
+### Examples
+
+#### Identify a deleted group or project
+
+Information about deleted groups and projects is available in the **Audit Events**. The customer should be able review this information in the **Admin Area**. Provided the deletion occurred within the log retention window, additional information can be sought in Opensearch. In order to identify more information about a deleted project or group in Opensearch, you can use this information to guide the [filters](#filters) that you use. 
+
+- `meta.caller_id`: `GroupsController#destroy` or `ProjectsController#destroy`
+
+You can look at the values in `username`, `user_id` (or `meta.user_id`) to get more information about the user that issued the deletion request. 
+
