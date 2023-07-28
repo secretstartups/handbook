@@ -19,7 +19,7 @@ Support can access GitLab Dedicated tenant logs through our [OpenSearch](https:/
 
 ## Identifying tenants
 
-Each customer has a dedicated set of credentials needed for examining logs are stored in the `GitLab Dedicated - Support` vault. Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
+Each customer has a dedicated set of credentials needed for examining logs that are stored in the `GitLab Dedicated - Support` vault. Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
 
 ## Accessing logs
 
@@ -100,7 +100,7 @@ Use this OpenSearch filter to find logs related to the GitLab application:
 
 #### Identify a deleted group or project
 
-Information about deleted groups and projects is available in the **Audit Events**. The customer should be able review this information in the **Admin Area**. Provided the deletion occurred within the log retention window, additional information can be sought in Opensearch. In order to identify more information about a deleted project or group in Opensearch, you can use this information to guide the [filters](#filters) that you use. 
+Information about deleted groups and projects is available in the **Audit Events**. The customer should be able to review this information in the **Admin Area**. Provided the deletion occurred within the log retention window, additional information can be sought in Opensearch. In order to identify more information about a deleted project or group in Opensearch, you can use this information to guide the [filters](#filters) that you use. 
 
 1. Select **Add filter**
 1. Click **Select a field first**
