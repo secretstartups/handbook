@@ -213,6 +213,44 @@ Our North Star KPI is [revenue](https://about.gitlab.com/company/kpis/#sales-kpi
 
 Our yearly plans are linked from the [relevant cadence section](/company/cadence/#year){:data-ga-name="cadence"}{:data-ga-location="body"}.
 
+### How will the three year strategy process work
+
+1. The first phase of the strategy process is the Market Vision, SWOT and Positioning Strategy.
+   1. Market Vision is our shared view of the market over the next ~3 years. Where is the market headed? What factors are influencing the market direction? Where are the points of change, as these will be the points of control?
+   1. SWOT stands for Strengths, Weaknesses, Opportunities and Threats.
+   1. Positioning strategy will highlight the way we want to position the company over the next three years. This will drive key decisions and tradeoffs we need to make in the strategy.
+1. The second phase of the strategy process is taking the SWOT, positioning strategy and define the GTM, Product and Operations strategy. The output of these three strategies will be the strategic priorities for each, capabilities needed that we have and that we need to develop and the things we will explicitly not do.  In addition we will define 3-5 big bets the company will take - this will fold in under the strategic themes. Once we have these 3 to 5 themes we will synthesize them into a corporate strategy that ensures alignment among GTM, Product and Operations strategy.
+1. Third phase will be the [Long Range Plan](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro) process.
+1. Fourth phase will be defining yearlies and the [annual operating plan](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan).
+
+### Big Bet Process
+
+Activity
+
+Positioning and SWOT published in [internal handbook](https://internal-handbook.gitlab.io/handbook/company/swot-and-positioning/) with description of strategy process two weeks post offsite
+- May 15th eGroup review (Complete)
+
+eGroup capability gap exercise at eGroup offsite (prework)
+- Stella
+- Complete: Jun 28th
+
+Complete capability gap exercise at VP level to bring more input into the group
+- Directs Group
+- Drafts: July 12th
+- Final: July 19th
+
+Pull together comprehensive view of capabilities from eGroup and VP sessions
+Craig/Dave
+- July 24th
+
+eGroup June Virtual Offsite Sessions:
+- Decide on GTM, Ops and Product strategies
+- Decide on top capabilities for investment (feed into LRO)
+- Craig/Dave
+- Aug 1-3rd
+
+Kickoff LRO with inputs from this process
+
 ## Why is this page public?
 
 Our strategy is completely public because transparency is one of our [values](/handbook/values/){:data-ga-name="transparency values"}{:data-ga-location="body"}.
