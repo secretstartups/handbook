@@ -86,6 +86,7 @@ Find the appropriate workflow below to process requests submitted to our [Person
 
 - [Deletion Requests](#deletion-requests)
 - [Data Access Requests](#data-access-requests)
+- [Data Export (Right to Portability)](#data-export-requests-right-to-portability)
 - [General Questions](#general-questions)
 
 As a reminder, before processing a request you should make sure that you have already [Streamlined Your Workflow](https://about.gitlab.com/handbook/support/workflows/personal_data_access_account_deletion.html#streamlining-your-workflow) to make requests easier to process.
@@ -121,7 +122,7 @@ If any of the automated checks fail, the user will receive an auto-generated res
 
 #### **Step 1:** Await Challenges
 
-If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) in an auto-generated response. Users have a total of **7 calendar days** to respond to the challenge questions.
+If all of the automated checks succeed, the user will receive a set of [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions) in an auto-generated response. Users have a total of **7 calendar days** to respond to the challenge questions.
 
 At this stage, do the following:
 
@@ -334,6 +335,25 @@ Use the following workflows based on the type of request submitted.
 
 1. In the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new), create a new confidential issue using the [personal_data_access_request](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) template, populating the title with the email address of the original request.
 1. **Follow the instructions in the top of the template**, then complete each step in the issue that begins with `Support Engineer:` in order.
+
+## **Data Export Requests (Right to Portability)**
+
+Use this workflow for data export request submissions. Note that we can only action on this if the request is for personal namespace projects, or projects in groups where the user is the _only_ member. You can visit the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel if you have any questions.
+
+1. The user will receive an auto-response directing them to [the project export steps for self-serve](https://docs.gitlab.com/ee/user/project/settings/import_export.html#export-a-project-and-its-data). Keep this issue opened for 7 days and close after that time if there are no further updates. Apply the `Export Request::self-serve` label.
+1. If the user runs into any issues using the self-serve steps, they can reply to the auto-response with more details about the error they are receiving. If they reply *after* the issue has been closed, re-open the issue.
+1. Before we continue to assist, we must validate their identity. Manually send the customer the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions) through the issue. Users have a total of **7 calendar days** to respond to the challenge questions.
+1. Follow the same steps we use for account deletion requests to validate their account: 
+    - [Await challenges](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-1-await-challenges)
+    - [Evaluate answers](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate)
+1. Only if the user passes account validation, start the process to get them project exports.
+   1. If the user cannot sign in, export project using [the UI](https://docs.gitlab.com/ee/user/project/settings/import_export.html#export-a-project-and-its-data) or [the API](https://docs.gitlab.com/ee/api/project_import_export.html#schedule-an-export).
+   1. If there are errors, follow [the project exports workflow](https://about.gitlab.com/handbook/support/workflows/importing_projects.html#project-exports). You can also search ZenDesk for examples of past project export tickets from *paid* customers for additional troubleshooting help and ideas.
+1. Upload the project exports to a new folder in the "Personal Data Requests" shared drive. Share the request specific folder with the user and let them know they should download the files within 7 days.
+1. After 7 days, unshare the request related folder and ask them to confirm they have the files.
+1. Once their issue is resolved, close the issue and apply the `Export Request::complied` label.
+
+**Important Note:** Because we can not deny free users from support to export their data if they run into a problem, we will need to assist them through the issue (not ZenDesk). 
 
 ## **General Questions**
 
