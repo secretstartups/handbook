@@ -93,6 +93,13 @@ The convention at GitLab is to display [Manager](/company/team/structure/#manage
 
 * `Manager, Brand Growth Manager` in the Marketing Division
 * `Manager, IT` in the Finance Division
+* `Manager, Software Engineering` in the Development Sub-department
+* `Manager, Support Engineering` in the Support Sub-department
+
+Senior Manager roles follow the same convention. For instance
+
+* `Senior Manager, Software Engineering` in the Development Sub-department
+* `Senior Manager, Support Engineering` in the Support Sub-department
 
 This convention is used in Workday, the system of record. For display in the handbook and to preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division 
 generally follow this naming pattern: 
@@ -100,9 +107,9 @@ generally follow this naming pattern:
 `Engineering Manager, [Specialty]`
 
 Accounting for temporary management positions, the Senior manager track, 
-different types of manager roles (such as `Backend` or `Support`), and the potential for one or more specialties yields:  
+different types of manager roles (such as `Support`), and the potential for one or more specialties yields:  
 
-`[Acting|Interim] [Senior] [Backend|Frontend|Fullstack|Site Reliability|Support|Quality] Engineering Manager [, Specialty]`
+`[Acting|Interim] [Senior] [Site Reliability|Support|Quality] Engineering Manager [, Specialty]`
 
 Where: 
 
