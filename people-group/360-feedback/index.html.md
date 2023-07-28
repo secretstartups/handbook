@@ -102,24 +102,34 @@ During this 360 Feedback cycle we will be using the Individual Effectiveness 360
 - Start: What is one thing that (X or you) could start doing to help your team to succeed?
 - Continue: What do you believe (X or you) excel(s) at that should be continued?
 - Stop: What do you believe are (X's or your) biggest opportunities to improve that could make a real difference?
-- Open question: Please add anything else, not listed above, that you'd like to continue, improve or do more of.
+- Open question: Please add anything else, not listed above, that you'd like to continue, improve or do more of. Or use this opportunity to provide additional feedback. 
 
 #### Multiselect Options
 
-To help guide team members in giving feedback, CultureAmp is offering options under the Start, Stop, Continue questions. When giving feedback you can select up to three options that you would say are applicable. If there are no options that match your feedback please use the option "Other". From there, you can elaborate in the comments section. 
+To help guide team members in giving feedback, CultureAmp is offering options under the Start, Continue and Stop questions. When giving feedback you can select up to three options that you would say are applicable. If there are no options that match your feedback please use the option "Other". From there, you can elaborate in the comments section. 
 
-The options shown are: 
+The options shown align with [GitLab Competencies](https://about.gitlab.com/handbook/competencies/#list): 
 
-- Collaboration: Communicating information, ideas and concepts clearly. Working well with a range of people from across the business.
-- Feedback: Actively giving, seeking and responding positively to thoughtful feedback.
-- Inclusion: Involving others. Inviting people to contribute their opinions and ideas.
-- Iteration: Experimenting with innovative ideas and approaches / being open to new ways of doing things.
+- Collaboration: Working effectively with a range of people from across the business.
 - Results: Producing high quality work. Providing practical solutions to problems and finding ways to make improvements. Taking the lead and showing ownership of issues. Demonstrating a bias for action.
-- Growth mindset: Eager to learn and committed to ongoing development.
 - Efficiency: Prioritizing work and managing time well.
-- Transparency: Actively keeping people informed about what is happening. Being open and transparent.
+- Diversity: Recognizes and avoids unconscious biases.
+- Inclusion: Recognizing the difference among teams and inviting people to contribute to remove barriers.
+- Belonging: Is an ally, willing ot take action in support of another person in order to remove barriers.
+- Iteration: Experimenting with innovative ideas and approaches / being open to new ways of doing things.
+- Transparency: Actively keeping people informed about what is happening. Being open to contribution and collaboration.
+- Feedback: Actively giving, seeking and responding positively to thoughtful feedback.
+- Growth mindset: Eager to learn and committed to ongoing development.
 - Technical Competence: Demonstrating a high level of domain, functional and/or technical capability. 
+- Manager of One: Develops their daily priorities to achieve goals. Sets the tone for their work, assigns items and determines what needs to get done as a self-leader. 
+- Effective Communication: Uses our asynchronous communication guidelines; communicating with transparency and respect to stay connected and work efficiently.  
+- Handbook First: Actively contributes to the handbook, references the handbook to answer questions and clarify direction, uses judgment to contribute and leverage public and internal handbooks.
+- Using GitLab: Uses GitLab effectively for day-to-day work, opening, commenting and moving issues, submitting merge requests, and leveraging epics when appropriate.
 - Other. 
+
+#### Manager Feedback
+
+Direct reports of managers that participate in the 360 feedback process will be asked to rate where their manager should better focus their efforts in order to support the team. Specific areas for rating are related to GitLab's [manager and leadership competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies). The rating scale is a normalized, 5-point scale from "much less focus" to "much more focus," with an option for additional comment.  
 
 ### Culture Amp Resources For Coaches 
 1. [360 feedback overview for coaches](https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s)
