@@ -573,11 +573,11 @@ Consider the following best practice when taking notes in meetings:
 
 If you have any questions about what may or may not be a sensitive topic, please refer to our SAFE Framework or reach out via the `#safe` Slack channel
 
-### No presenting in meetings
+### Few meetings with presentations
 
 [Presenting](/handbook/communication/#common-meeting-problems) during meetings requires valuable synchronous time. Instead, recorded presentations make content accessible, prevent confusion, and increase participation for team members that prefer consuming content [asynchronously](/handbook/values/#bias-towards-asynchronous-communication). Remember it is not required to have a presentation or have a pre-recorded presentation.
 
-In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in meetings.
+In the video below, GitLab CEO Sid Sijbrandij explains why there are no presentations in most meetings.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/32GJ2ehUBhs" frameborder="0" allowfullscreen="true"> </iframe>
@@ -605,6 +605,17 @@ There are times when presenting during a meeting is needed. This may occur when 
 1. Use Zoom to create a pre-recorded video presentation.
 1. Post the recording to the GitLab [Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and attach it to the meeting agenda.
 1. At least 24 hours in advance of the meeting, announce in Slack Channels that the meeting has a pre-recorded video, and all attendees are advised to watch beforehand.
+
+#### Framework for meetings with presentations
+
+While most meetings should not have presentations, there are a few exceptions. Specifically, we may use synchronous touch points in meetings with large numbers of folks. These tend to be meetings used for building team cohesion and alignment. For example, [GitLab Assembly](/company/gitlab-assembly/) or the [Functional Leaders Meeting](/company/offsite/#functional-leaders-zoom-call). 
+
+GitLab has the following meeting framework for determining which meetings should have presentations:
+
+| Presentation Approach | Types of meetings with few participants | Types of meetings with many participants |
+| ------------- | ------------- | ------------- | ------------- |
+| No presentations (async prep) | Most meetings | [AMA](/handbook/communication/ask-me-anything/) |
+| Presentations  | These meetings should not happen | [Assembly](/company/gitlab-assembly/) and other large team meetings |
 
 ### Meeting introduction guidelines
 
