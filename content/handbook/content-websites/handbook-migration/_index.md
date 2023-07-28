@@ -13,18 +13,19 @@ description: "Handbook Content is on the move.  This guide shares whats moving a
 |   2   | TeamOps                  |      7      |    0     |  7   | 2023-04-19 | 2023-04-21 |  Completed  |
 |   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 | In-Progress |
 |   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
-|   5   | Engineering              |    1144     |   574    | 547  | 2023-06-06 | 2023-02-16 |  Planning   |
+|   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
 |   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |
 |   7   | IT Self Service          |     12      |    12    |  0   | 2023-06-27 | 2023-06-30 |  Scheduled  |
-|   8   | Company                  |     265     |   200    |  53  | 2023-07-25 | 2023-07-28 |  Planning   |
-|   9   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-15 | 2023-08-18 |  Scheduled  |
-|  10   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |             |
-|  11   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |             |
-|  12   | People Group             |     199     |   180    |  18  | 2023-10-17 | 2023-10-20 |             |
-|  13   | Marketing                |     415     |   423    |  44  | 2023-11-14 | 2023-11-17 |             |
-|  14   | Sales                    |     471     |   423    |  44  | 2023-12-05 | 2023-12-08 |             |
-|  15   | Legal                    |     67      |    67    |  0   | 2024-01-16 | 2024-01-19 |             |
-|  16   | Product                  |     414     |   351    |  64  | 2024-03-05 | 2024-03-15 |             |
+|   8   | Support                  |     212     |   208    |  4   | 2023-07-31 | 2023-08-02 |  Scheduled  |
+|   9   | Company                  |     265     |   200    |  53  | 2023-08-08 | 2023-08-11 |  Planning   |
+|  10   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-15 | 2023-08-18 |  Scheduled  |
+|  11   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |             |
+|  12   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |             |
+|  13   | People Group             |     199     |   180    |  18  | 2023-10-17 | 2023-10-20 |             |
+|  14   | Marketing                |     415     |   423    |  44  | 2023-11-14 | 2023-11-17 |             |
+|  15   | Sales                    |     471     |   423    |  44  | 2023-12-05 | 2023-12-08 |             |
+|  16   | Legal                    |     67      |    67    |  0   | 2024-01-16 | 2024-01-19 |             |
+|  17   | Product                  |     414     |   351    |  64  | 2024-03-05 | 2024-03-15 |             |
 
 #### Status Key
 
@@ -71,7 +72,7 @@ The following content has been earmarked as the next content to move.  This will
 - [x] [https://about.gitlab.com/handbook/documentation/](https://about.gitlab.com/handbook/documentation/) - `/site/handbook/source/handbook/documentation`
 - [x] [https://about.gitlab.com/handbook/being-a-public-company/](https://about.gitlab.com/handbook/being-a-public-company/) - `/sites/handbook/source/handbook/being-a-public-company`
 - [ ] [https://about.gitlab.com/handbook/communications](https://about.gitlab.com/handbook/communications) - `/sites/handbook/source/handbook/communications`
-- [ ] [https://about.gitlab.com/handbook/about](https://about.gitlab.com/handbook/about) - `/sites/handbook/source/handbook/about`
+- [x] [https://about.gitlab.com/handbook/about](https://about.gitlab.com/handbook/about) - `/sites/handbook/source/handbook/about`
 - [ ] [https://about.gitlab.com/faq-gitlab-licensing-technology-to-independent-chinese-company](https://about.gitlab.com/faq-gitlab-licensing-technology-to-independent-chinese-company) - `/sites/handbook/source/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company`
 - [ ] [https://about.gitlab.com/key-review](https://about.gitlab.com/key-review) - `/sites/handbook/source/handbook/key-review`
 - [ ] [https://about.gitlab.com/handbook/group-conversations/](https://about.gitlab.com/handbook/group-conversations/) - `/sites/handbook/source/handbook/group-conversations/`
@@ -79,11 +80,10 @@ The following content has been earmarked as the next content to move.  This will
 - [ ] [https://about.gitlab.com/handbook/environmental-sustainability/](https://about.gitlab.com/handbook/environmental-sustainability/) - `/sites/handbook/source/handbook/environmental-sustainability`
 - [x] [https://about.gitlab.com/handbook/content-websites-responsibility/](https://about.gitlab.com/handbook/content-websites-responsibility/) - `/sites/handbook/source/handbook/content-websites-responsibility`
 - [ ] [https://about.gitlab.com/handbook/inspired-by-gitlab/](https://about.gitlab.com/handbook/inspired-by-gitlab/) - `/sites/handbook/source/handbook/inspired-by-gitlab/`
-- [ ] [https://about.gitlab.com/handbook/about/](https://about.gitlab.com/handbook/about/) - `/sites/handbook/source/handbook/about`
-- [ ] [https://about.gitlab.com/handbook/handbook-usage/](https://about.gitlab.com/handbook/handbook-usage/) - `/sites/handbook/source/handbook/handbook-usage`
+- [x] [https://about.gitlab.com/handbook/handbook-usage/](https://about.gitlab.com/handbook/handbook-usage/) - `/sites/handbook/source/handbook/handbook-usage`
 - [ ] [https://about.gitlab.com/handbook/practical-handbook-edits/](https://about.gitlab.com/handbook/practical-handbook-edits/) - `/sites/handbook/source/handbook/practical-handbook-edits`
 - [ ] [https://about.gitlab.com/handbook/using-gitlab-at-gitlab](https://about.gitlab.com/handbook/using-gitlab-at-gitlab) - `/sites/handbook/source/handbook/using-gitlab-at-gitlab`
-- [ ] [https://about.gitlab.com/handbook/style-guide](https://about.gitlab.com/handbook/style-guide) - `/sites/handbook/source/handbook/style-guide`
+- [x] [https://about.gitlab.com/handbook/style-guide](https://about.gitlab.com/handbook/style-guide) - `/sites/handbook/source/handbook/style-guide`
 
 ### How will this be done
 
@@ -109,7 +109,7 @@ If you have any questions about this please feel free to ask in [#handbook](http
 
 - [x] TeamOps
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#teamops)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#teamops)
 
 #### Company Handbook Content
 
@@ -120,18 +120,18 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [x] Values
 - [x] Being a public company
 - [ ] Communication
-- [ ] Handbook
+- [x] Handbook
 - [ ] Key Reviews
 - [ ] Group Conversations
 - [ ] E-Group Weekly
 - [ ] Sustainability
-- [ ] About the handbook
+- [x] About the handbook
 - [x] Content Websites Responsibility
 - [x] Style-Guide
 - [ ] Inspired By Gitlab
 - [ ] Executive Business Administrators
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#company-handbook-content)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#company-handbook-content)
 
 #### Tools and Tips
 
@@ -141,7 +141,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 - [x] Tools and Tips
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#tools-and-tips)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#tools-and-tips)
 
 #### Infrastructure Standards
 
@@ -151,7 +151,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 - [x] Infrastructure Standards
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#infrastructure-standards)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#infrastructure-standards)
 
 #### IT Self Service
 
@@ -159,9 +159,19 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 **Content to move:**
 
-- [ ] IT Self Service
+- [x] IT Self Service
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#it-self-service)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#it-self-service)
+
+#### Support
+
+**Expected Date** End of July 2023
+
+**Content to move:**
+
+- [ ] Support
+
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#support)
 
 #### Company
 
@@ -180,7 +190,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] OKRs
 - [ ] Workings Groups
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#company)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#company)
 
 #### CEO and CoST Team
 
@@ -191,7 +201,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] CEO pages
 - [ ] CoST Team Pages
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#ceo-and-cost-team)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#ceo-and-cost-team)
 
 #### Security
 
@@ -202,7 +212,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Organizational Change Management
 - [ ] Security
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#security)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#security)
 
 #### Finance
 
@@ -217,7 +227,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Stock Options
 - [ ] Tax
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#finance)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#finance)
 
 #### People Group
 
@@ -236,7 +246,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Total Rewards
 - [ ] Travel
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#people-group)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#people-group)
 
 #### Marketing
 
@@ -247,7 +257,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Marketing
 - [ ] Use-Cases
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#marketing)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#marketing)
 
 #### Sales
 
@@ -260,7 +270,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Resellers
 - [ ] Sales
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#sales)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#sales)
 
 #### Legal
 
@@ -272,7 +282,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] GDPR Policy
 - [ ] Legal
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#legal)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#legal)
 
 #### Engineering
 
@@ -284,7 +294,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Engineering
 - [ ] Support
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#engineering)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#engineering)
 
 #### Product
 
@@ -297,7 +307,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Product
 - [ ] Product Development
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites-responsibility/migration-plan/migration-details/#product)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/content-websites/handbook-migration/migration-details/#product)
 
 ## Refactor and move data
 
