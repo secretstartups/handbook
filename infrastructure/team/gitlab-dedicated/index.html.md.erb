@@ -327,6 +327,16 @@ This can be summarized as follows:
 > * Reviewers remove themselves after they’re done reviewing/approving
 > * The last approver stays as Reviewer upon merging
 
+### Temporary workarounds
+
+There are times when we are impacted by an upstream library bug. While waiting for the upstream library fix we need to apply a temporary workaround that fixes the bug or mitigates an incident.
+
+To reduce the team's cognitive load on having to keep a mental record of all the applied temporary workarounds, we use the following process to track temporary workarounds:
+
+1. Open a followup issue with the label `workaround::active`. The aim of this issue is to ensure we keep track of the workarounds and we can set a process to validate whether the workaround can be removed.
+1. Add a comment in the code describing the workaround and a link to the followup issue. e.g. [workaround on pyyaml bug](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/merge_requests/1873/diffs)
+1. If the temporary workaround involves running scripts by the SRE during maintenance windows, we add the actions in the triage-ops' [tooling-upgrade-toil](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/policies/gitlab-dedicated/tooling-upgrade-toil.yml#L55) policy.
+
 ### Labels
 
 Commonly used labels are:
