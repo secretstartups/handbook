@@ -98,10 +98,11 @@ We can determine if the GitLab Runner registration token was reset for a group o
 
 Kibana can be used to determine who triggered the deletion of a group, subgroup, or project on GitLab.com. To find the log entry:
 
-1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
+1. In `pubsub-rails-inf-gprd-*`, set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.path` for the path of the project, including the group and subgroup, if applicable. This is `gitlab-silver/test-project-to-delete` in this example.
 1. Add a positive filter on `json.method` for `DELETE`.
 1. Observe the results. If there were any they will contain the username of the user that triggered the deletion in the `json.username` field of the result.
+When a project or a group is first going to pending deletion the log entry will have `json.params.key: [_method, authenticity_token, namespace_id, id]`, compare to when a user is [forcing the deletion](https://docs.gitlab.com/ee/user/project/settings/index.html#delete-a-project-immediately) then the log entry looks like `json.params.key: [_method, authenticity_token, permanently_delete, namespace_id, id]` for project or looks like `json.params.key: [_method, authenticity_token, permanently_remove, id]` for group.
 
 To see a list of projects deleted as part of a (sub)group deletion, in sidekiq:
 
