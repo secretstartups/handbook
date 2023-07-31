@@ -21,7 +21,7 @@ title: "Application Security Runbooks"
 - [Threat Modeling]
 - [Investigating Package Hunter Findings]
 - [Release Certification Process](/handbook/ceo/chief-of-staff-team/jihu-support/release-certification.html)
-- [JiHu Contribution Security Review Process](/handbook/ceo/chief-of-staff-team/jihu-support/jihu-contribution-review-process.html)
+- [JiHu Contribution Security Review Process](/handbook/ceo/chief-of-staff-team/jihu-support/jihu-contribution-process.html)
 - [AppSec Engineer's Local Setup][6]
 - [Federal AppSec Container Scanning Review](./federal-appsec-container-scanning-review.html)
 - [JiHu Contribution Merge Monitor Report Process](./jihu-contribution-merge-monitor-reports.html)
