@@ -67,7 +67,7 @@ Decisions that require input, buy-in, or awareness of others should be accompani
     1. Why is this smallest and fastest? A statement on how you are taking an [iterative approach](/handbook/values/#iteration). Otherwise said, could this decision be broken into even smaller parts? If not, why not?
 1. People
     1. Note who was consulted in the decision and proposal alternatives. Documenting who was involved and their role in the decision (consulted or DRI). This helps the team visually see if we have been inclusive in the data gathering phase. 
-1. Alteratives
+1. Alternatives
     1. What alternative approaches were considered, including the one that you recommend? This is also a section to link designs or other external documentation.
 1. Decision
     1. Which alternative or option was chosen? This should be updated following DRIs decision.
