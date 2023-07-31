@@ -353,18 +353,6 @@ For questions about the new team member's onboarding status, you can @mention th
 
 For questions about the new team member's laptop, ping [IT Ops](#it-ops) in Slack. If the questions arise through email, forward the email to itops@gitlab.com and ping IT Ops in #it-ops Slack, and @it-ops-team too due to volume.
 
-### Interview Reimbursement Process
-
-For candidates requesting [interview reimbursment](/handbook/hiring/interviewing/#reimbursement-for-interviewing-with-gitlab) the CES team will partner with the Accounts Payable (AP) team to ensure requests are processed confidentially and in a timely manner. AP and the CES team utilize [GitLab Service Desk](/stages-devops-lifecycle/service-desk/) to track incoming emails to the Interviews@gitlab.com email.
-
-Under the [Interview Reimbursement Service Desk](https://gitlab.com/interview-reimbursement/ap-ces/issues) set up the proper notifications
-   - Click on the bell icon on the top right next to Star and Clone
-   - Go to Custom Settings
-   - Check "New issue"
-   - Closeout the window
-
-Additional process details can be found on the [project README page](https://gitlab.com/interview-reimbursement/ap-ces/blob/master/README.md).
-
 ### Employment Offboarding
 
 When team members depart Gitlab, People Connect will create an offboarding issue. The CES team is responsible for completing tasks under the "@gitlab-com/gl-ces" section. Please note that offboarding issues are time sensitive and should be completed by the due date set on the issue. Completion of these tasks also ensure Gitlab remains compliant. 
