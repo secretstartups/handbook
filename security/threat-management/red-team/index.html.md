@@ -72,7 +72,9 @@ By doing this, we help foster a culture of security awareness throughout the org
 
 ### Red Team Metrics
 
-We want to measure the things that matter. We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
+#### Recommendations
+
+ We are currently tracking the recommendations we provide across the organization and breaking them into the following three categories:
 
 - Detections & Alerts (using the label `RTRec::Detection`)
 - Security Controls (using the label `RTRec::Control`)
@@ -86,6 +88,22 @@ The following issue boards provide a consolidated view of these recommendations.
 - [Red Team Recommendations: gitlab-com](https://gitlab.com/groups/gitlab-com/-/boards/5350979)
 
 We will not measure our team's performance based on simply counting the number of recommendations over a specific time period. Instead, we will try to understand how the recommendations ultimately impact the organization and what we can do to become a more effective Red Team.
+
+#### MITRE ATT&CK Heatmap Coverage
+
+We use MITRE's "[ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)" to generate heatmaps of each completed operation. This is done automatically using CI pipelines and GitLab Pages to host the output. Each operation will have an individual heatmap, and a single combined heatmap will be generated that overlays all previous operations.
+
+This is great way to visualize the types of attack techniques we've emulated, and to help us understand areas we should focus on in future operations.
+
+GitLab team members can [access the application](https://red-team-dashboard-gitlab-com-gl-security-threat-6d74b7b3ac5937.gitlab.io/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
+
+#### Red Team Maturity Model
+
+We use a custom maturity model to measure our progress and help guide our decisions. This is losely based on the [Capabilities Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model). Our model contains five stages of maturity, each with very specific behaviors we strive to demonstrate and states we hope to achieve.
+
+We built this using a GitLab issue board, with each maturity level being a list and each item being an issue. We can collaborate inside the issues, discussing our progress and providing links to related issues and merge requests. As we work on specific items, we will add custom labels to indicate an item is in progress, established, or replaced by an item in a latter maturity level.
+
+GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-maturity-model).
 
 ### Red Team Technique Handover
 
