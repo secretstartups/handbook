@@ -129,6 +129,18 @@ This helps the next engineer who picks up the issue.
 Usually issues are not directly assigned to people, except when
 a person has clearly the most knowledge or context to work on an issue.
 
+### Product Development Workflow
+
+We follow the GitLab [product development workflow](/handbook/product-development-flow/)
+guidelines. To get a high-level overview of the status of all issues in the
+current milestone, check the [development workflow board](https://gitlab.com/groups/gitlab-org/-/boards/2594854).
+
+The process primarily follows this:
+- `workflow::ready for design` to signal an issue was ready to begin the design.
+- `workflow::design` designer would use this to signal it was actively being worked on.
+- `workflow::planning breakdown` to signal this was past the design phase and ready to be scheduled.
+- `workflow::ready for development` to signal it was ready to be worked on for engineering.
+
 ### Development Workflow
 
 We follow the GitLab [engineering workflow](/handbook/engineering/workflow/)
@@ -138,7 +150,7 @@ current milestone, check the [development workflow board](https://gitlab.com/gro
 As owners of the issues assigned to them, engineers are expected to keep the
 workflow labels on their issues up to date. When an engineer starts working an
 issue, they mark it with the `workflow::in dev` label as the starting point
-and continue [updating the issue throughout development](/handbook/engineering/workflow/#updating-issues-throughout-development).
+and continue [updating the issue throughout development](/handbook/engineering/workflow/#updating-workflow-labels-throughout-development).
 Before closing an issue, it's important to add the `workflow::complete` label, because this is one
 of the requirements for the completed items to appear in the Improvements and Bugs
 overview of each month's release post. The process primarily follows this diagram:
