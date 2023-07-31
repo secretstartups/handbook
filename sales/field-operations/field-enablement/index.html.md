@@ -14,203 +14,169 @@ description: "The Field Enablement team's mission is to design and deliver effec
 
 ## Overview
 
-### Field Enablement Vision
-Motivate and inspire the field organization and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors that improve productivity and accelerate growth
+### Field Enablement Team Vision
+To be a recognized partner who contributes to field & partner business outcomes. We inspire our field and partners to achieve high levels of success through the acquisition and application of knowledge, skills and behaviors - at scale - that improve productivity and accelerate customer outcomes & growth.
 
-### Field Enablement Mission
-Design and deliver effective enablement solutions that grow field team members' and partners' expertise and confidence to drive efficient, predictable, and scalable growth for GitLab
+We envision a Field organization that has easy and intuitive access to the information and resources needed to sell effectively, and that is inspired and motivated to be a part of the GitLab team through experiences that drive meaningful connections and engagement.
 
-### Objectives
-1. Improve field efficiency (direct and indirect routes to market) with effective training solutions to address prioritized knowledge and skill gaps and build a culture of learning
-1. Orchestrate people, process, information, and technology to evolve sales conversations and simplify the ecosystem within which field team members operate
-1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates
+### Key Tenets of Field Enablement in FY24 (our ways of working)
 
-### How We Do This
-- Collaborate with cross-functional stakeholders (*including but not limited to Sales, Customer Success, Marketing, Sales/CS/Channel Ops, Product/Engineering, Sales Strategy & Analytics, and the People team*) to address prioritized knowledge, behavior, and skill gaps in the GitLab field organization to achieve desired business outcomes
-- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (*training, technology, knowledge, content, process, and tools*) for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab
-- Ensure field team members are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for their day-to-day work to meet and exceed business objectives
-- Cultivate a culture of curiosity, iteration, and continuous learning & development across the GitLab field organization
+1. **Operate with Efficiency & Scale**
+   1. Minimize FE team task redundancy, improve program processes & rhythm, and build shared enablement services.
+1. **Field Alignment** 
+   1. Establish a field rhythm of business, build feedback loops, build with the field, and respect our global teams.
+1. **GTM Enablement**
+   1. Deliver route-agnostic enablement programs, uniformly upskill field & partners,  drive operational rigor and strengthen strategic selling.
+1. **Transparent and Efficient Field Communications**
+   1. Take the guesswork and ambiguity out of staying up-to-date with programs that focus on aligning to segments and supporting a manager cascading motion.
+1. **Results-Driven Field Content**
+   1. Support a field content experience that provides relevant, easily-accessible & role-based resources to support the GTM motion with a strong feedback loop across stakeholders.
 
-## Contact Us 
-- Want to chat with us? Please Slack us at **[#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team)**. 
-- Have a Field Enablement request? Please use our **[quick request process](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request)** below.
+### Field Enablement Strategy & Deliverables
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpPSI90xsZ4j2tGmPd-5KA3zRobK4WB9PhbgrTKlMtcG1q7g7xi_gUq1_dLBhe_BWJ90HA35-zCNmD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+
+1. View our Annual Deliverables in FY24 (our “yearlies”) on slide 13
+1. View our Deliverables by segment and quarter on slides 11-21
+1. View the Rhythm of Enablement, Comms, & Content (our operating cadence) on slides 8 & 9 
+1. View our team org chart on slide 23 
+
+### Field Enablement Team 
+
+| **Name** | **Title** | **Role** |
+| ------ | ------ | ------ |
+| Ali Shahrazad  | Sr. Director, Field Enablement | Mgr |
+| Kelley Shirazi | Director, Global Sales and Customer Success Enablement | Mgr |
+| Monica Gomez | Sr. Manager, Field Communications & Content | Mgr |
+| Emelie Rodriguez | Staff Program Manager, Global Enterprise Sales | IC |
+| Shannon Thompson | Sr. Field Communications Specialist | IC |
+| Pallavi Daliparthi | Sr. Program Manager, Customer Success Enablement | IC |
+| John Blevins | Sr Program Manager, Onboarding & Continuing Education | IC |
+| Cristian Enache | Sr. Program Manager, EMEA Commercial Enablement | IC |
+| Misty Martin-Zimmerman | Sr Program Manager, AMER Commercial Enablement | IC |
+| Amelia Zaglul | Sr. Program Manager, Executive Sponsorship Program & Field Events | IC |
+
+### How We Measure Success
+
+The Field Enablement and Communications teams track and measure success in three main areas:
+
+1. **Quarterly OKRs:** The Field Enablement Leadership Team prioritizes quarterly OKRs that support the goals of the CRO organization. Status on current progress of Field Enablement OKRs can be found within the [GitLab Objective and Key Results Project](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2867). 
+1. **Quarterly Readouts:** We collate the key results of each quarter in executive summary decks that include overall team achievements and program-specific accomplishments. Current fiscal year readouts can be found below. 
+   1. [Q1 FY24 Field Enablement Results](https://docs.google.com/presentation/d/1Y3pfN0vgYaKCrshnXBGjsBTq6KPYKD5_Jl0jvVRT_g0/edit)
+   1. Q2 FY 24 Field Enablement Results (TBA)
+   1. Q3 FY24 Field Enablement Results (TBA)
+   1. Q4 FY 24 Field Enablement Results (TBA)
+1. **Program Analytics and Impact of Business Outcomes:** We measure the success of our efforts based on the material impact that they have had on the field and our business outcomes.  We inspect and assess 4 levels of measurement:
+   1. Did the intended audience complete or engage with the Enablement? Examples: completions, quiz scores, content/page views. 
+   1. How did the audience think and feel about the Enablement? Examples: satisfaction scores, confidence scores, quality ratings. 
+   1. Were we able to observe an intended behavior? Examples: successful completion of operational tasks, effective message articulation.
+   1. Were we able to attain an intended business outcome? Examples: lower ramp time, accelerated deal cycle time, higher volume or quality of pipeline, lower churn/contraction, improved productivity. 
+
+
+
+
+## How to Work With Us 
+
+When considering how to engage with the Field Enablement team, stakeholders should take into account the following questions: 
+
+1. Does the Field need to **know** something? (Field Comms-only motion)
+   1. A Field Comms motion seeks to inform the Field team of important updates/information via the communication channels outlined on the [Field Communications page](https://about.gitlab.com/handbook/sales/field-communications). 
+1. Does the Field need to **know** AND **do** something? (Field Comms and Enablement motion)
+   1. A Field Enablement motion seeks to enable  the Field team on a particular skill via trainings or accreditations. 
+
+The answer to the above questions will dictate how the Enablement team triages requests across three primary issue templates: 
+
+### Field Announcement Request Issue 
+
+The **[Field Announcement request issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-announcement-request&_gl=1*jp1h94*_ga*NTUxMTYwMTU0LjE2MDIwOTI5Nzc.*_ga_ENFH3X7M5Y*MTY4OTM2ODc3NS4zMjQuMS4xNjg5MzY4OTQ1LjAuMC4w)** gathers requests from DRIs/stakeholders across the business to launch or announce something to the Field team. **Requesters / DRIs should open an issue using this template to track:**
+
+1. Upcoming projects or initiatives that will impact the Field team’s processes or workflows 
+1. Announcements that teams would like the Field to be aware of (organizational or otherwise) 
+1. New resources or tools the Field should know about 
+1. Requests for feedback (i.e. surveys) from the Field team
+
+The issue template includes questions and instructions to assist the Enablement team in determining if the announcement requires a Field Comms-only or Field Comms and Enablement motion. Please complete the required sections of the issue template in full, providing as much detail as possible. Note that ALL questions must be answered prior to Field Enablement triaging your request.
+
+Once the request has been triaged by Field Communications, the team will collaborate with you to clarify any outstanding details and define a launch plan. If a Field Comms and Enablement motion is required, Field Enablement will open a [Field Enablement issue] (below) to scope enablement-related activities and deliverables. 
+
+### Field Enablement Request Issue 
+
+The **[Field Enablement request issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-enablement-request&_gl=1*7k9f9r*_ga*NTUxMTYwMTU0LjE2MDIwOTI5Nzc.*_ga_ENFH3X7M5Y*MTY5MDQ4NTIxMC4zNTUuMS4xNjkwNDg1NTU1LjAuMC4w)** gathers ad-hoc enablement requests from DRIs/stakeholders across the business. **Requesters / DRIs should open an issue using this template to track:**
+
+1. Net-new or refreshed trainings for the Field team 
+1. Net-new or refreshed accreditations for the Field team 
+
+The issue template includes questions and instructions to scope the intended audience(s) for the enablement activities, learning objectives and priority. It also includes questions to determine if Field Communications activities are also required. Please complete the required sections of the issue template in full, providing as much detail as possible. Note that ALL questions must be answered prior to Field Enablement triaging your request.
+
+Once the request has been triaged by Field Enablement program managers (PM), the PM will conduct any additional exploration with the requester/DRI to determine a workback plan.  
+
+### GTM Enablement Process 
+
+For larger, more complex initiatives that involve go-to-market (GTM), cross-functional alignment, Field Enablement has created the **[GTM Enablement Process](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/1500)**. 
+
+This process outlines a prescriptive process, timeline, bill of materials and DRIs for Field Enablement, Partner Enablement, Field Comms and Partner Comms for high-, medium- and low-complexity initiatives.
+
+If Field Enablement determines that your initiative requires a GTM Enablement Process, **the Field Enablement team will open an issue and populate the appropriate deliverables and due dates**. DRIs/Stakeholders will be added to the issue to provide input, answer questions and review. 
+
+### Connect in Slack
+
+To reach the Field Enablement team on Slack, use #field-enablement-team
+
 
 ## Key Programs
-1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
-     - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
-1. Selling Excellence
-    - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
-    - [Command of the Message](/handbook/sales/command-of-the-message) (value-based sales messaging methodology) and [MEDDPPICC](/handbook/sales/meddppicc/) (strategic opportunity qualification)
-    - [Effective Discovery](/handbook/sales/playbook/discovery/)
-    - Continuous Learning
-        - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
-        - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
-        - [Sales Training Resources](/handbook/sales/training/)
-        - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+1. Sales Enablement
+    - [Enterprise Enablement](/handbook/sales/playbook/)
+    - [Commercial Enablement](/handbook/sales/commercial/enablement/)
+1. Customer Success Enablement 
+    - [Customer Success Manager (CSM) Enablement](/handbook/customer-success/csm/csm-development/)
 1. Partner Enablement
      - [Channel Partner Training, Accreditations and Enablement](/handbook/resellers/training/)
 1. Field Onboarding & Ramp
-    - [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
-1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
+    - [Sales & Customer Success Onboarding and Sales Quick Start (SQS)](/handbook/sales/onboarding/)
 1. [Field Communications](/handbook/sales/field-communications/)
-     - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
-     - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
-     - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
-1. [CRO Development Day](/handbook/sales/crodevday/)
-
-## Additional Resources
-- [GitLab Learn: Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel)
-- [Field Accreditation Program](/handbook/sales/training/field-certification)
-- Sales Events
+    - [#field-fyi Slack channel](/handbook/sales/sales-google-groups/field-fyi-channel/)
+    - [Field Update Tickers](/handbook/sales/field-communications/field-update-tickers/)
+    - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
+    - [Field team All-Hands meetings](/handbook/sales/sales-meetings/)
+    - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
+    - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
+1. Field Content 
+    - [Highspot at GitLab](/handbook/sales/field-communications/gitlab-highspot/)
+1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
+     - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
+     - [CRO Development Day](/handbook/sales/crodevday/)
+1. Selling Excellence
+    - [Command of the Message](/handbook/sales/command-of-the-message) (value-based sales messaging methodology) and [MEDDPPICC](/handbook/sales/meddppicc/) (strategic opportunity qualification)
+    - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+    - [Field Accreditation Program](/handbook/sales/training/field-certification)
+    - [Effective Discovery](/handbook/sales/playbook/discovery/)
+    - Continuous Learning
+        - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
+        - [Field Enablement Spotlight Sessions](/handbook/sales/training/sales-enablement-sessions/)
+        - [Sales Training Resources](/handbook/sales/training/)
+        - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
+        - [Level Up: Learning & Development Platform](https://levelup.gitlab.com/learn/dashboard)
+1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
+1. Sales Events
      - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
-- [Sales Playbook](/handbook/sales/playbook/)
-- [Customer Success Enablement](/handbook/customer-success/education-enablement/)
-
-## Strategy
-
-<!-- blank line -->
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOfuEQwPFf4BgCRIK-b685RPc_dj_6zZsLONMBAXFQxgxcusdNfnOJWvEOowYrO_FO_BAuCVrtkYV9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-<!-- blank line -->
-
-## Results 
-
-You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enablement Quarterly Readout decks below: 
-
-- [FY23-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1izOPf8zIAyxs6Urqf-uupNKp1_DD99sWRon2d9q8Gxc/edit?usp=sharing) (GitLab internal only)
-- [FY23-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1pQFvcCjWXi7UVLV5fiJpuffvYB4GP6BhWYaj6SXGF54/edit?usp=sharing) (GitLab internal only)
-- [FY22-Q4 Field Enablement Results Readout](https://docs.google.com/presentation/d/1qwSx76vJzj5ETDclrIc7Asm4_zcp2tKTAO3jutf4IO0/edit?usp=sharing) (GitLab internal only)
-- [FY22-Q3 Field Enablement Results Readout](https://docs.google.com/presentation/d/1Cq2KcEsWehAGG_VaWCVyrXOliv0V8xf5pFWmcdjZ09k/edit?usp=sharing) (GitLab internal only)
-- [FY22-Q2 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit?usp=sharing) (GitLab internal only)
-- [FY22-Q1 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit?usp=sharing) (GitLab internal only)
 
 
-## Handbook-First Approach to GitLab Learning and Development Materials
 
-- Our [Mission](/company/mission/#mission) is that Everyone Can Contribute, and our most important value is [Results](/handbook/values/#results). Like we've extended that to the Handbook, we want to extend it to our learning materials.
-- We want to leverage the best of an e-learning platform, with the benefits of reminders, interactivity, and more but make sure the materials we produce are also available to those who aren't using an e-learning platform, while fulfilling [our mission](/company/mission/#mission).
-- There are benefits to keeping our e-learning material [handbook-first](/handbook/handbook-usage/#why-handbook-first):
-    - Folks who have already completed a formal training through an e-learning platform may want to return to the materials
-    - Those who never go through the formal platform may also benefit from the materials
-    - The handbook continues to be the SSOT, with the e-learning platform leveraging handbook materials through screenshots, embeds, and more
 
-Learn how the GitLab Corporate Learning & Development team takes a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
 
-## Six Critical Questions
 
-Inspired by _The Advantage: Why Organizational Health Trumps Everything Else in Business_ by Patrick Lencioni
 
-<details>
-<summary markdown="span">1. Why does the GitLab Field Enablement team exist?</summary>
-See our team mission in the [Overview](/handbook/sales/field-operations/field-enablement/#overview) section.
-</details>
 
-<details>
-<summary markdown="span">2. How do we behave?</summary>
 
-On our best day, we show up with a positive attitude while demonstrating [GitLab’s values](/handbook/values/) along with the following behaviors to overcome the [Five Dysfunctions](/handbook/values/#five-dysfunctions):
 
-- **Trust**: Extend trust, actively listen, and assume noble intent; give and receive feedback with respect and solicit feedback often
-- **Embrace Healthy Conflict**: Engage in constructive conflict for the purpose of achieving shared goals & objectives; resolve personal issues, quickly and directly
-- **Commitment**: Support decisions once decisions are made with a GitLab team-first approach
-- **Accountability**: Hold ourselves and each other accountable while encouraging each other & celebrating successes
-- **Results**: Strong drive for results and a focus on the customer; demonstrate passion for continuous learning & improvement
 
-</details>
 
-<details>
-<summary markdown="span">3. What does the Field Enablement team do?</summary>
-See "How we do this" in the [Overview](/handbook/sales/field-operations/field-enablement/#overview) section.
-</details>
 
-<details>
-<summary markdown="span">4. What does success look like?</summary>
-
-The below is a work in progress as we define success measures across each stage of the customer journey:
-
-- **Engage & Educate the Customer**
-    - Increase # of rep-sourced opps
-    - Accelerate sales cycle time and improve conversion of MQLs to SAOs
-    - Accelerate and improve predictability of new rep ramp time
-- **Progress the Opportunity & Close the Deal**
-    - Increase # of closed deals per rep
-    - Accelerate sales cycle time and improve conversion of SAOs to Closed/Won deals
-    - Increase average sale price (inclusive of improved product mix to sell more Premium and Ultimate)
-    - Accelerate and improve predictability of new rep ramp time
-    - Improve forecasting accuracy
-    - Improve win rates
-- **Retain & Expand**
-    - Improve renewal rates (inclusive of up-sell and cross-sell)
-    - Accelerate customer time to value
-    - Increase breadth of stage adoption
-
-Activity does not equal Performance 
-Knowledge does not equal Capability 
-
-Activity x Capability = Performance 
-Knowledge x Practice = Capability 
-
-</details>
-
-<details>
-<summary markdown="span">5. What is most important right now (2HFY22)?</summary>
-
-[**FY22-Q4 Field Enablement OKRs**](https://gitlab.com/groups/gitlab-com/-/epics/1614)
-
-</details>
-
-<details>
-<summary markdown="span">6. Who must do what?</summary>
-
-- **[Sr. Director, Field Enablement](https://handbook.gitlab.com/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
-    - TBH
-- **[Manager, Field Enablement](https://handbook.gitlab.com/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
-    - [Kelley Shirazi](/company/team/#kelley-shirazi) (Manager, Sales Enablement)
-    - [Kris Reynolds](/company/team/#kreynolds1) (Sr. Manager, Customer Success Enablement)
-- **[Role-based Enablement Managers](https://handbook.gitlab.com/job-families/sales/program-manager-field-enablement/)**
-    - [Emelie Rodriguez](/company/team/#emelier) (Sr. Program Manager, Enterprise Sales Enablement)
-    - TBH (Sr. Program Manager, Enterprise Sales Enablement (EMEA & APAC))
-    - [Misty Martin-Zimmerman](/company/team/#mzimmers) (Sr. Program Manager, Commercial Sales Enablement (AMER))
-    - [Cristian Enache](https://about.gitlab.com/company/team/#cenache) (Program Manager, Commercial Sales Enablement (EMEA & APAC))
-    - [Blair Fraser](/company/team/#bfraser) (Sr. Program Manager, Partner Enablement)
-    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Sr. Program Manager, Customer Success Manager Enablement)
-    - TBH (Sr. Program Manager, Solution Architect Enablement)
-- **[Director, Revenue Programs](https://handbook.gitlab.com/job-families/sales/revenue-programs/#director-revenue-programs)**
-    - [Allison Gleisner](/company/team/#agleisner) 
-- **[Field Enablement Program Managers](https://handbook.gitlab.com/job-families/sales/program-manager-field-enablement/)**
-    - [John Blevins](/company/team/#jblevins608) (Program Manager, Field Onboarding and Continuous Education)
-    - [David Hernandez](/company/team/#dhernandez26) (Sr. Program Manager, Field Manager Development)
-- **[Field Communications & Content](https://handbook.gitlab.com/job-families/sales/field-communications)**
-    - [Monica Gomez](/company/team/#monicaj) (Manager, Field Communications & Content)
-    - [Shannon Thompson](/company/team/#shannonthompson) (Field Communications Specialist)
-    - TBD (Senior Program Manager, Sales Content)
-
-</details>
-
-## Making a Field Enablement Request
-
-If you have a great training idea and/or enablement request, we'd love to hear it! Please make an enablement request by following this quick process:
-
-- Submit an issue using [this issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=field-enablement-request)
-    - Please be descriptive in the issue in order to give our team the necessary context to review and prioritize your request. Note that ALL questions must be answered prior to Field Enablement triaging your request.
-- Upon submitting your request, the issue will be tagged as `FE priority::new request` and `FE status::triage`
-- Field Enablement will triage the request as quickly as possible. Upon examining the request, the team will assess the priority and status by labeling it with one of the following labels (please see label definitions in section below):
-    - Priority:
-        - `FE priority::1`
-        - `FE priority::2`
-        - `FE priority::3`
-    - Status:
-        - `FE status::wip`
-        - `FE status::backlog`
-- Field Enablement will collaborate with the requester on the request details directly in the issue to clarify any missing information, set up a discovery call, and/or update on next steps.
-- 
-
-If you have a Field Communications request (process change, announcement, etc.), please see the request process outlined [here](/handbook/sales/field-communications/#requesting-field-announcements).
 
 ## Field Enablement groups, projects, and labels
 
