@@ -76,8 +76,6 @@ The Field Enablement and Communications teams track and measure success in three
    1. Were we able to attain an intended business outcome? Examples: lower ramp time, accelerated deal cycle time, higher volume or quality of pipeline, lower churn/contraction, improved productivity. 
 
 
-
-
 ## How to Work With Us 
 
 When considering how to engage with the Field Enablement team, stakeholders should take into account the following questions: 
@@ -159,24 +157,6 @@ To reach the Field Enablement team on Slack, use #field-enablement-team
         - [Sales Training Resources](/handbook/sales/training/)
         - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
         - [Level Up: Learning & Development Platform](https://levelup.gitlab.com/learn/dashboard)
-1. [Revenue & Pipeline Acceleration Programs](/handbook/sales/revenue-programs/)
-1. Sales Events
-     - [Sales Kickoff](/handbook/sales/training/SKO)
-     - [Sales QBRs](/handbook/sales/sales-meetings)
-     - [GitLab President's Club](/handbook/sales/club/)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Field Enablement groups, projects, and labels
 
