@@ -10,10 +10,6 @@ green="\e[32m"
 yellow="\e[93m"
 red="\e[31m"
 
-#Set up 1password and glab
-export OP_PLUGIN_ALIASES_SOURCED=1
-alias glab="op plugin run -- glab"
-
 # Globals
 HANDBOOK_REPO=$(git rev-parse --show-toplevel)
 DIRECTORY_TO_SPLIT=NOSET
