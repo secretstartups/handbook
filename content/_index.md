@@ -12,7 +12,6 @@ title: The GitLab Handbook
 <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ms-3 fas fa-bars" type="button" data-bs-toggle="collapse" data-bs-target="#td-section-nav" aria-controls="td-section-nav" aria-expanded="false" aria-label="Toggle section navigation"></button>
   </form>
 
-{{< blocks/link-down color="info" >}}
 {{% /blocks/cover %}}
 
 {{< homepage-data-toc >}}
