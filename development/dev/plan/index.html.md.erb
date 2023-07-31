@@ -308,6 +308,35 @@ The DRI is responsible for completing the following actions:
 
 In both the summary comment and video the DRI should be particularly careful to ensure all information disclosed is [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). If the retrospective discussion contains examples of unSAFE information, the issue should not be made public.
 
+### Regressions
+
+Regressions contribute to the impression that the product is brittle and unreliable. They are a form of waste, requiring the original (lost) effort to be compounded further with a fix or a reversion and reimplementation of the intended behavior.
+
+Engineering Managers are strongly encouraged to conduct a simple [Root Cause Analysis](https://about.gitlab.com/handbook/engineering/root-cause-analysis/#what-is-a-root-cause-analysis) (RCA) when a regression takes place in a feature owned by their group, in order to:
+
+* Inform the author and reviewers of the original MR that it caused a regression.
+* Define corrective actions that might prevent or reduce the likelihood of a similar regression in future.
+* Identify trends or patterns that can lead to human error.
+
+The following RCA format was trialed in a FY23 Q2 OKR. It can be posted as a comment on the original MR when the regression has been successfully reverted. 
+
+```markdown
+**Description of the regression:**
+_One-line description of the regression in behavior._
+
+**Bug report:** _[Issue link]_
+
+`@author`` (if internal) `@approvers` Please could you reply to this comment, copying the questions below and giving some short answers?
+
+1. Were you aware this MR was reverted in the course of your normal work (e.g. through email notification, general work process)?
+1. Did you identify the problematic behavior before approving this MR?
+1. If not, what would've made the regression more obvious during review?
+1. What changes to our tooling or review process would have prevented this regression from being merged?
+1. Were the steps to test the MR mentioned clearly in the description? Were they easy to follow?
+1. Do you have any other comments/suggestions?
+```
+
+Please reassure the participants that the purpose is not to apportion blame but to gather data, identify causal factors and implement corrective actions - but ask for a swift and brief response while the information is still fresh.
 
 ### Plan Weekly Digest
 
