@@ -62,7 +62,9 @@ Please reach out in the #brand Slack channel if you have questions.
 
 ### Vendor reference requests
 
-If you receive a vendor request for GitLab to act as a reference (case study, blog post, press release, GitLab logo on their website, etc.) for the product, service, or technology that your GitLab team is using, please refer to these guidelines and check to see if the request meets the criteria. If it does, you can move through the approval process to notify the Brand team of your request.
+If you receive a vendor request for GitLab to act as a reference (case study, blog post or GitLab logo on their website, etc.) for the product, service, or technology that your GitLab team is using, please refer to these guidelines and check to see if the request meets the criteria. If it does, you can move through the approval process to notify the Brand team of your request. 
+
+For Public Relations requests, please reference the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support).
 
 #### Vendor reference criteria 
 
