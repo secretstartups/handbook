@@ -257,22 +257,29 @@ The comprehensive guildeline should be found [in the README.md file](https://git
 
 ## GitLab Ops Database
 
-Gitlaop ops database refers to the database instance of `ops.gitlab.net`. The infrastructure setup is done in a way that a daily restoration of the below-listed tables in a database [ops-db-restore](https://console.cloud.google.com/sql/instances/ops-db-restore/overview?project=gitlab-analysis)  is managed inside the GitLab-analysis GCP project.
-Currently below tables are being restored and consumed as part of data pipeline. 
-- ci_builds
-- ci_pipelines
-- ci_stages
-- labels
-- merge_request_metrics
-- merge_requests
-- projects
-- users
-- label_links
-- members
+GitLab ops database refers to the database instance of `ops.gitlab.net`. 
 
-A CI pipeline has been set up that dumps and restores the above table. The CI-pipeline is set up in project [ops-db-dump](https://ops.gitlab.net/gitlab-com/gl-infra/ops-db-dump).
+The tables are replicated/restored daily into a Cloud SQL instance [ops-db-restore](https://console.cloud.google.com/sql/instances/ops-db-restore/overview?project=gitlab-analysis), which is hosted in the GitLab-analysis GCP project.
+
+These are the tables currently being restored:
+- `ci_builds`
+- `ci_pipelines`
+- `ci_stages`
+- `labels`
+- `merge_request_metrics`
+- `merge_requests`
+- `projects`
+- `users`
+- `label_links`
+- `members`
+
+A CI pipeline is responsible for dumping/restoring the tables. The CI-pipeline is set up in project [ops-db-dump](https://ops.gitlab.net/gitlab-com/gl-infra/ops-db-dump).
 The restore is executed at 00:15 UTC and takes around 10 minutes.
+
 The airflow user has been given full access after restoring the database to read all the data from the source. 
+Note that in order for the airflow user to connect to the Cloud SQL instance which is inside the GCP Analytics project, it must first establish a `cloud-proxy` connection, and then connect using localhost IP (127.0.0.1), [cloud-proxy CI job](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/extract-ci.yml#L72) and [cloud-proxy docs](https://cloud.google.com/sql/docs/postgres/connect-instance-private-ip#connect).
+
+Alternatively, for testing, one can connect to the sql instance through its `external IP`, but only once the user's own IP address is authorized on this [networking page](https://console.cloud.google.com/sql/instances/ops-db-restore/connections/networking?project=gitlab-analysis).
 
 ## Gitlab Customer Dot Database 
 
