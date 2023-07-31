@@ -28,7 +28,7 @@ This support can be a tremendous productivity boost for JetBrains IDE users, bec
 ### This feature makes GitLab team members and contributors who use it more efficient
 
 There are multiple JetBrains IDE users who are GitLab team members, and there is an
-active [internal `#jetbrains-ide` Slack channel](https://gitlab.slack.com/archives/CR08PTQ6T).
+active [internal `#jetbrains-ide-users` Slack channel](https://gitlab.slack.com/archives/CR08PTQ6T).
 
 Therefore, on some teams with several JetBrains users, such as the Remote Development team, we invest
 ongoing effort in keeping the [`Code Inspection`](..) for the feature clean and without any warnings/errors,

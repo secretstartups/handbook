@@ -3,8 +3,17 @@ languageCode: en-US
 locale: en-US
 title: The GitLab Handbook
 
+enableRobotsTXT: true
+enableGitInfo: true
+
+googleAnalytics: G-41B5X0RBD8
 social:
   twitter: GitLab
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
 
 params:
   title: The GitLab Handbook
@@ -15,6 +24,7 @@ params:
       - images/gitlab-cover.png
   branch: main
   project: gitlab-com/content-sites/handbook
+  repoid: 42817607
   plantuml:
     enable: true
     # svg: true
@@ -27,10 +37,15 @@ params:
     sidebar_cache_limit: 1000
     sidebar_menu_truncate: 100
     navbar_logo: true
+    footer_about_disable: true
   copyright: "GitLab"
   privacy_policy: https://about.gitlab.com/privacy/
   links:
     user:
+      - name: "Preferences"
+        url: "/preferences/"
+        icon: "fa-solid fa-sliders"
+        desc: "Handbook Preferences"
       - name: "Contribute"
         url: "/docs/"
         icon: "fa fa-pen"
@@ -61,6 +76,8 @@ params:
         icon: "fa-solid fa-users"
         desc: "Job Families"
 
+staticDir:
+        - data
 menu:
   main:
     - weight: -2
@@ -88,6 +105,9 @@ outputformats:
 
 markup:
   goldmark:
+    parser:
+      attribute:
+        block: true
     renderer:
       unsafe: true
   highlight:

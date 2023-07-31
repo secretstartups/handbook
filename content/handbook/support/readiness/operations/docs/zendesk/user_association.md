@@ -67,12 +67,28 @@ to associate. Please read the organization notes carefully.
 
 ##### Locating the Salesforce ID for SaaS customers
 
-For SaaS customers, we need to use a comnbination of the `GitLab Super App` and
-[workbench](https://workbench.developerforce.com/query.php). See
-[Locating the namespace ID via the GitLab Super App](#locating-the-namespace-id-via-the-gitlab-super-app)
-and
-[Locating the Salesforce ID via workbench](#locating-the-salesforce-id-via-workbench)
-for more information.
+For SaaS customers, we need to use a combination of the `GitLab Super App` and
+the `Support Ops Super App`.
+
+To start, you will need to locate the parent namespace that has a valid paid
+subscription. To do this, search for the user in question via the GitLab Super
+App, using the `User Lookup` plugin. Once you have done the search, click the
+`Group memberships` list and review the output provided. You are looking for a
+namespace with a paid subscription (bronze, silver, or gold) that is **not** an
+internal team member namespace. You want the value right after `groups/` in the
+URL (and nothing after it).
+
+An alternative is if, when you do the `User Lookup`, you see the
+`Provisioned by` value shows an ID or namespace. If that is the case, you can
+use that value.
+
+**Note** If the user not a a member of a paid namespace and the value of
+`Provisioned by` is null, the user has not passed proving support entitlement.
+They will need to be added to a paid namespace before we can proceed.
+
+With that value, use the `Namespace Lookup` plugin in the Support Ops Super App
+to search for the top-level namespace. The output from this plugin will give you
+the namespace's ID.
 
 ##### Locating the Salesforce ID for Self-Managed customers
 
@@ -94,53 +110,6 @@ For Self-Managed customers, we need to locate them in
    [cDot](https://customers.gitlab.com/admin). This is done on the customer page
    by clicking the link for `Billing accounts`
 1. Copy the Salesforce ID
-
-##### Locating the namespace ID via the GitLab Super App
-
-To start, you will need to locate the parent namespace that has a valid paid
-subscription. To do this, search for the user in question via the GitLab Super
-App, using the `User Lookup` plugin. Once you have done the search, click the
-`Group memberships` list and review the output provided. You are looking for a
-namespace with a paid subscription (bronze, silver, or gold) that is **not** an
-internal team member namespace. You want the value right after `groups/` in the
-URL (and nothing after it).
-
-An alternative is if, when you do the `User Lookup`, you see the
-`Provisioned by` value shows an ID or namespace. If that is the case, you can
-use that value.
-
-**Note** If the user not a a member of a paid namespace and the value of
-`Provisioned by` is null, the user has not passed proving support entitlement.
-They will need to be added to a paid namespace before we can proceed.
-
-With that value, use the `Namespace Lookup` plugin in the GitLab Super App to
-search for the top-level namespace. The output from this plugin will give you
-the namespace's ID.
-
-##### Locating the Salesforce ID via workbench
-
-To use workbench to locate the Salesforce Account ID:
-
-1. Navigate to https://workbench.developerforce.com/query.php
-1. Run the following query:
-
-   ```sql
-   SELECT
-     Account_ID_18__c,
-     Zuora__SubscriptionStartDate__c,
-     Zuora__SubscriptionEndDate__c,
-     GitLabNamespaceID__c,
-     GitLabNamespaceName__c
-   FROM Zuora__Subscription__c
-   WHERE GitLabNamespaceID__c = 'XXXXX'
-   ```
-
-   - Replacing `XXXXX` with the namespace ID
-1. Review the results to locate the row that aligns with expectations
-1. Copy the `Account_ID_18__c` value
-
-You might need to review the account in Salesforce specifically to determine if
-you have the correct one.
 
 ## Via contact management projects
 

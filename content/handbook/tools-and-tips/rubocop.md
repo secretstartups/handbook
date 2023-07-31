@@ -2,7 +2,7 @@
 title: "RuboCop"
 ---
 
-[RuboCop](http://www.rubocop.org/en/stable/) is used for running static code analysis on your [Ruby](https://www.ruby-lang.org/en/) code.
+[RuboCop](https://rubocop.org/) is used for running static code analysis on your [Ruby](https://www.ruby-lang.org/en/) code.
 
 ## "Magic" one-liners
 

@@ -13,7 +13,7 @@ Engineers work as part of a team in the Data Science section, and collaborate wi
 - [Machine Learning Engineer](#machine-learning-engineer-intermediate)
 - [Senior Machine Learning Engineer](#senior-machine-learning-engineer)
 - [Staff Machine Learning Engineer](#staff-machine-learning-engineer)
-- [Machine Learning Manager](#engineering-manager-machine-learning)
+- [Engineering Manager Machine Learning](#engineering-manager-machine-learning)
 
 ### Associate Machine Learning Engineer
 
@@ -31,7 +31,7 @@ The Associate level in the Engineering Division is a [grade 5](https://about.git
 
 #### Requirements
 
-- 1 or more years of experience in ML, or a Master's or PhD degree with a focus on Machine Learning
+- 1 or more years of experience in ML, **or** a Master's or PhD degree with a focus on Machine Learning
 - Demonstrated capacity to develop and implement deep learning models
 - Experience with Python
 - Comfort working in a highly agile, [intensely iterative](https://handbook.gitlab.com/handbook/values/#iteration) software development process
@@ -62,7 +62,7 @@ The Intermediate level in the Engineering Division is a [grade 6](/handbook/tota
 
 #### Requirements
 
-- 2 or more years of experience in ML, or a Master's or PhD degree with a focus on Machine Learning
+- 2 or more years of experience in ML, **or** a Master's or PhD degree with a focus on Machine Learning
 - Experience developing and implementing deep learning models
 - Professional experience with Python
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
@@ -100,7 +100,7 @@ The Senior level in the Engineering Division is a [grade 7](/handbook/total-rewa
 
 The following extend the main [requirements](#requirements) for this role.
 
-- 3 or more years of experience in ML, or a Master's or PhD degree with a focus on Machine Learning
+- 3 or more years of experience in ML, **or** a Master's or PhD degree with a focus on Machine Learning
 - Demonstrated experience developing and implementing deep learning models
 - Significant professional experience with Python
 - Experience with performance and optimization problems for Machine Learning models and a demonstrated ability to both diagnose and prevent these problems
@@ -130,7 +130,7 @@ The Staff level in the Engineering Division is a [grade 8](/handbook/total-rewar
 
 The following extend the main [requirements](#requirements) for this role.
 
-- 5 or more years of experience in ML, or a PhD degree with a focus on Machine Learning
+- 5 or more years of experience in ML, **or** a PhD degree with a focus on Machine Learning
 - Significant experience developing and implementing deep learning models
 - Significant professional experience with Python in a Machine Learning capacity
 - Experience with performance and optimization problems for Machine Learning models and a demonstrated ability to both diagnose and prevent these problems
@@ -140,20 +140,32 @@ The following extend the main [requirements](#requirements) for this role.
 
 The Engineering Manager in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Engineering Manager Responsibilites:
+### Engineering Manager Machine Learning Responsibilites:
 
 - Leverage their knowledge to lead teams of machine learning engineers and other engineers to tune, train, and create unique ML models, test 3rd party models using decision science, and create/maintain components to apply machine learning to the GitLab product
 - Lead teams at GitLab develop and implement models to support and enable experimental, beta, and generally available AI features in GitLab.
 - Additional [engineering manager responsibilities](/job-families/engineering/development/management/fullstack-manager/#responsibilities)
 
-### Engineering Manager Requirements
+### Engineering Manager Machine Learning Requirements
 
-- Master's or PhD degree with a focus on Machine Learning or 5 or more years of experience in ML
+- 5 or more years of experience in ML, **or** a PhD degree with a focus on Machine Learning
+
+Standard [Engineering Manager requirements](/job-families/engineering/development/management/fullstack-manager/#requirements) including
+
+- Ability to use GitLab
+- Exquisite brokering skills: regularly achieve consensus amongst departments
+- 5 years or more experience
+- 2 years or more experience in a leadership role with current technical experience
+- In-depth technical experience in at least one of the core languages, frameworks, or technologies used by your team
+- Familiarity with other functional areas of your team
+- Any additional experience required by the position's [specialty](#specialties)
+- Excellent written and verbal communication skills
+- You share our [values](/handbook/values/), and work in accordance with those values
+
 - Demonstrated experience leading teams that are developing and implementing deep learning models
 - Expert level experience with Python
 - Expert experience with performance and optimization problems for Machine Learning models and a demonstrated ability to both diagnose and prevent these problems
 - Ability to map and communicate business requirements to facilitate their implementation in machine learning initiatives
-- Additional [engineering manager requirements](/job-families/engineering/development/management/fullstack-manager/#requirements)
 
 ## Performance Indicators
 

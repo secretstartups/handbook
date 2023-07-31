@@ -80,7 +80,7 @@ An organization practicing TeamOps will always set a due date and, if necessary 
 {{% details summary="Example of prioritize due dates over scope" %}}
 **Example 1:** [Maintaining a monthly release cadence for 10+ years](/releases/)
 
-As of 2022-12-01, GitLab has [shipped a monthly product release](/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://about.gitlab.com/values/#set-a-due-date) instead of pushing ship dates.
+As of 2022-12-01, GitLab has [shipped a monthly product release](/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://handbook.gitlab.com/handbook/values/#set-a-due-date) instead of pushing ship dates.
 {{% /details %}}
 
 ## Transparent feedback
@@ -130,7 +130,7 @@ Return to the <a href="https://about.gitlab.com/teamops/">TeamOps homepage</a>.
 {{< /panel >}}
 
 {{< panel header="**Next**" header-bg="success" >}}
-Restart the TeamOps model by learning about [TeamOps - Shared Reality](/teamops/shared-reality/)
+Restart the TeamOps model by learning about <a href="/teamops/shared-reality/">TeamOps - Shared Reality</a>.
 {{< /panel >}}
 
 {{< /cardpane >}}

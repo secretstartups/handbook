@@ -1,2 +1,26 @@
 [footer_privacy_policy]
 other = "Privacy Statement"
+
+# Post (blog, articles etc.)
+[report_byline_by]
+other = "By"
+[report_created]
+other = "Created"
+[report_last_mod]
+other = "Last modified"
+[report_edit_this]
+other = "Edit this page"
+[report_view_this]
+other = "View page source"
+[report_create_child_page]
+other = "Create child page"
+[report_create_issue]
+other = "Create documentation issue"
+[report_create_project_issue]
+other = "Create project issue"
+[report_reports_in]
+other = "Reports in"
+[report_reading_time]
+other = "minute read"
+[report_less_than_a_minute_read]
+other = "less than a minute"
