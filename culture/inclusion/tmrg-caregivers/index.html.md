@@ -23,7 +23,7 @@ Resources:
 
 **Purpose of the TMRG**
 
-The Caregiver TMRG provides a safe space for every GitLab team member to better understand the role of being a caregiver and to build a network of caregivers and their allies at GitLab. This TMRG is non-exclusionary in nature and open to anyone at GitLab.
+The Caregiver TMRG provides a safe space for every GitLab team member to better understand the role of being a caregiver and to build a network of caregivers (including working parents) and their allies at GitLab. This TMRG is non-exclusionary in nature and open to anyone at GitLab.
 
 "There are only four kinds of people in this world: those who have been caregivers, those who are currently caregivers, those who will be caregivers and those who will need caregivers. Caregiving is universal." --  Rosalynn Carter, Former First Lady of the United States
 
