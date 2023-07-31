@@ -155,7 +155,7 @@ Yes. It is safe to install and there is no threat to install the certificate. Wh
 
 ### Deferring updates with Nudge
 
-Before the required installation date, users can choose to defer the Nudge window by selecting 'Defer' in the lower right corner. From you can choose Later, One Hour, One Day, or a Custom amount. Selecting 'Custom' will allow you to set the Nudge reminder to a date and time of your choosing.
+Before the required installation date, users can choose to defer the Nudge window by selecting 'Defer' in the lower right corner. Users can choose Later, One Hour, One Day, or a Custom amount. Selecting 'Custom' will allow you to set the Nudge reminder to a date and time of your choosing. Users have unlimted defferals up until the days remaining counter reaches zero. Clicking update device will open up the Software Update window in System Settings where the user will need to manually initiate the macOS update.
  
  <br/>
 
