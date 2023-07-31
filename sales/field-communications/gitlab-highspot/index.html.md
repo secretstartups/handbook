@@ -26,7 +26,22 @@ Because of the pace of business and rapid growth of the GitLab team, efficiently
 
 Upon surveying members of the Field team, we found that 92% of the Field organization felt that finding the resources they needed to do their jobs was moderate-difficult ([source](https://docs.google.com/presentation/d/186Lo_e4kpUeYEbXlYEEK_Kvo1A0Ixjvcofs4MJ8AIM0/edit#slide=id.gb405fa4b55_2_25)). Furthermore, we found that 85% of the organization only finds the resources they are looking for some of the time ([source](https://docs.google.com/presentation/d/186Lo_e4kpUeYEbXlYEEK_Kvo1A0Ixjvcofs4MJ8AIM0/edit#slide=id.gb405fa4b55_2_43)). Lastly, we found that Enterprise SAEs spend an average of two hours per week simply searching for Sales content, which equates to 200 hours per week across the entire Enterprise team that could be used for revenue-generating activities instead ([source](https://docs.google.com/presentation/d/186Lo_e4kpUeYEbXlYEEK_Kvo1A0Ixjvcofs4MJ8AIM0/edit#slide=id.gc0a7571506_0_5)). 
 
-GitLab ultimately chose to onboard Highspot as a sales enablement solution / sales asset management system to increase the efficiency of marketing spend, improve sales productivity and drive more visibility around content adoption and performance. 
+GitLab ultimately chose to onboard Highspot as a sales asset management system to increase the efficiency of marketing spend, improve sales productivity and drive more visibility around content adoption and performance. 
+
+### Communicating with the Highspot Team 
+
+Highspot is managed by the [Field Enablement organization](/handbook/sales/field-operations/field-enablement/), specifically, the [Field Communications & Content](/handbook/sales/field-communications) team. The team leverages a contract agency, [Arnic Business Solutions](https://arnicbizsolutions.com/), to help manage the day-to-day administration of our Highspot instance.
+
+There are two primary Slack channels to communicate with platform DRIs and other content owners / contributors about Highspot at GitLab: 
+1. #highspot-help-center: Public channel for team members to ask questions and get updates regarding Highspot.
+1. #highspot-content-owners: Public channel for content owners to ask questions and collaborate on ongoing upkeep and growth of Highspot instance.
+
+### Submitting Highspot Requests
+
+The Highspot team creates GitLab Issue Templates within the Enablement Project for common requests: 
+1. Can't find a Spot that meets your business needs? Use [this Highspot Spot Creation template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Spot-Creation-Request) to submit your request.  
+1. Need Editor or Owner permissions within a Spot, or Analyst permissions within reporting? Use [this Highspot Permissions template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request) to submit your request.
+1. Need to complete Highspot role-based onboarding? Following the instructions within [this template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Role-Onboarding).
 
 ### Key definitions
 
@@ -37,7 +52,7 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 1. **Role: Content Owners** - Content owners, or Publishers, have the ability to add and manage content, design and build SmartPages, and create and manage lists and Spots. Content Owners are responsible for the management of content in Highspot in one or more spots. They can also make high-level changes to the search structure as needed.
 1. **Role: Spot Owner** - Spot Owners are the Directly Responsible Individual (DRI) for a Spot, and oversee content governance and usage performance for the Spot and its users.
    1. The key difference between Owners/Co-Owners and Editors is that Owners/Co-Owners can delete a spot while Editors cannot.
-1. **Role: Analyst** - Analysts have the ability to create reports within the Analytics section of Highspot and view reports in the Analytics Spot.
+1. **Role: Analyst** - Analysts have the ability to create reports within the Analytics section of Highspot and view reports in the Analytics Spot. All Field Managers and above have Analyst permissions so they can view team-level reporting. 
 1. **Contribution Status: Locked** - Only Spot Editors (i.e. Content Owners) can contribute content to these spots. All can view. 
 1. **Contribution Status: Open - Review Required** – GitLab team members can contribute to these spots but review and approval will be required from a designated content reviewer before the content is viewable by all users.
 1. **Contribution Status: Open** - GitLab team members can contribute content to these spots without the need for review.
@@ -52,16 +67,18 @@ GitLab ultimately chose to onboard Highspot as a sales enablement solution / sal
 | **Channel & Alliances** | Channel marketing material to share with Partners and internal GitLab team members. | All internal team members | Locked | 
 | **Competitive Intelligence** | All internal competitive matters; to be used for self-education about our competitors. | All internal team members | Locked | 
 | **Customer Success** | CS Operations, Gainsight, Professional Services, Solutions Architects, Technical Account Management. | All internal team members | Locked |
+| **Customer Advocacy** | Customer case studies, video testimonials, quotes, peer reviews, and accolades from G2, Gartner, and Forrester. | All internal team members | Locked | 
 | **Customer Outreach** | Resources and insights to support customer collaboration, including case studies, industry research, personas, value drivers, analyst reports, marketing campaigns, and events. | All internal team members | Locked |
-| **Field Strategy and Enablement** | Training, onboarding, organization-wide changes or large projects. | All internal team members | Locked |
 | **Field Contributed Content** | Collateral that Field team members have created for customers and prospects – examples of "what good looks like." | All internal team members | Open - Review Required |
+| **Field Strategy and Enablement** | Training, onboarding, organization-wide changes or large projects. | All internal team members | Locked |
+| **GitLab Duo (AI)** | Resources to understand our developing AI strategy and effectively communicate with prospects and customers. |  All internal team members | Locked |
+| **Solution Selling** | What to know, what to say, what to show, what to do across our primary [GitLab Solutions](https://about.gitlab.com/solutions/#by-solution) |   All internal team members | Locked |
+| **Company Pitch Templates** | Curated messages and content you can pitch from Highspot or directly within associated Gmail or Outreach accounts. |  All internal team members | Locked |
+| **Reporting (Analytics)** | Sample analytics reports that Analysts can view and modify to help answer key business questions. | Analysts in GitLab | Locked |
+| **Highspot User Guide** | This spot features quick tutorials, tips & tricks, analytics reports and more. |  All internal team members | Locked |
 | **Personal Spot** | Each team member with a Highspot account will have their own personal spot that they can use to upload content of their own. Naming convention is `[Your Account First Name] Spot`. | Account holder only | Open |
 
 ### Availability
-
-Highspot became generally available for all members of GitLab's go-to-market (GTM) organization in February 2022.  
-
-Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard. If you do not have access via your Okta dashboard, please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).  
 
 Teams with access to Highspot include: 
 1. Sales 
@@ -75,20 +92,10 @@ Teams with access to Highspot include:
 
 Non-active users, such as team members who have left the company, will be removed from Highspot on a regular basis in order to open seats within the tool. 
 
-### Communicating with the Highspot Team 
+Access to the tool is provisioned via SSO in Okta. To access Highspot, please navigate through the Highspot tile in your Okta dashboard. If you do not have access via your Okta dashboard, please submit an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request). 
 
-There are two primary Slack channels for Highspot at GitLab: 
-1. #highspot-help-center: Public channel for team members to ask questions and get updates regarding Highspot.
-1. #highspot-content-owners: Public channel for content owners to ask questions and collaborate on ongoing upkeep and growth of Highspot instance.
 
-### Submitting Highspot Requests
-
-The Highspot Team creates GitLab Issue Templates within the Enablement Project for common requests: 
-1. Can't find a Spot that meets your business needs? Use [this Highspot Spot Creation template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Spot-Creation-Request) to submit your request.  
-1. Need Editor or Owner permissions within a Spot, or Analyst permissions within reporting? Use [this Highspot Permissions template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=highspot-spot-permissions-request) to submit your request.
-1. Need to complete Highspot role-based onboarding? Following the instructions within [this template](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/new?issuable_template=Highspot-Role-Onboarding).
-
-## Guidance for Field Team
+# Guidance for Field Team
 
 ### Finding Content | Searching and Browsing in Highspot
 
@@ -248,6 +255,38 @@ Once these steps are complete, you will see your custom signature included under
 
 **Learn more:** Check out [this quick demo video](https://view-su2.highspot.com/viewer/61a6a2a5bef36eca8212baab) and [download the Chrome extension](https://chrome.google.com/webstore/detail/highspot-for-gmail/lmidgenjjlmhobbdgooficpanecechol) to begin using this awesome feature.
 
+#### Outreach Pitch
+
+* **When to use:** If you want to pitch a piece of content or a pre-created pitch template to multiple contacts at once. You can send a Highspot pitch two ways in Outreach: 
+   1. Direct mail 
+   1. Within a new / existing sequence 
+
+* **Outreach Pitch Settings:** When preparing to send a pitch directly through Outreach, you can control the following activities:
+   * Set expiration on pitch
+   * Set passcode on pitch
+   * Allow content to be downloaded
+      * Download as PDF
+      * Download original
+   * Allow content to be shared by recipient
+   * Send notification when there is activity by recipient
+
+* **Outreach Pitch Data Considerations:** Analytics on pitches sent via Outreach depend on *how* the pitch was sent: 
+   * **For pitches sent via direct mail in Outreach:** A pitch record is created immediately in Highspot, and analytics on the pitch can be viewed immediately in the `Engagement` tab: 
+      * Duration of time spent viewing the Outreach pitch 
+      * Detail of which pitch slides or pages were viewed
+      * If an Outreach pitch was downloaded
+      * If an Outreach pitch was shared by recipient through share function
+      * Note: Highspot currently does NOT pull in email addresses of recipients for pitches sent via direct mail. This data will need to be pulled / cross-referenced from Outreach. 
+   * **For pitches sent via a sequence in Outreach:** A pitch record is not created until a recipient engages with a piece of content in the pitch. For example, if you send a sequence to 100 recipients but only 20 click on the invite link in your pitch, 20 pitches will be created in Highspot at the time of engagement and analytics can be viewed in the `Engagement` tab. Each pitch and the associated analytics are unique to one recipient / email address. 
+      * Email address of who opened the Outreach pitch
+      * Email address of who viewed the Outreach pitch 
+      * Duration of time spent viewing the Outreach pitch 
+      * Detail of which pitch slides or pages were viewed
+      * If an Outreach pitch was downloaded
+      * If an Outreach pitch was shared by recipient through share function
+
+**Learn more:** Check out [this quick demo video](https://gitlab.highspot.com/items/64b1c228139060dabfd1e504) to begin using this awesome feature.
+
 #### Live Pitch
 * **When to use:** If you want to understand how long you spend on each slide/piece of content during a client conversation. Also, if you want to automatically log the activity/touchpoint on a SFDC opportunity. (Opportunity must be linked in Highspot.)
 
@@ -316,7 +355,7 @@ The Highspot core team offered two trainings to break up the two main capabiliti
 1. [Highspot General Training](https://www.youtube.com/watch?v=eD0yMLrvE-o&feature=youtu.be) - Foundational knowledge, searching & discovering content
 1. [Highspot Pitching Deep Dive Training](https://www.youtube.com/watch?v=qpLHPyv3Wgs) - Ways to share Highspot content with customers, prospects and partners and receive analytics
 
-### FAQs
+# FAQs
 
 **Who has access to Highspot?** 
 
@@ -352,7 +391,7 @@ You can find the spot owner in the top right-hand corner of a spot and/or at the
 
 **What's the best way to save a piece of content that I want to come back to later?**
 
-You can do this by selecting `Bookmark` on the piece of content and bookmarking it into your Personal Spot. 
+You can do this by selecting `Bookmark` on the piece of content and [bookmarking it](https://help.highspot.com/hc/en-us/articles/213579506-Manage-Your-Spot) into your Personal Spot. 
 
 **Can content be in only one Spot?**
 
@@ -362,7 +401,7 @@ No - content can be added to multiple spots. Content owners can do this by uploa
 
 Not at this time. GitLab's Highspot instance is only accessible by internal team members via SSO. External audiences can only see external content that is pitched to them via Highspot. 
 
-We are exploring the option of a Highspot instance for GitLab partners and will share more details in FY23.
+We are exploring the option of a Highspot instance for GitLab partners and will share more details when available.
 
 **Can I find industry- or segment-specific content in Highspot?** 
 
@@ -380,14 +419,6 @@ Highspot's search algorithm is designed to get users in contact with the right c
 
 Generally, no. To help us maintain GitLab’s [SAFE framework](/handbook/legal/safe-framework/) and cultivate Highspot as a single source of truth, most content found in Highspot is not available for download. Please reach out to the Highspot admins in #highspot-help-center if you have any questions about a specific piece of content. 
 
-**How does Highspot differ from the Handbook?** 
-
-The Handbook is still our SSOT at GitLab. If you’re a content creator and wanting to document information, processes, etc., you should still use the GitLab Handbook as the place to do this. The added benefit is that you can then add a link to that Handbook page within Highspot and add it to the appropriate Spot/lists so that the Handbook page is more easily discoverable by the Field team. A great way to think of Highspot is like a search engine across the documents/resources that the Field uses often.
-
-**What is the difference between Highspot and Thought Industries (LevelUp)?** 
-
-Thought Industries (LevelUp) is the main hub for all training content, courses, etc. Think of Highspot like a search engine put across all of the tools and platforms we use - Google Drive, YouTube, Handbook, etc. So, we might upload a link to a training course or a video recording that's housed in another location so that it's more discoverable and served up with related content within Highspot.
-
 **Can teams have an area where they can post content specific to their team?**
 
 Yes! How we accomplish this very much depends on individual use cases, how relevant the content is to other audiences, etc. If you’d like to explore having an area/avenue where you can curate content specific to your team, please reach out to the Highspot admins in #highspot-help-center to set up time to discuss.
@@ -400,7 +431,36 @@ Not at this time. All content must be manually added to Highspot via designated 
 
 This is not a Highspot capability at this time due to limitations with Google’s API. The Highspot team is aware that this is a needed feature and are hoping to offer it soon. 
 
-## Guidance for Highspot Content Owners
+**How does Highspot differ from the Handbook?** 
+
+The Handbook is still our SSOT at GitLab. If you’re a content creator and wanting to document information, processes, etc., you should still use the GitLab Handbook as the place to do this. The added benefit is that you can then add a link to that Handbook page within Highspot and add it to the appropriate Spot/lists so that the Handbook page is more easily discoverable by the Field team. A great way to think of Highspot is like a search engine across the documents/resources that the Field uses often.
+
+**What is the difference between Highspot and Thought Industries (LevelUp)?** 
+
+Thought Industries (LevelUp) is the main hub for all training content, courses, etc. Think of Highspot like a search engine put across all of the tools and platforms we use - Google Drive, YouTube, Handbook, etc. So, we might upload a link to a training course or a video recording that's housed in another location so that it's more discoverable and served up with related content within Highspot.
+
+**What are the differing goals of Highspot and PathFactory?**
+
+Similar to PathFactory, Highspot is a tool that can point customers to a set of relevant assets. In Highspot, users can create Pitch Templates with Pitch Styles (sometimes called Digital Sales Rooms) that curate a series of content into a customized experience for customers. Once sent, users can update DSRs for their customers and prospects for a customized, personalized experience. In general, the high-level goals for the two platforms are: 
+
+1. **Highspot:** To connect with customers 1:1 as part of a campaign, initiative, event, general outreach, other CTA. Can support lead gen/outreach, but primarily used once a lead has become an SAO. 
+1. **PathFactory:** To increase consumption/engagement with GitLab content in order to move prospects through the marketing funnel.
+
+**Can Highspot users send PathFactory content to customers?**
+
+Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.  
+
+**Can I use Highspot to mass-send a pitch to multiple customers and prospects?** 
+
+Not from within Highspot. The Highspot pitch function and analytics are currently designed for a 1:1 or 1:few experience. The tool is optimized to provide tracking and insights into what customers are opening and viewing (i.e. what content they value) through the 1:1 motion.
+
+If you would like to send Highspot content or a pitch template to a mass audience, consider leveraging the [Outreach integration](/handbook/sales/field-communications/gitlab-highspot/#outreach-pitch). 
+
+**Is Highspot a tool for Marketing automation and email nurture?** 
+Highspot is not a replacement for marketing automation or email nurture tools such as Marketo. All email pitches are sent by a member of the Field team, who can then view insights.
+
+
+# Guidance for Highspot Content Owners
 
 ### Adding/Managing Content in Highspot
 Please see the short support videos below: 
@@ -529,21 +589,6 @@ The Highspot Help Center provides instructions on how to create pitch templates,
    * Tag all relevant lists within the pitch template properties. Lists are how users filter content on Highspot. Assigning the Use Case, Role, Market Segment, and Industry, at a minimum, will support a segment and role-based user experience of Highspot.
    * Remember: Users can relate a pitch template to a lead, contact, opportunity, or account in SFDC using the Relate and Send To fields within the Send Email Pitch window. 
    * Remember: Users can enter a custom email signature in Highspot, which will auto-display when pitching.  
-
-### What Highspot is **not** used for 
-1. **Sharing content to a mass audience.**  The Highspot pitch function and analytics are currently designed for a 1:1 or 1:few experience. The tool is optimized to provide tracking and insights into what customers are opening and viewing (i.e. what content they value) through the 1:1 motion.
-1. **Automation and email nurture.**  Highspot is not a replacement for marketing automation or email nurture tools such as Marketo. All email pitches are sent by a member of the Field team, who can then view insights.
-
-### Highspot vs. PathFactory
-Similar to PathFactory, Highspot is a tool that can point customers to a set of relevant assets. In Highspot, users can create Pitch Templates with Pitch Styles (sometimes called Digital Sales Rooms) that curate a series of content into a customized experience for customers. Once sent, users can update DSRs for their customers and prospects for a customized, personalized experience. 
-
-**What are the differing goals of Highspot and PathFactory?**
-1. **Highspot:** To connect with customers 1:1 as part of a campaign, initiative, event, general outreach, other CTA. Can support lead gen/outreach, but primarily used once a lead has become an SAO. 
-1. **PathFactory:** To increase consumption/engagement with GitLab content in order to move prospects through the marketing funnel.
-
-**Can Highspot users send PathFactory content to customers?**
-
-Yes. PathFactory tracks are a type of asset that can be shared using Highspot. Content owners can “upload” (point to) PathFactory tracks within Highspot, and send those tracks to customers and prospects via a Highspot Pitch activity.  
 
 ### Highspot for GitLab Duo Content 
 
