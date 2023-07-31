@@ -12,8 +12,6 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ---
 
-[<button class="btn btn-primary" type="button">Request A Scale CSE (SAE/AE Only) </button>](https://gitlab.com/gitlab-com/customer-success/tam-triage-boards/scale-engagement-request/-/issues/new?_gl=1*vjjya7*_ga*MTEyODE3ODIyOC4xNjA0NTA4NzU0*_ga_ENFH3X7M5Y*MTY2NzkxMjA3NS4xOTYuMS4xNjY3OTE0MjA5LjAuMC4w#)
-
 ## Overview
 
 Definition: The Scale CSE team is a new team being established at GitLab in FY23, a key tenant in our customer success strategy to align with our [company strategy around establishing and expanding our customer-centric approach and focus](/company/strategy/#3-customer-centricity). 
