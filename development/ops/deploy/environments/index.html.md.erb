@@ -274,6 +274,16 @@ If this bot alerts of a failed pipeline, we should treat these the same as a bro
 
 Our target [availability](https://dashboards.gitlab.net/d/stage-groups-detail-environments/stage-groups-environments-group-error-budget-detail?orgId=1) is 99.95%
 
+### Error Budget failure DRI process
+
+Each week we receive an Error Budget report in #cd-section on Slack if we are under our target availability.
+
+An engineer might be assigned as a DRI to look into this.
+
+The DRI is neither expected to determine a root cause nor propose a solution on their own.
+
+The DRI should instead reach out to [the Scalability:Projections team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/projections.html) for support.
+
 ## Async Issue Updates
 
 In order to optimize async collaboration across a big team we use issue updates to share progress completed on a specific issue or epic.
