@@ -62,6 +62,28 @@ Renewal Operations supports the Renewals, Success and Sales Teams: Directors & A
 
 **Sales Operations** supports Renewal Operations by maintaining our systems that process the renewals and opportunity management. As we progress, it can also improve risk management and forecasting. 
 
+## How We Work
+The Renewal Operations team primary focus is to support the Global Renewals team through a number of channels and activities. For guidance on when and how to engage Renewal Operations see below:
+
+### Renewal Manager Account & Opportunity Management
+To reach out to Renewal Operations within Salesforce simply @ mention @Renewal-Ops in chatter on the relevant Opportunity or Account. Renewal Operations can assist with:
+
+- Territory Assignment Questions or Corrections ([for a Territory Change Request please follow the instructions here](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#territory-ownership-renewals-managers))
+- Renewal Manager Opportunity Assignment
+- Renewal Ownership (Tier) Re-assignment
+- [Renewal Forecast](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/#forecasting) field updates
+- [Closed Details](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/#analytics) updates
+- Renewal Forecast guidance
+- Complex Opportunity management guidance
+
+### Quoting, Approvals and Bookings
+
+For questions on Quoting, Approvals, Opportunity Booking or Opportunity data quality refer to the [Sales Order Processing Handbook Page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) or reach out to [Deal Desk via chatter by @ mention to @Sales-Suport](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#communicating-with-the-deal-desk-team)
+
+### Compensation
+
+For Compensation related questions please reach out to @Sales-Comp on chatter. Renewal Operations does not approve Churn exception requests, to request a Churn exception [please follow the process outlined here.](https://about.gitlab.com/handbook/customer-success/renewals-managers/how/#churn-exceptions). 
+
 ## Renewal Operations Process Cadences
 
 ### Weekly
