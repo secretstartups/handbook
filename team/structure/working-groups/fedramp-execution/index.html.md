@@ -18,19 +18,22 @@ canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 | Date Created    | November 25, 2021 |
 | End Date        | TBD               |
 | Slack           | [#wg_fedramp](https://gitlab.slack.com/archives/C0110E0NMT9) (only accessible from within the company) |
-| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1icu5A6xPcU-VupOu2TtSCxoCwhMaN0ZsxZVvFfUnj70/edit) (only accessible from within the company) |
+| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1WcpsW_XwS_te-yGXHaRyKH827e_jXHamlbJm5CEx0E4/edit?usp=sharing) (only accessible from within the company) |
 | Epic            | [Main Project Epic](https://gitlab.com/groups/gitlab-org/-/epics/8455) (only accessible from within the company) |
+| Public Handbook Page | [GitLab's FedRAMP Authorization Program](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) |
+| Internal Handbook Page | [FedRAMP Compliance]https://internal.gitlab.com/handbook/engineering/fedramp-compliance/ |
 | Epic            | [Top Initiative Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3) ([limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access)) |
 
 ### Exit Criteria
 
-This working group will organize all the domain experts needed, surface critical decisions, centralize status, and drive execution. More specific exit criteria will be developed early in the process.
+GitLab achieves FedRAMP Moderate Authorization (Authority to Operate - ATO) for a new SaaS offering.
 
 ## Roles and Responsibilities
 
 | Working Group Role             | Team Member     | Functional Title                           |
 |--------------------------------|-----------------|--------------------------------------------|
-| Facilitator                    | Mike Flouton      | VP, Product Management           |
+| Executive Sponsor              | David DeSanto   | Chief Product Officer                      |
+| Project DRI           |
 | Functional Lead: PM            | Chris Balane    | Sr. Product Manager, US Public Sector Services |
 | Functional Lead: Pub Sec       | Bob Stevens     | Area Vice President, Public Sector Sales   |
 | Functional Lead: Infrastructure | Stephen Dumesnil | Engineering Manager, US Public Sector Services |
