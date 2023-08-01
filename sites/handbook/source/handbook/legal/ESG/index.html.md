@@ -69,7 +69,9 @@ GitLab and SuitUp are teaming up to provide virtual volunteer opportunities for 
 
 
 #### In Kind Support & Matching Gifts Program
-Currently, GitLab does not offer an in-kind product donation program for nonprofits. Please keep an eye on this page for updates. In addition, at this time, GitLab does not offer a matching gifts program. 
+GitLab will launch a GitLab for Nonprofits In-Kind donation program in 2023. If you have a request ahead of the official launch, please send the details in #ESG or to ESG@GitLab.com. 
+
+ At this time, GitLab does not offer a matching gifts program. 
 
 ### Membership Requests (non-monetary)
 For requests related to GitLab Membership of Association, Program or Organization, and includes terms, conditions and/or obligations on GitLab that must be executed, please follow the below process.  
