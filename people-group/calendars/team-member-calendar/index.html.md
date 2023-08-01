@@ -36,7 +36,7 @@ Each quarter a Slack reminder will go out in #what's-happening-at-GitLab Slack c
 | Key Company Events | Q3 Begins |  | Assembly all-company meeting; Q3 Ends |
 | Career Growth | Review IGP with your manager |  | IGP Work |
 | History and Awareness | ----- | Latinx Heritage Month | ----- |
-| Skill of the Month | ----- | ----- | ----- |
+| Skill of the Month | Analytical Thinking | Personal Productivity | Staying Motivated |
 | ----- | ----- | ----- | ----- |
 | ----- | ----- | ----- | ----- |
 
