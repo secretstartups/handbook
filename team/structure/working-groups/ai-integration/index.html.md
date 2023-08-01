@@ -202,7 +202,7 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Lena Horal-Koretska | Senior Frontend Engineer | Editor Extensions (Language Server) |
 | Erran Carey | Staff Incubation Engineer | Editor Extensions (Neovim) |
 | Ash McKenzie | Staff Backend Engineer | Editor Extensions (Neovim) |
-| Sean Carroll | Engineering Manager |  Model Evaluation |
+| Jay Swain | Engineering Manager |  Model Evaluation |
 | Andrei Zubov | Senior Frontend Engineer | Deploy:Environments, Model Evaluation |
 | Allison Browne | Senior Backend Engineer | Model Evaluation, Verify:Pipeline Execution |
 | Dylan Bernardi | Associate Backend Engineer | Model Evaluation |
