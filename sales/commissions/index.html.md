@@ -14,17 +14,18 @@ Quota setting and Compensation Design are led by the Go-To-Market Planning & Ope
 
 ## **Meet The Team**
 
-- James Harrison, Senior Director, Sales Operations
-- Lisa Puzar, Senior Manager, Sales Commissions
+- Lauren Whelihan, VP, Revenue Accounting
+- Lisa Puzar, Sr. Manager, Sales Commissions
 - Swetha Kashyap, Manager, Sales Commissions
-- Prashant Gupta, Manager, Sales Commissions
-- Praveen Ravi, Sales Commissions Analyst
-- Sophie Hamann, Sales Commissions Analyst 
+- Sophie Hamann, Sr. Sales Commissions Analyst
+- Anna Taylor, Sales Commissions Analyst
+- Darren Chin, Sales Commissions Analyst 
 
-- Jake Bielecki, VP, Sales Strategy & Analytics
-- Alex Cohen, Director, GTM Planning & Operations
+- Jake Bielecki, VP, Field Operations
+- James Harrison, Sr. Director, Sales Operations
+- Alex Cohen, Sr. Director, GTM Planning & Operations
 - David Mack, GTM Planning & Operations Manager
-- Haseen Selim, GTM Planning & Operations Sr. Analyst
+- Haseen Selim, Sr. Analyst, GTM Planning & Operations
 
 <BR>
 The detailed Sales Commissions Handbook has been relocated to the [GitLab Internal Handbook](https://internal.gitlab.com/handbook/sales/sales-commission/).
