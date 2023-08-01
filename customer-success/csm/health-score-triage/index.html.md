@@ -103,10 +103,6 @@ CSMs are responsible for keeping Gainsight up to date regarding all of their acc
 For any account that is Red or Yellow, the following steps for an At Risk timeline update is required: 
 
 1. In the account timeline, log an `At-Risk Update`, marking CSM Sentiment as Red (or Yellow). Also select values for the `Risk Reason` and `Risk Impact` fields.
-1. CSM logs subsequent `At-Risk Updates` based on [Frequency of At Risk Timeline Entries](/handbook/customer-success/csm/health-score-triage/#frequency-of-at-risk-timeline-entries). At-Risk Update entries should follow the template to include the following information:
-   1. General background or updates on the At-Risk customer (i.e., key discussion points on the most recent cadence call)
-   2. Next Steps and/or pending action items
-   3. Date of the next scheduled call
 1. At-Risk Conclusion:
    1. Customer is won back:
       1. Log Account-level Timeline `At-Risk Update` type for CSM Sentiment as Green and final notes
@@ -116,6 +112,29 @@ For any account that is Red or Yellow, the following steps for an At Risk timeli
       1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
 
 These can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
+
+#### At-Risk Update Format
+
+The At-Risk Update description should follow the following format:
+
+1. Brief, high-level summary of the reason for the risk and our key action (1-2 sentences)
+1. Additional context & detail to amplify the summary, including reasons behind the cited risk driver, key people involved (customer and GitLab), and next steps being taken
+1. What's needed to mitigate the risk (where do we need to end up?)
+1. Date of the next call with the customer and/or expected date for the next update
+
+Here is a sample at-risk update:
+
+> CUSTOMER X has risk of seat contraction due to under-utilization of licensed seats. We have a meeting scheduled with the decision maker next week to discuss plans & next steps to drive adoption.
+>
+> CUSTOMER X is actively using 75% of their licensed seats, though adoption of use cases within those users is strong. We have reached out to the decision maker for the customer on DevOps tools and have a meeting scheduled with that person for next week that includes all of the members of the GitLab account team. We will discuss the current adoption status, and other groups within their org we can engage to help their users get onto GitLab. In order to mitigate this risk we need alignment with the decision maker on next steps to engage with teams not yet on GitLab, and define a plan to get those users onboarded.
+>
+> Following that discussion next week, I will add an At-Risk Update with details from that discussion and next steps, as well as any asks we may have from other GitLab team members.
+
+This format is to satisfy a few requirements:
+
+- Clarity of situation and action up front (leading with key details)
+- Ensure the most pertinent information is readily visible in other systems where it is synced and displayed
+- Consistency to improve async processes
 
 ### Frequency of At Risk Timeline Entries
 
