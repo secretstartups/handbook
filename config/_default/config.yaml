@@ -78,6 +78,7 @@ params:
 
 staticDir:
         - data
+        - static
 menu:
   main:
     - weight: -2
