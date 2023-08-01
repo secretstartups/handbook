@@ -108,60 +108,6 @@ CHER provides a qualitative value of a control's effectiveness that is used as a
 </details>
 
 
-<details>
-<summary markdown="1"><b>Determining System Health Rating</b>
-</summary>
-
-#### Quantitative vs. Qualitative Terms and Definitions
-
-CHER is assigned on a control by control basis but in instances where we want to report on system health, the ratio of high risk observations to the number of applicable controls that were assessed against the system is determined. That ratio is used to determine the system health rating from the following table: 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-obmi{background-color:#D9EAD3;text-align:center;vertical-align:middle}
-.tg .tg-yfns{background-color:#F4CCCC;text-align:center;vertical-align:middle}
-.tg .tg-qjco{background-color:#FCE5CD;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i"><span style="font-weight:bold">Ratio of CHER rating to applicable controls assessed</span></th>
-    <th class="tg-wa1i"><span style="font-weight:bold">System Health Rating Value</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-obmi"><span style="background-color:#D9EAD3">Between 0% and 5% of controls = CHER 2,3,4,5,0</span></td>
-    <td class="tg-obmi"><span style="background-color:#D9EAD3">1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-obmi"><span style="background-color:#D9EAD3">Between 5% and 35% of controls = CHER 2,3,4,5,0</span></td>
-    <td class="tg-obmi"><span style="background-color:#D9EAD3">2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qjco"><span style="background-color:#FCE5CD">Greater than 35% up to 65% of controls = CHER 2,3,4,5,0</span></td>
-    <td class="tg-qjco"><span style="background-color:#FCE5CD">3</span></td>
-  </tr>
-  <tr>
-    <td class="tg-qjco"><span style="background-color:#FCE5CD">Greater than 65% up to 85% of controls = CHER 2,3,4,5,0</span></td>
-    <td class="tg-qjco"><span style="background-color:#FCE5CD">4</span></td>
-  </tr>
-  <tr>
-    <td class="tg-yfns"><span style="background-color:#F4CCCC">Greater than 85% of controls = CHER 2,3,4,5,0</span></td>
-    <td class="tg-yfns"><span style="background-color:#F4CCCC">5</span></td>
-  </tr>
-</tbody>
-</table>
-</details>
-
-<summary><b>Determining Control Family Effectiveness Rating</b>
-
 #### Quantitative vs. Qualitative Terms and Definitions
 
 CHER is assigned on a control by control basis but in instances where we want to report on control family effectiveness, the CHER for each of the individual underlying controls in a control family can be averaged to provide a more holistic view. Refer to the Control Family Effectiveness Rating Table below for a mapping of averaged CHERs to the qualitative term and definition that can be used to report on control family health/effectiveness. Note that when using this table the final average of CHER values should be rounded **up** to the nearest quantitative value to determine the CHER for the control family (i.e if average of all CHER's equals 2.3, the final CHER for the control family would be rounded up to a 3).
@@ -216,11 +162,6 @@ CHER is assigned on a control by control basis but in instances where we want to
   </tr>
 </tbody>
 </table>
-
-#### CHER and SHR Override
-
-To account for edge case scenarios or other extenuating circumstances that may not be modeled appropriately using the outlined GitLab Observation Management methodology, the final CHER or SHR can be downgraded (i.e move from 2 to 3) at the discretion of the Security Compliance Senior Director if it is determined that the observation's risk ratings and therefore CHER or SHR does not appropriately reflect the current control or control environment health. The rating cannot be upgraded (i.e move from 4 to 3) to ensure a conservative approach to securing the organization and managing risk.
-
 
 ## Exceptions
 
