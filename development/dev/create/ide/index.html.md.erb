@@ -489,14 +489,14 @@ We have the following automation goals for the Remote Development Workflow. Unle
 **Goal:** To ensure category issues show up on the Iteration Planning board
 
 **Automation:**
-- Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized` (Currently implemented as [Rule index 0](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
+- [Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L4)
 
 **Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
 
 **Automation:**
-- Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
-- Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
-- Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"` (TODO: implement)
+- [Issues with a specific milestone but not in ~rd-workflow::prioritized should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L16)
+- [Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L29)
+- [Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L41)
 
 **Goal:** To ensure prioritized issues are in the correct state
 
@@ -506,13 +506,13 @@ We have the following automation goals for the Remote Development Workflow. Unle
 **Goal:** To ensure closed issues are in the correct state
 
 **Automation:**
-- Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.  (TODO: implement)
+- [Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L65)
 
 **Goal:** Syncing Remote Development workflow and GitLab workflow labels
 
 **Automation:**
-- Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"workflow::refinement" assigned (TODO: implement)
-- Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned (TODO: implement)
+- [Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"workflow::refinement" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L77)
+- [Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L53)
 - Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
 
 **Goal:** To ensure issues and MRs are 1-1
