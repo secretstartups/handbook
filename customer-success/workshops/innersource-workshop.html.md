@@ -37,6 +37,14 @@ The goal of the discovery questions is to help your customer tie this back to a 
 * Who is championing innersource?
 * Do you have a use case in mind?
 
+## InnerSource Project Examples from Enterprises
+Some feedback that we've heard is if GitLab could provide examples of good InnerSource projects that our customers have had success with. 
+
+* UI Design Systems/Libraries - every UI engineer references these repositories as they have brand compliant libraries for them to use. If these are InnerSourced, then they can contribute more design elements.
+* [Architecture Decision Records](https://adr.github.io/) - ADRs are a great placed to start InnerSourcing. At a large American telecommunication company, they built an "Enterprise Decision Record" repository that hosted all significant architecture decisions for development teams to vote on and weigh in on via GitLab issues. Once decided on, they are documented within a repository.
+* Cloud Security Policies - enterprises must secure the usage of their cloud platforms. The code that governs a companies' security policies are good for InnerSource model because it provides clarity for developers on what is required, plus it will allow developers to request new services be enabled as the cloud provides (AWS, GCP, Azure) make them available. This speeds up the communication and process between security and development.
+* GitLab CI Templates - CI templates are perfect for InnerSource as they are shareable across tech stacks and can save time. If companies require certain stages in a CI pipeline to run, it's only fair to expose that configuration code and make it InnerSource in case something goes wrong or a DevOps engineer needs to recommend changes.
+ 
 ## Workshop Materials
 
 * **Executive Overview** [Session 1: InnerSource Quick Start w/GitLab slides](https://docs.google.com/presentation/d/1O_MBH5_NHfKvDcWrdaHx_tmfUWWRkc3xnvMBWdikwIA/edit#slide=id.gcb47225958_0_1126)
