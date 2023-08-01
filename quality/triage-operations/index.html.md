@@ -403,7 +403,7 @@ graph LR
 #### Reactive `label` and `unlabel` commands
 
 * Automation conditions:
-  - A new note that starts with `@gitlab-bot label ~"label-name"` or `@gitlab-bot unlabel ~"label-name"` where `label-name` matches: 
+  - A new note that starts with `@gitlab-bot label ~"label-name"` or `@gitlab-bot unlabel ~"label-name"` where `label-name` matches:
     - `group::*`, `type::*`, `feature::*`, `bug::*`, `maintenance::*`, `category:*`
     - `backend`, `database`, `documentation`, `frontend`, `handbook`, `UX`
     - `security` (`label` only for community members)
@@ -515,6 +515,24 @@ Current type labels with subtype labels are:
 * Automation actions:
   - The type label in the issue is applied to the merge request
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/apply_type_label_from_related_issue.rb>
+
+#### Reactive `retry_job` command
+* Automation conditions:
+  - A new issue note with `@gitlab-bot retry_job <job_id>` posted by a GitLab team member in a broken master incident.
+  - This automation can only be invoked from the [gitlab-org/quality/engineering-productivity/master-broken-incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents) project right now.
+* Automation actions:
+  - `@gitlab-bot` will send a request to retry the target job and reply with a new job link.
+* Example: <https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues/3188#note_1496059720>
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/gitlab_internal_commands/command_retry_pipeline_or_job.rb>
+
+#### Reactive `retry_pipeline` command
+* Automation conditions:
+  - A new issue note with `@gitlab-bot retry_pipeline <pipeline_id>` posted by a GitLab team member in a broken master incident.
+  - This automation can only be invoked from the [gitlab-org/quality/engineering-productivity/master-broken-incidents](https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents) project right now.
+* Automation actions:
+  - `@gitlab-bot` will send a request to retry all failed jobs in the target pipeline and reply with the pipeline link.
+* Example: <https://gitlab.com/gitlab-org/quality/engineering-productivity/master-broken-incidents/-/issues/3187#note_1496076800>
+* Processor: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/triage/processor/gitlab_internal_commands/command_retry_pipeline_or_job.rb>
 
 ### Database-related reactive workflow automation
 
