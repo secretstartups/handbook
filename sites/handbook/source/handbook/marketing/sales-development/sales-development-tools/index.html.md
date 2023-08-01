@@ -68,7 +68,7 @@ This page is to act as your guide to the many tools and best practices that the 
     * Valid company email domain or company name
     * Phone number
     * Title related to our buying/influencer personas
-    * Demandbase intent
+    * 6Sense intent
     * Set up for company/team use checkbox equals true
     * Account has X # of Developers (MM/Large nuances)
     * LinkedIn profile
@@ -212,16 +212,16 @@ Managers then need to add a tag of “manager approved” on the sequence in Out
 * GitLab Video: [LinkedIn Personalization](https://www.youtube.com/watch?v=7vEVB-WgDPA)
 * GitLab Video: [Loading Accounts from Salesforce into LinkedIn](https://www.youtube.com/watch?v=_D8walmmOAU) 
 
-## Demandbase
+## 6Sense
 
-Demandbase is a targeting and personalization platform that we use to reach our different audiences based on intent data and our ideal customer profiles. [Demandbase Handbook Page](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)
+6Sense is a targeting and personalization platform that we use to reach our different audiences based on intent data and our ideal customer profiles. [6Sense Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/)
 
-### Demandbase Training Resources
+### 6Sense Training Resources
 
-* GitLab Video: [50 Minute XDR Demandbase Training Video](https://www.youtube.com/watch?v=R3uwFAMhsHM)
-* GitLab Slides: [Demandbase Platform Training](https://docs.google.com/presentation/d/1qJNxl503zO0x5UuUz-TOe5Lt_jWQa_Hgz-UrNCQqjOk/edit#slide=id.g29a70c6c35_0_68) 
-* GitLab Handbook: [Demandbase Handbook Process Page](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)
-* GitLab Video: [Creating an Account List Video](https://www.youtube.com/watch?v=BVccN6ly2ys&feature=youtu.be)
+* [General 6Sense Resources](https://6sense.com/resource-library/)
+* [6Sense for BDRs Video](https://6sense.com/resources/videos/inside-sales-persona-demo)
+* [6Sense Account Identification Guide](https://6sense.com/platform/account-matching/the-guide-to-account-identification/)
+* [6Sense Persona Identification Guide](https://6sense.com/guides/how-to-identify-and-influence-the-entire-buying-team/)
 
 ## Chorus
 
