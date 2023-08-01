@@ -16,40 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars in the months of July and August.
+We’d like to invite you to our free upcoming webinars in the month of August.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## July 2023
-
-### AMER Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### July 31st, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_cvGqU4gaSeWDvUJp2lN02g#)
-
-### APAC Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### July 31st, 2023 at 2:00-3:00PM Singapore / 4:00-5:00PM Sydney / 11:30AM-12:30PM India / 1:00-2:00PM Indonesia
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ROUfTqaLS8m1QbK05kNtNg#)
-
-
-### EMEA Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### July 31st, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_4W3FFjr4Q92eYmLNvU_HJw#)
-
 
 ## August 2023
 
