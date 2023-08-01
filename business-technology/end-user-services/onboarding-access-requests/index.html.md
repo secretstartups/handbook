@@ -69,11 +69,20 @@ Read the ["What to know about a fake job scam impersonating GitLab"](https://abo
 </div>
 </div>
 
-### GitLab Laptop Refreshes for Team Members
+### Laptop Refresh
 
-Team member Laptops can be refreshed after 3 years (of use!) without question. Everyone's needs are different so it is hard to set a clear timeline of when computer upgrades are necessary for all team-members, but team-members become eligible for an updated laptop after 3 years. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) then manager and [Michael Beltran's](https://about.gitlab.com/company/team/#mbeee)/[Rob Rea's](https://about.gitlab.com/company/team/#rrea1) approval  will be required before IT can purchase the replacement laptop. If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy) below. 
+Team members can choose to refresh their laptop, no questions asked, after 3 years of use (not necessarily 3 years of employment if a used laptop was issued at the time of onboarding). If the laptop is sufficient for your needs, you may opt to continue using a laptop until it no longer receives the latest macOS version from Apple (approximately 5 years).
+
+The old laptop must be [wiped](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) or [returned](#laptop-recyclereturn) **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
 
 Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+
+If you qualify/complete a laptop refresh, please also refer to our [Laptop Buy back Policy](#laptop-buy-back-policy) below. 
+
+
+### Laptops Out of Spec
+
+If the laptop is outside the standardized specifications listed [here](#apple-hardware) then manager and [Michael Beltran's](https://about.gitlab.com/company/team/#mbeee)/[Rob Rea's](https://about.gitlab.com/company/team/#rrea1) approval will be required before IT can purchase the laptop. 
 
 ### GitLab Laptop Replacement Program
 
@@ -121,7 +130,7 @@ Estimated Delivery Timelines for Gitlab Hardware
 
 ### Additional Laptop Request/Personal Laptop Usage
 
-We currently do not allow personal laptops to be used in GitLab systems. If you are in need of a additional device, have a business justification, have manager approval and IT approval, you can request an additional laptop through the [Laptop Refresh/Upgrade template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new#). Please note that if the secondary device is approved it will be a refurbished device and not a new device. 
+We do not allow personal laptops to be used for GitLab work. If you are in need of a additional device, have a business justification, have manager approval and IT approval, you can request an additional laptop through the [Laptop Refresh/Upgrade template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new#). Please note that if the secondary device is approved it will be a refurbished device and not a new device. 
 
 ### Key Performance Indicators
 
@@ -236,33 +245,6 @@ In other words, we eliminate this possibility of becoming a situation to be mana
 To be able to use a laptop vendor, we have to be able to purchase and ship hardware to our team members regardless of where they live.
 Therefore the vendor should be able to handle most if not all shipping requirements to all team members. Our current hardware provider for US and most international locations is CDW. GitLab laptops that are procured from CDW will come with GitLab branded asset labels by default. Please refer to this issue for more information on GitLab asset labels. [GitLab Branded Laptop Labels](https://gitlab.com/gitlab-com/business-technology/end-user-services/it-ops-issue-tracker/-/issues/352)
 
-### Laptop Recycle/Return
-
-We're now engaging SIPI Asset Recovery for devices that need to be recycled/returned (https://www.sipicorp.com/itad/) Laptops may also be returned to the company via an IT Team member for data sanitization and repurposing. GitLab IT will provide a shipping label and box upon request at no cost to yourself. 
-
-We no longer encourage Apple's Trade-In program. Any laptop being returned, regardless of condition, should be sent to a GitLab IT Team Member. 
-
-### Laptop Donations
-
-Donating hardware/laptops will help people in disadvantaged areas and/or from underrepresented groups with their ability to learn about technology. Therefore GitLab offers the possibility to donate hardware devices to [vendors on a curated list](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0) after 3 years of use. This curated list has been a result of the [Upstream Diversity Working Group](https://about.gitlab.com/company/team/structure/working-groups/upstream-diversity/).
-
-The vendors on the list have been meeting the following criteria:
-1. Their focus group should be people in disadvantaged areas and/or underrepresented groups
-1. They should be non-profit
-1. Their values have to align with GitLab's CREDIT values
-1. They should pass a "negative-press" check (first 2 pages of Google)
-
-If you, as a GitLab team member, would like to add a vendor aligned with the criteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
-
-
-#### Steps for donating your hardware
-
-1. Create an issue for [laptop replacement](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Replacement)
-1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list.
-1. Indicate in the issue which option of logistics will be used: Local Drop off or Sending via courier.
-1. For security reasons we want to make sure all laptops are fully wiped before drop off or sending.
-1. When you receive your new laptop, complete the donation.
-
 
 ### Configuring New Laptops & Apple IDs
 
@@ -286,37 +268,54 @@ For laptops shipped with OEM Windows you may want to make a full drive backup (e
 That way you could restore your laptop to the original state at any time.
 It will make the RMA process much easier in case you need it.
 
+
 ### Laptop Buy back Policy
 
-Team members can choose to refresh their laptop, no questions asked, after 3 years of use (not necessarily 3 years of employment if a used laptop was issued at the time of onboarding).
+If the team member has not completed 1 calendar year at the time of offboarding or has received a laptop refresh within the past year, they have the option to purchase their laptop for current market value from GitLab. If the laptop has been used by the team member for more than one year, they can opt to keep their laptop at no cost.
 
-Team members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding.
-If the team member has completed 1 calendar year or more at GitLab at the time of offboarding or refresh, they can opt to keep their laptop at no cost.
-If the team member hasn't completed 1 calendar year at the time of offboarding or has received a laptop refresh within the past year, they have the option to purchase their laptop for current market value from GitLab.
+IT Ops will email the team member asking if they would like to send back or purchase their laptop. If purchasing, our Manager of IT, or Lead IT Analyst will approve, and we will send the employee an email with the determined value. If the employee decides to move forward with purchasing, our accounting department will reach out with payment information.
 
-IT Ops will email the team member asking if they would like to send back or purchase their laptops.
-If purchasing, our Manager of IT, or Lead, IT Analyst will approve, and we will send the employee an email with the determined value.
-Then, if the employee decides to move forward with purchasing, our accounting department will reach out with payment information.
+Retained laptops must be [wiped](#laptop-wipe).
 
-If a team member decides to retain their laptop, they are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab.
-GitLab provided laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#apple-laptops) for Macs, and [DriveStrike](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) for Linux, this ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT, to troubleshoot a technical problem with the laptop.
-If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
+If the departing team member opts not to retain or [donate](#laptop-donations) their laptop, they can return them to GitLab. See the [returning old/offboarded laptops](#laptop-recyclereturn) section for details.
 
-If team members opt not to keep or purchase their existing laptops, they can return them to GitLab.
-See the [returning old/offboarded laptops](#returning-oldoffboarded-laptops) section below for details.
+### Laptop Recycle/Return
 
-### Returning Old/Offboarded Laptops
+We use [SIPI Asset Recovery](https://www.sipicorp.com/itad/) for devices that need to be recycled/returned.  At GitLab IT's discretion, laptops may also be sent to an IT Team member for repurposing. Either way, GitLab IT will provide a shipping label and box upon request at no cost to yourself. 
 
-Part of the IT Ops replacement laptop process is providing each team-member with instructions about how to return their old laptop (whether outdated or broken).
-All laptops must be returned **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
+If the IT department has record of a current litigation hold for the offboarded employee, IT will consult with Legal before proceeding.
 
-If an offboarded employee decides not to purchase and is not under a current litigation hold, then we will provide a shipping label free of charge so the laptop can be sent to an IT Support Analyst for data sanitization and storage or repurposing.
-
-(If the IT department has record of a current litigation hold for the offboarded employee please consult with Legal before proceeding.)
-
-All team-member laptops must be securely erased before being returned.
-This not only protects the company, but also protects you since it is possible for personal information to exist on these machines.
+All team member laptops must be securely [wiped](#laptop-wipe) before being returned. This not only protects the company, but also protects you since it is possible for personal information to exist on these machines.
 Reformatting a computer is not sufficient in these cases because it is possible for sensitive data to be recovered after reinstalling an operating system.
+
+### Laptop Wipe
+
+Laptop wipes must be performed via [scheduling an appointment](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT analyst to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab. Laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/) for macOS, and [DriveStrike](https://about.gitlab.com/handbook/it/guides/drivestrike/) for Linux. Using these tools ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe. 
+
+Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT to troubleshoot a technical problem with the laptop. If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
+
+
+### Laptop Donations
+
+Donating hardware/laptops will help people in disadvantaged areas and/or from underrepresented groups with their ability to learn about technology. Therefore GitLab offers the possibility to donate hardware devices to [vendors on a curated list](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0) after 3 years of use. This curated list has been a result of the [Upstream Diversity Working Group](https://about.gitlab.com/company/team/structure/working-groups/upstream-diversity/).
+
+The vendors on the list have been meeting the following criteria:
+1. Their focus group should be people in disadvantaged areas and/or underrepresented groups
+1. They should be non-profit
+1. Their values have to align with GitLab's CREDIT values
+1. They should pass a "negative-press" check (first 2 pages of Google)
+
+If you, as a GitLab team member, would like to add a vendor aligned with the criteria, please comment in the [Vendor sheet](https://docs.google.com/spreadsheets/d/15g4v5coC_yLlVNTKUZMwATllZhxzqbxrtvwJsi8bjXE/edit#gid=0).
+
+
+#### Steps for donating your hardware
+
+1. Create an issue for [laptop refresh](#laptop-refresh)
+1. Indicate in the issue you want to donate your used laptop to a vendor on the curated list.
+1. Indicate in the issue which option of logistics will be used: Local Drop off or Sending via courier.
+1. For security reasons we want to make sure all laptops are fully [wiped](#laptop-wipe) before drop off or sending.
+1. When you receive your new laptop, complete the donation.
+
 
 ## Gitlab Asset Management
 
