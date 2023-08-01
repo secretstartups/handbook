@@ -43,7 +43,7 @@ Working backwards from your target, you'll be able to calculate how many account
 
 Work with your [Sales Development team member](https://about.gitlab.com/handbook/marketing/sales-development/#working-with-sales) to: 
 - Get input on your territory plan and how that maps to their activities.
-- Review activity and engagement in [DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/).
+- Review activity and engagement in [6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/).
 - Develop your approach and identify the right messaging.
 
 **Use data to support your assumptions:**
@@ -154,7 +154,7 @@ The toolkit above will be your main resource and contains things like a sequenci
 
 **[LinkedIn Sales Navigator](https://www.linkedin.com/business/sales/blog/sales-navigator/what-is-linkedin-sales-navigator)** is one of the main prospecting tools we use at GitLab. It features a powerful set of search capabilities, improved visibility into extended networks, and personalized algorithms to help you reach the right decision maker. All AEs have access to LSN. [Click to go to the EdCast training.](https://gitlab.edcast.com/insights/learning-linkedin-sales) And view additional videos and tutorials on [the handbook page](https://about.gitlab.com/handbook/sales/training/social-selling/).
 
-**[DemandBase](https://about.gitlab.com/handbook/marketing/account-based-marketing/demandbase/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
+**[6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/)** is used by Sales Development who can show you relevant data related to your target prospects. It has a wealth of intent and propensity to buy data that is married with account engagement indicators to create a holistic intent mapping for each account. 
 
 **[Conversica](https://about.gitlab.com/handbook/marketing/marketing-operations/conversica/)** is a conversational AI tool that helps enterprise marketing, sales, customer success, and finance teams attract, acquire and grow customers at scale across the customer revenue lifecycle. The AI Assistant works by engaging the prospect in a human-like conversation over email in an effort to further qualify the prospect.
 
