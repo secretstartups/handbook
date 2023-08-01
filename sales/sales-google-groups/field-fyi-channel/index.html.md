@@ -71,8 +71,9 @@ Based on team member feedback, each #field-fyi post has a bolded header that hel
 1. Examples of #field-fyi posts: Updates from CRO, noteworthy process changes, important and time-sensitive resources, (enablement, sales ops, marketing etc.) time-sensitive People Ops information. 
 
 **What is the difference between #field-fyi and #cro channels?** 
-1. The #cro channel is for announcements and communication specifically from/to McB. The #field-fyi channel will be for very important updates that do not come from McB. 
-1. Alluding again to the format that we've taken with #company-fyi - Sid still has his #ceo channel that he uses to communicate with the team/field questions, but organization-wide posts go on #company-fyi. 
+1. The #cro channel is for announcements and communication specifically from/to the CRO about business-related topics. Examples include recognition, observations, CRO calls-to-action. 
+1. In some rare cases, process-related updates that come from the CRO will be posted to #field-fyi.
+1. Alluding again to the format that we've taken with #company-fyi - the CEO still has their #ceo channel that they uses to communicate with the team/field questions, but organization-wide posts go on #company-fyi. 
 
 **Do I have to run my #field-fyi post by Field Communications?**
 1. Yes! Field Comms' primary responsibility is to ensure that the Field team gets their information in the most effective and efficient way. They are here as a resource for you to help you get the largest reach possible out of your announcement by collaborating with you on the best timing and a milti-channel communication plan. 
