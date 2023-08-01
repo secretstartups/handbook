@@ -208,3 +208,4 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Dylan Bernardi | Associate Backend Engineer | Model Evaluation |
 | Stephan Rayner | Senior Backend Engineer | Model Evaluation |
 | Igor Wiedler | Staff Site Reliability Engineer | Model Evaluation |
+| Alejandro Pineda | Staff Site Reliability Engineer | Model Evaluation |
