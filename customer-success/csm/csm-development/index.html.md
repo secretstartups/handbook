@@ -105,13 +105,11 @@ As CSMs have positioned themselves to be more strategic and reach Director, VP, 
 #### GitLab for CSMs
 
 - [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
-- Self Certifications are available on [LevelUp](https://levelup.gitlab.com/learn/dashboard?labels=%5B%22Technical%20Certifications%22%5D&values=%5B%22certification%22%5D):
-  - [CI/CD Professional Pathway](https://levelup.gitlab.com/learn/course/gitlab-certified-devops-professional-bundle/)
-  - This includes the Pathways:
-    - [GitLab Certified Git Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-git-associate/)
-    - [GitLab Certified Project Management Associate](https://levelup.gitlab.com/learn/course/gitlab-certified-project-management-specialist-bundle/)
-    - [GitLab Certified CI/CD Associate](https://levelup.gitlab.com/learn/course/gitlab-ci-cd-specialist-self-paced-bundle/)
-    - [GitLab Certified Security Specialist](https://levelup.gitlab.com/courses/gitlab-certified-security-specialist)
+- Self Certifications are available on [LevelUp](https://levelup.gitlab.com/pages/certifications). Each exam has a corresponding free, self-paced course that covers the needed knowledge and skills:
+  - [GitLab Certified Git Associate](https://levelup.gitlab.com/courses/gitlab-with-git-essentials-certification-exam)
+  - [GitLab Certified Project Management Associate](https://levelup.gitlab.com/courses/gitlab-project-management-certification-exam)
+  - [GitLab Certified CI/CD Associate](https://levelup.gitlab.com/courses/gitlab-ci-cd-certification-exam)
+  - [GitLab Certified Security Specialist](https://levelup.gitlab.com/courses/gitlab-security-essentials-certification-exam)
 - [GitLab 101](/handbook/people-group/learning-and-development/gitlab-101/)
 - [GitLab 201](/handbook/people-group/learning-and-development/gitlab-201/)
 - [Learning GitLab](https://www.linkedin.com/learning/learning-gitlab-14539757/) (LinkedIn Learning)
