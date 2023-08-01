@@ -157,7 +157,7 @@ This table shows the recommended use cases to adopt, links to product documentat
 ## Resources
 
 ### Direction
-Check out the [Incident Management category direction page](https://about.gitlab.com/direction/monitor/debugging_and_health/incident_management/) for future vision and plans.
+Check out the [Incident Management category direction page](https://about.gitlab.com/direction/service_management/incident_management/) for future vision and plans.
 
 ### Documentation
 [Incident Management documentation](https://docs.gitlab.com/ee/operations/incident_management/)
