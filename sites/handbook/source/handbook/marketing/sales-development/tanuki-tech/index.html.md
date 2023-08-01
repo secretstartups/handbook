@@ -111,7 +111,7 @@ TT251: Competitive Workshop
 >
 > 3 credit hours
 
-TT252: Influence and Persuasion
+TT252: Objection Handling
 > In this class, we discuss more advanced objection handling techniques and introduce influence and persuasion.
 >
 > 3 credit hours
