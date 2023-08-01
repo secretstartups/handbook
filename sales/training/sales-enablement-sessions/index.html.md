@@ -19,11 +19,23 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Field Enablement Spotlight issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Summer 2023 Lineup**
+**Fall 2023 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Jul 27 | *No session during the last week of the quarter* | N/A |
+| Aug 3 |  FY24-Q3 - Deal Desk Update: Quote Approvals | Jesse R. |
+| Aug 10 | Data Intelligence - SFDC Overview  | Brianna V. |
+| Aug 17 |   | N/A |
+| Aug 24 | AI Add-on -GTM Launch   | Laurena A. |
+| Aug 31 |   | N/A |
+| Sep 7 | FY24-Q3 - Better Together: GitLab Alliances Update  | Rhoda B. |
+| Sep 14 |   | N/A |
+| Sep 21 |   | N/A |
+| Sep 28 |   | N/A |
+| Oct 5 | FY24-Q3 - Analyst Relations Update  | Ryan R. |
+| Oct 12 |   | N/A |
+| Oct 19 | *No session during the last week of the quarter* | N/A |
+| Oct 26 | *No session during the last week of the quarter* | N/A |
 
                                                                                                                                    
 ## Past Sessions
