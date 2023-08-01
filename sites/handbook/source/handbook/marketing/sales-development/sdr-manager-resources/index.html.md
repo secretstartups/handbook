@@ -79,7 +79,7 @@ To help structure your usage of the above, you can follow the steps below during
 
 | Resource | Purpose |   
 | :----: | :-----: | 
-|  [SDR Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/707128)  | Used to track GitLab issues involving the SDR team. This is a global issue board. Please use the purple `SDR` label to notify this team of an issue.  | 
+|  [SDR Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691)  | Used to track GitLab issues involving the SDR team. This is a global issue board. | 
 |  [SDR Event Tracker Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1718115) | Used to follow upcoming events globally | 
 |  [SDR Sisense Dashboard](https://app.periscopedata.com/app/gitlab/641469/WIP:-SDR-Metrics-Update) | Dashboard to monitor SDR leads and meetings  |  
 |  [MQL & SAO Performance vs. Target Sisense Dashboard](https://app.periscopedata.com/app/gitlab/628196/Revised-Marketing-Metrics) | Monitoring MQL and SAO performance in comparison to our goals  |
@@ -131,24 +131,21 @@ Example:
      * `[All of Sales Development] | [Survey - People Group Survey Reminder] | [📊 Feedback Requested ]`
 
 
-## "Actively Working" Status Related Demandbase Reports
+## Status Related 6Sense Reports
 
-**[BDR Assigned Actively Working -](https://web.demandbase.com/o/d/a/l/261170/su)**
+On folder #5 in the [6Sense segments list](https://gitlab.abm.6sense.com/segments/manage), you'll find the templates for the main three categories of accounts that we have. These templates are meant to be cloned and edited for your teams as per the guidelines below and will assist with coaching on 1:1s and team calls, as well as driving more predictable pipeline building.
 
-* Managers can clone and add their teams into BDR Assigned field so that they can run analytics to find any accounts showing recent intent.
-* They can subscribe to weekly snapshot.
-* They can coach their team to clone as a personal report and create subscription.
+**[Currently Actively Working Accounts Template](https://gitlab.abm.6sense.com/segments/segment/495284/accounts/?mode=edit&segment_type=6sense_network)**
 
-**[BDR Assigned Not in Actively Working -](https://web.demandbase.com/o/d/a/l/261160/l)**
-* Managers can clone and add their teams into BDR Assigned field so that they can run analytics to find any accounts showing recent intent via engagement, pricing page etc.
-* They can edit columns so that they can see which accounts have high qualification/ predict score/ activity level (product usage) indicating that they may need to be moved into AWA.
-* They can subscribe to weekly snapshot.
-* They can coach their team to clone as a personal report and create subscription. (Will need to check [MQL date persons list](https://web.demandbase.com/o/d/p/l/261084/l) to make sure that account hasn't had MQL within last 30 days. If it has, they can put into Queued status and note in next step date when to move into AW.)
+* This report will cross-reference your team's currently AWAs against 6Sense intent data, and will highlight the best ICP accounts currently on your team's pipeline.
 
-**[BDR Actively Working Accounts w/No Active Sequence or Qualifying Status -](https://web.demandbase.com/o/d/a/l/261374/l)**
-* Managers can clone for their team and add BDR assigned selectors with their team members in ruleset. This will allow them to see/coach to possible accounts that need to be worked or removed from actively working status.
-* They can run analytics on this list to see if there has been any recent engagement on these accounts where there may not be outreach going on.
-* They can coach their team to clone as a personal report and create subscription to stay on top of sequencing folks at Actively Working accounts.
+**[CE/SFDC Accounts not in Actively Working Status](https://gitlab.abm.6sense.com/segments/segment/495296/accounts/?mode=edit&segment_type=6sense_network)**
+
+* This report will highlight the best ICP accounts on our existing database, that are not actively being pursued by your team.
+
+**[Greenfield Accounts not in Actively Workin](https://gitlab.abm.6sense.com/segments/segment/495295/accounts/?mode=edit&segment_type=6sense_network)**
+
+* This report will highlight the best ICP accounts that are NOt currently on our existing database. Please note that due to the complexity of our sales territories, there may be edits required on filter #8 (Address). There are multiple variants for City, Country or Region that can be used to accurately display each team's territory. Please feel free to reach out to the Ops team to help you determine these and generate the best reports possible. 
 
 ## Sales Dev Territory and Role Reports
 
