@@ -93,16 +93,13 @@ Please be an [accountability partner](https://medium.com/@MaryLouWrites/accounta
 * When I make requests or ask questions, always include the priority and expected time frames 
 * Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
 
-# 2023 Q2 OKRs
-
-[OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&type%5B%5D=objective&milestone_title=FY24-Q2&first_page_size=20)
-
-Themes:
-* AI in everything we do
-* Deliver on high priority product roadmap items for secure, govern, growth, and data science
-* Growth of team members (hiring + training)
-* Application health (error budgets, burndown UX issues, component upgrades, cross-functional collaboration)
-
 # 2023 Q3 OKRS
 
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&milestone_title=FY24-Q3&type%5B%5D=objective&first_page_size=20)
+
+Themes:
+* Code Suggestions G/A
+* Improve quality of secure scanners for false positives and false negatives
+* Take actions based on team member pulse survey in CultureAmp
+* Improve engineering efficiency
+* Deliver on major roadmap deliverables
