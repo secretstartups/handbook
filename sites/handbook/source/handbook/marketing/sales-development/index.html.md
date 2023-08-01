@@ -619,7 +619,7 @@ A high touch sequence should be used for higher-quality leads. High touch sequen
 * Valid company email domain or company name
 * Phone number
 * Title related to our buying/influencer personas
-* Demandbase intent
+* 6Sense intent
 * Set up for company/team use checkbox equals true
 * Account has X # of Developers (MM/Large nuances)
 * LinkedIn profile
@@ -755,80 +755,62 @@ BDR outbound lead generation is done by prospecting to companies and individuals
 
 BDRs will work closely with their dedicated SAE or AE to choose which accounts move into “Actively Working”. Together they will build a strategy for those companies. It is crucial that outreach is very intentional and strategic. When reaching out, we want BDRs to offer value and become a trusted advisor, ensuring a positive impression is left whether there is current demand or not.
 
-Below, we break down our outbound process in 10 actionable steps, and we include a 2' video walkthrough of each step along with any associated documentation.
+### 1. Pre-vet Accounts
 
-### 1. Defining the scope of the outbound campaign
+In additional to our B2B database toolstack, we also use [6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/) to pre-qualify the accounts that should be considered for our | pipelines since 6Sense [scores accounts](https://6sense.com/platform/account-matching/) based on their market and profile fit.
 
-To be able to accurately forecast our results, and pipeline required, it is important to conceptualize and defining a constant calendar of micro-campaigns as the first step to any outbound process.
+There are two ways utilize 6Sense:
 
-To brainstorm and conceptualize campaigns, the best practice is to have a monthly recurring call between all the BDR members of your region. In this call information gathered from prospects on calls/emails, information sources from news sources, or any other type of datapoint can be used to discuss and come up with the micro-campaigns that the team will run for the near future.
+1. Through the SFDC iframe integrated dashboard (mandatory for FY24Q3)
+2. Through the 6Sense Platform (optional for this Quarter)
 
-These can take the form of:
+### 2A. Using 6Sense through the SFDC dashboard
 
-- Competitor Campaigns (ie. targetting users of competing technologies)<br>
-- Campaigns based on external events (ie. world evensts)<br>
-- Campaigns that utilize Field Marketing or Digital Program initiatives (ie. DevSecOps survey results)<br>
+1. Navigate to SFDC
+2. On the main tab with options (leads, accounts, etc), click on the "+" sign
+3. Select 6Sense dashboards, you can also click "customize my tabs" to add the 6sense dashboard to your homepage permanently
+4. On the 6Sense dashboard, click the cog icon on the top right
+5. On "Search by User" select "BDR Assigned" and add your name
+6. On "Other filters" select "Salesforce Account fields" and type "BDR Prospecting Status"
+7. On the "BDR Prospecting Status" field, select "Actively Working" 
 
-These campaigns [need to be specific and defined](https://smallbusinessbonfire.com/how-to-run-an-effective-micromarketing-campaign/), in the following ways:
+The dashboard will now display the top actively working accounts in your name. Do note that these are only accounts that we currently have on our database, while you can find greenfield accounts by visiting the SaaS platform (instructions in section 2B). Section 3 below explains how you can review and utilize this data. 
 
-- Duration<br>
-- Target Demographic<br>
-- Intended Messaging, Value Driver or Compelling Event<br>
-- Ultimate Goal or Outcome<br>
 
-All of the above will be used in the next steps that we'll walk you through in setting up the campaign.
+### 2B. Using 6Sense through the SaaS platform <br>
 
-### 2. Evaluating Database Options
 
-Having clearly defined the target audience of the micro-campaign, the next step is to evaluate which of our tools can be used to source the specific prospects.
+1. Navigate to 6Sense through Okta
+2. On the left-hand bar, click on the Segments tab
+3. You will find all of the relevant resources for BDRs and SDRs on the first 5 folders. These folders can be be used as per the table below. 
 
-Below, we outline the main datapoints that each of our tools can provide, and how they can be used to help structure your micro-campaign:
+**(In each folder you will find a saved template that can be cloned and edited for your individual territories.)**
 
-| Functionality | Feature Benefit | Tool Availability
-| ------ | ------ | ------ |
-| Technologies Used  | can be used for sourcing accounts that use competitor technologies | ZoomInfo, Cognism |
-| Financial Information | can be used for sourcing accounts that have recently secured funding or have been reporting increases/decreases to their annual earnings  | Zoominfo, Cognism, Sales Navigator |
-| Industries | can be used to source accounts from specific industries | Zoominfo, Cognism, Sales Navigator |
-| Personnel Changes | can be used to source accounts that are hiring for specific positions | ZoomInfo, Sales Navigator, Cognism |
-| Hiring per department | can be used to source accounts that have increases or decreases in headcount across departments | Cognism |
-| Scoops and Attributes | can be used to source accounts that have specific information publicized for product launches, key pain points and so on | ZoomInfo |
 
-Full documentation below:
-1. [Cognism](https://help.cognism.com/hc/en-gb/articles/4405749259026-What-are-event-triggers-and-how-do-I-use-them-)
-2. [ZoomInfo](https://university.zoominfo.com/learn/article/getting-the-scoops)
+| Folder | Usage |
+| ---- | ----- |
+| 1. AWA'd Accounts | These segments will display the top accounts in your current actively working list according to 6Sense intent data. By manually investigating each of those accounts you will be able to uncovered further prospect engagement data, and adjust your strategy in converting this account. This report has the same functionality as the SFDC dashboard outlined in step 2A. |
+| 2. Non-AWA Greenfield Accounts | These segments will display the top accounts in your territory that we do **not** have on our SFDC database. These accounts should be manually investigated and considered for adding to your outbound pipeline. Note that we have approx. 15% of our [TAM](https://en.wikipedia.org/wiki/Total_addressable_market) on our SFDC database, while these reports are an automated way to identify great accounts from the other 85% of the TAM in your territory. Please note that the Sales Dev Ops team is here to work with you to generate these reports, as the particularities of our Sales Territories require some editing with the filters. Please don't hesitate to reach out to us so we help you work through these.| 
+| 3. Non-AWA SFDC Accounts | These segments display the accounts that currently hold on our database that display high 6sense intent scores, but are not part of your actively working list. |
+ 
+ After choosing the type of report you'd like to work, please follow the steps below:
 
-In each of the tools you may find a library of pre-saved searches that may be indicatively be used as per the below:
+ 1. Select the template in each of the BDR folders that starts with the prefix "-[TEMPLATE]".
+ 2. On the title, add your name or territory as suggested by the naming convention. Please make sure to delete the Prefix "-[TEMPLATE]"
+ 3. Click on "Edit Segment"
+ 4. For folders 1 and 3, you'll see a prompt on one of the filters to add your name to the "BDR Assigned" Field. 
+ 5. For folder 2, you'll see a prompt to add your region to the "Address: Region" field. Do note that based on your territory there are other datapoints like "Address: City" or "Address: Country" that can be used. We're always eager to work with you to help build those reports accurately. 
+ 6. After having done the edits on steps 4 and 5. Press "Save Changes". Make sure that you've updated the naming convention accordingly and click "Save As New Segment".
 
-| Template Name | Campaigns Applicable for | Tool Availability
-| ------ | ------ | ------ |
-| [High Value Re-engage](https://gitlab.my.salesforce.com/00O4M000004e2wE)  | Re-engagement on **individual** high value prospects  | SFDC |
-| [Companies with Competitor Technology](https://app.cognism.com/search/saved-search)  | Using for Field/Digital Marketing events, or outbound campaigns centered around specific GitLab features  | Cognism |
-| [Companies with competitor technology](https://app.zoominfo.com/#/apps/search/v2/results/company?query=eyJmaWx0ZXJzIjp7InBhc3RQb3NpdGlvbiI6W3siZCI6IkN1cnJlbnQgQ29tcGFueSIsInYiOiIxIn1dLCJpc0NlcnRpZmllZCI6W3siZCI6IkluY2x1ZGUgTm9uLUNlcnRpZmllZCBDb21wYW5pZXMiLCJ2IjpmYWxzZX1dLCJzb3J0UGVvcGxlIjpbeyJkIjoiUmVsZXZhbmNlIiwidiI6IlJlbGV2YW5jZSIsImlzRGVmU3J0Ijp0cnVlfV0sInNvcnRQZW9wbGVPcmRlciI6W3siZCI6IiIsInYiOiJkZXNjIn1dLCJzb3J0Q29tcGFueSI6W3siZCI6IlJlbGV2YW5jZSIsInYiOiIiLCJpc0RlZlNydCI6dHJ1ZX1dLCJzb3J0Q29tcGFueU9yZGVyIjpbeyJkIjoiIiwidiI6ImRlc2MifV0sInNvcnRTY29vcCI6W3siZCI6IiIsInYiOiIiLCJpc0RlZlNydCI6dHJ1ZX1dLCJzb3J0U2Nvb3BPcmRlciI6W3siZCI6IiIsInYiOiJkZXNjIn1dLCJib2FyZE1lbWJlcnMiOlt7ImQiOiJFeGNsdWRlIEJvYXJkIE1lbWJlcnMiLCJ2IjowfV0sInBhcnRpYWxQcm9maWxlcyI6W3siZCI6IkV4Y2x1ZGUgUGFydGlhbCBQcm9maWxlcyIsInYiOnRydWV9XSwiZXhjbHVkZURlZnVuY3RDb21wYW5pZXMiOlt7ImQiOiJFeGNsdWRlIERlZnVuY3QgQ29tcGFuaWVzIiwidiI6dHJ1ZX1dLCJuZWdhdGlvbiI6W3siZCI6IiIsInYiOmZhbHNlfV0sImNvbnRhY3RJbmZvIjpbeyJkIjoiQW55IEluZm8iLCJ2IjoiIn1dLCJleGNsdWRlRXhwb3J0ZWRDb250YWN0cyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVFeHBvcnRlZENvbXBhbmllcyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVJbXBvcnRlZENvbXBhbmllcyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVJbXBvcnRlZENvbnRhY3RzIjpbeyJkIjoiIiwidiI6ZmFsc2V9XSwiY29uZmlkZW5jZVJhbmdlIjpbeyJkIjoiODUtOTkiLCJ2IjpbODUsOTldfV0sIm91dHB1dEN1cnJlbmN5Q29kZSI6W3siZCI6IiIsInYiOiJVU0QifV0sImlucHV0Q3VycmVuY3lDb2RlIjpbeyJkIjoiIiwidiI6IlVTRCJ9XSwidGltZUZyYW1lRHJvcGRvd24iOlt7ImQiOiJQYXN0T25lWWVhciIsInYiOjF9XSwic2NvcmluZ09wdGlvbnMiOlt7ImQiOiJNeSBmaXJzdCBJQ1AiLCJ2Ijoie1wiaWRcIjpcIlpSaFJ5Ym1QcjEwZTZwRVBUNUFxXCIsXCJvbmx5Q29udGFjdEZpbHRlcnNcIjpmYWxzZX0ifV0sImNvbnRpbmVudCI6W3siZCI6IkFmcmljYSIsInYiOiJBZnJpY2EifSx7ImQiOiJFdXJvcGUiLCJ2IjoiRXVyb3BlIn1dLCJ0ZWNoUHJvZHVjdHMiOlt7ImQiOiJHaXRodWIiLCJ2IjoiMzAxNzAifSx7ImQiOiJKZW5raW5zIiwidiI6IjI1MDYzIn0seyJkIjoiQXNzZXQgVHJhY2tlciBmb3IgSmlyYSIsInYiOiIxMjgxOTYifSx7ImQiOiJKaXJhIiwidiI6IjMwNTI1In0seyJkIjoiQXRsYXNzaWFuIiwidiI6IjEwNzUxNSJ9LHsiZCI6IkNpcmNsZUNJIiwidiI6IjMwMjA3In0seyJkIjoiQ2xvdWRCZWVzIiwidiI6IjExMDA5MSJ9LHsiZCI6IlNvdXJjZSBDb2RlIE1hbmFnZW1lbnQiLCJ2IjoiMzI4LjMxNS4qIn0seyJkIjoiU29sYW5vIENJIiwidiI6IjMwMjEzIn0seyJkIjoiVHJhdmlzIENJIiwidiI6IjMwMjA1In0seyJkIjoiSHVkc29uIENvbnRpbnVvdXMgSW50ZWdyYXRpb24gKENJKSIsInYiOiIxMTQxNTEifSx7ImQiOiJBenVyZSBBdXRvbWF0aW9uIiwidiI6IjEyODg1MyJ9LHsiZCI6IkF6dXJlIEJhY2t1cCIsInYiOiIxMjg3ODkifV19LCJzZWFyY2hUeXBlIjoxLCJpY3BTdGF0dXMiOnRydWUsImRlZmF1bHRJY3BQcm9maWxlIjp7Il9pZCI6IlpSaFJ5Ym1QcjEwZTZwRVBUNUFxIiwic2hhcmVkVXNlcnMiOltdLCJzaGFyZVdpdGhBbGxVc2VycyI6ZmFsc2UsIm9ubHlDb250YWN0RmlsdGVycyI6ZmFsc2UsIl9ycGVybSI6W10sIl93cGVybSI6W10sInNjb3JpbmdQcm9maWxlTmFtZSI6Ik15IGZpcnN0IElDUCIsImZpZWxkcyI6W3sibmFtZSI6ImVtcGxveWVlU2l6ZU1pbiIsInZhbHVlcyI6W3sidmFsdWUiOiIxMDAiLCJ3ZWlnaHQiOjV9XX0seyJuYW1lIjoiZW1wbG95ZWVTaXplTWF4IiwidmFsdWVzIjpbeyJ2YWx1ZSI6IjUwMDAiLCJ3ZWlnaHQiOjV9XX0seyJuYW1lIjoiZG96aUluZHVzdHJ5IiwidmFsdWVzIjpbeyJ2YWx1ZSI6ImJpenNlcnZpY2UudGVjaGNvbnN1bHRpbmciLCJ3ZWlnaHQiOjV9XX0seyJuYW1lIjoiY29udGluZW50IiwidmFsdWVzIjpbeyJ2YWx1ZSI6IkV1cm9wZSIsIndlaWdodCI6NX1dfV0sInVzZXJJZCI6InVBdm5EQUVtUUttdnU1a2JZcVVFIiwidXNlciI6eyJ1c2VybmFtZSI6InByb2RvcG91bG9zQGdpdGxhYi5jb20iLCJuYW1lIjoiUGFub3MgUm9kb3BvdWxvcyIsInpvb21fYWNjb3VudF9pZCI6MzAxNzgyNjl9LCJjb21wYW55SWQiOjIwMDIxNDc2LCJfdXBkYXRlZF9hdCI6IjIwMjEtMTEtMDhUMDk6Mjg6MDcuNDQzWiIsIl9jcmVhdGVkX2F0IjoiMjAyMS0xMS0wOFQwOToyODowNy40NDNaIn0sInNraXBIaXN0b3J5IjpmYWxzZSwicGFnZSI6MX0%3D) | Using for Field/Digital Marketing events, or outbound campaigns centered around specific GitLab features  | ZoomInfo |
-| [Companies with Recent Funding](https://app.cognism.com/search/saved-search)  | Using in conjunction with our value driver messaging (cost, efficiency, compliance) which is particularly of interest of companies that have recently acquired, or are about to acquire, fudning  | Cognism |
-| [Companies with Headcount Decrease more than 30%](https://app.zoominfo.com/#/apps/search/v2/results/company?query=eyJmaWx0ZXJzIjp7InBhc3RQb3NpdGlvbiI6W3siZCI6IkN1cnJlbnQgQ29tcGFueSIsInYiOiIxIn1dLCJpc0NlcnRpZmllZCI6W3siZCI6IkluY2x1ZGUgTm9uLUNlcnRpZmllZCBDb21wYW5pZXMiLCJ2IjpmYWxzZX1dLCJzb3J0UGVvcGxlIjpbeyJkIjoiUmVsZXZhbmNlIiwidiI6IlJlbGV2YW5jZSIsImlzRGVmU3J0Ijp0cnVlfV0sInNvcnRQZW9wbGVPcmRlciI6W3siZCI6IiIsInYiOiJkZXNjIn1dLCJzb3J0Q29tcGFueSI6W3siZCI6IlJlbGV2YW5jZSIsInYiOiIiLCJpc0RlZlNydCI6dHJ1ZX1dLCJzb3J0Q29tcGFueU9yZGVyIjpbeyJkIjoiIiwidiI6ImRlc2MifV0sInNvcnRTY29vcCI6W3siZCI6IiIsInYiOiIiLCJpc0RlZlNydCI6dHJ1ZX1dLCJzb3J0U2Nvb3BPcmRlciI6W3siZCI6IiIsInYiOiJkZXNjIn1dLCJib2FyZE1lbWJlcnMiOlt7ImQiOiJFeGNsdWRlIEJvYXJkIE1lbWJlcnMiLCJ2IjowfV0sInBhcnRpYWxQcm9maWxlcyI6W3siZCI6IkV4Y2x1ZGUgUGFydGlhbCBQcm9maWxlcyIsInYiOnRydWV9XSwiZXhjbHVkZURlZnVuY3RDb21wYW5pZXMiOlt7ImQiOiJFeGNsdWRlIERlZnVuY3QgQ29tcGFuaWVzIiwidiI6dHJ1ZX1dLCJuZWdhdGlvbiI6W3siZCI6IiIsInYiOmZhbHNlfV0sImNvbnRhY3RJbmZvIjpbeyJkIjoiQW55IEluZm8iLCJ2IjoiIn1dLCJleGNsdWRlRXhwb3J0ZWRDb250YWN0cyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVFeHBvcnRlZENvbXBhbmllcyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVJbXBvcnRlZENvbXBhbmllcyI6W3siZCI6IiIsInYiOmZhbHNlfV0sImV4Y2x1ZGVJbXBvcnRlZENvbnRhY3RzIjpbeyJkIjoiIiwidiI6ZmFsc2V9XSwiY29uZmlkZW5jZVJhbmdlIjpbeyJkIjoiODUtOTkiLCJ2IjpbODUsOTldfV0sIm91dHB1dEN1cnJlbmN5Q29kZSI6W3siZCI6IiIsInYiOiJVU0QifV0sImlucHV0Q3VycmVuY3lDb2RlIjpbeyJkIjoiIiwidiI6IlVTRCJ9XSwidGltZUZyYW1lRHJvcGRvd24iOlt7ImQiOiJQYXN0T25lWWVhciIsInYiOjF9XSwic2NvcmluZ09wdGlvbnMiOlt7ImQiOiJNeSBmaXJzdCBJQ1AiLCJ2Ijoie1wiaWRcIjpcIlpSaFJ5Ym1QcjEwZTZwRVBUNUFxXCIsXCJvbmx5Q29udGFjdEZpbHRlcnNcIjpmYWxzZX0ifV0sImVtcGxveWVlR3Jvd3RoUmF0ZSI6W3siZCI6IiIsInYiOnsibWF4UmF0ZSI6LTMwLCJ0aW1lRnJhbWUiOjF9fV0sImNvbnRpbmVudCI6W3siZCI6IkFmcmljYSIsInYiOiJBZnJpY2EifSx7ImQiOiJFdXJvcGUiLCJ2IjoiRXVyb3BlIn1dfSwic2VhcmNoVHlwZSI6MSwiaWNwU3RhdHVzIjp0cnVlLCJkZWZhdWx0SWNwUHJvZmlsZSI6eyJfaWQiOiJaUmhSeWJtUHIxMGU2cEVQVDVBcSIsInNoYXJlZFVzZXJzIjpbXSwic2hhcmVXaXRoQWxsVXNlcnMiOmZhbHNlLCJvbmx5Q29udGFjdEZpbHRlcnMiOmZhbHNlLCJfcnBlcm0iOltdLCJfd3Blcm0iOltdLCJzY29yaW5nUHJvZmlsZU5hbWUiOiJNeSBmaXJzdCBJQ1AiLCJmaWVsZHMiOlt7Im5hbWUiOiJlbXBsb3llZVNpemVNaW4iLCJ2YWx1ZXMiOlt7InZhbHVlIjoiMTAwIiwid2VpZ2h0Ijo1fV19LHsibmFtZSI6ImVtcGxveWVlU2l6ZU1heCIsInZhbHVlcyI6W3sidmFsdWUiOiI1MDAwIiwid2VpZ2h0Ijo1fV19LHsibmFtZSI6ImRvemlJbmR1c3RyeSIsInZhbHVlcyI6W3sidmFsdWUiOiJiaXpzZXJ2aWNlLnRlY2hjb25zdWx0aW5nIiwid2VpZ2h0Ijo1fV19LHsibmFtZSI6ImNvbnRpbmVudCIsInZhbHVlcyI6W3sidmFsdWUiOiJFdXJvcGUiLCJ3ZWlnaHQiOjV9XX1dLCJ1c2VySWQiOiJ1QXZuREFFbVFLbXZ1NWtiWXFVRSIsInVzZXIiOnsidXNlcm5hbWUiOiJwcm9kb3BvdWxvc0BnaXRsYWIuY29tIiwibmFtZSI6IlBhbm9zIFJvZG9wb3Vsb3MiLCJ6b29tX2FjY291bnRfaWQiOjMwMTc4MjY5fSwiY29tcGFueUlkIjoyMDAyMTQ3NiwiX3VwZGF0ZWRfYXQiOiIyMDIxLTExLTA4VDA5OjI4OjA3LjQ0M1oiLCJfY3JlYXRlZF9hdCI6IjIwMjEtMTEtMDhUMDk6Mjg6MDcuNDQzWiJ9LCJza2lwSGlzdG9yeSI6ZmFsc2UsInBhZ2UiOjF9)  | Using in conjunction with our messaging around a singular DevOps platform, and it's benefits towards attrition and bottom line  | ZoomInfo |
 
-### 3. Cross-Referencing with DemandBase
 
-In additional to our B2B toolstack, we also use DemandBase to narrow down the validity of our results. Demandbase offers a lot of additional datapoints like [qualification scores](/handbook/marketing/account-based-marketing/demandbase/), that can be used to narrow down a big data set to a hyper-targetted prospecting list.
-
-To cross-reference with Demandbase, please follow the steps below:
-
-1. Export the list(s) sourced from ZoomInfo/Cognism to .CSV by following the steps [here](https://help.zoominfo.com/18435-account-search/exporting-companies) or [here](https://help.cognism.com/hc/en-gb/articles/4407711013650-Navigating-the-Company-Contact-full-page-View-)<br>
-2. Make sure that the exported .CSV has the company domain and company name, these will be used by DemandBase to match accounts to their database.<br>
-3. Follow the [steps here](https://support.demandbase.com/hc/en-us/articles/4404424750861-Create-and-Access-Account-Lists) to upload the .CSV to demandbase<br>
-4. Navigate to Account Lists in DemandBase and find the report template named [ADD REPORT NAME HERE]<br>
-5. Clone the report and go to the selector tab<br>
-6. Change the countries or regions to the ones that you are covering, along with the employee count<br>
-7. Make sure that the 1 or 2 `Member of List` fields are assigned to your new account imports<br>
-8. If the results are too extensive, you can add the DemandBase fields `Qualification Score`, `Pipeline Predict` or `Engagement Minutes` to drill down results even further.<br>
-
-### 4. Manual Research on Accounts
+### 3. Manual Research on Accounts
 
 No matter how efficiently we're trying to use our toolchain, these tools are still prone to error, and manual research is required to best shortlist the prospecting lists that cross-referencing will provide.
 
 Manual research will also provide additional context that can be used to hyper-personalize your outreach to your prospects.
 
-For each account that you want to investigate, start with SFDC to make sure that there are no duplicate accounts. The report templates in DemandBase should exclude existing customers or accounts actively prospected, but we cannot automatically exclude accounts that have a different naming or domain on salesforce (ie. GitLab and GTLB)
+For each account that you want to investigate, start with SFDC to make sure that there are no duplicate accounts. The report templates in 6Sense should exclude existing customers or accounts actively prospected, but we cannot automatically exclude accounts that have a different naming or domain on salesforce (ie. GitLab and GTLB)
 
 The importance of diligent manual research will lead to the below efficiencies:
 
@@ -843,6 +825,16 @@ The importance of diligent manual research will lead to the below efficiencies:
 4. Search for the Account's HQ address, along with any regional business unit address.
 
 **To hyper-personalize your messaging:**
+
+Please follow the steps below to understand how to research the data provided on 6Sense, and 
+to cross-reference this data with our internal knowledge base so that you create your account strategy accordingly.
+
+1. Understand and utilize 6Sense data. <br>
+    i. Each segment has an accounts tab that displays all the accounts that correspond to this segment. This view can be shortlisted further by using the three analytics tabs as all datapoints in these tabs is clickable. <br>
+    ii. **Predictive Analytics** filters accounts by their propensity to buy. This data can be used to split prospecting efforts between high-priority outbound campaigns and low-priority awareness campaigns <br>
+    iii. **Behavioural Analytics** filters accounts by the intent/value-driver that they mostly focused on.  This data can be used to split accounts into specific value-driver focused campaigns. <br>
+    iv. **Profile Analytics** filter accounts by the demographic of each company in terms of location or size. This data can be used to run location-specific campaigns.
+
 
 1. Search for past opportunities on SFDC<br>
     i. Check the qualification notes<br>
@@ -870,7 +862,9 @@ The importance of diligent manual research will lead to the below efficiencies:
     ii. Check for relevant messaging based on persona<br>
     iii. Check for relevant pain-points based on value driver<br>
 
-### 5. Exporting Accounts and Leads to SFDC, and adding to your Outbound Pipeline
+
+
+### 4. Exporting Accounts and Leads to SFDC, and adding to your Outbound Pipeline
 
 After having manually shortlisted the accounts that are applicable to your campaign, the next step is to determine the relevant prospects per account and export them to SFDC. It is important to add accounts to your outbound pipeline so that AEs and other SDRs/BDRs know this is an account that is already being touched, and to avoid confusion or multiple people approaching the same prospects. Before moving an account into “Actively Working Status”, make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
 
@@ -915,7 +909,7 @@ BDR Account views are to help with territory organization. It is very important 
 * **B5 Biew**- >>>>B5 Mvd to "WorkedinFY" this wk (Clone) - This view will need to be cloned to show Worked in FY accounts with a recent Recycle Date.
 
 
-**Before moving an account into “Actively Working Status”**, the BDR will do a search using this [Demandbase list](https://web.demandbase.com/o/d/p/l/261084/l) to make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
+**Before moving an account into “Actively Working Status”**, the BDR will make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
 
 If a related AE or SDR relays information that was not picked up in the BDR's research, the BDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member whose been engaged so they can reach out. If the BDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the BDR and the related team member. **Note: Only activity logged in SFDC will be recognized as activity.**
 
@@ -1009,7 +1003,7 @@ The SFDC prospect database is split into five segments: Core users, free GitLab.
 ### Outbound Workflow
 **IMPORTANT**: EMEA reps, old leads/contacts for EU nations can only be called or emailed if they were in our system from May 2018 or later. Any lead/contact that was brought into our system prior would need to optin to communication. Any new leads/contacts can only be called or emailed if they have been brought in from ZoomInfo. You can also leverage LinkedIn Sales Navigator.
 
-The [BDR outbound framework](https://drive.google.com/drive/search?q=%20Outbound%20Process%20Framework%22%40gitlab.com) (sample is linked) will walk you through both strategy and execution of outbound prospecting.
+The [BDR | framework](https://drive.google.com/drive/search?q=%20Outbound%20Process%20Framework%22%40gitlab.com) (sample is linked) will walk you through both strategy and execution of outbound prospecting.
 
 When creating new prospects in SFDC these should be added as Leads to the system. New Leads can for example be prospects you are talking to on LinkedIn, prospects you are introduced to by someone at GitLab, or by other Leads or Contacts in SFDC.
 Everyone you are contacting should exist on SFDC so that you, your manager, and the Account owner have a full picture of who you are prospecting into. LinkedIn conversations can be sent to SFDC using the "Copy to CRM" feature within the LinkedIn Sales Navigator chat platform.
@@ -1279,9 +1273,9 @@ Slack is encouraged for informal communication, but anything related to strategy
 #### ICP - Ideal Customer Profile
 
 * **High LAM** - High # of Estimated Dev Count left to purchase GitLab (you will need to consider the number in relation to employee size)
-* **High DB QS** - High Demandbase Qualification Score (greater than 70)
+* **High DB QS** - High 6Sense Qualification Score (greater than 70)
 * **SAE Insights** - Detail any SAE/AE given direction: sometimes found in Account Rank Notes/AE Notes fields
-* **Persons with LIMs** - Uncover via Demandbase or SFDC reporting that there has been recent engagement from persons at account
+* **Persons with LIMs** - Uncover via 6Sense or SFDC reporting that there has been recent engagement from persons at account
 * **Tech Used** - List technologies they use that signal they may be a good fit
 * **Triggers** - List any compelling events or “Why’s” that signal this is a good time to reach out. If there are none, write “None”.
 
@@ -1321,7 +1315,7 @@ The next step after identifying all of the Net New focus accounts in a region is
 *  Early Adopters / Innovative IT Shops (Identifiers & Keywords): Kubernetes / Containers, Microservices, Multi-cloud, DevOps, DevSecOps, CICD (and open-source + proprietary tools), SAST / DAST, Digital Transformation
 *  Current DevOps Adoption (multiple DevOps roles on staff or hiring for multiple DevOps positions)
 
-**Outbound Prospecting Framework**
+** Outbound Prospecting Framework**
 
 | **Priority Level**        |  **Account Strategy Includes**                 | **Next Step Date**      | **Next Step Notes**      |
 | :---------- |  :----------                  | :----------------- | :----------------------|
@@ -1359,8 +1353,8 @@ Create a LEAD for that account and then convert to CONTACT to create the ACCOUNT
 - Free to paid upgrades: Existing Core/CE users can be targeted to upgrade to a paid version of GitLab
 
 ### [Ranking](/handbook/sales/field-operations/gtm-resources/#definitions-for-enterprise-account-ranking) and prioritization of accounts:
-- Rank 1: Expand with Purpose (EwP) accounts should be closely/strategically worked with SAEs. These accounts have High Demandbase intent scores and should therefore be High touch by BDR.
-- Rank 2: ICP Ultimate parent accounts that have Core/CE-Users in a hierarchy, Total CARR/LAM for account, Med/Low Demandbase intent scores, and small renewals in current FQ.
+- Rank 1: Expand with Purpose (EwP) accounts should be closely/strategically worked with SAEs. These accounts have High 6Sense intent scores and should therefore be High touch by BDR.
+- Rank 2: ICP Ultimate parent accounts that have Core/CE-Users in a hierarchy, Total CARR/LAM for account, Med/Low 6Sense intent scores, and small renewals in current FQ.
 - Rank 3: As above but are not our ICP
 
 ### Professional Services Opportunities
