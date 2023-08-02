@@ -1,5 +1,4 @@
 ---
-
 title: Support Team Handbook
 description: The GitLab Support Team Handbook is the central repository for why and how we work the way we do.
 ---
@@ -188,7 +187,7 @@ The continued growth of the support team provides an opportunity to review how b
 
 ---
 
-<%= partial "includes/we-are-also-product-development.md" %>
+{{% partial "we-are-also-product-development.md" %}}
 
 ## Dogfooding in Support
 
