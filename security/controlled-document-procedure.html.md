@@ -80,6 +80,11 @@ Most controlled documents will be published to our public facing [handbook](http
 ### Review
 Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Ad-hoc changes do not need to be reviewed and approved, but can only be merged by a code owner of the controlled document.
 
+Reviewers of controlled documents are required to 
+
+1. Ensure that ["say why not just what" transparency](https://handbook.gitlab.com/handbook/values/#say-why-not-just-what) is visible in the MR title, and description. 
+1. Ensure that announcements for team members are scheduled ([Slack, company newsletter](/handbook/people-group/employment-branding/people-communications/)), and tick off the [MR template task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Default.md).
+
 #### List of Controlled Documents
 
 <details markdown="1">
