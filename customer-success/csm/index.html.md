@@ -239,7 +239,7 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 - [Overview of available resources, training plans & career paths](/handbook/customer-success/csm/csm-development/)
 - [CSM Aspiring Leaders Program](/handbook/customer-success/csm/aspiring-leaders-program/)
 
-### CSM Responsibilities
+### CSM Activities
 
 - [CSM Onboarding](/handbook/customer-success/csm/csm-onboarding/)
 - [CSM Rhythm of Business](/handbook/customer-success/csm/rhythm/)
@@ -258,7 +258,7 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 - [CSM READMEs](/handbook/customer-success/csm/readmes/) (Optional)
 
 
-##### CSM-Assigned
+### Lifecycle Management
 
 - [Transitioning a Customer from Pre-Sales to Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 - [Account Engagement and Prioritization](/handbook/customer-success/csm/engagement/)
@@ -266,7 +266,9 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 - [Account Onboarding](/handbook/customer-success/csm/onboarding/)
 - [Success Plans](/handbook/customer-success/csm/success-plans/)
    - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
-- [Use Case Enablement & Use Case Expansion - The Two Use Case Adoption Motions](/handbook/customer-success/csm/stage-enablement-and-expansion/)
+- Driving Adoption
+   - LANDING ZONES
+     - [CI Landing Zone](/handbook/customer-success/csm/adoption-landing-zones/CI/)
    - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
    - [The Customer Value Received with Service Ping](/handbook/customer-success/csm/service-ping-faq/)
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
