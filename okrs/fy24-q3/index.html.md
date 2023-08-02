@@ -42,7 +42,7 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 ### 2. CEO: [Reduce churn and contraction by delivering predictable high value to customers](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3725)
 1. **CEO KR**: [Reduce churn and contraction to 70% of the ATR as compared to FY23-Q4](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3731)
 1. **CEO KR**: [Improve CI adoption by increasing green ARR by X percentage points resulting in a Y% green outcome](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3732)
-1. **CEO KR**: [Reduce ARR exceptions for cloud licensing to a maximum of 10% of ARR being exempted from sharing data](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3733)
+1. **CEO KR**: [Reduce ARR exceptions for cloud licensing to a maximum of 10% of Q3 new purchase ARR being exempted from sharing data](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3733)
 
 ### 3. CEO: [Make GitLab easier to do business with](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3726)
 1. **CEO KR**: [Launch enhanced supporting offerings, including PubSec 24/7 and assigned engineers, and onboard X new customers to Dedicated](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3734)
