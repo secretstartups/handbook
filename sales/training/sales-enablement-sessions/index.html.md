@@ -26,7 +26,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | Aug 3 |  FY24-Q3 - Deal Desk Update: Quote Approvals | Jesse R. |
 | Aug 10 | Data Intelligence - SFDC Overview  | Brianna V. |
 | Aug 17 |   | N/A |
-| Aug 24 | AI Add-on -GTM Launch   | Laurena A. |
+| Aug 24 |    |  |
 | Aug 31 |   | N/A |
 | Sep 7 | FY24-Q3 - Better Together: GitLab Alliances Update  | Rhoda B. |
 | Sep 14 |   | N/A |
