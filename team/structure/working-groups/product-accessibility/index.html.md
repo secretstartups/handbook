@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/product-accessibility/"
 | Target End Date   | TBD                                                                                                                                       |
 | Slack             | #wg_product_accessibility (only accessible from within the company)                                                                             |
 | Google Doc        | [Agenda](https://docs.google.com/document/d/1Ss3vVvLS_sxwkuXT6zm2Unz69KRH2S_FWG_G3xUesRE/edit?usp=sharing) (only accessible from within the company) |
-| Epic              |                                                                               |
+| Epic              | [HQ epic](https://gitlab.com/groups/gitlab-org/-/epics/11090)                                                       |
 | Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress)                                                                                     |
 
 ### Context
