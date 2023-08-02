@@ -51,7 +51,7 @@ The kickoff call is the first conversation between the CSM and the customer. Thi
 
 The goal of the kickoff call is to align on desired business outcomes, key upcoming milestones, and create clarity on our partnership as CSMs. 
 
-#### **What Deck Should I Use for the Kickoff call?**
+#### **Which Deck Should I use for the Kickoff call?**
 
 CSMs select from the following templates for their kick off call, depending on the customer handover:
 
@@ -61,13 +61,13 @@ CSMs select from the following templates for their kick off call, depending on t
 The CSM should review and revise this deck in advance of the kickoff call based on what they already know about the customer and what they are still looking to understand. 
 
 #### **What should I know coming out of the Kickoff call?**
-There are 4 primary questions you always want to have answered coming out of a kickoff call:
+Ideally, the following information has been collected in the presales process and we use the kickoff to confirm and build upon this knowledge.  In the times that these questions are not known, we always seek to leave the kickoff with an understanding of the following?
 1. ` Why did you buy GitLab?` Ideally you've already answered this question in your handoff from pre-sales, so if that's the case, reframe the question to validate that you understand they purchased GitLab for X reason and confirm your understanding of what challenges the customer is looking to solve.
 1. `What other tools are you using?` Understanding what the tool landscape is for the customer is crucial in being able to help them adopt GitLab in relation to their desired use cases. Try to write down their tool for each of the following use cases: SCM, CI, CD, Package, Security, Monitoring, Agile
 1. `What are your business goals?` After they achieve their immediate goal of whatever they want to use GitLab for, what's next for them?
 1. `Are there other stakeholders to involve?` Is there anyone else who would benefit from having business discussions with GitLab? CSMs should always have at least 2 regular contacts they speak with, ideally in line with our [target personas](/handbook/customer-success/csm/engagement/#customer-personas).
 
-Review the [tasklist for the first cadence call](/handbook/customer-success/csm/cadence-calls/#tasklist-for-the-first-cadence-call) to ensure you cover additional important items, such as support and training.
+In addition to the above questions, make sure to review the [tasklist for the first cadence call](/handbook/customer-success/csm/cadence-calls/#tasklist-for-the-first-cadence-call) to ensure you cover additional important items, such as support and training.
 
 One of the most important action items coming out of the kickoff call is [establishing the cadence call](/handbook/customer-success/csm/cadence-calls/). The CSM should have the ongoing cadence call schedule determined with the customer by the end of the kickoff call, as well as a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
 
