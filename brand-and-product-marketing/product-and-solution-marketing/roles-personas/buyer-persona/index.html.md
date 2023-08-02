@@ -151,7 +151,7 @@ See the [Enterprise IT Roles page](/handbook/marketing/brand-and-product-marketi
 
 * **My Messaging:**
    * Spend more time coding and less time context switching
-   * Receive feedback from secuirty and other teams in the same tool you use for development
+   * Receive feedback from security and other teams in the same tool you use for development
    * Get real-time feedback with automated CI tools
    * Easy collaboration for quicker resolution and deployment
 
