@@ -265,7 +265,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ 
 sudo apt-get update
 ```
 
-## .bashrc/.bash_profile setup
+## .bashrc/.bash_profile/.zshrc setup
 
 What exactly you put in this file it really up to you, but to help ensure all
 the scripts and the like we use work properly, we would at least recommend doing
@@ -317,11 +317,22 @@ tasks you may have to do.
 
 The recommended commands to use are:
 
+For Bash:
+
 ```bash
 mkdir -p ~/bin
 git clone git@gitlab.com:gitlab-com/support/support-ops/support-ops-tools/toolbox.git ~/bin/support-ops-toolbox
 echo 'export PATH="$PATH:$HOME/bin/support-ops-toolbox"' >> ~/.bashrc
 source ~/.bashrc
+```
+
+For Zsh:
+
+```bash
+mkdir -p ~/bin
+git clone git@gitlab.com:gitlab-com/support/support-ops/support-ops-tools/toolbox.git ~/bin/support-ops-toolbox
+echo "path+=('$HOME/bin/support-ops-toolbox')" >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ## Slack

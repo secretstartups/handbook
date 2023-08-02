@@ -928,6 +928,17 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 
 <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
 
+#### Email signature if employed by our German entity
+
+If you are employed by our German entity GitLab GmbH, you will need to include some additional company related details after your own signature in emails ([along with other forms of communication listed on the German entity Handbook page](https://about.gitlab.com/handbook/people-group/employment-solutions/entities/germany-gmbh/)) as follows:
+
+<span style="font-family: serif;font-size: small;display: block;">John Doe</span>
+<span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
+
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-rgb.png" width="98" height="37">
+
+<span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
+
 #### Filters
 
 ##### Apply label on mention

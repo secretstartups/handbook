@@ -37,6 +37,7 @@ product.
 | [Alyssa Villa](https://gitlab.com/avilla4)            | Support Operations Specialist         |
 | [Dylan Tragjasi](https://gitlab.com/dtragjasi)        | Support Operations Specialist         |
 | [Sarah Cole](https://gitlab.com/Secole)               | Support Operations Specialist         |
+| [Rene Verschoor](https://gitlab.com/rverschoor)       | Support Operations Specialist         |
 
 ## Hiring Plan
 
