@@ -42,7 +42,7 @@ description: IT Business Technology
     <h3>Enterprise Applications</h3>
     <a href="/handbook/business-technology/enterprise-applications/" class="btn btn-purple" style="width:200px;margin:5px;">Enterprise Applications</a>
     <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple" style="width:200px;margin:5px;">Architecture & Integrations</a>
-    <a href="/sales/field-operations/sales-systems/" class="btn btn-purple" style="width:200px;margin:5px;">Sales Systems</a>
+    <a href="/handbook/sales/field-operations/sales-systems/" class="btn btn-purple" style="width:200px;margin:5px;">Sales Systems</a>
   </div>
 </div>
 
