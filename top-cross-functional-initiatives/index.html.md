@@ -82,11 +82,6 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
    1. Quarter Started/Starting: FY23-Q4
-1. Leading Organization Growth
-   1. DRI / Sponsor: @esalvadorp / @akramer
-   1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25-Q4. Follows User Engagement Initiative.
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
-   1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
 1. Continue to win against GitHub and ship AI features
    1. DRI / Sponsor: @justinfarris / @david
    1. Description: Make GitLab (the application) smarter by shipping 16 Generally Available (GA) AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s "Continue to win against GitHub with AI in all we do” [Yearly](https://about.gitlab.com/company/yearlies/). In addition to releasing features, this also includes overall and related product positioning, R&D priorities, marketing messaging and field readiness. 
@@ -143,4 +138,10 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Description: Adjust free program offerings to increase conversion rate and reduce sales and marketing cost while still giving back to students, startups, educational institutions, open source projects, GitLab contributors, and nonprofits.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/free-saas-user-efficiency/-/epics/1)
    1. Quarter Started/Starting: FY23-Q1
+   1. Quarter Ended: FY24-Q2
+1. Leading Organization Growth
+   1. DRI / Sponsor: @esalvadorp / @akramer
+   1. Description: Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be Leading Organizations by FY25-Q4. Follows User Engagement Initiative.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
+   1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
    1. Quarter Ended: FY24-Q2
