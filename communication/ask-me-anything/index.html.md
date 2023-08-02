@@ -22,14 +22,16 @@ Ask Me Anything (AMA) meetings are arranged to allow team members the opportunit
 
 ### Who's Involved
 
-AMA meetings typically include the whole company, and are usually hosted by a leader, team member, or a group of leaders.
+AMA meetings typically include the whole company, and are usually initiated by a leader, team member, or a group of leaders.
 
-They can be hosted by anyone who wants to host an AMA, but typically are hosted by one of the following:
+They can be initiated by anyone who wants to schedule an AMA, but are typically initiated by one of the following:
 
 - [GitLab E-Group Member](https://about.gitlab.com/company/team/?department=executive)
 - Director + Leaders
 - [Board Member](/handbook/board-meetings/#board-of-directors)
 - [GitLab TMRG group](https://about.gitlab.com/company/culture/inclusion/erg-guide/)
+
+AMAs do not need to have a host, but there should be a person or people available to answer questions related to the AMA topic. 
 
 Occasionally an AMA might be held for a smaller audience. It is encouraged for all AMAs to be open to the full company whenever possible. Occasionally an AMA may not make sense to be sent to the whole company. In those instances, it is still encouraged to add the calendar invitation to the GitLab Team Meetings Calendar as sometimes team members may want to join a call that may not be directly directly applicable to them. Whenever creating an AMA for a smaller group, be sure to invite the team directly in the calendar invite.
 
@@ -76,12 +78,9 @@ Before facilitating a session, all facilitators will complete the following step
 
 **Current Facilitators:** 
 Template: "Name" - "Role", **Self Identified (Optional):** 
-
-- Candace Byrdsong William - Manager, Diversity, Inclusion & Belonging **Self Identified (Optional):** CIS black woman; **Region: NORAM**
 - Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31; **Region: APAC**
 - Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45; **Region: NORAM**
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
-- Carol Teskey - Senior Director, People Success, **Self Identified (Optional):** CIS gender woman; **Region: EMEA**
 - Carolyn Bednarz - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
 - Roos Takken - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: EMEA**
 
