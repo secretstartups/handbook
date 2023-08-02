@@ -511,15 +511,23 @@ We have the following automation goals for the Remote Development Workflow. Unle
 **Goal:** Syncing Remote Development workflow and GitLab workflow labels
 
 **Automation:**
-- [Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"workflow::refinement" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L77)
+- [Issues in ~rd-workflow::unprioritized but with no GitLab workflow label should have ~"refined" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L77)
 - [Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L53)
 - Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
+
+**Goal:** Apply correct ~rd-workflow label to reopened issues
+
+**Automation:**
+- Re-opened issues which are open but in ~rd-workflow::done should have ~"rd-workflow::prioritized" assigned. (TODO: implement)
+- Example: https://gitlab.com/gitlab-org/gitlab/-/issues/390597#note_1
 
 **Goal:** To ensure issues and MRs are 1-1
 
 **Automation:**
 - Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
 - Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
+
+
 
 <!-- LINKS START -->
 
