@@ -4,11 +4,8 @@ title: Customer Support Department Performance Indicators
 description: Displays Support KPIs, pulled from full list of company performance indicators.
 ---
 
-## On this page
+Performance indicators are pending migration.  Please [Click here to view](https://about.gitlab.com/handbook/support/performance-indicators/)
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-<%= performance_indicators('Customer Support Department') %>
+<script>
+window.location.replace(new URL(window.location.protocol + "//about.gitlab.com" + window.location.pathname))
+</script>
