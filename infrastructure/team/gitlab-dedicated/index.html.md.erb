@@ -333,8 +333,8 @@ There are times when we are impacted by an upstream library bug. While waiting f
 
 To reduce the team's cognitive load on having to keep a mental record of all the applied temporary workarounds, we use the following process to track temporary workarounds:
 
-1. Open a followup issue with the label `workaround::active`. The aim of this issue is to ensure we keep track of the workarounds and we can set a process to validate whether the workaround can be removed.
-1. Add a comment in the code describing the workaround and a link to the followup issue. e.g. [workaround on pyyaml bug](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/merge_requests/1873/diffs)
+1. Open a follow-up issue with the label `workaround::active`. The aim of this issue is to ensure we keep track of the temporary workarounds and we can set a process to validate whether the workaround can be removed. Each workaround label is described in more detail in the [workaround labels section](#workaround-labels)
+1. Add a comment in the code describing the workaround and a link to the follow-up issue. e.g. [workaround on pyyaml bug](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/instrumentor/-/merge_requests/1873/diffs)
 1. If the temporary workaround involves running scripts by the SRE during maintenance windows, we add the actions in the triage-ops' [tooling-upgrade-toil](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/policies/gitlab-dedicated/tooling-upgrade-toil.yml#L55) policy.
 
 ### Labels
@@ -345,6 +345,7 @@ Commonly used labels are:
 1. Scoped `workflow-infra` labels.
 1. Scoped `component` labels.
 1. Scoped `cloud-provider` labels.
+1. Scoped `workaround` labels.
 
 The `team::Environment Automation` label is used in order to allow for easier filtering of issues applicable to the team that have group level labels applied.
 
@@ -421,6 +422,14 @@ These scoped labels are intended to distinguish generic work to everything made 
 | ----------- | ----------- |
 | ![AWS](./img/cloud-provider-aws.png) | Amazon Cloud specific implementation |
 | ![AWS](./img/cloud-provider-gcp.png) | Google Cloud specific implementation |
+
+#### Workaround labels
+
+Scoped workaround labels are intended to track temporary workarounds applied to GitLab Dedicated tenant instances that are supposed to be removed once a permanent fix is available. These labels need to be added to the follow-up issues that describe the implementation of the permanent fix.
+
+| Workaround label | Description |
+| ----------- | ----------- |
+| ![workaround active](./img/workaround-active.png) | This label is applied to follow-up issues that had temporary workarounds applied to address a problem in one or more production tenant instances |
 
 ### Resources
 
