@@ -1,16 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Associating purchases with additional accounts
 category: CustomersDot
 description: Associating subscription with other CustomersDot users and changing subscription owner.
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ----
 
@@ -53,18 +48,17 @@ Consider using the [Support::L&R::Change Customers Portal Contact](https://gitla
 
 If the requestor is an existing subscription contact, have access to the Customer Portal account or email address of the previous owner, guide them to:
 
-   1. Issue a [password reset](https://customers.gitlab.com/customers/password/new)
-      to the existing owner's email.
-   2. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information) by changing over the personal details.
-   3. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account) to the Customers Portal account or [change the linked account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) for authentication.
-   4. Once the requestor update the account on the Customers Portal, verify that the `Sold To` contact in the Zuora account matches the Customers Portal account. Follow the [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot) if they do not match.
+1. Issue a [password reset](https://customers.gitlab.com/customers/password/new)
+  to the existing owner's email.
+1. [Claim the account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-account-owner-information) by changing over the personal details.
+1. [Link their GitLab account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#link-a-gitlabcom-account) to the Customers Portal account or [change the linked account](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-the-linked-account) for authentication.
+1. Once the requestor update the account on the Customers Portal, verify that the `Sold To` contact in the Zuora account matches the Customers Portal account. Follow the [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot) if they do not match.
 
 #### Error "Email has already been taken" reported
 
 If the requestor follow the [self-service option](#self-service-option) and get the error "Email has already been taken", this means the new account owner is an existing CustomersDot user. Assist them by following the [the Support-assisted option for existing CustomersDot user](#process-for-existing-customersdot-user).
 
 ### Support-assisted option
-
 
 This process should be a last resort for **all customers** (including reseller customers). Only after ruling out the [self-service option](#self-service-option) above will we consider making the requested ownership change.
 
@@ -74,20 +68,20 @@ First, verify the customer's identity as outlined under [ownership verification]
 
 If the requestor is an existing CustomersDot user when doing an email search:
 
-   1. Follow [Add subscription management contact workflow](#add-subscription-management-contact).
-   1. Follow [Remove a billing account membership workflow](#remove-a-billing-account-membership) to remove association to the subscription of the previous `Sold To` contact.
-   1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
+1. Follow [Add subscription management contact workflow](#add-subscription-management-contact).
+1. Follow [Remove a billing account membership workflow](#remove-a-billing-account-membership) to remove association to the subscription of the previous `Sold To` contact.
+1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
 
 #### Process for non-existing CustomersDot user
 
 If the requestor is not an existing CustomersDot user when doing an email search:
 
-   1. Edit the `Name` and `Email` of the current `Sold To` contact user account to the new contact, check the box `Skip email confirmation` and click `Save`.
-   1. Check if the CustomersDot user is linked to a GitLab.com account:
-      - On the CustomersDot account, navigate to the `Show` tab and confirm there is a value under `Uid`. The `Uid` is the ID of a GitLab account which can be checked via the Users API `https://gitlab.com/api/v4/users/<Uid>`
-      - [Unlink GitLab.com Account mechanizer function](mechanizer.html#unlink-gitlabcom-account).
-   1. Trigger a [password reset](https://customers.gitlab.com/customers/password/new) to the new email. For SaaS, link their GitLab.com account.
-   1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
+1. Edit the `Name` and `Email` of the current `Sold To` contact user account to the new contact, check the box `Skip email confirmation` and click `Save`.
+1. Check if the CustomersDot user is linked to a GitLab.com account:
+  - On the CustomersDot account, navigate to the `Show` tab and confirm there is a value under `Uid`. The `Uid` is the ID of a GitLab account which can be checked via the Users API `https://gitlab.com/api/v4/users/<Uid>`
+  - [Unlink GitLab.com Account mechanizer function](mechanizer.html#unlink-gitlabcom-account).
+1. Trigger a [password reset](https://customers.gitlab.com/customers/password/new) to the new email. For SaaS, link their GitLab.com account.
+1. Follow [Update Zuora Sold To contact using CustomersDot workflow](#update-zuora-sold-to-contact-using-customersdot).
 
 ## Other notable workflows involving CustomersDot
 
@@ -104,7 +98,7 @@ We need **one** of the following in order to verify eligibility for the subscrip
    - The `Bill To` contact must provide a recent GitLab invoice.
 1. Prior subscription contract
 1. Recent GitLab invoice (last 12 months)
-   - This option is not available for customers who purchased through a reseller. If the license key is unactivated at the time of the request, see Option 5. below, if the license has already been activated, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity. 
+   - This option is not available for customers who purchased through a reseller. If the license key is unactivated at the time of the request, see Option 5. below, if the license has already been activated, the reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. The reseller can then provide the invoice as proof of identity.
 1. Copy of last loaded license (Self-Managed only) in text format only.
    - Screenshots are not valid
    - To obtain the license code:
@@ -112,7 +106,7 @@ We need **one** of the following in order to verify eligibility for the subscrip
      - GitLab version 14.1, run the command `sudo gitlab-rails runner 'print License.current.data'` on the GitLab instance. N.B. this command can take a few minutes to complete.
      - GitLab versions older than 14.1, use `Download license` from the `Admin area > License` page.
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
-1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests.html#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket. 
+1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests.html#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
 
 ### Update Zuora Sold To contact using CustomersDot
 
@@ -140,10 +134,10 @@ You can remove an existing billing account membership:
 ### Confirm the CustomersDot account login status
 
 If the `Login activated` checkbox for a CustomersDot account is **not checked**, then:
-   
+
 1. Click the `History` tab and search for `login_activated = false`. If you find an entry dated any time **after** the `create` entry, that indicates that we may have intentionally disabled login for this customer. Do not proceed with enabling login unless you are sure. For help, ask for guidance in the `#support_licensing_subscription channel`.
-2. To enable the customer's login:
+1. To enable the customer's login:
    1. Click the `Edit` tab
-   2. Check the `Login activated` checkbox
-   3. Click `Save`
-   4. Locate the original `Sold To` contact in CustomersDot and click `Save` on the `Edit` page to ensure this contact remains the `Sold To`
+   1. Check the `Login activated` checkbox
+   1. Click `Save`
+   1. Locate the original `Sold To` contact in CustomersDot and click `Save` on the `Edit` page to ensure this contact remains the `Sold To`

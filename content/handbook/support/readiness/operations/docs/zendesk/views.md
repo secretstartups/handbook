@@ -117,12 +117,12 @@ position it was in while previously active.
 ## Positioning
 
 Many components of Zendesk using positioning to determine the overall run order.
-With views being how agents locate tickets, it is often _very_ important to
+With views being how agents locate tickets, it is often *very* important to
 consider positioning.
 
 By default, new views gain a position of `N+1`, where `N` is the highest
 position value of all views currently in Zendesk (both active and inactive).
-This is desired and we should _rarely_ need to change this.
+This is desired and we should *rarely* need to change this.
 
 To edit positions in the Zendesk UI, go to the views page. From there,
 click the three horizontal dots at the top-right of the page (on the same line
@@ -160,7 +160,7 @@ Generally speaking, we aim to make view conditions as simple as possible. When
 possible, you should use condition sets that are very specific and succinct. As
 an example, if you wanted a view to only run when the form is `Support Ops`, it
 is better to simply put a condition of "Form is Support Ops" than adding
-exclusions for _every_ other form. This can take time and practice to learn, so
+exclusions for *every* other form. This can take time and practice to learn, so
 when in doubt, pair with the rest of the Support Ops team!
 
 ## Change management

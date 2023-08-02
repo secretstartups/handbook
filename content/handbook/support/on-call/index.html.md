@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab Support On-Call Guide
 description: >-
   For customers that have Priority Support, the Support Engineering Team is
   on-call and available to assist with emergencies
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## On-call in GitLab Support
 
@@ -35,14 +31,13 @@ If you have plans outside of your work space while being on call, then being ava
 
 You should not be chained to your desk, but you should be equipped to acknowledge and act on PD alerts in a timely manner.
 
-Be proactive in communicating your availability. Sometimes you can't be _immediately_ available for every minute of your on-call shift. If you expect to be unavailable for a short period of time, send an FYI in Slack.
+Be proactive in communicating your availability. Sometimes you can't be *immediately* available for every minute of your on-call shift. If you expect to be unavailable for a short period of time, send an FYI in Slack.
 
 ### Communicate
 
 **Involve relevant stakeholders**: whether it's the e-group, a CSM, subject matter experts or Support leadership, customer and operational emergencies should be known. See your rotation specific workflow for more detailed notes.
 
 **Note:** You may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
-
 
 ### Ask for help when needed
 
@@ -57,12 +52,13 @@ If another support engineer joins your emergency call, feel free to assign them 
 Make a real effort to de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
 
 When you get a notification from PagerDuty give yourself a few minutes to prepare.
+
 - Get to someplace comfortable and quiet where you can devote your attention to the emergency.
 - Take care of any biological needs.
 - Grab a snack and some water.
 - Breathe: you've got this.
 
-When you're in a call, you do **not** need to provide _immediate_ answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the other folks on the call know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
+When you're in a call, you do **not** need to provide *immediate* answers. You're allowed to pause for a few minutes for researching, asking for help, etc. Make sure to communicate -- let the other folks on the call know what you're doing. Example: "I need a few minutes to work through the code here and make sense of it".
 
 If you've had a long week with multiple pages from PagerDuty or particularly long calls, consider asking someone to cover a day or some portion of a day so you can get some rest.
 
@@ -71,7 +67,7 @@ If you've had a long week with multiple pages from PagerDuty or particularly lon
 ### Schedule and escalation policy
 
 By using a regional, follow-the-sun style of on-call Support we try to keep rotations within waking hours.
-As a result, each region may organize their on-call rotations in a slightly different way, or have different requirements for hours of coverage. 
+As a result, each region may organize their on-call rotations in a slightly different way, or have different requirements for hours of coverage.
 
 PagerDuty is the single source of truth for on-call hours, rotation order and escalation policies.
 
@@ -93,6 +89,7 @@ The Support Operations team will unlock the Support PagerDuty Worksheet at the s
 When requesting changes to the Shadow schedules, please [create a new Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new?_gl=1*os6d81*_ga*MjA5ODYxOTMxMi4xNjU1MjIyMDgw*_ga_ENFH3X7M5Y*MTY4NDUxMzAyOS41MzIuMS4xNjg0NTE2MTg0LjAuMC4w) using the appropriate Issue Template.
 
 ##### Additions
+
 When adding someone to the schedule the manager will need to manually add the email address of the user they want added to the rotation.
 
 ##### Removals
@@ -105,7 +102,7 @@ For new team members approaching their first on-call shift, your [Support onboar
 
 #### Make the schedule work for you
 
-Your role is to make sure _someone_ is available to respond to emergencies during the week you are scheduled. Flexibility is possible -- you can split work with others, or schedule overrides for a few hours or days. **You don't have to change vacation plans, or be at your desk all week!** It's OK to take a walk outside, if you have your phone and reception. This way you can acknowledge the page, and locate someone to help (using Slack).
+Your role is to make sure *someone* is available to respond to emergencies during the week you are scheduled. Flexibility is possible -- you can split work with others, or schedule overrides for a few hours or days. **You don't have to change vacation plans, or be at your desk all week!** It's OK to take a walk outside, if you have your phone and reception. This way you can acknowledge the page, and locate someone to help (using Slack).
 
 If you prefer to work with a colleague as a secondary, discuss with team members or your manager and find partners who like sharing the role. You can work together during the week, and update PagerDuty as you wish (options include: split days into mornings and evenings, take alternate days, work as a primary and secondary). Your manager can play an active role in helping pair people who want to work like this.
 
@@ -145,7 +142,7 @@ Note that support manager on call shifts remain the full 8 hours.
 
 ##### Australia (Employees of GitLab PTY Ltd)
 
-Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
+Team members employed by GitLab PTY Ltd *must* take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
 Time Off by Deel, selecting the `On-Call Time in Lieu` option.
 
@@ -162,7 +159,7 @@ For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gi
 
 ### Starting on-call
 
-Before your shift starts, _always_ double-check that your alerts are working and your PagerDuty contact is up to date. Send a test page to make sure that you are receiving alerts correctly.
+Before your shift starts, *always* double-check that your alerts are working and your PagerDuty contact is up to date. Send a test page to make sure that you are receiving alerts correctly.
 
 When your on-call shift starts, you should get notification(s) that your shift is starting (email or text, depending on your PagerDuty preferences).
 
@@ -179,9 +176,9 @@ To see who the current manager on-call is you can:
 - use ChatOps to query the on-call schedule with `/chatops run oncall manager`
 - log in to PagerDuty view the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 - View the individual on-call schedules for
-    - [Support Manager - AMER](https://gitlab.pagerduty.com/schedules/PTI56V1)
-    - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
-    - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
+  - [Support Manager - AMER](https://gitlab.pagerduty.com/schedules/PTI56V1)
+  - [Support Manager - APAC](https://gitlab.pagerduty.com/schedules/PWBXTYX)
+  - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
 - In the `#spt-gg-forest` slack channel, the regional bot message lists who is on-call for the different schedules today
 - Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
 
@@ -189,8 +186,8 @@ To see who the current manager on-call is you can:
 
 - First, try pinging the on-call manager by name in Slack.
 - If it's important and urgent or a weekend, you can:
-    - Use the `/pd-support-manager` command to page the on-call manager
-    - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
+  - Use the `/pd-support-manager` command to page the on-call manager
+  - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
 ## Mobile phone service and data reimbursement
 

@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Working with Issues
 category: Handling tickets
 description: The support team uses the processes and escalation points described on this page when creating, updating and escalating GitLab issues.
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 Creating, updating and escalating GitLab issues correctly is an important part of providing quick and accurate customer support. The support team uses the processes and escalation points described on this page when dealing with GitLab issues.
 
@@ -30,7 +26,7 @@ Issues are not scheduled for a particular release unless Product adds them to a 
 
 ## Adding Comments on Existing Issues
 
-Regardless of the type of issue, please include any relevant information _along_ with a link. Also check that the [correct labels](#adding-labels) have been applied.
+Regardless of the type of issue, please include any relevant information *along* with a link. Also check that the [correct labels](#adding-labels) have been applied.
 
 Please see the product handbook to see [what information product wants us to provide for feature requests](/handbook/product/how-to-engage/#customer-feature-requests)
 
@@ -40,10 +36,9 @@ Optional:
 
 **Note:** To obtain the field ID for the `GitLab Issues` field, you can reference [this repository file](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-forms-and-fields/-/blob/master/ticket_fields/active/GitLab%20Issues.yaml).
 
-
 ## Adding Labels
 
-Using the appropriate labels is _critical_ to ensuring visibility of issues and to get them on relevant PM's radar.
+Using the appropriate labels is *critical* to ensuring visibility of issues and to get them on relevant PM's radar.
 
 Required:
 
@@ -63,14 +58,13 @@ Optional, but highly recommended:
 
 For L&R related issues, please see the [specific guidance on Fulfillment issues](../license-and-renewals/workflows/managing_product_issues.html).
 
-
 ## Escalate New and Existing Issues
 
 The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
 
 ## Creating Issues
 
-Whenever possible, reproduce the issue and file a _public_ issue with a reference to the ZD link as an additional example.
+Whenever possible, reproduce the issue and file a *public* issue with a reference to the ZD link as an additional example.
 
 When reporting a problem, use the `Bug` template, then fill out as much of the information as possible. Ensure you [add labels](#adding-labels).
 
@@ -84,9 +78,9 @@ Instead, consider creating a new issue, and mention/link the existing closed iss
 
 ### Maintain confidentiality
 
-If an image, log output, etc. is required for the issue, try to produce your own test image. If you are unable to reproduce the issue and you wish to use the image/information provided by the customer make sure you _obtain permission_ from the customer since the image/information may (inadvertently) include sensitive information like names, group names, user names, or code.
+If an image, log output, etc. is required for the issue, try to produce your own test image. If you are unable to reproduce the issue and you wish to use the image/information provided by the customer make sure you *obtain permission* from the customer since the image/information may (inadvertently) include sensitive information like names, group names, user names, or code.
 
-Public issues are always preferred, but if customer logs or other information needs to be included and the customer is willing to share it internally, but not publicly then make the issue _confidential_.
+Public issues are always preferred, but if customer logs or other information needs to be included and the customer is willing to share it internally, but not publicly then make the issue *confidential*.
 
 ### Information gathering
 

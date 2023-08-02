@@ -78,5 +78,3 @@ gl_sandbox_shutdown_date: '2020-06-30'
 The expiration time is calculated as 23:59:59 UTC on the date calculated from the `gl_sandbox_shutdown_after_days` value and the timestamp the resources was initially provisioned in the cloud provider. Due to limitations with the allowed characters in labels, we do not include the time since it requires colons and plus symbols for timezones.
 
 This value can be updated/extended systematically as part of our expiration scripts (and future Slack notifications) if a user needs more time. After the expiration date has passed, an automated `terraform destroy` CI pipeline will run to remove all resources in the environment.
-
-

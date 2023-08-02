@@ -18,4 +18,3 @@ title: "Distributed Systems Specialist"
 - Experience creating and working with distributed systems
 - Experience building and scaling highly-available systems
 - Proficient in Ruby on Rails and/or Go
-

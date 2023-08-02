@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Home Page for Support's Maple Group
 description: Home Page for Support's Maple Group
 ---
@@ -7,15 +7,7 @@ description: Home Page for Support's Maple Group
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
-# Welcome to the home page of the Maple group
-
 Introductory text, logos, or whatever the group wants here
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Maple resources
 
@@ -38,7 +30,7 @@ Once the call has ended in the Maple Zoom Room, don't forget to end the Slack hu
 
 ### Maple Hour
 
-The **Maple Hour** is a call where Maple team members can meet to discuss assigned tickets, work through 
+The **Maple Hour** is a call where Maple team members can meet to discuss assigned tickets, work through
 the FRT/NRT queues or to have a social call. These are very similar to a crush call in nature.
 
 These calls can be scheduled or requested as required - but everyone is welcome, regardless of global group
@@ -52,7 +44,7 @@ Scheduled Maple Hours:
 
 ### Sync Calls
 
-The purpose is to facilitate conversations on topics like continuous development of collaboration, psychological safety, group processes, responsibilities and group results/SLAs. 
+The purpose is to facilitate conversations on topics like continuous development of collaboration, psychological safety, group processes, responsibilities and group results/SLAs.
 
 Scheduled Sync Calls:
 

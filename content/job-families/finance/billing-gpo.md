@@ -203,12 +203,3 @@ Candidates for the Revenue Accounting Organization can expect the hiring process
 - Finally, candidates will be invited to a 30-45 minute interview with the Department Director or a member of the Executive Team.
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
-
-
-
-
-
-
-
-
-

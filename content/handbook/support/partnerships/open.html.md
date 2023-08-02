@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Open Partners
 description: "Support specific information for open partners"
 ---
@@ -27,7 +27,7 @@ ticket routing, which helps to prevent first response delays, they should:
 Zendesk will use the information in the form to change the `requester` field to
 contain the name of the partner's customer. The reason for this is that GitLab
 Support works directly with an Open Partner's customer, using the customer's
-support plan level, **not the partner's**. 
+support plan level, **not the partner's**.
 
 If an Open Partner wants to be involved in a ticket, they should indicate that
 within the `Description` of the ticket when they are submitting it. In
@@ -41,8 +41,8 @@ organization, or vice-versa!
 When Open Partners needs to send support files, we have 2 methods
 available to accommodate this:
 
-* Standard ticket uploads (20MB max)
-* [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
+- Standard ticket uploads (20MB max)
+- [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
 
 ## Examples of Support Ticket Submission and Handling for Open Partners
 

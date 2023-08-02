@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: How to Get Help
 category: Handling tickets
-description: Workflow for Support Engineers on how to get help when working on a ticket. 
+description: Workflow for Support Engineers on how to get help when working on a ticket.
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Getting Help on a Ticket
 
@@ -17,15 +10,15 @@ When [working on tickets](https://about.gitlab.com/handbook/support/workflows/wo
 
 ### How to Get Help Workflow
 
-If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the resources available to progress a ticket to resolution. This workflow lists some common resources, you can lean on to get the help you need. 
+If you are stuck on a ticket, the following workflow seeks to help Support Engineers realize and utilize all of the resources available to progress a ticket to resolution. This workflow lists some common resources, you can lean on to get the help you need.
 
 **If you’re stuck on a ticket…..**
 
 Identify what's causing you to get stuck. Some examples are:
 
-* I don't have the right knowledge to progress this ticket.
-* The customer's query is out of scope, but they expect us to resolve this.
-* There is a deep technical issue which needs a development expert's consult.
+- I don't have the right knowledge to progress this ticket.
+- The customer's query is out of scope, but they expect us to resolve this.
+- There is a deep technical issue which needs a development expert's consult.
 
 Then consider these options to help unblock you. And remember that
 [escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock)
@@ -36,6 +29,7 @@ is an operating principle of Results.
 Ask in [your group's Slack channel](/handbook/support/support-global-groups/#slack) for help. You might get all the help you
    need in responses right there, or you might open up the group's Zoom room
    for an impromptu pairing session to work on the ticket. And remember:
+
    1. Be sure to provide a link to the ticket
    1. Be specific about the help you need
       - For example: "Kubernetes Runner help needed: user is running into X
@@ -50,9 +44,9 @@ Other Support Engineers are a great resource to help out with tickets. To get he
     - APAC/AMER or EMEA/AMER crush sessions
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
-2. Ask for help in one of the broader
+1. Ask for help in one of the broader
    [Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
-2. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
+1. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
 
@@ -62,7 +56,7 @@ You can also do one or more of the following:
 
 1. See if there is a [Support Pod](/handbook/support/workflows/working-with-pods.html) that covers the area your ticket is in and ask one of the Pod members for help.
 1. Ask an expert within Support. You can check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
-   Support page to see who might have the skills to assist, or reach out 
+   Support page to see who might have the skills to assist, or reach out
    to the [Support Stable Counterpart](../support-stable-counterparts.html)
    for the appropriate product area. Mention those
    people in the thread and in the ticket to let them know you think they can help.
@@ -76,7 +70,7 @@ You can also do one or more of the following:
 
 Especially if you feel you're stalled on a ticket and need assistance identifying next steps:
 
-1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html)) in the `#spt_managers` channel. They will help you to determine next steps. 
+1. Always feel free to reach out to any available manager (such as your manager, or the [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html)) in the `#spt_managers` channel. They will help you to determine next steps.
    - Avoid messages with no identified DRI for responding in `#spt_managers` as they can be missed or be a victim to the bystander effect.
 1. [Open a STAR](/handbook/support/internal-support/support-ticket-attention-requests.html#submitting-a-support-ticket-attention-request-star--starring-a-ticket) in situations where getting help is urgent and important because:
    - the customer has expressed unhappiness with the service we're delivering via the ticket
@@ -95,7 +89,7 @@ The easiest way to determine the correct place for a Support Request for Help is
 1. Scroll down to the bottom of the page and click on either the "Edit this page" link.
 1. This will open up the `.md` source file of that docs page, which contains both the `stage` and `group` responsible for it noted on the top.
 1. Now go to the [Product Categories handbook page](https://about.gitlab.com/handbook/product/categories/) and search for the Development Section to which the group identified on the previous step belongs to.
-1. Use the table and workflow below to create a Request for Help issue in the project identified above. 
+1. Use the table and workflow below to create a Request for Help issue in the project identified above.
 
 Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitlab-com/support/toolbox/dotfiles), you can use the `gls_request_for_help` command to quickly retrieve the "New issue" link with the correct issue template.
 
@@ -103,21 +97,21 @@ Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitl
 
 #### List of Development Sections and corresponding links to the Projects for requesting help
 
-| Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help | 
-| ----------- | -------------- | -------- | 
-| Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) | 
-| Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) | 
-| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) | 
-| Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) | 
-| Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) | 
-| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) | 
+| Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help |
+| ----------- | -------------- | -------- |
+| Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) |
+| Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) |
+| Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) |
+| Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) |
+| Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) |
+| SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) |
 
 The steps for submitting a help request are as follows:
 
 1. Review the above table and click the link to open the corresponding GitLab.com Development Section Project that you require help from.
 1. Within each GitLab Project there is a `ReadMe` (displayed on the project page):
    1. Read the `Support Engineer User Guidance` section and follow the steps outlined.
-   2. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
+   1. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
 1. Before submitting a new issue search the existing issues to check if a similar request has been made before.
 1. If not, then submit a new issue to the project using the template you've identified.
    - The issue will be automatically assigned to the relevant developers for triaging.
@@ -127,6 +121,7 @@ The steps for submitting a help request are as follows:
 **Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
 
 ### Quick Links and Resources
+
 - [Needs Collaboration view](https://gitlab.zendesk.com/agent/filters/360080204660) in ZenDesk.
 - Create a Support [pairing session issue](https://gitlab.com/gitlab-com/support/support-pairing).
 - [Support Workflows](https://about.gitlab.com/handbook/support/workflows/) to follow relevant troubleshooting workflow.
@@ -138,8 +133,8 @@ The steps for submitting a help request are as follows:
 
 #### General Troubleshooting Resources
 
-Every problem is a little bit different. Sometimes it makes sense to try a different troubleshooting technique. These resources talk about general purpose approaches to troubleshooting: 
+Every problem is a little bit different. Sometimes it makes sense to try a different troubleshooting technique. These resources talk about general purpose approaches to troubleshooting:
 
-  - Julia Evans' [comics](https://wizardzines.com/comics/), especially the ones about debugging
-  - [The Pocket Guide to Debugging (PDF)](https://store.wizardzines.com/products/the-pocket-guide-to-debugging-pdf)
-  - [General Purpose Troubleshooting Principles](https://brie.dev/troubleshooting/)
+- Julia Evans' [comics](https://wizardzines.com/comics/), especially the ones about debugging
+- [The Pocket Guide to Debugging (PDF)](https://store.wizardzines.com/products/the-pocket-guide-to-debugging-pdf)
+- [General Purpose Troubleshooting Principles](https://brie.dev/troubleshooting/)

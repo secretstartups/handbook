@@ -61,6 +61,7 @@ The Diversity, Inclusion and Belonging Specialist is a [grade 6](https://about.g
 #### Diversity, Inclusion, and Belonging Specialist Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - 30-45 minute interview with the VP, DIB
 - 30 minute interview with a member of the Learning and Development team
@@ -116,6 +117,7 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 7](https://about.git
 #### Diversity, Inclusion, and Belonging Partner Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging
 - Next, candidates will be invited to schedule a 45 minute panel interview with one of our People Business Partners, member of our L&D team and People Operations leadership
@@ -165,6 +167,7 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 8](https://about.git
 #### Manager, Diversity Inclusion, and Belonging Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Vice President, Diversity Inclusion, and Belonging
 - Next, candidates will be invited to schedule a 45 minute panel interview with one of our Diversity Inclusion, and Belonging Partner, People Business Partners, member of our L&D team, and/or People Operations leadership
@@ -197,7 +200,7 @@ The Diversity, Inclusion, and Belonging Partner is a [grade 12](https://about.gi
 - Build trusted partnerships with other teams to further advance our ability to tell authentic and inclusive stories.
 - Provide oversight for our advisory board and team member resource groups and  provide coaching and thought partnership on programming
 - Identify, develop and foster relationships with industry thought leaders, consultants and partners to apply best practices and help drive an inclusive culture.
-- - Craft policies, programs, and other resources to educate team members about diversity and inclusion standard methodologies and behaviors
+  - - Craft policies, programs, and other resources to educate team members about diversity and inclusion standard methodologies and behaviors
 Develop and analyze metrics on an established schedule to measure progress and effectiveness of the diversity and inclusion strategy
 - Incorporate global perspectives to implement DEIB programs at global scale
 - Use the unique product opportunity that GitLab has in the market to ensure our product teams are keeping accessibility of our product portfolio top of mind
@@ -212,4 +215,3 @@ Develop and analyze metrics on an established schedule to measure progress and e
 - Deep understanding and application of change management concepts and how they relate to transformation efforts
 - Ability to build strong relationships across all levels within the organization as well as cross functionally and cross culturally
 - Strong community organizing and action skills and ability to elicit participation with DEIB  efforts across an organization
-

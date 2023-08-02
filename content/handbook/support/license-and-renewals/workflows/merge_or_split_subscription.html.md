@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Merging or splitting license/subscription requests
 category: General
 description: This is a guide on how to handle requests to merge or split licenses or subscription(s).
@@ -49,6 +49,7 @@ To move the ticket forward, please check whether the new subscription was purcha
 If the `Invoice Owner` is different for both subscriptions, we can generate a new license that would include `Users in license` from both subscriptions.
 
 If the `Invoice Owner` is the same for both subscriptions:
+
 1. Search for the relevant Opportunity Owner in SFDC or Sales rep in Zuora
 1. Let the customer know that we are handling the issue internally while copying the account owner (Opportunity Owner) on the ticket
 1. Ping the Opportunity Owner in [#support_sales_escalation](https://gitlab.slack.com/archives/C011JT165J5) and let them know that the new subscription opps should be credited and a new opps should be submitted as an add-on to the existing one as mentioned in the [example case: ZD ticket #162478](https://gitlab.zendesk.com/agent/tickets/162478)

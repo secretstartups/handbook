@@ -6,7 +6,6 @@ Demo architect or Demonstration architects are the trusted advisors to the Solut
 
 This is a cross functional role that collaborates with Solutions Architects, IT Systems Engineering, and Marketing to make sure a central repository of all the content is curated, maintained and made visible at a regular cadence.
 
-
 ## Levels
 
 ### Associate Demo Architect
@@ -51,7 +50,6 @@ The Demo Architect is a [grade 6](https://about.gitlab.com/handbook/total-reward
 - Create and deliver documentation and enablement to the Solutions Architecture team on how to use the demos, workshop, and other related artifacts.
 - DRI for providing clear and up-to-date handbook information on how to leverage all demo architecture resources, demo architecture roadmaps, and FAQs.
 
-
 #### Demo Architect Requirements
 
 - Extends Associate Demo Architect Requirements
@@ -92,7 +90,6 @@ The Senior Demo Architect is a [grade 7](https://about.gitlab.com/handbook/total
 - This role will collaborate with enterprise, commercial and public sector teams of the Solutions Architecture organization to contribute to [Sales KPIs](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary) especially to drive new (i.e., new logos) and growth bookings
 - This role will collaborate with cross functional teams and Solutions Architects to drive [okrs](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives/-/boards/5299552?label_name[]=FY24-Q1&label_name[]=OKR&label_name[]=Solutions%20Architecture&label_name[]=FY24-Q2) along with company wide okrs
 
-
 ## Career Ladder
 
 A Demo Architect can progress through the various individual contributor levels.
@@ -103,7 +100,7 @@ A Demo Architect can progress through the various individual contributor levels.
 
 Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-### Individual Contributor Hiring Process:
+### Individual Contributor Hiring Process
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the SA team Manager or Director.
@@ -113,5 +110,3 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Successful candidates will be made an offer after references are verified.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
-
-

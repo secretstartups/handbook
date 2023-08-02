@@ -193,17 +193,20 @@ The configuration team works on GitLab's Application Control Panel, Infrastructu
 ### CI/CD
 
 CI/CD Backend Engineers are primarily tasked with improving the Continuous Integration (CI) and Continuous Deployment (CD) functionality in GitLab. Engineers should be willing to learn Kubernetes and Container Technology. CI/CD Engineers should always have three goals in mind:
+
 - Provide value to the user and communicate such with product managers,
 - Introduce features that work at scale and in untrusting environments,
 - Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go. We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly. CI/CD engineering is interlaced with a number of teams across GitLab. We build new features by following our [direction](/direction/#ci--cd). Currently, we focus on providing a deep integration of Kubernetes with GitLab:
+
 - by automating application testing and deployment through Auto DevOps,
 - by managing GitLab Runners on top of Kubernetes,
 - by working with other teams that provide facilities to monitor all running applications,
 - in the future implement A-B testing, feature flags, etc.
 
 Additionally, we also focus on improving the efficiency, performance, and scalability of all aspects of CI/CD:
+
 - Improve performance of developer workflows, e.g. faster CI testing, by improving parallelization,
 - Improve performance of implementation, ex.:by allowing us to run 10-100x more in one year,
 - Identify and add features needed by us, ex.:to allow us to test more reliably and ship faster.
@@ -289,11 +292,13 @@ The Application Performance team works to improve availability, reliability, and
 #### Requirements
 
 An ideal engineer candidate -
+
 - Expert of Ruby on Rails.
 - Experience of performance tuning and/or architecture, [Example](https://rubykaigi.org/2018/presentations/tenderlove.html).
 - Experience of memory leak troubleshooting, [Example 1](http://www.be9.io/2015/09/21/memory-leak/), [Example 2](https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby).
 
 Alternatively, some of the following qualifications, may not necessarily be all -
+
 - **Must** be proficient in one or more of the following in preference order
   - Ruby.
   - Go.
@@ -345,7 +350,7 @@ Gitaly is a service that handles git and other filesystem operations for GitLab 
 - Conduct acceptance testing of the features you’ve built.
 - Educate all team members on best practices relating to high availability.
 
-#### Requirements:
+#### Requirements
 
 - Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
 - Mandatory: Solid production Ruby experience.

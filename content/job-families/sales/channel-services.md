@@ -20,7 +20,6 @@ title: "Channel Services"
 | [Director, Channel Services](#director-channel-services) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Director, Channel Services](#senior-director-channel-services) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
-
 ## Junior Channel Services Manager
 
 #### Job Grade
@@ -44,15 +43,13 @@ The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/to
 #### Responsibilities
 
 - The Channel Services Manager will serve as a primary point of contact for GitLab’s top services partners and will ensure that services partners are trained and certified to provide professional, consulting, training, & managed services for GitLab customers.
-    - For managed services: ensuring that the channel partners are operating compliant practices and offerings with the GitLab best practices.
+  - For managed services: ensuring that the channel partners are operating compliant practices and offerings with the GitLab best practices.
 - This individual will help GitLab manage the evolution of its services offerings via partners to drive usage adoption of the complete GitLab platform and expansion across the customers’ organizations.
 - Assist in defining, documenting, and packaging service offerings &/or practices at the partner that support the GitLab Customer Success cycle including maintaining GitLab published assets in the partner portal and the GitLab Handbook–with specific focus on training services or managed services.
 - Support the GitLab Enablement & Customer Success teams in building and improving tools and processes that promote partner services success.
 - Working with the Channel Sales Managers, drive and facilitate the launch of partner GitLab practices, service & solution offerings.
 - Assist new service partners to develop offerings and practices that align with GitLab Go-to-market strategies.
 - Create and facilitate communications about GitLab news, service opportunities, program details and product updates with channel partners in the regular Channel Programs newsletters and webcasts.
-
-
 
 #### Requirements
 
@@ -71,9 +68,7 @@ The Channel Services Manager is a [grade 6](https://about.gitlab.com/handbook/to
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-
 ## Senior Channel Services Manager
-
 
 ### Job Grade
 
@@ -90,7 +85,6 @@ The Senior Channel Services Manager is a [grade 7](https://about.gitlab.com/hand
 - Create and facilitate communications about GitLab news, opportunities, program details and product updates with channel partners in the regular Channel Programs newsletters and webcasts.
 - Find and recommend new Services Partners in collaboration with corporate and regional Channel Sales Managers
 - Ensure our partners have the skills, training, and expertise to implement, operate and support Gitlab solutions.
-
 
 ### Requirements
 
@@ -133,7 +127,6 @@ The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbo
 - Ensure our partners have the skills, training, and expertise to implement, operate and support Gitlab solutions.
 - Create and facilitate communications about GitLab news, opportunities, program details and product updates with channel partners in the regular Channel Programs communications.
 
-
 #### Requirements
 
 - Experience building channel services & practices in SaaS/subscription models.
@@ -152,7 +145,6 @@ The Lead Channel Services Manager is a [grade 8](https://about.gitlab.com/handbo
 - Experience in the DevOps space a plus
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
-
 
 ## Manager, Channel Services
 
@@ -186,7 +178,6 @@ The Senior Manager, Channel Services is a [grade 9](https://about.gitlab.com/han
 - Ensure our partners have the skills, training, and expertise to implement, operate and support Gitlab solutions.
 - Recruit and manage team of Lead and Senior Channel Services Program Managers, establishing team goals, measuring performance and supporting team member career development.
 
-
 #### Requirements
 
 - Must demonstrate the capability to excel within a cross-functional team environment.
@@ -200,7 +191,6 @@ The Senior Manager, Channel Services is a [grade 9](https://about.gitlab.com/han
 - Experience in recruiting and leading high performing teams.
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
-
 
 ## Director, Channel Services
 
@@ -221,7 +211,6 @@ The Director, Channel Services is a [grade 10](https://about.gitlab.com/handbook
 - Ensure our partners have the skills, training, and expertise to implement, operate and support Gitlab solutions.
 - Recruit and manage team of Lead and Senior Channel Services Program Managers, establishing team goals, measuring performance and supporting team member career development.
 
-
 #### Requirements
 
 - Must demonstrate the capability to excel within a cross-functional team environment.
@@ -234,8 +223,6 @@ The Director, Channel Services is a [grade 10](https://about.gitlab.com/handbook
 - Experience in the DevOps space a plus
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
-
-
 
 ## Senior Director, Channel Services
 
@@ -256,25 +243,25 @@ To be defined at time of business need.
 ## Performance Indicators
 
 - Partner services delivery - As subcontractor to GitLab PS and direct by partner.
-    - Professional services
-    - Training
-    - Managed services
+  - Professional services
+  - Training
+  - Managed services
 - Partner individual and company certifications
-
 
 ## Career Ladder
 
 Channel Services Programs team members can continue to expand their responsibilities within the Channel Services Programs job family to include greater scope and complexity of programs.  Team members may also have a desire to move to other teams based on their career goals:
+
 - Field Enablement for team members with a focus on enablement
 - Channel Sales for team members that want more engagement directly with partners
 - Channel Operations for team members shifting focus into operationalizing channel programs.
 - Professional Services for team members that desire greater customer and partner engagement around services
 
-
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 1. Phone screen with a GitLab Recruiting team member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 teammates
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 teammates
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

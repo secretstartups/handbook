@@ -24,11 +24,9 @@ actionable below.
 
 ##### About our values
 
-
 <p style="text-align: center;">
 <a href="#collaboration"><img style="height: 78px; padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_collaberation.svg" alt="Collaboration" title="Collaboration" height="78"></a>  <a href="#results"><img style="height: 78px; padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_results.svg" alt="Results" title="Results" height="78"></a>  <a href="#efficiency"><img style="height: 78px; padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_efficiency.svg" alt="Efficiency" title="Efficiency" height="78"></a>  <a href="#diversity-inclusion"><img style="height: 78px; padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_diversity.svg" alt="Diversity, Inclusion &amp; Belonging" title="Diversity, Inclusion &amp; Belonging" height="78"></a>  <a href="#iteration"><img style="height: 78px; padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_iteration.svg" alt="Iteration" title="Iteration" height="78"></a>  <a href="#transparency"><img style="height: 78px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_transparency.svg" alt="Transparency" title="Transparency" height="78"></a>
 </p>
-
 
 We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](https://about.gitlab.com/company/history/#value-origin-stories) of each of the CREDIT values, but
 just like the rest of our work, we continually adjust our values and strive to make them better.
@@ -353,6 +351,7 @@ At an exponentially-scaling startup, time gained or lost has compounding effects
 ##### Ambitious
 
 While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
+
    1. Keeping the focus on the [results](#results) and the outcome
    1. Aiming to be best in the world across [all our functions](https://about.gitlab.com/handbook/leadership/no-matrix-organization/)
    1. Not being satisfied with the status quo and setting higher goals
@@ -612,13 +611,11 @@ This is demonstrated by communicating recordings of [meetings](https://about.git
 
 ##### Embracing uncomfortable ideas and conversations
 
-
 Part of embracing diversity is a willingness to embrace often uncomfortable conversations and situations. This concept is also at the core of inclusion and helping to eliminate the problems that are faced by certain GitLab team members who may not be in the majority.
 
 We believe that being willing to embrace discomfort is the path forward to a safe, balanced and inclusive work place for all. Challenge yourself, challenge your own pre-set notions and ideas about different cultures or things you don't understand. When we are willing to embrace being uncomfortable, we can focus on actually fixing the issues at hand rather than simply "appearing to care".
 
 ##### Understanding the impact of microaggressions
-
 
 Microaggressions are much more than merely rude or insensitive comments. They can wear people down by slowly chipping away their sense of belonging/safety/inclusion over time. What is a microaggression?
 
@@ -726,7 +723,6 @@ Remember, **brains work differently** and always [assume positive intent](#assum
 We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
 
 The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
-
 
 ##### Family and friends first, work second
 
@@ -911,7 +907,6 @@ A few challenges have arisen with how we approach iteration. The best example ma
 That said, we would love to work on a two-week release cycle, but that should be another conversation.
 
 ##### Embracing Iteration
-
 
 In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the *end of the first iteration* rather than a *hypothetical future state* requiring multiple iterations. By embracing iteration we can increase creativity in incremental components.
 

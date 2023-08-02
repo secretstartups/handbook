@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Support Learning & Training
 description: Learning Pathways available to Support team members
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
 
 ## Support Learning Pathways
 
@@ -19,7 +15,7 @@ All the learning pathways we have in Support are listed [here](https://gitlab-co
 To create an issue for yourself with one of the module templates:
 
 - Click on the module you want to pursue from the [Skills Catalog](https://gitlab-com.gitlab.io/support/team/skills-catalog.html) page
-- Title it as **_Your Name_: _Module Name_**
+- Title it as ***Your Name*: *Module Name***
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
 
@@ -67,6 +63,7 @@ sequenceDiagram
         New SE->>New SE: As more experience is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/50%
     end
 ```
+
 </div>
 </div>
 
@@ -98,7 +95,6 @@ Typically, for a new team member in Support, completion of the below onboarding 
 | [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 4 Days | Understand how to triage tickets including the triage view in Zendesk |
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
 
-
 ### Choosing your initial Area of Focus
 
 Work with your manager to decide your initial [Area of Focus](/handbook/support/support-engineer-responsibilities.html#support-engineer-areas-of-focus).
@@ -128,14 +124,12 @@ When these modules are complete:
 1. Let your manager know that you are ready to [proceed to the appropriate on-call rotation training](#on-call-rotations).
 1. With your manager, discuss how to describe your Area of Focus percentage in the [support-team.yaml page](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml), removing onboarding.
 
-
 ### License and Renewals Learning Pathway
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
 | [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Subscriptions%20License%20and%20Renewals) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | **Work concurrently with your L&R module** -- Help customers by pairing with Support Engineers and replying to tickets |
-
 
 ### On-call rotations
 
@@ -146,10 +140,9 @@ After you complete an Area of Focus, talk with your manager about joining an on-
 | [GitLab.com CMOC](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab-com%20CMOC) | 1 Day | Understand the responsibilities of being the [Communications Manager On Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) for an active GitLab.com incident |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Emergencies) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 
-
 ### Support Engineer Achievable Progress - First 6 Months
 
-Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week. 
+Our onboarding pathway gives new Support Engineers an opportunity to learn at their own pace and explore. We strongly believe in learning by doing ([70/20/10 learning model](https://trainingindustry.com/wiki/content-development/the-702010-model-for-learning-and-development/)), and encourage Support Engineers to start contributing on tickets (with public or internal comments) from as early as your 3rd week.
 
 **NOTE:** The 6 months starts after your initial [Support Learning Pathways](#support-learning-pathways) are complete.
 
@@ -180,7 +173,7 @@ The modules in this section should eventually be taken regardless of your Area o
 
 We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
 
-### Creating and viewing GitLab component based training. 
+### Creating and viewing GitLab component based training
 
 Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](https://about.gitlab.com/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
 
@@ -203,6 +196,5 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
 
 When this pathway is complete, let your manager know that you are ready to join the appropriate on-call rotations. (Your Support Manager Basics issue contains the instructions for this step.)
-
 
 *As always, please submit an Issue or MR if you have suggestions on how this page could be better!*

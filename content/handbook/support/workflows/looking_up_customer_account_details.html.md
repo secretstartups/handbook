@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Looking up customer account details
 description: "How to look up customer account details within Zendesk and customers.gitlab.com"
 category: Handling tickets
 subcategory: Customer Info
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Looking up customer account details
 
@@ -40,15 +33,15 @@ From the Zendesk [GitLab User Lookup application](../support-ops/documentation/z
 1. Log in to [customers.gitlab.com](https://customers.gitlab.com/admin) admin area
    (sign in with Okta).
 
-2. In the **Customers** section, search for a domain or full email address.
+1. In the **Customers** section, search for a domain or full email address.
 
    ![Search box in customers.gitlab.com customers section](/handbook/support/workflows/assets/customers-gitlab-com-search.png)
 
-3. In the search results, click on the `i` icon to view the customer's details.
+1. In the search results, click on the `i` icon to view the customer's details.
 
    ![Search results in customers.gitlab.com customers section](/handbook/support/workflows/assets/customers-gitlab-com-search-results.png)
 
-4. You can *impersonate* an account to find out if they have a current
+1. You can *impersonate* an account to find out if they have a current
    subscription through the customer's detail page or by clicking on the `home`
    icon in the search results.
 
@@ -68,7 +61,7 @@ in [CustomersDot](https://customers.gitlab.com/admin).
 
 You can do so by appending the ID to the following URLs:
 
-- https://customers.gitlab.com/admin/license/
+- <https://customers.gitlab.com/admin/license/>
 
   *e.g.* `https://customers.gitlab.com/admin/license/<LICENSE_ID>`
 
@@ -94,20 +87,20 @@ extracting the ID.
 
 First, trim the carriage returns and/or new lines:
 
-```
+```text
 tr -d '\r\n' < file_name.gitlab-license
 ```
 
 Then, from the Rails console on your own self-managed instance:
 
-```
+```text
 license = ::License.new(data: "<paste entire license key without the carriage returns>")
 "https://customers.gitlab.com/admin/license/".concat(license.license_id.to_s)
 ```
 
 This will return nice URL that will take you the relevant license in CustomersDot.
 
-```
+```text
 => "https://customers.gitlab.com/admin/license/<license_id>"
 ```
 
@@ -123,12 +116,12 @@ If you have access, you have the ability to look up the ticket requester's organ
 
    ![Search bar, in repose](/images/handbook/support/zendesk_needs_org-sfdc-search.png)
 
-2. Look for results in the **Accounts** section. You should also be able to see
+1. Look for results in the **Accounts** section. You should also be able to see
    if they have a support level if they have one.
 
    ![Account Name and Support Level in Salesforce search results](/handbook/support/workflows/assets/salesforce-search-results-accounts.png)
 
-3. Click the **Account Name** to view the customer's organization page.
+1. Click the **Account Name** to view the customer's organization page.
 
 **Note:** in some cases you will need to search by e-mail and by domain. For example,
 if the e-mail has previously been associated with a trial account it will still be visible

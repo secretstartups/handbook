@@ -5,24 +5,20 @@ category: On-call
 description: "Describes the role and responsibilities for the Incident CMOC rotation in Support Engineering"
 ---
 
-- TOC
-{:toc}
-
-----
-
 ## Introduction
 
 As the GitLab SaaS Incident [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) you are the voice of GitLab to our users and stakeholders during an incident. To do this effectively, you'll work primarily with the [Incident Manager (IM) and Engineer on Call (EOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) and use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
 
-To disambiguate this term on other pages, you may see the acronym ICMOC or see the role referred to as "Incident CMOC". As this page is scoped to only this role it uses CMOC, Incident CMOC, and ICMOC interchangeably. 
+To disambiguate this term on other pages, you may see the acronym ICMOC or see the role referred to as "Incident CMOC". As this page is scoped to only this role it uses CMOC, Incident CMOC, and ICMOC interchangeably.
 
 Our Slack bot [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) provides a command (`/incident post-statuspage`) to quickly spin up an incident on [Status.io](https://status.io). From there, the basics of how to update and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. This document covers how GitLab specifically uses Status.io to perform those tasks.
 
 ### How to be added to the CMOC PagerDuty rotation
 
 To be added to the CMOC Rotation:
-  1. First, complete the [GitLab-com CMOC training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new).
-  2. After discussion and agreement with your manager, create a new [PagerDuty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) requesting that you are added to the appropriate regional CMOC rotation. 
+
+1. First, complete the [GitLab-com CMOC training module](https://gitlab.com/gitlab-com/support/support-training/-/issues/new).
+1. After discussion and agreement with your manager, create a new [PagerDuty Issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues) requesting that you are added to the appropriate regional CMOC rotation.
 
 ## Things to Know
 
@@ -33,7 +29,6 @@ Before getting started, take note of the following sections or to get straight i
 This section contains information specific to how incidents are started, what various status messages in PagerDuty mean, and the difference between the EOC and the IM during an incident.
 
 #### How Incidents Are Declared
-{:.no_toc}
 
 Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse) to [declare incidents through Slack](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). Doing so will:
 
@@ -49,7 +44,6 @@ This information will all be posted to Slack in the `#incident-management` chann
 GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
 
 #### PagerDuty Status Definitions
-{:.no_toc}
 
 - **Triggered** - "An incident exists that requires the attention of a CMOC."
 - **Acknowledged** - "I have seen the page and am in the process of joining the incident Slack channel and Zoom call."
@@ -58,24 +52,20 @@ GitLab team members are encouraged to use this method of reporting incidents if 
 **NB:** "Resolved" in PagerDuty does not mean the underlying issue has been resolved.
 
 #### Deciding Whether to Initiate Status Page Communications: EOC vs. IM
-{:.no_toc}
 
 The IM is the DRI for the decision of whether to initiate public communications via the Status Page. When joining an incident as the CMOC you should inquire as to whether communications are currently required. On the rare occasion that an incident does not have an IM, the EOC assumes these responsibilities and you may ask them instead.
 
 #### Reviewing Past Incidents
-{:.no_toc}
 
 You can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
 
 ### About Status.io
 
 #### Updating Current Status & Current State
-{:no_toc}
 
 It is not possible to change the `Current Status` of the affected infrastructure of an incident or its `Current State` without making a formal update to the incident. It is acceptable to publish a new update to an incident in order to change either the `Current Status` of its affected infrastructure or its `Current State` regardless of how recently the last update on the incident was published.
 
 #### Frequency of Updates
-{:.no_toc}
 
 Status.io should be updated whenever we have new information about an active incident that our stakeholders should be aware of. Outside of that, it should be updated at a consistent rate depending on the severity of the incident as outlined in the table below.
 
@@ -89,33 +79,30 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 | Resolved | No further updates required |
 
 #### What If I Don't Know What to Say?
-{:.no_toc}
 
 - Provide a generic update based on the best information you have:
 
-- _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
-- _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
+- *We're seeing elevated error rates on GitLab.com, investigation is underway in: link*
+- *Some users are reporting connection issues to GitLab.com, we're working on it in: link*
 - Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IM and EOC:
 
-  - _@IM - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
-  - _"In my next update I'm going to move the status to monitoring"_
+  - *@IM - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved*.
+  - *"In my next update I'm going to move the status to monitoring"*
 - Bias to action - you can post another update if there was an error in your last update.
 
 - If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
-   1. _"No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision."_
-   1. _"No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity."_
-   1. _"No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight."_
-   1. _"No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK"_
+   1. *"No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision."*
+   1. *"No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity."*
+   1. *"No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight."*
+   1. *"No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK"*
 
 - If you really don't know, it really is okay to ask!
 
-#### Administrative Tasks on Status.io 
-{:.no_toc}
+#### Administrative Tasks on Status.io
 
-Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/). 
+Any updates **outside documented incident updates** that require administrator access to the GitLab System Status page should be initiated with [an issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/).
 
-As an example, refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4880) that was created to add a component to the GitLab System Status page. 
-
+As an example, refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4880) that was created to add a component to the GitLab System Status page.
 
 ### About Contact Requests
 
@@ -162,7 +149,6 @@ A link to the call is provided in the incident declaration post by Woodhouse in 
 Your role while on the call is to follow along while the incident is worked and make updates to Status.io either when asked to or when it's necessary. Oftentimes chatter in this room will be lively, especially in the early stages of an incident while the source of the issue is being discovered. Use your best judgment on when it's appropriate to speak up to avoid vocalizing at inopportune times. You can always ping anyone on the call through Slack if you need to ask a non-urgent question about the situation.
 
 #### Upon First Joining
-{:.no_toc}
 
 The first thing you should do is to verify that you can be heard by others in the room. To do this, say something like:
 
@@ -173,7 +159,6 @@ The first thing you should do is to verify that you can be heard by others in th
 Whatever you choose to say, make sure that you receive a verbal acknowledgement directed at you before you move on to focus on other aspects of the incident.
 
 #### When CMOC Is Asked to Take Action
-{:.no_toc}
 
 From time to time, you may be asked to perform some specific tasks in the room. Always verbally acknowledge any such asks by repeating your understanding of the ask back to the requestor. This helps everyone understand that the ask was heard, and also serves to verify that everyone has the same understanding of some action to be taken.
 
@@ -191,10 +176,9 @@ A better response would be to assume that an action was requested, relay your in
 
 #### Create Incident
 
-You can create an incident directly through the `status.io` website **OR** through Slack (provided by Woodhouse). It is recommended to use the `status.io` website directly as it permits further customization of the incident beyond what the Slack form allows. It is also easier to confirm that the incident was created properly when using the `status.io` website. 
+You can create an incident directly through the `status.io` website **OR** through Slack (provided by Woodhouse). It is recommended to use the `status.io` website directly as it permits further customization of the incident beyond what the Slack form allows. It is also easier to confirm that the incident was created properly when using the `status.io` website.
 
 #### Create Through Status.io
-{:.no_toc}
 
 To create an incident through Status.io click the `New Incident` button from the main dashboard:
 
@@ -214,14 +198,13 @@ Then, fill out all of the details of the incident. The following values should b
 
 `Message Subject` - Leave this at its default value.
 
-`Affected Infrastructure` - Leave this unchecked and then check the box next to each specific component below it that is affected by the incident. If this box is checked then the value that you set for `Incident Status` above will be applied to _all_ infrastructure components.
+`Affected Infrastructure` - Leave this unchecked and then check the box next to each specific component below it that is affected by the incident. If this box is checked then the value that you set for `Incident Status` above will be applied to *all* infrastructure components.
 
 The following is an example of an incident ready to be created regarding a delay in job processing on GitLab.com, and is generally what this page should look like before being submitted based on the guidelines above.
 
 ![Incident details](/images/support/cmoc_incident_details.png){: .shadow}
 
 #### Create Through Slack
-{:.no_toc}
 
 You simply need to issue `/incident post-statuspage` from anywhere on Slack. You will be presented with a pre-filled form that you can update to your liking. Once submitted, the incident will be broadcast to the following media:
 
@@ -294,7 +277,6 @@ A ready to be published update should look similar to the following.
 
 ![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
 
-
 Twitter has a 280 character limit, but we noticed that some tweets get truncated to 230 characters, such as [this one](https://twitter.com/gitlabstatus/status/1641150257936601088). This can be due to twitter converting any URLs to a 23-character URL via their link shortener service.
 
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it, and try to fit the main body of the message (before the final URL to the issue) in 220 characters. This leaves about 10 characters to display the final URL, if it gets truncated.
@@ -306,7 +288,6 @@ After the update has been published, visit the [live status page](https://status
 Proceed to either [Title](#title) or [Affected Infrastructure](#affected-infrastructure) to learn how to change either.
 
 #### Title
-{:.no_toc}
 
 To update the title of an incident, click `Incidents` in the navigation bar and then the `View Incident` button next to the incident in question:
 
@@ -315,7 +296,6 @@ To update the title of an incident, click `Incidents` in the navigation bar and 
 Click the pencil icon next to the current incident title, change it, then click `Save`.
 
 #### Affected Infrastructure
-{:.no_toc}
 
 To update the affected infrastructure of an incident, click `Incidents` from the navigation bar and then the `View Incident` button next to the incident in question:
 
@@ -356,7 +336,7 @@ To begin monitoring, edit the incident and change the following fields.
 
 `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
 
-> _While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational._
+> *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
 
 `Broadcast` - Make sure all boxes are checked.
 
@@ -439,25 +419,23 @@ The timezone of Status.io is set to UTC.
 The date format is DD-MM-YYYY, because the ISO format is not an option as of 2022-08-12.
 
 ### Rescheduling a Maintenance Event
-{:.no_toc}
 
-In case you are required to reschedule a maintenance window, Go to _status.io_ > _Maintenances_ tab
+In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
 
 Select the maintenance you need to reschedule.
 ![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
 
-Update the new schedule time by hitting on the _Reschedule Maintenance_ button **Make sure you have the correct timezone details when updating** Then hit save.
+Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
 
 ### Sending Updates About Maintenance Events
-{:.no_toc}
 
 > **Note About Automated Maintenance Events**: On the Maintenance Event page you may see `Automation: Running`  with red text in parenthesis next to it reading `(Disable)`.
 Once `(Disable)` has been clicked and subsequently disabled it cannot be re-enabled.
 In order to `Post Update` and `Finish Maintenance` the automated Maintenance Event must be `(Disable)`.
 After being disabled all future updates to this Maintenance Event must be manual updates from that point forward.
 
-To send an update about a maintenance event, such as a reminder, go to the _Maintenances_ tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the _Post Update Without Starting_ button.
+To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
 
 ![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
 
@@ -469,7 +447,7 @@ Once the GitLab Status Twitter account has posted about the maintenance schedule
 
 ## End of Shift Handover Procedure
 
-It's necessary to inform the ingress CMOC of any relevant activity that ocurred during your shift or if there are incidents that are still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) template. Do this even if nothing happened during your shift, signaling that everything is fine is also useful information. 
+It's necessary to inform the ingress CMOC of any relevant activity that ocurred during your shift or if there are incidents that are still ongoing. To perform a handover create an issue in the [CMOC Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues) issue tracker using the [Handover](https://gitlab.com/gitlab-com/support/dotcom/cmoc-handover/issues/new?issuable_template=Handover) template. Do this even if nothing happened during your shift, signaling that everything is fine is also useful information.
 
 If handover occurs during an active incident where the quick summary you'd provide in the issue is insufficient to properly prepare the ingress CMOC of the situation, you are encouraged to start a Zoom call in [#support_gitlab-com](https://gitlab.slack.com/archives/C4XFU81LG) and invite the ingress CMOC to it so that they can be caught up synchronously. You can use the following slash command to expedite setting the meeting up.
 
@@ -479,21 +457,19 @@ If handover occurs during an active incident where the quick summary you'd provi
 
 While the CMOC Handover issue tracker is open to the public, the template [defaults to confidential](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3504) in an effort to prevent accidental leakage of confidential information.
 
-Contact requests opened during a shift should by default be assigned to the Support Engineer that created the ticket. It can be useful to mention the request for awareness of the next shift. However, it's not necessary to re-assign the contact request or continue to include it in subsequent handoffs unless action needs to be taken. In many cases, users don't respond to the contact request. You may want to consider re-assigning contact requests and handing it off to another shift if you intend to be OOO, for example. 
+Contact requests opened during a shift should by default be assigned to the Support Engineer that created the ticket. It can be useful to mention the request for awareness of the next shift. However, it's not necessary to re-assign the contact request or continue to include it in subsequent handoffs unless action needs to be taken. In many cases, users don't respond to the contact request. You may want to consider re-assigning contact requests and handing it off to another shift if you intend to be OOO, for example.
 
 ## CMOC Training Resources
 
 ### CMOC Shadow PagerDuty Schedule
 
-**NOTE:** When adding yourself to this rotation, be aware that adjusting the `Time Zone` field at the top of the page will adjust it for all users, not just yourself. Before you navigate away, please reset the timezone to UTC. 
+**NOTE:** When adding yourself to this rotation, be aware that adjusting the `Time Zone` field at the top of the page will adjust it for all users, not just yourself. Before you navigate away, please reset the timezone to UTC.
 
-The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can be used by anyone who wishes to shadow the CMOC to learn before officially acting as CMOC. A soon-to-be-CMOC can create an [issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new#) in the pagerduty project to be added to a shadow schedule. Or, to shadow for a short span of days, they can click _Schedule an Override_, then click _Custom duration_ and then select the time zone and the start and end dates and times before clicking the _Create Override_ button to save the changes. To remove overrides, click the **x** on the override to be removed in the list of **Upcoming Overrides** on the right side of the screen. 
+The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can be used by anyone who wishes to shadow the CMOC to learn before officially acting as CMOC. A soon-to-be-CMOC can create an [issue](https://gitlab.com/gitlab-com/support/support-ops/other-software/pagerduty/-/issues/new#) in the pagerduty project to be added to a shadow schedule. Or, to shadow for a short span of days, they can click *Schedule an Override*, then click *Custom duration* and then select the time zone and the start and end dates and times before clicking the *Create Override* button to save the changes. To remove overrides, click the **x** on the override to be removed in the list of **Upcoming Overrides** on the right side of the screen.
 
 > **Note About CMOC Shadowing**: When the CMOC shadow PagerDuty schedule is active the engineer will receive notifications and get paged the same way as when on the CMOC schedule. **Do not acknowledge or resolve any incidents when on the CMOC shadow schedule as this will stop any potential pages to the real CMOC!**
 
-
 ### CMOC Training Activities
-{:.no_toc}
 
 A "training activity" for CMOCs is an activity under which CMOCs are exposed to items in the workflow with the expressed purpose of maintaining or increasing performance against [CMOC performance indicators](#cmoc-performance-indicators).
 
@@ -505,8 +481,7 @@ Some example training activities are:
 - [Practice Events](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#cmoc-practice-events)
 
 #### CMOC Practice events
-{:.no_toc}
 
 Practice events are meant to provide more experience for the person wanting to CMOC a real incident. They include a practice scenario that requires them to update the status page, communicate with the incident manager as well as provide more confidence.
 
-To start a CMOC Practice event ask your trainer or any support engineer to go to the [Support Team Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=CMOC Practice Event) and to create an issue with the [CMOC Practice Event](https://gitlab.com/gitlab-com/support/support-team-meta/-/blob/master/.gitlab/issue_templates/CMOC%20Practice%20Event.md) issue template.
+To start a CMOC Practice event ask your trainer or any support engineer to go to the [Support Team Meta issue tracker](<https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=CMOC> Practice Event) and to create an issue with the [CMOC Practice Event](https://gitlab.com/gitlab-com/support/support-team-meta/-/blob/master/.gitlab/issue_templates/CMOC%20Practice%20Event.md) issue template.

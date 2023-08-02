@@ -1,23 +1,14 @@
 ---
-layout: handbook-page-toc
 title: Cost optimization of Cloud Services
 category: Infrastructure for troubleshooting
 description: "Guideline on how to use cloud services cost effectively"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Overview
-
 Cloud services are a valuable resource in support and give us the ability to host GitLab or GitLab related deployments in a wide variety of configurations.  We can use permanent instances as a daily resource and ephemeral deployments to test, verify, reproduce and explore new ideas rapidly without consuming our local resources such as CPU, memory and battery life.
 
-Although highly beneficial cloud services come with a cost that can be hourly or on a per-term basis.  At first glance these costs can appear to be minimal however they can easily balloon to thousands of dollars per month.  
+Although highly beneficial cloud services come with a cost that can be hourly or on a per-term basis.  At first glance these costs can appear to be minimal however they can easily balloon to thousands of dollars per month.
 
-The purpose of this page is to provide a workflow that will ensure we [spend company money as if it's our own](/handbook/spending-company-money/#guidelines) while maintaining minimal impact on existing support workflows.  
+The purpose of this page is to provide a workflow that will ensure we [spend company money as if it's our own](/handbook/spending-company-money/#guidelines) while maintaining minimal impact on existing support workflows.
 
 #### Definition of "cloud service"
 

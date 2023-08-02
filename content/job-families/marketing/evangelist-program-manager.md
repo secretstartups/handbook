@@ -31,5 +31,3 @@ The Evangelist Program Manager is a [grade 6](https://about.gitlab.com/handbook/
 ## Career Ladder
 
 The next step in the Evangelist Programs job family is not yet defined at GitLab.
-
-

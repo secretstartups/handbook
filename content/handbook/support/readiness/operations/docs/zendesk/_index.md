@@ -12,8 +12,8 @@ This is our main (and first) Zendesk instance. Most people interacting with
 GitLab Support will use this instance.
 
 - Accessible by: Everyone
-- Support portal address: https://support.gitlab.com
-- Sandbox address: https://gitlab1545832369.zendesk.com/agent/
+- Support portal address: <https://support.gitlab.com>
+- Sandbox address: <https://gitlab1545832369.zendesk.com/agent/>
 
 #### Zendesk US Federal
 
@@ -22,5 +22,5 @@ users in mind. It has many restrictions and is not generally usable without
 pre-approval.
 
 - Accessible by: US Citizens only
-- Support portal address: https://gitlab-federal-support.zendesk.com
-- Sandbox address: https://gitlabfederalsupport1585318082.zendesk.com/agent
+- Support portal address: <https://gitlab-federal-support.zendesk.com>
+- Sandbox address: <https://gitlabfederalsupport1585318082.zendesk.com/agent>

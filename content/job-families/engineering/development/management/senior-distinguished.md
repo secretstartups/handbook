@@ -17,10 +17,11 @@ The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handb
 ## Responsibilities
 
 Share our values, and work in accordance with those values.
+
 - The Senior Distinguished Engineer role acts as the individual equivalent of a Senior Director, Engineering
 - Extends that of the [Distinguished Engineer](/job-families/engineering/development/management/distinguished/#responsibilities) responsibilities
 - At this level the Senior Distinguished Engineer's minimal sphere of influence is across multiple sub-departments if not across their entire department
-- _Generate_ technical and process improvements
+- *Generate* technical and process improvements
 - Drive innovation within Engineering
 - Identifies the balance between the immediate and long term impact of technical direction and guides the organisation to execution in this balance
 - Be a technical, architectural, and career development mentor for other backend engineers

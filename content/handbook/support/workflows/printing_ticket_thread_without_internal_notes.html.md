@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Printing ticket thread without internal notes
 category: Zendesk
 description: How to print a ticket thread without the internal notes.
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Printing a clean ticket thread
 
@@ -20,8 +13,8 @@ Sometimes there is a need to print ticket threads to share the content with the 
 An easy way of cleaning up the HTML DOM output is by using a javascript bookmarklet to do it.
 
 1. Click on your bookmark bar in your browser and select `Add page...`
-2. Give it a name of `Remove Zendesk Internal Notes`
-3. Paste the following code snippet into the URL input box
+1. Give it a name of `Remove Zendesk Internal Notes`
+1. Paste the following code snippet into the URL input box
 
 ```javascript
 javascript:(function(){document.getElementById('ccs').remove();document.getElementById('fields').remove();document.getElementById('custom_fields').remove();const list=document.querySelectorAll('#comments > .comment');for(let item of list){const commentChildren=item.children;const mastElement=[].filter.call(commentChildren,element=>[].includes.call(element.classList,'mast'))[0];const mastChildren=mastElement.children;const internalNoteElement=[].filter.call(mastChildren,element=>[].includes.call(element.classList,'internal_note'))[0];if(typeof internalNoteElement!=='undefined'){item.remove()}}})();
@@ -48,7 +41,7 @@ javascript:(function(){
         const mastElement = [].filter.call(
             commentChildren, element => [].includes.call(element.classList, 'mast')
         )[0];
-        
+
         // Select the children elements of the mast element
         const mastChildren = mastElement.children;
 

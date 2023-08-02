@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Improving Documentation
 description: "Workflow for submitting GitLab documentation improvements from the Support team"
 category: Handling tickets
@@ -11,7 +11,7 @@ As outlined in the [Documentation section](/handbook/support/workflows/how-to-re
 
 > By taking a [docs-first](https://docs.gitlab.com/ee/development/documentation/styleguide/#docs-first-methodology) approach to answering, we can ensure that the documentation remains a highly useful [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide/#documentation-is-the-single-source-of-truth-ssot). By building up a corpus of documentation informed by real-world problems, we help GitLab customers find the answers or solutions they need before they come into the queues.
 
-With that in mind, whenever possible, include a link to the applicable documentation as part of your response to a ticket. If the documentation does not exist yet, then _write_ a documentation issue or draft merge request, and send the link  in the response.
+With that in mind, whenever possible, include a link to the applicable documentation as part of your response to a ticket. If the documentation does not exist yet, then *write* a documentation issue or draft merge request, and send the link  in the response.
 
 The information collected below should be helpful for when you contribute to the docs.
 
@@ -22,8 +22,10 @@ The information collected below should be helpful for when you contribute to the
 Make your edits and commits on a new branch named according to the Documentation
 guidelines, which state that branch names must start with `docs-` (or
 [one of the other options listed in the branch name scheme](https://docs.gitlab.com/ee/development/documentation/#branch-naming)).
+
 - Commit the changes. Make sure the commit message follows our [commit message guidelines](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#commit-messages-guidelines).
     If you don't follow the guidelines, the [Danger Bot](https://docs.gitlab.com/ee/development/dangerbot.html) job may fail when it checks if the commits are aligned with our guidelines. If it fails, read the job trace and fix the issue with a new commit, or an [interactive rebase](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History). (Ask for help if you're not sure how to do a rebase!)
+
 > **Note:** If you are unfamiliar with the basics of working in a Git or GitLab
 environment, please complete the
 [Git and GitLab Basics training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git%20and%20GitLab%20Basics.md) before attempting to make documentation changes.
@@ -46,7 +48,7 @@ environment, please complete the
   - documentation (the template should be automatically adding this label, but check to make sure).
   - group [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) (if in doubt, it should be listed at the top of the docs page)
   - customer (if related to a ticket)
-  - _Note: the bot will add the stage, section, [Support Team Contributions](https://about.gitlab.com/handbook/support/#support-fixes), and docs-only labels if you don't_
+  - *Note: the bot will add the stage, section, [Support Team Contributions](https://about.gitlab.com/handbook/support/#support-fixes), and docs-only labels if you don't*
 - Follow the [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and set the relevant Technical Writer (TW) as a Reviewer.
   - The documentation template has instructions on how to find this, but basically refer to the metadata information at the top of the source version of the docs page.
   - Check the [Technical Writing Assignments](https://about.gitlab.com/handbook/product/ux/technical-writing/#assignments) to find the appropriate tech writer for the page you edited.
@@ -75,7 +77,7 @@ For those situations in which making documentation is a more time-consuming exer
 - Apply [the macro `General::Document This`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/General/Document%20This.yaml) to the ticket. This macro will apply the `create_doc_issue` tag and prefill the template for you to fill out.
 - Fill out the template changing the title and the description. Example of the filled out template:
 
-```
+```text
 CREATE DOCUMENTATION ISSUE
 Title: Document how to use Y with an X
 Description

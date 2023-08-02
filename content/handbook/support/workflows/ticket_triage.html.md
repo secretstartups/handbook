@@ -1,17 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Triaging Tickets
 description: "A walk through of some basic checks and items to tick off when working on the Needs Org and Triage queue in ZenDesk."
 category: Handling tickets
 subcategory: Triaging
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Purpose of this page
 
@@ -49,7 +44,7 @@ Below is a list of some commonly used Zendesk forms with a brief explanation reg
 - Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support/#free-users). See [Handling Free User tickets](#handling-free-user-tickets) for further instructions on how to handle free user tickets.
 - Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
 
-**Please note:** It's recommended to always use the `General::Forms::Incorrect form used` macro to _change_ the ticket form, unless it's between Self-Managed, SaaS (GitLab.com) and SaaS Account.
+**Please note:** It's recommended to always use the `General::Forms::Incorrect form used` macro to *change* the ticket form, unless it's between Self-Managed, SaaS (GitLab.com) and SaaS Account.
 
 ### For security related matters
 

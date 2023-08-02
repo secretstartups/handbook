@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Account Deletion & Data Access Requests - Introduction
 category: GitLab.com
 subcategory: Legal
 description: "Description of duties and scope for Account Deletion and Data Access requests."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 

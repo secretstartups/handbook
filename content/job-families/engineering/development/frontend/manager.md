@@ -18,7 +18,6 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 - May have more than one specialty on their team, per our [shared manager team](https://about.gitlab.com/handbook/engineering/starting-new-teams/#team-construction) concept
 - Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
-
 ## Requirements
 
 - Collaborate effectively with others

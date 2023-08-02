@@ -4,7 +4,6 @@ title: Director, Engineering
 
 Directors in Engineering at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Directors will often be given ambiguous ill-defined problems with the implicit goal of gaining clarity and driving execution/direction.
 
-
 ## Job Grade
 
 The Director, Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

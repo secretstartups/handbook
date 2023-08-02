@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Community Forum Workflows
 category: References
 description: Workflows for Support ticket deflection via the GitLab Community Forum.
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Technical Support in the Community Forum
 

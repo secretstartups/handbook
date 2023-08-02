@@ -1,16 +1,7 @@
 ---
-layout: handbook-page-toc
 title: Support Global Groups - FAQ
 description: Support Global Groups FAQ
 ---
-
-# Support Global Groups - FAQ
- 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Collaboration
 
@@ -30,9 +21,10 @@ description: Support Global Groups FAQ
    It can have that undesired impact if we are not diligent at encouraging and
    enabling various opportunities for collaborating outside of a group. A few
    ideas for encouraging broad collaboration are:
+
    1. Use cross-region crush sessions to collaborate with any peers
-   2. Create SGG Office Hours to share tips and tricks between groups
-   3. Set up regular coffee chats for yourself with colleagues outside of your group
+   1. Create SGG Office Hours to share tips and tricks between groups
+   1. Set up regular coffee chats for yourself with colleagues outside of your group
 
 #### 3. Does having per-group Slack channels make it harder to find unanswered questions where an SE still needs help?
 
@@ -47,7 +39,7 @@ description: Support Global Groups FAQ
    very low, and the people asking those questions should after a reasonable
    amount of time seek help in other channels or through mechanisms such as
    FlexiPods.
-    
+
 #### 4. Does having per-group Slack channels make it harder to find existing answers in Slack?
 
    This can happen. However, given that Slack purges older posts continuously,
@@ -58,9 +50,10 @@ description: Support Global Groups FAQ
    what they need at any later time.
 
 #### 5. When should information or a discussion in a group Slack channel be moved to a channel such as `#support_self-managed` or `#support_gitlab-com` that has a broader audience?
-   
+
    The decision is largely up to the person who started the discussion.
    Some questions helpful to making a good decision are:
+
    1. Is the discussion about a newly-discovered product issue?
    1. Is the discussion about a new solution or workaround to a known product
       issue?
@@ -69,7 +62,6 @@ description: Support Global Groups FAQ
    1. Did we just learn something new?
 
       *In this case, by the way, please also put the new discovery into the SWIR.*
-
 
 ### Tickets in other groups
 
@@ -81,7 +73,7 @@ description: Support Global Groups FAQ
    any of those tickets that are at that time unassigned. When taking a ticket
    in this way, the Support Engineer should also select their group's name
    from the `SGG` field dropdown.
-    
+
 #### 2. Are SEs allowed to bring their expertise where it is needed, even outside of their group?
 
    Yes! Go where your knowledge is needed. Pair with the ticket assignee. Or
@@ -105,11 +97,13 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
 ## Group Administration
 
 ### 1. How are the number and size of groups determined?
+
    We based the trial groups’ size on external studies of what range of group
    sizes is most effective, and settled on 14-15 as that would allow for six
    comparably-sized groups in a global deployment. After the trials, feedback
    led us to settle on a higher number of SEs per group, and fewer groups.
    Specifically:
+
    1. The timezone spread in APAC makes it so that our APAC groups are each
       practically two groups: APAC-E and APAC-W. The increased group size allows
       each APAC group to have at least three people in each of those subgroups,
@@ -118,8 +112,9 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
       sometimes had trouble finding the help or expertise they needed within
       their groups. Adding one or two more people to each region of each group
       mitigates that problem at least a little.
-    
+
 ### 2. What are the criteria for forming groups?
+
    1. Within each region, we determined each group’s membership by distributing
       as evenly as we could the following:
       1. Area of focus (SaaS vs. SM)
@@ -162,6 +157,7 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
 ## Success Measurements
 
 ### 1. What is SGG trying to improve? (What is the purpose of SGG?)
+
    The essence of the move to SGG was that we wanted to take our team members
    out of a poorly defined system that didn’t support them well and put them
    into a new system that would. Feedback from the Support Engineers who
@@ -179,6 +175,7 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
    of it to improve our KPIs such as FRT, SSAT, and TTR.
 
 ### 2. Will FRT baselines or monitoring change?
+
    Initially we will keep the FRT baselines unchanged. With everybody in SGG
    instead of just ⅓ of the global team (as was the case during the trial),
    there should be sufficient flow of new tickets into each group to allow
@@ -190,6 +187,7 @@ group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
    and that could drive other changes to FRT measurement.
 
 ### 3. What happens if our FRT SLA achievement goes down?
+
    The entire Support Leadership Team (VP through managers) will continue to
    monitor all of our KPIs, as always. When and if we detect a trend in the
    wrong direction for any of them, we will follow our normal process, which
@@ -210,11 +208,12 @@ whether we're successful in meeting our SLA and other goals.
 ## Organization and Leadership
 
 ### 1. What is the manager’s role with respect to SGG?
-   - Managers are available to work with any group that reaches out with
+
+- Managers are available to work with any group that reaches out with
      questions, concerns, requests for guidance, requests for help, etc.
-   - Managers are encouraged to stay aware of group activity by watching the
+- Managers are encouraged to stay aware of group activity by watching the
      group Slack channels.
-   - Managers work primarily with their own team members to understand
+- Managers work primarily with their own team members to understand
      challenges and growth opportunities, to provide coaching and guidance, etc.
 
 ### 2. Why are managers not assigned to specific groups within the SGG system?
@@ -260,7 +259,7 @@ whether we're successful in meeting our SLA and other goals.
 
    Managers might also observe a group struggling with something, and reach out
    proactively to ask if they would like some help.
- 
+
 ### 5. Will managers be providing guidance and assistance to groups in self-organizing? If so, how?
 
    Yes, managers will provide both guidance and assistance beginning perhaps 2
@@ -291,7 +290,7 @@ rollout.
   similarly to an SGG group. They have their own ticket view. They organize
   internally. They have team members in all regions. However, they collaborate
   more with the Fulfillment teams than with the rest of Support.
-  
+
   *NOTE: SEs who have a partial L&R focus do work within an SGG group for their
   SaaS and SM responsibilities.*
 
@@ -384,7 +383,7 @@ with the rest of Support.
    Please note that the focus groups are intended to provide guidance to an SE
    handling a complex or sensitive ticket. They are not expected to own or
    manage every ticket from their associated customer.
-   
+
 ## Urgent Situations
 
 ### 1. How are emergencies handled within SGG?

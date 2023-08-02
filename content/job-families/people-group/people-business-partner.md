@@ -124,7 +124,6 @@ This job may be an individual contributor or a manager of people, but the title 
 - Own specific iterations related to company-wide Talent Programs based on feedback from their client group and PBP team.
 - Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews.
 
-
 ### Requirements
 
 - Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
@@ -160,7 +159,6 @@ The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.
 - Executes on company-wide Talent Programs within their client groups, including Annual Talent Assessment and Compensation Reviews, ensuring alignment to broader People priorities in execution.
 - Facilitates connection to other People Group DRI's when appropriate to remain focused on the most impactful work while ensuring relevant DRI's are engaged
 
-
 ### Requirements
 
 - Relevant, progressive People Business Partner experience supporting front line, mid-level and executive leaders.
@@ -175,8 +173,6 @@ The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.
 - Experience working with Global Talent (Americas, EMEA, APAC); remote experience preferred.
 - Comfortable with high volume and very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
-
-
 
 ## Director, People Business Partner (PBP)
 
@@ -215,7 +211,6 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 - Successfully able to manage high volume, very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work daily.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
 
-
 ## Senior Director, People Business Partner
 
 ### Job Grade
@@ -233,9 +228,7 @@ The Senior Director, People Business Partner is a [job grade 11](/handbook/total
 - Leverages understanding of multiple Divisions needs and goals to make connections across the business to increase collaboration, efficiency and results across teams
 - Is a role model and champion of GitLab values themselves, and challenges leaders to maintain commitment to our CREDIT values through our People practices as we scale
 
-
 ### Requirements
-
 
 - Extends that of the Director, PBP
 - Relevant, progressive HR experience, with at least 10 years as a business partner supporting Senior Executive and/or C-level leaders.
@@ -248,7 +241,6 @@ The Senior Director, People Business Partner is a [job grade 11](/handbook/total
 - Very strong EQ, with fine-tuned instincts and problem-solving skills. Consistently demonstrates sound, trusted judgment
 - Able to switch between strategic and tactical work daily and make recommendations to improve tactical processes for scale.
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
-
 
 ## Specialties
 
@@ -273,7 +265,6 @@ The Senior Director, People Business Partner is a [job grade 11](/handbook/total
 - Understand GitLab’s sales strategy in order to align people strategies to meet business goals.
 - Drive equality, diversity, and inclusion throughout all of our programs and initiatives.
 
-
 ## Performance Indicators
 
 Performance indicators are done in partnership with the PBP and the organizational leaders.
@@ -285,6 +276,7 @@ Performance indicators are done in partnership with the PBP and the organization
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with a Director, People Business Partner
 - After that, candidates will be invited to schedule a 50 minute interview with members of the People Business Partner team and/or other members of the People team.

@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Processing Signed Data Processing Addendums (DPAs)
 category: GitLab.com
 subcategory: Legal
 description: "Support Engineering workflow detailing what to do with signed Data Processing Addendums"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -24,7 +20,7 @@ Data Processing Addendums are available to paid subscribers of GitLab.com throug
 
 1. Under the section “Google Docs, Notes, & Attachments”, click "Attach File" and upload the file to the record.
 
-1. Should you be unable to attach the file yourself, please forward it to [legal@gitlab.com](mailto:legal@gitlab.com?subject=Signed DPA) with a link to the Salesforce account.
+1. Should you be unable to attach the file yourself, please forward it to [legal@gitlab.com](mailto:<legal@gitlab.com>?subject=Signed DPA) with a link to the Salesforce account.
 
 ### Screenshots
 

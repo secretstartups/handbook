@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Working with reseller related requests
 category: General
 description: This is a guide on how to handle requests involving Reseller.
@@ -20,7 +20,7 @@ for more on alliances.
 When a customer purchases through a reseller we follow different workflows than
 we do for WebDirect or Sales Assisted purchases. Note the following for a customer purchase through a reseller:
 
-1. The customer will have _NO_ access to Customers Portal. The customer's account is held under the name of the reseller, so there is no unique account for them to login to.
+1. The customer will have *NO* access to Customers Portal. The customer's account is held under the name of the reseller, so there is no unique account for them to login to.
 1. Additions or modifications to the existing subscription made through a reseller must go through the reseller, unless specifically allowed by the reseller.
 
 ### Identifying whether a customer purchased through reseller
@@ -28,6 +28,7 @@ we do for WebDirect or Sales Assisted purchases. Note the following for a custom
 Zuora is the single source of truth for whether a purchase was made via a reseller, however this information can be viewed via either Zuora or SalesForce. Authorised resellers are listed on the [GitLab Partner directory](https://partners.gitlab.com/English/directory/).
 
 #### Via Zuora
+
 Check if a subscription was purchased through a reseller by locating the `Invoice Owner` in the customer account on Zuora.
 
 1. First login to [CustomerDot](https://customers.gitlab.com/)
@@ -39,6 +40,7 @@ Check if a subscription was purchased through a reseller by locating the `Invoic
 1. You can also search the `Zuora Subscription` page for the text `SSPChannel` which will have the text value `Reseller`
 
 Note:  Sometimes you can also see Partners section in the end-user's SFDC account.
+
 #### Via Salesforce
 
 1. Open a quote that has its `Status` set as `Sent to Z-Billing` for an opportunity
@@ -55,10 +57,9 @@ If a reseller partner needs to have the end-user contact details updated (who sh
 - Have the current Sold-To contact file a support ticket with us, following the workflow [Add subscription management contact workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#add-subscription-management-contact-workflow)
 - The reseller partner **must** attach a copy of the subscription invoice to verify any contact change requested on an end-user's behalf
 
-
 ### Handling reseller customers' requests for direct renewal
 
-To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase. 
+To assist a customer who requests to renew their subscription directly with GitLab instead of through their reseller, follow the [working with sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html) and ensure you mention that the customer first had a Reseller purchase.
 
 Do not activate the CustomersDot login until the Sales-assisted purchase is processed. See [Enabling CustomersDot login](#enabling-customersdot-login)
 

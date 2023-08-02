@@ -1,20 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Handling Emotionally-Charged Tickets
 category: Handling tickets
 subcategory: Writing responses and handling feedback
 description: How to keep a ticket moving toward resolution when emotions are getting involved
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
-While [working on tickets](./working-on-tickets.html) you may encounter a 
+While [working on tickets](./working-on-tickets.html) you may encounter a
 customer expressing negatively charged emotions in their responses.
 When customers start putting negative emotions into ticket communications, it
 can be very difficult to figure out what to do. Our goal remains the same: to

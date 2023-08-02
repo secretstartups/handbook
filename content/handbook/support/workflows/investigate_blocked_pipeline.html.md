@@ -1,20 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Investigate Blocked Pipeline
 description: "Workflow to determine the cause of a blocked pipeline on gitlab.com"
 category: GitLab.com
 subcategory: Security
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
-GitLab.com uses an [external pipeline validation service](https://docs.gitlab.com/ee/administration/external_pipeline_validation.html) to verify 
+GitLab.com uses an [external pipeline validation service](https://docs.gitlab.com/ee/administration/external_pipeline_validation.html) to verify
 pipelines as legitimate activity. **This includes pipelines run on specific runners**. If a customer is reporting that their pipelines are not running we can review
 the logs on our end to see what activity was logged in the validation service.
 
@@ -23,7 +19,8 @@ in their `.gitlab-ci.yml` is causing their pipelines to be blocked. When in doub
 
 ## What does it look like for a user?
 
-A pipeline _may_ have been blocked by the pipeline validation service if an expected pipeline is not created. A pipeline might be generated via:
+A pipeline *may* have been blocked by the pipeline validation service if an expected pipeline is not created. A pipeline might be generated via:
+
 - a new push
 - a manual action
 - a scheduled pipeline
@@ -52,6 +49,7 @@ The rules are documented in the [Trust and Safety - Repository Validation Servic
 When rules change or are updated there's the potential for a batch of false positives. If there are many reported cases in a short period, [report an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack).
 
 It will be helpful to:
+
 - have a list of tickets reporting blocked pipelines
 - verify that they were blocked by the pipeline validation service
 - identify any commonalities
@@ -60,24 +58,20 @@ It will be helpful to:
 
 We have the `General::Blocked Pipeline` macro which will ask users for their `.gitlab-ci.yml`  (or permission to access it) and explains that their pipeline may have been blocked, in addition to tagging the ticket. Make sure to remove any items the customer has already provided in their initial response.
 
-Once you've verified the block you can respond with postive affirmation that the pipeline was blocked as a result of detected abuse. 
+Once you've verified the block you can respond with postive affirmation that the pipeline was blocked as a result of detected abuse.
 
 In responding avoid mentioning any of the specific rules. For example, say we had a rule that filtered out imaginary crypto mining script `use-gitlab-to-mine-crypto.sh`. You might respond:
 
-
 > It looks like an item in the `script` section of your `.gitlab-ci.yml` tripped our anti-mining measures. In general, you'll want to remove any references
 to mining tools.
-
 
 or
 
 > I see you've got an item on line 22 that calls a script with a name similar to scripts that have been flagged as abuse in the past. If you remove that line, I suspect your pipeline will pass validation.
 
-
 You would **not** want to say:
 
 > We scan all pipelines for the string `use-gitlab-to-mine-crypto.sh`. Your `.gitlab-ci.yml` contains this string, so please rename that script to avoid being flagged.
-
 
 ## Reporting a false positive
 

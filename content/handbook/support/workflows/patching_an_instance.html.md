@@ -1,5 +1,4 @@
 ---
-layout: markdown_page
 title: Patching an instance
 category: Self-managed
 description: How to patch GitLab (Rails application) manually
@@ -12,8 +11,8 @@ be because:
 
 1. The customer can't upgrade to the newest version, but needs a fix from that
    version.
-2. We have a fix merged, but not yet in a release.
-3. The fix for their issue is still in development, but we'd like to verify that
+1. We have a fix merged, but not yet in a release.
+1. The fix for their issue is still in development, but we'd like to verify that
    it resolves the customer's problem.
 
 For Omnibus installs on a single server, this is fairly straightforward. Replace
@@ -21,10 +20,10 @@ For Omnibus installs on a single server, this is fairly straightforward. Replace
 a raw snippet.
 
 ```shell
-$ curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
-$ cd /opt/gitlab/embedded/service/gitlab-rails
-$ patch -p1 -b -f < /tmp/$mr_iid.patch
-$ gitlab-ctl restart
+curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
+cd /opt/gitlab/embedded/service/gitlab-rails
+patch -p1 -b -f < /tmp/$mr_iid.patch
+gitlab-ctl restart
 ```
 
 To revert the patch, use the `.orig` files the `patch` program generates.
@@ -41,11 +40,11 @@ The GitLab Docker uses Omnibus inside the container to run GitLab. You can follo
 steps as **[Patching an Omnibus install](#patching-an-omnibus-install)**.
 
 ```shell
-$ docker exec -it <gitlab-container> bash
-$ curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
-$ cd /opt/gitlab/embedded/service/gitlab-rails
-$ patch -p1 -b -f < /tmp/$mr_iid.patch
-$ gitlab-ctl restart
+docker exec -it <gitlab-container> bash
+curl -o /tmp/$mr_iid.patch https://gitlab.com/gitlab-org/gitlab/-/merge_requests/$mr_iid.patch
+cd /opt/gitlab/embedded/service/gitlab-rails
+patch -p1 -b -f < /tmp/$mr_iid.patch
+gitlab-ctl restart
 ```
 
 **Note**:
@@ -96,7 +95,6 @@ Patching a Kubernetes install involves doing the following steps:
     docker push path/to/remote/registry/gitlab-webservice-ee:v15.5.1
     ```
 
-
 1. Update the deployment to use the patched image:
 
     ```shell
@@ -109,7 +107,7 @@ To revert the patch, you can edit the deployment to use the original image.
 
 **Note**:
 
-- This process only applies to the Rails application ([the GitLab 
+- This process only applies to the Rails application ([the GitLab
 repository](https://gitlab.com/gitlab-org/gitlab)). You will need to patch a different image
 depending on the GitLab component, you want to patch.
 - This is different with [Patching the Rails code in the `toolbox` pod](https://docs.gitlab.com/charts/troubleshooting/kubernetes_cheat_sheet.html#patching-the-rails-code-in-the-toolbox-pod). Patching rails code directly in the `toolbox`

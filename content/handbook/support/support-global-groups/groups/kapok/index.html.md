@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: Home Page for Support's Kapok Group
 description: Home Page for Support's Kapok Group
 ---
@@ -7,16 +6,7 @@ description: Home Page for Support's Kapok Group
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
-# Welcome to the home page of the Kapok group
-
 Introductory text, logos, or whatever the group wants here
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Kapok resources
 
@@ -29,9 +19,10 @@ AMER has a standing weekly crush session - all are welcome to attend.
 The Zoom link is pinned to the Slack channel and is [here also](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09).
 
 AMER also has a weekly "NRTea Party" crush focused on unassigned NRT tickets or NRT tickets where the asignee is away on PTO.
-or otherwise not able to respond. All are welcome, the meeting is on the support team calendar. 
-  - Bringing tea to the NRTea Party is optional but it does add some fun!
-  - If you plan to be out and have tickets that may need some attention please post in the daily thread requesting they be added to the NRTea crush so we can make a note in the pairing issue.
+or otherwise not able to respond. All are welcome, the meeting is on the support team calendar.
+
+- Bringing tea to the NRTea Party is optional but it does add some fun!
+- If you plan to be out and have tickets that may need some attention please post in the daily thread requesting they be added to the NRTea crush so we can make a note in the pairing issue.
 
 ### Slack
 
@@ -53,8 +44,8 @@ The AMER Kapok group usually starts a thread from this post describing what our 
 If a handover to a customer's preferred region is requested, either due to a troubleshooting call request outside of your timezone or if general communication is easier in the customer's preferred region, please try to follow this process:
 
 - Please ensure troubleshooting calls are in-line with our [video and phone call policy](https://about.gitlab.com/support/#phone-and-video-call-support), and:
-     - You've exhausted all async troubleshooting steps.
-     - There's no availability within your timezone.
+  - You've exhausted all async troubleshooting steps.
+  - There's no availability within your timezone.
 - Add an internal note on the ticket with the current status, what has been done so far for troubleshooting, and the next steps.
 - Alert the folks on the daily standup bot thread *or* [schedule slack a message](https://slack.com/help/articles/1500012915082-Schedule-messages-to-send-later) to be sent when folks in the requested region are online.
 - Engineers in the region will add the availability emoji to communicate the availability.

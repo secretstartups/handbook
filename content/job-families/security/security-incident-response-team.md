@@ -79,7 +79,7 @@ The Senior Security Incident Response Team Engineer is a [grade 7](https://about
 - Capability to build working relationships with key stakeholders
 - Experience with operating system internals and hardening, web application and browser security, and monitoring and intrusion detection
 
-## Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 

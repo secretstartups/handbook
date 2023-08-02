@@ -7,7 +7,6 @@ summary: The GitLab awareness campaign manager will help run the management of t
 
 The GitLab awareness campaign manager will help run the management of the brand awareness campaigns, working across the company as well as with our agency to provide deliverables in a timely manner and launch awareness campaigns in select markets. This position is responsible for pushing the brand awareness campaigns across the finish line and reporting back metrics on the campaigns.
 
-
 ### Job Grade
 
 The Awareness Campaign Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

@@ -47,6 +47,7 @@ The Director, Technical Accounting is a [grade 10](https://about.gitlab.com/hand
 #### Responsibilities
 
 All of the above responsibilities, plus
+
 - Drives the positions GitLab has taken on revenue for ASC 606, commission capitalization and amortization, allocation of hosting costs, ProServe revenue, assists in the related party questionnaire, and other positions on US GAAP and SEC reporting documentation.
 - Is the subject matter expert on SEC reporting, positions on new Accounting pronouncements, and other relevant technical accounting items.
 - Manages a team of Technical Accounting Managers.
@@ -56,6 +57,7 @@ All of the above responsibilities, plus
 #### Requirements
 
 All of the above requirements, plus
+
 - Proven leadership of Technical Accounting team (hire, develop, coach, mentor, engage)
 - Strong knowledge of SEC filing requirements, experience highly preferred.
 

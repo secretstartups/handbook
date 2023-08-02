@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Support Engineer Career Path
 description: The details of this page are to outline more specific guidance around promotions for Support team members. Page should not be moved without a Support Global Change Management issue.
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Career Development in Support
 
@@ -68,7 +64,7 @@ Recommendations to explore this path:
 - Read about the [Staff Support Engineer role criteria](https://handbook.gitlab.com/job-families/engineering/support-engineer/#staff-support-engineer).
 - Read about the [Staff level competencies and framework requirements](/handbook/engineering/career-development/matrix/engineering/staff/).
 - Watch [this discussion about becoming a Staff engineer](https://www.youtube.com/watch?v=dN4LyA4nDg0).
-- Watch or listen to the [Group AMA - Being/Becoming a Staff Support Engineer - 2022-05-26 ](https://www.youtube.com/watch?v=68jzHfG8SwU).
+- Watch or listen to the [Group AMA - Being/Becoming a Staff Support Engineer - 2022-05-26](https://www.youtube.com/watch?v=68jzHfG8SwU).
 
 Considerations when building your path:
 
@@ -81,7 +77,7 @@ Considerations when building your path:
 
 ## Path to Promotion: Support Engineering Manager
 
-People managers need a combination of skills involving not only [technical credibility](/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring.html), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have _organizational awareness_ within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
+People managers need a combination of skills involving not only [technical credibility](/handbook/engineering/management/#technical-credibility), but interpersonal and organizational skills in order to lead a team of diverse individuals. These skills include embodying the [GitLab Values](/handbook/values/), [coaching](/handbook/leadership/coaching/), [interviewing and hiring](/handbook/support/managers/hiring.html), and thinking holistically about the Support team, how we fit within the company, and interact with users. People managers also need to have *organizational awareness* within GitLab, so you know where to look for answers and how to guide team members toward solutions. Read more about [Leadership at GitLab](/handbook/leadership/).
 
 Maintaining your technical skillsets becomes secondary, however you have the  autonomy (and ability) to balance your level of technical skill upkeep with the priorities and needs of your team. Above all, you keep team members and our customers your top priority.
 

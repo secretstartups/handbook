@@ -5,8 +5,8 @@ no_list: true
 
 ## What are all the `noinspection` comments in the code?
 
-(_**If you were given this referred to this page in response to asking that question, please read this page for a thorough explanation.**
-But if you just want to learn how to use Code Inspection effectively in JetBrains, please see the [Code Inspection main page](..)_)
+(***If you were given this referred to this page in response to asking that question, please read this page for a thorough explanation.**
+But if you just want to learn how to use Code Inspection effectively in JetBrains, please see the [Code Inspection main page](..)*)
 
 ### JetBrains is widely used
 

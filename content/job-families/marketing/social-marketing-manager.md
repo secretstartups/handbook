@@ -9,7 +9,7 @@ twitter_creator: "gitlab"
 
 ## Social Marketing Jobs at GitLab
 
-Social Media requires a balance of work behind each of the two words that make up the practice. _Social_, by building trust with our audiences and connecting as personally as appropriate, and _Media_, by scaling our storytelling efforts to brand-level corporate marketing initiatives.
+Social Media requires a balance of work behind each of the two words that make up the practice. *Social*, by building trust with our audiences and connecting as personally as appropriate, and *Media*, by scaling our storytelling efforts to brand-level corporate marketing initiatives.
 
 #### The "Social" in Social Media
 
@@ -27,7 +27,7 @@ GitLab is a unique company to work for. While the demands of social marketing do
 
 ## Responsibilities
 
-_Vary by job grade but include:_
+*Vary by job grade but include:*
 
 - Design and execute our global social strategies
 - Manage risks to the GitLab brand and navigate crises
@@ -39,7 +39,7 @@ _Vary by job grade but include:_
 
 ## Requirements
 
-_Vary by job grade but include:_
+*Vary by job grade but include:*
 
 - In-depth knowledge and an always up-to-date understanding of core social media platforms and how they are used to tell stories, sell products, and navigate crises
 - Excellent writing and communication skills - both externally to our social audiences and internally across the company
@@ -50,7 +50,7 @@ _Vary by job grade but include:_
 
 ## Performance Indicators
 
-_May vary by specific job grade or specialty but generally include:_
+*May vary by specific job grade or specialty but generally include:*
 
 - Social Ad Value - GitLab-specific social media advertising dollar equivalent (e.g. what GitLab would have had to spend in ad dollars to receive a similar ROI for organic social media efforts). The specific values vary by campaign, timelines, and average cost of advertising at the time.
 - Engagement Rate - the number of times during a reporting period that users engaged with our posts as a percentage of impressions. This metric indicates how engaging particular content or campaigns are overall. Each channel has its own performance average and individual CTAs and campaigns will also be unique
@@ -58,7 +58,7 @@ _May vary by specific job grade or specialty but generally include:_
 
 ### You must share our [values](/handbook/values/) and work under those values
 
-_A sample of how GitLab's core values show up in Social Marketing:_
+*A sample of how GitLab's core values show up in Social Marketing:*
 
 ##### 🤝 Collaboration
 
@@ -82,7 +82,7 @@ Don't wait to contribute. Just make a change today. Make progress for our work i
 
 ##### 👁️ Transparency
 
-Everything is public by default, including our typos, bad takes, and iterations. We strive to be transparent as often and as clearly as possible with each other and our community. Always share the _why_ and not just the what. We're practitioners and educators.
+Everything is public by default, including our typos, bad takes, and iterations. We strive to be transparent as often and as clearly as possible with each other and our community. Always share the *why* and not just the what. We're practitioners and educators.
 
 ## Levels
 
@@ -260,7 +260,7 @@ The Senior Manager, Social Marketing is a [grade 9](https://about.gitlab.com/han
 - Grow and develop a world-class team of social media managers and [follow GitLab's existing people manager responsibilities](https://about.gitlab.com/company/team/structure/#management-group) (take a peek now and know that you'll learn more about this when onboarding)
 - Act as a point-of-contact for all crises, incidents, and other emergencies
 - Ability to act discreetly with non-public information
-- Lead as _the_ social media expert at GitLab for all brand and employee questions
+- Lead as *the* social media expert at GitLab for all brand and employee questions
 
 #### Requirements
 

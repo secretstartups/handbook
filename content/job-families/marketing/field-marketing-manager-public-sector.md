@@ -5,7 +5,6 @@ summary: " "
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A67lWGfue_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Public Sector Field Marketing Manager
 
 The Public Sector Field Marketing Manager, US - Public Sector supports our US Public Sector team.
@@ -21,6 +20,7 @@ The Public Sector Field Marketing Manager has the same expectations as other [Fi
 ### Requirements
 
 The Public Sector Field Marketing Manager has the same requirements as other [Field Marketing Managers](/job-families/marketing/field-marketing-manager/), as well as additional public sector requirements.
+
 - Ability to travel when needed (up to 50%) and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
 ### Additional Requirements for US Public Sector
@@ -54,6 +54,6 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a series of 45 minute interviews with the CMO, Director of Field Marketing, regional sales leader, and a seller who they would be paired with.
 - Based on location, candidates may meet in person with any of the above.
 - Finally, our CEO may choose to conduct a final interview.
-- Successful candidates will subsequently be made an offer via email. The total compensation for this role listed in https://about.gitlab.com/job-families/marketing/field-marketing-manager/ is 100% base salary.
+- Successful candidates will subsequently be made an offer via email. The total compensation for this role listed in <https://about.gitlab.com/job-families/marketing/field-marketing-manager/> is 100% base salary.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

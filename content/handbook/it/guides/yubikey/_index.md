@@ -10,6 +10,7 @@ To order a YubiKey, open a Slack DM to yourself and use the /yubikey command.
 ![image_1](./image_1.png)
 
 When the prompt shows, fill in your information. There are some caveats here:
+
 - Use a hyphen in cases of multiple surnames. (Sacha Baron Cohen would be Sacha Baron-Cohen, Hussain Al Jassmi would be Hussain Al-Jassmi) This helps during the parsing process and will help assure your order submits.
 - Prefix your phone number with your international calling code. (+15551239999)
 - Use your two letter state/region code for USA and Canada orders. (CA for California, QC for Quebec)

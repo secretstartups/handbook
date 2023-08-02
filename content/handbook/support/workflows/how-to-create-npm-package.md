@@ -1,14 +1,16 @@
-## Working with the NPM GitLab Registry
+---
+title: Working with the NPM GitLab Registry
+---
 
-### On this page:
+## On this page
 
 1. [Creating A Scoped Package](#creating-scoped-package)
     - The difference between scoped packages and regular npm packages
-2. [Create and provision the `.npmrc` file](#create-npmrc-file)
-3. [Publishing the scoped package to the NPM Registry on GitLab]("#publishing-scoped-package)
-4. [Pulling the scoped package from the NPM Registry on GitLab]("#pulling-scoped-package")
-5. [Common troubleshooting]("#troubleshooting")
-6. [Publishing a private NPM package via GitLab CI]('#npm-publish-via-ci')
+1. [Create and provision the `.npmrc` file](#create-npmrc-file)
+1. [Publishing the scoped package to the NPM Registry on GitLab]("#publishing-scoped-package)
+1. [Pulling the scoped package from the NPM Registry on GitLab]("#pulling-scoped-package")
+1. [Common troubleshooting]("#troubleshooting")
+1. [Publishing a private NPM package via GitLab CI]('#npm-publish-via-ci')
 
 ## Overview
 
@@ -26,59 +28,66 @@ For the purpose of this workflow, our package will not do anything special since
 only need a `package.json` file.
 
 ##### Step 1: Create a directory for your package
- - `mkdir npm-package`
+
+- `mkdir npm-package`
 
 ##### Step 2: Initialize the project on git <a name="initialize-the-project"></a>
- - `git init`
- - `git remote add origin <your_git_url>`
 
-##### Step 3: Navigate to the npm-package directory and initialize the npm package under your org/username.
+- `git init`
+- `git remote add origin <your_git_url>`
+
+##### Step 3: Navigate to the npm-package directory and initialize the npm package under your org/username
+
 This will create a `package.json`
- - `npm init --scope=<your_group/username>`
 
-##### Step 4, follow the steps in the prompt.
+- `npm init --scope=<your_group/username>`
+
+##### Step 4, follow the steps in the prompt
+
 You don't need to add a license, keyword etc. All that matters it that:
 
- - The package name has the right scope
- - It points to the correct git url
- - If it asks for a command, you can pass `npm start`, or else it'll just show an error command in the `package.json`, which for now is harmless
+- The package name has the right scope
+- It points to the correct git url
+- If it asks for a command, you can pass `npm start`, or else it'll just show an error command in the `package.json`, which for now is harmless
 
  NOTE **Note**: You can always change the values in the `package.json`
 
-2. Create and provision the `.npmrc` file
+1. Create and provision the `.npmrc` file
 
 The `npmrc` file is one of the locations where npm gets its settings. In our case, the configuration, per the official [GitLab NPM Registry docs](https://docs.gitlab.com/ee/user/packages/npm_registry/index.html), it will hold is where to look for packages under a particular
 scope, as well as the current user's authentication to push/pull packages.
 
 ##### Step 1: Create the ~/.npmrc file
- - The ~/.npmrc generally lives in the home directory, however, sometimes, it can be created within the project's root directory, but also has no effect on packages that
+
+- The ~/.npmrc generally lives in the home directory, however, sometimes, it can be created within the project's root directory, but also has no effect on packages that
  are installed globally (`npm install -g`)
 
 ##### Step 2: Provision the ~/.npmrc file <a name="create-npmrc-file"></a>
- - Add the registry to your scope, that way npm knows where to look for packages that start with @nameofyourscope.
+
+- Add the registry to your scope, that way npm knows where to look for packages that start with @nameofyourscope.
   Example:
-    - `@sahbabou:registry=http://gitlab.ahbabou.com/api/v4/packages/npm`
- - Add your Oauth token(create one [here](https://docs.gitlab.com/ee/api/oauth2.html#resource-owner-password-credentials-flow) if you don't have one), and add it using this format:
-    - `//gitlab.ahbabou.com/api/v4/packages/npm/:_authToken=<Oauth Token>`
+  - `@sahbabou:registry=http://gitlab.ahbabou.com/api/v4/packages/npm`
+- Add your Oauth token(create one [here](https://docs.gitlab.com/ee/api/oauth2.html#resource-owner-password-credentials-flow) if you don't have one), and add it using this format:
+  - `//gitlab.ahbabou.com/api/v4/packages/npm/:_authToken=<Oauth Token>`
 
  NOTE **Note**: This is so you can pull packages from that repo when running `npm install`.
 
- - Add the auth token to the URL to publish your package:
+- Add the auth token to the URL to publish your package:
 
-    - ` //gitlab.ahbabou.com/api/v4/projects/<project_id>/packages/npm/:_authToken=<Oauth Token>`
+  - `//gitlab.ahbabou.com/api/v4/projects/<project_id>/packages/npm/:_authToken=<Oauth Token>`
 
 NOTE **Note**: We can't install nor publish this particular project yet, because we still have to tell our package where it can publish itself.
 
 ## 3. Publishing The Scoped Package <a name="publishing-scoped-package"></a>
 
- - Add this to your `package.json`:
+- Add this to your `package.json`:
 
   `"publishConfig": {
       "@your_scope:registry":"<yourgiturl>/api/v4/projects/<project_Id>/packages/npm/"
     },`
 
- - Run `npm publish`
- - Check the Packages section in your package's repository to confirm that it has been published
+- Run `npm publish`
+- Check the Packages section in your package's repository to confirm that it has been published
 
  `your-gitlab-url/package-project/-/packages`
 
@@ -90,14 +99,15 @@ confirm whether you're able to install the package.
 ## 5. Common troubleshooting tips: <a name="troubleshooting"></a>
 
 Note: **NOTE**: If on < 11.9, [packages with a dot in the package name return a 403 on npm install](https://gitlab.com/gitlab-org/gitlab-ee/issues/10248) @test.group/project is read as @test. The workaround is to either:
-* Rename the groups/username so they don't include a dot in the URL(sara-ahbabou/saraahbabou)
-* Re-publish packages under the new scope. Be sure to update the `publichConfig` value in the `package.json`:
+
+- Rename the groups/username so they don't include a dot in the URL(sara-ahbabou/saraahbabou)
+- Re-publish packages under the new scope. Be sure to update the `publichConfig` value in the `package.json`:
 
     `"publishConfig": {
         "@username-dash:registry":"http://localhost:3001/api/v4/projects/24/packages/npm/"
     }`
 
-* Update the `.npmrc` file so it reflects the new group name/username(@sara-ahbabou:registry or @saraahbabou:registry)
+- Update the `.npmrc` file so it reflects the new group name/username(@sara-ahbabou:registry or @saraahbabou:registry)
 
 If you receive a 40x error, re-run the same command with a `--verbose` flag, and confirm whether it's hitting the correct registry
 
@@ -111,16 +121,18 @@ If you receive a 40x error, re-run the same command with a `--verbose` flag, and
 In order to run a job to publish your package in a job, paste the snippet below in your `gitlab-ci.yml`. For the job to be successful, you will need to:
 
 1. Run it from the package's repository
-2. Add your Personal Access Token and Oauth Access Token as environment variables(this scripts assumes you named them `PERSONAL_ACCESS_TOKEN` and `OAUTH_TOKEN`)
-3. Add the following lines in `package.json` in `script` so the commit message includes the package version and name:
-  ```
+1. Add your Personal Access Token and Oauth Access Token as environment variables(this scripts assumes you named them `PERSONAL_ACCESS_TOKEN` and `OAUTH_TOKEN`)
+1. Add the following lines in `package.json` in `script` so the commit message includes the package version and name:
+
+  ```text
   "scripts": {
          "getName": "echo  $npm_package_name"
          "getVersion": "echo  $npm_package_version",
        }
 
   ```
-```
+
+```text
 image: node:latest
 
 # This template assumes you have the following settings configured:

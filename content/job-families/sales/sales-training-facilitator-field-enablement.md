@@ -15,7 +15,6 @@ As an integral member of the GitLab Sales and Customer Enablement team, our Sale
 - Measure and report on the effectiveness of sales trainings delivered.
 - Determine opportunities for improving the sales learning experience and identify innovative techniques for delivery.
 
-
 ## Requirements
 
 - Software sales or sales training experience, preferably with expertise in DevOps and/or Open Source.

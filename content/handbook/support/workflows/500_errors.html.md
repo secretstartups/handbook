@@ -1,17 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Diagnose Errors on GitLab.com
 description: This guide provides resources for diagnosing HTTP 5XX errors on GitLab.com.
 category: GitLab.com
 subcategory: Troubleshooting
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -66,10 +58,10 @@ data/repositories/@hashed/ee/98/ee98b34f343b4e48106fff666d12b61f23f.git/objects/
 If the customer is reporting a similar error above, take the following steps to verify if their file server was affected:
 
 1. Obtain the project URL of the affected repository.
-2. Open the project admin page using the URL `https://gitlab.com/admin/projects/user-namespace`.
-3. Locate the server of the repository by looking at `gitaly-storage-name`.
-4. Search the [GitLab Infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) for any related issue.
-5. If an issue is found related to the file server, post the ticket number in the issue so an infrastructure engineer can look into it.
+1. Open the project admin page using the URL `https://gitlab.com/admin/projects/user-namespace`.
+1. Locate the server of the repository by looking at `gitaly-storage-name`.
+1. Search the [GitLab Infrastructure issue tracker](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) for any related issue.
+1. If an issue is found related to the file server, post the ticket number in the issue so an infrastructure engineer can look into it.
 
 ### Workflows
 

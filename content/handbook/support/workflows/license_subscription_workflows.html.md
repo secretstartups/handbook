@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Licensing & Subscription Workflows
 description: "workflows page has been moved to new location"
 category: License and subscription

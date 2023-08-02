@@ -11,7 +11,7 @@ With our subscription to Sidekiq, GitLab is in principle entitled to [one suppor
 
 To get assistance with issues relating to Sidekiq:
 
-- file issues on https://github.com/mperham/sidekiq if you're seeing behavior that looks like a Sidekiq bug,
+- file issues on <https://github.com/mperham/sidekiq> if you're seeing behavior that looks like a Sidekiq bug,
 - link to that from our GitLab.com issue, and
 - email support [at] contribsys.com with a link to the Sidekiq issue.
 

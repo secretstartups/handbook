@@ -78,7 +78,7 @@ From here, you will:
 After doing this, you will then click the blue `Save` button at the bottom-right
 of the page.
 
-From here, you need to edit the _conditions_ the form uses for both agents and
+From here, you need to edit the *conditions* the form uses for both agents and
 end users (for external forms). To do this, locate the form in question and
 hover over it. This will allow you to click the three vertical dots on the
 right-hand side of the form listing to bring up a pop-up menu. In this menu,
@@ -140,7 +140,7 @@ page in the Admin Center. From there, hover over the form in question, click the
 
 By default, new forms gain a position of `N+1`, where `N` is the highest
 position value of all forms currently in Zendesk (both active and inactive).
-This is desired and we should _rarely_ need to change this.
+This is desired and we should *rarely* need to change this.
 
 To edit positions in the Zendesk UI, go to the forms page. From there, click the
 three horizontal dots at the top-right of the page (on the same line as the

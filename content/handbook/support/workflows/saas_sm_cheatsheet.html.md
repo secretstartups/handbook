@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: SaaS, Self-Managed and Dedicated Troubleshooting tables
 category: Support Team
 subcategory: Uncategorized
 description: "Troubleshooting tips for various problems on each GitLab platform type"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -18,8 +14,7 @@ The purpose of this page is to provide a single reference point that
 Support Engineers can use when they need troubleshooting tips for various
 problems on any GitLab platform. The goal is to make it easier for each
 Support Engineer to resolve support tickets regardless of the GitLab
-platform involved. 
-
+platform involved.
 
 ## How to use this page
 
@@ -34,8 +29,6 @@ SaaS, or Dedicated.
 |Self-managed| Self Managed Administrators will need to [configure the desired auth provider](https://docs.gitlab.com/ee/administration/auth/) directly in their gitlab.rb. Any configuration change on this file will require that you run `gitlab-ctl reconfigure` to successfully apply changes.|
 |DotCom| Customers will [Configure SAML SSO for Groups](https://docs.gitlab.com/ee/user/group/saml_sso/index.html) directly, by going to **Group > Settings > SAML SSO**.|
 |Dedicated|[Raise issue with Dedicated team](./dedicated.html#filing-issues)
-
-
 
 ### Geo
 

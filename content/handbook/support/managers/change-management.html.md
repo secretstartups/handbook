@@ -1,16 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Change Management in GitLab Support
 description: Decision Making and Change Management in the GitLab Support Leadership Team
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Decision Making and Change Management in the GitLab Support Leadership Team
+
 The GitLab Support Team may very well be unique among the many teams within the
 company in that its multiple sub-teams each have the same charter. Making
 decisions and managing change within this structure come with equally unique
@@ -33,25 +30,28 @@ having trouble with any part of it, reach out for guidance – either to your
 manager or SEs who followed the process before.
 
 Examples of SEs using the process:
- - [Slack groups per SGG and region](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4618#gitlab-support-process-change-rollout-plan)
- - [Limit PagerDuty Notifications in `#support_self-managed` to Triggered Events](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5090)
+
+- [Slack groups per SGG and region](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4618#gitlab-support-process-change-rollout-plan)
+- [Limit PagerDuty Notifications in `#support_self-managed` to Triggered Events](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5090)
 
 ## Start with a Request for Comments (RFC)
 
 An RFC is a safe space for a lively discussion where all contributors bring
 their own context and knowledge to determine the pros/cons of potential solutions.
 
-In an RFC _everyone_ contributes equally, **regardless of their title**.
+In an RFC *everyone* contributes equally, **regardless of their title**.
 
 If you have an idea (or have noticed a problem) but aren't ready to propose specific changes yet, you can start
 with the [Request for Comments](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Request%20for%20Comments)
-issue template. The template includes guidance on how to make your RFC. 
+issue template. The template includes guidance on how to make your RFC.
 
 ## Determining the Scope
+
 One of the most important considerations when looking to make a change is what
 the scope of the change will be.
 
 ### Local Change or Global Change?
+
 When thinking about whether a change should be local or global, you might be
 tempted to focus on the size of the change (number of lines of code changed,
 number of lines of text in a doc that changed, etc.). But that’s actually a
@@ -81,11 +81,13 @@ potential impacts of making a local change:
    your team and the other regions?
 
 ## Communicating a Change Proposal
+
 Whether you’re making a local change, based on the decision criteria above, or
 proposing a global one, it’s important to communicate your plans with the rest
 of the Support Leadership Team.
 
 ### Creating a Requested Change Issue and/or MRs
+
 The first step toward making a change is to
 [create a Requested Change issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Requested%20Change)
 in the [support-team-meta project](https://gitlab.com/gitlab-com/support/support-team-meta).
@@ -99,12 +101,13 @@ a discussion around that topic, and for documenting the testing phase.
 As soon as possible, create the MR(s) to present the actual proposed changes.
 
 Include at least the following in the MRs:
-* The decision and the reasoning behind it (such as data and test results
+
+- The decision and the reasoning behind it (such as data and test results
   that led to the decision)
-* Summarize the testing, both what tests were run and what the results were
-* Link to the [Message Plan Issue](#the-process-change-rollout-plan)
-* Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
-* As an additional guardrail also add the group `@gitlab-com/support/managers` to the issue to ensure that the support management team are informed about the proposed change
+- Summarize the testing, both what tests were run and what the results were
+- Link to the [Message Plan Issue](#the-process-change-rollout-plan)
+- Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
+- As an additional guardrail also add the group `@gitlab-com/support/managers` to the issue to ensure that the support management team are informed about the proposed change
 
 We use the rollout issue template to get acknowledgement of awareness of a new workflow or process.
 
@@ -112,68 +115,75 @@ We use the rollout issue template to get acknowledgement of awareness of a new w
 a MR, place the information in the issue instead.*
 
 ### Communicating a Local Change Proposal
+
 Inform the leadership team as an “inform” item in the agenda for the next
 [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings).
 Why?
-* Someone else might have a suggestion for you
-* Someone else might be interested in what you’re doing
-* It aligns well with our Transparency value
+
+- Someone else might have a suggestion for you
+- Someone else might be interested in what you’re doing
+- It aligns well with our Transparency value
 
 ### Communicating a Global Change Proposal
+
 Engage the leadership team in a conversation through your issue and through a full agenda
 topic in the [leadership sync meeting](/handbook/support/managers/#organization-of-support-leadership-meetings):
-* Describe the problem you’re working to solve
-* Let the team know if you are the DRI, or are seeking a DRI
-* Let the team know whether you're proposing a solution based on compelling
+
+- Describe the problem you’re working to solve
+- Let the team know if you are the DRI, or are seeking a DRI
+- Let the team know whether you're proposing a solution based on compelling
   existing data or you're planning to conduct one or more tests (trials) to
   determine which solution to propose.
-* Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
-* As an additional guardrail also add the group `@gitlab-com/support/managers` to ensure that the support management team are informed about the proposed change
-  * If you will be testing, then it's suggested that you:
-    * Present potential solutions and discuss which of them will be tried
-    * Discuss any likely impacts of the tests
-    * Gain general agreement that you can proceed with your tests
-    * If the tests will be large and long running, consider opening an issue for
+- Add the label ~"Manager Attention" to ensure that the support management team are informed about the proposed change
+- As an additional guardrail also add the group `@gitlab-com/support/managers` to ensure that the support management team are informed about the proposed change
+  - If you will be testing, then it's suggested that you:
+    - Present potential solutions and discuss which of them will be tried
+    - Discuss any likely impacts of the tests
+    - Gain general agreement that you can proceed with your tests
+    - If the tests will be large and long running, consider opening an issue for
       each test and link them all to your issue
-  * Otherwise, it's suggested that you:
-    * present data both demonstrating the need for the change and supporting the
+  - Otherwise, it's suggested that you:
+    - present data both demonstrating the need for the change and supporting the
       solution you've chosen
-    * propose your solution via a Merge Request (linked to your issue) and
+    - propose your solution via a Merge Request (linked to your issue) and
       invite feedback with a reasonable deadline
-* Describe how you plan to measure the success of the change (not just the
+- Describe how you plan to measure the success of the change (not just the
   tests)
 
 ### Constructing a Valuable Test Plan
+
 We make data driven decisions whenever possible. If your proposed change doesn't
 have any supporting data, you'll run one or more localized trials. Be frugal if
 there is a cost and always be sensitive to disrupting existing workflows:
-  * If you are not confident or comfortable designing a test, work with other
+
+- If you are not confident or comfortable designing a test, work with other
     managers to flesh out ideas.
-  * Keep in mind that there's a difference between the scope (local or global)
+- Keep in mind that there's a difference between the scope (local or global)
     of a change and the scope of a test. A global change most likely will
     **not** require a global test.
-  * Run the tests just long enough to get the data you need
-  * Involve only as many people, teams and regions as you need to make the tests
+- Run the tests just long enough to get the data you need
+- Involve only as many people, teams and regions as you need to make the tests
     legitimate
-  * If a test in the production environment would be problematic, look for a way
+- If a test in the production environment would be problematic, look for a way
     to run it in a sandbox instead
-  * If running more than one trial:
-    *  try to run them in parallel with each other to save time
-    *  limit your testing to the two or three most likely potential solutions
+- If running more than one trial:
+  - try to run them in parallel with each other to save time
+  - limit your testing to the two or three most likely potential solutions
 
 ## Standard Timelines
+
 For future iterations:
 
 1. Do we want to have standard timelines for certain steps in a rollout?
-    * Initial discussion length
-    * Days from rollout start to adoption complete
+    - Initial discussion length
+    - Days from rollout start to adoption complete
 
 1. Do we want to weigh the impact of changes to ensure that we aren't changing too many complex things at once?
-
 
 ## Rolling Out a Change
 
 ### Roles in Change Management
+
 During the rollout, use these terms and their provided descriptions to
 communicate clearly about the different roles people can play in the change
 process.
@@ -185,6 +195,7 @@ process.
 | Impacted Non-User | Person who is not an actual user of the processes, documents and resources that are being changed, yet who will experience changes in the behaviors of the users. <br>*E.g.* Support Engineers may notice managers responding differently to escalations, though they themselves do not need to do anything new. |
 
 ### The Process Change Rollout Plan
+
 When it's time at last to make the change, create a
 [Process Change Rollout Plan issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=support-change-rollout).
 The process change rollout plan template contains instructions to guide you through filling in all the appropriate details. And the issue itself then describes your full action plan.

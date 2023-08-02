@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Support 1:1s
 description: "Support team 1:1s guidelines"
 ---
@@ -26,6 +26,7 @@ This page **does not**:
 1. Sometimes you may wish to schedule a longer or additional call to focus on an important area
 
 ## 1:1 Issue Generator Project
+
 You may choose to use the 1:1 Issue Generator for your 1:1s.  See the project [Readme](https://gitlab.com/gitlab-com/support/1-1s/1-1-issue-generator/-/blob/master/README.md) for more details.
 
 ## Call structure
@@ -41,8 +42,8 @@ Most people like to start the call with five minutes of general conversation.
 
 We recommend avoiding [small talk](https://en.wikipedia.org/wiki/Small_talk) openers like 'How are you doing?'. Instead, set the context and get precise, actionable information. Some examples:
 
-* Use a five point scale and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text). 
-* Ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness." 
+- Use a five point scale and ask 'On a scale of one to five, how are you feeling this week?' (see below for sample text).
+- Ask for two ratings on a 0-10 scale, one for "stress" and one for "happiness."
 
 Pay attention to trends over time.
 
@@ -78,14 +79,13 @@ Agree on and document a training plan that accommodates those aspirations and me
 
 Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
 
-[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members) 
+[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
 
 ### 4. Discuss other activities from responsibility areas
 
 Discuss interesting activities from the **activity links** at the top of the document (see below for examples).
 
 There may be activities that the Support Engineer would like to discuss that aren't included in the activity links.
-
 
 ### 5. Time Off
 

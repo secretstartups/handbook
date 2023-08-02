@@ -8,7 +8,6 @@ In 2017, GitLab established aspirational milestones for a public offering, achie
 
 We continue to believe that being a public company is an integral part of realizing our mission. As a public company, GitLab may benefit from enhanced brand awareness, access to capital, shareholder liquidity, autonomy, and transparency.
 
-
 ## Public Company Readiness
 
 To achieve fair value with limited relative volatility as a publicly traded company, we are focused on the following:
@@ -60,6 +59,7 @@ Our financial planning process includes setting a division's spend based on reve
 #### Communicating With Shareholders & Team Members
 
 Investors will have multiple options for engaging and keeping up to date:
+
 1. Annual shareholder meetings and quarterly reporting calls, which will be highly structured and formal.
 1. Ongoing open documentation via our handbook, issues, and other work, which can create opportunities for discussion.
 
@@ -79,7 +79,7 @@ Statements on this page are being made pursuant to, and in accordance with, Rule
 
 {{% youtube id="LIXLGyZK72c" title="Will GitLab be acquired? Kristof Eger & Sid Sijbrandij" %}}
 
-_In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, GitLab co-founder and CEO [Sid Sijbrandij](https://gitlab.com/sytses) discusses the topic of remaining independent as a company with Kristóf Éger. The [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) is transcribed, in part, below._
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, GitLab co-founder and CEO [Sid Sijbrandij](https://gitlab.com/sytses) discusses the topic of remaining independent as a company with Kristóf Éger. The [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) is transcribed, in part, below.*
 
 > Our intention, from the moment we took external funding, was to stay independent.
 >
@@ -89,4 +89,4 @@ _In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDR
 >
 > We're always more [optimistic](/handbook/values/#focus-on-improvement) about the future than anybody outside of the company. That means that we have to keep growing. We have to keep growing [IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/), and keep growing our revenue.
 >
-> We keep investing in the future in order to not get bought. We've been very clear with our investors what our intentions were from the start. We're doing everything we can to stay independent. - _GitLab co-founder and CEO Sid Sijbrandij_
+> We keep investing in the future in order to not get bought. We've been very clear with our investors what our intentions were from the start. We're doing everything we can to stay independent. - *GitLab co-founder and CEO Sid Sijbrandij*

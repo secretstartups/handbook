@@ -39,7 +39,6 @@ The Field Communications Specialist (Intermediate) is a grade [5](https://about.
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab in day to day responsibilities
 
-
 ### Field Communications Specialist (Intermediate)
 
 The Field Communications Specialist reports to the Manager/Sr. Manager, Field Communications.
@@ -77,7 +76,6 @@ The Field Communications Specialist (Intermediate) is a grade [6](https://about.
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab in day to day responsibilities
 
-
 ### Senior Field Communications Specialist
 
 The Senior Field Communications Specialist reports to the Manager/Sr. Manager, Field Communications.
@@ -113,7 +111,6 @@ The Senior Field Communications Specialist is a grade [7](https://about.gitlab.c
 - Knowledge of the software development life cycle, DevOps, and/or open source software is preferred
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab in day to day responsibilities
-
 
 ### Manager, Field Communications
 
@@ -156,7 +153,6 @@ The Manager, Field Communications is a grade [8](https://about.gitlab.com/handbo
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab in day to day responsibilities
 
-
 ### Senior Manager, Field Communications
 
 The Senior Manager, Field Communications reports to the [Vice President, Revenue Operations](https://about.gitlab.com/job-families/sales/vp-revenue-operations/).
@@ -176,7 +172,6 @@ The Senior Manager, Field Communications is a grade [9](https://about.gitlab.com
 - Promote and oversee development and management of a cascading Field Comms strategy that begins with CRO LT and Field leaders.
 - Liaise with the Field Enablement Leadership Team to maintain an overarching view of asks for the Field team to monitor and mitigate team overload
 - Provide visibility to CRO Leadership, Field Operations, and other supporting functions across large GitLab initiatives that have large scale communications or content requirements
-
 
 #### Senior Manager, Field Communications Requirements
 
@@ -200,18 +195,15 @@ The Senior Manager, Field Communications is a grade [9](https://about.gitlab.com
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
-
-
 ## Performance Indicators
 
 - [Field communication/newsletter open and click-through rates](https://about.gitlab.com/handbook/sales/field-communications/field-flash-newsletter/#measurement)
 - Field Comms & Content Pulse Survey response rates
-   - Results from benchmark questions related to the Field’s sentiment around feeling informed and enabled in their roles
+  - Results from benchmark questions related to the Field’s sentiment around feeling informed and enabled in their roles
 - Feedback from key stakeholders, including CRO LT and Field Leaders/Managers
 - Adoption metrics from sales asset management system, including recurring usage, average sessions and average time-in-platform
 - ROI metrics from sales asset management system and successfully tying ROI insights to sales content
 - Future performance indicators will include (but not be limited to) additional usage metrics, sales pitch tracking, pipeline generation, sales efficiency (time spent on comms) tracker and new hire productivity
-
 
 ## Career Ladder
 
@@ -224,6 +216,7 @@ graph TD;
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will meet with members of the [GitLab Field Operations team](https://about.gitlab.com/company/team/?department=field-operations),
 - Then, candidates will meet with the Manager and/or Senior Manager of Field Communications,

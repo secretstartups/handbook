@@ -1,17 +1,9 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab Dedicated Observability and Monitoring (Grafana)
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Observability and Monitoring"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Observability and Monitoring
 
 ## Accessing Grafana
 
@@ -23,7 +15,7 @@ When logging in for the first time, dashboards are not immediately visible and y
 
 1. Locate the four-box icon situated in the left pane. When you hover over it, a tooltip will appear identifying it as the Dashboards link.
 1. Choose either the Dashboard option or the Browse option. Both will lead you to the same destination.
-1. At the center, there is a folder named `General`. Expand this folder to view the available dashboards. 
+1. At the center, there is a folder named `General`. Expand this folder to view the available dashboards.
 
 ## Grafana tips
 

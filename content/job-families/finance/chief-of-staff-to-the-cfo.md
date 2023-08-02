@@ -45,7 +45,6 @@ Problem solver, analytical and organized thinker
 “Calm under fire” demeanor
 Willingness to take on new challenges has led to opportunities for increased scope overtime
 
-
 ## Performance Indicators
 
 - TBD

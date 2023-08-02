@@ -106,7 +106,6 @@ All the requirements of a Business Systems Analyst, plus:
 - Over three years in a high-growth technology company, working hands on with our tech stack at our stage in operational maturity
 - Ability and desire to grow and coach less tenured team-members
 
-
 ### Staff Business Systems Analyst
 
 #### Job Grade
@@ -124,7 +123,6 @@ All the responsibilities of a Sr Business Systems Analyst, plus:
 - Own the delivery of key projects and programs that help the broader business drive efficiencies
 - Be a culture definer and evolver of GitLab Values
 
-
 #### Requirements
 
 All the requirements of a Sr Business Systems Analyst, plus:
@@ -137,7 +135,6 @@ All the requirements of a Sr Business Systems Analyst, plus:
 - Has demonstrated ability to work autonomously to develop or improve a business problem of reasonable scope which requires independent judgement in development and execution of the solution
 - Ability to collaborate and influence key stakeholders in an iterative environment
 - High level of business and technical acumen
-
 
 ### Director of Business Process Automation
 
@@ -158,7 +155,6 @@ All the responsibilities of a Business Systems Analyst at previous levels, plus:
 - Set the vision, hire, build, coach, and manage a highly productive team; set priorities and goals for the team.
 - Be a culture definer and evolver of GitLab Values
 
-
 #### Requirements
 
 All the requirements of a Business Systems Analyst at previous levels, plus:
@@ -173,14 +169,11 @@ All the requirements of a Business Systems Analyst at previous levels, plus:
 - Over three years in a high-growth technology company, working hands-on with our tech stack at our stage in operational maturity
 - Ability and desire to grow and coach less tenured team-members
 
-
-
 ## Performance Indicators (PI)
 
 - [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
 - [Average Issues](https://about.gitlab.com/handbook/business-technology/metrics/#average-issues)
 - [Average Merge Requests](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
-
 
 ## Hiring Process
 
@@ -194,5 +187,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with our CFO or CEO
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
-
-

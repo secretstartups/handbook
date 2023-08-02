@@ -22,7 +22,6 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 ## Requirements
 
-
 - [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills.
 
 - Passionate about and effective at mentoring others.
@@ -215,4 +214,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via Zoom.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

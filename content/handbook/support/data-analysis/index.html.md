@@ -1,5 +1,4 @@
 ---
-layout: handbook-page-toc
 title: Support Engineering Data Analysis Community
 description:
 ---
@@ -16,9 +15,10 @@ on specific topics of interest.
 
 As such, this page contains the following information:
 
-* What's being measured, why it's being measured, and the data is retrieved.
-* Who's responsible for it.
-* Best practices around data collection and analysis.
+- What's being measured, why it's being measured, and the data is retrieved.
+- Who's responsible for it.
+- Best practices around data collection and analysis.
+
 ### How do these metrics differ from Performance Indicators?
 
 The [Customer Support Department Performance Indicators](../performance-indicators/)
@@ -43,7 +43,6 @@ The Support Data Analysis Community of Practice is made up of people interested
 in the application of data analysis to Support work, but may not have this as a
 formal part of their role's responsibilities.
 
-
 ## Parameters
 
 ### Support time segments
@@ -52,7 +51,7 @@ A common set of time segments Support team members can refer to when discussing
 topics which are bound to specific periods of the global day, such as support
 engineer availability and workload.
 
-* DRI: Wei-Meng Lee ([@weimeng](https://gitlab.com/weimeng))
+- DRI: Wei-Meng Lee ([@weimeng](https://gitlab.com/weimeng))
 
 The support time segments are based on each region's business hours as defined
 in [Preferred Region for Support](/support/#effect-on-support-hours-if-a-preferred-region-for-support-is-chosen)
@@ -89,20 +88,20 @@ and is defined as the total amount of time the ticket spends in the "Open" and
 "New" states over a ticket's life cycle. Life cycle time is measured using
 "Total Time To Resolve".
 
-* DRI: Ilia Kosenko ([@Ikosenko](https://gitlab.com/Ikosenko))
+- DRI: Ilia Kosenko ([@Ikosenko](https://gitlab.com/Ikosenko))
 
 In Zendesk Explore, Customer Wait Time can be calculated using:
 
-```
+```zendesk
 VALUE(Requester wait time (hrs)) - VALUE(On-hold time (hrs))
 ```
 
 `Requester wait time (hrs)` is used instead of `Requester wait time - Business hours (hrs)`
 because of the following reasons:
 
-* While business hours does not count time elapsed on weekends, it also does not
+- While business hours does not count time elapsed on weekends, it also does not
   count time elapsed outside of a Preferred Region for Support's business hours.
-* To align with Time to Resolution measurement, which does not use business
+- To align with Time to Resolution measurement, which does not use business
   hours for the same reason above.
 
 Additionally, the median is used for reporting the Customer Wait Time KPI as

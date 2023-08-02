@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Use of Admin Notes
 category: GitLab.com
 subcategory: Accounts
 description: "Workflow for when and how to add admin notes to a GitLab.com account"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -28,13 +24,13 @@ If you encounter a situation with the following cases, an admin note is required
 Adding an admin note can be done using one of the following methods:
 
 1. Admin account
-  1. Navigate to the admin page for the user (`/admin/users/username`) or top-level group (`admin/groups/namespace_path`)
-  1. Click `Edit`
-  1. Add the relevant admin note
-  1. Click `Save` when done
+1. Navigate to the admin page for the user (`/admin/users/username`) or top-level group (`admin/groups/namespace_path`)
+1. Click `Edit`
+1. Add the relevant admin note
+1. Click `Save` when done
 1. ChatOps (only available for users):
-  1. Find the user to confirm it's the proper account: `/chatops run user find <username or current email>`
-  1. Add the admin note: `/chatops run user note <username or current email> 'admin note here'`
+1. Find the user to confirm it's the proper account: `/chatops run user find <username or current email>`
+1. Add the admin note: `/chatops run user note <username or current email> 'admin note here'`
 
 In general, the formatting should be standard in a one liner format:
 

@@ -1,14 +1,8 @@
 ---
-layout: handbook-page-toc
+
 title: Working With GitLab Support
 description: How GitLab team members can work with and best ways to contact Support.
 ---
-## On this page
-
-- TOC
-{:toc}
-
-{::options parse_block_html="true" /}
 
 ## Overview
 
@@ -16,7 +10,7 @@ The purpose of this page is to direct GitLab team members outside of Support on 
 
 ## Quick reference
 
-If it's not mentioned on this page, it's probably not Customer Support.   
+If it's not mentioned on this page, it's probably not Customer Support.
 
 Please read the next sections on [GitLab Support's Purpose](#gitlab-supports-purpose) and [Should I Contact GitLab Support? section](#should-i-contact-gitlab-support) for more information.
 
@@ -44,7 +38,6 @@ GitLab Support's Slack channels are specifically for the various GitLab Support 
 
 If you'd like to ask a longer term or larger scope question, propose an idea to GitLab Support, discuss something with us, or suggest an improvement or change to any of our workflows, please visit the [issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues) of the **[Support Team Meta](https://gitlab.com/gitlab-com/support/support-team-meta)** project and create an issue there. Please keep in mind that it is open to the community and as such **should not contain any sensitive information**, so links to Zendesk or other references are encouraged.
 
-
 ## Support Tickets & Customer Information
 
 ### Requesting Support for Customers
@@ -62,12 +55,12 @@ If your customer contacts you requiring technical support, the following options
 1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer.
    - **Note:** You cannot be logged into Zendesk if you choose this option, because Zendesk automatically closes any tickets submitted with `gitlab.com` email addresses. Instead, use a private/incognito window in your browser to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address. If you should be CC'd on the ticket, please request it in the ticket body.
 
-
 #### Support does not action out of Slack
 
 For questions about specific customer situations, we need a support ticket (from the customer) or an [internal request](#internal-requests) ticket (from a GitLab team member).
 
 There are several reasons why Support cannot respond to customer-specific requests made through Slack:
+
 - We aim to meet the [Service Level Agreement](https://about.gitlab.com/support/#service-level-agreements) (SLA) each time we help a customer, and we only track SLA compliance via Zendesk.
 - Zendesk has a ticket assignment system which is vital to our workflow. We have no system to assign tickets in Slack.
 - When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
@@ -85,7 +78,6 @@ They should select "GitLab.com (SaaS) User Accounts and Login Issues" as the rea
 Customers having difficulty logging into the Zendesk customer portal should first [try our documented troubleshooting steps](https://about.gitlab.com/support/portal/#having-trouble-with-the-support-portal). These steps almost always resolve the difficulty.
 
 If those tips do not resolve the problem, you can open an [Internal Request > Other](#internal-requests) on their behalf.
-
 
 ### Requesting to see Customer Information
 
@@ -149,7 +141,6 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 **Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
-
 ### Internal Requests
 
 All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
@@ -161,47 +152,51 @@ All internal requests regarding licensing, subscriptions, trials, and grace peri
 For internal requests, our SLO varies depending on the selected `Priority` for the ticket. Please select the appropriate priority for each request, using the following information as your guide:
 
 **Urgent**
-* SLO: 1 hour
-* Criteria: service loss
-* Common Scenarios:
-  * SaaS group downgraded
-  * SM license expired and grace period exhausted
+
+- SLO: 1 hour
+- Criteria: service loss
+- Common Scenarios:
+  - SaaS group downgraded
+  - SM license expired and grace period exhausted
 
 **High**
-* SLO: 4 hours
-* Criteria: time sensitive tasks
-* Common Scenarios:
-  * Customer will lose SaaS service today
-  * SM license grace period will end today
+
+- SLO: 4 hours
+- Criteria: time sensitive tasks
+- Common Scenarios:
+  - Customer will lose SaaS service today
+  - SM license grace period will end today
 
 **Normal**
-* SLO: 8 hours
-* Common Scenarios:
-  * SaaS namespace association
-  * SM license troubleshooting
-  * Purchasing problems resulting in blockage such as:
-    * CI minutes fully exhausted
-    * SaaS storage is inaccessible because a project is locked
-    * SM renewal period is ending and the customer is facing a purchasing error or problem
+
+- SLO: 8 hours
+- Common Scenarios:
+  - SaaS namespace association
+  - SM license troubleshooting
+  - Purchasing problems resulting in blockage such as:
+    - CI minutes fully exhausted
+    - SaaS storage is inaccessible because a project is locked
+    - SM renewal period is ending and the customer is facing a purchasing error or problem
 
 **Low**
-* SLO: 24 hours
-* Common Scenarios:
-  * Purchasing problems with no immediate blockage, e.g. several days are available for resolution
-  * Contact management
-  * Account management
-  * Request to contact sales
-  * Pass to billing/AR
-  * Reset max seats
-  * Order Management tickets
-  * Cloud license exemption, resend license, forward license
-    * Unless customer is fully blocked / previous license fully expired
-  * Trials (start / extend)
-    * Requests from sales to increase CI quota / storage quota
-  * QSR / billable users disputes or request for more info
-  * Educational, product / process questions
-  * Community / NFR licenses or subscriptions
-  * Non-customers
+
+- SLO: 24 hours
+- Common Scenarios:
+  - Purchasing problems with no immediate blockage, e.g. several days are available for resolution
+  - Contact management
+  - Account management
+  - Request to contact sales
+  - Pass to billing/AR
+  - Reset max seats
+  - Order Management tickets
+  - Cloud license exemption, resend license, forward license
+    - Unless customer is fully blocked / previous license fully expired
+  - Trials (start / extend)
+    - Requests from sales to increase CI quota / storage quota
+  - QSR / billable users disputes or request for more info
+  - Educational, product / process questions
+  - Community / NFR licenses or subscriptions
+  - Non-customers
 
 All of the SLOs apply to business days (24x5) only.
 
@@ -274,7 +269,6 @@ A copy of the license email sent to the customer is automatically logged under t
 
 [Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template
 
-
 ### GitLab.com Billable Members List
 
 As Product has implemented the minimal viable versions of [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) and [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454), Support is beginning to deprecate this process. You can also see [epic 4547](https://gitlab.com/groups/gitlab-org/-/epics/4547) for improvements that product is working on and their progress.
@@ -285,9 +279,9 @@ Here are some options to get basic seat count information:
 
 1. *Plan* and *Seats Currently in Use*:
     - [chatops](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html#chatops-on-gitlabcom) (requires dev.gitlab.org account) with the command: `/chatops run namespace find group-path`
-2. Info from 1 plus Subscription (or trial) *End Date*
+1. Info from 1 plus Subscription (or trial) *End Date*
     - [Sisense dashboard](https://app.periscopedata.com/app/gitlab/576469/Namespace-Overview) (changing the namespace ID filter)
-3. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
+1. Info from 2 plus *Seats in Subscription*, *Max Seats Used*, and *Start Date*
     - [Customers portal admin](https://customers.gitlab.com/admin/customer) (requires access via Okta)
 
 If none of the above self-serve options work, file a request using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/)
@@ -309,38 +303,43 @@ Customers can get their subscription information and a list of users using a sea
 
 ### I Want to Escalate a Ticket
 
-To keep the term "_escalation_" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
+To keep the term "*escalation*" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
 [account escalations](/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
 
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
- - progress in the ticket has stalled and the ticket needs more support engineering effort
- - the priority of the ticket has changed (Low -> High)
- - the ticket requires immediate intervention to address a high level of customer dissatisfaction
- - Support Management oversight is required in order to bring structure and focus to the situation
+
+- progress in the ticket has stalled and the ticket needs more support engineering effort
+- the priority of the ticket has changed (Low -> High)
+- the ticket requires immediate intervention to address a high level of customer dissatisfaction
+- Support Management oversight is required in order to bring structure and focus to the situation
 
 [More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
 
 Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if:
- - There is account level risk because of a single ticket or an aggregation of several issues.
- - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
+
+- There is account level risk because of a single ticket or an aggregation of several issues.
+- Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
 [More about account escalations](/handbook/customer-success/csm/escalations)
 
 Please open an **emergency ticket** if:
- - a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
+
+- a customer is facing a situation that meets our [Definitions of Support Impact](https://about.gitlab.com/support/definitions/#Definitions%20of%20Support%20Impact) for "Emergency"
 
 [More about how Support Engineers handle emergency tickets](/handbook/support/workflows/customer_emergencies_workflows.html)
 
 Please declare a **GitLab.com incident** if:
- - you've noticed a common pattern of reported problems between SaaS customers
- - you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
- - you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+
+- you've noticed a common pattern of reported problems between SaaS customers
+- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+- you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
 
 [More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
 
 Please declare a **security incident** if:
- - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
+
+- you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
 [More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 

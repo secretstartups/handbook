@@ -1,10 +1,8 @@
 ---
-layout: handbook-page-toc
+
 title: Support Time Off Buddies Trial
 description: Guidelines for the Support Time Off Buddies trial
 ---
-
-# Support Time Off Buddies Trial
 
 ## Overview
 
@@ -31,7 +29,7 @@ initial proposal and add your thoughts to the discussion on
 
 ## Responsibilities
 
-At a minimum, Time Of Buddies are expected to review their buddy's tickets each day until their return, and action them accordingly. This _does not_ mean that buddies must _work_ the tickets, but instead that they should be prepared to interact with anything that needs attention.
+At a minimum, Time Of Buddies are expected to review their buddy's tickets each day until their return, and action them accordingly. This *does not* mean that buddies must *work* the tickets, but instead that they should be prepared to interact with anything that needs attention.
 
 Since this is intended to be a low barrier program, the baseline responsibilities are intentionally simple. Time Off Buddies are welcome to work with their buddy to develop additional responsibilities as they see fit.
 

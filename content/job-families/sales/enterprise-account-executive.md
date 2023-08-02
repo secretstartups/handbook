@@ -137,7 +137,6 @@ The Senior Strategic Account Executive is a [grade 8](https://about.gitlab.com/h
 
 The confidence gap exists. The above list is intended to show the kinds of experience and qualities we're looking for. If you're reading this, do not match all of the requirements, and are hesitant to apply, we encourage you to make an application despite your hesitations.
 
-
 ## Major Account Executive
 
 The Major Account Executive reports  to an Area Sales Manager or Regional Director.

@@ -1,15 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Servicing Internal Requests
 description: "Various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the internal requests issue tracker"
 category: GitLab.com
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
 **NOTE:** If you are a GitLab team member who wants to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
@@ -68,7 +63,7 @@ Sales team members will typically open this on behalf of their prospects in orde
 
 ## Inactive Namespace Request
 
-GitLab Team Members can no longer submit inactive namespace / namesquatting requests for their own use. See: [support-team-meta#5170](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5170) 
+GitLab Team Members can no longer submit inactive namespace / namesquatting requests for their own use. See: [support-team-meta#5170](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5170)
 
 Customers can submit a support ticket. See [Name Squatting Policy](namesquatting_policy.html).
 
@@ -92,7 +87,7 @@ At times, users require an increase to the size limit of their repository as a w
     - If a longer exception time is required, add the `Manager Approval::Required` label, and post in the `#spt_managers` channel to request approval.
     - Make sure to comment on (or create) a bug issue to help future users and prevent further tickets.
 1. Apply the `Status::On Hold` label and set the due date to when it should be reverted.
-1. Using your GitLab.com admin account navigate to the project in question while appending **/edit** to the URL. For example, if the project in question is located at **https://gitlab.com/group/subgroup/project/** you would navigate to **https://gitlab.com/group/subgroup/project/edit**.
+1. Using your GitLab.com admin account navigate to the project in question while appending **/edit** to the URL. For example, if the project in question is located at **<https://gitlab.com/group/subgroup/project/>** you would navigate to **<https://gitlab.com/group/subgroup/project/edit>**.
 1. Enter a new value in the **Repository size limit (MB)** field.
 1. Click **Save changes**.
 1. On the specified due date, revert the size limit back to the default by removing the value.

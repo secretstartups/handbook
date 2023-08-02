@@ -4,7 +4,7 @@ title: "Talent Brand and Talent Acquisition Enablement"
 
 ## Talent Brand
 
-## Levels
+### Levels
 
 ### Talent Brand Program Manager
 
@@ -46,7 +46,7 @@ The Talent Brand Program Manager is a [grade 6](https://about.gitlab.com/handboo
 
 ## Enablement
 
-## Levels
+### Levels
 
 ### Program Manager, Enablement
 
@@ -63,9 +63,9 @@ The Progam Manager, Enablement is a [grade 6](https://about.gitlab.com/handbook/
 - Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm
 - Manage procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
 - Act as subject matter expert on 2+ areas of Enablement work, for example:
-    - Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
-    - Oversee all technical systems for the Candidate Experience team such as Prelude, Guide, and TextExpander
-    - Develop significant Greenhouse expertise and utilize those skills to make smart decisions for data integrity while owning data cleanup
+  - Own all regular decks for Talent Acquisition team meetings, defining and collating content, and driving the meetings
+  - Oversee all technical systems for the Candidate Experience team such as Prelude, Guide, and TextExpander
+  - Develop significant Greenhouse expertise and utilize those skills to make smart decisions for data integrity while owning data cleanup
 - Act as liaison between Enablement and at least one other team, such as Candidate Experience, Legal, or Finance
 - Proactively suggest and run teambuilding and incentive programs for the team
 - Ensure inclusivity in establishing processes and policies for our TA team members and candidates alike by focusing on Diversity, Inclusion, and Belonging
@@ -81,8 +81,6 @@ The Progam Manager, Enablement is a [grade 6](https://about.gitlab.com/handbook/
 - Experience analyzing metrics using Excel (or similar software)
 - Ability to use GitLab
 - Aligns with GitLab values
-
-
 
 ### Senior Program Manager, Global Enablement
 
@@ -119,8 +117,6 @@ The Progam Manager, Enablement is a [grade 7](https://about.gitlab.com/handbook/
 - Ability to use GitLab
 - Aligns with GitLab values
 
-
-
 ### Manager, Global Enablement
 
 The Manager, Global Enablement reports to the Senior Director of Talent Brand & Talent Acquisition Enablement.
@@ -141,7 +137,6 @@ The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handb
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals
 
-
 #### Manager, Global Enablement Requirements
 
 - Exceptional cross-functional communication and organization skills, and demonstrated experience in time-management and ability to influence
@@ -151,7 +146,6 @@ The Manager, Recruiting Operations is a [grade 8](https://about.gitlab.com/handb
 - Robust time management, communication and organizational skills
 - A team player with excellent client management skills
 - Ability to use GitLab
-
 
 #### Manager, Global Enablement Performance Indicators
 
@@ -183,7 +177,6 @@ The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.co
 - Leverage our candidate facing teams to advocate for our employer brand and deliver a world-class experience
 - Help define and leverage data-focused metrics in order to develop and deliver on the goals
 
-
 #### Senior Manager, Global Enablement Requirements
 
 - Ability to develop TA enablement strategy and roadmap and drive cross-functional partners to deliver on plans
@@ -195,7 +188,6 @@ The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.co
 - A team player with excellent client management skills
 - Ability to use GitLab
 
-
 #### Senior Manager, Global Enablement Performance Indicators
 
 - [Average candidate ISAT](/#interviewee-satisfaction-isat)
@@ -204,7 +196,7 @@ The Senior Manager, Recruiting Operations is a [grade 9](https://about.gitlab.co
 
 ## Talent Brand and Talent Acquisition Enablement Leadership
 
-## Levels
+### Levels
 
 ### Director of Talent Brand & Talent Acquisition Enablement
 

@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Weekly Support Team Call
 category: Support Team
 subcategory: Meetings
 description:
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -22,7 +18,7 @@ upcoming events, and ask questions.
 | Weekday  | Region | Meeting Name             | Agenda |
 | :------: | :----: | :----------------------: | :----: |
 | Tuesday  | APAC   | Support Team Call (APAC) | [Google Doc](https://docs.google.com/document/d/1jwj5g0BIq3kTepw2-ZD9VSETs7Isf6YDHGzmYxmTt50/edit#) |
-| Thursday | EMEA   | Support Team call (EMEA) | [Google Doc](https://docs.google.com/document/d/1oyi9BtoaNwZE99KNHC-9HiYX7g2bCLu986kjzJL9dO4/edit#) | 
+| Thursday | EMEA   | Support Team call (EMEA) | [Google Doc](https://docs.google.com/document/d/1oyi9BtoaNwZE99KNHC-9HiYX7g2bCLu986kjzJL9dO4/edit#) |
 
 The regions listed above are the regions for which each call may be the most
 convenient, but all are welcome on any call. Every call is recorded and notes
@@ -37,7 +33,8 @@ The APAC team meets at 03:00am UTC:
 ## Meeting roles
 
 ### Role of the Chair
-{: .no_toc}
+
+
 
 The main role of the chair is to start the meeting, keep the meeting moving
 along, and end the meeting when appropriate. There is generally little
@@ -55,7 +52,8 @@ If the chair is not available and has not picked a substitute, follow the
 rotation to the first person who is on the call to determine a replacement.
 
 ### Role of the Notetaker
-{: .no_toc}
+
+
 
 The notetaker should take notes during the meeting and if action is required,
 creates a comment and assigns it to the appropriate person.

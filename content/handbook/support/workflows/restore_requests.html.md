@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Restoring Deleted Data Requests
 category: GitLab.com
 subcategory:
@@ -7,11 +7,7 @@ description: "Workflow for cases when a customer requests deleted data to be res
 last-reviewed: 2021-10-06
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 

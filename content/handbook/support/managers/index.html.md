@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Support Managers
 description: Support Managers activities and references
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Role and Responsibilities
 
@@ -28,6 +24,7 @@ You can read more about the role below:
 ### Regional Variations
 
 Some teams have slight tactical differences, you can see distinctive of regional approaches on the following pages:
+
 - [AMER](/handbook/support/managers/amer/)
 
 ## How to see what the Support managers are working on
@@ -98,10 +95,10 @@ This action is unique to Support and is somewhere in-between a [Rapid Action iss
 
 The purpose of the group will be unique to each situation that triggers it, but generally the members will:
 
-- form testable statements (e.g. _FRT has gone down because a lot of people have taken vacation_)
-- gather and analyze data that falsify those statements (e.g. _After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year_)
+- form testable statements (e.g. *FRT has gone down because a lot of people have taken vacation*)
+- gather and analyze data that falsify those statements (e.g. *After taking a look at PTO data, we can see that we've had a consistent 90% coverage for the period in question, which is consistent with other times in the year*)
 - build a set of recommendations based on the data for how we can achieve consistent results
-- document _how_ they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
+- document *how* they analyzed their hypothesis and include it in [Hypothesis and Actions](metrics-analysis/actions.html)
 
 These criteria and actions came from the [Metrics Analysis Workgroup](metrics-analysis/index.html).
 
@@ -126,4 +123,3 @@ New managers will establish their own OKR after they have been in their role for
 ## Support Engineering Manager READMEs
 
 Support Engineering Manager READMEs are found in [Engineering Manager READMEs](/handbook/engineering/readmes/).
-

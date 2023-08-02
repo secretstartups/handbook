@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Converting a Support Emergency into an Account Escalation
 description: Guidance to Support Engineers and Managers on when and how to convert an emergency to an Account Escalation
 category: On-call
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -30,12 +26,11 @@ Here are some questions to guide the decision:
 - Are there outside factors (Renewals/Migrations/Other initiatives) that are being blocked by the emergency?
 - Has GitLab Professional Services been working with the customer recently? Are the engineers from that engagement still available to assist?
 
-
 ## How to start an Account Escalation
 
 1. Decide which Escalation Level to use by consulting the [CSM handbook for escalation levels](/handbook/customer-success/csm/escalations/#definitions-of-severity-levels).
 1. Based on the Escalation Level, decide who is the [Escalation DRI](/handbook/customer-success/csm/escalations/#escalation-dri). If there is no CSM for the customer, work with the on-call Support Manager to determine DRI.
-1. Follow the steps to [open the escalation](/handbook/customer-success/csm/escalations/#opening-the-escalation). 
+1. Follow the steps to [open the escalation](/handbook/customer-success/csm/escalations/#opening-the-escalation).
 
 ## Expectations during an Account Escalation
 
@@ -52,5 +47,4 @@ Here are a few things to keep in mind:
 
 ## Closing an Account Escalation
 
-If you are the Escalation DRI, follow the steps to [close the escalation](/handbook/customer-success/csm/escalations/#closing-the-escalation). 
-
+If you are the Escalation DRI, follow the steps to [close the escalation](/handbook/customer-success/csm/escalations/#closing-the-escalation).

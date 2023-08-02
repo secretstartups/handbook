@@ -1,15 +1,7 @@
 ---
-layout: handbook-page-toc
 title: Support Engineer Responsibilities
 description: A detailed listing of the responsibilities of Support Engineers in GitLab. Page should not be moved without a Support Global Change Management issue.
-
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -48,6 +40,7 @@ solve the problems and answer the questions that they present to us in support
 tickets.
 
 This responsibility can be broken down into five key components:
+
 1. [Be appropriately available](#1-be-appropriately-available)
 1. [Work with your group to meet our FRT SLA target](#2-work-with-your-group-to-meet-our-frt-sla-target)
 1. [Maintain good progress through to resolution on all of your assigned tickets](#3-maintain-good-progress-through-to-resolution-on-all-of-your-assigned-tickets)
@@ -71,13 +64,13 @@ our customers according to the terms of their contract with us. Although
 [asynchronous work and communication](/handbook/values/#bias-towards-asynchronous-communication)
 are preferred within GitLab overall, in Support Engineering there is always
 a business need to have enough people available at any given moment to deliver
-support. 
+support.
 
-Support Engineers are responsible for: 
+Support Engineers are responsible for:
 
-* Creating their work schedule with their manager 
-* Coordinating day-to-day availability for ticket work with their SGG
-* Working with any Support Manager to take on higher-priority tasks based on customer needs
+- Creating their work schedule with their manager
+- Coordinating day-to-day availability for ticket work with their SGG
+- Working with any Support Manager to take on higher-priority tasks based on customer needs
 
 ### 2. Work with your group to meet our FRT SLA target
 
@@ -105,9 +98,9 @@ and so all of Support, to meet that goal. How?
    the customers who submitted them.
    If you are a Senior Support Engineer, put a higher priority on helping others
    in your group to make a first response, than on taking tickets of your own.
-   _Please note that this section is about helping your own group. As can be seen
+   *Please note that this section is about helping your own group. As can be seen
    in [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work), all SEs
-   are encourage to help people in any group._
+   are encourage to help people in any group.*
 
 #### Processing 'Needs org' tickets (triaging)
 
@@ -165,6 +158,7 @@ through the entire module or by selecting and viewing videos
 that address topics of interest to you. You might also want to grab the
 [Ticket Management Quick Reference Guide](https://docs.google.com/document/d/1O9ZzUCJxnuE42ssJ-pir7QK16Vucja6pKk321LBzyyo)
 from that module. Here's a quick reference to the quick reference guide:
+
 - Understand the customer's real needs
 - When you can't do what the customer wants, find what you **can** do to help
   them
@@ -183,7 +177,7 @@ such as:
 1. You believe the customer is not understanding your requests of them
 1. The customer seems very anxious, frustrated, upset, or confused
 1. The customer repeatedly asks for a call
-1. Live troubleshooting and discussion are 
+1. Live troubleshooting and discussion are
    the best way to make progress toward resolution
 
 See the [Customer Calls page](/handbook/support/workflows/customer_calls.html)
@@ -200,7 +194,6 @@ please find tickets in your group's view. See the
 [Support Global Groups FAQ page](/handbook/support/support-global-groups/sgg-faq.html) for topics
 about how to help other SEs.
 
-
 **What does success look like?**
 
 Success will look like a healthy balance between solving your assigned support
@@ -215,10 +208,10 @@ following two criteria, the first quantitative and the second qualitative:
    In addition to producing evidence of your level of success, these reviews
    should result in improvements to the quality of your ticket work, both
    technical and nontechnical.
-2. Compare your weekly results against the three parts of the
+1. Compare your weekly results against the three parts of the
    [ticket baseline](#ticket-baseline):
 
-   #### Ticket baseline
+#### Ticket baseline
 
    The ticket baseline is useful in gauging a Support Engineer's
 volume of ticket work compared to that of the rest of the global Support Team.
@@ -226,10 +219,10 @@ We use a **dynamic baseline** that is equal to 85% of the mean for each metric.
 [This dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/11700022)
 shows the current values.
 
-   - Consider the baseline metrics as minima to be achieved each week
-   - When you don't meet a baseline, you and your manager should discuss in your
+- Consider the baseline metrics as minima to be achieved each week
+- When you don't meet a baseline, you and your manager should discuss in your
      next 1:1 meeting to determine what changes you should make, if any
-   - We believe in quality, not quantity. More is not necessarily better. GitLab
+- We believe in quality, not quantity. More is not necessarily better. GitLab
      gives you freedom to choose and trusts you to use good judgment in
      exercising that freedom as you make daily decisions about
      [Prioritizing work](/handbook/support/support-global-groups/#prioritizing-work).
@@ -239,7 +232,7 @@ shows the current values.
 The following on-call rotations are staffed by Support Engineers:
 
 1. [Self-managed customer emergency on-call](/handbook/support/on-call/)
-2. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows.html)
+1. [GitLab.com Communications Manager on Call (CMOC)](/handbook/support/workflows/cmoc_workflows.html)
 
 All Support Engineers participate in one of these rotations - not both, unless you absolutely love being on-call!
 
@@ -323,7 +316,7 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 
 1. Since we ship a **new release each month on the 22nd**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
 1. We have several [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
-1. The [Support Week in Review](/handbook/support/#support-week-in-review) (SWIR) document is intended to contain all the recent announcements and updates each week with which everyone in Support should be familiar. You are **expected** to read or listen to the recording of the document every week. And you're encouraged to contribute to the document as well. _You should consider putting a weekly reminder on your Monday mornings for reading (or listening to) the SWIR._
+1. The [Support Week in Review](/handbook/support/#support-week-in-review) (SWIR) document is intended to contain all the recent announcements and updates each week with which everyone in Support should be familiar. You are **expected** to read or listen to the recording of the document every week. And you're encouraged to contribute to the document as well. *You should consider putting a weekly reminder on your Monday mornings for reading (or listening to) the SWIR.*
 
 **What does success look like?**
 
@@ -333,9 +326,9 @@ There's no goal for this area. The aim is to make sure you are aware of and util
 
 As an extension of [keeping up to date on GitLab](#keep-up-to-date-on-gitlab-and-support), you're always invited to help prepare the team for changes. Occasionally, and always with every major release, there may be deprecations or breaking changes which the Support team needs to prepare for.
 
-For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterpart) to review the planned changes. 
+For major releases, typically a manager will organize the [Support Stable Counterparts](/handbook/support/#support-stable-counterpart) to review the planned changes.
 
-Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude). 
+Between major releases, product or development may request our assistance [to contact specific users](/handbook/support/internal-support/#gitlab-changes-and-contacting-users), which are handled by a [group of volunteers within Support](https://gitlab.com/groups/gitlab-com/support/readiness/-/group_members?with_inherited_permissions=exclude).
 
 Each month, Support also organizes a [Release Review Party](https://drive.google.com/drive/u/0/search?q=Release%20Review%20-%20Support%20Team) (GitLab Internal only) to go over, demonstrate, and talk about new features or changes.
 

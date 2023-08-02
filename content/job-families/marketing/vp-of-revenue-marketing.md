@@ -51,13 +51,13 @@ The Vice President of Revenue Marketing role is a [grade 12](https://about.gitla
 - Average time to close and ASP for Account Based Marketing campaigns
 - Closed Won IACV created
 
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+
 - A 45 minute interview with Chief Marketing Officer
 - A 30 minute interview with Senior Director of Strategic Marketing
 - A 30 minute interview with Senior Director of Corporate Marketing

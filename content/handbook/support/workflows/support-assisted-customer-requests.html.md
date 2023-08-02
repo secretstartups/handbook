@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Support Assisted Customer Requests
 description: "GitLab Support Assisted customer requests"
 category: References
@@ -13,8 +13,8 @@ category: References
 At times Support may be called on to assist customers in requests which require taking actions that wouldn't be possible within the normal structure of
 the application.
 
- - migrating a set of users from one identity provider to another
- - bulk removing 2FA from a set of users
+- migrating a set of users from one identity provider to another
+- bulk removing 2FA from a set of users
 
 The purpose of this workflow is to demonstrate the structure of a runbook that includes the steps required before, during, and after scheduled customer work.
 

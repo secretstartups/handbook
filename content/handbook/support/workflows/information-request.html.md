@@ -1,18 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Subpoenas, Court Orders and other requests for user information
 description: "Workflow for requests which do not fit other prescribed workflows, and may need input from our Legal team"
 category: GitLab.com
 subcategory: Legal
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Overview
 
 There may be times when a request comes in that seems to need input from our Legal team. This workflow explains how to handle such a request when it does not fit into one of the prescribed workflows.
 
@@ -28,7 +19,7 @@ our counsel and CISO approve.
 
 If a subpoena or court order that is not covered by another workflow (e.g. DMCA, GDPR, information request) comes in:
 
-1. Forward the email to legal@gitlab.com
+1. Forward the email to <legal@gitlab.com>
 1. Reach out on the Slack #legal channel to inform the Legal team.
 1. Respond to the ticket with the [`Legal::Subpoena or court order`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759300) macro.
 

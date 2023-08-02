@@ -37,7 +37,6 @@ The People Connect Specialist is a [Grade 5](https://about.gitlab.com/handbook/t
 - Able to split focus across a diverse yet equally important set of functions.
 - Strong verbal and written communication skills.
 
-
 ### Senior People Connect Specialist
 
 The Senior People Connect Specialist reports to the Manager, People Connect.
@@ -68,7 +67,6 @@ The Sr People Connect Specialist is a [Grade 6](https://about.gitlab.com/handboo
 - Ability to demonstrate integrity and maintain confidentiality.
 - Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
 
-
 ### People Connect Lead
 
 The People Connect Lead reports to the Manager, People Connect.
@@ -90,7 +88,6 @@ The People Connect Lead is a [Grade 7](https://about.gitlab.com/handbook/total-r
 - Support as Program Manager for the delivery of key programs such as the 360 Feedback Cycle, Engagement Surveys and Performance Assessments.
 - Conduct exit interviews for People Group and E-Group Members identifying and reporting on trends.
 
-
 #### Requirements
 
 - Comprehensive understanding of the entire team member lifecycle, with the ability to recommend process-oriented and/or operational solutions to improve the team member experience.
@@ -100,7 +97,6 @@ The People Connect Lead is a [Grade 7](https://about.gitlab.com/handbook/total-r
 - Excellent problem solving and organizational skills - able to manage multiple priorities in a dynamic and occasionally ambiguous environment.
 - Ability to demonstrate integrity and maintain a high level of confidentiality.
 - Excellent interpersonal skills and ability to establish strong relationships at all levels and across functions.
-
 
 ## Manager, People Connect
 
@@ -283,6 +279,7 @@ The Director, Global People Operations is a [Grade 11](https://about.gitlab.com/
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director, Technology
 - After that, candidates will be invited to schedule a 30 minute interview with members of the Operations Team such as the Compliance Partner and/or Employment Solutions Partner
@@ -301,4 +298,3 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Career Ladder
 
 The next step in the People Operations job family is to move to the [People Operations Leadership Job Family](https://about.gitlab.com/job-families/people-group/leadership-people-operations-tech-analytics/).
-

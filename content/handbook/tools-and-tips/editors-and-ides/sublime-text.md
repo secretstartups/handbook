@@ -2,7 +2,7 @@
 title: "Sublime Text"
 ---
 
-Website: https://www.sublimetext.com/
+Website: <https://www.sublimetext.com/>
 
 Best for: entry level developers, editing markdown.
 

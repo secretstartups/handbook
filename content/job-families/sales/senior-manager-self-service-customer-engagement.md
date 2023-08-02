@@ -45,7 +45,6 @@ Proven track record of leadership driving innovation and change.
 Operational execution and troubleshooting by identifying issues as they surface; proposing and executing changes to fix root causes.
 - Ability to use GitLab
 
-
 ## Performance Indicators
 
 - nARR & FO performance vs. plan for the account base covered by the self-service sales team.
@@ -61,6 +60,7 @@ The next steps for the Senior Manager, Self-Service Sales job family has not yet
 ## Hiring Process
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, qualified candidates will be invited to interview with 2-5 team members

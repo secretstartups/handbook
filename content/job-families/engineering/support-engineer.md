@@ -16,7 +16,7 @@ This position is 100% remote.
 
 The Support Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### What you can expect in a Support Engineer role at GitLab:
+### What you can expect in a Support Engineer role at GitLab
 
 As a Support Engineer, you will:
 
@@ -31,7 +31,7 @@ As a Support Engineer, you will:
 - participate in our hiring processes by reviewing applications and assessments, and by participating in interviews.
 - suggest and implement improvements to Support workflows.
 
-### Projects you might work on:
+### Projects you might work on
 
 When you’re not tackling difficult customer challenges, you’ll have a lot of freedom to work on things that will make your life, and the lives of your coworkers, easier. Current and past support engineers have:
 
@@ -44,7 +44,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 
 ## Requirements
 
-### You should apply if:
+### You should apply if
 
 ### You've got the personality
 
@@ -90,7 +90,7 @@ In addition to the above requirements for Global Support Engineers, you will nee
 
 - Valid proof of US Citizenship
 
-### [What it’s like to work here](https://about.gitlab.com/company/culture/#so-thats-what-its-like-to-work-at-gitlab) at GitLab:
+### [What it’s like to work here](https://about.gitlab.com/company/culture/#so-thats-what-its-like-to-work-at-gitlab) at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team members are currently located in over 60 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team members are fully remote and receive GitLab's [Flexible PTO policy](https://about.gitlab.com/handbook/paid-time-off/), where there is no set limit per year on the amount of paid time off a team member can take. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
@@ -98,8 +98,7 @@ Also, every year or so, we’ll invite you to our [Contribute event](https://abo
 
 Our hiring process for this Support Engineer position typically follows five stages. The details of this process and the compensation for this role can be found in our [hiring process](#hiring-process).
 
-
-### How you'll grow in the role:
+### How you'll grow in the role
 
 Support career progression is documented in [Engineer Career Development - Support Department](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
@@ -160,7 +159,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Technical assessment.
 - 30-minute screening call with a Recruiter.
 - 90-Minute [Technical Interview](https://about.gitlab.com/handbook/hiring/interviewing/customer-support-interviewing/#4-90-minute-technical-interview-with-a-member-of-the-support-team) with a member of the Support team.
-    - The Technical Interview will involve live break-fix/bug-fix scenarios as well as customer scenarios.  You will need to have access to a terminal with Bash or similar. You will also need to have an SSH key pair installed locally so you can connect to the server. Windows users must have ‘Git Bash for Windows’ installed prior to the call. If the Technical Interview is not passed, the Behavioral Interview will be canceled.
+  - The Technical Interview will involve live break-fix/bug-fix scenarios as well as customer scenarios.  You will need to have access to a terminal with Bash or similar. You will also need to have an SSH key pair installed locally so you can connect to the server. Windows users must have ‘Git Bash for Windows’ installed prior to the call. If the Technical Interview is not passed, the Behavioral Interview will be canceled.
 - 60-Minute Behavioral Panel Interview with a Support Engineering Manager & one other member of the team.
 - 60-Minute Interview with a Senior Manager or Director of Support.
 - Reference Checks.

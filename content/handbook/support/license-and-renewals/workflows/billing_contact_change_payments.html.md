@@ -1,11 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Billing, invoice and payments requests
 category: General
 description: Billing and invoicing requests require action from our Billing/Accounts Receivable team.
 ---
 
-{::options parse_block_html="true" /}
+
 
 - TOC
 {:toc .hidden-md .hidden-lg}
@@ -52,7 +52,7 @@ NOTE: The `Sold to` contact in Zuora usually receives the license, renewal remin
 
 #### Requests From Billing Team for Support to Verify and Update Sold To Details
 
-The Billing Team will generally handle changes to the `Bill To` contact information, but occasionally may need to rely on our team to vet changes to `Sold To`.  In such events, they will pass a ticket over to the Support team, in which case you can review and act on the request pursuant to the steps outlined in the [Ownership Verification workflow](customersdot/associating_purchases.html#other-notable-workflows-involving-customersdot), and the steps to [update Sold To 
+The Billing Team will generally handle changes to the `Bill To` contact information, but occasionally may need to rely on our team to vet changes to `Sold To`.  In such events, they will pass a ticket over to the Support team, in which case you can review and act on the request pursuant to the steps outlined in the [Ownership Verification workflow](customersdot/associating_purchases.html#other-notable-workflows-involving-customersdot), and the steps to [update Sold To
 details](customersdot/associating_purchases.html#update-zuora-sold-to-contact-using-customersdot).
 
 - Refer to their internal [wiki page here](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-BTST-Information-Updates-and-Invoice-Request#update-request-for-st-email) for additional details.
@@ -97,8 +97,8 @@ issue template.
 {: .panel-heading #console-hacks-notice}
 <div class="panel-body">
 
-Following the [discussion and decision to be more pushy than hacky](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299) 
-using console commands in CustomersDot, this workflow is documented **as a temporary workaround only** while the Fulfillment team works on 
+Following the [discussion and decision to be more pushy than hacky](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299)
+using console commands in CustomersDot, this workflow is documented **as a temporary workaround only** while the Fulfillment team works on
 integrating Billing entity changes in the product.
 
 The progress on Fulfillment's work can be followed in these reported issues:
@@ -122,16 +122,17 @@ To create an Order and link the namespace to the new subscription:
 1. [Create an Order for the new subscription](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#create_order_from_zuora)
 1. [Link the new subscription to the group](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#force_reassociation)
 1. Confirm the `Max seats used` is reset to current seats in use count. If not, update it using the [account_seats](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#reset-max-seats) function.
-    - This step may be needed here to adjust their `Max seats used` to their `Seats currently in use`, because this process does not automatically reset that like it normally would during a renewal. You may need to use discretion here if the customer's max historical seatcount is wildly different from what they are currently paying for. 
+    - This step may be needed here to adjust their `Max seats used` to their `Seats currently in use`, because this process does not automatically reset that like it normally would during a renewal. You may need to use discretion here if the customer's max historical seatcount is wildly different from what they are currently paying for.
 
 Examples of this workflow:
 
-- https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10633
-- https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10585
+- <https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10633>
+- <https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10585>
 
 #### Finding Zuora accounts
 
 For the above workflow, you need to locate both of the Zuora accounts in question. The entity change results in a new billing account being created, and the SaaS subscription(s) being recreated on that account.
+
 - From CustomersDot: If you know the CustomersDot account, at least one of the Zuora accounts will be present in the `History` tab and you can work from there.
 - From SFDC: You can usually find both Zuora account IDs by looking at the SFDC account -> Billing Accounts.  In the best case, there will be only 2 accounts listed there, the new and the old.  But often there are several billing accounts associated with a customer account. The billing account in SFDC will have an Account Number in the format of `A000XXXXX`. This can be searched directly in Zuora from the search page on Customer Accounts. Alternatively, the SFDC billing account shows a Zuora ID md5 hash, which you can supply to Zuora by editing this URL: `https://www.zuora.com/apps/CustomerAccount.do?method=view&id=ZUORA-ID-MD5-HASH-GOES-HERE`
 
@@ -201,7 +202,7 @@ in waiting until the subscription expires.
 There is currently [no ability to downgrade a subscription from a self-service perspective](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/368).
 
 Plan downgrades should only be done at renewal. However, if the customer purchased the wrong plan as a new subscription, send
-the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the Premium plan. 
+the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the Premium plan.
 
 If a SaaS Ultimate customer would like to renew for a Premium plan, advise them to purchase a Premium subscription and link their group to the new subscription. Ensure that they have set their Ultimate subscription to expire/cancel on the end date.
 
@@ -226,8 +227,8 @@ subscription will have to be cancelled and refunded. See [Renewal reversal](/han
 
 Check first if the invoice is available in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
 
-* If yes: walk the customer through locating the invoices under Payment History for future self-service ability.
-* If no: Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
+- If yes: walk the customer through locating the invoices under Payment History for future self-service ability.
+- If no: Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
   process the request. They will reply to the customer once done.
 
 ### Invoice modification
@@ -256,7 +257,6 @@ account.
    Support team's attention.
 1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
    process the request. They will reply to the customer once done.
-
 
 ### Renewal reversal
 

@@ -31,10 +31,10 @@ The Billing Operations Associate is a [grade 5](https://about.gitlab.com/handboo
 - Excellent computer skills, self starter in picking up new and complex systems
 - Ability to work independently to meet deadlines and objectives
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ### Billing Operations Analyst
 
@@ -72,10 +72,10 @@ The Billing Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/
 - Excellent computer skills, self starter in picking up new and complex systems
 - Ability to work independently to meet deadlines and objectives
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ## Senior Billing Operations Analyst
 
@@ -108,10 +108,10 @@ The Senior Billing Operations Analyst is a [grade 7](https://about.gitlab.com/ha
 - Excellent computer skills, self starter in picking up new and complex systems
 - Ability to work independently to meet deadlines and objectives
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 #### Lead Billing Operations Analyst Job Grade
 
@@ -137,10 +137,10 @@ The Lead Billing Operations Analyst is a [grade 7](https://about.gitlab.com/hand
 - Excellent computer skills, self starter in picking up new and complex systems
 - Ability to work independently to meet deadlines and objectives
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ### Manager, Billing Operations
 
@@ -180,10 +180,10 @@ The Manager, Billing is a [grade 8](https://about.gitlab.com/handbook/total-rewa
 - Excellent verbal and written communication skills and ability to collaborate with cross-functional teams. Able to work in stressful situations with firm deadlines
 - Ability to use GitLab
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ### Senior Manager, Billing
 
@@ -226,10 +226,10 @@ The Senior Manager, Billing is a [grade 9](https://about.gitlab.com/handbook/tot
 - Able to work in stressful situations with firm deadlines
 - Ability to use GitLab
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ### Director, Billing and Collections
 

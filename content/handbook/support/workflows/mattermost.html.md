@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Mattermost
 description: "Workflow for escalating Mattermost support issues."
 category: Self-managed
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Escalating to the Mattermost team
 

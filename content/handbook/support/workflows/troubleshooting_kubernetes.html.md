@@ -11,8 +11,8 @@ description: Using the kubeSOS to troubleshoot GitLab Cloud Native chart deploym
 
 ### Requirements
 
-* kubectl client v1.14+
-* helm 2.12+
+- kubectl client v1.14+
+- helm 2.12+
 
 ## Usage
 
@@ -51,9 +51,9 @@ tar -zxvf kubesos-<timestamp>.tar.gz
 
 There are two main areas to check when troubleshooting a cloud native application like GitLab:
 
-* **Cluster setup**: We will assume that the cluster is correctly setup as per our [recommendation](https://docs.gitlab.com/charts/installation/cloud/) and enough resources have been allocated to the nodes. We will look at a few commands that would be helpful in confirming this.
+- **Cluster setup**: We will assume that the cluster is correctly setup as per our [recommendation](https://docs.gitlab.com/charts/installation/cloud/) and enough resources have been allocated to the nodes. We will look at a few commands that would be helpful in confirming this.
 
-* **Application Failures**: This will be our primary area of focus and we will be trying to identify why Gitlab is not working or not behaving correctly.
+- **Application Failures**: This will be our primary area of focus and we will be trying to identify why Gitlab is not working or not behaving correctly.
 
 ## Cluster setup
 
@@ -77,9 +77,9 @@ To delve deeper into troubleshooting the cluster have a look at [Troubleshoot Cl
 
 In order to deploy GitLab on Kubernetes, ensure the setup meets the following:
 
-* `kubectl 1.13` or higher, compatible with your cluster (+/- 1 minor release from your cluster).
-* `Helm v3` (3.2.0 or higher).
-* A Kubernetes cluster, version `1.13` or higher. `8vCPU` and `30GB` of RAM is recommended.
+- `kubectl 1.13` or higher, compatible with your cluster (+/- 1 minor release from your cluster).
+- `Helm v3` (3.2.0 or higher).
+- A Kubernetes cluster, version `1.13` or higher. `8vCPU` and `30GB` of RAM is recommended.
 
 Going back to our generated KubeSos output, confirm by checking:
 

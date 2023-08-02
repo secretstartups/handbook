@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Advanced Support Topics
 description: Training modules that Support team members can complete to gain expert skills.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Support Training Modules
 
@@ -52,6 +48,7 @@ Some examples of deep dives would be:
 #### Goals
 
 The goals of a deep dive are to:
+
 - Rapidly instill in participants a deep understanding of the topic.
 - Find and strengthen weak spots in the existing training and/or the product.
 - Create a recording that can be easily accessed and watched.
@@ -86,6 +83,7 @@ A deep dive is not meant to be a lecture, but rather a round-table discussion. E
 You'll have a few tasks to complete before and after the deep dive is complete. The tasks before the call are meant to quickly teach you the basics of the topic, while the tasks after the call are meant to turn your experience from and leading up to the call into lasting changes.
 
 Suggestions:
+
 - A deep dive is a great opportunity to learn a lot about a topic relatively fast. You will have plenty of people to work alongside and ask questions of. Take full advantage of this opportunity to level up.
 - Learn as much as you can before the call using the tasks in the issue. This will help you get the most out of the deep dive.
 - Ask lots of questions. Ask them in the Slack channel, the Google doc, or just elsewhere in GitLab.
@@ -107,6 +105,7 @@ The first and most important artifact it'll produce is the link to its recording
 If it has a [related module](#earn-the-expert-badge-by-completing-any-of-these-modules), another artifact will be the merge request creating a step to watch the recording.
 
 At the end of the deep dive, the resulting notes should be moved from the working Google doc to a more permanent location. This will take the form of issues and/or merge requests.  Here are some examples of what they can look like:
+
 - Issues to create a new feature or file a bug report
 - A merge request to clarify something or add some troubleshooting steps to the docs
 - An issue to add a new documentation section

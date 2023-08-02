@@ -13,4 +13,3 @@ description: "This handbook section defines the latest iteration of infrastructu
 ## Overview
 
 This is a placeholder page for the `infra-shared-services` realm.
-

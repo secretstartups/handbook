@@ -59,4 +59,3 @@ The next steps for the Title job family has not yet been defined.
 - There may be a final executive interview for qualified candidates
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

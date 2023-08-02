@@ -55,7 +55,6 @@ The Technical Writing Manager is a [grade 8](https://about.gitlab.com/handbook/t
 - Interview with Senior Manager, Technical Writing. The interviewer will spend time learning about your management style, past experiences, and career goals.
 - Interview with a VP of UX. The interviewer will spend time learning about your leadership experience, management style, and why you want to join GitLab.
 
-
 ## Senior Manager, Technical Writing
 
 The Senior Manager of Technical Writing reports to the Director of Technical Writing. Technical Writing Managers report to the Senior Manager of Technical Writing.
@@ -74,13 +73,6 @@ The Senior Manager, Technical Writing is a [grade 9](https://about.gitlab.com/ha
 - Promote efficiency and usability using a clear content strategy that defines the types and structure of content, as well as optimal workflow and continued maintenance.
 - Deliver input on promotions, function changes, demotions, and offboarding in consultation with the Technical Writing Managers and the VP of UX.
 - Collaborate with Director, Technical Writing on quarterly [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
-
-
-
-
-
-
-
 
 ### Requirements
 
@@ -101,7 +93,6 @@ The Senior Manager, Technical Writing is a [grade 9](https://about.gitlab.com/ha
 - Able to give clear, timely, and actionable feedback.
 - You share our [values](/handbook/values/) and work in accordance with those values.
 - [You adhere to our view of Leadership at GitLab.](https://about.gitlab.com/company/team/structure/#management-group)
-
 
 ### Performance indicators
 
@@ -138,7 +129,6 @@ The Director, Technical Writing is a [grade 10](https://about.gitlab.com/handboo
 - Independently manage [Technical Writing OKRs](https://about.gitlab.com/company/okrs/) and [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/).
 - Communicate significant Technical Writing strategy decisions to senior leadership.
 - Manage the Technical Writing budget with oversight from the VP of UX.
-
 
 ### Requirements
 

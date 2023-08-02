@@ -1,15 +1,9 @@
 ---
-layout: handbook-page-toc
+
 title: Customer Console
 category: CustomersDot
 description: Using the customer console for internal requests is only for special cases where the existing tools won't allow us to complete the task at hand.
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -23,16 +17,17 @@ The scope of what's outlined in this workflow is for frequently used functions w
 
 After logging into the CustomersDot server, enter the command:
 
+```sh
+support_console
 ```
-$ support_console
-```
+
 This will open the rails console and automatically load the functions available to use.
 
 Most functions rely on the namespace (i.e. GitLab.com Group name or username), always make sure to have it handy before starting any work from the console.
 
 Consider creating a [Shell alias](/handbook/tools-and-tips/#shell-aliases) such as the below:
 
-```
+```sh
 alias cdot-console="ssh -t <YOUR_USERNAME>@customersdot-prod 'support_console'"
 ```
 
@@ -50,6 +45,7 @@ graph TD
   B --> C(Integrate into the product)
 
 ```
+
 The more we use a function the more we should ask ourselves why we haven't automated that process or integrated that missing function into our product.
 
 ## Search methods
@@ -252,9 +248,9 @@ Find a given GitLab.com namespace.
 ```ruby
 irb(main):421:0> find_namespace('test')
 [!] Possible matches:
-	[+] Name Test Example         | Full Path test
-	[+] Name Other Example        | Full Path test1
-	[+] Name My Test              | Full Path test2
+ [+] Name Test Example         | Full Path test
+ [+] Name Other Example        | Full Path test1
+ [+] Name My Test              | Full Path test2
 => " "
 ```
 
@@ -345,7 +341,7 @@ Force a .com group to be associated with a given subscription. This is typically
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:subscription_name` | *Yes* | The subscription name to be re-associated|
-| `:namespace_path` | *Yes* | The [unique Gitlab namespace](https://docs.gitlab.com/ee/user/group/#namespaces) _`path`_|
+| `:namespace_path` | *Yes* | The [unique Gitlab namespace](https://docs.gitlab.com/ee/user/group/#namespaces) *`path`*|
 
 #### Sample
 
@@ -392,6 +388,7 @@ Completely unlink a GitLab.com account from a CustomersDot account. **Note:** Us
 irb(main):021:0> unlink_customer(0000000)
 => {:success=>true}
 ```
+
 ### associate_full_user_count_with_group
 
 > *Note*: Feature request is [customers #2167](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/2167).
@@ -616,7 +613,7 @@ irb(main):180:0>  update_extra_storage("gitlab-gold",5000)
 
 > Note: For a large group, this may take several hours. If unsure, ask for help before running it.
 
-Calculates the storage usage of the container registry for each project in a given group, the output is the total result in GB and detailed per project.  
+Calculates the storage usage of the container registry for each project in a given group, the output is the total result in GB and detailed per project.
 
 #### Parameters
 
@@ -645,14 +642,15 @@ irb(main):749:0>  container_registry_storage_usage('some-group') ; nil
 ## FAQ
 
 1. How can I add a function?
-  - With the decision made on [Mechanizer and Hacks Maintenance mode](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299) we won't be adding more functions into the mechanizer
+
+- With the decision made on [Mechanizer and Hacks Maintenance mode](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299) we won't be adding more functions into the mechanizer
+
 1. Can I use other code not available in `support_team.rb`?
-  - Functions and parts of functions from `support_team.rb` can be executed within console as needed. Otherwise, the only time other code should be run is under direction from the Fulfillment development team to help debug or workaround an issue.
+
+- Functions and parts of functions from `support_team.rb` can be executed within console as needed. Otherwise, the only time other code should be run is under direction from the Fulfillment development team to help debug or workaround an issue.
 
 ### Manually changing attributes
 
 We should avoid the editing of live data as much as possible, even a small change could cause a problem later and affect the customer in a bigger way than the original reason for us to do the change.
 The guidance is to only use the functions in `support_team.rb`. If we don't have anything that helps, then a feature request should be opened and prioritized.
 Within the feature request, we can ask for a temporary workaround to the dev team in order for us to be able to act on those requests while the official product enhancement is completed.
-
-

@@ -41,7 +41,7 @@ The Vice President of Ta} is a [grade #12](https://about.gitlab.com/handbook/tot
 
 ## Performance Indicators
 
-- Effective Tax Rate](https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr)
+- Effective Tax Rate](<https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr>)
 - [Budget vs. Actual](https://about.gitlab.com/handbook/tax/performance-indicators/#budget-vs-actual)
 - [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
 - Effective Tax Compliance and Strategic Outlook}
@@ -53,6 +53,7 @@ The next step for the Vice President of Tax job family is not yet defined.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - {* Candidates will be invited to schedule a first interview with our PAO.

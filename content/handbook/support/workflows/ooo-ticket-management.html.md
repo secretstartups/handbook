@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: OOO Ticket Management
 category: Handling tickets
 description: How to manage assigned tickets when going on scheduled PTO
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -24,10 +17,10 @@ Go to the [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/3600623
 1. Use the [OOO Ticket Summary](https://gitlab.com/search?search=360080271299&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar) macro.
 1. Fill in the sections of the internal note with details for your SGG group. It is important that you summarize:
    1. what is the problem to be solved
-   2. what information has been collected
-   3. what actions have been taken
-   4. what progress has been made
-   5. what are the potential next steps, or that you are uncertain what the next steps are
+   1. what information has been collected
+   1. what actions have been taken
+   1. what progress has been made
+   1. what are the potential next steps, or that you are uncertain what the next steps are
 
 Feel free to also ask group members if they can pickup tickets in [other forms of communication](https://about.gitlab.com/handbook/communication/#multimodal-communication), such as Slack, but Zendesk should remain as the single source of truth for tickets that need attention from other group members.
 

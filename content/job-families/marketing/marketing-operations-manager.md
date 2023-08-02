@@ -18,16 +18,19 @@ The Associate Marketing Operations Manager is a [grade 5](https://about.gitlab.c
 #### Responsibilities
 
 Marketing technology
+
 - Learning tools that marketing has in place to act as backup on various systems as needed
 - Provisioning licenses for base entitlements to appropriate GitLab team members
 - Providing oversight on GitLab issues boards - building weekly standup issues, creating biweekly milestone issues to ensure handbook updates are completed, documenting minutes from meetings, and ensuring labels exist on all Marketing issues
 
 Marketing data stewardship
+
 - Assisting with data cleanliness in the various systems, merging like records, researching causes of bugs in order to correct processes
 - Cleansing, enriching and uploading prospect lists from various events
 - Building smart lists in Marketo to aid in geographic and account based marketing efforts
 
 Marketing analysis
+
 - Providing support to team with ad hoc analysis and/or the underlying data as needed
 
 #### Requirements
@@ -53,23 +56,27 @@ The Marketing Operations Manager is a [grade 6](https://about.gitlab.com/handboo
 #### Responsibilities
 
 Marketing technology
+
 - Maintain Marketo’s performance and optimize processes.
 - Create training documentation that guides the marketing team.
 - Train the marketing team on marketing software tools.
 - Audit use of marketing software tools with an eye towards continually improving how they are configured.
 
 Marketing data stewardship
+
 - Be proactive and review functionality, workflow, and updating landing pages.
 - Investigate data quality and continuously improve on data quality.
 - Maintain Marketo database quality, ensure GDPR / CASL compliance.
 
 Marketing data examination
+
 - Assist in measuring and investigating the different tools.
 - Assist key business partners in measuring the effectiveness of marketing campaigns and marketing automation programs.
 
 #### Requirements
 
 All of the above requirements and:
+
 - Two plus years of experience in Marketing Operations or related role.
 - Bachelor's degree.  Is your college degree in French foreign politics with a minor in interpretive dance but you've been selling and marketing products since you were 12!  We understand that your degree isn't the only thing that prepares you as a potential job candidate.
 - Experience with modern marketing and sales development solutions such as Salesforce, LeanData, Bizible, ZoomInfo, RingLead, and Marketo.
@@ -86,6 +93,7 @@ The Senior Marketing Operations Manager is a [grade 7](https://about.gitlab.com/
 #### Responsibilities
 
 All of the above responsibilities and:
+
 - Oversee strategic and operational initiatives across marketing and with other functions to drive performance improvements, continuously enhance the impact of marketing and help the company continue along its fast growth trajectory.
 - Collaborate across functions to structure problems, conduct analysis, and drive to solutions through a rigorous, data-driven process.
 - Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed.
@@ -93,6 +101,7 @@ All of the above responsibilities and:
 #### Requirements
 
 All of the above requirements and:
+
 - Excellent spoken and written English.
 - 5+ years of experience, including more technical expertise.
 - Excellent analytical and problem-solving skills.
@@ -112,6 +121,7 @@ The business need for an individual contributor Staff Manager Marketing Operatio
 #### Responsibilities
 
 All of the above responsibilities and:
+
 - Provide technical and functional knowledge to projects that contribute to overall direction across teams.
 - Collaborate across functions to structure problems, conduct analysis, and drive to solutions through a rigorous, data-driven process.
 - Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed.
@@ -122,6 +132,7 @@ All of the above responsibilities and:
 #### Requirements
 
 All of the above requirements and:
+
 - Can understand and work on complex problems requiring a deep understanding of multiple sources of data to make a recommendation.
 - Exemplary oral and written communication skills, including ability to concisely present project deliverables.
 - Can lead others by sharing solutions and able to facilitate problem-solving with others.
@@ -327,6 +338,7 @@ The Senior Director, Marketing Operations is a grade 11.
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 15 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters after completing our questionnaire provided.
 - A 30 minute interview with future co-worker/s (Marketing Operations Manager)
 - A 45 minute interview with future manager (Director, Marketing Operations)

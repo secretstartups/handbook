@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Support Team Member Time Off
 description: Guidelines for how time off applies to Support team members and what actions need to be taken. Page should not be moved without a Support Global Change Management issue.
 ---
@@ -19,7 +19,6 @@ off*. Nobody should feel pressure or the need to check Slack, email, or anything
 else associated with work during their time off. **Especially when you are taking
 time to be on holiday or to be with family or friends, please, in the timeless
 words of the snow queen, Elsa, "let it go."**
-
 
 ### One-time setup actions
 
@@ -53,7 +52,7 @@ team calendar.
 
 1. Add the calendars for your SGG and your SGG region, to your own calendar.
    1. Click on the Calendar URL link (below) for your SGG calendar. This will open the calendar.
-   1. On the bottom right hand corner of your screen, click on the `Add to Calendar` button 
+   1. On the bottom right hand corner of your screen, click on the `Add to Calendar` button
    1. Repeat for your SGG region calendar
 
 ##### SGG / L&R Calendar links
@@ -64,7 +63,6 @@ team calendar.
 - [Support Kapok ID](https://calendar.google.com/calendar/u/0/embed?src=c_f5ba7f8e8d044db55024a76dac7dc2382ae4ae344245f709af4e39263abdfa69@group.calendar.google.com)| [Support Kapok AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_af21a0d750da1cfbec05f4c23a7b1aedb729174310d3b1678af467202c8adab8@group.calendar.google.com)| [Support Kapok APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_376d033527fa45e61a727e1bad77e6116c54789394b7d0e894e26145349bd5ad@group.calendar.google.com) | [Support Kapok EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_bcb16ffff54860eed1c5e2f0c7b73bb5d8f2ef919e54959baf5f43526ddb8cef@group.calendar.google.com)
 - [Support Maple ID](https://calendar.google.com/calendar/u/0/embed?src=c_9267f798a9ed00f9341979d21fe5a765ba474727bd1734e5e21a341880ab8cef@group.calendar.google.com)| [Support Maple AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_dafae2e5f43c29027e2f1192fcc4c6c4f653f0c3670f016ab4275c903bf2ac4e@group.calendar.google.com)| [Support Maple APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_166c8a69af9b7cc7f50d17d27c953f00675beb597f46e1317f5dbb863d85e0ba@group.calendar.google.com) | [Support Maple EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_c86311c4b592a35fe5f598fdab42facd800c646d4615e7c6af6b230e230f3469@group.calendar.google.com)
 - [Support Pine ID](https://calendar.google.com/calendar/u/0/embed?src=c_cef7cdb1565aed8160b68d5fb227a0d8458c114254bc0cf6341477ff376069f1@group.calendar.google.com)| [Support Pine AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_5fccfa58dd768e2e6bb3159596b503cab508cab65907721c9c786b1ea50622d7@group.calendar.google.com)| [Support Pine APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_7e8a93a17189fc9b38bf5e3a3cc172a6dbe1df0b353f76a3ba94d7c01e436b99@group.calendar.google.com) | [Support Pine EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_6e35e330542a169789e51bf78fd181794124a2779b8c5ea31000802bf44de431@group.calendar.google.com)
-
 
 ## Choosing and recording time off
 
@@ -163,6 +161,7 @@ non-statutory holidays, please follow the same guidelines as you would in [Choos
 Guidance around ticket handling over global holiday time off is slightly different, because of the potentially increased impact on the Support team.
 
 The following peak holidays have the greatest potential to affect coverage:
+
 - Australia Day (26-January)
 - Republic Day (26-January)
 - Anzac Day (25-April)
@@ -173,11 +172,11 @@ The following peak holidays have the greatest potential to affect coverage:
 - Immaculate Conception Day (8-Dec)
 - Christmas Day, St Stephens Day, Boxing Day, New Years Day and Day After New Years (Period between 24-Dec to 2-Jan)
 - Holidays that vary in dates each year that are celebrated in multiple countries:
-   - Easter Sunday (late March to early April)
-   - Easter Monday (late March to early April)
-   - Whit Monday (May or June)
-   - Ascension Day (May)
-   - Labour Day (first Monday in September)
+  - Easter Sunday (late March to early April)
+  - Easter Monday (late March to early April)
+  - Whit Monday (May or June)
+  - Ascension Day (May)
+  - Labour Day (first Monday in September)
 
 ### If you are planning to take time off during peak holidays
 
@@ -190,12 +189,13 @@ Otherwise:
    to ask whether they will need help during your absence. Many of our customers
    might be on the same holiday schedule and will be fine with resuming work on
    a ticket when you both return.
-2. For those tickets that will not require action over the holiday, there is no
+1. For those tickets that will not require action over the holiday, there is no
    special action to be taken.
 
 ### If you are working on a holiday
+
 1. Continue to prioritize FRT first, and then management of your own tickets.
-2. Please pay **extra** attention to NRT on tickets with an assignee who is currently out-of-office.
+1. Please pay **extra** attention to NRT on tickets with an assignee who is currently out-of-office.
 
 ## General Tips
 

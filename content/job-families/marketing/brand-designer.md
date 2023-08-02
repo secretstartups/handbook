@@ -9,7 +9,6 @@ summary: Brand Designers are responsible for ensuring strategic, seamless experi
 
 At GitLab, Brand Designers are responsible for ensuring strategic, seamless experiences - working closely with Marketing, Sales, and Product teams to elevate our global brand and optimize the customer journey end-to-end.
 
-
 ### Responsibilities
 
 - Define and create a visual language as an extension of the brand (illustrations, icons, colors, typography, animations, etc.)
@@ -20,7 +19,6 @@ At GitLab, Brand Designers are responsible for ensuring strategic, seamless expe
 - Collaborate with UX Design to create and maintain a cohesive and consistent brand experience between Marketing and Product.
 - Continually iterate on concepts in an effort to make the brand relevant and relatable to our audience(s).
 - Strong ability to prioritize work and resources across various projects.
-
 
 ### Requirements
 

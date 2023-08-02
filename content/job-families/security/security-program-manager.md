@@ -32,6 +32,7 @@ The role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Intermediate Security Program Manager Responsibilities
 
 All responsibilities listed above (applicalbe to all roles) plus:
+
 - Identify and coordinate the interdependencies among programs, products and other critical initiatives for a single Security sub-departments
 - Provide insight and suggestions to improving security
 - Research and recommend solutions to security concerns and blockers
@@ -55,6 +56,7 @@ The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Senior Security Program Manager Responsibilities
 
 All responsibilities of previous roles plus:
+
 - Identify and coordinate the interdependencies among programs, products and other critical initiatives for 1 or more Security sub-departments
 - Provide insight and suggestions to steer security stategy and roadmap
 - Examine risks associated with programs and prioritize risks accordingly
@@ -65,6 +67,7 @@ All responsibilities of previous roles plus:
 #### Senior Security Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - Experience influencing others without having direct management authority and motivating them to successfully complete tasks within required timelines
 - Risk analysis and problem-solving skills
 - Excellent written and verbal communication skills, building relationships with partners.
@@ -80,6 +83,7 @@ The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Staff Security Program Manager Responsibilities
 
 All responsibilities of previous roles plus:
+
 - Identify and coordinate the interdependencies among programs, products and other critical initiatives across all security sub-departments within our organization
 - Assist defining business requirements and roadmaps in alignment with the overall information security strategy
 - Define acceptance criteria for solutions, value proposition and milestones for execution; Validate prototypes with partners and iterate solutions as needed to deliver value
@@ -89,6 +93,7 @@ All responsibilities of previous roles plus:
 #### Staff Security Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - Advanced technical
 - Advanced understanding of application, development and infrastructure frameworks
 - Advanced anaytical skills for assessing and recommending solutions based on data and research
@@ -104,6 +109,7 @@ The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Principal Security Program Manager Responsibilities
 
 All responsibilities of previous roles plus:
+
 - Expanded sphere of influence in driving security initiatives across the company
 - Ownership and independently driving goals and objectives furthering the security strategy and roadmap
 - Accountable and responsible for overflow responsibilities from senior security leadership (VP and Director level)
@@ -112,9 +118,9 @@ All responsibilities of previous roles plus:
 #### Principal Security Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - Influence and implement change across the company
 - Speak to and represent GitLab to customers, media and other external stakeholders
-
 
 ## Segment
 
@@ -137,6 +143,7 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 1. Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 1. Candidates will be invited to schedule a 50-minute interview directly with the VP of Security.
 1. Candidates will be invited to schedule 2-3 separate 50-minute interviews with Directors of Security sub-departments.
@@ -144,4 +151,3 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Candidates may be asked to schedule a final 30-minute discussion with the VP of Security.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

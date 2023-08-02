@@ -5,12 +5,6 @@ description: "Support process for weekend license emergencies"
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
-
-# Weekend Emergencies - License Request
-
 ## Overview
 
 There are times when a customer submits an emergency support request for a new
@@ -43,7 +37,7 @@ License requests for a customer with a **paid** plan, where the license's "grace
     - Admin Area -> Overview -> Dashboard
     - The license page from Admin Area -> License (in newer versions, may say subscription)
 1. Add the screenshots to the ticket
-1. Go to the Mechanizer ZenDesk App, from the ticket in the right side bar. 
+1. Go to the Mechanizer ZenDesk App, from the ticket in the right side bar.
 1. Enter your username and the user count for the license based on information from the screenshot
 1. Enter the email address of the person who opened the ticket
 1. The tool will generate and email to the customer a 5-day trial license for the given user count
@@ -60,4 +54,3 @@ License requests for a customer with a **paid** plan, where the license's "grace
    there aren't any closed issues, you can look for an open issue which will
    have information about the failure. If you find it and no license was
    generated, you can use the tool again to generate another license.
-

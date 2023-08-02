@@ -59,6 +59,7 @@ The Senior Director, People Success is a [grade 11](https://about.gitlab.com/han
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director, People Operations
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and People Partner teams

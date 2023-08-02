@@ -3,7 +3,7 @@ title: "Professional Services Practice Engineer"
 description: "The GitLab Professional Services Consulting Practice organization defines and matures the consulting services offered by GitLab Professional Services and Partner organizations."
 ---
 
-The GitLab Professional Services Consulting Practice organization defines and matures the consulting services offered by GitLab Professional Services (PS) and Partner organizations with a focus on creating long-term success for their customers. The Professional Services Practice Engineer plays a fundamental role in the success of the consulting practice by building and maturing the software and automation that these practices rely upon. The Practice Engineer's direct customers are the PS and Partner consultants who will be using the software during customer engagements. However, the Practice Engineer's goals are aligned with the overall Customer Success organization to maximize value and Customer satisfaction.  
+The GitLab Professional Services Consulting Practice organization defines and matures the consulting services offered by GitLab Professional Services (PS) and Partner organizations with a focus on creating long-term success for their customers. The Professional Services Practice Engineer plays a fundamental role in the success of the consulting practice by building and maturing the software and automation that these practices rely upon. The Practice Engineer's direct customers are the PS and Partner consultants who will be using the software during customer engagements. However, the Practice Engineer's goals are aligned with the overall Customer Success organization to maximize value and Customer satisfaction.
 
 To learn more, see the [Professional Services Engineering handbook](https://about.gitlab.com/handbook/customer-success/professional-services-engineering)
 
@@ -34,7 +34,7 @@ The Senior Professional Services Practice Engineer is a [grade 7](https://about.
 #### Senior Practice Engineer Requirements
 
 - Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-- Demonstrated progressive relevant experience in building automation software in a collaborative environment.  
+- Demonstrated progressive relevant experience in building automation software in a collaborative environment.
 - Deep understanding of- and hands on experience with- git and GitLab.
 - Demonstrated progressive experience in writing software using a majority of the following technologies: Python, Javascript, MongoDB, REST and GraphQL APIs, Ansible, Terraform, Docker, YML, and JSON.
 - Experience in leading and/or delivering multiple concurrent development efforts.
@@ -52,9 +52,9 @@ The Senior Professional Services Practice Engineer is a [grade 7](https://about.
 
 ## Performance Indicators
 
- - Overall Customer Satisfaction
- - Total number of Professional Services Engineers and Partners enabled per service category
- - Number of contributions to Professional Services Automation and Tooling
+- Overall Customer Satisfaction
+- Total number of Professional Services Engineers and Partners enabled per service category
+- Number of contributions to Professional Services Automation and Tooling
 
 ## Career Ladder
 
@@ -65,6 +65,6 @@ The next steps for the Professional Services Practice Manager Job Family would b
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member.
-2. Video Interview with the Hiring Manager to outline take home assignment.
-3. Team Interviews with 1-4 team members
+1. Video Interview with the Hiring Manager to outline take home assignment.
+1. Team Interviews with 1-4 team members
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

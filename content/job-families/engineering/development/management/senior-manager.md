@@ -14,9 +14,9 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 - Plan and execute long term strategies that benefit your team and the product stage(s)
 - Understand [Engineering KPIs](https://about.gitlab.com/handbook/engineering/performance-indicators/#key-performance-indicators) and seek to improve them
 - Lead and drive significant results for multiple teams. Examples include, but are not limited to:
-    - Managing 3 or more [engineering teams](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams) with at least three engineering manager direct reports.
-    - Managing two or more [engineering teams](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams) with individual contributor direct reports.
-    - Leading business critical cross-functional initiatives in addition to managing a team.
+  - Managing 3 or more [engineering teams](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams) with at least three engineering manager direct reports.
+  - Managing two or more [engineering teams](https://about.gitlab.com/handbook/engineering/#engineering-departments-sub-departments--teams) with individual contributor direct reports.
+  - Leading business critical cross-functional initiatives in addition to managing a team.
 - Conduct managerial interviews for candidates, and train engineering managers to do managerial interviews
 - Generate and implement process improvements, especially cross-team processes
 - Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team members and [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/) 1:1s with indirect reports

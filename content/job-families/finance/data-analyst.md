@@ -38,6 +38,7 @@ Read more about this role in the [Data Analytics Handbook Page](https://about.gi
 
 An intern is not required to meet the base Data Analyst responsibilities and requirements, but is required to be interested in developing in towards them.
 An intern must:
+
 - Have a track record of asking hard questions and thinking critically
 - Self-starter committed to remote work and its intricacies
 - Proactive, positive, energetic, customer service personality
@@ -90,7 +91,6 @@ The responsibilities of the Data Analyst extend the Junior Data Analyst role and
 - Serve as a Subject Matter Expert (SME) in one or more [Data Sources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
 - Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
 - Approve data model changes as a Data Team Reviewer and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
-
 
 #### Data Analyst (Intermediate) Requirements
 
@@ -224,14 +224,13 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 - Report on marketing site growth from SEO and paid search.
 - Troubleshoot and formulate solutions to issues with SEO and site lead flow.
 - Evaluate and report data across multiple channels to monitor marketing site growth.
-_Additional Requirements_
+*Additional Requirements*
 - 3+ years in Search Engine Marketing role
 - 1-3 years of enterprise software marketing experience.
 - 3+ years experience Google Analytics (or related tool), Google Search Console and experience with at least one SEO tool.
 - Technical/industry experience focused on SEO online advertising to improve lead generation, sales pipeline, and revenue.
 - Reports to [Director of Marketing Strategy and Performance](/job-families/marketing/marketing-strategy/#director-marketing-strategy) working closely with the Chief Marketing Officer
 - Member of the [Marketing Strategy and Performance Team](https://about.gitlab.com/handbook/marketing/strategy-performance/)
-
 
 ### People
 
@@ -258,6 +257,5 @@ The next step in the Data Analyst job family is to move to the [Data Management]
 - Next, candidates will be invited to schedule a second interview with the business division DRI
 - Next, candidates will be invited to schedule a third interview with one a member from our Data team
 - Next, candidates will be invited to schedule a fourth interview with a specialty Engineering manager
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

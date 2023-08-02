@@ -4,7 +4,7 @@ title: "GoLand"
 
 ## Overview
 
-Website: https://www.jetbrains.com/go/
+Website: <https://www.jetbrains.com/go/>
 
 Best for: Applications written primarily in Go.
 

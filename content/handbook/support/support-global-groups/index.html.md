@@ -1,10 +1,7 @@
 ---
-layout: handbook-page-toc
 title: Support Global Groups
 description: Support Global Groups main page
 ---
-
-# Introduction to Support Global Groups
 
 The Support Global Groups way of working is based on the knowledge that people are much
 more successful when working in small self-organizing groups than when working in large ones.
@@ -18,7 +15,7 @@ to create for all Support Engineers a smaller, safer space for belonging,
 which still maintains their full access to the support, knowledge and
 experience of our global Support Team. Another important aspect of SGG is that
 it provides for each SE a less intimidating, easier to grasp, more manageable
-set of work for which they share responsibility with their small, close group. 
+set of work for which they share responsibility with their small, close group.
 
 In this environment, we have observed and received feedback from
 our Support Engineers during SGG trials that they feel less
@@ -30,12 +27,6 @@ as a strong foundation for success as the Support Team continues to scale.
 For a little more of an introduction to SGG, please see this 9-minute
 [video](https://youtu.be/BvYiQkNJOno) created by four Support Engineers who
 participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## SGG Basics
 
@@ -85,13 +76,13 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
   - a link to the Support Team page showing the group's membership
   - a link to a permanent Zoom room for that group to use in collaborating
 
-##### Daily Stand-up Bot 
+##### Daily Stand-up Bot
 
-The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot) Daily Stand-up posts each morning for each region regularly, in a number of channels to advise global groups of different information. For further details of the different variations, please refer to the SGG handbook page of the group you are curious about. 
+The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-software/sgg-slackbot) Daily Stand-up posts each morning for each region regularly, in a number of channels to advise global groups of different information. For further details of the different variations, please refer to the SGG handbook page of the group you are curious about.
 
-###### Daily Stand-up Bot for Licensing and Renewals in APAC 
+###### Daily Stand-up Bot for Licensing and Renewals in APAC
 
-In the APAC region, team members who have a shared focus on the Licensing and Renewals work also utilises the Daily Stand-up Bot, posted to the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack, which supports them in ensuring support coverage reliability of the Licensing and Renewal tickets across APAC [Support hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours). 
+In the APAC region, team members who have a shared focus on the Licensing and Renewals work also utilises the Daily Stand-up Bot, posted to the [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ) channel in Slack, which supports them in ensuring support coverage reliability of the Licensing and Renewal tickets across APAC [Support hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours).
 
 ###### Modifying your group's Daily Stand-up Bot
 
@@ -106,7 +97,7 @@ group. <<<<<<<<**
 
 ---
 
-#### "Success of their group" means:
+#### "Success of their group" means
 
 - Achieving our [target](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
   of delivering a meaningful first response on tickets assigned to the group
@@ -128,8 +119,8 @@ group. <<<<<<<<**
   - Asking for manager help in the #spt_gg_forest Slack channel
   - Initiating a [branch out session](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html) to ask other groups for help
 - All group members participating in onboarding new group members
-  to ensure that newcomers feel comfortable asking questions. 
-  The group can decide how they want to approach it. 
+  to ensure that newcomers feel comfortable asking questions.
+  The group can decide how they want to approach it.
   This can include things like:
   - regular group crush/pairing/coffee chat sessions
   - identifying tickets that would help push a new group member out of their comfort zone
@@ -148,7 +139,7 @@ Each Intermediate and Senior Support Engineer should generally be prioritizing t
 work according to the following list. Interviews, training, special assignments
 and other time-bound commitments are examples of good temporary exceptions to
 these priorities. Your group might also determine a different workflow or
-distribution of work that would create a different prioritized list. 
+distribution of work that would create a different prioritized list.
 
 You should think of this list as a tool for helping you to make decisions. When
 there are multiple things to be done, these priorities should guide you toward
@@ -179,8 +170,8 @@ deciding which of them to do first.
    - issue creation or contributions
    - training
 1. Help on tickets within your [Support Pods](/handbook/support/workflows/working-with-pods.html) (if applicable) by:
-  1. posting an internal note with relevant helpful information, OR
-  1. asking the assignee if they'd like to pair on the ticket
+1. posting an internal note with relevant helpful information, OR
+1. asking the assignee if they'd like to pair on the ticket
 1. Help on tickets outside of FlexiPods and assigned to other groups (Seniors may recognize if other groups are struggling and can decide if a group has the capacity to help)
 
 #### Maximizing group success
@@ -198,7 +189,7 @@ deciding which of them to do first.
   - find out who is in today, and talk about covering for those who are out
   - decide who will keep an eye on the queue and when
 - Get organized - initiate and participate in conversations about things like:
-  - how the group will manage tickets and the queue when group members are 
+  - how the group will manage tickets and the queue when group members are
     on PTO or have other commitments
   - how to handle preferred region in tickets
 
@@ -208,6 +199,7 @@ We are all part of a global team of 100+ support engineers and in
 SGG we have the benefit of both working in a small familiar group
 and of the broad experience and expertise of our full global team.
 Flexipods is one example of cross-group collaboration, some others are:
+
 - pairing sessions
 - crush sessions (including [branch out sessions](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html))
 - sharing questions to a broader audience in #support_gitlab-com and

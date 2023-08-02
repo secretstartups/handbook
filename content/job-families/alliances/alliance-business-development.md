@@ -209,6 +209,7 @@ The Senior Director Alliance Business Development is a [grade 11](https://about.
 ### Senior Director Alliance Business Development Responsibilities
 
 In addition to the responsibilities and requirements of the Director Alliance Business Development, the Senior Director Alliance Business Development includes the following:
+
 - Execution of day-to-day co-selling motion between Gitlab and strategic cloud partner field sellers.
 - Ensure that any strategic cloud partner incentives are positioned accurately and used appropriately.
 - Facilitate initial co-sell meetings between Gitlab sellers and strategic cloud partner sellers.

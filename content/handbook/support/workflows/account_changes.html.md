@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Making Changes and Taking Actions on an Account
 category: GitLab.com
 subcategory: Accounts
 description: "Workflow for when and how to make account changes on behalf of a customer"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -34,7 +30,7 @@ If in doubt, please ask a Support manager to review.
 
 In cases where Support needs to take action on the project or group, such as for troubleshooting purposes, Support should do two things:
 
-1. Verify the user is a group _Owner_ or project _Maintainer_. Otherwise, ask the user to have an owner/maintainer contact us.
+1. Verify the user is a group *Owner* or project *Maintainer*. Otherwise, ask the user to have an owner/maintainer contact us.
 1. Ask for permission to take action. See the [Asking Permission](#asking-permission) section below.
 1. Consider adding an [Admin Note](/handbook/support/workflows/admin_note.html) to the group admin page if Support may need to know the action was taken in the future.
 
@@ -62,7 +58,7 @@ Example cases include:
 
 Similar to **Account Access Requests**, if a user has lost access to their account and the account shows **no activity** in its history, then we can consider releasing the email address for the user to create a new account with.
 
-We can also use this workflow when a user cannot add an email address to their account because it is on a different account _and_ is unverified. This often happens if a user has accidentally created an account using one of the single sign-on registration methods or cannot recall creating the account.
+We can also use this workflow when a user cannot add an email address to their account because it is on a different account *and* is unverified. This often happens if a user has accidentally created an account using one of the single sign-on registration methods or cannot recall creating the account.
 
 For more information on unverified/unconfirmed accounts, please see the [confirmation emails](confirmation_emails.html) workflow.
 
@@ -76,8 +72,8 @@ Check the user's activity page:
 
 1. If an account shows any activity tied to any type of contribution (such as snippets, or comments in a project or group), use the [Account Ownership Verification](account_verification.html) workflow to verify ownership.
 1. If the account shows **no** activity:
-  1. Confirm that the email address the user is trying to add exists on a different account.
-  1. Verify that the account shows **no activity** and is not a member of any projects or groups. Additionally, confirm that the following are true:
+1. Confirm that the email address the user is trying to add exists on a different account.
+1. Verify that the account shows **no activity** and is not a member of any projects or groups. Additionally, confirm that the following are true:
       - The user is unverified
       - The user has never logged in
       - The user has no data (No groups or projects)

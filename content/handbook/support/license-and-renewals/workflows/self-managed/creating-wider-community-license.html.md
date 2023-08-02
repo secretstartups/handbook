@@ -5,9 +5,6 @@ description: "How to create a wider community license"
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 ## Overview
 

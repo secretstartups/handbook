@@ -41,7 +41,6 @@ The Manager, Infrastructure is a [grade 8](https://about.gitlab.com/handbook/tot
 - Startup experience
 - Passion towards and/or significant open source contributions
 
-
 ### Performance Indicators
 
 The Manager, Infrastructure contributes to the success of [Infrastructure Performance Indicators](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators).
@@ -140,7 +139,6 @@ The Senior Engineering Manager, Infrastructure is a [grade 9](https://about.gitl
 - Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
 
-
 #### Senior Engineering Manager, Delivery and Scalability Requirements
 
 - Technical credibility: Past experience as a product engineer and managing teams thereof
@@ -196,7 +194,7 @@ The Director, Infrastructure is a [grade 10](https://about.gitlab.com/handbook/t
 - Enterprise software company experience
 - Approach challenges with a growth mindset
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Candidates with diverse experience and backgrounds
 - Prior remote work experience
@@ -232,7 +230,7 @@ The Senior Director, Infrastructure is a [grade 11](https://about.gitlab.com/han
 - Enterprise software company experience
 - Approach challenges with a growth mindset
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Prior remote work experience
 - Significant open source contributions

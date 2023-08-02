@@ -106,7 +106,6 @@ The Director, Sales Systems is a [grade 10](https://about.gitlab.com/handbook/to
 - Share and work in accordance with our [values](/handbook/values/).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
-
 ## Senior Director, Sales Systems
 
 ### Job Grade
@@ -126,7 +125,6 @@ The Senior Director, Sales Systems is a [grade 11](https://about.gitlab.com/hand
 - Drive strategy and execution of documentating team processes in the Sales Systems and Go-To-Market handbook pages.
 - Assist in annual planning and budgeting as it relates to personnel, programs and all Field Sales software tools.
 
-
 ### Requirements
 
 - B.S. Degree in Computer Science, Information Systems, or related area.
@@ -141,8 +139,6 @@ The Senior Director, Sales Systems is a [grade 11](https://about.gitlab.com/hand
 - Drive the utilization of the GitLab product for internal project management and collaboration.
 - Share and work in accordance with our [values](/handbook/values/).
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
-
-
 
 ## Performance Indicators
 
@@ -164,4 +160,5 @@ The next steps for the Sales Systems Leadership Job Family has not been defined 
 - An optional final interview with a C level Executive may occur
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+
 - Successful candidates will subsequently be made an offer via email

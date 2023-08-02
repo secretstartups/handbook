@@ -1,16 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: DMCA Removal Requests
 category: GitLab.com
 subcategory: Legal
 description: "Support Engineering workflow for DMCA requests"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Workflow change March 2019
 
@@ -20,13 +16,13 @@ Read more about the DMCA Workflow here: Abuse DMCA Request (TBD).
 
 ## Submitting a DMCA Request
 
-All new `DMCA` requests can be sent to dmca@gitlab.com for review by Legal and Abuse.
+All new `DMCA` requests can be sent to <dmca@gitlab.com> for review by Legal and Abuse.
 
-The Abuse team will continue to maintain a single channel of communication with the requestor through the open `Abuse Issue` created when the request is received via dmca@gitlab.com.
+The Abuse team will continue to maintain a single channel of communication with the requestor through the open `Abuse Issue` created when the request is received via <dmca@gitlab.com>.
 
 ## DMCA Requirements
 
-Recommended template of requirements when submitting a DMCA request to dmca@gitlab.com
+Recommended template of requirements when submitting a DMCA request to <dmca@gitlab.com>
 
 1. A description of the copyrighted work that you claim is being infringed;
 1. A description of the material you claim is infringing and that you want removed or access to which you want disabled and the URL or other location of that material;

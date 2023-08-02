@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Satisfaction (SSAT) review and responding (for Managers)
 category: Handling tickets
 subcategory: Writing responses and handling feedback
 description: Discusses the Support Team's Support Satisfaction review process, and actions which Managers take to respond to customer feedback
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 To understand the factors contributing to [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat),
 we review feedback received for support tickets. Issues are automatically
@@ -19,10 +12,10 @@ created in the [Feedback issue tracker](https://gitlab.com/gitlab-com/support/fe
 
 **NOTE:** The following categories of tickets do **not** receive surveys:
 
-* Spam tickets (ones marked as spam and suspended)
-* Free user tickets (ones containing the tag `free_customer`)
-* Embargo tickets (ones containing the tag `com_embargo`)
-* Tickets with the organization `GitLab` or `DigitalOcean Support`
+- Spam tickets (ones marked as spam and suspended)
+- Free user tickets (ones containing the tag `free_customer`)
+- Embargo tickets (ones containing the tag `com_embargo`)
+- Tickets with the organization `GitLab` or `DigitalOcean Support`
 
 ## Subscribing to Customer Feedback Issues
 
@@ -65,7 +58,6 @@ Currently, the following methods create feedback issues for review:
 1. GitLab team members (such as CSMs and Sales team) can open an [Indirect Feedback](https://gitlab.com/gitlab-com/support/feedback/-/issues/new?issuable_template=Indirect+Feedback) issue with details they received from the customer.
 1. Any issue requiring contact can also be identified by applying the `SSAT::Contact` label. In the Description or in a Comment, specify that manager contact was requested.
 
-
 ### What does success look like?
 
 At the end of your rotation:
@@ -90,6 +82,7 @@ Our [Feedback and Complaints handbook page](https://about.gitlab.com/handbook/su
 ## Handling "Good" Reviews
 
 For each feedback issue labeled "satisfaction::good":
+
 1. read through the feedback and check for anything **actionable** - sometimes customers provide really good actionable feedback in positive reviews
 1. consider sharing the feedback in the Support Week in Review document (see below)
 1. if no further action is needed, `/close` the Feedback Issue.
@@ -118,6 +111,7 @@ When selecting feedback to share, you don't need to share every piece of positiv
 #### Formatting feedback in SWIR issue
 
 When adding the comment to the SSAT issue in the `support-week-in-review` tracker, feel free to use markdown formatting. If you wish to use headers (`#`) please
+
 - use H4 (`####`) or lower
 - be aware that headers will be included in the table of contents in the issue
 
@@ -128,8 +122,9 @@ Generally, include the ticket number with a link to the ticket, the comment from
 The [`populate_ssat` job](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/#populate_ssat) in the `support-week-in-review` tracker will automatically collect open issues labeled with `~"satisfaction::good"` and append a nicely formatted version to the open SSAT issue.
 
 To run this job:
+
 1. Create a new pipeline by going to CI/CD -> Pipelines -> Run Pipeline
-2. Click the "Play" button on the manual `populate_ssat` job
+1. Click the "Play" button on the manual `populate_ssat` job
 
 You can safely re-run this task as many times as you'd like as it will append to the issue.
 
@@ -146,7 +141,7 @@ You should document your finding and any follow-up actions taken in the issue.
 You may use the following template to add a comment to the feedback issue (NOT the
 ticket!):
 
-```
+```text
 * **Summary of ticket/feedback:**
 * **Action to be taken:**
 * **Contact customer to discuss feedback? (Y/N)**
@@ -192,12 +187,10 @@ that best describes the situation:
 | `~ffeedback::extended-TTR-due-to-troubleshooting` | The ticket time to resolve was extended due to troubleshooting requirements of the issue |
 | `~feedback::extended-TTR-caused by-technical-complexity` | The ticket time to resolve was extended due to the technical complexity of the issue |
 
-
 **Note:** For the full list of feedback labels and their descriptions, visit the [labels page in the support-feedback project](https://gitlab.com/gitlab-com/support/feedback/-/labels?utf8=%E2%9C%93&subscribed=&search=feedback%3A%3A).
 
 This is important to help Support understand and respond to Support Satisfaction
 trends.
-
 
 #### If there is action to be taken
 
@@ -211,7 +204,6 @@ Examples of possible actions:
 - Tag a product group for awareness (some negative feedback is product related)
 
 If further discussion is warranted, leave the Feedback Issue open. Otherwise, `/close` it.
-
 
 #### If the customer should be contacted
 
@@ -227,10 +219,10 @@ If you believe the customer should be contacted following completion of a closed
    1. Responding directly on the Zendesk ticket. This is appropriate if you
       determine that the ticket was not adequately resolved and work should be
       continued.
-      * If reopening a ticket, make sure that you assign and brief a support
+      - If reopening a ticket, make sure that you assign and brief a support
         engineer (typically the existing assignee) on the next actions to be
         taken.
-      * Note that reopening a closed or solved ticket affects
+      - Note that reopening a closed or solved ticket affects
         measurements of reopen rate and time to resolution.
 1. When reaching out to the customer, make sure you do the following:
    1. introduce yourself, describing who you are and your role at GitLab

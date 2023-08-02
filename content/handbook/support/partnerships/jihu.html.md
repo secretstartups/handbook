@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: JiHu Partnership
 description: "Support specific information for the JiHu partnership"
 ---
@@ -23,5 +23,5 @@ This opens the ticket in the JiHu form in zendesk.
 When JiHu Partnership members need to send files to GitLab Support, we have 2
 methods available to them:
 
-* Standard ticket uploads (20MB max)
-* [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)
+- Standard ticket uploads (20MB max)
+- [Support Uploader](https://about.gitlab.com/support/providing-large-files/#support-uploader)

@@ -1,17 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Working with US Federal tickets
 category: Handling tickets
 description: "Support Engineering workflow detailing how to work on US Federal Tickets"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
- - TOC
-{:toc .hidden-md .hidden-lg}
-
-# Working on US Federal Tickets
 
 US Federal Support generally follows the [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
 
@@ -39,7 +30,7 @@ When pairing over video chat, be sure you only pair with engineers that have acc
 
 When providing links to documentation, it's possible an organization's mail server may strip embedded links prior to delivering the ticket update to the receiver. In order to continue to provide our documentation to customers, consider using an identifier in the reply body, then "footnotes" towards the end of the ticket. For example:
 
-```
+```text
 This is the ticket reply body where we are talking docs Title of documentation Page(1). Here's some more documentation that's relevant, Title of documentation page (2).
 
 ---
@@ -67,8 +58,8 @@ You may leverage links to records in controlled access systems such as Salesforc
 
 Examples:
 
-- "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
-- "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF"
+- "This user <https://gitlab-federal-support.zendesk.com/users/398443026291/> is struggling with Geo setup..."
+- "The person who submitted the case that got bounced back is a member of this organization: <https://gitlab.my.salesforce.com/0014M00001hHHKF>"
 
 The use of an acronym to discuss an organization is **not permitted** in either `#spt_us-federal` or `#feed_zd-federal` channels to prevent disclosure of sensitive information.
 
@@ -86,15 +77,15 @@ Tickets are assigned as they come in based on [a round-robin tool built by Suppo
 
 When you are out of the "office" or otherwise unable to handle more tickets, it is important to set your gitlab.com status to one of the above options. Please use the "Clear status after" option to ensure your status does not accidently remain in an unavailable state.
 
-- You can set your status manually from the user interface: https://docs.gitlab.com/ee/user/profile/#set-your-current-status.
-- Or you can set it through a script using the API: https://docs.gitlab.com/ee/api/users.html#set-user-status.
+- You can set your status manually from the user interface: <https://docs.gitlab.com/ee/user/profile/#set-your-current-status>.
+- Or you can set it through a script using the API: <https://docs.gitlab.com/ee/api/users.html#set-user-status>.
 
 ### Consolidating assignment for org tickets at the same time
 
 In some cases, a single requester or org may create multiple tickets within a short period (a day or two) that will get round-robin assigned to multiple support engineers. Splitting the work in this way can lead to duplicated work as multiple engineers ask for similar files and try to build the same context around the environment and any recent changes. To avoid this, a method for grouping these tickets under a single assignee goes as following:
 
 1. A customer creates more than one ticket in a day or two, those tickets are round-robin assigned.
-1. Those support engineers who were assigned tickets from this customer discuss in Slack or in a crush session the tickets to determine if they are _probably_ about the same environment.
+1. Those support engineers who were assigned tickets from this customer discuss in Slack or in a crush session the tickets to determine if they are *probably* about the same environment.
 1. One of the support engineers agrees to take assignment of all this customer's tickets created during this period (may take on new tickets if created shortly after).
 1. That engineer marks themselves as overburdened to be taken out of the round-robin until the engineer decides they are ready to take on new tickets.
 1. If new tickets come in from the same customer shortly after an engineer has taken ownership of other tickets, the new tickets should be reviewed to determine if they fit in the same environment. If they do, the engineer should take ownership of them as well. This will probably extend the time that engineer is out of the round-robin.

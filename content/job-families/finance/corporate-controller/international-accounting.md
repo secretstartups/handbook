@@ -5,7 +5,6 @@ description: " _add high level description of job family_ "
 
 ### Manager, Accounting, Global Consolidation & Reporting
 
-
 This role report to Director or Senior Director, International Accounting
 
 #### Manager, Accounting, Global Consolidation & Reporting Job Grade
@@ -44,13 +43,6 @@ Manager, Accounting, Global Consolidation & Reporting is a grade [8].
 - Efficiencies in the process with automation
 - Clean intercompany balances
 
-
-
-
-
-
-
-
 ### Director, International Accounting
 
 The Director, International Accounting  is responsible for the leadership, strategy, and execution of International Accounting, including developing policies and procedures to enable the attainment of key corporate and business objectives.
@@ -83,7 +75,6 @@ The Director, International Accounting is a [10](https://about.gitlab.com/handbo
 - Managing India entity
 - Implement internal controls and maintain SOX compliance
 
-
 #### Director, International Accounting Requirements
 
 - 15+ years of progressive growth in financial management roles in high growth companies, Software/SaaS industry experience is preferred
@@ -93,16 +84,12 @@ The Director, International Accounting is a [10](https://about.gitlab.com/handbo
 - Leadership at GitLab
 - Ability to use GitLab
 
-
 #### Director, International Accounting Performance Indicators
 
 - Stat audit completion on time
 - Value adding and building efficiencies on cross-functional relationships within the company in setting up new foreign entities
 - Clean inter-company transactions and processes, including compliance with Inter-company Transfer Pricing agreements, as well as the completeness and accuracy of the Inter-company accounts, and eliminations
 - Improvement of automation and efficiency in the consolidation and reporting process
-
-
-
 
 ### Senior Director, International Accounting
 
@@ -140,7 +127,6 @@ The Senior Director, International Accounting is a [11](https://about.gitlab.com
 - Implement and streamline accounting policies and procedures, as well as reporting functions
 - Collaborate closely with key stakeholders, internal/external customers, IT and Operations daily
 
-
 #### Senior Director, Corporate Controller Requirements
 
 - 20+ years of progressive growth in financial management roles in high growth companies, Software/SaaS industry experience is preferred
@@ -150,14 +136,12 @@ The Senior Director, International Accounting is a [11](https://about.gitlab.com
 - Leadership at GitLab
 - Ability to use GitLab
 
-
 #### Senior Director, Corporate Controller Performance Indicators
 
 - Stat audit completion on time
 - Value adding and building efficiencies on cross-functional relationships within the company in setting up new foreign entities
 - Clean inter-company transactions and processes, including compliance with Inter-company Transfer Pricing agreements, as well as the completeness and accuracy of the Inter-company accounts, and eliminations
 - Improvement of automation and efficiency in the consolidation and reporting process
-
 
 ## Career Ladder
 
@@ -172,8 +156,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-
-

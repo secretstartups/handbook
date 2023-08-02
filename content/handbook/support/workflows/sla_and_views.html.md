@@ -1,17 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Ensuring correct SLA and Zendesk views
 description: "A walk through of verifying and if needed, correcting the SLA on tickets, and visibility in the correct Zendesk view."
 category: Handling tickets
 subcategory: Triaging
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Purpose of this page
 
@@ -82,6 +77,7 @@ follow this process to verify and fix the issue.
   Prepending your message with your name and role (e.g. `John Doe (Support Engineer):`
   helps as everyone in Support is using a shared account so it is not possible to
   deduce who sent which message.
+
 1. Once you follow the above procedure, mention that in the internal note of the
 ticket (with SFDC link) so that others can pick up from where you
 left off.
@@ -103,7 +99,9 @@ For the specific ticket:
 1. Find `Tags` field where all the tags are listed.
 1. Click `x` next to `former_customer` and `expired` tags to remove them.
 1. Start typing the appropriate tag name and select the appropriate tag.
-  - For example, if it is a customer with Bronze subscription, type `bronze` in `Tags` field.
+
+- For example, if it is a customer with Bronze subscription, type `bronze` in `Tags` field.
+
 1. After making sure that tags are updated correctly, submit the ticket to apply the changes.
 
 ![Updating tags in a ticket](/images/handbook/support/zendesk_updating_tags.gif)
@@ -155,7 +153,7 @@ Alternatively, add the email of the customer to CC.
 
 Please reply (or let the assignee know), including a note to let the customer that a CC has been added to the ticket. For example:
 
-> We got a note from John with email address john@domain.org. From the context it looks like they should be included in the ticket, so for convenience I added them to the CC list. If they shouldn't be included, please let us know so we can remove them.`
+> We got a note from John with email address <john@domain.org>. From the context it looks like they should be included in the ticket, so for convenience I added them to the CC list. If they shouldn't be included, please let us know so we can remove them.`
 
 After that, the cc'ed user's next replies will not be marked as internal anymore.
 
@@ -193,8 +191,8 @@ In cases where a ticket is showing in the wrong queue:
 1. If it looks to be a valid customer or there are multiple [SLA tags](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/),
 follow the [multiple subscription org instructions](#organizations-with-multiple-subscriptions).
 1. If the customer only has a single subscription and *not* one related to the form they selected:
-  1. Remove the [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/).
-  1. Follow the [identifying customers instructions](associating_needs_org_tickets_with_orgs.html#identifying-customers) and treat as a `prospect`.
+1. Remove the [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/).
+1. Follow the [identifying customers instructions](associating_needs_org_tickets_with_orgs.html#identifying-customers) and treat as a `prospect`.
 
 ## Get help
 

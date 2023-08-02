@@ -5,9 +5,6 @@ description: "How to create a GitLab license key"
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 ## Overview
 
@@ -19,7 +16,6 @@ and refer that your role entitles you to access with
 [this link](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/department_customer_support/role_support_engineer.md).
 
 ### License types
-
 
 An overview of the different licenses types can be seen in this [handbook page](https://internal.gitlab.com/handbook/product/fulfillment/definitions/#licensing-terms) (internal only).
 
@@ -41,7 +37,7 @@ To re-issue a license:
    **Note:** Only Legacy Licenses can be duplicated as of today.
 1. Select the correct license type (see [License Type Overview](#license-types) for more info).
 1. Modify the values you need. Be careful not to change the `Customer` field.
-   **Note:** Changing the `Customer` causes the inputs for name, email and company to be overriden on creation with the selected customer's information. This is a bug that will be addressed in https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3566.
+   **Note:** Changing the `Customer` causes the inputs for name, email and company to be overriden on creation with the selected customer's information. This is a bug that will be addressed in <https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3566>.
 1. In the `Notes` field, describe why you're issuing this license and add a link
    to the Zendesk ticket or GitLab issue for the request if applicable.
       - If working on a Gitlab issue, add the label `Manually Generate Trial License` (for trials) or `Manually Generate License`.
@@ -58,6 +54,7 @@ When an existing license isn't available to duplicate, use the [create new licen
 To create a new license, click `Add new License` then follow the process listed below for creating a [Legacy License](#create-a-legacy-license) or [Offline Cloud License](#create-an-offline-cloud-license).
 
 **Note:**
+
 - Depending on the selected license type, different fields are required. Please see the required fields section
   for each license type for more information.
 - When filling in the Zuora subscription ID (depending on the type's requirement), the subscription's existence is checked against Zuora and will fail if it's not found.
@@ -77,6 +74,7 @@ To create a new license, click `Add new License` then follow the process listed 
 ##### Required fields
 
 Currently the following fields are required for a Legacy License:
+
 - `License type`
 - `Name`
 - `Company`
@@ -87,6 +85,7 @@ Currently the following fields are required for a Legacy License:
 - `Expires at`
 
 Required to be filled by Support:
+
 - `Customer`
 - `Zuora subscription ID`
 - `Notes`
@@ -94,6 +93,7 @@ Required to be filled by Support:
 #### Create an Offline Cloud License
 
 When creating an Offline License, the following has to be present beforehand:
+
 - The filled in Zuora subscription has to be cloud license compatible (the `Turn on seat reconciliation` field is present).
 - The filled in Zuora subscription has to be an Offline Cloud License or a disabled Cloud License (`Turn On Cloud Licensing` set to `Offline` or `No`).
 - An activation code has to exist for the subscription (usually created via a callback to CustomersDot when the Zuora subscription is created).
@@ -112,6 +112,7 @@ When creating an Offline License, the following has to be present beforehand:
 ##### Required fields
 
 Currently the following fields are required for an Offline Cloud License:
+
 - `License type`
 - `Customer`
 - `Name`
@@ -124,6 +125,7 @@ Currently the following fields are required for an Offline Cloud License:
 - `Expires at`
 
 Required to be filled by Support:
+
 - `Notes`
 
 #### Create an Online Cloud License

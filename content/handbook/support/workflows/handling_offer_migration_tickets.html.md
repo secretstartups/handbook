@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: How to Handle Product Offering Migration Tickets
 description: "How to handle product offering migration tickets"
 category: Handling tickets
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -17,18 +13,18 @@ You may encounter a support ticket from a paid customer who is migrating
 between offerings (SM and SaaS), and who at the time of the ticket has a paid
 license to only one of them. For example, they're using a Self-managed instance
 and want to migrate to GitLab.com, and they only have an active Self-managed
-license (_i.e._ they have no paid SaaS subscription).
+license (*i.e.* they have no paid SaaS subscription).
 
 If the problem statement of the ticket involves the unpaid offering, that
 raises some issues:
 
-* Do we support them, or is this out of scope?
-* If we support them, then:
-  * How do we configure the ticket so that it will be visible to SEs with the
+- Do we support them, or is this out of scope?
+- If we support them, then:
+  - How do we configure the ticket so that it will be visible to SEs with the
     right focus area?
-  * What level of support should they get?
-  * How do we configure the ticket to have the right SLA?
-  * How do we inform SEs that a decision has been made to support the customer?
+  - What level of support should they get?
+  - How do we configure the ticket to have the right SLA?
+  - How do we inform SEs that a decision has been made to support the customer?
 
 **In this type of situation, we do want to support the customer** even though
 their contract does not require us to do so. Think of it this way: they are a
@@ -44,7 +40,7 @@ way.
    1. Ask them to confirm what support level they intend to purchase on the new
       offering.
    1. Ask them the target date for completing the migration.
-1. Open a Support Ops issue in 
+1. Open a Support Ops issue in
    [this project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-organizations):
    1. Specify that the request is to support a product offering migration.
    1. Specify the new support level to be applied to the organization.

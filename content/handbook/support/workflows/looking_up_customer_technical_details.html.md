@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Looking up customer technical details
 description: "How to look up customer technical details within Zendesk and the Architecture integration, or the Account Management Group"
 category: Handling tickets
 subcategory: Customer Info
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 While troubleshooting customer issues in tickets, you may find yourself needing
 additional context -- a `gitlab.rb` file, an architectural diagram, or anything
@@ -65,7 +58,7 @@ To access the app:
 
    ![Zendesk Apps button](/handbook/support/workflows/assets/zendesk-apps-button.png)
 
-2. Look for the Architecture Diagrams app and expand it if closed
+1. Look for the Architecture Diagrams app and expand it if closed
 
    ![Zendesk Apps button](/handbook/support/workflows/assets/zendesk-apps-arch-diagram.png)
 

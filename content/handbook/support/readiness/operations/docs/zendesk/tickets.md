@@ -23,7 +23,7 @@ We currently maintain all groups via Zendesk itself.
 - CCs
   - Enable CCs on tickets
   - Enable CCs for end users on Help Center
-  - CC blacklist: noreply@google.com
+  - CC blacklist: <noreply@google.com>
   - CC email subject: `[{{ticket.account}}] Update: {{ticket.title}}`
   - CC email text:
     > You are registered as a CC on this support request ({{ticket.url}}). Reply
@@ -130,15 +130,15 @@ is.
 
 When creating a ticket on behalf of a customer, you need to navigate to the
 support portal for the Zendesk instance you are working on in a browser that is
-_not logged into Zendesk_. From there, you would create a ticket much like any
+*not logged into Zendesk*. From there, you would create a ticket much like any
 customer would. See
 [Creating a ticket](https://about.gitlab.com/support/portal/#creating-a-ticket)
 for more information.
 
 #### Creating tickets for outbound requests
 
-**Warning** This often requires the ability to _create users_ in Zendesk, which
-is only available on specific roles. That access is _very_ risky and should only
+**Warning** This often requires the ability to *create users* in Zendesk, which
+is only available on specific roles. That access is *very* risky and should only
 be used as documented in this section.
 
 **Note** This only applies to Zendesk Global at this time.
@@ -192,7 +192,7 @@ After this has been done, you will then enter the description for the ticket.
 This is the core of the message you are wanting to send to the end-user.
 
 Once this has been completed, the last step is to then finish creating the
-ticket by submitting it as _pending_. This is done by clicking the downward
+ticket by submitting it as *pending*. This is done by clicking the downward
 arrow at the bottom-right of the page and clicking `Submit as Pending`.
 
 ![Manually creating a ticket 5](/handbook/support/readiness/operations/images/manually_create_ticket5.gif)

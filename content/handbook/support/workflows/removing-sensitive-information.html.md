@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Removing Sensitive Information
 description: "Workflow for removing sensitive information in Zendesk Tickets"
 category: Handling tickets

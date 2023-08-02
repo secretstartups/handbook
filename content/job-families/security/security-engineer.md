@@ -58,7 +58,7 @@ The [Security Team](https://about.gitlab.com/handbook/security) is responsible f
 - Good written and verbal communication skills
 - Constantly improve product security
 
-### Job Grade
+#### Job Grade
 
 The Security Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -78,7 +78,7 @@ A Senior Security Engineer may decide to pursue the [security engineering manage
 
 ***
 
-### Job Grade
+#### Job Grade
 
 The Senior Security Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -95,7 +95,7 @@ The Staff Security Engineer role extends the [Senior Security Engineer](#senior-
 - Author questions/processes for hiring and screening candidates
 - Write public blog posts and represent GitLab as a speaker at security conferences
 
-### Job Grade
+#### Job Grade
 
 The Staff Security Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -116,7 +116,7 @@ The Principal Security Engineer role extends the [Staff Security Engineer](#staf
 - Provide a point of escalation for sub-department teams facing complex technical challenges.
 - Exposes the work of the sub department and their business impact internally.
 
-### Job Grade
+#### Job Grade
 
 The Principal Security Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -137,13 +137,14 @@ The Distinguished Security Engineer role extends the [Principal Security Enginee
 - Ownership of significant sub-department objectives, goals and OKR's
 - Contributor to sub-department roadmap and strategic direction
 
-### Job Grade
+#### Job Grade
 
 The Distinguished Security Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Staff+ Initiatives
 
 At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/engineering/ic-leadership/) take on a larger role by driving initiatives that are larger in scope, impact, and value than their current day-to-day responsibilities call for.  In order to achieve this, Staff+ engineers are encouraged to choose 1 project, mutually agreed upon with their manager, for which they act as DRI until completion or mutually agreed upon priorities change.  The goal is to provide our staff+ team members the following benefits:
+
 - Career Growth through increased scope and responsibility
 - Increase in influence and authority through exertion of [technical leverage](https://about.gitlab.com/handbook/engineering/ic-leadership/#technical-leverage).
 - Increase in decision making opportunities
@@ -151,6 +152,7 @@ At GitLab, [Staff+ individual contributors](https://about.gitlab.com/handbook/en
 - Project Management experience
 
 Initiatives are selected with the following criteria:
+
 - Mutually Decided: The team member and team member’s manager will mutually agree upon the initiative, taking into account the requirements of other stakeholders.
 - Relevant: The initiative should be relevant to GitLab, the Security Department, and the team member’s team.
 - Impactful: The initiative should have a positive impact in making GitLab more secure and/or maturing our Security program
@@ -162,7 +164,7 @@ All staff+ initiatives are tracked as epics with the `~"Staff+ Initiative"` labe
 - [**gitlab-com** Staff+ Initiatives Epic Board](https://gitlab.com/groups/gitlab-com/-/epic_boards/29521?label_name%5B%5D=Staff%2B%20Initiative) for intra-department staff+ initiatives
 - [**gitlab-org** Staff+ Initiatives Epic Board](https://gitlab.com/groups/gitlab-org/-/epic_boards/29522?label_name%5B%5D=Staff%2B%20Initiative) for product-focused staff+ initiatives
 
-### Project Expectations:
+### Project Expectations
 
 Once an initiative is mutually agreed upon, the team member will be wholly responsible for driving the project.  The following project elements should be addressed as applicable:
 
@@ -202,7 +204,6 @@ Tracking and reporting is a necessary component to ensuring visibility and trans
 
 At the close of the project, the team member should document what goals were met, what was not met, and recommendations for future iterations (if applicable).
 
-
 ## Specialties for Security Engineer roles
 
 ### Application Security
@@ -241,7 +242,6 @@ Security Automation Responsibilities
 - Define and own metrics and key performance indicators to determine the effectiveness of the Security Automation program
 - Collaborate with product teams to ensure that the GitLab product meets security automation requirements for ourselves and our users.
 
-
 Security Automation Requirements
 
 - Previous experience on a Security Operations, Software Development, or Automation team
@@ -252,7 +252,6 @@ Security Automation Requirements
 - Experience with Cloud Computing Platforms - GCP experience a plus
 - Experience with Kubernetes a plus
 - Experience with infrastructure as code processes and tools a plus
-
 
 ### SIRT - Security Incident Response Team
 
@@ -296,7 +295,7 @@ Your daily duties will include building tooling and automation for curbing abuse
 Trust & Safety Responsibilities
 
 - Initiatives to curb known abusive activity on GitLab.com, and to identify new and unknown abuse vectors
-- DMCA Notice and Counter-Notices (dmca@gitlab.com)
+- DMCA Notice and Counter-Notices (<dmca@gitlab.com>)
 - Mitigation of abusive/non-responsive customers
 - Verifying the proper classification of abuse reports
 - Escalating to stakeholders while continuing to monitor

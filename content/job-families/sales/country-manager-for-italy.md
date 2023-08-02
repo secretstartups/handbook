@@ -16,10 +16,10 @@ The Country Sales Manager for Italy is a [grade 9](https://about.gitlab.com/hand
 - Contribute to root cause analysis on wins/losses
 - Communicate lessons learned to the team, including account managers, the marketing team, and the technical team
 - Take ownership of your book of business:
-   - document the buying criteria
-   - document the buying process
-   - document next steps and owners
-   - ensure pipeline accuracy based on evidence and not hope
+  - document the buying criteria
+  - document the buying process
+  - document next steps and owners
+  - ensure pipeline accuracy based on evidence and not hope
 - Contribute to documenting improvements in our [sales handbook](https://about.gitlab.com/handbook/sales/)
 - Provide account leadership and direction in the pre- and post-sales process
 - Conduct sales activities including prospecting and developing opportunities in large/strategic accounts

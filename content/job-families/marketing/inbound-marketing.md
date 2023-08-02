@@ -33,7 +33,7 @@ Inbound Marketing focuses on expanding GitLab's organic discovery with data-driv
 
 ## Levels
 
-### Inbound Marketing Associate, Search:
+### Inbound Marketing Associate, Search
 
 - Conduct keyword research and analysis and identify keyword opportunities.
 - Coordinate with content and product marketing teams to identity, optimize, and promote content for targeted keywords or phrases in order to increase traffic to our website from organic, paid, and social marketing and sponsorships.
@@ -52,7 +52,7 @@ Inbound Marketing focuses on expanding GitLab's organic discovery with data-driv
 - Basic experience with web conversion rate optimization to improve lead generation, sales pipeline, and revenue.
 - Ability to use GitLab
 
-### Inbound Marketing Manager, Search:
+### Inbound Marketing Manager, Search
 
 - Provide recommendations for technical SEO improvements to the site.
 - Implement our SEO strategy together with our marketing team and digital marketing agency.
@@ -74,8 +74,7 @@ Inbound Marketing focuses on expanding GitLab's organic discovery with data-driv
 - Technical/industry experience focused on SEO online advertising to improve lead generation, sales pipeline, and revenue.
 - Analytics and reporting experience
 
-
-### Senior Inbound Marketing Manager, Search:
+### Senior Inbound Marketing Manager, Search
 
 - Define our SEO strategy together with marketing team and digital marketing agency.
 - Build end-to-send SEO programs with recommended keywords, content, and implementation plans and coordinate across teams on execution.

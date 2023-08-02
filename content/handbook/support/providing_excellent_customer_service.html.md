@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Providing Excellent Customer Service
 category: References
 description: Guidance for delivering a great experience to our customers
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Understanding customer needs
 
@@ -41,11 +37,11 @@ action and will follow up with the user at a later time.
 
 When putting a ticket `On-Hold`, you should:
 
-* Inform the user when to expect your follow-up message.
-* Invite them to inform you if your chosen schedule does not meet their needs
+- Inform the user when to expect your follow-up message.
+- Invite them to inform you if your chosen schedule does not meet their needs
   so that you can adjust your plans accordingly. See also
   [Understanding Business Impact](#understanding-business-impact).
-* Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length](./workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets).
+- Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length](./workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets).
 
 When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
 and [Reminders](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
@@ -120,10 +116,10 @@ To delete text or attachments from a ticket:
 
 If you don't see the Ticket Redaction App in the sidebar, it is likely that you are not assigned to one of the authorized roles (you can check your role in Zendesk profile). In this case, please reach out to `@support_operations` or `@support-managers` in Slack to request deletion. Zendesk roles that have access to Ticket Redaction App:
 
-* Support Staff - Explore
-* Support Staff
-* Support Managers
-* Administrators
+- Support Staff - Explore
+- Support Staff
+- Support Managers
+- Administrators
 
 ## Handling tickets created by GitLab team members
 

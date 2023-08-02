@@ -1,15 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: CustomerDot Account Related Problems
 category: CustomersDot
 description: Using the customer console for internal requests is only for special cases where the existing tools won't allow us to complete the task at hand.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
 ## Overview
@@ -28,17 +23,17 @@ Customers purchasing through reseller would not have access to their [CustomerDo
 
 For GitLab.com customers, we would need to [assist them with subscription provisioning](../saas/associate_subscription_and_namespace.html).
 
-**NOTE**: This also applies for purchases through GCP and AWS, the customer would not have access to [CustomerDot](https://customers.gitlab.com/customers/sign_in). 
+**NOTE**: This also applies for purchases through GCP and AWS, the customer would not have access to [CustomerDot](https://customers.gitlab.com/customers/sign_in).
 
-#### 2. Password reset email was requested from https://gitlab.com
+#### 2. Password reset email was requested from <https://gitlab.com>
 
-It's possible that customer request password reset email from https://gitlab.com/users/password/new.
+It's possible that customer request password reset email from <https://gitlab.com/users/password/new>.
 We can confirm this by searching through the mailgun log. To locate the password reset email:
 
 1. You can find the mailgun log in credential in 1password for support team.
 1. On the left panel, expand `Sending` and go to `Logs`
 1. On the top left, click the `Domain` dropdown and choose `customers.gitlab.com` and enter the customer email to search for recent email. You can also search in `mg.gitlab.com` domain to confirm whether the password reset email was requested on GitLab.com or on customers.gitlab.com
-1. If no password reset was sent, we can issue a password reset email or ask the customer to request a password reset email from https://customers.gitlab.com/customers/password/new
+1. If no password reset was sent, we can issue a password reset email or ask the customer to request a password reset email from <https://customers.gitlab.com/customers/password/new>
 
 #### 3. The CustomersDot account has not been confirmed
 

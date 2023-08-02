@@ -42,13 +42,12 @@ The Senior Manager, Video is a [grade 9](https://about.gitlab.com/handbook/total
 - Knowledge and experience with branded content, digital distribution platforms, social media, and associated marketing strategies
 - Understanding of B2B brand advertising strategies especially in the digital and high-technology space.
 
-## Performance Indicators
+### Performance Indicators
 
 - Increases overall brand awareness through video assets and channels.
 - Improves video production processes.
 - Increases quantity and quality (and performance) of video content created for the brand.
 - Contributes to the success of the Marketing OKRs.
-
 
 ## Director, Brand
 
@@ -106,9 +105,7 @@ The Sr. Director, Brand is a [grade 11](https://about.gitlab.com/handbook/total-
 - Proven abaility to drive successful global brand campaigns.
 - Demonstrated experience designing and executing integrated brand campaigns across multiple media forms with measurable impact on business results.
 
-
-
-## Performance Indicators
+### Performance Indicators
 
 - Sets brand goals and objectives for the organization.
 - Increases overall brand awareness through various channels and campaigns.

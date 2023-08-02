@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: How to write workflows
 category: References
 description: Guidelines, rationale, and resources on writing good workflow pages.
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -115,21 +108,14 @@ Notes:
 1. The only optional (can be removed) metadata line is `subcategory`. All others must be filled in.
 1. See the existing workflows for existing categories.
 
-```
+```text
 ---
-layout: handbook-page-toc
 title:
 description:
 category:
 subcategory:
 last-reviewed: YYYY-MM-DD
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## First heading
 ```

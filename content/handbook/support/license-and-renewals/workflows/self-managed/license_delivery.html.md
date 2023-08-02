@@ -5,9 +5,6 @@ description: "License generation and delivery"
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 ## Overview
 

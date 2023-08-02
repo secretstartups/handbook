@@ -1,21 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: Home Page for Support's NAME Group
 description: Home Page for Support's NAME Group
+_build:
+  list: false
+  render: false
 ---
 
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
-# Welcome to the home page of the NAME group
-
 Introductory text, logos, or whatever the group wants here
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## NAME resources
 

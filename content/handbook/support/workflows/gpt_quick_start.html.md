@@ -1,16 +1,8 @@
 ---
-layout: handbook-page-toc
 title: GitLab Performance Tool (GPT) Quick Start
 description: This guide provides steps to use the GitLab Performance Tool
 category: Self-managed
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## What is GitLab Performance Tool (GPT)
 
@@ -42,12 +34,12 @@ This will generate the data that will be used for the test later. More details o
 
 1. Create [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#creating-a-personal-access-token) with API scope from an **Admin** user.
    1. In the top-right corner on your GitLab UI, select your avatar.
-   2. Select **Edit profile**.
-   3. In the left sidebar, select **Access Tokens**.
-   4. Enter a name and optional expiry date for the token.
-   5. Select the [API scopes](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-token-scopes).
-   6. Select **Create personal access token**.
-   7. Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.
+   1. Select **Edit profile**.
+   1. In the left sidebar, select **Access Tokens**.
+   1. Enter a name and optional expiry date for the token.
+   1. Select the [API scopes](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-token-scopes).
+   1. Select **Create personal access token**.
+   1. Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.
 
 1. Next, edit your environment file under `./k6/config/environment/`. In this example, we will use the 2k users environment. Hence, it will be the `2k.json`. Replace the values for `"url"` with the URL of your GitLab instance and `"user"` with the username of the Admin user created in the above step.
 
@@ -99,7 +91,7 @@ After starting the tool you will see it running each test in order. Once all tes
 For your reference, here are the test runs from GitLab:
 
 1. [Latest Results](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) - Our automated CI pipelines run multiple times each week and will post their result summaries to the wiki here each time.
-2. [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.'
+1. [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.'
 
 There are known issues when running [the GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance). Some tests run against parts of the product which are known to be non-performant.
 

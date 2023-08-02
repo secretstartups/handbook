@@ -88,7 +88,6 @@ The Senior Red Team Engineer is a [grade 7](https://about.gitlab.com/handbook/to
   - Google Cloud administration and exploitation
   - MacOS administration and exploitation
 
-
 ### Staff Red Team Engineer
 
 This position reports to the [Manager, Red Team](#manager-red-team).

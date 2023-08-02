@@ -65,7 +65,6 @@ The Senior Accountant is a [grade 7](https://about.gitlab.com/handbook/total-rew
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision
 - You share our [values](/handbook/values/), and work in accordance with those values.
 
-
 ## Manager, Accounting
 
 ### Job Grade
@@ -143,6 +142,7 @@ Additional details about our process can be found on our [hiring page](https://a
 ### Payroll Accountant
 
 Responsibilities
+
 - Work with the Payroll and Stock teams to prepare payroll and stock tax (RSUs, Options, ESPP) journal entries
 - Perform reconciliations for all payroll-related general ledger accounts and investigate variances
 - Perform monthly and quarterly flux analysis over payroll-related accrual and expense balances
@@ -154,6 +154,7 @@ Responsibilities
 - Participate in the execution of payroll accounting compliance activities; SOX and internal audits, controls
 
 Requirements
+
 - Experience with international subsidiaries, PEO providers, and recording and reconciling in multiple currencies
 - 3-5 years US GAAP public company experience is required.
 - Software company experience preferred.
@@ -164,7 +165,6 @@ Requirements
 - Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results.
 - Detail-oriented, self-directed and able to effectively complete tasks with minimal supervision.
 - You share our values, and work in accordance with those values.
-
 
 ### International Reporting
 
@@ -214,6 +214,7 @@ TODO
 #### Hiring Process
 
 Candidates for the Tax Accountant position can expect the hiring process to follow the order below:
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to attend a 45 minute interview with Director of Tax
 - Candidates will then be invited to attend a 30 minute interview with our Corporate Controller

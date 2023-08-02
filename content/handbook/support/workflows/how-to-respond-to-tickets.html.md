@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: How to Respond to Tickets
 category: Handling tickets
 description: Advice for providing human, helpful responses to support tickets to improve customer experience and excellence
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## How to respond to a ticket
 
@@ -19,7 +15,7 @@ We aim to hire smart people, and let them be smart. This means we try to offer s
 
 > “Thank you for contacting support. We can help you with this. It looks like you are asking for help with resetting your password…”
 
-This dehumanizes us and we lose our best asset: _Support from a human._ When you speak more naturally it anchors that we are also real people and not “support minds as a service:”
+This dehumanizes us and we lose our best asset: *Support from a human.* When you speak more naturally it anchors that we are also real people and not “support minds as a service:”
 
 > “Ah, sorry to hear that you lost your password. I’ve issued a password reset and you are good to go. In the future, you can use this link:
 >
@@ -46,7 +42,7 @@ graph LR
 ```
 
 Be empowered: at GitLab Support we want humans with agency, not agents. If something feels broken, ask.
-If something feels inefficient, fix it. Everyone can _and should_ contribute.
+If something feels inefficient, fix it. Everyone can *and should* contribute.
 
 ### The Sandwich Method
 
@@ -62,7 +58,7 @@ For example, a customer might ask:
 
 > “ My GitLab server appears to be slowing down. Can you help me?”
 
-An _okay_ response is:
+An *okay* response is:
 
 > “ Please send us over your production logs and we can use that to troubleshoot some more. “
 
@@ -74,13 +70,13 @@ Notice we asked for what we needed, and we’ll be able to help. Let’s make it
 >
 > Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.” (This is us reassuring them we’ll help.)
 
-We’ve asked for what we need early. Emphasize the ask _early_, so they can start thinking
+We’ve asked for what we need early. Emphasize the ask *early*, so they can start thinking
 on it and if they stop reading right there, they didn’t miss the ask. We’ve given
 a hypothesis which is something for them to chew on and understand our vantage.
-We don’t want to _serve_ our customers, we want to _partner_ with them. This is
+We don’t want to *serve* our customers, we want to *partner* with them. This is
 one way for them to see us as a peer vs. “support minds as a service.”
 
-We then make sure to let them know _we are still here_ and will be when they come back.
+We then make sure to let them know *we are still here* and will be when they come back.
 
 There will be times where you might need to add more or even apologize for something,
 but this method should be applicable to the majority of tickets and help us deliver excellence.
@@ -93,22 +89,22 @@ In the characterization mode, we're working to establish basic facts about what 
 
 We can be transparent that we're working to characterize the user's issue. When in this operation mode, we can ask:
 
-* What the user is trying to do
-* Why the user is trying to do it
-* How the system is effectively behaving
-* How the user thinks the system should behave
-* State and context information that might be influencing the behavior we are seeing
+- What the user is trying to do
+- Why the user is trying to do it
+- How the system is effectively behaving
+- How the user thinks the system should behave
+- State and context information that might be influencing the behavior we are seeing
 
 The second mode of operation is the Hypothesis Testing mode. This is the creative step where we can behave like scientists and theorize about what might be going on the user's side.
 
 We also can be transparent that we're in the hypothesis testing mode. When doing so, we can clarify:
 
-* What the hypothesis is
-* How it accounts for the behavior
-* How it accounts for other facts that were already established
-* How it doesn't account for some facts
-* How can we test it
-* Whether the test involves any risk
+- What the hypothesis is
+- How it accounts for the behavior
+- How it accounts for other facts that were already established
+- How it doesn't account for some facts
+- How can we test it
+- Whether the test involves any risk
 
 It is interesting to note that the hypothesis test feeds back into the characterization mode, as we're establishing new facts about the user's scenario with the test.
 
@@ -119,7 +115,7 @@ The idea for this was taken from [Jeff Anderson's talk](https://www.youtube.com/
 ### Improving the Customer Experience Through Ticket Deflection
 
 "Ticket deflection" can sound like a way to weasel out of work, but in reality it's about improving the customer experience.
-Customers don't _want_ to write into support. They'd much rather not have the problem in the first place.
+Customers don't *want* to write into support. They'd much rather not have the problem in the first place.
 Failing that, they'd like to solve the problem themselves. If they can't do that, **then** they want a technically skilled
 individual to help them solve their problem.
 

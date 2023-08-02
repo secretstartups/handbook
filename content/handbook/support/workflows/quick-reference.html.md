@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: SaaS Tier for Support Quick Reference
 description: "Quick reference for Support to determine tier requirement for SaaS Account and other common requests"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## SaaS tier requirement for SaaS Account and common requests
 

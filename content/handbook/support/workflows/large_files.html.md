@@ -1,17 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Support Uploader - Handling large files from Customers
 description: "Support team workflow for using the Support Uploader to receive large files from customers"
 category: Handling tickets
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Global Support Uploader
 
 In the event that a customer wishes to share a large volume of data with us, we require a way to receive the information.
 Please follow the steps below in order to create a unique user, and upload relevant information for review by the GitLab Support Team.
@@ -55,7 +46,7 @@ client may change the file slightly. See
 If the customer uploaded any archives, and you attempt to extract the archive,
 it may come up with an invalid format error:
 
-```
+```text
 $ tar --list -f gitlabsos.main-a_20230215115744.tar.gz
 
 gzip: stdin: invalid compressed data--format violated
@@ -65,7 +56,7 @@ tar: Error is not recoverable: exiting now
 
 To resolve this, force `dos2unix` to run on the archive first:
 
-```
+```text
 dos2unix -f gitlabsos.main-a_20230215115744.tar.gz
 ```
 
@@ -74,12 +65,12 @@ dos2unix -f gitlabsos.main-a_20230215115744.tar.gz
 When the ticket the FTP user was generated for is closed, the FTP user (and
 associated files) will automatically be removed completely.
 
-# US Federal Support Uploader
+## US Federal Support Uploader
 
 There is not currently a US Federal Support Uploader. Please check back in the
 future for more information on it when it becomes available.
 
-# Usage
+## Usage
 
 For details on using FTP to upload/download files, please see
 [Support Uploader usage](https://about.gitlab.com/support/providing-large-files/#support-uploader-usage).

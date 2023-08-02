@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Account Ownership Verification
 category: GitLab.com
 subcategory: Accounts
 description: "Workflow detailing how and when to verify account ownership including disable 2FA"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -48,7 +41,7 @@ The workflow applies to all cases where account verification is required.
 
 ### Keeping the Ticket Simple and Accurate
 
-Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue. 
+Because an ownership-verification ticket is a matter of record, the ticket must be simple, accurate, and tightly focused on the access issue.
 
 1. Do not allow the customer to bring up unrelated topics.
 1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
@@ -63,11 +56,11 @@ Before you send the challenges, make sure the user is eligible to receive suppor
 A SaaS user must meet one of the following conditions to be eligible for a 2FA reset.
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
-2. The user is an [Enterprise User](gitlab-com_overview.html#enterprise-users).
+1. The user is an [Enterprise User](gitlab-com_overview.html#enterprise-users).
     - Note: A top-level group owner or user can submit the ticket. If the user is not a member of the group, an [owner vouch](#authenticating-an-owner-vouch) is required, and the [data classification](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal) is still Red based on the status of the paid namespace.
-3. The user is the primary billing contact on a current invoice for a SaaS purchase.
-4. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
-5. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-when-account-is-used-to-access-customers-portal).
+1. The user is the primary billing contact on a current invoice for a SaaS purchase.
+1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
+1. The user account is required for SSO access to Customers Portal to manage a paid subscription - see: [Conditions for 2FA Reset when account is used to access Customers Portal](#conditions-when-account-is-used-to-access-customers-portal).
 
 More succinctly: they're paid, they use the account to pay, or we use the account to communicate with them.
 
@@ -86,11 +79,11 @@ The table below provides a summary of the available verification options based o
 | Requester | Target | Rule | Comment
 | --- | --- | --- | ---
 | Enterprise Owner | Own account | Owner passes challenges on own account, owner vouch (if required), must be provided by a different owner | If no other owner is available for vouch, see [internal handbook](https://internal-handbook.gitlab.io/handbook/support) for other challenges.
-| Enterprise Owner | Member of paid group or intent to be added | Owner passes challenges on own account, vouch can come from same owner. Target user does not have to be CCd on ticket. Multiple enterprise users may be handled per ticket | 
-| Owner | Non-enterprise user | Owner can raise the ticket, user must supply the answers, owner can vouch. One user per ticket | 
+| Enterprise Owner | Member of paid group or intent to be added | Owner passes challenges on own account, vouch can come from same owner. Target user does not have to be CCd on ticket. Multiple enterprise users may be handled per ticket |
+| Owner | Non-enterprise user | Owner can raise the ticket, user must supply the answers, owner can vouch. One user per ticket |
 | Paid User | Own account | User passes challenges on own account. Owner can vouch. |
 | Paid User | Other member of same paid group | Target user passes challenges on own account. Communication is direct from the target user who must be CC'd on ticket |
-| Free User | Non-member of group with intent to be added | Not allowed - request must come from group owner | 
+| Free User | Non-member of group with intent to be added | Not allowed - request must come from group owner |
 
 #### Conditions when account is used to access Customers Portal
 
@@ -136,9 +129,10 @@ Note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) so
 ### Backup methods for authenticating an owner
 
 If a group owner is unable to create a snippet, you may use another method to verify their identity. It must be an action that has been specifically instructed by Support and identifiably unique to the situation. Some examples include having the owner:
- - create an issue in a project they have access to with a specific piece of text that you provide.
- - create a new project at a path that you provide.
- - update their GitLab Status to a specific string.
+
+- create an issue in a project they have access to with a specific piece of text that you provide.
+- create a new project at a path that you provide.
+- update their GitLab Status to a specific string.
 
 ### User Successfully Proves Account Ownership
 
@@ -152,7 +146,7 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 
 ### User Fails to Prove Account Ownership
 
-> **Note**: Do _not_ provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
+> **Note**: Do *not* provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
 1. If the user is unable to pass the risk factor but we have not provided all the applicable challenges, you may offer further challenges. This is true for all users, including owners.
    - Most commonly, an `Owner in the top level namespace` (with a valid subscription) vouch is requested. Use the `Support::SaaS::2FA::2FA ask owner vouch` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360052221199). See the [Verifying an Owner Vouch section](#authenticating-an-owner-vouch) for more information. The originating email of this request should match a verified email of the Owner's account. If the user is an Owner, vouch must be from a different Owner.
@@ -250,12 +244,10 @@ If a 2FA ticket is opened by an organization that has had this workflow configur
 >**Note:** 2FA removal for the user is approved by the Customer via the 2FA Verification template. This means the Customer will confirm with the User having 2FA removed and not support.
 
 #### 1. Create Issue
-{:.no_toc}
 
 1. Open a new issue in the issue tracker of the customer's account verification project using the `2FA Verification` template and follow all instructions within it. A link to this template should be in the notes for the organization in Zendesk.
 
 #### 2. Contact Through Slack (skip if no shared Slack channel)
-{:.no_toc}
 
 1. Within the customer's shared Slack channel with us, use the template below to alert them to the fact that a new 2FA disable request exists in their account management issue tracker. Be sure to replace the following variables:
    - `SLACK_USERNAME` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts. If there are more than one, add them as well.
@@ -272,14 +264,12 @@ If a 2FA ticket is opened by an organization that has had this workflow configur
 >**Note:** If the customer has created an issue using the `2FA Verification` template themselves and sent us a Zendesk ticket with a link to it, skip this step.
 
 #### 3. Wait For Authorization
-{:.no_toc}
 
 Wait for the customer to comment on the issue and approve the request to disable 2FA.
 
 As stressed in the Slack notification template, we will wait for the customer's answer for 24 hours. If no response is received by then, regular 2FA verification will take place via the [challenges workflow](#sending-challenges).
 
 #### 4. Disable 2FA
-{:.no_toc}
 
 Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
 
@@ -326,22 +316,24 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
 1. Add an [Admin note](admin_note.html) on the group admin page.
 
 #### How to elevate the requestor to the Owner role
+
 1. Using a GitLab `Admin Account`, go to the requestor's 'Namespace - Group - Members' section.
 1. Search for the member by name or email address; in the `Max role` column, change the requestor's role to `Owner`.
 1. If the requestor is not a member of the group, then press the `Invite members` button at the top right, enter the requestor's email address, and set the role to `Owner`. Press the `Invite` button to save your changes.
 
 ## Special Cases
+
 ### Twitter
 
 If a user has a pre-listed Twitter account on their GitLab profile, this may be used as an additional factor for proving account ownership.
 
 1. Invite the user to follow `@GLSupport2FA` in a reply to their ticket.
-1. Log in to https://twitter.com/ using the GLSupport2FA twitter account in the 1Password Vault.
-   - If the login requires a 2FA code, log in to https://mail.google.com using the techsupport@gitlab.com gmail credentials. Note: If you are redirected to OKTA login, use the same gmail credentials to log in to OKTA.
-1. Go to https://twitter.com/GLSupport2FA/followers and confirm the listed Twitter account is in the Followers list.
+1. Log in to <https://twitter.com/> using the GLSupport2FA twitter account in the 1Password Vault.
+   - If the login requires a 2FA code, log in to <https://mail.google.com> using the <techsupport@gitlab.com> gmail credentials. Note: If you are redirected to OKTA login, use the same gmail credentials to log in to OKTA.
+1. Go to <https://twitter.com/GLSupport2FA/followers> and confirm the listed Twitter account is in the Followers list.
 1. Go to the messages list and send them the following snippet:
 
-```
+```text
 Hi,
 
 We recently got a request to <remove the 2FA on | delete | change the primary email address> your GitLab.com account. Since you listed this account there, we're reaching out for confirmation. Please let us know if it was you who initiated this request.

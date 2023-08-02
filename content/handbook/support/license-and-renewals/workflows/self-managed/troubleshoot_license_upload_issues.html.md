@@ -5,9 +5,6 @@ description: "How to troubleshoot and categorise GitLab license activation error
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 Customers may report encountering the following error message when uploading a license to their GitLab Self-Managed instance:
 
@@ -30,25 +27,27 @@ You can use the Zendesk [`Subscriptions::Active Users`](https://gitlab.com/searc
 ## Examples
 
 **EXAMPLE 1**
-   - Subscription for 10 users
-   - During the subscription term incurs a max of 15 users
-   - Before renewal, blocks 3 users
-   - At renewal, the license must be generated as: `Users count: 12` (or more), `Previous users count: 10`, `Trueup count: 5 `
+
+- Subscription for 10 users
+- During the subscription term incurs a max of 15 users
+- Before renewal, blocks 3 users
+- At renewal, the license must be generated as: `Users count: 12` (or more), `Previous users count: 10`, `Trueup count: 5`
 
 **EXAMPLE 2**
-  - Subscription for 20 users starts in December with only 12 active users in the system
-  - In March, 5 users are blocked leaving 7 active users (12 max users)
-  - In April, 5 new users are added making the active user count 12 (12 max users)
-  - In July, 10 more new users are added making the active user count 22 (22 max users)
-  - In August, 5 users are blocked making the active user count 17 (22 max users)
-  - At renewal, the license must be generated as: `Users count: 17` (or more), `Previous users count: 20`, `Trueup count: 2`
+
+- Subscription for 20 users starts in December with only 12 active users in the system
+- In March, 5 users are blocked leaving 7 active users (12 max users)
+- In April, 5 new users are added making the active user count 12 (12 max users)
+- In July, 10 more new users are added making the active user count 22 (22 max users)
+- In August, 5 users are blocked making the active user count 17 (22 max users)
+- At renewal, the license must be generated as: `Users count: 17` (or more), `Previous users count: 20`, `Trueup count: 2`
 
 **EXAMPLE 3**
-  - Ultimate subscription for 10 users
-  - During the subscription term, has 12 active users, including 2 guest users
-  - At renewal, customer downgrades to Premium license
-  - License must be generated as: `Users count: 12` (or more), `Previous users count: 10`, `Trueup count: 0`
 
+- Ultimate subscription for 10 users
+- During the subscription term, has 12 active users, including 2 guest users
+- At renewal, customer downgrades to Premium license
+- License must be generated as: `Users count: 12` (or more), `Previous users count: 10`, `Trueup count: 0`
 
 ## Workflow for setting the correct Zendesk Form Fields to track license activation failures
 
@@ -57,14 +56,17 @@ As detailed in the issue [Create a process which provides the means of identifyi
 In such scenarios the L&R Support Engineers should follow the workflow below to categorize the ticket appropriately.
 
 ### 1. Field: L&R - Category
+
 - Set to `Self-managed license related matters`
 
 ### 2. Field: L&R - SM Subcategory
+
 - Set to `I am getting errors applying my license or activation code`
 
 ### 3. Field: Transactions Issue Type
+
 - If the customer used a license file, then set to `License troubleshooting (SM only)`
-- If the customer used an activation code, then set to `Cloud Licensing (SM only)` 
+- If the customer used an activation code, then set to `Cloud Licensing (SM only)`
 
 ### 4. Field: `L&R: License troubleshooting`
 
@@ -72,9 +74,8 @@ In such scenarios the L&R Support Engineers should follow the workflow below to 
 
 Select the most appropriate option to describe the problem the customer encountered:
 
-* `Customer issue`
-* `Multiple unique subscriptions`
-* `Multi-year license conflict (formerly named "Multi-year license")`
-* `New license activation bug`
-* `Transition legacy to cloud`
-
+- `Customer issue`
+- `Multiple unique subscriptions`
+- `Multi-year license conflict (formerly named "Multi-year license")`
+- `New license activation bug`
+- `Transition legacy to cloud`

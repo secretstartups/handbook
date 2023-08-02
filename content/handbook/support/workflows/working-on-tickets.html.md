@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Working on Tickets
 category: Handling tickets
 description: How to find, select, assign and begin work on support tickets
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -39,8 +35,8 @@ Through that process you may:
 
 1. Select a new, unassigned ticket in your group's view using the following approach:
 
-   a. Prioritize paid High priority tickets in your SGG FRT stage view first, even if it is further down the line from “next-to-breach”. 
-   
+   a. Prioritize paid High priority tickets in your SGG FRT stage view first, even if it is further down the line from “next-to-breach”.
+
    NOTE: Free user tickets submitted as High priority are the exception. All free user tickets should be prioritized last.
 
    b. If there aren’t any new High priority tickets, work with your group to assign any *unassigned* High NRT’s.
@@ -50,7 +46,7 @@ Through that process you may:
    d. If all High priority tickets are addressed, help with Normal or Low priority tickets that are at risk of breaching.
 
    e. If the next Normal or Low priority ticket to breach is > 4 hours, focus on your NRTs, your group's NRTs, and finally free user tickets (tickets with no SLA).
-   
+
    Proceed to
    [ticket assignment](#assigning-tickets)
 
@@ -68,11 +64,11 @@ Through that process you may:
 ## Assigning tickets
 
 When you begin work on a new ticket, as your first step please assign the ticket
-to yourself using the `take it` button. In the SGG environment, that shouldn't 
-prevent anybody from collaborating with you on the ticket. What it _**will**_ do 
-is signal that you're the DRI for providing a great customer experience, as the 
-ticket progresses towards `Status: Solved`. This enables other team members 
-seeking to assign themselves New ticket/s from the queue, to move on to reviewing 
+to yourself using the `take it` button. In the SGG environment, that shouldn't
+prevent anybody from collaborating with you on the ticket. What it ***will*** do
+is signal that you're the DRI for providing a great customer experience, as the
+ticket progresses towards `Status: Solved`. This enables other team members
+seeking to assign themselves New ticket/s from the queue, to move on to reviewing
 the next New unassigned ticket.
 
 *NOTE: The SLA clock continues to run until you've sent a public response to
@@ -129,12 +125,13 @@ of your group** who is in the preferred region.
    1. If the customer requests a transfer, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions)
 
 ### Handing over tickets and customer calls between regions
-   1. Be sure the ticket is well-documented, including any thoughts you have regarding next steps.
-   1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
-   1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
-   1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
-   1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
-   1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
+
+1. Be sure the ticket is well-documented, including any thoughts you have regarding next steps.
+1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
+1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
+1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
+1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
+1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
 
 ## Providing a first response to a ticket
 
@@ -211,7 +208,6 @@ guidelines are accurate.
 
 There will be times when you may be leading an escalation, working through challenging tickets or focus on non-ticket work and you cannot take on new ticket assignment. This is okay! The key is to make sure you have coordinated with your SGG and Manager so they are aware of the risks to our team.
 
-
 ### 2. What can I do when I'm stuck and I really need help?
 
    Follow the [how to get help workflow](/handbook/support/workflows/how-to-get-help.html)
@@ -226,7 +222,7 @@ There will be times when you may be leading an escalation, working through chall
 ### 4. The customer is absent and wants to keep the ticket open until they're back
 
    The best course of action in this case is to acknowledge the customer's wish with a public response
-   and then set the ticket to **On-Hold** _and_ change it to type **Task** with a reminder for yourself
+   and then set the ticket to **On-Hold** *and* change it to type **Task** with a reminder for yourself
    to check in with the customer x days after their planned return.
    This way, the ticket will permanently stay **On-Hold** for the duration of the customer's absence. See
    [Behavior of `On-Hold` tickets](/handbook/support/workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets)
@@ -264,6 +260,7 @@ There will be times when you may be leading an escalation, working through chall
    This should only happen on rare occasions since in the SGG system all tickets
    should be assigned from the time the first response is made. When it does
    happen, please:
+
    1. inform the customer that you are changing the ticket status to solved
    1. assign the ticket to the engineer who provided the solution, or if you
       can't make that determination, assign it to an engineer who has
@@ -278,8 +275,8 @@ There will be times when you may be leading an escalation, working through chall
    As detailed in the [Support General Policies](https://about.gitlab.com/support/general-policies/#we-handle-each-incident-within-a-single-support-ticket) it is GitLab policy to handle each individual incident, problem or issue within a single support ticket. If a situation arises where you need to open a new ticket on behalf of a customer then please use the following steps:
 
 1. Go to the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) Ticket Portal.
-2. Enter the customer's details (Self-Managed or SaaS, email address, subject, problem description etc.).
+1. Enter the customer's details (Self-Managed or SaaS, email address, subject, problem description etc.).
     - Use the customer's existing Zendesk Ticket to obtain the necessary customer information to complete the form.
-3. Once the form is submitted the form will not provide the corresponding ticket id. You can however obtain the new ticket id by performing a search on the customers details such as email address.
+1. Once the form is submitted the form will not provide the corresponding ticket id. You can however obtain the new ticket id by performing a search on the customers details such as email address.
 
 Please note: The above approach is required in order to ensure that the ticket is routed correctly and is assigned an SLA.

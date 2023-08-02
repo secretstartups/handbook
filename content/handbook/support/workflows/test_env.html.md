@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Testing Environment
 category: Infrastructure for troubleshooting
 description: "Support Engineer test environment setup options and guidelines"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Selecting the Right Testing Environment
 
@@ -22,8 +18,8 @@ This page explains the main choices available to you. Some guidelines:
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
 1. If you need a more complex environment, the following tools can help:
-    * [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
-    * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
+    - [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
+    - [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
 1. For K8s Helm installations, we [recommend using GKE](#gcp-gke-kubernetes-cluster).
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
 1. Consider joining the [#spt_testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
@@ -42,7 +38,7 @@ As usual, public projects get Gold features, but if you need to test paid group 
 Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
 If you require access, please ask an existing owner.
 
-The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding. 
+The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding.
 
 ## Testing Environment License
 
@@ -60,8 +56,9 @@ Note that when using some AWS Marketplace resources, free trials (including GitL
 You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
 You're free to create any testing environments that you need in order to perform your role, however be advised that:
+
 - Cloud resources are not free: please delete or shutdown any instances you aren't using.
-- Multi-node reference architectures are _very_ expensive to run, so be particularly mindful of not leaving them active longer than you need to.
+- Multi-node reference architectures are *very* expensive to run, so be particularly mindful of not leaving them active longer than you need to.
 - You shouldn't expose your instances to the public Internet or run without TLS. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning. Please review [Securing Cloud Testing Environments](#securing-cloud-testing-environments) before you create your first instance.
 
 ### GCP
@@ -117,7 +114,7 @@ There's also a few disadvantages to using the project:
 
 #### GCP GKE Kubernetes Cluster
 
-Please use your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. You can create a GKE cluster manually from the console or you can use the [Support GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gke-cluster-template) (for an empty GKE cluster) or  [Support GitLab GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gitlab-gke-template) (for a GKE cluster with a Gitlab helm deployment) from your [GitLab Sandbox account(https://gitlabsandbox.cloud/cloud). Click [here](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-create-a-terraform-environment) for more information on spinning up resources with terraform in the GitLab Sandbox. 
+Please use your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. You can create a GKE cluster manually from the console or you can use the [Support GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gke-cluster-template) (for an empty GKE cluster) or  [Support GitLab GKE cluster template](https://gitlab.com/gitlab-com/infra-standards/project-templates/support-gitlab-gke-template) (for a GKE cluster with a Gitlab helm deployment) from your [GitLab Sandbox account(https://gitlabsandbox.cloud/cloud). Click [here](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-create-a-terraform-environment) for more information on spinning up resources with terraform in the GitLab Sandbox.
 
 **Note:** If you are using GKE to test GitLab Runners, note that GitLab Runners require the use of [RBAC roles in GCP](https://cloud.google.com/kubernetes-engine/docs/how-to/role-based-access-control). The `support-resources` GCP project  does not allow the user enough permision to create the required roles, but you can do it with your personal [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project
 
@@ -150,28 +147,28 @@ The following guide is designed to help you quickly deploy a Kubenertes environm
 
 Pre-requisites:
 
-* A domain name
-* A [GitLab Sandbox Cloud](https://gitlabsandbox.cloud) account
+- A domain name
+- A [GitLab Sandbox Cloud](https://gitlabsandbox.cloud) account
 
 Install the following programs on your local computer:
 
-* [Helm v3 (3.3.1 or higher)](https://helm.sh/docs/intro/install/)
-* [Kubectl](https://kubernetes.io/docs/tasks/tools/)
-* [eksctl](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
-* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-* [Certbot](https://certbot.eff.org/instructions?ws=other&os=osx) (If you are using other OS than OSX please look for your specific OS.)
+- [Helm v3 (3.3.1 or higher)](https://helm.sh/docs/intro/install/)
+- [Kubectl](https://kubernetes.io/docs/tasks/tools/)
+- [eksctl](https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- [Certbot](https://certbot.eff.org/instructions?ws=other&os=osx) (If you are using other OS than OSX please look for your specific OS.)
 
 For OS X, you can install all of the programs above by running:
 
 ```shell
 brew install certbot helm kubectl
-``` 
+```
 
 ##### Getting an AWS IAM Access Key
 
 1. Log in to your [Sandbox Cloud](https://gitlabsandbox.cloud/)
-2. Log into your AWS individual account in Sandbox Cloud
-3. [Create an IAM Access key](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html) 
+1. Log into your AWS individual account in Sandbox Cloud
+1. [Create an IAM Access key](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html)
 
 When they key has been created successfully, you'll get an **Access key ID** and a **Secret key**.
 
@@ -180,9 +177,9 @@ When they key has been created successfully, you'll get an **Access key ID** and
 Go to your terminal to configure the AWS CLI to use the IAM Access Key:
 
 1. Type `aws configure`
-2. Enter the **Access key ID** and **Secret key** when prompted
-3. Optionally, set a region
-4. Choose the [output format](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html) (This controls what format the AWS CLI will use when printing out data. Options include `json`, `yaml` and `text`.)
+1. Enter the **Access key ID** and **Secret key** when prompted
+1. Optionally, set a region
+1. Choose the [output format](https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html) (This controls what format the AWS CLI will use when printing out data. Options include `json`, `yaml` and `text`.)
 
 ##### EKS Setup
 
@@ -199,10 +196,11 @@ Once your cluster is ready create a certificate for your domain using Certbot by
 
 ```shell
 sudo certbot --server https://acme-v02.api.letsencrypt.org/directory --manual --preferred-challenges dns-01 certonly -d "*.<DOMAIN NAME>"
-``` 
-Certbot will create a TXT DNS record that you need to add on your DNS Registrar so that your domain will have a valid HTTPS certificate to be used by your GitLab instance. 
+```
 
-After your record had been added to your registrar create a secret for your cluster to use the certificate by running: 
+Certbot will create a TXT DNS record that you need to add on your DNS Registrar so that your domain will have a valid HTTPS certificate to be used by your GitLab instance.
+
+After your record had been added to your registrar create a secret for your cluster to use the certificate by running:
 
 ```shell
 sudo kubectl create secret tls tls-star-<SECRET NAME> --cert=/etc/letsencrypt/live/<DOMAIN NAME>/fullchain.pem --key=/etc/letsencrypt/live/<DOMAIN NAME>/privkey.pem
@@ -212,39 +210,42 @@ sudo kubectl create secret tls tls-star-<SECRET NAME> --cert=/etc/letsencrypt/li
 
 ```shell
 sudo certbot --server https://acme-v02.api.letsencrypt.org/directory --manual --preferred-challenges dns-01 certonly -d "*.pages.<DOMAIN NAME>"
-``` 
+```
+
 ```shell
 sudo kubectl create secret tls tls-star-pages-<SECRET NAME> --cert=/etc/letsencrypt/live/pages.<DOMAIN NAME>/fullchain.pem --key=/etc/letsencrypt/live/pages.<DOMAIN NAME>/privkey.pem
 ```
 
-
 ##### Helm Setup and Chart deploy
 
-* Add the GitLab repository charts to your Helm environment 
+- Add the GitLab repository charts to your Helm environment
 
 ```shell
 helm repo add gitlab https://charts.gitlab.io/
 ```
-* Update your repository to the latest version 
+
+- Update your repository to the latest version
 
 ```shell
 helm repo update
 ```
 
-* Create a `values.yml` file with the desired values you wish to deploy your instance. (A sample file can be found [here](https://gitlab.com/-/snippets/2402111))
-* Deploy GitLab using 
+- Create a `values.yml` file with the desired values you wish to deploy your instance. (A sample file can be found [here](https://gitlab.com/-/snippets/2402111))
+- Deploy GitLab using
 
 ```shell
 helm install gitlab gitlab/gitlab -f <values.yml>
 ```
-* To get the loadbalancer hostname of your GitLab deployment run
+
+- To get the loadbalancer hostname of your GitLab deployment run
 
 ```shell
 kubectl get ingress/gitlab-webservice-default -ojsonpath='{.status.loadBalancer.ingress[0].hostname}'
-``` 
-* Create a CNAME record with the name `gitlab` pointing to your loadbalancer hostname to access your instance on HTTPS.
-* (Optional) If you want to setup GitLab Pages create another CNAME record using `*.pages` pointing to the same loadbalancer hostname.
-* Get your initial root password by executing 
+```
+
+- Create a CNAME record with the name `gitlab` pointing to your loadbalancer hostname to access your instance on HTTPS.
+- (Optional) If you want to setup GitLab Pages create another CNAME record using `*.pages` pointing to the same loadbalancer hostname.
+- Get your initial root password by executing
 
 ```shell
 kubectl get secret gitlab-gitlab-initial-root-password -ojsonpath='{.data.password}' | base64 --decode ; echo
@@ -255,16 +256,16 @@ kubectl get secret gitlab-gitlab-initial-root-password -ojsonpath='{.data.passwo
 Once these steps are completed you can visit your GitLab instance using `gitlab.<DOMAIN NAME>`.
 
 ##### Destroy and recreate your environment
-* Once you're done using your EKS instance run `./eks_bootstrap_script down` to destroy all resources used.
-* When creating a new cluster you will need to run:
-1. `./eks_bootstrap_script up`. 
+
+- Once you're done using your EKS instance run `./eks_bootstrap_script down` to destroy all resources used.
+- When creating a new cluster you will need to run:
+
+1. `./eks_bootstrap_script up`.
 1. Create kuberetes secrets as before.
 1. Deploy your Helm chart.
-1. Update your CNAME with the new loadbalancer in your registrar. 
+1. Update your CNAME with the new loadbalancer in your registrar.
 
 **Note**: You might need to wait for your TTL to reset after you updated your loadbalancer in your registrar before accessing the instance.
-
-
 
 </div>
 </details>
@@ -279,7 +280,7 @@ For features not available in either instance, please create your own trial for 
 
 ### Okta Testing Environment
 
-If you need an Okta sandbox environment to test SAML and SCIM, please go to https://developer.okta.com/signup/ and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
+If you need an Okta sandbox environment to test SAML and SCIM, please go to <https://developer.okta.com/signup/> and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
 
 ### Google Workspace Testing Environment
 
@@ -301,14 +302,15 @@ For testing LDAP integrations with a self-managed GitLab instance, you may consi
 1. [Docker container](https://github.com/osixia/docker-openldap).
 1. [Jumpcloud](https://jumpcloud.com/) (Free for up to 10 users).
 
-### DNS for test instances 
+### DNS for test instances
+
 See the handbook for IT policies about [Domain Names and DNS Records](https://about.gitlab.com/handbook/it/guides/domains-dns/).
 
-If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can purchase a domain name of your choice (without GitLab trademarks) that is paid for by GitLab through your Sandbox Cloud AWS account or GCP project. Instructions and guidelines can be found [here](https://about.gitlab.com/handbook/it/guides/domains-dns/#non-trademark-domain-names). 
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can purchase a domain name of your choice (without GitLab trademarks) that is paid for by GitLab through your Sandbox Cloud AWS account or GCP project. Instructions and guidelines can be found [here](https://about.gitlab.com/handbook/it/guides/domains-dns/#non-trademark-domain-names).
 
 ## Securing Cloud Testing Environments
 
-Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment. 
+Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.
 
 The [GitLab Red Team](/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
 
@@ -344,7 +346,7 @@ For example, GitLab versions from 11.9 to 13.10.2 are vulnerable to [CVE-2021-22
 
 If you're running GitLab version 12.6 to 13.10.2, patch against this vulnerability by running the following commands for each instance:
 
-```
+```sh
 sudo su
 cd ~
 curl -JLO https://gitlab.com/gitlab-org/build/CNG/-/raw/master/gitlab-ruby/patches/allow-only-tiff-jpeg-exif-strip.patch
@@ -354,7 +356,7 @@ patch -p2 < ~/allow-only-tiff-jpeg-exif-strip.patch
 
 For GitLab versions 11.9.0 to 12.5.x, you can "patch" the vulnerability by replacing the `exiftool` binary with the following commands:
 
-```
+```sh
 sudo rm -f /opt/gitlab/embedded/bin/exiftool
 sudo printf '#!/bin/bash \n\ncat -' > /opt/gitlab/embedded/bin/exiftool
 sudo chmod a+x /opt/gitlab/embedded/bin/exiftool
@@ -374,7 +376,7 @@ Note that on Macs with M1 / Apple Silicon, running GitLab in Docker is not worki
 
 Since Docker Toolbox has been deprecated, Docker Machine has to be downloaded and installed manually. Use the following commands to install or upgrade Docker Machine separately:
 
-```
+```sh
 $ curl -L https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-`uname -s`-`uname -m` >/usr/local/bin/docker-machine && \
   chmod +x /usr/local/bin/docker-machine
 ```
@@ -431,11 +433,11 @@ To install Vagrant, go to [tutorials/vagrant/getting-started-install](https://le
 
 Once installed, [support/toolbox](https://gitlab.com/gitlab-com/support/toolbox) has two projects which you can explore for local GitLab and tools setup.
 
-* [GitLab Support Toolkit](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-toolkit)
+- [GitLab Support Toolkit](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-toolkit)
 
 > Support toolkit to help manage GitLab inventory and additional services via docker containers.
 
-* [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups)
+- [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups)
 
 > Provide a common provisioning and directory structure for various support setups including GitLab with connected GitLab Runners.
 
@@ -443,7 +445,7 @@ Once installed, [support/toolbox](https://gitlab.com/gitlab-com/support/toolbox)
 
 #### Install multipass
 
-Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS, and Windows. This method is similar to Vagrant. 
+Multipass is a tool to generate cloud-style Ubuntu VMs quickly on Linux, macOS, and Windows. This method is similar to Vagrant.
 
 It can be [installed using brew](https://multipass.run/docs/installing-on-macos#heading--use-brew) or the [package installer](https://multipass.run/docs/installing-on-macos#heading--use-the-installer-package).
 
@@ -456,7 +458,7 @@ Once installed, use `multipass help` to get an idea of what it can do. The gener
 ##### Omnibus
 
 1. Make sure you download and install multipass.
-2. Create a script called `install-omnibus.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
+1. Create a script called `install-omnibus.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
 
    ```bash
    #!/bin/bash
@@ -469,29 +471,29 @@ Once installed, use `multipass help` to get an idea of what it can do. The gener
    export EXTERNAL_URL="$(hostname -I | awk '{print $1}')"
    echo $EXTERNAL_URL
    echo "Please enter the GitLab version (ex. 15.1.1):"
-   read GL_VERSION 
+   read GL_VERSION
    apt install -y "gitlab-ee=$GL_VERSION-ee.0"
    ```
 
-3. Run the following one-liner. If you’d like to increase/decrease memory or disk, replace with the appropriate values. You can use `multipass help launch` for more details on this command.
+1. Run the following one-liner. If you’d like to increase/decrease memory or disk, replace with the appropriate values. You can use `multipass help launch` for more details on this command.
 
    ```bash
    multipass launch --cpus 4 --memory 8G --disk 10G --name gitlab-omnibus && multipass mount ~/mp_mount/ gitlab-omnibus:/mp_mount && multipass exec gitlab-omnibus -- sh -c 'sudo sh /mp_mount/install-omnibus.sh'
    ```
 
-4. You’re finished! Use `multipass shell gitlab-omnibus` to access your instance. Additionally:
-  - `multipass list` or `multipass ls` to see all instances
-  - `multipass stop gitlab-omnibus` to stop the instance
-  - `multipass delete gitlab-omnibus` to delete the instance
-  - Change the default `open shell` menu item by [using duti](https://multipass.run/docs/changing-terminal#heading--using-duti)
-   
+1. You’re finished! Use `multipass shell gitlab-omnibus` to access your instance. Additionally:
+    - `multipass list` or `multipass ls` to see all instances
+    - `multipass stop gitlab-omnibus` to stop the instance
+    - `multipass delete gitlab-omnibus` to delete the instance
+    - Change the default `open shell` menu item by [using duti](https://multipass.run/docs/changing-terminal#heading--using-duti)
+
 ##### GitLab Runner
 
 1. Create an executable script called `install-runner.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
-    
+
     ```bash
     #!/bin/bash
-    
+
     echo "Starting script..."
     sudo apt-get update
     sudo mkdir -p /etc/apt/keyrings
@@ -504,22 +506,22 @@ Once installed, use `multipass help` to get an idea of what it can do. The gener
     curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
     apt-get install -y gitlab-runner
     ```
-    
-2. Create a new instance:
+
+1. Create a new instance:
 
    ```bash
    multipass launch --cpus 2 --memory 4G --disk 5G --name gitlab-runner && multipass mount ~/mp_mount/ gitlab-runner:/mp_mount && multipass exec gitlab-runner -- sh -c 'sudo sh /mp_mount/install-runner.sh'
    ```
 
-3. Use `multipass shell gitlab-runner` to access your instance.
+1. Use `multipass shell gitlab-runner` to access your instance.
 
 ##### Elasticsearch Instance
 
 1. Create a script called `install-es.sh` inside of `~/mp_mount` (or your preferred mount directory) with the following content:
-    
+
     ```bash
     #!/bin/bash
-    
+
     wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo gpg --dearmor -o /usr/share/keyrings/elasticsearch-keyring.gpg
     sudo apt-get install apt-transport-https
     echo "deb [signed-by=/usr/share/keyrings/elasticsearch-keyring.gpg] https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee /etc/apt/sources.list.d/elastic-7.x.list
@@ -536,20 +538,20 @@ Once installed, use `multipass help` to get an idea of what it can do. The gener
     EOF
     sudo systemctl restart elasticsearch.service
     ```
-    
-2. Create a new instance:
-    
+
+1. Create a new instance:
+
     ```bash
     multipass launch --cpus 2 --memory 8G --disk 5G --name gitlab-es && multipass mount ~/mp_mount/ gitlab-es:/mp_mount && multipass exec gitlab-es -- sh -c 'sudo sh /mp_mount/install-es.sh'
     ```
-    
-3. Use `multipass shell gitlab-es` to access your instance. You can use `multipass ls` to get the IP address and connect to it in your browser at port `:9200` to verify it is working. Alternatively, run `curl ip_address:9200` from your GitLab Omnibus instance to confirm you can reach your Elasticsearch instance.
+
+1. Use `multipass shell gitlab-es` to access your instance. You can use `multipass ls` to get the IP address and connect to it in your browser at port `:9200` to verify it is working. Alternatively, run `curl ip_address:9200` from your GitLab Omnibus instance to confirm you can reach your Elasticsearch instance.
 
 ## Creating GitLab test instance
 
 #### Creating settings variables
 
-```
+```sh
 export SSH_PORT=2222
 export HTTP_PORT=8888
 export VERSION=11.9.9-ee.0
@@ -561,12 +563,12 @@ export CONTAINER_NAME=gitlab-test-11.9
 
 This command will create a new VirtualBox virtual machine called `gitlab-test-env` that will act as a docker host.
 
-+ CPUs: Same as host (`-1`)
-+ RAM: `4GB`
-+ Name: `gitlab-test-env`
-+ Driver: `virtualbox`
+- CPUs: Same as host (`-1`)
+- RAM: `4GB`
+- Name: `gitlab-test-env`
+- Driver: `virtualbox`
 
-```
+```sh
 docker-machine create \
 --virtualbox-cpu-count -1 \
 --virtualbox-memory 4096 \
@@ -574,7 +576,7 @@ docker-machine create \
 --driver virtualbox $ENV_NAME
 ```
 
-+ Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
+- Resource: [https://docs.docker.com/machine/drivers/virtualbox/](https://docs.docker.com/machine/drivers/virtualbox/)
 
 ### Creating GitLab test instance with docker machine
 
@@ -584,7 +586,7 @@ In this example we'll create a GitLab EE 11.9.9 instance.
 
 First connect the docker client to the docker host you created previously.
 
-```
+```sh
 eval "$(docker-machine env gitlab-test-env)"
 ```
 
@@ -598,22 +600,22 @@ echo 'eval "$(docker-machine env gitlab-test-env)"' >> ~/.bash_profile
 
 Optionally replace the `ee` in the URL with `ce`
 
-```
+```sh
 wget -q https://registry.hub.docker.com/v1/repositories/gitlab/gitlab-ee/tags -O - | sed -e 's/[][]//g' -e 's/"//g' -e 's/ //g' | tr '}' '\n' | awk -F: '{print $3}'
 ```
 
 #### Create new GitLab container
 
-+ HTTP port: `8888`
-+ SSH port: `2222`
-   + Set `gitlab_shell_ssh_port` using `--env GITLAB_OMNIBUS_CONFIG`
-+ Hostname: IP of docker host
-+ Container name: `gitlab-test-11.9`
-+ GitLab version: **EE** `11.9.9-ee.0`
+- HTTP port: `8888`
+- SSH port: `2222`
+  - Set `gitlab_shell_ssh_port` using `--env GITLAB_OMNIBUS_CONFIG`
+- Hostname: IP of docker host
+- Container name: `gitlab-test-11.9`
+- GitLab version: **EE** `11.9.9-ee.0`
 
 <!-- #####  Set up container settings
 
-```
+```sh
 export SSH_PORT=2222
 export HTTP_PORT=8888
 export VERSION=11.9.9-ee.0
@@ -622,7 +624,7 @@ export NAME=gitlab-test-11.9
 
 ##### Create container
 
-```
+```sh
 export IP=$(docker-machine ip $ENV_NAME)
 
 docker run --detach \
@@ -637,22 +639,22 @@ gitlab/gitlab-ee:$VERSION
 
 ##### Retrieve the docker host IP
 
-```
+```sh
 echo $IP
 # example output: 192.168.151.134
 ```
 
-+ Browse to: http://192.168.151.134:8888/
+- Browse to: <http://192.168.151.134:8888/>
 
 **Note**: The container might take a few seconds to spin up and become accessible via the browser.
 
 ##### Execute interactive shell/edit configuration
 
-```
+```sh
 docker exec -it $CONTAINER_NAME /bin/bash
 ```
 
-```
+```sh
 # example commands
 root@192:/# vi /etc/gitlab/gitlab.rb
 root@192:/# gitlab-ctl reconfigure
@@ -663,7 +665,7 @@ root@192:/# gitlab-ctl reconfigure
 For example, to set the **gitlab_shell_ssh** port on a container named
 **gitlab-ee** to port **2222**
 
-```
+```sh
 docker exec -it gitlab-ee \
 sed -i "s/.*gitlab_shell_ssh_port.*/gitlab_rails['gitlab_shell_ssh_port'] = 2222/g" /etc/gitlab/gitlab.rb
 
@@ -672,9 +674,9 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 
 #### Resources
 
-+ [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
-+ [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/)
-+ [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)
+- [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
+- [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/)
+- [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)
 
 ## Windows
 
@@ -682,5 +684,6 @@ It may come to pass that you require a Windows environment to test a [Windows Ru
 even the [Kubernetes Executor in a Mixed Cluster](https://docs.gitlab.com/runner/executors/kubernetes.html#example-for-windowsamd64).
 
 The options are the same as above:
- - Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.
- - A local environment: Microsoft provides [pre-packeged Windows VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) for your hypervisor of choice.
+
+- Cloud environements: GCP and AWS have Windows Server images you can spin up to connect to via RDP.
+- A local environment: Microsoft provides [pre-packeged Windows VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) for your hypervisor of choice.

@@ -33,7 +33,6 @@ Elon says in the interview:
 >
 > Everyone’s wrong, no matter who you are, everyone’s wrong some of the time. Also, whatever requirement or constraint you have it must come with a name, not a department. Because you can’t ask the department, you have to ask a person. And that person who’s pulling for the requirement or constraint must agree that they must take responsibility for that requirement.
 
-
 For GitLab, one can translate this into two key actions:
 
 1. Ensure we have a strong understanding of the problem we want to solve
@@ -45,13 +44,11 @@ These two actions help to ensure our requirements are "less dumb" and it is clea
 
 Elon says in the interview:
 
-
 > The bias tends to be very strongly towards lets’s add this part of the process in case we need it, but you can basically make “in case” arguments for so many things.
 >
 > ...
 >
 > This is actually very important. If you’re not occasionally adding things back in, you are not deleting enough.
-
 
 This is indeed important, especially as a company and a product scale and grow over time. As noted by Elon, there is a natural inclination to add a process or feature for every single scenario. This however leads to very sub-optimal outcomes.
 

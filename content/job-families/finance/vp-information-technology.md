@@ -6,7 +6,6 @@ title: "VP, Information Technology"
 
 The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 ## Responsibilities
 
 1. Build, hire, develop and manage a strong information technology team that lives GitLab’s values.
@@ -21,8 +20,6 @@ The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compe
 1. Develop and execute the infrastructure for scale to lead GitLab through hyper growth
 1. Be customer zero for GitLab product features that enable an IT organization. Build an engineering culture that contributes back to the GitLab product.
 
-
-
 ## Requirements
 
 1. Experience leading IT in a high growth environment and at scale - VP Information Technology, CIO or similar role.
@@ -36,16 +33,11 @@ The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compe
 1. Ability to combine industry leading solutions with internal tools to create solutions that meet GitLab’s unique needs
 1. Demonstrated success building, developing, and leading global, remote teams
 
-
-
 ## Performance Indicators
 
 - IT Program based impact to revenue or efficiency
 - SLA achievement for IT Support Issue Resolution
 - IT Team member satisfaction score
-
-
-
 
 ## Hiring Process
 
@@ -59,7 +51,6 @@ The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compe
 - Interview with VP, People Ops or CPO
 - Interview with CFO
 
-
 Please note that a candidate may be declined from the position at any stage of the process.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
@@ -67,4 +58,3 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Career Ladder
 
 The next step in the VP, IT job family is to be determined in the future.
-

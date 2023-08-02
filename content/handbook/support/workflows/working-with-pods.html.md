@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Working with Support Pods
 category: Handling tickets
 description: How to work with the Support Pods
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## What is Support Pods?
 

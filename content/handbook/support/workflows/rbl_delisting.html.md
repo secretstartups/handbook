@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Real Time Blocklist Delisting
 category: GitLab.com
 description: How to reach out to Mailgun support to remove our IP addresses from a Real-time Blocklist (RBL)
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -23,20 +16,20 @@ If a customer is reporting that they are not receiving a confirmation email, you
 
 In the logs, if you see a mention of a rejection due to abuse or explicit confirmation of a blocklist, proceed to the link and look up the IP address. Every provider will be different, but if a lookup database is available, you should verify that it is listed and if a reason is stated.
 
-```
-	"delivery-status": {
-		"tls": true,
-		"mx-host": "mx1.external-mailserver.com",
-		"attempt-no": 1,
-		"description": "",
-		"session-seconds": 1.7985761165618896,
-		"code": 550,
-		"message": "5.7.1 H:M11 [192.237.158.143] Connection refused due to abuse. Please see http://mailspike.org/iplookup.html or contact your E-mail provider."
+```text
+ "delivery-status": {
+  "tls": true,
+  "mx-host": "mx1.external-mailserver.com",
+  "attempt-no": 1,
+  "description": "",
+  "session-seconds": 1.7985761165618896,
+  "code": 550,
+  "message": "5.7.1 H:M11 [192.237.158.143] Connection refused due to abuse. Please see http://mailspike.org/iplookup.html or contact your E-mail provider."
 ```
 
 You can confirm that the IP address is ours by doing a "host" lookup on the IP address. It should always end in `mg.gitlab.com`.
 
-```
+```text
 > host 192.237.158.143
 143.158.237.192.in-addr.arpa domain name pointer do158-143.mg.gitlab.com.
 ```

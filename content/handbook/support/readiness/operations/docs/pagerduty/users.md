@@ -43,7 +43,7 @@ The steps to edit an user in Pagerduty are:
 
 ## Removing a user in Pagerduty
 
-**Note**: User must not be present in _any_ schedule or escalation policy to be
+**Note**: User must not be present in *any* schedule or escalation policy to be
 deleted.
 
 The steps to remove an user from Pagerduty are:

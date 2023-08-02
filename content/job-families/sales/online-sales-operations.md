@@ -70,7 +70,6 @@ The Analyst, Online Sales & Self Service Operations is a [grade 6](https://about
 - Willingness to learn and use GitLab
 - You share our values and work by those values
 
-
 ## Senior Analyst, Online Sales & Self Service Operations
 
 ## Job Grade
@@ -103,6 +102,7 @@ The next step in the Online Sales & Self Service Operations Job Family had not y
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule 30-minute interviews with 2 immediate team members and 3 cross-functional partners

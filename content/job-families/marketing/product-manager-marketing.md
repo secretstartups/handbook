@@ -17,27 +17,27 @@ The Product Manager - Marketing (Intermediate) is a [grade 8](https://about.gitl
 
 #### Product Manager - Marketing (Intermediate) Responsibilities
 
-  - Adept at qualitative customer interviewing
-  - Familiar with prioritization frameworks to organize opportunity backlogs
-  - Capable of deriving key insights and patterns from customer interviews, and using that input to clarify problem statements
-  - Proficient at story mapping, to break epics down into smaller MVC issues
-  - Proficient at collaborating with Design on prototypes to bring potential solutions to life
-  - Adept at breaking epics and issues down into MVC's
-  - Knowledgeable about GitLab's product and the relevant product domain(s)
-  - Knowledgeable about GitLab's Marketing site architecture, API's, and tech stack
-  - Capable of running a demo anytime
-  - Able to make highly informed prioritization & tradeoff decisions with engineering
-  - Able to discuss & evaluate technical architecture recommendations from engineering
-  - Responsible for the health of working relationships with peers in Marketing and Product
-  - Familiar and comfortable with agile development methodologies
-  - Understands and communicates the business value of epics and issues
-  - Sets success metrics for epics and issues, and tracks metrics post-launch to guide investment in iterative improvements
-  - Spends up to 20% of time researching & defining category vision & strategy
-  - [Bring ideas to reality](https://about.gitlab.com/handbook/product/product-principles/#bringing-ideas-to-reality) by surfacing ideas early and collecting feedback
-  - Capable written and verbal communicator internally and externally. Drives clarity in area
-  - Builds rapport with stakeholders to align around priorities
-  - Self-aware and understands how their interactions impact others
-  - Two to four years of relevant experience or equivalent combination of experience and education
+- Adept at qualitative customer interviewing
+- Familiar with prioritization frameworks to organize opportunity backlogs
+- Capable of deriving key insights and patterns from customer interviews, and using that input to clarify problem statements
+- Proficient at story mapping, to break epics down into smaller MVC issues
+- Proficient at collaborating with Design on prototypes to bring potential solutions to life
+- Adept at breaking epics and issues down into MVC's
+- Knowledgeable about GitLab's product and the relevant product domain(s)
+- Knowledgeable about GitLab's Marketing site architecture, API's, and tech stack
+- Capable of running a demo anytime
+- Able to make highly informed prioritization & tradeoff decisions with engineering
+- Able to discuss & evaluate technical architecture recommendations from engineering
+- Responsible for the health of working relationships with peers in Marketing and Product
+- Familiar and comfortable with agile development methodologies
+- Understands and communicates the business value of epics and issues
+- Sets success metrics for epics and issues, and tracks metrics post-launch to guide investment in iterative improvements
+- Spends up to 20% of time researching & defining category vision & strategy
+- [Bring ideas to reality](https://about.gitlab.com/handbook/product/product-principles/#bringing-ideas-to-reality) by surfacing ideas early and collecting feedback
+- Capable written and verbal communicator internally and externally. Drives clarity in area
+- Builds rapport with stakeholders to align around priorities
+- Self-aware and understands how their interactions impact others
+- Two to four years of relevant experience or equivalent combination of experience and education
 
 ### Product Manager - Marketing (Intermediate) Requirements
 
@@ -81,8 +81,6 @@ The Senior Product Manager is a [grade 9](https://about.gitlab.com/handbook/tota
 - Experience in leading product management teams
 - Experience with strategic creation of roadmaps that span multiple products
 - Highly interdependent and collaborative
-
-## Performance Indicators
 
 ## Performance Indicators
 

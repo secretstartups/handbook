@@ -49,7 +49,6 @@ Aside from Support Operations, all support managers have `Maintainer` access to
 the organization project, enabling them the ability to approve and merge MRs in
 this repo.
 
-
 When an organization has a ticket created, a trigger calls to a webhook to
 run a pipeline using the
 [ticket processor](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/ticket-processor)

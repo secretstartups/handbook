@@ -17,7 +17,6 @@ The SMB Account Executive job family includes four distinct positions:
 - SMB Expansion Account Executive
 - SMB Named Account Executive
 
-
 All positions will include the following responsibilities:
 
 - Experience managing an inbound request queue and assisting prospects and customers with online chat, email, and phone correspondence.
@@ -67,6 +66,7 @@ As an SMB Named Account Executive you will be responsible for managing customers
 **Renewal/account intake:**
 
 Renewal/account intake involves responding to customers that contact GitLab through the following channels:
+
 1. Salesforce Cases
 1. Zendesk
 1. Direct email (customers, partners)
@@ -96,18 +96,20 @@ The instructions below describe the basic process for properly handling inquirie
   - When the account is in your territory, reassign the ticket to yourself (if not already in your name), and respond and/or update the ticket status accordingly.
 
 Ticket status can be updated in the following ways:
+
 - "*Submit as Pending*" if you have written a response to a prospect and are expecting their response.
 - "*Submit as Solved*" if the ticket has been resolved and can be closed (i.e. no response is expected from the prospect).
 - "*Submit as Open*" if the account is outside of SMB segmentation; make sure to cc the appropriate account owner within the ticket. Ping the account manager on Slack notifying them of the active ticket that requires their response.
   - If the account is requesting a refund or billing support, disposition the ticket to the Accounts/Receivable Refunds form on the left panel and "*Submit as Open*".
 
 -*Direct email** (proactively monitor, check at least three times daily):
+
 - If a Customer or Partner emails you directly, check SFDC for account ownership and introduce the correct colleague.
 - If the account is in your territory, continue correspondence via email.
 
 ### Pitch and Negotiation
 
-#### Pitch:
+#### Pitch
 
 **Here are some basic resources for pitching Gitlab and our different product offerings:**
 
@@ -130,16 +132,14 @@ Use discovery to help build a story and collect relevant information in order to
 - What is their primary driver for looking at GitLab in the first place?
 - A little bit on [Creating Value](https://about.gitlab.com/company/pricing/#value-creation)
 - Size and Scope
-    - Scope- Find out how many components of GitLab they want to use
-    - Size- The larger the organization, the more value GitLab provides
-
+  - Scope- Find out how many components of GitLab they want to use
+  - Size- The larger the organization, the more value GitLab provides
 
 - A single application sets up a small or medium sized business for a scalable situation as their organization grows
 
 - After the initial round of questioning, summarize your findings to the customer and prescribe how GitLab can solve their problem and what product tier they require
-    - Are they interested in Epics? Yes → Ultimate
-    - Do they have a need for security? Yes → Ultimate
-
+  - Are they interested in Epics? Yes → Ultimate
+  - Do they have a need for security? Yes → Ultimate
 
 **Pitching for the upgrade:**
 
@@ -171,8 +171,7 @@ Below are some common drivers the SMB team has seen for a customer to gravitate 
             - More regulated industries tend to be more interested in Ultimate because of their security needs
     1. [Why Ultimate?](https://docs.google.com/presentation/d/1TP5cXH5Nr0VkH7mE6M_-DFXT_Jnq7o5LPxuMUz2paI4/edit#slide=id.g2ee90b3719_0_0)
 
-
-### Negotiation:
+### Negotiation
 
 **Some resources for negotiation:**
 
@@ -188,7 +187,7 @@ Below are some common drivers the SMB team has seen for a customer to gravitate 
         - If they are unhappy with that, bring up the idea of multi-year pricing
             - Multi-year pricing can be especially helpful if the company plans on adding more users in the following year
     - Bring up the idea of discussing Ultimate
-2. Ultimate
+1. Ultimate
     - For customers who are coming up on renewal and are on early adopter pricing, there is an increase to our current Ultimate price
         - In these cases, refer to the pricing approval matrix to reference how you can assist them
     - Always bring up multi-year deals and more users added in advance

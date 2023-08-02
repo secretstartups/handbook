@@ -5,7 +5,7 @@ description: "Zoom usage and tips at GitLab"
 
 ## In general
 
-_Zoom is an important part of GitLab's strategy for communication between team members. As such, extra care needs to be given to ensure the safety and integrity of data._
+*Zoom is an important part of GitLab's strategy for communication between team members. As such, extra care needs to be given to ensure the safety and integrity of data.*
 
 ### A note on privacy and security
 
@@ -52,13 +52,13 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 ## Zoom Setup
 
-_Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app._
+*Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app.*
 
 ### Sign into Zoom for the first time via Okta
 
 Please ensure you can login Zoom using Okta
 
-1. Go to https://gitlab.okta.com/
+1. Go to <https://gitlab.okta.com/>
 1. Click on the `Zoom SSO` tile
 
 ### Install the Zoom app (on your Mac)
@@ -143,8 +143,8 @@ Now all meetings that use your Personal Meeting ID (PMI) will require you to "ad
 
 ### Enable passcodes for all meetings
 
-- _Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled_
-- _Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled._
+- *Please keep in mind that starting 2020-09-27, all meetings will be required to have a Passcode or a Waiting Room enabled*
+- *Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled.*
 
 1. Sign into the Zoom web portal and navigate to [Settings](https://zoom.us/profile/setting).
 1. In the Security section, verify that your passcode settings are enabled for new meetings, personal meeting ID meetings and instant meetings.
@@ -152,7 +152,7 @@ Now all meetings that use your Personal Meeting ID (PMI) will require you to "ad
 
 ### Enable passcodes for existing meetings
 
-- _Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled._
+- *Please remember that if you are part of an interview team, your personal meeting room that is used for scheduling interviews should not have passwords on them but should have the waiting room enabled.*
 
 **Method 1 (recommended):**
 
@@ -181,14 +181,15 @@ Here is a quick video tutorial how to do this:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZvaLolwKfAI/0.jpg)](https://www.youtube.com/watch?v=ZvaLolwKfAI)
 
-
 **Steps for a new meeting:**
+
 1. During the meeting creation, in the Security section there is an option in the Zoom client that says: "Only authenticated users can join: Gitlab Internal Only" or select the "Sign in to Zoom" option so users with any Zoom account can join. Click the check box next to this option.
 1. If you are in Zoom via the browser, the option is still in the Security section but is labeled: "Require authentication to join".
 1. Proceed as normal with your meeting creation, and click Save.
 1. This process only works in the Zoom client or from the gitlab.zoom.us website. If you're scheduling it within Google calendar, schedule as normal and edit the meeting following the steps in the next section for an existing meeting.
 
 **Steps for editing an existing meeting:**
+
 1. Authenticate into Zoom, either via the client or via the web in a browser.
 1. Navigate to "Meetings". In the Zoom client this is at the top, in the browser this is on the left side.
 1. Find the meeting you wish to change and click on it.
@@ -196,6 +197,7 @@ Here is a quick video tutorial how to do this:
 1. In the Security section, select the option to require authentication, and click Save.
 
 **Enable for all future meetingss**
+
 1. Authenticate into Zoom via the browser at gitlab.zoom.us.
 1. Select Settings on the left menu.
 1. In the Security section, scroll down and find "Only authenticated users can join meetings". Click on the button on the right to turn this on.
@@ -206,7 +208,7 @@ Here is a quick video tutorial how to do this:
 
 ## Setting up a Zoom Meeting
 
-_To set up a Zoom meeting, sign in via Okta and share the link for your "personal meeting room" with your participants._
+*To set up a Zoom meeting, sign in via Okta and share the link for your "personal meeting room" with your participants.*
 
 ### Using your personal link versus a unique/random link
 
@@ -245,8 +247,8 @@ It can be distracting when a call with a large number of attendees has folks joi
 
 ## During your Zoom Meeting
 
-_Zoom can be [minimized](https://support.zoom.us/hc/en-us/articles/201362323-How-Do-I-Change-The-Video-Layout-#mini) during a meeting (`cmd-m` on macOS) to a small window staying on top of all applications.
-This tip is very handy when using a small screen: it allows to see the participant(s) and use other applications at the same time without worrying about the screen layout._
+*Zoom can be [minimized](https://support.zoom.us/hc/en-us/articles/201362323-How-Do-I-Change-The-Video-Layout-#mini) during a meeting (`cmd-m` on macOS) to a small window staying on top of all applications.
+This tip is very handy when using a small screen: it allows to see the participant(s) and use other applications at the same time without worrying about the screen layout.*
 
 ### Recording in Zoom
 
@@ -260,7 +262,7 @@ Go to "My Meeting Settings" and find the "Recording" section, then click on "Clo
 Setting the topic of the meeting is important, otherwise all meetings will be recorded with a generic name.
 Once recording is complete, your videos will not appear in the “Recordings” section of your Zoom account.
 
-If the meeting topic in Zoom (editable by logging into https://zoom.us/) contains the text `[REC]`, these recordings will
+If the meeting topic in Zoom (editable by logging into <https://zoom.us/>) contains the text `[REC]`, these recordings will
 automatically be saved to a folder on Google Drive under `GitLab Videos Recorded` (accessible from [Google shared drives](https://drive.google.com/drive/shared-drives)).
 The name of the folder will be prefixed by the host's e-mail
 address. For example, if the host is `someuser@gitlab.com` and the
@@ -297,7 +299,6 @@ You can use one of the below methods to find this information after joining the 
    1. Navigate to the upper left corner, where you will be presented with an i icon.
    1. Select the icon to locate the meeting host who will have the ability to record the call.
 
-
 #### How to allow recording when the host is not present
 
 This usually happens on recurring meetings where the host can't always attend.
@@ -321,7 +322,6 @@ Using the Zoom app:
 1. Find the "Alternative Hosts" box at the bottom.
 1. Add the email address for one or more colleagues separated by a semi-comma.
 1. Click Save.
-
 
 ### Recording video transcripts
 
@@ -471,7 +471,7 @@ Once installed, install firejail.
 Once both firejail and Zoom are installed we need two things:
 
 1. A firejail profile for Zoom
-2. A directory we can use as the home directory for Zoom, preventing it from messing with your home directory
+1. A directory we can use as the home directory for Zoom, preventing it from messing with your home directory
 
 You can use the following firejail profile and store it in `~/.config/firejail/zoom.profile`:
 
@@ -513,7 +513,7 @@ Note that you must start the `ZoomLauncher` binary and not the shell script wrap
 
 With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call.
 
-Consider using a [custom GitLab Background](https://docs.google.com/presentation/d/1PM4sCuCTSmVtoCp_O-_K9BS7yrIJjh1kteMTT7PS9zI/edit#slide=id.gc454e6622b_0_3) (_Google Drive access available to GitLab team members who are logged in_).
+Consider using a [custom GitLab Background](https://docs.google.com/presentation/d/1PM4sCuCTSmVtoCp_O-_K9BS7yrIJjh1kteMTT7PS9zI/edit#slide=id.gc454e6622b_0_3) (*Google Drive access available to GitLab team members who are logged in*).
 
 1. In your Zoom [In Meeting (Advanced)](https://zoom.us/profile/setting#advanced_meeting_options) settings, enable `Virtual background`
 1. In your Zoom application on your computer, open settings and click on the `Virtual Background` setting

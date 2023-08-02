@@ -105,7 +105,6 @@ The Senior Director of Legal, Litigation & Risk Management reports to the [Chief
 - Strong operational mindset with ability to prioritize projects and demands
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration[), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
-
 ## Performance Indicators
 
 ### Corporate

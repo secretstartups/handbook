@@ -1,14 +1,7 @@
 ---
-layout: handbook-page-toc
 title: Bulk editing SGG values in Zendesk
 description: How to find your assigned tickets that aren't in your group and move them
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -26,19 +19,19 @@ group, the best way is to
 
 ### Ready-to-use query links
 
-Click on the appropriate link for your current/new group to run a query that finds all of your tickets _not_ in your new group:
+Click on the appropriate link for your current/new group to run a query that finds all of your tickets *not* in your new group:
 
-* [Baobab](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobab%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
-* [Ginkgo](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_ginkgo%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
-* [Kapok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_kapok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
-* [Maple](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_maple%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
-* [Pine](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_pine%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+- [Baobab](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_baobab%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+- [Ginkgo](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_ginkgo%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+- [Kapok](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_kapok%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+- [Maple](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_maple%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
+- [Pine](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=assignee%3Ame%20-custom_field_4414446722578%3Aticket_group_pine%20status%3Cclosed%20-form%3A%22Support%20Ops%22%20-form%3A%22GitLab%20Incidents%22%20-form%3A%22L%26R%22%20-form%3A%22Emergencies%22)
 
 ### Query format
 
 The actual query string looks like this:
 
-```
+```text
 assignee:me -custom_field_4414446722578:GROUP_TAG status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
 ```
 
@@ -47,23 +40,23 @@ where `GROUP_TAG` is your current group's tag. See
 
 As an example, the search query for those in the Maple group is:
 
-```
+```text
 assignee:me -custom_field_4414446722578:ticket_group_maple status<closed -form:"Support Ops" -form:"GitLab Incidents" -form:"L&R" -form:"Emergencies"
 ```
 
-#### Understanding the parts of the query:
+#### Understanding the parts of the query
 
-* `assignee:me` = specifies you are looking for items assigned to you
-* `-custom_field_4414446722578:ticket_group_NAME` = specifies you are looking
+- `assignee:me` = specifies you are looking for items assigned to you
+- `-custom_field_4414446722578:ticket_group_NAME` = specifies you are looking
   for items not assigned to your group
-* `status<closed` = specifies you are looking for items that have a status lower
+- `status<closed` = specifies you are looking for items that have a status lower
   than closed (new, open, pending, on-hold, solved)
-* `-form:"Support Ops"` = specifies you are looking for items where the form is
+- `-form:"Support Ops"` = specifies you are looking for items where the form is
   not Support Ops
-* `-form:"GitLab Incidents"` = specifies you are looking for items where the
+- `-form:"GitLab Incidents"` = specifies you are looking for items where the
   form is not GitLab Incidents
-* `-form:"L&R"` = specifies you are looking for items where the form is not L&R
-* `-form:"Emergencies"` = specifies you are looking for items where the form is
+- `-form:"L&R"` = specifies you are looking for items where the form is not L&R
+- `-form:"Emergencies"` = specifies you are looking for items where the form is
   not Emergencies
 
 ##### Zendesk Group Tags

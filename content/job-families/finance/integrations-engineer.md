@@ -28,20 +28,18 @@ The Integrations Engineer develops core services and APIs that serve as an enter
 
 The Integrations Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+### Responsibilities
 
 The Integrations Engineer shares the same responsibilities outlined above, plus:
 
 - Document technical details clearly to various stakeholders of different technical levels (VP of IT, Sales Operations, Software Engineer)
 - Develop integrations that are designed and implemented as reusable building blocks as appropriate to allow for more efficient integrations of a similar type
 
-
-## Requirements
+### Requirements
 
 - Ability to use GitLab
 - BA/BS degree
 - 2+ years of application integration experience
-
 
 ## Senior Integrations Engineer
 
@@ -51,7 +49,7 @@ The Senior Integrations Engineer is the owner of core services and APIs that ser
 
 The Senior Integrations Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+### Responsibilities
 
 The Senior Integrations Engineer shares the same responsibilities outlined above, plus:
 
@@ -59,13 +57,13 @@ The Senior Integrations Engineer shares the same responsibilities outlined above
 - Ensure that integrations are designed and implemented as reusable building blocks as appropriate to allow for more efficient integrations of a similar type
 - Align the Enterprise Architecture by building and maintaining key integrations that connect the GitLab Enterprise Application Ecosystem, from product ecosytem to cloud systems.
 
-## Requirements
+### Requirements
 
 - Ability to use GitLab
 - BA/BS degree
 - 5+ years of application integration experience
 
-## Nice to Have
+### Nice to Have
 
 - MacOS experience
 - Google Workspace experience
@@ -77,11 +75,11 @@ The Senior Integrations Engineer shares the same responsibilities outlined above
 
 The Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
 
-## Job Grade
+### Job Grade
 
 The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Manager, Integrations Engineering Responsibilities
+### Manager, Integrations Engineering Responsibilities
 
 - Extends that of the Integrations Engineering responsibilities.
 - Business Partnership: Influences outcomes in cross-functional settings often.
@@ -92,7 +90,7 @@ The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/ha
 - Mentorship: As a manager you mentor other team members in technical delivery, process analysis, and improvement.
 - Autonomy: Delivers and effectively prioritizes projects assigned with clear scope
 
-## Manager, Integrations Engineering Requirements
+### Manager, Integrations Engineering Requirements
 
 - Extends that of the Integrations Engineer requirements.
 - Communication: Demonstrated an ability to influence business stakeholders.
@@ -103,32 +101,32 @@ The Manager, Integrations Engineering is a [grade 8](https://about.gitlab.com/ha
 
 Senior Manager, Integrations Engineering reports to the [Senior Director, Enterprise Applications](https://about.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
 
-## Job Grade
+### Job Grade
 
 The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Senior Manager, Integrations Engineering Responsibilities
+### Senior Manager, Integrations Engineering Responsibilities
 
 - Extends responsibilities the Manager, Integrations Engineering
 - Partnerships:
-    - Working with  internal and external cross functional teams, business stakeholders, service providers, vendors to design, develop and implement enterprise architecture strategies
-    - Provides thought leadership and clear technical direction to the team to deliver results and business value.
-    - Analyze existing business processes and data flows to develop system designs, delivery roadmaps and integrations to other systems
+  - Working with  internal and external cross functional teams, business stakeholders, service providers, vendors to design, develop and implement enterprise architecture strategies
+  - Provides thought leadership and clear technical direction to the team to deliver results and business value.
+  - Analyze existing business processes and data flows to develop system designs, delivery roadmaps and integrations to other systems
 - Strategy:
-    - Create secure, scalable and high performance enterprise solutions  
-    - Developing methodologies and processes to ensure compliance to Integrations & Architecture strategies
-    - Responsible for the high-level design and implementations of integrations across the application eco-system by effectively partnering with business users, application developers and vendors
+  - Create secure, scalable and high performance enterprise solutions
+  - Developing methodologies and processes to ensure compliance to Integrations & Architecture strategies
+  - Responsible for the high-level design and implementations of integrations across the application eco-system by effectively partnering with business users, application developers and vendors
 - Technical Solutions:
-    - Responsible to develop and maintain current state and future state technology roadmaps aligned with approved IT Investments and approved by Leadership.
-    - Support the transformation of the technology architecture to support the company growth plans, building scalable platform solutions as well as building and customizing best in class software products
-    - Lead master data management initiatives from the data modeling side. Design and promote the enterprise data model.
-    - Evaluate alternatives and formulates system scope and objectives to create or modify integration services
-    - Troubleshoots production problems and works to fix issues
+  - Responsible to develop and maintain current state and future state technology roadmaps aligned with approved IT Investments and approved by Leadership.
+  - Support the transformation of the technology architecture to support the company growth plans, building scalable platform solutions as well as building and customizing best in class software products
+  - Lead master data management initiatives from the data modeling side. Design and promote the enterprise data model.
+  - Evaluate alternatives and formulates system scope and objectives to create or modify integration services
+  - Troubleshoots production problems and works to fix issues
 - Leadership:
-    - Builds and leads a transformational team that is required to design and execute on key business and technical strategies.
-    - Mentors and coaches the team to foster a culture of continuous learning and collaboration.
+  - Builds and leads a transformational team that is required to design and execute on key business and technical strategies.
+  - Mentors and coaches the team to foster a culture of continuous learning and collaboration.
 
-## Senior Manager, Integrations Engineering Requirements
+### Senior Manager, Integrations Engineering Requirements
 
 - 10+ years of experience in an integration engineering or full stack engineer role ideally with an enterprise SaaS software model company
 - Demonstrated experience managing and integrating multiple Enterprise Business Platforms such as Marketo, Salesforce, Zuora Billing, Zuora Revenue, Netsuite, Workday, ServiceNow and the likes
@@ -138,8 +136,7 @@ The Senior Manager, Integrations Engineering is a [grade 9](https://about.gitla
 - Expert knowledge of IT best practices, policies, and regulations, including a clear understanding of client/server technology and network architecture
 - Excellent project management skills and strong ability to prioritize.
 
-
-## Performance Indicators
+### Performance Indicators
 
 - [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
 - [Average Merge Request](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)

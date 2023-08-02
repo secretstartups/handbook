@@ -361,4 +361,3 @@ See more details about our hiring process on the [hiring handbook](https://about
 ## Career Ladder
 
 The next step in the Recruiting job family is to move to the [Recruiting Leadership](https://handbook.gitlab.com/job-families/people-group/talent-acquisition-leadership/) job family.
-

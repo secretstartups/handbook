@@ -5,11 +5,7 @@ description: "How to escalate from Support to GitLab Sales or Customer Success"
 category: Handling tickets
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Purpose
 
@@ -51,10 +47,11 @@ Since CSMs are assigned based on [certain criteria](/handbook/customer-success/c
 Some organizations do not have a dedicated CSM/CSE but could benefit from Customer Success engagement. In the Zendesk notes, you'll see `Customer Success Manager: CSM Scale`. In cases where it is appropriate, you can reach out to the Account Owner to discuss opening a [Scale Engagement Request](/handbook/customer-success/csm/segment/scale/scale-operating-rhythm/#scale-engagement-request-process).
 
 Some examples on when this might be appropriate:
-  - Architectural best practices
-  - Discussing how other organizations like theirs use GitLab
-  - Migrations or the differences between GitLab.com and Self-Managed instances
-  - Addressing growth or blockers to feature adoption
+
+- Architectural best practices
+- Discussing how other organizations like theirs use GitLab
+- Migrations or the differences between GitLab.com and Self-Managed instances
+- Addressing growth or blockers to feature adoption
 
 #### Resources
 

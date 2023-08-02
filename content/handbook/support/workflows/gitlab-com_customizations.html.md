@@ -1,21 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab.com custom limits
 category: GitLab.com
 description: "Provides a general overview of some of the limits applied exclusively to GitLab.com (SaaS)"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
-[Infrastructure team](/handbook/engineering/infrastructure/) is responsible for driving the evolution of Gitlab.com. They control and monitor our biggest GitLab instance. 
+[Infrastructure team](/handbook/engineering/infrastructure/) is responsible for driving the evolution of Gitlab.com. They control and monitor our biggest GitLab instance.
 
-Gitlab.com has certain customizations specific to it. These customization are  managed through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)(internal). 
+Gitlab.com has certain customizations specific to it. These customization are  managed through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)(internal).
 
 ## Limits applied to Gitlab.com
 

@@ -1,15 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Subscription and billing issues
 category: Legacy pages
 description: Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
 ## Overview
 
 Refer to this page when a user has questions/issues related to transactions, licensing or billing for self-managed or GitLab.com. Note the information on this page applies to both Self-Managed and GitLab.com users/products unless specifically indicated as an exception.
@@ -37,7 +34,7 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
    - [Create a group](https://docs.gitlab.com/ee/user/group/#create-a-new-group) if desired in GitLab.com and [add group members](https://docs.gitlab.com/ee/user/group/#add-users-to-a-group)
    - Create an account in the [CustomersDot](https://customers.gitlab.com/customers/sign_up)
    - Associate GitLab.com account with CustomersDot account. First log into GitLab.com, then in another tab in the same browser open the CustomersDot and navigate to `My Account` and select `Change Linked Account`
-   - Purchase desired subscription from https://about.gitlab.com/pricing/#compare-options, selecting the desired group during the purchase process.
+   - Purchase desired subscription from <https://about.gitlab.com/pricing/#compare-options>, selecting the desired group during the purchase process.
 
 1. **User doesn't see their group during purchase process.** If the customer can't see their Group when purchasing a subscription, one of the below options are likely happening:
    - They need to create a Group on GitLab.com first
@@ -48,13 +45,14 @@ Transactions at GitLab are defined as anything related to purchasing; issues or 
 1. **User reports they cannot log into the [CustomersDot](https://customers.gitlab.com/customers/sign_in).** - The user is likely logging into the wrong system (usually GitLab.com). Provide the user with the proper url as demonstrated in this example ticket[#144710](https://gitlab.zendesk.com/agent/tickets/144710).
 
 ## Licensing
+
 Licensing requests refers to problems or questions related to license keys for the Self-Managed product.
 
 1. **User wants to know when they will receive the license key or who the license will be sent to.** The license key will be emailed, [to the email address associated with the subscription in the CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1044#note_318221832), once subscription payment is approved internally by the billing team.  If there is an unusually long delay, assign the ticket to the "License, Renewals and Upgrades" queue or [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=license%20issue) using the "license issue" template.
 
 ## Access to CustomersDot Staging
 
-If you want access to [CustomersDot staging](https://customers.staging.gitlab.com/customers/sign_in) as a user (and not an admin) you can browse to the link and register a new account. You need to use your @gitlab.com email address in order to get the verification. As an example, you can use yourname+test@gitlab.com so that you receive emails to your usual yourname@gitlab.com email address.
+If you want access to [CustomersDot staging](https://customers.staging.gitlab.com/customers/sign_in) as a user (and not an admin) you can browse to the link and register a new account. You need to use your @gitlab.com email address in order to get the verification. As an example, you can use <yourname+test@gitlab.com> so that you receive emails to your usual <yourname@gitlab.com> email address.
 
 Once you create a user account, you can use the [stripe test cards](https://stripe.com/docs/testing#cards) for testing.
 

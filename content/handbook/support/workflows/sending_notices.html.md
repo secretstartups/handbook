@@ -1,33 +1,27 @@
 ---
-layout: handbook-page-toc
+
 title: Sending Notices
 category: GitLab.com
 description: How to send notices out to GitLab.com users and customers to inform them of various actions on namespaces under their control
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview of the process
 
-
-At times the [Support team will be asked to send notices](../internal-support/#gitlab-changes-and-contacting-users) to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control. 
+At times the [Support team will be asked to send notices](../internal-support/#gitlab-changes-and-contacting-users) to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control.
 
 This workflow describes how to fulfill different types of contact requests and the helpful tools you can use in the process.
 
 ## Tools and Approvals
 
-| Number of users | Which thing to use | Approvals required | Notifications required | 
+| Number of users | Which thing to use | Approvals required | Notifications required |
 | --- | --- | --- | --- |
 | 1-2 | [Manually create a Zendesk ticket](#manually-create-a-zendesk-ticket) | None | None |
 | 3+ | [Mass Emails through Marketing Department](#mass-emails-through-marketing-department) | Director | [Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) + FAQ |
 
-
-* Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
-* Contact requests that are **not tied to an incident** are submitted as an [internal-request](internal_requests.html) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory. 
+- Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
+- Contact requests that are **not tied to an incident** are submitted as an [internal-request](internal_requests.html) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory.
 
 ## How to send notices
 
@@ -37,12 +31,12 @@ Most contact requests will involve contacting all of the owners of only one proj
 
 However, some contact requests may involve contacting all of the owners of multiple projects. Support Engineers should direct requests for reaching out to multiple owners across multiple projects to do [Mass Emails through Marketing Department](#mass-emails-through-marketing-department)
 
-Make sure to [add an admin note](admin_note.html) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel. 
+Make sure to [add an admin note](admin_note.html) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel.
 
 ### Manually create a Zendesk ticket
 
 For the process of sending the outbound contact requests in Zendesk, please
-review the 
+review the
 [Support Readiness documentation](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 for more information.
 
@@ -54,7 +48,7 @@ The limit of 500 tickets is defined in order not to hit API rate limits on Zende
 
 ### Mass Emails through Marketing Department
 
-Outside of Zendesk we may be asked to be involved in the process of sending mass notices to users. For larger email campaigns, involve the marketing team: 
+Outside of Zendesk we may be asked to be involved in the process of sending mass notices to users. For larger email campaigns, involve the marketing team:
 
 1. [Open an issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) in the [marketing/demand-generation/campaigns](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns) issue tracker using the `request-email` template. You may also need to create a supplementary issue using [request-confirm-target-list template](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list).
 1. Fill the template out in its entirety.
@@ -73,11 +67,11 @@ The [Email Grab Script](https://gitlab.com/gitlab-com/support/runbooks/-/blob/ma
 1. Install the required [labclient](https://rubygems.org/gems/labclient/versions/0.5.1) gem with `gem install labclient`.
 1. Copy the script to your local machine and give it a name, like `emailgrab.rb`.
 1. Replace `YourSuperSweetPAT` with a `read_api` scoped PAT from your GitLab SaaS admin account.
-  - **Note**: If a new PAT was created from an admin account, that account will receive a slack message from the SIRTbot app asking if the PAT creation was legitimate. Remember to fill this out for security auditing.
+
+- **Note**: If a new PAT was created from an admin account, that account will receive a slack message from the SIRTbot app asking if the PAT creation was legitimate. Remember to fill this out for security auditing.
+
 1. [Comment out](https://docs.ruby-lang.org/en/3.0/doc/syntax/comments_rdoc.html) the sections of the script that you will not be using, either `groups`, `users`, or `projects`.
 1. Add your data to the section you will be using.
 1. Run the script with `ruby emailgrab.rb`.
 
 The results will be created as `namespace-contacts.csv` in the same directory that the script is located in.
-
-

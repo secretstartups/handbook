@@ -31,7 +31,6 @@ The [Total Rewards](https://about.gitlab.com/handbook/total-rewards/) department
 | [Senior Manager, Total Rewards](#senior-manager-total-rewards) | 9 |
 | [Director, Total Rewards](#director-total-rewards) | 10 |
 
-
 ## Benefits
 
 ### Benefits Requirements
@@ -324,5 +323,3 @@ Candidates for Total Rewards can expect the hiring process to follow the order b
 - Final, candidates will be invited to schedule a 50 minute interview with a business leader
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
-
-

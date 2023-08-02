@@ -13,12 +13,12 @@ The Marketing Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 
 - The marketing program manager will report to the Manager of Digital Marketing Programs.
 - Manage business-to-business marketing programs in Marketo for email campaigns, event promotion, event follow up, drip email nurture series, webinars, and content.
-    - Work closely with content and design teams to create landing pages for webinar registration and gated content.
-    - Maintain marketing database segmentation to ensure any communications delivered are relevant to the audience receiving them.
-    - Work closely with product marketing on mapping marketing database segmentation to personas.
-    - Ensure all Marketo programs are linked to salesforce.com campaigns to ensure accurate campaign ROI tracking.
-    - Analyze email, webinar, and campaign performance with an eye towards continuous improvement, and sharing insights across the team.
-    - Facilitate a marketing program retrospective following completion of each marketing program.
+  - Work closely with content and design teams to create landing pages for webinar registration and gated content.
+  - Maintain marketing database segmentation to ensure any communications delivered are relevant to the audience receiving them.
+  - Work closely with product marketing on mapping marketing database segmentation to personas.
+  - Ensure all Marketo programs are linked to salesforce.com campaigns to ensure accurate campaign ROI tracking.
+  - Analyze email, webinar, and campaign performance with an eye towards continuous improvement, and sharing insights across the team.
+  - Facilitate a marketing program retrospective following completion of each marketing program.
 - Create email and landing page split tests to improve the team's understanding of what subject lines, headers, images, copy, and calls-to-action are most effective.
 - Work with our marketing and sales teams to become a specialist on the company's lead funnel - from web visitor to customer and everything in-between.
 - Participate in marketing technology evaluation.
@@ -50,7 +50,7 @@ The Senior Marketing Program Manager is a [grade 7](https://about.gitlab.com/han
 - Perform marketing and customer data analysis and market segmentation, ideal customer profile definition, and lead scoring model creation.
 - Build out marketing database segmentation to ensure any communications delivered are relevant to the audience receiving them and work closely with product marketing on mapping marketing database segmentation to personas.
 
-### Additional Senior Role Requirements:
+### Additional Senior Role Requirements
 
 - Bachelor’s degree or foreign equivalent in Business Administration, Marketing, Finance, or related field, and 72 months of relevant experience.
 

@@ -10,7 +10,7 @@ This role provides technical guidance and support throughout the entire sales cy
 
 To learn more, see the [Solutions Architect handbook](https://about.gitlab.com/handbook/customer-success/solutions-architects)
 
-## Levels
+## Responsibilities and Requirements
 
 Level role responsibilities and requirements may be extended or overlayed by [Specialty SA Roles](#specialties) when they also apply to a team member.
 
@@ -178,7 +178,6 @@ The Manager, Solutions Architects is a [grade 9](https://about.gitlab.com/handbo
 - Guide by example while performing the responsibilities of a solution architect to drive customer success.
 - Work closely with regional sales managers on strategy.
 
-
 #### Manager, Solutions Architects Requirements
 
 - Extends the Solutions Architect requirements
@@ -269,7 +268,7 @@ The Vice President of Solution Architecture is a job grade [12](https://about.gi
 - Provide strategic guidance with prospect and customer accounts for both account influence and growth
 - Lead new developments and improvements to improve segment-specific sales strategies and methods globally, including direct and partner-led sales.
 - Provide executive sponsorship for strategic accounts
-- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission, vision, and values.  
+- Develops a clear strategy and vision for their department, inspiring their team through communication in alignment with GitLab's mission, vision, and values.
 - Align and influence the executive team and senior leadership with technical and strategic sales and GTM strategies and tactics.
 
 ### Vice President of SA Requirements
@@ -431,7 +430,6 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
 - Ability to use GitLab, including learning GitLab as part of the role
 
-
 ### Federal CTO
 
 #### Federal CTO Responsibilities
@@ -506,7 +504,7 @@ A Solution Architect can progress through the various individual contributor lev
 
 Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-### Individual Contributor Hiring Process:
+### Individual Contributor Hiring Process
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the SA team Manager.
@@ -515,7 +513,7 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Candidates may be invited to additional interviews.
 - Successful candidates will be made an offer after references are verified.
 
-### Management Hiring Process:
+### Management Hiring Process
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with a Customer Success VP or Director.

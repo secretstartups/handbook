@@ -11,12 +11,12 @@ canonical_path: "/handbook/support/readiness/operations/docs/zendesk/end_users"
     - Enabled
     - Require CAPTCHA
     - Whitelist:
-      - gitlab@gitlab.com
-      - no-reply@hackerone.com
-      - noreply@quoramail.com
-      - noreply@quora.com
+      - <gitlab@gitlab.com>
+      - <no-reply@hackerone.com>
+      - <noreply@quoramail.com>
+      - <noreply@quora.com>
       - google.com
-      - portal@axur.com
+      - <portal@axur.com>
     - User registration message:
       > Please fill out this form, and we'll send you a welcome email to verify
       > your email address and log you in.

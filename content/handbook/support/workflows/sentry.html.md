@@ -1,16 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Sentry
 category: Infrastructure for troubleshooting
 description: How to use Sentry to investigate GitLab.com errors
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Sentry
 

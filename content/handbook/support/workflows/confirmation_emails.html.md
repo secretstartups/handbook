@@ -1,17 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Confirmation Emails
 category: GitLab.com
 subcategory: Accounts
 description: "Workflow for cases when a customer reports they are not receiving their confirmation email"
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -104,7 +96,7 @@ Instruct the user to sign in and trigger a new confirmation email through their 
 If the user is unconfirmed, but their primary email address does not match the unconfirmed email address (see [this internal example](https://gitlab.com/gitlab-org/gitlab/-/issues/239098#note_399726260)), then there are two options to resolve:
 
 1. Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
-2. File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
+1. File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
 
 ## Extras
 

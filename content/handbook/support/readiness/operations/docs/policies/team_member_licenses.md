@@ -59,7 +59,7 @@ To do this, reply with the following:
 
 > The staging license has been generated at this time.
 >
-> As this is a staging license, please keep in mind you _must_ setup your GitLab
+> As this is a staging license, please keep in mind you *must* setup your GitLab
 > deployment to work with those. For more information on doing this, please see
 > [our documentation](https://docs.gitlab.com/omnibus/development/setup.html#use-customers-portal-staging-in-gitlab).
 >

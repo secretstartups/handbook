@@ -44,6 +44,7 @@ The VP, FP&A is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below.
+
 1. Screening call with a team member from our recruiting team.
 1. Interview with CFO
 1. Interview with 1-2 finance team members
@@ -56,4 +57,3 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Career Ladder
 
 The next step in the VP, FP&A job family is to move to and EVP or C-level role.
-

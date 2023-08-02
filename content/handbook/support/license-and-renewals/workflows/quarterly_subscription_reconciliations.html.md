@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Quarterly Subscription Reconciliations
 category: General
 description: Workflow to assist customers with Quarterly Reconciliations.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## General Workflow
 
@@ -40,7 +36,6 @@ If the customer would like to dispute a reconciliation, either pending or proces
 
 Given that support team has no influence over the process at this point, direct the customer to continue all discussions with their sales manager, and the ticket may then be closed.
 
-
 ### Pausing QSR on a subscription
 
 **Important:** Support team should not be disabling QSR on a subscription except in the cases of confirmed bug behavior.
@@ -54,8 +49,7 @@ Given that support team has no influence over the process at this point, direct 
      - Switch to `No`
    - Click Update.
 
-
-#### When manually pausing QSR:
+#### When manually pausing QSR
 
 1. You will need to take responsibility for ensuring that it becomes reactivated after a bug-fix or other work-around has been implemented.
    - Consider the [due date app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app), [reminder app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app), Slack's built-in reminder tool, or whatever works for you.
@@ -66,6 +60,6 @@ Given that support team has no influence over the process at this point, direct 
 
 If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > Max Seats tool, or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
 
-Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure. 
+Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure.
 
-**Important:** If a QSR is refunded, max user count must be reset by opening a ticket with Support. Deal Desk will support this process. [Internal process guide here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Web-Direct-Quarterly-Seat-Reconciliation-(QSR)-Refunds). 
+**Important:** If a QSR is refunded, max user count must be reset by opening a ticket with Support. Deal Desk will support this process. [Internal process guide here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Web-Direct-Quarterly-Seat-Reconciliation-(QSR)-Refunds).

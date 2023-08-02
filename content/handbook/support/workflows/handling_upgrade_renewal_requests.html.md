@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Handling Licensing & Subscription Requests
 description: "How to handle requests for GitLab license or subscription upgrades or renewals"
 category: License and subscription
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ##### Overview
 
@@ -25,5 +21,6 @@ license or GitLab.com subscription.
 
 In some cases, a renewal may be of particularly high priority and needs urgent attention (e.g. the license
 will expire within a few days). In these cases, please:
+
 1. Determine who the account owner is in SFDC
 1. Ping them on Slack with the appropriate ticket number and context

@@ -1,42 +1,36 @@
 ---
-layout: handbook-page-toc
 title: Zendesk L&R Ticket Form
 category: General
 description: This page is about Zendesk workflows for the L&R form.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-This page outlines workflows relevant to folks using the `L&R` form in Zendesk. 
+This page outlines workflows relevant to folks using the `L&R` form in Zendesk.
 
 ## Working on tickets
 
 ### Selecting, Assigning and Responding to Tickets
 
 Support Engineers that work on Licensing and Renewal (L&R) tickets should apply the same guidelines documented within the [Support - Working on Tickets workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html):
+
 1. [Selecting tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#selecting-tickets)
 1. [Assigning tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#assigning-tickets)
 1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](https://about.gitlab.com/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets)
 
 ### The workflow
 
-1. Check the main L&R view and work on the next-to-breach ticket: 
-  1. Take assignment of the ticket if it is currently unassigned
-  1. Write your public reply
-  1. **If the ticket is an Internal Request**, review whether the [Priority](https://about.gitlab.com/handbook/support/internal-support/#internal-request-slo) is appropriate. If it is not, set the `Priority` field to the appropriate value and notify the requester of the change and of your reasoning. (A macro for this may soon be available)
-  1. Complete the remaining form data
+1. Check the main L&R view and work on the next-to-breach ticket:
+1. Take assignment of the ticket if it is currently unassigned
+1. Write your public reply
+1. **If the ticket is an Internal Request**, review whether the [Priority](https://about.gitlab.com/handbook/support/internal-support/#internal-request-slo) is appropriate. If it is not, set the `Priority` field to the appropriate value and notify the requester of the change and of your reasoning. (A macro for this may soon be available)
+1. Complete the remaining form data
 1. If you are not able to make a public reply, please ask for assistance from your colleagues to take assignment and drive the ticket forward
-1. If you are waiting on internal stakeholders and processes to be completed before being able to set a ticket to Solved: 
-  1. Advise the customer that we will reply in X days. 
-  2. Set Status: `On-hold`
-  3. Set Type: `Task` 
-  4. Click: `Submit as On-hold`
-  5. Use the Calendar on the sidebar to set a reminder for yourself to check in with the customer X days
-  6. Click: `Submit as On-hold`
+1. If you are waiting on internal stakeholders and processes to be completed before being able to set a ticket to Solved:
+1. Advise the customer that we will reply in X days.
+1. Set Status: `On-hold`
+1. Set Type: `Task`
+1. Click: `Submit as On-hold`
+1. Use the Calendar on the sidebar to set a reminder for yourself to check in with the customer X days
+1. Click: `Submit as On-hold`
 
 ## Zendesk form data overview
 
@@ -46,7 +40,7 @@ In L&R, the tickets that come into our queue are of interest to teams outside of
 
 ## Zendesk form data guideline
 
-Completing ticket data can be a very subjective process - the ticket might arguably be about two different things and it's up to the engineer to decide how to best categorise the ticket. It's more important to complete the data than to be objectively correct about what type of ticket it is.  
+Completing ticket data can be a very subjective process - the ticket might arguably be about two different things and it's up to the engineer to decide how to best categorise the ticket. It's more important to complete the data than to be objectively correct about what type of ticket it is.
 
 Two ways of thinking about ticket data selection:
 
@@ -61,7 +55,7 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 | EDU/OSS/Startups | EDU account inquiries | Requests/inquiries for the Education team. Follow [workflow](/handbook/support/workflows/special-programs.html) |
 | EDU/OSS/Startups | OSS account inquiries | Requests/inquiries for the OSS team. Follow [workflow](/handbook/support/workflows/special-programs.html) |
 | Sales-assistance required | Alternate payment method (Wire Transfer) | Customer wants to pay via wire transfer |
-| Sales-assistance required | Order form / PO | Customer wants to pay via Order form or purchase order | 
+| Sales-assistance required | Order form / PO | Customer wants to pay via Order form or purchase order |
 | Sales-assistance required | Reseller | Request is from a reseller or reseller customer |
 | Sales-assistance required | Discount request | Customer inquires about a discount |
 | Sales-assistance required | New business | No prior purchases and needs a sales quote |
@@ -79,7 +73,7 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 | License troubleshooting (SM only) | Multi-year license| Self-managed license is a multi-year license |
 | License troubleshooting (SM only) | Not received | Self-managed license was not received by the requestor |
 | License troubleshooting (SM only) | Other | Self-managed license issue is caused by another reason not listed |
-| Associate namespace (Gitlab.com only) | | Use when we have to help with [provisioning of gitlab.com subscription](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html) | 
+| Associate namespace (Gitlab.com only) | | Use when we have to help with [provisioning of gitlab.com subscription](/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html) |
 | Account management (reset password, update details) |  | Account-related requests or questions like how to get into an account or update the payment method |
 | Contact management |  | Requests or questions about changing the contact for an account or namespace |
 | End of Availability (EOA) | | Any questions or requests relating to the end of the Bronze/Starter tier and the offers for the [new subscription model](https://about.gitlab.com/pricing/faq-new-product-subscription-tiers/) |
@@ -95,10 +89,9 @@ Please also see the table below as a guideline on what `Transaction issue type` 
 
 ### The `GitLab Issues` field
 
-The `GitLab Issues` text field is available on all L&R tickets and should be completed whenever applicable. The purpose of this field is to capture links to existing issues. This field is specifically relevant to Fulfillment PMs who will be able to see an overview of any repeating or high volume issues, which they can then prioritise in upcoming milestones. Examples of when to use the field: 
+The `GitLab Issues` text field is available on all L&R tickets and should be completed whenever applicable. The purpose of this field is to capture links to existing issues. This field is specifically relevant to Fulfillment PMs who will be able to see an overview of any repeating or high volume issues, which they can then prioritise in upcoming milestones. Examples of when to use the field:
 
 1. There is a feature issue that, if implemented, would have prevented this ticket from being created.
 1. There is a bug issue that can be replicated on the ticket.
 
 This is a great way to log and get metrics for bugs and features that might need more attention from the product team as we can see numbers climb for an issue in real time. **Please complete this field with a link to an issue whenever possible.**
-

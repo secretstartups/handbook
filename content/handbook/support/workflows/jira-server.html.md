@@ -1,16 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Jira with GitLab
 description: This guide provides steps to set up a Jira Server as well as some troubleshooting steps from a Support Engineer's perspective
 category: Self-managed
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### What is Jira Software
 
@@ -22,12 +14,12 @@ For more information about various uses of Jira Please check out the [Get starte
 
 1. You need to create an instance from the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/). Ensure nothing is using port 443. We will set up Jira to use HTTPS for Gitlab integration.
 
-#### Prerequisite software:
+#### Prerequisite software
 
 - You need to install Java as Jira uses java JVM.
 - You need to install certbot, python3-certbot-apache for you to generate certificates for HTTPS
 
-#### Installing Jira and prerequisites:
+#### Installing Jira and prerequisites
 
 1. Install Java because Jira uses Java JVM
 
@@ -45,11 +37,11 @@ For more information about various uses of Jira Please check out the [Get starte
 
    We will be using the  Jira 8.13 version so that we can test all supported GitLab integrations. However, this will not work for OAuth2.0  integration so we will later upgrade Jira to test the connection.
 
-  1. Select the Jira version that you want to download.
+1. Select the Jira version that you want to download.
 
    ![Download Jira Screenshot](assets/JIRA_1_Download.png)
 
-  1. Accept and right-click submit button to get the download URL. (Choose copy link address during the file download)
+1. Accept and right-click submit button to get the download URL. (Choose copy link address during the file download)
 
 1. Use `wget <URL>` command to download the Jira installer. Example:
 
@@ -91,13 +83,14 @@ For more information about various uses of Jira Please check out the [Get starte
 
    ![Jira Licenses](assets/Jira_licenses.png)
 
-2. On the next page, select `Jira Software` for Product and  `Jira Software (Data Center)` for License type.  Enter any details for the remaining fields.  For `Server ID`, you will get it when the server finishes setting up the database.
+1. On the next page, select `Jira Software` for Product and  `Jira Software (Data Center)` for License type.  Enter any details for the remaining fields.  For `Server ID`, you will get it when the server finishes setting up the database.
 
    ![Jira License Setup](assets/Jira_license_setup.png)
 
 1. After the database creation is complete, the next section will be setting application properties. Leave it as default and click `Next`.
 
    ![Jira Application Propertpplication_properties.png
+
 1. In the next scene, specify your license Key.  Copy the `Server ID` and paste it to the `New trial License Generation` screen and click on `Generate License`.
 
    ![Jira Generate License](assets/Jira_generate_license.png)
@@ -108,9 +101,9 @@ For more information about various uses of Jira Please check out the [Get starte
 
    ![Jira Specify License](assets/Jira_specify_license.png)
 
-2. Create a Jira Admin user and continue with the next steps.
-3. Continue with the setup and create a test project.  “GITLAB”.
-4. Create a test issue that we will be using to test with.
+1. Create a Jira Admin user and continue with the next steps.
+1. Continue with the setup and create a test project.  “GITLAB”.
+1. Create a test issue that we will be using to test with.
 
 #### Adding a lets-encrypt certificate to enable HTTPS connection
 
@@ -176,7 +169,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
 1. Create a PKCS12 that contains both your full chain and the private key. You need to have OpenSSL installed for that.
 
-   ```
+   ```text
    openssl pkcs12 -export -out /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.p12 \
       -in /etc/letsencrypt/live/dwainaina-gitlab-jira-test-runner.sr.gitlab.support/fullchain.pem \
       -inkey /etc/letsencrypt/live/dwainaina-gitlab-jira-test-runner.sr.gitlab.support/privkey.pem \
@@ -210,7 +203,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
 1. Comment out to disable HTTP.
 
-   ```
+   ```xml
     <!--
            <Connector port="8080" relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
                       maxThreads="150" minSpareThreads="25" connectionTimeout="20000" enableLookups="false"
@@ -221,7 +214,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
 1. Add the following just before the closure of the `</Service>` block in `server.xml`
 
-   ```
+   ```xml
    <Connector port="443" protocol="org.apache.coyote.http11.Http11NioProtocol"
                  maxHttpHeaderSize="8192" SSLEnabled="true"
                  maxThreads="150" minSpareThreads="25"
@@ -242,9 +235,10 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
    cp web.xml web_backup.xml
    vim web.xml
    ```
+
    Add the following lines right after the `<web-app ... version="3.1">` tag:
 
-   ```
+   ```xml
    <security-constraint>
      <web-resource-collection>
        <web-resource-name>all-except-attachments</web-resource-name>
@@ -289,10 +283,10 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
    ```bash
    ll /opt/atlassian/jira/conf/<your-domanin-name>.jks
-   
+
    #If you need to change permissions, set it to at least 444 and restart the jira service
    chmod 444 /opt/atlassian/jira/conf/<your-domanin-name>.jks
-   
+
    #Restart the jira service for changes to take effect
    systemctl status jira
    systemctl restart jira

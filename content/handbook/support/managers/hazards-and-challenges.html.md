@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Support Team hazards and challenges
 description: Hazards, Challenges, and possible solutions to consider to solve them
 ---
@@ -24,7 +24,8 @@ description: Hazards, Challenges, and possible solutions to consider to solve th
 As we continue to increase in size, there's a number of challenges that we need to address and/or questions we need to answer:
 
 As we grow:
-1. What process inefficiencies do we need to address? (e.g. _Do all engineers need to know about every component/configuration/deployment strategy of GitLab, or are there ways we can specialize?_)
-1. Which process inefficiencies do we need to intentionally keep because of a positive externality? (e.g. _Do we keep around a synchronous meeting because it helps build relationships?_)
-1. What have we lost in scaling? How can we build it back in a way that scales? (e.g. _Smaller groups lead to more ideation sessions, how can we make sure we're creating spaces for ideas to build off of each other?_)
+
+1. What process inefficiencies do we need to address? (e.g. *Do all engineers need to know about every component/configuration/deployment strategy of GitLab, or are there ways we can specialize?*)
+1. Which process inefficiencies do we need to intentionally keep because of a positive externality? (e.g. *Do we keep around a synchronous meeting because it helps build relationships?*)
+1. What have we lost in scaling? How can we build it back in a way that scales? (e.g. *Smaller groups lead to more ideation sessions, how can we make sure we're creating spaces for ideas to build off of each other?*)
 1. How can we make sure we're broadcasting things appropriately so no one misses out on an important piece of information?

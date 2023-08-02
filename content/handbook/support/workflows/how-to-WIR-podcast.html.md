@@ -1,21 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: How to do a WIR Podcast
 category: References
 description: General guide for creating a Support Week-in-Review Podcast
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
 Use this workflow when you want to do a Support Week-in-Review Podcast as a general guide.
 
-Much of this is done in the [Support Week in Review Project](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review).  For more information about the CI/CD jobs used in this guide and what they do, refer to the project [readme](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/blob/main/README.md). 
+Much of this is done in the [Support Week in Review Project](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review).  For more information about the CI/CD jobs used in this guide and what they do, refer to the project [readme](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/blob/main/README.md).
 
 ---
 
@@ -34,7 +30,7 @@ Much of this is done in the [Support Week in Review Project](https://gitlab.com/
             - edit the digest issue and add a phrase of the week
             - ask the `Metrics Analyst` to edit and add the metrics data (see below)
       - After the recording
-         - [Publish](#publishing-the-podcast) the podcast 
+         - [Publish](#publishing-the-podcast) the podcast
          - [Update](#update-the-legacy-swir-gdoc) the legacy Support Week in Review gdoc
          - [Prepare SWIR for the next week](#prepare-swir-for-the-next-week)
       - if you are using the theme music, coalesce all of the audio files into the final mix using [Audacity](https://www.audacityteam.org/) (or something else)
@@ -51,8 +47,10 @@ Much of this is done in the [Support Week in Review Project](https://gitlab.com/
       - read and record this section
 1. Join the Zoom room
 1. Determine speaking order for Narrators. A useful set of conventions is:
-  - Read in alphabetical order by your first initials.
-  - If you have an item and it comes up, you will read it which will reset the order.
+
+- Read in alphabetical order by your first initials.
+- If you have an item and it comes up, you will read it which will reset the order.
+
 1. When everyone is ready, begin recording. It's easiest for the Editor to "Record locally", as they'll have the audio on their computer for upload.
 1. When finished, the Editor will [publish](#publishing-the-podcast) and prepare the project for the next week.
 
@@ -77,4 +75,4 @@ Once you have the compiled audio:
 
 1. Run the `close_week_and_create_new_milestone` pipeline
 1. Check pagerduty or the [Support Team Page](https://gitlab-com.gitlab.io/support/team/oncall.html?search=ssat) to find the incoming SSAT manager (the one starting on the current Thursday) and reassign the new Positive SSAT to them.
-1. You're done! 
+1. You're done!

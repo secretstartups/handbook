@@ -10,11 +10,11 @@ Engineering Managers at GitLab see their team as their product. While they are t
 - Help their (senior) directors, senior managers, managers, and engineers grow their skills and experience
 - Measure and improve the happiness of Engineering
 - Make sure the handbook is used and maintained in a transparent way
-- _Implement_ technical and process improvements that are causal to most critical needs
-- _Participate and support_ a sense of psychological safety of the department
-- _Drive_ quarterly OKRs around company goals
-- _Define_ the agile project management process
-- _Be accountable for_ product quality, security, and performance
+- *Implement* technical and process improvements that are causal to most critical needs
+- *Participate and support* a sense of psychological safety of the department
+- *Drive* quarterly OKRs around company goals
+- *Define* the agile project management process
+- *Be accountable for* product quality, security, and performance
 - Work across departments within engineering
 - Work closely with Senior leaders of Product Management to provide a consistent/successful interface between Engineering Development and Product Management
 - Support constantly changing priorities between product features, availability, performance, security and reliability

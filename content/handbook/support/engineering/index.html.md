@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Support Engineer Resources
 description: If you want to learn more about what support engineers do and how they do it, this is the place.
 ---
@@ -21,8 +21,9 @@ At GitLab, the Support Team currently manages 2 different [Zendesk Instances](ht
 
 1. GitLab Support Instance:  [gitlab.zendesk.com](https://gitlab.zendesk.com)
 1. GitLab US Federal Support Instance: [gitlab-federal-support.zendesk.com](https://gitlab-federal-support.zendesk.com)
-  - Customer URL: [federal-support.gitlab.com](https://federal-support.gitlab.com), CNAME for full link (above).
-  - Only Support Engineers who are US Citizens inside of the US have access.
+
+- Customer URL: [federal-support.gitlab.com](https://federal-support.gitlab.com), CNAME for full link (above).
+- Only Support Engineers who are US Citizens inside of the US have access.
 
 ### Ticketing Style Guide
 
@@ -68,8 +69,8 @@ end of each week with a list of support team contributions merged in the past we
 - [LanguageTool](https://languagetool.org/) - A Grammarly-like, free, **offline** grammar, spelling, and style checker
 - [Insomnia](https://insomnia.rest/) - Build, debug, and test API queries, and generate the code for them
 - Menu bar clocks (macOS)
-   - [iStat Menus](https://bjango.com/mac/istatmenus/) - Robust system monitor for the toolbar, including highly customizable clock options
-   - [UTC Time](https://sindresorhus.com/utc-time) - Simple app for displaying UTC time, with options to copy various date formats
+  - [iStat Menus](https://bjango.com/mac/istatmenus/) - Robust system monitor for the toolbar, including highly customizable clock options
+  - [UTC Time](https://sindresorhus.com/utc-time) - Simple app for displaying UTC time, with options to copy various date formats
 
 ### Useful Browser Extensions
 

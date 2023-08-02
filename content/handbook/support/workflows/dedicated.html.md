@@ -1,22 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: GitLab Dedicated Overview
 category: GitLab Dedicated
 description: "Gitlab Dedicated Support overview."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
 [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/), from a support perspective, works as a combination of SaaS and Self-Managed. Customers have full Admin access to the instance, but no access to the infrastructure, nor to the backend configurations. This workflow captures the differences, and details of providing support for GitLab Dedicated.
 
 If you'd like to work on GitLab Dedicated tickets, consider [creating an issue using the template](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=GitLab%20Dedicated) in Support Training, and read the [overview](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/).
-
 
 ### Administrative access to a Dedicated instance
 
@@ -47,7 +42,7 @@ GitLab Dedicated tenants are defined in the
 - To view a customer's instance upgrade history, view the appropriate `json`
   file's commit history and search for commits that mention `gitlab`.
 - Use the blame feature to find why individual lines or changes were added.
-  It makes it easier to find MRs and Issues with additional context. 
+  It makes it easier to find MRs and Issues with additional context.
 
 ### Configuration changes
 

@@ -164,7 +164,6 @@ The Event Content Manager reports to Manager, Corporate Events and Branding.
 - Build draft agenda and suggested event timing in order to maximize opportunities for global contribution and attendee engagement.
 - Own the master run of show for all  stakeholders (show caller, production company, emcees, etc) for both in-person and virtual events.
 
-
 #### Event Content Manager Requirements
 
 - Excellent written and verbal communication skills
@@ -268,7 +267,6 @@ The Director, Corporate Events is a [grade 10](https://about.gitlab.com/handbook
 - Communicates strategy and makes sound decisions that support the strategy. Cascades important and relevant information to their teams in a timely manner.
 - Effectively communicates with complex external audiences and at cross-org leadership levels.
 
-
 #### Director, Corporate Events Requirements
 
 - 10+ years experience in managing large scale, B2B events client-side or in-house
@@ -304,6 +302,5 @@ Candidates for these positions can expect the hiring process to follow the order
 - Candidates will be invited to a 50 minute interview with the Director, Field Marketing
 - Candidates will be invited to a 50 minute interview with the Director, Partner Marketing
 - Candidates will be invited to a 50 minute interview with the Marketing - Director, People Business Partner
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

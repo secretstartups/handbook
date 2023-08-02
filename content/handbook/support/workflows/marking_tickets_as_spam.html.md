@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Marking tickets as spam in Zendesk
 description: "Workflow for marking Zendesk tickets as spam or unsolicited email"
 category: Zendesk
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Marking tickets as spam in Zendesk
 

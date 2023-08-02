@@ -13,11 +13,11 @@ images:
 This page is about one of the four Guiding Principles of TeamOps: Everyone Contributes. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
 {{% /alert %}}
 
-_Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location._
+*Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location.*
 
 If people don't have the opportunity to contribute because of their background, where they live, or their stage of life, we miss out not only on team members' valuable perspectives but also on the creative solutions and essential productivity each provides.
 
-When building a foundation for equal contributions, the goal is to create a model where everyone _**can**_ contribute, but not everyone _**is required**_ to contribute. This is especially important when preparing for decision making. Anyone is welcome to voice their ideas and opinions, but requiring universal consensus prior to implementation undermines operational efficiency.
+When building a foundation for equal contributions, the goal is to create a model where everyone ***can*** contribute, but not everyone ***is required*** to contribute. This is especially important when preparing for decision making. Anyone is welcome to voice their ideas and opinions, but requiring universal consensus prior to implementation undermines operational efficiency.
 
 Action tenets of facilitating equal contributions, including real-world examples of each, are below.
 
@@ -55,7 +55,7 @@ A member of GitLab's Learning & Development team was responsible for [developing
 
 ## Well-managed meetings
 
-Even though TeamOps teams prioritize asynchronous workflows, it still treats synchronous discussions as a critical element of organizational operations. [Well-managed meetings](/handbook/communication/#meetings) maximize the efficiency and productivity that shared time permits, so meetings shouldn't just be gatherings of people for a conversation. They should be a resource for decisions and tasks that are best made with immediate feedback and collaboration from multiple people. This means that any conversations that _could_ be facilitated asynchronously _should_ be, including unidirectional presentations, company announcements, results reporting, and brainstorming.
+Even though TeamOps teams prioritize asynchronous workflows, it still treats synchronous discussions as a critical element of organizational operations. [Well-managed meetings](/handbook/communication/#meetings) maximize the efficiency and productivity that shared time permits, so meetings shouldn't just be gatherings of people for a conversation. They should be a resource for decisions and tasks that are best made with immediate feedback and collaboration from multiple people. This means that any conversations that *could* be facilitated asynchronously *should* be, including unidirectional presentations, company announcements, results reporting, and brainstorming.
 
 Documenting parameters for meeting management and participation help maximize the investment of time for all participants, and prevent meeting fatigue throughout the company. These guidelines could include rituals such as 25- or 50-minute ["speedy meetings"](https://about.gitlab.com/handbook/communication/#meetings), [mandatory agendas](https://about.gitlab.com/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda), or thorough [note taking in a live doc](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/).
 
@@ -116,6 +116,7 @@ Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-t
 Adopting a TeamOps mentality means providing the psychological safety necessary for all team members to feel confident while sharing ideas, [giving transparent feedback](/teamops/measurement-clarity/#transparent-feedback), [owning impactful project decisions](/teamops/everyone-contributes/#directly-responsible-individual-dri), and [managing themselves independently](/teamops/decision-velocity/#give-agency). Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster results.
 
 To create stronger psychological safety in a virtual-first team, try communication-based tactics, such as:  
+
 - Create internal catchphrases and code words to use as reinforcing language
 - Leverage [shared values](/teamops/shared-reality/) and [informal communication](/teamops/shared-reality/#informal-communication) to express care, get to know your team members’ various working styles, and remind your team what they have in common
 - Provide [positive feedback](/teamops/measurement-clarity/#transparent-feedback) when you see courageous behaviors and impressive contributions, just as much as you provide constructive feedback when you see results that need improvement
@@ -145,4 +146,3 @@ Continue the learning experience by exploring [TeamOps - Decision Velocity](/tea
 {{< /panel >}}
 
 {{< /cardpane >}}
-

@@ -1,30 +1,26 @@
 ---
-layout: handbook-page-toc
+
 title: Working with Support Ops
 category: References
 description: "Workflow for working with Support Operations"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Working with Support Ops
 
 General speaking, working with Support Operations can be broken down into 8
 categories:
 
-* [Customer asking for support portal changes](#customer-asking-for-support-portal-changes)
-* [Asking general questions](#asking-general-questions)
-* [Request changes to your Calendly](#request-changes-to-your-calendly)
-* [Propose a change](#propose-a-change)
-* [Get something fixed](#get-something-fixed)
-* [Make changes to Zendesk Global macros](#make-changes-to-zendesk-global-macros)
-* [Make changes to Zendesk US Federal macros](#make-changes-to-zendesk-us-federal-macros)
-* [Support Team page requests](#support-team-page-requests)
-* [Everything else](#everything-else)
+- [Customer asking for support portal changes](#customer-asking-for-support-portal-changes)
+- [Asking general questions](#asking-general-questions)
+- [Request changes to your Calendly](#request-changes-to-your-calendly)
+- [Propose a change](#propose-a-change)
+- [Get something fixed](#get-something-fixed)
+- [Make changes to Zendesk Global macros](#make-changes-to-zendesk-global-macros)
+- [Make changes to Zendesk US Federal macros](#make-changes-to-zendesk-us-federal-macros)
+- [Support Team page requests](#support-team-page-requests)
+- [Everything else](#everything-else)
 
 For a general overview, please see the [flowchart](#flowchart).
 
@@ -101,7 +97,7 @@ likely to close out the issue and request the normal procedure be followed.
 This is category is for anything in our current setups that needs to be fixed
 (ie it is broken). These issues should not be for improvements or changes, but
 simply to get something that is currently broken fixed as soon as possible. For
-these, you would file an issue in the 
+these, you would file an issue in the
 [support-ops-project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new).
 As these types of requests are highly important and solely to fix something
 broken, they do not require a discussion issue or manager approval.
@@ -210,15 +206,15 @@ graph TD;
 
 ### Helpful links
 
-* [Support Ops team page](../support-ops/)
-* [Support Ops documentation](../support-ops/documentation)
-* [Support Ops workflows](../support-ops/workflows)
-* [Support Ops training](../support-ops/training)
-* [support_operations Slack channel](https://gitlab.slack.com/archives/C018ZGZAMPD)
-* [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
-* [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
-* [macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
-* [zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
-* [zendesk-us-federal macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
-* [support/team issue tracker](https://gitlab.com/gitlab-com/support/team/-/issues/new)
-* [support-ops-project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new)
+- [Support Ops team page](../support-ops/)
+- [Support Ops documentation](../support-ops/documentation)
+- [Support Ops workflows](../support-ops/workflows)
+- [Support Ops training](../support-ops/training)
+- [support_operations Slack channel](https://gitlab.slack.com/archives/C018ZGZAMPD)
+- [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
+- [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)
+- [macros issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/issues/new)
+- [zendesk-us-federal issue tracker](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new)
+- [zendesk-us-federal macros issue template](https://gitlab.com/gitlab-com/support/support-ops/zendesk-us-federal/-/issues/new?issuable_template=Macros)
+- [support/team issue tracker](https://gitlab.com/gitlab-com/support/team/-/issues/new)
+- [support-ops-project issue tracker](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new)

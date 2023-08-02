@@ -108,8 +108,8 @@ Keyword search URLs have a `%s` in the URL to indicate where your search query g
 You can usually find out what URL to use for the keyword search URLs by:
 
 1. Searching for `asdf` in a website
-2. Once the search results page has loaded, inspecting the URL in the address bar for `asdf`
-3. If the URL contains `asdf`, replacing this with `%s` will give you the URL you can use for the keyword search URL
+1. Once the search results page has loaded, inspecting the URL in the address bar for `asdf`
+1. If the URL contains `asdf`, replacing this with `%s` will give you the URL you can use for the keyword search URL
 
 ## Searching using additional search engines in Firefox
 

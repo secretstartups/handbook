@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Staff Support Engineer
 description: Staff Support Engineer activities and references
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 

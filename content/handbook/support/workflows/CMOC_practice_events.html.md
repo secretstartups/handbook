@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: CMOC Practice Events
 category: On-call
 description: "Provides overview of Support Engineering CMOC quarterly practice events and how to run them"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## CMOC Practice Events
 

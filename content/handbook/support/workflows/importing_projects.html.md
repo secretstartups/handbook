@@ -1,12 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Project Imports and Exports for Customers
 description: "Provides guidance on when GitLab Team members might offer to import projects on behalf of customers, and the process for doing so."
 category: GitLab.com
 ---
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Reminder
 
@@ -118,17 +114,17 @@ Then, enter the following for the **Access Request** section, replacing `group` 
 
 The customer should send you a copy of the project export ahead of their chosen import time (if scheduled) so that there is ample time to do the next section and for the customer to verify the list and correct any errors.
 
-1. In your admin account, generate a Personal Access Token with an expiration date and the scope `api` enabled. The token is used for the next step. 
-1. In your terminal use [DCEF](https://gitlab.com/gitlab-com/support/toolbox/dcef) to pull a report that contains a list of user **primary** email addresses that are unique to the export file and ones that are unique to just the requestor's GitLab.com group. 
+1. In your admin account, generate a Personal Access Token with an expiration date and the scope `api` enabled. The token is used for the next step.
+1. In your terminal use [DCEF](https://gitlab.com/gitlab-com/support/toolbox/dcef) to pull a report that contains a list of user **primary** email addresses that are unique to the export file and ones that are unique to just the requestor's GitLab.com group.
 1. Examine the `User emails unique to export file:` section of the results and ensure that all email addresses listed are on the requestor's company domain, meaning no users have an email address on a generic domain such as Gmail.com.
 
 **If issues within the list are found:**
 
-3. Reply to the requestor with the [`Support::SaaS::Import::Verify User List (Problem Found)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607299) Zendesk macro, which will ask them to resolve the issues we found and send us a new project export once that's done. Once they have, repeat the [2. Verify User List](#2-verify-user-list) section.
+1. Reply to the requestor with the [`Support::SaaS::Import::Verify User List (Problem Found)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607299) Zendesk macro, which will ask them to resolve the issues we found and send us a new project export once that's done. Once they have, repeat the [2. Verify User List](#2-verify-user-list) section.
 
 **If no issues within the list are found:**
 
-3. Send the resulting list of users not in GitLab.com to the customer to confirm using the [`Support::SaaS::Import::Verify User List (Looks Good)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607239) Zendesk macro and await their reply. Once they reply and confirm that all email addresses that were found only in the export file are from employees no longer with the company, this section is complete.
+1. Send the resulting list of users not in GitLab.com to the customer to confirm using the [`Support::SaaS::Import::Verify User List (Looks Good)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043607239) Zendesk macro and await their reply. Once they reply and confirm that all email addresses that were found only in the export file are from employees no longer with the company, this section is complete.
 
 >**NOTE:** For these users, items will be mapped to the admin account, then the [Ghost User](https://docs.gitlab.com/ee/user/profile/account/delete_account.html#associated-records) once the admin account is deleted.
 

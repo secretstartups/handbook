@@ -48,7 +48,6 @@ The Junior Community Advocate is a [grade 5](https://about.gitlab.com/handbook/t
 
 Junior Community Advocates share the same responsibilities and requirements as the Community Advocate listed above, but typically join with less or alternate experience in one of the key areas of expertise (and understanding of Git and modern development practises, knowledge of multiple programming languages, experiences working with different online developer communities etc).
 
-
 ### Senior Community Advocate
 
 #### Job Grade
@@ -58,6 +57,7 @@ The Senior Community Advocate is a [grade 6](https://about.gitlab.com/handbook/t
 #### Responsibilities and Requirements
 
 Senior Community Advocates share the same responsibilities and requirements as the Community Advocate listed above, but typically join with more experience in the key areas of expertise. A Senior Community Advocate will also:
+
 - Work to maximize the team's efficiency, productivity and performance.
 - Assist in developing and implementing integrations.
 - Develop policies.
@@ -103,7 +103,6 @@ In addition to meeting the requirements of a Manager, Community Advocate, the Se
 - Ensuring clarity around priorities and goals for the entire functional area.
 - Working across functions with peers in other groups to ensure collaboration for shared goals.
 - Act as a conduit between the company and the community, and discover ways to serve both.
-
 
 ### Career Ladder
 

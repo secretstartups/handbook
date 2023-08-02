@@ -218,7 +218,7 @@ information in the new ticket. An example note could be:
 
 Once you have noted the original ticket, create the new ticket using the
 correct ticket form. Make sure to file the ticket using
-https://support.gitlab.com/hc/en-us/requests/new (you may need to use a
+<https://support.gitlab.com/hc/en-us/requests/new> (you may need to use a
 different browser or an incognito window) so the first reply is from the
 original requester and not an agent (this ensures it gets the FRT SLA). Make
 sure to fill in as much of the information as is possible. For any information
@@ -226,7 +226,7 @@ you do not readily know, do your best to guess for the time being.
 
 Some notes to help in filing the ticket properly:
 
-- The subject of the ticket should be the _exact_ same as the original ticket.
+- The subject of the ticket should be the *exact* same as the original ticket.
 - The description should be in the format:
   > Greetings <NAME_OF_ORIGINAL_REQUESTER>,
   >
@@ -248,8 +248,8 @@ Some notes to help in filing the ticket properly:
   > While we review your ticket, here is some other data you could also send
   > that is often helpful to us:
   >
-  > - A GitLabSOS report (https://gitlab.com/gitlab-com/support/toolbox/gitlabsos/) if you are using Omnibus
-  > - A KubeSOS report (https://gitlab.com/gitlab-com/support/toolbox/kubesos/) if you are using Kubernetes
+  > - A GitLabSOS report (<https://gitlab.com/gitlab-com/support/toolbox/gitlabsos/>) if you are using Omnibus
+  > - A KubeSOS report (<https://gitlab.com/gitlab-com/support/toolbox/kubesos/>) if you are using Kubernetes
   >
 
 - Markdown does not work for customer filed tickets. Try to limit the markdown

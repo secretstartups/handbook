@@ -5,7 +5,7 @@ summary: " "
 
 ## Levels
 
-#### Marketing Campaign Manager (Intermediate)
+### Marketing Campaign Manager (Intermediate)
 
 The Marketing Campaign Manager (Intermediate) reports to Manager, Marketing Campaigns.
 
@@ -141,30 +141,6 @@ The Senior Manager, Marketing Campaigns is a [grade 9](https://about.gitlab.com/
 - Ensures overall corporate goals are met in terms of the number of new inquiries, MQLs and SAOs, conversion rates and costs from demand generation campaigns
 - Works closely with Field Marketing, SDR, Alliances and Partner marketing to identify go to market synergies across teams that result in improved pipeline and achievement of revenue goals
 - Works with cross functional product marketing, technical marketing and content marketing to identify and leverage buyer journey assets, messaging and content and delivers them through demand generation campaigns to our ICP
-- Leads the documentation of all campaigns team processes in the handbook, creates an environment that fosters CREDIT within and x-functionally, and optimizes our campaign motions to ensure optimum marketing efficiency
-
-#### Senior Manager, Marketing Campaigns Requirements
-
-- Extends that of the Manager, Marketing Campaigns requirements
-- Ability to travel if needed and comply with the company’s travel policy.
-- If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
-
-### Senior Manager, Marketing Campaigns
-
-The Senior Manager, Marketing Campaigns reports to VP of Integrated Marketing.
-
-#### Senior Manager, Marketing Campaigns Job Grade
-
-The Senior Manager, Marketing Campaigns is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Senior Manager, Marketing Campaigns Responsibilities
-
-- Extends that of the Manager, Marketing Campaigns responsibilities
-- Leads overall demand generation campaigns function for assigned customer segment/geo
-- Coordinates cross functionally across multiple groups including marketing and sales
-- Ensures overall corporate goals are met in terms of the number of new inquiries, MQLs and SAOs, conversion rates and costs from demand generation campaigns
-- Works closely with Field Marketing, SDR, Alliances and Partner marketing to identify go to market synergies across teams that result in improved pipeline and achievement of revenue goals
-- Works with cross functional product marketing, technical marketing and content marketing to identify and leverage buyer journey assets, messaging and content and delivers them through demand generation campaigns to our ICP
 - Leads the documentation of all campaigns team processes in the handbook, creates an environment that fosters CREDIT within and x-functionally, and optimizes our campaign motions to ensure optimum marketing efficiency.
 
 #### Senior Manager, Marketing Campaigns Requirements
@@ -172,7 +148,6 @@ The Senior Manager, Marketing Campaigns is a [grade 9](https://about.gitlab.com/
 - Extends that of the Manager, Marketing Campaigns requirements
 - Ability to travel if needed and comply with the company’s travel policy.
 - If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
-
 
 ## Specializations
 

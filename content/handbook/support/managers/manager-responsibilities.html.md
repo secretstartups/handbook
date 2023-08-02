@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Support Engineering Manager Responsibilities
 description: "Support Engineering Manager Responsibilities"
 category: Support Management
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -41,7 +37,7 @@ Our primary responsibility in the Support Leadership team is to ensure high qual
 |  | Work with GitLab Sales, Pricing, Product, and other teams when company initiatives change Support requirements |
 | Help Support Engineers to manage tickets, manage customer expectations, and communicate well | Coach SEs on communication techniques |
 |  | Understand Support Workflows and escalation paths |
-|  | Support your team members' [participation in on-call rotations](/handbook/support/on-call/) to coordinate and resolve emergencies 
+|  | Support your team members' [participation in on-call rotations](/handbook/support/on-call/) to coordinate and resolve emergencies
 |  | Join [Customer Calls](/handbook/support/workflows/customer_calls.html) with SEs on request or according to your judgement |
 |  | Propose, develop, and evaluate improvements to Support processes by acting as DRI for [issues in the Support Meta project](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues) |
 | Stay up-to-date on GitLab Product, Strategy, Pricing, etc. | Contribute to and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week |
@@ -100,7 +96,6 @@ Important Slack channels:
     1. `#managers`
     1. `#eng-managers`
 
-
 ### Conducting weekly 1:1 meetings
 
 Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
@@ -116,6 +111,7 @@ Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the
 We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Be sure to include non-technical topics such as:
+
 1. [Psychological safety in teams](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/)
 1. Time management
 1. [Leadership skills](https://about.gitlab.com/handbook/leadership/)
@@ -133,17 +129,16 @@ Support Engineers and Managers are also encouraged to complete courses and certi
 
 ### Develop your skills through direct interactions with customers and Support Engineers
 
-We are committed to being managers who [_know and understand what Support Engineers do day to day._](https://about.gitlab.com/handbook/leadership/no-matrix-organization/). 
+We are committed to being managers who [*know and understand what Support Engineers do day to day.*](https://about.gitlab.com/handbook/leadership/no-matrix-organization/).
 
 The best way to be familiar with Support Engineer workflows and responsibilities is to step into the shoes of the engineers.
 
 Each week, Support Managers should do one or more of these activities:
+
 - own and resolve one ticket from first reply to closing statement
 - join a pairing session with one or more Support Engineers
-- join a scheduled or emergency call 
+- join a scheduled or emergency call
 
-By continually engaging with workflows, tickets, and customers we can build empathy and understand pain points through first-hand experience. 
+By continually engaging with workflows, tickets, and customers we can build empathy and understand pain points through first-hand experience.
 
 In this way, we build trust with engineers and customers while creating a sense of psychological safety by demonstrating that it's okay not to know.
-
-

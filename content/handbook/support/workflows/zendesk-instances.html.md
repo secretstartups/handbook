@@ -1,17 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Zendesk Support Instances
 category: Zendesk
 description: The Global GitLab Support Zendesk Instance is the instance where we receive and work on most of our customers' tickets.
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Zendesk Support Instances
 
 For more information on Zendesk instances, please see
 [Zendesk Instances](../support-ops/documentation/zendesk_instances.html).

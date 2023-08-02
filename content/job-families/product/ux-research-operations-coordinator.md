@@ -128,7 +128,6 @@ Candidates for this position can expect the hiring process to follow the order b
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
-
 - Candidates will be invited to a 45-minute interview with a UX Researcher. This interview aims to understand the details of your experience with UX research recruitment processes and how you've worked with other teams that rely on you.
 
 - Next, candidates will be scheduled for a 45-minute interview with a UX Reseach Operations Coordinator.  This interview will focus on experience related to project management, communications, identifying areas to improve, metrics related to UX research operations coordination, and so on.
@@ -136,6 +135,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates will be invited to a 1-hour interview with the hiring manager. You will discuss your career, your experiences related to a UX Research Operations Coordinator, and the role of UX Research Operations Coordination at GitLab.
 
 - Successful candidates will subsequently be made an offer via Zoom.
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

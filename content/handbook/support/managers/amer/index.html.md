@@ -1,10 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Support Managers AMER
-description: AMER Support Managers
+description: ""
 ---
 
-# How to prioritize
+## How to prioritize
 
 One of the challenges in a growing and transparent organization is "how to prioritize". We can use the following guidance as a reference. Note: If you need to re-prioritize, communicate what you are going to drop, and what you need help with. Prioritization does not mean "do more" it means "do the right things in the right order":
 

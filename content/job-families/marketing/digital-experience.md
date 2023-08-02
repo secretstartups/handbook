@@ -13,7 +13,6 @@ The Digital Experience Analyst Reports to [Director, Digital Experience](/job-fa
 
 The Digital Experience Analyst  (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 #### Digital Experience Analyst Responsibilities
 
 - Ensure that GitLab is correctly instrumented to be able to deliver meaningful insights about traffic, conversion, and growth opportunities on our digital properties

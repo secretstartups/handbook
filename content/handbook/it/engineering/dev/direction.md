@@ -18,14 +18,14 @@ Most of our next-gen automation is focused on API calls, CLI scripts, GitLab CI/
 > Most projects relate to a thematic "IT 2.0" greenfield direction that removes a lot of technical debt.
 
 1. **Architecting** next-generation automation and integration between IT managed systems that provides data consistency, reliability, strong security, and audibility.
-2. **Building** Archie to programmatically provision and deprovision users in GitLab, Google, Okta, and Slack groups that are provisioned and deprovisioned manually today as part of baseline entitlements, career mobility, and offboarding issue templates. This has significant time savings for dozens of team members, and mitigates many problems that we face with audit and compliance observations. Many other services we work with depend on a reliable directory source and this has the potential of being a valuable SSOT.
-3. **Consolidating** and refactoring [Demo Systems](/handbook/customer-success/demo-systems) web applications and legacy tech debt.
-4. **Developing** HackyStack v2 with improved cost management features, offboarding automation, Slack integration, and evaluating the future direction of Terraform environments that can be embedded in the GitLab product.
-5. **Escalation engineering** and emergency response for IT Operations and Security teams, and providing assistance to team members with all of the systems that we build and manage.
-6. **Factor** in cost, security, compatibility, maintainability and user experience when making decisions.
-7. **Growing other team members’ skill sets** through mentorship to improve operational efficiency and encourage professional development.
-8. **Helping** team members with all systems that we build and manage.
-9. **Iterating** continuously as part of our company values.
+1. **Building** Archie to programmatically provision and deprovision users in GitLab, Google, Okta, and Slack groups that are provisioned and deprovisioned manually today as part of baseline entitlements, career mobility, and offboarding issue templates. This has significant time savings for dozens of team members, and mitigates many problems that we face with audit and compliance observations. Many other services we work with depend on a reliable directory source and this has the potential of being a valuable SSOT.
+1. **Consolidating** and refactoring [Demo Systems](/handbook/customer-success/demo-systems) web applications and legacy tech debt.
+1. **Developing** HackyStack v2 with improved cost management features, offboarding automation, Slack integration, and evaluating the future direction of Terraform environments that can be embedded in the GitLab product.
+1. **Escalation engineering** and emergency response for IT Operations and Security teams, and providing assistance to team members with all of the systems that we build and manage.
+1. **Factor** in cost, security, compatibility, maintainability and user experience when making decisions.
+1. **Growing other team members’ skill sets** through mentorship to improve operational efficiency and encourage professional development.
+1. **Helping** team members with all systems that we build and manage.
+1. **Iterating** continuously as part of our company values.
 
 ## Quick Links
 

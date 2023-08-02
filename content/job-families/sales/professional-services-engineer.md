@@ -2,8 +2,6 @@
 title: "Professional Services Engineer"
 ---
 
-## Professional Services Engineer Roles at GitLab
-
 Professional Services Engineers engage with customers to provide installation, migration, training, and advisory services. They handle installations ranging from single-node Omnibus installs, to our largest reference architectures utilizing IaC/CaC, migrations from multiple systems to GitLab SaaS or self-hosted, and advisory services across the entire GitLab feature stack.
 
 Professional Services Engineers are expected to be able to interface not only with the customer, but with our GitLab Product/Engineering teams, to find the best route for customer success, and to help drive improvements into GitLab features and processes.
@@ -46,37 +44,35 @@ As members of the GitLab field organization, Professional Services Engineers wil
 - Represents GitLab and GitLab values in public communication around broader initiatives, specific projects, and community contributions
 - Liaises with GitLab customer support team to diagnose and troubleshoot support cases when necessary
 
-## Levels
+## Associate Professional Services Engineer
 
-### Associate Professional Services Engineer
-
-#### Responsibilities
+### Responsibilities
 
 - Uses a consultative approach to customer engagements
 - Does not focus on just "doing the work"
 - Looks for opportunities to help the customer achieve their vision more effectively and efficiently
 - Delivers on SOW with guidance from technical architects
 
-    - SOW scope may include:
-        - Installation and configuration of GitLab solutions in the customer environment
-        - Provide technical training sessions remotely and/or on-site
-        - Provide documentation for implementation, guides, maintenance, etc relevant to the customer requirements.
-        - Manage creation of new and/or maintenance of existing artifacts and templates for deliverables and training
-        - Develop and implement migration plans for customer VCS & data migration
+  - SOW scope may include:
+    - Installation and configuration of GitLab solutions in the customer environment
+    - Provide technical training sessions remotely and/or on-site
+    - Provide documentation for implementation, guides, maintenance, etc relevant to the customer requirements.
+    - Manage creation of new and/or maintenance of existing artifacts and templates for deliverables and training
+    - Develop and implement migration plans for customer VCS & data migration
 - Contributes to the extension and maintenance of documentation/scripts for implementation and workflow to align with custom requirements
 
-#### Requirements
+### Requirements
 
 - Professional exposure with one or more IaC/CaC technologies:
-    - Terraform
-    - Ansible
-    - Packer
-    - Puppet
-    - Chef
+  - Terraform
+  - Ansible
+  - Packer
+  - Puppet
+  - Chef
 - Professional exposure  with one or more cloud providers:
-    - AWS
-    - GCP
-    - Azure
+  - AWS
+  - GCP
+  - Azure
 - Proficienct in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
 - Experience using, deploying, or configuring GitLab
 - Comfortable working in a fast-paced environment, sometimes with multiple customer engagements at once
@@ -87,36 +83,36 @@ As members of the GitLab field organization, Professional Services Engineers wil
 - Ability to thrive in a fully remote organization
 - ~20% travel may be required
 
-### Professional Services Engineer
+## Professional Services Engineer
 
-#### Responsibilities
+### Responsibilities
 
 - Extends the general responsibilities with the following:
 - Documents opportunities to help the customer achieve their vision more effectively and efficiently
-    - Communicate opportunities to the customer project and account team
+  - Communicate opportunities to the customer project and account team
 - Supports engagement managers on quoting and scoping of SOWs
 - Document and implement improvements for Professional Services engagement processes
 
-#### Requirements
+### Requirements
 
 - Extends the general requirements with the following:
 - [Professional experience](https://about.gitlab.com/job-families/sales/professional-services-engineer/#professional-experience) with one or more IaC/CaC technologies:
-    - Terraform
-    - Ansible
-    - Packer
-    - Puppet
-    - Chef
+  - Terraform
+  - Ansible
+  - Packer
+  - Puppet
+  - Chef
 - [Professional experience](https://about.gitlab.com/job-families/sales/professional-services-engineer/#professional-experience) with one or more cloud providers:
-    - AWS
-    - GCP
-    - Azure
+  - AWS
+  - GCP
+  - Azure
 - Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
 - Experience using, deploying, or configuring GitLab
 - Ability to advise on GitLab recommendations, and build direction/consensus with the customer to move forward
 
-### Senior Professional Services Engineer
+## Senior Professional Services Engineer
 
-#### Responsiblities
+### Responsiblities
 
 - Provide feedback to Project Managers and Engagement Managers make scheduled delivery more consistent
 - Continually work with Engagement Managers to streamline and improve delivery
@@ -124,7 +120,7 @@ As members of the GitLab field organization, Professional Services Engineers wil
 - Provide mentorship for Associate and Intermediate Professional Services Engineers to help them grow in their technical responsibilities and remove blockers to their autonomy
 - Manage/oversee/deliver on multiple projects, either as the primary engineer, or as a lead providing oversight to other Professional Services Engineers
 
-#### Requirements
+### Requirements
 
 - Extends the general requirements with the following:
 - Proven ability to independently manage a project or projects
@@ -135,7 +131,7 @@ As members of the GitLab field organization, Professional Services Engineers wil
 - Mastery with multiple highly available architectures and concepts
 documents those opportunities
 
-#### Additional Skills
+### Additional Skills
 
 - Development skills in Python, Ruby, or Go
 - Long-term experience managing a GitLab installation, preferably with Premium or Ultimate license levels
@@ -146,7 +142,7 @@ documents those opportunities
 - Experience working with a global or otherwise multicultural team
 - Computer science education or equivalent experience
 
-### Public Sector
+## Public Sector
 
 The Responsibilities, Requirements, and Additional Sklls for Public Sector Professional Services Engineers are identical to the commensurate Level and Grade of their non-Public Sector peers. The only additional job requirement is the necessary clearance to work on Government Contracts.
 
@@ -166,8 +162,8 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Career Ladder
 
 - The next steps for individual contributors is to move into:
-    - A Manager role within this Job Family
-    - To a Technical Architect role
+  - A Manager role within this Job Family
+  - To a Technical Architect role
 - The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
 - The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)

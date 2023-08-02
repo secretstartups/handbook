@@ -1,20 +1,14 @@
 ---
-layout: handbook-page-toc
 title: Debugging LDAP
 category: Self-managed
 description: "Support Engineering workflow describing how to debug LDAP problems"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ##### Notes
 
 This assumes an omnibus installation.
-______________
+
+----
 
 See LDAP troubleshooting in docs - [View Docs](https://docs.gitlab.com/ee/administration/auth/ldap/ldap-troubleshooting.html)
 
@@ -29,7 +23,7 @@ apt-get install ldap-utils
 yum install openldap-clients
 ```
 
-2. Check LDAP settings
+1. Check LDAP settings
 
 Edit the following values to match the LDAP configuration in `gitlab.rb`
 
@@ -64,23 +58,23 @@ EOS
 
 **LDAP search switches**
 
-+ **-D** = Bind DN
-   +  GitLab config value: `bind_dn: 'cn=admin,dc=ldap-testing,dc=mrchris,dc=me'`
+- **-D** = Bind DN
+  - GitLab config value: `bind_dn: 'cn=admin,dc=ldap-testing,dc=mrchris,dc=me'`
 
-+ **-b** = Search base
-   +  GitLab config value: `base: 'dc=ldap-testing,dc=mrchris,dc=me'`
+- **-b** = Search base
+  - GitLab config value: `base: 'dc=ldap-testing,dc=mrchris,dc=me'`
 
-+ **-w** = Password
-   +  GitLab config value: `password: 'Password1'`
+- **-w** = Password
+  - GitLab config value: `password: 'Password1'`
 
-+ **-w** = Port & **-h** = Host
-   +  GitLab config value: `port: 389`
-   +  GitLab config value: `host: 127.0.0.1`
+- **-w** = Port & **-h** = Host
+  - GitLab config value: `port: 389`
+  - GitLab config value: `host: 127.0.0.1`
 
-+ **-s** = Search scope
-   + GitLab config value: None
-   + Default is **sub**
-   + Using `sub "(objectclass=*)` will return "all" objects
+- **-s** = Search scope
+  - GitLab config value: None
+  - Default is **sub**
+  - Using `sub "(objectclass=*)` will return "all" objects
 
 **Get all LDAP objects for baseDN**
 
@@ -94,7 +88,7 @@ ldapsearch -D "cn=admin,dc=ldap-testing,dc=mrchris,dc=me" \
 
 ##### Could not find member DNs for LDAP group
 
-```
+```text
 Could not find member DNs for LDAP group #<Net::LDAP::Entry:0x00000007220388
 ```
 
@@ -102,7 +96,7 @@ This usually indicates an issue with the `uid` configuration value in `gitlab.rb
 
 When running `ldapsearch` you can see what attribute is used for the LDAP username. In the below case the username attribute is `uid`. Ensure `uid: 'uid'` in the configuration. The default Microsoft Active Directory username value is `sAMAccountName`
 
-```
+```text
 dn: cn=user test,ou=people,dc=ldap-testing,dc=mrchris,dc=me
 sn: test
 givenName: user
@@ -118,32 +112,38 @@ This indicates the admin_group name was not found `admin_group: 'gitlab_admin'`.
 
 This indicates a syntax error with one of the configured DNs. Check the following values, ensure they're the full DN.
 
-+ `group_base`
-+ `bind_dn`
-+ `base`
+- `group_base`
+- `bind_dn`
+- `base`
 
 **Testing LDAP** - valid for 8.10 >
 
 1. Launch the rails console
+
     ```ruby
     gitlab-rails c
     ```
 
 1. Update the logger level
+
     ```ruby
     Rails.logger.level = 0
     ```
+
 1. Perform a group sync
+
     ```ruby
     LdapGroupSyncWorker.new.perform
     ```
 
 1. Perform a user sync
+
     ```ruby
     LdapSyncWorker.new.perform
     ```
 
 1. All commands:
+
     ```ruby
     gitlab-rails c
     Rails.logger.level = 0
@@ -171,15 +171,17 @@ This is used to force an instant sync of LDAP for testing purposes.
 
 1. Start the rails console
 
-        sudo gitlab-rails console
+    ```sh
+    sudo gitlab-rails console
+    ```
 
-2. Create a new adapter instance
+1. Create a new adapter instance
 
     ```ruby
     adapter = ::Gitlab::Auth::LDAP::Adapter.new('ldapmain')
     ```
 
-3. Find a group by common name. Replace **UsersLDAPGroup** with the common name to search.
+1. Find a group by common name. Replace **UsersLDAPGroup** with the common name to search.
 
    1. **GitLab 8.11 >**
 
@@ -193,7 +195,7 @@ This is used to force an instant sync of LDAP for testing purposes.
         group =  Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter)
         ```
 
-4. Check `member_dns`
+1. Check `member_dns`
 
     ```ruby
     group.member_dns

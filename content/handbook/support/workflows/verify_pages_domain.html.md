@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Custom domain verification on GitLab.com
 category: GitLab.com
 subcategory: Troubleshooting
@@ -50,10 +50,10 @@ name with it. Instead they need to be created on a special subdomain, e.g.:
 You can check whether a CNAME record is being used by running:
 
 ```sh
-$ dig +short cname example.com
+dig +short cname example.com
 ```
 
-If this command returns any output, the verification TXT records _must_ be
+If this command returns any output, the verification TXT records *must* be
 present on the special subdomain in the following steps.
 
 ### Checking TXT records
@@ -64,8 +64,8 @@ check the TXT records for a custom domain by running the following commands
 (replacing `example.com` with the correct domain throughout):
 
 ```sh
-$ dig +short txt example.com
-$ dig +short txt _gitlab-pages-verification-code.example.com
+dig +short txt example.com
+dig +short txt _gitlab-pages-verification-code.example.com
 ```
 
 One or both of these commands should output a line of this form:
@@ -78,7 +78,7 @@ One or both of these commands should output a line of this form:
 a line mixed in with other data, as long as it's separated from them by
 whitespace).
 
-As an administrative user, you can view the _correct_ verification code by
+As an administrative user, you can view the *correct* verification code by
 visiting the project on GitLab.com, then navigating to `Settings ➔ Pages` and
 pressing the `Details` button for the appropriate custom domain.
 

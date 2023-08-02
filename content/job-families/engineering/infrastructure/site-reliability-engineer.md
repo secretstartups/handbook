@@ -9,7 +9,7 @@ SREs specialize in systems (operating systems, storage subsystems, networking), 
 
 GitLab.com is a unique site and brings with it unique challenges: it is the largest GitLab instance in existence (and in fact, one of the largest single-tenancy open-source SaaS sites on the Internet). The team's experience feeds back into other Engineering groups within the company, as well as to GitLab customers running self-managed installations.
 
-## As an SRE you will:
+## As an SRE you will
 
 - Be on an on-call (PagerDuty) rotation to respond to incidents that impact GitLab.com availability, and provide support for service engineers with customer incidents.
 - Use your on-call shift to prevent incidents from ever happening.
@@ -22,7 +22,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Debug production issues across services and levels of the stack.
 - Plan the growth of GitLab's infrastructure.
 
-## You may be a fit to this role if you have some of these inclinations:
+## You may be a fit to this role if you have some of these inclinations
 
 - Think about systems: edge cases, failure modes, behaviors, specific implementations.
 - Know your way around Linux and the Unix Shell.
@@ -36,7 +36,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Have experience with Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies
 - Ability to use GitLab
 
-## Projects you could work on:
+## Projects you could work on
 
 - Coding infrastructure automation with [Chef](https://gitlab.com/gitlab-cookbooks/), Ansible, Terraform, and GitLab CI/CD
 - Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-exporter)
@@ -116,7 +116,6 @@ The Associate Site Reliability Engineer is a [grade 5](/handbook/total-rewards/c
 
 1. Shares the learnings publicly through issues, runbooks and documentation.
 
-
 ### Site Reliability Engineer
 
 #### Job Grade
@@ -190,14 +189,14 @@ Are Site Reliability Engineers who meet the following criteria:
 1. Identify parts of the system that do not scale, provides immediate palliative measures and drives long term resolution of these incidents.
 1. Identify Service Level Indicators (SLIs) that will align the team to meet the availability and latency objectives.
 
-##### Collaboration and Communication:
+##### Collaboration and Communication
 
 1. Leads initiatives and problem definition and scoping, design, and planning through epics and blueprints.
 1. Deep domain knowledge and radiation that knowledge through recorded demos, technical presentations, discussions, and [Incident Reviews](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).
 1. Perform and run blameless RCAs on incidents and outages aggressively looking for answers that will prevent the incident from ever happening again.
 1. For stable counterpart assignments, maintain awareness and actively influence stage group plans and priorities through participation in stage group meetings and async discussions. Act as a champion for reliability.
 
-##### Influence and Maturity:
+##### Influence and Maturity
 
 1. Set an example for team of SREs with positive and inclusive leadership and discussion on work.
 1. Show ownership of a major part of the infrastructure.
@@ -315,7 +314,6 @@ Further career progression is available as a Principle Engineer, [Distinguished 
 
 Individual Contributors in SRE roles can also move to roles in the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
 
-
 ## Performance Indicators
 
 Site Reliability Engineers have the following job-family performance indicators:
@@ -328,7 +326,6 @@ Site Reliability Engineers have the following job-family performance indicators:
 - [Mean Time Between Failure](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failures-mtbf)
 - [Mean Time to Production](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#mean-time-to-production-mttp)
 - [Disaster Recovery Time to Recovery](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#disaster-recovery-dr-time-to-recover)
-
 
 ## Hiring Process
 

@@ -53,4 +53,3 @@ The needs of the GitLab Handbook [have outgrown what can be handled in a wiki](h
 Since the content is [changing quite literally every day](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/source/handbook), we are not looking to generate a digital or printed book from the GitLab Handbook content.
 
 The GitLab Handbook is not currently optimized for serving as a searchable Knowledge Base or FAQ repository similar to what you would find on [Quora](https://www.quora.com/) or [Stack Overflow](https://stackoverflow.com/). The problems to be solved in those areas are likely to be addressed by the [Knowledge group](/handbook/product/categories/#knowledge-group).
-

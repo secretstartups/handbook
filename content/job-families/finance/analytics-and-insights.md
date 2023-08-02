@@ -55,7 +55,6 @@ The Analytics and Insights Senior Analyst is a [grade 6](https://about.gitlab.co
 - Presenting Data and Insights: make dashboards, visualizations and presentations to advance decision making power in the company.
 - Work is typically guided by a Sr. Analyst, Manager or Director
 
-
 #### Requirements
 
 - Experience recommendation: Experience in a consulting or analytics role ideally with enterprise SaaS software model.
@@ -101,7 +100,6 @@ The Business Analytics and Insights Manager is a [grade 8](https://about.gitlab.
 - More in depth experience than the Sr. Analyst in terms of years of experience or depth of experience.
 - Experience driving projects of large complexity on your own with little guidance.
 - Ability to influence decisions at the VP level with little support.
-
 
 ### Business Analytics and Insights Senior Manager
 

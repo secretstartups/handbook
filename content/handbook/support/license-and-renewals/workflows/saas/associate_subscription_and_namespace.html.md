@@ -6,12 +6,7 @@ description: "How to provision GitLab.com subscriptions"
 category: GitLab.com subscriptions & purchases
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Provisioning subscriptions for reseller customers
 
@@ -19,9 +14,9 @@ Customers who purchase from GitLab Partners, resellers, AWS, and/or GCP have **r
 
 All SaaS customers should provision their subscriptions from CustomersDot as described under [Customer self-serve: associating the subscription and namespace](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/associate_subscription_and_namespace.html#customer-self-serve-associating-the-subscription-and-namespace).
 
-## Troubleshooting 502 errors while provisioning the subscription 
+## Troubleshooting 502 errors while provisioning the subscription
 
-While handling the subscription provisioning requests, we might encounter a 502 error while impersonating the user on the customer portal, this occurs when an admin accidentally links their GitLab.com admin account with the customer portal account, due to which the customer portal tries to fetch all the groups that are accessible to the admin user on GitLab.com and eventually returns a 502 error. 
+While handling the subscription provisioning requests, we might encounter a 502 error while impersonating the user on the customer portal, this occurs when an admin accidentally links their GitLab.com admin account with the customer portal account, due to which the customer portal tries to fetch all the groups that are accessible to the admin user on GitLab.com and eventually returns a 502 error.
 
 - We can verify that by [retrieving the token information](https://docs.gitlab.com/ee/api/oauth2.html#retrieving-the-token-information)(grab the `access_token` from the customer portal and call the API endpoint to retrieve the `resource_owner_id` attribute, which should be the same as the  GitLab.com `userID`).
 
@@ -31,14 +26,14 @@ To fix this, we should **completely unlink the GitLab.com account with the custo
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
-While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin 
+While handing the subscription provisioning requests, we'll face some cases where it's not possible to associate the subscription by following the normal procedure(the workflow mentioned above) using the customer portal admin
 
 - If the namespace has more active users than the number of seats in the subscription, the system redirects to the payment page to purchase additional seats to match the GitLab.com Group's active user count, in this scenario if the customer is not interested in purchasing additional seats upfront then we can force associate the subscription and the additional seats will be reflected as true-ups on the group's billing page.
 
-- Another scenario: Provisioning requests for EDU/OSS customers. In this case, the ```Change Linked Namespace``` button on the subscription does not exist, so you must use the [Force Associate Zendesk App](handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to associate the subscription. 
- 
+- Another scenario: Provisioning requests for EDU/OSS customers. In this case, the ```Change Linked Namespace``` button on the subscription does not exist, so you must use the [Force Associate Zendesk App](handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to associate the subscription.
+
 - If it's successful then the response would be {:success=>true} -> You can also verify the namespace and close the issue.
-- If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access. 
+- If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access.
 
 Please note: when using the force associate tool, ensure that a gitlab.com user (with owner role in the relevant namespace) has been linked to the customersdot account that the subscription is associated with. If an association is made, but no gitlab.com user is linked, then any subsequent changes to the subscription will either not reflect on the namespace in gitlab.com or it will downgrade the namespace to Free.
 
@@ -61,11 +56,12 @@ Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/t
 ## Customer self-serve: associating the subscription and namespace
 
 ### If the user sees the subscription in CustomersDot
+
 If the user has access to and sees a subscription in CustomersDot but doesn't see the paid plan details showing on their billing page on GitLab.com, have the user associate the group with the subscription via CustomersDot.
 
 Associating a group with a subscription in CustomersDot:
 
-1. Log into: https://customers.gitlab.com/customers/sign_in
+1. Log into: <https://customers.gitlab.com/customers/sign_in>
 1. Navigate to **Manage Purchases**
 1. Select **Change linked namespace**
 1. Select the desired group from the **namespace** dropdown
@@ -81,6 +77,6 @@ Associating a group with a subscription in CustomersDot:
 
 ### If the user does not see the subscription in CustomersDot
 
-If the user doesn't see a subscription in CustomersDot, 
-follow the [associating purchases workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html) 
+If the user doesn't see a subscription in CustomersDot,
+follow the [associating purchases workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html)
 to give the user access to the subscription.

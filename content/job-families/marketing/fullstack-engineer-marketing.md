@@ -128,8 +128,6 @@ The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-
 
 ## Performance Indicators
 
-## Performance Indicators
-
 - [Contributing to the success of Digital Experience's Quarterly Initiatives](https://about.gitlab.com/handbook/marketing/digital-experience/#okrs)
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)

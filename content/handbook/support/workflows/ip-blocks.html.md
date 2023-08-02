@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Identifying the Cause of IP Blocks on GitLab.com
 description: "Workflow to try to determine what caused an IP address block and relay that information back to the user."
 category: GitLab.com
 subcategory: Troubleshooting
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 At times, users of GitLab.com can find that their IP address has been blocked due to rate limiting. Currently, rate limit parameters on GitLab.com are best described on the [GitLab.com settings docs page](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits). When this happens we *may* be able to determine what caused a block and relay that information back to the user.
 
@@ -48,7 +41,7 @@ The existence of these results tells us that this user was blocked by Rack Attac
 
 It's common to see multiple failed authentication requests (401) trigger a Rack Attack block which causes a 403 Forbidden message. We block IP addresses if we receive [30 failed requests from a single IP in a three minute period](https://docs.gitlab.com/ee/user/gitlab_com/index.html#git-and-container-registry-failed-authentication-ban). It's worth noting that by default, Git operations are first tried unauthenticated so it's expected to see two 401 responses for every Git operation.
 
-Rack Attack can also _throttle_ traffic. If that is the case, this is recognizable by the HTTP 429 response code. The preferred solution to this is to have the user make fewer requests. If that is not possible you can create an infrastructure issue with [this template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-rate-limiting).
+Rack Attack can also *throttle* traffic. If that is the case, this is recognizable by the HTTP 429 response code. The preferred solution to this is to have the user make fewer requests. If that is not possible you can create an infrastructure issue with [this template](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=request-rate-limiting).
 
 ### Fields
 
@@ -89,7 +82,6 @@ You can list all log results for hits on the container registry by searching for
 #### Failed Push and Pull Examples
 
 ##### Push
-{:.no_toc}
 
 Failed pushes to the registry will always have `JwtController` for the `json.controller` field and `/jwt/auth` for the `json.path` field. Watch for `:push,pull` in the `json.params` field, indicating that the request is for a push.
 
@@ -98,7 +90,6 @@ A failed push will look like the following in Kibana.
 ![Failed Push](/images/support/ipblocks_registry_failed_push.png)
 
 ##### Pull
-{:.no_toc}
 
 Similar to a push, failed pulls from the registry will always have `JwtController` for the `json.controller` field and `/jwt/auth` for the `json.path` field. However, in `json.params` only `:pull` will be present.
 
@@ -124,7 +115,6 @@ Pushes or pulls to repositories containing LFS objects can result in an IP block
 #### Examples
 
 ##### Push
-{:.no_toc}
 
 Failed LFS pushes will always have `upload_authorize` in the `json.action` field, `Projects::LfsStorageController` for the `json.controller` field, and `PUT` for `json.method`.
 
@@ -174,7 +164,7 @@ There may be cases where a user is being blocked by CloudFlare and they are not 
 
 ![Access Denied](/handbook/support/workflows/assets/AccessDenied.png)
 
-```
+```text
 curl -i --header "PRIVATE-TOKEN: *****" https://gitlab.com
 
 HTTP/2 403

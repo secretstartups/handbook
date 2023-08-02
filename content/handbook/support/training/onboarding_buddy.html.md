@@ -1,16 +1,7 @@
 ---
-layout: handbook-page-toc
 title: Support Onboarding Buddy
 description: How to be an onboarding buddy to a new Support Engineer
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Support Onboarding Buddy
 
 You've become an onboarding buddy to a new Support Engineer. Congratulations! You've been granted a pivotal role in helping someone new learn about how to best contribute to our customers, our team, and our product.
 
@@ -43,19 +34,19 @@ Note that everyone's needs are different, so consider the following as a list of
 
 ### First 1-2 weeks
 
-  - Meet and get to know each other
-  - Answer general questions
-  - Talk about your “schedule” and how you work every day - walk them through a few example days
-  - Talk about how to use tools like Slack, Expensify, etc.
-  - Show them some helpful Slack channels
-  - Which Slack channels to keep track of daily
-  - Which Google docs to keep track of (SWIR, etc.)
-  - Show them some helpful handbook pages to read during onboarding
-  - Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
-  - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
-  - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-  - Show them our [Testing Environments](https://about.gitlab.com/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
-  - Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
+- Meet and get to know each other
+- Answer general questions
+- Talk about your “schedule” and how you work every day - walk them through a few example days
+- Talk about how to use tools like Slack, Expensify, etc.
+- Show them some helpful Slack channels
+- Which Slack channels to keep track of daily
+- Which Google docs to keep track of (SWIR, etc.)
+- Show them some helpful handbook pages to read during onboarding
+- Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
+- Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
+- Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
+- Show them our [Testing Environments](https://about.gitlab.com/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
+- Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings
 
@@ -78,7 +69,6 @@ Note that everyone's needs are different, so consider the following as a list of
   - Ping them when you have a customer call so they can shadow it
   - Show them how to find customer calls to shadow
   - Be available for their first customer call, if possible. If not, do what you can to ensure they have a shadow to help them out
-
 
 ### What to do afterwards
 

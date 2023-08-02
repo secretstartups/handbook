@@ -1,23 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: Transition training module to GitLab Learn
 description: How to transition a support training module to  GitLab Learn
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Support Training Module to GitLab Learn
 
 This document covers the process for transitioning existing [GitLab Support training modules](https://gitlab.com/gitlab-com/support/support-training/) to [GitLab Learn](https://gitlab.edcast.com/).
 
 ## Requisites
 
 - Complete the GitLab [Learning Evangelist training](https://gitlab.edcast.com/pathways/ECL-f9be1e50-ba17-46b3-af33-731d19b3ffcd).
-
 
 ## Transition template
 
@@ -33,10 +24,10 @@ graph TD;
     C(Training Module)-->D(GitLab Learn - Pathways)
 
     A("Support Learning Objective)-->B(GitLab Learn Journey);
-    
+
 
     B-->Z(GitLab Learn)
-    
+
     D-->Z
     F-->Z
 ```
@@ -53,8 +44,8 @@ The first step in the transition is to visualize how the training will work on G
 
 The key elements to consider in GitLab Learn are:
 
-1. Quizzes 
-    
+1. Quizzes
+
     At the moment, only single or multi-select answer questions are available.
 
 1. Project type SmartCards
@@ -67,9 +58,9 @@ The key elements to consider in GitLab Learn are:
 
 ### Step 3 - Create your Pathway
 
-A Training module becomes a pathway in GitLab learn. 
+A Training module becomes a pathway in GitLab learn.
 
-- Create your pathway 
+- Create your pathway
 
     The pathway is similar to the issue used on Training Modules.
 
@@ -93,7 +84,6 @@ Tasks become smartcards in GitLab Learn.
 - Make sure to set the smartcard as locked, so any smartcard will require the previous one to be completed.
 - Be creative! GitLab Learn offers different smartcard types and also gives room for other tools by allowing `iframes with html`.
 
- 
 ### Step 4 - Test Run
 
 As a collaborator or author, the pathway cannot be fully tested. For this step, we will require volunteers to help us test our pathway.
@@ -113,10 +103,8 @@ As a collaborator or author, the pathway cannot be fully tested. For this step, 
 - Put a comment in the issue created from the first step to request a final review.
 - Once the pathway has been approved and depending on the audience, change it to public.
 
-
 ## Considerations
 
 - Collaboration in GitLab Learn won't be as flexible as in GitLab, and will depend on `Evangelists` or `Curators` for final updates.
 - The handbook is the single source of truth (SSOT). For this reason, any change to the training must start in its handbook page.
 - A pathway author will be considered as DRI, and must ensure important updates in the training are also present in GitLab Learn as soon as possible.
-

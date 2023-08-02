@@ -22,4 +22,3 @@ title: "Chief Financial Officer"
 - [New hire location factor](/#new-hire-location-factor)
 - [Runway](https://about.gitlab.com/handbook/finance/accounting/#cash-burn-average-cash-burn-and-runway)
 - [Effective Tax Rate](https://about.gitlab.com/handbook/tax/performance-indicators/#effective-tax-rate-etr)
-

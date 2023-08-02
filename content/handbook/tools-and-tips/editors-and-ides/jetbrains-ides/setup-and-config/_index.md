@@ -44,8 +44,8 @@ However, when you first open a new project for the first time, or if you pull in
 especially on a slower machine.
 
 And for very large projects, such as the GitLab Rails monolith, which has
-more than 2 _million_ lines of Ruby code, and who knows how many millions of lines
-of gem code dependency, the very first indexing can take a _very_ long time, up to
+more than 2 *million* lines of Ruby code, and who knows how many millions of lines
+of gem code dependency, the very first indexing can take a *very* long time, up to
 15-20 minutes or more depending on your machine. However, after that initial indexing,
 subsequent incremental indexing after pulling new changes or switching branches usually
 takes no more than a minute or so.
@@ -73,7 +73,7 @@ This will be under `Settings -> Project Structure` in RubyMine and GoLand, and u
 
 If you want to see a current example of the RubyMine excluded folders for the `gitlab` project,
 you can see Chad's `gitlab.iml` module at
-https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/gitlab.iml,
+<https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/gitlab.iml>,
 and search for `excludeFolder`.
 
 Alternately, these would be included in the config if you use one of the "copy someone else's config"
@@ -88,21 +88,21 @@ work with Gitlab):
 
 1. Your best bet is probably "Manual Option 1: Manually configure everything".
    This will take maybe an hour or so, but you'll learn your way around the settings.
-2. If you are in a hurry, consider "Manual option 2: Manually zip and copy IDE and Project
+1. If you are in a hurry, consider "Manual option 2: Manually zip and copy IDE and Project
    config folders" and ask on [Chat Groups](../#chat-groups) for a zip of someone's config
    folders
-3. If you just want to backup or transfer your existing config, consider
+1. If you just want to backup or transfer your existing config, consider
    "JetBrains-supported option 1: Settings Sync"
-4. If you have aspirations to be a JetBrains power user, or are the type of person who
+1. If you have aspirations to be a JetBrains power user, or are the type of person who
    wants to keep all your configs under source control, see
    "JetBrains-supported option 2: Settings Repository" and
    "Manual option 3: Keep your `.idea` folder under source control".
 
 ### Overview
 
-**_NOTE: This Configuration section is a work in progress, especially since the
+***NOTE: This Configuration section is a work in progress, especially since the
 options for managing/sharing configs have changed in recent versions of JetBrains.
-Please feel free to contribute any updates you may have._**
+Please feel free to contribute any updates you may have.***
 
 Although most basic functionality works out of the box in JetBrains IDEs, if you work on a project with very specific and strict rules around code style and formatting (such as GitLab)
 you may need to carefully curate your IDE configuration to match the requirements of the
@@ -121,6 +121,7 @@ JetBrains, please feel free to ask for guidance and advice in the [Chat Groups](
 ### "IDE" vs. "Project" config
 
 Jetbrains stores config in two ways: "Stored in IDE" and "Stored in Project":
+
 - The "IDE" settings are stored under your home directory, in a directory like
 `/Users/cwoolley/Library/Application Support/JetBrains/RubyMine2023.2`
 - The "Project" settings are stored in the `.idea` folder in the root of your project.
@@ -156,7 +157,7 @@ sub-pages page real soon™️.
 ### Manual option 2: Manually zip and copy IDE and Project config folders
 
 Ask someone who already has the project configured to give you zipped copies of their
-IDE and Project config folders listed above. This _SHOULDN'T_ contain any personal
+IDE and Project config folders listed above. This *SHOULDN'T* contain any personal
 information other than perhaps dictionary override entries, but some plugins might
 store personal info in their own configs.
 
@@ -170,21 +171,21 @@ Also, Chad Woolley keeps his current `.idea` Project Config folder for the
 you can do this in the next section).
 
 You can clone it or copy any files from this config here:
-https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/tree/master/dotidea
+<https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/tree/master/dotidea>
 
 ### Manual option 3: Keep your `.idea` folder under source control
 
 If you want to keep your Project (not IDE) config under source control, you can
 do this manually. See Chad's instructions here:
 
-https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/README.md#project-level-config
+<https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/README.md#project-level-config>
 
 ### JetBrains-supported options
 
 JetBrains provides three different options for sharing settings, which are
 described on the following page (using RubyMine as an example):
 
-https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html
+<https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html>
 
 1. Settings Sync
 1. Settings Repository
@@ -194,7 +195,7 @@ Each of these have their tradeoffs, see the following sections for details.
 
 #### JetBrains-supported option 1: Settings Sync
 
-This approach is described here: https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync
+This approach is described here: <https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync>
 
 The main downside of this approach is that since this is done through your JetBrains account,
 there appears to be no way to share with other team members. So, you'll have to one of the other
@@ -217,16 +218,16 @@ repo, and not in JetBrains cloud as is done with "Settings Sync" above. This als
 
 Here's the docs:
 
-1. It's mentioned as the second approach here: https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html
-1. ...which links here to an old version of the docs for the real instructions: https://www.jetbrains.com/help/ruby/2022.2/sharing-your-ide-settings.html#settings-repository
-1. ...and you can also see some instructions Chad has written around it here: https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/README.md#ide-level-config
+1. It's mentioned as the second approach here: <https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html>
+1. ...which links here to an old version of the docs for the real instructions: <https://www.jetbrains.com/help/ruby/2022.2/sharing-your-ide-settings.html#settings-repository>
+1. ...and you can also see some instructions Chad has written around it here: <https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/README.md#ide-level-config>
 
 #### JetBrains-supported option 3: Export/Import your settings
 
-This approach is documented here: https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#import-export-settings
+This approach is documented here: <https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#import-export-settings>
 
 It is found under `File -> Manage IDE Settings -> Import/Export Settings`
 
-I (Chad) haven't tested this approach much. I _THINK_ it only does IDE-level settings.
+I (Chad) haven't tested this approach much. I *THINK* it only does IDE-level settings.
 
 Please feel free to update this section if you experiment with this and learn more details.

@@ -214,7 +214,6 @@ The Manager, Sourcing is a [grade 8](https://about.gitlab.com/handbook/total-rew
 - Conversion Rate: Candidate to Team Interview >40%
 - 6 offers extended per quarter to sourced (outbound) candidates
 
-
 ## Career Ladder
 
 The next step in the Sourcing job family is to move to the [Recruiting Leadership](/job-families/people-group/vp-recruiting/) job family.

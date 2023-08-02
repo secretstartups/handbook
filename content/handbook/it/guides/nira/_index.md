@@ -51,15 +51,22 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 
 ![seeingmoredetails.png](./seeingmoredetails.png)
 
-## Security recommends that you review sharing permissions on documents in the following order:
+## Security recommends that you review sharing permissions on documents in the following order
 
 1. Open links - Public: Public links should rarely be used.
+
 - When an item has a [Public link](https://app.nira.com/items/open-links/public) - also known as “Anyone with the link” - anyone on the Internet with the link can access the item
+
 1. Open links - Company: Company links should be used only for company-wide access.
+
 - When an item has a [Company link](https://app.nira.com/items/open-links/company)  also known as “Share with company” - it means that anyone in GitLab with the link can access that item.
+
 1. Personal accounts: Personal accounts should rarely be added to documents.
+
 - When an item has a [Personal Account](https://app.nira.com/items/personal-accounts), it means that a personal email account has access to the document. When collaborating with a partner who does not have a Google Workspace account, please follow these [instructions](https://support.google.com/drive/answer/9195194){:target="_blank"} from Google to share with their work email account.
+
 1. Outside access: [Outside Account](https://app.nira.com/items/outside-access) should rarely be added to documents, unless collaborating with a partner.
+
 - When an item has an Outside Account, it means there is an account outside of the GitLab domain with access to the document.
 
 ## Removing access from document details pane
@@ -113,7 +120,6 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 1. You can enter a single email address of the account to remove from your list of items or select a collaborator type to remove from all items selected. Selecting a collaborator type will allow you to remove all personal accounts, outside domains, internal, or external accounts from the items selected.
 1. Type REMOVE in all caps to confirm and then click remove to complete the action.
 
-
 ## How to find documents using Nira
 
 > Searching for documents in Nira can be done using Nira’s filters.
@@ -122,7 +128,6 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 1. Type in a keyword you would like to search for in item titles and hit enter, for example, type Marketing Plan.
     1. If you want to search for multiple keywords at once, type the keyword and hit submit.
     1. If you want to search for titles with multiple keywords in them, add the word AND in capital letters between the keywords. For example, Agreement AND Confidential.
-
 
 ## How to delete old documents using Nira
 
@@ -302,4 +307,3 @@ Google Workspace link types
 
 - Documents should very rarely be shared with Personal accounts.
 - Documents with Personal listed have been shared with a personal email address such as Gmail or Yahoo.
-

@@ -1,19 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Managing Product Issues
 description: "The collaborative process between Support and Fulfillment for managing product issues"
 category: General
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 The Fulfillment Product Team and the L&R Support Team work closely together to
 identify, understand and prioritize issues in the Fulfillment-related parts of
-our product. 
+our product.
 
 ### Reporting a product problem
 
@@ -26,10 +20,10 @@ this workflow.
    those projects for a matching epic.
 1. If there is an existing issue or epic, then add a link to it in the ticket
    and include in the issue or epic any relevant information which will help
-   with prioritization 
+   with prioritization
 1. Otherwise:
    1. For a new bug, open an issue in the relevant project using the
-      appropriate one of the following templates: 
+      appropriate one of the following templates:
       1. [customers.gitlab.com (including /Admin) issues](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/new?issue&issuable_template=Bug)
       1. [GitLab product issues](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue&issuable_template=Bug)
    1. For a new feature or tooling request, open an issue using the
@@ -64,7 +58,7 @@ Fulfillment`.
 The list is the single source of truth for describing the product issues
 that are of concern to L&R Support. For updates and discussions about
 Fulfillment's actions related to the issues and epics, see the monthly
-[Fulfillment Support Priority Monthly Review issue](https://gitlab.com/gitlab-com/Product/-/issues/?state=all&label_name%5B%5D=Fulfillment%20Support%20Priority%20Review), 
+[Fulfillment Support Priority Monthly Review issue](https://gitlab.com/gitlab-com/Product/-/issues/?state=all&label_name%5B%5D=Fulfillment%20Support%20Priority%20Review),
 which is created from this
 [template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Fulfillment-Support-Priority-Monthly-Review.md).
 
@@ -114,7 +108,6 @@ possible reprioritization should:
 1. Apply the `Support Priority::Review` label
 1. Add a comment to the issue or epic outlining how they think it should be
    prioritized and their reasoning
-
 
 #### Primary contributors
 
@@ -173,7 +166,7 @@ combine "scores" from each factor into a single number, which we call the
 ##### Factors
 
 1. Is there a **sustainable workaround**?
-   - _e.g._ anything requiring Mechanizer or Console Access is NOT sustainable
+   - *e.g.* anything requiring Mechanizer or Console Access is NOT sustainable
 1. Customer Impact: **Frequency** (daily, weekly, monthly, ...)
 1. Customer and Support Impact: Volume (**count**) of related support tickets
 1. Support Impact: **Effort** per ticket to resolve
@@ -185,7 +178,7 @@ combine "scores" from each factor into a single number, which we call the
    - lower expected effort, easier to diagnose, etc.
 1. Expected Benefit of Product Solution: **Higher Usabilty, SSAT**
 1. Expected Benefit of Product Solution: **Increase sales**
-   - fewer lost sales (_e.g._ user can't purchase subscription due to lack of
+   - fewer lost sales (*e.g.* user can't purchase subscription due to lack of
      credit card security, so either stays a free user or switches to another
      platform)
 1. Expected Benefit of Product Solution: Better **product availability** due to
@@ -195,7 +188,7 @@ All of the factors must be considered in order to paint the full picture of the
 importance of a given issue or epic. Even so, consider them as general
 guidelines that leave us room to make decisions without having to gather hard
 data for every one of them. In other words, we will exercise our best judgment
-using the information at hand. 
+using the information at hand.
 
 ##### Calculator
 
@@ -225,8 +218,8 @@ on the epic matters. In this situation, we will:
 
 1. Relabel all child epics and issues that currently have a
    `~Support Priority::1-4` label with the label, `~Support Priority::See Epic`
-   (_Note: this will result in the relabeled items no longer being visible on
-   our epic/issue boards_)
+   (*Note: this will result in the relabeled items no longer being visible on
+   our epic/issue boards*)
 1. Ensure that the epic has the appropriate Support Priority set
 
 In this way we will show and track only the epic in the list. In the event that
@@ -242,9 +235,8 @@ of the children are. In this situation, we will:
 
 1. Remove the Support Priority label from the epic (which removes the epic from
    the list)
-2. Retain the Support Priority labels on the children and keep them on the list
+1. Retain the Support Priority labels on the children and keep them on the list
 
-### How to get help from the Fulfillment Section development team 
+### How to get help from the Fulfillment Section development team
 
 If you require technical assistance from any Fulfillment Development Section Sub Group for issues that are not bugs or feature requests, then you can use GitLab.com to create an issue and request help. The workflow for this process is documented in the following handbook section [How to Use GitLab.com to Formally Request Help from the GitLab Development Team](https://about.gitlab.com/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).
-

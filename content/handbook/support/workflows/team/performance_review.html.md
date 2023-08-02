@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Performance reviews
 category: Support Team
 description: Information about performance reviews in Support Engineering
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -48,7 +44,8 @@ corresponding Google Sheet.
 ### Support Engineering Manager
 
 #### Growth, development and hiring of team members (Weighting: 20%)
-{: .no_toc}
+
+
 
 - **Developing:**
   - You are still getting to know your direct reports, and have not yet
@@ -76,7 +73,8 @@ corresponding Google Sheet.
     Talent Acquisition to ensure effective execution of the hiring plan.
 
 #### Process development and improvement (Weighting: 20%)
-{: .no_toc}
+
+
 
 - **Developing:**
   - You are just starting to build an understanding of Support Engineering
@@ -112,7 +110,8 @@ corresponding Google Sheet.
     independently drive improvement initiatives.
 
 #### People care and performance management (Weighting: 30%)
-{: .no_toc}
+
+
 
 - **Developing:**
   - You are just starting to build an understanding of most of your direct
@@ -144,7 +143,8 @@ corresponding Google Sheet.
     Support Engineering team.
 
 #### Managing customer service outcomes (Weighting: 30%)
-{: .no_toc}
+
+
 
 - **Developing:**
   - You are just starting to build an understanding of service-related Support

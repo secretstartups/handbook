@@ -8,7 +8,7 @@ title: Environmental & Social Governance (ESG)
 
 The ESG Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## ESG Manager
+### ESG Manager
 
 The ESG Manager reports to the Senior Director, ESG, and is responsible for contributing to GitLab’s sustainability programs, policies, and initiatives.
 
@@ -24,7 +24,6 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 - Conduct benchmarking, follow trends, and provide best practices for ESG disclosures while identifying gaps and presenting solutions
 - Develop and maintain tools and mechanisms to evaluate, track and report on progress against company ESG goals
 
-
 ### ESG Manager Requirements
 
 - 3+ years’ experience in non-financial reporting, corporate social responsibility, ESG disciplines or sustainability
@@ -38,14 +37,13 @@ The ideal candidate has deep expertise in environment, social, and governance pr
 - Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration[), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
-
 ## Senior ESG Manager
 
 ### Senior ESG Manager Job Grade
 
 The Senior ESG Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Senior ESG Manager
+### Senior ESG Manager
 
 The Senior ESG Manager reports to the Senior Director, ESG, and is responsible for contributing to GitLab’s sustainability programs, policies, and initiatives. The Senior ESG Manager has deep expertise in environmental, social, and governance reporting, disclosures, and programs. This individual focuses on work across multiple teams and is a strategic leader within the organization.
 
@@ -80,17 +78,15 @@ The Senior ESG Manager reports to the Senior Director, ESG, and is responsible f
 - Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration[), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
-
 ## Senior Director, ESG
 
 ### Senior Director, ESG Job Grade
 
 The Senior Director, ESG is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Senior Director, ESG
+### Senior Director, ESG
 
 The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for creating, maintaining and reporting on GitLab’s Environmental & Social Governance (ESG), Corporate Social Responsibility (CSR) and sustainability policies and initiatives.
-
 
 ### Senior Director, ESG Responsibilities
 
@@ -106,7 +102,6 @@ The Senior Director, ESG reports to the [Chief Legal Officer, Head of Corporate 
 - Design an ESG program that is focused on impact and tangible, repeatable results that demonstrate return on investment
 - Embrace iteration to make program changes quickly based on feedback and lessons learned
 - Create the most transparent public company ESG program
-
 
 ### Senior Director, ESG Requirements
 
@@ -142,6 +137,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-
-

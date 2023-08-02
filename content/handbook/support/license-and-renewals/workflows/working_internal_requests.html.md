@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Handling L&R Internal Requests
 category: Working L&R requests
 description: Describes how to service internal requests for licensing & renewals.
@@ -14,7 +14,7 @@ description: Describes how to service internal requests for licensing & renewals
 
 Choose the best [L&R Workflows](/handbook/support/license-and-renewals/workflows/) when servicing L&R internal requests.
 
-**NOTE:** L&R Internal Requests can be found in the "L&R" View in Zendesk. 
+**NOTE:** L&R Internal Requests can be found in the "L&R" View in Zendesk.
 
 The L&R team works on licensing and subscription related internal requests that are filed by GitLab team members using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
 

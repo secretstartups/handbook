@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: BrowserStack
 category: Infrastructure for troubleshooting
 description: How to reproduce potential browser issues in other Operating Systems
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## BrowserStack
 

@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Working on a promotion
 category: Support Team
 description: Process for submitting a promotions request
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -44,18 +40,18 @@ the expected competencies for the role as laid out in:
 
 ## In-Progress Promotion Documents
 
-Collaboration on promotion documents encourages transparency in the promotion process. It can 
-motivate and inspire others to build and strengthen their promotion documents. Internally 
+Collaboration on promotion documents encourages transparency in the promotion process. It can
+motivate and inspire others to build and strengthen their promotion documents. Internally
 public promotion documents are part of GitLab's  
-[Promotion Philosophy](/handbook/people-group/promotions-transfers/#promotion-philosophy). 
-GitLab Support team members can link their internally 
+[Promotion Philosophy](/handbook/people-group/promotions-transfers/#promotion-philosophy).
+GitLab Support team members can link their internally
 public promotion documents in this section. Having a public in-progress promotion document is **optional**. If you are open to share your in-progress promotion document with the Support team you can use the Slack channel: #support_team-chat.
 
-If you want to list your document here, decide what level of publicity you are comfortable with. Set the appropriate access for the GitLab group in the document's _Share_ settings: You can keep it read-only (`Viewer`), allow others to comment and suggest edits (`Commenter`) – or fully open it to collaboration (`Editor`).
+If you want to list your document here, decide what level of publicity you are comfortable with. Set the appropriate access for the GitLab group in the document's *Share* settings: You can keep it read-only (`Viewer`), allow others to comment and suggest edits (`Commenter`) – or fully open it to collaboration (`Editor`).
 
 ### Promotion to Senior Support Engineer
 
 ### Promotion to Staff Support Engineer
 
- - [Brie Carranza](https://docs.google.com/document/d/14DbQH4VjbE47r9zefK0HPBKW_ZAfI8Sm_Kqdo_6Svbo/edit)
- - [Manuel Grabowski](https://docs.google.com/document/d/1hGH6ScWyJwVnR5tU-7xG7_WY_ykyyLuzHD-5TJzGme0/edit)
+- [Brie Carranza](https://docs.google.com/document/d/14DbQH4VjbE47r9zefK0HPBKW_ZAfI8Sm_Kqdo_6Svbo/edit)
+- [Manuel Grabowski](https://docs.google.com/document/d/1hGH6ScWyJwVnR5tU-7xG7_WY_ykyyLuzHD-5TJzGme0/edit)

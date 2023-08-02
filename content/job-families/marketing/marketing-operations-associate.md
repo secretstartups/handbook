@@ -38,6 +38,7 @@ You understand that setting a foundation for healthy growth in a fast-paced comp
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).”
+
 - Qualified candidates will be invited to schedule a 15 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 30 minute interview with future co-worker/s (Marketing Operations Manager)
 - A 30 minute interview with future manager (Director, Marketing Operations)

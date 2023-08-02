@@ -17,7 +17,6 @@ The Director of Compliance is a [Grade 10](https://about.gitlab.com/handbook/tot
 - Design and implement monitoring frameworks to identify, report and mitigate compliance risks; conduct periodic risk assessments and develop and implement a work plan to address risk
 - Build and retain a global compliance team and ensure appropriate and cooperative allocation of responsibilities
 
-
 ### Director of Compliance: Requirements
 
 - 8+ years of compliance experience, including program creation, implementation, and enablement
@@ -31,7 +30,6 @@ The Director of Compliance is a [Grade 10](https://about.gitlab.com/handbook/tot
 - An effective communicator with the ability to use “plain language”, escalate, coordinate, provide feedback, and ask for help
 - Strong operational mindset with ability to prioritize projects and demands
 - Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
-
 
 ## Performance Indicators
 

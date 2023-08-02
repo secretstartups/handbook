@@ -73,7 +73,6 @@ The Senior Product Designer is a [grade 7](https://about.gitlab.com/handbook/tot
 - [Identifying and organizing epics into executable Sprint plans](https://about.gitlab.com/handbook/marketing/digital-experience/#iteration-process)
 - [Successfully completing bi-weekly Sprint tasks](https://about.gitlab.com/handbook/marketing/digital-experience/#sprint-cycle)
 
-
 ## Career Ladder
 
 The next step in the Product Design (UX) - Marketing job family is not yet defined at GitLab.

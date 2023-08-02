@@ -4,7 +4,7 @@ title: "RubyMine"
 
 ## Overview
 
-Website: https://www.jetbrains.com/ruby/
+Website: <https://www.jetbrains.com/ruby/>
 
 Best for: editing Ruby or Rails applications, which can include Javascript/Typescript and most other
 web technologies.
@@ -58,7 +58,6 @@ To debug services run as background jobs, you will need to set up debugging for 
           - `ENABLE_BOOTSNAP`
           - `RAILS_ENV`
 
-
 ## Configuring GDK database connection
 
 First, follow the ["Access the database with a GUI"](https://docs.gitlab.com/ee/development/database/database_debugging.html#access-the-database-with-a-gui)
@@ -84,6 +83,7 @@ Then access the database:
 1. Expand to see tables/views/etc.
 
 If you want to add more schemas from `config/database.yml`:
+
 1. Go to `Database` tab
 1. Right click on top level of database, and view `Properties` (or the "wrench" button)
 1. Go to the `Schemas` tab

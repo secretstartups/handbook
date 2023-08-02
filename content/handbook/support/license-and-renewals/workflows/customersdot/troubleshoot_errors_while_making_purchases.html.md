@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Troubleshoot Errors While Making Purchases on CustomersDot
 category: CustomersDot
 description: Troubleshooting guide on errors on CustomersDot
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -29,13 +25,13 @@ Sentry for a relevant error and file an issue in the
 To find the error specifically related to a customer on sentry, try the following:
 
 1. Get customer ID from [CustomersDot](https://customers.gitlab.com/customers/sign_in):
-   - Log into https://customers.gitlab.com/admin
+   - Log into <https://customers.gitlab.com/admin>
    - Go to `Customers` search page by clicking on `Customers` on the left panel
    - Search for customer using one of the following: email, domain, or First/Last name (in case customer registered with a different email)
    - Click on one of the info, pencil, or person icon in the result
-   - Take the customer ID from the URL https://customers.gitlab.com/admin/customer/customerID/pagepath
+   - Take the customer ID from the URL <https://customers.gitlab.com/admin/customer/customerID/pagepath>
 1. Finding the error message for the customer in Sentry:
-   - Go to https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/
+   - Go to <https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/>
    - Use `user:customerID` (replace `customerID` with the actual customerID from CustomersDot)
    - Open sentry issue → Click on `EVENTS`
    - Use customer email to search for the relevant event
@@ -50,7 +46,7 @@ For purchase attempts made on CustomersDot, refer to the tips under [CustomersDo
 
 ### Getting error messages from GCP Logs Explorer
 
-Official Google Documentation for Logs Explorer is found at https://cloud.google.com/logging/docs/view/logs-explorer-interface.  It's helpful to review these docs to gain an understanding of building search queries for more advanced searching.
+Official Google Documentation for Logs Explorer is found at <https://cloud.google.com/logging/docs/view/logs-explorer-interface>.  It's helpful to review these docs to gain an understanding of building search queries for more advanced searching.
 
 Login to [GCP Logs Explorer dashboard](https://console.cloud.google.com/logs/query?project=gitlab-subscriptions-prod) (make sure you are viewing `gitlab-subscriptions-prod`).
 
@@ -90,7 +86,7 @@ The process here is much the same, but since we are investigating mail from Cust
 
 Note that [reseller customers will not have access to customers.gitlab.com](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1373) and subsequently, password reset emails will not be sent to them. Check whether the customer has access to customers.gitlab.com by navigating to the `Edit` page for the customer record (pen icon on right-side of customer record) and looking at the `Login activated` checkbox. If the checkbox is ticked, the customer has access; if the checkbox is not ticked, the customer will not have access and they will not receive password reset emails. Reseller customers should make their purchases via our Sales team.
 
-### Example of previous tickets:
+### Example of previous tickets
 
 1. Customer cannot purchase new subscription because of an expired subscription:
    - [ZenDesk 162279](https://gitlab.zendesk.com/agent/tickets/162279)

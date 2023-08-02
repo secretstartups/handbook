@@ -13,21 +13,21 @@ images:
 This page is about one of the four Guiding Principles of TeamOps: Shared Reality. To learn more about the other three principles, return to the main TeamOps page for a [complete overview of TeamOps](/teamops/), or enroll in the free [TeamOps Course](https://levelup.gitlab.com/learn/course/teamops).
 {{% /alert %}}
 
-_While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval** in company-wide documentation._
+*While other management philosophies prioritize the speed of knowledge **transfer**, TeamOps optimizes for the speed of knowledge **retrieval** in company-wide documentation.*
 
 All teamwork must be based on and informed by an objective — and shared — reality. A collective team member experience that your team shares to develop trust, direct contributions, motivate productivity and empowers new team members to quickly ramp up in their roles. Typically, this shared reality is composed of three elements:
-- _Information_ - All team members should be able to autonomously consume the information and resources that enable productivity in their role.
-- _Objectives_ - Ironically, the day-to-day of your shared reality is usually defined by what you are trying to bring to reality – a result that you’re collaborating to develop.
-- _Values_ - Team member experience is influenced by more than company operations, it’s most directly manifested as team behaviors which can be observed, recorded, and quantified.
+
+- *Information* - All team members should be able to autonomously consume the information and resources that enable productivity in their role.
+- *Objectives* - Ironically, the day-to-day of your shared reality is usually defined by what you are trying to bring to reality – a result that you’re collaborating to develop.
+- *Values* - Team member experience is influenced by more than company operations, it’s most directly manifested as team behaviors which can be observed, recorded, and quantified.
 
 Once defined and activated, this reality then is preserved for continuous and universal access and accountability through documentation in a knowledge management system, or “single source of truth.”
 
 Action tenets of building a Shared Reality, including real-world examples of each, are below.
 
-
 ## Single Source of Truth (SSoT)
 
-To maximize universal information accessibility, TeamOps intentionally structures all information (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](/handbook/values/#single-source-of-truth). The concept of the SSoT is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) when there is no such thing as a "latest version." There is only _the_ version.
+To maximize universal information accessibility, TeamOps intentionally structures all information (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](/handbook/values/#single-source-of-truth). The concept of the SSoT is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) when there is no such thing as a "latest version." There is only *the* version.
 
 Teams and functions may choose different mediums as the SSoT depending on the nature of their work. TeamOps allows for this type of SSoT flexibility, but requires that those who dictate the SSoT share that information transparently and [crosslink](https://about.gitlab.com/handbook/communication/#cross-link) where appropriate.
 
@@ -59,10 +59,9 @@ Shortly after GitLab Chief Revenue Officer Michael McBride joined the company in
 In a conventional organization, this interaction would likely be private and not recorded. By recording it and streaming it to the public on a branded YouTube channel, everyone is more informed — the two individuals on the call; GitLab team members past, present, and future; the wider community; customers and partners; candidates; et al.
 {{% /details %}}
 
-
 ## Collaboration guidelines
 
-Many organizations are so focused on finalizing a decision that they neglect the critical precursor to a successful agreement: setting standards for _**how**_ that decision will be made. TeamOps stresses intentionally designing, building, and reinforcing shared workstreams and collaboration environments through which decisions and projects flow. This helps align expectations, reinforce the [shared reality](/teamops/shared-reality/#shared-reality), and minimize unexpected barriers to success.
+Many organizations are so focused on finalizing a decision that they neglect the critical precursor to a successful agreement: setting standards for ***how*** that decision will be made. TeamOps stresses intentionally designing, building, and reinforcing shared workstreams and collaboration environments through which decisions and projects flow. This helps align expectations, reinforce the [shared reality](/teamops/shared-reality/#shared-reality), and minimize unexpected barriers to success.
 
 When shared realities are based on effectively and efficiently sharing information, it means that communication practices need to be as aligned as possible. [Collaboration guidelines](/handbook/communication/) are the articulation and documentation of the cultural norms, software standards, and behavioral expectations that help standardize team member experience within an organization. These include details such as how company values are visible in workstreams, etiquette for various communication channels, organizational rituals, and guidelines for tool use. Codifying expectations facilitates more effective and universal collaboration, and helps ensure that miscommunication doesn't stall a decision or result.
 
@@ -92,7 +91,6 @@ GitLab [reinforces its values in 20+ ways](/handbook/values/#how-do-we-reinforce
 Starting communication and collaboration with an external team (be it prospective clients, vendors, partners, etc.) who are not familiar with GitLab's TeamOps culture may be daunting. Every organization has their own culture. We want to empower our team members to foster communication and education to build an understood shared reality. We start with [three main points](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company) to support this conversation.
 {{% /details %}}
 
-
 ## Inclusivity
 
 TeamOps encourages and supports a culture of respect.
@@ -111,7 +109,6 @@ Samantha L., a leader in GitLab's Learning & Development team, hosted [Crucial C
 
 Additionally, she posted a Slack message in the public `#values` channel asking for feedback and suggestions from anyone who felt compelled to contribute. Ultimately, [the DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) of the impacted handbook page — [GitLab Values](/handbook/values/) — came to a decision that was more informed, as it included a more diverse range of perspectives. The feedback is also well-documented for future reference and iterations.
 {{% /details %}}
-
 
 ## Informal communication
 

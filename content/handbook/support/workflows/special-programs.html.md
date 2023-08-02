@@ -1,23 +1,14 @@
 ---
-layout: handbook-page-toc
 title: "Supporting GitLab Community Programs"
 category: License and subscription
 description: Instructions for redirecting community programs subscription inquiries
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Overview
-
 GitLab offers several programs to help introduce GitLab's most powerful features to communities who may not otherwise have the means to access them. These include:
 
-* [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/)
-* [GitLab for Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/)
-* [GitLab for Startups](/handbook/marketing/developer-relations/community-programs/startups-program/)
+- [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/)
+- [GitLab for Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/)
+- [GitLab for Startups](/handbook/marketing/developer-relations/community-programs/startups-program/)
 
 GitLab does not offer non-profit discounts or programs; however, users can apply to these community programs to receive Ultimate benefits if they meet the requirements. [The Community Programs team](/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
 
@@ -47,7 +38,6 @@ When a customer seeks to apply or renew an existing subscription, send the [`Gen
 While redeeming a community program coupon customers may select the wrong product type by accident (SaaS instead of Self-Managed, or vice-versa).
 
 In this case, please direct customers to contact the appropriate inbox under the ['Program-specific contact inboxes' section](#program-specific-contact-inboxes)
-
 
 #### Example Tickets
 
@@ -79,11 +69,9 @@ While applying, customers are asked to provide their desired seat count - during
 
 For enquiries relating to specific programs (that aren't otherwise handled by the workflows above), please direct customers to contact:
 
-
  1. EDU: `education@gitlab.com`
- 2. OSS: `opensource@gitlab.com`
- 3. Startups: `startups@gitlab.com`
-
+ 1. OSS: `opensource@gitlab.com`
+ 1. Startups: `startups@gitlab.com`
 
 ## Troubleshooting
 

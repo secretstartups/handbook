@@ -15,7 +15,6 @@ As the Director, Developer Relations, you will be responsible for managing and b
 
 The Director, Developer Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 ### Responsibilities
 
 1. Grow the number of evangelists that regularly give talks, write blog posts, and organize meetups about GitLab and concurrent DevOps.
@@ -34,7 +33,7 @@ The Director, Developer Relations is a [grade 10](https://about.gitlab.com/handb
 
 ### Requirements
 
-- You are obsessed with making developers happy. You were a full-time developer in a previous life (_or you’ve been through bootcamps and know how to program and code with the best of ‘em!_), but you prefer to work with the developer community to improve experience and support through education.
+- You are obsessed with making developers happy. You were a full-time developer in a previous life (*or you’ve been through bootcamps and know how to program and code with the best of ‘em!*), but you prefer to work with the developer community to improve experience and support through education.
 - You have directly managed a team before, perhaps as a manager, senior manager or director. You have built a team before and can’t wait to do it again!
 - You have 5+ years of experience leading developer relations or community advocacy programs, preferably open source in nature.
 - You are analytical and data driven in your approach to building and nurturing communities.

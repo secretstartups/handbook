@@ -30,7 +30,6 @@ The Associate Learner Engagement Specialist is a [grade 5](https://about.gitlab.
 - Track and monitor LinkedIn Learning usage, data, metrics, and reporting
 - Iteratively document tasks, workflows, and processes in the GitLab handbook, focusing on the inclusion of high quality video to supplement text-based contributions
 
-
 #### Associate Learner Engagement Specialist Requirements
 
 - Strong copywriting skills with experience in building effective communications campaigns
@@ -49,7 +48,6 @@ The Associate Learner Engagement Specialist is a [grade 5](https://about.gitlab.
 - 1-2 years related work experience (or equivalent combination of transferable experience and education)
 - Ability to learn new systems quickly, and preferably have experience using GitLab, Zendesk, Discourse, EdCast, or any learning management or learning experience platforms
 
-
 ### Intermediate Learner Engagement Specialist
 
 The Intermediate Learner Engagement Specialist reports into the [Learning & Development Partner](/job-families/people-group/learning-development/#learning-and-development-partner).
@@ -67,7 +65,6 @@ The Intermediate Learner Engagement Specialist is a [grade 6](https://about.gitl
 - Manage the sourcing and identification of learning experience platform or learning management system of internal team members
 - Collaborate with enablement and learning stakeholders across the organization to ensure that the learning systems align with organizational goals and use cases.
 - Partner with talent engagement internal communications to create communication vehicles and forums for L&D programs
-
 
 #### Intermediate Learner Engagement Specialist Requirements
 
@@ -105,7 +102,6 @@ The Senior Learner Engagement Specialist is a [grade 7](https://about.gitlab.com
 - [Engagement Survey Growth and Development Score](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
 - [Exit Survey Data < 5 % of team members exiting GitLab related to L&D](https://about.gitlab.com/handbook/people-group/learning-and-development/#performance-indicators)
 - Engagement metrics for LinkedIn Learning & GitLab Learn
-
 
 ## Career Ladder
 

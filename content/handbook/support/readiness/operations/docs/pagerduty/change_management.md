@@ -44,7 +44,7 @@ backspace key, as it will completely remove the dropdown itself).
 After doing so, you need to use either Pagerduty or the previous quarter's
 values to determine the values for all the blank dropdowns. Your aim is to show
 what the various schedules will look like for the next quarter
-_without any changes_.
+*without any changes*.
 
 After that is done, highlight the previous quarters cells, right click, and
 hover over `Delete cells`, and click on `Delete cells and shift up`.
@@ -70,8 +70,8 @@ Doing so will bring up a modal displaying our custom protections.
 
 For unlocking it, you need to ensure the following boxes are checked:
 
-- Kate Grechishkina khrechyshkina@gitlab.com
-- support-managers support-managers@gitlab.com
+- Kate Grechishkina <khrechyshkina@gitlab.com>
+- support-managers <support-managers@gitlab.com>
 
 After checking the boxes by those entries, click the green `Done` button.
 
@@ -88,7 +88,7 @@ On your issue, ping managers with the following message:
 
 > Greetings @gitlab-com/support/managers !
 >
-> We are now opening the \[Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing) for edits for the next quarter!
+> We are now opening the \[Support Pagerduty Worksheet](<https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing>) for edits for the next quarter!
 >
 > Please review the spreadsheet and add any edits you wish to see occur for next quarter. The due date for this is YYYY-MM-01
 
@@ -111,8 +111,8 @@ Doing so will bring up a modal displaying our custom protections.
 
 For locking it, you need to ensure the following boxes are not checked:
 
-- Kate Grechishkina khrechyshkina@gitlab.com
-- support-managers support-managers@gitlab.com
+- Kate Grechishkina <khrechyshkina@gitlab.com>
+- support-managers <support-managers@gitlab.com>
 
 After un-checking the boxes by those entries, click the green `Done` button.
 
@@ -207,7 +207,7 @@ will first make a comment to ping the managers
 
 > Greetings @gitlab-com/support/managers !
 >
-> We have now implemented the changes requested from the \[Support Pagerduty Worksheet](https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing) into Pagerduty.
+> We have now implemented the changes requested from the \[Support Pagerduty Worksheet](<https://docs.google.com/spreadsheets/d/1FdUzVXCZleopfteC2QxW7LJwyylGWGl9hwXHMPkRHbQ/edit?usp=sharing>) into Pagerduty.
 >
 > Please help communicate this to your reports and remind them to check the schedules for their oncall periods next quarter.
 

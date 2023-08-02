@@ -51,7 +51,7 @@ The People Group Junior Fullstack Engineer is [grade 5](https://about.gitlab.com
 - Ability to thrive in a fully remote organization.
 - Ability to use GitLab.
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Experience working with modern Frontend frameworks (eg. React, Vue.js, Angular).
 - Experience with People systems such as Workday, Greenhouse, and BambooHR.
@@ -86,7 +86,7 @@ The People Group Fullstack Engineer is [grade 6](https://about.gitlab.com/handbo
 - Professional experience with JavaScript and associated web technologies (CSS, semantic HTML).
 - Experience working with modern Frontend frameworks (eg. React, Vue.js, Angular).
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Extends that of a People Group Junior Fullstack Engineer.
 - Experience in a peak performance organization, preferably a tech startup.
@@ -119,7 +119,7 @@ The Senior People Group Fullstack Engineer is [grade 7](https://about.gitlab.com
 - Mastery experience with JavaScript and associated web technologies (CSS, semantic HTML).
 - Experience working with modern Frontend frameworks (eg. React, Vue.js, Angular).
 
-### Nice-to-haves
+#### Nice-to-haves
 
 - Extends that of a People Group  Fullstack Engineer.
 
@@ -131,9 +131,9 @@ The Staff People Group Fullstack Engineer reports to Director, People Tools & Te
 
 The Staff People Group Fullstack Engineer is [Job Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff People Group Fullstack Engineer Responsibilities:
+#### Staff People Group Fullstack Engineer Responsibilities
 
-WIP (and pulling inspiration from: https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/backend-engineer/index.html.md#staff-backend-engineer)
+WIP (and pulling inspiration from: <https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/job-families/engineering/backend-engineer/index.html.md#staff-backend-engineer>)
 
 ## Performance Indicators
 

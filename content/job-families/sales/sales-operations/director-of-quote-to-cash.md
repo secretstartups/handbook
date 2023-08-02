@@ -38,20 +38,20 @@ The Senior Manager, Quote to Cash is a [grade 9](https://about.gitlab.com/handbo
 - Ability to use GitLab
 - Aligns with GitLab [Values](/handbook/values/
 
-## Performance Indicators
+#### Performance Indicators
 
-- As with all roles in the Sales Department the Senior Manager, Quote to Cash participates in the Sales KPIs https://about.gitlab.com/company/kpis/#sales-kpis
+- As with all roles in the Sales Department the Senior Manager, Quote to Cash participates in the Sales KPIs <https://about.gitlab.com/company/kpis/#sales-kpis>
 - Overall Quote to Cash Performance Indicators across multiple departments
 - -Deal Desk SLAs
-    - Billing SLAs
-    - Licensing performance indicators (success rate, delivery time)
-    - Customer support tickets related to licensing/purchasing
+  - Billing SLAs
+  - Licensing performance indicators (success rate, delivery time)
+  - Customer support tickets related to licensing/purchasing
 - Internal customer & Buyer satisfaction
-    - Field sales Satisfaction
-    - Efficiency in resolving issues
-    - Transparency in addressing ongoing problems, SLAs, and field expectations
+  - Field sales Satisfaction
+  - Efficiency in resolving issues
+  - Transparency in addressing ongoing problems, SLAs, and field expectations
 
-## Career Ladder
+#### Career Ladder
 
 The next step for the Senior Manager, Quote to Cash is the Director, Quote to Cash.
 
@@ -71,9 +71,9 @@ In addition to the responsibilities of the Senior Manager, Quote to Cash below, 
 - Serve as lead of Buyer Experience Group
 - Partner with Senior leadership to define the future state of Quote to Cash
 - Own the creation and iteration of:
-    - Current state process workflow documentation
-    - GitLab’s holistic Quote to Cash roadmap including current and future toolsets
-    - Milestone-based roadmap of releases to the field
+  - Current state process workflow documentation
+  - GitLab’s holistic Quote to Cash roadmap including current and future toolsets
+  - Milestone-based roadmap of releases to the field
 - Define and document best in class Q2C processes to support our internal and external customers
 - Serve in an advisory role to the Deal Desk & Sales Operations teams across GitLab
 - Partner with our enablement team to ramp our sales team on new and existing processes related to Quote to Cash
@@ -98,9 +98,9 @@ In addition to the responsibilities of the Senior Manager, Quote to Cash below, 
 - Ability to use GitLab
 - Aligns with GitLab [Values](/handbook/values/
 
-## Performance Indicators
+#### Performance Indicators
 
-- As with all roles in the Sales Department the Director, Quote to Cash participates in the Sales KPIs https://about.gitlab.com/company/kpis/#sales-kpis
+- As with all roles in the Sales Department the Director, Quote to Cash participates in the Sales KPIs <https://about.gitlab.com/company/kpis/#sales-kpis>
 - Overall Quote to Cash Performance Indicators across multiple departments
 - -Deal Desk SLAs
 - -Billing SLAs
@@ -111,7 +111,7 @@ In addition to the responsibilities of the Senior Manager, Quote to Cash below, 
 - -Efficiency in resolving issues
 - -Transparency in addressing ongoing problems, SLAs, and field expectations
 
-## Career Ladder
+#### Career Ladder
 
 The next steps for the Director, Quote to Cash job family has not yet been defined.
 

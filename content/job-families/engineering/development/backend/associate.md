@@ -76,7 +76,6 @@ as well as some level of understanding of Ruby and Ruby on Rails.
 - [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
 - [Backend Engineering Manager](https://about.gitlab.com/job-families/engineering/backend-engineer/#backend-engineering-manager)
 
-
 Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
 
 ## Job Grade

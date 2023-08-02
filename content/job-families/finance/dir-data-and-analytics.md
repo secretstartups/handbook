@@ -4,12 +4,9 @@ title: "Data and Insights Executive"
 
 The Data, Analytics and Data Science job family is an executive Job Family that is responsible for providing data driven insights, data science products to the business to improve decision making and drive business results. The executive leads a centralized analytics and data science function that works on cross-functional initiatives such as top 12 initiatives or Go-to-market problems that can be solved with data science. The initial focus of this team will be solely on Go-to-market problems and the intersection between product and go-to-market.
 
-
-
 ## Data and Insights Executive
 
 The Data, Analytics and Data Science job family is an executive Job Family that is responsible for providing data driven insights, data science products to the business to improve decision making and drive business results. The executive leads a centralized analytics and data science function that works on cross-functional initiatives such as top 12 initiatives or Go-to-market problems that can be solved with data science. The initial focus of this team will be solely on Go-to-market problems and the intersection between product and go-to-market.
-
 
 ## Director, Data and Insights
 
@@ -65,7 +62,6 @@ The Senior Director, Data and Insights is a [grade 11](https://about.gitlab.com/
 - **Contribute**: Be customer zero for our product teams as they design the MLOps and Product Analytics product areas. Discover data gaps and provide requirements to the Data team and to product management for the proper logging and data repositories.
 - **Values**: Be a culture definer and evolver of GitLab Values.
 
-
 ### Requirements
 
 - Leadership: Experience leading data science and analytics team with a track record of delivering measurable business results with your team’s insights and data products
@@ -101,7 +97,6 @@ The VP, Data and Insights is a [grade 12](https://about.gitlab.com/handbook/tota
 - Extends Sr Director Data and Insights requirements
 - Experience driving company wide changes to company operations and analytics strategy.
 
-
 ## Performance Indicators (PI)
 
 - TBD
@@ -109,6 +104,7 @@ The VP, Data and Insights is a [grade 12](https://about.gitlab.com/handbook/tota
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
+
 1. Selected candidates will be invited to schedule a screening call with our Global Recruiters
 1. Next, candidates will be invited to schedule a first interview with our VP, Finance and Business Technology
 1. Candidates will then be invited to schedule a second round of interviews with members of the e-group, finance, data and sales strategy teams.
@@ -117,4 +113,3 @@ Additional details about our process can be found on our hiring page.
 ### Career Ladder
 
 The next step is not defined.
-

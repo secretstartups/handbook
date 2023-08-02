@@ -337,7 +337,6 @@ Focus on security protection features for GitLab (including policy, vulnerabilit
 - Develop security components from proposal to polished end result.
 - Integrating 3rd party security tools into production environments deployed by GitLab.
 
-
 ### Secure
 
 Focus on security features for GitLab. This role will specifically focus on security; if you want to work with Ruby on Rails and not security, please apply to our Backend Engineer role instead. This role will report to and collaborate directly with the Secure Engineering Manager.
@@ -461,7 +460,6 @@ making the GitLab project maintainable in the long-term.
 - Increase efficiency for wider GitLab Community contributions
 - Enhance and add new features to the GitLab product to improve engineer productivity
 
-
 #### Requirements
 
 - Experience developing in Ruby (this is a strict requirement).
@@ -517,11 +515,13 @@ The Application Performance team works to improve availability, reliability, and
 #### Requirements
 
 An ideal engineer candidate -
+
 - Expert of Ruby on Rails.
 - Experience of performance tuning and/or architecture, [Example](https://rubykaigi.org/2018/presentations/tenderlove.html).
 - Experience of memory leak troubleshooting, [Example 1](http://www.be9.io/2015/09/21/memory-leak/), [Example 2](https://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby).
 
 Alternatively, some of the following qualifications, may not necessarily be all -
+
 1. **Must** be proficient in one or more of the following in preference order
 1. Ruby.
 1. Go.
@@ -576,7 +576,7 @@ Gitaly's high-availability storage requires developers who understand distribute
 - Conduct acceptance testing of the features you’ve built.
 - Educate all team members on best practices relating to high availability.
 
-#### Requirements:
+#### Requirements
 
 - Mandatory: proven [professional experience](#professional-experience) building, debugging, optimising software in large-scale, high-volume environments.
 - Mandatory: proven [professional experience](#professional-experience) writing and testing high-quality code.
@@ -603,7 +603,7 @@ Gitaly uses the open-source Git product under the hood to implement the business
 - Conduct acceptance testing of the features you’ve built and integrated.
 - Be a good citizen of the open-source community.
 
-#### Requirements:
+#### Requirements
 
 - Mandatory: a good understanding of building instrumented, observable software systems.
 - Mandatory: a good understanding of git’s code and data structures or experience running git servers.

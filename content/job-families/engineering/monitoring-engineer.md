@@ -27,7 +27,6 @@ title: "Monitoring Engineer"
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-
 - Qualified candidates receive a short questionnaire from our Global Recruiters
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Prometheus Lead
@@ -36,6 +35,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will be invited to schedule a third interview with our VP of Engineering
 - Finally, candidates will interview with our CEO
 - Successful candidates will subsequently be made an offer via email
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -18,16 +18,16 @@ As a member of the IT Security Operations team at GitLab, you will be working to
 ## Requirements for IT Security Engineer roles
 
 - Technical Skills in three or more of the following:
-    - Endpoint detection and response (EDR) platforms
-    - Device management/asset inventory tools
-    - Securing Mac and Linux devices
-    - Email security
-    - Identity and access management
-    - Authentication technologies such as OAuth, SAML, CAs and TOTP, SSO
-    - Securing public Cloud environments (AWS, Azure, GCP)
-    - Vulnerability detection and remediation
-    - Security incident response
-    - Metric collection and dashboard creation
+  - Endpoint detection and response (EDR) platforms
+  - Device management/asset inventory tools
+  - Securing Mac and Linux devices
+  - Email security
+  - Identity and access management
+  - Authentication technologies such as OAuth, SAML, CAs and TOTP, SSO
+  - Securing public Cloud environments (AWS, Azure, GCP)
+  - Vulnerability detection and remediation
+  - Security incident response
+  - Metric collection and dashboard creation
 - Automation & scripting experience using REST APIs
 - You have a passion for security
 - You are a team player, and enjoy collaborating with cross-functional teams
@@ -66,6 +66,7 @@ The Senior Security Engineer is a [grade 7](https://about.gitlab.com/handbook/to
 #### Senior Security Engineer Responsibilities
 
 The Senior Security Engineer role extends the IT Security Engineer (Intermediate) role.
+
 - Leverages security expertise in at least one specialty area
 - Triages and handles/escalates security issues independently
 - Conduct security architecture reviews and makes recommendations
@@ -87,6 +88,7 @@ The Staff Security Engineer is a [grade 8](https://about.gitlab.com/handbook/tot
 #### Staff Security Responsibilities
 
 The Senior Security Engineer role extends the Senior Security Engineer role.
+
 - Recognized security expert in multiple specialty areas, with cross-functional team experience
 - Make security architecture decisions
 - Provide actionable and constructive feedback to cross-functional teams

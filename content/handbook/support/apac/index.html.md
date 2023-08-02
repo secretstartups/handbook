@@ -1,16 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: Support Team APAC
 description: Support Team APAC home page
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Welcome to Support Team APAC's Handbook page!
+## Welcome to Support Team APAC's Handbook page
 
 This page documents items specific to Support Team APAC which we have not yet
 found a home for in the wider Support Team Handbook.
@@ -33,17 +27,17 @@ of the GitLab Support On-Call Guide Handbook page.
 
 ### Support Team APAC is One Team
 
-* APAC Support Readiness department members are part of Support Team APAC too.
-* Avoid calling individual manager's direct reports group "my team" or "your team".
+- APAC Support Readiness department members are part of Support Team APAC too.
+- Avoid calling individual manager's direct reports group "my team" or "your team".
 
 ### Support engineers should be able to work across all GitLab product platforms
 
-* Support engineers should be willing and able to work on problems for all
+- Support engineers should be willing and able to work on problems for all
   platforms supported by GitLab: SaaS, Dedicated and Self-Managed.
 
 ### Support engineers should spend time on work other than L&R work
 
-* ???
+- ???
 
 ## Operating metrics and measurements
 
@@ -61,7 +55,6 @@ To set clear expectations of when a support engineer's ticket productivity is
 so low that they are no longer performing the basic responsibilities of the
 role.
 
-{::options parse_block_html="true" /}
 <div class="panel panel-warning">
 **Warning**
 {: .panel-heading}
@@ -84,16 +77,16 @@ weekly cadence.
 The measurement itself should be updated on a quarterly cadence, at the start of
 each financial quarter.
 
-{::options parse_block_html="true" /}
 <details>
   <summary markdown="span">Historical data</summary>
 
-  * FY23-Q1: 5
-  * FY23-Q2: 5
-  * FY23-Q3: 5
-  * FY23-Q4: 5
-  * FY24-Q1: 6
-  * FY24-Q2: 7
+- FY23-Q1: 5
+- FY23-Q2: 5
+- FY23-Q3: 5
+- FY23-Q4: 5
+- FY24-Q1: 6
+- FY24-Q2: 7
+
 </details>
 
 <details>
@@ -101,10 +94,11 @@ each financial quarter.
 
   The following considerations were made while designing this measurement:
 
-  * It should include both direct contributions and collaborative work on tickets.
-  * It should be easy to remember and keep track of.
-  * It should be naturally achieved in the normal course of work and not require
+- It should include both direct contributions and collaborative work on tickets.
+- It should be easy to remember and keep track of.
+- It should be naturally achieved in the normal course of work and not require
     special effort or focus.
+
 </details>
 
 <details>
@@ -120,28 +114,28 @@ each financial quarter.
   Use the following settings:
 
   1. Metrics:
-     * D_COUNT(Tickets updated)
-     * D_COUNT(Tickets updated w/comment)
-  2. Rows:
-     * Updater name
-     * Updater region (optional, used to verify that data from outside of APAC is not present)
-     * Update - Year
-     * Update - Week of Year
-  3. Filters:
-     * Ticket form - Excluded:
-       * L&R (This is excluded because weekly L&R productivity numbers can get very high. Setting a standard derived from this number is unfair to support engineers who do not regularly do L&R.)
-     * Updater tags - Selected:
-       * `jane_gianoutsos`
-       * `ket_slaats`
-       * `wei-meng_lee`
-     * Comment type - Selected:
-       * Internal
-       * Public
-  4. Visualization type: Table
-  5. Result manipulation
-     * Result path calculation - D_COUNT(Tickets updated)
-       * Pattern: Percentile
-       * Path: On rows
+     - D_COUNT(Tickets updated)
+     - D_COUNT(Tickets updated w/comment)
+  1. Rows:
+     - Updater name
+     - Updater region (optional, used to verify that data from outside of APAC is not present)
+     - Update - Year
+     - Update - Week of Year
+  1. Filters:
+     - Ticket form - Excluded:
+       - L&R (This is excluded because weekly L&R productivity numbers can get very high. Setting a standard derived from this number is unfair to support engineers who do not regularly do L&R.)
+     - Updater tags - Selected:
+       - `jane_gianoutsos`
+       - `ket_slaats`
+       - `wei-meng_lee`
+     - Comment type - Selected:
+       - Internal
+       - Public
+  1. Visualization type: Table
+  1. Result manipulation
+     - Result path calculation - D_COUNT(Tickets updated)
+       - Pattern: Percentile
+       - Path: On rows
 
   **Getting the measurement from the Zendesk Explore report**
 
@@ -158,6 +152,7 @@ each financial quarter.
   1. Sort the `Tickets updated` column.
   1. Look for the first entry above 15%.
   1. The cliff number will be the value of `Ticket updated w/comment` in that row.
+
 </details>
 
 <details>
@@ -173,29 +168,29 @@ each financial quarter.
   Use the following settings:
 
   1. Metrics:
-     * D_COUNT(Tickets updated)
-  2. Columns:
-     * Update - Year
-     * Update - Week of year
-       * Filter > Edit date ranges > Advanced:
-         * From the beginning of: 4 weeks in the past.
-         * To the end of: 1 weeks in the past.
-  3. Rows:
-     * Updater tags
-       * Filter - Selected:
-         * `jane_gianoutsos`
-         * `ket_slaats`
-         * `wei-meng_lee`
-     * Updater name
-  4. Filters:
-     * Comment type - Selected:
-       * Internal
-       * Public
-  5. Visualization type: Table
-  6. Chart configuration > Display format:
-     * D_COUNT(Tickets updated) > Advanced:
+     - D_COUNT(Tickets updated)
+  1. Columns:
+     - Update - Year
+     - Update - Week of year
+       - Filter > Edit date ranges > Advanced:
+         - From the beginning of: 4 weeks in the past.
+         - To the end of: 1 weeks in the past.
+  1. Rows:
+     - Updater tags
+       - Filter - Selected:
+         - `jane_gianoutsos`
+         - `ket_slaats`
+         - `wei-meng_lee`
+     - Updater name
+  1. Filters:
+     - Comment type - Selected:
+       - Internal
+       - Public
+  1. Visualization type: Table
+  1. Chart configuration > Display format:
+     - D_COUNT(Tickets updated) > Advanced:
 
-       ```
+       ```zendesk
        IF (D_COUNT(Tickets updated) >= 7) THEN
        {
            "backgroundColor": "",
@@ -219,8 +214,8 @@ each financial quarter.
        }
        ENDIF
        ```
+
 </details>
-{::options parse_block_html="false" /}
 
 ## FY24-Q1 Motto: Solve tickets faster
 
@@ -234,11 +229,11 @@ engineers who have a Focus `name: License and Renewals` listed in their [Support
 
 Example Support Team Bot post:
 
-> _Support Team Bot
-Morning APAC @name1 @name2 @name3 @name4 @name5 @name6 @name7. Today we have:  7 working, 1 on PTO:_
+> *Support Team Bot
+Morning APAC @name1 @name2 @name3 @name4 @name5 @name6 @name7. Today we have:  7 working, 1 on PTO:*
 >
-> _The following people have scheduled PTO:_
-> _* Wednesday: @name8_
+> *The following people have scheduled PTO:*
+> ** Wednesday: @name8*
 
 Support engineers update this post's thread daily to share with each other when
 they are covering the queue, so that team members are confident that there are eyes
@@ -260,9 +255,7 @@ We are mindful of [holidays](https://about.gitlab.com/handbook/support/support-t
 | Monarch's Birthday                      | 2nd Monday in June | Australia (except QLD)     |                                                                                                                                            |
 | Independence Day                        | 12th June          | Philippines                | Be aware that this can coincide with Australia's observation of Monarch's Birthday when June 12 is a Monday.                               |
 
-
 To refer to past planning issues, see issues linked to the [[APAC] Holiday Coverage Planning Issues epic](https://gitlab.com/groups/gitlab-com/support/-/epics/252).
-
 
 ## Regular Sync Sessions
 
@@ -303,5 +296,4 @@ To refer to past planning issues, see issues linked to the [[APAC] Holiday Cover
   </tbody>
 </table>
 
-
-* ???
+- ???

@@ -12,7 +12,6 @@ description: Creative Operations helps organize and evolve our brand creative pr
 - Manages vendor relationships and budgets
 - Ensures all projects are setup for success and completed efficiently
 
-
 ### Requirements
 
 - Collaborate with team members and partners to ensure success
@@ -29,7 +28,6 @@ description: Creative Operations helps organize and evolve our brand creative pr
 ### Senior Creative Operations Manager
 
 The Senior Creative Operations Manager reports to the Director, Brand.
-
 
 #### Job Grade
 
@@ -49,7 +47,6 @@ The Senior Creative Operations Manager is a [grade 7](https://about.gitlab.com/h
 - Establish and document processes and procedures and help centralize resources and assets for ease of access
 - Contribute to the planning of team events and culture-building opportunities
 
-
 #### Requirements
 
 - Well-versed on the current trends in branding, creative, social and communications and can formulate plans that lead to the successful creation of brand experiences
@@ -62,14 +59,12 @@ The Senior Creative Operations Manager is a [grade 7](https://about.gitlab.com/h
 - A genuine passion for brand creative and creative operations; track record instilling operational excellence for a creative team
 - A strong creative eye and the ability to be a brand steward
 
-
 #### Performance Indicators
 
 - Ensures successful completion and review of design requests
 - Reduces the turnaround time for the project intake and tiraging process of design requests
 - Scales the design team quickly with vendors/contractors during high workload volume time periods
 - Increases the effectivenss of our creative design process
-
 
 ## Career Ladder
 

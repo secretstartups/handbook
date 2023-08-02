@@ -5,7 +5,6 @@ description: "This role supports cross-division initaitives across PM, UX and ot
 
 Driving operational efficiency for the Product Division. The Program Manager, Product is responsible for supporting cross-division initiatives across Product Management and User Experience along with supporting initiatives cross functionally across all of R&D.
 
-
 ## Responsibilities
 
 - Manage and collaborate on key initiatives with stakeholders and leadership across R&D. Drive accountability ensuring all program objectives are met.
@@ -19,7 +18,6 @@ Driving operational efficiency for the Product Division. The Program Manager, Pr
 - Prioritize effectively and multitask efficiently
 - Proven track record of successful collaboration with internal and external partners
 - Strong communication, presentation, and documentation skills
-
 
 ## Levels
 
@@ -105,7 +103,6 @@ All requirements of previous roles plus:
 
 Division Wide Operational Efficency
 On-time delivery of programs within the Product Division
-
 
 ## Hiring Process
 

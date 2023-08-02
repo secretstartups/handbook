@@ -174,7 +174,7 @@ The Professional Services Engagement Manager Job Family would move into the [Pro
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting Team Member
-2. Video Interview with the Hiring Manager
-3. Professional Services pre-sales scoping presentation interview session with 1-4 Team Members
+1. Video Interview with the Hiring Manager
+1. Professional Services pre-sales scoping presentation interview session with 1-4 Team Members
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

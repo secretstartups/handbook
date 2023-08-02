@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Home Page for Support's Ginkgo Group
 description: Home Page for Support's Ginkgo Group
 ---
@@ -7,15 +7,7 @@ description: Home Page for Support's Ginkgo Group
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
-# Welcome to the home page of the Ginkgo group
-
 ![a triumphant tanuki holding bread over its head under a ginkgo tree](/handbook/support/support-global-groups/groups/ginkgo/sgg_ginkgo.png)
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Ginkgo resources
 
@@ -30,7 +22,8 @@ description: Home Page for Support's Ginkgo Group
 It's encouraged to post a meaningful status update at the start of your work day as a reply to the Support Team Bot message. Doing ticket work is the assumed default, so any mention of it should be specific and deliberate.
 
 A meaningful status update covers:
-- Anything that stands out (unusual tickets, complex Docs MRs, specific Training modules, etc.) – let others know what you plan on doing _other than_ ticket work that day
+
+- Anything that stands out (unusual tickets, complex Docs MRs, specific Training modules, etc.) – let others know what you plan on doing *other than* ticket work that day
 - Blockers: Think of anything that may pull you away from following through with your plans for the day
 
 The status update is meant to promote collaboration. Letting others know what you'll be doing gives them an opportunity to reach out. If you're having a hard time with something, this is a great opportunity to let others know early so they can offer help.
@@ -51,7 +44,7 @@ Aim to grab a ticket from the FRT stage and become the DRI for that ticket. If y
 
 #### NRT Stage
 
-There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles. 
+There are several variables that can be taken into consideration when deciding how to get involved with tickets in the NRT stage. As a general rule, we default to [Collaboration](https://about.gitlab.com/handbook/values/#collaboration) and all its operating principles.
 
 For documentation purposes, the following table was devised as a reference guideline:
 
@@ -60,7 +53,7 @@ For documentation purposes, the following table was devised as a reference guide
 | No       | has an assignee    | No action needed, any ideas can (and should be) posted as an internal or field note                                    |
 | No       | no assignee or OOO | You are strongly encouraged to take it, or at least contribute with a public reply, or ideas in the form of notes      |
 | Yes      | has an assignee    | Feel free to contribute however you see fit, having in mind the ongoing discussion (we don't want to repeat ourselves) |
-| Yes      | no assignee or OOO | You are strongly encouraged to take assignment, or at least reply to the customer to avoid further breach	         | 
+| Yes      | no assignee or OOO | You are strongly encouraged to take assignment, or at least reply to the customer to avoid further breach          |
 
 #### NRT breaches
 
@@ -68,7 +61,7 @@ To avoid long running NRT breaches, Senior Support Engineers in the Ginkgo group
 
 ### Daily Pairing Sessions
 
- - EMEA/AMER friendly pairing sessions are held every weekday from 15:30 to 16:30 UTC.
+- EMEA/AMER friendly pairing sessions are held every weekday from 15:30 to 16:30 UTC.
 
 **Goal**: Meet as a group and work toward our Definition of Success.
 
@@ -81,39 +74,40 @@ To avoid long running NRT breaches, Senior Support Engineers in the Ginkgo group
 To get to know each other better we infrequently post questions that are fun but controversial in a light-hearted way on our Slack channel. Passionate participation is highly recommended, and stealing of both the process and questions by other SGGs is definitely encouraged.
 
 Some questions we discussed so far:
- 
- - In what order do you put on your shoes and socks – AA BB, or AB AB?
- - Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
- - Nutella – with or without butter underneath?
+
+- In what order do you put on your shoes and socks – AA BB, or AB AB?
+- Do you put the toilet paper on the roll so that the paper comes from over the roll or under the roll?
+- Nutella – with or without butter underneath?
 
 ### APAC Sync Call
 
- The APAC Ginkgo team hosts an end-of-week sync call in the *Ginkgo Zoom Room*, held on Fridays at 03:30 UTC. The structure is free-form, so can be used for one or more of the following: 
+ The APAC Ginkgo team hosts an end-of-week sync call in the *Ginkgo Zoom Room*, held on Fridays at 03:30 UTC. The structure is free-form, so can be used for one or more of the following:
 
- - Ticket/Crush Sessions
- - Week In Review
- - Social Call
- - Ginkgo Group Retrospective (if planning, it is recommended to invite a manager to facilitate as a coach/mentor on the call)
+- Ticket/Crush Sessions
+- Week In Review
+- Social Call
+- Ginkgo Group Retrospective (if planning, it is recommended to invite a manager to facilitate as a coach/mentor on the call)
 
-The meeting chair is rotated between available Ginkgo team members, and the call is available to all GitLab team members to join in and participate! Further details can be found in the GitLab Support shared calendar. 
+The meeting chair is rotated between available Ginkgo team members, and the call is available to all GitLab team members to join in and participate! Further details can be found in the GitLab Support shared calendar.
 
 ### Slack
 
 #### Slack notifications
 
 To update your notification settings on Slack:
+
 1. In Slack, right click on our channel [#spt_gg_ginkgo](https://gitlab.slack.com/archives/C0354N9B14G)
-2. Choose **Change notifications**
-3. Change **Send a notification for** to **All new messages**
-4. Save Changes
+1. Choose **Change notifications**
+1. Change **Send a notification for** to **All new messages**
+1. Save Changes
 
 #### Slack group handles
 
 We have dedicated Slack group handles in place that allow us to easily target specific regions in a message:
 
- - `@spt-ginkgo`
- - `@spt-ginkgo-amer`
- - `@spt-ginkgo-apac`
- - `@spt-ginkgo-emea`
+- `@spt-ginkgo`
+- `@spt-ginkgo-amer`
+- `@spt-ginkgo-apac`
+- `@spt-ginkgo-emea`
 
 ![multiple tanuki celebrating a party under a ginkgo tree in cartoon style](/handbook/support/support-global-groups/groups/ginkgo/sgg_ginkgo_party.png)

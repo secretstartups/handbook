@@ -56,14 +56,14 @@ There is a lot of information on this page. We've added emoji to help you get st
 - [Offboarding Checklist](#offboarding)
 - 🆕👀 [Security Policies](#security-policies)
 - [Tech Stack and User Guides](#tech-stack)
-    - 🆕 👀 [IT Tech Stack and User Guides](#it-tech-stack)
-    - [Data Team Tech Stack](#data-team-tech-stack)
-    - [Finance Tech Stack](#finance-tech-stack)
-    - 👀 [Infrastructure Shared Services Tech Stack](#infrastructure-shared-services-tech-stack)
-    - [Infrastructure Reliability Tech Stack](#infrastructure-reliability-tech-stack)
-    - [People Tech Stack](#people-tech-stack)
-    - [Sales Tech Stack](#sales-tech-stack)
-    - [Security Tech Stack](#security-tech-stack)
+  - 🆕 👀 [IT Tech Stack and User Guides](#it-tech-stack)
+  - [Data Team Tech Stack](#data-team-tech-stack)
+  - [Finance Tech Stack](#finance-tech-stack)
+  - 👀 [Infrastructure Shared Services Tech Stack](#infrastructure-shared-services-tech-stack)
+  - [Infrastructure Reliability Tech Stack](#infrastructure-reliability-tech-stack)
+  - [People Tech Stack](#people-tech-stack)
+  - [Sales Tech Stack](#sales-tech-stack)
+  - [Security Tech Stack](#security-tech-stack)
 
 ### Team Handbook Pages
 
@@ -171,14 +171,14 @@ After you have finished configuring your laptop, please follow the Pre-Labbing S
 
 - Pre-Checkout Offboarding Checklist
 - Last Day Checklist
-    - Laptop Wipe Runbook
+  - Laptop Wipe Runbook
 - Post-Offboarding
-    - Account Deprovisioning
-    - GitLab.com Username Policy
-    - GitLab.com Groups Policy
-    - Manager Delegation Runbook
-    - Offboarding Issue Tasks Runbook
-    - Slack Alumni Channel Runbook
+  - Account Deprovisioning
+  - GitLab.com Username Policy
+  - GitLab.com Groups Policy
+  - Manager Delegation Runbook
+  - Offboarding Issue Tasks Runbook
+  - Slack Alumni Channel Runbook
 
 ## Security Policies
 
@@ -191,8 +191,8 @@ These policies are a cross-collaboration between the IT and Security department.
 - Laptop Disk Encryption Policy
 - [Laptop Monitoring Policy](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/)
 - Laptop System Configuration Policy
-    - [macOS](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
-    - [Linux](/handbook/tools-and-tips/linux/)
+  - [macOS](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
+  - [Linux](/handbook/tools-and-tips/linux/)
 - [Mobile Device Application Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
 - [Password and MFA Policy](/handbook/security/password-procedure.html)
@@ -228,8 +228,8 @@ As we continue to iterate, we are creating public handbook pages with user guide
 - GitLab SaaS (gitlab.com) Team Member User Management - User provisioning, password and 2FA resets, and internal user support
 - GitLab SaaS (gitlab.com) Team Member Groups - Department, team and project group/project namespace management
 - GitLab SaaS (gitlab.com) Team Member Licenses
-    - [Ultimate license for users](/handbook/incentives/#gitlab-ultimate)
-    - [Ultimate license for demo groups](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request)
+  - [Ultimate license for users](/handbook/incentives/#gitlab-ultimate)
+  - [Ultimate license for demo groups](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request)
 - GitLab Dev (dev.gitlab.org) User Guide - Development builds and OAUTH for legacy services
 - GitLab Ops User Guide - Infrastructure-as-code configuration repositories
 - [Google Calendar User Guide](/handbook/communication/#google-calendar) - Calendar
@@ -246,7 +246,7 @@ As we continue to iterate, we are creating public handbook pages with user guide
 - [Nira User Guide](/handbook/it/guides/nira) - Google Drive permissions
 - [NordLayer User Guide](/handbook/it/guides/nordlayer) - Public WiFi VPN
 - [Okta User Guide](/handbook/business-technology/okta/) - Identity Management (IAM and SSO)
-    - [Okta Verify & Okta Device Trust](https://internal-handbook.gitlab.io/handbook/it/okta-device-trust/) (Internal)
+  - [Okta Verify & Okta Device Trust](https://internal-handbook.gitlab.io/handbook/it/okta-device-trust/) (Internal)
 - Okta Groups Guide - Identity Management
 - [Okta Apps SSO Integration Guide](/handbook/business-technology/okta/okta-enduser-faq/#how-do-i-request-an-app-to-be-added)   - Identity Management
 - [SentinelOne User Guide](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) - Endpoint Detection and Response (EDR) Laptop Monitoring
@@ -264,12 +264,12 @@ See the [Data Team](/handbook/business-technology/data-team/) handbook page to l
 
 - [GitLab Data Dashboard Catalog](/handbook/business-technology/data-team/data-catalog/)
 - [GitLab Data Platform](/handbook/business-technology/data-team/platform/)
-    - Airflow
-    - Fivetran
-    - SiSense (formerly Periscope)
-    - Snowflake
-    - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
-    - Stitch
+  - Airflow
+  - Fivetran
+  - SiSense (formerly Periscope)
+  - Snowflake
+  - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
+  - Stitch
 
 ### Finance Tech Stack
 
@@ -347,8 +347,8 @@ See the [Security Tools (internal)](https://internal-handbook.gitlab.io/handbook
 
 - [Business Technology Data Team](/handbook/business-technology/data-team)
 - [Business Technology Enterprise Applications Team](/handbook/business-technology/enterprise-applications)
-    - [Business Systems Analysts "BSA" Team](/handbook/business-technology/enterprise-applications/bsa/)
-    - [Finance Operations](/handbook/business-technology/enterprise-applications/financeops/)
+  - [Business Systems Analysts "BSA" Team](/handbook/business-technology/enterprise-applications/bsa/)
+  - [Finance Operations](/handbook/business-technology/enterprise-applications/financeops/)
 - [Business Technology Procurement Team](/handbook/business-technology/data-team)
 - [Business Technology Program Management (PMO) Team]
 
@@ -375,22 +375,22 @@ See the [Security Tools (internal)](https://internal-handbook.gitlab.io/handbook
 #### Security Department
 
 - 👀 [Departmental Structure](/handbook/security/#departmental-structure)
-    - [Security Assurance Sub-department](/handbook/security/security-assurance/)
-        - [Field Security](/handbook/security/security-assurance/field-security/)
-        - [Security Compliance](/handbook/security/security-assurance/security-compliance/)
-        - [Security Governance](/handbook/security/security-assurance/governance/)
-        - [Security Risk](/handbook/security/security-assurance/security-risk/)
-    - [Security Engineering Sub-department](/handbook/security/security-engineering/)
-        - [Application Security](/handbook/security/security-engineering/application-security/)
-        - [Security Automation](/handbook/security/security-engineering/automation/)
-    - [Security Operations Sub-department](/handbook/security/security-operations)
-        - [Security Incident Response Team "SIRT"](/handbook/security/security-operations/sirt)
-        - [Trust and Safety](/handbook/security/security-operations/trustandsafety/)
-        - [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/)
-        - [Security Logging](/handbook/security/security-engineering/security-logging)
-    - [Security Threat Management Sub-department](/handbook/security/threat-management)
-        - [Red Team](/handbook/security/threat-management/red-team)
-        - [Security Research](/handbook/security/threat-management/security-research/)
+  - [Security Assurance Sub-department](/handbook/security/security-assurance/)
+    - [Field Security](/handbook/security/security-assurance/field-security/)
+    - [Security Compliance](/handbook/security/security-assurance/security-compliance/)
+    - [Security Governance](/handbook/security/security-assurance/governance/)
+    - [Security Risk](/handbook/security/security-assurance/security-risk/)
+  - [Security Engineering Sub-department](/handbook/security/security-engineering/)
+    - [Application Security](/handbook/security/security-engineering/application-security/)
+    - [Security Automation](/handbook/security/security-engineering/automation/)
+  - [Security Operations Sub-department](/handbook/security/security-operations)
+    - [Security Incident Response Team "SIRT"](/handbook/security/security-operations/sirt)
+    - [Trust and Safety](/handbook/security/security-operations/trustandsafety/)
+    - [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/)
+    - [Security Logging](/handbook/security/security-engineering/security-logging)
+  - [Security Threat Management Sub-department](/handbook/security/threat-management)
+    - [Red Team](/handbook/security/threat-management/red-team)
+    - [Security Research](/handbook/security/threat-management/security-research/)
 
 ## How To Contribute
 

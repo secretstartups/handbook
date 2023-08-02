@@ -262,7 +262,6 @@ which can be found
   </tbody>
 </table>
 
-
 #### Notes about the table
 
 - All Zendesk apps are included with the Zendesk item above

@@ -1,14 +1,10 @@
 ---
-layout: handbook-page-toc
+
 title: AMER Licensing & Renewals Team
 description: Information specific to the AMER region's Licensing & Renewals Support Team
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -22,7 +18,7 @@ ease of collaboration.
 
 Starting in FY23 Q4, the AMER L&R Team defines its success as:
 
-### Each SE is consistently able to devote appropriate attention to all aspects of the support engineer role.
+### Each SE is consistently able to devote appropriate attention to all aspects of the support engineer role
 
 Key aspects of the success will be:
 
@@ -34,5 +30,5 @@ Key aspects of the success will be:
    1. No policy-making
 1. Making decisions according to a philosophy of: **If it's not supported we
    don't support it**
-   * if the product can't do something, we won't support doing that thing with
+   - if the product can't do something, we won't support doing that thing with
      a hack or a workaround or anything else

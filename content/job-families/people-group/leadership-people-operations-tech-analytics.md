@@ -12,7 +12,7 @@ The Director, People Tools and Technology reports to VP, People Operations.
 
 The Director, People Group Tools and Technology is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, People Tools and Technology Responsibilities:
+#### Director, People Tools and Technology Responsibilities
 
 - Collaborate across GitLab to implement various systems to improve scalability and efficiency.
 - Create and execute a 3-Year technology roadmap.
@@ -28,7 +28,7 @@ The Director, People Group Tools and Technology is [Job Grade 10](https://about.
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.
 - Represent GitLab and its values in public communication around specific projects and community contributions.
 
-#### Director, People Tools and Technology Requirements:
+#### Director, People Tools and Technology Requirements
 
 - Ten+ years’ experience in People Technology, with seven+ years' experience leading and managing a People Technology organization or Applications group at a fast growing high technology company.
 - Excellent change management skills and ability to operate effectively in a fast-paced environment.
@@ -65,7 +65,7 @@ The Director, Risk and Resilience reports to VP, People Operations.
 
 The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Risk and Resilience Responsibilities:
+#### Director, Risk and Resilience Responsibilities
 
 - Identify and assess the most critical threats to GitLab's Team members relating to geopolitical, environmental, and physical threats including incident response.
 - Establish GitLab's Enterprise Risk Management framework to support program needs.
@@ -79,8 +79,7 @@ The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/han
 - Lead in developing, maintaining, testing, and refining Business Continuity strategies and plans in partnership with critical business functions
 - Provide direct management, mentorship, and professional development opportunities for team members
 
-
-#### Director, Risk and Resilience Requirements:
+#### Director, Risk and Resilience Requirements
 
 - Twenty+ years’ experience in corporate safety and security, business continuity, and emergency management. At least 10 years of this experience should be in a senior leadership role.
 - Extensive experience in corporate safety and security, business continuity, and emergency management in a diverse range of situations. Candidates should have built relevant strategies and business plans, as well as demonstrated ability to navigate an array of real life situations.

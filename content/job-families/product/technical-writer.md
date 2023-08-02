@@ -13,18 +13,18 @@ At GitLab, our [team of technical writers](https://about.gitlab.com/handbook/pro
 ## Requirements
 
 - You have:
-   - Experience working with a docs as code workflow.
-   - Experience planning, researching, writing, and editing software documentation.
-   - Excellent skills in grammar, minimalist documentation design, and effective information architecture.
-   - Experience using the Linux shell and command-line Git.
-   - General familiarity with one or more coding languages.
-   - Experience with some of the following:
-      - DevOps tools and open-source software.
-      - A rapidly scaling start-up environment.
-      - Remote work, especially in collaboration with others across countries and time zones.
+  - Experience working with a docs as code workflow.
+  - Experience planning, researching, writing, and editing software documentation.
+  - Excellent skills in grammar, minimalist documentation design, and effective information architecture.
+  - Experience using the Linux shell and command-line Git.
+  - General familiarity with one or more coding languages.
+  - Experience with some of the following:
+    - DevOps tools and open-source software.
+    - A rapidly scaling start-up environment.
+    - Remote work, especially in collaboration with others across countries and time zones.
 - You are:
-   - Highly organized and able to triage and prioritize numerous issues and projects.
-   - Able to succeed in a remote, globally distributed work environment.
+  - Highly organized and able to triage and prioritize numerous issues and projects.
+  - Able to succeed in a remote, globally distributed work environment.
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - You have experience with workflows and tooling used by engineering, operations, and product teams.
 

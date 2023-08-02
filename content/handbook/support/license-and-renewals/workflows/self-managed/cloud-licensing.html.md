@@ -5,9 +5,6 @@ description: "How to generate a legacy license for a customer who cannot use Clo
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 ## Cloud Licensing Overview
 
@@ -20,7 +17,6 @@ In order to further encourage Cloud Licensing, the Strict Cloud Licensing projec
 **Effective July 7, 2022:** Cloud Licensing will be enabled by default for all new and renewal customers, as detailed in the [Strict Cloud Licensing roll out plan](https://gitlab.com/gitlab-org/gitlab/-/issues/351682) (except OSS, EDU or Start-Up products). Customers will no longer have the ability to download a license file from the Customers Portal. In addition, Offline licenses will now be available to allow customers with air-gapped or offline instances to receive the benefits of Cloud Licensing. In order to receive a Legacy License or Offline License, customers will need to follow the below outlined process.
 
 ### Strict Cloud Licensing Process
-
 
 NOTE: This only applies to standard and resold customers.
 
@@ -51,13 +47,13 @@ graph TD;
 
 ### Pre-Sale Exemption (Sales)
 
-Customers who cannot activate with Cloud Licensing will need to obtain either an Offline Cloud License or a Legacy License. If this process is handled correctly at time of sale, no Support involvement is required. 
+Customers who cannot activate with Cloud Licensing will need to obtain either an Offline Cloud License or a Legacy License. If this process is handled correctly at time of sale, no Support involvement is required.
 
 By default, the `TurnOnCloudLicensing__c` flag in SFDC will be set to `Yes` on every quote during the sales cycle. If the Sales Rep wants to opt the customer out, they should update the quote field `[Cloud Lic] Add Cloud Licensing Opt Out` to either `Legacy License File` or `Offline License`. This in turn updates the value of `TurnOnCloudLicensing` to `No` or `Offline` respectively. Once the quote is submitted, Sales VP approval is required via the standard SFDC approval process. Once approved, the quote is synced to Zuora, which in turn creates and activates the subscription. In this scenario, the customer will receive their activation email with their license file attached and will also have the ability to download the license file from the [GitLab Customers portal](https://customers.gitlab.com/customers/sign_in).
 
 ### Post-Sale Exemptions (Support)
 
-The above defined sales-initiated exemption process is intended to be the only means of opt out and should be used for all customers. However, there may be occurrences where a sales rep missed opting a customer out during the sale, and the customer has now incorrectly received a Cloud License activation code they cannot use. 
+The above defined sales-initiated exemption process is intended to be the only means of opt out and should be used for all customers. However, there may be occurrences where a sales rep missed opting a customer out during the sale, and the customer has now incorrectly received a Cloud License activation code they cannot use.
 
 In a situation where a customer requires a Legacy License or a Offline License post-sale, the customer must first reach out to their sales account manager for them to [open an Internal Request with Support](https://about.gitlab.com/handbook/support/internal-support/#internal-requests). The customer's sales account manager will then need to obtain sales VP approval for a Cloud Licensing exemption in order for L&R support to be able to process the internal request and provide the customer with the required license file. If an emergency situation occurs where the customer requires access during the approval process, a support engineer should
 [provide the customer with a trial license](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html)
@@ -94,26 +90,29 @@ because the automatically generated license does not trigger license email notif
 1. Reply to the IR ticket with a link to the license and mark the ticket as `Solved`.
 
 ##### Note
+
 The matrix below defines the impact of setting the `Cloud Licensing` flag value to `Yes`, `Offline` or `No` on the eligibility of three license types.
 
 | Cloud Licensing Flag value | Cloud License | Offline Cloud | Legacy License |
 | ------ | ------ | ------ | ------  |
 | Yes | Eligible | Not Eligible | Eligible |
-| Offline | Eligible | Eligible | Not Eligible | 
+| Offline | Eligible | Eligible | Not Eligible |
 | No  | Eligible | Eligible | Eligible |
 
-
 #### Find the related subscription details
+
 There are a few ways to locate the subscription in a closed-won opportunity.
 Refer to the alternative methods below for guidance on different cases.
 
 ##### Customer Subscription (CS-0000000000)
+
 1. Scroll down on the Opportunity page to the `Subscription Information` section.
 1. Click on the `Customer Subscription` value which has the format `CS-0000000000` to go to **Customer Subscription** page.
 1. Click the `Current Zuora Subscription` value to go to the **Subscription** page.
 1. Note the `Sold To Email` and the `Subscription Name` from the **Subscription** page.
 
 ##### Quote
+
 1. Scroll down on the Opportunity page to the `Quotes` section.
 1. Locate the most relevant Quote which has the `Status` as `Sent to Z-Billing`.
     - If **all** quotes have the `Status` as `New`, this indicates a web-direct purchase. For cases with **multiple** quotes that all have `Status` as `New`, use the quote that has been marked as `Primary`.
@@ -125,51 +124,60 @@ Refer to the alternative methods below for guidance on different cases.
 1. Note the Subscription Name:
     - Check the `Subscription Name` in the quote which is at the 4th row of the top section.
     - If it is empty, or does not show up in CustomersDot, find the subscription by locating the customer account using the Sold To contact's email and verifying the subscription seat count matches the quote you opened.
-    
 
 ## Support FAQ
+
 #### 1. Which license type should I provide for an approved opt out?
+
 Knowing whether to provide an Offline or Legacy License will depend on the customer's specific scenario and what they request, but the following may be helpful:
-* Offline licenses are preferred by GitLab over Legacy Licenses as they allow the customer to more easily provide usage data. These work best for customers who cannot use a Cloud License because their instance is air-gapped or not connected to the internet. However, in order to use an Offline Cloud License, the customer must be on 15.0 or higher.
-* Legacy licenses can be sent when a customer is unwilling or unable to upgrade to Gitlab version 14.1 or higher, or is concerned about sharing Subscription Data.
+
+- Offline licenses are preferred by GitLab over Legacy Licenses as they allow the customer to more easily provide usage data. These work best for customers who cannot use a Cloud License because their instance is air-gapped or not connected to the internet. However, in order to use an Offline Cloud License, the customer must be on 15.0 or higher.
+- Legacy licenses can be sent when a customer is unwilling or unable to upgrade to Gitlab version 14.1 or higher, or is concerned about sharing Subscription Data.
 
 #### 2. Are reseller purchases considered the same as sales-assisted? If a customer purchased after 2022-07-07 and needs a Legacy License, should we send them to their Account Manager to go through the exemption process, or do we treat them the same as web-direct and give them a Legacy License file, no questions asked?
-Reseller customers should be directed to sales as well using the same process. 
 
-#### 3. A customer would like to use a Legacy License on a dev instance after activating their production instance with a Cloud License activation code.
+Reseller customers should be directed to sales as well using the same process.
+
+#### 3. A customer would like to use a Legacy License on a dev instance after activating their production instance with a Cloud License activation code
 
 We can generate a legacy license in this situation, but only after an exemption has been approved. **Do not apply the exemption to the currently CL-enabled subscription.** Instead, generate a legacy license duplicate of the existing license.
 
 Please see [this comment thread](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/610#note_1052615060) for greater context on this workaround.
 
-#### 4. How do I tell if a purchase was web direct?   
+#### 4. How do I tell if a purchase was web direct?
 
-Check the `Created By` value of either (1) the invoices for the specific purchase in the customer's Zuora account (https://www.zuora.com/apps/CustomerAccount.do?method=view&id=<ACCOUNT_ID>) or (2) the Subscription's Change History (https://www.zuora.com/platform/subscriptions/<SUBSCRIPTION_ID>):
+Check the `Created By` value of either (1) the invoices for the specific purchase in the customer's Zuora account (<https://www.zuora.com/apps/CustomerAccount.do?method=view&id=><ACCOUNT_ID>) or (2) the Subscription's Change History (<https://www.zuora.com/platform/subscriptions/><SUBSCRIPTION_ID>):
 
 - Web direct: If it is the **Fulfillment API User** (`svc_zuora_fulfillment_int@gitlab.com` or `ruben_APIproduction@gitlab.com`).
 - Not web direct: If it either the **SalesForce API User** (`svc_ZuoraSFDC_integration@gitlab.com`) or a GitLab team member's email (mostly it would be a Billing team member).
 
 "New Business" web direct purchase opportunities in SFDC will often be created as `ACCOUNT-NAME - Web Direct`.  The **Initial Source** field will also be filled as "Web Direct".
--  **Note:** A sales-assisted renewal or add-on may still reflect **Initial Source** as "web direct", so you can further confirm:
 
-Web direct purchases also create a Quote in the customer's SalesForce account. However, the **Status** of the Quote is almost always `New`. 
+- **Note:** A sales-assisted renewal or add-on may still reflect **Initial Source** as "web direct", so you can further confirm:
+
+Web direct purchases also create a Quote in the customer's SalesForce account. However, the **Status** of the Quote is almost always `New`.
+
 - For Sales assisted and reseller purchases, you can confirm the details of the successful purchase by checking the Quote in the customer's SalesForce account with its **Status** set to `Sent to Z-Billing`.
 
 #### 5. What if the exemption is on an Opportunity that is NOT Closed-Won?
+
 Cloud Licensing is **required** on a Closed-Won Opportunity because Support follows the Quote that has its `Status` as `Sent to Z-Billing` to confirm the license details that has been exempted.
-- If the provided Opportunity is in an open stage, you can let the requester know they should use the [pre-sale opt out process](https://docs.google.com/presentation/d/1gbdHGCLTc0yis0VFyBBZkriMomNo8audr0u8XXTY2iI/edit#slide=id.g137e73c15b5_0_298) and then close the Internal Request as invalid. 
+
+- If the provided Opportunity is in an open stage, you can let the requester know they should use the [pre-sale opt out process](https://docs.google.com/presentation/d/1gbdHGCLTc0yis0VFyBBZkriMomNo8audr0u8XXTY2iI/edit#slide=id.g137e73c15b5_0_298) and then close the Internal Request as invalid.
 - If the provided Opportunity is Closed Lost, you can let the requester know the Opportunity must be Closed Won and then close the Internal Request as invalid.
 
 ### How does Cloud Licensing impact customers who have purchased multi-year GitLab subscriptions?
 
 - If an existing or new customer purchases a multi-year subscription and has Cloud Licensing enabled then the Cloud Activation Code they receive will be valid for the entirety of the subscription period.
-- If an existing customer has already activated a subscription with an Activation Code then the customer will not have do anything, the license for the subscription will automatically update during the sync process. 
+- If an existing customer has already activated a subscription with an Activation Code then the customer will not have do anything, the license for the subscription will automatically update during the sync process.
 - If an existing customer has not yet enabled/activated Cloud Licensing (TurnOnCloudLicensing set to Null) they can activate their instance with an Activation Code at any time
-    - If an existing customer who previously was undecided (i.e. `Turn On Cloud Licensing` is set to `Null`) or opted out of Cloud Licensing (i.e. `Turn On Cloud Licensing` is set to `No` or `Offline`) wants to switch to Cloud Licensing, they will need to contact support. Support can generate and send the activation code in CustomerDot Admin as detailed in [post sales exemption support](#post-sale-exemptions-support).
-    - Upon activation, the customer will receive a Cloud Activation Code which will be valid for the entirety subscription term 
+  - If an existing customer who previously was undecided (i.e. `Turn On Cloud Licensing` is set to `Null`) or opted out of Cloud Licensing (i.e. `Turn On Cloud Licensing` is set to `No` or `Offline`) wants to switch to Cloud Licensing, they will need to contact support. Support can generate and send the activation code in CustomerDot Admin as detailed in [post sales exemption support](#post-sale-exemptions-support).
+  - Upon activation, the customer will receive a Cloud Activation Code which will be valid for the entirety subscription term
 
 ## Additional Resources
+
 For more information on Cloud Licensing, please refer to the following resources:
+
 1. [Cloud Licensing Internal Handbook Page](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/)
 1. [Offline Cloud Licensing Internal Handbook Page](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/offline-cloud-licensing/)
 1. [Cloud Licensing Field Team FAQ](https://docs.google.com/document/d/1C8kQlxvK2LFBsb3N6cvS8wXkqOw5cnAvuqy_4miUbYQ/edit)

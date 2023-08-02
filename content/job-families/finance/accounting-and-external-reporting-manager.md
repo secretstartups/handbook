@@ -84,6 +84,7 @@ The Senior Manager, Accounting and External Reporting is a [grade 9](https://abo
 ### Additional Responsibilities
 
 Senior Accounting and External Reporting Manager shares the same responsibilities as listed above, but also includes the following:
+
 - People manager of 1 or more
 - Initiate design and implementation of new policies and procedures to support new audit requirements and business activities
 - Drive the implementation of any tools to improve financial reporting
@@ -94,6 +95,7 @@ Senior Accounting and External Reporting Manager shares the same responsibilitie
 ### Additional Requirements
 
 Senior Accounting and External Reporting Manager share the same requirements as listed above, but also carry the following:
+
 - Active CPA license required
 - Eight plus years experience with at least four years in public accounting working on SEC clients
 
@@ -102,6 +104,7 @@ Senior Accounting and External Reporting Manager share the same requirements as 
 ### Additional Responsibilities
 
 Director, Accounting and External Reporting shares the same responsibilities as listed above, but also includes the following:
+
 - Collaborate on implementation of policies and procedures around new accounting pronouncements with the Technical Accounting and General Ledger teams, as appropriate
 - Ensure all disclosures are properly included in audited financial statements, working in conjunction with the Technical Accounting team.
 - Ensure all processes, procedures, and reporting enhancements are implemented appropriately and all related risks are mitigated.
@@ -112,6 +115,7 @@ Director, Accounting and External Reporting shares the same responsibilities as 
 ### Additional Requirements
 
 Director, Accounting and External Reporting shares the same requirements as listed above, but also requires the following:
+
 - 10 plus years experience with at least six years in public accounting working on SEC clients
 - Proven leadership managing projects across various accounting areas
 

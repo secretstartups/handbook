@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Zendesk Ticket Basics
 category: Handling tickets
 description: Information about various Zendesk ticket fields, behaviors and procedures
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Ticket status
 
@@ -61,11 +57,11 @@ tags will be present. These do NOT need to be removed  when adding the
 
 We have a number of automations around tickets in an `On-Hold` status:
 
-* When a ticket is set to `On-Hold`, it will be automatically assigned to you by
+- When a ticket is set to `On-Hold`, it will be automatically assigned to you by
   the trigger [`Automatically assign on-hold ticket to the engineer who put it to the on-hold status`](https://gitlab.zendesk.com/agent/admin/triggers/360033242313).
-* Tickets without an assignee will be automatically reopened by the trigger
+- Tickets without an assignee will be automatically reopened by the trigger
 [`Automatically reopen on-hold tickets without assignee`](https://gitlab.zendesk.com/agent/admin/triggers/360028981853).
-* Tickets with an assignee will be automatically reopened in 4 days by the
+- Tickets with an assignee will be automatically reopened in 4 days by the
   automation [`Reopen on-hold tickets after 4 days`](https://gitlab.zendesk.com/agent/admin/automations/360028978393), unless the ticket is of type **Task**.
 
 ## SLA clock

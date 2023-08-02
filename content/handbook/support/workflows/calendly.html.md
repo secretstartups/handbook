@@ -1,15 +1,11 @@
 ---
-layout: handbook-page-toc
+
 title: Calendly Setup for Support
 category: References
 description: "Workflow for setting up and using Calendly in Support Engineering"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 **Note**: Always use [single-use Calendly links](#generating-a-single-use-calendly-link) when offering a call with customers.
 
@@ -19,13 +15,13 @@ You will have set up Calendly as part of your GitLab onboarding, following [the 
 
 Modify your setup as follows
 
-* [log in](https://calendly.com/login)
-* Set up Zoom integration on your Calendly account in [integrations](https://calendly.com/integrations)
-* Ensure you have a one-hour event available.
-* Edit your Calendly events:
-  * Ensure the event names have 'Support' in their title.
-  * Consider changing your availability increment (see below)
-  * Location may show as 'Zoom conference call' but won't actually be using the integration. Edit the location, and select zoom (with the blue camcorder icon)
+- [log in](https://calendly.com/login)
+- Set up Zoom integration on your Calendly account in [integrations](https://calendly.com/integrations)
+- Ensure you have a one-hour event available.
+- Edit your Calendly events:
+  - Ensure the event names have 'Support' in their title.
+  - Consider changing your availability increment (see below)
+  - Location may show as 'Zoom conference call' but won't actually be using the integration. Edit the location, and select zoom (with the blue camcorder icon)
 
 ## Availability schedule setup
 
@@ -37,10 +33,10 @@ Setting up your availability schedules is very important. This ensures you get s
 
 The above video shows how to set this up, but the general gist is:
 
-* Navigate to [https://calendly.com/app/availability/schedules](https://calendly.com/app/availability/schedules)
-* Set the timezone for your default schedule
-* Rename the default schedule to "Working hours"
-* Edit the hours you are available
+- Navigate to [https://calendly.com/app/availability/schedules](https://calendly.com/app/availability/schedules)
+- Set the timezone for your default schedule
+- Rename the default schedule to "Working hours"
+- Edit the hours you are available
 
 ### GitLab Support group account
 
@@ -65,9 +61,9 @@ Calendly 60 minute meetings default to an 'availability Increment' of 60 minutes
 Only slots starting at the top of the hour are offered. If you’ve got 90 minutes available,
 or a (say) a 14:30-15:30 window available, then reducing the increment to 30 minutes increases your availability.
 
-* Log in;  edit the event type
-* 'When can people book this event'
-* Select 'Advanced' tab under 'Availability' - change 'Show availability in increments of'
+- Log in;  edit the event type
+- 'When can people book this event'
+- Select 'Advanced' tab under 'Availability' - change 'Show availability in increments of'
 
 If you have any other meeting lengths available, consider whether it makes sense to offer different start times.
 You can view your calendly availability using a private/incognito browser session.
@@ -78,7 +74,7 @@ If you are temporarily working hours different to your usual schedule, you can u
 
 1. Log in to Calendly. Click the `Availability` tab (or use [this URL](https://calendly.com/app/availability/schedules)).
 1. In the `Schedule` > `Default Hours` area, use the `TIME ZONE` dropdown to select your updated timezone. Changes are automatically saved.
-1. Set a calendar reminder for yourself, to reset your timezone when your working hours have reverted to usual. 
+1. Set a calendar reminder for yourself, to reset your timezone when your working hours have reverted to usual.
 
 ### Set the minimum amount of notice that is required for an event
 
@@ -95,8 +91,8 @@ of an event start time.
 
 We copy customer calls to the *GitLab Support* Google calendar using a [Zapier zap](https://zapier.com/app/editor/33897756?redirect=true). For this to work
 
-* Your calendly account must be part of the group account.
-* The word 'support' triggers the integration. Ensure 'support' is in the event name in Calendly.
+- Your calendly account must be part of the group account.
+- The word 'support' triggers the integration. Ensure 'support' is in the event name in Calendly.
 
 If the Zap is working, you should see the calendar event copied within a minute or two. If the customer cancels, similarly, it'll be removed from the Support calendar.
 
@@ -172,7 +168,7 @@ curl -s -H "Authorization: Bearer <your Calendly API token>" \
 
 This will output something like the following:
 
-> https://calendly.com/d/m6we-x8r7/support-call-with-me
+> <https://calendly.com/d/m6we-x8r7/support-call-with-me>
 
 #### using [httpie](https://github.com/httpie/httpie)
 
@@ -226,7 +222,7 @@ It is possible to automate the blocking of your PagerDuty shifts in Calendly, so
 1. In PagerDuty, navigate to **Your profile > On-Call Shifts > Export > WebCal feed**. Right-click and copy the URL.
 1. Add the PagerDuty calendar to your Google Calendar **Other calendars > + > From URL** and paste the WebCal URL from step 1.
 1. In Calendly, navigate to **Account > Calendar Connections > Configuration > Check for conflicts** and click the **Edit** button.
-1. Ensure that the PagerDuty calendar added in step 2 is selected here (it will be listed as "On Call Schedule for _Your Name_", not the name you gave it in Google), and then click the **Update** button. If your calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh the calendar list.
+1. Ensure that the PagerDuty calendar added in step 2 is selected here (it will be listed as "On Call Schedule for *Your Name*", not the name you gave it in Google), and then click the **Update** button. If your calendar does not appear in the list, you can disconnect and reconnect your Google Calendar account from Calendly to refresh the calendar list.
 
 ## Send customers the combined availability suggestions of multiple colleagues
 
@@ -248,8 +244,8 @@ need to attend a customer call
 
 Ben Prescott
 
-* I have a 25 minute and 50 minute meeting available for internal GitLab meetings, and separate 30 minute and 60 minute ones called 'GitLab Customer support'. These are the ones I send links to in Zendesk.
-* I offer 60 minutes by default, and changed the description/instructions as follows. I include the last line as we had a customer book for 3am their time, and can only assume Calendly got their time zone wrong.
+- I have a 25 minute and 50 minute meeting available for internal GitLab meetings, and separate 30 minute and 60 minute ones called 'GitLab Customer support'. These are the ones I send links to in Zendesk.
+- I offer 60 minutes by default, and changed the description/instructions as follows. I include the last line as we had a customer book for 3am their time, and can only assume Calendly got their time zone wrong.
 
 > This will be a Zoom Meeting.
 >

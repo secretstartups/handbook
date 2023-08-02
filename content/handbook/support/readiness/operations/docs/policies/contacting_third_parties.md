@@ -10,7 +10,6 @@ third-party applications that cannot be fully resolved by Support Ops. In such
 scenarios, the Support Ops team will need to contact the application's support
 system.
 
-
 ## Process
 
 1. The agent or a Support Ops team member will create an issue in the

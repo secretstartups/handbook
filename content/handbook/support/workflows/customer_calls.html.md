@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Customer calls
 category: Handling tickets
 description: "Workflow for conducting customer calls in Support Engineering"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -18,31 +11,35 @@ prepare for, manage and follow-up on customer calls.
 
 ## Emotional Headwinds
 
-We [hire smart humans to provide smart support](/handbook/support/workflows/how-to-respond-to-tickets.html#smart-humans-provide-smart-support). Humans have _feelings_. It is important to recognize that there are emotional headwinds that can make it harder to schedule or be in calls. During a call you're putting yourself into a situation where you have to manage:
- - your own feelings
- - the customer's experience
- - the customer's feelings
- - technical troubleshooting
- - time, efficiency and your own energy
+We [hire smart humans to provide smart support](/handbook/support/workflows/how-to-respond-to-tickets.html#smart-humans-provide-smart-support). Humans have *feelings*. It is important to recognize that there are emotional headwinds that can make it harder to schedule or be in calls. During a call you're putting yourself into a situation where you have to manage:
+
+- your own feelings
+- the customer's experience
+- the customer's feelings
+- technical troubleshooting
+- time, efficiency and your own energy
 
 Calls can be a vulnerable experience that hit on core human fears:
 
 **Ignored (Opposite of Significant)**
- - **Being lost** - in a call with many stakeholders, not being able to influence the group towards the right outcome
- - **Being trapped** - not being able to control or escape a tense or challenging situation
- - **Being alone** - having no support or guidance as you work through a challenging situation
+
+- **Being lost** - in a call with many stakeholders, not being able to influence the group towards the right outcome
+- **Being trapped** - not being able to control or escape a tense or challenging situation
+- **Being alone** - having no support or guidance as you work through a challenging situation
 
 **Humiliated (Opposite of Competent)**
- - **Being wrong** - providing incorrect information or poor guidance
- - **Being thought of as incompetent** - operating from an area of weakness when there are opportunities to contribute your strengths 
- - **Being drained** - spending so much energy on preparing, running and following-up on a call you don't have energy to contribute elsewhere
+
+- **Being wrong** - providing incorrect information or poor guidance
+- **Being thought of as incompetent** - operating from an area of weakness when there are opportunities to contribute your strengths
+- **Being drained** - spending so much energy on preparing, running and following-up on a call you don't have energy to contribute elsewhere
 
 **Rejected (Opposite of Likeable)**
- - **Being in conflict / tension** - having to work with customers in heightened emotional states 
- - **Being rejected** - having a customer judge you as insufficient, incompetent or inadequate to meet the challenge 
- - **Being attacked** - an angry customer yells at you or insults you
 
-If you're feeling the results of any of these headwinds it can be easy to rationalize why you shouldn't move the ticket to a call. The feelings you're having shouldn't be ignored. Before judging whether or not to move to a call: 
+- **Being in conflict / tension** - having to work with customers in heightened emotional states
+- **Being rejected** - having a customer judge you as insufficient, incompetent or inadequate to meet the challenge
+- **Being attacked** - an angry customer yells at you or insults you
+
+If you're feeling the results of any of these headwinds it can be easy to rationalize why you shouldn't move the ticket to a call. The feelings you're having shouldn't be ignored. Before judging whether or not to move to a call:
 
 1. **Stop** and experience what you're feeling without judgement.
 1. **Be curious about your feelings**: is any of your resistance related to a core fear?
@@ -57,7 +54,7 @@ Customers are subject to the same fears Support Engineers are. To understand mor
 Be mindful as well that customers likely have pressures from their business or from their users who rely on GitLab. And, they may feel nervous or scared about appearing ignorant in front of a GitLab expert. It can be very helpful to seek to understand these forces acting upon a customer, as is discussed in these two videos:
 
 1. [Understanding the Customer Intro](https://www.youtube.com/watch?v=krnLqcSrZNs&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=42) - introduces the idea of understanding what forces are acting upon the customer
-2. [Understanding the Customer Discussion](https://www.youtube.com/watch?v=CIMKLG8D5jQ&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=43) - presents a discussion of many examples of those forces
+1. [Understanding the Customer Discussion](https://www.youtube.com/watch?v=CIMKLG8D5jQ&list=PL05JrBw4t0Kq13oaMq0DCl2gUz_g1u29o&index=43) - presents a discussion of many examples of those forces
 
 ## When should a ticket go to a call?
 
@@ -66,25 +63,30 @@ Feelings aside, it can be difficult to sort out how to balance the demands of as
 Various pieces of the Handbook can be used to justify a range of behaviors:
 
 - The ["Video Calls" section on the Communication page of the Handbook](/handbook/communication/#video-calls) says
+
 > Use video calls if you find yourself going back and forth in an issue/via email or over chat. Guideline: if you have gone back and forth 3 times, it's time for a video call.
 
 - Our ["Bias towards asynchronous communication" operating principle of our DIB Value](/handbook/values/#bias-towards-asynchronous-communication) says:
+
 > Take initiative to operate asynchronously whenever possible.
 
 - Our ["Be respectful of others' time" operating principle of our Efficiency Value](/handbook/values/#be-respectful-of-others-time) says:
+
 > Consider the time investment you are asking others to make with meetings... Try to avoid meetings.
 
 At GitLab Support we use two operating principles to help us interpret the sometimes conflicting guidance:
-1. **[Customer Results](/handbook/values/#customer-results)**: _Our focus is to improve the results that customers achieve_
-1. **[Freedom and Responsibility over Rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity)**: _we give people the responsibility to make a decision and hold them accountable for that_
+
+1. **[Customer Results](/handbook/values/#customer-results)**: *Our focus is to improve the results that customers achieve*
+1. **[Freedom and Responsibility over Rigidity](/handbook/values/#freedom-and-responsibility-over-rigidity)**: *we give people the responsibility to make a decision and hold them accountable for that*
 
 Our customer-facing [Statement of Support section on video calls](/support/#phone-and-video-call-support) supports this:
 
-> At times it may be useful and important to conduct a call, video call, or screensharing session with you to improve the progress of a ticket...the support engineer... will determine: 
+> At times it may be useful and important to conduct a call, video call, or screensharing session with you to improve the progress of a ticket...the support engineer... will determine:
+>
 > - whether a call is necessary; and
 > - whether we have sufficient information for a successful call.
 
-**As a Support Engineer you are charged to act in the best interest of the customer.** Customer calls are a tool in your toolbox. When used well, customer calls will allow you to be more efficient, build relationships and resolve tickets faster. 
+**As a Support Engineer you are charged to act in the best interest of the customer.** Customer calls are a tool in your toolbox. When used well, customer calls will allow you to be more efficient, build relationships and resolve tickets faster.
 
 ### Markers for when you should consider moving to a call
 
@@ -98,51 +100,49 @@ Our customer-facing [Statement of Support section on video calls](/support/#phon
 
 ## Types of calls
 
-Feel free to adjust the length, timing and agenda of your calls to suit the needs of the ticket and customer. The following are examples of call types that Support Engineers have found useful in the past. 
+Feel free to adjust the length, timing and agenda of your calls to suit the needs of the ticket and customer. The following are examples of call types that Support Engineers have found useful in the past.
 
 To the extent you can, try not to exceed the length of call you've arranged with the customer as this can set up unrealistic expectations for future Support Engineers working with the customer. If you feel that you're close to a resolution or need more time to collect info always pause and verify with the customer that they have the time to continue and note how much time you have left to continue.
 
 ### Discovery calls
+
 #### Purpose
-{:.no_toc}
 
 A Discovery call is a short call with the sole purpose of learning
 enough to start troubleshooting asynchronously again.
 
 #### Duration
-{:.no_toc}
 
 15-30 minutes
 
 ### Troubleshooting calls
+
 #### Purpose
-{:.no_toc}
 
 A Troubleshooting call is a longer call where you'll work real-time with the customer to guide them through a series of troubleshooting steps you've crafted to gather additional information or make progress towards resolution of the issue.
 
 #### Duration
-{:.no_toc}
 
 30-60 minutes
 
 ### Reset & Review calls
+
 #### Purpose
-{:.no_toc}
 
 A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](/handbook/customer-success/csm/escalations/).
 
 #### Duration
-{:.no_toc}
+
 15-30 minutes
 
 ### Upgrade Assistance
+
 #### Purpose
-{:.no_toc}
 
 Premium Support customers may request a call as a part of upgrade assistance. Read more about this in the dedicated [Upgrade Assistance workflow](/handbook/support/workflows/upgrade-assistance.html).
 
 #### Duration
-{:.no_toc}
+
 30 minutes
 
 ## Taking Calls
@@ -175,36 +175,37 @@ Calendly link.
 
 When sending a customer a call link:
 
-* Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link)
+- Always use [single-use Calendly link](/handbook/support/workflows/calendly.html#generating-a-single-use-calendly-link)
   to invite customers to a call so that we can avoid ghost calls.
-* Ensure the [event title](https://calendly.com/event_types)
+- Ensure the [event title](https://calendly.com/event_types)
   [includes the word `Support`](/handbook/support/workflows/calendly.html#support-calls-in-the-team-calendar)
   (case insensitive). This is necessary for the event to appear in the
   `GitLab Support` Calendar.
-* Make sure your calendly event includes a required Invitee Question asking
+- Make sure your calendly event includes a required Invitee Question asking
   for the Zendesk ticket number.
-* If you know your availability is limited, or you need additional backup,
+- If you know your availability is limited, or you need additional backup,
   check with another SE to see if they might also be available to take the call.
 
 ### Removing the need for a call before it even starts
 
-It's important to remember that customers also don't want to waste time on calls. The primary reason most customers _want_ a call is because they believe it's the best use of time for them in making progress towards the resolution of their issue. In the interval between offering a call and hosting the call you have an opportunity to deflect the need for the call completely. **It's prudent to shift into a more rapid response mode as you center in towards a call.**
+It's important to remember that customers also don't want to waste time on calls. The primary reason most customers *want* a call is because they believe it's the best use of time for them in making progress towards the resolution of their issue. In the interval between offering a call and hosting the call you have an opportunity to deflect the need for the call completely. **It's prudent to shift into a more rapid response mode as you center in towards a call.**
 
 Having a customer engaged in forming the agenda for the call will help you do research and be well prepared. Ask the customer for (or prepare your own set of) questions that will need to be answered during the call. Once you have a list, (to the extent that time allows) answer them prior to the call within the ticket or provide instructions for how the customer can answer them for you.
 
 For each item on your call agenda, seek to find a way to shift towards an async workflow to complete it prior to the call. For example, if the customer wants a call to demonstrate an issue: ask them to record their screen while reproducing the issue and tailing logs, and then attach the recording and relevant logs.
 
 This will (potentially):
+
 - let you more deeply engage the customer in troubleshooting asynchronously
 - allow you to cancel the call completely
 - give you breathing room in the call to point to previously documented answers within the ticket
 
-Remember: you don't have to solve everything while you're on the call. It is okay to schedule a follow-up if you hit time or knowledge constraints. Here are some phrases that could be helpful in moving _back_ to async:
+Remember: you don't have to solve everything while you're on the call. It is okay to schedule a follow-up if you hit time or knowledge constraints. Here are some phrases that could be helpful in moving *back* to async:
 
-1. _I'll need to do some additional research on that and follow-up with you in the ticket._
-1. _To the best of my knowledge, the answer is X - but let me confer with a subject matter expert and get back to you._
-1. _At this juncture we've made some good progress, but there are some outstanding questions that need follow-up. Let's move back to the ticket, and once I've got a bit more information I'll send that along._
-1. _Homework on my side is: X, on your side: Y. Let's move async for now and schedule a follow-up for later this week._
+1. *I'll need to do some additional research on that and follow-up with you in the ticket.*
+1. *To the best of my knowledge, the answer is X - but let me confer with a subject matter expert and get back to you.*
+1. *At this juncture we've made some good progress, but there are some outstanding questions that need follow-up. Let's move back to the ticket, and once I've got a bit more information I'll send that along.*
+1. *Homework on my side is: X, on your side: Y. Let's move async for now and schedule a follow-up for later this week.*
 
 ### Pre-call email
 
@@ -212,18 +213,18 @@ Please consider sending a pre-call email. This helps set expectations to the cal
 the people required to be on the call for effective troubleshooting. You can use the [`Support::Self-Managed::Pre customer call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360086318253) macro in Zendesk
 for that, please modify it as you see fit.
 
-### Tips to keep calls within the scheduled time:
+### Tips to keep calls within the scheduled time
 
-* Set expectations (again) at the start of the call:
+- Set expectations (again) at the start of the call:
    1. Call duration will be X
    1. 5-15 minutes before the end time, call wrap up will happen (below)
    1. Will need access to applicable systems
-* At wrap-up time: 
+- At wrap-up time:
    1. Start to wind down the call
-* Stop the call and review progress and status (solved, not solved more info needed)
+- Stop the call and review progress and status (solved, not solved more info needed)
    1. Solvable in the next few minutes
    1. Need to research/schedule additional call
-* Review
+- Review
    1. Summary of what was learned
    1. Next steps for GitLab Support Engineer
    1. Next steps for user
@@ -232,7 +233,6 @@ for that, please modify it as you see fit.
 Example:
 
 > Today we're going to be looking at the configuration of your object storage for attachments. In the ticket you were able to provide the `values.yaml` for the deployment and we were able to capture some errors for viewing attachments. We were also able to verify that attachments were correctly being stored in S3. We haven't been able to verify if the IAM roles you're using have appropriate permissions to retrieve objects. We're going to spend 30 min. today running through a few scenarios that I've detailed in the ticket.
-
 
 ## Tips for making calls successful
 
@@ -243,13 +243,13 @@ Example:
    - look things up in the docs live on the call
    - move async to [request help from development](/handbook/support/workflows/how-to-get-help.html#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team) or a peer
    - try something in your own environment or (if it's safe) in the customer's environment
-1. **Adapt your tactics to the situation**: Large calls with many teams represented require a different level of formality and precision than a single engineer on a lower priority case. 
+1. **Adapt your tactics to the situation**: Large calls with many teams represented require a different level of formality and precision than a single engineer on a lower priority case.
 
 ### Ending calls gracefully
 
 Setting context and expectations before you start the call is the best way to a graceful exit. Review [tips to keep calls within the scheduled time](#tips-to-keep-calls-within-the-scheduled-time) for some tips on handling the overall call flow.
 
-Some calls _can_ be difficult to exit though:
+Some calls *can* be difficult to exit though:
 
 - The customer has an unrelated topic to discuss
 - A delay on the customer side has resulted in the call time not being long enough
@@ -267,10 +267,11 @@ Overall: communicate that the customer can trust you and that you are proactivel
 
 A customer who has an understanding of what work will happen next and has secured commitments from you (that you will fulfill) for how you'll engage in the future will feel taken care of.
 
-### Getting manager help 
+### Getting manager help
 
 Managers can be called in by [paging the on-call manager](/handbook/support/on-call/#paging-the-on-call-manager) or tagging them in Slack if:
-- a call can't be ended gracefully 
+
+- a call can't be ended gracefully
 - the customer is being abusive / bullying
 - there is another situation that requires urgent manager involvement
 
@@ -313,7 +314,7 @@ For some customers, only Cisco systems are allowed and in those cases, WebEx wil
 
 Once logged in, click the `Enter Room` button to start the WebEx meeting and send the following link to the customer and ask them to join the call.
 
-```
+```text
 https://gitlabmeetings.webex.com/meet/gitlabsupport
 ```
 
@@ -344,6 +345,7 @@ See more tips about video, environment and dress on our [communication page](/ha
 [You're strongly encouraged to use a headset with a microphone](/handbook/communication/#headphones).
 
 See more tips on our [All Remote Workspace page](/company/culture/all-remote/workspace/)
+
 - [About Headphones](/company/culture/all-remote/workspace/#headphones)
 - [About Microphones](/company/culture/all-remote/workspace/#microphone)
 

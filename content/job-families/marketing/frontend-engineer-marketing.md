@@ -74,7 +74,6 @@ The Senior Frontend Engineer is a [grade 7](https://about.gitlab.com/handbook/to
 - Critical decision making, and knowing what will have the biggest business impact when prioritizing.
 - Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems.
 
-
 ### Manager, Engineering
 
 The Manager, Engineering reports the the [Director, Digital Experience](/job-families/marketing/digital-experience/#director-of-digital-experience).

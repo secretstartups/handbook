@@ -1,16 +1,8 @@
 ---
-layout: handbook-page-toc
 title: Using Kibana
 description: "Information on what Kibana is, how to search it, interpret its results, and tips and tricks for getting specific information from it."
 category: Infrastructure for troubleshooting
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Overview
 
@@ -111,13 +103,13 @@ To see a list of projects deleted as part of a (sub)group deletion, in sidekiq:
 
 #### Viewed CI/CD Variables
 
-While we do not specifically log _changes_ made to CI/CD variables in our [audit logs for group events](https://docs.gitlab.com/ee/administration/audit_events.html#group-events), there is a way to use Kibana to see who may have viewed the variables page. Viewing the variables page is required to change the variables in question. While this does _not_ necessarily indicate someone who has viewed the page in question has made changes to the variables, it should help to narrow down the list of potential users who could have done so. (If you'd like us to log these changes, we have [an issue open here to collect your comments](https://gitlab.com/gitlab-org/gitlab/-/issues/8070).)
+While we do not specifically log *changes* made to CI/CD variables in our [audit logs for group events](https://docs.gitlab.com/ee/administration/audit_events.html#group-events), there is a way to use Kibana to see who may have viewed the variables page. Viewing the variables page is required to change the variables in question. While this does *not* necessarily indicate someone who has viewed the page in question has made changes to the variables, it should help to narrow down the list of potential users who could have done so. (If you'd like us to log these changes, we have [an issue open here to collect your comments](https://gitlab.com/gitlab-org/gitlab/-/issues/8070).)
 
 1. Set a filter for `json.path` `is` and then enter the full path of the associated project in question, followed by `/-/variables`. For example, if I had a project named `tanuki-rules`, I would enter `tanuki-rules/-/variables`.
-2. Set the date in Kibana to the range in which you believe a change was made.
-3. You should be able to then view anyone accessing that page within that time frame. The `json.meta.user` should show the user's username and the `json.time` should show the timestamp during which the page was accessed.
-4. You may also be able to search by `json.graphql.operation_name` `is` `getProjectVariables`.
-5. In general, a result in the `json.action` field that returns `update` and `json.controller` returning `Projects::VariablesController` is likely to mean that an update was done to the variables.
+1. Set the date in Kibana to the range in which you believe a change was made.
+1. You should be able to then view anyone accessing that page within that time frame. The `json.meta.user` should show the user's username and the `json.time` should show the timestamp during which the page was accessed.
+1. You may also be able to search by `json.graphql.operation_name` `is` `getProjectVariables`.
+1. In general, a result in the `json.action` field that returns `update` and `json.controller` returning `Projects::VariablesController` is likely to mean that an update was done to the variables.
 
 #### Find Problems with Let's Encrypt Certificates
 
@@ -165,8 +157,6 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 
 ##### Enable SSO Enforcement
 
-{:.no_toc}
-
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.controller` for `Groups::SamlProvidersController`.
 1. Add a positive filter on `json.action` for `update`.
@@ -175,8 +165,6 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"1\"` is present, that entry was logged when SSO Enforcement was enabled by the user in the `json.username` field.
 
 ##### Disable SSO Enforcement
-
-{:.no_toc}
 
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.controller` for `Groups::SamlProvidersController`.
@@ -202,7 +190,7 @@ Kibana can be used to determine whether a container registry tag was deleted, wh
 
 To find the log entry in `pubsub-rails-inf-gprd-*`:
 
-1. Get the link for the container registry in question. (For exmaple: https://gitlab.example.com/group/project/container_registry/<ContainerRepository>)
+1. Get the link for the container registry in question. (For exmaple: <https://gitlab.example.com/group/project/container_registry/><ContainerRepository>)
 1. Set the date range to a value that you believe will contain the result. Set it to `Last 7 days` if you're unsure.
 1. Add a positive filter on `json.graphql.variables` for `*ContainerRepository/<regitsry id>.*`.
 1. Add a positive filter on `json.graphql.operation_name` for `destroyContainerRepositoryTags`.
@@ -244,6 +232,7 @@ Customers will sometimes give us an IP Range of their resources such as their Ku
   }
 }
 ```
+
 1. Click Save to perform your query.
 
 Note that depending on the range, this operation may be expensive so it is best to first narrow down your date range first.

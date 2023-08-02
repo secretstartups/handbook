@@ -2,7 +2,7 @@
 title: "GitLab Web IDE"
 ---
 
-Website: https://docs.gitlab.com/ee/user/project/web_ide/
+Website: <https://docs.gitlab.com/ee/user/project/web_ide/>
 
 Best for: Editing directly from the GitLab web UI
 

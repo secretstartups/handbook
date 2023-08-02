@@ -22,7 +22,6 @@ The Reference Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 
-
 ### Responsibilities
 
 - Help manage the GitLab worldwide customer reference program, working cross-functionally between sales, customer success, product, and marketing teams to identify, develop, and engage reference customers.
@@ -40,7 +39,6 @@ The Reference Program Manager is a [grade 6](https://about.gitlab.com/handbook/t
 - Help define customer reference metrics/goals/benchmarks and track/report progress against them.
 - Report outcome metrics for strategic customer engagement, and foster and promote long-term, mutually beneficial customer relationships.
 
-
 ## Associate Reference Program Manager
 
 As GitLab continues to grow, so will customer reference program support needs, requiring we attract and retain talented professionals from a wide range of experience types and levels to join our team. Professionals who happen to be at an earlier stage in their career, newer to the enterprise software industry, or newer to the Customer Reference Manager role have a great deal to bring to the Market Research and Customer Insights team joining as Associate Reference Program Manager. This position will typically focus on a variable subset of Customer Reference Manager activities and provides the opportunity for significant career development. The Associate Reference Program Manager will report into the Manager, Market Research and Customer Insights.
@@ -52,12 +50,12 @@ The Associate Reference Program Manager is a [grade 5](https://about.gitlab.com/
 ### Requirements
 
 This role requires all of the Reference Program Manager requirements listed above, amended with the following adjusted experience expectations:
+
 - 2+ years of experience in a professional capacity. Experience in similar roles, industries, and responsibilities is a plus.
 
 ### Responsibilities
 
 This role requires the ability to support any or all of the Reference Program Manager responsibilities listed above as needed.
-
 
 ## Senior Reference Program Manager
 
@@ -70,6 +68,7 @@ The Senior Reference Program Manager is a [grade 7](https://about.gitlab.com/han
 ### Requirements
 
 This role includes all of the requirements above, plus:
+
 - 5+ years of specific, significant experience in a Reference Program Manager role in enterprise software.
 - Proven ability to build and drive a budget and forecast spend.
 - Specific experience in managing Customer Advisory Boards and/or similar executive-level programs.
@@ -78,6 +77,7 @@ This role includes all of the requirements above, plus:
 ### Responsibilities
 
 This role includes all of the responsibilities above, plus:
+
 - Be a leader in working cross-functionally to drive the execution of Customer Reference plans, aligning with other areas of marketing.
 - Driving negotiations with supporting vendors and related firms to consistently optimize spend.
 - Be willing to act as a Senior leader on the Market Research and Customer Insights team, mentoring and guiding Reference Program Managers.
@@ -94,6 +94,7 @@ The Staff Reference Program Manager is a [grade 8](https://about.gitlab.com/hand
 ### Requirements
 
 This role includes all of the requirements above, plus:
+
 - Strong analytical skills and proven ability to use data to optimize program performance and inform future strategies.
 - Plan and operate in a transparent manner for cross-organizational visibility and be a leader in sharing best practices with other Market Research and Customer Insights team members.
 - Experience organizing executive customer events that both support key customers and provide insights back into all applicable business activities.
@@ -103,6 +104,7 @@ This role includes all of the requirements above, plus:
 ### Responsibilities
 
 This role includes all of the responsibilities above, plus:
+
 - 10+ years specific, significant experience in an industry Customer Reference role in enterprise software.
 - Ability to easily transition from high level strategic thinking to creative and detailed execution.
 - Excellent communicator with proven ability to clearly convey ideas and data in written and verbal presentations to a variety of audiences.

@@ -1,17 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Mechanizer 
 category: CustomersDot
 description: How to use the mechanizer for L&R requests. 
 ---
 
-{::options parse_block_html="true" /}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
 
 ## Overview
 
@@ -38,11 +34,11 @@ Allows setting additional compute minutes to a customer namespace to the value s
 The form has two required fields:
 
 - **Namespace**: The customer namespace as it appears in the URL.
-- **Extra minutes**: The value of compute minutes to add. (_**Note:** This will update the 'Additional Minutes' value._ )
+- **Extra minutes**: The value of compute minutes to add. (***Note:** This will update the 'Additional Minutes' value.* )
 
 ### Enable compute minutes
 
-_Currently labeled: `Enable CI Minutes` in the ZD Mechanizer App._
+*Currently labeled: `Enable CI Minutes` in the ZD Mechanizer App.*
 
 Remove the restrictions for using compute minutes for groups who are part of a sales assisted trial.
 
@@ -70,7 +66,7 @@ Please note that in order to extend or renew a trial, the customer **MUST** have
 
 These two  fields are mandatory:
 
-- **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please confirm through your own observation and through communication with Sales, the CSM, or the customer that the namespace is the one with the subscription or trial to be updated.
+- **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at <http://gitlab.com/gitlab-com> then the namespace would be `gitlab-com`. Please confirm through your own observation and through communication with Sales, the CSM, or the customer that the namespace is the one with the subscription or trial to be updated.
 - **Plan**: The subscription plan that you would like applied for the customer's group.  If the `free` option is selected, the customer's namespace will immediately be downgraded and the trial or subscription ended.
 
 These two fields are optional:
@@ -83,6 +79,7 @@ Required to "extend" a subscription:
 - **Subscription name**: The name of the existing (active or expired) subscription tied to the namespace.
 
 ### Clear Subscription
+
 Unlink a group from a subscription. Note: The group will be downgraded to Free if the subscription being unlinked is a Premium or Ultimate subscription or trial.
 
 - **Subscription name:** The subscription to be removed from a namespace.
@@ -98,14 +95,14 @@ Uses the `unlink_customer` function.
 ### Emergency license generation
 
 Generates a legacy Ultimate trial license valid for 10 days and emails it to the customer email specified in the form.
-The use of this feature should be limited for any emergency license requests when L&R is unavailable, such as during the weekends. 
+The use of this feature should be limited for any emergency license requests when L&R is unavailable, such as during the weekends.
 
 - **Customer email:** The email where the license will be sent. We recommend sending the license to the ticket requester's email, unless specified otherwise.
-- **User count:** Total number of users in the license. 
+- **User count:** Total number of users in the license.
 
 A note on **User Count**:
 
-For Self-Managed licences, GitLab will refuse to install a license key with less than the current number of billable users. Therefore, **User Count** for a trial license should _at least_ be the same number as the current number of billable users plus any true-ups owed (if any).  For example, if 25 current billable users, and 5 true-ups owed, set **User Count** to at least 30.
+For Self-Managed licences, GitLab will refuse to install a license key with less than the current number of billable users. Therefore, **User Count** for a trial license should *at least* be the same number as the current number of billable users plus any true-ups owed (if any).  For example, if 25 current billable users, and 5 true-ups owed, set **User Count** to at least 30.
 
 ### Add storage to a namespace
 
@@ -119,9 +116,8 @@ Sets additional storage for a namespace to the value specified in the `Extra sto
 Modifies the highest number of seats used on the namespace during the current subscription term.  
 
 #### Note
+
 This will change the total seats owed in the GitLab.com subscription. Before using this option check with a support manager.
 
 - **Namespace:** The customer namespace as it appears in the URL.
 - **Max Seats number:** New value for max seats.
-
-

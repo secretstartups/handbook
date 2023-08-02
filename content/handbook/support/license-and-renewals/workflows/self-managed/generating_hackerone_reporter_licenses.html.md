@@ -5,9 +5,6 @@ description: "How to generate a license for Hacker One reporter award recipients
 category: GitLab Self-Managed licenses
 ---
 
-{:.no_toc}
-
-----
 
 ## Overview
 

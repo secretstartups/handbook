@@ -56,6 +56,7 @@ The next step in the IT Systems Engineer job family is to move to the [VP, IT](/
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below.
+
 1. Screening call with a team member from our recruiting team.
 1. Interview with Manager, IT
 1. Interview with Senior Director, Data and Analytics or Senior Director, Enterprise Applications.
@@ -64,4 +65,3 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Please note that a candidate may declined from the position at any stage of the process.
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

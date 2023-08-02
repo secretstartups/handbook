@@ -99,6 +99,7 @@ The Principal Industry Analyst Relations is responsible for executing the strate
 #### Principal Analyst Relations Manager Responsibilities
 
 Strategy & Operations
+
 - Support the analyst relations strategy and a variety of research and independent analyst relationships that influence GitLab’s success
 - Execute  analyst relations projects and create, maintain and influence analyst relationships that contribute to the overall success of the team
 - Deliver on-going AR program activities such as analyst briefings, analyst inquiries, reporting and other core program tactics
@@ -111,15 +112,16 @@ Strategy & Operations
 - Provide constructive guidance on briefing decks, questionnaires, and analyst Q&A to GitLab spokespeople
 
 Measurement & Reporting
+
 - Execute AR reporting and measurement programs
 - Track and report analyst interactions, coverage, and progress
 - Develop and manage an internal analyst relations newsletter
 - Read, distribute and provide insight on relevant published research to teams across GitLab
 
 Events
+
 - Execute Gartner Peer Insights reviews sourcing activities at trade shows, conferences, and GitLab events.
 - Proactively secure and staff briefings at industry conferences and events
-
 
 #### Principal Analyst Relations Manager Requirements
 
@@ -142,6 +144,7 @@ The Director of Industry Analyst Relations is responsible for the strategy and i
 #### Director of Industry Analyst Relations Responsibilities
 
 Strategy
+
 - Develop, execute, and manage the company’s industry analyst relations strategy and plan to support measurable business objectives.
 - Establish key KPIs, strategy, and industry benchmarks to position GitLab as a leader across markets and in industry analyst reports, hype cycles and through inbound inquiries.
 - Drive alignment with sales, marketing, and product teams to maximize program impact.
@@ -149,6 +152,7 @@ Strategy
 - Establish and maintain regular communication with analysts and influencers via multiple channels, which you will develop, to engage and educate these audiences on GitLab’s strategy, roadmap, and product updates.
 
 Operations
+
 - Manage all AR operations, including rationalizing agreements and budgets to support consistent analyst strategy days, quarterly briefings, inbound and outbound inquiries, and research requests. Ensure that contracted services are fully utilized.
 - Plan, schedule, and manage analyst program activities such as participation in analyst research, conferences, advisory events, demos, briefings, inquiries, and reporting.
 - Prioritize and manage incoming analyst requests for information, research support, research review, customer references, and event speakers.Respond to, serve, and manage internal requests for industry analyst interactions, publications, research, events support and other requests.
@@ -156,6 +160,7 @@ Operations
 - Ensure analyst advice is communicated to key internal stakeholders and that assets mentioning GitLab are leveraged appropriately to help build market awareness, drive demand, and enable the selling process.
 
 Gartner Peer Insights
+
 - Develop and manage a Gartner Peer Insights center of excellence in partnership with product and product marketing, customer advocacy, sales, and community leadership.
 
 #### Director of Analyst Relations Requirements
@@ -169,7 +174,6 @@ Gartner Peer Insights
 - Excellent project and time management skills
 - Proven clear and effective communication with technical and business leaders at all levels within large enterprises and across product, product marketing, and sales organizations
 - Ability to travel to GitLab events and industry tradeshows and conferences (up to 20%)
-
 
 ## Career Ladder
 

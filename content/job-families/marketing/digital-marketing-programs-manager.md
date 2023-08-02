@@ -20,7 +20,6 @@ The Digital Marketing Manager works under the Demand Generation team and is resp
 - Research marketing trends to continually innovate and test new lead generation approaches
 - Effectively communicate campaign strategy, plans and performance across key stakeholders and executives
 
-
 ## Levels
 
 #### Digital Marketing Manager

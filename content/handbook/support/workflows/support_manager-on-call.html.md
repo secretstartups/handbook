@@ -1,14 +1,8 @@
 ---
-layout: markdown_page
 title: How to be a Support Manager On-call
 category: On-call
 description: "Describes the role and responsibilities for the Support Managers rotation in Support Engineering"
 ---
-
-- TOC
-{:toc}
-
-----
 
 ## Introduction
 
@@ -28,7 +22,6 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. Ensure any ticket or call regional handover requests [you are mentioned on](/handbook/support/workflows/working-on-tickets.html#assigning-a-ticket-with-a-different-preferred-region), gets an assignee in your region
 
 **Note:** You (or the CMOC/CEOC) may sometimes be required to contact GitLab users on behalf of another GitLab team (such as the SIRT team). Please follow the [Sending Notices workflow](/handbook/support/workflows/sending_notices.html) to action these requests.
-
 
 ## Handling customer emergencies and incidents
 
@@ -51,21 +44,23 @@ See more examples of [situations that might be emergencies](/handbook/support/wo
 
 ### FY23Q4-FY24Q1 Trial - Paging backup engineers on weekends in APAC
 
-During FY23Q4-FY24Q1, the APAC region will be trialling a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs. 
+During FY23Q4-FY24Q1, the APAC region will be trialling a pool of [**backup engineers**](/handbook/support/workflows/customer_emergencies_workflows.html) that are available to reach out to during the weekend on-call hours, in the event that a concurrent emergency occurs.
 
 If you are the Support Manager on-call and a concurrent emergency occurs, you will be paged by the Support Engineer On-call escalated via Pagerduty. You will then be responsible for checking the current situation and determining if the **backup engineers** need to be paged. If so, the Support Manager will then **manually page** the **backup engineers**. At this point, the backup engineers are all pinged. Only one backup engineer needs to acknowledge the page and lend assistance, and there is no expectation that **backup engineers** will be available to respond to a page.
 
-To page the backup pool, you can: 
-1. Use the `/pd trigger` command in any Slack channel to create a new incident to notify the current list of support engineers; or 
-2. Create a `+ New Incident` directly in PagerDuty. 
+To page the backup pool, you can:
 
-When prompted, update: 
-* **Impacted Service:** Customer Emergencies - APAC Backup Pool 
-* **Title:** Duplicate emergency - ZD#123456
-* **Description:** Provide a brief summary of the emergency. 
-* _Leave Assign To: and Priority: blank._
+1. Use the `/pd trigger` command in any Slack channel to create a new incident to notify the current list of support engineers; or
+1. Create a `+ New Incident` directly in PagerDuty.
 
-_For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583)._
+When prompted, update:
+
+- **Impacted Service:** Customer Emergencies - APAC Backup Pool
+- **Title:** Duplicate emergency - ZD#123456
+- **Description:** Provide a brief summary of the emergency.
+- *Leave Assign To: and Priority: blank.*
+
+*For further details, please refer to [STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583).*
 
 ## Handling Support Ticket Attention Requests during business hours
 
@@ -101,14 +96,14 @@ Some steps of STAR treatment are handled by bots and auto-responders. The text `
    - Questions to the initiator can be put in Slack (synchronous) or in the STAR Issue (asynchronous).
    - Final dispensation should be documented in the STAR Issue, because Slack history disappears.
 1. If you need input or help from engineers, initiate a new thread in `#support_gitlab-com`, `#support_self-managed` or `#support_licensing-subscription`. Then return to the thread in `#support_ticket-attention-requests` and comment that all **technical** discussion is happening in the ticket (or in the new thread). This helps ensure all technical discussion stays in one channel/thread.
-   - When seeking an engineer to act as the DRI or otherwise move the ticket forward, it is best to identify a Support Engineer who is not on-call or already working on a starred ticket. This helps to ensure that the engineer who assists with the new starred ticket has enough bandwidth to prioritize it. 
+   - When seeking an engineer to act as the DRI or otherwise move the ticket forward, it is best to identify a Support Engineer who is not on-call or already working on a starred ticket. This helps to ensure that the engineer who assists with the new starred ticket has enough bandwidth to prioritize it.
 1. [Resolve the STAR thread](#resolving-a-star).
 
 ### Unstarring a ticket - rejecting the request for additional attention
 
 There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
 
-### Resolving a STAR 
+### Resolving a STAR
 
 A STAR is considered resolved when the correct next-step is identified and underway; it does not require the Zendesk ticket to be Solved or Closed.
 
@@ -126,6 +121,7 @@ Mid-ticket feedback link -- each Public Comment from a GitLab Support Engineer o
 This feedback form creates issues in the customer feedback project, with a subject format of **Positive/Negative/Neutral feedback for ticket nnnnnn**, and is automatically assigned to the **SSAT reviewing manager**.
 If the feedback is negative, there is an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, a Slack notification is sent to the #support_ticket-attention-requests channel.
 The following action should be taken promptly:
+
 1. Review feedback and ticket information and consider how urgent a reply is required. The reply should occur within 48hrs Mon-Fri. Replying sooner could prevent further customer frustration and a STAR or emergency situation.
 1. Reply via the ticket or email, as appropriate, sharing next steps and offer your Calendly link to schedule a video call.
 1. Remain as DRI until the ticket is back on track.
@@ -133,8 +129,7 @@ The following action should be taken promptly:
    1. Add the text of any communication as a comment in the Feedback Issue.
    1. Apply the label ~ssat-manager-contacted-customer.
    1. /close the Feedback Issue; followup continues via previously chosen communication method.
-   1. After closing the Issue, if there are any additional actions that arise from your interaction with the customer, go back and note them in the Feedback Issue. 
-  
+   1. After closing the Issue, if there are any additional actions that arise from your interaction with the customer, go back and note them in the Feedback Issue.
 
 ## Act as a notification point for security incidents
 
@@ -147,10 +142,10 @@ When GitLab experiences a [security incident](/handbook/security/security-operat
 #### Example situations and potential solutions
 
 - User requesting Upgrade Assistance outside of [GitLab Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours)
-   - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accommodate the day/time being requested
-   - Work with the end user to reschedule for another date/time that is more amenable to support staffing
+  - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accommodate the day/time being requested
+  - Work with the end user to reschedule for another date/time that is more amenable to support staffing
 - Last minute change in assignee availability
-   - Work with available team members to determine if the upgrade assistance can be transferred to a new engineer and communicate the change(s) to the end user for awareness
+  - Work with available team members to determine if the upgrade assistance can be transferred to a new engineer and communicate the change(s) to the end user for awareness
 
 ## Reassigning or swapping your on-call shift
 
@@ -186,23 +181,20 @@ according to your judgment. If you need help or advice, don't hesitate to [escal
 
 ### Compromised instances
 
-We advise Support Engineers to contact a Support Manager before offering a call in the case of a [compromised instance](/handbook/support/workflows/customer_emergencies_workflows.html#compromised-instances). 
+We advise Support Engineers to contact a Support Manager before offering a call in the case of a [compromised instance](/handbook/support/workflows/customer_emergencies_workflows.html#compromised-instances).
 
 Support's role in these cases is to help the customer get to a good, known working state as quickly as possible. The fastest route will be to restore to a previously known good state (most often by restoring from a backup). Customers with an instance in this state will have other concerns though, and likely be in a heightened emotional state:
-- How did this happen? (Which we may or may not easily be able to answer, and they should do this forensic analysis _after_ they have restored.)
+
+- How did this happen? (Which we may or may not easily be able to answer, and they should do this forensic analysis *after* they have restored.)
 - How can we recover from this without restoring? (They can't "safely". We advise a restore to have 100% confidence in their environment.)
 - What data was accessed? (This is always a challenging question, and if the compromise was led by a human, they may have covered their tracks. We may never have full knowledge. They should start restoring ASAP, and do forensics after.)
 
-If moving towards a call is the right thing to do, consider joining the call _before_ (or instead of) the engineer to communicate the scope of what can be accomplished. 
+If moving towards a call is the right thing to do, consider joining the call *before* (or instead of) the engineer to communicate the scope of what can be accomplished.
 
 Example framework for a call we establish (or a bridge call the customer is leading):
 
 > Hi `customer`. Based on the ticket it sounds likely that your instance is compromised. In cases like these we've prepared a set of best practices ([GitLab internal link](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Incident/Compromised%20Instance.yaml)) to help you get back up and running as quickly as possible. We're here to support and advise where GitLab is concerned. Unfortunately, GitLab cannot provide a one-size-fits-all solution or comprehensive checklist to completely secure a server that has been compromised. GitLab recommends following your organization's established incident response plan whenever possible.
-
-> The first step is to shut down the instance, create a new one at the same version, and restore your most recent backup. This ensures you are operating on a "clean" environment, where you have confidence that all the software installed is unmodified. Please get that process started;  we are monitoring this ticket with HIGH priority. If you have any problems getting set up or restoring, please let us know in the ticket immediately. 
-
+> The first step is to shut down the instance, create a new one at the same version, and restore your most recent backup. This ensures you are operating on a "clean" environment, where you have confidence that all the software installed is unmodified. Please get that process started;  we are monitoring this ticket with HIGH priority. If you have any problems getting set up or restoring, please let us know in the ticket immediately.
 > After your new instance is set up, you need to upgrade to a more recent version of GitLab before you expose this server to the public Internet. If you have any trouble with the upgrade process, let us know in the ticket immediately.
-
 > Finally, as described in the recovery guide previously sent (should have been shared in the ticket via the [Compromised Instance Zendesk macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Incident/Compromised%20Instance.yaml), you should do an audit of the integrity of GitLab itself: checking for any users, code, webhooks, runners or other settings that you did not enable yourselves. If you have any questions, please let us know in the ticket.
-
 > I'm going to leave the call now, but rest assured that we're on standby and ready to help as you work through this.

@@ -263,14 +263,12 @@ Career progression for this role can take many forms.  This team member receives
 
 Within this department, this team member would take on more strategic projects that continue to drive value for our channel partners. Projects that offer exposure into sales and sales leadership and have a measurable effect on revenue. A natural next step for the right person could include people management.
 
-
 ### Hiring Process
 
 Candidates for these positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Upon successful screening, all candidates will be interviewed by two individual contributors for 30 min each.  One from the global channel and alliances marketing team.  That interview will focus on sharing team culture, team dynamics, and role clarity.  The other individual contributor interview will be someone from Channel or Alliances sales that is be peer of this candidate.  This interview focuses on the candidates relative experience and it's applicability to the role.
 - The final interview will be with the Director of Global Channels and Alliances marketing who will focus on the candidates applicable experience and ensure it's in alignment with the needs of the business.  This interview will last 45 minutes.  The Director of Global Channels and Alliances marketing is deeply focused on building a team with a diverse skill set so the team can learn and grow together.  Softer skills will be assessed to see how the best candidate can add to the existing teams skill set as well as grow from their experience.
-
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

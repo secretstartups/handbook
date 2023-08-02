@@ -6,7 +6,6 @@ Machine Learning (ML) Engineers at GitLab develop and implement models to suppor
 
 Engineers work as part of a team in the Data Science section, and collaborate with counterparts across Product, Engineering, UX and Data, and work closely with Backend, Frontend, and Fullstack engineers to integrate their work into GitLab.
 
-
 ## Levels
 
 - [Associate Machine Learning Engineer](#associate-machine-learning-engineer)
@@ -140,7 +139,7 @@ The following extend the main [requirements](#requirements) for this role.
 
 The Engineering Manager in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Engineering Manager Machine Learning Responsibilites:
+### Engineering Manager Machine Learning Responsibilites
 
 - Leverage their knowledge to lead teams of machine learning engineers and other engineers to tune, train, and create unique ML models, test 3rd party models using decision science, and create/maintain components to apply machine learning to the GitLab product
 - Lead teams at GitLab develop and implement models to support and enable experimental, beta, and generally available AI features in GitLab.
@@ -158,7 +157,7 @@ Standard [Engineering Manager requirements](/job-families/engineering/developmen
 - 2 years or more experience in a leadership role with current technical experience
 - In-depth technical experience in at least one of the core languages, frameworks, or technologies used by your team
 - Familiarity with other functional areas of your team
-- Any additional experience required by the position's [specialty](#specialties)
+- Any additional experience required by the position's specialty
 - Excellent written and verbal communication skills
 - You share our [values](/handbook/values/), and work in accordance with those values
 
@@ -184,6 +183,7 @@ For more details on the engineering career ladders, please review the [engineeri
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 For Individual Contributors:

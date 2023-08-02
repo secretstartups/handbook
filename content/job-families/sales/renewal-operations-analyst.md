@@ -83,9 +83,9 @@ The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handboo
 - Progressive years leading Renewals and/or Operations teams
 - Experience driving systems & tools related projects and enhancements
 - Comfort with tools that create and house our data:
-   - Salesforce: experience creating complex dashboards & reports, custom report types, calculated fields, workflows
-   - Salesforce CPQ, Zuora, or other CPQ/Q2C tools
-   - Sisense, Tableau, or other analysis / business intelligence software
+  - Salesforce: experience creating complex dashboards & reports, custom report types, calculated fields, workflows
+  - Salesforce CPQ, Zuora, or other CPQ/Q2C tools
+  - Sisense, Tableau, or other analysis / business intelligence software
 - Experience with direct and channel renewal sales motions
 - Exceptional quantitative and spreadsheet skills
 - Excellent written and verbal communication skills
@@ -99,11 +99,9 @@ The  Manager, Renewal Operations is a [grade 8](https://about.gitlab.com/handboo
 - Experience with agile/DevOps and/or SDLC process and/or tools is a plus
 - Leadership at GitLab
 
-
 #### Senior Manager, Renewal Operations Job Grade
 
 The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 
 #### Senior Manager, Renewal Operations Responsibilities
 
@@ -114,7 +112,6 @@ The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/h
 - Develop and execute operational plan and key business operational priorities in conjunction with WW renewal leadership (e.g optimization of resource utilization and productivity)
 - Act as the liaison between Field Operations, Finance, and regional leadership teams, ensuring global initiatives and programs are communicated, aligned, implemented and measured in region, and bi-directional knowledge sharing drives global best practice
 - Build executive presentations (e.g. quarterly business reviews), crafting the messages in collaboration with go to market leadership)
-
 
 #### Senior Manager, Renewal Operations Requirements
 
@@ -127,7 +124,6 @@ The Senior Manager, Renewal Operations is a [grade 9](https://about.gitlab.com/h
 - Experience working in Global markets
 - Ability to tackle very “open ended” topics where you first need to figure out what questions you really need to answer
 - Extensive experience planning (capacity, performance) and deploying both business and technical initiatives Demonstrable ability to see beyond the numbers to drive sound decision-making
-
 
 ## Performance Indicators
 

@@ -56,7 +56,7 @@ Any team member can use the self service instructions below to provision an AWS 
 1. Visit [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud) and sign in with your Okta account.
 1. Navigate to **Cloud Infrastructure** in the top navigation.
 1. Click the purple **Create Individual Account** button.
-1. Choose the _cloud provider_ and _cloud organization unit_ from the dropdown menu. **If no options are present in the dropdown list for the organization unit, your department has not been created in our database yet due to a department name change or addition in the HRIS. Please ask in `#sandbox-cloud-questions` to have it added.**
+1. Choose the *cloud provider* and *cloud organization unit* from the dropdown menu. **If no options are present in the dropdown list for the organization unit, your department has not been created in our database yet due to a department name change or addition in the HRIS. Please ask in `#sandbox-cloud-questions` to have it added.**
 1. Click the green **Create Account** button.
 1. Your account will take 2-5 minutes for the AWS API to finish the provisioning process while the AWS services are activated for your account.
 1. Please refresh your browser window every ~60 seconds until you see that your user account has changed from `Provisioning` to `Active`.
@@ -119,7 +119,7 @@ Self-hosted application infrastructure is determined on a case-by-case basis and
 1. You will see the `AWS Console URL`, `Username`, and `Password` that you can use to sign in to your AWS account. The 12 digit number at the beginning of the URL is your AWS Account ID/Number.
 1. Create a new 1Password record in your Private vault to save these credentials.
 1. You can click on the link to open the AWS console, or you can close the modal window and click the `Open AWS Web Console` button on the `Cloud Account` details page.
-1. Use the provided **URL**, **Username**, and **Password** to sign in to your new AWS account. _Be careful that your browser doesn't autofill saved credentials for a different account._
+1. Use the provided **URL**, **Username**, and **Password** to sign in to your new AWS account. *Be careful that your browser doesn't autofill saved credentials for a different account.*
 1. After you sign in, you should navigate to IAM and add a Virtual MFA device for your user account and add a One-Time Password (OTP) to your 1Password record.
 1. Your IAM user account has `AdministratorAccess` to be able to perform any action inside of your AWS account. We do not provide team members access to the `root` user account since we only use this for break glass security incidents or related administrative activity by the [Infrastructure Realm Owners](https://about.gitlab.com/handbook/infrastructure-standards/#realm-owners).
 
@@ -155,23 +155,23 @@ In the [HackyStack v1.11 (November 2021) release](https://gitlab.com/gitlab-com/
 #### How to Create a Terraform Environment
 
 1. Sign into [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud)
-2. Create a Cloud Account in GCP (GCP Project) or navigate to an existing project.
-3. Click the **Create Terraform Environment** button and fill out the form:
+1. Create a Cloud Account in GCP (GCP Project) or navigate to an existing project.
+1. Click the **Create Terraform Environment** button and fill out the form:
     1. Choose your Cloud Account from the **Cloud Account** dropdown.
-    2. Choose the template you wish to use from the **Environment Template** dropdown. If this is your first time, use the `gcp-sandbox-environment-template-v2-########` template.
-    3. Input a name for your environment in the **Environment Name (Alphadash Slug)** text field.
-4. After the Environment is created, click the **View Terraform Configuration** button. This is hosted on a new GitLab instance at [https://gitops.gitlabsandbox.cloud](https://gitops.gitlabsandbox.cloud). Your GitLab instance credentials can be found in the View GitOps Credentials button modal.
+    1. Choose the template you wish to use from the **Environment Template** dropdown. If this is your first time, use the `gcp-sandbox-environment-template-v2-########` template.
+    1. Input a name for your environment in the **Environment Name (Alphadash Slug)** text field.
+1. After the Environment is created, click the **View Terraform Configuration** button. This is hosted on a new GitLab instance at [https://gitops.gitlabsandbox.cloud](https://gitops.gitlabsandbox.cloud). Your GitLab instance credentials can be found in the View GitOps Credentials button modal.
 
 #### How to Use Terraform Environments
 
 1. Sign into [https://gitops.gitlabsandbox.cloud](https://gitops.gitlabsandbox.cloud) using your generated credentials on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud). Keep in mind that this is `{firstInitial}{lastName}-{hash}` and not your normal GitLab username.
-2. Navigate to the project for the Terraform environment that you just created. You can quickly access the project from the link on the Cloud Account page on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud).
-3. Run a new CI pipeline. After the `Plan` job completes, trigger the `Deploy` job. (Notice how you haven’t had to do any configuration).
-4. Watch the `terraform apply` outputs as your new environment is spun up with a sample Ubuntu virtual machine for testing with. You can add additional Terraform resources as you see fit (see below).
-5. Navigate to the GCP console using the link on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud) to view the deployed VM. Feel free to connect to the VM via SSH using the `gcloud` command or Cloud Shell.
-6. Run the GitLab CI job for `Destroy` to clean up your resources.
-7. You can update the `terraform/main.tf` file in the Git repository to add more Terraform resources or modules.
-8. Simply run the `Deploy` CI pipeline job to deploy your resources.
+1. Navigate to the project for the Terraform environment that you just created. You can quickly access the project from the link on the Cloud Account page on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud).
+1. Run a new CI pipeline. After the `Plan` job completes, trigger the `Deploy` job. (Notice how you haven’t had to do any configuration).
+1. Watch the `terraform apply` outputs as your new environment is spun up with a sample Ubuntu virtual machine for testing with. You can add additional Terraform resources as you see fit (see below).
+1. Navigate to the GCP console using the link on [https://gitlabsandbox.cloud](https://gitlabsandbox.cloud) to view the deployed VM. Feel free to connect to the VM via SSH using the `gcloud` command or Cloud Shell.
+1. Run the GitLab CI job for `Destroy` to clean up your resources.
+1. You can update the `terraform/main.tf` file in the Git repository to add more Terraform resources or modules.
+1. Simply run the `Deploy` CI pipeline job to deploy your resources.
 
 ## Delete an AWS account or GCP project
 
@@ -211,15 +211,15 @@ We are developing HackyStack as an open source project to allow other infrastruc
 ### Technical problems that HackyStack is solving
 
 1. **Self-Service Provisioning:** Creating an "easy button" for technical users at a company to get access to an AWS account or GCP project with zero manual provisioning by the IT team.
-2. **Cloud Agnostic:** Providing a universal interface that is cloud provider agnostic so you don't need to create different architecture and provisioning processes for AWS, GCP, etc.
-3. **Hierarchy:** Defining a standard reference architecture for organizational unit hierarchy.
-4. **Auto Labeling/Tagging:** Apply labels and tags to resource for cost management, infrastructure-as-code, and security policy compliance without users needing to remember to add tags.
-5. **Billing Costs per User:** Unified billing metrics across all cloud providers on a per-user, per-account/project, and per-group/team level.
-6. **Automated Access Requests:** Supplementing single sign-on (SSO) providers with pre-auth automated group membership provisioning with seamless manager approval(s)
-7. **Automated Access Approval Provisioning:** Supplementing single sign-on (SSO) providers with post-auth provisioning of infrastructure resources in one or more provider APIs.
-8. **GitOps Infrastructure-as-Code Provisioning:** Automatically creating Git projects with Terraform infrastructure-as-code scaffolding with security best practices that use CI/CD automation.
-9. **Standardized Infrastructure-as-Code Library:** Linking to a curated library of Terraform modules for easily deploying common infrastructure elements that follow company security best practices.
-10. **Daily Workflow Cost Controls:** Slack bots and notifications for users to easily provision or destroy infrastructure and threshold cost/usage report notifications.
+1. **Cloud Agnostic:** Providing a universal interface that is cloud provider agnostic so you don't need to create different architecture and provisioning processes for AWS, GCP, etc.
+1. **Hierarchy:** Defining a standard reference architecture for organizational unit hierarchy.
+1. **Auto Labeling/Tagging:** Apply labels and tags to resource for cost management, infrastructure-as-code, and security policy compliance without users needing to remember to add tags.
+1. **Billing Costs per User:** Unified billing metrics across all cloud providers on a per-user, per-account/project, and per-group/team level.
+1. **Automated Access Requests:** Supplementing single sign-on (SSO) providers with pre-auth automated group membership provisioning with seamless manager approval(s)
+1. **Automated Access Approval Provisioning:** Supplementing single sign-on (SSO) providers with post-auth provisioning of infrastructure resources in one or more provider APIs.
+1. **GitOps Infrastructure-as-Code Provisioning:** Automatically creating Git projects with Terraform infrastructure-as-code scaffolding with security best practices that use CI/CD automation.
+1. **Standardized Infrastructure-as-Code Library:** Linking to a curated library of Terraform modules for easily deploying common infrastructure elements that follow company security best practices.
+1. **Daily Workflow Cost Controls:** Slack bots and notifications for users to easily provision or destroy infrastructure and threshold cost/usage report notifications.
 
 ### Tech Stack
 

@@ -1,18 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Log and audit requests
 description: "Overview of aggregated information which GitLab Support may provide to customers, from the gitlab.com logs. Details beyond a summary require a Security request."
 category: GitLab.com
 subcategory: Legal
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Log requests for GitLab.com
 
 Users often ask for access to GitLab.com logs, typically, due to [IP blocks](/handbook/support/workflows/ip-blocks.html), a possible security issue, or for internal auditing purposes.
 
@@ -30,7 +21,7 @@ You can consider using the [kibana workflow](handbook/support/workflows/kibana.h
 
 Requester must be a Group Owner of a pre-existing paid namespace.
 
- - Must verify that this is who is making the request and should be in alignment with support for [Enterprise Users](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#sts=Enterprise%20Users)
+- Must verify that this is who is making the request and should be in alignment with support for [Enterprise Users](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#sts=Enterprise%20Users)
 
 > NOTE: A user cannot upgrade to a paid subscription to gain access to logging requests.
 
@@ -61,7 +52,7 @@ We cannot provide the following information:
 
 ## Sending logs and other Personal Data
 
-Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled by the Security Incident Response Team (SIRT), 
+Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled by the Security Incident Response Team (SIRT),
 such as a log request, needs to be delivered compressed and password protected to the requestor with the following guidelines:
 
 - The password should be a random string of at least 10+ characters including numbers, lower and upper case letters.

@@ -4,6 +4,7 @@ summary: Lead and build our technical evangelism function to enable speaking and
 ---
 
 As Director of technical evangelism, you will be responsible for building our technical evangelism function to enable speaking and content creation/distribution with the ultimate objective of:
+
 - Building GitLab's Cloud Native thought leaderships in DevSecOps
 - Beginning conversations about GitLab as the leading cloud agnostic player
 - Increasing GitLab excitement among developers and SREs
@@ -16,29 +17,28 @@ The Director, Technical Evangelism is a [grade 10](https://about.gitlab.com/hand
 ### Responsibilities
 
 - Evangelism strategy
-    - Who are key speakers
-    - Where are we going to speak
-    - What opportunities do we need to go after
-    - What communities do we need to evangelize to
-    - Mapping evangelism to marketing and communications goals/opportunities
-    - Mapping evangelism to product output and objectives
+  - Who are key speakers
+  - Where are we going to speak
+  - What opportunities do we need to go after
+  - What communities do we need to evangelize to
+  - Mapping evangelism to marketing and communications goals/opportunities
+  - Mapping evangelism to product output and objectives
 - Evangelism execution
-    - Leading speaker's bureau by example as FT GitLab/clould native developer advocate
-    - Creating & maintainng a speaker's bureau
-    - Working with the Community Team to instigate external advocates
-    - Submitting CFP's and talk proposals
-    - Supporting speakers in Pitch, deck message creation, speaker training and best practices and logistics
+  - Leading speaker's bureau by example as FT GitLab/clould native developer advocate
+  - Creating & maintainng a speaker's bureau
+  - Working with the Community Team to instigate external advocates
+  - Submitting CFP's and talk proposals
+  - Supporting speakers in Pitch, deck message creation, speaker training and best practices and logistics
 - Evangelism activation
-    - Thinking though how to maxmimize speaking opportunities
-        - Pre-event promotion
-        - Post-event content creation & promotion
-        - Working with other marketing teams to support campaigns
-        - Partnering with Alliances to maximize cloud provider events
+  - Thinking though how to maxmimize speaking opportunities
+    - Pre-event promotion
+    - Post-event content creation & promotion
+    - Working with other marketing teams to support campaigns
+    - Partnering with Alliances to maximize cloud provider events
 - Maintain content for speakers
-    - Ensure alignment with PMM and Product messaging
+  - Ensure alignment with PMM and Product messaging
 - Player/Coach
-    - Lead Developer Advocacy for Linux Foundation umbrella group which includes CNCF
-
+  - Lead Developer Advocacy for Linux Foundation umbrella group which includes CNCF
 
 ### Requirements
 
