@@ -16,8 +16,8 @@ canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2022-12-01 |
-| Target End Date | 2023-07-31 |
-| Slack           | #wg_clickhouse_datastore (only accessible from within the company) |
+| Target End Date | 2023-12-31 |
+| Slack           | #f_clickhouse (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/1ZZ7fE7s18Yxww9wp0-lO7mFxJmwop3pWvqINCQPNubA/edit#) (only accessible from within the company) |
 | Epic            | [Link](https://gitlab.com/groups/gitlab-com/-/epics/2070) |
 | Overview & Status | See [Exit Criteria Progress](#exit-criteria-progress) |
