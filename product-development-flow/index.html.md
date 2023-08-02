@@ -159,7 +159,7 @@ If the problem is nuanced or not yet well understood, then it will likely take l
 
 #### Description
 
-After understanding and validating the problem, we can begin or continue to ideate potential solutions through a [diverge/converge](http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. However, if the outcome from the problem validation phase confidently suggests an incremental modification to the existing solution, the aforementioned diverge/converge process could be skipped.
+After understanding and validating the problem, we can begin or continue to ideate potential solutions through a [diverge/converge](https://web.archive.org/web/20210119060603/http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html) process. However, if the outcome from the problem validation phase confidently suggests an incremental modification to the existing solution, the aforementioned diverge/converge process could be skipped.
 
 The Product Designer leads the team (Product Manager, Engineering team, UX Researcher, Software Engineers in Test, and Technical Writers, as needed, depending on the item) in ideating potential solutions and exploring different approaches (diverge) before converging on a single solution. Product Managers and the Engineering team evaluate solutions by determining if they meet customer and business goals, are technically feasible, and align with legal compliance considerations. The team is encouraged to engage with stakeholders to determine potential flaws, missed use cases, potential security risks, and if the solution has the intended customer impact. 
 
