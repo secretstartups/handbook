@@ -32,7 +32,7 @@ The Deal Desk team's mission is to streamline the opportunity management process
     *   [Vendor Setup Form Process](/handbook/sales/field-operations/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
     *   [Security Questionnaire Process](/handbook/security/#process)
     *   [Troubleshooting: True Ups, Licenses + EULAS](
-https://about.gitlab.com/handbook/business-technology/business_systems/portal/troubleshooting/)
+https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
     *   [Licensing FAQ](/pricing/licensing-faq/)
     *   [Legal Authorization Matrix](/handbook/finance/authorization-matrix/)
     *   [Trade Compliance (Export/Import)](/handbook/sales/field-operations/order-processing/#trade-compliance-export--import-and-visual-compliance-tool-in-salesforce)
