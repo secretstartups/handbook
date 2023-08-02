@@ -117,10 +117,11 @@ These can then be discussed with the [Account Team](/handbook/customer-success/a
 
 The At-Risk Update description should follow the following format:
 
-1. Brief, high-level summary of the reason for the risk and our key action (1-2 sentences)
+1. Brief, high-level summary of the reason for the risk and what's needed to resolve the risk (1-2 sentences)
 1. Additional context & detail to amplify the summary, including reasons behind the cited risk driver, key people involved (customer and GitLab), and next steps being taken
 1. What's needed to mitigate the risk (where do we need to end up?)
 1. Date of the next call with the customer and/or expected date for the next update
+1. CSM Sentiment updated to reflect current health status (typically Red)
 
 Here is a sample at-risk update:
 
@@ -135,6 +136,21 @@ This format is to satisfy a few requirements:
 - Clarity of situation and action up front (leading with key details)
 - Ensure the most pertinent information is readily visible in other systems where it is synced and displayed
 - Consistency to improve async processes
+
+#### At-Risk Update for Resolution of Risk
+
+When a customer's risk has been mitigated and they are no longer at risk, the CSM creates an AT-Risk Update timeline entry communicating:
+
+1. The customer is no longer at risk
+1. Key details about what mitigated the risk
+1. What comes next
+1. CSM Sentiment updated to reflect current health status
+
+This is to ensure that everyone is aware of the latest details, and that we affirmatively communicate risk resolution across our systems and teams.
+
+Here is a sample entry for risk resolution:
+
+> CUSTOMER X is no longer at risk. We resolved their upgrade and infrastructure challenges through engagement with Support and Professional Services, and they are now on the latest GitLab version with infrastructure tested using GPT. We are now focused on CI adoption, in line with the agreed-upon success plan.
 
 ### Frequency of At Risk Timeline Entries
 
