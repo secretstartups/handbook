@@ -152,7 +152,6 @@ This role will provide business operations support for the Professional Services
 - Strong experience with the entire Google suite as well as Microsoft Excel including pivot tables, analyzing and formatting data, use of filters, and creating charts and graphs
 - Excellent communication and presentation skills
 
-
 ## Performance Indicators
 
 - [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10

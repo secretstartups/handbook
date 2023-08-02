@@ -238,8 +238,8 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Performance Indicators
 
-- https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8715519&udv=0
-- https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8729826&udv=0
+- <https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8715519&udv=0>
+- <https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8729826&udv=0>
 
 ## Career Ladder
 
@@ -256,6 +256,7 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule 1 or 2 50-minute interviews with Application Security team member peers.
 - Then, candidates will be invited to schedule a 50-minute interview with the Application Security team hiring manager.

@@ -47,7 +47,7 @@ search query to look like:
 
 `salesforce_id:ID_NUMBER*`
 
-https://gitlab.zendesk.com/agent/search/1?copy&type=organization&q=aaa
+<https://gitlab.zendesk.com/agent/search/1?copy&type=organization&q=aaa>
 Replacing `ID_NUMBER` with the Salesforce ID you located (putting the asterisk
 at the end ensures your search will work regardless of the ID value being the 15
 or 18 character ID). Make sure to click the `Organizations` tab of the search
@@ -96,16 +96,18 @@ For Self-Managed customers, we need to locate them in
 [cDot](https://customers.gitlab.com/admin):
 
 1. Locate the customer account in [cDot](https://customers.gitlab.com/admin)
-  - If given a license ID number:
+
+- If given a license ID number:
     1. Navigate to
        `https://customers.gitlab.com/admin/license/xxx` (replacing `xxx` with
        the license ID)
     1. Copy the `Email` on the license and search cDot using that (via the
        [customer page](https://customers.gitlab.com/admin/customer)). Make sure
        to end on the `Show` page of the customer pages.
-  - If given the license email. search the licenses (via the
+- If given the license email. search the licenses (via the
     [license page](https://customers.gitlab.com/admin/license)). Then use the
     information detailed above (`If given a license ID`).
+
 1. Locate the billing account of the customer in
    [cDot](https://customers.gitlab.com/admin). This is done on the customer page
    by clicking the link for `Billing accounts`

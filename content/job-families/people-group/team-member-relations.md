@@ -115,7 +115,6 @@ The Staff Team Member Relations Partner is a [grade 8](https://about.gitlab.com/
 - Ensures oversight and governance of policies and practices globally, including interpreting and applying understanding of corporate policies and practices, employment laws, and other regulations to provide advice, guidance, or clarification for Team Member Relations inquiries.
 - Analyzes data to identify trends, provide insights and make recommendations to stakeholders and cross-functional partners to develop scalable solutions, programs and policies to improve the team member experience.
 
-
 ### Staff Team Member Relations Partner Requirements
 
 - Ability to use GitLab
@@ -200,15 +199,15 @@ The Director, Team Member Relations is a [grade 10](https://about.gitlab.com/han
 ## Performance Indicators
 
 - Team Member Case Management
-   - Team member relations will respond to all requests for assistance from team members within 24 hours.
-   - All cases are resolved in a consistent, fair and unbiased process.  
-   - Identify and resolve potential risks to GitLab.  
+  - Team member relations will respond to all requests for assistance from team members within 24 hours.
+  - All cases are resolved in a consistent, fair and unbiased process.  
+  - Identify and resolve potential risks to GitLab.  
 - Provide all GitLab team members an avenue to express workplace concerns and to resolve conflicts in a safe and unbiased forum.
-   - When surveyed, >90% utilizing the Team Member Relations team report effective interactions and outcomes, and resolutions to their concerns.
-   - Overall employee sentiment is positive (>80%) on the Engagement Survey.
+  - When surveyed, >90% utilizing the Team Member Relations team report effective interactions and outcomes, and resolutions to their concerns.
+  - Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 - Collaboration
-   - Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
+  - Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
 
 ## Director, Team Member Relations Career Ladder
 

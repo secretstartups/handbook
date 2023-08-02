@@ -7,6 +7,7 @@ Legal Interns at GitLab may work within GitLab Legal, on matters relating to emp
 ## Candidate Qualifying Criteria
 
 The following criteria are considered required for candidates to be eligible for Legal Internship positions:
+
 1. Current law student, with preference given to those students who have completed their 2L studies by the time the internship begins. Available full-time in the Pacific time zone for the duration of the internship (2021-05-15 - 2021-08-15)
 
 #### Duration and Timing
@@ -69,4 +70,3 @@ Open internal processes: know what you're getting into and be assured we're thou
 See [our culture page](https://about.gitlab.com/company/culture/) for more!
 
 Work remotely from anywhere in the world. Curious to see what that looks like? Check out our [remote manifesto and guides](https://about.gitlab.com/company/culture/all-remote/).
-

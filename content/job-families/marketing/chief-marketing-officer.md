@@ -60,7 +60,6 @@ See the [marketing handbook](https://about.gitlab.com/handbook/marketing/) for d
 - Manage content development and position GitLab as the single application for entire DevOps lifecycle through thought leadership, white papers, infographics, blog posts, social media, webinars and by being an evangelist for our software and company.
 - Contribute to the creation of a comprehensive global marketing plan, digital marketing (web, SEO/SEM), social media-focused marketing, analyst relations, demand generation, events, and branding.
 
-
 ## Preferred Requirements
 
 - 15+ years of enterprise software experience.

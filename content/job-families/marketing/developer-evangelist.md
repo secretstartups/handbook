@@ -3,8 +3,6 @@ title: "Developer Evangelists"
 summary: Help us fulfill our mission by connecting with other developers, contributing to open source, and sharing your knowledge and experience about GitLab and other leading technologies at conferences and meetups, in contributed articles, and on blogs, podcasts, and social media.
 ---
 
-## Developer Evangelist
-
 The Developer Evangelism team supports and grows GitLab's community by engaging with GitLab community members through content and conversations.
 
 As a Developer Evangelist, you will help us fulfill our mission by connecting with other developers, contributing to open source, and sharing your knowledge and experience about GitLab and other leading technologies at conferences and meetups, in contributed articles, and on blogs, podcasts, and social media. Your work will foster a community inspired by GitLab and will drive our strategy around developer love and GitLab’s participation in the open source ecosystem.
@@ -56,7 +54,6 @@ The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook
 - Same as Developer Evangelist plus,
 - 3 or more years experience giving talks and developing demos, webinars, videos, and other technical content to audiences of 300 and larger
 - Experience serving as a media spokesperson
-
 
 ## Staff Developer Evangelist
 
@@ -207,7 +204,6 @@ The Developer Evangelism team is responsible for [community engagement](https://
   - Ensure messaging about these changes addresses community concerns
   - Create community FAQs for impactful changes
   - Prepare the Developer Evangelist team and other relevant team members per the [community response](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/community-response/) process to address community questions on Hackers News and other forums
-
 
 #### Requirements
 

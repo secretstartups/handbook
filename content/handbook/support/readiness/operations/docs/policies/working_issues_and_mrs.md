@@ -30,7 +30,7 @@ on. We create them at either the
 
 #### How we use them
 
-We utilize labels on _every_ issue and merge request we work. The exact label to
+We utilize labels on *every* issue and merge request we work. The exact label to
 use is determined by what the issue/merge request is for, so refer to the
 various documentation pages about that topic to determine the correct label to
 use.
@@ -115,7 +115,7 @@ In regards to milestones, as per
 
 #### How we use them
 
-We utilizes milestones on _every_ issue and merge request we work on. As such,
+We utilizes milestones on *every* issue and merge request we work on. As such,
 you should always ensure an issue or merge request you are working on contains
 the relevant milestone. Through this, we can see what changes are occurring
 during any given period of time.

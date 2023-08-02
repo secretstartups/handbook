@@ -23,7 +23,6 @@ When we first approached the idea of a simple VPN for those times that our emplo
 
 Please open an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) and add `/label ~"it-security-status::needs-review"`.
 
-
 ## NordLayer Installation
 
 See the [IT Self Service](/handbook/it) page for more information about creating an access request for NordLayer.
@@ -35,14 +34,9 @@ After your access request is provisioned, you will receive a signup email with a
 ### Initial Configuration
 
 1. Enter `GitLab` as the Organization.
-
-2. Sign in using your GitLab email and the password you just created with the sign up link.
-
-3. Authenticate via Okta.
-
-4. Mac users will be prompted to Allow an upcoming prompt, please do this.
-
-
+1. Sign in using your GitLab email and the password you just created with the sign up link.
+1. Authenticate via Okta.
+1. Mac users will be prompted to Allow an upcoming prompt, please do this.
 
 ### Adding Your Home Network to the Trusted List
 
@@ -51,8 +45,7 @@ After your access request is provisioned, you will receive a signup email with a
 > Please keep in mind that any trusted networks you add means that you are no longer protected through a VPN. Do not do this if you're at a hotel, on a guest newtork, or anywhere outside of your home network (unless needed to get through initial Wi-Fi portal terms and conditions captive portal screen).
 
 1. Go to NordLayer Preferences and select the `Auto-Connect` tab.
-
-2. Verify the Network listed under `Current Network` is your home network and click the `Trust` button.
+1. Verify the Network listed under `Current Network` is your home network and click the `Trust` button.
 
 ## NordLayer Troubleshooting
 

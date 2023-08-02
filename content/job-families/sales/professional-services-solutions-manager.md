@@ -102,7 +102,7 @@ The next steps for the Professional Services Practice Manager Job Family would b
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting Team Member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 Team Members
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 Team Members
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

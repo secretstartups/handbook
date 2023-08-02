@@ -13,7 +13,7 @@ images:
 This page is about one of the four Guiding Principles of TeamOps: Decision Velocity. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](https://about.gitlab.com/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
 {{% /alert %}}
 
-_Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements._
+*Achieving faster, better results depends on decision-making velocity – a team’s ability to increase the quality and quantity of decisions made in a particular stretch of time through behavioral and logistical agreements.*
 
 Decisions are the fuel for high-performance teams, and represent a key success metric in the future of work. The more decisions are made, the more results can come from them. Conventional management philosophies often strive for consensus to avoid risk instead of developing a bias for action, which can result in delays, confusion, or unnecessary conflict.
 
@@ -37,7 +37,7 @@ To keep their globally-distributed team equipped with instructions for a variety
 
 Efficient execution [requires granting agency by default](/handbook/values/#give-agency). A critical component of workforce autonomy, agency empowers team members to independently and proactively make decisions without permission, review, or approval—in other words, to self-govern as a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one). Leaders who grant this kind of agency also communicate their trust in individual team members to do what they feel is necessary to accommodate their unique needs and to design custom strategies to focus their time and attention on what they deem most important for the organization's success.
 
-Valuing agency so highly doesn't mean assuming _**all**_ organizational decisions will be made completely independently. Collaboration is still a critical component of TeamOps. But does every organizational decision require collaboration? To enhance their teammates' sense of agency, leaders can start by removing rules or permissions for smaller operational components such as meeting attendance, personal task management systems, or working schedules.
+Valuing agency so highly doesn't mean assuming ***all*** organizational decisions will be made completely independently. Collaboration is still a critical component of TeamOps. But does every organizational decision require collaboration? To enhance their teammates' sense of agency, leaders can start by removing rules or permissions for smaller operational components such as meeting attendance, personal task management systems, or working schedules.
 
 Agency is the antidote to micromanagement, which crushes execution, stifles creativity, and diminishes retention. Greater individual autonomy brings about a shared reality in which all team members feel encouraged to design how and when they want to contribute—and that fuels both individual and collective success.
 
@@ -80,25 +80,26 @@ To minimize miscommunications that can stem from cultural diversity, contextual 
 [Low-context communication](/company/culture/all-remote/effective-communication/) assumes that the person you're communicating with has little or no context about the topic at hand. This means the person delivering the information is responsible for providing everything the recipient will need to understand the situation and make an informed response—such as SSoT links, definitions, relevant team members, or updates. This empowers individuals to make decisions and take action without needing to ask unnecessary follow-up questions that could have been avoided.
 
 All low-context communication should be:
+
 - Explicit, not implicit
 - Direct, not indirect
 - Simple, not complex
 - Comprehensive, not narrow
 
-A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with _**what**_ the change is, but also [_**why**_](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and builds trust, which is one of the traits of being a [great remote manager](/company/culture/all-remote/being-a-great-remote-manager/).
+A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with ***what*** the change is, but also [***why***](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and builds trust, which is one of the traits of being a [great remote manager](/company/culture/all-remote/being-a-great-remote-manager/).
 
 Also note that each business function may have unique expectations on low-context communication (e.g. what classifies as low-context in sales may not in engineering). If decisions within a function appear to be ill-informed, audit the expectations on context first.
 
 {{% details summary="Examples of low-context communication" %}}
 **Example 1:** [Making a company-wide announcement that meaningfully changes a policy](/handbook/communication/#how-to-make-a-company-wide-announcement)
 
-At GitLab, a department leader will typically send out a [company-wide message](/handbook/communication/#how-to-make-a-company-wide-announcement) to a Slack channel that includes every team member. Crucially, this message does not include _only_ the news, but a link to a GitLab merge request _detailing what changed_ ([diffs](https://docs.gitlab.com/ee/development/merge_request_concepts/diffs/)).
+At GitLab, a department leader will typically send out a [company-wide message](/handbook/communication/#how-to-make-a-company-wide-announcement) to a Slack channel that includes every team member. Crucially, this message does not include *only* the news, but a link to a GitLab merge request *detailing what changed* ([diffs](https://docs.gitlab.com/ee/development/merge_request_concepts/diffs/)).
 
 The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104440) which added the very copy you're reading now is an example of low-context communication in practice. Darren M., the [DRI](/handbook/people-group/directly-responsible-individuals/) for the change, also shares a link to the handbook and/or project page ("the news"). The merge request includes context on what's changing, and details on where to ask questions and contribute new iterations (including an optional [Ask Me Anything (AMA)](/handbook/communication/ask-me-anything/) session). This gives any team member enough context to share feedback and apply these changes to their own teams in an informed way.
 
 **Example 2:** [Updating GitLab's recruitment privacy policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)
 
-GitLab's Recruitment Privacy Policy was updated. Rather than updating the policy behind closed doors, the [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)  outlines the _why_. It provides context into how the change enables cross-functional groups to work more efficiently. The explanation of _why_ enables more thoughtful conversation around a potentially polarizing topic (privacy).
+GitLab's Recruitment Privacy Policy was updated. Rather than updating the policy behind closed doors, the [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)  outlines the *why*. It provides context into how the change enables cross-functional groups to work more efficiently. The explanation of *why* enables more thoughtful conversation around a potentially polarizing topic (privacy).
 {{% /details %}}
 
 ## Operational transparency

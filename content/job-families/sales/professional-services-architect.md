@@ -6,9 +6,7 @@ description: "As a highly visible and customer-facing position, you will work wi
 As a highly visible and customer-facing position, you will work with an exceptional Professional Services organization, and the wider Customer Success team, including Professional Services Engineers, Project Managers, and Solution Architects.
 You will play a critical role in the success of Professional Services engagements as we expanded our world class professional consulting organization that has a proven track record of working with clients from different industries around the world. The Professional Services Technical Architect reports to the Regional Manager.
 
-
 #### Levels
-
 
 | Professional Services Technical Architect |
 | - |
@@ -23,7 +21,6 @@ You will play a critical role in the success of Professional Services engagement
 ### Technical Architect
 
 #### Responsibilities
-
 
 - Responsible for the application design, development and support of GitLab-related Professional Services projects
 - Demonstrate progressive leadership in the full life cycle of the software development environment
@@ -43,7 +40,6 @@ You will play a critical role in the success of Professional Services engagement
 
 #### Requirements
 
-
 - Strong written and verbal communications
 - Demonstrated progressive experience delivering two or more of the following consulting services
   - SCM migration
@@ -60,9 +56,7 @@ You will play a critical role in the success of Professional Services engagement
 
 ### Senior Technical Architect
 
-
 #### Responsibilities
-
 
 - All of the responsibilities of a Technical Architect plus the following:
 - Mentor PS and Partner Consultants providing guidance regarding “Best Practice” communication, and implementation strategies
@@ -73,18 +67,14 @@ You will play a critical role in the success of Professional Services engagement
   - SOW staffing assesments
 - Provide technical leadership to the Professional Service Engineering team during the delivery of services engagements
 
-
 #### Requirements
-
 
 - All of the requirements of a Technical Architect plus the following:
 - Has experience with the additional responsibilities of a Senior Techincal Architect
 
 ### Staff Technical Architect
 
-
 #### Responsibilities
-
 
 - All of the responsibilities of a Senior Technical Architect plus the following:
 - Build and deliver high-value and reusable enablement content that measurably improves the team's delivery and execution
@@ -98,16 +88,12 @@ You will play a critical role in the success of Professional Services engagement
 
 #### Requirements
 
-
 - Extends the Senior Technical Architect requirements
 - Has experience with the additional responsibilities of a Staff Techincal Architect
 
-
 ### Professional Experience
 
-
 At GitLab, due to the pace at which we are moving, people joining our team will be expected to have significant professional experience in the primary engineering tools of their specialty. For Professional Services Architects, this means work and consulting experience using IaC/CaC technologies on one or more of the main cloud providers, as well as experience deploying, maintaining, and administering a GitLab instance.
-
 
 ### Job Grades
 
@@ -123,7 +109,6 @@ Candidates may be invited to schedule an interview with Professional Services Ar
 Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the Demo Guide.
 Candidates may be invited to additional interviews.
 Successful candidates will be made an offer after references are verified.
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 

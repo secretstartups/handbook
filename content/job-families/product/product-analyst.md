@@ -299,4 +299,3 @@ Product Data Insights Leadership is responsible for building the capacity and ca
 1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
 1. Hiring versus plan and new hire location factor
 1. Ensuring individuals meet and maintain their ([Performance Indicator](https://about.gitlab.com/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
-

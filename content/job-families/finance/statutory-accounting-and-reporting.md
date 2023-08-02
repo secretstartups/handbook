@@ -39,7 +39,6 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](https://ab
 - Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
 - Proficient with Microsoft Office and/or Google Docs and Sheets
 
-
 ### Performance Indicators
 
 - [Audit Adjustments](https://about.gitlab.com/handbook/tax/performance-indicators/#audit-adjustments)
@@ -51,6 +50,7 @@ The next step in the Statutory Accounting and Compliance job family is to move t
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Director of Tax
 - Candidates will then be invited to schedule a 45 minute interview with our VP Corporate Controller

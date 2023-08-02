@@ -62,7 +62,6 @@ The SDR is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensat
 
 #### Sales Development Representative Requirements
 
-
 - Positive and energetic phone skills, excellent listening skills, strong writing skills
 - A self-starter with a track record of successful, credible achievements
 - You share our values, and work in accordance with those values
@@ -239,7 +238,6 @@ Promotions are also subject to business need and require a formal application an
 Within the Sales development organization, the career path is the following: Business Development Associate to Sales Development Representative to Business Development Representative.
 Typically after BDR, our team members interview for roles such as : Manager, Sales Development, Inside Sales Representative, and Account Executive, SMB.
 GitLab is one of the fastest growing companies and there are a lot of less conventional career paths. While we strongly encourage our team members to pursue the job opportunities that are right for them, it is important to understand that those paths may take longer to materialize.
-
 
 ## Hiring Process
 

@@ -176,7 +176,7 @@ An example of a working and valid contacts.yaml can be found
 [here](https://gitlab.com/support/zd-global-orgs/organization-380989798980/-/blob/master/contacts.yaml).
 
 You should ensure the contacts listed matching what the Zendesk organization
-_currently_ has in place.
+*currently* has in place.
 
 Once that is all setup, commit the changes to the file (this will kick off a
 sync pipeline on ops.gitlab.net).

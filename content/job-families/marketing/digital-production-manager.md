@@ -28,7 +28,7 @@ The Digital Production Coordinator is a [grade 5](https://about.gitlab.com/handb
 - Treatment, scriptwriting and budget-tracking assistance
 - Monitor and refresh video bands
 
-## Requirements
+### Requirements
 
 - Bachelor’s Degree or extensive training in broadcast journalism, film & television, or audio/video production
 - 2+ years of production experience and at least 1 year of marketing experience
@@ -43,7 +43,6 @@ The Digital Production Coordinator is a [grade 5](https://about.gitlab.com/handb
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
 - BONUS: A passion and strong understanding of the industry and our mission
-
 
 ## Digital Producer
 
@@ -83,7 +82,6 @@ The Digital Producer is a [grade 6](https://about.gitlab.com/handbook/total-rewa
 - Ability to use GitLab
 - BONUS: A passion and strong awareness of the industry and our mission
 
-
 ## Senior Digital Producer
 
 The Digital Production Coordinator reports to the Senior Manager, Video.
@@ -104,7 +102,7 @@ The Senior Digital Producer is a [grade 7](https://about.gitlab.com/handbook/tot
 - Podcast production assistance
 - Produce and manage mini-shows
 
-## Requirements
+### Requirements
 
 - Bachelor’s Degree or extensive training in broadcast journalism, film & television, or audio/video production
 - 5+ years of solid work experience in video and audio production and at least 1 year of marketing experience
@@ -124,4 +122,3 @@ The Senior Digital Producer is a [grade 7](https://about.gitlab.com/handbook/tot
 ### Career Ladder
 
 The next step in the Digital Production job family is not yet defined at GitLab.
-

@@ -3,24 +3,24 @@ title: Field Marketing Specialist
 summary: " "
 ---
 
-## Field Marketing Specialist
+## Overview
 
 A Field Marketing Specialist is a regionally focused, highly organized person who can do the hands-on work of managing logistics and online and offline details for projects taking place in person or virtually in the region this role supports.  The Field Marketing Specialist will work within the Field Marketing organization and will report into the regional Field Marketing Leader.
 
 Field Marketing Specialist Regions:
 
-North America
-EMEA
-APAC
+- North America
+- EMEA
+- APAC
 
-## Responsibilities
+### Responsibilities
 
 - Assist Field Marketing Managers with the planning, execution, tracking and follow-up of Field Marketing campaigns.
 - Research new and creative campaign and swag ideas
 - Work within the GitLab tool to ensure that the Field Marketing Manager is staying on track for project completion and hitting SLAs agreed upon by support teams.
 - Assist the Field Marketing Manager in seeking both financial and marketing leadership approval on campaigns prior to campaign planning and execution.
 
-## Requirements
+### Requirements
 
 - 2+ years experience in marketing or event management with the desire to learn more about Field Marketing.
 - Organized and efficient, able to develop and execute against a clear plan.
@@ -30,7 +30,7 @@ APAC
 - Ability to use GitLab
 - Occasional domestic travel to support events - less than 20%.
 
-## Levels
+### Levels
 
 - Field Marketing Coordinator - Junior
 - Field Marketing Specialist - Intermediate
@@ -64,11 +64,11 @@ The Field Marketing Coordinator is a [grade 5](https://about.gitlab.com/handbook
 ### Performance Indicators
 
 - Responsible for assisting and ensuring the supporting Field Marketing Managers are hitting the following SLAs:
-   - [Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
-   - [Events](https://about.gitlab.com/handbook/marketing/virtual-events/)
-   - [External non-GitLab hosted virtual events](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/)
-   - [Direct mailers](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/direct-mail/)
-   - Completing all FMC/FMS TODOs in our [issues templates](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in line with the due dates listed as a result of the workback schedules
+  - [Webcasts](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/)
+  - [Events](https://about.gitlab.com/handbook/marketing/virtual-events/)
+  - [External non-GitLab hosted virtual events](https://about.gitlab.com/handbook/marketing/virtual-events/external-virtual-events/)
+  - [Direct mailers](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/direct-mail/)
+  - Completing all FMC/FMS TODOs in our [issues templates](https://gitlab.com/gitlab-com/marketing/field-marketing/-/tree/master/.gitlab/issue_templates) in line with the due dates listed as a result of the workback schedules
 
 ## Field Marketing Specialist
 

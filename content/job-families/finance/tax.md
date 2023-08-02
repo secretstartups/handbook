@@ -155,6 +155,7 @@ The Senior Manager, International Tax (Non US) is a job [grade 9](https://about.
 #### Senior Manager, International Tax (Non US) Requirements
 
 The Senior Manager, International Tax (Non US) will have Big-4 or comparable multinational company experience. Specifically, the candidate will have demonstrable, progressive experience in:
+
 - Transfer pricing and functional analysis
 - CBC reporting
 - Some understanding of the effects of the Tax Cuts and Jobs Act of 2017
@@ -277,6 +278,7 @@ The Tax job family career ladder is outlined on this page.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 - Next, qualified candidates will be invited to schedule a first interview with the Hiring Manager

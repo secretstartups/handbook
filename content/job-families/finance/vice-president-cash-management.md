@@ -59,6 +59,7 @@ The next step in the Cash and Project Management job family is to move to a seni
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Meet with PAO for 50 minutes
 - Meet with Key Reports and Key Finance Leaders - Director of Treasury, VP Corporate Controller, Sr. Director Revenue - for 30 minutes each

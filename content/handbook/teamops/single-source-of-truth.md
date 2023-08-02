@@ -15,7 +15,6 @@ Up to this point, teams, and the ways the people on them work, have been treated
 
 Meanwhile, other critical areas of business have been studied, made objective, codified, and operationalized. Why not so with our most valuable resource: teams?
 
-
 ## TeamOps Vision
 
 It is GitLab's [mission](/company/mission/) to make it so that **everyone can contribute**. When applied to management, this creates an atmosphere where everyone is empowered to lead.

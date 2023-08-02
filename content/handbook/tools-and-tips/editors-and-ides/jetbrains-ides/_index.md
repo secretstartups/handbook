@@ -51,7 +51,7 @@ See the following IDE-specific pages for tips on debugging:
 
 ## Keymaps
 
-There's a lot of keybindings in JetBrains IDEs. Here's a list for RubyMine: https://www.jetbrains.com/help/ruby/mastering-keyboard-shortcuts.html. You can find the ones for their other IDEs too.
+There's a lot of keybindings in JetBrains IDEs. Here's a list for RubyMine: <https://www.jetbrains.com/help/ruby/mastering-keyboard-shortcuts.html>. You can find the ones for their other IDEs too.
 
 But if you only memorize one keyboard shortcut in JetBrains, make it this one:
 
@@ -69,7 +69,7 @@ else's.
 ## Code Inspections
 
 One of the powerful and productivity-enhancing features of JetBrains IDEs is
-[Code Inspections](https://www.jetbrains.com/help/ruby/running-inspections.html
+[Code Inspections](<https://www.jetbrains.com/help/ruby/running-inspections.html>
 
 See more details at [Code Inspection](code-inspection)
 

@@ -125,8 +125,8 @@ The Distinguished Engineer is a [grade 10](https://about.gitlab.com/handbook/tot
 
 - The Distinguished Engineer role acts as the individual equivalent of a Director, Engineering
 - Extends that of the [Principal Engineer](#principal-engineer) responsibilities
-- At this level the person's contribution plays to their strength and role on the team. These contributions come in different forms such as: Ship _large_ feature sets with team, completes _feature discovery_ independently, publishes technical blogs and speaks at conferences, interfaces with customers and provides technical direction to stakeholders (Product, Sales, others)
-- _Generate_ technical and process improvements
+- At this level the person's contribution plays to their strength and role on the team. These contributions come in different forms such as: Ship *large* feature sets with team, completes *feature discovery* independently, publishes technical blogs and speaks at conferences, interfaces with customers and provides technical direction to stakeholders (Product, Sales, others)
+- *Generate* technical and process improvements
 - Contribute to the sense of psychological safety on your team
 - Work cross-departmentally
 - Be a technical mentor for other backend engineers
@@ -176,7 +176,7 @@ The Senior Distinguished Engineer is a [grade 11](https://about.gitlab.com/handb
 - The Senior Distinguished Engineer role acts as the individual equivalent of a Senior Director, Engineering
 - Extends that of the [Distinguished Engineer](#distinguished-engineer) responsibilities
 - At this level the Senior Distinguished Engineer's minimal sphere of influence is across multiple sub-departments if not across their entire department
-- _Generate_ technical and process improvements
+- *Generate* technical and process improvements
 - Drive innovation within Engineering
 - Identifies the balance between the immediate and long term impact of technical direction and guides the organisation to execution in this balance
 - Be a technical, architectural, and career development mentor for other backend engineers
@@ -229,11 +229,11 @@ The VP of Development is a [grade 12](https://about.gitlab.com/handbook/total-re
 - Help their (senior) directors, senior managers, managers, and engineers grow their skills and experience
 - Measure and improve the happiness of Engineering
 - Make sure the handbook is used and maintained in a transparent way
-- _Implement_ technical and process improvements that are causal to most critical needs
-- _Participate and support_ a sense of psychological safety of the department
-- _Drive_ quarterly OKRs around company goals
-- _Define_ the agile project management process
-- _Be accountable for_ product quality, security, and performance
+- *Implement* technical and process improvements that are causal to most critical needs
+- *Participate and support* a sense of psychological safety of the department
+- *Drive* quarterly OKRs around company goals
+- *Define* the agile project management process
+- *Be accountable for* product quality, security, and performance
 - Work across departments within engineering
 - Work closely with Senior leaders of Product Management to provide a consistent/successful interface between Engineering Development and Product Management
 - Support constantly changing priorities between product features, availability, performance, security and reliability
@@ -282,12 +282,12 @@ The Chief Technology Officer is a [grade 12](https://about.gitlab.com/handbook/t
 - Help their directors, senior managers, managers, and engineers grow their skills and experience
 - Measure and improve the happiness of Engineering
 - Make sure the handbook is used and maintained in a transparent way
-- _Sponsor_ technical and process improvements
-- _Own_ the sense of psychological safety of the department
-- _Set_ quarterly OKRs around company goals
-- _Define_ the agile project management process
+- *Sponsor* technical and process improvements
+- *Own* the sense of psychological safety of the department
+- *Set* quarterly OKRs around company goals
+- *Define* the agile project management process
 - Spend time with customers to understand their needs and issues
-- _Be accountable for_ product quality, security, and performance
+- *Be accountable for* product quality, security, and performance
 
 #### Chief Technology Officer Requirements
 
@@ -314,6 +314,5 @@ Candidates for this position can generally expect the hiring process to follow t
 - Successful candidates will subsequently be made an offer via email
 
 ---
-
 
 *This is the typical reporting structure however deviations can be made based business need, technical alignment, current positions, career development, and/or organization size.

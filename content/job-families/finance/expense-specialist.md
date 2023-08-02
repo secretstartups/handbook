@@ -38,4 +38,3 @@ The Expense Specialist is a [grade 5](https://about.gitlab.com/handbook/total-re
 ### Career Ladder
 
 The next step in the Expense job family is to move to the [Payroll](/job-families/finance/payroll/) job family.
-

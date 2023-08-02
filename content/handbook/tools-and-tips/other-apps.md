@@ -79,7 +79,7 @@ After installing the extension, access the project page you are interested in fo
 
 ### Flash (do NOT use)
 
-**Flash**: Due to security flaws, we strongly recommend _not_ using Adobe Flash.
+**Flash**: Due to security flaws, we strongly recommend *not* using Adobe Flash.
 Certainly do not install it on your local machine.
 But even the Google Chrome plugin that lets you see embedded Flash content in websites can pose a security hazard.
 If you have not already, go to your [Chrome Flash Settings](chrome://settings/content/flash) and disable Flash.
@@ -176,7 +176,7 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 
 1. Set up a [Calendly](https://calendly.com/). First sign up with your GitLab email address, then accept the terms and conditions and then authentificate with your Google SSO.
 1. Link it to your GitLab Google Calendar to make it possible for people to schedule a call with you.
-1. Get your personal meeting room URL by going to [Zoom meeting settings](https://gitlab.zoom.us/meeting), selecting the _Personal Room_ tab, and copying the value of _Invite Link_ (do not use _Copy the invitation_).
+1. Get your personal meeting room URL by going to [Zoom meeting settings](https://gitlab.zoom.us/meeting), selecting the *Personal Room* tab, and copying the value of *Invite Link* (do not use *Copy the invitation*).
 1. If you are using the Basic Calendly Subscription (Unpaid) you will only be able to set-up one event type at a time i.e. either a 15, 30, 45 or 60 minute event - teams making use of one of the Paid Subsciption Tiers such as Customer Support will be able to set up more than one event type.
 1. Set up the desired time slot with the following event description text (replacing text in `{}` with your information) we will be using 45 minutes for the illustration purposes below:
 
@@ -188,7 +188,7 @@ If you are scheduling a meeting with a GitLab team-member, please use Google Cal
 1. Change the event link to `45min`.
 1. The event description needs to be copied to the 15, 30 and 60 minute meetings too.
 1. If you intend to use any of the other event types, make sure to add this to their event descriptions as well.
-1. For people outside of GitLab Inc, send them your Calendly link that links directly to the 45 minute time slot: "Are any of the times on https://calendly.com/XXXXX/45min/ convenient for you? If so please book one, if not please let me know what times are good for you and we'll find an alternative."
+1. For people outside of GitLab Inc, send them your Calendly link that links directly to the 45 minute time slot: "Are any of the times on <https://calendly.com/XXXXX/45min/> convenient for you? If so please book one, if not please let me know what times are good for you and we'll find an alternative."
 1. Update your availability on [Calendy Event Types](https://calendly.com/event_types/) by clicking the action cog and then the edit option on an event type (For Example: 15 minute meeting) and in the event details clicking on the "When can people book this event?" section then clicking the "Availability" section.
    Here you can set your working hours during which you want to accept meetings, and on the "Advanced" tab you can set the minimum scheduling notice you want enforced.
    Although Calendy does synchronize with Google Calendar to show your availability you may wish to set extra restrictions in Calendy.
@@ -280,7 +280,7 @@ Many usb headsets are unmutable.
 
 If you use Linux (e.g. [Arch](https://www.archlinux.org/), [Ubuntu](https://www.ubuntu.com/) or [Fedora](https://getfedora.org/)) you can create a system-wide keyboard shortcut to mute/unmute your mic.
 Please note that it only works for Linux distributions which use [ALSA](http://alsa-project.org) for sounds (most popular Linux distributions use ALSA).
-All you need to do is go to your desktop environment's _Keyboard Settings_ and create a custom shortcut with the command `amixer set Capture toggle` and assign a key combination of your choice (e.g. `Pause Break` key).
+All you need to do is go to your desktop environment's *Keyboard Settings* and create a custom shortcut with the command `amixer set Capture toggle` and assign a key combination of your choice (e.g. `Pause Break` key).
 Once this is done, you can mute/unmute your mic using the assigned keyboard shortcut while you're in any application.
 Refer to this original answer on [Askubuntu](http://askubuntu.com/a/13364/12242) to learn more.
 
@@ -311,4 +311,3 @@ Nice tool for demo recordings and internal/external documentation. Note, Loom vi
 
 The Gitlab handbook and most other content is written in English. Even if a non-native speaker's English is pretty good there might be times when the content is too sophisticated and a translation is welcome. Avoiding tedious copy and paste into another browser tab or app can easily be achieved by using the [DeepL translator](https://www.deepl.com/).
 DeepL is available as a Web site but also as a Mac app for free. Using a shortcut on MacOS takes selected text from the handbook right into the app and starts translating. Linux users can only use a Chrome extension and right-click to open another tab for the Web version.
-

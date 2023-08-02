@@ -9,12 +9,12 @@ no_list: true
 
 ## Code Inspections
 
-(_**If you are here to ask "What are all the `noinspection` comments in the code?", please read the ["Why are there `noinspection` comments"](./why-are-there-noinspection-comments) page for a thorough explanation.**
-But if you just want to learn how to use Code Inspection effectively in JetBrains, this is the page you're looking for..._)
+(***If you are here to ask "What are all the `noinspection` comments in the code?", please read the ["Why are there `noinspection` comments"](./why-are-there-noinspection-comments) page for a thorough explanation.**
+But if you just want to learn how to use Code Inspection effectively in JetBrains, this is the page you're looking for...*)
 
 One of the nice features of JetBrains IDEs is "Inspect Code" (`Code -> Inspect Code`).
 
-See a description of this feature here: https://www.jetbrains.com/help/ruby/running-inspections.html
+See a description of this feature here: <https://www.jetbrains.com/help/ruby/running-inspections.html>
 
 The sections below give more details on how to take full
 advantage of this feature.
@@ -57,7 +57,7 @@ Whatever the cause, it's good to suppress these false positives, because:
 1. For JetBrains users who new to that area of the code, they don't have a way to know if they are
    a legit problem they should consider fixing or not.
 
-The way you suppress these false positives is with `noinspection ...` comments: https://www.jetbrains.com/help/ruby/disabling-and-enabling-inspections.html
+The way you suppress these false positives is with `noinspection ...` comments: <https://www.jetbrains.com/help/ruby/disabling-and-enabling-inspections.html>
 
 If you use
 `F2` "Next Error" then right arrow, you can automatically add the correct `noinspection ...` comment to ignore the problem. However,
@@ -107,7 +107,7 @@ on links with an unknown destination.
 ## Using `Inspect Code` with custom scopes
 
 One way you can make Code Inspections (and other JetBrains operations) faster and more powerful is through
-the use of _custom scopes_
+the use of *custom scopes*
 
 If you curate a custom "Scope" which only selects the files related to the feature you are currently working on, you can
 also use this report to find all warnings/errors in any of those files.
@@ -127,5 +127,5 @@ Here's a quick list of steps to set this up (TODO: add more details/links):
     1. Here's a current example of the `remote_dev` scope definition which could be shared with other team members: `file[gitlab]:ee/lib/remote_development//*||file[gitlab]:ee/spec/factories/remote_development//*||file[gitlab]:ee/spec/lib/remote_development//*||file[gitlab]:ee/app/services/remote_development//*||file[gitlab]:app/models/remote_development//*||file[gitlab]:ee/app/graphql/mutations/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/remote_development//*||file[gitlab]:ee/app/graphql/types/remote_development//*||file[gitlab]:ee/app/models/remote_development//*||file[gitlab]:ee/spec/graphql/types/remote_development//*||file[gitlab]:ee/spec/models/remote_development//*||file[gitlab]:ee/spec/services/remote_development//*||file[gitlab]:ee/app/finders/remote_development//*||file[gitlab]:ee/spec/features/remote_development//*||file[gitlab]:ee/spec/support/shared_contexts/remote_development//*||file[gitlab]:ee/app/graphql/ee/types/user_interface.rb||file[gitlab]:ee/app/graphql/resolvers/concerns/remote_development//*||file[gitlab]:ee/app/graphql/resolvers/projects/workspaces_resolver.rb||file[gitlab]:ee/app/graphql/resolvers/users/workspaces_resolver.rb||file[gitlab]:ee/spec/requests/api/graphql/mutations/remote_development//*||file[gitlab]:ee/spec/requests/api/graphql/remote_development//*||file[gitlab]:ee/spec/finders/remote_development//*||file[gitlab]:ee/app/assets/javascripts/remote_development//*||file[gitlab]:ee/spec/frontend/remote_development//*||file[gitlab]:ee/spec/graphql/api/workspace_spec.rb`
     1. You can also share the XML file for the directly, it will be under `.idea/scopes/SCOPE_NAME.xml`.
     1. Here's Chad's current examples of two scopes related to Remote Development:
-       1. All remote dev files: https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev.xml
-       1. Only remote dev services and lib files: https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev_services___lib.xml
+       1. All remote dev files: <https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev.xml>
+       1. Only remote dev services and lib files: <https://gitlab.com/jetbrains-ide-config/jetbrains-ide-config-gitlab/-/blob/master/dotidea/scopes/remote_dev_services___lib.xml>

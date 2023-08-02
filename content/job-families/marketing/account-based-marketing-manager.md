@@ -112,7 +112,6 @@ The Manager, Account Based Marketing is a [8](https://about.gitlab.com/handbook/
 - Ability to use GitLab
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
-
 #### Performance Indicators
 
 - Average time to close for accounts within the ABM strategy in comparison to firmographic lookalike accounts

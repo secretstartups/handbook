@@ -2,17 +2,16 @@
 title: "Reliability Expert"
 ---
 
-A Reliability Expert is expert in the _reliability_ of a
+A Reliability Expert is expert in the *reliability* of a
 service or set of features (from here on, we'll just call it service for brevity).
 
-Reliability Experts typically help to _develop_ the service (in which they may be Specialists)
-but with explicit attention to the _reliability_ of the service in production. This
+Reliability Experts typically help to *develop* the service (in which they may be Specialists)
+but with explicit attention to the *reliability* of the service in production. This
 is measured by the availability and performance of the service on GitLab.com,
 its impact on the availability and performance of GitLab.com as a whole, and
 feedback from customers on the reliability of the service on their on-premises installations.
 
-
-### Reliability experts:
+### Reliability experts
 
 - work within a team to develop a service or set of features ("service" for brevity).
 - develop monitoring and alerting to measure and act on improving the availability,

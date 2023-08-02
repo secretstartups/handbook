@@ -47,15 +47,15 @@ The Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total
 
 ## Levels
 
-## Associate Channel Sales Manager
+### Associate Channel Sales Manager
 
 The Associate Channel Sales Manager share the same requirements and responsibilities outlined above, but typically join with less relevant experience, alternate background and/or less industry exposure than an intermediate Channel Sales Manager. The Associate Channel Sales Manager will drive growth ARR through services capacity and capability to drive customer adoption and usage of the GitLab platform. Additionally, the Associate Channel Sales Manager will drive and increase new customer ARR through their relationships, service engagements, and knowledge of accounts.
 
-### Job Grade
+#### Job Grade
 
 The Associate Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Responsible for the day-to-day relationship management of channel partners
 - Act as a liaison between the GitLab and assigned channel partners.
@@ -64,7 +64,7 @@ The Associate Channel Sales Manager is a [grade 8](https://about.gitlab.com/hand
 - Coordinate the involvement of GitLab personnel, including support, service, and management resources, in order to meet partner performance objectives and partners’ expectations.
 - Sell through partner organizations to end users in coordination with partner sales resources.
 
-### Requirements
+#### Requirements
 
 - Previous experience of driving channel sales ideally within the same product category and channel.
 - Experience selling in the Software Development Tools and/or Application Lifecycle Management space via channel partnerships
@@ -80,20 +80,20 @@ The Associate Channel Sales Manager is a [grade 8](https://about.gitlab.com/hand
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Inititated
 - % Services Attached
 
-## Senior Channel Sales Manager
+### Senior Channel Sales Manager
 
 The senior level extends the role outlined above. The Senior Channel Sales Manager role includes more responsibilities based on experience, expertise and team influence.
 
-### Job Grade
+#### Job Grade
 
 The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Extends the Intermediate responsibilities.
 - Gather market intelligence.
@@ -103,7 +103,7 @@ The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handboo
 - Work cross-functionally with marketing and product teams to develop go-to-market strategies and execution.
 - Lead ongoing analysis of business performance to support daily operations and quarterly business reviews.
 
-### Requirements
+#### Requirements
 
 - Previous experience of driving channel sales ideally within the same product category and channel.
 - Experience selling in the Software Development Tools and/or Application Lifecycle Management space via channel partnerships
@@ -119,19 +119,19 @@ The Senior Channel Sales Manager is a [grade 8](https://about.gitlab.com/handboo
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 
-## Manager, Channel Sales
+### Manager, Channel Sales
 
-### Job Grade
+#### Job Grade
 
 The Manager, Channel Sales (people manager) is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Engage Gitlab Regional & or Segment Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of Gitlab channel strategy and philosophy
 - Identify demand generation and build pipeline across your territory of focus.
@@ -149,7 +149,7 @@ The Manager, Channel Sales (people manager) is a [grade 9](https://about.gitlab.
 - Preparation of presentations, territory plans and reports
 - Managing, coaching and recruiting Channel Sales Account Mgrs
 
-### Requirements
+#### Requirements
 
 - Demonstrated progressive sales experience of managing channel sales people, channel programs and relationships in software and/or SaaS environments
 - Experience managing pipelines that are supported by developing and delivering service offerings tied to vendor product
@@ -162,22 +162,22 @@ The Manager, Channel Sales (people manager) is a [grade 9](https://about.gitlab.
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Sourced (First Order & Growth
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 - LAM - Landed Addressable Market
 
-## Senior Public Sector Channel Account Manager
+### Senior Public Sector Channel Account Manager
 
 The senior level extends the role outlined above. The Senior Public Sector Channel Account Manager role includes more responsibilities based on experience, expertise and team influence.
 
-### Job Grade
+#### Job Grade
 
 The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Extends the Intermediate responsibilities.
 - Gather market intelligence.
@@ -191,7 +191,7 @@ The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gi
 - Set up and deliver product and/or service presentations and other actions to increase sales effectiveness.
 - Become a power user of sales tools like SFDC, GitLab, and other collaboration tools
 
-### Requirements
+#### Requirements
 
 - Previous experience of driving channel sales ideally within the same product category and channel.
 - Experience selling in the Software Development Tools and/or Application Lifecycle Management space via channel partnerships
@@ -208,27 +208,27 @@ The Senior Public Sector Channel Account Manager is a [grade 9](https://about.gi
 - Ability to use GitLab
 - Passion for leadership and further advancement in responsibilities as a individual contributor or managing other
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 
 - % Revenue Partner Sourced
-    - New Logo (Greenfield)
-    - Co-Sell
+  - New Logo (Greenfield)
+  - Co-Sell
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 - Execution of CAM Activity Framework
 - High achievement in CAM Activity Tracker of Activity Framework
 
-## Director, Channel Sales
+### Director, Channel Sales
 
-### Job Grade
+#### Job Grade
 
 The Director, Channel Sales Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Engage Gitlab Regional Sales leadership, Sales & Solutions Architects and marketing teams to ensure awareness and leverage of Gitlab channel strategy and philosophy
 - Build out and own executive VP and C-level relationships across your territory of focus's Devops Ops System Integration, Advisory & VAR network
@@ -246,7 +246,7 @@ The Director, Channel Sales Manager is a [grade 10](https://about.gitlab.com/han
 - Stays abreast of competitive products, technologies and industry trends
 - Preparation of presentations, territory plans and reports
 
-## Requirements
+#### Requirements
 
 - Demonstrated progressive sales experience of managing channel programs and relationships in software and/or SaaS environments
 - Experience managing partner relationships that are based in developing and delivering service offerings tied to vendor product
@@ -259,22 +259,22 @@ The Director, Channel Sales Manager is a [grade 10](https://about.gitlab.com/han
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
 - [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
-## Senior Director, Channel Sales
+### Senior Director, Channel Sales
 
 In addition to the responsibilities and rquirements of the Director, Channel Sales Manager
 
-### Job Grade
+#### Job Grade
 
 The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Engages, leads and influences senior executives both internally and externally with partners.
 - Nurtures and leverages relationships with key DevOps thought leaders to help increase awareness about GitLab
@@ -282,14 +282,14 @@ The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.
 - Leads initiatives and concepts cross function at senior and IC levels
 - Leads long term investment planning, design, and execution for strategic partner engagement
 
-### Requirements
+#### Requirements
 
 - Demonstrated progressive experience in channel sales and/or related functions within the software industry
 - Demonstrated progressive management experience, with an emphasis on leadership, and engaging global and local stakeholders
 - Experience building trusted relationships with executive leadership, and driving engagement
 - Ability to rapidly hire and scale a team of world class professionals
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Inititated
 - % Services Attached
@@ -298,9 +298,9 @@ The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.
 
 ## Specialties
 
-## Global System Integrators
+### Global System Integrators
 
-### Responsibilities
+#### Responsibilities
 
 - Strong ability to network, hunt for and manage executive relationships
 - Work closely with sales leadership and field sales teams to significantly leverage SI as part of overall Gitlab strategy. Drive pipeline and revenue growth
@@ -312,7 +312,7 @@ The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.
 - Working with appropriate cross functional associates, recommend programs to support SI sales strategies; e.g. marketing programs, Product Marketing, etc..
 - Develop and execute specific partner & business plans for designated partners that exceed team goals
 
-### Requirements
+#### Requirements
 
 - Strong computer, communication, and presentation skills a prerequisite.
 - Proven ability to work within and across teams
@@ -327,11 +327,11 @@ The Senior Director, Channel Sales Manager is a [grade 11](https://about.gitlab.
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
 
-## Distribution Sales Manager
+### Distribution Sales Manager
 
 The Distribution Sales Manager is accountable for revenue generation in the territory by overseeing and working with our distribution partners throughout all aspects of the sales process.
 
-### Responsibilities:
+#### Responsibilities
 
 - Oversee new distributor onboarding to include recruit, contract, enable, manage
 - Oversee distributor relationships throughout the assigned territory.
@@ -340,7 +340,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 - Accurately forecast sales opportunities to management team through our CRM and other means
 - Responsible for all aspects of distribution enablement: sales and technical, marketing, back office integration
 
-### Requirements:
+#### Requirements
 
 - Previous experience of managing distribution partnerships sales
 - Experience selling in the Software Development Tools and/or Application Lifecycle Management space via channel partnerships
@@ -355,9 +355,9 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-## Alliances
+### Alliances
 
-## Responsibilities
+#### Responsibilities
 
 1. Execute annual partner plans with technology companies including ISVs and cloud companies.
 1. Evaluate effectivity of partner relationships and engagements in delivering positive ROI.
@@ -366,7 +366,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 1. Facilitate meaningful relationships between GitLab and our technology partners' teams. This includes partners executive leaders, product managers, engineering, sales and marketing.
 1. Identify new opportunities for quality, high ROI engagements with partners
 
-## Requirements
+#### Requirements
 
 1. Demonstrated progressive sales management and/or business development experience in the technology/cloud services industry, preferably in the DevOps space
 1. Demonstrated repeated success leading partner/client engagement plans to fruitful executions, consistently exceeding key performance metrics
@@ -378,7 +378,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 1. [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 1. Ability to use GitLab
 
-### Performance Indicators
+#### Performance Indicators
 
 - % Revenue Partner Initiated
 - % Services Attached
@@ -389,7 +389,7 @@ The Distribution Sales Manager is accountable for revenue generation in the terr
 
 The next steps for the Channel Manager Job Family is to move into the [Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) Job Family or the [VP, Global Channel](/job-families/sales/vp-of-global-channels/) Job Family.
 
-### Hiring Process
+## Hiring Process
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 

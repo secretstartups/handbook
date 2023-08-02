@@ -6,7 +6,7 @@ Database Reliability Engineers (DBRE) are responsible for keeping database syste
 
 GitLab.com is a unique site and it brings unique challenges: it’s the biggest GitLab instance in existence; in fact, it’s one of the largest single-tenancy open-source SaaS sites on the internet. The experience of our team feeds back into other engineering groups within the company, as well as to GitLab customers running self-managed installations
 
-## As a DBRE you will:
+## As a DBRE you will
 
 - Work on database reliability and performance aspects for GitLab.com from within the SRE team as well as work on shipping solutions with the product.
 - Analyze solutions and implement best practices for our main PostgreSQL database cluster and its components.
@@ -32,7 +32,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 1. Database Observability (Prometheus instrumentation, workload analysis etc.)
 1. GitLab Rails application specifics on PostgreSQL
 
-## You may be a fit to this role if you:
+## You may be a fit to this role if you
 
 - Have at least 5 years of experience running PostgreSQL in large production environments.
 - Have at least 2 years of experience with infrastructure automation and configuration management (Chef, Ansible, Puppet, Terraform...).
@@ -53,7 +53,7 @@ The GitLab Database Ecosystem has the following areas of interest:
 - Have a passion for stable and secure systems management practices.
 - Possess data modeling and data structure design skills.
 
-## Projects you could work on:
+## Projects you could work on
 
 - Review, analyze and implement solutions regarding database administration (e.g., backups, performance tuning)
 - Work with Terraform, Chef and other tools to build mature automation (automatic setup new replicas or testing and monitoring of backups).
@@ -109,7 +109,6 @@ The Senior Database Reliability Engineer is a [grade 7](https://about.gitlab.com
 - Deep knowledge in 3 areas of expertise related to PostgreSQL and his ecosystem, considering another data storages an option, general knowledge of all areas of expertise from the PostgreSQL ecosystem, radiate that knowledge.
 - Leads and participates in several projects, having an overview and giving input on projects to be accomplished with the best performance and lower impact.
 
-
 ### Staff Database Reliability Engineer
 
 #### Job Grade
@@ -119,22 +118,26 @@ The Staff Database Reliability Engineer is a [grade 8](https://about.gitlab.com/
 Staff Database Reliability Engineer are Senior Database Reliability Engineers who additionally meet the following criteria:
 
 Technical:
+
 1. Able to create innovative solutions that push GitLab's technical abilities ahead of the curve on the database ecosystem.
 1. Deep knowledge of GitLab database ecosystem in expertise. Knowledge of each area of expertise enough to mentor and guide other team members in those areas.
 1. Lead (with others) GitLab's database ecosystem architecture to improve reliability and add new relevant functionality.
 
 Execution:
+
 1. Strive for automation either by coding or by leading and influencing developers, to build systems that run automatically (ideally) in production.
 1. Weight the risks of new features ahead of time, planning and mitigating accordingly, improving the infrastructure.
 1. Propose and drive architectural changes that affect the whole company to solve scaling and performance problems.
 1. Lead the team with significant project work, for OKR level goals.
 
 Communication and Collaboration:
+
 1. Work with engineers across the whole company influencing the database design to create features that will improve both our SaaS and self hosted platforms.
 1. Communicate proficiently and consistently at a company level, sharing information that enables others and being vocal in group calls.
 1. Run proficiently RCAs and epic-level planning meetings, to get meaningful work scheduled into the roadmap.
 
 Influence and Maturity:
+
 1. Routinely has an impact on the broader Engineering organization
 1. Write in-depth documentation that shares knowledge and radiates GitLab technical strengths. Participate actively and lead Gitlab technical/Business calls.
 1. Have a high level of self awareness.

@@ -65,6 +65,8 @@ The Sales Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/to
 - Strong interpersonal skills
 - Clear and concise verbal and written communication
 
+### Sales Operations Analyst - Sales Tech Stack
+
 #### Sales Operations Analyst - Sales Tech Stack Responsibilities
 
 - Establish policy and standardization around how the global sales teams work with technology and process adoption to increase Sales efficiency
@@ -90,6 +92,8 @@ The Sales Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/to
 - Proficietn with Microsoft Excel (maintain complex spreadsheets)
 - Passion to handle new projects and achieve results in an evolving environment
 - Strong understanding of the sales process
+
+### Sr. Sales Operations Analyst
 
 #### Job Grade
 
@@ -122,6 +126,8 @@ The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](
 - Lead and deliver reporting and preparation of Quarterly Business Reviews
 - Exhibit a strong understanding of the sales process and act as a business advisor to the sales organization by providing insights on opportunity management to drive deal velocity
 - Develop best practices that align sales data with company initiatives
+
+### Sr. Sales Operations Manager
 
 #### Sr. Sales Operations Manager Requirements
 
@@ -386,9 +392,9 @@ The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/h
 - Take lead in documenting the requirements and process to improve efficiencies for the sales systems team so they can build and implement new features
 - Ensure the current processes accurately reflect and support the published Partner Program
 - Assist in implementing new tools and/or applications that focuses on improving efficiency, effectiveness, and productivity
-   - Including automation with QTC with Partners
+  - Including automation with QTC with Partners
 - Own data integrity for Partner business and manage the ROE
-   - Can include data loads in SFDC, reporting, and comp validation
+  - Can include data loads in SFDC, reporting, and comp validation
 
 ## Performance Indicators
 

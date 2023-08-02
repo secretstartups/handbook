@@ -41,7 +41,7 @@ The Manager, SEC reports to the Director, SEC.
 
 The SEC Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, SEC
+#### Responsibilities
 
 - Lead the preparation of the Company’s financial statements and SEC filings, including Forms 10-Q, 10-K, 8-K and proxy
 - Coordinate the review of SEC filings with external auditors, outside legal counsel, accounting staff, and executive management
@@ -54,7 +54,7 @@ The SEC Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/c
 - Develop formal Company-wide accounting policies to ensure alignment with business and relevant accounting guidance
 - Assist with month-end close activities and monthly financial package
 
-#### Manager, SEC
+#### Nice to Have
 
 - Leadership and management experience preferred
 - Proven ability to collaborate cross-functionally with multiple departments across the organization
@@ -86,7 +86,6 @@ The Senior Manager, SEC and Technical Reporting is a [grade 9](https://about.git
 - Develop formal Company-wide accounting policies to ensure alignment with business and relevant accounting guidance
 - Assist with month-end close activities and monthly financial package
 
-
 #### Senior Manager, SEC and Technical Reporting Requirements
 
 - Relevant work experience with a Bachelor’s Degree or at least 6-8 years of work experience
@@ -96,7 +95,6 @@ The Senior Manager, SEC and Technical Reporting is a [grade 9](https://about.git
 CPA
 - Relevant years of Big 4 public accounting experience, industry experience
 - Ability to use GitLab
-
 
 ### Director, Record to Report
 

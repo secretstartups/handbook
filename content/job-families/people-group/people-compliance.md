@@ -23,7 +23,6 @@ The Senior Background Specialist is a [grade 6](https://about.gitlab.com/handboo
 - Conduct regular audits to ensure that all processes are being followed, and educate adjacent teams on matters related to the background check and verification process.
 - Ensure new hires receive timely and thoughtful messaging throughout the pre-hire process.
 
-
 ### Senior Background Check Specialist Requirements
 
 - Experience becoming a subject matter expert in or owner of a technical tool.
@@ -34,7 +33,6 @@ The Senior Background Specialist is a [grade 6](https://about.gitlab.com/handboo
 - Strong verbal and written communications with the ability to effectively communicate at multiple levels within the company to ensure compliance needs are met.
 - High level of independence, with an ability to work autonomously with high attention to detail.
 - Ability to appropriately handle highly sensitive and confidential information.
-
 
 ## People Compliance Specialist
 

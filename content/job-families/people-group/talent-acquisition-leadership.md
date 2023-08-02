@@ -62,9 +62,9 @@ The next step in the Talent Acquisition Leader job family is to move to the [Chi
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-  - Qualified candidates will be invited to schedule a 30 minute screening call with a Recruiter
-  - Then, candidates will be invited to schedule two separate 50 minute interviews; a Talent Acquisition Manager, and the Senior Director,  People
-  - Next, candidates will be invited to schedule 4 separate 50 minute interviews; Chief People Officer, Chief Technology Officer, Chief Revenue Officer and the Chief Financial Officer
-  - Finally, candidates will be invited to a 50 minute interview with the CEO
+- Qualified candidates will be invited to schedule a 30 minute screening call with a Recruiter
+- Then, candidates will be invited to schedule two separate 50 minute interviews; a Talent Acquisition Manager, and the Senior Director,  People
+- Next, candidates will be invited to schedule 4 separate 50 minute interviews; Chief People Officer, Chief Technology Officer, Chief Revenue Officer and the Chief Financial Officer
+- Finally, candidates will be invited to a 50 minute interview with the CEO
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).

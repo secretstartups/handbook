@@ -100,7 +100,7 @@ Generally speaking, we aim to make SLA policy conditions as simple as possible.
 When possible, you should use condition sets that are very specific and
 succinct. As an example, if you wanted a SLA policy to only run when the form is
 `Support Ops`, it is better to simply put a condition of "Form is Support Ops"
-than adding exclusions for _every_ other form. This can take time and practice
+than adding exclusions for *every* other form. This can take time and practice
 to learn, so when in doubt, pair with the rest of the Support Ops team!
 
 ## Change management

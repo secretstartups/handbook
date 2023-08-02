@@ -83,16 +83,13 @@ The Stock Administration Manager is a [grade 8](https://about.gitlab.com/handboo
 
 #### Stock Administration Manager Responsibilities
 
-
 - Everything under Senior Stock Administrator" plus the following items:
 - Assist with the preparation of stock related tables for 10Q/10K/Proxy filings
 - Perform monthly reconciliations with HR, Payroll and external vendors
 - Provide reporting for SOX controls
 - Ensure global equity reporting and compliance with international tax and regulatory requirements, including year end equity related tax filings
 
-
 #### Stock Administration Manager Requirements
-
 
 - Considered a specialist in the field within the function.
 - Demonstrates an ability to coordinate multiple projects simultaneously.
@@ -110,7 +107,6 @@ The Stock Administration Manager is a [grade 8](https://about.gitlab.com/handboo
 - CEP Level III Completion (or in process of obtaining CEP Level III).
 - Experience with Google Workspace.
 - Ability to use GitLab
-
 
 ### Director, Stock Adminstrator
 

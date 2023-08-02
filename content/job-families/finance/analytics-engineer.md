@@ -139,9 +139,10 @@ The Principal Analytics Engineer reports to the [Manager, Data](https://about.gi
 The Principal Analytics Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** While there is limited supporting survey data for a grade 9, the same market justification for a Staff Analytics Engineer holds true for a Principal Analytics Engineer. In addition, Analytics Engineering is a relatively new job family in the Data space and is not as mature as the well-established Data Analysis, Data Engineering, and Data Scientist job families. Despite this, the Analytics Engineering job family is growing quickly and there are reasonable analysis to support the addition of new job grades:
-  - From a survey data perspective 11 companies have this role with an average of 1 employee incumbent in all industries.
-  - a LinkedIn search on 2021-08-16 identified 3 Principal Analytics Engineers within the tech sector.
-  - Companies which support the Analytics Engineer job family include: Netifly, Miro, Spotify, Netflix, Frame.io, Slalom, Pluralsight, and dbt.
+
+- From a survey data perspective 11 companies have this role with an average of 1 employee incumbent in all industries.
+- a LinkedIn search on 2021-08-16 identified 3 Principal Analytics Engineers within the tech sector.
+- Companies which support the Analytics Engineer job family include: Netifly, Miro, Spotify, Netflix, Frame.io, Slalom, Pluralsight, and dbt.
 
 #### Principal Analytics Engineer Responsibilities
 
@@ -177,6 +178,7 @@ We are evaluating the addition of levels beyond the Senior level. Currently, bey
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with a Data Director or Manager
 - Next, candidates will be asked to complete a 'take home assessment' that is completed in their own time.

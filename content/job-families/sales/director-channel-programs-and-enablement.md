@@ -95,7 +95,8 @@ The Channel Programs and Enablement Job Family next steps would be to move to th
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 1. Phone screen with a GitLab Recruiting team member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 teammates
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 teammates
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

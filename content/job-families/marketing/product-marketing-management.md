@@ -167,10 +167,10 @@ The Director, Global Partner Marketing is a [grade 10](https://about.gitlab.com/
 - Develop and manage the rollout of partner marketing systems used to facilitate partners ability to market, and generate trials of GitLab software.
 Work with FP&A to ensure MDF allocations/marketing spend are appropriately allocated for.
 - Measurement:
-   - Develop joint Technology, Ecosystem and Channel Partner campaigns and programs that support partner demand generation efforts and that are aligned to GitLab’s fiscal year approved GTM motions.  Monitor and measure activity effectiveness through the generation of Inquiries, MQLs, SAOs, Closed Wons developed jointly with Technology and Ecosystem partners, and Channel Qualified Leads and Partner Initiated Opportunities.
-   - Provide a strong leadership voice and input on Technology, Ecosystem and Channel Partner GTM effectiveness and relative performance in management review meetings.
-   - Ensure above satisfactory ratings of GitLab Partner Marketing effectiveness in partner surveys.
-   - Meet or exceed quarterly PIO goals (new and growth).  Monitor, measure and track lead lifecycle, close rates, lead effectiveness from co and joint marketing campaign efforts with Technology, Ecosystem and Channel Partners.
+  - Develop joint Technology, Ecosystem and Channel Partner campaigns and programs that support partner demand generation efforts and that are aligned to GitLab’s fiscal year approved GTM motions.  Monitor and measure activity effectiveness through the generation of Inquiries, MQLs, SAOs, Closed Wons developed jointly with Technology and Ecosystem partners, and Channel Qualified Leads and Partner Initiated Opportunities.
+  - Provide a strong leadership voice and input on Technology, Ecosystem and Channel Partner GTM effectiveness and relative performance in management review meetings.
+  - Ensure above satisfactory ratings of GitLab Partner Marketing effectiveness in partner surveys.
+  - Meet or exceed quarterly PIO goals (new and growth).  Monitor, measure and track lead lifecycle, close rates, lead effectiveness from co and joint marketing campaign efforts with Technology, Ecosystem and Channel Partners.
 
 #### Director, Global Partner Marketing Requirements
 

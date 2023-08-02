@@ -323,7 +323,6 @@ curl https://gitlab.zendesk.com/api/v2/automations/12345 \
   -X DELETE
 ```
 
-
 ## Common use cases
 
 For all examples:

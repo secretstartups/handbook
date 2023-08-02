@@ -49,9 +49,9 @@ The Senior Professional Services Practice Manager is a [grade 7](https://about.g
 ### Senior Professional Services Practice Manager Job Responsibilities
 
 - Leads efforts to discover market opportunity for new offerings based on:
-    - data gathering from Sales, CS and data analytics teams
-    - qualitative and quantative analysis
-    - customer and partner feedback
+  - data gathering from Sales, CS and data analytics teams
+  - qualitative and quantative analysis
+  - customer and partner feedback
 - Create and prioritize backlog to build/update family of offerings aligned with strategic vision.
 - Prioritizes and executes on building offerings based on alignment with strategic vision.
 - Builds sales collateral, scoping guidelines, project plans, and delivery kits.
@@ -63,7 +63,6 @@ The Senior Professional Services Practice Manager is a [grade 7](https://about.g
 - Work cross-functionally with Finance, Accounting, Fulfillment, Sales Operations and Customer Success/Sales leadership to create new go-to-market motions that align with both overall company vision and PS strategy.
 - Can communicate effectively with senior executives about the offering, regardless of functional specialty or position.
 - Own and launch internal and external marketing campaigns (e.g. blog posts, videos, webinars, internal enablement, presentation on worldwide field calls, roadshow at regional leader calls, etc.) about new or improved offerings.
-
 
 ### Senior Professional Services Practice Manager Job Requirements
 
@@ -83,10 +82,10 @@ The Staff Professional Services Practice Manager is a [grade 9](https://about.gi
 ### Staff Professional Services Practice Manager Job Responsibilities
 
 - Establishes strategic vision for a family of offerings by leading efforts to discover market opportunity for new offerings based on:
-    - data gathering from Sales, CS and data analytics teams
-    - customer and partner feedback
-    - market trends, macroeconomic climate, and new product features
-    - qualitative and quantative analysis
+  - data gathering from Sales, CS and data analytics teams
+  - customer and partner feedback
+  - market trends, macroeconomic climate, and new product features
+  - qualitative and quantative analysis
 - Build PS service catalog strategic vision
 - Create and maintain backlog of work to build new and maintain current [portolio of offerings](https://about.gitlab.com/services/).
 - Influences the PS services strategy to add/augment with new families of services.
@@ -143,6 +142,7 @@ The Manager, Professional Services Practice Management is a [grade 9](https://ab
 All requirements for the Professional Services Practice Manager role apply to the Manager, Professional Services Practice Management role, as the management role will need to understand and participate with the day-to-day aspects of the Professional Services organization in addition to managing the team.
 
 Additional requirements include:
+
 - 3+ years of experience managing, leading and/or delivering professional services or customer success
 - Proven ability to develop strategies, translate them into initiatives and track successful delivery results including growth and profitability on services offers and customer satisfaction
 - Able to adapt to environmental change and retrospecting on success and failures
@@ -257,7 +257,7 @@ The next steps for the Professional Services Practice Manager Job Family would b
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 team members
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 team members
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

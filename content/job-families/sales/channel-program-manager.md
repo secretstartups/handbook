@@ -4,7 +4,6 @@ title: "Channel Program Manager"
 
 The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels & Alliances Partner Programs.  In addition to the partner programs, the Channel Program Managers will manage deal registration, recruitment and partner success programs and manage the partner advisory council.
 
-
 ## Levels
 
 | Role | Grade |
@@ -43,6 +42,7 @@ The Channel Program Manager is a [grade 6](https://about.gitlab.com/handbook/tot
 #### Responsibilities
 
 The Channel Program Manager will be responsible for the design, management & execution of Gitlab’s Channels Partner Programs. In addition to the partner programs, the Channel Programs Managers will manage deal registration, sales engagement and partner success programs and support partner events.
+
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Support the development and management of Partner Programs such as incentive, MDF, Reseller, Services, Alliances, Deal Registration and other programs
 - Develop program guides that details requirements and benefits, terms and conditions, etc.
@@ -64,7 +64,6 @@ The Channel Program Manager will be responsible for the design, management & exe
 - Execution & revenue focused
 - Great project & program management skills, ability to leverage, manage & lead virtual teams
 
-
 ## Senior Channel Program Manager
 
 #### Job Grade
@@ -74,6 +73,7 @@ The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handb
 #### Responsibilities
 
 The Sr. Channel Program Manager will be responsible for the design, management & execution of Gitlab’s global Channels Partner Programs. In addition to the partner programs, the Sr. Channel Programs Managers will manage deal registration, sales engagement and partner success programs and support partner events.  The Senior Channel Prgoram Manager is expected to collaborate at senior levels of the Sales, Finance, Marketing and other organizations and drive alignment around specific channel programs with those organizations.
+
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Design, build and manage Partner Programs including the Program Guide, MDF Program, Reseller, Services, Alliances, Deal Registration Program, etc.
 - Design program guides that detail requirements and benefits, terms and conditions, etc.
@@ -86,7 +86,6 @@ The Sr. Channel Program Manager will be responsible for the design, management &
 - Establish and track metrics of the program, run a quarterly compliance process with the Channel & Alliances field.
 - Individual role specific areas of expertise.  These areas of expertise include, SMB / MM segment, partner types (e.g. distributors), communications / portal, regions / emerging markets, etc.
 
-
 #### Requirements
 
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
@@ -94,7 +93,6 @@ The Sr. Channel Program Manager will be responsible for the design, management &
 - Excellent communication, analytical and organizational skills.
 - Execution & revenue focused
 - Great project & program management skills, ability to leverage, manage & lead virtual teams
-
 
 ## Lead Channel Program Manager
 
@@ -118,7 +116,6 @@ The Lead Channel Program Manager is a [grade 8](https://about.gitlab.com/handboo
 - Collect and manage feedback from channel partners into the ongoing roadmap for the Channel Program.
 Establish and track metrics of the program, run a quarterly compliance process with the Channel & Alliances field.
 
-
 #### Requirements
 
 - Bachelor’s degree with demonstrated progressive experience in channel programs.
@@ -126,7 +123,6 @@ Establish and track metrics of the program, run a quarterly compliance process w
 - Excellent communication, analytical and organizational skills.
 - Execution & revenue focused
 - Great project & program management skills, ability to leverage, manage & lead virtual teams
-
 
 ## Manager, Channel Program
 
@@ -142,7 +138,6 @@ To be defined at time of business need.
 
 To be defined at time of business need.
 
-
 ## Senior Manager, Channel Program
 
 #### Job Grade
@@ -152,6 +147,7 @@ The Senior Manager, Channel Program is a [grade 9](https://about.gitlab.com/hand
 #### Responsibilities
 
 The Sr. Manager, Channel Program will be responsible for the design, management & execution of Gitlab’s global Channels Partner Programs, as well as managing a team of Channel Program Managers. In addition to the partner programs, the Senior Manager, Channel Program will manage deal registration, sales engagement and partner success programs and support partner events.  The Senior Manager is expected to collaborate at senior levels of the Sales, Finance, Marketing and other organizations and drive alignment around specific channel programs with those organizations.
+
 - Collaborate across Channels & Alliances teams to gather requirements for Programs
 - Design, build and manage Partner Programs including the Program Guide, MDF Program, Reseller, Services, Alliances, Deal Registration Program, etc.
 - Design program guides that detail requirements and benefits, terms and conditions, etc.
@@ -183,6 +179,7 @@ The Director, Channel Programs is a [grade 10](https://about.gitlab.com/handbook
 #### Responsibilities
 
 The Director, Channel Program will be responsible for the design, management & execution of Gitlab’s Channels Partner Programs. The Director, Channel Programs will manage a team of Channel Program Managers and Sr. Channel Program Managers In developing, enhancing and measuring the performance of deal registration, sales engagement and partner success programs and support partner events. The Director is expected to establish the vision for the overall channel program, align with Sales on program elements and engagement, and develop the overall financial model for the channel in collaboration with Finance. Collaborate across Channels & Alliances teams to gather requirements for Programs
+
 - Lead the Channel Program team in designing, developing and managing the overall GitLab Channel Programs and individual program elements.
 - Program value messaging.  Support program managers in developing program guides that details requirements and benefits, terms and conditions, etc.  Support channel events and with content and messaging.
 - Create overall partner experience vision.  Lead team in delivering continuous improvements in partner experience.
@@ -232,16 +229,17 @@ To be defined at time of business need.
 ## Career Ladder
 
 Channel Programs team members can continue to expand their responsibilities within the Channel Programs job family to include greater scope and complexity of programs.  Team members may also have a desire to move to other teams based on their career goals:
+
 - Field Enablement for team members with a focus on enablement
 - Channel Sales for team members that want more engagement directly with partners
 - Channel Marketing for a shift to marketing programs and potentially other marketing roles
 - Channel Operations for team members shifting focus into operationalizing channel programs.
 
-
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 1. Phone screen with a GitLab Recruiting team member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 teammates
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 teammates
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -4,7 +4,7 @@ title: "Content Websites"
 
 ## Overview
 
-This area has traditionally been referred to as _"the handbook"_, but over time has grown in scope to include multiple sites, projects, repos, and types of content.
+This area has traditionally been referred to as *"the handbook"*, but over time has grown in scope to include multiple sites, projects, repos, and types of content.
 
 Therefore, we are using the term "content websites" here to avoid ambiguity and properly frame discussions around this scope of responsibility.
 

@@ -40,7 +40,6 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](https://about.git
 - Desire to learn the use of the GitLab platform.
 - Ability to use GitLab.
 
-
 ### Senior Partner Help Desk Specialist
 
 The Senior Partner Help Desk Specialist reports to Manager, Partner Help Desk.
@@ -59,7 +58,6 @@ The Senior Partner Help Desk Specialist is a [Grade 7](https://about.gitlab.com/
 - Experience with Salesforce.com and Partner Relationship Management (PRM) systems.
 - Advanced experience with partner enablement and/or partner operations.
 - 3+ years of experience with B2B sales.
-
 
 ### Manager, Partner Help Desk
 

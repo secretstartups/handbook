@@ -28,7 +28,7 @@ If you are using a Linux device for work, the IT team may email you a link with 
 The subject line of the email is `Invitation to DriveStrike` and it comes from `support@drivestrike.com`.
 
 1. Open the email on the device you want protected.
-2. Click the [link provided in the email](https://app.drivestrike.com/instructions/linux/) to install
-3. Use your `@gitlab.com` when installing if DriveStrike prompts you for a `registration code (email)`.
+1. Click the [link provided in the email](https://app.drivestrike.com/instructions/linux/) to install
+1. Use your `@gitlab.com` when installing if DriveStrike prompts you for a `registration code (email)`.
 
 If you run into any errors or the email address is not found, please reach out in #it_help for assistance.

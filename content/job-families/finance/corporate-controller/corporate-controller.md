@@ -196,4 +196,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Meet with CFO for 50 minutes
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

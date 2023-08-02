@@ -95,7 +95,6 @@ The Manager, Revenue GPO is a [grade 8](https://about.gitlab.com/handbook/total-
 - Perform periodical review of SOX compliance, collaborate with internal audit team for any change in process and controls
 - Support external and internal audit requirements related to revenue reporting
 
-
 #### Senior Manager, Revenue GPO Requirements
 
 - Bachelor degree or equivalent experience (Accounting, Business, Finance or equivalent degree preferred)
@@ -170,4 +169,3 @@ Candidates for the Revenue Organization can expect the hiring process to follow 
 - Successful candidates will subsequently be made an offer via email or phone call
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/)
-

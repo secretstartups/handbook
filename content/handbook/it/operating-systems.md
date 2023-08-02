@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Approved Team Member Endpoint Operating Systems
 ---
 
@@ -9,7 +9,7 @@ Please see this [list](https://docs.gitlab.com/ee/administration/package_informa
 
 ## Approved Operating Systems for GitLab Team Member Endpoint Systems
 
-_last updated 2023-01-12_
+*last updated 2023-01-12*
 
 ### macOS
 
@@ -22,6 +22,7 @@ If your work requires a Linux distro installed on your laptop (a team member end
 The list of Linux versions below is based on what our [EDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution is required on team member endpoint systems and [virtual machines](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#i-have-several-virtual-hosts-on-my-laptop-do-they-all-need-agent).
 
 Linux versions are therefore limited to:
+
 - Red Hat Enterprise Linux (RHEL) 8.0-8.6, 9.0, 9.1
 - Ubuntu 20.04, 22.04
 - Debian 11

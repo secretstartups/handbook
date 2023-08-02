@@ -2,7 +2,7 @@
 title: "emacs"
 ---
 
-Website: https://www.gnu.org/software/emacs/
+Website: <https://www.gnu.org/software/emacs/>
 
 Best for: code editing in the terminal
 

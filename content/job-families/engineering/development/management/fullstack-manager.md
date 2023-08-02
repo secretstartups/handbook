@@ -60,7 +60,6 @@ The *Fullstack Engineering Manager* role is a [grade 8](https://about.gitlab.com
 - Fullstack Engineering Manager
 - [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager/)
 
-
 ## Performance Indicators
 
 Fullstack Engineering Managers have the following job-family performance indicators. Performance indicators for a Manager role usually apply to the team, meaning the manager and their direct reports.
@@ -78,10 +77,10 @@ Fullstack Engineering Managers have the following job-family performance indicat
   - [Open To Merge](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#open-to-merge)
   - [Overall MRs By Type](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
 
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 - Candidates will then be invited to a 60 minute peer interview with another Engineering Manager

@@ -154,8 +154,6 @@ The Lead General Ledger Accountant, Accounting is a [grade 7](https://about.gitl
 6-8 years experience with 2-3 years in public accounting
 Have or actively pursuing CPA
 
-
-
 ### Manager, Accounting
 
 The Manager, Accounting reports to the [Senior Manager, Accounting](https://about.gitlab.com/job-families/finance/accountant/).
@@ -233,6 +231,7 @@ The next step in the General Ledger Accounting job family is to move to the [Con
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidate will have a 30 minute interview with the Hiring Manager,
 - Next, candidates will have separate 30 minute interview with 2 or 3 peers,

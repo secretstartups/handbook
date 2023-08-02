@@ -22,7 +22,6 @@ The Chief Accounting Officer (CAO) is a [grade 12](https://about.gitlab.com/hand
 1. Champion and roll out system enhancements and ensure team is fully maximizing the potential
 1. Serve on the finance leadership team and collaborate with CFO and fellow leaders on functional and people priorities. Bring to life the team vision to transform the function with technology and the finance skill sets of the future.
 
-
 ## Job Requirements
 
 1. You are an organizational fit for GitLab who shares our Values. You will have a point of view of how to balance the company’s values, particularly transparency with the realities of being a public company.

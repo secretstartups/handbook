@@ -16,7 +16,6 @@ The Internal Audit and SOX function has a career ladder represented below:
 | [Director, Internal Audit](#director-internal-audit) | 10 |
 |[VP, Internal Audit](#vice-president-internal-audit) | 12 |
 
-
 ### Internal Auditor
 
 The Internal Auditor is responsible for assisting the Internal Audit team in performing tasks such as creating data requests, performing testing of controls, document evidence of the testing, follow up with function owners for pending information requests, as directed.
@@ -217,8 +216,6 @@ Market Justification: This individual will own the program management of Interna
 - Continuously improve the SOX program to become more efficient and effective through optimization and automation.
 - Support internal audit projects as and when required
 
-
-
 #### Requirements
 
 - Minimum seven (7) years experience in SOX conducting internal audits, including minimum three (3) years of experience in Information Technology industry in internal / external audit preferred
@@ -243,15 +240,12 @@ Market Justification: This individual will own the program management of Interna
 - [Percentage of recommendations implemented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 - [Percentage of audits completed](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
 
-
 #### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with our VP, Internal Audit
-
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
@@ -308,7 +302,6 @@ The Manager, Internal Audit is a [grade 8](https://about.gitlab.com/handbook/tot
 
 The next step in the Manager, Internal Audit job family is to move to the Senior Manager, Internal Audit role.
 
-
 ### Senior Manager, Internal Audit
 
 The Senior Manager, Internal Audit is responsible for performing individual internal audit projects, as part of the total internal audit plan. This responsibility includes developing internal audit scope, performing internal audit procedures, and preparing internal audit reports reflecting the results of the work performed. Work performed will include coverage of functional and operating units and focusing on financial, IT and operational processes. Additionally, the senior internal auditor performs follow-up on the status of outstanding internal audit issues. The senior internal auditor may often direct and review the work performed by other internal audit personnel, including resources from the co-sourcing firm.
@@ -362,11 +355,9 @@ This responsibility includes assessing risk, developing audit scopes, performing
 
  The Senior Audit Manager, IT and Security will interact heavily with the IT/InfoSec Leadership and must be able to clearly articulate related risks and audit results to technical and non-technical members of executive management. This position reports to the Vice President of Internal Audit.
 
-
 ##### Supervisory Responsibility
 
 This position may have supervisory responsibilities in the future and will be responsible for day-to-day management of IT Audit staff and their development of subject matter expertise.
-
 
 #### Job Grade
 
@@ -395,7 +386,6 @@ Identifies control issues and findings timely, and ensures findings are based on
 - Prepares monthly reporting for the Executive team summarizing activities and key performance indicators.
 - Other tasks as assigned.
 
-
 #### Requirements
 
 - Bachelor’s degree in related field required (e.g., Computer Science, Management Information Systems, Accounting)
@@ -422,7 +412,6 @@ Identifies control issues and findings timely, and ensures findings are based on
 - Ability to balance quality of work with speed of execution
 - Ability to use GitLab
 
-
 #### Performance Indicators
 
 - [Percentage of Desktop procedures documented](https://about.gitlab.com/handbook/internal-audit/#internal-audit-performance-measures)
@@ -444,7 +433,6 @@ Candidates for this position can expect the hiring process to follow the order b
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with our VP, Internal Audit.
 
-
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 <br>
@@ -452,7 +440,6 @@ Additional details about our process can be found on our [hiring page](https://a
 ### Director, Internal Audit
 
 The Director, Internal Audit reports to the Vice-President, Internal Audit. This position will be responsible for supporting the Vice-President, Internal Audit in preparing and implementing a risk-based audit plan to assess, report on, and recommend improvements to address GitLab’s strategic, business and compliance objectives. Additionally, the position will support in developing and executing the Internal Audit strategic plan and roadmap to build the next generation Audit function.
-
 
 #### Job Grade
 
@@ -473,10 +460,10 @@ The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/t
 - Coordinate activities with external auditors to support their audit and review procedures.
 - Lead and participate in special projects and other critical initiatives of Internal Audit function
 
-
 #### Requirements
 
 *Subject matter expertise in auditing and enterprise risk management concepts (e.g., risk assessment/prioritization, process & internal controls, root cause analysis)
+
 - Demonstrated strong professional judgment, critical thinking and written/oral communication skills (e.g., persuasion, influence, conflict resolution)
 - Experienced in leading teams leveraging data and analytical tools to solve business problems and in the audit lifecycle (e.g., audit plan development, risk assessment, engagement execution, reporting, findings management)
 - Experienced in leading, coaching and developing team members
@@ -490,7 +477,6 @@ The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/t
 - MBA, Bachelor’s degree in accounting or related finance field. Chartered accountant (CA) or certified public accountant (CPA) desirable.
 - Certified internal auditor (CIA) or certified information systems auditor (CISA) preferred.
 - Ability to use GitLab
-
 
 #### Performance Indicators
 
@@ -584,6 +570,7 @@ The next step in the Vice President Internal Audit job family is to move to a hi
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our PAO
 - Next, candidates will be invited to schedule a 45 minute interview with our CFO.
@@ -593,4 +580,3 @@ Candidates for this position can expect the hiring process to follow the order b
 Successful candidates will subsequently be made an offer via phone and email.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

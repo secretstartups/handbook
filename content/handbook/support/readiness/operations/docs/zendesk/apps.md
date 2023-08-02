@@ -31,7 +31,7 @@ Zendesk applications tend to come from one of two areas:
 
 ## Zendesk Global App List
 
-#### Advanced Search
+### Advanced Search
 
 Advanced Search is an app that provides a simple visual interface for
 constructing complex search queries against tickets, users, and organizations
@@ -45,7 +45,7 @@ App information:
   available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/advanced-search/).
 
-#### GitLab Reminders App
+### GitLab Reminders App
 
 The Reminders App appears in the navbar and allows the agent a more specialized
 view of tickets they are involved in. It currently shows:
@@ -66,7 +66,7 @@ App information:
 - This application was developed in-house and can be found
   [GitLab Reminders App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-reminders-app).
 
-#### GitLab Super App
+### GitLab Super App
 
 A plugin controlled app that can do several things GitLab related
 
@@ -93,7 +93,7 @@ App information:
 - This application was developed in-house and can be found
   [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
 
-#### GitLab Views
+### GitLab Views
 
 The GitLab Views appears in the navbar and allows the agent a more customizable
 set if Zendesk views.
@@ -104,7 +104,7 @@ App information:
 - This application was developed in-house and can be found
   [GitLab Views App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab_views).
 
-#### Mechanizer
+### Mechanizer
 
 This app incorporates [Mechanizer](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html)
 into Zendesk.
@@ -115,7 +115,7 @@ App information:
 - This application was developed in-house and can be found at
   [Mechanizer project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/mechanizer/)
 
-#### Out of Office
+### Out of Office
 
 This will enable an agent to mark when they are out of office in Zendesk, which
 then updates tickets and makes it visible in the views.
@@ -128,7 +128,7 @@ App information:
 - This application was developed in-house and can be found
   [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)
 
-#### Support Ops Super App
+### Support Ops Super App
 
 A plugin controlled app that can do several things Support Ops related
 
@@ -143,7 +143,7 @@ App information:
 - This application was developed in-house and can be found
   [Support Ops Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/support-ops-super-app).
 
-#### Ticket Redaction App
+### Ticket Redaction App
 
 This allows for redacting content in a ticket. You input a string or URL for
 the app to check for. If it finds it, it removes said string and inserts a
@@ -162,7 +162,7 @@ App information:
   available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/ticket-redaction/).
 
-#### Unbabel
+### Unbabel
 
 Powered by state-of-the-art AI and a worldwide community of translators,
 Unbabel delivers translation at enterprise scale. We help you serve customers
@@ -179,7 +179,7 @@ App information:
 - This application was developed by Unbabel and is available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/unbabel-for-zendesk-support/).
 
-###### Configuring Unbabel in Zendesk
+#### Configuring Unbabel in Zendesk
 
 Every Agent profile in Zendesk needs to be individually configured so that only
 tickets submitted in the [supported languages](https://about.gitlab.com/support/portal/#language-support) are translated.
@@ -189,14 +189,14 @@ To do this you can use [a javascript snippet](https://gitlab.com/gitlab-com/supp
 You can also do the configuration manually by following these steps.
 
 1. Open any existing ticket in Zendesk and navigate to and open the Apps sidebar.
-2. Scroll to the Unbabel app and click on Settings.
+1. Scroll to the Unbabel app and click on Settings.
    ![App](/images/support/Unbabel_App_New.png)
    ![Settings](/images/support/Unbabel_Settings_New.png)
-3. Add all the languages _except_ those supported by GitLab to the "Languages you speak" list.
+1. Add all the languages *except* those supported by GitLab to the "Languages you speak" list.
    ![Languages](/images/support/Unbabel_Languages_New.png)
-4. When you are finished, click the Save button.
+1. When you are finished, click the Save button.
 
-###### Replying with a Translation
+#### Replying with a Translation
 
 To request a translation automatically, simply reply as you normally would as
 an internal note with the #unbabel hashtag included at the top of your content.
@@ -221,11 +221,11 @@ scroll down to the **Unbabel for Zendesk Support** box.
 
 After a translated response has been sent to the customer via Unbabel it is
 necessary to manually set the ticket status as **Pending** since Unbabel will
-incorrectly set the ticket status as **Open**. You must do this with an _empty
-comment_ (remove any `#unbabel` added by the plugin, before you Submit as
+incorrectly set the ticket status as **Open**. You must do this with an *empty
+comment* (remove any `#unbabel` added by the plugin, before you Submit as
 Pending).
 
-###### Excluding Text from Translation
+#### Excluding Text from Translation
 
 The highlighted code can be skipped for translation by adding 3 brackets around
 the text:
@@ -237,7 +237,7 @@ the text:
 The above can also be used to protect sensitive information from a human
 translator when sending a translation request.
 
-###### Disabling Unbabel in a Specific Ticket
+#### Disabling Unbabel in a Specific Ticket
 
 Sometimes Unbabel is triggered if a customer's signature was written in a
 language that requires translation but the customer replies in English, and the
@@ -250,14 +250,14 @@ this specific ticket:
 
 From now on, Unbabel will not be triggered in this ticket.
 
-###### Help with Translation
+#### Help with Translation
 
 If for some reason you have difficulty in understanding the automated
 translation, an actual human intervention can actually be requested. Simply
 click the link `Can’t understand the translation?` in the Unbabel app box and
 this will send your response for translation to Unbabel editors.
 
-###### Best Practices for Unbabel
+#### Best Practices for Unbabel
 
 As indicated in the training session, please keep in mind of the following best
 practices when writing a response for translation.
@@ -278,9 +278,9 @@ practices when writing a response for translation.
   - It is likely that the response you are sending may be lost in translation,
     for example the word `pass` would differ to a `boarding pass`.
 
-###### Zendesk Triggers
+#### Zendesk Triggers
 
-Unbabel relies on two Zendesk triggers to work properly. These should _never_
+Unbabel relies on two Zendesk triggers to work properly. These should *never*
 be changed, as it can cause significant problems.
 
 - [Unbabel for agent](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239500)
@@ -321,7 +321,7 @@ in common are:
 - [Out of Office](#out-of-office)
 - [Ticket Redaction App](#ticket-redaction-app)
 
-#### Architecture Diagrams
+### Architecture Diagrams
 
 This app uses the Organization field `AM Project ID` to check for an existing
 Account Management project. If it finds it, it will then link to that
@@ -336,7 +336,7 @@ App information:
 - This application was developed in-house and can be found
   [GitLab Architecture project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-architecture).
 
-#### Due Date Picker
+### Due Date Picker
 
 This is a GitLab built app that allows you to customize what the Due Date for a
 Task ticket is set for. By default, Zendesk only allows setting the date. This
@@ -348,7 +348,7 @@ App information:
 - This application was developed in-house and can be found
   [Due Date Picker project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/due-date-picker).
 
-#### GitLab User Lookup
+### GitLab User Lookup
 
 This app looks in Salesforce and GitLab.com for a contact or account based on
 the requestor’s email address and provided GitLab.com username. If it finds a
@@ -364,7 +364,7 @@ App information:
 - This application was developed in-house and can be found
   [GitLab User Lookup](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-user-lookup).
 
-#### Show Related Tickets
+### Show Related Tickets
 
 This uses the ticket subject to search for other tickets with a similar
 subject. This helps to locate potentially related tickets you can check to see
@@ -391,7 +391,7 @@ read and reference the
 [Zendesk developer documentation](https://developer.zendesk.com/documentation/apps/app-developer-guide/getting_started/)
 as often as possible.
 
-#### ZAT
+### ZAT
 
 ZAT, or Zendesk App Tools, is a ruby gem that makes working with Zendesk Apps
 locally considerably easier. It is highly recommended you install it on your
@@ -419,7 +419,7 @@ sudo gem update zendesk_apps_tools
 Note: ZAT is having issues with Ruby version `3.0.0 and plus`. You'll likely
 need to use old stable versions like `2.6.3p62`
 
-#### manifest.json
+### manifest.json
 
 This file is used to configure you application. As such, it is very important
 and vital it is accurate.
@@ -438,7 +438,7 @@ The common configuration settings are:
 | domainWhitelist  | The domains to allow use of secure parameters | N |
 | private          | Specifies whether the app can be only be installed in the app developer's account or not | N |
 
-#### Location
+### Location
 
 This setting determines where the app will appear and run. This is a very
 important setting. The first setting determines the product type location, and
@@ -471,7 +471,7 @@ settings, with the most common being:
 | `url`      | The URL of the page to display in the iframe of the app | String |
 | `size`     | The initial app size (configure this in the app instead) | JSON |
 
-As an example, to have an app load "https://google.com" automatically in the
+As an example, to have an app load "<https://google.com>" automatically in the
 ticket sidebar with a starting height of 200px, your configuration block would
 look like this:
 
@@ -501,13 +501,12 @@ pages, rendering the locale `assets/iframe.html` file, you would do this:
 }
 ```
 
-
-#### Parameters
+### Parameters
 
 This is where you would define variables you want the app to use during
 installation.
 
-#### Domain whitelists
+### Domain whitelists
 
 If your app is using secure parameters and you plan to make requests outside of
 Zendesk, you must whitelist the domains in question. Each parameter is a hash
@@ -516,7 +515,7 @@ that contains the following:
 - `name`: the name of the parameter
 - `type`: the type of parameter
 - `secure`: ensures users cannot see the variable value when making HTTP
-   requests (you should _always_ use this)
+   requests (you should *always* use this)
 - `require`: specifies if the parameter is required for installation
 
 As an example, to use two required parameters (`param1` and `param2`), both of which are text parameters in a secure way, you would do the following:
@@ -546,7 +545,7 @@ these parameters. To utilize this in the code of your app, you will use this:
 Where `NAME_OF_PARAMETER` is the name you gave the parameter in the
 manifest.json file.
 
-#### init
+### init
 
 To create a client instance of the ZAF (Zendesk App Framework) client, you need
 to ensure the following is present in the javascript of your app:
@@ -555,7 +554,7 @@ to ensure the following is present in the javascript of your app:
 var client = ZAFClient.init();
 ```
 
-#### App resizing
+### App resizing
 
 To resize the app during runtime, you would use the `invoke` class, specifying
 you wish to invoke the `resize` function. This is done like so:
@@ -566,7 +565,7 @@ var zafclient = ZAFClient.init();
 zafclient.invoke('resize', { width: '100%', height: '100px' });
 ```
 
-#### Required javascript library
+### Required javascript library
 
 To utilize the ZAT, you must include the following javascript in your app's
 HTML file(s):
@@ -575,7 +574,7 @@ HTML file(s):
 <script src="https://static.zdassets.com/zendesk_app_framework_sdk/2.0/zaf_sdk.min.js"></script>
 ```
 
-#### Getting metadata
+### Getting metadata
 
 To get metadata and use it in your app, you need to use the ZAF client's `get`
 function. This takes an array of values to get from the ticket metadata, which
@@ -606,13 +605,13 @@ zafclient.get(['ticket.customField:due_date', 'ticket.customField:custom_field_3
 });
 ```
 
-#### Making requests
+### Making requests
 
 Your app might need to make requests, whether they be "internal" (i.e. within
 Zendesk itself) or external. To do this, we use the `request` function of the
 client object.
 
-The format of this is _very_ close to that of making
+The format of this is *very* close to that of making
 [AJAX requests](https://api.jquery.com/jquery.ajax/) in jQuery. The format you
 will normally use is:
 
@@ -682,7 +681,7 @@ From there, run the command `zat new` and fill out the requested details (author
 name, author email, app URL, app name, iFrame URI, directory). After doing so,
 you will have the baseline files you need to create your application.
 
-```string
+```text
 jcolyer@jcolyer-Desktop:~/my_new_app$ zat new
 Enter this app author's name:
  test
@@ -696,7 +695,7 @@ Enter your iFrame URI or leave it blank to use a default local template page:
  (assets/iframe.html)
 Enter a directory name to save the new app (will create the dir if it does not exist):
  (./)
-       exist  
+       exist
       create  README.md
       create  assets/iframe.html
       create  assets/logo-small.png
@@ -714,7 +713,7 @@ desire).
 Once you are done creating your application, you will need to package it. To do
 this, run the command `zat package`:
 
-```string
+```text
 jcolyer@jcolyer-Desktop:~/my_new_app$ zat package
         info  Checking for new version of zendesk_apps_tools
      warning  Your version of Zendesk Apps Tools is outdated. Update by running: gem update zendesk_apps_tools
@@ -786,7 +785,7 @@ proceed. A pop-up will ask you to confirm the uninstall process. Click the blue
 
 There are two ways to test a Zendesk app before you put it into production:
 
-#### Locally
+### Locally
 
 **Note**: This cannot be done if your app is using secure parameters. Instead,
 you would need to install the app into the Sandbox and test from there.
@@ -797,7 +796,7 @@ computer. Once it has booted up, go to a Zendesk URL and put `?zat=true` at the
 end. This will now load the apps from your local computer, allowing you to test
 out the app locally.
 
-#### Via the Sandbox
+### Via the Sandbox
 
 If your app is using secure parameters, you will need to test via the Sandbox
 instead. Follow the process for [creating an app](#how-to-create-a-zendesk-app)
@@ -811,12 +810,12 @@ applies to all Zendesk apps. See
 [standard change management](/handbook/support/readiness/operations/docs/change_management#standard-change-management)
 for more information.
 
-#### Labels to use
+### Labels to use
 
 For all issues and MRs involving apps, the label
 `Support-Ops-Category::Apps` should be used.
 
-#### Change criticality
+### Change criticality
 
 As Zendesk apps tend to have far less of an impact, adding/editing/deleting
 Zendesk apps will be classified as either

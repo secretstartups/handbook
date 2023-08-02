@@ -122,7 +122,6 @@ _ Work with SEO team on optimization goals.
 - You share our values, and work in accordance with those values.
 - BONUS: A passion for and strong understanding of the industry and our mission.
 
-
 ### Senior Managing Editor
 
 #### Job Grade

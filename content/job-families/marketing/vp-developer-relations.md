@@ -53,6 +53,7 @@ The career ladder for this role is not yet defined.
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with our Executive Recruiter.
 - 50 minute Meeting with the CMSO
 - 50 minute Meeting with VP Product Marketing
@@ -63,4 +64,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - 25 minute Meeting with CEO
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

@@ -27,7 +27,6 @@ The Employment Solutions Specialist is a [grade 6](https://about.gitlab.com/hand
 - Proactively identify process inefficiencies and inconsistencies and collaborate towards an improved and more productive process that improves the employee and/or manager’s experience.
 - Announcing changes and improvements in the #whats-happening-at-gitlab Slack channel
 
-
 ## Requirements
 
 - The ability to work autonomously and to drive your own performance & development would be important in this role.
@@ -111,6 +110,7 @@ The next step in the People Operations job family is to move to the [People Oper
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with our Senior Manager, People Operations.
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Operations and International Expansion Team.

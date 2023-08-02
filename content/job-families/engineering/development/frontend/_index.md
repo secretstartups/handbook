@@ -39,7 +39,7 @@ requirements and responsibilities:
 - Ability to use GitLab
 - Comfort and familiarity with our [code review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/)
 
-#### Nice to have:
+#### Nice to have
 
 - Working knowledge of Ruby on Rails and Haml
 - Experience in a peak performance organization, preferably a tech startup
@@ -233,7 +233,7 @@ The Global Search team uses Elasticsearch to develop search features that users 
 - [Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
 - [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
-## What it’s like to work here at GitLab:
+## What it’s like to work here at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team-members are currently located in 50+ different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe.
 

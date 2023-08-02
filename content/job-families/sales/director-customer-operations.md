@@ -28,8 +28,8 @@ The Director Customer Success Operations is a [grade 10](https://about.gitlab.co
 - Own partnership with Product, bringing “voice of customer” to Product teams, including interlock, reporting, metrics, and facilitating customer engagement (e.g., surveys, interviews, etc.)
 - Leverage data and analytics to develop, lead, and measure results for GTM sales and adoption-related initiatives, programs, and campaigns
 - Define, develop, and continuously improve GitLab's renewal process through:
-   - Renewal segmentation frameworks for efficient management
-   - Effective field-tested customer engagement strategies
+  - Renewal segmentation frameworks for efficient management
+  - Effective field-tested customer engagement strategies
 
 #### Requirements
 
@@ -46,7 +46,6 @@ The Director Customer Success Operations is a [grade 10](https://about.gitlab.co
 - Ability to learn GitLab as part of the role
 - You share our [values](/handbook/values/) and work in accordance with those values
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
-
 
 ### Senior Director of Customer Success Operations
 

@@ -134,4 +134,3 @@ You will typically get 50% as base and 50% based on commission. See our
 [market segmentation](https://about.gitlab.com/handbook/sales/#market-segmentation) for
 typical quotas in the U.S.
 Also see the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/).
-

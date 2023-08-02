@@ -93,7 +93,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next candidates will meet the Hiring Manager.
 - There will then be 2x Technical Interviews - one Frontend and one Backend.
-- The next _optional_ step is an architectural discussion
+- The next *optional* step is an architectural discussion
 - Next you will meet a Product Manager
 - The Final interview is with a senior member of the Incubation Engineering Department
 

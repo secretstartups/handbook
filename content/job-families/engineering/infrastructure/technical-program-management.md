@@ -19,7 +19,6 @@ ITPMs typically have a background in engineering or computer science, and have a
 - Be a change advocate responsible for initiating and leading multiple organizations through pivots needed to address shifts in business trends and priorities
 - Utilize technical acumen in working with large, cross-functional distributed teams.
 
-
 ## Requirements
 
 - Experience managing execution of complex programs that span multiple engineering teams through the software project lifecycle (build, test, and release on time).
@@ -84,6 +83,7 @@ All responsibilities of previous roles plus:
 #### Senior Infrastructure Technical Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - 5+ years of experience in technical program/project management or equivalent
 - Experience with infrastructure-related projects such as cloud infrastructure, data center operations, and network engineering
 - Experience influencing others without having direct management authority and motivating them to successfully complete tasks within required timelines
@@ -101,6 +101,7 @@ The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Staff Infrastructure Technical Program Manager Responsibilities
 
 All responsibilities of previous roles plus:
+
 - Identify and coordinate the interdependencies among programs, products and other critical initiatives across all Infrastructure sub-departments within our organization
 - Assist defining business requirements and roadmaps in alignment with the overall information Infrastructure strategy
 - Define acceptance criteria for solutions, value proposition and milestones for execution; Validate prototypes with partners and iterate solutions as needed to deliver value
@@ -110,6 +111,7 @@ All responsibilities of previous roles plus:
 #### Staff Infrastructure Technical Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - 7+ years of experience in technical program/project management or equivalent
 - Advanced understanding of application, development and infrastructure frameworks
 - Advanced anaytical skills for assessing and recommending solutions based on data and research
@@ -125,6 +127,7 @@ The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensa
 #### Principal Infrastructure Technical Program Manager Responsibilities
 
 All responsibilities of previous roles plus:
+
 - Develop and implement strategies for program growth and expansion
 - Manage program budgets and financial reporting.
 - Expanded sphere of influence in driving Infrastructure initiatives across the company
@@ -135,10 +138,10 @@ All responsibilities of previous roles plus:
 #### Principal Infrastructure Technical Program Manager Requirements
 
 All requirements of previous roles plus:
+
 - 10+ years of experience in technical program/project management or equivalent
 - Influence and implement change across the company
 - Speak to and represent GitLab to customers, vendors and other external stakeholders
-
 
 ## Segment
 
@@ -166,6 +169,7 @@ For details on the Infrastructure organization leadership roles, to include the 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 1. Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 1. Candidates will be invited to schedule a 50-minute interview with the VP of Infrastructure & Quality.
 1. Candidates will be invited to schedule a 50-minute interview with a Director/Sr. Director of Infrastructure.

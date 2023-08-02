@@ -22,4 +22,3 @@ title: "Prometheus Specialist"
 - Experience with managing large amounts of product analytics
 - Experience developing time-series databases
 - You have contributions in the [Prometheus open source project](https://github.com/prometheus)
-

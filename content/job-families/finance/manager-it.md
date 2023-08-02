@@ -115,8 +115,6 @@ The Manager, IT End User Services leads a team of highly-collaborative and resul
 - Experience developing a team in a fast-paced, high-growth environment
 Familiarity with data management policies and regulations (GDPR, SOX, PCI)
 
-
-
 ## Performance Indicators
 
 - [New Hire Location Factor < 0.69](https://about.gitlab.com/handbook/business-technology/metrics/#new-hire-location-factor--069)

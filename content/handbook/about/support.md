@@ -11,7 +11,7 @@ When contributing to the GitLab Handbook you might run into situations that requ
   <iframe src="https://www.youtube.com/embed/PeopYsoweGU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-_In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, two colleagues share their screens and walk through the process detailed below._
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, two colleagues share their screens and walk through the process detailed below.*
 
 ---
 
@@ -19,7 +19,7 @@ If you create a merge request during a period where there is an issue in master 
 
 Once the issue in master is fixed, you can solve this by using terminal to merge the latest version of master into your branch (which you can find in your [merge request](https://docs.gitlab.com/ee/user/project/merge_requests/)).
 
-For those who primarily use Web IDE to interface with GitLab, it can feel foreign to engage [locally](https://about.gitlab.com/handbook/git-page-update/). Before diving in deeper, be sure to read our [_GitLab 101 – a primer for the non-technical_](https://about.gitlab.com/blog/2019/08/02/gitlab-for-the-non-technical/) blog post.
+For those who primarily use Web IDE to interface with GitLab, it can feel foreign to engage [locally](https://about.gitlab.com/handbook/git-page-update/). Before diving in deeper, be sure to read our [*GitLab 101 – a primer for the non-technical*](https://about.gitlab.com/blog/2019/08/02/gitlab-for-the-non-technical/) blog post.
 
 The process is fairly straightforward once you have completed the [necessary steps listed in the GitLab Handbook to edit locally](https://about.gitlab.com/handbook/git-page-update/).
 
@@ -41,7 +41,7 @@ If you are a GitLab team member and you get stuck, please ask for help in the `#
 
 {{% youtube id="WlgH-6cX1k8" title="Debugging a failed pipeline on the Handbook" %}}
 
-_In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Jean shares a quick overview of how to go about identifying why a pipeline might be failing for a merge request to the GitLab handbook._
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, Jean shares a quick overview of how to go about identifying why a pipeline might be failing for a merge request to the GitLab handbook.*
 
 ### Why is my pipeline failing?
 
@@ -107,7 +107,7 @@ There are times when you need to find every instance of a word, phrase or link a
 1. Type in the word, phrase or link you wish to replace it with in the Replace field, under the Search field.
 1. Press the Replace All symbol at the end of the Replace field (or Option-Command-Enter).
 1. You will get a pop-up asking you to confirm that you indeed with to `Replace X occurence(s) accross X files with X ?`. If correct, press `Replace`.
-_Please note that it is possible to click on a search result to see individual changes and replace only a subset of all occurrences by clicking the replace button next to a given search result only._
+*Please note that it is possible to click on a search result to see individual changes and replace only a subset of all occurrences by clicking the replace button next to a given search result only.*
 
     ![picture-of-vscode-replace](/handbook/about/images/vscode_employee.png)
 1. Return to your Terminal.

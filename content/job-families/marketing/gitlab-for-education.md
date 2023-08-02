@@ -83,6 +83,7 @@ This role includes all of the responsibilities of the previous level.
 #### Senior Education Program Manager Requirements
 
 This role includes all of the requirements of the previous level plus:
+
 - You have 7-10 years of experience running developer relations or community advocacy programs, preferably open source in nature.
 - Prior experience developing relationships with educational institutions.
 - Substantial experience in academia and research spaces.
@@ -92,6 +93,7 @@ This role includes all of the requirements of the previous level plus:
 As the Manager, Education Program, you will be responsible for building our GitLab for Education function.
 
 This role includes all of the elements of the Education Program Manager plus:
+
 - Define and execute the GitLab for Education vision and strategy to align it across teams.
 - Identify opportunities and build the resources to equip the GitLab team and the wider community to become education evangelists.
 - Create, report, and iterate on the relevant key performance indicators to effectively measure the impact of the GitLab for Education Program initiatives.
@@ -107,6 +109,7 @@ The Manager, Education Program is a [grade 8](https://about.gitlab.com/handbook/
 #### Manager, Education Program Requirements
 
 This role includes all of the requirements of the Education Program Manager plus:
+
 - You have 2+ years of experience leading a team of education evangelists/advocates or similar roles.
 
 ### Senior Manager, Education Program
@@ -120,6 +123,7 @@ The Manager, Education Program is a [grade 9](https://about.gitlab.com/handbook/
 #### Senior Manager, Education Program Requirements
 
 In addition to meeting all the requirements of the Manager, Education Program:
+
 - You have 2-5 years of experience leading a team of education evangelists/advocates or similar roles.
 
 ### Director, Education

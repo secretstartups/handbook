@@ -10,7 +10,7 @@ Team Members of the Sales Commission's team manage GitLab's commissions programs
 
 The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Assist with worldwide commission calculations, reporting, and first-tier end user support
 - Track and research compensation issues and provide analysis to facilitate timely resolution
@@ -22,7 +22,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 - Support SOX compliance, documentation, and reporting
 - Prepare ad hoc analysis & participate on projects as needed
 
-### Requirements
+#### Requirements
 
 - BA/BS degree in accounting, finance, economics or other quantitative fields preferred
 - Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
@@ -36,7 +36,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-## Performance Indicators
+#### Performance Indicators
 
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
@@ -44,7 +44,7 @@ The Junior Sales Commissions Analyst is a [grade 5](https://about.gitlab.com/han
 
 ### Intermediate Sales Commissions Analyst
 
-### Job Grade
+#### Job Grade
 
 The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -58,7 +58,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 - Support SOX compliance, documentation, and reporting
 - Prepare ad hoc analysis & participate on projects as needed
 
-### Requirements
+#### Requirements
 
 - BA/BS degree in accounting, finance, economics or other quantitative fields preferred
 - Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
@@ -72,7 +72,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-## Performance Indicators
+#### Performance Indicators
 
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
@@ -82,7 +82,7 @@ The Intermediate Sales Commissions Analyst is a [grade 6](https://about.gitlab.c
 
 The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Assist with worldwide commission calculations, reporting, and first-tier end user support
 - Track and research compensation issues and provide analysis to facilitate timely resolution
@@ -94,7 +94,7 @@ The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/han
 - Support SOX compliance, documentation, and reporting
 - Prepare ad hoc analysis & participate on projects as needed
 
-### Requirements
+#### Requirements
 
 - BA/BS degree in accounting, finance, economics or other quantitative fields preferred
 - Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
@@ -108,19 +108,19 @@ The Senior Sales Commissions Analyst is a [grade 7](https://about.gitlab.com/han
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-## Performance Indicators
+#### Performance Indicators
 
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
 
-## Senior Manager, Sales Commissions
+### Senior Manager, Sales Commissions
 
-### Job Grade
+#### Job Grade
 
 The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+#### Responsibilities
 
 - Own worldwide commissions calculations, reporting, policies and provide first-tier support for all end-user technical or commission inquiries. Includes sales, customer success, alliances, and market development.
 - Partner with various functions such as Sales Operations, People Operations and Finance to establish best practices, as well as drive ongoing process refinement to improve the efficiency and accuracy of sales commissions methodology, calculations and reporting
@@ -134,7 +134,7 @@ The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/ha
 - Assist external audit firm on commission related matters for quarterly reviews and annual audits and ad hoc requests
 - Ensure compliance with SOX for compensation documents, processes, programs and policies
 
-### Requirements
+#### Requirements
 
 - BA/BS degree in accounting, finance, economics or other quantitative fields preferred
 - Demonstrated progressive relevant experience and a solid understanding of sales incentive programs, processes and procedures
@@ -148,17 +148,17 @@ The Senior Manager, Sales Commissions is a [grade 9](https://about.gitlab.com/ha
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 - Ability to use GitLab
 
-## Performance Indicators
+#### Performance Indicators
 
 - [IACV](https://about.gitlab.com/handbook/sales/#incremental-annual-contract-value-iacv) vs. plan
 - [IACV efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 - Rep [IACV per comp](https://about.gitlab.com/handbook/sales/#measuring-sales-rep-productivity)
 
-### Career Ladder
+## Career Ladder
 
 The next step in the Sales Commissions job family is not yet defined at GitLab.
 
-### Hiring Process
+## Hiring Process
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 

@@ -85,7 +85,6 @@ The Senior PR Manager is a [grade 7](https://about.gitlab.com/handbook/total-rew
 - Report back on press activities, coverage, opportunities, successes and press feedback.
 - Collaborate across teams and PR agencies  to determine the PR calendar.
 
-
 #### Requirements
 
 - 8+ years experience in public relations.

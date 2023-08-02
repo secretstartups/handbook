@@ -39,7 +39,7 @@ During a presentation or screen share, you might want to disable your notificati
 The Notification Center can be quickly disabled by Option-Clicking the menu bar icon in the top right of your screen.
 This disables notifications until the next day.
 Option-Click again to re-enable immediately.
-Alternatively, click on the Notification Center icon, then scroll _up_ to reveal the "Do Not Disturb" toggle.
+Alternatively, click on the Notification Center icon, then scroll *up* to reveal the "Do Not Disturb" toggle.
 
 If your laptop is a MacBook with a Touch Bar, note that you can assign a handy "Do Not Disturb" button on your Control Strip.
 In System Preferences, navigate to Keyboard settings and click "Customize Control Strip..." to add this.

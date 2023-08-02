@@ -6,7 +6,6 @@ canonical_path: "/handbook/support/readiness/operations/docs/policies/1password_
 
 ## When do we perform these?
 
-
 1Password audits are to be completed every 6 months:
 
 - Once in the first quarter of the fiscal year

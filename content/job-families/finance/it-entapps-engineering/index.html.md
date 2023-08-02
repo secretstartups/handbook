@@ -48,21 +48,20 @@ Extends the IT Enterprise Applications Administrator responsibilities:
 - Project Management: Run medium-sized projects that improve our ability to make better data driven insights or make the company more efficient.
 - Communication: Target audience Sr. Manager, Director, Sr. Director and functional VP.
 - Application Specific Skills:
-   - SFDC:
-      - Build Salesforce solutions on Salesforce Cloud, Service Cloud, Marketing Cloud, Salesforce Communities or Knowledge.
-      - Develop end to end Salesforce solutions using Configuration and Customization - APEX Class, Triggers, Visualforce pages, Lightning components etc.
-      - Automate business processes using Salesforce automation tools, such as Process Builder, Workflows, Formulas, Flow, Assignment Rules and email Alerts.
-      - Build integrations between Salesforce and external applications using REST, SOAP APIs, oAuth and Single Sign-On.
-   - NetSuite:
-      - Develop with NetSuite SuiteCloud development tools such as SuiteBuilder, SuiteFlow, SuiteAnalytics, and SuiteScript to develop new and maintain existing business workflows.
-      - Build system integrations tools such as SuiteTalk, RESTlets and Netsuite SOAP APIs.
-   - Workday:
-      - Assist with the implementations, and post-production support, of Workday’s HCM Suite of modules.
-      - Develop technical integrations using Workday Studio, Workday RaaS Integrations, Enterprise Interface Builder (EIB), Calculated Fields, Web Services, Workday Custom Reports, Web Services, XSLT, and xPath.
-      - Contribute to Workday R1/R2 release reviews and testing by identifying impact associated with new release features.
-   - Zuora Billing & Revenue:
-      - Create and maintain customizations within Zuora using the Zuora API and the Zuora Object Query Language (ZOQL).
-
+  - SFDC:
+    - Build Salesforce solutions on Salesforce Cloud, Service Cloud, Marketing Cloud, Salesforce Communities or Knowledge.
+    - Develop end to end Salesforce solutions using Configuration and Customization - APEX Class, Triggers, Visualforce pages, Lightning components etc.
+    - Automate business processes using Salesforce automation tools, such as Process Builder, Workflows, Formulas, Flow, Assignment Rules and email Alerts.
+    - Build integrations between Salesforce and external applications using REST, SOAP APIs, oAuth and Single Sign-On.
+  - NetSuite:
+    - Develop with NetSuite SuiteCloud development tools such as SuiteBuilder, SuiteFlow, SuiteAnalytics, and SuiteScript to develop new and maintain existing business workflows.
+    - Build system integrations tools such as SuiteTalk, RESTlets and Netsuite SOAP APIs.
+  - Workday:
+    - Assist with the implementations, and post-production support, of Workday’s HCM Suite of modules.
+    - Develop technical integrations using Workday Studio, Workday RaaS Integrations, Enterprise Interface Builder (EIB), Calculated Fields, Web Services, Workday Custom Reports, Web Services, XSLT, and xPath.
+    - Contribute to Workday R1/R2 release reviews and testing by identifying impact associated with new release features.
+  - Zuora Billing & Revenue:
+    - Create and maintain customizations within Zuora using the Zuora API and the Zuora Object Query Language (ZOQL).
 
 ### IT Enterprise Applications Engineer Requirements
 
@@ -72,25 +71,25 @@ Extends the IT Enterprise Applications Administrator responsibilities:
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 - Application Specific Skills:
-   - SFDC:
-      - Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
-      - Experience with ETL tools like MuleSoft, Workato or Informatica Cloud would be a plus.
-      - Salesforce.com certified Platform Developer, Salesforce.com App Builder, Architect or other advanced certifications.
-   - NetSuite:
-      - Full understanding of NetSuite stack and experience with all NetSuite modules (GL, AP, AR, FA, SuiteBilling, Procurement, etc.).
-      - Working knowledge of SuiteScript, SuiteTalk, SuiteFlow, CSV imports, user provisioning, defining roles, analytics, and scheduling scripts.
-      - Expertise in web technologies such as HTML, CSS, JavaScript, Web Services, and Eclipse.
-      - Strong data analytics, reporting, and database experience (SQL and NetSuite and other reporting tools, ODBC).
-      - NetSuite SuiteCloud Developer certifications a plus.
-   - Workday:
-      - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java.
-      - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards).
-      - Experience with building web services integrations (REST/SOAP).
-      - Workday Pro HCM, Compensation, Integrations, Reporting certifications a plus.
-   - Zuora Billing & Revenue:
-      - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
-      - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
-      - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
+  - SFDC:
+    - Development experience with advanced Salesforce.com development tools and techniques (e.g. Apex language, Force.com custom development, triggers, controllers, JavaScript, Force.com SOAP and REST APIs, JSON, AngularJS, jQuery, JavaScript, sObjects, SOQL, SOSL, Chatter APIs, outbound messaging, Bootstrap, Lightning Design System (LDS), Lightning Components and Visualforce pages).
+    - Experience with ETL tools like MuleSoft, Workato or Informatica Cloud would be a plus.
+    - Salesforce.com certified Platform Developer, Salesforce.com App Builder, Architect or other advanced certifications.
+  - NetSuite:
+    - Full understanding of NetSuite stack and experience with all NetSuite modules (GL, AP, AR, FA, SuiteBilling, Procurement, etc.).
+    - Working knowledge of SuiteScript, SuiteTalk, SuiteFlow, CSV imports, user provisioning, defining roles, analytics, and scheduling scripts.
+    - Expertise in web technologies such as HTML, CSS, JavaScript, Web Services, and Eclipse.
+    - Strong data analytics, reporting, and database experience (SQL and NetSuite and other reporting tools, ODBC).
+    - NetSuite SuiteCloud Developer certifications a plus.
+  - Workday:
+    - Strong technical experience with XSLT, XTT, XML and object-oriented development including Java.
+    - Experience with Web Services and APIs (WSDL, SOAP, REST and WS standards).
+    - Experience with building web services integrations (REST/SOAP).
+    - Workday Pro HCM, Compensation, Integrations, Reporting certifications a plus.
+  - Zuora Billing & Revenue:
+    - Experience working with Zuora, including experience with the Zuora 360, API and ZOQL.
+    - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
+    - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
 
 ### Manager, IT Enterprise Applications Engineering
 

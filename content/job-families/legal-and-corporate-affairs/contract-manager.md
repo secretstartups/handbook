@@ -3,15 +3,13 @@ title: "Contract Manager"
 ---
 ## Job Grades
 
+The Contract Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Contract Manager
 
 The Contract Manager is responsible for managing the contracting process for sales, procurement and non-sales engagements. At the direction of the Director of Contracts & Legal Operations, the Contract Manager will review, negotiate, and manage all contracts, as well as oversee the overall contracting process.
-
-### Job Grade
-
-The Contract Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -19,7 +17,6 @@ The Contract Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewa
 - Perform risk analysis review for all contractual documents and recommend mitigating options
 - Understand the Company and products in order to identify risks, develop solutions, mitigation and negotiation strategies
 - Input completed contracts into the contract management system and capture key terms
-
 
 ### Requirements
 
@@ -38,7 +35,7 @@ The Contract Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewa
 
 The Senior Contract Manager is responsible for managing the contracting process for sales, procurement and non-sales engagements, as well as, building and adding to internal standards and documentation to assist in the growth of the team. In addition, Senior Contract Managers will take a leadership role with respect to, (i) mentoring new Contract Managers, and (ii) enablement and training for the GitLab Sales Team.
 
-## Job Grade
+### Job Grade
 
 The Senior Contract Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -55,7 +52,6 @@ The Senior Contract Manager is a [grade 7](https://about.gitlab.com/handbook/tot
 - Understand the Company and products in order to identify risks, develop solutions, mitigation and negotiation strategies
 - Input completed contracts into the contract management system and capture key terms
 
-
 ### Requirements
 
 - Minimum of 10 years of contracts drafting, reviewing and negotiation experience at a software technology company
@@ -70,12 +66,11 @@ The Senior Contract Manager is a [grade 7](https://about.gitlab.com/handbook/tot
 - Ability to manage internal customer priorities and needs
 - Ability to use GitLab
 
-
 ## Manager, Lead Contract Manager
 
 The Manager, Lead Contract Manager reports to the Sr. Director, Contracts & Legal Operations and is responsible for managing the Contract Managers located globally. They are responsible for the continued growth of the team, as well as, providing leadership in the form of mentoring and creating enablement and training materials for all GitLab Team Members.
 
-## Job Grade
+### Job Grade
 
 The Manager, Lead Contract Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -91,8 +86,6 @@ The Manager, Lead Contract Manager is a [grade 8](https://about.gitlab.com/handb
 - Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
 - Draft and negotiate a wide range of contracts including services, consulting, marketing, licensing, non-disclosure, data privacy, and other commercial and technology related agreements
 - Create and present training materials for both Contract Managers, and Sales Team Members
-
-
 
 ### Requirements
 
@@ -118,7 +111,6 @@ Read more about what a [specialty](https://about.gitlab.com/handbook/hiring/#def
 - Work closely with Procurement and Finance stakeholders for the procurement of services, materials, software and other required goods
 - Own and manage the negotiation of Vendor Contracts
 - Establish best practices, playbooks, and approval frameworks for Vendor Contracts
-
 
 ## Performance Indicators
 

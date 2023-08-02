@@ -15,7 +15,6 @@ The Professional Services Manager contributes to and executes the strategic visi
 | [Senior Director, Professional Services](#senior-director-of-professional-services) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Vice President, Professional Services](#vice-president-of-professional-services) | [Grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-
 ## Regional Manager, Professional Services
 
 The Regional Manager, Professional Services reports into the Director, Professional Services.
@@ -72,8 +71,6 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 - Demonstrated progressive experience managing, leading and/or delivering professional services or customer success
 - Demonstrated progressive experience with a subscription-based business model, delivering on-premises and SaaS solutions
 - Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners
-
-
 
 ## Director of Professional Services
 
@@ -134,6 +131,7 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 ## KPIs
 
 [KPIs](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#team-metrics)
+
 - Completion of initiatives to improve quality, reliability, efficiency, and repeatability of services
 - Financial success for the Professional Services organization (i.e., bookings, revenue, project and gross margin, revenue per employee and billable employee)
 - Delivery metrics (i.e., customer satisfaction, on-time delivery, utilization)

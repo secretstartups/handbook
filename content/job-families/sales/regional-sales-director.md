@@ -38,9 +38,7 @@ The Regional Sales Director is a [grade 10](https://about.gitlab.com/handbook/to
 
 {{% job-families/sales/performance %}}
 
-
 ## Location
-
 
 ## Career Ladder
 

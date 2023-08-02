@@ -13,13 +13,11 @@ title: "Alliances Job Family Matrix"
 | [Director, Alliances Partner Managers](#director-alliances-partner-managers) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 | [Senior Director, Alliances Partner Managers](#senior-director-alliances-partner-managers) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
-
 ### Partnerships
 
 | Role | Grade |
 | -- | - |
 | [Director, Partnerships](#director-partnerships) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-
 
 ### Alliances Leadership
 
@@ -199,7 +197,6 @@ To be defined at time of business need.
 
 To be defined at time of business need.
 
-
 ## Partnerships
 
 ### Director, Partnerships
@@ -230,7 +227,6 @@ The Director, Partnerships is a [grade 10](https://about.gitlab.com/handbook/tot
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
-
 
 ## Leadership
 
@@ -286,4 +282,3 @@ The next step in the Alliances job family is not yet defined at GitLab.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-

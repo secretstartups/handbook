@@ -36,8 +36,8 @@ The handbook is subject to interpretation. We do our best to be as clear as poss
 
 ## Count handbook pages
 
-It's easy to see that the handbook is large, but have you ever wondered just _how_ large?
-The handbook is over _two_ _thousand_ pages long. That's a lot of good info!
+It's easy to see that the handbook is large, but have you ever wondered just *how* large?
+The handbook is over *two* *thousand* pages long. That's a lot of good info!
 
 ### Historical Word and Page Counts
 
@@ -68,7 +68,7 @@ GitLab uses [Snowplow](https://docs.gitlab.com/ee/development/snowplow/) to trac
 
 ## More about the handbook
 
-We've gathered _some_ information about the handbook here, but there's still more elsewhere.
+We've gathered *some* information about the handbook here, but there's still more elsewhere.
 
 - [Handbook usage](https://about.gitlab.com/handbook/handbook-usage/)
 - [Evolution of the handbook](https://about.gitlab.com/handbook/ceo/#evolution-of-the-handbook) on the [CEO page](https://about.gitlab.com/handbook/ceo/)

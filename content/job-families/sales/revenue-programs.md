@@ -200,13 +200,13 @@ The Director, Revenue Programs role is a [grade 10](https://about.gitlab.com/han
 - Sales pipeline coverage
 - New logos
 - Lead conversion rates with initial emphasis on conversion metrics italicized below
-   - _MQL (Marketing Qualified Lead) to SAO (Sales Accepted Opportunity)_
-   - _1-Discovery to 2-Scoping_
-   - _2-Scoping to 3-Technical Evaluation_
-   - 3-Technical Evaluation to 4-Proposal
-   - 4-Proposal to 5-Negotiating
-   - 5-Negotiating to 6-Awaiting Signature
-   - 6-Awaiting Signature to Closed Won
+  - *MQL (Marketing Qualified Lead) to SAO (Sales Accepted Opportunity)*
+  - *1-Discovery to 2-Scoping*
+  - *2-Scoping to 3-Technical Evaluation*
+  - 3-Technical Evaluation to 4-Proposal
+  - 4-Proposal to 5-Negotiating
+  - 5-Negotiating to 6-Awaiting Signature
+  - 6-Awaiting Signature to Closed Won
 
 ## Career Ladder
 

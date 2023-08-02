@@ -45,7 +45,7 @@ The Manager, Data is a [grade 8](https://about.gitlab.com/handbook/total-rewards
 - Experience working with large quantities of raw, disorganized data
 - Must be able to work in alignment with Americas timezones
 
-## Performance Indicators (PI)
+#### Performance Indicators (PI)
 
 - [SLO Achievement](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source) for Tier 1 Data
 - Legacy Data Removal Iterations
@@ -80,7 +80,7 @@ The Senior Manager, Data is a [grade 9](https://about.gitlab.com/handbook/total-
 - Experience developing a team in a fast-paced, high-growth environment
 - Familiarity with data management policies and regulations (GDPR, SOX, PCI)
 
-## Performance Indicators (PI)
+#### Performance Indicators (PI)
 
 - [% of team who self-classify as diverse](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-team-who-self-classify-as-diverse)
 - [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)

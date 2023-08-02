@@ -13,6 +13,7 @@ The Principal Engineer is a [grade 9](https://about.gitlab.com/handbook/total-re
 ## Responsibilities
 
 Share our values, and work in accordance with those values.
+
 - Collaborates and makes proposals across several teams on their engineering work, and helps their team members make informed decisions in alignment with the sub-department strategic plans.
 - Proactively identifies opportunities to reuse or generalize existing services and product features. Avoids duplication of effort by encouraging collaboration.
 - Exposes technology and organizational needs throughout their department.

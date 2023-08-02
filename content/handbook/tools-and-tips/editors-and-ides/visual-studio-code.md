@@ -2,7 +2,7 @@
 title: "Visual Studio Code (VS Code)"
 ---
 
-Website: https://code.visualstudio.com/
+Website: <https://code.visualstudio.com/>
 
 Best for: code editing, GitLab integration
 

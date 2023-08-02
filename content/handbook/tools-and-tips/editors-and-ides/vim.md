@@ -2,7 +2,7 @@
 title: "vim"
 ---
 
-Website: https://www.vim.org/
+Website: <https://www.vim.org/>
 
 Best for: code editing in the terminal
 

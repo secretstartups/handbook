@@ -40,11 +40,11 @@ The Senior Manager, Globalization Technology is passionate about the changing lo
 - Fluency in English.
 - You share our values, and work in accordance with those values.
 
-### Career Ladder
+#### Career Ladder
 
 The next step in the Senior Manager, Globalization Technology job family is not yet defined at GitLab.
 
-### Performance Indicators
+#### Performance Indicators
 
 - Build and maintain a state-of-the-art localization platform in partnership with internal development teams and external suppliers.
 - Deploye solutions for localization workflows that rely more on integrated ML and generative AI tooling.
@@ -84,11 +84,11 @@ The Director, Globalization & Localization will lead Gitlab’s go-to-market loc
 - Comfortable using data to measure results and inform decision making and strategy development.
 - You share our values, and work in accordance with those values.
 
-### Career Ladder
+#### Career Ladder
 
 The next step in the Director, Globalization & Localization job family is not yet defined at GitLab.
 
-### Performance Indicators
+#### Performance Indicators
 
 - Speed and throughput of translation; % of on-time deliveries
 - Localization Quality; average language quality scores
@@ -96,7 +96,7 @@ The next step in the Director, Globalization & Localization job family is not ye
 - Non-English SEO lift; % uplift in organic traffic and conversions for target markets
 - New pipeline lift; % uplift in Marketing Qualified Leads & Sales Accepted Opportunities for target markets
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 

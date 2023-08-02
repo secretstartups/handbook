@@ -49,17 +49,17 @@ The  Global Sales Development Operations Senior Associate is a [grade 6](https:/
 #### Global Sales Development Operations Senior Associate Responsibilities
 
 - Sales Development technology
-   - Maintains Sales Development tools (SFDC, Outreach, ZoomInfo, Demandbase & LI)  performance and optimize processes.
-   - Creates training documentation that guides the sales development team.
-   - Trains the sales development team on Sales Development software tools.
-   - Audits use of sales development  tools with an eye towards continually improving how they are configured and used.
+  - Maintains Sales Development tools (SFDC, Outreach, ZoomInfo, Demandbase & LI)  performance and optimize processes.
+  - Creates training documentation that guides the sales development team.
+  - Trains the sales development team on Sales Development software tools.
+  - Audits use of sales development  tools with an eye towards continually improving how they are configured and used.
 - Data and messaging stewardship
-   - Proactively identifies and reviews common data issues that impact speed to lead and spearheads change needed through SDR issue creation and progression
-   - Investigates data quality and continuously improves on data quality.
-   - Continually measures and revamps Outreach primary collections.
+  - Proactively identifies and reviews common data issues that impact speed to lead and spearheads change needed through SDR issue creation and progression
+  - Investigates data quality and continuously improves on data quality.
+  - Continually measures and revamps Outreach primary collections.
 - Marketing data examination
-   - Assist in measuring and investigating the different tools being used by the SDR team to inform best practices
-   - Assist key business partners in measuring the effectiveness of SDR inbound and outbound motions
+  - Assist in measuring and investigating the different tools being used by the SDR team to inform best practices
+  - Assist key business partners in measuring the effectiveness of SDR inbound and outbound motions
 
 #### Global Sales Development Operations Senior Associate Requirements
 
@@ -129,7 +129,6 @@ The Manager, Global Sales Development Operations is a grade 8.
 - Superb analytical, problem-solving capability and help the team make sound conclusions.
 - You believe in teamwork and are not afraid of rolling up your sleeves.
 
-
 ### Senior Manager, Global Sales Development Operations
 
 The Senior Manager, Global Sales Development Operations reports to the Director, Sales Development Operations.
@@ -150,7 +149,6 @@ The Senior Manager, Global Sales Development Operations is a [grade 9](https://a
 - Establishes, Standardizes, Documents and Monitors all aspects related to Sales Development operational excellence. This includes standardizing Sales Dev Playbooks, agendas (1:1's, SAE/BDR, Team Meeting), shared/public views in tools, sales dev issue templates & sales dev issue boards
 - Oversees the testing, optimization and measurement of Sales Dev Outreach messaging so that it's aligned to our brand and uses “best in class” resources/strategies in collaboration with product marketing
 - Conducts bi-weekly 1:1s with sales dev leadership to review key processes and ensure effective pass downs
-
 
 #### Senior Manager, Global Sales Development Operations Requirements
 

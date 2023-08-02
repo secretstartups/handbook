@@ -148,7 +148,6 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://
 - Comfortable with ambiguity, high visibility, and being the directly responsible individual for the self-service business
 - Proven ability to effectively influence and communicate cross-functionally to drive results
 
-
 ## Specialities
 
 ### New Business
@@ -169,7 +168,6 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://
 - Will partner closely with our post-sales teams to understand how best to drive self-service renewals
 - Determine creative ways (eg renewal journey) to impact the self-service renewal number
 
-
 ## Performance Indicators
 
 - nARR vs. plan > 1
@@ -181,10 +179,10 @@ The Senior Director, Online Sales & Self Service Growth is a [grade 11](https://
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule interviews 30 minute interviews with 2 immediate team members and 3 cross-functional partners
 - Finally, candidates will be invited to schedule interviews with the hiring manager once more
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

@@ -17,18 +17,18 @@ The Senior Technical Writer, Customer Programs is a [grade 7](https://about.gitl
 #### Senior Technical Writer, Customer Programs Responsibilities
 
 - Create onboarding and enablement content required to deliver digital content supporting GitLab's digital journey and respective engagement methods
-   - Work with the Program Manager, Customer Programs to iterate on content based on open rates, click through rates, survey results and product analytics to continuously improve the efficacy of the program
-   - Work with the CSM Managers with a particular focus on the commercial and SMB to ensure understanding of common customer challenges and required outcomes
+  - Work with the Program Manager, Customer Programs to iterate on content based on open rates, click through rates, survey results and product analytics to continuously improve the efficacy of the program
+  - Work with the CSM Managers with a particular focus on the commercial and SMB to ensure understanding of common customer challenges and required outcomes
 - Continuously improve GitLab’s documentation content in collaboration with Product, Engineering and Marketing teams
-   - Produce or curate content for ‘how-to’ on using GitLab features, including contextual content that clarifies why and when a user might use a feature or workflow
-   - Review enablement conversation and learnings that are documented in internal channels, such as Slack, and convert content into customer-facing documentation in docs, blog posts, or digital journey content
-   - Identify and address content gaps or the need for additional media such as diagrams or videos
-   - Participate in reviews and revamps of section or page content and structure
-   - Help review and triage incoming suggestions, corrections, and other content from the technical account management team, and from our customer base
+  - Produce or curate content for ‘how-to’ on using GitLab features, including contextual content that clarifies why and when a user might use a feature or workflow
+  - Review enablement conversation and learnings that are documented in internal channels, such as Slack, and convert content into customer-facing documentation in docs, blog posts, or digital journey content
+  - Identify and address content gaps or the need for additional media such as diagrams or videos
+  - Participate in reviews and revamps of section or page content and structure
+  - Help review and triage incoming suggestions, corrections, and other content from the technical account management team, and from our customer base
 - Contribute to the improvement of GitLab writing team process and style, as well as cross-functional efforts
-   - Act as a reviewer and contributor to GitLab’s [Handbook](https://about.gitlab.com/handbook/)
-   - Work with and contribute to the documentation [Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) and documentation [process guides](https://docs.gitlab.com/ee/development/documentation/)
-   - Collaborate with and help improve upon collaborative processes with others including product managers, Support, Marketing, Engineering, and the wider GitLab community
+  - Act as a reviewer and contributor to GitLab’s [Handbook](https://about.gitlab.com/handbook/)
+  - Work with and contribute to the documentation [Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/) and documentation [process guides](https://docs.gitlab.com/ee/development/documentation/)
+  - Collaborate with and help improve upon collaborative processes with others including product managers, Support, Marketing, Engineering, and the wider GitLab community
 
 #### Senior Technical Writer, Customer Programs Requirements
 

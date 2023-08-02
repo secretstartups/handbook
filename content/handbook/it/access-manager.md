@@ -112,7 +112,3 @@ It is important to distinguish that Access Manager automates the provisioning pr
 - [Automated Deprovisioning](https://docs.access.gitlabenvironment.cloud/docs/architecture/features/deprovisioning) - Scheduled expiration dates for access removal based on employment or contract end date that trigger Action Flows for de-provisioning IAM users or roles.
 - [Comprehensive Logging](https://docs.access.gitlabenvironment.cloud/docs/architecture/features/logging) - Logging and auditability of all approval and action flow transactions.
 - [Audit Reports](https://docs.access.gitlabenvironment.cloud/docs/architecture/features/audit-reports) - Easy to generate reports for security compliance to perform reviews of least privilege and access across multiple filter criteria.
-
-
-
-

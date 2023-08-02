@@ -40,7 +40,6 @@ The Analyst, Corporate Development is a [grade 6](https://about.gitlab.com/handb
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
 
-
 ### Corporate Development Manager
 
 As a Corporate Development Manager, you will be responsible for identifying, sourcing, and owning the acquisition opportunity pipeline, and helping with the deal flow.
@@ -50,20 +49,24 @@ As a Corporate Development Manager, you will be responsible for identifying, sou
 The Corporate Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Prospecting:
+
 - Develop relationships with tech incubators, investors, and other sources of acquisition targets
 - Validate targets’ fit for GitLab’s product roadmap, terms and other criteria quickly and with little information
 - Develop a strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
 
 Deal execution:
+
 - Support acquisitions engagements start to finish, from qualifying targets, through closing and integration
 - Support the Sr. Director of Corporate Development in deal terms negotiation
 - Lead the cross-functional due-diligence process
 - Work to establish valuations and ROI potential for deals by building financial models and conducting valuation analysis
 
 Integration:
+
 - Lead post-acquisition integrations as the directly responsible individual (DRI), driving the roadmap acceleration objectives to successful completion
 
 Collaboration:
+
 - Form effective relationships with the product management org to understand their roadmap direction.
 - Manage and guide the acquisition team to an effective communication with the target and internal stakeholders
 
@@ -78,7 +81,6 @@ Collaboration:
   - Familiarity with the DevOps, Cyber and open-source spaces
 - You share our [values](/handbook/values/), and work in accordance with those values
 
-
 ### Senior Corporate Development Manager
 
 As a Senior Corporate Development Manager, you will be owning the acquisition process for specific product areas, driving deal flow from inception to integration.
@@ -90,21 +92,25 @@ The Senior Corporate Development Manager is a [grade 9](https://about.gitlab.com
 #### Responsibilities
 
 Prospecting:
+
 - Develop relationships with tech incubators, investors, and other sources of acquisition targets
 - Validate targets’ fit for GitLab’s product roadmap, terms and other criteria quickly and with little information
 - Establish strategy and execution plan for the product areas you will be leading, prioritizing prospects accordingly
 - Own the pipeline of opportunities - generate prospects and lead sourcing efforts
 
 Deal execution:
+
 - Lead acquisitions engagements start to finish, from qualifying targets, through closing and integration
 - Lead the cross-functional due-diligence process
 - Support the Sr. Director of Corporate Development in deal terms negotiation
 - Act as a subject matter expert on valuation and deal structuring
 
 Integration:
+
 - Lead post-acquisition integrations as the directly responsible individual (DRI), driving the roadmap acceleration objectives to successful completion
 
 Collaboration:
+
 - Form effective relationships with the product management org to understand their roadmap direction.
 - Enable product managers on prospect sourcing and validation
 - Manage and guide the acquisition team to an effective communication with the target and internal stakeholders
@@ -120,7 +126,6 @@ Collaboration:
 - Preferred requirements:
   - Familiarity with the DevOps, Cyber and open-source spaces
 - You share our [values](/handbook/values/), and work in accordance with those values
-
 
 ## Coporate Development
 
@@ -228,5 +233,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-

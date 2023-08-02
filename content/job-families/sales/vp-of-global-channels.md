@@ -22,7 +22,6 @@ The VP of Global Channels is a [grade 12](https://about.gitlab.com/handbook/tota
 - Coordinate and conduct sales and technical training for partners.
 - Balance our internal services team for quality and program development with external partners for service delivery and scale
 
-
 ## Requirements
 
 - Demonstrated progressive progressive channel leadership experience globally within the software devops industry.

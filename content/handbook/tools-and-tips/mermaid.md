@@ -27,7 +27,6 @@ gantt
 
 </details>
 
-
 ```mermaid
 gantt
     title A Gantt Diagram
@@ -64,7 +63,6 @@ graph TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 ```
-
 
 ### Sequence Diagram (right aligned)
 
@@ -107,7 +105,6 @@ gantt
 ```
 
 </details>
-
 
 ```mermaid
 gantt

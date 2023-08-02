@@ -26,8 +26,6 @@ implementing the various initiatives that relate to improving GitLab's security.
 - Ultimate responsibility for all cleared personnel as it pertains to getting, keeping clearances
 - Support the company as a direct advocate to DSS (Defense Security Services)
 
-
-
 ## Requirements
 
 - You have a passion for security and open source

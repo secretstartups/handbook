@@ -293,4 +293,3 @@ Some caveats apply to this workaround.
   - Audio through various types of headphones
   - Video capturing - Zoom video and Zoom screen sharing
   - Display - screen resolution or video card related issues
-

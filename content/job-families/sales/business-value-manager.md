@@ -58,7 +58,6 @@ The Senior Business Value Manager is a [grade #9](https://about.gitlab.com/handb
 - Drive the use of value collaboration tooling as a self-service business case approach across the global sales team
 - Configure and maintain value management system with value drivers, workflow, and ROI models
 
-
 #### Senior Business Value Manager Requirements
 
 - Demonstrates deep understanding of GitLab's differentiating value for GitLab's go-to-market usecases
@@ -101,19 +100,18 @@ As with all roles in the Sales Department, the Business Value Services job famil
 ## Career Ladder
 
 - Optional next steps for individual contributors are to move into:
-    - A Manager role within this job family
-    - A Manager role within another job family
-    - Roles within Sales or Cusomter Success
+  - A Manager role within this job family
+  - A Manager role within another job family
+  - Roles within Sales or Cusomter Success
 - The next steps for a Manager, Business Value Services Team would be to move into a Senior Manager within this Job Family
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
-
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 *{add a bulleted list of the hiring process steps here}
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

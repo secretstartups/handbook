@@ -57,7 +57,6 @@ Create and coordinate key reporting for GitLab leadership team, partnering with 
 - Collaborate with Customer Success enablement to develop training and enablement to drive efficiency
 - Support the development and rollout of systems and digital tools to improve the team’s effectiveness and efficiency and provide increased customer insights through data, automation, and telemetry
 
-
 #### Customer Success Operations Analyst Requirements
 
 - Extends that of the Associate Customer Success Operations Analyst Requirements
@@ -126,7 +125,6 @@ The Staff Customer Success Operations Manager is a [grade 8](/handbook/total-rew
 - Gainsight Admin certification, preferred
 - Understanding and knowledge of product usage date is preferred
 
-
 ### Manager, Customer Success Operations
 
 The Manager Customer Success Operations reports to the [Director Customer Success Operations](/job-families/sales/customer-success-management/#senior-director-of-CSMs).
@@ -165,7 +163,6 @@ The Manager Customer Success Operations is a [grade 8](https://about.gitlab.com/
 - Ability to use GitLab
 - Experience with agile/DevOps and/or SDLC process and/or tools is a plus
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
-
 
 ### Senior Manager, Customer Success Operations
 
@@ -219,6 +216,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - Finally, candidates may be asked to complete a final interview with our leadership team
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring).

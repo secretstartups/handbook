@@ -43,7 +43,6 @@ The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handb
 
 The Director, Marketing Strategy reports to [the Chief Marketing Officer](https://about.gitlab.com/job-families/marketing/chief-marketing-officer/).
 
-
 #### Director, Marketing Strategy Job Grade
 
 The Director, Marketing Strategy is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

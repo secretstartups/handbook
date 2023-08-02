@@ -30,7 +30,7 @@ We want to live in a world where [everyone can contribute](/handbook/values/#mis
 
 The Manager, Support Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### What you can expect in a Manager, Support Engineering role at GitLab:
+#### What you can expect in a Manager, Support Engineering role at GitLab
 
 {:.no_toc}
 
@@ -51,8 +51,7 @@ As a Manager, Support Engineering, you will be:
 
 For more details, see our [Support Manager Responsibilities page](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
 
-
-#### Projects you might work on:
+#### Projects you might work on
 
 {:.no_toc}
 
@@ -65,7 +64,7 @@ Support Managers also work on things that will make your (and the lives of your 
 - Written a [Chrome Extension to route downloads from Zendesk tickets into organized folders](https://gitlab.com/gitlab-com/support/toolbox/zd-dl-router)
 - … and more!
 
-#### You should apply if...
+#### You should apply if
 
 {:.no_toc}
 
@@ -104,6 +103,7 @@ The Senior Manager, Support Engineering is a [grade 9](https://about.gitlab.com/
 {:.no_toc}
 
 A Senior Manager, Support Engineering will:
+
 - Hire a world class team of Support Managers by actively seeking and hiring globally distributed talent who are focused on delivering world class customer support
 - Conduct managerial interviews for Support Engineering candidates and train Support Engineering Managers to do said interviews
 - Hold regular 1:1s with their team managers and skip-level 1:1s with all members of their team
@@ -134,6 +134,7 @@ See also our [Support Manager Responsibilities page](https://about.gitlab.com/ha
 #### Nice-to-have Requirements
 
 {:.no_toc}
+
 - Be a user of GitLab, or familiar with our company
 - Prior product company experience
 - Prior high-growth startup experience
@@ -169,7 +170,7 @@ The VP of Support role extends the Director of Support Role through:
 - Lead monthly Support Key Review meeting
 - Monitor and improve performance on performance indicators for the department (Customer satisfaction with Support, Manage team within approved operating expenses etc.)
 - Drive quarterly OKRs
-- Define KPIs for the Customer Support Department _e.g._ SLAs, Customer Satisfaction
+- Define KPIs for the Customer Support Department *e.g.* SLAs, Customer Satisfaction
 - Partner with Finance to manage budget, drive capacity planning and identify needs and present investments required to improve service levels and customer experience
 - Work cross-functionally with other customer-facing departments to guarantee a great customer experience
 - Analyze and optimize support operations. Drive a culture of continuous improvement
@@ -188,6 +189,7 @@ Support Management have the following job-family performance indicators.
 ## Span of Control in Support Management Positions
 
 Support Management roles have the following spans of control:
+
 - Support Managers: ~10 Intermediate and Senior Support Engineers
 - Senior Support Managers: ~3 Support Managers, 0-2 Staff Support Engineers, ~30 Support Engineers (indirectly)
 
@@ -201,13 +203,12 @@ The US Federal Support Portal is unique in that it is the first restricted suppo
 
 If you look forward to the challenges and opportunities and meet the requirements please apply today!
 
-##### Additional Responsibilities Unique to US Federal Include:
+##### Additional Responsibilities Unique to US Federal Include
 
 {:.no_toc}
 
 - Work closely with Public Sector CSM and SAEs in order to adapt to the needs of the unique user base
 - Be responsible for maintaining customer confidentiality and data security when working with cases
-
 
 #### Requirements
 
@@ -232,7 +233,6 @@ This role also closely interacts with counterparts in Product, Development, QA, 
 - Manage multiple teams and projects affecting consistent global execution
 - Own the support readiness and operations across all products
 
-
 ## [What it’s like to work here](https://about.gitlab.com/handbook/hiring/candidate/faq/) at GitLab
 
 The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
@@ -253,23 +253,26 @@ Next, candidates will move to interviews with Support team members:
 ### Support Manager Candidates
 
 Round 1:
-  - 60 Minute Peer Behavioral Interview (Panel)
-  - 90 Minute Technical Interview with a member of the Support team
-      - The Tech Interview will involve live break-fix/bug-fix scenarios as well as customer scenarios.  You will need to have access to a terminal with Bash or similar. You will also need to have an SSH key pair installed locally so you can connect to the server. Windows users must have ‘Git Bash for Windows’ installed prior to the call. If the Tech Interview is not passed, the Behavioral Interview will be canceled.
+
+- 60 Minute Peer Behavioral Interview (Panel)
+- 90 Minute Technical Interview with a member of the Support team
+  - The Tech Interview will involve live break-fix/bug-fix scenarios as well as customer scenarios.  You will need to have access to a terminal with Bash or similar. You will also need to have an SSH key pair installed locally so you can connect to the server. Windows users must have ‘Git Bash for Windows’ installed prior to the call. If the Tech Interview is not passed, the Behavioral Interview will be canceled.
 
 Round 2:
-   - 60 Minute Interview with the hiring manager for the role (a Senior Support Manager in that region).
-   - 60 Minute Interview with the VP of Customer Support.
+
+- 60 Minute Interview with the hiring manager for the role (a Senior Support Manager in that region).
+- 60 Minute Interview with the VP of Customer Support.
 
 ### Director of Support Candidates
 
 Round 1:
-  - 60 Minute Peer Behavioral Interview (Panel)
+
+- 60 Minute Peer Behavioral Interview (Panel)
 
 Round 2:
-  - 90 Minute interview with Senior Support Managers in that region (may be a panel)
-  - 60 Minute Interview with the hiring manager for the role (VP of Costumer Support)
 
+- 90 Minute interview with Senior Support Managers in that region (may be a panel)
+- 60 Minute Interview with the hiring manager for the role (VP of Costumer Support)
 
 Successful candidates will subsequently be made an offer
 

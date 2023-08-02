@@ -70,7 +70,6 @@ It is not sufficient to just know the problems. It is also insufficient to have 
 - PMs ensure that issues that impact GitLab are appropriately [prioritized](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
 - PMs interface with marketing and sales to promote and enable the sale of the product.
 
-
 <a id="base-pm-requirements"></a>
 
 ### Base Requirements Across All Levels
@@ -128,21 +127,26 @@ The Senior Product Manager is a [grade 8](https://about.gitlab.com/handbook/tota
 Senior Product Managers are leaders at GitLab. In addition to doing the [core of the PM](https://about.gitlab.com/handbook/product/product-manager-responsibilities/) job well, we expect them to do the following:
 
 **Drive the product in the right direction**
+
 - Consistently deliver outsized impact to their stage and category KPIs or other [GitLab KPIs](https://about.gitlab.com/company/kpis/#gitlab-kpis)
 
 **Take an active role in defining the future**
+
 - Mastery of the competitive and market landscape of their product domain and understanding how this landscape impacts the product roadmap
 - Innovate within your product area by proposing ambitious features
 
 **Manage the product lifecycle end-to-end**
+
 - Document ROI or impact for a given action, feature, or prioritization decision
 - Execute to deliver outsized results on the aforementioned ROI/impact analysis
 
 **Engage with stakeholders in two-way communication**
+
 - Represent GitLab as a product and domain expert in front of industry analysts, strategic customers, industry events/conferences, and other events
 - Ability to present to C-level executives both internally at GitLab and externally to customers and prospects
 
 **Lead by example**
+
 - Mentor less experienced Product Managers to enable them add more value sooner
 
 ##### Requirements
@@ -160,9 +164,11 @@ The Principal Product Manager is a [grade 9](https://about.gitlab.com/handbook/t
 ##### Expectations
 
 **Bring special expertise in a specific domain or Product Management skill**
+
 - Principal Product Managers should possess a unique level of expertise as well as own specific domains within the product that extends cross-stage. This includes providing guidance on improvements within this specific domain with a focus on usability and user experience.
 
 **Ability to coach others**
+
 - Principal Product Managers are expected to coach and mentor other Product Managers as well as assist with their career development. This includes being a “PM buddy” with regular check-ins on larger initiatives with a focus on elevating the Product Manager's [Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) track skills.
 
 ##### Requirements
@@ -182,12 +188,15 @@ The Senior Principal Product Manager is a [grade 10](https://about.gitlab.com/ha
 Senior Principal Product Managers are experts across multiple domains within GitLab. They are responsible for helping shape the future direction of the organization, assisting management to establish strategic roadmaps, and driving priorities to meet objectives. As a Director-level individual contributor position, Senior Principal Product Managers are expected to perform at a Grade 10 (Director) level according to our [GitLab Job Framework](https://about.gitlab.com/company/team/structure/#individual-contributor-job-framework) and exemplify GitLab's [leadership principles](https://about.gitlab.com/handbook/leadership/).  In addition, Senior Principal Product Managers are expected to:
 
 **Drive execution of results**
+
 - Senior Principal Product Managers are expected to drive outsized business results via their direct contributions. This can include shaping product prioritization, representing Product in GTM motions, unblocking R&D via a heavy focus on iteration or the generation and utilization of data to inform where we direct our R&D investment.
 
 **Contribute cross-domain expertise**
+
 - Senior Principal Product Managers should possess a unique level of expertise as well as own specific product domains that extend across sections. This includes providing guidance on improvements within this specific domain with a focus on usability and user experience.
 
 **Elevate organizations**
+
 - Senior Principal Product Managers are expected to improve entire sections via their outputs. These will include user, market, competitive and technology insights as well as instituting best practices for other Product Managers.
 - Senior Principal Product Managers will use their business skills by directly championing M&A (including researching and finding prospects). They will also collaborate directly with the GTM teams to enable sales on our capabilities that cross the entire product.
 
@@ -203,7 +212,6 @@ The Senior Principal Product Manager will report to a Director of Product Manage
 - Maintains and owns [cross-section directions](https://about.gitlab.com/handbook/product/product-processes/#navigating-cross-stage-or-cross-section-direction-pages).
 - Leads working groups to accomplish cross-section [BHAG](https://about.gitlab.com/company/mission/#big-hairy-audacious-goal-bhag)s and targets
 - Identifies and submits investment cases for SEGs, Product Groups, and Categories
-
 
 ##### Requirements
 
@@ -240,6 +248,7 @@ Within their role, Product Managers are empowered to interact and learn more abo
 Whether that be Marketing, Customer Success, Support, Finance or Engineering - Product Managers are encouraged (and often
 required) to understand other functions as part of their daily responsibilities. As such there is plenty of room for
 Product Managers to transition to roles outside of the Product Management team. Some of those include:
+
 - **Engineering Leadership**: Product Managers often find a desire to dive deeper into Engineering problems, or grow
 mentor and lead engineering teams.
 - **Product Marketing**: Product Managers often gravitate to how we target, message and deliver value to our customers.
@@ -412,7 +421,6 @@ We’re looking for a Product Manager to chart GitLab’s course in this new sta
 - Experience in [Product-Led Growth](https://productled.com/blog/product-led-growth-definition/) companies
 - Experience as a Growth Product Manager
 - Experience in new product development and launch
-
 
 ### Fulfillment
 

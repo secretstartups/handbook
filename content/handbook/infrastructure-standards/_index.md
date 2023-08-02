@@ -8,30 +8,31 @@ description: "This handbook section defines the latest iteration of infrastructu
 This handbook section defines the latest iteration of infrastructure and security standards for GitLab team members. These provide a baseline for the GitLab organization, and we have Infrastructure Realms for each of our infrastructure teams that override these standards to meet specific business needs.
 
 The following standards are covered:
+
 - Access Requests
 - AWS Cloud Provider
-    - Architecture Diagram
-    - Organization Policies
-    - IAM and Access Requests
-    - IT Realm
-    - SaaS Realm
-    - Sandbox Realm
-    - Project Horse Realm
+  - Architecture Diagram
+  - Organization Policies
+  - IAM and Access Requests
+  - IT Realm
+  - SaaS Realm
+  - Sandbox Realm
+  - Project Horse Realm
 - GCP Cloud Provider Architecture
-    - Architecture Diagram
-    - Organization Policies
-    - IAM and Access Requests
-    - IT Realm
-    - SaaS Realm
-    - Sandbox Realm
+  - Architecture Diagram
+  - Organization Policies
+  - IAM and Access Requests
+  - IT Realm
+  - SaaS Realm
+  - Sandbox Realm
 - Infrastructure-as-Code
-    - Terraform
-    - Ansible
+  - Terraform
+  - Ansible
 - [Labels and Tags](/handbook/infrastructure-standards/labels-tags/)
 - [Policies](/handbook/infrastructure-standards/policies/)
 - Security Standards
-    - Application Security
-    - Infrastructure Security
+  - Application Security
+  - Infrastructure Security
 - [Tutorials](/handbook/infrastructure-standards/tutorials/)
 
 ### Background Context
@@ -64,7 +65,7 @@ For cloud infrastructure, we have created top-level AWS organizational units and
 
 ### Self Service Infrastructure
 
-Approximately ~750 of the GitLab team members are in departments that use cloud infrastructure for development, experiment, testing or **non-production** purposes. This includes team members in Customer Success, Engineering division departments, Support, etc. **For documentation purposes, we refer to this as the _GitLab infrastructure community_.**
+Approximately ~750 of the GitLab team members are in departments that use cloud infrastructure for development, experiment, testing or **non-production** purposes. This includes team members in Customer Success, Engineering division departments, Support, etc. **For documentation purposes, we refer to this as the *GitLab infrastructure community*.**
 
 For any groups that are not part of the GitLab infrastructure community (ex. Finance, Marketing, Sales, etc), please reach out to `#it_help` for assistance with your infrastructure needs.
 

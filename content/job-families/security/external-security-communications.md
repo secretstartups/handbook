@@ -56,7 +56,6 @@ The Security Analyst, External Security Communications is a [grade 6](https://ab
 - Detail-oriented, organized
 - You share our [values](/handbook/values/), and work in accordance with those values
 
-
 ### Security Analyst, External Security Communications (Senior)
 
 The Senior Security Analyst, External Security Communications reports to the [Director of Security Engineering](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/job-families/security/security-management/index.html.md).
@@ -68,6 +67,7 @@ The Senior Security Analyst, External Security Communications is a [grade 7](htt
 #### Senior level responsibilities
 
 Senior level responsibilities are inclusive of all Intermediate level responsibilities, as well as to:
+
 - Manage content development of blogs, handbook pages, contribute articles, social content and more
 - Maintain a blog pipeline and calendar that ensures quality, security-focused content aligned to department initiatives and priorities throughout the calendar year.
 - Develop and implement audience and community engagement initiatives
@@ -97,6 +97,7 @@ The Staff Security Analyst, External Security Communications is a [grade 8](http
 #### Staff level responsibilities
 
 Staff level responsibilities are inclusive of all Senior level responsibilities, as well as to:
+
 - Develop and drive content marketing strategy aligned to business priorities and community engagement
 - Lead multi-channel campaigns and engagement strategies surrounding GitLab’s bug bounty program
 - Lead the development and implementation of security audience and community engagement initiatives
@@ -125,6 +126,7 @@ The Principal Security Analyst, External Security Communications is a [grade 9](
 #### Principal level responsibilities
 
 Principal level responsibilities are inclusive of all Staff level responsibilities, as well as to:
+
 - Ideate and drive to completion strategic external communications and marketing programs in collaboration with Security department leadership
 - Drive and manage creative marketing and external communication projects highlighting the GitLab Security Program and teams
 - Influence and collaborate across the broader organization to improve awareness, engagement and thought leadership positioning of Security department programs and experts amongst the broader GitLab community
@@ -163,6 +165,7 @@ The next step in the Security Analyst, External Security Communications job fami
 ## Hiring process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security organization,

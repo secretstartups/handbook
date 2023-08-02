@@ -277,7 +277,6 @@ The abbreviation used by the business can change over time (Ex. `APJ`, `APAC`, `
 
 > Some possible prefix values have been omitted from this list for brevity and unlikely applicability (Ex. `brazil`, `hongkong`, `indian`, etc.). They can be added at environment owner's discretion.
 
-
 ## Owner Email Handle (`gl_owner_email_handle`)
 
 This label/tag is required.
@@ -419,7 +418,6 @@ We have abbreviated all values to allow for easier prefixing using industry reco
 | Sales       | Field Operations       | `sales-field-ops`          |
 | Sales       | Practice Management    | `sales-practice-mgmt`      |
 
-
 ## GitLab Product Stage (`gl_product_stage`)
 
 This label/tag is optional.
@@ -465,7 +463,7 @@ gl_product_category: gitaly
 
 ### Expected Values
 
-Product categories should match one of the categories defined in [`categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml) in the handbook: https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml
+Product categories should match one of the categories defined in [`categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml) in the handbook: <https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml>
 
 By providing this value, costs can be directly mapped back to a specific set of features, as well as a set of owners within both Product and Engineering.
 
@@ -496,11 +494,10 @@ If a group listed below does not have a group documentation link, it is safe to 
 The full list of groups was last audited and updated on 2021-07-22.
 
 **Footnotes:**
+
 1. If a group was renamed or removed, it appears in the [Deprecated Group Names](#deprecated-group-names) table below. Any renamed groups have a footnote indicator.
-2. This was added after the initial list was created.
-3. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
-
-
+1. This was added after the initial list was created.
+1. This is a special group that may not directly align with a team. For `eng-dev`, this usually appears under [Other Functionality](https://about.gitlab.com/handbook/product/categories/#other-functionality).
 
 | gl_realm        | gl_dept                  | gl_product_stage                  | gl_dept_group                        | Group Documentation |
 |-----------------|--------------------------|-----------------------------------|--------------------------------------|---------------------|

@@ -48,7 +48,7 @@ The Senior Procurement Operations Analyst is a [grade 6](https://about.gitlab.co
 - Own Supplier Onboarding Process and partner with AP to resolve any gaps
 - Engage with external vendors to support professional services category.
 
-#### Senior Procurement Operations Analyst Responsibilities
+#### Senior Procurement Operations Analyst requirements
 
 - Extends the Procurement Operations Analyst (Intermediate) requirements
 
@@ -129,7 +129,7 @@ The Senior Manager, Procurement is a [grade 9](https://about.gitlab.com/handbook
 
 - Extends the Manager, Procurement responsibilities
 - Understand and implement best practices
-- Build a _great_ procurement program at GitLab
+- Build a *great* procurement program at GitLab
 - Drive new and creative approaches, strategies and processes to address business needs, drawing on relevant first hand experience for what works
 - Generate sourcing and procurement process improvement recommendations across functions and implement them
 - Great communication: Regularly achieve consensus amongst teams
@@ -188,7 +188,6 @@ The Director, Procurement is a [grade 11](https://about.gitlab.com/handbook/tota
 - Understands broad stakeholder needs, knowledgeable in current and possible future policies, practices, trends, and information affecting his/her business organization.
 - Strong operational skills required to drive consistency and speed in the execution of our procure to pay processes
 - Ability to craft solutions that meet current business needs while providing a framework for growth and scale
-
 
 ## Performance Indicators (PI)
 

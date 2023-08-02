@@ -52,6 +52,7 @@ The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/tota
 #### Group Manager, Product (GMP) - Responsibilities
 
 **Team responsibilities**
+
 - Coach Product Managers through their [responsibilities](/job-families/product/product-manager/#responsibilities)
 - Ensure PMs receive regular [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) feedback and, if desired, Career Coaching
 - Ensure that Product Managers participate in [Validation](https://about.gitlab.com/handbook/product-development-flow/#validation-track) and [Build](https://about.gitlab.com/handbook/product-development-flow/#build-track) track activities while following our product principles so that our Product Performance indicators are met
@@ -67,7 +68,7 @@ The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/tota
 - Demonstrate leadership as [expected of Managers across GitLab](https://about.gitlab.com/company/team/structure/#management-group).
 - Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
 
-_Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained._
+*Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained.*
 
 #### Group Manager, Product (GMP) - Requirements
 
@@ -123,7 +124,7 @@ Responsible for leading the team of PMs who manage the [Secure stage groups](htt
 - Strong ability to define and maintain alignment on product vision and strategy
 - Excellent communication skills and ability to drive cross-functional execution
 
-##### Govern
+#### Govern
 
 Responsible for leading the team of PMs who manage the [Govern stage groups](https://about.gitlab.com/handbook/product/categories/#govern-stage). This stage leader sets the vision and direction for how to enable GitLab users with an effective, scalable, and lovable security and compliance solution. This individual also maintains and champions GitLab's [Software Supply Chain Security (SSCS) direction](https://about.gitlab.com/direction/supply-chain/) and coordinates execution of the SSCS roadmap across all GitLab stages. The Govern GMP works hand in hand with the [Secure stage](https://about.gitlab.com/handbook/product/categories/#secure-stage) leader to ensure that their teams, together, are providing a holistic and word-class user experience across all of GitLab's security & compliance offerings.
 
@@ -175,6 +176,7 @@ The Director, Product Management is a [grade 10](https://about.gitlab.com/handbo
 #### Director of Product Management - Requirements
 
 Requirements for the role are outlined as part of the [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership).
+
 - Prior experience managing product management managers (e.g., [Group Manager, Product roles](#group-manager-product-gmp)) preferred however not required.
 
 #### Director of Product Management - Career Ladder
@@ -377,6 +379,7 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Performance Indicators
 
 Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
+
 1. Their [relevant Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/#structure)
 1. Our global [Product KPIs](https://about.gitlab.com/company/kpis/#product-kpis)
 1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
@@ -396,5 +399,3 @@ In addition, some roles have role-specific activities and performance indicators
 
 - 1 per quarter adjacencies analysis for Stage OR
 - 1 per quarter cross-stage opportunity canvas
-
-

@@ -185,11 +185,10 @@ The Manager, Accounts Receivable is a [grade 8](https://about.gitlab.com/handboo
 - Excellent verbal and written communication skills and ability to collaborate with cross-functional teams. Able to work in stressful situations with firm deadlines
 - Ability to use GitLab
 - System knowledge
-   - Zuora Billing
-   - Salesforce CRM
-   - Google Suite (Gmail, Google Docs, Sheets, etc.)
-   - Slack (preferred, not required)
-
+  - Zuora Billing
+  - Salesforce CRM
+  - Google Suite (Gmail, Google Docs, Sheets, etc.)
+  - Slack (preferred, not required)
 
 ## Performance Indicators
 

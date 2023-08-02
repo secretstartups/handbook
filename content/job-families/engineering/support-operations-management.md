@@ -22,7 +22,7 @@ Your work mantra is to solve the problem, not the symptom.
 The Support Operations Manager is a
 [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### What you can expect in a Support Operations Specialist role at GitLab:
+### What you can expect in a Support Operations Specialist role at GitLab
 
 As a Support Operations Manager you will:
 
@@ -57,7 +57,7 @@ As a Support Operations Manager you will:
 
 ### Requirements
 
-#### Requires Skills/Experience:
+#### Requires Skills/Experience
 
 - 3+ Years Customer Support or Operations experience required, preferably in a
   global organization.

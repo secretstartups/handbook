@@ -4,8 +4,6 @@ RoleName:  "Business Systems Administrator"
 description: "Business Systems Administrators work on the configuration of GitLab's Salesforce.com instance and all packages, tools and integrations associated with it."
 ---
 
-## Business Systems Administrator
-
 Business Systems Administrators work on the configuration of GitLab's Salesforce.com instance and all packages, tools and integrations associated with it.
 They work with Field Operation's internal customers such as Sales, Marketing, Customer Success and Finance to gather requirements for improvement projects and then execute on those projects.
 They work with a combined team of Business Systems Engineers, Data Analysts, and Sales Operations Specialists to keep our Go-To-Market processes automated and efficient.
@@ -46,7 +44,7 @@ They work with a combined team of Business Systems Engineers, Data Analysts, and
 
 {{% job-families/sales/performance %}}
 
-## Job Grades
+### Job Grades
 
 Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -58,7 +56,7 @@ The Junior Business Systems Administrator role extends the Business Systems Admi
 
 The Junior Business Systems Administrator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Requirements
+#### Requirements
 
 - Demonstrated progressive experience in a Sales Operations, Business Operations or Business Systems role.
 - Demonstrated progressive experience in Sales Operations, Business Operations or Business Systems role.
@@ -78,7 +76,7 @@ The Junior Business Systems Administrator is a [grade 5](https://about.gitlab.co
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
-### Responsibilities
+#### Responsibilities
 
 - Support our internal customers by fielding any and all questions, solving problems on the spot or routing them to who can solve in a timely manner.
 - Oversee the configuration and support of our suite of Sales tools, being the go-to person for any questions or improvement ideas.
@@ -87,7 +85,7 @@ The Junior Business Systems Administrator is a [grade 5](https://about.gitlab.co
 - Jump in and own short range Sales efficiency projects, having real impact on Sales performance.
 - Gather business requirements for improvement projects and synthizie them into technical specifications for Business Systems Engineers to build.
 
-### Performance Indicators
+#### Performance Indicators
 
 - [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
 - [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
@@ -99,7 +97,7 @@ The Junior Business Systems Administrator is a [grade 5](https://about.gitlab.co
 
 The Business Systems Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Requirements
+#### Requirements
 
 - Demonstrated progressive experience in a Sales Operations, Business Operations or Business Systems role.
 - Demonstrated progressive experience in Sales Operations, Business Operations or Business Systems role.
@@ -119,7 +117,7 @@ The Business Systems Administrator is a [grade 6](https://about.gitlab.com/handb
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
-### Responsibilities
+#### Responsibilities
 
 - Support our internal customers by fielding any and all questions, solving problems on the spot or routing them to who can solve in a timely manner.
 - Oversee the configuration and support of our suite of Sales Tools, being the go-to person for any questions or improvement ideas.
@@ -128,7 +126,7 @@ The Business Systems Administrator is a [grade 6](https://about.gitlab.com/handb
 - Jump in and own short range Sales efficiency projects, having real impact on Sales performance.
 - Gather business requirements for improvement projects and synthizie them into technical specifications for Business Systems Engineers to build.
 
-### Performance Indicators
+#### Performance Indicators
 
 - [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
 - [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
@@ -157,7 +155,7 @@ The Senior Business Systems Administrator is a [grade 7](https://about.gitlab.co
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
-### Responsibilities
+#### Responsibilities
 
 - Support our internal customers by fielding any and all questions, solving problems on the spot or routing them to who can solve in a timely manner.
 - Oversee the configuration and support of our suite of Sales tools, being the go-to person for any questions or improvement ideas.
@@ -166,7 +164,7 @@ The Senior Business Systems Administrator is a [grade 7](https://about.gitlab.co
 - Jump in and own short range Sales efficiency projects, having real impact on Sales performance.
 - Gather business requirements for improvement projects and synthizie them into technical specifications for Business Systems Engineers to build.
 
-### Performance Indicators
+#### Performance Indicators
 
 - [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
 - [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
@@ -193,7 +191,7 @@ The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com
 - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
 - Ability to use GitLab
 
-### Responsibilities
+#### Responsibilities
 
 - Mentor and Grow Business Systems Administrators.
 - Own the state and vision of the Salesforce.com instance.
@@ -201,15 +199,15 @@ The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com
 - Build enhancements with Salesforce.com configuration such as workflow rules, validation rules, process builder and lightning components.
 - Expert knowledge on the use of Salesforce.com objects such as Accounts, Contacts, Leads, Opportunities, Quotes, and Campaigns.
 
-### Performance Indicators
+#### Performance Indicators
 
 - [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
 - [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
 - [System Roll Out vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#system-roll-out-vs-plan)
 
-## Manager, Sales Systems
+### Manager, Sales Systems
 
-### Responsibilities
+#### Responsibilities
 
 - Chief administrator of all sales systems.
 - Manage the day to day upkeep of Salesforce including system administration, support, implementation of data governance and partnering with IT to ensure compliance with user security standards and policies.
@@ -224,7 +222,7 @@ The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com
 - Facilitate successful implementation of new technology and processes, fostering an organization of continuous business process improvement.
 - Partner with business users to lead the implementation of strategic projects critical to scaling the Go-To-Market process.
 
-### Requirements
+#### Requirements
 
 - BA/BS degree.
 - Past experience in a business and/or systems role.
@@ -240,7 +238,7 @@ The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com
 - Leadership at GitLab.
 - Ability to use GitLab.
 
-### Performance Indicators
+#### Performance Indicators
 
 - [Net ARR vs. plan > 1](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#incremental-annual-contract-value-iacv)
 - [Net ARR efficiency > 1.0](https://about.gitlab.com/handbook/sales/#iavc-efficiency-ratio)
@@ -250,7 +248,7 @@ The Staff Business Systems Administrator is a [grade 8](https://about.gitlab.com
 
 The Business Systems Adminstrator Job Family would move into the [Sales Systems Leadership](/job-families/sales/senior-manager-sales-systems/) Job Family.
 
-### Hiring Process
+## Hiring Process
 
 Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process.
 To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).

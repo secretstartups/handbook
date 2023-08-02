@@ -37,4 +37,3 @@ The VP, Global Enterprise Sales is a [grade 12](https://about.gitlab.com/handboo
 ## Career Ladder
 
 The next steps for the VP, Global Enterprise Sales Job Family is to move to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/) Job Familiy.
-

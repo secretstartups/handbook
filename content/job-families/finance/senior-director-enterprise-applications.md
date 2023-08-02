@@ -56,4 +56,3 @@ Candidates for this position can expect the hiring process to follow the order b
 ## Career Ladder
 
 The next step in the Enterprise Applications job family is to move to the [VP of IT](/job-families/finance/vp-information-technology) job family.
-

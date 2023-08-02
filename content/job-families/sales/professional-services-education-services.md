@@ -2,7 +2,7 @@
 title: "Global Education Services"
 ---
 
-### Certification Exam Developer
+## Certification Exam Developer
 
 GitLab’s Education Services team is looking for an experienced certification exam developer responsible for managing the design, development and maintenance of GitLab’s certification exams. In this role, you will lead the efforts to work cross-functionally in designing the competency framework, blueprints, candidate test items, study materials, and test forms.
 
@@ -10,11 +10,11 @@ Your goal is to accelerate the adoption of GitLab by ensuring our customers, com
 
 This job family reports to the Sr. Director of Education Services.
 
-#### Job Grade
+### Job Grade
 
 The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Responsibilities
+### Responsibilities
 
 - Facilitate competency modeling sessions working cross-functionally with SMEs, instructional designers, and other teams (engineering, support, professional services, etc.) to establish the knowledge and performance framework to be used as the basis for developing exams (and associated curricula).
 - Own and maintain the certification blueprint that prioritizes and assigns weightage to content categories.
@@ -26,7 +26,7 @@ The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handboo
 - Review training course designs and content to establish guided journeys for candidates to prepare for each certification.
 - Stay up to date with the latest GitLab feature releases
 
-#### Requirements
+### Requirements
 
 - B.S. or M.S. or relevant work experience in Computer Science or related engineering discipline
 5+ years experience in enterprise customer-facing curriculum, technical documentation or certification programs (preferably in a subscription environment)
@@ -40,21 +40,19 @@ The Certification Exam Developer is a [grade 6](https://about.gitlab.com/handboo
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience with automated lab environments like Instruqt, Strigo, or similar platform
 
-
-#### Career Ladder
+### Career Ladder
 
 The next steps for the Certification Exam Developer job family has not yet been defined.
 
-#### Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member.
-2. Video Interview with the Hiring Manager and to outline take home assignment.
-3. Team Interviews with 1-4 team members
+1. Video Interview with the Hiring Manager and to outline take home assignment.
+1. Team Interviews with 1-4 team members
 
-
-### Lab Development Engineer
+## Lab Development Engineer
 
 GitLab’s Education Services team is looking for an experienced lab development engineer to design and build hands-on labs. In this role, you'll have experience developing and deploying solutions using cloud-based services, a deep technical knowledge of multiple IT domains, and excellent writing skills.
 
@@ -62,11 +60,11 @@ Additionally, the ideal candidate will have training delivery, or training devel
 
 This role reports to Sr. Manager of Curriculum Development.
 
-#### Job Grade
+### Job Grade
 
 The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Responsibilities
+### Responsibilities
 
 - Dive deep into GitLab platform to understand the services and develop effective training for our customers
 - Develop and maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the courseware by offering hands-on learning for learners
@@ -81,7 +79,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 - Stay up to date on GitLab new training/certification announcements and changes to existing education programs
 - Own the lab maintenance, including all new environments, and updates/bug fixes for existing environments.
 
-#### Requirements
+### Requirements
 
 - 5+ years of experience in IT in a high growth Software as a service (subscription) environment
 - 3+ years of experience in user support in a cloud-first modern IT environment
@@ -97,22 +95,20 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience with automated lab environments like Instruqt, Strigo, or similar platform
 
-
-#### Career Ladder
+### Career Ladder
 
 The next steps for the Lab Development Engineer job family has not yet been defined.
 
-#### Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member.
-2. Interview with the Hiring Manager and to outline take home assignment.
-3. Team Interviews with 1-4 team members
-4. Interview with Sr. Director of Education Services
+1. Interview with the Hiring Manager and to outline take home assignment.
+1. Team Interviews with 1-4 team members
+1. Interview with Sr. Director of Education Services
 
-
-### Technical Curriculum Developer
+## Technical Curriculum Developer
 
 GitLab’s Education Services team is looking for an experienced technical curriculum developer who will help drive our customer, partner and community facing education efforts. In this role, you create new and improve existing courses for the ever-growing solutions that we offer to our customers, partners, and community across the globe.
 
@@ -120,11 +116,11 @@ Your goal is to accelerate the adoption of GitLab by ensuring our customers, com
 
 This job family reports to the Sr. Director of Education Services.
 
-#### Intermediate Job Grade
+### Intermediate Job Grade
 
 The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Responsibilities
+### Responsibilities
 
 - Build relationships and collaborate with SMEs, instructional designers, and other teams (sales, engineering, support, professional services, etc.) to align product roadmaps with content updates or new educational offerings.
 - Produce high quality materials including presentations, assessments, and more to meet our design requirements.
@@ -135,7 +131,7 @@ The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handb
 - Contributes to accreditation/certification exam questions and answers used to test the learner’s expertise of the subject matter
 - Stay up to date with the latest GitLab feature releases
 
-#### Requirements
+### Requirements
 
 - 3+ years experience in enterprise customer-facing roles such as curriculum developer, technical trainer and consulting engineer (preferably in a subscription environment)
 - Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices)
@@ -147,20 +143,19 @@ The Technical Curriculum Developer is a [grade 6](https://about.gitlab.com/handb
 - Developing automation workflows and integrations for repetitive or manual tasks
 - Experience with automated lab environments like Instruqt, Strigo, or similar platform
 
-#### Career Ladder
+### Career Ladder
 
 The next steps for the Technical Curriculum Developer job family has not yet been defined.
 
-#### Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member.
-2. Video Interview with the Hiring Manager and to outline take home assignment.
-3. Team Interviews with 1-4 team members
+1. Video Interview with the Hiring Manager and to outline take home assignment.
+1. Team Interviews with 1-4 team members
 
-
-### Associate LSM Administrator, Education Services
+## Associate LSM Administrator, Education Services
 
 GitLab’s Education Services team is looking for an experienced LMS administrator, education services who will help drive our customer, partner and community facing education efforts. In this role, you'll be responsible for supporting the day-to-day operations of this rapidly scaling team.
 
@@ -168,11 +163,11 @@ Your goal is to execute operational tactics and activities, along with providing
 
 This job family reports to the Sr. Director of Education Services.
 
-#### Job Grade
+### Job Grade
 
 Associate LMS Administrator, Education Services is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Responsibilities
+### Responsibilities
 
 - Administer tasks on various education systems including LMS, virtual environment, and accreditation system
 - Upload course materials, configuration of functionality such as complex curricula, cohorts, communications, surveys, and notifications in LMS
@@ -185,7 +180,7 @@ Associate LMS Administrator, Education Services is a [grade 5](https://about.git
 - Create and manage software “tickets” for improvements to technology systems
 - Serve as an embedded chief of staff to the education services leadership team in support of their top initiatives
 
-#### Requirements
+### Requirements
 
 - 2-3 years of experience in an Operations, Project/Program Manager, Strategy, or Enablement role in a fast-paced Tech/subscription environment
 - Excellent project management skills
@@ -194,32 +189,27 @@ Associate LMS Administrator, Education Services is a [grade 5](https://about.git
 - A demonstrated ability to learn quickly about businesses and technologies
 - Excellent communication & collaboration skills
 
-#### Job Grade
-
-LMS Administrator, Education Services is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
-
-#### Career Ladder
+### Career Ladder
 
 The next steps for the LMS Administrator, Education Services job family has not yet been defined.
 
-#### Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member.
-2. Interview with the Hiring Manager.
-3. Team Interviews with 3 team members
+1. Interview with the Hiring Manager.
+1. Team Interviews with 3 team members
 
-
-### Senior Manager of Education Curriculum Development
+## Senior Manager of Education Curriculum Development
 
 The Senior Manager of Education Curriculum Development reports into the Senior Director, Global Education.
 
-#### Senior Manager of Education Curriculum Development Job Grade
+### Senior Manager of Education Curriculum Development Job Grade
 
 The Senior Manager of Education Curriculum Development is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager of Education Curriculum Development Responsibilities
+### Senior Manager of Education Curriculum Development Responsibilities
 
 - Manage a high performing direct team of instructional designers, multimedia developers, and lab managers for DevOps and product content and course development to ensure effective education delivery
 - Defines strategy and delivery of engaging GitLab and DevOps educational content for self-paced and instructor-led curriculum
@@ -237,8 +227,7 @@ The Senior Manager of Education Curriculum Development is a [grade 9](https://ab
 - Serves as an internal expert on instructional design methodologies, continuously monitoring the latest innovations in the field and the performance of new products while sharing learnings with cross-functional GitLab team members
 - Partner effectively with cross-functional curriculum developers, instructional designers, technical trainers, training managers, project managers, and internal stakeholders across the organization to ensure the content aligns with GitLab instructional design best practices organizationally wide.
 
-
-#### Senior Manager of Education Curriculum Development Requirements
+### Senior Manager of Education Curriculum Development Requirements
 
 - Extends the Senior Technical Instructional Designer requirements
 - 7+ years experience in an instructional designer role, preferably with expertise in DevOps and/or Open Source
@@ -283,17 +272,13 @@ The Technical Instructor (Intermediate) is a [grade 6](https://about.gitlab.com/
 - Knowledge of the software development life cycle, DevOps and cloud native technologies (kubernetes, containers, and microservices)
 - Relationships in the software DevSecOps space are a plus
 
-
 ## Senior Technical Instructor
 
-
 The Senior Techincal Instructor reports the Senior Manager, Professional Education Services
-
 
 ### Senior Technical Instructor Job Grade
 
 The Senior Technical Instructor is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 
 ### Senior Technical Instructor Responsibilities
 
@@ -306,7 +291,6 @@ The Senior Technical Instructor is a [grade 7](https://about.gitlab.com/handbook
 - Lead and provide direction to other technical instructors on Education Services deliverables.
 - Acts as a mentor and model for GitLab’s Values (Collaboration, Results, Efficiency, Diversity, Inclusion & Belonging, Iteration, and Transparency)
 
-
 ### Senior Technical Instructor Requirements
 
 - Extends that of the Technical Instructor (Intermediate) Requirements
@@ -315,13 +299,11 @@ The Senior Technical Instructor is a [grade 7](https://about.gitlab.com/handbook
 - Maintain all GitLab DevOps Professional Technical Certifications
 - Proven ability to deliver all GitLab Instructor-led offerings
 
-
-## **Job Grades**
+### Job Grades
 
 Read more about grades at GitLab [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). As Education Services falls under Customer Success, the specific grades are [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success)
 
-
-## **Hiring Process**
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our  [team page](https://about.gitlab.com/company/team/).
 
@@ -333,27 +315,25 @@ Candidates may be invited to additional interviews.
 
 Successful candidates will be made an offer after references are verified.
 
-
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
 
-## **Performance Indicator**
+### Performance Indicator
 
 - <span  style="text-decoration:underline;">Technical Instructor: [Billable utilization](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#implementation-plan)</span> target >= 40%
 
-## **Career Ladder**
+### Career Ladder
 
 - The next steps for individual contributors in to progress from Intermediate to Senior
 
-
-### Senior Manager, Education Delivery
+## Senior Manager, Education Delivery
 
 The Senior Manager, Education Delivery reports to the Senior Director, Global Education.
 
-#### Senior Manager, Education Delivery Job Grade
+### Senior Manager, Education Delivery Job Grade
 
 The Senior Manager, Education Delivery is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Manager, Education Delivery Responsibilities
+### Senior Manager, Education Delivery Responsibilities
 
 - Set strategic direction for Professional Services Education Delivery
 - Develop and execute inbound and outbound marketing strategy to align with business goals
@@ -386,7 +366,7 @@ The Senior Manager, Education Delivery is a [grade 9](https://about.gitlab.com/h
 - Manage relationships with Partner Certified Trainers and community of practice
 Collaborate with Senior leadership to ensure financial and operational goals are met
 
-#### Senior Manager, Education Delivery Requirements
+### Senior Manager, Education Delivery Requirements
 
 - Bachelor’s degree in business, management, education or related field.
 - 5+ years building and managing for-profit education businesses, including product management, learning content delivery, training delivery, and certification programs.
@@ -401,17 +381,17 @@ Collaborate with Senior leadership to ensure financial and operational goals are
 - Experience with performance management, coaching, and mentoring team members.
 - Ability to use GitLab
 
-### Senior Director, Education Services
+## Senior Director, Education Services
 
 The Senior Director of Global Education for GitLab Academy will be responsible for leading and inspiring a fast-growing team that designs and delivers compelling and impactful learning solutions to GitLab’s fast growing community of DevOps practitioners that includes community users, customers and partners. The ideal candidate will execute on the vision of learning as an effective accelerant to solidify GitLab’s leadership in industry and academia while positioning the organization to meet/exceed business goals.
 
 The Senior Director, Education Services reports to the Senior Director, Global Professional Services.
 
-#### Senior Director, Education Services Job Grade
+### Senior Director, Education Services Job Grade
 
 The Senior Director, Education Services is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Director, Education Services Responsibilities
+### Senior Director, Education Services Responsibilities
 
 - Lead the global content and knowledge management strategy for technical training and enablement for GitLab’s product and DevOps practices.
 - Own the development and delivery of learning experiences for all GitLab products and DevOps  enablement, - creating an impactful suite of ongoing learning experiences using relevant research and a variety of mediums to drive learning goals.
@@ -425,7 +405,7 @@ The Senior Director, Education Services is a [grade 11](https://about.gitlab.com
 - Innovate with blended learning solutions while aligning with GitLab’s overall knowledge and information strategy, including documentation, self-help, and community.
 - Lead the business-level implementation and support of a Learning Management System in coordination with the global, enterprise-wide effort.
 
-#### Senior Director, Education Services Requirements
+### Senior Director, Education Services Requirements
 
 - Strong business acumen and prior SaaS Services/Training leadership experience
 - Excellent collaborator and communicator within and across various levels of the organization
@@ -435,7 +415,7 @@ The Senior Director, Education Services is a [grade 11](https://about.gitlab.com
 - BA/BS degree required. Advanced degree a plus
 - Minimum of 10-15 years relevant experience
 
-## Performance Indicators
+### Performance Indicators
 
 - [Bookings attached rate per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)
 - [Services bookings and revenue per agreed plan](https://about.gitlab.com/handbook/sales/#pcv)

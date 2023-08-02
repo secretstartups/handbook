@@ -57,7 +57,7 @@ The Sales Strategy Manager is a [grade 8](https://about.gitlab.com/handbook/tota
 - Assess and drive innovative pricing strategies and options for Field Teams
 - Authoring and delivering high-impact presentations and plans to support CRO and internal Sales events
 - Assist with annual planning with Sales Leadership and key GTM Leaders
-- Drive quarterly planning with Theater Sales Leaders and provide analytical support  
+- Drive quarterly planning with Theater Sales Leaders and provide analytical support
 - Develop and manage executive reporting on key metrics, formulate actionable insights and structure a concise, clear presentation of findings and prioritize issues as appropriate
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations
 - Support strategy for Customer Success and Channel Teams
@@ -115,7 +115,7 @@ The Sales Strategy Senior Manager is a [grade 10](https://about.gitlab.com/handb
 - Assess and drive innovative pricing strategies and options for Field Teams
 - Authoring and delivering high-impact presentations and plans to support CRO and internal Sales events
 - Assist with annual planning with Sales Leadership and key GTM Leaders
-- Drive quarterly planning with Theater Sales Leaders and provide analytical support  
+- Drive quarterly planning with Theater Sales Leaders and provide analytical support
 - Develop and manage executive reporting on key metrics, formulate actionable insights and structure a concise, clear presentation of findings and prioritize issues as appropriate
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations
 - Support strategy for Customer Success and Channel Teams
@@ -190,7 +190,6 @@ The Vice President, Sales Strategy & Analytics is a [grade 12](https://about.git
 Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
 
-
 ## Specialties
 
 ### Channel
@@ -228,7 +227,7 @@ The next step in the Sales Strategy job family is not yet defined at GitLab.
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 1. Phone screen with a GitLab Recruiting team member
-2. Video Interview with the Hiring Manager
-3. Team Interviews with 1-4 team members
+1. Video Interview with the Hiring Manager
+1. Team Interviews with 1-4 team members
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

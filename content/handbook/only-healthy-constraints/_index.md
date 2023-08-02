@@ -54,5 +54,3 @@ We try to avoid the downside of maturation, because this better enables us to ac
 >First, there will be those who are devoted to the goals of the organization. Examples are dedicated classroom teachers in an educational bureaucracy, many of the engineers and launch technicians and scientists at NASA, even some agricultural scientists and advisors in the former Soviet Union collective farming administration.
 >Secondly, there will be those dedicated to the organization itself. Examples are many of the administrators in the education system, many professors of education, many teachers union officials, much of the NASA headquarters staff, etc.
 >The Iron Law states that in every case the second group will gain and keep control of the organization. It will write the rules, and control promotions within the organization.
-
-

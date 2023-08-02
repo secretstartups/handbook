@@ -24,7 +24,6 @@ The VP of Commerical Sales is a [grade 12](https://about.gitlab.com/handbook/tot
 - Collaborate with sales leaders around the world to ensure regional alignment, collaboration to enter new markets, and career path for team members across segments.
 - Create a predictable sales model that enables accurate forecasting on a monthly and quarterly basis
 
-
 ## Requirements
 
 - Demonstrated progressive sales leadership experience especially with high-growth inside sales teams.

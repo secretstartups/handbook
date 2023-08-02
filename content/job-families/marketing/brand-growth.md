@@ -34,7 +34,7 @@ The Director, Brand Strategy is a [grade 10](https://about.gitlab.com/handbook/t
 - Demonstrated experience designing and executing integrated brand campaigns across multiple media forms with measurable impact on business results.
 - Proven experience measuring and reporting on brand campaigns.
 
-## Performance Indicators
+#### Performance Indicators
 
 - Increases overall brand awareness through various channels and campaigns.
 - Builds and recruits a world-class brand team.
@@ -107,7 +107,7 @@ The Staff Brand Manager is a [grade 8](https://about.gitlab.com/handbook/total-r
 - Oversee creation of event communications and promotion for event programs, in partnership with demand generation and sales development teams, to drive attendance.
 - Develop and deliver event enablement to include pre-event briefings, at-event briefings, and drive post-event follow-up briefings and event retrospectives.
 
-## Performance Indicators
+#### Performance Indicators
 
 - Executing overall brand strategy and brand campaign initiatives
 - Collaborating effectively and receiving overall buy-in internally
@@ -147,7 +147,7 @@ The Senior Brand Manager is a [grade 7](https://about.gitlab.com/handbook/total-
 - Outstanding written and verbal communications skills.
 - You embrace our values, and work in accordance with those values.
 
-## Performance Indicators
+### Performance Indicators
 
 - Executing overall brand strategy and brand campaign initiatives.
 - Reporting on metrics on brand campaigns to show that our brand is trending upwards.
@@ -200,7 +200,7 @@ The Director, Certification Brand role is a [grade 10](https://about.gitlab.com/
 - A bias for action for developing awesome marketing assets (website, videos, success stories, blogs, print collateral).
 - Experience working in a fast-paced and highly cross-functional organization.
 
-## Performance Indicators
+### Performance Indicators
 
 - The number of sign-ups to the certification program
 - Measuring the social sharing of the certification program

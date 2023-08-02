@@ -13,11 +13,11 @@ images:
 This page is about one of the four Guiding Principles of TeamOps: Measurement Clarity. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](https://about.gitlab.com/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
 {{% /alert %}}
 
-_Outdated workforce supervision tactics often trigger bias and presenteeism. Evaluating productivity differently requires unique methods of recording and managing results._
+*Outdated workforce supervision tactics often trigger bias and presenteeism. Evaluating productivity differently requires unique methods of recording and managing results.*
 
 Measurement is important in any organization. As Peter Drucker famously said, "If you can't measure it, you can't manage it." But in conventionally managed organizations, too often the model of "successful work" involves physical presence—a team member needs to be in a certain building in order to be "at work."
 
-Teams working via TeamOps should employ methods of measuring productivity, value, and results that _don't_ depend on physical supervision as a measure of contribution. Re-prioritizing _what_, _how_, and _when_ the organization measures enables a higher frequency of success, greater accountability for objectives, lower workforce discrimination, and wider reach for company communication.
+Teams working via TeamOps should employ methods of measuring productivity, value, and results that *don't* depend on physical supervision as a measure of contribution. Re-prioritizing *what*, *how*, and *when* the organization measures enables a higher frequency of success, greater accountability for objectives, lower workforce discrimination, and wider reach for company communication.
 
 In short: TeamOps treats "work" defines work as something we do, not somewhere we go.
 
@@ -25,7 +25,7 @@ Action tenets of measurement clarity, including real-world examples of each, are
 
 ## Transparent measurements
 
-Conventional management philosophies glorify "metrics," which is a nonspecific term that often lacks connection to objectives, mission, values, workflows, strategy, or a shared reality. TeamOps prefers [Key Performance Indicators (KPIs)](https://about.gitlab.com/company/kpis/), which are smaller, incremental measures linked to [Objectives and Key Results](https://about.gitlab.com/company/okrs/) (OKRs) that, well, _indicate performance_. These offer greater context for both daily operations and the relevance of ongoing productivity to a function or the entire company.
+Conventional management philosophies glorify "metrics," which is a nonspecific term that often lacks connection to objectives, mission, values, workflows, strategy, or a shared reality. TeamOps prefers [Key Performance Indicators (KPIs)](https://about.gitlab.com/company/kpis/), which are smaller, incremental measures linked to [Objectives and Key Results](https://about.gitlab.com/company/okrs/) (OKRs) that, well, *indicate performance*. These offer greater context for both daily operations and the relevance of ongoing productivity to a function or the entire company.
 
 While KPIs measure smaller units than OKRs do, the former aren't dependent on the latter. In fact, the two should be symbiotic in nature, informing and influencing each other to enhance operational visibility, measurement accuracy, and team empowerment. If you're not creating OKRs to improve KPIs, then you're either missing KPIs or you have the wrong OKRs.
 
@@ -34,7 +34,7 @@ Crucially, under TeamOps every functional department shares its KPIs transparent
 {{% details summary="Example of transparent measurements" %}}
 **Example 1:** [Chief Executive Officer OKR and KPIs](https://about.gitlab.com//company/okrs/fy23-q3/)
 
-In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](https://about.gitlab.com//company/okrs/fy23-q3/). This is the _initiative_ to improve a series of KPIs, a subset of which are documented below:
+In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](https://about.gitlab.com//company/okrs/fy23-q3/). This is the *initiative* to improve a series of KPIs, a subset of which are documented below:
 
 1. Evolve the resident contributor strategy by conducting 5 customer conversations with current “resident contributors” in seat
 1. Certify 1,000 team members and 10,000 wider-community members in TeamOps
@@ -45,7 +45,7 @@ These are documented in a tool that's accessible to the entire organization. Any
 
 ## Measure results, not hours
 
-Every organizational operational model aims to optimize the efficiency with which teams produce results. But conventionally managed teams make a critical error when they conflate "efficiency" with "speed." Doing so means _time_ often becomes the team's highest priority—and _working hours_ become a principal success metric for the organization.
+Every organizational operational model aims to optimize the efficiency with which teams produce results. But conventionally managed teams make a critical error when they conflate "efficiency" with "speed." Doing so means *time* often becomes the team's highest priority—and *working hours* become a principal success metric for the organization.
 
 In organizations powered by TeamOps, team members understand that the root of "productivity" is "to produce," and therefore focus on [executing business results](/handbook/values/#measure-results-not-hours), rather than executing on [presenteeism](https://language.work/research/killing-time-at-work/). TeamOps therefore encourages success measurements based on outputs, not inputs.
 
@@ -59,7 +59,7 @@ Producing the `10 Years of GitLab` integrated marketing campaign and [associated
 
 ## Definition of done
 
-While often associated with the [Agile](https://www.agilealliance.org/glossary/definition-of-done/) software development movement, "definition of done" is a practice that teams in _any_ industry can use to enhance measurement clarity. For organizations practicing TeamOps, developing a definition of done helps teams identify the conclusion of one [iteration](/handbook/values/#iteration) and the beginning of the next. For [software development teams](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html?_gl=1*1s8xk24*_ga*MTU4MjYxNTAxOS4xNjc0NjYwMDUy*_ga_ENFH3X7M5Y*MTY3NzI3MTAzMy42Ny4xLjE2NzcyNzI3MDcuMC4wLjA.#definition-of-done), this usually means that the code is verified as working; for other teams, it may mean that a certain output has been created and delivered.
+While often associated with the [Agile](https://www.agilealliance.org/glossary/definition-of-done/) software development movement, "definition of done" is a practice that teams in *any* industry can use to enhance measurement clarity. For organizations practicing TeamOps, developing a definition of done helps teams identify the conclusion of one [iteration](/handbook/values/#iteration) and the beginning of the next. For [software development teams](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html?_gl=1*1s8xk24*_ga*MTU4MjYxNTAxOS4xNjc0NjYwMDUy*_ga_ENFH3X7M5Y*MTY3NzI3MTAzMy42Ny4xLjE2NzcyNzI3MDcuMC4wLjA.#definition-of-done), this usually means that the code is verified as working; for other teams, it may mean that a certain output has been created and delivered.
 
 A team's definition of done may not always be the same. It might outline the success criteria for a quarterly OKR, explain when a project or working group should be considered "closed," or enumerate the fulfillment criteria for a small task. Regardless of the scope of impact, clearly [communicating](/teamops/decision-velocity/#low-context-communication) and [documenting](/teamops/shared-reality/#single-source-of-truth-ssot) completion criteria as a definition of done helps TeamOps teams align on methods for measuring and defining success.
 
@@ -68,14 +68,14 @@ Even better, definitions of done are prompts for important [team-building commun
 {{% details summary="Example of definition of done" %}}
 **Example:** TeamOps Course Updates
 
-Every quarter, GitLab's Workplace team adds new features and enhancements to the [free TeamOps course in LevelUp](https://levelup.gitlab.com/learn/course/teamops). Each [project management plan](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/workplace/teamops-fy24-q1/-/issues/5) includes a Measurement Clarity section outlining a list of completion criteria. This creates a very clear distinction between work that's _In Progress_ and _Closed_, and generates a signal to close the issue.
+Every quarter, GitLab's Workplace team adds new features and enhancements to the [free TeamOps course in LevelUp](https://levelup.gitlab.com/learn/course/teamops). Each [project management plan](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/workplace/teamops-fy24-q1/-/issues/5) includes a Measurement Clarity section outlining a list of completion criteria. This creates a very clear distinction between work that's *In Progress* and *Closed*, and generates a signal to close the issue.
 {{% /details %}}
 
 ## Prioritize due dates over scope
 
 TeamOps may not treat [elapsed time as a success measurement](/teamops/measurement-clarity/#measure-results-not-hours), but it does require due dates. Under TeamOps, however, due dates aren't a means of creating unnecessary rigidity or measuring the duration of contributions; they exist to force mechanisms that enable teams to execute on decisions and enforce accountability.
 
-An organization practicing TeamOps will always set a due date and, if necessary in light of changing circumstances, will _cut project scope_ to meet that due date rather than _postpone_ that date. This encourages teams to think [iteratively](/handbook/values/#iteration), recalculate the scope of current work, and better determine which aspects of a project are best saved for future objectives. Working this way limits loss of momentum.
+An organization practicing TeamOps will always set a due date and, if necessary in light of changing circumstances, will *cut project scope* to meet that due date rather than *postpone* that date. This encourages teams to think [iteratively](/handbook/values/#iteration), recalculate the scope of current work, and better determine which aspects of a project are best saved for future objectives. Working this way limits loss of momentum.
 
 {{% details summary="Example of prioritize due dates over scope" %}}
 **Example 1:** [Maintaining a monthly release cadence for 10+ years](/releases/)
@@ -85,9 +85,10 @@ As of 2022-12-01, GitLab has [shipped a monthly product release](/releases/) for
 
 ## Transparent feedback
 
-Achieving measurement clarity involves more than evaluating _whether_ your team successfully achieved its goals. It also involves evaluating _how_ your team succeeded during the process. So just as a team's measurements should be as [transparent](/teamops/measurement-clarity/#transparent-measurements) as possible, so too should be a team's feedback _about_ those results.
+Achieving measurement clarity involves more than evaluating *whether* your team successfully achieved its goals. It also involves evaluating *how* your team succeeded during the process. So just as a team's measurements should be as [transparent](/teamops/measurement-clarity/#transparent-measurements) as possible, so too should be a team's feedback *about* those results.
 
 [Transparent feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) means that constructive criticism is:
+
 - immediate
 - specific
 - documented
@@ -111,9 +112,9 @@ At GitLab, our mission that [everyone can contribute] even influences our feedba
 
 ## Cadence
 
-In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/everyone-contributes/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational _updates_? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
+In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/everyone-contributes/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational *updates*? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
 
-This is why establishing a transparent [cadence](https://about.gitlab.com/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a _pace_ for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](https://about.gitlab.com/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
+This is why establishing a transparent [cadence](https://about.gitlab.com/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a *pace* for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](https://about.gitlab.com/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
 
 {{% details summary="Example of cadence" %}}
 Example: [GitLab’s Quarterly All-Hands Meeting](https://about.gitlab.com/company/gitlab-assembly/)
@@ -134,4 +135,3 @@ Restart the TeamOps model by learning about <a href="/teamops/shared-reality/">T
 {{< /panel >}}
 
 {{< /cardpane >}}
-

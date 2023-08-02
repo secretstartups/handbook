@@ -19,7 +19,6 @@ The Sales Development Solutions Architect is a [grade 8](https://about.gitlab.co
 - Create and manage a forum where Sales Development reps can ask questions and receive answers providing real-time support and coaching
 - Provide constant feedback and ideas on how to address knowledge gaps and continually engage the team’sir interest in technical learning
 
-
 ### Requirements
 
 - Ability to use GitLab
@@ -42,6 +41,7 @@ The next step in the Sales Development Solutions Architect job family is not yet
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Selected candidates will be invited to schedule a screening call with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Sr. Director of Revenue Marketing
 - Candidates will then be invited to schedule an interview with a Sales Development Manager

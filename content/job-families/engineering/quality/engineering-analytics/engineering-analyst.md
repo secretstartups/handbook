@@ -6,7 +6,6 @@ Engineering Analysts at GitLab build and improve on the data capabilities needed
 They equip Engineering leaders with metric intelligence and actionable performance indicators.
 They work closely with GitLab’s Data team to enable new data capabilities that drives our analysis and visualizations.
 
-
 ## Responsibilities
 
 - Create data queries that provide actionable data-driven insights.
@@ -33,7 +32,6 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 - Working knowledge of HTML.
 - Able to thrive in a fully remote organization.
 - Able to use GitLab.
-
 
 ### Nice to haves
 

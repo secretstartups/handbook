@@ -284,12 +284,14 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 #### Responsibilies
 
 **Grade 7:**
+
 - Conduct research on current and future Enterprise IT trends through written reports, surveys, interviews and interactions with market analysts, industry conferences, self-study, and interactions with our customers to develop key insights for GitLab.
 - Help GitLab develop a deep knowledge and understanding of enterprise buyers including their challenges and goals that help them drive success for their companies.
 - Assess the DevOps ecosystem to distill the trends that influence GitLab’s addressable market.
 - Contribute to a consumable deliverable (in-person discussion, presentation, written report) in collaboration with the senior/principal MIM
 
 **Grade 8:**
+
 - Evaluate, analyze and present research results in a consumable and actionable format - whitepapers, web pages, case studies, conference presentations, sales enablement sessions, and executive presentations.
 - Help build and grow GitLab as a thought leader in the DevOps space by translating market insights into actionable recommendations for Product investment and GTM.
 - Participate and help prepare for industry analyst briefings as required.
@@ -298,6 +300,7 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 - Strong communication skills that include the capability of representing GitLab externally at trade shows, customer events, conferences, etc. Solid presentation skills at all levels of the company.
 
 **Grade 9:**
+
 - Leverage the expertise in market research, syndicated data, customer insights and advanced data analytics to identify category-level market data sources that will contribute to the overall marketing insights strategy data set.
 - Design, document, manage, and present findings on primary (quantitative and qualitative) market insights research methodology recommendations to drive the overall approach to market insights research efforts.
 

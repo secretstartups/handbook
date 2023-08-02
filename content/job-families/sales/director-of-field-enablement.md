@@ -35,7 +35,6 @@ The Director, Field Enablement is a [grade 10](https://about.gitlab.com/handbook
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
 
-
 ## Senior Director, Field Enablement
 
 The Senior Director of Field Enablement is a seasoned global Sales, Partner, and Customer Success Enablement leader with the ability to thrive in a growing software DevOps organization. Reporting to the VP of Field Operations, they are responsible for directing program teams to manage a virtual, world-class global sales training and enablement program that supports the Field Sales organization by optimizing impactful enablement strategies.
@@ -75,7 +74,6 @@ The Senior Director, Field Enablement is a [grade 11](https://about.gitlab.com/h
 - Percent of Ramped Reps at or Above Quota
 - Forecast/pipeline management
 - Pipeline conversion and velocity
-
 
 ## Manager, Field Enablement Programs
 

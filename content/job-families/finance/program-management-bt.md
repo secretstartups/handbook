@@ -86,7 +86,6 @@ The Staff Business Technology Program Manager is a [grade 8](https://about.gitl
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-
 ### Manager, IT Business Technology Program Management
 
 The Manager, IT Business Technology Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -109,7 +108,6 @@ The Manager, IT Business Technology Program Management is a [grade 8](https://a
 - Experience managing a full portfolio of a business process area and driving measurable impact
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
-
 
 ### Senior / Principal Manager, IT Business Technology Program Management
 
@@ -197,4 +195,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then the candidate will be invited to interview with the VP Finance or CFO
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
-

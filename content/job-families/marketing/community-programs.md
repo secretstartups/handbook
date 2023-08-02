@@ -117,6 +117,7 @@ The Community Associate Manager is a [grade 5](https://about.gitlab.com/handbook
 - You are willing to use GitLab.
 
 Nice-to-haves:
+
 - Familiarity using GitLab, Salesforce, Zendesk, Slack, and other tools that the Community Programs team uses.
 - Change management skills.
 - Experience updating website copy or making website edits.
@@ -340,6 +341,7 @@ Team members specializing in Open Source will focus community building efforts o
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates may then be offered a 30 minute interview with a peer on the team.
 - Next, candidates will be invited to schedule an interview with a director of the group.
@@ -347,4 +349,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 Successful candidates will subsequently be made an offer via video, phone, or email.
 - Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-

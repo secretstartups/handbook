@@ -51,7 +51,7 @@ issues/merge requests in the current milestone to accomodate the exception.
 
 #### Service level agreements information
 
-The following process is _required_ for all Zendesk SLA changes that impact any
+The following process is *required* for all Zendesk SLA changes that impact any
 customer facing ticket.
 
 1. An issue should be created in

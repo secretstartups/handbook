@@ -18,15 +18,15 @@ The Director of Customer Success  is a job grade [level 10](https://about.gitlab
 
 - Set the overall vision and strategic plan for the Account Management organization, focusing on driving product adoption, leading a positive customer experience, and driving growth through gross renewals and net retention improvements.
 - Drive customer outcomes, product adoption and customer experience
-   - Lead the technical assessment as part of the sales process
-   - Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores
-   - Reduce churn and drive new business growth through greater advocacy and reference ability
+  - Lead the technical assessment as part of the sales process
+  - Influence future lifetime value through higher product adoption, customer satisfaction and overall health scores
+  - Reduce churn and drive new business growth through greater advocacy and reference ability
 - Define and optimize customer lifecycle by driving programs and initiatives to improve engagement approaches based on customer segmentation and leading a culture of continuous improvement
 - Build and lead world-class team:
-   - Recruit and develop a high performing team
-   - Develop company-wide customer success motion integrating processes, content and data to/from stakeholder organizations (e,g., Marketing, Sales, Product/Engineering, etc)
-   - Foster collaboration within the GitLab team and across customers
-   - Drive operational practices to track performance of teams and individuals
+  - Recruit and develop a high performing team
+  - Develop company-wide customer success motion integrating processes, content and data to/from stakeholder organizations (e,g., Marketing, Sales, Product/Engineering, etc)
+  - Foster collaboration within the GitLab team and across customers
+  - Drive operational practices to track performance of teams and individuals
 - Work closely with the sales management and Regional Directors to align on strategies, renewal forecasting, coverage plans, and account opportunities (i.e., opportunities and risks)
 - Drive Account Growth Outcomes:
 - Expand our revenue in accounts through new sales and up-sell opportunities with our GitLab

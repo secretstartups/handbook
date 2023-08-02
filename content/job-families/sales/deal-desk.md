@@ -20,7 +20,7 @@ The Deal Desk Specialist is a [grade 5](https://about.gitlab.com/handbook/total-
 - Partners with Field Sales to accelerate quoting process through operational efficiencies, training calls
 - Collaborates with impacted parties to identify solutions for common Quote to Cash errors
 - Personal Growth / Projects
-    - As time allows, focus on Quote to Cash process automation and improvement
+  - As time allows, focus on Quote to Cash process automation and improvement
 
 #### Deal Desk Specialist Requirements
 
@@ -42,9 +42,9 @@ The Deal Desk Specialist is a [grade 5](https://about.gitlab.com/handbook/total-
 - Sales Support Case SLA
 - Sales Support Slack SLA
 - Field Satisfaction
-    - Responsiveness to cases
-    - Efficiency in resolving issues
-    - Transparency in addressing ongoing problems, SLAs, and field expectations
+  - Responsiveness to cases
+  - Efficiency in resolving issues
+  - Transparency in addressing ongoing problems, SLAs, and field expectations
 
 ### Deal Desk Analyst
 
@@ -66,7 +66,7 @@ The Deal Desk Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rew
 - Delivers relevant training to new and existing Sales reps on Deal Desk, Order Booking, and overall QTC best practices
 - Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
 - Personal Growth / Projects
-    - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
+  - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
 
 #### Deal Desk Analyst Requirements
 
@@ -87,9 +87,9 @@ The Deal Desk Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rew
 - Sales Support Case SLA
 - Sales Support Slack SLA
 - Field Satisfaction
-    - Responsiveness to cases
-    - Efficiency in resolving issues
-    - Transparency in addressing ongoing problems, SLAs, and field expectations
+  - Responsiveness to cases
+  - Efficiency in resolving issues
+  - Transparency in addressing ongoing problems, SLAs, and field expectations
 
 ### Senior Deal Desk Analyst
 
@@ -114,7 +114,7 @@ The Senior Deal Desk Analyst is a [grade 7](https://about.gitlab.com/handbook/to
 - Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
 - Leads regular trainings, AMAs, office hours, and other Deal Desk enablement functions
 - Personal Growth / Projects
-    - Focus on Quote to Cash process automation and improvement, broader Field Operations projects, and working with cross functional teams at GitLab
+  - Focus on Quote to Cash process automation and improvement, broader Field Operations projects, and working with cross functional teams at GitLab
 
 #### Senior Deal Desk Analyst Requirements
 
@@ -135,9 +135,9 @@ The Senior Deal Desk Analyst is a [grade 7](https://about.gitlab.com/handbook/to
 - Sales Support Case SLA
 - Sales Support Slack SLA
 - Field Satisfaction
-    - Responsiveness to cases
-    - Efficiency in resolving issues
-    - Transparency in addressing ongoing problems, SLAs, and field expectations
+  - Responsiveness to cases
+  - Efficiency in resolving issues
+  - Transparency in addressing ongoing problems, SLAs, and field expectations
 
 ## Manager, Deal Desk
 
@@ -221,7 +221,7 @@ The Deal Desk Analyst (Alliances) is a [grade 6](https://about.gitlab.com/handbo
 - Delivers relevant training to new and existing Sales reps on Deal Desk, Order Booking, and overall QTC best practices
 - Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
 - Personal Growth / Projects
-    - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
+  - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
 
 #### Deal Desk Analyst (Alliances) Requirements
 
@@ -245,9 +245,9 @@ The Deal Desk Analyst (Alliances) is a [grade 6](https://about.gitlab.com/handbo
 - Sales Support Slack SLA
 - Private Offer SLA
 - Field Satisfaction
-    - Responsiveness to cases
-    - Efficiency in resolving issues
-    - Transparency in addressing ongoing problems, SLAs, and field expectations
+  - Responsiveness to cases
+  - Efficiency in resolving issues
+  - Transparency in addressing ongoing problems, SLAs, and field expectations
 - Sales KPIs.
 
 ## Career Ladder

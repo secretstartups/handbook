@@ -88,7 +88,6 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 - Ensure that the teams maintain a high level of data integrity with our ATS and other people systems
 - Provide consistent training and best practices to the rest of the recruiting team
 
-
 ### Requirements
 
 - Experience with recruiting coordination at multiple levels, including Executive
@@ -99,7 +98,6 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 - Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse)
 - Solves problems in thoughtful, strategic ways that incorporate broader goals
 - Able to use, or willingness to learn, GitLab
-
 
 ## Manager, Candidate Experience
 
@@ -149,7 +147,7 @@ The next step in the Candidate Experience job family is to move to the [Recruite
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
-   - Qualified candidates will be invited to schedule a 30 minute screening call
-   - Then, candidates will be invited to three 45 minute interviews with the Hiring Manager and additional team members
+- Qualified candidates will be invited to schedule a 30 minute screening call
+- Then, candidates will be invited to three 45 minute interviews with the Hiring Manager and additional team members
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).

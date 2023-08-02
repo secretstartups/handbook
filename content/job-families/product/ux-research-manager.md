@@ -34,7 +34,6 @@ The Manager, UX Research is a [grade 8](https://about.gitlab.com/handbook/total-
 - Exert significant influence on the overall objectives and long-range goals of the UX Research team.
 - Actively contribute to the UX Research team culture, processes, and documentation.
 
-
 #### Requirements
 
 - Deep knowledge in the field of UX Research with a proven understanding of quantitative and qualitative research methods.
@@ -79,7 +78,7 @@ The Manager, UX Research is a [grade 8](https://about.gitlab.com/handbook/total-
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
-##### The following steps would be scheduled after a successful review of your case studies:
+##### The following steps would be scheduled after a successful review of your case studies
 
 - Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
 - Interview with a Product Design Manager. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
@@ -107,7 +106,6 @@ The Senior Manager, UX Research is a [grade 9](https://about.gitlab.com/handbook
 - Support UX Research Managers' career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
 - Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
 - Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
-
 
 #### Requirements
 

@@ -37,16 +37,6 @@ The Associate Paralegal is a [grade 5](https://about.gitlab.com/handbook/total-r
 - Previous experience in a Global Start-up and remote first environment preferred.
 - Ability to use GitLab.
 
-## Specialties
-
-#### Associate Paralegal (Employment) Responsibilities
-
-- Draft employment-related agreements.
-- Develop employment-related policies.
-- Identify and develop employment-related training.
-- Manage global employment-related projects as assigned.
-- Conduct research and monitor employment law developments.
-
 
 ### Paralegal
 
@@ -96,7 +86,17 @@ The Senior Paralegal is a [Grade 7](https://about.gitlab.com/handbook/total-rewa
 - Proactive, dynamic and result driven individual with strong organizational skills
 - Ability to use GitLab
 
-## Specialties
+### Specialties
+
+#### Associate Paralegal (Employment)
+
+#### Associate Paralegal (Employment) Responsibilities
+
+- Draft employment-related agreements.
+- Develop employment-related policies.
+- Identify and develop employment-related training.
+- Manage global employment-related projects as assigned.
+- Conduct research and monitor employment law developments.
 
 ### Paralegal (Corporate)
 

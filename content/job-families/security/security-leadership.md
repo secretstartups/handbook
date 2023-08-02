@@ -73,9 +73,10 @@ The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/
 - Ability to be successful managing at a remote-only company
 - Humble, servant leader
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
@@ -108,9 +109,10 @@ The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compens
 - Relevant, progressive experience managing information security teams
 - Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -145,9 +147,10 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 - Relevant, progressive experience managing information security teams
 - Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -170,10 +173,10 @@ The Director, Security Operations is a [grade 10](/handbook/total-rewards/compen
 - Determine appropriate combination of internal security efforts and external security efforts including bug bounty programs, external security audits (penetration testing, black box, white box testing)
 - Analyze and advise on new security technologies
 - Build and manage a team, which currently consists of Security Managers, [Security Engineers](/job-families/security/security-engineer/), and [Security Analysts](/job-families/security/security-analyst/)
-   - Identify and fill positions
-   - Grow skills in team leads and team members, for example by
+  - Identify and fill positions
+  - Grow skills in team leads and team members, for example by
    creating training and testing materials
-   - Deliver input on promotions, function changes, demotions, and terminations
+  - Deliver input on promotions, function changes, demotions, and terminations
 - Ensure our engineers and contributors from the wider community run a secure software development lifecycle for GitLab by training them in best practices and creating automated tools
 - Involve in major security and service abuse events
 - Ensure we're compliant with our legal and contractual security obligations
@@ -188,9 +191,10 @@ controls, and common security flaws that apply to Ruby on Rails applications
 - Experience managing teams of engineers, and leading managers
 - Experience with incident management
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
@@ -257,11 +261,12 @@ The Senior Director, Security Assurance is a [grade 11](/handbook/total-rewards/
 - Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: SOX ITGCs, SOC, FedRAMP/NIST 800-53, NIST CSF, PCI, ISO27001, ISO 31000, etc.
 - An effective communicator with the ability to escalate, coordinate, provide feedback, and ask for help
 - Outstanding cross-functional partnership skills, with a confirmed ability to identify, initiate and lead efforts with both internal and external teams
-- Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)  
+- Embrace GitLab Values of [Collaboration](/handbook/values/#collaboration), [Results](/handbook/values/#results), [Efficiency](/handbook/values/#efficiency), [Diversity, Inclusion & Belonging](/handbook/values/#diversity-inclusion), [Iteration](/handbook/values/#iteration), and [Transparency](/handbook/values/#transparency)
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
@@ -297,6 +302,7 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 GitLab’s VPs of Security must have all of the following attributes.
 
 Must-haves:
+
 - Relevant, progressive experience managing information security teams
 - Excellent written and verbal communication skills
 - Be able to quickly hire top-quality team members and managers
@@ -308,6 +314,7 @@ Must-haves:
 
 Nice-to-haves
 Great candidates will have some meaningful proportion of the following.
+
 - Working knowledge of the GitLab application
 - Relevant Bachelor's degree
 - Prior fast-growing startup experience
@@ -319,9 +326,10 @@ Great candidates will have some meaningful proportion of the following.
 - Developer platform/tool industry experience
 - Deep open source software (OSS) experience
 
-### Hiring Process
+#### Hiring Process
 
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with CISO
 - Candidates will then be invited to schedule separate 60 minute interviews with three leaders of the organization

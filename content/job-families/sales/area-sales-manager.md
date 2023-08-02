@@ -47,7 +47,6 @@ Ensure the successful rollout and adoption of GitLab products through strong acc
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
 
-
 ### Area Sales Manager (Intermediate)
 
 The Area Sales Manager (Intermediate) reports to the [Regional Sales Director](/job-families/sales/regional-sales-director/).
@@ -126,12 +125,8 @@ The Senior Area Sales Manager is a [grade 9](https://about.gitlab.com/handbook/t
 
 #### Area Sales Manager (Federal/Public Sector) Requirements
 
-- Extends that of the Area Sales Manager (Intermediate) or Senior Area Sales Manager Responsibilities
-- Works close with Federal/Public Sector teams and clients
-
-#### Area Sales Manager (Federal/Public Sector) Requirements
-
 - Extends that of the Area Sales Manager (Intermediate) or Senior Area Sales Manager Requirements
+- Works close with Federal/Public Sector teams and clients
 - Works closely with Director of Public Sector Sales to develop and execute Strategic Account Plans for key Federal agencies.
 - Develops and maintain an executive relationship w/ the FSI leaders who align to the programs inside the client space.
 - Demonstrated progressive experience in sales management, selling software or hardware through a two tiered channel eco system including distribution, corporate resellers, and value added resellers (VARS) into Federal government
@@ -142,7 +137,6 @@ The Senior Area Sales Manager is a [grade 9](https://about.gitlab.com/handbook/t
 - Exceptional knowledge of Federal infrastructure and agencies
 - A security clearance is a plus
 - Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/#travel-guidance-covid-19). Federal, LLC team members need to also comply with the applicable vaccination policies.
-
 
 ### First order
 

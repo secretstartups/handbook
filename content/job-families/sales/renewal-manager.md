@@ -13,7 +13,6 @@ title: Renewals Manager
 | Senior Manager, Renewals  | 9 |
 | Sr. Director, Renewals  |  11 |
 
-
 Renewal Managers have applicable skills for many other jobs in the Customer Success, Sales and Marketing organizations.
 
 The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes by specializing in customer retention. In collaboration with sales, channel partners, customer success, and sales operations, this team will focus on successfully renewing customer subscriptions while providing a seamless customer experience. The roles aim to deliver predictable and efficient renewals through a proactive management of the customers lifecycle.
@@ -47,7 +46,6 @@ The Associate Renewals Manager is a grade 5.
 - Strong negotiation, presentation and closing skills
 - Preferred experience with technical products. Experience with DevOps, software development lifecycle, or application development is a plus.
 - You share our values, and work in accordance with those values.
-
 
 ## Renewals Manager
 
@@ -123,6 +121,7 @@ The Manager, Renewals is a grade 9.
 ### Senior Manager, Renewals Responsibilities
 
 Extends to that of an Manager, Renewals
+
 - Building a team culture that promotes innovation, experimentation and continuous improvement
 - Contributes to company wide renewals strategies and programs
 
@@ -180,8 +179,3 @@ Qualified candidates will be invited to schedule a 30 minute screening call with
 Next, qualified candidates will be invited to interview with 2 - 4 team members.
 Next, qualified candidates will have a final interview with an executive.
 Additional details about our process can be found on our hiring page.
-
-
-
-
-

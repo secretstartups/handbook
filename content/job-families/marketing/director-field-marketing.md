@@ -3,16 +3,17 @@ title: "Field Marketing Leadership"
 summary: Support our Sales Teams, globally, build and lead a global team of field marketers aligned to our regional sales directors.
 ---
 
+## Director, Field Marketing
 
 The Director, Field Marketing position is responsible for building and leading a global team of field marketers aligned to our regional sales directors.
 
 A qualified Director, Field Marketing has strong understanding of sales-focused marketing as well as our audiences of enterprise IT leaders, IT ops practitioners, and developers. They enjoy working with sales leaders to understand the needs of the sales teams, and meeting those needs through effective partnership, strategy, and execution.
 
-## Job Grade
+### Job Grade
 
 The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+### Responsibilities
 
 - Hire, train, coach, and lead a global team of field marketing managers.
 - Meet or exceed our annual plan to grow demand for each of our sales teams.
@@ -31,7 +32,7 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 - Be an advocate for the marketing department and help the sales department understand the marketing department's priorities.
 - Ensure field marketing contributes productively to the quarterly business reviews of the sales team they support.
 
-## Requirements
+### Requirements
 
 - Past experience delivering, accelerating, and expanding sales pipeline through regional marketing.
 - 7+ years of marketing experience.
@@ -47,7 +48,7 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
-## Career Ladder
+### Career Ladder
 
 The next step in the Field Marketing Leadership job family is to Senior Director, Regional Marketing.
 
@@ -55,16 +56,15 @@ The next step in the Field Marketing Leadership job family is to Senior Director
 
 The Senior Director, Regional Marketing reports to the VP, Integrated Marketing.
 
+### Summary
 
-## Summary
+The Senior Director, Regional Marketing leads the strategy and execution of marketing programs performed at the regional and local level, impacting both the direct and indirect sales motions. Leading a combined team of both field marketing and channel marketing regional leaders and practitioners, the Senior Director works closely with regional sales leadership to generate and progress demand through events, programs and local insights.
 
-The Senior Director, Regional Marketing leads the strategy and execution of marketing programs performed at the regional and local level, impacting both the direct and indirect sales motions. Leading a combined team of both field marketing and channel marketing regional leaders and practitioners, the Senior Director works closely with regional sales leadership to generate and progress demand through events, programs and local insights.  
-
-## Job Grade
+### Job Grade
 
 The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+### Responsibilities
 
 - Lead the development of regional and local marketing strategies, creating a unified approach for both field and partner motions in market
 - Scale field marketing activities and impact, while balancing the unique needs and characteristics of local markets
@@ -77,7 +77,7 @@ The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com
 - Achieve high and consistent ROI from Regional Marketing programs, through operational rigor, measurement and budget and financial management
 - Continually experiment, test and iterate programs to define best practice and evolve program as the business grows
 
-## Requirements
+### Requirements
 
 - 12-15 years progressive experience in the B2B tech industry with a focus on regional, field, channel and partner marketing; working directly with sales teams
 - Skilled at building and maintaining relationships, being strategic partner to sales and engaging with senior leadership; strong communicator and proven ability to articulate and evangelize team strategy
@@ -88,15 +88,13 @@ The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com
 - Skilled at partnering cross-functionally across marketing, internal stakeholders and agency partners as well as external stakeholders, including channel partners and customers
 - Deep understanding of channel ecosystem and related processes
 
-
-## Career Ladder
+### Career Ladder
 
 The next step in the Field Marketing Leadership job family is to VP, Integrated Marketing.
 
-## Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-
 
 - Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with the VP, Integrated Marketing

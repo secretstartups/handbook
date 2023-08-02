@@ -23,7 +23,6 @@ The VP of Customer Success is a [grade 12](https://about.gitlab.com/handbook/tot
 - Partner with 3rd party systems integrators for services scale and project delivery as part of major cloud-migration and digital transformation projects.
 - Partnering very closely with our sales teams to engage with leaders at prospective customers and existing customers to define goals and leverage our products and services to achieve them.
 
-
 ## Requirements
 
 - A true love for customers

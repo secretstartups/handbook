@@ -15,8 +15,8 @@ requirements and responsibilities:
 
 ### Requirements
 
-- Significant [professional experience](#professional-experience) with Ruby on Rails **or** [language](#primary-programming-language) required by the [specialty](#specialties)
-- Professional experience with any other technologies that may be required by the [specialty](#specialties)
+- Significant [professional experience](#professional-experience) with Ruby on Rails **or** [language](#primary-programming-language) required by the specialty
+- Professional experience with any other technologies that may be required by the specialty
 - Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
 - Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
@@ -69,7 +69,7 @@ requirements and responsibilities:
 At GitLab, due to the pace we're moving, people joining our team will
 be expected to have **significant** professional experience in the
 [primary programming language](#primary-programming-language) of the
-[specialty](#specialties) that they'll be joining. Because the majority of our
+specialty that they'll be joining. Because the majority of our
 codebase is written in Ruby, even in specialized roles, a knowledge of Ruby
 and Ruby on Rails or a desire to learn and contribute is necessary.
 
@@ -79,7 +79,7 @@ For context, see this merge request with some [history on this policy](https://g
 
 #### Primary programming language
 
-Some [specialties](#specialties) within GitLab are using primary programming
+Some specialties within GitLab are using primary programming
 languages other than Ruby. These programming languages are defined as being
 primary in terms of an engineer's experience and what they'll be writing day
 to day. The expecation from the specialty is that engineers will have extensive
@@ -204,7 +204,7 @@ The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/han
 - Exquisite brokering skills: regularly achieve consensus amongst departments
 - 5 years or more experience
 - 2 years or more experience in a leadership role with current technical experience
-- In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's [specialty](#specialties)
+- In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's specialty
 - Excellent written and verbal communication skills
 - You share our [values](/handbook/values/), and work in accordance with those values
 - Ability to use GitLab
@@ -539,7 +539,7 @@ Gitaly is a new service in our architecture that handles git and other filesyste
 - Conduct acceptance testing of the features you’ve built.
 - Educate all team members on best practices relating to high availability.
 
-#### Requirements:
+#### Requirements
 
 - Mandatory: production experience building, debugging, optimising software in large-scale, high-volume environments.
 - Mandatory: Solid production Ruby experience.

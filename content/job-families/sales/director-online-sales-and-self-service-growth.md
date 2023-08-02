@@ -49,6 +49,7 @@ The next step for the Director, Online Sales & Self Service Growth Job Family is
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute screening call with our Lead Commercial Recruiter.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule interviews with members of the VP of Commercial Sales

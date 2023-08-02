@@ -14,5 +14,3 @@ Save the following links in your bookmarks for quick access to different places 
 - [GitLab open issues by author search](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s)
 - [GitLab open MRs by author search](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&author_username=%s)
 - [Google Drive search](https://drive.google.com/drive/search?q=%s)
-
-

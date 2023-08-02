@@ -33,7 +33,6 @@ The Associate Legal Counsel is a [Grade 5](https://about.gitlab.com/handbook/tot
 - Previous experience in a remote work environment would be an added advantage
 - Ability to use GitLab
 
-
 ## Legal Counsel
 
 The Legal Counsel reports to the [Director, Legal](/job-families/legal-and-corporate-affairs/director-legal-us/) or [Sr. Director, Legal](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal-us).
@@ -79,7 +78,6 @@ The Senior Legal Counsel is a [Grade 7](https://about.gitlab.com/handbook/total-
 - Review, draft and negotiate agreements
 - Build the necessary processes, systems, and documentation to improve legal department processes and resources
 
-
 ### Senior Legal Counsel Requirements
 
 - 6 - 10 years' legal experience, preferably in a multinational company
@@ -109,7 +107,6 @@ The Lead Legal Counsel is a [Grade 8](https://about.gitlab.com/handbook/total-re
 - Monitor and analyze changes in the law and legal risks; propose creative and effective solutions to address those risks
 - Review, draft and negotiate complex agreements and provide guidance and mentorship to more junior team members
 - Exposure or experience with various business solutions with the skill and desire to build and improve processes, systems, and documentation both within the legal department and coordination with other impacted business units
-
 
 ### Lead Legal Counsel Requirements
 
@@ -162,7 +159,6 @@ The Principal Legal Counsel reports to the [Director, Legal](/job-families/legal
 ### Principal Legal Counsel Job Grade
 
 The Principal Legal Counsel is a [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 
 ### Principal Legal Counsel Responsibilities
 
@@ -233,7 +229,6 @@ The Legal Counsel, Product and Privacy collaborates with clients across GitLab o
 - Basic knowledge of DMCA and Law Enforcement requirements
 - Experience working in a SaaS and self-managed software company
 
-
 ### Employment - EMEA
 
 The Legal Counsel, Employment - EMEA collaborates with clients across GitLab on a broad range of matters across the entire arc of the employment relationship, from recruiting to onboarding, compensation, performance management, leave management, separation, and, where necessary, litigation. In addition to the general Responsibilities and Requirements above, this role specifically requires:
@@ -245,7 +240,6 @@ The Legal Counsel, Employment - EMEA collaborates with clients across GitLab on 
 - A strong mix of legal, technical, and business acumen that will allow you to understand and discuss complex employment issues
 - Experience managing employment litigation, appeals tribunals, agency investigations, and/or negotiating separation agreements
 - Ability to provide support, including issue spotting and managing outside counsel, in regions outside of EMEA, on an as-needed basis
-
 
 ### Commercial
 

@@ -175,7 +175,6 @@ The Senior Director, GTM Planning and Operations is a [grade 11](https://about.g
 - Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally with exceptional intrapersonal skills Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
 
-
 - Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
 
 ## Performance Indicators

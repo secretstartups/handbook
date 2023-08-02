@@ -95,7 +95,7 @@ It's for topics like parenting where people may want to share knowledge, but the
 Link your GitLab email address to an easily recognizable photo of yourself on GitLab, Slack, and [Gravatar](https://en.gravatar.com/).
 It is company policy to use a photo, and not an avatar, a stock photo, or something with sunglasses for any of your GitLab accounts, as we have a lot of GitLab team-members and our brains are comfortable with recognizing people; let's use them.
 
-_**Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default._
+***Note**: If you upload your photo to Gravatar associated with your gitlab.com email, then you can simply not set an image in your GitLab and Slack profiles and they will automatically use your Gravatar photo.  If you already uploaded individual photos to your GitLab and Slack profiles, simply removing them will cause your avatar to use the Gravatar photo by default.*
 
 ### Using Mermaid
 
@@ -108,12 +108,12 @@ A few additional resources that can be helpful when working with Mermaid are:
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
-    - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
-    - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
-    - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
+  - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
+  - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
+  - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
-_Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live._
+*Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live.*
 
 ### Visual help to differentiate between GitLab servers
 
@@ -132,11 +132,11 @@ This can be done by running `find source/handbook -type f | xargs wc -w` from th
 Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
 
-- https://gitlab.com/nolith/review-tanuki
-- https://gitlab.com/splattael/traintainer
-- https://gitlab.com/arturoherrero/trainee
-- https://gitlab.com/alberts-gitlab/review-tanuki
-- https://gitlab.com/gitlab-org/gitlab-dev-cli#maintainer-trainee-helper
+- <https://gitlab.com/nolith/review-tanuki>
+- <https://gitlab.com/splattael/traintainer>
+- <https://gitlab.com/arturoherrero/trainee>
+- <https://gitlab.com/alberts-gitlab/review-tanuki>
+- <https://gitlab.com/gitlab-org/gitlab-dev-cli#maintainer-trainee-helper>
 
 **Note:** When using these tools, avoid adding mentions to maintainers in existing comments. There is a [known issue](https://gitlab.com/gitlab-org/gitlab/-/issues/118779) where users are not notified by email when mentioned in an edited comment. It only generates a TODO which a maintainer may not use.
 
@@ -429,6 +429,7 @@ Most of the attack models that impact the FIDO2/WebAuthn tokens require physical
 ### Recommendations
 
 While there are other hardware tokens that are also decent and will function with GitLab, some have limitations. The recommended solution for team members is Yubico's YubiKeys.
+
 - Please fill out this [form](https://forms.gle/VZ7Q4RWXfmfB58FJ9) before ordering a YubiKey, as we may be able to provide a YubiKey via our group buy subscription.
 - Recommended YubiKey models include the YubiKey 5Ci (for iPhone users) and YubiKey 5 NFC (for Android users).
 
@@ -566,7 +567,7 @@ This will then prompt you to confirm removing the attachment, which you can hit 
 
 ![Unfurl attachment removal](/handbook/tools-and-tips/images/unfurl-remove.png)
 
-In the confirmation prompt you may also see a checkbox to _"Disable future attachments from this website"_.
+In the confirmation prompt you may also see a checkbox to *"Disable future attachments from this website"*.
 As a workspace admin if you select the disable option **this will denylist the link/domain across the workspace and will impact every user**.
 If you do happen to denylist a link or a domain, they can be modified in the Workspace admin portal under [Settings & Permissions](https://gitlab.slack.com/admin/attachments).
 
@@ -610,7 +611,7 @@ The [Google Calendar](/handbook/tools-and-tips/#google-calendar) invite is the s
 
 ## Google
 
-Need a new document or new slide deck quickly? Use shortcuts like http://doc.new or http://slide.new. The full list (not even restricted to Google products) is available at https://whats.new/shortcuts/.
+Need a new document or new slide deck quickly? Use shortcuts like <http://doc.new> or <http://slide.new>. The full list (not even restricted to Google products) is available at <https://whats.new/shortcuts/>.
 
 ### Google Docs
 
@@ -645,9 +646,9 @@ To see the data for a specific page:
 - On the middle of the page, look for a search bar and paste the URL you'd like to analyze (without `https://`) and click on the magnifier button to search:
 ![Google Analytics - find pageviews](/handbook/tools-and-tips/images/google-analytics-find-pageviews.png)
 Note that you can use the search tool with:
-    - A full URL, which will return results for that specific URL
-    - Part of an URL, e.g., `/2017/`, which will return the results for all the blog posts published on 2017
-    - The higher directory on the file tree, which will return the results for a range of URLs in that tree.
+  - A full URL, which will return results for that specific URL
+  - Part of an URL, e.g., `/2017/`, which will return the results for all the blog posts published on 2017
+  - The higher directory on the file tree, which will return the results for a range of URLs in that tree.
     E.g., `docs.gitlab.com/ee/ci/` will return the results for all the range of pages contained in the `/ci/` directory
 - GA will output the data about the page (or range of pages) you searched for, including pageviews, unique pageviews, and other data:
 ![Google Analytics - see pageviews](/handbook/tools-and-tips/images/google-analytics-pageviews.png)
@@ -848,7 +849,7 @@ For starters, when your GitLab Google company account is created you automatical
 You can get to it by:
 
 1. (optional) Login to your GitLab account in your browser (if you are using Chrome)
-1. Open your web browser to https://drive.google.com
+1. Open your web browser to <https://drive.google.com>
 1. If you're not already logged in as your GitLab account (Chrome users should be) then login to Google using your GitLab account
 1. This will take you to your Google Drive (called My Drive) which is like your home directory.
 If you create Google files using Google Apps and don't specify where to store them, they will be put in this home directory.
@@ -879,7 +880,7 @@ To add these links to your Google Drive My Drive directory, do the following:
 1. Find the name of directory in that path that you want to add to your drive (e.g. Sales)
 1. Click on the down arrow next to it
 1. From the resulting pop-up menu, select "Add to My Drive"
-1. From now on you can get to that directory by first going to your drive (https://drive.google.com) and then opening that link
+1. From now on you can get to that directory by first going to your drive (<https://drive.google.com>) and then opening that link
 
 #### Adding Google Drive to your Mac
 
@@ -891,7 +892,7 @@ Here's how to do this:
 ![Download Drive for Desktop](/handbook/tools-and-tips/images/drive-for-desktop.png)
 
 1. Make sure you are logged into your GitLab account in Google Drive in your browser
-1. Go to your Google Drive (https://drive.google.com)
+1. Go to your Google Drive (<https://drive.google.com>)
 1. Click on the "Settings" icon (Gear) to the right of the search field
 1. From the resulting menu, select "Get Drive for desktop"
 1. It might pull up a new page/tab and use your personal login.
@@ -920,7 +921,7 @@ Set up an [email signature](https://support.google.com/mail/answer/8395) which i
 
 ##### Example
 
-_Note: You can copy and paste the template below to use it in your own signature._
+*Note: You can copy and paste the template below to use it in your own signature.*
 
 <span style="font-family: serif;font-size: small;display: block;">John Doe</span>
 <span style="color: #999999;font-family: sans-serif;font-size: small;display: block;">Frontend Engineer | GitLab</span>
@@ -1018,19 +1019,19 @@ Here are a few quick steps for updating your existing slide decks to match the m
 
 ### Google Jamboard
 
-Jamboard is a collaborative whiteboarding platform, accessible at https://jamboard.google.com/. The results are persisted in Drive and are shareable like any other object.
+Jamboard is a collaborative whiteboarding platform, accessible at <https://jamboard.google.com/>. The results are persisted in Drive and are shareable like any other object.
 
 ### Google Chrome
 
 - Search and find things by typing words from document/issue/etc page titles into the urlbar (anything that appears in the page title). The search is "best effort" but surprisingly efficient at finding that doc or issue you've accessed recently.
 - "Search engines" help even more! Typing "drive" and pressing Tab, for example, searches in Google Drive. To discover and customize them, go to `Settings > Search engine`.
 - Practice [Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en). Here are a few common helpful shortcuts:
-    - Jump to the address bar: `cmd l`
-    - Create a new tab `cmd t`, close a tab `cmd w`, undo close tab `cmd shift t`
-    - Open new incognito window: `cmd shift n` (e.g. to reproduce a UI bug, or login problem)
-    - Search all opened tabs: `cmd shift a`
-    - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
-    - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
+  - Jump to the address bar: `cmd l`
+  - Create a new tab `cmd t`, close a tab `cmd w`, undo close tab `cmd shift t`
+  - Open new incognito window: `cmd shift n` (e.g. to reproduce a UI bug, or login problem)
+  - Search all opened tabs: `cmd shift a`
+  - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
+  - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
 - You can [organize tabs into tab groups](https://www.google.com/chrome/tips/#organize), assign names and custom colors, and collapse or reorder them. Moving tabs between groups also works across browser windows.
 - Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
 
@@ -1038,4 +1039,3 @@ Jamboard is a collaborative whiteboarding platform, accessible at https://jamboa
 
 1. Enable the [memory saver](https://support.google.com/chrome/answer/12929150?hl=en). This will pause inactive tabs and reduce memory consumption.
 1. Enable the [energy saver](https://support.google.com/chrome/answer/12929150?hl=en). This can help extend battery life by telling Chrome to reduce background task activities.
-

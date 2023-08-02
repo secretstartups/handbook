@@ -6,7 +6,6 @@ This is a key leadership position on the Chief Revenue Officer’s team. This hi
 
 This role does not overlap with responsibilities [Executive Business Administrators](/job-families/people-group/executive-business-administrator/) already handle. This role could have EBA support, will work closly with the EBA to the CRO, and may directly manage an EBA, although will not have a dedicated EBA themselves.
 
-
 ## Responsibilities
 
 The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team.  This role will help enable communication, collaboration, strategy execution and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.
@@ -43,7 +42,6 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Coordinate and manage CRO speaking engagements
 - Brief CRO visitors on GitLab before meetings
 
-
 ## Requirements
 
 - Ability to use GitLab
@@ -70,33 +68,30 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Operational experience in a previous role
 - Structured about how to prioritize work and time.
 
-
 #### Job Grade
 
 The Chief of Staff to the CRO is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
 
 ## Performance Indicators
 
 - Meetings shifted from CRO - hours spent in meetings decreases over time by Chief of Staff prioritizing and maximizing the CRO’s time allocation
 - LSAT Survey - leadership satisfaction survey
-    - On a semi-annual basis, the CRO and their leadership team (direct reports to the CRO) will receive a survey with a series of questions and a rating scale of 1-5, 5 being excellent to help determine the performance and impact of the Chief of Staff, CRO.
-    - Sample questions:
-        - Tasks and projects assigned to the CoS to the CRO are completed within agreed timeframes, to accurately meet requirements and consistent with GitLab’s values, policies and procedures.
-        - CoS to the CRO  interacts and communicates clearly with key stakeholders both internally and externally through completion of tasks with little direction
-        - CoS to the CRO proactively seeks feedback and demonstrates an approach of continuous improvement
-        - CoS to the CRO knows and keeps the CRO leadership team informed of all pertinent activities and information
+  - On a semi-annual basis, the CRO and their leadership team (direct reports to the CRO) will receive a survey with a series of questions and a rating scale of 1-5, 5 being excellent to help determine the performance and impact of the Chief of Staff, CRO.
+  - Sample questions:
+    - Tasks and projects assigned to the CoS to the CRO are completed within agreed timeframes, to accurately meet requirements and consistent with GitLab’s values, policies and procedures.
+    - CoS to the CRO  interacts and communicates clearly with key stakeholders both internally and externally through completion of tasks with little direction
+    - CoS to the CRO proactively seeks feedback and demonstrates an approach of continuous improvement
+    - CoS to the CRO knows and keeps the CRO leadership team informed of all pertinent activities and information
 - CRO Quarterly OKR process is initiated and delivered on time per the [company process](https://about.gitlab.com/company/okrs/#okr-process-at-gitlab). CoS collaboratively includes all stakeholders and cascades information transparently to ensure alignment across the CRO Org. During the quarter, CoS partners with DRI’s to maintain the status of OKRs in preparation for the monthly key meeting and ensures that all OKRs are scored at the end of the quarter and results are communicated.
-
 
 ## Career Ladder
 
 There is no set career path for a Chief of Staff. As such, the role is often viewed as having a ~2 year rotation — a passthrough program with an eye towards leading a functional area of their business thereafter. Some may step into a senior leadership role in operations or strategy, or some may continue to grow thier career and thrive in the CoS role for a longer time period. It is more common to see a CoS evolve into functional leadership roles — roles that require management experience, strong communication and contextual knowledge of multiple teams working together.
 
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with the CRO
 - Then, candidates will be invited to schedule a 50 minute interview with the VP, Field Operations
@@ -108,5 +103,3 @@ Candidates for this position can expect the hiring process to follow the order b
 Majority of the interviews and screening calls will be conducted via a video call. See more details about our interview process here.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
-
-

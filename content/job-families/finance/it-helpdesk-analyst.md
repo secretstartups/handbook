@@ -36,11 +36,11 @@ title: "IT Helpdesk"
 
 The IT Helpdesk Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### IT Helpdesk Analyst (Intermediate)
+#### IT Helpdesk Analyst (Intermediate) responsibilities
 
 The IT Helpdesk Analyst (Intermediate) share the same responsibilities outlined above.
 
-#### IT Helpdesk Analyst (Intermediate)
+#### IT Helpdesk Analyst (Intermediate) requirements
 
 The IT Helpdesk Analyst (Intermediate) share the same requirements outlined above.
 
@@ -63,7 +63,6 @@ The Senior IT Helpdesk Analyst is a [grade 7](https://about.gitlab.com/handbook/
 - Be an integral team player, stand in when needed and cover any role in times of need.
 - Ability to analyse problems and present solutions to technical support issues.
 
-
 #### Senior IT Helpdesk Analyst Requirements
 
 - Extends that of the IT Helpdesk Analyst (Intermediate) requirements
@@ -84,7 +83,6 @@ The Senior IT Helpdesk Analyst is a [grade 7](https://about.gitlab.com/handbook/
 - [Average Delivery Time of Laptop Machines < 21 days](https://about.gitlab.com/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
 - [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
@@ -96,5 +94,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with our CEO
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-

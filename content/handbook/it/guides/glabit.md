@@ -42,19 +42,19 @@ This is an early incubation project. Contact Jeff Martin for details on getting 
 - [GLabIT CLI Package](https://packagist.org/packages/gitlab-it/glabit-cli)
 - [Slack Channel](https://slack.com/app_redirect?channel=C04RYCM137A)
 - [Issue Tracker](https://gitlab.com/gitlab-com/it/dev/issue-tracker)
-    - [Epics Roadmap](https://gitlab.com/groups/gitlab-com/it/dev/-/roadmap?state=opened&sort=start_date_asc&layout=QUARTERS&timeframe_range_type=THREE_YEARS&progress=WEIGHT&show_progress=true&show_milestones=false&milestones_type=ALL&show_labels=false)
+  - [Epics Roadmap](https://gitlab.com/groups/gitlab-com/it/dev/-/roadmap?state=opened&sort=start_date_asc&layout=QUARTERS&timeframe_range_type=THREE_YEARS&progress=WEIGHT&show_progress=true&show_milestones=false&milestones_type=ALL&show_labels=false)
 - [GLabIT Documentation](https://gitlab-it.gitlab.io/glabit-docs/)
-    - [ARCHIE Documentation](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)
-    - [CLI Documentation](https://gitlab-it.gitlab.io/glabit-docs/cli/overview)
-    - [Reports Documentation](https://gitlab-it.gitlab.io/glabit-docs/reports/overview)
-    - [API Documentation](https://gitlab-it.gitlab.io/glabit-docs/api/overview)
-    - [Architecture Documentation](https://gitlab-it.gitlab.io/glabit-docs/architecture/overview)
-    - [Changelog Documentation](https://gitlab-it.gitlab.io/glabit-docs/changelog/overview)
-    - [Contributor Documentation](https://gitlab-it.gitlab.io/glabit-docs/contributor/overview)
+  - [ARCHIE Documentation](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)
+  - [CLI Documentation](https://gitlab-it.gitlab.io/glabit-docs/cli/overview)
+  - [Reports Documentation](https://gitlab-it.gitlab.io/glabit-docs/reports/overview)
+  - [API Documentation](https://gitlab-it.gitlab.io/glabit-docs/api/overview)
+  - [Architecture Documentation](https://gitlab-it.gitlab.io/glabit-docs/architecture/overview)
+  - [Changelog Documentation](https://gitlab-it.gitlab.io/glabit-docs/changelog/overview)
+  - [Contributor Documentation](https://gitlab-it.gitlab.io/glabit-docs/contributor/overview)
 - Repositories
-    - glabit-docs - [Public Repo](https://gitlab.com/gitlab-it/glabit-docs) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-docs)
-    - glabit-api - [Private Repo](https://gitlab.com/gitlab-it/glabit-api) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-api)
-    - glabit-cli - [Public Repo](https://gitlab.com/gitlab-it/glabit-cli) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-cli)
+  - glabit-docs - [Public Repo](https://gitlab.com/gitlab-it/glabit-docs) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-docs)
+  - glabit-api - [Private Repo](https://gitlab.com/gitlab-it/glabit-api) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-api)
+  - glabit-cli - [Public Repo](https://gitlab.com/gitlab-it/glabit-cli) - [Read Only Mirror](https://gitlab.com/gitlab-com/it/dev/glabit-cli)
 
 ## Roadmap
 
@@ -93,4 +93,3 @@ This is an early incubation project. Contact Jeff Martin for details on getting 
 | TBD           | `migrate` Finish migrating GitLab.com Groups                    |
 | TBD           | `code` v0.x Releases                                            |
 | TBD           | `code` v1.0 Release                                             |
-

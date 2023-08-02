@@ -107,7 +107,6 @@ The Staff People Communications & Engagement Manager is a [grade 8](https://abou
 - Partner with the People Communications & Engagement leader in providing ‘internal PR’ support, including crisis communications
 - Partner with and provide dedicated communications support to certain various cross-functional team and leaders of their functions providing communications expertise to functional teams
 
-
 #### Staff People Communications & Engagement Manager Requirements
 
 - Extends that of the Senior People Communications & Engagement Program Manager requirements

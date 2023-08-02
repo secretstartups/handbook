@@ -200,6 +200,7 @@ The next step in the job family is to move into HRIS Leadership.
 ### People Technology Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with our Director of People Tools & Technology
 - After that, candidates will be invited to schedule a 30 minute interview with members of the People Technology team
@@ -306,6 +307,7 @@ The next step in the job family is People Technology or Operations Leadership.
 ### People Analytics Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager for 50 minutes
 - After that, candidates will be invited to schedule two 30 minute interviews with the Data Analytics Manager and another member of the Data Team

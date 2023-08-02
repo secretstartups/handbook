@@ -298,7 +298,7 @@ This role develops and leads a cross-functional, long-term strategic communicati
 - Experience with evolving a company’s position to a new market category that aligns it with current market and customer priorities.
 - Proven track record in building, getting buy-in, executing plans, and staying focused on “getting it done” in a fast-moving, technical environment.
 - Comfortable with transparency in our communications, internally and externally
-- You share our values (https://about.gitlab.com/handbook/values) and work following those values.
+- You share our values (<https://about.gitlab.com/handbook/values>) and work following those values.
 - Ability to use GitLab
 
 ### VP, Corporate Communications
@@ -338,8 +338,8 @@ The VP, Corporate Communications is a grade 12.
 - Outstanding written and verbal communications skills with the ability to explain and translate complex technology concepts into simple and intuitive communications.
 - Uses data to measure results and inform decision making and strategy development.
 - Comfortable with transparency in our communications, internally and externally
-- You share our values (https://about.gitlab.com/handbook/values/), and work in accordance with those values.
-Leadership (https://about.gitlab.com/company/team/structure/#director-group) at GitLab
+- You share our values (<https://about.gitlab.com/handbook/values/>), and work in accordance with those values.
+Leadership (<https://about.gitlab.com/company/team/structure/#director-group>) at GitLab
 Ability to use GitLab
 
 ## Career Ladder
@@ -349,6 +349,7 @@ The next step in the VP, Corporate Communications job family is not yet defined 
 ## Hiring process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our team page. Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+
 - 45 minute interview with our Chief Marketing Officer
 - 45 minute interview with our People Business Partner
 - 45 minute interview with our VP of Product Marketing
@@ -363,4 +364,3 @@ Additional details about our process can be found on our [hiring page](https://a
 ## Performance Indicators
 
 - Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
-

@@ -38,7 +38,6 @@ The Area Vice President reports into the [VP, Commercial Sales](https://handbook
 
 #### Area Vice President (Commercial Sales) Responsibilities
 
-
 #### Area Vice President (Commercial Sales) Requirements
 
 -

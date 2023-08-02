@@ -208,6 +208,7 @@ The dedicated markets specialty is for compliance professionals highly skilled i
 #### Dedicated Markets Responsibilities
 
 For level: Manager, Security Compliance
+
 - Hire and oversee a world class team of security compliance engineers experienced in regulated markets
 - Hold regular 1:1s with team members
 - Work closely with the Manager, Security Compliance and provide requirements for the common control framework aligned with GitLab's dedicated markets certification roadmap
@@ -224,6 +225,7 @@ For level: Manager, Security Compliance
 #### Dedicated Markets Requirements
 
 For level: Manager, Security Compliance
+
 - At least 3 years prior experience managing security compliance teams supporting regulated markets and FedRAMP ATO
 - Experience leveraging OSCAL for SSP development and OSCAL validation tools for continuous control monitoring
 - Detailed knowledge of regulated information security management frameworks, regulatory requirements and applicable standards such as: NIST 800-53/FedRAMP, NIST 800-171/CMMC, DoD IL, STIGs, FIPS 140-2, HITRUST, GxP, ISO 9001, SOC 1 and SOC 2
@@ -254,6 +256,7 @@ For details on the Security organization leadership roles, to include the Securi
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager,
 - Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,

@@ -11,6 +11,7 @@ images:
 [TeamOps](https://about.gitlab.com/teamops/) is an organizational operating model that helps teams maximize productivity, flexibility, and autonomy by managing decisions, information, and tasks more efficiently. It is how we work at GitLab. Regardless of workplace model, teams can become more information-centric, handbook-first, and virtual-first when they apply TeamOps.
 
 In FY2024, the Workplace department in GitLab is:
+
 - Internally optimizing workforce awareness and universal application of the TeamOps model
 - Externally monetizing and marketing the TeamOps model through corporate training services
 
@@ -27,6 +28,7 @@ The future of TeamOps as an internal operational and as a revenue model is based
 
 **What is Workplace Doing in FY24?**
 The quarterly OKRs of the Workplace team are designed to fulfill the following vision:
+
 - Maintain innovation, optimization, and evangelism of GitLab’s virtual workplace experience strategies
 - Standardize, optimize, evangelize and monetize GitLab’s ways of working (TeamOps) to equalize employee experience
 - Monetize the TeamOps model with the yearly goal of breaking even
@@ -34,6 +36,7 @@ The quarterly OKRs of the Workplace team are designed to fulfill the following v
 
 **Changes from FY23 Roadmap**
 Due to headcount adjustments in the Workplace department at the end of FY2023, some adjustments to the TeamOps FY2024 roadmap were made to optimize efficiency and sustainability.
+
 - Changing the original enrollment goal (100k learners) to a revenue goal (breakeven/$200k)
 - Deprioritizing All-Remote evangelism to boost TeamOps (messaging about how we work instead of where we work)
 - Workshops will be the first revenue stream, instead of the LevelUp course (due to higher per-customer profitability and lower marketing costs)
@@ -43,7 +46,7 @@ Due to headcount adjustments in the Workplace department at the end of FY2023, s
 
 ## Goals, Objectives, & Key Results
 
-**Annual Goal:** _Monetize TeamOps model; generate enough revenue to breakeven on department expenses_
+**Annual Goal:** *Monetize TeamOps model; generate enough revenue to breakeven on department expenses*
 
 - [FY24-Q1](https://gitlab.com/groups/gitlab-com/ceo-chief-of-staff-team/workplace/-/epics/2) = Build Sales Funnel (Content/Services Validation and Pricing)
 - FY24-Q2 = Optimize for Change Management Partnerships

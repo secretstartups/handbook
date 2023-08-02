@@ -96,7 +96,6 @@ The FP&A Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/
 - Mentorship: As a senior individual contributor, you mentor other team members in modeling, analysis and finance.
 - Autonomy: independently delivers and effectively prioritizes projects assigned with clear scope
   
-
 #### FP&A Manager Requirements
 
 - Extends the Senior FP&A Analyst requirements.
@@ -140,7 +139,6 @@ The Senior Manager, FP&A is a [grade 9](https://about.gitlab.com/handbook/total-
 - Project Management: Run large cross-functional projects / working groups that improve our ability to make better data driven insights or makes the company more efficient.
 - Management: Have a solid management skills and techniques especially around prioritization.
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
-
 
 #### Senior Manager, FP&A Requirements
 

@@ -5,18 +5,20 @@ title: Data Science
 The [Data Science program](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/) at GitLab focuses on supporting internal teams and developing model-based insights to help us understand our business, customers, and product better. Data Scientists work across the entire development lifecycle, from inception to final delivery. As a result of helping GitLab understand major trends across our business, Data Scientists make significant strategic contributions to new and existing business initiatives.
 
 Data Scientists work with peers on the Data Team and functional teams to:
-  - perform ad-hoc exploratory analysis
-  - solve well-defined business problems
-  - regularly measure and improve analytics initiatives
-  - create and maintain production models and related applications
+
+- perform ad-hoc exploratory analysis
+- solve well-defined business problems
+- regularly measure and improve analytics initiatives
+- create and maintain production models and related applications
 
 Example Data Science projects include:
-  - account scoring
-  - propensity to buy
-  - customer segmentation
-  - sentiment analysis
-  - customer churn and uplift prediction
-  - hypothesis testing and forecasting
+
+- account scoring
+- propensity to buy
+- customer segmentation
+- sentiment analysis
+- customer churn and uplift prediction
+- hypothesis testing and forecasting
 
 Data Scientists are a part of the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/dir-data-and-analytics/).
 
@@ -198,7 +200,6 @@ The job description of this specialization include all of the resposibilities fo
 - Build trust in all interactions and with Trusted Data Development to expand data science capabilities
 - Serve as the Directly Responsible Individual for major sections of the Enterprise Dimensional Model and data science models
 - Design, develop, and extend dbt code to feed and automate predictive models
-
 
 #### Full Stack Data Scientist Requirements
 

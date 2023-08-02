@@ -35,8 +35,6 @@ The Absence Management Specialist is a [grade 5](https://about.gitlab.com/handbo
 - Aligns with GitLabs values.
 - Experience using Google Sheets.
 
-
-
 ## Role
 
 Senior Absence Management Specialist
@@ -74,6 +72,7 @@ The Senior Absence Management Specialist is a [grade 6](/handbook/total-rewards/
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
@@ -113,14 +112,14 @@ Excellent written and verbal communication and interpersonal skills.
 ## Performance Indicators
 
 - Team Member Absence Management Case Management
-   - Senior Absence Management Partner will respond to all requests for assistance from team members within 24 hours.
-   - All cases are resolved in a consistent, fair, and unbiased process.  
-   - Identify and resolve potential risks to GitLab.  
-   - When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive experiences while taking time off.
-   - Overall employee sentiment is positive (>80%) on the Engagement Survey.
+  - Senior Absence Management Partner will respond to all requests for assistance from team members within 24 hours.
+  - All cases are resolved in a consistent, fair, and unbiased process.  
+  - Identify and resolve potential risks to GitLab.  
+  - When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive experiences while taking time off.
+  - Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 - Collaboration
-   - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal, and People Success.  
+  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal, and People Success.  
 
 ## Career Ladder
 
@@ -161,14 +160,14 @@ The Absence Management Manager is a [grade 8](https://about.gitlab.com/handbook/
 ### Absence Management Manager Performance Indicators
 
 - Team Member Absence Management Case Management
-   - Absence Management Manager will ensure the team responds to all requests for assistance from team members within 24 hours.
-   - All cases are resolved in a consistent, fair and unbiased process.  
-   - Identify and resolve potential risks to GitLab.  
-   - When surveyed, >90% utilizing the Team Member Absence Management Team report effective interactions and outcomes, and positive experiences while taking time off.
-   - Overall employee sentiment is positive (>80%) on the Engagement Survey.
+  - Absence Management Manager will ensure the team responds to all requests for assistance from team members within 24 hours.
+  - All cases are resolved in a consistent, fair and unbiased process.  
+  - Identify and resolve potential risks to GitLab.  
+  - When surveyed, >90% utilizing the Team Member Absence Management Team report effective interactions and outcomes, and positive experiences while taking time off.
+  - Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 - Collaboration
-   - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
+  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
 
 ### Absence Management Manager Career Ladder
 

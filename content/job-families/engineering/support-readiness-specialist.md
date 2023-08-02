@@ -12,13 +12,12 @@ high quality support.
 Depending on your [specialization](#specializations), you will be contributing towards
 a variety of tasks towards that end.
 
-
 ### Job Grade
 
 The Support Readiness Specialist is a
 [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### What you can expect in a Support Readiness Specialist role at GitLab:
+### What you can expect in a Support Readiness Specialist role at GitLab
 
 As a Support Readiness Specialist you will:
 
@@ -67,7 +66,7 @@ backbone and the foundation to our success!
 - Understanding of business processes and ability to translate business
   requirements into application functionality
 
-#### Projects you might work on:
+#### Projects you might work on
 
 When you are not tackling your normal day to day challenges, you’ll have a lot
 of freedom to work on things that will make your life, and the lives of your
@@ -111,6 +110,7 @@ As a Support Readiness Specialist - Training, you will be responsible for creati
 an environment of continuous improvement that ensures the people who support
 GitLab every day have relevant expertise to resolve customer issues quickly.
 To do this you'll:
+
 - develop relevant and engaging learning content based on expressed and discovered needs.
 - work with [Support Management](https://about.gitlab.com/job-families/engineering/support-management/) to help [Support Engineers](https://about.gitlab.com/job-families/engineering/support-engineer/) prioritize
 progress through [training modules](https://gitlab.com/gitlab-com/support/support-training) or other professional development content.
@@ -128,10 +128,9 @@ ticket quality and customer satisfaction with Support (SSAT).
 - facilitate the self-organization and activities of [Support Pods](https://about.gitlab.com/handbook/support/workflows/working-with-pods.html)
 - keep your eye on the horizon for product and offering changes to keep support prepared for the future.
 
-
 ### Requirements
 
-#### Requires Skills/Experience:
+#### Requires Skills/Experience
 
 - 1-3 years experience in SaaS support, with proven ability to support diverse
   customers needs.
@@ -168,7 +167,7 @@ every member's ability to contribute.
 The Senior Support Engineer is a
 [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### What you can expect in a Senior Support Readiness Specialist role at GitLab:
+#### What you can expect in a Senior Support Readiness Specialist role at GitLab
 
 Generally they meet the following criteria. They:
 
@@ -239,7 +238,6 @@ Additional details about our process can be found on our
 To find out more about the compensation for this role, please apply to a open role on our [careers page](/jobs/) first. Once you've applied and are selected for a screening call, you'll be able to sign up here to view our
 [compensation calculator](https://comp-calculator.gitlab.net/?role=Support%20Engineer).
 Be sure to use the same email address for both.
-
 
 ### About GitLab
 

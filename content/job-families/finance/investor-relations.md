@@ -23,7 +23,6 @@ The Investor Relations Analyst is a [grade 6](https://about.gitlab.com/handbook/
 - Develop strategies and implement programs to keep the financial community current on company performance and industry trends.
 - Manage sell-side analyst models and monitor consensus vs. our forecast.* Track investor base and aid in targeting efforts to appropriate investors, to expand and maintain key ownership positions.
 
-
 #### Requirements
 
 - Bachelor’s degree in business or related field; advanced degree is preferred.
@@ -33,8 +32,6 @@ The Investor Relations Analyst is a [grade 6](https://about.gitlab.com/handbook/
 - Proficient in presentation and spreadsheet tools.
 - Ability to source databases and the public internet for competitive intelligence.
 - Communication skills to interact with cross-functional partners
-
-
 
 ## Vice President, Investor Relations
 
@@ -76,6 +73,3 @@ The Vice President, Investor Relations is a [grade 12](https://about.gitlab.com/
 1. Percent of unanticipated questions during earning calls; Target > 80% of questions are anticipated
 1. Investor satisfaction
 1. Volitality benchmark
-
-
-

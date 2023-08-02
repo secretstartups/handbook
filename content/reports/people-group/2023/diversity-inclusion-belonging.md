@@ -5,7 +5,7 @@ hide_readingtime: false
 pdf: 12170_GitLab_DIB_Presentation_07.25.23.pdf
 ---
 
-## Everyone means _everyone_
+## Everyone means *everyone*
 
 **Inclusion has always been at the heart of
 GitLab. In fact, we founded the company
@@ -194,7 +194,7 @@ perspective.
 
 As an organization that values transparency, we publish all of our
 engagement survey results in our public handbook. This allows both team
-members and prospective candidates to get a view into our culture: https://about.gitlab.com/handbook/people-group/engagement/
+members and prospective candidates to get a view into our culture: <https://about.gitlab.com/handbook/people-group/engagement/>
 
 ### Our culture of action
 
@@ -254,10 +254,10 @@ A few of our sponsorships include:
 - [Girl Develop It Career Fair 2022](https://girldevelopit.com/events/details/girl-develop-it-career-conversations-presents-virtual-career-fair/)
 - [Rails Girls Warsaw 2022](https://railsgirls.com/warsaw.html), Poland
 - Speaker Engagements at:
-   - [VentureFizz Career Progression Panel 2022](https://venturefizz.com/videos/venturefizz-event-video-which-stage-company-fit-your-career-public-company-edition)
-   - Women in Sales Everywhere (WISE) - Making the Most of Mentorship
-   - WISE - Burnout: What is it and how do we manage it?
-   - WISE - EOY Reflections: Preparing for 2023
+  - [VentureFizz Career Progression Panel 2022](https://venturefizz.com/videos/venturefizz-event-video-which-stage-company-fit-your-career-public-company-edition)
+  - Women in Sales Everywhere (WISE) - Making the Most of Mentorship
+  - WISE - Burnout: What is it and how do we manage it?
+  - WISE - EOY Reflections: Preparing for 2023
 
 #### Leadership Council
 

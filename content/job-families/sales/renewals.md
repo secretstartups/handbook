@@ -4,7 +4,6 @@ description: The Renewals job family delivers to an essential moment in the cust
 ---
 The Renewals job family delivers to an essential moment in the customer journey, ensuring we can continue to deliver value and business outcomes through customer retention. In collaboration with sales, channel partners, customer success, and sales operations, this team will focus on successfully renewing customer contracts while providing a seamless customer experience.
 
-
 ## Levels
 
 ### Senior Director, Renewals
@@ -55,6 +54,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, qualified candidates will be invited to interview with 2 - 4 team members.
 - Next, qualified candidates will have a final interview with an executive.
-
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

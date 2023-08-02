@@ -77,6 +77,7 @@ Extends the Finance Systems Administrators responsibilities:
 #### Senior Finance Systems Administrator Requirements
 
 Extends the Finance Systems Administrators requirements.
+
 - Business Acumen: Be able to understand the business at a level to understand VP priorities.
 - Experience owning processes and delivering for one or multiple business partners.
 - 3-5 years of experience in a system administration role ideally with enterprise SaaS software model.

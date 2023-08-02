@@ -75,5 +75,3 @@ Candidates for this position can expect the hiring process to follow the order b
 - Final top qualified candidate will be invited to schedule a 30 minute conversational interview with a direct report
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
-
-
