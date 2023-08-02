@@ -317,11 +317,22 @@ tasks you may have to do.
 
 The recommended commands to use are:
 
+For Bash:
+
 ```bash
 mkdir -p ~/bin
 git clone git@gitlab.com:gitlab-com/support/support-ops/support-ops-tools/toolbox.git ~/bin/support-ops-toolbox
 echo 'export PATH="$PATH:$HOME/bin/support-ops-toolbox"' >> ~/.bashrc
 source ~/.bashrc
+```
+
+For Zsh:
+
+```bash
+mkdir -p ~/bin
+git clone git@gitlab.com:gitlab-com/support/support-ops/support-ops-tools/toolbox.git ~/bin/support-ops-toolbox
+echo "path+=('$HOME/bin/support-ops-toolbox')" >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ## Slack
