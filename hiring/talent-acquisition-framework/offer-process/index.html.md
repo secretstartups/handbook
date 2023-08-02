@@ -173,7 +173,7 @@ A description on what to input into each Offer field in Greenhouse can be found 
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. Remember that the Reference Check Form does not automatically update a candidates' legal name, so that will need to be updated manually in the Details tab. The Recruiter will ensure the offer is routed for approval.
 
-If the candidate for the position is internal, you should wait until after you've presented an offer, but before the candidate is marked as hired, to merge the applicants' profiles. All other candidates should have profiles merged as early as possible. Please visit the [People Technology and Operations page](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights/#system-processes) for instructions. 
+If the candidate for the position is internal, you should wait until after you've presented an offer, but before the candidate is marked as hired, to merge the applicants' profiles. All other candidates should have profiles merged as early as possible. Please visit the [Enablement handbook page](https://internal.gitlab.com/handbook/people-group/talent-acquisition/enablement-team/#greenhouse-admin-instructions) for instructions. 
 
 
 **Compensation Considerations:** 
