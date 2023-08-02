@@ -156,11 +156,17 @@ When the execution could not continue due to the need of external intervention, 
 
 ## Red Data
 
-Red data is not allowed to be stored in our Data Platform (Snowflake). 
+Red data is not allowed to be stored in our Data Platform (Snowflake). Therefore we will not bring in/connect new data sources that are listed in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) with `data_classification: Red` unless there is a mission critical business reason. There is an exception process available which will enable us to evaluate the needs on a case-by-case basis and this process will require approval from BT/Data VP-level, Security and Privacy. Evaluating the business reason and obtaining approvals are part of the triage process and are governed via the new data source [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/New%20Data%20Source.md). 
 
-When extracting new data towards Snowflake;
-- The Data Team will perform an analysis of data that is sent to Snowflake to validate whether or not there is a business justification per column/attribute.
-- For instances where Red or Customer personal data must be ingested into Snowflake, [masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking) will be applied. For instances where it is not required, it will be deleted from the platform.
+**Note:** The exception process must be fulfilled to either **connect** a system with Red data and/or to **extract** Red data (fields) from that system.  However, the business case to extract Red data (fields) under the exception process will necessitate a higher standard of review than a business case that only requires connecting a Red data system without extraction of Red data (fields).  Where extraction of Red data (fields) is approved under the exception process, masking will be applied in the Data Platform (Snowflake) as described in the proceeding section.   
+
+### Exception process - connecting a not listed source or a Red data source
+
+When extracting new data towards Snowflake and the data source is not listed or listed `data_classification: Red`;
+- The team member must state a business case to connect the system to the Data Platform.
+- The team member that requests the connection will perform an analysis of the data and confirm the data that is extracted is not Red data. 
+   - For instances where Red data (fields) must be ingested into Snowflake, [masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking) will be applied upon extraction.
+- BT/Data VP-level, Legal and Security must sign off to start the implementation.
 
 ## Monte Carlo observability
  
