@@ -68,7 +68,7 @@ Rules define actions to take, based on the project categories. These actions are
 | `website`+`external` + `yellow/orange/red_data` | [DAST] must be enabled. Overall SSL grade must be 'A' or 'A+' |
 | `product` + `container` | [Container Scanning] must be enabled |
 | `keep_private` | Project `visibility` must be `private` |
-| `library`, `use_pat`, `website`, `api/service`, `green/yellow/red-data`, `3rdparty`, `fork` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `Maintainers`) |
+| `library`, `use_pat`, `website`, `api/service`, `green/yellow/red-data`, `3rdparty`, `fork` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `No One`) |
 | `docs` | [Secret Detection] must be enabled |
 | all | Projects can't have [`internal`](https://docs.gitlab.com/ee/public_access/public_access.html#internal-projects-and-groups) visibility |
 | all | [`SECRET_DETECTION_HISTORIC_SCAN`](https://docs.gitlab.com/ee/user/application_security/secret_detection/#full-history-secret-detection) must not be set in the CI/CD configuration |
@@ -84,6 +84,8 @@ Rules define actions to take, based on the project categories. These actions are
 [Container Scanning]: https://docs.gitlab.com/ee/user/application_security/container_scanning/
 [Vulnerability Reports]: https://docs.gitlab.com/ee/api/project_vulnerabilities.html
 [Protected branches]: https://docs.gitlab.com/ce/api/protected_branches.html
+
+These policies are aligned with our [GitLab Projects Baseline Requirements](/handbook/security/gitlab_projects_baseline_requirements.html).
 
 ### How to categorize projects
 
