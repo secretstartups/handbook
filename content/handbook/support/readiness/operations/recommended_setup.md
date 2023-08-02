@@ -265,7 +265,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ 
 sudo apt-get update
 ```
 
-## .bashrc/.bash_profile setup
+## .bashrc/.bash_profile/.zshrc setup
 
 What exactly you put in this file it really up to you, but to help ensure all
 the scripts and the like we use work properly, we would at least recommend doing
