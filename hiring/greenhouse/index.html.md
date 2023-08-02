@@ -366,19 +366,18 @@ This can be done by Enablement only. For instructions, see the [internal handboo
 
 For **requisition "Job" Approvals**, the approval chain is as follows:
 
-- Step 1: Total Rewards (1 of 3 required)
-- Step 2: Finance Business Partner of the Division/Department (1 of 2-4 required)
-- Step 3: Executive of Division/Department (1 required if multiple people are listed)
+- Total Rewards (1 of 3 required)
 
-For the **Official Job Approval** (a.k.a. *2-Stage Job Approvals*), please list the Finance Business Partners again (1 of 2 required).
+For the **Official Job Approval** (a.k.a. *2-Stage Job Approvals*), please list the
+
+- Step 1: Finance Business Partner of the Division/Department (1 of 2-4 required)
+- Step 1=2: Executive or VP of Division/Department (1 required if multiple people are listed)
 
 For **Offer Approvals**, the approval chain is as follows:
 
 - Step 1: Total Rewards (1 of 3 required)
 - Step 2: Finance Business Partner of the Division/Department (1 of 2-4 required)
 - Step 3: Executive of Division/Department (1 required if multiple people are listed)
-
-For **Director-level roles and above**, please add a **fourth step** and list the CEO and CPO (1 of 2 required).
 
 It is recommended that no stage has only 1 possible approver to eliminate bottlenecks.
 
