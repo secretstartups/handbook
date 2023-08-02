@@ -41,7 +41,7 @@ The Data Team Handbook contains a large amount of information! To help you navig
 
 ## How Data Works at GitLab
 
-The collective set of people, projects, and initiatives focused on advancing the state of data at GitLab is called the **GitLab Data Program**. GitLab has two primary distinct groups within the Data Program who use data to drive insights and business decisions. These groups are complementary to one another and are focused on specific areas to drive a deeper understanding of trends in the business. The two teams are the (central) Data Team and, separately, Function Analytics Teams located in Sales, Marketing, Product, Engineering or Finance. Watch the [Data Recruiting Video](https://youtu.be/4DlwsBIPxUw) to hear from some of the teams involved and what they are working on.
+The collective set of people, projects, and initiatives focused on advancing the state of data at GitLab is called the **GitLab Data Program**. GitLab has two primary distinct groups within the Data Program who use data to drive insights and business decisions. These groups are complementary to one another and are focused on specific areas to drive a deeper understanding of trends in the business. The two teams are the (central) Enterprise Data Team and, separately, Function Analytics Teams located in Sales, Marketing, Product, Engineering or Finance. Watch the [Data Recruiting Video](https://youtu.be/4DlwsBIPxUw) to hear from some of the teams involved and what they are working on.
 
 - The **Data Team** reports into Business Technology and is the Center of Excellence for enterprise insights & analytics (not operational), data science, data platform & infrastructure, BI technologies, master data, data governance and data quality. The Data Team is also responsible for the enterprise data strategy, building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), providing [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities, maintaining the [data platform](/handbook/business-technology/data-team/platform/#our-data-stack), developing [Data Pumps](/handbook/business-technology/data-team/platform/#data-pump), and monitoring and measuring [Data Quality](/handbook/business-technology/data-team/data-quality/). The Data Team is responsible for data that is defined and accessed on a regular basis by GitLab team members from the [Snowflake Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/#data-warehouse). The Data Team builds data infrastructure to power approximately 80% of the data that is accessed on a regular basis. The Data Team also provides a Data Science center of excellence to launch new advanced analytics initiatives and provide guidance to other GitLab team members. 
 
@@ -96,15 +96,7 @@ The **[Data Platform Team & Architecture Team](/handbook/business-technology/dat
 
 ### Analytics Engineering Team
 
-The [Analytics Engineering Team] transforms raw data into clean, structure and usable formats for data decision-making.  To support stable business workflows and longer-term initiatives, the Analytics Engineering Team has deployed three sub-teams, or **Data Fusion Teams**. A single Data Fusion Team includes members from Division leadership, Function Analysts, and the Data Team. Data Fusion Teams collaborate towards development of data solutions, including Dashboards, Data Models and ad-hoc analysis. Data Fusion Teams are staffed with the appropriate set of team members required to develop a full data solution. The Data Fusion Teams meet on a weekly basis, define, review, and align on priorities, define quarterly objectives, and collaboratively develop successful data solutions. Data Team staff allocation into Fusion Teams is defined in [Fusion Team Assignments](/handbook/business-technology/data-team/organization/#fusion-team-assignments).
-
-- The **Go-To-Market** Data Fusion Team focuses on the activities required to bring GitLab's products and services to the marketplace and measuring the business performance of these activities. The team meets on a weekly basis and covers topics defined in the [GTM Data Weekly Agenda](https://docs.google.com/document/d/1m-SygSyUqEcfd276_Jb1ZARMXIb4Z8clDF0eoxmudyw/edit#), while the team's priorities are defined in the [GTM Data Priorities](https://docs.google.com/spreadsheets/d/1EyjWw3-0iFt0oil95U15X8rFGj1aKrSYVYV1GMzWfq4/edit#gid=1029287785) sheet.
-
-- The **Research & Development** Data Fusion Team focuses on understanding how GitLab's products are used by customers, towards the goal of developing complete customer intelligence and product intelligence capabilities to make better decisions. The team meets on a weekly basis and covers topics defined in the [R&D Data Weekly Agenda](https://docs.google.com/document/d/1CRIGdNATvRAuBsYnhpEfOJ6C64B7j8hPAI0g5C8EdlU/edit#), while the team's priorities are defined in the [R&D Data Priorities](https://docs.google.com/spreadsheets/d/1hCAY4tW0vbsYadHQzoGQ59aZmcMz2daumvuH3JwgarA/edit#gid=2036283287) sheet.
-
-- The **General & Administrative** Data Fusion Team focuses on organization performance of GitLab teams, including People metrics. The team currently meets with Engineering Analytics on a bi-weekly basis as part of the [Engineering & Data Team Weekly Sync](https://docs.google.com/document/d/1ekImsdsldcYNnNhWkI0pTZldjgRoJDaq6odo2BgKhQM/edit?usp=sharing) and with the People Analytics Team in the [People Analytics <> Data Team Sync.](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTc4aG9qdTZ0ZjN2ZWxrbWI0Z2hvbW4wNWxfMjAyMTA5MTNUMTYzMDAwWiBycGFya2VyQGdpdGxhYi5jb20&tmsrc=rparker%40gitlab.com&scp=ALL)
-
-The Analytics Engineering team also drives [Enterprise Data Program](/handbook/business-technology/data-team/organization/enterprise-data/) and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
+The [Analytics Engineering Team](/handbook/business-technology/data-team/organization/)** transforms raw data into clean, structure and usable formats for data decision-making.  The Analytics Engineering team also drives [Enterprise Data Program](/handbook/business-technology/data-team/organization/enterprise-data/) and supports the wider data community. The team focuses on inventorying, integrating, maintaining, and governing the data at an Enterprise level. This includes collaborating with the business units and data teams in establishing and facilitating commonly accepted guidelines around Enterprise data along with building [enterprise-wide data models](/handbook/business-technology/data-team/platform/edw/), supporting [Self-Service BI](/handbook/business-technology/data-team/direction/self-service/) and Analytical capabilities by providing Data Enablement and required training to the Users on Enterprise Data Models.
 
 
 ### The Enterprise Insights & Data Science Team
@@ -124,88 +116,41 @@ The job families are designed to support all of the routine activities expected 
 
 ### How We Measure Impact
 
-We measure the impact of Data in the following ways:
+Our impact will be measured against 4 dimensions (these metrics will adjust as our data maturity increases and our focus areas change):
 
-#### Data Monthly Active Users (DMAU) 
+#### Data Platform Stability
 
-DMAU Measures the direct usage of the Data Platform by GitLab Team Members based on usage of the primary analysis tools we provide: Snowflake, Tableau, and Sisense. Over time we will include additional tools such as Jupyter and Data Studio, as well as usage of data pumped into EApps such as Marketo (PQLs), Gainsight (Usage Data), and Salesforce (Propensity Scores). The [DMAU worksheet](https://docs.google.com/spreadsheets/d/1IOzHbIZmUSw3tK8Xj5-zOYzUvj70MNXfo09XCOeOE2g/edit#gid=0) stores the code and historical stats and a visualization of these numbers can be found in the [Data Monthly Active Users](https://10az.online.tableau.com/#/site/gitlab/workbooks/2049753/views) report.
+- Infrastructure Cost vs Plan: This performance indicator tracks the financial position of the actual cost vs the planned costs for the data infrastructure (warehouse, ETL pipelines, etc.).
+- Mean Time between Failures (MTBF): This performance indicator tracks the mean time since last system failure based on set cadence.
+- Mean Time to Repair (MTTR): This performance indicator tracks the mean time to get the system back up and running based on set cadence.
+
+### Data Quality & Governance
+- % completion of the data validation and data cleansing roadmap
+- Governance & Quality data assessment scores
+
+### Data Adoption
+- Data Monthly Active Users (DMAU): DMAU Measures the direct usage of the Data Platform by GitLab Team Members based on usage of the primary analysis tools we provide: Snowflake, Tableau, and Sisense. Over time we will include additional tools such as Jupyter and Data Studio, as well as usage of data pumped into EApps such as Marketo (PQLs), Gainsight (Usage Data), and Salesforce (Propensity Scores). The [DMAU worksheet](https://docs.google.com/spreadsheets/d/1IOzHbIZmUSw3tK8Xj5-zOYzUvj70MNXfo09XCOeOE2g/edit#gid=0) stores the code and historical stats and a visualization of these numbers can be found in the [Data Monthly Active Users](https://10az.online.tableau.com/#/site/gitlab/workbooks/2049753/views) report.
 
      - Data Monthly Active Users (DMAU) = Unique Sisense Users + Unique Snowflake Users + Unique Tableau Users in a given month
      - Quarterly Data Monthly Active Users (Q-DMAU) = Unique Sisense Users + Unique Snowflake Users + Unique Tableau Users across all months in a quarter OR sum(months in quarter)/
      - Note: Users of Sisense, Tableau and Snowflake might be double counted if they access multiple systems. We do not count distinct users across the tools.
+- % data staff trained in Tableau
+- Data Maturity Score: measured annually, evaluates our current data maturity against 8 data capabilities:
+        1. Strategy & Approach
+        1. Culture & leadership
+        1. Metrics & KPIs
+        1. Organization & Skills
+        1. Architecture & Integration
+        1. Governance & Quality
+        1. Deployment & Usage
+        1. Technology & Operations
+        
+- Number of certified Tableau dashboards
+- % DMAU of certified dashboards
 
-#### Revenue/Efficiency gains from Data Products 
-
+### Revenue/Efficiency Impact
 First we have the evaluation criteria known as Dollar Value of our Results as calculated by the Data Value Calculator. We can use the [Data Team Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) to calculate the dollar value of the initiatives we contribute to and the issues we complete.
 Additionally we want to shift to a more aspirational measurement which is to measure the ARR impact or efficiency gain from each of our data products.
-
-#### % of Top cross functional & LRO Projects with Measurement plans 
-In order to measure this we need to have 
-1. all product features logged for analysis in a centrally governed way
-1. Iteration and experimentation to drive business value
-1. Strong visibility into key business results, business processes, product behavior and programs
-1. Data Governance across business systems, product, and warehouse so we all speak the same language
-
-#### % Analytics Time on Level 1 / 2 work
-
-We measure this based on time of team members spent on [Level 1 and Level 2 work](https://about.gitlab.com/handbook/finance/#types-of-work-that-the-team-does)
-
-#### Customer Satisfaction Scores (CSAT)
-
-We periodically generate [Data Team CSAT](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#customer-satisfaction-survey-csat) to seek feedback from internal customers.
-
-#### Other PIs
-
-##### Infrastructure Cost vs Plan
-
-This performance indicator tracks the financial position of the actual cost vs the planned costs for the data infrastructure (warehouse, ETL pipelines, etc.).
-
-**Aligns with the following core business objectives**:
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Tracks the financial cost of the data infrastructure set up.
-
-##### Mean Time between Failures (MTBF)
-
-This performance indicator tracks the mean time since last system failure based on set cadence.
-
-**Aligns with the following core business objectives**:
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Ensure goal to keep systems up and running while giving insights into partnership with Infrastructure team.
-- Ensure data availability for data analytics and reporting for business units to make data-driven decisions.
-
-##### Mean Time to Repair (MTTR)
-
-This performance indicator tracks the mean time to get the system back up and running based on set cadence.
-
-**Aligns with the following core business objectives**:
-
-**Data Team**
-
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Ensure goal to keep systems up and running while giving insights into partnership with Infrastructure team.
-- Ensure data availability for data analytics and reporting for business units to make data-driven decisions.
-
-##### Percent (%) of company data in data warehouse
-
-Percentage of all company data in data warehouse
-
-**Aligns with the following core business objectives**:
-
-- Build rapport with internal stakeholders to encourage data-driven decision-making.
-- Helps to identify if there are data sources not within the current data warehouse.
-- Helps to identify if there may be data quality discrepancies across different business units.
-- Helps to achieve an unified data warehouse that allows for the mapping of user journeys.
-
-##### SLO achievement per data source
-
-This performance indicator tracks all metrics related to achieve the service-level objective (SLO) per data source.
-
-- Ensure data availability for data analytics and reporting for business units to make data-driven decisions.
-- Follow and improve our processes for maintaining high quality data and reporting.
-- Build rapport with internal stakeholders to encourage data-driven decision-making.
-- Encourage DataOps across the company.
 
 ## How To Connect With Us
 
