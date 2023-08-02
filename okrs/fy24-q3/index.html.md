@@ -34,27 +34,24 @@ The source of truth for FY24-Q3 OKRs will be in GitLab.
 
 The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=key_result&label_name%5B%5D=CEO%20OKR&first_page_size=20). CEO objectives and KRs are captured on this page. 
 
-### 1. CEO: 
-1. **CEO KR**: 
-1. **CEO KR**: 
-1. **CEO KR**:
+### 1. CEO: [Continue to win against GitHub with AI](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3724)
+1. **CEO KR**: [Drive AI usage with X daily unique code suggestion users and a y% acceptance rate](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3728)
+1. **CEO KR**: [Launch project Hamilton](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3729)
+1. **CEO KR**: [X% of R&D, Y% of GTM, and Z% of G&A team members complete a Dev Tool (GH) versus AI-powered DevSecOps Platform (GL) messaging certification](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3730)
 
-### 2. CEO: 
-1. **CEO KR**: 
-1. **CEO KR**: 
-1. **CEO KR**:
+### 2. CEO: [Reduce churn and contraction by delivering predictable high value to customers](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3725)
+1. **CEO KR**: [Reduce churn and contraction to 70% of the ATR as compared to FY23-Q4](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3731)
+1. **CEO KR**: [Improve CI adoption by increasing green ARR by X percentage points resulting in a Y% green outcome](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3732)
+1. **CEO KR**: [Reduce ARR exceptions for cloud licensing to a maximum of 10% of ARR being exempted from sharing data](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3733)
 
-### 3. CEO: 
-1. **CEO KR**: 
-1. **CEO KR**: 
-1. **CEO KR**:
+### 3. CEO: [Make GitLab easier to do business with](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3726)
+1. **CEO KR**: [Launch enhanced supporting offerings, including PubSec 24/7 and assigned engineers, and onboard X new customers to Dedicated](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3734)
+1. **CEO KR**: [Ship temporary licenses capability](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3735)
+1. **CEO KR**: [Partner with hyper clouds to achieve two partnership goals](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3736)
 
-### 4. CEO: 
-1. **CEO KR**: 
-1. **CEO KR**: 
-1. **CEO KR**:
+### 4. CEO: [Continue to build a diverse team of top talent that we retain and grow](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3727)
+1. **CEO KR**: [Decrease time to open net new roles by 50% and fill 95% of Q3 roles within 75 days from requisition opening date](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3737)
+1. **CEO KR**: [Complete three agreed upon initiatives that result from employee engagement survey feedback](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3738)
+1. **CEO KR**: [Graduate 50% of GitLab people managers from the Elevate program. Enhance program to ensure that GitLab values/unique way of working are referenced throughout the training modules or have a separate course](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3739)
 
-### 5. CEO: 
-1. **CEO KR**: 
-1. **CEO KR**: 
-1. **CEO KR**:
+
