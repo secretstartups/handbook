@@ -71,6 +71,32 @@ The GitLab Security Compliance team is responsible for ensuring the consistency 
 
 ITGCs are a subset of the GCF controls. Please refer to [GitLab SOX ITGC Compliance](https://internal.gitlab.com/handbook/finance/sox-internal-controls/) (internal only) for details. 
 
+## Security System Intake
+To assess newly acquired/developed systems that enable security controls OR are/may be in scope for compliance programs for potential inclusion into our [GitLab Control Framework (GCF)](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html#gitlab-control-framework-gcf) and compliance programs  (e.g., [Security Compliance Program](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/#-core-competencies) and [SOX Program](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)).
+
+
+### 1. System identification
+Our goal is to identify systems that enable security controls (e.g., access management system) OR systems that are (or may be) subject to regulatory (e.g., SOX) or compliance requirements (SOC2) as early as possible via our [Third Party Risk Management (TPRM) Program](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html). As we engage with third parties for new systems, we assess the use of the system and whether or not it meets the criteria described above. Existing systems can also be ingested into the Security Compliance Intake process. Examples of these could include systems whose functionality has expanded to support security controls or instances where our understanding of a security control has improved resulting in the identification of a previously uncredited supporting system.
+
+If the system meets the criteria, we open up a new [Security Compliance Intake Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/security-compliance-intake/-/issues/new?issue[title]=System%20Intake:%20%5BSystem%20Name%20FY2%23%20Q%23%5D&issuable_template=intakeform).
+
+### 2. Creating Security Compliance Intake Issue
+[Security Compliance Intake Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/security-compliance-intake/-/issues/new?issue[title]=System%20Intake:%20%5BSystem%20Name%20FY2%23%20Q%23%5D&issuable_template=intakeform) asks the author to include details related to the system including:
+- System overview
+- Implemented security controls or impacted regulatory or compliance program
+- Link to TPRM review and results
+- Link to most recent [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) and [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#critical-systems-tiering-methodolgy) (CST)
+- Control owner details
+- Deployment model and implementation status
+- Data classification
+- Regulatory scope (supported by Security Compliance and [Internal Audit](/handbook/internal-audit/))
+The author of the issue completes as much of the issue as they can and assigns it to the Security Risk team for completion/triage (if the issue is not originally created by the Security Risk team).
+
+### 3. Security Compliance workflow
+Once the Security Compliance Intake issue is populated, Security Risk assigns the issue to the Security Compliance team to complete the following tasks to incorporate the system into our Security Compliance Program:
+- Notify stakeholders and system owners of upcoming testing requirements
+- Incorporate testing requirements (driven by CST and regulatory/compliance requirements) and recommendations into the fiscal year audit schedule
+- Determine when [user access reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html) for the new system need to start and communicate to compliance teams
 
 # List of NIST 800-53 controls by family (Used by Commercial and Dedicated teams beginning FY24 Q1):
 _Detailed sub-controls are included in the various control family pages_ 

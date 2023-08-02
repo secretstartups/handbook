@@ -16,14 +16,14 @@ description: "This handbook page details the specific Security Operational Risk 
 
 This handbook page details the specific Security Operational Risk Management (“StORM”) Methodology that is used at GitLab in order to assess Risk Appetite, Risk Tolerance, as well as scoring risks based on their likelihood, impact as well as explicit inherent vs residual risk levels.
 
-## Annual StORM Assessment Schedule
+## Annual Risk Assessment Schedule
 
-The annual StORM assessment is conducted on a predefined schedule from year to year. 
+The annual risk assessment is conducted on a predefined schedule from year to year. 
 
 |Timing|Activities|
 |-----|-----|
 |March|Risk Appetite Survey is sent out to Senior Leadership to establish GitLab's Annual Risk Appetite|
-|April-May|Annual StORM information gathering is kicked off for risk identification. Once completed, newly identified risks will be documented and quality reviewed. |
+|April-May|Annual risk assessment information gathering is kicked off for risk identification. Once completed, newly identified risks will be documented and quality reviewed. |
 |May-June|The [annual StORM reports](/handbook/security/security-assurance/security-risk/storm-program/#step-5-annual-storm-reports) are prepared, reviewed, and approved.|
 |June-July|Risk treatment plans are developed for risks identified during the ARA and a retrospective is held to capture improvement opportunities for StORM.|
 
@@ -93,7 +93,7 @@ Scoring is performed by individuals operating in at least Senior Leadership capa
 
 ### Translating GitLab's Security Risk Appetite to Risk Tolerance
 
-Our risk appetite is translated to a tolerance which defines a range in which a [risk score value](#risk-factors-and-risk-scoring) is acceptable and does not require a treatment response. Risk scores can range from 0 (lowest) to 30 (highest). The range is defined per Risk Appetite in the table below:
+Our risk appetite is translated to a tolerance which defines a range in which a [risk score value](#risk-factors-and-risk-scoring) is tolerable and does not require remediation or a risk acceptance, i.e., the risk response will be set to "monitor". Risk scores can range from 1 (lowest) to 30 (highest). The range is defined per Risk Appetite in the table below:
 
 |Risk Averse|Risk Neutral|Risk Receptive|Risk Seeking|
 |:---------:|:---------:|:---------:|:---------:|
@@ -291,9 +291,11 @@ Once the Inherent and Residual risk score is determined, the following table can
 
 |Risk Rating|Risk Score Range|
 |:---------:|:--------------:|
-|Low|0-10|
+|Low|1-10|
 |Medium|11-20|
 |High|21-30|
+
+These ratings represent labels for communication purposes rather than what is or is not acceptable. To determine what is an acceptable risk, please refer to [risk tolerances](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#translating-gitlabs-security-risk-appetite-to-risk-tolerance).
 
 ### The Impact of Control Health & Effectiveness Rating (CHER) on Risks
 
@@ -320,15 +322,15 @@ Each risk identified and triaged through the StORM program is required to underg
   </tr>
   <tr>
     <td class="tg-wa1i">Monitor (do nothing)</td>
-    <td class="tg-cly1">The risk score falls within our [risk tolerance levels](#translating-gitlabs-security-risk-appetite-to-risk-tolerance) and no additional actions are required at this time. Risks that have been treated, resulting in a risk score that is within the risk tolerance level will be given the status of Monitor within our GRC system.</td>
+    <td class="tg-cly1">The risk score falls within our <a href="#translating-gitlabs-security-risk-appetite-to-risk-tolerance">risk tolerance levels</a> and no additional actions are required at this time. Risks that have been treated, resulting in a risk score that is within the risk tolerance level will be given the status of Monitor within our GRC system.</td>
   </tr>
   <tr>
     <td class="tg-wa1i">Remediate the Risk</td>
-    <td class="tg-cly1">Complete a risk remediation plan to remediate the risk through: Sharing the risk (identify and implement solutions to share the risk with other parties), Reducing the likelihood of occurrence, and/or Reducing the level of impact to GitLab</td>
+    <td class="tg-cly1">The risk is not within our risk tolerance. Complete a risk remediation plan to remediate the risk through: Sharing the risk (identify and implement solutions to share the risk with other parties), Reducing the likelihood of occurrence, and/or Reducing the level of impact to GitLab</td>
   </tr>
   <tr>
     <td class="tg-wa1i">Accept the Risk</td>
-    <td class="tg-cly1">Accept or take the risk without executing a remediation plan because the potential value gained by GitLab outweighs the costs associated with pursuing risk remediation.</td>
+    <td class="tg-cly1">The risk is not within our risk tolerance. Accept or take the risk without executing a remediation plan because the cost to pursue remediation is higher than the potential benefit.</td>
   </tr>
 </table>
 
@@ -336,7 +338,7 @@ The risk object in the GRC application will be updated to reflect the agreed upo
 
 ### Monitor (do nothing)
 
-In the cases where a risk owner has concluded that a risk is low enough level, no additional action is required besides ensuring that the StORM Program DRI agrees with the treatment option.
+In the cases where a risk owner has concluded that a risk is within [tolerance](#translating-gitlabs-security-risk-appetite-to-risk-tolerance), no additional action is required besides ensuring that the StORM Program DRI agrees with the treatment option.
 
 ### Remediate the Risk
 
