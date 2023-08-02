@@ -124,7 +124,7 @@ The At-Risk Update description should follow the following format:
 
 Here is a sample at-risk update:
 
-> CUSTOMER X has risk of seat contraction due to under-utilization of licensed seats. We have a meeting scheduled with the decision maker next week to discuss plans & next steps to drive adoption.
+> CUSTOMER X has risk of seat contraction due to under-utilization of licensed seats. We need top-down alignment with customer leadership and an agreed-upon plan to get more teams onto GitLab.
 >
 > CUSTOMER X is actively using 75% of their licensed seats, though adoption of use cases within those users is strong. We have reached out to the decision maker for the customer on DevOps tools and have a meeting scheduled with that person for next week that includes all of the members of the GitLab account team. We will discuss the current adoption status, and other groups within their org we can engage to help their users get onto GitLab. In order to mitigate this risk we need alignment with the decision maker on next steps to engage with teams not yet on GitLab, and define a plan to get those users onboarded.
 >
