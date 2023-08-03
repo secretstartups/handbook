@@ -218,6 +218,7 @@ In the long run, the target state is to quarantine any incorrect data and preven
 | Date | Reason | Actions taken | Detailed GitLab Issue |
 | ---- | ------ | ------------- | --------------------- |
 | 2023-04-05 | Fixing March 2023 Redis HLL metric bug | DEs duplicate and backdate later ping; quarantine incorrect ping | [link](https://gitlab.com/gitlab-data/analytics/-/issues/16160) | 
+| 2023-08-03 | Fixing July 2023 `instance_user_count` bug | DEs duplicate and backdate later ping | [link](https://gitlab.com/gitlab-data/analytics/-/issues/17470) |
 
 ### Phase 2: Metrics transformation to Trusted Data Model 
 
