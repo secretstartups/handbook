@@ -1,0 +1,20 @@
+{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/sections.yml" }}
+  {{ with .Err}}
+    <h2>Unable to fetch sections Data</h2>
+  {{ else }}
+  <table>
+      <tr>
+          <th>Section</th>
+          <th>Support Counterpart</th>
+      </tr>
+      {{ $data := . | transform.Unmarshal }}
+      {{ range $data }}
+          {{ if .sm }}
+          <tr>
+              <td>{{ .name }}</td>
+              <td>{{ .sm }}</td>
+          </tr>
+          {{ end }}
+      {{ end }}
+  {{ end }}
+{{ end }}

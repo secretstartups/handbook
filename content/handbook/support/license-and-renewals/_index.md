@@ -1,10 +1,7 @@
 ---
-
 title: Licensing & Renewals
 description: Licensing & Renewals (L&R) comprises efforts to resolve problems customers face when they purchase or renew their GitLab subscription.
 ---
-
-
 
 ## Overview
 
@@ -23,7 +20,7 @@ as well as checking internal GitLab systems and performing data validation. Some
 In July, 2020, [a decision was made](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384760742)
 for L&R work to be handled by Support for the foreseeable future. At the time,
 [business-critical priorities](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/96#note_384808050)
-prevented the [Fulfillment product section](/handbook/product/categories/#fulfillment-section)
+prevented the [Fulfillment product section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
 from having sufficient capacity to address and resolve the major L&R-related issues.
 And whereas creating an entirely new team for this work would have been
 difficult, Support was already engaged and was in a position to scale up
@@ -39,7 +36,7 @@ quickly to meet customer needs.
 
 ### Support Stable Counterparts
 
-See the [Fulfillment section description](/handbook/product/categories/#fulfillment-section)
+See the [Fulfillment section description](https://about.gitlab.com/handbook/product/categories/#fulfillment-section)
 in the Product Handbook to learn who our current Support Stable Counterparts are. If you are
 interested in being an L&R SSC, please talk with your manager and one of the
 [Regional DRIs](#support-management-contacts).
@@ -167,7 +164,7 @@ for further information.
 ### What you'll be working on
 
 - Tickets in the L&R queue (see
-  [Zendesk Global Views](../support-ops/documentation/zendesk_global_views.html)
+  [Zendesk Global Views](/handbook/support/readiness/operations/)
   for more information on locating these) in Zendesk. The queue will contain
   tickets from customers as well as from GitLab Team Members (Sales, CSMs,
   etc.). The tickets from team members are called "internal requests," and
@@ -189,8 +186,6 @@ supplements the baseline entitlements for the Support Engineer job family.
 
 #### CustomersDot
 
-{:.no_toc}
-
 CustomersDot is the common name for the web application built by GitLab and found at
 <https://customers.gitlab.com>. All license and subscription management is conducted
 on this site. You will need access to this to generate, forward and modify customer
@@ -204,8 +199,6 @@ CustomersDot, use this information:
   > and subscriptions issues and to debug issues on the application itself.
 
 #### Salesforce
-
-{:.no_toc}
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
@@ -225,8 +218,6 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 
 #### Slack
 
-{:.no_toc}
-
 Discussion of Licensing & Renewals tickets and customer issues occurs in the
 [#support_licensing-subscription](https://gitlab.slack.com/archives/C018C623KBJ)
 channel in Slack. This ensures:
@@ -244,8 +235,6 @@ on the queue. This helps ensure coverage reliability of the L&R tickets across
 the APAC region's support hours.
 
 #### Zuora
-
-{:.no_toc}
 
 Zuora is considered the [single source of truth](/handbook/handbook-usage/#single-source-of-truth)
 or [system of record](/handbook/handbook-usage/#system-of-record)
@@ -282,16 +271,12 @@ When creating an [individual/bulk access request](https://gitlab.com/gitlab-com/
 
 #### Product
 
-{:.no_toc}
-
 As you work through the queue and on issues, if you spot something in the
 [Fulfillment backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=group%3A%3Afulfillment)
 that would makes things better for customers and Support, please label it with
 `Support Interest::Categorize`. See [Support's issue list for Fulfillment](./workflows/managing_product_issues.html#supports-issue-list-for-fulfillment) for more information.
 
 ##### Fulfillment stage
-
-{:.no_toc}
 
 The [Fulfillment](https://about.gitlab.com/direction/fulfillment/) Stage manages
 Purchasing and Provisioning, CustomersDot Usage, and Subscription Management.
@@ -302,17 +287,15 @@ generally see in the queue.
 
 ##### Growth stage
 
-{:.no_toc}
-
-When we look at the product [Growth](/handbook/product/categories/#growth-stage)
+When we look at the product [Growth](https://about.gitlab.com/handbook/product/categories/#growth-stage)
 stage, we can see that the team owns responsibilities that align with some of
 the types of requests we generally see in the queue, in particular the
 `Conversion` group.
 
-- Activation Group: [New Group Namespace Verify Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
-- Adoption Group: [New Group Namespace Create Stage Adoption Rate](/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
-- Expansion Group: [New Group Namespace with at least two users added](/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
-- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
+- Activation Group: [New Group Namespace Verify Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-verify-stage-adoption-rate)
+- Adoption Group: [New Group Namespace Create Stage Adoption Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+- Expansion Group: [New Group Namespace with at least two users added](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-with-at-least-two-users-added)
+- Conversion Group:[New Group Namespace Trial to Paid Conversion Rate](https://about.gitlab.com/handbook/product/performance-indicators/#new-group-namespace-trial-to-paid-conversion-rate)
 
 ## What is **not in the scope** of L&R work in Support?
 
@@ -325,7 +308,7 @@ The queue should not be used for the following:
   [education program](https://about.gitlab.com/solutions/education/)
 - Requests related to the
   [open source program](https://about.gitlab.com/solutions/open-source/join/)
-  
+
 ## Useful links
 
 ### Product documentation

@@ -1,0 +1,36 @@
+{{ with resources.GetRemote "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/stages.yml" }}
+  {{ with .Err}}
+    <h2>Unable to fetch stages Data</h2>
+  {{ else }}
+      <table>
+          <tr>
+              <th>Group</th>
+              <th>Support Counterpart</th>
+          </tr>
+
+      {{ $data := . | transform.Unmarshal }}
+      {{ range $data.stages }}
+      {{ $.Scratch.Set "display_name" .display_name }}
+      {{ range .groups }}
+      {{ if .support }}
+      <tr>
+      <td>{{ $.Scratch.Get "display_name" }} : {{.name}}</td>
+      <td>{{ if reflect.IsSlice .support }}
+                <ul>
+                {{ range .support }}
+                    <li>{{.}}</li>
+                {{ end }}
+                </ul>
+            {{ else }}
+            <ul>
+                <li>{{ .support }}</li>
+            </ul>
+            {{ end }}
+      </td>
+      </tr>
+      {{ end }}
+      {{ end }}
+      {{ end }}
+      </table>
+  {{ end }}
+{{ end }}
