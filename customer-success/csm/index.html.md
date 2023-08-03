@@ -204,24 +204,6 @@ What are their technical milestones to get to this business outcome?
 
 - [FY23](/handbook/customer-success/csm/fy23)
 
-## Pillars of Success
-
-There are 7 pillars that we have identified as crucial for success as CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
-
-- Communication
-  - Frequent and honest communication with customers and internal stakeholders, so everyone knows what is happening and what to expect, in line with [GitLab communication guidelines](/handbook/communication/)
-- Follow-through
-  - You never leave a customer without an answer/reply, and you always do what you’ve said you’ll do
-- Organization & Documentation
-  - You have your tasks organized and prioritized, and it’s easy for someone to quickly understand what’s going on with any given account by looking at Gainsight
-- Relationship-building
-  - Both customers and internal team members trust you
-- Proactivity
-  - You don’t wait to be told what to do, you have [short toes](/handbook/values/#short-toes) and a [bias for action](/handbook/values/#bias-for-action), and you plan for customer strategy in collaboration with your go-to-market team.
-- Assertiveness
-  - You are comfortable telling customers what they need to do as their trusted advisor, as well as working internally to get what you need from others
-- Perceptiveness
-  - You can “read between the lines” of what a customer is saying and identify what they need, not necessarily what they say they want
 
 ## Handbook Directory
 
@@ -258,25 +240,30 @@ There are 7 pillars that we have identified as crucial for success as CSMs. It i
 - [CSM READMEs](/handbook/customer-success/csm/readmes/) (Optional)
 
 
-### Lifecycle Management
+### Driving Platform Adoption
+Landing Zones
+ - [CI Landing Zone](/handbook/customer-success/csm/adoption-landing-zones/CI/)
+
+ Customer Metrics
+  - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
+
+ Platform Metrics
+   - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
+   - [How To: DevSecOps Adoption Tracking in Gainsight](/handbook/customer-success/csm/devsecops-adoption-tracking/)
+   - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
+   - [The Customer Value Received with Service Ping](/handbook/customer-success/csm/service-ping-faq/)
+   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+   - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
+
+### Other Lifecycle Management Activities
 
 - [Transitioning a Customer from Pre-Sales to Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 - [Account Engagement and Prioritization](/handbook/customer-success/csm/engagement/)
    - [Non-Engaged Customer Strategies](/handbook/customer-success/csm/engagement/Non-engaged-customer-strategies/)
 - [Account Onboarding](/handbook/customer-success/csm/onboarding/)
 - [Success Plans](/handbook/customer-success/csm/success-plans/)
-   - [Sample Questions & Techniques for Getting to Good Customer Metrics](/handbook/customer-success/csm/success-plans/questions-techniques/)
-- Driving Adoption
-   - LANDING ZONES
-     - [CI Landing Zone](/handbook/customer-success/csm/adoption-landing-zones/CI/)
-   - [Use Case Adoption Metrics](/handbook/customer-success/csm/stage-adoption/)
-   - [The Customer Value Received with Service Ping](/handbook/customer-success/csm/service-ping-faq/)
-   - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
-   - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
-   - [Metrics Based Product Usage Playbooks](/handbook/customer-success/product-usage-data/metrics-based-playbooks/)
-   - [How To: DevSecOps Adoption Tracking in Gainsight](/handbook/customer-success/csm/devsecops-adoption-tracking/)
 - [Cadence Calls](/handbook/customer-success/csm/cadence-calls/)
-- [Executive Relationships](/handbook/customer-success/csm/executive-relationships/)
+- [Managing Executive Relationships](/handbook/customer-success/csm/executive-relationships/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/csm/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/csm/renewals/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/csm/health-score-triage/)
@@ -345,3 +332,4 @@ Next steps for you:
 - [Support handbook](/handbook/support/)
 - [Workshops and Lunch-and-Learn slides](https://drive.google.com/drive/folders/1qAymFTiXFEk-lRSNreIhaZ6Z62fdo_y2)
 - [Researching Customer Questions](/handbook/customer-success/csm/researching-customer-questions/)
+
