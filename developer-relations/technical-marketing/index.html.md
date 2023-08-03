@@ -106,3 +106,8 @@ Each TMM is listed with their areas of primary responsibility, but all TMM's sho
 ## Making better videos
 
 With the internet's attention span, the more successful videos are short form. GitLab Marketing's has adjusted it's video strategy to focus on short form, educational videos. With that move we've begun to learn about how to make better videos. The ["Making better videos" page](./making_better_videos.html) covers our research and pointers we are going to do our best to follow.
+
+
+## OKRs
+
+- [OKR list](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues?first_page_size=20&label_name%5B%5D=dev-evangelism&sort=updated_desc&state=opened&type%5B%5D=objective)

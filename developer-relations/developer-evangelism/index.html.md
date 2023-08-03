@@ -57,6 +57,10 @@ Awareness and Evangelism are generated through the content we create, the events
 
 We recognize these KPIs don't capture the impact of the diverse range of work that our team does but understand that tradeoffs can be necessary to effectively communicate our impact within GitLab.
 
+#### OKRs
+
+- [OKR list](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues?first_page_size=20&label_name%5B%5D=dev-evangelism&sort=updated_desc&state=opened&type%5B%5D=objective)
+
 ### What fits in our strategy
 
 When we are reviewing opportunities or requests for support, we must be able to answer yes to each of these questions to move forward with the work:
