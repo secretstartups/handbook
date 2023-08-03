@@ -9,7 +9,7 @@ The GitLab Support Team provides technical support to GitLab.com and Self-Manage
 
 | If you are | Your Need | Where You Should Look |
 | ---------- | --------- | --------------------- |
-| A customer, or an advocate for a customer | Technical assistance | Public [Support Page](/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
+| A customer, or an advocate for a customer | Technical assistance | Public [Support Page](https://about.gitlab.com/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
 | New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
 | New Support Manager | Onboarding / Learning | [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html) page and [Support Manager Pathways](/handbook/support/training/#support-manager-onboarding-pathway) |
@@ -43,13 +43,13 @@ Remember, as members of the support team we are the first to interact with someo
 Our goal is to provide guidance that will lead to the best results for our customers as they use GitLab. In that, we will often point to documentation, product functionality, or open bugs/feature requests.
 However, there are times when customers will be best served through one of our commercial offerings.
 
-Support is part of the [Engineering Department](/handbook/engineering/) and Support Engineers are not comissioned or bonused for upsell for additional services, customer purchases, or lead generation.
-If you recommend [Professional Services](/services/) or moving to a different tier or offering you may link to this section in your recommendation to give the customer assurance you're doing so with no mixed motivations.
+Support is part of the [Engineering Department](https://about.gitlab.com/handbook/engineering/) and Support Engineers are not comissioned or bonused for upsell for additional services, customer purchases, or lead generation.
+If you recommend [Professional Services](https://about.gitlab.com/services/) or moving to a different tier or offering you may link to this section in your recommendation to give the customer assurance you're doing so with no mixed motivations.
 
 ### Our role within GitLab
 
-GitLab Support is part of the [Engineering division](/handbook/engineering/).
-While most engineering departments are part of the R&D [cost center](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure),
+GitLab Support is part of the [Engineering division](https://about.gitlab.com/handbook/engineering/).
+While most engineering departments are part of the R&D [cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure),
 Support is part of the Cost of Sales (or sometimes Cost of Goods Sold (COGS)) cost center.
 
 This unique arrangement is expressed in our [Key Performance Indicators](/handbook/support/performance-indicators/),
@@ -133,8 +133,8 @@ The support team has a few elements and we've divided the support handbook as su
 - [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think: Zendesk workflows and technical resources.
 - [/support/license-and-renewals](/handbook/support/license-and-renewals/index.html) is content for the Licensing and Renewals Support Engineers and Managers. Think: [customers.gitlab.com](https://customers.gitlab.com) and working with the Fulfillment Product Team.
 - [/support/managers](/handbook/support/managers/index.html) is content that is for Support Managers. Think: how to manage issues, run 1:1s and leadership sync information.
-- [/support/readiness](https://handbook.gitlab.com/handbook/support/readiness/) is the landing page for Support Readiness. Think: how is the support team preparing for X?
-  - [/support/support-ops](https://handbook.gitlab.com/handbook/support/readiness/operations/) is content that is for Support Operations. Think: how to change Zendesk forms and fields, and other ops details.
+- [/support/readiness](/handbook/support/readiness/) is the landing page for Support Readiness. Think: how is the support team preparing for X?
+  - [/support/support-ops](/handbook/support/readiness/operations/) is content that is for Support Operations. Think: how to change Zendesk forms and fields, and other ops details.
 
 Below we also have some commonly referenced pages:
 
@@ -220,14 +220,14 @@ See [Managers/Hazards page](/handbook/support/managers/hazards-and-challenges.ht
 ## Communications
 
 The GitLab Support Team is part of the wider Engineering function. Be sure to check the
-[communications section in the Engineering handbook](/handbook/engineering/#communication)
+[communications section in the Engineering handbook](https://about.gitlab.com/handbook/engineering/#communication)
 for tips on how to keep yourself informed about engineering announcements and initiatives.
 
 Here are our most important modes of communication:
 
 - [Support Week in Review](#support-week-in-review). Important updates for everyone in support.
 The SWIR is expected reading/listening for all support team members. You should try to check the SWIR at least once a week. If you have something to share with the entire team this is the best place to do it. For example, if you have an issue for a common bug, an issue that requires feedback, or an issue about an external project you're working.
-- [Slack channels](#slack) for ["informal"](/handbook/communication/#slack) communication.
+- [Slack channels](#slack) for ["informal"](https://about.gitlab.com/handbook/communication/#slack) communication.
 Due to our data retention policy in Slack, things shared there will eventually be deleted. If you want to share something there, please make sure it also has a more permanent place in our docs, handbook, issue tracker, etc.
 - [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
 general team suggestions, tasks or projects related to support, etc.
@@ -289,11 +289,11 @@ support feel free to create an issue and link to any external issues or projects
 Issues regarding documentation or features for GitLab, our FOSS project or any of the GitLab
 components should not go in this issue tracker, but in their appropriate issue tracker.
 
-If you have a proposed solution that is actionable, it's best to [start a merge request](/handbook/communication/#start-with-a-merge-request), tag the team for feedback and link in the [Support Week in Review](#support-week-in-review).
+If you have a proposed solution that is actionable, it's best to [start a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request), tag the team for feedback and link in the [Support Week in Review](#support-week-in-review).
 
 ### Slack
 
-We follow GitLab's [general guidelines for using Slack](/handbook/communication/#slack)
+We follow GitLab's [general guidelines for using Slack](https://about.gitlab.com/handbook/communication/#slack)
 for team communications. As only 90 days of activity will be retained, make sure
 to move important information into the team handbook, product documentation,
 issue trackers or customer tickets.
@@ -333,7 +333,7 @@ The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-sof
 
 
 
-At GitLab we are to be [public by default](/handbook/communication/confidentiality-levels/#not-public) unless there is a valid reason for it to not be public. While Slack
+At GitLab we are to be [public by default](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) unless there is a valid reason for it to not be public. While Slack
 is not public, the spirit of opening up discussions so that *everyone can contribute* means that private channels should be kept to a minimum.
 
 The following private channels are permanent fixtures in support. Usage estimates are approximate based on traffic in Feb 2022.
@@ -652,12 +652,12 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 ### Handbook links
 
 - [GitLab Team page](https://about.gitlab.com/company/team/)
-- [Product Categories](/handbook/product/categories/) - Find out what team handles what
+- [Product Categories](https://about.gitlab.com/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support/)
 - [Support Managers](/handbook/support/managers/)
 - [Support Hiring](/handbook/support/managers/hiring.html)
 - [Support Channels](/handbook/support/channels/)
-- [On-Call](/handbook/on-call/)
+- [On-Call](https://about.gitlab.com/handbook/on-call/)
 - [License & Renewals](/handbook/support/license-and-renewals/)
 - [Support Ops](https://handbook.gitlab.com/handbook/support/readiness/operations/)
 - [Advanced Topics](/handbook/support/advanced-topics/)
@@ -666,7 +666,7 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 
 - GitLab
     - [GitLab.com Status](https://status.gitlab.com/)
-    - [GitLab Releases](/releases/categories/releases/)
+    - [GitLab Releases](https://about.gitlab.com/releases/categories/releases/)
 - Writing docs
     - [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/index.html)
     - [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
@@ -674,7 +674,7 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 - Setting up GitLab
     - [GitLab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)
     - [Requirements](https://docs.gitlab.com/ee/install/requirements.html)
-    - [Installation methods for GitLab](/install/)
+    - [Installation methods for GitLab](https://about.gitlab.com/install/)
     - [Backing up and restoring GitLab](https://docs.gitlab.com/ee/raketasks/backup_restore.html)
     - [Omnibus configuration settings](https://docs.gitlab.com/omnibus/settings/README.html)
     - [Omnibus Configuration options](https://docs.gitlab.com/omnibus/settings/configuration.html)

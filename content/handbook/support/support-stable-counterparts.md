@@ -1,10 +1,7 @@
 ---
-
 title: Support Stable Counterparts
 description: The purpose of this page is to give an overview and outline the expectations of the Support Stable Counterparts initiative.
 ---
-
-
 
 ## Overview
 
@@ -126,20 +123,21 @@ Here's some things that other SSCs are doing that might serve as additional insp
 - Share feedback with Support on what is working and what isn't.
 - Set and manage expectations to get the most out of this!
 
-If your group doesn't have an SSC assigned and you'd like to request one, please create an issue in [the support-stable-counterpart project](https://gitlab.com/gitlab-com/support/support-stable-counterpart/-/issues/new?issuable_template=Request%20new%20SSC%20for%20Group) and share in [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW) and [#spt_stable-counterparts](https://gitlab.slack.com/archives/C01SEKQ1SMS).  
+If your group doesn't have an SSC assigned and you'd like to request one, please create an issue in [the support-stable-counterpart project](https://gitlab.com/gitlab-com/support/support-stable-counterpart/-/issues/new?issuable_template=Request%20new%20SSC%20for%20Group) and share in [#support_team-chat](https://gitlab.slack.com/archives/CCBJYEWAW) and [#spt_stable-counterparts](https://gitlab.slack.com/archives/C01SEKQ1SMS).
 
-## Feedback on the current initiative 
+## Feedback on the current initiative
 
-During Q3-FY23 the [SSC create and document process to ensure alignment of Support and Product issue prioritization and track results](https://app.ally.io/objectives/2228176?time_period_id=155987) OKR focused on reaching out to Product and Engineering Managers, and their SSC/s to gather feedback. A common theme highlighted an interest from Product Managers having inputs from Support that may be able to provide insights for product planning and prioritization meetings with Product Managers. 
+During Q3-FY23 the [SSC create and document process to ensure alignment of Support and Product issue prioritization and track results](https://app.ally.io/objectives/2228176?time_period_id=155987) OKR focused on reaching out to Product and Engineering Managers, and their SSC/s to gather feedback. A common theme highlighted an interest from Product Managers having inputs from Support that may be able to provide insights for product planning and prioritization meetings with Product Managers.
 
-SSCs that are regularly engaging with their product group are informing Support with knowledge they have picked up and the Product and Engineering Managers have built a steady relationship in these particular groups. There are still a few groups who are yet to build these foundational relationships, however, the feedback issues created an opportunity to encourage these discussions to start and a path forward for these groups to be carved out. 
+SSCs that are regularly engaging with their product group are informing Support with knowledge they have picked up and the Product and Engineering Managers have built a steady relationship in these particular groups. There are still a few groups who are yet to build these foundational relationships, however, the feedback issues created an opportunity to encourage these discussions to start and a path forward for these groups to be carved out.
 
-## Support Customer Impact Dashboard 
+## Support Customer Impact Dashboard
 
 Based on feedback from SSCs regarding how to better inform product groups of the impact that issues have on customers, I have begun work on a Support-centric dashboard that will enable Support to identify trending issues and produce data to assist in prioritization. For more details, refer to [Customer Support Linked Issues Dashboard](https://gitlab.com/gitlab-data/analytics/-/issues/14593).
 
-## Current SSC Vacancies 
-The [tables below](#product-counterparts) lists all groups and stages that currently do not have an SSC assigned. You can view a list of groups where a Product and/or Engineering Manager has reached out to support requesting an SSC in the [support-stable-counterpart project](https://gitlab.com/gitlab-com/support/support-stable-counterpart/-/issues). 
+## Current SSC Vacancies
+
+The [tables below](#product-counterparts) lists all groups and stages that currently do not have an SSC assigned. You can view a list of groups where a Product and/or Engineering Manager has reached out to support requesting an SSC in the [support-stable-counterpart project](https://gitlab.com/gitlab-com/support/support-stable-counterpart/-/issues).
 
 ## How can I enroll and be a counterpart
 
@@ -164,24 +162,10 @@ Non-group specific counterparts typically also step in when the related group ha
 |:----------------:|:--------------:|:-------------------:|:---------------------------:|:-------------------:|
 | UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting |
 | UX               | UX             | Christie Lenneville | Cynthia Ng                  | weekly team meeting |
-| Quality          | Reference Architecture | Grant Young | Simon Street | TBD | 
+| Quality          | Reference Architecture | Grant Young | Simon Street | TBD |
 
 ## Product counterparts
 
-| Section | Support Counterpart |
-| --- | --- |
-<% data.sections.each do |sectionKey, section| %>
-  <% if section.sm %>
-    <%= "| #{section.name} | #{section.sm} |" %>
-  <% end %>
-<% end %>
+{{< section-counterparts >}}
 
-| Group | Support Counterpart |
-| --- | --- |
-<% data.stages.stages.each do |key, stage| %>
-  <% stage.groups.select.each do |key, group| %>
-    <% if group.support %>
-      <%= "| #{stage.display_name} : #{group.name} | " + Array(group.support).map{ |support| "#{support}"}.join(", ") + " |" %>
-    <% end %>
-  <% end %>
-<% end %>
+{{< stages-counterparts >}}
