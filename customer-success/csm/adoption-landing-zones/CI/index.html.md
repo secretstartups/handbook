@@ -11,22 +11,23 @@ description: "A page containing links to helpful CI resources for the CSM team a
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
+## Quickstart Guides
+1. Supplemental Resource: CI/CD Quickstart - Premium: [Public-Facing Page](https://gitlab.highspot.com/viewer/63bf4994dc979c98f1d3e832?)
+
 ## Migrating to GitLab
-
-
 
 GitHub to GitLab
 
-1. Blog: https://about.gitlab.com/blog/2023/07/11/github-to-gitlab-migration-made-easy/
-1. GitHub Actions to GitLab Video: https://youtu.be/0Id5oMl1Kqs  [Highspot link](https://gitlab.highspot.com/items/648a0479e3c34e922e251bcd?lfrm=shp.0)
+1. Blog: [Github to GitLab Migration Made Easy](https://about.gitlab.com/blog/2023/07/11/github-to-gitlab-migration-made-easy/)
+1. GitHub Actions to GitLab: [Video](https://youtu.be/0Id5oMl1Kqs)  [Highspot link](https://gitlab.highspot.com/items/648a0479e3c34e922e251bcd?lfrm=shp.0)
 
 
 
 Jenkins to GitLab
 
-1. Docs page: 'How To' Overview: (https://docs.gitlab.com/ee/ci/migration/jenkins.html)
-1. Jenkins Integration demo (CS-Led): (https://gitlab.com/gitlab-learn-labs/webinars/cicd/jenkins-integration-demo)
-1. 
+1. Docs page: 'How To' Overview: [Docs Page: Migrating from Jenkins](https://docs.gitlab.com/ee/ci/migration/jenkins.html)
+1. Jenkins Integration demo (CS-Led): [CSM Demo: Jenkins Integration](https://gitlab.com/gitlab-learn-labs/webinars/cicd/jenkins-integration-demo)
 
 ## Adoption Enablement
 
@@ -42,8 +43,8 @@ Jenkins to GitLab
 1. Runner Overview: [Link to Deck](https://gitlab.highspot.com/items/64cadeb868936bb54ac9ce2f#)
     
 1.  Webinars (Informational & Hands-On):
-     - https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/
+     - [Monthly Webinar Calendar](https://about.gitlab.com/handbook/customer-success/csm/segment/scale/webinar-calendar/)
  
 
-## Highspot pages
+
 
