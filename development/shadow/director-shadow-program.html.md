@@ -179,8 +179,8 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| July 31    |  [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GItLab shadow - engineering leader |
-| August 7   |  [Reggie Skillman](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadow |
+| July 31    |  [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GitLab shadow - engineering leader |
+| August 7   |  [Reggie Skillman - Military Veteran tenured in Aerospace and Software Stack](https://www.linkedin.com/in/reggie1/) and [Julia Lopez- Manager - Animation & Gaming Technical Support at Netflix](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadows  |
 | August 14  |  Available | |
 | August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
