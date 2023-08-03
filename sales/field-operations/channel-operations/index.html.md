@@ -790,6 +790,75 @@ The Channel Managers use a [tracking system](https://docs.google.com/presentatio
 **Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
 
 
+## Partner Award Program
+The GitLab Partner Awards are awarded on an annual basis. No submissions or applications are solicited; partners are assessed on our published award criteria outlined below. 
+
+Results are evaluated on the previous GitLab’s fiscal year, which runs February through January - i.e. FY25 Awards will be evaluated on FY24 data.  All awards must be approved by regional Channel directors and VP of Global Channels and Alliances prior to announcement.
+
+Winners receive a physical award, virtual badge for use on the partner’s website and social media, and online promotion by GitLab, which may include a blog post and social media announcements. 
+
+**Award Program DRI(s):**
+- Channel Program DRI
+  - Channel Program Director solicites data from SSOT to analyze to determine winners
+- Channel Sales DRI(s)
+  - Director(s) and VP of Global Channels and Alliances nominate and approve award winners
+  - Director(s) provide short write-up about winners to include in PR efforts and presentations
+- Channel Marketing DRI
+  - Manages award ordering and shipments
+  - Creates issue for PR assistance
+- Corporate Communications DRI
+  - Creates press release or blog post announcing award winners
+
+**Award Categories - proposed for FY25:**
+- Americas and Public Sector Categories
+  - AMER Partner of the Year
+  - AMER Emerging Partner of the Year (optional)
+  - AMER Services Partner of the Year
+  - Public Sector Partner of the Year
+  - Public Sector Services Partner of the Year
+  - AMER / Public Sector Distributor of the Year
+- Asia-Pacific Categories
+  - APAC Partner of the Year
+  - APAC Emerging Partner of the Year (optional)
+  - APAC Distributor of the Year
+  - APAC Services Partner of the Year
+- Europe-Middle East-Africa Categories
+  - EMEA Partner of the Year
+  - EMEA Emerging Partner of the Year (optional)
+  - EMEA Distributor of the Year
+  - EMEA Services Partner of the Year
+
+**Award Consideration Timing:**
+GitLab will announce the Partner Award winners at a Global-level event within their Q1 timeframe. Awards will be shipped to the winners 4-6 weeks post-announcement. Award celebrations will be held at Partner Leadership Summit or other similar event.
+
+**Awards Criteria (taken from previous FY):**
+The GitLab Partner Operations team is responsible for compiling the reports outlined in the criteria below from our SSOT data in SFDC.  Channel Sales Directors and the VP of Global Channel and Alliances will review, assess and evaluate these reports based on the criteria outlined below.
+
+- [Regional] Partner of the Year
+  - Total revenue
+  - Partner Sourced - approved deal reg
+  - # new logos
+  - Example of great deal, service offering, campaign or field collaboration
+
+- [Regional] Emerging Partner of the Year (optional award)
+  - Rapid revenue and pipeline growth
+  - Rapid services engagement
+  - Example of great deal, service offering, campaign or field collaboration
+  - May be new partner or existing partner that ramped rapidly in the prior year
+
+- [Regional] Services Partner of the Year
+  - Professional Services subcontracting delivery - GitLab Services revenue impact
+  - Service attach deal registrations
+  - GitLab service offers - number of offers, quality of offers, level of GitLab sales engagement with the offers
+
+- [Regional] Distributor of the Year
+  - Total revenue
+  - Open partner compliance improvements
+  - Number of compliant partners
+  - Number of accreditations 
+  - Pipeline generated
+
+
 ## Partner Forecast Salesforce Dashboards
 The following partner forecast dashboards have been published for FY24. Please use the dashboard relevant to your partner type and region or segment. You will only have access to view data from your region based on salesforce permissions.
 - Alliance Dashboards
