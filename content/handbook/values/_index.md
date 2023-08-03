@@ -1349,7 +1349,7 @@ This is a manifestation of the [Belief Bias](https://twitter.com/g_s_bhogal/stat
 Proposals should be weighed on their merits and not on who proposed them.
 Another example is people being promoted based on others liking them or having a lot of alliances. We want people to be promoted based on their results. We value collaboration, but that's different from being promoted just because people like you.
 
-Below are some attributes of political and non-political work environments. GitLab plans maintain a non-political one.
+Below are some attributes of political and non-political work environments. GitLab plans to maintain a non-political one.
 
 | Political environment | Non-political environment |
 | ------ | ------ |
