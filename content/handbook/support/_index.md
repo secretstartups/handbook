@@ -187,7 +187,7 @@ The continued growth of the support team provides an opportunity to review how b
 
 ---
 
-{{% partial "we-are-also-product-development.md" %}}
+{{% include "includes/we-are-also-product-development.md" %}}
 
 ## Dogfooding in Support
 
