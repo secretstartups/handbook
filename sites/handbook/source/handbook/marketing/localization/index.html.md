@@ -6,19 +6,24 @@ description: Handbook page for localization processes.
 
 ## Introduction
 
-This page contains guidelines for localization at GitLab. This page is currently maintained by the Marketing Operations team.
+This page contains guidelines for localization at GitLab. This page is currently maintained by the Globalization & Localization team.
+- Daniel Sullivan, Director, Globalization & Localization
+- Oleks Pysaryuk, Sr. Manager, Globalization Technology
+- more coming soon...
 
 ## Overview
 
-GitLab is a global company that does business around the world. In order to best serve our global customers, we localize some of our content and campaigns into native languages.
+GitLab is a global company that does business around the world. In order to best serve our global customers, we localize some of our content and campaigns into non-English languages.
 
 ## Current State
 
-Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We use [Smartling](/handbook/marketing/localization/smartling/) for translation, and to date, most translations have focused on eBooks, landing pages, emails, digital marketing advertisements, and partner marketing materials.
+Our current localization capablities are limited due to resources and bandwidth. Currently, we are focused on translating content that aligns to our Tier 1 and some Tier 2 countries. The Integrated Marketing team typically drives which translations are required, based on current campaigns and regional need. We are currently building a next generation technology platoform for localization, with a bias for speed and automation. As we transition from our old platform, some steps for fulfilling localization requests are manual but will not remain as such. We are working with a new suppliuer, [Translated] (https://gitlab.slack.com/archives/C0576F7T3L2), for translation. You may reach out to the Translated team directly in Slack, but would prefer that you submit requests in our tracker located [here](https://gitlab.com/gitlab-com/localization/issue-tracker/-/issues).
 
 ### Internal Reviews
 
-To ensure translated content makes contextual and technical sense, we have internal native language speakers review the content. At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Both translation and reviews are conducted in Smartling, and detailed instructions for internal review can be found on the [Smartling page](/handbook/marketing/localization/smartling/smartling-reviewers/).
+We are currently moving the internal review process over to language leads and constractors, so that our in-market GitLab teams can focus on their normal duties. Please note, however, that we may need to engage the internal review team from time to time, as our new teams ramp up and build the context they need to successfull localize our content in a way that aligns to GitLab and local expectations. 
+
+At the moment, our internal reviewers are volunteers. We completely appreciate that this task is on top of your day job and will continue to respect that. Both translation and reviews are conducted in Translated tooling; processes for review are currently a work in progress.
 
 ### Priority Countries
 
@@ -28,13 +33,17 @@ Annually we prioritize countries that we believe offer the most opportunity for 
 
 | Vendor | Capabilities | How to Access |
 | ------ | ------------ | ------ | 
-| [Smartling](/handbook/marketing/localization/smartling/) | Localization platform | [Instructions for access](/handbook/marketing/localization/smartling/#access-to-smartling) 
+| [Translated](https://gitlab.slack.com/archives/C0576F7T3L2) | Localization platform | v2 currently in development 
 
 ### Localization Slack channels
 
 We use Slack internally as a communication tool. The Localization channels are as follows:
 
 - `#localization`: General localization channel.
+- `#translated-team`: For communication with our langauge services provider, Translated.
+- `#spartan-software`: For communication with our langauge services provider, Translated.
+- `#oban-international`: For communication with our copywriting and digital marketing agency, Oban International.
+- `#crowdin_gitlab`: For communication with our technology provider specifically for product string localization, CrowdIn.
 
 ### Translating content for campaigns
 
