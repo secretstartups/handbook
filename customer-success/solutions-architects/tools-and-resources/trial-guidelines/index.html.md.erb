@@ -34,7 +34,7 @@ SaaS trials have the following limitations:
 
 #### Existing Self-Managed Customers
 
-While self-managed customers are not prevented from trialing a higher tier license on their production instance, it is strongly discouraged.  Adding a higher tier trial license will confuse end users who may not be aware of which features are a trial vs available for ongoing prouction use.  Using a separate self-managed instance for a trial will prevent this confusion and ensure data integrity of production data is preserved. Alternatively, existing self-managed GitLab customers have the option to trial higher tier features in SaaS.
+While self-managed customers are not prevented from trialing a higher tier license on their production instance, it is strongly discouraged.  Adding a higher tier trial license will confuse end users who may not be aware of which features are a trial vs available for ongoing production use.  Using a separate self-managed instance for a trial will prevent this confusion and ensure data integrity of production data is preserved. Alternatively, existing self-managed GitLab customers have the option to trial higher tier features in SaaS.
 
 If a customer decides to activate a trial on an existing instance, they will need to [add the trial license](https://docs.gitlab.com/ee/administration/license_file.html) to their instance.  Once the trial license has expired, the instance will revert back to the non-expired production license.
 
@@ -72,6 +72,6 @@ Customers who choose a self-managed trial will need to install a single node [Om
       - [SAST](https://docs.gitlab.com/ee/user/application_security/sast/), [Secret Detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/), and [Dependency Scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/) can be run without building your project. Simply add them to the CI file and comment out any build / deploy sections if they cannot be set up again
       
       - [Container Scanning](https://docs.gitlab.com/ee/user/application_security/container_scanning/) - needs an application built into a container and pushed to the container registry, usually created via a build job that precedes the container scanning job, but does not require a deploy job
-   - In order to validate [DAST](https://docs.gitlab.com/ee/user/application_security/dast/) or [web api fuzz testing](https://docs.gitlab.com/ee/user/application_security/api_fuzzing/), you must have a deployed application available to scan.  You might want to [connect a kubernetes cluster](https://docs.gitlab.com/ee/user/clusters/agent/) to make evaluating these features easier. 
+   - In order to validate [DAST](https://docs.gitlab.com/ee/user/application_security/dast/) or [web api fuzz testing](https://docs.gitlab.com/ee/user/application_security/api_fuzzing/), you must have a deployed application available to scan.  You might want to [connect a Kubernetes cluster](https://docs.gitlab.com/ee/user/clusters/agent/) to make evaluating these features easier. 
 
 - For customers wanting to evaluate portfolio and project planning, they can view the [GitLab Organization](https://gitlab.com/groups/gitlab-com/) to view the epic list and boards, roadmap, milestones, and other portfolio features.  Note: some features are only available to logged in users.
