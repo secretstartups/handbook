@@ -145,6 +145,9 @@ If you need an account to test QA issues assigned to you on Staging Ref, you can
 The pre environment is an environment used for validating release candidates used to prepare final self-managed releases and production patches. It does not have a full production HA topology or a
 copy of the production database.
 
+In addition, the `pre` environment is also used by SREs to validate infrastructure
+changes, so it is important for the environment to match the configuration of `staging` and `production`.
+
 ### Release
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
@@ -153,6 +156,9 @@ copy of the production database.
 
 The release environment is an environment used for validating security releases, self-managed final monthly and patch versions. It does not have a full production HA topology or a
 copy of the production database.
+
+The `release` environment receives and tests every package of the current milestone, i.e., every 16.1.X package until we tag 16.2.0.
+
 ### GitLab Team Services
 
 | **Name** | **URL** | **Purpose** | **Deploy** | **Database** | **Terminal access** |
