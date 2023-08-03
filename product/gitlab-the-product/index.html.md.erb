@@ -132,8 +132,13 @@ For special definitions of what constitutes a breaking change for our APIs, see:
 
 #### Exceptions for breaking changes
 
-- Security fixes resulting in a breaking change can be introduced during minor releases.
+Introducing a breaking change in a minor release is against policy because it can disrupt our customers,
+however there are some rare exceptions:
+
+- When GitLab establishes that delaying a breaking change would overall have a _significantly_ more negative impact to customers compared to shipping it in a minor release.
 - If an integrated service shuts down, the integration can be removed during a minor release.
+
+In both cases, the PM or EM must [follow the Request a Breaking Change process](https://docs.gitlab.com/ee/development/deprecation_guidelines/#requesting-a-breaking-change-in-a-minor-release).
 
 #### Deprecating and removing features
 
