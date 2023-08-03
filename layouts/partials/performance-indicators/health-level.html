@@ -1,0 +1,9 @@
+{{ if eq . -1 }}
+<span class="badge bg-primary">Confidential</span>
+{{ else if eq . 1 }}
+<span class="badge bg-danger">Problem</span>
+{{ else if eq . 2 }}
+<span class="badge bg-warning">Attention</span>
+{{ else if eq . 3 }}
+<span class="badge bg-success">Okay</span>
+{{ end }}

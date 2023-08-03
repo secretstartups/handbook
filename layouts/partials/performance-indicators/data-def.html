@@ -1,0 +1,205 @@
+<h3>Data</h3>
+<p>The heart of pages like this are <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/">
+Performance Indicators data files</a> which are <a href="https://yaml.org/">YAML</a> files.
+Each - denotes a dictionary of values for a new (K)PI. The current elements (or data properties) are:</p>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>name</code></td>
+<td>Required</td>
+<td>String value of the name of the (K)PI. For Product PIs, product hierarchy should be separate from name by " - " (Ex. {Stage Name}:{Group Name} - {PI Type} - {PI Name}</td>
+</tr>
+<tr>
+<td><code>base_path</code></td>
+<td>Required</td>
+<td>Relative path to the performance indicator page that this (K)PI should live on</td>
+</tr>
+<tr>
+<td><code>definition</code></td>
+<td>Required</td>
+<td>refer to <a href="https://about.gitlab.com/company/kpis/#parts-of-a-kpi">Parts of a KPI</a></td>
+</tr>
+<tr>
+<td><code>parent</code></td>
+<td>Optional</td>
+<td>should be used when a (K)PI is a subset of another PI. For example, we might care about Hiring vs Plan at the company level. The child would be the division and department levels, which would have the parent flag.</td>
+</tr>
+<tr>
+<td><code>target</code></td>
+<td>Required</td>
+<td>The target or cap for the (K)PI. Please use <code>Unknown until we reach maturity level 2</code> if this is not yet defined. For GMAU, the target should be quarterly.</td>
+</tr>
+<tr>
+<td><code>org</code></td>
+<td>Required</td>
+<td>the organizational grouping (Ex: Engineering Function or Development Department). For Product Sections, ensure you have the word section (Ex : Dev Section)</td>
+</tr>
+<tr>
+<td><code>section</code></td>
+<td>Optional</td>
+<td>the product section (Ex: dev) as defined in <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/sections.yml">sections.yml</a></td>
+</tr>
+<tr>
+<td><code>stage</code></td>
+<td>Optional</td>
+<td>the product stage (Ex: release) as defined in <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml">stages.yml</a></td>
+</tr>
+<tr>
+<td><code>group</code></td>
+<td>Optional</td>
+<td>the product group (Ex: progressive_delivery) as defined in <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml">stages.yml</a></td>
+</tr>
+<tr>
+<td><code>category</code></td>
+<td>Optional</td>
+<td>the product group (Ex: feature_flags) as defined in <a href="https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/categories.yml">categories.yml</a></td>
+</tr>
+<tr>
+<td><code>is_key</code></td>
+<td>Required</td>
+<td>boolean value (true/false) that indicates if it is a (key) performance indicator</td>
+</tr>
+<tr>
+<td><code>health</code></td>
+<td>Required</td>
+<td>indicates the (K)PI health and reasons as nested attributes. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>health.level</code></td>
+<td>Optional</td>
+<td>indicates a <a href="https://about.gitlab.com/handbook/product/performance-indicators/#health">value between 0 and 3 (inclusive)</a> to represent the health of the (K)PI. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>health.reasons</code></td>
+<td>Optional</td>
+<td>indicates the reasons behind the health level. This should be updated monthly before Key Reviews by the DRI. Should be an array (indented lines starting with dashes) even if you only have one reason.</td>
+</tr>
+<tr>
+<td><code>urls</code></td>
+<td>Optional</td>
+<td>list of urls associated with the (K)PI. Should be an array (indented lines starting with dashes) even if you only have one url</td>
+</tr>
+<tr>
+<td><code>funnel</code></td>
+<td>Optional</td>
+<td>indicates there is a handbook link for a description of the funnel for this PI. Should be a URL</td>
+</tr>
+<tr>
+<td><code>sisense_data</code></td>
+<td>Optional</td>
+<td>allows a Sisense dashboard to be embeded as part of the (K)PI using chart, dashboard, and embed as neseted attributes.</td>
+</tr>
+<tr>
+<td><code>sisense_data.chart</code></td>
+<td>Optional</td>
+<td>indicates the numeric Sisense chart/widget ID. For example: <code>9090628</code></td>
+</tr>
+<tr>
+<td><code>sisense_data.dashboard</code></td>
+<td>Optional</td>
+<td>indicates the numeric Sisense dashboard ID. For example: <code>634200</code></td>
+</tr>
+<tr>
+<td><code>sisense_data.shared_dashboard</code></td>
+<td>Optional</td>
+<td>indicates the numeric Sisense shared_dashboard ID. For example: <code>185b8e19-a99e-4718-9aba-96cc5d3ea88b</code></td>
+</tr>
+<tr>
+<td><code>sisense_data.embed</code></td>
+<td>Optional</td>
+<td>indicates the Sisense embed version. For example: <code>v2</code></td>
+</tr>
+<tr>
+<td><code>sisense_data_secondary</code></td>
+<td>Optional</td>
+<td>allows a second Sisense dashboard to be embeded. Same as <code>sisense data</code></td>
+</tr>
+<tr>
+<td><code>sisense_data_secondary.chart</code></td>
+<td>Optional</td>
+<td>Same as <code>sisense_data.chart</code></td>
+</tr>
+<tr>
+<td><code>sisense_data_secondary.dashboard</code></td>
+<td>Optional</td>
+<td>Same as <code>sisense_data.dashboard</code></td>
+</tr>
+<tr>
+<td><code>sisense_data_secondary.shared_dashboard</code></td>
+<td>Optional</td>
+<td>Same as <code>sisense_data.shared_dashboard</code></td>
+</tr>
+<tr>
+<td><code>sisense_data_secondary.embed</code></td>
+<td>Optional</td>
+<td>Same as <code>sisense_data.embed</code></td>
+</tr>
+<tr>
+<td><code>public</code></td>
+<td>Optional</td>
+<td>boolean flag that can be set to <code>false</code> where a (K)PI does not meet the public guidelines.</td>
+</tr>
+<tr>
+<td><code>pi_type</code></td>
+<td>Optional</td>
+<td>indicates the <a href="https://about.gitlab.com/handbook/product/performance-indicators/#structure">Product PI type</a> (Ex: AMAU, GMAU, SMAU, Group PPI)</td>
+</tr>
+<tr>
+<td><code>product_analytics_type</code></td>
+<td>Optional</td>
+<td>indicates if the metric is available on SaaS, SM (self-managed), or Both.</td>
+</tr>
+<tr>
+<td><code>is_primary</code></td>
+<td>Optional</td>
+<td>boolean flag that indicates if this is the Primary PI for the Product Group.</td>
+</tr>
+<tr>
+<td><code>implementation</code></td>
+<td>Optional</td>
+<td>indicates the implementation status and reasons as nested attributes. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>implementation.status</code></td>
+<td>Optional</td>
+<td>indicates the <a href="https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#implementing-product-performance-indicators">Implementation Status</a> status. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>implementation.reasons</code></td>
+<td>Optional</td>
+<td>indicates the reasons behind the implementation status. This should be updated monthly before Key Reviews by the DRI. Should be an array (indented lines starting with dashes) even if you only have one reason.</td>
+</tr>
+<tr>
+<td><code>lessons</code></td>
+<td>Optional</td>
+<td>indicates lessons learned from a K(PI) as a nested attribute. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>lessons.learned</code></td>
+<td>Optional</td>
+<td><code>learned</code> is an attribute that can be nested under <code>lessons</code>and indicates lessons learned from a K(PI). This should be updated monthly before Key Reviews by the DRI. Should be an array (indented lines starting with dashes) even if you only have one lesson learned</td>
+</tr>
+<tr>
+<td><code>monthly_focus</code></td>
+<td>Optional</td>
+<td>indicates monthly focus goals from a K(PI) as a nested attribute. This should be updated monthly before Key Reviews by the DRI.</td>
+</tr>
+<tr>
+<td><code>monthly_focus.goals</code></td>
+<td>Optional</td>
+<td>indicates monthly focus goals from a K(PI). This should be updated monthly before Key Reviews by the DRI. Should be an array (indented lines starting with dashes) even if you only have one goal</td>
+</tr>
+<tr>
+<td><code>metric_name</code></td>
+<td>Optional</td>
+<td>indicates the name of the metric in Self-Managed implemenation. The SaaS representation of the Self-Managed implementation should use the same name.</td>
+</tr>
+</tbody>
+</table>
