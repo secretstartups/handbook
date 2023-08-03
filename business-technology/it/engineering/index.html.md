@@ -38,7 +38,7 @@ The IT Development team also focuses on Identity and Access Management (IAM) and
 <details>
 <summary markdown="span">IT Development</summary>
 
-<a href="/handbook/business-technology/it/engineering/development/">Handbook Page</a><br />
+<a href="/handbook/it/engineering/development/">Handbook Page</a><br />
 <br />
 The IT Engineering Development team develops custom software applications, automation, APIs and integrations that support internal IT automation for business efficiency and processes managed by the IT department. <br />
 <br />
