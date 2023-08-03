@@ -749,47 +749,59 @@ If you would like to improve your skills or expand your knowledge on topics rela
 
 <table class="tg">
   <tr>
-    <th class="tg-0lax"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
-    <th class="tg-0lax">Demonstrates Diversity &amp; Inclusion Competency by…</th>
-    <th class="tg-0lax">Knowledge Assessment<br></th>
+    <th class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"><a href="https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades">GitLab Job Grade</a></th>
+    <th class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Demonstrates Diversity &amp; Inclusion Competency by…</th>
+    <th class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Demonstrates DIB Behaviors by…<br><i>(Should not be considered an exhaustive list)</i></th>
+    <th class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Knowledge Assessment<br></th>
+  </tr>
+ <tr>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">4</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Learns to understand the impact of biases. Gathering more information about the skills needed to be accountable for their actions, apologizes and learn.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc><li>Complete Neurodiversity and other <a href="https://about.gitlab.com/company/culture/inclusion/">DIB</a> training and/or other company wide training to further education on DIB</li><li>Attend or view the Monthly DIB Initiatives Call</li><li>Participate in a DIB Initiative: join <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRGs</a> you identify with, support other groups as an Ally, attend events, "like" slack posts and spread the word<br><li>Participate in a TMRG initiative</li><li>Member of a working group related to a DIB initiative, e.g. participate in a <a href="https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/">Mentorship</a> program</li></ul></td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"></td>
+ </tr>
+  <tr>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">5</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Develops an understanding of the impact of biases; seeks to learn more about their own biases. Is accountable for their actions, apologizes and learns from their mistakes.</td>
+    <td class="tg-0lax" rowspan="3" style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc><li>Complete Neurodiversity and other <a href="https://about.gitlab.com/company/culture/inclusion/">DIB</a> training and/or other company wide training to further education on DIB</li><li>Attend DIB Initiatives Calls to stay informed and connected with ongoing efforts and discussions</li><li>Participate in a DIB Initiative: join <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRGs</a> you identify with, support other groups as an Ally, attend events, "like" slack posts and spread the word<br><li>Participate in a TMRG initiative</li><li>Member of a working group related to a DIB initiative, e.g. participate in a <a href="https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/">Mentorship</a> program</li></ul></td>
+    <td class="tg-0lax" rowspan="3" style="border:gray; border-width:0.5px; border-style:solid;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScwmN71M4BR3wHgHP7niVllo70BY2HT1nM2uxsxHc4Mz7cRcA/viewform">Knowledge Assessment for Individual Contributors</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Develops an understanding of the impact of biases; seeks to learn more about their own biases. Is accountable for their actions, apologizes and learns from their mistakes.</td>
-    <td class="tg-0lax" rowspan="3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScwmN71M4BR3wHgHP7niVllo70BY2HT1nM2uxsxHc4Mz7cRcA/viewform">Knowledge Assessment for Individual Contributors</a></td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">6</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Has a growing understanding of the impact of biases; fosters a sense of inclusion and belonging on their team. Holds themselves and peers accountable for upholding this value by kindly pointing out when mistakes might be made. Encourages an inclusive team environment where differences are encouraged and everyone can contribute.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">6</td>
-    <td class="tg-0lax">Has a growing understanding of the impact of biases; fosters a sense of inclusion and belonging on their team. Holds themselves and peers accountable for upholding this value by kindly pointing out when mistakes might be made. Encourages an inclusive team environment where differences are encouraged and everyone can contribute.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"><br>7</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Actively aware of how bias or exclusion might occur on a team and helps to facilitate a team environment where team members belong and feel safe. Models empathy with their interactions with customers and cross functional team members.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
-    <td class="tg-0lax">Actively aware of how bias or exclusion might occur on a team and helps to facilitate a team environment where team members belong and feel safe. Models empathy with their interactions with customers and cross functional team members.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">8</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Implements best practices to limit bias on their team. They ensure blameless accountability is practiced throughout their team. Creates an environment where team members feel safe to share ideas and welcomes individual differences.</td>
+    <td class="tg-0lax" rowspan="2" style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc><li>Complete Neurodiversity and other <a href="https://about.gitlab.com/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab">DIB</a> training and/or other company wide training to further education on DIB</li><li>Attend DIB Initiatives Calls to stay informed and connected with ongoing efforts and discussions</li><li>Participate in a DIB Initiative: join <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRGs</a> you identify with, support other groups as an Ally, attend events, like posts and spread the word<br><li>Participate in a TMRG initiative</li><li>Member of a working group related to a DIB initiative, e.g. participate in a <a href="https://about.gitlab.com/handbook/people-group/learning-and-development/mentor/">Mentorship</a> program</li><li>Hiring Manager ensure a diverse candidate slate and interview panel</li><li>Active participant and advocate for department DIB goals</li></ul></td>
+    <td class="tg-0lax" rowspan="6" style="border:gray; border-width:0.5px; border-style:solid;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSel_U-audrhPvDlHFAbxF7Jvn5prDns2p8iGzWOTbL1oGraxg/viewform">Knowledge Assessment for People Leaders</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">8</td>
-    <td class="tg-0lax">Implements best practices to limit bias on their team. They ensure blameless accountability is practiced throughout their team. Creates an environment where team members feel safe to share ideas and welcomes individual differences.</td>
-    <td class="tg-0lax" rowspan="6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSel_U-audrhPvDlHFAbxF7Jvn5prDns2p8iGzWOTbL1oGraxg/viewform">Knowledge Assessment for People Leaders</a></td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">9</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Proactively finds ways of facilitating an inclusive team environment and assesses processes to protect against unconscious bias. They hold their team members accountable including cross functional stakeholders. Promotes individual differences across their team and other departments.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">9</td>
-    <td class="tg-0lax">Proactively finds ways of facilitating an inclusive team environment and assesses processes to protect against unconscious bias. They hold their team members accountable including cross functional stakeholders. Promotes individual differences across their team and other departments.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">10</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Drives diversity, inclusion and sense of belonging across their department. They hold their managers and peers accountable for upholding this value. They are actively involved in the execution of D&amp;I strategies and encourage others to participate.</td>
+    <td class="tg-0lax" rowspan="2" style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc><li>Advocate to include DIB into your division's KPIs/OKR, e.g. Neurodiversity training, amplify DIB Council</li><li>Attend DIB Initiatives Calls to stay informed and connected with ongoing efforts and discussions</li><li>Represent GitLab at an in person or virtual recruiting event hosted by the Talent Brand team, e.g. <a href="https://blackistechconference.com/">Black is Tech</a>, <a href="https://ghc.anitab.org/">Grace Hopper</a></li></ul></td>
   </tr>
   <tr>
-    <td class="tg-0lax">10</td>
-    <td class="tg-0lax">Drives diversity, inclusion and sense of belonging across their department. They hold their managers and peers accountable for upholding this value. They are actively involved in the execution of D&amp;I strategies and encourage others to participate.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">11</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Embeds the value of Diversity &amp; Inclusion across their division and finds opportunities to limit the impact of bias on decision making processes. Uses feedback and data to formulate a strategy on how to make improvements. They hold their management teams accountable for upholding the value.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">11</td>
-    <td class="tg-0lax">Embeds the value of Diversity &amp; Inclusion across their division and finds opportunities to limit the impact of bias on decision making processes. Uses feedback and data to formulate a strategy on how to make improvements. They hold their management teams accountable for upholding the value.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">12</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Leads with the value of Diversity &amp; Inclusion across the company and finds opportunities to limit the impact of bias on decision making processes. They sponsor internal initiatives to increase trust, psychological safety and inclusion. They hold their senior management and the e group accountable for upholding this value.</td>
+    <td class="tg-0lax"><ul style=“list-style-type:disc><li>Advocate and Integrate DIB into your organizational KPIs/OKRs, e.g.OKR: continue to build and grow a diverse workforce/organization</li><li>Partner with the <a href="https://about.gitlab.com/company/culture/inclusion/">DIB Team</a> & <a href="https://about.gitlab.com/company/culture/inclusion/leadership-dib-council/">Leadership DIB Council</a> to establish an action plan for your departments & division</li><li>Serve as an <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRG</a> executive sponsor</li><li>Embed DIB into All hands or in person events e.g.review organizations OKR as it relates to DIB progress, champion trainings related to further DIB knowledge, invite guest speakers to advocate</li></ul></td>
   </tr>
   <tr>
-    <td class="tg-0lax">12</td>
-    <td class="tg-0lax">Leads with the value of Diversity &amp; Inclusion across the company and finds opportunities to limit the impact of bias on decision making processes. They sponsor internal initiatives to increase trust, psychological safety and inclusion. They hold their senior management and the e group accountable for upholding this value.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">EVP/CXO</td>
-    <td class="tg-0lax">Champions the value of Diversity, Inclusion and Belonging into the company's strategy. They champion and sponsor internal and external D&amp;I initiatives. They speak to the importance of this value in company-wide meetings. They hold their leaders and other e group members accountable for upholding this value. They continuously seek ways to increase trust, psychological safety and inclusion across the broader company.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">EVP/CXO</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Champions the value of Diversity, Inclusion and Belonging into the company's strategy. They champion and sponsor internal and external D&amp;I initiatives. They speak to the importance of this value in company-wide meetings. They hold their leaders and other e group members accountable for upholding this value. They continuously seek ways to increase trust, psychological safety and inclusion across the broader company.</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"></td>
   </tr>
 </table>
 
