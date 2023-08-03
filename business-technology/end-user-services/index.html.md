@@ -150,9 +150,7 @@ To learn more on how this automation works, check the [IT-Help Slack Issue Creat
 
 - IT Analyst Americas - [Jenny Wong](https://about.gitlab.com/company/team/#jwong6), jwong@gitlab.com, @jwong6
 
-- IT Analyst Americas - Mic Rohr, mrohr-ext@gitlab.com, @mrohr-ext
-
-- IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
+- Senior IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 
 - IT Analyst APAC -  [Max Hirata](https://about.gitlab.com/company/team/#mhirata-gl), mraetz@gitlab.com, @mhirata-gl
 
