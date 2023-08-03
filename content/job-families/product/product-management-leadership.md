@@ -235,7 +235,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### Senior Director of Product Management
 
-This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [Chief Product Officer](chief-product-officer/).
 
 #### Senior Director of Product Management - Job Grade
 
@@ -285,7 +285,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### VP of Product Management
 
-This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](https://about.gitlab.com/job-families/product/chief-product-officer/).
+This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](chief-product-officer/).
 
 #### VP of Product Management - Job Grade
 
@@ -325,12 +325,21 @@ Candidates for this position can expect the hiring process to follow the order b
 
 #### VP of Product Management - Specialties
 
-##### Ops & Analytics
+##### Dev & Analytics
 
-The VP of Product Management - Ops & Analytics is the PM DRI for the Ops and Analytics Sections which include:
+The VP of Product Management - Dev & Analytics is the PM DRI for the Dev and Analytics Sections which include:
 
-- [Ops Section](https://about.gitlab.com/handbook/product/categories/#ops-section) - Monitor, Configure, Verify, Package, and Release Stages
+- [Dev Section](https://about.gitlab.com/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
 - [Analytics Section](https://about.gitlab.com/handbook/product/categories/#analytics-section) - Analyze Stage
+
+##### CI/CD, Enablement, & SaaS Platforms
+
+The VP of Product Management - CI/CD, Enablement, & SaaS Platforms is the PM DRI for the CI, CD, Enablement, & SaaS Platforms Sections which include:
+
+- [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) - Verify & Package Stages
+- [CD Section](https://about.gitlab.com/handbook/product/categories/#cd-section) - Deploy Stage
+- [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
+- [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
 
 ### Senior Director of Product Monetization
 
