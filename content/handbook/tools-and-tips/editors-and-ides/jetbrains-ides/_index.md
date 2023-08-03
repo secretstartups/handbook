@@ -86,7 +86,8 @@ If you need help, ask in one of the [Chat Groups](#chat-groups)!
 
 ## Chat Groups
 
-- [`#jetbrains-ide-users` internal Slack channel](https://gitlab.slack.com/archives/CR08PTQ6T).
+- [`#jetbrains-ide-users` internal Slack channel for GitLab team members](https://gitlab.slack.com/archives/CR08PTQ6T).
+- [`#ext-jetbrains-gitlab-support`] shared Slack channel for JetBrains and GitLab team members](https://gitlab.slack.com/archives/C05KXC04AAX)
 - Public discord channel (TODO: create this!)
 
 ## Licenses
