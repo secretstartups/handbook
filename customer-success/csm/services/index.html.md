@@ -18,6 +18,23 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 For an overview of CSM segments by ARR, please see [this wiki page](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/Segments)(Internal GitLab only)
 
+## Pillars of Success
+There are 7 pillars that we have identified as crucial for success as CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
+- Communication
+  - Frequent and honest communication with customers and internal stakeholders, so everyone knows what is happening and what to expect, in line with [GitLab communication guidelines](/handbook/communication/)
+- Follow-through
+  - You never leave a customer without an answer/reply, and you always do what you’ve said you’ll do
+- Organization & Documentation
+  - You have your tasks organized and prioritized, and it’s easy for someone to quickly understand what’s going on with any given account by looking at Gainsight
+- Relationship-building
+  - Both customers and internal team members trust you
+- Proactivity
+  - You don’t wait to be told what to do, you have [short toes](/handbook/values/#short-toes) and a [bias for action](/handbook/values/#bias-for-action), and you plan for customer strategy in collaboration with your go-to-market team.
+- Assertiveness
+  - You are comfortable telling customers what they need to do as their trusted advisor, as well as working internally to get what you need from others
+- Perceptiveness
+  - You can “read between the lines” of what a customer is saying and identify what they need, not necessarily what they say they want
+
 ## Responsibilities and Services
 
 There are various services a Customer Success Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab and their utilization of GitLab's products and services. These services typically include the following. Please note this list is not definitive, and more services may be provided than listed or some may not be offered, depending on the size and details of the account.
