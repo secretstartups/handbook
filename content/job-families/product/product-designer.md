@@ -189,7 +189,7 @@ Here are some helpful tips for when you are sharing a case study:
 
 - A formal presentation is not required but it is helpful to bring your materials together. We recommend not sharing entire design files as it can be difficult for an interviewer to follow along.
 - Clearly outlined user and business problems that you were solving and how you learned about them.
-- What yout role was (for example, who did you work with and what was your responsibility).
+- What your role was (for example, who did you work with and what was your responsibility).
 - The details of the design process (polished visuals are fine but you may want to include the sketches, wireframes, prototypes, or the ideas that didn’t make it).
 - The result of your work (learnings, successfully achieved goals, impact on key metrics).
 
