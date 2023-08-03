@@ -42,3 +42,4 @@ title: Individual Use Software
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
 |Microsoft Office- Home & Business|Green|N/A| Approval applies to the offline version only. Usage of Microsoft Outlook is not approved. Microsoft Office 365 is not approved.|
 | Parallels Desktop Pro | Green | N/A | Approval applies to Parallels Desktop only, not to the optional "Parallels Toolbox" utilities that can be installed separately. |
+| Krisp.ai | Orange | 08/03/2023 | Usage of the AI transcription feature and connection with GitLab calendar are **not** approved. See settings recommendation [here](https://docs.google.com/document/d/1HLqzG7Xg71-lyoBy-DM-AyH8h_aeMpdE7lKhNT31H3E/edit).|
