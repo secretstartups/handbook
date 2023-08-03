@@ -206,20 +206,20 @@ If you have any questions or require assistance please reach out to the IT team 
 
 ## Why isn't an application I need available in Okta?
 
-Create a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) and fill in as much information as you can.
+Create a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=okta_new_app_request) and fill in as much information as you can.
 
 Okta is currently configured with assigned groups/roles based on a team member's role/group.
 Refer to the [Access Change Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#access-change-request) section of the handbook for additional information on why an application may not be available in Okta.
 
 ### How do I get my application set up within Okta?
 
-If you are an application owner please submit a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) on the Okta project page for your application.
+If you are an application owner please submit a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=okta_new_app_request) on the Okta project page for your application.
 We will work with you to verify details and provide setup instructions.
 
 ### I have an application that uses a shared password for my team, can I move this to Okta?
 
 Yes you can!
-Submit a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) on the Okta project page for your application.
+Submit a [new application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=okta_new_app_request) on the Okta project page for your application.
 We will work with you to verify details and provide setup instructions.
 
 If you are having problems with being asked for multiple MFA authentications during the day, please [log an issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues) and we can look into it.
