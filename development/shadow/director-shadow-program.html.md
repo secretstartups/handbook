@@ -142,6 +142,33 @@ For non-GitLab team member shadows:
 
 No, not at this time.
 
+## Schedule
+
+| Week of | Shadow(s) | Role | 
+| ------ | ------ | ----- |
+| August 7   |  [Julia Lopez- Manager - Animation & Gaming Technical Support at Netflix](https://www.linkedin.com/in/julia-lopez-841b41a/) and [Reggie Skillman - Military Veteran tenured in Aerospace and Software Stack](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadows  |
+| August 14  |  Available | |
+| August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
+| August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
+| September 4|  Not Available | |
+| September 11 |  Available     |       |
+| September 18 |  Available     |       |
+| September 25 |  Available     |       |
+| October 2  |  Available | |
+| October 9  |  Available | |
+| October 16 |  Available | |
+| October 23 |  Available | |
+| October 30 |  Available | |
+| November 6 |  Available | |
+| November 13|  Available | |
+| November 20|  Not available | |
+| November 27|  Available | |
+| December 4 |  Available | |
+| December 11|  Available | |
+| December 18|  Available | |
+| December 25|  Not Available | |
+
+
 ## Shadow Alumni
 
 | Shadow | Department | 
@@ -173,32 +200,4 @@ No, not at this time.
 | [Fazal Ur-Rehman](https://www.linkedin.com/in/fazal-ur-rehman-805571128/) | Associate Team Lead at [LexisNexis](https://www.lexisnexis.com/) |
 | [Caden Wright](https://www.linkedin.com/in/caden-wright-643953200/) | Non-Gitlab shadow: CS Student at [University of Virginia](https://www.virginia.edu/) |
 | [Alejandro Mogollon Medina](https://gitlab.com/mellab) | Non-GitLab shadow: GitLab Hero & HashiCorp Ambassador  |
-
-
-## Schedule
-
-| Week of | Shadow(s) | Role | 
-| ------ | ------ | ----- |
-| July 31    |  [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GitLab shadow - engineering leader |
-| August 7   |  [Reggie Skillman - Military Veteran tenured in Aerospace and Software Stack](https://www.linkedin.com/in/reggie1/) and [Julia Lopez- Manager - Animation & Gaming Technical Support at Netflix](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadows  |
-| August 14  |  Available | |
-| August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
-| August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
-| September 4|  Not Available | |
-| September 11 |  Available     |       |
-| September 18 |  Available     |       |
-| September 25 |  Available     |       |
-| October 2  |  Available | |
-| October 9  |  Available | |
-| October 16 |  Available | |
-| October 23 |  Available | |
-| October 30 |  Available | |
-| November 6 |  Available | |
-| November 13|  Available | |
-| November 20|  Not available | |
-| November 27|  Available | |
-| December 4 |  Available | |
-| December 11|  Available | |
-| December 18|  Available | |
-| December 25|  Not Available | |
-
+| [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GitLab shadow - engineering leader |
