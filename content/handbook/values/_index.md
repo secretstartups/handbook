@@ -431,7 +431,7 @@ We demonstrate results when we do what we promised to each other, customers, use
     <td class="tg-0lax">Applies commitment to results and demonstrates ability to execute on agreed actions.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Models a sense of urgency and commitment to deliver results.</td>
   </tr>
   <tr>
@@ -569,7 +569,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
     <td class="tg-0lax">Develops a deeper understanding of efficiency and actively identifies process inefficiencies within the team. Seeks out ways to be more effective in their role, while also starting to mentor others in ways to work efficiently.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Models a culture of efficiency within the team where people make good, timely decisions using available data and assessing multiple alternatives. Models using boring solutions for increasing the speed of innovation for our organization and product.</td>
   </tr>
   <tr>
@@ -771,7 +771,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Has a growing understanding of the impact of biases; fosters a sense of inclusion and belonging on their team. Holds themselves and peers accountable for upholding this value by kindly pointing out when mistakes might be made. Encourages an inclusive team environment where differences are encouraged and everyone can contribute.</td>
   </tr>
   <tr>
-    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"><br>7</td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">7</td>
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Actively aware of how bias or exclusion might occur on a team and helps to facilitate a team environment where team members belong and feel safe. Models empathy with their interactions with customers and cross functional team members.</td>
   </tr>
   <tr>
@@ -996,7 +996,7 @@ We demonstrate iteration when we do the smallest viable and valuable thing, get 
     <td class="tg-0lax">Actively looks for opportunities to iterate and contribute to boring solutions. Balances short term gains and long term benefit with team’s help. Ships things that aren't 100% knowing that you'll be able to improve them in the next revision. Asks questions with abandon. Publicly shares failures if you'll help colleagues learn.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Independently balances short term gains and long term benefit. Identifies opportunities to deliver projects in an iterative way.</td>
   </tr>
   <tr>
@@ -1140,7 +1140,7 @@ We demonstrate transparency when we are open with as many things as possible red
     <td class="tg-0lax">Provides context and background on projects and issues so that those with no prior knowledge are able to contribute to the discussion. They welcome feedback and new ideas as they know that will lead to a better solution.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Continually surfaces improvements across their functional area of expertise. They share feedback with others and understand how to disagree and commit to solutions. They model what it means to be as open as possible. They encourage conversation in public channels.</td>
   </tr>
   <tr>
