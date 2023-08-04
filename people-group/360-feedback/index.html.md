@@ -82,6 +82,8 @@ The FY'24 360 Feedback Cycle will be optional company-wide. To sign up, **all te
 - Make sure that you [fulfill the requirements](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-requirements) for participation and that you have an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) (or equivalent) in place prior to the 360 Feedback launch
 - Review [the guidelines](https://about.gitlab.com/handbook/people-group/360-feedback/#is-the-360-process-right-for-me) to determine whether the 360 Feedback process is right for you
 
+Team members that sign up and meet the eligibility requirements will receive an invtation from CultureAmp at the start of the [Nomination Phase](https://about.gitlab.com/handbook/people-group/360-feedback/#timeline-fy24).  Team members that sign up and **do not** meet the eligibility requirements will be notified by their People Business Partner. 
+
 ## 360 Structure
 
 We utilize [Culture Amp](https://gitlab.cultureamp.com/) to administer 360 Feedback. The 360 Feedback cycle in CultureAmp consists of a Self review, Manager review and Peer reviews. 
@@ -302,6 +304,8 @@ Troubleshooting for common questions during the 360 process.
    1. First, sign into CultureAmp to see if you submitted your nominations or if you saved them as a draft. If it is in draft mode you can adjust the nominations yourself. 
    1. If it has been submitted - reach out to your coach/manager. They are able to make these adjustments within CultureAmp. 
 
+1. Where can I give feedback about the 360 feedback process?  
+   1. Team members are encouraged to contribute to [this issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/1595) with feedback based on their experience in the 360 feedback process.
 
 
 
