@@ -780,7 +780,10 @@ Zoominfo sends inbound files to Gitlab via Snowflake data share. Shared database
 * `"GITLAB_CONTACT_ENHANCE_SOURCE"` - User table company matched table which appends company information to the user list Gitlab sends to zoominfo. Gitlab sends Zoominfo only once but the appended data can be refreshed quarterly. 
 
 ## Adaptive
+Note: Starting in August 2023, the `tap-adaptive` Meltano extract has been **deprecated** and replaced with a custom extract for `exportData`, [deprecation issue](https://gitlab.com/gitlab-data/analytics/-/issues/17935).
  
+
+<details><summary>Deprecated meltano-adaptive process</summary>
 Adaptive has been implemented as part of this [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/6237). The tap is reponsible for 100% sync for every refresh and executed via Meltano via the TAP-ADAPTIVE. 
  
 Below is the list of the relevant endpoints in Adaptive. The end points available and more information around the end point is present [here](https://adaptiveplanning.doc.workday.com/r/DG7oXjCPB6kIw6Th6awNUg/r2Yl8CztW98XTEeX1vKtgQ)
@@ -838,6 +841,7 @@ To run the TAP it required 2 enviornment variable named `TAP_ADAPTIVE_USERNAME` 
 ```
  
 The Schedule is set to run daily at midnight.
+</details>
 
 
 ## ZenGRC
@@ -938,3 +942,41 @@ Once the upstream data is in GCS, the following steps take place, ([Analytics MR
 - `t_omamori_external` DAG runs the following every hour:
     - Snowflake `external table` referring to each Omamori table is refreshed
     - dbt incremental source model is updated based on any new data in the external table
+
+## Adaptive - Custom Extract
+
+#### Background
+Previously Adaptive data was being extracted via [Meltano tap-adaptive](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive).
+
+However, there was no easy way in Meltano to take the output of one stream, `exportVersions`, and use it to run another stream `exportData` 'n' times where 'n' is the number of versions returned from the former stream.
+
+As such, this solution was converted into a custom extract. The work was done in this [Epic](https://gitlab.com/groups/gitlab-data/-/epics/804).
+
+#### Purpose of this extract
+The [Adaptive API exportData](https://doc.workday.com/adaptive-planning/en-us/integration/managing-data-integration/api-documentation/metadata-and-data-create-update-and-read-methods/mdn1623709213322.html) endpoint returns both Forecasted and Actual metrics. These metrics are used in the 'Executive Dashboard' in Tableau.
+
+Currently, only the `account_codes` associated with the metrics used in the `executive dashboard` are extracted (i.e. Net ARR). 
+It would have been easy to extract all account_codes at once, but we are not doing that because some of the account_codes are associated with `MNPI` data.
+
+#### Querying the data
+The data can be queried like so:
+```sql
+SELECT *
+FROM RAW.ADAPTIVE_CUSTOM.reporting
+WHERE
+  version = 'Shared to Data - FY24 Plan'
+  AND account_name = 'Net ARR Bookings';
+```
+
+#### How the code works
+The code is in the [Adaptive extract repo](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/adaptive). 
+
+In the Adaptive system, versions are organized in a file-like hierarchy. There is one folder that finance has set aside for this extract called `Shared with Data`. 
+
+Within this folder are finalized versions (reports) that need to be uploaded to Snowflake. The code checks this folder daily to see if there are any new versions that haven't been uploaded yet.
+
+If there are new versions in the folder, the following happens:
+- an API call to `exportData` is made to export that data
+- the exported data is loaded into the `reporting` table in Snowflake
+- the version name is inserted into the `processed` table in Snowflake so that it won't be processed again.
+
