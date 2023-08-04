@@ -51,7 +51,9 @@ A count of all open observations mapped to the related system is multiplied by t
 
 This approach takes a "pure count" approach where a score is calculated for a system based on pure count of observations mapped to it in our GRC tool ZenGRC, even if the observation may also be mapped to another system as well (1:many mappings are OK). Observations are also not consolidated for calculation, meaning we do not group multiple observations for one control together into one for purposes of calculating a score if each observation could be treated independently in remedation.
 
-The target system risk score for GitLab systems is 3.00. System with a risk score higher than this have a greater amount of security risk.
+##### Target System Risk Score
+
+**The target system risk score for GitLab systems is 3.00.** System with a risk score higher than this have a greater amount of security risk.
 
 Note: This change in methodology no longer places systems on a 1-5 scale and instead systems are eligible for a score of any number greater than or equal to 1. 
 
