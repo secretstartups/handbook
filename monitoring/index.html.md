@@ -59,7 +59,8 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2023 July | TBD |  |
+| 2023 August | TBD |  |
+| 2023 July | 99.78% | Two severity 1 incidents contributed to ~94% of service disruption.  [2023-07-07](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/15997), [2023-07-14](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/16042) |
 | 2023 June | 100% |  |
 | 2023 May | 99.92% |  |
 | 2023 April | 99.98% |  |
