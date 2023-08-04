@@ -399,7 +399,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday August 3 | Development | Christopher Lefelhocz | July 26 |
 | Tuesday August 8 | **Available** | DRI | Key Review Date |
 | Wednesday August 9 |  **Available** | DRI | Key Review Date |
-| Thursday August 10 |  Product | DRI | - |
+| Thursday August 10 |  ** Available** | DRI | Key Review Date |
 | Tuesday August 15 | **Available** | DRI | Key Review Date |
 | Wednesday August 16 | **Available** | DRI | Key Review Date |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
@@ -413,7 +413,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday September 6 |**Available** | DRI | Key Review Date |
 | Thursday September 7 | **Available** | DRI | Key Review Date |
 | Tuesday September 12 | CRO - Commercial | COMM Leadership | |
-| Wednesday September 13 | **Available** | DRI | Key Review Date |
+| Wednesday September 13 |  Product | DRI | - | 
 | Thursday September 14 | **Available** | DRI | Key Review Date |
 | Tuesday September 19 | **Available** | DRI | Key Review Date | 
 | Wednesday September 20 | Support | Lyle Kozloff, Lee Matos | September 7 |
