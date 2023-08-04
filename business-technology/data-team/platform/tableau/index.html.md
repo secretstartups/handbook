@@ -142,7 +142,7 @@ Please see the [project-permission-structure](/handbook/business-technology/data
 | Data: BI Platform             | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`, `@snalamaru` | Top Level Project Leader | Maintainer |
 | Data                          | `@ttnguyen28`, `@iweeks`, `@pempey`, `@nmcavinue`               | Sub-Project Leader       | Code Owner |
 | Customer Success              | `@jdbeaumont`,  `@aileenlu`                                     | Sub-Project Leader       | Code Owner |
-| Marketing                     | `@christinelee`, `@jahye1`                                      | Sub-Project Leader       | Code Owner |
+| Marketing                     | `@degan`                                      | Sub-Project Leader       | Code Owner |
 | People                        | `@aperez349`, `@mccormack514`                                   | Sub-Project Leader       | Code Owner |
 | Product                       | `@cbraza`                                                       | Sub-Project Leader       | Code Owner |
 | Engineering                   | `@cdeleon_gitlab`, `@gitlab-org/quality/engineering-analytics`  | Sub-Project Leader       | Code Owner |
