@@ -4,9 +4,15 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. Senior Engineering Managers may or may not manage engineering managers in their role but they must be capable of managing [Backend Engineering Managers](/job-families/engineering/development/backend/manager/),
-[Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/),
-and [Fullstack Engineering Managers](/job-families/engineering/development/management/fullstack-manager/).
+Engineering Managers at GitLab see their team as their product.
+While they are technically credible and know the details of what engineers work on,
+their time is spent safeguarding their team's health, hiring a world-class team,
+and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity.
+They must also coordinate across departments to accomplish collaborative goals.
+Engineering Leadership at GitLab is cross-discipline.
+A [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager)
+manages [Engineering Managers](/job-families/engineering/development/management/engineer-manager/)
+with fullstack teams (frontend, backend, and fullstack engineers), and/or Engineering Individual Contributors (frontend, backend, and fullstack engineers)
 
 ## Responsibilities
 

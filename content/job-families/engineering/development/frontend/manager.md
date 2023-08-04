@@ -42,7 +42,7 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 - [Intermediate](https://about.gitlab.com/job-families/engineering/development/frontend/intermediate/)
 - [Senior](https://about.gitlab.com/job-families/engineering/development/frontend/senior/)
 - [Staff](https://about.gitlab.com/job-families/engineering/development/frontend/staff/)
-- [Manager](https://about.gitlab.com/job-families/engineering/development/frontend/manager/)
+- [Manager](https://about.gitlab.com/job-families/engineering/development/management/engineering-manager/)
 
 ## Job Grade
 
