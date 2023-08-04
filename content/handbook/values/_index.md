@@ -242,7 +242,7 @@ We demonstrate collaboration when we take action to help others and include othe
     <td class="tg-0lax">Grows collaboration skills by using different types of communication; files issues appropriately, asks in the right Slack channels and uses the right labels.</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><br>7</td>
+    <td class="tg-0lax">7</td>
     <td class="tg-0lax">Models collaborative behavior for fellow team members and others within the group.</td>
   </tr>
   <tr>
