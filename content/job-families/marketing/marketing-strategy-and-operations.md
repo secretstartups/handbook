@@ -1,17 +1,17 @@
 ---
-title: "Marketing Strategy and Platforms"
+title: "Marketing Operations and Analytics"
 summary: " "
 ---
 
 ## Levels
 
-### Sr. Director, Marketing Strategy and Platforms
+### Senior Director, Marketing Operations and Analytics
 
-#### Sr. Director, Marketing Strategy and Platforms Job Grade
+#### Senior Director, Marketing Operations and Analytics Job Grade
 
-The Director, Marketing Strategy is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Marketing Operations and Analytics is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Sr. Director, Marketing Strategy and Platforms Responsibilities
+#### Senior Director, Marketing Operations and Analytics Responsibilities
 
 - Build, lead, and inspire a team of highly skilled analytics professionals, web developers, and marketing operations professionals who deliver impactful business insights and results
 - Manage the global marketing planning process including headcount and program spend.
@@ -28,7 +28,7 @@ The Director, Marketing Strategy is a [grade 11](https://about.gitlab.com/handbo
 - Drive cross functional marketing programs such as product launch and introduction and localization. Drive key initiatives and projects for the Chief Marketing Officer.
 - Be a trusted advisor to Marketing Leadership
 
-#### Sr. Director, Marketing Strategy and Platforms Requirements
+#### Senior Director, Marketing Operations and Analytics Requirements
 
 - 15+ years of experience in a global SaaS marketing or marketing operations environment. Preference for Marketing Strategy, Marketing Operations, Strategy Consulting or Corporate Strategy
 - BA/BS degree, MBA Preferred
@@ -44,22 +44,22 @@ The Director, Marketing Strategy is a [grade 11](https://about.gitlab.com/handbo
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
-### VP, Marketing Strategy and Platforms
+### VP, Marketing Operations and Analytics
 
-#### VP Marketing Strategy and Platforms Job Grade
+#### VP, Marketing Operations and Analytics Job Grade
 
-The VP, Marketing Strategy is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
+The VP, Marketing Operations and Analytics is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)).
 
-#### VP, Marketing Strategy and Platforms Responsibilities
+#### VP, Marketing Operations and Analytics Responsibilities
 
-- Extends that of the Sr. Director, Marketing Strategy and Platforms responsibilities
+- Extends that of the Senior Director, Marketing Operations and Analytics responsibilities
 - Thought leader defining overall go-to-market data collection
 - Thought leader defining GitLab’s approach to A/B testing
 - Lead creation of multiple key marketing strategy initiatives and programs with CMO.
 
-#### VP, Marketing Strategy and Platforms Requirements
+#### VP, Marketing Operations and Analytics Requirements
 
-- Extends that of the  Sr. Director, Marketing Strategy and Platforms
+- Extends that of the  Senior Director, Marketing Operations and Analytics
 - 20+ years of experience in a global SaaS marketing or marketing operations environment. Preference for Marketing Strategy, Marketing Operations, Strategy Consulting or Corporate Strategy
 Requirements
 
