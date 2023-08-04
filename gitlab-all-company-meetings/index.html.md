@@ -27,7 +27,7 @@ Timing of team member touchpoints:
 
 The CEO has a Quarterly Kickoff in the first month of each quarter.
 
-This is a forum to review our long-term goals, recognize progress made in the previous quarter, recap significant recent events, and discuss what we aim to accomplish in the coming quarter. Material shared is internal only.
+This is a forum to review our long-term goals, recognize progress made in the previous fiscal quarter, recap any significant recent events, and discuss our aims for the upcoming fiscal quarter. Material shared is internal only.
 
 The Quarterly Kickoff is followed by an AMA hosted by the CEO.
 
