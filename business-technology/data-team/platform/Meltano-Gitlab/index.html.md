@@ -412,4 +412,5 @@ Follow below steps to copy the meltano.yml to the running container to test the 
 - [tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) 
 - [tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc)
 - [tap-adaptive](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-adaptive)
+    - As of August 2023, this extraction is deprecated in favor of a more custom solution
 - [tap-edcast](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-edcast)
