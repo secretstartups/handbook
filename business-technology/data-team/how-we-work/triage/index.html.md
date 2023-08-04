@@ -463,7 +463,7 @@ Validate in [GCS storage](https://console.cloud.google.com/storage/browser/zuora
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
-We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
+We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Triage:%20Data%20Triage)
 
 **If any issue is found do we directly jump to fix it in production or take it as part of the incident and solve it within the defined time?** <br>
 On the Triage day the data team member present will look for all the failures, questions or errors in:
