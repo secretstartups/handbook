@@ -42,7 +42,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. On the merge request page, locate the **Assignee** section in the upper right-hand corner (you might have to select the double arrow at the top right of the screen to expand the pane). Ensure the merge request is assigned to yourself.
 1. Select the **Changes** tab directly below the merge request title.
 1. Hover over line 3 of the left side of the table (which contains the changes in your commit) and select the **comment icon**.
-1. In the comment field, type `this is a comment` and select **Start a review**. You’d normally add more comments to your review before submitting them all at once, but for this lab just select **Submit review** to submit your single comment.
+1. In the comment field, type `this is a comment` and select **Start a review**. You’d normally add more comments to your review before submitting them all at once, but for this lab select **Finish Review** then **Submit review** to submit your single comment.
 1. Pretend that someone has seen your comment and added another commit to address it. Select **Resolve thread** to show that the comment has been dealt with.
 
 ### E.Merge the branch and close the merge request
