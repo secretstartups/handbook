@@ -150,7 +150,7 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ## Engineering Management Roles at GitLab
 
-View the [engineering management](/job-families/engineering/backend-engineer/#engineering-management-roles-at-gitlab) job family page for more details on engineering management roles.
+View the [Engineering Manager](/job-families/engineering/development/management/engineering-manager/) job family page for more details on engineering management roles.
 
 ---
 

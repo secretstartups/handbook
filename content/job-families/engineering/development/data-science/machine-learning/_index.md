@@ -143,13 +143,13 @@ The Engineering Manager in the Engineering Division is a [grade 8](/handbook/tot
 
 - Leverage their knowledge to lead teams of machine learning engineers and other engineers to tune, train, and create unique ML models, test 3rd party models using decision science, and create/maintain components to apply machine learning to the GitLab product
 - Lead teams at GitLab develop and implement models to support and enable experimental, beta, and generally available AI features in GitLab.
-- Additional [engineering manager responsibilities](/job-families/engineering/development/management/fullstack-manager/#responsibilities)
+- Additional [engineering manager responsibilities](/job-families/engineering/development/management/engineering-manager/#responsibilities)
 
 ### Engineering Manager Machine Learning Requirements
 
 - 5 or more years of experience in ML, **or** a PhD degree with a focus on Machine Learning
 
-Standard [Engineering Manager requirements](/job-families/engineering/development/management/fullstack-manager/#requirements) including
+Standard [Engineering Manager requirements](/job-families/engineering/development/management/engineering-manager/#requirements) including
 
 - Ability to use GitLab
 - Exquisite brokering skills: regularly achieve consensus amongst departments

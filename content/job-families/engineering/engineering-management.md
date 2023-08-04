@@ -2,10 +2,10 @@
 title: "Engineering Leadership - Roles & Responsibilities"
 ---
 
-The Engineering Leadership becomes a cross-discipline management. For example, a Senior Engineering Manager will manage
-[Backend Engineering Managers](/job-families/engineering/development/backend/manager/),
-[Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/),
-and [Fullstack Engineering Managers](/job-families/engineering/development/management/fullstack-manager/).
+The Engineering Leadership becomes a cross-discipline management.
+A [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager)
+manages [Engineering Managers](/job-families/engineering/development/management/engineer-manager/)
+with fullstack teams (frontend, backend, and fullstack engineers), and/or Engineering Individual Contributors (frontend, backend, and fullstack engineers)
 
 ## Levels
 

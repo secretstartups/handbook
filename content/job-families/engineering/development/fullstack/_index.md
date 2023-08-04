@@ -1,13 +1,11 @@
 ---
 title: "Fullstack Engineers"
-description: "Fullstack Engineers at GitLab work in the Growth department, which analyzes the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features."
+description: "Learn more about requirements and responsibilities for Fullstack Engineering roles at GitLab."
 ---
 
-Fullstack Engineers at GitLab work in the Growth department, which analyzes the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users.  They work in small groups with a product manager, Product designer and a data analyst in order to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
-
-Fullstack Engineers will work across the backend (Ruby on Rails), and frontend (Vue.js) parts of our application.  Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend.
-
-*Important: Within the Engineering division, the Fullstack Engineer job title is **only** used within the Growth, Fulfillment, and Secure departments, and selectively within the Dev sub-department, **not** within other departments/teams. The reason for this is that these departments have a need for both Frontend and Backend skill sets and have optimized for team member efficiency to adopt the Fullstack role.*
+Fullstack Engineers will work across the backend (Ruby on Rails), and frontend (Vue.js) parts of our application.
+Specialties may require experience in different technologies.
+Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend.
 
 ### Job Grade
 
@@ -90,12 +88,6 @@ Candidates for this speciality can expect the hiring process to follow the order
 - Next, candidates will be invited to schedule a 25 minute interview with one of our Engineering Managers
 - Finally, candidates will be invited to schedule a 50 minute interviews with the Chief of Staff to the CEO
 
-## Relevant links
-
-- [Product Vision - Growth](https://about.gitlab.com/handbook/marketing/growth/)
-- [Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
-- [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
-
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
@@ -104,7 +96,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Frontend Engineers
 - Next, candidates will be invited to schedule one or more 45 minute interviews with an Engineering Hiring Manager
-- Next, candidates may be invited to schedule a 60 minute behavioral interview with a Director of Engineering
+- Next, candidates may be invited to schedule a 60 minute behavioral interview with a Senior Manager or Director of Engineering
 
 - Successful candidates will subsequently be made an offer.
 

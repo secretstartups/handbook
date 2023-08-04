@@ -174,51 +174,9 @@ The Staff Backend Engineer is a [grade 8](https://about.gitlab.com/handbook/tota
 - Confidently ship large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 - Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](https://about.gitlab.com/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team
 
-### Backend Engineering Manager
+## Engineering Management Roles at GitLab
 
-The Backend Engineering Manager specializes in Backend Engineering Management as a manager of people. Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
-
-#### Job Grade
-
-The Backend Engineering Manager role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-- Help your engineers grow their skills and experience
-- Author project plans for epics
-- Run agile project management processes
-- Conduct code reviews, and make technical contributions to product architecture as well as getting involved in solving bugs and delivering small features
-- Actively seek and hire globally-distributed talent
-- Conduct managerial interviews for candidates, and train the team to do technical interviews
-- Contribute to the sense of psychological safety on your team
-- Generate and implement process improvements
-- Hold regular [1:1's](https://about.gitlab.com/handbook/leadership/1-1/) with all members of their team
-- Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
-- Foster technical decision making on the team, but make final decisions when necessary
-- Draft quarterly OKRs and [Engineering KPIs](https://about.gitlab.com/company/kpis/#engineering-kpis)
-- Improve product quality, security, and performance
-- Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
-
-#### Requirements
-
-- Exquisite brokering skills: regularly achieve consensus amongst departments
-- 5 years or more experience
-- 2 years or more experience in a leadership role with current technical experience
-- In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's specialty
-- Excellent written and verbal communication skills
-- You share our [values](/handbook/values/), and work in accordance with those values
-- Ability to use GitLab
-
-#### Nice-to-have Requirement
-
-- Experience in a peak performance organization
-- Deep Ruby on Rails experience
-- Golang experience
-- Product company experience
-- Startup experience
-- Enterprise software company experience
-- Computer science education or equivalent experience
-- Passionate about open source and developer tools
+View the [Engineering Manager](/job-families/engineering/development/management/engineering-manager/) job family page for more details on engineering management roles.
 
 ## Career Ladder
 
