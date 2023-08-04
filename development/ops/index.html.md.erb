@@ -178,6 +178,69 @@ We have limited capacity in the recruiting team so hiring managers are experimen
 - What might you do differently next time?
 ```
 
+## Key Projects
+
+For projects that span many milestones we are experimenting with additional project management processes.
+
+Key projects will be listed in the table below:  
+
+| Project Name | Link to Project Plan | DRI | 
+| --- | ----------- | --- |
+| CI Catalog | - | Mark Nuzzo |
+| CI Partioning | - | Caroline Simpson |
+| Container Registry V2 Self-Managed | - | Crystal Poole |
+| CI Secrets Management | - | Scott Hampton |
+| O11y Distributed Tracing | - | Nicholas Klick |
+| Service Desk Ticket Work Item Type | - | François Rosé |
+
+### Key Project Planning
+
+Projects which are listed as key projects should create these project planning artifacts:
+
+#### Project Plan in the handbook under `/engineering/development/ops/project-plans/<project_name>/index.html.md.erb`
+
+Since the project plan is stored in the handbook it is easy to track changes in the project plan and see how it evolves over time.  
+
+Project plans should (roughly) follow this format (from https://www.rubick.com/weekly-project-plans/):
+
+```
+Weekly project plan template
+
+
+Week of Jan 4th
+
+    Single chart shows up in Slack. Data is canned.
+    Schedule risk: we’re validating our list of chart types are all technically feasible. We’ll demo outcome of that investigation.
+
+Week of Jan 11th
+
+    Chart data reflects live information, and is functional in Slack chart.
+    Additional chart type shows in Slack room, with most basic visual design.
+    We’ve shown to at least one alpha customer for feedback. We start sharing with them every week from here on out.
+    Jessica is on-call and doing interrupt-driven work for week.
+
+Week of Jan 18th
+
+    Most important feedback from alpha customers incorporated. Other work is prioritized to future milestones.
+    Last chart type added.
+
+Week of Jan 25th
+
+    Holiday Jan 26th.
+    Charts look great and are thoroughly tested, instrumented. We’ll show usage dashboards.
+    Release end of week.
+
+```
+
+Updates to the plan should be made weekly, marking weekly items done and making updates based on current information.  Authors should merge updates to their project plans without review/approval. 
+
+We expect the use of project plans to reduce the amount of EM reporting by serving as a SSOT for project execution planning.  For example this info no longer needs to be included in async updates (replace with a link to project plan).  
+
+
+
+
+
+
 ## Async Updates (No Status In Meetings)
 
 We have a policy in Ops to keep status updates out of meetings. Instead of reporting on status in meetings Directors, Senior Engineering Managers, Engineering Managers and Principal Engineers provide regular async updates.  
@@ -192,9 +255,7 @@ The content of these updates varies by individual and role:
 1. Topics:
     1. Highlights & Accomplishments
     1. Team Projects & Priorities (progress, blockers, key decisions, etc.)
-    1. Team Health (team dynamic, team morale, hiring, team concerns, etc.)
-    1. Team Metrics and SLAs (e.g. Security SLAs, etc.)
-    1. Other Announcements & topics of interest to those reading the report
+    1. What's next - what to expect in next update
 
 #### Senior Engineering Manager
 
