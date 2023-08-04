@@ -73,6 +73,8 @@ Examples include:
 * Customer Data (see definition above in the [Data Classification Definitions section](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions))
 * Vector embeddings derived from red data
 
+Red Data may not be transmitted from an approved Red data source to any other systems or solutions without first obtaining approval from the Privacy and Security teams.  Any Vendors that process Red Data must first undergo a factual and legal analysis that justifies their processing in accordance with our Customer agreements, as well as global privacy and data security laws. For any questions or concerns related to the transmission of Red data between systems, please reach out to @Security-Risk within the #Sec-Assurance channel.
+
 #### ORANGE
 Data subject to laws and regulation that should not be made generally available. Unauthorized access or disclosure could cause significant or financial material loss, risk of harm to GitLab if exposed to unauthorized parties, break contractual obligations, and/or adversely impact GitLab, its partners, employees, contractors, and customers. 
 
