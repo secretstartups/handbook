@@ -11,6 +11,8 @@ description: "A page containing links to helpful CI resources for the CSM team a
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Discovery Questions
+1. Robust list of initial discovery questions to help better understand the customer use case: [Public Handbook Page](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#discovery-questions)
 
 ## Quickstart Guides
 1. Supplemental Resource: CI/CD Quickstart - Premium: [Public-Facing Page](https://gitlab.highspot.com/viewer/63bf4994dc979c98f1d3e832?)
