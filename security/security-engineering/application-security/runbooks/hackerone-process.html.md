@@ -96,7 +96,7 @@ the responsible engineering team:
     - On the imported GitLab issue:
         - Verify the Severity/Priority assigned by `h1import` ([Severity and Priority](/handbook/security/#severity-and-priority-labels-on-security-issues) and [Remediation SLAS](/handbook/security/threat-management/vulnerability-management/#remediation-slas))
         - Assign the appropriate [Due Date](/handbook/security/#due-date-on-security-issues)
-        - Have a proper [`How to reproduce`](/handbook/security/#reproducibility-on-security-issues) section
+        - Have a proper [`How to reproduce`](/handbook/security/#reproducibility-on-security-issues) section, by for instance copying the final reproduction steps written by our HackerOne triager into the issue.
         - If the report is a security-related documentation change, add the `~documentation` label
         - @-mention the product manager and engineering manager based on the [product categories page](/handbook/product/categories/). Ask for engineering feedback if it is required to complete the triage
         - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
