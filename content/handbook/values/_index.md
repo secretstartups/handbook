@@ -1031,11 +1031,6 @@ We demonstrate iteration when we do the smallest viable and valuable thing, get 
 Be open about as many things as possible. By making information
 public, we can reduce the threshold to contribution and make collaboration easier.
 Use public issue trackers, projects, and repositories when possible. Transparency is not communication. Just because something exists in the handbook or elsewhere doesn't mean it's been communicated to the proper folks or channels who should understand or acknowledge it.
-
-An example is the [public repository of this website](https://gitlab.com/gitlab-com/www-gitlab-com/)
-that also contains this [company handbook](/handbook/). Everything we do is public by default, such as the [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/issues) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers, as well as [marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) and [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues). Transparency creates awareness for GitLab, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons,
-and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
-
 There are exceptions. Material that is [not public by default is documented](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
 Even as a [public company](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the operating principles below. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. As a [public company](https://about.gitlab.com/handbook/being-a-public-company/), we declare everyone in the company as an insider, which allows us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
@@ -1043,12 +1038,13 @@ Even as a [public company](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-t
 ##### Public by default
 
 Everything at GitLab is public by default.
-If something is not public, there should be a reference in the handbook that states a confidential decision was taken with a link to our Not Public guidelines, unless legal feels it carries undue risk.
 The public process does two things: allows others to benefit from the conversation and acts as a filter. Since there is only a limited amount of time, we prioritize conversations that a wider audience can benefit from.
 
-In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
+One example of transparency at GitLab is the [public repository of this website](https://gitlab.com/gitlab-com/www-gitlab-com/)
+that also contains this [company handbook](/handbook/). Others include the [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/issues) and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/issues) issue trackers, as well as [marketing](https://gitlab.com/groups/gitlab-com/marketing/-/issues) and [infrastructure](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues). Transparency creates awareness for GitLab, allows us to recruit people that care about our values, gets us more and faster feedback from people outside the company, and makes it easier to collaborate with them. It is also about sharing great software, documentation, examples, lessons,
+and processes with the **whole community** and the world in the spirit of open source, which we believe creates more value than it captures.
 
-If you believe something shouldn't be public that currently is (or vice versa), then [make a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request) to the relevant page(s) suggesting the change so that you can collaborate with others and discuss with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). When content contains information which is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) it is recommended to remove the specific sections which are not public, put them on their own page in the internal handbook, and then link out to that with a "not public/internal only" note. Always share publicly what we can.
+In line with our value of transparency and being public by default, all GitLab team member [profiles](https://docs.gitlab.com/ee/user/profile/#user-profile) should be public. Public profiles also enable broader collaboration and efficiencies between teams. To do so, please make sure that the checkbox under the [Private profile](https://docs.gitlab.com/ee/user/profile/#private-profile) option is unchecked [in your profile settings](https://gitlab.com/-/profile). If you do not feel comfortable with your full name or location on your profile, please change it to what feels appropriate to you as these are displayed even on private profiles.
 
 Because we are public by default and have the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) we don't need to make cases for why things should be transparent. If something is unSAFE and needs to remain [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) it can be.
 
@@ -1056,7 +1052,9 @@ Because we are public by default and have the [SAFE framework](https://about.git
 
 We make information public by default because [transparency is one of our values](#transparency).
 However it is [most important to focus on results](#hierarchy).
-Therefore, a category of information is **public** unless there is a reason for it not to be.
+Therefore, a category of information is **public** unless there is a reason for it not to be. If something is not public, there should be a reference in the handbook that states a confidential decision was taken with a link to our Not Public guidelines, unless legal feels it carries undue risk. We document what is [not public by default](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) on our communication page.
+
+If you believe something shouldn't be public that currently is (or vice versa), then [make a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request) to the relevant page(s) suggesting the change so that you can collaborate with others and discuss with the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). When content contains information which is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) it is recommended to remove the specific sections which are not public, put them on their own page in the internal handbook, and then link out to that with a "not public/internal only" note. Always share publicly what we can.
 
 When information is not public, it may also be treated as limited access, only shared with certain GitLab roles, teams, or team members due to privacy considerations, contractual obligation, or other reasons that the author or DRI can specify.
 Certain kinds of information default to limited access, including details about team members or customers who did not give permission to share the information.
@@ -1068,8 +1066,6 @@ a mistake, we now know what the limits of transparency are for the company and
 we should [document this](#not-public). *The only exception to this rule would be in the case when there are legal concerns.*
 
 Because some information is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) the public information can be lacking some context. We should be cognizant of that.
-
-We document what is [not public by default](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) on our communication page.
 
 ##### Directness
 
