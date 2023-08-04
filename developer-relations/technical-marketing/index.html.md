@@ -54,14 +54,16 @@ Our work is mainly driven and prioritized by the following Marketing defined [Co
 * Whitepapers and e-books 
 * Evangelization  
 
-## Content types 
+## Content  
 
-### Demos
+### Types of content we create
+
+#### Demos
 
 One form of output is demo videos to help show the value GitLab can bring to customers.
 * Learn about our [demo creation and publishing practices](./howto/create-and-publish-demos.html)
 
-#### Updating demos
+##### Updating demos
 
 1. **Can we update a current video with new features?** \
 Yes we can, however. . . 
@@ -73,22 +75,31 @@ Anyone can [open an SM request](https://gitlab.com/gitlab-com/marketing/strategi
 
 1. **Can we update/create a new video to address a different persona/theme?** \
 Switching a demo to a different persona usually should mean a new demo/video, as changing the target persona should result in changes in the pain points and story, and hence likely the video/screenshots that are shown. It is certainly possible that the existing footage can fit a new persona's story, or that we can change the story to include multiple personas. But more likely than not, if this is easy to do to an existing demo then it is probably because it wasn't properly focused on a persona in the first place. 
-### Presentations and Lightning talks
+
+#### Presentations and Lightning talks
 Authored and delivered at conferences, for internal enablement, for example. To-be-continued.
 
-### Blog posts
+#### Blog posts
 Authored and published on the GitLab blog site. To-be-continued.
 
-### Webinars/Webcasts
+#### Webinars/Webcasts
 Authored and delivered (live or pre-recorded or semu-live) from the GitLab webinar platform to customers/prospects. To-be-continued.
 
-### Click-through demos
+#### Click-through demos
 Authored to be used with prospects/customers and at conferences. To-be-continued.
 
-### Tutorials (self-paced or instructor-led)/ How-to's
+#### Tutorials (self-paced or instructor-led)/ How-to's
 Authored to be used with prospects/customers. Hosted within GitLab platform. To-be-continued.
 ## Chat, say hi, quick question
 Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B)
+
+### Content requests
+
+To request content from our team, please follow the [content request](/handbook/marketing/developer-relations/content-request/) process which starts by opening an issue using the Developer Relations [content request template](https://gitlab.com/gitlab-com/marketing/developer-relations/dev-evangelism/de-tmm-meta/-/issues/new?issuable_template=content-request). 
+
+### Content distribution
+
+Content we create is distributed internally and externally to our stakeholders, customers, and community. We follow the [content distribution](/handbook/marketing/developer-relations/developer-evangelism/#content-distribution) process from the Developer Evangelism handbok page. 
 
 ## Which Technical Marketing Manager?
 
