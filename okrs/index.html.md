@@ -152,7 +152,7 @@ You should decide your scoring methodology ahead of time. You might score an OKR
 
 ### How do I prioritize OKRs in light of other priorities?
 
-OKRs do not replace or supersede core team member responsibilities or performance indicators. OKRs are additive and are essentially a high signal request from your leadership team to prioritize the work. They typically are used to help galvanize the entire company or a set of teams to rapidly move in one direction together. They are expected to be completed unless you have higher priority work that is surfaced and agreed to by leadership.  When surfacing tradeoffs, team members should not factor in how an unmet OKR may impact your executive leadership bonus in their prioritization. They should instead focus on GitLab priorities. If your executive leader still feels that the OKR is more important, they will ask you to *disagree and commit*. 
+OKRs do not replace or supersede core team member responsibilities or performance indicators. OKRs are additive and are essentially a high signal request from your leadership team to prioritize the work. They typically are used to help galvanize the entire company or a set of teams to rapidly move in one direction together. You should aim to complete them unless you have higher priority work that is surfaced and agreed to by leadership.  When surfacing tradeoffs, team members should not factor in how an unmet OKR may impact your executive leadership bonus in their prioritization. They should instead focus on GitLab priorities. If your executive leader still feels that the OKR is more important, they will ask you to *disagree and commit*. 
 
 
 ## Who sets OKRs?
