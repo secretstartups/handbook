@@ -14,6 +14,17 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q3-FY24
+
+### 2023-08-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/362))
+
+**Renewal Ops: [Renewal Auto-Closure Update](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4060)**
+
+**Digital Customer Programs: [Improved Onboarding + CI Email Experience](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/2765)**
+
+**Online Sales & Self-Service: [Startup Program Opportunities Update](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/3917)**
+
+
 ## Q2-FY24
 
 ### 2023-07-10 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/346))
