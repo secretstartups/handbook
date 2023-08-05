@@ -31,9 +31,16 @@ At the highest level, TD Marketing Key Dashboards dashboards are intended to pro
 
 ### TD Marketing Functional Dashboards
 
+#### Integrated Marketing
+
 - [TD - Campaign Performance](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1111393/TD---Campaign-Performance) - The source of truth dashboard for marketing campaign performance. It is a single pane of glass view for tracking campaign performance from an Inquiry to a closed won SAO.
+
+#### Partner Marketing
+
 - [TD: SDR Performance Dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/965068/TD:-SDR-Performance-Dashboard---v1.2) - A management-level view of overall SDR performance by a number of key metrics. 
 - [TD: Partner Sourced Opportunities](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/983640/TD:-Partner-Sourced-Opportunities) - A view of partner sources opportunities.
+- [Partner Marketing Trials Funnel - Self Managed](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1060854/Partner-Marketing-Trials-Funnel---Self-Managed) - A funnel view of self managed trials from partners.
+- [Draft: New Partner Marketing Trials Funnel - SaaS](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1114685/Draft:-New-Partner-Marketing-Trials-Funnel---SaaS) - A funnel view of SaaS trials from partners.
 
 
 ## Dashboard Development and Publishing Stages
