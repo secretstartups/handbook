@@ -32,10 +32,10 @@ When considering what types of content to publish on social media, these are all
 
 ## Release days
 
-GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released each month on the 22nd, we should always plans for these posts to warrant a [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
+GitLab Release Posts frequently perform well on Hacker News. Given that we know the post will be released [every month](/handbook/engineering/releases/), we should always plans for these posts to warrant a [community response](/handbook/marketing/developer-relations/developer-evangelism/community-response/). For release days, we follow these steps to organize our response: 
 
 1. Manager, Developer Evangelism will send out a recurring calendar invite for release days with a link to this section of the handbook in the body of the invite as a reminder to Developer Evangelism team members.
-1. When release day (the 22nd day of the month) falls on the weekend, the Developer Evangelism team will assign a Developer Evangelist to be on-call to address community concerns. That person should take off the following Monday or another day of their choosing to offset the time spent working over the weekend.  
+1. If the monthly release day falls on the weekend, the Developer Evangelism team will assign a Developer Evangelist to be on-call to address community concerns. That person should take off the following Monday or another day of their choosing to offset the time spent working over the weekend.  
   - In 2021, release day falls on the weekend on Saturday, May 22 and Sunday, August 22.
   - The Developer Evangelist team should coordinate with the [Release Post Managers schedule](/handbook/marketing/blog/release-posts/managers/) to determine when the release post will be published. This is important as the Developer Evangelist who is on-call should be able to respond to comments within 60 minutes for 8 hours following the publishing of the post.
   - The Developer Evangelist on-call should have notifications enabled so that they receive an alert from Slack if the "Hacker News Front Page" bot posts a message in the #dev-evangelism-and-technical-marketing Slack channel. 

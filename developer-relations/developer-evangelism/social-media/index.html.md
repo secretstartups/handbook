@@ -342,7 +342,7 @@ The [August 2022 issue of Michael's opsindev.news newsletter](https://opsindev.n
 
 [GitLab releases](/releases/) add lots of value every month. As a developer, you know about use cases and workflow enhancements they may solve specifically. Use this knowledge to describe **why** this new feature helps you.
 
-The [product kick-off](/direction/kickoff/) provides insights into planned features. As we plan ambitiously, there is no guarantee that everything gets released as planned. Therefore release evangelism campaigns need to happen short notice around the 22nd each month. 
+The [product kick-off](/direction/kickoff/) provides insights into planned features. As we plan ambitiously, there is no guarantee that everything gets released as planned. Therefore release evangelism campaigns need to happen short notice around the [release date](/handbook/engineering/releases/). 
 
 > **Tip**: GitLab team members can access the [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel to check for updates on the monthly release blog post.
 > Wider community members can check the `gitlab-com/www-gitlab-com repository` for the [release post MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post), or follow the Developer Evangelism issues with the [DE-Release-Evangelism](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues?sort=updated_desc&state=opened&label_name[]=DE-Type::Evangelist) label. 

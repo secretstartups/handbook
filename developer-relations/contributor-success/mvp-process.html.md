@@ -112,7 +112,7 @@ Please let us know if there are any details you would like us to highlight about
 
 I'm also pinging **{NOMINATOR}** **{COMMENTER}** who either nominated or commented on your contributions in the **{NOMINATION_ISSUE}**. They can also chime in with anything worth noting for the release post write-up or a quote about your contributions.
 
-Our deadline for submitting this write-up is the 20th of **{MONTH}** so we only have a few days to put this together. If we don't hear back or you don't have the time we will do our best to put something together! The **{X.Y}** release post will go live on the 22nd.
+Our deadline for submitting this write-up is the 20th of **{MONTH}** so we only have a few days to put this together. If we don't hear back or you don't have the time we will do our best to put something together! The **{X.Y}** release post will go live on the [release date](/handbook/engineering/releases/).
 
 Finally we will work to get your GitLab swag sent over soon!
 ```
