@@ -56,7 +56,7 @@ Once you're done with the steps above, take a look at:
 
 ## Stay up to date with new features
 
-GitLab releases a new version on the 22nd of every month. Stay up to date on new features and capabilities by reading the [release posts](https://about.gitlab.com/releases/categories/releases/) on our blog.
+GitLab releases a new version [every month](/handbook/engineering/releases/). Stay up to date on new features and capabilities by reading the [release posts](https://about.gitlab.com/releases/categories/releases/) on our blog.
 
 ## Want to learn more?
 

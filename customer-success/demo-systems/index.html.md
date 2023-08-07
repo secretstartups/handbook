@@ -194,7 +194,7 @@ When creating new lab guides for a workshop, you should start planning and creat
 
 ## Version Upgrades and Maintenance
 
-We perform version upgrades on the weekend following the 22nd of each month. The weekend upgrades are performed at a random time on Saturday or Sunday based on engineer availablility and lasts for approximately 30 minutes.
+We perform version upgrades on the weekend following the [monthly release](/handbook/engineering/releases/). The weekend upgrades are performed at a random time on Saturday or Sunday based on engineer availablility and lasts for approximately 30 minutes.
 
 We delay the upgrade window for updates that we consider risky or occur during holidays. This occurs during May each year that aligns with the US Memorial Day holiday, in December around the Christmas Holiday, and in January at the end of the fiscal year when we have a configuration freeze until sales demos are completed. 
 
