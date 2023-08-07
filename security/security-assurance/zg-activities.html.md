@@ -33,10 +33,10 @@ The Field Security team utilizes the following ZenGRC objects:
 All activities related to the StORM program are executed exclusively within ZenGRC. There may be instances where the identification of a risk occurs on GitLab.com (e.g. incident issues, internal issues where security concerns are raised which may be an indicator of risk, etc.) and in these cases, the Risk & Field Security team will review the related details within GitLab and subsequently create a new risk record within ZenGRC for assessment. The wide variety of activities related to StORM that are carried out in ZenGRC include but are not limited to:
 * Documenting the identification of a risk
 * Documenting the results of risk assessments
-* [Scoring](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) of security operational risks
-* Documenting [risk treatment](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-treatment-options)
-* Maintaining the [Risk Register](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/index.html#step-3-risk-tracking-and-reporting)
-* Task tracking for activities such as execution of the [StORM Annual Risk Assessment](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/index.html#storm-procedures)
+* [Scoring](/handbook/security/security-assurance/security-risk/storm-program/#risk-factors-and-risk-scoring) of security operational risks
+* Documenting [risk response](/handbook/security/security-assurance/security-risk/storm-program/#risk-response)
+* Maintaining the [Risk Register](/handbook/security/security-assurance/security-risk/storm-program/#risk-tracking-and-reporting)
+* Task tracking for activities such as execution of the [StORM Annual Risk Assessment](/handbook/security/security-assurance/security-risk/storm-program/#risks-identified-during-risk-assessments)
 
 </details>
 
@@ -100,7 +100,7 @@ The Security Assurance Team may periodically engage stakeholders that are outsid
 
 ### Completing ZenGRC Questionnaires
 
-Stakeholders may be occasionally engaged to complete a ZenGRC questionnaire. Questionnaires are utilized for various reasons, such as helping to gather and collect data to establish [GitLab's Risk Appetite and Tolerance](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-appetite-and-tolerance-scoring) year over year. The Security Assurance Team utilizes the native questionnaire functionality within ZenGRC because it provides some mechanisms to automatically calculate risk scores and thresholds based off of responses. 
+Stakeholders may be occasionally engaged to complete a ZenGRC questionnaire. Questionnaires are utilized for various reasons, such as helping to gather and collect data to establish [GitLab's Risk Appetite and Tolerance](handbook/security/security-assurance/security-risk/storm-program/#establishing-risk-appetite-and-tolerance) year over year. The Security Assurance Team utilizes the native questionnaire functionality within ZenGRC because it provides some mechanisms to automatically calculate risk scores and thresholds based off of responses. 
 
 Should any team member be engaged to complete a questionnaire from ZenGRC, an example of the email that the team member will receive can be found below.
 

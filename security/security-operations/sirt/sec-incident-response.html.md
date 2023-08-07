@@ -101,7 +101,7 @@ Assigning severity to an incident isn't an exact science and it takes some ratio
 - Was a user or service account taken over?
     - What level of access did this account have and to what services or hosts?
     - What actions were taken by the compromised account?
-- If a vulnerability is present on a host or service, consider the impact it might have on GitLab and the likelihood of it being exploited by using the [Risk Factors and Risk Scoring](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) documentation.
+- If a vulnerability is present on a host or service, consider the impact it might have on GitLab and the likelihood of it being exploited by using the [Risk Factors and Risk Scoring](/handbook/security/security-assurance/security-risk/storm-program/#risk-factors-and-risk-scoring) documentation.
     - Was the vulnerability exploited? If so, how was it used and how frequently?
 - What is the scope of the incident?
     - How many GitLab.com users were/may have been impacted?

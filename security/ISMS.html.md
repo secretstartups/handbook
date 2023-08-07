@@ -93,7 +93,7 @@ The ISMS council, comprised of Security and Privacy (Legal) leadership, shall me
 - ISMS inputs and outputs
 
 ### Planning
-GitLab has implemented a formal [Security Operational Risk Management (“StORM”) program](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/index.html) to identify, rank, track, and treat cybersecurity, IT, and privacy operational risks in support of GitLab's organization-wide objectives. The process for selecting in scope information security controls is executed by the Security Compliance team, leveraging technical functionality from the third party GRC application, and overseen by the Security Risk team. Implementation status is captured in GitLab's GRC application as well as in the Statement of Applicability.
+GitLab has implemented a formal [Security Operational Risk Management (“StORM”) program](/handbook/security/security-assurance/security-risk/storm-program/index.html) to identify, rank, track, and treat cybersecurity, IT, and privacy operational risks in support of GitLab's organization-wide objectives. The process for selecting in scope information security controls is executed by the Security Compliance team, leveraging technical functionality from the third party GRC application, and overseen by the Security Risk team. Implementation status is captured in GitLab's GRC application as well as in the Statement of Applicability.
 
 The GitLab Security team executes quarterly cascading [Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/) to define our security objectives and a plan for achieving those objectives while ensuring alignment throughout the organization.
 
@@ -113,7 +113,7 @@ The [GitLab team handbook](https://about.gitlab.com/handbook/) is the central re
 - [Security Policies](https://about.gitlab.com/handbook/security/#information-security-policies)
 - [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
 - [Infrastucture Change Management Procedure](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/)
-- [Security Operational Risk Management (StORM) Program & Procedures](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/)
+- [Security Operational Risk Management (StORM) Program & Procedures](/handbook/security/security-assurance/security-risk/storm-program/)
 
 GitLab has a dedicated Security Compliance team responsible for monitoring design and effectiveness of the [GitLab common control framework](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html) to ensure GitLab's security objectives are thoughtfully planned, implemented and monitored.
 
@@ -138,7 +138,7 @@ GitLab monitors, measures, and improves security controls through various contin
 
 GitLab is committed to continually improving the suitability, adequacy and effectiveness of the ISMS.
 
-As part of GitLab's tier 2 security operational risk program, each risk identified and triaged through the StORM program is required to undergo a [risk treatment determination](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-treatment-options). This is an activity that will be discussed with each individual risk owner for the risks that they own. Additionally, GitLab identifies and monitors tier 3 risks, also referred to as observations, as per the [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
+As part of GitLab's tier 2 security operational risk program, each risk identified and triaged through the StORM program is required to undergo a [risk response decision](/handbook/security/security-assurance/security-risk/storm-program/#risk-response). This is an activity that will be discussed with each individual risk owner for the risks that they own. Additionally, GitLab identifies and monitors tier 3 risks, also referred to as observations, as per the [Observation Management Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html).
 
 ## Exceptions
 Exceptions to Information Security policies or procedures will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process).

@@ -446,7 +446,6 @@ The only exceptions to this procedure are those risks that are out of scope (as 
 ## References
 
 - GitLab Handbook References:
-    - [StORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html)
     - [GitLab's Communication Page, Not Public Section](/handbook/communication/confidentiality-levels/#not-public)
     - [ZenGRC Activities](/handbook/security/security-assurance/zg-activities.html#risk-activities)
 - External References

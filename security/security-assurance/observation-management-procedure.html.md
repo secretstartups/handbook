@@ -91,7 +91,7 @@ The Observation description should include the who, what, when, where, why, and 
 
 ### Observation Risk Ratings
 
-Tier 3 information system risk ratings are based off the [STORM risk rating methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring).
+Tier 3 information system risk ratings are based off the formula below.
 
 > Risk Rating = Likelihood x Impact
 
