@@ -38,7 +38,7 @@ GitLab started as an open source alternative to GitHub. Instead of focusing on h
     - Multiple authentication levels
     - Group level milestones
     - 4 times more cost effective
-    - Active community of 2,200+ contributors to updates that are pushed on the 22nd of every month
+    - Active community of 2,200+ contributors to updates that are released [every month](/handbook/engineering/releases/)
 1. So if you just want SCM, why not go with the open source edition of GitLab?
 1. For the **entire** software development lifecycle, see [GitHub vs. GitLab](/competition/github/)
 
