@@ -53,7 +53,7 @@ To update the milestones in GitLab, Product Operations follows these steps:
 
 ## Understanding Releases
 
-The [release definitions](/handbook/engineering/releases/) are maintained by the Engineering Team and we run the end of each Milestone on the 22nd. 
+The [release definitions](/handbook/engineering/releases/) are maintained by the Engineering Team and we run the end of each Milestone on the [release date](/handbook/engineering/releases/).
 
 ## Product Milestones Usage
 
