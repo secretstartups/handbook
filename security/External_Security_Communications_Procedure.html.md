@@ -49,7 +49,7 @@ There are typically three communications areas that might warrant a Security Dep
 - Vulnerability. A security issue, such as one reported internally or via our HackerOne program, involving GitLab code or configurations. Public communication is handled by the [Security Release Process](https://about.gitlab.com/handbook/security/#security-releases). During that process, the responsible AppSec engineer will need to open a [Security Communications issue](https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues/new) to send communications about the security release. This is the main area where most security-related communications are generated.
 
 
-Remember that it is not unusual for security-related patches to be in the regular GitLab release on the 22nd of each month as the GitLab codebase is updated continuously, but vulnerabilities are addressed in the monthly security release happens roughly one week after the regular GitLab release.
+Remember that it is not unusual for security-related patches to be in the regular GitLab release [every month](/handbook/engineering/releases/) as the GitLab codebase is updated continuously, but vulnerabilities are addressed in the monthly security release happens roughly one week after the regular GitLab release.
 
 NOTE: If the security incident or issue is considering critical and an emergency patch and release outside the normal release schedule is needed, refer to the [Marketing - Emergency Response](https://about.gitlab.com/handbook/marketing/emergency-response/) handbook page.
 
