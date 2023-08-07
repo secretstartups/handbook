@@ -17,7 +17,7 @@ title: "Security Third Party Risk Management"
 {: .panel-heading}
 <div class="panel-body">
 
-In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+In line with GitLab's regulatory obligations, changes to [controlled documents](/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
 
 </div>
 </div>
@@ -29,7 +29,7 @@ GitLab's Security Third Party Risk Management (TPRM) Program helps guard against
 GitLab's Security TPRM program involves three components which are integrated in to our [Procurement](/handbook/finance/procurement/) processes: 
 1. Performing due diligence to ensure the third party implements safeguards to enforce data privacy and security.
     - This activity is performed via our Security Assessment Process. 
-1. [Contractually](https://about.gitlab.com/handbook/finance/procurement/#contracting) obligating the third party to implement these safeguards. 
+1. [Contractually](/handbook/finance/procurement/#contracting) obligating the third party to implement these safeguards. 
 1. Monitoring third party safeguards and compliance with these contracted provisions.
     - Certain high risk Third Parties are reviewed annually while those posing lower risk are reviewed at intervals defined further within this document.
 
@@ -42,7 +42,7 @@ This procedure applies to all third party providers that access, store, process 
 | Role | Responsibility |
 | ------ | ------ |
 | Security Risk Team |  Maintain a mechanism to intake and respond to TPRM Activities <br> Assess Third Party inherent and residual security risk <br> Inform business owners of the result of TPRM assessments |
-| Business or System Owner |  [Describe the nature of the Third Party Relationship](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the third party as part of the security review requirements |
+| Business or System Owner |  [Describe the nature of the Third Party Relationship](/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the third party as part of the security review requirements |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure | 
 
 ## Third Party Minimum Security Standards
@@ -278,7 +278,7 @@ Want to vet a third party before initiating a new procurement request? [Click he
 Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relavent stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
 
 Identified deficiencies are reported to the Business Owner via a [Risk Acceptance Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Risk%20Acceptance%20Template) within GitLab. This issue contains (1) background information pertanent to the vendor or requisition, (2) a description of the validations performed by the Security Risk team, and (3) a description of Security deficiencies and resulting risk that may be present to GitLab data shared with the vendor. A "worst case" scenario is included to portray the potential real-world impact of a security incident resulting from the risk. If the Business Owner decides to move forward with the vendor in light of the reported deficiencies, they are responsible for completion of the below items:
-1. **Acknowledgement** of the [Accept the Risk](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
+1. **Acknowledgement** of the [Accept the Risk](/handbook/security/security-assurance/security-risk/storm-program/#accept-the-risk) section of the StORM handbook page and their understanding of its contents.
 2. **Justification** for moving forward with the vendor in light of the identified defiencies.
 3. **Approval** of the risk. Note that this may require multiple levels of approval based on the level of risk identified. See below.
 
@@ -288,7 +288,7 @@ Deficiencies require different stakeholder input based on the level of risk asso
 
 In the case of a control deficiency introducing a material risk to the security of data, the Privacy team should be notified prior to finalization of the associated Risk Acceptance. Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner.
 
-Please refer to our [StORM Methodology Handbook](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers. IT approval is also required to promote transparency across the organization.
+Please refer to our [StORM Handbook](/handbook/security/security-assurance/security-risk/storm-program/#accept-the-risk) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers. IT approval is also required to promote transparency across the organization.
 
 ## Exceptions
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
@@ -303,5 +303,5 @@ Looking for compliance reports for an active GitLab vendor? [Open a new issue](h
 - [Current listing of controlled documents](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-governance/-/issues/42)
 - [App Integrations (Team Member Enablement)](/handbook/business-technology/team-member-enablement/app-integrations/)
 - [Observation Management Procedure](/handbook/security/security-assurance/observation-remediation-procedure.html)
-- [STORM Methodology](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#accept-the-risk) 
+- [STORM](/handbook/security/security-assurance/security-risk/storm-program/) 
 - [Professional Services](/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-zip)

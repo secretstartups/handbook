@@ -27,7 +27,7 @@ GitLab takes the security of our clients’ information extremely seriously, reg
 
 ## Scope
 
-This communication response plan maps out the who, what, when, and how of GitLab in notifying and engaging with internal stakeholders and external customers on security incidents. **This plan of action covers the strategy and approach for security events which have a ‘high’ or greater impact as outlined in [GitLab’s risk scoring matrix](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring).**
+This communication response plan maps out the who, what, when, and how of GitLab in notifying and engaging with internal stakeholders and external customers on security incidents. **This plan of action covers the strategy and approach for security events which have a ‘high’ or greater impact as outlined in [GitLab’s risk scoring matrix](/handbook/security/security-assurance/security-risk/storm-program/#risk-factors-and-risk-scoring).**
 
 ## Roles & Responsibilities
 
@@ -49,7 +49,7 @@ For Support or Infrastructure managed incidents where external communication gui
 For Infrastructure incidents, please follow the [infrastructure incident management and communication process](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communication).
 
 ## Defining the scope/severity of an incident
-The `Security Engineer On-Call` will determine the scope, severity and [potential impact](/handbook/security/security-assurance/security-risk/storm-program/storm-methodology.html#risk-factors-and-risk-scoring) of the security incident. Once the potential impact has been determined, implementation of the appropriate internal and external communications strategy should begin.
+The `Security Engineer On-Call` will determine the scope and [severity](https://about.gitlab.com/handbook/security/security-operations/sirt/sec-incident-response.html#incident-severity) and [potential impact](/handbook/security/security-assurance/security-risk/storm-program/#determining-the-impact-of-a-threat-event) of the security incident. Once the potential impact has been determined, implementation of the appropriate internal and external communications strategy should begin.
 
 ### Roles and responsibilities in a Security incident
 #### Security team roles and responsibilities
