@@ -51,7 +51,7 @@ Some companies talk about being a 'Family.' We don't think that is the right per
 
 ### Time based release
 
-We have introduced a new, enhanced version of our software on the 22nd of every month for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
+We have introduced a new, enhanced version of our software [every month](/handbook/engineering/releases/) for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
 
 ### Individual innovation
 
