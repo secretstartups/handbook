@@ -264,7 +264,7 @@ Feature flags must be [documented according to their state (enabled/disabled)](h
 and when the state changes, docs **must** be updated accordingly.
 
 Changing the default state or removing the feature flag has to be done before
-the 22nd of the month, _at least_ 3-4 working days before, in order for the change
+the [release date](/handbook/engineering/releases/), _at least_ 3-4 working days before, in order for the change
 to be included in the final self-managed release.
 
 **Note:** consider that, by removing the flag, the feature will become available on
