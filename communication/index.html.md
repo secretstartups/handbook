@@ -888,7 +888,7 @@ The team members can use Zoom on their mobile device with the audio only functio
 
 {: #kickoffs}
 
-After GitLab releases a new version on the 22nd of each month, we have a
+After GitLab releases a new version [every month](/handbook/engineering/releases/), we have a
 30-minute call a few days later reflecting on what could have been
 better:
 
