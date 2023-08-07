@@ -48,11 +48,9 @@ Pursuant to article 13 of the law on paid public holidays, employers are obliged
 ## GitLab B.V. Belgium Leave Policy
 
 * Sick Leave
-  - Every team member remains entitled to their remuneration to be paid by GitLab during the first 30-day period of incapacity for work, regardless of their seniority. This leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in Time Off by Deel to ensure that sick leave entitlement is properly tracked.
-      * When two incapacities follow one another without interruption (e.g. successive sicknesses of a different nature), there is only one period of incapacity and the guaranteed remuneration is not due again.
-      * If a team member is incapacitated again after returning to work normally, the guaranteed remuneration is not due again if the new incapacity for work occurs within the first 14 days following the end of a period of incapacity for work that gave rise to the payment of the guaranteed remuneration. 
-        - If the entitlement to the guaranteed salary has not been fully exhausted during the first period of incapacity, the team member is entitled to the guaranteed salary for the remaining period of incapacity.
-        - A new guaranteed salary is also due again if the team member can prove by means of a medical certificate that this new incapacity for work was caused by another sickness or accident.
+  - Every team member is entitled to have their remuneration to be paid by GitLab during the first 30-day period of incapacity for work, regardless of their seniority. This leave runs concurrently with GitLab's Sick Time policy. Team members must designate any time off for illness or injury as `Out Sick` in Time Off by Deel to ensure that sick leave entitlement is properly tracked.
+      * When two incapacities follow one another without interruption or where the second occurs within 14 days of the first (e.g. a relapse of the same illness or injury), there is only one period of incapacity and the guaranteed remuneration will not be due again.
+      * Where a second or further incapacity occurs within 14 days of a previous incapacity, _and_ the team member can prove by means of a medical certificate that this new incapacity for work is caused by a new illness or injury, a new guaranteed salary will be due again.
         
 * Statutory Parental Leave
   - Pregnant team members are entitled to 15 weeks of maternity leave which consists of two periods: prenatal leave of 6 weeks and postnatal leave of 9 weeks.
