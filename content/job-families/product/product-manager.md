@@ -305,30 +305,13 @@ We're looking for product managers that can help us work on the future of develo
 
 ### Verify (CI)
 
-We're looking for product managers that can help us work on the future of DevOps tools; specifically, building out continuous integration (CI), code quality analysis, micro-service testing, usability testing, and more.
+As a Senior Product Manager in the [Verify Stage](https://about.gitlab.com/handbook/product/categories/verify/), you will be directly responsible for the [direction](https://about.gitlab.com/direction/verify/) of a large and important scope in DevOps. Specifically, building out continuous integration (CI), code quality analysis, micro-service testing, usability testing, and more. This product manager owns the foundation of our DevOps product and must have a strong understanding of DevOps, CI/CD, and Release Automation. A practical understanding of container technologies including Docker and Kubernetes will come in handy as this role will reach across various groups to ensure we are building scalable, maintainable, and performant solutions.
 
 #### Requirements
 
 - Strong understanding of DevOps, CI/CD, and Release Automation
 - Practical understanding of container technologies including Docker and Kubernetes
-
-### Verify (Testing)
-
-We're looking for product managers that can help us work on the future of DevOps tools; specifically, building out code quality analysis, micro-service testing, usability testing, and more.
-
-#### Requirements
-
-- Strong understanding of DevOps, CI/CD, and Testing Automation
-- Practical understanding of container technologies including Docker and Kubernetes
-
-### Verify (Runner SaaS)
-
-We're looking for product managers that can help us work on the next generation of cloud compute options to provide developers with a zero-friction, secure, highly performant, and reliable CI/CD build experience.
-
-#### Requirements
-
-- Strong understanding of DevOps, CI/CD, and cloud providers
-- Practical understanding of container technologies including Docker, AWS, Kubernetes, Azure, and GCP
+- Familiarity with software development automation and tools
 
 ### Release (CD)
 
