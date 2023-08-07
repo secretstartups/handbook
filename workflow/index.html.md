@@ -470,11 +470,11 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
 There is no specified process whereby a particular person should be working on a set of issues in a given time period.
 However, there are specific deadlines that should inform team workflows and prioritization.
-Suppose we are talking about milestone `m` that will be shipped in month `M` (on the 22nd).
+Suppose we are talking about milestone `m` that will be shipped in month `M` (on the [release date](/handbook/engineering/releases/)).
 We have the following deadlines:
 
 - By month `M-1, 4th` (at least 14 days before milestone `m` begins):
-  - Draft of the issues that will be included in the next release (released 22nd of next month).
+  - Draft of the issues that will be included in the next release (released next month).
   - Start capacity and technical discussions with engineering/UX.
   - Assess error budgets to determine feature/reliability balance.
   - Development engineering manager provides product manager with prioritization input for `type::maintenance` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
@@ -517,7 +517,7 @@ We have the following deadlines:
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
 
-Note that deployments to GitLab.com are more frequent than monthly major/minor releases on the 22nd.
+Note that deployments to GitLab.com are more frequent than monthly major/minor releases.
 See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
 
 ## Kickoff
@@ -711,7 +711,7 @@ Milestones closure is in the remit of [the Delivery team](/handbook/engineering/
 
 ### Milestone cleanup schedule
 
-The milestone cleanup will happen one weekday before the 22nd (release day).
+The milestone cleanup will happen one weekday before the release day.
 
 The following is observed to account for the weekends:
 - If the 22nd falls on the weekend, cleanup happens on the prior friday.
