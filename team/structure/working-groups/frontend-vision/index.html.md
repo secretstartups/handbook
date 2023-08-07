@@ -34,17 +34,16 @@ Currently, our frontend development guidelines only document features and practi
 
 ### Exit Criteria
 
+Updates are being tracked every other week within https://gitlab.com/gitlab-org/gitlab/-/issues/419576.
+
 1. Add introduction page to frontend documentation, explaining direction and high-level overview of the frontend codebase/architecture.
 1. Include evolution of codebase over three year horizon.
 1. List frontend technologies used and the design principals that guide the frontend team's work.
 1. Explicitely define deprecation/removal plans, including why these features are being deprecated.
 1. Communicate outcome to the broader frontend functional group.
 1. Discuss and document communication plan, including frequency of updates from working group.
-1. Document usage of reusable components.
-1. Determine plan around vue-shared.
-1. Determine and document guide on creating/using reusable components.
+1. Document the requirements for reusable components outside of GitLab UI.
 1. [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536)
-1. Complete an update to the frontend RFC process.
 1. Determine how the exception to the main strategy process will work, and if there is a need for a separate area for "wild" ideas.
 1. Determine evaluation and decision-making process for RFCs.
 
@@ -57,7 +56,7 @@ Currently, our frontend development guidelines only document features and practi
 | List frontend technologies used and the design principles that guide the frontend team's work.            |            |                |          | @leipert |
 | Explicitly define deprecation/removal plans, including why these features are being deprecated.           |            |                |          |         |
 | Communicate outcome to the broader frontend functional group.                                             |            |                |          | @donaldcook |
-| Discuss and document communication plan, including the frequency of updates from the working group.       |            |                |          | @donaldcook |
+| Discuss and document communication plan, including the frequency of updates from the working group.       |            | 2023-08-07 | 100% | @donaldcook |
 | Document the requirements for reusable components outside of GitLab UI.                                                                    |            |                |          | @pslaughter |
 | [Determine DRIs around specific parts of frontend documentation.](https://gitlab.com/gitlab-org/gitlab/-/issues/381536) |            |                |          | @andrei.zubov |
 | Determine how the exception to the main strategy process will work, and if there is a need for a separate area for "wild" ideas.                |            |                |          | @ntepluhina |
