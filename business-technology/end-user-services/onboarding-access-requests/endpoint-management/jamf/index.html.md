@@ -169,21 +169,21 @@ Before the required installation date, users can choose to defer the Nudge windo
 
 ### Nudge is requiring a system update, but no update is available under Software Update 
 
-1. Rebooting your Mac, often this will cause a update to appear
-1. Open a Terminal window, and paste the following to install all updates
+- Rebooting your Mac, often this will cause an update to appear
+- Open a Terminal window, and paste the following to install all updates
 ``` shell
 sudo softwareupdate -ia
 ```
-   1. If you are on an older macOS version like macOS Monterey then try fetching the full installer
+   - If you are on an older macOS version like macOS Monterey you can try fetching the full installer
 
 ``` shell
 sudo softwareupdate --fetch-full-installer --full-installer-version <latest macOS version number>
 ```
-1. Try rebooting into [Safe Mode](https://support.apple.com/guide/mac-help/start-up-your-mac-in-safe-mode-mh21245/mac) to run the update 
+- Try rebooting into [Safe Mode](https://support.apple.com/guide/mac-help/start-up-your-mac-in-safe-mode-mh21245/mac) to run the update 
 
 ### Known issues with Nudge
 
-There is a notification pop up called "Clever DevOps Co." that may say Nudge is installed. It is currently a work in progress to change the naming. 
+There is a notification pop up called "Clever DevOps Co." that may say Nudge is installed. 
 
 <img src="clever-devops.png" alt="Clever Devops" width="300">
 
@@ -231,6 +231,12 @@ After doing so, you should be prompted for your password and able to finish the 
 *If you receive a message containing "Error: Renewing DEP enrollment failed: The device no longer has a Device Enrollment configuration assigned to it", then please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
 
 *If you receive a message containing "sudo: jamf: command not found" please follow the [Jamf installation process](#installing-jamf-for-macos-ventura).*
+
+*If you receive a message containing "This policy trigger is already being run: root" followed by numbers and then /usr/local/jamf/bin/jamf policy then please run:*
+``` shell
+sudo killall jamf
+``` 
+and then try re-running the earlier command.
 
 If you receive any other result, please share the outcome of these commands with #it_help.
 
