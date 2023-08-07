@@ -143,6 +143,9 @@ For per-task metrics:
 - If you collect error rate, report it per task. Count errors against all possible steps for that task, including multiple recorded errors from the same participant on the same part of a task (for example, clicking the same wrong link several times). This may leave you with an error rate greater than 100%.
 - For the Customer Effort Score (CES): If your sample is less than 30, use the population standard deviation to calculate your confidence interval. If N is greater than 30, use the standard deviation calculation. [Here's a handy calculator](https://www.calculator.net/standard-deviation-calculator.html) that includes both options and confidence intervals. 
 
+For per-workflow overall grade calculation:
+- If all per-workflow metrics within a workflow are in one category (e.g., "Fair") but the calculated score is in a different grading category (e.g., "Good"), represent the overall grade as the same category as the metrics (e.g., a workflow score of 80 with "Fair"-category sub-metrics is categorized as "Fair" as well).
+
 #### Severity calculation
 In each session, you will record (per task) the severity number that most closely represents that user's experience as defined on [this handbook page](https://about.gitlab.com/handbook/engineering/quality/issue-triage/). This methodology is similar to the widely-known [Nielsen/Norman system](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/), but inverse (where low numbers in our system are of greater severity). 
 
