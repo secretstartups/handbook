@@ -358,9 +358,9 @@ Additionally, during an incident investigation, knowing which high-risk features
     Product Group Development code changes will require Development VP approval
     All other changes, including all underlying cloud and infrastructure changes will require Infrastructure & Quality VP approval.
 
-- **Does this apply to our monthly release which happens on the 22nd?**
+- **Does this apply to our monthly release?**
 
-    No. If 22nd falls under PCL period, additional coordination is necessary to ensure uninterrupted monthly release.
+    No. If the [monthly release](/handbook/engineering/releases/) falls under PCL period, additional coordination is necessary to ensure uninterrupted monthly release.
 
 - **We have a question that is not answered here?**
 
