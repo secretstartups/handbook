@@ -110,7 +110,7 @@ group, we recommend something that follows this general pattern:
 
 Right now we are leaving it to individual Engineering Managers how they would
 like to collect retrospective notes - GitLab issues, Google docs, etc. After the
-retrospective is complete, the Engineering Manager has until the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) (shortly after the 22nd every month) to make relevant notes from the retrospective
+retrospective is complete, the Engineering Manager has until the [Retrospective Summary](/handbook/engineering/workflow/#retrospective-summary) (shortly after the [monthly release](/handbook/engineering/releases/)) to make relevant notes from the retrospective
 public. Groups are encouraged to link to these notes from their group page in the
 handbook.
 
