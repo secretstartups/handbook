@@ -175,7 +175,9 @@ In addition to the topics from the [Topic Calendar](https://about.gitlab.com/com
 1. Reviewing action items from the last offsite
 1. Offsite peer feedback session (10 minute prep, 3 minute sessions, 10 minute closing conversation) (50 minutes). **This always happens on the first day of the offsite**
 1. [Director+ Promotions](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotions"}{:data-ga-location="body"} (as-needed based on number of people, estimate ~10 mins per person)
-    1. To encourage an efficient meeting, we will cap the amount of time that we spend in voicing support for a candidate unless it is to address a question or concern raised. The conversation will end after 5 minutes. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has unanimous promotion support after the 5 minute mark, they can write a comment in the agenda and note that it is a "[won't verbalize]" item.
+    1. To have an efficient meeting and focus on areas that require disussion, we will not spend time discussing a candidate unless questions or concerns are raised. At that point, the E-Group sponsor for the promotion can refer to the candidate promotion case and answer questions. If an E-Group Member wants to document support for a candidate or highlight something positive about a candidate who has not been discussed, they can write a comment in the agenda and note that it is a "[won't verbalize]" item. 
+    1. When a new person is added to the promotion or future promotion list, the sponsorship exec should provide a summary on the person, their contributions, and any areas to be addressed in advanced of the intended promotion window
+
 1. [Content Discussion](/company/offsite/#content-choice){:data-ga-name="content discussion"}{:data-ga-location="body"} (30 minutes - 1 hour)
 1. Spend prioritization discussion (50 minutes)
 1. [E-Group OKR Draft Review meeting](https://about.gitlab.com/company/okrs/#okr-draft-review-meeting) (50 minutes)
