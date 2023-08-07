@@ -169,7 +169,7 @@ If you've found a regression with a potentially high [severity], immediately fol
 
 If a regression is found in a new feature, and only that feature is affected, follow the directions in the QA issue created in the [release/tasks] project for a regular regression.
 
-For high severity bugs found in the lead up to the 22nd of the month please also alert the Release Managers in [#releases].
+For high severity bugs found in the lead up to the [monthly release](/handbook/engineering/releases/) please also alert the Release Managers in [#releases].
 
 ## Resources
 
