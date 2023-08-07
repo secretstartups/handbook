@@ -45,8 +45,8 @@ title: "Abuse on Gitlab.com"
 
 #### Malware for Research Purposes.
 
-Making use of GitLab.com services to deliver malicious executables or as attack infrastructure is prohibited under the [GitLab Website Terms of Use](https://about.gitlab.com/terms/) (**Section 3, “Responsibility of Website Visitors”**).
-We do however understand that making such technical details available for research purposes can benefit the wider community, and as such it will be allowed if the content meets the following criteria:
+Making use of GitLab.com services to deliver malicious executables or as attack infrastructure is prohibited under the [GitLab Acceptable Use Policy] [link to be added once AUP has been launched].
+We do however understand that making such technical details available for research purposes can benefit the wider community, and as such it will be allowed as an exception to our <Acceptable Use Policy> if the content meets the following criteria:
   
   – The Group and Project descriptions must clearly describe the purpose and author of the content.
   – Further details about specific project content that can be independently verified by the **GitLab Security** department must be
