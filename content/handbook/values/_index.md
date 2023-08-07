@@ -392,7 +392,7 @@ It's important that we keep our focus on action, and don't fall into the trap of
 Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
 Every decision can be changed;
 our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
-In a manager-report circumstance, usually the report is the directly responsible individual (DRI).
+In a manager-report circumstance, usually the report is the [Directly Responsible Individuals](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) (DRI).
 The manager may disagree with the final decision, but they still commit to the decision of the DRI.
 
 In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. Sometimes, [many or all individuals may disagree yet choose not to speak up](https://en.wikipedia.org/wiki/Abilene_paradox), because no one believes they would get agreement from the group. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
@@ -908,7 +908,7 @@ Resist the urge to bundle a series of smaller iterations so team members don't s
 
 ##### Make two-way door decisions
 
-Most decisions are easy to reverse. In these cases, the [directly responsible individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion. By [embracing iteration](#embracing-iteration) and making two-way door decisions, we are more efficient and achieve more results.
+Most decisions are easy to reverse. In these cases, the [Directly Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. Only when you can't reverse them should there be a more thorough discussion. By [embracing iteration](#embracing-iteration) and making two-way door decisions, we are more efficient and achieve more results.
 
 ##### Changing proposals isn't iteration
 
