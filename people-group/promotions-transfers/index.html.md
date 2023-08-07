@@ -69,7 +69,6 @@ Most promotions are processed through our twice per year Promotion Calibrations,
 
 ## Twice per Year Promotion Calibration Process & Timeline
 
-
 At GitLab, we promote on a twice per year basis. This means that there is **one effective date every 6 months when team members can be promoted**. We process promotions in Q1 (effective date February 1st) and Q3 (effective date August 1st). There are three core stages to the promotion process: Planning, Calibration, and Processing.
 
 
@@ -85,24 +84,30 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
 
 **Previously, we promoted on a quarterly basis, but transitioned to twice per year to ensure efficiency and scalability of our promotion process. We will move to our twice per year cadence effective in Q1 FY'25, meaning that Q3 FY'24 will be our last quarterly promotion cycle.**
 
+_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated twice per year at the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
 
-- FY24-Q1: _Completed_ Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
- - Planning: 2022-12-20 to 2023-01-06
- - Calibrations: 2023-01-09 to 2023-01-20
- - Processing: 2023-01-23 to 2023-02-01 (Promotions must be added to Workday by 2023-01-20)
+### FY24-Q1
+_Status:_ Completed. Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
+
+- Planning: 2022-12-20 to 2023-01-06
+- Calibrations: 2023-01-09 to 2023-01-20
+- Processing: 2023-01-23 to 2023-02-01 (Promotions must be added to Workday by 2023-01-20)
     - Effective date for promotions: 2023-02-01.
     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
    
-- FY24-Q2: _Completed_ 
- - Planning: 2023-03-15 to 2023-04-01
- - Calibrations: 2023-04-01 to 2023-04-15
- - Processing: 2023-04-15 to 2023-05-01 (promotions must be added to Workday by 2023-04-20)
+### FY24-Q2
+_Status:_ Completed.
+
+- Planning: 2023-03-15 to 2023-04-01
+- Calibrations: 2023-04-01 to 2023-04-15
+- Processing: 2023-04-15 to 2023-05-01 (promotions must be added to Workday by 2023-04-20)
     - Effective date for promotions: 2023-05-01.
     - Communication: After fully approved in either Greenhouse or Workday
     - After communicating 1:1 with individuals **on or after 2023-04-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
+### FY24-Q3
+_Status:_ In progress.
 
-- FY24-Q3: 
 - Planning: 2023-06-12 to 2023-06-23
 - Calibrations: 2023-06-26 to 2023-07-14
 - Processing: 2023-07-17 to 2023-08-01 (promotions must be added to HRIS by 2023-07-20)
@@ -111,17 +116,14 @@ At GitLab, we promote on a twice per year basis. This means that there is **one 
     - After communicating 1:1 with individuals **on or after 2023-07-24**, updates can be posted publicly in #team-member-updates. Managers should _not_ communicate until Total Rewards communicates that the promotions are approved.
 
 
-- FY25-Q1: Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
- - Planning: 2023-12-18 to 2024-01-05
- - Calibrations: 2024-01-08 to 2024-01-19
- - Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
+### FY25-Q1
+_Status:_ Upcoming. Aligned with [Annual Compensation Cycle](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline)
+
+- Planning: 2023-12-18 to 2024-01-05
+- Calibrations: 2024-01-08 to 2024-01-19
+- Processing: 2024-01-22 to 2024-02-01 (Promotions must be added to Workday by 2024-01-19)
     - Effective date for promotions: 2024-02-01.
     - Communication: In conjunction with [annual compensation review raises](/handbook/total-rewards/compensation/compensation-review-cycle/#february). After communicating 1:1 with individuals, updates can be posted publicly in #team-member-updates.
-
-
-_Please note that the Calibration timeline for Senior Director+ promotions will differ slightly from the timelines indicated above, as Senior Director+ promotions are calibrated twice per year at the [E-group offsite](https://about.gitlab.com/company/offsite/#schedule)._
-
-
 
 ## Planning
 
