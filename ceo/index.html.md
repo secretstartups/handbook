@@ -248,6 +248,13 @@ As part of my role, I participate in a variety of meetings both internal and ext
     1. Focus of the call. Is it more about evaluating the candidate or more about getting the candidate excited about the position?
     1. The Greenhouse link or a place for "CEO Notes"
 
+### Candidate interviews with GitLab Board Members
+The recruiter should share a prep package with the Board Member at least 3 business days in advance of a candidate interview. This should include:
+1. The purpose of the interview. The specific ask (for ex, sell, evaluate expertise in x) should be clearly stated
+1. Summaries per interview of all interviews done to date
+1. Any concerns
+1. Guidance on how to provide feedback after the conversation
+
 ## Pick Your Brain interviews
 
 To schedule a Pick Your Brain interview with me, please see the [EBA handbook page](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings). To watch and read prior Pick Your Brain interviews about all-remote, please see the [Interviews page](/company/culture/all-remote/interviews/).
