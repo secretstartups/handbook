@@ -40,7 +40,6 @@ TBD
 FY24 Q3: 2023-08-01 - 2023-10-31
 
 ## Roles and Responsibilities
-
-- DRI: [Nikki Silverberg](https://gitlab.com/nikkiroth) 
+- DRI: [Nikki Silverberg](https://gitlab.com/nikkiroth)
 - Sponsor: [Denise Parsonage](https://gitlab.com/dparsonage)
-- Working Group Members: [Amruta Kulkarni](https://gitlab.com/akulks), [Brian Mason](https://gitlab.com/brianmason), [Eirini Panagiotopoulou](https://gitlab.com/eirinipan), [Ginny Reib](https://gitlab.com/Greib), [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene), [Katie Rogel](https://gitlab.com/krogel), [Michael Friedrich](https://gitlab.com/dnsmichi), [Nikki Silverberg](https://gitlab.com/nikkiroth)
+- Working Group Members: [Allison Graban](https://gitlab.com/agraban), [Amruta Kulkarni](https://gitlab.com/akulks), [Brian Mason](https://gitlab.com/brianmason), [Eirini Panagiotopoulou](https://gitlab.com/eirinipan), [Ginny Reib](https://gitlab.com/Greib), [Indre Kryzeviciene](https://gitlab.com/ikryzeviciene), [Katie Rogel](https://gitlab.com/krogel), [Mao Nogales Lazarini](https://gitlab.com/mnogales),  [Michael Friedrich](https://gitlab.com/dnsmichi)
