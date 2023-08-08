@@ -113,7 +113,7 @@ probably want to "star" your personal Support Call event to simplify the pop-up 
 Then simply click on the one-time link icon next to the event of your choice to generate a link you can paste into
 your message to the customer.
 
-![Browser plug-in](assets/calendly.png)
+![Browser plug-in](../assets/calendly.png)
 
 If you do not want to use a supported browser, you can generate a link from your Calendly home page according to [the Calendly documentation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
 
@@ -136,8 +136,8 @@ List your available events:
 
 ```plaintext
 curl -sG -H "Authorization: Bearer $t" \
-  -d user=$uri \  
-  "https://api.calendly.com/event_types" \           
+  -d user=$uri \
+  "https://api.calendly.com/event_types" \
   | jq -r '.collection[]|select(.active == true)|([.name,.uri] | join(","))' \
   | column -s',' -t -d
 ```

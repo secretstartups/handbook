@@ -1,12 +1,9 @@
 ---
-
 title: Ensuring correct SLA and Zendesk views
 description: "A walk through of verifying and if needed, correcting the SLA on tickets, and visibility in the correct Zendesk view."
 category: Handling tickets
 subcategory: Triaging
 ---
-
-
 
 ## Purpose of this page
 
@@ -32,7 +29,7 @@ do not receive a SLA if they are linked to a service level. These are not expect
 - `Hold`. This is rarely used and indicates delayed payment or another issue with the sales process.
 Consider contacting the Account Owner (Manager) to clarify the customer's status.
 
-![Checking the value of GitLab Plan](/images/handbook/support/zendesk_check_org_fields.gif)
+![Checking the value of GitLab Plan](/images/support/zendesk_check_org_fields.gif)
 
 ### Organization exists in SFDC but support level does not match Zendesk
 
@@ -55,14 +52,14 @@ follow this process to verify and fix the issue.
 1. Open [Salesforce](/handbook/support/workflows/looking_up_customer_account_details.html#within-salesforce) and find the customer in question.
 1. Click `Show feed` button at the upper part of the page.
 
-  ![SFDC show feed](/images/handbook/support/sfdc_show_feed.png)
+  ![SFDC show feed](/images/support/sfdc_show_feed.png)
 
 1. Send a message there asking to clarify the customer's status and mention
   `@Sales-Support` username in SFDC, they should be able to help with such cases.
   Make sure that `@Sales-Support` is converted into clickable username, otherwise
   Sales Support team will not get your message (see the GIF below):
 
-  ![Pinging Sales-Support in SFDC](/images/handbook/support/sfdc_sales_support.gif)
+  ![Pinging Sales-Support in SFDC](/images/support/sfdc_sales_support.gif)
 
   Example of the message:
 
@@ -104,7 +101,7 @@ For the specific ticket:
 
 1. After making sure that tags are updated correctly, submit the ticket to apply the changes.
 
-![Updating tags in a ticket](/images/handbook/support/zendesk_updating_tags.gif)
+![Updating tags in a ticket](/images/support/zendesk_updating_tags.gif)
 
 **Note**: When you assign a tag, there is a chance that the ticket will breach immediately.
 It is not strictly necessary but, if possible, send a public reply before
@@ -116,7 +113,7 @@ to submit the ticket with both changes at the same time.
 Now that you've added the appropriate domain, head back to your original ticket
 and verify that it is associated with the appropriate organization and SLA.
 
-![Verifying SLA](/images/handbook/support/zendesk_needs_org-verifying-sla.png)
+![Verifying SLA](/images/support/zendesk_needs_org-verifying-sla.png)
 
 #### Example: full sequence of actions that should be done to fix incorrectly expired organization
 

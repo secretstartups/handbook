@@ -5,11 +5,6 @@ category: On-call
 description: "Describes the exception process for emergencies with some examples"
 ---
 
-- TOC
-{:toc}
-
-----
-
 ## Introduction
 
 Support Engineers and Managers coordinate operational emergencies from GitLab customers. However, not all tickets raised as emergencies

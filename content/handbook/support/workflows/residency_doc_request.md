@@ -1,12 +1,8 @@
 ---
-
 title: Handling fiscal residency document (COR) requests
 category: Handling tickets
 description: "Workflow to follow when customers request fiscal residency documents (COR)"
 ---
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 

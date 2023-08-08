@@ -1,17 +1,9 @@
 ---
-
 title: Custom domain verification on GitLab.com
 category: GitLab.com
 subcategory: Troubleshooting
 description: How Support will verify a custom domain if required for GitLab.com.
 ---
-
-## On this page
-
-- TOC
-{:toc}
-
-- - -
 
 ### Overview
 

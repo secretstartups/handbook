@@ -35,14 +35,29 @@ See also, the [Service Desk runbook doc](https://gitlab.com/gitlab-com/runbooks/
 
 ## Email to Service Desk Email Flow
 
-![Service Desk Troubleshooting Flowchart](assets/service-desk-troubleshooting-workflow.png)
+```mermaid
+graph TD;
+  subgraph "User Email to Service Desk Issue"
+  SubGraph1Flow(Email to Service Desk)
+  SubGraph2Flow(Spam?)
+  SubGraph3Flow(Mailgun/Support Bot Sends Confirmation to Sender)
+  Node1[User Email/CRM] --> Node2[Optional: User Alias]
+  Node2[Optional: User Alias] --> SubGraph1Flow
+  DoChoice1(Mailgun sends failure notice to sender)
+  SubGraph1Flow -- Failure --> DoChoice1
+  SubGraph1Flow -- Success  --> SubGraph2Flow
+  DoChoice3(Send to gmail spam folder and Service Desk email is not processed)
+  DoChoice4(Send to gmail Inbox and Service Desk email is processed)
+  SubGraph2Flow -- Yes --> DoChoice3
+  SubGraph2Flow -- No  --> DoChoice4 --> SubGraph3Flow
+end
+```
 
 Mermaid source:
 
 ```text
     ```mermaid
-        graph TB
-
+        graph TD;
           subgraph "User Email to Service Desk Issue"
           SubGraph1Flow(Email to Service Desk)
           SubGraph2Flow(Spam?)

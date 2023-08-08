@@ -11,8 +11,8 @@ The GitLab Support Team provides technical support to GitLab.com and Self-Manage
 | ---------- | --------- | --------------------- |
 | A customer, or an advocate for a customer | Technical assistance | Public [Support Page](https://about.gitlab.com/support), which describes the best way to get the help you need and lists GitLab's paid service offerings |
 | GitLab team member | Technical assistance | [Internal Support for GitLab Team Members page](internal-support) |
-| New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities.html) page and [Support Learning Pathways](/handbook/support/training/) |
-| New Support Manager | Onboarding / Learning | [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities.html) page and [Support Manager Pathways](/handbook/support/training/#support-manager-onboarding-pathway) |
+| New Support Team member | Onboarding / Learning | [Support Engineer Responsibilities](/handbook/support/support-engineer-responsibilities) page and [Support Learning Pathways](/handbook/support/training/) |
+| New Support Manager | Onboarding / Learning | [Support Manager Responsibilities](/handbook/support/managers/manager-responsibilities) page and [Support Manager Pathways](/handbook/support/training/#support-manager-onboarding-pathway) |
 
 Know someone who might be a great fit for our team? Please refer them to the job-family descriptions below.
 
@@ -57,7 +57,7 @@ which are largely focused around pursuing customer success and satisfaction
 while driving efficiency by increasing output while keeping costs within a
 predefined range.
 
-This is also why [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities.html)
+This is also why [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities)
 include contributing code and documentation and working alongside Product
 Managers on our products: By using the knowledge gained from interacting with
 our customers to make our products or docs better, we solve problems before
@@ -140,10 +140,10 @@ Below we also have some commonly referenced pages:
 
 - [Support Global Groups](/handbook/support/support-global-groups/index.html) - all
   about the smaller groups in which Support Engineers work on support tickets
-- [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities.html)
-- [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas.html)
-- [Support Engineer career path](/handbook/support/support-engineer-career-path.html)
-- [Support Manager responsibilities](/handbook/support/managers/manager-responsibilities.html)
+- [Support Engineer responsibilities](/handbook/support/support-engineer-responsibilities)
+- [Support Engineer knowledge areas](/handbook/support/workflows/knowledge_areas)
+- [Support Engineer career path](/handbook/support/support-engineer-career-path)
+- [Support Manager responsibilities](/handbook/support/managers/manager-responsibilities)
 
 ---
 
@@ -197,7 +197,7 @@ Dogfooding is using a piece of GitLab *for its intended purpose*. For example, o
 
 In other words: Dogfooding is using the product in the way that our customers would use it to the end of discovering and solving pain points that they have. Dogfooding supports [customer results](/handbook/values/#customer-results).
 
-At GitLab Support we use Service Desk to process [Personal Data Requests](/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
+At GitLab Support we use Service Desk to process [Personal Data Requests](https://about.gitlab.com/handbook/gdpr/), but not for our global support because the customer for Service Desk is primarily small teams soliciting [*bug reports, feature requests, or general feedback*](https://docs.gitlab.com/ee/user/project/service_desk/). Through our use of Service Desk in this smaller setting we've been able to influence product direction towards adding features like [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note).
 
 We continually evaluate product features for use-cases within Support and provide feedback and feature requests where blockers exist. Support will always prioritize [customer results](/handbook/values/#customer-results) over any other consideration.
 
@@ -215,7 +215,7 @@ TODO: Replace with current GitLab implementation
 
 ## Hazards and Challenges
 
-See [Managers/Hazards page](/handbook/support/managers/hazards-and-challenges.html)
+See [Managers/Hazards page](/handbook/support/managers/hazards-and-challenges)
 
 ## Communications
 
@@ -428,7 +428,7 @@ All Zoom and agenda links can be found on the relevant calendar entry in the [Su
 #### Support Team Call
 
 Support team members in some regions meet up regularly.
-Details of these calls are on the [Weekly Support Team Call workflow page](/handbook/support/workflows/team/weekly_team_call.html).
+Details of these calls are on the [Weekly Support Team Call workflow page](/handbook/support/workflows/team/weekly_team_call).
 
 #### Support Leadership Meetings
 
@@ -517,7 +517,7 @@ between a product team and Support for the purpose of discussing product issues,
 sharing product knowledge and representing customer needs. If you are interested
 in becoming a Support Stable Counterpart, or would like to learn more about the
 role, read the
-[Support Stable Counterparts](/handbook/support/support-stable-counterparts.html)
+[Support Stable Counterparts](/handbook/support/support-stable-counterparts)
 page.
 
 #### Support Liaison
@@ -527,7 +527,7 @@ a non-product team and Support for the purpose of sharing knowledge
 about each team's work and of developing processes and documentation to allow
 the two teams to work together well. If you are interested in becoming a
 Support Liaison, or would like to learn more about the role, read the
-[Support Liaisons](/handbook/support/support-liaisons.html) page.
+[Support Liaisons](/handbook/support/support-liaisons) page.
 
 ## Processes
 
@@ -550,8 +550,8 @@ Artifacts of approval can include:
 
 - [Support Workflows](/handbook/support/workflows)
   - [Internal Policies and Procedures Wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/home)
-  - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets.html)
-  - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues.html)
+  - [How to Work with Tickets](/handbook/support/workflows/working-on-tickets)
+  - [How to Submit issues to Product/Development](/handbook/support/workflows/working-with-issues)
   - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
   - [How to Submit Docs when working on customer issues](/handbook/documentation) (see 'docs-first methodology')
 - [License & Renewals Workflows](/handbook/support/license-and-renewals/workflows)
@@ -590,7 +590,7 @@ Providing information by reacting to a message with a specific emoji.
 
 ### Time Off
 
-*See the [Support Time Off page](/handbook/support/support-time-off.html)*
+*See the [Support Time Off page](/handbook/support/support-time-off)*
 
 ### Onboarding
 
@@ -655,7 +655,7 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 - [Product Categories](https://about.gitlab.com/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support/)
 - [Support Managers](/handbook/support/managers/)
-- [Support Hiring](/handbook/support/managers/hiring.html)
+- [Support Hiring](/handbook/support/managers/hiring/)
 - [Support Channels](/handbook/support/channels/)
 - [On-Call](https://about.gitlab.com/handbook/on-call/)
 - [License & Renewals](/handbook/support/license-and-renewals/)
