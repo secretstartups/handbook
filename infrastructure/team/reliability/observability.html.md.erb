@@ -121,6 +121,15 @@ For general communication and questions, the team can be found in the [#g_infra_
 * [Current Triage board](https://gitlab.com/gitlab-com/gl-infra/reliability/-/boards/1676912?label_name[]=Squad%3A%3AObservability)
 * [Current Epic Board](https://gitlab.com/groups/gitlab-com/gl-infra/-/epic_boards/38727?label_name[]=team%3A%3AObservability)
 
+### Metrics Specific Vision
+
+We are creating a simpler customer experience to ship metrics to thanos with remote write.  The [envisioned Architecture](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/thanos/architecture.md) for remote write will enable tenants to more easily configure [Prometheus remote write](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#remote_write) instead of setting up Thanos SideCar and various Thanos Store configuration.  We will also then move rule evaluation for things like the service metrics SLx to the Thanos rulers.
+
+
+### Log Shipping Specific Vision
+
+Similar to metrics, we want to make the experience of shipping logs to our Observability tooling simpler.  The [current architecture](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging?ref_type=heads#logging-infrastructure-overview) is complex.  The goal would be to enable a remote-write like experience for logs.  Teams would only need to add a sidecar log processor like [Promtail](https://grafana.com/docs/loki/latest/clients/promtail/) or [Fluentd](https://gitlab.com/gitlab-com/runbooks/-/tree/master/docs/logging?ref_type=heads#fluentd).  From there, they only need an endpoint, tennant ID and credientials.  On the backend, the Observability tooling would be able handle the ingestion of logs and shipping to long term storage for compliance and security along with shipping to a queryable place for teams to do investigation. Additionally the move to a tenant based model will enable us to enforce limits and quotas, as a further control to prevent unexpected log growth. 
+
 ### Useful links / videos for learning;
 
 Readiness Reviews:
