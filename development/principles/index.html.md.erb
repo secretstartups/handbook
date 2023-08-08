@@ -9,23 +9,68 @@ title: Engineering Principles
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Prioritizing technical decisions
+## Engineering Principles
 
-Please see the [Product Management section](/handbook/product/product-processes/#how-we-prioritize-work) that governs how they prioritize work, and also should guide our technical decision making.
+At GitLab, [Company Culture](/company/culture) is very important to us. The
+main ingredient of the company culture are [GitLab Values](/handbook/values/).
 
-<%= partial "includes/master-prioritization-list.md" %>
+[GitLab Values](/handbook/values/) have guided us throughout the evolution of
+the company. Those values have been crucial in maintaining a positive and
+productive culture, helping us make decisions to make the company and the
+product better.
 
-Despite the high priority of velocity to our project and our company, there is one set of things we must prioritize over it: GitLab availability & security. Neither we, nor our customers, can run an Enterprise-grade service if we are willing to risk users' productivity and data.
+Our Engineering Principles are built on top of [GitLab Values](/handbook/values/),
+and provide additional explanation of these in the context of the software
+engineering practice.
 
-Our hundreds of Engineers collectively make thousands of independent decisions each day that can impact GitLab.com and our users and customers there. They all need to keep availability and security in mind as we endeavor to be the most productive engineering organization in the world. We can only move as fast as GitLab.com is available and secured. Availability of self-managed GitLab instances is also extremely important to our success, and this needs to happen in partnership with our customers' admins (whereas we are the admins for GitLab.com).
+1. [Iteration](#iteration)
+1. [Simplicity](#simplicity)
+1. [Reliability](#reliability)
+1. [Quality](#quality)
+1. [Predictability](#predictability)
+1. [Velocity](#velocity)
 
-For security, we prioritize it more highly by having strict SLAs around priorities labels with [security issues](/handbook/security/#severity-and-priority-labels-on-security-issues). This shows a security first mindset as these issues take precedence in a given timeframe.
+## Iteration
 
-### The Importance of Reliability
+We always push ourselves to be iterative and make the [minimal viable
+change](/handbook/product/product-principles/#the-minimal-viable-change-mvc)
+that is on the direct path to achiving our goals.
+
+For complex initatives we are using [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
+to define our goals and describe iteration principles for a given effort. How
+we will iterate on something will largely depend on our iteration vision. We
+want to make the iteration as efficient and as pragmatic as possible.
+
+In some cases we can use the "scooter heuristic", described below:
+
+![scooter heuristic](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
+
+Image Credit: [Henrik Kniberg from Crisp](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+
+It is sometimes a good way to think about iteration this way, especially when
+intermediate iterations provide value to our users and allow us to collect
+meaningful feedback. This, however, is not always the case, and sometimes we do
+need to have a tailored plan for efficient iteration. If we want to build a
+starship, our users will not be happy with a paper plane, and building a paper
+plane will not get us closer to our goals.
+
+To read more about iteration, see our [values](/handbook/values/#iteration)
+page and [engineering workflow](/handbook/engineering/workflow/iteration/).
+
+## Simplicity
+
+Simplicity is a prerequisite for reliability. It is also at the core our
+[boring solutions](/handbook/values/#boring-solutions) value. We strive for
+choosing simple solution over easy solution, even when it sometimes means that
+we will need to put more work into building a simple solution.
+
+## Reliability
 
 **Availability/Reliability**, **Quality**, **Security**, and **Performance** are the pillars for building reliable software. Reliability is our contract with our customers that say you can count on us to deliver an available and dependable product. Everyone in the organization has a role to play.
 
 Engineers, Product Managers, and Designers have the most direct influence over the reliability of the code through either planning, implementation, monitoring (e.g. [Kibana](/handbook/support/workflows/kibana.html), [Sentry](/handbook/support/workflows/sentry.html), Grafana and other [Gitlab.com monitoring tools](/handbook/engineering/monitoring/#monitoring)), or prioritization of the work. Product and Engineering management monitors (e.g. [Error Budgets](/handbook/engineering/error-budgets/)) and measures the reliability of features and makes recommendations if necessary. Our focus on [learning and development](/handbook/people-group/learning-and-development/) will also ensure that teams have the tools and training required to build reliable software. The [Infrastructure](/handbook/engineering/infrastructure/#mission), [Application Security](/handbook/security/security-engineering/application-security/#application-security-mission), [Database](/handbook/engineering/development/enablement/data_stores/database/) and [Quality](/handbook/engineering/quality/#mission) teams are the Subject Matter Experts supporting product development teams.
+
+## Velocity
 
 ### The Importance of Velocity
 
@@ -64,15 +109,7 @@ Just like with our [OKRs](/company/okrs/), which are so ambitious that we expect
 
 _Note:_ This does not mean we place zero value on predictability. We just optimize for velocity first.
 
-### Follow Established Processes
-
-All team members are expected to follow documented processes. We develop and document processes (for example: [Feature flag usage](https://docs.gitlab.com/ee/development/feature_flags/index.html), [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html)) through constant iteration and refinement. We find opportunities for improvement through analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal\root-cause-analysis.html), and receiving feedback from team members. Team members are encouraged to identify opportunities to improve our processes and propose solutions, examples of this could be an MR or and issue describing these opportunities.
-
-Following established processes ensures that we learn from our mistakes and efficiently deliver high-quality, highly performant, and secure software. We prefer to fail fast and learn quickly. Team members who are not software developers benefit from working more efficiently to deliver their results as well. Regardless of your discipline, processes are the guard rails that ensure we produce desirable and predictable results.
-
-Everyone can contribute by proposing new processes and improving upon existing processes.
-
-## Balance refactoring and velocity
+### Balance refactoring and velocity
 
 When changing an outdated part of our code (e.g. HAML views, jQuery modules), use discretion on whether to refactor or not. For long term maintainability, we are very interested in migrating old code to the consistent and preferred approach (e.g. Vue, GraphQL), but we're also interested in continuously shipping features that our users will love.
 
@@ -90,67 +127,29 @@ If it is decided **not** to refactor at this moment, then please:
 - Make sure a descriptive "technical debt" issue exists for this refactoring.
 - Notify your engineering manager so that the refactoring issue can be weighted and scheduled.
 
-## Iteration
+## Predictability
 
-We always push ourselves to be iterative and make the [minimal viable change](/handbook/product/product-principles/#the-minimal-viable-change-mvc). The image below provides an example of how we should iterate:
+### Prioritizing technical decisions
 
+Please see the [Product Management section](/handbook/product/product-processes/#how-we-prioritize-work) that governs how they prioritize work, and also should guide our technical decision making.
 
-![build a car vs start with skateboard and move to car](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
+<%= partial "includes/master-prioritization-list.md" %>
 
-Image Credit: [Henrik Kniberg from Crisp](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+Despite the high priority of velocity to our project and our company, there is one set of things we must prioritize over it: GitLab availability & security. Neither we, nor our customers, can run an Enterprise-grade service if we are willing to risk users' productivity and data.
 
-When iterating, our goal is to build something quick and functional. In the example above, we should aim to build something that can transport us from A to B even though it may not have all of the nice-to-have features like an engine, seats, or air conditioning.
+Our hundreds of Engineers collectively make thousands of independent decisions each day that can impact GitLab.com and our users and customers there. They all need to keep availability and security in mind as we endeavor to be the most productive engineering organization in the world. We can only move as fast as GitLab.com is available and secured. Availability of self-managed GitLab instances is also extremely important to our success, and this needs to happen in partnership with our customers' admins (whereas we are the admins for GitLab.com).
 
-The example's upper sequence shows how we should not iterate. The problem with going from a wheel to a wheel base to a frame to a car is that the first few iterations are not functional.
+For security, we prioritize it more highly by having strict SLAs around priorities labels with [security issues](/handbook/security/#severity-and-priority-labels-on-security-issues). This shows a security first mindset as these issues take precedence in a given timeframe.
 
-The example's lower sequence shows how we should iterate. Building a skateboard is low complexity and can be assembled in a day while building a car is high complexity and takes thousands of parts and a much longer assembly time. A skateboard is not as fast as a car yet it can still transport a person. Each subsequent iteration provides the person with more speed, more control, and a better aesthetic.
+### Follow Established Processes
 
-One common misconception of iteration is that there is no waste. Using the example above, the parts of a skateboard can be reused in a scooter, however, they likely cannot be reused in a car. Iteration often requires us to throw away product or code to make way for a better product.
+All team members are expected to follow documented processes. We develop and document processes (for example: [Feature flag usage](https://docs.gitlab.com/ee/development/feature_flags/index.html), [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html)) through constant iteration and refinement. We find opportunities for improvement through analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal\root-cause-analysis.html), and receiving feedback from team members. Team members are encouraged to identify opportunities to improve our processes and propose solutions, examples of this could be an MR or and issue describing these opportunities.
 
-To read more about iteration, see our [values](/handbook/values/#iteration) page and [engineering workflow](/handbook/engineering/workflow/iteration/).
+Following established processes ensures that we learn from our mistakes and efficiently deliver high-quality, highly performant, and secure software. We prefer to fail fast and learn quickly. Team members who are not software developers benefit from working more efficiently to deliver their results as well. Regardless of your discipline, processes are the guard rails that ensure we produce desirable and predictable results.
 
-## Dogfooding
+Everyone can contribute by proposing new processes and improving upon existing processes.
 
-We [dogfood everything](/handbook/product/product-processes/#dogfood-everything). Based on our [product principles](/handbook/product/#product-principles), it is the Engineering division's responsibility to dogfood features or do the required discovery work to provide feedback to Product. It is Product's responsibility to prioritize improvements or rebuild functionality in GitLab.
-
-### Dogfooding Antipatterns
-
-An easy antipattern to fall into is to resolve your problem outside of what the
-product offers. Dogfooding is not:
-
-1. Building a bot outside of GitLab.
-1. Writing scripts that leverage the GitLab API (if the functionality is on our
-roadmap and could be shipped within the GitLab Project).
-1. Using a component of GitLab that is part of our [components](https://docs.gitlab.com/ee/development/architecture.html#component-diagram) or [managed apps](https://docs.gitlab.com/ee/user/clusters/applications.html).
-1. Using templates or repos that are not part of the default UI (having to type or copy-paste to add them).
-1. Not deprecating the non-GitLab product or part as you introduce the functionality in GitLab, we need to eat the dogfood, not just serve it.
-1. Using it for something that isn't crucial or essential.
-1. Delaying until every single feature you use now is in the GitLab product.
-1. Not starting it because using a non-GitLab and GitLab product at the same time introduces overhead.
-1. Trying to move the most complex part first, instead please iterate and move the simplest first.
-1. Building it outside of GitLab because "It is just a prototype", "We're not sure it will work", or "We're not sure it is better than the existing functionality"
-
-
-### Dogfooding Process
-
-Follow the [dogfooding process described in the Product Handbook](/handbook/product/product-processes/#dogfooding-process) when considering building a tool outside of GitLab.
-
-## Code Quality and Standards
-
-We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides] in general, and the ones that relates to your group in particular:
-
-- [UX Guides](https://docs.gitlab.com/ee/development/ux)
-- [Backend Guides](https://docs.gitlab.com/ee/development/#backend-guides)
-- [Frontend Guides](https://docs.gitlab.com/ee/development/fe_guide/index.html)
-- [Database Guides](https://docs.gitlab.com/ee/development/#database-guides)
-
-Please remember that the only way to make code flexible is to make it as simple as possible:
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of programmers make the mistake of thinking the way you make code flexible is by predicting as many future uses as possible, but this paradoxically leads to *less* flexible code.<br>
-The only way to achieve flexibility is to make things as simple and easy to change as you can.</p>&mdash; Nearby Cats (@BaseCase) <a href="https://twitter.com/BaseCase/status/1085686616499183616?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Quality is everyone's responsibility
+## Quality
 
 It is important to remember that quality is everyone's responsibility. Everything you merge to master should be production ready. Familiarize yourself with the [definition of done].
 
@@ -184,31 +183,71 @@ If it is essential that a merge request make it in a particular release, this mu
 
 In general, there is no need to change any behavior close to the self-managed release.
 
-## UI consistency and maintainability across Rails and VueJS Frontend
+### Dogfooding
 
-Part of our engineering culture is to keep shipping so users and customers see significant new value added to GitLab.com or their self-managed instance. To support rapid development, we choose pragmatically the right technology. As each view is unique, we should equally respect our HAML and Vue codebase and make an educated choice per view as to which framework will enable the most consistency and maintainability. 
+We [dogfood everything](/handbook/product/product-processes/#dogfood-everything). Based on our [product principles](/handbook/product/#product-principles), it is the Engineering division's responsibility to dogfood features or do the required discovery work to provide feedback to Product. It is Product's responsibility to prioritize improvements or rebuild functionality in GitLab.
 
-It’s important to keep in mind that when building complex applications, there are many factors to consider such as the fully planned feature to avoid situations where we build an MVC in HAML only to later need to re-write it in Vue due to growing complexity. 
+#### Dogfooding Antipatterns
+
+An easy antipattern to fall into is to resolve your problem outside of what the
+product offers. Dogfooding is not:
+
+1. Building a bot outside of GitLab.
+1. Writing scripts that leverage the GitLab API (if the functionality is on our
+roadmap and could be shipped within the GitLab Project).
+1. Using a component of GitLab that is part of our [components](https://docs.gitlab.com/ee/development/architecture.html#component-diagram) or [managed apps](https://docs.gitlab.com/ee/user/clusters/applications.html).
+1. Using templates or repos that are not part of the default UI (having to type or copy-paste to add them).
+1. Not deprecating the non-GitLab product or part as you introduce the functionality in GitLab, we need to eat the dogfood, not just serve it.
+1. Using it for something that isn't crucial or essential.
+1. Delaying until every single feature you use now is in the GitLab product.
+1. Not starting it because using a non-GitLab and GitLab product at the same time introduces overhead.
+1. Trying to move the most complex part first, instead please iterate and move the simplest first.
+1. Building it outside of GitLab because "It is just a prototype", "We're not sure it will work", or "We're not sure it is better than the existing functionality"
+
+#### Dogfooding Process
+
+Follow the [dogfooding process described in the Product Handbook](/handbook/product/product-processes/#dogfooding-process) when considering building a tool outside of GitLab.
+
+### Code Quality and Standards
+
+We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides] in general, and the ones that relates to your group in particular:
+
+- [UX Guides](https://docs.gitlab.com/ee/development/ux)
+- [Backend Guides](https://docs.gitlab.com/ee/development/#backend-guides)
+- [Frontend Guides](https://docs.gitlab.com/ee/development/fe_guide/index.html)
+- [Database Guides](https://docs.gitlab.com/ee/development/#database-guides)
+
+Please remember that the only way to make code flexible is to make it as simple as possible:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A lot of programmers make the mistake of thinking the way you make code flexible is by predicting as many future uses as possible, but this paradoxically leads to *less* flexible code.<br>
+The only way to achieve flexibility is to make things as simple and easy to change as you can.</p>&mdash; Nearby Cats (@BaseCase) <a href="https://twitter.com/BaseCase/status/1085686616499183616?ref_src=twsrc%5Etfw">January 16, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### UI consistency and maintainability across Rails and VueJS Frontend
+
+Part of our engineering culture is to keep shipping so users and customers see significant new value added to GitLab.com or their self-managed instance. To support rapid development, we choose pragmatically the right technology. As each view is unique, we should equally respect our HAML and Vue codebase and make an educated choice per view as to which framework will enable the most consistency and maintainability.
+
+It’s important to keep in mind that when building complex applications, there are many factors to consider such as the fully planned feature to avoid situations where we build an MVC in HAML only to later need to re-write it in Vue due to growing complexity.
 
 To promote visual consistency and an accessible UI, we should always aim to use simple and reusable UI components provided by the [GitLab UI component library](https://gitlab.com/gitlab-org/gitlab-ui/) both in Vue and HAML views. We implement GitLab UI components based on our Pajamas design system and currently these are mostly in Vue, however, we provide [adapters](https://docs.gitlab.com/ee/development/fe_guide/haml.html#available-components) that allow us to use a few simple components in HAML as well. 
 
 If a GitLab UI component is not available on HAML due to its intrinsic complexity, this is a sign that you should implement your feature using Vue instead.
 
-### When to use VueJS
+#### When to use VueJS
 
 - You are looking to use an already established component from the ([gitlab-ui](https://gitlab.com/gitlab-org/gitlab-ui)) library.
 - You are building a complex feature that will require multiple [complex components](#complex-components) which are connected to provide interactivity in a single page application.
 - You find yourself enhancing a HAML view's behavior with vanilla JavaScript / jQuery (reactive or asynchronous behavior).
 - You require medium or larger client-side interactivity.
-- You want to build a realtime application. 
+- You want to build a realtime application.
 
-### When to use Rails
+#### When to use Rails
 
 - You require a simple, static view.
-- You do not need to use multiple components or state management. 
+- You do not need to use multiple components or state management.
 - You do not need to use any of the [complex components](#complex-components) from the ([gitlab-ui](https://gitlab.com/gitlab-org/gitlab-ui)) library (this does not extend to simple components which can be used in HAML such as labels).
 
-### Complex Components
+#### Complex Components
 
 A complex component denotes a type of component that cannot be used easily in our HAML files. This might be due to in-built state management, CSS or dynamic behaviour that rapidly becomes a maintainability burden inside HAML. An example of such a component would be our [Table component](https://gitlab-org.gitlab.io/gitlab-ui/?path=/docs/base-table-table--default).
 
