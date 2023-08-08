@@ -1,15 +1,15 @@
 ---
-title: "Area Vice President"
+title: "Area Vice President, Commercial Sales"
 ---
 
-The Area Vice President is responsible for building and managing a team of Area Sales Managers who are leading teams of Strategic Account Leaders selling GitLab's industry leading single application for the full software development lifecycle.
+The Area Vice President is responsible for building and managing a team of Area Sales Managers who are leading teams of Account Executives selling GitLab's industry leading single application for the full software development lifecycle.
 
 The Area Vice President reports into the [VP, Commercial Sales](https://handbook.gitlab.com/job-families/sales/vp-of-commercial-sales/).
 
 ## Responsibilities
 
 - Establish and deliver on a strategy to land new customers with a mutual vision for expansion and expand existing accounts with purpose, driving customer success and predictable year over year ARR growth for GitLab.
-- Recruit and develop a top tier, diverse, efficient enterprise sales organization of Area Sales Managers and Strategic Account Leaders
+- Recruit and develop a top tier, diverse, efficient commercial sales organization of Area Sales Managers and Account Executives
 - Maintain key customer relationships and develop and implement strategies for expanding the company’s customer base
 - Provide detailed and accurate sales forecasting
 - Manage overall sales process, set appropriate metrics for sales funnel management
@@ -18,7 +18,7 @@ The Area Vice President reports into the [VP, Commercial Sales](https://handbook
 ## Requirements
 
 - Demonstrated progressive second line leadership experience leading teams in strategic sales.
-- Multiple repeatable proof points of recruiting, hiring, developing, and retaining leaders and individual contributors that make-up a high performing enterprise sales organization.
+- Multiple repeatable proof points of recruiting, hiring, developing, and retaining leaders and individual contributors that make-up a high performing commercial sales organization.
 - Deep experience selling into accounts in core markets.
 - Demonstrated progressive experience in consistent overachievement of a $20m+ ACV annual quota
 - Demonstrated progressive experience in software sales, preferably with development tool and/or open source experience
@@ -58,7 +58,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
-- Next, candidates will be invited to schedule one or more interviews with members of the Enterprise sales team.
+- Next, candidates will be invited to schedule one or more interviews with members of the Commercial sales team.
 - Next, candidates will be invited to schedule one or more interviews with Business Partners
 - Finally, candidates may be asked to interview with our CRO.
 
