@@ -103,16 +103,12 @@ Then, respond to the user with information about the cause of the issue, provide
 
 ###### Issues found in Sentry
 
-{:.no_toc}
-
 1. Convert the issue to a GitLab issue by using the "Create GitLab Issue" button on the issue page.
 1. Comment on the issue providing a link to the Zendesk ticket.
 1. Add any additional labels if needed such as `customer`, [priority and severity](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels), and the appropriate DevOps stage.
 1. Respond to the user with information about the cause of the issue, provide a link to it, and invite them to subscribe to it for updates.
 
 ###### Issues found in Kibana
-
-{:.no_toc}
 
 1. Get a ["short url"](https://www.elastic.co/guide/en/kibana/3.0/sharing-dashboards.html) to the Kibana logs.
 1. Create a new [GitLab](https://gitlab.com/gitlab-org/gitlab) issue and be sure to include a link to the Zendesk ticket along with the Kibana logs.

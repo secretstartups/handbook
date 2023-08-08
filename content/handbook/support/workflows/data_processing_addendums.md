@@ -24,9 +24,9 @@ Data Processing Addendums are available to paid subscribers of GitLab.com throug
 
 ### Screenshots
 
-1. ![Salesforce ID in Zendesk organization](assets/dpa_1.png)
-1. ![Salesforce ID in Zendesk ticket note](assets/dpa_2.png)
-1. ![Salesforce ID in CustomersDot](assets/dpa_3.png)
+1. ![Salesforce ID in Zendesk organization](../assets/dpa_1.png)
+1. ![Salesforce ID in Zendesk ticket note](../assets/dpa_2.png)
+1. ![Salesforce ID in CustomersDot](../assets/dpa_3.png)
 
 ### Example Tickets
 

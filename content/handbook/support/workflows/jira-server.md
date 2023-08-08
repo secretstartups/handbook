@@ -39,7 +39,7 @@ For more information about various uses of Jira Please check out the [Get starte
 
 1. Select the Jira version that you want to download.
 
-   ![Download Jira Screenshot](assets/JIRA_1_Download.png)
+   ![Download Jira Screenshot](../assets/JIRA_1_Download.png)
 
 1. Accept and right-click submit button to get the download URL. (Choose copy link address during the file download)
 
@@ -49,7 +49,7 @@ For more information about various uses of Jira Please check out the [Get starte
    wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.13.7-x64.bin
    ```
 
-   ![wget data](assets/Jira_wget.png)
+   ![wget data](../assets/Jira_wget.png)
 
 1. Change the script to be executable using
 
@@ -63,29 +63,29 @@ For more information about various uses of Jira Please check out the [Get starte
    sudo ./atlassian-jira-software-8.13.7-x64.bin
    ```
 
-   ![Jira bin](assets/Jira_bin.png)
+   ![Jira bin](../assets/Jira_bin.png)
 
 1. Follow the installation instructions and enter default for all questions asked in the installation.
 
-   ![Jira bin process](assets/Jira_bin_process.png)
+   ![Jira bin process](../assets/Jira_bin_process.png)
 
 1. Run Jira setup. You will activate a 30 day trial period. Select set up Jira manually.
 1. You now have Jira setup and accessible in your localhost:8080.
 1. You will have to set up Jira before using it. After you access from the browser, Select `I’II set it up myself`.
 
-   ![Jira Set It Up Myself Screenshot](assets/JIRA_Setupmyself.png)
+   ![Jira Set It Up Myself Screenshot](../assets/JIRA_Setupmyself.png)
 
 1. In the next step, select `Built-in (for evaluation or demonstration)`.
 
-   ![Jira Database setup](assets/Jira_db_setup.png)
+   ![Jira Database setup](../assets/Jira_db_setup.png)
 
 1. While waiting for the database to be created,  login to your atlassian account and open [https://my.atlassian.com/product](https://my.atlassian.com/product) .  Generate a license trial license for your server.
 
-   ![Jira Licenses](assets/Jira_licenses.png)
+   ![Jira Licenses](../assets/Jira_licenses.png)
 
 1. On the next page, select `Jira Software` for Product and  `Jira Software (Data Center)` for License type.  Enter any details for the remaining fields.  For `Server ID`, you will get it when the server finishes setting up the database.
 
-   ![Jira License Setup](assets/Jira_license_setup.png)
+   ![Jira License Setup](../assets/Jira_license_setup.png)
 
 1. After the database creation is complete, the next section will be setting application properties. Leave it as default and click `Next`.
 
@@ -93,13 +93,13 @@ For more information about various uses of Jira Please check out the [Get starte
 
 1. In the next scene, specify your license Key.  Copy the `Server ID` and paste it to the `New trial License Generation` screen and click on `Generate License`.
 
-   ![Jira Generate License](assets/Jira_generate_license.png)
+   ![Jira Generate License](../assets/Jira_generate_license.png)
 
 1. Copy and paste the license key generated and update license in your Jira setup.
 
-   ![Jira License Atlassian](assets/Jira_license_atlassian.png)
+   ![Jira License Atlassian](../assets/Jira_license_atlassian.png)
 
-   ![Jira Specify License](assets/Jira_specify_license.png)
+   ![Jira Specify License](../assets/Jira_specify_license.png)
 
 1. Create a Jira Admin user and continue with the next steps.
 1. Continue with the setup and create a test project.  “GITLAB”.
@@ -129,7 +129,7 @@ HTTPS connection is **required** for DVCS Connector
    sudo certbot certonly --standalone -d www.example.com
    ```
 
-   ![Jira certbot](assets/Jira_certbot_successful.png)
+   ![Jira certbot](../assets/Jira_certbot_successful.png)
 
 1. If everything goes fine. A new SSL will be issued at the below location. Navigate to the below directory and view files.
 
@@ -148,7 +148,7 @@ HTTPS connection is **required** for DVCS Connector
    NOTE:
    In case you get a `Problem binding to port 80: Could not bind to IPv4 or IPv6.` error, check the PID of the application using port 80 then stop the application running on that port and retry generating the certificates.
 
-   ![Error Message: Problem binding to port 80: Could not bind to IPv4 or IPv6.](assets/Jira_port80error.png)
+   ![Error Message: Problem binding to port 80: Could not bind to IPv4 or IPv6.](../assets/Jira_port80error.png)
 
    ```bash
    # Check with lsof

@@ -1,11 +1,7 @@
 ---
-
 title: GitLab Support - Support Ticket Attention Requests (STAR)
 description: Process documentation for getting additional attention on a ticket from Support leadership.
 ---
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -47,7 +43,7 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 Check that the ticket meets basic eligibility for STAR treatment:
 
 1. **Is the ticket about L&R (subscription, plan, renewal, licensing, trials)?** Please see our [Workflow for handling Plan/License Ticket Attention Requests](/handbook/support/license-and-renewals/workflows/managers_working_with_extensions.html) and its decision flowchart. Requests for customer convenience (that is, when a loss of functionality is not imminent) may not be prioritized.
-   - L&R STAR requests must include all relevant information, like group name, subscription name, license holder.  
+   - L&R STAR requests must include all relevant information, like group name, subscription name, license holder.
 1. **Are we waiting for information from the customer, or from you?** Ensure the latest response is *from the customer* (or from a GitLab team member, in the case of Internal Requests). If the latest response is from GitLab Support, we are waiting for necessary information.
 1. **Is the ticket within SLA?** Review the SLA associated with the ticket, and the amount of time left until breach, by logging into [Zendesk](https://gitlab.zendesk.com) using Okta.
    - If a ticket was opened in the last 0-30 minutes, and has the correct [Severity](https://about.gitlab.com/support/definitions/#definitions-of-support-impact), a STAR request is not necessary.
@@ -81,7 +77,7 @@ The Zendesk STAR App is available only during our [Global Support Hours](https:/
 
 To access, click on the Apps button located in the top right of the page (underneath your profile icon). When you click on it, it will expand to show the STAR form within Zendesk.
 
-![Zendesk App Button.png](images/Zendesk_App_Button.png)
+![Zendesk App Button.png](../images/zendesk_app_button.png)
 
 When you use this method, the app automatically acquires most of the required information directly from the ticket. That's a lot less work for you, and you can be assured that the data will already be validated before it is sent to the Support Managers for evaluation.
 
@@ -95,7 +91,7 @@ You will only need to provide:
 
 Here is how the form will appar in the Zendesk App:
 
-![Zendesk STAR App Form.png](images/Zendesk_STAR_App_Form.png)
+![Zendesk STAR App Form.png](../images/Zendesk_STAR_App_Form.png)
 
 #### Validation
 

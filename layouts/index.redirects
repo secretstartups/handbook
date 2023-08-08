@@ -25,3 +25,4 @@
 {{- end -}}
 
 /handbook/values/iteration-examples/spacex.html /handbook/values/iteration-examples/spacex/
+/handbook/support/workflows/*.html /handbook/support/workflows/:splat

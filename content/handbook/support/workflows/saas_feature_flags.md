@@ -1,12 +1,8 @@
 ---
-
 title: Enabling feature flags for projects or groups on GitLab.com
 category: GitLab.com
 description: "Workflow to follow when customers request for feature flags to be enabled on theire GitLab.com projects or groups"
 ---
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
