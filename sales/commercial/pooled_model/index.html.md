@@ -35,7 +35,7 @@ In EMEA, Pooled AEs are free to engage with any customer at any tie, however cas
 Triggers are split into 3 categories based on the scenario type. 
 
 - RT: Reactive Trigger. Due to a GitLab internal challege, the customer will need sales assistance in order to transact.
-- PRO: Proactive Trigger.  Due to customer behavior/ insight, the customer would likely welcome a conversation with sales due to their increased usage/ growth. 
+- PRO: Proactive Trigger.  Due to customer behavior/ insight, the customer would likely benefit from a conversation with sales.  There is likely to be an opportunity for growth, or to mitigate churn.  
 - HR: Hand Raise. The customer has notified us that they require sales assistance. 
 
 ### RT: Failed Auto Renewals
@@ -60,7 +60,7 @@ Once the case is resolved, and the opp is set to to closed won, credit will fall
 
 #### AE Steps
 
-- View the [AMER Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01Z8X000001Dk59)/ EMEA Pooled Sales Team Case Dash or [AMER Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0)/ EMEA Pooled Sales Team Case Queue to view the open case.
+- View the [AMER Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01Z8X000001Dk59)/ [EMEA Pooled Sales Team Case Dash](https://gitlab.my.salesforce.com/01ZPL0000004jJV) or [AMER Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00B8X000009wTi0)/ [EMEA Pooled Sales Team Case Queue](https://gitlab.my.salesforce.com/500?fcf=00BPL00000009Hp) to view the open case.
 - (The case will have the subject **Upcoming Auto Renewal Due to Fail: XX.XX.XXXX**
 - Click on the Case number
 - Confirm there are no open Pooled Cases currently on the account, or AE owned active Upgrade opportunities. If there are, transfer the case to the AE that owns the other case/ active Upgrade opp (further info on Upgrade Opp ROEs can be found at the foot of this page).
@@ -139,7 +139,7 @@ As detailed under the preceding trigger.
 
 As detailed above, however the case will have the subject **Upcoming PO Required Renewal: XX.XX.XXXX**
 
-### RT: Auto Renewal Turned Off - Reactive Trigger
+### RT: Customer Recently Cancelled - Reactive Trigger
 
 A customer has chosen not to auto renew.
 
@@ -209,7 +209,7 @@ As detailed under the preceding trigger.
 
 As detailed above, however the case will have the subject **PRO: New 1* PTC Account**
 
-### PRO: Accounts with Overages & QSRs are turned off - Proactive Trigger
+### PRO: Overage and QSR Off - Proactive Trigger
 
 These customers will likely need to purchase additional licenses.  
 
@@ -232,8 +232,7 @@ These customers are currently using less licenses than the number they purchased
 
 #### Process
 
-Self Service Ops will identify Self Managed accounts with overages of > $1k and SaaS accounts with an overage of >$0k, that are 60 days out, and create cases for these.
-These cases will subsequently drop into the Pooled Sales Queue. 
+Self Service Ops will identify Pooled Accounts that have at least 1 active user, however their underutilization is sizeable and needs to be investigated.  If they continue to not use licenses they have already paid for, there is a rish of churn or auto contraction at time of renewal.
 
 #### Policy
 
@@ -336,6 +335,7 @@ Even though all AMER Accounts/ Opportunities are owned by the Pooled Sales User,
 - Since the AMER Pooled AEs focus on workinG cases, they are only permitted to own 15 active Upgrade opportunities at any one time.
 - If a case enters the queue, and the active Upgrade opportunity lives on the same account, the case should be transferred to the AE that is working the Upgrade opp.
 - The AMER Pooled ASM will monitor these Upgrade opportunities, and is free to close them out should they not be deemed valid.
+- These Ultimate Upgrade opps are tracked on this [dashboard](https://gitlab.my.salesforce.com/01ZPL0000005I4L).
 
 ### FAQ
  
