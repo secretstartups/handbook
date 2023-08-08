@@ -364,16 +364,23 @@ The procurement team should pull a list every quarter of a rolling 12 month rene
 
 ## Termination
 
-As part of the renewal process if it is deemed necessary to terminate an agreement that is not Statement of Work based such as a contractor or professional service engagement. The following steps should be taken.
-1. Termination questionnaire should be filled out by the business
-    a. Reason for termination (i.e. no business need, vendor underperformance, new system, etc)
-    b. Data management such as data migration, data retention and deletion
-    c. Timing for the termination
-    d. Notification requirements for the termination
-    e. Costs related to termination
-    f. Communication plan to team members (if necessary)
-2. The legal team should be notified and the existing contract should be reviewed to be able to understand our obligations to cleanly terminate
-3. The procurement team should be engaged to handle any notifications or vendor communications
+The following methods will be used to capture cancellations (which include terminations and/or non-renewals):
+
+1. **Automated Notice:** The DRI for the purchased item will receive notification of an upcoming renewal;
+2. **Procurement Led:** The Procurement Team will review upcoming renewals, and active purchases, during the quarterly "Category Spotlight" meetings. 
+3. **DRI Led:** DRI's and other stakeholders may determine that products, events and/or services are no longer needed. 
+
+For each of the above, if a cancellation is desired (which include terminations and/or non-renewals) please follow the "Cancellation Process"
+
+
+### Cancellation Process
+1. Complete and submit a [Cancellation Request Issue Template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new#). The purpose of this template is to notify other impacted teams, such as IT for software cancellation, and complete all discovery to ensure we can cancel prior to engaging Legal and Procurement.
+2. Once discovery is complete in the issue, a **Zip Cancellation Request** can be submitted. 
+3. Through Zip, Procurement and Legal will work with the requester to provide instructions on how, when, and who should notify the vendor. For most non-renewal notices, the business owner will notify the vendor via Legal’s guidance.
+   1. Security and Privacy will also be added for awareness and review if data is being shared with the vendor to determine the requirements of returning or deleting the data.
+4. If necessary, the requester and/or business owner will need to create and execute on a communication plan to notify all or impacted team members of the cancellation.
+
+Upcoming terminations/non-renewals should be discussed with Procurement during the Quarterly Category Spotlight meetings that Procurement holds with category leads/budget owners. As Procurement is made aware of upcoming cancellations during these meetings, Procurement will review on a quarterly basis any known cancellations with Legal to ensure notification requirements are met. Procurement and Legal will then work with the business owner on completing the above process. If a cancellation is determined outside of this quarterly cadence, notify your Procurement Category Manager and complete the above process as soon as possible.
 
 ## <i class="fas fa-book" id="biz-tech-icons"></i> Third Party Risk Management
 
