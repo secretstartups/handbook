@@ -308,10 +308,13 @@ Determination matrix: **
 In this section we state down common issues and resolutions
 
 ### GitLab Postgres Database not accessible
-In a scenario when gitlab cloned Postgres database is not accessible, the airflow task log is showing below error (or similair). 
+
+In a situation when gitlab_dotcom postgres replica snapshot is not built correctly, the task `check_replica_snapshot` inside the extract DAG's fail for MAIN and/or CI db, which indicates either that the replica snapshot is not rebuilt/accessible or the `pg_last_xact_replay_timestamp` value was not present.The error message generated from task failure would indicate errors with the replica database connectivity or database system starting up and the error in the task would look something similar like this:
+
 ```
-sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) FATAL:  the database system is starting up\n
-b'FATAL:  the database system is starting up\n'
+[2023-07-15 13:04:48,022] INFO - b'psycopg2.OperationalError: could not connect to server: Connection refused\n'
+[2023-07-15 13:04:48,022] INFO - b'\tIs the server running on host "{db_instance_ip}" and accepting\n'
+[2023-07-15 13:04:48,022] INFO - b'\tTCP/IP connections on port {port}?
 ```
 
 Follow the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/Gitlab_DB_recreation_failure.md) for the steps to perform, including communication.
