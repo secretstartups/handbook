@@ -148,14 +148,6 @@ In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a
         - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
 
-### SCM Adoption Scoring
-# WIP - Target Launch Date: 2023-07-31
-The following metrics will be used to determine a customer's SCM Adoption Score:
-<br>
-![SCM Adoption Scoring](https://lucid.app/publicSegments/view/effa9559-1048-4d9f-9fa6-636a2a018221/image.png)
-<br>
-[Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
-<br>
 <br>
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
