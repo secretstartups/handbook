@@ -162,7 +162,7 @@
   url: https://about.gitlab.com/handbook/engineering/
   links:
   - name: Customer Support Department
-    url: https://about.gitlab.com/handbook/support/
+    url: /handbook/support/
   - name: Development Department
     url: https://about.gitlab.com/handbook/engineering/development/
     links:
