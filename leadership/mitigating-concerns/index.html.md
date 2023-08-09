@@ -165,6 +165,11 @@ We can address this concern by:
 * Automating reporting as much as possible
 * Give team members a voice in selecting KPIs
 
+### Playing politics
+{:#playing-politics}
+
+Political behavior is counter to GitLab's values and make it harder to achieve results. We define political and non-political behavior on our [Values page](/values/#playing-politics-is-counter-to-gitlab-values). 
+
 ## Product
 
 ### Loss of great end-to-end experience
