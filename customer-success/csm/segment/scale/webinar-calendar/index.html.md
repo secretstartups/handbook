@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to CI/CD
-##### August 8th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_vjUyotyvSH2ZutzGQoYB2A#/registration)
-
 #### Advanced CI/CD
 ##### August 15th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -76,13 +69,6 @@ In this workshop we will focus on how you can secure your application with GitLa
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uYuCYvuhTV-raOnUaPStlg)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to CI/CD
-##### August 8th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bfez_FTgQkCT4lHQZfnKUA#/registration)
 
 #### Advanced CI/CD
 ##### August 15th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
