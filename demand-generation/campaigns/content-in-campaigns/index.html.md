@@ -269,41 +269,44 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 {: #add-to-resources-page .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 *Note from `@aoetama`: [open issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030) to investigate how to leverage Pathfactory to automatically tap into all content for a better user experience and more efficient process on the GitLab side.*
-1. Begin a new MR from [the resources yml](https://gitlab.com/gitlab-com/www-gitlab-com/edit/master/data/resources.yml)
-2. Use the code below to add a new entry with the relevant variables
-3. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
-5. Assign the merge request to yourself
-6. When you've tested the MR in the review app and all looks correct (remember to test the filtering!), assign to `@aoetama`
-7. Comment to `@aoetama` that the MR is ready to merge
+1. The process for **Changes to the Marketing Site** is owned by the Digital Experience (DEX) Team. Refer to their Handbook process for [Approving Changes to the Marketing Site](https://about.gitlab.com/handbook/marketing/digital-experience/#approving-changes-to-the-marketing-site) and [Marketing Site Approval Process](https://about.gitlab.com/handbook/marketing/digital-experience/marketing-site-approval-process/).
+1. Begin a new MR from [the resources-list yml](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/content/resources/resources-list.yml). Use the `marketing-site-change` [MR template](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/.gitlab/merge_request_templates/marketing-site-change.md)
+1. Use the code below to add a new entry with the relevant variables
+1. Add commit message `Add [resource name] to Resources page`, rename your target branch, leave "start a new merge request with these changes" and click "Commit Changes"
+1. Assign the merge request to yourself
+1. Tag any member of the [Digital Experience Team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) as `Reviewer`
+1. Comment to the `Reviewer` that the MR is ready to merge
 
 *Note: For ungated journeys, the URL drives to the PF asset/track, instead of a landing page.*
 
 **Code:**
 ```
-- title: 'Add name of resource - shorten if necessary'
-  url: 
-  image: /images/resources/security.png
-  type: 'eBook'
+- title: "Add name of resource - shorten if necessary"
+  url: `Marketo or PathFactory link`
+  image: /images/resources/`choose below`.png
+  type: "choose below"
+  language: "choose below"
   topics:
     - 
     - 
   solutions:
     - 
     - 
-  teaser: 'Add a teaser that relates to the contents of the resource'
+  teaser: "Add a teaser that relates to the contents of the resource. This can be found in the epic or landing page copy."
 ```
 **Example:**
 ```
-- title: '10 Steps Every CISO Should Take to Secure Next-Gen Software'
-  url: /resources/ebook-ciso-secure-software/
+- title: "Emerging Tech: A Software Bill of Materials Is Critical to Software Supply Chain Management"
+  url: https://page.gitlab.com/resources-report-gartner-emergingtech-sboms.html
   image: /images/resources/security.png
-  type: 'eBook'
+  type: "Report"
+  language: "English"
   topics:
-    - DevSecOps
     - Security
+    - Software Development
   solutions:
     - Security and quality
-  teaser: 'Learn the three shifts of next-gen software and how they impact security.'
+  teaser: "Learn what Gartner® sees as key trends for using a Software Bill of Materials, and read insights on how to maximize security for you and your customers."
 ```
 
 **IMAGES to choose from (select one):**
@@ -318,6 +321,22 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 * `/images/resources/software-development.png`
 * `/images/resources/resources-gitops.png`
 
+**TYPES to choose from (select one)**
+* eBook
+* Report
+* Webcast
+* One-pager
+* Whitepaper
+* Demo
+* Comparison
+* Assessment
+
+**LANGUAGES to choose from (select one)**
+* English
+* Korean
+* Japanese
+* Spanish
+
 **TOPICS to choose from (add all that apply):**
 
 *Note from @aoetama: let's see if we can align this with topics in Pathfactory for efficiency (if we don't go the route of Pathfactory explore page).*
@@ -325,16 +344,41 @@ Adjust list as applicable for each report activation. [Use the workback timeline
 * Agile
 * CD
 * CI
+* Cloud infrastructure
+* Continuous Delivery
+* Continuous Development
+* Continuous Integration
 * Cloud Native
 * DevOps
 * DevSecOps
 * Git
+* GitOps
 * GitLab
+* Infrastructure as code
+* Kubernetes
 * Public Sector
 * Security
 * Single Applicaton
 * Software Development
 * Toolchain
+* Version Analytics
+* Version Control & Collaboration
+
+**SOLUTIONS to choose from (select best aligned)**
+* Accelerated Delivery
+* Deliver better products faster
+* Executive visibility
+* GitLab & AWS
+* GitLab & Pulumi
+* GitLab & Terraform
+* GitOps
+* Google Anthos and GitLab
+* GitLab & AWS
+* Improve operational efficiencies
+* Project compliance
+* Quality
+* Security
+* Security and quality
 
 ## How to extend analyst assets
 {: #extend-analyst-assets .gitlab-purple}
