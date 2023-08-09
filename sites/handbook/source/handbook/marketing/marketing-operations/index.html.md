@@ -231,7 +231,7 @@ Categories
 
 - `MktgOps - FYI`: Issue is not directly related to operations, no action items for MktgOps but need to be aware of the issue
 - `MktgOps - List Import`: Used for list imports of any kind - event or general/ad hoc (do not also use To Be Triaged scoped label)
-- `Marketo`, `Bizible`, `Demandbase`, `Qualified`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `Smartling`, `On24`: used to highlight one of our tech stack tools
+- `Marketo`, `Bizible`, `Demandbase`, `Qualified`, `LinkedIn Sales Navigator`, `Outreach-io`, `PathFactory`,  `ZoomInfo`, `On24`: used to highlight one of our tech stack tools
 - `MktgOps - bug`: A bug issue to be addressed or identified by MktgOps
 - `MktgOps - changelog`: Used to track issues or epics that would need to be logged in the marketing changelog to track major changes across marketing
 - `SMOps/Systems - Changelog`: Used to track changelog issues that will impact Sales Operations or Systems
@@ -380,7 +380,6 @@ Operational Technology - Tier 2
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [OneTrust](/handbook/marketing/digital-experience/onetrust/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
-- [Smartling](/handbook/marketing/localization/smartling/) 
 </details>
 
 <details>
@@ -459,7 +458,6 @@ Click to see dropdown list of available status page URLs.
 - [Litmus](https://status.litmus.com/)
 - [MailJet](https://status.mailjet.com/)
 - On24
-- [Smartling](https://status.smartling.com/)
 - [Survey Monkey](https://help.surveymonkey.com/en/surveymonkey/site/site-status-information/)
 - [Typeform](https://status.typeform.com/)
 
@@ -651,6 +649,20 @@ One of the following must occur to have a lead move from `Raw` to `Inquiry`
 1. Fill out a form (social or website)
 1. [Behavior score](/handbook/marketing/marketing-operations/marketo/#behavior-scoring) > 10 pts.
 
+## Lead Address Fields
+
+On the lead object we have three types of address information, the local/personal address information for that lead, which is stored on the `Person Address` (address type field), the `Ultimate Parent Account Company` information stored on `Company Address: [XXX]` text fields,  and the `Zoominfo enrichment address information` for both the Contact (local information) and the Company level information: 
+
+- `Person Address` is partially filled in from Marketo Form Fills and is also completed by ZI enrichment when it is missing;
+     - This is the address that Marketo references for email lists. It contains the local address of the record, if known through form fill, list upload, or ZI enrichment.
+- `UPA Company Address` - stored on the `Company Adress: Country`, `Company Adress: State`, `Company Adress: City`, `Company Adress: Street`, `Company Adress: Postal Code` text fields. These fields are updated through APEX code through a 3-step waterfall approach. 
+  1. `Account Demographics Fields` (i.e: `Account Demographics: UPA City`) - If the lead matches to an existing account the address is populated through the Account Demographic fields, taken from the account associated with this lead;
+  2. `Admin Override Fields` (i.e: `[Admin] Company Address Country`) - If a lead doesn't match to an account, the Company Address fields are either blank or  are populated through step 3 in the waterfall (see below). If the address is blank or the address information from step 3 is wrong, SDRs/BDRs can update the address information themselves using these Admin Override fields. You can see more information about this process in the [Overriding Incorrect Account Assignments section from Sales Dev Handbook](https://about.gitlab.com/handbook/marketing/sales-development/#overriding-incorrect-account-assignments) or in this [video](https://www.youtube.com/watch?v=QT-oOceFU6k&ab_channel=GitLabUnfiltered).
+  3. `Zoominfo Company Address Fields` (i.e: `[ZI] Company Country`) - If the lead doesn't match an account, it was not overwritten using the Admin Override Fields mentioned above and the lead matches to Zoominfo's database, the Company Address fields are populted with Zoominfo Company Address information from the Zoominfo Company Address fields. 
+- `Zoominfo enrichment address information` which as can be of two types, personal (local) or company level address;
+1. Zoominfo personal (local) address information can be found in the `[ZI] Contact Country`, `[ZI] Contact State`, `[ZI] Contact City`, `[ZI] Contact Street`, `[ZI] Contact Zip Code` fields;
+2. Zoominfo Company Address Information can be found on the `[ZI] Company Country`, `[ZI] Company State`, `[ZI] Company City`, `[ZI] Company Street`, `[ZI] Company Zip Code` fields;
+
 ## Data Cleanliness and Enrichment Process
 
 Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information.
@@ -661,25 +673,25 @@ The enrichment part of the process is done using the data appending/enrichment t
 
 This cleaning & enrichment process has 5 main priorities:
 
-1. **Enrich net new leads with Marketo Webhook**  - Live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms.
+1. **Enrich net new Marketo leads with Marketo Webhook**  - All leads created through Marketo are instantly enriched with ZI data. 
 2. **Instant Enrich for leads** - When new leads are created in SFDC, Instant Enrich functionality kicks in and the record's **[ZI] fields** are enriched upon creation. 
-3. **Enriching new new leads with Scheduled Enrich** - As a back-up to the Instant Enrich functionality, all leads created in the last 24h are enriched through scheduled enrichment, to make sure they contain the most updated information. 
+3. **Enriching net new leads with Scheduled Enrich** - As a back-up to the Instant Enrich functionality (in case it fails for any reason), all leads created in the last 24h are enriched through scheduled enrichment, to make sure they contain the most updated information. 
 4. **Existing Database Enrichment** - All lead records in SFDC are enriched regularly to make sure that the leads who change roles/companies are updated with the lastest information. 
 5. **Assure Data Cleanliness & Accuracy** - The Marketing Operations team is following the recommended deduplication order of operations as detailed below:
-    * Lead to Lead Deduplication  (*Completed - Runs weekly on Fridays and Saturdays*)
+    * Lead to Lead Deduplication  (*Paused* to fix duplicates being created by different tools)
     * Account Deduplication (This part is currently performed using Openprise by Sales Operations)
     * Converting Leads to New Contacts (This step is skipped in our case since it would impact sales workflow considerably. We will re-evaluate if the sales team is not as heavily focused on leads as we are now.)
-    * Contact to Contact Deduplication (In testing phase as we speak. Contact deduplication work is tackled as part of FY23 Q4 OKR where the KR is to reduce the number of contact duplicates by 50%)
+    * Contact to Contact Deduplication (Testing unwanted contact merging effects on order processin and open quotes)
     * Lead to Contact Deduplication (This part of the process will start once Contact Deduplication is completed)
     * Deduplication of Custom Objects (Bizible Person IDs - On hold until Contact Deduplication and Lead to Contact Deduplication are completed)
 
 For more information regarding our data deduplication process visit the [Ringlead Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/ringlead/).
 
-**Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, from our forms, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows:
+**Cleaning & Enrichment Frequency:** While the enrichment jobs for net new leads, work on a continuous bases, when it comes to enrichment of our existing leads & contacts in SFDC, this is done via scheduled enrichment jobs as follows:
 
-1. All leads are enriched on a monthly basis, last Saturday of the month.
+1. All leads are enriched on a weekly basis, last Saturday of the month.
 2. All leads created in the last 7 Days are enriched daily to make sure no new leads from list uploads miss enrichment and also to make sure our sales teams have the most up to date information when working them.
-3. All contacts in our SFDC instance get enriched monthly, last Saturday of the month.
+3. All contacts in our SFDC instance get enriched weekly, last Saturday of the month.
 
 You can find more details on the enrichment process in our [Zoominfo Handbook Page](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/).
 
