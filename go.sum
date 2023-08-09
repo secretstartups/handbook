@@ -8,3 +8,5 @@ github.com/hairyhenderson/go-codeowners v0.3.1-0.20230710165731-859d0d06aff1/go.
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.6 h1:8o+NaSDy0o7SqtDXLB55DIsRc5xZ6ROUAILpiakIK5I=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.6/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.7 h1:rawMI0l095k96PGSDOwDfBxEIBJAN4NuVqtPqJGCHCg=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.7/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
