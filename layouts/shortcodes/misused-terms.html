@@ -1,0 +1,46 @@
+<div class="responsive-table">
+  <table>
+    <thead>
+      <tr>
+        <th class="misused-avoid">
+          Misused terms
+        </th>
+        <th class="misused-use-instead">
+          Alternatives
+        </th>
+        <th class="misused-reason">
+          Reason Why
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ range .Site.Data.misused_terms }}
+      <tr id="<%= term.id %>">
+        <td class="misused-avoid">
+          <ul>
+          {{ range .avoid}}
+            <li>{{ . }}</li>
+          {{ end }}
+          </ul>
+          {{ with .avoid_footnote}}
+            <p><small>{{ . }}</small></p>
+          {{ end }}
+          <!-- <a href="#<%= term.id %>" class="misused-permalink" title="Link to this term">permalink to <%= term.avoid.first %></a> -->
+        </td>
+
+        <td class="misused-use-instead">
+          <ul>
+          {{ range .use_instead }}
+            <li>{{ . | markdownify }}</li>
+          {{ end }}
+          </ul>
+        </td>
+
+        <td class="misused-reason">
+          <p>{{ .reason | markdownify }}</p>
+        </td>
+      </tr>
+    {{ end }}
+    </tbody>
+  </table>
+</div>

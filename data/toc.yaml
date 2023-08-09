@@ -16,7 +16,7 @@
     - name: Strategy
       url: https://about.gitlab.com/company/strategy/
     - name: Communication
-      url: https://about.gitlab.com/handbook/communication/
+      url: /handbook/communication/
       links:
         - name: YouTube
           url: https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/
