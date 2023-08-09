@@ -373,17 +373,17 @@ After launch, the Product Manager and Product Designer should pay close attentio
 ## Contributing to this page
 
 All merge requests to this page require informing Product Operations prior to merging. To make updates such as grammatical
-fixes and typos, you can create an MR and assign Product Operations DRIs `@fseifoddini` and `@brhea` as Reviewers for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
+fixes and typos, you can create an MR and assign Product Operations DRI `@justinfarris` as Reviewer for reference, and then merge. There's no need to wait for feedback on these types of updates prior to merging.
 
 For updates that affect the overall phases by modifying core definitions, workflow labels or other cross-functionally utilized processes,
-you can create an issue or MR, add the current milestone and labels `product development flow`, `product operations`, `prodops:release`and assign it to Product Operations DRI`@fseifoddini`  as Reviewer for collaboration and approval.
+you can create an issue or MR, add the current milestone and labels `product development flow`, `product operations`, `prodops:release`and assign it to Product Operations DRI`@justinfarris`  as Reviewer for collaboration and approval.
 
 The Product Operations DRI will ensure the MR gets included in product develoment flow release updates as well as ensuring alignment happens with the following stakeholders if needed:
 
-1. [VP of Product](https://about.gitlab.com/company/team/#david)
+1. [CPO](https://about.gitlab.com/company/team/#david)
 1. [VP of UX](https://about.gitlab.com/company/team/#clenneville)
 1. [VP of Development](https://about.gitlab.com/company/team/#clefelhocz1)
-1. [Director of Quality Engineering](https://about.gitlab.com/company/team/#meks)
+1. [VP of Quality Engineering](https://about.gitlab.com/company/team/#meks)
 1. [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure)
 
 In some cases, when significant changes to the product development flow are needed, affecting multiple teams and/or function workflows, Product Operations may request a draft page and/or a [working group ](https://about.gitlab.com/company/team/structure/working-groups/) for multiple iterations prior to pushing changes to this framework, to minimize disruption and distraction during product development.
