@@ -1,0 +1,472 @@
+# Example:
+#
+# - avoid: Term to be avoided
+#   avoid_description: An optional field to expand on the context of the term itself.
+#   use_instead:
+#    - Terms to be used
+#    - Another, as many as applicable
+#   reason: |
+#     Explain and provide some links if needed. You can use markdown.
+#
+#
+# If the terms to avoid are not literal or are too common, feel free to add this
+# to not include the entry in the exports (see "They" entry):
+#
+#   exclude_from_exports: true
+#
+
+- avoid:
+  - GitLabber
+  use_instead:
+  - GitLab team member
+  reason: \"GitLabber" includes both the GitLab community and people who work at GitLab. When you want to refer specifically to people who work at GitLab, [use "GitLab team member" instead](/company/team/structure/#team-and-team-members).
+  exclude_from_exports: false
+
+- avoid:
+  - International
+  - Rest of world
+  use_instead:
+  - Non-US or global
+  reason: |
+    By definition, we are all international and global, regardless of where in the world we're located. International and rest of world are often incorrectly used to speak to non-US, so we don't use them to avoid confusion.
+  exclude_from_exports: false
+
+- avoid:
+  - Enterprise Edition to reference a specific code or "Paid" users
+  - EE Code or EE to reference a specific code or "Paid" users
+  use_instead:
+  - MIT Licensed (code is open source) and Proprietary (code is source-available) to refer to code.
+  - Free or Paid users to refer to types of users.
+  - Enterprise Edition to refer to the specific distribution.
+  reason: |
+    [Community Edition and Enterprise Edition are only distributions, and not a license of our code, nor a pricing tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#how-we-used-the-terms-ce-and-ee).
+  exclude_from_exports: false
+
+- avoid:
+  - Community Edition to reference a specific code or "Free" users
+  - CE to reference a specific code or "Free" users
+  use_instead:
+  - MIT Licensed (code is open source) and Proprietary (code is source-available) to refer to code.
+  - Free or Paid users to refer to types of users.
+  - Community Edition to refer to the specific distribution.
+  reason: |
+    [Community Edition and Enterprise Edition are only distributions, and not a license of our code, nor a pricing tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/#how-we-used-the-terms-ce-and-ee).
+  exclude_from_exports: false
+
+- avoid:
+  - Hi guys
+  use_instead:
+  - Hi people
+  - Hi everyone
+  reason: We want to use [inclusive language](/handbook/values/#inclusive-language--pronouns)
+  exclude_from_exports: false
+
+- avoid:
+  - Aggressive
+  use_instead:
+  - Ambitious
+  reason: We want to [attract a diverse set of people](https://www.huffpost.com/entry/textio-unitive-bias-software_n_7493624)
+  exclude_from_exports: false
+
+- avoid:
+  - Employees
+  use_instead:
+  - Team members
+  reason: We have team members who are [contractors](/handbook/total-rewards/compensation/compensation-calculator/#contract-factor)
+  exclude_from_exports: false
+
+- avoid:
+  - Resources
+  use_instead:
+  - People
+  reason: We are more than just our output.
+  exclude_from_exports: false
+
+- avoid:
+  - Community
+  use_instead:
+  - Wider community to refer to people outside of the company
+  reason: |
+    [People at GitLab are part of the community too](/handbook/communication/#writing-style-guidelines).
+  exclude_from_exports: false
+
+- avoid:
+  - Radical transparency
+  use_instead:
+  - Intentional transparency
+  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](/company/culture/all-remote/informal-communication/), [handbook-first documentation](/company/culture/all-remote/handbook-first-documentation/), [onboarding](/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
+  exclude_from_exports: false
+
+- avoid:
+  - Sprint
+  use_instead:
+  - Iteration
+  reason: We are in it [for the long-term](/handbook/values/#under-construction) and [sprint implies fast, not quick](https://hackernoon.com/iterations-not-sprints-efab8032174c).
+  exclude_from_exports: false
+
+- avoid:
+  - Grooming
+  use_instead:
+  - Refinement
+  reason: The term has [negative connotations](https://pm.stackexchange.com/questions/24133/difference-between-grooming-and-refinement) and the word refinement is used by the [Scrum Guide](https://www.scrumguides.org/revisions.html).
+  exclude_from_exports: false
+
+- avoid:
+  - Obviously
+  use_instead:
+  - Skip this word
+  reason: Using things like "obvious/as we all know/clearly" discourages people who don't understand from asking for clarification. Also, be aware of the [Curse of Knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) when communicating.
+  exclude_from_exports: false
+
+- avoid:
+  - They
+  avoid_footnote:
+  - Do not refer to other teams at GitLab externally as "they" (e.g., "Well, they haven't fixed that yet!").
+  use_instead:
+  - The Product team (example)
+  reason: |
+    There is no "they" or "headquarters" - there is only us as team members, and it's one team.
+    You could instead say something like "The Product team is looking at that issue...".
+    When used in the context of a pronoun, they is as valid as he, she, or any other pronoun someone decides to use.
+  exclude_from_exports: true
+
+- avoid:
+  - Deprecate
+  use_instead:
+  - Delete
+  - Remove
+  reason: We usually mean we're removing a document or feature whereas deprecation is leaving the thing intact while discouraging its use. Unlike other terms on this list, there *are* times where "deprecate" is the right word, for example in the formal [product process](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
+  exclude_from_exports: false
+
+- avoid:
+  - Diverse candidate
+  - Diversity candidate
+  - Diverse team member
+  - Diversity team member
+  use_instead:
+  - Someone from an underrepresented group
+  reason: |
+    A single person cannot be "diverse." Using "diverse" as a noun is an "othering" term. Instead, someone may be from an underrepresented group. It is okay to describe a team or any collection of people as "diverse", however.
+  exclude_from_exports: false
+
+- avoid:
+  - Non-technical
+  avoid_footnote:
+  - used to describe a person
+  use_instead:
+  - Usually, people mean "non-engineering."
+  reason: Everyone has technical knowledge that they used to perform in their role.
+  exclude_from_exports: false
+
+- avoid:
+  - Search
+  - Elasticsearch
+  use_instead:
+  - Global Search with the features Basic Global Search and [Advanced Global Search](https://docs.gitlab.com/ee/user/search/advanced_search.html).
+  - "[Log Search](/direction/monitor/observability/) for the monitor stage logging feature."
+  - Issue Search and Merge Request search for filtering and searching in those content areas.
+  - "[Elastic log Stack](https://docs.gitlab.com/ee/user/clusters/applications.html#elastic-stack) when referring to Elasticsearch and Filebeat."
+  reason: There are many kinds of search in the GitLab application; use complete feature names to describe areas.
+  exclude_from_exports: false
+
+- avoid:
+  - Telemetry
+  use_instead:
+  - Seat link is the number of seats on a license
+  - "[Version check](/handbook/sales/process/version-check/) is what version of GitLab a subscription is using"
+  - "[Usage ping](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#usage-ping) is high-level data of how GitLab is being used in a license"
+  - "[Snowplow](/handbook/business-technology/data-team/platform/snowplow/) is a dynamic site for web event analytics"
+  - "[Google Analytics](/handbook/tools-and-tips/#google-analytics) is a static site for receiving data from `about.gitlab.com` and `docs.gitlab.com`"
+  - "Database events is using the database records of Gitlab.com to look at how people are using the application."
+  - "Product Usage Data is [data collected](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#collection-framework) on the customer's account to be used within GTM tools such as Salesforce, Marketo, or Gainsight to improve retention and expansion"
+  reason: Avoid this word since it has the connotation of third-party analytics. It also is too broad so use something more specific.
+  exclude_from_exports: false
+
+- avoid:
+  - Rule of thumb
+  use_instead:
+  - Guideline or Heuristic
+  reason: Rule of thumb is of [dubious historical origins](https://www.phrases.org.uk/meanings/rule-of-thumb.html) and can be considered a violent or non-inclusive term.
+  exclude_from_exports: false
+
+- avoid:
+  - Deadline
+  use_instead:
+  - Due date
+  reason: Deadline [may have violent origins](https://en.wikipedia.org/wiki/Time_limit#Origin_of_the_term) and we use `due date` in our user interface for issues.
+  exclude_from_exports: false
+
+- avoid:
+  - locked and loaded
+  use_instead:
+  - prepared, ready, available
+  reason: Locked and loaded [is a violent metaphor](https://en.wiktionary.org/wiki/lock_and_load), referring to guns.
+  exclude_from_exports: false
+
+- avoid:
+  - Grandfathered
+  use_instead:
+  - Legacy
+  reason: Grandfathered has [discriminatory origins](https://en.wikipedia.org/wiki/Grandfather_clause).
+  exclude_from_exports: false
+
+- avoid:
+  - Whitelist
+  - Blacklist
+  use_instead:
+  - Allowlist
+  - Denylist
+  reason: Whitelist/Blacklist have connotations about value and map to racial terms.
+  exclude_from_exports: false
+
+- avoid:
+  - POC
+  use_instead:
+  - Proof of concept
+  - Point of contact
+  reason: POC is ambiguous. It is often used to mean `proof of concept` or `point of contact` and in some cases it's unclear which is meant. It can also be used when referring to `person/people of color`, so it's best to spell out the intended use.
+  exclude_from_exports: false
+
+- avoid:
+  - GitLab monitoring dashboard
+  use_instead:
+  - GitLab metrics dashboard
+  reason: Monitoring dashboard is too generic and is often confused with GitLab's self-monitoring features.
+  exclude_from_exports: false
+
+- avoid:
+  - Second-class citizen
+  use_instead:
+  - Different class of team member
+  - Being treated like you don't belong/like an outsider
+  reason: |
+    When referencing people, "different class of team member" or "being treated like you don't belong/like an outsider" is preferred when discussing such environments, since citizen has political and socioeconomic connotations. In a [hybrid-remote](/company/culture/all-remote/hybrid-remote/#disadvantages-to-hybrid-remote) environment (e.g. not GitLab, which is [all-remote](/company/culture/all-remote/guide/#why-remote)), those outside of the office may feel inferior or deprioritized compared to coworkers who routinely work onsite.
+  exclude_from_exports: false
+
+- avoid:
+  - Top of the hour
+  - Bottom of the hour
+  use_instead:
+  - Start of the meeting
+  reason: While most timezones in the world are offset from UTC by a whole number of hours, a few are offset by [30 or 45 minutes](https://www.timeanddate.com/time/time-zones-interesting.html).
+  exclude_from_exports: false
+
+- avoid:
+  - Middleman
+  use_instead:
+  - Go-between
+  - intermediary
+  reason: It is gender-specific and therefore exclusionary.
+  exclude_from_exports: false
+
+- avoid:
+  - Poor man's solution
+  use_instead:
+  - "[Boring solution](/handbook/values/#boring-solutions)"
+  reason: It is gender-specific and implies that someone with less money would come up with a substandard solution compared to someone who has more money.
+  exclude_from_exports: false
+
+- avoid:
+  - Senior moment
+  use_instead:
+  - I forgot
+  reason: We should not associate forgetfulness with senior citizens.
+  exclude_from_exports: false
+
+- avoid:
+  - Biweekly
+  - Bimonthly
+  use_instead:
+  - Twice weekly/monthly
+  - Every two weeks/months
+  reason: Biweekly and bimonthly are ambiguous terms.
+  exclude_from_exports: false
+
+- avoid:
+  - Functional group leader
+  use_instead:
+  - "[E-group](/handbook/leadership/#e-group) leader"
+  reason: |
+    The term "functional group leader" is a past term that has now been updated. See [Org Structure](/company/team/structure/#organizational-structure).
+  exclude_from_exports: false
+
+- avoid:
+  - Functional group
+  use_instead:
+  - Department or team (depending on the context)
+  reason: |
+    "Functional group" is a past term that is no longer used. See [Org Structure](/company/team/structure/#organizational-structure).
+  exclude_from_exports: false
+
+- avoid:
+  - Learning
+  - Playbook
+  - FAQ
+  - Standard Operating Procedure
+  - Training
+  use_instead:
+  - The entire Handbook is our standard operating procedure.
+  reason: |
+    Using these terms can confuse and lead to duplicate content. For example: Call it Contract Negotiation Handbook instead of Contract Negotiation Playbook
+  exclude_from_exports: false
+
+- avoid:
+  - White-collar workers
+  - Blue-collar workers
+  use_instead:
+  - Knowledge worker
+  - Trade worker
+  reason: The original terms are outdated references and have socioeconomic connotations. There are also other [color classifications](https://en.wikipedia.org/wiki/Designation_of_workers_by_collar_color) that are less common.
+  exclude_from_exports: false
+
+- avoid:
+  - Customer names mentioned in recorded or streamed meetings
+  use_instead:
+  - Refer to a Google doc agenda listing the customer name
+  - Use a codename
+  reason: We want to train ourselves to not mention customer names to allow us to be as [transparent](/handbook/values/#transparency) as possible.  Whenever possible, we want to publicly stream our meetings to YouTube and to do that we need to be in the habit of not mentioning customer names. So we should avoid mentioning them even in [privately streamed meetings](/handbook/marketing/marketing-operations/youtube/#visibility).
+  exclude_from_exports: true
+
+- avoid:
+  - Portal
+  use_instead:
+  - "[CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#customersdot)"
+  - "[Stripe](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#stripe)"
+  - "[Zuora Billing](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#zuora)"
+  reason: The (Customer) Portal is an overloaded term that has come to represent multiple aspects in GitLab's Fulfillment process. To disambiguate the different components of the system we should use more specific language.
+  exclude_from_exports: false
+
+- avoid:
+  - Black Mark
+  use_instead:
+  - Blemish
+  - Blot
+  reason: This phrase is meant to refer to a situation where someone remembers something you did and holds it against you unfairly in a later circumstance. However, it can unintentionally reinforce the idea that black is associated with negative or undesirable traits.
+  exclude_from_exports: false
+
+- avoid:
+  - Poaching
+  - Raiding
+  use_instead:
+  - Voluntary Attrition
+  - Recruiting
+  reason: In the recruiting industry these are common terms to refer to companies targeting other company's team members to hire them away. But they are violent and warlike. So it's better to use the more literal, technical terms. While we want to keep voluntary attrition low as a company we should never forget that it is great for our team members if they get lots of great offers from other companies.
+  exclude_from_exports: false
+
+- avoid:
+  - High Availability
+  use_instead:
+  - Reference Architecture
+  - Scaled Architecture
+  reason: All solutions come with a [trade-off between cost/complexity and uptime](https://docs.gitlab.com/ee/administration/reference_architectures/). Each availability component comes with complexity and maintenance. Users should thoroughly analyze the benefits of a solution against its costs and the team's readiness.
+  exclude_from_exports: false
+
+- avoid:
+  - Final Solution
+  use_instead:
+  - Completed Solution
+  reason: While often natural to use this phrase when referring to a theoretical end-point of a developing feature there is [historical sensitivity](https://www.merriam-webster.com/dictionary/final%20solution) around the term and its use during World War II.
+  exclude_from_exports: false
+
+- avoid:
+  - Homepage
+  use_instead:
+  - Marketing Homepage
+  - Homepage Content
+  reason: Both about.gitlab.com and gitlab.com has a [homepage](https://www.merriam-webster.com/dictionary/home%20page). Use "marketing homepage" to reference the homepage of [about.gitlab.com](https://about.gitlab.com/) and "homepage content" to reference the homepage of [gitlab.com](https://gitlab.com).
+  exclude_from_exports: false
+
+- avoid:
+  - CPO as an abbreviation for Chief Product Officer
+  use_instead:
+  - "[CProdO](https://handbook.gitlab.com/job-families/product/chief-product-officer/)"
+  reason: Avoid name collision with our [Chief People Officer](https://handbook.gitlab.com/job-families/people-group/chief-people-officer/).
+  exclude_from_exports: false
+
+- avoid:
+  - TAM as an abbreviation for Total Addressable Marketing
+  use_instead:
+  - "[TAMkt](https://internal.gitlab.com/handbook/product/investment/)"
+  reason: Avoid name collision with the job-family of [Technical Account Manager](https://handbook.gitlab.com/job-families/sales/customer-success-management/)
+  exclude_from_exports: false
+
+- avoid:
+  - Drinking the Kool-Aid
+  use_instead:
+  - Living our Values
+  reason: |
+    This term is used pejoratively to refer to a person that believes dangerous ideas.
+    It can also be used with humorous intent to refer to extreme beliefs, particularly in the startup realm where companies are celebrated for disruption.
+    Unfortunately, it's a reference to the [Jonestown](https://en.wikipedia.org/wiki/Drinking_the_Kool-Aid) mass-suicide incident that took place in Guyana in 1978, and should be avoided because we don't use violent analogies.
+  exclude_from_exports: false
+
+- avoid:
+  - War of Attrition
+  use_instead:
+  - Game of Cat and Mouse
+  reason: |
+    A "war of attrition" refers to a prolonged conflict where each side seeks to wear out the other by a series of small actions. This might be used to refer to activities such as fending off comment/issue spam content or abuse of our CI system to mine cryptocurrency. A Cat and Mouse game refers to a constant pursuit with near captures and repeated escapes, which is preferable because it's less violent and not a reference to warfare.
+  exclude_from_exports: false
+
+- avoid:
+  - Livestream
+  use_instead:
+  - Public or private stream
+  reason: |
+    "Livestream" is ambiguous as to whether the stream is publicly or privately available. Using "public livestream" or "private livestream" is too long and people often shorten it to "livestream." To ensure everyone knows the visibility settings of the stream, use "public stream" or "private stream."
+  exclude_from_exports: false
+
+- avoid:
+  - Seasons (Autumn/Fall/Spring/Summer/Winter)
+  use_instead:
+  - Months (Jun-Aug, Mar-May etc) or more precise date ranges.
+  reason: |
+    Seasons are different in the Northern vs Southern hemispheres and can [vary culturally](https://en.wikipedia.org/wiki/Season#Six_season_reckoning) too, meaning they are not only imprecise but they can also be exclusionary to the other hemisphere or non-Western cultures.
+  exclude_from_exports: false
+
+- avoid:
+  - Master (unless used to describe the mastery of a specific topic. )
+  - Slave
+  use_instead:
+  - Leader
+  - Follower
+  - Primary
+  - Secondary
+  reason: |
+    This language can be used to describe an unequal and harmful relationship between people. We can use language that is more consistent with our [DIB values](https://about.gitlab.com/company/culture/inclusion/). The word "master" can be used in the context of mastery of a specific topic such as receiving a Master's Degree.  In data, we master certain data categories like customer, product, employee etc. We will use the industry term Master Data Management (MDM) as a way to communicate our mastery over the topic of data.
+  exclude_from_exports: false
+
+- avoid:
+  - Zuora
+  use_instead:
+  - Zuora Billing
+  - Zuora CPQ (Configure Price Quote)
+  - Zuora Revenue
+  - Zuora Orders
+  - Alternatively, you can say Billing, Collect, Revenue, Orders, etc.
+  reason: |
+    Zuora offers many products and using the term by itself does not specify what Zuora product you are referring to. Specifying the Zuora product will provide clarity and context to your audience.
+  exclude_from_exports: false
+
+- avoid:
+  - CultureAmp
+  use_instead:
+  - The name of the specific survey you are referring to - i.e., Global Benefits Survey, Engagement Survey, Values Survey, Inclusion Survey, etc.
+  reason: |
+    CultureAmp offers many surveys and using the term by itself does not specify which CultureAmp survey you are referring to. Specifying the CultureAmp survey will provide clarity and context to your audience.
+  exclude_from_exports: false
+
+- avoid:
+  - Reduction in Force (RiF)
+  use_instead:
+  - Redundancy or dismissal for operational reasons
+  reason: |
+    [RIF](https://www.merriam-webster.com/dictionary/RIF) is short for Reduction in Force referring to "labor force" or "work force", we don't use this terminology to refer to team members or former team members. "Force" also has violent implications that should be avoided.
+  exclude_from_exports: false
+
+- avoid:
+  - PII
+  use_instead:
+  - Personal Data
+  reason: PII is not the term used in most privacy laws and by definition PII is more narrow that what is legislated under global privacy laws. Personal Data is described in [in the Privacy Handbook](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms) and [the GitLab Data Classification Levels](https://about.gitlab.com/handbook/security/data-classification-standard.html).
+  exclude_from_exports: false

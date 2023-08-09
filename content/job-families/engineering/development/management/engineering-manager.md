@@ -44,7 +44,7 @@ The *Engineering Manager* role is a [grade 8](https://about.gitlab.com/handbook/
 - Demonstrated progressive experience in a leadership role with current technical experience
 - In-depth technical experience in at least one of the core languages, frameworks, or technologies used by the team
 - Familiarity with other functional areas of your team
-- Any additional experience required by the position's [specialty](#specialties)
+- Any additional experience required by the position's specialty
 - Excellent written and verbal communication skills
 - You share our [values](/handbook/values/), and work in accordance with those values
 
