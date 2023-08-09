@@ -580,6 +580,8 @@ When a territory moves from one BDR to another but the previous BDR remains with
 
 **The new BDR assigned to the territory is free to work any account (by moving them into Actively Working Account status) that was previously engaged with by the outgoing BDR but does not have an existing stage 0 opportunity, nor is part of the 30 day holdover, and will receive SAO credit for any opportunity that is generated from their activity based on normal rules of engagement.**
 
+
+
 ## Inbound Lead Management
 
 **Begin with Enriching and using Find Duplicates**
@@ -737,7 +739,18 @@ What do I do when ZoomInfo has improper data on an account?
      
 This process could take up to 72 hours before completing the reassignment. If after 72 hours the account is still not properly assigned, the Director will reach out to a member of the Territory Ops team to assist. 
 
-#### How do I request SAO credit on a Web Direct opportunity?
+### Assigning SAO Credit when a Territory Change is Uncovered during Discovery
+
+There will be times when an SDR or BDR is working a prospect and, after connecting with the prospect, discovers that the corresponding account actually belongs to a different segment than originally thought. This could be due to newly uncovered information regarding employee count, HQ location, or parent account relationship. SAO credit in these situations will vary based on the circumstances and will be determined on a case-by-case basis.  Specifically:
+
+* If the SDR or BDR has done their due diligence to verify account information and still ends up finding an opportunity outside of their territory: as long as the related account isn't an AWA and there is no related activity from an SDR in the past 30 days, and the SDR or BDR's manager has verified that the accurate information could not have been uncovered prior to engaging with the prospect, then that SDR or BDR and their team will get SAO credit.
+* If the related account is an AWA or there is related activity from an SDR in the past 30 days, SAO credit will belong to the BDR assigned to the AWA or the SDR working the lead related to the account.
+* If the related account isn't an AWA and there is no related activity from an SDR in the past 30 days, but the SDR or BDR's manager determines that the accurate information should have been uncovered prior to engaging with the prospect, SAO credit will be assigned to the team manager assigned to the correct territory. 
+* Any other situations that arise which result in a credit dispute will be investigated and resolved by the SDR or BDR's leader and senior leader.
+
+ **In situations where an SDR or BDR has received conflicting information and it is unclear what the correct territory is for an account, they should Chatter the AEs assigned to the potential territories and have them figure out who owns it.**
+
+### How do I request SAO credit on a Web Direct opportunity?
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
 1. Tag your manager (do not tag Sales Support)
 2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit.
@@ -745,7 +758,7 @@ On the opportunity record in Salesforce, compose a new Chatter message that incl
 
 Your manager will review the information and decide whether SAO credit is warranted. If confirmed, they will Chatter Sales Support to add you to the opportunity. If rejected, they will communicate to you the reasoning for their decision.
 
-#### Opportunity Creation Workflow
+### Opportunity Creation Workflow
 
 ![Opportunity Creation Workflow](/images/handbook/marketing/sales-development/Opportunitycreationworkflow.png)
 
