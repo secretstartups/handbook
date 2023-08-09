@@ -807,7 +807,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 
 ## 👣 Iteration {#iteration}
 
-We do the [smallest viable and valuable thing, and get it out quickly for feedback](https://about.gitlab.com/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). This thing may be additive (adding something) or subtractive (removing something). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/iteration#:~:text=%3A%20the%20action%20or%20a%20process,closer%20to%20a%20desired%20result) defines iteration as the "the action or a process of iterating or repeating: such as a procedure in which repetition of a sequence of operations yields results successively closer to a desired result." At GitLab, we iterate to do the [smallest viable and valuable thing, and get it out quickly for feedback](https://about.gitlab.com/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). This thing may be additive (adding something) or subtractive (removing something). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. While you should have a clear vision of the desired outcome, don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
 People that join GitLab all say they already practice iteration. But this is the value that is the hardest to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other GitLab team members being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product. It is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
 
@@ -821,9 +821,17 @@ Iteration enables [results](#results) and [efficiency](#efficiency)
 
 *In the [GitLab Unfiltered video](https://youtu.be/2r0UeZ5p57Y) embedded above, GitLab CEO and co-founder Sid Sijbrandij shares key operating principles to reinforce iteration in an organization.*
 
+##### Start with a goal in broad strokes
+
+Iteration involves driving results in pursuit of a goal. While the goal may change as we iterate, we are unlikely to be successful if we don't start with a vision of what we are working toward. Iteration for the sake of iteration can lead to inefficiencies and not deliver desired results.
+
 ##### Don't wait
 
 Don’t wait. When you have something of value like a potential blog post or a small fix, implement it straight away. Right now, everything is fresh in your head and you have the motivation. Inspiration is perishable. Don’t wait until you have a better version. Don’t wait until you record a better video. Don’t wait for an event (like Contribute). Inventory that isn’t released is a liability since it has to be managed, becomes outdated, and you miss out on the feedback you would have received had you implemented it straight away. When we don't wait we signal intent to others that we have a purpose to resolve something.
+
+##### Iterate toward global maximum
+
+If we are not aware of interdependencies beyond our team and collaborating with others across the organization, we risk deliverables that settle into a “local maxima” of quality, richness, and efficiencies. This localization is largely defined by team structure and organizational boundaries. While an iteration can take place within a single team, that team is responsible for identifying inter-dependencies and proactively communicating and aligning with other teams working on related projects. This helps ensure that iterations are not "half-baked" and align with work being done across the broader organization.
 
 ##### Set a due date
 
