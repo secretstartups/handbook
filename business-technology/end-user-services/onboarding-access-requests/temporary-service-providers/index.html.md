@@ -53,3 +53,19 @@ If you are accessing red or orange data you will be required to request a Gitlab
 - If no offboarding or termination date is provided in the Access Request, a default of 6 months will be applied to the account and a reminder message sent to the manager 1 week before deactivation. 
 - Please ensure to list all systems the contractor had access to in the offboarding issue. 
 
+### End User Services Monthly Access Review
+
+GitLab's user access review is an important control activity required for internal and external IT audits. Please refer to our [Access Review Procedure](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html#:~:text=All%20components%20of%20a%20user,the%20end%20of%20the%20quarter) to review the reason Gitlab user access reviews are conducted. This handbook page will detail the process of executing specifically our contractors user access reviews.
+
+Scope:
+
+**IT will be monitoring contractor accounts that have not logged in for 21 days and notifying the responsible GitLab managers to confirm that the contractors should still be active.**
+
+Review Process:
+
+- On a monthly basis, IT will pull a list from Okta to identify contractor accounts that have not logged into their accounts within the last 21 days.
+- The users will then be compared to our Contractor Workflows spreadsheet to ensure these are active contractors.
+- Finally, all active contractors who have not logged in for 21 days will be sent over to the responsible gitlab manager to review and ensure the contractor is still active.
+- If users are identified for removal as part of the review. IT will facilitate the access removal and ensure all access is removed from GitLab systems.
+
+_Please refer to the above sections of this page for additional information related to managing Contractors._
