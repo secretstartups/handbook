@@ -14,6 +14,10 @@ description: "Outreach is a sales engagement platform helps efficiently and effe
 
 Outreach is a sales engagement platform helps efficiently and effectively engage prospects to drive more pipeline and close more deals. If you have any questions about Outreach that is not addressed below, please post your question in the mktgops slack channel. 
 
+### Support
+
+[#mktgops](https://gitlab.slack.com/archives/CGL35F20G) on Slack.
+
 ### Set-Up  
 
 ##### Non-admin users

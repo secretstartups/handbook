@@ -421,6 +421,8 @@ If this is to set up a program that involves a channel partner, you must also fo
    - Advanced CI/CD: [YYYYMMDD_Workshop_CI/CD_EventType](https://app-ab13.marketo.com/#ME6807A1)  
    - Jenkins [YYYYMMDD_Workshop_Jenkins_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
    - GitOps Hands On: [YYYYMMDD_Workshop_GitOpsHands-on_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14657A1)
+   - AI in DevSecOps: [YYYYMMDD_Workshop_AIDevSecOps_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME16197A1)
+   - GitHub GitLab Migration: [YYYYMMDD_Workshop_GitHubGitLab_EventType](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME13738A1)
 
 ##### Other Tactic Marketo Templates
 - Conference - `Virtual`: [YYYYMMDD_YYYYMMDD_Vendor_VirtualConfName1 (Virtual Conference Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
@@ -431,7 +433,7 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
 - Surveys - For templates and setup instructions for surveys (both general surveys and SimplyDirect surveys) skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
-- Owned Event - `In-person`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
+- Owned Event - `Hybrid`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
 - Owned Event - `Virtual - Hopin only`: [YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) 
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
 
@@ -534,10 +536,11 @@ All programs have different necessities so it will be important to determine how
 - To remove expirations at a later date, right click on the program to return to the capable assets and submit changes. 
 
 ### Step 6 Setting up optional self-service cancellation 
-*This option is only available on specific program templates: the Owned Event template and the Executive Roundtable template. Workshop templates may be added at a later time.*
-- Included in the mentioned templates are 2 landing pages and 3 email templates - in the `Self Service Cancellation Assets` folder. To provide a self-service option for recipients to cancel their reservation, these landing pages and email templates will need to be updated.
-- The `Confirm - Register w/ cancellation option` email template needs to be substituted into the `01 Registration Flow` smart campaign on the `Send Email` step. This will send registrants a link to the cancellation landing page when they receive their registration confirmation email. 
-- Grab the URL of the `Cancel Page` landing page and place it in the token called `my.cancellation page`. **If this is not done, the link included in the registration confirmtation email will be broken**.
+*This option is only available on specific program templates: the Owned Event template and the Executive Roundtable template. Workshop templates may be added at a later time.* When a person fills out the cancellation form, their status in the program is updated to cancelled and an alert is sent to the event owner listed in the tokens. If the person cancels using a different email address, they will be added to the campaign as cancelled and the event owner will need to update the original registration to cancelled.
+
+- Self-service cancellation should always be utilized for Field Marketing's Owned Event and Executive Roundtable programs.
+- Included in the mentioned templates are 2 landing pages and 2 email templates - in the `Self Service Cancellation Assets` folder. To provide a self-service option for recipients to cancel their reservation, these landing pages and email templates will need to be updated.
+- Grab the URL of the `Cancel Page` landing page and place it in the token called `my.cancellation page`. **If this is not done, the link included in the registration confirmation email will be broken**.
 - Activate the `01 Cancellation Flow` smart campaign
 - Update the `Send Alert` step to the preferred internal GitLab email address that will receive the cancellation alert. This notifies stakeholders of cancellations. 
 - Activate asset expirations for 2-3 days after the event is over for all live cancellation assets
@@ -658,10 +661,11 @@ These steps are not yet configured. If you are planning to do this for your next
 **If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC
-Use these instructions if you are NOT working through Integrate DAP. For the instructions for campaigns through DAP, go to the section below.
+Use these instructions if you are NOT working through Integrate DAP. For the instructions for campaigns through DAP, go to the [section below](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap).
 
-### Step 1: Do not use this program if your campaign is running through Integrate DAP. See instructions below for DAP: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
+### Step 1: [Clone this program](https://app-ab13.marketo.com/#PG5149A1)
 
+- Do not use this program if your campaign is running through Integrate DAP. See instructions [below](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc---campaigns-through-integrate-dap) for DAP.
 - Use format `YYYY_Vendor_NameofAsset`
 - If the content syndication is part of a package with an external vendor, promoting several assets or webcasts, keep all of the Marketo programs together in a folder for easy access as part of a single vendor program.
 
@@ -720,7 +724,7 @@ Use these instructions if you are NOT working through Integrate DAP. For the ins
 **If utilizing Allocadia, follow these [steps](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-8-update-the-salesforce-campaign---using-allocadia).**  
 
 ## Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP
-If your content syndication program is not running through DAP, please use the instructions above. 
+If your content syndication program is not running through Integrate DAP, please use the instructions [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
 
 The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. If you only need to add a new asset to an existing Region/Vendor pair in Marketo, skip to the instructions below. 
 
@@ -741,7 +745,9 @@ You must keep the same Asset number for existing assets, otherwise the existing 
     - Update `Region` and `Subregion` 
 - Associate this campaign to the appropriate [parent campaign](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=365937335). 
 
-### Step 2: [Clone this program - ContentSynd_Region_Vendor_DAP_Assets_Populated](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15954A1) - This is the recommended template. Note that this program has the asset titles and types pre-populated. If you want a version without the asset tokens populated (not recommended only because it requires more set-up work), clone [ContentSynd_Region_Vendor](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15661A1). You will still need to add the SFDC campaign tokens in both versions. 
+### Step 2: [Clone this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15954A1)
+ContentSynd_Region_Vendor_DAP_Assets_Populated:
+This is the recommended template. Note that this program has the asset titles and types pre-populated. If you want a version without the asset tokens populated (not recommended only because it requires more set-up work), clone [ContentSynd_Region_Vendor](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG15661A1). You will still need to add the SFDC campaign tokens in both versions. 
 - Use format `ContentSynd_Region_Vendor`
 - Save the program to the folder for the appropriate FY under Content.
 
@@ -780,7 +786,7 @@ It is critical that any reference to asset number in the upload or send from the
 
 
 ### Steps to Setup Content Syndication in Marketo and SFDC - Campaigns through Integrate DAP - adding a new asset
-If your content syndication program is not running through DAP, please use the instructions above. 
+If your content syndication program is not running through DAP, please use the instructions [above](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc). 
 
 The SFDC campaigns for these are set-up by Region/Vendor/Asset combination. The Marketo programs are created by Region/Vendor pair. If your region/vendor already exists in Marketo, you only need to add the new asset to the tokens and automation. These instructions are to add a new asset to an existing region/vendor program in Marketo. You can also use these instructions to add additional assets (beyond the 15 already determined) to a new Region/Vendor Marketo program.
 

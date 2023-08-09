@@ -385,7 +385,7 @@ The following data cleanup is required for any list prior to sending it to the M
 | Nigeria                                      | South Australia                      |                         |
 | Niue                                         | Tasmania                             |                         |
 | Norfolk Island                               | Victoria                             |                         |
-| Norway                                       | Victoria                             |                         |
+| Norway                                       | Western Australia                             |                         |
 | Oman                                         | Australian Capital Territory         |                         |
 | Pakistan                                     | Northern Territory                   |                         |
 | Palestinian Territory, Occupied              |                                      |                         |
