@@ -14,23 +14,22 @@ The Senior Director, Marketing Operations and Analytics is a [grade 11](https://
 #### Senior Director, Marketing Operations and Analytics Responsibilities
 
 - Build, lead, and inspire a team of highly skilled analytics professionals, web developers, and marketing operations professionals who deliver impactful business insights and results
-- Manage the global marketing planning process including headcount and program spend.
 - Partner with Marketing Leadership to formulate and develop regional/segment marketing plans and constantly evolving go-to-market strategies
 - Develop and manage executive reporting on key metrics, formulate actionable insights and structure a concise, clear presentation of findings and prioritize issues as appropriate
 - Create Board level and other internal presentations for the Chief Marketing Officer
-- Collaborate with Marketing Leaders and teams to develop and execute marketing management disciplines and processes (weekly/quarterly forecast, pipeline analysis and development, target account lists, marketing OKRs, marketing overall campaign framework, budget allocation).
+- Collaborate with Marketing Leaders and teams to develop and execute marketing management disciplines and processes (weekly/quarterly forecast, pipeline analysis and development, marketing OKRs)
 - Align go-to-market motions with sales. Identify opportunities to improve go-to-market efficiencies and lead efforts to scale, align and invest in the business in partnership with sales strategy and finance
-- Lead, manage and evaluate the marketing tools, processes, policies and programs to ensure continuous productivity and effectiveness of marketing team members and marketing programs.
-- Articulate a vision for the end-to-end digital website and experimentation framework and execute marketing programs against that vision
-- Enable rapid A/B testing framework for use across the end-to-end customer journey
+- Lead, manage and evaluate the marketing tools, processes, policies and programs to ensure continuous productivity and effectiveness of marketing team members and marketing programs
+- Optimize the marketing tech stack to improve effectiveness, efficiency, automation and scalability
+- Develop and maintain key marketing dashboards and the marketing attribuiton model
 - Partner with Product Growth, Sales Systems, Business technology and Data team for a data collection strategy for the end-to-end customer journey
 - Collaborate with marketing, and sales stakeholders, product managers, and other GitLab teams to develop marketing operations roadmap and provide input into prioritization
-- Drive cross functional marketing programs such as product launch and introduction and localization. Drive key initiatives and projects for the Chief Marketing Officer.
+- Drive key initiatives and projects for the Chief Marketing Officer
 - Be a trusted advisor to Marketing Leadership
 
 #### Senior Director, Marketing Operations and Analytics Requirements
 
-- 15+ years of experience in a global SaaS marketing or marketing operations environment. Preference for Marketing Strategy, Marketing Operations, Strategy Consulting or Corporate Strategy
+- 10+ years of experience in a global SaaS marketing or marketing operations environment.
 - BA/BS degree, MBA Preferred
 - Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense.
 - Experience with marketing attribution models.
@@ -53,25 +52,26 @@ The VP, Marketing Operations and Analytics is a [grade 12](https://about.gitlab.
 #### VP, Marketing Operations and Analytics Responsibilities
 
 - Extends that of the Senior Director, Marketing Operations and Analytics responsibilities
-- Thought leader defining overall go-to-market data collection
-- Thought leader defining GitLab’s approach to A/B testing
+- Lead the globalization and localization function for the company
+- Modernize the marekting tech stack to gain efficiences and productivity
+- Thought leader defining overall markeeting data and analytics strategy to guide overall go to market strategy
 - Lead creation of multiple key marketing strategy initiatives and programs with CMO.
 
 #### VP, Marketing Operations and Analytics Requirements
 
-- Extends that of the  Senior Director, Marketing Operations and Analytics
-- 20+ years of experience in a global SaaS marketing or marketing operations environment. Preference for Marketing Strategy, Marketing Operations, Strategy Consulting or Corporate Strategy
-Requirements
+- Extends that of the Senior Director, Marketing Operations and Analytics
+- 12+ years of experience in a global SaaS marketing or marketing operations environment.
+
 
 ## Performance Indicators
 
-- [Marketing efficiency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- INQ to SAO conversion rate
 - [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- INQ to SAO conversion rate
+- Marketing influenced pipeline
 
 ## Career Ladder
 
-The next step in the Marketing Strategy job family beyond director is not yet defined at GitLab.
+The next step in the Marketing Strategy job family beyond VP is not yet defined at GitLab.
 
 ## Hiring Process
 
