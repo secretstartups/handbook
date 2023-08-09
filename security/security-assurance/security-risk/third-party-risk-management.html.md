@@ -157,11 +157,16 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 |Orange SaaS System| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		Yes|	Yes|	Yes| Yes |
 |Locally Hosted System| 3rd Party Attest or SIG Lite Plus (or equiv)	|No |	N/A	|Yes	|N/A| N/A|
 |Professional Services | 3rd Party Attest or SIG (See Below)|		N/A|	N/A| N/A|	N/A| N/A|
-|Yellow/Green**	|-|	-|	-|	Yes**|	-| - |
+|Yellow/Green**	|-|	-|	-|	Yes*|	-| - |
 
-*Law Firms may have legal obligations requiring limited access to red data. As such, Law Firms will be treated as Orange vendors.<br>
-**Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
-***Instances where gitlab team members provide an authorized third party their own data ([controller to controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms)) do not require a TPRM assessment. 
+Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
+
+### Exceptions to the TPRM Process
+
+In specific instances, requirements for the performance or contents of TPRM reviews may vary from the standard process defined above:
+1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.<br>
+2. Instances where Gitlab team members provide their own data to a third-party [Data Controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.  
+3. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team.
 
 #### The Standard Information Gathering (SIG) Questionnaire
 
