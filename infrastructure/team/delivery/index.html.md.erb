@@ -69,6 +69,24 @@ Each member of the Delivery group is part of this vision:
 * Significantly reduce MTTP below the current 12-hour target
 * Increase the speed of deployment failure detection and recovery by enhancing health checks and rollback processes 
 
+## Guiding Principles
+
+These are a set of statements or questions we can use within the group to evaluate whether what we are doing is the right thing to do. When deciding on a piece of work to commit to, we should ask ourselves whether the work aligns with these principles. The principles will be driven by the Delivery Group Strategy, domain experts and Delivery Group Members. These are likely to change slightly over time as we learn and should not be considered static. Additionally, these principles are additive to the [GitLab Values](https://handbook.gitlab.com/handbook/values/) and we aim not to duplicate those here. 
+  
+These principles are intended to help everyone work independently in a way that is aligned with our Group and strategy.
+
+### When designing a solution:
+
+1. Simplify Release Management. We always want to be reducing work for release managers either by removing tasks or by improving automation. Be very cautious about introducing new tasks without removing something else
+2. Don’t add functionality to Deployer. We aim to deprecate Deployer as part of our work to migrate away from VMs
+3. Always consider metrics. If we don't have the metrics to track the value, we should look to add them 
+4. UX consistency. Strive for consistency across tool interactions and naming
+5. Low-context designs. Design tools as if non-delivery team members need to use them. Keep things simple and let the tools do the hard work
+
+### When implementing a solution:
+
+1. Choose the smallest implementation. The less code we write, the less code we have to maintain (or debug)
+
 
 ## Strategy
 
