@@ -223,6 +223,7 @@ It is critical to be intentional when organizing a self-service data environment
     - For dimensions, we can test for the existence of the `MD5('-1')` (missing) dimension_id, and total row counts.
     - For facts, we can test to ensure the number of records/rows is not expanded due to incorrect granularity joins, and can add a golden data test to pull the dimension attribute from the dimension table for the related fact record and compare to the expected value on the golden data record.
 - fct_ and dim_ models should be materialized as tables to improve query performance.
+- Before implementing the current dimensional modeling structure, we used a [different data modeling approach](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#model-structure). This structure still exists in our Legacy schema, while some of it has been migrated to the newer methodology. Look at the [Use This Not That](https://docs.google.com/spreadsheets/d/1yr-J4ztkyl9vmJ6Euj58gczDLTIss7xIher5SV-1VDY/edit?usp=sharing) mapping to determine which new Kimball model replaces the legacy model.
 
 ## Schemas
 
