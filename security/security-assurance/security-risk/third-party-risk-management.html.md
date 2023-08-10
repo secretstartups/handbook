@@ -253,14 +253,18 @@ Independent Contractors requiring access to Orange or Red data in the provision 
 </details>
 
 <details>
-<summary markdown="span">2. GitLab Laptop Request</summary>
+<summary markdown="span">2. GitLab IT Laptop Request</summary>
 
-- GitLab Laptop Request Issue
+- GitLab Laptop Requests, which will be managed by the IT Ops.
+
+- GitLab Laptop Request Form
     - Controls pertaining to the security of hardware utilized by personnel are an important piece in ensuring the security and privacy of GitLab data. In order for GitLab to maintain oversight over this critical function, contractors whose agencies are not managing their endpoints are required to be issued a GitLab laptop to be used for **all** work performed on GitLab's behalf. GitLab laptops can be requested [here](https://docs.google.com/forms/d/e/1FAIpQLSfd9TR-Vw4IU5G3yQYzUStUAybcIWwCB44WICA5YqVDcb0QIg/viewform). 
 
     *Note that the above guidance does not apply to professional services vendors whose internal security control environment (including endpoint security controls) have been vetted by TPRM. Agencies managing contractor endpoints are subject to TPRM review. 
 
 </details>
+
+For situations where IT is unable to complete a GitLab Laptop Request due to country location or other constraints, the Security Risk Team will require consultation and may require a Risk Acceptance to be completed. See [TPRM Risk Acceptance](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process) Process for more details.
 
 #### Third Party Application Integrations
 
