@@ -19,7 +19,7 @@ Runway is maintained by the [Scalability:Frameworks](https://about.gitlab.com/ha
 ## Initial Goals
 
 - Enable Development team to deploy their service using the built-in capabilities for infrastructure, scaling, monitoring that Runway provides. 
-- Focussed on satellite services that are stateless and thus can be autoscaled to meet demand.
+- Focused on satellite services that are stateless and thus can be autoscaled to meet demand.
 - Integration with GitLab's existing tooling (e.g. Pipeline) to enable a streamlined experience.
 
 ## Milestones
