@@ -154,9 +154,8 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 | Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |------ |
 |Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		If applicable|	Yes|	If applicable| Yes |
-|Orange SaaS System| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		Yes|	Yes|	Yes| Yes |
-|Locally Hosted System| 3rd Party Attest or SIG Lite Plus (or equiv)	|No |	N/A	|Yes	|N/A| N/A|
-|Professional Services | 3rd Party Attest or SIG (See Below)|		N/A|	N/A| N/A|	N/A| N/A|
+|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		Yes|	Yes|	Yes| Yes |
+|Orange Professional Services | 3rd Party Attest or SIG (See Below)|		N/A|	N/A| N/A|	N/A| N/A|
 |Yellow/Green**	|-|	-|	-|	Yes*|	-| - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
@@ -294,6 +293,8 @@ Identified deficiencies are reported to the Business Owner via a [Risk Acceptanc
 Deficiencies require different stakeholder input based on the level of risk associated with the deficiency:
 - **Moderate Risks** are defined as risks that could result in the loss or improper disclosure of "lower" sensitivity (Orange) GitLab data. These risks are reported to the Business Owner for approval. If the Business Owner is not a Director or above, additional Director approval is required.
 - **High Risks** are risks that could result in the loss or improper disclosure of higher sensitivity (Red) data belonging to GitLab customers. Due to the higher level of sensitivity and potential impact on GitLab's obligations for securing this data, approvals are required from the Business Owner, their Director, and the appropriate member of the E-Group as determined by the Security Risk team. This is done to ensure appropriate stakeholder visibility and understanding of the risk being undertaken.
+
+IT approval is required for TPRM Risk Acceptances resulting from security deficiencies. 
 
 In the case of a control deficiency introducing a material risk to the security of data, the Privacy team should be notified prior to finalization of the associated Risk Acceptance. Scenarios could exist in which a Security control failure carries Privacy implications that should be communicated to the Business Owner.
 
