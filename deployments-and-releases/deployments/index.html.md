@@ -12,6 +12,12 @@ title: "Deployments"
 ## Overview and terminology
 This page describes the individual steps involved in deploying application changes to GitLab.com. Guidance on how to follow the deployment process are also described. For a high-level view of the overall deployment and release approach please see the [Deployments and Releases handbook page](/handbook/engineering/deployments-and-releases/).  
 
+### A tour of auto-deploy with a Release Manager
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/zdVzX5ZY7o4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### GitLab.com deployments process
 
 GitLab.com receives updates multiple times a day with new deployment branches currently created at **00:00, 03:00, 06:00, 8:00, 10:00, 12:00, 14:00, 16:00, 18:00, and 21:00 UTC** from Monday through Friday.

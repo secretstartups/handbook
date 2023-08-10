@@ -24,6 +24,10 @@ in their own infrastructure.
 
 ### Deployment and Release Process overview
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/aAQuhUnpbQE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 For testing purposes, all changes are deployed to GitLab.com before being considered for a self-managed release. Deployment and release cadences operate on different timelines with changes deploying to GitLab.com multiple times per day, and packages being released for self-managed users several times a month. 
 
 This overview shows how the two processes are connected: 
