@@ -236,7 +236,7 @@ For People Connect troubleshooting:
 1. Once reopen, select `Manage Permissions` and reinvite the team member by clicking on the `Add` option and enter the team members email address.
 1. This should now appear in the `Pending Invitations` section [here](https://myaccount.google.com/brandaccounts).
 
-## Commenting & Subscribing to Channels
+## Commenting
 
 Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. **In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.**
 
@@ -244,7 +244,19 @@ Consider switching to your personal account, responding to the comment, and iden
 
 Please do not comment on videos from non-GitLab YouTube accounts using any company related YouTube profile. Commenting as GitLab is reserved for responses to our owned videos on our channels only.
 
-Should you come across personal, political or inappropriate channel subscriptions, comments or shares in GitLab's YouTube account, please notify people-connect@gitlab.com immediately to ensure this can be removed.
+## Subscribing to Channels
+
+The GitLab Unfiltered YouTube account **should not** be subscribed to any channels except:
+
+- [`@Gitlab`](https://www.youtube.com/@Gitlab).
+
+## House cleaning
+
+The GitLab Unfiltered YouTube account is a shared space. Sometimes team members might accidentally [comment](#commenting) or [subscribe to channels](#subscribing-to-channels) thinking they are on a personal account.
+
+If you see a channel subscription or comment that violates the rules of this handbook, please take a bias-for-action to keep the GitLab Unfiltered
+YouTube account pristine. Delete any accidental channel subscription or comment to return the YouTube account to a pristine state. If you are unable 
+to remove the relevant comment or subscription, please notify people-connect@gitlab.com immediately.
 
 ## Organizing
 
