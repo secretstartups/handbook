@@ -80,8 +80,6 @@
     url: /handbook/about/on-call
   - name: Handbook Usage
     url: https://about.gitlab.com/handbook/handbook-usage/
-  - name: Handbook Migration
-    url: /handbook/content-websites/handbook-migration
   - name: Contribution Guide
     url: /docs
   - name: Practical Handbook Edits
