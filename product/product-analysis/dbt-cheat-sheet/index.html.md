@@ -21,6 +21,12 @@ but it can be hard to sift through for folks who are newer to analytics engineer
 This page aggregates existing resources in order to guide you through the basic 
 steps required to create and test an MR to update a model in dbt.
 
+## dbt change workflow
+
+Any development should follow the documented [dbt Change Workflow](/handbook/business-technology/data-team/how-we-work/dbt-change-workflow/). 
+Please review that handbook page for details on how to approach making changes in dbt 
+(planning, testing, etc).
+
 ## Local setup
 
 First things first, you need to get set up with dbt on your local machine. Please read 
@@ -29,7 +35,7 @@ for in-depth instructions. (Pro tip: read the entire section first, then start f
 the directions). As the section mentions, much of what you need is handled by 
 running the onboarding script.
 
-### profiles.yml Tips
+### profiles.yml tips
 
 * Looking for your `profiles.yml` file? Go to your home directory and hit `command` + `shift` + 
 `.`. This will expose your hidden files (ones that have a period as the first character) and reveal the file you need to update.
