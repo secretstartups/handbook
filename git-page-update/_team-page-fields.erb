@@ -7,6 +7,22 @@ Once you have found the file with your name or slug in its title, in the directo
   * Check that your role links to your job description. If not, add a link. For example, change `<a href="">Solutions Architect</a>` to `<a href="/job-families/sales/solutions-architect/">Solutions Architect</a>`.
   * Verify `reports_to` lists your manager using the `slug` value from their team page entry
   * If you are a manager, verify the `reports_to` of your direct reports are referring to your `slug`
+  * If you're currently on a borrow request, add `borrow` and set the `to` and `end_date` keys, e.g.
+
+    ```yaml
+    borrow:
+      to: ramya-authappan
+      end_date: 2023-09-15
+    ```
+
+  * Set your current work priorities in the `work_priorities` field, as an array, e.g.
+
+    ```yaml
+    work_priorities:
+      - Product Analytics
+      - ModelOps
+    ```
+
   * Add the filename of your profile picture, making sure to match letter case. Delete `../gitlab-logo-extra-whitespace.png`, if present. The completed line should look like this: `picture: yournameinlowercase.jpg`.
   * Add your pronouns
   * Consider adding `pronunciation` for your full name to help others to pronounce your name correctly (e.g. sid see-brandy for Sid Sijbrandij)
