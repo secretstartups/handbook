@@ -71,22 +71,26 @@ All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/lea
 
 ## How to access LinkedIn Learning
 
-Please follow this process for gaining access to a license for paid LinkedIn Learning content: 
+Please follow this process to get a license for paid LinkedIn Learning content:
 
-1. Go to https://gitlab.okta.com and open `LinkedIn Learning` 
-1. You will be asked to login to your LinkedIn account and to give Okta access to your LinkedIn account
-1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
-1. To access LinkedIn Learning content, go to https://www.linkedin.com/learning alternatively, go to our learning platform, [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
+1. Go to https://gitlab.okta.com and open `LinkedIn Learning`.
+1. You will be asked to log in to your LinkedIn account and to give Okta access to your LinkedIn account.
+1. You will receive an email notification from LinkedIn Learning once you have been added to the system.
+1. To access LinkedIn Learning content, go to https://www.linkedin.com/learning alternatively, go to our learning platform, [Level Up](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning.
 
-#### What to do if you receive an error message when trying to redeem a LinkedIn Learning license via Okta
+#### If you receive an error when trying to access LinkedIn Learning via Okta
 
-If clicking the above link results when trying to access LinkedIn Learning for the first time results in an error message, this may be because we have reached our limit of available licenses.
+You might receive an error similar to:
 
-In this instance, please:
+- `There seems to be an issue with your organization's single sign-on configuration`
+- `Error Code: SSO_LOGIN_JIT_PROVISIONING_LICENSE_CREATION_FAILED`
 
-1. Ensure your GitLab email address is on your LinkedIn Profile  
-1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
-1. You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
+This error usually happens if it's your first time logging in and we have reached our limit of available LinkedIn licenses. If this happens:
+
+1. Ensure your GitLab email address is on your LinkedIn Profile.
+1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).
+
+You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
 
 If a license is required urgently or during periods of high demand, the [Growth & Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) can be used to expense one.
 
