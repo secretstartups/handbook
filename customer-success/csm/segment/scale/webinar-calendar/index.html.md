@@ -62,7 +62,7 @@ In this workshop we will focus on how you can secure your application with GitLa
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zKJjC90zQUmcCOHkYPxQaQ)
 
 #### Hands-On GitLab DevSecOps Workshop
-##### August 30th, 2023 at 3:00-4PM Pacific Time / 6:00-7:00PM Eastern Time
+##### August 31st, 2023 at 3:00-4PM Pacific Time / 6:00-7:00PM Eastern Time
 
 In this workshop we will focus on how you can secure your application with GitLab. We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
 
