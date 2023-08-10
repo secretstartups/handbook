@@ -70,6 +70,9 @@ There are two phases for fixing a broken `master` incident which have a target S
 | [Triage](#triage-broken-master) | 4 hours from the initial broken `master` incident creation until assignment | group labelled on the incident |
 | [Resolution](#resolution-of-broken-master) | 4 hours from assignment to DRI until incident is resolved | Merge request author or team of merge request author or dev on-call engineer |
 
+Note: if an incident occurs when no triage DRI is expected to be online, the SLO is allowed to be missed. The next available group member should ensure all incidents that have missed their SLAs are triaged. For an incident that becomes a blocker for MRs and deployments, the team member being impacted should refer to the [broken `master` escalation](#broken-master-escalation) steps to request help from the current [engineer on-call](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc).
+
+
 Additional details about the phases are listed below.
 
 ### Broken `master` escalation
@@ -82,14 +85,18 @@ If a broken `master` is blocking your team (such as creating a security release)
 
 ### Triage broken master
 
-If a failed test can be traced to a group through its `feature_category` metadata, the broken `master` incident associated with that test will be automatically labeled with this group as the triage DRI through [this line of code](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/5ad6a19bd1b37a304fbd02701a002f4dd83e1fcf/triage/triage/pipeline_failure/incident_creator.rb#L23). In addition, Slack notifications will be posted to the group's Slack channel to notify them about ongoing incidents. The triage DRI is responsible for monitoring, identifying, and communicating the incident. The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the backup triage DRI if the failure cannot be traced to a group, or if the current triage DRI requires assistance. For now, all broken master incidents are also reported in the `#master-broken` channel, in addition to the triage DRI's group channel. In the future, we may consider removing alerts in the `#master-broken` channel if a triage DRI group is identified to ensure this workflow is scalable.
-
 #### Definitions
 
 - Flaky test: A test that fails, then succeeds when the CI job running the test is retried.
 - Broken master:
   - A test that fails even when the CI job running the test is retried.
   - A failing test that can be reproduced locally on the `master` branch.
+
+#### Attribution
+
+If a failed test can be traced to a group through its `feature_category` metadata, the broken `master` incident associated with that test will be automatically labeled with this group as the triage DRI through [this line of code](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/5ad6a19bd1b37a304fbd02701a002f4dd83e1fcf/triage/triage/pipeline_failure/incident_creator.rb#L23). In addition, Slack notifications will be posted to the group's Slack channel to notify them about ongoing incidents. The triage DRI is responsible for monitoring, identifying, and communicating the incident. The [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) is the backup triage DRI if the failure cannot be traced to a group, or if the current triage DRI requires assistance.
+
+For now, all broken master incidents are also reported in the `#master-broken` channel, in addition to the triage DRI's group channel. In the future, we may consider removing alerts in the `#master-broken` channel if a triage DRI group is identified to ensure this workflow is scalable.
 
 #### Triage DRI Responsibilities
 
@@ -166,6 +173,7 @@ If a failed test can be traced to a group through its `feature_category` metadat
       /label ~"master-broken::external-dependency-unavailable"
       /label ~"master-broken::failed-to-pull-image"
       /label ~"master-broken::gitlab-com-overloaded"
+      /label ~"master-broken::job-timeout"
       /label ~"master-broken::undetermined"
       ```
 
