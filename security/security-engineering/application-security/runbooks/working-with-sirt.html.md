@@ -34,6 +34,8 @@ These are some guidelines for selecting the urgency in the `/security` form:
 | Personal data leaks | Not Urgent (review within 24 hours) | Could be Urgent depending on the volume and the data |
 | Public merge requests fixing vulnerabilities not labeled `security-fix-in-public` | See notes | S2 and above is likely Urgent, S3 and below is Not Urgent |
 
+For more information, consider viewing the [SIRT incident classification and severity matrix](https://about.gitlab.com/handbook/security/security-operations/sirt/severity-matrix.html) page.
+
 # Getting SIRT attention without using /security
 
 In some situations, we just want SIRT to be aware of something that is happening or may become an incident soon. An example of this would be a high severity unverified HackerOne report from a reliable HackerOne reporter.
