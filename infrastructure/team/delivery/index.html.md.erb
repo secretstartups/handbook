@@ -90,46 +90,7 @@ These principles are intended to help everyone work independently in a way that 
 
 ## Strategy
 
-The Delivery Group significantly contributes to [the Platforms Infrastructure department direction for FY24](/handbook/engineering/infrastructure/platforms/#fy24-direction) in the following ways:
-
-#### 1. [Achieve 50% growth year-on-year in engagement surveys results compared to FY23](/handbook/engineering/infrastructure/platforms/#1-achieve-50-growth-year-on-year-in-engagement-surveys-results-compared-to-fy24)
-
-At a department level, this goal is about making sure people are supported and happy. Initiatives towards this goal: 
-  * Mature and align the Delivery hiring process with the overall Platforms process
-  * Reduce stress and context switching by [measuring and reducing Release Manager workload](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/744). We are defining [Metrics](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2752) that will drive this work. Areas of improvements are:
-    * Simplifying deployment and release processes by removing manual steps
-    * Improving documentation to make it easier to find and use process overviews, runbooks to guide day-to-day decisions, and training guides to support onboarding
-    * Identifying and removing frequent deployment and release failures
-
-#### 2. [Prepare self-servicing for stage group teams to enable end-to-end development](/handbook/engineering/infrastructure/platforms/#2-prepare-self-servicing-for-stage-group-teams-to-enable-end-to-end-development)
-
-In FY24 we'll continue to shift towards enabling stage teams to have greater control and visibility of deployments and releases. Some examples of how we may do this: 
-  * [Create a self-serve backport request process](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2427) to allow other teams to prepare patch releases for older versions 
-  * Enhanced package management and deployment strategies to allow release managers and Stage groups to control package contents for deployment and testing.
-  * [Enable Independent Deployments for GitLab services](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/independent-deployments/blueprint.md)
-  * Provide a way to allow stage group teams to self-serve common administrative tasks such as configuring security mirrors
-
-#### 3. [Increase use and accuracy of Platform team metrics, and feed them into enablement processes](/handbook/engineering/infrastructure/platforms/#3-increase-use-and-accuracy-of-platform-team-metrics-and-feed-them-into-enablement-processes)
-
-Delivery's MTTP PI has tracked our work to make deployments fast and reliable but it doesn't fully represent the current Delivery group's focus or goals. In FY24 we'll review existing group metrics and create a set that represents all of Delivery group responsibilities to allow us to measure our impact. Additional metrics could include: 
- * [Measure Release Manager workload](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/2752)
- * Measure time to deliver patch releases to self-managed users 
-
-Further refinement of MTTP and Deployment SLO that are tracking deployment average time and duration but they don't provide any granular insights will allow us to identify areas of improvements. In FY24 we'll [continue to add deployment pipeline observability](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/757) to make the end-to-end merge to production pipeline visible with a higher granularity and identify areas of improvement on reliability and deployment duration. For example
-  * Measure and create SLOs for Packaging time
-  * Measure and create SLOs for QA testing
-  * Identify and reduce frequently-failing jobs
-
-As we review and increase the number of metrics in use we'll need to focus on how and where we track these metrics to make sure we maintain a usable overview of the Delivery group. 
-
-#### 4. [Increase GitLab.com resilience to planned and unplanned growth, while keeping the cost of running the platform in check](/handbook/engineering/infrastructure/platforms/#4-increase-gitlabcom-resilience-to-planned-and-unplanned-growth-while-keeping-the-cost-of-running-the-platform-in-check)
-
-* Implement flexible deployment strategies (e.g.: [Experimental Deployments](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/872)) to increase change confidence and provide earlier feedback to stage groups to increase GitLab.com reliability.
-* Support Stage Groups with widely impacting changes (e.g.: [Ruby 3 rollout](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/865)) leveraging release capabilities and safer rollout plans that will minimize impact on reliablity.
-* [Enable a Maintenance Policy extension to support bug fixes in the previous three release versions](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/828)
-* Scale existing deployment and release processes to meet organization and user needs. Including
-  - Improve the backport request policy
-  - Scale the security release process
+We've moved this subsection to the [Delivery direction pages](/direction/saas-platforms/delivery/) so that it's in the same place as the rest of our product direction.
 
 ## Top-level Responsibilities
 
