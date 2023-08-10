@@ -23,10 +23,9 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Aug 10 | Data Intelligence - SFDC Overview  | Brianna V. |
-| Aug 17 |   | N/A |
-| Aug 24 |    |  |
-| Aug 31 |   | N/A |
+| Aug 17 | TBD  | TBD |
+| Aug 24 |  New Compliance Deck & Demo Environment  | Fern D. |
+| Aug 31 | Solution Play 2H FY24  | TBD |
 | Sep 7 | FY24-Q3 - Better Together: GitLab Alliances Update  | Rhoda B. |
 | Sep 14 |   | N/A |
 | Sep 21 |   | N/A |
@@ -44,6 +43,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-08-10 | **[Salesforce Data Quality & Governance Overview](https://drive.google.com/file/d/1ygod5B_8amGsZ6X0LSL447jl-UL2P_Q5/view?usp=drive_link)**  | Private |
 | 2023-08-03 |  **[FY24-Q3 - Deal Desk Update: Quote Approvals](https://drive.google.com/file/d/1cSDLF-pPUZgWd1FQB5BzWBpfzlY0oNcT/view?usp=sharing)** | Private |
 | 2023-07-13 | **[GitLab Security Competitors Overview](https://drive.google.com/file/d/1-AWkTHU5h1AhpNJTaWwDJCBYuNS4YNXw/view?usp=sharing)**  | Private |
 | 2023-06-15 | **[New Gartner & Forrester Reports: GitLab Named DevOps Platform Leader](https://drive.google.com/file/d/1cEy97VfXZ80UbywyeD5l6fMvlTuuBHMJ/view?usp=drive_link)** | Private |
