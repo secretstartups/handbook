@@ -23,6 +23,21 @@ Timing of team member touchpoints:
 - [Post-Earnings Recap & AMA](#post-earnings-recap--ama) (immediately following earnings): A 25 minute private AMA occurring after Earnings
 - [Assembly](/handbook/people-group/employment-branding/people-communications/#gitlab-assembly) (end of second month, early the third month of a quarter): An all-company meeting occurring 3-4 weeks after Earnings that covers a wide range of topics
 
+## Team Member Meeting Recordings
+
+Recordings listed in reverse chronological order.
+
+| Date | Recording | AMA Agenda |
+| ------ | ------ | ------ |
+| 2023-06-21 | [FY24-Q1 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q2-gitlab-assembly) | [AMA](https://docs.google.com/document/d/1l_Wm2hRozlBHQgFhOM-YvPL7gen5M6lpd7LDceK-EFc/edit#heading=h.v7v4cfj1oa5d) |
+| 2023-06-08 | FY24-Q1 Post-Earnings Internal Recap | [AMA](https://docs.google.com/document/d/1Je7Gya4VuwZ56VhNJUqyioJ7-eKmJA2LtoJCUVKoMsM/edit#heading=h.73bvjze4oj3a) |
+| 2023-05-17 | [FY24-Q2 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q2-quarterly-kickoff) | [AMA](https://docs.google.com/document/d/1mtLL3HKIWCe6xV1w4wF9ViYhDm5elhKb_IdTsbJxFak/edit#heading=h.3p4twch2ko0a) |
+| 2023-03-15 | [FY23-Q4 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/gitlab-assembly-fy23-q4-results) | [AMA](https://docs.google.com/document/d/1extPldea7aaYg85M_PQZh9nOr7DUcjhVmTMmvV_qlxE/edit#heading=h.73bvjze4oj3a) |
+| 2023-02-28 | [FY24-Q1 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy-24-q1-quarterly-kickoff) | [AMA](https://docs.google.com/document/d/1Jqty20IKf4SsI41pY-tPyQwNuD0WuujP18XLfNfLcIk/edit#heading=h.3p4twch2ko0a) |
+| 2022-12-08 | [FY23-Q3 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/gitlab-assembly-fy23-q3-results) | [AMA](https://docs.google.com/document/d/1iIXxUqnpDy4yDTRfJJxp9hQ8291w7ST4E1dSjObDUqc/edit#heading=h.73bvjze4oj3a) |
+| 2022-11-16 | [FY23-Q4 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff) | [AMA](https://docs.google.com/document/d/1jpm2cQb0HmD464HZVpSmc41-cfVH6Ecs6w_GZDV4PY8/edit#heading=h.jcmjxz6nb1le) |
+| 2022-09-22 | [FY23-Q2 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/gitlab-assembly-fy23-q2-results) | [AMA](https://docs.google.com/document/d/1-CYLe7g4Vy0geOSzTINXiASu9VGF-nSmawtbBBluSsc/edit#heading=h.73bvjze4oj3a) |
+
 ## Quarterly Kickoff
 
 The CEO has a Quarterly Kickoff in the first month of each quarter.
