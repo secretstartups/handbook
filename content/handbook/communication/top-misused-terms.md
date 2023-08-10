@@ -14,16 +14,6 @@ Below are terms people frequently use when they should use another term.
 <!-- leave this section at the bottom of the page -->
 ---
 
-## Export
-
-<details>
-  <summary>Export: List of top misused terms</summary>
-
-  <p>Please note that some terms may have been excluded from exports.</p>
-
-  <textarea class="misused-export" rows="10" cols="120">{{< misused-terms-export >}}</textarea>
-</details>
-
 ## Slack
 
 Slackbot ([via configuration](https://gitlab.slack.com/customize/slackbot)) can remind team members when they use a misused term.
