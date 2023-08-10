@@ -43,7 +43,7 @@ of GitLab's [product hierarchy](https://about.gitlab.com/handbook/product/catego
 ### Group Manager, Product (GMP)
 
 This role typically manages 2-4 Product Managers, and reports either to a [Director of Product](#director-of-product-management),
-a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product](#vp-of-product-management).
+a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](product-leadership/#vp-of-product-managemen).
 
 #### Group Manager, Product (GMP) - Job Grade
 
@@ -148,7 +148,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### Director of Product Management
 
-This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product](#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](product-leadership/#vp-of-product-management).
 
 #### Director of Product Management - Job Grade
 
@@ -185,35 +185,21 @@ The next step for a Director of Product Management is to move to [Senior Directo
 
 #### Director of Product Management - Specialties
 
-##### Dev
+##### CI
 
-The Director of Product Management, Dev is the PM DRI for the Dev parts of the
-[DevOps lifecycle](https://about.gitlab.com/handbook/product/categories/#dev-section)
-(e.g [Manage](https://about.gitlab.com/direction/manage/), [Plan](https://about.gitlab.com/direction/plan/) and [Create](https://about.gitlab.com/direction/create/)) Stages) and reports to the VP of Product.
-
-##### Sec
-
-The Director of Product Management, Sec is the PM DRI for the
-[Secure](https://about.gitlab.com/handbook/product/categories/#secure-stage) and
-[Govern](https://about.gitlab.com/handbook/product/categories/#govern-stage) parts of the
-[DevOps lifecycle](https://about.gitlab.com/handbook/product/categories/#devops-stages)
-and reports to the VP of Product.
-
-##### Growth
-
-The Director of Product, Growth is the PM DRI for the Growth parts of the
-[DevOps lifecycle](https://about.gitlab.com/handbook/product/categories/#growth-section)
-and reports to the Senior Director of Product Monetization.
+The Director of Product Management, CI is the PM DRI for the [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The CI Section includes the Verify and Package Stages
 
 ##### Enablement
 
-The Director of Product Management, Enablement is the PM DRI for the Enablement parts of the
-[DevOps lifecycle](https://about.gitlab.com/handbook/product/categories/#enablement-section)
-and reports to the VP of Product.
+The Director of Product Management, SaaS Platforms is the PM DRI for the [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The Enablement Section includes the Systems and Data Store Stages.
+
+##### SaaS Platforms
+
+The Director of Product Management, SaaS Platforms is the PM DRI for the [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The SaaS Platforms Section includes the SaaS Platforms Stage.
 
 ##### Fulfilment
 
-Responsible for the [Fulfillment](https://about.gitlab.com/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
+The Director of Product Management, SaaS Platforms is the PM DRI for the [Fulfillment Section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
 
 ##### Requirements
 
@@ -235,7 +221,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### Senior Director of Product Management
 
-This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [Chief Product Officer](chief-product-officer/).
+This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product Management](product-leadership/#vp-of-product-managemen).
 
 #### Senior Director of Product Management - Job Grade
 
@@ -258,18 +244,6 @@ The  Senior Director, Product Management is a [grade 11](https://about.gitlab.co
 
 The next step in the Product Management Leadership job family is to move to the [VP of Product Management](/job-families/product/product-management-leadership/) job family.
 
-#### Senior Director of Product Management - Specialties
-
-##### Ops
-
-The Senior Director of Product Management, Ops is the PM DRI for the Ops parts of the
-[DevOps lifecycle](https://about.gitlab.com/handbook/product/categories/#ops-section)
-(e.g. Monitor, Configure, Verify, Package, and Release) and reports to the VP of Product.
-
-##### Monetization & Operations
-
-The Senior Director of Product Management, Monetization & Operations is the PM DRI for [Fulfillment](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), Pricing, [Product Operations](https://about.gitlab.com/handbook/product/product-operations/), and [Product Analysis](https://about.gitlab.com/handbook/product/product-analysis/) and reports to the VP of Product.
-
 #### Senior Director of Product Management - Hiring Process
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
@@ -282,108 +256,6 @@ Candidates for this position can generally expect the hiring process to follow t
 - Next, candidates will be invited to schedule a 45 minute fifth interview with a Product or Engineering Director or above
 - Next, candidates will be invited to schedule a 45 minute Deep Dive interview with a Product Director
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
-
-### VP of Product Management
-
-This role typically manages 4-6 direct reports, including Group Managers of Product Management, Directors of Product Management and Senior Directors of Product Management, and reports to the [Chief Product Officer](chief-product-officer/).
-
-#### VP of Product Management - Job Grade
-
-The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### VP of Product Management - Responsibilities
-
-- Play a key role in helping the GitLab Product Management team scale rapidly and realize our product vision to be a complete DevOps platform.
-- Hire, lead, and coach a rapidly growing team of 30+ Product Managers
-- Manage a team of 4-6 Product Directors
-- Ensure a cohesive, coherent, and compelling end-to-end customer experience
-- Align team with end-to-end product line vision and goals
-- Leverage portfolio product management techniques to ensure product investments are properly allocated across the end-to-end GitLab product
-- Partner effectively with Engineering, Design, and Product Marketing to ensure we validate, build, launch, and measure product experiences that customers love and value
-- Help refine and implement the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
-- Serve as a spokesperson for the end-to-end GitLab product internally and externally
-
-#### VP of Product Management - Requirements
-
-- 18 years+ of relevant experience, with 10+ years of people management experience, including management of Directors+
-- Demonstrated understanding of DevOps markets, competition, and underlying technologies
-- Track record of leading products to successful commercial outcomes
-- Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-- Demonstrated ability to teach and coach the product management skills as outlined [here](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
-
-#### VP of Product Management - Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-
-- Apply on the GitLab Jobs [page](https://about.gitlab.com/jobs/)
-- 30 minute screening call with Recruiter
-- 50 minute interview with Chief Product Officer
-- 50 minute panel interview with Sr. Director, Engineering & Director, UX
-- 50 minute interview with Director, Product
-- 50 minute interview with Director, Product
-- 50 minute interview with CEO
-
-#### VP of Product Management - Specialties
-
-##### Dev & Analytics
-
-The VP of Product Management - Dev & Analytics is the PM DRI for the Dev and Analytics Sections which include:
-
-- [Dev Section](https://about.gitlab.com/handbook/product/categories/#dev-section) - Create, Plan, and Manage Stages
-- [Analytics Section](https://about.gitlab.com/handbook/product/categories/#analytics-section) - Analyze Stage
-
-##### CI/CD, Enablement, & SaaS Platforms
-
-The VP of Product Management - CI/CD, Enablement, & SaaS Platforms is the PM DRI for the CI, CD, Enablement, & SaaS Platforms Sections which include:
-
-- [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) - Verify & Package Stages
-- [CD Section](https://about.gitlab.com/handbook/product/categories/#cd-section) - Deploy Stage
-- [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) - Systems & Data Stores Stages
-- [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) - SaaS Platforms Stage
-
-### Senior Director of Product Monetization
-
-The Senior Director of Product Monetization reports to the [VP of Product](#vp-of-product-management).
-
-#### Senior Director of Product Monetization - Job Grade
-
-The Senior Director of Product Monetization is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Senior Director of Product Monetization - Responsibilities
-
-- Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:
-
-1. [Growth Product Management](https://about.gitlab.com/handbook/marketing/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
-1. [Fulfillment Product Management](https://about.gitlab.com/direction/fulfillment/).  Ensure a world class purchasing experience for GitLab customers, and drive towards 100% of sales transactions flowing through automated fulfillment systems.
-1. [Pricing](https://about.gitlab.com/company/pricing/).  Drive pricing and packaging improvements to increase Average Selling Price and Average Revenue Per User.
-
-- Align with Sales & Marketing leadership on the ideal customer acquisition paths for our various sales segments, and then build out a world class user experience to support those acquisition paths
-- Ensure unified priorities across Growth, Pricing, and Fulfillment
-- Leverage data analytics and generate insights to uncover the highest monetization priorities
-- Partner with the Product Intelligence and Data teams to ensure the product usage data set is sufficient to drive high priority monetization projects
-- Partner with Growth engineering to increase our ability to run experiments to one experiment per week per engineer
-
-#### Senior Director of Product Monetization - Requirements
-
-- 12+ years of relevant experience, with 7+ years of people management experience, including management of Directors+
-- Track record of leading products to successful commercial outcomes
-- Competency in product led growth, pricing, and self-service purchasing experience best practices
-- Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
-- Demonstrated ability to teach and coach the product management skills as outlined [here](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
-
-#### Senior Director of Product Monetization - Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-
-- Apply on the GitLab Jobs [page](https://about.gitlab.com/jobs/)
-- 30 minute screening call with Recruiter
-- 50 minute interview with VP, Product
-- 50 minute panel interview with the Director of Growth, Sr. Director of Pricing, Group Manager of Fulfillment, and Engineering Director of fulfillment and growth.
-- 50 minute interview with CMO
-- 50 minute interview with CRO
-- 50 minute interview with CEO
-
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Performance Indicators
 
