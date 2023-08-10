@@ -1,5 +1,5 @@
 ---
-title: "Details"
+title: "Migration Details"
 description: "Handbook Content is on the move.  This gives the time table and the individual files which are being migrated."
 ---
 
@@ -13,12 +13,12 @@ description: "Handbook Content is on the move.  This gives the time table and th
 |   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
 |   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
 |   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |
-|   7   | IT Self Service          |     12      |    12    |  0   | 2023-06-27 | 2023-06-30 |  Scheduled  |
-|   8   | Support                  |     212     |   208    |  4   | 2023-07-31 | 2023-08-02 |  Scheduled  |
-|   9   | Company                  |     265     |   200    |  53  | 2023-08-08 | 2023-08-11 |  Planning   |
-|  10   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-15 | 2023-08-18 |  Scheduled  |
-|  11   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |             |
-|  12   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |             |
+|   7   | IT Self Service          |     12      |    12    |  0   | 2023-06-27 | 2023-06-30 |  Completed  |
+|   8   | Support                  |     212     |   208    |  4   | 2023-07-31 | 2023-08-14 | In-Progress |
+|   9   | Company                  |     265     |   200    |  53  | 2023-08-15 | 2023-08-18 |  Planning   |
+|  10   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-22 | 2023-08-24 |  Scheduled  |
+|  11   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |  Scheduled  |
+|  12   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |  Scheduled  |
 |  13   | People Group             |     199     |   180    |  18  | 2023-10-17 | 2023-10-20 |             |
 |  14   | Marketing                |     415     |   423    |  44  | 2023-11-14 | 2023-11-17 |             |
 |  15   | Sales                    |     471     |   423    |  44  | 2023-12-05 | 2023-12-08 |             |
@@ -33,7 +33,7 @@ description: "Handbook Content is on the move.  This gives the time table and th
 - **Completed** - This content has already been migrated to the new handbook
 - **Blank** - This content has provisional start and completion dates but are subject to change
 
-For more details see [the full migration plan](/handbook/content-websites-responsibility/migration-plan).
+For more details see [the Handbook Roadmap](/handbook/about/roadmap).
 
 ## File Lists
 
