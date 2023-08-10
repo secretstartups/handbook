@@ -30,7 +30,7 @@ and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
 
 The following people are permanent members of the Growth:Acquisition team:
 
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Acquisition and Activation', role_regexp: /(Acquisition)/) %>
+<%= direct_team(manager_role: 'Engineering Manager, Growth:Acquisition and Activation', role_regexp: /(Acquisition)/) %>
 
 ### Stable Counterparts
 
@@ -38,7 +38,7 @@ We work directly with the following team members in the Growth:Acquisition group
 
 <%=
 other_manager_roles = ['Director of Engineering for Growth, Sec, and Data Science','Senior Engineering Manager, Anti-Abuse, Govern, and Growth']
-direct_managers_role = 'Fullstack Engineering Manager, Growth:Acquisition and Activation'
+direct_managers_role = 'Engineering Manager, Growth:Acquisition and Activation'
 roles_regexp = /[,&] (Growth(?!:)|Growth:Acquisition)/
 
 stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
