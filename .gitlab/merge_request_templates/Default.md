@@ -8,7 +8,6 @@
 
 CHANGEME - add the details saying [why, not just what][say-why-not-just-what].
 
-
 ## Author and Reviewer Checklist
 
 **Please verify the check list and ensure to tick them off before the MR is merged.**
