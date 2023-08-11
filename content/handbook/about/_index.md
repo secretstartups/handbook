@@ -1,5 +1,6 @@
 ---
 title: About the Handbook
+weight: -10
 ---
 
 ## History of the handbook

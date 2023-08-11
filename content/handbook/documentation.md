@@ -1,5 +1,6 @@
 ---
 title: Documentation
+weight: -10
 ---
 
 GitLab documentation is crafted to help users, admins, and decision-makers
