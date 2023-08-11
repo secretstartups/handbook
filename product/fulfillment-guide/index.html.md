@@ -64,6 +64,10 @@ Not all Fulfillment features are available at the time for all types of customer
 | GitLab for Education, Open Source and Startups Customers | No | No | No | No |
 | Free Tier Users | No | No | No | No |
 
+## Initial Purchase Flows
+
+- [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1430) of initial purchase flows
+
 ## Storage Enforcement
 
 ### Notifications
