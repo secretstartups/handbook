@@ -9,7 +9,7 @@ description: "Handbook Content is on the move.  This gives the time table and th
 | :---: | :----------------------- | :---------: | :------: | :--: | ---------: | ---------: | :---------: |
 |   1   | Job Families             |     408     |   408    |  0   | 2023-03-28 | 2023-03-31 |  Completed  |
 |   2   | TeamOps                  |      7      |    0     |  7   | 2023-04-19 | 2023-04-21 |  Completed  |
-|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 | In-Progress |
+|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 |  Completed  |
 |   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
 |   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
 |   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |

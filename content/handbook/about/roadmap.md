@@ -81,7 +81,7 @@ the next significant bit of work will be to improve search across the handbooks.
 | :---: | :----------------------- | :---------: | :------: | :--: | ---------: | ---------: | :---------: |
 |   1   | Job Families             |     408     |   408    |  0   | 2023-03-28 | 2023-03-31 |  Completed  |
 |   2   | TeamOps                  |      7      |    0     |  7   | 2023-04-19 | 2023-04-21 |  Completed  |
-|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 | In-Progress |
+|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 |  Completed  |
 |   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
 |   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
 |   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |
@@ -127,10 +127,6 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** Company Handbook Content
-
-**Status:** On Going
-
 **What are we moving:** Support
 
 **Status** Set to be completed 2023-08-14
@@ -138,28 +134,6 @@ This is the order we have identified to migrate content but it is subject to cha
 #### What content is moving
 
 The following content has been earmarked as the next content to move.  This will be done as a series of small merge requests over the course of a week or so before the end of April.
-
-##### Company handbook content
-
-- [x] [https://about.gitlab.com/handbook/values](https://about.gitlab.com/handbook/values) - `/sites/handbook/source/handbook/values`
-- [x] [https://about.gitlab.com/handbook/only-healthy-constraints](https://about.gitlab.com/handbook/only-healthy-constraints) - `/sites/handbook/source/handbook/only-healthy-constraints`
-- [x] [https://about.gitlab.com/handbook/documentation/](https://about.gitlab.com/handbook/documentation/) - `/site/handbook/source/handbook/documentation`
-- [x] [https://about.gitlab.com/handbook/being-a-public-company/](https://about.gitlab.com/handbook/being-a-public-company/) - `/sites/handbook/source/handbook/being-a-public-company`
-- [x] [https://about.gitlab.com/handbook/communications](https://about.gitlab.com/handbook/communications) - `/sites/handbook/source/handbook/communications`
-- [x] [https://about.gitlab.com/handbook/about](https://about.gitlab.com/handbook/about) - `/sites/handbook/source/handbook/about`
-- [ ] [https://about.gitlab.com/faq-gitlab-licensing-technology-to-independent-chinese-company](https://about.gitlab.com/faq-gitlab-licensing-technology-to-independent-chinese-company) - `/sites/handbook/source/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company`
-- [ ] [https://about.gitlab.com/key-review](https://about.gitlab.com/key-review) - `/sites/handbook/source/handbook/key-review`
-- [ ] [https://about.gitlab.com/handbook/group-conversations/](https://about.gitlab.com/handbook/group-conversations/) - `/sites/handbook/source/handbook/group-conversations/`
-- [ ] [https://about.gitlab.com/handbook/e-group-weekly/](https://about.gitlab.com/handbook/e-group-weekly/) - `/sites/handbook/source/handbook/e-group-weekly`
-- [ ] [https://about.gitlab.com/handbook/environmental-sustainability/](https://about.gitlab.com/handbook/environmental-sustainability/) - `/sites/handbook/source/handbook/environmental-sustainability`
-- [x] [https://about.gitlab.com/handbook/content-websites-responsibility/](https://about.gitlab.com/handbook/content-websites-responsibility/) - `/sites/handbook/source/handbook/content-websites-responsibility`
-- [ ] [https://about.gitlab.com/handbook/inspired-by-gitlab/](https://about.gitlab.com/handbook/inspired-by-gitlab/) - `/sites/handbook/source/handbook/inspired-by-gitlab/`
-- [x] [https://about.gitlab.com/handbook/handbook-usage/](https://about.gitlab.com/handbook/handbook-usage/) - `/sites/handbook/source/handbook/handbook-usage`
-- [ ] [https://about.gitlab.com/handbook/practical-handbook-edits/](https://about.gitlab.com/handbook/practical-handbook-edits/) - `/sites/handbook/source/handbook/practical-handbook-edits`
-- [ ] [https://about.gitlab.com/handbook/using-gitlab-at-gitlab](https://about.gitlab.com/handbook/using-gitlab-at-gitlab) - `/sites/handbook/source/handbook/using-gitlab-at-gitlab`
-- [x] [https://about.gitlab.com/handbook/style-guide](https://about.gitlab.com/handbook/style-guide) - `/sites/handbook/source/handbook/style-guide`
-
-##### Support
 
 - [ ] [https://about.gitlab.com/handbook/support](https://about.gitlab.com/handbook/support) - `/sites/handbook/source/handbook/support`
 
@@ -191,7 +165,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Company Handbook Content
 
-***Expected Finish Date:*** 31st August 2023
+***Expected Finish Date:*** 11th August 2023
 
 ***Content to move:***
 
@@ -199,15 +173,15 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [x] Being a public company
 - [x] Communication
 - [x] Handbook
-- [ ] Key Reviews
-- [ ] Group Conversations
-- [ ] E-Group Weekly
-- [ ] Sustainability
+- [x] Key Reviews
+- [x] Group Conversations
+- [x] E-Group Weekly
+- [x] Sustainability
 - [x] About the handbook
 - [x] Content Websites Responsibility
 - [x] Style-Guide
-- [ ] Inspired By Gitlab
-- [ ] Executive Business Administrators
+- [x] Inspired By Gitlab
+- [x] Executive Business Administrators
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company-handbook-content)
 
