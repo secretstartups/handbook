@@ -98,7 +98,7 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 ## GitLab.com Console Escalation
 
-This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/GitLab.com%20Console%20Escalation.md) used to request an engineer with GitLab.com console access to take action.
+This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) used to request an engineer with GitLab.com console access to take action.
 
 Common issues include the following when the UI and API methods are not working:
 

@@ -1,5 +1,4 @@
 ---
-
 title: Promoting a Support Engineer
 description: "How to handle Support Engineer promotions"
 ---
@@ -26,8 +25,8 @@ In Support we start the promotion-docs review process
 as soon as the documents are ready for review.
 
 - Create the promotion document using the appropriate template:
-  - [Promotion to Senior Support Engineer - Template](https://drive.google.com/drive/search?q=Promotion%20to%20Senior%20Support%20Engineer%20-%20Template)
-  - FY23Q3+ Promotion to Staff Support Engineer -- link TBD, updates in
+    - [Promotion to Senior Support Engineer - Template](https://drive.google.com/drive/search?q=Promotion%20to%20Senior%20Support%20Engineer%20-%20Template)
+    - FY23Q3+ Promotion to Staff Support Engineer -- link TBD, updates in
       [this Epic](https://gitlab.com/groups/gitlab-com/support/-/epics/188)
 - Add a link to the document into the Support Promotions Projects spreadsheet
 - Complete the document with the Support Engineer
@@ -53,5 +52,7 @@ as soon as the documents are ready for review.
 - Once approval has been received from People team, notify the engineer.
 - Send a message to the `#team-member-updates` Slack channel.
 - Share the message from `#team-member-updates` into the `#support-team-chat` channel for Support Team visibility.
+- Go multi-modal and [add an announcement](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/SWIR/) to the [Support Week in Review (SWIR)](https://about.gitlab.com/handbook/support/#support-week-in-review), using the "Team Member Updates" category
 - Move the promotion doc to the [Individual Docs folder](https://drive.google.com/drive/search?q=Individual%20Docs)
   in the shared `Support` drive on Google Drive.
+

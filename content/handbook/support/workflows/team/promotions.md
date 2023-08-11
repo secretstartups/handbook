@@ -51,6 +51,9 @@ If you want to list your document here, decide what level of publicity you are c
 
 ### Promotion to Senior Support Engineer
 
+ - [David Coy](https://docs.google.com/document/d/182Ijxv5VJjGoDXQFBi2DmFpMdZio324UXMKh7sz2xoo/edit)
+ - [Sam Bernal-Damasco](https://docs.google.com/document/d/1-due7KKIyyWzGzRDks1esOWDFGdSU8Rroby1RTCZMAE/edit)
+
 ### Promotion to Staff Support Engineer
 
 - [Brie Carranza](https://docs.google.com/document/d/14DbQH4VjbE47r9zefK0HPBKW_ZAfI8Sm_Kqdo_6Svbo/edit)

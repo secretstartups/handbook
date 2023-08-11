@@ -11,6 +11,14 @@ This workflow covers how a user can provide account verification. While the work
 
 2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
+## User Account Verification
+
+If the user has questions about the email, phone, or credit card verification GitLab is requiring, please refer to the [Internal Handbook for the workflow](https://internal.gitlab.com/handbook/support/#phone-number-verification-issues) to follow.
+
+### Email Verification
+
+As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verify their email address when a login attempt meets certain high-risk criteria. Review the [blog post](https://about.gitlab.com/blog/2023/08/08/gitlab-account-security/) announcing this change. If a user contacts support with questions, use the `Support::SaaS::Abuse::Email Address Verification` macro.
+
 ## GitLab Team Members
 
 If the user is a GitLab team member, have them contact IT Ops.
@@ -251,13 +259,14 @@ If a 2FA ticket is opened by an organization that has had this workflow configur
 
 1. Within the customer's shared Slack channel with us, use the template below to alert them to the fact that a new 2FA disable request exists in their account management issue tracker. Be sure to replace the following variables:
    - `SLACK_USERNAME` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts. If there are more than one, add them as well.
+   - `ISSUE_LINK` - The URL of the 2FA reset issue created on the shared project
 
      <details>
        <summary markdown="span">Notify Customer - Slack</summary>
 
-       <p>Hi <SLACK_USERNAME> - we've received a request from one of your users to disable 2FA on their account.
+       <p>Hi `SLACK_USERNAME` - we've received a request from one of your users to disable 2FA on their account.
 
-       <p>Could you vouch for them by following the steps in this issue: <ISSUE_LINK>?
+       <p>Could you vouch for them by following the steps in this issue: `ISSUE_LINK`?
 
        <p>Once you've done that, please let me know. If you don't get to this within 24 hours, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
 

@@ -39,6 +39,32 @@ of the GitLab Support On-Call Guide Handbook page.
 
 - ???
 
+## Working principles
+
+Working principles are behaviors that empower team members to carry out the
+work of Support Engineering in alignment with the needs of our customers and
+our business. They help illustrate what applying GitLab's core values and
+operating principles to Support work looks like.
+
+These working principles are complementary to and should be subordinate to
+GitLab's core values and operating principles. In case of a conflict between
+the two, please create an MR to propose a change to or removal of the working
+principles.
+
+### Solve tickets faster
+
+Solving tickets faster can lead to better customer outcomes, and frees up time
+for Support team members to do what the team needs or what they want, such as
+new tickets, training or code contributions. These questions might help you
+apply this operating principle:
+
+- Is what I'm currently doing helping me to solve this ticket faster?
+- If we stop or remove a process, will it help us to solve tickets faster?
+- Will my ideas and efforts lead us to solve tickets faster as a team?
+
+As we learn more about this operating principle, please leave any thoughts or
+feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4921).
+
 ## Operating metrics and measurements
 
 ### Cliff of definite underperformance
@@ -216,11 +242,6 @@ each financial quarter.
        ```
 
 </details>
-
-## FY24-Q1 Motto: Solve tickets faster
-
-We are evaluating turning this into our north star for FY24. Please leave any
-thoughts or feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4921).
 
 ## Daily Bot in the #support_licensing-subscription slack channel
 
