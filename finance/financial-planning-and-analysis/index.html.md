@@ -93,6 +93,18 @@ Final FY24 Planning documents are on Google Drive, please find the links in the 
 
 All of the data for these planning documents are locked in our Adaptive Planning instance (Adaptive Planning can only be accessed by FP&A.)
 
+#### FY25 Plan Milestones
+Key planning milestones are listed below. For a more detailed timeline and planning checklist please engage your FP&A business partner.
+- 2023-09-04 Finalize FY25 Bookings proposal with CRO and CFO
+- 2023-09-11 Kick off FY25 Plan with eGroup and FP&A
+- 2023-10-03 GTM Offsite for key design decisions
+- 2023-11-20 eGroup update on Preliminary FY25 Plan. Rollup based on FP&A 9+3 Forecast lock
+- 2023-11-27 (week of) Individual department reviews with CEO and CFO
+- 2023-12-14 Q3 Board meeting with update on Preliminary Plan 
+- 2024-01-16 eGroup update on Final FY25 Plan
+- 2023-03-28 Q4 Board meeting for Final FY25 Plan approval
+
+
 
 ## Long Range Outlook ("LRO")
 
