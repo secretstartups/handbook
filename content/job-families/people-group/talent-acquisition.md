@@ -1,5 +1,5 @@
 ---
-title: "Recruiting"
+title: "Talent Acquisition"
 ---
 
 ## Recruiter (Intermediate)
