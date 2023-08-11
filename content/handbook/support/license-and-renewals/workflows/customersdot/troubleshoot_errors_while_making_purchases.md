@@ -84,7 +84,9 @@ The general workflow that Support uses for this process is documented in the [Su
 
 The process here is much the same, but since we are investigating mail from CustomerDot, in Step 4 of the general workflow ensure that `customers.gitlab.com` is selected as the domain to search under.
 
-Note that [reseller customers will not have access to customers.gitlab.com](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1373) and subsequently, password reset emails will not be sent to them. Check whether the customer has access to customers.gitlab.com by navigating to the `Edit` page for the customer record (pen icon on right-side of customer record) and looking at the `Login activated` checkbox. If the checkbox is ticked, the customer has access; if the checkbox is not ticked, the customer will not have access and they will not receive password reset emails. Reseller customers should make their purchases via our Sales team.
+To confirm whether the customer has access to customers.gitlab.com, navigate to the `Edit` page for the customer record (pen icon on the right side of the customer record) and look at the `Login activated` checkbox. If the checkbox is ticked, the customer has access; if the checkbox is not ticked, the customer will not have access and they will not receive password reset emails.
+
+Note that reseller customers should make their purchases via their reseller or our Sales team.
 
 ### Example of previous tickets
 

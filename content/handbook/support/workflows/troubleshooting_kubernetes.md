@@ -11,8 +11,8 @@ description: Using the kubeSOS to troubleshoot GitLab Cloud Native chart deploym
 
 ### Requirements
 
-- kubectl client v1.14+
-- helm 2.12+
+- kubectl client v1.16+
+- helm 3.3.1+
 
 ## Usage
 
@@ -26,16 +26,23 @@ chmod +x kubeSOS.sh
 
 ```
 
-| Flags | Description | Required   | Default
-| :---- | :---------- | :--------- | :------
-| `-n`  | namespace   | No | "default"
-| `-r`  | helm chart release | No | "gitlab"
-
 Or use `curl`:
 
 ```bash
 curl https://gitlab.com/gitlab-com/support/toolbox/kubesos/raw/master/kubeSOS.sh | bash -s -- [flags]
 ```
+
+| Flags | Description | Required   | Default
+| :---- | :---------- | :--------- | :------
+| `-n`  | namespace   | No | "default"
+| `-r`  | helm chart release | No | "gitlab"
+| `-l app`  | application label to match for logs (can be used multiple times) | No |
+| `-L` | select apps for logs interactively | No | n/a
+| `-s time`  | Only return logs newer than a relative duration like 5s, 2m, or 3h | No | 0=all logs
+| `-t time_stamp`  | Only return logs after a specific date (RFC3339) | No | all logs
+| `-m maxlines` | Override the default maximum lines output per log (-1 = no limit) | No | 10000
+| `-p` | Prepend log entries with pod and container names | No | n/a
+| `-w log_timeout` | Log generation wait time (seconds). Increase this if log collection does not complete in time  | No | 60
 
 Data will be archived to `kubesos-<timestamp>.tar.gz`
 
@@ -75,13 +82,9 @@ To delve deeper into troubleshooting the cluster have a look at [Troubleshoot Cl
 
 ### Gitlab Requirements
 
-In order to deploy GitLab on Kubernetes, ensure the setup meets the following:
+In order to deploy GitLab on Kubernetes, ensure the setup meets the [documented requirements](https://docs.gitlab.com/charts/installation/tools.html#prerequisites).
 
-- `kubectl 1.13` or higher, compatible with your cluster (+/- 1 minor release from your cluster).
-- `Helm v3` (3.2.0 or higher).
-- A Kubernetes cluster, version `1.13` or higher. `8vCPU` and `30GB` of RAM is recommended.
-
-Going back to our generated KubeSos output, confirm by checking:
+## Checking kubeSOS output
 
 ### kubectl-check
 
@@ -212,29 +215,51 @@ repo-data-gitlab-gitaly-0       Bound    pvc-af7ca188-  50Gi       RWO         s
 
 ### User supplied values
 
-The `user_supplied_values.yaml` file lists all user supplied values that were set while installing GitLab. This is helpful in confirming if the supplied values are correct and will work as they override the chart defaults. The `all_values.yaml` file has all values that have been used to set up Gitlab.
+Where there is more than one helm revision (`helm history <release>`), we capture the `user_supplied_values.yaml` and `all_values.yaml` for each revision. This is useful for comparing changes that were applied between revisions. For example:
+
+```diff
+% diff user_supplied_values_rev_7.yaml user_supplied_values_rev_8.yaml
+3,4d2
+< certmanager-issuer:
+<   email: gladmin@example.com
+33a32,33
+>   ingress:
+>     configureCertmanager: false
+```
+
+The above indicates a change was made to CertManager configuration between revisions 7 and 8.
+
+If the YAML files are not present, it is likely that kubeSOS was not run against the correct *namespace* or *release*, `helm list -A` will show all helm deployed releases. Be sure to run `kubeSOS.sh` with the appropriate `-n <namespace>` and `-r <release>` options.
+
 
 ### Application logs
 
-Finally it generates all the application logs which can be used to debug specific application issues.
+Finally, `kubeSOS.sh` generates all the application logs which can be used to debug specific application issues.
+
+Logging is more limited in a Kubernetes environment, you should note:
+
+- By default, a container's current log is limited to a size of 10Mb, at which point it is rotated.
+- Whilst Kubernetes will rotate logs, it is not possible to retrieve rotated logs remotely via `kubectl logs`, direct access to the node is required (see [Additional logs](#additional-logs)).
+- Kubernetes will retain the log of a failed container, this is limited to the previous instance of the container only.
+
+It is worth noting also, that `kubeSOS.sh` will only obtain logs from pods/containers that are currently running (or completed for init containers). If you find that a log is not present and was not intentionally filtered out, then it's likely the pod was not active when `kubeSOS.sh` was run. Check the file `get_pods` to see which pods were active. Note also that empty log files are not added to the archive.
+
+Logs are captured for each *container*. Many pods run more than one container, for example, `webservice` could return five logs:
 
 ```bash
-% ls -alrt *.log
--rw-r--r--  1 staff  staff   100356 Jun 20 14:45 cainjector.log
--rw-r--r--  1 staff  staff    33000 Jun 20 14:45 cert-manager.log
--rw-r--r--  1 staff  staff  1274320 Jun 20 14:45 gitaly.log
--rw-r--r--  1 staff  staff    56873 Jun 20 14:45 gitlab-exporter.log
--rw-r--r--  1 staff  staff     1606 Jun 20 14:45 gitlab-gitlab-runner.log
--rw-r--r--  1 staff  staff      595 Jun 20 14:45 gitlab-pages.log
--rw-r--r--  1 staff  staff     4394 Jun 20 14:45 gitlab-shell.log
--rw-r--r--  1 staff  staff     1462 Jun 20 14:45 kas.log
--rw-r--r--  1 staff  staff        0 Jun 20 14:45 minio.log
--rw-r--r--  1 staff  staff  1203696 Jun 20 14:45 nginx-ingress.log
--rw-r--r--  1 staff  staff     3456 Jun 20 14:45 postgresql.log
--rw-r--r--  1 staff  staff    10789 Jun 20 14:45 prometheus.log
--rw-r--r--  1 staff  staff     4757 Jun 20 14:45 redis.log
--rw-r--r--  1 staff  staff     6158 Jun 20 14:45 registry.log
--rw-r--r--  1 staff  staff  1166489 Jun 20 14:45 sidekiq.log
--rw-r--r--  1 staff  staff     1955 Jun 20 14:45 task-runner.log
--rw-r--r--  1 staff  staff  4750701 Jun 20 14:45 webservice.log
+-rw-r--r--@  1 chriss  staff  6022116 27 Jul 15:06 webservice_webservice.log
+-rw-r--r--@  1 chriss  staff  4226942 27 Jul 15:06 webservice_gitlab-workhorse.log
+-rw-r--r--@  1 chriss  staff     1354 27 Jul 15:06 webservice_dependencies.log
+-rw-r--r--@  1 chriss  staff     5710 27 Jul 15:06 webservice_configure.log
+-rw-r--r--@  1 chriss  staff      321 27 Jul 15:06 webservice_certificates.log
 ```
+
+Log file naming consists of `application name`_`container name`.log. The `application name` is determined from the `app` metadata label assigned to pods. If a container fails, its log is retained, `kubeSOS.sh` will retrieve this log via the `kubectl logs --previous` option and is identified by `*_previous.log`.
+
+### Additional logs
+
+As mentioned, `kubectl logs` is limited in the logs it can retrieve. Additional logs exist on the worker nodes hosting the containers. These logs are usually found in:
+
+- `/var/log/containers`
+
+on the host node.

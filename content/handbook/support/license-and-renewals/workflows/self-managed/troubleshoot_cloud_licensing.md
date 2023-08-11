@@ -150,6 +150,51 @@ That command will return output very similar to what a typical `curl -I` would r
 
 At present, cloud licensing does not officially support network proxies, deep packet inspection, etc.  But if the customer is aware of custom network proxy configurations on their end, they may be able to configure GitLab to ignore them via the `no_proxy` environment variable.  More information is available in our documentation on [Setting custom environment variables](https://docs.gitlab.com/omnibus/settings/environment-variables.html)
 
+### Activating a license with the GraphQL API
+
+In cases where the license activation functions are unavailable (for example, due to a 500 error on the billing page), the [GraphQL API](https://docs.gitlab.com/ee/api/graphql/reference/) can be used to activate a cloud license directly using the [`Mutation.gitlabSubscriptionActivate` endpoint](https://docs.gitlab.com/ee/api/graphql/reference/#mutationgitlabsubscriptionactivate):
+
+1. Have the customer navigate to `https://<their-self-managed-gitlab-site.com>/-/graphql-explorer`
+1. Run the following mutation by replacing `<activation code>` with the actual 24-character cloud activation code:
+
+```graphql
+mutation {
+  gitlabSubscriptionActivate(
+    input: {
+      activationCode: "<activation code>"
+    }
+  ) {
+    errors
+    license {
+      id
+      activatedAt
+      startsAt
+      usersInLicenseCount
+      lastSync
+    }
+  }
+}
+```
+
+The mutation will return the following if there are no errors:
+
+```graphql
+{
+  "data": {
+    "gitlabSubscriptionActivate": {
+      "errors": [],
+      "license": {
+        "id": "gid://gitlab/License/12345",
+        "activatedAt": "2023-07-28",
+        "startsAt": "2023-07-04",
+        "usersInLicenseCount": 10,
+        "lastSync": "2023-07-28T18:34:14Z"
+      }
+    }
+  }
+}
+```
+
 ## General Tips
 
 1. You can resend an activation code via email by clicking on the envelope button on the customer's `Cloud Activations` tab.

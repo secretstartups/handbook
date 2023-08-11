@@ -224,6 +224,7 @@ When the call has ended:
 1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
+1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index.html#ending-your-on-call-shift) section and follow the relevant steps.
 
 #### When the customer incident is not resolved
 
