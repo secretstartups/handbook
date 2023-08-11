@@ -5,6 +5,7 @@ canonical_path: "/handbook/values/"
 images:
     - /images/opengraph/gitlab_values_handbook_social_card.png
 no_list: true
+weight: -20
 ---
 
 ## CREDIT

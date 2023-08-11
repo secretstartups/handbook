@@ -2,6 +2,7 @@
 title: "Only Healthy Constraints"
 description: "Companies often slow down as they mature. GitLab strives for healthy constraints."
 canonical_path: "/handbook/only-healthy-constraints/"
+weight: -10
 ---
 
 ## Introduction
