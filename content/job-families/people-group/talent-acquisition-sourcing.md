@@ -1,5 +1,5 @@
 ---
-title: "Recruiting Sourcer"
+title: "Talent Acquisition Sourcing"
 description: "Sourcers at GitLab are experts at finding the best candidates for a high-tech, distributed company."
 ---
 
