@@ -37,8 +37,15 @@ After you sign your offer and complete your background check and references, you
 1. Sign your offer, and be on the lookout for your :email: Welcome Email from the Candidate Experience Specialist team. You can read about the team on [this handbook page](/handbook/hiring/talent-acquisition-framework/coordinator/).
     - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#gitlab-laptops).
     - Please note,when you receive your laptop, make sure to **not** sign into the laptop with your personal Apple ID. You will be asked to create an Apple ID on day one with your GitLab email address. 
-1. If you are being employed by one of GitLab's US entities, either GitLab Inc or GitLab Federal LLC, you will need to [complete your I9 via LawLogix](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/#timing-of-i-9). You will receive an email from LawLogix. This email will walk you through the process of completing the I9. 
-1. If you live in Germany, South Korea, Japan, France, or the UK you will need to be on a lookout from an email from the People Connect team (via DocuSign or directly from the team) to complete some payroll documents. 
+1. If you are being employed by one of GitLab's US entities, either GitLab Inc or GitLab Federal LLC, you will need to complete your I9 via LawLogix. You will receive an email from LawLogix. This email will walk you through the process of completing the I9. 
+1. If you live in Germany, Belgium, or Japan you will need to be on a lookout from an email from the People Connect team to complete some payroll documents.
+1. In some entity countries, GitLab uses external companies to assist with the collection of payroll documents from you.
+  - France: Papaya
+  - Netherlands: HR Savvy
+  - Singapore: Global Upside / Safeguard
+  - South Korea: Global Upside / Safeguard
+  - UK: Papaya
+1. If you are hired through a PEO location, the PEO will reach out to you prior to your start date to obtain the necessary documents and start their onboarding process.
 1. The next email you will receive, is a [TaNEWki call](/handbook/people-group/general-onboarding/#tanuki-orange) invite. We hope you can join us! This Zoom call addresses those first day nerves and gives you some time to meet other new team members. You will see this invite sent to you 1-2 weeks before your start date. 
 1. You may receive an email from Okta (our SAAS application portal) with an invite to register. **Please ignore this email** until you receive your onboarding welcome email on your first day with us. This will ensure that no issues are experienced with your access levels on your first day. 
 
@@ -177,7 +184,7 @@ A: Yes! All new hires starting after 2023-02-08, will receive $1,500 USD (or loc
 ### HR Based Questions 
 **Q: When will my first paycheck be?** 
 
-A: Depending on where you are located, you can find the payroll cut off dates [here](/handbook/finance/payroll/#payroll-cut-off-dates) and when you can expect to receive your first paycheck.
+A: Depending on where you are located, you can find the payroll cut off dates [here](/handbook/finance/payroll/#payroll-cut-off-dates) and when you can expect to receive your first paycheck. If you are hired after the payroll cut off date of the specific month, the pro rata amount will be included in your next pay date.
 
 **Q: I have preplanned vacations or commitments, how should I handle this upon starting and ensuring the PTO?**
 
