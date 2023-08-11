@@ -1,5 +1,6 @@
 ---
 title: Being a public company
+weight: -10
 ---
 
 ## GitLab as a Public Company
