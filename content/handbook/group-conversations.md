@@ -4,21 +4,16 @@ title: Group Conversations
 description: >-
   Everything you need to know about GitLab's daily, recurring Group
   Conversations
+weight: -10
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
 Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a rotating schedule. Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations.
 
-The [Executive Business Administrator Team, also known as EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. We do not hold Group Conversations on Monday as there are not enough Group Conversations to consistently have them on a 4th weekday, every week. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday. 
+The [Executive Business Administrator Team, also known as EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. We do not hold Group Conversations on Monday as there are not enough Group Conversations to consistently have them on a 4th weekday, every week. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday.
 
-All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite. While 8:00am PST is not optimal for synchronous participation from all team members, we have done experiments to confirm that early morning PST is the time that works for the greatest number of team members. When we held GCs during different times, we saw participation fall by over 50%. The folks who opted to attend as a percent of folks who could do so during a 8am to 6pm workday was also lower for the experiment group. Team members who want to participate but choose not to attend in person are encouraged to embrace [asynchronous communication](/company/culture/all-remote/asynchronous/) by contributing questions or comments in advance of meetings and watching recordings or reading notes after. 
+All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite. While 8:00am PST is not optimal for synchronous participation from all team members, we have done experiments to confirm that early morning PST is the time that works for the greatest number of team members. When we held GCs during different times, we saw participation fall by over 50%. The folks who opted to attend as a percent of folks who could do so during a 8am to 6pm workday was also lower for the experiment group. Team members who want to participate but choose not to attend in person are encouraged to embrace [asynchronous communication](/company/culture/all-remote/asynchronous/) by contributing questions or comments in advance of meetings and watching recordings or reading notes after.
 
 Non-confidential Group Conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e). Confidential Group Conversations which are not streamed live or shared publicly to YouTube include Finance; Sales; Security and Partnerships.
 
@@ -48,13 +43,13 @@ The Host of a Zoom call is the person leading the conversation, usually the [DRI
 
 Questions will generally be directed to the Host, and they will usually answer them unless they feel that another team member has more information or expertise to offer. The Host/Presenter makes sure that questions are asked in the order they are listed in the agenda document.
 
-The "Host" term can be confusing as Zoom has a specific definition for Host pertaining mainly to a permission level, which in practice GitLab does not assign to the term. _More information on Zoom's definition of "host" is explained in the Moderator section below_.
+The "Host" term can be confusing as Zoom has a specific definition for Host pertaining mainly to a permission level, which in practice GitLab does not assign to the term. *More information on Zoom's definition of "host" is explained in the Moderator section below*.
 
 Before you host your first Group Conversation, please be sure complete this [Group Conversation Training Issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/group-conversation-host.md) which will support you in your preparations.
 
 ### Moderator
 
-The Moderator of a Zoom call is the person that has Zoom's _Host_ level permission. Host level permission in Zoom permits streaming a call to YouTube, starting or ending a recording and giving co-hosting permissions to others.
+The Moderator of a Zoom call is the person that has Zoom's *Host* level permission. Host level permission in Zoom permits streaming a call to YouTube, starting or ending a recording and giving co-hosting permissions to others.
 
 The Moderator of a Zoom call is the person who is in charge of starting the call i.e. initiating the streaming to YouTube; updating the stream from public to private if a sensitive topic is mentioned, and keeping the meeting running efficiently and on time so that it does not go over the Quick Meeting time frame.
 
@@ -80,20 +75,21 @@ If you have questions around an upcoming Group Conversation or would like to sta
 ## For Meeting Leaders
 
 ### Scheduling and Selecting an Alternate Host
-Group conversations will be planned for a quarter at a time based on the identified cadence and key review dates. In the handbook page, the Group Conversation schedule for the next 2 months will be posted. This is the SSOT for the schedule. It is up to each functional team’s EBA to ensure that the calendar invites are sent with zoom links in place. At the start of each month, the Handbook will be updated to remove the previous month and add the upcoming month of group conversations. 
 
-Calls are scheduled by the [EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/). 
+Group conversations will be planned for a quarter at a time based on the identified cadence and key review dates. In the handbook page, the Group Conversation schedule for the next 2 months will be posted. This is the SSOT for the schedule. It is up to each functional team’s EBA to ensure that the calendar invites are sent with zoom links in place. At the start of each month, the Handbook will be updated to remove the previous month and add the upcoming month of group conversations.
 
-If GC needs to be moved: 
-1. First consider, Is there anyone else to host the GC? It’s an informal setting. There may be questions, it's okay if the host doesn't know the answer and will get back to the team member that asked the question.  
-2. Look at the [schedule in the handbook](https://about.gitlab.com/handbook/group-conversations/#current-schedule) and see if there are any **available spots**
+Calls are scheduled by the [EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/).
+
+If GC needs to be moved:
+1. First consider, Is there anyone else to host the GC? It’s an informal setting. There may be questions, it's okay if the host doesn't know the answer and will get back to the team member that asked the question.
+1. Look at the [schedule in the handbook](https://about.gitlab.com/handbook/group-conversations/#current-schedule) and see if there are any **available spots**
     1. If there are open: open a merge request asking for the GC to be moved. Add the following reviewers: CEO EBA and functional team's EBA
-    1. If there aren’t open spots: Post in the [#group-conversations](https://gitlab.slack.com/archives/C9H6V41U0) that you have already reviewed the schedule and need assistance moving a group conversation. 
-1.  Once the merge request has been approved, it can be merged and your team’s EBA is responsible for updating the calendar invite using the steps below: 
-    -  Go to the _GitLab Team calendar_ invite
+    1. If there aren’t open spots: Post in the [#group-conversations](https://gitlab.slack.com/archives/C9H6V41U0) that you have already reviewed the schedule and need assistance moving a group conversation.
+1. Once the merge request has been approved, it can be merged and your team’s EBA is responsible for updating the calendar invite using the steps below:
+    - Go to the *GitLab Team calendar* invite
     - Update the date of your and the other invite to be switched
     - Choose to send an update to the invitees
-    - _If prompted_ with the questions to update 1 or all events, choose to only update this event
+    - *If prompted* with the questions to update 1 or all events, choose to only update this event
     - Update the GC [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule)
 
 If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/group-conversations/#schedule--dri) to Host:
@@ -116,23 +112,23 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 #### Logistics
 
 1. You can invite someone within your team to give the update. It doesn't need to be the team lead, but the team lead is responsible for making sure that it is given.
-1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.6q7h7ggmpbqd) with: 
-   1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable. 
+1. The host of the GC or the EBA to the host should update the [Group Conversation Agenda Document](https://docs.google.com/document/d/1yBZnT5KCz1iprjpsY2L-aakycji3c9aTT74Yf6O4CQI/edit#heading=h.6q7h7ggmpbqd) with:
+   1. Link of the Google Slides presentation (with edit or comment access to everyone at GitLab). This should be the same slides used for a Key Review, if applicable.
    1. Link to the video of their Group Conversation presentation on GitLab Unfiltered (recommended, but optional).
    1. The host's name.
    1. The streaming DRI.
    1. Link to the Key Review Agenda (if applicable).
-1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time. 
+1. The EBA team is responsible for pinging the appropriate team member 72 hours in advance if the document has not been updated by 8am US Pacific Time.
 1. Try to post links to the Key Review video (if applicable), Key Review Notes (if applicable), Group Conversation Agenda Document, the presentation  (same as the Key Review slides, if applicable), and the Group Conversation presentation video (optional) in the #whats-happening-at-gitlab channel 72 hours before the call. We ask that this is done 72 hours ahead of the Group Conversation to ensure that team members around the world have an opportunity to review async and add their questions. All material should be added a minimum of 24 hours in advance
-1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation. 
+1. Consider blocking off the 30 minutes before you are scheduled to lead a Group Conversation to make sure you can join on time and test that everything is working appropriately to host and stream the Group Conversation.
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. If the GC is for a group that didn't have a Key Review, and are preparing new slides, the slides should start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team. 
+Use presentations to document everything people should know about your group. If the GC is for a group that didn't have a Key Review, and are preparing new slides, the slides should start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team.
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
-You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement the slides. 
+You can also record and upload a [YouTube video](/handbook/marketing/marketing-operations/youtube/) if there is additional context that would be beneficial to supplement the slides.
 
 **Please remember that you should NOT present during a Group Conversation.** Synchronous calls are for conversation and discussion. It is the responsibility of the attendees to prepare questions before the call to maximize value of time spent synchronously. If someone does start to present the slides in the group conversation everyone is encouraged to say: 'At GitLab we use meetings for conversation and not presentation, but please do consider recording a video for next time.' Expect to be interrupted if presenting more than a 15 second welcome statement.
 
@@ -142,7 +138,7 @@ There are three layers of content in a presentation:
 - Take away, this is the title of the slide, so use: 'migration 10 days ahead of schedule', instead of 'migration schedule estimates', the combined titles of your slides should make a good summary.
 - Feelings, this is the verbal and non-verbal communication in the video feed, how you feel about the take away, 'I'm proud of the band for picking up the pace'.
 
-Best practices for presentations: 
+Best practices for presentations:
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
 1. To better engage team members outside of your team or function, presentations should ideally assume [low context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
@@ -151,7 +147,7 @@ Best practices for presentations:
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
 
-For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations). 
+For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations).
 
 ##### Examples of good presentations
 
@@ -199,9 +195,9 @@ The `Host` of the meeting is responsible for starting the livestream or designat
 - Group Conversations in the Product and Engineering Organization where an e-group member is not the DRI
 - AMAs in the Product and Engineering Organization where an e-group member is not the DRI
 
-Whoever schedules the Zoom meeting (it is often the EBA) will enter who the host/s are in Zoom and can update the hosts at any time prior to the meeting. If you are delegating the hosting duties to another team member, please ping the #group-conversations channel and tag the @eba-team for to ensure the new host has host permissions to stream the meeting. 
+Whoever schedules the Zoom meeting (it is often the EBA) will enter who the host/s are in Zoom and can update the hosts at any time prior to the meeting. If you are delegating the hosting duties to another team member, please ping the #group-conversations channel and tag the @eba-team for to ensure the new host has host permissions to stream the meeting.
 
-To review how to livestream to youtube, please watch this [video](https://www.youtube.com/watch?v=mWWWdbS2q9U), which is linked in the [Livestream with Zoom](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) section of the handbook. 
+To review how to livestream to youtube, please watch this [video](https://www.youtube.com/watch?v=mWWWdbS2q9U), which is linked in the [Livestream with Zoom](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) section of the handbook.
 
 ### Preparing for the Group Conversation
 
@@ -266,39 +262,39 @@ Additional links which may be useful when preparing to moderate a call include:
 
 ## Schedule & DRI
 
-The Group Conversation schedule is set quarterly. The schedule is finalized the week before the start of each quarter by the EBA to the CEO. 
+The Group Conversation schedule is set quarterly. The schedule is finalized the week before the start of each quarter by the EBA to the CEO.
 
-The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook. 
+The Scheduling DRI for each GC is responsible for ensuring the GC Zoom is setup correctly, set to record to the cloud automatically, and that there is a specified person for livestreaming. If someone other than the EBA is livestreaming, the EBA will add that individual as an alternate host to the meeting via zoom. For details on how to successfully livestream, please see the [considerations for livestreams](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#considerations-for-livestreams) in the handbook.
 
 There is a [rotating schedule](/handbook/group-conversations/#schedule--dri) with each Department having a conversation on a regular interval.
 We usually do not have Group Conversations or Company calls during the last two weeks of December. We also tend to cancel these during [Contribute](https://about.gitlab.com/events/gitlab-contribute/).
 
-On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.  
+On 2022-02, we'll move our Group Conversations to make **Group Conversations for groups without a Key Review optional**. [Functions with Key Reviews](/handbook/key-review/#invitees) will continue to have Group Conversations within 10 days following their Key Review.
 
-Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Portfolio Marketing GC could happen every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing). 
+Please note: the frequency of Group Conversations does not recur on a specific cadence, but rather an estimated time (ex: the Portfolio Marketing GC could happen every other month, but does not happen specifically on the 4th Wednesday every other month). Groups Conversations without Key Reviews are optional, and these can be swapped with other groups without Key Reviews, or scheduled during an open day that is available as noted on the [schedule](https://docs.google.com/spreadsheets/d/1SHJaGBwKcOCmmKfL0eyaTWNuTqPbQDQFbipAPM5SEfw/edit?usp=sharing).
 
-If your GC is optional and you need to move the date, please work with your department's EBA to either trade or schedule an AMA in place of your GC. 
+If your GC is optional and you need to move the date, please work with your department's EBA to either trade or schedule an AMA in place of your GC.
 
 | Group Conversation | DRI | Key Review? | GC Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ----------- | ------------ | --------------- | -------------- |
-| [Marketing](/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO| 
-| [Sales](/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales | 
-| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance| 
-| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO | 
-| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product | 
-| [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering | 
-| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering | 
-| [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering | 
-| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering | 
-| [Infrastructure & Quality](/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering | 
+| [Marketing](/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO|
+| [Sales](/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales |
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance|
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO |
+| [Product](/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product |
+| [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering |
+| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering |
+| [UX](/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering |
+| [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
+| [Infrastructure & Quality](/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 | [IT](/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |
 
 | AMAs | DRI |  AMA Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ------------ | --------------- | -------------- |
-| AMA with Sid Sijbrandij (CEO) | EBA to CEO| Every other month | N/A | EBA to CEO | 
-|    | | | | 
+| AMA with Sid Sijbrandij (CEO) | EBA to CEO| Every other month | N/A | EBA to CEO |
+|    | | | |
 
 ## Current Schedule
 
@@ -306,67 +302,67 @@ If your GC is optional and you need to move the date, please work with your depa
 |----|---------|---|--------|
 | Tuesday January 3 | **Available** | DRI | Key Review Date |
 | Wednesday January 4 | **Available** | DRI | Key Review Date |
-| Thursday January 5 | **Available** | DRI | Key Review Date |  
+| Thursday January 5 | **Available** | DRI | Key Review Date |
 | Tuesday January 10 | **Available** | DRI | Key Review Date |
 | Wednesday January 11 | **Available** | DRI | Key Review Date |
-| Thursday January 12 | **Available** | DRI | Key Review Date |  
+| Thursday January 12 | **Available** | DRI | Key Review Date |
 | Tuesday January 17 | Product | Product Leadership | January 5 |
 | Wednesday January 18 | **Available** | DRI | Key Review Date |
-| Thursday January 19 | **Available** | DRI | Key Review Date |  
+| Thursday January 19 | **Available** | DRI | Key Review Date |
 | Tuesday January 24 | Support | Tom Cooney | January 18 |
 | Wednesday January 25 | People | Wendy Barnes | January 18 |
-| Thursday January 26 | **Available** | DRI | Key Review Date |  
+| Thursday January 26 | **Available** | DRI | Key Review Date |
 | Tuesday January 31 | IT | Craig Mestel | January 24 |
 | Wednesday February 1 | Infrastructure | Steve Loyd | January 19 |
-| Thursday February 2 | Quality | Mek Stittri | January 26 |  
+| Thursday February 2 | Quality | Mek Stittri | January 26 |
 | Tuesday February 7 | Security | Security Senior Leadership | January 24 |
 | Wednesday February 8 | Development | Christopher Lefelhocz | January 25 |
-| Thursday February 9 | Finance | Brian Robins | January 17 |  
+| Thursday February 9 | Finance | Brian Robins | January 17 |
 | Tuesday February 14 | **Available** | DRI | Key Review Date? |
 | Wednesday February 15 | **Available** | DRI | Key Review Date |
-| Thursday February 16 | **Available** | DRI | Key Review Date |  
+| Thursday February 16 | **Available** | DRI | Key Review Date |
 | Tuesday February 21 | **Available** | DRI | Key Review Date |
 | Wednesday February 22 | **Available** | DRI | Key Review Date |
-| Thursday February 23 | **Available** | DRI | Key Review Date | 
+| Thursday February 23 | **Available** | DRI | Key Review Date |
 | Tuesday February 28 | Product | Product Leadership | February 9 |
 | Wednesday March 1 | People | Wendy Barnes | February 22 |
-| Thursday March 2 | **Available** | DRI | Key Review Date |  
+| Thursday March 2 | **Available** | DRI | Key Review Date |
 | Tuesday March 7 | Finance | Brian Robins | March 1 |
 | Wednesday March 8 | **Available** | DRI | Key Review Date |
-| Thursday  March 9 | Support |  Lyle Kozloff, Lee Matos  | March 1 |  
+| Thursday  March 9 | Support |  Lyle Kozloff, Lee Matos  | March 1 |
 | Tuesday March 14 | Infrastructure | Steve Loyd | March 2 |
 | Wednesday March 15 | **Available** | DRI | Key Review Date |
-| Thursday March 16 | **Available** | DRI | Key Review Date |  
+| Thursday March 16 | **Available** | DRI | Key Review Date |
 | Tuesday March 21 | **Available** | DRI | Key Review Date |
 | Wednesday March 22 | **Available** | DRI | Key Review Date |
-| Thursday March 23 | **Available** | DRI | Key Review Date |  
+| Thursday March 23 | **Available** | DRI | Key Review Date |
 | Tuesday March 28 | Product | Product Leadership | March 21 |
 | Wednesday March 29 |  **Available** | DRI | Key Review Date |
 | Thursday March 30 |  **Available** | DRI | Key Review Date |
 | Tuesday April 4 | **Available** | DRI | Key Review Date |
 | Wednesday April 5 | **Available** | DRI | Key Review Date |
-| Thursday April 6 | **Available** | DRI | Key Review Date? |  
+| Thursday April 6 | **Available** | DRI | Key Review Date? |
 | Tuesday April 11 | CRO - Commercial | COMM Leadership |  |
 | Wednesday April 12 | **Available** | DRI | Key Review Date? |
-| Thursday April 13 | Product | Product Leadership | March 21 |   
+| Thursday April 13 | Product | Product Leadership | March 21 |
 | Tuesday April 18 | **Available** | DRI | Key Review Date? |
 | Wednesday April 19 | Finance | Brian Robins | April 12 |
-| Thursday April 20 | **Available** | DRI | Key Review Date |  
-| Tuesday April 25 | **Available** | DRI | Key Review Date | 
+| Thursday April 20 | **Available** | DRI | Key Review Date |
+| Tuesday April 25 | **Available** | DRI | Key Review Date |
 | Wednesday April 26 | Infrastructure & Quality | Mek Stittri | April 13 |
-| Thursday April 27 | IT | Nabitha Rao | April 20 |  
+| Thursday April 27 | IT | Nabitha Rao | April 20 |
 | Tuesday May 2 | **Available** | DRI | Key Review Date |
 | Wednesday May 3 | Security | Security Leadership | April 25 |
-| Thursday May 4 | **Available** | DRI | Key Review Date |  
+| Thursday May 4 | **Available** | DRI | Key Review Date |
 | Tuesday May 9 | Development | Christopher Lefelhocz | April 26 |
 | Wednesday May 10 | **Available** | DRI | Key Review Date |
-| Thursday May 11 | **Available** | DRI | Key Review Date |  
+| Thursday May 11 | **Available** | DRI | Key Review Date |
 | Tuesday May 16 | **Available** | DRI | Key Review Date |
-| Wednesday May 17 | **Available** | DRI | Key Review Date | 
-| Thursday May 18 | **Available** | DRI | Key Review Date |  
+| Wednesday May 17 | **Available** | DRI | Key Review Date |
+| Thursday May 18 | **Available** | DRI | Key Review Date |
 | Tuesday May 23 | Product | Product Leadership | May 4 |
 | Wednesday May 24 | **Available | DRI | Key Review Date |
-| Thursday May 25 | **Available** | DRI | Key Review Date |  
+| Thursday May 25 | **Available** | DRI | Key Review Date |
 | Tuesday May 30 | People | Wendy Barnes | May 24 |
 | Wednesday May 31 |  **Available** | DRI | Key Review Date |
 | Thursday June 1 |  **Available** | DRI | Key Review Date |
@@ -375,13 +371,13 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday June 8 |  **Available** | DRI | Key Review Date |
 | Tuesday June 13 | **Available** | DRI | Key Review Date |
 | Wednesday June 14 | **Available** | DRI | Key Review Date |
-| Thursday June 15 | **Available** | DRI | Key Review Date |  
+| Thursday June 15 | **Available** | DRI | Key Review Date |
 | Tuesday June 20 | CRO - Enterprise | ENT Leadership |  |
 | Wednesday June 21 | **Available** | DRI | Key Review Date |
-| Thursday June 22 | Product | Product Leadership | June 15 |  
+| Thursday June 22 | Product | Product Leadership | June 15 |
 | Tuesday June 27 | **Available** | DRI | Key Review Date |
 | Wednesday June 28 | **Available** | DRI | Key Review Date |
-| Thursday June 29 | **Available** | DRI | Key Review Date | 
+| Thursday June 29 | **Available** | DRI | Key Review Date |
 | Tuesday July 4 | Independence Day (US)| | N/A |
 | Wednesday July 5 | Security | Josh Lemos | June 21 |
 | Thursday July 6 | Support | Lyle Kozloff, Lee Matos | June 13 |
@@ -390,7 +386,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday July 13 |  **Available** | DRI | Key Review Date |
 | Tuesday July 18| **Available** | DRI | Key Review Date |
 | Wednesday July 19 | **Available** | DRI | Key Review Date |
-| Thursday July 20 | **Available** | DRI | Key Review Date | 
+| Thursday July 20 | **Available** | DRI | Key Review Date |
 | Tuesday July 25 |  Infrastructure & Quality | Mek Stittri | July 12 |
 | Wednesday July 26 | **Available** | DRI | Key Review Date |
 | Thursday July 27 | **Available** | DRI | Key Review Date |
@@ -399,7 +395,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday August 3 | Development | Christopher Lefelhocz | July 26 |
 | Tuesday August 8 | **Available** | DRI | Key Review Date |
 | Wednesday August 9 |  **Available** | DRI | Key Review Date |
-| Thursday August 10 |  ** Available** | DRI | Key Review Date |
+| Thursday August 10 |  **Available** | DRI | Key Review Date |
 | Tuesday August 15 | **Available** | DRI | Key Review Date |
 | Wednesday August 16 | **Available** | DRI | Key Review Date |
 | Thursday August 17 | People | Wendy Barnes | August 10 |
@@ -413,9 +409,9 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday September 6 |**Available** | DRI | Key Review Date |
 | Thursday September 7 | **Available** | DRI | Key Review Date |
 | Tuesday September 12 | CRO - Commercial | COMM Leadership | |
-| Wednesday September 13 |  Product | DRI | - | 
+| Wednesday September 13 |  Product | DRI | - |
 | Thursday September 14 | **Available** | DRI | Key Review Date |
-| Tuesday September 19 | **Available** | DRI | Key Review Date | 
+| Tuesday September 19 | **Available** | DRI | Key Review Date |
 | Wednesday September 20 | Support | Lyle Kozloff, Lee Matos | September 7 |
 | Thursday September 21| **Available** | DRI | Key Review Date |
 | Tuesday September 26 | **Available** | DRI | Key Review Date |
@@ -429,7 +425,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday October 12 |  **Available** | DRI | Key Review Date |
 | Tuesday October 17 |  **Available** | DRI | Key Review Date |
 | Wednesday October 18 |  Development | Christopher Lefelhocz | October 10 |
-| Thursday October 19 | **Available** | DRI | Key Review Date | 
+| Thursday October 19 | **Available** | DRI | Key Review Date |
 | Tuesday October 24 | **Available** | DRI | Key Review Date |
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
 | Thursday October 26 | **Available** | DRI | Key Review Date |
@@ -485,7 +481,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
     - Attendees (specify if calendar invitations go to specific teams or to everyone@gitlab.com)
     - Confirm if this call is "open to friends and family"
 
-- The EBA will create the event in the EBA Zoom account and add it to the GitLab team meetings calendar. The EBA will add the AMA document link in the description and invite the specified attendees to the meeting. The EBA will add Alternate Hosts if applicable. 
+- The EBA will create the event in the EBA Zoom account and add it to the GitLab team meetings calendar. The EBA will add the AMA document link in the description and invite the specified attendees to the meeting. The EBA will add Alternate Hosts if applicable.
 
 ## Archiving Content
 
