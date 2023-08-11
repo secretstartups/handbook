@@ -77,18 +77,18 @@ If you are experiencing issues with ZoomInfo, your first point of contact is Zoo
 
 You can also reach out to the Data Intelligence team via Slack at # dataintelligencehelp.
 
-#### Monthly Review
-ZoomInfo license usage will be reviewed on a monthly basis to ensure alignment with our policy. Our current policy is that if a ZoomInfo license is not used for a period of 30 days or more, it is flagged for review. If a person has a license but does not log in for over 6 months, but the user says they still need a license, the user license will still be deactivated, unless we receive their manager's approval. Before any user is deactivated, the Data Intelligence team will reach out to the user, and confirm if they still need access to the platform. If they do not need access, then the user is removed from ZoomInfo. 
+#### Inactive License Review
+ZoomInfo license usage will be reviewed on a regular basis to ensure alignment with our policy. Our current policy is that if a ZoomInfo license is not used for a period of 30 days or more, it is flagged for review. If a person has a license but does not log in for over 6 months, but the user says they still need a license, the user license will still be deactivated, unless we receive their manager's approval. Before any user is deactivated, the Data Intelligence team will reach out to the user, and confirm if they still need access to the platform. If they do not need access, then the user is removed from ZoomInfo. 
 
 Please note that even if user access is removed, they are still able to see the ZoomInfo field data in Salesforce.
 
 **Detailed Process** 
 1. Log into ZoomInfo, Admin Portal, Users, Export to CSV
 2. Import into Google Sheet pivot table, review users who have not accessed in the last 30 days
-3. Reach out to users on Slack
+3. Reach out to users 
 4. Deactivate users that no longer need access
 5. Keep track of split of Marketing and Sales licenses. If we run short on Sales licenses, we can borrow some from marketing with the following message. 
-6. Create an issue in the Data Intelligence project on a monthly basis to track the users that were deactivated. The label Mktg Tool Audit and Data Intelligence :: Tech Stack should be userd. This will serve as support for any possible audit.
+6. Create an issue in the Data Intelligence project to track
 
 If the license is borrowed from the marketing team, it can be revoked at any time. Please inform the user:
  “Greetings! We currently do not have Zoominfo licenses available for field sales. We have assigned you a temporary ZoomInfo license borrowed from the marketing team so you can have access to the platform. Due to limited licenses being available, your license may be revoked if the marketing team needs the license back for one of their team members. If such an instance does arise, you will be notified before the license is revoked and we will work to get you procured a Sales Operations license. Thank you for your understanding.”
