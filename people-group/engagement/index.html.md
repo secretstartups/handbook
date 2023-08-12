@@ -168,13 +168,14 @@ In addition, Managers can create an Engagement Survey Action Issue that links to
 
 ##### FY24 Division-Wide Engagement Survey Action Epics
 
-- Product
-- Engineering
+- [Product](https://gitlab.com/groups/gitlab-com/-/epics/2195)
+- [Engineering](https://gitlab.com/groups/gitlab-com/-/epics/2217)
 - Sales
-- Marketing
-- Finance
+- [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4199)
+- [Finance](https://gitlab.com/groups/gitlab-com/-/epics/2216)
 - People
 - Legal
+- CISO
 
 ### FY'23 Pulse Engagement Survey
 
