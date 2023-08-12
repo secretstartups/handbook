@@ -145,7 +145,7 @@ suggested changes to avoid pipeline failures.
 To run Markdownlint using Docker use the following command:
 
 ```sh
-docker run -v ${pwd}:/workdir davidanson/markdownlint-cli2:next -f content/\*\*/\*.md
+docker run -v $(pwd):/workdir davidanson/markdownlint-cli2:next -f content/\*\*/\*.md
 ```
 
 ## Support
