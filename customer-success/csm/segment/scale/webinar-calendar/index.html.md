@@ -31,15 +31,6 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BXw0FvQ3QwCbhC6EeqJVmw#/registration)
 
-#### Hands-On GitLab CI Workshop
-##### August 16th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_88A3DR0SQGCMELHH9OBsDQ)
-
 #### GitLab Administration on SaaS
 ##### August 22nd, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -76,15 +67,6 @@ In this workshop we will focus on how you can secure your application with GitLa
 Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_UBkC-fwJT8W-Hm2uajvjDg#/registration)
-
-#### Hands-On GitLab CI Workshop
-##### August 16th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CEST
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RAZKEKEcTDW_jY4QC44riQ)
 
 #### GitLab Administration on SaaS
 ##### August 22nd, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
