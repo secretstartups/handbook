@@ -41,6 +41,12 @@ Maintaining a single source of truth for elements that few individuals need isn'
 In conventional organizations, multiple departments may maintain their own version of this list. Crucially, this is either not acknowledged as a problem, or there is no known solution to removing duplication. In an organization powered by TeamOps, duplicate sources may exist initially, but the goal is to remove duplication. Once duplication is discovered, everyone can contribute to the solution by collaborating to create an SSoT. At GitLab, the application list [lives in our handbook](https://about.gitlab.com/handbook/business-technology/tech-stack/), and its integrity is ensured thanks to [version control](https://about.gitlab.com/topics/version-control/).
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for Single Source of Truth" %}}
+- **Individual:** Set a cadence (including calendar reminders!) to update your SSoT with information relevant to your role and its FAQs at least monthly.
+- **Team:** At least once per quarter, schedule a 1-2 day sprint to audit and update your team’s section of the SSoT. Confirm that all documentation is complete and current, including team member information, workflows, templates, policies, protocols, hyperlinks, etc.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about how to navigate and utilize your SSoT.
+{{% /details %}}
+
 ## Public by default
 
 Conventional management philosophies may rely on intentional information silos or a "need-to-know-basis" approach to knowledge sharing. This approach restricts transparency, with the intention of reducing misinformation. TeamOps flips this paradigm: information should be [public by default](/handbook/values/#transparency), with the goal of allowing maximum contribution. "Public by default" requires an organization to designate which information is [explicitly not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public), creating a bias for transparency across all functions of a business.
@@ -59,6 +65,12 @@ Shortly after GitLab Chief Revenue Officer Michael McBride joined the company in
 In a conventional organization, this interaction would likely be private and not recorded. By recording it and streaming it to the public on a branded YouTube channel, everyone is more informed — the two individuals on the call; GitLab team members past, present, and future; the wider community; customers and partners; candidates; et al.
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for public by default" %}}
+- **Individual:** When a team member initiates a non-confidential conversation via email or direct message, move the thread to a public channel for visibility and broader contributions.
+- **Team:** If team members refer to conversations, decisions, or approvals that were hidden or inaccessible, ask if they can share documentation of the conversation with the rest of the group. Or, at least, ask for a commitment for those conversations to be facilitated in public channels in the future.
+- **Company:** Confirm that all engagement and employee satisfaction surveys are measuring feelings of isolation, information accessibility, and effective communication.
+{{% /details %}}
+
 ## Collaboration guidelines
 
 Many organizations are so focused on finalizing a decision that they neglect the critical precursor to a successful agreement: setting standards for ***how*** that decision will be made. TeamOps stresses intentionally designing, building, and reinforcing shared workstreams and collaboration environments through which decisions and projects flow. This helps align expectations, reinforce the [shared reality](/teamops/shared-reality/#shared-reality), and minimize unexpected barriers to success.
@@ -71,6 +83,12 @@ Guidelines should be included in your team's [Single Source of Truth (SSoT)](/ha
 **Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
 
 To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](https://about.gitlab.com/handbook/communication/). These rules, instructions, and examples ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for collaboration guidelines" %}}
+- **Individual:** Confirm that your SSoT includes a section for collaboration guidelines. If it does, commit to making at least one contribution to it per week. If it doesn’t, contact the DRI for the SSoT to resolve.
+- **Team:** Build a “suggestion box” communication channel or form where all team members can make suggestions for Collaboration Guideline additions.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about collaboration guidelines.
 {{% /details %}}
 
 ## Shared values
@@ -89,6 +107,12 @@ GitLab [reinforces its values in 20+ ways](/handbook/values/#how-do-we-reinforce
 **Example 2:** [How to work with external teams](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company)
 
 Starting communication and collaboration with an external team (be it prospective clients, vendors, partners, etc.) who are not familiar with GitLab's TeamOps culture may be daunting. Every organization has their own culture. We want to empower our team members to foster communication and education to build an understood shared reality. We start with [three main points](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company) to support this conversation.
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for shared values" %}}
+- **Individual:** When responding or providing feedback to team members, highlight when their contributions activate one (or more) of your company values.
+- **Team:** When beginning a new project, discuss which values should be specifically prioritized for project success, and how they will influence the project roadmap or group dynamics.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about your company values.
 {{% /details %}}
 
 ## Inclusivity
@@ -110,6 +134,12 @@ Samantha L., a leader in GitLab's Learning & Development team, hosted [Crucial C
 Additionally, she posted a Slack message in the public `#values` channel asking for feedback and suggestions from anyone who felt compelled to contribute. Ultimately, [the DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) of the impacted handbook page — [GitLab Values](/handbook/values/) — came to a decision that was more informed, as it included a more diverse range of perspectives. The feedback is also well-documented for future reference and iterations.
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for inclusivity" %}}
+- **Individual:** Commit to spending 1 hour per week to building professional relationships with your team members. Prioritize team members that work in independent roles, have quiet personalities, or you suspect are at risk for feeling underappreciated.
+- **Team:** Connect with your company’s diversity and inclusion director to ask for ideas on how to support your company’s current goals. To help measure your status, specifically request scores, resources, events, or trainings that might be available.
+- **Company:** Confirm that all engagement and employee satisfaction surveys are measuring feelings of connection, belonging, and trust.
+{{% /details %}}
+
 ## Informal communication
 
 An intentional approach to [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/) is crucial in a fast-paced organization with a bias for [asynchronous workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous) and [text-based communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/). Understanding a colleague's unique personality will help teams collaborate more effectively, so leaders should encourage team members to prioritize informal connections (e.g. coffee chats, social calls, special interest chat channels) and [get to know the people](/handbook/values/#get-to-know-each-other) behind the text. This builds trust, prevents conflict, and enables better communication during work-related interactions.
@@ -124,6 +154,12 @@ To set the precedent for informal communication at GitLab, each team member is r
 **Example 2:** [Sharing READMEs (personal operating manuals) to build trust with new team members](https://about.gitlab.com/handbook/engineering/readmes/)
 
 Two GitLab team members have never worked together before, so they set up a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and exchange [READMEs](https://about.gitlab.com/handbook/engineering/readmes/) prior to a new project starting. They learn a lot about each other, their work styles, and their backgrounds in the 25-minute video call and the asynchronous README reviews. The project runs more smoothly because of their [shared trust](https://about.gitlab.com/handbook/leadership/building-trust/) beyond transactional work interactions.
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for informal communication" %}}
+- **Individual:** Add 5 minutes of casual conversation time to the beginning or end of every meeting agenda.
+- **Team:** After a break, holiday, or company closure, reconnect as a team in your asynchronous communication platform by each sharing pictures of how you spent your time off.
+- **Company:** Build channels in your asynchronous communication platform dedicated exclusively to informal communication about topics like hobbies, local culture/events, pets, caretaking, etc. (Check out [GitLab’s Slack channel directory](/handbook/communication/chat/) for inspiration.)
 {{% /details %}}
 
 ---
