@@ -1,20 +1,13 @@
 ---
-layout: handbook-page-toc
 title: JiHu Security Review Process
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ### Security review process for JiHu contributions
 
 In order to make sure that a release with JiHu contributions can be certified, members of the AppSec team
 need to perform a security review of any JiHu contribution and explicitly approve them.  The JiHu team will be contributing code to
-[a number of repositories](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/jihu-support/#projects).
-These contributions will be [auto labeled](./jihu-contribution-review-process.html#jihu-contribution-identification) with the `JiHu contribution` label.
+[a number of repositories]({{< ref "jihu-support#projects" >}}).
+These contributions will be [auto labeled]({{< ref "jihu-contribution-process#jihu-contribution-identification" >}}) with the `JiHu contribution` label.
 
 
 ```mermaid
@@ -38,10 +31,10 @@ An automated comment pings the AppSec team after the MR receives its first appro
 ### Determining who will perform a security review of a JiHu contribution
 
 When the AppSec team is pinged on a JiHu contribution, it will typically be first seen by
-the AppSec engineer on [Triage (mentions and issues) Rotation](/handbook/security/security-engineering/application-security/runbooks/triage-rotation.html). This person should:
+the AppSec engineer on [Triage (mentions and issues) Rotation](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/triage-rotation.html). This person should:
 
-1. Ping the stable counterpart for the [relevant part of the codebase](/handbook/product/categories/#devops-stages) and ask them to perform the review
-    * If the change is small or easy to review, the AppSec engineer on triage can do the review themselves and `@-mention` the stable counterpart for visibility
+1. Ping the stable counterpart for the [relevant part of the codebase](https://about.gitlab.com/handbook/product/categories/#devops-stages) and ask them to perform the review
+    - If the change is small or easy to review, the AppSec engineer on triage can do the review themselves and `@-mention` the stable counterpart for visibility
 1. If the stable counterpart is unavailable or unassigned, the AppSec engineer on Triage Rotation can perform the review
 1. Alternatively, they can ask that someone else review it by linking to the MR in the `#sec-appsec` Slack channel and asking for a reviewer to volunteer
 
@@ -50,15 +43,15 @@ the AppSec engineer on [Triage (mentions and issues) Rotation](/handbook/securit
 When performing the security review of a JiHu contribution, the reviewer needs to:
 
 1. Perform a security review of the merge request
-    * Make any comments or ask any clarifications necessary to complete the review
-    * Look to make sure that the code does not introduce any new vulnerabilities
+    - Make any comments or ask any clarifications necessary to complete the review
+    - Look to make sure that the code does not introduce any new vulnerabilities
 1. If the merge request looks acceptable:
-    * Make a comment that uses the `/approve` quick action
-    * Approval will be confirmed with an [automated approval comment](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906357637)
+    - Make a comment that uses the `/approve` quick action
+    - Approval will be confirmed with an [automated approval comment](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/84626#note_906357637)
 1. If the merge request does not look acceptable at this time, and/or introduces new vulnerabilities, and/or the AppSec team is waiting on answers from the engineer:
-    * Apply the `sec-planning::pending followup` label
-    * If possible, work with the creator to make it secure. Follow the steps above once it looks acceptable
-    * If inherently unacceptable or a wider discussion is needed, express any concerns and work with the creator and the relevant product and engineering teams to move forward
+    - Apply the `sec-planning::pending followup` label
+    - If possible, work with the creator to make it secure. Follow the steps above once it looks acceptable
+    - If inherently unacceptable or a wider discussion is needed, express any concerns and work with the creator and the relevant product and engineering teams to move forward
 
 #### Security final commit approval
 

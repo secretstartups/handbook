@@ -1,18 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "JiHu Support"
 description: "How the GitLab Inc team provides support to JiHu"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-----
 
 ## Overview
 
@@ -72,11 +61,11 @@ To request access please reach out to [Kevin](https://about.gitlab.com/company/t
 | <https://gitlab.com/gitlab-org/gitlab-docs>               | <https://jihulab.com/gitlab-cn/gitlab-docs-cn>           |
 | <https://gitlab.com/gitlab-org/gitlab-runner>             | <https://jihulab.com/gitlab-cn/gitlab-runner>                |
 | <https://gitlab.com/gitlab-org/gitlab-svgs>             | <https://jihulab.com/gitlab-cn/gitlab-svgs> |
-| <https://gitlab.com/gitlab-org/gitlab-qa> | <https://jihulab.com/gitlab-cn/gitlab-qa> | 
+| <https://gitlab.com/gitlab-org/gitlab-qa> | <https://jihulab.com/gitlab-cn/gitlab-qa> |
 
 ### JiHu contribution process
 
-Please refer to [JiHu contribution process](jihu-contribution-process.html) for details.
+Please refer to [JiHu contribution process]({{< ref "jihu-contribution-process" >}}) for details.
 
 ### Broken JiHu main branch resolution process
 
@@ -90,7 +79,7 @@ There are times where [`main-jh` branch](https://jihulab.com/gitlab-cn/gitlab) i
 
 ### Merge requests with broken JiHu validation pipeline
 
-Check [What to do when the validation pipeline failed](jihu-validation-pipelines.html#what-to-do-when-the-validation-pipeline-failed) for more details.
+Check [What to do when the validation pipeline failed]({{< ref "jihu-validation-pipelines" >}}#what-to-do-when-the-validation-pipeline-failed) for more details.
 
 ### Security Release Process
 
@@ -104,14 +93,14 @@ GitLab Inc will follow the [documented vulnerability disclosure process](https:/
 
 Only after a GitLab [security release](https://about.gitlab.com/handbook/security/#security-releases), GitLab Inc may provide JiHu with:
 
-* A link to the public security release blog post
-* A link to the GitLab issue describing the vulnerability, which will remain confidential until 30 days after the release in which the vulnerability was patched
+- A link to the public security release blog post
+- A link to the GitLab issue describing the vulnerability, which will remain confidential until 30 days after the release in which the vulnerability was patched
 
 This information will be communicated via Slack and the weekly engineering sync with JiHu.
 
 For security vulnerabilities introduced by JiHu contributions, the GitLab Application Security team will share mitigation steps as long as they do not disclose vulnerability details or information that could result in the discovery of vulnerability details.
-* If such mitigation steps exist, the GitLab Application Security team will notify JiHu by creating a confidential issue in the JiHu enablement project with the mitigation steps.
-* If no mitigation steps exist, the vulnerability will be disclosed as per GitLab's regular security vulnerability disclosure process.
+- If such mitigation steps exist, the GitLab Application Security team will notify JiHu by creating a confidential issue in the JiHu enablement project with the mitigation steps.
+- If no mitigation steps exist, the vulnerability will be disclosed as per GitLab's regular security vulnerability disclosure process.
 
 ### Security Best Practices
 
@@ -133,13 +122,13 @@ JiHu benefits from GitLab expertise, particularly around operating GitLab as a S
 
 The [Product DRI](#rd-roles) has the following responsibilities:
 
-* Provide product management practice guidance to the JiHu CTO and product counterparts
-* Enable alignment between GitLab Product and JiHu Product
-  * Provide regular updates and raise awareness of GitLab investment themes and roadmap
-  * Disseminate JiHu plans and roadmap with the appropriate party
-* Liaise with JiHu CTO on product data
-* Work with stage groups to implement solutions that pertains to JiHu or China related requirements
-* Partner with Engineering DRI and Engineering Facilitators to define and maintain processes that ensures the smooth functioning between GitLab and JiHu
+- Provide product management practice guidance to the JiHu CTO and product counterparts
+- Enable alignment between GitLab Product and JiHu Product
+  - Provide regular updates and raise awareness of GitLab investment themes and roadmap
+  - Disseminate JiHu plans and roadmap with the appropriate party
+- Liaise with JiHu CTO on product data
+- Work with stage groups to implement solutions that pertains to JiHu or China related requirements
+- Partner with Engineering DRI and Engineering Facilitators to define and maintain processes that ensures the smooth functioning between GitLab and JiHu
 
 ### Product Manager responsibilities
 
@@ -155,7 +144,7 @@ GitLab Product Designers are responsible for reviews and guidance and should not
 
 **Process**
 
-Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](design.gitlab.com), the [Product principles](/handbook/product/product-principles) or planned work of their team.
+Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](design.gitlab.com), the [Product principles](https://about.gitlab.com/handbook/product/product-principles) or planned work of their team.
 
 If there is no clear design proposal yet, or there are conflicts with Pajamas or the Product principles, the designer leaves a comment about what is required before the issue should go into implementation.
 
@@ -163,7 +152,7 @@ If there is no clear design proposal yet, or there are conflicts with Pajamas or
 
 To facilitate collaboration and feedback, JiHu plans ahead of GitLab's milestone  planning process to give GitLab product groups time to provide feedback ahead of implementation. The following will happen every milestone:
 
-1. JiHu will create a milestone planning issue in the [gitlab-jh-enablement project](https://gitlab.com/gitlab-jh/gitlab-jh-enablement), such as this [example](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/269). JiHu typically provides the plan 2 weeks before the 18th of the month. 
+1. JiHu will create a milestone planning issue in the [gitlab-jh-enablement project](https://gitlab.com/gitlab-jh/gitlab-jh-enablement), such as this [example](https://gitlab.com/gitlab-jh/gitlab-jh-enablement/-/issues/269). JiHu typically provides the plan 2 weeks before the 18th of the month.
 1. For any items which do not already have an issue in the Gitlab.org project, the JiHu team creates an issue. If there is an existing issue, it is linked to from the milestone planning issue. This helps the GitLab product group track JiHu contributions in the same place where other day to day work is tracked.
 1. The Product DRI will facilitate awareness and encourage collaboration via the [JiHu Milestone Review Template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Monthly-JiHu-Milestone-Review.md)
 1. Individual product manager and their engineering counterparts will provide feedback to JiHu as needed
@@ -176,12 +165,12 @@ In the interest of creating IP, JiHu will take on larger product initiatives tha
 
 GitLab Product Managers are not responsible for JiHu product decisions, but collaboration and feedback with JiHu Product Managers is encouraged and appreciated.
 
-- Just like [PMs aren't the arbiters of community contribution](/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
+- Just like [PMs aren't the arbiters of community contribution](https://about.gitlab.com/handbook/product/product-processes/#gitlab-pms-arent-the-arbiters-of-community-contributions), product managers are not the arbiter of what the JiHu team works on
 - Product managers are not responsible for JiHu product decisions, such as tiering, pricing
-- When reviewing JiHu milestone planning: 
-   1. Be aware of JiHu's plans in your product area. 
-   1. Provide guidance in accordance with GitLab's product direction. 
-   1. Help avoid surprises and help JiHu be successful. If feedback will take some time, please provide a heads-up. 
+- When reviewing JiHu milestone planning:
+   1. Be aware of JiHu's plans in your product area.
+   1. Provide guidance in accordance with GitLab's product direction.
+   1. Help avoid surprises and help JiHu be successful. If feedback will take some time, please provide a heads-up.
    1. It is not necessary to provide feedback if there's no feedback to give. JiHu contribution can be the same as other community contributions
 
 ### Differentiating Proprietary JiHu Features
@@ -190,6 +179,6 @@ We differentiate proprietary features for JiHu distributions by including them i
 
 ## Links
 
-- [GitLab licensed its technology to new independent Chinese company](/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
+- [GitLab licensed its technology to new independent Chinese company](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
 - [GitLab licensing technology to independent Chinese company FAQ](https://about.gitlab.com/handbook/faq-gitlab-licensing-technology-to-independent-chinese-company/)
 - [China Service Working Group](https://about.gitlab.com/company/team/structure/working-groups/china-service/)

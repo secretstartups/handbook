@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: JiHu guidelines for database changes
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## JiHu guidelines for database changes
 
@@ -62,7 +55,7 @@ a partial index to reduce its size on GitLab, for example:
 CREATE INDEX user_details_phone ON user_details (phone_number) WHERE phone_number IS NOT NULL
 ```
 
-Adding indexes to an existing GitLab column will need to be reviewed by the [database group](../../../engineering/development/enablement/database) on a case-by-case basis.
+Adding indexes to an existing GitLab column will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
 
 In all cases, we annotate the index with a PostgreSQL comment to indicate the index is JiHu-specific.
 
@@ -70,7 +63,7 @@ Optional: In order to reduce the overhead on GitLab.com, we may want to choose t
 
 #### Additional objects
 
-Other types of database objects, e.g. triggers, functions, extensions, etc., will need to be reviewed by the [database group](../../../engineering/development/enablement/database) on a case-by-case basis.
+Other types of database objects, e.g. triggers, functions, extensions, etc., will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
 
 ### Data migrations
 
@@ -78,9 +71,9 @@ A migration that mutates existing data is also merged into the upstream project.
 In order to facilitate this, we are going to implement the ability to target a data migration to a specific environment (e.g. "only in JiHu").
 Later, we plan to extend this mechanic to support targeting on other aspects (e.g. "only on GitLab.com", "only on a particular database" etc.).
 
-[Epic &6705](https://gitlab.com/groups/gitlab-org/-/epics/6705) details this work, which the [database group](../../../engineering/development/enablement/database) will execute upon.
+[Epic &6705](https://gitlab.com/groups/gitlab-org/-/epics/6705) details this work, which the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) will execute upon.
 
-Until those mechanics are available, any JiHu-specific data migration (including background migrations) will need to be reviewed by the [database group](../../../engineering/development/enablement/database) on a case-by-case basis.
+Until those mechanics are available, any JiHu-specific data migration (including background migrations) will need to be reviewed by the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) on a case-by-case basis.
 
 ### Switching between GitLab and JiHu
 
@@ -105,7 +98,7 @@ We considered an [alternative approach is to keep JiHu specific migrations separ
 
 JiHu may want to implement mechanics to allow for JiHu-specific migrations that are not going to be merged into the upstream project. This would allow for more flexibility and autonomy in terms
 of database changes, at the expense of increasing the complexity to support various upgrade paths between GitLab CE/EE and JiHu editions. Since there can be conflicts between GitLab and JiHu migrations
-over time (much like a Git timeline, examples in (issue #161)[https://gitlab.com/gitlab-jh/gitlab/-/issues/161]), JiHu would need to provide schema migrations specifically to each supported upgrade path from GitLab.
+over time [much like a Git timeline, examples in (issue #161)](https://gitlab.com/gitlab-jh/gitlab/-/issues/161]), JiHu would need to provide schema migrations specifically to each supported upgrade path from GitLab.
 
 We didn't choose this option at this point in time to allow for quicker turnaround, less complexity and ability to seamlessly switch between GitLab and JiHu.
 
@@ -123,4 +116,4 @@ In order to increase the review efficiency when creating a merge request from a 
 
 ### Questions?
 
-Please engage with the [database group](../../../engineering/development/enablement/database) for any questions and support.
+Please engage with the [database group](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/) for any questions and support.
