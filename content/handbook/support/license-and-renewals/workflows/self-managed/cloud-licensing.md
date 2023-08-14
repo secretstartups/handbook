@@ -53,11 +53,11 @@ By default, the `TurnOnCloudLicensing__c` flag in SFDC will be set to `Yes` on e
 
 ### Post-Sale Exemptions (Support)
 
-The above defined sales-initiated exemption process is intended to be the only means of opt out and should be used for all customers. However, there may be occurrences where a sales rep missed opting a customer out during the sale, and the customer has now incorrectly received a Cloud License activation code they cannot use.
+The Pre-Sale Exemption process is intended to be the **only means** of opt out, and should be used for all customers. However, there may be times where the account manager missed the opt-out during the sale, and the customer has now incorrectly received a Cloud License activation code they cannot use.
 
-In a situation where a customer requires a Legacy License or a Offline License post-sale, the customer must first reach out to their sales account manager for them to [open an Internal Request with Support](https://about.gitlab.com/handbook/support/internal-support/#internal-requests). The customer's sales account manager will then need to obtain sales VP approval for a Cloud Licensing exemption in order for L&R support to be able to process the internal request and provide the customer with the required license file. If an emergency situation occurs where the customer requires access during the approval process, a support engineer should
-[provide the customer with a trial license](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html)
-until approval is received. Once approved, the correct license type [can be issued](#how-to-process-a-cloud-licensing-exemption-internal-request) to the customer through a `Cloud Licensing Exemption` internal request.
+If a customer requires a Legacy License or an Offline License **post-sale**, the sales account manager must obtain Sales VP approval for a Cloud Licensing exemption. When approval is obtained and documented in SFDC, the account manager must then [open an Internal Request with Support](https://gitlab-com.gitlab.io/support/internal-requests-form/) > `Self Managed License Related` > `Cloud Licensing Exemption`. Full instructions for the account manager [can be found in Highspot](https://gitlab.highspot.com/items/629a82af9092e7ac989947ca?lfrm=srp.0) (visible to Sales team only).
+
+If the customer's subscription or trial/temp license has expired, and they require access during the approval process, the account manager must [open an Internal Request with Support](https://gitlab-com.gitlab.io/support/internal-requests-form/) > `Self Managed` > `Extend an (almost) expired subscription`. The support engineer should [provide the customer with a trial license](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/trials/) until post-sales opt-out approval is received and handled in the related Internal Request.
 
 #### How to process a Cloud Licensing exemption internal request
 
