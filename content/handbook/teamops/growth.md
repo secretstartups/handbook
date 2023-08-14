@@ -54,6 +54,7 @@ While incubated within GitLab, TeamOps has been adapted and standardized to help
 | TeamOps Services | Price |
 | --- | --- |
 | One-hour Q&A calls with an in-house TeamOps expert | $500 USD |
+| TeamOps Adoption Assessment | $1,500 USD |
 | Keynote presentations about the role of TeamOps in the future of work | $3,000 USD |
 | TeamOps Change Management Workshops<br>(maximum of 15 participants) | $5,000 USD |
 | TeamOps for Leaders Workshop<br>(virtual, &lt;15 participants) | $7,500 USD |
@@ -61,6 +62,7 @@ While incubated within GitLab, TeamOps has been adapted and standardized to help
 **TeamOps Service Desciptions**
 
 - *Leadership Q&A Calls* - Ease into the world of TeamOps by resolving questions or concerns from your company's change management team. Schedule one-hour virtual sessions with a TeamOps expert to discuss anything you wish - handbook writing, virtual onboarding, strengthening team connection, preventing meeting fatigue, and more.
+- *TeamOps Adoption Assessment* - Learn your team's strengths and weaknesses in the TeamOps framework, and reveal what next steps should be in the change management process. This consulting service includes individual analysis of your company data, a custom results report (pdf), and a 1-hour live consultation call with a TeamOps consultant.
 - *Keynote Presentations* - In the past 5 years, the population of remote workers has grown by 10x. New adopters boast higher productivity, retention, and profitability. Yet, other companies are still calling workers back into the office. Why? What are the differences between the flexible or hybrid teams that are thriving, and those that are diving? This 30-60 minute presentation answers that question, defines success in the future of work, and clarifies how any company (including yours) can understand, measure, and optimize productivity of its team members, regardless of where or when they are working.
 - *Change Management Workshops* - Designed as a supplemental learning resource for the LevelUp course, this group workshop equips teams to analyze their current success status of TeamOps adoption, and deep dive into a collaborative optimization of specific action tenets.
 - *TeamOps for Leaders Workshop* - What is the role of a business manager in the future of work? How does virtual-first leadership differ from traditional management? This workshop is designed to guide your leadership team through the critical mindset and responsibility changes needed in TeamOps work environments.
