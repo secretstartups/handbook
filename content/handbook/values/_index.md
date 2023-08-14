@@ -550,7 +550,6 @@ Adoption of features, user requirements, and the competitive landscape change fr
 
 ##### Efficiency Competency
 
-{:#efficiency-competency .no_toc}
 [Competencies](https://about.gitlab.com/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
 We demonstrate efficiency when we work on the right things, not doing more than needed, and not duplicating work.
 
@@ -985,7 +984,6 @@ In this [GitLab Unfiltered video](https://www.youtube.com/watch?v=BW6TWwNZzIQ), 
 
 ##### Iteration Competency
 
-{:#iteration-competency.no_toc}
 [Competencies](https://about.gitlab.com/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
 We demonstrate iteration when we do the smallest viable and valuable thing, get it out quickly for feedback, and make changes based that feedback.
 
