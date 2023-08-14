@@ -43,6 +43,7 @@ Jenkins to GitLab
     - Internal: [Internal Highspot Link](https://gitlab.highspot.com/items/62d16ab8ea03e5a65d81971f?lfrm=ssrp.4)
 
 1. Standardizing CI/CD (CSM-Led):
+    - Customer-facing: [Public-Facing Deck](https://content.gitlab.com/viewer/64d65e3dad012a41b89955cf)
     - Internal: [Internal Highspot Link](https://gitlab.highspot.com/items/64cd36766410d07b2f63136d)
 
 1. Runner Overview: [Link to Deck](https://gitlab.highspot.com/items/64cadeb868936bb54ac9ce2f#)
