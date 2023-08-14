@@ -140,6 +140,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [MailGun](https://documentation.mailgun.com/en/latest/) | [Airflow](/handbook/business-technology/data-team/platform/pipelines/mailgun/) | `mailgun` | `mailgun` | Marketing | 24h / 24h | No | Tier 2 |
 | Monte Carlo | Snowflake Share | `n/a` | `prep_legacy` | Data | 12h / 24h | No | Tier 3 |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | Fivetran | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes | Tier 2 |
+| [OCI Reports](https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/usagereportsoverview.htm) | Airflow | `oci_reports` | `oci_reports` | Engineering | 24h / 48h | No | Tier 3 |
 | [Omamori](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/omamori) | Airflow | `omamori` | `omamori` | Engineering | 1h / 24h | No  | Tier 2 |
 | [PMG](https://www.pmg.com/) | x | `pmg` | `pmg` | x | x / x | No | Tier 3 |
 | [Time Off by Deel](https://www.deel.com/engage/pto) | Snowpipe | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No | Tier 3 |
