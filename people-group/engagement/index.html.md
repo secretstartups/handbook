@@ -175,7 +175,7 @@ In addition, Managers can create an Engagement Survey Action Issue that links to
 - [Finance](https://gitlab.com/groups/gitlab-com/-/epics/2216)
 - People
 - Legal
-- CISO
+- [CISO](https://gitlab.com/groups/gitlab-com/-/epics/2196)
 
 ### FY'23 Pulse Engagement Survey
 
