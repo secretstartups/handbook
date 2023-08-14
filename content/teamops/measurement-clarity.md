@@ -43,6 +43,12 @@ In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement
 These are documented in a tool that's accessible to the entire organization. Any team member can see any function's OKRs and KPIs for the quarter, reinforcing the [value of transparency](/handbook/values/#transparency).
 {{% /details %}}
 
+{{% details summary="Quick start tips for transparent measurements" %}}
+- **Individual:** Confirm that your personal task and project management systems sharing settings are public by default. Inform your team members how and where to access them if they’re ever wondering what you’re working on.
+- **Team:** When starting a new project, define and document the contributions of each team member, and how “success” will be measured both individually and collectively.
+- **Company:** In performance review agendas, add a section to revisit (and update, if needed) each team member’s weekly, monthly, quarterly, and yearly OKRs and KPIs. Specifically discuss and answer the question, “What does productivity look like in this role?”
+{{% /details %}}
+
 ## Measure results, not hours
 
 Every organizational operational model aims to optimize the efficiency with which teams produce results. But conventionally managed teams make a critical error when they conflate "efficiency" with "speed." Doing so means *time* often becomes the team's highest priority—and *working hours* become a principal success metric for the organization.
@@ -55,6 +61,12 @@ Note that outputs aren't just tangible deliverables. Results include any form of
 **Example 1:** [Measuring impact of GitLab's 10 year campaign](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5507)
 
 Producing the `10 Years of GitLab` integrated marketing campaign and [associated website](https://about.gitlab.com/ten/) demanded a cross-functional effort. Working group members established a GitLab issue to explicitly define [elements to be tracked and measured](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/5507) in order to provide an adequate report of the campaign's overall impact. By focusing on results over hours spent (or if a given team member was online at a certain time, or in a certain office), everyone involved in the project could focus energy on executing the campaign.
+{{% /details %}}
+
+{{% details summary="Quick start tips for measure results, not hours" %}}
+- **Individual:** When writing your daily to do list, note which three tasks are your highest priority, and use the completion of those tasks to measure “a good day’s work.” Consider shedding or delegating any tasks that don’t directly relate to your OKRs.
+- **Team:** Confirm that the assigned objectives and key results (OKRs) of each team member are prominently displayed in each project management plan.
+- **Company:** Confirm that your HR or People department is measuring and monitoring presenteeism, and that work location is not being discussed during performance reviews.
 {{% /details %}}
 
 ## Definition of done
@@ -71,6 +83,12 @@ Even better, definitions of done are prompts for important [team-building commun
 Every quarter, GitLab's Workplace team adds new features and enhancements to the [free TeamOps course in LevelUp](https://levelup.gitlab.com/learn/course/teamops). Each [project management plan](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/workplace/teamops-fy24-q1/-/issues/5) includes a Measurement Clarity section outlining a list of completion criteria. This creates a very clear distinction between work that's *In Progress* and *Closed*, and generates a signal to close the issue.
 {{% /details %}}
 
+{{% details summary="Quick start tips for definition of done" %}}
+- **Individual:** When conducting any kind of retrospective discussion, start the conversation with whether or not the Definition of Done was fulfilled (as a baseline for success measurement), then move on to feedback and learnings.
+- **Team:** Create a field in your project management plan template for listing the project’s definition of done.
+- **Company:** When approving OKRs, include a Definition of Done as a minimum requirement for fulfillment, then supplement with more ambitious goals for the team or individual to work toward.
+{{% /details %}}
+
 ## Prioritize due dates over scope
 
 TeamOps may not treat [elapsed time as a success measurement](/teamops/measurement-clarity/#measure-results-not-hours), but it does require due dates. Under TeamOps, however, due dates aren't a means of creating unnecessary rigidity or measuring the duration of contributions; they exist to force mechanisms that enable teams to execute on decisions and enforce accountability.
@@ -81,6 +99,12 @@ An organization practicing TeamOps will always set a due date and, if necessary 
 **Example 1:** [Maintaining a monthly release cadence for 10+ years](/releases/)
 
 As of 2022-12-01, GitLab has [shipped a monthly product release](/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://handbook.gitlab.com/handbook/values/#set-a-due-date) instead of pushing ship dates.
+{{% /details %}}
+
+{{% details summary="Quick start tips for prioritize due dates over scope" %}}
+- **Individual:** Whenever a status update or project review conversation indicates that a result is falling behind schedule or that contributing team members feel overwhelmed, immediately ask the question, “What can we do to simplify this result so that we can stay on track?”
+- **Team:** Confirm that the due date of a project is prominently displayed in each project management plan for your team.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about how to produce iterative results.
 {{% /details %}}
 
 ## Transparent feedback
@@ -110,6 +134,12 @@ To optimize the efficacy of delivered feedback, consider how other TeamOps tenet
 At GitLab, our mission that [everyone can contribute] even influences our feedback guidelines—suggesting that any team member, at any level, can give feedback to any other team member, at any level. In this video about [Guidance on Giving and Receiving Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback), the CEO of GitLab, Sid Sijbrandij, discusses this challenge in more detail, and asks for performance feedback from a member of the Learning & Development team.
 {{% /details %}}
 
+{{% details summary="Quick start tips for transparent feedback" %}}
+- **Individual:** Commit to sharing sincere compliments and/or constructive criticism with each of your peers at least once a week. (While you’re building the habit, set reminders on your calendar for reminders and accountability.)
+- **Team:** Add a section for group feedback into every meeting agenda.
+- **Company:** Create a ritual for company leadership to receive and share feedback on certain projects or tasks, to set a top-down example of healthy feedback dynamics.
+{{% /details %}}
+
 ## Cadence
 
 In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/everyone-contributes/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational *updates*? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
@@ -120,6 +150,12 @@ This is why establishing a transparent [cadence](https://about.gitlab.com/compan
 Example: [GitLab’s Quarterly All-Hands Meeting](https://about.gitlab.com/company/gitlab-assembly/)
 
 At the same time each quarter, executive leadership hosts [GitLab Assembly](https://about.gitlab.com/company/gitlab-assembly/)—a company-wide recap of the past quarter's accomplishments, summary of the new quarter's objectives, and an open-floor Q&A for any employee to resolve questions or concerns. Knowing exactly when this meeting will occur, who will be in attendance, and what will be discussed gives GitLab team members full confidence of when they can have direct access to the executive team about company growth.
+{{% /details %}}
+
+{{% details summary="Quick start tips for cadence" %}}
+- **Individual:** Design and document a cadence calendar for personal rituals, such as internal networking, SSoT updates, or operational transparency reporting.
+- **Team:** Design and document a cadence calendar for team rituals, such as delivery cycles, team offsites, or performance reviews.
+- **Company:** Design and document a cadence calendar for company rituals, such as OKRs, stakeholder meetings, or workforce retreats.
 {{% /details %}}
 
 ---
