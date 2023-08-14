@@ -25,6 +25,7 @@ Once a potential severity::1/priority::1 issue is made known. The appsec enginee
 
 1. [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) with a link to the issue, a summary of what has happened, and an description of what SIRT may need to do.
 1. Engage the appropriate [engineering manager and product manager of the affected component](/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
+1. If help from the GitLab Dedicated team is needed, [follow the runbook to escalate to their engineer on call](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/runbooks/on-call.html#escalating-to-an-on-call-person).
 1. Ping `@appsec-leadership` in the `#sec-appsec` Slack channel with a link to the issue. This will help team leadership and other engineers get up to speed, in case they need to step in.
 
 ## Mitigate
@@ -34,6 +35,7 @@ Sometimes the fix is very simple, sometimes it's not. If the impact to users is 
 ### Short term
 
 1. Collaborate with the development, security, and SRE/infrastructure teams to brainstorm short term solutions until a long term patch can be released.
+  - Be sure to consider both GitLab SaaS and GitLab Dedicated
 1. Analyze the impact for each option.
   - How effective is it at solving the problem?
   - How many customers are affected by this decision?
