@@ -135,18 +135,32 @@ The process to set up a new vendor starts in `Zip`. Simply by creating a new pur
 
 ### How to do a request change?
 
-If there is an existing purchase order that needs a change, follow the steps below to process a change request:
+If there is an existing purchase order (PO) that needs a change, follow the steps below to process a change request:
+
+**IMPORTANT** Change Request can only be submitted if there is a released Coupa Purchase Order (PO). If you have to update a req that is running through approvals in Coupa/ZIP please contact the Procurement Team.
 
 1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
 2. Open ZIP
 3. Click on `+New Request` on the right side of the top menu.
 4. Select the `Request a Change (amend contracts or PO change)`
-5. Complete the requisition form. Make sure that you enter the existing `Coupa` purchase order number.
-6. Fill in all the required information and the `Procurement` team will amend the PO in `Coupa` on your behalf.
+5. Complete the General Information form. Make sure that you enter the existing `Coupa` purchase order number (starts with #1000....).
+6. Complete the Spend Information form:
+
+   -a)What is the new total budget you will need for this purchase:
+   - Provide the new final cost, which is the sum of the original purchase order (PO) amount and the additional cost
+   
+   -b)Please enter the line item breakdown:
+   - In the 'Line item' section, specify the new final cost.
+
+**If the original PO had more than 1 line items, in the Change Order ZIP request include only line items that should be updated (copy the line item name from the original PO).**
+ 
 7. Attach supporting documentation from the supplier for the change. This could be a SOW, Change Request, and/or Order Form based on the purchase type.
+8. Submit the Change Request. `Procurement` team will amend the PO in `Coupa` on your behalf.
 
 Please note that a change request will require the same approvals as a new request.
 {: .alert .alert-info}
+
+**NOTE** Change Request can NOT be submitted to updated the vendor. If the vendor of PO should be updated please contact the Procurement Team in the #procurement slack.
 
 
 ### How to request a signature on a POC agreement?
@@ -202,6 +216,49 @@ Virtual card requests will go through Zip as a regular purchase request.
    - You will be redirected to Coupa, where you can check the approval flow and the current approver.
 
 ![zip-image-status](/handbook/business-technology/enterprise-applications/guides/zip-guide/zip_status.png)
+
+
+
+### How to check signature status of documents?
+
+1. Login to your [Okta home page.](https://gitlab.okta.com/app/UserHome)
+2. Open ZIP
+3. On the Zip home page click on `Requests on the left side of the page and find your Request.
+4. On the Request page scroll down to the `Documents` section.
+
+If the contract's title contains the term "Executable," this indicates that it has been reviewed and stamped by the Legal team. This implies that the contract is ready to be routed for signatures if all approvals in Coupa were obtained.
+
+  *  If the contract has been fully signed by all relevant parties, its status will be indicated as `Final` and title will contain the term `Signed`.
+  * In cases where the contract is pending signatures, the status will display a fraction such as "0/2" or "1/2," depending on the number of required signatures and the signatures that have already been obtained. For instance, if none of the required signatures have been obtained, the status could be "0/2." If one signature has been obtained out of the two required, the status could be "1/2."
+
+
+
+### Legal approval / redlines
+
+For requests involving new vendors where no agreement on terms has been reached yet, the Legal team may provide edits or redlines to the vendor's contract to ensure compliance with our company's policies and legal requirements.
+
+When the Legal team reviews and provides redlines to the vendor's contract, the following actions should be taken:
+
+1. Stakeholder / Requester's Role:
+
+The requester is responsible for sending any legal redlines to the vendor via email, unless any of the following apply:
+   - The Procurement team is already actively in negotiation or communication with the vendor
+   - The total contract value is > $100k
+   - Procurement comments that they are specifically sending the redlines themselves for any reason 
+   
+If the requester sends the redlines to the vendor, it is crucial to copy the Procurement approver on the email for visibility.
+
+2. Procurement Team Support:
+
+The Procurement team can support the stakeholder by routing the Legal notes to the vendor for requests that are actively being negotiated by Procurement or requests that are > $100k. Procurement will leave a comment in the Zip request when redlines have been sent to the vendor and the requester will be copied on the email.
+
+3. Title with ZIP Request Number:
+
+When communicating with the vendor or taking any action related to the redlines, the email subject should include the ZIP request number. This will help in tracking and referencing the specific request throughout the process.
+
+4. Comment in the ZIP Request:
+
+Any team member who reaches out to the vendor regarding the redlines must leave a comment in the ZIP request to indicate that the note has been sent to the vendor. This ensures proper documentation and communication within the team.
 
 
 
