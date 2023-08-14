@@ -33,6 +33,12 @@ Having a shared guide in a team promotes [measurement clarity](/teamops/measurem
 To keep their globally-distributed team equipped with instructions for a variety of unexpected customer services scenarios, the GitLab Support team built a [workflow library](/handbook/support/workflows/). This always-accessible archive guides team members through the triaging process and subsequent protocols, and also helps them navigate to relevant policies, advice, and tools.
 {{% /details %}}
 
+{{% details summary="Quick start tips for documented workflows" %}}
+- **Individual:** As you are implementing a documented workflow, update as needed through the process in order to maintain the accuracy of the documentation.
+- **Team:** When starting a new project, discuss and document the anticipated workflow in either the SSoT (if the workflow will be repeated) or in the project management plan.
+- **Company:** Review the SSoT to confirm that the relevant departments have a documented workflow for every item in the cadence calendar.
+{{% /details %}}
+
 ## Give agency
 
 Efficient execution [requires granting agency by default](/handbook/values/#give-agency). A critical component of workforce autonomy, agency empowers team members to independently and proactively make decisions without permission, review, or approval—in other words, to self-govern as a [manager of one](https://about.gitlab.com/handbook/leadership/#managers-of-one). Leaders who grant this kind of agency also communicate their trust in individual team members to do what they feel is necessary to accommodate their unique needs and to design custom strategies to focus their time and attention on what they deem most important for the organization's success.
@@ -45,6 +51,12 @@ Agency is the antidote to micromanagement, which crushes execution, stifles crea
 **Example 1:** [Normalizing that it's OK to look away in video calls](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away)
 
 Giving agency begins in the most typical of places. Video calls are a natural part of day-to-day work for many knowledge workers, yet cultural expectations about presenteeism and attentiveness may restrict agency. GitLab explicitly documents that [it's OK to look away](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away) during meetings and that no one should be embarrassed to occasionally ask for something to be repeated. By creating a culture where people are free to manage their own time and attention, they're able to direct energy on a minute-by-minute basis to execute. No one's path to execution looks the same. It may involve breaks to connect with friends, taking a walk outside, or watching a recording of a meeting during a more suitable time.
+{{% /details %}}
+
+{{% details summary="Quick start tips for give agency" %}}
+- **Individual:** Ask your team members what their preferred task management systems, work environments, and typical working hours are. Set an example by publicly publishing your own. Celebrate the diversity of each.
+- **Team:** Replace your instinct to supervise with a mindset of support. Instead of asking, “Is this task going to be done by the due date?”, offer “Is there anything you need to ensure the task will be complete by the due date?”
+- **Company:** Update your company’s onboarding and continuing education programs to include training about what expectations are for operating as a manager of one.
 {{% /details %}}
 
 ## Push decisions to the lowest possible level
@@ -63,6 +75,12 @@ In the spirit of [iteration](/teamops/measurement-clarity/#iteration), TeamOps e
 A Senior Developer Evangelist at GitLab recognized that many coaching and mentoring sessions are shared in private 1:1 conversations. In an effort to add context and transparency to the process — thereby enabling other developer evangelists to make more decisions on their own — he [documented and merged feedback examples](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903). The person doing the work is empowered to make the decision, which involved many micro decisions: to document or not, what context to add, where to document, what examples to share, and how to share within the company.
 {{% /details %}}
 
+{{% details summary="Quick start tips for push decisions to the lowest possible level" %}}
+- **Individual:** If/when you see a task or decision that could be completed by a more junior team member, flag it and offer to facilitate the transition.
+- **Team:** When designing a project management plan, determine which decisions will be made by which team members. For decisions from anyone other than the DRI, document why the approval authority was moved to that level.
+- **Company:** Update your company’s management training program to include training to prioritize delegation and employee empowerment.
+{{% /details %}}
+
 ## Bias for action
 
 A [bias for action](/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/everyone-contributes/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
@@ -73,6 +91,12 @@ When facing decisions that may involve imperfect information or failures, having
 **Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](/handbook/communication/)
 
 To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](/handbook/communication/). These rules, instructions, and demonstrations ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
+{{% /details %}}
+
+{{% details summary="Quick start tips for bias for action" %}}
+- **Individual:** Every time you’re about to ask for approval to do something, stop to consider, “Do I already have approval to do this as the DRI?” or “Is there any part of this task that I can get started on without approval?”
+- **Team:** Publicly recognize and celebrate when a team member demonstrates a strong bias for action for positive reinforcement.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about proactivity and self-efficacy.
 {{% /details %}}
 
 ## Low-context communication
@@ -102,6 +126,12 @@ The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_request
 GitLab's Recruitment Privacy Policy was updated. Rather than updating the policy behind closed doors, the [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)  outlines the *why*. It provides context into how the change enables cross-functional groups to work more efficiently. The explanation of *why* enables more thoughtful conversation around a potentially polarizing topic (privacy).
 {{% /details %}}
 
+{{% details summary="Quick start tips for low-context communication" %}}
+- **Individual:** Before sending an asynchronous message to a team member that is any kind of request, proofread it at least once before sending while pretending that you have started working in this team today and know nothing about the project. Confirm that the “why” and the “ask” of the message are explicit and easy to find.
+- **Team:** Add “good” and “bad” examples of asynchronous messages to the collaboration guidelines section of your SSoT.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about low-context communication.
+{{% /details %}}
+
 ## Operational transparency
 
 The importance of transparency in TeamOps is critical – the opportunities for learning that used to be available through observation in a physical workplace now have to be replaced with information-based observation, or documented updates. In this environment, your colleagues and supervisors don't have the same visibility into your daily activities as they would in a traditional office setting. Therefore, actively demonstrating your transparency and productivity becomes even more important.
@@ -122,6 +152,12 @@ By being transparent in your virtual work, your team can easily prove productivi
 **Example 1:** [GitLab’s “While You Were Iterating” Newsletter](/handbook/people-group/employment-branding/people-communications/#people-communications--engagement-channels)
 
  Digital notifications from various tools can be noisy, distracting, and overwhelming. To help GitLab team members feel comfortable incorporating deep focus time into their schedule with full confidence that they won’t miss any important announcements, the internal communications team writes and distributes (via email) a twice-monthly newsletter that includes all important announcements, invitations, amd reminders.
+{{% /details %}}
+
+{{% details summary="Quick start tips for operational transparency" %}}
+- **Individual:** In a 1:1 with your manager, ask them, “What is a time that you were most impressed with my productivity?” Then, consider how you can recreate that performance visibility.
+- **Team:** Design a cadence and channel for operational transparency between your team, such as asynchronously a weekly recap.
+- **Company:** Design and document suggestions for increasing operational transparency. Include a protocols for how to report and resolve when a team member doesn’t feel adequately valued at work.
 {{% /details %}}
 
 ---
