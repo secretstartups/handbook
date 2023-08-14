@@ -13,6 +13,7 @@ Description: "Guidance for CSMs on leading continuous integration deep-dive work
 - [CI Workshop Overview](#ci-workshop-overview)
 - [Workshop Materials](#workshop-materials)
 - [Discovery Questions](#discovery-questions)
+- [Workshop Planning Checklist](https://docs.google.com/document/d/1MQuIq8_QWvZJi_zKMzwkIf9Ewps4nezmcvQ6YuzomSA/edit) (Google Doc - Make a copy)
 
 
 
