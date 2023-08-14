@@ -721,12 +721,21 @@ GitLab's Developer Relations team reviews and manages our community events (typi
 - For events where a field marketing representative cannot be present, the FMM DRI will assign an onsite lead. The DRI will be responsible for coordinating with this person and providing them with any info they will need to help run the event in their absence. This person will be the venue point of contact as well as responsible for set up and tear down.
 - FOR EMEA: We must ensure we are gathering GDPR compliant leads - Lead devices scanning follow up needs to be in event T&C. If GDPR is not in the T&C, we are not allowed to follow up on the leads. Scanning a lead is not automatically GDPR compliant if visitors have not agreed to it.
 
-### Field Marketing QR Codes for Events
+### QR Codes for Events (Field Marketing and Corporate Events)
 
 Field Marketing utilizes the [QR Code Generator](https://login.qr-code-generator.com/) so that FMMs can follow the instructions below to print and display QR codes at events for raffles, contact info collection, etc. In AMER, tabletop signs to display the QR codes are available in the [Boundless portal](/handbook/marketing/field-marketing/#boundless-portal) under the `Event Assets` section.
 
-#### Steps to Generating a QR Code
 Corporate Events utilizes [QR Code Generator](https://www.qr-code-generator.com/) to create specific QR Codes to track how many people are visiting CTA weblinks. We  promote through different pieces of collateral passed out at the booth and signage we have created promoting registration for an on-site ancillary or virtual event. Other use cases such as people scanning to attend onsite virtual activities such as coding challenges or UX surveys.
+
+#### Login for the [QR Code Generator](https://www.qr-code-generator.com/)
+
+Both Field Marketing and Corporate Events utilize the same login found in the Marketing 1pass vault under `QR Code Generator - Field Marketing and Corporate Events`. 
+
+#### Pausing or Deleting QR Codes After an Event
+
+Due to our current account subscription only allowing 50 active QR codes, please proceed to `Pause` or `Delete` the QR Code when the event has concluded or the QR code is no longer in use. To do this, navigate to the `Active` tab, locate the QR code and click `Details`, select the three dots below the `Download` button, and click `Pause` or `Delete`.
+
+#### Steps to Generating a QR Code
 
 For video instructions, [please see here](https://youtu.be/e4X9Dg_1rmA).
 1. Make a copy of the GitLab branded [Google Form](https://docs.google.com/forms/d/1zLqYmfC-yfFQagTri4QIOkExu8Z2IN80s-R7tGJB4E4/edit). *Ensure you are logged into your GitLab Google account in order to access the form.*
