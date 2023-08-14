@@ -6,6 +6,8 @@ description: Home Page for Support's Kapok Group
 <!-- Search for all occurrences of NAME and replace them with the group's name.
      Search for all occurrences of URL HERE and replace them with the appropriate url -->
 
+## Welcome to the home page of the Kapok group
+
 Introductory text, logos, or whatever the group wants here
 
 ## Kapok resources
@@ -16,10 +18,10 @@ Introductory text, logos, or whatever the group wants here
 ## Kapok workflows and processes
 
 AMER has a standing weekly crush session - all are welcome to attend.
-The Zoom link is pinned to the Slack channel and is [here also](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09).
+The Zoom link is pinned to the Slack channel and is [here also](https://gitlab.zoom.us/j/92473190934).
 
 AMER also has a weekly "NRTea Party" crush focused on unassigned NRT tickets or NRT tickets where the asignee is away on PTO.
-or otherwise not able to respond. All are welcome, the meeting is on the support team calendar.
+or otherwise not able to respond. All are welcome, the meeting is on the support team calendar and the Zoom link is [here](https://gitlab.zoom.us/j/96714467017).
 
 - Bringing tea to the NRTea Party is optional but it does add some fun!
 - If you plan to be out and have tickets that may need some attention please post in the daily thread requesting they be added to the NRTea crush so we can make a note in the pairing issue.
@@ -53,7 +55,7 @@ If a handover to a customer's preferred region is requested, either due to a tro
 
 ### PTO
 
-When more than 2 agents in a given region are on PTO, relevant tickets and questions about coverage are usually discussed during our [weekly Kapok Crush](https://gitlab.zoom.us/j/91565753538?pwd=cFkrTEFyZjNKQnRqODhCeG1pdFdNdz09) (Wednesdays), the NRTea Crush (Tuesdays), or ad-hoc via a [Slack](https://gitlab.slack.com/archives/C03C6JQV3EZ) thread.
+When more than 2 agents in a given region are on PTO, relevant tickets and questions about coverage are usually discussed during our [weekly Kapok Crush](https://gitlab.zoom.us/j/92473190934) (Wednesdays), the [NRTea Crush](https://gitlab.zoom.us/j/96714467017) (Tuesdays), or ad-hoc via a [Slack](https://gitlab.slack.com/archives/C03C6JQV3EZ) thread.
 
 If you have questions about coverage or whether you should take PTO or not, feel free to start a thread in the [Slack channel](https://gitlab.slack.com/archives/C03C6JQV3EZ).
 
@@ -62,3 +64,7 @@ If you have questions about coverage or whether you should take PTO or not, feel
 ## Kapok Team Building
 
 In July 2022, the folks in Kapok in the AMER region gathered to learn more about one another by delivering presentations in a loose interpretation of the [PechaKucha](https://www.pechakucha.com/) style. GitLab team members with access to [this folder in Google Drive](https://drive.google.com/drive/folders/1csUbGWeu9yBZ1TilTl-Gu3P1SZ2B9IB4?usp=sharing) can [watch and enjoy the video](https://drive.google.com/file/d/1aYfFsiYie9lRnC9fEdWDL7FdIALfkh8G/view?usp=sharing).
+
+Did someone say "Spotify Playlists"? Check our [Slack channel](https://gitlab.slack.com/archives/C03C6JQV3EZ) header for links to our playlists. You know, if you're into that sort of thing.
+
+**Disclaimer**: Playlists are updated or created depending mainly on feels and vibes. Kapok team members are not responsible for musical whiplash. Use at your own risk.
