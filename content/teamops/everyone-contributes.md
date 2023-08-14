@@ -37,6 +37,12 @@ In many organizations, altering the expense report policy would require —at mi
 Scaled across an organization, this meeting-free approach to making decisions enables more decisions to be made. This approach allows a more diverse array of perspectives to influence the decision, as there was no requirement to align thirteen individuals to a single time slot on a given day for a synchronous meeting.
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for asynchronous workflows" %}}
+- **Individual:** Confirm that your team has a dedicated channel on your company’s asynchronous communication platform (such as Slack, or Microsoft Teams). Build the habit of prioritizing that channel over all others and starting each work day by catching up on all new messages from your team members.
+- **Team:** Conduct a meeting audit – Are there certain topics that could be discussed asynchronously? Are there any attendees that could be marked as optional? Are there any unnecessary meetings that could be canceled?
+- **Company:** Update your company’s onboarding and continuing education programs to include training about asynchronous workflows.
+{{% /details %}}
+
 ## Directly responsible individual (DRI)
 
 In organizations practicing TeamOps, every project or decision has a single [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Assigning this person is crucial. The DRI is the person solely responsible for a project's success or failure. To be clear: that person isn't responsible for doing all of the work; the DRI is simply the ultimate decision-maker.
@@ -53,6 +59,12 @@ It's important to note that TeamOps still allows flexibility for team members to
 A member of GitLab's Learning & Development team was responsible for [developing mental health awareness content](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/24). Given that she was the one doing the work and was responsible for her results, she was given latitude to be the Directly Responsible Individual. This enabled her to make fast decisions about content type and structure, as opposed to waiting for a more senior person to sign off or appoint her as the lead for this piece of work.
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for DRIs" %}}
+- **Individual:** When assigned a task or project, confirm explicitly that you are the DRI. Confirm with the assigner exactly which decisions you are and aren’t able to make without approval.
+- **Team:** Create a field in your project management plan template for listing the DRI.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about the responsibilities and expectations of DRIs.
+{{% /details %}}
+
 ## Well-managed meetings
 
 Even though TeamOps teams prioritize asynchronous workflows, it still treats synchronous discussions as a critical element of organizational operations. [Well-managed meetings](/handbook/communication/#meetings) maximize the efficiency and productivity that shared time permits, so meetings shouldn't just be gatherings of people for a conversation. They should be a resource for decisions and tasks that are best made with immediate feedback and collaboration from multiple people. This means that any conversations that *could* be facilitated asynchronously *should* be, including unidirectional presentations, company announcements, results reporting, and brainstorming.
@@ -67,6 +79,12 @@ When working with [external teams](https://about.gitlab.com/company/culture/all-
 GitLab's [Group Conversations](https://about.gitlab.com/handbook/group-conversations/#presentation) highlight using meeting time for activities that benefit from a synchronous component. This intentional meeting is open to the entire organization and puts emphasis on not presenting live; rather, those running the meeting are expected to distribute presentation materials, including any pre-recorded videos, at least 24 hours ahead of time.
 
 The editable agenda document, which is attached to the company-wide calendar invite, is also used to gather questions ahead of the meeting and organize the order of speakers. The agenda itself becomes an artifact to share or reference later. Plus, recordings of the sync sessions are uploaded as [videos on the GitLab Unfiltered YouTube channel](https://www.youtube.com/@GitLabUnfiltered/search?query=group%20conversation).
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for well-managed meetings" %}}
+- **Individual:** Create a meeting agenda template and share team-wide (or company-wide).
+- **Team:** Announce and enforce a “no agenda, no attenda” rule.
+- **Company:** Update your company’s onboarding and continuing education programs to include training about well-managed meetings.
 {{% /details %}}
 
 ## Cross-functional collaboration
@@ -91,6 +109,12 @@ GitLab's User Experience (UX) department [livestreamed a Key Review meeting on G
 GitLab's Learning and Development team hosted a [livestreamed Group Conversation](https://youtu.be/OX15Rknk7tM) in June 2021. [No presentations are allowed](https://about.gitlab.com/handbook/communication/#no-presenting-in-meetings) in Group Conversations. Attendees look at the prepared presentation deck in advance and document questions in a shared Google Doc. At the 6:35 mark, an attendee (who is sharing their screen) [notices that a button does not link to the appropriate place](https://youtu.be/OX15Rknk7tM?t=395). This enables the L&D team to create an action item, plan an iteration, and continue to execute on their OKRs/KPIs.
 {{% /details %}}
 
+{{% details summary="Quick Start Tips for cross-functional collaboration" %}}
+- **Individual:** Design and implement a personal plan for internal networking, such as participating in team member resource groups, scheduling coffee chats, attending local employee events, volunteering for cross-departmental working groups, or asking a mentor or sponsor for introductions.
+- **Team:** Create a field in your project management plan template for listing the project’s stable counterparts from other departments. Be sure to include their contact information, time zone, and expected level of contributions. (We recommend the [RACI matrix](/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci).) Also include dates for Key Review Meetings.
+- **Company:** Assign each department director to schedule an open-invitation “Ask Me Anything” meeting (Group Conversation) for every quarter this year.
+{{% /details %}}
+
 ## Tool prioritization
 
 In virtual-first environments, software becomes the shared workplace – instead of an office, it’s a new, digital location for information to be shared, results to be stored, and team members to collaborate together. The tool stacks that comprise these work environments can often be infrastructures built from a combination of dozens (or even hundreds!) of tools.
@@ -105,6 +129,12 @@ To create an efficient navigation experience and prevent information overload fo
 **Example 1:** [Doist’s Pyramid of Remote Team Communication Tools](https://blog.doist.com/remote-team-communication-tools/)
 
 As a visual guide for when to use which tools in their digital infrastructure, fully-remote company [Doist](doist.com) created a [Pyramid of Remote Team Communication Tools](https://blog.doist.com/remote-team-communication-tools/) that has not only made their company operations more efficient, but also inspired all-remote teams from around the world to do the same.
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for tool prioritization" %}}
+- **Individual:** Audit your tool usage habits. If you tend to have conversations with team members in more than 1-2 channels throughout your workday, redirect as many as possible to be hosted on the default communication platform for your team.
+- **Team:** Whenever starting a new project, confirm what the default channel for communication will be. Agree to certain channel changes, words, or emojis that indicate that a message is a higher or lower priority than usual.
+- **Company:** Publish your team’s tool prioritization chart in your SSoT. Indicate which are default tools and what level of urgency they indicate.
 {{% /details %}}
 
 ## Psychological safety
@@ -131,6 +161,12 @@ Often, the polite feeling of “I don’t want to step on anyone’s toes,” ca
 **Example 2:** [Help Scout Reminds Employees to “Assume Miscommunication Over Malice”](www.helpscout.com/blog/asynchronous-communication-remote-teams/)
 
 During employee onboarding, [Help Scout](www.helpscout.com) teaches new team members that if they ever feel like their integrity is being questioned, to assume it’s a communication misfire, and not because their team member actually thinks they’re bad at their job. It helps to remind staff that the way people share concerns or feedback is often informed culturally, and critical feedback is rarely personal.
+{{% /details %}}
+
+{{% details summary="Quick Start Tips for psychological safety" %}}
+- **Individual:** Give positive feedback and use your team’s catchphrases for psychological safety often, so that others feel comfortable doing the same.
+- **Team:** Add a line item to all relevant agendas for collaborative support and questions.
+- **Company:** Confirm that your handbook includes protocols for how to report and resolve when a team member doesn’t feel psychologically safe at work.
 {{% /details %}}
 
 ---
