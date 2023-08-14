@@ -54,6 +54,7 @@ The GitLab Security team identifies security incidents as any violation, or thre
 1. Detection
 - The SIRT, other internal, or external entity identifies a Security or Privacy Event that may be the result of a potential exploitation of a Security Vulnerability or Weakness, or that may the result of an innocent error
 - One of our Security detection controls identifies event outside of the established security baseline
+- A security issue is [escalated into an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) as a preventative measure 
 2. Analysis
 - SIRT determines whether the reported security or privacy event is in actuality security or a privacy event
 - SIRT determines the incident severity and priority based on the following [incident classification](/handbook/security/security-operations/sirt/severity-matrix.html) methodology
