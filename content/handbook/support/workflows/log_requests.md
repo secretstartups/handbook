@@ -2,8 +2,10 @@
 title: Log and audit requests
 description: "Overview of aggregated information which GitLab Support may provide to customers, from the gitlab.com logs. Details beyond a summary require a Security request."
 category: GitLab.com
-subcategory: Legal
+subcategory: Security
 ---
+
+## Log requests for GitLab.com
 
 Users often ask for access to GitLab.com logs, typically, due to [IP blocks](/handbook/support/workflows/ip-blocks.html), a possible security issue, or for internal auditing purposes.
 
@@ -15,21 +17,21 @@ If required, you can escalate the ticket/issue by following our [escalation proc
 
 You can consider using the [kibana workflow](handbook/support/workflows/kibana.html) page for tips on retrieving logs for requests within the last 7 days. Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](/handbook/security/customer-requests/).
 
-## Who can make a request
+### Who can make a request
 
-### Paid Subscriptions
+#### Paid Subscriptions
 
 Requester must be a Group Owner of a pre-existing paid namespace.
 
-- Must verify that this is who is making the request and should be in alignment with support for [Enterprise Users](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#sts=Enterprise%20Users)
+ - Must verify that this is who is making the request and should be in alignment with support for [Enterprise Users](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#sts=Enterprise%20Users)
 
 > NOTE: A user cannot upgrade to a paid subscription to gain access to logging requests.
 
-### Free Users
+#### Free Users
 
 Free users should reference [GitLab.com rate limits documentation](https://docs.gitlab.com/ee/user/gitlab_com/#gitlabcom-specific-rate-limits). Support will provide information [when GitLab initiates contact due to an incident](/support/statement-of-support/#free-users).
 
-## What we can provide
+### What we can provide
 
 We can provide the following information:
 
@@ -42,7 +44,7 @@ We can provide the following information:
   - project path
 - Provide the above excluding a known list. For example, number of IP addresses not originating from a user's "work office".
 
-## What we cannot provide
+### What we cannot provide
 
 We cannot provide the following information:
 
@@ -50,7 +52,7 @@ We cannot provide the following information:
 - Any information considered [Personal Data](personal_data_access_account_deletion.html) that is not specifically about the individual requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
 - Any information that would disclose GitLab confidential information or processes.
 
-## Sending logs and other Personal Data
+### Sending logs and other Personal Data
 
 Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled by the Security Incident Response Team (SIRT),
 such as a log request, needs to be delivered compressed and password protected to the requestor with the following guidelines:
@@ -64,11 +66,11 @@ you can use the [Support Uploader](large_files.html). Please ensure the password
 
 In case you need to share the data pull results internally, such as in an internal issue, upload the files to Google Drive, such as the [Support Ticket Attachments folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) (internal).
 
-## Examples
+### Examples
 
 The following are examples to provide a better idea of what responses we can provide.
 
-### Example 1: Who accessed a specific repo
+#### Example 1: Who accessed a specific repo
 
 A customer, who had accidentally set their project to the incorrect visibility setting, wanted to know if anyone outside the company accessed their project. Here is a modified excerpt of the response:
 
@@ -76,7 +78,7 @@ A customer, who had accidentally set their project to the incorrect visibility s
 
 From ticket: [129594](https://gitlab.zendesk.com/agent/tickets/129594)
 
-### Example 2: IP block
+#### Example 2: IP block
 
 User writes in to say their entire team is getting blocked and they want to know the source. When the user writing in has access to the projects in question, we can provide the specific path(s).
 
@@ -86,7 +88,7 @@ Example ticket: [132652](https://gitlab.zendesk.com/agent/tickets/132652)
 
 Also see ["Identifying the Cause of IP Blocks on GitLab.com"](/handbook/support/workflows/ip-blocks.html).
 
-### Example 3: GitLab requests action due to high load
+#### Example 3: GitLab requests action due to high load
 
 GitLab reached out to the owners of a project that was causing concern for the production team, who asked Support to reach out. The user wanted to know where the requests were originating from.
 
