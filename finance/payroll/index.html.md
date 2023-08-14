@@ -256,7 +256,9 @@ Important: It is mandatory for team member to update their state in WorkDay.
 ### France
 
 All new hires will receive an invite from Papaya Global to update their profile on the platform  (for uploading new hire documents securely). All team members should receive access to the Mihi platform (for time & leave tracking). MiHi access will be arranged by payroll team
-Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com       
+
+Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com 
+
 Team members in France will need to use Time Off by Deel in Slack to show that they are out of office, and will also need to enter the same into the Mihi platform.
 Expenses are to be submitted on Navan Expense and should be final approved as per the Payroll calendar, Payroll will forward these to Papaya Global for processing.
 
@@ -335,41 +337,54 @@ Opting out of KiwiSaver, please follow this [guide](https://www.ird.govt.nz/kiwi
 
 ### UK
 
-Paylsip access - Through Okta
+Payslip access - Through Okta
 
 P60 and P11d - will be deliverd the same way as payslips
 
 **Payslip interpretation**
 
 Salary:
+
 This amount is the annual compensation amount on Workday divided by 12 months as UK team members are paid monthly
 
 Salary Sacrifice:
+
 This is deducted when the team member selects a percentage that they would like to have put towards their pension.  The salary sacrifice amount is the percentage multiplied by the monthly salary amount.
 
 Medical insurance BIK:
+
 Payroll receives a file from the Benefits team on a monthly basis.  The file has been validated by the Benefits team.  The Medical Insurance BIK amount and the private amount (for those who have elected dependents) needs to be processed through payroll.  On your payslip you will see an amount in the top half of the payslip (Medical Insurance BIK) and the exact same amount in the bottom half of the payslip (Medical Insurance BIK ded).  The reason for the Medical Insurance BIK ded is that if it were not there then the top half of the payslip Medical Insurance BIK would act as a payment to the team member in their net pay. This cannot happen, therefore, there is an entry in the top and bottom of the payslip.  Please reach out to the benefits team on the slack channel [#people-connect](https://gitlab.slack.com/archives/C02360SQQFR) or by email total-rewards@gitlab.com
 
 Commission:
+
 The commission amounts reflected in the payslip are received by payroll from the Commissions team.   Commission is paid in arrears e.g Xactly April 5000 GBP will be paid in the May Payroll.  If team members believe that the amount are not correct on the payslip then team members need to reach out to the commissions team on slack [#commissions-and-xactly-incent-support](https://gitlab.slack.com/archives/C029B3Q5SFL) or alternatively by email ​​sales-comp@gitlab.com
 
 ESPP Refund:
+
 If a team member who had signed up to ESPP deductions choses to withdraw from the ESPP plan then payroll will refund them all of the contributions they had made.  Team member would withdraw through eTrade and stock team would inform payroll of the changes.  Please contact stockadmin@gitlab.com if any queries in relation to withdrawing from ESPP or any general ESPP queries
 
 Stock Options:
+
 Stock is reported in the payslip for HMRC to see the entries as it is taxable.  When payroll processes the data that we receive from the Stock Department there are 3 entries.  
 A.	Stock Gain - this the the gain that you will see in your etrade account but converted to  GBP in the payslip
+
 B.	Stock Gain Tax Paid - this is the taxes withheld on eTrade
+
 C.	Stock Gain Deduction - this is the exact same figure as Stock Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the Stock Gain or else the Stock Gain amount would be paid out in the net pay in error.  The Stock Gain is paid through etrade.
+
 Please reach out to the stock team if you have any queries in relation to the stock figures on payslip stockadmin@gitlab.com
 
 RSU:
-RSU is reported in the payslip for HMRC to see the entries as it is taxable.  On team members eTrade account shares are withheld to cover taxes.  Taxes are calculated across the board for all UK team members at 47%.  When payroll processes the data that we receive from the Stock Department there are 3 entries.  
+RSU is reported in the payslip for HMRC to see the entries as it is taxable.  On team members eTrade account shares are withheld to cover taxes.  Taxes are calculated across the board for all UK team members at 47%.  When payroll processes the data that we receive from the Stock Department there are 3 entries. 
+
 A.	RSU Gain - this is the gain that you will see in your etrade account but converted to  GBP in the payslip
+
 B.	RSU Tax Paid - this is the taxes withheld on eTrade
+
 C.	RSU Deduction - this is the exact same figure as RSU Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the RSU Gain or else the RSU Gain amount would be paid out in the net pay in error.  The RSU Gain is paid through etrade.
 
 *Note - When payroll receive the data from Stock, stock have converted the USD amount to GBP
+
 **Note - When RSU is processed through payroll, sometimes you might receive an extra residual amount in your net pay due to FX conversion or you should not have been taxed at 47%.  Therefore, the payroll tax calculator calculates the correct taxes depending on team members' individual tax codes.
 
 Please reach out to the stock team if you have any queries in relation to the stock figures on payslip stockadmin@gitlab.com
@@ -378,9 +393,11 @@ Other Additions:
 This can show up on some payslips as there is not enough room on the payslip for every item to be named out individually e.g Stock Gain Tax Paid, RSU Gain Tax Paid
 
 Bonus:
+
 Payroll process them as soon as they are approved by the relevant department. (if approval after CUT_OFF, we process them in the next payroll, ex. Approval 15th May, bonus included in medical Insuarnce BIKJune payroll)
 
 Taxable pay:
+
 At the very bottom of the payslip it gives the amount that is taxable in the payslip. 
 In the example of the payslip given above the taxable pay is: Salary + Medical Insurance BIK + Commission + RSU Gain + Stock Gain - Salary Sacrifice
 
