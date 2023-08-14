@@ -15,6 +15,8 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program
 
 The GitLab Mentorship program hosted by the Women TMRG is a 5-month career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
 
+Our current program begain in July and will end in November 2023. The program includes 137 team members, made up of 73 mentees and 64 mentors.
+
 Questions, comments, and feedback can be posted in the [#women-at-gitlab-mentorship](https://app.slack.com/client/T02592416/C0219QJR1K5) slack channel. 
 
 <div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/loader-default.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="645a9bb0944010001175f43d" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
@@ -46,12 +48,12 @@ Don't take our word for it - check out what mentors and mentees at GitLab have t
 
 | Title | Description |
 | ----- | -------- |
-| **Start of Program Feedback Form** | A survey to measure results of the program. Participation is **required**. |
+| **Start of Program Feedback Form** | A Culture Amp survey to measure results of the program. Participation is **required**. |
 | **Mentor/Mentee Training** | Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is **required** of all mentors and mentees. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training), created using content from the LinkedIn course. |
-| **Initial program kickoff** | A 25-minute discussion to meet other mentors and mentees in the program. Attendance is **encouraged but not required**. |
+| **Initial program kickoff** | A 25-minute discussion to meet other mentors and mentees in the program. Attendance is **encouraged.**. |
 | **1:1 Mentor Sessions** | Mentors and mentees should meet every other week for 30-minutes for a total of 5 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**. |
 | **Mentor/Mentee Resources** |[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) are available as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. Use of resources is encouraged but not required. |
-| **End of Program Feedback Form** | A survey to measure results of the program. Participation is **required**. |
+| **End of Program Feedback Form** | A Culture Amp survey to measure results of the program. Participation is **required**. |
 
 
 ## Current Program Timeline
@@ -154,6 +156,11 @@ If you cannot commit to the 5 month program, please consider applying for a futu
 Other mentorship resources at GitLab can be found [here in the handbook](/handbook/people-group/learning-and-development/mentor/). Team members are always encouraged to build mentor/mentee relationships independently. You can find resources and a list of available mentors in the [Learning and Development handbook](/handbook/people-group/learning-and-development/mentor/)
 
 # Results
+
+## 2023
+
+1. Total Participants: 137 team members / 73 mentor/mentee pairs
+
 
 ## 2022
 
