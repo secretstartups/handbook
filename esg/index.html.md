@@ -377,7 +377,7 @@ Disclosing our progress through data aligns with our [transparency](https://abou
 
 - [GRI disclosures](https://about.gitlab.com/documents/GRI_CONTENT_INDEX_FY23.pdf) 
 - [SASB disclosures](https://about.gitlab.com/documents/SASB_INDEX_FY23.pdf)
-- [Performance data tables](https://about.gitlab.com/documents/PERFORMANCE_DATA_TABLE.pdf) 
+- [Performance data tables](https://esg-landing-page.about.gitlab-review.app/files/esg/PERFORMANCE_DATA_TABLES_FV.pdf) 
 
 ## Contact 
 
