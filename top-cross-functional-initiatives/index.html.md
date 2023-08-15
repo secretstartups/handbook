@@ -68,7 +68,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Direction page](https://about.gitlab.com/direction/saas-platforms/dedicated/), [Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479), [Team page](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
    1. Quarter Started/Starting: FY23-Q1
 1. AWS/GCP Partnerships
-   1. DRI / Sponsor: @nbadiey / @mmcb
+   1. DRI / Sponsor: @nbadiey / @chrisweber44 
    1. Description: Expand GitLab's access to AWS/GCP LAM via cloud-first sales plays, new products, and lower friction buying.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/11)
    1. Quarter Started/Starting: FY23-Q1
@@ -78,7 +78,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [FY23 Roadmap](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
    1. Quarter Started/Starting: FY23-Q3
 1. DevSecOps Adoption
-   1. DRI / Sponsor: @spatching  / @mmcb
+   1. DRI / Sponsor: @spatching  / @chrisweber44 
    1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
    1. Quarter Started/Starting: FY23-Q4
