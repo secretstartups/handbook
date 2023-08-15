@@ -297,9 +297,9 @@ Choose the method below that feels most comfortable and have the following infor
   1. Clone the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
   1. Create and checkout a new branch for the changes you will be making.
   1. Add your picture to the `sites/uncategorized/source/images/team/` directory in the repository and `git add` it. Be sure to follow the [picture requirements](#picture-requirements).
-  1. Open `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
+  1. Open `data/team_members/person/YOUR_DIVISION/FIRST_LETTER_OF_YOUR_FIRST_NAME/SLUG_REPLACE.yml` in your favorite editor, specifically looking for the file with your name or slug.
   1. <%= partial "team-page-fields" %>
-  1. Save the changes to the file in `data/team_members/person/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
+  1. Save the changes to the file in `data/team_members/person/YOUR_DIVISION/FIRST_LETTER_OF_YOUR_FIRST_NAME/` that you just edited, and `git add` it.
   1. To see your changes locally:
         1. Manually run a command to compile the changes you just made into a file that actually populates the team page:<br/>
            ```
@@ -383,7 +383,7 @@ Then assign the MR to a maintainer for review and merging.
 If you recently created a Merge Request that was labeled as a Community contribution, you can fix this mislabeling issue going forward by updating the GitLab username in your personal entry in the team member directory to match the GitLab account you use for work.
 
 Here is how you can do that:
-1. Search for your last name using Find File feature in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project OR head to https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person, open the folder that matches with the first initial of your first name, and find your file. 
+1. Search for your last name using Find File feature in the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project OR head to https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person, open the folder that matches with your division and the first initial of your first name, and find your file.
 1. Open your file. 
 1. Once the file is open, click on the Edit button.
 1. Update the gitlab attribute (typically found on line 11) in the file so that the entry is an **exact match** for the GitLab.com username you use for work.
