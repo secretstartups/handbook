@@ -473,6 +473,9 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 
 ## Product Development Timeline
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Releases 16.6 and onwards - Product Development Timeline](#release-166-and-onwards---product-development-timeline).
+{: .alert .alert-gitlab-orange}
+
 [![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
 
 Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
@@ -521,6 +524,70 @@ We have the following deadlines:
 - On or around `M, 26th`:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
 - On or around `M, 28th`:
+  - Non-critical security patches are  [released](../security/index.html#security-releases).
+
+Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
+
+Note that deployments to GitLab.com are more frequent than monthly major/minor releases.
+See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
+
+### Release 16.6 and onwards - Product Development Timeline
+
+This section is for release 16.6 and onwards. For releases 16.5 and prior please see the previous section [Product Development Timeline](#product-development-timeline).
+{: .alert .alert-gitlab-orange}
+
+[![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
+
+Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
+There is no specified process whereby a particular person should be working on a set of issues in a given time period.
+However, there are specific deadlines that should inform team workflows and prioritization.
+Suppose we are talking about milestone `m` that will be shipped in month `M` on the [release date](/handbook/engineering/releases/) `D`.
+
+Since the release date `D` always falls on a Thursday, the code cut-off will be the Friday prior. As a result, a milestone `m` will always start 
+on a Saturday and end on a Friday.
+
+We have the following deadlines:
+
+- By month `M-1`, `Monday, 19 days prior to` milestone `m` begins:
+  - Draft of the issues that will be included in the next release (released next month).
+  - Start capacity and technical discussions with engineering/UX.
+  - Assess error budgets to determine feature/reliability balance.
+  - Development engineering manager provides product manager with prioritization input for `type::maintenance` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
+  - [Quality](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization) provides product manager with prioritization input for `type::bug` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
+- By month `M-1`, `Monday, 12 days prior to` milestone `m` begins: Product manager, taking into consideration prioritization input from development EM, Quality, and UX to create a plan of issues for the upcoming milestone
+  - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
+  - Kickoff document is updated with relevant items to be included.
+- By month `M-1`, `Monday, 5 days prior to` milestone `m` begins:
+   - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
+   - Kickoff document is updated with relevant items to be included.
+- By month `M-1`, `Friday before` milestone `m` begins:
+  - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
+- On month `M-1`, `Monday after` milestone `m` begins: **Kick off!** 📣
+  - [Company Kickoff](#kickoff) call live streamed.
+  - Development on milestone `m` begins
+- By month `M-1`, `Monday, the week after` milestone `m` begins: The development lead for each stage/section coordinates a stage/section level review with the quad [cross-functional dashboard review process](/handbook/engineering/cross-functional-prioritization/#cross-functional-dashboard-reviews).  After the stages/section level reviews are complete, the VP of Development coordinates a summary review with the CTO, VP of Product, VP of UX, and VP of Quality.
+- On `M-1`, `Wednesday, the week after after` milestone `m` begins: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
+- By month `M`, `the day` milestone `m` ends:
+  - Completed `m` issues with docs have been merged into master.
+  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](/handbook/product-development-flow/feature-flag-lifecycle/#including-a-feature-behind-feature-flag-in-the-final-release).
+  - Merging by the `the day` milestone `m` ends **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
+  - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
+  - By end of the day, milestone `m` is expired.
+- On or around `M`, `the day before` release date `D`:
+  - [Group Retrospective issues](/handbook/engineering/management/group-retrospectives/) are updated with shipped and missed deliverables and team-members are tagged in the discussion.
+- On `M`, `the day before` release date `D`
+  - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
+- On month `M`, release date `D`: **Release Day** 🚀
+  - Release shipped to production.
+  - Release post published.
+- On month `M`, `the day after` release date `D`:
+  - The patch release process for milestone `m` starts. This includes regular and security patch releases.
+  - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
+- On `M`, `the Monday afrer` release date `D`: Moderator opens the [Retrospective planning and execution issue](#retrospective).
+- Between `M`, `the Monday after` release date `D` and `one week later on Wednesday`: Assignees of [Group Retrospective issues](#retrospective) summarize the discussion, ensure corrective actions are taken and a DRI is assigned to each. Actions related to participation in [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4) are taken.
+- On or around `M`, `the Wednesday following` release date `D`:
+  - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
+- On or around `M`, `two Mondays following` release date `D`:
   - Non-critical security patches are  [released](../security/index.html#security-releases).
 
 Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
@@ -719,11 +786,29 @@ Milestones closure is in the remit of [the Delivery team](/handbook/engineering/
 
 ### Milestone cleanup schedule
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Releases 16.6 and onwards - Milestone cleanup schedule](#release-166-and-onwards---milestone-cleanup-schedule).
+{: .alert .alert-gitlab-orange}
+
 The milestone cleanup will happen one weekday before the release day.
 
 The following is observed to account for the weekends:
 - If the 22nd falls on the weekend, cleanup happens on the prior friday.
 - If the 22nd falls on Monday, cleanup happens on the prior friday.
+
+These actions will be applied to open issues:
+- Open issues and merge requests will be moved to the next milestone, and
+  labelled with `~"missed:x.y"`.
+- `~"missed-deliverable"` will also be added whenever `~"Deliverable"`
+    is presented.
+
+Milestones are closed when the Delivery team no longer needs to create a backport release for a specific milestone.
+
+#### Release 16.6 and onwards - Milestone cleanup schedule
+
+This section is for release 16.6 and onwards. For releases 16.5 and prior please see the previous section [Milestone cleanup schedule](#milestone-cleanup-schedule).
+{: .alert .alert-gitlab-orange}
+
+The milestone cleanup will happen one weekday before the release day.
 
 These actions will be applied to open issues:
 - Open issues and merge requests will be moved to the next milestone, and
