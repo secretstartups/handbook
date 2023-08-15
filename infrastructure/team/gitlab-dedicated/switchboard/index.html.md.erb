@@ -88,6 +88,7 @@ Notes:
 - As per the [GitLab Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html#merging-a-merge-request) there are scenarios where it is appropriate for the author to merge the merge request: If there are no blocking comments, and the merge request has all the required approvals, the author or maintainer can merge.
 - Switchboard project is configured to use [pipelines for merged results](https://docs.gitlab.com/ee/ci/pipelines/merged_results_pipelines.html) which means that reviewers need to run a pipeline pre-merge to guarantee that updates are compatible with the latest main branch.
 - When reviewing merge requests, reviewers should use the [Conventional Comment labels](https://conventionalcomments.org/#labels) to convey your intent.
+  - For the avoidance of doubt `Suggestion:`, `Issue:` and `Chore:` comments are all blocking, unless decorated with a `(non-blocking)` statement.
 - We label merge requests using the [Specialization labels](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/labels/index.md#specialization-labels) found in the [GitLab documentation](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/doc/development/labels/index.md). MRs should be labelled ~"frontend", ~"backend" or ~"documentation"
 
 #### Approval guidelines
