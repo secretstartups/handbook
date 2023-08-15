@@ -55,6 +55,12 @@ When vulnerabilities are manually discovered during open-scope work, an issue wi
 
 ## Red Team Logistics
 
+### Red Team Operation Workflow
+
+We maintain [public issue templates](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates) for planning, executing, and reporting on Red Team operations. At the start of an operation, we open a new epic and use these templates to create issues corresponding to each stage of work.
+
+By using these templates, everyone on the team knows where we are at and what comes next. This helps us to operate asynchornously and to iterate on our processes based on how well the templates work.
+
 ### Red Team Report Delivery
 
 All operations end with a final report. We use an issue template which is [shared publicly here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates).
