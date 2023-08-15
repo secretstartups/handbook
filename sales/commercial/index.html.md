@@ -51,7 +51,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 
 ### Continuous Learning
 
-Below is a list of resources considered highly valuable for continuous learning and development by Commercial Sales team members at GitLab. Note that some of these resources are not publicly available, so consult a fellow teammate for access where necessary.
+Below is a list of resources considered highly valuable for continuous learning and development by Commercial Sales team members at GitLab. Note, that some of these resources are not publicly available, so consult a fellow teammate for access where necessary.
 
 - [GitLab Direction](/direction/#vision-1) Includes GitLab’s Vision, [Maturity](/direction/#maturity) framework and planned features and their release dates within each of GitLab’s [Paid Tiers](/direction/#paid-tiers).
 - [GitLab Blog](/blog/) Monthly articles on Releases, Engineering, Open Source, Culture and other popular topics of interest.
