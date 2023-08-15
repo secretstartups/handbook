@@ -9,15 +9,15 @@ title: "Releases"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+Starting in 16.6 (November 2023), we will move from publishing on every 22nd of the month to [**every 3rd Thursday of the month**](https://gitlab.com/groups/gitlab-com/-/epics/2184). The release process is not expected to change, but we will now have a set day of the week for releasing the self-managed releases, reducing the need for our team members to work on weekends in order to prepare for the release. With this change, the code cutoff will now always be the **Friday** before the Thursday release day. All releases up to and including 16.5 will still be published on the 22nd of the month.
+{: .alert .alert-gitlab-orange}
+
 ## Overview and terminology
 This page describes the processes used to release packages to self-managed users. 
 
 **Monthly self-managed release**
 
-GitLab version (XX.YY.0) [is published every month on the 22nd][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed. 
-
-Starting no earlier than 16.6 (November 2023), we will move from publishing on every 22nd of the month to [**every 3rd Thursday of the month**](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/124310). The release process is not expected to change, except the days of the week for the process will be more stable, reducing the pressure to work on weekends. For example, the code cutoff will always be the **Friday** before the Thursday release day. All releases up to and including the one prior to this change will still be published on the 22nd of the month.
-{: .alert .alert-gitlab-orange}
+GitLab version (XX.YY.0) [is published every month][process-monthly-release]. From this monthly release, [patch][process-patch-release], [non-critical][process-security-release-non-critical], and [critical][process-security-release-critical] security releases are created as needed. 
 
 Our [maintenance policy] describes in detail the cadence of our major, minor and patch releases for self-managed users. The major release yearly cadence was defined [after an all stakeholder discussion](https://gitlab.com/gitlab-com/Product/issues/50).
 
@@ -28,20 +28,20 @@ The [deployments and releases page](/handbook/engineering/deployments-and-releas
 
 ### Self-managed releases process
 
-The `monthly self-managed release` timelines are concentrated around the 22nd.  
+The `monthly self-managed release` timelines are concentrated around the [release date](/handbook/engineering/releases/).
 
 Monthly self-managed release preparation steps
-1. In the days leading up to the 22nd, the [release managers](https://about.gitlab.com/community/release-managers/) will post announcements in
+1. In the days leading up to the [release date](/handbook/engineering/releases/), the [release managers](https://about.gitlab.com/community/release-managers/) will post announcements in
 [#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
 [#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW) to update on candidate and guaranteed commits for the release. Only changes that have successfully run on GitLab.com can be considered for self-managed releases. This means that the availability and stability of GitLab.com deployments will determine the cutoff date for inclusion in the release 
 2. Following a successful deployment to GitLab.com a stable branch is created for the targeted [semver] version with a stable suffix, eg. ```12-3-stable``` and a test release candidate (RC) is tagged. The test RC checks that a package can be built and successfully deployed and tested on the [Pre](https://about.gitlab.com/handbook/engineering/infrastructure/environments/#pre) environment. At this point [release managers](https://about.gitlab.com/community/release-managers/) will announce the final commit to be included in the release 
 3. After confirming automated tests have passed on the CE stable branch, EE stable branch, and Omnibus stable branches the release managers will tag the release
 4. The release package is built and deployed to the [Release](/handbook/engineering/infrastructure/environments/#release) environment
-5. On the 22nd the release package and the release blog post are published
+5. On the [release date](/handbook/engineering/releases/) the release package and the release blog post are published
 
 ### Timelines
 
-The only guaranteed date throughout the release cycle is the 22nd. On this date,
+The only guaranteed date throughout the release cycle is the [release date](/handbook/engineering/releases/). On this date,
 the `self-managed release` will be published together with the release announcement.
 
 **All other dates** are **a guideline only** and cannot be considered a deadline
@@ -66,16 +66,16 @@ For more information, refer to the [Auto-deploy
 status](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/deploy/auto-deploy.md#auto-deploy-status)
 command.
 
-In the runup to the 22nd, release managers will also start announcing
+In the runup to the [release date](/handbook/engineering/releases/), release managers will also start announcing
 what commit will at the very least make it into the release. Such notifications
 are shared in Slack [#releases] channel and will look something like this (format is defined in the [release-tools monthly template](https://gitlab.com/gitlab-org/release-tools/-/blob/master/templates/monthly.md.erb)):
 
-> This is the candidate commit to be released on the 22nd.
+> This is the candidate commit to be released on the [release date](/handbook/engineering/releases/).
 https://gitlab.com/gitlab-org/gitlab/commits/4033cb0ed66de77a4b5c1936e33de918edef558e
 
 The last commit to make it into the release will have a message similar to this:
 
-> :mega: Barring any show-stopping issues, this is the final commit to be released on the 22nd.
+> :mega: Barring any show-stopping issues, this is the final commit to be released on the [release date](/handbook/engineering/releases/).
 https://gitlab.com/gitlab-org/gitlab/-/commits/13-1-stable-ee
 
 Merge Requests that have been included in the monthly release will receive [a label indicating inclusion](https://about.gitlab.com/handbook/engineering/releases/#labels-indicating-inclusion-in-upcoming-self-managed-release).
@@ -245,7 +245,7 @@ Any high severity issue should start with an issue labelled with the appropriate
 
 Depending on the bug details, follow one of the following processes: 
 - For [high severity security bugs][process-security-release-critical] 
-- For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the 22nd of the month please also alert the Release Managers in [#releases]. 
+- For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the [release date](/handbook/engineering/releases/) of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-pick-label)
 
 ### How can I revert a security merge request?
