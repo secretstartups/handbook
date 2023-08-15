@@ -41,7 +41,7 @@ Stable Counterparts can be added or updated by following these steps:
 - (Optional) Organise a 1:1 with the group(s) and App Sec engineer(s) involved to discuss handover, learning opportunities, upcoming priorities, and practicalities like links to GitLab Issue Boards and meeting invitations
 - Open an MR to [gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/)
     - Add or update `data/stages.yml`, setting the `appsec_engineer` attribute to `Firstname Lastname` in each group
-    - For each App Sec Engineer involved, update the `role` attribute in `data/team_members/person/LETTER/PERSON_NAME.yml` to include `STAGE_NAME (GROUP_A, GROUP_B)`
+    - For each App Sec Engineer involved, update the `role` attribute in `data/team_members/person/DIVISION/LETTER/PERSON_NAME.yml` to include `STAGE_NAME (GROUP_A, GROUP_B)`
 
 ### Success Stories
 
