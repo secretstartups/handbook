@@ -433,6 +433,19 @@ Some issues are large in scope to start implementing, and/or still has too many 
     1. The `~blocked` label can be applied so it is clear that this issue should is not ready for development. Unfortunately, we must still apply the `~Deliverable` label to this issue, because that is the only way we can associate it with the Iteration Cadence for velocity calculations.
 3. Once the investigation and breakdown into smaller issues is complete, then the weight can be removed and the issue closed.
 
+### 🍨 Handling Remote Development Issues Outside the Process
+
+For certain scenarios, we handle remote development (RD) issues differently, categorizing them under the `rd-workflow::ignored` label. These categories include:
+
+1. **QA-Owned Issues:**
+   - Issues owned by QA that may not require the standard remote development process.
+1. **PM-Owned Issues with `type::ignore`:**
+   - Issues owned by Product Managers marked with `type::ignore`, such as reporting, blogs, OKRs, etc.
+1. **Long-Lived Security Issues:**
+   - Security-owned issues with extended timelines that don't align with the typical remote development workflow.
+
+This approach ensures that these types of issues do not have an undesired impact on our velocity, and that our remote development process remains streamlined while accommodating different issue categories that may not fit the standard workflow.
+
 ## 👏 Communication
 
 The IDE Team communicates based on the following guidelines:
@@ -532,7 +545,11 @@ We have the following automation goals for the Remote Development Workflow. Unle
 - Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
 - Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
 
+**Goal:** Automate Label Assignment for Ignored Issues
 
+**Automation:**
+- Automating the assignment of the `rd-workflow::ignored` label to issues with the `type::ignore` label. (TODO: implement)
+- Exclude QA issues from this automation to accommodate self-owned QA issues that should follow the standard process. (TODO: implement)
 
 <!-- LINKS START -->
 
