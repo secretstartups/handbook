@@ -13,7 +13,7 @@ description: "Guidelines to create and update release posts"
 ## Introduction
 {:.no_toc}
 
-Release posts are [blog posts](/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen on the 22nd of each month, and patch/security releases whenever necessary.
+Release posts are [blog posts](/releases/categories/releases/) that announce changes to the GitLab application. This includes our regular cadence of monthly releases which happen [every month](/handbook/engineering/releases/), and patch/security releases whenever necessary.
 
 Release posts follow a process outlined here, and the templates that are used to create them also highlight what needs to be done, by whom, and when those items are due.
 
@@ -28,15 +28,20 @@ _Note:_ We're evolving our release post process! You can view and share feedback
 
 ## Schedule
 
+### Release 16.5 and prior
+
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards](#release-166-and-onwards).
+{: .alert .alert-gitlab-orange}
+
 At a high level, the Release post schedule is:
 
-### On the 3rd
+#### On the 3rd
 
 - Through **automation**, the [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) run in a scheduled pipeline invoking the `bin/rake release_post:start` rake task. ([pipeline configuration](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L280-288); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L9))
 - This task creates the branches, MRs, and issues necessary to run the Release Post process
 - The MRs and issues will be assigned to the Release Post Manager using the content in [release_post_managers.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml)
 
-### 3rd to 10th
+#### 3rd to 10th
 
 - **PMs** contribute MRs for their [content blocks](#pm-contributors)
   - [Features and Upgrades](#release-post-item-instructions) are contributed as release post item MRs targeting the release post branch
@@ -45,17 +50,17 @@ At a high level, the Release post schedule is:
   - Non-standard product announcements, uncategorized items, and other announcements can be announced using the [`extras`](#extras) content type
 - **EMs and PMs** announce [deprecations and removals](#deprecations-removals-and-breaking-changes)
 
-### By the 15th
+#### By the 15th
 
 - **EMs and PMs** make sure items that are feature flagged are `enabled by default` to ensure inclusion into the self-managed release.
 - Deprecation and removal MRs are assigned to TWs for final review and merge.
 
-### By the 16th
+#### By the 16th
 
 - **TW Reviewers** finish review of Features, Deprecations, Removals, Upgrades, and Extras
 - **PMMs, Product Design Managers, Product Designers, and PM Leaders** do optional reviews of release post item MRs
 
-### By the 17th
+#### By the 17th
 
 - **EMs**:
   - Merge feature release post item MRs if the underlying code was merged _before_ the 17th
@@ -67,12 +72,12 @@ At a high level, the Release post schedule is:
 Note: MRs added after the 17th should target the `release-x-y` branch, not `master`
 {: .note}
 
-### On the 18th
+#### On the 18th
 
 - At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, another **release post automation** task ([scheduled pipeline](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L290-299); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L373-399)) performs content assembly
 - **Release Post Manager** picks features to highlight and creates the introduction content
 
-### 18th - 20th
+#### 18th - 20th
 
 - **Contributor Success** adds the [MVP](#mvp)
 - **Release Post Manager and Technical Writer** perform final reviews
@@ -82,7 +87,75 @@ Note: MRs added after the 17th should target the `release-x-y` branch, not `mast
 Note: The 18th - 20th can fall on vacations, weekends, or holidays. PMs should designate who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are empowered to make decisions and [display bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) if they haven't received a response by EOD on the 20th.
 {: .note}
 
-### On the 22nd
+#### On the 22nd
+
+- **Release team** publishes the latest package
+- After the package is [released](/handbook/engineering/releases/), the **Release Post Manager** publishes the release post to the  master branch
+- The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via an **automated process** when release posts are published ([pipeline task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L303-318))
+
+**Note:** Details for all of these steps are described in the [Monthly release **post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and the [Monthly release **post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md).
+{: .note}
+
+### Release 16.6 and onwards
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Release 16.5 and prior](#release-165-and-prior).
+{: .alert .alert-gitlab-orange}
+
+At a high level, the Release post schedule is:
+
+#### 3 weeks before release, on Monday
+
+- Through **automation**, the [Release Post Process Kickoff Tasks](https://gitlab.com/gitlab-com/www-gitlab-com/-/pipeline_schedules) run in a scheduled pipeline invoking the `bin/rake release_post:start` rake task. ([pipeline configuration](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L280-288); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L9))
+- This task creates the branches, MRs, and issues necessary to run the Release Post process
+- The MRs and issues will be assigned to the Release Post Manager using the content in [release_post_managers.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml)
+
+#### 3 weeks before release, Monday through Thursday
+
+- **PMs** contribute MRs for their [content blocks](#pm-contributors)
+  - [Features and Upgrades](#release-post-item-instructions) are contributed as release post item MRs targeting the release post branch
+  - Primary items are added to `features.yml`
+  - Recurring content blocks for Omnibus, GitLab Runner, and Mattermost are added by the area owner
+  - Non-standard product announcements, uncategorized items, and other announcements can be announced using the [`extras`](#extras) content type
+- **EMs and PMs** announce [deprecations and removals](#deprecations-removals-and-breaking-changes)
+
+#### 1 week before release, on Thursday
+
+- **EMs and PMs** make sure items that are feature flagged are `enabled by default` to ensure inclusion into the self-managed release.
+- Deprecation and removal MRs are assigned to TWs for final review and merge.
+
+#### Thursday before release
+
+- **TW Reviewers** finish review of Features, Deprecations, Removals, Upgrades, and Extras
+- **PMMs, Product Design Managers, Product Designers, and PM Leaders** do optional reviews of release post item MRs
+
+#### Thursday before release
+
+- **EMs**:
+  - Merge feature release post item MRs if the underlying code was merged _before_ the Thursday before release
+  - Merge feature release post item MRs if manually verified to be in the release
+    - MRs can be manually verified using the `/chatops run release check <MR URL> <RELEASE>` chatops command
+
+- **TW Reviewers** merge deprecation and removal MRs
+
+Note: MRs added after the Thursday before release should target the `release-x-y` branch, not `master`
+{: .note}
+
+#### Monday of release week
+
+- At <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time>, another **release post automation** task ([scheduled pipeline](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab-ci.yml#L290-299); [rake task](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/lib/tasks/release_post.rake#L373-399)) performs content assembly
+- **Release Post Manager** picks features to highlight and creates the introduction content
+
+#### Monday through Tuesday of release week
+
+- **Contributor Success** adds the [MVP](#mvp)
+- **Release Post Manager and Technical Writer** perform final reviews
+  - Changes after <time datetime="16:00">4 pm UTC (11 am ET / 8 am PT)</time> on the Monday of release week will be done via the `release-X-Y` branch and are subject to approval by the Release Post Manager.
+  - The TW Lead verifies the deprecations and removals links in the release post
+  - RPM create a [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users) MR
+Note: The Monday through Tuesday of release week can fall on vacations or holidays. PMs should designate who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are empowered to make decisions and [display bias for action](https://about.gitlab.com/handbook/values/#bias-for-action) if they haven't received a response by EOD on the Tuesday of release week.
+{: .note}
+
+#### Thursday, release day
 
 - **Release team** publishes the latest package
 - After the package is [released](/handbook/engineering/releases/), the **Release Post Manager** publishes the release post to the  master branch
@@ -115,9 +188,42 @@ Release Post Managers will need [Maintainer](https://docs.gitlab.com/ee/user/per
 
 ### Release Post Manager
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Release Post Manager](#release-166-and-onwards---release-post-manager).
+{: .alert .alert-gitlab-orange}
+
 Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of this opportunity to demonstrate their leadership skills, we also value that managers will bring their experience to the role.
 
 Before committing to the date of your choice, please be sure you can perform the critical path Release Post Manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md). If you cannot perform any of the Release Post Manager tasks between the 15th and the 22nd of the month, please sign up for a release post that better aligns with your availability.
+
+To assign yourself as Release Post Manager or Release Post Manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle leveraging this [tracking doc](https://docs.google.com/spreadsheets/d/12tFW2nOqZ7Cxm0T-WKZVHmPdZNPtkS6fdIvLwvWVLLc/edit#gid=0):
+
+1. Members that never managed a release post before
+1. Members that have the longest interval since they managed their last release post
+
+After joining the company, there is a grace period of a few months where the new Product Manager
+will get up to speed with the process, then they will be scheduled to manage a release post.
+
+Adding members to the list is a shared task, and everyone can contribute by following the
+principle described above. Scheduled people are pinged in the merge request to make them aware.
+They don't need to confirm or approve, since they can always update the list if they are not
+available for the given release post.
+
+<i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
+**Important**: if you're scheduled for a given month and you can't make it because you're on
+vacation, overloaded, or for any other reason, that is okay, **as long as you swap the
+Release Post Manager role** with someone else **before** creating the merge request and starting the
+whole process. If you take it, you're responsible for the entire process and must be
+available to carry it out until the end.
+{:.alert .alert-warning}
+
+#### Release 16.6 and onwards - Release Post Manager
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Release Post Manager](#release-post-manager).
+{: .alert .alert-gitlab-orange}
+
+Product Managers of any level (IC or managers) can volunteer for any release that doesn't have someone assigned yet. While we encourage IC product managers to take advantage of this opportunity to demonstrate their leadership skills, we also value that managers will bring their experience to the role.
+
+Before committing to the date of your choice, please be sure you can perform the critical path Release Post Manager tasks between 1 week before release, on Thursday, and the [release date](/handbook/engineering/releases/) of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md). If you cannot perform any of the Release Post Manager tasks between 1 week before release, on Thursday, and the [release date](/handbook/engineering/releases/) of the month, please sign up for a release post that better aligns with your availability.
 
 To assign yourself as Release Post Manager or Release Post Manager's shadow, simply add your name on the [Release Post Scheduling page](managers/) by submitting an MR to update the `/data/release_post_managers.yml` file. Otherwise, PMs will be assigned using a fair scheduling principle leveraging this [tracking doc](https://docs.google.com/spreadsheets/d/12tFW2nOqZ7Cxm0T-WKZVHmPdZNPtkS6fdIvLwvWVLLc/edit#gid=0):
 
@@ -175,6 +281,9 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 
 ### Critical path tasks
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Critical path tasks](#release-166-and-onwards---critical-path-tasks).
+{: .alert .alert-gitlab-orange}
+
 - Completing all the tasks assigned to the Release Post Manager in the Release Post MR template
   - Reminder: If you cannot perform any of the Release Post Manager tasks between the 15th and the 22nd of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please start a thread in #product in slack and tag `@justin`.
 - Working with VP of Product to identify the top feature to highlight on the release post page
@@ -185,7 +294,25 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
   - Doing a sync retro with the Technical Writer, the Technical Advisor and the Release Post Manager Shadow sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
   - Making sure all the action of the retrospective issue are completed and the issue closed before the next [release post automation task runs on the 3rd](#release-post-branch-creation-rake-task)
 
+#### Release 16.6 and onwards - Critical path tasks
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Critical path tasks](#critical-path-tasks).
+{: .alert .alert-gitlab-orange}
+
+- Completing all the tasks assigned to the Release Post Manager in the Release Post MR template
+  - Reminder: If you cannot perform any of the Release Post Manager tasks between 1 week before release, on Thursday, and the [release date](/handbook/engineering/releases/) of the month as defined in the [monthly MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md), it is recommended you sign up for another release post. In the case that schedule/circumstances changes after you'd already signed up for the release post, please start a thread in #product in slack and tag `@justin`.
+- Working with VP of Product to identify the top feature to highlight on the release post page
+- Creating the What's New MR and working with the VP of Product to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
+- Sending out reminders about upcoming due dates
+- Merging the release post MR on the [release date](/handbook/engineering/releases/) and ensuring the release post page goes live
+- Collecting feedback in the release post retrospective issue during the release post not just for your own challenges, but other team members challenges as they pop on Slack and other places
+  - Doing a sync retro with the Technical Writer, the Technical Advisor and the Release Post Manager Shadow sometime between the day after the [release date](/handbook/engineering/releases/) and one week after the [release date](/handbook/engineering/releases/), to identify and collaboratively complete actions to improve the process and update the handbook/MRs
+  - Making sure all the action of the retrospective issue are completed and the issue closed before the next [release post automation task runs on the 3rd](#release-post-branch-creation-rake-task)
+
 ### Other key tasks
+
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Other key tasks](#release-166-and-onwards---other-key-tasks).
+{: .alert .alert-gitlab-orange}
 
 - Running a weekly sync or async standup with the release post team (sync standup required for major releases)
 - Reviewing and supporting overall content quality and accuracy of all content published in the release post
@@ -199,6 +326,26 @@ The responsibilities of a technical advisor can be seen in more detail in [Techn
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
 - Working with PMs and others as needed to make sure any external blogs they reference in their content blogs go live before the release post blog gets published on the 22nd
 - Making sure the TW Lead is aware if release post items are added or removed after the 18th
+- Informing the social team that the release post has been published and it's time to schedule social media posts
+- Supporting on tasks specific to [major releases](#major-releases) if collaborators reach out
+
+#### Release 16.6 and onwards - Other key tasks
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Other key tasks](#other-key-tasks).
+{: .alert .alert-gitlab-orange}
+
+- Running a weekly sync or async standup with the release post team (sync standup required for major releases)
+- Reviewing and supporting overall content quality and accuracy of all content published in the release post
+- Including the Release Post Manager Shadow as much as possible on activities so they learn prior to their rotation
+- Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
+- Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
+- Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
+- Making sure the release post is **ready to merge two days before the [release date](/handbook/engineering/releases/)**
+- [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the [release date](/handbook/engineering/releases/)
+- If you need additional support in engaging with the community, the Developer Evangelism team ([#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days)
+- Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
+- Working with PMs and others as needed to make sure any external blogs they reference in their content blogs go live before the release post blog gets published on the [release date](/handbook/engineering/releases/)
+- Making sure the TW Lead is aware if release post items are added or removed after the Monday of release week
 - Informing the social team that the release post has been published and it's time to schedule social media posts
 - Supporting on tasks specific to [major releases](#major-releases) if collaborators reach out
 
@@ -403,9 +550,12 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 
 ### Reviewing, editing and updating merged content blocks
 
-After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. From the 22nd forward you should view the content blocks [on the blog](https://about.gitlab.com/releases/categories/releases/). It's important to check this page after the content block MR is merged because this page is LIVE to users and should be error free.
+After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. From the [release date](/handbook/engineering/releases/) forward you should view the content blocks [on the blog](https://about.gitlab.com/releases/categories/releases/). It's important to check this page after the content block MR is merged because this page is LIVE to users and should be error free.
 
 ### Adding, editing, or removing merged content blocks after the 18th and before the 22nd
+
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section `Release 16.6 and onwards - Adding, editing, or removing merged content blocks after the Monday of release week and before the release date`.
+{: .alert .alert-gitlab-orange}
 
 After the content assembly starts on the 18th of the month and before the 20th, adding any new or removing any merged release post items **must be coordinated with the Release Post Manager**.
 
@@ -413,7 +563,38 @@ This is necessary to allow them to assess the impact on the release post and coo
 
 Before pinging the Release Post Manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 20th, no late content blocks will be accepted.
 
+#### Release 16.6 and onwards - Adding, editing, or removing merged content blocks after the Monday of release week and before the [release date](/handbook/engineering/releases/) 
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Adding, editing, or removing merged content blocks after the 18th and before the 22nd](#adding-editing-or-removing-merged-content-blocks-after-the-18th-and-before-the-22nd).
+{: .alert .alert-gitlab-orange}
+
+After the content assembly starts on the Monday of release week and before the end of Tuesday of release week, adding any new or removing any merged release post items **must be coordinated with the Release Post Manager**.
+
+This is necessary to allow them to assess the impact on the release post and coordinate any necessary adjustments with the release post team (Tech Writer, PM, etc.). Failure to do so might result in your changes not being picked into the release post.
+
+Before pinging the Release Post Manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 20th, no late content blocks will be accepted.
+
 #### Requesting a new late addition after the 18th and before the 22nd
+
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section `Release 16.6 and onwards - Requesting a new late addition after the Monday of release week and before the release date`.
+{: .alert .alert-gitlab-orange}
+
+- Ping the Release Post Manager (RPM) in `#release-post` to request adding a new late addition for the release post, and wait for the RPM to give confirmation to proceed. New late additions are release post items that were created after content assembly has already run. The Release Post Manager will do their best to accommodate the request, but it is not guaranteed.
+- If the RPM approves the late addition, then PM and RPM will proceed by:
+  - PM edits the release post item MR and updates the target branch to be on the release post `release-X-Y` branch.
+  - PM [rebases](https://docs.gitlab.com/ee/topics/git/git_rebase.html#rebase-from-the-gitlab-ui) the release post item MR on top of `release-X-Y` branch.
+  - PM moves the RPI yml file and images from `/data/release_posts/unreleased` to `/data/release_posts/x_y/`.
+  - PM moves any images from `/source/images/unreleased` to `/source/images/x_y/`
+  - PM Ensure that the `image_url` field in the release post yml file points to the image file under `/source/images/x_y/`.
+  - PM requests a review of the release post item MR from the Release Post Manager and release post tech advisor. Quick action: `/assign_reviewer RP-manager`
+  - PM notifies release post team in the `#X-Y-release-post` Slack channel that the late addition has been requested with a link to the MR.
+  - The MR can be approved and merged by the Release Post Manager.
+- If the feature is primary and you had not previously added it to `features.yml`, you will need to create a second MR, branched from `master` to add the feature to `features.yml`. (`features.yml` should be merged to `master`, not the release post branch).
+
+##### Release 16.6 and onwards - Requesting a new late addition after the Monday of release week and before the [release date](/handbook/engineering/releases/) 
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Requesting a new late addition after the 18th and before the 22nd](requesting-a-new-late-addition-after-the-18th-and-before-the-22nd).
+{: .alert .alert-gitlab-orange}
 
 - Ping the Release Post Manager (RPM) in `#release-post` to request adding a new late addition for the release post, and wait for the RPM to give confirmation to proceed. New late additions are release post items that were created after content assembly has already run. The Release Post Manager will do their best to accommodate the request, but it is not guaranteed.
 - If the RPM approves the late addition, then PM and RPM will proceed by:
@@ -434,6 +615,27 @@ Before pinging the Release Post Manager, ask yourself if your content absolutely
 - The PM will remove the feature from `features.yml` on master.
 
 ### Adding, editing, or removing merged content blocks after the 22nd
+
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Adding, editing, or removing merged content blocks after the release date](#adding-editing-removoing-after-release-date).
+{: .alert .alert-gitlab-orange}
+
+You can make changes to the release post after it's live to make edits to feature content blocks.
+
+To edit a content block:
+
+1. At the bottom of the release post you wish to edit, select "Edit this page".
+1. Find and edit the relevant `.yml` file in the correct subdirectory. For example, to add or edit the example Widgets feature to the 14.6 release post, create or edit the `data/release_posts/14_6/widgets_example.yml` in an MR against `master`.
+
+   To remove the feature block, remove the file in your MR. Or to announce it in the next release post, move the file to the `data/release_posts/unreleased` folder.
+
+1. For review and approval, assign the current cycle's [Release Post Manager](/handbook/marketing/blog/release-posts/managers/) a Reviewer.
+
+To edit a deprecation, follow [Editing a deprecation announcement entry](#editing-an-announcement-entry).
+
+#### Release 16.6 and onwards - Adding, editing, or removing merged content blocks after the [release date](/handbook/engineering/releases/) {#adding-editing-removoing-after-release-date}
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Adding, editing, or removing merged content blocks after the 22nd](#adding-editing-or-removing-merged-content-blocks-after-the-22nd).
+{: .alert .alert-gitlab-orange}
 
 You can make changes to the release post after it's live to make edits to feature content blocks.
 
@@ -576,7 +778,7 @@ the relative path.
 blog posts. These links may be broken until the 21st, but should still be flagged by the TW Lead
 during the structural check so the Release Post Manager doesn't miss coordinating
 with authors of these external blogs to ensure they're live before the release post blog goes live
-on the 22nd.
+on the [release date](/handbook/engineering/releases/).
 {: .alert .alert-info}
 
 The Release Post is considered a special blog post instance, so should adhere to the Marketing
@@ -631,7 +833,7 @@ or both of them to the same post.
 
 ### Versioned documentation release
 
-When a new GitLab version is released on the 22nd, the Technical Writer who completed the release post structural check for the previous milestone sets up the release of the published documentation for that version.
+When a new GitLab version is released [every month](/handbook/engineering/releases/), the Technical Writer who completed the release post structural check for the previous milestone sets up the release of the published documentation for that version.
 
 For instructions, see the GitLab docs [monthly release process](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
 
@@ -691,9 +893,30 @@ The responsibilities of the Engineering Manager are documented in the
 
 ## Technical Advisors
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Technical Advisors](#release-166-and-onwards-technical-advisors).
+{: .alert .alert-gitlab-orange}
+
 Each month, the Release Post Manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time-sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This ensures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
 Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The Release Post Manager will reach out to the technical advisor on call via Slack in the `#dev-escalation` channel and then cross-post to the `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the Release Post Manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the 18th and the 22nd of the month**. The technical advisor is responsible for determining if further dev escalation should proceed.
+
+The good news is that the release post technical hurdles are often reasonably easy to troubleshoot for technical experts, which is why we're excited about this partnership!
+
+Below are the types of problems the Release Post Managers may need help with.
+
+- Triaging various [automations](#automation) and [technical aspects](#technical-aspects) of the release post
+- Triaging pipeline errors and suggest changes or provide a fix to related merge requests
+- Resolving merge conflicts with the release post
+- Identifying when to engage with other technical teams to resolve upstream problems
+
+### Release 16.6 and onwards Technical Advisors
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Technical Advisors](#technical-advisors).
+{: .alert .alert-gitlab-orange}
+
+Each month, the Release Post Manager may need help with technical hurdles during the release post process. In order to provide the release post, which is a time-sensitive and highly visible asset for customers and users, with adequate technical advisement and support, we are piloting a partnership with the GitLab development team to leverage the [Dev Escalation process](/handbook/on-call/#development-team-on-call-rotation) via the Slack `#dev-escalation` channel as an extension. This ensures that at all times, if something breaks that the release post team can not resolve themselves, they have access to technical experts for resolution. It is recommended that technical advisors review the documented [technical aspects](/handbook/marketing/blog/release-posts/#technical-aspects) of the release post for reference, and the [escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
+
+Please note that unlike other monthly volunteers of the release post, the technical advisor is not expected to follow the release post process at all times. The Release Post Manager will reach out to the technical advisor on call via Slack in the `#dev-escalation` channel and then cross-post to the `#release-post` channel for transparency that issues are being worked on. It is then expected that the technical advisor will respond to the Release Post Manager or release post DRI as soon as possible, including evenings/weekends, as the release post asks are often time sensitive, **especially between the Monday of release week and the [release date](/handbook/engineering/releases/) of the month**. The technical advisor is responsible for determining if further dev escalation should proceed.
 
 The good news is that the release post technical hurdles are often reasonably easy to troubleshoot for technical experts, which is why we're excited about this partnership!
 
@@ -747,7 +970,17 @@ Following your best judgement with the following:
 
 ## Incident Response
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Incident Response](#release-166-and-onwards---incident-response).
+{: .alert .alert-gitlab-orange}
+
 Release post content assembly on the 18th and release post deployment on the 22nd are time sensitive with multiple dependencies across various departments. GitLab team members often voluntarily go out of their way to assist with blockers found during these two time-sensitive procedures, but it can be confusing as to who is doing what to resolve an active blocking incident. Some procedural detail to our response efforts is shown below.
+
+### Release 16.6 and onwards - Incident Response
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Incident Response](#incident-response).
+{: .alert .alert-gitlab-orange}
+
+Release post content assembly on the Monday of release week and release post deployment on the [release date](/handbook/engineering/releases/) are time sensitive with multiple dependencies across various departments. GitLab team members often voluntarily go out of their way to assist with blockers found during these two time-sensitive procedures, but it can be confusing as to who is doing what to resolve an active blocking incident. Some procedural detail to our response efforts is shown below.
 
 ### Response and Resolution SLOs
 
@@ -1609,6 +1842,9 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 ## Creating an MR for What's New entries
 
+This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards - Creating an MR for What's New entries](#release-166-and-onwards---creating-an-mr-for-whats-new-entries).
+{: .alert .alert-gitlab-orange}
+
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
 **"What's new" can be seen by clicking on the `?` icon in the navigation menu of GitLab and choosing "What's new."**
@@ -1638,6 +1874,41 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
 1. Open a duplicate MR and set the target branch to `X-Y-stable-ee` where `X-Y` aligns with the version released `X.Y`. Assign it to the same maintainer that merged the previous MR. This second MR ensures that any additional releases to version `X.Y` include this "What's New" update. If you have trouble, ask for help in `#mr-buddies` or refer to the [full process for backporting an MR](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md#gitlab-project).
 
 **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
+
+### Release 16.6 and onwards - Creating an MR for What's New entries
+
+This section is for release 16.6 and onwards. For release 16.5 and prior please see the previous section [Creating an MR for What's New entries](#creating-an-mr-for-whats-new-entries).
+{: .alert .alert-gitlab-orange}
+
+[Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
+
+**"What's new" can be seen by clicking on the `?` icon in the navigation menu of GitLab and choosing "What's new."**
+
+The What's New MR will be initiated by the Release Post Manager on the Tuesday of release week, finalized on the Wednesday of release week, and typically get merged by a `maintainer` 2 to 4 hours AFTER the release post is live on the [release date](/handbook/engineering/releases/). The exact timing of the merge depends on the availability of a `maintainer` to merge it**
+
+1. On the Tuesday of release week, the Release Post Manager creates the What's New MR.
+1. The RPM will pull all of the final/approved primary items in the release post to feature in  "What's New"
+    - The selected items can but do not have to align with the primary features of the release post. If the RPM feels comfortable making a unique selection, they may do so.
+    - It is recommended to strive for a balance of features available to both free and paid users. If we only include Ultimate features, non-Ultimate users may stop engaging.
+1. The Release Post Manager will create a new MR in the `gitlab.com/gitlab-org/gitlab` project
+   1. Use this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/data/whats_new/templates/YYYYMMDD0001_XX_YY.yml) to create a new file in the `gitlab/data/whats_new` directory.
+   1. Title the file as `YYYYMMDD0001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`.
+   1. Using the content that is in the release post items, duplicate the content for What's New.
+      1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
+      1. SaaS-only features need to use `[free, premium, ultimate]` in the What's New MR instead of `[free, silver, gold]` or `core` as is used in the release post items. We will streamline this discrepancy in the future, but for now, the RPM should update the values as necessary when creating the What's New MR.
+      1. Stage names are case-sensitive, so be sure that the stages are capitalized in order for the pipeline to pass.
+1. Images are not required, but encouraged when possible.
+   1. For videos, you will need to provide an image. For YouTube videos, you can use the image URL, which can be found by inserting the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`. For cases where a video thumbnail doesn't look great, consider using a generic image from [the `source/images/growth` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/growth).
+   1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`.
+   1. If an image is not available, you can use a generic image (ex: `https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png`) or omit the image_url.
+   1. Before committing the MR, [check the YAML with a validator](https://jsonformatter.org/yaml-validator).
+1. Add the ~"documentation" label.
+1. Apply the affiliated release `milestone` (it's ok if it says "expired") and labels `whats new` and `release post`.
+1. On the Tuesday of release week, when the MR is ready for review, assign `@justinfarris` and VP Product `@david` as reviewers and `@mention` them in the MR to complete their review by the Wednesday of release week.
+1. After the release post is live and you have verified the images load locally in GDK by pulling down the What's New branch, have the MR reviewed following our standard [code review process](https://docs.gitlab.com/ee/development/code_review.html) and have it merged by a `maintainer`. It is recommended to communicate directly to the maintainer that the MR is time sensitive to avoid unnecessary delays.
+1. Open a duplicate MR and set the target branch to `X-Y-stable-ee` where `X-Y` aligns with the version released `X.Y`. Assign it to the same maintainer that merged the previous MR. This second MR ensures that any additional releases to version `X.Y` include this "What's New" update. If you have trouble, ask for help in `#mr-buddies` or refer to the [full process for backporting an MR](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/process_new.md#gitlab-project).
+
+**IMPORTANT: The MR should not be merged until after the release post is live on the [release date](/handbook/engineering/releases/) or the images will not display.** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the day or two after the [release date](/handbook/engineering/releases/), depending on maintainer reviews.
 
 ## Related
 
