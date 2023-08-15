@@ -1,19 +1,30 @@
 {{ range .Site.Data.toc }}
 	<h3>{{ .name }}</h3>
 	<ul>
-		<li><a href="{{ .url }}">{{ .name }}</a></li>
-		{{ template "sublinks" (dict "links" .links) }}
+		{{ $u := urls.Parse .url }}
+		{{ $url := .url }}
+		{{ if not $u.IsAbs }}
+			<li><a href="{{ relref $.Page .url }}">{{.name}}</a></li>
+		{{ else }}
+		<li><a href="{{ $url }}">{{.name}}</a></li>
+		{{ end }}
+		{{ template "sublinks" (dict "links" .links "page" $.Page) }}
 	</ul>
 {{ end }}
 
 
 {{ define "sublinks" }}
 <ul>
-	{{ range .links}}
-		<li><a href="{{ .url }}">{{ .name }}</a></li>
-		{{ if .links }}
-			{{ template "sublinks" (dict "links" .links) }}
-		{{ end }}
+	{{ $page := .page}}
+	{{ range .links }}
+	{{ $u := urls.Parse .url }}
+	{{ $url := .url }}
+	{{ if not $u.IsAbs }}
+		<li><a href="{{ relref $page .url }}">{{.name}}</a></li>
+	{{ else }}
+	<li><a href="{{ $url }}">{{.name}}</a></li>
+	{{ end }}
+	{{ template "sublinks" (dict "links" .links "page" $page) }}
 	{{ end }}
 </ul>
 {{ end }}

@@ -8,7 +8,7 @@
       - name: History
         url: https://about.gitlab.com/company/history/
     - name: Values
-      url: /handbook/values/
+      url: values
     - name: Mission
       url: https://about.gitlab.com/company/mission/
     - name: Vision
@@ -16,80 +16,82 @@
     - name: Strategy
       url: https://about.gitlab.com/company/strategy/
     - name: Communication
-      url: /handbook/communication/
+      url: communication
       links:
-        - name: YouTube
-          url: https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/
-        - name: Zoom Webinars
-          url: https://about.gitlab.com/handbook/communication/zoom/webinars/
+      - name: YouTube
+        url: https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/
+      - name: Zoom Webinars
+        url: webinars
     - name: Culture
       url: https://about.gitlab.com/company/culture/
       links:
-        - name: All-Remote
-          url: https://about.gitlab.com/company/culture/all-remote/guide/
-        - name: Life at GitLab
-          url: https://about.gitlab.com/company/culture/#life-at-gitlab
-        - name: GitLab Contribute
-          url: https://about.gitlab.com/events/gitlab-contribute/
-        - name: Team
-          url: https://about.gitlab.com/company/team/
-        - name: Only healthy constraints
-          url: https://about.gitlab.com/handbook/only-healthy-constraints
+      - name: All-Remote
+        url: https://about.gitlab.com/company/culture/all-remote/guide/
+      - name: Life at GitLab
+        url: https://about.gitlab.com/company/culture/#life-at-gitlab
+      - name: GitLab Contribute
+        url: https://about.gitlab.com/events/gitlab-contribute/
+      - name: Team
+        url: https://about.gitlab.com/company/team/
+      - name: Only healthy constraints
+        url: only-healthy-constraints
     - name: TeamOps
-      url: https://about.gitlab.com/teamops/
+      url: teamops
     - name: CEO Readme
-      url: https://about.gitlab.com/handbook/ceo/
+      url: ceo
       links:
-        - name: CEO Shadow Program
-          url: https://about.gitlab.com/handbook/ceo/shadow/
-        - name: Cadence
-          url: https://about.gitlab.com/company/cadence/
-        - name: E-Group Offsite
-          url: https://about.gitlab.com/company/offsite/
-        - name: KPIs
-          url: https://about.gitlab.com/company/kpis/
-        - name: OKRs
-          url: https://about.gitlab.com/company/okrs/
-        - name: Pricing Model
-          url: https://about.gitlab.com/company/pricing/
+      - name: CEO Shadow Program
+        url: shadow
+      - name: Cadence
+        url: https://about.gitlab.com/company/cadence/
+      - name: E-Group Offsite
+        url: https://about.gitlab.com/company/offsite/
+      - name: KPIs
+        url: https://about.gitlab.com/company/kpis/
+      - name: OKRs
+        url: https://about.gitlab.com/company/okrs/
+      - name: Pricing Model
+        url: https://about.gitlab.com/company/pricing/
     - name: Creator pairing
       url: https://about.gitlab.com/handbook/engineering/fellow/shadow/
     - name: Chief of Staff Team to the CEO
-      url: https://about.gitlab.com/handbook/ceo/chief-of-staff-team/
+      url: chief-of-staff-team
     - name: Key Reviews
-      url: https://about.gitlab.com/handbook/key-review/
+      url: key-review
     - name: Group Conversations
-      url: https://about.gitlab.com/handbook/group-conversations/
+      url: group-conversations
     - name: E-Group Weekly
-      url: https://about.gitlab.com/handbook/e-group-weekly/
+      url: e-group-weekly
     - name: Sustainability
-      url: https://about.gitlab.com/handbook/environmental-sustainability/
+      url: https://about.gitlab.com/handbook/esg/
 - name: Handbook
   icon: fa-solid fa-book
-  url: /handbook/about
+  url: handbook
   links:
+  - name: About the Handbook
+    url: about
   - name: Handbook Preferences
-    url: /preferences
+    url: preferences
   - name: Handbook Changelog
-    url: /handbook/about/changelog
+    url: changelog
   - name: Handbook Roadmap
-    url: /handbook/about/roadmap
+    url: roadmap
   - name: Handbook Support
-    url: /handbook/about/support
+    url: /content/handbook/about/support.md
   - name: Handbook On-Call
-    url: /handbook/about/on-call
+    url: /content/handbook/about/on-call.md
   - name: Handbook Usage
-    url: https://about.gitlab.com/handbook/handbook-usage/
+    url: handbook-usage
   - name: Contribution Guide
-    url: /docs
+    url: docs
   - name: Practical Handbook Edits
     url: https://about.gitlab.com/handbook/practical-handbook-edits/
   - name: Edit This Website Locally
     url: https://about.gitlab.com/handbook/git-page-update/
   - name: Handbook Style Guide
     url: https://about.gitlab.com/handbook/style-guide/
-  - name: Content Websites Responsibility
-    url: /handbook/content-websites
+  - name: Content Websites
+    url: content-websites
 - name: People Group
   icon: fa-solid fa-people-group
   url: https://about.gitlab.com/handbook/people-group/
@@ -160,7 +162,7 @@
   url: https://about.gitlab.com/handbook/engineering/
   links:
   - name: Customer Support Department
-    url: /handbook/support/
+    url: /content/handbook/support/_index.md
   - name: Development Department
     url: https://about.gitlab.com/handbook/engineering/development/
     links:
