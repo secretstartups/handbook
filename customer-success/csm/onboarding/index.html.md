@@ -29,6 +29,8 @@ The onboarding process should begin when the [customer opportunity reaches stage
 
 The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition/). This will ensure the entire account team is clear on the customer's status, and the CSM can be properly introduced to the customer. This sync on the background of the account is **essential** and must happen before the CSM is on a call with the customer, so the CSM has the full background and the account team approaches the call as a united front, already understanding the customer goals and working towards achieving them.
 
+If a customer will be on Dedicated, the CSM should familiarize themselves with the [best practices for CSMs of Dedicated Customers](https://internal.gitlab.com/handbook/customer-success/csm/gitlab-dedicated/).
+
 ### CSM intro email and onboarding
 
 Digital programs will automate the Intro to GitLab CS program outlining what a CSM does, followed by the onboarding enablement emails for all CSM assigned customers, excluding PubSec. This will trigger for a customer when the onboarding playbook has been created. All emails come from a generic Customer Enablement GitLab email address, and each email is tokenized with the CSM name. Customers have the option to reply directly to the email which will email the CSM to schedule a call or ask questions. Each CSM will also be cc'd on all emails sent to their customers for visibility.

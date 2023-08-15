@@ -24,6 +24,8 @@ To determine if an account already has a CSM assigned, go to the Salesforce acco
 
 If you have questions about CSM alignment (either for existing or newly-qualifying customers), please reach out to the CSM Manager supporting that region (see this [handbook page](/handbook/customer-success/csm/csm-manager/#csm-leadership) for details).
 
+If a customer will be on Dedicated, the account team should notify the CSM Manager they work with and familiarize themselves with the [best practices for engaging CSMs for Dedicated Customers](https://internal.gitlab.com/handbook/customer-success/csm/gitlab-dedicated/) to get them engaged during the pre-sales process.
+
 ## Transition Quick Summary
 
 | | Commercial | Enterprise | 
