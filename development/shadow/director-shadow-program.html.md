@@ -17,7 +17,7 @@ As an [Development Director at GitLab](https://handbook.gitlab.com/job-families/
 Since the launch of the engineering director shadow program in September of 2021, Wayne has received great feedback from the shadows from various departments that have participated (marketing, professional services, development, and customer success).
 
 Some blogs from previous shadows:
-1. [My experience shadowing GitLab's Director of Engineering](https://www.linkedin.com/pulse/my-experience-shadowing-gitlabs-director-engineering-odumade%3FtrackingId=SzS7xzHtS%252FawqV2qAzDdGQ%253D%253D/?trackingId=SzS7xzHtS%2FawqV2qAzDdGQ%3D%3D) from [Olubunmi "Boomie" Odumade](https://www.linkedin.com/in/odumade)
+1. [My experience shadowing GitLab's Director of Engineering](https://www.linkedin.com/pulse/my-experience-shadowing-gitlabs-director-engineering-odumade) from [Olubunmi "Boomie" Odumade](https://www.linkedin.com/in/odumade)
 1. [My experience as a GitLab Hero in Developer Director Shadow Program ](https://siddharthasthana.dev/blog/my%20experience%20as%20a%20gitlab%20hero%20in%20developer%20director%20shadow%20program%20/) from [Siddharth Asthana](https://gitlab.com/edith007)
 1. [My experience shadowing an Engineering Director for a week](https://mkapade.medium.com/my-experience-shadowing-an-engineering-director-for-a-week-22971d9b4020) - [Mrunal Kapade](https://linkedin.com/in/mrunalk)
 1. [What I Learned as a Development Director](https://awkwardferny.medium.com/what-i-learned-as-an-engineering-director-shadow-at-gitlab-1a783cb564d0) - [@fjdiaz](https://gitlab.com/fjdiaz)
