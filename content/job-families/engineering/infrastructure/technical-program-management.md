@@ -40,7 +40,7 @@ The role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensa
 
 #### Intermediate Infrastructure Technical Program Manager Responsibilities
 
-All responsibilities listed above (applicalbe to all roles) plus:
+All responsibilities listed above (applicable to all roles) plus:
 
 - Define and manage the program scope, schedule, and budget
 - Develop and maintain program plans, status reports, and other project documentation
@@ -129,11 +129,11 @@ The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensa
 All responsibilities of previous roles plus:
 
 - Develop and implement strategies for program growth and expansion
-- Manage program budgets and financial reporting.
-- Expanded sphere of influence in driving Infrastructure initiatives across the company
-- Ownership and independently driving goals and objectives furthering the Infrastructure strategy and roadmap
-- Accountable and responsible for overflow responsibilities from senior Infrastructure leadership (VP and Director level)
-- Identify, define and implement Infrastructure programs across Infrastructure and the company
+- Contribute to technical program management budgeting and financial reporting artifacts
+- Expanded sphere of influence in driving Infrastructure initiatives across Engineering
+- Drive goals and objectives that results in further progress of the Infrastructure department roadmap and strategy
+- Accountable and responsible for overflow responsibilities from senior Infrastructure leadership (Sr.Director/Director)
+- Identify, define and implement Infrastructure programs across Infrastructure and Engineering
 
 #### Principal Infrastructure Technical Program Manager Requirements
 
@@ -141,7 +141,37 @@ All requirements of previous roles plus:
 
 - 10+ years of experience in technical program/project management or equivalent
 - Influence and implement change across the company
-- Speak to and represent GitLab to customers, vendors and other external stakeholders
+- Speak to and represent GitLab to customers and vendors
+
+### Distinguished Infrastructure Technical Program Manager
+
+This position reports to the Vice President of Infrastructure & Quality at GitLab.
+
+#### Distinguished Infrastructure Technical Program Manager Job Grade
+
+The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Distinguished Infrastructure Technical Program Manager Responsibilities
+
+All responsibilities of previous roles plus:
+
+- Define multi-year roadmap, strategy, and vision for the technical program manager team
+- Define headcount requirements and is accountable for headcount fiscal year plans
+- Own technical program budgets and any financial reporting artifacts
+- Expanded sphere of influence in driving Infrastructure initiatives across the company
+- Creates a measurable impact on the work of teams across the company
+- Takes a central role in decision making for technical, business, and organizational issues
+- Drive goals and objectives that results in further progress of the Infrastructure department and Engineering division roadmap and strategy
+- Accountable and responsible for overflow responsibilities from the VP of Infrastructure & Quality
+- Identify, define, and implement Infrastructure programs across Infrastructure, Engineering and the company
+
+#### Distinguished Infrastructure Technical Program Manager Requirements
+
+All requirements of previous roles plus:
+
+- 15+ years of experience in technical program/project management or equivalent
+- Influence and implement change across the company
+- Speak to and represent GitLab to customers, vendors and external key stakeholders
 
 ## Segment
 
