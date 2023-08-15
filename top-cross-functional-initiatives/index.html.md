@@ -63,7 +63,7 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Links: [Working group page](/company/team/structure/working-groups/fedramp-execution/), [Epic](https://gitlab.com/groups/gitlab-com-top-initiatives/-/epics/3)
    1. Quarter Started/Starting: FY23-Q1
 1. GitLab Dedicated
-   1. DRI / Sponsor: @rwedmore / @david
+   1. DRI / Sponsor: @fzimmer / @david
    1. Description: Offering a scalable single tenant SaaS solution.
    1. Links: [Direction page](https://about.gitlab.com/direction/saas-platforms/dedicated/), [Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479), [Team page](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
    1. Quarter Started/Starting: FY23-Q1
