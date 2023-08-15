@@ -119,6 +119,92 @@ Some people management tasks, including [Workday](/handbook/people-group/workday
 
 In the event that one or more team members become unavailable for any reason, this can serve as the foundation for a business continuity plan (BCP) and serve as a basic guide for Managing Engineering continuity.
 
+## Weekly updates
+
+The Govern development teams provide [weekly status updates](https://gitlab.com/groups/gitlab-com/-/epics/2126) using an issue template and CI scheduled job. 
+As priorities change, engineering managers update the template to include areas of interest. 
+
+An example template highlighting priorities, opportunities, risks, and security and availability concerns is: 
+
+<details markdown=1>
+<summary>Weeky update template</summary>
+```
+<!-- 
+How to fill in this section. 
+
+- Be opinionated. There are no wrong answers, we want our counterparts to know what we are working towards, and let us know if that doesn't align with their goals.
+- Summarize - just enough information to provide an overview and to start a discussion
+
+Priorities: A subset of the highest priority projects the group is working on - these could include Shared OKRs, Product priorities for Development, other initiatives (Development led, Development OKRs). List with links to epic/issue/work item. Should only include work that is currently scheduled (not a roadmap).
+
+Risks: (One line) summary and link to discussion (epic/issue).
+
+Opportunities: What we could do differently to mitigate risks and ensure delivery of priority projects. 
+
+Work in progress: (One line) summary and link to planning issue, workflow board, epic/issue list.
+-->
+## How to use this issue
+
+Engineering Managers to provide status updates, to be shared with product counterparts and both product and engineering leadership for discussion.
+
+<!--<details>-->
+<summary>Copy this section into a new thread for your group</summary>
+
+## Department: Group 
+
+### Priorities
+
+<!-- Include to any relevant OKRs, or key roadmap deliverables -->
+
+1. ...
+
+
+### Risks 
+
+1. ...
+
+### Opportunities 
+
+1. ...
+
+### Work in progress
+
+1. ...
+
+### Error Budget,  Security & Reliability
+
+1. Error Budget
+   - ...
+
+1. Security Issues
+   - ...
+
+1. Reliability Issues
+   - ...
+<!--</details>-->
+
+### Updated (by EOD Monday)
+
+- [ ] Govern: Security Policies
+- [ ] Govern: Threat Insights
+- [ ] Govern: Compliance
+- [ ] SSCS Working Group
+- [ ] Quality Engineering
+
+#### After last update 
+
+- [ ] Add comment `cc at-mention team members here`
+
+<!-- App appropriate assignees, epic, and labels
+/label  ~"workflow::in dev"
+/assign `@pcalder`
+/epic `epic-link`
+-->
+
+
+```
+</details>
+
 ## Links and resources
 
 <%= partial("handbook/engineering/development/sec/govern/shared_links.erb") %>
