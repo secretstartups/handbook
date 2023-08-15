@@ -217,21 +217,34 @@ Many of the Goals and reasoning is discussed in the [borrow request proposal](ht
 - [Agenda](https://docs.google.com/document/d/1096378pYfsF1NRmZttjalrciQejk-Au50K01xfPGyO4/edit)
 
 
-### GitLab Observability UI (previously known as Opstrace-ui)
+## Weekly Project Plan
 
-[GitLab Observability UI](https://gitlab.com/gitlab-org/opstrace/opstrace-ui) is a data-visualization library used to visualize metrics.  We intend to extend it to visualize logging and tracing data as these features are added to the platform. GitLab Observability UI is based on a version of Grafana prior to the license change from Apache to AGPL.  This approach was chosen for the following reasons:
+Epic: Design and Develop a new Tracing product https://gitlab.com/groups/gitlab-org/opstrace/-/epics/73
 
-* Apache License, Version 2.0: Enables the UI to be embedded in GitLab and used by companies without [concern](https://news.ycombinator.com/item?id=20112476).
-* Integration: Ease of integration and ability to embed in existing GitLab UIs.
-* Grafana Dashboard: Basic Grafana dashboard compatibility.
-* Innovation: The monitor and observability landscape for DevOps has evolved over the years with new user and business needs. Opstrace UI will allow for a unified experience around metrics, logs, traces and any other kind of observability event.
+**Week of 2023-08-14**
 
+- Begin Production Readiness review process in earnest
+- Complete Tracing details UI
+- [Complete Tracing to Beta](https://gitlab.com/groups/gitlab-org/opstrace/-/epics/78)
 
-#### GitLab Observability UI related issues, videos, and resources
+**Week of 2023-08-21**
 
-1. [GitLab Observability UI Repo](https://gitlab.com/gitlab-org/opstrace/opstrace-ui)
-1. [Blog Post announcement](https://opstrace.com/blog/gitlabobsvervabilityui)
-1. [Community Forum FAQ](https://forum.gitlab.com/t/updates-on-opstrace-integration-into-gitlab-faq/67257)
+- Investigate adding more fields to traces/spans data
+- Make a public tracing demo project
+- Improve dev experience when developing tracing with local GDK
+
+**Week of 2023-08-28**
+
+- Research costs associated with running and maintaining Tracing capabilities
+- Add pagination to tracing list
+- Determine limits for usage and anti-abuse
+
+**Week of 2023-09-04**
+
+- Complete sidebar panel to tracing details UI
+- Finish Tracing Production Readiness review
+- Begin process of deploying to Production
+
 
 ## Dashboards
 
