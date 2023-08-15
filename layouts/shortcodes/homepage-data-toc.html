@@ -57,9 +57,10 @@
                 {{ $u := urls.Parse .url }}
                 {{ $url := .url }}
                 {{ if not $u.IsAbs }}
-                    {{ $url := (relref $.Page .url) }}
-                {{ end }}
+                    <a href="{{ relref $.Page .url }}" class="list-group-item list-group-item-action">{{.name}}</a>
+                {{ else }}
                 <a href="{{ $url }}" class="list-group-item list-group-item-action">{{.name}}</a>
+                {{ end }}
                 {{ end }}
             </div>
         </div>
