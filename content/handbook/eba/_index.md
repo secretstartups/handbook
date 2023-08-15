@@ -13,7 +13,7 @@ This page details processes and general guidelines specific to the Executive Bus
 | [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/) | **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)<br>Stella Treas (Chief of Staff)
 | [Engineering](https://about.gitlab.com/handbook/engineering/) | **Marisa Carlson**<br>Sr EBA  | Jörg Heilig (Interim CTO)
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO)
-| [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Dale Brown (Principal Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
+| [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Anita Mall**<br>Sr EBA | Craig Mestel (VP of Finance & Business Technology)<br>Jack Andrews (VP of Investor Relations)
 | [Legal](https://about.gitlab.com/handbook/legal/) | **Sharlene Seemungal**<br>Sr EBA  | Robin Schulman (CLO and Head of Corporate Affairs)
 | [Legal](https://about.gitlab.com/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (Sr. Director of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (Sr. Director of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Robert Nalen (VP of Legal Operations)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
