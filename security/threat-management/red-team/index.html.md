@@ -26,21 +26,22 @@ Further details can be found in the [job family description](https://handbook.gi
 
 ## What the Red Team Does
 
+### Stealth Operations
+
+Stealth operations are our default and preferred way of working. They provide the most realistic opportunity for GitLab to practice responding to real world attacks. During a stealth operation, only a small group of GitLab team members are aware of the details.
+We call these people "trusted participants", and they help keep operations safe and productive.
+
+Stealth operations are not a contest. If our Red Team completes an objective undetected, we can offer recommendations to improve our detections. If we trigger a response, we've validated that detection capability in a realistic scenario and allowed the team to work through the same processes they would use when responding to real-life attacks. Both of these scenarios provide valuable feedback to the organization.
+
+These operations require [special rules](./red-team-roe.html#stealth-operations). Examples of techniques we may use and those we will specifically avoid can be found in [Stealth Operation Techniques](./red-team-roe.html#stealth-operation-techniques).
+
 ### Purple Team Operations
 
 We use the term "*Purple Team*" to describe an open collaboration between our defensive security folks (aka our "Blue Team") and our offensive security folks (aka our "Red Team"). Red + Blue = Purple. When the Purple Team performs an operation, the work is visible to all GitLab team members. This includes building adversary profiles, discussing hypothetical attack and defense scenarios, and emulating attack techniques in our environment.
 
-You can read more about this process in [Purple Teaming at GitLab](purple-teaming/), and you can contribute, comment, view, or interact with us on Slack in the `#purple-team-ops` channel where we discuss ongoing purple-team operations.
+A stealth operation may be converted to a Purple Team operation after the Red Team has been uncovered. Or, we may plan from the beginning to conduct an operation in the Purple Team style.
 
-Building efficient and understandable processes for our operations that work for us and the teams we collaborate with is important.  However, given the need, we will prioritize collaboration with our peers over the processes and tools we have in place.  We feel this allows us to best suit the needs of the teams we work with and the organization as a whole.
-
-### Stealth Operations
-
-Other operations may be less visible, with only certain team members aware of the details. These operations provide the most realistic opportunity for GitLab to practice responding to real world attacks. To avoid ambiguity, we will refer to these as "Stealth Operations".
-
-Stealth operations are not a contest. If our Red Team completes an objective undetected, we can offer recommendations to improve our detections. If we trigger a response, we've validated that detection capability in a realistic scenario and allowed the team to work through the same processes they would use when responding to real-life attacks. Both of these scenarios provide valuable feedback to the organization.
-
-These operations require [special rules](./red-team-roe.html#stealth-operations) to stay safe and productive. Examples of techniques we may use and those we will specifically avoid can be found in [Stealth Operation Techniques](./red-team-roe.html#stealth-operation-techniques).
+You can read more about this process in [Purple Teaming at GitLab](purple-teaming/).
 
 ### Open Scope Work
 
