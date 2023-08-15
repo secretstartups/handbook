@@ -17,6 +17,16 @@ The Competitive Intelligence function at GitLab has two primary constituencies (
 
 **Sales Team**: Another GitLab core value is **[results](/handbook/values/#results)**.  Sales is a key constituency that helps GitLab achieve results.  Hence parts of the Competitive Intelligence material is targeted at helping our sales teams effectively sell to our prospects, thereby delivering value that fulfills the customer's business needs.
 
+## Team Charter
+
+The competitive intelligence team brings timely and insightful analysis of competitors' actions to help guide the actions and direction of GitLab. 
+
+- We work cross-functionally to help improve the feedback loop of turning insight into action, using competitive data to better inform key departments with the aim of improving our product for our customers. 
+- We work both on the front lines, empowering our sales teams with better tools to help dismantle competitors' narratives, and with the highest levels of seniority, guiding strategic direction to help anticipate market movements.
+- We measure our win and loss reasons, surfacing, triaging, and helping to solve key weaknesses, while ensuring we celebrate our strengths
+- We use strategic information to proactively inform senior leadership across the company to help guide company strategy, and to ensure GitLab is a market and thought leader as the DevSecOps platform of choice
+- We take timely information from the market and use it to guide our assessment of how GitLab should act, react and consider our competitors
+
 ## Comparison Assets - Externally-facing
 
 All our comparison assets - pages that compare other vendor products with GitLab are found in the **[DevOps Tools Landscape page](https://about.gitlab.com/devops-tools/)** and the **[DevOps Maturity Comparison chart](/competition/)**
@@ -104,16 +114,6 @@ In order to mitigate the risk associated with Win/Loss communications, the follo
 | The Clozd business owner, @jkempton, manually sends the contact information to Clozd upon validating the two prior sub-bullets |
 
 
-## Account-Specific Support
-
-This section is for members of the Sales organization who need support with a competitive situation with one of your customers. We can support you. The first step is to create an issue using the Account-Specific Competitive Support template. We will respond asynchronously within this issue, ideally within 2 business days. Here are the steps:
-
-1. [Click here](https://gitlab.com/gitlab-com/marketing/strategic-marketing/competitive-intelligence/-/issues/new?issuable_template=Account%20Specific%20Competitive%20Support%20Request) to start a new issue with the Account Specific Competitive Support Request template
-2. Fill in the issue title as described in the issue description
-3. Complete the issue description in as much detail as possible
-4. Save the issue
-
-
 ## The Comparison Process
 
 At GitLab, anyone can contribute to the Competitive Intelligence process.   We strive to meet the following goals.
@@ -149,10 +149,12 @@ Comparison's at a deep level are challenging and time consuming.  We'd like to a
 
 ## Where we are headed
 
-Comparisons at a feature level are a great first step and they form the basis for higher level comparisons.  Customer's ultimately are interested in specific Use Cases and Capabilities that help them solve business problems.  We are working on building on the feature level comparison foundation to showcase how customer defined use cases are accomplished using GitLab and how it compares to other offerings.  Stay tuned for more updates on this.
+- Expanding our internal competitive content, including building on the work of our exisiting competitor cards, from both platform and DIY DevOps competitors, but also on key trending topics such as AI. For more feature-by-feature comparisons we will be leveraging the internal knowledge of our product teams to ensure we are keeping information as up to date as possible
+- Improving our insight into our win/loss data and enhancing our strategic guidance accordingly
+- Refocusing our externally-facing competitive content in line with our marketing strategy.
 
 ### Strategy
-For each use case-competitor scenario the goal of Competitive Intelligence will be to provide a complete set of assets and other deliverables that enable sales teams to compete and win.
+The goal of the Competitive Intelligence team will be to provide a complete set of assets and other deliverables that enable sales teams to compete and win.
 The diagram below captures the overall approach.  The idea is that for each use case-competitor with the exception of the strategy document (hosted in Crayon), all other resources should generally be publicly accessible.  This is in keeping with GitLab value of Transparency.
 
 ![Competitive Framework](compintel-strategy.png)
