@@ -26,20 +26,29 @@ title: Individual Use Software
 - If you have any questions, please reach out to the Procurement team through the #procurement Slack channel.
 
 ## Pre-Approved Individual-Use Software Requests
-- See below for a listing of individual-use software that has been vetted and pre-approved by [Third Party Risk Management](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#risk-acceptance-process). Access requests associated to pre-approved software can bypass Security review. 
+- GitLab's Security Risk team evaluates software requests upon submission to determine the level of risk that may be associated with it's usage. Commonly requested software that has been reviewed and approved by Security Risk is documented below and is subject to the listed pre-approval windows listed. See the [Third Party Risk Management Handbook Page](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) for more information on these procedures. Access requests associated to pre-approved software can bypass Security review. 
 - To get an access request for pre-approved software, please submit a request through this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfWp2lnSKp0gTKBfZxol-YEkTst4gtOYpRJQvnVvDzhcGuxwg/viewform). This is necessary to obtain manager and budget approval.
+
+Software listed in the below table is subject to Security Risk's 12-month approval window. Once this window has passed, the software will need to undergo a new review to ensure continued adherence to GitLab's Security requirements.
 
 | Application | Data Classification | Pre-Approval Expiration | Notes and Restrictions |
 | ------ | ------ | ------ | ------ |
-| Adobe Acrobat Pro | Orange | 06/28/2023 | N/A |
+| Gitpod | Orange | 07/14/2023 | N/A |
+| Krisp.ai | Orange | 08/03/2024 | Usage of the AI transcription feature and connection with GitLab calendar are **not** approved. See settings recommendation [here](https://docs.google.com/document/d/1HLqzG7Xg71-lyoBy-DM-AyH8h_aeMpdE7lKhNT31H3E/edit).|
+
+In some cases, software is reviewed and determined to be of particularly "low" risk to GitLab data. As such, this software's approval period may be extended to 24-months, or indefinitely if the data shared is limited to Green or Yellow data as defined in the Data Classification Index. Determination on the extension of the approval period is made at the discretion of the Security Risk team in support of team member enablement, with consideration to the types of data transmitted or the amount of data transmitted. 
+
+| Application | Data Classification | Pre-Approval Expiration | Notes and Restrictions |
+| ------ | ------ | ------ | ------ |
+| Adobe Acrobat Pro | Orange | 06/28/2024 | N/A |
 |Alfred Powerpack|Green|N/A| Base application only, does not apply to Alfred Workflows or Alfred Remote |
 |Brain.fm|Green|N/A| Base application only |
 | Burp Suite Professional | Green | N/A | N/A |
 | Calendly | Orange | 01/03/2024 | N/A |
-| Clockwise | Orange | 8/16/2023 | N/A |
+| Clockwise | Orange | 8/16/2024 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
-| Gitpod | Orange | 07/14/2023 | N/A |
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
-|Microsoft Office- Home & Business|Green|N/A| Approval applies to the offline version only. Usage of Microsoft Outlook is not approved. Microsoft Office 365 is not approved.|
+|Microsoft Office - Home & Business|Green|N/A| Approval applies to the offline version only. Usage of Microsoft Outlook is not approved. Microsoft Office 365 is not approved.|
 | Parallels Desktop Pro | Green | N/A | Approval applies to Parallels Desktop only, not to the optional "Parallels Toolbox" utilities that can be installed separately. |
-| Krisp.ai | Orange | 08/03/2023 | Usage of the AI transcription feature and connection with GitLab calendar are **not** approved. See settings recommendation [here](https://docs.google.com/document/d/1HLqzG7Xg71-lyoBy-DM-AyH8h_aeMpdE7lKhNT31H3E/edit).|
+
+_Is there an application you'd like to have included in the pre-approved software listing? Please reach out to @Security-Risk in the #Procurement channel._
