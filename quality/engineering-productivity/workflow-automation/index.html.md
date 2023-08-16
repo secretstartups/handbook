@@ -42,9 +42,9 @@ Examples:
 
 Group G is merging into group B, where B is an existing group label. Required actions:
 
-1. Migrate all resources labeled with group A by applying `group::B` and removing `group::A`.
-2. Deprecate the [group::A label](https://gitlab.com/groups/gitlab-org/-/labels?search=group::A) by appending `[DEPRECATED]` to the title, update the label description and schedule a date for removal.
-3. Running on-off label migration is necessary because Group B already exists, so we cannot simply rename group::A to group::B.
+1. Migrate all resources labeled with group G by applying `group::B` and removing `group::G`.
+2. Deprecate the [group::G label](https://gitlab.com/groups/gitlab-org/-/labels?search=group::G) by appending `[DEPRECATED]` to the title, update the label description and schedule a date for removal.
+3. Running on-off label migration is necessary because Group B already exists, so we cannot simply rename group::G to group::B.
 
 #### Group changing Stage or Category
 
@@ -52,9 +52,9 @@ Example:
 
 - [Update CI Variables from pipeline authoring to pipeline security](https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/2053)
 
-Group G used to belong to stage S, and was responsible for category C. After the structure changes, group G became a part of stage SS, and is responsible for category CC. Required actions:
+Group G used to belong to stage S, and was responsible for category C. After the structure changes, group G became a part of stage T, and is responsible for category CC. Required actions:
 
-1. Find all resources labelled with Group G, remove `devops::S` and `Category:C`, and add `devops::SS` and `Category:CC`
+1. Find all resources labelled with Group G, remove `devops::S` and `Category:C`, and add `devops::T` and `Category:CC`
 
 ### How to Run Label Migrations
 
