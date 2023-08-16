@@ -25,7 +25,7 @@ canonical_path: "/company/team/structure/working-groups/gcp-partnership/"
 
 | Topic | GCP | GitLab |
 | --- | --- | --- |
-| CI/CD | David Jacobs | Jackie Porter |
+| CI/CD | Patrick Faucher | Jackie Porter |
 | Artifact & Metadata | Rishi Mukhopadhyay | Tim Rizzi |
 | Onboarding | Patrick Faucher | Omar Fernandez |
 | Design/UX |  | Pedro Moreira da Silva |
