@@ -88,13 +88,12 @@ Adoption timeline: 1 months after license purchase
 |                       | **Red** | **Yellow** | **Green** |
 | --------------------- | ------- | ---------- | --------  |
 | [Git Operations - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) / `Billable Users` | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
-| [Merge Requests Created - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/60dda716679ae92aa368633bdee597b8fa57984f/config/metrics/counts_28d/20210216175132_i_code_review_user_create_mr_monthly.yml) / `Billable Users` | < 10% | 10% - 30% | > 30% |
 
 This looks to all active users who performed any `Git operation` (read/write/push) / `Billable Users` 
 
 ##### **Green Adoption Criteria:** 
 
-Due to equal weighting and Gainsight's defined scoring ranges, both measures are required to be Green for an overall Green Score, which translates into `≥50%` for `Git Operations`, as well as `>30%` for `Merge Requests Created` by the `Billable Users`.
+When 50% or more Billable Users have triggered a Git Operation (Read/Write/Push), then SCM is considered adopted. 
 
 ### Continuous Integration (CI)
 
