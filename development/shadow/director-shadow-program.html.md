@@ -147,9 +147,8 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| August 14  |  Available | |
 | August 21  |  [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
-| August 28  |  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
+| August 28  |  Available |
 | September 4|  Not Available | |
 | September 11 |  Available     |       |
 | September 18 |  Available     |       |
@@ -160,7 +159,7 @@ No, not at this time.
 | October 23 |  Available | |
 | October 30 |  Available | |
 | November 6 |  Available | |
-| November 13|  Available | |
+| November 13|  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
 | November 20|  Not available | |
 | November 27|  Available | |
 | December 4 |  Available | |
