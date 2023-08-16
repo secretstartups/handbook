@@ -16,7 +16,7 @@ You can access this short course in [LevelUp here](https://levelup.gitlab.com/ac
 
 ### Exploring Neurodiversity 
 
-#### [Defining Neurodiversity via Linkedin Learning](https://www.linkedin.com/learning/hiring-and-supporting-neurodiversity-in-the-workplace/defining-neurodiversity?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2255073)
+#### [Defining Neurodiversity via Linkedin Learning, by Tiffany Jameson](https://www.linkedin.com/learning/hiring-and-supporting-neurodiversity-in-the-workplace/defining-neurodiversity?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2255073)
 
 I speak to many organizations all around the world. When I talk about neurodiversity, most have never even heard of the word, so let's start there. Neurodiversity is an umbrella term for individuals who cognitively process differently than what society considers the norm. 
 
