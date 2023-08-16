@@ -78,6 +78,8 @@ Required to "extend" a subscription:
 
 - **Subscription name**: The name of the existing (active or expired) subscription tied to the namespace.
 
+> Note: When a new trial is created, it has the default trial values (30-day, ultimate, 400 compute quota), so you need to re-run "Update GitLab Plan" again with the requested values.
+
 ### Clear Subscription
 
 Unlink a group from a subscription. Note: The group will be downgraded to Free if the subscription being unlinked is a Premium or Ultimate subscription or trial.
