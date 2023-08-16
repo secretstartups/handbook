@@ -34,6 +34,10 @@ As a member of the [Security Assurance](/handbook/security/security-assurance/) 
 1. [Continuous Monitoring of GitLab's Security Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
    * [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
    * [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)](https://about.gitlab.com/handbook/security/Information-System-Contingency-Plan-ISCP.html) testing
+1. Industry and Regulatory Monitoring and Insights
+   * Monitoring drafts and changes to relevant laws, executive orders, directives, regulations, policies, standards, and guidelines.
+   * Collaborating on responses to relevant RFIs, RFQs, RFPs, and requests for public comment.
+   * Monitoring changes government contractual language that could impact public sector security and compliance posture.
 
 Some of our work is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) for now. Please see the [internal handbook](https://internal.gitlab.com/handbook/engineering/fedramp-compliance/) to find out more about what our team is working on, or reach out to us.
 
