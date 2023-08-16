@@ -90,7 +90,13 @@ This is a set of general recommendations for automating the monitoring processes
 
 ### Response 
 
-* When possible and appropriate, our team will engage experts to respond to the community. This direct feedback from the DRIs is [appreciated by members of the wider GitLab community](https://news.ycombinator.com/item?id=26261479). It also allows the DRIs and experts to better understand community sentiment and get direct feedback from our community. 
+* When possible and appropriate, our team will engage experts to respond to the community. This direct feedback from the DRIs is [appreciated by members of the wider GitLab community](https://news.ycombinator.com/item?id=26261479). It also allows the DRIs and experts to better understand community sentiment and get direct feedback from our community. To identify the DRIs for a specific feature, follow these steps: 
+  * Search Google for the docs page that corresponds to the feature in question 
+  * Scroll to the bottom of the docs page for the feature
+  * At the bottom of the page, click the "View page source" link 
+  * After the file opens in your browser, review the top of the file to see the stage/group that owns the feature
+  * Search for that feature, group, or stage on the [Product sections, stages, groups, and categories](https://about.gitlab.com/handbook/product/categories/) page
+  * Contact the PM or other appropriate DRI in a public Slack channel whenever possible to raise the visibily of the question allowing others to engage should the DRI be unavailable 
 * If necessary, the Developer Evangelists will provide responses to community questions and concerns on the GitLab Forum, Hacker News, and other forums. 
 * If a post about GitLab reaches the front page of Hacker News, we may use a Zoom room and Google Doc to collaborate on responses in synchrously. We will link to the Zoom room and Google Doc in the Slack thread or channel where the situation is being discussed or the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B).
 * The Developer Evangelism team will rarely engage in responding on Twitter and other social media channels during these announcements and breaking news situations. Twitter, Facebook, and LinkedIn are primarily owned by the Social Media team in these situations.  
