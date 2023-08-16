@@ -131,7 +131,7 @@ If a security change request will impact **a particular Security sub-department 
 The CAB Review is designed to provide leadership oversight and approval of high risk changes, such as [comprehensive](#comprehensive-change) or [emergency](#emergency-change) changes. 
 
 * As part of the weekly CISO direct reports sync, Security Department leadership will conduct a CAB Review of any open comprehensive or emergency change requests. The CAB will document its meeting notes [here](https://docs.google.com/document/d/1pDJhcJqisT0asamHjYhCZISBgjY6pkKjamcUNZWsItY/edit#heading=h.xtpxk32mfdtd).
-* A member of the CAB will also add a comment to the open change request issue(s) noting the outcome of their review.
+* A member of the CAB will also add a comment to the open change request issue(s) noting the outcome of their review, along with one of the [CAB labels](https://gitlab.com/gitlab-com/gl-security/security-change-management/-/labels?subscribed=&search=CAB%3A%3A).
 
 ## Exceptions
 
