@@ -43,7 +43,7 @@ If you determine that a meeting is needed to move a project forward, address a b
 ### Pre-work and meeting kick-off
 
 1. Pre-read/watch or pre-work materials should be emailed to attendees at least 24 hours in advance.
-1. The meeting host ([DRI](/handbook/people-group/directly-responsible-individuals/)) may summarize key points and context for the first 1 to 2 minutes of the meeting, but [meetings should not be presentations](/handbook/communication/#no-presenting-in-meetings). 
+1. The meeting host ([DRI](/handbook/people-group/directly-responsible-individuals/)) may summarize key points and context for the first 1 to 2 minutes of the meeting, but [few meetings should be presentations](/handbook/communication/#few-meetings-with-presentations).
 1. Questions should be [written](/handbook/values/#write-things-down) and listed in advance of the scheduled meeting time; this tends to increase the quality of questions.
 
 ### Notetaking and structure during the meeting
