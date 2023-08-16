@@ -99,7 +99,7 @@ I get many email on which I am only cc'd on, I would very much appreciate if you
 
 ### Presentations and slide decks
 
-Share slide decks in advance of meeting with me per [no presenting in meetings]({{< ref "communication#no-presenting-in-meetings" >}}) communication guideline. I can be tagged in a relevant Slack channel.
+Share slide decks in advance of meeting with me per [few meetings with presentations]({{< ref "communication#few-meetings-with-presentations" >}}) communication guideline. I can be tagged in a relevant Slack channel.
 
 When sharing slides with me, limit the content on each slide to one concept. Avoid condensing multiple concepts into one slide. Additionally, the slide title should be specific to the content on that slide. For example, instead of condensing two lists onto one slide, separate the lists onto two separate slides with slide titles specific to each list.
 
