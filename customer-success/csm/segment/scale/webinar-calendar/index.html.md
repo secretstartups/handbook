@@ -24,17 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Hands-On GitLab CI Workshop - !! FULL !!
-##### August 16th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_88A3DR0SQGCMELHH9OBsDQ)
-
-
-
 #### GitLab Administration on SaaS
 ##### August 22nd, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -64,16 +53,6 @@ In this workshop we will focus on how you can secure your application with GitLa
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uYuCYvuhTV-raOnUaPStlg)
 
 ### EMEA Time Zone Webinars
-
-#### Hands-On GitLab CI Workshop - !! FULL !!
-##### August 16th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CEST
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_RAZKEKEcTDW_jY4QC44riQ)
-
 
 #### GitLab Administration on SaaS
 ##### August 22nd, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
