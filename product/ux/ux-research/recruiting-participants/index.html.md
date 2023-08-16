@@ -146,7 +146,7 @@ The UX Research Operations Coordinator assigned to your project will select the 
 1. UserTesting.com - a third party recruitment tool (primarily used by Product Designers to self-serve)
 1. First Look Research Panel
 
-More detailed information on the above recruitment methods can be found [here](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/#recruitment-methods).
+Learn more about these [recruitment methods](/handbook/product/ux/ux-research-coordination/recruitment-methods/).
 
 #### Scheduling participants
 

@@ -10,7 +10,7 @@ description: "This page details information about the First Look panel used for 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-UX Research participant panels are common throughout the research industry and are used as a way to streamline the recruiting process for user research studies. **First Look** is our own panel of individuals who have volunteered to participate in research at GitLab. When teams generate research questions, the First Look panel is a potential [option](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/#recruitment-methods) that can be used to obtain user feedback. 
+UX Research participant panels are common throughout the research industry and are used as a way to streamline the recruiting process for user research studies. **First Look** is our own panel of individuals who have volunteered to participate in research at GitLab. When teams generate research questions, the First Look panel is a potential [option](/handbook/product/ux/ux-research-coordination/recruitment-methods/) that can be used to obtain user feedback. 
 
 Individuals can sign up for First Look by going to the [First Look page](https://about.gitlab.com/community/gitlab-first-look/) and filling out some basic information (for example, contact details, GitLab usage, and so on). We add these individuals to our existing database, which is maintained and updated over time by our UX Research Operations Coordinator. 
 
@@ -36,7 +36,7 @@ As of 2022-02-08, the panel currently contains the following types of potential 
 
 ### Is the First Look panel the **only option** to recruit participants?
 
-No, there are [multiple ways you can obtain participants](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/#recruitment-methods) for a research study. If you have questions about which option is right for your study, contact the UX Research Operations Coordinator or the UX Researcher assigned to your area.
+No, there are [multiple ways you can obtain participants](/handbook/product/ux/ux-research-coordination/recruitment-methods/) for a research study. If you have questions about which option is right for your study, contact the UX Research Operations Coordinator or the UX Researcher assigned to your area.
 
 ### Is the First Look panel the **preferred** recruiting option?
 
