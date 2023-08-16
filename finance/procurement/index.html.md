@@ -104,7 +104,52 @@ On the Zip homepage, click “New Requests” in the top right corner of the web
 #### General Information
 1. Description & Category
     - Provide a brief description of your purchase and be sure to select the correct category and subcategories as needed.
+       -  <details>
+          <summary>Submitting a Purchase Request for a Contractor</summary>
+
+          - A Contractor or an Independent Contractor (IC) is *an individual* (not an entity / business) who provides goods, labor, or services to an organization but is not employed by the business. Instead, they work with the business as or part of a third party. Instead of being hired through the talent acquisition process, a Contractor communicates directly with the manager for the project and submits a competitive bid to be hired. 
+          - For GitLab purposes, a Contractor will likely communicate directly with the Procurement Team initially for onboarding and regarding the terms of the contract and the statement of work. Contractors set their own schedules and are responsible for arranging their own training and covering the costs of training. The specific test of whether someone is an “employee” or truly meets the definition of a “Contractor” depends on the law of the jurisdiction where the Contractor is located. For example, in California, a worker is by default considered an employee, unless the hiring entity meets all three conditions of the ABC Test:
+
+          1. The person is independent of the hiring organization in connection with the performance of the work, both under the contract for the performance of the work and in fact.
+          2. The person performs work that is outside the hiring entity’s business
+          3. The person is routinely doing work in an independently established trade, occupation, or business that is the same as the work being requested and performed.
+
+          *NOTE:* All requests for an Independent Contractor should include the requestor and/or Procurement asking if the potential Independent Contractor has a company under which they will, (i) receive payment(s), or (ii) enter into terms and conditions with GitLab for the delivery of services. GitLab's preference is to enter into a business-to-business relationship with all vendors. 
+          
+          For GitLab procurement process purposes, the term Independent Contractor (IC) is used when the ICSA form is required for completion and the IC is separate (independent) from a Third Party Professional Services vendor. If you have any questions on the definition or when to use the applicable contracts/terms, please reach out to Procurement in the Procurement slack channel.
+
+          #### How to Submit a Zip Request for a Contractor
+
+          1. Before submitting a Zip request for a Contractor:
+             1. Confirm you have internal approval from FP&A and your management to hire a Contractor and that this role is (i) not currently being performed by a GitLab Employee or (ii) there is not an open headcount position for this role.
+             2. Confirm the potential Independent Contractor does not own / operate a business or entity which should be used to enter into applicable terms and conditions
+             3. If the Contractor requires access to GitLab [Orange or Red data](https://internal.gitlab.com/handbook/security/data_classification/), a [background screening](https://about.gitlab.com/handbook/people-policies/#background-screenings) and subsequent Zip approval must be obtained from PeopleOps. Additionally, access to Orange or Red data requires [appropriate security measures](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#independent-contractors) are in place. As such, a GitLab laptop must be issued followed by a Zip approval from IT Ops validating laptop issuance.
+             4. If the Contractor requires [GitLab equipment](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/a97ab3e71d08b55aea70f119caf5d41689ae9549/sites/handbook/source/handbook/finance/procurement/index.html.md#security-approval-requirements-for-contractors-consultants)(i.e. has access to Orange or Red data), the Zip purchase requisition will need to be submitted 10 days in advance of the normal approval [timeline](https://about.gitlab.com/handbook/finance/procurement/#-how-long-does-it-take-to-approve-my-zip-purchase-request) to account for ordering and shipping of the equipment. [Certain locations](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/127746#note_1497241068) will require IT Approval before providing the equipment. If you are unsure if the IC will require GitLab equipment, please reach out to the #it_help channel in slack.
+                1. Lead times start once the purchase requisition has been fully approved and the PO is released. Please account for this time and the Zip [approval times](https://about.gitlab.com/handbook/finance/procurement/#-how-long-does-it-take-to-approve-my-zip-purchase-request) to determine how far in advance your Zip Request needs to be submitted prior to the IC’s start date.
+          2. Open Zip to submit your request for a contractor by selecting “Request a Purchase”
+             1. You must select the following to receive the required approvals:
+                1. Category = Consulting, Professional Services & Training
+                1. Subcategory = Consulting fees
+                1. Commodity = Consulting fees
+             2. In the Professional Services section, the type of contract required is determined by the “How is this contractor being hired?” question
+                1. For Contractors hired through a Third Party Professional Services Vendor, for example: Upwork, select “Contractor hired through a 3rd Party Professional Services Vendor”. These types of requests will require a governing Agreement and Statement of Work
+                1. For Independent Contractors, as defined above, select “Contractor hired directly and independent of a 3rd Party (requires ICSA completion)”. These types of requests require the [ICSA template](https://docs.google.com/document/d/1KDkv6oWv6V-6k9v5GhjF7WPMoQJOV5iubCZzLGn7xfY/edit?usp=sharing) to be completed.
+                   1. Once this template is complete, you can download it and attach it to your Zip request.
+          3. The Zip Request will be reviewed by the applicable stakeholders
+          4. Once the Zip Request is approved, open and complete the [Individual Contributor Onboarding Issue](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues/new?issuable_template=orientation-issue)
+          5. If you need to extend the contract term of an IC, submit a [Zip Change Request](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request)
+          6. If you need to cancel / terminate the Contractor’s agreement earlier than the specified term, review the [Termination process](https://about.gitlab.com/handbook/finance/procurement/#termination) and reach out to the Procurement Team in the #procurement slack channel
+
+          *Contractors / Consultants that require Orange and Red Data access, that will be processed or stored outside GitLab's systems, are considered "Professional Services" and and are subject to a full security review. Please see the [Security Third Party Risk Management Handbook](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html) for more details.
+
+          </details>
+
     - “New” purchase would be any product or service that is brand new. “Renewal” would be any renewals or add-ons with an existing vendor.
+       - For New Software, Vendors will need to complete the [IT Questionnaire tab](https://docs.google.com/spreadsheets/d/17-NdZF0SeOS_b59XE9lLg9cuCD9iKKlO/edit#gid=392482466). IT request this information to perform a comprehensive assessment of applications against GitLab technology requirements. Please make a copy of this tab (if not filled out during a formal RFP), have vendor complete, and attach in the documents section of your Zip Request for IT review.
+          - If you have any questions regarding the IT Questionnaire, please contact the Enterprise Applications team in the _#enterprise-apps_ slack channel.
+    
+
+
 
 2. Will a virtual card be used to pay this vendor?
     - This applies to instances where the supplier only accepts online credit card payments. More info on allowed uses here (link to new Virtual Card page)
@@ -208,6 +253,7 @@ If your request meets any of the below criteria, add the additional time noted f
 ### PeopleOps Review: 1-4 Days
 - PeopleOps serve as reviewers on all professional services requisitions to determine if a background screening is necessary.
 - Per GitLab's [People Policies](https://about.gitlab.com/handbook/people-policies/#background-screenings) contractors are subject to complete a background screening. GitLab will accept a completed background screening from a contractor's employer. However, if a background screening was never conducted GitLab will either complete one or ask that one be completed. 
+- A background screening can be requested by opening an issue in the [Lifecycle Management](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues) project by using the `background_check_request` template.
 - Approval will occur once proof of a completed or an initiated background screening has been shared or once the contractor has submitted their background screening for processing.
 - The Sr. Background Check Specialist will only follow up if a result of concern returns on the background screening.
 - Questions and/or proof regarding background screenings on professional service requisitions in Zip can be sent to [backgroundchecks@gitlab.com](mailto:backgroundchecks@gitlab.com).
@@ -306,18 +352,19 @@ The procurement team is responsible for ensuring there is a process for vendors 
     - Vendor Renewal
     - Termination
 
-### Selection
+### Vendor Selection and RFP
 
 Please review the below guidelines:
 1. Review the market capabilities defined by your overall spend before selecting your vendor.
 2. Before sharing details and/or confidential information regarding GitLab business needs, obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/file/d/1kQfvcnJ_G-ljZKmBnAFbphl-yFfF7W5U/view?usp=sharing) from the potential vendor (s). Refer to the [Signature Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) for signing authority.
-3. Use a scorecard to compare vendor capabilities and/or response to RFP.
-    - [Supplier Evaluation Scorecard Template](https://docs.google.com/spreadsheets/d/1DLU8NvpX-ksTcoIDxTYansffCLpXGiPHQTZMgh5VUQk/edit#gid=781943083)
+3. Follow the RFP process outlined in the [internal handbook](https://internal.gitlab.com/handbook/finance/procurement/). You will find resources and templates for RFP events at any level, whether it is a quick bid or a full procurement-led RFP with 5+ vendors. Always reach out to your Procurement Cateogry Manager to notify them that an RFP is being conducted- they can assist in the process and can answer any questions.
+    - As part of this process, create an issue with the [RFP Intake template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new#) and tag your Category Manager.
 4. All vendors must adhere to the [GitLab Partner Code of Ethics](https://about.gitlab.com/handbook/legal/partner-code-of-ethics/). It is mandatory all vendors contractually adhere to this if they would like to do business with us. (Note these are typically not required in event related agreements unless the vendor is providing services).
-5. Identify your bid requirements based on your estimated spend. This applies to all new vendor spend, not existing suppliers:
-    - $0 - $100K: No Bid
-    - $101K - $250K: 2 -3 Bids
-    - Greater than $250K: RFP
+5. Identify your bid requirements based on your estimated spend. This applies to all new vendor spend and every 3 years for existing contracts:
+    - $0 - $25K: No bid required
+    - $25k - $100k: 2+ bids, business led quick-bid
+    - $101K - $250K: 2 -3+ Bids, business-led RFP
+    - Greater than $250K: 5+ bids, procurement-led RFP
 
 ### Contracting
 
@@ -416,11 +463,11 @@ Agreements, as GitLab does with its own customers, include obligations that vend
 ### Large Internal Events Process
 
 For any large internal events with a total cost greater than $1M, such as SKO, President’s Club, Commit, etc, the following should be completed before any contracts are executed or any work is conducted. The planning stages for events of this size should be completed at least 18-24 months prior to the actual event. This allows for ample time to get the necessary internal approvals, run any RFPs needed, and book large hotel blocks or buyouts.
-    -Connect with your Procurement Category Manager and FP&A Business Partner to determine the various vendors needed to run the event and line item detail in the total event budget. This would include lodging, food & beverage, event planning, on-site support, excursions, travel, etc.
-    -Determine with your Procurement contact how these vendors will be selected and the timeline to run any necessary RFPs. RFPs should be conducted at least 20 months prior to the event dates.
-    -Upon completion of RFPs, the top 2-3 location options and their total pricing will be presented to the E Group DRI (CRO/CMO) and VP of Finance to determine the preferred location choice and corresponding budget. All information should be summarized in an issue where these approvals may be documented.
-    -Once preferred location and budget are tentatively chosen, this information will be presented to the CFO for approval, and will then be presented to the Board for approval at their quarterly meeting, or via email as necessary. Please note that Board approvals may take multiple weeks. CFO and Board approvals should be obtained no less than 18 months prior to the event dates.
-    -After all executive approvals are received, the Zip request(s) should be created to document official approvals, obtain signatures on contracts, and release PO(s).
+    - Connect with your Procurement Category Manager and FP&A Business Partner to determine the various vendors needed to run the event and line item detail in the total event budget. This would include lodging, food & beverage, event planning, on-site support, excursions, travel, etc.
+    - Determine with your Procurement contact how these vendors will be selected and the timeline to run any necessary RFPs. RFPs should be conducted at least 20 months prior to the event dates.
+    - Upon completion of RFPs, the top 2-3 location options and their total pricing will be presented to the E Group DRI (CRO/CMO) and VP of Finance to determine the preferred location choice and corresponding budget. All information should be summarized in an issue where these approvals may be documented.
+    - Once preferred location and budget are tentatively chosen, this information will be presented to the CFO for approval, and will then be presented to the Board for approval at their quarterly meeting, or via email as necessary. Please note that Board approvals may take multiple weeks. CFO and Board approvals should be obtained no less than 18 months prior to the event dates.
+    - After all executive approvals are received, the Zip request(s) should be created to document official approvals, obtain signatures on contracts, and release PO(s).
 
 
 
@@ -449,7 +496,7 @@ For any large internal events with a total cost greater than $1M, such as SKO, P
 
 * [Home Office and Supplies](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
 * [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/)
-* [Vendor Selection Process](https://about.gitlab.com/handbook/finance/procurement/vendor-selection-process/)
+* [RFP and Vendor Selection Process](https://internal.gitlab.com/handbook/finance/procurement/)
 * [Vendor Terms and Conditions](https://about.gitlab.com/handbook/finance/procurement/vendor-guidelines/)
 * [Non-Disclosure Agreement (NDA)](https://about.gitlab.com/handbook/legal/NDA/#)
 * [Charitable Contributions](https://about.gitlab.com/handbook/finance/procurement/charitable-contributions/)
