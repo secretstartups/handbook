@@ -153,8 +153,21 @@ Once all that is in place, click the blue `Add webhook` button.
 
 #### Organization update
 
-Next, you will need to update the organization within Zendesk. You want to set
-the `Contact Management Project ID` field to have the project ID.
+Next, you will need to update the organization within Zendesk:
+
+- You want to set the `Contact Management Project ID` field to have the project
+  ID.
+- You want to set the `CMP Developers` field to have the developers we are going
+  to add to the project. This should be in a markdown list format. An example of
+  this would be:
+
+  ```markdown
+  - alice@example.com
+  - bob@example.com
+  - charlie@example.com
+  - dexter@example.com
+  - eggbert@example.com
+  ```
 
 #### Files setup
 
