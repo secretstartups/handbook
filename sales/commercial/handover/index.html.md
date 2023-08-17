@@ -7,10 +7,10 @@ description: "Overview of the SMB AMER Handover Scenarios and Process"
 
 ## AMER SMB Handover Scenarios & Process
 
-| | Expand | Pooled (Tier 1 Account)|Pooled (Tier 2/ 3 Account)|
-| ------ | ------ |------ |------ |
-| Sales Assisted FO | FO AE hands over to the Expand AE | Automated hand over and proactive reach out by Pooled AE  |Automated hand over, which commences a Low Touch digital journey|
-| Web Direct FO | FO AE hands over to the Expand AE | Automated hand over and proactive reach out by Pooled AE  |Automated hand over, which commences a Low Touch digital journey|
+| Order Type ↓ Team → | Expand                            | Pooled                                                           |
+| ------------------- | --------------------------------- | ---------------------------------------------------------------- |
+| Sales Assisted FO   | FO AE hands over to the Expand AE | Automated hand over, which commences a Low Touch digital journey |
+| Web Direct FO       | FO AE hands over to the Expand AE | Automated hand over, which commences a Low Touch digital journey |
 
 
 ### Sales Assisted FO to Expand AE
@@ -89,59 +89,13 @@ Once the FO AE has handed over the account via email, they are some keys steps t
 These customers have made it to a GitLab paid plan without ever speaking to someone in sales, so we should be completing discovery as a first step to understand what brought the customer here. Typically, customers have a preconceived notion of what GitLab does and aren’t aware of all of the great features included in what they just paid for. It’s important to share that with them at this stage to ensure they get off to a successful start.
 
 In this scenario an Expand AE should leverage the FYE Web Direct [report](https://gitlab.my.salesforce.com/00O8X000008Qg6r) so they can reach out to new customers to introduce themselves, and schedule time to discuss success planning. 
+ 
 
+#### Assisted FO & Web Direct to Pooled
 
-#### Sales Assisted FO & Web Direct FO to Pooled AE (Tier 1 Pooled Accounts only)
+All Pooled accounts go through a specific low touch digital journey, and will only speak to an AE when they ‘hand raise’, or we have identified that they required sales assistance.  Further info on this model can be found [here](https://about.gitlab.com/handbook/sales/commercial/pooled_model/). 
 
-Similar to the handover process between a FO AE and an Expand AE, it’s important to give the customer a seamless experience from the initial purchase to the implementation phase. 
-
-With that being said, any new Pooled Customer now has a team of Pooled AEs at their disposable, rather than 1 specific person.  Whilst Tier 2 & 3 Pooled Customers will go through a specific low touch digital journey, Tier 1 Pooled Accounts still need that personal touch.  
-
-As such, these customers will be automatically welcomed to the Pool by receiving the below email, and at the same time, be proactively reached out to by the Pooled AEs. 
-
-Welcome to GitLab - Let's Get to Work!
-
-Hi [Customer Name],
-
-Welcome to GitLab! So we can best support you, we’ve created a dedicated SMB Account Team purely focused on your success!
-
-Our team’s sole responsibility is to support you & your team as you continue to grow.  We are obsessed with ensuring you maximize the value of your subscription!  WIth that being said, when would a 15 minute connect work best for you? Please use this form to schedule a session with one of our SMB Account Executives.  We’d love to spend time with you to learn about your ideal state with GitLab & make sure you are set up for success!
-
-In the meantime, here are some helpful resources that you might want to bookmark:
-
-- How to [contact](https://page.gitlab.com/smbsales.html) your SMB Sales Team
-- GitLab [Customers Portal:](https://customers.gitlab.com/customers/sign_in)
-    - [Add seats](https://about.gitlab.com/pricing/licensing-faq/#can-i-add-more-users-to-my-subscription)
-    - [Renew your subscription](https://docs.google.com/document/d/1GvKxTGQo9e4h0AOcuBRhIRH5tI4vBCn0kK1ITCe39yY/edit)
-    - [Change personal or account details](https://docs.gitlab.com/ee/subscriptions/index.html#change-your-personal-details)
-    - [Update your payment method](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#change-your-payment-method) 
-    - [Raise a support ticket](https://support.gitlab.com/) (Before raising a support ticket, please [set up your named support contacts](https://about.gitlab.com/support/managing-support-contacts/))
-    - Technical webinar calendar
-
-We look forward to hearing from you!
-
-Pooled AEs should use the below report to identify new Tier 1 Pooled Accounts that need to be reached out to.  They are encouraged to set up an intro meeting via Chorus to introduce themselves and make sure the customer has been successfully onboarded.
-
-The AE should look to contact the new customer within 24 hours of the new customer Account being ranked.  The date the Account was ranked is visible in the Account Rank Notes History field. 
-
-[New Pooled Accounts to contact](https://gitlab.my.salesforce.com/00O8X000008Rmbg)
-
-Once they have reached out to these accounts, they must do the following;
-
-- Add the tag #POOLhandoff[Pooled AE Initials] to the AE Comments section on the Account record. E.g #POOLhandoffMS
-
-Since all Pooled Accounts are owned by the Pooled Sales User, this will ensure that the team knows if a new Tier 1 Pooled Account has been reached out to, and by whom.
-
-Once a Pooled AE has populated this field, they are free to work the Account and any subsequent renewal opportunity.  
-
-
-#### Assisted FO & Web Direct to Pooled AE (Tier 2/3 Pooled Accounts only)
-
-Tier 2 & 3 Pooled Accounts are those we have deemed not likely to expand, and do not warrant focus from a Pooled AE.  
-
-While the Pooled AEs will dedicate their time on Tier 1 accounts, Tier 2 & 3 accounts will go through a specific low touch digital journey, and will only speak to an AE when they ‘hand raise’.  
-
-Upon entering this Low Touch digital journey, they will be welcomed to the Pool via the below [email](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1918).
+Upon entering this Low Touch digital journey, customers will be welcomed to the Pool via the below [email](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1918).
 
 Welcome to GitLab -  Let's Get to Work!
 
@@ -165,16 +119,6 @@ Need technical assistance? Please contact customer support by submitting a case 
 Thank you for being a part of the GitLab community, 
 
 -Your GitLab Sales Team
-
-
-#### Appendix
-
-| AE | Calendly Link |
-| ------ | ------ |
-| Erin Barr | https://calendly.com/erinbarr/30min|
-| Dan Stetser | https://calendly.com/dstetser/30min|
-| Marlaina Baxter | https://calendly.com/marbaxter/30min|
-| Jacob Caggiano| https://calendly.com/jacobgitlab/30min|
 
 
 
