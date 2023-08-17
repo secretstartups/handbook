@@ -304,7 +304,8 @@ Models used to report on trials, subscriptions and charges.
 | --- | --- | --- | --- | --- |
 | legacy | [customers_db_charges_xf](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_charges_xf) | `rate_plan_charge_id` | This model first unions the 2 ephemeral models customers_db_charges_with_valid_charges and customers_db_charges_with_incomplete_charges which provides a clean list of all orders that have been created in the subscription portal and that can be linked to Zuora subscriptions and charges. |  Product Data Insights will use this model to calculate paid conversion analyses until customers_db_charges_xf is refactored using the TD framework. |
 | legacy | [customers_db_trial_histories](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.customers_db_trial_histories) | `gl_namespace_id`, `start_date`, `expired_on` | Historical table of namespaces with trials. |  |
-
+| restricted_safe_common_mart_sales | [mart_arr](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_arr) | `primary_key`, `arr_month`, `subscription_name` | Data mart to explore ARR. | `dim_subscription_id` column has the **latest** subscription ID for each subscription.  |
+| common | [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription) | `subscription_name`, `term_start_date`, `term_end_date` | Dimension table representing subscription details. | The data grain here is used to identify unique terms per subscription. |
 
 </details>
 
@@ -318,6 +319,12 @@ Models used to report on trials, subscriptions and charges.
 * Findings from Issue intended to [record differences between using legacy.customers_db_charges_xf vs common.dim_order_hist for namespace paid conv. analysis](https://gitlab.com/gitlab-data/product-analytics/-/issues/820#note_1227834945).
 
 * There are some known problems with our license to subscription mapping in SM and SaaS reporting. [Issue with more details](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/634). 
+
+* To understand active subscriptions, filtering [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription) on `subscription_status = 'Active'` is not sufficient as a subscription can have this status and be past its term end date. To understand active subscriptions at a given date, use the following filter: `subscription_status = 'Active' AND  term_end_date > CURRENT_DATE`. 
+
+* When a subscription is updated (example: seat addtions or changes to subscription settings) a new subscription version number is created per term which is reflected in `dim_subscription_id` in [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription). To understand each unique subscription version per term, the grain of [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription) is `dim_subscription_id`,`subscription_name`, `term_start_date`, `term_end_date`
+ 
+ * [dim_subscription](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription) reflects the latest greatest settings (example Cloud Licensing status) per subscription per term. To understand historical settings of subscriptions please refer to [dim_subscription_snapshot_model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.dim_subscription_snapshot_model)
 
 </details>
 
