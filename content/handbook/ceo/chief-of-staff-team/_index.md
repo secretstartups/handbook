@@ -23,6 +23,20 @@ Lead select cross-functional initiatives of importance to GitLab.
 
 - [`#ceo-chief-of-staff-team`][CoST-Slack] on Slack (GitLab Team Members only)
 
+### GitLab / Google Groups
+
+The CoST maintains a [GitLab Group](https://gitlab.com/groups/gitlab-com/ceo-chief-of-staff-team/-/group_members?with_inherited_permissions=exclude) and [Google Group](https://groups.google.com/a/gitlab.com/g/ceo-chief-of-staff-team/members) to ensure the appropriate level of access is granted or removed as team members join and leave the team. The following mapping of permission levels from GitLab Groups to Google Groups is being used:
+
+1. `Owner` -> `Owner`
+1. `Maintainer` -> `Manager`
+1. `Developer` -> `Member`
+
+As of 2023-08 there's no automatic syncing between these groups so CoST team members who have the appropriate permission level in each group should add or remove team members as they join and leave the team.
+
+#### GitLab Project
+
+The primary project used by the CoST to track work specific to our team is [CoS Team](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/cos-team). Please file issues here as needed to track work being done.
+
 ## Kinds of projects CoST to the CEO works on{#what-projects-does-the-cost-work-on}
 
 Given the cross-functional nature of the [Top Cross-Functional Initiatives](https://about.gitlab.com/company/team/structure/working-groups/#top-cross-functional-initiatives) and given these projects are important to the CEO, the CoST is often involved in these initiatives as needed and as team member workload permits.
