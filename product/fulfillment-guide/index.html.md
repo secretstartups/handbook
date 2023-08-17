@@ -408,6 +408,14 @@ The billing account is the representation of a billing entity which is mostly co
 1. In the desired billing account's detail view, click on `History`.
 1. You will see a list of all events and logs that happened to the billing account.
 
+#### See the Bill_To and Sold_To contact of a billing account
+
+1. Navigate to the desired billing account's detail view.
+1. Under ℹ️ `Show` you will find the `Bill_To` and `Sold_To` contact.
+1. Click on the desired contact if you want to find more information about it.
+
+**Note:** There can only be one `Bill_To` and one `Sold_To` contact associated to a billing account. They can be the same contact.
+
 #### See all invoices of a billing account
 
 1. In the desired billing account's detail view, click on `List Invoices`.
@@ -456,6 +464,57 @@ The billing account is the representation of a billing entity which is mostly co
 
 **Note:** Owed seat = Max seats used - seats in subscription.
 
+### Billing Account Contacts
+
+The billing account contact represents the billing account's contact details that are used to send invoices, notices, etc. Other information such as location based data is used for tax related calculations. A contact can be a `Bill_To` or a `Sold_To` contact (or the same if applied that way).
+
+There can only be one `Bill_To` and one `Sold_To` contact for a billing account. It is possible to use the same contact information (e.g. email address) over multiple billing accounts.
+
+#### Search for a billing account contact
+
+1. Navigate to `Billing account contacts` in the admin panel.
+1. Enter details of a billing account contact to search for in the empty text box. (E.g. name, email).
+1. Click on `Refresh` or hit `Enter` on your keyboard to initiate the search.
+1. You can refine your current search by clicking on `Add filter`.
+1. Select one or more additional filters that should be applied.
+1. Click on `Refresh` again.
+
+#### Update an existing billing account contact
+
+1. Navigate to the `Billing account contacts` section.
+1. Search for the needed billing account contact (e.g. using `email address`).
+1. Select the proper billing account contact and click on `Edit`.
+1. You can now choose to update:
+   - First name
+   - Last name
+   - Work email
+   - Address 1
+   - Address 2
+   - Country
+   - State
+   - City
+   - Postal code
+1. Click `Save`.
+1. The changes will be synced back to the corresponding Zuora contact immediately.
+
+#### Add new billing account contact to CustomersDot
+
+If a Zuora contact is not available in CustomersDot, but in Zuora, the contact can be added through the admin panel.
+
+1. Navigate to the `Billing account contacts` section.
+1. Click on `+ Add New`.
+1. Provide the `Zuora contact ID`.
+1. Click on `Save`.
+
+This will create a contact record in CustomersDot that is in sync with Zuora. This directly assigns all the billing account contact attributes from Zuora to the created contact.
+
+**Note:** It is possible that a contact doesn't have a `Billing account` attached in CustomersDot (e.g. if it does not exist in Customers Portal).
+
+#### View history of billing account contact changes
+
+1. In the desired billing account contact's detail view, click on `History`.
+1. You will see a list of all events and logs that happened to the billing account contact.
+
 ### Billing Acccount Memberships
 
 The billing account membership defines the relation between a customer and a billing account. The customer will be able to see the subscription in their Customers Portal account if there is a billing account membership with an active subscription.
@@ -489,7 +548,6 @@ Adding a new billing account membership between a customer and a billing account
 1. Click on the `GitLab Groups`.
 1. If the trial is expired and needs to be extended, click on the `Renew Trial` button.
 1. Change the trial date as necessary and click on `Update`. **Warning:** Do not change the date to a date prior to today's date in UTC timezone.
-
 
 ### Licenses
 
