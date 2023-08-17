@@ -168,7 +168,7 @@ Sick and carer's leave (also known as personal leave or personal / carer's leave
 
 Currently team members are entitled to 10 days of paid personal/carer’s leave for each year of continuous service for full-time team members and pro rata for part-time team members based on ordinary hours of work.
     - Personal/carer’s leave is cumulative and accrues progressively.
-    - This leave runs concurrently with GitLab's PTO policy.   
+    - This leave runs concurrently with GitLab's Sick Time policy.   
 
 *Eligibility:*
 
