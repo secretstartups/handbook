@@ -187,6 +187,26 @@ At-risk customer meetings are conducted on a regular basis across regions and at
 | APAC  | Bi-Weekly | CSM: Manager; Sales: AVP, ENT & COM ASMs |
 | Public Sector | Biweekly | VP of Customer Success, VP of Public Sector, Director of Customer Success, ASMs, CSM and Renewals Team Managers |
 
+#### Regional Review Agenda
+
+The regional at-risk meetings use a specified format, to ensure consistent action & alignment on at-risk customers globally:
+
+> For each cohort listed below, we will discuss the following details:
+> - What is the primary driver of risk?
+> - What do we need to accomplish to mitigate the risk?
+> - Next steps & ownership
+>
+> **Customer Cohorts**
+> 1. At-risk renewals in current FQ
+> 1. At-risk renewals in next FQ
+> 1. All At-risk customers above $100k ARR
+> 1. Any other customers that warrant discussion outside of those groups
+>
+> **Reports for review**
+> 1. [FQ At-Risk Accounts $100k ARR and Above](https://gitlab.my.salesforce.com/00OPL0000001spZ) [_Update linked report to one for your region_]
+
+The CSM Manager(s) within the region should drive the meeting, in collaboration with the Renewal Manager leadership and ASMs as appropriate for each customer. Discussion and action should be driven by the Salesforce report for the region, working from `At-Risk Update` details and Renewal Manager notes.
+
 ### Renewal Review
 
 At least twice-monthly the CSM Manager should review their region's dashboard for upcoming renewals and review questions such as:
@@ -198,6 +218,8 @@ At least twice-monthly the CSM Manager should review their region's dashboard fo
 1. Based on this analysis, what are my next steps for the customer's success and our Gross and Net Retention goals?
 
 The CSM Manager should then work with their CSM to ensure collaboration with the GitLab team (SAE/AE, SA, and CSM) for a successful renewal.
+
+This review also leads into the [regional review meeting](#regional-review-agenda) to ensure the right information and plans are documented.
 
 ## Renewal Resources
 
