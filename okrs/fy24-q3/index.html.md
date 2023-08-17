@@ -51,7 +51,11 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 
 ### 4. CEO: [Continue to build a diverse team of top talent that we retain and grow](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3727)
 1. **CEO KR**: [Decrease time to open net new roles by 50% and fill 95% of Q3 roles within 75 days from requisition opening date](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3737)
-1. **CEO KR**: [Complete three agreed upon initiatives that result from employee engagement survey feedback](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3738)
+1. **CEO KR**: [Complete three agreed upon initiatives that result from employee engagement survey feedback](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3738). Specifically:
+     1. Proactively share product and customer wins on a monthly basis
+     1. Update values training to ensure our values & ways of working remain in focus and are understood by all team members
+     1. Document and share outcomes from Q3 E-Group Strategy & LRO sessions to better highlight how resources will be allocated toward achieving company goals
+     
 1. **CEO KR**: [Graduate 50% of GitLab people managers from the Elevate program. Enhance program to ensure that GitLab values/unique way of working are referenced throughout the training modules or have a separate course](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3739)
 
 
