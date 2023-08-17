@@ -198,7 +198,7 @@ Please be aware that certain countries require a medical certificate, doctor's n
 
 Eligibility for GitLab's Sick Time policy will require team members to provide evidence, in accordance with local requirements, supporting the need for Sick Leave.
 
-Team Members should email the documentation to Absence Management team (leaves@domain).  If you choose to upload the evidence in BambooHR, please email leaves@domain and inform them that you have added it. 
+Team Members should email the documentation to Absence Management team (leaves@domain).  
 
 ## Communicating Illness-Related Leave
 
