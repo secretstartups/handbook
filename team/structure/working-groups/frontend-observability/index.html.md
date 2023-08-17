@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/frontend-observability/"
 | Property | Value |
 |-|-|
 | Date Created | 2021-07-14 (Paused from 2022-06-01 to 2023-02-24) |
-| End Date | TBD |
+| End Date | 2023-11-01 |
 | Slack | [#wg_frontend-observability](https://gitlab.slack.com/archives/C0265BTH1EV) (only accessible from within the company) |
 | Google Doc | [Working Group Agenda](https://docs.google.com/document/d/1GuW6_IyYgSTi6IFI2adc3lrOJTfVoATkF2maZ5lToqg) (only accessible from within the company) |
 | Overview & Status | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/6584) |
@@ -40,13 +40,12 @@ This group will not focus on instrumentation around user actions for product rea
 
 This working group will have fulfilled its purpose when:
 
-- [ ] The `@sentry/browser` package is upgraded automatically via renovate
-- [ ] Sentry is configured to track and report frontend errors reliably
-- [ ] Sentry is configured to monitor our performance with performance tracing
-- [ ] We have decided what client performance data to send to Prometheus
-- [ ] The aforementioned client performance data is sent to and tracked in Prometheus
-- [ ] A triaging / diagnosing process is created for sentry errors
-- [ ] Documentation is written that allows other frontend engineers to contribute
+- [ ] The `@sentry/browser` package is upgraded automatically via renovate [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/338816)
+- [ ] Sentry is configured to track and report frontend errors reliably [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339331)
+- [ ] Sentry is configured to monitor our performance with performance tracing [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339332)
+- [ ] A triaging / diagnosing process is created for sentry errors [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339334)
+- [ ] Documentation is written that allows other frontend engineers to contribute [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339335)
+- [ ] The old sentry settings are deprecated and removed [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/422407)
 
 ## Roles and Responsibilities
 
