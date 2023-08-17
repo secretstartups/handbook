@@ -113,13 +113,25 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
 1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/administration/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
 
+### North Star Metrics and Leading Indicators
+
+Partnering with cross-functional teams, the Data Team is defining metrics indicative of product adoption. These metrics are categorized as North Star Metrics and Leading Indicators.
+
+#### North Star Metrics
+A North Star Metric is a _single value_ that gives a high-level summary of product adoption. Each [Use Case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/#capabilities--use-cases) has one North Star Metric. A North Star Metric must meet three criteria:
+1. The metric must directly connect to the value that customers realize from a Use Case. Ideally, it measures a customer's _breadth_ and/or _depth_ of Use Case adoption.
+1. The metric must be available for a high proportion of customers and ARR.
+1. The metric must be easy to understand and explain. All else being equal, we prefer a simple metric to an aggregate or composite metric.
+
+#### Leading Indicators
+A Leading Indicator is a measure that impacts Use Case adoption, but is not comprehensive enough to be a North Star Metric. For example, a Leading Indicator might give insight into adoption of a single feature within a Use Case. Alternatively, a Leading Indicator can track any prerequisite activities that are required to unlock the primary value of a Use Case.
+
 ### Key Metrics, KPIs, and PIs
 
-1. [Data Mart - Metric Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0)
-1. [Event-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-1. [User-based Metrics](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
+1. [Gainsight Metric Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0)
 1. [Stage and Group Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/)
 1. [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
+1. [Use Case Health Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/#use-case-health-scoring)
 
 
 ### Metric Formats
@@ -160,13 +172,6 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 | Diagram/Entity                                                                                              | Grain | Purpose | Keywords |
 | ------------------------------------------------------------------------------------------------------------| ----- | ------- | -------- |
 | [Product Usage Data ERD](https://lucid.app/lucidchart/232217df-3928-4756-bab5-ff5d9e9f8e1d/view?page=AD~qmCVo1T~c#) |  All of the below | Shows all table structures, including column name, column data type, column constraints, primary key, foreign key, and relationships between tables.| Customer, Service Ping, Subscription, Seat Link, Self- Managed, SaaS, Product, Delivery, Accounts |
-
-
-#### Reference SQL
-
-| Snippet Library                                                                                                            | Description |
-| -------------------------------------------------------------------------------------------------------------------------- | -------- |
-| |  |
 
 ## Data Platform Solution
 
