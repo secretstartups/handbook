@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Monte Carlo Guide"
-description: "Monte Carlo Guide"
+title: "Gitlab.com SAAS Extract"
+description: "Gitlab.com SAAS Extract"
 ---
 
 ## On this page
@@ -16,7 +16,11 @@ description: "Monte Carlo Guide"
  
 # Source system / application / data pipeline name
 
+Gitlab.com SAAS
+
 ## Business Use Case (Please explain what this data will be used for):
+
+Data for reporting and analytics use cases like MR Rate & Performance KPIs (Product development), Product Usage for Gainsight, License Utilization (Customer Success), Product Health Dashboard (Health) Propensity to Expand and Churn Models, Forecast, Territory Management (Sales).
  
 ### Data information 
 
@@ -49,7 +53,6 @@ description: "Monte Carlo Guide"
 | Business users who need to be informed in case of data outage | See [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/Gitlab_DB_recreation_failure.md#slo-breach) | `N/A` |
  
 * Data access approval will be involved in the Access Request process and need to give approval if a GitLab team member applies for raw data access.
-
 
 ## Data pipeline (technical) description
  
