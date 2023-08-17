@@ -180,8 +180,8 @@ At-risk customer meetings are conducted on a regular basis across regions and at
 | Region/Territory | Cadence | Roles |
 |---|---|---|
 | Global CSM | Weekly; alternating biweekly for EMEA and APAC friendly times | VP of Customer Success, VP of CSMs, CSM Regional Directors and/or Managers, Director of Renewals |
-| AMER ENT West | Biweekly | CSM: Director, Managers; Sales: AVP, ASMs |
-| AMER ENT East | Biweekly | CSM: Director, Managers; Sales: AVP, ASMs |
+| AMER ENT West | Biweekly | CSM: Director, Managers; Sales: AVP, ASMs; Renewals: RM Manager |
+| AMER ENT East | Biweekly | CSM: Director, Managers; Sales: AVP, ASMs; Renewals: RM Manager |
 | AMER COM  | Weekly | CSM: Director, Managers; Sales: AVP, ASMs |
 | EMEA COM  | Weekly | CSM: Director, Managers; Sales: AVP, ASMs |
 | APAC  | Bi-Weekly | CSM: Manager; Sales: AVP, ENT & COM ASMs |
