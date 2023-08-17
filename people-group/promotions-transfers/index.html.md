@@ -367,16 +367,19 @@ This section describes the approval chain after the People Business Partner subm
 
 
 
-### For People Connect Team: Processing Promotions & Compensation Changes
+### For People Connect Team: Processing Promotions, Internal Transfers & Compensation Changes
 1. If the request is approved through Workday, the People Connect Team will create the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed. 
-1
-1. Notify Payroll of the changes. This can be done in the following google docs: United States: "Payroll Changes", Everyone else: "Monthly payroll changes for non-US international team members". Payroll does not need to be notified for Contractors.
-1. If the team member is employed in Canada, notify Total Rewards of the salary change (so they can update their salaries on Canada Life and Collage platforms).
+1. The People Connect Team member notifies Payroll of the changes by adding the relevant details to the applicable payroll sheet depending on the country under the 'Compensation' header and starting month tab
+- [Non-US payroll changes](https://docs.google.com/spreadsheets/d/1M_puIKHLWkHnVzOJ2MwjIpQ-mwxolae-LpT2VPlByv0/edit#gid=261391927)
+- [(US)Payroll Changes](https://docs.google.com/spreadsheets/d/1163qL1tIG32vAVUNNIbhnPnzkL5euPAD9DGlOaapTjY/edit#gid=1431873926)
+- [Canada Payroll Changes](https://docs.google.com/spreadsheets/d/1_jX0TuBarGHnvM3CL7n64ily9a7aV4himDREODk8Ddo/edit#gid=13386269)
+1. If there is a sales commission change: Add the details to the [Final Sales OTE sheet](https://docs.google.com/spreadsheets/d/1lyGxlNAdY4PLMKR31Zw46i7jpb8qfMovMJBUql8PfjE/edit?usp=sharing)
 
 #### Letter of Adjustment
 
 
-1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a letter of adjustment as per the steps mentioned below. For [PEO's](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), check if a notification to the PEO is required for the creation of a letter of adjustment. Currently only Remote Technology requires a notification to generate the letter of adjustment for their respective team members.  
+1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a letter of adjustment as per the steps mentioned below. If the team member is employed by a PEO notify the applicable [PEO](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity) either by email or for remote.com via their dashboard. See the People Connect 1password vault for contact details.
+1. Review the [Signature requirements per country](https://docs.google.com/spreadsheets/d/1L85i10rGZuECx-Wxe-lr9O5AaTN2iuD-oVQDAwKDeQ8/edit?usp=sharing) and process the letter of adjustment accordingly.
 1. Make a copy of the [Letter of Adjustment template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request. The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
@@ -387,19 +390,16 @@ This section describes the approval chain after the People Business Partner subm
     - For all other changes, the effective date should be the first of the current month if processed on or before the 8th of the month and the first of the next month if processed after the 8th of the month.
     - For example, if a GitLab Ltd team member has a change being processed on June 7, this would be effective June 1.
     - If the change was instead being processed on June 15, this would be effective July 1.
-1. Stage the letter in DocuSign and add the following team members to sign:
-    - Add radio button (Delete the additional one) for the `Total Rewards Analyst` to audit
-    - Add signature field for the Total Rewards Authorized Signatory
+1. If only the company stamp is required the letter should get emailed to the team member's manager to communicate the change
+1. If e-signatures are required stage the letter in DocuSign and add the following team members to sign via their GitLab email addresses:
     - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member by sharing the letter of adjustment during the 1:1 Zoom call and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel. 
     - Add signature field for the team member
     - Add sign date field for the team member
-    - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
-1. Once signed by all parties, save the letter to the respective team members [Documents Tab](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit) within their Workday Profile.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Connect Team members in the internal Promotions/Transfers spreadsheet tracker (using the `people-connect@gitlab.com` alias). Once the tracker is filled in, sort it by effective date.
-1. the People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+    - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Manager to process the letter without checking the tasks on the letters.
+1. Save the signed letter to the respective team members [Documents Tab](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit) within their Workday Profile.
+1. If the [here mentioned criteria](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue) for a Career Mobility Issue is met notify People Connect Specialists in the internal [Promotions/Transfers tracker](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=0) using the people-connect@gitlab.com alias. Once the tracker is filled in, sort it by effective date.
+1. The People Connect Team members will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 1. The previous manager will be prompted to create an [Access Change Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Access_Change_Request) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
-
-**Note** Letter of adjustment is sent to the team member's GitLab email address.  
 
 ## Interim and Acting Roles
 
