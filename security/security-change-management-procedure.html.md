@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Security Change Management Procedure"
-description: "Change management procedure for the Security Department."
+description: "Change management procedure for the Security Division."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -26,11 +26,11 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](/
 
 ## Purpose
 
-The purpose of this document is to outline the procedural change management steps as they relate to the Security Department.
+The purpose of this document is to outline the procedural change management steps as they relate to the Security Division.
 
 ## Scope
 
-This document applies to systems and applications owned by Security and processes owned by Security sub-departments.
+This document applies to systems and applications owned by Security and processes owned by Security Departments.
 
 **Note:** Changes related to user access and authorization should continue to be handled via the [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) process.
 {: .note}
@@ -93,7 +93,7 @@ An emergency change follows the same approval process as [comprehensive](#compre
 | **Post-Implementation Review** | Performed by a peer of the change Requestor and is intended to ensure the change is working as expected after the change has been implemented in Production. | No | Yes | Yes | Yes |
 | **Impacted Team(s) Management/Code Owner approval** | Approval by Management that is responsible for the particular system or application	| No |	Yes |	Yes |	Yes |
 | **Technical Owner Approval** | Approval by the system or application's Technical Owner as defined in the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). | No |	No | Yes | Yes |
-| **CAB Review** | Approval by Security Department leadership on the CAB | No | No | Yes | Yes |
+| **CAB Review** | Approval by [Security Senior Leadership](https://gitlab.com/gitlab-com/gl-security/security-senior-leadership) on the CAB | No | No | Yes | Yes |
 
 **Note:** Technical Owner approval is dependent upon the system or application already existing in the tech stack. For new systems or applications that have not yet been assigned a Technical Owner in the tech stack, the CAB review will be sufficient.
 
@@ -120,17 +120,17 @@ If a security change request will impact **all GitLab team members**, please ens
 
 **Be sure to communicate the change, its rationale, and its impact.**
 
-If a security change request will impact **all Security Department team members**, please ensure that you communicate the change and its impact by posting in `#security-team-only` before the work begins and after the change is completed.
+If a security change request will impact **all Security Division team members**, please ensure that you communicate the change and its impact by posting in `#security-team-only` before the work begins and after the change is completed.
 
 **Be sure to communicate the change, its rationale, and its impact.**
 
-If a security change request will impact **a particular Security sub-department or individual team members**, please ensure that you communicate the change and its impact in a manner appropriate for those impacted team members.
+If a security change request will impact **a particular Security Department or individual team members**, please ensure that you communicate the change and its impact in a manner appropriate for those impacted team members.
 
 ### CAB Review
 
 The CAB Review is designed to provide leadership oversight and approval of high risk changes, such as [comprehensive](#comprehensive-change) or [emergency](#emergency-change) changes. 
 
-* As part of the weekly CISO direct reports sync, Security Department leadership will conduct a CAB Review of any open comprehensive or emergency change requests. The CAB will document its meeting notes [here](https://docs.google.com/document/d/1pDJhcJqisT0asamHjYhCZISBgjY6pkKjamcUNZWsItY/edit#heading=h.xtpxk32mfdtd).
+* As part of the weekly CISO direct reports sync, Security Division leadership will conduct a CAB Review of any open comprehensive or emergency change requests. The CAB will document its meeting notes in the change management issue as a new comment.
 * A member of the CAB will also add a comment to the open change request issue(s) noting the outcome of their review, along with one of the [CAB labels](https://gitlab.com/gitlab-com/gl-security/security-change-management/-/labels?subscribed=&search=CAB%3A%3A).
 
 ## Exceptions
