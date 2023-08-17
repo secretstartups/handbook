@@ -94,20 +94,7 @@ sast:
     - gitlab-org-docker
 ```
 
-If a job requires the usage of Windows, it needs to be defined only in the context of the specific
-job with the `shared-windows` tag:
-
-``` yaml
-windows_job:
-  tags:
-    - shared-windows
-```
-
-If a job requires specific Windows version, use one of the following tags:
-- `windows-1809`
-- `windows-2004`
-- `windows-20H2`
-- `windows-21H1`
+If a job requires the usage of Windows, SaaS runners on Windows should be used. For the exact configuration please check the [SaaS runner on Windows documentation](https://docs.gitlab.com/ee/ci/runners/saas/windows_saas_runner.html#machine-types-available-for-windows).
 
 ### Publishing a Project
 
