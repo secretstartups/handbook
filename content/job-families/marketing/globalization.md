@@ -5,6 +5,110 @@ summary: Lead Gitlab’s go-to-market localization strategy, operations and tech
 
 ## Levels
 
+## Senior Globalization Enablement Manager
+
+The Senior Globalization Enablement Manager reports to the Director, Globalization & Localization.
+
+### Senior Globalization Enablement Manager Job Grade
+
+The Senior Globalization Enablement Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
+### Senior Globalization Enablement Manager Overview
+
+The Senior Globalization Enablement Manager oversees the production of multilingual content for global teams at GitLab that require translation and localization to fulfill the company's market growth goals.
+
+This role requires strong collaboration skills and experience in website localization, world readiness, and digital publishing practices and is responsible for executing and delivering as a part of a successful localization program that supports marketing, product, help documentation, and content optimization in non-English languages. This role works closely with global content managers and developers to define successful localization models and help technical counterparts iterate on automating work streams and making costs and time-to-market processes more efficient.  
+
+### Senior Globalization Enablement Manager Responsibilities
+
+- Drive localization projects to support market growth and global initiatives requiring localized content across the organization
+- Help define content strategies and localization roadmaps
+- Establish best practices for source and target language terminology, glossary, and translation memory management in partnership with the GitLab team and localization suppliers
+- Partner with product managers, country managers, marketers, support, developers and other stakeholders to plan coordinated localized releases
+- Assist with managing localization budget, forecasting, and escalations as needed
+- Ensure accurate project scopes and milestones, and resolve localization pipeline issues as they become known or impact our ability to deliver
+- Coordinate with suppliers, agencies, and freelancers on the successful execution of localization projects
+- Help organize the development of and maintenance of style guides, glossaries, and other documentation to safeguard the repeatability and consistency of localization efforts across multiple suppliers and internal contributors
+- Advise stakeholders on issues resulting from internationalization errors, cultural nuances, scheduling conflicts and interdependencies, and the prioritization of bug queues and backlogs
+
+### Senior Globalization Enablement Manager Requirements
+
+- Degree in localization, translation, international project management, or related work experience
+- Experience with managing projects that involve source and target files in top spoken languages around the world
+- Working knowledge of industry standard localization tools and enterprise translation practices
+- Able to work on a remote and globally distributed team
+- Excellent written and communication skills
+- Strong analytical problem-solving skills and the ability to navigate ambiguity toward resolutions pathways
+- Bias to action, proactive and innovative by nature
+- Strong attention to detail
+- Fluency in English, as well as fluency in the language required for the localized market GitLab is hiring in.
+- You share our values, and work in accordance with those values.
+
+### Career Ladder
+
+The next step in the Globalization Enablement Manager job family is not yet defined at GitLab.
+
+### Performance Indicators
+
+- Define, build, and maintain processes for driving globalization and localization projects across GitLab
+- Set expectations with our suppliers with respects to project turnaround time, quality, scalability, and alignment to stakeholder expectations
+- Parter with globalization technologist to develop a localization tech stack that serves team needs throughout GitLab
+- Manage the quarterly business review processes with our suppliers with an eye toward automation, constant improvement through collaboration, and experimentation
+- Help define KPIs for localization workflows in partnership with internal stakeholders, data teams, and suppliers
+- Where necessary, ensure that localization decisions align to performance related outcomes for particular content types
+
+## Senior Localization Content Manager
+
+The Content Manager reports to the Director, Globalization & Localization.
+
+### Senior Localization Content Manager Job Grade
+
+The Senior Localization Content Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+
+### Senior Localization Content Manager Overview
+
+The Senior Localization Content Manager is passionate about improving the user experience and market growth with properly localized and locally specific assets. This role will grow and develop the GitLab brand for the customer audience and play an essential part in ensuring GitLab's success in specific markets.
+
+### Senior Localization Content Manager Responsibilities
+
+- Define the content strategy for your market in close collaboration with regional stakeholders and the partner ecosystem, with particular emphasis on organic traffic and optimization for search (SEO)
+- Manage editorial calendar for your market and report regularly on the status and performance of projects to key stakeholders
+- Oversee a cadence of experiments with a focus on improving conversions, adoption, and growth
+- Identify, develop, and implement content opportunities across channels backed up with timely and informative reporting
+- Lead the work of outsourced suppliers and promote a positive environment for other team members that fosters collaboration on content development processes
+- Interface with regional executive management as needed to coordinate strategic efforts with both local and global teams
+- Participate in market research activities and develop ideas to improve the impact of content on our funnel performance
+- Asses, hire, and manage freelance translators and writers to scale and support your program
+- Help define and evangelize the GitLab brand with market specific style guides and other documentation on voice and tone to ensure a consistent content and product experience
+- Collaborate closely with teams dedicated to English content streams to ensure strategic alignment and that processes are followed where necessary
+
+### Senior Localization Content Manager Requirements
+
+- 3-5 years experience with content creation, localization, and copywriting, especially as pertains to the tech industry
+- Experience with all components of interdepartmental localized collateral, including product, marketing, and support
+- Able to manage the work of numerous suppliers, including copywriters, language services provider’s teams, and direct contractors
+- Experience overseeing the end-to-end in-language customer journey, with an eye toward UX and impact to business
+- Working knowledge of SEO best practices
+- Strong communication skills
+- Fluency in English
+- Deep understanding of market with an emphasis on local expectations and trends
+- Experience brining cross-functional teams together to accomplish global expansion goals.
+- Strong communication skills.
+- Fluency in English, as well as fluency in the language required for the localized market GitLab is hiring in.
+- You share our values, and work in accordance with those values.
+
+### Career Ladder
+
+The next step in the Localization Content Manager job family is not yet defined at GitLab.
+
+### Performance Indicators
+
+- Define, build, and maintain the holisitc in-language experience for your market
+- Build and manage a team of suppliers for providing the best in-language experience for customers
+- Speed and throughput of translation; % of on-time deliveries
+- Localization quality; average language quality scores
+- Where necessary, ensure that localization decisions align to performance related outcomes for particular content types
+
 ### Senior Manager, Globalization Technology
 
 The Senior Manager, Globalization Technology reports to the Director, Globalization & Localization.
@@ -42,7 +146,7 @@ The Senior Manager, Globalization Technology is passionate about the changing lo
 
 #### Career Ladder
 
-The next step in the Senior Manager, Globalization Technology job family is not yet defined at GitLab.
+The next step in the Globalization Technology job family is Director, Globalization & Localization.
 
 #### Performance Indicators
 
@@ -86,7 +190,7 @@ The Director, Globalization & Localization will lead Gitlab’s go-to-market loc
 
 #### Career Ladder
 
-The next step in the Director, Globalization & Localization job family is not yet defined at GitLab.
+The next step in the Globalization & Localization job family is not yet defined at GitLab.
 
 #### Performance Indicators
 
