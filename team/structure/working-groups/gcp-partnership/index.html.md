@@ -37,4 +37,4 @@ This is a cross-functional working group to establish a better together vision a
 ### Helpful links 
 
 1. Internal [Google Drive](https://drive.google.com/drive/u/0/folders/1OC7zdMWFkiRUD7psxYsNS8yikvQLwbh1)
-1. Internal GitLab [Project](https://gitlab.com/gitlab-com/alliances/google/gcp_gitlab-integration/)
+1. Internal [GitLab project](https://gitlab.com/gitlab-com/alliances/google/console-integration/)
