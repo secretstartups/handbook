@@ -48,6 +48,31 @@ The distribution team is comprised of two groups, Distribution:Build and Distrib
 - Secure configuration & communication
 - Research of clouds and platforms for integration to existing tools
 
+## Work prioritization
+
+Work to be completed by the Distribution team members who are not currently
+acting as the [Distribution DRI](#distribution-dri) is prioritized as follows:
+
+Priority level | Work item
+-|-
+1 | Unblock in-review `~priority::1` Merge Requests
+1 | Pick up `~priority::1` [Merge Requests for review][MR dashboard]
+1 | Work on in-progress `~priority::1` [Deliverable Issues][Deliverable board]
+1 | Pick up available `~priority::1` [Deliverable Issues][Deliverable board]
+2 | Unblock remaining in-review Merge Requests
+3 | Work on in-progress `~priority::2` [Deliverable Issues][Deliverable board]
+3 | Pick up [SLO-breaching][SLO] [Merge Requests for review][MR dashboard]
+4 | Pick up [SLO-near-breaching][SLO] [Merge Requests for review][MR dashboard]
+5 | Pick up available `~priority::2` [Deliverable Issues][Deliverable board]
+6 | Work on in-progress `~priority::3` [Deliverable Issues][Deliverable board]
+6 | Pick up available `~priority::3` [Deliverable Issues][Deliverable board]
+6 | Pick up [SLO-non-breaching][SLO] [Merge Requests for review][MR dashboard]
+7 | Work on in-progress `~priority::4` [Deliverable Issues][Deliverable board]
+7 | Pick up available `~priority::4` [Deliverable Issues][Deliverable board]
+
+Use this prioritization outline as a general guide when determining what to do each day. This list helps direct
+work toward overall team priorities and goals laid out by the team managers.
+
 ## Scheduled work
 
 Engineering manager and Product manager are responsible for scheduling
@@ -200,3 +225,8 @@ For new OS release, Distribution team aims to provide Linux package support per 
 | Debian LTS and minor release | within 3 milestones after OS release date |
 | All others minor release | within 3 milestones after OS release date |
 | All others major release | within 4 milestones after OS release date |
+
+
+[SLO]: https://about.gitlab.com/handbook/engineering/development/enablement/systems/distribution/merge_requests.html#service-level-objective
+[MR dashboard]: https://gitlab-org.gitlab.io/distribution/monitoring/mrs/
+[Deliverable board]: https://gitlab.com/groups/gitlab-org/-/boards/2415614?label_name[]=Deliverable&label_name[]=group%3A%3Adistribution&assignee_id=None&milestone_title=Upcoming
