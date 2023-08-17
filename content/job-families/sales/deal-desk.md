@@ -91,6 +91,42 @@ The Deal Desk Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rew
   - Efficiency in resolving issues
   - Transparency in addressing ongoing problems, SLAs, and field expectations
 
+#### Deal Desk Analyst (Alliances) Job Grade
+
+The Deal Desk Analyst (Alliances) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Deal Desk Analyst (Alliances) Responsibilities
+
+- Extends that of Deal Desk Analyst, while placing emphasis on Alliances deals.
+- Collaborates with impacted parties to identify acceptable options to facilitate Alliance deal closure
+- Manages and facilitates the Private Offer process in various Alliance marketplace portals, such as AWS and GCP
+- Maintains and enforces agreed upon departmental review and approval SLAs
+- Assists to interpret contractual language and escalate to ensure deals comply with revenue recognition and operational policies
+- Monitors the Sales Support Slack channel to provide assistance and advice on complex Alliance deal questions and advanced Quote to Cash related matters
+- Monitors the Sales Support Case queue, acts as primary contact for any Alliance deal-related questions or requests, while consistently maintaining case SLAs and handling complex and/or non-standard requests.
+- Partners with Sales Operations, Channel Operations and Sales Systems teams to facilitate process and system improvements
+- Partners with Channel Operations and Order Management to implement new Alliances marketplaces and continually create efficiency in existing Alliance deal processes
+- Delivers relevant training to new and existing Sales reps on Deal Desk, Order Booking, and overall QTC best practices
+- Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
+- Personal Growth / Projects
+    - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
+
+#### Deal Desk Analyst (Alliances) Requirements
+
+- Requires additional specialized knowledge of Alliances processes.
+- Demonstrated success in the Enterprise SaaS/B2B Industry - Deal Desk, Order Management, Finance Operations, Sales Operations or Pricing experience preferred
+- Demonstrated success partnering with GTM Teams and other cross functional departments
+- Experience in Direct and Channel Sales model
+- Experience in Alliance Marketplace transactions (AWS, GCP, IBM, RedHat, etc.) strongly preferred
+- Strong understanding of software revenue recognition and order process principles required
+- Highly organized, customer-focused, innovative and strong attention to details
+- Strong business acumen, strong reporting and analytics, troubleshooting, problem-solving, and project management skills
+- Excellent communicator, self-aware, transparent, professional, and open to feedback
+- Ability to multitask and prioritize at times of high volume, schedule flexibility during End of Month, End or Quarter
+- Strong quantitative skills and highly proficient in gSuite, Salesforce.com, Zuora or similar CPQ tools
+- Interest in GitLab, and open source software, ability to use GitLab
+- You share our values, and work in accordance with those values
+
 ### Senior Deal Desk Analyst
 
 The Senior Deal Desk Analyst reports to the Manager, Deal Desk.
@@ -201,43 +237,42 @@ The Senior Manager, Deal Desk is a [grade 9](https://about.gitlab.com/handbook/t
 - Familiarity with pre-IPO compliance topics
 - Strong executive presence
 
+### Senior Director, Deal Desk
+
+The Senior Director, Deal Desk reports to the [Sr. Director, Sales Operations](/job-families/sales/sales-operations/#senior-director-sales-operations).
+
+#### Senior Manager, Deal Desk Job Grade
+
+The Senior Director, Deal Desk is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Deal Desk Responsibilities
+
+- Extends that of the Senior Manager and Manager Deal Desk responsibilities
+- Global leader of Deal Desk Organization, Responsible for the success and Iteration of a comprehensive Deal Desk and Order Management organization from hiring, personnel management and enablement as well as process and policies
+- Manage a team of managers, each with their own direct reports
+- Primary owner of all Bookings reconciliations and fidelity
+- Create and deliver sales enablement on topics related to quoting, deal closure and bookings policy
+- Partner directly with Sales and Finance leaders to deliver timely solutions to customer needs
+- Work with our internal and external audit and accounting teams to enforce and iterate on our bookings policies
+- Implement new policies and capabilities to support a dynamic and growing business
+- Primary owner of SFDC Bookings fidelity and reconciliations
+
+#### Senior Director, Deal Desk Requirements
+
+- Extends that of the Senior Manager, Deal Desk requirements
+- Demonstrated  success in Deal Desk organizations supporting fast growing and complex sales team
+- Familiarity with public company compliance and audit requirements
+- Customer-focused solution mindeset is a must
+- Strong emotional intelligence and experience in multi-layered people management
+- Strong executive presence, ability to tell a story from data but also be succinct
+
+
+
+
+
 ## Specialties
 
-#### Deal Desk Analyst (Alliances) Job Grade
 
-The Deal Desk Analyst (Alliances) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Deal Desk Analyst (Alliances) Responsibilities
-
-- Extends that of Deal Desk Analyst, while placing emphasis on Alliances deals.
-- Collaborates with impacted parties to identify acceptable options to facilitate Alliance deal closure
-- Manages and facilitates the Private Offer process in various Alliance marketplace portals, such as AWS and GCP
-- Maintains and enforces agreed upon departmental review and approval SLAs
-- Assists to interpret contractual language and escalate to ensure deals comply with revenue recognition and operational policies
-- Monitors the Sales Support Slack channel to provide assistance and advice on complex Alliance deal questions and advanced Quote to Cash related matters
-- Monitors the Sales Support Case queue, acts as primary contact for any Alliance deal-related questions or requests, while consistently maintaining case SLAs and handling complex and/or non-standard requests.
-- Partners with Sales Operations, Channel Operations and Sales Systems teams to facilitate process and system improvements
-- Partners with Channel Operations and Order Management to implement new Alliances marketplaces and continually create efficiency in existing Alliance deal processes
-- Delivers relevant training to new and existing Sales reps on Deal Desk, Order Booking, and overall QTC best practices
-- Represents Sales Operations / Deal Desk in QBRs and other regional Sales team meetings
-- Personal Growth / Projects
-  - Focus on Quote to Cash process automation and improvement, improving day to day tasks for Sales / Deal Desk
-
-#### Deal Desk Analyst (Alliances) Requirements
-
-- Requires additional specialized knowledge of Alliances processes.
-- Demonstrated success in the Enterprise SaaS/B2B Industry - Deal Desk, Order Management, Finance Operations, Sales Operations or Pricing experience preferred
-- Demonstrated success partnering with GTM Teams and other cross functional departments
-- Experience in Direct and Channel Sales model
-- Experience in Alliance Marketplace transactions (AWS, GCP, IBM, RedHat, etc.) strongly preferred
-- Strong understanding of software revenue recognition and order process principles required
-- Highly organized, customer-focused, innovative and strong attention to details
-- Strong business acumen, strong reporting and analytics, troubleshooting, problem-solving, and project management skills
-- Excellent communicator, self-aware, transparent, professional, and open to feedback
-- Ability to multitask and prioritize at times of high volume, schedule flexibility during End of Month, End or Quarter
-- Strong quantitative skills and highly proficient in gSuite, Salesforce.com, Zuora or similar CPQ tools
-- Interest in GitLab, and open source software, ability to use GitLab
-- You share our values, and work in accordance with those values
 
 ## Performance Indicators
 
