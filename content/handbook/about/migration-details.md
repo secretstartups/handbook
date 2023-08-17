@@ -5,33 +5,32 @@ description: "Handbook Content is on the move.  This gives the time table and th
 
 ## Timetable
 
-| Order | Section                  | Total Pages | Markdown | ERB  |      Start |     Finish |   Status    |
-| :---: | :----------------------- | :---------: | :------: | :--: | ---------: | ---------: | :---------: |
-|   1   | Job Families             |     408     |   408    |  0   | 2023-03-28 | 2023-03-31 |  Completed  |
-|   2   | TeamOps                  |      7      |    0     |  7   | 2023-04-19 | 2023-04-21 |  Completed  |
-|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 |  Completed  |
-|   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
-|   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
-|   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |
-|   7   | IT Self Service          |     12      |    12    |  0   | 2023-06-27 | 2023-06-30 |  Completed  |
-|   8   | Support                  |     212     |   208    |  4   | 2023-07-31 | 2023-08-14 | In-Progress |
-|   9   | Company                  |     265     |   200    |  53  | 2023-08-15 | 2023-08-18 |  Planning   |
-|  10   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-22 | 2023-08-24 |  Scheduled  |
-|  11   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |  Scheduled  |
-|  12   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |  Scheduled  |
-|  13   | People Group             |     199     |   180    |  18  | 2023-10-17 | 2023-10-20 |             |
-|  14   | Marketing                |     415     |   423    |  44  | 2023-11-14 | 2023-11-17 |             |
-|  15   | Sales                    |     471     |   423    |  44  | 2023-12-05 | 2023-12-08 |             |
-|  16   | Legal                    |     67      |    67    |  0   | 2024-01-16 | 2024-01-19 |             |
-|  17   | Product                  |     414     |   351    |  64  | 2024-03-05 | 2024-03-15 |             |
+| Status             | Section                                               | Total Pages | Markdown | ERB | Start      | Finish     |
+| ------------------ | ----------------------------------------------------- | ----------: | -------: | --: | ---------- | ---------- |
+| :white_check_mark: | [Job Families](#job-families)                         | 408         | 408      | 0   | 2023-03-28 | 2023-03-31 |
+| :white_check_mark: | [TeamOps](#teamops)                                   | 7           | 0        | 7   | 2023-04-19 | 2023-04-21 |
+| :white_check_mark: | [Company Handbook Content](#company-handbook-content) | 52          | 49       | 3   | 2023-05-02 | 2023-05-12 |
+| :white_check_mark: | [Tools and Tips](#tools-and-tips)                     | 12          | 12       | 0   | 2023-05-16 | 2023-05-19 |
+| :book:             | [Engineering](#engineering)                           | 810         | 257      | 553 | 2023-06-06 | 2024-02-16 |
+| :white_check_mark: | [Infrastructure Standards](#infrastructure-standards) | 21          | 21       | 0   | 2023-06-06 | 2023-06-09 |
+| :white_check_mark: | [IT Self Service](#it-self-service)                   | 12          | 12       | 0   | 2023-06-27 | 2023-06-30 |
+| :white_check_mark: | [Support](#support)                                   | 212         | 208      | 4   | 2023-07-31 | 2023-08-14 |
+| :construction:     | [Company](#company)                                   | 265         | 200      | 53  | 2023-08-15 | 2023-08-18 |
+| :construction:     | [CEO and CoST](#ceo-and-cost)                         | 14          | 12       | 2   | 2023-08-22 | 2023-08-24 |
+| :zap:              | [Security](#security)                                 | 153         | 148      | 3   | 2023-09-05 | 2023-09-08 |
+| :zap:              | [Finance](#finance)                                   | 83          | 67       | 16  | 2023-09-26 | 2023-09-29 |
+| :book:             | [People Group](#people-group)                         | 199         | 180      | 18  | 2023-10-17 | 2023-10-20 |
+| :book:             | [Marketing](#marketing)                               | 415         | 423      | 44  | 2023-11-14 | 2023-11-17 |
+| :book:             | [Sales](#sales)                                       | 471         | 423      | 44  | 2023-12-05 | 2023-12-08 |
+| :book:             | [Legal](#legal)                                       | 67          | 67       | 0   | 2024-01-16 | 2024-01-19 |
+| :book:             | [Product](#product)                                   | 414         | 351      | 64  | 2024-03-05 | 2024-03-15 |
 
 #### Status Key
 
-- **Scheduled** - This content will be migrated on the start date indicated
-- **Planning** -  This content is in the planning stages of its migration and the start and finish dates are guides only
-- **In Progress** - This content is in the process of being migrated
-- **Completed** - This content has already been migrated to the new handbook
-- **Blank** - This content has provisional start and completion dates but are subject to change
+- :zap: - This content will be migrated on the start date indicated
+- :book: -  This content is in the planning stages of its migration and the start and finish dates are guides only
+- :construction: - This content is in the process of being migrated
+- :white_check_mark: - This content has already been migrated to the new handbook
 
 For more details see [the Handbook Roadmap](/handbook/about/roadmap).
 
@@ -801,7 +800,7 @@ support/index.html.md.erb
 /company/yearlies/index.html.md
 ```
 
-### CEO and CoST Team
+### CEO and CoST
 
 - **Total Pages:** 14
 - **Total Markdown Pages:** 12
