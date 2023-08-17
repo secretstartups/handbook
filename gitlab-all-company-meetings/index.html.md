@@ -29,6 +29,7 @@ Recordings listed in reverse chronological order.
 
 | Date | Recording | AMA Agenda |
 | ------ | ------ | ------ |
+| 2023-08-16 | [FY24-Q3 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q3-quarterly-kickoff-ama) | [AMA](https://docs.google.com/document/d/1IEPh3msR76Rs3-nURiI8sIsexEgMgk7OmHko2P4TJaE/edit) |
 | 2023-06-21 | [FY24-Q1 Results GitLab Assembly](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q2-gitlab-assembly) | [AMA](https://docs.google.com/document/d/1l_Wm2hRozlBHQgFhOM-YvPL7gen5M6lpd7LDceK-EFc/edit#heading=h.v7v4cfj1oa5d) |
 | 2023-06-08 | FY24-Q1 Post-Earnings Internal Recap | [AMA](https://docs.google.com/document/d/1Je7Gya4VuwZ56VhNJUqyioJ7-eKmJA2LtoJCUVKoMsM/edit#heading=h.73bvjze4oj3a) |
 | 2023-05-17 | [FY24-Q2 Quarterly Kickoff](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy24-q2-quarterly-kickoff) | [AMA](https://docs.google.com/document/d/1mtLL3HKIWCe6xV1w4wF9ViYhDm5elhKb_IdTsbJxFak/edit#heading=h.3p4twch2ko0a) |
