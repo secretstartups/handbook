@@ -120,6 +120,9 @@ All other actions are the responsibility of the assigned DRI.
 * Join our slack channel: #sec-assurance
 * Email: <security-assurance@gitlab.com>
 
+### Team READMEs
+- [Byron's README](/handbook/security/security-assurance/README_byronboots.html)
+
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 
 Check out these great security resources built with our customers in mind: 
