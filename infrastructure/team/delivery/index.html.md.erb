@@ -37,7 +37,7 @@ and output has a direct impact on Infrastructure's primary goals of **availabili
 customers. The group creates the workflows, frameworks, architecture and automation for Engineering teams
 to see their work reach production effectively and efficiently.
 
-The Delivery Group is focused on building a fully-automated deployment and release platform that builds on the [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md) to enable fast, flexible releases and deployments with rapid rollout, failure detection and recovery. 
+The Delivery Group is focused on building a fully-automated deployment and release platform that builds on the [CI/CD blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/ci-cd/index.md) to enable fast, flexible releases and deployments with rapid rollout, failure detection and recovery.
 
 Each member of the Delivery group is part of this vision:
 
@@ -67,19 +67,19 @@ Each member of the Delivery group is part of this vision:
 * Provide tooling to allow team members outside of Delivery to safely self-serve deployment and release tasks
 * Fully automate the release processes used for Monthly, Security, and Patch releases for self-managed users to increase release velocity, and reduce Release Manager workload
 * Significantly reduce MTTP below the current 12-hour target
-* Increase the speed of deployment failure detection and recovery by enhancing health checks and rollback processes 
+* Increase the speed of deployment failure detection and recovery by enhancing health checks and rollback processes
 
 ## Guiding Principles
 
-These are a set of statements or questions we can use within the group to evaluate whether what we are doing is the right thing to do. When deciding on a piece of work to commit to, we should ask ourselves whether the work aligns with these principles. The principles will be driven by the Delivery Group Strategy, domain experts and Delivery Group Members. These are likely to change slightly over time as we learn and should not be considered static. Additionally, these principles are additive to the [GitLab Values](https://handbook.gitlab.com/handbook/values/) and we aim not to duplicate those here. 
-  
+These are a set of statements or questions we can use within the group to evaluate whether what we are doing is the right thing to do. When deciding on a piece of work to commit to, we should ask ourselves whether the work aligns with these principles. The principles will be driven by the Delivery Group Strategy, domain experts and Delivery Group Members. These are likely to change slightly over time as we learn and should not be considered static. Additionally, these principles are additive to the [GitLab Values](https://handbook.gitlab.com/handbook/values/) and we aim not to duplicate those here.
+
 These principles are intended to help everyone work independently in a way that is aligned with our Group and strategy.
 
 ### When designing a solution:
 
 1. Simplify Release Management. We always want to be reducing work for release managers either by removing tasks or by improving automation. Be very cautious about introducing new tasks without removing something else
 2. Don’t add functionality to Deployer. We aim to deprecate Deployer as part of our work to migrate away from VMs
-3. Always consider metrics. If we don't have the metrics to track the value, we should look to add them 
+3. Always consider metrics. If we don't have the metrics to track the value, we should look to add them
 4. UX consistency. Strive for consistency across tool interactions and naming
 5. Low-context designs. Design tools as if non-delivery team members need to use them. Keep things simple and let the tools do the hard work
 
@@ -145,7 +145,7 @@ MTTP is further broken down into charts and tables at the [Delivery Team Perform
 
 ## Delivery domain ownership between Delivery teams
 
-The Delivery Group owns the tools and capabilities needed for GitLab deployments and releases. The diagram below shows the split of domain ownership between the two teams and the current release managers. Where the domain overlaps with teams outside of the Delivery Group, we focus primarily on the deployments and releases capabilities and needs. 
+The Delivery Group owns the tools and capabilities needed for GitLab deployments and releases. The diagram below shows the split of domain ownership between the two teams and the current release managers. Where the domain overlaps with teams outside of the Delivery Group, we focus primarily on the deployments and releases capabilities and needs.
 
 ![Delivery Group domain](img/Delivery-domain.png)
 - [Diagram source](https://docs.google.com/presentation/d/1KdrrdYpjdHinYyUa2V3nUCWico74twXWfCCJg-m0ODI/edit?usp=sharing)
@@ -197,13 +197,13 @@ The primary customer of the System team is the Delivery::Orchestration team.
 | S1/P1 Deployment/Release related issues | `@release-managers` | Slack |
 | Any Priority Deployment/Release related issues | `@gitlab-org/delivery` | GitLab |
 
-Release Managers have a weekday follow-the-sun rotation and can be reached via the `@release-managers` handle on Slack. For weekend support or other escalations please use the Release Management Escalation steps below to reach Delivery Leaders. 
+Release Managers have a weekday follow-the-sun rotation and can be reached via the `@release-managers` handle on Slack. For weekend support or other escalations please use the Release Management Escalation steps below to reach Delivery Leaders.
 
 #### Release Management Escalation
 
-During weekday working hours you can reach the current Release Manager via the `@release-managers` handle on Slack. 
+During weekday working hours you can reach the current Release Manager via the `@release-managers` handle on Slack.
 
-For release management support outside of working hours, or if you need to escalate to Delivery Leadership please follow the steps below to page using PagerDuty. 
+For release management support outside of working hours, or if you need to escalate to Delivery Leadership please follow the steps below to page using PagerDuty.
 
 1. Open the PagerDuty app in Slack and use the `/pd trigger` slack command to trigger a new incident
 ![Trigger a new incident](img/trigger-a-new-incident.png)
@@ -234,13 +234,13 @@ Working epic should always have:
 1. Issue admin section to provide the issue priority, labels and epic for quick actions. [Example](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/273#issue-template).
 1. Status YYYY-MM-DD to indicate what is being worked on, why, and planned next steps. The DRI is responsible for updating the epic status every Wednesday. Note, this must be the last heading in the epic to support automated epic summary updates
 1. Start date and estimated due date
-1. Labels: 
+1. Labels:
     * ![Delivery Group label](img/group-delivery-label.png)
     * ![Team Delivery:Orchestration label](img/label-delivery-orchestration-team.png) or ![Team Delivery:System label](img/label-delivery-system-team.png)
     * Label used as part of the project scope (eg. `kubernetes`, `security-release`).
     * Epic status label using the 'workflow-infra::triage', 'workflow-infra::proposal', 'workflow-infra::in-progress', 'workflow-infra::done'
 
-In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic. 
+In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic.
 
 ### Issue Boards
 
@@ -316,7 +316,7 @@ Some of the labels related to the team management are defined as:
 
 Project labels are defined as needed, but they are required unless the issue describes a team management task.
 
-Incidents impacting Delivery may optionally include an [impact label](/handbook/engineering/releases/#delivery-impact-labels). 
+Incidents impacting Delivery may optionally include an [impact label](/handbook/engineering/releases/#delivery-impact-labels).
 
 #### Delivery:System-specific ways of working
 
@@ -325,38 +325,39 @@ In addition to the Epics, Issue Boards, Labels, and Workflow practices common to
 * Each Epic should contain a `Decision Log`: this helps to keep a single, centralized SSOT where all decisions taken during project work are listed. For completeness, we should report the date of the decision,
 who was involved in the discussion and decision, and the outcome of the decision.
 
-For simplicity, you can use the snippet below to add Decision Log to Epics Description:
-```
-### Decision Log
-
-<details>
-  <summary>Decision List</summary>
+  For simplicity, you can use the snippet below to add Decision Log to Epics Description:
+  ```
+  ### Decision Log
 
   <details>
-    <summary>YYYY-MM-DD</summary>
-      <Discussion details, people involved in the discussion and decision, decision outcome>
+    <summary>Decision List</summary>
+
+    <details>
+      <summary>YYYY-MM-DD</summary>
+        <Discussion details, people involved in the discussion and decision, decision outcome>
+    </details>
   </details>
-</details>
-```
+  ```
 
 * Each Issue should contain a `Progress Thread` as a comment: this helps make the work visible in an async environment and shares knowledge while the work progresses.
 Comments within the progress thread should highlight the progress achieved, the intermediate steps/results we got, assumptions, discoveries, and blockers we face.
 This approach allows people from the team and outside of the team to build a clear idea and eventually contribute with comments and suggestions.
 
 * Each week, we should provide at least two status updates on Slack: Epics and Issues are our SSOT for the work we are doing, and to make the work more inclusive and visible to the team and the wider group,
-we should post a status update on the Delivery Group channel (`#g_delivery`) at least two times a week (more updates are welcome). The status updates should provide what we completed, what we plan to do today, and what we will do next, and items not work-related and part of everyday life. In the Status Update, links to Progress Thread comments are highly recommended so that we can provide more context and use the Issue as SSOT for discussions. 
+we should post a status update on the Delivery Group Standup channel (`#g_delivery_standups`) at least two times a week (more updates are welcome). The status updates should provide what we completed, what we plan to do today, and what we will do next, and items not work-related and part of everyday life. In the Status Update, links to Progress Thread comments are highly recommended so that we can provide more context and use the Issue as SSOT for discussions.
 
-An example of a status update is:
+  We use [Geekbot](https://geekbot.com/) to automate the standup reminder. An example of a status update is:
+
 ```
 Today:
-* Weekly sync meeting
-* Reviewed team OKR related MRs
-* Wrestled draft MR to implement a flagger Canary resource template but helm(files) and pipeline failures gave me a hard time
-* Had the best Pistachio Icecream ever
+  * Weekly sync meeting
+  * Reviewed team OKR related MRs
+  * Wrestled draft MR to implement a flagger Canary resource template but helm(files) and pipeline failures gave me a hard time
+  * Had the best Pistachio Icecream ever
 
 Tomorrow:
-* Fighting with Helm: I gave a [more detailed update on the issue's progress thread](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19471#note_1473654659)
-* Going for a marathon training in my early morning
+  * Fighting with Helm: I gave a [more detailed update on the issue's progress thread](https://gitlab.com/gitlab-com/gl-infra/delivery/-/issues/19471#note_1473654659)
+  * Going for a marathon training in my early morning
 ```
 
 ### Choosing something to work on
