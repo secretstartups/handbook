@@ -30,6 +30,9 @@
 ^[company]
 /content/company/ @sytses @streas
 
+[CODEOWNERS]
+.gitlab/CODEOWNERS @timzallmann @gitlab-com/ceo-chief-of-staff-team
+
 # The following entries relate to the operation of the handbook repo or the handbook site itself.
 [handbook-operations]
 /.gitignore @jamiemaynard @marshall007
@@ -68,24 +71,27 @@
 /content/docs/ @jamiemaynard @marshall007
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
-[alliances]
+^[alliances]
 /content/handbook/alliances/ @nbadiey
 /content/job-families/alliances/ @nbadiey
 
-[ceo]
+^[ceo]
 /content/job-families/chief-executive-officer @sytses @streas
 /content/job-families/board-of-directors/ @sytses @robin
 
-[chief-information-security-officer]
+^[chief-information-security-officer]
 /content/job-families/chief-information-security-officer.md @robin @fofungwu
 
-[comms]
+^[comms]
 /content/news/ @sliang2
 
-[customer-success]
+^[company]
+/content/handbook/esg/ @robin @slcline
+
+^[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
 
-[engineering]
+^[engineering]
 /content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
 /content/handbook/engineering/horse/ @marin
 /content/handbook/engineering/infrastructure @sloyd @marin
@@ -96,30 +102,30 @@
 /content/job-families/engineering/ @joergheilig
 /content/job-families/engineering/incubation/ @bmarnane
 
-[finance]
+^[finance]
 /content/handbook/finance/documents/ @james.shen @watson.lin
 /content/handbook/finance/ @brobins
 /content/job-families/finance/ @brobins
 
-[legal]
+^[legal]
 /content/handbook/legal-and-compliance/ @rschulman
 /content/job-families/legal-and-corporate-affairs/ @robin
 
-[marketing]
+^[marketing]
 /content/handbook/marketing/marketing-strategy-and-platform/ @RLeihe268
 /content/handbook/marketing/marketing-strategy-and-platform/growth/ @s_awezec
 /content/handbook/marketing/marketing-strategy-and-platform/marketing-operations/ @christinelee
 /content/handbook/marketing/ @akramer
 /content/job-families/marketing/ @akramer
 
-[people]
+^[people]
 /content/job-families/people-group/recruiting-operations-insights/ @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiter.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/recruiting-sourcer.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/candidate-experience.md @sytses @streas @wendybarnes @rallen3
 /content/job-families/people-group/ @wendybarnes @pegan
 
-[product]
+^[product]
 /content/handbook/direction/ @david @fseifoddini @brhea
 /content/handbook/product/ @david @fseifoddini @brhea
 /content/handbook/product/efficiency/ @joshlambert
@@ -156,28 +162,42 @@
 /content/job-families/product/ @david @clenneville @mflouton @justinfarris @hbenson
 
 
-[sales]
+^[sales]
 /content/handbook/sales/ @dhong
 /content/handbook/company/performance-indicators/sales.md @dhong
 /data/performance_indicators/sales.yml @dhong
 /content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 
-[Security]
+^[Security]
 /content/handbook/security/ @robin @jlongo_gitlab
 /content/job-families/security/ @robin @jlongo_gitlab
 
 [support]
-/content/handbook/support/ @lyle @tcooney
+/content/handbook/support/ @gitlab-com/support
+/content/handbook/support/workflows/how-to-set-up-shift-coverage-for-an-event.html.md @gitlab-com/support/managers
+/content/handbook/support/workflows/personal_data_access_account_deletion.html.md @jcolyer @izzyfee @lyle
+/content/handbook/support/workflows/account_deletion_access_request_workflows.html.md @jcolyer @izzyfee @lyle
+/content/handbook/support/workflows/data_processing_addendums.html.md @lyle
+/content/handbook/support/workflows/information-request.html.md @lasayers @dfrhodes @emccrann @smccreesh @BronwynBarnett @rachelpack
+/content/handbook/support/workflows/log_requests.html.md @gitlab-com/support/managers
+/content/handbook/support/workflows/pii_removal_requests.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/dmca.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/reinstating-blocked-accounts.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/working_with_security.html.md @gitlab-com/support/managers @gitlab-com/gl-security
+/content/handbook/support/workflows/unbabel_translation_in_zendesk.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/setting_ticket_priority.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/zendesk-instances.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/team/performance_review.html.md @joergheilig @lbot @lyle @shaunmccann @vparsons
 
-[support-readiness]
+^[support-readiness]
 /content/handbook/support/readiness/ @lyle @jcolyer
 
-[TeamOps]
+^[TeamOps]
 /content/teamops/ @streas @lfarrer @cynthia
 /content/handbook/teamops/ @streas @lfarrer @cynthia
 
-[total-rewards]
+^[total-rewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
 
 [Values]
-/content/handbook/values/ @sytses @streas @lfarrer @ipedowitz
+/content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team
