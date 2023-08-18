@@ -62,8 +62,8 @@
       url: group-conversations
     - name: E-Group Weekly
       url: e-group-weekly
-    - name: Sustainability
-      url: https://about.gitlab.com/handbook/esg/
+    - name: Environmental, Social, and Governance
+      url: esg
 - name: Handbook
   icon: fa-solid fa-book
   url: handbook
