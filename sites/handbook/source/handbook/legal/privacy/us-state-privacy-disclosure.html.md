@@ -94,7 +94,7 @@ You are entitled to certain rights as a California resident, which include:
 - Right to delete your Personal Information;
 - Right correct your Personal Information;
 - Right to non-discrimination of service or price if you exercise your privacy rights, and GitLab will not deny providing you with the Services or charge you different prices if you exercise your rights;
-- You have the right to know whether your Personal Information is sold or shared and to opt-out of the sale of your Personal Information. You may opt-out of interest-based advertising based on your browser by exercising the Do Not Sell or Share My Personal Information link in the footer of our sites. You may exercise all other California rights as described in the [Rights and Choices](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data) section of the GitLab Privacy Statement; and
+- You have the right to know whether your Personal Information is sold or shared and to opt-out of the sale of your Personal Information. You may opt-out of interest-based advertising based on your browser by exercising the Do Not Sell or Share My Personal Information link in the footer or header of our sites. You may exercise all other California rights as described in the [Rights and Choices](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data) section of the GitLab Privacy Statement; and
 - You have the right to receive notice of our privacy practices at or before the point where your Personal Information is collected. This US State Privacy Rights and Disclosures as well as our Privacy Statement serve as our Notice of Collection.
 
 You may designate, in writing or through a power of attorney, an authorized agent to make requests on your behalf to exercise your rights under California law. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. To provide or delete specific pieces of Personal Information we will need to verify your identity to the degree of certainty required by law. We will verify your request by using one of the methods set forth [here](https://about.gitlab.com/handbook/gdpr/).
@@ -140,6 +140,6 @@ We process and disclose the following categories of Personal Data for targeted a
 
 ### How to Opt-Out from Targeted Advertising
 
-To opt out from targeted advertising, click on the Cookie Preferences link in the footer of each of our website pages under "Contact Us". An opt-out request will be specific to the device and browser you are using. Therefore you will need to opt-out from each browser that you use to access GitLab websites and services.
+To opt out from targeted advertising, click on the Cookie Preferences link in the footer or header of each of our website pages. An opt-out request will be specific to the device and browser you are using. Therefore you will need to opt-out from each browser that you use to access GitLab websites and services.
 
 </details>
