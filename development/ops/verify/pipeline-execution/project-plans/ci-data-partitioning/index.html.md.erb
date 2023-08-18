@@ -1,0 +1,265 @@
+---
+layout: handbook-page-toc
+title: "CI Data Partitioning - Weekly Project Plan"
+description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution Group."
+---
+
+
+## CI Data Partitioning - Weekly Project Plan
+
+### Week of August 7, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+- Bigint conversion
+    - [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`
+    - [ ] Merge MR to init conversion for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+    - [ ] Sync create index for `ci_pipeline_messages.pipeline_id`
+
+### Week of August 14, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+- [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [ ] Create foreign key constraint for `ci_pipeline_messages.pipeline_id` and swap the columns
+
+##### ci_builds
+- [x] Merge [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/122919) to use routing table
+- [x] Merge [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/125002) fo ensure id uniqueness across partitions
+- [x] Confirm execution of [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/125002) on .com or retry in case of failure(autovacuum conflict is still an option)
+
+
+### Week of August 21, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+- [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [ ] Async create index for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id` (max 2 index creation per week)
+
+##### ci_builds
+- [ ] Fix caching issue blocking enabling use of routing table
+- [ ] Enable the feature flag for use of routing table in staging and production
+- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
+- [ ] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
+
+### Week of  August 28, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+- [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`
+- [ ] Async create index for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id` (max 2 index creation per week)
+
+##### ci_builds
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
+
+##### ci_builds_metadata
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
+
+### Week of September 4, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+- [ ] Async create index for `ci_pipelines.auto_canceled_by_id`
+- [ ] Sync create index for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id`
+- [ ] Create foreign key constraint for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id`
+- When postgres has upgraded to 14, init conversion for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+
+##### ci_builds
+- [ ] Remove feature flag for using routing table
+- [ ] Add partition_id filters to all related queries
+
+### Week of September 11, 2023
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+  - [ ] Sync create index and foreign key constraint, and swap for `ci_pipelines.auto_canceled_by_id`
+  - [ ] Sync create index and foreign key constraint, and swap for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+
+
+
+### Milestone 16.5 (September 18, 2023 - October 16, 2023)
+
+#### Team Capacity:
+
+- 2 BE + ? DB
+
+#### Goals:
+
+##### Bigint conversion
+- Remove the triggers and integer columns for:
+    - [ ] ci_sources_pipelines.pipeline_id
+    - [ ] ci_sources_pipelines.source_pipeline_id
+    - [ ] ci_pipeline_chat_data.pipeline_id
+    - [ ] ci_pipeline_messages.pipeline_id
+    - [ ] ci_stages.pipeline_id
+    - [ ] ci_pipeline_variables.pipeline_id
+    - [ ] ci_pipelines.auto_canceled_by_id
+- Create indexes and/or foreign key constraint and swap columns for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+
+##### ci_builds
+- [ ] Split existing original partition into smaller partitions
+
+##### ci_builds_metadata
+- [ ] Split existing original partition into smaller partitions
+
+### Milestone 16.6 (October 17, 2023 - November 10, 2023)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### Bigint conversion
+- Remove the ignore rules for:
+    - [ ] ci_sources_pipelines.pipeline_id
+    - [ ] ci_sources_pipelines.source_pipeline_id
+    - [ ] ci_pipeline_chat_data.pipeline_id
+    - [ ] ci_pipeline_messages.pipeline_id
+    - [ ] ci_stages.pipeline_id
+    - [ ] ci_pipeline_variables.pipeline_id
+    - [ ] ci_pipelines.auto_canceled_by_id
+- Remove the triggers and integer columns for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+
+##### ci_build_artifacts
+- TBD
+
+### Milestone 16.7 (November 13, 2023 - December 8, 2023)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### Bigint conversion
+  - Remove the ignore rules for:
+      - [ ] p_ci_builds.auto_canceled_by_id
+      - [ ] p_ci_builds.upstream_pipeline_id
+      - [ ] p_ci_builds.commit_id
+  - [ ] Swap columns for ci_pipelines.id
+
+##### ci_build_artifacts
+- TBD
+-
+### Milestone 16.8 (December 11, 2023 - January 12, 2024)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### Bigint conversion
+  - [ ] Remove the triggers and integer columns for ci_pipelines.id
+
+##### ci_build_artifacts
+- TBD
+
+##### ci_stages
+- TBD
+
+### Milestone 16.9 (January 15, 2024 - February 9, 2024)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### Bigint conversion
+  - [ ] Remove the ignore rules for ci_pipelines.id
+
+##### ci_stages
+- TBD
+
+##### ci_pipelines
+- TBD
+
+### Milestone 16.10 (February 12, 2024 - March 8, 2024)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### ci_pipelines
+- TBD
+
+##### ci_pipeline_variables
+- TBD
+
+### Milestone 16.11 (March 11, 2024 - April 12, 2024)
+
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+##### ci_pipelines
+- TBD
+
+##### ci_pipeline_variables
+- TBD
+
+### Milestone 17.0 (April 15, 2024 - May 10, 2024)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+- Create partition manager to dynamically create partitions: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/389234)
+- Re-balance partitions so every partition will use less than 100GB of storage
+
+### Milestone 17.1 (May 13, 2024 - June 14, 2024)
+
+#### Team Capacity:
+
+- 2 BE
+
+#### Goals:
+
+- All self-managed to configure partition manager with their own rules for creating new partitions
