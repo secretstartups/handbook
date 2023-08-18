@@ -189,7 +189,7 @@
 /content/handbook/support/workflows/zendesk-instances.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
 /content/handbook/support/workflows/team/performance_review.html.md @joergheilig @lbot @lyle @shaunmccann @vparsons
 
-^[support-readiness]
+[support-readiness]
 /content/handbook/support/readiness/ @lyle @jcolyer
 
 ^[TeamOps]
