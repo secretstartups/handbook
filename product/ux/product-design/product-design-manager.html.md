@@ -87,23 +87,17 @@ For group-level updates you'll want to do the following:
 1. Locate the person you need to update, make the change, commit/create an MR, and follow the MR process from there
 
 ### Name confirmation
-For all updates you'll want to confirm that the person you've updated has a name reference in the category names file, otherwise it won't render correctly on the handbook page it's being called on.
+For all updates you'll want to confirm that the person you've updated has a name reference in the category names file, otherwise it won't render correctly on the handbook page it's being called on. 
 1. Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master)
-1. Select the `sites` directory
-1. Select the `handbook` directory
-1. Select the `source` directory
-1. Select the `includes` directory
-1. Select the `product` directory
+1. Navigate to `sites/handbook/source/includes/product`
 1. Scroll down and click on the `_categories-names.erb` file
 1. Select the editor type of your choice
 1. Locate the person you need to update, make the change, commit/create an MR, and follow the MR process from there
     - Note: If a team member is going to be performing Interim duties you’ll need to add their name a second time following this format: [fName lName (Interim)]: /company/team/#GitLab-username
 
 ### Update Team Member (Such as to remove/add from UX MR Reviewer Roulette)
-Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master)
-1. Select the `data` directory
-1. Select the `team_members` directory
-1. Select the `person` directory
+Go to the [www-gitlab-com project > Repository > Files](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master) - [Documentation](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person#team-member-data-schema)
+1. Navigate to the `data/team_members/person/product` directory
 1. Locate the correct alphabet letter folder according to the team members first initial in their first name
 1. Click on their .yml file
 1. Select the editor type of your choice
