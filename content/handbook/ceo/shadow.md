@@ -57,7 +57,7 @@ Other names considered:
 Considering joining the program? Hear from past shadows about their experience:
 
 1. [Day 2 of Erica Lindberg](https://www.youtube.com/watch?v=xrWR0uU4nbQ)
-1. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
+1. [Acquisitions, growth curves, and IPO strategies: A day at Khosla Ventures](https://about.gitlab.com/blog/2019/04/08/khosla-ventures-gitlab-meeting/)
 1. [GitLab CEO Shadow Update - May 30, 2019](https://www.youtube.com/embed/EfBMu9dTpno)
 {{< youtube "EfBMu9dTpno" >}}
 1. [Key takeaways from CEO Shadow C Blake](https://youtu.be/3hel57Sa2EY)
@@ -170,7 +170,7 @@ If you have questions regarding the planned rotation schedule, please ping the [
 1. Plan to observe and ask questions.
 1. Don't plan to do any of your usual work. Prepare your team as if you were on vacation. In Time Off by Deel, you should select "CEO Shadow Program" as the type, and assign someone to cover for you while you are in the program. This type of Time Off by Deel is set as "Available" which sets Slack status and a free / visibility calendar event only. You may disable the Slack OOO auto-responder within `Time Off by Deel app > Slack > CEO Shadow Program` if you find it obtrusive.
 1. Be ready to add a number of [handbook]({{< ref handbook-usage >}}) updates during your shadow period.
-1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO shadow program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs](/docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#).
+1. Participating in the shadow program is a privilege where you will be exposed to confidential information, including having access to material non-public information (MNPI). Participation in the shadow program and access to such information is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them. As stated in GitLab's [Insider Trading Policy] (drive.google.com/file/d/1c2tX4IK3GofrsA6N_i4Sr72hOcI1_g_q/view), participants in the shadow program will be considered Designated Insiders because shadows have access to MNPI. Each participant of the CEO shadow program or other E-Group level shadow program will be added to the Designated Insider list for the quarter in which they are program participants. Each shadow will be removed from the Designated Insider list once the window has closed for the same quarter they participate as a shadow only if that is the sole reason the participant is on the Designated Insider list. For additional information, please see the [Designated Insider Pre-Clearance Process and FAQs](https://docs.google.com/document/d/1mcBtnfGbv4jSsJUklMQYyj2052MBHe4Lf9RkE-B9yvA/edit#).
 1. Give feedback to and receive feedback from the CEO. Participants in the shadow program are encouraged to deliver [candid feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidelines-for-delivering-feedback). Examples of this are to the CEO and to the world about the company if they make a blog post or video. Shadows maintaining confidentiality during the program is separate from shadows being able to provide candid feedback.
 
 ### What to wear
@@ -235,7 +235,7 @@ The CEO has a [section in the handbook]({{< ref ceo >}}) that details processes 
 
 #### Review acronyms
 
-If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
+If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
 - [KPI (Key Performance Indicator)](https://about.gitlab.com/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](https://about.gitlab.com/company/okrs/#what-are-okrs)
@@ -511,7 +511,7 @@ To use the script:
 
 Press `Ctrl+C` if you need to cancel the alarm. You may keep the terminal window running indefinitely so that it is at your finger tips throughout your program duration.
 
-A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is available for [iOS](https://apps.apple.com/us/app/speech-timer-for-talks/id979433325) and [Android](https://play.google.com/store/apps/details?id=senzillo.talk_timer). Compared to other apps, this timer is easy to setup for the meeting warning levels and to switch between meeting time lengths. It costs $1 to have 3 warning levels - purchasing the application is not required if you just wish to have one warning visualization and watch the timer for the others.
+A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is available for [iOS](https://apps.apple.com/us/app/speech-timer-for-talks/id979433325) and [Android](https://play.google.com/store/apps/details?id=com.hg.SpeechTimer&hl=en&gl=US). Compared to other apps, this timer is easy to setup for the meeting warning levels and to switch between meeting time lengths. It costs $1 to have 3 warning levels - purchasing the application is not required if you just wish to have one warning visualization and watch the timer for the others.
 
 ##### If you see something, say something
 
@@ -688,8 +688,8 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | ---------- | -------- | ---- | ----- | --------- |
 | 2019-03 | 2019-04 | [Erica Lindberg](https://gitlab.com/erica) | Manager, Content Marketing | [CEO shadow learnings video](https://www.youtube.com/watch?v=xrWR0uU4nbQ) |
 | 2019-04 | 2019-05 | [Mayank Tahil](https://gitlab.com/mayanktahil) | Alliances Manager |  |
-| 2019-04 | 2019-05 | [Tye Davis](https://gitlab.com/davistye) | Sr. Technical Marketing Manager | [Without a shadow of a doubt: Inside GitLab's CEO shadow program](/blog/2019/07/11/without-a-shadow-of-a-doubt/) |
-| 2019-05 | 2019-06 | [John Coghlan](https://gitlab.com/johncoghlan) | Evangelist Program Manager | [5 Things you might hear when meeting with GitLab's CEO](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/) |
+| 2019-04 | 2019-05 | [Tye Davis](https://gitlab.com/davistye) | Sr. Technical Marketing Manager | [Without a shadow of a doubt: Inside GitLab's CEO shadow program](https://about.gitlab.com/blog/2019/07/11/without-a-shadow-of-a-doubt/) |
+| 2019-05 | 2019-06 | [John Coghlan](https://gitlab.com/johncoghlan) | Evangelist Program Manager | [5 Things you might hear when meeting with GitLab's CEO](https://about.gitlab.com/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/) |
 | 2019-06 | 2019-06 | [Cindy Blake](https://gitlab.com/cblake) | Sr. Product Marketing Manager | [CEO shadow learnings video](https://www.youtube.com/watch?v=3hel57Sa2EY) |
 | 2019-06 | 2019-06 | [Nnamdi Iregbulem](https://gitlab.com/whoisnnamdi) | MBA Candidate at Stanford University |  |
 | 2019-06 | 2019-06 | [Clinton Sprauve](https://gitlab.com/csprauve) | PMM, Competitive Intelligence |  |
@@ -697,7 +697,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2019-07 | 2019-07 | [Marin Jankovski](https://gitlab.com/marin) | Engineering Manager, Deliver |  |
 | 2019-07 | 2019-08 | Danae Villarreal | Sales Development Representative, West |  |
 | 2019-08 | 2019-08 | [Daniel Croft](https://gitlab.com/dcroft) | Engineering Manager, Package | [GitLab, CEO Shadow August 2019 week one, mind blown](https://www.youtube.com/watch?v=VHcA_2UsC2k) |
-| 2019-08 | 2019-08 | [Emilie Schario](https://gitlab.com/emilie) | Data Engineer, Analytics | [What I learned about our CEO's job from participating in the CEO Shadow Program](/blog/2019/10/07/what-i-learned-about-our-ceo-s-job-from-participating-in-the-ceo-shadow-program/) |
+| 2019-08 | 2019-08 | [Emilie Schario](https://gitlab.com/emilie) | Data Engineer, Analytics | [What I learned about our CEO's job from participating in the CEO Shadow Program](https://about.gitlab.com/blog/2019/10/07/what-i-learned-about-our-ceo-s-job-from-participating-in-the-ceo-shadow-program/) |
 | 2019-08 | 2019-08 | [Kenny Johnston](https://gitlab.com/kencjohnston) | Director of Product, Ops |  |
 | 2019-09 | 2019-09 | [Eric Brinkman](https://gitlab.com/ebrinkman) | Director of Product, Dev |  |
 | 2019-09 | 2019-10 | [Danielle Morrill](https://gitlab.com/dmor) | General Manager, Meltano |  |
@@ -710,7 +710,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-01 | 2020-01 | [Dov Hershkovitch](https://gitlab.com/dhershkovitch) | Senior Product Manager, Monitor |  |
 | 2020-01 | 2020-01 | [Keanon O'Keefe](https://gitlab.com/kokeefe) | Senior Product Manager, Plan : Portfolio Management |  |
 | 2020-01 | 2020-01 | [Dylan Griffith](https://gitlab.com/DylanGriffith) | Staff Backend Engineer, Search |  |
-| 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
+| 2020-01 | 2020-02 | [Brittany Rohde](https://gitlab.com/brittanyr) | Manager, Compensation & Benefits | [How the CEO Shadow Program boosted my individual productivity during the COVID-19 Crisis](https://about.gitlab.com/blog/2020/05/29/how-the-ceo-shadow-program-boosted-my-individual-productivity-during-the-covid-19-crisis/) |
 | 2020-01 | 2020-02 | [Nadia Vatalidis](https://gitlab.com/Vatalidis) | Senior Manager, People Operations |  |
 | 2020-02 | 2020-02 | [Diana Stanley](https://gitlab.com/dstanley) | Senior Support Engineer |  |
 | 2020-02 | 2020-02 | [Chloe Whitestone](https://gitlab.com/chloe) | Customer Success Manager |  |
@@ -724,12 +724,12 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2020-04 | 2020-04 | [Bradley Andersen](https://gitlab.com/elohmrow) | Customer Success Manager |  |
 | 2020-04 | 2020-04 | [Cassiana Gudgenov](https://gitlab.com/cgudgenov) | People Operations Specialist |  |
 | 2020-04-28 | 2020-05-08 | [Betsy Church](https://gitlab.com/bchurch) | Senior Talent Brand Manager | [Reflecting on the CEO Shadow Program at GitLab](https://youtu.be/DGJCuMVp6FM) |
-| 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
+| 2020-05-04 | 2020-05-15 | [Darren Murph](https://gitlab.com/dmurph) | Head of Remote | [GitLab CEO Shadow recap — key takeaways and lessons learned from a remote rotation](https://about.gitlab.com/blog/2020/05/22/gitlab-remote-ceo-shadow-takeaways/) |
 | 2020-05-11 | 2020-05-22 | [Emily Kyle](https://gitlab.com/emily) | Manager, Corporate Events |  |
 | 2020-05-11 | 2020-05-22 | [Candace Williams](https://gitlab.com/cwilliams3) | Diversity, Inclusion & Belonging Manager |  |
 | 2020-05-25 | 2020-06-05 | [Sophie Pouliquen](https://gitlab.com/spouliquen1) | Senior Customer Success Manager |  |
 | 2020-06-01 | 2020-06-19 | [Jackie Meshell](https://gitlab.com/jmeshell) | Senior Product Manager, Release Management | [Recording 📹: Four things I learned as a CEO Shadow](https://youtu.be/iAiYAnkdQLQ) |
-| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program? Why should you apply to participate? How did I see the GitLab values in action? |
+| 2020-06-15 | 2020-06-26 | [Wayne Haber](https://gitlab.com/whaber) | Director Engineering, Defend | [Video](https://www.youtube.com/watch?v=JVaPRtY6wMQ) and [Blog](https://about.gitlab.com/blog/2020/07/08/ceo-shadow-impressions-takeaways/): What is the GitLab CEO shadow program? Why should you apply to participate? How did I see the GitLab values in action? |
 | 2020-06-22 | 2020-07-03 | [Jim Riley](https://gitlab.com/jrileyinva) | Area Sales Manager - Public Sector |  |
 | 2020-06-28 | 2020-07-17 | [Hila Qu](https://gitlab.com/hilaqu) | Director of Product, Growth |  |
 | 2020-07-13 | 2020-07-31 | [David DeSanto](https://gitlab.com/ddesanto) | Director of Product, Secure & Defend |  |
@@ -755,7 +755,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-01-18 | 2021-01-29 | [Traci Robinson](https://gitlab.com/traci) | Sr. PMM, Regulated Industries | |
 | 2021-01-25 | 2021-02-05 | [Parker Ennis](https://gitlab.com/parker_ennis) | Sr. PMM, GitLab CI/CD | |
 | 2021-02-05 | 2021-02-16 | [Shane Rice](https://gitlab.com/shanerice) | Manager, Search Marketing | [CEO Shadow learning recap](https://youtu.be/VZ6XF0qhWVg) |
-| 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
+| 2021-02-15 | 2021-02-26 | [Lauren Barker](https://gitlab.com/laurenbarker) | Sr. Full Stack Engineer, Digital Experience | [CEO Shadow takeaways from Barker](https://about.gitlab.com/blog/2021/02/26/ceo-shadow-takeaways-from-barker/) |
 | 2021-02-22 | 2021-03-12 | [Jessica Reeder](https://gitlab.com/jessicareeder) | All-Remote Campaign Manager | |
 | 2021-03-08 | 2021-03-19 | [Robert Kohnke](https://gitlab.com/rkohnke) | Marketing Strategy and Performance, Data Analyst | |
 | 2021-03-15 | 2021-03-26 | [Sarah Daily](https://gitlab.com/sdaily) | Senior Marketing Operations Manager | [Interview with Sid: Non-Technical Roles to Technical Roles](https://www.youtube.com/watch?v=6_ux_eX4ZYU) |
@@ -764,7 +764,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-04-05 | 2021-04-16 | [Katie Gammon](https://gitlab.com/kgammon) | Executive Business Administrator | |
 | 2021-04-12 | 2021-04-23 | [Pilar Mejia](https://gitlab.com/pmejia) | Distribution Manager, Public Sector | [3 habits to maximize your work day: CEO Shadow insights](https://www.youtube.com/watch?v=JCgblax26LM) |
 | 2021-04-19 | 2021-04-30 | [Joanna Shih](https://gitlab.com/jo_shih) | Quality Engineering Manager, Ops | |
-| 2021-04-30 | 2021-05-07 | [Jacie Bandur](https://gitlab.com/jbandur) | Learning & Development Generalist | [CEO Shadow takeaways from Jacie](/blog/2021/05/18/ceo-shadow-recap/) |
+| 2021-04-30 | 2021-05-07 | [Jacie Bandur](https://gitlab.com/jbandur) | Learning & Development Generalist | [CEO Shadow takeaways from Jacie](https://about.gitlab.com/blog/2021/05/18/ceo-shadow-recap/) |
 | 2021-05-03 | 2021-05-14 | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | Backend Engineer, Product Intelligence | |
 | 2021-05-10 | 2021-05-21 | [James Komara](https://gitlab.com/ja-me-sk) | Area Sales Manager | |
 | 2021-05-17 | 2021-05-28 | [Joshua Lambert](https://gitlab.com/joshlambert) | Director of Product, Enablement | |

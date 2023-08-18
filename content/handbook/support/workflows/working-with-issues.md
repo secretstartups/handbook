@@ -111,7 +111,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/issues/new>  | GitLab CI specialist
 | GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5bdescription%5d=%2flabel%20%7eworkhorse> | Maintainer of gitlab-workhorse
 
-**See the [GitLab team page](/company/team/) for assignments**
+**See the [GitLab team page](https://about.gitlab.com/company/team/) for assignments**
 
 ## Operational escalation points
 
@@ -121,7 +121,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | <https://gitlab.com/gitlab-com/support/internal-requests/issues/new> | Use `~"GitLab.com Console Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
-**See the [GitLab team page](/company/team/) for assignments**
+**See the [GitLab team page](https://about.gitlab.com/company/team/) for assignments**
 
 ### Omnibus GitLab
 
@@ -135,13 +135,13 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 ### GitLab Workhorse
 
-- Information on [GitLab Workhorse](/blog/2016/04/12/a-brief-history-of-gitlab-workhorse/)
+- Information on [GitLab Workhorse](https://about.gitlab.com/blog/2016/04/12/a-brief-history-of-gitlab-workhorse/)
 - **Description**  *"GitLab-workhorse is a smart reverse proxy for GitLab. It handles "large" HTTP requests such as file downloads, file uploads, Git push/pull and Git archive downloads."*
 
 ### GitLab Infrastructure
 
 - Reach the infra team on [Slack](https://gitlab.slack.com/archives/infrastructure)
-- Old blog post on [infrastructure](/blog/2016/04/29/look-into-gitlab-infrastructure/)
+- Old blog post on [infrastructure](https://about.gitlab.com/blog/2016/04/29/look-into-gitlab-infrastructure/)
 
 ## General Product Feedback
 

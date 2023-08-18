@@ -193,7 +193,7 @@ No need to brainstorm, wait for consensus, or [do with two what you can do yours
 ##### Blameless problem solving
 
 Investigate mistakes in a way that focuses on the situational aspects of a failure’s mechanism and the decision-making process that led to the failure, rather than cast blame on a person or team.
-We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
+We hold blameless [root cause analyses](https://codeascraft.com/2012/05/22/blameless-postmortems/) and [retrospectives](https://about.gitlab.com/handbook/engineering/management/group-retrospectives/) for stakeholders to speak up without fear of punishment or retribution.
 
 ##### Short toes
 
@@ -601,7 +601,7 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 
 ## 🌐 Diversity, Inclusion & Belonging {#diversity-inclusion}
 
-Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](https://about.gitlab.com/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](https://about.gitlab.com/handbook/incentives/#referral-bonuses).
+Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](https://about.gitlab.com/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](https://about.gitlab.com/handbook/incentives/#referral-bonuses).
 
 ##### Bias towards asynchronous communication
 
@@ -1290,7 +1290,7 @@ Our values are updated frequently and as needed. Everyone is welcome to make a s
 
 ## Number of contributors and updates over time
 
-To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
+To reinforce that GitLab's values are a living document, we [capture contributions to this page in a Sisense dashboard](https://app.periscopedata.com/app/gitlab/796025/Values-Page-Contributions). The dashboard tracks number of contributors as well as number of Git commits. You can also view individual changes on the [list of recent commits](https://gitlab.com/gitlab-com/content-sites/handbook/-/commits/main/).
 
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/9af373c1-2c9a-4329-a314-4f38595cf2e6??embed=true" style="height: 40em; width: 100%;"> </iframe>
 
@@ -1306,7 +1306,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 
 1. What we expect from all team members, as [ambassadors for our values](https://about.gitlab.com/handbook/leadership/).
-1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/sourceindex.html.md).
+1. Keeping them [up to date](#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/content-sites/handbook/-/commits/main/).
 1. Behavior we give each other [360 feedback](https://about.gitlab.com/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](https://about.gitlab.com/handbook/communication/#say-thanks).
 1. Criteria we use for [discretionary bonuses](https://about.gitlab.com/handbook/incentives/#discretionary-bonuses).

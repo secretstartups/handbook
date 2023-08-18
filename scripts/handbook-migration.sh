@@ -216,7 +216,7 @@ if [[ $IS_HANDBOOK == false ]]; then
 fi
 if [[ $SECTION != "company" ]]; then
   echo -e "${bold}Finding and replacing broken company links...${normal}"
-  find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](/company~](https://about.gitlab.com/company~g'
+  find . -type f -name "*.md" -o -name "*.erb" -print0 | xargs -0 sed -i '' -e 's~](https://about.gitlab.com/company~](https://about.gitlab.com/company~g'
 fi
 
 cd content

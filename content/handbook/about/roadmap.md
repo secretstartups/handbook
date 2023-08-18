@@ -33,7 +33,7 @@ quickly as updating the roadmap, so they don't need to be mentioned here unless 
 
 After years of exponential growth and evolution and the significant accumulation of technical debt the decision was taken
 to migrate the Handbook from `www-gitlab-com` to its own repository and rearchitect how the handbook is generated.
-Where as previously the handbook was generated using [Ruby](https://www.ruby-lang.org/en/_) and
+Where as previously the handbook was generated using [Ruby](https://www.ruby-lang.org/) and
 [Kramdown](https://kramdown.gettalong.org/index.html) the new handbook is generated using [Hugo](https://gohugo.io/).
 This change has significantly decreased the time it takes to generate the site and get changes to the Handbook published.
 

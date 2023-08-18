@@ -204,8 +204,8 @@ Stage channels (prefixed with `s_`) correspond to stages within sub-departments.
 
 **Examples**
 
-- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](/handbook/product/categories/#enablement-stage).
-- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](/handbook/product/categories/#create-stage).
+- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage).
+- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
 
 #### Sub-Department Channels (sd_)
 
@@ -213,7 +213,7 @@ Sub-department channels (prefixed with `sd_`) correspond to sub-departments with
 
 **Example**
 
-- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](/handbook/engineering/development/dev/).
+- **[`#sd_dev_engineering`](https://gitlab.slack.com/archives/sd_dev_engineering)**: For the [Engineering Dev sub-department](https://about.gitlab.com/handbook/engineering/development/dev/).
 
 #### Social Groups
 
@@ -235,6 +235,6 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 - **[`#lego`](https://gitlab.slack.com/archives/lego)**: Build, inspire, play. Share your builds and invite your children.
 - **[`#lgbtq`](https://gitlab.slack.com/archives/lgbtq)**: Space for LGBTQ people and allies in GitLab to chat and support each other.
 - **[`#managers`](https://gitlab.slack.com/archives/managers)**: Share ideas, thoughts, and issues on all things to do with being a manager at GitLab.
-- **[`#mental_health_aware`](https://gitlab.slack.com/archives/mental_health_aware)**: Mental health is [super important](/company/culture/all-remote/mental-health/) and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you're feeling alone. We aim to be supportive and available for all who need it.
+- **[`#mental_health_aware`](https://gitlab.slack.com/archives/mental_health_aware)**: Mental health is [super important](https://about.gitlab.com/company/culture/all-remote/mental-health/) and we realize that. This is a place to discuss concerns you might be having or find someone to talk to if you're feeling alone. We aim to be supportive and available for all who need it.
 - **[`#music`](https://gitlab.slack.com/archives/music)**: Share your current playlist or any interesting music you come across.
 - **[`#postcrossing`](https://gitlab.slack.com/archives/C2L1HK6TV)**: Send team members postcards from your home cities, towns and villages from around the world.

@@ -427,7 +427,7 @@ This label/tag is optional.
 gl_product_stage: eng-dev-manage
 ```
 
-Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
+Since the `eng-dev` department has many groups, we use the [Product sections, stages, groups and categories](https://about.gitlab.com/handbook/product/categories/#devops-stages) handbook page to define a parent group using the product stage. During the design discussion, we iterated with using product categories and sub-departments, and the stage made the most sense.
 
 For GitLab SaaS and infrastructure cost allocation or attribution, the Engineering Infrastructure department team members can use the `gl_product_stage` label to attach to resources that should be attributed to a specific stage. You can optionally use the `gl_dept_group` if you need more granular attribution.
 
@@ -435,7 +435,7 @@ For GitLab SaaS and infrastructure cost allocation or attribution, the Engineeri
 
 | Value | Product Category Documentation |
 |------------------------|--------------------------------------------------------------------------------------------------|
-| `eng-dev-manage`       | [Manage Stage](/handbook/product/categories/#manage-stage)                                       |
+| `eng-dev-manage`       | [Manage Stage](https://about.gitlab.com/handbook/product/categories/#manage-stage)               |
 | `eng-dev-plan`         | [Plan Stage](https://about.gitlab.com/handbook/product/categories/#plan-stage)                   |
 | `eng-dev-create`       | [Create Stage](https://about.gitlab.com/handbook/product/categories/#create-stage)               |
 | `eng-dev-ecosystem`    | [Ecosystem Stage](https://about.gitlab.com/handbook/product/categories/#ecosystem-stage)         |

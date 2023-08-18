@@ -5,7 +5,7 @@ weight: -10
 
 GitLab documentation is crafted to help users, admins, and decision-makers
 learn about GitLab features and to optimally implement and use GitLab to meet
-their [DevOps needs](/stages-devops-lifecycle/).
+their [DevOps needs](https://about.gitlab.com/stages-devops-lifecycle/).
 
 The documentation is an essential part of the product. Its source is developed
 and stored with the product in its respective paths within the
@@ -68,7 +68,7 @@ For more information, see the [Documentation section of our Development document
   - [Page structure and template](https://docs.gitlab.com/ee/development/documentation/structure.html)
   - [Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
   - [Site architecture](https://docs.gitlab.com/ee/development/documentation/site_architecture/index.html)
-- The [Documentation Markdown Guide](/handbook/markdown-guide/)
+- The [Documentation Markdown Guide](/docs/markdown-guide/)
 - The [GitLab Docs project](https://gitlab.com/gitlab-org/gitlab-docs/), which
 contains the code that pulls the documentation content from multiple
 repositories and builds docs.gitlab.com

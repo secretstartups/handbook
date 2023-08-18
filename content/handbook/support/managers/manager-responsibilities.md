@@ -52,7 +52,7 @@ We are equally responsible to ensure our team members are supported in their Git
 | Support and nurture team members | Foster cross-regional connections among Support Engineers and Support Managers |
 |  | Create an inclusive environment and foster DIB values within the team |
 |  | Participate in [Support Weekly Meetings](/handbook/support/#weekly-meetings) |
-|  | Build strong working relationships with your colleagues in Support leadership through [informal communication](/company/culture/all-remote/informal-communication/)
+|  | Build strong working relationships with your colleagues in Support leadership through [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/)
 |  | [Conduct weekly 1:1s](#conducting-weekly-11-meetings) with each direct report |
 |  | Recommend projects, training, and leadership roles for your direct reports |
 |  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](https://about.gitlab.com/handbook/support/#cross-functional-non-product-counterparts)

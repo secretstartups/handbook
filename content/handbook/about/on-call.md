@@ -47,7 +47,7 @@ We are looking into formulating alternatives and the future.
 
 The Handbook On-Call deals specifically with matters relating to the `www-gitlab-com` repo source code and configuration.
 If a reported issue relates to the GitLab product or the infrastructure running the [https://about.gitlab.com](https://about.gitlab.com) website then it should be escalated to the Reliability Engineering team.
-To report an incident follow the instructions on the Incident Management page: [https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident](https://about.gitlab.com//handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+To report an incident follow the instructions on the Incident Management page: [https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 
 ### First-response Service Level Objective
 

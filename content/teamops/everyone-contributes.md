@@ -89,7 +89,7 @@ The editable agenda document, which is attached to the company-wide calendar inv
 
 ## Cross-functional collaboration
 
-To address the challenge cross-functional execution at high velocity, TeamOps advocates a [stable counterparts](/blog/2018/10/16/an-ode-to-stable-counterparts/) model. It works like this: every functional team (e.g., Support) works with the same team members from a different functional team (e.g., Development), so each member of one function always knows who their partner in another function will be. Stable counterparts enable greater trust and familiarity across the organization, which in turn [speed up decision making](/teamops/decision-velocity/), facilitate stronger communication flows, and reduce the risk of conflicts.
+To address the challenge cross-functional execution at high velocity, TeamOps advocates a [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) model. It works like this: every functional team (e.g., Support) works with the same team members from a different functional team (e.g., Development), so each member of one function always knows who their partner in another function will be. Stable counterparts enable greater trust and familiarity across the organization, which in turn [speed up decision making](/teamops/decision-velocity/), facilitate stronger communication flows, and reduce the risk of conflicts.
 
 In addition to standard communication channels, recurring opportunities dedicated exclusively to updates and knowledge sharing can help optimize awareness, questions, and feedback about an ongoing project. These [Key Review Meetings](https://about.gitlab.com/handbook/key-review/) allow a functional group to stay updated on and discuss essential success measurements, such as: progress towards goals such as [OKRs and KPIs](/teamops/everyone-contributes/), blocked tasks, new assignments, workstream changes, etc.
 
@@ -156,7 +156,7 @@ To create stronger psychological safety in a virtual-first team, try communicati
 {{% details summary="Examples of psychological safety" %}}
 **Example 1:** [GitLab’s Team Members Operate with Short Toes](/handbook/values/#short-toes)
 
-Often, the polite feeling of “I don’t want to step on anyone’s toes,” can contribute to stifled contributions, which is a direct contradiction to [GitLab’s mission](/company/mission/). To foster a company culture that encourages employees to take initiative in driving positive change, the organization adopted a [“short toes”](/handbook/values/#short-toes) operating principle that empowers team members to contribute to projects and objectives outside of their direct domain.
+Often, the polite feeling of “I don’t want to step on anyone’s toes,” can contribute to stifled contributions, which is a direct contradiction to [GitLab’s mission](https://about.gitlab.com/company/mission/). To foster a company culture that encourages employees to take initiative in driving positive change, the organization adopted a [“short toes”](/handbook/values/#short-toes) operating principle that empowers team members to contribute to projects and objectives outside of their direct domain.
 
 **Example 2:** [Help Scout Reminds Employees to “Assume Miscommunication Over Malice”](www.helpscout.com/blog/asynchronous-communication-remote-teams/)
 

@@ -61,7 +61,7 @@ To do that, in your new account (the one with the old username), click **Create 
 To make things easier, make sure all the projects you want to import are set to `public` view.
 You can make them private afterwards.
 - If you have GitLab Pages projects with the default **GitLab.io** url, you will need to import them to you new account, then make a change to **trigger a build** and redeploy your site.
-They will be affected only if you're using a [CNAME with a subdomain instead of an A record](/blog/2016/04/07/gitlab-pages-setup/#custom-domains).
+They will be affected only if you're using a [CNAME with a subdomain instead of an A record](https://about.gitlab.com/blog/2016/04/07/gitlab-pages-setup/#custom-domains).
 This won't affect Pages projects that use custom domains, as they all point to the same Pages server IP via `A` record.
 Your groups won't be affected either, as they operate under their own namespace.
 Add both users as members of your groups and nothing changes.
@@ -82,7 +82,7 @@ Team members choose to manage their GitLab activities in different ways. Setup y
 
 ### GitLab team members' resources
 
-The [GitLab team-member resources project](https://gitlab.com/gitlab-com/gitlab-team-member-resources) has a wiki for sharing among [GitLab team-members](/company/team/structure/#team-and-team-members).
+The [GitLab team-member resources project](https://gitlab.com/gitlab-com/gitlab-team-member-resources) has a wiki for sharing among [GitLab team-members](https://about.gitlab.com/company/team/structure/#team-and-team-members).
 
 It's for topics like parenting where people may want to share knowledge, but the handbook is not the best fit.
 
@@ -109,7 +109,7 @@ A few additional resources that can be helpful when working with Mermaid are:
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
   - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
-  - [CEO Year at a Glance](/company/cadence/#year-at-a-glance)
+  - [CEO Year at a Glance](https://about.gitlab.com/company/cadence/#year-at-a-glance)
   - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
@@ -369,7 +369,7 @@ You can use dotfiles to customize your system, and keep all configuration in a c
 Team member dotfiles projects:
 
 - [Sid Sijbrandij's dotfiles](https://gitlab.com/sytses/dotfiles)
-- [Michael Friedrich's dotfiles](https://gitlab.com/dnsmichi/dotfiles), more details in [this blog post](/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
+- [Michael Friedrich's dotfiles](https://gitlab.com/dnsmichi/dotfiles), more details in [this blog post](https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
 - [Brendan O'Leary's dotfiles](https://gitlab.com/brendan/dotfiles)
 
 ## Travelling

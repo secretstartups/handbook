@@ -101,7 +101,7 @@ To minimize miscommunications that can stem from cultural diversity, contextual 
 
 ## Low-context communication
 
-[Low-context communication](/company/culture/all-remote/effective-communication/) assumes that the person you're communicating with has little or no context about the topic at hand. This means the person delivering the information is responsible for providing everything the recipient will need to understand the situation and make an informed response—such as SSoT links, definitions, relevant team members, or updates. This empowers individuals to make decisions and take action without needing to ask unnecessary follow-up questions that could have been avoided.
+[Low-context communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/) assumes that the person you're communicating with has little or no context about the topic at hand. This means the person delivering the information is responsible for providing everything the recipient will need to understand the situation and make an informed response—such as SSoT links, definitions, relevant team members, or updates. This empowers individuals to make decisions and take action without needing to ask unnecessary follow-up questions that could have been avoided.
 
 All low-context communication should be:
 
@@ -110,7 +110,7 @@ All low-context communication should be:
 - Simple, not complex
 - Comprehensive, not narrow
 
-A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with ***what*** the change is, but also [***why***](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and builds trust, which is one of the traits of being a [great remote manager](/company/culture/all-remote/being-a-great-remote-manager/).
+A critical principle of low-context communication is to [Say Why, not just What](/handbook/values/#transparency). TeamOps organizations recognize that up-front transparency is a foundational element to team member autonomy, transparent documentation, and business continuity. This requires announcements, updates, and decisions to be shared not only with ***what*** the change is, but also [***why***](/handbook/values/#say-why-not-just-what) it's being made. While saying "why" does not mean justifying every decision against other alternatives, it does require a leader to [articulate their reasoning](/handbook/values/#articulate-when-you-change-your-mind). This prevents speculation, contributes to institutional memory, and builds trust, which is one of the traits of being a [great remote manager](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/).
 
 Also note that each business function may have unique expectations on low-context communication (e.g. what classifies as low-context in sales may not in engineering). If decisions within a function appear to be ill-informed, audit the expectations on context first.
 
@@ -169,7 +169,7 @@ Return to the <a href="https://about.gitlab.com/teamops/">TeamOps homepage</a>.
 {{< /panel >}}
 
 {{< panel header="**Next**" header-bg="success" >}}
-Continue the learning experience by exploring <a href="http://localhost:1313/teamops/measurement-clarity/">TeamOps - Measurement Clarity</a>
+Continue the learning experience by exploring <a href="/teamops/measurement-clarity/">TeamOps - Measurement Clarity</a>
 {{< /panel >}}
 
 {{< /cardpane >}}

@@ -30,7 +30,7 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Dropbox](https://blog.dropbox.com/topics/work-culture/what-you-can--and-can-t--learn-from-gitlab-about-remote-work)
    - "What GitLab-proven techniques can you apply to your own organizational transformation? We refined them into a 1-2-3 set of high-level practices applicable to both all-remote and (more likely) hybrid companies who seek to succeed in a work-from-home world."
 1. [City of Boston](https://twitter.com/TheJPHaus/status/1384540010775519232)
-   - "Just watched your [live stream about All-Remote](https://youtu.be/q4h75yx_i4o?t=27) and wanted to chime in. I've been stealing pages out of the GitLab handbook heavily for [@CityOfBoston](https://twitter.com/CityOfBoston). Especially the pages on [communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/), [meetings](https://about.gitlab.com/company/culture/all-remote/meetings/), and [roles](/company/culture/all-remote/hiring/) which are infinitely important in a remote setting."
+   - "Just watched your [live stream about All-Remote](https://youtu.be/q4h75yx_i4o?t=27) and wanted to chime in. I've been stealing pages out of the GitLab handbook heavily for [@CityOfBoston](https://twitter.com/CityOfBoston). Especially the pages on [communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/), [meetings](https://about.gitlab.com/company/culture/all-remote/meetings/), and [roles](https://about.gitlab.com/company/culture/all-remote/hiring/) which are infinitely important in a remote setting."
 1. [Remote](https://www.notion.so/Handbook-a3439c6ccaac4d5f8c7515c357345c11)
    - Remote handles international payroll, benefits, taxes, and compliance for businesses big and small. It was founded by a [former GitLab team member](https://www.linkedin.com/in/jobvo/) and uses a public handbook.
 1. [BNP Paribas](https://www.linkedin.com/feed/update/urn:li:activity:6787407510333722624?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6787407510333722624%2C6787420841140457472%29)
@@ -70,7 +70,7 @@ In this section we list the companies that have been inspired by GitLab with the
 1. [Vowel](https://twitter.com/franciscoferri/status/1346054673686523905)
    - "It's amazing what GitLab, Buffer, and Remote have done for the rest of the world by open sourcing how they operate remotely. I am convinced that in 10 years, we'll look back at these documents as a crucial step in the evolution of Remote Work."
 1. [Mighty](https://twitter.com/Suhail/status/1344662014937812994)
-   - "I’ve stolen this from GitLab, but I think you have to ensure a consistent experience where the people in an office aren’t treated specially and you provide a [remote-first culture](/company/culture/all-remote/meetings/#avoid-hybrid-calls)."
+   - "I’ve stolen this from GitLab, but I think you have to ensure a consistent experience where the people in an office aren’t treated specially and you provide a [remote-first culture](https://about.gitlab.com/company/culture/all-remote/meetings/#avoid-hybrid-calls)."
 1. [Journal](https://twitter.com/SamDeBrule/status/1372615291889451010)
    - "We couldn't have created the persona without examples from [@gitlab's handbook](https://about.gitlab.com/handbook/product/personas/#parker-product-manager)."
 1. [Aula](https://runekvist.substack.com/p/the-remote-work-bible)
