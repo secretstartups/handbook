@@ -43,7 +43,7 @@
 /go.mod @jamiemaynard @marshall007
 /package-lock.json @jamiemaynard @marshall007
 /package.json @jamiemaynard @marshall007
-/.gitlab/ @jamiemaynard @marshall007
+/.gitlab/ @gitlab-com/ceo-chief-of-staff-team
 /config/ @jamiemaynard @marshall007
 /scripts/ @jamiemaynard @marshall007
 /static/ @jamiemaynard @marshall007
@@ -86,7 +86,7 @@
 /content/news/ @sliang2
 
 ^[company]
-/content/handbook/esg/ @robin @slcline
+/content/handbook/esg.md @robin @slcline
 
 ^[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
