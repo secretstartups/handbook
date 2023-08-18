@@ -971,10 +971,38 @@ In the event you need to cancel your webcast, please follow the steps outlined b
          - Presenters have limited admin abilities and can all advance slides during  the presentation. If screen sharing is part of the presentation, a driver is prompted the first time a user shares their screen. It’s best to test this function in advance, especially for users who are required to VPN into their device. Some VPNs will limit this functionality. 
          - Q&A: this role is only available for simu-live events; simu-live events will auto-start at the webcast start time, speakers/SMEs can use this role to answer questions via chat.
 
+### Monitoring Simu-live Webcasts
+{: #monitoring-simu-live-webcasts} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+* Simu-live webcasts are entirely pre-recorded and will play to a live audience at your chosen date and time. While the presentation plays to the live audience, you may have Q&A moderators log in to monitor the event and answer questions in real-time via text using the Q&A tool. Up to 12 people can log in at a time as Q&A Moderators. 
+* Moderators will use the Present URL to log in and have full access to the Q&A, Team Chat, and Attendee Chat and will be able to listen and watch the webcast in the live interface.
+* The webcast will start automatically at the chosen start time. A Simu-Live in Progress message will appear in the top corner of the live interface for your Q&A moderators so they know when the webcast has begun.
+* There is no dial-in number or phone bridge for the Q&A moderators while the webinar is live, but they can communicate using the Team Chat. Team Chat messages are not visible to the audience but are captured in the webinar reports.
+* The webcast will end automatically after the recorded portion has played out. The event archive will be available a few hours later for your audience to watch on-demand.
+* If you wish for the audience console to remain open after the presentation is complete to allow attendees additional time to submit questions or download certificates, consider extending the event by recording extra silence on the last slide so the console will remain open. 
+      * Note: The Block Attendee option in the Attendee List tool WILL NOT be available during standard Simu-live events.
+
+### Monitoring Sim-2-Live Webcasts
+{: #monitoring-sim-2-live-webcasts} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+* Sim-2-live webcasts are Simu-live webcasts with the Rollover to Live box checked, providing live time at the end of the recording to address questions. Setup and recording will be the same for both, the differences come when the webcast is playing out live to the audience. 
+* Sim-2-live webcasts also start automatically at the chosen start time. And after the pre-recorded portion of the webcast plays out, the system will automatically switch to a live webcast.
+* While the pre-recorded portion plays to the live audience, Q&A will be text only, but your presenters can address questions from the audience both verbally and via text once the rollover to live occurs.
+* Your presenting team will be able to log in for the webcast starting 45 minutes before the set start time, using the Present URL.
+* Up to 10 live presenters (a mix of Producers and Presenter roles) can log in at a time.
+      * Note: Every Sim-2-live event MUST have at least one presentation team member login as a Producer to stop the broadcast after the live portion is complete.
+
+### Sim-2-Live Webcasts - roles
+{: #sim-2-live-webcasts-roles}
+
+* All three roles (listed below) will be available for Sim-2-live webcasts: 
+      * Roles:
+         - **Producer.** Producers have all the same functionality presenters do, plus the ability to change the webcam layouts in the Media Player and stop the broadcast.
+         - **Presenter.** Can speak to the audience during the rollover to the live portion, use the Q&A, Team Chat, Attendee Chat, Whiteboarding Tools, Highlight/Center Engagement Tools, Screen Share, and Pulse Check.
+         - **Q&A Moderator.** Can use the Q&A, Team Chat, and Attendee Chat.
+
 ### ON24 Webcast Invitations
 {: #0n24-email-invitations} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-:exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
 1. Update emails `Invitation 1 - 2 weeks prior`,  `Invitation 2 - 1 week prior` , and if needed `Invitation 3 - Day before` with relevant copies related to the webcast.
    * *Note: We normally use the same copy for all 3 emails and simply tweak the templated subject lines to sound more like “Reminders”.*
