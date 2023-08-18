@@ -34,9 +34,9 @@ We chose Nira because of the easy to navigate interface, alerting mechanisms, fl
 1. Follow the steps to enter your work email address and password.
 1. You will be taken to the Nira interface.
 
-## Protect access area
+## Items area
 
-The first section to familiarize yourself with is the "Protect Access" area. as shown below. From here you can filter by file type, share permissions, and many others. You can also see meta-data information which can help you protect access to your Drive files.
+The first section to familiarize yourself with is the "Items" area. as shown below. From here you can filter by file type, share permissions, and many others. You can also see meta-data information which can help you protect access to your Drive files.
 
 ![protectaccessarea.png](./protectaccessarea.png)
 
@@ -76,22 +76,22 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 1. To remove access from the document details pane, click on the item name. A pane view will appear on the right side of the product.
 1. Click the underlined item name at the top of the pane view.
 1. A new view will open. Here you can see all accounts that have access to the item. To remove access, click an individual account or select all accounts by clicking the checkbox next to the account and then click the remove collaborator icon that appears.
-1. After you click remove collaborator, a modal will display. To remove the collaborators from your items, type REMOVE ACCESS in all caps to confirm, and then click remove access to complete the action. There is a section to add a comment as well. This helps you and admins view the reasoning for the change. This is optional, but does provide more clarity in our audit logs.
+1. After you click remove collaborator, a modal will display. To remove the collaborators from your items, type REMOVE ACCESS in all caps to confirm, and then click remove access to complete the action. There is a section to add a comment as well. This helps you and admins view the reasoning for the change. This is optional, but does provide more clarity in our action history logs.
 
 ## How to change an individual item
 
 > Changing the link type, transferring ownership, adding or removing a collaborator, copying a link, and deleting an item can be done quite easily.
 
 1. To take action on an individual item, click the **3 dots** icon to the right of any item.
-1. Six actions can be taken on any item, folder or shared drive you own:
-    1. Changing the link type, transferring ownership, adding or removing a collaborator, copying a link, or deleting an item.
+1. Eight actions can be taken on any item, folder or shared drive you own:
+    1. Add link type, remove link type, transferring ownership, removing a collaborator, copy a link, change permissions, stop sharing, or deleting an item.
 1. A confirmation dialogue will display upon clicking any of the actions, except copying a link. The dialogue enables you to change settings and confirm the action you will be taking.
 
 ![changeindividualitem.png](./changeindividualitem.png)
 
 ## How to change many items at once
 
-> Actions such as changing the link type, transferring ownership, removing a collaborator, and deleting an item can be taken on more than one item at once in bulk.
+> Actions such as add link type, remove link type, transferring ownership, removing a collaborator, change permissions, stop sharing, or deleting an item can be taken on more than one item at once in bulk.
 
 1. To change many items at once, select more than one item or select all items by clicking the square to the left of the Name column.
 1. Four bulk actions can be taken: add link type, remove link type, transfer ownership, remove collaborator, change permission, stop sharing and delete.
@@ -100,21 +100,11 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 
 1. A confirmation dialogue will display upon clicking any of the actions. The dialogue enables you to change settings and confirm the action you will be taking.
 
-## How to bulk change link types
-
-> Changing the link type for more than one item can be done in a few steps.
-
-1. Select one or more of your items by clicking the checkbox to the left of the Name column.
-1. Click the paper clip “Change link type” icon at the top of the “All items” list.
-1. A confirmation modal will display.
-1. Select the type of link to change to (Restricted, Company, Public).
-1. Type CHANGE LINK in all caps to confirm and then click change to complete the action.
-
 ## How to bulk remove collaborators
 
 > Removing a single or many collaborators in bulk can be done in a few steps.
 
-1. From the protect access (all items) section, select one or more of your items by clicking the checkbox to the left of the Name column.
+1. From the Items (all items) section, select one or more of your items by clicking the checkbox to the left of the Name column.
 1. Click the “Remove collaborator” icon at the top of the “All items” list.
 1. A confirmation modal will display.
 1. You can enter a single email address of the account to remove from your list of items or select a collaborator type to remove from all items selected. Selecting a collaborator type will allow you to remove all personal accounts, outside domains, internal, or external accounts from the items selected.
@@ -124,7 +114,7 @@ The first section to familiarize yourself with is the "Protect Access" area. as 
 
 > Searching for documents in Nira can be done using Nira’s filters.
 
-1. From the Protect access area, click on the search filter toward the bottom left of the page.
+1. From the Items area, click on the search filter toward the bottom left of the page.
 1. Type in a keyword you would like to search for in item titles and hit enter, for example, type Marketing Plan.
     1. If you want to search for multiple keywords at once, type the keyword and hit submit.
     1. If you want to search for titles with multiple keywords in them, add the word AND in capital letters between the keywords. For example, Agreement AND Confidential.
@@ -160,19 +150,19 @@ Access audits are completed to make sure that only people who need to have acces
 
 ![auditaccess.png](./auditaccess.png)
 
-## How to view the Audit log
+## How to view historical actions
 
-> The “Audit log” area captures all the actions you have taken in Nira. Here you can see what changes you made and more details about those changes.
+> The “Action History” area captures all the actions you have taken in Nira. Here you can see what changes you made and more details about those changes.
 
-1. From the Protect access area, click the clipboard icon in the left navigation.
+1. From the Items area, click the clipboard icon in the left navigation.
 1. Here, you will see all entries of actions you have taken in Nira. You can view more details about a specific action by clicking an individual entry from the list.
 1. Clicking on an entry will open up a panel on the right side of the interface with more details about the action that was taken.
 
 ## Concepts and Terminology
 
-### Protect access area definitions
+### Items area definitions
 
-> The “Protect access” area is where you can review all Google Workspace items you own and make changes to them as well as search and filter.
+> The “Items” area is where you can review all Google Workspace items you own and make changes to them as well as search and filter.
 
 ![image-2.png](./image-2.png)
 
@@ -200,7 +190,7 @@ These two columns show you the owner of the item and their email address. When a
 
 > Filters in Nira allow you to adjust the criteria for displaying the items you see.
 
-![image-3.png](./image-3.png)
+![filters.png](./filters.png)
 
 #### Shared with Internal
 
