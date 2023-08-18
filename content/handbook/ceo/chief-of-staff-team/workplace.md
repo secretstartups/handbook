@@ -219,7 +219,7 @@ More examples of how to talk about remote work
 <li>HR Leaders Podcast — <a href="https://hrleaders.co/podcast/darren-murph-how-gitlab-creates-and-sustains-scalable-remote-practices">How GitLab Creates and Sustains Scalable Remote Practices</a></li>
 <li>SafetyWing Podcast — <a href="http://buildingremotely.com/episode/2">How to transition to remote</a></li>
 <li>The Recruitment Network Podcast — <a href="https://open.spotify.com/show/5Z3HMCHlBOLuYUWvczJjxj?si=giLfsfd-TZOB1hGkFiNeTw">The Future of Remote Working with Darren Murph</a></li>
-<li>Wise Up with Cristina Podcast - <a href="https://cristinadigiacomo.com/wise-up-podcast/wise-up-episode14-darrenmurph">Darren Murph, Remote Rebel, on Opportunities Beyond Work</a></li>
+<li>Wise Up with Cristina Podcast - <a href="https://podcasts.apple.com/us/podcast/remote-work-opportunities-beyond-work/id1510125819?i=1000486607447">Darren Murph, Remote Rebel, on Opportunities Beyond Work</a></li>
 <li>Changelog Podcast — <a href="https://changelog.com/podcast/397">Creating GitLab's remote playbook</a></li>
 <li>OpenFin MVP Podcast — <a href="https://openfin-mvp.simplecast.com/episodes/all-remote-before-it-was-mandatory-with-gitlabs-brendan-oleary">All-remote before it was mandatory with GitLab's Brendan O'Leary</a></li>
 <li>Skills for Mars — <a href="https://youtu.be/g78mzVYjDY0">Darren Murph On Transparency, Values & Leadership when All-Remote</a></li>
