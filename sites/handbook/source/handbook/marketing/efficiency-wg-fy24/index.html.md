@@ -2,7 +2,6 @@
 layout: markdown_page
 title: "Marketing Department Efficiency Working Group - FY24"
 description: "The Efficiency Working Group aims to identify and solution 3-5 key areas for efficiency improvement within the Marketing Department."
-canonical_path: "/handbook/marketing/efficiency-wg-fy24"
 ---
 
 ## Attributes
