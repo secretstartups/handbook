@@ -183,6 +183,15 @@ curl https://gitlab.zendesk.com/api/v2/users.json \
   -H "Authorization: Basic amNvbHllckBnaXRsYWIuY29tL3Rva2VuOmFwaV90b2tlbgo="
 ```
 
+If you've followed the
+[recommended setup](/handbook/support/readiness/operations/recommended_setup/)
+and stored your credentials in environment variables, the call will be
+simplified to
+
+```bash
+curl -u $ZD_USERNAME/token:$ZD_TOKEN "$ZD_URL/users.json"
+```
+
 #### Oauth access token authentication
 
 To use an Oauth access token, you'd first need to create an Oauth app in
