@@ -12,7 +12,7 @@ title: GitLab Password Guidelines
 
 ## Passwords at GitLab
 
-Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. GitLab's [password standard](/handbook/security/password-standard.html) is based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). The password standard sets the requirements for constructing secure passwords and ensuring proper password management. GitLab utlizes 1Password for password management. 
+Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. GitLab's [password standard](/handbook/security/password-standard.html) is based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). The password standard sets the requirements for constructing secure passwords and ensuring proper password management. GitLab utlizes 1Password for password management.
 
 
 ## 1Password
@@ -284,7 +284,7 @@ which you can share with up to 5 family members.
 
 #### Two factor authentication and time-based one time passwords
 
-As stated in the [GitLab Password Standards](/handbook/security/password-standard.html), the usage of 2FA is mandatory for all GitLab team members. 
+As stated in the [GitLab Password Standards](/handbook/security/password-standard.html), the usage of 2FA is mandatory for all GitLab team members.
 
 Okta is configured such that it only supports the use of WebAuthn. 1Password TOTP should only be used when WebAuthn is unavailable.
 
@@ -386,3 +386,53 @@ For more information on Travel Mode and how it works, see the [AgileBits blog].
 [1Password for Teams]: https://blog.agilebits.com/2015/11/03/introducing-1password-for-teams/
 [Teams account]: https://gitlab.1password.com/
 [macOS app]: https://agilebits.com/downloads
+
+#### Securing Docker Registry User Credentials
+
+Docker can store user credentials in an [external credential store](https://docs.docker.com/engine/reference/commandline/login/#credential-stores) as a more secure alternative to storing credentials in the Docker configuration file.
+
+##### Using `osxkeychain` (macOS)
+
+To configure Docker to use `osxkeychain` for secure credential storage, follow these steps:
+
+1. Install the `docker-credential-osxkeychain` helper via Homebrew:
+
+    ```sh
+    brew install docker-credential-helper
+    ```
+
+1. Configure `~/.docker/config.json` to [use `osxkeychain` as your Docker credstore](https://docs.docker.com/engine/reference/commandline/login/#credential-stores):
+
+    ```json
+    {
+        "credsStore": "osxkeychain"
+    }
+    ```
+
+1. Log in using `docker login registry.gitlab.com`, and enter your email and password (PAT) when prompted.
+1. Validate that the credentials were not saved as base64-encoded text in `~/.docker/config.json`.
+
+##### Using `pass` (Linux)
+
+**Prerequisites**
+
+1. [Create a GPG key](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/#create-a-gpg-key)
+1. [Install `pass`](https://www.passwordstore.org/#download)
+
+To configure Docker to use `pass` for secure credential storage, follow these steps:
+
+1. Download the latest `docker-credential-pass` binary from [the releases page](https://github.com/docker/docker-credential-helpers/releases).
+1. Make the `docker-credential-pass` binary executable with `chmod +x docker-credential-pass`.
+1. Move the `docker-credential-pass` binary to your `$PATH` (e.g., `sudo mv docker-credential-pass-v0.8.0.linux-amd64 /usr/local/bin/docker-credential-pass`).
+1. Obtain and copy the GPG key ID that `pass` will use for encryption via `gpg --list-secret-keys --keyid-format LONG`.
+1. Initialize `pass` with `pass init <gpg-key-id>`.
+1. Configure `~/.docker/config.json` to [use `pass` as a credstore](https://docs.docker.com/engine/reference/commandline/login/#credential-stores):
+
+    ```json
+    {
+        "credsStore": "pass"
+    }
+    ```
+
+1. Log in using `docker login registry.gitlab.com`, and enter your email and password (a valid [token](https://docs.gitlab.com/ee/user/packages/container_registry/authenticate_with_container_registry.html)) when prompted.
+1. Validate that the credentials were not saved as base64-encoded text in `~/.docker/config.json`.
