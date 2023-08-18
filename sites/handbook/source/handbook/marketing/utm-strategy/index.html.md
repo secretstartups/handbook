@@ -125,11 +125,11 @@ Legacy `utm_campaign` values (for refference only):
 #### Current GTM UTMs 
 {: #current-gtm-utms}
 * devsecopsplat = DevSecOps Platform GTM
-* seccomp = Security and Compliance GTM
 * autosd = Automated Software Delivery GTM
 
 #### Retired Use Case UTMs 
 {: #retired-use-case-utms}
+* seccomp = Security and Compliance GTM
 * singleappci = CI Campaign
 * iacgitops = GitOps Campaign
 * vccusecase = VC&C Campaigns (retired)
