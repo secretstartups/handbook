@@ -187,6 +187,16 @@ At-risk customer meetings are conducted on a regular basis across regions and at
 | APAC  | Bi-Weekly | CSM: Manager; Sales: AVP, ENT & COM ASMs |
 | Public Sector | Biweekly | VP of Customer Success, VP of Public Sector, Director of Customer Success, ASMs, CSM and Renewals Team Managers |
 
+##### Purpose and output of at-risk review meetings
+
+Regional at-risk review meetings are to ensure cross-functional alignment on at-risk accounts. The purpose of the meeting is:
+
+- Align on the cause(s) of risk
+- Determine what needs to be accomplished to resolve risk
+- Agree on next steps & ownership of those actions
+
+CSM Managers align with their team members about any agreed-upon action items or updates for customers, and those details are captured in an [At-Risk Update](/handbook/customer-success/csm/health-score-triage/#at-risk-timeline-entries) by the CSM, who will manage and coordinate the defined next steps.
+
 #### Regional Review Agenda
 
 The regional at-risk meetings use a specified format, to ensure consistent action & alignment on at-risk customers globally:
