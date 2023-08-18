@@ -172,7 +172,7 @@ A list of the up-to-date channels the Core should/have access to can be found in
 
 #### Requesting Core Team access to Slack channels
 1. Please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) with the new channel(s) requested.
-1. Assign the issue to a member of [Contributor Success](handbook/marketing/community-relations/contributor-success/#team-members) who will complete the next steps.
+1. Assign the issue to a member of [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) who will complete the next steps.
 1. Contributor Success to: Identify the channel(s) owner and invite them to review the request by leaving a comment on whether they agree on having Core Team members in their channel(s).
 1. After successful review, issue is handed/assigned to Slack Admins, for inviting Core Team members to the channels and the list above is updated.
 
@@ -189,11 +189,11 @@ To improve their development experience, Core Team members are granted [`Develop
 
 At this time, Core Team members are not added to the [`gitlab-com` group](https://gitlab.com/gitlab-com), which is used for projects and processes associated to the GitLab company.
 
-[Contributor Success](handbook/marketing/community-relations/contributor-success/#team-members) will generally take the action to grant this permission as part of the new Core Team member's orientation issue.
+[Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members) will generally take the action to grant this permission as part of the new Core Team member's orientation issue.
 
 ### Team page listing
 
-To emphasize their affiliation and closeness to the GitLab team, and to raise visibility on their profile, Core Team members can [add themselves to the GitLab team page](/handbook/git-page-update/#12-add-yourself-to-the-team-page) and ask a review from any member of [Contributor Success](handbook/marketing/community-relations/contributor-success/#team-members).
+To emphasize their affiliation and closeness to the GitLab team, and to raise visibility on their profile, Core Team members can [add themselves to the GitLab team page](/handbook/git-page-update/#12-add-yourself-to-the-team-page) and ask a review from any member of [Contributor Success](/handbook/marketing/developer-relations/contributor-success/#team-members).
 
 This will list their profile on [the Core Team page](/community/core-team/) as well.
 
@@ -213,7 +213,7 @@ To support their code contributions to GitLab, Core Team members can [request a 
 
 #### Process
 
-* Raise a request in the #core team slack channel.
+* Raise a request in the `#core` team slack channel.
 * Once approved, purchase the relevant license.
 * Email `ap@gitlab.com` cc `nveenhof@gitlab.com` and `rnalen@gitlab.com` including:
   * A copy of your receipt.
