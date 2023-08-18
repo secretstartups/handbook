@@ -34,7 +34,7 @@ The SET owns the completion of the `Availability and Testing` section in the Fea
    1. The `quad-planning::ready` label is automatically applied to all issues in the report.
    1. The SET will review the report every week. If necessary, the SET will coordinate with the PM/EM to discuss specific issues as needed.
    1. After revewing each issue, the SET adds the testing requirements for each issue:
-      1. The SET adds the [Availability and Testing section](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md#L66) to the issue description, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
+      1. The SET adds the [Availability and Testing section](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md#L74) to the issue description, ensuring that the strategy accounts for all test levels and facilitating discussions and feedback with the group.
       1. The SET add a checklist of the testing requirements in the above section, as appropriate. The checklist could contain one or more of the below mentioned details:
          1. Run the `package and qa` job.
          1. Update an existing end to end test, with the feature flag enabled and disabled if the feature is behind a feature flag - Provide the link of the testcase to be updated.
