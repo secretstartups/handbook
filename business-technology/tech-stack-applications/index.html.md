@@ -151,6 +151,15 @@ Do you want to procure a new application/system? Visit the [Procurement handbook
 
 Are you experiencing issues with an application/system? Visit our [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and under `Group Owner/Slack Channel`, you can find out what Slack channel you need to reach out to request support.
 
+### Compliance
+
+Many applications listed in the Tech Stack are in-scope for regulatory or other compliance activities. For more information please reach out to the DRIs listed below:
+- FedRAMP: Corey Oas (@corey-oas), Security Compliance
+- GitLab SaaS SOC2: Liz Coleman (@lcoleman), Security Compliance 
+- GitLab Dedicated SOC2: Corey Oas (@corey-oas), Security Compliance
+- ISO 27001: Liz Coleman (@lcoleman), Security Compliance
+- SOX: Sean Brown (@sbrown10), Internal Audit
+
 ### Updating the Offboarding Templates
 
 The offboarding templates need to be updated when a new system is added to the Tech Stack in order for GitLab to be compliant and remove Team Members from systems once they leave GitLab. There are two different ways to update the offboarding templates.  Pick the option which best suits the usage of the new system. Once the MR is ready to be merged, tag the People Connect team - `@gl-people-connect-team` - for approval and merge.
