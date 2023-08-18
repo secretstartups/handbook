@@ -48,7 +48,7 @@ In some cases, software is reviewed and determined to be of particularly "low" r
 | Clockwise | Orange | 8/16/2024 | N/A |
 |DeepL for individuals|Green|N/A| Base application only, does not apply to DeepL API |
 | Grammarly | Green | N/A | Grammarly desktop application only, for use with non-confidential information. Usage of the Grammarly browser extension is discouraged and unapproved due to privacy and security implications. |
-|Microsoft Office - Home & Business|Green|N/A| Approval applies to the offline version only. Usage of Microsoft Outlook is not approved. Microsoft Office 365 is not approved.|
+|Microsoft Office - Home & Student |Green|N/A| Approval applies to the offline version of the Microsoft Office Suite. Microsoft Office 365 is not approved.|
 | Parallels Desktop Pro | Green | N/A | Approval applies to Parallels Desktop only, not to the optional "Parallels Toolbox" utilities that can be installed separately. |
 
 _Is there an application you'd like to have included in the pre-approved software listing? Please reach out to @Security-Risk in the #Procurement channel._
