@@ -265,7 +265,7 @@ GitLab's growing [library of remote guides](https://about.gitlab.com/company/cul
 1. If it's a net-new idea, please put each new guide idea/topic in a new issue within [Corporate Marketing](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/)
 1. Put `Proposal: [NEW ALL-REMOTE GUIDE]` as the subject
 1. Add the label `mktg-status::triage`
-1. Assign to `@dmurph` to evaluate and provide feedback
+1. Assign to `@streas` to evaluate and provide feedback
 
 ### What's the difference between an all-remote guide and a traditional GitLab handbook page?
 
@@ -438,7 +438,7 @@ To contribute an idea or [proposal]{{< ref "values#make-a-proposal" >}}) to furt
 
 1. Please put each new idea/topic in a new issue within the [Chief of Staff to the CEO Team](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team/-/issues) project
 1. Put `Proposal: [IDEA]` as the subject
-1. Assign to `@dmurph`
+1. Assign to `@streas`
 1. Please [set a due date]({{< ref "values#set-a-due-date" >}}) using GitLab's `Due Date` feature and provide context for the deadline(s).
 
 ### Requesting guidance
@@ -470,20 +470,6 @@ We will continue Async Weeks as a regular process for 2022. Our challenge is to 
 To read more about the results of the Async Weeks pilot, see [this slide](https://docs.google.com/presentation/d/1d6LTN1RlDYsjAEOqLWRP6hfTOBGzUbQGZ0L71IufjRo/edit#slide=id.g10660c3a1ce_1_0) from the All-Remote Group Conversation (GitLab team members only).
 
 For a good template to roll this out for your team, see the [Growth team's planning and feedback issue](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/390). If you have additional feedback on this initiative, please let us know in the `#all-remote_action` Slack channel. We appreciate hearing your thoughts and ideas.
-
-#### Async week schedule
-
-Our scheduled asynchronous weeks in 2022 are:
-
-- January 17-21
-- February 28 - March 4
-- April 11-15
-- May 23-27
-- July 4-8
-- August 15-19
-- September 26-30
-- November 7-11
-- December 19-23
 
 ## Team
 
