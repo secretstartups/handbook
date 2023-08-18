@@ -11,10 +11,10 @@ In FY22-Q3, we launched the initial technical discovery and custom development p
 
 ## Reference Links
 
-- **DRI:** [Jeff Martin](/company/team/#jeffersonmartin), [Dillon Wheeler](/company/team/#dillonwheeler), [Peter Kaldis](/company/team/#pkaldis)
-- **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](/company/team/#jburrows001), [Derek Isla (Sr. IT Compliance Manager)](/company/team/#disla)
+- **DRI:** [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)
+- **Stable Counterparts:** [Jeff Burrows (Manager, Security Compliance)](https://about.gitlab.com/company/team/#jburrows001), [Derek Isla (Sr. IT Compliance Manager)](https://about.gitlab.com/company/team/#disla)
 - `#gitlab-access-manager` Slack Channel
-- **Executive Sponsors:** [Rob Rea](/company/team/#rrea1), [Craig Mestel](/company/team/#cmestel)
+- **Executive Sponsors:** [Rob Rea](https://about.gitlab.com/company/team/#rrea1), [Craig Mestel](https://about.gitlab.com/company/team/#cmestel)
 - [Epics](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/-/epics)
 - [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/access-manager/-/issues)
 - [Access Manager Docs (Preview)](https://docs.access.gitlabenvironment.cloud) (internal)

@@ -144,7 +144,7 @@ GitLab Product Designers are responsible for reviews and guidance and should not
 
 **Process**
 
-Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](design.gitlab.com), the [Product principles](https://about.gitlab.com/handbook/product/product-principles) or planned work of their team.
+Once a Product Designer gets pinged on an issue that JiHu intends to contribute upstream, the Product Designer reviews whether that issue already has a clear proposal that does not conflict with our [Pajamas guidelines](https://design.gitlab.com), the [Product principles](https://about.gitlab.com/handbook/product/product-principles) or planned work of their team.
 
 If there is no clear design proposal yet, or there are conflicts with Pajamas or the Product principles, the designer leaves a comment about what is required before the issue should go into implementation.
 

@@ -19,7 +19,7 @@
   - GitLabber
   use_instead:
   - GitLab team member
-  reason: \"GitLabber" includes both the GitLab community and people who work at GitLab. When you want to refer specifically to people who work at GitLab, [use "GitLab team member" instead](/company/team/structure/#team-and-team-members).
+  reason: \"GitLabber" includes both the GitLab community and people who work at GitLab. When you want to refer specifically to people who work at GitLab, [use "GitLab team member" instead](https://about.gitlab.com/company/team/structure/#team-and-team-members).
   exclude_from_exports: false
 
 - avoid:
@@ -72,7 +72,7 @@
   - Employees
   use_instead:
   - Team members
-  reason: We have team members who are [contractors](/handbook/total-rewards/compensation/compensation-calculator/#contract-factor)
+  reason: We have team members who are [contractors](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#contract-factor)
   exclude_from_exports: false
 
 - avoid:
@@ -94,7 +94,7 @@
   - Radical transparency
   use_instead:
   - Intentional transparency
-  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](/company/culture/all-remote/informal-communication/), [handbook-first documentation](/company/culture/all-remote/handbook-first-documentation/), [onboarding](/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
+  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), [handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/), [onboarding](https://about.gitlab.com/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
   exclude_from_exports: false
 
 - avoid:
@@ -135,7 +135,7 @@
   use_instead:
   - Delete
   - Remove
-  reason: We usually mean we're removing a document or feature whereas deprecation is leaving the thing intact while discouraging its use. Unlike other terms on this list, there *are* times where "deprecate" is the right word, for example in the formal [product process](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
+  reason: We usually mean we're removing a document or feature whereas deprecation is leaving the thing intact while discouraging its use. Unlike other terms on this list, there *are* times where "deprecate" is the right word, for example in the formal [product process](https://about.gitlab.com/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
   exclude_from_exports: false
 
 - avoid:
@@ -163,7 +163,7 @@
   - Elasticsearch
   use_instead:
   - Global Search with the features Basic Global Search and [Advanced Global Search](https://docs.gitlab.com/ee/user/search/advanced_search.html).
-  - "[Log Search](/direction/monitor/observability/) for the monitor stage logging feature."
+  - "[Log Search](https://about.gitlab.com/direction/monitor/observability/) for the monitor stage logging feature."
   - Issue Search and Merge Request search for filtering and searching in those content areas.
   - "[Elastic log Stack](https://docs.gitlab.com/ee/user/clusters/applications.html#elastic-stack) when referring to Elasticsearch and Filebeat."
   reason: There are many kinds of search in the GitLab application; use complete feature names to describe areas.
@@ -173,9 +173,9 @@
   - Telemetry
   use_instead:
   - Seat link is the number of seats on a license
-  - "[Version check](/handbook/sales/process/version-check/) is what version of GitLab a subscription is using"
+  - "[Version check](https://about.gitlab.com/handbook/sales/process/version-check/) is what version of GitLab a subscription is using"
   - "[Usage ping](https://docs.gitlab.com/ee/administration/settings/usage_statistics.html#usage-ping) is high-level data of how GitLab is being used in a license"
-  - "[Snowplow](/handbook/business-technology/data-team/platform/snowplow/) is a dynamic site for web event analytics"
+  - "[Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) is a dynamic site for web event analytics"
   - "[Google Analytics](/handbook/tools-and-tips/#google-analytics) is a static site for receiving data from `about.gitlab.com` and `docs.gitlab.com`"
   - "Database events is using the database records of Gitlab.com to look at how people are using the application."
   - "Product Usage Data is [data collected](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#collection-framework) on the customer's account to be used within GTM tools such as Salesforce, Marketo, or Gainsight to improve retention and expansion"
@@ -240,7 +240,7 @@
   - Different class of team member
   - Being treated like you don't belong/like an outsider
   reason: |
-    When referencing people, "different class of team member" or "being treated like you don't belong/like an outsider" is preferred when discussing such environments, since citizen has political and socioeconomic connotations. In a [hybrid-remote](/company/culture/all-remote/hybrid-remote/#disadvantages-to-hybrid-remote) environment (e.g. not GitLab, which is [all-remote](/company/culture/all-remote/guide/#why-remote)), those outside of the office may feel inferior or deprioritized compared to coworkers who routinely work onsite.
+    When referencing people, "different class of team member" or "being treated like you don't belong/like an outsider" is preferred when discussing such environments, since citizen has political and socioeconomic connotations. In a [hybrid-remote](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/#disadvantages-to-hybrid-remote) environment (e.g. not GitLab, which is [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/#why-remote)), those outside of the office may feel inferior or deprioritized compared to coworkers who routinely work onsite.
   exclude_from_exports: false
 
 - avoid:
@@ -285,9 +285,9 @@
 - avoid:
   - Functional group leader
   use_instead:
-  - "[E-group](/handbook/leadership/#e-group) leader"
+  - "[E-group](https://about.gitlab.com/handbook/leadership/#e-group) leader"
   reason: |
-    The term "functional group leader" is a past term that has now been updated. See [Org Structure](/company/team/structure/#organizational-structure).
+    The term "functional group leader" is a past term that has now been updated. See [Org Structure](https://about.gitlab.com/company/team/structure/#organizational-structure).
   exclude_from_exports: false
 
 - avoid:
@@ -295,7 +295,7 @@
   use_instead:
   - Department or team (depending on the context)
   reason: |
-    "Functional group" is a past term that is no longer used. See [Org Structure](/company/team/structure/#organizational-structure).
+    "Functional group" is a past term that is no longer used. See [Org Structure](https://about.gitlab.com/company/team/structure/#organizational-structure).
   exclude_from_exports: false
 
 - avoid:
@@ -324,7 +324,7 @@
   use_instead:
   - Refer to a Google doc agenda listing the customer name
   - Use a codename
-  reason: We want to train ourselves to not mention customer names to allow us to be as [transparent](/handbook/values/#transparency) as possible.  Whenever possible, we want to publicly stream our meetings to YouTube and to do that we need to be in the habit of not mentioning customer names. So we should avoid mentioning them even in [privately streamed meetings](/handbook/marketing/marketing-operations/youtube/#visibility).
+  reason: We want to train ourselves to not mention customer names to allow us to be as [transparent](/handbook/values/#transparency) as possible.  Whenever possible, we want to publicly stream our meetings to YouTube and to do that we need to be in the habit of not mentioning customer names. So we should avoid mentioning them even in [privately streamed meetings](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#visibility).
   exclude_from_exports: true
 
 - avoid:

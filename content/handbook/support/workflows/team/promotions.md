@@ -35,7 +35,7 @@ The promotion document template can be found in the
 Business Results and Business Justifications section should closely align with
 the expected competencies for the role as laid out in:
 
-- The [GitLab Job Frameworks](/company/team/structure/#job-frameworks).
+- The [GitLab Job Frameworks](https://about.gitlab.com/company/team/structure/#job-frameworks).
 - The [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
 
 ## In-Progress Promotion Documents

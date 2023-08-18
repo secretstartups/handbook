@@ -5,7 +5,7 @@ weight: -10
 
 ## GitLab as a Public Company
 
-In 2017, GitLab established aspirational milestones for a public offering, achieving $1B of annualized recurring revenue, and positive operating cash flow in order to align our efforts and investments to common goals. GitLab [began trading](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/) on the Nasdaq Global Select Market on October 14, 2021 under the ticker symbol "GTLB."
+In 2017, GitLab established aspirational milestones for a public offering, achieving $1B of annualized recurring revenue, and positive operating cash flow in order to align our efforts and investments to common goals. GitLab [began trading](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/) on the Nasdaq Global Select Market on October 14, 2021 under the ticker symbol "GTLB."
 
 We continue to believe that being a public company is an integral part of realizing our mission. As a public company, GitLab may benefit from enhanced brand awareness, access to capital, shareholder liquidity, autonomy, and transparency.
 
@@ -20,7 +20,7 @@ To achieve fair value with limited relative volatility as a publicly traded comp
 1. Building out a fulsome compliance program which includes: securities law trainings, communications policies, handbook adjustments, required policies such as insider / [trading window](https://about.gitlab.com/handbook/finance/investor-relations/#trading-window)
 1. Maintaining a high degree of [transparency](/handbook/values/#transparency) that we believe increases contributions and makes collaboration easier. This is a core value and may result in higher than expected volatility.
 
-A successful public offering is a significant milestone, but it is not GitLab’s [mission](/company/mission/#mission). Like graduating from high school, a great day but it shouldn't be the biggest thing you achieve in life.
+A successful public offering is a significant milestone, but it is not GitLab’s [mission](https://about.gitlab.com/company/mission/#mission). Like graduating from high school, a great day but it shouldn't be the biggest thing you achieve in life.
 
 ## Market Capitalization
 
@@ -32,7 +32,7 @@ Market capitalization (stock price x shares outstanding) will be the result of a
 1. Clarity of [value proposition](https://about.gitlab.com/company/strategy/#organization)
 1. Perception of management [team](https://about.gitlab.com/company/team/)
 
-As GitLab team members, delivering on our annual plan and long-term strategy are the most productive ways to contribute to the company achieving full, fair value with limited relative volatility. At a departmental level, we have [key performance indicators](/company/kpis/#what-are-kpis) aligned to our plan and performance to empower "everyone to contribute" to GitLab’s long term success and public market valuation.
+As GitLab team members, delivering on our annual plan and long-term strategy are the most productive ways to contribute to the company achieving full, fair value with limited relative volatility. At a departmental level, we have [key performance indicators](https://about.gitlab.com/company/kpis/#what-are-kpis) aligned to our plan and performance to empower "everyone to contribute" to GitLab’s long term success and public market valuation.
 
 ## Short Term Focus Can Be A Distraction
 

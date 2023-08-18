@@ -37,7 +37,7 @@ actionable below.
 <a href="#collaboration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_collaberation.svg" alt="Collaboration" title="Collaboration" height="78"></a>  <a href="#results"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_results.svg" alt="Results" title="Results" height="78"></a>  <a href="#efficiency"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_efficiency.svg" alt="Efficiency" title="Efficiency" height="78"></a>  <a href="#diversity-inclusion"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_diversity.svg" alt="Diversity, Inclusion &amp; Belonging" title="Diversity, Inclusion &amp; Belonging" height="78"></a>  <a href="#iteration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_iteration.svg" alt="Iteration" title="Iteration" height="78"></a>  <a href="#transparency"><img style="padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_transparency.svg" alt="Transparency" title="Transparency" height="78"></a>
 </div>
 
-We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](/company/history/#value-origin-stories) of each of the CREDIT values, but
+We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](https://about.gitlab.com/company/history/#value-origin-stories) of each of the CREDIT values, but
 just like the rest of our work, we continually adjust our values and strive to make them better.
 GitLab values are a living document.
 In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
@@ -120,8 +120,8 @@ Give recognition generously, in the open, and often to [generate more engagement
 
 ##### Get to know each other
 {:.no_toc}
-We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
-So we encourage people to get to know each other on a personal level through [informal communication](/company/culture/all-remote/informal-communication/), for example, virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
+We use a lot of [text-based communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
+So we encourage people to get to know each other on a personal level through [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), for example, virtual [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
 ##### Reach across company departments
 {:.no_toc}
@@ -166,7 +166,7 @@ You do have to search for the right answer with help from others.
 In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of Remote Darren M. adds context on this operating principle.
 
 > In many organizations, there's a subtle, low-level, persistent pressure to continually prove your worth.
-> And I believe that this fuels imposter syndrome and wreaks havoc on [mental health](/company/culture/all-remote/mental-health/).
+> And I believe that this fuels imposter syndrome and wreaks havoc on [mental health](https://about.gitlab.com/company/culture/all-remote/mental-health/).
 >
 > What's so troubling to me is how often perception is reality.
 > In other words, those who have mastered the art of being perceived as elite reap benefits, though this has nothing to do with actual results.
@@ -175,8 +175,8 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 > Instead of judging people for not approaching work in an agreed-upon way, "no ego" encourages people to glean inspiration from watching others approach work in new and different ways.
 
 Being no ego is a standard we hold ourselves as people to but is not one that applies to GitLab as a company or product.
-We want to celebrate and highlight GitLab's accomplishments, including being [one of the largest all-remote companies](/company/culture/all-remote/).
-This doesn't mean we don't recognize our mistakes, including how we handled [telemetry](/blog/2019/10/10/update-free-software-and-telemetry/).
+We want to celebrate and highlight GitLab's accomplishments, including being [one of the largest all-remote companies](https://about.gitlab.com/company/culture/all-remote/).
+This doesn't mean we don't recognize our mistakes, including how we handled [telemetry](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/).
 
 ##### See others succeed
 {:.no_toc}
@@ -335,7 +335,7 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 ##### Write promises down
 {:.no_toc}
-Agree in writing on measurable goals. Within the company we use [public OKRs](/company/okrs/) for that.
+Agree in writing on measurable goals. Within the company we use [public OKRs](https://about.gitlab.com/company/okrs/) for that.
 
 ##### Growth mindset
 {:.no_toc}
@@ -364,14 +364,14 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Keeping the focus on the [results](/handbook/values/#results) and the outcome
    1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
    1. Not being satisfied with the status quo and setting higher goals
-      1. Ambitious [mission](/company/mission/#mission) and [vision](/company/vision/)
-      1. [Ambitious OKRs](/company/okrs/#okrs-are-stretch-goals-by-default)
-      1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
+      1. Ambitious [mission](https://about.gitlab.com/company/mission/#mission) and [vision](https://about.gitlab.com/company/vision/)
+      1. [Ambitious OKRs](https://about.gitlab.com/company/okrs/#okrs-are-stretch-goals-by-default)
+      1. Having and reporting against [KPIs](https://about.gitlab.com/company/kpis/#what-are-kpis) with guiding targets
    1. Having other people adopt our way of working
       1. [Handbook](/handbook/)
       1. [Certifications](/learn/certifications/public/)
       1. Promotion of processes
-         1. [Blog posts](/blog/)
+         1. [Blog posts](https://about.gitlab.com/blog/)
          1. [Webcasts](/webcast/)
          1. [Events](/events/)
          1. [Community Forum](https://forum.gitlab.com/)
@@ -478,7 +478,7 @@ Working efficiently on the right things enables us to make fast progress, which 
 
 ##### Only Healthy Constraints
 {:.no_toc}
-Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](/company/still-a-startup/). We try to limit ourselves to [healthy constraints](/handbook/only-healthy-constraints/). 
+Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](https://about.gitlab.com/company/still-a-startup/). We try to limit ourselves to [healthy constraints](/handbook/only-healthy-constraints/). 
 
 ##### Write things down
 {:.no_toc}
@@ -498,7 +498,7 @@ For example, sales is hard because you are dependent on another organization, an
 
 ##### Self-service and self-learning
 {:.no_toc}
-Team members should first [search for their own answers](/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](/handbook/values/#low-level-of-shame). [Write down any new information discovered](/handbook/values/#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
+Team members should first [search for their own answers](https://about.gitlab.com/company/culture/all-remote/self-service/) and, if an answer is not readily found or the answer is not clear, ask in public as we all should have a [low level of shame](/handbook/values/#low-level-of-shame). [Write down any new information discovered](/handbook/values/#write-things-down) and pay it forward so that those coming after will have better efficiency built on top of practicing collaboration, inclusion, and documenting the results.
 
 Team members have more room to grow themselves when they are able to self-service and self-learn.
 
@@ -542,7 +542,7 @@ When team members are managers of one they can have an increased work/life balan
 
 ##### Freedom and responsibility over rigidity
 {:.no_toc}
-When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](/company/team/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
+When possible, we give people the responsibility to make a decision and hold them accountable for that, instead of imposing rules and approval processes. You should have clear objectives and the freedom to work on them as you see fit. Freedom and responsibility are more efficient than rigidly following a process, [or creating interdependencies](https://about.gitlab.com/company/team/structure/#product-groups), because they enable faster decision velocity and higher rates of [iteration](#iteration).
 
 When team members have freedom and responsibility over rigidity, they have more room to help others.
 
@@ -612,13 +612,13 @@ We demonstrate efficiency when we work on the right things, not doing more than 
 ## 🌐 Diversity, Inclusion & Belonging
 {:#diversity-inclusion .gitlab-purple}
 
-Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
+Diversity, inclusion and belonging are fundamental to the success of GitLab. We aim to make a significant impact in our efforts to foster an environment where everyone can thrive. We are designing a multidimensional approach to ensure that GitLab is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to [build and institutionalize](https://www.russellreynolds.com/en/insights/reports-surveys/diversity-and-inclusion-gamechangers) a culture that is [inclusive](https://about.gitlab.com/company/culture/inclusion/) and supports all team members equally in the process of achieving their professional goals. We hire globally and encourage hiring in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company. For example, we celebrate our sponsorship of [diversity, inclusion & belonging events](https://about.gitlab.com/blog/2016/03/24/sponsorship-update/) and double the base [referral bonus amount](/handbook/incentives/#referral-bonuses).
 
 ##### Bias towards asynchronous communication
 {:.no_toc}
-Take initiative to operate [asynchronously](/company/culture/all-remote/asynchronous/) whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are [structuring their day](/company/culture/all-remote/people/#creating-a-more-efficient-day) around pressing commitments at home or in their community.
+Take initiative to operate [asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/) whenever possible. This shows care and consideration for those who may not be in the same time zone, are traveling outside of their usual time zone, or are [structuring their day](https://about.gitlab.com/company/culture/all-remote/people/#creating-a-more-efficient-day) around pressing commitments at home or in their community.
 
-This is demonstrated by communicating recordings of [meetings](/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
+This is demonstrated by communicating recordings of [meetings](https://about.gitlab.com/company/culture/all-remote/meetings/), using GitLab Issues and Merge Requests rather than texts, calls, or Slack messages, and being sensitive to local holidays and vacation statuses. Encourage others to default to [documentation](/handbook/documentation/) rather than pressuring others to be online outside of their working hours.
 
 ##### Embracing uncomfortable ideas and conversations
 {:.no_toc}
@@ -638,13 +638,13 @@ At GitLab we believe that everyone is entitled to a safe working space where the
 
 ##### Seek diverse perspectives
 {:.no_toc}
-We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
+We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
 
-An example of this operating principle in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
+An example of this operating principle in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
 
 ##### Make family feel welcome
 {:.no_toc}
-One of the unique elements to an [all-remote culture](/company/culture/all-remote/) is the ability to visit a person's home while collaborating. If the tenor of the meeting allows, feel welcome to invite your family members or pets to drop by and greet your colleagues. Be mindful of language and use of profanity to encourage a family-friendly environment.
+One of the unique elements to an [all-remote culture](https://about.gitlab.com/company/culture/all-remote/) is the ability to visit a person's home while collaborating. If the tenor of the meeting allows, feel welcome to invite your family members or pets to drop by and greet your colleagues. Be mindful of language and use of profanity to encourage a family-friendly environment.
 
 ##### Shift working hours for a cause
 {:.no_toc}
@@ -657,7 +657,7 @@ People feel more included when they're supported. To encourage this, and to supp
 ##### Culture fit is a bad excuse
 {:.no_toc}
 We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
-We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](/company/mission/#mission).
+We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](https://about.gitlab.com/company/mission/#mission).
 
 ##### Religion and politics at work
 {:.no_toc}
@@ -676,7 +676,7 @@ Celebrate and encourage quirky gifts, habits, behavior, and points of view. Open
 
 ##### Building a safe community
 {:.no_toc}
-Do **not** make jokes or unfriendly remarks about [characteristics of the people who make up GitLab and how they identify](/company/culture/inclusion/#gitlabs-definition-of-diversity--inclusion).
+Do **not** make jokes or unfriendly remarks about [characteristics of the people who make up GitLab and how they identify](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity--inclusion).
 Everyone has the right to feel safe when working for GitLab and/or as a part of the GitLab community.
 We do not tolerate abuse, [harassment](/handbook/anti-harassment/), exclusion, discrimination, or retaliation by/of any community members, including our team members.
 You can always **refuse** to deal with people who treat you badly and get out of situations that make you feel uncomfortable.
@@ -686,7 +686,7 @@ You can always **refuse** to deal with people who treat you badly and get out of
 We recognize that unconscious bias is something that affects everyone and that the
 effect it has on us as humans and our company is large.
 We are responsible for understanding our own implicit biases and helping others
-understand theirs. We are continuously [working on getting better at this topic](/company/culture/inclusion/unconscious-bias/).
+understand theirs. We are continuously [working on getting better at this topic](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/).
 
 ##### Inclusive benefits
 {:.no_toc}
@@ -707,7 +707,7 @@ This is documented on our page about [interviewing](/handbook/hiring/interviewin
 
 ##### Inclusive meetings
 {:.no_toc}
-Be consciously inclusive in [meetings](/company/culture/all-remote/meetings/) by giving everyone present an opportunity to talk and present their points of view. This can be especially important in a remote setting.
+Be consciously inclusive in [meetings](https://about.gitlab.com/company/culture/all-remote/meetings/) by giving everyone present an opportunity to talk and present their points of view. This can be especially important in a remote setting.
 
 With internal meetings, consider using an agenda document for questions. For example, with GitLab [Group Conversations](/handbook/group-conversations/), every meeting has a numbered list that GitLab team members can add questions to. During the meeting, questions are answered in turn and discussions noted in the same document. Sometimes, these documents can have so much traffic (during the meeting) such that only a limited number of people can edit the document. In these situations, those who have questions should post on zoom chat and those who can edit the document should help copy the question over to the document. In addition, those who can edit the document should also post in zoom chat to see if anyone has any questions that they could help add to the document so that meeting attendees are more empowered to contribute to the conversation.
 
@@ -735,7 +735,7 @@ Remember, **brains work differently** and always [assume positive intent](/handb
 
 We also recommend that all team members review the [Reasonable Accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.
 
-The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
+The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.
 
 
 ##### Family and friends first, work second
@@ -757,9 +757,9 @@ We demonstrate diversity, inclusion and belongings when we foster an environment
 
 If you would like to improve your skills or expand your knowledge on topics relating to Diversity, Inclusion, & Belonging at GitLab, check out our resources:
 
--  [Being an Ally](/company/culture/inclusion/being-an-ally/)
--  [Being Inclusive](/company/culture/inclusion/being-inclusive/)
--  [Recognizing Bias](/company/culture/inclusion/unconscious-bias/)
+-  [Being an Ally](https://about.gitlab.com/company/culture/inclusion/being-an-ally/)
+-  [Being Inclusive](https://about.gitlab.com/company/culture/inclusion/being-inclusive/)
+-  [Recognizing Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/)
 
 <table class="tg">
   <tr>
@@ -810,7 +810,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 ## 👣 Iteration
 {:#iteration .gitlab-purple}
 
-We do the [smallest viable and valuable thing, and get it out quickly for feedback](/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). This thing may be additive (adding something) or subtractive (removing something). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
+We do the [smallest viable and valuable thing, and get it out quickly for feedback](https://about.gitlab.com/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). This thing may be additive (adding something) or subtractive (removing something). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one.
 
 People that join GitLab all say they already practice iteration. But this is the value that is the hardest to understand and adopt. People are trained that if you don't deliver a perfect or polished thing, there will be a problem. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other GitLab team members being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product. It is possible to ship a minimally viable product while continuing to adhere to the documented quality standards.
 
@@ -833,7 +833,7 @@ Don’t wait. When you have something of value like a potential blog post or a s
 ##### Set a due date
 {:.no_toc}
 We always try to set a due date. If needed, we cut scope.
-If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
+If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
 If we planned an announcement for a certain date, we might announce less or indicate what is still uncertain.
 But we set a due date because having something out there builds trust and gives us better feedback.
 
@@ -867,7 +867,7 @@ In this [GitLab Unfiltered video](https://youtu.be/tPTweQlBS54), GitLab CEO and 
 
 ##### Everything is in draft
 {:.no_toc}
-At GitLab, we rarely mark any content or proposals as drafts. Everything is always in draft and subject to change. When everything is in draft, contributions from team members as well as the wider community are welcomed. By having everything in draft and [assuming others have low context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication), confusion can be reduced as people have shared access to information.
+At GitLab, we rarely mark any content or proposals as drafts. Everything is always in draft and subject to change. When everything is in draft, contributions from team members as well as the wider community are welcomed. By having everything in draft and [assuming others have low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication), confusion can be reduced as people have shared access to information.
 
 ##### Under construction
 {:.no_toc}
@@ -943,7 +943,7 @@ Similarly, when adding features to GitLab, consider ways to [reduce the scope](/
 
 ##### Always iterate deliberately
 {:.no_toc}
-Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
+Rapid iteration can get in the way of [results](#results) if it's not thought out; for example, when adjusting our marketing messaging (where consistency is key), product categories (where we've set development plans), [organizational structure](https://about.gitlab.com/company/team/structure/#organizational-structure) or [product scope alignment](/handbook/people-group/promotions-transfers/#realignment-of-resources-impacting-multiple-team-members) (where real human stresses and team stability are involved), sales methodologies (where we've trained our teams) and this values page (where
 we use the values to guide all GitLab team members). In those instances, we add additional review to the approval
 process; not to prohibit, but to be more deliberate in our iteration. The change process is documented in the [GitLab Handbook Usage](/handbook/handbook-usage/) page and takes place via merge request approvals.
 
@@ -1048,7 +1048,7 @@ and processes with the **whole community** and the world in the spirit of open s
 
 There are exceptions. Material that is [not public by default is documented](/handbook/communication/confidentiality-levels/#not-public). We are above average at keeping things confidential that need to be. On a personal level, you should tell it like it is instead of putting up a poker face. Don't be afraid to admit you made a mistake or were wrong. When something goes wrong, it is a great opportunity to say "What’s the [kaizen](https://en.wikipedia.org/wiki/Kaizen) moment here?" and find a better way without hurt feelings.
 
-Even as a [public company](/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the operating principles below. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. As a [public company](/handbook/being-a-public-company/), we declare everyone in the company as an insider, which allows us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
+Even as a [public company](https://about.gitlab.com/blog/2021/10/14/gitlab-inc-takes-the-devops-platform-public/), we know that our value of transparency will be key to our success. This value can be hard to follow at times. You might ask yourself: what should be shared, how much to share, whether or not to speak up but definitely take the time to always opt for maximum transparency by adhering to the operating principles below. Often, company values get diluted as they grow, most likely because they do not write anything down. But we will make sure our values scale with the company. As a [public company](/handbook/being-a-public-company/), we declare everyone in the company as an insider, which allows us to remain transparent internally about our numbers, etc. Everything else that can be transparent will continue to be so.
 
 ##### Public by default
 {:.no_toc}
@@ -1190,7 +1190,7 @@ Our values provide guidelines on how to behave and are written to be actionable.
 They help us describe the type of behavior that we expect from GitLab team members.
 They help us to know how to behave in the organization and what to expect from others.
 
-Values provide a framework for distributed decision making, detailed in GitLab's [TeamOps](/teamops/) management philosophy. They allow individuals to determine what to do without asking their manager and they allow teams to make consistent decisions. When teams across the organization reference the same values in their decision making, there is consistency in how decisions are made. This ensures that [our culture](/company/culture/#culture-at-gitlab) remains driven by our values.
+Values provide a framework for distributed decision making, detailed in GitLab's [TeamOps](/teamops/) management philosophy. They allow individuals to determine what to do without asking their manager and they allow teams to make consistent decisions. When teams across the organization reference the same values in their decision making, there is consistency in how decisions are made. This ensures that [our culture](https://about.gitlab.com/company/culture/#culture-at-gitlab) remains driven by our values.
 
 Lastly, values create a [conscious culture](https://conscious.org/what-is-conscious-culture-and-why-do-we-need-it/) that is designed to help you prosper and experience exceptional personal growth through work.
 
@@ -1213,7 +1213,7 @@ We hope that the way we work and our values will instill trust, instead of manda
 Operating principles are behaviors that empower GitLab team members to definitively live out a given value.
 They clarify what a given core value means and looks like *at GitLab*. 
 Understanding this distinction is critical to thriving at GitLab,
-particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
+particularly for [newer team members](https://about.gitlab.com/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
 #### Process for removing operating principles
 {:.no_toc}
@@ -1267,7 +1267,7 @@ This method [has shown itself to be effective](https://gitlab.com/groups/gitlab-
 
 Companies are encouraged to copy and implement GitLab's values. They are Creative Commons and can be copied verbatim.
 
-We make our values public for the same [reasons](/company/culture/all-remote/hiring/#make-your-strategy-public) we make our [OKRs](/company/okrs/) (Objectives and Key Results) and [strategy](/company/strategy/) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
+We make our values public for the same [reasons](https://about.gitlab.com/company/culture/all-remote/hiring/#make-your-strategy-public) we make our [OKRs](https://about.gitlab.com/company/okrs/) (Objectives and Key Results) and [strategy](https://about.gitlab.com/company/strategy/) public. There is great power and efficiency in teams who share company values. Concealing values until *after* someone is hired into an organization is not a wise strategy.
 
 Not everyone will see our values and feel aligned with them, and that's OK. By making values public, it shows respect for the time of job seekers who conduct due diligence on prospective employers. When people who *are* aligned with GitLab's values apply for an [open vacancy](/jobs/), this allows our hiring teams to more efficiently move candidates through the [interview process](/handbook/hiring/interviewing/).
 
@@ -1298,7 +1298,7 @@ In a [GitLab Unfiltered interview on values](https://youtu.be/7kMQj4O4ZGU), GitL
 
 ## Updating our values
 
-Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](/company/team/) or in the [core team](/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
+Our values are updated frequently and as needed. Everyone is welcome to make a suggestion to improve them. To update: make a merge request and assign it to the CEO. If you're a [team member](https://about.gitlab.com/company/team/) or in the [core team](/community/core-team/) please post a link to the MR in the `#values` Slack channel. If you're not part of those groups, please send a direct Twitter message to [@sytses](https://twitter.com/sytses).
 
 ## Number of contributors and updates over time
 
@@ -1331,8 +1331,8 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
 1. Applying one of our [values virtual backgrounds](/press/press-kit/#green-screens) in video calls.
-1. Our GitLab [Song Book](/company/culture/songbook/), the song lyrics often mention GitLab values.
-1. Regularly conduct a values exercise at the [e-group offsite](/company/offsite/).
+1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values.
+1. Regularly conduct a values exercise at the [e-group offsite](https://about.gitlab.com/company/offsite/).
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
@@ -1400,17 +1400,17 @@ Values make and clarify choices. A well-chosen value has a defensible opposite. 
 
 ## What is not a value
 
-- [All-remote](/company/culture/all-remote/) isn't a value. It is something we do because it helps to [practice our values](/company/culture/all-remote/values/) of transparency, efficiency, results, and diversity, inclusion & belonging.
+- [All-remote](https://about.gitlab.com/company/culture/all-remote/) isn't a value. It is something we do because it helps to [practice our values](https://about.gitlab.com/company/culture/all-remote/values/) of transparency, efficiency, results, and diversity, inclusion & belonging.
 
 ## Questions from new team members
 
-During every [GitLab 101 session with new hires](/company/culture/gitlab-101/) we discuss our values. We document the questions and answers to [Frequently Asked Questions about the GitLab Culture](/company/culture/gitlab-101/#frequently-asked-questions-about-the-gitlab-culture).
+During every [GitLab 101 session with new hires](https://about.gitlab.com/company/culture/gitlab-101/) we discuss our values. We document the questions and answers to [Frequently Asked Questions about the GitLab Culture](https://about.gitlab.com/company/culture/gitlab-101/#frequently-asked-questions-about-the-gitlab-culture).
 
-New team members should read [GitLab's guide to starting a new remote role](/company/culture/all-remote/getting-started/), and reference [interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) centered on values within the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=values).
+New team members should read [GitLab's guide to starting a new remote role](https://about.gitlab.com/company/culture/all-remote/getting-started/), and reference [interviews](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq7QUX-Ux5fOunQotqJbECc) centered on values within the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=values).
 
 ## Mission
 
-Our [mission](/company/mission/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
+Our [mission](https://about.gitlab.com/company/mission/#mission) is that **everyone can contribute**. This mission guides our path, and we live our values along that path.
 
 ## Mitigating Concerns
 

@@ -147,7 +147,7 @@ An intentional approach to [informal communication](https://about.gitlab.com/com
 Building this level of trust also enables DRIs to make faster decisions, as there's a foundation of confidence in interacting with others.
 
 {{% details summary="Examples of informal communication" %}}
-**Example 1:** [Scheduling coffee chats during team member onboarding](/company/culture/all-remote/informal-communication/#coffee-chats)
+**Example 1:** [Scheduling coffee chats during team member onboarding](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats)
 
 To set the precedent for informal communication at GitLab, each team member is required to schedule and conduct several [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and consider applying to join a [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/erg-guide/) as mandatory tasks during their [onboarding](https://about.gitlab.com/handbook/people-group/general-onboarding/). This ensures that they have the skills and confidence to initiate casual conversations and build cross-functional relationships during their time with the company.
 
