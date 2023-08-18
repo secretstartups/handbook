@@ -16,7 +16,6 @@ I’m the director of development for the [secure](/handbook/engineering/develop
 
 In addition to leading development for these development sub-departments, I also focus on:
 
-* Co facilitating the [AI integration working group](/company/team/structure/working-groups/ai-integration/)
 * Protecting GitLab from attackers
 * Coordinating escalations for specific large customers
 * Public speaking on various topics
@@ -30,10 +29,9 @@ In addition to leading development for these development sub-departments, I also
 * Teams depend on their [stable counterparts](/blog/2018/10/16/an-ode-to-stable-counterparts/) in product management, quality, and design to help with deciding on priorities and then achieving them
 * Teams publish weekly updates on the highest priority items to keep the focus on them and to keep them on track
 
-
 # Background
 
-I’m a veteran of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
+I’m an alumni of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/wayne)
@@ -43,14 +41,14 @@ Links about Wayne:
 # How to collaborate with Wayne
 
 * I subscribe to [servant-leadership](https://en.wikipedia.org/wiki/Servant_leadership)
-* Continuous learning is fundamental to me. I read approximately one book weekly and aspire to take one online class every month.
+* Continuous learning is fundamental to me. I read approximately one book a week.
 * I subscribe to the philosophy of “saying what you are going to do and doing what you say.”
 * I am an advocate for remote work because it is highly effective for both the company and the individual.
 * At work, nothing makes me happier than when:
-  * A user benefits from a change developed by my team
+  * A user benefits from a change developed by my team.
   * A prospect becomes a customer because of a feature developed by my team.
-  * A team member learns something new and expands their horizons
-  * A process or procedure, or technology is improved that benefits the overall company, team members, or the technology industry as a whole
+  * A team member learns something new and expands their horizons.
+  * A process, procedure, or technology is improved that benefits company team members or the technology industry as a whole.
 * I prefer to use this [1-1 format](/handbook/leadership/1-1/suggested-agenda-format/)
 * I do skip-level meetings with those who work for my direct reports every three months. I am always available for ad-hoc discussions as well.
 * Some of my favorite business books include:
@@ -61,17 +59,17 @@ Links about Wayne:
 * I am in [Atlanta, GA, USA](https://en.wikipedia.org/wiki/Atlanta) (Eastern US).
 * I am most productive in the morning.
 * When reaching out to me, my preferences are:
-  * Tag me in a merge request
-  * Tag me in an issue
-  * Tag me in a message in a Slack channel
-  * Send me a 1:1 message in Slack
+  * Tag me in a merge request or issue
+  * Tag me in a in a public Slack channel
+  * Send me a DM in Slack
+  * Schedule a meeting with me
   * Send me an email
 * I prefer that, when feasible, all recorded meetings should be made public on GitLab Unfiltered. I continue to be pleaseantly surprised by how this can increase collaboration inside and outside the team.
-* I always try to explain the “why". Engineers are often asked to focus on the “what” and “how”.  However, explaining the "why" makes sure they are engaged and also enables the engineers to find better ways to achieve the goals.
+* I always try to explain the “why". Engineers are often asked to focus on the “what” and “how”. However, explaining the "why" makes sure they are engaged and also enables the engineers to find better ways to achieve the goals.
 
 # Engineering Director shadow program
 
-I created and continue to operate the [Engineering director shadow program](/handbook/engineering/development/shadow/director-shadow-program.html), which allows anyone at GitLab to shadow me for a week and provides mentoring, learning opportunities, and career development exploration.
+I created and continue to operate the [Engineering director shadow program](/handbook/engineering/development/shadow/director-shadow-program.html), which allows those at GitLab and also non-GitLab team members to shadow me for a week and provides mentoring, learning opportunities, and career development exploration.
 
 # Dashboards I use
 
@@ -90,7 +88,9 @@ Corresponding handbook pages:
 
 Please be an [accountability partner](https://medium.com/@MaryLouWrites/accountability-partners-what-are-they-and-how-do-i-get-some-c5ebd1a828ef) for me on the following items:
 
-* When I make requests or ask questions, always include the priority and expected time frames 
+* When I make requests or ask questions, confirm I always include the why, the priority, and the expected time frames 
+* In meetings, don't talk for more than 60 seconds without pausing for questions.
+* In meetings, reduce filler words like "so" and "uh"
 * Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
 
 # 2023 Q3 OKRS
