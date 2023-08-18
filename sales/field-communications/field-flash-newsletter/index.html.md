@@ -21,35 +21,35 @@ Ongoing feedback and participation from the field is imperative to the success o
 The newsletter is sent to members of the field (sales + customer success) and stakeholders (i.e. SDRs). **Please note that this email is considered confidential and is, therefore, intended for internal audiences only.** Please do not forward externally. 
 
 ## Newsletter Tool 
-The newsletter is sent using the internal comms newsletter platform [Bananatag](https://bananatag.com/). This tool allows GitLab internal communications professionals to send targeted email newsletters to team members based on department, region, manager, location, start date and more. 
+The newsletter is sent using the internal comms newsletter platform [Staffbase](https://staffbase.com/). This tool allows GitLab internal communications professionals to send targeted email newsletters to team members based on department, region, manager, location, start date and more. 
 
 Access to this tool is shared amongst internal comms teams such as Field Communications, GitLab corporate internal comms and others. The benefit of this tool is that it is internal comms-specific, meaning that the newsletter can only be sent to team members with a GitLab email domain.
 
 ## Opportunities/Requirements 
-After interviewing GitLab team members from across the org and surveying the field, we identified the following as key requirements of the Field Flash newsletter: 
+After interviewing GitLab team members from across the org and surveying the Field, we identified the following as key requirements of the Field Flash newsletter: 
 
 The newsletter will...
 
 **Uphold our [values](/handbook/values/) of transparency**
-- The newsletter is for communication, the Handbook is for documentation. This means that the newsletter will disseminate updates but lean on the Handbook (and other relevant resources) as the main source of documentation, linking back to it wherever possible. 
-   - Note: A tangential benefit of this approach is that it will allow us to improve the [Sales Handbook](/handbook/sales/) during this process. 
+- The newsletter is for communication, the Handbook is for documentation. This means that the newsletter disseminates updates but leans on the Handbook (and other relevant resources) as the main source of documentation, linking back to it wherever possible. 
+   - Note: A tangential benefit of this approach is that it allows us to improve the [Sales Handbook](/handbook/sales/) during this process. 
 
 **Prioritize repetition, brevity, user-friendliness and added value**
-- The newsletter will focus on short lists and bullet points and will link out to more robust resources. 
-- Repetition is key to adoption. We will not focus on a single channel, but rather notify the field of a new newsletter via Slack and (eventually) Salesforce. 
+- The newsletter focuses on short lists and bullet points and links out to more robust resources (e.g. Slack and Highspot). 
+- Repetition is key to adoption. We do not focus on a single channel, but rather notify the field of a new newsletter via Slack. 
 - We don't want the team to see the newsletter as more noise. A key to adoption will be successfully positioning it as THE resource to learn whats new and recap important information. Everything will be tied back to the payoff to the seller when possible. 
-- We must reconcile the fact that this newsletter is yet another increase in communication. We will leverage it to cut down on other communications when possible. 
+- We must reconcile the fact that this newsletter is yet another increase in communication. We leverage it to cut down on other communications when possible. 
 
 **Be fun to look at and read**
 - A focus on multimedia is important in order to help the newsletter break the monotony of text we sift through each day. 
-- We will use images, gifs, emoji, and video where possible. For example, instead of doing a written win-wire, we will interview the individual and embed that 30-60 second video in the newsletter.
+- We use images, gifs, emoji, and video where possible. For example, instead of doing a written win-wire, we will interview the individual and embed that 30-60 second video in the newsletter.
 
-**Help the field operationalize key messages** 
-- We will organize information around our 3 main value drivers when possible. 
-- We will frequently reiterate SKO messages through video clips and use-case examples. 
+**Help the Field operationalize key messages** 
+- We organize information around our 3 main value drivers when possible. 
+- We frequently reiterate SKO messages through video clips and use-case examples. 
 
-**Be an opportunity for the field to "learn themselves"**
-- A peripheral goal of the newsletter is to advertise helpful resources to the field. We will provide helpful information in hopes that it will encourage team members to seek out the source of that information and look for additional information once there. 
+**Be an opportunity for the Field to "learn themselves"**
+- A peripheral goal of the newsletter is to advertise helpful resources to the Field. We will provide helpful information in hopes that it will encourage team members to seek out the source of that information and look for additional information once there. 
 
 **Highlight *all* aspects that make a big win possible**
 - There are a lot of new reps who are still ramping, and they want to learn from others. We will spotlight everything that went into winning a deal, including any customer-facing presentations, RFPs, whitepapers, etc. Other team members can reference these later, and it may save them cycles by not having to duplicate work.
@@ -59,7 +59,7 @@ The newsletter will...
 - GitLab is asynchronous, and this update is no exception. The onus remains on individual team members to stay informed and connected. The newsletter is not a substitute for the Handbook or other resources salespeople should be leveraging on the day-to-day.
 
 **Be general enough to allow us to remain segment-agnostic**
-- The newsletter will include general updates and resources that are applicable to most, if not all, team members. Future field communications programs will enable individual field segments (CS, ENT, COMM, PubSec, etc.) with more frequent updates that are tailored to their teams. 
+- The newsletter will include general updates and resources that are applicable to most, if not all, team members. Future field communications programs will enable individual field segments (CS, ENT, COMM, PubSec, etc.) with more frequent updates that are tailored to their teams (e.g. [Field Update Tickers] (https://about.gitlab.com/handbook/sales/field-communications/field-update-tickers/)). 
 
 **Be built out in the open**
 - The newsletter content will be compiled in an issue each month within the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). Any team member is welcome to contribute or make requests. See more information in the Process section below. 
@@ -74,19 +74,20 @@ The newsletter will...
 Based on the requirements above, this is the current iteration of the newsletter format: 
 
 1. Featured 
-   - The announcement we think is most impactful to the field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references. Note that not all issues will have a featured article.
+   - The announcement we think is most impactful to the Field. We will try to communicate this in an image with 1-2 lines of text + 1-2 links to references. Note that not all issues will have a featured article.
 1. Deal of the month
    - Video of sales/CS team member(s) overviewing the opportunity and/or customer and explaining how they won the deal + links to any customer-facing collateral they used (that can be publicly shared).
 1. New and noteworthy resources
    - New skills and tools like competitive intel, customer case studies, or a customer proof point highlight. 
 1. Did you know? 
    - Updates from sales ops and other stakeholders related to changes in the way we work or interact with other teams. 
-1. What's new in GitLab
-   - The top takeaways from the latest GitLab release, mapped to one of the three value drivers and framed in the context of the customer value. 
 1. Upcoming events
    - Where GitLab will be over the next two months, divided by region. What webinars and other virtual events we will participate in. 
-1. Enablement corner
-   - Updates from field enablement regarding new or updated trainings + opportunities to reinforce SKO learning objectives. (i.e. Did you know...?/Did you remember that...?)
+1. Enablement corner (space permitting)
+   - Updates from Field Enablement regarding new or updated trainings + opportunities to reinforce Field learning objectives. (i.e. Did you know...?/Did you remember that...?)
+ 1. Channel corner 
+   - Updates from Field Enablement/Channel & Alliances team regarding new or updated trainings, opportunities or news about Channel and/or Alliances. (i.e. Did you know...?/Did you remember that...?)
+
 
 ## Process 
 The newsletter is sent out **on the first Monday of each month at 9 am PT or to align with the [Bi-Weekly WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call).** Based on feedback from the field, we will iterate on timing. 
@@ -95,7 +96,7 @@ We build the newsletter in an issue in the [Enablement project](https://gitlab.c
 - The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 
 - Relevant stakeholders/contributors are tagged in the issue each month to provide content or review suggested content in the outline. 
 - Contributed content is due no later than one week before the planned send date (first Monday of each month) to allow time for drafting, design, and reviews. Exceptions can be made in special cases – please reach out to the Field Communications team in the #field-flash-contributors channel to discuss. 
-- Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in Bananatag. 
+- Once the outline is complete, Field Communications drafts the newsletter in a Google document linked to in the issue  and then imports the content into the newsletter template in Staffbase. 
 - Field Communications sends the newsletter test email to relevant leaders and stakeholders for review no more than two business days before planned send date.
 - Reviewers provide feedback no later than 3 pm CT on the business day before the planned send date to allow time for revisions and scheduling.
 - Field Communications schedules the newsletter to send at 9 am PT on the planned send date. 
@@ -122,15 +123,10 @@ While submissions often come from Sales leadership, nominations can and should b
 
 ## Measurement
 Quantitative Success Metrics
-- Email open rate - Average open rate of 75% in FY23. 
-- Click rate - Average click rate of 35% in FY23.
-- Increased sentiment around information flow - 20% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role." in FY23.
-
-Qualitative Success Metrics
-- Increased engagement from field team members/leaders and stakeholders in regards to the newsletter – feedback, requests, suggestions, etc. 
-- Usefulness of newsletter content as shown by other stakeholders using newsletter content for their own work. 
-- Improve the Sales section of the Handbook as a result of work on the newsletter. 
+- Total email open rate (including original send and follow-up send)- Average open rate of 80% in FY24. 
+- Click rate - Average click rate of 20% in FY24.
+- Increased sentiment around information flow - 10% increase in "agree/strongly agree" responses to this survey question: "As a sales/CS team member, I feel informed on all critical information related to my role." in FY25## P
 
 ## Past Newsletters
-All past editions of the Field Flash are accessible through [Highspot](https://gitlab.highspot.com/spots/615dd89c0d9b82c44eeab9c6?list=62157017ca1f39f7122e49e6&overview=false), our go-to-market (GTM) content portal / asset management system.
+All past editions of the Field Flash are accessible through [Highspot](https://gitlab.highspot.com/spots/615dd82071cff4c4b2bcbc32?list=62d80bf826d446a808c6d3ab&overview=true), our go-to-market (GTM) content portal / asset management system.
 
