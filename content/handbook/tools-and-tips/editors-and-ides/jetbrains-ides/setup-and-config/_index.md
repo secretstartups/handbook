@@ -79,6 +79,15 @@ and search for `excludeFolder`.
 Alternately, these would be included in the config if you use one of the "copy someone else's config"
 Configuration approaches under [Configuration](#configuration).
 
+## Increase maximum heap size in memory settings
+
+When working with the GitLab project, which is BIG, RubyMine can use a lot of memory when indexing/searching/etc. It's not unusual for memory usage to peak out at **up to 10 gigabytes or more of memory during indexing**, if it is allocated.
+
+If you have the memory to spare on your workstation, it will help your performace to allocate a lot of memory. 12 gigabytes is a good start.
+
+1. `Help menu -> Change Memory Settings`
+1. Change `Maximum heap size` to `12000` Mib, or whatever you think you can allocate without otherwise impacting system performance. On a maxed-out MacBook pro with 64G of memory, allocating 12G should be fine.
+
 ## Configuration
 
 ### TL;DR
