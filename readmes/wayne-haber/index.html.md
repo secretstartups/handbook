@@ -29,15 +29,6 @@ In addition to leading development for these development sub-departments, I also
 * Teams depend on their [stable counterparts](/blog/2018/10/16/an-ode-to-stable-counterparts/) in product management, quality, and design to help with deciding on priorities and then achieving them
 * Teams publish weekly updates on the highest priority items to keep the focus on them and to keep them on track
 
-# Background
-
-I’m an alumni of three successful startups (including GitLab) and have experience in multiple areas, including healthcare, finance, and security.
-
-Links about Wayne:
-* [GitLab](https://gitlab.com/wayne)
-* [LinkedIn](https://www.linkedin.com/in/waynehaber/)
-* [WayneHaber.com](https://www.waynehaber.com)
-
 # How to collaborate with Wayne
 
 * I subscribe to [servant-leadership](https://en.wikipedia.org/wiki/Servant_leadership)
@@ -103,3 +94,11 @@ Themes:
 * Take actions based on team member pulse survey in CultureAmp
 * Improve engineering efficiency
 * Deliver on major roadmap deliverables
+
+
+# More information about Wayne
+
+Links about Wayne:
+* [GitLab](https://gitlab.com/wayne)
+* [LinkedIn](https://www.linkedin.com/in/waynehaber/)
+* [WayneHaber.com](https://www.waynehaber.com)
