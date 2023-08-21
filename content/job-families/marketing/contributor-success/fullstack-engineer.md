@@ -14,7 +14,7 @@ description: Contributor Success Fullstack Engineers work on laying down an effi
 - Track contribution delivery of the community cohorts you are assigned.
 - Nominate community contributors and contribution for recognition.
 - Be a permanent member of GitLab MR Coaches.
-- Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+- Be proficient at one or more MR Coach specialty (Development, Test, Documentation and etc).
 - Collaborate with GitLab's Core and Developer Relations teams.
 - Participate in Contributor Success team stand-up and agile processes.
 - Be a sounding board for our community contributors.
@@ -61,7 +61,7 @@ The Contributor Success Fullstack Engineer is a [grade 6](https://about.gitlab.c
 - Implement contributor efficiency tooling improvements.
 - Nominate impactful community contributors and contribution for recognition.
 - Be a permanent member of GitLab MR Coaches.
-- Be proficient at one MR Coach speciality (Development, Test, Documentation and etc).
+- Be proficient at one MR Coach specialty (Development, Test, Documentation and etc).
 - Participate in Contributor Success team stand-up and agile processes.
 - Listen to community contributors' feedback and capture them as issues in the backlog.
 - Participate in GitLab's overall Contributor Success events and processes.
@@ -85,7 +85,7 @@ The Senior Contributor Success Fullstack Engineer role extends the [Contributor 
 - Propose efficient metrics for tracking community efficiency.
 - Nominate impactful community contributors, cohorts and contribution for recognition.
 - Be a permanent member of GitLab MR Coaches.
-- Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+- Be proficient at one or more MR Coach specialty (Development, Test, Documentation and etc).
 - Drive Contributor Success team stand-up and agile processes.
 - Advocate prioritization of improvements backlog based on feedback from our community.
 - Participate in GitLab's overall Contributor Success events and processes.
@@ -110,27 +110,39 @@ The Staff Engineering Contributor Success Fullstack Engineer role extends the [S
 - Propose pipeline efficiency improvements and drive them to completion.
 - Review nominations of community contributors, cohorts and contribution for recognition.
 - Be a permanent member of GitLab MR Coaches.
-- Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+- Be proficient at one or more MR Coach specialty (Development, Test, Documentation and etc).
 - Own Project Management of Contributor Success team stand-up and agile processes.
-- Make trade-off recommendations to priorize the most impactful improvements for the community.
+- Make trade-off recommendations to prioritize the most impactful improvements for the community.
 - Participate in GitLab's overall Contributor Success events and processes.
 
 
 ### Performance Indicators
 
-- [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr)
-- [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
-- [Community MR Coaches per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
-- [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month)
+#### Key Performance Indicators
+
+- [Unique Wider Community Contributors per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#unique-wider-community-contributors-per-month)
+- [Wider Community merged MRs per release](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-release)
+- [MRARR](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#mrarr)
+
+#### Regular Performance Indicators
+
+- [Wider Community merged MRs per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#wider-community-merged-mrs-per-month)
+- [First time contributors per month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#first-time-contributors-per-month)
+- [Open Community MR Age (OCMA)](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#open-community-mr-age)
+- [Leading Organizations MR Time to review](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#leading-organizations-mr-time-to-review)
+- [Returning vs new contributors](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#returning-vs-new-contributors)
+- [Community MR Coaches per Month](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-coaches-per-month)
+- [Feature Community Contribution MRs](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#feature-community-contribution-mrs)
+- [Community MR Percentage](https://about.gitlab.com/handbook/marketing/developer-relations/performance-indicators/#community-mr-percentage)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
-- Candidates will then be invited to a 45 minute peer interview with an Engineer in the Community Outreach Engineering team.
+- Candidates will then be invited to a 45 minute peer interview with an Engineer in the Contributor Success team.
 - Candidates will then be invited to a 45 minute interview with an Engineering Productivity Engineer
-- Candidates will then be invited to a 45 minute interview with the VP of Quality
+- Candidates will then be invited to a 45 minute interview with the VP of Developer Relations
 - Successful candidates will subsequently be made an offer
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
