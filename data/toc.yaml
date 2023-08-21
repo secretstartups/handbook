@@ -109,8 +109,6 @@
           url: https://about.gitlab.com/handbook/hiring/interviewing/
         - name: Jobs FAQ
           url: https://about.gitlab.com/handbook/hiring/candidate/faq/
-        - name: Vacancies
-          url: https://about.gitlab.com/handbook/hiring/vacancies/
     - name: Inclusion & Diversity
       url: https://about.gitlab.com/company/culture/inclusion/
       links:
@@ -337,8 +335,6 @@
     url: https://about.gitlab.com/handbook/finance/accounting/#accounts-receivable/
   - name: Business Technology
     url: https://about.gitlab.com/handbook/business-technology/
-  - name: Enterprise Risk Management
-    url: https://about.gitlab.com/handbook/finance/enterprise-risk-management/
   - name: Expenses
     url: https://about.gitlab.com/handbook/finance/expenses/
   - name: Financial Planning & Analysis
@@ -399,21 +395,5 @@
   icon: fa-solid fa-scale-balanced
   url: https://about.gitlab.com/handbook/legal/
   links:
-  - name: Contract Management
-    url: https://about.gitlab.com/handbook/legal/contract-management/
-  - name: Corporate Law
-    url: https://about.gitlab.com/handbook/legal/corporate-law/
-  - name: Data Protection & Privacy
-    url: https://about.gitlab.com/handbook/legal/data-protection-and-privacy/
-  - name: Ethics
-    url: https://about.gitlab.com/handbook/legal/ethics/
-  - name: Intellectual Property
-    url: https://about.gitlab.com/handbook/legal/intellectual-property/
-  - name: Litigation
-    url: https://about.gitlab.com/handbook/legal/litigation/
-  - name: Open Source
-    url: https://about.gitlab.com/handbook/legal/open-source/
-  - name: Regulatory Compliance
-    url: https://about.gitlab.com/handbook/legal/regulatory-compliance/
   - name: GitLab Code of Business Conduct and Ethics
     url: https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d

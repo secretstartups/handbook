@@ -85,7 +85,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 #### Job Grade
 
-The Associate Site Reliability Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Site Reliability Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 

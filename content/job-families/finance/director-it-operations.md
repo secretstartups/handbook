@@ -8,7 +8,7 @@ The Director, IT Operations Job Family leads a team of a highly-collaborative an
 
 ### Sr. Director, IT Operations
 
-The Sr. Director, IT Operations reports to the [VP, Information Technology](job-families/finance/vp-information-technology/)
+The Sr. Director, IT Operations reports to the [VP, Information Technology](/job-families/finance/vp-information-technology/)
 
 #### Sr. Director, IT Operations Job Grade
 

@@ -135,4 +135,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Third round interview is with the Senior Director, Enterprise Applications.
 - At the final stage candidates will meet with the VP of IT.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

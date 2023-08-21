@@ -31,7 +31,7 @@ The Product Design Manager is a [grade 8](https://about.gitlab.com/handbook/tota
 
 The Foundations team works on building a cohesive and consistent user experience, both visually and functionally. You'll be responsible for leading the direction of the experience design, visual style, and technical tooling of the GitLab product. You'll act as a centralized resource, helping to triage large-scale experience problems as the need arises.
 
-You'll spend your time collaborating with a [cross-functional team](https://about.gitlab.com/handbook/product/categories/#ecosystem-group), helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility standards into our workflows, and defining guidelines and best practices that will inform how teams design and build products. A breakdown of the vision you’ll help to deliver within the Foundation group can be found on our [product direction page](/direction/manage/foundations/).
+You'll spend your time collaborating with a [cross-functional team](https://about.gitlab.com/handbook/product/categories/#ecosystem-group), helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility standards into our workflows, and defining guidelines and best practices that will inform how teams design and build products. A breakdown of the vision you’ll help to deliver within the Foundation group can be found on our [product direction page](https://about.gitlab.com/direction/manage/foundations/).
 
 ### Requirements
 

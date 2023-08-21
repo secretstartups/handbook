@@ -133,7 +133,7 @@ The Manager, Candidate Experience is a [grade 8](https://about.gitlab.com/handbo
 
 ## Career Ladder
 
-The next step in the Candidate Experience job family is to move to the [Recruiter](/job-families/people-group/talent-acquisition/) job family or the [Sourcer](/job-families/people-group/recruiting-sourcer/) job family.
+The next step in the Candidate Experience job family is to move to the [Recruiter](/job-families/people-group/talent-acquisition/) job family or the [Sourcer](/handbook/content/job-families/people-group/talent-acquisition-sourcing/) job family.
 
 ## Performance Indicators
 

@@ -168,7 +168,7 @@ The Manager, Sourcing is a [grade 8](https://about.gitlab.com/handbook/total-rew
 - Report out on progress to leadership, flag hot spots, and work through creative solutions
 - Lead trainings and disseminate best practices when needed to the team as a resident sourcing expert
 - Innovate and operationalize sourcing methods to deliver diverse talent to GitLab.
-- Partner with internal TA Enablement team on TA tools initiatives  
+- Partner with internal TA Enablement team on TA tools initiatives
 - Initialize and lead talent market research projects
 - Own a small req load as business needs dictate (?)
 
@@ -216,7 +216,7 @@ The Manager, Sourcing is a [grade 8](https://about.gitlab.com/handbook/total-rew
 
 ## Career Ladder
 
-The next step in the Sourcing job family is to move to the [Recruiting Leadership](/job-families/people-group/vp-recruiting/) job family.
+The next step in the Sourcing job family is to move to the [Recruiting Leadership](/job-families/people-group/executive-recruiter/) job family.
 
 ## Hiring Process
 

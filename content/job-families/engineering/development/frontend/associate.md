@@ -62,8 +62,6 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - [Staff](/job-families/engineering/development/frontend/#staff-frontend-engineer)
 - [Frontend Engineering Manager](/job-families/engineering/development/frontend/manager/)
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
-
 ## Job Grade
 
 The Associate Backend Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

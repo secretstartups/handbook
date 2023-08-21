@@ -11,7 +11,7 @@ and putting them in the best position to succeed. They own the delivery of produ
 They must also coordinate across departments to accomplish collaborative goals.
 Engineering Leadership at GitLab is cross-discipline.
 A [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager)
-manages [Engineering Managers](/job-families/engineering/development/management/engineer-manager/)
+manages [Engineering Managers](/job-families/engineering/development/management/engineering-manager/)
 with fullstack teams (frontend, backend, and fullstack engineers), and/or Engineering Individual Contributors (frontend, backend, and fullstack engineers)
 
 ## Responsibilities

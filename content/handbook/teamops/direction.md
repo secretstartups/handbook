@@ -17,7 +17,7 @@ In FY2024, the Workplace department in GitLab is:
 
 ## Growth
 
-The future of TeamOps as an internal operational and as a revenue model is based on the following principles. (See also: [Workplace Handbook](https://about.gitlab.com/ceo/chief-of-staff-team/workplace/), [TeamOps Handbook](/handbook/teamops/))
+The future of TeamOps as an internal operational and as a revenue model is based on the following principles. (See also: [Workplace Handbook]({{< ref "workplace" >}}), [TeamOps Handbook]({{< ref "/handbook/teamops" >}}))
 
 - TeamOps is an evolution of the Managing So Everyone Can Contribute (MECC) management model. It is based on the philosophy of using information to stay aligned, instead of shared time or location (proximity).
 - TeamOps is **not** exclusively for remote work or distributed teams, but it does enable more schedule and workplace flexibility for every team structure.

@@ -131,48 +131,12 @@ Any custom labels or tags that are created should use the respective realm slug 
     </thead>
     <tbody>
         <tr>
-            <td><code>business-tech</code></td>
-            <td>
-                <a href="/handbook/infrastructure-standards/realms/business-tech">Business Technology</a>
-            </td>
-            <td>
-                This is for resources managed by the Business Technology team, including all departments and groups that do not have their own realm. The `sales-cs` realm with demo and training systems has been migrated to the Business Technology team.
-            </td>
-        </tr>
-        <tr>
-            <td><code>eng-dev</code></td>
-            <td>
-                <a href="/handbook/infrastructure-standards/realms/eng-dev">Engineering Development</a>
-            </td>
-            <td>
-                This is for additional services managed by Engineering Development (including `eng-ux` and `product` department resources) that don't belong in `saas`, `eng-infra`, or `sandbox` realms.
-            </td>
-        </tr>
-        <tr>
             <td><code>eng-infra</code></td>
             <td>
                 <a href="/handbook/infrastructure-standards/realms/eng-infra">Engineering Infrastructure</a>
             </td>
             <td>
                 This is for additional services managed by Engineering Infrastructure and Site Reliability Engineers that may not be specific to GitLab.com SaaS (Ex. tools, release and package management services, etc).
-            </td>
-        </tr>
-        <tr>
-            <td><code>eng-security</code></td>
-            <td>
-                <a href="/handbook/infrastructure-standards/realms/eng-security">Engineering Security</a>
-            </td>
-            <td>
-                This is for resources managed by the Security team.
-            </td>
-        </tr>
-        <tr>
-            <td><code>eng-support</code></td>
-            <td>
-                <a href="/handbook/infrastructure-standards/realms/eng-support">Engineering Support</a>
-            </td>
-            <td>
-                This is for resources managed by the Customer Support team.
             </td>
         </tr>
     </tbody>
