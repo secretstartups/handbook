@@ -165,13 +165,6 @@ On at least a monthly basis, review accounts within your region in preparation f
 
 Details for all at-risk account should be captured in Gainsight using an `At-Risk Update` timeline entry. These updates are synced to Salesforce, and reports used to review at-risk accounts draw on these updates.
 
-#### At-Risk Resources
-
-Generally triage commentary now is recorded by the CSM/Manager in the account timeline in Gainsight, however the CSM may create a Triage issue for broader collaboration across the account team:
-- Gainsight Dashboard - **CSM Portfolio** or **CS Leadership**
-- [Account Triage Handbook](/handbook/customer-success/csm/health-score-triage/)
-- [Account Triage Board](https://gitlab.com/gitlab-com/customer-success/account-triage/-/boards/703769)
-
 
 #### At-Risk Review Meetings
 
