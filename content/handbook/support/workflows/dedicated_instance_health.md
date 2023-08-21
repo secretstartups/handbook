@@ -7,7 +7,7 @@ description: "Gitlab Dedicated Support - Observability and Monitoring"
 
 ## Accessing Grafana
 
-The credentials for accessing the Grafana instance associated with each GitLab Dedicated tenant are stored in the `GitLab Dedicated - Support` [1Password Vault](/handbook/security/#vaults).  As with [the OpenSearch instances](dedicated_logs.md), the passwords are referred to by customer number. Use the information in the internal note in the ticket and the subdomain in the `website` field in 1Password to find the credentials for the correct GitLab Dedicated tenant.
+The credentials for accessing the Grafana instance associated with each GitLab Dedicated tenant are stored in the `GitLab Dedicated - Support` [1Password Vault](https://about.gitlab.com/handbook/security/#vaults).  As with [the OpenSearch instances]({{< ref "dedicated_logs" >}}), the passwords are referred to by customer number. Use the information in the internal note in the ticket and the subdomain in the `website` field in 1Password to find the credentials for the correct GitLab Dedicated tenant.
 
 ## Finding Dashboards
 
@@ -21,6 +21,6 @@ When logging in for the first time, dashboards are not immediately visible and y
 
 The `General / Triage` dashboard is most useful for an emergency as it has the pods all laid out in a single view. By default it has 6 hours of data. It is helpful for finding blips & dips. Use this data to correlate to other dashboards.
 
-Remember that Grafana is used for visualizing issues and spotting problems. It won't tell us directly what is wrong. You must correlate to [the logs](/handbook/support/workflows/dedicated_logs.html) to find the exact problem.
+Remember that Grafana is used for visualizing issues and spotting problems. It won't tell us directly what is wrong. You must correlate to [the logs]({{< ref "dedicated_logs" >}}) to find the exact problem.
 
-As an example, the Triage dashboard may show that `webservice` errors are increasing. Use this to correlate an approximate time and [filter](/handbook/support/workflows/dedicated_logs.html#fields-and-filters) out the other logs by the `kubernetes.labels.app` to find the error for just `webservice`.
+As an example, the Triage dashboard may show that `webservice` errors are increasing. Use this to correlate an approximate time and [filter]({{< ref "dedicated_logs#fields-and-filters" >}}) out the other logs by the `kubernetes.labels.app` to find the error for just `webservice`.

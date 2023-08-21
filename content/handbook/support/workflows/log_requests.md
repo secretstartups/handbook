@@ -15,7 +15,7 @@ A standard response is available in ZenDesk as a macro [`Support::SaaS::Audit lo
 
 If required, you can escalate the ticket/issue by following our [escalation process](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html).
 
-You can consider using the [kibana workflow](handbook/support/workflows/kibana.html) page for tips on retrieving logs for requests within the last 7 days. Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](/handbook/security/customer-requests/).
+You can consider using the [kibana workflow]({{< ref "kibana" >}}) page for tips on retrieving logs for requests within the last 7 days. Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](https://about.gitlab.com/handbook/security/customer-requests/).
 
 ### Who can make a request
 
@@ -49,12 +49,12 @@ We can provide the following information:
 We cannot provide the following information:
 
 - Information about accounts or projects that the requester does not own.
-- Any information considered [Personal Data](personal_data_access_account_deletion.html) that is not specifically about the individual requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
+- Any information considered [Personal Data]({{< ref "personal_data_access_account_deletion" >}}) that is not specifically about the individual requester. Also consider [the data covered under GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#what-is-covered-by-the-gdpr).
 - Any information that would disclose GitLab confidential information or processes.
 
 ### Sending logs and other Personal Data
 
-Any [Personal Data](personal_data_access_account_deletion.html) information that is pulled by the Security Incident Response Team (SIRT),
+Any [Personal Data]({{< ref "personal_data_access_account_deletion" >}}) information that is pulled by the Security Incident Response Team (SIRT),
 such as a log request, needs to be delivered compressed and password protected to the requestor with the following guidelines:
 
 - The password should be a random string of at least 10+ characters including numbers, lower and upper case letters.
@@ -62,7 +62,7 @@ such as a log request, needs to be delivered compressed and password protected t
 - Once the customer had successfully received and opened the files you should delete the pulled data from your computer and the email from your mailbox.
 
 If there are numerous files that need to be sent over time, or if the log files are too large to attach to the ticket in ZenDesk,
-you can use the [Support Uploader](large_files.html). Please ensure the password is still sent separately.
+you can use the [Support Uploader]({{ ref "large_files" >}}). Please ensure the password is still sent separately.
 
 In case you need to share the data pull results internally, such as in an internal issue, upload the files to Google Drive, such as the [Support Ticket Attachments folder](https://drive.google.com/drive/folders/1RpCb_li2RTYsE8GnVFExCux3QpZ2i0TD) (internal).
 

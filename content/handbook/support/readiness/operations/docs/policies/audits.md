@@ -45,7 +45,7 @@ The best resources for learning this are the above video and the following
 links:
 
 - [Zendesk Global audit workflow](/handbook/support/readiness/operations/docs/policies/zendesk_global_audit)
-- [Zendesk US Federal audit workflow](./handbook/support/readiness/operations/docs/policies/zendesk_us_federal_audit)
+- [Zendesk US Federal audit workflow](/handbook/support/readiness/operations/docs/policies/zendesk_us_federal_audit)
 
 While the above video covers doing it for Zendesk Global, the process works the exact same for both. The sole difference is the script used.
 

@@ -53,7 +53,7 @@ description: This page is about working with sales.
 
 ##### If the Salesforce `Account Owner` is not a person and is not `POOLED USER [ DO NOT CHATTER ]`
 
-1. Find the person in charge of the [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. Find the person in charge of the [sales segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
   and [sales territory](https://internal.gitlab.com/handbook/sales/sales-operations/#territory-management) and mention them in a Chatter comment. In your post, include:
     - details of the request
     - the Zendesk ticket link
@@ -118,7 +118,7 @@ L&R Support cannot:
 
 - Provide an in-depth explanation as why an overage has occurred, support can only collate the data that proves whether an overage has occurred or not.
 - Provide detailed analysis on the nature of the overage (e.g. confirm if overage accounts were logged into or not, confirm how and when accounts were created or provide a timeline of the duration of any overages, etc.)
-- Be the arbiter for whether a True-Up can be waived or not; this is the responsibility of Sales as detailed in [waived true-ups policy and approval requirements](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements).
+- Be the arbiter for whether a True-Up can be waived or not; this is the responsibility of Sales as detailed in [waived true-ups policy and approval requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements).
 
 ## Specific workflows to pass to Sales
 

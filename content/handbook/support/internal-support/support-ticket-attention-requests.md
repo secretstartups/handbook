@@ -31,9 +31,9 @@ When you STAR a ticket, a thread is created in the [#support_ticket-attention-re
 
 ### When is a STAR not appropriate?
 
-1. It is a **business-critical** situation where existing or future business is at risk -> [raise an account escalation](/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
+1. It is a **business-critical** situation where existing or future business is at risk -> [raise an account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/#initiating-managing-and-closing-an-escalation)
 1. It is an **emergency** -> Advise the customer to [raise an emergency](https://internal.gitlab.com/handbook/support/#raising-an-emergency) (internal Handbook link, GitLab team members only; only Premium/Ultimate customers are eligible to trigger emergencies)
-1. It is a **SaaS incident** -> [check the GitLab Status Page](https://status.gitlab.com/) or [report an incident](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. It is a **SaaS incident** -> [check the GitLab Status Page](https://status.gitlab.com/) or [report an incident](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
 1. You want to pass additional information to the engineer working on the ticket --> Leave an internal note in the ticket in Zendesk or reach out to the Support Engineer working the ticket in a Slack channel like `#support_gitlab-com` or `#support_self-managed`.
 
 ### Before you STAR a ticket

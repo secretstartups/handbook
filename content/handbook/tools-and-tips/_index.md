@@ -77,7 +77,7 @@ That's it! Don't forget to update your username in the following places:
 Team members choose to manage their GitLab activities in different ways. Setup your notifications in a way that works best for you.
 
 1. **To-do list:** all team members will see a [to-do list](https://docs.gitlab.com/ee/user/todos.html) within their GitLab account. This will track different action items. Items can be marked as done as they are completed.
-1. **Email:** team members can choose which, if any, notifications show up in their Gmail accounts by [using filters](handbook/tools-and-tips/#filters).
+1. **Email:** team members can choose which, if any, notifications show up in their Gmail accounts by [using filters](/handbook/tools-and-tips/#filters).
 1. **Slack notifications:** team members can choose to enable [Slack notifications](https://docs.gitlab.com/ee/user/project/integrations/gitlab_slack_application.html). Please note that GitLab slack expires after 90 days, so this is not a tool for longer-term activity management.
 
 ### GitLab team members' resources
@@ -108,9 +108,9 @@ A few additional resources that can be helpful when working with Mermaid are:
 - A [CSS color bank](https://www.rapidtables.com/web/css/css-color.html) to add color to your charts.
 - You can see an example of how to add images to Mermaid charts [here](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgQVtDaHJpc3RtYXNdIC0tPnxHZXQgbW9uZXl8IEIoR28gc2hvcHBpbmcpXG4gIEIgLS0-IEN7TGV0IG1lIHRoaW5rfVxuICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICBDIC0tPnxUd298IEVbaVBob25lXVxuICBDIC0tPnxUaHJlZXwgRltmYTpmYS1jYXIgQ2FyXVxuICBDIC0tPiBHXG4gIEcoXCI8aW1nIHNyYz0naHR0cHM6Ly9pY29uc2NvdXQuY29tL21zLWljb24tMzEweDMxMC5wbmcnOyB3aWR0aD0nMzAnIC8-XCIpIiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQiLCJzZWN1cml0eUxldmVsIjoibG9vc2UifX0).
 - Examples of Mermaid charts that have been created by GitLab team members:
-  - [Talent Development Program Chart](/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
+  - [Talent Development Program Chart](https://about.gitlab.com/handbook/people-group/talent-development-program/#talent-development-program-chart) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
   - [CEO Year at a Glance](https://about.gitlab.com/company/cadence/#year-at-a-glance)
-  - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
+  - [Data Infrastructure System Diagram](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
 *Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live.*
@@ -129,7 +129,7 @@ This can be done by running `find source/handbook -type f | xargs wc -w` from th
 
 ### Trainee maintainer issue upkeep
 
-Part of the [maintainer training process](/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
+Part of the [maintainer training process](https://about.gitlab.com/handbook/engineering/workflow/code-review/#trainee-maintainer) is to keep track of Merge Request that have been reviewed and writing down an assessment on the review in the maintainer training issue.
 Manual upkeep of the maintainer training issue can be time consuming. There are tools that others have built to help with this task:
 
 - <https://gitlab.com/nolith/review-tanuki>
@@ -185,7 +185,7 @@ sudo apt install imagemagick
 
 ### Creating gifs
 
-We have a [dedicated section](/handbook/product/making-gifs) for that in the handbook.
+We have a [dedicated section](https://about.gitlab.com/handbook/product/making-gifs) for that in the handbook.
 
 ### Resizing images
 
@@ -378,8 +378,7 @@ Team member dotfiles projects:
 
 Note: you have to pay for these items yourself.
 
-- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)
-- [Shaped sleep mask](https://www.amazon.com/gp/product/B01HYIER7W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (so it doesn't touch your dried out eyes)
+- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/p/headphones/bose-quietcomfort-45-headphones/QC45-HEADPHONEARN.html) (so it doesn't touch your dried out eyes)
 - Custom molded ear plugs (can be up to $200 hearing aid store but are usable in many situations, there are also [DYI kits](https://www.amazon.com/Radians-CEP001-Custom-Molded-Earplugs/dp/B003A28P4I) but Sid has not tried that)
 - [Melatonin](https://www.webmd.com/vitamins-supplements/ingredientmono-940-melatonin.aspx?activeingredientid=940) (possible unsafe during pregnancy and breast-feeding)
 - Sleeping pills (over the counter is fine)
@@ -391,7 +390,7 @@ Note: you have to pay for these items yourself.
 ### Wi-fi usage
 
 When using unsecured Wi-Fi, consider a personal VPN.
-We [don't have a corporate VPN](/handbook/security/#why-we-dont-have-a-corporate-vpn) but consider [purchasing](/handbook/finance/expenses/#reimbursements) a [personal VPN](/handbook/tools-and-tips/personal-vpn/) if you travel for GitLab or use unknown networks often.
+We [don't have a corporate VPN](https://about.gitlab.com/handbook/security/#why-we-dont-have-a-corporate-vpn) but consider [purchasing](https://about.gitlab.com/handbook/finance/expenses/#reimbursements) a [personal VPN](/handbook/tools-and-tips/personal-vpn/) if you travel for GitLab or use unknown networks often.
 
 Remember that if your job has restrictions based upon geolocation (for example supporting customers with specific data restrictions and country-based access), a personal VPN may not be the best choice as often the VPN vendor routes traffic through other countries.
 If this restriction applies to you, consider tethering.
@@ -453,7 +452,7 @@ This method is not quite as secure as a hardware token, as typically those devic
 
 ### TOTP
 
-Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password](/handbook/security/#two-factor-authentication-and-time-based-one-time-passwords) to manage TOTP codes.
+Timed-based One-Time Password is fairly secure. This method involves a rotating value based off of a cryptographic seed that is used to uniquely identify communication between the service and the end user authenticating. The value is (usually) a six digit number that changes every 30 seconds, and during the authentication process after you've successfully entered in your username and password, you are asked to enter in the value. GitLab team members should use [1Password](https://about.gitlab.com/handbook/security/#two-factor-authentication-and-time-based-one-time-passwords) to manage TOTP codes.
 
 #### TOTP Caveats
 
@@ -513,7 +512,7 @@ Feel free to organize this with your most frequent used channels, or specific te
 
 ### Channels Access
 
-In addition to GitLab team-members, designated groups such as the [Core Team](/community/core-team/) members and advisors outside of GitLab may be granted access to our Slack channels.
+In addition to GitLab team-members, designated groups such as the [Core Team](https://about.gitlab.com/community/core-team/) members and advisors outside of GitLab may be granted access to our Slack channels.
 However, internal channels that start with `#a_` will be restricted to GitLab team-members who have been invited to those channels only.
 Any confidential conversations regarding our customers should be restricted only to `#a_` channels.
 The rationale for internal channels is that it could be a breach of many of our contracts for third parties to have knowledge of GitLab customers.
@@ -522,7 +521,7 @@ This is especially the case when third parties could be customers' competitors.
 ### Slack Status
 
 Slack allows you to set your [status](https://slackhq.com/set-your-status-in-slack) for your fellow GitLab team members by using your choice of standard messages such as "Away" and "Lunch" or a custom message and your choice of emoji.
-If you're off work for a holiday or vacation you can update your status by using [Time Off by Deel](/handbook/paid-time-off/#time-off-by-deel).
+If you're off work for a holiday or vacation you can update your status by using [Time Off by Deel](https://about.gitlab.com/handbook/paid-time-off/#time-off-by-deel).
 This is a great way to let your team know whether you are available.
 
 To have your Slack status automatically set to "In a meeting" based on your Google Calendar, add the [Google Calendar app](https://gitlab.slack.com/apps/ADZ494LHY-google-calendar?next_id=0) to your Slack account.
@@ -633,7 +632,7 @@ See also [Live Doc Meetings](https://about.gitlab.com/company/culture/all-remote
 
 [Google Analytics (GA)](https://analytics.google.com/) is an essential tool for making data-driven decisions.
 It receives data from both about.gitlab.com and docs.gitlab.com websites.
-Read through the [Inbound Marketing Handbook](/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
+Read through the [Inbound Marketing Handbook](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/) for more information on GA.
 
 For example, you can look at the GA data to analyze how visited is a certain page, in a period of your choice.
 You can also look at the GA referrals data to understand where the users are coming from and where they go when they leave a certain page.
@@ -687,7 +686,7 @@ For meetings spanning across multiple time zones and with external parties, [Tim
 #### GitLab availability calendar
 
 The GitLab Availability Calendar has been deprecated to allow for GitLab to scale effectively.
-We have created [tools and tips for managing your time off](/handbook/paid-time-off/).
+We have created [tools and tips for managing your time off](https://about.gitlab.com/handbook/paid-time-off/).
 
 #### Setting working hours & location
 
@@ -861,7 +860,7 @@ As already stated, **this should never be the final resting place for shared fil
 
 There are a few Google Drive repositories of GitLab shared files (there might be more, please add if not listed here):
 
-- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](/handbook/product/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
+- [UX Research Drive](https://drive.google.com/drive/folders/0AH_zdtW5aioNUk9PVA) - This houses all findings from [Customer Discovery Meetings](https://about.gitlab.com/handbook/product/product-processes/#customer-discovery-meetings) and raw, confidential materials from customers shared with Design, UX Research, Product and Customer Success. Distilled findings from [User Research](https://about.gitlab.com/handbook/product/ux/ux-research/) are stored in the [UXR_Insights repository](https://gitlab.com/gitlab-org/uxr_insights/).
 - [GitLab Marketing Drive](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3helZZQlV3ajFNTzg) - This houses all shared files from the entire Marketing organization.
 The best practice is for sub-organizations to have their own directory inside this space (e.g. [Strategic Marketing](https://drive.google.com/drive/u/0/folders/0Bz6KrzE1R_3hNjJMNUt2LUJGREU)).
 - [Sales Drive](https://drive.google.com/drive/u/0/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM) - This houses all the shared files from the Sales organization.

@@ -206,10 +206,8 @@ graph TD;
 
 ### Helpful links
 
-- [Support Ops team page](../support-ops/)
-- [Support Ops documentation](../support-ops/documentation)
-- [Support Ops workflows](../support-ops/workflows)
-- [Support Ops training](../support-ops/training)
+- [Support Ops team page]({{< ref "readiness" >}})
+- [Support Ops documentation]({{< ref "/handbook/support/readiness/operations/docs" >}})
 - [support_operations Slack channel](https://gitlab.slack.com/archives/C018ZGZAMPD)
 - [calendly issue tracker](https://gitlab.com/gitlab-com/support/support-ops/other-software/calendly/-/issues/new)
 - [support-team-meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new)

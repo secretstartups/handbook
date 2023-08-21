@@ -30,7 +30,7 @@ Refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/
 If the customer would like to dispute a reconciliation, either pending or processed:
 
 - advise the customer that you will be putting them in contact with their sales account manager
-- follow the workflow on [Working with Sales](working_with_sales.html#general-workflow) to inform the account manager in SFDC.
+- follow the workflow on [Working with Sales]({{< ref "working_with_sales#general-workflow" >}}) to inform the account manager in SFDC.
 - Do not pause/disable QSR yourself except in extenuating circumstances ([see below](#pausing-qsr-on-a-subscription))
 - Do not reset Max Seats on the namespace ([see below](#resolving-max-seats-overages))
 

@@ -1,13 +1,10 @@
 ---
-
 title: Fieldnote Issues
 description: "Investigating and collaborating on tickets using GitLab Issues"
 category: Handling tickets
 subcategory: Collaboration
 last-reviewed: 2022-05-23
 ---
-
-
 
 ## Fieldnotes
 
@@ -29,7 +26,7 @@ It can be confusing having two places for an investigation. Keep each place focu
 
 Be mindful of GitLab Support's [Guidelines on how to respond to a ticket](/handbook/support/workflows/how-to-respond-to-tickets.html): these all apply within the Fieldnote too. The Fieldnote is kept so that this decision of "what is useful and relevant" can be deferred, or the chosen comments supplanted with more context from the Fieldnote. It should be "internally Transparent" - shared with as much of the Support team as practical, but Confidential to protect customers' privacy.
 
-At GitLab, [Support are encouraged to raise Issues](/handbook/support/workflows/working-with-issues.html) and Merge Requests for Customer Tickets. This *Fieldnotes* Project in no way should replace that. If it's appropriate to raise an Issue in some other relevant Project, then continue to do that following the normal Workflow, and close this project's Fieldnote Issue with a link to the correct one.
+At GitLab, [Support are encouraged to raise Issues]({{< ref "working-with-issues" >}}) and Merge Requests for Customer Tickets. This *Fieldnotes* Project in no way should replace that. If it's appropriate to raise an Issue in some other relevant Project, then continue to do that following the normal Workflow, and close this project's Fieldnote Issue with a link to the correct one.
 
 Creating a Fieldnote issue does not necessarily signal to other engineers that you are looking for help. If you would like help, follow the guidance in our [How to Get Help Workflow](/handbook/support/workflows/how-to-get-help.html), OOO Handover Workflow, or follow your [Support Global Group](/handbook/support/support-global-groups/)'s convention. Fieldnotes can greatly facilitate asynchronous (or synchronous!) collaboration, which is an aim, but they are also valuable to keep notes for later review and learning.
 

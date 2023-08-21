@@ -1,15 +1,12 @@
 ---
-
 title: GitLab.com custom limits
 category: GitLab.com
 description: "Provides a general overview of some of the limits applied exclusively to GitLab.com (SaaS)"
 ---
 
-
-
 ## Overview
 
-[Infrastructure team](/handbook/engineering/infrastructure/) is responsible for driving the evolution of Gitlab.com. They control and monitor our biggest GitLab instance.
+[Infrastructure team](https://about.gitlab.com/handbook/engineering/infrastructure/) is responsible for driving the evolution of Gitlab.com. They control and monitor our biggest GitLab instance.
 
 Gitlab.com has certain customizations specific to it. These customization are  managed through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)(internal).
 

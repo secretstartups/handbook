@@ -54,10 +54,10 @@ Other Support Engineers are a great resource to help out with tickets. To get he
 
 You can also do one or more of the following:
 
-1. See if there is a [Support Pod](/handbook/support/workflows/working-with-pods.html) that covers the area your ticket is in and ask one of the Pod members for help.
+1. See if there is a [Support Pod]({{< ref "working-with-pods" >}}) that covers the area your ticket is in and ask one of the Pod members for help.
 1. Ask an expert within Support. You can check the [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html)
    Support page to see who might have the skills to assist, or reach out
-   to the [Support Stable Counterpart](../support-stable-counterparts.html)
+   to the [Support Stable Counterpart]({{< ref "support-stable-counterparts" >}})
    for the appropriate product area. Mention those
    people in the thread and in the ticket to let them know you think they can help.
 1. [Request help from the relevant GitLab Development Team](#how-to-use-gitlabcom-to-formally-request-help-from-the-gitlab-development-team).

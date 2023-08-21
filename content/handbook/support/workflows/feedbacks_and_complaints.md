@@ -22,9 +22,9 @@ In all cases, tag the ticket with the `feedback` tag. We may build a separate fe
 
 ### Bugs
 
-For feedback and complaints involving bugs, please follow the appropriate [escalation procedure](/handbook/support/workflows/working-with-issues.html) and provide the customer with the created links.
+For feedback and complaints involving bugs, please follow the appropriate [escalation procedure]({{< ref "working-with-issues" >}}) and provide the customer with the created links.
 
-Advise the customer that it is best for them to subscribe to the created issue for updates and participate in it directly moving forward rather than through Zendesk. While all issues are important, our product and infrastructure teams will [prioritize the issues](/handbook/support/workflows/working-with-issues.html#issue-prioritization) as needed, and support will not have much control of that.
+Advise the customer that it is best for them to subscribe to the created issue for updates and participate in it directly moving forward rather than through Zendesk. While all issues are important, our product and infrastructure teams will [prioritize the issues]({{< ref "working-with-issues#issue-prioritization" >}}) as needed, and support will not have much control of that.
 
 ### Feature Proposals
 
@@ -66,10 +66,10 @@ It is important to note that apologies should be sincere - this includes not apo
 
 There may be cases where a customer will open a ticket to convey feedback on our products. When these tickets come in, post the feedback in the #product (or other appropriate) slack channel as well as a link to the ticket. Let the customer know that the feedback has been passed on to the product team. It may also be useful to ask if they have any other questions or feedback that they would like to convey. Prior to closing the ticket, tag the ticket with the `feedback` tag.
 
-When the feedback is specific to a feature or service, search for an existing issue and [add the feedback](/handbook/support/workflows/working-with-issues.html#adding-comments-on-existing-issues), or open a new issue as outlined in our [Creating issues section](/handbook/support/workflows/working-with-issues.html#creating-issues).
+When the feedback is specific to a feature or service, search for an existing issue and [add the feedback]({{< ref "working-with-issues#adding-comments-on-existing-issues" >}}), or open a new issue as outlined in our [Creating issues section]({{<ref "working-with-issues#creating-issues" >}}).
 
 ### Responding to feedback
 
-If a customer rates a ticket by submitting a survey then an email will be sent to the support engineer and the Zendesk SSAT manager. The on-call SSAT Manager will then follow [this workflow](/handbook/support/workflows/how-to-respond-to-feedback.html) to process the responses.
+If a customer rates a ticket by submitting a survey then an email will be sent to the support engineer and the Zendesk SSAT manager. The on-call SSAT Manager will then follow [this workflow]({{< ref "how-to-respond-to-feedback" >}}) to process the responses.
 
 If the customer gives feedback or raises concerns within a ticket, please bring it to your manager's attention. It's important that this feedback is reviewed and acted on. For example, there may be a need to get the Account Manager or CSM involved. Typical examples may include feedback on the product, the support process, the technical handling of a ticket or Support team responsiveness.

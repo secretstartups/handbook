@@ -7,7 +7,7 @@ description: "IT Self Service Guides provide team members with instructions for 
 
 We have a variety of domain names at GitLab for production, services, internal tools, and sandbox purposes. They are technically managed in a variety of ways.
 
-The [Domain Name Registration and Maintenance Policy](/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) is designed to centralize the registration, legal management, and costs associated with domain names.
+The [Domain Name Registration and Maintenance Policy](https://about.gitlab.com/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) is designed to centralize the registration, legal management, and costs associated with domain names.
 
 As of 2022-08-01, you can no longer submit an expense report for domain names that you use for demo and sandbox purposes. See the instructions below for IT to [purchase a trademark domain name](#trademark-domain-names), self service purchasing a [non-trademark domain with Sandbox Cloud](#non-trademark-domain-names) for demo and internal use cases, and [transferring an existing domain name](#transferring-domain-names) into GitLab IT managed infrastructure for ongoing renewals that are paid for by the company.
 
@@ -17,7 +17,7 @@ If you have any questions, please reach out to Jeff Martin or Vlad Stoianovici.
 
 The full list of GitLab IT and Infrastructure managed domain names can be found in the [GitLab Owned Domains](https://docs.google.com/spreadsheets/d/187C_xXgaR_L55PeaFVqd9C0E28qrCvmDZnGgQT_4eNI/edit#gid=0) spreadsheet. All recent purchase and transfer issues are linked to [gitlab/it/infra#117](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/117).
 
-If you want to purchase any domain name that includes any of our [trademarks](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT Infrastructure for compliance reasons.
+If you want to purchase any domain name that includes any of our [trademarks](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/trademark-guidelines/) (ex. `gitlab`, `gl`, `gtlb`, etc.) or any domain that will host RED or ORANGE data, please use the issue template to request a domain from IT. You do not need strong justification, it just needs to be managed by IT Infrastructure for compliance reasons.
 
 [DNS Domain Purchase Request Issue Template](https://gitlab.com/gitlab-com/it/infra/issue-tracker/-/issues/new?issuable_template=dns_domain_purchase_request)
 
@@ -44,7 +44,7 @@ You can self service purchase a domain name of your choice (without Gitlab trade
 - [Domain Purchase Instructions for AWS Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html)
 - [Domain Purchase Instructions for GCP Cloud Domains](https://cloud.google.com/domains/docs/register-domain)
 
-**Do not purchase any domain names on Namecheap, GoDaddy, or other registrars. Only domain names purchased inside of your Sandbox Cloud AWS Account or GCP Project will be paid for by GitLab. No expense reports will be approved.** See the [Domain Name Registration and Maintenance Policy](/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) for details.
+**Do not purchase any domain names on Namecheap, GoDaddy, or other registrars. Only domain names purchased inside of your Sandbox Cloud AWS Account or GCP Project will be paid for by GitLab. No expense reports will be approved.** See the [Domain Name Registration and Maintenance Policy](https://about.gitlab.com/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) for details.
 
 Please ask in `#sandbox-cloud-questions` if you need guidance.
 

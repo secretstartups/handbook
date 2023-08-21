@@ -19,15 +19,15 @@ The GitLab Dedicated team does **not** have administrative access to the [Admin 
 
 ### Working with logs
 
-Working with logs [has been moved](./dedicated_logs.html)
+Working with logs [has been moved]({{< ref "dedicated_logs" >}})
 
 ### Working with Grafana
 
-Working with Grafana [has been moved](./dedicated_instance_health.html)
+Working with Grafana [has been moved]({{< ref "dedicated_instance_health" >}})
 
 ### Switchboard
 
-The Switchboard section [has been moved](./dedicated_switchboard.html)
+The Switchboard section [has been moved]({{< ref "dedicated_switchboard" >}})
 
 #### Monitoring system graphs are for internal use
 

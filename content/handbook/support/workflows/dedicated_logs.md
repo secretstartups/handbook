@@ -6,13 +6,13 @@ description: "Gitlab Dedicated Support - Working with logs"
 
 ## Working with logs
 
-Support can access GitLab Dedicated tenant logs through our [OpenSearch](https://opensearch.org/) infrastructure. See [Accessing logs](#accessing-logs) to get started. [OpenSearch](https://opensearch.org/) can be used like [Kibana](./kibana.html) but read about [searching logs](#searching-logs) for information on the differences.
+Support can access GitLab Dedicated tenant logs through our [OpenSearch](https://opensearch.org/) infrastructure. See [Accessing logs](#accessing-logs) to get started. [OpenSearch](https://opensearch.org/) can be used like [Kibana]({{< ref "kibana" >}}) but read about [searching logs](#searching-logs) for information on the differences.
 
 When working on a GitLab Dedicated ticket, prioritize asking for information that will help identify applicable log entries. It is best to start collecting this information as early in the ticket as possible. The specific kinds of information will vary depending on the problem you are trying to solve but username, project path, project ID, exact date and time with time zone, [correlation ID](https://docs.gitlab.com/ee/administration/logs/tracing_correlation_id.html) and outgoing IP address are all good examples.
 
 ## Identifying tenants
 
-Each customer has a dedicated set of credentials needed for examining logs in Opensearch. The credentials and the URL for that customer's Opensearch instance are stored in the `GitLab Dedicated - Support` [1Password vault](/handbook/security/#vaults). Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
+Each customer has a dedicated set of credentials needed for examining logs in Opensearch. The credentials and the URL for that customer's Opensearch instance are stored in the `GitLab Dedicated - Support` [1Password vault](https://about.gitlab.com/handbook/security/#vaults). Each customer is noted by a customer number in the vault, so you must refer to the `<tenant name>` to identify the proper credentials to use for a customer. This is used as part of the accessible URL, such as: `opensearch.<tenant name>.gitlab-dedicated.com`.
 
 ## Accessing logs
 
@@ -25,7 +25,7 @@ Once in the tenant's OpenSearch site:
 
 It is recommended to start with the `gitlab-*` index because it has a timestamp field. It shows a useful skyline graph and allows for time-filtering. The `git*` index is less useful as it does not have a timestamp field defined/used.
 
-Logs are retained for 7 days in OpenSearch; retention is longer in S3, but these are not accessible to Support.  Copy and paste relevant log entries or screenshots of frequently occurring errors into an internal note in the ticket or a [field note](./fieldnote_issues.html) in order to preserve them beyond the retention period.
+Logs are retained for 7 days in OpenSearch; retention is longer in S3, but these are not accessible to Support.  Copy and paste relevant log entries or screenshots of frequently occurring errors into an internal note in the ticket or a [field note]({{< ref "fieldnote_issues" >}}) in order to preserve them beyond the retention period.
 
 ### Sharing logs
 
@@ -72,11 +72,11 @@ Each entry in Opensearch can be expanded to show more information by clicking th
 
 ## Searching logs
 
-Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana](./kibana.html).
+Since GitLab Dedicated uses [Cloud Native Hybrid reference architecture](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative), searching logs on OpenSearch is a bit different from [Kibana]({{ ref "kibana" >}}).
 
 - In OpenSearch, terms can be freely typed in the search bar.
-  - By comparison, freely typing in the search bar is [discouraged](kibana.html#fields-and-filters) in Kibana.
-- Fields can also be used as filters, similarly to [Kibana](./kibana.html).
+  - By comparison, freely typing in the search bar is [discouraged]({{< ref "kibana#fields-and-filters" >}}) in Kibana.
+- Fields can also be used as filters, similarly to [Kibana]({{< ref "kibana" >}}).
 
 ### Fields and Filters
 

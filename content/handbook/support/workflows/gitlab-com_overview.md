@@ -12,17 +12,17 @@ Please note that context for the following sections on this page should be cover
 
 ## GitLab.com Architecture
 
-GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](/handbook/engineering/infrastructure/).
+GitLab.com is the largest known GitLab instance. It is monitored and maintained 24/7 by our [infrastructure team](https://about.gitlab.com/handbook/engineering/infrastructure/).
 
-The Support team should have a general understanding of [its architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana](kibana.html)) and error reports ([Sentry](sentry.html)) to troubleshoot reported issues.
+The Support team should have a general understanding of [its architecture](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/) along with how to access logs ([Kibana]({{< ref "kibana" >}}) and error reports ([Sentry]({{< ref "sentry" >}})) to troubleshoot reported issues.
 
 As well, Support team members should be aware that Gitlab.com has certain customizations. These customization are applied through the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo). Details of Gitlab.com customizatons can be found in [GitLab.com custom limits](/handbook/support/workflows/gitlab-com_customizations.html)
 
-Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC](cmoc_workflows.html).
+Numerous Support team members including all SaaS focused ones also assist with incidents as [CMOC]({{< ref "cmoc_workflows" >}}).
 
 ## Legal Context
 
-When signing up, users agree to our [terms](/terms/), which means they are bound by them as well.
+When signing up, users agree to our [terms](https://about.gitlab.com/terms/), which means they are bound by them as well.
 
 Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](https://about.gitlab.com/handbook/security/security-operations/).
 
@@ -50,7 +50,7 @@ As of 2021-02-01 when our terms were last updated, we introduced the definition 
 
 Enterprise user accounts belong to the company that purchased a GitLab subscription. This means when requested by an `Owner` in the **top-level of a paid group**, information can be shared about, and actions can be made on behalf of an enterprise user.
 
-[Proof of account ownership is required](account_verification.html), either the relevant user or requesting owner can pass the verification process.
+[Proof of account ownership is required]({{< ref "account_verification" >}}), either the relevant user or requesting owner can pass the verification process.
 
 A user is considered an enterprise user when **all** of the following conditions are met:
 

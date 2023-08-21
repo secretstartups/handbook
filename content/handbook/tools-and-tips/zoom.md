@@ -13,7 +13,7 @@ There have been a number of security researchers looking at Zoom, which has resu
 Here are a few important things to keep in mind, especially as you read through the Zoom tips below:
 
 - Always ensure your operating system as well as the Zoom application are up-to-date with the latest patches.
-- Ensure you've followed the [laptop configuration guidelines](/handbook/security/#laptop-or-desktop-system-configuration).
+- Ensure you've followed the [laptop configuration guidelines](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration).
 - Make a customized [Personal link](#making-a-customized-personal-link).
 - [Enable the "Waiting Room"](#enabling-the-waiting-room-for-your-personal-meeting-room) for your meetings.
 - You can set a password for your meetings, but remember if your meetings are in your calendar, anyone who can view your calendar will see the password if you include it in the meeting invite.

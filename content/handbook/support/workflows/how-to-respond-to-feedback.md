@@ -38,7 +38,7 @@ from SFDC.
 | NCSA    | North, Central, South America (legacy region being phased out) |
 | Unknown | Unknown |
 
-The single source of truth for these definitions can be found in the [Go to Market Glossary](/handbook/sales/field-operations/gtm-resources/#glossary) handbook page.
+The single source of truth for these definitions can be found in the [Go to Market Glossary](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#glossary) handbook page.
 
 ## Who is responsible for reviewing Support Satisfaction feedback
 

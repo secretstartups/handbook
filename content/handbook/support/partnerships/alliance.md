@@ -56,7 +56,7 @@ The Slack workflow form asks for the following information:
   - This is the desired end result you would like to see from the escalation.
 
 This form will locate the ticket and trigger a
-[STAR](../partnerships/alliance.html) on the ticket/case.
+[STAR](https://about.gitlab.com/handbook/customer-success/csm/escalations/) on the ticket/case.
 
 **Note** This process is also what is used in the case an emergency needs to be
 filed.

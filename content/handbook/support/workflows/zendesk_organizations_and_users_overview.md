@@ -9,6 +9,8 @@ For more specific information about organizations, please see:
 
 - [Zendesk Organizations](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/organizations/)
 
+<!--
+
 ## Adding users to organizations
 
 See
@@ -16,3 +18,4 @@ See
 section of the
 [Associating Needs Org Tickets with Orgs](associating_needs_org_tickets_with_orgs.html)
 Workflow.
+-->

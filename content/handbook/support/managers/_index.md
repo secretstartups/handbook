@@ -39,7 +39,7 @@ As a larger leadership team, it's important that we remain in constant communica
 
 ### Senior Leadership Meetings
 
-While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior/senior-leadership-sync.html).
+While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](https://about.gitlab.com/handbook/support/managers/senior/senior-leadership-sync.html).
 
 ## Working with your team
 
@@ -52,7 +52,7 @@ See [Support Hiring](hiring.html)
 
 ## Promotions
 
-See [Promoting a team member](promoting-a-support-team-member.html)
+See [Promoting a team member]({{< ref promoting-a-support-team-member >}})
 
 ## Metrics
 
@@ -91,7 +91,7 @@ If the metrics are at or below the following floors for 2 sustained weeks, manag
 1. Combined SSAT (L&R, GitLab SM and GitLab SaaS) at or below 93%
 1. Combined NRT (L&R, GitLab SM and GitLab Saas) at or below 83%
 
-This action is unique to Support and is somewhere in-between a [Rapid Action issue](/handbook/engineering/development/#rapid-action-issue) and a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/).
+This action is unique to Support and is somewhere in-between a [Rapid Action issue](https://about.gitlab.com/handbook/engineering/development/#rapid-action-issue) and a [Working Group](https://about.gitlab.com/company/team/structure/working-groups/).
 
 The purpose of the group will be unique to each situation that triggers it, but generally the members will:
 
@@ -122,4 +122,4 @@ New managers will establish their own OKR after they have been in their role for
 
 ## Support Engineering Manager READMEs
 
-Support Engineering Manager READMEs are found in [Engineering Manager READMEs](/handbook/engineering/readmes/).
+Support Engineering Manager READMEs are found in [Engineering Manager READMEs](https://about.gitlab.com/handbook/engineering/readmes/).

@@ -26,7 +26,7 @@ with the following goals:
 The full Support Pods handbook and a list of active Support Pods can be found in
 the [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).
 The project is currently private to GitLab team members as some pages may
-contain [sensitive information](/handbook/legal/safe-framework/).
+contain [sensitive information](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ## How do I get involved?
 

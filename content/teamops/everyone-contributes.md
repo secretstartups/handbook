@@ -111,7 +111,7 @@ GitLab's Learning and Development team hosted a [livestreamed Group Conversation
 
 {{% details summary="Quick Start Tips for cross-functional collaboration" %}}
 - **Individual:** Design and implement a personal plan for internal networking, such as participating in team member resource groups, scheduling coffee chats, attending local employee events, volunteering for cross-departmental working groups, or asking a mentor or sponsor for introductions.
-- **Team:** Create a field in your project management plan template for listing the project’s stable counterparts from other departments. Be sure to include their contact information, time zone, and expected level of contributions. (We recommend the [RACI matrix](/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci).) Also include dates for Key Review Meetings.
+- **Team:** Create a field in your project management plan template for listing the project’s stable counterparts from other departments. Be sure to include their contact information, time zone, and expected level of contributions. (We recommend the [RACI matrix](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci).) Also include dates for Key Review Meetings.
 - **Company:** Assign each department director to schedule an open-invitation “Ask Me Anything” meeting (Group Conversation) for every quarter this year.
 {{% /details %}}
 
@@ -145,7 +145,7 @@ Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-t
 
 Adopting a TeamOps mentality means providing the psychological safety necessary for all team members to feel confident while sharing ideas, [giving transparent feedback](/teamops/measurement-clarity/#transparent-feedback), [owning impactful project decisions](/teamops/everyone-contributes/#directly-responsible-individual-dri), and [managing themselves independently](/teamops/decision-velocity/#give-agency). Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster results.
 
-To create stronger psychological safety in a virtual-first team, try communication-based tactics, such as:  
+To create stronger psychological safety in a virtual-first team, try communication-based tactics, such as:
 
 - Create internal catchphrases and code words to use as reinforcing language
 - Leverage [shared values](/teamops/shared-reality/) and [informal communication](/teamops/shared-reality/#informal-communication) to express care, get to know your team members’ various working styles, and remind your team what they have in common

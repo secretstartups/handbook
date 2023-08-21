@@ -26,7 +26,7 @@ This is not an exhaustive list. For anything else you believe the Support team c
 
 ## GitLab Support's Purpose
 
-GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/).
+GitLab Support provides technical support for GitLab.com and Self-Managed GitLab customers. We do **not** provide support for GitLab team members who are experiencing IT (1Password, Slack, Mac, etc.) issues. If you require assistance with issues of that nature, please contact [Team Member Enablement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/).
 
 ## Should I Contact GitLab Support?
 
@@ -81,7 +81,7 @@ If those tips do not resolve the problem, you can open an [Internal Request > Ot
 
 ### Requesting to see Customer Information
 
-According to our [privacy policies](/privacy/), Support does not provide any information regarding customers, groups, projects, etc, to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
+According to our [privacy policies](https://about.gitlab.com/privacy/), Support does not provide any information regarding customers, groups, projects, etc, to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
 
 ### Requesting a ZenDesk 'Light Agent' account
 
@@ -119,7 +119,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab plan or license for team members
 
-For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
+For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](https://about.gitlab.com/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
 
 ### Contacting users about GitLab incidents or changes
 
@@ -220,7 +220,7 @@ A list of common scenarios and the appropriate option are detailed in the follow
 | **SaaS Subscription Related** | |
 | Extend an (almost) expired subscription | Use this when the customer has a subscription with us and their grace period is (almost) expired. Please note we cannot extend the actual subscription. This instead makes a trial for the namespace and uses that for the extension. Check the [What is included and excluded in trials](https://about.gitlab.com/free-trial/#what-is-included-in-my-free-trial-what-is-excluded) page for more context. |
 | Investigate incorrect subscription info | Use this when the customer has a subscription with us and something is incorrect in their subscription information. This includes problems with: true-ups, subscription mismatches, can't apply subscription to group/namespace, and current seat usage counts. |
-| Reset max seats for QSR | Use this after [approval to waive the overage](/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
+| Reset max seats for QSR | Use this after [approval to waive the overage](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements) has been granted and documented via SFDC chatter. Once that is done, file the form to request that Support reset the max seats. |
 | SaaS NFR license request | Ensure the group on GitLab.com has started a trial, then use this option to request a SaaS NFR subscription generation. |
 | Billing Entity Change | Use this as part of the process of a billing entity change, to check whether the correct subscription is associated with the customer's group. |
 | Link Subscription to Namespace | Use this when a customer has contacted you to request that their subscription is linked to a provided namespace. Prior to submitting the request, please ensure that you have first received written confirmation from the account owner to link their subscription to the provided namespace. We require sales to upload evidence of this into SFDC and then provide a link to it. An email link or screenshot should be added to the `Google Docs, Notes, & Attachments object` section of the customer's account record in SalesForce.|
@@ -304,7 +304,7 @@ Customers can get their subscription information and a list of users using a sea
 ### I Want to Escalate a Ticket
 
 To keep the term "*escalation*" [MECEFU](/handbook/communication/#mecefu-terms), Support uses the term "**support ticket attention request**" (STAR) to make sure
-[account escalations](/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
+[account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) are distinct. "Escalation" can also be confused with "emergency" or "incident."
 
 Please open a **support ticket attention request**, during [GitLab Global Support Hours](https://about.gitlab.com/support/#definitions-of-gitlab-global-support-hours) only, if
 any of these are true:
@@ -316,12 +316,12 @@ any of these are true:
 
 [More about support ticket attention requests](/handbook/support/internal-support/support-ticket-attention-requests.html)
 
-Please open an **[account escalation](/handbook/customer-success/csm/escalations/)** if:
+Please open an **[account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/)** if:
 
 - There is account level risk because of a single ticket or an aggregation of several issues.
 - Visibility and attention from multiple departments is required to restore customer confidence and resolve the issue.
 
-[More about account escalations](/handbook/customer-success/csm/escalations)
+[More about account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations)
 
 Please open an **emergency ticket** if:
 
@@ -332,22 +332,22 @@ Please open an **emergency ticket** if:
 Please declare a **GitLab.com incident** if:
 
 - you've noticed a common pattern of reported problems between SaaS customers
-- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
-- you suspect a [high severity bug](/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
+- you've experienced and verified a [loss of functionality over a period lasting more than 5 minutes](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption-and-when-to-communicate)
+- you suspect a [high severity bug](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#high-severity-bugs) has been deployed to GitLab.com
 
-[More about GitLab.com incidents](/handbook/engineering/infrastructure/incident-management/)
+[More about GitLab.com incidents](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
 
 Please declare a **security incident** if:
 
 - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
-[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
+[More about Security incidents](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 
 ---
 
 ### I want to make a change to a setting in the GitLab.com Admin interface
 
-The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](/handbook/engineering/infrastructure/change-management/#change-request-workflows).
+The Infrastructure team is the admin of GitLab.com, and any changes to product tuneables go through the [change request workflow](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#change-request-workflows).
 
 ## Other
 

@@ -1,11 +1,8 @@
 ---
-
 title: Providing Excellent Customer Service
 category: References
 description: Guidance for delivering a great experience to our customers
 ---
-
-
 
 ## Understanding customer needs
 
@@ -41,7 +38,7 @@ When putting a ticket `On-Hold`, you should:
 - Invite them to inform you if your chosen schedule does not meet their needs
   so that you can adjust your plans accordingly. See also
   [Understanding Business Impact](#understanding-business-impact).
-- Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length](./workflows/zendesk-ticket-basics.html#behavior-of-on-hold-tickets).
+- Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length]({{< ref "zendesk-ticket-basics#behavior-of-on-hold-tickets" >}}).
 
 When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
 and [Reminders](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)

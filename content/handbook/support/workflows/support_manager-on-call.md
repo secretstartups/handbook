@@ -30,7 +30,7 @@ The [Support Engineer on-call](/handbook/support/on-call/) is the first responde
 - Act as the next-tier escalation point for emergency pages that get missed (you will be notified automatically by PagerDuty).
 - Respond to new emergency requests by helping the on-call engineer [determine if the situation qualifies as an emergency](/handbook/support/workflows/customer_emergencies_workflows.html#determine-if-the-situation-qualifies-as-an-emergency) or should be [granted an exception](/handbook/support/workflows/emergency_exception_workflow.html#exception-criteria)
 - Assist the on-call engineer in difficult communications with the customer,
-  such as [telling them that their request does not qualify as an emergency](./customer_emergencies_workflows.html.md#communicate-the-priority-downgrade)
+  such as [telling them that their request does not qualify as an emergency]({{< ref "customer_emergencies_workflows#communicate-the-priority-downgrade" >}})
 - Be aware of ongoing emergencies and assist or lead in our initial response as appropriate
 - During an emergency: find additional staff for subject-matter expertise; replace the on-call engineer if needed; lead any Zoom call(s) as needed; hand off the emergency to the next on-call manager.
 - Find additional staff when there are [multiple emergencies](/handbook/support/on-call/#handling-multiple-simultaneous-emergencies).
@@ -79,7 +79,7 @@ A very high percentage of starred tickets involve licenses and renewals. For gui
 
 **NOTE:** There are two other distinct situations, not discussed on this page:
 
-1. [Account Escalations / Escalated Customers](/handbook/customer-success/csm/escalations/)
+1. [Account Escalations / Escalated Customers](https://about.gitlab.com/handbook/customer-success/csm/escalations/)
 1. [Emergencies that become Account Escalations](/handbook/support/workflows/emergency-to-escalation-process.html)
 
 ### Mechanics of handling starred tickets
@@ -133,7 +133,7 @@ The following action should be taken promptly:
 
 ## Act as a notification point for security incidents
 
-When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
+When GitLab experiences a [security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
 ## Provide assistance with Upgrade Assistance Requests
 

@@ -92,7 +92,7 @@ field value looks like `SGG: groupname/username` or
 `Support regionname/username`.**
 
 If you have a need to find all of your tickets that are not assigned to your
-group, see [Bulk editing SGG values](bulk-editing-sgg-values.html).
+group, see [Bulk editing SGG values]({{< ref "bulk-editing-sgg-values" >}}).
 
 ## Group Administration
 

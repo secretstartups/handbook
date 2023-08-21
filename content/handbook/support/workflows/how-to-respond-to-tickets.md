@@ -136,15 +136,15 @@ and works as expected will reduce the number of support cases organically.
 Support plays a vital role in surfacing issues that our users encounter while using GitLab
 by:
 
-- [reporting bugs](/handbook/support/workflows/working-with-issues.html#creating-issues)
-- [tagging issues](/handbook/support/workflows/working-with-issues.html#adding-labels)
-- [participating in issues](/handbook/support/workflows/working-with-issues.html#adding-comments-on-existing-issues)
-- [surfacing feedback](/handbook/support/workflows/feedbacks_and_complaints.html#product-feedback)
-- [fixing issues by submitting an MR](/community/contribute/)
+- [reporting bugs]({{< ref "working-with-issues#creating-issues" >}})
+- [tagging issues]({{< ref "working-with-issues#adding-labels" >}})
+- [participating in issues]({{< ref "working-with-issues#adding-comments-on-existing-issues" >}})
+- [surfacing feedback]({{< ref "feedbacks_and_complaints#product-feedback" >}})
+- [fixing issues by submitting an MR](https://about.gitlab.com/community/contribute/)
 
 #### Statement of Support
 
-The [Statement of Support](/support/statement-of-support/) describes the areas covered by Support and the areas
+The [Statement of Support](https://about.gitlab.com/support/statement-of-support/) describes the areas covered by Support and the areas
 we can't promise to cover. This is a tool to set expecations for customers as well as to help the
 support team to make sure we're supporting what we're experts in. You can read more about the
 philosophy behind it in [the blog post where we introduced the Statement of Support](https://about.gitlab.com/blog/2018/12/20/introducing-our-statement-of-support/).

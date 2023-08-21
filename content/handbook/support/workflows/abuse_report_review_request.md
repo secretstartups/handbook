@@ -10,7 +10,7 @@ This workflow is to request a review of an Abuse Report.  All blocked accounts s
 
 ## Process
 
-1. If the account request for a review on an Abuse Report, create an `Abuse_Report_Review_Request` issue in the Trust and Safety [Operations Issue Tracker](/handbook/security/security-operations/trustandsafety/)
+1. If the account request for a review on an Abuse Report, create an `Abuse_Report_Review_Request` issue in the Trust and Safety [Operations Issue Tracker](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/)
     - The [(GitLab user lookup app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively -
     - If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
         > `/chatops run user find <username or email>`

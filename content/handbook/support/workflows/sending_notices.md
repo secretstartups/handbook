@@ -9,7 +9,7 @@ description: How to send notices out to GitLab.com users and customers to inform
 
 ## Overview of the process
 
-At times the [Support team will be asked to send notices](../internal-support/#gitlab-changes-and-contacting-users) to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control.
+At times the [Support team will be asked to send notices]({{< ref "internal-support#gitlab-changes-and-contacting-users" >}}) to GitLab SaaS users or customers to inform them of actions that we have taken (or will be taking) on namespaces or projects under their control.
 
 This workflow describes how to fulfill different types of contact requests and the helpful tools you can use in the process.
 
@@ -21,17 +21,17 @@ This workflow describes how to fulfill different types of contact requests and t
 | 3+ | [Mass Emails through Marketing Department](#mass-emails-through-marketing-department) | Director | [Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) + FAQ |
 
 - Support team can be asked to contact users **during an incident**. Such requests are filed by infra team [using `confidential_incident_data` issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data) in [production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/) issue tracker. These must be fulfilled by CMOC during the shift.
-- Contact requests that are **not tied to an incident** are submitted as an [internal-request](internal_requests.html) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory.
+- Contact requests that are **not tied to an incident** are submitted as an [internal-request]({{< ref "internal_requests" >}}) using [`Contact Request` template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request). These can be performed by anyone with Admin access to GitLab.com. CMOC participation is not obligatory.
 
 ## How to send notices
 
 Most notices should be sent in the form of Zendesk tickets. Always send these tickets to users with `Owner` level permissions in the namespace or project in question.
 
-Most contact requests will involve contacting all of the owners of only one project or only a few specific users. If you're tasked with contacting the owners of a project and know that there's only one, feel free to look up their email address using your admin account or [ChatOps](chatops.html#user).
+Most contact requests will involve contacting all of the owners of only one project or only a few specific users. If you're tasked with contacting the owners of a project and know that there's only one, feel free to look up their email address using your admin account or [ChatOps]({{< ref "chatops#user" >}}).
 
 However, some contact requests may involve contacting all of the owners of multiple projects. Support Engineers should direct requests for reaching out to multiple owners across multiple projects to do [Mass Emails through Marketing Department](#mass-emails-through-marketing-department)
 
-Make sure to [add an admin note](admin_note.html) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel.
+Make sure to [add an admin note]({{< ref "admin_note" >}}) on a user/group we took action on. This will ensure that we can track a block/change reason if a user reaches out to us using a different channel.
 
 ### Manually create a Zendesk ticket
 
