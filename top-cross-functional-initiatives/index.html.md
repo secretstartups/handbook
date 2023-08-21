@@ -77,11 +77,6 @@ This is the list of our active Top Cross-Functional Initiatives.
    1. Description: Rollout new Quote Studio using new Zuora Orders API and Ramps functionality. Move CustomersDot to use Zuora Orders APIs. Align to Zuora Billing Account as a Customer Account. SSO / combine CDot and Gitlab user databases. Link ArrowSphere to CustomersDot.
    1. Links: [FY23 Roadmap](https://docs.google.com/presentation/d/1eTH09QZqnazJ4jh-jVGTEYEFA3m6R2jwWuhY5_EtPL4/edit#slide=id.g123a13deda8_0_405)
    1. Quarter Started/Starting: FY23-Q3
-1. DevSecOps Adoption
-   1. DRI / Sponsor: @spatching  / @chrisweber44 
-   1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase.
-   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
-   1. Quarter Started/Starting: FY23-Q4
 1. Continue to win against GitHub and ship AI features
    1. DRI / Sponsor: @justinfarris / @david
    1. Description: Make GitLab (the application) smarter by shipping 16 Generally Available (GA) AI/ML-assisted features and workflows across developer, security, and operations personas and launching AI messaging to support GitLab’s "Continue to win against GitHub with AI in all we do” [Yearly](https://about.gitlab.com/company/yearlies/). In addition to releasing features, this also includes overall and related product positioning, R&D priorities, marketing messaging and field readiness. 
@@ -145,3 +140,8 @@ This is a a list of top cross-functional initiatives that have been retired.
    1. Links: [Epic](https://gitlab.com/groups/gitlab-com/-/epics/1880)
    1. Quarter Started/Starting: FY23-Q4 (work currently being done under the User Engagement initiative. When that retires, this one will launch as a separate initiative)
    1. Quarter Ended: FY24-Q2
+1. DevSecOps Adoption
+   1. DRI / Sponsor: @spatching  / @chrisweber44 
+   1. Description: Customers adopting DevSecOps within 3 months of an Ultimate purchase.
+   1. Links: [Epic](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/59)
+   1. Quarter Started/Starting: FY23-Q4 - FY24-Q3
