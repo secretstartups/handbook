@@ -49,7 +49,7 @@ This standard applies to all GitLab team members, contractors/Temporary Service 
 All GitLab Team members and contractors/TSPs are required to participate in GitLab's General Security Awareness Training, New Hire Training and on-going phishing simulations and training, or show evidence of equivalent training completion within the calendar year.  Security Trainings that require participation include the following:
 
 ### New Hire Security Training
-[New Hire Security Training](https://about.gitlab.com/handbook/security/#gitlab-security-awareness-training) is required to be completed by all GitLab Team Members and contractors/TSPs during their onboarding at GitLab. This security training provides new hires with the knowledge to identify cybersecurity threats, vulnerabilities, and attacks.
+[New Hire Security Training](/handbook/security/security-assurance/governance/sec-awareness-training.html#when-will-security-awareness-training-occur) is required to be completed by all GitLab Team Members and contractors/TSPs during their onboarding at GitLab. This security training provides new hires with the knowledge to identify cybersecurity threats, vulnerabilities, and attacks.
 
 ### General Security Awareness Training (GSAT)
 The GitLab [security awareness training program](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-awareness-training.html) provides ongoing training to GitLab team members that enhances knowledge and identification of cybersecurity threats, vulnerabilities, and attacks as well as satisfying external regulatory requirements. GitLab's handbook-first General Security Awareness Training is provided annually via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all GitLab Team Members and contractors/TSPs.
@@ -57,7 +57,7 @@ The GitLab [security awareness training program](https://about.gitlab.com/handbo
 Exceptions during the active campaign will be made for GitLab team members on extended leave.
 
 ### Phishing Training
-The GitLab [Phishing Training Program](https://about.gitlab.com/handbook/security/security-assurance/governance/phishing.html) is designed to educate and evaluate GitLab's ability to detect and prevent phishing attempts.  Ongoing [phishing simulations and trainings](https://about.gitlab.com/handbook/security/#phishing-simulations) are conducted once per quarter via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all assigned GitLab Team Members and contractors/TSPs.
+The GitLab [Phishing Training Program](/handbook/security/security-assurance/governance/phishing.html) is designed to educate and evaluate GitLab's ability to detect and prevent phishing attempts.  Ongoing [phishing simulations and trainings](/handbook/security/security-assurance/governance/security-training.html) are conducted once per quarter via [ProofPoint](https://gitlab.ws01-securityeducation.com/), GitLab's third-party provider, and requires participation and completion by all assigned GitLab Team Members and contractors/TSPs.
 
 Remember: If you see something, say something, and always report suspicious emails via [PhishAlarm](https://about.gitlab.com/handbook/security/#option-1-preferred).
 
@@ -84,6 +84,6 @@ Exceptions to this procedure will be tracked as per the [Information Security Po
 
 * Parent Policy: [Information Security Policy](https://about.gitlab.com/handbook/security/)
 * [Security Awareness Training Program](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-awareness-training.html)
-* [Phishing Program](https://about.gitlab.com/handbook/security/security-assurance/governance/phishing.html)
+* [Phishing Program](/handbook/security/security-assurance/governance/phishing.html)
 * [Data Classification Standard](https://about.gitlab.com/handbook/security/data-classification-standard.html)
 * [Secure Coding](https://about.gitlab.com/handbook/security/secure-coding-training.html)

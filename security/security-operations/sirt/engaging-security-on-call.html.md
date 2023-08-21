@@ -43,7 +43,7 @@ Please be advised the SLA for Slack mentions is **6 hours** on business days.
 
 ## Phishing
 
-If you suspect you've received a phishing email and have not engaged with the sender, please see: [What to do if you suspect an email is a phishing attack](/handbook/security/#what-to-do-if-you-suspect-an-email-is-a-phishing-attack).
+If you suspect you've received a phishing email and have not engaged with the sender, please see: [What to do if you suspect an email is a phishing attack](/handbook/security/security-assurance/governance/phishing.html#what-to-do-if-you-suspect-an-email-is-a-phishing-attack).
 
 If you have engaged a phisher by replying to an email, clicking on a link, have sent and received text messages, or have purchased goods requested by the phisher, please [engage the SEOC](#engage-the-security-engineer-on-call).
 

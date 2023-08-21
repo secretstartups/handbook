@@ -20,7 +20,9 @@ Security awareness training is an integral part of GitLab's overall security str
 
 ## When will security awareness training occur?
 
-New Hire security awareness training is required to be completed during onboarding. Annual security awareness training will occur in the second quarter of each fiscal year. Additional role-based awareness training may be assigned as needed. Prior to the security awareness training taking place, a general notification to the GitLab organization will be posted to the `#whats-happening-at-gitlab` Slack channel.
+New Hire security awareness training is required to be completed during onboarding. New Hire security training will be automatically assigned to you on day 1 of orientation as soon as you access the [ProofPoint](https://gitlab.ws01-securityeducation.com/) tile via Okta. 
+
+Annual security awareness training will occur in the second quarter of each fiscal year. Additional role-based awareness training may be assigned as needed. Prior to the security awareness training taking place, a general notification to the GitLab organization will be posted to the `#whats-happening-at-gitlab` Slack channel.
 
 ## Who will receive the security awareness training?
 
@@ -71,7 +73,7 @@ Security awareness training is a critical component of GitLab's security program
 A GitLab customized handbook first training is provided via ProofPoint. To receive full credit, the training + annual policy reviews must be completed to identify what you have learned.
 
 * Special topics covered:
-    * [Suspected phishing](https://about.gitlab.com/handbook/security/#phishing-simulations)
+    * [Suspected phishing](/handbook/security/security-assurance/governance/phishing.html#how-to-identify-a-basic-phishing-attack)
     * [Acceptable Use](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
     * [Device Lost or Stolen?!](https://about.gitlab.com/handbook/security/#panic-email)
         * Slack: the `/security` Slack command
