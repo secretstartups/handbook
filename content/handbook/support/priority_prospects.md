@@ -27,7 +27,7 @@ Free access to support granted in this way is not for any customer who wants it,
 - This does not include migration assistance support
 - This does not include architecture review support
 - This does not include [namesquatting requests](/support/workflows/namesquatting_policy.html)
-- This should only be for [PoVs](../../customer-success/solutions-architects/tools-and-resources/pov/) involving errors from a setup (and not the setup
+- This should only be for [PoVs](https://about.gitlab.com/customer-success/solutions-architects/tools-and-resources/pov/) involving errors from a setup (and not the setup
   process itself)
 - A maximum of 3 contacts are able to create support tickets for the organization
 - This does not include [shared organization setup in Zendesk](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations)

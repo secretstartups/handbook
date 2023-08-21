@@ -8,7 +8,7 @@ description: "We provision different levels of access to systems at GitLab based
 {: .panel-heading}
 <div class="panel-body">
 
-Inline with GitLab's regulatory obligations, changes to <a href="/handbook/security/controlled-document-procedure.html">controlled documents</a> must be approved or merged by a code owner. All contributions are welcome and encouraged.
+Inline with GitLab's regulatory obligations, changes to <a href="https://about.gitlab.com/handbook/security/controlled-document-procedure.html">controlled documents</a> must be approved or merged by a code owner. All contributions are welcome and encouraged.
 
 </div>
 </div>
@@ -59,7 +59,7 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
             <li>Access requests</li>
         </ul></td>
         <td><ul>
-            <li><a href="/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">Team members</a></li>
+            <li><a href="https://about.gitlab.com/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">Team members</a></li>
         </ul></td>
         <td>
             <code>{handle}@gitlab.com</code><br />
@@ -89,7 +89,7 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
             <li>Infrastructure Team Members</li>
             <li>IT Team Members</li>
             <li>Security Team Members</li>
-            <li><a href="/handbook/business-technology/#cross-department-system-owners">Critical Tier System Owners</a></li>
+            <li><a href="https://about.gitlab.com/handbook/business-technology/#cross-department-system-owners">Critical Tier System Owners</a></li>
         </ul></td>
         <td>
             <code>{handle}-admin@gitlab.com</code><br />
@@ -100,15 +100,15 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
 
 ### BLUE
 
-A <span style="color: #0284c7">BLUE</span> account is any human user that is not classified in the <a href="/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">Team Member Types</a>. We only provide access to the applications and specific roles needed to based on job responsibilities (usually related to the scope of work for the contract).
+A <span style="color: #0284c7">BLUE</span> account is any human user that is not classified in the <a href="https://about.gitlab.com/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">Team Member Types</a>. We only provide access to the applications and specific roles needed to based on job responsibilities (usually related to the scope of work for the contract).
 
-See the <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/">Temporary Service Provider</a> handbook page to learn more.
+See the <a href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/">Temporary Service Provider</a> handbook page to learn more.
 
 ### PURPLE
 
-When a <a href="/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">team member</a> joins GitLab, there are several systems that are provisioned as part of the normal onboarding process including Okta, Google Workspace (ex. Gmail), and 1Password. We refer to these as your <code>PURPLE</code> wristband accounts.
+When a <a href="https://about.gitlab.com/handbook/people-group/employment-solutions/#team-member-types-at-gitlab">team member</a> joins GitLab, there are several systems that are provisioned as part of the normal onboarding process including Okta, Google Workspace (ex. Gmail), and 1Password. We refer to these as your <code>PURPLE</code> wristband accounts.
 
-Any processes and systems that use your <code>{handle}@gitlab.com</code> email address and are part of <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/">Baseline and Role Entitlements</a> or an access request are provisioned in your <span style="color: #9333ea">PURPLE</span> account.
+Any processes and systems that use your <code>{handle}@gitlab.com</code> email address and are part of <a href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/">Baseline and Role Entitlements</a> or an access request are provisioned in your <span style="color: #9333ea">PURPLE</span> account.
 
 For team members in Infrastructure, IT, Security, or other departments with elevated access, your elevated or admin access will usually be provisioned in your <a href="#black">BLACK Account</a>.
 
@@ -120,7 +120,7 @@ Most service accounts require an email address. If an Okta user account is not r
 
 ### BLACK
 
-For IT Systems Engineers, IT Analysts, IT Security Engineers, Security Incident Response Team Engineers, Site Reliability Engineers, Audit/Compliance team members (read only), and other roles that require elevated or admin access to compliance in-scope or specifically identified <a href="/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html">critical tier systems</a>, we provide an additional user account (<code>{firstInitial}{lastName}-admin@gitlab.com</code>) to securely distinguish and manage your elevated access to these systems. We refer to these as your BLACK wristband accounts. You will usually have both a <span style="color: #9333ea">PURPLE</span> and BLACK account for these systems.
+For IT Systems Engineers, IT Analysts, IT Security Engineers, Security Incident Response Team Engineers, Site Reliability Engineers, Audit/Compliance team members (read only), and other roles that require elevated or admin access to compliance in-scope or specifically identified <a href="https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html">critical tier systems</a>, we provide an additional user account (<code>{firstInitial}{lastName}-admin@gitlab.com</code>) to securely distinguish and manage your elevated access to these systems. We refer to these as your BLACK wristband accounts. You will usually have both a <span style="color: #9333ea">PURPLE</span> and BLACK account for these systems.
 
 Unlike your <span style="color: #9333ea;">PURPLE</span> Okta account or 1Password vault that you can access from your mobile device, your BLACK admin accounts have stricter policies and are restricted to a Chrome profile on your GitLab laptop with full separation from your normal PURPLE accounts that are stored in a separate 1Password account and vault and has YubiKey 5 FIPS MFA enforced for security and compliance reasons.
 

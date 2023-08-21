@@ -312,7 +312,7 @@ If you wish to test resources using a real domain name (instead of an IP address
 
 Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.
 
-The [GitLab Red Team](/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
+The [GitLab Red Team](https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/) regularly scans GitLab's cloud environments for publicly accessible instances with known vulnerabilities. Instances vulnerable to known RCEs or other exploits detected through automated scans will be shut down without warning.
 
 ### IP Filtering
 

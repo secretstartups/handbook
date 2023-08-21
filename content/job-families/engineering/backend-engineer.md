@@ -388,7 +388,7 @@ and Continuous Deployment (CD) functionality in GitLab. Engineers should be will
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go.
 We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly.
 CI/CD engineering is interlaced with a number of teams across GitLab.
-We build new features by following our [direction](/direction/#ci--cd).
+We build new features by following our [direction](https://about.gitlab.com/direction/#ci--cd).
 Currently, we focus on providing a deep integration of Kubernetes with GitLab:
 
 1. by automating application testing and deployment through Auto DevOps,

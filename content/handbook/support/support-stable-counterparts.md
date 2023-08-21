@@ -5,7 +5,7 @@ description: The purpose of this page is to give an overview and outline the exp
 
 ## Overview
 
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 ## Expected outcomes of the Support Stable Counterpart (SSC) Initiative
 
@@ -16,7 +16,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 ## How do we align Support Team Members to the Product?
 
-- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
+- Development of the product is broken down into [sections, stages and groups; that page](https://about.gitlab.com/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
 - Each group can have one or more individual contributor counterparts.
 - Each section can have a Support manager counterpart.
 
@@ -89,7 +89,7 @@ Here's some things that other SSCs are doing that might serve as additional insp
 - Tag issues with "Support Priority" and "Support Efficiency" when appropriate. You can also use "Support Interest" to easily search for issues.
 - Analyze impact of fixing one or more high priority issues with the number of relevant tickets. (examples for [Authentication and Authorization](https://gitlab.com/gitlab-org/manage/general-discussion/-/issues/17628) and [SaaS Account tickets](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4966))
 - Contacting customers on behalf of the product group: Normally this is something the CMOC does, but in non-urgent cases you might be better equipped with domain-specific knowledge for a specific conversation with a customer ([example from Pipeline Execution](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/18107))
-- Provide reviews of customer enablement campaigns: The [Customer Success Programs Team](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs) creates campaigns to inform and educate our customers to help expand their usage of GitLab. As an SSC you're uniquely positioned as a Subject Matter Expert to review the communication that will go to customers with an eye for technical accuracy and ticket deflection. See [SME Review Guidelines](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) for more information.
+- Provide reviews of customer enablement campaigns: The [Customer Success Programs Team](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs) creates campaigns to inform and educate our customers to help expand their usage of GitLab. As an SSC you're uniquely positioned as a Subject Matter Expert to review the communication that will go to customers with an eye for technical accuracy and ticket deflection. See [SME Review Guidelines](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#subject-matter-expert-sme-review-guidelines) for more information.
 - Check if there is a [Support Pod](https://gitlab.com/gitlab-com/support/support-pods) that is topically aligned with your product group and consider joining it – you're an ideal candidate to benefit from the additional exposure to relevant tickets.
 
 ### Be available to support and mentor newly onboarded SSCs

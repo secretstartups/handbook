@@ -13,7 +13,7 @@ The process has changed significantly, removing the previously used infra import
 If a customer is having issues with exporting a project, troubleshoot as normal, including:
 
 1. Ask user to attempt both UI and API.
-1. Gather necessary information to search logs. See [Kibana Import Error](kibana.html#import-error) section on tips.
+1. Gather necessary information to search logs. See [Kibana Import Error]({{< ref "kibana#import-error" >}}) section on tips.
 1. Find relevant issue and comment, or create one if needed, with Kibana/Sentry links.
 
 Once an issue is created or commented on, you may use the [`Support::SaaS::Export::Offer one time` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665160) to offer a one-time export attempt.
@@ -48,7 +48,7 @@ K-->G[Create Remove Access Request];
 
 When a request to import a project on behalf of a customer is received, we first need to determine if the request fits the criteria.
 
-If the customer requires that only a couple projects or less be imported **and** those projects have a reasonable number of users within them, we can do it. If the request is complex or there are many projects that need importing, the requester should be referred to [Professional Services](/services/migration/) instead.
+If the customer requires that only a couple projects or less be imported **and** those projects have a reasonable number of users within them, we can do it. If the request is complex or there are many projects that need importing, the requester should be referred to [Professional Services](https://about.gitlab.com/services/migration/) instead.
 
 Once you've determined that GitLab Support is able to process the import, proceed with verifying the [Baseline Eligibility](#baseline-eligibility) of all of the projects to be imported or determine that the requestor is approved because they meet the criteria of a [Pre-Approved Case](#pre-approved-cases).
 

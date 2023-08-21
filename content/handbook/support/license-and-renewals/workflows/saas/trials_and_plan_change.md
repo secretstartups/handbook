@@ -16,19 +16,19 @@ Sales will often request through a Zendesk Ticket that we extend the duration of
 
 If any fields when opening the ticket were filled out incorrectly,  send a public reply in the ticket asking the submitter to supply the missing information.
 
-> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these must be done via [mechanizer](../customersdot/mechanizer.html) or [CustomersDot console](../customersdot/customer_console.html). Once those issues are resolved, these requests should be done via CustomersDot admin.
+> **NOTE**: Due to [customers #973](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/973) and [customers #1643](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1643), these must be done via [mechanizer]({{< ref "mechanizer" >}}) or [CustomersDot console]({{< ref "customer_console" >}}). Once those issues are resolved, these requests should be done via CustomersDot admin.
 
 1. Take ownership of the ZD ticket.
 1. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
    1. The `Namespace:` field contains a valid GitLab namespace and it that holds the active trial. This should not be a Salesforce link or email address.
    1. The `Extend the date to:` field contains a future date.
    1. The `Trial license plan:` field is filled out
-1. Use the [Update GitLab Subscription form](../customersdot/mechanizer.html#update-gitlab-subscription) to process the request.
+1. Use the [Update GitLab Subscription form]({{ ref "mechanizer#update-gitlab-subscription" >}}) to process the request.
    1. This should create a new internal request issue documenting the change action. Reference this new issue to the ZD Ticket where the extension was requested.
    1. If there is an error while taking action, check the internal issue to see what went wrong. Please also locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 1. If namespace needs to be adjusted manually, then raise a new internal issue with details and  `~Console Escalation::Customers` label.
 
-If a customer is requesting a trial extension, please follow [Working with Sales workflow](../working_with_sales.html) to let Sales team know in case they would like to have a discussion with the customer.
+If a customer is requesting a trial extension, please follow [Working with Sales workflow]({{< ref "working_with_sales" >}}) to let Sales team know in case they would like to have a discussion with the customer.
 
 ## Extend an existing active or expired subscription
 
@@ -40,7 +40,7 @@ If a customer is requesting a trial extension, please follow [Working with Sales
    yourself so that you will receive the customer's response and be
    able to take action quickly.
 1. This is done via the Mechanizer tool through
-   [Manage GitLab Plan and Trials](../customersdot/mechanizer.html#manage-gitlab-plan-and-trials).
+   [Manage GitLab Plan and Trials]({{< ref "mechanizer#manage-gitlab-plan-and-trials" >}}).
 
 **Note**: We cannot extend the trial if the customer hasn't started one on the namespace. The Subscription name field in the ZenDesk Mechanizer app is there for that reason. When there's a Subscription name, the mechanizer will create a new trial for the namespace.
 
@@ -121,7 +121,7 @@ If you get an error, use admin following the instructions in the next section.
 1. Click `Edit`.
 1. Change the `Plan` to the appropriate plan (`Ultimate` or `Premium`).
    - Don't use `Ultimate Trial` or `Premium Trial` in these cases -- these plans are intended for use by automated systems only, and may [cause an error](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3698) on the namespace when set incorrectly.
-1. Add [an admin note](../../../workflows/admin_note.html).
+1. Add [an admin note]({{ ref "admin_note" >}}).
 1. Click `Save`.
 
 ### How to create an NFR (Not for resale) SaaS License
@@ -150,7 +150,7 @@ To extend a trial SaaS extension.
 
 1. Execute the command to synchronise the update: ```Gitlab::Namespaces::UpdatePlanInfoService.new(o, force_sync: true).execute```
 1. In GitLab.com admin, edit the group and update the **Quota of compute minutes** to 400. See next step on how to find the admin screen.
-1. [Add an admin note](../../../workflows/admin_note.html) for the group to document the partner has an NFR subscription and link the issue.
+1. [Add an admin note]({{< ref "admin_note" >}}) for the group to document the partner has an NFR subscription and link the issue.
 
 Some important information to consider:
 

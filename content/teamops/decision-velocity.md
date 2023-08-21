@@ -119,7 +119,7 @@ Also note that each business function may have unique expectations on low-contex
 
 At GitLab, a department leader will typically send out a [company-wide message](/handbook/communication/#how-to-make-a-company-wide-announcement) to a Slack channel that includes every team member. Crucially, this message does not include *only* the news, but a link to a GitLab merge request *detailing what changed* ([diffs](https://docs.gitlab.com/ee/development/merge_request_concepts/diffs/)).
 
-The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104440) which added the very copy you're reading now is an example of low-context communication in practice. Darren M., the [DRI](/handbook/people-group/directly-responsible-individuals/) for the change, also shares a link to the handbook and/or project page ("the news"). The merge request includes context on what's changing, and details on where to ask questions and contribute new iterations (including an optional [Ask Me Anything (AMA)](/handbook/communication/ask-me-anything/) session). This gives any team member enough context to share feedback and apply these changes to their own teams in an informed way.
+The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104440) which added the very copy you're reading now is an example of low-context communication in practice. Darren M., the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the change, also shares a link to the handbook and/or project page ("the news"). The merge request includes context on what's changing, and details on where to ask questions and contribute new iterations (including an optional [Ask Me Anything (AMA)](/handbook/communication/ask-me-anything/) session). This gives any team member enough context to share feedback and apply these changes to their own teams in an informed way.
 
 **Example 2:** [Updating GitLab's recruitment privacy policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)
 
@@ -149,7 +149,7 @@ Your team’s ability to be transparent in your virtual-first ways of working is
 By being transparent in your virtual work, your team can easily prove productivity and fulfillment of both individual and collective [KPIs](/teamops/measurement-clarity/#transparent-measurements), which over time ensures accountability, improves the perception of performance, and builds trust.
 
 {{% details summary="Example of operational transparency" %}}
-**Example 1:** [GitLab’s “While You Were Iterating” Newsletter](/handbook/people-group/employment-branding/people-communications/#people-communications--engagement-channels)
+**Example 1:** [GitLab’s “While You Were Iterating” Newsletter](https://about.gitlab.com/handbook/people-group/employment-branding/people-communications/#people-communications--engagement-channels)
 
  Digital notifications from various tools can be noisy, distracting, and overwhelming. To help GitLab team members feel comfortable incorporating deep focus time into their schedule with full confidence that they won’t miss any important announcements, the internal communications team writes and distributes (via email) a twice-monthly newsletter that includes all important announcements, invitations, amd reminders.
 {{% /details %}}

@@ -72,8 +72,8 @@ If the request falls outside of such scenarios, see the [Other Requests section]
 ## After applying the correct form
 
 - Apply the correct `Problem type` if possible (this may need to happen after looking up the organization information).
-- With help from the [Looking up customer details](looking_up_customer_account_details.html) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
-- Check [SLA and Zendesk views page](sla_and_views.html) for after an org is assigned.
+- With help from the [Looking up customer details]({{< ref "looking_up_customer_account_details" >}}) page to understand how and where you can find customer information from ZenDesk, Salesforce and the customer portal.
+- Check [SLA and Zendesk views page]({{< ref "sla_and_views" >}}) for after an org is assigned.
 
 ## US Federal tickets in Global Support Portal
 
@@ -87,7 +87,7 @@ We also receive non Support requests in our queue - if you see something not lis
 
 |Request|Workflow|
 |--|--|
-|Training|Redirect requester to [Education from Professional Services](/services/education/)|
+|Training|Redirect requester to [Education from Professional Services](https://about.gitlab.com/services/education/)|
 |New Set Up/Installation|Follow the [Passing a Lead to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) workflow|
 |Requests for swag|Ask in the #swag internal slack channel or direct to [the FAQ](https://shop.gitlab.com/faq) for existing orders. For general requests for free swag, use the `General::Free Swag Request` Macro.|
 |Questions related to jobs/openings|Redirect requester to Outbound Talent Acquisition Model page|

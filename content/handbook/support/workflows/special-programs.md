@@ -6,15 +6,15 @@ description: Instructions for redirecting community programs subscription inquir
 
 GitLab offers several programs to help introduce GitLab's most powerful features to communities who may not otherwise have the means to access them. These include:
 
-- [GitLab for Education](/handbook/marketing/developer-relations/community-programs/education-program/)
-- [GitLab for Open Source](/handbook/marketing/developer-relations/community-programs/opensource-program/)
-- [GitLab for Startups](/handbook/marketing/developer-relations/community-programs/startups-program/)
+- [GitLab for Education](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/)
+- [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
+- [GitLab for Startups](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/)
 
-GitLab does not offer non-profit discounts or programs; however, users can apply to these community programs to receive Ultimate benefits if they meet the requirements. [The Community Programs team](/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
+GitLab does not offer non-profit discounts or programs; however, users can apply to these community programs to receive Ultimate benefits if they meet the requirements. [The Community Programs team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
 
 Use the relevant workflows below when you receive a ticket about [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) or [GitLab for Startups](https://about.gitlab.com/solutions/startups/).
 
-**Note:** Program members receive only limited support with subscriptions granted through community programs. They are able to open a support ticket via the [GitLab Support Portal](/support/#issues-with-billing-purchasing-subscriptions-or-licenses) only for errors involving the Community Self-checkout Portal on CustomersDOT or for errors relating to their subscription. Internal escalations for all three of the programs can be made via Slack channel [`#community-programs`](https://join.slack.com/share/zt-op8hxhoy-V4TBiVh_r41H6uelJeCPfA).
+**Note:** Program members receive only limited support with subscriptions granted through community programs. They are able to open a support ticket via the [GitLab Support Portal](https://about.gitlab.com/support/#issues-with-billing-purchasing-subscriptions-or-licenses) only for errors involving the Community Self-checkout Portal on CustomersDOT or for errors relating to their subscription. Internal escalations for all three of the programs can be made via Slack channel [`#community-programs`](https://join.slack.com/share/zt-op8hxhoy-V4TBiVh_r41H6uelJeCPfA).
 {: .alert .alert-info}
 
 ## Workflows
@@ -75,7 +75,7 @@ For enquiries relating to specific programs (that aren't otherwise handled by th
 
 ## Troubleshooting
 
-GitLab's Community Programs team processess program applications according to [an automated workflow](/handbook/marketing/developer-relations/community-programs/automated-community-programs/). Review the handbook pages related to that workflow for additional details on how it works.
+GitLab's Community Programs team processess program applications according to [an automated workflow](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/automated-community-programs/). Review the handbook pages related to that workflow for additional details on how it works.
 
 To troubleshoot errors during the registration process, follow the [Troubleshoot Errors While Making Purchases on CustomersDot document](/handbook/support/license-and-renewals/workflows/customersdot/troubleshoot_errors_while_making_purchases.html#getting-error-message-from-sentry).
 

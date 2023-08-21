@@ -31,7 +31,7 @@ We recommend reviewing the best practices and suggestions for [styling and respo
 
 ### What if I feel that a customer is not following our Code of Conduct?
 
-Just as Support team members are expected to adhere to GitLab's [Code of Conduct](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
+Just as Support team members are expected to adhere to GitLab's [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/), we also expect customers to treat the Support Team with the same level of respect. The [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/) outlines the standards to which we hold the wider GitLab Community.
 
 If you notice a ticket where you believe the customer to be violating the Code of Conduct, please tag the [Manager On-Call](/handbook/support/on-call/#manager-on-call) to respond with the following guidelines in our [Statement of Support](https://about.gitlab.com/support/general-policies/#please-dont-use-language-intended-to-threaten-or-harass).
 

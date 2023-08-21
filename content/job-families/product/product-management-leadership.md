@@ -43,7 +43,7 @@ of GitLab's [product hierarchy](https://about.gitlab.com/handbook/product/catego
 ### Group Manager, Product (GMP)
 
 This role typically manages 2-4 Product Managers, and reports either to a [Director of Product](#director-of-product-management),
-a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](product-leadership/#vp-of-product-managemen).
+a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management]({{< ref "product-leadership#vp-of-product-managemen" >}}).
 
 #### Group Manager, Product (GMP) - Job Grade
 
@@ -148,7 +148,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### Director of Product Management
 
-This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management](product-leadership/#vp-of-product-management).
+This role typically manages 4-6 direct reports, including Product Managers and Group Managers of Product Management, and reports to either a [Senior Director of Product Management](#senior-director-of-product-management) or the [VP of Product Management]({{< ref "product-leadership#vp-of-product-management" >}}).
 
 #### Director of Product Management - Job Grade
 
@@ -221,7 +221,7 @@ Candidates for this position can generally expect the hiring process to follow t
 
 ### Senior Director of Product Management
 
-This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product Management](product-leadership/#vp-of-product-managemen).
+This role typically manages 4-6 direct reports, including Product Managers, Group Managers of Product Management, and Directors of Product Management, and reports to the [VP of Product Management]({{< ref "product-leadership#vp-of-product-managemen" >}}).
 
 #### Senior Director of Product Management - Job Grade
 

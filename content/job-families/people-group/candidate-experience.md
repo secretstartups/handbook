@@ -103,7 +103,7 @@ The Associate Manager, Candidate Experience is a [grade 7](https://about.gitlab.
 
 ### Job Grade
 
-The Manager, Candidate Experience is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Candidate Experience is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -133,7 +133,7 @@ The Manager, Candidate Experience is a [grade 8](/handbook/total-rewards/compens
 
 ## Career Ladder
 
-The next step in the Candidate Experience job family is to move to the [Recruiter](/job-families/people-group/recruiter/) job family or the [Sourcer](https://about.gitlab.com/job-families/people-group/recruiting-sourcer/) job family.
+The next step in the Candidate Experience job family is to move to the [Recruiter](/job-families/people-group/talent-acquisition/) job family or the [Sourcer](/job-families/people-group/recruiting-sourcer/) job family.
 
 ## Performance Indicators
 

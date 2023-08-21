@@ -98,7 +98,7 @@ The Staff Customer Success Operations Manager reports to the [Senior Manager, Cu
 
 #### Job Grade
 
-The Staff Customer Success Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Customer Success Operations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 

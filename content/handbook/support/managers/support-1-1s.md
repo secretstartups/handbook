@@ -6,7 +6,7 @@ description: "Support team 1:1s guidelines"
 
 ## Aims and context
 
-At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
+At GitLab we have [weekly 1-1s](https://about.gitlab.com/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 

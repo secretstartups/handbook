@@ -26,7 +26,7 @@ SaaS, or Dedicated.
 |:----:| ----- |
 |Self-managed| Self Managed Administrators will need to [configure the desired auth provider](https://docs.gitlab.com/ee/administration/auth/) directly in their gitlab.rb. Any configuration change on this file will require that you run `gitlab-ctl reconfigure` to successfully apply changes.|
 |DotCom| Customers will [Configure SAML SSO for Groups](https://docs.gitlab.com/ee/user/group/saml_sso/index.html) directly, by going to **Group > Settings > SAML SSO**.|
-|Dedicated| Start the investigation by [searching the logs](/handbook/support/workflows/dedicated_logs). To escalate, [raise an issue with the GitLab Dedicated team](./dedicated.html#filing-issues).|
+|Dedicated| Start the investigation by [searching the logs](/handbook/support/workflows/dedicated_logs). To escalate, [raise an issue with the GitLab Dedicated team]({{< ref "dedicated#filing-issues" >}}).|
 
 ### Geo
 

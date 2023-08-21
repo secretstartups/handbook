@@ -32,7 +32,7 @@ Updates to this page must be reviewed and approved by the VP, a Director or a
 Senior Manager of Support Engineering before merging.
 
 No changes should be merged from 16 October to 31 December. This is to avoid
-changes during the [Formal Talent Assessment](/handbook/people-group/talent-assessment/#timeline)
+changes during the [Formal Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/#timeline)
 cycle which begins on 1 November and concludes by the end of each year.
 
 ## Performance factor description

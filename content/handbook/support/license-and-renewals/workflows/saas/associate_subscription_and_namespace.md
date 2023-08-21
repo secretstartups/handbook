@@ -22,7 +22,7 @@ While handling the subscription provisioning requests, we might encounter a 502 
 
 To fix this, we should **completely unlink the GitLab.com account with the customer portal** account using the [unlink_customer console function](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#unlink_customer) or `Unlink GitLab.com account` form in the ZenDesk ticket Mechanizer app.
 
-## Force Associate SaaS Subscription  
+## Force Associate SaaS Subscription
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
 
@@ -30,7 +30,7 @@ While handing the subscription provisioning requests, we'll face some cases wher
 
 - If the namespace has more active users than the number of seats in the subscription, the system redirects to the payment page to purchase additional seats to match the GitLab.com Group's active user count, in this scenario if the customer is not interested in purchasing additional seats upfront then we can force associate the subscription and the additional seats will be reflected as true-ups on the group's billing page.
 
-- Another scenario: Provisioning requests for EDU/OSS customers. In this case, the ```Change Linked Namespace``` button on the subscription does not exist, so you must use the [Force Associate Zendesk App](handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#force-associate) to associate the subscription.
+- Another scenario: Provisioning requests for EDU/OSS customers. In this case, the ```Change Linked Namespace``` button on the subscription does not exist, so you must use the [Force Associate Zendesk App]({{< ref "mechanizer#force-associate" >}}) to associate the subscription.
 
 - If it's successful then the response would be {:success=>true} -> You can also verify the namespace and close the issue.
 - If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access.

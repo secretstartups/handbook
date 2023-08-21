@@ -9,8 +9,8 @@ subcategory: Triaging
 
 Assuming a ticket has:
 
-- been [triaged](ticket_triage.html), and
-- has [the correct org associated](associating_needs_org_tickets_with_orgs.html),
+- been [triaged]({{< ref "ticket_triage" >}}), and
+- has the correct org associated,
 
 then we need to ensure the ticket:
 
@@ -19,12 +19,12 @@ then we need to ensure the ticket:
 
 ## Appropriate SLA by plan
 
-Tickets should have the appropriate SLA according to the [support service levels](/support/#gitlab-support-service-levels).
+Tickets should have the appropriate SLA according to the [support service levels](https://about.gitlab.com/support/#gitlab-support-service-levels).
 
 Some values for `GitLab Plan` for ZD organizations (called `Support Level` in SFDC)
 do not receive a SLA if they are linked to a service level. These are not expected to have SLA:
 
-- `Community`. [EDU](/solutions/education/) and [OSS program](/solutions/open-source/) do not include Support, but are in SFDC and synced.
+- `Community`. [EDU](https://about.gitlab.com/solutions/education/) and [OSS program](https://about.gitlab.com/solutions/open-source/) do not include Support, but are in SFDC and synced.
 - `Expired`. Former customer with expired subscription. If you believe this is incorrect, see [Handling customers with incorrect expired support](#handling-customers-with-incorrect-expired-support).
 - `Hold`. This is rarely used and indicates delayed payment or another issue with the sales process.
 Consider contacting the Account Owner (Manager) to clarify the customer's status.
@@ -88,7 +88,7 @@ using our generic `Support Admin` account.
 This part should be done in combination with the above section to fix future tickets.
 
 If data in SFDC or
-[CustomersDot](looking_up_customer_account_details.html#within-customersgitlabcom) show
+[CustomersDot]({{< ref "looking_up_customer_account_details#within-customersgitlabcom" >}}) show
 that the customer has a valid subscription you should update the ticket in Zendesk side.
 
 For the specific ticket:
@@ -118,7 +118,7 @@ and verify that it is associated with the appropriate organization and SLA.
 #### Example: full sequence of actions that should be done to fix incorrectly expired organization
 
 - A ticket comes to Zendesk and you spot that `GitLab Plan` is shown as `Expired`.
-- First, search for [any info about this organization](looking_up_customer_account_details.html) in SFDC and CustomersDot.
+- First, search for [any info about this organization]({{ ref "looking_up_customer_account_details" >}}) in SFDC and CustomersDot.
 - If you found that they have a valid license or subscription i.e. it is not expired, you are likely facing [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634).
 - Fix SFDC side first by following [the steps above](#handling-customers-with-incorrect-expired-support).
   Sales Support will usually reply to your message in SFDC, and you will be able to see it in the feed at the organization's page there.
@@ -183,13 +183,13 @@ To make it visible only in the appropriate view, add either `prospect_saas` or `
 
 In cases where a ticket is showing in the wrong queue:
 
-1. Ensure that the ticket has [the correct form](ticket_triage.html).
+1. Ensure that the ticket has [the correct form]({{< ref "ticket_triage" >}}).
 1. If the [priority prospect tag is present, follow instructions above](#priority-prospects-showing-in-multiple-views).
 1. If it looks to be a valid customer or there are multiple [SLA tags](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/),
 follow the [multiple subscription org instructions](#organizations-with-multiple-subscriptions).
 1. If the customer only has a single subscription and *not* one related to the form they selected:
 1. Remove the [SLA tag](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tags/).
-1. Follow the [identifying customers instructions](associating_needs_org_tickets_with_orgs.html#identifying-customers) and treat as a `prospect`.
+1. Follow the identifying customers instructions and treat as a `prospect`.
 
 ## Get help
 

@@ -195,7 +195,7 @@ These policies are a cross-collaboration between the IT and Security department.
   - [Linux](/handbook/tools-and-tips/linux/)
 - [Mobile Device Application Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
-- [Password and MFA Policy](https://about.gitlab.com/handbook/security/password-procedure.html)
+- [Password and MFA Policy](https://about.gitlab.com/handbook/security/password-standard.html)
 - [Personal Access Token Policy](https://about.gitlab.com/handbook/security/#personal-access-tokens)
 - [Security Awareness Policy](https://about.gitlab.com/handbook/security/#security-awareness)
 - [Security Phishing User Guide](https://about.gitlab.com/handbook/security/#how-to-identify-a-basic-phishing-attack)

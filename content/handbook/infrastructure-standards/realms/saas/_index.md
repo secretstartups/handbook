@@ -19,6 +19,6 @@ This is a placeholder page for the `saas` realm.
 Future Iteration with Engineering Infrastructure Handbook Pages
 </div>
 <div class="panel-body">
-The <a href="/handbook/engineering/infrastructure/environments/">Engineering Infrastructure Environments handbook page</a> is the current SSOT for environments. As the WIP initiative to iterate on our company-wide infrastructure standards evolves, the Engineering Infrastructure pages will be refactored incrementally as the standards are documented, implemented, and changes to environments take place.
+The <a href="https://about.gitlab.com/handbook/engineering/infrastructure/environments/">Engineering Infrastructure Environments handbook page</a> is the current SSOT for environments. As the WIP initiative to iterate on our company-wide infrastructure standards evolves, the Engineering Infrastructure pages will be refactored incrementally as the standards are documented, implemented, and changes to environments take place.
 </div>
 </div>

@@ -27,7 +27,7 @@ If the user does not receive a verification email with the 6-digit code, it's li
 
 All verification emails with unlock codes and password reset emails bypass Mailgun suppressions. Mail delivery of these emails can also be seen in Mailgun.
 
-You can see `Account Locked` states in [Kibana](kibana.html) by searching for `json.message: Account Locked`. Here's an example of what it might look like it Kibana:
+You can see `Account Locked` states in [Kibana]({{< ref "kibana" >}}) by searching for `json.message: Account Locked`. Here's an example of what it might look like it Kibana:
 
 ![locked_account](/images/support/locked_example.png)
 
@@ -41,10 +41,10 @@ we can consider a manual unlock if necessary. For example, if a user cannot rece
 Process:
 
 1. Follow the locked accounts workflow above and ensure that the user has exhausted all self-serve methods first.
-1. For other cases, [comment or create an issue](working-with-issues.html) as applicable.
-1. Do an [account ownership verification](account_verification.html).
+1. For other cases, [comment or create an issue]({{< ref "working-with-issues" >}}) as applicable.
+1. Do an [account ownership verification]({{< ref "account_verification" >}}).
 1. [Unlock the account from the admin area](https://docs.gitlab.com/ee/security/unlock_user.html#unlock-a-user-from-the-admin-area)
-1. [Add an admin note](admin_note.html).
+1. [Add an admin note]({{< ref "admin_note" >}}).
 
 Feature request for group owners to self-serve is in [anti-abuse#339](https://gitlab.com/gitlab-org/modelops/anti-abuse/team-tasks/-/issues/339).
 
@@ -60,7 +60,7 @@ Process:
 1. While in the admin area for the user, scroll to the **Custom Attributes** section.
 1. Change the field for `arkose_risk_band` from `high` to `medium`.
 1. If necessary, [unlock the account](https://docs.gitlab.com/ee/security/unlock_user.html#unlock-a-user-from-the-admin-area).
-1. [Add an admin note](admin_note.html).
+1. [Add an admin note]({{< ref "admin_note" >}}).
 1. Click `Save` when done.
 
 ## Blocked Accounts
@@ -81,7 +81,7 @@ This workflow is used to determine if a blocked user can be reinstated if it has
     - If the user provides the requested information, then complete the `Trust and Safety` [Account Reinstatement Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/TS_Operations/account-reinstatements/-/issues/new?issuable_template=Account%20Reinstatement) template in the Trust and Safety Operations tracker. Otherwise, reaffirm the block cannot be removed.
 1. Professional Services migrations can also block users as part of their process. Admin notes for migrations were added as of 2022-08-19 through [this issue](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/issues/818). Older migrated accounts may not have an admin note. Support can unblock the user in the following cases:
     - Blocked users can submit a support ticket to be unblocked. Once they are [verified](https://about.gitlab.com/handbook/support/workflows/account_verification.html), the user can be unblocked. Leave an [admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html) on the user stating they were unblocked, with the date and ticket number.
-    - For [Enterprise users](gitlab-com_overview.html#enterprise-users), the `owner` of the top-level namespace the user belongs to can submit the ticket. Follow the [account verification](account_verification.html), and add an [admin note](admin_note.html) as usual, including if it was user or owner requested.
+    - For [Enterprise users]({{< ref "gitlab-com_overview#enterprise-users" >}}), the `owner` of the top-level namespace the user belongs to can submit the ticket. Follow the [account verification]({{< ref "account_verification" >}}), and add an [admin note]({{< ref "admin_note" >}}) as usual, including if it was user or owner requested.
     - You can also ask for clarification or assistance in the [#professional_services](https://gitlab.slack.com/archives/CFRLYG77X) channel if needed.
 1. For all other cases, including no admin notes that are not a part of PS migrations, complete the [Account Reinstatement Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/TS_Operations/account-reinstatements/-/issues/new?issuable_template=Account%20Reinstatement) template in the Trust and Safety Operations tracker. A security member of the team will review the request within 24 hours. If the request is urgent, please reach out in the #abuse Slack channel.
 1. Send the [`Support::SaaS::Blocked Accounts::Escalated-TrustAndSafety`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073013540) macro for the initial response to the user.

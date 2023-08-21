@@ -42,7 +42,7 @@ this workflow.
        functionality successfully, then add `Customer::Impact` and `UX`
 
 - For general guidance on adding comments and required labels for issues, please
-  see the [Working with issues workflow](../../workflows/working-with-issues.html#adding-comments-on-existing-issues)
+  see the [Working with issues workflow]({{< ref "working-with-issues#adding-comments-on-existing-issues" >}})
 - Fulfillment Product Management will decide the appropriate section and PM to
   which to assign each new issue
 - If you believe a high priority issue is not being addressed quickly enough,

@@ -48,7 +48,7 @@ keep things clean, similar to `disable` comments in RuboCop, ESLint, or similar 
 These false positives often indicate a bug or missing functionality in the IDE. Therefore, in these
 cases, we will proactively report these to JetBrains, and track the corresponding issues in their issue tracker.
 
-This tracking exists under [Tracked JetBrains Issues](../../tracked-jetbrains-issues), and the related
+This tracking exists under [Tracked JetBrains Issues]({{< ref "tracked-jetbrains-issues" >}}), and the related
 comments should all include the relevant issue entry as a reference. Once the underlying issues are
 resolved and included in a new IDE release,
 [the corresponding `noinspection` comments can be removed](../../tracked-jetbrains-issues#handling-of-issues-related-to-noinspection-comments).

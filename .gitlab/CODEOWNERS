@@ -107,6 +107,9 @@
 /content/handbook/finance/ @brobins
 /content/job-families/finance/ @brobins
 
+^[Infrastructure-Standards]
+/content/handbook/infrastructure-standards/ @jeffersonmartin @dawsmith @alanrichards
+
 ^[legal]
 /content/handbook/legal-and-compliance/ @rschulman
 /content/job-families/legal-and-corporate-affairs/ @robin

@@ -19,7 +19,7 @@ macOS 13.4.0 or later
 
 If your work requires a Linux distro installed on your laptop (a team member endpoint system) by any means, including virtualization, that it must be on the below GitLab Approved List. It will be your responsibility to maintain your Linux environment with security patching and version upgrades to stay compliant with the list.
 
-The list of Linux versions below is based on what our [EDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution is required on team member endpoint systems and [virtual machines](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#i-have-several-virtual-hosts-on-my-laptop-do-they-all-need-agent).
+The list of Linux versions below is based on what our [EDR](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution is required on team member endpoint systems and [virtual machines](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#i-have-several-virtual-hosts-on-my-laptop-do-they-all-need-agent).
 
 Linux versions are therefore limited to:
 
@@ -82,4 +82,4 @@ Windows usage on laptop hardware is the least preferred option. If you have a le
 
 ## Exception Process
 
-Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](/handbook/security/#information-security-policy-exception-management-process)
+Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process)

@@ -164,12 +164,12 @@ deciding which of them to do first.
    1. asking the assignee if they'd like to pair on the ticket, OR
    1. responding directly to the customer, **preferably only if a response
       is needed urgently AND the assignee is unavailable to work the ticket**
-1. Assist with Slack requests in [Support Pods](/handbook/support/workflows/working-with-pods.html) you participate in (if applicable)
+1. Assist with Slack requests in [Support Pods](/handbook/support/workflows/working-with-pods) you participate in (if applicable)
 1. Attend to indirect ticket work you have to do, such as:
    - docs updates
    - issue creation or contributions
    - training
-1. Help on tickets within your [Support Pods](/handbook/support/workflows/working-with-pods.html) (if applicable) by:
+1. Help on tickets within your [Support Pods](/handbook/support/workflows/working-with-pods) (if applicable) by:
 1. posting an internal note with relevant helpful information, OR
 1. asking the assignee if they'd like to pair on the ticket
 1. Help on tickets outside of FlexiPods and assigned to other groups (Seniors may recognize if other groups are struggling and can decide if a group has the capacity to help)

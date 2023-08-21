@@ -6,7 +6,7 @@ description: Support Readiness Specialists at GitLab support the daily operation
 ## Support Readiness Specialist
 
 As a Support Readiness Specialist, you will be responsible for ensuring the
-[Support Engineers](https://about.gitlab.com/job-families/engineering/support-engineer/) and [Support Managers](https://about.gitlab.com/job-families/engineering/support-management/) are able to deliver consistently
+[Support Engineers](/job-families/engineering/support-engineer/) and [Support Managers](/job-families/engineering/support-management/) are able to deliver consistently
 high quality support.
 
 Depending on your [specialization](#specializations), you will be contributing towards
@@ -235,7 +235,7 @@ Additional details about our process can be found on our
 
 ### Compensation Calculator
 
-To find out more about the compensation for this role, please apply to a open role on our [careers page](/jobs/) first. Once you've applied and are selected for a screening call, you'll be able to sign up here to view our
+To find out more about the compensation for this role, please apply to a open role on our [careers page](https://about.gitlab.com/jobs/) first. Once you've applied and are selected for a screening call, you'll be able to sign up here to view our
 [compensation calculator](https://comp-calculator.gitlab.net/?role=Support%20Engineer).
 Be sure to use the same email address for both.
 

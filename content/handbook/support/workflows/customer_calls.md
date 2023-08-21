@@ -129,7 +129,7 @@ A Troubleshooting call is a longer call where you'll work real-time with the cus
 
 #### Purpose
 
-A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](/handbook/customer-success/csm/escalations/).
+A Reset & Review call is an opportunity for an engineer to connect with a customer on a long-running or high priority ticket to review the troubleshooting that's taken place so far and explain the next steps to be taken towards resolution. For high priority tickets that [aren't quite emergencies](/handbook/support/workflows/customer_emergencies_workflows.html#situations-that-might-or-might-not-be-emergencies) in particular, establishing a cadence of Reset & Review calls early can help avoid (or ease the transition into) an [account escalation](https://about.gitlab.com/handbook/customer-success/csm/escalations/).
 
 #### Duration
 

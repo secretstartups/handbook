@@ -146,9 +146,9 @@ If a group owner is unable to create a snippet, you may use another method to ve
 
 This section is typically done by the peer reviewer. If needed, the peer reviewer (or approving manager) may leave an approval note, in which case the original reviewer will perform the actions.
 
-1. For situations other than 2FA, please see [Account Changes workflow](account_changes.html).
+1. For situations other than 2FA, please see [Account Changes workflow]({{< ref "account_changes" >}}).
 1. For disabling 2FA: If you agree with the decision, sign into your admin account and locate the username in the users table or by going to `https://gitlab.com/admin/users/usernamegoeshere`
-      1. Under the account tab, click `Edit`, add an [Admin Note](admin_note.html), and save.
+      1. Under the account tab, click `Edit`, add an [Admin Note]({{< ref "admin_note" >}}), and save.
       1. On the account tab, click on `Disable 2FA`.
       1. Use the `Support::SaaS::2FA::2FA Removal Verification - Successful` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
 
@@ -280,7 +280,7 @@ As stressed in the Slack notification template, we will wait for the customer's 
 
 #### 4. Disable 2FA
 
-Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
+Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note]({{< ref "admin_note" >}}) on the user's account, and then close both the support ticket and issue.
 
 Peer review is **not** required. You may make the change yourself.
 
@@ -322,7 +322,7 @@ Account Ownership Change Requests are initiated when the sole Owner of a group l
    1. Add a link to the issue to the Zendesk ticket;
    1. Reply to the requestor using the `Legal::General` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in the `#legal` [Slack channel](https://app.slack.com/client/T02592416/C78E74A6L).
    1. After receiving approval from Legal, [elevate the requestor to Owner role](#how-to-elevate-the-requestor-to-the-owner-role).
-1. Add an [Admin note](admin_note.html) on the group admin page.
+1. Add an [Admin note]({{< ref "admin_note" >}}) on the group admin page.
 
 #### How to elevate the requestor to the Owner role
 

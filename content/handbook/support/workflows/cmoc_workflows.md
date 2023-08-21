@@ -7,7 +7,7 @@ description: "Describes the role and responsibilities for the Incident CMOC rota
 
 ## Introduction
 
-As the GitLab SaaS Incident [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) you are the voice of GitLab to our users and stakeholders during an incident. To do this effectively, you'll work primarily with the [Incident Manager (IM) and Engineer on Call (EOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) and use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
+As the GitLab SaaS Incident [Communications Manager on Call (CMOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) you are the voice of GitLab to our users and stakeholders during an incident. To do this effectively, you'll work primarily with the [Incident Manager (IM) and Engineer on Call (EOC)](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) and use a combination of [our status page](https://status.gitlab.com/) (powered by [Status.io](https://status.io)), Slack, Zendesk, and GitLab itself. The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
 
 To disambiguate this term on other pages, you may see the acronym ICMOC or see the role referred to as "Incident CMOC". As this page is scoped to only this role it uses CMOC, Incident CMOC, and ICMOC interchangeably.
 
@@ -106,7 +106,7 @@ As an example, refer to [this issue](https://gitlab.com/gitlab-com/support/suppo
 
 ### About Contact Requests
 
-Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices](sending_notices.html) workflow to action these requests. Additionally, refer to the [End of Shift Handover Procedure](#end-of-shift-handover-procedure) for details on handing off contact requests.
+Whether related to an ongoing incident or not, Infrastructure or Security may ask you to reach out to one or more users if they detect unusual usage. Please follow the [Sending Notices]({{< ref "sending_notices" >}}) workflow to action these requests. Additionally, refer to the [End of Shift Handover Procedure](#end-of-shift-handover-procedure) for details on handing off contact requests.
 
 ### How to Page the CMOC?
 
@@ -378,7 +378,7 @@ After the incident has been closed double check that the status page looks right
 
 #### Add Post-Mortem
 
-A review will be conducted by production engineering for every incident that matches a [certain criteria](/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
+A review will be conducted by production engineering for every incident that matches a [certain criteria](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
 
 Do the following to add a post-mortem to a resolved incident:
 

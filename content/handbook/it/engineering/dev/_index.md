@@ -8,7 +8,7 @@ description: "This handbook page provides information about software development
 
 The IT Engineering Development team develops custom software applications, automation, APIs and integrations that support internal IT automation for business efficiency and processes managed by the IT department.
 
-Many of our projects focus on providing self service access request provisioning to our tech stack applications and supporting IT Infrastructure services, including the [Demo Systems](/handbook/customer-success/demo-systems) and [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox).
+Many of our projects focus on providing self service access request provisioning to our tech stack applications and supporting IT Infrastructure services, including the [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems) and [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox).
 
 ## Direction
 

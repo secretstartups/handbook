@@ -43,7 +43,7 @@ This platform is powered by [HackyStack](https://gitlab.com/gitlab-com/it/dev/ha
 
 You can learn more in the [HackyStack High-Level Intro](https://docs.google.com/presentation/d/1kbaub1-ztxGCV7wAzhNWXsH5beIu_HAVGSBjr8-0qTw/edit#slide=id.gdfc093c5c0_0_11) presentation.
 
-The Sandbox Cloud is managed by the [IT Engineering](/handbook/business-technology/it/engineering) team. Please tag `Jeff Martin` in Slack with any questions.
+The Sandbox Cloud is managed by the [IT Engineering](https://about.gitlab.com/handbook/business-technology/it/engineering) team. Please tag `Jeff Martin` in Slack with any questions.
 
 ### How to Get Started
 

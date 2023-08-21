@@ -53,14 +53,14 @@ done, the schedule is classified as "unused".
 1. Review the rendered schedule to ensure it aligns with the specifications for
    the request
 1. Click the blue `Save Schedule` button
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [schedules listing](#current-schedules-used-by-support)
 1. Update
    [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 
 ## Modifying a schedule
 
 **Note** These should never be scheduled for the same day, as they often impact
-others. Review [our workflows](../workflows/pagerduty.html) on managing
+others. Review [our workflows](/handbook/support/readiness/operations/docs/pagerduty/change_management.html) on managing
 pagerduty for more information.
 
 1. Login to [pagerduty](https://gitlab.pagerduty.com/)
@@ -73,7 +73,7 @@ pagerduty for more information.
 1. Review the rendered schedule to ensure it aligns with the specifications for
    the request
 1. Click the blue `Save Schedule` button at the bottom-left of the page
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [schedules listing](#current-schedules-used-by-support)
 1. Update
    [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 
@@ -88,7 +88,7 @@ policy. You need to remove it first.
 1. Search for the name of the schedule using the search-bar
 1. Click on the blue name of the schedule you wish to delete
 1. Click the red `Delete this Schedule`
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [schedules listing](#current-schedules-used-by-support)
 1. Update
    [the static_data.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/static_data.yaml)
 

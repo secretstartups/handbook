@@ -42,7 +42,7 @@ The Senior Absence Management Specialist reports to the Manager, Absence Managem
 
 ### Job Grade
 
-The Senior Absence Management Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Absence Management Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -73,9 +73,9 @@ The Senior Absence Management Specialist is a [grade 6](/handbook/total-rewards/
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Senior Absence Management Partner
 
@@ -88,22 +88,22 @@ The Senior Absence Management Partner is a [grade 7](https://about.gitlab.com/ha
 ### Senior Absence Management Partner Responsibilities
 
 - Administers global absence management programs and drives policy and practice revisions as needed.
-- Ensures compliance with all leave of absence and employment laws across all countries in which we have entities.  
+- Ensures compliance with all leave of absence and employment laws across all countries in which we have entities.
 - Oversees the creation and/or modification of LOA policies and practices to ensure alignment with applicable requirements as well as GitLabs’ Values.
-- Ensures alignment with partners across the organization including Legal, Compliance, Sales Operations, Payroll, benefits/leave vendors, and Total Rewards.  
-- Primary absence partner and subject matter expert for Global LOA inquiries, requests, designations and approvals.  
-- Hands-on responsibility of day-to-day administration of all employee leave of absence programs.  
-- Maintains communication with team members on leave to facilitate a smooth departure as well as a smooth transition back to work.  
-- Partners with leaders and team members regarding workplace accommodations.  
+- Ensures alignment with partners across the organization including Legal, Compliance, Sales Operations, Payroll, benefits/leave vendors, and Total Rewards.
+- Primary absence partner and subject matter expert for Global LOA inquiries, requests, designations and approvals.
+- Hands-on responsibility of day-to-day administration of all employee leave of absence programs.
+- Maintains communication with team members on leave to facilitate a smooth departure as well as a smooth transition back to work.
+- Partners with leaders and team members regarding workplace accommodations.
 - Optimizes the LOA processes to deliver exceptional Team member experiences before, during and after the leave of absence.
-- Optimizes the administrative processing of LOA’s to ensure accurate and timely completion of required steps.  May be required to determine outsourcing options for administrative aspects of LOA’s.  
-- Provides trend LOA data and status reports as needed.  
+- Optimizes the administrative processing of LOA’s to ensure accurate and timely completion of required steps.  May be required to determine outsourcing options for administrative aspects of LOA’s.
+- Provides trend LOA data and status reports as needed.
 - Ensures the proper tracking of LOA’s and identifies the process dependencies and remediation of those dependencies.
 
 ### Senior Absence Management Partner Requirements
 
 - 5-7+ years of progressive Absence Management experience.
-- Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.  
+- Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.
 Excellent written and verbal communication and interpersonal skills.
 - Strong problem-solving skills, critical thinking, and an intuitive sense of business acumen.
 - Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
@@ -113,13 +113,13 @@ Excellent written and verbal communication and interpersonal skills.
 
 - Team Member Absence Management Case Management
   - Senior Absence Management Partner will respond to all requests for assistance from team members within 24 hours.
-  - All cases are resolved in a consistent, fair, and unbiased process.  
-  - Identify and resolve potential risks to GitLab.  
+  - All cases are resolved in a consistent, fair, and unbiased process.
+  - Identify and resolve potential risks to GitLab.
   - When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive experiences while taking time off.
   - Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 - Collaboration
-  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal, and People Success.  
+  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal, and People Success.
 
 ## Career Ladder
 
@@ -150,7 +150,7 @@ The Absence Management Manager is a [grade 8](https://about.gitlab.com/handbook/
 
 - Ability to use GitLab
 - 5-7+ years of progressive Absence Management experience.
-- Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.  
+- Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.
 - Excellent written and verbal communication and interpersonal skills.
 - Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
 - Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
@@ -161,13 +161,13 @@ The Absence Management Manager is a [grade 8](https://about.gitlab.com/handbook/
 
 - Team Member Absence Management Case Management
   - Absence Management Manager will ensure the team responds to all requests for assistance from team members within 24 hours.
-  - All cases are resolved in a consistent, fair and unbiased process.  
-  - Identify and resolve potential risks to GitLab.  
+  - All cases are resolved in a consistent, fair and unbiased process.
+  - Identify and resolve potential risks to GitLab.
   - When surveyed, >90% utilizing the Team Member Absence Management Team report effective interactions and outcomes, and positive experiences while taking time off.
   - Overall employee sentiment is positive (>80%) on the Engagement Survey.
 
 - Collaboration
-  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
+  - Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.
 
 ### Absence Management Manager Career Ladder
 

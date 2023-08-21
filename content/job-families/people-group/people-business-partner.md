@@ -215,7 +215,7 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 
 ### Job Grade
 
-The Senior Director, People Business Partner is a [job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, People Business Partner is a [job grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

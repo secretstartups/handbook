@@ -109,4 +109,4 @@ Candidates can expect the hiring process to follow the order below. Please keep 
 - Candidates may be invited to additional interviews.
 - Successful candidates will be made an offer after references are verified.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

@@ -48,7 +48,7 @@ the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Sl
 
 ### Purchased compute minutes are not associated with customer's group
 
-To transfer compute minutes from a user's personal namespace to a group namespace, use the [Force Association option in the ZD Mechanizer App](../mechanizer.html#force-associate).
+To transfer compute minutes from a user's personal namespace to a group namespace, use the [Force Association option in the ZD Mechanizer App]({{< ref "mechanizer#force-associate" >}}).
 
 **If the Mechanizer does not work**, you will need to request a refund for the customer.  In this case:
 
@@ -77,7 +77,7 @@ Once verified, use the following steps:
 
 1. Edit the user account `https://gitlab.com/admin/users/USERNAME/edit`.
 1. Select the `Validate user account` checkbox.
-1. Add an [Admin note](../../../workflows/admin_note.html).
+1. Add an [Admin note]({{< ref "admin_note" >}}).
 1. `Save changes`.
 
 ### Enabling compute minutes for sales assisted trials
@@ -88,7 +88,7 @@ The following process will remove the restrictions for using compute minutes for
 
 #### Using Mechanizer ZD App
 
-Use the [Enable compute minutes via ZD Mechanizer app](../mechanizer.html#enable-units-of-compute).
+Use the [Enable compute minutes via ZD Mechanizer app]({{< ref "mechanizer#enable-units-of-compute" >}}).
 
 #### Using customerDot Console
 

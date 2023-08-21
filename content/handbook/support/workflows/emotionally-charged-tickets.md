@@ -10,7 +10,7 @@ description: How to keep a ticket moving toward resolution when emotions are get
 
 ## Introduction
 
-While [working on tickets](./working-on-tickets.html) you may encounter a
+While [working on tickets]({{< ref "working-on-tickets" >}}) you may encounter a
 customer expressing negatively charged emotions in their responses.
 When customers start putting negative emotions into ticket communications, it
 can be very difficult to figure out what to do. Our goal remains the same: to

@@ -135,4 +135,4 @@ graph LR
 
 ### Additional Resources
 
-For additional tips and best practices when working in the Community forum, refer to the [Developer Relations Handbook entry for the Community forum](/handbook/marketing/developer-relations/workflows-tools/forum/).
+For additional tips and best practices when working in the Community forum, refer to the [Developer Relations Handbook entry for the Community forum](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/forum/).

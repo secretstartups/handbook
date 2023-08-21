@@ -32,9 +32,9 @@ While KPIs measure smaller units than OKRs do, the former aren't dependent on th
 Crucially, under TeamOps every functional department shares its KPIs transparently shared across the organization. This aids visibility and enables everyone to contribute.
 
 {{% details summary="Example of transparent measurements" %}}
-**Example 1:** [Chief Executive Officer OKR and KPIs](https://about.gitlab.com//company/okrs/fy23-q3/)
+**Example 1:** [Chief Executive Officer OKR and KPIs](https://about.gitlab.com/company/okrs/fy23-q3/)
 
-In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](https://about.gitlab.com//company/okrs/fy23-q3/). This is the *initiative* to improve a series of KPIs, a subset of which are documented below:
+In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](https://about.gitlab.com/company/okrs/fy23-q3/). This is the *initiative* to improve a series of KPIs, a subset of which are documented below:
 
 1. Evolve the resident contributor strategy by conducting 5 customer conversations with current “resident contributors” in seat
 1. Certify 1,000 team members and 10,000 wider-community members in TeamOps
@@ -96,9 +96,9 @@ TeamOps may not treat [elapsed time as a success measurement](/teamops/measureme
 An organization practicing TeamOps will always set a due date and, if necessary in light of changing circumstances, will *cut project scope* to meet that due date rather than *postpone* that date. This encourages teams to think [iteratively](/handbook/values/#iteration), recalculate the scope of current work, and better determine which aspects of a project are best saved for future objectives. Working this way limits loss of momentum.
 
 {{% details summary="Example of prioritize due dates over scope" %}}
-**Example 1:** [Maintaining a monthly release cadence for 10+ years](/releases/)
+**Example 1:** [Maintaining a monthly release cadence for 10+ years](https://about.gitlab.com/releases/)
 
-As of 2022-12-01, GitLab has [shipped a monthly product release](/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://handbook.gitlab.com/handbook/values/#set-a-due-date) instead of pushing ship dates.
+As of 2022-12-01, GitLab has [shipped a monthly product release](https://about.gitlab.com/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://handbook.gitlab.com/handbook/values/#set-a-due-date) instead of pushing ship dates.
 {{% /details %}}
 
 {{% details summary="Quick start tips for prioritize due dates over scope" %}}

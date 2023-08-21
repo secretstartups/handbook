@@ -57,8 +57,8 @@ We are equally responsible to ensure our team members are supported in their Git
 |  | Recommend projects, training, and leadership roles for your direct reports |
 |  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](https://about.gitlab.com/handbook/support/#cross-functional-non-product-counterparts)
 |  | Ensure regular professional/career development for each direct report |
-|  | Perform annual [360 Reviews](/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
-|  | Conduct [Performance Factor reviews](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](/handbook/total-rewards/compensation/compensation-review-cycle/)
+|  | Perform annual [360 Reviews](https://about.gitlab.com/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
+|  | Conduct [Performance Factor reviews](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/)
 |  | Handle any HR / People Group questions and topics from direct reports |
 |  | Review, approve, and merge GitLab Issues and MRs from direct reports |
 |  | Support your team members' participation in on-call rotations |
@@ -108,7 +108,7 @@ Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the
 
 ### Develop your skills through learning and training
 
-We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Be sure to include non-technical topics such as:
 

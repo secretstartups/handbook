@@ -55,7 +55,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace. See [Internal Requests > SaaS Trial Related > Change an existing SaaS trial plan](../internal-support/#internal-requests) for instructions on how to perform this task.
+For sales assisted trials, only we can override the credit card validation requirement for a namespace. See [Internal Requests > SaaS Trial Related > Change an existing SaaS trial plan]({{< ref "internal-support#internal-requests" >}}) for instructions on how to perform this task.
 
 ## GitLab.com Trial Change Request
 
@@ -65,7 +65,7 @@ Sales team members will typically open this on behalf of their prospects in orde
 
 GitLab Team Members can no longer submit inactive namespace / namesquatting requests for their own use. See: [support-team-meta#5170](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5170)
 
-Customers can submit a support ticket. See [Name Squatting Policy](namesquatting_policy.html).
+Customers can submit a support ticket. See [Name Squatting Policy]({{< ref "namesquatting_policy" >}}).
 
 ## Contact Request
 

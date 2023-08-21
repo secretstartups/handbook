@@ -42,7 +42,7 @@ The steps to create an escalation policy in Pagerduty are:
 1. Click the checkbox next to
    `If no one acknowledges, repeat this policy xx times` and set it to 5
 1. Click the blue `Save` button on the bottom-right of the page
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [escalation listing](#current-escalation-policies-used-by-support)
 
 ## Editing an escalation policy
 
@@ -57,7 +57,7 @@ The steps to edit an escalation policy in Pagerduty are:
 1. Click the `Edit Escalation Policy` button on the top-right of the page
 1. Make the needed modifications
 1. Click the blue `Save` button at the bottom-left of the page
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [escalation listing](#current-escalation-policies-used-by-support)
 
 ## Deleting an escalation policy
 
@@ -72,7 +72,7 @@ deleted. You might need to edit it first to remove rules and persons first.
 1. Click the blue text of the escalation policy once located
 1. Click the `Edit Escalation Policy` button on the top-right of the page
 1. Click the red `Delete` button on the bottom-right of the page
-1. Update [our Pagerduty documentation page](../documentation/pagerduty.html)
+1. Update the [escalation listing](#current-escalation-policies-used-by-support)
 
 ## Current escalation policies used by support
 

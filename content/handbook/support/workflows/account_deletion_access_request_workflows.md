@@ -214,7 +214,7 @@ If the above conditions are not met, respond with the following before closing t
 ##### **Step 2.5:** Verification Passed - Unblock user
 
 1. Ensure that the user has passed the challenge questions and has been properly evaluated.
-1. Proceed to follow the [reinstating a blocked account workflow](reinstating-blocked-accounts.html#blocked-accounts). Generally, this means opening a Trust and Safety issue for evaluation.
+1. Proceed to follow the [reinstating a blocked account workflow]({{< ref "reinstating-blocked-accounts#blocked-accounts" >}}). Generally, this means opening a Trust and Safety issue for evaluation.
 1. Reply to the user to let them know.
 
 <details>

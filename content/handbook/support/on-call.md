@@ -47,7 +47,7 @@ If another support engineer joins your emergency call, feel free to assign them 
 
 ### Take care of yourself
 
-Make a real effort to de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
+Make a real effort to de-stress during your on-call shift. After being on-call, consider taking time off, as noted in the [main GitLab Handbook](https://about.gitlab.com/handbook/paid-time-off). Just being available for emergencies and outages causes stress, even if there are no pages. Resting is critical for proper functioning. Just let your team know.
 
 When you get a notification from PagerDuty give yourself a few minutes to prepare.
 - Get to someplace comfortable and quiet where you can devote your attention to the emergency.
@@ -143,7 +143,7 @@ Team members employed by GitLab PTY Ltd *must* take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
 Time Off by Deel, selecting the `On-Call Time in Lieu` option.
 
-For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+For more details, see the [GitLab PTY Australia Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
 page.
 
 ##### New Zealand (Employees of GitLab PTY Ltd NZ)

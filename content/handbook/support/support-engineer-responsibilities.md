@@ -5,8 +5,8 @@ description: A detailed listing of the responsibilities of Support Engineers in 
 
 ## Introduction
 
-1. This page is an extension of the [Support Engineer job family](https://handbook.gitlab.com/job-families/engineering/support-engineer/) page.
-1. This page should reflect the [Support Career Framework](/handbook/engineering/career-development/matrix/engineering/support/).
+1. This page is an extension of the [Support Engineer job family](/job-families/engineering/support-engineer/) page.
+1. This page should reflect the [Support Career Framework](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/support/).
 1. The **aim** of this page is to **help you to know what your responsibilities as a
    Support Engineer are**.
 1. **You're not expected to work on all areas every week**. Some of the areas
@@ -15,7 +15,7 @@ description: A detailed listing of the responsibilities of Support Engineers in 
    will help you to know where to focus your efforts on a regular basis.
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
-     1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
+     1. The People Group is responsible for the [GitLab annual review process](https://about.gitlab.com/handbook/people-group/360-feedback/).
      1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
 1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
 
@@ -266,7 +266,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 ## Create and update issues for bugs and feature requests (Weekly)
 
-Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues.html) helps achieve this.
+Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](https://about.gitlab.com/handbook/support/workflows/working-with-issues.html) helps achieve this.
 
 **What does success look like?**
 
@@ -283,7 +283,7 @@ Reducing future customer problems is an important part of being a Support Engine
 
 You are encouraged to [update documentation](/handbook/support/workflows/improving-documentation.html) regularly. This helps prevent ticket creation by improving the information available for customers to use in solving problems without contacting us.
 
-[Creating blog posts](/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
+[Creating blog posts](https://about.gitlab.com/handbook/marketing/blog/unfiltered/) and other publicly available knowledge that is accessible by search engines is valuable to help prevent ticket creation.
 
 We [summarize Support team contributions](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?label_name%5B%5D=Support%20Team%20Contributions) every week using a bot.
 
@@ -314,7 +314,7 @@ There's no goal for this area. You can see how you're doing by using the 'Handbo
 
 ## Keep up-to-date on GitLab and Support
 
-1. Since we ship a **new release [every month](/handbook/engineering/releases/)**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
+1. Since we ship a **new release [every month](https://about.gitlab.com/handbook/engineering/releases/)**, and as we manage to fit a lot of great new features and fixes into each release, it is sometimes difficult for the Support Team to keep up to date with key changes. In general, it is the responsibility of each Support Team member to read the release blog post, dig deeper where you need to or want to, and keep yourself up to date with new GitLab versions. To facilitate this further, there is a Retrospective every month (it is listed on the GitLab Team Meetings calendar) that you can join.
 1. We have several [Support Weekly Meetings](/handbook/support/#weekly-meetings) that you are encouraged to attend or watch the recording of.
 1. The [Support Week in Review](/handbook/support/#support-week-in-review) (SWIR) document is intended to contain all the recent announcements and updates each week with which everyone in Support should be familiar. You are **expected** to read or listen to the recording of the document every week. And you're encouraged to contribute to the document as well. *You should consider putting a weekly reminder on your Monday mornings for reading (or listening to) the SWIR.*
 
@@ -338,7 +338,7 @@ If you wish to participate in any of these activities, please discuss it with yo
 
 We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
-The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+The GitLab [Learning and Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Support Engineers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 

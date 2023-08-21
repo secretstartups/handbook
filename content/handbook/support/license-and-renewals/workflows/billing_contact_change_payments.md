@@ -52,8 +52,8 @@ NOTE: The `Sold to` contact in Zuora usually receives the license, renewal remin
 
 #### Requests From Billing Team for Support to Verify and Update Sold To Details
 
-The Billing Team will generally handle changes to the `Bill To` contact information, but occasionally may need to rely on our team to vet changes to `Sold To`.  In such events, they will pass a ticket over to the Support team, in which case you can review and act on the request pursuant to the steps outlined in the [Ownership Verification workflow](customersdot/associating_purchases.html#other-notable-workflows-involving-customersdot), and the steps to [update Sold To
-details](customersdot/associating_purchases.html#update-zuora-sold-to-contact-using-customersdot).
+The Billing Team will generally handle changes to the `Bill To` contact information, but occasionally may need to rely on our team to vet changes to `Sold To`.  In such events, they will pass a ticket over to the Support team, in which case you can review and act on the request pursuant to the steps outlined in the [Ownership Verification workflow]({{< ref "associating_purchases#other-notable-workflows-involving-customersdot" >}}), and the steps to [update Sold To
+details]({{< ref "associating_purchases#update-zuora-sold-to-contact-using-customersdot" >}}).
 
 - Refer to their internal [wiki page here](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-BTST-Information-Updates-and-Invoice-Request#update-request-for-st-email) for additional details.
 
