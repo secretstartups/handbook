@@ -81,8 +81,6 @@ as well as some level of understanding of Ruby and Ruby on Rails.
 - Senior
 - Staff
 
-Read more about [levels](https://about.gitlab.com/handbook/hiring/vacancies/#definitions) at GitLab here.
-
 ## Job Grade
 
 The Associate Fullstack Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).

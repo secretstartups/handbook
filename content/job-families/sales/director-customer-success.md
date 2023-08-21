@@ -94,7 +94,7 @@ ans that enhance and integrate into GitLab's Go-To-Market strategies and plans, 
 ## Performance Indicators
 
 - net ARR (i.e., retention and expansion)
-- [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/csm/customer-segments-and-metrics/)
+- [CSM-related metrics](https://about.gitlab.com/handbook/customer-success/csm/)
 - Some of [sales metrics](https://internal-handbook.gitlab.io/handbook/company/performance-indicators/sales/#kpi-summary) associated with the Solution Architect responsibilities (e.g., channel, new logos).
 
 ## Career Ladder

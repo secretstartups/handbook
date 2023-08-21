@@ -161,7 +161,7 @@ The Senior Alliance Business Development Manager is a [grade 8](https://about.gi
 
 ## Director Alliance Business Development
 
-The Director Alliance Business Development reports to the [VP, Alliances](/job-families/alliances/alliances-job-family-matrix/#vp-alliances) and oversees ABDMs globally.
+The Director Alliance Business Development reports to the VP, Alliances and oversees ABDMs globally.
 
 ### Director Alliance Business Development Job Grade
 
@@ -200,7 +200,7 @@ The Director Alliance Business Development is a [grade 10](https://about.gitlab.
 
 ## Senior Director Alliance Business Development
 
-The Senior Director Alliance Business Development reports to the [VP, Alliances](/job-families/alliances/alliances-job-family-matrix/#vp-alliances) and oversees ABDMs globally.
+The Senior Director Alliance Business Development reports to the VP, Alliances and oversees ABDMs globally.
 
 ### Senior Director Alliance Business Development Job Grade
 

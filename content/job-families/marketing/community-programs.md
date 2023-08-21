@@ -92,7 +92,7 @@ The Community Associate Manager is a [grade 5](https://about.gitlab.com/handbook
 
 ### Responsibilities
 
-- Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), [GitLab for Startups](/solutions/startups/), and GitLab for [Non-Profits programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#--gitlab-for-non-profits) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
+- Support the [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/), [GitLab for Startups](https://about.gitlab.com/solutions/startups/), and GitLab for [Non-Profits programs](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/education-program/#--gitlab-for-non-profits) (as well as any new programs that are created), as well as associated workflows. This includes responding to all in-bound requests from program members.
 - Actively participate in the implementation of, and then lead the maintenance of the Automated Community Programs workflows. This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Product, Fulfillment, Legal, Sales Operations, and Customer Support.
 - Standardize communications for Community Programs. As we evolve our Community Programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.
 - Improve efficiency of tools. Make sure we are using all of our current tools in the best way possible. Become the team's expert in using each tool and suggest improved ways to use them to help with program goals.
@@ -334,7 +334,7 @@ Team members specializing in Education will focus community building efforts wit
 
 ### GitLab for Open Source
 
-The [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/developer-relations/open-source/) teams mission is to help make GitLab the best place for open source projects to grow and thrive.
+The [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/) teams mission is to help make GitLab the best place for open source projects to grow and thrive.
 
 Team members specializing in Open Source will focus community building efforts on by identifying and cultivating strategic relationships with current and potential partners in the context of leading Open Source projects and organizations. This includes enabling large open source projects to move to GitLab setting expectations, proving support, training, advice and help them manage the migration process.
 

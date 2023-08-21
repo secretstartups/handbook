@@ -32,7 +32,7 @@ The Diversity, Inclusion and Belonging Specialist reports to the [DIB Partner](#
 
 #### Diversity, Inclusion, and Belonging Specialist Job Grade
 
-The Diversity, Inclusion and Belonging Specialist is a [grade 6](https://about.gitlab.com//handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Diversity, Inclusion and Belonging Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Diversity, Inclusion, and Belonging Specialist Responsibilities
 

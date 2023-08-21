@@ -491,7 +491,7 @@ The Director, Internal Audit is a [grade 10](https://about.gitlab.com/handbook/t
 
 #### Career Ladder
 
-The next step in the Internal Audit job family is to move to the [PAO](/job-families/finance/pao-jf/) job family.
+The next step in the Internal Audit job family is to move to the PAO job family.
 
 #### Hiring Process
 

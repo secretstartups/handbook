@@ -112,6 +112,6 @@ The Senior Director, Technical Accounting is a [grade 11](https://about.gitlab.c
 
 ## Career Ladder
 
-The next step in the Technical Accounting Management job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family.
+The next step in the Technical Accounting Management job family is to move to the Principal Accounting Officer job family.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).

@@ -45,7 +45,7 @@ The Associate level in the Engineering Division is a [grade 5](https://about.git
 
 ### Machine Learning Engineer Intermediate
 
-The Intermediate level in the Engineering Division is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate level in the Engineering Division is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -80,7 +80,7 @@ The Intermediate level in the Engineering Division is a [grade 6](/handbook/tota
 
 ### Senior Machine Learning Engineer
 
-The Senior level in the Engineering Division is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior level in the Engineering Division is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Responsibilities
 
@@ -106,7 +106,7 @@ The following extend the main [requirements](#requirements) for this role.
 
 ### Staff Machine Learning Engineer
 
-The Staff level in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff level in the Engineering Division is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Responsibilities
 
@@ -137,7 +137,7 @@ The following extend the main [requirements](#requirements) for this role.
 
 ## Engineering Manager Machine Learning
 
-The Engineering Manager in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Manager in the Engineering Division is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Engineering Manager Machine Learning Responsibilites
 
@@ -184,7 +184,7 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 For Individual Contributors:
 
@@ -207,4 +207,4 @@ For Managers:
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).

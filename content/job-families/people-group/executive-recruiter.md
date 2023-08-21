@@ -59,4 +59,4 @@ As always, the interviews and screening call will be conducted via a [video call
 
 ## Career Ladder
 
-The next step in the Executive Recruiting job family is to move to a management role in the [Recruiting](/job-families/people-group/recruiter) job family.
+The next step in the Executive Recruiting job family is to move to a management role in the [Recruiting](/job-families/people-group/talent-acquisition) job family.

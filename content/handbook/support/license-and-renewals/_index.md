@@ -325,7 +325,7 @@ The queue should not be used for the following:
 - [CustomersDot Admin Docs](https://about.gitlab.com/handbook/product/fulfillment-guide)
 - [Business Ops](https://about.gitlab.com/handbook/business-technology/)
   - [Business Systems: Enterprise Applications, Integrations, and Flow](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
-  - [Troubleshooting: True Ups, Licenses + EULAs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting//)
+  - [Troubleshooting: True Ups, Licenses + EULAs](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/)
 - [Sales](https://about.gitlab.com/handbook/sales/)
   - [Sales Segmentation](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/)
   - [Sales Territories](https://about.gitlab.com/handbook/sales/territories/)

@@ -304,7 +304,7 @@ The Vice President, Revenue, is a [job grade 12](https://about.gitlab.com/handbo
 
 ## Career Ladder
 
-The next step in the Revenue Accounting job family is to move to the [Principal Accounting Officer](/job-families/finance/pao-jf/) job family.
+The next step in the Revenue Accounting job family is to move to the Principal Accounting Officer job family.
 
 ## Hiring Process
 

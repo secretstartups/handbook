@@ -113,9 +113,9 @@ Ticket status can be updated in the following ways:
 
 **Here are some basic resources for pitching Gitlab and our different product offerings:**
 
-- [GitLab product messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/messaging/)
-- [GitLab product tiers](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview)
-- [Tier Messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#tier-messaging)
+- [GitLab product messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
+- [GitLab product tiers](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
+- [Tier Messaging](https://about.gitlab.com/handbook/marketing/strategic-marketing/)
 - [Product Feature Comparison](https://about.gitlab.com/pricing/feature-comparison/)
 - [Product Pricing](https://about.gitlab.com/pricing/)
 - [DevOps Tools Landscape](https://about.gitlab.com/competition/)
