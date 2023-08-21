@@ -103,7 +103,7 @@ If you have any questions on this process, please contact `@aoetama` in the [#ma
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
 
 
-### :books:  Issues - Content Owner to Create
+### :books: Issues - Content Owner to Create
 
 [Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
@@ -232,7 +232,7 @@ Adjust list as applicable for each report activation:
 * [ ] 2023-xx-xx add to **paid digital** `@DRI`
 
 
-### :books:  Issues to Create & Tasks to complete
+### :books: Issues to Create & Tasks to complete
 
 Adjust list as applicable for each report activation. [Use the workback timeline calculator to assign correct due dates based off of launch date](https://docs.google.com/spreadsheets/d/1RvYLEUJvh9QZJZX1uXiKJPcOOSGd7dEeNneqyA2bt3A/edit#gid=969067029)
 
