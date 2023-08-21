@@ -54,25 +54,12 @@ Our Open Enrollment dates for the 2024 Calendar Year will be announced later thi
 Please take note of the updated premium rates for the Cigna and Kaiser plans listed in the [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing). 
 
 
-## 2022 Plan Year
 
-For the 2022 Plan year GitLab covered **100% of team member contributions and 66% for spouse, dependents, and/or domestic partner** of premiums for medical, dental, and vision coverage. Plan rates were locked through December 31, 2022. 
-
-* For your reference, please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefits and a the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2022 Annual Rights and Notices](https://drive.google.com/file/d/1Um-mVPUiub7HPLBf6wtkRoY1tMleDuQq/view?usp=sharing).
-
-* GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
-
-* [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
-
-**Illinois Team Members:** In accordance to the Illinois Consumer Coverage Disclosure Act, please find the [2022 Coverage Summary](https://drive.google.com/file/d/1TpmjxTN15sauveW5VqN3D18gP1YwoOgi/view?usp=sharing) for the essential health benefits available to you. 
-
-See the 2022 [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for reference. 
-
-
-**2021 Plan Year** 
+**2021 & 2022 Plan Year** 
 
 Team Members can find information on the **2021 Calendar Year** benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/fd1efce5ea06c2a26dddeec9dea3f3c217adeeab/sites/handbook/source/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/index.html.md) 
 
+Team Members can find information on the **2022 Calendar Year** benefit plans, details, and open enrollment [archived here.](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/09e5a7b8e3be9a969199786fcee6cff72b40ad1f)
 
  
 ## Who To Contact
@@ -166,7 +153,7 @@ GitLab has confirmed that our medical plans are CREDITABLE. Please see the attac
  
 ### Cigna Medical Plans
 
-#### Cigna 2022 & 2023 Calendar Year Plans
+#### Cigna 2023 Calendar Year Plans
  
 **Coverages:**
  
@@ -175,7 +162,7 @@ Cigna plans are available to team members located in all US states, with the exc
  
 In Network:
  
-| Plan Details               | [2022 Cigna HDHP- HSA](https://drive.google.com/file/d/13TITeW4_KkSM8aQcWL4ya42OtkYY9wRD/view?usp=sharing) <br> [2023 Cigna HDHP - HSA](https://drive.google.com/file/d/1QkInnwGyMOZyaPLrktnBPCp9h14_Q8sg/view?usp=sharing) |  [2022 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1HgXi45ik3YwzghWvJZhDatOyAtCiUa-_/view?usp=sharing)\*\* <br> [2023 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1N96ON4VS_0Tfq0JAIui7WYBJosV5WiG9/view?usp=sharing)\*\* | [2022 Cigna PPO 500](https://drive.google.com/file/d/1uLa9P6kSkLQ8decI7NMfSf1fzNIXsU7N/view?usp=sharing)\*\*\*  <br> [2023 Cigna PPO 500](https://drive.google.com/file/d/18A2fDCNEUBdXOhd7kIGWRy1w_1ljIlIS/view?usp=sharing)\*\*\* |
+| Plan Details               | [2023 Cigna HDHP - HSA](https://drive.google.com/file/d/1QkInnwGyMOZyaPLrktnBPCp9h14_Q8sg/view?usp=sharing) | [2023 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1N96ON4VS_0Tfq0JAIui7WYBJosV5WiG9/view?usp=sharing)\*\* | [2023 Cigna PPO 500](https://drive.google.com/file/d/18A2fDCNEUBdXOhd7kIGWRy1w_1ljIlIS/view?usp=sharing)\*\*\* |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800 (3,000 for 2023)     | $0 / $0            | $500 / $1,000     |
 | Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -190,7 +177,7 @@ In Network:
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
 | HSA Annual Employer Contribution      | $1200       | N/A                | N/A               |
 | Rx Plan^                   | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) |
-| Summary Plan Descriptions  | [2022 HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing) <br> [2023 HDHP](https://drive.google.com/file/d/1eBWTivdV3WyWr3Ie3spIV2uGWdGySe7t/view?usp=sharing) | [2022 EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing)  <BR> [2023 EPO](https://drive.google.com/file/d/1xpW3mWOaKiqnLO4DZqnqcV-LZEGdpIeY/view?usp=sharing)    | [2022 PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing) <BR>  [2023 PPO](https://drive.google.com/file/d/1gW9evvoVy-JEIiVL05q22dQt1pE_auCw/view?usp=sharing) <BR> [2023 PPO UTAH](https://drive.google.com/file/d/1TxTQuBRSLWa-gwrc2flIiJdzJPKBLj_g/view?usp=sharing)      |
+| Summary Plan Descriptions  | [2023 HDHP](https://drive.google.com/file/d/1eBWTivdV3WyWr3Ie3spIV2uGWdGySe7t/view?usp=sharing) | [2023 EPO](https://drive.google.com/file/d/1xpW3mWOaKiqnLO4DZqnqcV-LZEGdpIeY/view?usp=sharing)    | [2023 PPO](https://drive.google.com/file/d/1gW9evvoVy-JEIiVL05q22dQt1pE_auCw/view?usp=sharing) <BR> [2023 PPO UTAH](https://drive.google.com/file/d/1TxTQuBRSLWa-gwrc2flIiJdzJPKBLj_g/view?usp=sharing)      |
 
 
 ** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.
@@ -204,15 +191,6 @@ Accredo is Cigna's specialty pharmacy. For more information on managing your spe
 
 **Team Member Costs:**
  
-
-##### _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HDHP-HSA | EPO  | PPO  |
-|--------------------------|:---:|:----:|:----:|
-| Team Member Only         | $0  | $0   | $0   |
-| Team Member + Spouse     | $0  | $248 | $242 |
-| Team Member + Child(ren) | $0  | $188 | $184 |             
-| Family                   | $0  | $426 | $416 |
 
 ##### _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
@@ -276,7 +254,7 @@ Benefits for services and supplies received outside the Service Area are covered
 
 ### Kaiser Medical Plans
  
-#### Kaiser 2022 & 2023 Calendar Year Plans
+#### Kaiser 2023 Calendar Year Plans
 
 The following Kaiser options are availble for Hawaii residents.
 Residents in California and Colorado have the Kaiser options below, in addition to the Cigna plan options. 
@@ -284,43 +262,33 @@ Residents in California and Colorado have the Kaiser options below, in addition 
 
 **Coverages:**
 
- The Kaiser 2022 & 2023 Coverage details can be found below.
+ The Kaiser 2023 Coverage details can be found below.
 
- The Kaiser CO plan is closed to new enrollees with effective dates 1/1/2023 and beyond. Team members currently enrolled in the plan in 2022 may remain on the plan. 
 
  
-| Plan Details               | [2022 HMO NorCal](https://drive.google.com/file/d/1br0BSmgAaiHF08in77Bjezk0vQvDzg3k/view?usp=sharing) <br> [2023 HMO Norcal](https://drive.google.com/file/d/1IiqTRhloWsANkg42fmry6Ch9lXBVciMw/view?usp=sharing)   | [2022 HMO 20 SoCal](https://drive.google.com/file/d/1VF3sWuFdIhpR6ScnBuqUl6R_OGvH7d1e/view?usp=sharing) <br> [2023 HMO 20 SoCal](https://drive.google.com/file/d/1jZ6dvgCrqdVMSS3I1PxfGagpUXdIngge/view?usp=sharing) |  [2022 HMO 20 CO](https://drive.google.com/file/d/1BosRYdWVsrdpLpaGP--ci79zmTbFPOto/view?usp=sharing) <br> [2023 HMO CO](https://drive.google.com/file/d/11fsZfiYwgIkLVEtwLvL7-mn0sw63zb_5/view?usp=sharing) | [2022 HMO 20 HI](https://drive.google.com/file/d/1hhOOBbgEI3HLmM5fzXi-MrpNl9hotr8V/view?usp=sharing) <br> [2023 HMO 20 HI](https://drive.google.com/file/d/1ewKOYHgP-NDoyfDl4yefS49Tzd0Z_t9L/view?usp=sharing)  |
-|----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
-| Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
-| Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
-| PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
-| Emergency Room             | $100                 | $100            | $250            | $100            |
-| Urgent Care                | $20                  | $20             | $50             | $15             |
-| Hospital Inpatient         | $250/admit           | $250/admit      | $300/admit      | 10%             |
-| Hospital Outpatient        | $35/procedure        | $35/procedure   | $100/procedure  | 10%             |
-| **Rx - Deductible**        |                      |                 |                 |                 |
-| Generic                    | $10                  | $10             | $10             | See SBC (tier 1), $3 (tier 1a), $15 (tier 1b)             |
-| Brand - Preferred          | $35                  | $35             | $30             | $50             |
-| Brand - Non-Preferred      | $35                  | $35             | $50             | $50             |
-| Specialty Drugs            | 20% up to $150       | 20% up to $150  | 20% up to $250  | $200            |
-| Disclosures          | [2023 HMO Norcal](https://drive.google.com/file/d/1eHbGgFJW0mI1GxaZTQRJmrdqKg5Av8Ff/view?usp=sharing)    | [2023 HMO 20 SoCal](https://drive.google.com/file/d/1ryB9zwFrs6e7r0ZpvEiSM30y0nCOWvsh/view?usp=sharing) | [2023 HMO 20 CO](https://drive.google.com/file/d/1euEYQFuSEeW4cQ79mQNZenJ5YaBUzYtu/view?usp=sharing)        | [2023 HMO HI](https://drive.google.com/file/d/1pK_9qQc1EvR4tuPeVjKqcucq-nCKXdUK/view?usp=sharing)   | 
+| Plan Details               | [2023 HMO Norcal](https://drive.google.com/file/d/1IiqTRhloWsANkg42fmry6Ch9lXBVciMw/view?usp=sharing)   | [2023 HMO 20 SoCal](https://drive.google.com/file/d/1jZ6dvgCrqdVMSS3I1PxfGagpUXdIngge/view?usp=sharing) |  [2023 HMO 20 HI](https://drive.google.com/file/d/1ewKOYHgP-NDoyfDl4yefS49Tzd0Z_t9L/view?usp=sharing)  |
+|----------------------------|:--------------------:|:---------------:|:---------------:|
+| Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         |
+| Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $2,500 / $7,500 |
+| PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $15 / $15       |
+| Emergency Room             | $100                 | $100            | $100            |
+| Urgent Care                | $20                  | $20             | $15             |
+| Hospital Inpatient         | $250/admit           | $250/admit      | 10%             |
+| Hospital Outpatient        | $35/procedure        | $35/procedure   | 10%             |
+| **Rx - Deductible**        |                      |                 |                 |
+| Generic                    | $10                  | $10             | See SBC (tier 1), $3 (tier 1a), $15 (tier 1b)             |
+| Brand - Preferred          | $35                  | $35             | $50             |
+| Brand - Non-Preferred      | $35                  | $35             | $50             |
+| Specialty Drugs            | 20% up to $150       | 20% up to $150  | $200            |
+| Disclosures          | [2023 HMO Norcal](https://drive.google.com/file/d/1eHbGgFJW0mI1GxaZTQRJmrdqKg5Av8Ff/view?usp=sharing)    | [2023 HMO 20 SoCal](https://drive.google.com/file/d/1ryB9zwFrs6e7r0ZpvEiSM30y0nCOWvsh/view?usp=sharing) | [2023 HMO HI](https://drive.google.com/file/d/1pK_9qQc1EvR4tuPeVjKqcucq-nCKXdUK/view?usp=sharing)   | 
  
-Please see the [2022 Kaiser Colorado Enrollment Guide](https://drive.google.com/file/d/1oOqIMImcUShku7gKKd3IKkyMv2z7wRto/view?usp=sharing) for more information on the Kaiser Colorado plan. 
+
 
 Please see the [Disclosure Part 2 form for the Kaiser CA Plans](https://drive.google.com/file/d/1Ry5uVrGWp42P7z8dso4zd0lg7JGC-BTV/view?usp=sharing)
 
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
-
-##### _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
- 
-| Tier                     | HMO CA North | HMO CA South | HMO CO | HMO HI |
-|--------------------------|:------------:|:------------:|:------:|:------:|
-| Team Member Only         | $0           | $0           | $0     | $0     |
-| Team Member + Spouse     | $244         | $244         | $340   | $178   |
-| Team Member + Child(ren) | $194         | $194         | $284   | $144   |        
-| Family                   | $378         | $378         | $566   | $356   |
 
 ##### _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
@@ -384,12 +352,12 @@ Dental does not come with individualized insurance cards from Cigna, although yo
  
 When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanooga, TN, 37422 or fax it to 859-550-2662.
  
-#### Dental 2022 & 2023 Calendar Year Plan
+#### Dental 2023 Calendar Year Plan
  
 **Coverages:**
 
  
-| Plan Details                         | [DDPO 2022](https://drive.google.com/file/d/10lDPQ-EfmHpE_danm3cwMEb7KA9njlts/view?usp=sharing) <br> [DDPO 2023](https://drive.google.com/file/d/12Y1VcaEzU3mvIMvvJu4wZBlUxIx3lC10/view?usp=sharing) | 
+| Plan Details                         | [DDPO 2023](https://drive.google.com/file/d/12Y1VcaEzU3mvIMvvJu4wZBlUxIx3lC10/view?usp=sharing) | 
 |--------------------------------------|:----------:|
 | Deductible (Single/Family)                          | $50 / $150 |
 | Maximum Benefit                      | $2,000     |
@@ -404,15 +372,6 @@ When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanoo
 **Team Member Costs:**
  
 The following costs are monthly rates which would be deducted from your paycheck.
-
- ##### _2022 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
-
-| Tier                     | DPPO |
-|--------------------------|:----:|
-| Team Member Only         | $0   |
-| Team Member + Spouse     | $14  |
-| Team Member + Child(ren) | $20  |
-| Family                   | $36  |
 
 ##### _2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
 
@@ -442,13 +401,13 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
 1. Expand the "Customer Reimbursement Form" section.
 1. Click "Continue" to be taken to the online claim form. Make sure you attach an itemized receipt when prompted.
  
-#### Vision 2022 Calendar Year Plan
+#### Vision 2023 Calendar Year Plan
  
 **Coverages:**
 
 
  
-| Plan Details                      | [Vision 2022](https://drive.google.com/file/d/1VmjN9hLqVk7AqaHdWVUqK155U7yO-mBV/view?usp=sharing) <br> [Vision 2023](https://drive.google.com/file/d/1mgxotPpH-ODgu3bFWUMp-0Z6mK7dprVt/view?usp=sharing)  | 
+| Plan Details                      | [Vision 2023](https://drive.google.com/file/d/1mgxotPpH-ODgu3bFWUMp-0Z6mK7dprVt/view?usp=sharing)  | 
 |-----------------------------------|:------------:|
 | Frequency of Services             | 12 months   |
 | Copay Exam                        | $20          | 
@@ -464,7 +423,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
  
 The following costs are monthly rates which would be deducted from your paycheck.
 
-##### _2022 & 2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
+##### 2023 Rates_: The following costs are monthly rates which would be deducted from your paycheck.
  
 | Tier                     | Vision |
 |--------------------------|:------:|
@@ -616,7 +575,7 @@ Due to the Consolidated Appropriations Act, the IRS is allowing for unlimited ca
  
 GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPek1Ia0ZqYjhuT25zYjdYTUpiS1NFSXFXc0Vn/view?usp=sharing) which are administered through WEX (Discovery Benefits).  
 
-In 2022 the contribution limits are $280/month for parking and $280 per month of transit. In 2023 the contribution limits are $300/month for parking and $300 per month of transit. These contributions rollover month to month. 
+In 2023 the contribution limits are $300/month for parking and $300 per month of transit. These contributions rollover month to month. 
 
 ##### Commuter Benefits Period to Submit Claims
  
@@ -707,41 +666,6 @@ Information regarding GitLab's Parental Leave policy and how to apply, can be fo
  
 To learn more about State-specific leave laws, please visit the [Leave of Absence - US](/handbook/people-policies/leave-of-absence/us/) handbook page.
 
-#### 2022 
-**Medical**
- 
- 2022
-
-| Tier                           | Cigna EPO   | Cigna HDPHP HSA  |  Cigna PPO   | Kaiser HMO NorCal | Kaiser HMO SoCal | Kaiser HMO CO | Kaiser HMO HI |
-|--------------------------------|:---------:|:-------------:|:----------:|:-----------------:|:----------------:|:--------------:|:------------:|
-| Team Member Only               | $617.15   |   $461.04     | $602.85   |     $545.89       |     $545.89      |    $829.45     |   $523.05    |
-| Team Member + Domestic Partner | $1,345.49 |   $1,003.65   | $1.314.21  |     $1,260.63     |     $1,260.63    |    $1,824.79   |   $1,046.11    |
-| Team Member + Spouse           | $1,345.49   |   $1,003.65   | $1,314.21  |     $1,260.63     |     $1,260.63   |    $1,824.79   |   $1,046.11    |           
-| Team Member + Child(ren)       | $1,167.99   |   $871.43     | $1,134.03    |     $1,113.62     |     $1,113.62   |    $1,658.90   |   $941.50    |
-| Family                         | $1,865.77 |   $1,391.22   | $1,822.35  |     $1,653.67     |     $1,653.67    |    $2,488.36   |   $1,569.16  |
-
-
-**Dental**
-
-2022
-
-| Tier                           | Cigna DPPO |
-|--------------------------------|:----------:|
-| Team Member Only               |   $41.13   |
-| Team Member + Domestic Partner |   $81.74   |
-| Team Member + Spouse           |   $81.74   |
-| Team Member + Child(ren)       |   $94.55   |
-| Family                         |   $145.05  |
- 
-**Vision**
- 
-| Tier                           | Cigna VPPO |
-|--------------------------------|:----------:|
-| Team Member Only               |   $7.66    |
-| Team Member + Domestic Partner |   $15.35   |
-| Team Member + Spouse           |   $15.35   |         
-| Team Member + Child(ren)       |   $12.99   |
-| Family                         |   $21.43   |
 
 #### 2023
 
