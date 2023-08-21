@@ -1046,7 +1046,7 @@ ON24 will automatically convert the video to on-demand in the ON24 platform. The
 1. **Vimeo**: Upload the recording to Vimeo
    * Fill in the title with the webcast title matching the Marketo token (`{{my.webcastTitle}}`)
    * Fill in the description with the short description matching the Marketo tokens (`{{my.contentDescription}}`)
-1. **Vimeo**: Once the recording has been uploaded, copy the video embed link in Vimeo
+1. **Vimeo**: Once the recording has been uploaded, copy the video embed link in Vimeo. Instructions on adjusting the privacy settings of your video to embed in specific domains like Pathfactory can be found [here](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/content-library/#vimeo-links)
 1. **Pathfactory**: Login to PathFactory and add the copied Vimeo link to Pathfactory as new content by following the instructions outlined [here](https://support.pathfactory.com/kb/add-content/).
 1. **Marketo**: Navigate to the webcast program and update the following My Tokens
    * Update the `formButtonCopy` token to be `Watch now`
