@@ -31,7 +31,7 @@ The GitLab Security Teams are available 24/7/365 and are ready to assist with qu
 There are some common scenarios faced by GitLab team members:
 
  * [CEO & Executive Fraud](#ceo--executive-fraud)
- * [Phishing](#what-to-do-if-you-suspect-an-email-is-a-phishing-attack)
+ * [Phishing](/handbook/security/security-assurance/governance/phishing.html#what-to-do-if-you-suspect-an-email-is-a-phishing-attack)
 
 To contact for any other reason, see [Contacting the Team](/handbook/security/#-contacting-the-team) or [Engaging the Security On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
 
@@ -42,7 +42,7 @@ The CEO (and Executive team) will not send you an [email to wire cash](http://bl
 What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
 
 1.  If you are unsure whether the text or email is legitimate, contact [Security](/handbook/security/) to review, and confirm via the #ceo Slack channel.
-1.  If the email is determined to be fake, follow the instructions for [phishing attacks](/handbook/security/#what-to-do-if-you-suspect-an-email-is-a-phishing-attack) below.
+1.  If the email is determined to be fake, follow the instructions for [phishing attacks](/handbook/security/security-assurance/governance/phishing.html#what-to-do-if-you-suspect-an-email-is-a-phishing-attack) below.
 1.  If the text is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
   - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
 
@@ -249,7 +249,7 @@ You can then choose to use this new service account via the option under **Advan
 6. Do not sign in to any GitLab related account using public computers, such as
   library or hotel kiosks.
 
-[How to identify a basic phishing attack]: #how-to-identify-a-basic-phishing-attack
+[How to identify a basic phishing attack]: /handbook/security/security-assurance/governance/phishing.html#how-to-identify-a-basic-phishing-attack
 
 [0-day attack]: https://en.wikipedia.org/wiki/Zero-day_(computing)
 [email to wire cash]: http://blog.centrify.com/ceo-fraud-business-email-compromise/
@@ -267,127 +267,6 @@ You can then choose to use this new service account via the option under **Advan
 ### GitLab Password Guidelines
 
 Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. Follow [GitLab's password guidelines](/handbook/security/password-guidelines.html) when constructing secure passwords and ensuring proper password management to keep GitLab secure. To learn what makes a password truly secure, read this [article](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277) or watch this [conference presentation](https://www.youtube.com/watch?v=vudZnjp5Uq0&t=19183) on password strength.
-
-### GitLab Security Awareness Training
-
-GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and [annual training](https://about.gitlab.com/handbook/security/security-training/) there after.
-
-New Hire security training will be automatically assigned to you on day 1 of orientation as soon as you access the [ProofPoint](https://gitlab.ws01-securityeducation.com/) tile via Okta. Training is required to be completed within your first 30 days.
-
-The purpose of the [annual training](/handbook/security/security-assurance/governance/sec-awareness-training.html) is to mature our internal posture through regular training while satisfying external regulatory requirements. The training is meant to be fun, engaging and not time-consuming.
-
-* Review [Security Practices](/handbook/security/#security-process-and-procedures-for-team-members) for a list of security process and procedures that you can consult at any time.
-
-#### Phishing Simulations
-
-GitLab conducts routine [phishing simulations](/handbook/security/security-assurance/governance/phishing.html) at a minimum of once per quarter. All
-team members may occasionally receive emails that are designed to look like
-legitimate business-related communications but will in actuality be simulated
-phishing attacks. Real phishing attacks are designed to steal credentials or
-trick the recipient into downloading or executing dangerous attachments. No
-actual attempts will be made by GitLab to steal credentials or execute malicious code.
-
-The goal of these campaigns is not to catch people clicking on dangerous links
-or punish those who do, but rather to get people thinking about security and the
-techniques used by attackers via email to trick you into running malicious
-software or disclosing web passwords. If you fall victim to one of these
-simulated attacks feel free to take the training courses again or to ask the
-security team for more information on what could've been done to recognize the
-attack. What you shouldn't do is feel any shame for having clicked on the link
-or entered any data, nor should you feel like you need to _cop_ to the security
-team and let them know you made a mistake. Making a mistake online is
-practically the reason the Internet was invented.
-
-#### How to identify a basic phishing attack
-
-When you receive an email with a link, hover your mouse over the link or view
-the source of the email to determine the link's true destination.
-
-If you hover your mouse cursor over a link in Google Chrome it will show you
-the link destination in the status bar at the bottom left corner of your browser
-window.
-
-![Hover Example](/images/phishing/hover-status-bar-example-chrome.png)
-
-In Safari the status bar must be enabled to view the true link destination
-(View -> Show Status Bar).
-
-Some examples or methods used to trick users into entering sensitive data into
-phishing forms include:
-
-* Using HTTP(S) with a hostname that begins with the name of a trusted
-site but ends with a malicious site.
-
-![Malicious Domain](/images/phishing/malicious-domain.png)
-
-* Using a username or password inside the request that corresponds to the name
-of a trusted domain and assuming the viewer won't view the whole URL.
-
-![Trick Username](/images/phishing/username-password.png)
-
-* Using a data URI scheme instead of HTTP(S) is a particularly devious means of
-tricking users. Data schemes allow the embedding of an entire web page inside
-the URI itself. Data schemes will not show the typical green lock in the address
-bar of a browser that is customarily associated with a verified SSL connection.
-
-![Data Scheme](/images/phishing/data-scheme.png)
-
-When viewing the source of an HTML email it is important to remember that the
-text inside the "HREF" field is the actual link destination/target and the text
-before the `</A>` tag is the text that will be displayed to the user.
-
-`<a href="http://evilsite.example.org">Google Login!</a>`
-
-In this case, "Google Login!" will be displayed to the user but the
-actual target of the link is "evilsite.example.org".
-
-After clicking on a link always look for the green lock icon and "secure" label
-that signify a validated SSL service. This icon alone is not enough to verify the
-authenticity of a website, however the lack of the green icon does mean you
-should never enter sensitive data into that website.
-
-![Green Lock Example](/images/phishing/green-lock-example.png)
-
-#### What to do if you suspect an email is a phishing attack
-
-If you think an email is suspicious, it may be a phishing attempt targeted at you or GitLab, or it may be a security test. Please report the email to Security by using the ***PhishAlarm*** button in Gmail. It is located in the right hand sidebar of your Gmail workspace. If you don't see the button, the right hand sidebar may be collapsed and you'll need to click the arrows at the bottom right hand corner of the window to expand the sidebar.
-
-If you are on a mobile device and using the Gmail app, the PhishAlarm button is toward the bottom of your Gmail app, in the available add-ons section.
-
-If you are using another email client, you may not be able to submit the email using the PhishAlarm button. In this case, you may manually submit the phishing email by forwarding it to `phishing@gitlab.com`.
-
-**Note:** Forwarding phishing emails to `phishing@gitlab.com` requires additional steps by following the [manual submission instructions](#manual-submission-of-phishing-email-to-phishinggitlabcom) below.
-{: .note}
-
-If you use the `Report Phishing` button at the top right of the Gmail client, this will also require you to follow the [manual submission instructions](#manual-submission-of-phishing-email-to-phishinggitlabcom) below. This is because the `Report Phishing` button by Gmail does not provide our security team with the email itself, and only provides us with a notification.
-
-##### Submission of phishing email via PhishAlarm
-PhishAlarm is found on the right side panel in Gmail. You can hide or show this panel by clicking on the > or < symbol on the bottom right corner of your web browser window
-
-To submit an email via PhishAlarm to GitLab's Security Team using Gmail:
-
-  1. Select the PhishAlarm icon on the right-hand side toolbar in Gmail
-  2. Follow the instructions to report the Phish
-  3. Confirm you are ready to report the Phishing email
-  4. Receive a confirmation that the email has been forwarded to GitLab Security Team for further investigation.
-
-![PhishAlarm](/handbook/security/PhishAlarm-icon.png)
-
-##### Manual submission of phishing email to `phishing@gitlab.com`
-To forward the email as an attachment to GitLab's Security Team using Gmail:
-
-  1. From a computer (not a mobile device) right click the email
-  2. Select `Forward as attachment`
-  3. Send it to `phishing@gitlab.com`
-
-
-#### What to do if you suspect something else is suspicious
-
-Phishing and other social engineering attacks aren't only sent via email.
-You might receive a suspicious text / SMS message, a weird Direct Message on social
-media platforms like LinkedIn, or a phone call. If it's work related, please
-[use the `/security` Slack command](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#engage-the-security-engineer-on-call).
-Even if you're unsure or it feels insignificant, you can always ask in the #security Slack channel.
 
 ### Panic Email
 
@@ -847,14 +726,6 @@ handled by the Security Department.
 #### External Contact Information
 
 External researchers or other interested parties should refer to our [Responsible Disclosure Policy](/security/disclosure/) for more information about reporting vulnerabilities. Customers can [contact Support](https://about.gitlab.com/support/) or [the Field Security team](/handbook/security/security-assurance/field-security/answerbase.html#contact-the-field-security-team).
-
-#### Phishing
-
-If you suspect you've received a phishing email and have not engaged with the sender, please see: [What to do if you suspect an email is a phishing attack](/handbook/security/#what-to-do-if-you-suspect-an-email-is-a-phishing-attack).
-
-If you have engaged a phisher by replying to an email, clicking on a link, have sent and received text messages, or have purchased goods requested by the phisher, please [engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html#phishing).
-
-Further information on GitLab's security response program is described in our [Incident Response](./security-operations/sirt/sec-incident-response.html) guide.
 
 #### Ransomware
 

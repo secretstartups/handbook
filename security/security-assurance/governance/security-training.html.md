@@ -23,7 +23,7 @@ For more information on Security Assurance, visit the [Security Assurance](/hand
 
 ## Security Awareness Training
 
-GitLab team members are probably most familiar with [security awareness training](/handbook/security/security-assurance/governance/sec-awareness-training.html) which is a handbook first GitLab-customized training + annual policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](https://about.gitlab.com/handbook/security/security-assurance/governance/sec-training.html#gitLab-security-awareness-training) as part of the onboarding process and annual training there after.
+GitLab team members are probably most familiar with [security awareness training](/handbook/security/security-assurance/governance/sec-awareness-training.html) which is a handbook first GitLab-customized training + annual policy reviews provided via [ProofPoint](https://gitlab.ws01-securityeducation.com/). GitLab requires all new hires to complete [New Hire security orientation training](/handbook/security/security-assurance/governance/sec-awareness-training.html#when-will-security-awareness-training-occur) as part of the onboarding process and annual training there after.
 
 GitLab security awareness training has been developed by [GitLab Security](/handbook/security/)'s [Governance Program](/handbook/security/security-assurance/governance/). The goal of the training is to:
 
@@ -33,7 +33,7 @@ GitLab security awareness training has been developed by [GitLab Security](/hand
 1. Help all GitLab team-members internalize and reinforce the idea that reaching out to Security is an encouraging practice.
 
 * Special topics covered:
-  * [Suspected phishing](/handbook/security/#phishing-tests)
+  * [Suspected phishing](/handbook/security/security-assurance/governance/phishing.html#how-to-identify-a-basic-phishing-attack)
   * [Acceptable Use](/handbook/people-group/acceptable-use-policy/)
   * [Device Lost or Stolen?!](https://about.gitlab.com/handbook/security/#panic-email)
     * Slack: the `/security` Slack command
