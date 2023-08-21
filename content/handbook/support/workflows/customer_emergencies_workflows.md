@@ -306,21 +306,40 @@ To trigger a developer escalation, see [this process outline](/handbook/engineer
 
 ## License Emergencies
 
-### Self-managed Subscription Emergencies
+### During the week
 
-There may be times when a customer's subscription expires over the weekend, leaving their instance unusable until a new subscription is generated.
+For license emergencies during the week, reach out to [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) and ask for an expert there to handle the case. Ping the current [Support Manager On-call](/handbook/support/workflows/support_manager-on-call.html) in your request so they can ensure it gets picked up. Once pinged, the Support Manager On-call is the DRI for ensuring the emergency gets handled.
 
-For non-trial subscriptions, you can remind the customer that subscriptions have [a 14 days grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the expiration will not fall outside the grace period before the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should reduce the priority of the case and inform the L&R team of the issue.
+### On a weekend
 
-Otherwise, you will need to login to [CustomersDot Admin](https://customers.gitlab.com/admin) and generate a short term (7-14 days) **trial license** for them by following [this workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html).
-The idea is to get them through the weekend so they can solve this with their CSM, Sales Rep, and the L&R Support team during the regular workweek.
+#### Self-managed Subscription Emergencies
 
-### SaaS Subscription Emergencies
+There may be times when a customer's subscription expires **over the weekend**, leaving their instance unusable until a new subscription is generated.
 
-A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
+For non-trial subscriptions, you can remind the customer that subscriptions have [a 14-day grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the grace period will still be active on the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should close the emergency ticket and ask the customer to open a [new L&R ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) in case one doesn't exist yet.
 
-1. Use the mechanizer app from the ticket in the `Manage GitLab Plan and Trials` option and making sure to add the existing subscription name.
-1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
+Otherwise, use the `Mechanizer` app on the ticket to resolve the situation via the [`Emergency License Generation`](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#emergency-license-generation) option.
+
+#### SaaS Subscription Emergencies
+
+A customer may be blocked because of a license expiring or neglecting to apply a renewal. If this happens over the weekend:
+
+1. Look up the namespace details using [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html#namespace) or a GitLab.com Admin account via the namespaces API (https://gitlab.com/api/v4/namespaces/<NAMESPACE>)
+1. Check the `Trial ends on` date.
+    - If it has a date, you will not need to provide a `Subscription Name` in the next step. Proceed to step 3.
+    - If it is empty or null **and the namespace is on a Free plan**, guide the customer to navigate to the Settings -> Billing page and click on `Start a Free Ultimate trial`.
+1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#manage-gitlabcom-plan-and-trials) option to resolve the situation.
+    - Enter the namespace path.
+    - Select the Plan the customer had initially purchased, or use `Ultimate` if you do not have this information.
+    - Set the end date to 10 days later.
+    - Leave the `Approving sales manager's GitLab username` field empty.
+    - Leave the `Subscription name` empty.
+    - Click `Submit request`.
+1. Wait for the pipeline to complete and check the output of Mechanizer in the [Internal Requests issue tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) where Mechanizer will have automatically assigned you to a new issue.
+    - If it is successful, proceed to the next step.
+    - If there are any failures, please see [Problems extending trials](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#problems-extending-trials) for some troubleshooting steps.
+1. When the customer confirms, close the emergency ticket.
+1. Alert [`#support_licensing-subscription`](https://gitlab.slack.com/archives/C018C623KBJ) by linking to the ticket for follow-up.
 
 ## SaaS Emergencies
 
