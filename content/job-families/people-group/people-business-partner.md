@@ -182,34 +182,32 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 
 ### Responsibilities
 
-- Forms effective relationships with the client groups and consults with executive level management, providing People guidance when appropriate. Typically supports at least one C-level executive, as well as multiple VPs.
-- Mentors, coaches and provides feedback to managers at all levels; also mentors other People team members.
-- Constantly forecasting and predicting issues and takes measures to course correct before impact within own client group and in collaboration with other PBPs to do so across multiple divisions when appropriate
-- Identifies great talent, internally and externally, who will raise the bar on the team.
-- Analyzes trends and metrics in partnership with the People Operations and DIB groups to develop solutions, programs, and opportunities for growth.
-- Leads client group to maintain a high bar for performance by reviewing trends in management of underperformance. Based on insights from Team Member Relations, keeps senior leadership apprised of performance management trends and hot spots. May be more hands on with TMR for complex or senior level performance issues or investigations.
-- Maintains in-depth knowledge of legal requirements related to day-to-day management of team members, reducing legal risks and ensuring regulatory compliance. Partners with the legal department as needed.
-- Works closely with management and team members globally to improve work relationships, build morale, and increase productivity and retention.
-- Provides guidance and input on business unit restructures, workforce planning and succession planning to support the business strategy.
-- Identifies learning needs for business units and individual executive coaching needs. Participates in evaluation and monitoring of learning solutions to ensure success. Follows up to ensure learning and development objectives are met.
-- Lead iterations to company-wide Talent Programs based on feedback from aligned departments, PBP team, L&D, and other stakeholders.
-- Executes on company-wide Talent Programs within their lines of business, including Annual Talent Assessment and Compensation Reviews, ensuring alignment toward broader People priorities in execution.
-- Support e-group level talent discussions in partnership with CPO
+- Partners with senior leaders across GitLab to develop a talent strategy by Division including organizational design and effectiveness, talent management, team member engagement, and other key people initiatives. Typically supports e-group members and multiple VPs across one or more functions
+- Mentors, coaches and provides feedback to managers at all levels; also mentors other People team members
+- Proactively provides insights, counsel and recommendations to leadership on organizational design and effectiveness
+- Drives strategic People programs at scale partnering with other People Group CoE’s and across Divisional PBPs
+- Partners with executives to lead through change with impact - Partners  with e-group and senior leadership on matters critical to the success, engagement, and retention of our team members
+- May set the vision, build, and lead a team of highly collaborative and effective People Business Partners, if applicable
+- Takes on additional responsibilities as SME on company wide programs and initiatives when needed
+- Partners with other People Group leaders to contribute to and influence our talent strategy and People programs to meet the needs of our team members through a demonstrated understanding of the business and deep knowledge of the organization they support
+- Leverages understanding of multiple Divisions needs and goals to make connections across the business to increase collaboration, efficiency and results across teams
+- Scope of influence may extend beyond immediately aligned client group at times
+- Is a role model and champion of GitLab values themselves, and challenges leaders to maintain commitment to our CREDIT values through our People practices as we scale.
+
 
 ### Requirements
 
-- Relevant, progressive HR experience, with at least 5 years as a business partner supporting Senior Executive and/or C-level leaders.
-- Strong attention to detail and ability to work well with fluid information.
-- Comfortable using technology, especially open source technology, Google Workspace and GitLab.
-- Effective and concise verbal and written communication skills with the ability to collaborate with cross-functional team members. At times, courage is required to respectfully speak up, “push back”, challenge “the way things have always been done” and even disagree with leaders and executives.
-- A team player who acts with a sense of urgency and adapts to a fast-paced and ever-changing environment.
+- Relevant, progressive HR experience, with at least 10 years as a business partner supporting Senior Executive and/or C-level leaders
+- Experience leading People Business Partner teams or other People teams
+- Demonstrated ability to use data to influence strategic business and talent decisions with company wide impact
+- Effective and concise verbal and written communication skills with the ability to influence even the most challenging stakeholders
 - Resourceful and takes initiative to seek internal and external resources when problem-solving.
-- Has successfully implemented HR programs, tools and trainings aligned to the business needs.
-- Experience working with Global Teams; remote experience strongly preferred.
-- Very strong EQ, with fine-tuned instincts and problem-solving skills. Consistently demonstrates sound, trusted judgement.
-- Strong drive and initiative with the ability to self-manage.
-- Successfully able to manage high volume, very fast-paced workload; not afraid to "roll up your sleeves" to complete more tactical work. Able to switch between strategic and tactical work daily.
+- Identifies opportunities and successfully implements Talent program development aligned to the business needs at scale
+- Experience working with and leading Global Teams; remote experience strongly preferred.
+- Very strong EQ, with fine-tuned instincts and problem-solving skills. Consistently demonstrates sound, trusted judgment
+- Able to switch between strategic and tactical work daily and make recommendations to improve tactical processes for scale
 - Bachelor's degree preferred; Master's degree and/or HR Certification strongly preferred.
+
 
 ## Senior Director, People Business Partner
 
