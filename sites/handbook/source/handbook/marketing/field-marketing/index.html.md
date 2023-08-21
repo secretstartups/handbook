@@ -940,11 +940,10 @@ In order for a GitLab Partner to reach Select status, the Select Partner must:
 | APAC - Japan | Shu Kawaguchi |  |
 | EMEA Southern Europe | Marcus Hall (Juliette Francon on Mat Leave) | Tristan Ouin |
 | EMEA MEA | Marcus Hall (Juliette Francon on Mat Leave) | Matthew Coughlan |
-| EMEA Northern Europe | Elena Sheveleva | Michal Kulakowski |
+| EMEA Northern Europe | Neha Pujari| Michal Kulakowski |
 | EMEA UK/I | Neha Pujari | Matthew Coughlan |
 | EMEA Central Europe | Sarina Kraft | Ilaria Pazienza |
 | EMEA CEE | Sarina Kraft | Ilaria Pazienza |
-| EMEA Russia | Elena Sheveleva | Matthew Coughlan |
 
 ## Field Marketing initiated and funded campaigns
 
