@@ -102,5 +102,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey |                                                              |
 | Digital Onboarding - Welcome Email                              | Manual           | Digital Journey |                                                              |
 | CSM Account Transitions                                         | Manual           | Digital Journey |                                                              |
+| Find an Executive Sponsor                                         | Manual           | Objective |                                                              |
+| Engage an Executive Sponsor                                         | Manual           | Objective |                                                              |
 
 CSMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/csm/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
