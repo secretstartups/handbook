@@ -16,7 +16,7 @@ View the [CSM Handbook homepage](/handbook/customer-success/csm/) for additional
 
 ## CSM Alignment
 
-For an overview of CSM segments by ARR, please see [this wiki page](https://gitlab.com/gitlab-com/customer-success/csm/-/wikis/Segments)(Internal GitLab only)
+For an overview of CSM segments by ARR, please see [internal handbook](https://internal.gitlab.com/handbook/customer-success/csm/#csm-segments)(Internal GitLab only)
 
 ## Pillars of Success
 There are 7 pillars that we have identified as crucial for success as CSMs. It is expected and normal for all CSMs to have higher proficiency in some areas and lower in others, especially when taking [job level](/company/team/structure/#layers) into consideration, but these are all areas we are continually striving to be better at, as there are always opportunities to learn and improve.
