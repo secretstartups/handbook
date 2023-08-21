@@ -16,6 +16,16 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY24
 
+### 2023-08-21 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/365))
+
+**[Tableau License Availability to CRO Org](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/23843)**
+
+**[SKUs for Statements of Work (SOWs)](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services)**
+
+**[Improvements to Bill To / Sold To Contact Management in CustomersDot](https://about.gitlab.com/handbook/product/fulfillment-guide/#billing-account-contacts)**
+
+**[New AE Notifications for Customer MQLs](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/8685)**
+
 ### 2023-08-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/362))
 
 **Renewal Ops: [Renewal Auto-Closure Update](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4060)**
