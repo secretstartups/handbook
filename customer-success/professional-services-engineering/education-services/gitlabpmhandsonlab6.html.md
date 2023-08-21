@@ -36,7 +36,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Set the **Title** to the following: `Draft: Add performance tools to database documentation`
 1. Remove `Closes <ISSUE NUMBER>` from the **Description** field. We want to keep the original issue open for additional work. Enter an optional description in its place.
 1. Verify that you are assigned to the merge request. Also note any labels inherited from the issue, and any approval rules inherited from project settings.
-1. Click **Save changes**.
+1. Click **Create Merge Request**.
 1. From the merge request details page, select **Code > Open in Web IDE** to edit files on the **update-db-docs-perf-tools** branch.
 1. Click **README.md** from the left file pane.
 1. Paste the following into **README.md**, beginning on line 3.
@@ -47,7 +47,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
    We are researching and testing additional tools to improve performance.
     ```
 
-1. Click **Commit...** in the bottom left corner of the page.
+1. Click **Create Commit...** in the bottom left corner of the page.
 1. In the **Commit message** field, enter `Update docs with performance tools`
 1. Ensure the **Commit to update-db-docs-perf-tools branch** radio button is selected.
 1. Click **Commit**.
