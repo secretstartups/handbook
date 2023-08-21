@@ -130,11 +130,11 @@ Going forward, every milestone, we will ask Product Designers and Engineers to v
 
 | Milestone          | Product Designer  | Engineer          |
 | ------------------ | ----------------- | ----------------- |
-| 16.3               |                   |                   |
 | 16.4               |                   |                   |
 | 16.5               |                   |                   |
 | 16.6               |                   |                   |
 | 16.7               |                   |                   |
+| 16.8               | Veethika M         |   Mireya Andres   |
 
 <details>
 <summary>
