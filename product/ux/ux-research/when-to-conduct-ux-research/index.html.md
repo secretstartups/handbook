@@ -38,7 +38,7 @@ These two phases map to [GitLab’s product development flow, specifically the V
 
 Usually this phase starts when there is an initial problem statement about users that we aim to solve. For example, we may have heard something in a customer call or have seen customer feedback that shapes these initial problem statements. It’s also common that there is an assumption or hypothesis of what users may be experiencing without them having it shared directly. 
 
-Either way, what follows next is a phase of discovery research where we aim to understand users' experiences in depth. This is the time to collect as much data as possible to thoroughly understand nuances and details. It’s about going broad, diverging, and embracing the complexity that comes with it. This phase is referred to as “Explore”.
+Either way, what follows next is a phase of discovery research where we aim to understand users' experiences in depth. This is the time to collect as much data as possible to thoroughly understand nuances and details. It’s about going broad, diverging, and embracing the complexity that comes with it. This phase is referred to as “Discover”.
 
 Once enough data is gathered a phase of convergence begins, the second half of the first diamond. This is when we aggregate learnings and revise the initial problem statement or create one if the discovery research started with an hypothesis or assumption. This phase is referred to as “Define”.
 
