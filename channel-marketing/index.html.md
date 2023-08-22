@@ -248,12 +248,16 @@ Anytime a partner registers to a new program, the Channel Partner Program DRI mu
       - `Microsite Program - Sales Site` 
       - `Free Trial Program - Self Managed` 
       - `Free Trial Program - SaaS` 
+      - `GitLab Dedicated Landing Pages`
+      - `Partner Concierge Program`
    
    3b. Select the `Type` to `Marketing`
 
-   3c. Unselect `Reminder`
+   3c. Update `Description` if applicable. If they have a `GitLab Dedicated Landing Page`, you can add the URL here.
+
+   3d. Unselect `Reminder`
    
-   3d. Save
+   3e. Save
 
 Note, the subject needs to be an exact match of what's displayed above, otherwise, it will not show up in the SFDC report.
 
