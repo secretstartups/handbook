@@ -64,7 +64,27 @@ The DAST team also monitors #s_secure and #sec-section. Both these channels are 
 
 ## How We Work
 
-The Dynamic Analysis group largely follows GitLab's [Product Development Flow](/handbook/product-development-flow/).
+The Dynamic Analysis group works according to kanban principles. While the group still follows the workflow states and activities articulated in GitLab's [Product Development Flow](/handbook/product-development-flow/), it operates on a 
+pull-based methodology once work is handed off to the development team for delivery. An issue is considered handed off into the development team when it is given the `~workflow::planning breakdown` label, and the team utilizes the following 
+labels as part of its work.
+
+- [Official Dynamic Analysis Delivery board](https://gitlab.com/groups/gitlab-org/-/boards/5719921?label_name%5B%5D=group%3A%3Adynamic%20analysis)
+
+| State | Expected Outcomes |
+| ----- | ----------------- |
+| `~workflow::planning breakdown` | Issues are optimized for delivery based on [Issue breakdown] principles. |
+| `~workflow::refinement` | - Implementation plan<br />- Relative size applied as weight. |
+| `~workflow::ready for development` | Buffer queue - issue deemed to be `~Deliverable`, `~Stretch`, or possibly punted to a future iteration. |
+| `~workflow::in dev` | Last MR is up and out of Draft or WIP status. |
+| `~workflow::in review` | Last MR is merged. |
+| `~workflow::verification` | Functionally working changes are available in a production environment. Record demo where possible. |
+| `~workflow::complete` | Code is verified, the work is complete, and the issue is closed. |
+
+### Issue weights
+
+We assign issue weights according to the [Secure stage issue weight definitions](/handbook/engineering/development/sec/secure/workflow/#possible-values).
+
+### Additional notes
 
 Issues worked by this team are backend-centric and are typically in one the above repos, [vendored templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Security), and GitLab's [Rails monolith](https://gitlab.com/gitlab-org/gitlab). At times, issues can require support from Secure's frontend team if UI changes are required. We will require more notice for initiatives like these.
 
