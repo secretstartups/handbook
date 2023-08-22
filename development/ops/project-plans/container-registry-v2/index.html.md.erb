@@ -1,8 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Container Registry V2 Self-Managed
+title: Container Registry Metadata Database Self-managed
 description: >-
-  Project plan for the rollout of Container Registry V2 to self-managed users.
+  Project plan for the rollout of Container Registry Metadata Database to self-managed users.
 ---
 
 ## On this page
@@ -22,11 +22,37 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
 - Planning discussions on how to breakdown the project into Experimental and Beta phases
 - Milestone plan: [https://gitlab.com/gitlab-org/gitlab/-/issues/416110#container-registry](https://gitlab.com/gitlab-org/gitlab/-/issues/416110#container-registry)
 
+#### Week of Aug 14-18
+- Completed: 
+    - Updated the [architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/container_registry_metadata_database_self_managed_rollout/) with a new table structured for our feature based rollout approach: [https://gitlab.com/gitlab-org/gitlab/-/merge_requests/128824](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/128824)
+    - Completed the POC for installing the database using Helm and Omnibus for new installations.  Demo videos are posted in the [issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1065) for both installation paths.
+    - Implemented Headway automation. All issues and MRs marked with the `~headway-self-managed-registry-db label` will be added to tables in the [epic](https://gitlab.com/groups/gitlab-org/-/epics/5521).
+    - Product is researching how GitLab has structured communication with users in other beta programs through the use of separate issues for enrollment and feedback.  This also provides a communication channel for users who reach out to us through our Support counterpart.
+
 ### Milestone 16.4 (August 18, 2023 - September 17, 2023)
 
-
 #### Goals:
-- 
+- Continue to develop walkthroughs and demos for manual database installation [https://gitlab.com/gitlab-org/container-registry/-/issues/1068](https://gitlab.com/gitlab-org/container-registry/-/issues/1068)
+- Evaluate options for installing the database through Omnibus and Helm Charts [https://gitlab.com/gitlab-org/container-registry/-/issues/1102](https://gitlab.com/gitlab-org/container-registry/-/issues/1102)
+- Weekly forecasts for this project will be determined over the course of this milestone.  This project is just getting started and will initially be reactive to research findings and user feedback.
+
+#### Week of Aug 21-26
+- Plan:
+  - Define the features and draft changes for the feature based rollout approach discussed last week.  This matrix of features will be documented in the [architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/container_registry_metadata_database_self_managed_rollout/).
+  - Officially opening the Beta program this week.
+  - Continue [testing](https://gitlab.com/gitlab-org/container-registry/-/issues/1099) data migration strategies with different types of storage backend and registry sizes.
+  - Starting work on Omnibus and Helm Chart installations following discovery in the POC completed last week.
+  - Experiment with enabling and configuring the metadata database in Omnibus installations. [https://gitlab.com/gitlab-org/container-registry/-/issues/1071](https://gitlab.com/gitlab-org/container-registry/-/issues/1071)
+- Completed:
+
+#### Week of Aug 29-Sept 1
+- Plan:
+
+#### Week of Sept 4-8
+- Plan:
+
+#### Week of Sept 11-18
+- Plan:
 
 ### Milestone 16.5 (September 17, 2023 - October 10, 2023)
 
