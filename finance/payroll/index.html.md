@@ -531,23 +531,23 @@ The internal cut off is by the 8th of each month for team members to have expens
 
 All payroll changes (demographic information, job, bonus/commission payout requests, etc..) must submit to Payroll by the payroll changes deadline date to be included in the current month.  Any new hires start after the payroll changes date will get pay on the following check date.
 
-- GitLab Inc and GitLab Federal LLC [Payroll calendar](https://docs.google.com/spreadsheets/d/12NmHxC8UI5CKK-j7MXO91o3PtcR4Z-lC-elnPkPFhjY/edit#gid=994803634)
-- GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1-vVN6clWo0_E5L6TFXPLuMYQq2LsbU1MK7_aO4D78yY/edit#gid=888530536)
-- GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1s7x3DtsQyx8vSdZMkKdaAmPAILkDkj5P3f1c28l52RE/edit#gid=727433444)
-- GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=1611696861)
-- GitLab BV (Finland) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=1611696861)
-- GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CrvD-_P2vIQFtIUbqxeYc5erroiij87biNRJqB77n20/edit#gid=250040130)
-- GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/1HCKIZTVBYjQOTOp4syfHssDMceujRmEfF75ZGM85d1g/edit#gid=1657503088)
-- GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1O_YFh783JMGj0MC_tCb56Mqk762XaAZQSQfZAnm5aWE/edit#gid=648164152)
-- GitLab GK Japan [Payroll Calendar](https://docs.google.com/spreadsheets/d/1vPrnx_odH6SDlTSwtj9TST-KC0qve1Rg057lrE4vZLE/edit#gid=1739975255)
-- GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/11pFDLl3s1nzg21XxUdGHhDvQ-zJb5faD7wdtstJ4fPk/edit#gid=1716255638)
-- GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Q9tqLtgeW9MhmnqxlABCTYfJ55_uK2mmZT1DKTUqV0w/edit#gid=865660280)
-- GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/spreadsheets/d/1q04pzwN-xXfL1e6T-knVP4AJN2Q8g9vVI4UJ3NNqC9I/edit#gid=938113562)
-- GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1mAdGocwcWvgGPGq-Eh_pdNzXuf_Zn5ZNJ3bxrI--9_k/edit#gid=0)
-- GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1419993369)
+- GitLab Inc and GitLab Federal LLC [Payroll calendar](https://docs.google.com/spreadsheets/d/16ZstS7mAIknB77PGpWylkZBa4g107h4fQs_bB1PEtXI/edit#gid=2072136918)
+- GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1-vVN6clWo0_E5L6TFXPLuMYQq2LsbU1MK7_aO4D78yY/edit#gid=538993736)
+- GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/1s7x3DtsQyx8vSdZMkKdaAmPAILkDkj5P3f1c28l52RE/edit#gid=397335932)
+- GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=922372517)
+- GitLab BV (Finland) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1B1AU2bOIQy7iN4HdVqzkfOMGMB-EM40CafPU7e-RGCY/edit#gid=922372517)
+- GitLab BV (Belgium) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1CrvD-_P2vIQFtIUbqxeYc5erroiij87biNRJqB77n20/edit#gid=1933985706)
+- GitLab GMBH [Payroll Calendar](https://docs.google.com/spreadsheets/d/1HCKIZTVBYjQOTOp4syfHssDMceujRmEfF75ZGM85d1g/edit#gid=750453686)
+- GitLab PTY LTD Australia [Payroll Calendar](https://docs.google.com/spreadsheets/d/1O_YFh783JMGj0MC_tCb56Mqk762XaAZQSQfZAnm5aWE/edit#gid=423876029)
+- GitLab GK Japan [Payroll Calendar](https://docs.google.com/spreadsheets/d/1vPrnx_odH6SDlTSwtj9TST-KC0qve1Rg057lrE4vZLE/edit#gid=246921603)
+- GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/11pFDLl3s1nzg21XxUdGHhDvQ-zJb5faD7wdtstJ4fPk/edit#gid=770405066)
+- GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Q9tqLtgeW9MhmnqxlABCTYfJ55_uK2mmZT1DKTUqV0w/edit#gid=395385415)
+- GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/spreadsheets/d/1q04pzwN-xXfL1e6T-knVP4AJN2Q8g9vVI4UJ3NNqC9I/edit#gid=1439803221)
+- GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1mAdGocwcWvgGPGq-Eh_pdNzXuf_Zn5ZNJ3bxrI--9_k/edit#gid=1439311709)
+- GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1016209953)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
-   - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=794676582)
-    -  Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden, Brazil, Luxembourg & Denmark) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=1631376385)
+   - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=1592804009)
+    -  Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden, Brazil, Luxembourg & Denmark) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=2123079728)
     - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
 
 ## Performance Indicators
