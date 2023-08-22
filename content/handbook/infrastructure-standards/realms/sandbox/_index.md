@@ -39,7 +39,7 @@ description: "This handbook section defines the latest iteration of infrastructu
 
 The Sandbox Cloud is an automated provisioning platform for creating an AWS account or GCP project that you can use for demo/sandbox/testing purposes and is paid for by GitLab with consolidated invoice billing (no credit card required).
 
-This platform is powered by [HackyStack](https://gitlab.com/gitlab-com/it/dev/hackystack), an open source project created by [Jeff Martin](https://gitlab.com/jeffersonmartin) and maintained by Jeff Martin and [Dillon Wheeler](https://gitlab.com/dillonwheeler) to automate the access request process using Okta integration, auto-assigning roles and permissions based on your department, and using the cloud provider API for provisioning your AWS account and/or GCP project.
+This platform is powered by [HackyStack](https://gitlab.com/gitlab-com/infra-standards/hackystack), an open source project created by [Jeff Martin](https://gitlab.com/jeffersonmartin) and maintained by Jeff Martin and [Dillon Wheeler](https://gitlab.com/dillonwheeler) to automate the access request process using Okta integration, auto-assigning roles and permissions based on your department, and using the cloud provider API for provisioning your AWS account and/or GCP project.
 
 You can learn more in the [HackyStack High-Level Intro](https://docs.google.com/presentation/d/1kbaub1-ztxGCV7wAzhNWXsH5beIu_HAVGSBjr8-0qTw/edit#slide=id.gdfc093c5c0_0_11) presentation.
 
