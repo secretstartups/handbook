@@ -85,7 +85,6 @@ Contributions will cease the month after the team member goes on leave.  – For
 When a team member leaves the company, Total-Rewards will notify Allianz of the GitLab alumni’s leave date. The alumni can then expect a letter from Allianz with instructions on how to update the insurer of the pension plan from GitLab to the Team Member. Please contact yvonne.ruecker@wtwco.com, if you have any questions or may not have received your letter from Allianz. 
 
 
-
 ## German Social Security System
 
 GitLab and team members contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
@@ -259,7 +258,7 @@ Our legal council has the German company stamp and can stamp government forms fo
 
 ## Email Signature
 
-During onboarding you may have been asked to set up your GitLab Gmail and your email signature using the following [example as a guideline](https://about.gitlab.com/handbook/tools-and-tips/#email-signature). If you are a employed by our German entity, you will need to add some company related details to the end of your email signature as [set out here](https://handbook.gitlab.com/handbook/tools-and-tips/#email-signature-if-employed-by-our-german-entity)
+During onboarding you may have been asked to set up your GitLab Gmail and your email signature using the following [example as a guideline](https://about.gitlab.com/handbook/tools-and-tips/#email-signature). If you are a employed by our German entity, you will need to add some company related details to the end of your email signature as [set out here](https://handbook.gitlab.com/handbook/tools-and-tips/#email-signature-if-employed-by-our-german-entity).
 
 ## Signature to Company Communications
 
@@ -275,9 +274,12 @@ Certain company details are required to be added as a signature to the forms of 
 - Zendesk
 - other electronic communications
 
+If you are sending such a communication, externally, please look at the setting of the relevant application and add the company details below to the end of the communication. If you are in doubt, please do add the details. If you are unable to add this information for any reason, please alert legal-employment@gitlab.com.
+
 If you are employed by our German entity you may have been asked during onboarding to set up your signature wherever it's required to be used and to include these company details, and if you have not been, please do so now, adding these details to the end of your signature:
 
 <span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
+
 
 ## Useful links
 
