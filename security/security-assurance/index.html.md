@@ -121,7 +121,7 @@ All other actions are the responsibility of the assigned DRI.
 * Email: <security-assurance@gitlab.com>
 
 ### Team READMEs
-- [Byron's README](/handbook/security/security-assurance/README_byronboots.html)
+- [Byron's README](/handbook/security/readmes/byron-boots/)
 
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 
