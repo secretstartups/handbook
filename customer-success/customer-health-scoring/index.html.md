@@ -16,7 +16,23 @@ description: "Customer Account Scoring overview and methodology framework to imp
 
 ## Vision
 
-The Customer Health Score assists GitLab Account Teams to understand the relative health of customers to guide through expansion, retention, and churn through understanding the customer's product adoption, risks, and engagement with GitLab.
+The Customer Health Score assists GitLab Account Teams in understanding the customer’s relative health of GitLab adoption and engagement through their lifecycle journeys. This assists expansion and retention efforts through understanding the customer's product adoption, risks, and engagement with GitLab.
+
+
+## Direction
+
+As initially laid out in the Account Health Scoring [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/25), the intent of Health Scoring is to enable the teams to better understand customer adoption of GitLab.
+
+### Success criteria
+* >95% of customers have a health score (alighed to [FY24 Yearlies](https://about.gitlab.com/company/yearlies/#fy24-yearlies))
+*  Customer health scoring framework has been backtested and validated as effective and beneficial
+* Customer Health is used by CSMs, Sales, Product, and the broader org for assessing a customer’s level of adoption of GitLab the product and their engagement with GitLab the company as a company-level reporting metric
+
+
+<br>
+![Early Warning Segmentation Framework](https://lucid.app/publicSegments/view/1d7cb4c0-392c-41d8-afeb-569fa48440dd/image.png)
+<br>
+
 
 
 ## Scoring methodologies
@@ -25,8 +41,8 @@ Product usage statistics inform three different scores. They each have a distinc
 
 | Name | Purpose | Audience | Metrics | Notes |
 | ----- | ----- | ----- | ----- | ----- |
-| **Customer Health Score**        | To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why | Internal GitLab Teams                   | Account Health is an aggregation of key metrics for a multi-perspective view of the customer. For detail, see [Account Health Predictor](/handbook/customer-success/customer-health-scoring/#account-health-predictor) above |                                                              |
-| **Platform Adoption Score**         | Each customer will have a single Platform Adoption Score used to understand the level of use cases being utilized and value the customer is currently receiving from Gitlab application | Internal GitLab Teams                   | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Adoption Score | [Platform Adoption Scoring](/handbook/customer-success/product-usage-data/platform-value-score/) |
+| **Customer Health Score**        | To enable the team in understanding the relative health of customers, identify risks, manage renewal likelihood, and identify expansion opportunities and why | Internal GitLab Teams                   | Account Health is an aggregation of key metrics for a multi-perspective view of the customer.  |                                                              |
+| **Platform Value Score**         | Each customer will have a single Platform Value Score used to understand how much value the customer is currently receiving from Gitlab as a Platform | Internal GitLab Teams                   | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. The metrics will roll up into a score for each Use Case, and the Use Case scores will roll up to the Platform Value Score | [Platform Value Scoring](/handbook/customer-success/product-usage-data/platform-value-score/) |
 | **Use Case Adoption Scorecards** | Each customer will have a scorecard per use case (SCM, CI, CD...) to highlight their adoption progress to celebrate wins and identify areas for improvement | Internal GitLab Teams **and** customers | 3–7 product usage metrics per Use Case, using Red/Yellow/Green scoring. These are then used to create a deck highlighting the level per use case adoption | [Use Case Adoption Scoring](https://about.gitlab.com/handbook/customer-success/product-usage-data/maturity-scoring/) |
 | **DevOps Score**                 | For the customer to understand their DevOps status compared to top-performing instances (self-managed only) | GitLab customers                        | 10 metrics across Use Cases, displayed as a % of users who have utilized a feature in the past month, compared to how top-performing instances utilized that feature (self-managed only - [GitLab features](https://about.gitlab.com/features/)) | [Handbook Link](https://about.gitlab.com/blog/2021/12/15/devops-adoption/#devops-score) |
 | **DevOps Adoption**              | DevOps Adoption shows you how groups in your organization adopt and use the most essential features of GitLab. | GitLab customers                        | Specific metrics across Dev, Sec, and Ops to show a customer's overall adoption. requires configuration (group and project level for SaaS, whereas instance for self-managed - [GitLab features](https://about.gitlab.com/features/)) | [Docs Link](https://docs.gitlab.com/ee/user/group/devops_adoption/) |
@@ -233,9 +249,6 @@ Some metrics are more leading or lagging indicators. While we will lean toward a
 
 The following graph (Early Warning Segmentation Framework) is used to provide a framework for which strategy to use and which resources to leverage. Customers are grouped by their Account Health and growth potential. Renewal Operations Analysts will support the Field in triaging accounts to identify where to spend their time.
 
-<br>
-![Early Warning Segmentation Framework](images/early-warning-system-framework.jpeg)
-<br>
 
 # Methodology 
 
