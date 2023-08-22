@@ -264,12 +264,9 @@ These are boosters to scores that occur when a special action takes place above 
 
 |**Action**|Description|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
-|E-Book Booster|Lead is created with `Initial Source` of `Gated Content - Ebook`| +15| {{my.Booster}}|Trigger|Once|
-|Demo Webcast Booster|Attends (or On-Demand) demo webcast | +15| {{my.Booster}}|Trigger|1/day|
 |PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|1/day|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
 |PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
-|BrightTalk Engagement Booster 2|Total Minutes Viewed > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|1/day|
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out LinkedIn Lead Gen Form | +30| {{my.LinkedIn Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status is Nurture,user takes an activity that increases behaviour score<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|

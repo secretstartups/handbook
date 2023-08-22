@@ -98,6 +98,11 @@ You can add a segment to an Outreach Sequence directly on the 6Sense Naive Web A
 
 Refer to the [Knowledge Base](https://support.6sense.com/knowledge-base/360062650793-getting-started-with-acquire-new-contacts-to-outreach-sequence/) (you must be logged in to access the knowledge base) for the step to step instructions.
 
+## Segments
+
+Segments drive every use case within 6sense, and consist of groups of accounts created based on user-selected filters, list uploads, or CRM synchronizations. More information about 6sense segments can be found [here](https://support.6sense.com/knowledge-base/360060411613-segments-overview/).
+
+6sense segment names sync to Salesforce via an orchestration. In order for a segment to sync to Salesforce, the segment must be published. If a segment is unpublished, the record of that segment will be removed from Salesforce. This is a good way to keep the 6sense segment name field relevant, however is important to note for historical reporting purposes.  
 
 ## Best Practices 
 
