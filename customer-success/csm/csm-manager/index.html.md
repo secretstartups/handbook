@@ -202,11 +202,13 @@ The regional at-risk meetings use a specified format, to ensure consistent actio
 > **Customer Cohorts**
 > 1. At-risk renewals in current FQ
 > 1. At-risk renewals in next FQ
-> 1. All At-risk customers above $100k ARR
+> 1. All At-risk customers above $100k ARR (any FQ)
 > 1. Any other customers that warrant discussion outside of those groups
 >
 > **Reports for review**
 > 1. [FQ At-Risk Accounts $100k ARR and Above](https://gitlab.my.salesforce.com/00OPL0000001spZ) [_Update linked report to one for your region_]
+
+Update the date range for `Close Date` at the top of the report to view the relevant fiscal quarter. Doing it this way allows us to work from a single report across all relevant customer cohorts. The priority in this meeting is current FQ and next FQ, but as time permits other at-risk customers should be reviewed.
 
 The CSM Manager(s) within the region should drive the meeting, in collaboration with the Renewal Manager leadership and ASMs as appropriate for each customer. Discussion and action should be driven by the Salesforce report for the region, working from `At-Risk Update` details and Renewal Manager notes.
 
