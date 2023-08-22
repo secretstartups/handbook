@@ -13,11 +13,11 @@ The executive search team is responsible for leading the talent acquisition proc
 #executive-search on Slack (GitLab Team Members only) 
 
 ## Team Members
-Rich Kahn - Director, Executive Search
+* Rich Kahn - Director, Executive Search
 
-Zach Choquette - Executive Recruiter
+* Zach Choquette - Executive Recruiter
 
-Sruthy Menon - Senior Candidate Experience Specialist
+* Sruthy Menon - Senior Candidate Experience Specialist
 
 ## Executive Search DRIs
 
@@ -272,3 +272,7 @@ We’d like to extend an offer to (candidate name, with link to the offer in Gre
 **Offer Delivery**
 
 The offer delivery mechanism will vary by situation, and may be completed by the Talent DRI, Sr. People Leadership, external vendor or Hiring DRI.
+
+## Diversity, Inclusion and Belonging
+
+The Executive Search Team has made a committment to instill inclusive processes in everything we do. In FY24, we documented best practices for conducting our searches in an equitable manner. Our DIB initiatives can be found [here](https://docs.google.com/document/d/1i3gsXskARrJeYaTZsdQyEiKMR-q4_uSwJ64X4HVRJiE/edit) (internal only)
