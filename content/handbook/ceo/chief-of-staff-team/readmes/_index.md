@@ -8,3 +8,4 @@ title: "Chief of Staff Team to the CEO READMEs"
 - [Ian Pedowitz's README (Director, Strategy and Operations)](https://gitlab.com/ipedowitz)
 - [Laurel Farrer's README (Principal Strategy & Operations: Workplace)]({{< ref lfarrer >}})
 - [Dave Langemak's README (Director, Strategy and Operations)](https://gitlab.com/dlangemak)
+- [Jamie Maynard's README (Full Stack Developer - Handbook)]({{< ref "jamiemaynard" >}})
