@@ -489,13 +489,17 @@ We track marketing influence on channel opportunies as well as deal regisiration
 | Partner Marketing Trials Funnel - SaaS         | Sisense    | This dashboard shows an overview of all the SaaS free trial submissions by partners.                                                                                                                                                         | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1114685/Draft:-New-Partner-Marketing-Trials-Funnel---SaaS) |
 | Partner Marketing Trials Funnel - Self Managed | Sisense    | This dashboard shows an overview of all the Self-Managed free trial submissions by partners.                                                                                                                                                 | [🖇️](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/1060854/Partner-Marketing-Trials-Funnel---Self-Managed)    |
 | Channel Partner Participation                  | Salesforce | This report captures an overview of [partner program offerings](https://about.gitlab.com/handbook/marketing/channel-marketing/#channel-partner-program-participation-overview) that partners are actively enrolled in.                       | [🖇️](https://gitlab.my.salesforce.com/00O8X00000963dq)                                                                               |
-| Lead - Partner Recall                          | Salesforce | This report captures the partner leads that have been recalled in the current FY.                                                                                                                                                            | [🖇️](https://gitlab.my.salesforce.com/00O8X000008muTH)                                                                               |
-| Contact - Partner Recall                       | Salesforce | This report captures the partner contacts that have been recalled in the current FY.                                                                                                                                                         | [🖇️](https://gitlab.my.salesforce.com/00O8X000008muWG)                                                                               |
+| Partner Recall Records                          | Google Sheets | This report captures the partner leads that have been recalled in the current FY.                                                                                                                                                            | [🖇️](https://docs.google.com/spreadsheets/d/1A8Z_vKazprQJDkniX9kvfYuGXuzVBeG0JBXk51FAnHA/edit#gid=0)                                                                               |
 
-#### Back up SFDC leads passed to partner report
-1. [Leads](https://gitlab.my.salesforce.com/00O4M000004enu7) - Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture.
-1. [Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC)
-1. [Records passed per SFDC campaign](https://gitlab.my.salesforce.com/00O8X000008gnzd) Note - you need to change the campaign name to the actual name of the campaign you're wanting this report for. 
+
+#### SFDC Report Template - Records Passed to Partners
+
+These reports are used as template for your reference. Please clone and modify the reports based on the campaign name you are wanting to dig into. Reminder that SFDC treats leads and contacts separetely, so you'll need both a leads and a contacts report to see full picture.
+
+Note: You need to change the campaign name to the actual name of the campaign you're wanting this report for.
+
+1. [Campaigns with Leads](https://gitlab.my.salesforce.com/00O4M000004enu7)
+1. [Campaigns with Contacts](https://gitlab.my.salesforce.com/00O4M000004enuC)
 
 #### Back up SFDC pipeline reports
 We have 3 reports we use that shows different types of contribution to the GitLab channel program.
