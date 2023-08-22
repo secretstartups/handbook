@@ -348,6 +348,10 @@ Examples of new metrics can include:
 - Self-managed - They are not opted into Service Ping, or they turned it off.
 - Self-managed - None of their instances are labeled as Production. [Here are instructions](#self-managed) on how to label instances as Production.
 
+#### Why is my customer's Billable Users (OR License Utilization) value `Null`?
+
+This is because [`Billable Users`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) was instrumented in version 14.0, hence if your SM customer is on a legacy version lower than 14.0, the `Billable Users` value will not be collected and show up as `Null`, also affecting `License Utilization` score since the measure is calculated using `Billable Users` / `Licensed Users`. 
+
 #### What does it mean if I see details in instance and namespace details but no usage trends?
 
 If the customer is self-managed, check if they have an instance labeled `Production`. They must have an instance labeled as `Production` to appear in the Usage Trends report.
@@ -361,6 +365,18 @@ The purpose of the Instance and Namespace Details report section is to show:
 #### Why is a metric is missing from my self-managed customer?
 
 If a metric was implemented in a later release, it will not appear. Check the Data Mart Table definitions to identify the release for the metric in question. You can check the instance and namespace details to confirm which release version the customer is on. Example: `Billable Users` was instrumented in 14.0, and if a customer is on 13.9 or earlier, then this field will appear as `NULL`.
+
+#### What is the process of manually uploading service ping data for offline/air-gapped instances? 
+
+The customer or the account team may upload the JSON file using this link - https://version.gitlab.com/usage_data/new 
+
+#### How long does it take for manually uploaded service ping data to populate in Gainsight? 
+
+This process can take anywhere from 24-48 hours before it starts to populate Gainsight reports and scorecards. 
+
+#### After updating an instance to be `Included in Health Measures` or alternatively, `Opt-out` an instance, how long does it take for the data to refresh in reports & scorecards? 
+
+Please allow 24-48 hours after making any changes to the instances in Gainsight. 
 
 ### What is Service Ping?
 
