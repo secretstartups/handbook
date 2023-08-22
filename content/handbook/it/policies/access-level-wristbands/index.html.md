@@ -66,6 +66,24 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
         </td>
     </tr>
     <tr>
+        <td><span style="color: #808080; background-color: #3f3f46; padding: 3px;">GRAY</span></td>
+        <td><ul>
+            <li>Secondary account</li>
+        </ul></td>
+        <td><ul>
+            <li>Certain SFDC Users</li>
+            <li>Different permission/role level (non-admin) accounts</li>
+            <li>Test user accounts</li>
+        </ul></td>
+        <td>
+            <code>{handle}+sfdc2@gitlab.com</code><br />
+            <code>{handle}+{role}@gitlab.com</code><br />
+            <code>{handle}+test@gitlab.com</code><br />
+            <code>{handle}+test-{purpose}@gitlab.com</code><br />
+        </td>
+    </tr>
+
+    <tr>
         <td><span style="color: #ffffff; background-color: #854d0e; padding: 3px;">BROWN</span></td>
         <td>Specific app role(s) and permissions</td>
         <td><ul>
@@ -111,6 +129,14 @@ When a <a href="https://about.gitlab.com/handbook/people-group/employment-soluti
 Any processes and systems that use your <code>{handle}@gitlab.com</code> email address and are part of <a href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/">Baseline and Role Entitlements</a> or an access request are provisioned in your <span style="color: #9333ea">PURPLE</span> account.
 
 For team members in Infrastructure, IT, Security, or other departments with elevated access, your elevated or admin access will usually be provisioned in your <a href="#black">BLACK Account</a>.
+
+### GRAY
+
+Gray accounts are secondary user accounts when required for a specific appllication function, different role, or test account.  
+
+The user must also have an active Blue or Purple account.
+
+This is a corner case that is usually used by IT and Security team members for test accounts, or secondary accounts for Salesforce (SFDC).
 
 ### BROWN
 
