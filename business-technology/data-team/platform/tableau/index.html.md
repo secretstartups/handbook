@@ -25,6 +25,35 @@ description: "Tableau at GitLab"
 
 [Tableau](https://www.tableau.com) is our new Enterprise Business Intelligence tool. It is a [leader](https://interworks.com/blog/2021/02/24/the-2021-gartner-bi-magic-quadrant-visualized-in-tableau/) in the Business Intelligence space. We are applying the [Tableau Blueprint](https://help.tableau.com/current/blueprint/en-us/bp_overview.htm) to launch our Tableau production environment. The Tableau Blueprint outlines the processes and best practices from thousands of Tableau customers. We will apply these processes and best practices in accordance GitLab's TeamOps and culture.
 
+## Terms and Definitions
+
+- Connections: The method Tableau used to communicate with a source of data.
+  - Direct to Source: When Tableau uses a built in connector to communicate with source of data like Snowflake or Google Drive.
+  - Virtual Connection: A curated connection where the communication to the source of data has been set by the admin team.  Will generally simulate a Direct to Source connection.
+  - Published Data Source: A curated connection to a single tableau that is the result of data modeling. It is stored on Tableau Online.
+  - Connect to A File: A method of getting data from the files in your system into Tableau. This includes Excel files, CSV, PDF, etc.
+  - Connect to A Server: A method of connecting to an online data source. This includes any connection to any online data sources, including Tableau Online and Snowflake
+- Connection Credentials: The information used to certify connection to a source of data.
+  - Embedded: Credentials are saved as part of the connection.
+  - Prompt User: Credentials must be input every time the connection is used.
+- Connection Freshness: Determines how often a connection will communicate with the source of data.
+  - Live: Will send a query to the source of data each time the data is needed.
+  - Extract: Well send a query when prompted to the source of data storing the result in custom micro database.
+  - Scheduled Extract: An extract hosted on Tableau Online that will, on a fixed frequency, communicate with the source of data and update the stored data.
+- Data Modeling: The method of combining multiple tables of data into a single result table.
+  - Data Warehouse: The query to combine the table is stored in the data warehouse repository and is materialized in the data warehouse.
+  - Tableau Data Modeling: Relationships are defined between tables, in the connection interface, directly in Tableau.
+  - Tableau Blending: Relationships between data sources defined in the visualization construction interface.
+  - Custom SQL: Using SQL within a connection to define the relationships between tables.
+- Tableau Objects: The elements that a developer will work with to create visualizations.
+  - Project: The folder structure maintained in Tableau Online.  This is where content permissions are administered.
+  - Workbook: The base file time for creating visitations.
+    - View: The element that represent a chart or other visualization.
+    - Dashboard: A collection of views and layout elements.
+    - Story: A collection of views and layout elements where the views can be set to a specific filter or parameter value and displayed in a sequential structure.
+  - Data Source: A collection of connections and data modeling that results in a single result table that can be published and a stand alone file.
+  - Flow: A collection of connections and transformation steps that will typically result in creating one or more Data Sources.
+
 ## Roadmap
 
 ### FY24 Tableau Deployment Roadmap
