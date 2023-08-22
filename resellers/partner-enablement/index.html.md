@@ -73,8 +73,6 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
 
 * [GitLab Customer Success Stories](https://about.gitlab.com/customers/): Our success stories, including customer tesimonials.
 
-* [DevOps Tools Landscape](https://about.gitlab.com/devops-tools/): A great place to learn about how GitLab compares to its competitors. A more detailed view of the same is the [DevOps maturity comparison chart](https://about.gitlab.com/competition/). Clicking on some product names (on both pages) takes the viewer to a detailed comparison of GitLab and the selected competitor. For example: [GitLab vs. GitHub](https://about.gitlab.com/competition/github/).
-
 ## Technical
 
 * [GitLab Documentation](https://docs.gitlab.com/): The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
@@ -122,7 +120,7 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
 
 1.  [SA Demo Catalog](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/demo-catalog):  Demo Archive of SA Demo's which can be reused or repurposed for your demos
 
-1. [CI Samples Demo](https://gitlab.com/gitlab-learn-labs/webinars/cicd/cicd-samples):  CI functions samples for quick demos 
+1. [CI Samples Demo](https://gitlab.com/gitlab-learn-labs/webinars/cicd/cicd-samples):  CI functions samples for quick demos
 
 ## Proof of Value (POV), aka POC’s
 
