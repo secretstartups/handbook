@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 | Target End Date | TBD                  |
 | Slack           | `#wg_ai_integration` - Slack channel for the working group and the high level alignment on getting AI ready for Production   |
 | Slack           | `#ai_integration_dev_lobby` - Channel for all implementation related topics and discussions of actual AI features   |
-| Slack | `#ai_enablement_team` - Channel for the AI Enablement Team which is building the base for all features (experimentation API, Abstraction Layer, Embeddings, etc.) |
+| Slack | `#g_ai_framework` - Channel for the AI Framework Team which is building the base for all features (experimentation API, Abstraction Layer, Embeddings, etc.) |
 | Slack | `#ai_strategy` - Discussion on strategic and business initiatives surrounding AI/ML at GitLab. |
 | Slack | `#ai-experiments-infra` - Infrastructure/Platform support for AI integration. See also [&969](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/969). |
 | AI Architecture Documentation | [Doc](https://docs.gitlab.com/ee/development/ai_architecture) |
@@ -29,7 +29,7 @@ canonical_path: "/company/team/structure/working-groups/ai-integration/"
 | Parent Epic     | [Parent epic](https://gitlab.com/groups/gitlab-org/-/epics/9997)           |
 | Epic/Issue Working Group label | [`wg-ai-integration` issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/5512012?label_name[]=wg-ai-integration) and [`wg-ai-integration` epic search](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=wg-ai-integration)  |
 | Epic label for prioritized prototypes | [`wg-ai-integration-prioritized-prototype`](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=wg-ai-integration-prioritized-prototype) |
-| Issue Board for AI enablement group | [Issue board link](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200?label_name%5B%5D=group%3A%3Aai-enablement) using label `group::ai-enablement` |
+| Issue Board for AI Framework group | [Issue board link](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200) using label `group::ai framework` |
 | Overview & Status | See [Exit Criteria](#exit-criteria) below |
 | Meeting schedule | Monday, Tuesday, and Wednesday at 8am Pacific and Thursdays at 1pm Pacific |
 
@@ -132,7 +132,7 @@ The following criteria should be met for the group to disband:
 
 ## Engineering Groups
 
-We currently have two core AI Development groups at GitLab: AI Enablement group and AI Assisted group.
+We currently have two core AI Development groups at GitLab: AI Framework group and AI Assisted group.
 
 ### AI Assisted group
 
@@ -146,16 +146,16 @@ The AI Assisted group helps all product groups to match the right model(s) and A
 
 You can contact this group via Slack in [#g_ai_assisted](https://gitlab.slack.com/archives/C023YB2FEUC). View their [issue board here](https://gitlab.com/groups/gitlab-org/modelops/applied-ml/-/boards/5588960?label_name[]=group%3A%3Aai%20assisted&group_by=epic).  To see who is engaged on this effort please see [here](https://about.gitlab.com/handbook/product/categories/#ai-assisted-group).
 
-### AI Enablement
+### AI Framework
 
-AI Enablement exposes AI services and the underlying models (third party or native GitLab models) to all product groups.
+AI Framework exposes AI services and the underlying models (third party or native GitLab models) to all product groups.
 
-- The AI Enablement group enables the rest of the development department to build AI features through the [abstraction layer](https://docs.gitlab.com/ee/development/ai_features).
+- The AI Framework group enables the rest of the development department to build AI features through the [abstraction layer](https://docs.gitlab.com/ee/development/ai_features).
 - The abstraction layer supports OpenAI and is being extended to support equivalent Google AI functionality. Other commercial, open-source, and GitLab custom-built models are also being considered.
 - This group empowers other groups to evaluate models via *manual human testing*, through the [Experimentation API](https://docs.gitlab.com/ee/development/ai_features.html).
 - This group works with Ruby on Rails as they make it easy for the GitLab product to add AI functionality through the `gitlab/gitlab-org` repo.
 
-You can contact this group via Slack in [#ai_enablement_group](https://gitlab.slack.com/archives/C051K31F30R). View their [issue board here](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200?label_name%5B%5D=group%3A%3Aai-enablement).
+You can contact this group via Slack in [#g_ai_framework](https://gitlab.slack.com/archives/C051K31F30R). View their [issue board here](https://gitlab.com/gitlab-org/gitlab/-/boards/5518200).
 
 ### AI Engineering Allocation
 
@@ -163,19 +163,18 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 
 | Name | Role | Area of Work | 
 | ---- | ---- | ------------ | 
-| Alexandru Croitor | Senior Backend Engineer | AI Enablement | 
-| Eulyeon Ko | Backend Engineer | AI Enablement | 
-| Gosia Ksionek  | Staff Backend Engineer | AI Enablement | 
-| Nicolas Dular |  Senior Backend Engineer | AI Enablement | 
-| Denys Mishunov | Staff Frontend Engineer | AI Enablement | 
-| Bojan Marjanović | Senior Backend Engineer | AI Enablement | 
-| Jan Provaznik | Staff Backend Engineer | AI Enablement | 
-| Mikołaj Wawrzyniak | Staff Backend Engineer | AI Enablement |
-| Pavel Shutsin | Senior Backend Engineer | AI Enablement |
-| Max Woolf | Staff Backend Engineer | AI Enablement |
-| Tan Le | Senior Fullstack Engineer | AI Enablement |
-| Andras Herczeg | Backend Engineer | AI Enablement |
-| Sebastian Rehm | Engineering Manager | AI Enablement |
+| Alexandru Croitor | Senior Backend Engineer | AI Framework | 
+| Eulyeon Ko | Backend Engineer | AI Framework | 
+| Gosia Ksionek  | Staff Backend Engineer | AI Framework| 
+| Nicolas Dular |  Senior Backend Engineer | AI Framework | 
+| Denys Mishunov | Staff Frontend Engineer | AI Framework | 
+| Jan Provaznik | Staff Backend Engineer | AI Framework | 
+| Mikołaj Wawrzyniak | Staff Backend Engineer | AI Framework|
+| Pavel Shutsin | Senior Backend Engineer | AI Framework |
+| Max Woolf | Staff Backend Engineer | AI Framework |
+| Tan Le | Senior Fullstack Engineer | AI Framework |
+| Andras Herczeg | Backend Engineer | AI Framework |
+| Sebastian Rehm | Engineering Manager | AI Framework |
 | Daniel Tian | Senior Frontend Engineer | Threat Insights |
 | Gregory Havenga | Backend Engineer | Threat Insights |
 | Kerri Miller | Staff Backend Engineer | Code Review |
