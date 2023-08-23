@@ -287,7 +287,7 @@ To add new objectives in GitLab, follow the steps below:
 1. In the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), navigate to OKRs by selecting **Issues** on the left sidebar. 
 1. In the top right corner of the **Issues** screen, select the down arrow next to **New issue** in the top right corner and then select **New objective** from the menu. Next, select the **New objective** button to [create an Objective](https://docs.gitlab.com/ee/user/okrs#create-an-objective). 
 1. Enter a short but descriptive title for the objective then click **Create objective**
-      1. If objective contains confidential information, the objective can be set to confidential by checking the box that states `This objective is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the objective.
+      1. If objective contains confidential information, the objective can be set to confidential by checking the box that states `This objective is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the objective. Use the [SAFE framework](/handbook/legal/safe-framework/) to determine whether it needs to be confidential.
 1. Select the objective from the list to open in an editable view and add more details:
       1. Identify the owner for the objective and assign them.
          1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the objective. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
@@ -309,7 +309,7 @@ Since [Key Results are the measure](#what-are-okrs) that helps us understand if 
 
 To add new key results in GitLab, follow the steps below:
 1. Navigate to the the objective that you want to add a child key result to by opening the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), selecting **Issues** on the left sidebar, then clicking on the target objective. 
-1. [Add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result) by clicking **Add** in the **Child objectives and key results** section of an objective and then select **New key result**.
+1. [Add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result) by clicking **Add** in the **Child objectives and key results** section of an objective and then select **New key result**. Use the [SAFE framework](/handbook/legal/safe-framework/) to determine whether it needs to be confidential.
 1. Enter a short but descriptive title for the key result then click **Create key result**
    1. If key result contains confidential information, the key result can be set to confidential by checking the box that states `This key result is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the key result.
 1. Select the key result from the list in the **Child objectives and key results** section to open in an editable view and add more details:
