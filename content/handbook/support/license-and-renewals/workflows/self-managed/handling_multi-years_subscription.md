@@ -32,4 +32,5 @@ After confirmation and before [generating a new license]({{< ref "creating_licen
    - Amend the dates to match the relevant time interval - for example, the second annual license for a multi year subscription would have the original start and expiry dates, with an additional year added to both.
    - For example, `Start date: 2021-05-01` and `End date: 2022-05-01` would become `2022-05-01` and `2023-05-01`, respectively.
    - Do not tick the trial checkbox, as this is not a trial!
+   - Use the previous year license `Users count` as the new license `Previous Users Count`
 1. If there *are* `Users over license`, confirm that they are accounted for in the quote. Otherwise, follow the [Working with sales workflow]({{< ref "working_with_sales" >}}). We can generate a new license once the `Users over license` has been paid for.
