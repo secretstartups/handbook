@@ -569,6 +569,23 @@ Next Steps: SDR chatters the BDR Assigned and lets them know you didn't find act
 
     If the related SDR relays information that was not picked up in the new SDR's research, the new SDR should end any active sequence if the prospect hasn't engaged and change lead ownership to the team member who has been engaged so they can reach out. If the new SDR has engaged with the prospect, there will need to be a coordinated handoff worked out between the new SDR and the related SDR. **Note: Only activity logged in SFDC will be recognized as activity.**
 
+## Sales Dev SFDC Chatter Guide 
+
+
+
+|    **Problem**   |  **Who to Chatter**           |
+| :------------- |  :--------------------------------- |
+| **A SMB/MM Contact Request and the account is a customer**      | Chatter the Account Owner and inform them of the context of the message. *there is an exception if the account has only bought CI/CD or storage  |
+**A BDR recieves an MQL Lead that is not from an Actively Working Account**  | Chatter @mktops  |
+| **If you feel a lead has been misrouted**      |  Chatter @mktops  |
+**There is a Duplicate Account**  |  Chatter Sales Support and ask them to merge the accounts. The chatter should be on the account that is more active   |
+| **An Opp has moved into Stage 1 but has Incorrect Data**      |  Chatter your manager who will then reach out to someone in Sales Dev Operations  |
+| **Unclear Territory Assignment**   |  Chatter an AE from each of the potential territories   |
+| **Requesting SAO Credit on a Web Direct Opp**      |  Chatter your manager and [use this format](https://about.gitlab.com/handbook/marketing/sales-development/#how-do-i-request-sao-credit-on-a-web-direct-opportunity)   |
+**Account is in Restricted Status**  |  Chatter the SAE and ask permission to reach out  |
+
+
+
 ## BDR Territory Movement Rules of Engagement
 
 When a territory moves from one BDR to another but the previous BDR remains with the same team (ex: moves from one MM territory to another) the BDR vacating the territory will have the chance to temporarily retain ownership of accounts with which they have generated ongoing engagement (subject to manager approval). At the time of the holdover, an issue will be created that will be reviewed in 30 days to verify account ownership. This includes:
