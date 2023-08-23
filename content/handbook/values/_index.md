@@ -466,6 +466,8 @@ We demonstrate results when we do what we promised to each other, customers, use
 
 Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling. Efficiency is a foundation for [results](#results), because it helps us to achieve more.
 
+When we work internally with other team members, we leverage Gitlab's unique working practices and operating principles to achieve top efficiency. We do not expect people outside of GitLab to conform to GitLab's ways of working, and we will make accommodations to work effectively with them. For example, we may collaborate heavily in-person and not default to async communications.
+
 ##### Only Healthy Constraints
 
 Most companies regress to the mean and slow down over time. While some changes are required as a company grows and matures, not all change is inevitable or should be allowed to passively happen. As GitLab grows, we are conscious of how we operate and how it enables our ability to continue to operate with the agility of a [startup](https://about.gitlab.com/company/still-a-startup/). We try to limit ourselves to [healthy constraints](https://about.gitlab.com/handbook/only-healthy-constraints/).
