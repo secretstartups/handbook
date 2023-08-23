@@ -1,6 +1,6 @@
 ---
-title: "Infrastructure Technical Program Management"
-description: "Driving infrastructure strategy and initiatives company-wide"
+title: "Infrastructure Technical Program Management Individual Contributors"
+description: "Driving infrastructure strategy and initiatives across Engineering"
 ---
 
 Infrastructure Technical Program Manager (ITPM) is responsible for the planning, execution, and delivery of complex infrastructure projects across Engineering and Product. ITPMs work with a variety of stakeholders, including engineers, architects, and business leaders, to ensure that projects are completed on time and within budget, and to the required quality standards. This includes the tracking, monitoring and influencing priority of significant infrastructure objectives, goals and plans from all Infrastructure sub-departments.
@@ -142,42 +142,6 @@ All requirements of previous roles plus:
 - 10+ years of experience in technical program/project management or equivalent
 - Influence and implement change across the company
 - Speak to and represent GitLab to customers and vendors
-
-### Distinguished Infrastructure Technical Program Manager
-
-This position reports to the Vice President of Infrastructure & Quality at GitLab.
-
-#### Distinguished Infrastructure Technical Program Manager Job Grade
-
-The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Distinguished Infrastructure Technical Program Manager Responsibilities
-
-All responsibilities of previous roles plus:
-
-- Define multi-year roadmap, strategy, and vision for the technical program manager team
-- Define headcount requirements and is accountable for headcount fiscal year plans
-- Own technical program budgets and any financial reporting artifacts
-- Expanded sphere of influence in driving Infrastructure initiatives across the company
-- Creates a measurable impact on the work of teams across the company
-- Takes a central role in decision making for technical, business, and organizational issues
-- Drive goals and objectives that results in further progress of the Infrastructure department and Engineering division roadmap and strategy
-- Accountable and responsible for overflow responsibilities from the VP of Infrastructure & Quality
-- Identify, define, and implement Infrastructure programs across Infrastructure, Engineering and the company
-
-#### Distinguished Infrastructure Technical Program Manager Requirements
-
-All requirements of previous roles plus:
-
-- 15+ years of experience in technical program/project management or equivalent
-- Influence and implement change across the company
-- Speak to and represent GitLab to customers, vendors and external key stakeholders
-
-## Segment
-
-### Infrastructure Leadership
-
-For details on the Infrastructure organization leadership roles, to include the Infrastructure Engineering Director and VP of Infrastructure, see the Infrastructure Leadership page.
 
 ## Specialties
 
