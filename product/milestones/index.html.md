@@ -34,7 +34,7 @@ To update the milestones in GitLab, Product Operations follows these steps:
 
 ### Release 16.5 and prior
 
-This section is for release 16.5 and prior. For release 16.6 and onwards please see the next section [Release 16.6 and onwards](#release-166-and-onwards).
+This section is for releases up to and including 16.5. For releases 16.6 and later, see [Release 16.6 and later](#release-166-and-later).
 {: .alert .alert-gitlab-orange}
 
 #### Step 1: .org
@@ -56,9 +56,9 @@ This section is for release 16.5 and prior. For release 16.6 and onwards please 
 1. Set end date to the appropriate month with the `18th` to the `17th`
 1. Closing milestones happens in the [Engineering workflow](/handbook/engineering/workflow/#milestone-cleanup)
 
-### Release 16.6 and onwards
+### Release 16.6 and later
 
-This section is for release 16.6. For release 16.5 and prior please see the previous section [Release 16.5 and prior](#release-165-and-prior).
+This section is for release 16.6 and later. For releases up to and including 16.5, please see the previous [Release 16.5 and prior](#release-165-and-prior).
 {: .alert .alert-gitlab-orange}
 
 Milestone start and end dates are defined as follows:
