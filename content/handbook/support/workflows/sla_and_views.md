@@ -1,11 +1,17 @@
 ---
-title: Ensuring correct SLA and Zendesk views
+title: DEPRECATED - Ensuring correct SLA and Zendesk views
 description: "A walk through of verifying and if needed, correcting the SLA on tickets, and visibility in the correct Zendesk view."
 category: Handling tickets
 subcategory: Triaging
 ---
 
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
+
 ## Purpose of this page
+
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
 
 Assuming a ticket has:
 
@@ -18,6 +24,9 @@ then we need to ensure the ticket:
 - shows in the correct Zendesk (ZD) view.
 
 ## Appropriate SLA by plan
+
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
 
 Tickets should have the appropriate SLA according to the [support service levels](https://about.gitlab.com/support/#gitlab-support-service-levels).
 
@@ -33,6 +42,9 @@ Consider contacting the Account Owner (Manager) to clarify the customer's status
 
 ### Organization exists in SFDC but support level does not match Zendesk
 
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
+
 Note that we have [an ongoing issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/634)
 that causes a lot of accounts to be incorrectly shown as `Expired` in SFDC.
 See the [Handling customers with incorrect expired support](#handling-customers-with-incorrect-expired-support) section for these cases.
@@ -45,6 +57,9 @@ Open an issue in the
 [sync project](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/zendesk_salesforce_sync/).
 
 ### Handling customers with incorrect expired support
+
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
 
 If you believe a customer marked as `Expired` support and `Former Customer` is in fact a current paying customer,
 follow this process to verify and fix the issue.
@@ -130,6 +145,9 @@ and verify that it is associated with the appropriate organization and SLA.
 
 ## No SLA
 
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
+
 Check the [SLA by plan](#appropriate-sla-by-plan) for a list of types that do not receive SLA.
 Otherwise, the lack of SLA may be one of the following cases.
 
@@ -155,6 +173,9 @@ Please reply (or let the assignee know), including a note to let the customer th
 After that, the cc'ed user's next replies will not be marked as internal anymore.
 
 ## Ticket views
+
+> ⚠️ **Warning**  
+> This page is outdated and should only be referenced for historical purposes. Please do not use any of the processes on this page.
 
 Tickets should show in the [appropriate view(s)](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/views/).
 
