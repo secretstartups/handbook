@@ -489,8 +489,8 @@ The IDE Group collates all video recordings related to the group and its team me
 
 ## Automations
 
-Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible.
-
+Automations should be set up via [triage-ops](https://gitlab.com/gitlab-org/quality/triage-ops/) if possible
+.
 ### Automations for Remote Development Workflow
 
 **NOTE: Some of the following automations related to iterations are currently blocked by https://gitlab.com/gitlab-org/gitlab/-/issues/384885.**
@@ -499,15 +499,21 @@ Ideally we should automate as much of the [Remote Development Planning Process](
 
 We have the following automation goals for the Remote Development Workflow. Unless otherwise noted, these rules are all defined in the  [triage-ops `policies/groups/gitlab-org/ide/remote-development-workflow.yml` config file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml))
 
+---
+
 **Goal:** To ensure every issue in the category is assigned to an epic
 
 **Automation:**
 - Issues in ~"Category:Remote Development" but no epic assigned should get a warning comment (TODO: implement)
 
+---
+
 **Goal:** To ensure category issues show up on the Iteration Planning board
 
 **Automation:**
 - [Issues in `~"Category:Remote Development"` but no `~rd-workflow` label should be added to `~rd-workflow::unprioritized`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L4)
+
+---
 
 **Goal:** To avoid premature assignment of specific milestones before an issue has gone through IPM, to avoid getting this warning: https://gitlab.com/gitlab-org/gitlab/-/issues/411933#note_1419147845
 
@@ -516,15 +522,21 @@ We have the following automation goals for the Remote Development Workflow. Unle
 - [Issues with a specific milestone but no weight should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L29)
 - [Issues with a specific milestone but no iteration should have the milestone automatically set back to `%"Next 1-3 releases"`.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L41)
 
+---
+
 **Goal:** To ensure prioritized issues are in the correct state
 
 **Automation:**
 - Issues in ~rd-workflow::prioritized but not assigned to the current Iteration of the Iteration Cadence should automatically get assigned to the Current Iteration (TODO: implement)
 
+---
+
 **Goal:** To ensure closed issues are in the correct state
 
 **Automation:**
 - [Every Issue in `~"Category:Remote Development"` which is closed must have the `~rd-workflow::done` label applied.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L65)
+
+---
 
 **Goal:** Syncing Remote Development workflow and GitLab workflow labels
 
@@ -533,11 +545,15 @@ We have the following automation goals for the Remote Development Workflow. Unle
 - [Unstarted issues in ~rd-workflow::prioritized but with ~"refined" assigned should get ~"workflow::ready for development" assigned.](https://gitlab.com/gitlab-org/quality/triage-ops/-/blame/master/policies/groups/gitlab-org/ide/remote-development-workflow.yml#L53)
 - Can we assume that other subsequent workflow states are already handled by standard triage rules? If so, confirm and list/link them (TODO: implement)
 
+---
+
 **Goal:** Apply correct ~rd-workflow label to reopened issues
 
 **Automation:**
 - Re-opened issues which are open but in ~rd-workflow::done should have ~"rd-workflow::prioritized" assigned. (TODO: implement)
 - Example: https://gitlab.com/gitlab-org/gitlab/-/issues/390597#note_1
+
+---
 
 **Goal:** To ensure issues and MRs are 1-1
 
@@ -545,11 +561,29 @@ We have the following automation goals for the Remote Development Workflow. Unle
 - Every MR in `~"Category:Remote Development"` must have the first line of the description matching: `Issue: <issue link>\n\n`. See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests  (TODO: implement)
 - Every Issue in ~"Category:Remote Development" must have the first line of the description matching: "MR: <MR link>\n\n" or "MR: No associated MR\n\n". See https://docs.gitlab.com/ee/topics/gitlab_flow.html#linking-and-closing-issues-from-merge-requests (TODO: implement)
 
+---
+
 **Goal:** Automate Label Assignment for Ignored Issues
 
 **Automation:**
-- Automating the assignment of the `rd-workflow::ignored` label to issues with the `type::ignore` label. (TODO: implement)
-- Exclude QA issues from this automation to accommodate self-owned QA issues that should follow the standard process. (TODO: implement)
+- Issues with the `type::ignore` label should have the `rd-workflow::ignored` label assigned. (TODO: implement)
+- NOTE: We do not automatically ignore QA issues, in order to accommodate self-owned QA issues that should follow the standard process.
+
+---
+
+**Goal:** Ensure all prioritized issues have a milestone assigned
+
+**Automation:**
+- All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. (TODO: implement)
+
+---
+
+**Goal:** Ensure all prioritized issues with an assignee have a weight assigned
+
+**Automation:**
+- All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. (TODO: implement)
+
+---
 
 <!-- LINKS START -->
 
