@@ -1088,29 +1088,8 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 
 **Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations):**
 
-1. When IBM has closed the deal, an IBM contact will send order details to IBMdealreg@gitlab.com. The Alliance Operations team monitors this email alias.
-2. Navigate to the opportunity, create a contact with the following information:
-  - Name: IBM Ecosystem Project Office
-  - For Email, Phone, Mailing Address, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
-  - Region: NORAM, Sub-Region: US East
-3. Create a quote per standard practice, and enter the following information:
-  - Invoice Owner = IBM OEM (Alliance Partner)
-  - Invoice Owner Contact = IBM Ecosystem Project Office
-  - Sold To Contact = IBM Ecosystem Project Office
-  - Bill To Contact = IBM Ecosystem Project Office
-  - Purchase Order # - Enter PO Number (see "PO" column)
-  - Payment Term = Net 60
-  - Start Date = Date of Transaction Notification Email
-  - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
-4. Generate Order Form (OF) with IBM margin included as per https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9). Be sure to use the Standard Order Form quote template.
-5. Attach the following to the opportunity:
-  - Screenshot of email notification from IBM noting that the transaction has closed from IBM
-  - IBM spreadsheet with necessary transaction details
-    - Includes: Order Number, Term, PO Number, Product Sold, Quantity, Total Price
-  - Make sure the generated OF is attached
-6. Chatter Sales Support with links to IBM Email notification, IBM spreadsheet, and Order Form.
-7. Once completed, submit the opportunity for approval.
-If the IBM deal contain negotiated terms (non-standard margin, price-lock etc.) those terms will be added by Legal team to an SOW contract that needs to be signed by IBM.
+1. When IBM have closed the deal, an IBM contact will send order confirmation and details to Partnersupport@gitlab. The Alliance Operations team monitors this email alias.
+2. For a step by step process, please follow the [IBM (OEM) Partner Requests & QTC Process](https://docs.google.com/document/d/1m9oh62xnJrPCoYBfz_V3Z5eBttUlXXQw7lqS2BOIHwY/edit#heading=h.kek4euuezf2y).
 
 **Closing the Deal:**
 
