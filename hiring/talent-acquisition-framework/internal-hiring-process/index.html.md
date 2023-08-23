@@ -18,8 +18,11 @@ description: "This page discusses the Internal Hiring Process"
       * Job Family specialty changes 
       * Business Impact  (revenue-dependencies, interim role to perm)
       * Business driven transfers (example of realignments)
-      * SDR 12 month in role 
-* Ensure the opportunity aligns with your career goals here at GitLab
+      * SDR 12 months in role 
+* Important things to consider when applying:
+1. Ensure the opportunity aligns with your career goals here at GitLab
+2. Ensure you have discussed compensation and leveling with the recruiter and/or hiring manager for the open role you are interested in and applying for
+3. While you may apply to a role with a higher job grade and title, there may be situations (moving from one job family to another for example) where the higher job grade may not align with your current competencies and skillset that is required for the role. If the hiring team does choose to move forward with an offer, in these cases, it's likely a higher job grade and title will not be given.
 * To apply, visit the [internal job openings](https://gitlab.greenhouse.io/internal_job_board). If you are interested in keeping an eye on openings that are posted you can also join the #newvacancy channel in Slack.
 * For any questions you have about internal hiring or questions specific to your individual interview process you can either:
    * Create an [issue](https://gitlab.com/gitlab-com/people-group/internal-hiring/-/issues?sort=created_date&state=opened) in the [hiring process repo](/gitlab-com/people-group/internal-hiring).
