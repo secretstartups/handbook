@@ -186,6 +186,8 @@ Go to your terminal to configure the AWS CLI to use the IAM Access Key:
 A [bootstrap script](https://gitlab.com/gitlab-org/charts/gitlab) has been created to setup an easier and automated cluster creation using Cloud Formation.
 Clone this project locally and navigate to `gitlab/scripts` and execute `./eks_bootstrap_script up`. This script will use a CloudFormation stack to deploy all the required resources for your cluster so it will take a while to complete. After successful completion you will see something similar this output:
 
+**NOTE:** If the Kubernetes cluster version is `>= 1.23`, you must run `./eks_bootstrap_script add_ebs_csi_driver` **prior to** deploying GitLab to the cluster.
+
 ```shell
 2022-07-18 16:47:40 [ℹ]  node "ip-192-168-63-211.us-east-2.compute.internal" is ready
 2022-07-18 16:47:41 [ℹ]  kubectl command should work with "/Users/cats/.kube/config", try 'kubectl get nodes'
