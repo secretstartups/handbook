@@ -155,7 +155,7 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 | ------ | ------ |------ |------ |------ |------ |------ |
 |Red*	|3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		If applicable|	Yes|	If applicable| Yes |
 |Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|	Yes|		Yes|	Yes|	Yes| Yes |
-|Orange Professional Services | 3rd Party Attest or SIG (See Below)|		N/A|	N/A| N/A|	N/A| N/A|
+|Orange Professional Services | 3rd Party Attest or SIG Prof Svcs|		N/A|	N/A| N/A|	N/A| N/A|
 |Yellow/Green**	|-|	-|	-|	Yes*|	-| - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details. 
@@ -164,7 +164,7 @@ Software is inventoried in the tech stack regardless of data classification. See
 
 The Security Risk team has established approval windows dictating the lifecycle of our TPRM assessments and their reliance in approving requisitions, after which a new assessment must be completed prior to approval of subsequent requisitions to ensure continued adherence to GitLab's regulatory and due diligence requirements. These windows are defined in alignment with the sensitivity of data shared and the nature of the associated requisition. <br>
     - **Red and Orange Vendors:** Vendors being transmitted Red or Orange data are subject to a 12-month approval window from the previous assessment, with the exception of Low Risk Orange Vendors defined below.<br>
-    - **Low-Risk Orange Vendors** Vendors receiving Orange data elements limited to GitLab Teammember PII are subject to a 24-month approval window. An example may be a SWAG provider that receives GitLab employee names and addresses for the purposes of delivering shipments. The transmission of GitLab Teammember PII does not present a Security Risk that could impact GitLab customers.
+    - **Low-Risk Orange Vendors** Vendors receiving Orange data elements limited to GitLab Team Member personal data are subject to a 24-month approval window. An example may be a SWAG provider that receives GitLab employee names and addresses for the purposes of delivering shipments. The transmission of GitLab Team Member personal data does not present a Security Risk that could impact GitLab customers.
 <br>
 Requisitions must be reviewed to determine whether a scope change has occurred since the previous assessment that could indicate a material change in the data transmitted to the vendor. Examples of material changes are defined in the above **TPRM Assessment Requirements** section and may result in the need to perform a new review regardless of the above-defined approval windows. Questions or concerns regarding the materiality of a change or the appropriate approval window should be escalated to the Security Risk Manager within the #Sec-Assurance-Team channel.
 
@@ -211,7 +211,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 <details>
 <summary markdown="span">Professional Services SIG</summary>
 
-- Professional Services SIG
+- SIG Professional Services 
     - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a system being transmitted sensitive GitLab data. In these cases it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
     - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
         - D. Asset and Info Management
