@@ -30,7 +30,7 @@ At GitLab we value asynchronous working relationships, that's why all of our Par
 | Value Pitches    | Product Knowledge  | Service Development      |
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Training for all Partner Learners</span>
-We reccommend that every learner begin their journey with GitLab, by taking the GitLab Foundations course. This fundamental course will give you and introduction to the GitLab product, licensing model, and how to transact with GitLab. 
+We reccommend that every learner begin their journey with GitLab, by taking the GitLab Foundations course. This fundamental course will give you and introduction to the GitLab product, licensing model, and how to transact with GitLab.
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Training for Sales Professionals</span>
 
@@ -38,12 +38,12 @@ We reccommend that every learner begin their journey with GitLab, by taking the 
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Sales Professional</span>
 
-The GitLab Sales Professional Learning Pathway is ideal for Account Executives and Sales Engineers. Learn about the core features, use cases and solutions that GitLab provides. The GitLab Sales Professional contains 4 courses: GitLab Foundations, Understanding DevSecOps, GitLab Customers, Pitching GitLab. Each course contains 3-5 lessons and knowledge checks. There is a final exam at the end of the learning pathway, upon passing learners will be awarded the GitLab Sales Professional Accreditation. 
+The GitLab Sales Professional Learning Pathway is ideal for Account Executives and Sales Engineers. Learn about the core features, use cases and solutions that GitLab provides. The GitLab Sales Professional contains 4 courses: GitLab Foundations, Understanding DevSecOps, GitLab Customers, Pitching GitLab. Each course contains 3-5 lessons and knowledge checks. There is a final exam at the end of the learning pathway, upon passing learners will be awarded the GitLab Sales Professional Accreditation.
 
 
-After completing this training, learners will be familiar with GitLab's core usecases, ideal customer profile and buyer personas, and how to pitch the DevSecOps platform story. 
+After completing this training, learners will be familiar with GitLab's core usecases, ideal customer profile and buyer personas, and how to pitch the DevSecOps platform story.
 
-This learning pathway takes approximately 3 hours to complete. 
+This learning pathway takes approximately 3 hours to complete.
 
 
 
@@ -54,7 +54,7 @@ This learning pathway takes approximately 3 hours to complete.
 
 This fundamental course is designed for pre-sales technical professionals such as Solutions Architects or Sales Engineers and goes in depth demonstrating, deploying, integrating, and optimizing GitLab Solutions. The GitLab Solutions Architect Core meets the program requirements for pre-sales technical accreditation.
 
-**Course Content Summary** (approx 40 minutes to complete
+**Course Content Summary** (approx 40 minutes to complete)
 - GitLab Integrations
 - Technical Deep Dive
 
@@ -64,12 +64,12 @@ This fundamental course is designed for pre-sales technical professionals such a
 
 ### <span class="colour" style="color: rgb(56, 13, 117);">GitLab Partner Technical Engineer (PTE)</span>
 
-GitLab Partner Technical Engineer (PTE) accreditation is a technical deep dive to help partners validate their ability to deliver implementation, migration, and consulting services to customers. This accreditation consists of six modules. Upon completion learners will possess the skills needed to deploy the GitLab Platform, migrate data to GitLab, and provide workflow advisory services for customers. 
+GitLab Partner Technical Engineer (PTE) accreditation is a technical deep dive to help partners validate their ability to deliver implementation, migration, and consulting services to customers. This accreditation consists of six modules. Upon completion learners will possess the skills needed to deploy the GitLab Platform, migrate data to GitLab, and provide workflow advisory services for customers.
 
 
-The Partner Technical Engineer learning pathway consists of 6 courses: Git Essentials, Project Management, CI/CD, Security, Implementation, and migration. There is a final exam at the end of the learning pathway, upon passing learners will be awarded the GitLab Partner Technical Engineer Accreditation. 
+The Partner Technical Engineer learning pathway consists of 6 courses: Git Essentials, Project Management, CI/CD, Security, Implementation, and migration. There is a final exam at the end of the learning pathway, upon passing learners will be awarded the GitLab Partner Technical Engineer Accreditation.
 
-This learning pathway takes approximately 6 hours to complete. 
+This learning pathway takes approximately 6 hours to complete.
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Accessing Training Materials </span>
@@ -83,14 +83,14 @@ All enablement materials can be accessed via the GitLab Partner Portal. Job aide
 To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a separate login or credentials to access the GitLab Training Portal from the Partner Portal.
 
 ## For Alliance Partners ##
-To sign up for any of the courses listed on this page, please visit the [Alliance Partner Learning Dashboard](https://levelup.gitlab.com/alliance-partner) and enter the unique validation code provided to you via your SA and/or ABDM. 
+To sign up for any of the courses listed on this page, please visit the [Alliance Partner Learning Dashboard](https://levelup.gitlab.com/alliance-partner) and enter the unique validation code provided to you via your SA and/or ABDM.
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Badge Award Process</span>
 GitLab uses Credly to award our Technical Certifications and Accreditations. Once you have successfully completed all components of an Accreditation or Certification, you will receive an email notification from Credly. You will need to accept the badge. Once you accept the badge, you will be able to share your badge, attach your badge to your email, and attach your badge to your LinkedIn profile.##Please note that it can take 7-10 business days for your completion to be reflected in the partner portal.## Please refer to the below links to assist you in managing your badge(s):
 
 - [Accepting a Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/4/nw0aGmV6G5Esfsk-xF_4sA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvc2VjdGlvbnMvMzYwMDAzMjA1MDcyLS1BY2NlcHRpbmctYS1CYWRnZQ)
-- [Sharing your Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/5/ZKE61sST9_rPpsj-lUbkwg/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIwOTY0MjcyLUhvdy1kby1JLXNoYXJlLW15LWJhZGdlLQ) 
+- [Sharing your Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/5/ZKE61sST9_rPpsj-lUbkwg/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIwOTY0MjcyLUhvdy1kby1JLXNoYXJlLW15LWJhZGdlLQ)
 - [Attach your Credly badge to your email signature](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/6/ZnaKBtuiWTTM1pqvhYwqIQ/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNjkxLUNhbi1JLWF0dGFjaC1teS1iYWRnZS10by1teS1lbWFpbC1zaWduYXR1cmUt)
 - [How to add your Credly badge to your LinkedIn profile](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/7/m68qrTeXEYBjC2rF1uBYmA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvYXJ0aWNsZXMvMzYwMDIxMjIxNDkxLUhvdy1jYW4tSS1hZGQtbXktYmFkZ2UtdG8tbXktTGlua2VkSW4tcHJvZmlsZS1hbmQtc2hhcmUtdG8tbXktZmVlZC0)
 - [How to add a secondary email address to your Credly profile](https://support.credly.com/hc/en-us/articles/360021220951-Can-I-add-multiple-emails-to-my-account-#:~:text=Click%20on%20the%20profile%20icon%20at%20the%20top%20right%2Dhand,email%20the%20primary%20email%20address.)
