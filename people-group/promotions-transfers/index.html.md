@@ -10,16 +10,16 @@ description: "Information and protocols related to GitLab promotions and transfe
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Introduction
+# Introduction
 
 Developing talent internally is a key component of our success at GitLab, and our promotion and transfer process is built to support that development in alignment with our [values](https://about.gitlab.com/handbook/values/). Team members have two main avenues to pursue career advancement at GitLab: 1) Via our cyclical [promotion calibration process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#calibration), and 2) by applying and interviewing for open positions. 
 
 We encourage team members to take control of their own career advancement, and are empowered to own their development.  Team members are encouraged to utilize the  [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan) as a tool to articulate and align with their manager on the skills they want to develop as they think about growing into a different or larger role.
 This page captures information about transfers, promotions, realignments and career mobility.
 
-## Definitions
+# Definitions
 
-**Internal Mobility**
+### Internal Mobility
 
 Internal mobility is the process by which team members move into open positions at GitLab. When a position is open and posted on the career site via Greenhouse, and then filled by a current GitLab team member, it is classified as ‘internal mobility’. Similar to filling a role with an external candidate, internal team member candidates will also follow the same Greenhouse hiring steps and experience a full interview process to enable an informed hiring decision. All open positions should be posted to allow for equal opportunity for consideration. 
 
@@ -45,13 +45,11 @@ Internal mobility opportunities are dependent on [employee eligibility](https://
 
 At times, the business may need to change job attributes such as the direct manager or department. These changes may be a result of consolidating teams, creating new departments, or moving team members to report to a new manager. These types of changes are specified as job attribute changes and don’t meet the definition of internal mobility, and can be initiated by the current manager via Workday.  
 
-**[Promotion Definitions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#workday-promotion-approval-process)**
+### Promotions
 
 **In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
 
 **Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
-
-# Promotions
 
 
 # Promotion Philosophy
