@@ -533,7 +533,7 @@ See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21c
 
 ### Release 16.6 and later - Product Development Timeline
 
-This section is for release 16.6 and later. For releases up to and including 16.5, please see the [previous Product Development Timeline](#product-development-timeline).
+This section is for release 16.6 and later. For releases up to and including 16.5, please see the previous [Product Development Timeline](#product-development-timeline).
 {: .alert .alert-gitlab-orange}
 
 [![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
@@ -584,9 +584,9 @@ All other important dates for a milestone are relative to the release date:
 - **Friday immediately after release day**:
   - The patch release process for the milestone starts. This includes regular and security patch releases.
   - All of the milestone's unfinished issues and merge requests are automatically moved to the next milestone, with the exception of `~security` issues.
-- **Monday immediately following the release day**:
+- **The first Monday after the release date**:
   - Moderator opens the [Retrospective planning and execution issue](#retrospective).
-- **From the Monday immediately following the release day to the Wednesday of the next week (~9 days)**:
+- **From the first Monday after the release day to the Wednesday of the next week (~9 days)**:
   - Assignees of [Group Retrospective issues](#retrospective) summarize the discussion, ensure corrective actions are taken and a DRI is assigned to each. Actions related to participation in [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4) are taken.
 - **On or around the Wednesday immediately following the release day**:
   - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
@@ -624,6 +624,16 @@ Each retrospective consist of three parts:
 - `M+1, 6th`: Retrospective Discussion is held.
    - OR, the next Monday if `M+1, 6th` falls in a weekend.
    - OR, the 2nd working day after `M+1, 6th` if `M+1, 6th` is a holiday.
+
+**Timeline - Release 16.6 and later**
+
+- **Wednesday, 11 days after the milestone begins**: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
+- **Wednesday, the day before the release date**: Group Retrospectives should be held.
+- **The first Monday after the release date**: Moderator opens the Retrospective planning and execution issue and communicates a reminder in R&D quad slack channels.
+- **From the first Monday after the release day to the Wednesday of the next week (~9 days)**: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
+- **Thursday, 14 days after the release date**: Moderator records the Retrospective Summary video and announces the video and discussion topics.
+- **Monday, 18 days after the release date**: Retrospective Discussion is held.
+   - OR, the 2nd working day after if this is a holiday.
 
 **Moderator**
 
@@ -698,14 +708,14 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 **Steps for participants**
 
 1. Suggest discussion topics by commenting on to the Retrospective planning and execution issue.
-1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on `M+1, 3rd`.
-1. Once discussion topics are announced on `M+1, 4th`, begin adding your comments to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on `M+1, 3rd` (for release 16.6 and later, this is the **Wednesday, 13 days after the release date**).
+1. Once discussion topics are announced on `M+1, 4th` (for release 16.6 and later, this is the **Thursday, 14 days after the release date**), begin adding your comments to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. During the Retrospective Discussion, be prepared to verbalize any improvement tasks or commentary on the discussion topics. If you can't make the meeting and there is an item for you to verbalize, please ask someone else on your team to attend to do so.
 
 **Steps for the moderator**
 
 1. In the Retrospective planning and execution issue, create a thread asking participants to suggest and vote on topics.
-1. Voting ends at the close of business on `M+1, 3rd`. Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
+1. Voting ends at the close of business on `M+1, 3rd` (for release 16.6 and later, this is the **Wednesday, 13 days after the release date**). Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
 1. Announce the discussion topics alongside of the Retrospective Summary video in the Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit)
 1. Ensure the Retrospective Discussion calendar invite is sent to participants by coordinating with the VP Development.
 1. Host the Retrospective Discussion and press livestream to YouTube.
