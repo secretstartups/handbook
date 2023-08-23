@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### GitLab Administration on SaaS
-##### August 22nd, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_dfF6s_rXQOmoccdJdV_-Ag#/registration)
-
 #### DevSecOps/Compliance
 ##### August 29th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -53,13 +46,6 @@ In this workshop we will focus on how you can secure your application with GitLa
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uYuCYvuhTV-raOnUaPStlg)
 
 ### EMEA Time Zone Webinars
-
-#### GitLab Administration on SaaS
-##### August 22nd, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-
-Learn how to manage groups, projects, permissions, and more as you embark on your journey as an Owner in GitLab SaaS. In this session, you will learn what you can and cannot control and customize on the SaaS platform, and come out a SME in administration.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Rj389Kp-Tr-8P8v8QdRDmA#/registration)
 
 #### DevSecOps/Compliance
 ##### August 29th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
