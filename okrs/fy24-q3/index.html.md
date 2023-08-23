@@ -37,7 +37,7 @@ The source of truth for GitLab OKRs and KRs is [GitLab](https://gitlab.com/gitla
 ### 1. CEO: [Continue to win against GitHub with AI](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3724)
 1. **CEO KR**: [Drive AI usage with X daily unique code suggestion users and a y% acceptance rate](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3728)
 1. **CEO KR**: [Launch project Hamilton](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3729)
-1. **CEO KR**: [X% of R&D, Y% of GTM, and Z% of G&A team members complete a Dev Tool (GH) versus AI-powered DevSecOps Platform (GL) messaging certification](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3730)
+1. **CEO KR**: [Functions achieve their their individual goals for team members completing a Dev Tool (GH) versus AI-powered DevSecOps Platform (GL) messaging certification](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3730)
 
 ### 2. CEO: [Reduce churn and contraction by delivering predictable high value to customers](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3725)
 1. **CEO KR**: [Reduce churn and contraction to 70% of the ATR as compared to FY23-Q4](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/3731)
