@@ -174,17 +174,23 @@ Please find pages for potential and active applicants below.
 #### Interview Stages
 
 <details>
-<summary markdown="span">Screening Stage</summary>
+<summary markdown="span">Stages Overview</summary>
 
-  * [Screening Stage guidelines](/handbook/hiring/talent-acquisition-framework/req-overview/#screening)
-  * All phone screens are scheduled through Calendly by the Recruiter. [Click here](https://support.greenhouse.io/hc/en-us/articles/360029649991-Calendly-integration#h_01GM3H27VBN66APNFCBP7HKRM0) for instructions on how to set up the Calendly-Greenhouse integration. All Recruiters have a Calendly subscription through the Talent Acquisition plan, so please check with Enablement if you don’t have one.
-  * Even if you know you won’t hire the candidate, recruiters should always put scorecards into Greenhouse within 24 hours of a screen. Should that candidate apply again, other recruiters will want to review your notes.
-  * To maintain privacy and confidentiality for the candidate, all mention of salary or personal information should be recorded as private notes. Salary information should never be written in a candidate’s scorecard. If a candidate discloses information about being part of a protected class, such as their ethnicity, current pregnancy, or sexual orientation, refrain from writing any notes referencing this.
-  * Click [here](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) to find where some of your potentially confidential information about a candidate can be placed.
+Please note that the names of stages is important, and we should only have stages with the names listed below. Anything outside of these stages will not appear on reporting. 
+
+Scorecards are required in all stages that require interviews. Confidential, personal information and disclosures about being part of a protected class are never to be written in scorecards. Recruiters can add salary information into Private Notes outside of the scorecard to maintain confidentiality.
+
+  * **Get to Know Us:** This is an application review stage. 
+  * **Qualified:** This is the stage where positive applications will be triaged. Candidates can wait here to be scheduled for interviews, to ensure the right mix of well-qualified candidates are screened at the right times.
+  * [**Screening:**](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) Phone or video interview with a recruiter, scheduled through Calendly.
+  * [**Assessment:**](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan) This is an optional stage where written assignments can be submitted. Learn more [here](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan). 
+  * **Initial Interview:** This is the first video interview with a member of the team, which helps determine if they will move forward to additional interviews. This stage ensures we are utilizing the interviewers' and candidates' time thoughtfully, and is typically either a Hiring Manager or Technical interview.
+  * [**Team Interview:**](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview) All other team interviews live here. 
+  * [**Debrief:**](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#debrief) This will come after the reference check stage for Engineering requisitions, because the reference checks will be initiated as the Justification (R&D's process for the Debrief stage) is initiated. For non-Engineering departments, this will be a holding stage where candidates wait until a decision is made, to track the time it takes for us to reach a decision on a candidate who has completed their interviews. You can learn more about Engineering's Justification process [here](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#debrief). 
+  * [**Reference Check:**](https://about.gitlab.com/handbook/hiring/#offers-and-closing-reqs) The reference check stage can sometimes be done in tandem with the Debrief and Background Check and Offer stages. They can be completed by the Hiring Manager or Recruiter.
+  * [**Background Check and Offer:**]((https://about.gitlab.com/handbook/hiring/#offers-and-closing-reqs)) Recruiters move candidates into this stage once they're ready to receive their verbal offer. Before that time, this stage is where an offer is prepared and goes through approvals. This is the final stage in the process.
 </details>
 
-- [Assessments](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan)
-- [Team Interview](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview)
 <details>
 <summary markdown="span">Scheduling tools in Greenhouse</summary>
 
