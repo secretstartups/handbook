@@ -174,7 +174,7 @@ In addition, Managers can create an Engagement Survey Action Issue that links to
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4199)
 - [Finance](https://gitlab.com/groups/gitlab-com/-/epics/2216)
 - [People](https://gitlab.com/groups/gitlab-com/-/epics/2220)
-- Legal
+- [Legal & Corporate Affairs](https://gitlab.com/groups/gitlab-com/-/epics/2223)
 - [CISO](https://gitlab.com/groups/gitlab-com/-/epics/2196)
 
 ### FY'23 Pulse Engagement Survey
@@ -217,7 +217,7 @@ See the [example epics](https://about.gitlab.com/handbook/people-group/engagemen
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3130)
 - [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
 - [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/98)
-- [Legal](https://gitlab.com/groups/gitlab-com/-/epics/1898)
+- [Legal & Corporate Affairs](https://gitlab.com/groups/gitlab-com/-/epics/1898)
 
 #### Resources for Managers
 
@@ -348,7 +348,7 @@ See the examples from FY21' for the [Product](https://gitlab.com/gitlab-com/Prod
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2513)
 - [Finance](https://gitlab.com/groups/gitlab-com/Finance-Division/-/epics/7)
 - [People](https://gitlab.com/groups/gitlab-com/people-group/-/epics/89)
-- [Legal](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/717)
+- [Legal & Corporate Affairs](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/717)
 
 #### Resources for Managers
 
