@@ -19,11 +19,37 @@ This page captures information about transfers, promotions, realignments and car
 
 ## Definitions
 
-- **In-Line Promotions** occur when a team member increases in level within the same job family. For example, a Backend Engineer is promoted to a Senior Backend Engineer. Similarly, a Senior Backend Engineer would receive an in-line promotion by moving to a Staff Backend Engineer or Manager, Engineering.  This process is managed by the PBP and the functional leadership team and referred to as the Calibrated Promotion Process which is performed on a cyclical basis (twice per year).  
-- **Promotions** occur when a team member increases in level while also changing job families. For example, a Backend Engineer transfers to a Sr. Site Reliability Engineer.  Generally these occur based on an open requisition and application process via Greenhouse. 
-- **Transfers** occur when a team member changes positions but does not increase in level. For example, a Backend Engineer would transfer to a Site Reliability Engineer. Generally these happen based on an open requisition and application process via Greenhouse. 
-- **Change in specialty** has no impact on the job level or family and is therefore not considered a promotion or a transfer. For example, a Backend Engineer with a specialty Plan: Knowledge that will change specialty to Create:Source Code.
+**Internal Mobility**
 
+Internal mobility is the process by which team members move into open positions at GitLab. When a position is open and posted on the career site via Greenhouse, and then filled by a current GitLab team member, it is classified as ‘internal mobility’. Similar to filling a role with an external candidate, internal team member candidates will also follow the same Greenhouse hiring steps and experience a full interview process to enable an informed hiring decision. All open positions should be posted to allow for equal opportunity for consideration. 
+
+The type of action resulting from receiving an offer for an open role following the Greenhouse hiring process will depend on the changes in level and job scope:
+
+- If a team member applies for and accepts a position at the same grade, it most likely will be considered a “lateral transfer’ and may or may not result in a change in compensation.   Some job families differ in their job grading, and when a team member moves to a new role, a review of the job level, family, and scope will determine if this is indeed a lateral move. 
+- If a team member applies for and accepts a position at a higher grade, it most likely will be considered a “promotion” and will result in a change in compensation and/or promotional stock grant.  Some job families differ in their job grading and when a team member moves to a new job family, a review of the level and job scope will determine if this is indeed a promotion.
+- If a team member applies for and accepts a position at a lower grade, it most likely will be considered a “demotion” and may or may not result in a change in compensation.  Some job families differ in their job grading and when a team member moves to a new job family, a review of the level and job scope will determine if this is indeed a demotion.    
+
+Upon applying for a new role, it’s recommended that team members understand the impact of the change based on their current job grade and family.
+
+Note: If a team member wishes to move from an Individual Contributor to a Management position, the position must be posted and follow the normal hiring process steps to ensure all interested candidates have the chance to apply. This provides an equitable and transparent process for everyone.  
+
+Internal mobility opportunities are dependent on [employee eligibility](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/internal-hiring-process/#team-member-responsibilities) and available open headcount.  
+
+* Timelines
+  * Based on an open requisition and [internal hiring process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/internal-hiring-process/) via Greenhouse. 
+  * All positions must be open for a minimum of 5 calendar days.
+  * At least 2 interviews must be completed before moving to an offer for a candidate internal or external.  
+  * If there is a change in compensation, the start date should fall on the start of a pay period aligned with the team member’s country. If the team is in a commissions role, the start date should always align with the first of the month.
+
+**Job Detail Changes Due to Business Requirements or Reorganizations**
+
+At times, the business may need to change job attributes such as the direct manager or department. These changes may be a result of consolidating teams, creating new departments, or moving team members to report to a new manager. These types of changes are specified as job attribute changes and don’t meet the definition of internal mobility, and can be initiated by the current manager via Workday.  
+
+**[Promotion Definitions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#workday-promotion-approval-process)**
+
+**In-Cycle Promotions:**  An in-cycle promotion is any individual that is within the same job family, and has a similar but increased job scope. A promotion is not necessarily defined with a new grade due to differences in job families. This process does not require interview(s), does not create backfill headcount and occurs semi-annually through the calibrated promotion process. All in-cycle promotions are processed in **Workday and not in Greenhouse.**  
+
+**Internal Mobility Promotions:**  Internal Mobility promotions occur when a team member applies for an open position and accepts a role at a higher grade/job responsibilities when compared to their current role.  
 
 # Promotions
 
@@ -269,43 +295,6 @@ We have built in a few additional touchpoints into the company-wide [promotion c
 1. As soon as the direct Managers confirm they have received and reviewed the feedback summary document provided by the Indirect Manager, the Indirect Manager should share the summary with CTO Staff (I.E. CTO direct reports) via the `cto-leadership@gitlab.com` email alias, and the Engineering People Business Partners via the `pbp-r-and-d@gitlab.com` email alias to ensure appropriate access is in place ahead of CTO level calibration. **Feedback summary documents should be shared with the aliases above by 2023-07-10 @ 12pm PT latest.**
 1. Week of 2023-07-10: CTO Calibration, Promotions Approved within Engineering and submitted for final company approval and processing
 1. Upon final [approval of promotions](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline): The direct manager will provide a consolidated summary of the themes collected in the promotion feedback process to the team member directly. The goal of this conversation is to aid in the ongoing growth of the team member and should be presented in a way that provides the team member with actionable insights for development. Unless specifically agreed upon with the team member who provided feedback, feedback should be presented thematically vs directly attributable. The Indirect Manager who collected the feedback should plan to meet with the direct manager to share the findings. Managers should plan to discuss promotion feedback with all promotion candidates for whom feedback was solicited, not just those whose promotions were approved. If a promotion was not approved, the collective feedback from calibration and the promotion feedback process should inform a discussion about growth areas for the team member to focus on to be more ready for future promotion.
-
-### Transfers: Greenhouse or Workday
-
-#### Greenhouse
-
-The following types of promotions/transfers can be processed through Greenhouse:
-- Interim Roles: Interim roles at all levels should go through the Greenhouse interview process (regardless of the number of applicants for the role). 
-    - Example: Senior Backend Engineer applies to become a Manager, Engineering (interim)
-- Lateral Transfers to a new job family and new department: apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
-    - Example: Backend Engineer applies to a Site Reliability Engineering role.
-- Change in territory, segment, or specialty that requires a change in job family or level, change in compensation or stock adjustment or requires a backfill request: Apply and approval through the Greenhouse [hiring process](/handbook/hiring/).
-- Promotions or Applications to Manager level roles: Any Manager role should be opened via Greenhouse for team members to apply unless the manager role is not a net new headcount but a continuation of someone's career progression. If it is a continuation of career progression, it can be processed via Workday but will need to be calibrated as a part of the Twice Per Year Promotion cycle. This could for example apply if there's not a significant change in scope, or the team member has been identified and there are no other qualified candidates for that role. Whether an interim period should apply for the promotion when there's not a significant change of scope, will be determined by the manager, Department Head and People Business Partner for that group. 
-
-#### Workday
-
-The following types of transfers can be processed through Workday:
-- Lateral Transfers can be processed through Workday when the following conditions are met:
-    1. Role _not_ net new
-    2. Compensation remains _unchanged_
-    3. Job family is within the team member's current department (Example: Backend Engineer changes job title to Fullstack Engineer within the Development department)
-    4. Role is an individual contributor position (not a people management role)
-
-Rationale for this scenario could be that responsibilities have shifted and the goal is to map job title more closely to the actual day-to-day responsibilities of the team member. This process can be initiated by the team member directly or by the team member's manager.
-
-Steps:
-1. Manager to document how the team member is (and will continue to) execute in their current role more closely aligned with the requested job family
-2. Share documentation through department head level for review and approval
-3. Share documentation with aligned People Business Partner for review and approval 
-4. PBP to submit request in Workday (please link document with justification for reference and ensure it is accessible by `people-connect@gitlab.com`)
-5. People Connect to process and determine whether a Letter of Adjustment is needed to accompany the change
-
-#### Greenhouse Process Requirements
-
-For any transfer being submitted through Greenhouse [hiring process](/handbook/hiring/), the following is required:
-
-- The positions must be open for a minimum of 5 calendar days
-- There must be a minimum of 2 interviews completed before moving to an offer for a candidate
 
 ## Hiring for VP+ Roles
 
