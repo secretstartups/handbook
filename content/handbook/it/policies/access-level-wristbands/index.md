@@ -3,15 +3,9 @@ title: "Access Level Wristband Colors"
 description: "We provision different levels of access to systems at GitLab based on your role and user type. Our Access Level Categories, also referred to as wristband colors (BLUE, PURPLE, BROWN, BLACK), provide an easy color reference of which level of access each account has, and allows us to easily audit and manage controls and processes for each category."
 ---
 
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
+{{< panel header="**This is a Controlled Document**" header-color="white" header-bg="danger" >}}
 Inline with GitLab's regulatory obligations, changes to <a href="https://about.gitlab.com/handbook/security/controlled-document-procedure.html">controlled documents</a> must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
+{{< /panel >}}
 
 ## Purpose
 
@@ -67,9 +61,9 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
     </tr>
     <tr>
         <td><span style="color: #808080; background-color: #3f3f46; padding: 3px;">GRAY</span></td>
-        <td><ul>
-            <li>Secondary account</li>
-        </ul></td>
+        <td>
+            Secondary account
+        </td>
         <td><ul>
             <li>Certain SFDC Users</li>
             <li>Different permission/role level (non-admin) accounts</li>
@@ -82,7 +76,6 @@ We have completed the colors of the rainbow with our <strong>Access Level Catego
             <code>{handle}+test-{purpose}@gitlab.com</code><br />
         </td>
     </tr>
-
     <tr>
         <td><span style="color: #ffffff; background-color: #854d0e; padding: 3px;">BROWN</span></td>
         <td>Specific app role(s) and permissions</td>
@@ -132,7 +125,7 @@ For team members in Infrastructure, IT, Security, or other departments with elev
 
 ### GRAY
 
-Gray accounts are secondary user accounts when required for a specific appllication function, different role, or test account.  
+Gray accounts are secondary user accounts when required for a specific appllication function, different role, or test account.
 
 The user must also have an active Blue or Purple account.
 
