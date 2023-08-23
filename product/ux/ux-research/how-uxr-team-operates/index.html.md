@@ -27,7 +27,7 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 | Section: Stage Groups | Assigned DRI |
 |---------|-------------------------------|
 | **Enablement**: Distribution, Geo, Application Performance, Global Search, Tenant Scale <br>**SaaS Platforms**: GitLab Dedicated, US Public Sector Services, Delivery, Scalability <br>**CD**: Deploy <br>**Service Management**: Respond <br>**Analytics**: Observability | [Will Leidheiser] |
-| **Fulfillment**: Purchase, Utilization, Fulfillment Platform, Billing & Subscription Management, Provision <br>**Analytics**: Product Inteligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Enablement| [Nicholas Hertz] |
+| **Fulfillment**: Purchase, Utilization, Fulfillment Platform, Billing & Subscription Management, Provision <br>**Analytics**: Product Inteligence, Product Analytics <br>**ModelOps**: AI Assisted, AI Framework| [Nicholas Hertz] |
 | **Manage**: Authentication & Authorization, Import, Foundations | [Ashley Knobloch] |
 | **Plan**: Project Management, Product Planning, Optimize, Knowledge | [Danika Teverovsky]|
 | **Secure**: Static Analysis, Dynamic Analysis, Composition Analysis, Vulnerability Research <br> **Govern**: Security Policies, Threat Insights, Compliance | [Michael Oliver] |
