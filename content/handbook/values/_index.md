@@ -388,6 +388,8 @@ We value the ability to maintain focus and motivation when work is tough and ask
 
 It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with (1) questions (to ensure understanding) *and* (2) suggestions for solutions / improvement to the group that can take action.  We don't make general complaints without including and supporting the groups that can effect change. Success with transparency almost always requires effective [collaboration](#collaboration).
 
+An example of our bias for action can be seen in our [Follow the Sun Coverage model](https://about.gitlab.com/handbook/engineering/development/#follow-the-sun-coverage).
+
 ##### Disagree, commit, and disagree
 
 Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
