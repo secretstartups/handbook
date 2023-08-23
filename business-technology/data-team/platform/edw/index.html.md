@@ -442,6 +442,55 @@ Note: The number of fields to be shown for each of the entity can easily be modi
 
 More details coming soon...
 
+## Entitlement
+
+To facilitate the use of row level security in both Snowflake and Tableau a schema dedicated for entitlement tables, a mapping between the user or role and the records they are allowed to see, is used.  The tables in this schema follow a standard form but are not limited to an exact structure.  The purpose of these tables is to be joined to other tables in such a way that at query time the second table will be limited to the appropriate records for the runner of the query.
+
+### Naming  
+
+The name of the entitlement table should direct users to the other table or tables that it should be used in combination with as well as the application it should be used with. Documentation for exactly what tables the entitlement table should be used for can be found in the data warehouse model [documentation](https://dbt.gitlabdata.com/#!/overview).  For example an entitlement table that would be used with the `mart_team_member_directory` table in Tableau would be named `ent_team_member_directory_tableau`.
+
+
+### Form
+
+Each entitlement table must have at least two columns: a join key that will connect to an other table and represents a subset of records and a column representing a Tableau user or Snowflake role.  The column that is used to join to an other table should be named the same as it is in that table to make it easier to user the correct table.  The values in the column that is used as a join key should represent the values of that column in the corresponding table.  The column or columns that represent the Tableau users or Snowflake roles should be named to match.
+
+Every combination of user and join key must be explicitly included in as row in the table.
+
+
+### Example
+
+If row level security is to be implented on the `mart_team_member_directory` table diretly in Snowflake then the following table would be created:
+
+`ent_team_member_directory_snowflake`
+
+
+| cost_center   | snowflake_role |
+|---------------|----------------|
+| Cost of Sales | TMEMBER1       |
+| G&A           | TMEMBER1       |
+| R&D           | ANALYST_GROUP  |
+| Marketing     | ANALYST_GROUP  |
+
+Then a [row access policy](https://docs.snowflake.com/en/user-guide/security-row-intro) would be applied to the `mart_team_member_directory` table.
+
+If row level security is to be implented on the `mart_team_member_directory` table in a Data Source in Tableau then the following table would be created:
+
+`ent_team_member_directory_tableau`
+
+| cost_center   | tableau_user            |
+|---------------|-------------------------|
+| Cost of Sales | team_member1@gitlab.com |
+| Cost of Sales | team_member2@gitlab.com |
+| Cost of Sales | team_member3@gitlab.com |
+| G&A           | team_member1@gitlab.com |
+| G&A           | team_member2@gitlab.com |
+| Sales         | team_member1@gitlab.com |
+| R&D           | team_member3@gitlab.com |
+| Marketing     | team_member1@gitlab.com |
+
+Then, using the guidelines outlined in [Tableau Developers Guide](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/#row-level-security), a Data Source and filters would be created.
+
 ## Big Data
 
 Big Data is a concept that we use to understand the limits of data offerings. Generically, Big Data is anything that exceeds or strains our current technical capacity for processing and delivery.  Dealing with Big Data may be less efficient and more costly as new or creative solutions need to be developed and deployed to expand the capabilities of the data offerings.

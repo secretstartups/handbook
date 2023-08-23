@@ -20,6 +20,7 @@ description: "Tableau at GitLab"
 * [Tableau Status Page](https://trust.tableau.com)
 * [Internal Slack channel](https://app.slack.com/client/T02592416/C03RMCEHVCP)
 * [External Slack channel](https://app.slack.com/client/T02592416/C031QE95QJU)
+* [Gitlab Tableau Developer Guide](/handbook/business-technology/data-team/platform/tableau/tableau-developer-guide/)
 
 ## Tableau
 
