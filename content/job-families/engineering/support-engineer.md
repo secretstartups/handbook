@@ -84,6 +84,10 @@ Support Engineers with verified US Citizenship may join the GitLab US Federal Su
 
 There are a number of challenges that are unique when it comes to supporting the customer environments that an engineer may encounter in the Federal space. Some of those challenges may include highly sanitized and redacted troubleshooting information, inability to screenshare or provide screenshots, etc. You can learn more about working on tickets in the US Federal Support portal [here](https://about.gitlab.com/handbook/support/workflows/federal_tickets.html). If you look forward to the aforementioned challenges and meet the requirements for US Federal Support, apply today!
 
+### Support Engineer (Shift)
+
+Responsibilties mirror that of a Support Engineer with the primary variance being that the working hours and on-call shifts do not necessarily align with the traditional working hours of the engineer's region. This role is important for situations where it is not feasible to staff in a "follow the sun" manner.  
+
 #### Requirements
 
 In addition to the above requirements for Global Support Engineers, you will need:
