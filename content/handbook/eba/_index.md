@@ -230,18 +230,6 @@ The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accord
 
 More information can be found [here](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/#performance-indicator)
 
-### Leadership SAT Survey
-
-On a quarterly basis, any Executive at GitLab that has dedicated administrative support via an Executive Business Administrator will receive a survey with a series of questions and a rating scale of 1-5 (5 being excellent) to determine the performance of the EBA team.
-
-Sample Questions:
-
-- Tasks are completed within agreed timeframes, to accurately meet requirements and consistent with GitLab’s policies and procedures.
-- EBA responds to queries in a timely manner based on the urgency of the request
-- EBA knows and keeps Executive(s) informed of all activities and appointments at all times.
-- EBA interacts and communicates clearly with key stakeholders both internally and externally through completion of tasks with little direction
-- EBA proactively seeks feedback on the quality of administrative support and demonstrates an approach of continuous improvement
-
 ## Signature Request procedure
 
 ### When requesting a wet signature for a document(s) please have the following questions answered in advance.
