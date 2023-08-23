@@ -57,7 +57,7 @@ I lead the product marketing team and am interim leading brand, content, design 
 - **Communication**: Slack is preferred and I try to respond as quickly as possible. If we’re in a group thread, make sure to tag me if you want a response. Email is not effective - I use it mostly for external communication. If something is urgent, text me.
 - **Sync vs. Async**: I love both. When I worked in an office, I would collaborate by walking around, so I find it valuable for me and my teammates to be able to have quick impromptu syncs. I also find it valuable to sync in real time for creative collaboration and ideation.
 - **Time of day; day of week**: I’m an early riser, so morning and early afternoons are when I have my best energy for collaboration. By Friday afternoon, though, my brain is jelly.
-- **Scheduling meetings**: My schedule can get a bit nuts, so the best way to find time is to work with the Marketing Leadership Team EBA, Blaire Sullivan.
+- **Scheduling meetings**: My schedule can get a bit nuts, so the best way to find time is to work with the Marketing Leadership Team EBA, Linsea O'Shea.
 
 ## My life outside of work
 
