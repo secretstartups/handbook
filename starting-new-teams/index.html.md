@@ -30,24 +30,13 @@ A dedicated team needs certain skills and a minimum size to be successful. But t
 
 ## Team Construction
 
-Generally engineering teams at GitLab are functional, they are made up of Frontend, Backend, or Fullstack individual contributors and an engineering manager with the same functional background. This is intended to provide scalable hiring capabilities, technical credibility, and career development support for all team members. When hiring at scale, these functionally focussed teams are better able to hire and onboard people as well as supply them with ongoing, clear support. An alternative team construction that could be considered for some circumstances is the **Fullstack Team**.
+Generally engineering teams at GitLab are fullstack, they are made up of Frontend, Backend, and Fullstack individual contributors with a single Engineering Manager. 
 
-Circumstances would include cases where a team:
-* Operates with a single manager and has yet to grow to full capacity.
-* Has been structured this way for efficiency of delivery.
+An alternative team construction that could be considered for some circumstances is the **Functional Team**. This provided benefits while hiring at scale. Over time fullstack teams have become more common.
 
-The goal should still be to move to a functional construction.
+### Functional Team
 
-### Fullstack Teams
-
-A Fullstack Team has Frontend, Backend, and/or Fullstack engineers lead by a Fullstack Engineering Manager. An example of this might be where a product category group has a Frontend and a Backend team, if either of those teams is significantly smaller than the other and, the engineering manager has experience working in both Frontend and Backend, a fullstack team could be considered as a measure of efficiency. It's not the intention of this type of team to remove productive team members for the sake of efficiency, in the scenario above, if there were two managers, care would need to be taken to find the other manager a role within GitLab team.
-
-Examples of Fullstack Teams:
-
-- [Package Team](/handbook/engineering/development/ops/package/)
-- [Acquisition Team](/handbook/engineering/development/growth/acquisition/)
-- [Activation Team](/handbook/engineering/development/growth/)
-- [Geo Team](/handbook/engineering/development/enablement/systems/geo/)
+Functional teams are made up of Frontend, Backend, or Fullstack individual contributors and an engineering manager with the same functional background. This provides for scalable hiring capabilities, technical credibility, and career development support for all team members. When hiring at scale, these functionally focussed teams are better able to hire and onboard people as well as supply them with ongoing, clear support.
 
 ## Team Page Template
 
