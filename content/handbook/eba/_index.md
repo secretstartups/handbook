@@ -57,12 +57,24 @@ Please follow the instructions above for scheduling a call with your customer, p
 1. [Partner Briefing Document](https://docs.google.com/document/d/1BR07oZcLwBOvkdz29mnr8i-rCGov2h3AkxaM036VcvY/edit) should be used for all meetings with Partners  and provided to the EA at the time of the meeting request.  Select file > make a copy to use this template and please make sure it is editable by everyone at GitLab. If you have any questions related to this document, please ping in #eba-team in slack.
     1. In addition to an internal Partner Briefing Document, our CEO and CRO require a Customer/Partner Collaboration Document. This document is shared with the external party. Please make a copy of this [document](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit) and update with Attendees and Agenda. Please ensure it's editable by everyone at GitLab. Please include both the Executive Customer Briefing Document and the Customer Collaboration doc to the EBA with your meeting request.
 
-### E-Group In-Person Customer Visit Requests
+### E-Group / VP In-Person Customer Visit Requests
 
-1. If you would like to request that an E-Group member travel to visit a customer, please review [this template](https://docs.google.com/spreadsheets/d/1HxjfvOSRkZ61s6MGLINCjdgsjlz5AouwIQSPDM4ODrY/edit?usp=sharing) in its entirety to understand expectations.
-    1. Please coordinate with [respective EBA's](https://docs.google.com/presentation/d/1_tRO-5bDjcwUfqsLazfy4AcqeCLe8jOvDl04BHYlhEE/edit?usp=sharing) in aligning on all applicable visit details. If the GitLab team member attending does not have an EBA, please work with them directly on aligning schedules. Please tag applicable EBA's in the #eba-team Slack channel to get the process started.
-    1. Note: It is encouraged that a [briefing document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) has been completed prior to requested Executive attendance for proper background and understanding of priority.
-    1. If you have any questions surrounding this template or process, please reach out to @Jeanette McCarthy (Marketing) or @Alexa Schrauth (Sales).
+If you would like to request that an E-Group member / VP travel to visit a customer, please review [this template](https://docs.google.com/spreadsheets/d/1HxjfvOSRkZ61s6MGLINCjdgsjlz5AouwIQSPDM4ODrY/edit?usp=sharing) in its entirety to understand expectations.
+- Please coordinate with [respective EBAs](https://docs.google.com/presentation/d/1_tRO-5bDjcwUfqsLazfy4AcqeCLe8jOvDl04BHYlhEE/edit?usp=sharing) on aligning all visit details. If the requested GitLab Executive does not have an EBA, please work with them directly. Please tag applicable EBAs in the #eba-team Slack channel to get the process started.
+- Note: It is encouraged that an [Internal Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) has been completed prior to requesting. Executive attendance to ensure proper background and prioritization.
+- If you have any questions regarding this process, please contact Alexa Schrauth, Sr. EBA - Sales, or Jeanette McCarthy, Sr. EBA - Marketing.
+
+### Requesting Customer Meetings for your Executive
+
+If your Executive is requesting customer meetings while onsite on virtually, please refer to the following contacts as a helpful starting point. These contacts will assist in engaging the proper Sales representatives:
+- **AMER East**: Carissa Comp, AVP Regional Sales
+- **AMER West**: Darren Moffett, AVP Regional Sales
+- **APAC**: Craig Nielsen, VP Sales APAC
+- **EMEA**: Michel Isnard, VP of Enterprise Sales; Benjamin Caller, AVP Regional Sales
+- **Japan**: Shoji Ozawa, Japan Country Manager
+- **Public Sector**: Bob Stevens, VP Public Sector Sales
+
+Please contact the @sales-eba-team with any questions.
 
 ### External Events & Speaking Engagement
 
