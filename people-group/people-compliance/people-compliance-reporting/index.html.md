@@ -26,6 +26,9 @@ Our AAP is developed using the same start month every year. The AAP report is ke
 
 - In 2021, we gathered data to file our AAP for our Fiscal Year 2022 (February 1, 2021 to January 31, 2022). 
 - In 2022, we gathered data to file our AAP for our Fiscal Year 2023 (February 1, 2022 – January 31, 2023). 
+- In 2023, we gathered data to file our AAP for our Fiscal Year 2024 (February 1, 2023 – January 31, 2024). 
+
+Further information for team members is found on our [Affirmative Action Plan](/handbook/people-group/people-compliance/people-compliance-reporting/aap) page.
 
 ## VETS-4212 
 
