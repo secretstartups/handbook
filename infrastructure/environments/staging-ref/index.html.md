@@ -102,7 +102,7 @@ After signing in you can proceed using the environment as required. If destructi
 
 #### Admin access
 
-To promote your user to Admin, please sign in as Admin using the `Staging Ref credentials` from [1Password Engineering vault](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com). Then navigate to the [Admin Area’s Users page](https://docs.gitlab.com/ee/administration/admin_area.html#administering-users) and edit your user's Access Level.
+To promote your user to Admin, please sign in as Admin using the `Staging Ref credentials` from 1Password `Engineering` vault. Then navigate to the [Admin Area’s Users page](https://docs.gitlab.com/ee/administration/admin_area.html#administering-users) and edit your user's Access Level.
 
 Note that Staging Ref environment is shared across all engineers. If you plan to perform changes to GitLab Admin settings, use the [`#staging-ref`](https://gitlab.slack.com/archives/C02LN0K1N3Y) Slack channel to communicate changes broadly.
 
@@ -151,7 +151,7 @@ Monitoring implementation was done in ([epic#594](https://gitlab.com/groups/gitl
 
 Dashboards for Staging Ref can be found in Grafana under the [staging-ref folder](https://dashboards.gitlab.net/d/Fyic5Wanz/server-performance?orgId=1). There are other existing dashboards which may also show Staging Ref information if you select `environment=gstg-ref`.
 
-The Geo secondary site is running Grafana at https://geo.staging-ref.gitlab.com/-/grafana. Credentials can be found in `EU site monitoring` section in ["Staging Ref credentials" in 1Password](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com).
+The Geo secondary site is running Grafana at <https://geo.staging-ref.gitlab.com/-/grafana>. Credentials can be found in `EU site monitoring` section in `Staging Ref credentials` in 1Password `Engineering` vault.
 
 If you need a specific dashboard or an existing dashboard does not work please reach out to [`#staging-ref`](https://gitlab.slack.com/archives/C02LN0K1N3Y) channel.
 
@@ -169,7 +169,7 @@ Watch [this demo](https://gitlab.com/gitlab-org/gitlab/uploads/43733f0e0b58ded0e
 
 #### Pre-existing test accounts
 
-Staging Ref environment has pre-existing accounts that can be used for testing. For example, Admin accounts on different paid plans, Auditor user, QA users. All credentials are stored in `Staging Ref credentials` in [1Password Engineering vault](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=joq3ryhuirbx3dr66oo3cju4xq&h=gitlab.1password.com).
+Staging Ref environment has pre-existing accounts that can be used for testing. For example, Admin accounts on different paid plans, Auditor user, QA users. All credentials are stored in `Staging Ref credentials` in 1Password `Engineering` vault.
 
 #### Working with a SAML SSO enabled group
 
