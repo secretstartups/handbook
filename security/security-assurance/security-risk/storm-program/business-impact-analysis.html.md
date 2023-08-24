@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Business Impact Analysis"
-description: "Information about the Business Impact Analysis process that is carried out periodically by the Security Risk Team"
+description: "Information about the Business Impact Analysis that is carried out periodically by the Security Risk Team"
 ---
 
 ## On this page
@@ -24,30 +24,37 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](/
 
 # Business Impact Analysis
 
-The Business Impact Analysis (BIA) is developed as part of the Business Continuity Plan process and is a point-in-time analysis of system components that determines the criticality and potential impact to GitLab's mission-critical processes and data as well as impact to GitLab should the system component become unavailable. This quantitative analysis allows GitLab to establish priority levels for sequencing recovery activities and resources.
-
 ## Purpose
 
-The purpose of the BIA is to identify and prioritize system components by correlating them to mission critical processes that support ongoing business operations and the GitLab product. Using this information to characterize what would be the impact to GitLab, if any of these systems were to be unavailable. This is considered a bottom-up approach to risk management which is complementary to the top-down approach of the [Annual Risk Assessment](/handbook/security/security-assurance/security-risk/storm-program/#step-1-risk-appetite-and-tolerance).
+The Business Impact Analysis (BIA) helps determine the systems critical to serving GitLab's Customers. It also helps determine the prioritization of system restoration efforts in the event of a disruption.
+
+A BIA is performed for a system by completing a questionnaire. Each question in the BIA Questionnaire belongs to one of three data collection categories:
+
+1. [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html) (questions that guide how a system is tiered)
+1. Supplemental Information (questions that prompt important system details)
+1. [Security Best Practices](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#responses-that-may-result-in-tier-3-observationsrisks) (questions that reveal potential Information System risks)
+
+System data obtained through the BIA may be referenced for [Business Continuity](/handbook/business-technology/gitlab-business-continuity-plan/) planning and testing.
+
+**Note:** Additionally, a subset of questions may be included in the BIA Questionnaire to satisfy [global privacy legislation requirements](/handbook/legal/privacy/privacy-laws.html#gdpr) pertaining to a system's [Personal Data](/handbook/security/data-classification-standard.html#data-classification-definitions) processing.
 
 ## Scope
 
-The scope of the BIA is the entirety of systems utilized across GitLab as documented in the [Tech Stack](/handbook/business-technology/tech-stack-applications/).
+The BIA covers all systems in GitLab's [Tech Stack](/handbook/business-technology/tech-stack-applications/). However, the volume and frequency of the BIA is based on [Critical System Tiering](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). See the ['BIA Procedures'](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#bia-procedures) section for more details.
 
 ## Roles and Responsibilities
 
 |Role|Responsibility|
 |----------|------------------------------|
-|[Security Risk Team](/handbook/security/security-assurance/security-risk/)|Responsible for implementing and executing this procedure periodically. BIAs for new systems are performed at the time of onboarding. |
-|[IT Compliance](/handbook/business-technology/it-compliance/)|Utilizes the data obtained from the BIA to drive [Business Continuity Planning](/handbook/business-technology/gitlab-business-continuity-plan/) activities.|
-| [Business/Technical Owner](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-definitions) | Completion of BIA |
-| Security Assurance Management (Code Owners)|Responsible for approving significant changes and exceptions to this procedure. |
+| [Security Risk Team](/handbook/security/security-assurance/security-risk/) |Responsible for implementing and executing this procedure periodically based on Critical System Tiering requirements. |
+| [Business/Technical Owner](/handbook/business-technology/tech-stack-applications/#tech-stack-definitions) of a System | Responsible for performing a BIA or validating previously submitted BIA/Tech Stack Data. |
+| Security Assurance Management (Code Owners)|Responsible for approving significant changes and exceptions to the BIA. |
 
 ## BIA Procedures
 
 ### New Systems (Ad-Hoc)
 
-A BIA is initiated as the result of TPRMs process for net new systems (guided by our [report template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/TPRM%20Assessment%20Report%20Template.md)). An [associated issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/New%20System%20-%20TS%20Add%20and%20BIA%20Tracking.md) is created by the TPRM engineer to ensure that the new system has a completed BIA and is added to the Tech Stack.  The steps listed below summarize how BIAs are completed for new systems:
+A BIA is initiated as the result of TPRM's process for net new systems (guided by our [report template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/TPRM%20Assessment%20Report%20Template.md)). An [associated Tracking Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/New%20System%20-%20TS%20Add%20and%20BIA%20Tracking.md) is created by the TPRM engineer to ensure that the new system has a BIA performed and is added to the Tech Stack.  The steps listed below summarize how BIAs are performed for new systems:
 
 1. A formal BIA questionnaire is distributed to the Business/Technical Owner for each system, as listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) or Merge Request related to adding the system to the Tech Stack. Launch a new BIA Questionnaire from GitLab's GRC Application, ZenGRC, by following these steps:
       1. Click 'System of Record' > 'Projects' > 'Business Impact Analysis - New Systems' Project (Select [correct Fiscal Year](https://gitlab.zengrc.com/sor/info/Project/106/info))
@@ -64,7 +71,7 @@ Security Risk should use discretion when actioning these steps (e.g. consider pr
 
 1. Due Date +1 Business Day: Notify Business/Technical Owner or Delegate in a public Slack channel (e.g. #sec-assurance).
 1. Due Date +5 Business Days: Notify Manager of Business/Technical Owner or Delegate in a public Slack channel (e.g. #sec-assurance).
-1. Due Date +10 Business Days: Notify SecRisk Manager and consider issuing Risk Acceptance by following the [TPRM Risk Acceptance Process](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process).
+1. Due Date +10 Business Days: Notify SecRisk Manager and consider issuing Risk Acceptance by following the [TPRM Risk Acceptance Process](/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process).
 
 ### Existing Systems (Frequency based on Critical System Tier)
 
@@ -77,7 +84,7 @@ The Security Risk team will review the responses to the BIA questionnaires to su
 For blank/unknown/obscure responses, engage the Business/Technical Owner via comment functionality within the GRC system, Slack, or a GitLab issue.
 ### Responses that may result in Tier 3 Observations/Risks
 
-We include some questions in our questionnaire that may lead to the creation of [Tier 3 Observations](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html#scope). The Security Risk team will review BIA questionnaire responses to identify potential risks to GitLab. Responses that may result in Tier 3 Observations are listed below:
+We include some questions in our questionnaire that may lead to the creation of [Tier 3 Observations](/handbook/security/security-assurance/observation-management-procedure.html#scope). The Security Risk team will review BIA questionnaire responses to identify potential risks to GitLab. Responses that may result in Tier 3 Observations are listed below:
 
 - `Shared Administrative Accounts` = Yes
 - `System Specific Recovery Plans` = Insufficient detail in response
@@ -86,20 +93,9 @@ We include some questions in our questionnaire that may lead to the creation of 
 
 The Security Risk team will follow the observation intake and management process described [here](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management/-/blob/master/runbooks/1_Observation%20Intake%20and%20Management.md) for ad-hoc observations.
 
-### BIA Outputs
-
-The data obtained from BIA questionnaires results in:
-
-1. Ensuring that the correct data classification has been applied to a system based on GitLab's [Data Classification Standard](/handbook/security/data-classification-standard.html)
-1. Assignment of the appropriate [Critical System Tier](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html)
-   - Critical System Tiers additionally help identify and inventory systems which are considered critical (i.e. disruption that has a significant impact to critical business operations or the functionality/security of GitLab SaaS subscriptions.)
-   - Critical System Tiers provide a mechanism to help prioritize and scope activities impacting multiple systems (leveraging tiering assignments to plan work)
-1. Data such as maximum tolerable downtime and impact of service disruptions or outages are used as an input for [Business Continuity Planning](/handbook/business-technology/gitlab-business-continuity-plan/)
-1. PILOT: Security risk assessment to inform the Security Compliance backlog.
-
 ## Reporting
 
-BIA results are reported via updates to GitLab's Tech Stack. Specific attributes like `data_classification` and `critical_systems_tier` are updated accordingly for each system's record should the information from the BIA lead to changes to data classification and/or assignment of a new critical system tier.
+BIA results are reported via updates to GitLab's Tech Stack. Specific fields like `critical_systems_tier` and `collected_data` are updated accordingly at a system-level should the information from the BIA lead to changes.
 
 ## Exceptions
 
@@ -107,6 +103,6 @@ System Proof of Concepts (POC), Proof of Values (POV), and Pilots are exempt fro
 
 ## References
 
-- [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
-- [Data Classification Standard](/handbook/security/data-classification-standard.html)
 - [Critical System Tiering Methodology](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html)
+- [Data Classification Standard](/handbook/security/data-classification-standard.html)
+- [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
