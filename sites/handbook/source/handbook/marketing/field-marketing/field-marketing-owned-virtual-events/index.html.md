@@ -626,7 +626,7 @@ This section focuses on best practices, timelines and logistical set up for a Fi
 ## Budget for Workshops
 **DRI: FMM**  
 
-Our new demo environment, gitlab.com group Learn Labs + Instruqt, involves a per attendee cost. The FMM is to budget $2500 per workshop for this cost. However, there are exceptions for using Instruqt and as of now, the DevOps Automation Workshop does NOT utilize Instruqt. As a result, the FMM will NOT budget a demo environment cost for this particular workshop. There is the potential for other workshops to not require Instruqt in the future as well (resulting in zero cost) and those adjustments will be communicated and updated here.
+Please note, GitLab-owned workshops have $0 cost to the team in regards to platform/environment. However, if your workshop is in-person or requires swag, you will need to budget for those items in Allocadia.
 
 ## Virtual Workshop Epic Code
 **DRI: FMM and FMC**
