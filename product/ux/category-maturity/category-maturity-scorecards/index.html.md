@@ -207,13 +207,15 @@ As participants attempt to complete a scenario, for our purposes, the end result
 
 Tip: Use this [Google Sheet](https://docs.google.com/spreadsheets/d/1w3GZNc11PSZ9sN_2II5SI3fwK4tH9LLSb2bci_o2mWg/copy), which contains the calculations already built into it.
 
-**Step one:** For each scenario, enter the test participants' responses across each relevant question and document the task success/failure by using the dropdown.
+**Step one:** For each scenario, enter the test participants' responses across each relevant question and document the task success/failure by using the dropdown. 
+
+Note: Do not enter in ratings for participants who experienced task failure, as those ratings are not accounted for when calculating the CM Scorecard score.
 
 <img src="./cms_step1.png" width="70%">
 
 **Step two:** The overall score of each question and the task success rate will be averaged to provide a scenario score.
 
-<img src="./cms_step2.png" width="60%">
+<img src="./cms_step2_updated.png" width="70%">
 
 **Step three:** Once all of the scenario scores are calculated you will be provided an overall score and the maturity level. Check the note on the **Maturity level** cell (J40) for further details.
 
