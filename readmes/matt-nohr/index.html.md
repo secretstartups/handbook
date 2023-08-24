@@ -28,7 +28,7 @@ My Links:
 
 This document is a living breathing thing and likely incomplete. I update it frequently and would appreciate your feedback.
 
-## Work Style
+### Work Style
 
 * I believe in the [servant leadership](https://wheniwork.com/blog/the-ultimate-guide-to-the-servant-leadership-model/) model
 * I tend to follow a mindset like: "If you are running, I'll let you run. If you trip, I'll be there to help you back up."
@@ -40,7 +40,7 @@ This document is a living breathing thing and likely incomplete. I update it fre
 * I prefer to automate repetitive tasks.
 * I believe managers are not the only [leaders](https://about.gitlab.com/handbook/leadership/).
 
-## Work Patterns
+### Work Patterns
 
 * I live and work in the [Central Time Zone](https://www.timeanddate.com/time/zones/ct). 
     * Central Standard Time (UTC-6) in the winter
@@ -50,19 +50,19 @@ This document is a living breathing thing and likely incomplete. I update it fre
 * Even if I am working a bit on weekends, I never expect anyone else to work outside of regular work hours.
 * I take vacations where I do my best to disconnect (or travel places where there is [no access to internet](https://en.wikipedia.org/wiki/Burntside_Lake#/media/File:Burntside_Lake_BWCAW.jpg)).
 
-## Communication Preferences
+### Communication Preferences
 
 * You can slack or email me at any time, but I likely will only respond during my working hours. My devices are on "do not disturb" mode overnight.
 * I may slack or email you during non-working hours, but I do not expect a response until your next work day. I sometimes just need to write something down so I don't forget.
 * If you need a response in a certain time, please let me know. For example, "Can you review this before our meeting?" or "Can you let me know before the end of the day?"
 * In GitLab, I only get notified of mentions of `@mnohr`
 
-## Feedback
+### Feedback
 
 * I welcome feedback from everyone and I see it as a way for me to learn and improve.
 * Please provide feedback to me, in private, and specifically indicate it is feedback. It will work best if you are clear and specific.
 
-## Book Recommendations
+### Book Recommendations
 
 * [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) - Also watch this [video overview](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 * [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) - This also has a [corresponding video](https://www.youtube.com/watch?v=OqmdLcyES_Q)
@@ -71,7 +71,7 @@ This document is a living breathing thing and likely incomplete. I update it fre
 
 There is also a [good book list in our handbook](https://about.gitlab.com/handbook/leadership/#books) if you are looking for more suggestions.
 
-## Personal
+### Personal
 
 * I enjoy spending as much time as possible with my wife and 3 kids.
 * I have a [dog](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/images/team/pets/chaco.jpg).
