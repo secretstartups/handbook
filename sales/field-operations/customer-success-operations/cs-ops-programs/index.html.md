@@ -31,6 +31,7 @@ You can see more information about what we do and our strategy in the following 
 | ------ | ------ |
 | [Jeff Beaumont](https://gitlab.com/jdbeaumont) | [Sr. Director, CS Operations and Customer Programs](https://handbook.gitlab.com/job-families/sales/director-customer-operations/) |
 | [Michelle Harris](https://gitlab.com/mharris3) | [Sr. Program Manager, Customer Programs](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs/#senior-program-manager-customer-programs) |
+| [Raluca Gorbanescu](https://gitlab.com/RGorbanescu) | [Sr. Program Manager, Scale](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs/?search=scale#senior-program-manager-customer-programs) |
 | [John Gamboa](https://gitlab.com/johnpgamboa) | [Program Manager, Customer Programs](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs) |
 
 ## Related Content
@@ -38,6 +39,7 @@ You can see more information about what we do and our strategy in the following 
 * [Getting Help from Digital Customer Success](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/getting-help-from-dcs/)
 * [NPS/CSAT Surveys](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/nps-csat-scores/)
 * [CS Content Guide](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/cs-content-guide.html)
+* [Customer Newsletter](/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/customer-newsletter/)
 
 
 
