@@ -23,7 +23,7 @@ The interview process consists of the following stages:
 1. Assessment (required for certain roles)
 1. Technical Interview (required for certain roles)
 1. Team Interviews
-1. References
+1. References & TMRG Connection
 1. Offer & Background Screening
 
 ## Application Process
@@ -124,6 +124,11 @@ After the Screening Call, a candidate will move into the Team Interviews stage i
 
 Feel free to ask your Recruiter which type of interview you can expect.
 
+## Optional TMRG Connection
+
+During the [reference](https://about.gitlab.com/handbook/hiring/candidate/faq/#references) stage in the interview process, candidates will get the option to speak with a GitLab team member who is a member of our [Team Member Resource Groups](https://about.gitlab.com/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups) (TMRGs) to learn about what it's like working at GitLab from someone who they can relate to. 
+
+When you receive a reference form, you will have the option to opt-in for a conversation with a member of the [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels) of your choice. Our Candidate Experience team (CES) will then reach out and coordinate this Zoom call for you. You can also read about how we [field this request](https://about.gitlab.com/company/culture/inclusion/talent-acquisition-initiatives/#speaking-with-tmrg-members-in-the-hiring-process). 
 
 ### Interview Process FAQs
 
