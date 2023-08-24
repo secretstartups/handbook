@@ -205,13 +205,13 @@ To translate the Strategy Roadmap to a Success Plan follow the steps below:
 3. Add `Objectives` (by Functional Team) from Slide 6 by creating an<span dir=""> </span>[<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives)<span dir=""> and filling in </span>all available details
 4. Add Post-sales `Activities` from Slide 11 by creating Tasks under the respective [<span dir="">Objective</span>](https://about.gitlab.com/handbook/customer-success/csm/success-plans/#objectives) 
 
-## Manager Approval Process
+## Manager Verification Process
 
-On a bi-annual basis (once in the first half of the fiscal year February 1 through July 31, and again in the second half ending January 31), success plans must be manager-reviewed and approved via a checkbox within the gainsight interface.
+On a bi-annual basis (once in the first half of the fiscal year February 1 through July 31, and again in the second half ending January 31), success plans must be manager-reviewed and verified via a checkbox within the Gainsight interface.
 
 Managers are to coach each CSM they work with to ensure that all required [components](#components-of-a-success-plan) are present, with each plan having at least one active objective.
 
-Once the manager and CSM reach agreement that the success plan is in a good state, the manager should click the appropriate checkbox as shown below:
+Once the manager and CSM reach agreement that the success plan articulates the path to customer value realization (through adoption), the manager should click the appropriate checkbox as shown below:
 
 ![Example Success Plan Task](/handbook/customer-success/csm/success-plans/example-approval-checkbox.png "Example Success Plan Task")
 
