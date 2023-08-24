@@ -54,18 +54,18 @@ Customers receive NPS surveys at multiple points in their customer lifecycle and
    - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
    - CSAT: Overall, how satisfied are you with your onboarding experience?
    - CSAT: How can we improve your readiness to adopt the product?
-   - Sent on Day 60 for net-new customers
+   - Sent to net-new customers one day after [Time to First Value (TTFV)](https://about.gitlab.com/handbook/customer-success/csm/onboarding/#time-to-first-value) has been identified by using product data, or on day 90, whichever comes first.
       - Provides an early warning system for the customer beyond what CSM/CSE or AE sentiment or product usage data can tell us.
 
 - **Pre-Renewal**
    - NPS: How likely are you to recommend GitLab to a friend or colleague?
    - CSAT: How satisfied are you with GitLab?
-   - Sent 120 days before renewal
+   - Sent 120 days before renewal.
       - An additional attribute to our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
 - **Post-Renewal**
    - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
-   - Sent 60 days after contract renewal
+   - Sent 60 days after contract renewal.
       - Provides an attribute of sentiment into the success of the renewal and insight for continued prioritization. 
 
 
