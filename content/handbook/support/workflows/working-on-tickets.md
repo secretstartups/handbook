@@ -94,6 +94,18 @@ internal note describing what your first response would be. You might consider
 then looking for another person in your group who can take the ticket, and even
 offering to pair with them.
 
+If you send out a first response to avoid a ticket from breaching but do not
+have the capacity to take assign it to yourself, consider adding an internal note clearly
+stating that you are not assigning the ticket. There's no need to justify why
+you aren't taking assignment. This clarity will help ensure that someone else
+will assume responsibility for moving the ticket forward.  
+In order to minimize the mental effort necessary for the next engineer to catch
+up with the ticket, consider adding summary of the problem and as much helpful
+information and relevant links as you're able to muster to this internal note
+in case your first response doesn't speak for itself.
+Additionally consider communicating this in your SGG Slack channel, stating that the ticket needs an assignee
+to get more attention and speed up the process of finding an assignee.
+
 ### Taking a ticket when you know only the first response
 
 You might at times feel prepared to provide a good first response and yet
