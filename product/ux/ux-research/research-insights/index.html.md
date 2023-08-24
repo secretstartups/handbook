@@ -59,10 +59,12 @@ Tips for writing an actionable insight:
 To document actionable insights:
 
 * **Step 1:** In Dovetail, preface the actionable insight's title with 'ACTIONABLE:' and clearly describe the next action that needs to be taken.
-* **Step 2:** Create a unique issue in [GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/issues/new) using the appropriate _Actionable Insight_ issue template:
+* **Step 2:** Create a unique issue in [GitLab.com/GitLab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/-/issues/new) using the appropriate _Actionable Insight_ issue template:
      * **Actionable Insight - Exploration needed** -  This is an actionable research insight derived from a UX research study. To address this insight, further exploration is required. That might be in the form of follow-up research, design explorations, etc. This issue template includes the `~"Actionable Insight::Exploration needed"` scoped label.
      * **Actionable Insight - Product change** -  This is an actionable research insight derived from a UX research study. To address this insight, a change to the product experience is required. This issue template includes the `~"Actionable Insight::Product change"` scoped label.  _Note that the `~"SUS::Impacting"` label and a [severity label](/handbook/engineering/quality/issue-triage/#severity) are both required for actionable insights that require product changes._
      
+   <img src="./actionable_insight_template_location.png" width="80%">
+   
    Both templates use a corresponding scoped label (above) to keep track of the progress being made regarding next step(s). To streamline this process, add a link to the Dovetail insight in the GitLab issue, rather than typing out all the details again. (If you want to include details, you certainly can.)
 * **Step 3:** Add the appropriate `Group` (such as `~"group::source code"`) label to the issue.  This is done to identify and track actionable insights at the group level.
 * **Step 4:** Using the related issue feature, link these Actionable Insight issues back to the original Research Issue in the GitLab UX Research project.
