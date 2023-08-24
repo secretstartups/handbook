@@ -421,7 +421,7 @@ For each of the above, if a cancellation is desired (which include terminations 
 
 
 ### Cancellation Process
-1. Complete and submit a [Cancellation Request Issue Template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new#). The purpose of this template is to notify other impacted teams, such as IT for software cancellation, and complete all discovery to ensure we can cancel prior to engaging Legal and Procurement.
+1. Complete and submit a [Cancellation Request Issue Template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=cancellation_request). The purpose of this template is to notify other impacted teams, such as IT for software cancellation, and complete all discovery to ensure we can cancel prior to engaging Legal and Procurement.
 2. Once discovery is complete in the issue, a **Zip Cancellation Request** can be submitted. 
 3. Through Zip, Procurement and Legal will work with the requester to provide instructions on how, when, and who should notify the vendor. For most non-renewal notices, the business owner will notify the vendor via Legal’s guidance.
    1. Security and Privacy will also be added for awareness and review if data is being shared with the vendor to determine the requirements of returning or deleting the data.
