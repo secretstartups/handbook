@@ -20,7 +20,7 @@ Plan teams:
 - [Plan:Knowledge Team](/handbook/engineering/development/dev/plan/knowledge/)
 
 The responsibilities of this collective team are described by the [Plan stage](/handbook/product/categories/#plan-stage). Among other things, this means
-working on GitLab's functionality around issues, issue boards, milestones, to-do list, issue lists and filtering, roadmaps, time tracking, requirements management, and notifications.
+working on GitLab's functionality around issues, boards, milestones, to-do list, issue lists and filtering, roadmaps, time tracking, requirements management, notifications, value stream analytics (VSA), wiki, and pages.
 
 - I have a question. Who do I ask?
 
@@ -117,33 +117,22 @@ You can subscribe to the calendar and invite it as a participant in a customer m
 
 We perform many board refinement tasks asynchronously, using GitLab issues
 in the [Plan project]. The policies for these issues are defined in
-[triage-ops/policies/plan-stage]. Some of these issues use supplemental
-boards:
-
-1. [Plan backend / frontend check][befecheck] - engineering managers
-check that issues on the current milestone have ~backend and
-~frontend labels correctly assigned. If they don't, they won't show
-up on a team's build board.
-1. [Plan group check][groupcheck] - engineering managers check that
-issues on the current milestone have a group label. Again, if they
-don't, they won't show up on a group-specific build board.
-
-Other issues just define that, for instance, anything in or to the left
-of ~"workflow::ready for development" should be moved as a milestone
-comes to a close. A full list of refinement issues is available by
-[filtering by the ~"Plan stage refinement" label][refinement-issues].
+[triage-ops/policies/plan-stage]. A full list of refinement issues is available
+by [filtering by the ~"Plan stage refinement" label][refinement-issues].
 
 [Plan project]: https://gitlab.com/gitlab-org/plan
 [triage-ops/policies/plan-stage]: https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies/plan-stage
-[befecheck]: https://gitlab.com/groups/gitlab-org/-/boards/1134263
-[groupcheck]: https://gitlab.com/groups/gitlab-org/-/boards/1383681
 [refinement-issues]: https://gitlab.com/gitlab-org/plan/issues?label_name%5B%5D=Plan+stage+refinement
 
 ### Tracking Committed Work for an Upcoming Release
 
 While we operate in a continuous Kanban manner, we want to be able to report on and communicate if an issue or epic is on track to be completed by a Milestone's due date. To provide insight and clarity on status we will leverage [Issue/Epic Health Status](https://docs.gitlab.com/ee/user/project/issues/index.html#health-status) on priority issues.
 
-At the beginning of the Milestone, Product and Engineering Managers will assign the 'On Track' status to agreed-upon priority issues. As the Milestone progresses, anyone contributing to the work should update the Health Status as appropriate to surface risk or concerns as quickly as possible, and to jumpstart collaboration on getting an issue back to "On Track".
+### Keeping Health Status Accurate
+
+At the beginning of the Milestone, Deliverable issues will automatically be updated to "On Track". As the Milestone progresses, assignees should update Health Status as appropriate to surface risk or concerns as quickly as possible, and to jumpstart collaboration on getting an issue back to "On Track". 
+
+At specific points through the milestone the Health Status will be automatically degraded if the issue fails to progress. Assignees can override this setting any time if they disagree. The policy that manages this automation is [here](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/hygiene/adjust-health-status.yml). It can be disabled for any individual issue by adding the ~"Untrack Health Status" label.
 
 #### Health Status Definitions for Plan :
 
@@ -285,10 +274,11 @@ summary and corrective actions. The rotation for upcoming milestones is as follo
 
 | Milestone | DRI |
 |---   | ---       |
-| 16.1 | Brandon Labuschagne |
-| 16.2 | Donald Cook |
 | 16.3 | Kushal Pandya |
 | 16.4 | John Hope |
+| 16.5 | Brandon Labuschagne |
+| 16.6 | Donald Cook |
+| 16.7 | Kushal Pandya |
 
 The role of the DRI is to facilitate a psychologically safe environment where team-members
 feel empowered to give feedback with candour. As such they should refrain from participating
