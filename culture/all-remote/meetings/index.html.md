@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: "All-Remote Meetings"
 canonical_path: "/company/culture/all-remote/meetings/"
-description: How to conduct meetings in a remote company
+description: How to conduct meetings at GitLab
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
 twitter_site: "@gitlab"
@@ -15,6 +15,36 @@ twitter_creator: "@gitlab"
 
 - TOC
 {:toc}
+
+## How to run an effective meeting at GitLab
+
+We're thoughtful about how we run meetings, because, when done right, they are forums to increase efficiency, enhance collaboration, and drive results. The guidelines below are intended to help you run a great meeting at GitLab!
+
+### What to do before the meeting
+
+1. **Ask yourself if the meeting is necessary.** Though we have a [bias toward asynchronous communication](/company/culture/all-remote/asynchronous/), a strategic balance between synchronous and asynchronous communication is required to achieve maximum efficiency. Moving a project or discussion forward asynchronously when feasible is preferred if it can be done efficiently and achieve desired results. Before scheduling a meeting, ask yourself if asynchronous methods could be effectively used to achieve the desired outcome.
+1. **Send the meeting invite with proper advance notice.**  A meeting with team members will usually traverse multiple time zones. We recommend you send meeting invites 72 hours (minimum 24 hours) in advance of the meeting to give people time to respond to the invite. In addition, consider who is required in the meeting and mark non-essential participants as optional.
+1. **Include a link to an agenda document in the invite.** Team members should be able to get context before the meeting through reviewing agendas, supporting materials, etc. [Meeting agendas](/company/culture/all-remote/meetings/#4-all-meetings-must-have-an-agenda) should be shared 72 hours (minimum 24 hours) in advance of the meeting. Team members will need to know what is being discussed to decide if their participation is needed or [whether their meeting attendance is optional](/company/culture/all-remote/meetings/#1-make-meeting-attendance-optional).
+1. **Provide slides and supporting videos in advance.** We [embrace Neurodiversity](/handbook/values/#embracing-neurodiversity) by adopting a variety of different work styles and communication styles. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of their preferred comprehension style.
+1. **Use “speedy meetings."** This [Google Calendar setting](https://calendar.google.com/calendar/r/settings) creates meetings of 25 / 50 minute duration, which leaves time to write notes, stretch, etc. in between meetings.
+1. **Use the Zoom scheduler plug-in to add video conferencing to your Google Calendar event.** Leveraging the Zoom plug-in automatically adds Zoom links to your event, and reduces the probability of user error in copying and pasting an incorrect video conferencing link.
+1. **Check your audio quality.** [Research shows](https://tips.ariyh.com/p/good-sound-quality-smarter) that when the audio quality is high, people judge the content as better and more important. We recommend you [invest in equipment](/company/culture/all-remote/workspace/#what-technology-do-i-need-for-remote-working) to generate the highest-fidelity audio in your remote work setting, such as using a microphone.
+
+### What to do during the meeting
+
+1. **Start on time.** It's important to [begin and end meetings on time](/company/culture/all-remote/meetings/#3-start-on-time-end-on-time) in order to minimize disruption.
+1. **Give audio and video feedback.** If you are unable to see or hear someone, let them know so they can address and correct.
+1. **Avoid presenting in most meetings.** Valuable synchronous time should not be used to present in [most cases](/handbook/communication/#few-meetings-with-presentations). Instead, recorded presentations make content accessible, prevent confusion, and increase participation for team members that prefer consuming content asynchronously. It is OK to present spontaneously to share unplanned material during a meeting, but stop sharing once the point is made. This ensures that the video stream is preserved for team members to engage and interact with each other. 
+1. **Be intentional about introductions (or not).** Some meetings may benefit from introductions, so be intentional about either doing introductions or not. If you are going to do introductions, make sure participants are aware beforehand so they are prepared. Create a [list of people](/handbook/communication/#meeting-introduction-guidelines) with their roles, and use that for guiding the introduction sequence. Let each individual introduce themselves so that Zoom emphasizes the speaker’s video stream.
+1. **Provide verbal cues.** If you’re going through an agenda document, then add context: “bullet 3c, Sam, you added that point, can you verbalize it for us?” Similarly use slide numbers when going through a presentation to ensure that all attendees are tracking on the content.
+1. **Adhere to the agenda order to ensure inclusiveness.** People may add agenda topics to the agenda asynchronously and synchronously during the meeting. In guiding discussions, ensure that agenda topics discussed are equitable and fair - don’t let a single person or subset of the group monopolize the agenda at the expense of others.
+1. **Document in real-time.** Since not all team members will be able to attend a meeting live, documentation is a vital part of avoiding team dysfunction. Follow [Live Doc meeting best practices](/company/culture/all-remote/live-doc-meetings/#introduction) to increase cohesion, discipline, and transparency.
+1. **End on time.**
+
+### What to do after the meeting
+
+1. **Capture action items from notes.** For an ongoing meeting series, GitLab has established [nomenclature](/handbook/leadership/1-1/suggested-agenda-format/) such as adding tags like "TODO" and "DONE" to track action items. You can also file issues in GitLab.com to track action items.
+1. **Assess and Iterate.** Once the meeting concludes, reflect on what worked, what didn’t work, and what you need to do differently to run a more effective meeting. This process touches three of our CREDIT values: Iteration, Efficiency, and Results. By taking a small amount of time after a meeting to focus on continuos improvement, we can apply those improvements in future meetings. This drive for continuous improvement drives Efficiency, which is the foundation for Results.
 
 ## What is a remote meeting?
 
