@@ -23,15 +23,13 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Aug 17 | TBD  | TBD |
-| Aug 24 |  New Compliance Deck & Demo Environment  | Fern D. |
-| Aug 31 | Solution Play 2H FY24  | TBD |
+| Aug 31 | FY24-Q3 - Solution Play  | Diane O. |
 | Sep 7 | FY24-Q3 - Better Together: GitLab Alliances Update  | Rhoda B. |
-| Sep 14 |   | N/A |
-| Sep 21 |   | N/A |
-| Sep 28 |   | N/A |
+| Sep 14 | Propensity to Purchase (PTP) Score Launch  | Melia V. |
+| Sep 21 | TBD  | N/A |
+| Sep 28 | TBD  | N/A |
 | Oct 5 | FY24-Q3 - Analyst Relations Update  | Ryan R. |
-| Oct 12 |   | N/A |
+| Oct 12 | TBD  | N/A |
 | Oct 19 | *No session during the last week of the quarter* | N/A |
 | Oct 26 | *No session during the last week of the quarter* | N/A |
 
@@ -43,6 +41,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-08-24 |  **[New Compliance Deck & Demo Environment](https://gitlab.highspot.com/items/64e7934a0d1c03be0ae9d8e6)**  | Private |
 | 2023-08-10 | **[Salesforce Data Quality & Governance Overview](https://drive.google.com/file/d/1ygod5B_8amGsZ6X0LSL447jl-UL2P_Q5/view?usp=drive_link)**  | Private |
 | 2023-08-03 |  **[FY24-Q3 - Deal Desk Update: Quote Approvals](https://drive.google.com/file/d/1cSDLF-pPUZgWd1FQB5BzWBpfzlY0oNcT/view?usp=sharing)** | Private |
 | 2023-07-13 | **[GitLab Security Competitors Overview](https://drive.google.com/file/d/1-AWkTHU5h1AhpNJTaWwDJCBYuNS4YNXw/view?usp=sharing)**  | Private |
