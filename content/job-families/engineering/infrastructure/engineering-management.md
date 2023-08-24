@@ -138,6 +138,7 @@ The Senior Engineering Manager, Infrastructure is a [grade 9](https://about.gitl
 - Generate and implement process improvements, especially cross-team processes
 - Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
+- Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure that the availability goals for GitLab.com are met.
 
 #### Senior Engineering Manager, Delivery and Scalability Requirements
 
