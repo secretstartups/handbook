@@ -66,11 +66,19 @@
 /.idea/ @jamiemaynard @marshall007
 
 [docs]
-/LICENCE @jamiemaynard @marshall007
+/LICENCE @jamiemaynard @marshall007http://localhost:1313/handbook/ceo/chief-of-staff-team/readmes/dlangemak/
 /README.md @jamiemaynard @marshall007
 /content/docs/ @jamiemaynard @marshall007
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
+
+^[READMEs]
+/content/handbook/ceo/chief-of-staff-team/readmes/dlangemak.md @dlangemak
+/content/handbook/ceo/chief-of-staff-team/readmes/ipedowitz.md @ipedowitz
+/content/handbook/ceo/chief-of-staff-team/readmes/jamiemaynard.md @jamiemaynard
+/content/handbook/ceo/chief-of-staff-team/readmes/lfarrer.md @lfarrer
+/content/handbook/ceo/chief-of-staff-team/readmes/streas.md @streas
+
 ^[alliances]
 /content/handbook/alliances/ @nbadiey
 /content/job-families/alliances/ @nbadiey
