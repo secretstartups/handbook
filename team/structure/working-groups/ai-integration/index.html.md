@@ -163,18 +163,17 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 
 | Name | Role | Area of Work | 
 | ---- | ---- | ------------ | 
-| Alexandru Croitor | Senior Backend Engineer | AI Framework | 
-| Eulyeon Ko | Backend Engineer | AI Framework | 
-| Gosia Ksionek  | Staff Backend Engineer | AI Framework| 
-| Nicolas Dular |  Senior Backend Engineer | AI Framework | 
-| Denys Mishunov | Staff Frontend Engineer | AI Framework | 
-| Jan Provaznik | Staff Backend Engineer | AI Framework | 
-| Mikołaj Wawrzyniak | Staff Backend Engineer | AI Framework|
-| Pavel Shutsin | Senior Backend Engineer | AI Framework |
-| Max Woolf | Staff Backend Engineer | AI Framework |
-| Tan Le | Senior Fullstack Engineer | AI Framework |
-| Andras Herczeg | Backend Engineer | AI Framework |
-| Sebastian Rehm | Engineering Manager | AI Framework |
+| Alexandru Croitor | Senior Backend Engineer | AI Enablement | 
+| Eulyeon Ko | Backend Engineer | AI Enablement | 
+| Nicolas Dular |  Senior Backend Engineer | AI Enablement | 
+| Denys Mishunov | Staff Frontend Engineer | AI Enablement | 
+| Jan Provaznik | Staff Backend Engineer | AI Enablement | 
+| Mikołaj Wawrzyniak | Staff Backend Engineer | AI Enablement |
+| Pavel Shutsin | Senior Backend Engineer | AI Enablement |
+| Max Woolf | Staff Backend Engineer | AI Enablement |
+| Tan Le | Senior Fullstack Engineer | AI Enablement |
+| Andras Herczeg | Backend Engineer | AI Enablement |
+| Sebastian Rehm | Engineering Manager | AI Enablement |
 | Daniel Tian | Senior Frontend Engineer | Threat Insights |
 | Gregory Havenga | Backend Engineer | Threat Insights |
 | Kerri Miller | Staff Backend Engineer | Code Review |
