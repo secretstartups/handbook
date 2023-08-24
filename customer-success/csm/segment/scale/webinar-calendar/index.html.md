@@ -39,7 +39,7 @@ In this workshop we will focus on how you can secure your application with GitLa
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zKJjC90zQUmcCOHkYPxQaQ)
 
 #### Hands-On GitLab DevSecOps Workshop
-##### August 31st, 2023 at 3:00-4PM Pacific Time / 6:00-7:00PM Eastern Time
+##### August 31st, 2023 at 3:00-4:00PM Pacific Time / 6:00-7:00PM Eastern Time / 8:00-9:00AM UTC+10
 
 In this workshop we will focus on how you can secure your application with GitLab. We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
 
@@ -81,6 +81,28 @@ Are you new to GitLab? Join this webinar, where we will review what GitLab is, h
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_t6S-sdvsQn-S5efqQl5cXg#/registration)
 
+#### Hands-On GitLab CI Workshop for Jenkins Users
+##### September 12th, 2023 at 3:30-4:00PM Pacific Time / 6:30-7:00PM Eastern Time / 8:30-9:00AM UTC+10
+
+Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization! 
+
+We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
+
+We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bAlQkD6GT8WPNZSp_8-Nig#/registration)
+
+#### Hands-On GitLab CI Workshop for Jenkins Users
+##### September 13th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
+
+We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
+
+We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_S5d4hSF7SUKrbFTTzeRU0A#/registration)
+
 #### Intro to CI/CD
 ##### September 15th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -109,6 +131,28 @@ Learn from our director of engineering how to shift left your change management 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tZP2Hn0FRESxhIWg5TFz2A#/registration)
+
+#### Hands-On GitLab DevSecOps Workshop
+##### September 27th, 2023 at 3:00-4:00PM Pacific Time / 6:00-7:00PM Eastern Time / 8:00-9:00AM UTC+10
+
+In this workshop we will focus on how you can secure your application with GitLab. 
+
+We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
+
+Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mewzOr2JQeKKXeq8RcUAXA#/registration)
+
+#### Hands-On GitLab DevSecOps Workshop
+##### September 29th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+In this workshop we will focus on how you can secure your application with GitLab. 
+
+We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
+
+Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_sBib1IoCS6-ChIsigMW7QQ#/registration)
 
 ### EMEA Time Zone Webinars
 
@@ -162,5 +206,16 @@ Learn from our director of engineering how to shift left your change management 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_SuqeCTzvSce0xlehGJT3Tg#/registration)
+
+#### Hands-On GitLab CI Workshop for Jenkins Users
+##### September 28th, 2023 at 11:00AM-1:00PM UTC / 12:00PM-2:00PM CEST
+
+Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization! 
+
+We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
+
+We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MfdQnhtyS1qLVLJzZBflXQ#/registration)
 
 Check back later for more webinars! 
