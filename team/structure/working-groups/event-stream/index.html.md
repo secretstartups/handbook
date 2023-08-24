@@ -88,7 +88,7 @@ If it is decided that an Event Stream should be implemented, our exit criteria s
 | Functional Lead    | Juliet Wanjohi     | Security Engineer, Security Automation          |
 | Functional Lead    | Ethan Urie         | Senior Backend Engineer, Security Automation    |
 | Functional Lead    | Jayson Salazar     | Senior Security Engineer, Security Automation   |
-| Functional Lead    | Alexander Chueshev | Senior Backend Engineer, AI Assisted             |
+| Functional Lead    | Alexander Chueshev | Senior Backend Engineer, AI Framework           |
 | Member             | David DeSanto      | Senior Director, Product Management - Dev & Sec |
 | Member             | Taylor McCaslin    | Principal Product Manager, Secure               |
 | Member             | Alexander Dietrich | Senior Security Engineer, Security Automation   |

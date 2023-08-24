@@ -55,8 +55,8 @@ Read more about the topic area from the links below:
   - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
   - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
   - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
-  - [Group Direction - AI Assisted](https://about.gitlab.com/direction/modelops/ai_assisted/)
-  - [AI Assisted Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)
+  - [Group Direction - AI Model Validation](https://about.gitlab.com/direction/ai-powered/ai_model_validation/)
+  - [AI Model Validation Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)
 
 ### Related GitLab projects
 
@@ -93,14 +93,14 @@ The charter of this working group is to bridge the gap between different teams t
 | Executive Sponsor     | Laurence Bierner      | Director, Security Engineering       |
 | Facilitator           | Alex Groleau          | Security Automation Manager |
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
-| Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, AI Assisted |
+| Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, AI Framework |
 | Functional Lead                | Taylor McCaslin         | Group Manager, Product - Data Science |
 | Functional Lead                | David DeSanto           | Senior Director, Product Management - Dev & Sec |
 | Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Functional Lead                | Eduardo Bonet         | Staff Full Stack Engineer - MLOps, SEG |
-| Functional Lead                | Monmayuri Ray         | Engineering Manager, AI Assisted & Anti-abuse |
+| Functional Lead                | Monmayuri Ray         | Engineering Manager, AI Model Validation |
 | Functional Lead                | Shawn Sichak         | Senior Security Engineer, Trust and Safety |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |

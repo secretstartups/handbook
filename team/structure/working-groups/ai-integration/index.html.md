@@ -89,7 +89,7 @@ The following criteria should be met for the group to disband:
 | Executive Stakeholder   | @timzallmann    | [Tim Zallmann](https://about.gitlab.com/company/team/#timzallmann)       | Senior Director of Engineering, Dev                             |
 | Facilitator             | @tmccaslin  | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin)   | Group Manager, Product - Data Science                    |
 | Facilitator             | @wayne  | [Wayne Haber](https://about.gitlab.com/company/team/#wayne)   | Director of Engineering |
-| Functional Lead - AI Assisted      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Assisted |
+| Functional Lead - AI Model Validation      | @mray  | [Monmayuri Ray](https://gitlab.com/mray2020)   | Engineering Manager AI Model Validation |
 | Functional Lead - UX             | @jmandell  | [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)   | Product Design Manager: Analytics, Govern, ModelOps, and Secure |
 | Functional Lead - UX             | @pedroms  | [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms)   | Staff Product Designer |
 | Functional Lead - Legal             | @m_taylor  | [Matthew Taylor](https://about.gitlab.com/company/team/#m_taylor)   | Sr. Director of Legal |
@@ -134,11 +134,11 @@ The following criteria should be met for the group to disband:
 
 We currently have two core AI Development groups at GitLab: AI Framework group and AI Assisted group.
 
-### AI Assisted group
+### AI Model Validation group
 
-The AI Assisted group helps all product groups to match the right model(s) and AI/ML-based techniques to the user problem they must solve. They do that by evaluating, building, training, and tuning many of the models GitLab uses as well as by proactively sharing AI resources and experience. Today, they also directly build and maintain some user-facing AI features.
+The AI Model Validation group helps all product groups to match the right model(s) and AI/ML-based techniques to the user problem they must solve. They do that by evaluating, building, training, and tuning many of the models GitLab uses as well as by proactively sharing AI resources and experience. Today, they also directly build and maintain some user-facing AI features.
 
-- [AI Assisted group](https://about.gitlab.com/handbook/product/categories/#modelops-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
+- [AI Model Validation group](https://about.gitlab.com/handbook/product/categories/#ai-powered-stage) develops in-house AI features that run natively within GitLab infrastructure. The group develops these models to meet capability, quality, customizability, privacy, and cost requirements.  These components include an inference engine, abstraction layer, and models.
 - The custom-built models help in use cases when there is a need to train models on customer-proprietary data (like all merge requests and commits for a customer) and when 3rd party models do meet our needs.
 - Their currently released features are [code suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) which is currently in customer beta and [suggested reviewer](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/#suggested-reviewers) which is GA.
 - This group can help evaluate models for functional correctness and [model perplexity](https://surge-ai.medium.com/evaluating-language-models-an-introduction-to-perplexity-in-nlp-f6019f7fb914) based on metrics and (often large) benchmark datasets, which is a more statistical evaluation than manual testing. This can help determine the most quality model for a feature's use-case.
