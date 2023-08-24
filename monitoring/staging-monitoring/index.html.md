@@ -38,7 +38,7 @@ Known limitations:
 
 #### Crawler configuration on Staging
 
-CMBR generates traffic for Staging using [scheduled pipelines](https://staging.gitlab.com/gitlab-com/gl-infra/cmbr-staging-load-generator/-/pipeline_schedules) for `gstg` and `cny-gstg`. The tool uses a dedicated user with auditor role to generate load and bypass rate limits ([1Password Credentials](https://start.1password.com/open/i?a=LKATQYUATRBRDHRRABEBH4RJ5Y&v=6gq44ckmq23vqk5poqunurdgay&i=q2mwjnvs5fhutpvt7pxc3h7p4i&h=gitlab.1password.com)).
+CMBR generates traffic for Staging using [scheduled pipelines](https://staging.gitlab.com/gitlab-com/gl-infra/cmbr-staging-load-generator/-/pipeline_schedules) for `gstg` and `cny-gstg`. The tool uses a dedicated user with auditor role to generate load and bypass rate limits (`Credentials for Staging Crawler` stored in 1Password `Engineering` vault).
 
 Throughput is controlled by environment variables and tuned differently for each service. It's worth noting that if load needs to be increased, Staging environment's performance should be considered and verified that it doesn't affect existing [GitLab QA pipelines]. Otherwise, it may bring intermittent errors in the test runs and affect the deployment.
 
