@@ -41,7 +41,7 @@ To enable all GitLab team members to confidently and comfortably share GitLab re
 
 ### Bambu, our social advocacy tool
 
-Bambu by Sprout Social is an employee advocacy platform for you to share content across LinkedIn, Twitter or Facebook. Bambu enables you to quickly and easily share content on LinkedIn, Twitter and Facebook to amplify our brand reach and help establish your personal brand on social media.The goal of this tool is to centralize content that is valuable to our audience.
+Bambu by Sprout Social is an employee advocacy platform for you to share content across LinkedIn, Twitter or Facebook. Bambu enables you to quickly and easily share content on LinkedIn, Twitter and Facebook to amplify our brand reach and help establish your personal brand on social media. The goal of this tool is to centralize content that is valuable to our audience.
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/5AWFUYd3myw"></iframe>"></iframe></figure>
 
@@ -185,7 +185,7 @@ Please note that most of what is approrpriate to share that comes from GitLab wi
 
 Elevate the way they use Bambu, and in turn produce more content shares, engagement and overall content impact. You can become a power user in less than 15 minutes a day!
 
-##### Schedule a post at least every other day.
+#### Schedule a post at least every other day
 
 We certainly don’t want you to share just for the sake of sharing, but with Bambu, you’ll have relevant content curated for you almost daily. By sharing more often, it signals to your social audience that you are a go-to source of information and expertise.
 
@@ -195,17 +195,17 @@ Scheduling stories on your social media channels is the best way to automate som
 
 <img src="/images/handbook/marketing/integrated-marketing/social-marketing/bambu-scheduling-screenshot.png" alt="Sreenshot of Bambu scheduling feature">
 
-##### Customize the post copy with your point of view.
+#### Customize the post copy with your point of view
 
 Bambu let’s us include suggested post copy for you, but to truly stand out and resonate with your audience, customize the suggested post copy to reflect your perspective on the content you’re sharing. Make sure to incorporate best practices like hashtags, tagging handles and others outlined in our social advocacy handbook. And remember, it's required to change 20 characters of the copy for Tweets, so have some fun with it.
 
 Pro tip: If you’re stuck on what to say, think “how would I explain this content to someone if I was talking to them in person?” and use your answer as the basis for your copy. People react well to posts that sound like a human.
 
-##### Engage beyond the share
+#### Engage beyond the share
 
 When your audience really connects with a post you’ve shared, they may comment with their thoughts or even a question. It’s a great opportunity to start a dialogue by replying to their comment and sharing more of your perspective.
 
-Pro tip: Aim to reply to comments within 1-2 days to keep the conversation timely and relevant
+Pro tip: Aim to reply to comments within 1-2 days to keep the conversation timely and relevant.
 
 ### Integrations
 
@@ -249,19 +249,19 @@ Ad value or equivalency - similar to how we measure this for the brand, this is 
 
 ### Bambu FAQs
 
-##### Why did we choose Bambu over [some other platform]?
+#### Why did we choose Bambu over [some other platform]?
 
 There are dozens of employee social media advocacy tools, many of which operate similarly. We chose Bambu due to the deep ties with our existing social media management software, Sprout Social, and the potential to streamline the "brand-to-team-member" content process. It's also pretty easy to use.
 
-##### I was not able to provide feedback on the tool selection process, the rollout of this program, or the topics and strategy. What gives?
+#### I was not able to provide feedback on the tool selection process, the rollout of this program, or the topics and strategy. What gives?
 
 This project has operated inside of the social team for a long time and has had to overcome many challenges from across the company in order to launch. We're thrilled that you'd want to provide feedback, however, we've developed the program with the right team members attached and providing feedback. For your ideas, please consider opening an issue for a future iteration where the team can consider your ideas to be included at a later time.
 
-##### Will Bambu replace the use of issues for social media enablement for team members?
+#### Will Bambu replace the use of issues for social media enablement for team members?
 
 Yes, that was a part of the original goal. Using GitLab issues for social enablement is an extremely manual process that has not been efficent. Bambu will allow a centralized and easy to use administration to the entire company while also helping us to understand performance metrics.
 
-##### What personally identifiable data is available for GitLab?
+#### What personally identifiable data is available for GitLab?
 
 GitLab is not given any personal information about your social media profiles, actions, comments, DM, or any other element. When you connect your social media channels to Bambu it provides a way for you to schedule and publish content on your social channels automatically using all of the APIs available on these social channels. It also provides a top level, no context review of performance metrics on *posts you published on your personal social media channels through Bambu only.
 
@@ -276,33 +276,33 @@ Here is a look at the data that is personally identified with individual team me
 
 <img src="/images/handbook/marketing/integrated-marketing/social-marketing/Bambu-Data-1.png" alt="Sreenshot of Bambu data">
 
-##### Why are preview images, titles, and text not included within shared posts?
+#### Why are preview images, titles, and text not included within shared posts?
 
 There may be an issue with the page you're trying to use for the story. Preview images, titles, and text are dictated by the data in the frontmatter of the page, and we may not have control over what appears here. [Learn more about how to determine what information gets pulled by social channels here.](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/admin/#data-needed-on-pages-in-order-for-links-to-work-on-social-media)
 
-##### Can I share content that is not alredy in Bambu through Bambu for better reporting?
+#### Can I share content that is not alredy in Bambu through Bambu for better reporting?
 
 No, we do not have this feature activated and it is not on our roadmap.
 
-##### Can I suggest individual pieces of content be added to Bambu?
+#### Can I suggest individual pieces of content be added to Bambu?
 
 Yes, there is a suggestion feature built into the tool. You'll see a `Suggest Story` button on the top left of your screen. However, we have an active group of curators who are responsbile for curating content. We are asking that the team keep their suggestions to away from [topics that are already accounted for with DRIs](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/#current-list-of-curators). Please connect with the DRI for a topic if you believe a piece of content should be added, since they are the responsible party on their assigned topic. Applying a team member's suggestion is entirely at the discretion of the social team and/or the assigned DRI for a specific topic and is subjective to what else is being promoted, if there are more important pieces of content for that topic, etc.
 
 Please keep in mind that providing a suggestion is only the first piece of the work necessary for the content to appear for the entire team to share on Bambu. We'd still need to vet the content for standards, legal review, write copy for the posts, and release it to be available in the platform. Adding suggestions adds more work for the social team and our team of curators, so make it worth it!
 
-##### Is Bambu connected to Salesforce or Marketo?
+#### Is Bambu connected to Salesforce or Marketo?
 
 While Bambu offers the possibility to connect with both Salesforce and Marketo for appropriate attribution, these features have not yet been activated. Issues for connecting [Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1635) and [Marketo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/4739) are opened and need to be completed. If you believe these connections are important for your use of Bambu, please reach out to me and the other stakeholders in the appropriate issue linked above.
 
-##### Where does the content in Bambu come from?
+#### Where does the content in Bambu come from?
 
 The content in Bambu comes from a group of GitLab team members we call curators, they help us to source and promote content that is important in their line of work. Folks from the security team will provide security related content, our all remote team will provide content about remote work, and so on. If there is a focus that is not being represented and it would provide content that the team actually wants to promote, please reach out in #social-advocacy-curators Slack channel with your idea. Please note that in the first few months of this program launch, we are not prioritizing more topics and more curators, so while the idea might be great, we'll need to add any additional thoughts to a future iteration. [Learn more about our curator program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/).
 
-##### I don't see anything about [your topic of choice] in Bambu, why is that?
+#### I don't see anything about [your topic of choice] in Bambu, why is that?
 
 This could be a for a number of reasons. If the topic is already covered in Bambu, the DRI may not have gotten to review this content yet or may have deemed other pieces more important to include. If the topic is not already covered in Bambu, this would be why it's not on the platform. At this point, we could discuss it further if you reach out in #social-advocacy-curators Slack channel with your idea. Please note that in the first few months of this program launch, we are not prioritizing more topics and more curators, so while the idea might be great, we'll need to add any additional thoughts to a future iteration. [Learn more about our curator program](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/social-advocacy-curators/).
 
-##### What's in the next iteration of Bambu and social advocacy?
+#### What's in the next iteration of Bambu and social advocacy?
 
 Sales: We're interested in getting our sales team and their sales-adjacent partners access to content that will help them drive better results as well as plug into the tools they use, like Marketo and Salesforce, for proper attribution data.
 
@@ -314,14 +314,14 @@ If you are in one of these teams and would like to volunteer your time to build 
 
 Here are some best practices for using Bambu for GitLab-related social media posts.
 
-##### Use Your Voice
+### Use Your Voice
 
 - Write posts in your own personal voice and style.
 - Be sure to refer to GitLab with “we” and not "I" (as appropriate) to represent the company and the community. Remember that even if you are not a formal spokesperson for the company, people will see you as a representative of GitLab.
 - If you choose to address competitors, highlight positive differences (focus on the ways that GitLab outperforms other solutions)
 - For example, if someone complains about GitLab’s product, you can suggest they’d tell us more by providing feedback in the issue tracker. Someone thinks GitLab could be better? Invite them to submit a feature proposal.
 
-##### Social Media Structure and Style
+### Social Media Structure and Style
 
 Make sure your copy follows the AIDA Model, a copywriting formula to drive interest and action from your audience.
 
@@ -330,15 +330,16 @@ Make sure your copy follows the AIDA Model, a copywriting formula to drive inter
 - Desire: Generate desire by explaining what they get out of it.
 - Action: Move your reader to take action. (ex. ‘Learn more’)
 - Try to visually break it into paragraphs or one-liners (even using emoji/bullets) for longer copy. For example:
-```
-GitLab has been a catalyst for change when it comes to the evolution of #DevSecOps.
 
-That’s why we were recognized as a challenger in the 2021 Gartner Magic Magic Quadrant for Application Security Testing! 🏆
+  ```
+  GitLab has been a catalyst for change when it comes to the evolution of #DevSecOps.
 
-Learn more about this award. 👇
-```
+  That’s why we were recognized as a challenger in the 2021 Gartner Magic Magic Quadrant for Application Security Testing! 🏆
 
-##### Ideal post length
+  Learn more about this award. 👇
+  ```
+
+### Ideal post length
 
 - Twitter: 70 to 100 characters
 - LinkedIn: around 100 characters
@@ -346,7 +347,7 @@ Learn more about this award. 👇
 
 You can always go longer or use threaded tweets, but this is a good recommendation based on the top performing posts across these channels.
 
-##### Addressing and Avoiding Conflict
+### Addressing and Avoiding Conflict
 
 Feel free to disagree with people. Try to inform the person (respectfully) and provide any links they may need to make a more informed decision. Begin your response with “I disagree” as opposed to “You’re wrong.”
 
@@ -361,7 +362,7 @@ For a foundational understanding of these nuances, read [GitLab's guide to commu
 
 **If you are unsure if you should respond to someone who has responded to your posts, join the #social_media_action Slack channel and ask for feedback.**
 
-##### You ought to promote your public-facing work
+### Promote your public-facing work
 
 If you've written a blog for our site, contributed to our latest release, or joined a webinar/webcast, you should want to tell your networks about it. Not only does this provide a way to build your following and expertise in the public domain, but it's also a great way to add critical promotion to your work. Promoting on social media isn't just about the GitLab brand channels. It's an orchestra of efforts, which includes team member support and advocacy.
 
