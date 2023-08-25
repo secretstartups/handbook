@@ -44,6 +44,8 @@ The Live Optimization session should be viewed by the customer as a Post Sales a
 
 ### Process
 
+To support the customer conversations and data capture, SMB Account Executives should consider using the [Template Storyboard](https://docs.google.com/presentation/d/1VhMzr7n31KdiBRCaY6X9-B71-tRanUAuIh78J-2cr_4/edit#slide=id.g2372274dae0_5_482) that covers all three steps of the Live Optimization engagement. This storyboard can then be used to brief the Solution Architect and other team members on future engagements with this company.
+
 #### Step 1: Qualification: AE explores the customer’s viability for the format
 
 If a Live Optimization session wasn’t discussed during the deal negotiations, the AE should take time to explore the customer’s viability before proposing a live optimization session. This can be done during a synchronous Milestone meeting where the AE documents the customers business and technical milestones for a period of time defined by the customer.
