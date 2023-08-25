@@ -122,3 +122,9 @@ Due to the nature and impact adding/editing/deleting Zendesk service level
 agreements imposes, all issues/MRs related to Zendesk service level agreements
 will be classified as
 [criticality 1](/handbook/support/readiness/operations/docs/change_criticalities#criticality-1)
+
+## Notes
+
+The SLA badge/timer will always show the hours until a target is due, or how
+long the target has been breached in calendar hours and days, even if an SLA
+policy is based on business hours.
