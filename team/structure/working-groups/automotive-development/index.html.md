@@ -67,4 +67,6 @@ Automotive software development is characterized by a complex combination of:
 | Facilitator                  | @fsieverding  | Falko Sieverding | Customer Success Manager |
 | Facilitator                  | @jesswang_gitlab  | Jess Wang | Customer Success Manager |
 | Facilitator                  | @vchacon  | Vianney Chacon Madriz | Customer Success Manager |
+| Facilitator                  | @jgaetjens  | Julia Gätjens | Solutions Architect |
 | Facilitator                  | @svij  | Sujeevan Vijayakumaran | Solutions Architect |
+| Facilitator                  | @Heddy2022  | Hedayat Paktyan | Strategic Account Leader |
