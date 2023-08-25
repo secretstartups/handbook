@@ -21,7 +21,7 @@ As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verif
 
 ## GitLab Team Members
 
-If the user is a GitLab team member, have them contact IT Ops.
+If the user is a GitLab team member, have them [contact IT Ops](https://about.gitlab.com/handbook/business-technology/end-user-services/).
 
 ## Self Service 2FA Removal
 
@@ -39,8 +39,6 @@ If a user cannot make use of self-serve methods (lost their account recovery cod
 
 If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
 
-#### Note
-
 For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
 
 ## Workflow
@@ -55,7 +53,13 @@ Because an ownership-verification ticket is a matter of record, the ticket must 
 1. Do not add requested CCs to the ticket. Remove any CCs that get added, except:
     1. Exception: Owners of the top-level group may be CCed as required.
 
-### Checking user eligibility (2FA requests only)
+### Step 0: Ticket metadata
+
+Ensure that the ticket form, category, subcategory, and topic are accurate.
+
+Most SaaS Account categories have [automations]({{< ref "/content/handbook/support/readiness/operations/docs/zendesk/automations.md" >}}) or [triggers]({{< ref "/content/handbook/support/readiness/operations/docs/zendesk/triggers.md" >}}), including 2FA removal.
+
+### Step 1: Checking user eligibility (2FA requests only)
 
 Before you send the challenges, make sure the user is eligible to receive support for 2FA removal.
 
@@ -64,7 +68,7 @@ Before you send the challenges, make sure the user is eligible to receive suppor
 A SaaS user must meet one of the following conditions to be eligible for a 2FA reset.
 
 1. The user on GitLab.com occupies a seat in a paid group on GitLab.com.
-1. The user is an [Enterprise User](../gitlab-com_overview/#enterprise-users).
+1. The user is an [Enterprise User]({{< ref "gitlab-com_overview.md#enterprise-users" >}}).
     - Note: A top-level group owner or user can submit the ticket. If the user is not a member of the group, an [owner vouch](#authenticating-an-owner-vouch) is required, and the [data classification](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal) is still Red based on the status of the paid namespace.
 1. The user is the primary billing contact on a current invoice for a SaaS purchase.
 1. GitLab team member (account managers, CSMs or others) collaborate with the holder of this account in an account management project.
@@ -78,7 +82,7 @@ While Support typically identifies users by their membership in a paid namespace
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.
-1. If the user is classed as an [Enterprise user](../gitlab-com_overview/#enterprise-users) the user or an owner of the paid group raises the ticket.
+1. If the user is classed as an [Enterprise user]({{< ref "gitlab-com_overview.md#enterprise-users" >}}), then the user or an owner of the paid group raises the ticket.
 
 #### Account Verification Matrix
 
@@ -106,24 +110,24 @@ If one of the above conditions is met the user is eligible for our 2FA reset pro
 
 If an invoice can not be provided, suggest [sign in with legacy email/password](https://customers.gitlab.com/customers/sign_in?legacy=true), where an invoice can be downloaded.
 
-### Sending Challenges
+### Step 2: Sending Challenges
 
 If you need a basis for a response where you send the challenges, or in a 2FA ticket, if the user has not answered the challenges, use the `Support::SaaS::2FA::2FA Challenges` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
 
-### Evaluating Challenge Answers
+### Step 3: Evaluating Challenge Answers
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
-1. To verify the challenge answers, use [chatops](https://about.gitlab.com/handbook/support/workflows/chatops.html), the [Zendesk GitLab User Lookup App](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
-1. Use the [ZenDesk GitLab Super App's 2FA Helper](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) to determine the [risk factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
+1. To verify the challenge answers, use [chatops]({{< ref "chatops.md" >}}), the [Zendesk GitLab User Lookup App]({{< ref "/handbook/support/readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}) or, for those who have admin access, check at `https://gitlab.com/admin/users/USERNAME`.
+1. Use the [ZenDesk GitLab Super App's 2FA Helper]({{< ref "/handbook/support/readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}) to determine the [risk factor](https://internal.gitlab.com/handbook/support/#risk-factors-for-account-ownership-verification) (GitLab internal) based on the user's answers. Data classification criteria and any notes are in the [Internal Handbook - Data Classification table](https://internal.gitlab.com/handbook/support/#data-classification) (GitLab internal), which is considered the source of truth. If you need to leave a comment manually (instead of through the app), use the [`Support::SaaS::2FA::2FA Internal Note` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043856894) to put an internal note on the ticket.
    - [Specific conditions are required to be considered for 2FA resets](#checking-user-eligibility-2fa-requests-only).
    - Challenge answers must be evaluated against a paid namespace if the user is a member of any paid namespace. If the user is not a member of a paid namespace, refer to [Conditions for 2FA Reset Consideration](#checking-user-eligibility-2fa-requests-only) for further guidance.
-   - If a group owner is answering on an [enterprise user's](../gitlab-com_overview/#enterprise-users) behalf, the answers must relate to the group owner's account, not the user's account. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching).
+   - If a group owner is answering on an [enterprise user's]({{< ref "gitlab-com_overview.md#enterprise-users" >}}) behalf, the answers must relate to the group owner's account, not the user's account. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching).
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
 1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
 
-### Authenticating an Owner Vouch
+#### Authenticating an Owner Vouch
 
 In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner (top-level) create a Snippet with a Support-provided string. Once they have replied verifying they have done so:
 
@@ -134,7 +138,7 @@ In a paid namespace: If the user elects to have an Owner vouch for their request
 
 Note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case use a [backup method](#backup-methods-for-authenticating-an-owner) instead.
 
-### Backup methods for authenticating an owner
+#### Backup methods for authenticating an owner
 
 If a group owner is unable to create a snippet, you may use another method to verify their identity. It must be an action that has been specifically instructed by Support and identifiably unique to the situation. Some examples include having the owner:
 
@@ -142,7 +146,7 @@ If a group owner is unable to create a snippet, you may use another method to ve
 - create a new project at a path that you provide.
 - update their GitLab Status to a specific string.
 
-### User Successfully Proves Account Ownership
+### Step 4a: User Successfully Proves Account Ownership
 
 This section is typically done by the peer reviewer. If needed, the peer reviewer (or approving manager) may leave an approval note, in which case the original reviewer will perform the actions.
 
@@ -152,7 +156,7 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
       1. On the account tab, click on `Disable 2FA`.
       1. Use the `Support::SaaS::2FA::2FA Removal Verification - Successful` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103772548).
 
-### User Fails to Prove Account Ownership
+### Step 4b: User Fails to Prove Account Ownership
 
 > **Note**: Do *not* provide hints to answers, or let the user know which challenges they got right or wrong. That is how social engineering works!
 
@@ -164,10 +168,6 @@ This section is typically done by the peer reviewer. If needed, the peer reviewe
 1. If the user is unable to pass the available challenges:
    1. Inform them that without verification we will not be able to take any action on the account. For 2FA, use the `Support::SaaS::2FA::2FA Removal Verification - GitLab.com - Failed - Final Response` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103790308).
    1. Mark the ticket as "Solved".
-
-## 2FA Removal
-
-2FA removal and other account actions can only be completed if the [workflow](#workflow) above is successful.
 
 ## Large Customers
 
