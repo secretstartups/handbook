@@ -16,7 +16,7 @@ Incidents will be classified using `Priority` and `Severity` labels.  SIRT will 
 
 ## Priority
 
-The priority label is used to indicate the importance and guide the scheduling of the incident. Priority labels are expected to be set based on the circumstances of the incident, number of impacted users, and affected systems.
+The priority label is used to indicate the importance and guide the response timing of the incident. Priority labels are expected to be set based on the circumstances of the incident, number of impacted users, and affected systems.  Priority should be adjusted as the incident is worked and the conditions change.
 
 | Urgency | Example | Expected Response | GitLab Label |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ The priority label is used to indicate the importance and guide the scheduling o
 
 ## Severity
 
-The severity label is used to indicate the impact and determine the priority of the incident.
+The severity label is used to indicate the actual or potential impact and helps determine the priority of the incident.  Severity should remain the highest level assessed once triage has been done. If it is determined the severity was inaccurately assessed, it should be updated with why the adjustment was made and how we arrived at that conclusion clearly documented in the issue comments.
 
 | Impact | Example |  GitLab Label |
 | --- | --- | --- |
