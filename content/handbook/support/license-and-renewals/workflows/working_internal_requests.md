@@ -12,11 +12,11 @@ description: Describes how to service internal requests for licensing & renewals
 
 ### Servicing Internal Requests
 
-Choose the best [L&R Workflows](/handbook/support/license-and-renewals/workflows/) when servicing L&R internal requests.
-
-**NOTE:** L&R Internal Requests can be found in the "L&R" View in Zendesk.
+Choose the best [L&R Workflows](/handbook/support/license-and-renewals/workflows/) when servicing L&R internal requests. L&R Internal Requests can be found in the "L&R" View in Zendesk.
 
 The L&R team works on licensing and subscription related internal requests that are filed by GitLab team members using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+
+**NOTE:** Use the `Support::L&R::Sales Internal Request - Office Hours Notice` macro in either your first or last response in the ticket to increase awareness of the regional office hours hosted by the L&R team.
 
 A list of the different options available and example scenarios can be found in [this table](https://about.gitlab.com/handbook/support/internal-support/#internal-requests).
 
