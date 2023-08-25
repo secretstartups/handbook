@@ -110,7 +110,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
 1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
 
-### Cadence Updates
+## Cadence Updates
 
 We have a cadence for reviewing our elements. Specifically, each element is reviewed at the cadence of the element that is the next level down. For example, we revisit our 3 year strategy every year. This maps to when we do annual Yearlies. And, we revisit our Yearlies every quarter. This is the timeframe for creating OKRs.
 
