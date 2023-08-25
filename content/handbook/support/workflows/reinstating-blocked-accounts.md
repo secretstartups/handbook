@@ -72,11 +72,15 @@ This workflow is used to determine if a blocked user can be reinstated if it has
     1. The user account is classified as an [Enterprise user](https://about.gitlab.com/handbook/support/workflows/gitlab-com_overview.html#enterprise-users) and an owner of the top-level group raises the ticket.
 1. If the account is blocked, look for the admin note on the account to determine why it has been blocked.
     - The [GitLab user lookup app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively -
-
-- If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
-
- > `/chatops run user find <username or email>`
-
+    - If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
+        > `/chatops run user find <username or email>`
+1. If the Admin Note is `User deleted own account on {timestamp}`(this means the user initiated the self-serve deletion):
+    1. If the user is Free, the user needs to wait 7 days, starting the day of the deletion request, to create a new account with the same email address or username. Use the [`Support::SaaS::Blocked Accounts::Blocked due to account deletion`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+8854271445148) macro.
+    1. If the user is not part of a paid namespace but needs to be added to a paid namespace (user or top-level group owner creates the ticket), then they can request immediate deletion.
+        - Use the [`Support::SaaS::Blocked Accounts::Blocked due to account deletion`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+8854271445148) macro and ask for explicit permission from the user to bypass the 7d wait period and delete the account.
+        - When confirmation is received, SE (with Admin access) deletes the account.
+        - SE updates the ticket with the result of the deletion.
+        - Note: If the user is part of a paid namespace, the user has no deletion delayed and the account is deleted immediately, see [this MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/121912).
 1. If the block or complaint is related to access from an embargoed country, use the [`Support::SaaS::Abuse::TOS Section 10 (Embargoed Countries)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360020523679) macro.
     - If the user provides the requested information, then complete the `Trust and Safety` [Account Reinstatement Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/TS_Operations/account-reinstatements/-/issues/new?issuable_template=Account%20Reinstatement) template in the Trust and Safety Operations tracker. Otherwise, reaffirm the block cannot be removed.
 1. Professional Services migrations can also block users as part of their process. Admin notes for migrations were added as of 2022-08-19 through [this issue](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/issues/818). Older migrated accounts may not have an admin note. Support can unblock the user in the following cases:
