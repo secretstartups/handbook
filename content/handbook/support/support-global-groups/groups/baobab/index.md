@@ -24,6 +24,14 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 - Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.
 - The `Unsorted::Clarify preferred region assignment` [macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+5602977263388) can be used to inform a customer that their ticket has been assigned to an engineer outside of their preferred region, and to gather confirmation from the customer on how they'd like to proceed in this regard.
 
+## How to handle FRTs
+
+- Please refer to [providing a first response to a ticket](/handbook/support/workflows/working-on-tickets/#providing-a-first-response-to-a-ticket).
+- If you are sending a first response without taking assignment, [check our guidelines](/handbook/support/workflows/working-on-tickets/#helping-with-a-first-response-without-taking-assignment), and try to help find an assignee for it.
+  - Consider keeping yourself CCed on ticket, at least till an assignee is found.
+  - If nobody volunteered or has the knowledge to take it, maybe ask an expert from another SGG.
+  - As a last resort, ask the manager on-call to help find an assignee.
+
 ## How to handle HPAR tickets
 
 - Reply if you can or leave an internal comment, especially if the ticket is near breaching, and
@@ -33,14 +41,19 @@ Suggestions for improvements to these workflows are encouraged at any time, from
 
 ## How to handle NRTs
 
+**We aim for not having any unassigned tickets and at least no > 5 days NRT breaches**
+
 - If FRT queue is in a good shape, we can start picking up NRTs.
-- Prioritize the tickets that have no assignee or whose assignees are OOO.
-- If another SE has done significant work on a ticket (whether assigned or not) and are available, ping them to see
-  if they can carry on with it, and offer to pair with them if they are stuck or overloaded.
-- When you respond to a ticket assigned to someone on PTO assign it to yourself and CC the original assignee.
-- Try to handle the near breaching NRTs first.
-- Try to make sure we don't have any > 5 days NRT breaches.
-- Reach out to the team for help with tricky ones.
+- Add a task to your daily routine to look through the queue and prioritize the tickets that have no assignee or whose assignees are OOO.
+  - For unassigned tickets, check with the SE who sent the first/previous reply if they intended to not take assignment. If they are available, see
+  if they can carry on with it, and offer to pair with them if they are stuck or overloaded. Else feel free to take assignment.
+  - For tickets assigned to SEs on short PTO, consider keeping yourself CCed when sending a reply.
+  - For tickets assigned to SEs on long PTO, assign it to yourself and CC the original assignee.
+  - If you are taking assignment, let the customer know you are taking over and confirm your understanding of the ticket to ensure you are on the same page.
+  - If you cannot take assignment, consider flagging the ticket on our slack channel.
+- Next try to help with the near breaching NRTs first.
+- Offer pairing with SEs with the longest breached tickets or leave some tips in internal comments.
+- Remember to reach out to the team for help with tricky ones.
 
 ## How to handle tickets before going to PTO
 
@@ -64,14 +77,18 @@ and issues ([agenda doc](https://docs.google.com/document/d/1uAIdDPj1Ez58gTrTxz_
 
 There are Ticket Crush sessions scheduled at the following times:
 
-- Wednesdays at 04:00 UTC
-- Thursdays at 04:00 UTC
+- Wednesdays at 04:00 UTC (APAC)
+- Thursdays at 04:00 UTC (APAC)
 - Mondays at 11:00 UTC (EMEA)
 - Wednesdays at 11:00 UTC (EMEA)
 - Tuesdays at 14:30 UTC (EMEA/AMER)
 - Thursdays at 08:00 UTC (APAC/EMEA)
 
 There is also a social chat on Fridays at 10:30 UTC.
+
+Adding a trial NRTea party:
+- Mondays at 12:00 UTC (EMEA)
+
 
 ## Focus Time
 
