@@ -186,7 +186,7 @@ This is used to force an instant sync of LDAP for testing purposes.
    1. **GitLab 8.11 >**
 
         ```ruby
-        group =  EE::Gitlab::LDAP::Group.find_by_cn('UsersLDAPGroup', adapter)
+        group =  EE::Gitlab::Auth:Ldap::Group.find_by_cn('UsersLDAPGroup', adapter)
         ```
 
    1. **GitLab < 8.10**
