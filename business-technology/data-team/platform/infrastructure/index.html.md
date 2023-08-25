@@ -56,12 +56,20 @@ List of prefix indicators
 
 All DAGs are created using the `KubernetesPodOperator`, so the airflow pod itself has minimal dependencies and doesn't need to be restarted unless a major infrastructure change takes place.
 
-There are 4 containers running in the current Airflow deployment as defined in the [deployment.yml](https://gitlab.com/gitlab-data/data-image/blob/master/airflow_image/manifests/deployment.yaml):
+The helm chart of airflow creates 4 pods  in the cluster for managing airflow, below:   
 
-1. A sidecar container checks the repo activity feed for any merges to master. If there was one, the sidecar will re-clone the repo so that Airflow runs the freshest DAGs.
-1. The Airflow scheduler
-1. The Airflow webserver
-1. A Cloud SQL proxy that allows Airflow to connect to our Cloud SQL instance
+1. airflow-scheduler
+1. airflow-webserver
+1. airflow-pgbouncer: supplemental DB component which provides additional DB security and connection management. 
+1. airflow-statsd: enables reading and monitoring of airflow metrics in prometheus (still to be implemented)
+
+The scheduler, webserver, and any workers created also include
+  1. cloud-sql-proxy side car container which connects the containers to the external DB using service account credentials. 
+
+Additionally, the scheduler and webserver also include: 
+  1. git-sync side car container which updates the DAGs repo with any changes detected in the repository.
+
+The install also requires an external postgres DB, which needs to be created manually. 
 
 #### Kubernetes Setup
 
@@ -331,8 +339,9 @@ Sometimes things break and it's not clear what's happening. Here are some common
 - [GCP Error Reporting](https://console.cloud.google.com/errors?time=P1D&order=COUNT_DESC&resolution=OPEN&resolution=ACKNOWLEDGED&project=gitlab-analysis) - This can be very useful for determining what errors are happening in Airflow and across the project
     - The GCP error report was useful when the [cluster was down in February 2020](https://gitlab.com/gitlab-data/analytics/issues/3757). The errors were reporting that the application was out of storage. This led to the fix described in [Managing Persistent Volume Claim](/handbook/business-technology/data-team/platform/infrastructure/#managing-pvc)
 - Check the Workloads and Services & Ingress sections in the [Kubernetes section of GCP](https://console.cloud.google.com/kubernetes/list?project=gitlab-analysis). Notice if there are any warnings or errors there
-- Run `kubectl get pods` and see if one labeled `airflow-deployment` comes back. Try to `exec` into the pod
+- Run `kubectl get pods` and see if above 4 pods comes back in the airflow namespace. Try to `exec` into the pod using the container.
 - Run `kubectl get pods -A` and double check if there are any old or stale pods which may be causing a bottle neck in the namespace.
+- Run `kubectl get events --all-namespaces  --sort-by='.metadata.creationTimestamp` and look for any recent error messages that may relate. 
 
 ##### Semi-common Problems
 
@@ -356,10 +365,16 @@ Sometimes things break and it's not clear what's happening. Here are some common
 
 #### Updating Airflow
 
-- Have an issue ready with key stakeholders alerted as to the timing of the upgrade. Give at least one day notice before moving forward with the upgrade
-- Bump the version in the `airflow_image/Dockerfile`, the line looks like `ARG AIRFLOW_VERSION=<version_number>`
-- Delete and recreate the deployment.  See the `Restart Deployment and Pods` section below for specific directions for this step.
-- `exec` into one of the containers in the pod and run `airflow upgradedb`
+- As we have separate build processes locally (docker) and in the production deployment (helm) order to get Airflow updated and in sync we need to update both sections
+
+##### Helm 
+- Confirm helm chart version availability by running: `helm search repo airflow --versions`.
+- Update this version in the terraform scripts in the [Airflow Infrastructure](https://gitlab.com/gitlab-data/airflow-infrastructure) repo in both the /init_run & /helm_airflow folders.
+- Test deployment by following the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/airflow_infrastructure/airflow_terraform.md) to get a test Airflow instance up and running. 
+
+##### Docker
+- Update requirements.txt in the [Airflow Image](https://gitlab.com/gitlab-data/airflow-image) version to match up with the helm deployment to ensure consistency. 
+- Test locally by running `make init-airflow` followed by `make airflow` from the base of the [analytics repo](https://gitlab.com/gitlab-data/analytics)
 
 #### View Resources
 
@@ -372,9 +387,14 @@ Sometimes things break and it's not clear what's happening. Here are some common
 
 #### Restart Deployment and Pods
 
-The resource manifests for kubernetes live in `airflow-image/manifests/`. To create or update these resources in kubernetes first run `kubectl delete deployment airflow-deployment` and then run `kubectl apply -f <manifest-file.yaml>`. Because we are using a persistent volume that can only be claimed by one pod at a time we can't use the usual `kubectl apply -f` for modifications. A fresh deployment must be set up each time.
+The airflow deployment is configured using terraform, running the latest helm chart install in the [Airflow Infrastructure](https://gitlab.com/gitlab-data/airflow-infrastructure/-/tree/main/airflow_infra) repo. 
+To create or update run command in below order
+ - `terraform init` (If you are running terraform for first time)
+ - `terraform destroy` 
+ - `terraform plan -out "plan_to_apply`. (This command will help to check  what changes this terraform command will be doing)
+ - `terraform apply "plan_to_apply"`. (This will apply above plan to GKE clusters)
 
-- For example, if you need to force a pod restart, either because of Airflow lockup, continual restarts, or refresh the Airflow image the containers are using, run `kubectl delete deployment airflow-deployment`. This will wipe out any and all pods (including ones being run by airflow so be careful). Then from the `data-image` repository root folder, run `kubectl apply -f airflow_image/manifests/deployment.yaml` to send the manifest back up to Kubernetes and respawn the pods.
+- For example, if you need to force a pod restart, either because of Airflow lockup, continual restarts, or refresh the Airflow image the containers are using, run `terraform destroy`. This will wipe out any and all pods (including ones being run by airflow so be careful). Then from the [Airflow Infrastructure](https://gitlab.com/gitlab-data/airflow-infrastructure/-/tree/main/airflow_infra/helm_airflow) repository folder, run `terraform apply` to send the manifest back up to Kubernetes and respawn the pods.
 
 #### Access Shell with Pod
 {: #access-pod}
@@ -398,7 +418,7 @@ The resource manifests for kubernetes live in `airflow-image/manifests/`. To cre
 
 #### Updating Secrets
 
-- The easiest way to update secrets in the prod environment is to use the command `kubectl edit secret airflow -o yaml`, this will open the secret in a text editor and you can edit it from there. New secrets must be base64 encoded, the easiest way to do this is to use `echo -n <secret> | base64 -`. There are some `null` values in the secret file when you edit it, for the file to save successfully you must change the `null` values to `""`, otherwise it won't save properly.
+- The easiest way to update secrets in the prod environment is to use the command `kubectl edit secret airflow -o yaml --namespace=airflow`, this will open the secret in a text editor and you can edit it from there. New secrets must be base64 encoded, the easiest way to do this is to use `echo -n <secret> | base64 -`. There are some `null` values in the secret file when you edit it, for the file to save successfully you must change the `null` values to `""`, otherwise it won't save properly.
 - When adding new secrets, also make sure to add the secret, with an appropriate value, to the testing environment.  The command for this is `kubectl edit secret airflow -o yaml --namespace testing`.  This command follows the same guidelines as those described above for production.  If you don't add new secrets to the testing environment, the DAGs that use them will not run when testing.
 
 #### Stopping a Running DAG
@@ -557,23 +577,27 @@ There are a few environment variables you will need to properly use the Makefile
 - `GOOGLE_APPLICATION_CREDENTIALS` - CloudSQL credentials for connecting to GCP. Typically points to a JSON file - `GOOGLE_APPLICATION_CREDENTIALS="/Users/tmurphy/Projects/GitLab/gcloud_service_creds.json"`
     - These credentials should be provisioned following the instructions in the [GCP IAM section](/handbook/business-technology/data-team/platform/infrastructure/#gcp-iam)
 
-### Images
+### Infra Repos
 
-#### Data
+#### Airflow Infra
 
-The `data_image` directory contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version.
+The [Airflow Infrastructure](https://gitlab.com/gitlab-data/airflow-infrastructure) repo contains the helm charts, kubernetes manifests and terraform scripts required for managing all of the Airflow Infrastructure 
 
-#### Airflow
+#### Airflow Image
 
-The `airflow_image` directory contains everything needed to build and push not only the `airflow-image` but also the corresponding Kubernetes deployment manifests. The only manual work that needs to be done for a fresh deployment is setting up an `airflow` secret. The required secrets can be found in `airflow_image/manifests/secret.template.yaml`.
+The [Airflow Image](https://gitlab.com/gitlab-data/airflow-image) repo contains everything needed to build and push the `airflow-image`. This image is **only** used for local Airflow testing. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version.
 
-The `default` airflow instance is the production instance, it uses the `airflow` postgres db. The `testing` instance uses the `airflow_testing` db.
+#### Data Image
 
-The `default` instance logs are stored in `gs://gitlab-airflow/prod`, the `testing` instance logs are stored in `gs://gitlab-airflow/testing`
+The [Data Image](https://gitlab.com/gitlab-data/data-image) repo contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version. Largely a miscellaneous/utility image. 
 
-#### dbt
+#### CI Python Image
 
-The `dbt_image` directory contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version. As this image is used by Data Analysts there should not be much more than dbt in the image.
+The [CI Python Image](https://gitlab.com/gitlab-data/ci-python-image) repo contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version. Image contains all python libraries(pre-built) required for use in the CI pipelines. Exists mostly to lower CI costs.  
+
+#### dbt Image
+
+The [DBT Image](https://gitlab.com/gitlab-data/dbt-image) repo contains everything needed for building and pushing the `data-image`. If a binary needs to be installed it should be done in the Dockerfile directly, python packages should be added to the `requirements.txt` file and pinned to a confirmed working version. As this image is used by Data Analysts there should not be much more than dbt in the image.
 
 
 ### Creating New Images
