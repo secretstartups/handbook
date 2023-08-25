@@ -25,7 +25,7 @@ A: Neither the git repo backups nor the database backups will be purged immediat
 
 #### Q: How is GitLab.com backed up?
 
-A: You can view how our runbooks for specifics on how our [database](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/postgresql-backups-wale-walg.md) and [filesystems](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/gcp-snapshots.md) are backed up.
+A: You can view how our runbooks for specifics on how our [database](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/postgresql-backups-wale-walg.md) and [filesystems](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/disaster-recovery/gcp-snapshots.md) are backed up.
 
 ### GitLab.com Settings 
 
