@@ -27,17 +27,17 @@ Capturing these insights while the session is fresh in your minds makes the over
 ### After interviews: Find patterns and themes
 
 **Synthesizing user interview data**
-Affinity diagramming is one way of finding themes in a collection of ideas, quotes, or observations. This method helps you draw out insights from qualitative data quickly and collaboratively. This is traditionally done in person with sticky notes on a large blank wall or whiteboard. At GitLab, we use a tool called [MURAL](https://mural.co/) to recreate this experience remotely.
+Affinity diagramming is one way of finding themes in a collection of ideas, quotes, or observations. This method helps you draw out insights from qualitative data quickly and collaboratively. This is traditionally done in person with sticky notes on a large blank wall or whiteboard. At GitLab, we use a tool called [Figjam](https://www.figma.com/figjam/online-whiteboard/) to recreate this experience remotely.
 
 We use Dovetail to capture notes from each participant session and to store the insights which result from synthesizing the data. As you record data from research sessions, please remove any [personal identifiable information](https://about.gitlab.com/handbook/support/workflows/pii_removal_requests.html#overview) or PII (such as first and last names). Additionally, Dovetail has the option of allowing you to highlight and tag your notes within the platform. 
 
-Aside from Dovetail, MURAL is a helpful tool when you are just learning how to synthesize and analyze your data.
+Aside from Dovetail, Figjam is a helpful tool when you are just learning how to synthesize and analyze your data.
 
-#### 1. Put your notes into MURAL
-Don’t just copy your notes word for word into a sticky note in MURAL. Read through them and choose the most salient information to create a sticky note from. Best practice is to use one piece of information per sticky note. Have each contributor take one participant to create sticky notes for. At the end of this step, you should have groups of sticky notes for each participant.
+#### 1. Put your notes into Figjam
+Don’t just copy your notes word for word into a sticky note in Figjam. Read through them and choose the most salient information to create a sticky note from. Best practice is to use one piece of information per sticky note. Have each contributor take one participant to create sticky notes for. At the end of this step, you should have groups of sticky notes for each participant.
 
 #### 2. Cluster the data into themes
-Once all your individual notes are in MURAL, begin by grouping similar stickies together. The themes you use should tie directly to your research hypotheses, research goals, and objectives. You can copy these right into your MURAL board so you can keep them top-of-mind while you group individual findings into broader themes. You might also reference the questions listed in this article to ask yourself and your team throughout the synthesis process.
+Once all your individual notes are in Figjam, begin by grouping similar stickies together. The themes you use should tie directly to your research hypotheses, research goals, and objectives. You can copy these right into your Figjam board so you can keep them top-of-mind while you group individual findings into broader themes. You might also reference the questions listed in this article to ask yourself and your team throughout the synthesis process.
 
 Here are some potential ways to group findings:
 

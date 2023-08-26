@@ -35,7 +35,7 @@ There are a couple of different exercises that can be used to do mental modeling
 
 ### Card sorting 
 
-[Card sorting](https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/) is a very common method in UX research for discovering how users might group a set of items, for instance in designing an information architecture. Card sorting reveals mental models by having the participant sort a deck of cards, each with a relevant term, into piles. This can be done in person with index cards, or virtually with a digital whiteboard tool (e.g., Mural, Miro, or Figma). 
+[Card sorting](https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/) is a very common method in UX research for discovering how users might group a set of items, for instance in designing an information architecture. Card sorting reveals mental models by having the participant sort a deck of cards, each with a relevant term, into piles. This can be done in person with index cards, or virtually with a digital whiteboard tool (e.g., Figjam). 
 
 You will end up with a set of piles containing the cards or terms a participant believes go together in some way. It is often helpful to have the participant give a name to each group, or to combine several groups under a new term they come up with - this is especially useful in determining multi-layered navigation models. 
 

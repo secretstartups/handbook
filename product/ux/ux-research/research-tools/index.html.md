@@ -21,4 +21,4 @@ Product Managers, Product Designers, and UX Researchers have access to the UX re
 * [Dovetail](https://dovetailapp.com/) is used to analyze data, collaborate on insights, and as a research repository.
 * [Optimal Workshop](https://www.optimalworkshop.com/) is used to facilitate card sort testing and tree testing. We do not have an ongoing subscription, so a monthly license is purchased as needed. Contact @asmolinski2 if you need access.
 * [UserTesting.com](/handbook/product/ux/ux-research/unmoderated-testing/) is used for certain unmoderated testing for [solution validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) and [Category Maturity Scorecard studies](/handbook/product/ux/category-maturity/category-maturity-scorecards/). Note: UserTesting.com offers analysis tools but we prefer exporting the videos to Dovetail for analysis to keep a SSOT.
-* [Mural](https://mural.co/) is used for online brainstorming, synthesis, and collaboration.
+* [Figjam](https://www.figma.com/figjam/) is used for online brainstorming, synthesis, and collaboration.
