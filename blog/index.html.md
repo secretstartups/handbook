@@ -174,7 +174,7 @@ It is important that our blog content represents our company values of diversity
 
 ## Formatting guidelines
 
-To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post). **If you choose to use Netlify CMS you likely won't need to know all the formatting in this section so feel free to [skip ahead](#when-youre-ready-to-create-your-blog-post).**
+To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post).
 
 Please read through the [Markdown guide](/handbook/markdown-guide/) for reference.
 
@@ -665,16 +665,10 @@ Image sizes can exceed megabytes and slow down the site rendering. Follow the pr
 
 There are three ways to create a blog post MR:
 
-1. Use [Netlify CMS](/handbook/marketing/netlifycms/)*
 1. Add a new file to `sites/uncategorized/source/blog/blog-posts/` [in the UI](#creating-a-blog-post-mr-from-the-ui)
 1. [Use the terminal](#creating-a-post-from-the-command-line) on your own computer
+1. Use [the internally created Blog Creator](https://demos.gitlab.io/applications/blog-post-creator/#/)
 
-*We have recently implemented Netlify CMS for drafting and publishing blog posts. This is fairly new, and there are several videos to help you learn how to use this tool.
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/A5_RIEYyIjo" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
 #### Creating MRs for confidential issues
 
@@ -687,7 +681,6 @@ If your blog post issue is confidential, please don't create an MR using the but
 
 **For time-sensitive announcements** we recommend finding out from #production on Slack who the [Engineer On Call](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) will be at the time you are hoping to publish, so you can give them a heads up about the plans and you know who to contact on the day if there are any production issues with GitLab.com.
 
-Feel free to give a thumbs up to [this feature request for confidential MRs](https://gitlab.com/gitlab-org/gitlab/-/issues/222404) and [this issue exploring implementing private staging in Netlify CMS](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149).
 
 ### Creating a blog post MR from the UI
 
@@ -819,7 +812,7 @@ Hit **enter** or **return**, then you'll be prompted to enter the post title. Ty
 
 ### Adding a cover image to your blog post MR
 
-Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app. **If you're using [Netlify CMS](/handbook/marketing/netlifycms/) you can add your cover image there.**
+Most blog posts require a new [cover image](#cover-image). You should upload your chosen image to the same branch as your blog post file, so that it is all included in the same MR. This means it will be published to the website simultaneously, and also allows you to preview your cover image in the review app. 
 
 #### Step 1: Upload image file
 
