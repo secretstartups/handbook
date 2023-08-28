@@ -15,6 +15,28 @@ Temporary Service Providers are team members that are provided by an outside ven
 ## What is the Temporary Service Provider lifecycle process like? 
 Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. We track issues related to consultants/professional service providers in the [Temporary Service Providers group](https://gitlab.com/gitlab-com/temporary-service-providers). Temporary Service Providers need to go through the [Professional Services Procurement process](https://about.gitlab.com/handbook/finance/procurement/#--vendor-lifecycle-management) before they can be onboarded. 
 
+### Hiring Manager Responsibilites
+
+## Prior to Onboarding Contractor
+All steps below must be completed prior to any onboarding or access assignment. 
+
+- Procurement process must be completed. [How to submit a Zip request for a contractor](https://about.gitlab.com/handbook/finance/procurement/#how-to-submit-a-zip-request-for-a-contractor)
+- PO approved with a confirmed engagement end date.
+- Security and Legal Reviews must be complete in Zip.
+- Background checks complete if accessing [orange/red data](https://about.gitlab.com/handbook/security/data-classification-standard.html)
+- If accessing orange/red data a GitLab a laptop is required for your contractor. The manager must have confirmed that IT is able to deliver a laptop to the contractor's country/location.
+- Contractor accounts cannot be open ended and need to have an end date specified.
+
+### During the Engagement/Lifecycle
+
+- If the manager changes role, is no longer responsible for managing the contractor or would like to extend the end date,  please contact IT through #it-help to request the change.
+- [User Access Reviews](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) must be completed by the GitLab contractor manager when a contractor is included in that access review. User access reviews are a critical SOX control for people managers to be aware of and to be sure you understand your responsibility as a reviewer.
+
+### Responsibilities for Offboarding a Contractor
+
+- Managers must complete the [offboarding template](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/issues/new?issuable_template=offboarding) for their contractor(s) upon completion of the engagement with the vendor. 
+- Please review and complete all Manager related sections and responsibilities in the contractor offboarding issue. 
+
 ## Access Requests and Orientation issues
 
 If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) **is responsible for creation of a Vendor Access Request and Orientation issue.**
