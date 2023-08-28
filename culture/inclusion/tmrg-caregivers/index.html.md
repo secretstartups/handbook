@@ -41,7 +41,7 @@ We have four main objectives for this TMRG:
 
 
 ## Leads
-* [Jackie Porter](https://gitlab.com/sheelaviswanathan)
+* [Jackie Porter](https://gitlab.com/jreporter)
 * [Gena Schawam](https://gitlab.com/gschwam) [Co-Lead]
 * Open
 * Open 
