@@ -45,17 +45,13 @@ Following the workshop, participants will begin an 8 week program including:
 
 | Week | Lesson Title | What you’ll learn |
 | ----- | ----- | ---------- |
-| 1 | Start with Self | Recognize what you need to show up as your best self at work;
-Discuss emotionally fit leadership and learn steps to improve your own resilience.| 
+| 1 | Start with Self | Recognize what you need to show up as your best self at work. Discuss emotionally fit leadership and learn steps to improve your own resilience.| 
 | 2 | Start with Self | Set and maintain boundaries; Apply a sense of curiosity to your role as a manager.| 
 | 3| Collaborate with CREDIT | Evaluate your communication style. Apply empathetic and values-driven collaboration. |
-| 4 | Collaborate with CREDIT | Recognize the effect that perfectionism can have on collaboration and results.
-Assess scenarios where collaboration led to efficiency and results. | 
-| 5 | Build Great Teams | Review all-remote strategies to build strong relationships on teams. |
-Practice recognition and celebration to increase belonging and trust. | 
+| 4 | Collaborate with CREDIT | Recognize the effect that perfectionism can have on collaboration and results. Assess scenarios where collaboration led to efficiency and results. | 
+| 5 | Build Great Teams | Review all-remote strategies to build strong relationships on teams. Practice recognition and celebration to increase belonging and trust. | 
 | 6 | Build Great Teams | Honor neurodiversity and learn how to manage and support neurodiverse team members at GitLab. | 
-| 7 | Build Great Teams | Discuss coaching strategies for boosting sales performance.
-Learn mentorship strategies to share experience and best practices. Understand their role in Performance Management at GitLab. |
+| 7 | Build Great Teams | Discuss coaching strategies for boosting sales performance. Learn mentorship strategies to share experience and best practices. Understand their role in Performance Management at GitLab. |
 | 8 | Life Long Learners | Establish a plan and identify tools to continue your growth. Apply a sense of curiosity to your role as a manager. Share your new skills. |
 
 ## Questions
