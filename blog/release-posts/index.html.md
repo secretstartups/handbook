@@ -1860,7 +1860,7 @@ The What's New MR will be initiated by the Release Post Manager on the 20th, fin
    1. Title the file as `YYYYMMDD0001_XX_YY.yml` - for example, the 13.4 entry is titled `202009300001_13_04.yml`.
    1. Using the content that is in the release post items, duplicate the content for What's New.
       1. Sometimes it is necessary to trim down the description. Keep in mind that these should be short, and generally a single paragraph.
-      1. SaaS-only features need to use `[free, premium, ultimate]` in the What's New MR instead of `[free, silver, gold]` or `core` as is used in the release post items. We will streamline this discrepancy in the future, but for now, the RPM should update the values as necessary when creating the What's New MR.
+      1. The valid values for tiers in the What's New MR are `free` (instead of `core`), `premium`, or `ultimate`. Specifying all tiers would be: `[free, premium, ultimate]`. `core`, `silver`, `gold` tiers are not used. The RPM should update the values as necessary when creating the What's New MR.
       1. Stage names are case-sensitive, so be sure that the stages are capitalized in order for the pipeline to pass.
 1. Images are not required, but encouraged when possible.
    1. For videos, you will need to provide an image. For YouTube videos, you can use the image URL, which can be found by inserting the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`. For cases where a video thumbnail doesn't look great, consider using a generic image from [the `source/images/growth` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/images/growth).
