@@ -42,18 +42,19 @@ If the Key Review meeting will not contain MNPI, it can be livestreamed to GitLa
 
 Functions that have these meetings are:
 
-1. Sales & Marketing (Michael McBride & Ashley Kramer - function DRIs) scheduled twice per quarter
-1. Finance (Brian Robins - function DRI) scheduled twice per quarter
-1. Legal and Corporate Affairs (Robin Schulman - function DRI) scheduled twice per quarter
-1. People Group (Wendy Barnes - function DRI) scheduled twice per quarter
-1. Product (David DeSanto - function DRI) scheduled twice per quarter
-1. Infrastructure (Steve Loyd - function DRI) scheduled twice per quarter
-1. Support (Tom Cooney - function DRI) scheduled twice per quarter
-1. Development (Christopher Lefelhocz - function DRI) scheduled 6 times per year
-1. Quality (Mek Stittri - function DRI) scheduled 6 times per year
-1. UX (Christie Lenneville - function DRI) scheduled 6 times per year
-1. Security (Robin Schulman - function DRI) scheduled 6 times per year
-1. IT (Craig Mestel - function DRI) scheduled once per quarter
+1. Sales (Chris Weber - function DRI) scheduled once per quarter, mid-month 1
+1. Marketing (Ashley Kramer - function DRI) scheduled once per quarter, mid-month 1
+1. Product (David DeSanto - function DRI) scheduled once per quarter, mid-month 1
+1. People Group (Wendy Barnes - function DRI) scheduled once per quarter, mid-month 1
+1. Finance (Brian Robins - function DRI) scheduled once per quarter, end of month 1
+1. Support (Lyle Kozloff and Lee Matos - function DRIs) scheduled once per quarter, month 2
+1. Legal and Corporate Affairs (Robin Schulman - function DRI) scheduled once per quarter, end of month 2
+1. Security (Josh Lemos - function DRI) scheduled once per quarter, end of month 2
+1. Business Technology (Nabitha Rao - function DRI) scheduled once per quarter, beginning of month 3
+1. Data (Amie Bright - function DRI) scheduled once per quarter, mid-month 3
+1. Development (Christopher Lefelhocz - function DRI) scheduled once per quarter, month 3
+1. Infrastructure & Quality (Mek Stittri - function DRI) scheduled once per quarter, month 3
+
 
 If you would like to be added to a function's Key Review post in [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) on Slack.
 
