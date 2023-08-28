@@ -650,13 +650,7 @@ There are only minor modifications to those instructions for workshops and they 
 
 This includes the program, SFDC, Zoom, landing pages, and emails as they are templatized to operate from the Marketo My Tokens level.
 
-1. Create the workshop program in Marketo by cloning the appropriate Marketo program for the type of workshop:
-    * [DevOps Automation Workshop program template](https://app-ab13.marketo.com/#ME6532A1)
-    * [GitLab Security + Compliance Workshop program template](https://app-ab13.marketo.com/#ME6521A1)
-    * [Project/Program Management Workshop program template](https://app-ab13.marketo.com/#ME6536A1)
-    * [Advanced CI/CD Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6807A1)
-    * [Jenkins Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1)
-    * [GitLab GitOps Workshop program template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME14657A1)
+1. Create the workshop program in Marketo by cloning the appropriate [Workshop Marketo Program](/handbook/marketing/marketing-operations/campaigns-and-programs/#hybrid-marketo-templates).
 1. Complete the rest of the steps as outlined in the [webcast setup instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-2-set-up-the-webcast-in-marketosfdc-and-integrate-to-zoom). Note there are more tokens to complete for the workshop and details for each are contained in the token value area.
 
 #### Test Your Setup
