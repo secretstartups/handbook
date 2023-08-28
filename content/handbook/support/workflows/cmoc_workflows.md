@@ -71,8 +71,8 @@ Status.io should be updated whenever we have new information about an active inc
 
 Once you join the incident Zoom call, take note of any updates that have been made to Status.io and the time they were made at. Set a timer to remind yourself and stick to the time intervals below unless you make a note of how long it will be until the next status update. For example, if you're in "monitoring" it may be appropriate to specify an hour before the next update.
 
-| Incident Status | Severity 1 Update Frequency | Severity 2 Update Frequency | Severity 3/Severity 4 Update Frequency |
-|--|--|
+| Incident Status | Severity 1 Update Frequency | Severity 2 Update Frequency | Severity 3/4 Update Frequency |
+|--|--|--|--|
 |Investigating| 10m | 15m | 15m |
 | Identified | 10m | 30m | 30m |
 | Monitoring | 30m | 60m | 60m |
