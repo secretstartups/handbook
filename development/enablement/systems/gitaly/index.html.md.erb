@@ -115,10 +115,9 @@ Incoming work of all kind (both projects and ad-hoc interrupts) passes by EM and
 fit with the product's strategy roadmap etc. Some will get scheduled, some goes to the backlog. If the effort is not deemed necessary or not believed
 to align with the roadmap, we will close the issue with commentary as to why it is not being pursued for future reference.
 
-We aim to scope milestones such that we have a task list that is ambitious, but not overwhelming. We deliberatly leave some capacity
-for incoming incidents.
+We aim to scope milestones such that we have a task list that is ambitious, but not overwhelming. We deliberatly leave some capacity for incoming incidents.
 We want to avoid the feeling of a never ending mountain of work to promote a healthy work / life balance.
-It is also important to stress, that milestones are recommendations only and we work on the best effort basis.
+It is also important to stress that milestones are recommendations only and we work on a best effort basis.
 
 For issues with a strict SLO, we follow the process defined [below](#handling-issues-with-strict-slo)
 
@@ -133,37 +132,46 @@ We use the following workflow labels on the issues:
 1. `workflow::verification` - code is in production and pending verification by the DRI engineer
 1. `workflow::complete` - changes are verified, issue can be closed
 
-Issues scheduled for the milestone (with `workflow::ready for development` and a specific release milestone assigned)
-can be further prioritized by moving them up or down on the dashboard.
-
 Issues that we definitely want to prioritize for a release receive a `Deliverable` label and are moved to the top of the list.
 These `Deliverable` issues help show our commitment to GitLab and our customers around working on these issues.
 
-Engineers ready to pick up more work do not necessarily need to assign the topmost item, but rather make an informed choice
-with affinity (area of expertise, relative urgency, interest etc).
+#### Picking up new work
 
-Everyone can file new issues as more work is discovered, and feed them into this process.
+We work off the [Gitaly ongoing work issue board], where the `workflow::ready for development` column is loosely sorted with higher priority items on top. Engineers ready to pick up more work do not necessarily need to assign the topmost item, but rather make an informed choice with affinity (area of expertise, relative urgency, interest etc). However, please take care not to work "siloed" for long periods, but rather use the opportunity of picking up new work to address infrastructure issues (eg flaky tests) or to help out and learn in another area.
 
-Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized.
+Assign yourself to the item of choice and move it to `workflow::in dev` (and later as appropriate).
+
+Note that P1/S1 work should be the only one to preempt this default flow. Do involve PM and EM if urgent work needs to be prioritized, but for P1/S1 burning fires a [bias for action](https://handbook.gitlab.com/handbook/values/#bias-for-action) is of course preferred, just keep everyone informed.
+
+#### Blocked issues
+
+If your work is blocked, use `workflow::blocked` and set a blocking issue for clarity. Then consider asking for help and/or helping to unblock another team member's blocked work before picking up something else.
+
+Issues blocked for a long time should be removed from this process by removing the milestone and unassigning.
+
+#### Adding more work for the team
+
+Everyone can file new issues as more work is discovered, and feed them into this process. To do so, file an issue, tag EM and PM, and assign `workflow::planning breakdown` without a milestone. Please explain both _what_ needs to be done and _why_ (ie the impact and urgency), and make it clear whether the work is ready to be picked up. (This is also how project DRIs add the next steps in their projects to the workflow.)
+
+#### Meta
 
 A weekly call is held between the product manager and engineering managers (of both Cluster and Git teams).
-Everyone is welcome to join and these calls are used to discuss any roadblocks,
-concerns, status updates, deliverables, or other thoughts that impact the
-group.
+Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group.
 
-### From OKRs to projects and tasks
+### Quarterly OKR planning
 
-OKR planning is done before every quarter, for the next 3 milestones. At the time, we must have a good idea of the work that needs to be done.
+OKR planning is done before every quarter for the next 3 milestones, with input from everyone. At that time, we must already have a good idea of the work that needs to be done.
+
 The process is as follows:
 
 1. EM+PM (with input from engineers and stakeholders): decide the scope we'll be working on.
 
-1. EM+PM+Engineers: File issues for the work, not for KRs -- the work may slip or get rescheduled, and there's already tracking for the KRs themselves in Ally.
-1. EM: Tie the issues to KRs in Ally.io. This is mostly for reporting/communication of what we want to work on. Where possible, align with the larger organization's objectives.
+1. EM+PM+Engineers: File issues for the work, not for KRs -- the work may slip or get rescheduled. We'll use these to track the actual work being done.
+1. EM: File Objectives and Key Results [here](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=group%3A%3Agitaly&first_page_size=20) and tie them to the actual work. We use these for reporting/communication of what we want to work on, project goals for the quarter, and its progress. Where possible, align with the larger organization's objectives.
 
 1. PM: Once the scope of the quarter is clear, take the list of issues and assign one of the three milestones, along with `workflow::planning breakdown` (for large issues in need of breakdown) or `workflow::ready for development`.
 
-1. Engineers: pick up `workflow::planning breakdown` items and file smaller issues if needed, adding them to the same 3 milestones as reasonable. Raise exceptions as needed.
+1. Engineers: help break down `workflow::planning breakdown` items and file smaller issues if needed, adding them to the same 3 milestones as reasonable. Raise exceptions as needed.
 
 ### Handling issues with strict SLO
 
