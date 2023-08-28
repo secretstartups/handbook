@@ -82,7 +82,7 @@ Are you new to GitLab? Join this webinar, where we will review what GitLab is, h
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_t6S-sdvsQn-S5efqQl5cXg#/registration)
 
 #### Hands-On GitLab CI Workshop for Jenkins Users
-##### September 12th, 2023 at 3:30-4:00PM Pacific Time / 6:30-7:00PM Eastern Time / 8:30-9:00AM UTC+10
+##### September 12th, 2023 at 3:30-5:00PM Pacific Time / 6:30-7:00PM Eastern Time / 8:30-9:00AM UTC+10
 
 Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization! 
 
