@@ -5,12 +5,9 @@ category: GitLab Self-Managed licenses
 description: Issuing a license to "extend" Self-managed trials and grace periods
 ---
 
-
 ## Overview
 
-Self-managed trials and grace periods cannot be extended - a **trial** license
-must be issued and applied to the instance in order to "extend" a license.
-
+Self-managed trials and grace periods cannot be extended - a **trial** license must be issued and applied to the instance in order to "extend" a license.
 Requests for grace period extensions, temporary keys, temporary extensions, temporary licenses,
 and trial extensions all require generating a trial License.
 
@@ -43,7 +40,7 @@ We are allowed to issue trial licenses because they:
 1. Set the `Plan code` to what is requested.
 1. Ensure the `Trial` checkbox is checked.
 1. Set `Starts at` to today's date.
-1. Set `Expires at` to the requested date.
+1. Set `Expires at` to the requested date. (Expires at 0:00 on this date)
 1. Set `Notes` to the ticket or issue URL.
 1. Click `Save`. The license will be automatically sent to the email specified in the `Email` field.
 
