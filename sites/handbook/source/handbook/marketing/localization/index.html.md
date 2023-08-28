@@ -56,8 +56,6 @@ In order to offer content and events in preferred languages where available, we 
 
 ### Translated URL structure
 
-**Note: In FY23Q3 we began the transition to Smartling as our localization vendor. The following sections refer to our existing implementation in the [www-gitlab-com repository](https://gitlab.com/gitlab-com/www-gitlab-com) specifically, which will be replaced by the Smartling implementation in our [Buyer Experience repository](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience). The transition to Smartling can be tracked [here](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/156).**
-
 All translated pages live in a sub-folder dedicated to a specific language. These sub-folders use [ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). For example, German pages live in the `/de-de/` sub-folder.
 
 Here is where all translated content exists in the Buyer Experience repository: 
