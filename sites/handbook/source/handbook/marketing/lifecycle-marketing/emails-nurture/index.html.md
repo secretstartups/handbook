@@ -193,12 +193,13 @@ As the requestor/business owner, you are responsible for QA on content, spelling
 {: #intellient-email-nurture-quick-links}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Overview Deck](https://docs.google.com/presentation/d/1N_VM8xHGiQ95PXt09xyuQAa9px0VGEGyJd0KtGdXjzg/edit#slide=id.g106e2c5ac6b_0_0)
-* [Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
-* [MURAL of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
+* [Intelligent Marketo Email Nurture Epic - Pre-launch](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+* [Intelligent Marketo Email Nurture Epic - FY24](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3557)
+* [MURAL of Intelligent Marketo Email Nurture](https://www.figma.com/file/Jq2tZE4CJ4bFXZL3jPCsh6/Email-Marketing-%3E-Intelligent-Email-Nurture-Engine_2023-08-22_10-41-30?type=whiteboard&node-id=0%3A1&t=USYN6thjZ9rP4NAt-1)
 * [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
 * [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
-* [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
-* [CTA & UTM documentation experienece prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+* [MURAL of experience prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
+* [CTA & UTM documentation experience prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
 
 #### Labels for Intelligent Nurture Progress
 {: #intelligent-nurture-labels}
@@ -343,8 +344,8 @@ For additional context, please see the [issue here](https://gitlab.com/gitlab-co
 ### Visualization of active nurture streams
 {: #active-nurtures-visualization}
 
-To be updated and documented upon revamp of nurture engine and database nurutring FY22 Q2.
-- [Epic for Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
+To be updated and documented upon revamp of nurture engine and database nurturing FY22 Q2.
+- [Epic for Marketo database audience strategy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
 - [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
 --->
 
@@ -369,13 +370,9 @@ Which would lead us to the next solution. Once the contacts fall into exhausted 
 * **Goal:** Educate trialers about key features to use during 30 day period.
 * **Delivery System:** Marketo (and Outreach sequences by SDRs)
 * **Trial Key Email:** the self-managed trial sign-up triggers a unique trial key email confirmation before launching the 30 day email series.
+* [Figma file - with trial experience](https://www.figma.com/file/HKhm1PmEfqLfeM5UEO8v1a/Email-Marketing-%3E-Trial-nurture-updates-2023_2023-08-22_10-19-25?type=whiteboard&node-id=0%3A1&t=2bRQkaZd62qLvWPa-1)
+* [FY24 Trial Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3559)
 
-<iframe src='https://app.mural.co/embed/40f86b14-b313-48f8-a015-a00dcccfa3b8'
-        width='100%'
-        height='480px'
-        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-</iframe>
 
 ##### Setup for Trial Nurture
 {: #setup-trial-nurture}
@@ -390,14 +387,15 @@ SaaS owners are now going through the program in [Iterable](https://app.iterable
 UTMs: ?utm_source=Iterable&utm_medium=email&utm_campaign=trial-nurture
 
 
-#### In Product Email Campaigns
+#### Free User Onboarding Email Campaigns
 {: #in-product-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-**Sent through Mailgun**  
-These emails are sent “from the product” meaning the growth engineers build the emails in the product and use Mailgun as the SMTP. All of these emails are tagged “marketing” in Mailgun so when you view analytics, it’s an aggregate look for all of these emails. There is also a Mailgun unsubscribe link. All of this data lives in Mailgun. 
-To see all the emails,  [click here](https://gitlab.com/groups/gitlab-org/growth/-/epics/62#note_494532868)
+**Sent through Iterable**  
+We recenlty moved what was formerly known as "In-product emails" from Mailgun to our newer Iterable system. This will allow greater flexibility and iteration. 
 
-To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-ZlMijqaSBA1l29WIn06Z8OAYAgX9_g9CQu3B4/edit#slide=id.g540caf0310_0_0)
+* [Slide deck showing past and current state](https://docs.google.com/presentation/d/1nb26f7NJEY-_KNkQ3GjXVCnrBCo1Y3SeW7QTBCO_DYM/edit#slide=id.g224a1f3561e_2_3)
+* [FY24 Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4315)
+* [Figma journey](https://www.figma.com/file/FdF9bhLOtPKah7IxarPNjO/Aug-2023-Iterable-Free-User-Email-Journey?type=whiteboard&node-id=0%3A1&t=CsoAGTyGQ4j5rLR1-1)
 
 **These are also known as:**
 - User onboarding emails
@@ -407,26 +405,22 @@ To see slide deck, [click here](https://docs.google.com/presentation/d/1QSlbq-Zl
 - Any sort of combination of the above
 
 **We launched these for:**  
-- Free SaaS users - Beginning of Feb, 2021
-- Free Self-managed users - Launching mid-late may, 2021
+- Free SaaS users - Beginning of Feb, 2021, moved to Iterable in August 2023
+- Free Self-managed users - Launched mid-late May, 2021, moved to Iterable in August 2023
 
 **Iterations:**  
-We changed send time from 9am UTC every day (5am on the US east coast, 2am pacific) to 4PM UTC. This Change went live April 29, 2021. We could use April 30th forward for a comparison.
+We relaunched these emails in Iterable and turned off Mailgun. Send time is now based on when the user joins GitLab and implemented skipping weekend send dates. In August 2023, we launched a welcome email and simplified some of the content. We will be iterating more on this program going forward. 
 
 **Who’s part of this project?**  
-- Allie Klatzkin (replaced Nout Boctor-Smith) - email marketing DRI, mailgun analytics, & assist technical setup
+- Allie Klatzkin - email marketing DRI, Iterable analytics, & assist technical setup
+- Paige Cordero (Growth)
 - Sam Awezec (Growth)
 - Gayle Doud (Growth)
-- Growth engineers - technical setup
+
 
 **So what’s the deal?**  
-Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has 3 emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series.
+Basically, we have a series of emails that deploy to net new namespaces. The goal is to get free users to use features of the product. There are 4 tracks - adopt Create, adopt Verify, invite Team, try a Trial. Each track has emails that try to nudge users to take action. If a user takes the action referenced in the email, they will not get the next email in the series and will move to the next series. 
 
-**Keep in mind that:**  
-- only 50% namespaces get enrolled (control vs experiment)
-- sub-groups are excluded
-- the tracking of this data only started a few weeks ago (April 2021)
-- we only send emails if they have not fulfilled the previous action. For invite it would be if they have started a trial
 
 **Sisense data**  
 - [Dashboard](https://app.periscopedata.com/app/gitlab/820093/WIP:-Onboarding-Emails)
@@ -436,10 +430,9 @@ Basically, we have a series of emails that deploy to net new namespaces. The goa
 **From email and reply-to email**  
 `team @ gitlab.com` -  which is a group inbox. Amy is also a member of this group inbox.
 **HTML files**  
-All of the HTML email files are in [Litmus](https://litmus.com/folders/14964).
+All of the HTML email files are in [Iterable](https://app.iterable.com/campaigns/manage?folderId=618897).
 
-**For more in-depth information about how these emails are implemented, please view the [project epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/62) and all associated project issues.**
-
+For a more in-depth look at how these emails work, please review the [Figma journey](https://www.figma.com/file/FdF9bhLOtPKah7IxarPNjO/Aug-2023-Iterable-Free-User-Email-Journey?type=whiteboard&node-id=0%3A1&t=CsoAGTyGQ4j5rLR1-1).
 
 
 ## Newsletter
