@@ -226,6 +226,19 @@ Linking should not be in one direction. We should go beyond deep-linking to crea
 
 #### Acknowledgement Receipts (ACK)
 
+##### Informal ACKs
+
+In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following:
+
+- Slack emoji reaction of `:ack:` or an `ACK` response => Acknowledged, or message received
+- Eyes 👀 => I’ll check this out or seen and will do
+- Thumbs up 👍 => good idea
+- White checkmark ✅ => task is complete or done
+- Heart ❤ ️= expression of gratitude or appreciation
+- cc @mentions => if someone needs to see a message
+
+##### Formal ACKs
+
 In order to effectively communicate an important change to hundreds of distributed employees, we occasionally use an ACK process.
 
 To prevent overuse, this should only be used by a member of the exec team. Anyone may ask an exec to sponsor one.
@@ -234,7 +247,7 @@ As a guideline, we'd expect no more than one per quarter to be sent out. Too man
 
 To initiate an ACK process:
 
-1. Clone the form from the [ACK template](https://docs.google.com/forms/d/1BPllKiwhOpvgdRbV_SYTCWevJLWMCAQJyegbVvJ1L6Q/edit) and fill it out.
+1. Clone the form from the [ACK template](https://docs.google.com/forms/d/1BPllKiwhOpvgdRbV_SYTCWevJLWMCAQJyegbVvJ1L6Q) and fill it out.
    1. Link to MRs and Handbook pages instead of duplicating your content in the form. [Why handbook first?](/handbook/handbook-usage/#why-handbook-first)
 1. Ask People Ops to pull a report from Workday with the column headers First Name, Last Name, Job Title, Department, Manager, and Work Email. Double check it and turn the emails into a comma-delimited string with an excel formula like this: `=TEXTJOIN(", ", true, Sheet1!E2:E432)`
 1. Send the form and expect to get 50% of the responses in the first 24 hours. To get the rest:
@@ -242,14 +255,6 @@ To initiate an ACK process:
    1. Add to staff meeting agendas.
    1. Suggest to team managers to post to their team Slack channels, ask for explicit `:ack:` and pin to the channel until everyone responds.
    1. Lastly, reach out 1-on-1 to stragglers while being respectful of vacation time.
-
-In informal acknowledgement scenarios, such as on Slack or on issue comments, it is common practice to use the following:
-
-- Eyes 👀 => I’ll check this out or seen and will do
-- Thumbs up 👍 => good idea
-- White checkmark ✅ => task is complete or done
-- Heart ❤ ️= expression of gratitude or appreciation
-- cc @mentions => if someone needs to see a message
 
 #### Say thanks
 
