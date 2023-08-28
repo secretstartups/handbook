@@ -17,6 +17,12 @@ The Engagement Concierge sits within the Talent & Engagement team and is a servi
 
 Reasons to collaborate with the Engagement Concierge can range from team building needs through to specific learning needs. As a leader, you may want to become more intentional around your team dynamics, team member sense of trust & belonging in an all-remote environment, or specific group learning needs (e.g. [Crucial Conversations](/handbook/leadership/crucial-conversations/)). Once approved for the program, a member of the Talent & Engagement team will collaborate with you to find the right initiative or solution for your team. 
 
+## Features
+
+Visit each page below to learn about existing Engagement Concierge programs!
+
+1. [Commerical Sales - Boundary Breakers](/handbook/people-group/engagement-concierge/boundary-breakers)
+
 ## Expectations
 
 The Talent & Engagement team will advise and consult on appropriate activities and help build bespoke solutions for your team, but will only manage limited logistics. For example, if the initiative is a planned series of Learning & Development activities, we will build the learning path in Level Up, define the learning schedule, and if you choose to engage any external facilitation, introduce you to our preferred vendors. However, the requester will be responsible for PO creation, communicating requirements to your team, calendaring, and any other logistical requirements.  
