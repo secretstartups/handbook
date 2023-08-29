@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### DevSecOps/Compliance
-##### August 29th, 2023 at 9:00-10AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_-URHPClNQTiGaCaakwBJlw#/registration)
-
 #### Hands-On GitLab DevSecOps Workshop
 ##### August 30th, 2023 at 9:00AM-11:00PM Pacific Time / 12:00-2:00PM Eastern Time
 
@@ -44,15 +37,6 @@ In this workshop we will focus on how you can secure your application with GitLa
 In this workshop we will focus on how you can secure your application with GitLab. We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_uYuCYvuhTV-raOnUaPStlg)
-
-### EMEA Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### August 29th, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CEST
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_qMD-pyxZQOCgB_2MJaMmnQ#/registration)
 
 ## September 2023
 
