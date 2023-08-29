@@ -55,8 +55,8 @@ Please see [our guide on giving career development](/handbook/people-group/guida
     1. Ready to remove
       * `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda (the audience for the FYI).
       * `DONE` - to be removed by the person who put it on the agenda, only set after any related MR has been merged
-      * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker, removal by the purson who put it on the agenda
-      * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda, removal by the purson who put it on the agenda. 
+      * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker, removal by the person who put it on the agenda
+      * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda, removal by the person who put it on the agenda. 
       * `WONT` - if you think this is no longer something that should be done.
       * `WHY` - if you get the suggestion but wonder why this is important and what the problem is.
       * `IDEA` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
