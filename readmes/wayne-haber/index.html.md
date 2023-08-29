@@ -12,7 +12,10 @@ job: "Engineering Director"
 
 # Priorities
 
-I’m the director of development for the [secure](/handbook/engineering/development/sec/secure/), [govern](/handbook/engineering/development/sec/govern/), [data science](/handbook/engineering/development/data-science/), and [growth](/handbook/engineering/development/growth/) sub-departments. 
+I’m the director of development for these stages:
+* [Secure](/handbook/engineering/development/sec/secure/)
+* [Govern](/handbook/engineering/development/sec/govern/)
+* [Growth](/handbook/engineering/development/growth/)
 
 In addition to leading development for these development sub-departments, I also focus on:
 
@@ -20,6 +23,7 @@ In addition to leading development for these development sub-departments, I also
 * Coordinating escalations for specific large customers
 * Public speaking on various topics
 * Mentoring inside and outside of GitLab
+* Technical due diligence on potential acquisitions
 
 # Prioritization and results philosphy
 
