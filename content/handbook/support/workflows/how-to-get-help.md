@@ -97,9 +97,13 @@ Alternatively, if you have set up the [Support dotfiles](https://gitlab.com/gitl
 
 #### List of Development Sections and corresponding links to the Projects for requesting help
 
+Note: Some sections are not yet available.
+If a section is not listed, consider a confidential issue in the Gitlab project tracker and post in the relevant Slack channel.
+Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-/epics/222) for more information.
+
 | Development Section | Section Product and Group Breakdown | Link to the GitLab Project for requesting help |
 | ----------- | -------------- | -------- |
-| Ops Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) |
+| Ops (CI, CD) Section | [Ops Section Breakdown](https://about.gitlab.com/handbook/product/categories/#ops-section)| [Section Ops Request for Help](https://gitlab.com/gitlab-com/ops-sub-department/section-ops-request-for-help/) |
 | Dev Section | [Dev Section Breakdown](https://about.gitlab.com/handbook/product/categories/#dev-section) | [Section Dev Request for Help](https://gitlab.com/gitlab-com/dev-sub-department/section-dev-request-for-help/) |
 | Sec Section | [Sec Section Breakdown](https://about.gitlab.com/handbook/product/categories/#sec-section) | [Section Sec Request for Help](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help) |
 | Enablement Section | [Enablement Section Breakdown](https://about.gitlab.com/handbook/product/categories/#enablement-section) | [Section Enablement Request for Help](https://gitlab.com/gitlab-com/enablement-sub-department/section-enable-request-for-help) |
