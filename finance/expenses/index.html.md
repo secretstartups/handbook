@@ -84,7 +84,7 @@ GitLab’s Global Travel & Expense Policy is meant to provide guidance to all Te
 - Managers will be held accountable for any unreported abuse by their Team Members.
 - Managers must be aware of the policy guidance and advise the Team Members as such when requests for purchase are made.
 - AP will flag Managers if further information is required for their direct reports.
-- Please see the attached Manager Policy for more details.
+- Please see the [Manager Policy](https://docs.google.com/document/d/1HQF-_fDIkjsmq-ExsFQwwTW-x8rocGKSDRZVdMYQudA/edit) document for more details.
 
 ## 6. What To Know Before You Book Travel
 - Team Members should consider conducting meetings via audio or video conferencing when appropriate. 
