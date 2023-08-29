@@ -352,7 +352,7 @@ _Please note, Get Together expenses that are submitted outside of these months w
 
 #### Group Get Togethers
 
-Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](/handbook/travel/#for-in-person-gitlab-events) before planning a Group Get Together.
+Please review the latest [Covid-19 guidance for in-person GitLab events that include more than 5 attendees](/handbook/travel/) before planning a Group Get Together.
 
 In areas where many GitLab team members live, stay tuned in Slack and on this page for planned events where we'll invite all GitLab team members in that area to join together in person. For team members who participate in Group Get Togethers, individual Get Togethers in person or remote will not be available in the month the Group Get Together takes place.
 
@@ -380,7 +380,7 @@ To claim the grant, include a line item on your expense report or invoice along 
 
 #### Significant Life Event Grants
 
-As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
+As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/finance/expenses/) accordingly.
 
 Recognizing that [GitLab Team Members](/handbook/communication/top-misused-terms/) may wish to share significant events in each other's lives, such as weddings or civil partnerships, GitLab will assist with travel expenses to attend these events. This grant works the same way as the [Visiting Grant](#visiting-grant), except the reimbursement limit is $300 per team member you visit at an event.
 
