@@ -385,7 +385,7 @@ Our RCAs are located in the [UX RCA project](https://gitlab.com/gitlab-com/gitla
 
 ### Provisioning/deprovisioning
 
-[Learn more about provisioning and deprovisioning Figma](/handbook/product/ux/how-we-work/figma-provisioning/index.html.md).
+[Learn more about provisioning and deprovisioning Figma](/handbook/product/ux/how-we-work/figma-provisioning/).
 
 ### Admins
 
