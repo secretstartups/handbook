@@ -18,53 +18,24 @@ At GitLab we like to acknowledge and celebrate team member milestones and contri
 Along with this, all celebrants regardless of length of tenure will receive a mention in the **#team-member-updates** channel which allows the greater GitLab community to share in the celebration!
 
 #### Anniversary Gifts
-Team members celebrating a GitLab anniversary will have the option to select a custom swag item only available to those celebrating an anniversary. Team members celebrating their one-year anniversary have the option to receive a custom GitLab Tech-Caddy. Those celebrating their three-year anniversary have the option of a branded 3-piece tumbler, pen and notebook set. And the folks celebrating their five-year anniversary have the option of a GitLab branded computer backpack. 
+Team members celebrating a GitLab anniversary will have the option to select a custom swag item only available to those celebrating an anniversary. Team members celebrating their one-year anniversary have the option to receive a custom GitLab Tech-Caddy. Those celebrating their three-year anniversary have the option of a branded 3-piece tumbler, pen and notebook set. And the folks celebrating their five-year anniversary have the option of a GitLab branded computer backpack.
 
 No action is required by team members in order to receive these gifts! If you are due an anniversary gift the People Connect team will email you at the beginning of the following month that you are celebrating your anniversary with a specific redemption link and unique code. The People Connect runs a monthly report from Workday looking back to the previous month to identify the eligible team members.
 
 Please contact the #people-connect slack channel for any questions.
 
 ### Team Member Birthdays
-GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**.  If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
+GitLab encourages team members to take a day of vacation on their special day in alignment with our **[Paid Time Off Policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)**. If your celebration happens to fall over a weekend please be sure to take an alternate day such as the Friday prior or the Monday after.
 
-Kindly note that team members are welcome to send cards or tokens of acknowledgement to celebrants in their personal capacity however the People Connect Team is unable to do so on behalf of GitLab, a Team, or an Individual Team Member.
+### Team Member Gifts and Flowers
 
-### Team Member Gifts
-GitLab is modifying the policy for team member gifts and piloting a new gift giving program beginning `2022-08-01`. People Managers now have the ability to send gifts on behalf of their team. Any People Manager can send a gift to any team member at GitLab to let them know they are thinking about them. Examples include:
-
-- A new team member recently purchased a new home and shared their news with others. A People Manager sends a "Home Sweet Home" doormat as a congratulatory gift.    
-- While working a People Manager noticed a team member’s children in the background of a Zoom call and surprised the kids with a new game.
-- A team member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.   
-
-The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift.
-
-GitLab has allocated $100 per team member for holiday celebrations.  If you would like to buy holiday gifts for your team, these need to be done personally and should not be expensed.
-
-People Managers are to use their own personal card for expense reimbursement, EBA's Corporate Cards are not to be used for these gifts.  People Managers will need to be sure to use `EmployeeGiftsFlowers` and the account 6028 in [Navan Expense](/handbook/finance/expenses/) for the expense.   
-
-For further questions regarding expensing of gifts, please reach out to the AP team via the `#expense-reporting-inquiries` Slack channel or through email (`ap@gitlab.com`).
-
-
-
-
-### Flowers and Gift Ordering
-Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one. Generally we wouldn't send over gifts or flowers for (public) holidays that would not relate to a significant life event. If ever in doubt reach out to your manager to check before purchasing any gifts or flowers. 
-
-The event in question must pertain to a GitLab Team Member or the immediate family of a GitLab Team Member and will be allocated to the respective team members departmental budget - the spend range for significant life events is **$75 to $125**. 
-
-Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restaurant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
+For questions on our policy and how to submit your Team Member Gift and Flower expenses, including which categories to use in Navan, please refer to the [Global Travel and Expenses handbook page](https://about.gitlab.com/handbook/finance/expenses/).
 
 **Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.**
 
 Recommended sites:
 - [1-800 Flowers](https://www.1800flowers.com/) 
 - [Flora Queen](https://www.floraqueen.com/) 
-
-The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
-
-To make sure the reports in Navan Expense are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `EmployeeGiftsFlowers` in the `classification` section of the expense.  
-
-For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
 ### Sending an E-Card
 
