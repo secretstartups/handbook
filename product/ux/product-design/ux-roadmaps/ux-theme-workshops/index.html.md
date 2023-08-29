@@ -55,9 +55,9 @@ Once the Product Manager and Designer have supplied the required information mov
 
 ### Preparing the activities
 
-The activities will take place entirely in Mural. Only `Step 1 - Warm-up: UX vision definition` and `Step 2 - Cluster inputs into theme bundles` require setup before the workshop. 
+The activities will take place entirely in FigJam. Only `Step 1 - Warm-up: UX vision definition` and `Step 2 - Cluster inputs into theme bundles` require setup before the workshop. 
 
-1. Make a copy of [this mural template](https://app.mural.co/template/0cf67da0-7d91-4ed6-add2-790a6c6c8722/5bf1c681-5878-4da1-ac0c-ca5180992190) and place it into the team's or stage's room
+1. Use [this FigJam template](https://www.figma.com/file/uu5scvnjO2iaGeaiGLYc5T/Template-UX-Theme-workshop-stagegroup_2023-08-23_11-13-15?type=whiteboard&t=0OCWWn7IaFbfH2we-1) and place it into the team's or stage's room.
 2. Change <stage:group> to the stage group the workshop is for.
 
 #### Section 1 setup
@@ -76,7 +76,7 @@ Move on to Category Goals:
 2. Read the Overview Mission, Vision, Letter from the editor, and Strategic Direction sections* and pull out lines that you think will be relevant to help align the other workshoppers in the task of crafting a UX vision and ultimately creating this UX Roadmap 
 3. Copy and Paste the lines and edit them into coherent sentences and paragraphs in the Category goals text block
 
-_When complete, the mural should look like this:_
+_When complete, the FigJam should look like this:_
 
 ![Step-1 example](example-ux-theme-workshop-step-1.png)
 
@@ -88,20 +88,20 @@ Follow the links provided by the PM for the relevant feature issues. **Only** co
 
 > 💡 Tip: Ensure participants have enough space below the sticky notes to create theme bundles. At least ½ of the horizontal area should be blank.
 
-1. Copy and paste each issue title into a sticky note on the mural board at the top of Section 2. 
-2. Change the color of the stickies to yellow following the key in Mural.
+1. Copy and paste each issue title into a sticky note on the FigJam board at the top of Section 2. 
+2. Change the color of the stickies to yellow following the key in FigJam.
 3. Select all of the issues and arrange them into a grid. 
-4. Copy and paste SUS-Impancting issues and change their color to match the key in mural.
-5. Copy and paste UX Debt issues and change their color to match the key in mural. 
+4. Copy and paste SUS-Impacting issues and change their color to match the key in FigJam.
+5. Copy and paste UX Debt issues and change their color to match the key in FigJam. 
 6. Arrange these stickies into a grid and place them adjacent to the feature stickies.
 
 Next: Follow the links provided by the Design DRI for relevant insights and JTBD.
 
-7. Copy and paste each actionable insight issue title into a sticky note. Change their color to match the key in mural.
-8. Copy and paste each JTBD into a sticky note. Change their color to match the key in mural.
+7. Copy and paste each actionable insight issue title into a sticky note. Change their color to match the key in FigJam.
+8. Copy and paste each JTBD into a sticky note. Change their color to match the key in FigJam.
 9. Arrange these stickies into a grid and place them adjacent to the feature, sus-impacting, and UX debt stickies.
 
-_When complete, the mural should look like this:_
+_When complete, the FigJam should look like this:_
 
 ![Step-2 example](example-ux-theme-workshop-step-2.png)
 
@@ -123,7 +123,7 @@ _“This is a safe space and saying ‘I don’t know` is encouraged. That’s w
 
 #### 2. Review the itinerary
 
-Share your screen and walk through the itinerary in the workshop issue. When complete, stop sharing your screen allowing the participants to focus back on their screens of the Mural board. 
+Share your screen and walk through the itinerary in the workshop issue. When complete, stop sharing your screen allowing the participants to focus back on their screens of the FigJam board. 
 
 #### 3. Wrap-up the introduction
 
@@ -131,7 +131,7 @@ _Before we get started, are there any questions?_
 
 ### Activity 1: Goal and Vision warm-up (10 minutes)
 
-Ask everyone to open the Mural file (share the link over the Zoom chat), and introduce the first exercise. 
+Ask everyone to open the FigJam file (share the link over the Zoom chat), and introduce the first exercise. 
 
 >💡 This exercise is part warm-up, to get everyone talking and part exercise for creating UX Themes.
 
@@ -147,7 +147,7 @@ _“This is going to be our reference point for this year and act as our north s
 
 _“Does that make sense, any questions?” okay, I will start the timer now.”_
 
-⏲️ **In Mural Start the timer for 10 minutes**
+⏲️ **In FigJam Start the timer for 10 minutes**
 
 #### 2. Observe and keep participants on track
 
@@ -174,11 +174,11 @@ Based on the number of stickies generated, you'll get a sense that more time is 
 
 #### 1. Set the scene for the activity
 
-📖 Read the Step 2 instruction in Mural out loud and ask if there are any questions.
+📖 Read the Step 2 instruction in FigJam out loud and ask if there are any questions.
 
 _“I’ve transferred the inputs you linked me to in the workshop issue. Now working together, we are going to group these stickies thematically based on the user need they are addressing”_
 
-⏲️ **In Mural Start the timer for 45 minutes**
+⏲️ **In FigJam Start the timer for 45 minutes**
 
 #### 2. Observe and keep participants on track
 
@@ -226,9 +226,9 @@ This can be an intense process, and participant engagement will fade as the sess
 
 #### 1. Set the scene for the activity 
 
-📖 Read the Step 3 instruction in Mural out loud and ask if there are any questions.
+📖 Read the Step 3 instruction in FigJam out loud and ask if there are any questions.
 
-⏲️ **In Mural Start the timer for 45 minutes** or however much time remains, ensuring to reserve at least 5 minutes at the end for a recap and next step directions.
+⏲️ **In FigJam Start the timer for 45 minutes** or however much time remains, ensuring to reserve at least 5 minutes at the end for a recap and next step directions.
 
 #### 2. Observe and keep participants on track
 
@@ -238,7 +238,7 @@ This can be an intense process, and participant engagement will fade as the sess
 
 **Business objective**: ensure teams don't get caught up in this aspect. This can be filled in after the Theme issue is created; however, it is still an essential part of the process.
 
-**Confidence**: Use the chart in Mural to have teams assess their confidence. Remember, we do not want to start design work on themes with low confidence.
+**Confidence**: Use the chart in FigJam to have teams assess their confidence. Remember, we do not want to start design work on themes with low confidence.
 
 #### 3. Wrap-up the activity
 
