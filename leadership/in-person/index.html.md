@@ -143,7 +143,7 @@ Customize the templates as needed. We suggestion you start with the `Onsite Plan
 
 ## Additional Resources
 1. [Travel Guidelines](/handbook/travel/)
-1. [Travel support for nursing mothers](/handbook/travel/#supporting-nursing-mothers)
+1. [Travel support for nursing mothers]()
 1. [Expense Guidelines](/handbook/finance/expenses/)
 1. [Considerations for working while traveling](/company/culture/all-remote/working-while-traveling/)
 
