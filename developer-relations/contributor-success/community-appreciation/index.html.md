@@ -83,3 +83,11 @@ This section outlines the strategies that GitLab team member might use to contac
   * Explain the source of the GitLab usernames
   * Add the communication method where you would like to receive the contact details
   * Emails given will only be the main email present in the GitLab profile.
+
+## Sustainability and Swag Alternatives
+
+We love swag, but there is an impact on the environment.
+In an effort to offset this, we now offer the option of planting trees instead.
+
+Contributor Success process the tree orders via [Tree Nation](https://tree-nation.com/)
+using credentials from their 1Password vault.
