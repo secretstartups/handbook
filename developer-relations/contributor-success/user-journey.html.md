@@ -40,76 +40,175 @@ graph TD
 <div style="overflow-x: scroll;">
 ```mermaid
 %%{init: {"flowchart": { "useMaxWidth": false } }}%%
-graph TD
-    subgraph Discovery
-    AA[Contributing page]
-    AB[Hackathon page]
-    AC[Google]
+flowchart TB
+    start("New Contributor")
+    
+   
+    subgraph id4["Contribute"]
+        id4_heading("Ways to contribute")
+        id4_box1("Contribute to Code")    
+        id4_box2("Non Code contribution")    
+        id4_heading --> id4_box1
+        id4_heading --> id4_box2
+
+        click id4_box1 "https://docs.gitlab.com/ee/development/contributing/"
+
     end
-    subgraph Engagement
-    BA[Contributing to Development guide]
-    BB[Creating a fork]
-    BC[Code Contributor program]
-    BD[Update the documentation]
-    BE[How to open a MR]
-    BF[Add Tests if needed]
-    BG[Merge Request Coaches]
-    BH[Developer documentation]
-    BI[Accepting MR Issues]
-    BJ[Project specific contribution guide]
-    BK[Project specific issues]
-    BL[Project repo]
+    
+    subgraph id5["Contribution Process"]
+
+        subgraph id5_box1["Tutorial: Make a GitLab contribution"]
+        end
+        subgraph id5_sg0["Join Community Forks (optional/advised)"]
+        end
+        subgraph id5_sg1["Developer Environment"]
+        end
+        subgraph id5_sg2["Issue workflow"]
+        end
+        subgraph id5_sg3["MR workflow"]
+        end
+        
+        direction TB
+        id5_box1 --> id5_sg0
+        id5_sg0 --> id5_sg1
+        id5_sg1 --> id5_sg2
+        id5_sg2 --> id5_sg3
+        %% id5_sg3 --> id5_sg4
+        %% id5_sg4 --> id5_sg5
+        %% id5_sg5 --> id5_sg6
+        %% id5_sg6 --> id5_sg7
+        %% id5_sg7 --> id5_sg8
+
+        click id5_box1 "https://docs.gitlab.com/ee/development/contributing/first_contribution.html"
+        click id5_sg1 "https://docs.gitlab.com/ee/development/contributing/#set-up-the-gitlab-development-kit"
+        click id5_sg2 "https://docs.gitlab.com/ee/development/contributing/issue_workflow.html"
+        click id5_sg3 "https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html"
+        click id5_sg0 "https://gitlab.com/gitlab-community/community-members"
     end
-    subgraph Onboarding
-    CA[GitLab development environment guide]
-    CB[GitLab README]
-    CC[Project specific setup]
-    CD[Picking out an issue]
+
+  
+   
+
+    subgraph id7["."]
+    direction RL
+         id7_box0["Developer Env"]
+         id7_sg1["Local dev"]
+         id7_sg2["Remote Dev"]
+         id7_box1["Gitpod"]
+         id7_box2["Web IDE"]
+         id7_box3["GDK"]
+
+        
+        id7_box0 --> id7_sg1
+        id7_box0 --> id7_sg2
+        id7_sg2 --> id7_box1
+        id7_sg2 --> id7_box2
+        id7_sg1 --> id7_box3
+
+        click id7_box1 "https://docs.gitlab.com/ee/integration/gitpod.html"
+        click id7_box2 "https://docs.gitlab.com/ee/user/project/web_ide/"
+        click id7_box3 "https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/README.md"
     end
-    subgraph Contribution
-    DA[Open MR]
-    DB[Iterate]
+
+
+    subgraph id8["Issue workflow"]
+        direction RL
+        subgraph id8_sg1["Finding an Issue"]
+        end
+        subgraph id8_sg2["Claiming the Issue"]
+        end
+        subgraph id8_sg3["Opening a Merge Request"]
+        end
+        subgraph id8_sg4["Working on an Issue"]
+        end
+        subgraph id8_sg5["Completing the implementation Plan"]
+        end
+        
+        click id8_sg4 "https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#working-on-the-issue"
+
     end
-    AA --> BA
-    AB --> BA
-    AB --> BI
-    AC --> AA
-    AC --> BI
-    AC --> BJ
-    AC --> BL
-    BA --> BB
-    BA --> BC
-    BA --> BD
-    BA --> BE
-    BA --> BF
-    BA --> BG
-    BA --> BI
-    BH --> BI
-    BI --> BL
-    BI --> CB
-    BI --> DA
-    BJ --> BK
-    BJ --> CC
-    BK --> CB
-    BK --> CD
-    BL --> CB
-    BL --> CC
-    CB --> CA
-    CB --> BI
-    CB --> BA
-    CB -.-> CC
-    CC --> CD
-    CD --> DA
-    DA --> DB
-    DB --> DA
-    classDef yellow fill:#ff0,stroke:#333,stroke-width:4px;
-    classDef green fill:#0f0,stroke:#333,stroke-width:4px;
-    classDef orange fill:#fa0,stroke:#333,stroke-width:4px;
-    classDef red fill:#f00,stroke:#333,stroke-width:4px;
-    class AA,AB,AC yellow;
-    class BA,BB,BC,BD,BE,BF,BG,BH,BJ,CC green;
-    class BL,CB,CA,DA,DB orange;
-    class BI,BK,CD red;
+
+    subgraph id9["MR Workflow"]
+        direction TB
+        subgraph id9_sg1["Follow MR Guidelines"]
+        end
+        subgraph id9_sg2["Changelog Entries/Conventional Commits"]
+        end
+        subgraph id9_sg3["Create draft MR"]
+        end
+        subgraph id9_sg4["Pipeline Runs"]
+        end
+        subgraph id9_sg5["Triage Process"]
+        end
+        subgraph id9_sg6["@gitlab-bot ready"]
+        end
+        subgraph id9_sg7["Code Review Process"]
+        end  
+        subgraph id9_sg8["Make changes"]
+        end 
+        subgraph id9_sg9["Finally getting it merged"]
+        end
+
+        click id9_sg2 "https://docs.gitlab.com/ee/development/changelog.html"
+    
+        id9_sg1 --> id9_sg2
+        id9_sg2 --> id9_sg3
+        id9_sg3 --> id9_sg4
+        id9_sg4 --> id9_sg5
+        id9_sg5 --> id9_sg6
+        id9_sg6 --> id9_sg7
+        id9_sg7 --> id9_sg8
+        id9_sg8 --> id9_sg7
+        id9_sg8 --> id9_sg9
+
+    end
+ subgraph id1["Ask Questions"]
+        id1_box1("Discord")
+        %% id1_box2("FAQs")
+        id1_box3("GitLab Forum")
+
+        click id1_box1 "https://discord.gg/rxWqW5e8"
+        %% click id1_box2 "https://docs.gitlab.com/ee/development/fe_guide/frontend_faq.html"
+        click id1_box3 "https://forum.gitlab.com/"
+    end
+    subgraph id2["Engagements"]
+        id2_box1("Co-working Days")
+        id2_box2("Office hours")
+        id2_box3("Community Pairing")
+        id2_box4("Hackathons")
+
+        click id2_box2 "https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/#community-office-hours"
+        click id2_box3 "https://about.gitlab.com/handbook/marketing/developer-relations/contributor-success/community-pairing-sessions.html"
+        click id2_box4 "https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats"
+        click id2_box5 "https://about.gitlab.com/community/hackathon/"
+        
+    end
+    subgraph id3["Learn about Gitlab"]
+        id3_box1("Tutorials")
+        id3_box2("Gitlab Handbook")
+
+        click id3_box1 "https://docs.gitlab.com/ee/tutorials/"
+        click id3_box2 "https://about.gitlab.com/handbook/"
+    end
+
+%% Root level mappings
+    start --> id1
+    start --> id2
+    start --> id3
+    start --> id4
+
+    %% Contribution Process
+    %% Mappings
+
+    %% Mapping Subgraph contribute to code with Contribution Process
+    id4_box1 --> id5_box1
+    %% 3. Setting up local dev
+            id5_sg1 --> id7
+    %% 4. Issue Workflow
+            id5_sg2 --> id8
+    %% 5. MR WorkFlow
+            id5_sg3 --> id9
+    %% 6. Triage Process
 ```
 </div>
 
