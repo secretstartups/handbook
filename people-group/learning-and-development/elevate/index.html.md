@@ -44,7 +44,7 @@ Elevate is organized into 5 learning modules. Read more about the skills covered
 
 ![visual displaying the module path for learners in the Elevate program](elevatepath.png){: .shadow.medium.center}
 
-Elevate runs for a total of 5 months and is organized into 5 learning modules. In each module, participants spend a total of 3-4 hours in the following learning activities:
+Elevate runs for a total of 6 months and is organized into 5 learning modules. In each module, participants spend a total of 3-4 hours in the following learning activities:
 
 | Steps | Title | Description | Time Spent |
 | ----- | ----- | ---------- | ----- |
@@ -160,6 +160,45 @@ The certification for Elevate is not meant to be scary! It's a time to demonstra
 Following the certification, a member of the L&D team will follow up with your results, and either share your Elevate certification or discuss next steps. If for some reason you don't pass the certification, you'll meet 1:1 with a Elevate coach to practice your skills.
 
 
+## Making up missed sessions
+
+Attendance to all Elevate live sessions is required to earn the certification. We understand that making time for all live sessions can be difficult. We have options for making up sessions you've missed:
+
+**Option 1: Attend Another Session**
+
+There are **5 Live Learning** and **10 Group Coaching** options for each module. If you cannot attend your scheduled sessions, Option 1 is to attend another scheduled session. Additional Group Coaching makeups will be scheduled after each module to accommodate anyone who has missed a session.
+
+Note: You will be initially be invited to 4 Live Learning & 1 Group Coaching session - invites will be shared to the other makeup sessions based on your availability.
+
+**Option 2: Async Makeup**
+
+If none of the 5 Live Learning sessions will work, you may use Option 2: Async Makeup. Note that this can only be used a total of **one time** per participant.
+
+Async makeups will be shared with participants directly via Level Up. The include watching recordings from the Live Learning and responding to text-based discussion threads in Level Up.
+
+
+
+## Supporting your team in Elevate
+
+Engaging managers of people leaders in Elevate helps us to:
+
+1. Engage managers and their direct reports in conversations about growth and development
+2. Demonstrate leadership buy-in for manager development
+3. Ensure participants have a line of communication with their manager to ask questions, raise concerns, and organize workload to participate in Elevate
+
+People Leaders with direct reports who are in a current Elevate cohort could be asked to support in the following ways:
+
+1. Notify team members of nomination and participation in Elevate during a 1:1 meeting and/or via Slack. Communications and timeline will be provided by the Learning and Development team.
+1. Discuss the impact and benefits of Elevate during your 1:1. Answer questions that arise using this handbook page and direct further questions to the Learning and Development team.
+1. If/when prompted by the Learning and Development team, follow up with reminders to team members who have missed live sessions or are not responsive to program communications.
+1. Help team members manage their current workload and cohort timing.
+
+## Measuring Success
+
+Before each Elevate cohort begins, a short survey will be sent to participant's direct reports via Culture Amp. The questions are meant to understand the perception of direct reports, specifically related to how their managers are already demonstrating concepts covered in Elevate.
+
+The same survey will be sent to participant's direct reports immediately after the program ends, then again after 6 and 12 months.
+
 ## Frequently Asked Questions
 
 ### What does success in Elevate look like?
@@ -206,44 +245,6 @@ Due to our priority to certify 85% of our people leaders in FY24, participation 
 If you're promoted from Manager to Senior Manager, you'll continue Elevate without inturruption. If you're promoted to a Director role or above, please plan to discuss directly with your manager and the Elevate team. Decisions will be made on a case by case basis.
 
 
-## Making up missed sessions
-
-Attendance to all Elevate live sessions is required to earn the certification. We understand that making time for all live sessions can be difficult. We have options for making up sessions you've missed:
-
-**Option 1: Attend Another Session**
-
-There are **5 Live Learning** and **10 Group Coaching** sessions for each module. If you cannot attend your scheduled sessions, Option 1 is to attend another scheduled session. Additonal Group Coaching makeups will be scheduled after each module to accommodate anyone who has missed a session.
-
-Note: You will be initially be invited to 4 Live Learning & 1 Group Coaching session - invites will be shared to the other makeup sessions based on your availability.
-
-**Option 2: Buddy Makeup**
-
-If none of the 5 Live Learning sessions will work, you may use Option 2: Buddy Makeup. Note that this can only be used a total of **one time** per participant.
-
-Buddy Makeups require the following:
-
-1. Schedule a 50 minute session with another manager who is currently involved in Elevate. We suggest posting in your cohort Slack channel to find someone willing to support you. If you cannot find a buddy in your cohort, please reach out to someone on the Learning and Development team for help.
-1. Make a copy of the relevant Buddy Makeup Agenda found in [this folder](https://drive.google.com/drive/folders/1NO5bsBMIiAq6gQ__9Wbz3EReQ52Yxw-z?usp=share_link). Be sure you've selected the agenda for the correct module. Make a copy of the agenda that is editable to everyone at GitLab. Use the agenda to guide the discussion with your buddy.
-1. Meet with your buddy for 50 minutes. Discuss content from the missed module using the agenda as a guide.
-1. After meeting with your buddy, complete the activity outlined at the end of the agenda. Share your agenda and activity resources with Jamie Allen and Samantha Lee. You must share these documents for your makeup to be documented.
-
-
-## Supporting your team in Elevate
-
-Engaging managers of people leaders in Elevate helps us to:
-
-1. Engage managers and their direct reports in conversations about growth and development
-2. Demonstrate leadership buy-in for manager development
-3. Ensure participants have a line of communication with their manager to ask questions, raise concerns, and organize workload to participate in Elevate
-
-People Leaders with direct reports who are in a current Elevate cohort could be asked to support in the following ways:
-
-1. Notify team members of nomination and participation in Elevate during a 1:1 meeting and/or via Slack. Communications and timeline will be provided by the Learning and Development team.
-1. Discuss the impact and benefits of Elevate during your 1:1. Answer questions that arise using this handbook page and direct further questions to the Learning and Development team.
-1. If/when prompted by the Learning and Development team, follow up with reminders to team members who have missed live sessions or are not responsive to program communications.
-1. Help team members manage their current workload and cohort timing.
-
-
 ## Delivering Elevate
 
 This section includes key resources for the Learning and Development team who delivers Elevate.
@@ -263,8 +264,6 @@ Refer to the table below to align on language used to talk about Elevate.
 | Round 1 | Manager+ Path running from April-August 2023 - 100 participants |
 | Round 2 | Manager+ Path running from June-October 2023 - 60 participants |
 | Round 3 | Director+ Path running from June-October 2023 - 30 participants |
-
-
 
 ### Resources
 
