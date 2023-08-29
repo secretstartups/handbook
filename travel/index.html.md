@@ -51,6 +51,6 @@ Emergency Medical, Safety, and Security Assistance is available to all GitLab te
 - Non-U.S. collect calls: +1 715-346-0859 or +1 715-295-9973
 
 ## Expenses While Traveling
-Understand the guidelines of our [Global Travel and Expense Policy](https://about.gitlab.com/handbook/finance/expenses/ce/expenses/) before you travel.
+Understand the guidelines of our [Global Travel and Expense Policy](https://about.gitlab.com/handbook/finance/expenses/) before you travel.
 
 
