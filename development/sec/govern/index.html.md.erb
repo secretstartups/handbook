@@ -11,6 +11,8 @@ title: Govern Stage
 
 The Govern engineering groups are responsible for the [Govern Stage](/handbook/product/categories/#govern-stage) of the product.
 
+* [Anti-abuse](anti-abuse/)
+* [Authentication and Authorization](authentication-and-authorization/)
 * [Threat Insights](threat-insights/)
 * [Security Policies](security-policies/)
 * [Compliance](compliance/)
@@ -30,6 +32,12 @@ direct_team(role_regexp: department_regexp, manager_slug: 'pcalder')
 
 ## All Team Members
 
+### Anti-abuse
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Anti-Abuse/, manager_slug: 'jayswain') %>
+
+### Authentication and Authorization
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authentication and Authorization/, manager_slug: 'adil.farrukh') %>
+
 ### Threat Insights
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'thiagofigueiro') %>
@@ -48,12 +56,14 @@ The following members of other functional teams are our stable counterparts:
       role_regexp: /[,&] Govern/,
       direct_manager_role: nil,
       other_manager_roles: [
+        'Engineering Manager, Govern:Anti-abuse',
+        'Engineering Manager, Govern:Authentication and Authorization',
         'Engineering Manager, Govern:Compliance',
-        'Engineering Manager, Govern:Threat Insights',
-        'Engineering Manager, Govern:Threat Insights',
         'Engineering Manager, Govern:Security Policies',
+        'Engineering Manager, Govern:Threat Insights',
+        'Engineering Manager, Govern:Threat Insights',
         'Director of Engineering for Growth, Sec, and Data Science',
-        'Senior Engineering Manager, Anti-Abuse, Govern, and Growth'
+        'Senior Engineering Manager, Govern and Growth'
       ])
 %>
 
@@ -95,8 +105,8 @@ MR Type labels help us report what we're working on to industry analysts in a wa
 
 ## Engineering Managers
 
-We meet bi-weekly synchronously to discuss stage and group wide topics. We primarily try to use Epics/Issues to intiate discussions and maintian transparency. We use the 
-[Anti-abuse-govern-growth-sub-dept Board](https://gitlab.com/gitlab-com/anti-abuse-govern-growth-sub-dept/-/boards/4833026) to better organize our discussions.
+We meet bi-weekly synchronously to discuss stage and group wide topics. We primarily try to use Epics/Issues to initiate discussions and maintain transparency. We use the
+[Govern Compartment Board](https://gitlab.com/gitlab-com/govern-compartment/-/boards/4833026) to better organize our discussions.
 
 ### Engineering Leadership - Backup Plans and Escalation
 
