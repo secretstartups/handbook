@@ -21,7 +21,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 | Product Marketing | Technical Marketing |
 | ---- | --- |
-| [Saumya Upadhyaya](https://gitlab.com/supadhyaya)  | [William Galindez Arias](https://gitlab.com/warias) |
+| Aathira Nair (@anair5)  | [William Galindez Arias](https://gitlab.com/warias) |
 
 ## Software Delivery Automation
 

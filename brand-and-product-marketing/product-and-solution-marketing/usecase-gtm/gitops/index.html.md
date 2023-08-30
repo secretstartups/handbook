@@ -13,7 +13,7 @@ title: "Auxiliary Solution Resource: GitOps"
 
 | Product Marketing | Technical Marketing |
 | ---- | --- |
-| @supadhyaya | @csaavedra1 |
+| Daniel Hom (@danielhom) | @csaavedra1 |
 
 # The Market Viewpoint
 

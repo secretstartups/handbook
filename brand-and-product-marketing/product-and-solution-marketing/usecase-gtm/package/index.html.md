@@ -13,7 +13,7 @@ title: "Usecase: Artifact Management"
 
 | Product Marketing | Technical Marketing | Product Management |
 | ---- | --- | --- |
-| Saumya Upadhyaya @supadhyaya  | Itzik Gan-Baruch ( @iganbaruch ) | Tim Rizzi (@trizzi) |
+| Daniel Hom (@danielhom)  | Itzik Gan-Baruch ( @iganbaruch ) | Tim Rizzi (@trizzi) |
 
 # The Market Viewpoint
 

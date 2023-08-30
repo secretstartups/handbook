@@ -21,7 +21,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 |     Product Marketing    |    Technical Marketing    |
 | ------------------------ | ------------------------- |
-| Saumya Upadhyaya (@supadhyaya)  | Itzik Gan Baruch (@iganbaruch) |
+| Daniel Hom (@danielhom) / Aathira Nair (@anair5) | Itzik Gan Baruch (@iganbaruch) |
 
 
 ## Background (2 min read)

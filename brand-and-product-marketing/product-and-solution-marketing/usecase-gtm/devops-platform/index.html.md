@@ -11,13 +11,15 @@ title: "DevOps Solution Resource: DevOps Platform"
 
 # Looking for a customer-facing overview of GitLab's DevOps Platform? See the [DevOps Platform Solution](https://about.gitlab.com/solutions/devops-platform/). 
 
+# GitLab field teams refer to this [DevSecOps Platform highspot page](https://gitlab.highspot.com/items/61f3f3d9fdce42ebbdf04f17) for latest information
+
 The page below is intended to align GitLab's sales and marketing efforts with a single source of truth for our go-to-market efforts around the benefits of a single DevOps Platform.
 
 #### Who to contact
 
 | Product Marketing | Technical Marketing |
 | ---- | --- |
-| [Cormac Foster](https://gitlab.com/cfoster3) | [William Galindez Arias](https://gitlab.com/warias) |
+| Saumya Upadhyaya (@supadhyaya) | [William Galindez Arias](https://gitlab.com/warias) |
 
 **NOTE: If you are looking for messaging guidelines regarding The DevOps Platform, please visit [The DevOps Platform Message House](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devops-platform/message-house/index.html).**
 

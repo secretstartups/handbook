@@ -13,7 +13,7 @@ title: "Auxiliary Solution Resource: Continuous Delivery"
 
 | Product Marketing | Technical Marketing |
 | ---- | --- |
-| Saumya Upadhyaya ( @supadhyaya ) | Cesar Saavedra ( @csaavedra1 ) |
+| Daniel Hom (@danielhom) | Cesar Saavedra ( @csaavedra1 ) |
 
 # The Market Viewpoint
 

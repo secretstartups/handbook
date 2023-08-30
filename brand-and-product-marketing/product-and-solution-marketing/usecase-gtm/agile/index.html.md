@@ -13,8 +13,7 @@ title: "Auxiliary Solution Resource: Agile"
 
 | PMM | TMM |
 | --- | --- |
-| Cormac Foster ([@cfoster3](https://gitlab.com/cfoster3)) | Tye Davis ([@davistye](https://gitlab.com/davistye)) |
-| Brian Glanz ([@brianglanz](https://gitlab.com/brianglanz)) |  |
+| Aathira Nair (@anair5) |  |
 
 # The Market Viewpoint
 

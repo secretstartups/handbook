@@ -17,7 +17,7 @@ The page below is intended to align GitLab sales and marketing efforts with a si
 
 | Product Marketing | Technical Marketing |
 | ---- | --- |
-| Heather Simpson ( @heather )  | Itzik Gan-Baruch ( @iganbaruch ) |
+| Daniel Hom (@danielhom) | Itzik Gan-Baruch ( @iganbaruch ) |
 
 # The Market Viewpoint
 
