@@ -1112,6 +1112,13 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
 
 1. In Airflow set up Variable `DBT_MODEL_TO_FULL_REFRESH` with name of model(s) to refresh following [dbt model selection syntax](https://docs.getdbt.com/docs/running-a-dbt-project/command-line-interface/model-selection-syntax/).  For example, to refresh version models, the value would be `sources.version staging.version`.  To refresh gitlab_dotcom models, the value would be `sources.gitlab_dotcom staging.gitlab_dotcom`.
 <br><img src="airflow_variable_setting.png" alt="airflow_variable_setting" width="400"/></br>
+  - Be careful to copy your model name from any source into the variable field in Airflow. We've seen that this can add invisible characters (like i.e. a line break `\n`) and generate the below statement, which will exclude the `--full-refresh` when executing. 
+    ```
+    '    dbt --no-use-colors run --profiles-dir '
+    'profile --target prod --models '
+    'gitlab_dotcom_issues_dedupe_source\n'
+    ' --full-refresh ; ret=$?;\n'
+    ```
 2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
 3. Manually trigger DAG to run.
 
