@@ -1,15 +1,8 @@
 ---
-layout: markdown_page
 title: "Still a Startup"
 description: "GitLab elevates others through knowledge sharing, job access, and our software platform.."
 canonical_path: "/company/still-a-startup/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ### Still a Startup Overview
 
@@ -19,7 +12,7 @@ Most companies regress to the mean and slow down over time. We plan to maintain 
 
 ### Reinforcing our values
 
-We have more than 20 documented ways to reinforce [GitLab’s values](https://about.gitlab.com/handbook/values/). Since hiring, bonuses, and promotions provide strong signals of what is valued and rewarded, we make values the lens through which we evaluate team member fit and advancement. 
+We have more than 20 documented ways to reinforce [GitLab’s values](/handbook/values/). Since hiring, bonuses, and promotions provide strong signals of what is valued and rewarded, we make values the lens through which we evaluate team member fit and advancement.
 
 ### Quick and informed decisions
 
@@ -31,7 +24,7 @@ A [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-indi
 
 ### Organize informal communications
 
-[Informal team member communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/), such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results. Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication. 
+[Informal team member communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/), such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results. Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication.
 
 During the pandemic, many businesses that were forced to work remotely discovered that productivity increased. Many of these same businesses are now making plans to return to the office. One reason given is that not everyone can work from home. We solve this by allowing people to rent work space. The other main reason given is that people miss working from a central office with co-workers. I don’t think that people miss the commute or the office furniture. They miss informal communication. Central offices are a really expensive, inconvenient, and indirect way to facilitate information communication. It is more efficient to directly organize informal communication.
 
@@ -39,7 +32,7 @@ For example, every person who joins GitLab has to schedule at least 5 [coffee ch
 
 ### Challenge conventions
 
-We do not do things differently for the sake of being different, and we use boring solutions whenever possible. That said, we're also willing to deviate from conventions when it can benefit GitLab and the wider community. Before the COVID-19 pandemic, GitLab was the largest all-remote company in the world. We now teach others how to succeed as remote companies and employees. We aim to be the most transparent company of our size. This [transparency](https://about.gitlab.com/handbook/values/#transparency) has had demonstrable benefits ranging from increased team member productivity to enhanced brand awareness. What some saw as a liability, we have shown to be a strength. 
+We do not do things differently for the sake of being different, and we use boring solutions whenever possible. That said, we're also willing to deviate from conventions when it can benefit GitLab and the wider community. Before the COVID-19 pandemic, GitLab was the largest all-remote company in the world. We now teach others how to succeed as remote companies and employees. We aim to be the most transparent company of our size. This [transparency](/handbook/values/#transparency) has had demonstrable benefits ranging from increased team member productivity to enhanced brand awareness. What some saw as a liability, we have shown to be a strength.
 
 ### Bias for action
 
@@ -47,15 +40,15 @@ Decisions should be thoughtful, but delivering fast results requires the fearles
 
 ### Not a family
 
-Some companies talk about being a 'Family.' We don't think that is the right perspective. At GitLab, the relationship is not the end goal. The goal is results. We are clear about accountability and hold people to a clearly articulated standard. When people do not perform, we try to help them improve. If they still can’t meet expectations, we let them go. 
+Some companies talk about being a 'Family.' We don't think that is the right perspective. At GitLab, the relationship is not the end goal. The goal is results. We are clear about accountability and hold people to a clearly articulated standard. When people do not perform, we try to help them improve. If they still can’t meet expectations, we let them go.
 
 ### Time based release
 
-We have introduced a new, enhanced version of our software [every month](/handbook/engineering/releases/) for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
+We have introduced a new, enhanced version of our software [every month](https://about.gitlab.com/handbook/engineering/releases/) for over nine years. A [time based release](https://about.gitlab.com/releases/) ensures that when a feature is ready, its release will not be held up by another that is not. Aligned with our value of iteration, we try to reduce the scope of each feature so that it fits in a single release.
 
 ### Individual innovation
 
-We empower individuals to innovate. For example, we have designated coaches who support contributors from the wider community in getting their contributions to the point where they can be merged by GitLab. We also have an [incubation department](https://about.gitlab.com/handbook/engineering/incubation/) dedicated to quickly turning ideas into viable features and products. 
+We empower individuals to innovate. For example, we have designated coaches who support contributors from the wider community in getting their contributions to the point where they can be merged by GitLab. We also have an [incubation department](https://about.gitlab.com/handbook/engineering/incubation/) dedicated to quickly turning ideas into viable features and products.
 
 ### Dogfooding
 
