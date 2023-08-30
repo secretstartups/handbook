@@ -323,14 +323,14 @@ Process summary:
 | Month     | Name |
 | -------   | ---- |
 | **2023**  |      |
-| November  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| November  | [`@jtapiab`](https://gitlab.com/jtapiab) |
 | October   | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
 | September | [`@brodock`](https://gitlab.com/brodock) |
 | August     | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
 | July     | [`@vsizov`](https://gitlab.com/vsizov) |
 | June     | [`@mkozono`](https://gitlab.com/mkozono) |
 | May     | [`@ibaum`](https://gitlab.com/ibaum) |
-| April  | [`@jbobadilla-ext`](https://gitlab.com/jbobadilla-ext) |
+| April  | [`@jtapiab`](https://gitlab.com/jtapiab) |
 | March     | [`@aakriti.gupta`](https://gitlab.com/aakriti.gupta) |
 | February  | [`@brodock`](https://gitlab.com/brodock) |
 | January   | [`@brodock`](https://gitlab.com/brodock) (missed) |
