@@ -204,7 +204,7 @@ It is recommended to use GitLab boards to visualize your UX Themes in a roadmap 
 Creating UX Themes cannot and should not be done in isolation. For themes to be successful, they require buy-in from team members who will be contributing to or consuming the content. It’s best practice and highly recommended to conduct a workshop with the team, including the lead designer, PM, and Design Manager. Engineering counterparts may participate but it is not required. To help facilitate a workshop, a workshop guide has been created that leverages our asynchronous value requiring as little synchronous meeting time as possible; however, to ensure this is a collaborative effort, some synchronous components are necessary.
 
 - [UX Theme workshop guide issue](https://gitlab.com/gitlab-org/gitlab/-/issues/356188)
-- [UX Theme creation Mural template](https://app.mural.co/template/a712ef67-2136-4758-be8b-577347fd1288/e8609b18-ede3-45c8-9ce5-a3877f8860c4)
+- [UX Theme creation Figjam template](https://www.figma.com/file/uu5scvnjO2iaGeaiGLYc5T/UX-Theme-Workshop?type=whiteboard&node-id=0-1&t=O6sGe41SGY9Rac1u-0)
 
 #### Example theme
 
