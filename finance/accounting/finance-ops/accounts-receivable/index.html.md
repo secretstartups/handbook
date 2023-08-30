@@ -29,7 +29,6 @@ _The Accounts Receivable Team began in May of 2021. We appreciate your patience 
 - [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Shannon Williams](https://about.gitlab.com/company/team/#ssilmon) - Manager, Accounts Receivable
 - [Crystal Kelly](https://about.gitlab.com/company/team/#crystalk) - Accounts Receivable Associate
-- [Elisabeth Gonzalez](https://about.gitlab.com/company/team/#egonz10) - Accounts Receivable Analyst
 - [Grace Jackson](https://about.gitlab.com/company/team/#gjackson5) - Accounts Receivable Analyst
 
 Accounts Receivable works closely with Sales, Deal Desk, Billing Operations, and Revenue Operations Teams.
