@@ -4,12 +4,6 @@ title: "Cadence"
 description: "Everything in a company happens in a certain cadence. The period of each cadence differs. Learn about the cadences we have at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Overview
 
 Everything in a company happens in a certain cadence.
@@ -47,13 +41,13 @@ How other elements relate to our cadence:
 
 Below is one example of how the cadence items in [cadence flow](#cadence-flow) fit together to illustrate how we will accomplish our longer term goals by successfully completing our shorter term goals.
 
-1. One part of our [mission](/company/mission) is everyone can [contribute to GitLab, the application](/company/mission/#contribute-to-gitlab-application). By making innovation more accessible, we increase **user contributions to the product**, which creates results for a larger audience, which, in turn, allows more users to contribute to our product. This virtuous cycle drives a high rate of innovation for our product and allows more people to innovate and contribute. 
+1. One part of our [mission](/company/mission) is everyone can [contribute to GitLab, the application](/company/mission/#contribute-to-gitlab-application). By making innovation more accessible, we increase **user contributions to the product**, which creates results for a larger audience, which, in turn, allows more users to contribute to our product. This virtuous cycle drives a high rate of innovation for our product and allows more people to innovate and contribute.
 1. One component necessary to achieve our [AllOps vision](/company/vision/) is improving [GitLab ServiceDesk](https://docs.gitlab.com/ee/user/project/service_desk/), which helps connect external parties to the software development process, allowing more people to contribute. ServiceDesk is needed to provide a complete **Value Stream Delivery overview**, which should help more people manage the flow of innovation from [idea to customers](https://about.gitlab.com/solutions/value-stream-management/#:~:text=new%20innovation%20from-,idea%20to%20customers,-.), which should lead to more teams and companies relying on GitLab as their AllOps solution.
 1. One pillar of our [three year strategy](/company/strategy/#three-year-strategy) is [Customer Results](/company/strategy/#1-customer-results), which includes **Proving Value** with items like [Value Stream Analytics](/stages-devops-lifecycle/value-stream-analytics) to help a broader user base [like managers and executives](/direction/plan/value_stream_management/#who-are-we-focusing-on) deliver value and innovation. Proving value to a broader user base moves us closer to providing a complete Value Stream Delivery overview, creating progress towards our AllOps vision.
 1. One of [our FY24 Yearlies](/company/yearlies/) is to `increase NetARR from Ultimate up-tiers` which we'll accomplish in part by providing more value to business users with features like [**Value Stream Dashboards for Executives**](https://gitlab.com/groups/gitlab-org/-/epics/9317). These features help extend [Value Stream Management](/solutions/value-stream-management/) and, by extension, create progress for our Customer Results strategic pillar.
 1. One [FY24Q1 CEO objective](/company/okrs/fy24-q1/) is to `increase adoption through customer results to increase operating income` with a sub-key result of launching **Value Stream Dashboards** MVC 1 Beta in FY24-Q1.
 
-Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, and mission of everyone contributing. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals. 
+Successfully achieving our KR of a beta value stream means progress against our Yearly value stream dashboard goal, strategic goal of extending value stream management to more users, vision of an AllOps solution, and mission of everyone contributing. While the KR is a single building block, our successful completion within the quarter leads to progress against our longer term goals.
 
 ## 30 years
 
@@ -79,9 +73,9 @@ Successfully achieving our KR of a beta value stream means progress against our 
 1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
 
 
-## Year 
+## Year
 
-1. [Yearlies](/company/yearlies/) for setting annual company goals 
+1. [Yearlies](/company/yearlies/) for setting annual company goals
 1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
 1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
 1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
@@ -114,7 +108,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 We have a cadence for reviewing our elements. Specifically, each element is reviewed at the cadence of the element that is the next level down. For example, we revisit our 3 year strategy every year. This maps to when we do annual Yearlies. And, we revisit our Yearlies every quarter. This is the timeframe for creating OKRs.
 
-These reviews ensure that elements reflect current priorities and do not get stale. While we have set review times, we don't need to wait for an update cycle to capture changes that we have decided to make. 
+These reviews ensure that elements reflect current priorities and do not get stale. While we have set review times, we don't need to wait for an update cycle to capture changes that we have decided to make.
 
 1. [30 year Mission](/company/mission): reviewed every 10 years
 1. [10 year Vision](/company/vision): reviewed every 3 years
@@ -129,7 +123,7 @@ Below is a visual example of our cadence and is subject to change based on compa
 ```mermaid
 gantt
     title Year Overview
-    dateFormat MM-DD 
+    dateFormat MM-DD
     axisFormat %b
 
     section Fiscal Year at a Glance
@@ -154,7 +148,7 @@ gantt
     Start Q2 Earnings Prep      :07-25, 1d
     Annual Plan Prep            :09-15, 135d
     Start Q3 Earnings Prep      :10-25, 1d
-        
+
     section E Group Offsite
     January                     :01-05, 4d
     April                       :04-04, 4d
@@ -234,5 +228,5 @@ gantt
     Easter Holidays                 :03-30, 9d
     Popular Summer Travel Periods   :07-01, 62d
     American Thanksgiving           :11-20, 9d
-    Christmas and New Year Celebrations          :12-23, 9d    
+    Christmas and New Year Celebrations          :12-23, 9d
 ```
