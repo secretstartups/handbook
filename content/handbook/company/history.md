@@ -14,9 +14,7 @@ On October 14, 2021, GitLab Inc. [became a publicly traded company](/blog/2021/1
 
 #### Watch the video of GitLab's Listing Day
 
-<figure class="video_container">
-   <iframe src="https://player.vimeo.com/video/650088717?h=c4db5327bd" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</figure>
+{{< vimeo 650088717 >}}
 
 ### *2020: The world's largest all-remote company*
 
@@ -134,46 +132,34 @@ GitLab's [six core values](/handbook/values/) are 🤝 Collaboration, 📈 Resul
 
 "We have assume positive intent in our CREDIT value."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/rCbEzjfaY0w" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "rCbEzjfaY0w" >}}
 
 ### Results
 
 "If you get good results you have leverage to invest and do everything else."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/OYQyuZDdrUE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "OYQyuZDdrUE" >}}
 
 ### Efficiency
 
 "We get a lot done. We don't tolerate ineffectiveness."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/d5UATqiFbDw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "d5UATqiFbDw" >}}
 
 ### Diversity, Inclusion & Belonging
 
 "We want to have a company with many people in it--especially when they are different from us."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/ovb_ciPq9x4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "ovb_ciPq9x4" >}}
 
 ### Iteration
 
 "The key to going fast is not about being super ambitious with planning more hours or having a big idea--but having the big idea and cutting that down to what you can ship quickly."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/OTClCuXpbhQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "OTClCuXpbhQ" >}}
 
 ### Transparency
 
 "Most of the time when a company starts commercializing the open source community, the wider community, fades away into the background. We want to prevent that. We want people to feel empowered."
 
-<figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/HJhlL6Oozq8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "HJhlL6Oozq8" >}}
