@@ -197,10 +197,10 @@ if [[ $IS_HANDBOOK == true ]]; then
   NEW_SECTION_PATH=content/handbook/$SECTION
   git mv $SECTION content/handbook/
 elif [[ $IS_COMPANY == true ]]; then
-  $NEW_SECTION_PATH=content/handbook/company/$SECTION
+  NEW_SECTION_PATH=content/handbook/company/$SECTION
   git mv $SECTION content/handbook/company/
 elif [[ $IS_ENGINEERING == true ]]; then
-  $NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+  NEW_SECTION_PATH=content/handbook/engineering/$SECTION
   git mv $SECTION content/handbook/engineering/
 else
   NEW_SECTION_PATH=content/$SECTION
