@@ -938,7 +938,7 @@ If you are employed by our German entity GitLab GmbH, you will need to include s
 
 <span style="font-family: serif;font-size: small;display: block;">GitLab GmbH  | Sitz: München  | Registergericht: Amtsgericht München, HRB 237630  | Geschäftsführer: James John Gladen und Craig Adam Mestel</span>
 
-#### Signature/add company details on Company Communications if employed by our German entity
+#### Add company details to certain company communications if employed by our German entity
 
 Certain company details are required to be added as a signature to the forms of communication listed below, where that communication is going from a team member employed by our German entity GitLab GmbH to outside of the company, and relates to GitLab's business activities:
 
