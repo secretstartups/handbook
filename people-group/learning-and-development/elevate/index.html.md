@@ -67,7 +67,7 @@ Watch this video for a walk through of each step:
 
 The Elevate Project is your opportunity to contribute new ideas for managers at GitLab and in the wider GitLab community. You'll be assigned to work with a group of other Elevate participants. In your group, you'll discuss a prompt, record a video outlining your solution, and submit a merge request to the handbook to document your findings. _Completion of this project is required to earn the Elevate certification._
 
-For Elevate cohorts 1 through 10, your Project is due before your Certification session. For all other Elevate cohortss your Project is at the conclusion of Module 4.
+For Elevate cohorts 1 through 10, your Project is due before your Certification session. For all other Elevate cohorts your Project is at the conclusion of Module 4.
 
 #### Prompts
 
