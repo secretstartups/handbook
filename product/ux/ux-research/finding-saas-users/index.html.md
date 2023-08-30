@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Finding SaaS users"
-description: "How we target research participants to meet specific criteria"
+description: "How we target SaaS research participants to meet specific criteria"
 ---
 
 ## On this page
@@ -14,7 +14,7 @@ description: "How we target research participants to meet specific criteria"
 
 ### When to look for users in the data warehouse
 
-We have a variety of methods for identifying and [Recruiting participants for research studies](/handbook/product/ux/ux-research/recruiting-participants), including our [First Look user panel](https://about.gitlab.com/community/gitlab-first-look/) and recruiting via social media. However, there are situations where these methods aren't suitable and you need to be able to find users based on a very specific criteria backed by objective usage data rather than self-reported or inferred data. The best way to do this is to take advantage of the usage and demographic data we have in our data warehouse.
+We have a variety of methods for identifying and [recruiting participants for research studies](/handbook/product/ux/ux-research/recruiting-participants), including Respondent.io and recruiting via social media. However, there are situations where these methods aren't suitable and you need to be able to find users based on a very specific criteria backed by objective usage data rather than self-reported or inferred data. The best way to do this is to take advantage of the usage and demographic data we have in our data warehouse.
 
 **A non-exhaustive list of examples of when finding users via the data warehouse would be appropriate:**
 * You are looking for users with a certain volume of usage of a feature or stage rather than simply being users of a stage
@@ -98,3 +98,4 @@ LIMIT 50
 ### How to get help
 
 * For questions on where you can find certain data in the warehouse, the #data channel on Slack can address them.
+* If you require a very in depth SQL query, you can reach out to the [Product Data Insights team](https://about.gitlab.com/handbook/product/product-analysis/#working-with-us) to see if they have availability to assist you. 
