@@ -333,6 +333,21 @@ Once these steps are complete, you will see your custom signature included under
         * Disable pitch tracking.
    * Learn more: [View Pitch Activity](https://help.highspot.com/hc/en-us/articles/216042403-View-pitch-activity-)
 
+### How to create Pitches using existing Pitch Style and Pitch Template combos:
+
+*Note:* For more information on the differences betweeen Pitch Styles and Pitch Templates, refer to the previous section or the following link: [Pitch Templates vs Pitch Styles](https://help.highspot.com/hc/en-us/articles/360048380134-Pitch-Templates-vs-Pitch-Styles)
+
+The following steps are used to create Pitches using specific Pitch Style and Pitch Templates:
+
+* Select New Pitch:
+![Pitch_template_step1](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
+* Select Link Pitch:
+![Pitch_template_step1](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
+* Select the Pitch Template - "Browse all templates" and select the appropriate Template
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
+* Select the Pitch Style - chose "Browse all templates" and select the appropriate Template
+![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
+
 ### Editing Content in Highspot 
 To prepare for a pitch, you can customize content for the customer you are corresponding with.
 
