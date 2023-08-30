@@ -581,22 +581,22 @@ If your group, product area, feature, or merge request fits within one of the de
 
 Some areas have already been identified that meet the definition above, and may consider altered approaches in their work:
 
-| Area             | Reason                      | Special workflows (if any) |
-| ---------------- | --------------------------- | -------------------------  |
-| Database migrations, tooling, complex queries, metrics | impact to entire application<br/><br/>The database is a critical component where any severe degradation or outage leads to an S1 incident. | [Documentation](https://docs.gitlab.com/ee/development/database_review.html#general-process) |
+| Area             | Reason                      | Special workflows (if any)                                                                                            |
+| ---------------- | --------------------------- |-----------------------------------------------------------------------------------------------------------------------|
+| Database migrations, tooling, complex queries, metrics | impact to entire application<br/><br/>The database is a critical component where any severe degradation or outage leads to an S1 incident. | [Documentation](https://docs.gitlab.com/ee/development/database_review.html#general-process)                          |
 | Sidekiq changes (adding or removing workers, renaming queues, changing arguments, changing profile of work required)  | impact to multiple services<br/><br/>Sidekiq shards run groups of workers based on their profile of work, eg memory-bound. If a worker fails poorly, it has the potential to halt all work on that shard. | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) |
-| Redis changes    | impact to multiple services<br/><br/>Redis instances are responsible for sets of data that are not grouped by feature category. If one set of data is misconfigured, that Redis instance may fail.  |                            |
-| Package product areas            | high percentage of traffic share |       |
-| Gitaly product areas             | high percentage of traffic share |       |
+| Redis changes    | impact to multiple services<br/><br/>Redis instances are responsible for sets of data that are not grouped by feature category. If one set of data is misconfigured, that Redis instance may fail.  |                                                                                                                       |
+| Package product areas            | high percentage of traffic share |                                                                                                                       |
+| Gitaly product areas             | high percentage of traffic share |                                                                                                                       |
 | [Create: Source Code product areas](/handbook/product/categories/features/#createsource-code-group) | high percentage of traffic share. Special attention should be paid to Protected Branches, CODEOWNERS, MR Approvals, Git LFS, Workhorse and the git over SSH / gitlab-sshd interfaces. Please contact the EM (@sean_carroll) or PM (@tlinz) if you are unsure. |
-| Pipeline Execution product areas | high percentage of traffic share  | [Documentation](https://docs.gitlab.com/ee/development/contributing/verify/) |
-| Authentication and Authorization product areas    | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/authentication-and-authorization#code-review) |
-| Compliance product areas | potentially have legal, security, or compliance consequences | [Code Review Documentation](/handbook/engineering/development/sec/govern/compliance/#code-review) |
-| Workspace product areas    | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/workspace#how-we-work) |
-| [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue | |
-| Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines) |
-| Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html) |
-| Navigation | impact to entire application | [Proposing a change that impacts navigation](https://about.gitlab.com/handbook/product/ux/navigation |
+| Pipeline Execution product areas | high percentage of traffic share  | [Documentation](https://docs.gitlab.com/ee/development/contributing/verify/)                                          |
+| Authentication and Authorization product areas    | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/sec/govern/authentication-and-authorization#code-review)            |
+| Compliance product areas | potentially have legal, security, or compliance consequences | [Code Review Documentation](/handbook/engineering/development/sec/govern/compliance/#code-review)                     |
+| Workspace product areas    | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/workspace#how-we-work)                                   |
+| [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#revenue-impacting-changes) | potentially impact revenue |                                                                                                                       |
+| Runtime language updates | impacts to multiple services | [Ruby Upgrade Guidelines](https://docs.gitlab.com/ee/development/ruby_upgrade.html#ruby-upgrade-guidelines)           |
+| Application framework updates | impacts to multiple services | [Rails Upgrade Guidelines](https://docs.gitlab.com/ee/development/rails_update.html)                                  |
+| Navigation | impact to entire application | [Proposing a change that impacts navigation](https://about.gitlab.com/handbook/product/ux/navigation                  |
 
 ## AI-powered stakeholders
 
