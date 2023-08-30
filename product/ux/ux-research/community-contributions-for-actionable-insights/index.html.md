@@ -42,7 +42,7 @@ The table below outlines key responsibilities. Refer to the [blog creation workf
 
 <img src='blog-post-workflow-2.png' ALT='Workflow to publish a blog post seeking community contributions'>
 
-View the workflow in [Mural](https://app.mural.co/invitation/mural/gitlab2474/1659097338577?sender=u5784f7c9d931cd5b88a66817&key=e69fdb2e-3216-4255-9f79-1b20bddcda82).
+View the workflow in [Figjam](https://www.figma.com/file/U6GlKKrbLRphQmCcZwpJuQ/Blog-process_2023-08-22_10-27-37?type=whiteboard&node-id=0-1&t=Bb8QCBHBrzdlu9pv-0).
 
 
 
