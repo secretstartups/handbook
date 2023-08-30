@@ -90,6 +90,10 @@ The current plugins are:
 App information:
 
 - Located in the ticket sidebar
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
 - This application was developed in-house and can be found
   [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab-super-app).
 
@@ -101,6 +105,12 @@ set if Zendesk views.
 App information:
 
 - Located in the navbar
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
+  - Support Managers
+  - Support Ops
 - This application was developed in-house and can be found
   [GitLab Views App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/gitlab_views).
 
@@ -112,8 +122,83 @@ into Zendesk.
 App information:
 
 - Located in the ticket sidebar
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
 - This application was developed in-house and can be found at
   [Mechanizer project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/mechanizer/)
+
+### Notifications App
+
+This app handles posting notifications at the top of the screen, depending on
+various conditions and user settings.
+
+**Note**: This app is *opt-in*. This means nothing will happen unless you modify
+your user settings to receive notifications.
+
+App information:
+
+- Located in the Top Navigation of Zendesk Global
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
+  - Support Managers
+  - Support Ops
+- This applicate was developed in-house and can be found at
+  [Notification app project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/notification-app)
+
+#### Current events that trigger the app
+
+The following events will send data to the app for notification processing:
+
+- Agent private comment made on ticket
+- Agent public comment made on ticket
+- Customer public comment made on ticket
+- Emergency ticket created
+- Escalated ticket created
+
+#### User settings
+
+The current user settings, which will determine what notifications you will (and
+will not) recieve are:
+
+- Play notification sound
+  - Checking this box tells the app to play the notification sound.
+- Notify me for
+  - This tells the app what kind of tickets to notify you for
+  - Values:
+    - Assigned tickets only
+    - CC'd tickets only
+    - Tickets within my SGG only
+    - All tickets
+- Notify me about
+  - This tells the app what kind of events to notify you for
+  - Values:
+    - All public comments (agent and customer)
+    - Only public comments from agents
+    - Only public comments from customers
+    - Only private comments
+    - All types of comments
+- Also notify me for escalated ticket creation
+  - This dictates if you want to be notified via the app when an escalated
+    organization creates a ticket.
+  - **Note** This works *independently* of all other settings.
+- Also notify me for emergency ticket creation
+  - This dictates if you want to be notified via the app when an emergency
+    ticket is created.
+  - **Note** This works *independently* of all other settings.
+
+For information on editing your personal user settings, please see
+[Zendesk's documentation](https://support.zendesk.com/hc/en-us/articles/4408819930906-Editing-your-personal-settings-in-Zendesk-Chat-Support-accounts#topic_gfh_rqm_4fb).
+
+#### Future iterations
+
+This app is slated to grow consistently with new forms of notifications. Keep an eye on
+[Support Readiness milestones](https://gitlab.com/groups/gitlab-com/support/support-ops/-/milestones?search_title=Support+Ops+Deployment&state=&sort=),
+the [SWIR](/handbook/support/#support-week-in-review),
+and other channels of communications for updates (as well as this seciton of the docs).
 
 ### Out of Office
 
@@ -125,6 +210,10 @@ Managers are also able to do this for their reports.
 App information:
 
 - Located in the navbar
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
 - This application was developed in-house and can be found
   [Out of Office project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/out-of-office/)
 
@@ -140,27 +229,10 @@ The current plugins are:
 App information:
 
 - Located in the ticket sidebar
+- Restricted by Role:
+  - Admin
 - This application was developed in-house and can be found
   [Support Ops Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/support-ops-super-app).
-
-### Ticket Redaction App
-
-This allows for redacting content in a ticket. You input a string or URL for
-the app to check for. If it finds it, it removes said string and inserts a
-black bar over the string (if an attachment, it replaces the attachment with a
-redacted text file).
-
-App information:
-
-- Located in the ticket sidebar
-- Restricted by Group:
-  - Support AMER
-  - Support APAC
-  - Support EMEA
-- This application was developed by
-  [Zendesk](https://www.zendesk.com/marketplace/partners/zendesk/) and is
-  available in the
-  [Zendesk Marketplace](https://www.zendesk.com/apps/support/ticket-redaction/).
 
 ### Unbabel
 
@@ -308,6 +380,10 @@ The current plugins are:
 App information:
 
 - Located in the ticket sidebar
+- Restricted by Group:
+  - Support AMER
+  - Support APAC
+  - Support EMEA
 - This application was developed in-house and can be found
   [Zendesk Super App project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/zendesk-apps/zendesk-super-app).
 
