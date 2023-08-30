@@ -76,7 +76,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 |Investigating| 10m | 15m | 15m |
 | Identified | 10m | 30m | 30m |
 | Monitoring | 30m | 60m | 60m |
-| Resolved | No further updates required |
+| Resolved | No further updates required | | |
 
 #### What If I Don't Know What to Say?
 
