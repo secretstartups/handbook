@@ -1,11 +1,11 @@
 ---
 layout: markdown_page
-title: "Previous GitLab Contributes (Formerly Summits)"
-description: "Before we evolved to our community event, GitLab Contribute, getting everybody together was called the GitLab Summits. View some times we shared!"
+title: "Previous GitLab Contributes & Summits"
+description: "Over the years, GitLab has hosted team member events as both GitLab Contribute and GitLab Summit. View some times we shared!"
 canonical_path: "/company/culture/contribute/previous/"
 ---
 
-## Previous GitLab Contributes
+## Previous GitLab Contributes & Summits
 
 - TOC
 {:toc}
@@ -22,9 +22,6 @@ In May 2019, 518 team members and 43 guests gathered in New Orleans. Around a do
 
 ![GitLab Summit - New Orleans - 2019](/images/summits/2019_new-orleans_team.png){: .illustration}*<small>In May 2019, the whole team counted 518 GitLab team-members!</small>*
 
-### Back in the day
-
-Before we evolved to become [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/), our annual gathering was called the GitLab Summit. Summits brought the team together every 9ish months.
 
 ### Summit in Cape Town, South Africa
 
