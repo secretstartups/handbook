@@ -17,6 +17,8 @@ DIRECTORY_TO_SPLIT=NOSET
 # Command line options
 DUBDUBDUB_REPO=$(git rev-parse --show-toplevel)/../www-gitlab-com
 IS_HANDBOOK=false
+IS_COMPANY=false
+IS_ENGINEERING=false
 SECTION=NOSET
 TITLE=NOTSET
 ICON=NOTSET
@@ -48,6 +50,10 @@ version() {
 while [ "$1" != "" ]; do
     case $1 in
         -H | --handbook)            IS_HANDBOOK=true
+                                    ;;
+        -C | --company)             IS_COMPANY=true
+                                    ;;
+        -E | --engineering)         IS_ENGINEERING=true
                                     ;;
         -s | --section)             shift
                                     SECTION=$1
@@ -88,7 +94,7 @@ if [[ $TITLE == "NOTSET" ]]; then
   exit 1
 fi
 
-if [[ $IS_HANDBOOK == false ]]; then
+if [[ $IS_HANDBOOK == false && $IS_COMPANY == false && $IS_ENGINEERING == false ]]; then
   if [[ $ICON == "NOTSET" ]]; then
     echo -e "${red}${bold}Error:${normal}  Icon of section to migratte not set.  Exiting..."
     exit 1
@@ -120,6 +126,12 @@ BRANCH_NAME=add-$SECTION-to-handbook
 if [[ $IS_HANDBOOK == true ]]; then
     DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/$SECTION
     NEW_SECTION=content/handbook/$SECTION
+elif [[ $IS_COMPANY == true ]]; then
+        DIRECTORY_TO_SPLIT=sites/uncategorized/source/company/$SECTION
+        NEW_SECTION=content/handbook/company/$SECTION
+elif [[ $IS_ENGINEERING == true ]]; then
+        DIRECTORY_TO_SPLIT=sites/handbook/source/handbook/engineering/$SECTION
+        NEW_SECTION=content/handbook/engineering/$SECTION
 else
     DIRECTORY_TO_SPLIT=sites/uncategorized/source/$SECTION
     NEW_SECTION=content/$SECTION
@@ -184,6 +196,12 @@ git pull $SECTION master --allow-unrelated-histories --no-edit
 if [[ $IS_HANDBOOK == true ]]; then
   NEW_SECTION_PATH=content/handbook/$SECTION
   git mv $SECTION content/handbook/
+elif [[ $IS_COMPANY == true ]]; then
+  $NEW_SECTION_PATH=content/handbook/company/$SECTION
+  git mv $SECTION content/handbook/company/
+elif [[ $IS_ENGINEERING == true ]]; then
+  $NEW_SECTION_PATH=content/handbook/engineering/$SECTION
+  git mv $SECTION content/handbook/engineering/
 else
   NEW_SECTION_PATH=content/$SECTION
   git mv $SECTION content/
@@ -260,12 +278,19 @@ cd $DUBDUBDUB_REPO
 echo -e "${bold}Setting up redirects in www-gitlab-com...${normal}"
 git checkout -b removing-$SECTION-and-adding-redirects
 
-if [[ $IS_HANDBOOK == false ]]; then
-  REDIRECT_SOURCE=/$SECTION
-  REDIRECT_TARGET=https://handbook.gitlab.com/$SECTION
-else
+
+if [[ $IS_COMPANY == true ]]; then
+  REDIRECT_SOURCE=/company/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/company/$SECTION
+elif [[ $IS_ENGINEERING == true ]]; then
+  REDIRECT_SOURCE=/handbook/engineering/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/handbook/enginnering/$SECTION
+elif [[ $IS_HANDBOOK == true ]]; then
   REDIRECT_SOURCE=/handbook/$SECTION
   REDIRECT_TARGET=https://handbook.gitlab.com/handbook/$SECTION
+else
+  REDIRECT_SOURCE=/$SECTION
+  REDIRECT_TARGET=https://handbook.gitlab.com/$SECTION
 fi
 
 # Replace existing redirects with new URL
@@ -279,7 +304,7 @@ cat << EOF >> data/redirects.yml
 EOF
 
 # Add entry to codeowners for migrated content
-sed -i '' -e "s~\[handbook-migration\]~[handbook-migration\]\n/$DIRECTORY_TO_SPLIT @jamiemaynard @marshall007~g" .gitlab/CODEOWNERS
+sed -i '' -e "s~\[handbook-migration\]~[handbook-migration\]\n/$DIRECTORY_TO_SPLIT/ @jamiemaynard @marshall007~g" .gitlab/CODEOWNERS
 
 # Remove old content and replace with a README.md
 echo -e "${bold}Removing migrated content from www-gitlab-com...${normal}"
@@ -328,7 +353,7 @@ Please complete the following tasks:
 - [ ] Fix outstanding markdown lint errors
 - [ ] Merge MR for \`handbook\`
 - [ ] Review the MR in \`www-gitlab-com\` for the removal of the old content
-  - MR Link: [$WWW_MR_OUTPUT]($HANDBOOK_MR_OUTPUT)
+  - MR Link: [$WWW_MR_OUTPUT]($WWW_MR_OUTPUT)
 - [ ] Merge MR for \`wwww-gitlab-com\`
 - [ ] Advise on Slack the content has been successfully migrated
 
