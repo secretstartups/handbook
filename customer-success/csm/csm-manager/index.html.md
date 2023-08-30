@@ -226,6 +226,18 @@ The CSM Manager should then work with their CSM to ensure collaboration with the
 
 This review also leads into the [regional review meeting](#regional-review-agenda) to ensure the right information and plans are documented.
 
+### Commission Exception Review Process
+
+#### Current Exception Process
+
+1. Chatter - CSM Managers chatter VP of CSMs _and_ Sales-comp for Pooled CSM Team updates and when approved it is processed by the sales team and  there is a reply to the manager
+2. Deal Exceptions Spreadsheet - [FY23 Deal Exceptions/Accounts Requiring Review CSM](https://docs.google.com/spreadsheets/d/1BsA2Sas7LwtR6r8OY1O3T8cfKius6k_DFuKEXJWoX7U/edit#gid=1297618482) (INTERNAL ONLY) managers would explain deal exceptions mainly for renewal rate exceptions on this spreadsheet and get approval and then it is processed by the comp team
+
+#### Future Exception Process
+
+Moving to one exception process through SFDC chatter. Sales-comp is tagged on chatter for the required exception with the required approval. If it is a CSM pooled field change request then the comp team will process it and reply back on chatter. If it is a Renewal Rate/Growth ARR opportunity exception then the applicable exception checkbox is checked on the opportunity by the comp team and replied to the team by tagging the requestor. System team can help create a chatter report for the teams to view and this helps to collate all requests in one place. 
+
+
 ## Renewal Resources
 
 - [Renewal Review Handbook](/handbook/customer-success/csm/renewals/)
