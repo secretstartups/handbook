@@ -1,14 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "GitLab All-Company Meetings"
 description: "An overview of GitLab Assembly and Quarterly Kickoff Meetings"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
@@ -62,16 +55,16 @@ The Quarterly Kickoff is a [CoST](/handbook/ceo/chief-of-staff-team/) initiative
 
 1. First week of the last month of the current quarter - pick the date in the first month of the next quarter for the kickoff. The preferred date to share the video is on the Monday of the second full week of the month. Work with internal comms to validate this date and schedule an AMA the Wednesday which follows with the appropriate invite list
 1. Second week of the last month of the current quarter - begin [preparing the slides](#how-to-prepare-the-slides) and internal comms announcement
-   1. [FY23-Q4 Quarterly Kickoff](https://docs.google.com/presentation/d/1ItrJIJWIwnDQ13KNtuBDFRTdSa6nLpAeBXa4vi4i4ws)
-   1. Once done with an initial iteration, solicit feedback from the Chief of Staff to the CEO as well as any other colleagues who can help
-   1. Include the timeline, logistics, and draft message for the internal comms announcement
-       - [Example from the FY23-Q4 Quarterly Kickoff](https://docs.google.com/document/d/1a2C3h24wvYn4qYpNKNnweW-Wx1BQ4ZRX50StO7XmbkU)
+    1. [FY23-Q4 Quarterly Kickoff](https://docs.google.com/presentation/d/1ItrJIJWIwnDQ13KNtuBDFRTdSa6nLpAeBXa4vi4i4ws)
+    1. Once done with an initial iteration, solicit feedback from the Chief of Staff to the CEO as well as any other colleagues who can help
+    1. Include the timeline, logistics, and draft message for the internal comms announcement
+        - [Example from the FY23-Q4 Quarterly Kickoff](https://docs.google.com/document/d/1a2C3h24wvYn4qYpNKNnweW-Wx1BQ4ZRX50StO7XmbkU)
 1. Third week of the last month of the current quarter - schedule three review/recording sessions with the CEO. The first session is a review only and in the last week of the quarter. The two review/recording sessions should follow quarter close to ensure any needed information is included in the deck.
-   1. Once the recording dates are more certain, file a [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request) with the Digital Production team so they can prepare to merge the slides and the video together.
-      - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/339)
+    1. Once the recording dates are more certain, file a [video editing request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new?issuable_template=video-editing-request) with the Digital Production team so they can prepare to merge the slides and the video together.
+        - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/339)
     1. Reach out to the Learning and Development team, specifically [Jamie Allen](https://gitlab.com/jallen16), to let them know this is coming to be posted on `Level Up`
     1. After the first review session and the majority of the feedback is addressed, use the [Single material legal review process](https://about.gitlab.com/handbook/legal/materials-legal-review-process/#track-1-single-material-legal-review-process) to get Legals review of the content and announcement
-       - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1237)
+        - [Example issue from FY23-Q4 Quarterly Kickoff](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/1237)
     1. Use the following settings in Zoom to record. It is best for the recorder to own the Zoom link in the invite otherwise the recorder needs to be granted permission.
         1. Pin the CEO
         1. Change `View` to `Speaker`
@@ -83,7 +76,7 @@ The Quarterly Kickoff is a [CoST](/handbook/ceo/chief-of-staff-team/) initiative
     1. Review the recording and in the speaker notes of the slides add the appropriate timestamps for the Digital Production team to use to show the correct slide in the video
     1. Update the issue with the Digital Production team to link to the video and slides. Makes sure permissions are correct so they are only shared with the needed DRIs.
     1. Once the video is returned, review it for correctness. Once reviewed, ask for Legal's final sign off.
-    1. Reach out to the Learning and Development team, specifically [Jamie Allen](https://gitlab.com/jallen16), to share the video with them so they can post it to `Level Up`. They will share a special URL which will authenticate folks via Okta if they are not already authenticated. Make sure to use this URL when sharing. For example, FY23-Q4's Quarterly Kickoff URL was: 
+    1. Reach out to the Learning and Development team, specifically [Jamie Allen](https://gitlab.com/jallen16), to share the video with them so they can post it to `Level Up`. They will share a special URL which will authenticate folks via Okta if they are not already authenticated. Make sure to use this URL when sharing. For example, FY23-Q4's Quarterly Kickoff URL was:
     [`https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff`](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/video/fy23-q4-quarterly-kickoff)
     1. Update the comms with the correct links
 1. Fourth week of the last month of the current quarter - ensure time is scheduled for the chosen date for the CEO to send the comms
@@ -121,7 +114,7 @@ The Post-Earnings Recap & AMA is a Finance initiative.
 
 ## GitLab Assembly
 
-GitLab Assembly is our quarterly all-company meeting and is an opportunity for team members to hear from leaders and teams across the company. 
+GitLab Assembly is our quarterly all-company meeting and is an opportunity for team members to hear from leaders and teams across the company.
 
 To learn more about GitLab Assembly, visit the [Assembly section](/handbook/people-group/employment-branding/people-communications/#gitlab-assembly) of the People Communications & team member engagement Handbook page.
 
