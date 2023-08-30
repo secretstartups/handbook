@@ -147,16 +147,15 @@ The roles are:
 - `quality_staff_engineering_analyst`
 - `quality_staff_software_engineer_in_test`
 - `security_distinguished_engineer_security`
-- `security_manager_security_assurance_engineering`
 - `security_manager_security_engineering`
 - `security_principal_security_engineer`
-- `security_security_assurance_engineer`
 - `security_security_engineer`
-- `security_senior_security_assurance_engineer`
 - `security_senior_security_engineer`
-- `security_staff_security_assurance_engineer`
 - `security_staff_security_engineer`
 - `ux_senior_fullstack_engineer`
+
+Teams to follow up with manually for additional enrollments:
+* Security Assurance
 
 </details>
 
