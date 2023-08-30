@@ -24,48 +24,41 @@ Our goal is to provide Insider Threat features for your applications as well as 
 
 ### Collaboration
 
-You are encouraged to work as closely as needed with our [Data Science section stable counterparts](https://about.gitlab.com/handbook/product/categories/#data-science-section).
+You are encouraged to work as closely as needed with our [stable counterparts](https://about.gitlab.com/handbook/product/categories/#govern-stage).
 
 Other teams that we might collaborate with include but are not limited to:
 
-* [Manage:Authentication and Authorization](https://about.gitlab.com/handbook/engineering/development/dev/manage/authentication-and-authorization/#group-members)
+* [Govern:Authentication and Authorization](https://about.gitlab.com/handbook/engineering/development/sec/govern/authentication-and-authorization/)
+* [Growth:Acquisition and Activation](https://about.gitlab.com/handbook/engineering/development/growth/)
 * [Fulfillment:Fulfillment Platform](https://about.gitlab.com/handbook/engineering/development/fulfillment/fulfillment-platform/#team-members)
 
 Here are some examples of when to engage with your counterpart:
 
-* [Seeking a Manage:Authentication and Authorization review when making a significant change to the registration flow](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/99193#note_1120182366)
+* [Seeking a Govern:Authentication and Authorization review when making a significant change to the registration flow](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/99193#note_1120182366)
 * [Seeking a Fulfillment review when making a change involving Zuora](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/96994#note_1089045221)
+* Discussing in `#f_signup_registration` (Slack, GitLab internal) when making a change that affects how our users signup or login
 
 ## Direction
 
-[Group direction](https://about.gitlab.com/direction/anti-abuse/)
+- [Instance Resiliency](https://about.gitlab.com/direction/govern/anti-abuse/instance_resiliency/)
+- [Insider threat](https://about.gitlab.com/direction/govern/anti-abuse/insider_threat/)
 
 ## Team members
 
 The following people are permanent members of the Anti-Abuse Group:
 
-| Who | Role |
-| --- | --- |
-| [Alex Buijs](https://about.gitlab.com/company/team/#alexbuijs) | Senior Fullstack Engineer |
-| [Eugie Limpin](https://about.gitlab.com/company/team/#eugielimpin) | Senior Fullstack Engineer |
-| [Hinam Mehra](https://about.gitlab.com/company/team/#hmehra) | Fullstack Engineer |
-| [Jay Swain](https://about.gitlab.com/company/team/#jswain) | Engineering Manager |
-| [Jensen Stava](https://about.gitlab.com/company/team/#jstava) | Sr. Product Manager |
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Anti-abuse/, manager_slug: 'jayswain') %>
 
 ## How to contact us
 
 * Tag a team member in a merge request or issue
-* Post a message in the #g_anti-abuse channel (internal only)
-
-## Initial focus
-
-Building the team and detecting and preventing spam and cryptomining abuse of the GitLab SaaS platform.
+* Post a message in the `#g_anti-abuse` Slack channel (GitLab internal)
 
 ## Project management process
 
 Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#schedule).
 
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "govern" } %>
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: 'anti-abuse' } %>
 
 ### Workflow
 
@@ -98,7 +91,7 @@ We use [planning issues](https://gitlab.com/gitlab-org/modelops/anti-abuse/team-
 We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
 
 **Required labels**
-- Stage: `~devops::anti-abuse`
+- Stage: `~devops::govern`
 - Group: `~group::anti-abuse`
 
 ### Merge request labels
@@ -106,7 +99,7 @@ We use issue labels to keep us organized. Every issue has a set of required labe
 MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly [measuring engineering performance](#measuring-engineering-performance).
 
 **Required labels**
-- Stage: `~devops::anti-abuse`
+- Stage: `~devops::govern`
 - Group: `~group::anti-abuse`
 
 ### Milestones
