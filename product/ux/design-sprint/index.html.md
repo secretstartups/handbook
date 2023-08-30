@@ -38,7 +38,7 @@ Your team's availability and the priority of the problem needing to be solved wi
 
 Remote Design Sprints work best with a mix of asynchronous and synchronous sessions. This gives your team ample time to plan, participate, and complete any asynchronous homework prior to synchronous workshop sessions while balancing other daily tasks. Review the [RDS Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Design%20Sprint.md) for suggestions on which exercises work better synchronously or asynchronously when considering your RDS timing.
 
-We recommend keeping your RDS to two weeks or less. Any more than that and you may suffer from loss of momentum. Regardless of the actual duration, the steps, methodology, and exercises are essentially the same. However, you may find that some of the exercises are unnecessary to complete as part of your RDS because you already have the content or data sorted out. In cases like this, you should feel comfortable removing those exercises from the Mural template you copied during your setup outlined below. Note: Before you remove an exercise, be sure to read through the details and instructions to ensure that you truly do not need it.
+We recommend keeping your RDS to two weeks or less. Any more than that and you may suffer from loss of momentum. Regardless of the actual duration, the steps, methodology, and exercises are essentially the same. However, you may find that some of the exercises are unnecessary to complete as part of your RDS because you already have the content or data sorted out. In cases like this, you should feel comfortable removing those exercises from the Figjam template you copied during your setup outlined below. Note: Before you remove an exercise, be sure to read through the details and instructions to ensure that you truly do not need it.
 
 ### Setup
 1. Create an Epic using this [template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Design%20Sprint.md) which will be the SSOT for your RDS's goals and process.
@@ -46,10 +46,10 @@ We recommend keeping your RDS to two weeks or less. Any more than that and you m
     1. Gather all of the supporting research data you have, linking any Insights to this RDS Epic
 1. Work with your Product Manager to form your team of RDS participants (5-7 RDS participants with diverse backgrounds and knowledge of the problem space is recommended).
 1. Create a new folder in Google Drive that can be shared with your RDS participants. This will act as a repository for any assets created during the asynchronous homework exercises.
-1. Create a duplicate of the [Mural Remote Design Sprint template](https://app.mural.co/t/gitlab2474/template/264b026c-b089-4daa-ba6a-0cc838f73fee) that will be used as the primary working area.
+1. Create a duplicate of the [Figjam Remote Design Sprint template](https://www.figma.com/file/nll4tcMgkh8rEV0AFm7V1b/Remote-Design-Sprint-Template_2023-08-23_11-13-21?type=whiteboard&node-id=0-1&t=DpSL3TT0wBOiCPLs-0) that will be used as the primary working area.
 1. Create a special Slack channel that is specific to this RDS
 
-Once the above is done, you'll need to decide how to break up your sessions. This is dependent on how long you plan your RDS to last (4 days, spread over 2 weeks, or somewhere in between?). If you're able to do the standard RDS over 4 days then you can use the Mural template as a guide. Otherwise, you'll need to get creative and balance your team's availability with the needs of each session's included exercises and how they work together.
+Once the above is done, you'll need to decide how to break up your sessions. This is dependent on how long you plan your RDS to last (4 days, spread over 2 weeks, or somewhere in between?). If you're able to do the standard RDS over 4 days then you can use the Figjam template as a guide. Otherwise, you'll need to get creative and balance your team's availability with the needs of each session's included exercises and how they work together.
 
 Next, you'll need to onboard your participants. Start by walking your Product Manager through what a Remote Design Sprint is if you haven't already. Inform them that they will play the role of the "Decider" and explain that the Decider is responsible for making the final decisions on which challenges or concept(s) should progress to the next step, etc. This should be done separately in a sync call or over a Slack private discussion to ensure they fully understand their role and to answer any questions they may have prior to notifying the rest of the team.
 
@@ -59,7 +59,7 @@ After notifying your RDS team within the Epic:
 
 * Share the Google Drive folder with them
 * Add them to the Slack channel you've created
-* Provide a link to the RDS's Mural board.
+* Provide a link to the RDS's Figjam board.
 
 This should all be done at least 1 week before the Remote Design Sprint is scheduled to begin.
 
@@ -91,14 +91,14 @@ Here is the list of tools for RDS preparation, collaboration, and documentation.
 * GitLab
     * Each RDS day's outcomes and materials will be documented in a separate issue under the Remote Design Sprint epic. 
 
-* Mural
+* Figjam
     * RDS participants can join as anonymous but there is a need to be able to identify input against names, so creating an account beforehand is recommended.
-    * Mural will be used for most of the RDS collaboration. Some of the things done in Mural: 
+    * Figjam will be used for most of the RDS collaboration. Some of the things done in Figjam: 
         * Create artifacts like affinity diagrams from RDS participants' input
         * Use post-its to comment on each other's points and to add notes
         * Vote on ideas and solutions
         * Create the first draft of the prototype.
-    * The Mural link to the collaboration project will be provided in the issue before the start of the RDS.
+    * The Figjam link to the collaboration project will be provided in the issue before the start of the RDS.
 
 * Video and/or screen recording tool (Loom, QuickTime, Zoom, etc.).
     * As part of the pre-RDS homework, RDS participants will be asked to record a short Lightning Walkthrough video. RDS participants can use any tool they feel comfortable with as long as it can capture their screen, mouse pointer, and audio.
@@ -110,13 +110,13 @@ Here is the list of tools for RDS preparation, collaboration, and documentation.
     * RDS participants will need to upload sketches as images for the facilitator to prepare the material before the next sync meeting. RDS participants can take a photo with their phone or use a scanner if available.
 
 * Post-it notes (Optional)
-    * If you enjoy taking notes using post-it notes make sure to have some of them available as well. The upside is that they will make you feel more like you are in a workshop and will help the ideas flow. The downside is that you will have to digitalize the ones you want to share with the team in Mural.
+    * If you enjoy taking notes using post-it notes make sure to have some of them available as well. The upside is that they will make you feel more like you are in a workshop and will help the ideas flow. The downside is that you will have to digitalize the ones you want to share with the team in Figjam.
     
 ### Past Remote Design Sprints
 
 List of past Remote Design Sprints:
 
-* [Auto DevOps Design Sprint](https://gitlab.com/groups/gitlab-org/-/epics/5939) ([Mural board](https://app.mural.co/t/gitlab2474/m/gitlab2474/1620201743714/70e65c50a153e5547a7bf7b99ad893acbdd55c1c))
-* [Configure Stage - Design Sprint (Kubernetes management focus)] ([Mural board](https://app.mural.co/t/gitlab2474/m/gitlab2474/1587639805836/1cfa64d51c6637a2b66c820abd2f598e045beea2))
-* [Growth — User's dashboard design sprint](https://gitlab.com/gitlab-org/gitlab/-/issues/342877) ([Mural board](https://app.mural.co/t/gitlab2474/m/gitlab2474/1629791420445/20b1b35f49cbd0e4a11e929fe1e1cc66e48e40bb?sender=mlatin2224))
+* [Auto DevOps Design Sprint](https://gitlab.com/groups/gitlab-org/-/epics/5939) ([Figjam board](https://www.figma.com/file/nVlJ78mfcnrEKLakrOESJb/Remote-Design-Sprint---Auto-DevOps_2023-08-22_10-43-19?type=whiteboard&node-id=0-1&t=pQx0iBKA1vhYgMyT-0))
+* [Configure Stage - Design Sprint (Kubernetes management focus)] ([Figjam board](https://www.figma.com/file/xhQlhEDmRHjr1xFOj33NjX/Configure-Design-Sprint---Kubernetes-focus_2023-08-22_11-01-16?type=whiteboard&node-id=0-1&t=KacnCW9AH1ceXKWB-0))
+* [Growth — User's dashboard design sprint](https://gitlab.com/gitlab-org/gitlab/-/issues/342877) ([Figjam board](https://www.figma.com/file/6Ro5pZp7QVC2W8R0xfhMpD/Dashboard-mini-design-sprint_2023-08-22_10-40-59?type=whiteboard&node-id=0-1&t=ARkOxI6r0bXtGDpi-0))
 
