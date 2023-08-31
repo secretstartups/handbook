@@ -38,7 +38,6 @@ The following is a list of security dashboards that need to be reviewed:
 - [GitLab Terminal](https://gitlab.com/gitlab-org/gitlab-terminal/-/security/vulnerability_report/)
 - [GitLab Agent](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/security/vulnerability_report)
 - [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/security/vulnerability_report)
-- [GitLab Metrics Exporter](https://gitlab.com/gitlab-org/gitlab-metrics-exporter/-/security/vulnerability_report)
 
 ### Validation
 
