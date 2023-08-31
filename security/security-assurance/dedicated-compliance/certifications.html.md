@@ -41,16 +41,17 @@ The following security certifications and attestations are currently on our road
 
 Year(s): FY24
 * [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html) Trust Service Criteria: Security, Confidentiality, and Availability
-* [Standardized Information Gathering Questionnaire](https://sharedassessments.org/sig/) Self-Assessment
+* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Surveillance
+* [TISAX](https://portal.enx.com/en-US/TISAX/) AL 2 certification
 
 
 Year(s): FY25
 * [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html):  +Privacy Critera
-* [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
+* [ISO/IEC 27001:2022](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 * [FedRAMP Moderate Authorization](https://www.fedramp.gov/)
+* [Software Bill of Materials internal implementation plan](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/SBOM-plan.html)
 
 Under Consideration:
-* [TISAX](https://portal.enx.com/en-US/TISAX/) certification
 * [StateRAMP](https://stateramp.org/)
 * [DoD IL2 Provisional Authorization](https://public.cyber.mil/dccs/dod-cloud-authorization-process/)
 * [Supply-chain Levels for Software Artifacts (SLSA)](http://slsa.dev/)
