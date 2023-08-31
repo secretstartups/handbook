@@ -204,6 +204,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [CI/CD Build Speed time-to-result](/company/team/structure/working-groups/ci-build-speed/)
 1. [ClickHouse Datastore](/company/team/structure/working-groups/clickhouse-datastore/)
 1. [Cross Functional Prioritization](/company/team/structure/working-groups/cross-functional-prioritization/)
+1. [Customer Use Case Adoption](/company/team/structure/working-groups/customer-use-case-adoption/)
 1. [Demo & Test Data](/company/team/structure/working-groups/demo-test-data/)
 1. [Emerging Talent](/company/team/structure/working-groups/emerging-talent/)
 1. [Event Stream](/company/team/structure/working-groups/event-stream/)
