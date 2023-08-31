@@ -50,7 +50,7 @@ Year(s): FY25
 * [ISO/IEC 27001:2022](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 * [FedRAMP Moderate Authorization](https://www.fedramp.gov/)
 * [Software Bill of Materials internal implementation plan](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/SBOM-plan.html)
-* [Post-Quantum Cryptography migration plan](https://media.defense.gov/2023/Aug/21/2003284212/-1/-1/0/CSI-QUANTUM-READINESS.PDF) 
+* [Post-Quantum Cryptography migration plan](https://media.defense.gov/2023/Aug/21/2003284212/-1/-1/0/CSI-QUANTUM-READINESS.PDF) ([internal epic](https://gitlab.com/groups/gitlab-org/-/epics/11364))
 
 Under Consideration:
 * [StateRAMP](https://stateramp.org/)
