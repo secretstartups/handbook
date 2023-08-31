@@ -264,7 +264,7 @@ In the event of an accident resulting in damage to the rental car, the foreign r
 </div>
 </div>
 
-### Train
+## Train
 - The Train policy in Navan is set up as a “Dynamic Policy” which calculates a fair market price for every search based on travel dates and destinations.  Any purchases that are over 20% of the Dynamic Policy will be flagged for further review by your manager.  Also note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team. 
 - Train rides must be standard cabin class with a 14 day booking lead time.
 - Yearly or Monthly Rail Discount cards are not reimbursable 
