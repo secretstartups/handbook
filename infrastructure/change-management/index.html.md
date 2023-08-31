@@ -299,7 +299,6 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 | Recurring: Saturday 01:00 UTC -> Sunday 21:00 UTC | Soft       | Weekend                   |
-| 2023-07-08 06:00 UTC -> 2023-07-10 23:00 UTC | Hard | Pause from [Incident-15997](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/15997) |
 
 There are 2 types of PCLs: soft and hard.
 
