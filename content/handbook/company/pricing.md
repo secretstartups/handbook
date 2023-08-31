@@ -1,17 +1,9 @@
 ---
-layout: handbook-page-toc
 title: Pricing model
 description: "Most GitLab functionality is and will be available for free in our Free tier. Paid tiers include features targeted for managers, directors, and executives."
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-GitLab's pricing strategy is set by the CEO, Sid Sibrandij. Everyone can contribute, and the best way to communicate is on the #pricing Slack channel. 
+GitLab's pricing strategy is set by the CEO, Sid Sibrandij. Everyone can contribute, and the best way to communicate is on the #pricing Slack channel.
 
 Contributions are part of the day-to-day jobs of the following people:
 - Principal Pricing Manager (Lisa Hoang)
@@ -23,16 +15,16 @@ Contributions are part of the day-to-day jobs of the following people:
 
 Most of GitLab functionality is and will be available for free in our Free tier. Our paid
 tiers include features that are
-[more relevant for managers, directors, and executives](/company/stewardship/#what-features-are-paid-only){:data-ga-name="paid only features"}{:data-ga-location="body"}.
-[We promise](/company/stewardship/#promises){:data-ga-name="promises"}{:data-ga-location="body"} all major features in [our scope](/direction/#scope){:data-ga-name="scope"}{:data-ga-location="body"}
+[more relevant for managers, directors, and executives](/company/stewardship/#what-features-are-paid-only).
+[We promise](/company/stewardship/#promises) all major features in [our scope](https://about.gitlab.com/direction/#scope)
 are available in Free too. Instead of charging for specific parts of our scope
 (CI, Monitoring, etc.) we charge for smaller features that you are more likely
 to need if you use GitLab with a lot of users. There are a couple of reasons for
 this:
 
-1. We want to be a good [steward of our open source product](/company/stewardship/){:data-ga-name="steward of open source"}{:data-ga-location="body"}.
+1. We want to be a good [steward of our open source product](/company/stewardship/).
 1. Giving a great free product is part of our go to market, it helps create new users and customers.
-1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](https://about.gitlab.com/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"}.
+1. Having our scope available to all users increases adoption of our scope and helps people see the benefit of a [single application](https://about.gitlab.com/handbook/product/single-application/).
 1. Including all major features in Free helps reduce merge conflicts between CE and EE
 
 Because we have a great free product we can't have one price. Setting it high
@@ -40,7 +32,7 @@ would make the difference from the free version too high. Setting it low would
 make it hard to run a sustainable business. There is no middle ground that would
 work out with one price.
 
-That is why we have [Premium and Ultimate tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers){:data-ga-name="premium and ultimate tiers"}{:data-ga-location="body"}.
+That is why we have [Premium and Ultimate tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers).
 The price difference between them is half an order of magnitude (5x).
 
 We will charge per user, per
@@ -54,21 +46,20 @@ own Kubernetes) and never lock you into our infrastructure to charge you an
 opaque premium on those costs.
 
 ### The Value of Free users
+
 As a commercial organization, we always want to grow the number of paying customers, therefore we are focused on increasing the free to paid conversion rate. However, GitLab offers a free product, and our free users bring tremendous value to the company beyond just the likelihood of converting to a paid customer one day.
 
-1. Awareness/Mindshare: A large free user base helps GitLab become known to the developer community and stay top of mind.  
-1. Product Familiarity/Training: Offering a free product invites anyone to try out GitLab without any barrier so many developers become familiar with GitLab. Through using the free product, many users are trained on how to use GitLab functionality which makes them more effective when using GitLab for their job. 
-1. Advocacy/Internal Champion: Happy loyal free users become advocates of GitLab, which brings more users and strengthens our brand. We often see users of GitLab for personal projects then become an internal champions to advocate their employers to buy GitLab. This personal use -> organizational use cross over and bottoms-up growth can't happen without our free product.  
+1. Awareness/Mindshare: A large free user base helps GitLab become known to the developer community and stay top of mind.
+1. Product Familiarity/Training: Offering a free product invites anyone to try out GitLab without any barrier so many developers become familiar with GitLab. Through using the free product, many users are trained on how to use GitLab functionality which makes them more effective when using GitLab for their job.
+1. Advocacy/Internal Champion: Happy loyal free users become advocates of GitLab, which brings more users and strengthens our brand. We often see users of GitLab for personal projects then become an internal champions to advocate their employers to buy GitLab. This personal use -> organizational use cross over and bottoms-up growth can't happen without our free product.
 1. Contributions/Community: Many free users are also active contributors to the product so they make GitLab better. They also help grow our community which becomes an even more valuable asset to all free and paid customers.
-1. Third party support/Platform: Free users increase our total user base, and a large user base makes 3rd party tools/APIs/integrations more likely to support GitLab, growing our ecosystem and enhancing our platform status. 
+1. Third party support/Platform: Free users increase our total user base, and a large user base makes 3rd party tools/APIs/integrations more likely to support GitLab, growing our ecosystem and enhancing our platform status.
 1. Enable product-led growth & Reduce Customer Acquisition Cost: our free product enables GitLab to acquire more users at a lower customer acquisition cost, as some of them will purchase via self-service funnel since they are already familiar with GitLab and won't require a full sales cycle to be convinced to buy.
-1. User habit/Retention lever: offering a free product allows users to develop a habit before they pay, therefore the paid customers are more likely to see higher ROI of GitLab. Additionally, even if the customer stays on the free plan, we are not losing the customer to a competitor. 
+1. User habit/Retention lever: offering a free product allows users to develop a habit before they pay, therefore the paid customers are more likely to see higher ROI of GitLab. Additionally, even if the customer stays on the free plan, we are not losing the customer to a competitor.
   
-
-
 ## Pricing Philosophy
 
-Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/){:data-ga-name="values"}{:data-ga-location="body"}.
+Our pricing philosophy is aligned with our [GitLab Values](/handbook/values/).
 
 - **Collaboration**: We want to keep the trust of our customers through a pricing approach that supports long-lasting customer relationships.
 - **Results**: We aim to get a great ROI for our customers while maximizing IACV for GitLab over the long-term.
@@ -85,6 +76,7 @@ We take a value-based pricing approach at GitLab. The core of the value-based pr
 #### 1. Value Proposition
 
 To understand the value that we deliver to our customers, we focus on the benefits that our customers can receive to achieve their business goals. The value to our customers can include:
+
 - Development cost reduction
 - Revenue gain due to decreased time to market
 - Improved reliability and security
@@ -103,15 +95,15 @@ We understand that customers have choices when they decide to make a purchase. H
 
 To following our pricing philosophy, we aim to support long-lasting customer relationships. When we develop our pricing, the target is that both our customers and GitLab become successful together. For long term success, where we can run a sustainable business and meet our company’s financial goals, we do also consider cost to serve and margins as factors when pricing is determined. It is important to note that while costs and margins are factors in pricing, value provided to our customers is the foundational element.
 
-## Departments and Decision Making 
+## Departments and Decision Making
 
 Pricing affects Product, Marketing, and Sales.
 Therefore, general pricing decisions are made by the CEO.
 
 Product makes most decisions on a day-to-day basis about what feature should go
-in what plan based on [the paid tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers){:data-ga-name="paid tiers"}{:data-ga-location="body"}.
+in what plan based on [the paid tiers](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers).
 
-The following table describes how large cross-functional pricing decisions should be made.  This decision making method differs from our normal [RADCIE](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie){:data-ga-name="radcie"}{:data-ga-location="body"} method due to the extremely cross-functional nature and business risk of large pricing decisions.
+The following table describes how large cross-functional pricing decisions should be made.  This decision making method differs from our normal [RADCIE](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie) method due to the extremely cross-functional nature and business risk of large pricing decisions.
 
 | Responsible | Sr. Director, Pricing | Responsible for analysis and recommendation |
 | Agree | Chief Product Officer, CRO | Should ideally agree with the recommendation |
@@ -122,12 +114,12 @@ The following table describes how large cross-functional pricing decisions shoul
 ## Three Tiers
 
 We have three pricing tiers.
-How we make decisions on a day-to-day basis is specified on our [stewardship page](/company/stewardship/#what-features-are-paid-only){:data-ga-name="stewardship"}{:data-ga-location="body"}.
+How we make decisions on a day-to-day basis is specified on our [stewardship page](/company/stewardship/#what-features-are-paid-only).
 
 | Self-Managed/SaaS tier | Free | Premium | Ultimate |
 | ---------- | ------ | ------ | ---- |
 | Per user per month | $0 | $29 | $99 |
-| [Who cares most about the feature](/company/pricing/#buyer-based-open-core){:data-ga-name="who cares most about the feature"}{:data-ga-location="body"} | Individual Contributors | Directors | Executives |
+| [Who cares most about the feature](/company/pricing/#buyer-based-open-core) | Individual Contributors | Directors | Executives |
 | Main competitor | GitHub Team | GitHub Enterprise | Veracode, Checkmarx |
 | Type of sell | No sell | Benefit/solution | Transformation |
 
@@ -139,7 +131,7 @@ When considering buyers as part of product tiering decisions we use the followin
 1. Premium is for team(s) usage, with the purchasing decision led by one or more Directors
 1. Ultimate is for strategic organizational usage, with the purchasing decision led by one or more Execs
 
-When the tiering of a feature is being evaluated, the [stewardship promise](/company/stewardship/#promises){:data-ga-name="stewardship promise"}{:data-ga-location="body"} will override this guidance.
+When the tiering of a feature is being evaluated, the [stewardship promise](/company/stewardship/#promises) will override this guidance.
 
 ### Examples
 
@@ -153,21 +145,21 @@ Below we list product categories and the current and proposed features which res
 #### Feature - Kanban Boards
 
 1. **Project and Group Boards (Free)** : The primary user and buyer for Issue Boards in general is Individual Contributors. While group boards likely span teams, there are also valid use cases for an individual to organize code in several projects and manage issues across those projects at the group level. The key differentiation is that an Individual Contributor will likely only ever need a single group level Issue Board; whereas Managers need several group level Issue Boards to facilitate their team's workflows. ([Documentation](https://docs.gitlab.com/ee/user/project/issue_board.html))
-1. **Issue Weight on Boards (Premium)** : The users assigning issue weights are individual contributors but the value of that weight is for Directors of teams to ensure proper milestone planning. (Documentation [with respect to boards](https://docs.gitlab.com/ee/user/project/issue_board.html#sum-of-issue-weights-starter){:data-ga-name="boards"}{:data-ga-location="body"})
-1. **Multiple Group Issue Boards (Premium)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer. ([Related documentation](https://docs.gitlab.com/ee/user/project/issue_board.html#group-issue-boards-premium){:data-ga-name="related documentation"}{:data-ga-location="body"})
-1. **Issue Board Epic Swimlanes (Ultimate)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives. ([Related issue](https://gitlab.com/gitlab-org/gitlab/issues/7371){:data-ga-name="related issue"}{:data-ga-location="body"})
+1. **Issue Weight on Boards (Premium)** : The users assigning issue weights are individual contributors but the value of that weight is for Directors of teams to ensure proper milestone planning. (Documentation [with respect to boards](https://docs.gitlab.com/ee/user/project/issue_board.html#sum-of-issue-weights-starter))
+1. **Multiple Group Issue Boards (Premium)** : Issue boards which span groups are valuable to and also utilized by groups of groups which aligns to Director level likely buyer. ([Related documentation](https://docs.gitlab.com/ee/user/project/issue_board.html#group-issue-boards-premium))
+1. **Issue Board Epic Swimlanes (Ultimate)** : Everyday users of swimlanes might be individual contributors but their value is in the visualization of activity for company wide portfolio management by Executives. ([Related issue](https://gitlab.com/gitlab-org/gitlab/issues/7371))
 
 #### Feature - Merge Requests
 
-1. **Merge conflict resolution (Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors. ([Documentation](https://docs.gitlab.com/ee/user/project/merge_requests/resolve_conflicts.html#merge-request-conflict-resolution){:data-ga-name="documentation"}{:data-ga-location="body"})
-1. **Merge approvals (Premium)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Director (who isn't likely to be the user of approvals) requires specific individuals to provide their approval. ([Documentation](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/){:data-ga-name="approvals"}{:data-ga-location="body"})
-1. **Merge request reviews (Premium)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors. ([Documentation](https://docs.gitlab.com/ee/user/discussions/index.html){:data-ga-name="discussions"}{:data-ga-location="body"})
+1. **Merge conflict resolution (Free)** : Resolving merge conflicts is part of the daily workflow and valuable to Individual Contributors. ([Documentation](https://docs.gitlab.com/ee/user/project/merge_requests/resolve_conflicts.html#merge-request-conflict-resolution))
+1. **Merge approvals (Premium)** : Requiring approvals on merge requests is only useful when there is a team working on a project and their Director (who isn't likely to be the user of approvals) requires specific individuals to provide their approval. ([Documentation](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/))
+1. **Merge request reviews (Premium)** : Merge request reviews enables the expedient review by multiple team members on merge requests. Typically large enough teams to value the reduced chatter accompanying MR reviews reside under Directors. ([Documentation](https://docs.gitlab.com/ee/user/discussions/index.html))
 
 #### Feature - Pipelines
 
-1. **Built in CI Pipelines (Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors. ([Documentation](https://docs.gitlab.com/ee/ci/){:data-ga-name="individual contributors"}{:data-ga-location="body"})
-1. **Show pipeline code coverage rate (Premium)** : The ability to determine code coverage rate is particularly valuable to Directors. ([Documentation](https://docs.gitlab.com/ee/user/group/repositories_analytics/index.html){:data-ga-name="analytics"}{:data-ga-location="body"})
-1. **Pipeline dashboards (Premium)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors. ([Documentation](https://docs.gitlab.com/ee/user/operations_dashboard/#operations-dashboard-premium){:data-ga-name="dashboard"}{:data-ga-location="body"})
+1. **Built in CI Pipelines (Free)** : CI Pipelines are integral to GitLab and used primarily by Individual Contributors. ([Documentation](https://docs.gitlab.com/ee/ci/))
+1. **Show pipeline code coverage rate (Premium)** : The ability to determine code coverage rate is particularly valuable to Directors. ([Documentation](https://docs.gitlab.com/ee/user/group/repositories_analytics/index.html))
+1. **Pipeline dashboards (Premium)** : Dashboards of pipelines across groups and projects are primarily used and valued by Directors. ([Documentation](https://docs.gitlab.com/ee/user/operations_dashboard/#operations-dashboard-premium))
 1. **Downloadable all pipeline logs (Ultimate)** : Pipeline logs would be generated and even downloaded by individual contributors, but the value of collating these logs is provided to Executives responsible for ensuring compliance.
 
 ### Usage can be more important than buyer-based tiering
@@ -175,13 +167,13 @@ Below we list product categories and the current and proposed features which res
 While our [tiers](#three-tiers) are based on who leads the purchasing decision there are occasions where driving increased usage takes precedence over the natural buyer-based tiering, always in favor of moving features to lower tiers. Here's why:
 As GitLab develops new categories that are likely to be in paid tiers, it is still reasonable (and in many cases advisable) to get the early MVC versions to land in the free or lower paid-tier to spur adoption, encourage contributions and gain feedback from the wider user base. Over time, the team can then add more features on top of the MVC functionality that will be placed in the paid-tiers. However, Product Managers should not move features down in violation of the buyer-based model unless there is a concrete high confidence plan to follow up with meaningful additions to the base feature that can be added to and monetized with the right paid tier
 
-1. Our [dual flywheels](/company/strategy/#dual-flywheels){:data-ga-name="dual flywheels"}{:data-ga-location="body"} work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those users are essential to creating contributors, an improved product and future tiered features.
+1. Our [dual flywheels](/company/strategy/#dual-flywheels) work because of increased users.  Having capabilities in open-source - even for those oriented towards teams encourages more usage - increased users. Those users are essential to creating contributors, an improved product and future tiered features.
 
-When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. Regardless of the reasoning behind the down-tiering of a feature, the [process](https://about.gitlab.com/company/pricing/#changing-tiers-and-pricing-changes){:data-ga-name="process"}{:data-ga-location="body"} should still be followed.
+When considering tiering, if the feature is geared to be used (not purchased) by individuals and the answer to the question of `who cares most about this feature?` is `today - very few people` we should consider open-sourcing it to get more usage and contributors. Regardless of the reasoning behind the down-tiering of a feature, the [process](https://about.gitlab.com/company/pricing/#changing-tiers-and-pricing-changes) should still be followed.
 
 ### Prevent the ability to circumvent tiering
 
-If a feature in the free tier (typically useful to ICs, but also to others) will open up the possibility to circumvent or abuse our tiering policy, we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is [repo pull mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository){:data-ga-name="pull mirroring"}{:data-ga-location="body"} that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Free tier mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Free tier.
+If a feature in the free tier (typically useful to ICs, but also to others) will open up the possibility to circumvent or abuse our tiering policy, we should exercise extreme caution and err on the side of maintaining the feature in a paid tier. An example of this is [repo pull mirroring](https://docs.gitlab.com/ee/user/project/repository/repository_mirroring.html#pulling-from-a-remote-repository) that is useful for ICs and can also be great for adoption (i.e. trying out GitLab.). However, it may also lead to larger instances in Free tier mirroring to smaller instances in paid tiers to make use of paid-tiered features. This goes against our pricing terms & conditions and therefore we chose to keep the feature in a paid tier instead of Free tier.
 
 ### Partner integration considerations
 
@@ -189,9 +181,9 @@ When building integrations to partners it is possible to make exceptions to our 
 
 ### Themes
 
-We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11){:data-ga-name="conversion performance on pricing page"}{:data-ga-location="body"}. While it is how we present the value of our tiers, this themes-based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
+We've found that bundling our features within tiers into themes [resulted in improved conversion performance on our pricing page](https://gitlab.com/groups/gitlab-com/marketing/growth-marketing/-/epics/11). While it is how we present the value of our tiers, this themes-based representation serves as an additive filter for, and is not a replace of, our Buyer Based Tiering decision.
 
-Themes are then bundled into [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers){:data-ga-name="customer value drivers"}{:data-ga-location="body"}.
+Themes are then bundled into [customer value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/#customer-value-drivers).
 
 ```mermaid
 graph TD;
@@ -207,14 +199,7 @@ graph TD;
 
 The following are our current set of capabilities:
 
-<% tier_names = ['Premium','Ultimate'] %>
-<% tier_names.each do |tier_name| %>
-<%= "##### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
-  <% data.pricing_themes.select{|theme| theme.tier == tier_name}.each do |theme| %>
-<%= "1. #{theme.name} " %>
-  <% end %>
-
-<% end %>
+{{% pricing-themes "Premium" "Ultimate" %}}
 
 #### What happens when themes don't match our Buyer Based Tiering Decisions?
 
@@ -246,7 +231,7 @@ There are multiple reasons why our lower tiers have more relative value:
 1. Any pricing model will have to be compatible with our open source tier. The open source tier should be the top alternative to our priced tiers. That tier has zero cost, zero discounting, a zero price charged for value generated, and infinite value per dollar. Our lowest tier should be the tier that is closest to that to make it possible for people to go from free to paid. As soon as they are paid we can help them to generate more value with GitLab, for example by using more stages. If they realize more value we can move them up in tiers.
 1. The lower tiers (including open source) are a pipeline of future customers for the higher tiers.
 1. We can easily increase revenue in the next 3 years by raising prices and/or making lower tiers less attractive (of course [never by moving features up](#moving-a-feature-down)). But we are optimizing the Net Present Value ([NPV](https://www.investopedia.com/terms/n/npv.asp)) of the company with a 10% a year discount rate. This means we have to look beyond 3 years.
-1. Raising prices on our lower tiers might cause more revenue in the short term, both directly and by compelling most organizations to move to higher tiers. But the minority of organizations that switch to a competition will cause them to be much harder for us to reach in the future and will allow competitors a [flywheel effect](/company/strategy/#dual-flywheels){:data-ga-name="flywheel effect"}{:data-ga-location="body"} of their own. This tradeoff has to be calculated explicitly when raising prices.
+1. Raising prices on our lower tiers might cause more revenue in the short term, both directly and by compelling most organizations to move to higher tiers. But the minority of organizations that switch to a competition will cause them to be much harder for us to reach in the future and will allow competitors a [flywheel effect](/company/strategy/#dual-flywheels) of their own. This tradeoff has to be calculated explicitly when raising prices.
 1. That our lower tiers are popular is not a pricing problem but a communication problem. Higher priced tiers have less value per dollar as a percentage but generate more net value in absolute terms. It is up to us to explain that value in the product, with marketing, and in our sales interactions.
 1. Open core projects capture (ratio of value created vs. captured) less value than proprietary projects. Because the pricing tiers are low relative to the value created the difference between the tiers can be much higher than with proprietary software. If you capture 1% you can easily introduce a new tier at 5x, if you capture 50% even doubling your price will take away all benefit for the customer.
 1. We see customers on Premium but not users on Free. If we focus only on the visible customers that are on Premium we miss the largest opportunity. Premium is priced too if the conversion from Premium to Ultimate is lower than organizations becoming customers after using free. Currently this is not the case because it is much harder reaching out to free users since they aren't customers and we don't have a point of contact to discuss the value of higher tiers.
@@ -274,7 +259,7 @@ We use the same names for SaaS and Self-Managed tiers because:
 ## Type of sell
 
 1. A feature sell means that people want to buy the extra features. This can be done self-serve.
-1. A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like [DevOps Score](https://docs.gitlab.com/ee/administration/analytics/dev_ops_reports.html#devops-score){:data-ga-name="devops score"}{:data-ga-location="body"}, and a quarterly check-in with a Customer Success Manager from Customer Success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
+1. A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like [DevOps Score](https://docs.gitlab.com/ee/administration/analytics/dev_ops_reports.html#devops-score), and a quarterly check-in with a Customer Success Manager from Customer Success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
 1. A transformation sell means that people want to transform as an organization. They want to reduce cycle time by 10x and want us to help them. We do workshops with transformation consultants and define a complete, shared project.
 
 ## Hybrid sales model
@@ -284,7 +269,7 @@ There is a big price difference between the different tiers (0$, $29, $99 per us
 Most companies in a similar situation would focus only on the highest tiers.
 But we want to make a our hybrid model work for the following reasons:
 
-1. We want to keep being a [good steward of the open source project](/company/stewardship/){:data-ga-name="good steward"}{:data-ga-location="body"}.
+1. We want to keep being a [good steward of the open source project](/company/stewardship/).
 1. The free tier is a scalable way to create future customers.
 
 A 5x higher price doesn't mean there is 5x more value, just like the Premium tier doesn't provide infinitely more value than the gratis Free tier.
@@ -316,7 +301,7 @@ The disadvantages are:
 1. It is hard for the buyer to estimate how much of each feature they will need.
 1. The complexity can lengthen the sales process when buyers have to make separate tiering decisions for each group.
 1. For users, it is unclear what features they can use.
-1. It is not common in the industry, buyers don't expect it, and it isn't a boring solution (an operating principle under our [efficiency value](/handbook/values/#efficiency){:data-ga-name="efficiency"}{:data-ga-location="body"}).
+1. It is not common in the industry, buyers don't expect it, and it isn't a boring solution (an operating principle under our [efficiency value](/handbook/values/#efficiency)).
 1. The true-up process becomes more complex.
 1. The customer has to administer a process for how users can get more features.
 1. Features get less usage, and therefore the improvements are slower.
@@ -344,7 +329,7 @@ The disadvantages are:
 
 We believe having a single plan for one customer works because the advantages outweigh the disadvantages.
 
-For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](https://about.gitlab.com/handbook/sales/training/){:data-ga-name="training"}{:data-ga-location="body"}
+For the GitLab sales team and for GitLab customers, we suggest handling the objection by focusing on the [value and business outcomes](https://about.gitlab.com/handbook/sales/training/)
 
 ### Reporter User Permission Pricing
 
@@ -352,24 +337,24 @@ As our customers adopt GitLab as the single application for their entire DevOps 
 
 Currently, we do not offer a different list price for users who only need the reporter permission because:
 
-1. This pricing approach aligns with our [Buyer Based Open Core model](/company/pricing/#buyer-based-open-core){:data-ga-name="buyer based open core model"}{:data-ga-location="body"}.
+1. This pricing approach aligns with our [Buyer Based Open Core model](#buyer-based-open-core).
 1. The list prices of our plans are blended prices with consideration for both developer and non-developer use cases.
-1. We are [selling a suite](/company/pricing/#only-sell-a-suite){:data-ga-name="selling a suite"}{:data-ga-location="body"} and taking care of specific non-developer use cases by making a discount conditional on not using part of the product.
+1. We are [selling a suite](#only-sell-a-suite) and taking care of specific non-developer use cases by making a discount conditional on not using part of the product.
 1. A simplified pricing and packaging (PnP) strategy serves customers in the optimal way per the industry best practice. More SKUs lead to a more complex PnP model as a company scales, which eventually causes huge confusion to customers.
-1. We do not limit a license to the [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions){:data-ga-name="reporter permission"}{:data-ga-location="body"} in GitLab. Any reporter user can be updated to a regular developer user by using the same license.
+1. We do not limit a license to the [reporter permission](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) in GitLab. Any reporter user can be updated to a regular developer user by using the same license.
 
-We understand that our customers have non-developer use cases. Please [contact our sales team](/sales/){:data-ga-name="sales"}{:data-ga-location="body"} or connect with us via [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/213185){:data-ga-name="this issue"}{:data-ga-location="body"} to discuss your specific use cases.
+We understand that our customers have non-developer use cases. Please [contact our sales team](https://about.gitlab.com/sales/) or connect with us via [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/213185) to discuss your specific use cases.
 
 ## True-up pricing
 
 1. With true-up pricing, the license/sale is never blocking user growth.
-1. We currently charge 100% for users added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone. A pre-requisite of this would be customer adoption of [Cloud Licensing](/pricing/licensing-faq/cloud-licensing/).
+1. We currently charge 100% for users added during the year, because some organizations gave an intentionally too-low estimate when we charged 50%. If we technically can count "user days," we can make it fair for everyone. A pre-requisite of this would be customer adoption of [Cloud Licensing](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/).
 1. For customers on Cloud Licensing, we offer [Quarterly Subscription Reconciliation](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html).
 
 ## Consumption pricing principles
 
-1. These are some principles we think are useful. These are not a promise not an entitlement. Our [pricing page](/pricing/){:data-ga-name="pricing"}{:data-ga-location="body"} contains our current pricing which might deviate from the principles below.
-1. Our price is 5x the on-demand cost of the clouds, so we have 80% margin. This seems to be what's common in our market (for example: [GitHub](https://github.com/pricing) and [CircleCI](https://circleci.com/pricing/)), but we're open to other companies fact checking us with list prices. Here's [our long-term cost model](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-term-targets){:data-ga-name="long term cost model"}{:data-ga-location="body"} which shows how this enables us to get a 20% profit margin.
+1. These are some principles we think are useful. These are not a promise not an entitlement. Our [pricing page](https://about.gitlab.com/pricing/) contains our current pricing which might deviate from the principles below.
+1. Our price is 5x the on-demand cost of the clouds, so we have 80% margin. This seems to be what's common in our market (for example: [GitHub](https://github.com/pricing) and [CircleCI](https://circleci.com/pricing/)), but we're open to other companies fact checking us with list prices. Here's [our long-term cost model](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-term-targets) which shows how this enables us to get a 20% profit margin.
 1. The user has the flexibility to bring their own resources whenever practical (for example, runners and clusters). This can be their on-premise equipment or from their own cloud contract.
 1. We don't want to compete with the major clouds because they are our partners. The only reasons we'd offer our own are because it needs to be in our infrastructure (repository storage) and it's convenient for the end user (runners).
 1. We reap the benefits of scale and sustained-use discounts. We use that to sponsor the resource use that isn't priced. For example: Coordinating the runners, logging in, showing the interface, and sending emails.
@@ -465,7 +450,7 @@ Arguments supporting also offering monthly pricing:
 
 ## Why show monthly pricing on the website
 
-Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on our website](/pricing/){:data-ga-name="monthly pricing"}{:data-ga-location="body"} and notes clearly that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
+Almost all SaaS products show monthly pricing on their pricing pages. GitLab shows [monthly pricing on our website](https://about.gitlab.com/pricing/) and notes clearly that it is billed annually. This is also a standard practice followed by companies like [Salesforce](https://www.salesforce.com/editions-pricing/sales-cloud/). We previously have tried showing annual pricing on the website, but repeatedly heard from customers that they were confused by it. They often thought our product was priced significantly higher than it actually was because they expected the pricing to be displayed in monthly units and read the annual price as though it were per month.
 
 ## Only sell a suite
 
@@ -478,7 +463,7 @@ Most companies evolve in the following way:
 
 An example is Microsoft Office, where it is costly to buy components of Office365 separately, although higher tiers include more products.
 At GitLab, we decided to skip the intermediate steps and immediately only offer a suite that includes all our products.
-Having our complete scope included in our open source version is even part of our [stewardship promises](/company/stewardship/#promises){:data-ga-name="stewardship"}{:data-ga-location="body"}.
+Having our complete scope included in our open source version is even part of our [stewardship promises](/company/stewardship/#promises).
 
 Selling only a suite has risks, after the => is how we mitigate those at GitLab:
 
@@ -490,11 +475,11 @@ Selling only a suite has risks, after the => is how we mitigate those at GitLab:
 Companies evolve to selling only a suite for the following reasons, after the => is how this applies to GitLab:
 
 1. Makes it easier for organizations to adopt the other products. => This is essential; organizations have official solutions and GitLab grows with organic adoption from developers.
-1. Show customers the benefit of a [single application](/direction/#single-application){:data-ga-name="single application"}{:data-ga-location="body"}. => This is essential, since people are skeptical (showing beats telling).
-1. More usage of all the products. => This is essential for us, due to our [seed then nurture](/company/strategy/){:data-ga-name="seed the nurture"}{:data-ga-location="body"} product strategy.
+1. Show customers the benefit of a [single application](https://about.gitlab.com/direction/#single-application). => This is essential, since people are skeptical (showing beats telling).
+1. More usage of all the products. => This is essential for us, due to our [seed then nurture](/company/strategy/) product strategy.
 1. Harder to displace the suite, once it is in place. => This will help if competitors offer a service based on our open source code.
 
-We're going even further than selling a suite by integrating everything in a single application. We do that because of the advantages mentioned on our [direction page section about us being single application](/direction/#single-application){:data-ga-name="direction page section"}{:data-ga-location="body"}. A secondary effect is that the user doesn't have to make a buying, or even an adoption, decision.
+We're going even further than selling a suite by integrating everything in a single application. We do that because of the advantages mentioned on our [direction page section about us being single application](https://about.gitlab.com/direction/#single-application). A secondary effect is that the user doesn't have to make a buying, or even an adoption, decision.
 
 Charging one price that incorporate all our stages is the **perfect bundle**.
 
@@ -523,7 +508,7 @@ Since GitLab is an open core project, we'll always create much more value then w
 These straightforward ways are not possible for the following reasons:
 
 1. Scope: charging more for adoption would hurt the adoption of GitLab for the whole lifecycle. In January 2018, version control is 10 times more popular than the next feature (CI). We need the features to spread organically, so people can create more value with GitLab. People are much more willing to pay when they are already using a part of the lifecycle.
-1. Size: many other software companies limit the maximum amount of users in certain [tiers](#three-tiers). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises){:data-ga-name="artificial restrictions"}{:data-ga-location="body"}. We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger than the limit.
+1. Size: many other software companies limit the maximum amount of users in certain [tiers](#three-tiers). For GitLab, we can't do this because we [promise the open source version won't contain artificial restrictions](/company/stewardship/#promises). We can do it in our proprietary tiers, but this doesn't seem symmetrical. It also feels unfair, if you have to pay more simply by being a bit larger than the limit.
 
 So we're left with charging for features.
 We can't charge for each feature separately, since that is unwieldy for the customer.
@@ -540,7 +525,7 @@ To simplify the above, we base our feature groupings on champion position (see b
 ## Buyer-Based-Open-Core
 
 We make feature tiering decisions based on: **"Who cares most about the feature"**.
-Our [three tiers](#three-tiers) are differentiated based on [the buyer persona](https://about.gitlab.com/handbook/product/personas/#buyer-personas){:data-ga-name="the buyer persona"}{:data-ga-location="body"} or IC who buys GitLab, from individual contributor, to manager/director, to executive. Every person in the company [is on the same tier](/company/pricing/#single-plan-for-one-customer){:data-ga-name="single plan for one customer"}{:data-ga-location="body"}, even if they don't use all the features.
+Our [three tiers](#three-tiers) are differentiated based on [the buyer persona](https://about.gitlab.com/handbook/product/personas/#buyer-personas) or IC who buys GitLab, from individual contributor, to manager/director, to executive. Every person in the company [is on the same tier](#single-plan-for-one-customer), even if they don't use all the features.
 The feature is put in the plan based on what champion is most likely to **care** about it.
 Buyers make sense, since a higher-cost plan needs a higher-placed buyer.
 
@@ -550,26 +535,26 @@ Alternatives that don't work:
 1. [Scope and size](#value-capture) don't work.
 1. Pricing based on maturity is strange, because organizations at the beginning of their journey should pay the most, since in a greenfield you benefit the most quickly and extensively from GitLab.
 
-More detail about this in Sid's presentations about Buyer-Based-Open-Core at the [Open Source Leadership Summit in 2019](/blog/2019/04/03/five-ways-resist-service-wrapping-buyer-based-open-core/){:data-ga-name="leadership summit"}{:data-ga-location="body"} and at [Heavybit](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/).
+More detail about this in Sid's presentations about Buyer-Based-Open-Core at the [Open Source Leadership Summit in 2019](https://about.gitlab.com/blog/2019/04/03/five-ways-resist-service-wrapping-buyer-based-open-core/) and at [Heavybit](https://www.heavybit.com/library/video/commercial-open-source-business-strategies/).
 
-Also see [fork and commoditize](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#fork-and-commoditize){:data-ga-name="fork and commoditize"}{:data-ga-location="body"} in the list of our concerns.
+Also see [fork and commoditize](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#fork-and-commoditize) in the list of our concerns.
 
 ### Example template for customer response
 
 **A customer asked why merge request approvals were not included in free:**
 
-> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases. For more information please see our Buyer Based Open Core model: [/company/pricing/#buyer-based-open-core](/company/pricing/#buyer-based-open-core){:data-ga-name="buyer based open core"}{:data-ga-location="body"}.
+> Thanks for asking. We think that managers are more likely to care about merge requests approvals than individual contributors. That doesn't mean that individual contributors don't care about them. And it doesn't mean that in all cases managers care more, just in most cases. For more information please see our Buyer Based Open Core model: [#buyer-based-open-core](#buyer-based-open-core).
 
 ### Below is a video of the CEO talking about monetizing open source with co-founders from Infracost.io
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UbMkw6GD7TQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube "UbMkw6GD7TQ" >}}
 
 ## If a feature can be moved down do it quickly
 
 We should not hesitate to open source features. When we put a feature into too high of a tier we should move it quickly because not having it in all tiers limits who can use the feature and this hurts:
 
 1. Getting more users: having the product sell itself makes us much more efficient, for it to sell itself it has to get used, more open source features can increase the popularity of GitLab compared to rival offerings.
-1. Getting more [stages per user](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu){:data-ga-name="stages per user"}{:data-ga-location="body"}: if an open source feature gets a user to adopt a new stage this increases the value one user gets from GitLab greatly since the [single application](https://about.gitlab.com/handbook/product/single-application/){:data-ga-name="single application"}{:data-ga-location="body"} benefits grow exponentially is you adopt more stages.
+1. Getting more [stages per user](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu): if an open source feature gets a user to adopt a new stage this increases the value one user gets from GitLab greatly since the [single application](https://about.gitlab.com/handbook/product/single-application/) benefits grow exponentially is you adopt more stages.
 1. Getting more open source contributions to improve the feature: since the number of contributions grows with the number of users.
 1. Increase demand for paid features on top of what you open source: When you move a feature down this increases the usage of the specific feature, for example our service desk functionality. When a feature is popular this creates more demand for paid features that we can add later like custom templates for service desks.
 
@@ -582,31 +567,31 @@ In most cases the following guidelines apply:
 
 Below is a video with the CEO discussing the philosophy of this with a Product Manager:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HY4iqCFztjk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube "HY4iqCFztjk" >}}
 
 ## Default to move features down
 
-When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly){:data-ga-name="moving it down quickly"}{:data-ga-location="body"} if
+When in doubt, we will default to moving features to a lower tier, [moving it down quickly](#if-a-feature-can-be-moved-down-do-it-quickly) if
 data shows that this is more appropriate. Not all tier changes will involve moving things to lower-priced plans and paid features may move into the higher tier, but
-[open source features should never move to paid tiers](/company/stewardship/#promises){:data-ga-name="move to paid tiers"}{:data-ga-location="body"}.
+[open source features should never move to paid tiers](/company/stewardship/#promises).
 
-Occasionally, a feature may unintentionally become available at a lower-tier due to a bug. This can include the free (open source) tier. When we fix the bug and return the feature to the correct tier, this is not the same as moving an open source feature to a paid tier. The definitive source for a given feature's tier is [our documentation](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html#product-tier-badges). 
+Occasionally, a feature may unintentionally become available at a lower-tier due to a bug. This can include the free (open source) tier. When we fix the bug and return the feature to the correct tier, this is not the same as moving an open source feature to a paid tier. The definitive source for a given feature's tier is [our documentation](https://docs.gitlab.com/ee/development/documentation/styleguide/index.html#product-tier-badges).
 
 We should focus on building new features that buyers want and making sure that the initial assessment of new features is never too low. While we reserve the
 ability to move features up in tier, proving the necessity has a much higher bar since we are constraining the existing reach of a feature rather than expanding it.
 
 Please also note that the CEO is in charge of pricing and tiers; this is delegated to product for the day-to-day work.
-While other parts of the GitLab organization are consulted, the CEO is the [directly responsible individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/){:data-ga-name="DRI"}{:data-ga-location="body"}.
+While other parts of the GitLab organization are consulted, the CEO is the [directly responsible individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/).
 
 ## Changing tiers and pricing changes
 
-To propose a change that impacts pricing or changes a feature's tier (e.g. moving a feature from Premium to Free), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change){:data-ga-name="feature tier or pricing change"}{:data-ga-location="body"}.
+To propose a change that impacts pricing or changes a feature's tier (e.g. moving a feature from Premium to Free), please follow the process outlined in the [Feature Tier or Pricing Change issue template](https://gitlab.com/gitlab-com/Product/issues/new?issuable_template=Feature-Tier-Or-Pricing-Change).
 
 ## DevOps score is not maturity
 
 What is interesting is that GitLab creates more value as you adopt more of it.
 This shouldn't be confused with DevOps maturity.
-DevOps maturity is how advanced your practices are and how fast your DevOps lifecycle is, shown in [cycle analytics](https://docs.gitlab.com/ee/user/analytics/value_stream_analytics.html){:data-ga-name="cycle analytics"}{:data-ga-location="body"}.
+DevOps maturity is how advanced your practices are and how fast your DevOps lifecycle is, shown in [cycle analytics](https://docs.gitlab.com/ee/user/analytics/value_stream_analytics.html).
 With the best practices embedded in GitLab, you will mature faster than without it. GitLab enables a 200% faster DevOps lifecycle.
 But DevOps maturity is mostly about organizational change. GitLab the product is just an enabler of it.
 Even if an organization uses everything of GitLab (high DevOps score), they can still have a slow process (slow lifecycle).
