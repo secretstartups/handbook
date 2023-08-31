@@ -1,7 +1,7 @@
 ---
 
-title: Servicing Internal Requests
-description: "Various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the internal requests issue tracker"
+title: Handling Internal Requests
+description: "Various templates and workflows that should be followed in order to properly handle GitLab.com related requests that Support receives in the internal requests issue tracker"
 category: GitLab.com
 ---
 
@@ -13,7 +13,7 @@ category: GitLab.com
 
 ## Overview
 
-This document details the various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
+This document details the various templates and workflows that should be followed in order to properly handle GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
 
 Internal requests can and should be addressed by any GitLab Support team member who is able to resolve the request.
 
