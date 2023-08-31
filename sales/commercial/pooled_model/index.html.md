@@ -295,7 +295,6 @@ As detailed above, however the case will have the subject **HR: SDR Created**
 
 If the Pooled Customer raises a support ticket, it will be picked up via Zendesk by a Support Engineer.  If this Support Engineer now needs to loop in Sales, and the owner of the account in SFDC is `Pooled Sales User [ DO NOT CHATTER ]`, the [Working with Sales - Salesforce `Account Owner` is `POOLED USER [ DO NOT CHATTER ]`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#if-the-salesforce-account-owner-is-pooled-user--do-not-chatter-) workflow should be followed.
 
-#### Self Service Ops
 
 - Self Service Ops will pick up the message, respond to the chatter message to acknowledge the request, and create a case as detailed below: 
     - Log a case on the Account. 
@@ -307,6 +306,10 @@ If the Pooled Customer raises a support ticket, it will be picked up via Zendesk
     - Select a **Case Reason** based on the customers needs. If you are unsure of what **Case Reason** to select, please refer to this [document](https://docs.google.com/document/u/0/d/1cWuGo4XCAQmzMBcfUjF7Emr2undkz1ufcUFt4HKmIns/edit).
     - Check the **Assign using active assignment rules** checkbox, and click **Save**.
     - This Case will now drop into the **Pooled Sales Queue**, and will be actioned by a Pooled AE.
+
+    Note that the above process can also be followed by any GitLab team member should they need to create a case to loop in a Pooled AE.  When doing so however they should make the below change;
+
+    Enter **Referral** in the **Subject** field, and NOT **Support Ticket**
 
 ### How Pooled AEs work Cases
 
