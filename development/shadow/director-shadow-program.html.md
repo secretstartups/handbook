@@ -149,7 +149,7 @@ No, not at this time.
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
 | September 4 |  Not Available | |
-| September 11 |  Available     |       |
+| September 11 |  Not Available     |       |
 | September 18 |  Available     |       |
 | September 25 |  Available     |       |
 | October 2  |  Available | |
@@ -171,7 +171,6 @@ No, not at this time.
 
 | Shadow | Department | 
 | ------ | ----- |
-| [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 | [@warias](https://gitlab.com/warias) | Marketing |
 | [@mlindsay](https://gitlab.com/mlindsay) | Professional Services | 
 | [@oregand](https://gitlab.com/oregand) | Development |
@@ -202,4 +201,5 @@ No, not at this time.
 | [Olubunmi Odumade](https://www.linkedin.com/in/odumade) | Non-GitLab shadow - engineering leader |
 | [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow - Manager of Animation & Gaming Technical Support at Netflix | 
 | [Reggie Skillman](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadow - Military Veteran tenured in Aerospace and Software Stack |
+| [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
 
