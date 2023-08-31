@@ -1,0 +1,100 @@
+---
+layout: default
+manual_cookiebot: true
+extra_css:
+  - maturity.css
+extra_js:
+  - libs/on-scroll.js
+  - all-clickable.js
+  - libs/moment.min.js
+  - maturity.js
+title: "November 18, 2023"
+description: "By November 18, 2023 GitLab wants to deliver a Popular next generation product where 50% of our categories are at lovable maturity. Learn more!"
+canonical_path: "/company/strategy/2023/"
+---
+
+.container
+
+  %p{style: "padding-top: 15px"}
+    By November 18, 2023 GitLab wants to deliver a Popular next generation product where 50% of our categories are at lovable maturity.
+
+  %a.scroll-anchor{id: "legend"}
+  %table.legend-table
+    %tr
+      %td{style: "width: 50%"}
+        = link_to "Category", "#category-maturity"
+        and
+        = link_to "Application Type", "#application-type-maturity"
+        maturity:
+        = partial "includes/product/maturity_legend"
+      %td{style: "width: 50%"}
+        %p
+          = link_to "Stage", "#maturity-by-stage"
+          lifecycle:
+          %ul
+            - for i in 0..7
+              %li
+                = lifecycle(i)
+
+.container
+  %section.maturity-tables
+
+    %h2#category-maturity Expected category maturity by Nov 18, 2023
+
+    %p
+      GitLab features are grouped into a
+      = succeed "," do
+        = link_to "hierarchy", "/handbook/product/categories/#hierarchy"
+      representing increasingly higher level capabilities. Features make up a broader Category, which then belong to a DevOps Stage.
+      Stages are assigned a yearly
+      = succeed "," do
+        = link_to "lifecycle", "#legend"
+      and categories a
+      = succeed "." do
+        = link_to "maturity", "#legend"
+
+    .sdlc-container.position-relative#maturity-no-padding
+      .sdlc-table
+        - Gitlab::Homepage::Stage.all!.select{|stage| stage.marketing}.each do |stage|
+          .sdlc-column
+            .stage-container
+              %a{href: "##{stage.key}"}
+                = partial "/includes/icons/sdlc-icons/#{stage.key}.svg"
+              %a{href: "##{stage.key}"}
+                %p #{stage.display_name}
+            .solutions-container
+              - active_categories = available_categories(stage.categories, Date.new(2023,11,18))
+              - upcoming_categories = unavailable_categories(stage.categories, Date.new(2023,11,18))
+              - if active_categories.length >= 1
+                .current-categories
+                  %p.font-bold
+                    Since
+                    #{stage.established}
+                    GitLab added:
+                  .stage-column
+                    .category-list
+                      - active_categories.each do |category|
+                        .category
+                          .category-cell
+                            %a{ href: "##{category.key}"}
+                              = partial "/images/maturity/#{maturity(category, Date.new(2023,11,18))}.svg"
+                          .category-cell
+                            - url = category.best_link
+                            %a{ href: "#{url}" } #{category.name}
+              - if upcoming_categories.length >= 1
+                .future-categories
+                  %p.font-bold
+                    On our
+                    = succeed ':' do
+                      %br
+                      %a.font-bold{ href: "#{stage.direction}"} roadmap
+                  .stage-column
+                    .category-list
+                      - upcoming_categories.each do |category|
+                        .category
+                          .category-cell
+                            %a{ href: "##{category.key}"}
+                              = partial "/images/maturity/#{maturity(category, Date.new(2023,11,18))}.svg"
+                          .category-cell
+                            - url = category.best_link
+                            %a{ href: "#{url}" } #{category.name}
