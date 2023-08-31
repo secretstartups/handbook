@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Dedicated Security Certifications and Attestations"
+title: "GitLab Dedicated Security Certifications, Attestations, and Initiatives"
 ---
 
 ## On this page
@@ -42,7 +42,7 @@ The following security certifications and attestations are currently on our road
 Year(s): FY24
 * [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html) Trust Service Criteria: Security, Confidentiality, and Availability
 * [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Surveillance
-* [TISAX](https://portal.enx.com/en-US/TISAX/) AL 2 certification
+* [TISAX](https://portal.enx.com/en-US/TISAX/) AL 2 certification for data with High protection requirements
 
 
 Year(s): FY25
@@ -50,6 +50,7 @@ Year(s): FY25
 * [ISO/IEC 27001:2022](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 * [FedRAMP Moderate Authorization](https://www.fedramp.gov/)
 * [Software Bill of Materials internal implementation plan](https://about.gitlab.com/handbook/security/security-assurance/dedicated-compliance/SBOM-plan.html)
+* [Post-Quantum Cryptography migration plan](https://media.defense.gov/2023/Aug/21/2003284212/-1/-1/0/CSI-QUANTUM-READINESS.PDF) 
 
 Under Consideration:
 * [StateRAMP](https://stateramp.org/)

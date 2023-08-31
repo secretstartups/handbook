@@ -24,7 +24,7 @@ For more information on the direction of the GitLab Dedicated category, please s
 
 As a member of the [Security Assurance](/handbook/security/security-assurance/) sub-department, and fork of the existing [Security Compliance team](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/), we share many of the same core competencies. The difference between our teams is in the product/system scope (GitLab Dedicated and any future offerings for highly regulated markets) and the security certifications we are pursuing.
 
-1. [Security Certifications](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
+1. [Security Certifications, Attestations, and Initiatives](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
    * External Audit Coordination
    * [Gap Assessments/Readiness Assessments](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html)
 1. [Observation and Remediation Management](/handbook/security/security-assurance/observation-management-procedure.html)
