@@ -59,50 +59,50 @@ Successfully achieving our KR of a beta value stream means progress against our 
 
 ## 10 years
 
-- [Vision](/company/vision/){:data-ga-name="vision"}{:data-ga-location="body"}
-- [Product vision](/direction/#vision){:data-ga-name="product vision"}{:data-ga-location="body"}
+- [Vision](/company/vision/)
+- [Product vision](/direction/#vision)
 - [Commitment of DZ](https://about.gitlab.com/blog/2021/11/10/a-special-farewell-from-gitlab-dmitriy-zaporozhets/)
 - Time needed for category creation
 
 ## 3 years
 
-1. [Strategy](/company/strategy/){:data-ga-name="strategy"}{:data-ga-location="body"}
-1. [3-year product direction strategy](/direction/#3-year-strategy){:data-ga-name="3 year strategy"}{:data-ga-location="body"}
+1. [Strategy](/company/strategy/)
+1. [3-year product direction strategy](/direction/#3-year-strategy)
 1. [Long range outlook](/handbook/finance/financial-planning-and-analysis/#long-range-outlook-lro)
-1. [Restricted stock unit vesting](/handbook/stock-options/#vesting){:data-ga-name="vesting"}{:data-ga-location="body"} after cliff of six months is passed
-1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover){:data-ga-name="turnover"}{:data-ga-location="body"} (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting){:data-ga-name="reports"}{:data-ga-location="body"}
+1. [Restricted stock unit vesting](/handbook/stock-options/#vesting) after cliff of six months is passed
+1. Average retention of team members is around 3 years, with reduced [turnover](/handbook/people-group/people-group-metrics/#team-member-turnover) (<16%). See [actual reports](/handbook/people-group/people-group-metrics/#reporting)
 
 
 ## Year
 
 1. [Yearlies](/company/yearlies/) for setting annual company goals
-1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan){:data-ga-name="annual plan"}{:data-ga-location="body"}
-1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters){:data-ga-name="forecast"}{:data-ga-location="body"}
-1. Most of [Direction](/direction/){:data-ga-name="direction"}{:data-ga-location="body"}
+1. [Annual plan](/handbook/finance/financial-planning-and-analysis/#plan)
+1. [4 quarter rolling forecast](/handbook/finance/financial-planning-and-analysis/#quarterly-forecast-rolling-four-quarters)
+1. Most of [Direction](/direction/)
 1. [Fiscal Year Product Investment Themes](/direction/#fiscal-year-product-investment-themes)
 1. [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives/)
 
 ## Quarter
 
-1. [OKRs](/company/okrs/){:data-ga-name="OKRs"}{:data-ga-location="body"}
-1. [Board meeting](/handbook/board-meetings/#board-meeting-process){:data-ga-name="board meeting"}{:data-ga-location="body"}
-1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari){:data-ga-name="clari"}{:data-ga-location="body"})
-1. [E-group offsite](/company/offsite/){:data-ga-name="e-group offsite"}{:data-ga-location="body"}
+1. [OKRs](/company/okrs/)
+1. [Board meeting](/handbook/board-meetings/#board-meeting-process)
+1. Sales targets (in [Clari](/handbook/business-technology/tech-stack/#clari))
+1. [E-group offsite](/company/offsite/)
 1. [GitLab Assembly](/company/gitlab-all-company-meetings/)
 1. [Quarterly Kickoff](/handbook/ceo/chief-of-staff-team/#quarterly-kickoff)
 1. [Earnings activities](/handbook/finance/investor-relations/)
 
 ## Month
 
-1. [Key Reviews](/handbook/key-review/){:data-ga-name="key reviews"}{:data-ga-location="body"}
-1. [Release](/releases/){:data-ga-name="releases"}{:data-ga-location="body"}
-1. [Retrospective](/handbook/communication/#kickoffs){:data-ga-name="retrospective"}{:data-ga-location="body"}
-1. [Most KPIs](/company/kpis/){:data-ga-name="metrics"}{:data-ga-location="body"}
+1. [Key Reviews](/handbook/key-review/)
+1. [Release](/releases/)
+1. [Retrospective](/handbook/communication/#kickoffs)
+1. [Most KPIs](/company/kpis/)
 
 ## Week
 
-1. [1-1 cadence with reports](/handbook/leadership/1-1/){:data-ga-name="1-1 cadence"}{:data-ga-location="body"}
-1. [E-Group Weekly](/handbook/e-group-weekly/){:data-ga-name="e-group weekly"}{:data-ga-location="body"}
+1. [1-1 cadence with reports](/handbook/leadership/1-1/)
+1. [E-Group Weekly](/handbook/e-group-weekly/)
 
 ## Cadence Updates
 

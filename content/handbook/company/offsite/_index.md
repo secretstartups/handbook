@@ -198,7 +198,7 @@ One of the ways we do this is by asking participants to do prep work ahead of ti
 Examples of prep work include:
 - [Reading the content that was selected](#content-choice)
 - Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancepotential-matrix)
-- Executives working with their People Business Partners to prep any [Director + promotion nominations](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process){:data-ga-name="director + promotion nominations"}{:data-ga-location="body"}
+- Executives working with their People Business Partners to prep any [Director + promotion nominations](https://about.gitlab.com/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
 - Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direction](https://about.gitlab.com/handbook/marketing/growth/)
 - Executives propose [draft Key Results for their functions](/company/okrs/#executives-propose-okrs-for-their-functions)
 - [Watch this short clip on the danger of sticky bears]({{< ref "beware-sticky-bears" >}})
