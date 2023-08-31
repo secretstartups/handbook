@@ -25,13 +25,6 @@ If you know someone who might be interested in attending, feel free to share the
 ### AMER Time Zone Webinars
 
 #### Hands-On GitLab DevSecOps Workshop
-##### August 30th, 2023 at 9:00AM-11:00PM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this workshop we will focus on how you can secure your application with GitLab. We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_zKJjC90zQUmcCOHkYPxQaQ)
-
-#### Hands-On GitLab DevSecOps Workshop
 ##### August 31st, 2023 at 3:00-4:00PM Pacific Time / 6:00-7:00PM Eastern Time / 8:00-9:00AM UTC+10
 
 In this workshop we will focus on how you can secure your application with GitLab. We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
