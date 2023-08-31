@@ -1,28 +1,21 @@
 ---
-layout: markdown_page
 title: "Quote to Cash"
 description: "GitLab's Quote to Cash systems and processes"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Overview
 
 The Quote-to-Cash (O2C) process encompasses `Customer Account Management`, `Order Fulfillment`, `Billing`, and `Accounts Receivable` functions. The coordination of this process is owned by the Enterprise Applications team.
 
-This is a cross-functional page which is meant to be the source of truth for our Quote to Cash (Q2C) systems and underlying data systems and processes. 
+This is a cross-functional page which is meant to be the source of truth for our Quote to Cash (Q2C) systems and underlying data systems and processes.
 
 An efficient Quote-to-Cash system makes purchasing, activating, and managing GitLab subscriptions as easy as possible.
 
-  - Improves `customer satisfaction`, and also `streamlines our go-to-market (GTM) processes` and accelerates `revenue growth` for the company.
-  - Ensures `consistency` between the data for some of the most critical business objects/entities across all the Source Systems.
-  - `Master Data Objects` for all core business critical objects will have same definitions and data across all the systems.
-  - Proper `alignment/sync` exists between all the data source systems - Zuora, CustomerDot, SFDC and Gitlab.com along with 1:1 mapping between Zuora Billing Object Model and CustomersDot.
-  - Improves `data quality` and ensures a `single lineage` for understanding the paid namespace conversion journey, the first paid subscription for a given namespace, free/trial to paid conversion analysis etc..
+- Improves `customer satisfaction`, and also `streamlines our go-to-market (GTM) processes` and accelerates `revenue growth` for the company.
+- Ensures `consistency` between the data for some of the most critical business objects/entities across all the Source Systems.
+- `Master Data Objects` for all core business critical objects will have same definitions and data across all the systems.
+- Proper `alignment/sync` exists between all the data source systems - Zuora, CustomerDot, SFDC and Gitlab.com along with 1:1 mapping between Zuora Billing Object Model and CustomersDot.
+- Improves `data quality` and ensures a `single lineage` for understanding the paid namespace conversion journey, the first paid subscription for a given namespace, free/trial to paid conversion analysis etc..
 
 ## Q2C System Teams
 
@@ -30,9 +23,9 @@ Quote-to-Cash system projects and initiatives often require close collaboration 
 
 ## Q2C System Architecture
 
-The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts. 
+The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular CustomersDot, in a way that promotes more reliability, sustainability, and flexibility. This handbook page serves as the SSOT for the Q2C systems with links back to functional department pages and artifacts.
 
-**Cross-Functional SSOT Architecture Plans:** 
+**Cross-Functional SSOT Architecture Plans:**
 
 1. Fulfillment SSOT Plan: [data_architecture](/company/quote-to-cash/#billing-account-master-data-object)
 1. Central Data Team SSOT Plan: [data_architecture](/company/quote-to-cash/#data-architecture-plan)
@@ -250,7 +243,7 @@ erDiagram
 
 Zuora provides a diagram of the relationships of [Zuora's Billing Object Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/A_Zuora_Billing_business_object_model)
 
-![Zuora Billing Object Model](zuora_billing_object_model.png)
+![Zuora Billing Object Model](/handbook/company/zuora_billing_object_model.png)
 
 To reduce the amount of data issues across our systems, our goal is to try to ensure we have a 1:1 mapping between Zuora Billing Object Model and CustomersDot.
 
@@ -258,15 +251,15 @@ To reduce the amount of data issues across our systems, our goal is to try to en
 
 [Zuora CPQ](https://knowledgecenter.zuora.com/CPQ/A_Zuora_CPQ/A2_Zuora4Salesforce_Object_Model) is used to connect Zuora with Salesforce.
 
-![Zuora Salesforce ERD](zuora_salesforce_erd.jpeg)
+![Zuora Salesforce ERD](/handbook/company/zuora_salesforce_erd.jpeg)
 
 ### Billing Account Master Data Object
 
 `Billing Account` is a core business entity that holds a paying customer’s most critical account information such as their contact details, payment terms, and payment methods. And this information is used to track subscriptions, amendments, and transactions, such as invoices and payments. The data from this Master Data Object is actively being used in several GTM, Product Usage and Data science Propensity models to understand the billing information of paid customers better etc..
 
-First, we focussed on improving the data architecture alignment between Zuora Billing Accounts and CDot Billing Accounts in order to proceed with developing a `Conformed Dimension` for `Billing Account Entity`.  
+First, we focussed on improving the data architecture alignment between Zuora Billing Accounts and CDot Billing Accounts in order to proceed with developing a `Conformed Dimension` for `Billing Account Entity`.
 
-The `Customer` model in CDot has known design flaws as it represents a combination of both a Contact (individual user) and an Account (organization).  Research for this epic can be found in [this Spike issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874). 
+The `Customer` model in CDot has known design flaws as it represents a combination of both a Contact (individual user) and an Account (organization).  Research for this epic can be found in [this Spike issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/1874).
 
 #### Fulfillment data architecture plan
 
@@ -367,10 +360,9 @@ Overall, this will lead to a more secure environment for our customers in CDot a
 
 This iteration focuses on breaking apart the `CustomersDot Order` table to more accurately reflect its representation of `Zuora Subscriptions + Trials`. In the future, we could explore moving the reference for GitLab Namespace from being stored on the Subscription (and Order) to a `Zuora Account`. See [this LucidChart](https://lucid.app/lucidchart/3eb534e8-35b3-47a4-a284-bc6d8984c82e/edit?invitationId=inv_761317ee-84f0-46a3-8b12-3c3a19aecdae&page=xv78vQuQCGfz#) for more details.
 
-### Snowflake Data Warehouse and dbt (data build tool)  
+### Snowflake Data Warehouse and dbt (data build tool)
 
 We extract data from the Quote to Cash systems towards Snowflake and use dbt to transform the data into data models for reporting and analysis.
-
 
 #### Data Architecture Plan
 
@@ -378,25 +370,27 @@ The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular 
 
 **Important Callouts for the Customer Definition in the Unified Q2C data model:**
 
-1. The unified customer key is the Billing_Account_Id which joins the systems together. The Billing_Account_Id appears on Q2C systems as follows: 
+1. The unified customer key is the Billing_Account_Id which joins the systems together. The Billing_Account_Id appears on Q2C systems as follows:
     1. `Zuora.Account.Account_Id`
     1. `CustomersDot.Billing_Accounts.Billing_Account_Id`
     1. `Salesforce.Billing_Account.Billing_Account_Id`
     1. `DRAFT: GitLab_Dotcom.Organization.Billing_Account_Id` The Organization Entity Object has not been created yet in GitLab_Dotcom and is still in the validation process. The Billing Account Id Foreign key needs to be determined.
-2. The source id data (where the data is originated and is considered the SSOT) for billing_account_id lives in Zuora.
-3. The customer definition is only unified for billing accounts that are in Zuora and Salesforce which are generally limited to paying and formerly paying customers and edu/oss customers. 
-4. The target state for trials is to put them into Zuora. At that time, we would be able to have a unified definition for customers across CustomersDot, Salesforce, and Zuora for their trial to paid activity.
-5. The target state for how to unify the customer definition for free customers across the Q2C systems needs to be determined. The quantity of free users presents challenges for putting them into Salesforce and Zuora. This area needs further exploration.
-6. The Account object in Salesforce can have customers that will have a billing account or it can have prospect accounts that do not have a billing account.
+1. The source id data (where the data is originated and is considered the SSOT) for billing_account_id lives in Zuora.
+1. The customer definition is only unified for billing accounts that are in Zuora and Salesforce which are generally limited to paying and formerly paying customers and edu/oss customers.
+1. The target state for trials is to put them into Zuora. At that time, we would be able to have a unified definition for customers across CustomersDot, Salesforce, and Zuora for their trial to paid activity.
+1. The target state for how to unify the customer definition for free customers across the Q2C systems needs to be determined. The quantity of free users presents challenges for putting them into Salesforce and Zuora. This area needs further exploration.
+1. The Account object in Salesforce can have customers that will have a billing account or it can have prospect accounts that do not have a billing account.
 
 The Q2C Re-Architecture will be implemented in various phases with a clear communication to the audience and other cross-functional teams on the Expected Outcomes and Deliverables from each phase.
 
 #### Phase 1
+
 Design & develop Master Data Objects for Billing Accounts, Orders & Ramps to support Quote to Cash Re-Architecture - [Epic](https://gitlab.com/groups/gitlab-data/-/epics/870)
 - Design & Implementation of Master Data Object for Billing Accounts
 - Design & Implmentation of Master Data Object for Orders(inclduing Ramps)
 
 #### Phase 2
+
 Design & develop Master Data Objects for Customers, Contacts/Users & Leads to support Quote to Cash Re-Architecture - [Epic](https://gitlab.com/groups/gitlab-data/-/epics/871)
 - Design & implementation of Master Data Object for Customers/Users/Contacts
 - Design & Implementation of Master Data Object for Leads
@@ -405,7 +399,7 @@ Design & develop Master Data Objects for Customers, Contacts/Users & Leads to su
 
 `Conformed dimensions` allow facts and measures to be categorized and described in the same way across multiple facts and/or data marts, ensuring consistent reporting across the enterprise.
 
-`Conformed Dimensions` correspond to `Master data` and are critical building blocks of any Data Warehousing Environment. 
+`Conformed Dimensions` correspond to `Master data` and are critical building blocks of any Data Warehousing Environment.
 
 The below `Master Data objects` for core business entities will be created that can be used in the different applications across the organization, along with their associated metadata, attributes, definitions, roles, connections, and taxonomies.
 
@@ -491,7 +485,7 @@ These ERDs illustrate how we model data from the Quote to Cash Systems in the Sn
 
 #### Business Insights and Analysis
 
-Our Data Catalog provides access to Analytics Hubs, Data Guides, ERDs, and Analytics projects relating to the Quote to Cash business processes. 
+Our Data Catalog provides access to Analytics Hubs, Data Guides, ERDs, and Analytics projects relating to the Quote to Cash business processes.
 
 - [Lead to Cash Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#lead-to-cash-catalog)
 - [Product Release to Adoption Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)
