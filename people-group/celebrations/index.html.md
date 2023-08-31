@@ -35,6 +35,7 @@ GitLab is modifying the policy for team member gifts and piloting a new gift giv
 - A new team member recently purchased a new home and shared their news with others. A People Manager sends a "Home Sweet Home" doormat as a congratulatory gift.    
 - While working a People Manager noticed a team member’s children in the background of a Zoom call and surprised the kids with a new game.
 - A team member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.   
+- A team member is having a baby.  A People Manager sends a baby gift.  Please note: GitLab already sends team members baby swag as a congratulatory gift for their little ones, therefore these items are not reimbursable. 
 
 The cost of the gifts provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift.
 
