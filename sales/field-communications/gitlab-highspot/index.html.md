@@ -339,14 +339,14 @@ Once these steps are complete, you will see your custom signature included under
 
 The following steps are used to create Pitches using specific Pitch Style and Pitch Templates:
 
-* Select New Pitch:
+* Select **New Pitch**:
 ![Pitch_template_step1](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
-* Select Link Pitch:
-![Pitch_template_step1](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step1.png)
-* Select the Pitch Template - "Browse all templates" and select the appropriate Template
-![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
-* Select the Pitch Style - chose "Browse all templates" and select the appropriate Template
-![Screenshot_AddBookmark](/handbook/sales/field-communications/gitlab-highspot/images/Example_PitchDirectlyFromGmail.png)
+* Select **Link Pitch**:
+![Pitch_template_step2](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step2.png)
+* Select the **Pitch Template** - choose "Browse all templates" and select the appropriate _Template_:
+![Pitch_template_step3](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step3.png)
+* Select the **Pitch Style** - choose "Browse all templates" and select the appropriate _Style_:
+![Pitch_template_step4](/handbook/sales/field-communications/gitlab-highspot/images/Pitch_template_step4.png)
 
 ### Editing Content in Highspot 
 To prepare for a pitch, you can customize content for the customer you are corresponding with.
