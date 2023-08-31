@@ -1509,7 +1509,7 @@ Google Docs can be useful when rapidly [iterating](/handbook/values/#iteration)/
 
 #### Pageless is the GitLab preferred format
 
-Google Docs [Pageless format](https://support.google.com/docs/thread/150905607/google-docs-new-feature-pageless?hl=en) is the preferred format for company documents that won't be printed. If a document is likely going to be printed (for example, a contract) the older paged style is acceptable. See [Good practices and helpful tips](#good-practices--helpful-tips) for help navigating the pageless format.
+Google Docs [Pageless format](https://support.google.com/docs/answer/11528737?hl=en) is the preferred format for company documents that won't be printed. If you set your [default to Pageless](https://support.google.com/docs/answer/11528737?hl=en) then this will be applied to all future documents as well. If a document is likely going to be printed (for example, a contract) the older paged style is acceptable. See [Good practices and helpful tips](#good-practices--helpful-tips) for help navigating the pageless format.
 
 #### Link sharing
 
