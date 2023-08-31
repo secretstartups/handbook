@@ -93,11 +93,10 @@ Please be an [accountability partner](https://medium.com/@MaryLouWrites/accounta
 [OKR Search](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&assignee_username%5B%5D=wayne&milestone_title=FY24-Q3&type%5B%5D=objective&first_page_size=20)
 
 Themes:
-* Code Suggestions G/A
-* Improve quality of secure scanners for false positives and false negatives
+* Reduce churn/contraction via executing on prioritized engineering actions based on customer feedback
 * Take actions based on team member pulse survey in CultureAmp
-* Improve engineering efficiency
-* Deliver on major roadmap deliverables
+* Improve engineering efficiency via addressing technical debt, improving documentation, and improving cross-team collaboration
+* Deliver on major PM roadmap deliverables
 
 
 # More information about Wayne
