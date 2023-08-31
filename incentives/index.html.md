@@ -362,11 +362,13 @@ For more questions about Get Together Grants, please review the [FAQ](https://do
 
 ### Visiting Grant
 
-#### FY23-Q3 Visiting Grant Program
+All Visiting Grant and Significant Life Event Grant programs remain suspended.
+
+#### FY23-Q3 Visiting Grant Program (completed)
 
 We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute's purpose was to "get [team members](/company/team/) together to interact with one another and cultivate our community." We introduced the FY23-Q3 Visiting Grants as a way to capture the spirit of this, by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
 
-#### The Original Visiting Grant Program
+#### The Original Visiting Grant Program (suspended)
 
 Please note in FY21-Q1, GitLab suspended the Original Visiting Grant program until further notice. GitLab is an [all-remote company](/company/culture/all-remote/) with GitLab team-members all over the world. If you want to visit other team members to get to know them, GitLab will assist with travel expenses (flights, trains, and ground transportation to and from the airport) for a total of up to $150 for every team member that you visit and work with. Please note lodging is excluded. To be clearer, if you meet 2 [GitLab team members](/handbook/communication/top-misused-terms/) during your visit, the maximum limit of your visiting grant could be $150x2. You don't need to work on the same project or team, either, so long as you discuss work for at least part of the time you're meeting. Before booking any travel using the travel grant budget please discuss your proposed travel with your manager. We encourage team members to utilize the travel grant, however in some cases - for example, a team member has performance issues related to their role - the visiting grant would not be applicable.
 
@@ -378,7 +380,7 @@ To claim the grant, include a line item on your expense report or invoice along 
 
 [meetup-calendar]: https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV85cWZnajRuMm9nZHMydmlhMDFrb3ZoaGpub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
-#### Significant Life Event Grants
+#### Significant Life Event Grants (suspended)
 
 As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/travel/#travel-guidance-covid-19) accordingly.
 
