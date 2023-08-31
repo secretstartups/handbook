@@ -1,3 +1,3 @@
 ---
-Title: Company Information
+Title: About GitLab
 ---
