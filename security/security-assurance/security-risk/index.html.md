@@ -13,16 +13,16 @@ title: "Security Risk Team"
 {::options parse_block_html="true" /}
 
 ## <i class="fas fa-bullseye" style="color:rgb(110,73,203)" aria-hidden="true"></i> Security Risk Mission
-{: #bullseye-light-purple}
+{: #security-risk-mission}
 
 To improve security at GitLab by enabling informed and intelligent decision making through proactive identification, monitoring, and reporting of security risks.
 
 ## <i class="far fa-lightbulb" style="color:rgb(110,73,203)" aria-hidden="true"></i> Core Competencies
-{: #lightbulb-light-purple}
+{: #core-competencies}
 ----
 
 ### <i class="fas fa-shield-alt" style="color:rgb(253,109,38)" aria-hidden="true"></i> Security Operational Risk Management (StORM) Program
-{: #storm-md-orange}
+{: #storm}
 
 An integrated Operational Risk Management program which focuses on the identification, assessment, continuous monitoring, and reporting of security risks across the organization. Visit the [StORM Program & Procedures](/handbook/security/security-assurance/security-risk/storm-program/index.html) handbook page for additional details, including a quick introduction to Risk Management at GitLab as well as information about the purpose, scope, and specific procedures executed as part of the program. 
 
@@ -38,29 +38,25 @@ Please refer to the [communication section of the StORM Program & Procedures](/h
 </div>
 
 ### <i class="fas fa-hands-helping" style="color:rgb(253,109,38)" aria-hidden="true"></i> Security Third Party Risk Management (TPRM) Program
-{: #tprm-md-orange}
+{: #tprm}
 
 The TPRM Program is focused on identifying and assessing the incremental security risk impact that may develop over the lifecycle of GitLab's relationship with various third parties. Our program is integrated within the [Procurement](/handbook/finance/procurement/) process and is built to continuously monitor third parties based on risk. Additional information can be found on the [Third Party Risk Management](/handbook/security/security-assurance/security-risk/third-party-risk-management.html) handbook page.
 
-
-### <i class="fas fa-search" style="color:rgb(253,109,38)" aria-hidden="true"></i> 
-
-
-
 ### <i class="fas fa-exclamation-triangle" style="color:rgb(253,109,38)" aria-hidden="true"></i> Business Impact Analysis (BIA) and Critical System Tiering (CST)
-{: #bia-md-orange}
+{: #bia}
 
 The [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) (BIA) helps determine the systems critical to serving GitLab's Customers. It also helps determine the prioritization of system restoration efforts in the event of a disruption.  
 
 The Security Risk Team facilitates a BIA for all new systems. A BIA is performed or previously collected BIA data is validated for existing systems based on [Critical System Tiering (CST)](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#critical-systems-tiering-methodology).
 
-### <i class="fas fa-exclamation-triangle" style="color:rgb(253,109,38)" aria-hidden="true"></i> Asset Inventory Maintenance
-{: #bia-md-orange}
+### <i class="fas fa-warehouse" style="color:rgb(253,109,38)" aria-hidden="true"></i> Asset Inventory Maintenance
+{: #asset-inventory}
 
 Establishing a complete and accurate inventory of assets is key to the success of GitLab's Risk Program. As such, the Security Risk Team collaborates closely with IT and Business Owners to ensure new systems are added to the [Tech Stack](/handbook/business-technology/tech-stack-applications/#roles-and-responsibilities) and that associated data is maintained via our BIA processes.
+
 ----
 ## <i class="fas fa-tasks" style="color:rgb(110,73,203)" aria-hidden="true"></i> Metrics and Measures of Success
-{: #metrics-light-purple}
+{: #metrics}
 
 - [StORM Program Risk Heatmap](/handbook/security/performance-indicators/#operational-security-risk-management-tier-2-risks)
 - [Third Party Risk Management - Residual Risk Ratings](/handbook/security/performance-indicators/#third-party-risk-management)
@@ -68,7 +64,7 @@ Establishing a complete and accurate inventory of assets is key to the success o
 
 
 ## <i class="fas fa-users" style="color:rgb(110,73,203)" aria-hidden="true"></i> Team Members
-{: #users-light-purple}
+{: #team-members}
 
 |Team Member|Role|
 |:----------:|:----------:|
@@ -79,7 +75,7 @@ Establishing a complete and accurate inventory of assets is key to the success o
 |[Nirmal Devarajan](https://gitlab.com/ndevarajan)|[Security Assurance Engineer](handbook/job-families/security/security-risk/#security-risk-engineer-intermediate)|
 
 ## <i class="fa-solid fa-d" style="color:rgb(110,73,203)" aria-hidden="true"></i>Functional DRIs
-{: #d-light-purple}
+{: #dris}
 
 While the [DRI](/handbook/people-group/directly-responsible-individuals/#characteristics-of-a-project-dri) is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should consult and collaborate with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
 
@@ -101,7 +97,7 @@ DRIs are responsible for ensuring a [handbook-first approach](/company/culture/a
 |TPRM Metrics and Reporting	|Ryan Lawson|
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
-{: #contact-card-light-purple}
+{: #contact}
 
 - <i class="fas fa-envelope fa-fw" style="color:rgb(219,59,33)" aria-hidden="true"></i> Email: `securityrisk@gitlab.com`
 - <i class="fab fa-slack fa-fw" style="color:rgb(219,59,33)" aria-hidden="true"></i> Slack: 
