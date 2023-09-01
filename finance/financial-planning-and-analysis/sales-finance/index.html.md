@@ -23,8 +23,7 @@ title: "Sales Finance"
 | @nbernardo  | Strategic Planning/Consolidation |
 | @jlatendresse| GTM Business Partner Lead |
 | @kmckern | Strategic Planning/Consolidation |
-| @chauenstein | Enterprise & Commercial Sales |
-| @waqaar | Customer Success, Channels & Alliances |
+| @chauenstein | Enterprise & Commercial Sales | |
 | @rcallam | GTM Cross Functional Manager |
 
 
