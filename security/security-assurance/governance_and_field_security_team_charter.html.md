@@ -37,17 +37,25 @@ Please refer to the following roles and responsibilities for Governance and Fiel
 ### Security Sales Enablement
 * Execution of customer assurance activities
 * Identifying opportunities to streamline Field Security’s involvement in the sales cycle
+* Develop and distribute training on Field Security processes and resources to the Sales organization
+* Collaborating with the Solution Architecture team as the Customer’s trusted security advisors
 
 ### Automation
 * Development of new automated processes
 * Enhancement of existing automated processes
+* Breaking complex requests into smaller manageable components
+* Deployment of new Security Assurance technologies and integration with existing technologies
 
 ### Internal Security Evangelism
 * Policy and procedure management
-* Security awareness
+* Security awareness and training for internal team members
 
 ### Compliance Monitoring and Oversight
 * Awareness and communication of new or updated regulatory and compliance requirements
+* Advisory work on security impacts of new compliance requirements for our customers/prospects
+
+### Metrics
+* Development and maintenance of department-level metrics for Governance and Field Security and cross-functional Security Assurance teams
 
 ## Program goals
 
@@ -64,6 +72,10 @@ Please refer to the following roles and responsibilities for Governance and Fiel
 * Improve the effectiveness and efficiency of existing and new processes through automation.
 * Automate compliance controls and compliance control monitoring processes
 * Reduce the amount of time consumed by manual tasks.
+
+### Automation
+* Reduce manual efforts through automation and simplification of new and existing processes
+* Streamline and enhance Security Assurance tooling through native and custom built integrations
 
 ## Program scope
 
