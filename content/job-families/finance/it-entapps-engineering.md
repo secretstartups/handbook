@@ -13,13 +13,13 @@ Associate IT Enterprise Applications Engineer is a [grade 5](https://about.gitla
 ### Associate IT Enterprise Applications Engineer Responsibilities
 
 - Responsible for managing individual work and projects.
-- Is focused on tactical responsibilities rather than strategic decisions. 
-- Works on problems of moderate complexity in which analysis of situation or data requires a review of existing factors. 
-- Follows specific instructions/frameworks in day to day work. 
-- Work and solutions are reviewed by more senior team members and/or their direct manager. 
-- Learns and develops understanding of GitLab's way of working. 
-- Explains moderately complex issues and works to build alignment.  
-- Collaborates with team members on their team to accomplish the team goals. 
+- Is focused on tactical responsibilities rather than strategic decisions.
+- Works on problems of moderate complexity in which analysis of situation or data requires a review of existing factors.
+- Follows specific instructions/frameworks in day to day work.
+- Work and solutions are reviewed by more senior team members and/or their direct manager.
+- Learns and develops understanding of GitLab's way of working.
+- Explains moderately complex issues and works to build alignment. 
+- Collaborates with team members on their team to accomplish the team goals.
 - Adapts to GitLab communication framework.
 
 
@@ -35,14 +35,14 @@ Intermediate IT Enterprise Applications Engineer is a [grade 6](https://about.gi
 
 ### Intermediate IT Enterprise Applications Engineer Responsibilities
 
-- Focuses on work within the team. 
-- Acts on strategic decisions. 
+- Focuses on work within the team.
+- Acts on strategic decisions.
 - Influences achievement of goals within the team.
-- Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors. 
-- Solves problems that requires analysis of multiple sources of information before making a recommendation. 
-- Grows knowledge of business concepts and functional subject matters to determine solutions. 
-- Receives feedback from manager on proposed solutions. 
-- Solves difficult issues in collaboration with their team and works to build alignment around complex situations. 
+- Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors.
+- Solves problems that requires analysis of multiple sources of information before making a recommendation.
+- Grows knowledge of business concepts and functional subject matters to determine solutions.
+- Receives feedback from manager on proposed solutions.
+- Solves difficult issues in collaboration with their team and works to build alignment around complex situations.
 - Normally receives no instructions on routine work, general instructions on new assignments.
 - Acts in alignment with GitLab communication framework.
 
@@ -143,11 +143,11 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Implements strategic decisions.
 - Thought partner for team's manager to make technical/project decisions for the team.
 - Proposed solutions may impact results within a team member's department.
-- Provides technical and functional knowledge to projects that contribute to overall direction across teams. 
-- Understands and works on complex problems that requires a deep understanding of multiple sources of data to make a recommendation. 
+- Provides technical and functional knowledge to projects that contribute to overall direction across teams.
+- Understands and works on complex problems that requires a deep understanding of multiple sources of data to make a recommendation.
 - Exercises independent judgment in developing methods, techniques and evaluation criteria for obtaining results.
-- Leads others by sharing solutions and problem solving approaches with others. 
-- Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes. 
+- Leads others by sharing solutions and problem solving approaches with others.
+- Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes.
 - Interacts with team members and other managers, in addition to suppliers, vendors and/or customers where applicable to the role.
 - Collaborates with their team and other stakeholders within the department to maintain a high bar for quality in a fast-paced, iterative environment.
 
@@ -167,16 +167,16 @@ Principal IT Enterprise Applications Engineering is a [grade 9](https://about.gi
 
 Extends the Staff IT Enterprise Applications Engineer responsibilities:
 
-- Focuses on work across multiple teams/Sub-department. 
+- Focuses on work across multiple teams/Sub-department.
 - Play a central role in technical, business, and organizational contributions impacting a team member's Sub-department.
-- Drives formal networks with key decision makers and serves as external spokesperson for the organization. 
-- Works on significant and unique issues where coming to a resolution requires complex analysis. 
-- Requires conceptual thinking to understand advanced issues and implications. 
-- Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results. 
-- Proposed solutions may impact results of a team member's division. 
+- Drives formal networks with key decision makers and serves as external spokesperson for the organization.
+- Works on significant and unique issues where coming to a resolution requires complex analysis.
+- Requires conceptual thinking to understand advanced issues and implications.
+- Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results.
+- Proposed solutions may impact results of a team member's division.
 - Analyzes situations and makes decisions impacting multiple teams. These decisions may involve more team members and resources and generally at a higher level of risk and complexity than the manager level.
 - Acts independently to determine methods and procedures on new assignments.
-- A strategic leader within the organization. 
+- A strategic leader within the organization.
 - Collaborates and makes proposals across several teams, and helps team members make informed decisions in alignment with strategic plans.
 
 ### Principal IT Enterprise Applications Engineering Requirements
@@ -193,15 +193,15 @@ Distinguished IT Enterprise Applications Engineering is a [grade 10](https://abo
 
 Extends the Principal IT Enterprise Applications Engineer responsibilities:
 
-- Focuses on work across Sub-departments. 
-- Drives the framework, strategy and plans
-- Creates a measurable impact on the work of teams across the company
-- Takes a central role in decision making for technical, business, and organizational issues
-- Problems to be solved have a high degree of complexity and may impact future business results. 
-- Works on issues that impact program success or addresses future concepts and products. 
-- Implementation of solutions requires a longer term view which impacts strategic goals and objectives. 
-- Proposed solutions may impact results of multiple Sub-departments. 
-- Provides a point of escalation for teams facing extremely complex technical challenges
+- Focuses on work across Sub-departments.
+- Drives the framework, strategy and plans.
+- Creates a measurable impact on the work of teams across the company.
+- Takes a central role in decision making for technical, business, and organizational issues.
+- Problems to be solved have a high degree of complexity and may impact future business results.
+- Works on issues that impact program success or addresses future concepts and products.
+- Implementation of solutions requires a longer term view which impacts strategic goals and objectives.
+- Proposed solutions may impact results of multiple Sub-departments.
+- Provides a point of escalation for teams facing extremely complex technical challenges.
 - Acts as an advisor to Senior Leadership.
 - Influences Senior Leadership to adopt a different point of view when appropriate, and makes decisions that have an impact on business direction.
 
