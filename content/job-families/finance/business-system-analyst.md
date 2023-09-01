@@ -154,7 +154,7 @@ The Business Systems Architect is a [grade 10](https://about.gitlab.com/handbook
 
 All the responsibilities of a Principal Business Systems Analyst, plus:
 
-- 
+- TO BE ADDED
 
 #### Business Systems Architect Requirements
 
