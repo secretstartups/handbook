@@ -12,7 +12,7 @@ description: "The charter of this working group is to scale the GitLab Dedicated
 | Slack               | [#f_gitlab_dedicated](https://gitlab.slack.com/archives/C01S0QNSYJ2) for GitLab Dedicated questions (only accessible from within the company) |
 | Slack               | [#wg_dedicated_cross_functional](https://gitlab.slack.com/archives/C046P7F0N2J) for working group items (only accessible from within the company) |
 | Google Doc          | [Working Group Agenda](https://docs.google.com/document/d/1vuKnUwJYrSKAqu0kYtR503LQbuYM_VSD4_z90MR_cQU/edit) (only accessible from within the company) |
-| Epic                | [Cross-Functional Epic]() (only accessible from within the company) |
+| Epic                | Cross-Functional Epic (only accessible from within the company) |
 
 ## Additional Resources
 
@@ -21,7 +21,7 @@ description: "The charter of this working group is to scale the GitLab Dedicated
     - [Limited Availability Roadmap](https://about.gitlab.com/direction/saas-platforms/dedicated/#limited-availability-roadmap)
 - [Engineering Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
     - [Project Management](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/#project-management)
-- [Internal Handbook ](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
+- [Internal Handbook](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/)
 - [Top-Level Initiative Epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/479)(only accessible from within the company)
 - [Limited Availability Epic - main project epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/484)  (only accessible from within the company)
 - [Cross-Functional Limited Availability Requirements](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/866) (only accessible from within the company)
@@ -84,7 +84,7 @@ In addition to the [status process from Dedicated team page](/handbook/engineeri
 
 - Initiative DRI provides updates in Product Key Review as the Chief Product Officer is the executive sponsor of this initiative.
 - The [Product Key Review](/handbook/key-review/) occurs twice per quarter.
- 
+
 ## Top Initiative Quarterly Meeting
 
 - [Top Initiative Quarterly Meeting](https://about.gitlab.com/company/top-cross-functional-initiatives/) occurs once per quarter to review initiative health, risks, and blockers.

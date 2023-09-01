@@ -19,11 +19,11 @@ Ensure that our expense policy relects GitLab's [spend company money like its yo
 
 This will include:
 
-1.  Providing clarity around how to interpret the operating principle
-1.  Updating the purchase recommendations page in the handbook
-1.  Evaluating current expense infrastruture and making any required changes
-1.  Updating current expense processes and policies and making any required changes
-1.  Manager enablement and training
+1. Providing clarity around how to interpret the operating principle
+1. Updating the purchase recommendations page in the handbook
+1. Evaluating current expense infrastruture and making any required changes
+1. Updating current expense processes and policies and making any required changes
+1. Manager enablement and training
 
 ## Exit Criteria
 

@@ -27,7 +27,7 @@ These programs aim to bridge the gap between education and experience by offerin
 ### Goals
 
 1. Establish Emerging Talent Acquisition Strategy within Engineering.
-2. Build Emerging Talent Programs within Engineering.
+1. Build Emerging Talent Programs within Engineering.
     - FTE Rotation Program [Marketing Name = Associate Engineering Program aka AEP]
     - Internship Program [Marketing Name = Engineering Intership Program aka EIP]
 

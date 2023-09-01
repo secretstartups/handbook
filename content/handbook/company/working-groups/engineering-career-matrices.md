@@ -4,12 +4,12 @@ description: "The GitLab Engineering Career Matrices Working Group aims to deliv
 ---
 
 ## Attributes
- 
+
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 6, 2020   |
 | Target End Date | August 20, 2020  |
-| Slack           | [#wg_career_matrices]() (only accessible from within the company) |
+| Slack           | #wg_career_matrices (only accessible from within the company) |
 | Google Doc      | [Career Matrix Working Group Agenda](https://docs.google.com/document/d/1gTAXEdNXNiFGcXuKS5seGrz2GLbeftv56fT9NvIEZmg/edit?usp=sharing) (only accessible from within the company) |
 | Issue Board     | [Plato Coaching Pilot Issue Board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1623791)|
 

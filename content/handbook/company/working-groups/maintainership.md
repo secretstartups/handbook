@@ -71,34 +71,34 @@ The maintainership process is described [on this page](https://about.gitlab.com/
 
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
-| Executive Sponsor     					| Christopher Lefelhocz                  | VP of Development    |
-| Facilitator           					| Michelle Gill                          | Senior Engineering Manager, Manage   |
-| Functional Lead (Enablement)      		| Alex Ives                              | Engineering Manager, Database     |
-| Functional Lead (Fulfillment)      		| Jerome Ng                              | Senior Manager of Fulfillment |
-| Functional Lead (Ops)      				| Sam Goldstein                          | Director of Ops |
-| Functional Lead (Dev)      				| Max Woolf                              | Senior Backend Engineer, Govern:Compliance |
+| Executive Sponsor                         | Christopher Lefelhocz                  | VP of Development    |
+| Facilitator                               | Michelle Gill                          | Senior Engineering Manager, Manage   |
+| Functional Lead (Enablement)              | Alex Ives                              | Engineering Manager, Database     |
+| Functional Lead (Fulfillment)              | Jerome Ng                              | Senior Manager of Fulfillment |
+| Functional Lead (Ops)                      | Sam Goldstein                          | Director of Ops |
+| Functional Lead (Dev)                      | Max Woolf                              | Senior Backend Engineer, Govern:Compliance |
 | Functional Lead (Sec, Data Science, Growth)   | Thomas Woodham                         | Sr. Engineering Manager, Secure Analyzers |
 | Functional Lead (Maintainer - Frontend)         | Natalia Tepluhina | Staff Frontend Engineer |
 | Functional Lead (Non-Maintainer - Backend)      | Manoj M J | Senior Backend Engineer |
-| Functional Lead (Trainee - Registry DB)		  | Steve Abrams | Intermediate Backend Engineer |
+| Functional Lead (Trainee - Registry DB)          | Steve Abrams | Intermediate Backend Engineer |
 | Functional Lead (Maintainer - Workhorse, Shell) | Robert May | Senior Backend Engineer |
 | Functional Lead (Maintainer - Frontend)         | Ezekiel Kigbo | Senior Frontend Engineer |
 | Functional Lead (Maintainer - Omnibus)          | Balasankar C       | Senior Backend Engineer |
 | Functional Lead (Maintainer - CNG, Operator)    | Mitchell Nielsen | Senior Backend Engineer |
-| Member            | Sean McGivern       		 | Staff Backend    |
-| Member            | Allen Cook    			 | Senior Backend   |
-| Member            | Terri Chu        			 | Senior Backend   |
-| Member            | Doug Stull      	   		 | Staff Fullstack  |
-| Member            | Pavel Shutsin        		 | Senior Backend   |
-| Member            | Sincheol Kim    			 | Senior Backend   |
-| Member            | Michał Zając       		 | Senior Backend   |
+| Member            | Sean McGivern                | Staff Backend    |
+| Member            | Allen Cook                 | Senior Backend   |
+| Member            | Terri Chu                     | Senior Backend   |
+| Member            | Doug Stull                      | Staff Fullstack  |
+| Member            | Pavel Shutsin                 | Senior Backend   |
+| Member            | Sincheol Kim                 | Senior Backend   |
+| Member            | Michał Zając                | Senior Backend   |
 | Member            | Douglas Barbosa Alexandre  | Staff Backend    |
-| Member 		     | Paul Gascou-Vaillancourt   | Senior Frontend,   |
-| Member            | Dennis Tang 				 | Engineering Manager, Govern:Compliance |
-| Member            | Nick Nguyen 				 | Senior Engineering Manager, Datastores |
-| Member            | Darva Satcher 		     | Senior Engineering Manager, Create / Ecosystem Stage |
-| Member            | Jiaan Louw 				 | Senior Frontend Engineer, Govern:Compliance |
-| Member            | Rémy Coutable 		 | Staff Backend Engineer, Contributor Success |
+| Member              | Paul Gascou-Vaillancourt   | Senior Frontend,   |
+| Member            | Dennis Tang                  | Engineering Manager, Govern:Compliance |
+| Member            | Nick Nguyen                  | Senior Engineering Manager, Datastores |
+| Member            | Darva Satcher              | Senior Engineering Manager, Create / Ecosystem Stage |
+| Member            | Jiaan Louw                  | Senior Frontend Engineer, Govern:Compliance |
+| Member            | Rémy Coutable          | Staff Backend Engineer, Contributor Success |
 
 ## Communicating changes
 

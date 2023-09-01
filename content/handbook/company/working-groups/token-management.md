@@ -9,7 +9,7 @@ description: "The charter of this working group is to drive improvements for tok
 |-----------------|-----------------|
 | Date Created    | August 16, 2022   |
 | Date Ended      | April 25, 2023  |
-| Slack           | [#wg_token]() (only accessible from within the company) |
+| Slack           | #wg_token (only accessible from within the company) |
 | Google Doc      | [Token Management Working Group Agenda](https://docs.google.com/document/d/17X-P9vnKDa6WZ6m-0Hxf5aIFkEhmArUN069GgQ-6Dss/edit) (only accessible from within the company) |
 
 ## Direction

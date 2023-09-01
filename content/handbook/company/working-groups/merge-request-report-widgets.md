@@ -47,7 +47,7 @@ The main target of the working group is not to implement everything themselves b
 ## Exit criteria
 
 - Shepherd the implementation and redesign of 10 extensions ([full list](https://gitlab.com/groups/gitlab-org/-/epics/6548)) that will be ported to fully use the new shared MR Widget Extension Component.
--  The shared component follows the [Report regions design guidelines](https://design.gitlab.com/regions/merge-request-reports) defined in the Pajamas Design System.
+- The shared component follows the [Report regions design guidelines](https://design.gitlab.com/regions/merge-request-reports) defined in the Pajamas Design System.
 - The documentation reflects the capabilities of the shared component.
 - Ensure there is clear documentation written for extending the component.
 

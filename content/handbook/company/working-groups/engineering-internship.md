@@ -41,7 +41,7 @@ This working group aims to build on the previous work from the [internship-pilot
 
 #### Stage 3: Plan for FY24 `=> 0%`
 
--  ✅ Work through options to extend the internship in FY24
+- ✅ Work through options to extend the internship in FY24
 
 Options to extend the [internship program for Engineering](https://about.gitlab.com/handbook/engineering/internships/) in FY24 and beyond are being worked through as part of the recruitment team emerging talent program.
 

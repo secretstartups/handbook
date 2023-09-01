@@ -50,6 +50,7 @@ Areas:
 | Executive Stakeholder | Christopher Lefelhocz | Senior Director of Development |
 
 ## Artifacts
+
 - We are working towards [a new accounting method of capturing work done towards the product delivered to customers](https://gitlab.com/gitlab-org/gitlab-insights/issues/134).
 - We will [update training materials](https://gitlab.com/gitlab-com/www-gitlab-com/issues/5137) when the new dashboards are updated per the new accounting method.
 - We are deprecating the Quality Dashboard with an [end-of-life plan](https://gitlab.com/gitlab-org/gitlab-insights/issues/116) that will transition the metrics into the product or Periscope.

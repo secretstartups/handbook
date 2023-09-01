@@ -36,7 +36,7 @@ description: "Learn more about the Product Career Development Framework Working 
 1. Research and incorporation of industry standards into Product Manager [Skills](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-individual-contributors) and [Requirements](https://handbook.gitlab.com/job-families/product/product-manager/#base-requirements-across-all-levels) => 100% delivered in [Product#2460](https://gitlab.com/gitlab-com/Product/-/issues/2460#note_632540218)
 1. Research and incorporation of internal expectations into Product Management [Responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/) => 100% delivered in [Product#2517](https://gitlab.com/gitlab-com/Product/-/issues/2517) and [Product#2832](https://gitlab.com/gitlab-com/Product/-/issues/2832)
 1. Clear quantative measures for progress [included in the CDF](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-topics-for-product-managers)
-1. [Training](/handbook/product/product-manager-role/product-CDF-competencies/#people-management-competencies) for how to use the CDF for all [Product Leaders ](/handbook/product/product-leadership/#product-leaders)
+1. [Training](/handbook/product/product-manager-role/product-CDF-competencies/#people-management-competencies) for how to use the CDF for all [Product Leaders](/handbook/product/product-leadership/#product-leaders)
 1. Simplification of [PM Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 

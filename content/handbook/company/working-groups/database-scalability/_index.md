@@ -147,20 +147,20 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 ### Plan
 
 1. Kick-off working group: handbook, agenda, meeting
-2. Determine authoritative list of scaling patterns and determine a path for sharding to comprise the first iteration
+1. Determine authoritative list of scaling patterns and determine a path for sharding to comprise the first iteration
    1. A blueprint per scaling pattern should be produced by an assigned DRI to:
       1. Describe the scaling pattern
-      2. Applicable use cases in the database
-      3. Analysis and evaluation of current use cases, their effects on the database
-      4. A brief overview of the design
+      1. Applicable use cases in the database
+      1. Analysis and evaluation of current use cases, their effects on the database
+      1. A brief overview of the design
    1. A blueprint for the path of how to shard the database
       1. Describe the goals of sharding
-      2. Determine the sharding key
-      3. Articulate required application and operation changes
-3. Based on these scaling patterns, a blueprint about the Data Access Layer and caching considerations
-4. First iteration implementation plan
+      1. Determine the sharding key
+      1. Articulate required application and operation changes
+1. Based on these scaling patterns, a blueprint about the Data Access Layer and caching considerations
+1. First iteration implementation plan
    1. Must include a plan to measure effects on both the database and the application
-   2. Must include validation (testing) plan
+   1. Must include validation (testing) plan
    1. Must complete Proof of Concepts (PoC) of sharding, determine a viable path, and produce building blocks from the PoC
 
 ### Work Streams and DRI

@@ -21,6 +21,7 @@ This working group will co-ordinate the organization of the effort to improve th
 This group will create processes and policies that are as lean as possible in order to ensure that the way feature flags are used by engineers meets the needs of all stakeholders. Stakeholders for feature flags generally are individuals who care about the current state of features on GitLab.com and self-managed GitLab instances of a particular version.
 
 #### Definitions
+
 - **Feature Flag** - this isn't necessarily the [feature flag feature](https://docs.gitlab.com/ee/operations/feature_flags.html) but rather the way we [use feature flags in the development of GitLab](https://docs.gitlab.com/ee/development/feature_flags/index.html)
 
 ### Exit Criteria

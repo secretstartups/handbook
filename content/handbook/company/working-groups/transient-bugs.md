@@ -21,6 +21,7 @@ Build tooling for transient issues and outline process to sustainable prevent tr
 [Transient bugs](/handbook/engineering/quality/issue-triage/index.html#transient-bugs) have become our focus in FY21Q4 OKRs. We have multiple cross-functional efforts and KRs in both Development and Quality and want to shore-up the momentum on addressing these issues earlier with the appropriate tooling and process in place.
 
 ### Exit Criteria (100% progress)
+
 1. Reword Engineering FY21Q4 OKRs to reflect proactive mitigation of transient issues. `=> 100%`
 1. [Build transient developer tooling to help reproduce transient bugs locally.](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/759) `=> 100%`
 1. Build transient test pipeline to help detect transient bugs (GDK,CI,Test flaky reports). `=> 100%, completed`

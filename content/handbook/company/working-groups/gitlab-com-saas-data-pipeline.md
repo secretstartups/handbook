@@ -11,7 +11,7 @@ description: "The GitLab.com SAAS Data Pipeline Working Group"
 | Target End Date | 2023-10-01                                                                                                                                        |
 | Slack           | `#wg_gitlab_to_snowflake_pipeline` (only accessible from within the company)                                         |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1plhr7UkyxVoIAP_RHJ6HU3QprQlFxIwTZg9wOlMAr4w/edit?usp=sharing) (only accessible from within the company) |
-| Issue Board     | [Issue Board]()                                                |
+| Issue Board     | Issue Board                                                |
 
 ## Business Goal
 

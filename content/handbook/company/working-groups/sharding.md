@@ -134,7 +134,7 @@ The agenda doc can be found in our Google Drive when searching for "Sharding Wor
 - 2020-03-02
   - Exploration of CitusDB [started](https://gitlab.com/gitlab-org/gitlab/issues/207833)
 - 2020-03-09
-  - Incident Review [feedback ](https://gitlab.com/gitlab-org/gitlab/issues/207327#breakdown-by-priority-and-severity)
+  - Incident Review [feedback](https://gitlab.com/gitlab-org/gitlab/issues/207327#breakdown-by-priority-and-severity)
   - Handbook entry update to explicitly set [priorities](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42496/diffs) for sharding
   - Handbook entry [Introducing PostgreSQL table partitioning to GitLab's database](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/doc/partitioning.html)
 - 2020-03-16

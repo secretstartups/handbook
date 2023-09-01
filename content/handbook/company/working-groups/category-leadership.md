@@ -17,14 +17,14 @@ description: "The business goal of GitLab category leadership initiative is to s
 
 Solidify GitLab's 'The DevOps Platform’ messaging, including messaging for:
 
-1.  One sentence
-1.  One pager
-1.  Golden pitch
-1.  Website
-1.  'Airport banner' / Brand agency
-1.  Category leadership
-1.  Commit keynote
-1.  Key external audience messaging
+1. One sentence
+1. One pager
+1. Golden pitch
+1. Website
+1. 'Airport banner' / Brand agency
+1. Category leadership
+1. Commit keynote
+1. Key external audience messaging
 
 ## Exit Criteria
 

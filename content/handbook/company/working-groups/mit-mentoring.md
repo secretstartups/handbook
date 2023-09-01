@@ -4,12 +4,12 @@ description: "Deliver Minorities in Tech (MIT) Mentoring Program aligning with t
 ---
 
 ## Attributes
- 
+
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | May 11, 2020   |
 | Target End Date | September 1, 2020  |
-| Slack           | [#wg_mit_mentoring]() (only accessible from within the company) |
+| Slack           | #wg_mit_mentoring (only accessible from within the company) |
 | Google Doc      | [Minorities in Tech (MIT) Mentoring Working Group Agenda](https://docs.google.com/document/d/1ILEd_ziRS9zbb2luQRr-C2eouc_TKsckTUP3pnkrZ5Y/edit) (only accessible from within the company) |
 | Issue Board     | [Minorities in Tech Issue Board](https://gitlab.com/gitlab-com/diversity-and-inclusion/-/boards/1634805?label_name[]=ERG)|
 

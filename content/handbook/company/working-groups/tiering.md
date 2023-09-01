@@ -4,12 +4,12 @@ description: "Leverage team members from other groups to start working on tierin
 ---
 
 ## Attributes
- 
+
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | October 29, 2020   |
 | Date Ended      | February 2, 2021   |
-| Slack           | [#wg_tiering]() (only accessible from within the company) |
+| Slack           | #wg_tierin (only accessible from within the company) |
 | Google Doc      | [Tiering Working Group Agenda](https://docs.google.com/document/d/1fYIvcYpAkcreWZOfz01Wxp5QkD_NG8P1NOlQpq2TXxc/edit#heading=h.qtqrv8ra975g) (only accessible from within the company) |
 
 ## Business Goal

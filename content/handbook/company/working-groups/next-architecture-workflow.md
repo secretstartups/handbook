@@ -80,7 +80,7 @@ the working group concludes:
 ### Prior Efforts
 
 #### Architecture Kickoff Working Group
-"
+
 The [Architecture Kickoff]({{< ref "architecture-kickoff" >}}) working group
 was primarily concerned with [defining a 3/6/12-month technical roadmap](https://about.gitlab.com/handbook/engineering/architecture/roadmap/).
 This working group picks up by further iterating on the process for maintaining this roadmap over time

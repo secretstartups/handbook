@@ -9,10 +9,10 @@ description: "Learn more about how GitLab wants to adopt new technology to accel
 |-----------------|-----------------|
 | Date Created    | May 7, 2021 |
 | Target End Date | January 1, 2022 |
-| Slack           | [#wg_cloud-native-tools]() (only accessible by GitLab team members) |
-| Google Doc      | [Working Group Agenda]() (only accessible by GitLab team members) |
+| Slack           | #wg_cloud-native-tools (only accessible by GitLab team members) |
+| Google Doc      | Working Group Agenda (only accessible by GitLab team members) |
 | Docs            | TBD |
-| Epics/Issues    | [Main Epic]() / [Issue Board]() |
+| Epics/Issues    | Main Epic / Issue Board |
 | Label           | `` |
 | Associated KPIs/OKRs | TBD |
 | GitLab group for working group| `` |

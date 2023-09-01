@@ -21,7 +21,7 @@ Gitlab systems and services.
 
 There is a growing need to standardize events and how to publish and consume them for both Gitlab.com and self-managed installs.
 
-## Exit Criteria
+## Working Group Goals
 
 This Working Group has the following goals:
 

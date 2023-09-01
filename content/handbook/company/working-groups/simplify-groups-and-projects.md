@@ -12,7 +12,7 @@ description: "Learn about Gitlab Simplify Groups & Projects Working Group busine
 | Slack           | [#wg_simplify-groups-and-projects](https://gitlab.slack.com/archives/C014ZJZP0JC) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1NR9qlJ19n7u99I-usU0Vi2Z1OOlvz_MX00QCk1RCikQ/edit) (only accessible from within the company) |
 | Docs/Epics      | [Epic](https://gitlab.com/groups/gitlab-org/-/epics/2885), [Opportunity Canvas](https://docs.google.com/document/d/1a2xuEMAsWzPK-cb_wnS9DWh9YHXZLs34Lp7jdetODR4/edit#heading=h.4mt5fmtn0ax4) |
-| Feature Issue   | [TBD]() |
+| Feature Issue   | TBD |
 | Associated OKRs | [Increase Stages per Active Namespace for accounts less than 90 days old to >1.7](https://gitlab.com/gitlab-com/Product/-/issues/1103) |
 
 ## Problem To Solve

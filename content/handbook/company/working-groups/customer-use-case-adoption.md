@@ -23,7 +23,7 @@ This working group is charged with driving the necessary cross-functional alignm
 | Slack           | [#wg-customer-use-case-adoption](https://gitlab.slack.com/archives/C0584NEKSRJ) |
 | Google Doc      | [Customer Use Case Adoption Scrum - Agenda](https://docs.google.com/document/d/1WtwXCK1r7hoco5O8oW5SIKiIWtXDr_WOLeWcIaDM7Nk/edit?usp=sharing)  |
 | Epic            | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190)
-| Board           | _TBD_ |
+| Board           | *TBD* |
 | Overview & Status | See [Exit criteria](#exit-criteria) below |
 
 ## Exit criteria
@@ -48,6 +48,6 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Functional Lead: Customer Success Operations | Nishant Khanna                | Senior Customer Success Operations Analyst                 |
 | Functional Lead: Digital Customer Success    | Michelle Harris               | Senior Program Manager, Customer Programs                  |
 | Functional Lead: Data and Insights           | Amie Bright                   | VP of Data and Insights                                    |
-| Functional Lead: Enterprise Sales            | _TBD_                         | _TBD_                                                      |
+| Functional Lead: Enterprise Sales            | *TBD*                         | *TBD*                                                      |
 | Functional Lead: Commercial Sales            | Julien Le Postec              | Area Sales Manager Mid Market South EMEA - Commercial Sales|
 | Functional Lead: Developer Relations         | Michael Friedrich             | Senior Developer Evangelist                                |

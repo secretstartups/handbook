@@ -92,11 +92,11 @@ Note: This does not preclude other stages beyond create to complete the exit cri
 | Member                | Cheryl Li                                            | Senior Engineering Manager, Verify |
 
 
-# Cross-functional prioritization process
+## Cross-functional prioritization process
 
 The process is [documented](/handbook/engineering/cross-functional-prioritization/) in the handbook.
 
-# Multi-modal communication
+## Multi-modal communication
 
 - Tag (at minimum) all potentially interested working group functional leads and when there is impact to product `gl-product-leadership` in all merge requests to solicit feedback.
 - Wait two business days to gather and respond to feedback before submitting merge requests to the codeowners for review and merge.
