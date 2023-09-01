@@ -249,7 +249,9 @@ In some scenarios it may be necessary for most all participants of an incident (
 
 ## Corrective Actions
 
-Corrective Actions (CAs) are work items that we create as a result of an incident. Only issues arising out of an incident should receive the label "corrective action". They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence and as such are part of the Incidence Management cycle.
+Corrective Actions (CAs) are work items that we create as a result of an incident. Only issues arising out of an incident should receive the label "corrective action". They are designed to prevent the same kind of incident or improve the time to mitigation and as such are part of the Incidence Management cycle.
+
+Work items identified in incidents that don't meet the Corrective Action criteria should be raised in the [Reliability project](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new) and labeled with `~work::incident` rather than `~corrective action`
 
 Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue.
 
@@ -267,7 +269,8 @@ Corrective Actions issues in the [Reliability project](https://gitlab.com/gitlab
     - Are too generic (most typical mistake, as opposed to Specific)
     - Only fix incident symptoms.
     - Introduce more human error.
-    - will not help to keep the incident from happening again.
+    - Will not help to keep the incident from happening again.
+    - Can not be promptly implemented (time-bounded).
 - Examples: (taken from several best-practices Postmortem pages)
 
 | Badly worded | Better |
@@ -275,6 +278,7 @@ Corrective Actions issues in the [Reliability project](https://gitlab.com/gitlab
 | Fix the issue that caused the outage | (Specific) Handle invalid postal code in user address form input safely |
 | Investigate monitoring for this scenario | (Actionable) Add alerting for all cases where this service returns >1% errors |
 | Make sure engineer checks that database schema can be parsed before updating | (Bounded) Add automated presubmit check for schema changes |
+| Improve architecture to be more reliable | (Time-bounded and specific) Add a redundant node to ensure we no longer have a single point of failure for the service |
 
 ## Runbooks
 
