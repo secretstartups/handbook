@@ -76,11 +76,11 @@ The Director of Legal, Privacy and Product collaborates with clients across GitL
 
 The Director of Legal, Employment collaborates with clients across GitLab on a broad range of employment law matters affecting our global team member base.
 
-### Senior Director of Legal, Litigation & Risk Management
+### Senior Director of Legal, Risk Management & Dispute Resolution
 
-The Senior Director of Legal, Litigation & Risk Management reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Litigation & Risk Management will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
+The Senior Director of Legal, Risk Management & Dispute Resolution reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Risk Management & Dispute Resolution will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
 
-### Senior Director of Legal, Litigation & Risk Management Responsibilities
+### Senior Director of Legal, Risk Management & Dispute Resolution Responsibilities
 
 - Support resolution across a wide range of topics
 - Efficiently handle, including (but not limited to) responding to subpoenas and discovery requests, drafting and revising legal documentation, investigations and negotiating and drafting agreements
@@ -92,7 +92,7 @@ The Senior Director of Legal, Litigation & Risk Management reports to the [Chief
 - Architect and manage scalable processes and procedures
 - Inform and guide GitLab’s risk management strategies and contribute to GitLab’s global compliance program(s)
 
-### Senior Director of Legal, Litigation & Risk Management Requirements
+### Senior Director of Legal, Risk Management & Dispute Resolution Requirements
 
 - 8+ years of broad litigation experience at a leading law firm and/or in-house, handling various aspects of commercial litigation, alternative dispute resolution, pre-litigation disputes, and internal investigations
 - Effective collaborator who embraces iteration in order to innovate, drive, and scale best-in-class litigation and dispute programs, drive strategy with stakeholders from multiple functions, and anticipate evolving risk in a global market
