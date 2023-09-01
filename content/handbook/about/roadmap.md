@@ -233,6 +233,8 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [x] Purpose
 - [x] Strategy
 - [x] Top Cross Functional Initiatives
+- [x] Structure
+- [x] Working Groups
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company)
 
