@@ -3,9 +3,9 @@ title: IT Program Management Office
 description: "The IT Program Management Office job family is responsible for building and managing world-class information technology systems and business processes."
 ---
 
-### Levels
+## Levels
 
-### IT Program Manager (Associate)
+## IT Program Manager (Associate)
 
 The Business Technology Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -31,7 +31,7 @@ The Business Technology Program Manager is a [grade 5](https://about.gitlab.com/
 - Share and work in accordance with GitLab's values
 - Ability to use GitLab
 
-### IT Program Manager (Intermediate)
+## IT Program Manager (Intermediate)
 
 The IT Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -59,7 +59,7 @@ The IT Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-re
 - Share and work in accordance with GitLab's values
 - Ability to use GitLab Experience in an IT or Engineering organization SaaS experience recommended
 
-### Senior IT Program Manager
+## Senior IT Program Manager
 
 The Senior IT Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -90,7 +90,7 @@ The Senior IT Program Manager is a [grade 7](https://about.gitlab.com/handbook/
 - Owned business outcomes by working with business area leaders to influence strategy
 - Drive adoption of new processes across the organization
 
-### Staff IT Program Manager
+## Staff IT Program Manager
 
 The Staff IT Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -113,7 +113,7 @@ The Staff IT Program Manager is a [grade 8](https://about.gitlab.com/handbook/t
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-### Manager, IT Program Management
+## Manager, IT Program Management
 
 The Manager, IT Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -137,7 +137,7 @@ The Manager, IT Program Management is a [grade 8](https://about.gitlab.com/hand
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-### Senior Manager / Principal, IT Program Management
+## Senior Manager / Principal, IT Program Management
 
 The Senior Manager / Principal, IT Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -161,7 +161,7 @@ The Senior Manager / Principal, IT Program Management is a [grade 9](https://ab
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-### Director, IT Program Management
+## Director, IT Program Management
 
 The Director, IT Program Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -187,7 +187,7 @@ The Director, IT Program Management is a [grade 10](https://about.gitlab.com/ha
 - Participated in multiple large complex implementations (e.g. CRM implementation, ERP implementation, ITSM implementation)
 - Experience building and leading remote teams
 
-### Senior Director, IT Program Management
+## Senior Director, IT Program Management
 
 The Senior Director, IT Program Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
