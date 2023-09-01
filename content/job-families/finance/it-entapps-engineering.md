@@ -18,7 +18,7 @@ Associate IT Enterprise Applications Engineer is a [grade 5](https://about.gitla
 - Follows specific instructions/frameworks in day to day work.
 - Work and solutions are reviewed by more senior team members and/or their direct manager.
 - Learns and develops understanding of GitLab's way of working.
-- Explains moderately complex issues and works to build alignment. 
+- Explains moderately complex issues and works to build alignment.
 - Collaborates with team members on their team to accomplish the team goals.
 - Adapts to GitLab communication framework.
 
