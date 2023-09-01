@@ -755,7 +755,9 @@ Any other role changes where a Manager feels their team member's role may requir
 
 ## Career Mobility Issue Creation Process
 
-The [People Connect Specialist](https://handbook.gitlab.com/job-families/people-group/people-connect/) in the respective rotation will pull a report daily to see which team members qualify for a Career Mobility issue to be created and will be assigned to the migration for support. 
+The [People Connect Specialist](https://handbook.gitlab.com/job-families/people-group/people-connect/) in the respective rotation will open a Career Mobility issue when an alert is received from Workday (for qualifying team members based on the criteria) and will be assigned to the migration for support. 
+
+The People Connect Leads will pull a monthly report to check that any qualifying team members did get their Career Mobility issue is opened.
 
 The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/main/.gitlab/issue_templates/career_mobility.md) will then be created by the People Connect Team member assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team member's transition.
 

@@ -170,7 +170,7 @@ In addition, Managers can create an Engagement Survey Action Issue that links to
 
 - [Product](https://gitlab.com/groups/gitlab-com/-/epics/2195)
 - [Engineering](https://gitlab.com/groups/gitlab-com/-/epics/2217)
-- Sales
+- [Sales](https://gitlab.com/groups/gitlab-com/sales-team/-/epics/82)
 - [Marketing](https://gitlab.com/groups/gitlab-com/marketing/-/epics/4199)
 - [Finance](https://gitlab.com/groups/gitlab-com/-/epics/2216)
 - [People](https://gitlab.com/groups/gitlab-com/-/epics/2220)
