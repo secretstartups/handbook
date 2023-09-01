@@ -20,10 +20,10 @@ Leaders in the security department at GitLab are customer focused. While they ar
 
 ## Responsibilities
 
-- Drive quarterly Objectives and Key Results (OKRs) 
+- Drive quarterly Objectives and Key Results (OKRs)
 - Own a Sub-department of the GitLab Security Department
 - Drive technical and process improvements
-- Lead teams to identify and mitigate technical risk 
+- Lead teams to identify and mitigate technical risk
 - Run multiple teams within their Sub-department
 - Parter with cross-fucntional leaders, understand their business and how your sub-team can support their objectives
 - Hire a world class team of managers and security engineers to work on their teams
