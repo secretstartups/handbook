@@ -94,12 +94,12 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Security Assurance Responsibilities
 
-- Recruit, manage, motivate and develop high performing teams
-- Partner with the CISO in planning and development of enterprise information security strategy and best practices
-- Drive strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
-- Consult with senior leaders regarding their information security risks and responsibilities in minimizing those risks
-- Drive operational efficiencies through process improvement and implementation of technical solutions
-- Manage a risk-based prioritization model for reviewing new project and work efforts
+- Recruits, manage, motivate and develop high performing teams
+- Partners with the CISO in planning and development of enterprise information security strategy and best practices
+- Drives strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
+- Consults with senior leaders regarding their information security risks and responsibilities in minimizing those risks
+- Drives operational efficiencies through process improvement and implementation of technical solutions
+- Manages a risk-based prioritization model for reviewing new project and work efforts
 - Participate in key customer calls, contract reviews and/or assessments providing leadership assurance on GitLab security
 - Act as an advocate for information security practices
 
@@ -116,9 +116,9 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 - Drives strategy for the Product Security organization, aligned with broader GitLab business initiatives, with a specific focus on Application Security, Product Security and Infrastructure Security.
 - Consults with senior leaders regarding their information security risks and drive mitigation efforts to reduce risk
 - Drives operational efficiencies through process improvement and implementation of technical solutions
-- Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
+- Drives efforts to improve security awareness in the areas of application security and the secure development of code through education and training
 - Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
-- Secure the product and the company with innovative and industry leading technical security controls and practices
+- Secures the product and the company with innovative and industry leading technical security controls and practices
 - Partners with the CISO to build and maintain the most transparent security program in the world
 - Acts as an advocate for information security practices
 
@@ -130,12 +130,12 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Platform Security Engineering Responsibilities
 
-- Recruit, manage, motivate and develop high performing teams
-- Partner with the CISO in planning and development of platform security capabiliites
-- Drive strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
-- Consult with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
-- Drive operational efficiencies through process improvement and implementation of technical solutions
-- Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
+- Recruits, manage, motivate and develop high performing teams
+- Partners with the CISO in planning and development of platform security capabiliites
+- Drives strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
+- Consults with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
+- Drives operational efficiencies through process improvement and implementation of technical solutions
+- Drives efforts to improve security awareness in the areas of application security and the secure development of code through education and training
 - Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
 - Secure the product and the company with innovative and industry leading technical security controls and practices
 - Partner with the CISO to build and maintain the most transparent security program in the world
