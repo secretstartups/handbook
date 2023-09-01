@@ -126,24 +126,23 @@ Every quarter, we review feedback from survey respondents and code the responses
 ### SUS verbatims share out by stage 
 Every quarter, an issue will be created (see [issue template](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/SUS%20Categorization%20By%20Stages.md)) and assigned to the PDMs to categorize the verbatims that fall into their stage(s). Once the verbatim is categorized by stage, it will automatically get populated in the stage-specific tab within the SUS document. The stage-specific verbatims then will be distributed via designated Slack channels. 
 
-| Stage      | Slack channel(s) to communicate findings UXR| 
-|------------|-------------------------------|
-| Manage     |  #s_manage                    |      
-| Plan       |  #s_plan                      |      
-| Create     |  #s_create                    | 
-| Ecosystem, Foundations, Integrations     |  #g_manage_integrations, #g_manage_foundations      |      
-| Verify     |  #s_verify, #ops_section      |      
-| Package    |  #s_package, #ops_section     |      
-| Release    |  #g_environments, #ops_section |      
-| Configure  |  #g_environments, #ops_section |      
-| Monitor    |  #s_monitor, #ops_section     |      
-| Secure     |  #s_secure                    |      
-| Govern     |  #s_govern                    |      
-| Growth     |  #s_growth                    |      
-| Fulfillment|  #s_fulfillment               |      
-| Enablement |  #s_enablement                |      
-| ModelOps   |  #s_modelops                  | 
-| Anti-Abuse |  #g_anti-abuse                | 
+| Stage      | Slack channel(s) to communicate findings UXR  | 
+|------------|-----------------------------------------------|
+| Manage     | #s_manage                                     |      
+| Plan       | #s_plan                                       |      
+| Create     | #s_create                                     | 
+| Ecosystem, Foundations, Integrations     | #g_manage_integrations, #g_manage_foundations |      
+| Verify     | #s_verify, #ops_section                       |      
+| Package    | #s_package, #ops_section                      |      
+| Release    | #g_environments, #ops_section                 |      
+| Configure  | #g_environments, #ops_section                 |      
+| Monitor    | #s_monitor, #ops_section                      |      
+| Secure     | #s_secure                                     |      
+| Govern     | #s_govern                                     |      
+| Growth     | #s_growth                                     |      
+| Fulfillment| #s_fulfillment                                |      
+| Enablement | #s_enablement                                 |      
+| ModelOps   | #s_modelops                                   |
 
 Use the following sample messaging text when sharing out the stage-specific insights:
 
