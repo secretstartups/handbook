@@ -94,6 +94,7 @@ This position reports to the [CISO](https://about.gitlab.com/job-families/legal-
 The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Director, Security Responsibilities
+
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Relevant, progressive experience managing information security and engineering teams
 
