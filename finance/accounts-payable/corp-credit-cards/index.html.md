@@ -15,79 +15,177 @@ decription: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# Navan Physical Card Policy
 
+## 1. POLICY
+- The purpose of this Navan Physical Card policy is to facilitate purchases necessary for the company operations and expedite the process in an efficient manner.
+- The introduction of this mode of payment is not to override the procedures set forth in the Company’s Procurement Policy, but to provide an alternative method of purchase for lower cost necessary goods and services.
+- This policy intends to ensure that Navan Physical Cards are used for appropriate business purposes and that adequate controls are installed for regular use.
 
-## <i class="far fa-flag" id="biz-tech-icons"></i> Navan Physical Card Policy Statement
-- Navan Physical cards are wholly and exclusively used for the benefit of the business department expenses only.
-- Any expense for personal business use must be expensed via Navan as per normal Expenses guidelines.
-- The Navan Physical card is issued to team members so they can acquire goods and services without having to process the transaction through the traditional purchasing procedure, such as using purchase requisitions or purchase orders.  
-- The introduction of this mode of payment is not to override the procedures set forth in the Company’s Procurement Policy, but to provide an alternative method of purchase for necessary goods and services.
-- Navan Physical Card Holders are expected to accomplish business goals while spending company funds in the most cost-effective manner.
+**This policy applies to**:
+- Ad hoc Vendor’s & less than $5,000 USD for the transaction.
+- In case of transactions where the vendor only accepts credit card payments.
 
-## <i id="biz-tech-icons" class="far fa-paper-plane"></i> Getting Started
-- Navan Physical Cards are limited to team members in certain positions that require a card.  These cards are not for company wide use.
-- If you believe your position qualifies for a card, please reach out to ap@gitlab.com and we will send you the instructions on next steps.
+**Please note that the policy restricts the use of the card**:
+- To bypass the GitLab Procurement process.
+- For any charges above 5,000 USD; as they must submit through Zip for procurement processing.
+- For any items already noted as not permissible per the Expense policy (ie. software).
+- For the additional items noted as “non-permissible” and should be personally expensed that are listed  below in section 4.
 
+To ensure good financial management and sound corporate governance, cards are only provided to team members under their name, and with the request/approval of the Direct Manager, and Chief Accounting Officer’s final approval. These approvals are documented in an issue for tracking purposes.
 
-<div class="panel panel-danger">
-**IMPORTANT NOTE**
-{: .panel-heading}
-<div class="panel-body">
-When ordering your Navan Physical Card, please be sure to customize and use your physical address to which the card should be delivered. If you choose the GitLab address (defaulted), there will be additional shipping delays and unnecessary shipping costs associated with forwarding to your home.
-</div>
-</div>
-
-## <i id="biz-tech-icons" class="fas fa-stream"></i> Guidelines for Card Use
-- Navan Physical card should not be used to bypass the Procurement process.
-- All card charges require a receipt. You can add the receipt once the charge reflects in Navan Physical.
-- If a card holder is missing a receipt, a [Missing Receipt Affidavit](https://docs.google.com/spreadsheets/d/179q0Wos-CemLCe1uxgMpZ80JukSC4KYx8JICFgHzN0I/edit#gid=1950482609) will need to be completed and attached to the expense. Note: Missing Receipt Affidavit should be attached as a PDF.
+## 2. General Guidelines
+- All card charges require a receipt, with exception of US team members in which receipts are required for anything over $50.   You can add the receipt once the charge reflects in Navan Cards, and in any event within 30 days.
+- If a card holder is missing a receipt, a Missing Receipt Affidavit will need to be completed and attached to the expense.  Note: Missing Receipt Affidavit should be attached as a PDF.
 - Ensure to use the appropriate Expense type for proper allocation. If the expense type is not on the list, you may use the “Other” category and add any supporting details in the description field.
-- If applicable, add expense tags under "Classifications" to the related purchase. Common expense tag examples include company contributes, marketing campaigns and professional service engagements.
-- Non-Permissible items will be declined upon charge. Please ensure to only use the card for items under permissible items only.
-- Purchases on your card should not exceed $2,500 for each transaction.
-- If your purchase will be over $2,500, you will need to enter a Purchase Requisition in Zip. AP prefers to pay vendors by ACH whenever possible.  For reference to get started with Zip for a vendor who can be paid by normal invoicing and payment methods, see [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/).
-- If a charge is made in error, please reach out to ap@gitlab.com on the process to reimburse Gitlab.  It is a painful process, so we ask to avoid this at all cost.
+- If applicable, add expense tags under "Classifications" to the related purchase. Common expense tag examples include company Contributes, marketing campaigns and professional service engagements.
+- Non-Permissible items will be flagged upon charge. Please ensure to only use the card for items under permissible items only.
+- Purchases on your card should not exceed $5,000 USD for each transaction.
+- If your purchase will be over $5,000 USD, you will need to enter a Purchase Requisition in Zip. AP prefers to pay vendors by ACH whenever possible. To get started with Zip for a vendor who can be paid by normal invoicing and payment methods, see [Zip End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/).
+- If a charge is made in error, please reach out to expenses@gitlab.com on the process to reimburse Gitlab. It is an arduous process, so we ask to avoid this at all cost.
 - Any reports with continuous violations to our policy will be subject to management review and could be taken away for non-compliance.
 
-## <i id="biz-tech-icons" class="fas fa-bullseye"></i> Non-Permissible Items for Navan Physical Cards
+## 3. Permissible Items
 
-- Please review our [Expense policy](https://about.gitlab.com/handbook/finance/expenses/) for permissible and non permissible items, as these cards are a physical representation of this policy
-- Additionally, the physical cards will decline for the below expenses.  These expenses must be paid by the team member and submitted for reimbursement:
-  1. Telecom Internet
-  2. Telecom Phone
-  3. Professional dues, membership fees
-  4. All travel related expenses - airfare, in flight purchases, wifi, baggage costs, transportation, meals, hotels, fuel, mileage, parking, tolls
-  5. Meals and entertainment with Client
-  6. Laptops
-  7. Employee Training
-  8. Coworking Space (for personal use and not event related)
-  9. Conference Attendance (for personal use and not event related)
+**Team Building Activities/Off Site/Event costs are permitted**
+- Examples of permissible costs under $5,000 USD include fees related to the registration of team building and off site event activities, dinners, deposits for team building activities, and room rentals. 
+- An individual purchase cannot exceed $5,000 USD. 
+- Any individual purchase for over $5,000 USD must be paid by [Coupa Virtual Card](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/). 
+- Team meals of up to 20 people which should not exceed $100 per person
+- Examples of permissible costs under $5,000 USD include fees related for registration, dinners, deposits, and room rentals. 
 
-- Any purchases over $2,500 USD (or equivalent local currency)
-- Prizes of any kind need to run through virtual card procurement process
-- Please review the [Gifts Handbook page](https://about.gitlab.com/handbook/people-group/celebrations/#team-member-gifts) for questions on internal gifts
-- Unsure?  We recommend to be cautious and submit a request for a virtual card 
+**Gifts for Significant Life Events**
+- Gifts can be purchased for significant life events up to $125 USD. 
+- Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one. 
+- Managers can facilitate the ordering of Flowers or Gifts for delivery. 
+- Executive Business Assistant’s are permitted to purchase gifts for team member significant life events on behalf of their managers.  An email or Slack pre-approval from their manager must be attached to the expense to be reimbursed.
+- Gift cards for Team members are not allowed for these gifts. 
+- Please reference the [Gift Handbook Page](https://about.gitlab.com/handbook/people-group/celebrations/).
+- Note that these Expenses are tracked by department, thus whoever submits these expenses must be in the same department as the team member the gift pertains to.
+
+**Shipping & Postage Fees**
+- Shipping for items related to events, prizes, gifts for significant life events.
+- Details for SWAG shipping can be found in the [merchandise workflow](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
+
+## 4. Non- Permissible Items
+Along with any charges that are over $5,000 USD (or equivalent local currency) that are not permissible, and items that are already not permissible per the expense policy,  listed below are the other items that are not permissible for Physical Cards usage.  These items must be expensed personally by the team member and put through the normal reimbursement or procurement process:
+
+### Airfare and related costs  
+- Airfare for an individual team member should be purchased through Navan.
+- This includes in flight purchases, seat upgrades, wifi, baggage costs and meals.
+- All personal expenses will follow the normal expense policy 
+
+### Hotels & Transportation & Related Travel Expenses
+- Are not permitted for individual team members. 
+- Examples of individual related travel items not permitted include all meals, wifi costs, and global entry/passport charges, car rental, mileage & transportation fees (Uber,Lyft, etc) for personal use.  
+- These should be expensed as per employee reimbursement process.
+
+### Co-working Space 
+- For individual team members is not permitted and must run through the normal expense reimbursement process. 
+- It is only permitted if the space is used for an event.
+
+### Computer equipment and hardware 
+- Are not permitted. 
+- These purchases must go through the normal employee expense reimbursement process. 
+- This includes equipment for new hires and replacements. 
+- See [Global Travel and Expense Policy Handbook page](https://about.gitlab.com/handbook/finance/expenses/) regarding "Office Equipment and Supplies" and "Laptops, insurance and repairs".
+
+### Conferences Training/Tuition and Membership fees for individual team members
+- These purchases must follow the Growth and Development Benefit process. 
+- All Costs should be expensed via the Employee reimbursement process.
+
+### Gift Card Purchases to Non-GitLab employees 
+- Will need to notify their manager and employers per IRS rules, as well as obtaining approval from the Chief Accounting Officer or the VP Corporate Controller approval before purchasing. 
+- These must be purchased by Coupa Virtual Card.
+
+### Internal Team Member event prizes/contests/awards 
+- Should follow the quarterly budget under Team Building for the related department. 
+- As gift cards are taxable for all employees, they are excluded from this benefit.
+
+### Marketing Events - Prizes and Gifts for external customers 
+- All purchases related to Event Prizes and Gifts are not permitted and must be done on Coupa Virtual Cards. 
+- If gift cards would like to be purchased, it must have approval from Finance prior to purchase as well.
+
+### Meals relating to customer/partner dinners 
+- Are not permitted. 
+- These must be expensed via the Employee reimbursement process.
+
+### Monthly recurring charges for vendors under $5,000 USD for an individual charge
+- Is not permitted and needs to be purchased by Coupa Virtual Card.
+
+### Personal expenses as listed in the Expense Policy 
+- Must be run through the employee reimbursement process for proper management approvals. 
+- This includes, mobile phone, internet, home office equipment, Office Supplies, etc. 
+
+### Other Professional dues, Subscription and Membership fees (outside of G&D) 
+- Related to individual team members must be expensed via the employee reimbursement process.
+
+### Software subscriptions 
+- Of any kind are not permitted (i.e. Amazon, Dropbox, Adobe etc)
+- For individual subscriptions, please follow the process regarding [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/). 
+- For group subscriptions, please submit a Purchase Requisition in Zip.
+
+### Team member Gifts that are not for a Significant Life Event 
+- (i.e Anniversaries, promotions, birthdays, electronic cards, wellness, thank you's). 
+- These purchases must go through the normal employee expense reimbursement process. 
+- Please reference the [Gift Handbook Page](https://about.gitlab.com/handbook/people-group/celebrations/).
+
+### Prizes 
+- Of any kind need to run through the virtual card procurement process.
+- For Swag related prizes please see the [merchandise workflow page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-shop).
+
+## 5. Out of Policy Transactions
+- Expenses flagged as “Out of Policy” does not necessarily mean it is “out of policy”- it can also mean that certain expenses require additional review due to requiring certain attachments (ie an approved issue) and approvals.
+Upon review, if more clarification is needed for a certain expense, the AP team will contact the team member in the Navan tool to ask for justification of the transaction before approving or rejecting the expense.
+- If the claim is over the advised guidance, an approval will be required from the VP Corporate Controller. 
+- Where the team member has already received approval from the manager, that approval should be attached as a receipt on the claim transaction.
+- If an expense is out of policy, the cardholder will be requested to process a reversal or dispute. The cardholder can also be requested to mark the expense as Personal if found to be so a repayment can be processed. This will then be reviewed by the Expense team Admin and could need further approval from VP, Corporate Controller.
+- If any charges/expenses are rejected, the cardholder is responsible to reimburse GitLab. 
+
+## 6. Manager Expectations
+- Managers are expected to review their team’s expenses in their entirety every month, and must flag any concerns immediately to the Accounts Payable team.
+- Managers will be required to sign off on a quarterly issue that they have reviewed their team’s expenses
+- Managers will be held accountable for any unreported abuse of their team members.
+- Managers must be aware of the policy guidance and advise the team members as such when requests for purchase are made.
+- AP will flag Managers if further information is required for their direct reports.
+- Please see the [Manager Policy](https://docs.google.com/document/d/1HQF-_fDIkjsmq-ExsFQwwTW-x8rocGKSDRZVdMYQudA/edit) for more details.
+
+## 7.  Exceptions to the Policy 
+- Any exceptions to the policy must be approved via issue or email by the VP, Corporate Controller, CAO or CFO
+- Card members can be granted a higher limit than the allotted monthly $10K USD (or local currency) limit with an approved issue.
+
+## 8. PROCEDURES
+- The authorized team members assigned to make purchases use the Navan Physical card to purchase such goods and services. Navan Physical Cards are limited to team members in certain positions that require a card. These cards are not for company wide use. Cards must be requested via an issue and approved by the Finance leadership team.
+
+### 8.1	Card Holder Responsibility
+- Card Holders are responsible for all supporting documents. 
+- Receipts for all purchases by the card holder must be fully legible and indicate the description of goods or services, total purchase amount, and taxes.  
+- All transactions made through Navan Physical Card should have a receipt attached and coded with the appropriate expense type, classification and description. 
+- The Card Holder should complete and submit all transactions on or before the last day of the current month. 
+- If a team member is missing a receipt, a Missing Receipt Affidavit will need to be completed and attached to the expense when submitted. Missing Receipt Affidavit located [here](https://docs.google.com/spreadsheets/d/179q0Wos-CemLCe1uxgMpZ80JukSC4KYx8JICFgHzN0I/edit?usp=sharing) (please ensure to make a copy). When attaching the receipt affidavit, the team member should attach the document as a PDF. 
+
+### 8.2	Payment
+- Navan will send invoices for these transactions (included with the normal expense transactions) on the 15th of each month for each entity.  
+- Navan is set up as direct debit through our bank accounts and will be debiting the amount on the 25th of each month.
+- Monthly main account statements will be provided through the Navan portal. 
+- The GL team will perform a full reconciliation of the statement ensuring to tie all transactions from Navan to Netsuite. 
+- The Expense reconciliation will be uploaded into Floqast for final approval by the General Ledger team. 
+
+### 8.3 Credit Card Misuse
+- An authorized user must follow GitLab’s Code of Business Conduct and Ethics as these cards are considered GitLab Property.  
+- Any reports with continuous violations to our policy will be subject to management review and could be taken away for non-compliance.
+- A cardholder must detail any disputed transaction in writing to expenses@gitlab.com with a copy to the issuing bank to resolve any disputes. The cardholder must ensure that a refund, if processed, should be in favor of GitLab.
+
+### 8.4 Card Lost or Stolen
+- It is the cardholder’s responsibility to always safeguard the Navan Physical card and Navan Physical card account number and/or security number.  
+- Cards that are lost or stolen must be reported immediately by the cardholder to the AP Analyst who will take appropriate steps to cancel it. 
+- At the earliest opportunity, a written notification must also be given to Expenses@GitLab.com  and Card administrator so that the cancellation of the card may be confirmed and a reconciliation of the card account from the date the card was lost or stolen may be performed.
+ 
+### 8.5 Cancellation of Card 
+- Navan Physical Cards will be automatically deactivated by the system once the cardholder leaves GitLab (as it is integrated with Workday).  
+- They can also be canceled by manager's direct request, in which the Accounts Payable team will manually perform this action.
 
 
-## GL Coding for Offsites, Events, Swag and Marketing
-
-  At this time, there is not a field within Navan to code these expenses, but will be coming in the future.  For now, for these expenses, please use the “Other” Category.  You will then need to select a GL code.  Here is a list of codes below to assist.  Also, note that each of these expenses will flag as “Out of Policy” (due to not having its own category).  But if they are within guidelines and under $2,500 USD (or equivalent local currency), the AP team will review and approve without further information needed.  
-
-- Brand Marketing: 6150 (non COGS), 5150 (COGS)
-- Group Offsites: 6015 (non COGS), 5015 (COGS)
-- Marketing Field Events: 6130 (non COGS), 5130 (COGS)
-- Marketing Site:  6110 (non COGS), 5110 (COGS) 
-- Marketing Programs - Swag: 6135 (non COGS, 5135 (COGS)
-
-## <i id="biz-tech-icons" class="fas fa-bullseye"></i> Card Holder Responsibility
-- Card Holders are responsible for providing all supporting documents. Receipts for all purchases by the card holder must be fully legible and indicate the description of goods or services, total purchase amount, and taxes.
-- All transactions made through Navan Physical Card should have a receipt attached and coded with the appropriate expense type, classification and description.
-- Card Holders must follow Gitlab’s Code of Business Conduct and Ethics as the Navan Physical Cards are considered GitLab property. Please refer to GitLab's [Code of Business Conduct & Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
-- To cancel a card or to report a card that is lost/stolen, please reach out to **#accountspayable** channel or email **ap@gitlab.com**.
-- Failure to follow the guidelines will result in your card being pulled.
-
-## <i id="biz-tech-icons" class="far fa-question-circle"></i> Any Questions?  
-You may refer to our [FAQs](https://docs.google.com/document/d/1tcwo70YZ1blNunApfZ0DAU5VkXOSxyLXxgh3P1yszkU/edit#) or reach out to **ap@gitlab.com**.
 
 {::options parse_block_html="false" /}
 
