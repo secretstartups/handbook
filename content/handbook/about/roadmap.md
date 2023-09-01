@@ -85,14 +85,6 @@ organisation chart as well as using WorkDay as the Single Source of Truth for te
 
 {{% include "includes/migration-timetable.md" %}}
 
-#### Status Key
-
-- **Scheduled** - This content will be migrated on the start date indicated
-- **Planning** -  This content is in the planning stages of its migration and the start and finish dates are guides only
-- **In Progress** - This content is in the process of being migrated
-- **Completed** - This content has already been migrated to the new handbook
-- **Blank** - This content has provisional start and completion dates but are subject to change
-
 ### Migration calendar
 
 We are providing a Google Calendar with all the dates for the migration in.  This also includes public holidays and notable dates for the US and UK and other dates important to the migration team.
@@ -115,25 +107,16 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** Company
+**What are we moving:** Security
 
-**Status** Expected to complete: 2023-09-01
+**Status** Expected to complete: 2023-09-08
 
 #### What content is moving
 
-The following content has been earmarked as the next content to move.  This will be done as a series of small merge requests over the course of a week or so before the end of April.
+The following content has been earmarked as the next content to move.  This will be done as a pair of large merge requests on `2023-09-05`.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup `2023-09-08`.
 
-- [ ] [Company](https://about.gitlab.com/company) - `/sites/uncategorized/source/company`
-- [ ] [Company Culture](https://about.gitlab.com/company/culture) - `/sites/uncategorized/source/culture`
-- [ ] [Friends and Family Days](https://about.gitlab.com/company/family-and-friends-day) - `/sites/uncategorized/source/company/family-and-friends-day`
-- [ ] [History](https://about.gitlab.com/company/history/) - `/sites/uncategorized/source/company/history`
-- [ ] [KPIs](https://about.gitlab.com/company/kpis) - `/sites/uncategorized/source/company/kpis`
-- [ ] [Mission](https://about.gitlab.com/company/mission) - `/sites/uncategorized/source/company/mission`
-- [ ] [Offsite](https://about.gitlab.com/company/offsite) - `/sites/uncategorized/source/company/offsite`
-- [ ] [OKRs](https://about.gitlab.com/company/okrs) - `/sites/uncategorized/source/company/okrs`
-- [ ] [Purpose](https://about.gitlab.com/company/purpose) - `/sites/uncategorized/source/company/purpose`
-- [ ] [Strategy](https://about.gitlab.com/company/strategy) - `/sites/uncategorized/source/company/strategy`
-- [ ] [Top Cross Functional Initiatives](https://about.gitlab.com/company/top-cross-functional-initiatives) - `/sites/uncategorized/source/company/top-cross-functional-initiatives`
+- [ ] Organizational Change Management
+- [ ] Security
 
 #### How will this be done
 
@@ -234,30 +217,28 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#ceo-and-cost-team)
 
-
 #### Company
 
-**Expected Date:** 2023-09-01
+**Completed:** 2023-09-01
 
 **Content to move:**
 
-- [ ] Company
-- [ ] Company Culture
-- [ ] Friends and Family Days
-- [ ] History
-- [ ] KPIs
-- [ ] Mission
-- [ ] Offsite
-- [ ] OKRs
-- [ ] Purpose
-- [ ] Strategy
-- [ ] Top Cross Functional Initiatives
+- [x] Company
+- [x] Friends and Family Days
+- [x] History
+- [x] KPIs
+- [x] Mission
+- [x] Offsite
+- [x] OKRs
+- [x] Purpose
+- [x] Strategy
+- [x] Top Cross Functional Initiatives
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company)
 
 #### Security
 
-**Expected Date:** End of September 2023
+**Expected Date:** 2023-09-08
 
 **Content to move:**
 
@@ -265,6 +246,16 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Security
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#security)
+
+#### Culture
+
+**Expected Date:** 2023-09-21
+
+**Content to move:**
+
+- [ ] Company Culture
+
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#culture)
 
 #### Finance
 
@@ -280,6 +271,19 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 - [ ] Tax
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#finance)
+
+#### Product
+
+**Expected Date:** End of October 2023
+
+**Content to move:**
+
+- [ ] Acquisitions
+- [ ] Business Technology
+- [ ] Product
+- [ ] Product Development
+
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#product)
 
 #### People Group
 
@@ -313,7 +317,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Sales
 
-**Expected Date:** End of December 2023
+**Expected Date:** End of November 2023
 
 **Content to move:**
 
@@ -326,7 +330,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Legal
 
-**Expected Date:** End of January 2024
+**Expected Date:** End of December 2024
 
 **Content to move:**
 
@@ -347,18 +351,16 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#engineering)
 
-#### Product
+#### Team
 
-**Expected Date:** End of March 2023
+**Expected Date:** End of February 2023
 
 **Content to move:**
 
-- [ ] Acquisitions
-- [ ] Business Technology
-- [ ] Product
-- [ ] Product Development
+- [ ] Team Pages
+- [ ] Team Pets
 
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#product)
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#team)
 
 ### Refactor and move data
 
