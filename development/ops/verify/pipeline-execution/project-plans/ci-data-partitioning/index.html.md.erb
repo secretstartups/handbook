@@ -51,15 +51,14 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - [~] Async create index for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id` (max 2 index creation per week) (under ~"workflow::in review")
 
 ##### ci_builds
-- [ ] Fix caching issue blocking enabling use of routing table
-- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
-
+- [~] Fix caching issue blocking enabling use of routing table
+- [~] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
 
 ### Week of  August 28, 2023
 
 #### Team Capacity:
 
-- 2 BE + ? DB
+- 1 BE + ? DB
 
 #### Goals:
 
@@ -72,7 +71,7 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 
 #### Team Capacity:
 
-- 2 BE + ? DB
+- 1 BE + ? DB
 
 #### Goals:
 
@@ -90,7 +89,6 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - [ ] [Manually analyze `p_ci_builds` and `p_ci_builds_metadata`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/129812#note_1527675793)
 - [ ] Deploy the [table name switch to canary](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/129812) and confirm there are no more timeouts
 
-
 ### Week of September 11, 2023
 
 #### Team Capacity:
@@ -104,6 +102,8 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - [ ] Sync create index and foreign key constraint, and swap for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
 
 ##### ci_builds
+- [ ] Fix caching issue blocking enabling use of routing table
+- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
 - [ ] Switch the table name on the entire fleet
 - [ ] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
 - [ ] Add partition_id filters to all related queries
@@ -137,7 +137,6 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 
 ##### ci_builds_metadata
 - [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
--
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 
@@ -167,7 +166,7 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 
 ##### ci_builds_metadata
 - [ ] Split existing original partition into smaller partitions
--
+
 ##### ci_build_artifacts
 - TBD
 
@@ -180,15 +179,15 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 #### Goals:
 
 ##### Bigint conversion
-  - Remove the ignore rules for:
-      - [ ] p_ci_builds.auto_canceled_by_id
-      - [ ] p_ci_builds.upstream_pipeline_id
-      - [ ] p_ci_builds.commit_id
-  - [ ] Swap columns for ci_pipelines.id
+- Remove the ignore rules for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+- [ ] Swap columns for ci_pipelines.id
 
 ##### ci_build_artifacts
 - TBD
--
+
 ### Milestone 16.8 (December 11, 2023 - January 12, 2024)
 
 #### Team Capacity:
@@ -215,7 +214,7 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 #### Goals:
 
 ##### Bigint conversion
-  - [ ] Remove the ignore rules for ci_pipelines.id
+- [ ] Remove the ignore rules for ci_pipelines.id
 
 ##### ci_stages
 - TBD
