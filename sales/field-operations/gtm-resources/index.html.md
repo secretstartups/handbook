@@ -1089,7 +1089,7 @@ Example Sponsor Activities
 1. Executive sponsor requests should be approved by the regional sales Vice President and approved by the requested executive sponsor. This does not include a request for a VP or egroup member to support a meeting or discussion (i.e., short term ask).
 1. Sponsored accounts typically represent deep product utilization, large or strategic opportunity, and/or a broad vision for success and engagement with GitLab.
 1. Once approved, Sales Operations will update the "Executive Sponsor" field.
-1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O4M000004e2Ma).
+1. Executive Sponsored Accounts are [listed in Salesforce](https://gitlab.my.salesforce.com/00O8X0000096MF9).
 
 #### E-group Reviews
 
