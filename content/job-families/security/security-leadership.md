@@ -23,6 +23,7 @@ Leaders in the security department at GitLab are customer focused. While they ar
 - Drive quarterly Objectives and Key Results (OKRs)
 - Own a Sub-department of the GitLab Security Department
 - Drive technical and process improvements
+- Recruits, manage, motivate and develop high performing teams
 - Lead teams to identify and mitigate technical risk
 - Run multiple teams within their Sub-department
 - Parter with cross-fucntional leaders, understand their business and how your sub-team can support their objectives
@@ -30,7 +31,6 @@ Leaders in the security department at GitLab are customer focused. While they ar
 - Assess and mitigate constantly changing threat landscape
 - Help managers and team members grow their skills and experience
 - Manage multiple teams and projects
-- Hold weekly 1:1s with their reports
 - Create a sense of psychological safety on their Sub-department
 - Represent the company publicly in media and/or at conferences
 
@@ -95,7 +95,6 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Security Assurance Responsibilities
 
-- Recruits, manage, motivate and develop high performing teams
 - Partners with the CISO in planning and development of enterprise information security strategy and best practices
 - Drives strategy for the Security Assurance organization, aligned with broader GitLab business initiatives, with a specific focus on expansion of the security certification portfolio
 - Consults with senior leaders regarding their information security risks and responsibilities in minimizing those risks
@@ -112,7 +111,6 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Product Security Responsibilities
 
-- Recruits, manages, motivates and develops high performing teams
 - Partners with the CISO in planning and development of enterprise information security strategy and best practices
 - Drives strategy for the Product Security organization, aligned with broader GitLab business initiatives, with a specific focus on Application Security, Product Security and Infrastructure Security.
 - Consults with senior leaders regarding their information security risks and drive mitigation efforts to reduce risk
@@ -131,7 +129,7 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Platform Security Engineering Responsibilities
 
-- Recruits, manage, motivate and develop high performing teams
+
 - Partners with the CISO in planning and development of platform security capabiliites
 - Drives strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
 - Consults with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
@@ -217,7 +215,6 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 
 #### Senior Director, Security Assurance Responsibilities
 
-- Recruit, manage, motivate and develop high performing governance, risk, compliance and field security teams
 - Partner with the CISO, and other Security leadership, in planning and development of enterprise information security strategy and best practices aligned with broader GitLab business initiatives
 - Provide vision and leadership for developing and supporting initiatives in the areas of security policy, external security audits, continuous control monitoring, customer assurance, risk assessments and security training
 - Provide reporting to E-Group, and other key stakeholders, including the GitLab Board of Directors
