@@ -1,6 +1,7 @@
 ---
 title: "API Vision"
 description: "The GitLab API Vision Working Group aims to improve the current APIs and define their future evolution."
+status: active
 ---
 
 ## Attributes

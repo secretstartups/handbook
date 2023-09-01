@@ -1,6 +1,7 @@
 ---
 title: "Leading Organizations Working Group"
 description: "The charter of this working group is to scale the Leading Organizations intiative."
+status: active
 ---
 
 ## Attributes

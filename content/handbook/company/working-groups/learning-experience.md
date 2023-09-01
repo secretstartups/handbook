@@ -1,6 +1,7 @@
 ---
 title: "Learning Experience Working Group"
 description: "Like all groups at GitLab, a working group is an arrangement of people from different functions. Learn more!"
+status: active
 ---
 
 ## Attributes

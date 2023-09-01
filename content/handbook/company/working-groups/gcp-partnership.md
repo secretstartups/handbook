@@ -1,6 +1,7 @@
 ---
 title: "GCP Partnership Working Group"
 description: "Better together with GCP and GitLab"
+status: active
 ---
 
 ## Attributes

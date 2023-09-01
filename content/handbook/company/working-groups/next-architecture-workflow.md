@@ -1,6 +1,7 @@
 ---
 title: "Next Architecture Workflow"
 description: "The charter of this working group is to define and implement the next iteration of the Architecture Evolution Workflow."
+status: active
 ---
 
 ## Attributes

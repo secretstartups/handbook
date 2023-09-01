@@ -1,6 +1,7 @@
 ---
 title: "Token Management Working Group"
 description: "The charter of this working group is to drive improvements for token management."
+status: active
 ---
 
 ## Attributes

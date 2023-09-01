@@ -1,6 +1,7 @@
 ---
 title: "Disaster Recovery Working Group"
 description: "The Disaster Recovery Working Group will determine what is needed to introduce a disaster recovery mechanism for GitLab.com."
+status: active
 ---
 
 ## Attributes

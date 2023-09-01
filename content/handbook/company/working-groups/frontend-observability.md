@@ -1,6 +1,7 @@
 ---
 title: "Frontend Observability Working Group"
 description: "The frontend observability working group aims to define and create a mechanism for frontend observability at GitLab"
+status: active
 ---
 
 ## Attributes

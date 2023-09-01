@@ -1,6 +1,7 @@
 ---
 title: "Dedicated Cross-Functional Working Group"
 description: "The charter of this working group is to scale the GitLab Dedicated offering."
+status: active
 ---
 
 ## Attributes

@@ -1,6 +1,7 @@
 ---
 title: "Issue Prioritization Framework"
 description: "Improve our Issue Prioritization Framework be factoring in Business goals, IACV, Cost into a common quantifiable representation"
+status: active
 ---
 
 ## Attributes

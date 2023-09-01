@@ -1,6 +1,7 @@
 ---
 title: "Customer Use Case Adoption"
 description: "Drive cross-functional alignment around use case adoption as the north star KPI and #1 predictor of Churn & Contraction."
+status: active
 ---
 
 ## Purpose
