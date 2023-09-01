@@ -93,6 +93,10 @@ This position reports to the [CISO](https://about.gitlab.com/job-families/legal-
 
 The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+##### Director, Security Responsibilities
+- Proven ability to successfully recruit, manage, motivate and develop high performing teams
+- Relevant, progressive experience managing information security teams 
+
 #### Director, Security Assurance Responsibilities
 
 - Partners with the CISO in planning and development of enterprise information security strategy and best practices
@@ -105,8 +109,6 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Security Assurance Requirements
 
-- Proven ability to successfully recruit, manage, motivate and develop high performing teams
-- Relevant, progressive experience managing information security teams
 - Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
 
 #### Director, Product Security Responsibilities
@@ -123,12 +125,9 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Product Security Requirements
 
-- Proven ability to successfully recruit, manage, motivate and develop high performing teams
-- Relevant, progressive experience managing information security teams
 - Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized workloads and security automation
 
 #### Director, Platform Security Engineering Responsibilities
-
 
 - Partners with the CISO in planning and development of platform security capabiliites
 - Drives strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
@@ -142,8 +141,6 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 #### Director, Platform Security Engineering Requirements
 
-- Proven ability to successfully recruit, manage, motivate and develop high performing teams
-- Relevant, progressive experience managing software devlopment and security engineering teams
 - Proficient experience with software development and engineering domains such as data engineering, machine learning, distrbuted systems, and security engineering
 
 #### Director, Security Operations Responsibilities
@@ -226,7 +223,6 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 
 #### Senior Director, Security Assurance Requirements
 
-- Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Superior understanding of the organization’s goals and objectives
 - Ability to act as a champion for Security and convey cyber-security risks in layman terms
 - Ability to build collaborative relationships with diverse stakeholders including executive team, management, privacy, engineering and external auditors
