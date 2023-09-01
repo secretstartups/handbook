@@ -10,7 +10,7 @@ Leaders in the security department at GitLab are customer focused. While they ar
 
 - **Security Principles:** Champion the security [operating principles](/handbook/security/#-security-vision-and-mission) and develop the frameworks and strategies necessary to leverage principles in practice.
 - **Priority Setting:** Spends their time and the time of others on what’s important: quickly zeros in on the critical few and puts the trivial many aside, can quickly sense what will help or hinder accomplishing a goal, eliminates roadblocks, creates focus.
-- **Process Management:** Build efficient processes which are necessary to get things done: know how to organize people and activities, understand how to separate and combine tasks into efficient work flow, know what to measure and how to measure it, can see opportunities for synergy and integration where others can’t. Capable of simplifying complex processes.
+- **Process Management:** Build efficient processes which are necessary to get things done: know how to organize people and activities, understand how to separate and combine tasks into efficient work flow, know what to measure and how to measure it, can see opportunities for synergy and integration where others can’t. Capable of simplifying or eliminating complex processes.
 - **Strategy:**  Able to see around corners and anticipate future consequences and emerging challenges accurately, have broad knowledge and perspective, is future oriented, can articulately paint credible pictures and visions of possibilities and likelihoods, can create competitive and breakthrough strategies and plans. Look toward the broadest possible view of an issue/challenge: has broad-ranging personal and business interests and pursuits, can easily pose future scenarios, can think globally, can discuss multiple aspects and impacts of issues and project them into the future.
 - **Diplomacy:** Embrace discourse, seeing disagreement  as opportunities: read situations quickly, good at focused listening, can hammer out tough agreements and settle disputes equitably, can find common ground and get cooperation with minimum noise.
 - **Influence:** Skilled in communicating a compelling perspective to various audiences: one-on-one, small and large groups, with peers, reports, and leaders. Is effective both inside and outside the organization, on both cool data and hot and controversial topics, commands attention and can manage group processes during the presentation, can change tactics midstream when something isn’t working.
@@ -20,18 +20,19 @@ Leaders in the security department at GitLab are customer focused. While they ar
 
 ## Responsibilities
 
+- Drive quarterly Objectives and Key Results (OKRs) 
 - Own a Sub-department of the GitLab Security Department
-- Run multiple teams within their Sub-department.
+- Drive technical and process improvements
+- Lead teams to identify and mitigate technical risk 
+- Run multiple teams within their Sub-department
+- Parter with cross-fucntional leaders, understand their business and how your sub-team can support their objectives
 - Hire a world class team of managers and security engineers to work on their teams
-- Assess and mitigate constantly changing threats
+- Assess and mitigate constantly changing threat landscape
 - Help managers and team members grow their skills and experience
 - Manage multiple teams and projects
 - Hold weekly 1:1s with their reports
-- Hold monthly skip-level 1:1's with all members of their team
 - Create a sense of psychological safety on their Sub-department
-- Drive technical and process improvements
-- Drive quarterly Objectives and Key Results (OKRs)
-- Represent the company publicly at conferences
+- Represent the company publicly in media and/or at conferences
 
 ## Requirements
 
