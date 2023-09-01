@@ -16,7 +16,7 @@ Previously called `Usage Ping`, [Service Ping](https://docs.gitlab.com/ee/develo
 
 ### Service Ping Use Cases
 
-Service Ping metics provide insights that help our Product, Support, and Sales teams understand how GitLab is used. For example, the data helps to:
+Service Ping metrics provide insights that help our Product, Support, and Sales teams understand how GitLab is used. For example, the data helps to:
 
 1. Support [GitLab xMAU KPIs](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) KPI
 1. Calculate Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features
@@ -24,15 +24,16 @@ Service Ping metics provide insights that help our Product, Support, and Sales t
 1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features
 1. Collect other facts that help us classify and understand GitLab installations
 
+
 ### Self-Managed Service Ping
 
 Self-Managed customers setup and run Service Ping to provide analytics for their own deployments (instances) of GitLab. Customers optionally [disable Service Ping](https://docs.gitlab.com/ee/development/service_ping/#disable-service-ping) in which case metrics will not be sent to GitLab. Customers have access to Service Ping data through the console application.
 
 ### SaaS Service Ping
 
-GitLab.com (or GitLab SaaS) is essentially a GitLab-hosted multi-tenant version of GitLab. A manually generated version of Service Ping (Manual SaaS Service Ping) has been implemented for SaaS and provides analytics coverage of SaaS equivalent to what we achieve with Self-Managed instances.
+`GitLab.com` (or GitLab SaaS) is essentially a GitLab-hosted multi-tenant version of GitLab. A manually generated version of Service Ping (Manual SaaS Service Ping) has been implemented for SaaS and provides analytics coverage of SaaS equivalent to what we achieve with Self-Managed instances.
 
-However, the current process suffers from two major sets of problems: 
+In the past this was executed on the GitLab.com environment directly, with major sets of problems: 
 
 **Performance Problems**
 
@@ -45,36 +46,47 @@ However, the current process suffers from two major sets of problems:
 
 In addition, Manual SaaS Service Ping is only capable of generating instance-level (the entire site) data and does not meet all the needs of Sales, Customer Success, and others who need more granular data from the `namespace` level to measure individual GitLab.com customer adoption.
 
-To solve for these two primary sets of problems, the Data Team is developing "Automated SaaS Service Ping". Automated SaaS Service Ping is a set of programs that run natively in the [Enterprise Data Platform](/handbook/business-technology/data-team/platform/), a system designed for Big Data, Automation, and Scale. With Automated SaaS Service Ping fully operationalized, Manual SaaS Service Ping can be decommissioned. There are two major sub-programs that make up Automated SaaS Service Ping:
+
+
+To solve for these two primary sets of problems, the Data Team developed "Automated SaaS Service Ping". Automated SaaS Service Ping which is a set of programs that run natively in the [Enterprise Data Platform](/handbook/business-technology/data-team/platform/), a system designed for Big Data, Automation, and Scale. With Automated SaaS Service Ping fully operationalized, Manual SaaS Service Ping is decommissioned on `2023-02-19`. There are two major sub-programs that make up Automated SaaS Service Ping:
 
 * **SaaS Instance Service Ping** - Automated weekly generation of Service Ping for the GitLab.com instance
+* **SaaS Instance Redis Ping** - Automated weekly generation of Service Ping for the GitLab.com instance from Redis metrics ping
 * **SaaS Namespace Service Ping** - Automated weekly generation of Service Ping for every GitLab.com instance->namespace
 
 #### 4 Types of Service Ping Processes Run Versus 3 Environments
 
 In total, there are 4 types of Service Ping either in production or development:
 
-| **Criteria** | 1. Self-Managed Service Ping | 2. Manual SaaS Service Ping | 3. Automated SaaS Instance Service Ping | 4. Automated SaaS Namespace Service Ping |
-| :--- | :--- | :--- | :--- | :--- |
-| Where Run | Environment 1: A Customer's Self-Managed Instance | Environment 2: Within GitLab.com Infrastructure | Environment 3: Data Platform Infrastructure | Environment 3: Data Platform Infrastructure |
-| Run By | GitLab (Automatically) | Analytics Instrumentation (Manually) | Airflow (Automatically) | Airflow (Automatically) |
-| Frequency | Weekly | Weekly | Weekly | Weekly |
-| Code Owner | Analytics Instrumentation | Analytics Instrumentation | Data Team | Data Team |
-| Source Code | `Ruby`, `SQL` | `Ruby`, `SQL` | `Python`, `SQL`, `dbt` | `Python`, `SQL`, `dbt` |
-| Data Granularity | Instance | Instance | Instance | Namespace |
-| Development Status | Live-Production | Live-Production | In Development | Live-Production | 
+| **Criteria**     | 1. Self-Managed Service Ping | 2. ~~Manual SaaS Service Ping~~ (Decomissioned)    | 3. Automated SaaS Instance Service Ping | 4. Automated SaaS Namespace Service Ping |
+|:-----------------| :--- |:------------------------------------------------| :--- | :--- |
+| Where Run        | Environment 1: A Customer's Self-Managed Instance | Environment 2: Within GitLab.com Infrastructure | Environment 3: Data Platform Infrastructure | Environment 3: Data Platform Infrastructure |
+| Run By           | GitLab (Automatically) | Analytics Instrumentation (Manually)            | Airflow (Automatically) | Airflow (Automatically) |
+| Frequency        | Weekly | Weekly                                          | Weekly | Weekly |
+| Code Owner       | Analytics Instrumentation | Analytics Instrumentation                       | Data Team | Data Team |
+| Source Code      | `Ruby`, `SQL` | `Ruby`, `SQL`                                   | `Python`, `SQL`, `dbt` | `Python`, `SQL`, `dbt` |
+| Data Granularity | Instance | Instance                                        | Instance | Namespace |
+| Status           | `Live-Production` | `Decomissioned`                                 | `Live-Production`  | `Live-Production` | 
 
 ## Automated SaaS Service Ping Implementation
 
 `TL;DR`: 
 
-The Automated SaaS Instance Service Ping process is more stable and faster, with `SQL Based` metrics taking 30 minutes to complete and `Redis Metrics` taking 1 minute. However, the lack of change data capture in the `Postgres Pipeline (PGP) 1.0` towards `Snowflake` results in less accurate data, especially with `all-time` metrics where the errors resulting from a lack of change data capture accumulate overtime. 
-
-The `Manual SaaS Instance Service Ping` process is less stable and slower, with the entire process taking 20 hours and the `counts.ci_internal_pipelines` metric alone taking 12 hours to complete on the `2022-06-06` manual run. However, the Manual process generates more accurate data because it is run on the GitLab.com production database and it captures changes; therefore, the all-time metrics in particular are more accurate with the Manual process. 
+The Automated SaaS Instance Service Ping process is more stable and faster, with `SQL Based` metrics taking approx. `30` minutes to complete and `Redis Metrics` taking 1 minute. However, the lack of change data capture in the `Postgres Pipeline (PGP) 1.0` towards `Snowflake` results in less accurate data, especially with `all-time` metrics where the errors resulting from a lack of change data capture accumulate overtime. 
 
 In the final analysis, the Automated Process provides more stable data, faster; however, at a lower accuracy rate of the metric counts, in particular the all-time metrics. 
 
 ### Process Overview
+
+```mermaid
+graph LR
+subgraph Automated Service Ping
+AUTO[Automated Service Ping]
+AUTO --> SQL[Instance SQL metrics]
+AUTO --> REDIS[Instance Redis metrics]
+AUTO --> NAMESPACE[Instance Namespace Metrics]
+end
+```
 
 **Automated SaaS Service Ping** is a collection of [Python programs](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) and dbt processes orchestrated with Airflow and scheduled to run weekly within the Enterprise Data Platform. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program relies on two primary data sources: Redis-based counters and SQL-based PostgreSQL tables. Both sources are implemented as automated data pipelines into Snowflake, intended to run independently of the SaaS Service Ping implementation process.
 * **SQL-Based** `Postgres` data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in the `RAW.SAAS_USAGE_PING` schema
@@ -90,7 +102,7 @@ Automated SaaS Service Ping consists of two major data processing phases.
 
 SaaS Instance Service Ping runs as described in the Process Overview.
 
-##### Instance SQL-based data flow
+##### `Instance SQL metrics` data flow
 
 ```mermaid
 graph TD
@@ -104,12 +116,12 @@ end
 
 For more details on the data flow, check [Service ping README.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) file.
 
-##### Redis based data flow
+##### `Instance Redis metrics` based data flow
 
 ```mermaid
 graph LR
 subgraph Redis-sourced Instance Level Metrics
-B[1: Gather Metrics Values via API] --> C[2: Preserve Redis metrics results - to combine with Instace SQL Metrics later]
+B[1: Gather Metrics Values via API] --> C[2: Preserve Redis metrics results - to combine with Instance SQL Metrics later]
 end
 ```
 
@@ -126,7 +138,7 @@ classDef empty width:0px,height:0px;
 end
 ```
 
-##### SaaS Namespace Service Ping
+##### `Instance Namespace metrics` based data flow
 
 SaaS Namespace Service Ping produces metrics at a finer-level of granularity than SaaS Instance Service Ping. The process accesses a list of all namespaces in GitLab.com and loops through each namespace to generate ultimate-parent namespace-level usage metrics. The [`namespaces`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) table provides input to the program and for efficiency, a SQL set operation is used with SQL `GROUP BY` namespace-id instead of a traditional 1-by-1 namespace loop. **Final metrics output is stored at the ultimate parent namespace level**. A drawback with Namespace Service Ping is that only SQL-sourced metrics are currently available and Redis-sourced metrics such as `analytics_unique_visits.g_analytics_contribution` are currently unavailable.
 
@@ -139,7 +151,7 @@ C --> D[3: Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
 ```
 
-###### Namespace backfill
+###### `Instance Namespace metrics` backfill
 
 This action can be done (primarily) by `AE` and `DE` can support it as well, if needed. The main idea is to have a simple and flexible way to backfill namespace data in a cost-effective fashion.
 
@@ -154,14 +166,16 @@ The example how variable `NAMESPACE_BACKFILL_VAR` should look like:
 }
 ```
 
-##### Change the metrics definiton
-In case you want to change the metrics type from **database** to **redis** in the metrics definition file, do the following steps:
+> **Note:** Pay attention that the `NAMESPACE_BACKFILL_VAR` should be in one row, as the `Airflow` can raise an error if it is multi-line formatted.
+
+##### Change the metrics definition
+In case you want to change the metrics type from **database** to **redis** in the metrics definition file, do the following steps:
 * Got to metrics definition [page](https://metrics.gitlab.com/)
 * Find the metrics you want to change
 * Press the link, and you will be redirected to the `.yaml` file
 * Press the `edit`/`edit in Web IDE` button and change `data_source: database` to `data_source: redis`
-* Put a proper comment and check the option to create a new MR, here is an example of how [the merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/105682/diffs) should look like 
-* Assing your new MR to a `PI` team member
+* Put a proper comment and check the option to create a new MR, here is an example of how [the merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/105682/diffs) should look like
+* Assign your new MR to a `PI` team member
 
 The entire process can is explained in the [recorded sesion](https://youtu.be/qSeRqWNchVo)
 
@@ -183,16 +197,15 @@ The `saas_usage_ping_backfill` `DAG` will backfill data for the metrics where th
           1. Start Postgres SQL-sourced Metrics
                1. Grab the latest set of Postgres SQL-sourced (PG-SQL) metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
                1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) using the [python transformer](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py)
-               1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`. In case of error, data will land in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table.
+               1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`. In case of error, data will land in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table.
           1. Start **Redis-based** Metrics
                 1. Call the Redis API
-                1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and the data is stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
+                1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and the data is stored in `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`
      1. Start **Namespace-Level** metrics generation
           1. Grab the latest metrics queries from the [Namespace Queries JSON](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping_namespace_queries.json)
           1. Run the Namespace Queries versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 
 #### Running Automated Service Ping Ad Hoc to Validate Bug Fixes
-
 We may occasionally encounter scenarios where bugs in Service Ping impact recorded metric values. In such cases, the Data Team can expedite completion of the bug fix by running Automated Service Ping on an ad hoc basis. We will only do this when the following conditions are met:
 1. Bugfix has been tested and validated locally by Analytics Instrumentation
 1. All relevant automated tests in the source system have been updated to prevent similar bugs from getting pushed to production in the future
@@ -224,7 +237,7 @@ In the long run, the target state is to quarantine any incorrect data and preven
 
 Once all of the source metrics are available in Snowflake `RAW.SAAS_USAGE_PING` schema, we begin dbt processing to transform the data into the Trusted Data Model format.
 - [**SQL** based metrics dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
-- [**Redis** based metrics dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.instance_redis_metrics)
+- [**Redis** based metrics dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.instance_combined_metrics)
 - [**Namespace**-level dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
 
 #### Known Limitations/Improvements
@@ -293,7 +306,7 @@ SELECT 'counts.ci_builds'    AS counter_name,
  WHERE ci_builds.type = 'Ci::Build'
 ```
 
-We then run all these queries and store the results in a json that we send them to the table called `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`. This table has the following columns:
+We then run all these queries and store the results in a json that we send them to the table called `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`. This table has the following columns:
 
 - `query_map`: that stores all the queries run 
 - `run_results`: that stores the results returns
@@ -308,7 +321,7 @@ For error handling solution, refer to [runnbooks Automated Service Ping](https:/
 
 ##### New metrics checks
 
-The `Data team` created an app and delivered it to the PI team as they are able to autonomically use it when any of the metrics are changed (SELECT statement) or added. This will prevent the issue with failing the pipeline in production, the common error is related to executing SQL on a non-existing object in the Snowflake database. The example issue should be found in the issue [2022-09-28 dbt-test Failure in test instance_sql_error_rowcount](https://gitlab.com/gitlab-data/analytics/-/issues/14316). Here is the idea of how it is working:
+The `Data team` created an app and delivered it to the PI team as they are able to autonomously use it when any of the metrics are changed (SELECT statement) or added. This will prevent the issue with failing the pipeline in production, the common error is related to executing SQL on a non-existing object in the Snowflake database. The example issue should be found in the issue [2022-09-28 dbt-test Failure in test instance_sql_error_rowcount](https://gitlab.com/gitlab-data/analytics/-/issues/14316). Here is the idea of how it is working:
 
 
 ```mermaid
@@ -346,7 +359,7 @@ More details on app with the source code should be found in the [service-ping-me
 
 Redis counters are used to record high-frequency occurrences of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when a user folds or unfolds the side bar. In such cases, the backend engineer will define a name that would represent a given situation, for example navigation_sidebar_opened, and also arbitrarily decide on the moment (by adding dedicated piece of code in existing execution path) when it happens.
 
-The Analytics Instrumentation team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available on the page [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake in the table `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). The table has the following columns:
+The Analytics Instrumentation team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available on the page [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake in the table `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). The table has the following columns:
 
 - `jsontext`: that stores all the queries run 
 - `ping_date`: date when the query got run
@@ -354,14 +367,19 @@ The Analytics Instrumentation team has created an API endpoint that allows the D
 
 ### Performance improvements
 
-As a crucial advantage for `service ping` automation worth mentioning significant performance improvement. Graphical comparison is exposed in the picture below.
+As a crucial advantage for `service ping` automation worth mentioning significant performance improvement for `Instance SQL metrics` and `Instance Namespace metrics`. Graphical comparison is exposed in the picture below.
 
-![ALT](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/images/manual_vs_automated_comparation.png)
+#### Instance SQL metrics improvements
 
+<img src="images/manual_vs_automated_comparation.png" alt="drawing" width="800"/>
+
+#### Instance Namespace metrics improvements
+
+<img src="images/namespace_manual_vs_automated_comparation.png" alt="drawing" width="800"/>
 
 ### Airflow setup
 
-Airflow dag `saas-instance-usage-ping` run every Monday `0700 UTC` that executes all the operations described below:
+The `Airflow` DAG `saas-instance-usage-ping` run every Monday `0700 UTC` that executes all the operations described below:
 
 - fetching the queries from the API Endpoint
 - transforming the queries to be able to run them against Snowflake dedupe layer
