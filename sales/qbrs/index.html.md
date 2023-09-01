@@ -17,7 +17,7 @@ QBRs are categorized into two types:
 1. Field Manager QBRs - These sessions include Field Managers and above and are organized by the QBR planning team. Most of the page below covers the process for Field Manager QBRs. 
 
 ### QBR Schedules
-Field Manager QBRs are held in the following months and *typically* are a mix of in-person and virtual formats. This is subject to change based on any outside conditions that make it unsafe for the team to travel (i.e. COVID-19) and [GitLab's travel policy](/handbook/travel/#travel-guidance-covid-19). 
+Field Manager QBRs are held in the following months and *typically* are a mix of in-person and virtual formats. This is subject to change based on any outside conditions that make it unsafe for the team to travel (i.e. COVID-19) and [GitLab's travel policy](/handbook/travel/).
 
 1. Feb: In-Person (FY24 TBD)
 1. May: Virtual
