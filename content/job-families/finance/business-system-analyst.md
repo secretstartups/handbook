@@ -14,7 +14,7 @@ The Business Systems Specialist is a [grade 5](https://about.gitlab.com/handbook
 
 #### Business Systems Specialist Responsibilities
 
-- Creates interdepartmental feedback loops, workflows, and processes.
+- Creates interdepartmental feedback loops, workflows, and processes
 - Identify and document new processes and methods for team member workflows
 - Triage / troubleshoot issues and find workarounds where possible
 - Submit and contribute to bug reports and feature requests/improvements when relevant to project work
@@ -82,7 +82,7 @@ All the responsibilities of a Business Systems Analyst, plus:
 - Proactively identify inefficiencies or future inefficiencies, and foster organizational momentum to address
 - Provide best practice, or experience driven solutions to business problems
 - Work on long-term, multi-stage projects of high complexity
-- Exert significant influence on the overall objectives and long-range goals of Business Operations, and internal customer teams.
+- Exert significant influence on the overall objectives and long-range goals of Business Operations, and internal customer teams
 - Keep an even keel, and act as a point of stability and focus for ambitious or controversial projects
 - Identify and drive best practices for Business Operations projects
 - Foresee and drive net new organizational capabilities
@@ -136,13 +136,13 @@ The Principal Business Systems Analyst is a [grade 9](https://about.gitlab.com/h
 
 All the responsibilities of a Staff Business Systems Analyst, plus:
 
-- 
+- TO BE ADDED
 
 #### Principal Business Systems Analyst Requirements
 
 All the requirements of a Staff Business Systems Analyst, plus:
 
-- 
+- TO BE ADDED
 
 ### Business Systems Architect
 
@@ -160,7 +160,7 @@ All the responsibilities of a Principal Business Systems Analyst, plus:
 
 All the requirements of a Principal Business Systems Analyst, plus:
 
-- 
+- TO BE ADDED
 
 
 ## Performance Indicators (PI)
