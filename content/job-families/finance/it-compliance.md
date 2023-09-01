@@ -7,7 +7,7 @@ As part of the IT Compliance team, you will assist in the assessment of technolo
 
 In general, all IT Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance. They are comfortable operating within our transparent compliance programs and understand how compliance works with cloud-native technology stacks.
 
-# Levels
+## Levels
 
 ## IT Compliance Engineer
 
