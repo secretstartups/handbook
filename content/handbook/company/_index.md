@@ -1,3 +1,4 @@
 ---
-Title: Company
+Title: About GitLab
+weight: -10
 ---
