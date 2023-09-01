@@ -1,6 +1,7 @@
 ---
 title: "Product Accessibility Group"
 description: "Ensure GitLab product compliance with accessibility guidelines"
+status: active
 ---
 
 ## Attributes

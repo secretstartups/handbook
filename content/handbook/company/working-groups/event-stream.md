@@ -1,6 +1,7 @@
 ---
 title: "Event Stream Working Group"
 description: "Develop a plan to implement a system-wide event stream for GitLab"
+status: active
 ---
 
 ## Attributes

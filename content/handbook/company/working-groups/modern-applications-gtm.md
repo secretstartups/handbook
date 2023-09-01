@@ -1,6 +1,7 @@
 ---
 title: "Modern Applications Go-To-Market"
 description: "Define our modern applications got-to-market and create the necessary resources to support the motion."
+status: active
 ---
 
 ## Attributes

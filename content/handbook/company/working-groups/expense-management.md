@@ -1,6 +1,7 @@
 ---
 title: "Expense Management Working Group"
 description: "The business goal of GitLab expense management group is ensure efficient expense management in line with GitLab values"
+status: active
 ---
 
 ## Attributes

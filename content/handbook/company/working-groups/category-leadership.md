@@ -1,6 +1,7 @@
 ---
 title: "Category Leadership Working Group"
 description: "The business goal of GitLab category leadership initiative is to solidify GitLab's 'The DevOps Platform’ messaging"
+status: active
 ---
 
 ## Attributes

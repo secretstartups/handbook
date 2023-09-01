@@ -1,6 +1,7 @@
 ---
 title: "ClickHouse Working Group"
 description: "Learn more about the ClickHouse Datastore Working Group attributes, goals, roles and responsibilities."
+status: active
 ---
 
 ## Attributes

@@ -1,6 +1,7 @@
 ---
 title: "Software Supply Chain Security Working Group"
 description: "Implement key SSCS features across GitLab"
+status: active
 ---
 
 ## Attributes

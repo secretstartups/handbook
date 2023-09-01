@@ -1,6 +1,7 @@
 ---
 title: "Talent Acquisition SSOT"
 description: "The GitLab Talent Acquisition SSOT will be used by Finance for forecasting and Talent Acquisition for hiring. Find more information here!"
+status: active
 ---
 
 ## Attributes

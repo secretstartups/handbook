@@ -1,6 +1,7 @@
 ---
 title: "Cross-Functional Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
+status: active
 ---
 
 ## Purpose

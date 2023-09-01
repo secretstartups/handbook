@@ -1,6 +1,7 @@
 ---
 title: "Runtime Update Process"
 description: "Streamline the language runtime (version) update process by reducing manual intervention by engineers"
+status: active
 ---
 
 ## Attributes

@@ -1,6 +1,7 @@
 ---
 title: "Frontend Vision Group"
 description: "Write guidelines about frontend architecture practices we want to have on GitLab frontend in three years"
+status: active
 ---
 
 ## Attributes

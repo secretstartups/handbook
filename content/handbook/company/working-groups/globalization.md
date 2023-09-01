@@ -1,6 +1,7 @@
 ---
 title: "Revenue Globalization Working Group"
 description: "Expand GitLab's global revenue footprint by building frameworks and systems to expand and focus on 5 priority countries for FY24"
+status: active
 ---
 
 ## Attributes

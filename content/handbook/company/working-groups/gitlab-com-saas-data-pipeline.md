@@ -1,6 +1,7 @@
 ---
 title: "GitLab.com SAAS Data Pipeline"
 description: "The GitLab.com SAAS Data Pipeline Working Group"
+status: active
 ---
 
 ## Attributes

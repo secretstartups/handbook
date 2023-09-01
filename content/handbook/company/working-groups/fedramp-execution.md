@@ -1,6 +1,7 @@
 ---
 title: "FedRAMP Execution Working Group"
 description: "The charter of this working group is to drive execution of FedRAMP compliance."
+status: active
 ---
 
 ## Attributes

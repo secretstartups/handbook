@@ -1,6 +1,7 @@
 ---
 title: "Demo & Test data working group"
 description: "TBD"
+status: active
 ---
 
 ## Attributes

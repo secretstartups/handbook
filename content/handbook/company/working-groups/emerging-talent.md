@@ -1,6 +1,7 @@
 ---
 title: "Emerging Talent"
 description: "The Emerging Talent Working Group aims to build globally inclusive access to opportunities for those with 2 years or less experience in a domain"
+status: active
 ---
 
 ## Attributes

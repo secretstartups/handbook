@@ -1,6 +1,7 @@
 ---
 title: "CI/CD Build Speed (time-to-result)"
 description: "The objective is to establish GitLab CI build performance as the market leader."
+status: active
 ---
 
 ## Attributes
