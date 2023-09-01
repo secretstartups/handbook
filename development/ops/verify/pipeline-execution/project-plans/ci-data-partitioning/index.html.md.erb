@@ -15,10 +15,10 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 
 #### Goals:
 
-- Bigint conversion
-    - [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`
-    - [ ] Merge MR to init conversion for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
-    - [ ] Sync create index for `ci_pipeline_messages.pipeline_id`
+##### Bigint conversion
+- [x] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`
+- [x] Merge MR to init conversion for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [~] Sync create index for `ci_pipeline_messages.pipeline_id` (moved to 16.4 and it's under ~"workflow::in review")
 
 ### Week of August 14, 2023
 
@@ -29,8 +29,8 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 #### Goals:
 
 ##### Bigint conversion
-- [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
-- [ ] Create foreign key constraint for `ci_pipeline_messages.pipeline_id` and swap the columns
+- [x] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [~] Create foreign key constraint for `ci_pipeline_messages.pipeline_id` and swap the columns (moved to 16.4)
 
 ##### ci_builds
 - [x] Merge [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/122919) to use routing table
@@ -47,14 +47,13 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 #### Goals:
 
 ##### Bigint conversion
-- [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
-- [ ] Async create index for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id` (max 2 index creation per week)
+- [x] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`, `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [~] Async create index for `ci_pipeline_chat_data.pipeline_id` and `ci_stages.pipeline_id` (max 2 index creation per week) (under ~"workflow::in review")
 
 ##### ci_builds
 - [ ] Fix caching issue blocking enabling use of routing table
-- [ ] Enable the feature flag for use of routing table in staging and production
 - [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
-- [ ] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
+
 
 ### Week of  August 28, 2023
 
@@ -68,11 +67,6 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - [ ] Verify foreign key backfill progress for `ci_pipelines.auto_canceled_by_id`
 - [ ] Async create index for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id` (max 2 index creation per week)
 
-##### ci_builds
-- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
-
-##### ci_builds_metadata
-- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
 
 ### Week of September 4, 2023
 
@@ -92,8 +86,10 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
     - [ ] p_ci_builds.commit_id
 
 ##### ci_builds
-- [ ] Remove feature flag for using routing table
-- [ ] Add partition_id filters to all related queries
+- [ ] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
+- [ ] [Manually analyze `p_ci_builds` and `p_ci_builds_metadata`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/129812#note_1527675793)
+- [ ] Deploy the [table name switch to canary](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/129812) and confirm there are no more timeouts
+
 
 ### Week of September 11, 2023
 
@@ -104,10 +100,13 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 #### Goals:
 
 ##### Bigint conversion
-  - [ ] Sync create index and foreign key constraint, and swap for `ci_pipelines.auto_canceled_by_id`
-  - [ ] Sync create index and foreign key constraint, and swap for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
+- [ ] Sync create index and foreign key constraint, and swap for `ci_pipelines.auto_canceled_by_id`
+- [ ] Sync create index and foreign key constraint, and swap for `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
 
-
+##### ci_builds
+- [ ] Switch the table name on the entire fleet
+- [ ] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
+- [ ] Add partition_id filters to all related queries
 
 ### Milestone 16.5 (September 18, 2023 - October 16, 2023)
 
@@ -132,10 +131,13 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
     - [ ] p_ci_builds.commit_id
 
 ##### ci_builds
-- [ ] Split existing original partition into smaller partitions
+- [ ] Remove feature flag for using routing table
+- [ ] Add partition_id filters to all related queries
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
 
 ##### ci_builds_metadata
-- [ ] Split existing original partition into smaller partitions
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
+-
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 
@@ -159,6 +161,13 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
     - [ ] p_ci_builds.upstream_pipeline_id
     - [ ] p_ci_builds.commit_id
 
+
+##### ci_builds
+- [ ] Split existing original partition into smaller partitions
+
+##### ci_builds_metadata
+- [ ] Split existing original partition into smaller partitions
+-
 ##### ci_build_artifacts
 - TBD
 
