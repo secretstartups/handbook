@@ -95,7 +95,7 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
 
 ##### Director, Security Responsibilities
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
-- Relevant, progressive experience managing information security teams 
+- Relevant, progressive experience managing information security teams
 
 #### Director, Security Assurance Responsibilities
 
