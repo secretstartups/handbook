@@ -15,7 +15,7 @@ decription: >-
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# ACCOUNTING POLICY - Navan Physical Card Policy
+# Navan Physical Card Policy
 
 ## 1. POLICY
 - The purpose of this Navan Physical Card policy is to facilitate purchases necessary for the company operations and expedite the process in an efficient manner.
