@@ -12,7 +12,7 @@ title: Global Travel and Expense Policy
 
 {::options parse_block_html="true" /}
 
-# ACCOUNTING POLICY - Team Member’s Expense Audit Policy
+# Team Member’s Global Travel and Expense Policy
 
 # 1. POLICY
 
