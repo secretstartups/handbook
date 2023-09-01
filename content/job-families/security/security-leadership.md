@@ -6,17 +6,19 @@ description: "Leaders in the security department at GitLab see the team as their
 
 ## Security Leadership Roles at GitLab
 
-Leaders in the security department at GitLab see the team as their product. While they are technically credible and know the details of what security engineers and analysts work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of security commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Security leaders have:
+Leaders in the security department at GitLab are customer focused. While they are technically credible and know the details of what security engineers and analysts work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of security commitments and are always looking to improve productivity. They must coordinate across departments to accomplish collaborative goals. Security leaders embrace a set of shared values:
 
-- **Command Skills:** Relishes leading, takes unpopular stands if necessary, encourages direct and tough debate but isn’t afraid to end and move on, is looked to for guidance in a crisis, faces adversity head on, energized by tough challenges.
-- **Conflict Management:** Steps up to conflicts, seeing them as opportunities: reads situations quickly, good at focused listening, can hammer out tough agreements and settle disputes equitably, can find common ground and get cooperation with minimum noise.
-- **Perspective:** Looks toward the broadest possible view of an issue/challenge: has broad-ranging personal and business interests and pursuits, can easily pose future scenarios, can think globally, can discuss multiple aspects and impacts of issues and project them into the future.
-- **Presentation Skills:** Is effective in a variety of formal presentation settings: one-on-one, small and large groups, with peers, reports, and leaders. Is effective both inside and outside the organization, on both cool data and hot and controversial topics, commands attention and can manage group processes during the presentation, can change tactics midstream when something isn’t working.
+- **Security Principles:** Champion the security [operating principles](/handbook/security/#-security-vision-and-mission) and develop the frameworks and strategies necessary to leverage principles in practice.
 - **Priority Setting:** Spends their time and the time of others on what’s important: quickly zeros in on the critical few and puts the trivial many aside, can quickly sense what will help or hinder accomplishing a goal, eliminates roadblocks, creates focus.
-- **Process Management:** Good at figuring out the processes necessary to get things done: knows how to organize people and activities, understands how to separate and combine tasks into efficient work flow, knows what to measure and how to measure it, can see opportunities for synergy and integration where others can’t, can simplify complex processes; gets more out of fewer resources.
-- **Strategic Agility:** Sees ahead clearly: can anticipate future consequences and trends accurately, has broad knowledge and perspective, is future oriented, can articulately paint credible pictures and visions of possibilities and likelihoods, can create competitive and breakthrough strategies and plans.
-- **Building Effective Teams:** Blends people into teams when needed: creates morale and spirit in their team, shares wins and successes, fosters open dialogue, lets people finish and be responsible for their work, defines success in terms of the whole team, creates a feeling of belonging in the team.
-- **Managing Vision and Purpose:** Communicates a compelling and inspired vision or sense of core purpose: talks beyond today, talks about possibilities, is optimistic, creates mileposts and symbols to rally support behind the vision, makes the vision shareable by everyone, can inspire and motivate entire units or organizations.
+- **Process Management:** Build efficient processes which are necessary to get things done: know how to organize people and activities, understand how to separate and combine tasks into efficient work flow, know what to measure and how to measure it, can see opportunities for synergy and integration where others can’t. Capable of simplifying complex processes.
+- **Strategic Agility:**  Able to see around corners and anticipate future consequences and emerging challenges accurately, have broad knowledge and perspective, is future oriented, can articulately paint credible pictures and visions of possibilities and likelihoods, can create competitive and breakthrough strategies and plans.
+- **Diplomacy:** Embrace discourse, seeing disagreement  as opportunities: read situations quickly, good at focused listening, can hammer out tough agreements and settle disputes equitably, can find common ground and get cooperation with minimum noise.
+- **Perspective:** Look toward the broadest possible view of an issue/challenge: has broad-ranging personal and business interests and pursuits, can easily pose future scenarios, can think globally, can discuss multiple aspects and impacts of issues and project them into the future.
+- **Influence:** Skilled in communicating a compelling perspective to various audiences: one-on-one, small and large groups, with peers, reports, and leaders. Is effective both inside and outside the organization, on both cool data and hot and controversial topics, commands attention and can manage group processes during the presentation, can change tactics midstream when something isn’t working.
+- **Building Effective Teams:** Inspires team members to do their best work. Creates and fosters environments where team members can grow and deliver their best work.
+- **Vision:** Communicates a compelling and inspired vision or sense of core purpose: talks beyond today, talks about possibilities, is optimistic, creates mileposts and symbols to rally support behind the vision, makes the vision shareable by everyone, can inspire and motivate the entire organization.
+
+
 
 ## Responsibilities
 
@@ -120,20 +122,58 @@ Candidates for the director positions can expect the hiring process to follow th
 - Successful candidates will subsequently be made an offer via email
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
-### Director, Security Engineering
+### Director, Product Security
 
 This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
-#### Director, Security Engineering Job Grade
+#### Director, Product Security Job Grade
 
-The Director, Application Security is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Product Security is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Security Engineering Responsibilities
+#### Director, Product Security Responsibilities
+
+- Recruits, manages, motivates and develops high performing teams
+- Partners with the CISO in planning and development of enterprise information security strategy and best practices
+- Drives strategy for the Product Security organization, aligned with broader GitLab business initiatives, with a specific focus on application security, Infrastructure Security, security automation, and Security Logging.
+- Consults with senior leaders regarding their information security risks and drive mitigation efforts to reduce risk
+- Drives operational efficiencies through process improvement and implementation of technical solutions
+- Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
+- Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
+- Secure the product and the company with innovative and industry leading technical security controls and practices
+- Partners with the CISO to build and maintain the most transparent security program in the world
+- Acts as an advocate for information security practices
+
+#### Director, Product Security Requirements
+
+- Proven ability to successfully recruit, manage, motivate and develop high performing teams
+- Relevant, progressive experience managing information security teams
+- Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation
+
+#### Hiring Process
+
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, candidates will be invited to schedule a 45-60 minute interview with CISO
+- Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
+- Candidates may be requested to meet again with the CISO for a shortened conversation
+- Successful candidates will subsequently be made an offer via email
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+### Director, Platform Security Engineering
+
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+
+#### Director, Platform Security Engineering Job Grade
+
+The Director, Platform Security Engineering is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Platform Security Engineering Responsibilities
 
 - Recruit, manage, motivate and develop high performing teams
 - Partner with the CISO in planning and development of enterprise information security strategy and best practices
-- Drive strategy for the Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on application security, security research, security automation, and external security communications.
-- Consult with senior leaders regarding their information security risks and drive mitigation efforts to reduce risk
+- Drive strategy for the Platform Security Engineering organization, aligned with broader GitLab business initiatives, with a specific focus on production security services, data security engineering, applied machine learning, and security automation.
+- Consult with senior leaders regarding their security requirements and drive mitigation efforts to reduce risk
 - Drive operational efficiencies through process improvement and implementation of technical solutions
 - Drive efforts to improve security awareness in the areas of application security and the secure development of code through education and training
 - Champion technical efforts to obtain and maintain compliance with customer, regulatory, and security compliance framework requirements
@@ -141,7 +181,7 @@ The Director, Application Security is a [grade 10](https://about.gitlab.com/hand
 - Partner with the CISO to build and maintain the most transparent security program in the world
 - Act as an advocate for information security practices
 
-#### Director, Security Engineering Requirements
+#### Director, Platform Security Engineering Requirements
 
 - Proven ability to successfully recruit, manage, motivate and develop high performing teams
 - Relevant, progressive experience managing information security teams
