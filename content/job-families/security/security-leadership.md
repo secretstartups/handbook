@@ -30,7 +30,7 @@ Leaders in the security department at GitLab are customer focused. While they ar
 - Hold monthly skip-level 1:1's with all members of their team
 - Create a sense of psychological safety on their Sub-department
 - Drive technical and process improvements
-- Drive quarterly OKRs
+- Drive quarterly Objectives and Key Results (OKRs)
 - Represent the company publicly at conferences
 
 ## Requirements
@@ -158,9 +158,9 @@ The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbo
   - Grow skills in team leads and team members, for example by
    creating training and testing materials
   - Deliver input on promotions, function changes, demotions, and terminations
-- Ensure our engineers and contributors from the wider community run a secure software development lifecycle for GitLab by training them in best practices and creating automated tools
+- Ensures our engineers and contributors from the wider community run a secure software development lifecycle for GitLab by training them in best practices and creating automated tools
 - Involve in major security and service abuse events
-- Ensure we're compliant with our legal and contractual security obligations
+- Ensures we're compliant with our legal and contractual security obligations
 - Evangelise GitLab Security and Values to staff, customers and prospects
 
 #### Director, Security Operations Requirements
