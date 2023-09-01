@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Performance Indicator Working Group"
 description: "The GitLab Performance Indicator Working Group erect automated KPI data collection and visualization in order to manage-at-scale. Read more!"
-canonical_path: "/company/team/structure/working-groups/performance-indicators/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,14 +19,14 @@ Erect automated [KPI](https://docs.google.com/document/d/1NNne33rOtkrogqWRzdQZ4U
 
 ## Exit Criteria
 
-* Get “Engineering Pulse Survey” KPI to maturity level 3
-* Get “Hiring actual vs plan” KPI to maturity level 4
-* Get “Non-headcount budget vs plan” KPI to maturity level 4
-* Get “Average location factor” KPI to maturity level 4
-* Get “Diversity” KPI to maturity level 3
-* Get “Handbook updates” KPI to maturity level 4
-* Get “Employee retention” KPI to maturity level 3
-* Move KPI overview from Google doc to the handbook page(s)
+- Get “Engineering Pulse Survey” KPI to maturity level 3
+- Get “Hiring actual vs plan” KPI to maturity level 4
+- Get “Non-headcount budget vs plan” KPI to maturity level 4
+- Get “Average location factor” KPI to maturity level 4
+- Get “Diversity” KPI to maturity level 3
+- Get “Handbook updates” KPI to maturity level 4
+- Get “Employee retention” KPI to maturity level 3
+- Move KPI overview from Google doc to the handbook page(s)
 
 ## Roles and Responsibilities
 

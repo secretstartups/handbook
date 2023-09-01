@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Experimentation Working Group"
 description: "The GitLab Experimentation Working Group aims to define the process for Product Groups at GitLab to self-service the definition, running, and results analysis of Product experiments on GitLab.com."
-canonical_path: "/company/team/structure/working-groups/experimentation/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -30,11 +22,11 @@ In order to keep the working group short-lived and our discussions focused, we a
 
 - A short to medium term decision and rationale for build vs buy when extending experimentation capabilities for GitLab.com.
     - [Epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/48) preference is to dogfood
-- High level requirements analysis comparing improve, build, buy options.  
-    - [Epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/53) 
+- High level requirements analysis comparing improve, build, buy options.
+    - [Epic](https://gitlab.com/groups/gitlab-org/growth/-/epics/53)
     - [Issue](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/2)
 - An updated and documented experiment ideation process.
-    - [Issue](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/14) 
+    - [Issue](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/14)
     - [Issue](https://gitlab.com/gitlab-org/growth/experiment-design-repo/-/issues/1)
 - A guide to the types of experiments supported, how these can be rolled out by user/namespace/group, and the technical process to implement this rollout.
     - [Issue](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/21)

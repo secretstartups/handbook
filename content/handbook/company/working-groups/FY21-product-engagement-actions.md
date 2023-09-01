@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "FY21 Product Engagement Actions"
-canonical_path: "/company/team/structure/working-groups/FY21-product-engagement-actions/"
 description: "Take action on the FY 21 product engagement survey results."
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -33,7 +25,7 @@ For more details please reference the [Product FY'21 Engagement Survey Results](
 ## Business Goals
 
 - Create focus on customer value and business outcomes in the product manager role at GitLab
-- Boost product team job satisfaction and retention 
+- Boost product team job satisfaction and retention
 - Provide a clear path to success at GitLab for product managers of all levels
 - Attract, grow and support a diverse group of product managers at GitLab
 
@@ -41,7 +33,7 @@ For more details please reference the [Product FY'21 Engagement Survey Results](
 
 **How we'll do the work**
 
-In order to stay focused and move quickly on actions, we need to stay _lean_.  Therefore, the working group will be limited to 9 functional leads, 1 facilitator and 1 executive sponsor. The 9 functional leads will then be split into three groups of 3 collaborators, who will each own of of the [problems to solve](#problems-to-solve), as noted above. 
+In order to stay focused and move quickly on actions, we need to stay *lean*.  Therefore, the working group will be limited to 9 functional leads, 1 facilitator and 1 executive sponsor. The 9 functional leads will then be split into three groups of 3 collaborators, who will each own of of the [problems to solve](#problems-to-solve), as noted above.
 
 **Creating Epics, Issues and MRs for the working group board**
 
@@ -49,15 +41,15 @@ In order to stay focused and move quickly on actions, we need to stay _lean_.  T
 - All issues should be linked to a WG epic and have labels: `milestone` `product operations` `wg-fy21-engagement-actions` and a product operations  workflow label: `prodops::todo` `prodops::validation` `prodops::planning` `prodops::doing` `prodops::inreview` With these labels, the issues will be viewable as part of the [product operations issue board](https://gitlab.com/groups/gitlab-com/-/boards/1453895?scope=all&utf8=%E2%9C%93&label_name[]=Product%20Operations&label_name[]=wg-fy21-engagement-actions)
 - All MRs should be linked to a WG issue and have the labels: `milestone` `product operations` `wg-fy21-engagement-actions`
 
-Please note the above actions are necessary for succesful async collaboration. 
+Please note the above actions are necessary for succesful async collaboration.
 
 **How we'll review and share the work**
 
-- Please  provide a standup style update of your work in progress at the weekly sync by adding it to the agenda and then voicing it over. If neither you or your partner are able to attend weekly sync, please still add the written update and the WG facilitator will voice over. 
-- Please explicitly communicate any reviews, feedback or contributions you need from the bigger WG team by adding an agenda item to weekly sync meeting or by posting in the WG Slack channel, in addition to pinging directly as appropriate in the epic, issue or MR. Highlighting in weekly sync and Slack are critical  as we all have many pings and ToDos in GitLab daily. Please make any due dates for feedback clear as will help the WG prioritize when you need feedback. 
+- Please  provide a standup style update of your work in progress at the weekly sync by adding it to the agenda and then voicing it over. If neither you or your partner are able to attend weekly sync, please still add the written update and the WG facilitator will voice over.
+- Please explicitly communicate any reviews, feedback or contributions you need from the bigger WG team by adding an agenda item to weekly sync meeting or by posting in the WG Slack channel, in addition to pinging directly as appropriate in the epic, issue or MR. Highlighting in weekly sync and Slack are critical  as we all have many pings and ToDos in GitLab daily. Please make any due dates for feedback clear as will help the WG prioritize when you need feedback.
 - Please add  the WG facilitator '@fseifoddini' as a reviewer on all MRs as DRI and to also allow her the opportunity to further label any items that need to show up on product operations release pages
 - Please add required reviewers of your MR by assigning them as  `reviewer`
-- Please unassign yourself as `reviewer` when you've completed feedback 
+- Please unassign yourself as `reviewer` when you've completed feedback
 
 **NOTE TO ALL: Please pay attention to your To-Do list! We'll not hold the train on non-controversial MRs for more than 24 hours.**
 
@@ -67,7 +59,7 @@ Meetings are recorded and available on [Product GDrive](https://drive.google.com
 
 ## Exit Criteria
 
-Required per [Product FY'21 Engagement Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1986): 
+Required per [Product FY'21 Engagement Survey Results](https://gitlab.com/gitlab-com/Product/-/issues/1986):
 
 1. Define a competency for managers to conduct effective 1-2 year career development conversations. Update the product handbook with guidance, and develop a template so we have a consistent approach across the division. Each team member should then feel welcome to fill out the document and schedule time with their manager to discuss. We very much want to be having regular career conversations on a cadence the works for each person.
 1. Invest in a more robust Learning & Development curriculum for Product team members for at least three key competencies. Leverage content from LinkedIn, ProductTalk, and homegrown sources. Link content to competency development handbook descriptions, the Career Development Framework, and onboarding instructions.
@@ -78,7 +70,6 @@ Required per Product Operations:
 1. Communication strategy for initial updates of each actions
      - Conduct an AMA to answer all questions / concerns
      - Communication in meetings, Slack and release pages as appropriate
-
 1. Ongoing communication for updates/maintenance of the L & D and other actions as a whole
 1. Dogfooding: Identify a Section/ group to dogfood L & D and other components as appropraite
      - Document and capture feedback for future iteration
@@ -88,8 +79,7 @@ Stretch:
 1. Define quantitative and qualitative measures of success for
      - Learning and development hub
      - Product manager onboarding
-     - product manager job satisfaction 
-
+     - product manager job satisfaction
 
 ## Roles and Responsibilities
 
@@ -104,5 +94,3 @@ Stretch:
 | Functional Lead       | Viktor Nagy (Product - Configure) | Senior Product Manager |
 | Functional Lead       | Derek Ferguson (Product - Secure) | Senior Product Manager |
 | Functional Lead       | Jacki Bauer (UX) | Product Design Manager |
-
-

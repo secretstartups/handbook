@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Improve Ops Quality"
 description: "Work on critical test gaps to mitigate future incidents and empower developers to efficiently work on test coverage"
-canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -32,20 +24,21 @@ Mitigate future incidents by empowering developers to efficiently work on test c
 ### Exit Criteria (100% completed)
 
 1. Analyze all high-severity incidents in the past 3 months and list improvement themes needed (e.g. mixed deployments, new staging, load testing, better tests outside unit tests). `=> 100%`
-  * [Review package incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/323340)
-  * [Pipeline Execution/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
-  * [Runner executable E2E environment](https://gitlab.com/gitlab-org/ci-cd/tests/runner-incept)
+  - [Review package incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/323340)
+  - [Pipeline Execution/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
+  - [Runner executable E2E environment](https://gitlab.com/gitlab-org/ci-cd/tests/runner-incept)
 1. Add runner executable E2E test environment `=> 100%`
 1. Add test coverage for high risk runner functionality `=> 100%`
 1. [Set up load testing environment for PE](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/832) `=> 100%`
 1. Address critical test gaps with new smoke tests for Package group `=> 100%`
 1. Update our process, documentation, on-boarding, and culture going forward. `=> 100%`
-  * Create risk map for [PE](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 100%`
-  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/83300) `=> 100%`
-  * Create 3 end-to-end overview videos for training `=> 100%`
-  * Train 1 maintainer each for Package, Runner, PE on end-to-end testing `=> 100%`
+  - Create risk map for [PE](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 100%`
+  - [Create generalized risk mapping framework](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/83300) `=> 100%`
+  - Create 3 end-to-end overview videos for training `=> 100%`
+  - Train 1 maintainer each for Package, Runner, PE on end-to-end testing `=> 100%`
 
 ### Post working group planned improvements
+
 Items identified to continue work on past the scope of the Working Group but necessary for ongoing improvement of Ops quality.
 
 1. [Runner staging environment](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27684)

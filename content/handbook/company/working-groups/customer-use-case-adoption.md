@@ -1,22 +1,14 @@
 ---
-layout: markdown_page
 title: "Customer Use Case Adoption"
 description: "Drive cross-functional alignment around use case adoption as the north star KPI and #1 predictor of Churn & Contraction."
-canonical_path: "/company/team/structure/working-groups/customer-use-case-adoption/"
 ---
-
-## On this page
-
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Purpose
 
-This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to deliver improved customer adoption of key use cases within the GitLab platform. Following the 2023-05-16 Sales Key Review, there was a high-priority focus on driving customer use case adoption as the north star KPI and #1 predictor of Churn & Contraction. The formation of this working group was a direct outcome to accelerate efforts to win against GitHub and reduce Churn & Contraction.  
+This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to deliver improved customer adoption of key use cases within the GitLab platform. Following the 2023-05-16 Sales Key Review, there was a high-priority focus on driving customer use case adoption as the north star KPI and #1 predictor of Churn & Contraction. The formation of this working group was a direct outcome to accelerate efforts to win against GitHub and reduce Churn & Contraction.
 
 **Desired Outcomes**
+
 1. Drive **cross-functional alignment** around use case adoption across sales, customer success, product, data, finance, etc.
 1. Mature **existing and new use cases and measures**, including thresholds
 1. Build use cases as input into **actions** to drive the business

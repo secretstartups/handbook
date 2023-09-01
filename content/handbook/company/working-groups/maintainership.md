@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Maintainership"
 description: "Improve the Development Department Maintainership to be sustainable for the next 5 years"
-canonical_path: "/company/team/structure/working-groups/maintainership/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,13 +19,14 @@ canonical_path: "/company/team/structure/working-groups/maintainership/"
 We have seen overall inconsistent results with maintainership in the last quarter. Examples: A subset of maintainers are taking the burden of reviews which can lead to serious problems in job satisfaction issues and burnout. We are growing (both in headcount as well as community contributions), but the number of maintainers has stabilized. The number of repos which need maintainer support is increasing while coverage of them has decreased. We want transparency that seniors who are maintainers are having a positive impact in the multiple areas listed here, which leads to more career opportunities for them than it does non-maintainers.
 
 Our objective is to change our processes and culture to have an organization which we know can sustain maintainership for the next 5 years that meets the demand of both the company and the open core project. This includes, but is not limited to:
-* Increasing current maintainers and having a forecasting to know we will increase in the future.
-* Availability measures which demonstrate maintainers are able to meet demands of code reviews
-* Load balancing measures to distribute MR reviews evenly among maintainers
-* Improvements in code review features and CI/tooling to support the maintainers and reduce work needed for reviews
-* Coverage/monitoring measures to know when a part of the code base is adequately supported or needs help
-* Improvements in onboarding maintainers at our new scale
-* Have some fun
+
+- Increasing current maintainers and having a forecasting to know we will increase in the future.
+- Availability measures which demonstrate maintainers are able to meet demands of code reviews
+- Load balancing measures to distribute MR reviews evenly among maintainers
+- Improvements in code review features and CI/tooling to support the maintainers and reduce work needed for reviews
+- Coverage/monitoring measures to know when a part of the code base is adequately supported or needs help
+- Improvements in onboarding maintainers at our new scale
+- Have some fun
 
 ## Tracking Progress
 
@@ -67,6 +60,7 @@ The maintainership process is described [on this page](https://about.gitlab.com/
 | 5  |  2022-06-01       | 2022-08-05 | 2022-11-16            | @sabrams | [Develop and implement a communication plan for Maintainership changes](https://gitlab.com/groups/gitlab-com/-/epics/1813) |
 
 ### Data and dashboards
+
 - [Reviewer/Maintainer availability and capacity](/handbook/engineering/workflow/code-review/#maintainerreviewer-availability) - Shows the maintainer/reviewer availability rate over time and incoming/forecasted review requests
 - [Maintainer WG dashboard](https://app.periscopedata.com/app/gitlab/1020829/Maintainer-WG) - A sandbox dashboard for metrics related to the working group
 - [Maintainers and Trainees](/handbook/engineering/development/performance-indicators/#maintainers-and-trainees)
@@ -77,9 +71,9 @@ The maintainership process is described [on this page](https://about.gitlab.com/
 
 | Working Group Role    | Person                                               | Title                                                      |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------|
-| Executive Sponsor     					| Christopher Lefelhocz                  | VP of Development    |                                     
-| Facilitator           					| Michelle Gill                          | Senior Engineering Manager, Manage   |                              
-| Functional Lead (Enablement)      		| Alex Ives                              | Engineering Manager, Database     |                            
+| Executive Sponsor     					| Christopher Lefelhocz                  | VP of Development    |
+| Facilitator           					| Michelle Gill                          | Senior Engineering Manager, Manage   |
+| Functional Lead (Enablement)      		| Alex Ives                              | Engineering Manager, Database     |
 | Functional Lead (Fulfillment)      		| Jerome Ng                              | Senior Manager of Fulfillment |
 | Functional Lead (Ops)      				| Sam Goldstein                          | Director of Ops |
 | Functional Lead (Dev)      				| Max Woolf                              | Senior Backend Engineer, Govern:Compliance |
@@ -175,7 +169,7 @@ Consider the following questions when making an announcement:
 
 ##### Divisive changes
 
-Sometimes changes are controvertial or involve subjects where people might have deep opinions. It is important that when such changes occur, everyone has access to resouces and information to help them understand:
+Sometimes changes are controversial or involve subjects where people might have deep opinions. It is important that when such changes occur, everyone has access to resources and information to help them understand:
 
 - How they are affected
 - Why the change was made

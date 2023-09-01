@@ -1,15 +1,8 @@
 ---
-layout: markdown_page
 title: "Real-Time Working Group"
 description: "The GitLab Real-Time Working Group aim is to ship one real-time feature to self-managed customers. Read more!"
-canonical_path: "/company/team/structure/working-groups/real-time/"
+no_list: true
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -72,7 +65,7 @@ To ship one real-time feature to self-managed customers.
 
 ## Design Document
 
-Technical decisions and rationale are captured in [this design document](design_document.html).
+Technical decisions and rationale are captured in [this design document]({{<ref "design_document" >}}).
 
 ## Roles and Responsibilities
 
@@ -88,7 +81,6 @@ Technical decisions and rationale are captured in [this design document](design_
 | Member                | Natalia Tepluhina     | Staff Frontend Engineer, Plan |
 | Member                | Matthias Käppler      | Senior Engineer, Memory        |
 | Member                | Jake Lear             | Engineering manager, Plan      |
-| | | |
 
 ## Meetings
 

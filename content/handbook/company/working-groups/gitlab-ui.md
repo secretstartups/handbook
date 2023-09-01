@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "gitlab-ui (CSS and Reusable Components)"
 description: "Gitlab-ui drive forward the roadmap of our CSS Cleanup/Restructuring and the implementation of Reusable Components based on our design system."
-canonical_path: "/company/team/structure/working-groups/gitlab-ui/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -31,14 +23,14 @@ All to-do list items in the main [Epic](https://gitlab.com/groups/gitlab-org/-/e
 
 Especially the following items:
 
-*  Shepherd restructuring for splitting generic CSS in GitLab UI and page 
+- Shepherd restructuring for splitting generic CSS in GitLab UI and page
 specific in CE/EE by creating a utility-class library based on the design system
-*  Ensure utility-class library is available and usable within GitLab, ensuring the entire set of classes can be imported into Gitlab without clashes and there is documentation to guide consumers on how to use them
-*  Establish working group FE members as GitLab UI maintainers
-*  Ensure there is clear documentation written for when and how new components
+- Ensure utility-class library is available and usable within GitLab, ensuring the entire set of classes can be imported into Gitlab without clashes and there is documentation to guide consumers on how to use them
+- Establish working group FE members as GitLab UI maintainers
+- Ensure there is clear documentation written for when and how new components
 should be introduced into the design system and the product, including responsible
 counterparts
-*  Ensure there is clear documentation of how to implement GitLab UI components
+- Ensure there is clear documentation of how to implement GitLab UI components
 and utility classes
 
 ## Roles and Responsibilities

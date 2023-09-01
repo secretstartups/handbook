@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GitLab.com Revenue Working Group"
 description: "GitLab Revenue Working Group aim to grow revenue by kickstarting the Growth group. Find more information here!"
-canonical_path: "/company/team/structure/working-groups/gitlab-com-revenue/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -26,7 +18,7 @@ To grow GitLab.com revenue by kickstarting the Growth group (PM, Engineering) un
 
 ## Exit Criteria
 
-* Successful completion of a singular, properly run experiment to improve revenue on .com
+- Successful completion of a singular, properly run experiment to improve revenue on .com
 
 ## Roles and Responsibilities
 
@@ -40,4 +32,3 @@ To grow GitLab.com revenue by kickstarting the Growth group (PM, Engineering) un
 | Executive Stakeholder | Paul Machle           | CFO                            |
 | Member                | Christopher Lefelhocz | Senior Dir of Development      |
 | Data Support          | Eli Kastelein         | Data Analyst, Growth           |
-

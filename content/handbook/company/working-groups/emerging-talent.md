@@ -1,8 +1,6 @@
 ---
-layout: markdown_page
 title: "Emerging Talent"
 description: "The Emerging Talent Working Group aims to build globally inclusive access to opportunities for those with 2 years or less experience in a domain"
-canonical_path: "/company/team/structure/working-groups/emerging-talent/"
 ---
 
 ## Attributes
@@ -21,16 +19,17 @@ canonical_path: "/company/team/structure/working-groups/emerging-talent/"
 
 ### Overview
 
-Our Emerging Talent strategy ignites GitLab to build toward creating globally inclusive access to opportunities so that everyone can contribute. Emerging Talent program participants, defined as talent with 2 years or less experience in a given domain, will be a value add as GitLab scales.  
+Our Emerging Talent strategy ignites GitLab to build toward creating globally inclusive access to opportunities so that everyone can contribute. Emerging Talent program participants, defined as talent with 2 years or less experience in a given domain, will be a value add as GitLab scales.
 
 These programs aim to bridge the gap between education and experience by offering curriculum and work-integrated learning to talent at the Associate level, with no academic-based prerequisites.
 .
 
 ### Goals
+
 1. Establish Emerging Talent Acquisition Strategy within Engineering.
 2. Build Emerging Talent Programs within Engineering.
-- FTE Rotation Program [Marketing Name = Associate Engineering Program aka AEP]
-- Internship Program [Marketing Name = Engineering Intership Program aka EIP]
+    - FTE Rotation Program [Marketing Name = Associate Engineering Program aka AEP]
+    - Internship Program [Marketing Name = Engineering Intership Program aka EIP]
 
 ### Exit Criteria
 
@@ -41,7 +40,7 @@ TBD
 | Working Group Role    | Person                                                                          |
 |:----------------------|:--------------------------------------------------------------------------------|
 | Executive Stakeholder | [Joerg Heilig](https://about.gitlab.com/company/team/#joergheilig)                              |
-| Facilitator / Program Lead          | [Justin Smith](https://about.gitlab.com/company/team/#jwrs)                     | 
+| Facilitator / Program Lead          | [Justin Smith](https://about.gitlab.com/company/team/#jwrs)                     |
 | Member           | Jessica Dallmar |
 | Member - PBP Lead            | [Giuliana Lucchesi](https://about.gitlab.com/company/team/#glucchesi) |
 | Functional Lead - Infrastructure and Quality | [Mek Stittri](https://about.gitlab.com/company/team/#meks)|

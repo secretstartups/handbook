@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Minorities in Tech - Pilot Mentoring Program Working Group"
 description: "Deliver Minorities in Tech (MIT) Mentoring Program aligning with the MIT TMRG Mentorship Initiative. Learn more!"
-canonical_path: "/company/team/structure/working-groups/mit-mentoring/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
  
@@ -33,15 +25,13 @@ Deliver Minorities in Tech (MIT) Mentoring Program aligning with the MIT TMRG Me
 | Engineering Lead | Darva Satcher           | Create Engineering Manager, Editor & Knowledge                           |
 | Digital Production Lead | Aricka Flowers           | Manager, Digital Production                           |
 | Executive Stakeholder           | Christopher Lefelhocz        | VP of Development         |
-| Executive Stakeholder           | Ryan O'Nell          | VP of Commercial Sales     |                                         
+| Executive Stakeholder           | Ryan O'Nell          | VP of Commercial Sales     |
 
 ## Exit Criteria
 
 The Minorities in Tech Mentoring Program Working Group will deliver:
-* [x] Develop a Framework for an MIT Mentoring Program
-* [x] Identify Participates
-* [x] Provide Training for Participants
-* [x] Run the first MIT Mentoring Program
-* [x] Successfully graduate the first class of Mentor / Mentee Pairs
-
- 
+- [x] Develop a Framework for an MIT Mentoring Program
+- [x] Identify Participates
+- [x] Provide Training for Participants
+- [x] Run the first MIT Mentoring Program
+- [x] Successfully graduate the first class of Mentor / Mentee Pairs

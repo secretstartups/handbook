@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Internship Pilot Working Group"
 description: The business goal is to run a pilot internship program to determine feasibility for future programs.
-canonical_path: "/company/team/structure/working-groups/internship-pilot/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -148,9 +140,9 @@ Phase 1 focuses on designing and launching the internship program with the prima
         1. Making a job offer(s) to 50% of the interns in the program
 1. Assignees for the program roles ️=> `100%`
     1. Program Lead (overall DRI) - Roos Takken
-    2. Recruitement Lead - Liam McNally
-    3. Program Coordinator - Jean du Plessis
-    4. Program Coordinator - Nick Nguyen
+    1. Recruitement Lead - Liam McNally
+    1. Program Coordinator - Jean du Plessis
+    1. Program Coordinator - Nick Nguyen
 
  (✅ Done, ✏️ In-progress)
 

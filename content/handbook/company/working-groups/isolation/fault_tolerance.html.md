@@ -1,5 +1,4 @@
 ---
-layout: markdown_page
 title: "Fault Tolerance"
 description: "GitLab has to be a highly-available, mission critical system."
 ---

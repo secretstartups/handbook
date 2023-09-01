@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "FedRAMP Execution Working Group"
 description: "The charter of this working group is to drive execution of FedRAMP compliance."
-canonical_path: "/company/team/structure/working-groups/fedramp-execution/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

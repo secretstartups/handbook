@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Log Aggregation Working Group"
 description: "The Log Aggregation Working Group aim to increase the quality, value, and accessibility of our GitLab.com logs. Read more here!"
-canonical_path: "/company/team/structure/working-groups/log-aggregation/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

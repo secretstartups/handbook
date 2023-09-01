@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Commercial & Licensing Working Group"
 description: "Define business & customer experience requirements for a system to handle commercial and licensing transactions into the future."
-canonical_path: "/company/team/structure/working-groups/commercial-licensing/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -17,7 +9,7 @@ canonical_path: "/company/team/structure/working-groups/commercial-licensing/"
 |-----------------|----------------|
 | Date Created    | September 1, 2020   |
 | End Date        | October 30, 2020   |
-| Slack           | [#commercial_steerco](https://gitlab.slack.com/archives/C019UNKBH7B) (only accessible from within the company) | 
+| Slack           | [#commercial_steerco](https://gitlab.slack.com/archives/C019UNKBH7B) (only accessible from within the company) |
 | Google Doc      | [Commercial & Licensing Working Group](https://docs.google.com/document/d/1MWC3oT4DqCrJ6bFQFsW9C_PsWMIyDB_ygsMwcGyDS6s/edit) (only accessible from within the company) |
 
 ## Situation
@@ -30,15 +22,14 @@ Define business & customer experience requirements for a system to handle commer
 
 ## Exit Criteria
 
-* TBD
-
+- TBD
 
 ## Members
 
 | Person                | Title                                  |
 |-----------------------|----------------------------------------|
 | Scott Williamson      | Chief Product Officer                         |
-| Bryan Wise            | VP of IT                               |               
+| Bryan Wise            | VP of IT                               |
 | Jack Brennan          | Director, Sales Systems                |
 | Dara Warde            | Director of Marketing Operations       |
 | Christopher Nelson    | Sr. Director of Enterprise Applications|

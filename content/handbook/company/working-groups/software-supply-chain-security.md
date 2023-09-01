@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Software Supply Chain Security Working Group"
 description: "Implement key SSCS features across GitLab"
-canonical_path: "/company/team/structure/working-groups/software-supply-chain-security/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

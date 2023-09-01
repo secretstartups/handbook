@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Product Career Development Framework Working Group"
-canonical_path: "/company/team/structure/working-groups/product-career-development-framework/"
 description: "Learn more about the Product Career Development Framework Working Group goals, processes, and teammates!"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

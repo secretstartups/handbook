@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "MLOps Working Group"
 description: "Learn more about the GitLab MLOps Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/mlops/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -39,38 +31,39 @@ This Working Group has the following goals:
 
 As per Wikipedia, **MLOps** or **ML Ops** is a set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently.
 
-![](image.png)
+![MLOps Vendiagram](../mlops.png)
 
 Read more about the topic area from the links below:
 
-  - [MLOps Wikipedia](https://en.wikipedia.org/wiki/MLOps)
-  - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
-  - [Machine Learning Operations](https://ml-ops.org/)
-  - [MLOps Slack Group](https://mlops.community/)
+- [MLOps Wikipedia](https://en.wikipedia.org/wiki/MLOps)
+- [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+- [Machine Learning Operations](https://ml-ops.org/)
+- [MLOps Slack Group](https://mlops.community/)
 
 ### Related GitLab Documentation
 
-  - [MLOps Single-Engineer Group](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
-  - [MLOps Primer](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
-  - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
-  - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
-  - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
-  - [Group Direction - AI Model Validation](https://about.gitlab.com/direction/ai-powered/ai_model_validation/)
-  - [AI Model Validation Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)
+- [MLOps Single-Engineer Group](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
+- [MLOps Primer](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
+- [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
+- [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
+- [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
+- [Group Direction - AI Model Validation](https://about.gitlab.com/direction/ai-powered/ai_model_validation/)
+- [AI Model Validation Group](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/)
 
 ### Related GitLab projects
 
-  - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
+- [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
     - [Architecture Diagram](https://gitlab.com/gitlab-org/spamcheck#architecture-diagram)
-  - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
-  - [UnReview](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/projects/unreview/)
+- [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
+- [UnReview](https://about.gitlab.com/handbook/engineering/development/data-science/ai-assisted/projects/unreview/)
     - [Architecture Diagram](https://about.gitlab.com/handbook/engineering/development/data-science/appliedml/projects/unreview/#architecture)
 
 ### Related ML Slack channels
- - #g_applied_ml
- - #g_machine-learning
- - #feed_tanuki-stan
- - #security-ml
+
+- #g_applied_ml
+- #g_machine-learning
+- #feed_tanuki-stan
+- #security-ml
 
 ## Exit Criteria
 
@@ -83,8 +76,7 @@ The charter of this working group is to bridge the gap between different teams t
 ## Outcome
 
 1. The Working Group has brought together various teams that are working on different ways to leverage Machine Learning within GitLab the product and in their day-to-day work. It has given these teams a platform to discuss their mission and an opportunity to share knowledge on projects they are currently undertaking and what they are looking to achieve in the near future.
-
-2. We will move forward with the creation of a monthly MLOps meetup that focuses on sharing ideas and showcasing work done by different teams, in a less formalized structure, to enhance awareness across the company.
+1. We will move forward with the creation of a monthly MLOps meetup that focuses on sharing ideas and showcasing work done by different teams, in a less formalized structure, to enhance awareness across the company.
 
 ## Roles and Responsibilities
 

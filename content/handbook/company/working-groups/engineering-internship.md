@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Engineering Internship"
 description: "Establish an Engineering Internship to Hire program"
-canonical_path: "/company/team/structure/working-groups/engineering-internship/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -28,7 +20,7 @@ Due to the high probability of discussing applicants, the recordings and documen
 ## Business Goal
 
 1. To run an inclusive engineering internship program to provide all qualifying candidates with a fair and equal opportunity. This program allows us to create opportunities for candidates, diversify the experience levels of our teams, and bring fresh perspectives to our initiatives.
-2. To establish processes and support to give our successful internship applicants the best chance to successfully complete the internship and onboard in a full-time role at GitLab.
+1. To establish processes and support to give our successful internship applicants the best chance to successfully complete the internship and onboard in a full-time role at GitLab.
 
 This working group aims to build on the previous work from the [internship-pilot program](../internship-pilot) from 2020.
 
@@ -38,20 +30,20 @@ This working group aims to build on the previous work from the [internship-pilot
 
 - ✅ Form a team to re-establish the engineering internship
 - ✅ Open an evergreen internship for applicants
-- ✅ Identify and work with several hiring managers to review, screen, and interview candidates for specific roles 
+- ✅ Identify and work with several hiring managers to review, screen, and interview candidates for specific roles
 
 #### Stage 2: Iterate on the process with a small number of teams  `=> 100%`
 
 - ✅ Create role specific recruitment funnels
 - ✅ Determine requirements and benchmarks for technical interviews
-- ✅ Support managers, teams, and interns through the first round of internships 
+- ✅ Support managers, teams, and interns through the first round of internships
 - ✅ Re-introduce the Junior level, renamed Associate, and add as a pathway from internship
 
 #### Stage 3: Plan for FY24 `=> 0%`
 
 -  ✅ Work through options to extend the internship in FY24
 
-Options to extend the [internship program for Engineering](https://about.gitlab.com/handbook/engineering/internships/) in FY24 and beyond are being worked through as part of the recruitment team emerging talent program. 
+Options to extend the [internship program for Engineering](https://about.gitlab.com/handbook/engineering/internships/) in FY24 and beyond are being worked through as part of the recruitment team emerging talent program.
 
 ## Roles and Responsibilities
 

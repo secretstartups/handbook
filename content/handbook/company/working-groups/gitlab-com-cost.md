@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GitLab.com Cost Working Group"
 description: "GitLab Cost Working Group aim to reduce the cost of running GitLab.com to within acceptable levels. View more information here!"
-canonical_path: "/company/team/structure/working-groups/gitlab-com-cost/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -26,8 +18,8 @@ To reduce the cost of running GitLab.com cost to within acceptable levels, and t
 
 ## Exit Criteria
 
-* Cost savings goal achieved
-* Infrastructure cost KPI(s) defined
+- Cost savings goal achieved
+- Infrastructure cost KPI(s) defined
 
 ## Roles and Responsibilities
 

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "CI/CD Build Speed (time-to-result)"
 description: "The objective is to establish GitLab CI build performance as the market leader."
-canonical_path: "/company/team/structure/working-groups/ci-build-speed/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-  {:toc}
 
 ## Attributes
 
@@ -42,13 +34,13 @@ Additionally, to date, competitors, ([Github](https://github.blog/2022-12-08-exp
 
 1. CI build speed benchmark process codified in the handbook.
 1. Initial blog post published covering GitLab CI build speed and performance.
-2. Sisense charts added as Product PIs for monitoring.
+1. Sisense charts added as Product PIs for monitoring.
 
 ## Roles and Responsibilities
 
-| Working Group Role    | Person                 | 
+| Working Group Role    | Person                 |
 |-----------------------|------------------------|
 | Executive sponsor | Mike Flouton @mflouton |
-| Facilitator           | Darren Eastman @DarrenEastman        | 
+| Facilitator           | Darren Eastman @DarrenEastman        |
 | Functional Lead(s)    | tbd                    |
-| Member                | tbd                    | 
+| Member                | tbd                    |

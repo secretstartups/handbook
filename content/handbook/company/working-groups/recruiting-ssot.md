@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Talent Acquisition SSOT"
 description: "The GitLab Talent Acquisition SSOT will be used by Finance for forecasting and Talent Acquisition for hiring. Find more information here!"
-canonical_path: "/company/team/structure/working-groups/recruiting-ssot/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -22,15 +14,14 @@ canonical_path: "/company/team/structure/working-groups/recruiting-ssot/"
 
 ## Business Goal
 
-To create a Talent Acquisition SSOT and a reconciliation process to use with the Talent Acquisition SSOT. The Talent Acquisition SSOT will be used by Finance for forecasting and Talent Acquisition for hiring. It will include all forecasted hiring for the fiscal year that is agreed upon by Finance and the GitLab [E-Group](/company/team/structure/#e-group).
+To create a Talent Acquisition SSOT and a reconciliation process to use with the Talent Acquisition SSOT. The Talent Acquisition SSOT will be used by Finance for forecasting and Talent Acquisition for hiring. It will include all forecasted hiring for the fiscal year that is agreed upon by Finance and the GitLab [E-Group]({{< ref "structure#e-group" >}}).
 
 ## Exit Criteria
 
-* Create a Talent Acquisition SSOT document that has all the basic information needed for Talent Acquisition to post reqs for the fiscal year and be able to contact hiring managers for additional detail
-* Be able to reconcile GitLab's talent acquisition platform with the Talent Acquisition SSOT on a monthly basis
-* Be able to reconcile recent hires with Talent Acquisition SSOT on a monthly basis
-* Create processes for when changes are required from the Talent Acquisition SSOT
-
+- Create a Talent Acquisition SSOT document that has all the basic information needed for Talent Acquisition to post reqs for the fiscal year and be able to contact hiring managers for additional detail
+- Be able to reconcile GitLab's talent acquisition platform with the Talent Acquisition SSOT on a monthly basis
+- Be able to reconcile recent hires with Talent Acquisition SSOT on a monthly basis
+- Create processes for when changes are required from the Talent Acquisition SSOT
 
 ## Roles and Responsibilities
 

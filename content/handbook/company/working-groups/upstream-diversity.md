@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Upstream Diversity Working Group"
 description: "This working group will design and launch a program to harness the technical talent of the GitLab team to teach technical skills to members of underrepresented groups."
-canonical_path: "/company/team/structure/working-groups/upstream-diversity/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -32,16 +24,17 @@ GitLab has switched to an outbound-only talent acquisition model in an effort to
 ## Exit Criteria
 
 ### Knowledge sharing => 75%
-* Create a list of 25 GitLab team members who want to volunteer as GitLab coaches ✅
-* Find 10 vendors to reach out to (based on our parameters: locality diverse/contributing to enlarging tech talent pool upstream etc.). And narrow down to 3 vendors to collaborate with ✅
-* Establish a collaboration with 3 vendors and matching at least 15 GitLab coaches to the curriculum ✏️
+
+- Create a list of 25 GitLab team members who want to volunteer as GitLab coaches ✅
+- Find 10 vendors to reach out to (based on our parameters: locality diverse/contributing to enlarging tech talent pool upstream etc.). And narrow down to 3 vendors to collaborate with ✅
+- Establish a collaboration with 3 vendors and matching at least 15 GitLab coaches to the curriculum ✏️
 Matching efforts will continue [here](/handbook/engineering/volunteer-coaches-for-urgs/)
-* Align and contribute to our existing outreach programs, example: [GitLab for Startups](https://about.gitlab.com/solutions/startups/) and [GitLab Open Source](https://about.gitlab.com/solutions/open-source/) and make a proposal for an initiative that contributes to our knowledge sharing goal. For example free licenses for high school students interested in tech/ people switching careers. ✅
+- Align and contribute to our existing outreach programs, example: [GitLab for Startups](https://about.gitlab.com/solutions/startups/) and [GitLab Open Source](https://about.gitlab.com/solutions/open-source/) and make a proposal for an initiative that contributes to our knowledge sharing goal. For example free licenses for high school students interested in tech/ people switching careers. ✅
 
 ### Infrastructure => 100%
-* Explore 10 global hardware initiatives facilitating the usage of tech for under represented groups ✅
-* Write up a proposal for a donation program with one of the global initiatives with reaching 50 people and present to E-Group ✅
 
+- Explore 10 global hardware initiatives facilitating the usage of tech for under represented groups ✅
+- Write up a proposal for a donation program with one of the global initiatives with reaching 50 people and present to E-Group ✅
 
 (✅ Done, ✏️ In-progress)
 

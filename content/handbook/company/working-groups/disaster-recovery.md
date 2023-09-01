@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Disaster Recovery Working Group"
 description: "The Disaster Recovery Working Group will determine what is needed to introduce a disaster recovery mechanism for GitLab.com."
-canonical_path: "/company/team/structure/working-groups/disaster-recovery/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -49,9 +41,8 @@ Planned:
 
 Completed:
 
-* Create and update [a single handbook page](https://internal.gitlab.com/handbook/engineering/gitlab-com-disaster-recovery), and deprecate resources in other locations. **DRI:** Fabian Zimmer
-* [Define and clarify the FY24 recovery goals](https://app.ally.io/objectives/2228900?time_period_id=155987) **DRI:** Steve Loyd
-
+- Create and update [a single handbook page](https://internal.gitlab.com/handbook/engineering/gitlab-com-disaster-recovery), and deprecate resources in other locations. **DRI:** Fabian Zimmer
+- [Define and clarify the FY24 recovery goals](https://app.ally.io/objectives/2228900?time_period_id=155987) **DRI:** Steve Loyd
 
 ## Roles and Responsibilities
 

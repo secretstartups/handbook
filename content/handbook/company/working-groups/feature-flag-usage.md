@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Feature Flag usage Working Group"
 description: "The feature flag usage working group aims to establish global policies and processes around the usage of feature flags in the development of GitLab"
-canonical_path: "/company/team/structure/working-groups/feature-flag-usage/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -29,7 +21,7 @@ This working group will co-ordinate the organization of the effort to improve th
 This group will create processes and policies that are as lean as possible in order to ensure that the way feature flags are used by engineers meets the needs of all stakeholders. Stakeholders for feature flags generally are individuals who care about the current state of features on GitLab.com and self-managed GitLab instances of a particular version.
 
 #### Definitions
-* **Feature Flag** - this isn't necessarily the [feature flag feature](https://docs.gitlab.com/ee/operations/feature_flags.html) but rather the way we [use feature flags in the development of GitLab](https://docs.gitlab.com/ee/development/feature_flags/index.html)
+- **Feature Flag** - this isn't necessarily the [feature flag feature](https://docs.gitlab.com/ee/operations/feature_flags.html) but rather the way we [use feature flags in the development of GitLab](https://docs.gitlab.com/ee/development/feature_flags/index.html)
 
 ### Exit Criteria
 
@@ -42,15 +34,15 @@ This group will create processes and policies that are as lean as possible in or
 
 ### Work in Progress
 
-* [Capturing the current feature flag lifecycle](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/)
+- [Capturing the current feature flag lifecycle](https://about.gitlab.com/handbook/product-development-flow/feature-flag-lifecycle/)
 
 ## Roles and Responsibilities
 
-The functional leads will be repsonsible for:
+The functional leads will be responsible for:
 
-* Representing the needs of individual stakeholders in their department/sub-dept
-* Gathering and consolidating feedback on specific proposals from their department/sub-dept
-* Communicating the output from the working group (if any) and answering questions from their dept/sub-dept
+- Representing the needs of individual stakeholders in their department/sub-dept
+- Gathering and consolidating feedback on specific proposals from their department/sub-dept
+- Communicating the output from the working group (if any) and answering questions from their dept/sub-dept
 
 Ideally the functional lead is someone who is an IC that might be affected by the policy put in place. but anyone capable of representing a department or sub-department in the fashion mentioned above is welcome.
 

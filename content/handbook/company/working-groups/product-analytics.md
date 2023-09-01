@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Product Analytics Working Group"
 description: "The GitLab Product Analytics Working Group fast track GitLab to becoming a data-driven organisation by meeting the data needs of the Product team."
-canonical_path: "/company/team/structure/working-groups/product-analytics/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -23,20 +15,21 @@ canonical_path: "/company/team/structure/working-groups/product-analytics/"
 ## Business Goal
 
 Fast track GitLab to becoming a data-driven organisation by meeting the data needs of the Product team. Specifically:
-* Enable Product to measure stage-specific usage activity, including read activity (frontend; a user in GitLab views a page) and write activity (backend; an object is created)
-* Track stage-specific health metrics like [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/).
+
+- Enable Product to measure stage-specific usage activity, including read activity (frontend; a user in GitLab views a page) and write activity (backend; an object is created)
+- Track stage-specific health metrics like [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/).
 
 ## Exit Criteria
 
-* Create a Periscope dashboard for a single stage that measures SMAU and feature use on GitLab.com. 
-* Ensure we can replicate this for other stages with great documentation.
+- Create a Periscope dashboard for a single stage that measures SMAU and feature use on GitLab.com.
+- Ensure we can replicate this for other stages with great documentation.
 
 ## Roles and Responsibilities
 
 | Working Group Role    | Person                | Title                                        |
 |-----------------------|-----------------------|----------------------------------------------|
 | Functional Lead       | Luca Williams         | Product Manager, Fulfillment                 |
-| Functional Lead       | Bartek Marnane        | Dir of Engineering, Growth                   | 
+| Functional Lead       | Bartek Marnane        | Dir of Engineering, Growth                   |
 | Functional Lead       | Dave Smith            | Manager, Reliability Engineering             |
 | Executive Stakeholder | Scott Williamson      | VP of Product                                |
 | Member                | Donald Cook           | FE Engineering Manager, Plan                 |

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Real-Time Design Document"
 description: "The design decisions behind the current implementation of real-time in GitLab"
-canonical_path: "/company/team/structure/working-groups/real-time/design_document.html"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Introduction
 
@@ -23,7 +15,7 @@ Polling is also not very real-time unless polling intervals can be dropped subst
 
 Even pages that successfully use multiple polling requests; such as the MR page for title and description, notes, widgets, and so on, would benefit from faster updates.
 
-<!-- 
+<!--
 We decided to explore Pub/Sub messaging systems because it would make these simpler. On a page, we could subscribe to multiple channels / events and they would go through one connection.
 
 This could also potentially take some load off Redis and our web servers when we eliminate those polling requests. We'd have extra load going to the websocket server and Redis for Pub/Sub but I think that's more efficient so we'd still see a gain overall.
@@ -50,13 +42,13 @@ The initial feature is [viewing assignees on issues in real-time](https://gitlab
 
 ### How it works
 
-For the simplest deployments, [enabling Action Cable](https://docs.gitlab.com/omnibus/settings/actioncable.html) enables the first feature by default. 
+For the simplest deployments, [enabling Action Cable](https://docs.gitlab.com/omnibus/settings/actioncable.html) enables the first feature by default.
 
 The feature can also be toggled using two feature flags:
 
 | | |
 | --- | --- |
-| `real_time_issue_sidebar` | Attempts to establish a WebSocket connection when viewing an issue and responds to update signals | 
+| `real_time_issue_sidebar` | Attempts to establish a WebSocket connection when viewing an issue and responds to update signals |
 | `broadcast_issue_updates` | Broadcasts a signal when an issue is updated |
 
 Sometimes, the nodes serving Web requests aren't the same ones serving WebSocket connections (see "How to implement it on premise") so don't have Action Cable enabled. The feature flags can be used to enable the feature explicitly.
@@ -155,9 +147,8 @@ Action Cable was the first choice because it is included with Rails. Scalability
 
 ### Documentation
 
-* [Omnibus settings](https://docs.gitlab.com/omnibus/settings/actioncable.html)
-* [Real-time issue sidebar user documentation](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#real-time-sidebar)
-* [Developer Documentation](https://docs.gitlab.com/ee/development/real_time.html)
-* [Performance testing](https://gitlab.com/gitlab-org/quality/performance/-/issues/256)
-* [Readiness review for GitLab.com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/355)
-
+- [Omnibus settings](https://docs.gitlab.com/omnibus/settings/actioncable.html)
+- [Real-time issue sidebar user documentation](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#real-time-sidebar)
+- [Developer Documentation](https://docs.gitlab.com/ee/development/real_time.html)
+- [Performance testing](https://gitlab.com/gitlab-org/quality/performance/-/issues/256)
+- [Readiness review for GitLab.com](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/355)

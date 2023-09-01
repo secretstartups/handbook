@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Product Development Flow Working Group"
 canonical_path: "/company/team/structure/working-groups/product-development-flow/"
-description: "Learn more about the Product Development Flow including problems to solve, business goals, roles and responsibilities."
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -31,25 +23,26 @@ description: "Learn more about the Product Development Flow including problems t
 For more details please reference the [product development flow survey slides](https://docs.google.com/presentation/d/1BxUVcoPyjYkR7MOHn1aZGllMCqlH5eb27JKM_bb_uDA/edit#slide=id.g59bfc474c5_2_145).
 
 **Doesn’t Encourage Cross-Functional Collaboration**
+
 - How can we promote optimal cross-functional involvement in the product development flow (e.g. where would we benefit from having TWs be informed earlier or where can QEs participate earlier)?
 - How can we ensure tracks and phases don’t silo activities and continually encourage cross-functional contribution #everyonecancontribute?
 
 **Too Many Steps**
-- How can we reduce the number of “required” steps in the product development flow  without losing key steps needed for convergence points (such as workflow states and release notes aggregation)? 
+
+- How can we reduce the number of “required” steps in the product development flow  without losing key steps needed for convergence points (such as workflow states and release notes aggregation)?
 - How can we better enable teams to work efficiently by providing the right amount of details in tandem with opportunity for personalization for their specific needs (e.g. an activities/outcomes model rather than just a step by step)?
 
 **Too Prescriptive**
+
 - How can we reduce verbosity in the product development flow (e.g. provide a better balance of visual snapshots and written descriptions)?
 - How do we better focus teams on delivering value by enabling them to strike their own balance between when to build new features and when to improve existing features (e.g. detail out the Improve phase in an alternate style as a test run)?
 
-
 ## Business Goals
+
 Iterate on the product development flow to shift away from a "step by step" and more toward being a container/playbook of strategies/tactics to provide teams with:
 
 1. Various activities/outcomes to employ at each phase to identity what to build or improve to solve a problem.
-
-2. Minimal, required processes teams need to follow at each phase to maintain efficient, transparent and predictable workflow cross-functionally.
-
+1. Minimal, required processes teams need to follow at each phase to maintain efficient, transparent and predictable workflow cross-functionally.
 
 ### Protocols and Processes
 
@@ -69,15 +62,14 @@ To propose an idea or solution that addresses one of the [defined problems](http
 
 **NOTE:** Please pay attention to your To-Do list! We'll not hold the train on MRs for more than 24 hours, specially non-controversial ones.
 
-
 ### Exit Criteria
 
 **Review and Optimize the current Product Development Workflow**
 
- - Define the Required and Optional workflow phases.
- - Optimize the existing labels currently required in each phase.
- - Review the finalized Outcomes/ Activities section in different workflows to incorporate different issue types - `feature`, `bug`, `experiment`, etc.
- - Build in early engagement and collaboration with all counterparts in each phase as needed.
+- Define the Required and Optional workflow phases.
+- Optimize the existing labels currently required in each phase.
+- Review the finalized Outcomes/ Activities section in different workflows to incorporate different issue types - `feature`, `bug`, `experiment`, etc.
+- Build in early engagement and collaboration with all counterparts in each phase as needed.
 
 **Define what success looks like for the PD-FLOW**
 
@@ -86,24 +78,24 @@ To propose an idea or solution that addresses one of the [defined problems](http
 
 **Dogfooding**
 
- - Identify a Section/ group to dogfood the new flow.
- - Document and iterate on suggestions and feedback.
+- Identify a Section/ group to dogfood the new flow.
+- Document and iterate on suggestions and feedback.
 
 **Downstream Process Review**
 
- - Identify any downstream process changes that might need review.
-   - [Quad Planning process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130) 
+- Identify any downstream process changes that might need review.
+    - [Quad Planning process](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/9130)
 
 **Matrix and Dashboards**
 
- - Document all dashboards that need to be updated.
- - Define what matrix should be measured and how.
- - Identify any new dashboard needs.
+- Document all dashboards that need to be updated.
+- Define what matrix should be measured and how.
+- Identify any new dashboard needs.
 
 **Communication**
 
- - Communicate the new product development flow change broadly.
- - Conduct an AMA to answer all questions / concerns.
+- Communicate the new product development flow change broadly.
+- Conduct an AMA to answer all questions / concerns.
 
 ## Roles and Responsibilities
 

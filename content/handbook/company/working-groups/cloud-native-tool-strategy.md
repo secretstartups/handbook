@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Cloud Native Tools Strategy Working Group"
-canonical_path: "/company/team/structure/working-groups/cloud-native-tool-strategy/"
 description: "Learn more about how GitLab wants to adopt new technology to accelerate feature velocity and leverage the availability benefits cloud-native tech can offer!"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -28,21 +20,21 @@ description: "Learn more about how GitLab wants to adopt new technology to accel
 
 ## Business Goals
 
-1. 
-1. 
-1. 
+1.
+1.
+1.
 
 ### Protocols and Processes
 
-1. We will have a recurring weekly sync with the working group 
-1. We will use a issue board for assigning tasks and delegating efforts across the working group 
-1. We will track efforts in phases, which will be broken up into epics 
+1. We will have a recurring weekly sync with the working group
+1. We will use a issue board for assigning tasks and delegating efforts across the working group
+1. We will track efforts in phases, which will be broken up into epics
 
 ### Exit Criteria
 
-1. 
-1. 
-1. 
+1.
+1.
+1.
 
 
 ## Roles and Responsibilities
@@ -72,6 +64,4 @@ description: "Learn more about how GitLab wants to adopt new technology to accel
 ## Meetings
 
 Meetings are recorded and available on
-YouTube in the [Cloud Native Tools]() playlist. The playlist is public, although, some meetings maybe private due to the nature of the material covered in the call. 
-
-
+YouTube in the Cloud Native Tools playlist. The playlist is public, although, some meetings maybe private due to the nature of the material covered in the call.

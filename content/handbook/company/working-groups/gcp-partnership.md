@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GCP Partnership Working Group"
 description: "Better together with GCP and GitLab"
-canonical_path: "/company/team/structure/working-groups/gcp-partnership/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -30,11 +22,11 @@ canonical_path: "/company/team/structure/working-groups/gcp-partnership/"
 | Onboarding | Patrick Faucher | Omar Fernandez |
 | Design/UX |  | Pedro Moreira da Silva |
 
-### Overview & Goals 
+## Overview & Goals
 
 This is a cross-functional working group to establish a better together vision and experience for GCP/GitLab users and customers. This working group plans to deliver some meaningful improvements to integration, user experiences in GCP and GitLab to make it easier than ever to use GitLab for GCP products.
 
-### Helpful links 
+## Helpful links
 
 1. Internal [Google Drive](https://drive.google.com/drive/u/0/folders/1OC7zdMWFkiRUD7psxYsNS8yikvQLwbh1)
 1. Internal [GitLab project](https://gitlab.com/gitlab-com/alliances/google/console-integration/)

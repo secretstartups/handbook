@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Rate Limit Architecture Working Group"
 description: "Learn more about the Rate Limit Architecture Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/rate-limit-architecture/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -24,32 +16,30 @@ canonical_path: "/company/team/structure/working-groups/rate-limit-architecture/
 
 The Rate Limit Architecture WG was active from April - December 2022.  In FY23-Q1 we regularly experienced site incidents related to a lack of rate limits on various features.  We initiated an Engineering Allocation for [Rate Limiting Across DevOps Platform](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/77) which performed an Rate Limiting audit for each DevOps Stage, and updated development docs and guidelines to provide clearer rate limit related guidance, and closed 70+ rate limiting issues.  This resulted in increased reliability and a major reduction in the number of rate limit related site incidents.
 
-Following the Engineering Allocation we initiated this Working Group to establish a forward looking vision for Rate Limiting.  The group developed a [Rate Limiting Architecture Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/rate_limiting/) which captures this vision.  The group also collaborated to identify which GitLab stage group would own this functionality long term.  This was documented by adding the [Rate Limiting Framework to the Application Performance group](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/114123).  The blueprint will continue to be reviewed regularly as part of the Architecture Evolution Workflow process.  
+Following the Engineering Allocation we initiated this Working Group to establish a forward looking vision for Rate Limiting.  The group developed a [Rate Limiting Architecture Blueprint](https://docs.gitlab.com/ee/architecture/blueprints/rate_limiting/) which captures this vision.  The group also collaborated to identify which GitLab stage group would own this functionality long term.  This was documented by adding the [Rate Limiting Framework to the Application Performance group](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/114123).  The blueprint will continue to be reviewed regularly as part of the Architecture Evolution Workflow process.
 
 As the Working Group has accomplished it's exit criteria we made the decision to disband the group.
 
-
 ### Context
 
-During FY23-Q1 we prioritized an engineering allocation for [Rate Limiting Across DevOps Platform](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/77) focused on identifying and addressing denial of service (DoS) vectors via rate and application limits.  So far that effort has been successful in addressing [70+ of DoS related issues](https://gitlab.com/dashboard/issues?scope=all&state=closed&label_name[]=availability%3A%3Alimit).  
+During FY23-Q1 we prioritized an engineering allocation for [Rate Limiting Across DevOps Platform](https://gitlab.com/gitlab-com/ops-sub-department/ops-engineering-management/-/issues/77) focused on identifying and addressing denial of service (DoS) vectors via rate and application limits.  So far that effort has been successful in addressing [70+ of DoS related issues](https://gitlab.com/dashboard/issues?scope=all&state=closed&label_name[]=availability%3A%3Alimit).
 
 In addition to addressing DoS vectors to ensure high availability we have goals around:
 
-* consistent monitoring and alerting on limits
-* consistent, comprehensive documentation of limits
-* synchronization of GitLab.com limit settings with GitLab default limits
+- consistent monitoring and alerting on limits
+- consistent, comprehensive documentation of limits
+- synchronization of GitLab.com limit settings with GitLab default limits
 
 Currently there are multiple approaches to rate limiting documented in [GitLab application limits development documentation](https://docs.gitlab.com/ee/development/application_limits.html).
 
-### Exit Criteria 
+### Exit Criteria
 
 This Working Group has the following goals:
 
 1. Develop a recommendation for the preferred way to implement application rate limits within GitLab
-1. Document this recommendation for GitLab developers in an [Architecture Evolution Blueprint](/handbook/engineering/architecture/workflow/).
+1. Document this recommendation for GitLab developers in an [Architecture Evolution Blueprint](https://about.gitlab.com/handbook/engineering/architecture/workflow/).
 1. Document iterative project plan for short term, medium term, and long term rate limiting improvements
 1. Determine organizational approach to funding effort on this work (e.g. new team, borrow, SIG, fan out, etc.)
-
 
 ### Roles and Responsibilities
 
@@ -66,4 +56,3 @@ This Working Group has the following goals:
 | Member | Markus Koller | Senior Backend Engineer, Integrations |
 | Member | Grant Hickman | Sr Product Manager, Integrations |
 | Architecture Evolution Coach | Andrew Newdigate | Distinguished Engineer, Infrastructure |
-

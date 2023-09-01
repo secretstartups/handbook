@@ -1,15 +1,8 @@
 ---
-layout: markdown_page
 title: "Time-Decay Data"
 description: "Blueprint for time-decay data"
-canonical_path: "/company/team/structure/working-groups/database-scalability/time-decay.html"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 ## Time-Decay data
 
 This document describes the *time-decay pattern* introduced in the [Database Scalability Working Group](index.html#time-decay-data).

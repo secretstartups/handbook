@@ -1,16 +1,7 @@
 ---
-layout: markdown_page
 title: "Frontend Vision Group"
 description: "Write guidelines about frontend architecture practices we want to have on GitLab frontend in three years"
-canonical_path: "/company/team/structure/working-groups/frontend-vision/"
 ---
-
-## On this page
-
-{:.no_toc}
-
-- TOC
-  {:toc}
 
 ## Attributes
 
@@ -24,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/frontend-vision/"
 
 ### Context
 
-Currently, our frontend development guidelines only document features and practices _we are currently using in production_. There is no clear documentation about what we see as a desired state of the frontend at GitLab, nor guidelines regarding practices we plan to deprecate. It would be nice to define a set of high-level expectations regarding frontend architecture, tech stack, and best practices as we see them in the scope of three years from now. Here is a non-exhaustive list of topics we should discuss:
+Currently, our frontend development guidelines only document features and practices *we are currently using in production*. There is no clear documentation about what we see as a desired state of the frontend at GitLab, nor guidelines regarding practices we plan to deprecate. It would be nice to define a set of high-level expectations regarding frontend architecture, tech stack, and best practices as we see them in the scope of three years from now. Here is a non-exhaustive list of topics we should discuss:
 
 - Single-Page Application vs Multi-Page Application vs hybrid approach (multiple SPA's that handle some functionality).
 - Server-Side rendering

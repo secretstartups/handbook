@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Licensing and Transactions Improvements Working Group"
 description: "This group within GitLab aims to quickly identify and address actionable, high priority iterations to our portal process. Learn more!"
-canonical_path: "/company/team/structure/working-groups/licensing-transactions-improvements/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,7 +19,7 @@ Quickly identify and address actionable, high priority iterations to our portal 
 
 ## Exit Criteria
 
-This group is presently being re-evaluated for project scope and work to be done. 
+This group is presently being re-evaluated for project scope and work to be done.
 
 ## Roles and Responsibilities
 

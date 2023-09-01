@@ -3,12 +3,6 @@ layout: markdown_page
 title: "Data POC Working Group"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
 ## Attributes
 
 | Property     | Value |
@@ -24,7 +18,7 @@ To successfully execute a proof of concept on a particular data analytics soluti
 
 ## Exit Criteria
 
-* All test plans fully completed and recommendation of next steps defined
+- All test plans fully completed and recommendation of next steps defined
 
 ## Roles and Responsibilities
 

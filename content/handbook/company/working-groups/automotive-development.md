@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Automotive Development"
 description: "The Automotive Development Working Group is a cross-functional group focused on gathering requirements and providing product support for automotive development use cases."
-canonical_path: "/company/team/structure/working-groups/automotive-development/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -40,14 +32,14 @@ Automotive software development is characterized by a complex combination of:
 
 ### Goals
 
-* Establish GitLab as the leading platform for automotive software development
-  * Capture requirements, use cases and product gaps in collaboration with major automotive customers
-  * Close product gaps and develop blueprints for automotive development workflows
-  * Obtain [TISAX](https://portal.enx.com/en-us/tisax/) certification
-  * Develop solutions for [ASPICE](https://www.automotivespice.com/) compliance
-* Enable Sales and CS to drive customer value and growth based on the developed solutions
-  * Provide Sales/SA/CSM enablements on automotive development use cases
-  * Develop a Sales strategy for automotive customers
+- Establish GitLab as the leading platform for automotive software development
+  - Capture requirements, use cases and product gaps in collaboration with major automotive customers
+  - Close product gaps and develop blueprints for automotive development workflows
+  - Obtain [TISAX](https://portal.enx.com/en-us/tisax/) certification
+  - Develop solutions for [ASPICE](https://www.automotivespice.com/) compliance
+- Enable Sales and CS to drive customer value and growth based on the developed solutions
+  - Provide Sales/SA/CSM enablements on automotive development use cases
+  - Develop a Sales strategy for automotive customers
 
 ### Exit Criteria
 
@@ -60,7 +52,7 @@ Automotive software development is characterized by a complex combination of:
 | Working Group Role      | Username        | Person                                                                   | Title                                                           |
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
 | Executive Stakeholder   | @david| David DeSanto | Chief Product Officer |
-| Functional Lead Compliance | @hbenson | Hillary Benson | Senior Director of Product Management, Sec, Monitor, & Data Science | 
+| Functional Lead Compliance | @hbenson | Hillary Benson | Senior Director of Product Management, Sec, Monitor, & Data Science |
 | Functional Lead Verify | @jreporter | Jackie Porter | Director of Product Management, Verify & Package |
 | Functional Lead Alliances | @DarwinJS | Darwin Sanoy | Principal Solutions Architect, GitLab Alliances |
 | Working Group DRI             | @mbruemmer | Martin Brümmer | Customer Success Engineer |

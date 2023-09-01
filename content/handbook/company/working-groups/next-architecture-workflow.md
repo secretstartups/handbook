@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Next Architecture Workflow"
 description: "The charter of this working group is to define and implement the next iteration of the Architecture Evolution Workflow."
-canonical_path: "/company/team/structure/working-groups/next-architecture-workflow/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -38,7 +30,7 @@ canonical_path: "/company/team/structure/working-groups/next-architecture-workfl
 ### Exit Criteria
 
 The charter of this working group is to define and implement the next iteration of the
-[Architecture Evolution Workflow](/handbook/engineering/architecture/workflow/).
+[Architecture Evolution Workflow](https://about.gitlab.com/handbook/engineering/architecture/workflow/).
 
 We want to make it easier and more intuitive to use the Workflow, but also to
 improve the process itself, to position team members better for delivering
@@ -51,9 +43,9 @@ great results by using it.
 - Lower the entry barrier for creating a proposal in a blueprint.
 - Establish criteria for when a blueprint should be used.
 - Identify cross-functional touchpoints and consolidate upstream processes like
-  [production readiness](/handbook/engineering/infrastructure/production/readiness/),
-  [AppSec reviews](/handbook/security/security-engineering/application-security/runbooks/review-process),
-  and [creation of release posts](/handbook/marketing/blog/release-posts/).
+  [production readiness](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/),
+  [AppSec reviews](https://about.gitlab.com/handbook/security/security-engineering/application-security/runbooks/review-process),
+  and [creation of release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/).
 - Develop strategy for incorporating this process and the Engineering roadmap into Product planning
   and prioritization via the [Cross-functional Prioritization][next-prioritization] framework.
 
@@ -65,8 +57,8 @@ great results by using it.
 - [Architecture Blueprints][blueprints] provide great context and detail, but
   they are completely disconnected from Product prioritization and thus rarely
   picked up into the workstream.
-- [Working Groups](/company/team/structure/working-groups/) involving technical
-  initiatives have a low rate of success. Many _choose_ to produce blueprints
+- [Working Groups](https://about.gitlab.com/company/team/structure/working-groups/) involving technical
+  initiatives have a low rate of success. Many *choose* to produce blueprints
   as part of their exit criteria, but blueprints are not standard and do very
   little to ensure the work gets done.
 - [Cross-functional Prioritization][next-prioritization] aims to replace
@@ -75,14 +67,12 @@ great results by using it.
   be coordinated.
 
 The following recording from the
-[Rate Limit Architecture](/company/team/structure/working-groups/rate-limit-architecture/)
+[Rate Limit Architecture]({{< ref "rate-limit-architecture" >}})
 Working Group included some organic discussion around this topic as we attempt
 to redefine exit criteria that will result in a successful implementation after
 the working group concludes:
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/um9deEVp618?start=1961" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
+{{< youtube "um9deEVp618?start=1961" >}}
 
 > *Note:* the video is private. Try [this link](https://www.youtube.com/watch?v=um9deEVp618&t=1961s)
 > if the embedded video is not playable.
@@ -90,9 +80,9 @@ the working group concludes:
 ### Prior Efforts
 
 #### Architecture Kickoff Working Group
-
-The [Architecture Kickoff](/company/team/structure/working-groups/architecture-kickoff/) working group
-was primarily concerned with [defining a 3/6/12-month technical roadmap](/handbook/engineering/architecture/roadmap/).
+"
+The [Architecture Kickoff]({{< ref "architecture-kickoff" >}}) working group
+was primarily concerned with [defining a 3/6/12-month technical roadmap](https://about.gitlab.com/handbook/engineering/architecture/roadmap/).
 This working group picks up by further iterating on the process for maintaining this roadmap over time
 and better facilitating its implementation.
 
@@ -123,7 +113,6 @@ and improving the success rate of working groups in their current form first.
 | Member                   | João Pereira                    | Staff Backend Engineer, Package                |
 | Member                   | Natalia Tepluhina               | Staff Frontend Engineer, Plan                  |
 | Member                   | Tyler Amos                      | Staff Backend Engineer, Fulfillment Platform  |
-
 
 [slack-channel]: https://gitlab.slack.com/archives/CJ4DB7517
 [agenda-doc]: https://docs.google.com/document/d/1n1pslXw6yeoqRmsWGi4VYu9bPg8k46IIXqdUTJR8HSU

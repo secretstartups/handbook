@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Account Escalation Process"
 description: "The Account Escalation Process Working Group aims to improve the cross-functional collaboration when a customer is in an escalated state."
-canonical_path: "/company/team/structure/working-groups/account-escalation-process/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,7 +19,7 @@ The Account Escalation Process Working Group aims to improve the cross-functiona
 ### Overview
 
 The [account escalation process](/handbook/support/workflows/emergency-to-escalation-process.html) can involve stakeholders from CS, Support, Engineering as well as
-Sales or other areas of the company. This is a keystone process that requires cross-functional attention to improve. 
+Sales or other areas of the company. This is a keystone process that requires cross-functional attention to improve.
 
 ### Goals
 
@@ -52,7 +44,7 @@ This is a non-comprehensive list of topics to be discussed.
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
 | Executive Stakeholder   | @spatching| Sherrod Patching | VP Customer Success Management |
 | Facilitator             | @lyle | Lyle Kozloff | Director of Global Support Readiness|
-| Member                  | @christiaanconover | Christiaan Conover | Director of Customer Success Management (AMER) | 
+| Member                  | @christiaanconover | Christiaan Conover | Director of Customer Success Management (AMER) |
 | Member                  | @manuel.kraft | Manuel Kraft | Customer Success Manager (EMEA) |
 | Member                  | @ricardoamarilla  | Ricardo Amarilla | Customer Success Manager (LATAM) |
 | Member                  | @afappiano  | Anthony Fappiano | Engineering Manager, [Reliability](/handbook/engineering/infrastructure/team/reliability/) |

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Sharding Working Group"
 description: "The initial focus of this Sharding working group was to increase the scalability of our database with a long-term goal of 100x scalability."
-canonical_path: "/company/team/structure/working-groups/sharding/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -79,7 +71,7 @@ Partitioning is an important subject to cover separate from sharding. If we ulti
 
 ### Investigation Summary
 
-The different sharding approaches, Namespace vs. Tenant, are being evaluated.  They are competing approaches but each have the same goal of achieving our business goals.  We are still working through the potential first iteration and implementation details of these approaches. In both cases we will need to identify and quantify the changes required at the database and application level. 
+The different sharding approaches, Namespace vs. Tenant, are being evaluated.  They are competing approaches but each have the same goal of achieving our business goals.  We are still working through the potential first iteration and implementation details of these approaches. In both cases we will need to identify and quantify the changes required at the database and application level.
 
 While we continue to investigate Namespace vs. Tenant sharding, we can continue with the Incremental Scalability Improvements and Database Partitioning Implementation and realize immediate performance and scalability improvements.
 
@@ -137,7 +129,7 @@ The agenda doc can be found in our Google Drive when searching for "Sharding Wor
 - 2020-02-24
   - Partitioning Issue [Spike](https://gitlab.com/gitlab-org/gitlab/issues/201871)
   - Handbook entry published [On table partitioning](https://about.gitlab.com/handbook/engineering/development/enablement/data_stores/database/doc/partitioning.html)
-  - PG11 Nightly pipeline for [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/issues/200036#note_291786476) 
+  - PG11 Nightly pipeline for [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/issues/200036#note_291786476)
   - PG11 10k Reference Architecture [test](https://gitlab.com/gitlab-org/quality/team-tasks/issues/389#note_292242462)
 - 2020-03-02
   - Exploration of CitusDB [started](https://gitlab.com/gitlab-org/gitlab/issues/207833)

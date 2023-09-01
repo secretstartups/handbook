@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Kubernetes Migration Working Group"
 description: "The charter of this working group is to, except for postgres, migrate all of GitLab.com to Kubernetes."
-canonical_path: "/company/team/structure/working-groups/multi-large/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -23,9 +15,9 @@ canonical_path: "/company/team/structure/working-groups/multi-large/"
 
 ### Charter
 
-The charter of this working group is to synchronize cross department efforts, as a means to support GitLab.com migration to the Kubernetes platform. This migration is essential as it is a base for other initiatives which require running multiple, large independent GitLab sites without significant staffing demand.   
+The charter of this working group is to synchronize cross department efforts, as a means to support GitLab.com migration to the Kubernetes platform. This migration is essential as it is a base for other initiatives which require running multiple, large independent GitLab sites without significant staffing demand.
 
-### Scope and Definitions 
+### Scope and Definitions
 
 In this context, the scope of this working group is defined by the following list outlines the order of deliverables per Working Group Agenda on [2020-07-13](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit#bookmark=id.dej0jql4zr9f), and then further refined on [2021-02-01](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit?ts=60183e13#bookmark=id.ncj5do925oqy). The goal of this list is to define deliverables for the Working Group such that its charter can be finite.
 
@@ -45,7 +37,7 @@ In this context, the scope of this working group is defined by the following lis
 1. Gitaly to K8s
 1. Redis to K8s
 
-Note that not all stateful nodes are scoped here, notably PostgreSQL, and this is intentional. 
+Note that not all stateful nodes are scoped here, notably PostgreSQL, and this is intentional.
 
 ## Roles and Responsibilities
 
@@ -64,7 +56,6 @@ Note that not all stateful nodes are scoped here, notably PostgreSQL, and this i
 | Member | Mark Wood | Senior Prouct Manager, Create:Gitaly |
 | Member | Andras Horvath | Engineering Manager, Gitaly |
 
-
 ## Outcome
 
 The Kubernetes Migration Working Group was established to reduce operational costs and increase the efficiency of day-to-day operations.
@@ -77,14 +68,13 @@ The migration of services to Kubernetes allowed GitLab to optimize the infrastru
 
 Migrating GitLab.com to run on Kubernetes also meant creating new installation methods available to our customers. We are dogfooding and continuously improving these new installation methods so also self-managed customers can benefit from it.
 
-
 ## Timeline of Migrated Services
 
 | Date       | Service                                           |
 |------------|---------------------------------------------------|
 | 2019-08-30 | Container Registry                                |
-| 2019-09-27 | PlantUML                                          | 
-| 2019-11-21 | Mailroom                                          | 
+| 2019-09-27 | PlantUML                                          |
+| 2019-11-21 | Mailroom                                          |
 | 2020-05-30 | Sidekiq Memory-bound Shard                        |
 | 2020-05-15 | Sidekiq Elasticsearch Shard                       |
 | 2020-06-09 | Sidekiq Low-urgency-cpu-bound Shard               |
@@ -103,7 +93,6 @@ Migrating GitLab.com to run on Kubernetes also meant creating new installation m
 | 2022-08-05 | Camoproxy                                         |
 
 The full list of the work accomplished to support the migration can be found on the [Gitlab.com on Kubernetes](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/112) tracking epic.
-
 
 ## Related Links
 

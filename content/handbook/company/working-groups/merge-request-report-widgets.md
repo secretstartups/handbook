@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Merge Request Report Widgets Working Group"
 description: "The GitLab Merge Request Report Widgets Working Group aim is to assist in implementing the UX Framework created for extending MRs with extensions. Read more!"
-canonical_path: "/company/team/structure/working-groups/merge-request-report-widgets/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -41,46 +33,52 @@ The main target of the working group is not to implement everything themselves b
 ## Scope and definitions
 
 **Merge Request Reports Region**
-* Area of the merge request with summaries of analysis done and proposed changes. This area resides in the **Overview** tab, between the description and comments or system notes.</dd>
+
+- Area of the merge request with summaries of analysis done and proposed changes. This area resides in the **Overview*- tab, between the description and comments or system notes.</dd>
 
 **Merge Request Widget Extensions**
-* Each piece of software that presents summarized information for analysis performed.
+
+- Each piece of software that presents summarized information for analysis performed.
 
 **Merge Request Widget Extension Component (<a href="https://docs.gitlab.com/ee/development/fe_guide/merge_request_widget_extensions.html">docs</a>)**
-* Reusable component to allow each extension to customize the presentation of the information while still ensuring a consistent user and developer experience for all extensions attached to the merge request.
+
+- Reusable component to allow each extension to customize the presentation of the information while still ensuring a consistent user and developer experience for all extensions attached to the merge request.
 
 ## Exit criteria
 
-* Shepherd the implementation and redesign of 10 extensions ([full list](https://gitlab.com/groups/gitlab-org/-/epics/6548)) that will be ported to fully use the new shared MR Widget Extension Component.
-*  The shared component follows the [Report regions design guidelines](https://design.gitlab.com/regions/merge-request-reports) defined in the Pajamas Design System.
-* The documentation reflects the capabilities of the shared component.
-* Ensure there is clear documentation written for extending the component.
+- Shepherd the implementation and redesign of 10 extensions ([full list](https://gitlab.com/groups/gitlab-org/-/epics/6548)) that will be ported to fully use the new shared MR Widget Extension Component.
+-  The shared component follows the [Report regions design guidelines](https://design.gitlab.com/regions/merge-request-reports) defined in the Pajamas Design System.
+- The documentation reflects the capabilities of the shared component.
+- Ensure there is clear documentation written for extending the component.
 
 ### Results
 
 #### Documentation outcomes
 
-* [DRI List (Eng. and UX)](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html)
-* [Component technical documentation](https://docs.gitlab.com/ee/development/fe_guide/merge_request_widget_extensions.html)
-* [Contributing further and extending](/handbook/product/cross-stage-features/merge-requests/)
+- [DRI List (Eng. and UX)](/handbook/engineering/development/dev/create/code-review/report-widgets-dri-list.html)
+- [Component technical documentation](https://docs.gitlab.com/ee/development/fe_guide/merge_request_widget_extensions.html)
+- [Contributing further and extending](/handbook/product/cross-stage-features/merge-requests/)
 
 #### Product outcomes
 
 The screenshots below illustrate the Merge Request Report Widgets before and after the work delivered by the Working Group.
 
-|  |  |
-| ------ | ------ |
-| Before | ![MR Widgets Before](MR_Widgets_Before.png) |
-| After | ![MR Widgets After](MR_Widgets_After.png) |
-
+{{< cardpane >}}
+{{% card header="**Before**" %}}
+![MR Widgets Before](./MR_Widgets_Before.png)
+{{% /card %}}
+{{% card header="**After**" %}}
+![MR Widgets After](./MR_Widgets_After.png)
+{{% /card %}}
+{{< /cardpane >}}
 
 ## Roles and responsibilities
 
 The functional leads will be responsible for:
 
-* Representing the needs of individual stakeholders in their department/sub-dept.
-* Gathering and consolidating feedback on specific proposals from their department/sub-dept.
-* Communicating the output from the working group (if any) and answering questions from their dept/sub-dept.
+- Representing the needs of individual stakeholders in their department/sub-dept.
+- Gathering and consolidating feedback on specific proposals from their department/sub-dept.
+- Communicating the output from the working group (if any) and answering questions from their dept/sub-dept.
 
 Ideally, the functional lead is someone who is an IC working in the affected groups, but anyone capable of representing a group, department, or sub-department in the fashion mentioned above is welcome.
 
@@ -103,5 +101,3 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Pedro Moreira da Silva   | UX                        | Staff Product Designer, Create:Code Review    |
 | Member             | Tomislav Nikić           | Quality                   | Software Engineer in Test, Create:Code Review |
 | Member             | Gina Doyle               | UX                        | Senior Product Designer, Runner               |
-
-

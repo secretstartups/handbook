@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Frontend Observability Working Group"
 description: "The frontend observability working group aims to define and create a mechanism for frontend observability at GitLab"
-canonical_path: "/company/team/structure/working-groups/frontend-observability/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -34,7 +26,8 @@ Stakeholders for this project include frontend engineers and SREs.
 This group will not focus on instrumentation around user actions for product reasons; this is covered by Snowplow and has a different use case.
 
 #### Definitions
-* **Frontend Observability** describes the process of being able to answer questions about the performance of frontend code "in the wild". It is provided via the instrumentation of frontend Javascript. [This is a nice talk covering what it can mean](https://www.youtube.com/watch?v=VA0b6v9vaEM), although the goals of this group will be focused around performance and errors.
+
+- **Frontend Observability** describes the process of being able to answer questions about the performance of frontend code "in the wild". It is provided via the instrumentation of frontend Javascript. [This is a nice talk covering what it can mean](https://www.youtube.com/watch?v=VA0b6v9vaEM), although the goals of this group will be focused around performance and errors.
 
 ### Exit Criteria
 
@@ -51,9 +44,9 @@ This working group will have fulfilled its purpose when:
 
 The functional leads will be responsible for:
 
-* Representing the needs of individual stakeholders in their department/sub-dept
-* Gathering and consolidating feedback on specific proposals from their department/sub-dept
-* Communicating the output from the working group (if any) and answering questions from their dept/sub-dept
+- Representing the needs of individual stakeholders in their department/sub-dept
+- Gathering and consolidating feedback on specific proposals from their department/sub-dept
+- Communicating the output from the working group (if any) and answering questions from their dept/sub-dept
 
 Ideally the functional lead is someone who is an IC that might be affected by the policy put in place. but anyone capable of representing a department or sub-department in the fashion mentioned above is welcome.
 

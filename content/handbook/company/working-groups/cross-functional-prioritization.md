@@ -1,22 +1,13 @@
 ---
-layout: markdown_page
 title: "Cross-Functional Prioritization"
 description: "Transition R&D teams into a steady priorization state driven by backlog data, SLO guidelines & healthy prioritization ratios"
-canonical_path: "/company/team/structure/working-groups/cross-functional-prioritization/"
 ---
-
-## On this page
-
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Purpose
 
 This working group is charged with rolling forward from the emergency "Engineering Allocation" prioritization methodology to a new process. The working group should name, design, kickoff, implement, solicit feedback, and iteratively improve the new process before disbanding. The new process should accomplish three major things:
 
-1. **Achieve an optimal balance** of new features, security fixes, availability work, performance improvements, bug fixes, etc. via a framework that helps drive conversations and alignment. Balance across these categories will allow GitLab to operate in a way that will allow us to meet revenue goals and maintain the stability of our platform. 
+1. **Achieve an optimal balance** of new features, security fixes, availability work, performance improvements, bug fixes, etc. via a framework that helps drive conversations and alignment. Balance across these categories will allow GitLab to operate in a way that will allow us to meet revenue goals and maintain the stability of our platform.
 1. It should **give voice to everyone** in the quad (PM, Development, Quality, and UX)
 1. It should **provide transparency into prioritization** and work status to internal and external stakeholders so they can advocate for their work items
 
@@ -55,14 +46,16 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 
 The below criteria will be marked as complete when we close the working group, as we will be doing this iteratively until then.
 
-- [ ] Handbook is updated to reflect the new process 
+- [ ] Handbook is updated to reflect the new process
 - [ ] Execute on [multi-modal communication plan](#multi-modal-communication) (below)
 - [ ] Feedback is gathered, considered, and incorporated as appropriate by the DRI for each respective area [Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13694)
 
 #### Phased Rollout of the remaining exit criteria
-We're phasing the rollout of the remaining exit criteria. This approach limits the surface area of changes to a single stage allowing us to rapidly iterate and reduce the churn of changes on all of R&D. 
+
+We're phasing the rollout of the remaining exit criteria. This approach limits the surface area of changes to a single stage allowing us to rapidly iterate and reduce the churn of changes on all of R&D.
 
 **Phase 1: Create Completes all Exit Criteria by the September Create PI Review**
+
 1. Includes driving Undefined MRs to 0
 1. Includes driving Undefined Issues to 0
 1. Includes applying the correct sub-types for MRs
@@ -71,9 +64,10 @@ We're phasing the rollout of the remaining exit criteria. This approach limits t
 As part of Phase 1 we'll actively review input and feedback from Create. Primarily Darva Satcher (Dir of Eng), Sarah Waldner (Create GPM), Marcel van Remmerden (UX Manager), and Ramya Authappan (QEM) and iterate prior to moving to Phase 2.
 
 **Phase 2: Roll out to every stage/section by October PI reviews**
-Essentially all of phase one, including any iterations for all stages/sections. 
 
-Note: This does not preclude other stages beyond create to complete the exit criteria prior to October. Many teams are self-activating. For example, Wayne has activated Secure and David has asked all of PLT to begin to adopt this for their PI reviews. We'll focus the working group's energy in phase one on Create. 
+Essentially all of phase one, including any iterations for all stages/sections.
+
+Note: This does not preclude other stages beyond create to complete the exit criteria prior to October. Many teams are self-activating. For example, Wayne has activated Secure and David has asked all of PLT to begin to adopt this for their PI reviews. We'll focus the working group's energy in phase one on Create.
 
 ### Roles and Responsibilities
 
@@ -104,10 +98,10 @@ The process is [documented](/handbook/engineering/cross-functional-prioritizatio
 
 # Multi-modal communication
 
-* Tag (at minimum) all potentially interested working group functional leads and when there is impact to product `gl-product-leadership` in all merge requests to solicit feedback.
-* Wait two business days to gather and respond to feedback before submitting merge requests to the codeowners for review and merge.
-* Announce all merge requests in the working group slack channel and/or in the standup meeting for working group awareness.
-* Announce all big changes and status updates in the `#product` `#vp-development` `#ux_leadership` `#quality-managers` `#eng-managers`  `#development` slack channels, and in the weekly engineering work in review document.
-* Add the `wg-cross-functional-prioritization` label to all issues and merge requests so they can be tracked
-* Add milestone so PM operations can serve up a filter by label/milestone
-* Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.
+- Tag (at minimum) all potentially interested working group functional leads and when there is impact to product `gl-product-leadership` in all merge requests to solicit feedback.
+- Wait two business days to gather and respond to feedback before submitting merge requests to the codeowners for review and merge.
+- Announce all merge requests in the working group slack channel and/or in the standup meeting for working group awareness.
+- Announce all big changes and status updates in the `#product` `#vp-development` `#ux_leadership` `#quality-managers` `#eng-managers`  `#development` slack channels, and in the weekly engineering work in review document.
+- Add the `wg-cross-functional-prioritization` label to all issues and merge requests so they can be tracked
+- Add milestone so PM operations can serve up a filter by label/milestone
+- Summarize changes for PM and other quad groups (sourced using the label search and/or milestone) every ~two weeks.

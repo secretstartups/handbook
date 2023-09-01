@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GTM Product Usage Data"
 description: "Effective use of Product Usage Data within the go to market motion"
-canonical_path: "/company/team/structure/working-groups/product-analytics-gtm/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -29,7 +21,7 @@ Integrate GitLab product usage data and related data into CRO organization busin
 
 ## Business Goal
 
-Embed product usage and related data across GTM business processes and systems (Salesforce, Gainsight, Marketo, SiSense, etc.). 
+Embed product usage and related data across GTM business processes and systems (Salesforce, Gainsight, Marketo, SiSense, etc.).
 
 ### Exit Criteria
 

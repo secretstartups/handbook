@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Architecture Kickoff Working Group"
 description: "The charter of this working group is to produce the first iteration of a 12 month technical roadmap, due on September 1, 2020."
-canonical_path: "/company/team/structure/working-groups/architecture-kickoff/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -25,10 +17,10 @@ canonical_path: "/company/team/structure/working-groups/architecture-kickoff/"
 
 The charter of this working group is to produce the first iteration of a 12 month technical roadmap, due on September 1, 2020.
 
-* 12 month artifact in handbook
-* 6 month artifact(s) in handbook
-* 3 month artifact(s) in handbook
-* FY21-Q4 OKR proposals
+- 12 month artifact in handbook
+- 6 month artifact(s) in handbook
+- 3 month artifact(s) in handbook
+- FY21-Q4 OKR proposals
 
 
 ## Roles and Responsibilities

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Token Management Working Group"
 description: "The charter of this working group is to drive improvements for token management."
-canonical_path: "/company/team/structure/working-groups/token-management/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,25 +19,26 @@ work towards building a foundation and path forward for future token management 
 enhancements. This will be accomplished through the creation and publication of a token management
 security policy and proposed fixes for the high risk and low effort token management issues. With
 this, the Token Management Working Group will set up the fast follow on mid to long term token
-management security enhancement effort for success. For additional detail please visit our 
+management security enhancement effort for success. For additional detail please visit our
 [Token Leaks internal handbook page](https://internal.gitlab.com/handbook/engineering/security/token-leaks/).
 All the tokens will be stored in GitLab the application as we ship it to users and customers. By
 dogfooding these enhancements and making improvements to meet our own security needs, we will
 improve token management and protection of secrets for all users, becoming better stewards of our
-user's secrets. 
+user's secrets.
 
 ## Exit Criteria
 
 The Token Management Working Group will deliver:
-* Publish the first iteration of an official token and secrets management policy that is based on the [Token Standard](https://gitlab.com/gitlab-com/gl-security/security-research/cryptographic-standards/-/blob/main/token-standard.md) previously created
-    * Status: Complete
-    * Results: [GitLab Token Management Standard](https://about.gitlab.com/handbook/security/token-management-standard.html)
-* Proposed fixes, with risk assessments, for each identified low effort high risk item
-    * Status: Complete
-    * Results: [Risk assessments](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/354) and [effort estimations](https://docs.google.com/spreadsheets/d/1selwO27d-Tk2KMlSy5ozY1DnHu7GmGxKO6o7axO7omc/edit#gid=0)
-* Propose possible out-of-product workaround mitigations for the top 2 high effort high risk items
-    * Status: Complete
-    * Results: [Proposed out-of-product workarounds](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1565)
+
+- Publish the first iteration of an official token and secrets management policy that is based on the [Token Standard](https://gitlab.com/gitlab-com/gl-security/security-research/cryptographic-standards/-/blob/main/token-standard.md) previously created
+    - Status: Complete
+    - Results: [GitLab Token Management Standard](https://about.gitlab.com/handbook/security/token-management-standard.html)
+- Proposed fixes, with risk assessments, for each identified low effort high risk item
+    - Status: Complete
+    - Results: [Risk assessments](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/354) and [effort estimations](https://docs.google.com/spreadsheets/d/1selwO27d-Tk2KMlSy5ozY1DnHu7GmGxKO6o7axO7omc/edit#gid=0)
+- Propose possible out-of-product workaround mitigations for the top 2 high effort high risk items
+    - Status: Complete
+    - Results: [Proposed out-of-product workarounds](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1565)
 
 ## Retrospective
 

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Isolation Working Group"
 description: "Gitlab's Isolation Working Group develop plans that limits disruption to customers when unexpected events occur. Learn more here!"
-canonical_path: "/company/team/structure/working-groups/isolation/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -22,28 +14,28 @@ canonical_path: "/company/team/structure/working-groups/isolation/"
 
 ## Business Goal
 
-To develop a plan that limits disruption to customers when there are "noisy neighbors" or when other unexpected events occur.   
+To develop a plan that limits disruption to customers when there are "noisy neighbors" or when other unexpected events occur.
 
 ## Exit Criteria
 
 1. Determine what is in-scope for the working group and select specific lines of enquiry
 1. For each line of enquiry
- - determine the appropriate goal 
- - define backlog of issues
- - provide estimated timeline
- - schedule issues for work with groups
-1. [Create guidance on how to address isolation issues](https://gitlab.com/gitlab-org/gitlab/issues/196829)  
+    - determine the appropriate goal
+    - define backlog of issues
+    - provide estimated timeline
+    - schedule issues for work with groups
+1. [Create guidance on how to address isolation issues](https://gitlab.com/gitlab-org/gitlab/issues/196829)
 
-**Group Closure Information:** All lines of inquiry were incorporated into the [Availability and Performance 
-Weekly Meeting](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit#heading=h.mbjsiz6n6jlo). 
+**Group Closure Information:** All lines of inquiry were incorporated into the [Availability and Performance
+Weekly Meeting](https://docs.google.com/document/d/1SanPUz86cIyRQR5kRmXyCLLE8sZVpx0auu_W6jY94W4/edit#heading=h.mbjsiz6n6jlo).
 
 ## Specific Lines of Enquiry
 
 - [Application Level Redis Sharding](https://gitlab.com/groups/gitlab-org/-/epics/2391) (Grzegorz Bizon)
-- []File Storage Isolation](https://gitlab.com/groups/gitlab-org/-/epics/2307) (Marin Jankovski)
+- [File Storage Isolation](https://gitlab.com/groups/gitlab-org/-/epics/2307) (Marin Jankovski)
 - [Database Partitioning](https://gitlab.com/groups/gitlab-org/-/epics/2023) (Craig Gomes)
 
-[Decoupled Service](https://gitlab.com/gitlab-org/gitlab/issues/31121) (Craig Gomes) was removed from this working group 
+[Decoupled Service](https://gitlab.com/gitlab-org/gitlab/issues/31121) (Craig Gomes) was removed from this working group
 as this will be a future effort for the Memory group.
 
 ## Roles and Responsibilities

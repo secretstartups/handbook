@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "TeamOps Sales and Marketing"
 description: "The TeamOps Sales and Marketing Working Group aims to manage the design and kickoff of relevant strategies."
-canonical_path: "/company/team/structure/working-groups/teamops-sales-marketing/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -46,9 +38,9 @@ Please see the [overview issue](https://gitlab.com/gitlab-com/ceo-chief-of-staff
 | :---------------------- | :-------------- | ------------------------------------------------------------------------ | :-------------------------------------------------------------- |
 | Executive Stakeholder   | @streas | Stella Treas | Chief of Staff to CEO |
 | Facilitator             | @lfarrer | Laurel Farrer | Principal Strategy and Operations, Workplace |
-| Member                  | @cynthia | Cynthia "Arty" Ng | Staff Strategy and Operations, Intern | 
-| Member                  | @lboughner | Lisa Boughner | VP, Corporate Communications | 
-| Member                  | @dsteer | Dave Steer | VP, Product Marketing | 
-| Member                  | @swalters1 | Stephen Walters | Principal Solutions Architect | 
-| Member                  | @esalvadorp | Emilio Salvador | VP, Dev Relations and Community | 
-| Member                  | @nshah19 | Niyati Shah | Senior Director, Education Services | 
+| Member                  | @cynthia | Cynthia "Arty" Ng | Staff Strategy and Operations, Intern |
+| Member                  | @lboughner | Lisa Boughner | VP, Corporate Communications |
+| Member                  | @dsteer | Dave Steer | VP, Product Marketing |
+| Member                  | @swalters1 | Stephen Walters | Principal Solutions Architect |
+| Member                  | @esalvadorp | Emilio Salvador | VP, Dev Relations and Community |
+| Member                  | @nshah19 | Niyati Shah | Senior Director, Education Services |

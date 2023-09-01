@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Secure Offline Environment Working Group"
 description: "The Secure Offline Environment Working Group allows mirroring or downloading of all the needed information for an offline use."
-canonical_path: "/company/team/structure/working-groups/secure-offline-environment/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -22,12 +14,12 @@ canonical_path: "/company/team/structure/working-groups/secure-offline-environme
 | Tracking Epic   | [gitlab-org Epic](https://gitlab.com/groups/gitlab-org/-/epics/1359)
 
 ## Business Goal
+
 Allow mirroring or downloading of all the needed information for an offline use. Data will be replicated and kept in sync on a separate server, internal to the same network where the runners are, and will provide all the information needed. Provide documentation & instructions describing how to configure an offline environment instance to run scanners successfully.
 
 ## Exit Criteria
 
-* Score a 5.0 on the [demo scorecard](https://docs.google.com/spreadsheets/d/1plXG0IHLTz8l1P7bec_-QBEqoferWGw4BtaNK314Rmo/edit?ts=5e6a5425#gid=0) with released code by April 22, 2020
-
+- Score a 5.0 on the [demo scorecard](https://docs.google.com/spreadsheets/d/1plXG0IHLTz8l1P7bec_-QBEqoferWGw4BtaNK314Rmo/edit?ts=5e6a5425#gid=0) with released code by April 22, 2020
 
 ## Roles and Responsibilities
 

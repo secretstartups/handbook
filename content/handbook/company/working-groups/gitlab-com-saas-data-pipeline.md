@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GitLab.com SAAS Data Pipeline"
 description: "The GitLab.com SAAS Data Pipeline Working Group"
-canonical_path: "/company/team/structure/working-groups/gitlab-com-saas-data-pipeline/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -23,22 +15,22 @@ canonical_path: "/company/team/structure/working-groups/gitlab-com-saas-data-pip
 
 ## Business Goal
 
-Provide reliable, stable, scalable and secure data feed for reporting and analytics use cases like MR Rate & Performance KPIs (Product development), Product Usage for Gainsight, License Utilization (Customer Success), Product Health Dashboard (Health) Propensity to Expand and Churn Models, Forecast, Territory Management (Sales). 
+Provide reliable, stable, scalable and secure data feed for reporting and analytics use cases like MR Rate & Performance KPIs (Product development), Product Usage for Gainsight, License Utilization (Customer Success), Product Health Dashboard (Health) Propensity to Expand and Churn Models, Forecast, Territory Management (Sales).
 
 ## Technical Goal
 
-Implement a data pipeline that captures `create`, `update` and `delete` operations and stores them in the GitLab Data platform to be available for further processing and analytics. 
+Implement a data pipeline that captures `create`, `update` and `delete` operations and stores them in the GitLab Data platform to be available for further processing and analytics.
 
-![High Level Design](HLD.png)
+![High Level Design](./HLD.png)
 
 ## Exit Criteria
 
-* Reliable: All 'metadata' and relevant descriptive data (`create`, `update` and `delete`) operations in the PostgreSQL database are captured, transfered and loaded into the data platform within 6 hours of the original event.
-* Stable: End to end solution runs for 30 days without interruption or human intervention.
-* Scalable: Solution scales with GitLab.com and does not require undue burden to expand as new GitLab.com databases, shards, zones, tenants, or cloud locations are deployed
-* Secure: Red data is not loaded or it is hashed if stored on a system that is not a data sub-processor. 
-* Defined and agreed SLO with all business partners.
-* Full end to end monitoring.
+- Reliable: All 'metadata' and relevant descriptive data (`create`, `update` and `delete`) operations in the PostgreSQL database are captured, transfered and loaded into the data platform within 6 hours of the original event.
+- Stable: End to end solution runs for 30 days without interruption or human intervention.
+- Scalable: Solution scales with GitLab.com and does not require undue burden to expand as new GitLab.com databases, shards, zones, tenants, or cloud locations are deployed
+- Secure: Red data is not loaded or it is hashed if stored on a system that is not a data sub-processor.
+- Defined and agreed SLO with all business partners.
+- Full end to end monitoring.
 
 ## Roles and Responsibilities
 

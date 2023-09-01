@@ -1,16 +1,7 @@
 ---
-layout: markdown_page
 title: "Object Storage Working Group"
 description: "The GitLab Object Storage Working Group aim is to assist in improving the performance, security, and technical debt of our current object storage solution. Read more!"
-canonical_path: "/company/team/structure/working-groups/object-storage/"
 ---
-
-## On this page
-
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -114,9 +105,7 @@ for more details.
 
 ### Kickoff video
 
-<figure class="video_container">
-	  <iframe src="https://www.youtube.com/embed/X9V_w8hsM8E" frameborder="0"  allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "X9V_w8hsM8E" >}}
 
 ## Exit criteria (100%)
 
@@ -173,7 +162,7 @@ scope. As a first iteration, the working group members addressed how
 to reduce code complexity by focussing on technological challenges.
 
 The creation of the [scalability frameworks
-team](/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks)
+team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/#scalabilityframeworks)
 during this working group execution provided a perfect partner to give
 continuity to this effort.  Epic
 [gitlab-com/gl-infra&733](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/733)
@@ -208,9 +197,9 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member             | Sofia Vistas @svistas              | Quality           | Senior Software Engineer in Test     |
 | Member             | Jacob Vosmaer @jacobvosmaer-gitlab              | Scalability           | Staff Backend Engineer    |
 
-# Company efforts on uploads
+## Company efforts on uploads
 
-At GitLab we work in [iterations](https://about.gitlab.com/handbook/values/#iteration),
+At GitLab we work in [iterations](/handbook/values/#iteration),
 direct upload was developed by several teams incrementally by adding new features over the course of several milestones.
 
 To demonstrate the number of teams and milestones involved, the timeline

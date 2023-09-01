@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "GitHost Migration Working Group"
 description: "The GitLab GitHost Migration Working Group aims to successfully migrate a key customer from GitHost.io to GitLab.com."
-canonical_path: "/company/team/structure/working-groups/githost-migration/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

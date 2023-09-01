@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Modern Applications Go-To-Market"
 description: "Define our modern applications got-to-market and create the necessary resources to support the motion."
-canonical_path: "/company/team/structure/working-groups/modern-applications-gtm/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/modern-applications-gtm/
 
 - While GitLab provides the necessary capabilities to deliver modern applications effectively, the field lacks the artifacts and execution to deliver appropriate modern application messaging and guidance to our prospects and customers.
 - Typically, we cannot identify application initiatives associated with our prospect's / customer's interest in GitLab, which limits our reach into the account and our ability to tie our value to a c-level initiative.
-- GitLab ranks relatively low when searching for "microservices" and "modern applications," which could signify a lack of thought leadership in a domain we have immense value to provide. 
+- GitLab ranks relatively low when searching for "microservices" and "modern applications," which could signify a lack of thought leadership in a domain we have immense value to provide.
 
 
 ## Business Goal
@@ -38,11 +30,13 @@ canonical_path: "/company/team/structure/working-groups/modern-applications-gtm/
 Generate compelling customer stories by driving value for our customer's digital transformation and modern application initiatives.
 
 ### Exit Criteria
+
 - Message House Completed and confirmed by Product Marketing
 - Pitch Deck Created
- 
 
 #### Step 1:
+
+
 
 ## Roles and Responsibilities
 
@@ -54,7 +48,6 @@ Generate compelling customer stories by driving value for our customer's digital
 | Functional Lead       |Aathira Nair (Product Marketing)            | Product Marketing Manager |
 | Functional Lead       | Lee Faus (Strategic Field Team)              | Field CTO |
 | Member                |Reshmi Krishna           | Sr Manager, Solutions Architecture |
-
 
 ## Meetings
 

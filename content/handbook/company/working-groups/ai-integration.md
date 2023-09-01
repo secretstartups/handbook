@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "AI Integration"
 description: "The GitLab AI Integration Working Group aims to define, coordinate and ramp up integration of AI capabilities into all product areas"
-canonical_path: "/company/team/structure/working-groups/ai-integration/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -73,10 +65,11 @@ The following criteria should be met for the group to disband:
 - Product teams have a clear method to build and integrate AI into GitLab product areas.
 - The integration platform should have a [product group](https://about.gitlab.com/handbook/product/categories/) handling maintanence and feature development
 - We have a structured methodology for evaluating new AI models, adding them to the integration platform to allow them to be consumed by product teams.
-- We have a roadmap plan to achieve GA for our initial AI experiments. 
+- We have a roadmap plan to achieve GA for our initial AI experiments.
 - Documented process for handling AI feature proposals as part of the [prioritization framework](https://about.gitlab.com/handbook/product/product-processes/#prioritization)
-- Move [SAFE](/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/). 
-- Develop an evaluation process of user experience between options to make more intelligent decisions on which engineering solution we recommend.   
+- Move [SAFE](/handbook/legal/safe-framework/) content from the [internal handbook](https://internal-handbook.gitlab.io/handbook/product/ai-strategy/ai-integration-effort/) to the public handbook where appropriate and [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
+- Develop an evaluation process of user experience between options to make more intelligent decisions on which engineering solution we recommend.
+
 ### Q2 OKRs
 
 [Deliver X experimental, Y beta, and Z GA AI features](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2048)
@@ -120,14 +113,14 @@ The following criteria should be met for the group to disband:
 | Application Security Representative | @greg | [Greg Myers](https://about.gitlab.com/company/team/#greg) | Security Engineer (Application Security) |
 | Solutions Architecture Representative / Rapid Prototyping Team Member | @bartzhang | [Bart Zhang](https://about.gitlab.com/company/team/#bartzhang) | Channel Solutions Architect |
 | Product Marketing Representative| @laurenaalves | [Laurena Alves](https://about.gitlab.com/company/team/#laurenaalves) | Senior Product Marketing Manager |
-| Developer Relations Representative | @johncoghlan | [John Coghlan](https://gitlab.com/johncoghlan) | Senior Manager, Developer Evangelism | 
+| Developer Relations Representative | @johncoghlan | [John Coghlan](https://gitlab.com/johncoghlan) | Senior Manager, Developer Evangelism |
 | Privacy Representative | @emccrann | [Eugene McCrann](https://about.gitlab.com/company/team/#emccrann) | Lead Legal Counsel, Privacy |
 | Quality Engineering Representative | @at.ramya | [Ramya Authappan](https://about.gitlab.com/company/team/#at.ramya) | Engineering Manager, Quality, Dev & Analytics Section |
 | Infrastructure | @lmcandrew  | [Liam McAndrew](https://about.gitlab.com/company/team/#lmcandrew)  | Engineering Manager, Scalability Frameworks |
 | Infrastructure | @igorwwwwwwwwwwwwwwwwwwww | [Igor Wiedler](https://about.gitlab.com/company/team/#igorwwwwwwwwwwwwwwwwwwww) | Staff SRE, Scalability Frameworks |
 | Infrastructure | @mbursi | [Michele Bursi](https://about.gitlab.com/company/team/#mbursi) | Engineering Manager, Delivery System |
-| Support | @ralfaro | [Ronnie Alphero](https://gitlab.com/ralfaro) | Support Engineering Manager | 
-| Enablement | @cs.wang | [Christopher Wang](https://gitlab.com/cs.wang) | Sr. Manager, Enablement (Sales Development) | 
+| Support | @ralfaro | [Ronnie Alphero](https://gitlab.com/ralfaro) | Support Engineering Manager |
+| Enablement | @cs.wang | [Christopher Wang](https://gitlab.com/cs.wang) | Sr. Manager, Enablement (Sales Development) |
 
 
 ## Engineering Groups
@@ -161,13 +154,13 @@ You can contact this group via Slack in [#g_ai_framework](https://gitlab.slack.c
 
 Because of the dynamic nature of the AI work and folks to be engaged, we are putting the AI work under an Engineering Allocation.   This means that assignments may change rapidly as focus and priorities shift.  Current focus is on Code Suggestions adoption.
 
-| Name | Role | Area of Work | 
-| ---- | ---- | ------------ | 
-| Alexandru Croitor | Senior Backend Engineer | AI Enablement | 
-| Eulyeon Ko | Backend Engineer | AI Enablement | 
-| Nicolas Dular |  Senior Backend Engineer | AI Enablement | 
-| Denys Mishunov | Staff Frontend Engineer | AI Enablement | 
-| Jan Provaznik | Staff Backend Engineer | AI Enablement | 
+| Name | Role | Area of Work |
+| ---- | ---- | ------------ |
+| Alexandru Croitor | Senior Backend Engineer | AI Enablement |
+| Eulyeon Ko | Backend Engineer | AI Enablement |
+| Nicolas Dular |  Senior Backend Engineer | AI Enablement |
+| Denys Mishunov | Staff Frontend Engineer | AI Enablement |
+| Jan Provaznik | Staff Backend Engineer | AI Enablement |
 | Mikołaj Wawrzyniak | Staff Backend Engineer | AI Enablement |
 | Pavel Shutsin | Senior Backend Engineer | AI Enablement |
 | Max Woolf | Staff Backend Engineer | AI Enablement |
@@ -185,8 +178,8 @@ Because of the dynamic nature of the AI work and folks to be engaged, we are put
 | Roy Zwambag | Backend Engineer | Application Performance |
 | Paul Phillips | Engineering Manager | Application Performance |
 | Igor Drozdov | Staff Backend Engineer | Source Code |
-| Patrick Cyiza | Backend Engineer | Source Code | 
-| Natalia Radina | Frontend Engineer | Source Code | 
+| Patrick Cyiza | Backend Engineer | Source Code |
+| Natalia Radina | Frontend Engineer | Source Code |
 | Alper Akgun| Staff Fullstack Engineer | VS Code Extension |
 | Tomas Vik| Staff Fullstack Engineer | VS Code Extension |
 | Enrique| Staff Frontend Engineer | VS Code Extension |

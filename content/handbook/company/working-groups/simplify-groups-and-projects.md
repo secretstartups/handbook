@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Simplify Groups & Projects Working Group"
 description: "Learn about Gitlab Simplify Groups & Projects Working Group business goals, problems to solve and more."
-canonical_path: "/company/team/structure/working-groups/simplify-groups-and-projects/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

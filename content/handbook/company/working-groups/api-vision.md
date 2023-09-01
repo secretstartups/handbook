@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "API Vision"
 description: "The GitLab API Vision Working Group aims to improve the current APIs and define their future evolution."
-canonical_path: "/company/team/structure/working-groups/api-vision/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

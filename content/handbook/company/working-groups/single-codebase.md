@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Single Codebase Working Group"
 description: "This group within GitLab increase engineering efficiency by removing the busy work created by working in two similar codebases. Read more!"
-canonical_path: "/company/team/structure/working-groups/single-codebase/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

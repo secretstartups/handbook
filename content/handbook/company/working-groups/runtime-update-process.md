@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Runtime Update Process"
 description: "Streamline the language runtime (version) update process by reducing manual intervention by engineers"
-canonical_path: "/company/team/structure/working-groups/runtime-update-process/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -25,10 +17,11 @@ canonical_path: "/company/team/structure/working-groups/runtime-update-process/"
 ## Business Goal
 
 We need to streamline the language framework (version) update process. Language framework updates are driven by multiple teams, cumbersome, and the processes are inconsistent between the multiple frameworks we use today. In the case of Go, a half dozen or more teams are involved. The current upgrade process is difficult to execute at scale and requires manual intervention with a high degree of complexity. Goals include, but are not limited to:
--   Create a streamlined Golang runtime (version) update process or possibly a language framework agnostic process
--   Reduce update process complexity
--   Create documentation around the update process to improve efficiency
--   Increase developer and management efficiency
+
+- Create a streamlined Golang runtime (version) update process or possibly a language framework agnostic process
+- Reduce update process complexity
+- Create documentation around the update process to improve efficiency
+- Increase developer and management efficiency
 
 ## Tracking Progress
 

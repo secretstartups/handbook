@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Leading Organizations Working Group"
 description: "The charter of this working group is to scale the Leading Organizations intiative."
-canonical_path: "/company/team/structure/working-groups/leading-organizations/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -34,14 +26,14 @@ Build scalable model to activate 100 Leading Organizations by the end of FY24-Q4
 1. Develop robust pipeline
    1. Execute nurture campaigns and digital marketing playbooks to generate interest
    1. Integrate into strategic account segmentation and sales enablement
-   1. Create customer success referral machinery 
+   1. Create customer success referral machinery
 1. Faster time to value
    1. Increase conversion rate of workshops
-   1. Reduce time to activation 
+   1. Reduce time to activation
 1. Recognize and amplify success
-   1. Publish case studies, blog posts and fireside chats with members about co-creation 
-   1. Amplify Leading Organizations’ contributions at industry conferences 
-1. Increase capacity and improve attribution 
+   1. Publish case studies, blog posts and fireside chats with members about co-creation
+   1. Amplify Leading Organizations’ contributions at industry conferences
+1. Increase capacity and improve attribution
    1. Increase reviewer/maintainer capacity in product areas with high number of contributions
    1. Improve contribution tracking, customer segmentation and attribution
 

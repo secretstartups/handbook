@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "ClickHouse Working Group"
 description: "Learn more about the ClickHouse Datastore Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -28,11 +20,11 @@ canonical_path: "/company/team/structure/working-groups/clickhouse-datastore/"
 
 In FY23 ClickHouse was selected as GitLab's standard datastore for features with big data and insert-heavy requirements (e.g. Observability, Analytics, etc.)  ClickHouse is not intended to replace Postgres or Redis in GitLab's stack.
 
-In FY23-Q2 the Monitor:Observability team developed and shipped a [ClickHouse data platform](https://gitlab.com/groups/gitlab-org/-/epics/7772) to store and query data for Error Tracking and other observability features.  Other teams have also begun to incorporate ClickHouse into their current or planned architectures.  
+In FY23-Q2 the Monitor:Observability team developed and shipped a [ClickHouse data platform](https://gitlab.com/groups/gitlab-org/-/epics/7772) to store and query data for Error Tracking and other observability features.  Other teams have also begun to incorporate ClickHouse into their current or planned architectures.
 
 We want ensure teams can efficiently leverage the ClickHouse data platform when developing new features and that we can maintain and support this functionality effectively for SaaS and self-managed customers.
 
-### Exit Criteria 
+### Exit Criteria
 
 This Working Group has the following goals:
 

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Product Accessibility Group"
 description: "Ensure GitLab product compliance with accessibility guidelines"
-canonical_path: "/company/team/structure/working-groups/product-accessibility/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -28,19 +20,17 @@ Since we were able to create a proof of concept with [axe-core](https://github.c
 
 Stakeholders for this project include frontend engineers, backend engineers and product designers.
 
-
 ### Exit Criteria
 
 This Working Group has the following goals:
 
 1. Include axe automated accessibility checks in automated feature tests.
-2. Include axe automated accessibility checks in GitLab UI and write tests for components.
-3. Compile a comprehensive list of known accessibility violations.
-4. Develop and implement a plan for addressing accessibility violations, including evaluation plan/process and tooling.
-5. Identify and bridge the gaps in accessibility frontend guide.
-6. Validate existing issues regarding accessibility.
-7. Plan for internal training.
-
+1. Include axe automated accessibility checks in GitLab UI and write tests for components.
+1. Compile a comprehensive list of known accessibility violations.
+1. Develop and implement a plan for addressing accessibility violations, including evaluation plan/process and tooling.
+1. Identify and bridge the gaps in accessibility frontend guide.
+1. Validate existing issues regarding accessibility.
+1. Plan for internal training.
 
 #### Exit Criteria Progress
 

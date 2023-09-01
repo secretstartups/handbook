@@ -1,16 +1,7 @@
 ---
-layout: markdown_page
 title: "DevSecOps Adoption"
 description: "A Working Group focused on the Top 12 Cross-Functional initiative of ensuring ultimate customers successfully adopt devsecops within 3 months of purchase"
-canonical_path: "/company/team/structure/working-groups/devsecops-adoption/"
-
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,13 +18,14 @@ canonical_path: "/company/team/structure/working-groups/devsecops-adoption/"
 No customers in red on DevSecOps Adoption within 3 months of purchase.
 
 ## Exit Criteria
-One fiscal quarter (purchase date) with 90% of devsecops customers adopting within 3 months of purchase
-* 
 
+One fiscal quarter (purchase date) with 90% of devsecops customers adopting within 3 months of purchase
+
+-
 
 ## Roles and Responsibilities
 
-| Working Group Role    | Person                | Title                                  | 
+| Working Group Role    | Person                | Title                                  |
 |-----------------------|-----------------------|----------------------------------------|
 | Executive Stakeholder | Michael McBride       | CRO    |
 | DRI                   | Sherrod Patching      | VP, Customer Success Management        |
@@ -42,8 +34,8 @@ One fiscal quarter (purchase date) with 90% of devsecops customers adopting with
 | Member                | Tanya Helin           | RVP, Enterprise East                   || Member                | Rich Phillips         | ASM, Enterprise East         |
 | Member                | Nick Christou         | Director of Sales, SMB                         |
 | Member                | Hillary Benson        | Director, Product Management            |
-| Member                | Derek Ferguson        | Sr Product Manager - Secure and Govern | 
+| Member                | Derek Ferguson        | Sr Product Manager - Secure and Govern |
 | Member                | Brian Mason           | Product Marketing Manager |
 | Member                | Jeff Beaumont         | Sr Director CS Operations |
-| Member.              | Klaudia Magda           | Sr Data Scientist | 
+| Member.              | Klaudia Magda           | Sr Data Scientist |
 

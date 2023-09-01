@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Issue Prioritization Framework"
 description: "Improve our Issue Prioritization Framework be factoring in Business goals, IACV, Cost into a common quantifiable representation"
-canonical_path: "/company/team/structure/working-groups/issue-prioritization-framework/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -25,9 +17,9 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 
 ## Problem To Solve
 
-- We currently do not distinguish between "nice to have", "blocker", and "this will likely cause a downgrade/churn/prevent upsell." One customer may view Feature ABC as nice to have, whereas another customer desperately needs it. The time necessary to collect this information, transfer it, and then disseminate it among departments is likely to be inefficient and error prone. It also does not solve the problem of a standardized model for determining relative priority across all stages based on quantifiable data such as impact to retained ARR or net new ARR. 
+- We currently do not distinguish between "nice to have", "blocker", and "this will likely cause a downgrade/churn/prevent upsell." One customer may view Feature ABC as nice to have, whereas another customer desperately needs it. The time necessary to collect this information, transfer it, and then disseminate it among departments is likely to be inefficient and error prone. It also does not solve the problem of a standardized model for determining relative priority across all stages based on quantifiable data such as impact to retained ARR or net new ARR.
 - We are [currently proposing](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/23) that we establish a highly manual process where individuals will act as bridges to transfer information across departments.
-- We are not leveraging our existing data to the fullest extent. Let's understand why and solve for this. 
+- We are not leveraging our existing data to the fullest extent. Let's understand why and solve for this.
 
 ## Business Goal
 
@@ -63,14 +55,14 @@ Limited pilot (select IC PMs):
 
 - 100% of stages participating in the pilot.
   - Current: `0 / 15`
-- Process for mapping issues/epics to themes and product investments is finalized, documented, and has the support of Product, Sales, and Customer Success. 
+- Process for mapping issues/epics to themes and product investments is finalized, documented, and has the support of Product, Sales, and Customer Success.
   - Current: `No`
 
 Scaled pilot (IC PM / CSM focused) measures of success:
 
 - `> 80%` of Product Managers regularly use the dashboards powered by the framework and find the prioritization framework an invaluable sensing mechanism as measured by quarterly survey responses.
   - Current: N/A
-- `> 80%` of Customer Success Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the CSM dashboard as measured by quarterly survey responses. 
+- `> 80%` of Customer Success Managers regularly use the dashboards powered by the framework and report a `> 30%` efficiency gain of reporting on customer requested issues as a result of utilizing the CSM dashboard as measured by quarterly survey responses.
   - Current: N/A
 
 Verify and measure at scale:
@@ -105,5 +97,5 @@ Verify and measure at scale:
 
 This working group meets bi-weekly (every other week.)
 
-Meetings are recorded and available on YouTube in the [Working Group - Issue Prioritization Framework](https://www.youtube.com/playlist?list=PL05JrBw4t0KrKoeXjf5Bdtapu9Cl3T7gI) playlist. 
+Meetings are recorded and available on YouTube in the [Working Group - Issue Prioritization Framework](https://www.youtube.com/playlist?list=PL05JrBw4t0KrKoeXjf5Bdtapu9Cl3T7gI) playlist.
 Due to the subject matter of this working group and the high probability that every syncronous meeting will discuss sensitive customer information, the playlist is private and accessible by GitLab team members only.

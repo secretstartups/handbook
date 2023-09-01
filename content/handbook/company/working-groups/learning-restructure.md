@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Learning Restructure Working Group"
 description: "The GitLab Learning Restructure Working Group aims to create a plan and processes for ensuring a high quality learning experience for users "
-canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -34,12 +26,13 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 ## Exit Criteria
 
 ### Update /Learn
+
 1. Inventory existing training programs to establish a SSoT ==> Complete, established in [GitLab Learn](/learn/)
 1. Update https://about.gitlab.com/learn/ to capture SSoT and provide more clarity on which training is for what ==> Complete
 
 ### Create future coordination processes and plan
-1. Document in the Handbook a process that DRIs working on learning content will follow to keep [GitLab Learn](/learn/)up-to-date, to ensure it remains the SSOT of GitLab-produced learning content. This will include existing content and planned content. ==> Complete, [documented](https://about.gitlab.com/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) and established #gitlab-learn-updates Slack channel for reminders to update and x-team communications.
 
+1. Document in the Handbook a process that DRIs working on learning content will follow to keep [GitLab Learn](/learn/)up-to-date, to ensure it remains the SSOT of GitLab-produced learning content. This will include existing content and planned content. ==> Complete, [documented](https://about.gitlab.com/handbook/marketing/digital-experience/website/#updating-content-on-gitlab-learn) and established #gitlab-learn-updates Slack channel for reminders to update and x-team communications.
 
 ## Roles and Responsibilities
 
@@ -59,7 +52,6 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Member                | Kendra Marquart     | Sr. Technical Instructional Designer, Customer Education |
 | Member                | Christopher Wang      | Senior Sales Development Solutions Architect        |
 | Member                | Marshall Cottrell      | Strategy and Operations Principal        |
-
 
 ## Meetings
 

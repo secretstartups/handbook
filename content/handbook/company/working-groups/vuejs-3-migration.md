@@ -1,16 +1,7 @@
 ---
-layout: markdown_page
 title: "Vue.js 3 Migration Working Group"
 description: "Learn more about the Vue.js 3 Migration Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/vuejs-3-migration/"
 ---
-
-## On this page
-
-{:.no_toc}
-
-- TOC
-  {:toc}
 
 ## Attributes
 

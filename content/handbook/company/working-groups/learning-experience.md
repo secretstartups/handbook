@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Learning Experience Working Group"
 description: "Like all groups at GitLab, a working group is an arrangement of people from different functions. Learn more!"
-canonical_path: "/company/team/structure/working-groups/learning-experience/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -24,19 +16,20 @@ canonical_path: "/company/team/structure/working-groups/learning-experience/"
 ## Business Goals
 
 1. Identify a Learning Experience Platform for Professional Services
-    1. Present to e-group  
+    1. Present to e-group
     1. Define & confirm requirements
     1. Evaluate vendors
     1. Ensure content is searchable in handbook
     1. Select platform
-2. Determine if Field Enablement and Learning & Development use cases can be met by Professional Services Learning Experience Platform
+1. Determine if Field Enablement and Learning & Development use cases can be met by Professional Services Learning Experience Platform
     1. Need to ensure that the platform meets the use cases for internal team members
-3. Create ongoing implementation and workback plan
+1. Create ongoing implementation and workback plan
 
 ## Exit Criteria
 
 ### Select a learning platform for Professional Services, that supports the following
-1. System must include:  
+
+1. System must include:
      1. eCommerce features
      1. Excellent learner experience
      1. Learning Paths
@@ -45,8 +38,9 @@ canonical_path: "/company/team/structure/working-groups/learning-experience/"
      1. Integration with CRM
 
 ### Determine if learning platform can be used by other audiences
+
 1. Document in the handbook if learning platform can be used by Field Enablement and L&D use cases
-2. Go/No-go decision on the need for an additional learning platform for team members
+1. Go/No-go decision on the need for an additional learning platform for team members
 
 ## Roles and Responsibilities
 
@@ -60,5 +54,3 @@ canonical_path: "/company/team/structure/working-groups/learning-experience/"
 | Member       | Kendra Marquart         | Sr. Technical Instructional Designer, Customer Education   |
 | Member       | Jamie Allen         | Learning Systems Adminstrator, Learning & Development   |
 | Member       | Barbara Roncato       | Business Systems Analyst, Enterprise Applications   |
-
-

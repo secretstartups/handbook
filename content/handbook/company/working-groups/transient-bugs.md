@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Transient bugs"
 description: "Build tooling for transient issues and outline process for sustainable early mitigations"
-canonical_path: "/company/team/structure/working-groups/transient-bugs/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -24,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/transient-bugs/"
 
 ## Business Goal
 
-Build tooling for transient issues and outline process to sustainable prevent transient issues early on. 
+Build tooling for transient issues and outline process to sustainable prevent transient issues early on.
 
 [Transient bugs](/handbook/engineering/quality/issue-triage/index.html#transient-bugs) have become our focus in FY21Q4 OKRs. We have multiple cross-functional efforts and KRs in both Development and Quality and want to shore-up the momentum on addressing these issues earlier with the appropriate tooling and process in place.
 
@@ -34,9 +26,9 @@ Build tooling for transient issues and outline process to sustainable prevent tr
 1. Build transient test pipeline to help detect transient bugs (GDK,CI,Test flaky reports). `=> 100%, completed`
 1. [Identify top 3 product groups where fixing transient bugs can help increase GMAU.](https://gitlab.com/gitlab-org/frontend/general/-/issues/40) `=> 100%, analysis done, need to add to handbook`
 1. [Update our documentation on architectural patterns that can prevent transient bugs.](https://gitlab.com/gitlab-org/gitlab/-/issues/293858) `=> 100%`
-   * [https://docs.gitlab.com/ee/development/transient/prevention-patterns.html](https://docs.gitlab.com/ee/development/transient/prevention-patterns.html)
-1. [Incorporate transient bugs into existing triage process and prioritization.](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/760) `=> 100%, have minimal prioritization, working on triage automation` 
-   * [https://about.gitlab.com/handbook/engineering/quality/issue-triage/#merge-requests-experience](/handbook/engineering/quality/issue-triage/#merge-requests-experience)
+   - [https://docs.gitlab.com/ee/development/transient/prevention-patterns.html](https://docs.gitlab.com/ee/development/transient/prevention-patterns.html)
+1. [Incorporate transient bugs into existing triage process and prioritization.](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/760) `=> 100%, have minimal prioritization, working on triage automation`
+   - [https://about.gitlab.com/handbook/engineering/quality/issue-triage/#merge-requests-experience](/handbook/engineering/quality/issue-triage/#merge-requests-experience)
 1. Build a measurement to increase visibility of transient bugs. `=> 100%, there is now a transient bug dashboard in Sisense`
 
 ### Roles and Responsibilities

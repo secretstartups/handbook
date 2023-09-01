@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Event Stream Working Group"
 description: "Develop a plan to implement a system-wide event stream for GitLab"
-canonical_path: "/company/team/structure/working-groups/event-stream/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -21,10 +13,10 @@ canonical_path: "/company/team/structure/working-groups/event-stream/"
 | Google Doc      | [Event Stream Working Group Agenda](https://docs.google.com/document/d/1unlrVd1M1N-d3GI2DP7R9gXJxBXHjY2rOKR5hsGHuKI/edit?usp=sharing) (only accessible from within the company) |
 | Issue Label | ~WorkingGroup::EventStream |
 
-## Context 
+## Context
 
-There are currnetly 3+ methods for publishing and listening to events withint the Gitlab product. 
-There is no single standard for events and there is no standard way of publishing and subscribing to events from other 
+There are currnetly 3+ methods for publishing and listening to events withint the Gitlab product.
+There is no single standard for events and there is no standard way of publishing and subscribing to events from other
 Gitlab systems and services.
 
 There is a growing need to standardize events and how to publish and consume them for both Gitlab.com and self-managed installs.
@@ -60,24 +52,28 @@ This Working Group has the following goals:
 An event stream is simply a stream of events that occur within the product. More specifically, for us at GitLab, it will involve the software changes we need to make in the product, event schemas and protocols, and infrastructure.
 
 ### Potential Tools/Services
+
 There are some tools/services that other companies are using for this
-  1. [Kafka](https://kafka.apache.org)
-  1. [NSQD](https://nsq.io)
-  1. [RabbitMQ](https://rabbitmq.com)
-  1. [GCP PubSub](https://cloud.google.com/pubsub)
+
+1. [Kafka](https://kafka.apache.org)
+1. [NSQD](https://nsq.io)
+1. [RabbitMQ](https://rabbitmq.com)
+1. [GCP PubSub](https://cloud.google.com/pubsub)
 
 ### Related GitLab Documentation or Issues
- * https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34042
- * https://gitlab.com/gitlab-org/gitlab/-/issues/338454
- * [Streaming Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/5925)
 
+- https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34042
+- https://gitlab.com/gitlab-org/gitlab/-/issues/338454
+- [Streaming Audit Events](https://gitlab.com/groups/gitlab-org/-/epics/5925)
 
 ## Exit Criteria
+
 If it is decided that an Event Stream should be implemented, our exit criteria should be:
- 1. Define the tool(s)/service(s) we should use for SaaS and on-prem (they might be different)
- 1. Define system architecture
- 1. Define an implementation plan and philosophy
- 1. Define event structure
+
+1. Define the tool(s)/service(s) we should use for SaaS and on-prem (they might be different)
+1. Define system architecture
+1. Define an implementation plan and philosophy
+1. Define event structure
 
 ## Roles and Responsibilities
 

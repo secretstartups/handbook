@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "CI Queue Time Stabilization Working Group"
 description: "The GitLab CI Queue Time Stabilization Working Group aims to increase the stability and predictability of the CI job queue times on GitLab.com."
-canonical_path: "/company/team/structure/working-groups/ci-queue-stability/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -27,7 +19,7 @@ Increase the stability and predictability of the CI job queue times on GitLab.co
 
 Intent is to:
 
-1. Analyze and remediate situations where our CI job queue times for shared runners exceed reasonable expectations 
+1. Analyze and remediate situations where our CI job queue times for shared runners exceed reasonable expectations
 1. Define metrics and tune alerting that more precisely correspond to the expectations of the CI job queues
 1. Develop troubleshooting and investigation guides to use in cases of excessive CI job queue times
 1. Perform predictive analysis on system health and growth and create issues to remediate anticipated future bottlenecks

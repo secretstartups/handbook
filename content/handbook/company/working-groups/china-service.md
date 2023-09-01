@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "China Service Working Group"
 description: "The charter of this working group is to operationalize a new plan for servicing China, due on April 30, 2021."
-canonical_path: "/company/team/structure/working-groups/china-service/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -25,12 +17,14 @@ canonical_path: "/company/team/structure/working-groups/china-service/"
 
 The charter of this working group is to operationalize a new plan for servicing China, due on April 30, 2021. Ongoing plans for engagement should be clearly identified, agreed upon, and documented.
 
-* JiHu FAQ: https://about.gitlab.com/pricing/faq-jihu/
-*GitLab Blog on JiHu: https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/
+- JiHu FAQ: https://about.gitlab.com/pricing/faq-jihu/
+- GitLab Blog on JiHu: https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/
 
 ## Roles and Responsibilities
+
 ### GitLab Inc JiHu Enablement Team
-The GitLab Inc JiHu Enablement Team includes team members who are directly enabling and supporting JiHu. 
+
+The GitLab Inc JiHu Enablement Team includes team members who are directly enabling and supporting JiHu.
 
 | Function                                | Primary Contact                         | Primary Contact GitLab Handle           | Supporting Contact Name                 | Supporting Contact GitLab Handle        |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
@@ -57,11 +51,12 @@ The GitLab Inc JiHu Enablement Team includes team members who are directly enabl
 | Legal                                   | Rashmi Chachra                          | @rchachra                               | Rob Nalen, Emily Plotkin, Lynsey Sayers, Cathy Hilling, Julie Braughler, Miguel Silva, Robyn Hartough | @rnalen, @emilyplotkin, @lasayers, @chilling32, @jbraughler, @md_silva, @rhartough |
 
 ### GitLab Inc Other Informed Team Members
+
 The Other Informed Team Members lists people who have access to confidential information about JiHu that are not directly involved in enabling the JiHu team.
 
 | Function                                | Primary Contact                         | Primary Contact GitLab Handle           | Supporting Contact Name                 | Supporting Contact GitLab Handle        |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Executive Group                         | Sid Sijbrandij Eric Johnson, Michael McBride, Todd Barr, Robin Schulman, Brian Robins, Wendy Barnes | @sytses, @edjdev, @mmcb, @tbarr, @rschulman, @brobins, @wendybarnes | Cheri Holmes, Robyn Hartough, Katie Gammon | @cheriholmes, @rhartough, @kgammon | 
+| Executive Group                         | Sid Sijbrandij Eric Johnson, Michael McBride, Todd Barr, Robin Schulman, Brian Robins, Wendy Barnes | @sytses, @edjdev, @mmcb, @tbarr, @rschulman, @brobins, @wendybarnes | Cheri Holmes, Robyn Hartough, Katie Gammon | @cheriholmes, @rhartough, @kgammon |
 | Internal Comms                          | Simon Liang                             | @sliang2                                |                                         |                                         |
 | IT                                      | Bryan Wise                              | @bryanwise                              | Marc DiSabatino, Peter Kaldis           | @marc_disabatino-admin, @pkaldis        |
 | Engineering - Development               | Christopher Lefelhocz                   | @clefelhocz1                            |                                         |                                         |

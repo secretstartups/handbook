@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Purchasing Reliability Working Group"
 description: "Learn more about Purchasing Reliability Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/purchasing-reliability/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -91,7 +83,7 @@ lack of observability and insight into this app.
 - [Internal Sales Handbook Definitions](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.4z6lmbtfepzq)
 - [Booking Metric Technical Docs](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 
-## Exit Criteria 
+## Exit Criteria
 
 The charter of this working group is to obtain alignment between stackholders (i.e. Engineering (Development),
 Enterprise Apps, Sales, and Finance). This includes addressing some immediate-term technical debt as well as
@@ -127,4 +119,3 @@ defining a clear vision and team/service boundaries going forward.
 | Member                | Vincy Wilson          | Manager, Quality                                |
 | Member                | Chloe Liu             | Senior Software Engineer in Test, Quality       |
 | Member                | Christopher Nelson    | Sr Director, Enterprise Applications              |
-

@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Engineering Career Matrices Working Group"
 description: "The GitLab Engineering Career Matrices Working Group aims to deliver 4 career matrices in Engineering as part of PlatoHQ program in response to CultureAmp feedback"
-canonical_path: "/company/team/structure/working-groups/engineering-career-matrices/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
  

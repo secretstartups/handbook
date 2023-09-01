@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "webpack"
 description: "GitLab Webpack increases engineer productivity by fixing and improving our frontend build tooling, and put both guidelines and automated processes in place"
-canonical_path: "/company/team/structure/working-groups/webpack/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 

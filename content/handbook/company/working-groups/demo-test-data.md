@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Demo & Test data working group"
 description: "TBD"
-canonical_path: "/company/team/structure/working-groups/demo-test-data/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -59,7 +51,7 @@ We will benefit from tooling efficiency together and broaden visiblity of demo d
 
 ## Result
 
-The [GitLab Data Seeder](/handbook/engineering/quality/gitlab-data-seeder/) was created as a result of this working group.
+The [GitLab Data Seeder](https://about.gitlab.com/handbook/engineering/quality/gitlab-data-seeder/) was created as a result of this working group.
 
 An internal [Slack channel](https://gitlab.slack.com/archives/C055Y333MM1) was created.
 

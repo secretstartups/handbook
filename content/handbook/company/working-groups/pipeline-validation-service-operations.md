@@ -1,15 +1,7 @@
 ---
-layout: markdown_page
 title: "Pipeline Validation Service Operations Working Group"
 description: "Learn more about the Pipeline Validation Service Operations Working Group attributes, goals, roles and responsibilities."
-canonical_path: "/company/team/structure/working-groups/pipeline-validation-service-operations/"
 ---
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ## Attributes
 
@@ -26,12 +18,11 @@ canonical_path: "/company/team/structure/working-groups/pipeline-validation-serv
 
 This Working Group has the following goals:
 
-1. Operate and develop the Pipeline Validation Service (PVS) 
+1. Operate and develop the Pipeline Validation Service (PVS)
 1. Track PVS workload and effectiveness
 1. Transition PVS to a long term owner
 
-
-### Exit Criteria 
+### Exit Criteria
 
 1. Successfully transition PVS to a long term owner
   - The [Anti-abuse](https://about.gitlab.com/handbook/engineering/development/sec/govern/anti-abuse/) group [owns and maintains PVS](https://about.gitlab.com/direction/anti-abuse/#pvs-pipeline-validation-service)
