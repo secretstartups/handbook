@@ -84,7 +84,7 @@ Candidates for the senior manager positions can expect the hiring process to fol
 - Successful candidates will subsequently be made an offer via email
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
-### Director, Security 
+### Director, Security
 
 This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
