@@ -28,6 +28,7 @@ quickly as updating the roadmap, so they don't need to be mentioned here unless 
 | Handbook Issue Triage Livestream       | October 2023             | Planning  |
 | Handbook Client-side Features          | December 2023            |           |
 | Handbook Search Improvements           | TBC                      |           |
+| New Team and Pets Site                 | TBC                      |           |
 
 ### Handbook Migration
 
@@ -73,29 +74,16 @@ search feature on [https://handbook.gitlab.com](https://handbook.gitlab.com) is 
 called Luna.  The vision is that searching the Handbook should be simple and accessible.  Once the migration is completed
 the next significant bit of work will be to improve search across the handbooks.
 
+### New Team and Pets site
+
+The current Team and Pets pages in company are quite complex and have not been included in the handbook migration as
+these pages aren't really handbook content.  So a decision has been taken to split these pages in to their own site
+once the migration has been completed.  This may include other elements such as the compensation calculator and the
+organisation chart as well as using WorkDay as the Single Source of Truth for team data.
+
 ## Migration Timetable and Status
 
-### Timetable
-
-| Order | Section                  | Total Pages | Markdown | ERB  |      Start |     Finish |   Status    |
-| :---: | :----------------------- | :---------: | :------: | :--: | ---------: | ---------: | :---------: |
-|   1   | Job Families             |     408     |   408    |  0   | 2023-03-28 | 2023-03-31 |  Completed  |
-|   2   | TeamOps                  |      7      |    0     |  7   | 2023-04-19 | 2023-04-21 |  Completed  |
-|   3   | Company Handbook Content |     52      |    49    |  3   | 2023-05-02 | 2023-05-12 |  Completed  |
-|   4   | Tools and Tips           |     12      |    12    |  0   | 2023-05-16 | 2023-05-19 |  Completed  |
-|   5   | Engineering              |    810      |   257    | 553  | 2023-06-06 | 2024-02-16 |  Planning   |
-|   6   | Infrastructure Standards |     21      |    21    |  0   | 2023-06-06 | 2023-06-09 |  Completed  |
-|   7   | IT Self Service          |     12      |    12    |  0   | 2023-06-27 | 2023-06-30 |  Completed  |
-|   8   | Support                  |     212     |   208    |  4   | 2023-07-31 | 2023-08-14 | In-Progress |
-|   9   | Company                  |     265     |   200    |  53  | 2023-08-15 | 2023-08-18 |  Planning   |
-|  10   | CoST Team Pages          |     14      |    12    |  2   | 2023-08-22 | 2023-08-24 |  Scheduled  |
-|  11   | Security                 |     153     |   148    |  3   | 2023-09-05 | 2023-09-08 |  Scheduled  |
-|  12   | Finance                  |     83      |    67    |  16  | 2023-09-26 | 2023-09-29 |  Scheduled  |
-|  13   | People Group             |     199     |   180    |  18  | 2023-10-17 | 2023-10-20 |             |
-|  14   | Marketing                |     415     |   423    |  44  | 2023-11-14 | 2023-11-17 |             |
-|  15   | Sales                    |     471     |   423    |  44  | 2023-12-05 | 2023-12-08 |             |
-|  16   | Legal                    |     67      |    67    |  0   | 2024-01-16 | 2024-01-19 |             |
-|  17   | Product                  |     414     |   351    |  64  | 2024-03-05 | 2024-03-15 |             |
+{{% include "includes/migration-timetable.md" %}}
 
 #### Status Key
 
@@ -127,15 +115,25 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** Support
+**What are we moving:** Company
 
-**Status** Set to be completed 2023-08-14
+**Status** Expected to complete: 2023-09-01
 
 #### What content is moving
 
 The following content has been earmarked as the next content to move.  This will be done as a series of small merge requests over the course of a week or so before the end of April.
 
-- [ ] [https://about.gitlab.com/handbook/support](https://about.gitlab.com/handbook/support) - `/sites/handbook/source/handbook/support`
+- [ ] [Company](https://about.gitlab.com/company) - `/sites/uncategorized/source/company`
+- [ ] [Company Culture](https://about.gitlab.com/company/culture) - `/sites/uncategorized/source/culture`
+- [ ] [Friends and Family Days](https://about.gitlab.com/company/family-and-friends-day) - `/sites/uncategorized/source/company/family-and-friends-day`
+- [ ] [History](https://about.gitlab.com/company/history/) - `/sites/uncategorized/source/company/history`
+- [ ] [KPIs](https://about.gitlab.com/company/kpis) - `/sites/uncategorized/source/company/kpis`
+- [ ] [Mission](https://about.gitlab.com/company/mission) - `/sites/uncategorized/source/company/mission`
+- [ ] [Offsite](https://about.gitlab.com/company/offsite) - `/sites/uncategorized/source/company/offsite`
+- [ ] [OKRs](https://about.gitlab.com/company/okrs) - `/sites/uncategorized/source/company/okrs`
+- [ ] [Purpose](https://about.gitlab.com/company/purpose) - `/sites/uncategorized/source/company/purpose`
+- [ ] [Strategy](https://about.gitlab.com/company/strategy) - `/sites/uncategorized/source/company/strategy`
+- [ ] [Top Cross Functional Initiatives](https://about.gitlab.com/company/top-cross-functional-initiatives) - `/sites/uncategorized/source/company/top-cross-functional-initiatives`
 
 #### How will this be done
 
@@ -207,7 +205,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### IT Self Service
 
-**Expected Date:** 9th August 2023
+**Completed:** 9th August 2023
 
 **Content to move:**
 
@@ -217,43 +215,45 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Support
 
-**Expected Date** 14th August 2023
+**Completed** 14th August 2023
 
 **Content to move:**
 
-- [ ] Support
+- [x] Support
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#support)
 
+#### CEO and CoST Team
+
+**Completed:** 2023-08-18
+
+**Content to move:**
+
+- [x] CEO pages
+- [x] CoST Team Pages
+
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#ceo-and-cost-team)
+
+
 #### Company
 
-**Expected Date:** End of August 2023
+**Expected Date:** 2023-09-01
 
 **Content to move:**
 
 - [ ] Company
 - [ ] Company Culture
 - [ ] Friends and Family Days
-- [ ] GitLab Assembly
 - [ ] History
 - [ ] KPIs
 - [ ] Mission
 - [ ] Offsite
 - [ ] OKRs
-- [ ] Workings Groups
+- [ ] Purpose
+- [ ] Strategy
+- [ ] Top Cross Functional Initiatives
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#company)
-
-#### CEO and CoST Team
-
-**Expected Date:** End of August 2023
-
-**Content to move:**
-
-- [ ] CEO pages
-- [ ] CoST Team Pages
-
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#ceo-and-cost-team)
 
 #### Security
 
