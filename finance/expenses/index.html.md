@@ -366,7 +366,7 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 </div>
 
 ## Co-Working Space
-- Coworking space is reimbursable for monthly space or up to 5 single days in a month. 
+- Coworking space is reimbursable for monthly space and one-off days during business travel.  
 - $700.00 Limit per month.
 - TThe space should be located within a commutable distance of the Team Member’s primary residence in their country of employment, with exception to One-off days (day passes) if the Team Member is traveling for business. This is for tax reasons.
 - Coworking space is not reimbursable while on personal travel.
