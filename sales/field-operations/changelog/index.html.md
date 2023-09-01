@@ -16,6 +16,10 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY24
 
+### 2023-09-05 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/377))
+
+**[FY25 Planning Data Review – Account Information Changes](https://gitlab.com/gitlab-com/sales-team/field-operations/data-intelligence/-/issues/122)**
+
 ### 2023-08-21 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/365))
 
 **[Tableau License Availability to CRO Org](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/23843)**
