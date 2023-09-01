@@ -4,39 +4,35 @@ title: IT Enterprise Applications Engineering
 
 The IT Enterprise Applications Engineering job family is responsible for the implementation and operational ownership of all Enterprise Applications.
 
-### Levels
+## Levels
 
-### IT Enterprise Applications Administrator
+## IT Enterprise Applications Engineer (Associate)
 
-IT Enterprise Applications Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+IT Enterprise Applications Engineer (Associate) is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to TO BE ADDED.
 
-### IT Enterprise Applications Administrator Responsibilities
+### IT Enterprise Applications Engineer (Associate) Responsibilities
 
-- Technical Delivery: Ability to administer and configure enterprise applications to support GitLab business processes while adhering to SOX compliant change management.
-- Process Improvement: Accomplish improvements to processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements. Document updated processes in the company handbook.
-- Business Acumen: Understanding of core business processes of quote to cash, record to report, hire to retire and procure to pay. Motivation for continuous learning in these areas.
-- Business Engagement: Engage with your team and stakeholders regarding their business strategy and objectives for automating and optimizing processes. Meet regularly with business partners to ensure that the applications are functioning as designed and supporting their needs.
-- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery.
-- Project Management: Run small sized projects that improve our ability to make better data focused insights or make the company more efficient.
-- Solve technical problems of moderate scope and complexity.
-- Craft code as required in Dev that meets our internal standards for style, maintainability, and best practices.
-- Conduct Code Review within our Code Review Guidelines and ensure community contributions receive a swift response.
+- TO BE ADDED
 
-### IT Enterprise Applications Administrator Requirements
+### IT Enterprise Applications Engineer (Associate) Requirements
 
-- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
-- Ability to use GitLab.
-- 2-3 years of experience in a systems administrator.
-- Hands-on administrator experience: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
-- Public company and SOX ITGC controls experience preferred.
-- Ability to thrive in a fully remote organization.
-- Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology - relationships.
-- Exceptional time management and prioritization skills, resilient under pressure.
-- Exhibit strong security and confidentiality practices with systems that handle sensitive data.
+- TO BE ADDED
 
-### IT Enterprise Applications Engineer
+## IT Enterprise Applications Engineer (Intermediate)
 
-IT Enterprise Applications Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+IT Enterprise Applications Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to TO BE ADDED.
+
+### IT Enterprise Applications Engineer (Intermediate) Responsibilities
+
+- TO BE ADDED
+
+### IT Enterprise Applications Engineer (Intermediate) Requirements
+
+- TO BE ADDED
+
+## IT Enterprise Applications Engineer
+
+IT Enterprise Applications Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the TO BE ADDED.
 
 ### IT Enterprise Applications Engineer Responsibilities
 
@@ -91,7 +87,7 @@ Extends the IT Enterprise Applications Administrator responsibilities:
     - Experience integrating Zuora with other systems such as Salesforce, Netsuite, and Avalara.
     - Zuora Certified Platform Admin, Zuora Billing and Revenue Certifications a plus.
 
-### Manager, IT Enterprise Applications Engineering
+## Manager, IT Enterprise Applications Engineering
 
 Manager, IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
 
@@ -105,7 +101,7 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Technical Delivery: Provide hands-on, expert-level technical assistance to delivery teams. Drives adoption of technology and process changes. Drive end to end delivery on large, complex, cross-functional projects across multiple systems or integrations with minimal oversight. Proactively provides recommendations for system improvements.
 - Project Management: Run the technical implementation of large-sized projects which improve our ability to make better data driven insights, or make the company more efficient. Drive intake and prioritization process for functional areas of expertise.
 - Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
-- Mentorship: Build and manage global teams. Guide and coach team members. Mentors junior team members and models GitLab values for the team.
+- Management: Build and manage global teams. Guide and coach team members. Mentors junior team members and models GitLab values for the team.
 
 ### Manager, IT Enterprise Applications Engineering Requirements
 
@@ -115,6 +111,58 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 
+## Staff IT Enterprise Applications Engineering
+
+Staff IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
+
+### Staff IT Enterprise Applications Engineering Responsibilities
+
+Extends the IT Enterprise Applications Engineer responsibilities:
+
+- Business Partnership: Influences leadership within the cross-functional team and assists in roadmap planning. Solid relationships with key stakeholders at the VP level.
+- Business Operations: Analyze and plan improvements in technical implementations to continue to deliver value to business partners. Drive the business to adopt recommended technical solutions
+- Document related processes and technical configurations in the handbook.
+- Technical Delivery: Provide hands-on, expert-level technical assistance to delivery teams. Drives adoption of technology and process changes. Drive end to end delivery on large, complex, cross-functional projects across multiple systems or integrations with minimal oversight. Proactively provides recommendations for system improvements.
+- Project Management: Run the technical implementation of large-sized projects which improve our ability to make better data driven insights, or make the company more efficient. Drive intake and prioritization process for functional areas of expertise.
+- Communication: Target audience Director, Sr. Director, VP, with presentations targeted to CFO staff for critical projects.
+- Mentorship: Guide and coach team members. Mentors junior team members and models GitLab values for the team.
+
+### Staff IT Enterprise Applications Engineering Requirements
+
+- Bachelor’s degree, preferably in Computer Science, Information Technology, Computer Engineering, or related IT discipline; or equivalent experience.
+5-7 years of experience implementing, configuring, customizing and integrating SaaS software Eg: SalesForce, DocuSign CLM, Netsuite, Zuora Billing, Zuora Revenue, Coupa, Zip, Navan, Workday, ADP, eTrade etc.
+- Be a self-starter, and thrive in a fast paced environment, customer centric and have the interpersonal skills necessary to manage business and technology relationships.
+- Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
+- Exhibit strong security and confidentiality practices with systems that handle sensitive data.
+
+## Principal IT Enterprise Applications Engineering
+
+Principal IT Enterprise Applications Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
+
+### Principal IT Enterprise Applications Engineering Responsibilities
+
+Extends the Staff IT Enterprise Applications Engineer responsibilities:
+
+- TO BE ADDED
+
+### Principal IT Enterprise Applications Engineering Requirements
+
+- TO BE ADDED
+
+## Distinguished IT Enterprise Applications Engineering
+
+Distinguished IT Enterprise Applications Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
+
+### Distinguished IT Enterprise Applications Engineering Responsibilities
+
+Extends the Distinguished IT Enterprise Applications Engineer responsibilities:
+
+- TO BE ADDED
+
+### Distinguished IT Enterprise Applications Engineering Requirements
+
+- TO BE ADDED
+
 ## Performance Indicators (PI)
 
 - [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
@@ -123,7 +171,7 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ## Career Ladder
 
-The next step in the  Manager, IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 
