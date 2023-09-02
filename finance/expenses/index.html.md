@@ -257,11 +257,14 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 </div>
 
 ## Train
-- The Train policy in Navan is set up as a “Dynamic Policy” which calculates a fair market price for every search based on travel dates and destinations.  Any purchases that are over 20% of the Dynamic Policy will be flagged for further review by your manager.  Also note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team. 
-- Train rides must be standard cabin class with a 14 day booking lead time.If you travel more than 3 train trips (6 segments) per quarter, and they are over 5 hours in duration; we will allow you to upgrade one class on the train.
-- Yearly or Monthly Rail Discount cards are not reimbursable 
-- Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team. 
+- The Train policy in Navan is set up as a “Dynamic Policy” which calculates a fair market price for every search based on travel dates and destinations. Any purchases that are over 20% of the Dynamic Policy will be flagged for further review by your manager.  Also note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.
+- Trains booked through Navan will be paid by Gitlab travel card.
+- Train rides must be standard cabin class with a 14 day booking lead time.
+- If you travel more than 3 train trips (6 segments) per quarter, and they are over 5 hours in duration; we will allow you to upgrade one class on the train.
+- Yearly or Monthly Rail Discount cards are not reimbursable.
+- Please note that anything booked outside of Navan will flag as “Out of Policy”, and will need to be reviewed by your manager and the AP team.
 - If booked within Navan and is flagged as “Out of Policy”, please also refer to the "Booking shows Out of Policy" section below.
+
 
 <div class="panel panel-success">
 **Coding**
