@@ -2,6 +2,11 @@
 * From there, we are able to select a ratio of the top issues to be planned for the milestone by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4657720?milestone_title=15.4&label_name[]=group%3A%3Acompliance). Our target ratio is to plan 60% features, 30% maintenance, and 10% bugs per milestone. The data below helps us understand our overall cross-functional status.
 * Each area will include a 20% stretch target of issues. EG capacity 40W x 60% features = 24W + 20% = ~28W
 * With a list now determined, Milestones and label `workflow::ready for development` can be added to this work, ready for the Milestone to start.
+* Engineering Manager will comment and add label to the the assigned issues with clear expectations for the Milestone using one of four scoped label types:
+  * `goal::planning` - full implementation plan created and if needed reviewed and approved
+  * `goal::development` - development has begun and either has in dev or in review workflow
+  * `goal::complete` - development complete and issue verified
+  * `goal::stretch` - added as a stretch goal, no expectation to start
 * We try to plan 1-2 Milestones ahead, we include a max of 2 planning issues (`workflow::planning breakdown` and `workflow::solution validation`) per person at the start of a Milestone, this is a rule of thumb. 
   * When a planning issue is included in a Milestone it is also assigned to team members. This is to provide clarity on what and who is doing what planning in the Milestone. 
 * By the 20th, Product should review the release that just concluded development (currently, we transition development work from one release to the next on the 18th) for issues that slipped from the milestone. Please evaluate issues that weren't merged in time and reschedule them appropriately.
