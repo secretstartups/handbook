@@ -100,9 +100,9 @@ This section describes techniques that are commonly used by the Red Team. These 
 
 If any team members have questions or concerns about these operations, please contact us in the `#g_security_redteam` Slack channel.
 
-### Open Scope Techniques
+### Opportunistic Attack Techniques
 
-Techniques used in [open-scope work](./#open-scope-work) include:
+Techniques used in [opportunistic attacks](./#opportunistic-attacks) include:
 
 - Port scanning.
 - Web crawling and scraping.

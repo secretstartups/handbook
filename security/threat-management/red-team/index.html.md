@@ -43,15 +43,29 @@ A stealth operation may be converted to a Purple Team operation after the Red Te
 
 You can read more about this process in [Purple Teaming at GitLab](purple-teaming/).
 
-### Open Scope Work
+### Opportunistic Attacks
 
-Some activities are considered open-scope, meaning that they can be conducted at any time, from any source IP address, and against any GitLab-managed asset without prior approval or notification. The output may or may not be included in the reporting for planned operations, depending on the results and whether or not it is helpful to the Blue Team.
+Opportunistic attacks are conducted outside the context of a formalized operation. They can be done at any time, from any source IP address, and against any GitLab-managed asset without prior approval or notification.
 
-You can see a list of these activities in our [Rules of Engagement here](./red-team-roe.html#open-scope-techniques).
+This type of work generally involves active attacks against real GitLab systems. It should always support our primary objective to improve the security of GitLab, with a goal to provide [properly labeled recommendations](#recommendations) or merge requests that solve security issues.
 
-If these activities are detected by SecOps, they should be treated as potentially malicious and acted upon appropriately. Unless part of a planned operation, there should never be an assumption that suspicious behaviour is a Red Team activity.
+Opportunistic attacks are documented in issues that are visible to all team members. We do this work to test hypotheses, prove risks, and generally pursue improvements in a manner that is less structured than a formalized operation.
 
-When vulnerabilities are manually discovered during open-scope work, an issue will be opened inside the [Red Team Operations issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/red-team-operations/-/issues) using the "Open Scope Finding" template. If immediate action is required, we will [contact SIRT](https://about.gitlab.com/handbook/security/#-contacting-the-team) and reference the issue. For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
+If vulnerabilities are discovered, we will exploit them and work to safely demonstrate maximum impact. This may involve establishing persistence, escalating privileges, and other common attack techniques.
+
+When immediate action is required, we will follow the standard process for [contacting security](https://about.gitlab.com/handbook/security/#-contacting-the-team). For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
+
+We list examples of [opportunistic attack techniques](./red-team-roe.html#opportunistic-attack-techniques) inside our rules of engagement.
+
+### Research
+
+Formalized operations and opportunistic attacks both require extensive research, and we factor that in when planning these activities.
+
+Outside of that context, the Red Team may conduct research with an intent to provide helpful information to others in the security industry and the wider GitLab community. This includes blogs, vulnerability disclosures, conference talks, etc.
+
+We will document our progress with any research projects inside GitLab.com. Depending on the sensitivity of the research, we may use a private project until it is ready to share.
+
+As a Red Team, we emulate attackers. That means the information we share may be about how to attack things. We should always consider the safety of others and provide context on how people can use this information to better understand and address security risks.
 
 ## Red Team Logistics
 
@@ -87,7 +101,7 @@ By doing this, we help foster a culture of security awareness throughout the org
 - Security Controls (using the label `RTRec::Control`)
 - Processes and Procedures (using the label `RTRec::Process`)
 
-This is done by opening individual issues for each recommendation generated during an operation or open-scope activity and tagging those issues with specific labels. We can then look back and see the time and effort put into each category and how the recommendations were received and acted upon.
+This is done by opening individual issues for each recommendation generated during an operation or opportunistic attack and tagging those issues with specific labels. We can then look back and see the time and effort put into each category and how the recommendations were received and acted upon.
 
 The following issue boards provide a consolidated view of these recommendations. Most issues will be confidential and visible only to GitLab team members:
 
@@ -114,7 +128,7 @@ GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-s
 
 ### Red Team Technique Handover
 
-The Red Team will develop new adversary emulation techniques on a regular basis, both during official operations as well as informal [open-scope](#open-scope-work) activities. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
+The Red Team will develop new adversary emulation techniques on a regular basis, both during formalized operations and opportunistic attacks. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
 
 While this may result in product fixes or infrastructure changes, it is possible that vulnerable configurations may reappear in the environment. At this point, GitLab's [Vulnerability Management](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/) group will take over any ongoing scanning required to monitor for this scenario. The Red Team will share any tools they used for the initial discovery, but Vulnerability Management will generally implement a more production-ready permanent scanning solution.
 
