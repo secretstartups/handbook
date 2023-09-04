@@ -49,8 +49,8 @@ You don't need manager approval if you are requesting the following:
 #### I need access to the Rails or database production console (grpd)
 
 Please use Teleport to request temporary access to either
-[the Rails console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Rails_Console_via_Teleport.md) or
-[the database console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Database_Console_via_Teleport.md).
+[the Rails console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/teleport/Connect_to_Rails_Console_via_Teleport.md) or
+[the database console](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/teleport/Connect_to_Database_Console_via_Teleport.md).
 
 #### I need access to version.gitlab.com or license.gitlab.com
 
