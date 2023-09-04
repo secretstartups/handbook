@@ -21,35 +21,13 @@ These guidelines ensure that features in our Production environments can be oper
 
 ### Requesting and creating new GCP infrastructure resources
 
-Please use the [Sandbox Cloud GCP Group Project issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=gcp_group_account_create_request) to request new resources. After the GCP project is created, it can be configured as needed, this provides initial provisioning and IAM management. This provides basic resources and is available to anyone team-member. 
+Please use the [Sandbox Cloud GCP Group Project issue template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=gcp_group_account_create_request) to request new resources. After the GCP project is created, it can be configured as needed, this provides initial provisioning and IAM management. This provides basic resources and is available to anyone team-member.
 
-As we make progress on [Project Runway](/handbook/engineering/infrastructure/platforms/tools/runway), we will encourage development teams to use Runway to provision new resources. Runway projects will include automated configuration and Runway provides many of the Infrastucture Readiness requirements as standard. Using Runway will make it easier and faster to promote new features into a Generally Available state in Production. 
+As we make progress on [Project Runway](/handbook/engineering/infrastructure/platforms/tools/runway), we will encourage development teams to use Runway to provision new resources. Runway projects will include automated configuration and Runway provides many of the Infrastucture Readiness requirements as standard. Using Runway will make it easier and faster to promote new features into a Generally Available state in Production.
 
-## Feature Availability Support
+## Severity levels for different product maturity
 
-### Experiment
-
-1. Incidents for Experimental features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
-1. Basic troubleshooting information is added to the service's `doc/` directory in the [runbook repository](https://gitlab.com/gitlab-com/runbooks). At minimum, there should be instructions for how how to disable the feature.
-1. If the feature requires a new service:
-   1. A [service catalog](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/service-inventory-catalog/index.md) entry is created with a label, team and owner assigned along with references to documents if they are available ([example](https://gitlab.com/gitlab-com/runbooks/-/merge_requests/5800)).
-
-
-### Beta
-
-1. All underlying services exist in the [Service Catalog](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/service-inventory-catalog/index.md)
-1. How to access services is documented in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
-1. Who to contact for further diagnosis is documented in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
-1. Basic observability in place
-1. Incidents for Beta features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
-
-### Generally Available
-
-1. Runbooks exist in the [runbook repository](https://gitlab.com/gitlab-com/runbooks)
-1. Observability exists
-1. [Readiness review](/handbook/engineering/infrastructure/production/readiness/) completed
-1. [Security review](https://gitlab.com/gitlab-com/gl-security/security-operations/infrastructure-security/bau/-/issues/new?issue[title]=Security%20Review%20Request%3A%20{%2B%20Service%2FFeature%20Name%20%2B}&issuable_template=production_readiness&_gl=1*1n9lhal*_ga*NDQ1MjYzMjU0LjE2NTk5Mzg1NjE.*_ga_ENFH3X7M5Y*MTY4NTU0ODM4OS42MDIuMS4xNjg1NTQ5NTc2LjAuMC4w) completed
-1. Automatic alert routing in place
+1. Incidents for Experimental and Beta features are assigned as [Severity 4](/handbook/engineering/infrastructure/incident-management/#incident-severity)
 1. Incidents for Generally Available features are assigned according to the [incident severity table](/handbook/engineering/infrastructure/incident-management/#incident-severity) listed on the Incident Management page.
 
 ## How to expedite features to General Availability
@@ -57,8 +35,8 @@ As we make progress on [Project Runway](/handbook/engineering/infrastructure/pla
 We are able to help expedite features to General Availability.
 
 In order to expedite a prototype feature, on the epic tracking the work required to reach General Availability, include the label `~expedite_prototype`.
-Infrastructure leadership are subscribed to this label and will be notified that the intention is to expedite this feature. 
+Infrastructure leadership are subscribed to this label and will be notified that the intention is to expedite this feature.
 
-Infrastructure leadership will confirm with the epic DRI if they are able to support this. 
+Infrastructure leadership will confirm with the epic DRI if they are able to support this.
 
 Epics with this label are visible in the [Prototype Status epic board](https://gitlab.com/groups/gitlab-org/-/epic_boards/44867).
