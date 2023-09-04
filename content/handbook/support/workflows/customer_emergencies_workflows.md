@@ -221,7 +221,7 @@ For example:
 
 When the call has ended:
 
-1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
+1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 1. Review the guidance in the general [On-call - Ending your on-call shift](/handbook/support/on-call/index.html#ending-your-on-call-shift) section and follow the relevant steps.
@@ -236,7 +236,7 @@ For example:
 
 When the call has ended:
 
-1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
+1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the ticket.
 1. Add all relevant internal-only information as an internal note on the ticket.
 1. Tag the next on-call engineer in the emergency's Slack thread.
 1. Merge into non-emergency ticket to consolidate and link everything.
@@ -249,7 +249,7 @@ As soon as the customer incident is resolved, mark the emergency ticket as solve
    1. Add an internal comment linking to the (solved) emergency ticket.
    1. Add an internal comment in the emergency ticket, linking to this ticket as the follow-up ticket.
    1. Check that the priority of the follow-up ticket fits.
-   1. Write post-call notes (using macro [`Support::Self-Managed::Post Customer Call`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the follow-up ticket.
+   1. Write post-call notes (using macro [`Support::Customer Calls::Call Completed - Summary`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360028010274)) relevant to the customer in a public reply on the follow-up ticket.
   - Be sure to let the customer know that follow up work will continue in this ticket.
 
 - **Option 2: There is no related ticket:**
