@@ -3,42 +3,46 @@ layout: markdown_page
 title: "Production Readiness Review"
 ---
 
-The Production Readiness Review is a process that helps identify the reliability needs of a service, feature or significant change to infrastructure for GitLab.com.
-It loosely follows the [production readiness review](https://sre.google/sre-book/evolving-sre-engagement-model/) from the SRE book.
+## Overview
+
+The Production Readiness Review is a process that helps identify the reliability needs of a service, feature, or significant change to infrastructure for GitLab.com.
+It loosely follows the [production readiness review][google sre engagement] from the SRE book.
+
 The goal of the readiness review is to make sure we have enough documentation, observability, and reliability for the feature, change, or service to run at GitLab.com production scale.
+The readiness review process should be started as early as possible as features progress through our [product maturity levels][maturity levels].
 
-For GitLab, this review is meant to facilitate collaboration between Service Owners, Application Security, and Site Reliability teams to share and help bridge any gaps about a new service.
-The review document will serve as a snapshot of what is being deployed and the discussions that surround it. It is not intended to be constantly updated.
+**A readiness review must be completed before the Reliability team will take responsibility for the availability of the service, feature, or change being proposed.**
 
-The review starts by [creating a new issue][new issue] in the [readiness project].
-After this, an MR is created using the [example template] which is the baseline for the review.
-We prefer to use an MR for reviewing the readiness document since it allows for inline comments, threaded discussions, and explicit assignments for review.
+It is important to start as early as possible and it is required for all [product maturity levels][maturity levels].
+A readiness review should be created for changes that meet any of the following criteria:
+- New infrastructure components, or significant changes to existing components that have dependencies on the GitLab application.
+- Changes to our application architecture that change how the infrastructure scales, or how data is processed or stored.
+- New services or changes to existing services that will factor into the availability of the GitLab application.
 
-The readiness review MR may go through multiple rounds of review, including merges to mainline.
-It is recommended to send the first review to team members who are closest to the service or feature.
-Though most essential readiness questions should be captured in the template, it is fine to add more details as necessary.
-**All non-applicable sections should be noted in the MR.**
+This review is meant to facilitate collaboration between Service Owners, Security and Infrastructure teams to help bridge any gaps identified for a new service.
+The review document will serve as a snapshot of what is being deployed and the discussions that surround it.
+It is not intended to be constantly updated.
 
-The readiness review needs to be approved by all required reviewers before the change is deployed and is taking production traffic.
-It is important to start the readiness as early as possible, as early as development and design.
-If it's not clear on what is needed to make a service scale for GitLab SaaS, engage with SREs on the design phase to receive guidance on the direction.
+The **readiness review MR** will go through a single review for every [maturity level][maturity levels].
+We require an MR because it allows for inline comments, threaded discussions and explicit approval.
+Once an MR has been approved by the stakeholders and merged it is considered approved for corresponding level.
+
+The **readiness review issue** is used to coordinate among stakeholders who will be assigned as reviewers and to track progress using the [Readiness Status Issue Board][issue board].
 
 ## Process
 
 The Production Readiness process is authored by the DRI of the work that is being delivered.
 
-1. The author [creates an issue][new issue] which uses the issue template in the [readiness project].
-1. The title of the issue should be a descriptive name of change.
-1. The process for the readiness review is specified in the issue in the form of a checklist, the instructions will guide the review author until the review is complete.
-
-## Examples
-
-The production readiness review process has been used for a wide range of changes to GitLab.com.
-These include new services, larger features in GitLab Rails, infrastructure migrations, and architecture changes.
-For examples see folders in the [readiness project]; note that every review is different so it is best to always start from the [example template] instead of an existing review.
+1. [Create an issue][new issue] using the issue template in the [readiness project][https://gitlab.com/gitlab-com/gl-infra/readiness]. The title of the issue should be a descriptive name of change.
+2. Follow the Readiness Checklist in the template.
 
 ## Guidelines for the author
 
+- If this is a review for the next maturity level for an existing feature, create an MR that modifies the existing review document.
+- Do not remove any items from the template even if they are not applicable to the feature.
+- The content of the readiness review should primarily consist of links to other docs and/or short explanations about why or why not we are meeting requirements.
+  It is not meant to contain detailed architecture, diagrams, or explanations on design. By linking to these documents we retain a single source of truth for this information rather than have it duplicated in the Readiness Review MR.
+  Design and architecture proposals should use the [Architecture Design Workflow][architecture workflow] process.
 - Be as descriptive as possible when writing this review. Avoid terminology that makes it appear as if something is already well known.
   What may be known by one may not be well understood by another.
 - Make no assumptions. If an answer cannot be provided, it is better to explain why we lack the ability to provide details.
@@ -61,8 +65,7 @@ For examples see folders in the [readiness project]; note that every review is d
 - Consider how sections listed in the [issue template][] are addressed.
   It is important that you highlight any shortcomings that you observe.
   Ensure that non-applicable sections are properly noted and that issues are created if there are gaps that need to be addressed following the change.
-- If the MR has gone through prior reviews, use the `Show all lines` option in the merge request diff to review and comment on unchanged lines.
-  Leave questions as you would with regular code review.
+- Leave questions as you would with regular code review.
 
 ## Completing the readiness review
 
@@ -74,3 +77,7 @@ Following this, the issue will be closed and the change can be applied in produc
 [readiness project]: https://gitlab.com/gitlab-com/gl-infra/readiness
 [issue template]: https://gitlab.com/gitlab-com/gl-infra/readiness/blob/master/.gitlab/issue_templates/production_readiness.md
 [example template]: https://gitlab.com/gitlab-com/gl-infra/readiness/blob/master/.gitlab/issue_templates/production_readiness.md#readiness-mr-template
+[maturity levels]: https://docs.gitlab.com/ee/policy/experiment-beta-support.html
+[google sre engagement]: https://sre.google/sre-book/evolving-sre-engagement-model/
+[architecture workflow]: https://about.gitlab.com/handbook/engineering/architecture/workflow/
+[issue board]: https://gitlab.com/gitlab-com/gl-infra/readiness/-/boards/5177836
