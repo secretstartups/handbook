@@ -46,17 +46,24 @@ These internal Slack channels may be helpful to join.
 
 * Department
   * [#quality](https://gitlab.slack.com/messages/C3JJET4Q6) - general department channel
-  * [#quality-weeklystandup](https://gitlab.slack.com/messages/CGZQCTU8J) - Weekly standup update channel for Quality
+  * [#quality_maintainers](https://gitlab.slack.com/archives/C0437FV9KBN) - channel for quality maintainers to request. Can be used to request expedited maintainer reviews when required
+  * [#quality-lounge](https://gitlab.slack.com/archives/CGZQCTU8J) - channel where the quality department hangs out and posts their weekly updates
   * [#g_engineering-productivity](https://gitlab.slack.com/messages/CMA7DQJRX) - Engineering Productivity team channel
-  * [#triage](https://gitlab.slack.com/messages/C39HX5TRV) - channel to aid in [triaging unlabelled issues](/handbook/engineering/quality/issue-triage/)
-  * [#qa-nightly](https://gitlab.slack.com/messages/CGLMP1G7M) - channel with semi-nightly end to end test results
-  * [#qa-staging](https://gitlab.slack.com/messages/CBS3YKMGD) - channel with daily `staging` end to end test results
-  * [#qa-production](https://gitlab.slack.com/messages/CCNNKFP8B) - channel with daily `production` end to end test results
+  * [#vp-infrastructure-quality](https://gitlab.slack.com/archives/C02GR2DV5QT) - channel for to communicate with the VP of Infrastructure and Quality
+  * [#infrastructure-quality-managers](https://gitlab.slack.com/archives/C017BFF9CJU) - channel to communicate and collaborate with all engineering managers in Infrastructure & Quality
+  * [#qa-master](https://gitlab.slack.com/archives/CNV2N29DM) - channel with end-to-end test results on master pipeline
+  * [#qa-nightly](https://gitlab.slack.com/messages/CGLMP1G7M) - channel with end-to-end test results against FIPS nightly package
+  * [#qa-preprod](https://gitlab.slack.com/messages/CCNNKFP8B) - channel with  end-to-end test results for run against pre.gitlab.com
+  * [#qa-release](https://gitlab.slack.com/archives/C0154HCFLRE) - channel with end-to-end test results for run against release.gitlab.net
+  * [#qa-staging](https://gitlab.slack.com/messages/CBS3YKMGD) -  channel with  end-to-end test results for run against staging.gitlab.com
+  * [#qa-staging-ref](https://gitlab.slack.com/archives/C02JGFF2EAZ) - channel with end-to-end test results for run against staging-ref.gitlab.com
+  * [#qa-production](https://gitlab.slack.com/messages/CCNNKFP8B) - channel with end-to-end test results for run against gitlab.com
   * [#qa-performance](https://gitlab.slack.com/messages/CH8J9EG49) - channel with performance testing results
+  * [#quality-reports](https://gitlab.slack.com/archives/C02MH85L5EF) - channel with various end-to-end test metrics reports
   * [#triage-automations](https://gitlab.slack.com/messages/CLCKT26JH) - channel for pipeline notifications from engineering productivity automation
 * Company
   * [#product](https://gitlab.slack.com/messages/C0NFPSFA8) - observe and interact with members of the product team
-  * [#development](https://gitlab.slack.com/messages/C02PF508L) - provides awareness of broken master, environment issues and other development related status items.
+  * [#development](https://gitlab.slack.com/messages/C02PF508L) - provides awareness of broken master, environment issues and other development related status items
   * [#is-this-known](https://gitlab.slack.com/messages/CETG54GQ0) - find information about canary failures or bugs
   * [#questions](https://gitlab.slack.com/messages/C0AR2KW4B) - ask questions and see other questions (and the answers) from other [GitLab Team Members](/handbook/communication/top-misused-terms/)
   * [#thanks](https://gitlab.slack.com/messages/C038E3Q6L) - give and see thanks for the awesomeness that [GitLab Team Members](/handbook/communication/top-misused-terms/) do
