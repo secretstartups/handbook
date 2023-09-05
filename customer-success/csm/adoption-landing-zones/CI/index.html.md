@@ -16,8 +16,15 @@ description: "A page containing links to helpful CI resources for the CSM team a
 
 ## Quickstart Guides
 1. Supplemental Resource: CI/CD Quickstart - Premium: [Public-Facing Page](https://gitlab.highspot.com/viewer/63bf4994dc979c98f1d3e832?)
-1. DevOps Solution Resource: Continous Integration: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
-1. CI Workshop Planning Overview: [Public Handbook Page](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html)
+   - To [create personalized Highspot Pitches using Styles and Templates](https://about.gitlab.com/handbook/sales/field-communications/gitlab-highspot/#how-to-create-pitches-using-existing-pitch-style-and-pitch-template-combos), refer to the following components:
+     - **Premium version:**
+       - Pitch Template: https://gitlab.highspot.com/items/63cb7a037d574a107f4e6001?lfrm=srp.2
+       - Pitch Style: https://gitlab.highspot.com/items/6389983b85763c84b2ed3b8d?lfrm=srp.1
+     - **Ultimate version:**
+       - Pitch Template: https://gitlab.highspot.com/items/64d9afedc17499f9125f9ca3?lfrm=srp.1
+       - Pitch Style: https://gitlab.highspot.com/items/63ca2a7a7d574a620e8b41e0?lfrm=srp.0
+2. DevOps Solution Resource: Continous Integration: [Public Handbook Page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#sample-discovery-questions)
+3. CI Workshop Planning Overview: [Public Handbook Page](https://about.gitlab.com/handbook/customer-success/workshops/ci-workshop.html)
 
 ## Migrating to GitLab
 
