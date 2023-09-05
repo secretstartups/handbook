@@ -125,7 +125,7 @@ If you need a basis for a response where you send the challenges, or in a 2FA ti
    - If a group owner is answering on an [enterprise user's]({{< ref "gitlab-com_overview.md#enterprise-users" >}}) behalf, the answers must relate to the group owner's account, not the user's account. Use the same verification process, and [owner vouch process](#authenticating-an-owner-vouch) (the same owner can be the one vouching).
 1. **If verification passed:** Request that your decision be peer-reviewed by another member of the team via Slack `#support_gitlab-com`.
 1. **If the verification failed**: A peer review is optional, and you may opt to [offer more challenges to the user](#user-fails-to-prove-account-ownership).
-1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#user-successfully-proves-account-ownership) on what to do if successful.
+1. *Peer reviewer:* In case you disagree, leave an internal note on the ticket stating your thoughts on what the risk factor should be and reply to the Slack conversation for further discussion. If you agree, move to [the next section](#step-4a-user-successfully-proves-account-ownership) on what to do if successful.
 
 #### Authenticating an Owner Vouch
 
