@@ -19,16 +19,16 @@ The Director, Data and Insights is a [grade 10](https://about.gitlab.com/handboo
 ### Responsibilities
 
 1. Drive the scope and effectiveness of the data and analysis function at GitLab.
-1. Ensure the Company’s cloud and on-premise data is centralized into a single data lake and modeled to support data analysis requirements from all functional groups of the Company.
+1. Ensure the Company’s cloud and on-premise data that is centralized into a single data lake is modeled to support data analysis requirements from all functional groups of the Company.
 1. Create a common data framework so that all company data can be analyzed in a unified manner.
 1. Work with the product, operations, and executive management teams to create a data enabled user journey.
 1. Create and execute a plan to develop and mature our ability to measure and optimize usage growth, mapped to our user journey.
-1. Ensure that all transactional systems can communicate with the data warehouse and that production data adheres to a unified data model.
+1. Ensure that production data adheres to a unified data model.
 1. Develop a roadmap for the data and analytics function that clearly defines ownership and responsibility between the central data function and the functional groups.
 1. Collaborate with all functions of the company to ensure data needs are addressed and the required data is modeled and available to analysts and end-users.
 1. Build a multi-modal service model that meets the non-homogeneous needs of our functional groups -- Full-service to Self-Service, and across our data stack.
 1. Work with product, operations and executive management to guide maintain a holistic vision of the future of data at GitLab, and help leadership plan for any changes in our data strategy or needs. An example is in-product analytics.
-1. This position reports directly to the CFO and works closely with the executive team to develop an organization plan that addresses company wide analytic resources in either a direct report or matrix model.
+1. This position reports directly to the VP of Data and works closely with the executive team to develop an organization plan that addresses company wide analytic resources in either a direct report or matrix model.
 
 ### Requirements
 
@@ -39,10 +39,45 @@ The Director, Data and Insights is a [grade 10](https://about.gitlab.com/handboo
 1. Have previously lead a corporate data platform project.
 1. Experience with open source data & analytics tools.
 1. Experience working with multiple executive level business stake holders.
-1. Must have experience with analytic and data visualization tools such as Periscope.
+1. Must have experience with analytic and data visualization tools such as Tableau.
 1. Share and work in accordance with our values.
 1. Must be able to work in alignment with Americas timezones.
 1. Ability to use GitLab
+
+## Director, Data Platform
+
+The director of data platform will be responsible for overseeing the development and management of scalable and efficient data platform and enabling seamless and secure integrations of diverse data sources. By collaborating across functional teams internally and with partners externally, the director of data platform will identify and prioritize long term strategic key areas of improvement, focus on reducing security and compliance risk, and drive continuous advancements in our data platforms.
+
+### Job Grade
+
+The Director, data platform is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+1. Drive the scope and effectiveness of the data and analysis function at GitLab.
+1. Ensure the Company’s cloud and on-premise data is centralized into a single data platform.
+1. Create a common data framework so that all company data can be analyzed in a unified manner.
+1. Ensure that all transactional systems can communicate with the data platform.
+1. Develop a roadmap for the data and analytics function that clearly defines ownership and responsibility between the central data function and the functional groups.
+1. Carries the responsibility to keep all components in the data platform up to the latest standards.
+1. Sets data architectural standards.
+1. Manage budget for tooling used inside the data platform.
+1. Keeps up to data with the latests trends and technologies by building up relationship with external stakeholders and proactively advices Data Leadership team on strategic directions.
+1. This position reports directly to the VP of Data and works closely with the executive team to develop an organization plan that addresses company wide analytic resources in either a direct report or matrix model.
+
+### Requirements
+
+1. Postgraduate work or equivalent experience (Masters or PhD) in a quantitative field such as math, physics, computer science, statistics etc.
+1. Minimum of 7 years experience in a senior leadership position managing an analytics team.
+1. Experience with a high growth company using on-premise tools and on-demand (SaaS) transactional systems.
+1. Hands on experience with Python, SQL and relational databases. Experience with Snowflake is a plus.
+1. Have previously lead a corporate data platform project.
+1. Experience with open source data & analytics tools.
+1. Experience working with multiple executive level business stake holders.
+1. Must have experience with analytic and data visualization tools such as Tableau.
+1. Share and work in accordance with our values.
+1. Must be able to work in alignment with Americas timezones.
+1. Ability to use GitLab.
 
 ## Senior Director, Data and Insights
 
