@@ -296,6 +296,9 @@ In the event of an accident resulting in damage to the rental car, the Non-US re
 
 ## Travel (Other)
 
+### Travel Dates - Days before and after
+The company will cover all work-related travel expenses. This includes lodging and meals during the part of the trip that is work-related. Depending on the distance of your travel, it can also include one day before and one day after the work related business. For example, if you are attending a 3 day conference in a jet lag-inducing location, the company will cover your lodging and meals those 3 days as well as one day before and one day after.
+
 ### Internet - Travelling
 - Internet while traveling is reimbursable for up to $50 USD (or local equivalent currency) per day.
 - Please provide trip details on the description box. 
