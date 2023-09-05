@@ -77,7 +77,7 @@ CREATE OR REPLACE NOTIFICATION INTEGRATION gitlab_data_notification_int
   AWS_SNS_ROLE_ARN = '<iam_role_arn>';
   ```
 
-  ### **Step 5: Granting Snowflake Access to the SNS Topic**
+ ### **Step 5: Granting Snowflake Access to the SNS Topic**
  
   Run below query in snowflake  
   ```
@@ -109,14 +109,14 @@ CREATE OR REPLACE NOTIFICATION INTEGRATION gitlab_data_notification_int
  This will require the IT help to update the policy. 
 
 
- ###  **Step 6: Grant usage permission on integration to loader role**
+###  **Step 6: Grant usage permission on integration to loader role**
 
  With Accountadmin role execute below in snowflake.
  ```
  GRANT USAGE on  INTEGRATION gitlab_data_notification_int to role loader;
 ```
 
-**<h3>Note:-** `Above  setup should not be modified because modifying any step will require all the step from 1 to 6 redo  as the integration will break.`
+**Note:** `Above  setup should not be modified because modifying any step will require all the step from 1 to 6 redo  as the integration will break.`
 
 ### **Step 7: Create Lambda function to send slack notification** 
 For this the user should have Create lambda function permission in AWS.
@@ -179,9 +179,9 @@ This will trigger the lambda function which will send the Slack notification
 
 In this example I have done it for one of snowflake task 
 ```SQL
-Alter task RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK suspend;
-Alter task RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK SET ERROR_INTEGRATION = gitlab_data_notification_int;
-Alter task RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK resume;
+ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK suspend;
+ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK SET ERROR_INTEGRATION = gitlab_data_notification_int;
+ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK resume;
 ```
 
 The task should be suspended in order to apply the integration. 
@@ -190,6 +190,6 @@ Once above is defined on any failure the notification will be sent to slack chan
 
 All the required permission in AWS account has been provided to all data platform team member. Also the Permission has been granted to loader role to use snowflake integration.
 
-**<h3>Note:-** Snowpipe error notifications only work when the ON_ERROR copy option is set to SKIP_FILE (the default). Snowpipe will not send any error notifications if the ON_ERROR copy option is set to CONTINUE.
+**Note:** Snowpipe error notifications only work when the ON_ERROR copy option is set to SKIP_FILE (the default). Snowpipe will not send any error notifications if the ON_ERROR copy option is set to CONTINUE.
 
-You can use the NOTIFICATION_HISTORY table function to query the history of notifications sent through Snowpipe. For more information, refer to NOTIFICATION_HISTORY.
+You can use the `NOTIFICATION_HISTORY` table function to query the history of notifications sent through Snowpipe. For more information, refer to [NOTIFICATION_HISTORY](https://docs.snowflake.com/en/sql-reference/functions/notification_history).
