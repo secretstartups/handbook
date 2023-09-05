@@ -137,25 +137,25 @@ In the event that a media member, editor, or publisher offers a draft or preview
 
 ### Speaking Opportunities (conferences, meetups, webinars and other events)
 
-**Invited to Speak**
+#### Invited to Speak
 
 If you are asked to speak on behalf of GitLab at an event, on a webinar or at a Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please reach out to the Corporate Communications and Developer Evangelist teams to ensure that the opportunity aligns with GitLab objectives and key narratives. Inquiries should be initiated in the `#external-comms` Slack channel before you accept the speaking invitation. Please allow 5 business days for evaluation. Opening an issue under Corporate Marketing to further collaborate on the opportunity may be requested.
 
-**Submitting to Speak**
+#### Submitting to Speak
 
 If you are planning to submit an event CFP or request to participate as a speaker for a webinar or Meetup (and you are not already a member of the [GitLab speakers bureau](/speakers/)), please ensure the opportunity aligns with GitLab objectives and key narratives. If you are unsure, please reach out to the Corporate Communications and Developer Evangelist teams. If accepted to speak, please take the training “Best practices for public speaking,” notify the Corporate Communications and Developer Evangelist teams via the `#cfp` Slack channel w/link to the accompanying issue and ensure the teams have 7-10 business days to review your final presentations.
 
-**E-Group External Communications Request**
+#### E-Group External Communications Request
 
 If you have an opportunity (media opportunity, podcast, video, webinar, fireside chat, conference, meetup, etc.) that you would like to invite an e-group member to participate in, please create a GitLab issue within the Corporate Marketing project using the [E-Group External Communications Request Issue Template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=EGroupExternal_Communications_Request_Issue_Template). When possible, please plan 90 days minimum from time of open issue to time of speaking opportunity for preparation. Once the issue is created, please post in `#external-comms` Slack channel for further assistance. Please allow the Corporate Communications team 5 business days to review your request.
 
-**Amplifying your Speaking Opportunity**
+#### Amplifying your Speaking Opportunity
 
 When speaking at an event, on a webinar or at a Meetup, if you are open to being a spokesperson with media or creating a contributed article on your talk, reach out to the Corporate Communications team via the `#external-comms` Slack channel.
 
 For ways to amplify your speaking opportunity, check out the “[How to make your content work harder for you](/handbook/marketing/corporate-communications/resources-trainings/#how-to-make-your-content-work-harder-for-you)” presentation.
 
-**Pursuing Speaking Opportunities Separate from GitLab**
+#### Pursuing Speaking Opportunities Separate from GitLab
 
 We know GitLab team members are multi-faceted and there may be opportunities to speak publicly that don’t overlap with your role at GitLab. In these cases, it is okay to do that assuming the opportunity will not be in conflict with GitLab’s [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).
 
@@ -164,7 +164,7 @@ In these instances, it’s necessary to keep your role at GitLab and affiliation
 If you’re considering a speaking opportunity that could be perceived as being associated with GitLab even if it is not, please share the opportunity with your manager and #external-comms for review before accepting it to avoid any potential conflicts.  
 
 
-**Event Booth Staffing**
+#### Event Booth Staffing
 
 If you are staffing the GitLab booth at an in-person or virtual event, you are representing GitLab. Please follow the company’s [SAFE framework](/handbook/legal/safe-framework/) when engaging with booth visitors and event attendees.
 
