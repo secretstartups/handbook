@@ -299,6 +299,9 @@ By creating the FMM issue at the sub category level, this still allows the marke
 
 Please be mindful of where you are creating a sub-category. The system will allow you to create a sub-category within a sub-category, and you will realize this because upon creation of the what you believe to be a new sub category, you will notice the details panel is already filled in. Do NOT go through and start changing out the data in the details panel, as you are only allowed to create one FMM issue within the sub-category. What you’ll need to do is delete the newly already filled in sub-category and then ensure you're in the category level and create a new sub-category. 
 
+##### FM Issue Date/Name Changes 
+Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
+
 ##### Help! The feature to create a GitLab issue is missing from the details panel 
 You can **ONLY** create a GitLab issue from within a **SUB-CATEGORY**. Please double check you have created a subcategory, and a line item as listed in the [instructions here.](/handbook/marketing/strategy-performance/allocadia/#how-to-create-a-fmm-issue-from-within-allocadia) 
 
@@ -329,8 +332,11 @@ If you have tried to create from the subcategory and you're still not able to cr
 
 Watch the [video](https://youtu.be/Xis0KDi-Iy4) for a step to step walkthrough.
 
-#### Date/Name changes 
-Should a date on a campaign need to change and the issue has already been created, you can systematically change the date & name. In order to do so, all changes must be made in Allocadia and then overnight will push the change to the GitLab FMM issue. Should you want to manually change both the issue AND Allocadia, you should feel empowered to do so. The automation is there to help you. 
+##### MDF Epic/Issues Auto Update
+
+Allocadia runs two daily syncs at 1:30 am and 1:30 pm EST and you can manual push the changes using the button at the bottom of the line item details button: `Create/Update MDF Epic/Issues`. Doing so will update any Allocadia name and date changes to the epic/issues. 
+
+Please be aware that the Start and End Date updates will only go through if the format of the “Date(s)” section in the epic description is still in the original format (e.g. “Date(s):YYYY.MM.DD - YYYY.MM.DD”).
 
 #### Making changes to the GitLab issues
 
