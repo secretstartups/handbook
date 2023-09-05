@@ -734,24 +734,52 @@ _Note that the `Emergency Coverage` slide in the [template above](https://docs.g
 
 ## Key Talent Criteria  
 
-Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results which are instrumental in moving critical company initiatives forward, and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent if they meet at least one of the following criteria:
+Key Talent makes up roughly ~10% of the population. Key Talent represents team members who have a significant impact on GitLab's success. They deliver quality results that are instrumental in moving critical company initiatives forward and do so consistently in alignment with our values. These team members are often recognized as experts in their current role. Team members, at any level, can be considered Key Talent.
 
-If the team member were to leave there would be:
+Team members identified as Key Talent typically have knowledge, skills, and experience that: 
 
-- Critical disruption to the product
-- Critical disruption to ARR ([Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)) - including delays for customers
-- Substantially impacts company ability to achieve significant milestones
-- Substantial impact to a significant process
-- Significant impact to the operation of the functional area
+- Contribute to key areas of the product 
+- Substantially impact the company’s ability to achieve significant milestones and results 
+- Have a substantial impact to a key process which drives business performance
+- Have a significant impact to the operation of a critical functional area
+- Demonstrate consistently strong performance
+- Demonstrates growth potential; the ability and desire to assume increasingly more broad or complex responsibilities and learn new skills.
 
-## Key Talent and Performance
+While not all of the criteria above need to be met for an individual to be designated Key Talent, it is required that Performance and Growth Potential are in a good place and that the team member meets at least one of the requirements above related to business impact.
 
-Performance and being identified as key talent can influence one another, but they are _not directly related_. For example:
+### Key Talent, Performance, and Growth Potential
 
-- A team member that has a performance assessment of [“exceeding”](/handbook/people-group/talent-assessment/#exceeding), is not automatically indicated as key talent. Perhaps they are doing exceptionally well in their role, but the impact to the business would not be considered “critical” if they were to leave.
-- A team member that is new to the role and still ["developing"](/handbook/people-group/talent-assessment/#developing) could be identified as key talent if they work in an area of the business that is highly specialized and particularly difficult to hire for. 
+Team members identified as key talent must be assessed at minimum Performing and Growing (Box 4) in the [Talent Assessment process](https://about.gitlab.com/handbook/people-group/talent-assessment/#the-performancegrowth-potential-matrix). 
+
+The only exception is for newly promoted individuals that fall into “Developing” Performance and “Developing” Growth Potential due to time and experience in their new role. Although Performance and Growth Potential are a consideration in the Key Talent selection process, they are not the only criteria used to determine the designation and should not be used in isolation. It is important to look holistically at the Key Talent Criteria outlined above when determining who qualifies as Key Talent on your team. 
+
+"Too new to rate" team members can be considered key talent but this would be an exception. In order for a "too new to rate" team member to be identified as key talent they must have specialized skills that drive a significant impact to business results. 
+
+Below are a few examples to help managers think through Key Talent designations as they relate to Performance and Growth Potential:
+
+1. A team member that has a performance assessment of “Exceeding” is not automatically indicated as Key Talent. Perhaps they are doing exceptionally well in their role, but the impact on the business would not be considered “critical” if they were to leave.
+
+2. A team member that is new to the role due to recent promotion and still "Developing" could be identified as Key Talent if they work in an area of the business that is highly specialized and critical to the success of key results at the company. 
 
 _Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values._
+
+### Key Talent and Single Points of Success (SPOS)
+
+Single Points of Success - SPOS - (sometimes known as “Single Points of Failure” in other organizations) refers to a single person whose absence would significantly impact the ability of an area of the company to function. 
+
+Team members that are identified as Key Talent can also be SPOS, as the definition of SPOS overlaps with a few of the Key Talent Criteria outlined above, however, a team member who is identified as SPOS is not also Key Talent by default. 
+
+A few key differences between Key Talent and SPOS include: team member’s performance and growth potential, risk mitigation plans, aand support/development strategies.  
+
+Four scenarios exist in the context of our Talent Assessment:
+
+- Team member identified as Key Talent
+- Team member identified as SPOS
+- Team member identified as Key Talent and SPOS
+- Team member identified as neither one
+
+To review the SPOS definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
+
 
 ## Process To Determine Key Talent
 
