@@ -45,7 +45,7 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 Please [visit the legal page](/handbook/legal/marketing-collaboration/#marketing-rules-and-consent-language) to view all of the Marketing Rules and Consent Language.
 
-This [Mural](https://app.mural.co/t/gitlab2474/m/gitlab5736/1594675938009/095286e912a2f8de19edd53e68a5e4e51d071db0?s) shows the opt-in and opt-out/unsubscribe workflows for all forms, list imports and individual subscriptions. (must be workspace member to view)
+This [FigJam](https://www.figma.com/file/fUbK9fPM0DOVf1ob6IIDbx/Opt-in-Workflow_2023-08-22_10-58-58?type=whiteboard&t=S4UoLJlyfrDlhTmw-1) shows the opt-in and opt-out/unsubscribe workflows for all forms, list imports and individual subscriptions. (must be workspace member to view)
 
 
 At GitLab, we strive to communicate with people in a way that is beneficial to them. We always include the unsubscribe link in our communications, and we respect the unsubscribe list. In addition to the unsubscribe button at the bottom of all of our emails, we have available our [Email Subscription Center](/company/preference-center/), where people can control their email communication preferences.
@@ -88,7 +88,7 @@ Non-DG emails are sometimes required for product updates, security alerts, surve
 
 
 ### Operational / Bypass Unsubscribe
-Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please follow this [decision tree](https://app.mural.co/t/gitlab2474/m/gitlab2474/1609875791482/41f0f728c4353fce6b50338f7ca7cc032acf1f11) for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email. 
+Certain emails can bypass unsubscribe and invalid emails by being marked as `operational`. Examples include critical system alerts, account updates (policy updates, etc.), event reminders with necessary link to attend event, and auto-responders for post event recording and slides emails. Please follow this [decision tree](https://www.figma.com/file/NmnCPyzTwg0szmFEYhIAnh/Decision-Tree-for-Operational_2023-08-23_20-50-07?type=whiteboard&node-id=0%3A1&t=BpnsLh0xK6S9yxOf-1) for auto-responder emails to help determine whether or not your email fits the operational standards. If they do not, you must include the proper email compliance filters in order to send the email, and also uncheck the operational check box on the email. 
 
 Emails that contain mostly marketing or promotional content like newsletters, event invites and sales emails are not considered `operational`. Only MktgOps and certain MCMs have access to this feature in Marketo. If you have any questions on whether or not your email is operational, contact MktgOps, who will bring in Legal for a final review. **When in doubt, ask!**
 
@@ -108,7 +108,7 @@ If a person asks a team member to remove them from email marketing from GitLab, 
 ### Partners and Email Communication
 While a partner is in contact with a lead or contact, GitLab should stop emailing the prospect so that the partner can follow up. Once the partner rejects or if GitLab recalls the lead, the lead can then be emailed again by GitLab (assuming we have consent). As of 2021-12-28 we have not yet set up a process for a lead to be returned to GitLab and become emailable.
 
-The workflows in Marketo are set up and are [reflected here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1640709707638/31d08e88786abdbc2aa7cc9c19a4b61f3412da1e?sender=awaller1257). If a lead or contact has a `Prospect Share Status` of `Sending to Partner`, `Accepted`, or `Pending`, Marketo will suppress them from all GitLab marketing sends (operational emails will still send). 
+The workflows in Marketo are set up and are [reflected here](https://www.figma.com/file/XPEIfQ3ZBoIuK01U6XCAyH/Partner-Opt-in--Email-Compliance-Flow_2023-08-30_16-10-19?type=whiteboard&node-id=0%3A1&t=LTAXXtADs19U4fHf-1). If a lead or contact has a `Prospect Share Status` of `Sending to Partner`, `Accepted`, or `Pending`, Marketo will suppress them from all GitLab marketing sends (operational emails will still send). 
 
 If a lead comes in via Partners from MDF or Trial campaigns, they are marked as `Marketing Suspended` in Marketo with a reason of `Partner Lead`, and will be un-emailable until that suspension flag is lifted.
 

@@ -223,12 +223,14 @@ Upon deal registration creation, when Vartopia recognizes that a lead is matched
 2. Marketo - input the subcategory ID into the Marketo program description.
 3. Marketo - sync the program to the SFDC campaign.
 4. Salesforce - create SFDC campaign (automated) and you are required to update `Partner Account` on the campaign.
-5. Vartopia - when a lead is ready to convert to DR, Vartopia will recognize there's a campaign linked to the lead, and display a dropdown to select the campaign name.
+5. Vartopia - when a lead is ready to convert to DR, Vartopia will recognize there's a campaign linked to the account, and display a dropdown to select the campaign name.
 6. Salesforce - see the deal registration that's created and update the metrics on the campaign.
 
 ## Vartopia Sync Requirements
 
 * The `Partner Account` must be selected with a Channel Partner to sync to Vartopia.
+* `Sync to Vartopia` must be checked on the campaign.
+* Campaign must be active to sync.
 * Only one `Partner Account` can be selected per campaign. For campaigns with multiple partners, you are required to create a child campaign per partner.
 
 ## Use Case for Distributors
@@ -246,7 +248,7 @@ In comparison to the main process, we are required to create a child campaign pe
 5. Salesforce - create a [child campaign](https://trailhead.salesforce.com/content/learn/modules/campaign-management-with-nonprofit-success-pack/create-campaigns-and-campaign-hierarchies) and set the SFDC campaign as your parent campaign.
 6. Salesforce - update the `Partner Account` (partner) on the child campaign.
 7. Marketo - import the leads from POP to the child campaign -  leads must already be assigned to partners on import.
-8. Vartopia - when a partner converts the lead to DR, Vartopia will recognize there's a campaign linked to the lead, and display a dropdown to select the campaign name.
+8. Vartopia - when a partner converts the lead to DR, Vartopia will recognize there's a campaign linked to the account, and display a dropdown to select the campaign name.
 9. Salesforce - see the deal registration that's created and update the metrics on the campaign.
 
 ### AMER Distributors - Process
@@ -257,14 +259,14 @@ Contrary to APAC and EMEA distributors, AMER distributors prefer to create the D
 2. Marketo - input the subcategory ID into the Marketo program description.
 3. Marketo - sync the program to the SFDC campaign.
 4. Salesforce - create SFDC campaign (automated) and you are required to update `Partner Account` (distributor) on the campaign.
-5. Vartopia - when the distributor converts the lead to DR, Vartopia will recognize there's a campaign linked to the lead, and display a dropdown to select the campaign name.
+5. Vartopia - when the distributor converts the lead to DR, Vartopia will recognize there's a campaign linked to the account, and display a dropdown to select the campaign name.
 6. Salesforce - see the deal registration that's created and update the metrics on the campaign.
 
 ## Field Glossary
 
 ### GitLab Marketing Campaign
 
-`GitLab Marketing Campaign` previously MDF campaign, is a lookup field to the campaign on the registration object. This field will be visible when a lead is linked to a campaign upon deal registration creation.
+`GitLab Marketing Campaign` previously MDF campaign, is a lookup field to the campaign on the registration object. This field will be visible when an account is linked to a campaign upon deal registration creation.
 
 ### Partner Account
 
@@ -272,7 +274,7 @@ Contrary to APAC and EMEA distributors, AMER distributors prefer to create the D
 
 ### Sync to Vartopia
 
-`Sync to Vartopia` is a checkbox field on the campaign object that is checked when the campaign is synced to Vartopia.
+`Sync to Vartopia` is a checkbox field on the campaign object that is to be checked to sync the campaigns to Vartopia.
 
 # FAQ
 

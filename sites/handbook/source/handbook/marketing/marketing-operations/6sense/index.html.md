@@ -77,9 +77,15 @@ The following teams have role-based access to 6sense:
 - Insights User: This role has full access to 6sense insights for segments and accounts.
 - Sales User: This role has full access to 6sense insights for segments and accounts.
 
-## Training
+## Training Resources
 
-Training schedule TBD. Schedule of trainings and recordings of trainings will be posted here.
+### Sales Dev Training Recordings
+- [EMEA 6Sense Training](https://www.youtube.com/watch?v=fOPXzpcs_5k)
+- [AMER 6Sense Training](https://www.youtube.com/watch?v=z3fmYcoiRXs)
+
+### Upcoming Trainings
+- [2023-09-27: 6sense Field Marketing Enablement Session 1](https://www.google.com/calendar/event?eid=NDU0cm41a2N0cW5qdnRkZGllM2F0aWhqMGIgbnJzQGdpdGxhYi5jb20)
+- [2023-09-27: 6sense Field Marketing Enablement Session 2](https://www.google.com/calendar/event?eid=NjByNzUwdXUxYXZpdjFnbmpmaHZkZWVnam8gbnJzQGdpdGxhYi5jb20)
 
 ## Orchestrations
 
