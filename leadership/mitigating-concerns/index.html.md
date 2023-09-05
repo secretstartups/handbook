@@ -168,7 +168,7 @@ We can address this concern by:
 ### Playing politics
 {:#playing-politics}
 
-Political behavior is counter to GitLab's values and make it harder to achieve results. We define political and non-political behavior on our [Values page](/values/#playing-politics-is-counter-to-gitlab-values). 
+Political behavior is counter to GitLab's values and make it harder to achieve results. We define political and non-political behavior on our [Values page](/handbook/values/#playing-politics-is-counter-to-gitlab-values). 
 
 ## Product
 
