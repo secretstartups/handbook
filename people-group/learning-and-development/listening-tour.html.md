@@ -46,13 +46,13 @@ The L&D team plans to meet with ~35 leaders across the business, with representa
 | ----- | ---------- |
 | 1:1  | Selected leaders will meet 1:1 for ~15 minutes with a member of the Learning and Development team where they’ll discuss the 4 tour questions. |
 | Focus Group  | Selected leaders will meet in small groups of 3-4 leaders, along with a member of the Learning and Development team, for ~40 minutes where they’ll discuss the 4 tour questions. |
-| Google Form  | Team members who would like to contribute, but are not selected for the listening tour, can contribute their thoughts to the 4 tour questions in this Google Form. The form is not anonymous. Based on your responses, the L&D team may reach out with follow up questions or for additional discussion.  |
+| Google Form  | Team members who would like to contribute, but are not selected for the listening tour, can contribute their thoughts to the 4 tour questions in [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfwGxJM_lfEY0dgXuTTZtJYUdagmShtxbLVVFN-4Sk6KV3lOg/viewform?usp=sf_link). The form is not anonymous. Based on your responses, the L&D team may reach out with follow up questions or for additional discussion.  |
 
 ## How can I contribute?
 
 If selected to participate in a listening tour discussion, a member of the L&D team will be in touch directly to schedule time for either a 1:1 or Focus Group session.
 
-If you are not selected, you can still contribute by filling out this Google Form, which includes the same questions asked in the discussion sessions.
+If you are not selected, you can still contribute by filling out [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfwGxJM_lfEY0dgXuTTZtJYUdagmShtxbLVVFN-4Sk6KV3lOg/viewform?usp=sf_link), which includes the same questions asked in the discussion sessions.
 
 ## Timeline
 
