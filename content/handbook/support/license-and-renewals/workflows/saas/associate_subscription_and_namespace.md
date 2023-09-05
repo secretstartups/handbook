@@ -61,11 +61,13 @@ If the user has access to and sees a subscription in CustomersDot but doesn't se
 
 Associating a group with a subscription in CustomersDot:
 
-1. Log into: <https://customers.gitlab.com/customers/sign_in>
-1. Navigate to **Manage Purchases**
-1. Select **Change linked namespace**
-1. Select the desired group from the **namespace** dropdown
-1. Check your billing information and proceed with **Confirm purchase**
+1. Sign in to the [GitLab Customers Portal](https://customers.gitlab.com/customers/sign_in).
+1. Go to **Manage Purchases**.
+1. Do one of the following:
+   - If the subscription is not linked to a namespace, select **Link subscription to a group**.
+   - If the subscription is already linked to a namespace, select **Subscription actions** (**{ellipsis_v}**) > **Change linked group**.
+1. On the **Change subscription namespace** page, from the **New namespace** dropdown list, select the group you want.
+1. Check your billing information and select **Confirm purchase**.
 
 **Note:** if the relevant namespace is grayed out or not on the namespace drop-down list, they cannot proceed -- they need assistance from Support to complete the association. Use the following information to determine the correct next step:
 
