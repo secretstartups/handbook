@@ -15,9 +15,9 @@ Temporary Service Providers are team members that are provided by an outside ven
 ## What is the Temporary Service Provider lifecycle process like? 
 Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. We track issues related to consultants/professional service providers in the [Temporary Service Providers group](https://gitlab.com/gitlab-com/temporary-service-providers). Temporary Service Providers need to go through the [Professional Services Procurement process](https://about.gitlab.com/handbook/finance/procurement/#--vendor-lifecycle-management) before they can be onboarded. 
 
-### Hiring Manager Responsibilites
+## Hiring Manager Responsibilites
 
-## Prior to Onboarding Contractor
+### Prior to Onboarding Contractor
 All steps below must be completed prior to any onboarding or access assignment. 
 
 - Procurement process must be completed. [How to submit a Zip request for a contractor](https://about.gitlab.com/handbook/finance/procurement/#how-to-submit-a-zip-request-for-a-contractor)
