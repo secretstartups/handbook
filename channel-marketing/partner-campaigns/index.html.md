@@ -32,7 +32,7 @@ In order for the Partner to be able to see and action the lead in Vartopia, the 
 We intend to launch the first phase of the recall process for partner leads in the “Prospects” module in the GitLab Partner Portal on **April 18, 2023**. The recall process is built to be able to pull back leads that are not being actioned. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
 
 ## Types of Partner Campaigns
-Each campaign has it's own ROE for lead routing and email practices. Follow the [Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1637023136930/1fd8a497f2500ef8d7f12920d71595d0c412fa91?sender=awaller1257) to find the type of event and the follow up that results from it.
+Each campaign has it's own ROE for lead routing and email practices. See the [flow chart](https://www.figma.com/file/vOe7ohMpZfYCGEG3siIpbU/Partner-%2B-GitLab-Campaign-Workflows_2023-08-28_19-18-38?type=whiteboard&t=QvcXdK9p5nlkFL2I-1) to find the type of event and the follow up that results from it.
 
 ### Issue first - Partner Pilot
 In an attempt to extend our GitLab [CREDIT](/handbook/values/#credit) values to our partner ecosystem, the EMEA teams have decided to run a pilot with partners where the partner will be invited to collaborate in GitLab issues for joint event execution. More info can be found in the [Partner Pilot Issue.](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/7263)
@@ -48,7 +48,7 @@ When a lead/contact is associated to a campaign the following steps occur:
 DRI for the operalization of this process: Channel Marketing
 
 ### Joint GitLab and Partner Events
-When GitLab and Partners participate in events together, they will share leads. The mural above has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
+When GitLab and Partners participate in events together, they will share leads. The [flowchart](https://www.figma.com/file/vOe7ohMpZfYCGEG3siIpbU/Partner-%2B-GitLab-Campaign-Workflows_2023-08-28_19-18-38?type=whiteboard&t=QvcXdK9p5nlkFL2I-1) has a visual workflow of these steps. [Go here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) for Marketo/SFDC campaign set up.
 
 **NOTE:** Phone numbers are required in order for the lead to be passed to Vartopia. If a phone number has not been supplied via the list, Marketo will appended a phone number automatically of `555-555-5555`. 
 
