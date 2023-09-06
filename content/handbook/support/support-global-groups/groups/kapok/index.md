@@ -63,7 +63,7 @@ If you have questions about coverage or whether you should take PTO or not, feel
 
 #### Extended PTO
 
-In AMER, we share extended PTO plans via Slack as far in advance as possible. Extended PTO is typically five days or longer. Raising awareness about extended PTO plans in advance permits the entire team to coordinate and plan accordingly.
+In AMER, we share extended PTO plans via Slack as far in advance as possible. We also discuss upcoming extended PTO during our monthly SGG sync meetings. Extended PTO is typically five days or longer. Raising awareness about extended PTO plans in advance permits the entire team to coordinate and plan accordingly. This helps to ensure we have enough coverage while making sure everyone is able to enjoy GitLab's "[Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second)" operating principle.
 
 ## Kapok Team Building
 
