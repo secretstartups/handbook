@@ -1,14 +1,6 @@
 ---
-layout: handbook-page-toc
 title: AnswerBase Quality Guide
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 
 ## Purpose
 
@@ -30,7 +22,7 @@ Answers in AnswerBase should have the following characteristics:
     - Answers will be reviewed for accuracy on at least an annual basis.
 
 ### Tags
-   
+
 - Answers should have tags assigned to them.
     - Tags will support quicker and smoother searching for team members.
     - Tags will be reviewed for accuracy on at least an annual basis.

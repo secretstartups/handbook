@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Security Assurance Automation"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
- 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## A dedicated resource
 
@@ -21,23 +14,20 @@ Security Assurance Automation Engineers are a critical dedicated resource that e
 
 Security Governance maintains an internal [Security Assurance Automation project](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation) that is dedicated to the intake of Security Assurance related automation requests. As these requests are received, Security Assurance Automation Engineers triage and prioritize the requests. Once requests have been prioritized, an Epic is opened at the GitLab Security Department sub-group level. All work related to the automation request is tracked in its associated Epic.
 
-<div class="flex-row" markdown="0" style="height:80px">
-    <a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Open a Security Assurance Automation Request</a>
-</div>
+<a href="https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue" class="btn bg-primary text-white btn-lg">Open a Security Assurance Automation Request</a>
 
 #### Why do you use Epics at the GitLab Security Department sub-group level?
 
-This process allows all automation engineers across the Security Division to maintain visibility of all in-flight automation work. The use of Epics and the increased visibility also streamlines the process of requesting resources from our [Security Automation](/handbook/security/security-engineering/automation/) team if necessary.
+This process allows all automation engineers across the Security Division to maintain visibility of all in-flight automation work. The use of Epics and the increased visibility also streamlines the process of requesting resources from our [Security Automation]({{< ref "../../security-engineering/automation" >}}) team if necessary.
 
 ### SLAs
 
 The Security Assurance team uses scoped labels to identify the priority and indicate the resolution time of automation requests.
 
-
-* Priority Label - Security Assurance Automation (SAA) followed by the associated priority number.
-* Color - The color of the label.
-* Description - Criteria the issue must fit to be assigned the label.
-* Provide Solution - The time it will take to update the issue and provide a solution to the automation request. 
+- Priority Label - Security Assurance Automation (SAA) followed by the associated priority number.
+- Color - The color of the label.
+- Description - Criteria the issue must fit to be assigned the label.
+- Provide Solution - The time it will take to update the issue and provide a solution to the automation request.
 
 
 | Priority | Color | Description | Provide Solution |
@@ -52,18 +42,21 @@ The Security Assurance team uses scoped labels to identify the priority and indi
 The Security Assurance Automation team is continuously engineering new automated solutions to manual processes. Below are a few projects that the team maintains.
 
 #### Feedback Bot
+
 [The Feedback Bot](https://gitlab.com/gitlab-com/gl-security/security-assurance/feedback-bot) - A bot that enables team members to send private feedback to other team members through Slack.
 
 #### Escalation Engine
+
 [The Escalation engine](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/escalator) - An engine that allows users to take automated actions on issues based on a predetermined set of criteria. The engine runs in a scheduled CI pipeline.
 
 #### Dashboarding
+
 [Sisense Dashboarding](https://app.periscopedata.com/app/gitlab/1092210/ZenGRC_Observations) - Custom dashboards using our analytic tool that integrates with data sources across GitLab.
 
 [Insight Dashboarding](https://docs.gitlab.com/ee/user/group/insights/index.html#configure-your-insights) - Custom issue analytic dashboards native to GitLab.
 
-
 #### Compliance control monitoring and evidence gathering automation
+
 Conversion of manual compliance control monitoring and evidence gathering processes to partially or fully automated processes. This will save time and reduce the opportunity for human error or oversight as our control framework expands.
 
 ## Security Assurance Automation SDLC
@@ -74,7 +67,7 @@ The planning stage occurs during 1:1s, weekly sprint planning meetings, and Slac
 
 - Who is requesting the automation project?
 - What are they requesting?
-- Why are they requesting this project? 
+- Why are they requesting this project?
     - What efficiencies will be gained?
     - How much time will be saved per team member, per week?
 - When is this project expected to be completed by?
@@ -110,7 +103,7 @@ Security Assurance Automation Engineers run tests on their code to identify bugs
 
 ### Implementation
 
-During this stage, code is moved from the Sec Auto Dev pipeline into the Sec Auto Live pipeline. If an automation request requires web hosting or a server, the automation will live in the Sec Auto Live private GCP instance. 
+During this stage, code is moved from the Sec Auto Dev pipeline into the Sec Auto Live pipeline. If an automation request requires web hosting or a server, the automation will live in the Sec Auto Live private GCP instance.
 
 Once the code is ready for final review, a team member from Security Assurance or Security Automation will review the code and merge the branch. The project is moved to a "Done" state when the solution is operating in an automated private pipeline.
 
@@ -119,5 +112,3 @@ Once the code is ready for final review, a team member from Security Assurance o
 Routine and break-fix maintenance of automated controls and processes is performed by Security Assurance Automation Engineers for automation related to the sub-department. Pro-active requests for maintenance can submitted through the [Security Assurance Automation project](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/security-assurance-automation/-/issues/new?issuable_template=new_automation_issue).
 
 Maintenance tasks will be tracked via GitLab Issues similar to all other automation tasks.
-
-

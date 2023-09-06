@@ -1,39 +1,22 @@
 ---
-layout: handbook-page-toc
 title: "Control Health and Effectiveness Rating (CHER) Procedure"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
-
-</div>
-</div>
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
 
 ## Purpose
 
-Control Health and Effectiveness Ratings (CHER) determine a [GitLab Security Controls](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html) overall control health and effectiveness. 
+Control Health and Effectiveness Ratings (CHER) determine a [GitLab Security Controls]({{< ref "sec-controls" >}}) overall control health and effectiveness.
 
 ## Scope
 
-Observation risk ratings play a key role in determining how to establish a controls CHER. The procedures outlined in the sections below are used specifically by the Security Assurance Team once an observation's [risk rating is determined](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html). Team members utilizing the CHER for rating information system risks outside of control testing activities will not need to engage in the procedures below.
+Observation risk ratings play a key role in determining how to establish a controls CHER. The procedures outlined in the sections below are used specifically by the Security Assurance Team once an observation's [risk rating is determined]({{< ref "observation-management-procedure" >}}). Team members utilizing the CHER for rating information system risks outside of control testing activities will not need to engage in the procedures below.
 
 ### Procedure
 
-<details>
-<summary markdown="1"><b>Determining the Individual Control Health & Effectiveness Rating (CHER)</b>
-</summary>
+{{% details summary="Determining the Individual Control Health & Effectiveness Rating (CHER)" %}}
 
 #### Risk rating and determining effectiveness
 
@@ -105,7 +88,7 @@ CHER provides a qualitative value of a control's effectiveness that is used as a
   </tr>
 </tbody>
 </table>
-</details>
+{{% /details %}}
 
 
 #### Quantitative vs. Qualitative Terms and Definitions
@@ -169,13 +152,13 @@ The process of completing control assessments will always require an associated 
 
 ## References
 
-- [System Risk Scoring](/handbook/security/security-assurance/system-risk-score.html)
-- [GCF Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html#)
-- [Sarbanes-Oxley (SOX) Compliance](/handbook/internal-audit/sarbanes-oxley/)
-- [Observation Creation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html)
-- [Observation remediation Procedure](https://about.gitlab.com/handbook/security/security-assurance/observation-remediation-procedure.html)]
+- [System Risk Scoring]({{< ref "system-risk-score" >}})
+- [GCF Control Lifecycle]({{< ref "security-compliance/security-control-lifecycle" >}})
+- [Sarbanes-Oxley (SOX) Compliance](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/)
+- [Observation Creation Procedure]({{< ref "observation-management-procedure" >}})
+- [Observation remediation Procedure]({{< ref "observation-remediation-procedure" >}})]
 - [Observation Management Project](https://gitlab.com/gitlab-com/gl-security/security-assurance/observation-management)
 
 ## Contact
 
-If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team](https://about.gitlab.com/handbook/security/security-assurance/#contacting-the-team)
+If you have any questions or feedback about the observation management process please [contact the GitLab Security Assurance Team]({{< ref "security-assurance#contacting-the-team" >}})

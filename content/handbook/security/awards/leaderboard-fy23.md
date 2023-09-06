@@ -1,17 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "Security Awards Leaderboard FY24"
 ---
 
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 The Security Awards are currently paused.
-
-# Leaderboard FY24
 
 ## Yearly
 
@@ -55,11 +46,11 @@ Category is empty
 
 Category is empty
 
-# Leaderboard FY23
+## Leaderboard FY23
 
-## Yearly
+### Yearly
 
-### Development
+#### Development
 
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
@@ -189,7 +180,7 @@ Category is empty
 | [@mikolaj_wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | 124 | 20 |
 | [@jaime](https://gitlab.com/jaime) | 125 | 20 |
 
-### Engineering
+#### Engineering
 
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
@@ -210,7 +201,7 @@ Category is empty
 | [@seanarnold](https://gitlab.com/seanarnold) | 15 | 30 |
 | [@nolith](https://gitlab.com/nolith) | 16 | 20 |
 
-### Non-Engineering
+#### Non-Engineering
 
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|
@@ -223,7 +214,7 @@ Category is empty
 | [@khanmansoor](https://gitlab.com/khanmansoor) | 7 | 60 |
 | [@vburton](https://gitlab.com/vburton) | 8 | 30 |
 
-### Community
+#### Community
 
 | Nominee | Rank | Points |
 | ------- | ----:| ------:|

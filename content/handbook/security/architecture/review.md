@@ -1,20 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "Security Architecture review process"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-### On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-----
 
 ## Overview
 
@@ -30,8 +18,8 @@ infrastructure, application, people, and processes.
 - Bring Risk management early in our processes (design, implementation, management)
 - Provide recommendations to minimize damage when a component is compromised
 
-[Security and Compliance requirements]: ../architecture/index.html#security-architecture-requirements
-[Security Architecture Principles]: ../architecture/index.html#security-architecture-principles
+[Security and Compliance requirements]: {{< ref "_index.md#security-architecture-requirements" >}}
+[Security Architecture Principles]: {{< ref "_index.md#security-architecture-principles" >}}
 
 ## When to conduct a Security Architecture review?
 
@@ -47,9 +35,9 @@ And more generally:
 - Everything built by GitLab, and meant to be deployed in our infrastructure or our customers'
   infrastructure.
 - New or updated architectures processing, storing, or transferring any kind of [RED or ORANGE
-  data](/handbook/security/data-classification-standard.html)
+  data]({{< ref "data-classification-standard" >}})
 
-[Architecture workflow]: /handbook/engineering/architecture/workflow/
+[Architecture workflow]: https://about.gitlab.com/handbook/engineering/architecture/workflow/
 
 ## How to request a Security Architecture review?
 
@@ -85,7 +73,7 @@ The Security Architecture review is conducted by a [Security Architect] who will
 
 The threats identified can be avoided (different architecture) or mitigated (security controls).
 
-[Security Architect]: /job-families/security/security-engineer/#security-architect
+[Security Architect]: {{< ref "/job-families/security/security-engineer#security-architect" >}}
 
 ### SMEs
 
@@ -102,9 +90,8 @@ Depending on the type of change being reviewed, the Security Architect can invol
 - The Security Compliance team
 - The Cryptography Officer
 
-[Threat Models](/handbook/security/threat_modeling/)
-[AppSec reviews](/handbook/security/#internal-application-security-reviews)
-
+[Threat Models]({{< ref "../threat-modeling" >}})
+[AppSec reviews]({{< ref "../_index.md#internal-application-security-reviews" >}})
 
 ## Result
 

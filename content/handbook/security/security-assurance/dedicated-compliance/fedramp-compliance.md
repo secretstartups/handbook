@@ -1,16 +1,9 @@
 ---
-layout: handbook-page-toc
 title: "GitLab FedRAMP Authorization Program"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Overview
----
+
 The Federal Risk and Authorization Management Program (FedRAMP) is a United States government-wide program that standardizes security requirements for the authorization and ongoing cybersecurity of cloud services in accordance with the [FedRAMP Authorization Act](https://www.congress.gov/117/bills/hr7776/BILLS-117hr7776enr.pdf#page=1055), [FISMA](https://www.congress.gov/bill/113th-congress/senate-bill/2521), and [OMB Circular A-130](https://www.cio.gov/policies-and-priorities/circular-a-130/). In short, Federal Agencies are required to procure FedRAMP-authorized cloud services, and cloud service providers are required to be FedRAMP authorized in order to sell to federal agencies and handle their data. [FedRAMP.gov](https://www.fedramp.gov/program-basics/) has more information about the program including the authorization process, the marketplace, and other helpful resources.
 
 FedRAMP authorization has three levels (low, moderate, and high) based upon the sensitivity of the data that is stored, processed, or transmitted in the cloud service. These levels have varying degrees of controls (security requirements) that must be implemented. The controls are selected from [NIST 800-53](https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/release-search#/controls?version=5.1).
@@ -18,9 +11,10 @@ FedRAMP authorization has three levels (low, moderate, and high) based upon the 
 ## FedRAMP Authorization Process
 
 There are two possible authorization paths that vary slightly; however, the common process includes:
-  1. Preparation, partnership establishment, and readiness assessment
-  1. Full security assessment resulting in an Authorization to Operate (ATO)
-  1. Continuous monitoring and annual assessments
+
+1. Preparation, partnership establishment, and readiness assessment
+1. Full security assessment resulting in an Authorization to Operate (ATO)
+1. Continuous monitoring and annual assessments
 
 An assessment (security audit) of a cloud service against FedRAMP requirements that results an acceptable level of residual risk (as deemed by a sponsoring Agency and the FedRAMP Program Management Office) results in an Authorization to Operate (ATO). The results of this assessment and the ATO can subsequently be relied upon and reused by other Agencies/customers who want or need the FedRAMP-authorized cloud service, rather than having to repeat an assessment and authorization process for each customer.
 
@@ -35,24 +29,25 @@ Unfortunately, GitLab cannot publicly share specific timelines or progress with 
 ## What are some of the FedRAMP requirements (controls)?
 
 FedRAMP Authorization is very challenging and requires prescriptive security controls to be implemented at the organizational, system, and process levels. Some of the several hundred requirements include:
-  - [FIPS 140-2 validated cryptography](https://csrc.nist.gov/projects/cryptographic-module-validation-program) for all data at rest and in transit (to/from/within) the system
-  - Vulnerability Scanning of all hosts, web applications, containers, and databases
-  - Remediation of all vulnerabilities within prescribed SLAs and a deviation request process
-  - Reporting of vulnerability posture, complete asset inventory, and significant changes to the system or product
-  - Timely application of security updates/patches
-  - Various product capabilities related to authentication and authorization, audit logging, and session handling
-  - Digitally signing software and integrity verification
-  - System configuration hardening
-  - Network security requirements and prescriptive architectures (can only connect to other FedRAMP authorized cloud services)
-  - DNSSEC, DMARC, SPF, and DKIM
-  - Key, certificate, and secrets management requirements
-  - Security event monitoring and incident response capabilities
-  - Disaster Recovery planning and testing procedures
-  - File integrity monitoring, intrusion and antimalware detection
-  - Supply chain risk management procedures
-  - Security training
-  - Personnel security and hiring practices
-  - Documentation package including a system security plan (hundreds of pages), supporting attachments, and detailed architecture / data flow diagrams
+
+- [FIPS 140-2 validated cryptography](https://csrc.nist.gov/projects/cryptographic-module-validation-program) for all data at rest and in transit (to/from/within) the system
+- Vulnerability Scanning of all hosts, web applications, containers, and databases
+- Remediation of all vulnerabilities within prescribed SLAs and a deviation request process
+- Reporting of vulnerability posture, complete asset inventory, and significant changes to the system or product
+- Timely application of security updates/patches
+- Various product capabilities related to authentication and authorization, audit logging, and session handling
+- Digitally signing software and integrity verification
+- System configuration hardening
+- Network security requirements and prescriptive architectures (can only connect to other FedRAMP authorized cloud services)
+- DNSSEC, DMARC, SPF, and DKIM
+- Key, certificate, and secrets management requirements
+- Security event monitoring and incident response capabilities
+- Disaster Recovery planning and testing procedures
+- File integrity monitoring, intrusion and antimalware detection
+- Supply chain risk management procedures
+- Security training
+- Personnel security and hiring practices
+- Documentation package including a system security plan (hundreds of pages), supporting attachments, and detailed architecture / data flow diagrams
 
 ## How does FedRAMP compare to other security/compliance frameworks, attestations, or certifications?
 

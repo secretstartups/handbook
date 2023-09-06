@@ -1,26 +1,14 @@
 ---
-layout: handbook-page-toc
 title: "Security Architecture"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-### On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" toc_levels="1..3" /}
-
-----
-
 ## Overview
 
-[Security Architects](https://handbook.gitlab.com/job-families/security/security-engineer/#security-architect) are the
+[Security Architects]({{< ref "/job-families/security/security-engineer#security-architect" >}}) are the
 trusted security advisors of GitLab Engineering. Security Architecture is a natural extension of the
-greater [Architecture](/handbook/engineering/architecture/) initiative at GitLab. It is the
+greater [Architecture](https://about.gitlab.com/handbook/engineering/architecture/) initiative at GitLab. It is the
 preliminary and necessary work to build software with security considerations.
 
 ## Objectives
@@ -38,9 +26,9 @@ business needs by:
 
 The process is designed with these constraints in mind:
 
-- aligned with our [values](/handbook/values/)
+- aligned with our [values]({{< ref "values" >}})
 - asynchronous
-- [self-service](/company/culture/all-remote/self-service/) as much as possible
+- [self-service](https://about.gitlab.com/company/culture/all-remote/self-service/) as much as possible
 - avoid being a bottleneck in the software development life cycle
 - deliberately simple and concise
 - automated as much as possible
@@ -67,7 +55,7 @@ cycle of source code:
 
 - [AppSec projects policies]
 
-[AppSec projects policies]: /handbook/security/security-engineering/application-security/inventory.html#policies
+[AppSec projects policies]: {{< ref "../security-engineering/application-security/inventory#policies" >}}
 
 ### InfraSec
 
@@ -75,23 +63,23 @@ cycle of source code:
 
 - [Security Requirements for Development and Deployment]
 
-[Security Requirements for Development and Deployment]: /handbook/security/planning/security-development-deployment-requirements/
+[Security Requirements for Development and Deployment]: {{< ref "security-development-deployment-requirements" >}}
 
 ### Compliance
 
 - [GitLab Audit Logging Policy]
 
-[GitLab Audit Logging Policy]: /handbook/security/audit-logging-policy.html
+[GitLab Audit Logging Policy]: {{< ref "audit-logging-policy" >}}
 
 ### Cryptography
 
 - [Do not roll your own crypto] (also one of our [Security Architecture Principles](#security-architecture-principles)
 )
-- Reference our [GitLab Cryptography Standard](/handbook/security/cryptographic-standard.html)
+- Reference our [GitLab Cryptography Standard]({{< ref "cryptographic-standard" >}})
 
 <!-- Add FIPS and FedRamp requirements here when available -->
 
-[Do not roll your own crypto]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#rolling-your-own-crypto
+[Do not roll your own crypto]: {{< ref "encryption-policy#rolling-your-own-crypto" >}}
 
 ## Security Architecture Principles
 
@@ -118,8 +106,7 @@ Design Principles] but are easier to understand and apply.
 <details>
 <summary>
 
-### Assign the least privilege possible
-{: .security-architecture-principle}
+### Assign the least privilege possible{.security-architecture-principle}
 
 </summary>
 
@@ -152,8 +139,7 @@ Broad privileges allow malicious or accidental access to protected resources.
 <details>
 <summary>
 
-### Separate responsibilities
-{: .security-architecture-principle}
+### Separate responsibilities{.security-architecture-principle}
 
 </summary>
 
@@ -177,7 +163,7 @@ Make attacks less attractive.
 - A system/service that only needs to read git commits should not be able to access user data
 - GitLab team members don't have access to billing data, nor anything else [classified red data]
 
-[classified red data]: /handbook/security/data-classification-standard.html
+[classified red data]: {{< ref "data-classification-standard" >}}
 
 #### Links
 
@@ -190,8 +176,7 @@ Make attacks less attractive.
 <details>
 <summary>
 
-### Trust cautiously
-{: .security-architecture-principle}
+### Trust cautiously{.security-architecture-principle}
 
 </summary>
 
@@ -225,15 +210,14 @@ Make attacks less attractive.
 
 #### Links
 
-- [Zero Trust](/handbook/security/#zero-trust) at GitLab
+- [Zero Trust]({{< ref "../_index.md#zero-trust" >}}) at GitLab
 
 </details>
 
 <details>
 <summary>
 
-### Simplest solution possible
-{: .security-architecture-principle}
+### Simplest solution possible{.security-architecture-principle}
 
 </summary>
 
@@ -245,8 +229,8 @@ Make attacks less attractive.
 - Complexity increases exponentially
 - Attack-ability or attack surface of the software is reduced
 
-[Iteration]: /handbook/values/#iteration
-[Efficiency]: /handbook/values/#efficiency
+[Iteration]: {{< ref "values#iteration" >}}
+[Efficiency]: {{< ref "values#efficiency" >}}
 
 #### How
 
@@ -254,7 +238,7 @@ Make attacks less attractive.
 - Use well-known, tested, and proven components
 - Avoid over-engineering and strive for [MVCs] instead
 
-[MVCs]: /handbook/product/product-principles/#the-minimal-viable-change-mvc
+[MVCs]: https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc
 
 #### Examples
 
@@ -273,8 +257,7 @@ Make attacks less attractive.
 <details>
 <summary>
 
-### Audit sensitive events
-{: .security-architecture-principle}
+### Audit sensitive events{.security-architecture-principle}
 
 </summary>
 
@@ -314,8 +297,7 @@ Make attacks less attractive.
 <details>
 <summary>
 
-### Fail securely & use secure defaults
-{: .security-architecture-principle}
+### Fail securely & use secure defaults{.security-architecture-principle}
 
 </summary>
 
@@ -350,15 +332,14 @@ aka Fail Safe Defaults.
 <details>
 <summary>
 
-### Never rely upon obscurity
-{: .security-architecture-principle}
+### Never rely upon obscurity{.security-architecture-principle}
 
 </summary>
 
 #### Why
 
 - Hiding things is difficult, someone is going to find them, accidentally or on purpose
-- We're a very [transparent](/handbook/values/#transparency) company and are more likely to share
+- We're a very [transparent]({{< ref "values#transparency" >}}) company and are more likely to share
   implementation details, sometimes leaking something sensitive.
 - Offboarded employees leave with sensitive knowledge. While tokens can be rotated, we can't ensure
   this knowledge won't leak
@@ -382,8 +363,7 @@ aka Fail Safe Defaults.
 <details>
 <summary>
 
-### Implement defense in depth
-{: .security-architecture-principle}
+### Implement defense in depth{.security-architecture-principle}
 
 </summary>
 
@@ -402,8 +382,8 @@ aka Fail Safe Defaults.
 - Use vulnerability scanners
 - Close unnecessary ports and disable unused features
 
-[Encrypt data at rest]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-at-rest
-[in transit]: /handbook/security/threat-management/vulnerability-management/encryption-policy.html#encryption-in-transit
+[Encrypt data at rest]: {{< ref "encryption-policy#encryption-at-rest" >}}
+[in transit]: {{< ref "encryption-policy#encryption-in-transit" >}}
 
 #### Examples
 
@@ -416,15 +396,14 @@ aka Fail Safe Defaults.
 #### Links
 
 - <https://en.wikipedia.org/wiki/Defense_in_depth_(computing)>
-- [Zero Trust](/handbook/security/#zero-trust) at GitLab
+- [Zero Trust]({{< ref "../_index.md#zero-trust" >}}) at GitLab
 
 </details>
 
 <details>
 <summary>
 
-### Never invent security technology
-{: .security-architecture-principle}
+### Never invent security technology{.security-architecture-principle}
 
 </summary>
 
@@ -457,8 +436,7 @@ aka Fail Safe Defaults.
 <details>
 <summary>
 
-### Find the weakest link
-{: .security-architecture-principle}
+### Find the weakest link{.security-architecture-principle}
 
 </summary>
 
@@ -470,7 +448,7 @@ aka Fail Safe Defaults.
 
 #### How
 
-- [Threat model](/handbook/security/threat_modeling/) the system, repeat, iterate.
+- [Threat model]({{< ref "../threat-modeling" >}}) the system, repeat, iterate.
 - Identify central components that
   - share more privileges than the others
   - have more connections to other components
@@ -507,9 +485,9 @@ aka Fail Safe Defaults.
 As part of the [Production Readiness Process], it is highly recommended to include a Security
 Architecture review.
 
-The Security Architecture review process is detailed in this [page](/handbook/security/architecture/review.html).
+The Security Architecture review process is detailed in this [page]({{< ref "review." >}}).
 
-[Production Readiness Process]: /handbook/engineering/infrastructure/production/readiness/
+[Production Readiness Process]: https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/
 
 ## Measuring results
 
@@ -532,14 +510,14 @@ We are targeting the Maturity Level 1 for FY23-Q1, and our roadmap is discussed 
 
 ## References
 
-* [Software Systems Architecture](https://www.viewpoints-and-perspectives.info/) (ISBN-13: 978-0321718334)
-* [SABSA](https://sabsa.org/)
-* [TOGAF](https://publications.opengroup.org/g21i)
-* [O-ESA](https://publications.opengroup.org/g112)
-* [OSA](https://www.opensecurityarchitecture.org/cms/)
-* [NIST CSF](https://www.nist.gov/cyberframework)
-* [CIS Critical Security Controls](https://www.cisecurity.org/controls)
-* [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/)
-* [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
-* [OWASP Developer Guide Reboot](https://github.com/OWASP/DevGuide)
-* [Google Cloud: Optimize your system design using Architecture Framework Principles](https://cloud.google.com/blog/topics/solutions-how-tos/optimize-your-system-design-using-architecture-framework-principles)
+- [Software Systems Architecture](https://www.viewpoints-and-perspectives.info/) (ISBN-13: 978-0321718334)
+- [SABSA](https://sabsa.org/)
+- [TOGAF](https://publications.opengroup.org/g21i)
+- [O-ESA](https://publications.opengroup.org/g112)
+- [OSA](https://www.opensecurityarchitecture.org/cms/)
+- [NIST CSF](https://www.nist.gov/cyberframework)
+- [CIS Critical Security Controls](https://www.cisecurity.org/controls)
+- [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/)
+- [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [OWASP Developer Guide Reboot](https://github.com/OWASP/DevGuide)
+- [Google Cloud: Optimize your system design using Architecture Framework Principles](https://cloud.google.com/blog/topics/solutions-how-tos/optimize-your-system-design-using-architecture-framework-principles)

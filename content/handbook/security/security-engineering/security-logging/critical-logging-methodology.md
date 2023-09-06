@@ -1,23 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Critical Logging Tiering Methodology"
 description: "The purpose of the Critical Logging Tiering Methodology is to support GitLab in identifying and understanding the criticality of logs in systems utilized across the organization that are considered essential in order to maintain operations."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-<!--HTML Parser Markup-->
-{::options parse_block_html="true" /}
-
-# Critical Logging Tiering Methodology
-
 ## Purpose
 
-The purpose of the Critical Logging Tiering Methodology is to support GitLab in categorizing logs based on their effect on GitLab's SaaS subscriptions and the achievement of GitLab's [mission](https://about.gitlab.com/company/mission/#mission) and [goals](https://about.gitlab.com/company/mission/#goals). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying logging into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a log's related tier.
+The purpose of the Critical Logging Tiering Methodology is to support GitLab in categorizing logs based on their effect on GitLab's SaaS subscriptions and the achievement of GitLab's [mission]({{< ref "mission#mission" >}}) and [goals]({{< ref "mission#goals" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying logging into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a log's related tier.
 
 ## Scope
 
@@ -35,10 +23,10 @@ The Critical Logging tiering methodology is applicable to all systems utilized a
 
 ## Critical Logging Tiering Procedure
 
-Defining what Critical Logging means at GitLab can be complex given the nature of our environment and the amount of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) process, we obtain inputs that assist in the assignment of a critical system tier per system. These inputs used to determine system criticality tiers include, but are not limited to, the following:
+Defining what Critical Logging means at GitLab can be complex given the nature of our environment and the amount of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that assist in the assignment of a critical system tier per system. These inputs used to determine system criticality tiers include, but are not limited to, the following:
 
 1. If the system was compromised, would there be an immediate impact to GitLab.com SaaS subscriptions
-2. If the system was compromised, which would describe the impact to GitLab:
+1. If the system was compromised, which would describe the impact to GitLab:
    - Critical business functions (i.e., indirectly affects revenue generation, requires constant availability for effective business operation)
    - Operational business functions (i.e., affects efficiency/cost of operation)
    - Administrative functions (i.e., affects GitLab team members only on an individual basis (e.g., quality of life, individual productivity))
@@ -76,19 +64,19 @@ Systems are assigned a Critical Logging tier based on the following matrix:
   </tr>
   <tr>
     <td class="tg-e02t">Tier 1 Mission Critical<span style="color:#DB3B21;">**</span></td>
-    <td class="tg-zqun">Systems that have an immediate and significant impact to the security of GitLab and/or contains [red](https://about.gitlab.com/handbook/security/data-classification-standard.html#red) [customer data](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions).</td>
+    <td class="tg-zqun">Systems that have an immediate and significant impact to the security of GitLab and/or contains [red]({{< ref "data-classification-standard#red" >}}) [customer data]({{< ref "data-classification-standard#data-classification-definitions" >}}).</td>
     <td class="tg-zqun">Cloudflare, GitLab.com, Teleport</td>
     <td class="tg-zqun">Tier 1 Product</td>
   </tr>
   <tr>
     <td class="tg-e02t">Tier 2 Business Critical<span style="color:#DB3B21;">***</span></td>
-    <td class="tg-zqun">Systems that have an immediate and significant impact to critical business functions and customer service and/or contain [orange data](https://about.gitlab.com/handbook/security/data-classification-standard.html#orange).</td>
+    <td class="tg-zqun">Systems that have an immediate and significant impact to critical business functions and customer service and/or contain [orange data]({{< ref "data-classification-standard#orange" >}}).</td>
     <td class="tg-zqun">customers.gitlab.com/subscription, Netsuite, Salesforce</td>
     <td class="tg-zqun">Tier 1 Business and Tier 2 Core</td>
   </tr>
   <tr>
     <td class="tg-e02t">Tier 3 Business Operational</td>
-    <td class="tg-zqun">Disruption affects operational business functions, negatively impacting efficiency/cost of operation across departments and/or systems contain [yellow data](https://about.gitlab.com/handbook/security/data-classification-standard.html#yellow)</td>
+    <td class="tg-zqun">Disruption affects operational business functions, negatively impacting efficiency/cost of operation across departments and/or systems contain [yellow data]({{< ref "data-classification-standard#yellow" >}})</td>
     <td class="tg-zqun">Clearwater, PagerDuty, ZenGRC</td>
     <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>
   </tr>
@@ -102,18 +90,13 @@ Systems are assigned a Critical Logging tier based on the following matrix:
 </table>
 <br/>
 
-<div class="panel panel-gitlab-purple">
-**Notes**
-<div class="panel-body">
+{{% panel header="**Note**" header-bg="primary" %}}
+<span style="color:#DB3B21;"><b>\*</b></span> As an extension of tiering methodology, the [Data Classification Standard]({{< ref "data-classification-standard" >}}) prescribes **specific** [Security and Privacy]({{< ref "data-classification-standard#security-and-privacy-controls" >}}) control requirements for each data classification level. These requirements should be followed based on a system's data classification, regardless of the system's tier.
 
-<span style="color:#DB3B21;"><b>\*</b></span> As an extension of tiering methodology, the [Data Classification Standard](/handbook/security/data-classification-standard.html) prescribes **specific** [Security and Privacy](/handbook/security/data-classification-standard.html#security-and-privacy-controls) control requirements for each data classification level. These requirements should be followed based on a system's data classification, regardless of the system's tier.
-
-<span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard](/handbook/security/data-classification-standard.html#red) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
+<span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard]({{< ref "data-classification-standard#red" >}}) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
 
 <span style="color:#DB3B21;"><b>*\*\*</b></span> By default, any system in-scope for [SOX](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html#what-are-itgcs) will be a **Tier 2 Business Critical** system, at minimum.
-
-</div>
-</div>
+{{% /panel %}}
 
 ### Why does GitLab need this methodology?
 
@@ -121,13 +104,13 @@ Tiering systems utilized across GitLab enables team members to make decisions on
 
 ### Maintaining Critical Logging Tiers
 
-A Critical Logging assessment is performed on an annual cadence in alignment with the [StORM annual risk assessment process](/handbook/security/security-assurance/security-risk/storm-program/index.html) to validate existing systems in GitLab’s environment and make adjustments to assigned tiers accordingly. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). A systems logging inventory can be found in the [SecLogging Inventory Repository](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/sec-logging-inventory)
+A Critical Logging assessment is performed on an annual cadence in alignment with the [StORM annual risk assessment process]({{< ref "storm-program" >}}) to validate existing systems in GitLab’s environment and make adjustments to assigned tiers accordingly. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). A systems logging inventory can be found in the [SecLogging Inventory Repository](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/security-logging/sec-logging-inventory)
 
 #### Exceptions
 
-Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a Critical Logging tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard](/handbook/security/data-classification-standard.html#green).
+Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a Critical Logging tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard]({{< ref "data-classification-standard#green" >}}).
 
 #### References
 
-- [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
-- [Data Classification Standard](/handbook/security/data-classification-standard.html)
+- [Business Impact Analysis]({{< ref "business-impact-analysis" >}})
+- [Data Classification Standard]({{< ref "data-classification-standard" >}})

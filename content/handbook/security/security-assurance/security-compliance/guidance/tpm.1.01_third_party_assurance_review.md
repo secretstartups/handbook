@@ -3,14 +3,6 @@ layout: handbook-page-toc
 title: "TPM.1.01 - Third Party Assurance Review Control Guidance"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# TPM.1.01 - Third Party Assurance Review
-
 ## Control Statement
 
 A vendor security review is performed at the time of procurement for new third party vendors. A results report is created detailing vendor risk level and any observations noted and the results are considered as part of vendor contracting.
@@ -29,16 +21,16 @@ This control applies to all third party providers that interact with data within
 
 Control Owner:
 
-* `Security Compliance`
+- `Security Compliance`
 
 Process Owner:
 
-* Security Compliance
+- Security Compliance
 
-##  Guidance
+## Guidance
 
-* The easiest way to satisfy this control is to review all third party provider SOC2 Type 2 reports for appropriate scope and efficacy of controls.
-* If a SOC2 Type 2 report is not available, we can send these third party providers a GitLab security questionnaire to gather the necessary information about the security controls they have in place and the approximate state of maturity of that third party provider.
+- The easiest way to satisfy this control is to review all third party provider SOC2 Type 2 reports for appropriate scope and efficacy of controls.
+- If a SOC2 Type 2 report is not available, we can send these third party providers a GitLab security questionnaire to gather the necessary information about the security controls they have in place and the approximate state of maturity of that third party provider.
 
 ## Additional control information and project tracking
 
@@ -46,16 +38,15 @@ Non-public information relating to this security control as well as links to the
 
 ### Policy Reference
 
-[Third Party Risk Management Procedure](/handbook/security/security-assurance/security-risk/third-party-risk-management.html)
+[Third Party Risk Management Procedure]({{< ref "third-party-risk-management" >}})
 
 ## Framework Mapping
 
-
-* SOC
-  * CC3.2
-  * CC6.4
-  * CC9.2
-* PCI
-  * 12.8.3
-  * 9.5
-  * 9.5.1
+- SOC
+  - CC3.2
+  - CC6.4
+  - CC9.2
+- PCI
+  - 12.8.3
+  - 9.5
+  - 9.5.1

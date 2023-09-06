@@ -1,16 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "Red Team"
 description: "GitLab's internal Red Team extends the objectives of penetration testing by examining the security posture of the organization and their ability to implement effective cyber defenses."
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Red Team Overview
 
 GitLab's internal Red Team conducts security exercises that emulate real-world threats. We do this to help assess and improve the effectiveness of the people, processes, and technologies used to keep our organization secure.
 
@@ -20,9 +11,9 @@ Malicious actors are not constrained by the narrow focus of traditional security
 
 This approach allows groups across GitLab to practice detecting and responding to threats in a controlled manner. We can then better understand our current defensive capabilities and work to improve them before we are faced with the real thing.
 
-The Red Team operates under a predefined set of [rules of engagement](./red-team-roe.html). The rules of engagement exist to inform GitLab's team members on how the team operates during engagements. It provides guidelines for determining scope, the ethics we employ during our engagements, how we collaborate as a security team, and how we escalate vulnerabilities and exploits we discover during those engagements.
+The Red Team operates under a predefined set of [rules of engagement]({{< ref "red-team-roe" >}}). The rules of engagement exist to inform GitLab's team members on how the team operates during engagements. It provides guidelines for determining scope, the ethics we employ during our engagements, how we collaborate as a security team, and how we escalate vulnerabilities and exploits we discover during those engagements.
 
-Further details can be found in the [job family description](https://handbook.gitlab.com/job-families/security/red-team/).
+Further details can be found in the [job family description]({{< ref "/job-families/security/red-team" >}}).
 
 ## What the Red Team Does
 
@@ -33,7 +24,7 @@ We call these people "trusted participants", and they help keep operations safe 
 
 Stealth operations are not a contest. If our Red Team completes an objective undetected, we can offer recommendations to improve our detections. If we trigger a response, we've validated that detection capability in a realistic scenario and allowed the team to work through the same processes they would use when responding to real-life attacks. Both of these scenarios provide valuable feedback to the organization.
 
-These operations require [special rules](./red-team-roe.html#stealth-operations). Examples of techniques we may use and those we will specifically avoid can be found in [Stealth Operation Techniques](./red-team-roe.html#stealth-operation-techniques).
+These operations require [special rules]({{< ref "red-team-roe#stealth-operations" >}}). Examples of techniques we may use and those we will specifically avoid can be found in [Stealth Operation Techniques]({{< ref "red-team-roe#stealth-operation-techniques" >}}).
 
 ### Purple Team Operations
 
@@ -41,7 +32,7 @@ We use the term "*Purple Team*" to describe an open collaboration between our de
 
 A stealth operation may be converted to a Purple Team operation after the Red Team has been uncovered. Or, we may plan from the beginning to conduct an operation in the Purple Team style.
 
-You can read more about this process in [Purple Teaming at GitLab](purple-teaming/).
+You can read more about this process in [Purple Teaming at GitLab]({{< ref "purple-teaming" >}}).
 
 ### Opportunistic Attacks
 
@@ -55,7 +46,7 @@ If vulnerabilities are discovered, we will exploit them and work to safely demon
 
 When immediate action is required, we will follow the standard process for [contacting security](https://about.gitlab.com/handbook/security/#-contacting-the-team). For vulnerabilities that appear wide-spread or recurring, we will create an issue inside the [Vulnerability Management issue tracker](https://gitlab.com/gitlab-com/gl-security/threatmanagement/vulnerability-management/vulnerability-management-internal/vulnerability-management-tracker/-/issues) to implement automated scanning capabilities.
 
-We list examples of [opportunistic attack techniques](./red-team-roe.html#opportunistic-attack-techniques) inside our rules of engagement.
+We list examples of [opportunistic attack techniques]({{< ref "red-team-roe#opportunistic-attack-techniques" >}}) inside our rules of engagement.
 
 ### Research
 
@@ -79,14 +70,14 @@ By using these templates, everyone on the team knows where we are at and what co
 
 All operations end with a final report. We use an issue template which is [shared publicly here](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates).
 
-Security risks affect everyone, and it is essential to make our reports approachable and consumable to a broad audience. To achieve this, we make an effort to [use simple language](/handbook/communication/#simple-language). Our goal is to ensure that anyone in the company can understand the reports, even if they don't have a background in security.
+Security risks affect everyone, and it is essential to make our reports approachable and consumable to a broad audience. To achieve this, we make an effort to [use simple language]({{< ref "communication#simple-language" >}}). Our goal is to ensure that anyone in the company can understand the reports, even if they don't have a background in security.
 
 After an operation has concluded, we will create a short video summarizing the operation, which should not exceed five minutes. We will then share the following in `#whats-happening-at-gitlab` and cross-post it in `#security`:
 
 - A very short summary of the operation, including the video overview
 - A link to the final report
 - A link to the retrospective issue to solicit questions and feedback
-- A disclaimer to keep the information [SAFE](/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
+- A disclaimer to keep the information [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/#how-do-we-reinforce-safe).
 - A tagged list of individual operation participants as well as the Security Incident Response Team (SIRT) as a whole for awareness since not all team members participate in an operation each time.
 
 By doing this, we help foster a culture of security awareness throughout the organization and ensure that everyone can benefit from our work.
@@ -130,7 +121,7 @@ GitLab team members can view the model [here](https://gitlab.com/gitlab-com/gl-s
 
 The Red Team will develop new adversary emulation techniques on a regular basis, both during formalized operations and opportunistic attacks. For example, the Red Team may create a bot that logs into development instances and attempts to exploit a specific configuration. Once the risk has been proven and existing detection/response capabilities have been tested, it is time for the technique to be fully disclosed internally.
 
-While this may result in product fixes or infrastructure changes, it is possible that vulnerable configurations may reappear in the environment. At this point, GitLab's [Vulnerability Management](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/) group will take over any ongoing scanning required to monitor for this scenario. The Red Team will share any tools they used for the initial discovery, but Vulnerability Management will generally implement a more production-ready permanent scanning solution.
+While this may result in product fixes or infrastructure changes, it is possible that vulnerable configurations may reappear in the environment. At this point, GitLab's [Vulnerability Management]({{< ref "/handbook/security/threat-management/vulnerability-management" >}}) group will take over any ongoing scanning required to monitor for this scenario. The Red Team will share any tools they used for the initial discovery, but Vulnerability Management will generally implement a more production-ready permanent scanning solution.
 
 ### Red Team Tooling Development
 
@@ -154,18 +145,20 @@ If any team member, at any time, could simply ask *"Hey, this looks suspicious. 
 
 We have private Slack channels in place where designated team members can ask the Red Team if a certain activity belongs to them. This helps us to provide realistic opportunities to practice detection and response without escalating too far. For example, we would not want an emulated attack to affect production operations or escalate to third parties.
 
-You can read more about this process in the ["deconfliction" section](./red-team-roe.html#deconfliction-process) of our rules of engagement.
+You can read more about this process in the ["deconfliction" section]({{< ref "red-team-roe#deconfliction-process" >}}) of our rules of engagement.
 
 ### How the Red Team will respond to this question
 
 If the Red Team is ever asked *"Is this you?"* by someone other than the designated team members mentioned above, they will respond with the following text:
 
-> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [https://about.gitlab.com/handbook/security/#contact-gitlab-security](https://about.gitlab.com/handbook/security/#contact-gitlab-security).<br><br>Red Team operations provide an opportunity to practice detecting and responding to real-world attacks, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
+> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [{{< ref "/handbook/security#contact-gitlab-security" >}}]({{< ref "/handbook/security#contact-gitlab-security" >}}).
+>
+> Red Team operations provide an opportunity to practice detecting and responding to real-world attacks, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [{{< ref ".#is-this-the-red-team" >}}]({{< ref ".#is-this-the-red-team" >}}).
 
 ### How others should respond to this question
 
-Because we want to treat all activity as potentially malicious, anyone else receiving this question should also use a consistent response. Feel free to use your own words. The following can be a guide: 
+Because we want to treat all activity as potentially malicious, anyone else receiving this question should also use a consistent response. Feel free to use your own words. The following can be a guide:
 
-> We want to treat any suspicious activity as potentially malicious. Let's continue following our normal procedures to report and investigate this. Any Red Team operation will have controls in place to keep things from escalating too far. You can read more about this here: [https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team](https://about.gitlab.com/handbook/security/threat-management/red-team/#is-this-the-red-team).
+> We want to treat any suspicious activity as potentially malicious. Let's continue following our normal procedures to report and investigate this. Any Red Team operation will have controls in place to keep things from escalating too far. You can read more about this here: [{{< ref ".#is-this-the-red-team" >}}]({{< ref ".#is-this-the-red-team" >}}).
 
 If the person receiving this question happens to be a Security Director or a trusted participant in an ongoing stealth operation, they can then use established channels to communicate with the Red Team.

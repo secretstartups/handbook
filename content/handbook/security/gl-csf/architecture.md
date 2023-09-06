@@ -4,14 +4,7 @@ title: "GitLab CSF - Architecture activity"
 description: "CSF Architecture activity and deliverables"
 ---
 
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Architecture
+## Architecture
 
 Software Architecture helps to achieve quality attribute requirements such as security, scalability,
 performance, and resiliency. It is a vision of the future, and we'll provide here the tools to
@@ -29,7 +22,7 @@ to cover various aspects of the architecture, to answer the questions from diffe
 ## Architectural decisions
 
 [Architectural decisions](https://en.wikipedia.org/wiki/Architectural_decision) are design decisions
-that addresses functional or non-functional requirements (see [perspectives](#perspectives) below). 
+that addresses functional or non-functional requirements (see [perspectives](#perspectives) below).
 These decisions are generally stored as Architectural Decision Records ("ADR"), which are simple
 file explaining their rationale. For example, the [Backstage](https://backstage.io/) website
 provides them directly in the
@@ -39,7 +32,7 @@ consequences (which can be drawbacks).
 
 At GitLab, we already have everything to document decisions: git and Merge Requests are a perfect
 way to document and keep track of decisions. We actually already [use this
-flow](/handbook/handbook-usage/#flow-structure) since the creation of this handbook. So instead of
+flow]({{< ref "handbook-usage#flow-structure" >}}) since the creation of this handbook. So instead of
 storing these discussions in a Markdown file, a Merge Request is enough to detail a change, discuss
 it, and keep track of the evolution of the architecture. This way, your architecture doc remains the
 free from lengthy discussions, and we don't scatter the actual architecture content with the decision making process.
@@ -48,7 +41,7 @@ free from lengthy discussions, and we don't scatter the actual architecture cont
 
 To get started, create a document with the  relevant views to describe best your architecture using
 the [viewpoints](#views-and-viewpoints) described in the next section. This document can be created
-along with the [readiness review](/handbook/engineering/infrastructure/production/readiness/) merge
+along with the [readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/) merge
 request, or directly in the [GitLab
 docs](https://gitlab.com/gitlab-org/gitlab/-/tree/master/doc/development) if possible.
 
@@ -68,7 +61,7 @@ start
 
 :Create Merge Request;
 note left
-    This can be in a project repository, 
+    This can be in a project repository,
     the readiness review MR,
     or directly in the GitLab docs
 end note
@@ -180,7 +173,7 @@ The most important qualities to cover in your architecture description are:
 Other quality attributes to consider:
 
 - Accessibility
-- Internationalisation
+- Internationalization
 - Location
 - Regulation
 - Usability

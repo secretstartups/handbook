@@ -130,8 +130,8 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Threat modeling
 
-- [Threat modeling at GitLab]({{< ref "./threat_modeling" >}})
-- [Threat modeling How To Guide]({{< ref "./threat_modeling/howto" >}})
+- [Threat modeling at GitLab]({{< ref "./threat-modeling" >}})
+- [Threat modeling How To Guide]({{< ref "./threat-modeling/howto" >}})
 - [Application security threat modeling process]({{< ref "./security-engineering/application-security/runbooks/threat-modeling" >}})
 
 ### Vulnerability management

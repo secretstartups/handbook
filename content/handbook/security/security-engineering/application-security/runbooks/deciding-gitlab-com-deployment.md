@@ -1,9 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Deciding which type of deployment is needed to fix a GitLab.com security issue"
 ---
-
-# Deciding which type of deployment is needed to fix a GitLab.com security issue
 
 The following chart is intended for `~"severity::1"` issues. Other issues should follow the regular security release process.
 

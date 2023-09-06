@@ -1,57 +1,51 @@
 ---
-layout: handbook-page-toc
 title: "Security Compliance, Dedicated Markets Team"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## <i class="fas fa-bullseye" style="color:rgb(110,73,203)" aria-hidden="true"></i> Security Compliance (Dedicated Markets) Mission
 
 Our Mission is to advance customer trust with a focus on customers operating in highly regulated industries or who otherwise have unique security and compliance requirements. We will accomplish this mission by:
 
 1. Enabling [GitLab Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#gitlab-dedicated) to be the most trusted DevSecOps offering in the market, demonstrated by security certifications and attestations.
-1. Achieving and maintaining industry-specific security certifications such as [FedRAMP](/handbook/security/security-assurance/dedicated-compliance/fedramp-compliance.html) and [FIPS 140-2 compliance](https://docs.gitlab.com/ee/development/fips_compliance.html#fips-compliance) for the U.S. Public Sector.
+1. Achieving and maintaining industry-specific security certifications such as [FedRAMP]({{< ref "fedramp-compliance" >}}) and [FIPS 140-2 compliance](https://docs.gitlab.com/ee/development/fips_compliance.html#fips-compliance) for the U.S. Public Sector.
 1. Applying compliance automation and compliance-as-code guardrails to minimize [toil](https://sre.google/sre-book/eliminating-toil/) and enable product, development, and infrastructure teams.
-1. Use our own product ([dogfooding](https://about.gitlab.com/handbook/values/#dogfooding)) to meet key security controls, improve our offering, and demonstrate to customers how they can do the same.
+1. Use our own product ([dogfooding]({{< ref "values#dogfooding" >}})) to meet key security controls, improve our offering, and demonstrate to customers how they can do the same.
 
 For more information on the direction of the GitLab Dedicated category, please see [this page](https://about.gitlab.com/direction/saas-platforms/dedicated/).
 
 ## <i class="far fa-lightbulb" style="color:rgb(110,73,203)" aria-hidden="true"></i> Core Competencies
 
-As a member of the [Security Assurance](/handbook/security/security-assurance/) sub-department, and fork of the existing [Security Compliance team](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/), we share many of the same core competencies. The difference between our teams is in the product/system scope (GitLab Dedicated and any future offerings for highly regulated markets) and the security certifications we are pursuing.
+As a member of the [Security Assurance]({{< ref "security-assurance" >}}) sub-department, and fork of the existing [Security Compliance team]({{< ref "../security-compliance" >}}), we share many of the same core competencies. The difference between our teams is in the product/system scope (GitLab Dedicated and any future offerings for highly regulated markets) and the security certifications we are pursuing.
 
-1. [Security Certifications, Attestations, and Initiatives](/handbook/security/security-assurance/dedicated-compliance/certifications.html)
-   * External Audit Coordination
-   * [Gap Assessments/Readiness Assessments](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html)
-1. [Observation and Remediation Management](/handbook/security/security-assurance/observation-management-procedure.html)
-   * Identifying control weaknesses and gaps (observations)
-   * Remediation recommendations
-   * Tracking remediation plans to completion
-1. [Continuous Monitoring of GitLab's Security Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
-   * [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
-   * [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)](https://about.gitlab.com/handbook/security/Information-System-Contingency-Plan-ISCP.html) testing
+1. [Security Certifications, Attestations, and Initiatives]({{< ref "../../security-assurance/dedicated-compliance/certifications" >}})
+   - External Audit Coordination
+   - [Gap Assessments/Readiness Assessments]({{< ref "gap-analysis-program" >}})
+1. [Observation and Remediation Management]({{< ref "observation-management-procedure" >}})
+   - Identifying control weaknesses and gaps (observations)
+   - Remediation recommendations
+   - Tracking remediation plans to completion
+1. [Continuous Monitoring of GitLab's Security Controls]({{< ref "sec-controls" >}}) which are mapped to applicable regulatory requirements and security certifications/frameworks we have committed to.
+   - [User Access Reviews]({{< ref "access-reviews" >}})
+   - [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Information System Continuity (ISCP)]({{< ref "information-system-contingency-plan-iscp" >}}) testing
 1. Industry and Regulatory Monitoring and Insights
-   * Monitoring drafts and changes to relevant laws, executive orders, directives, regulations, policies, standards, and guidelines.
-   * Collaborating on responses to relevant RFIs, RFQs, RFPs, and requests for public comment.
-   * Monitoring changes government contractual language that could impact public sector security and compliance posture.
+   - Monitoring drafts and changes to relevant laws, executive orders, directives, regulations, policies, standards, and guidelines.
+   - Collaborating on responses to relevant RFIs, RFQs, RFPs, and requests for public comment.
+   - Monitoring changes government contractual language that could impact public sector security and compliance posture.
 
-Some of our work is [not public](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) for now. Please see the [internal handbook](https://internal.gitlab.com/handbook/engineering/fedramp-compliance/) to find out more about what our team is working on, or reach out to us.
+Some of our work is [not public]({{< ref "confidentiality-levels#not-public" >}}) for now. Please see the [internal handbook](https://internal.gitlab.com/handbook/engineering/fedramp-compliance/) to find out more about what our team is working on, or reach out to us.
 
-## <i class="fa-solid fa-magnifying-glass"> Vision and Focus Areas
+## <i class="fa-solid fa-magnifying-glass"></i> Vision and Focus Areas
 
 Security Compliance is part of the [2nd line of defense](https://www.isaca.org/resources/isaca-journal/issues/2018/volume-4/roles-of-three-lines-of-defense-for-information-security-and-governance#:~:text=While%20the%20three%20lines%20of,explore%20ways%20to%20optimize%20outputs) and our goal is identify and treat risks early before they have more severe impacts later on (i.e. regulatory or reputational). We strive to partner with the 1st line of defense (Engineering, Product, and other parts of the organization) to shift compliance left where it is both more effective and less burdensome. To achieve that vision, we need to focus on the following areas and solicit feedback from other parts of the organization:
-* Meet our stakeholders where they are
-   * Learn the key projects, architectures, and technologies of the products we support 
-* Reduce [toil](https://sre.google/sre-book/eliminating-toil/) for control owners and ourselves
-   *  Automate controls as part of the 1st line of defense and look for efficiencies
-* Modernize and scale
-   * Identify and implement Governance, Risk, and Compliance (GRC) best practices and "cloud native compliance" solutions
-* Measure success and impact on customer trust
-   * Identify actionable key performance indicators (KPIs) and key risk indicators (KRIs) for leadership
+
+- Meet our stakeholders where they are
+   - Learn the key projects, architectures, and technologies of the products we support
+- Reduce [toil](https://sre.google/sre-book/eliminating-toil/) for control owners and ourselves
+   - Automate controls as part of the 1st line of defense and look for efficiencies
+- Modernize and scale
+   - Identify and implement Governance, Risk, and Compliance (GRC) best practices and "cloud native compliance" solutions
+- Measure success and impact on customer trust
+   - Identify actionable key performance indicators (KPIs) and key risk indicators (KRIs) for leadership
 
 ## Where we work
 
@@ -82,11 +76,11 @@ We encourage, but currently do not require, the use of issue weights, to log est
 #### Epics
 
 We currently have the following epics:
-* Epics tracking our [FedRAMP Continuous Monitoring](https://gitlab.com/groups/gitlab-com/gl-security/security-assurance/fedramp/-/epics?state=opened&page=1&sort=start_date_desc) tasks for that month
-* Epics to track quarterly user access reviews
-* Epics to track annual contingency/disaster recovery planning and incident response tabletop, which we help facilitate
-* Epics tracking annual external audits and penetration tests
-* Miscellaneous epics
+- Epics tracking our [FedRAMP Continuous Monitoring](https://gitlab.com/groups/gitlab-com/gl-security/security-assurance/fedramp/-/epics?state=opened&page=1&sort=start_date_desc) tasks for that month
+- Epics to track quarterly user access reviews
+- Epics to track annual contingency/disaster recovery planning and incident response tabletop, which we help facilitate
+- Epics tracking annual external audits and penetration tests
+- Miscellaneous epics
 
 We are currently investigating whether Epic Boards would add value to the way we organize and view all the work we're doing.
 
@@ -123,19 +117,18 @@ Currently, we use monthly milestones and a burnup/burndown chart to track recurr
 
 |  Program | DRI | Responsibilities |
 | --- | --- | --- |
-| Security Compliance (Dedicated Markets) team manager | [@corey-oas](https://gitlab.com/corey-oas) | FedRAMP Authorization Program and compliance/certification roadmap for GitLab Dedicated and GitLab Dedicated for U.S. Government) 
+| Security Compliance (Dedicated Markets) team manager | [@corey-oas](https://gitlab.com/corey-oas) | FedRAMP Authorization Program and compliance/certification roadmap for GitLab Dedicated and GitLab Dedicated for U.S. Government)
 | GitLab Dedicated security compliance | [@daniel-ch](https://gitlab.com/daniel-ch) | Continuous monitoring, gap assessments, and external audit coordination (e.g. SOC 2 Type 2). |
 | FedRAMP Information System Security Officer (ISSO) | [@niben01](https://gitlab.com/niben01) | FedRAMP vulnerability posture reporting, maintaining Plan of Action & Milestone reporting, and deviation requests |
 | FedRAMP Continuous Monitoring Program | [@kbray](https://gitlab.com/kbray) | Continuous monitoring improvements and automation, significant change identification, and compliance documentation maintenance |
 
-* Slack
-   * Feel free to tag us with `@dedicated_compliance` or `@sec-compliance-team` to reach the entire Security Compliance team
-   * The `#sec-assurance` slack channel is the best place for questions relating to our team (please add the above tag)
-   * FedRAMP questions should be directed to the `# wg_fedramp` channel
-* Tag us in GitLab
-   * `@gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance`
-* Email
-   * `security-compliance@gitlab.com`
-* Here are our team's GitLab.com [subgroups and projects](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance)
-
-* Interested in joining our team? Check out more [here](https://handbook.gitlab.com/job-families/security/security-compliance/#dedicated-markets)!
+- Slack
+   - Feel free to tag us with `@dedicated_compliance` or `@sec-compliance-team` to reach the entire Security Compliance team
+   - The `#sec-assurance` slack channel is the best place for questions relating to our team (please add the above tag)
+   - FedRAMP questions should be directed to the `# wg_fedramp` channel
+- Tag us in GitLab
+   - `@gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance`
+- Email
+   - `security-compliance@gitlab.com`
+- Here are our team's GitLab.com [subgroups and projects](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated/team-security-dedicated-compliance)
+- Interested in joining our team? Check out more [here]({{< ref "/job-families/security/security-compliance#dedicated-markets" >}})!

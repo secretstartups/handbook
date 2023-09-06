@@ -1,22 +1,13 @@
 ---
-layout: handbook-page-toc
 title: Security Incident Response Team - SIRT
-description: GitLab Security Incident Response Team Overview 
+description: GitLab Security Incident Response Team Overview
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-----
 
 The Security Incident Response Team - SIRT is on the forefront of security events that impact both GitLab.com and GitLab the company.
 
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Our Vision
 
-To detect security incidents before they happen and to respond promptly when they do happen. 
+To detect security incidents before they happen and to respond promptly when they do happen.
 
 ### Our Mission Statement
 
@@ -32,36 +23,37 @@ The following people are permanent members of the SIRT
 |---|---|
 |Joaquin Fuentes|[Director, Security Operations](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
 |Valentine Mairet|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
-|Matt Coons|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
-|Shrishti Choudhary|[Security Manager, SIRT](/job-families/security/security-incident-response-team/#manager-security-incident-response-team)|
-|Mitra Jozenazemian|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
-|Harjeet Sharma|[Staff Security Engineer, SIRT](/job-families/security/security-incident-response-team/#staff-security-incident-response-team-engineer)|
-|Janina Roppelt|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
-|Laurens Van Dijk|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
-|Chathura Kuruwita|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
-|Sean Gillespie|[Senior Security Engineer, SIRT](/job-families/security/security-incident-response-team/#senior-security-incident-response-team-engineer)|
-|Bala Allam|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
-|Leslie Anzures|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
-|Ellis Coulson|[Security Engineer, SIRT](/job-families/security/security-incident-response-team/#security-incident-response-team-engineer-intermediate)|
+|Matt Coons|[Security Manager, SIRT]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
+|Shrishti Choudhary|[Security Manager, SIRT]({{< ref "security-incident-response-team#manager-security-incident-response-team" >}})|
+|Mitra Jozenazemian|[Staff Security Engineer, SIRT]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
+|Harjeet Sharma|[Staff Security Engineer, SIRT]({{< ref "security-incident-response-team#staff-security-incident-response-team-engineer" >}})|
+|Janina Roppelt|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Laurens Van Dijk|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Chathura Kuruwita|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Sean Gillespie|[Senior Security Engineer, SIRT]({{< ref "security-incident-response-team#senior-security-incident-response-team-engineer" >}})|
+|Bala Allam|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Leslie Anzures|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
+|Ellis Coulson|[Security Engineer, SIRT]({{< ref "security-incident-response-team#security-incident-response-team-engineer-intermediate" >}})|
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Services We Provide:
-1. Reactive - Services design to respond to active incident handling, including but not limited to 
-- Incident analysis 
-- Incident response support and coordination 
-- Incident response resolution 
-- Detection and response engineering
-2. Proactive - Services designed to improve the infrastructure  and security  processes of Gitlab before any incident occurs or is detected. The main goals are to avoid incidents and to reduce the impact and scope when they do occur. 
-- Cyber Threat Analysis of vulnerability warnings and security advisories
-- Monitor Adversaries' activities and related trends to help identify future threats 
-- Configuration and maintenance of security tools, applications, and infrastructure
-- Detection and response engineering
-4. Administrative - Services design to assist with requests from Gitlab's Legal and HR Departments.
+
+1. Reactive - Services design to respond to active incident handling, including but not limited to
+    - Incident analysis
+    - Incident response support and coordination
+    - Incident response resolution
+    - Detection and response engineering
+1. Proactive - Services designed to improve the infrastructure  and security  processes of Gitlab before any incident occurs or is detected. The main goals are to avoid incidents and to reduce the impact and scope when they do occur.
+    - Cyber Threat Analysis of vulnerability warnings and security advisories
+    - Monitor Adversaries' activities and related trends to help identify future threats
+    - Configuration and maintenance of security tools, applications, and infrastructure
+    - Detection and response engineering
+1. Administrative - Services design to assist with requests from Gitlab's Legal and HR Departments.
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Engaging SIRT
 
-The [SIRT](/handbook/security/security-operations/sirt) is on-call [24/7/365](/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
+The [SIRT]({{< ref "." >}}) is on-call [24/7/365](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
 
-Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide](/handbook/security/secops-oncall.html).
+Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide]({{< ref "secops-oncall" >}}).
 
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Incident Management and Review
 
@@ -69,7 +61,7 @@ As part of the incident management and review process the SIRT maintains a recur
 
 ## Limited Access
 
-Information about security incidents or investigations is considered [limited access](https://about.gitlab.com/handbook/communication/confidentiality-levels/#limited-access) and is not shared with all team members. After being resolved, a determination will be made as to whether or not the incident or investigation issue contains [Materially Non-Public Information (MNPI)](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information). Only incidents or investigation issues that do not contain MNPI will be made visible to GitLab team members. More information about how this aligns with [GitLab's value of Transparency](https://about.gitlab.com/handbook/values/#transparency) can be found on the [Transparency by Default page](https://about.gitlab.com/handbook/security/transparency_by_default.html). The workflow for this is:
+Information about security incidents or investigations is considered [limited access]({{< ref "confidentiality-levels#limited-access" >}}) and is not shared with all team members. After being resolved, a determination will be made as to whether or not the incident or investigation issue contains [Materially Non-Public Information (MNPI)](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information). Only incidents or investigation issues that do not contain MNPI will be made visible to GitLab team members. More information about how this aligns with [GitLab's value of Transparency]({{< ref "values#transparency" >}}) can be found on the [Transparency by Default page]({{< ref "transparency-by-default" >}}). The workflow for this is:
 
 ```mermaid
 graph TD

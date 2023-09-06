@@ -1,17 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "Security Awards Leaderboard FY21"
 ---
 
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-This page is [auto-generated and updated every Mondays](../security-awards-program.html#process).
-
-# Leaderboard FY21
+<!-- This page is [auto-generated and updated every Mondays](../security-awards-program.html#process). -->
 
 ## Yearly
 

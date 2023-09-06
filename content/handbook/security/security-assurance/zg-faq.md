@@ -1,16 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "ZenGRC FAQ for Team Members"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-<!--HTML Parser Markup-->
-{::options parse_block_html="true" /}
 
 ## GENERAL FAQ
 
@@ -30,7 +20,7 @@ title: "ZenGRC FAQ for Team Members"
 
 ### Who should be using ZenGRC?
 
-- Team members who are engaged to support GRC activities (i.e. Control Owners, Risk Owners, Process Owners/Reviewers, and even Technical System Owners) will regularly interact within ZenGRC. The Security Assurance Team maintains a [ZenGRC Activities handbook page](https://about.gitlab.com/handbook/security/security-assurance/zg-activities.html) with additional details about the various activities that are carried out of ZenGRC as well as information about how stakeholders may be engaged within ZenGRC. However, all GitLab Team Members can access ZenGRC. Runbooks will be made available to provide additional details on navigating and viewing information within ZenGRC at a later date.
+- Team members who are engaged to support GRC activities (i.e. Control Owners, Risk Owners, Process Owners/Reviewers, and even Technical System Owners) will regularly interact within ZenGRC. The Security Assurance Team maintains a [ZenGRC Activities handbook page]({{< ref "zg-activities" >}}) with additional details about the various activities that are carried out of ZenGRC as well as information about how stakeholders may be engaged within ZenGRC. However, all GitLab Team Members can access ZenGRC. Runbooks will be made available to provide additional details on navigating and viewing information within ZenGRC at a later date.
 
 ### What type of information is available for team members in ZenGRC?
 
@@ -39,7 +29,7 @@ title: "ZenGRC FAQ for Team Members"
 
 ### How are team members impacted?
 
-- The overall impact to team members is minimal at this time. The primary stakeholders are team members who regularly interact with the Internal Audit, Security Assurance, or Privacy teams. Even then, the level of interaction expected from primary stakeholders is minimal. The goal of onboarding all team members onto ZenGRC as a standard baseline entitlement is to provide additional visibility over GRC related activities, including status of continuous control monitoring procedures, risk assessments, and third party security reviews. 
+- The overall impact to team members is minimal at this time. The primary stakeholders are team members who regularly interact with the Internal Audit, Security Assurance, or Privacy teams. Even then, the level of interaction expected from primary stakeholders is minimal. The goal of onboarding all team members onto ZenGRC as a standard baseline entitlement is to provide additional visibility over GRC related activities, including status of continuous control monitoring procedures, risk assessments, and third party security reviews.
 - The Security Automation Team has been working on building an integration between ZenGRC and GitLab. Where possible, this integration will sync data/information between ZenGRC and GitLab Issues so team members can continue working out of GitLab.
 
 

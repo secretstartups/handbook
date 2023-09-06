@@ -1,29 +1,19 @@
 ---
-
-layout: handbook-page-toc
 title: Investigating Package Hunter Findings
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Investigating Package Hunter Findings
-
-### List of Package Hunter Findings
+## List of Package Hunter Findings
 
 Any Package Hunter related finding can be found on this [dashboard](https://gitlab.com/gitlab-org/gitlab/-/security/vulnerability_report/?severity=UNKNOWN&scanner=GitLab.DEPENDENCY_SCANNING&state=DETECTED) (internal link).
 
-### Network Connection Findings
+## Network Connection Findings
 
 We're going to use [this finding][1] as an example. In this finding,
 Package Hunter detected that a package opened a network connection.
 
 > 02:24:56.163600570: Notice Disallowed outbound connection destination (command=node scripts/install.js connection=172.17.0.2:36884->52.217.109.44:443 user=root container_id=fb38d63ef02a container_name=some-container-eae8d3ec-a482-441b-8262-78198b46fdfb.tgz image=maldep)
 
-#### Investigation
+### Investigation
 
 - We can look at the destination IP address and see if gives any interesting information
   - In this example, it's a an AWS IP address but it gives us no information
@@ -45,7 +35,7 @@ calls `getBinaryURL()`. This function is defined in `node_modules/node-sass/lib/
  * Determine the URL to fetch binary file from.
  * By default fetch from the node-sass distribution
  * site on GitHub.
- */ 
+ */
 function getBinaryUrl() {
   var site = getArgument('--sass-binary-site') ||
              process.env.SASS_BINARY_SITE  ||
@@ -73,11 +63,11 @@ normal that the request wouldn't exactly be served by the same IP every time
 in this context. At this point we can be reasonably sure about the source of
 the alert and that there is no malicious intent.
 
-#### Actions
+### Actions
 
 - If we discover that the package was malicious all along (typosquatting for example),
 [security on-call should be engaged] for further investigation and an MR should be
-opened to replace the package with the legitimate one. Consider [reporting][2] 
+opened to replace the package with the legitimate one. Consider [reporting][2]
 the malicious package to the registry operator ([NPM]) or [RubyGems])
 - If we discover that a legitimate package was compromised,
 [security on-call should be engaged] for further investigation and an MR should be
@@ -93,4 +83,4 @@ the external resource
 [2]: https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software
 [NPM]: https://www.npmjs.com/policies/security#reporting-security-problems-to-npm
 [RubyGems]: https://guides.rubygems.org/security/#reporting-security-vulnerabilities
-[security on-call should be engaged]: /handbook/security/security-operations/sirt/engaging-security-on-call.html
+[security on-call should be engaged]: {{< ref "engaging-security-on-call" >}}
