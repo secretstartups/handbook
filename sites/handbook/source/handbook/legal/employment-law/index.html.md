@@ -28,6 +28,8 @@ Based on the outcome of its global expansion process for gathering and assessing
 ## Working with the Legal Employment Team on Sensitive Matters 
 In any situation(s) that relate to specific team members or otherwise require any team member personal information remain confidential, the People Group (and any other GitLab Team Members) should email legal-employment@gitlab.com. This respects team member privacy and may, where applicable, retain attorney-client privilege.
 
+If the Legal Employment team requires support from the people connect team, for communicating a country specific legal requirement to team members, to consult with team members in an entity country if necessary or to arrange legally required contract amendments, to name just a few examples, which may relate to individual team members or groups of team members, assistance can be requested using the confidential process and template referenced [here](https://about.gitlab.com/handbook/people-group/#when-support-from-the-people-connect-team-is-required-by-the-legal-employment-team).
+
 ## Working with Legal on Employment Issues
 When individual team members have questions about their employment at GitLab, they should interact with the People Group rather than reaching out directly to the Legal Employment team. Visit the [People Group Handbook](https://about.gitlab.com/handbook/people-group/) to determine who to work with for your particular needs.
 
