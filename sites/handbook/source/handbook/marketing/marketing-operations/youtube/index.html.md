@@ -144,6 +144,10 @@ If you mark a video private when it doesn't need to be, it is be easy to undo: s
 
 Secrets (e.g. access tokens, private keys, passwords, and credentials to systems running on GitLab infrastructure) and GitLab team member personal data (phone numbers, home address) should never be shared in public. Any video that exposes secrets or team member personal data should not be shared as a public YouTube recording.
 
+Similarly, internal-only documents and private or confidential issues should not be shared publicly in YouTube videos. If a video uploaded to the unfiltered channel exposes non-public information, [make it private quickly](#make-private-quickly).
+
+Videos which expose secrets or internal information can make it public only after ensuring that all sensitive information has been redacted using the [Blur feature in YouTube Studio](https://support.google.com/youtube/answer/9057652?hl=en).
+
 ## Why not Google Drive
 
 Google Drive is not intended to process video distribution and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following:
