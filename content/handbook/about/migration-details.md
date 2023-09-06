@@ -620,7 +620,7 @@ security/cryptographic-standard.html.md
 security/security-awards-program.html.md
 security/ISMS.html.md
 security/pgp_process/index.html.md
-security/transparency_by_default.html.md
+security/transparency-by-default.html.md
 security/architecture/index.html.md
 security/architecture/review.html.md
 security/individual-development-plan.html.md
@@ -641,7 +641,7 @@ security/security-culture.html.md
 security/access-management-policy.html.md
 security/threat_modeling/index.html.md
 security/threat_modeling/howto.html.md
-security/security-assurance/production_readiness_compliance_assessment.html.md
+security/security-assurance/production-readiness-compliance-assessment.html.md
 security/security-assurance/security-risk/index.html.md
 security/security-assurance/security-risk/storm-program/storm-methodology.html.md
 security/security-assurance/security-risk/storm-program/critical-systems.html.md
@@ -660,7 +660,7 @@ security/security-assurance/observation-management-procedure.html.md
 security/security-assurance/index.html.md
 security/security-assurance/control-health-effectiveness-rating.html.md
 security/security-assurance/governance_and_field_security_team_charter.html.md
-security/security-assurance/production_readiness_compliance_assessment.md
+security/security-assurance/production-readiness-compliance-assessment.md
 security/security-assurance/field-security/index.html.md
 security/security-assurance/field-security/answerbase.html.md
 security/security-assurance/field-security/Vendorpedia.html.md

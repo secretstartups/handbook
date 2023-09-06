@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Security Engineering"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Security Engineering Sub-Department
 
@@ -17,8 +10,8 @@ The Security Engineering sub-department is responsible for technical and enginee
 
 The Security Engineering sub-department includes the following teams. Learn more about each by visiting their Handbook pages.
 
-- [Application Security](/handbook/security/security-engineering/application-security/)
-- [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/)
-- [Security Logging](/handbook/security/security-engineering/security-logging/)
-- [Security Automation](/handbook/security/security-engineering/automation/)
+- [Application Security]({{< ref "./application-security" >}})
+- [Infrastructure Security]({{< ref "./infrastructure-security" >}})
+- [Security Logging]({{< ref "./security-logging" >}})
+- [Security Automation]({{< ref "./automation" >}})
 - Security External Communications

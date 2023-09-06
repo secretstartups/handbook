@@ -45,7 +45,7 @@ If you are wanting to implement a process, code, or some other procedure that co
 that the Security Team uses as a resource is [Threat Modeling](https://en.wikipedia.org/wiki/Threat_model). The Security Team *highly*
 encourages change and improvements, and also ensure that changes and improvements are done securely.
 The Security Team uses a threat framework based upon the [PASTA](https://www.wiley.com/en-us/Risk+Centric+Threat+Modeling%3A+Process+for+Attack+Simulation+and+Threat+Analysis-p-9780470500965#) methodology.
-For more information including an issue template for doing your own threat modeling, check out the [Threat Modeling]({{< ref "threat_modeling" >}}) page.
+For more information including an issue template for doing your own threat modeling, check out the [Threat Modeling]({{< ref "threat-modeling" >}}) page.
 
 #### Non-Emergency Contact
 
@@ -778,12 +778,12 @@ Information regarding growth and development benefits available to GitLab team m
     sec:sem(Manager, Security)-->sec:sms(Senior Manager, Security)
     sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
   end
-  click sec:s "{{< ref "security-engineer#intern" >}}"
-  click sec:se "{{< ref "security-engineer#intermediate-security-engineer" >}}";
-  click sec:sse "{{< ref "security-engineer#senior-security-engineer" >}}";
-  click sec:stse "{{< ref "security-engineer#staff-security-engineer" >}}";
-  click sec:pse "{{< ref "security-engineer#principal-security-engineer" >}}";
-  click sec:dse "{{< ref "security-engineer#distinguished-security-engineer" >}}";
+  click sec:s "{{< ref "/job-families/security/security-engineer#intern" >}}"
+  click sec:se "{{< ref "/job-families/security/security-engineer#intermediate-security-engineer" >}}";
+  click sec:sse "{{< ref "/job-families/security/security-engineer#senior-security-engineer" >}}";
+  click sec:stse "{{< ref "/job-families/security/security-engineer#staff-security-engineer" >}}";
+  click sec:pse "{{< ref "/job-families/security/security-engineer#principal-security-engineer" >}}";
+  click sec:dse "{{< ref "/job-families/security/security-engineer#distinguished-security-engineer" >}}";
   click sec:sem "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";
   click sec:sms "{{< ref "security-leadership#senior-manager-security" >}}";
   click sec:ds "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";

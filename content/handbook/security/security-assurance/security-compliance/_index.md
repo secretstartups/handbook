@@ -1,68 +1,61 @@
 ---
-layout: handbook-page-toc
 title: "Security Compliance, Commercial Team Page"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## <i class="fas fa-bullseye" style="color:rgb(110,73,203)" aria-hidden="true"></i> Security Compliance Mission
 
 Security Compliance (Commercial) Mission:
 
 1. Enable GitLab to be the most trusted DevSecOps offering on the market, demonstrated by security certifications and attestations.
-2. Achieve, maintain and grow industry specific [security certifications and attestations](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/certifications.html) for GitLab.com
-3. Identify and mitigate GitLab information security risk through [continuous control monitoring](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html) of the GitLab.com SaaS offering and key in-scope auxiliary applications and third party sub-processors.
-4. Enable security to scale through the discovery and application of compliance automation.
-5. Identify and remediate observations to reduce risk and ensure continued maintenance of security certifications and attestations.
-6. Work across industries and verticals to support GitLab customers in their own compliance journey.
+1. Achieve, maintain and grow industry specific [security certifications and attestations]({{< ref "../security-compliance/certifications" >}}) for GitLab.com
+1. Identify and mitigate GitLab information security risk through [continuous control monitoring]({{< ref "sec-controls" >}}) of the GitLab.com SaaS offering and key in-scope auxiliary applications and third party sub-processors.
+1. Enable security to scale through the discovery and application of compliance automation.
+1. Identify and remediate observations to reduce risk and ensure continued maintenance of security certifications and attestations.
+1. Work across industries and verticals to support GitLab customers in their own compliance journey.
 
 ## Core Competencies
 
-1. [Third Party Security Certifications](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/certifications.html)
-   * Gap Analysis Program: feasibility for external certifiction expansion
-   * External Audit coordination and hosting
-   * Security Attestations
-2. [Observation and Remediation Management](https://about.gitlab.com/handbook/security/security-assurance/observation-management-procedure.html)
-   * Specific to Tier 3 observations
-   * Identify control weaknesses and gaps (observations)
-   * Provide remediation recommendations and guidance
-   * Track remediation to completion
-3. [Continuous Control Monitoring](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/sec-controls.html) of the GitLab Control Framework
-   * Compliance [production readiness assessment](https://about.gitlab.com/handbook/security/security-assurance/production_readiness_compliance_assessment.html)
-   * User Access Review Program
-   * Business Continuity Plan (BCP) testing
-   * Information System Continuity Plan (ISCP) testing
-4. Compliance Automation discovery and implementation
-   * Utilizing dogfooding and external tools to continue driving compliance by default features within the product and true CCM efforts
+1. [Third Party Security Certifications]({{< ref "../security-compliance/certifications" >}})
+   - Gap Analysis Program: feasibility for external certifiction expansion
+   - External Audit coordination and hosting
+   - Security Attestations
+1. [Observation and Remediation Management]({{< ref "observation-management-procedure" >}})
+   - Specific to Tier 3 observations
+   - Identify control weaknesses and gaps (observations)
+   - Provide remediation recommendations and guidance
+   - Track remediation to completion
+1. [Continuous Control Monitoring]({{< ref "sec-controls" >}}) of the GitLab Control Framework
+   - Compliance [production readiness assessment]({{< ref "production-readiness-compliance-assessment" >}})
+   - User Access Review Program
+   - Business Continuity Plan (BCP) testing
+   - Information System Continuity Plan (ISCP) testing
+1. Compliance Automation discovery and implementation
+   - Utilizing dogfooding and external tools to continue driving compliance by default features within the product and true CCM efforts
 
 ## Where we work
 
 We primarily work out of the [Team-Commercial Compliance group project](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-commercial-compliance). This group includes subgroups and projects for:
 
-    * Team information and directory
-    * External Certifications
-    * User Access Review Program
-    * Audit Reports (output of CCM efforts)
-    * Gap Analysis Program
-    * ISCP and BCP tests and final reports
-    * IT General Control Support (ITGC)
+- Team information and directory
+- External Certifications
+- User Access Review Program
+- Audit Reports (output of CCM efforts)
+- Gap Analysis Program
+- ISCP and BCP tests and final reports
+- IT General Control Support (ITGC)
 
 Work that overlaps with other teams including Dedicated Compliance can be found in the [Security Compliance - All Teams](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-compliance-commercial-and-dedicated) group. This group includes subgroups and projects for:
 
-    * GitLab Control Framework (GCF)
-    * Observation Management
-    * Security Compliance Intake (production readiness)
-    * Third Party Penetration Testing Program
-    * Exceptions
+- GitLab Control Framework (GCF)
+- Observation Management
+- Security Compliance Intake (production readiness)
+- Third Party Penetration Testing Program
+- Exceptions
 
 We also utilize external tooling including:
 
-    * ZenGRC: control testing and observations
-    * Authomize: User access review campaigns
+- ZenGRC: control testing and observations
+- Authomize: User access review campaigns
 
 ## How we work
 
@@ -72,8 +65,8 @@ We utilize GitLab Epics and Issue to track projects, deliverables and milestones
 
 ## Metrics and Measures of Success
 
-1. [Security Control Risk by System](https://about.gitlab.com/handbook/security/performance-indicators/#security-control-risk-by-system)
-2. [Securty Observations](https://about.gitlab.com/handbook/security/performance-indicators/#security-observations-tier-3-risks)
+1. [Security Control Risk by System]({{< ref "/handbook/security/performance-indicators#security-control-risk-by-system" >}})
+1. [Securty Observations]({{< ref "/handbook/security/performance-indicators#security-observations-tier-3-risks" >}})
 
 ## Contact the Team
 
@@ -90,26 +83,23 @@ We utilize GitLab Epics and Issue to track projects, deliverables and milestones
 
 ## <i class="fas fa-id-card" style="color:rgb(110,73,203)" aria-hidden="true"></i> Contact the Team
 
-* Slack
-   * Feel free to tag us with `@commerical_compliance`
-   * The #sec-assurance slack channel is the best place for questions relating to our team (please add the above tag)
-* Tag us in GitLab
-   * `@gitlab-com/gl-security/security-assurance/team-commercial-compliance`
-* Email
-   * `security-compliance@gitlab.com`
-* [Commercial Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-commercial-compliance/compliance)
-
-* Interested in joining our team? Check out more [here](https://handbook.gitlab.com/job-families/security/security-compliance/)!
+- Slack
+   - Feel free to tag us with `@commerical_compliance`
+   - The #sec-assurance slack channel is the best place for questions relating to our team (please add the above tag)
+- Tag us in GitLab
+   - `@gitlab-com/gl-security/security-assurance/team-commercial-compliance`
+- Email
+   - `security-compliance@gitlab.com`
+- [Commercial Compliance team project](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-commercial-compliance/compliance)
+- Interested in joining our team? Check out more [here]({{< ref "/job-families/security/security-compliance" >}})!
 
 ## <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> References
 
-* [Security Certifications](/handbook/security/security-assurance/security-compliance/certifications.html)
-* [GCF Security Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html)
-* [GCF Security Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html)
-* [User Access Reviews](/handbook/security/security-assurance/security-compliance/access-reviews.html)
-* [Observation Methodology](/handbook/security/security-assurance/observation-management-procedure.html)
-* [Gap Analysis Program](/handbook/security/security-assurance/security-compliance/gap-analysis-program.html)
+- [Security Certifications]({{< ref "../security-compliance/certifications" >}})
+- [GCF Security Control Lifecycle]({{< ref "security-control-lifecycle" >}})
+- [GCF Security Controls]({{< ref "sec-controls" >}})
+- [User Access Reviews]({{< ref "access-reviews" >}})
+- [Observation Methodology]({{< ref "observation-management-procedure" >}})
+- [Gap Analysis Program]({{< ref "gap-analysis-program" >}})
 
-<div class="flex-row" markdown="0" style="height:40px">
-    <a href="https://about.gitlab.com/handbook/security/security-assurance/#" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Security Assurance Homepage</a>
-</div> 
+<a href="{{< ref "security-assurance" >}}" class="btn bg-primary text-white btn-lg">Return to the Security Assurance Homepage</a>

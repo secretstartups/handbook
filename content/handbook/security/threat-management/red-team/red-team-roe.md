@@ -1,19 +1,10 @@
 ---
-layout: handbook-page-toc
 title: "Red Team Rules of Engagement"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Overview
-
 This page outlines the general rules that apply to all work conducted by the Red Team. Individual operations may include additional rules defined during planning stages.
 
-Please refer to [our general handbook page](/handbook/security/threat-management/red-team) to learn more about our team and what we do.
+Please refer to [our general handbook page]({{< ref "_index.md" >}}) to learn more about our team and what we do.
 
 ## Systems in Scope
 
@@ -25,7 +16,7 @@ Team members can request that a system be excluded from our scope by [opening an
 
 ## Stealth Operations
 
-[Stealth Operations](/handbook/security/threat-management/red-team/#stealth-operations) are conducted without being widely announced. These operations require careful planning. We will use the same [logistics issue template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates/-/blob/main/.gitlab/issue_templates/02-logistics.md) used for Purple Team operations, but it will only be visible to trusted participants until the operation is disclosed.
+[Stealth Operations]({{< ref "_index.md#stealth-operations" >}}) are conducted without being widely announced. These operations require careful planning. We will use the same [logistics issue template](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-issue-templates/-/blob/main/.gitlab/issue_templates/02-logistics.md) used for Purple Team operations, but it will only be visible to trusted participants until the operation is disclosed.
 
 The logistics phase will define detailed rules for each specific operation. The sections below contain general rules that apply to all stealth operations.
 
@@ -39,7 +30,7 @@ The logistics phase will define detailed rules for each specific operation. The 
 
 - Active stealth operations will have a dedicated Slack channel where all trusted participants are invited.
 - The private `#is-this-the-redteam` channel is always available for Security Directors and above to inqure about Red Team activities.
-- If team members ask whether a specific activity or IoC belongs to the Red Team outside of these designated channels, we will follow the process documented in ["Is This The Red Team?"](/handbook/security/threat-management/red-team/#is-this-the-red-team).
+- If team members ask whether a specific activity or IoC belongs to the Red Team outside of these designated channels, we will follow the process documented in ["Is This The Red Team?"]({{< ref "_index.md#is-this-the-red-team" >}}).
 - If asked in one of the designated Slack channels, the following will happen:
   - Any ongoing stealth activities will be paused until a definitive answer can be provided.
   - If it was not the Red Team, the requestor can still ask that all activities remain paused until the issue is resolved.
@@ -54,7 +45,7 @@ The logistics phase will define detailed rules for each specific operation. The 
 
 At GitLab, our Red Team and Blue Team have a long history of working collaboratively towards a common goal. Despite playing roles that are adversarial in nature, we want to maintain a very high level of trust and respect between the teams.
 
-We define some specific rules below, but in general we want to remember to always be kind and compassionate in our work. If something feels like it conflicts with [GitLab's values](/handbook/values), we need to re-evaluate exactly what we are doing and why we are doing it.
+We define some specific rules below, but in general we want to remember to always be kind and compassionate in our work. If something feels like it conflicts with [GitLab's values]({{< ref "/handbook/values" >}}), we need to re-evaluate exactly what we are doing and why we are doing it.
 
 - The Red Team will not intentionally distract or mislead SIRT using official company communication channels under the team's legitimate user accounts.
 - The Red Team will make an effort to avoid triggering on-call incidents outside of normal business hours. In general, this means not conducting attack techniques during hours when it is a weekend or holiday globally.
@@ -70,13 +61,13 @@ The sections below outline general rules all Red Team operations.
 
 ### Team Member Privacy
 
-As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks. We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) during our engagements.
+As security professionals, we aim to be ethical in every engagement while maintaining the spirit of mimicking real-world attacks. We respect the privacy of the employees at GitLab and follow the guidelines mentioned in the [Employee Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) during our engagements.
 
 ### Critical Vulnerabilities and Exploits
 
 The Red Team may discover and exploit vulnerabilities during an engagement. These will not always be reported immediately to SIRT, as we want to provide a realistic opportunity to detect and respond to that exploitation.
 
-If a vulnerability is exposed that meets the following criteria, we will document the issue and follow [the process to engage SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html#engaging-sirt) immediately:
+If a vulnerability is exposed that meets the following criteria, we will document the issue and follow [the process to engage SIRT]({{< ref "sec-incident-response#engaging-sirt" >}}) immediately:
 
 - Vulnerability is exposed publicly
 - Vulnerability is realistically exploitable
@@ -90,9 +81,9 @@ If we ever suspect an impact to production, we will do the following:
 
 1. Suspend any activities related to the impact
 1. Immediately inform everyone defined as a "trusted participant" for the operation
-1. If a security incident is required, [engage SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html#engaging-sirt)
-1. If an infrastructure incident is required, [engage the on-call SRE](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
-1. Perform a proper [root cause analysis](/handbook/engineering/root-cause-analysis/) following resolution of the incident
+1. If a security incident is required, [engage SIRT]({{< ref "sec-incident-response#engaging-sirt" >}})
+1. If an infrastructure incident is required, [engage the on-call SRE](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident)
+1. Perform a proper [root cause analysis](https://about.gitlab.com/handbook/engineering/root-cause-analysis/) following resolution of the incident
 
 ## Common Techniques
 
@@ -102,7 +93,7 @@ If any team members have questions or concerns about these operations, please co
 
 ### Opportunistic Attack Techniques
 
-Techniques used in [opportunistic attacks](./#opportunistic-attacks) include:
+Techniques used in opportunistic attacks include:
 
 - Port scanning.
 - Web crawling and scraping.
@@ -118,21 +109,21 @@ Techniques used in [opportunistic attacks](./#opportunistic-attacks) include:
 
 ### Stealth Operation Techniques
 
-During a [stealth operation](./#stealth-operations), the Red Team may:
+During a [stealth operation](#stealth-operations), the Red Team may:
 
-* Begin an operation assuming a breach has occurred, meaning the team will have some level of access to resources that are not exposed publicly.
-* Attempt to gain access to team member accounts on any GitLab-managed platform (GitLab.com, Google, Slack, Zoom, etc).
-* Authenticate as any team member using credential data discovered on any GitLab-managed resource (passwords, access tokens, SSH keys, etc).
-* Attempt to gain access to any resource in GitLab's cloud environments, and use those resources to escalate privileges and move laterally in the cloud.
-* Exploit vulnerabilities and abuse insecure configurations in any system owned and managed by GitLab.
-* Attempt digital social engineering (email, Slack, GitLab issues, etc) and attacks on the software supply chain.
+- Begin an operation assuming a breach has occurred, meaning the team will have some level of access to resources that are not exposed publicly.
+- Attempt to gain access to team member accounts on any GitLab-managed platform (GitLab.com, Google, Slack, Zoom, etc).
+- Authenticate as any team member using credential data discovered on any GitLab-managed resource (passwords, access tokens, SSH keys, etc).
+- Attempt to gain access to any resource in GitLab's cloud environments, and use those resources to escalate privileges and move laterally in the cloud.
+- Exploit vulnerabilities and abuse insecure configurations in any system owned and managed by GitLab.
+- Attempt digital social engineering (email, Slack, GitLab issues, etc) and attacks on the software supply chain.
 
-If you are a team member at GitLab and suspect you have uncovered a stealth red team operation in the course of your daily work, please refer to our deconfliction process mentioned in the "[Is This Red Team?](./#is-this-the-red-team)" section.
+If you are a team member at GitLab and suspect you have uncovered a stealth red team operation in the course of your daily work, please refer to our deconfliction process mentioned in the "[Is This Red Team?]({{< ref "_index.md/#is-this-the-red-team" >}})" section.
 
 At this time, the Red Team **will not**:
 
-* Attempt to gain access to team member laptops without prior consent.
-* Attempt to access resources inside a GitLab team member's home (wireless networks, non-GitLab machines, etc).
-* Attempt to socially engineer team members via phone calls.
-* Attempt to socially engineer team members via channels not managed by GitLab (such as social networks, personal email addresses, etc).
-* Attempt to gain access to anything that is not strictly work-related and managed/owned by GitLab.
+- Attempt to gain access to team member laptops without prior consent.
+- Attempt to access resources inside a GitLab team member's home (wireless networks, non-GitLab machines, etc).
+- Attempt to socially engineer team members via phone calls.
+- Attempt to socially engineer team members via channels not managed by GitLab (such as social networks, personal email addresses, etc).
+- Attempt to gain access to anything that is not strictly work-related and managed/owned by GitLab.

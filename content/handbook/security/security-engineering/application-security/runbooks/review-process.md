@@ -1,18 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "AppSec Review Template Process"
-description: "This review template is tailored to application security reviews of GitLab features."
+description: "This review template is tailored to application security reviews of GitLab features. Parts of it might be applicable to other software, other parts might not."
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-This review template is tailored to application security reviews of GitLab
-features. Parts of it might be applicable to other software, other parts might
-not.
 
 ## Review preparation
 
@@ -43,24 +32,24 @@ Different sub-features and functionalities of the feature need to be
 prioritized. For this apparent critical functionalities like authentication and
 authorization should get highest priority.
 
-See [Assigning Priority](https://about.gitlab.com/handbook/security/security-engineering/application-security/appsec-reviews.html#assigning-priority)
+See [Assigning Priority]({{< ref "appsec-reviews#assigning-priority" >}})
 
 The following items are considered high priority code parts:
 
-* Parts which involve authentication:
-  * Login functionality
-  * Deploy keys or token
-  * Password reset.
-* Parts which involve authorization:
-  * New access and permission checks of any kind
-  * Modification of access rights and permissions
-* File uploads
-* Newly implemented security checks to prevent common vulnerabilities
-* Introduction of new dependencies
+- Parts which involve authentication:
+  - Login functionality
+  - Deploy keys or token
+  - Password reset.
+- Parts which involve authorization:
+  - New access and permission checks of any kind
+  - Modification of access rights and permissions
+- File uploads
+- Newly implemented security checks to prevent common vulnerabilities
+- Introduction of new dependencies
 
 ### Threat modeling
 
-Refer to the [threat modeling runbook page](/handbook/security/security-engineering/application-security/runbooks/threat-modeling.html).
+Refer to the [threat modeling runbook page]({{< ref "threat-modeling" >}}).
 
 ### Time estimation
 
@@ -121,13 +110,13 @@ documented as a finding during the review process.
 ### Conclusion
 
 When the review is done a conclusion section should be added as a comment to
-the issue using the `Conclusion` section in the [issue template](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/-/tree/master/.gitlab/issue_templates/AppSec%20Review.md). 
+the issue using the `Conclusion` section in the [issue template](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-reviews/-/tree/master/.gitlab/issue_templates/AppSec%20Review.md).
 
 The conclusion section should contain a brief summary of the findings,
 potentially highlighting any critical findings. When the review process itself
 went very well this section should also be used to point out the participating
 team members for their
-[collaboration](https://about.gitlab.com/handbook/values/#collaboration)
+[collaboration]({{< ref "values#collaboration" >}})
 efforts.
 
 #### Coverage
@@ -147,7 +136,7 @@ filled out manually to point to the accordin remediation MRs or issues.
 
 If any blockers or problems occurred during the review those should be
 mentioned as well. In order to stay
-[results](https://about.gitlab.com/handbook/values/#results) oriented any
+[results]({{< ref "values#results" >}}) oriented any
 problem should come with a suggestion how to do it better or how to avoid the
 problem in future reviews.
 
@@ -176,5 +165,5 @@ In order to close the review issue there should be either a follow up issue or
 MR on the respective development repository. If a follow up is missing it
 should be created by the reviewer and linked to in the respective finding
 thread. For those issues the normal [triage
-process](https://about.gitlab.com/handbook/security/#issue-triage)
+process]({{< ref "/handbook/security/#issue-triage" >}})
 applies.

@@ -1,22 +1,15 @@
 ---
-layout: handbook-page-toc
 title: "GitLab Application Security Inventory"
 description: "The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies that matter for AppSec"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## GitLab Application Security Inventory
 
-Securing GitLab means building a security program at scale. The number of changes in the codebase is constantly increasing, along with the number of side projects.  
-Keeping track of all these moving parts can not rely only upon our current understanding and vision of the GitLab software architecture. 
-Automation is a key aspect of our work, and GitLab is no exception. 
+Securing GitLab means building a security program at scale. The number of changes in the codebase is constantly increasing, along with the number of side projects.
+Keeping track of all these moving parts can not rely only upon our current understanding and vision of the GitLab software architecture.
+Automation is a key aspect of our work, and GitLab is no exception.
 
-The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies important to us.  
+The AppSec Inventory is a private GitLab project to identify and track all projects, components, and dependencies important to us.
 The project is available at [https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory)
 to GitLab team members. The Inventory is built using this [CLI tool](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib/).
 
@@ -25,10 +18,10 @@ That's why we need to categorize the projects created by GitLab team members, un
 
 ### Categories
 
-To quickly identify the purpose and characteristics of a project, a strict categorization is necessary.  
+To quickly identify the purpose and characteristics of a project, a strict categorization is necessary.
 The following categories can be used to decorate the projects we want to monitor.
 
-| Categories | Description | 
+| Categories | Description |
 | -------- | ----------- |
 | `product` | Used as a component of GitLab at some point |
 | `library` | A library, package source, component (not necessarily a `product` one) |
@@ -53,7 +46,7 @@ The following categories can be used to decorate the projects we want to monitor
 
 Rules define actions to take, based on the project categories. These actions are performed by the GitLab Inventory Builder and are currently hard coded. We plan to make them dynamic in the future.
 
-| Categories | Actions | 
+| Categories | Actions |
 | -------- | ----------- |
 |  All (even if no category is defined) | Download [Dependencies] |
 |  `product`, `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | Download [Vulnerability Reports], [Dependencies], [Protected branches], and [CI/CD configuration] |
@@ -61,7 +54,7 @@ Rules define actions to take, based on the project categories. These actions are
 
 ### Policies
 
-| Categories | Policies | 
+| Categories | Policies |
 | -------- | ----------- |
 | `red-data`, `product`, `library` | [SAST], [Dependency Scanning], and [Secret Detection] must be enabled |
 | `red-data`, `product`, `library` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `No one`) |
@@ -92,11 +85,11 @@ These policies are aligned with our [GitLab Projects Baseline Requirements](/han
 
 ### How to categorize projects
 
-The inventory relies on a folder tree structure, used as a database, in a `data/` folder. 
-Leaves are folders and can be groups or projects, and they're identified by specific files (`project.json` for projects, `group.json` for groups). 
+The inventory relies on a folder tree structure, used as a database, in a `data/` folder.
+Leaves are folders and can be groups or projects, and they're identified by specific files (`project.json` for projects, `group.json` for groups).
 These files are created automatically when syncing the Inventory.
 
-The tree structure reflects the organization of groups and projects in a GitLab instance, in our case: https://gitlab.com. 
+The tree structure reflects the organization of groups and projects in a GitLab instance, in our case: https://gitlab.com.
 For example, the [GitLab project](https://gitlab.com/gitlab-org/gitlab/) will be located under [`data/gitlab-org/gitlab/`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory/-/tree/main/data/gitlab-org/gitlab) in the Inventory.
 
 Projects can be categorized by creating a `properties.yml` file in their folder. This file can contain a `categories` array, with the categories of the project.
@@ -109,7 +102,7 @@ categories:
   - library
 ```
 
-Subgroups can be ignored (skipped during synchronization) by adding an `ignore` file into their folder. 
+Subgroups can be ignored (skipped during synchronization) by adding an `ignore` file into their folder.
 
 Learn more with the [GitLab Inventory Builder Documentation](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/gib/-/blob/main/README.md), and this [example inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory-example).
 
@@ -126,7 +119,7 @@ urls:
 
 ### Weekly triage process
 
-A synchronization pipeline runs every week, on Monday mornings. If successful, it will [generate a Merge Request](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory/-/merge_requests) to review the changes. 
+A synchronization pipeline runs every week, on Monday mornings. If successful, it will [generate a Merge Request](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory/-/merge_requests) to review the changes.
 
 The review aims to:
 

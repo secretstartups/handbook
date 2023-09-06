@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: AnswerBase
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## What is AnswerBase?
 
@@ -15,31 +8,31 @@ AnswerBase is an internal only library of question and answer pairs related to G
 
 ## How can I use AnswerBase?
 
-You can use AnswerBase in a manner similar to any other digital or physical library, **to answer questions and conduct research.** 
+You can use AnswerBase in a manner similar to any other digital or physical library, **to answer questions and conduct research.**
 
 AnswerBase is a self-service tool that enables you to quickly search for keywords related to topics of interest from our prospects and customers. Your searches will produce a list of question and answer pairs that closely match your keywords, providing you with the information you need to confidently respond to prospects and customers.
 
 ### What are some use cases for AnswerBase?
 
-* Preparing talking points for a prospect or customer meeting
-* Responding to an email from a prospect or customer; and
-* Learning more about the GitLab solutions and how we operate internally at GitLab, Inc.
+- Preparing talking points for a prospect or customer meeting
+- Responding to an email from a prospect or customer; and
+- Learning more about the GitLab solutions and how we operate internally at GitLab, Inc.
 
 ### How does Field Security use AnswerBase?
 
-* To increase our efficiency and effectiveness when executing [Customer Assurance Activities](https://about.gitlab.com/handbook/security/security-assurance/field-security/customer-security-assessment-process.html)
+- To increase our efficiency and effectiveness when executing [Customer Assurance Activities]({{< ref "customer-security-assessment-process" >}})
 
 ## How can I access AnswerBase?
 
-AnswerBase is powered by our third party tool, OneTrust [Vendorpedia](https://about.gitlab.com/handbook/security/security-assurance/field-security/Vendorpedia.html). Vendorpedia has been added as a baseline entitlement, so all team members will receive access to AnswerBase.
+AnswerBase is powered by our third party tool, OneTrust [Vendorpedia]({{< ref "vendorpedia" >}}). Vendorpedia has been added as a baseline entitlement, so all team members will receive access to AnswerBase.
 
 This video will show you how easy it is to access and use AnswerBase!
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="320" height="240">
-    <source src="AnswerBase Training Video - Final.mp4" type="video/mp4">
-    <source src="AnswerBase Training Video - Final.ogg" type="video/ogg">
-    <source src="AnswerBase Training Video - Final.webm" type="video/webm">
+    <source src="../AnswerBase Training Video - Final.mp4" type="video/mp4">
+    <source src="../AnswerBase Training Video - Final.ogg" type="video/ogg">
+    <source src="../AnswerBase Training Video - Final.webm" type="video/webm">
   </video>
 </figure>
 
@@ -51,16 +44,16 @@ If you have suggestions for improvements, please reach out to Field Security via
 
 ## Quality Guide
 
-Please see our [AnswerBase Quality Guide](/handbook/security/security-assurance/field-security/answerbase_quality_guide.html) to understand how we structure and format AnswerBase.
+Please see our [AnswerBase Quality Guide]({{< ref "answerbase_quality_guide" >}}) to understand how we structure and format AnswerBase.
 
 ## Contact the Field Security Team
 
-* Email
-   * `fieldsecurity@gitlab.com`
-* Slack
-   * Feel free to tag us with `@field-security`
-   * The `#sec-fieldsecurity`, `#sec-assurance`, `#security-department` slack channels are the best place for questions relating to Field Security (please add the above tag).
+- Email
+   - `fieldsecurity@gitlab.com`
+- Slack
+   - Feel free to tag us with `@field-security`
+   - The `#sec-fieldsecurity`, `#sec-assurance`, `#security-department` slack channels are the best place for questions relating to Field Security (please add the above tag).
 
-<div class="flex-row" markdown="0" style="height:40px">
-    <a href="https://about.gitlab.com/handbook/security/security-assurance/field-security/" class="btn btn-purple-inv" style="width:100%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Return to the Field Security Homepage</a>
+<div class="d-grid gap-2 my-4">
+   <a href="{{< ref "security-assurance" >}}" class="btn bg-primary text-white btn-lg">Return to the Security Assurance Homepage</a>
 </div>

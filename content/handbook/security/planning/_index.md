@@ -1,13 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "Security Planning"
+no_list: true
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Security Planning
 
@@ -23,12 +17,12 @@ Milestones, and Issues with a enough detail to begin work. Requiring further
 work in the form of proof-of-concepts or spikes may also be an outcome of a
 "complete" Plan.
 
-**Security Plans** are _not_ meant to be the single-source-of-truth (SSOT) once
+**Security Plans** are *not* meant to be the single-source-of-truth (SSOT) once
 implementation begins. Non-planning handbook pages, runbooks, and system
 documentation in related source repositories should be kept up-to-date and
 continue to be iterated on.
 
-It is suggested to assocate a **Security Plan** with a single Epic and maintain
+It is suggested to associate a **Security Plan** with a single Epic and maintain
 a link to that Epic in this page. All created issues can be associated with
 that Epic as an alternative to providing links in the **Security Plan**
 
@@ -47,11 +41,11 @@ enough detail to begin an iteration or develop on MVC:
 
 ## Tips
 
-* Use headers (`####`) or manually create anchors (`[](){: name="hello-world"}`)
+- Use headers (`####`) or manually create anchors (`[](){: name="hello-world"}`)
   to make it easier to refer to particular section of the Plan from GitLab.
 
 ## Plans
 
 | Plan | Other Resources and Links|
 |------|--------------------------|
-| [Security Requirements for Development and Deployment](./security-development-deployment-requirements) | |
+| [Security Requirements for Development and Deployment]({{< ref "security-development-deployment-requirements" >}}) | |

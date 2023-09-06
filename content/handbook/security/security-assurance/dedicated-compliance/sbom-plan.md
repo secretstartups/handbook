@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Software-Bill-of-Materials (SBOM) Maturity Model and Implementation Plan"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Purpose
 
@@ -20,9 +13,9 @@ The ability to generate and consume complete and accurate SBOMs is **essential**
 1. **Transparency is one of our core values**
     - Providing complete and accurate information the components used in our software, beyond name and version to include pedigree and vulnerability exploitability data, is directly in line with our values and the fact that we are an open core company. SBOMs are the vehicle through which software transparency can be achieved.
 1. **Lack of visibility into software dependencies and vulnerabilities is a top risk for every company**
-    - The information in SBOMs from other companies and open source projects helps GitLab make quick, risk-informed decisions. 
+    - The information in SBOMs from other companies and open source projects helps GitLab make quick, risk-informed decisions.
 1. **Competitive differentiation**
-    - The world is still coming to terms with the reality of SBOMs, both present and future. As a DevSecOps category leader, GitLab will be held to a higher standard than our competitors and will need to be leading the world in this domain from both a product perspective and a customer trust perspective. 
+    - The world is still coming to terms with the reality of SBOMs, both present and future. As a DevSecOps category leader, GitLab will be held to a higher standard than our competitors and will need to be leading the world in this domain from both a product perspective and a customer trust perspective.
 1. **Efficiency**
     - Conveying information in a standard, authoritative format such as CycloneDX and VEX means that we and our customers will gain numerous efficiencies. For example - there will never be questions/requests for which dependencies are actually present in software and which vulnerabilities are exploitable and their status.
 1. **Regulatory mandates**

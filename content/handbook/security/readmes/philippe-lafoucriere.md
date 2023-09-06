@@ -4,19 +4,13 @@ title: "Philippe Lafoucrière README"
 job: "Security Architect"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
 ## Philippe Lafoucrière's README
 
 ### About me
 
-Hi! I'm a [Security Architect](https://handbook.gitlab.com/job-families/security/security-engineer/#security-architect) at
+Hi! I'm a [Security Architect]({{< ref "/job-families/security/security-engineer#security-architect" >}}) at
 GitLab, which is a specialty on top of my [Security Distinguished
-Engineer](https://handbook.gitlab.com/job-families/security/security-engineer/#distinguished-security-engineer) role.
+Engineer]({{< ref "/job-families/security/security-engineer#distinguished-security-engineer" >}}) role.
 
 I have an Engineering background, having graduated from the [Université de Technologie de
 Compiègne](https://www.utc.fr/en/) (France) with a Master's Degree in Computer Science.
@@ -31,18 +25,18 @@ A few facts about me:
 - I have dual citizenships: French & Canadian
 - I have 2 mostly wonderful kids and a fantastic wife
 - I have lived, studied and worked in France and other European countries, but also in South East Asia
-- I spent some of my childhood in Pacific Islands near Australia 
+- I spent some of my childhood in Pacific Islands near Australia
 - I love all things outdoors
 
 ### Background story at GitLab
 
 I joined GitLab with the [acquisition of
-Gemnasium](/press/releases/2018-01-30-gemnasium-acquisition.html) in 2018, when I become the first
-manager of the [Secure Stage](/direction/secure/). After having designed and developed security
+Gemnasium](https://about.gitlab.com/press/releases/2018-01-30-gemnasium-acquisition.html) in 2018, when I become the first
+manager of the [Secure Stage](https://about.gitlab.com/direction/secure/). After having designed and developed security
 products, I decided to switch to the other side of the mirror and joined the [Security
-Department](/handbook/security/) in 2020. 
+Department]({{< ref "/handbook/security" >}}) in 2020.
 
-![timeline](images/timeline.png)
+![timeline](../timeline.png)
 
 ### Communicating with me
 
@@ -56,28 +50,29 @@ ask.
 My English is not perfect. The best way for me to improve is to correct myself when I’m using wrong
 words or expressions.
 
-Also, you can tell I’m tired when my English is worse than usual! 
+Also, you can tell I’m tired when my English is worse than usual!
 
 ### My working style
 
-I live by our [values](/handbook/values/) and embrace every one of them as much as I can. By
+I live by our [values]({{< ref "values" >}}) and embrace every one of them as much as I can. By
 default, I will go async via an issue or a merge request. I create a lot of issues, but they do not
 all translate into an action item. I use issues as a placeholder for discussions too. Sometimes,
 it's to document why I or we think it's not a good idea to do something. We can re-evaluate the
-topic long after, and still get the context which might have changed in the meantime. 
+topic long after, and still get the context which might have changed in the meantime.
 
-I enjoy merge requests too, and consider them as the new workspace. They invite everyone to contribute, 
+I enjoy merge requests too, and consider them as the new workspace. They invite everyone to contribute,
 keep track of context and changes, let us loop in whoever is needed to review or approve, and least
 but not least have great flexibility for approval rules.
 
 I love UX and by extension simplicity, which is something I will always strive for. Complexity is
-growing exponentially, so I tend to push back on ideas that can be simplified. 
+growing exponentially, so I tend to push back on ideas that can be simplified.
 
 Having managed a company for a decade, I have an affinity for:
+
 - added value: Return On Investment (ROI) is a great way to think about the value provided when a
   decision is made. In everything I'm doing or planning to do, I'm always asking
   myself what my added value in this matter is. How do I contribute to the success of the Security
-  Department and GitLab, the product and the company. 
+  Department and GitLab, the product and the company.
 - risk assessment and management: Blind spots and dark corners keep me up at night. Legal and
   security risks can arise everywhere, and I usually have a natural ability to find and recognize
   them.
@@ -89,7 +84,7 @@ this time, but always check my emails and slack messages when I wake up (old CEO
 
 I take a 1-hour break for lunch, usually between 11:30 am - 12:30 pm.
 
-I end the day around 6 pm to cook dinner for the family. 
+I end the day around 6 pm to cook dinner for the family.
 
 I get back to the computer between 7 and 8 pm After that, Slack and emails are still in “monitor
 mode”, but it’s usually family time.

@@ -3,28 +3,20 @@ layout: handbook-page-toc
 title: "Application Security Engineer Handling priority::1/severity::1 Issues"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Appsec Engineer Procedure for Handling severity::1/priority::1 Issues
-
 The following process is a supplement to the first few steps of the [critical release process](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases)
 
 Once a potential severity::1/priority::1 issue is made known. The appsec engineer steps are as follows:
 
 ## Triage
 
-1. Triage and verify the issue as you normally would [triage a report](./#hackerone-process.html).
+1. Triage and verify the issue as you normally would [triage a report]({{< ref "hackerone-process" >}}).
 1. To help SecOps quickly determine impact and log analysis, comment in the security issue with the summarized reproduction steps (HTTP Requests, generated log messages, images, etc).
 1. After escalating, do an investigation to try to determine if there are other immediately vulnerable components or other impacts.
 
 ## Escalate
 
-1. [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html) with a link to the issue, a summary of what has happened, and an description of what SIRT may need to do.
-1. Engage the appropriate [engineering manager and product manager of the affected component](/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
+1. [Engage the Security Engineer on-call]({{< ref "engaging-security-on-call" >}}) with a link to the issue, a summary of what has happened, and an description of what SIRT may need to do.
+1. Engage the appropriate [engineering manager and product manager of the affected component](https://about.gitlab.com/handbook/product/categories/) in both the issue **and** in the appropriate Slack channels.
 1. If help from the GitLab Dedicated team is needed, [follow the runbook to escalate to their engineer on call](https://gitlab-com.gitlab.io/gl-infra/gitlab-dedicated/team/runbooks/on-call.html#escalating-to-an-on-call-person).
 1. Ping `@appsec-leadership` in the `#sec-appsec` Slack channel with a link to the issue. This will help team leadership and other engineers get up to speed, in case they need to step in.
 
@@ -47,13 +39,13 @@ Sometimes the fix is very simple, sometimes it's not. If the impact to users is 
 1. Once the short term solution has been delivered, validate that the fix was effective.
 
 Some past short term options have been:
-* Cloudflare rule to block certain endpoints.
-* Disable a specific feature using feature flags or application configuration.
-* Deploy a [hotpatch](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md).
+- Cloudflare rule to block certain endpoints.
+- Disable a specific feature using feature flags or application configuration.
+- Deploy a [hotpatch](https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/post-deployment-patches.md).
 
 ### Long term
 
-1. Follow the [flowchart](./deciding-gitlab-com-deployment.html) to decide which type of release is best suited for the current issue.
+1. Follow the [flowchart]({{< ref "deciding-gitlab-com-deployment" >}}) to decide which type of release is best suited for the current issue.
 1. Open an [RCA issue](https://gitlab.com/gitlab-com/gl-security/rcas/-/issues/) to start the RCA process.
 
 ## Handoff
@@ -68,4 +60,4 @@ Share that a handover has happened in the incident's Slack channel, and cross-po
 
 ### Family and Friends Day Coverage
 
-[Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/) are days where GitLab publicly shuts down. The AppSec [rotation spreadsheet](https://docs.google.com/spreadsheets/d/18vz84dgTfetTaBjbOCXaLKNfzLYMiy_tBW6RfEUYYHk/edit#gid=1486863602) indicates who is available from the AppSec team on those days. There will be one AppSec engineer covering for each timezone region (AMER, EMEA, APAC) during each F&F Day. Team members assigned to this rotation are expected to move their F&F Day to another day as they see fit.
+[Family and Friends Days]({{< ref "family-and-friends-day" >}}) are days where GitLab publicly shuts down. The AppSec [rotation spreadsheet](https://docs.google.com/spreadsheets/d/18vz84dgTfetTaBjbOCXaLKNfzLYMiy_tBW6RfEUYYHk/edit#gid=1486863602) indicates who is available from the AppSec team on those days. There will be one AppSec engineer covering for each timezone region (AMER, EMEA, APAC) during each F&F Day. Team members assigned to this rotation are expected to move their F&F Day to another day as they see fit.

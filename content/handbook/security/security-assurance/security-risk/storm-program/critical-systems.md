@@ -1,23 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Critical System Tiering Methodology"
-description: "The purpose of the Critical Systems Tiering Methodology is to support GitLab in identifying and understanding the specific systems utilized across the organization that are considered essential in order to maintain operations."
+summary: "The purpose of the Critical Systems Tiering Methodology is to support GitLab in identifying and understanding the specific systems utilized across the organization that are considered essential in order to maintain operations."
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-<!--HTML Parser Markup-->
-{::options parse_block_html="true" /}
-
-# Critical Systems Tiering Methodology
 
 ## Purpose
 
-The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of Gitlab's [mission](https://about.gitlab.com/company/mission/#mission) and [strategy](https://about.gitlab.com/company/strategy/). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
+The purpose of the Critical Systems Tiering Methodology is to support GitLab in categorizing systems based on their effect on GitLab's SaaS subscriptions and the achievement of Gitlab's [mission]({{< ref "mission#mission" >}}) and [strategy]({{< ref "strategy" >}}). Ultimately, this provides GitLab with a mechanism to take a proactive approach to comprehensive risk management which considers risks, such as information security and privacy risks, impacting business operations across the organization. Additionally, by classifying systems into specific tiers, GitLab will be in a better position to appropriately prioritize risk mitigation activities and tailor internal controls based on a system's related tier.
 
 ## Scope
 
@@ -33,26 +21,19 @@ The critical systems tiering methodology is applicable to all systems utilized a
 
 ## Critical System Tiering Procedure
 
-Defining what a critical system means at GitLab can be complex given the nature of our environment and the number of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) process, we obtain inputs that enable the assignment of a critical system tier per system. The inputs used to determine system criticality tiers include, but are not limited to, the following:
+Defining what a critical system means at GitLab can be complex given the nature of our environment and the number of integrations that exist across the many systems that are used to carry out business activities. As part of Gitlab's [Business Impact Analysis (BIA)]({{< ref "business-impact-analysis" >}}) process, we obtain inputs that enable the assignment of a critical system tier per system. The inputs used to determine system criticality tiers include, but are not limited to, the following:
 
 1. If the system experienced a disruption or outage, would there be an immediate impact to GitLab.com SaaS subscriptions?
-2. If the system experienced a disruption or outage, which of the following would describe the impact to GitLab?
-   - Critical business functions (i.e., indirectly affects revenue generation, requires constant availability for effective business operation) 
+1. If the system experienced a disruption or outage, which of the following would describe the impact to GitLab?
+   - Critical business functions (i.e., indirectly affects revenue generation, requires constant availability for effective business operation)
    - Operational business functions (i.e., affects efficiency/cost of operation)
    - Administrative functions (i.e., affects GitLab team members only on an individual basis (e.g., quality of life, individual productivity))
 
 Once the information is obtained, it is reviewed by the Security Risk and/or IT Compliance Team to determine which system tier should be assigned to the system. The guidelines used to assign a tier are described in the [Determining Critical System Tiers](#determining-critical-system-tiers) section below.
 
-
-<div class="panel panel-gitlab-orange">
-**Why do we differentiate between impact to the SaaS subscriptions vs Critical internal business operations?**
-{: .panel-heading}
-<div class="panel-body">
-
-Critical system tiers are meant to be leveraged as a driver for prioritizing work that impacts a large number of systems. Utilizing the system tiers provide a meaningful mechanism to prioritize work for systems which are essential to GitLab and its customers. Furthermore, because the core service offering is GitLab.com, systems which have an impact on GitLab's ability to maintain/sustain the continued delivery of GitLab.com are given their own dedicated tier, _Tier 1 Mission Critical_, because of potential impact to all SaaS subscription customers.
-
-</div>
-</div>
+{{% panel header="**Why do we differentiate between impact to the SaaS subscriptions vs Critical internal business operations?**" header-bg="warning" %}}
+Critical system tiers are meant to be leveraged as a driver for prioritizing work that impacts a large number of systems. Utilizing the system tiers provide a meaningful mechanism to prioritize work for systems which are essential to GitLab and its customers. Furthermore, because the core service offering is GitLab.com, systems which have an impact on GitLab's ability to maintain/sustain the continued delivery of GitLab.com are given their own dedicated tier, *Tier 1 Mission Critical*, because of potential impact to all SaaS subscription customers.
+{{% /panel %}}
 
 ### Determining Critical System Tiers
 
@@ -83,7 +64,7 @@ Systems are assigned a critical system tier based on the following matrix:
   </tr>
   <tr>
     <td class="tg-e02t">Tier 1 Mission Critical<span style="color:#DB3B21;">**</span></td>
-    <td class="tg-zqun">Disruption or breach has an immediate and significant impact to the availability/security of GitLab subscriptions and customer data (See <a href="https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-definitions">Data Classification Standard</a> for definitions).</td>
+    <td class="tg-zqun">Disruption or breach has an immediate and significant impact to the availability/security of GitLab subscriptions and customer data (See <a href="{{< ref "data-classification-standard#data-classification-definitions" >}}">Data Classification Standard</a> for definitions).</td>
     <td class="tg-zqun">GitLab.com, Google Cloud Platform, Devo</td>
     <td class="tg-zqun">Tier 1 Product</td>
   </tr>
@@ -97,7 +78,7 @@ Systems are assigned a critical system tier based on the following matrix:
     <td class="tg-e02t">Tier 3 Business Operational</td>
     <td class="tg-zqun">Disruption affects operational business functions, negatively impacting efficiency/cost of operation across departments</td>
     <td class="tg-zqun">DocuSign, Figma, Tableau</td>
-    <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>    
+    <td class="tg-zqun">Combination of Tier 2 Support and Tier 3 Non-critical and influenced by responses to BIA</td>
   </tr>
   <tr>
     <td class="tg-e02t">Tier 4 Administrative</td>
@@ -109,22 +90,17 @@ Systems are assigned a critical system tier based on the following matrix:
 </table>
 <br/>
 
-<div class="panel panel-gitlab-purple">
-**Notes**
-{: .panel-heading}
-<div class="panel-body">
-
-<span style="color:#DB3B21;"><b>\*</b></span> As an extension of tiering methodology, the [Data Classification Standard](/handbook/security/data-classification-standard.html) prescribes **specific** [Security and Privacy](/handbook/security/data-classification-standard.html#security-and-privacy-controls) control requirements for each data classification level. These requirements should be followed based on a system's data classification, regardless of the system's tier.
-{: .note}
-
-<span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard](/handbook/security/data-classification-standard.html#red) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
-{: .note}
-
-<span style="color:#DB3B21;"><b>*\*\*</b></span> By default, any system in-scope for [SOX](/handbook/internal-audit/sarbanes-oxley/) will be a **Tier 2 Business Critical** system, at minimum.
-{: .note}
-
-</div>
-</div>
+{{% panel header="**Notes**" header-bg="primary" %}}
+{{% note %}}
+<span style="color:#DB3B21;"><b>\*</b></span> As an extension of tiering methodology, the [Data Classification Standard]({{< ref "data-classification-standard" >}}) prescribes **specific** [Security and Privacy]({{< ref "data-classification-standard#security-and-privacy-controls" >}}) control requirements for each data classification level. These requirements should be followed based on a system's data classification, regardless of the system's tier.
+{{% /note %}}
+{{% note %}}
+<span style="color:#DB3B21;"><b>\**</b></span> By default, any system that contains <b>RED Data</b> per the [Data Classification Standard]({{< ref "data-classification-standard#red" >}}) OR is a [Third Party Sub-Processor](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) will be a **Tier 1 Mission Critical** system. This is due to the fact that this data is customer owned and uploaded and as such, has been deemed to be mission critical in nature.
+{{% /note %}}
+{{% note %}}
+<span style="color:#DB3B21;"><b>*\*\*</b></span> By default, any system in-scope for [SOX](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/) will be a **Tier 2 Business Critical** system, at minimum.
+{{% /note %}}
+{{% /panel %}}
 
 ### Why does GitLab need this methodology?
 
@@ -132,13 +108,13 @@ Tiering systems utilized across GitLab enables team members to make decisions on
 
 ### Maintaining Critical System Tiers
 
-The Critical System Tier for existing systems is re-evaluated as part of the periodic [BIA](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html#existing-systems-frequency-based-on-critical-system-tier) process. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) which is the Single Source of Truth for all systems used at GitLab.
+The Critical System Tier for existing systems is re-evaluated as part of the periodic [BIA]({{< ref "business-impact-analysis#existing-systems-frequency-based-on-critical-system-tier" >}}) process. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) which is the Single Source of Truth for all systems used at GitLab.
 
 ## Exceptions
 
-Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a critical system tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard](/handbook/security/data-classification-standard.html#green).
+Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a critical system tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard]({{< ref "data-classification-standard#green" >}}).
 
 ## References
 
-* [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html)
-* [Data Classification Standard](/handbook/security/data-classification-standard.html)
+- [Business Impact Analysis]({{< ref "business-impact-analysis" >}})
+- [Data Classification Standard]({{< ref "data-classification-standard" >}})

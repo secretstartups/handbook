@@ -1,39 +1,32 @@
 ---
-layout: handbook-page-toc
 title: "GitLab Continuous Security Framework"
 description: "The GitLab Continuous Security Framework workflow"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Gitlab Continuous Security Framework
 
-_Disclaimer: This page is part of a
+*Disclaimer: This page is part of a
 [POC](https://gitlab.com/groups/gitlab-com/gl-security/-/epics/169) and should not be used without
 validation of your Manager. If you're a Manager and want your team to be part of the experiment,
 please comment in this
-[issue](https://gitlab.com/gitlab-com/gl-security/security-architecture/general/-/issues/12)._
+[issue](https://gitlab.com/gitlab-com/gl-security/security-architecture/general/-/issues/12).*
 
 Security is often being involved late in the life cycle of feature development. To prevent this,
-security is bundled into the [Software Development Lifecycle](/stages-devops-lifecycle/), in every
+security is bundled into the [Software Development Lifecycle](https://about.gitlab.com/stages-devops-lifecycle/), in every
 stage of the workflow. Eventually, features are meant to reach production, but have to pass the
-[production readiness review](/handbook/engineering/infrastructure/production/readiness/) gate
+[production readiness review](https://about.gitlab.com/handbook/engineering/infrastructure/production/readiness/) gate
 first. In order to facilitate this process, the framework supports the engineering team all along
 the life cycle of the feature, to facilitate the creation of the required documentation and other
 artifacts.
 
 The framework relies heavily on the [data
-classification](/handbook/security/data-classification-standard.html) of the feature in
+classification]({{< ref "data-classification-standard" >}}) of the feature in
 scope. It is not necessary for features managing Green data, and more activities are required as the
 level increases, up to Red data.
 
 The framework targets mostly Engineering Managers and their team, but also Product Managers, to
 track progress from the early phases of the [Product Development
-Workflow](/handbook/product-development-flow/), to the release or deployment to production.
+Workflow](https://about.gitlab.com/handbook/product-development-flow/), to the release or deployment to production.
 
 Once released or deployed, the SDLC loops and a new iteration can start. The framework continues to
 support the team with insights and recommendations. More importantly, changes in the framework
@@ -55,16 +48,16 @@ and more precisely for changes in:
 
 The framework is organized in different stages, each of them having their own set of activities:
 
-![activities](img/activities.svg)
+![activities](./img/activities.svg)
 
-_(Source: https://docs.google.com/drawings/d/1eQZppzngBJ9Xssvt514GHbs7rKHuRiLRk8cYbQtD5bI/edit)_
+*(Source: https://docs.google.com/drawings/d/1eQZppzngBJ9Xssvt514GHbs7rKHuRiLRk8cYbQtD5bI/edit)*
 
 Activities have a "deliverable", which the expected artifacts of the activity. They can be of
 various forms, from markdown pages to the state of a dashboard.
 
-![deliverables](img/deliverables.svg)
+![deliverables](./img/deliverables.svg)
 
-_(Source: https://docs.google.com/drawings/d/1kj3KoU7UePUzoEdWCQFoppDEQgltUedmj6R-I0BqSZ8/edit)_
+*(Source: https://docs.google.com/drawings/d/1kj3KoU7UePUzoEdWCQFoppDEQgltUedmj6R-I0BqSZ8/edit)*
 
 The framework is architected around 3 stages:
 
@@ -96,7 +89,7 @@ A value among: `Green`, `Yellow`, `Orange`, or `Red`.
 ##### Resources:
 
 1. The [Data Classification
-   Standard](/handbook/security/data-classification-standard.html) handbook page
+   Standard]({{< ref "data-classification-standard" >}}) handbook page
 
 #### Architecture
 
@@ -114,21 +107,20 @@ system helps to get started with the Threat Modeling activity.
 
 #### Threat Modeling
 
-Create or update a corresponding [Threat Model](/handbook/security/threat_modeling/).
+Create or update a corresponding [Threat Model]({{< ref "threat-modeling" >}}).
 
 #### OSS Ecosystem Testing
 
 In case the proposed architectural change introduces new Open Source Software components to our
 infrastructure or our product inform the Security Research Team
-(`@gitlab-com/gl-security/security-research`) for potential inclusion of the dependency into the 
-[OSS Ecosystem Testing](/handbook/security/threat-management/security-research/#gitlab-ecosystem-security-testing)
+(`@gitlab-com/gl-security/security-research`) for potential inclusion of the dependency into the
+[OSS Ecosystem Testing]({{< ref "../threat-management/security-research#gitlab-ecosystem-security-testing" >}})
 efforts.
 
 ## Additional resources and references
 
 
-[Security Assurance]: /handbook/security/security-assurance/
-[Security Architects]: /handbook/security/architecture/
-[InfraSec]: /handbook/security/security-engineering-and-research/infrastructure-security/
-[AppSec]: /handbook/security/security-engineering-and-research/application-security/
-
+[Security Assurance]: {{< ref "security-assurance" >}}
+[Security Architects]:{{< ref "../architecture" >}}
+[InfraSec]: {{< ref "../security-engineering/infrastructure-security" >}}
+[AppSec]: {{< ref "../security-engineering/application-security" >}}

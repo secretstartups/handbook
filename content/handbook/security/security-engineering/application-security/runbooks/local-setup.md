@@ -1,15 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "AppSec Engineer's Local Setup"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# AppSec Engineer's Local Setup
 
 When evaluating security issues or MRs, it can be useful to have a way to reproduce issues, dig in to root causes, look for further impacts. This can also be a great way to get familiar with GitLab during your first few weeks of onboarding. Here are some handy tips & tricks.
 
@@ -41,4 +32,4 @@ When testing requires using multiple users, an Incognito / Private tab is an eas
 
 Some bugs require connecting to a service. An example is using `ngrok` to stub a fake GitLab server in ["CVE-2022-0244: Arbitrary file read via the bulk imports UploadsPipeline"](https://gitlab.com/gitlab-org/gitlab/-/issues/349524#steps-to-reproduce).
 
-Making your local machine accessible from the internet is [not permitted](/handbook/security/#other-servicesdevices), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/) to host mock servers instead. Refer to [Secure Cloud testing environments](/handbook/support/workflows/test_env.html.md#securing-cloud-testing-environments) for advice on how to secure your Sandbox Cloud test environments.
+Making your local machine accessible from the internet is [not permitted]({{< ref "/handbook/security#other-servicesdevices" >}}), which precludes tools like `ngrok` or `localtunnel`. Use GitLab's [Sandbox Cloud]({{< ref "/handbook/infrastructure-standards/realms/sandbox" >}}) to host mock servers instead. Refer to [Secure Cloud testing environments]({{< ref "test_env#securing-cloud-testing-environments" >}}) for advice on how to secure your Sandbox Cloud test environments.

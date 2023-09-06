@@ -1,30 +1,23 @@
 ---
-layout: handbook-page-toc
 title: "Security Research"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Team Focus
 
 Security Research focuses on identifying, investigating, and developing solutions for security problems for which current best practices are not sufficient. This work is focused on improving the security posture of the product and the company, but always with an eye for contributing new functionality as a differentiator. Additionally, we aim to share our results as widely as appropriate in order to educate fellow team members and bring awareness to the Gitlab Security program.
 
-The team focus for the security research team falls into the two following categories in order to align with the [role description](/handbook/security/#security-research):
+The team focus for the security research team falls into the two following categories in order to align with the [role description]({{< ref "/handbook/security#security-research" >}}):
 
-* Secure GitLab
-* Raise awareness
+- Secure GitLab
+- Raise awareness
 
 ### Secure GitLab
 
 The Security Research team is part of the Threat Management sub-department. In order to secure GitLab the product and GitLab the company, the security research team will conduct research in areas such as:
 
-* [FOSS applications and dependencies used within GitLab](#gitlab-ecosystem-security-testing)
-* GitLab's own codes bases
-* Software, hardware and services used by the company
+- [FOSS applications and dependencies used within GitLab](#gitlab-ecosystem-security-testing)
+- GitLab's own codes bases
+- Software, hardware and services used by the company
 
 The specific topic is chosen individually per quarter to set as an OKR. As the
 security research OKRs are twofold any research steps and outcomes should be
@@ -36,17 +29,17 @@ succeed based on the actual research steps.
 Typically “raising awareness” is a matter of presenting concrete research
 results in a suitable way. This might include:
 
-* Handbook updates
-* GitLab documentation updates
-* Blog posts
-* Conference presentations
-* [GitLab Security Tech Notes](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/)
-* Papers or other forms of write ups
+- Handbook updates
+- GitLab documentation updates
+- Blog posts
+- Conference presentations
+- [GitLab Security Tech Notes](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/)
+- Papers or other forms of write ups
 
 Even if the outcome of the research is not yielding any spectacular
 outcomes the approaches and procedures conducted during the research
 phase should be documented and published. Depending on the impact or importance
-of the published research the [external communication team](/handbook/security/#security-external-communications) might be involved
+of the published research the [external communication team]({{< ref "/handbook/security#security-external-communications" >}}) might be involved
 within the publication.
 
 ## Methodology
@@ -71,6 +64,7 @@ where their focus can be impactful to the business, and the larger security
 community.
 
 Some sources of data include:
+
 - Their own security background
 - Security questions/problems raised within GitLab
 - Outreach with GitLab team members
@@ -108,6 +102,7 @@ new information is collected.
 
 The issue is used to capture the following information. Full details are
 available in the issue template.
+
 - Problem Description
 - Research Question(s)
 - Business Impact, including the impacted teams
@@ -151,6 +146,7 @@ In addition to the results with stakeholders, a retrospective should be added
 to the quarterly issue.
 
 This summary will help to capture:
+
 - What was accomplished for the quarter.
 - Tasks that were not completed.
 - What went well/What could have been done differently.
@@ -170,25 +166,27 @@ Package Hunter is open source. Head over to the [project](https://gitlab.com/git
 We also welcome contributions. If you are interested in participating in the development of Package Hunter, please see our [contribution guide](https://gitlab.com/gitlab-org/security-products/package-hunter/-/blob/main/CONTRIBUTING.md).
 
 ### GitLab Ecosystem Security Testing
+
 The Security Research team within GitLab conducts security assessments on Open Source Software on a regular basis.
 
 This page describes the reasoning, approach and workflows related to those efforts.
 
 #### Strengthening the OSS ecosystem for everyone
+
 GitLab relies on a vast amount of Open Source Software, this is not limited to direct code dependencies but also other components in use within the company. To strengthen the overall security posture of GitLab and all other users of our OSS dependencies the Security Research team maintains [a list of to-be-assessed OSS projects](https://gitlab.com/gitlab-com/gl-security/security-research/ecosystem-security/-/blob/main/projects.yaml) (internal link). The list is filled from the following categories:
 
-* **Cornerstone Project** (1)
-  * This category is intended for widely used OSS projects with potentially large code bases.
-* **Dependencies of the GitLab Application** (3)
-  * Includes code dependencies and other open source projects that ship with GitLab.
-* **Developer Tooling Projects** (3)
-  * Projects which are used every day on developer machines.
-* **Infrastructure/IT Components** (3)
-  * Projects we rely on while running the company and the product.
+- **Cornerstone Project** (1)
+  - This category is intended for widely used OSS projects with potentially large code bases.
+- **Dependencies of the GitLab Application** (3)
+  - Includes code dependencies and other open source projects that ship with GitLab.
+- **Developer Tooling Projects** (3)
+  - Projects which are used every day on developer machines.
+- **Infrastructure/IT Components** (3)
+  - Projects we rely on while running the company and the product.
 
 In total there are ten projects in four different categories to pick from. The categories are to ensure our work has a broad impact. The projects are chosen and prioritized by the following factors:
 
-- Data access [(red/orange/green)](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels)
+- Data access [(red/orange/green)]({{< ref "data-classification-standard#data-classification-levels" >}})
 - GitLab API scopes used (if any)
 - Functionality provided, especially aiming for high-impact features like:
      - authentication and authorization
@@ -201,6 +199,7 @@ In total there are ten projects in four different categories to pick from. The c
 When a project from this list gets assessed the spot on the list will be filled with another project to always keep the funnel filled.
 
 #### Documentation
+
 Every project and relevant artifacts will be documented internally in the  [sec-research](https://gitlab.com/gitlab-com/gl-security/security-research/sec-research/) repository while the project is ongoing. This repository should be the SSOT for any results and will contain the raw artifacts, write-ups and any PoCs if applicable.
 
 Once the project is concluded and any security issues identified are closed, public facing documentation will be published in the [Threat Management tech notes](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/red-team-tech-notes) repository. Where applicable, blog posts containing in-depth technical background on the research will be created in collaboration with the the External Security Communications team.
@@ -215,11 +214,13 @@ gain insight into overall progress and impact of the program:
 1. GitLab improvement issues opened per review
 
 To measure `Review issues closed per quarter` and `Issues identified per review`, the following labels were created in the [Ecosystem Security issue tracker](https://gitlab.com/gitlab-com/gl-security/security-research/ecosystem-security/-/labels) (internal link):
+
 - `~EcosystemSecurity::Project`
 - `~EcosystemSecurity::Finding`
 
 In order to measure `GitLab improvement issues opened per review` the following label
 can be used in the [`gitlab-com`](https://gitlab.com/gitlab-com) and [`gitlab-org`](https://gitlab.com/gitlab-org) groups:
+
 - `~SecResearch Followup::Ecosystem`
 
 ### Code Review Sessions
@@ -238,9 +239,9 @@ share our approaches in vulnerability identification to the given codebase.
 
 Vulnerability disclosure can be a delicate process and there is no one-size-fits-all approach for reporting parties. Within the Security Research Team we'll try to report each vulnerability the most effective way, focusing on timely remediation within our GitLab's infrastructure and fix on the vendor's side while respecting embargoes which might be in place.
 
-For third party software listed in our [tech stack](/handbook/business-technology/tech-stack-applications/) any vulnerability disclosures should be coordinated with the respective owner of the tech stack item. They might have additional contacts on the vendor side, or more context how to implement a temporary mitigation for an identified vulnerability.
+For third party software listed in our [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) any vulnerability disclosures should be coordinated with the respective owner of the tech stack item. They might have additional contacts on the vendor side, or more context how to implement a temporary mitigation for an identified vulnerability.
 
-Depending on the actual risk and exposure it might be needed to further limit the information around the disclosure. In such cases it is recommended to involve the [SIRT](/handbook/security/security-operations/sirt/).
+Depending on the actual risk and exposure it might be needed to further limit the information around the disclosure. In such cases it is recommended to involve the [SIRT]({{< ref "sirt" >}}).
 
 ## Bug bounties and speaker fees
 

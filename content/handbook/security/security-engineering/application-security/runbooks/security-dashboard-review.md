@@ -1,15 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Security Dashboard Review"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Security Dashboard Review
 
 **Frequency:** Daily
 
@@ -18,7 +9,7 @@ AppSec engineers are responsible for triaging the findings of the GitLab securit
 1. Validate the findings and handoff to engineering for correction
 1. Provide feedback to the Secure team
 
-### Security Dashboard List
+## Security Dashboard List
 
 The following is a list of security dashboards that need to be reviewed:
 
@@ -39,7 +30,7 @@ The following is a list of security dashboards that need to be reviewed:
 - [GitLab Agent](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/security/vulnerability_report)
 - [Compensation Calculator](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/security/vulnerability_report)
 
-### Validation
+## Validation
 
 For each finding:
 
@@ -47,16 +38,16 @@ For each finding:
 - For a valid report:
     - Change the status to `Confirmed`
     - Click `Create Issue`
-    - Assign [Priority and Severity labels](/handbook/security/#severity-and-priority-labels-on-security-issues) based on the finding rating and the impact on GitLab
-    - Assign a [Due Date](/handbook/security/#due-date-on-security-issues)
-    - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
-    - @-mention product manager of appropriate teams for scheduling and/or the engineering managers if additional engineering feedback is required to complete the triage, based on the [product categories page](/handbook/product/categories/)
+    - Assign [Priority and Severity labels]({{< ref "/handbook/security#severity-and-priority-labels-on-security-issues" >}}) based on the finding rating and the impact on GitLab
+    - Assign a [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
+    - add labels (`/label ~` command) corresponding to the [DevOps stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
+    - @-mention product manager of appropriate teams for scheduling and/or the engineering managers if additional engineering feedback is required to complete the triage, based on the [product categories page](https://about.gitlab.com/handbook/product/categories/)
         - If an appropriate engineering team is not immediately apparent, ping an Appsec manager for help identifying the owner
 - For an invalid report:
     - Change the status to `Dismissed`
     - Leave a comment providing feedback on why the vulnerability is being dismissed. This information can be used by Secure engineers in tuning the findings of the tool and is also useful if we ever wonder why it was dismissed at some point in the future.
 
-### Dependency Updates
+## Dependency Updates
 
 If a vulnerability is identified in a product dependency, the appsec engineer should follow the [security development workflow](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/developer.md) to create a merge request to update the dependency in all supported versions. The merge request should be opened in the [GitLab Security repo](https://gitlab.com/gitlab-org/security/gitlab) so that the dependency gets updated in supported backports as well. Vulnerabilities determined to be `Critical` or `High` should have merge requests created when identified. `Medium` and `Low` vulnerabilities will be addressed by best effort, but always within the 90-day SLA.
 

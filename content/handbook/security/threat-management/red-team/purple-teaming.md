@@ -1,20 +1,9 @@
 ---
-layout: handbook-page-toc
 title: "Purple Teaming at GitLab"
 description: "GitLab's processes for collaborative attack-emulation exercises to strengthen our organization's defensive capabilities."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Purple Teaming at GitLab
-
-### Overview
-
-The terms "Red Team" and "Blue Team" are used to describe the roles of attackers and defenders during planned security exercises. At GitLab, where collaboration and transparency are two of our [core values](https://about.gitlab.com/handbook/values/), we like to join forces and conduct what is commonly referred to as "Purple Teaming".
+The terms "Red Team" and "Blue Team" are used to describe the roles of attackers and defenders during planned security exercises. At GitLab, where collaboration and transparency are two of our [core values]({{< ref "values" >}}), we like to join forces and conduct what is commonly referred to as "Purple Teaming".
 
 To us, a Purple Team operation is a planned exercise that involves team members from multiple security sub-departments in every aspect of the operation. This includes planning, attacking, detecting, and responding. We find that having more people involved from the very beginning ensures that we are all working towards a common goal.
 
@@ -22,15 +11,15 @@ You can contribute, comment, view, or interact with us on Slack in the `#purple-
 
 We also conduct more traditional Red Team operations, where only certain team members are aware of the details. These types of operations follow roughly the same workflow outlined below, only with less active participants.
 
-### Goals of Purple Teaming
+## Goals of Purple Teaming
 
-Purple Team operations are not penetration tests. They are not meant to deliver a list of vulnerabilities in a specific application or service. Instead, they are meant to better understand our organization's ability to detect and respond to real-world attacks. Given this deeper understanding, we can continue to strengthen these defenses based on the hands-on experience gained during _emulated_ attacks, as opposed to the real thing.
+Purple Team operations are not penetration tests. They are not meant to deliver a list of vulnerabilities in a specific application or service. Instead, they are meant to better understand our organization's ability to detect and respond to real-world attacks. Given this deeper understanding, we can continue to strengthen these defenses based on the hands-on experience gained during *emulated* attacks, as opposed to the real thing.
 
 At a high level, the goals of an operation generally fall into one of the following categories:
 
-- To gauge the effectiveness of existing defensive capabilities (_Is our SIEM capable of detecting a compromised admin account?_)
-- To practice and refine our procedures for responding to a breach (_Do our runbooks make sense? Can anything be automated?_)
-- To understand our ability to detect and respond to a specific type of threat (_What would happen if we were targeted by a ransomware operator?_)
+- To gauge the effectiveness of existing defensive capabilities (*Is our SIEM capable of detecting a compromised admin account?*)
+- To practice and refine our procedures for responding to a breach (*Do our runbooks make sense? Can anything be automated?*)
+- To understand our ability to detect and respond to a specific type of threat (*What would happen if we were targeted by a ransomware operator?*)
 
 ## Purple Team Workflow
 
@@ -42,7 +31,7 @@ Operations will be tracked using [GitLab epics](https://docs.gitlab.com/ee/user/
 
 As much as possible, our Purple Team operations should be performed [asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). However, a few stages work best when done with live participants over a video conference with screen sharing. To include team members in all time zones, these stages can be conducted more than once. This is particularly beneficial when conducting the actual attacks and practicing detection. We will automate this work whenever possible, which makes repeating them easy.
 
-![Purple Teaming Process](purple-team-process.png)
+![Purple Teaming Process](../purple-team-process.png)
 
 ### Attack Planning
 
@@ -65,11 +54,13 @@ As much as possible, our Purple Team operations should be performed [asynchronou
 ## Purple Team Resources
 
 ### Tools
+
 - [Vectr](https://vectr.io/): A free, closed-source Purple Team planning and reporting tool.
 - [MITRE CALDERA](https://caldera.mitre.org/): A free, open-source adversary emulation and automation tool.
-- [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/): A web application to visualize and manipulate matrices of attacker tactics and techniques. 
+- [MITRE ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/): A web application to visualize and manipulate matrices of attacker tactics and techniques.
 
 ### Training
+
 - [Red Team Development and Operations](https://redteam.guide/): An excellent book by Joe Vest and James Tubberville.
 - [Purple Teaming Execution Framework](https://github.com/scythe-io/purple-team-exercise-framework): Another great resource, this one by Scythe.
 - [MITRE ATT&CK: Getting Started](https://attack.mitre.org/resources/getting-started/): A collection of resources realted to the ATT&CK framework, which is used as the foundation for much of our work.
