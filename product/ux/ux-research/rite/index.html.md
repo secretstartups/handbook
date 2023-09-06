@@ -89,7 +89,7 @@ Prepare prototypes and the test script (this should be the same or similar to wh
 #### Day 2  - Test Day
 Run a pilot session, watch the recording, and adust your test plan as needed. 
 
-Next, launch your test in usertesting.com to three participants.  Depending on how quickly the test comes back, analyze insights and organize identified usability problems using the [RITE classification](/handbook/product/ux/ux-research/rite/#elements-of-rite). Feel free to use a copy of [this Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1613597941619/7b56a2a3ecbc2eb14889a7d0f66314b2a3517025). 
+Next, launch your test in usertesting.com to three participants.  Depending on how quickly the test comes back, analyze insights and organize identified usability problems using the [RITE classification](/handbook/product/ux/ux-research/rite/#elements-of-rite). Feel free to use a copy of [this Figjam board](https://www.figma.com/file/JnK2uxneSYSt9KuLCZEGql/RITE-usability-problems?type=whiteboard&t=rEDan9mX9AvU8LZU-0). 
 
 #### Day 3 - Sync with team
 Everyone in the team should have a chance to watch the three sessions and become aware of the identified usability problems. Share your learnings and decide on the scope for the next session. Adjust and prepare your prototype accordingly. Remember that Category A issues should be fixed before the new test round.
