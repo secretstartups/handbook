@@ -66,6 +66,64 @@ The outcome of the call is shared in a persistent location (Slack is not persist
 
 `1*` Exceptions to the recording rule are: 1-1 calls, discussions around non-project work, and in cases where parties do not feel comfortable with recording or we cannot record due to the nature of content discussed. However, even with the exceptions, outcome of project related discussions need to be logged in a persistent location, such as the main issue tracker.
 
+### Tracking & Planning Work
+
+#### Resources
+- [Switchboard team roadmap](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/roadmap?state=all&sort=start_date_asc&layout=WEEKS&timeframe_range_type=CURRENT_QUARTER&label_name[]=team::Switchboard&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=ALL&show_labels=false)
+- [Switchboard team top-level epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1048)
+- [Switchboard team issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard)
+- [Dedicated Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/?sort=created_date&state=opened&first_page_size=100)
+
+#### Epic Refinement
+
+Switchboard team process to refine epics:
+1. Identify a [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the epic
+   - Team members can volunteer or the EM may ask team ask specific team members to act as DRI 
+1. Identify any missing requirements 
+   - All team members ask questions in the comments of this issue to drive out any edge cases
+1. DRI labels the epic as ~"workflow-infra::Ready"
+1. Assign Due Date & Start Date
+   - DRI, EM & PM work together to assign due date based on team capacity, external deadlines and amount of work involved
+1. EM or DRI labels individual issues as ~"workflow-infra::Triage"
+1. Team members pick up issues and start working on them
+1. Team members use Progress Threads to track progress in individual issues
+1. Team checks in on progress during Switchboard Sync
+   - Any epics with no issues to raise can be read-only
+   - Priority given to discussions of epics based on soonest due date
+1. If due date is not realistic team member comments on the issue as early as possible so that the team can work together to address this
+
+Note 1, 2 & 4 can be carried out in parallel
+
+#### Issue Refinement
+
+Switchboard team process to refine issues:
+1. When an issue is created and ready to be refined it is labelled ~"workflow-infra::Triage"
+1. PM and EM ensure that the `Open` and ~"workflow-infra::Ready" columns are prioritised
+1. Team members look at issues in the `Open` column of the [issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard) and ask questions on the issue to drive clarity
+1. When there are no outstanding questions on the issue it can be labelled ~"workflow-infra::Ready" and it will automatically move into the `Ready` column
+
+#### Issue & Epic tracking
+1. Engineers use Progress Threads to share progress in an async fashion
+1. At the beginning of the Switchboard Sync the team will check in on epics labelled ~"workflow-infra::In Progress" or ~"workflow-infra::Triage" to ensure due dates are appropriate and highlight any blockers
+1. Epic DRIs update the status in the Epic Description every Wednesday in preparation for the Grand Review
+
+#### Picking up work / What to work on next
+
+1. ~"workflow-infra::Ready" column on the [issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard)
+   1. Pick an issue from the ~"workflow-infra::Ready" column on the [issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard)
+   1. Assign the issue to yourself and set to ~"workflow-infra::In Progress"
+   1. Update the issue description with an `Implementation Plan` where relevant
+   1. Create a `Progress Thread` on the issue and update daily
+
+1. [Switchboard team top-level epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1048)
+    1. Look at the Switchboard top level epic and offer to work on issues with the nearest due date
+    1. Use the [Switchboard team roadmap](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/roadmap?state=all&sort=start_date_asc&layout=WEEKS&timeframe_range_type=CURRENT_QUARTER&label_name[]=team::Switchboard&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=ALL&show_labels=false) for guidance
+
+1. `Open` column on the [issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard)
+   1. Look at the issues at the top of the `Open` column
+   1. For each issue ask questions and drive a discussion to identify any missing information
+   1. Mark the issue as ~"workflow-infra::Ready" if it is ready to be worked on or @mention the EM if you are not confident to do so
+
 ### Merge Request Review Guidelines
 
 We specifically adhere to the [GitLab Code Review Guidelines](#gitlab-code-review-guidelines) and follow
