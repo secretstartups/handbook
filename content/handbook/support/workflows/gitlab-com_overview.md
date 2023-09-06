@@ -65,4 +65,4 @@ If the Owner is requesting access to an account which has a primary email in the
 
 The relevant information can be found in the ZenDesk GitLab User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
 
-{{< include "includes/support-quick-reference.md" >}}
+{{% include "includes/support-quick-reference.md" %}}
