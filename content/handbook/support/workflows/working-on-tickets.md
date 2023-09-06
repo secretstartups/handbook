@@ -133,15 +133,6 @@ of your group** who is in the preferred region.
       ticket to a support engineer in their region.
    1. If the customer requests a transfer, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions)
 
-### Handing over tickets and customer calls between regions
-
-1. Be sure the ticket is well-documented, including any thoughts you have regarding next steps.
-1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
-1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
-1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
-1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
-1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
-
 ## Providing a first response to a ticket
 
 It's always a good idea when beginning work on a ticket to perform a few routine
@@ -195,6 +186,36 @@ needs, and that might save you and the customer time and effort as well.
        ['Due Date'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app) and
        ['Reminder'](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
        apps.
+
+## Handing over tickets and customer calls between regions
+
+1. Be sure the ticket is well-documented, including any thoughts you have regarding next steps.
+1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
+1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
+1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
+1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
+1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
+
+## Contacting a Customer Success Manager or Account Manager
+
+There are many reasons you may need to bring in a customer's Customer Success Manager (CSM), including but not limited to:
+
+1. Customer needs to discuss their architecture.
+1. Customer needs a Professional Services engagement.
+1. Customer wants to discuss how best to work with Support.
+
+Depending on the situation, you may need to [STAR]({{< ref "../internal-support/support-ticket-attention-requests.md" >}}) or [start an escalation]({{< ref "emergency-to-escalation-process.md" >}}).
+Please refer to the appropriate workflow for those situations.
+
+In the case there is no CSM, contact the Account Manager (AM) - job title varies, Zendesk label is "Account Owner".
+
+If you need to involve the CSM or AM in the conversation, you can use one or more of the following approaches:
+
+1. Add the CSM/AM to the Zendesk ticket as a CC, and let the customer know you've done this. Leave an internal note for additional context if needed.
+1. Notify the CSM/AM through Slack, in one of the following ways:
+   1. If there is an existing thread discussing the ticket, `@` mention the CSM/AM to add them to the discussion, including a summary in your message for a long thread.
+   1. Look for a customer channel (`#a_customerName-internal`) and start a new thread, mentioning the CSM/AM.
+   1. Mention the CSM/AM on a new message in the most relevant Support channel: `#spt_managers`, `#support_gitlab-com`, or `#support-self_managed`.
 
 ## FAQ
 
