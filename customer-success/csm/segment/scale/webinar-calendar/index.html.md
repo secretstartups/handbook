@@ -24,15 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Hands-On GitLab CI Workshop 
-##### September 6th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_KewiOoVOQ5-XnYQ5_hdk1g#)
-
 #### Git Basics
 ##### September 8th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -75,7 +66,6 @@ We will then dive into how to build simple GitLab pipelines and work up to more 
 Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mFaQrn5YTcu1NltBcqv8lg#/registration)
-
 
 #### Advanced CI/CD
 ##### September 19th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
@@ -121,15 +111,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_sBib1IoCS6-ChIsigMW7QQ#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Hands-On GitLab CI Workshop
-##### September 6th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CEST
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN__OTspNyGTo-IP9BmE2-PdQ#)
 
 #### Intro to GitLab
 ##### September 8th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
