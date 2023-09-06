@@ -122,13 +122,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 
 ### EMEA Time Zone Webinars
 
-#### Git Basics
-##### September 5th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
-
-New to Git? Join this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_fpwjqQAPRUav_BF-44CMHw#/registration)
-
 #### Hands-On GitLab CI Workshop
 ##### September 6th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CEST
 
