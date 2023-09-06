@@ -52,11 +52,11 @@ Check that the ticket meets basic eligibility for STAR treatment:
    - If the ticket has already had the first reply, then you are looking at a possible "internal (next reply) breach", for which there are no contractual SLAs.
    - If you make a STAR request when a ticket is still within SLA, the Support Manager will discuss with you the best approach.
 1. **Is the ticket missing information?**
-   - If a ticket doesn't have all the necesary information it won't qualify for STAR, for example:
+   - If a ticket doesn't have all the necessary information it won't qualify for STAR, for example:
       - A log was requested but not provided by the customer.
       - 2FA requests without all the necessary challenges completed.
       - Unanswered questions asked by Support Engineer in the ticket.
-      - [Proof of support entitlment](https://about.gitlab.com/support/managing-support-contacts/#proving-your-support-entitlement)
+      - [Proof of support entitlement](https://about.gitlab.com/support/managing-support-contacts/#proving-your-support-entitlement)
 
 **Note:** You cannot use the Internal Request Form without a Zendesk account. If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#requesting-a-zendesk-light-agent-account) to obtain it.
 
@@ -89,13 +89,13 @@ You will only need to provide:
 - Reason this ticket needs additional attention
 - Desired result
 
-Here is how the form will appar in the Zendesk App:
+Here is how the form will appear in the Zendesk App:
 
 ![Zendesk STAR App Form.png](../images/Zendesk_STAR_App_Form.png)
 
 #### Validation
 
-The Zendesk `STAR` App will automatically validate the following before submiting the request:
+The Zendesk `STAR` App will automatically validate the following before submitting the request:
 
 - The submission time is within [Support hours](https://about.gitlab.com/support/#hours-of-operation)
 - A valid namespace is entered (SaaS and SaaS Account forms only)
