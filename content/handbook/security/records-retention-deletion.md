@@ -1,39 +1,26 @@
 ---
-layout: handbook-page-toc
 title: "Records Retention & Disposal"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+## Purpose
 
-{::options parse_block_html="true" /}
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
-
-</div>
-</div>
-
-## Purpose 
-The GitLab records retention and disposal standard lists the specific retention and secure disposal requirements for critical GitLab records. These minimum requirements inform design and maintenance decisions for all GitLab [tier 1 and tier 2 critical systems](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html).
+The GitLab records retention and disposal standard lists the specific retention and secure disposal requirements for critical GitLab records. These minimum requirements inform design and maintenance decisions for all GitLab [tier 1 and tier 2 critical systems]({{< ref "critical-systems" >}}).
 
 ## Scope
-The below retention and secure disposal requirements apply to all GitLab records enumerated in the table below stored in GitLab [tier 1 and tier 2 critical systems](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html).
+
+The below retention and secure disposal requirements apply to all GitLab records enumerated in the table below stored in GitLab [tier 1 and tier 2 critical systems]({{< ref "critical-systems" >}}).
 
 ## Roles & Responsibilities
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
 | GitLab Team Members | Responsible for following the requirements in this controlled document. |
-| Security Compliance Team | Responsible for reviewing and maintaining this controlled document. | 
-| Control Owners | Responsible for defining and implementing procedures to support the below requirements. | 
+| Security Compliance Team | Responsible for reviewing and maintaining this controlled document. |
+| Control Owners | Responsible for defining and implementing procedures to support the below requirements. |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this controlled document. |
 
 ## Retention & Disposal Requirements Procedure
@@ -86,14 +73,16 @@ The below retention and secure disposal requirements apply to all GitLab records
 | BC training records                                | 3 years                   | [GCP/AWS Secure Deletion] |
 | Production backups                                 | Organizationally-defined  | [GCP/AWS Secure Deletion] |
 | Customer data backups                              | Organizationally-defined  | [GCP/AWS Secure Deletion] |
-| Employment applications and interview notes (US-based applicants only)| 4 years (updated 2021-07)|N/A          | 
-| Temporary Files with PII data                      | As long as needed for business purpose | Per System's default deletion schedule            | 
+| Employment applications and interview notes (US-based applicants only)| 4 years (updated 2021-07)|N/A          |
+| Temporary Files with PII data                      | As long as needed for business purpose | Per System's default deletion schedule            |
 
 ## Exceptions
-Exceptions to these requirements will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
+
+Exceptions to these requirements will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "_index.md#information-security-policy-exception-management-process" >}}).
 
 ## References
-- Parent Policy: [Information Security Policy](/handbook/security/)
-- [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
-- [Data Classification Standard](/handbook/security/data-classification-standard.html)
+
+- Parent Policy: [Information Security Policy]({{< ref "_index.md" >}})
+- [Controlled Document Procedure]({{< ref "controlled-document-procedure" >}})
+- [Data Classification Standard]({{< ref "data-classification-standard" >}})
 - [Google Cloud Platform data deletion](https://cloud.google.com/security/deletion)

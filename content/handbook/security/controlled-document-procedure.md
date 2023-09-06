@@ -1,40 +1,24 @@
 ---
-layout: handbook-page-toc
 title: "Controlled Document Procedure"
 description: "GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+## Purpose
 
-{::options parse_block_html="true" /}
+GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action.
 
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
-
-</div>
-</div>
-
-
-## Purpose 
-
-GitLab deploys control activities through policies and standards that establish what is expected and procedures that put policies and standards into action. 
-
-The purpose of this procedure is to ensure that there is consistency in developing and maintaining controlled documents at GitLab utilizing a hierarchal approach for managing legal and regulatory requirements.  
+The purpose of this procedure is to ensure that there is consistency in developing and maintaining controlled documents at GitLab utilizing a hierarchal approach for managing legal and regulatory requirements.
 
 There are two types of documentation at GitLab:
 
-1. Controlled Documents: Formal policies, standards and procedures. 
+1. Controlled Documents: Formal policies, standards and procedures.
 1. Uncontrolled Documents: Informal runbooks, certain handbook pages, guidelines, blog posts, templates, etc.
 
-Everyone at GitLab is welcomed and encouraged to submit an MR to create or suggest changes to controlled documents at any time. 
+Everyone at GitLab is welcomed and encouraged to submit an MR to create or suggest changes to controlled documents at any time.
 
 ## Scope
 
@@ -43,12 +27,12 @@ This procedure applies to all [controlled documents](#list-of-controlled-documen
 
 ## Roles & Responsibilities:
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
-| Security Compliance Team | Responsible for implementing and maintaining Security Policies and oversight of supporting standards and procedures as part of ongoing continuous control monitoring | 
+| Security Compliance Team | Responsible for implementing and maintaining Security Policies and oversight of supporting standards and procedures as part of ongoing continuous control monitoring |
 | Security Governance Team | Responsible for conducting annual controlled documents review
 | Security Assurance Management (Code Owners) | Responsible for approving changes to this procedure |
-| Control Owners | Responsible for defining and implementing procedures to support Security policies and standards | 
+| Control Owners | Responsible for defining and implementing procedures to support Security policies and standards |
 
 ## Procedure
 
@@ -58,32 +42,35 @@ This procedure applies to all [controlled documents](#list-of-controlled-documen
 
 Footnote: <sub>https://docs.google.com/presentation/d/125LxBkIx0gj42Ooky8hcx9HY2GEjfomDRdR_o-qbOpc/edit#slide=id.g1234fd827e0_0_0</sub>
 
-- Policy: A policy is a high-level statement of intent and defines GitLab's goals, objectives and culture. Statutory, regulatory, or contractual obligations are commonly the root cause for a policy’s existence. Policies are designed to be centrally managed at the organizational level (e.g. Security Compliance Team or Legal & Ethics Compliance Team). 
-- Standard: Standards are mandatory actions or rules that give formal policies support and direction by providing specific details that enable policies to be implemented. Standards may take the form of technical diagrams. 
+- Policy: A policy is a high-level statement of intent and defines GitLab's goals, objectives and culture. Statutory, regulatory, or contractual obligations are commonly the root cause for a policy’s existence. Policies are designed to be centrally managed at the organizational level (e.g. Security Compliance Team or Legal & Ethics Compliance Team).
+- Standard: Standards are mandatory actions or rules that give formal policies support and direction by providing specific details that enable policies to be implemented. Standards may take the form of technical diagrams.
 - Procedure: Procedures are detailed instructions to achieve a given policy and, if applicable, supporting standard and provid step-by-step instructions to follow. Procedures are decentralized and managed by process/control owners where a security control is translated into a business process.
 
 ### Creation
+
 At minimum, controlled documents should cover the following key topic areas:
 
-- Purpose: Overview of why the controlled document is being implemented. 
+- Purpose: Overview of why the controlled document is being implemented.
 - Scope: Who or what does the controlled document apply to.
-- Roles & Responsibilities: Who is responsible for doing what. This should refer to departments or roles instead of specific individuals. 
+- Roles & Responsibilities: Who is responsible for doing what. This should refer to departments or roles instead of specific individuals.
 - Policy Statements, Standard or Procedure: The details.
 - Exceptions: Define how exceptions to the controlled document will be tracked.
-- References:  Procedure documents should map back to a governing policy or standard, and may relate to one or more procedures or other uncontrolled documentation. 
+- References:  Procedure documents should map back to a governing policy or standard, and may relate to one or more procedures or other uncontrolled documentation.
 
 ### Publishing
-Creation of, or changes to, controlled documents must be approved by management or a formally designated representative of the owning department as defined in the Code Owners file prior to publishing. 
 
-Most controlled documents will be published to our public facing [handbook](https://about.gitlab.com/handbook/). However, if there is [non public data](/handbook/security/data-classification-standard.html) included in the controlled document, it should be published via an *internal facing only* mechanism (e.g. an internal GitLab project or an internal only handbook page). Controlled documents should be accessible to all internal team members. 
+Creation of, or changes to, controlled documents must be approved by management or a formally designated representative of the owning department as defined in the Code Owners file prior to publishing.
+
+Most controlled documents will be published to our public facing [handbook]({{< ref "/" >}}). However, if there is [non public data]({{< ref "data-classification-standard" >}}) included in the controlled document, it should be published via an *internal facing only* mechanism (e.g. an internal GitLab project or an internal only handbook page). Controlled documents should be accessible to all internal team members.
 
 ### Review
+
 Controlled documents are required to be reviewed and approved on at least an annual basis. Controlled documents may be updated ad-hoc as required by business operations. Ad-hoc changes do not need to be reviewed and approved, but can only be merged by a code owner of the controlled document.
 
-Reviewers of controlled documents are required to 
+Reviewers of controlled documents are required to
 
-1. Ensure that ["say why not just what" transparency](https://handbook.gitlab.com/handbook/values/#say-why-not-just-what) is easily understood in the description. The title should be concise but clear on the what.
-1. Ensure that announcements for team members are scheduled ([Slack, company newsletter](/handbook/people-group/employment-branding/people-communications/)), and tick off the [MR template task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Default.md).
+1. Ensure that ["say why not just what" transparency]({{< ref "values#say-why-not-just-what" >}}) is easily understood in the description. The title should be concise but clear on the what.
+1. Ensure that announcements for team members are scheduled ([Slack, company newsletter](https://about.gitlab.com/handbook/people-group/employment-branding/people-communications/)), and tick off the [MR template task](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Default.md).
 
 #### List of Controlled Documents
 
@@ -92,7 +79,7 @@ Reviewers of controlled documents are required to
 | Document Name | Description | URL | Code Owners |
 | :----: | :--------------------------------------: | :----: |:----:  |
 | Acceptable Use Policy | Specifies requirements related to the use of GitLab computing resources and data assets by GitLab team members so as to protect our customers, team members, contractors, company, and other partners from harm caused by both deliberate and inadvertent misuse. | [https://about.gitlab.com/handbook/people-group/acceptable-use-policy/](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)| Security, Legal and PeopleOps |
-| Access Level Wristband Colors | Establishes access level categories for managing access to systems at GitLab | [https://about.gitlab.com/handbook/it/policies/access-level-wristbands/](https://about.gitlab.com/handbook/it/policies/access-level-wristbands/) | IT Management | 
+| Access Level Wristband Colors | Establishes access level categories for managing access to systems at GitLab | [https://about.gitlab.com/handbook/it/policies/access-level-wristbands/](https://about.gitlab.com/handbook/it/policies/access-level-wristbands/) | IT Management |
 | Access Management Policy | Specifies Centralized access management ensuring that the authorized GitLab team-members have access to the correct data and systems at the correct level. | [https://about.gitlab.com/handbook/security/access-management-policy.html](https://about.gitlab.com/handbook/security/access-management-policy.html)| Security Assurance Management |
 | Access Review Procedure | Defines the importance of the User access review process as an important control activity required for internal and external IT audits, helping to minimize threats, and provide assurance of who has access to what. | [https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html)| Security Compliance Team |
 | Application Vulnerability Management Procedure | Designed to provide insight into our environments, promote healthy patch management among other preventative best-practices, and remediate risk; all with the end goal to better secure our environments and our product. | [https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html](https://about.gitlab.com/handbook/security/security-engineering/application-security/vulnerability-management.html) | Security Management |
@@ -144,12 +131,14 @@ Reviewers of controlled documents are required to
 </details>
 
 ## Exceptions
-Exceptions to controlled documents must be tracked and approved by the controlled document approver(s) via an auditable format. An exception process should be defined in each controlled document.  
 
-Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process).
+Exceptions to controlled documents must be tracked and approved by the controlled document approver(s) via an auditable format. An exception process should be defined in each controlled document.
+
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "_index.md#information-security-policy-exception-management-process" >}}).
 
 ## References
-* Parent Policy: [Information Security Policy](/handbook/security/)
-* [GCF Compliance Controls](/handbook/security/security-assurance/security-compliance/sec-controls.html)
-* [Data Classifiation Standard](/handbook/security/data-classification-standard.html)
-* [Controlled Documents Work Instruction](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/controlled-documents-program/-/blob/main/runbooks/controlled_document_annual_review_work_instruction.md)
+
+- Parent Policy: [Information Security Policy]({{< ref "_index.md" >}})
+- [GCF Compliance Controls]({{< ref "sec-controls" >}})
+- [Data Classifiation Standard]({{< ref "data-classification-standard" >}})
+- [Controlled Documents Work Instruction](https://gitlab.com/gitlab-com/gl-security/security-assurance/governance/controlled-documents-program/-/blob/main/runbooks/controlled_document_annual_review_work_instruction.md)

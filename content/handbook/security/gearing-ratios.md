@@ -1,16 +1,7 @@
 ---
-layout: handbook-page-toc
 title: "Security Department Gearing Ratios"
+description: Gearing ratios are used as [Business Drivers](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function.
 ---
- 
-### On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-Gearing ratios are used as [Business Drivers](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to forecast long term financial goals by function. 
 
 ## Bug bounties
 
@@ -30,7 +21,7 @@ Approximate monthly budget should be set at total budget divided by 12. It shoul
 - Participation of research community
 - Reward ranges
 
-This gearing ratio is owned by the [Security Engineering](https://about.gitlab.com/handbook/security/security-engineering/) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
+This gearing ratio is owned by the [Security Engineering]({{< ref "security-engineering" >}}) Sub-department. The cost of a compromise should be re-evaluated at least annually based on the average market cap of GTLB over the previous 6 months.
 
 ## Security Incident Response Team (SIRT) size
 
@@ -47,4 +38,4 @@ SIRT is the sole carrier of the Security On-Call (SEOC) rotation, which ensures 
   - If number of pages to SEOC per year exceeds +100% of previous year
   - If number of total team members increases by +20% compared to previous year
 
-This gearing ratio is owned by the [Security Operations](https://about.gitlab.com/handbook/security/security-operations/) Sub-department.
+This gearing ratio is owned by the [Security Operations]({{< ref "security-operations" >}}) Sub-department.

@@ -1,20 +1,13 @@
 ---
-layout: handbook-page-toc
 title: "GitLab Projects Baseline Requirements"
 description: "The hb page outlines baseline configurations that should be setup for GitLab projects which impact the GitLab codebase."
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Purpose
 
 The purpose of this page is to outline a minimum set of requirements that should be adhered to when configuring projects at GitLab that ultimately impact the code which makes up the GitLab product and/or which impact the build, release or deployment of GitLab. The end goal being that no changes that ultimately impact the GitLab codebase can be made without review. This page can also help users of GitLab by offering some possible configurations for securing projects they deem critical.
 
-Given GitLab's [commitment to dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) and keeping in mind GitLab's [Efficiency Value](https://about.gitlab.com/handbook/values/#efficiency) it is important to understand that these baseline project configurations are not required on _all_ projects, only those projects which impact the GitLab codebase (directly or indirectly) or are otherwise deemed critical for another communicated reason (note in these instances the rationale of the "why" behind the need for these baseline configurations should be able to be clearly communicated).
+Given GitLab's [commitment to dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) and keeping in mind GitLab's [Efficiency Value]({{< ref "values#efficiency" >}}) it is important to understand that these baseline project configurations are not required on *all* projects, only those projects which impact the GitLab codebase (directly or indirectly) or are otherwise deemed critical for another communicated reason (note in these instances the rationale of the "why" behind the need for these baseline configurations should be able to be clearly communicated).
 
 That said, it is encouraged for team members to keep these baseline configurations in mind when creating or working in projects as they are designed to improve the security and quality of contributions made in GitLab projects.
 
@@ -27,11 +20,11 @@ Examples of a project that fits this criteria:
 - A project that builds a bot which helps manage the codebase for a component of GitLab
 - A project used for updating a critical non-GitLab system's codebase (e.g. Salesforce)
 
-Examples of a project that _do not_ fit this criteria:
+Examples of a project that *do not* fit this criteria:
 - A project that has no code
 - A project that builds a bot which doesn't impact the GitLab codebase (e.g a script to convert a YAML file into a CSV)
 
-Project usage may naturally shift over time and it's important to be re-evaluating project usage on an ongoing basis, projects may go in and out of either category so please keep that in mind as you work in projects each day. The hope is that even when a project does have these baseline configurations setup, efficiency isn't decreased as we have team members collaborating on work and avoid working in silos of knowledge that increase our risk of an individual becoming a single point of failure as well. These values also encourage our [Transparency Value](https://about.gitlab.com/handbook/values/#transparency) by getting multiple team members involved in changes.
+Project usage may naturally shift over time and it's important to be re-evaluating project usage on an ongoing basis, projects may go in and out of either category so please keep that in mind as you work in projects each day. The hope is that even when a project does have these baseline configurations setup, efficiency isn't decreased as we have team members collaborating on work and avoid working in silos of knowledge that increase our risk of an individual becoming a single point of failure as well. These values also encourage our [Transparency Value]({{< ref "values#transparency" >}}) by getting multiple team members involved in changes.
 
 ### I'm not sure where my project fits
 
@@ -47,9 +40,9 @@ As a general rule, we want to protect our branches in such a way that we [requir
 
 ### Example 1 of Protected Branch Settings configured to Require an MR
 
-![Example 1 of Protected Branch Settings configured to Require an MR](/images/protected_branch_settings_example.jpg "Example of Protected Branch Settings")
+![Example 1 of Protected Branch Settings configured to Require an MR](https://about.gitlab.com/images/protected_branch_settings_example.jpg "Example of Protected Branch Settings")
 
-See [Note on usage of Code Owners](https://about.gitlab.com/handbook/security/gitlab_projects_baseline_requirements.html#note-on-usage-of-code-owners)
+See [Note on usage of Code Owners]({{< ref "gitlab_projects_baseline_requirements#note-on-usage-of-code-owners" >}})
 
 ## MR Approval Rule Configurations
 
@@ -57,15 +50,16 @@ MRs should be reviewed following GitLab's [Code Review Guidelines](https://about
 
 ### Example 1 of MR Approval Rules configured WITHOUT Code Owners
 
-![Example 1 of MR Approval Rules configured WITHOUT Code Owners](/images/MR_approvals_without_code_owners.jpg "Example 1 of MR Approval Rules configured WITHOUT Code Owners")
+![Example 1 of MR Approval Rules configured WITHOUT Code Owners](https://about.gitlab.com/images/MR_approvals_without_code_owners.jpg "Example 1 of MR Approval Rules configured WITHOUT Code Owners")
 
 ### Example 2 of MR Approval Rules configured WITH Code Owners
 
-![Example 2 of MR Approval Rules configured WITH Code Owners](/images/MR_approvals_with_code_owners.png "Example 2 of MR Approval Rules configured WITH Code Owners")
+![Example 2 of MR Approval Rules configured WITH Code Owners](https://about.gitlab.com/images/MR_approvals_with_code_owners.png "Example 2 of MR Approval Rules configured WITH Code Owners")
 
-See [Note on usage of Code Owners](https://about.gitlab.com/handbook/security/gitlab_projects_baseline_requirements.html#note-on-usage-of-code-owners)
+See [Note on usage of Code Owners]({{< ref "gitlab_projects_baseline_requirements#note-on-usage-of-code-owners" >}})
 
 ## Note on usage of Code Owners
+
 Note that not all projects will have Code Owners enabled as it may not be necessary in all instances.
 
 If a project does use Code Owners, the Proteced Branch settings should be configured to have "Code owner approval" toggled **ON** and an appropriately configured Code Owners file should be created. The GitLab Docs defines how Code Owners work and [how to set up Code Owners](https://docs.gitlab.com/ee/user/project/codeowners/#set-up-code-owners).
@@ -76,10 +70,10 @@ Please review thoroughly and ask questions in the `#sec-assurance` slack channel
 
 ## Ongoing Monitoring
 
-Please note that projects that meet the criteria for requiring these baseline configurations may be selected at any point for testing of configurations by the [GitLab Security Compliance team](/handbook/security/security-assurance/security-compliance/) as part of our continuous control monitoring program to make sure we're adhering to the guidance outlined on this page. Please see the [GCF Security Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html) page for an overview of the program.
+Please note that projects that meet the criteria for requiring these baseline configurations may be selected at any point for testing of configurations by the [GitLab Security Compliance team]({{< ref "./security-assurance/security-compliance" >}}) as part of our continuous control monitoring program to make sure we're adhering to the guidance outlined on this page. Please see the [GCF Security Control Lifecycle]({{< ref "security-control-lifecycle" >}}) page for an overview of the program.
 
 ## References
 
-- [GitLab Repositories](/handbook/engineering/gitlab-repositories/#creating-a-new-project) (for guidance on creating a new project)
-- [Change Management Policy](/handbook/security/change-management-policy.html)
-- [GCF Security Control Lifecycle](/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html)
+- [GitLab Repositories](https://about.gitlab.com/handbook/engineering/gitlab-repositories/#creating-a-new-project) (for guidance on creating a new project)
+- [Change Management Policy]({{< ref "change-management-policy" >}})
+- [GCF Security Control Lifecycle]({{< ref "security-control-lifecycle" >}})

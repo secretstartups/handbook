@@ -1,18 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Security Division Ecosystem"
 ---
-
-### On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" toc_levels="1..3" /}
-
-----
 
 ## Overview
 
@@ -29,7 +17,7 @@ Every process where Security is involved should be documented in this page. Each
 
 ## Process
 
-Diagrams are maintained by the team or department responsible for the process described. The ecosystems should be available in each departments subfolders, so that the [`CODEOWNERS`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) file is leveraged to require the right approvers. A dedicated page is recommanded for each department, and even each sub-department. 
+Diagrams are maintained by the team or department responsible for the process described. The ecosystems should be available in each departments subfolders, so that the [`CODEOWNERS`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) file is leveraged to require the right approvers. A dedicated page is recommanded for each department, and even each sub-department.
 
 Diagrams referring to non [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) content can be kept in the [internal handbook](https://internal.gitlab.com/handbook/security/).
 
@@ -66,7 +54,7 @@ sequenceDiagram
     SE-->>H1: Validation
 ```
 
-#### Alternative paths 
+#### Alternative paths
 
 You can use alternative paths (`alt`) to express "or" conditions.
 
@@ -91,5 +79,5 @@ sequenceDiagram
 
 ## Resources
 
-* [Mermaid sequence diagrams documentation](https://mermaid.js.org/syntax/sequenceDiagram.html)
-* [FY24-Q2 Offsite: Ecosystem diagrams](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1645#top) issue related to the creation of this page.
+- [Mermaid sequence diagrams documentation](https://mermaid.js.org/syntax/sequenceDiagram.html)
+- [FY24-Q2 Offsite: Ecosystem diagrams](https://gitlab.com/gitlab-com/gl-security/security-department-meta/-/issues/1645#top) issue related to the creation of this page.

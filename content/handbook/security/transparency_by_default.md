@@ -1,36 +1,31 @@
 ---
-layout: handbook-page-toc
 title: "Transparency by Default"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Transparency by Default - Security
-
 ## Purpose
+
 In alignment with our company value of Transparency, one focus of the security organization is to lead the most transparent security organization in business today. Transparency by default requires us to challenge the status quo where security teams traditionally operate in a very private and closed-off manner. However, being open by default requires us to be even more diligent in our efforts of categorizing data in order to ensure the protection of our customers, company, and team member data. Therefore, our position is that all information and activities produced by the security team should be considered "Public by Default" unless defined below:
 
 ### Open to GitLab, Partners, Customers
+
 This information is only externally available to GitLab Partners or Customers as widespread availability of this data can be damaging to GitLab or risk the security or privacy of GitLab, GitLab customers or GitLab partners.
-- Control status 
-- 3rd party audit reports 
+
+- Control status
+- 3rd party audit reports
 - RFP database responses
 - 3rd party penetration test report summaries
 - Aggregate vulnerability metrics (by severity only)
 - Security Team Roadmap
 
-
 ### Open to GitLab
+
 This information is open to GitLab but not publicly (handbook) available because of information that can risk the confidentiality, security or privacy of internal company information.  The public availability of this information could pose a significant risk to GitLab or it’s customers.
-- Vendor Audit Reports 
+
+- Vendor Audit Reports
 - Procedures/Runbooks/work instructions containing sesnsitive or personal data
-- Customer questionnaires 
+- Customer questionnaires
 - Detailed control test results to include observations and remediation plans
-- Gap analysis reports 
+- Gap analysis reports
 - Project management documentation containing sesnsitive or personal data
 - Security metrics
 - Security KPIs
@@ -44,6 +39,7 @@ This information is open to GitLab but not publicly (handbook) available because
 - Concluded security incidents that do not contain [Materially Non-Public Information](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information)
 
 ### Restricted: Security Only or other restrictions imposed
+
 This information is restricted due to confidential data or privacy concerns related to company, customer or individual data that would be significantly damaging if disclosed or otherwise restricted by law or by legal contract.
 - Customer contracts / Open to Security Only (and Legal, Sales)
      - Due to confidential customer data
@@ -53,7 +49,7 @@ This information is restricted due to confidential data or privacy concerns rela
      - Due to the sensitive nature of the data being provided which can include personal data, system data and current risks including open vulnerabilities
 - Legal Holds
 - Work communication (emails, Slack) related to specific topics or team members
-- Risk Register 
+- Risk Register
 - HackerOne vulnerability submissions prior to internal triage
 - Critical preventative or detective security control configurations
 - Baseline security configurations

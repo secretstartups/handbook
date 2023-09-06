@@ -1,49 +1,38 @@
 ---
-layout: handbook-page-toc
 title: "GitLab Cryptography Standard"
 description: "This is the GitLab Cryptography Standard. It outlined cryptographic choices, including algorithms as well as important settings that may be associated with the algorithms. It applies to GitLab code and well as infrastructure configuration."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-Inline with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
-
-</div>
-</div>
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
 
 ## Purpose
+
 The Cryptography Standard defines approved cryptographic algorithms, settings, and cryptographic modules for the purposes of encrypting data at rest or in transit within the various systems and subsystems used by the GitLab product.
 
-The Cryptography Standard allows for a more consistent approach to cryptographic usage within GitLab, easier adaptation to industry standards and compliance frameworks (such as [FedRAMP](/solutions/public-sector/fedramp/)), and an overall more secure product and working environment. In addition, most of the standards are based off of recommendations from [NIST](https://www.nist.gov/) (National Institute of Standards and Technology) as many of the compliance frameworks are based off of NIST standards, and NIST consistently makes solid recommendations that are adopted by many organizations globally.
+The Cryptography Standard allows for a more consistent approach to cryptographic usage within GitLab, easier adaptation to industry standards and compliance frameworks (such as [FedRAMP](https://about.gitlab.com/solutions/public-sector/fedramp/)), and an overall more secure product and working environment. In addition, most of the standards are based off of recommendations from [NIST](https://www.nist.gov/) (National Institute of Standards and Technology) as many of the compliance frameworks are based off of NIST standards, and NIST consistently makes solid recommendations that are adopted by many organizations globally.
 
-## Scope 
+## Scope
+
 The Cryptography Standard applies to all GitLab team members, contractors, consultants, vendors and other service providers that handle, manage, store or transmit GitLab data.
 
 This is required for coding best practices as well as client and server configurations involving cryptography for the GitLab product itself. Currently, there are numerous efforts internally by numerous Engineering teams ensuring these standards are met and maintained. The scope includes third party modules and software settings where cryptographic settings are required. Basically if it touches GitLab or GitLab customer data, the standard applies.
 
 ## Roles & Responsibilities:
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
 | GitLab Team Members | Responsible for adhering to the requirements outlined in this standard |
 | Security Management and Cryptographic Officer (Code Owners) | Responsible for approving significant changes and exceptions to this standard |
 
 ### GitLab Responsibilities
-* GitLab team members, contractors, consultants, vendors and other service providers are required to review and understand this cryptographic standard, and how to handle encryption needs for data at rest and in transit as defined below unless otherwise noted.  
+
+- GitLab team members, contractors, consultants, vendors and other service providers are required to review and understand this cryptographic standard, and how to handle encryption needs for data at rest and in transit as defined below unless otherwise noted.
 
 ### Customer Responsibilities
-* GitLab customers are responsible for managing their own data, should consider these standards as highly recommended, and adopt them according to their own internal requirements. GitLab handles Customer Data internally according to our non-disclosure obligations written in our Mutual Non Disclosure Agreement, and we use the controls identified in this standard. 
+
+- GitLab customers are responsible for managing their own data, should consider these standards as highly recommended, and adopt them according to their own internal requirements. GitLab handles Customer Data internally according to our non-disclosure obligations written in our Mutual Non Disclosure Agreement, and we use the controls identified in this standard.
 
 ## Standard
 
@@ -51,11 +40,11 @@ This is required for coding best practices as well as client and server configur
 
 While we consider these standards to be a security baseline to improve the overall security of the GitLab product, for compliance and certification efforts we will be using the following general guidelines.
 
-- No non-public cryptographic modules. All cryptographic modules should be open source and well maintained. This is to ensure compliance with the [Bureau of Industry (BIS) and Security's Export Administration Regulations regarding encryption](https://www.bis.doc.gov/index.php/policy-guidance/encryption). 
-- All cryptographic elements should work using cryptographic modules that are [FIPS 140-2](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified. In other words, if the underlying cryptographic module is FIPS 140-2 certified, the code using it should function properly. 
+- No non-public cryptographic modules. All cryptographic modules should be open source and well maintained. This is to ensure compliance with the [Bureau of Industry (BIS) and Security's Export Administration Regulations regarding encryption](https://www.bis.doc.gov/index.php/policy-guidance/encryption).
+- All cryptographic elements should work using cryptographic modules that are [FIPS 140-2](https://csrc.nist.gov/publications/detail/fips/140/2/final) certified. In other words, if the underlying cryptographic module is FIPS 140-2 certified, the code using it should function properly.
 - All cryptographic choices (algorithms, etc) will adhere to [FIPS 140-3](https://csrc.nist.gov/publications/detail/fips/140/3/final) minimum standards (which superseded FIPS 140-2 on 03/22/2019), and keep in mind [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) as well.
 
-Meeting these standards will help meet objectives such as [FedRAMP compliance](https://about.gitlab.com/solutions/public-sector/fedramp/), but as standards such as FIPS and SP 800-53 are considered _de facto_ global standards, it will help with compliance needs in multiple countries and industries.
+Meeting these standards will help meet objectives such as [FedRAMP compliance](https://about.gitlab.com/solutions/public-sector/fedramp/), but as standards such as FIPS and SP 800-53 are considered *de facto* global standards, it will help with compliance needs in multiple countries and industries.
 
 ### Cryptographic Modules
 
@@ -86,22 +75,21 @@ Note to developers and contributors, regardless of FIPS/FedRAMP compliance or no
     - NOTE for Laptops: For full-disk encryption XTS-AES-128 (with 256 bit key) or XTS-AES-256 (with 512 bit key) is acceptable. For both GitLab-approved laptop scenarios for team members (Apple running MacOS or a Linux-based laptop running Ubuntu) one of these two algorithms is automatically pre-chosen and is acceptable when setting up full disk encryption on a laptop.
 - **Digital Signatures** - [DSA](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm), [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)), and [ECDSA](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm). For DSA and RSA, minimum key size should be 2048. For ECDSA the minimum key size should be 224. It is highly recommended that we move away from DSA, as per a [draft proposal](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-5-draft.pdf) it is slated to be removed as a FIPS-approved standard (see notes below re ED25519 as a possible exception to this rule).
 - **Hash Functions** - The SHA-2 family of hash algorithm, with SHA-256 as the minimum. Ideally SHA-384 or higher would be better, although there might be less support particularly in third party software.
-    - _It should be noted that while SHA-1 is FIPS 140-2 compliant, per [NIST SP 800-53 Rev 5 Baselines](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) it is not allowed._ This is per [SP-800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) section 5.6.1.2, [SP-800-131](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-131Ar2.pdf) section 9 table 8, and [SP-800-107](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-107r1.pdf) section 4.
+    - *It should be noted that while SHA-1 is FIPS 140-2 compliant, per [NIST SP 800-53 Rev 5 Baselines](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) it is not allowed.* This is per [SP-800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) section 5.6.1.2, [SP-800-131](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-131Ar2.pdf) section 9 table 8, and [SP-800-107](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-107r1.pdf) section 4.
 - **MAC** - MAC ([Message Authentication Code](https://en.wikipedia.org/wiki/Message_authentication_code)) is usually implemented to authenticate messages as unaltered after transmission. A MAC should be used only in conjunction with an approved algorithm, and with the following parameters:
     - [HMAC](https://en.wikipedia.org/wiki/HMAC), KMAC. Only with a key length equal to or greater than 112 bits.
     - [CMAC](https://en.wikipedia.org/wiki/One-key_MAC), [GMAC](https://en.wikipedia.org/wiki/Galois/Counter_Mode). Only in conjunction with AES.
-- **Random Number Generation** - True random number generation is not required, but a high level of randomization is still important. The preference is to use pseudo-random number generation using `/dev/random`. While `/dev/urandom` is not as secure, historically it performed quicker on much older systems. When the underlying operating system is running in FIPS mode, calls to `/dev/urandom` are directed to `/dev/random`, and starting with Linux kernel version 5.18 both `/dev/random` and `/dev/urandom` will function the same anyway. Therefore the standard should be `/dev/random`. 
+- **Random Number Generation** - True random number generation is not required, but a high level of randomization is still important. The preference is to use pseudo-random number generation using `/dev/random`. While `/dev/urandom` is not as secure, historically it performed quicker on much older systems. When the underlying operating system is running in FIPS mode, calls to `/dev/urandom` are directed to `/dev/random`, and starting with Linux kernel version 5.18 both `/dev/random` and `/dev/urandom` will function the same anyway. Therefore the standard should be `/dev/random`.
 - **Note on Older/Alternate Algorithms** - Notes on a few other popular algorithms:
     - ED25519 - There is a draft of NIST SP 800-186 which recommends "tweaks" to some of the curve parameters used in ECDSA, and ED25519 matches those tweaks. So at some point ECDSA will be out but ED25519 will be in. For now, GitLab allows ED25519 (popular with SSH keys), this might not function at all with FIPS mode cryptographic algorithms.
-    - SHA-1 - For hashing algorithms, SHA-1 is allowed for non-cryptographic functions (such as a checksum). It is not allowed for digital signature generation. For digital signature validation, SHA-1 _is_ allowed. For non-digital-signature applications, SHA-1 is allowed if [collision resistance](https://en.wikipedia.org/wiki/Collision_resistance) is not required, such as an [initialization vector](https://en.wikipedia.org/wiki/Initialization_vector) of a block cipher that doesn't require randomization. For more details on SHA-1 usage, refer to [NIST SP 800-131A Rev 2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-131Ar2.pdf), especially section 9 on hash algorithms. As SHA-1 will eventually no longer be allowed in various standards in the future, use SHA-256 whenever possible.
+    - SHA-1 - For hashing algorithms, SHA-1 is allowed for non-cryptographic functions (such as a checksum). It is not allowed for digital signature generation. For digital signature validation, SHA-1 *is* allowed. For non-digital-signature applications, SHA-1 is allowed if [collision resistance](https://en.wikipedia.org/wiki/Collision_resistance) is not required, such as an [initialization vector](https://en.wikipedia.org/wiki/Initialization_vector) of a block cipher that doesn't require randomization. For more details on SHA-1 usage, refer to [NIST SP 800-131A Rev 2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-131Ar2.pdf), especially section 9 on hash algorithms. As SHA-1 will eventually no longer be allowed in various standards in the future, use SHA-256 whenever possible.
     - MD5 - Previously, MD5 was allowed for non-cryptographic functions. However as a result of initial audit findings from May 2, 2022 MD5 is no longer allowed, whether the function is cryptographic or not. For FIPS compliance MD5 cannot be used at all.
     - BCrypt - Currently the GitLab product uses the popular BCrypt algorithm for user account password hashing. BCrypt is not an approved FIPS 140-2 algorithm, so development engineers are looking to develop a solution using an approved algorithm. The intended target of this approved algorithm is for FIPS-mode systems such as FedRAMP. As an alternative, using SSO with MFA for authentication into GitLab will suffice, and covers a FedRAMP environment, but a more permanent solution is still being explored. **There are no plans to migrate GitLab.com users off of BCrypt**, in fact cryptographers largely agree that BCrypt is extremely secure and has a higher resistance to attack.
 
 ## Exceptions
 
-Exceptions to this policy will be tracked as per the [Information Security Policy Exception Management Process](/handbook/security/#information-security-policy-exception-management-process_).
+Exceptions to this policy will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "#information-security-policy-exception-management-process" >}}).
 
 ## References
 
-* [Controlled Document Procedure](/handbook/security/controlled-document-procedure.html)
-
+- [Controlled Document Procedure]({{< ref "controlled-document-procedure" >}})

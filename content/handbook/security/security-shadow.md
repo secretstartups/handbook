@@ -1,15 +1,6 @@
 ---
-layout: handbook-page-toc
 title: Security Shadow Program
 ---
-
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Security Shadow Program
 
 From converging on real-time critical events with SIRT, exploiting vulnerabilities with the Red Team or participating in live Customer Assurance calls with the Risk and Field Security team, you will have the opportunity to work next to security staff to gain valuable insight and working knowledge of security fundamentals across multiple domains. Each program includes hands-on activities to provide an authentic security team experience.
 
@@ -25,11 +16,11 @@ Each security team may host 1 individual at a time.  Availability of each team i
 
 ## Course Catalog
 
-Our course catalog is divided into three main areas in alignment with the three [Sub-Organizations](/handbook/security/#department-structure) within the Security Department.
+Our course catalog is divided into three main areas in alignment with the three [Sub-Organizations]({{< ref "_index.md#department-structure" >}}) within the Security Department.
 
-- [Security Engineering](/handbook/security/security-shadow-sec-eng-res.html)
-- [Security Operations](/handbook/security/security-operations/sirt/security-shadow-security-operations.html)
-- [Security Assurance](/handbook/security/security-shadow-security-assurance.html)
+- [Security Engineering]({{< ref "security-shadow-sec-eng-res" >}})
+- [Security Operations]({{< ref "security-shadow-security-operations" >}})
+- [Security Assurance]({{< ref "security-shadow-security-assurance" >}})
 
 ## Who can join the Security Shadow Program
 

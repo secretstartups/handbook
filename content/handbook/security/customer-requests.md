@@ -1,21 +1,13 @@
 ---
-layout: handbook-page-toc
 title: Providing assistance to GitLab.com customers during customer-based security incidents
 description: Process outline on how to provide assistance to GitLab.com customers that have experienced a security incident as a the result of their implementation or use of GitLab.com
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 
 We at GitLab are committed to helping our customers succeed. When a GitLab.com customer reaches out for assistance with a security incident that is the result of their implementation or use of GitLab, we will do our best to assist with the investigation by providing additional information surrounding the event, if available.
 
 ## What type of assistance can GitLab provide to customers if they experience a security incident?
 
-If a GitLab.com customer determines that the information available through the [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) feature doesn't provide suffcient information about activities taken on the customer's account, GitLab may provide reasonable assistance by performing additional log-dives under certain [conditions and requirements](#conditions-and-requirements). 
+If a GitLab.com customer determines that the information available through the [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) feature doesn't provide suffcient information about activities taken on the customer's account, GitLab may provide reasonable assistance by performing additional log-dives under certain [conditions and requirements](#conditions-and-requirements).
 
 ## To whom does this apply?
 
@@ -23,9 +15,9 @@ This applies to all paying GitLab.com SaaS customers on [Premium or Ultimate](ht
 
 ## Who is involved in this process?
 
-Customer Success Managers (CSMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer. 
+Customer Success Managers (CSMs) and GitLab Support are our customers' main contacts at GitLab. These teams will ensure that the communication with the customer takes place as efficiently as possible, will provide status updates regarding the log request, and ultimately hand out any artefacts that might result from the request to the customer.
 
-GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request, and which don't disclose 
+GitLab Support handles non-complex application log requests that are within a 7-day time window from the time of the request, and which don't disclose
 Personal Data, such as user names and IP addresses.
 
 GitLab's Security Incident Response Team handles complex, extensive requests. In order to maximize efficiency and provide results in a timely manner, customers will not be able to interface with the relevant security team directly during these requests. All communication with the customer is channelled through GitLab Support or the dedicated CSM.
@@ -33,19 +25,19 @@ GitLab's Security Incident Response Team handles complex, extensive requests. In
 ## Process outline
 
 1. Customer contacts GitLab Support or CSM with a request that meets the required [conditions and requirements](#conditions-and-requirements).
-2. GitLab GitLab Support or CSM creates a `confidential` issue [in the SIRT tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/) using the `information_request` template. The author of the issue ensures that the request contains all [required information](#conditions-and-requirements).
-3. The author tags  `@gitlab-com/gl-security/sirt` on the issue. The requesting customer **must not** be added to the issue.
-4. Approval from GitLab Legal `@lasayers` should only be requested if an exception is required.   
-5. GitLab GitLab Support or CSM verifies that the requesting customer complies with our [conditions and requirements](#conditions-and-requirements) for the request.
-6. The relevant team (either GitLab Support or GitLab Security) starts working on the case, depending on the type of requests. The issue is updated with every new finding.
-7. GitLab Support or CSM provides status updates to the customer based on the updates captured in the issue on a 12-hour/business day best-effort cadence.
-8. Once the requested artefacts (i.e. log entries) are collected, GitLab Security and GitLab Legal review them.
-9. Once reviewed and approved, GitLab Support or CSM share the artefacts with the requesting customer.
-10. The team that performed the log-dive [creates an issue](https://gitlab.com/gitlab-org/gitlab/-/issues) with ~"Category:Audit Events" and ~"Enterprise Edition" labels to document the gap in [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) that forced the customer to request our assistance. This is to ensure that the missing functionality in the product is added in the future. 
+1. GitLab GitLab Support or CSM creates a `confidential` issue [in the SIRT tracker](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/) using the `information_request` template. The author of the issue ensures that the request contains all [required information](#conditions-and-requirements).
+1. The author tags  `@gitlab-com/gl-security/sirt` on the issue. The requesting customer **must not** be added to the issue.
+1. Approval from GitLab Legal `@lasayers` should only be requested if an exception is required.
+1. GitLab GitLab Support or CSM verifies that the requesting customer complies with our [conditions and requirements](#conditions-and-requirements) for the request.
+1. The relevant team (either GitLab Support or GitLab Security) starts working on the case, depending on the type of requests. The issue is updated with every new finding.
+1. GitLab Support or CSM provides status updates to the customer based on the updates captured in the issue on a 12-hour/business day best-effort cadence.
+1. Once the requested artefacts (i.e. log entries) are collected, GitLab Security and GitLab Legal review them.
+1. Once reviewed and approved, GitLab Support or CSM share the artefacts with the requesting customer.
+1. The team that performed the log-dive [creates an issue](https://gitlab.com/gitlab-org/gitlab/-/issues) with ~"Category:Audit Events" and ~"Enterprise Edition" labels to document the gap in [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) that forced the customer to request our assistance. This is to ensure that the missing functionality in the product is added in the future.
 
 ## Conditions and requirements
 
-Each request for assistance should comply with the conditions outlined in this section 
+Each request for assistance should comply with the conditions outlined in this section
 
 ### Customer is on the GitLab Premium or Ultimate plan
 
@@ -53,11 +45,11 @@ The assistance outlined on this page only applies to paying GitLab.com customers
 
 ### Account scope and ownership
 
-Requests for assistance can only apply to the GitLab.com account that the customer owns. GitLab will not be providing assistance or information about GitLab.com accounts that the requesting customer does not own. 
+Requests for assistance can only apply to the GitLab.com account that the customer owns. GitLab will not be providing assistance or information about GitLab.com accounts that the requesting customer does not own.
 
 If a specific request applies to a GitLab.com account that is not owned by the requesting customer, a legal subpoena will be required. For such cases, the customer should reach out to [GitLab Legal](mailto:legal@gitlab.com).
 
-### Time window and Scope of the log-dive request 
+### Time window and Scope of the log-dive request
 
 At this time, GitLab is unable to perform log-dives exceeding a 1-month time window from the time of the request. The scope of the request should be specific and as narrow as possible. If it is determined by GitLab that the scope is too broad and excessive, GitLab may request for the scope to be narrowed, or inform the customer of the cost they will incur in performing the investigation.
 
@@ -71,7 +63,6 @@ The request should contain a list of specific GitLab.com resources of interest -
 
 The request should contain a list of specific GitLab.com events of interest. If the list is considered excessive, GitLab will ask for the request to be re-scoped. This is to ensure that the request is handled in a timely and resource-efficient manner.
 
-
 ## Expectations
 
 ### Receiving updates on the status of the request
@@ -83,6 +74,7 @@ Log-dives can be time consuming. The GitLab teams performing the log-dives will 
 Due to the volume of `access logs` generated daily on GitLab.com, we are currently not able to perform log-dives on `access logs` (i.e. HTTP requests) directly. Instead, we're relying on application logs and logs generated by other componenets of our production stack.
 
 Information provided from logs should be redacted to ensure that we are not disclosing (i) GitLab Confidential or system information or (ii) any information pertain to accounts other than those subject to the request.
+
 ## FAQ
 
 ### What about GitLab's self-managed customers?
@@ -92,7 +84,8 @@ This process applies to GitLab.com only. GitLab is unable to produce logs for se
 ### Why is this available only to GitLab.com customers that are on Premium or Ultimate plans?
 
 GitLab Premium or Ultimate plans provide access to the [Audit Events](https://docs.gitlab.com/ee/administration/audit_events.html) feature, which should provide the required information to help advanced customers to monitor the security and health of their GitLab.com accounts. This process is an extension of that feature that will:
-* Help the customers get out of a tough situation.
-* Ensure that the product provides functionalities that are important to customers.
+
+- Help the customers get out of a tough situation.
+- Ensure that the product provides functionalities that are important to customers.
 
 

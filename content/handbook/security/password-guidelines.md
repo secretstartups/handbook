@@ -1,18 +1,10 @@
 ---
-layout: handbook-page-toc
 title: GitLab Password Guidelines
 ---
-
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
+<!-- markdownlint-disable MD051 -->
 ## Passwords at GitLab
 
-Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. GitLab's [password standard](/handbook/security/password-standard.html) is based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). The password standard sets the requirements for constructing secure passwords and ensuring proper password management. GitLab utlizes 1Password for password management.
+Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. GitLab's [password standard]({{< ref "password-standard" >}}) is based, in part, on the recommendations by [NIST 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html). The password standard sets the requirements for constructing secure passwords and ensuring proper password management. GitLab utlizes 1Password for password management.
 
 
 ## 1Password
@@ -61,7 +53,7 @@ have saved in 1Password Teams, so users can take action. This is not something
 account administrators can review for team members, so it is up to you to enable!
 Enable Watchtower by going to your 1Password app and then to **Preferences > Watchtower**.
 1. Use the ["Security Audit"](https://i.agilebits.com/dt/Blank_Skitch_Document_18FB0234.png)
-functionality of 1Password to meet the [password standard](/handbook/security/password-standard.html).
+functionality of 1Password to meet the [password standard]({{< ref "password-standard" >}}).
 It will report reused passwords, weak passwords, accounts that
 are missing 2-factor authorization, and so forth that can then be fixed.
 1. Do not copy passwords from inside a 1Password vault to a personal password
@@ -79,7 +71,7 @@ if you signed up for an [individual account](#1password-for-your-private-passwor
 joining the GitLab Team account.
 1. **Deprecated** When documenting the location of shared credentials in the handbook refer to the items with NAME_OF_SITE credentials in VAULT_NAME. For example:
    "for access please see the AOL credentials in the Luddite vault".
-   * Deprecation note: This is for existing accounts only. New accounts should
+   - Deprecation note: This is for existing accounts only. New accounts should
      be created by [creating an issue](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=change_management_okta)
      to add it to Okta.
 
@@ -117,8 +109,9 @@ If you saved it as a digital PDF file:
 1. Open the PDF file
 1. Click **Scan QR Code**
 1. Open the PDF file with the scanner by clicking on the camera icon
+
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-setup-open-file-dialog.png" alt="Open PDF file with scanner by clicking on camera icon" width="700"/>
+  <img src="../1password-setup-open-file-dialog.png" alt="Open PDF file with scanner by clicking on camera icon" width="700"/>
 </div>
 <br>
 
@@ -135,8 +128,7 @@ After the Team is added, you should see some notifications about vaults being
 added to 1Password. By default you'll have the **Private** vault, but
 may have access to others.
 
-#### Updating 1Password to support the Teams feature
-{: #1password-update}
+#### Updating 1Password to support the Teams feature {#1password-update}
 
 *Read this section only if you could not follow the instructions in "Adding
 the GitLab Team to a 1Password app" section.*
@@ -164,9 +156,8 @@ we need to update the app to the latest version:
 
 Click the **Vault Selector** in the upper-left corner of the window:
 
-
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-vault-selector.png" alt="Vault Selector" width="700"/>
+  <img src="../1password-vault-selector.png" alt="Vault Selector" width="700"/>
 </div>
 <br>
 
@@ -192,14 +183,14 @@ With the extension installed, you should be able to go to a site that you have
 credentials stored for in 1Password and log in:
 
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-login.gif" alt="Mailchimp Login" width="450"/>
+  <img src="../1password-login.gif" alt="Mailchimp Login" width="450"/>
 </div>
 
 If you don't see the site listed in the results window, make sure you're using
 the correct vault:
 
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-vault-change.gif" alt="Vault switching" width="450"/>
+  <img src="../1password-vault-change.gif" alt="Vault switching" width="450"/>
 </div>
 
 
@@ -209,7 +200,7 @@ When 1Password detects a login form submission, it may ask if you want to save
 the login with a dialog like this:
 
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-save-login.png" alt="Save login" width="600"/>
+  <img src="../1password-save-login.png" alt="Save login" width="600"/>
 </div>
 
 If you do want to save it, make sure the appropriate **Vault** is selected
@@ -235,7 +226,7 @@ Example for configuring [glab](https://gitlab.com/gitlab-org/cli) with 1Password
 - Store your access token in 1Password. In the entry for your GitLab account, create a new section `pat`
  and add a field `api`. Insert the value of your PAT into the newly created field `api`.
 <div style="text-align:center;">
-  <img src="/handbook/security/1pass-pat-setup.png" alt="Save login" width="600"/>
+  <img src="../1pass-pat-setup.png" alt="Save login" width="600"/>
 </div>
 
 - Store a secret reference to the access token in an `.env` file:
@@ -272,8 +263,7 @@ If you were using 1Password before joining GitLab, and you receive a prompt
 titled **Migrate To Account**, choose **I'll move later**. There is no harm in
 doing this, and it is easy to move items between vaults.
 
-#### 1Password for your private passwords
-{: #1password-private-use}
+#### 1Password for your private passwords{#1password-private-use}
 
 You are encouraged to use 1Password for your private passwords, not related to
 your work at GitLab.
@@ -284,7 +274,7 @@ which you can share with up to 5 family members.
 
 #### Two factor authentication and time-based one time passwords
 
-As stated in the [GitLab Password Standards](/handbook/security/password-standard.html), the usage of 2FA is mandatory for all GitLab team members.
+As stated in the [GitLab Password Standards]({{< ref "password-standard" >}}), the usage of 2FA is mandatory for all GitLab team members.
 
 Okta is configured such that it only supports the use of WebAuthn. 1Password TOTP should only be used when WebAuthn is unavailable.
 
@@ -302,13 +292,13 @@ To enable TOTP for a saved account:
 1. Select **One-Time Password**
 
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-otp.png" alt="One-time password field type" width="600"/>
+  <img src="../1password-otp.png" alt="One-time password field type" width="600"/>
 </div>
 
 1. Click QR code icon that appeared
 
 <div style="text-align:center;">
-  <img src="/handbook/security/1password-qrcode.png" alt="1password QR Code" width="600"/>
+  <img src="../1password-qrcode.png" alt="1password QR Code" width="600"/>
 </div>
 
 1. Scan QR code using the transparent window
@@ -325,16 +315,14 @@ If scanning the QR code using the "transparent window" with the 1Password Mac
 app fails on a recent macOS, please consider using the 1Password iOS app instead.
 This mechanism works the same way, and supports Touch ID to login.
 
-If
-unsure which mechanism to use, we require using WebAuthn (when possible) as a TOTP for 2FA.
+If unsure which mechanism to use, we require using WebAuthn (when possible) as a TOTP for 2FA.
 
 Follow this [guideline](https://gizmodo.com/how-to-easily-switch-your-two-factor-security-to-a-new-1821808681) when getting a new mobile device, if you are using Google Authenticator as a TOTP mechanism.
 
-There may be cases where TOTP might be used with a non-GitLab account. If you have any questions and need to speak with the Security Team, you can contact [Security](/handbook/security/#-contacting-the-team)
+There may be cases where TOTP might be used with a non-GitLab account. If you have any questions and need to speak with the Security Team, you can contact [Security]({{< ref "_index.md#-contacting-the-team" >}})
 
 
-#### Example usage
-{: #1password-example-usage}
+#### Example usage {#1password-example-usage}
 
 This is an example of how <a href="https://gitlab.com/rspeicher">Robert</a>,
 one of our developers, uses 1Password:
@@ -363,11 +351,10 @@ one of our developers, uses 1Password:
 > the idea:
 
   <div style="text-align:center;">
-    <img src="/handbook/security/1password-teams-login.png" alt="Teams Login" width="560px"/>
+    <img src="../1password-teams-login.png" alt="Teams Login" width="560px"/>
   </div>
 
-#### Traveling with 1Password
-{: #travel-mode}
+#### Traveling with 1Password{#travel-mode}
 
 When traveling with a device that has access to the GitLab 1Password vaults, be
 sure to [enable Travel Mode](https://support.1password.com/travel-mode/) in 1Password. Travel Mode removes copies of any
@@ -383,8 +370,6 @@ be used while traveling.
 For more information on Travel Mode and how it works, see the [AgileBits blog].
 
 [agilebits blog]: https://blog.agilebits.com/2017/05/18/introducing-travel-mode-protect-your-data-when-crossing-borders/
-[1Password for Teams]: https://blog.agilebits.com/2015/11/03/introducing-1password-for-teams/
-[Teams account]: https://gitlab.1password.com/
 [macOS app]: https://agilebits.com/downloads
 
 #### Securing Docker Registry User Credentials
