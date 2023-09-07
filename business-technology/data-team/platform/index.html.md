@@ -827,11 +827,20 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 | Model | Target system | RF | MNPI |
 | ----- | ------------- | -- | ---- |
-| pump_hash_marketing_contact | Marketo | 24h | No | 
+| pump_hash_marketing_contact | Marketo | 24h | No |
 | pump_marketing_contact | Marketo | 24h | No |
-| pump_marketing_premium_to_ultimate | Marketo | 24h | No | 
+| pump_marketing_premium_to_ultimate | Marketo | 24h | No |
 | pump_subscription_product_usage | Salesforce | 24h | No |
 | pump_product_usage_free_user_metrics_monthly | Salesforce | 24h | No |
+| pump_daily_data_science_scores | Salesforce | 24h | Yes |
+| pump_churn_forecasting_scores | Salesforce | 24h | Yes |
+
+
+#### Data Science Data Pumps
+
+The [Daily Data Science Scores Pump](https://gitlab.com/gitlab-data/analytics/-/blob/master/pump/pumps.yml?ref_type=heads#L20) and the [Pump Churn Forecasting Scores Pump](https://gitlab.com/gitlab-data/analytics/-/blob/master/pump/pumps.yml?ref_type=heads#L26) are two specific use-cases of the data pump, used to bring data science related data from Snowflake into S3, so that it can be picked up by Openprise and loaded into Salesforce.
+
+The source model for the Daily Data Science Scores pump called [mart_crm_account_id](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/marts/pumps/mart_crm_account_id.sql?ref_type=heads) contains a combination of [PtE](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-expand) and [PtC](https://gitlab.com/gitlab-data/data-science-projects/propensity-to-contract-and-churn) scores, while the Churn Forecasting Scores pump source model [mart_crm_subscription_id](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/marts/pumps/mart_crm_subscription_id.sql?ref_type=heads) contains scores strictly related to the [Churn Forecasting](https://gitlab.com/gitlab-data/data-science-projects/churn-forecasting) model.
 
 #### Marketing Data Mart to Marketo
 
