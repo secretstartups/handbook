@@ -214,7 +214,7 @@ Let’s simulate someone else in your organization making a change to the **temp
    ```
    a third line added on the remote copy of temporary_branch
    ```
-1. Select **Commit...**
+1. Select **Create Commit...**
 1. Normally every branch that you commit to needs an associated merge request, but for this lab you don't need one. Check the radio button for **Commit to temporary_branch** and uncheck **Start a new merge request**.
 1. Select **Commit** to finalize the changes on the remote repository’s **temporary_branch**. Since you made this change in GitLab webapp, the remote repository on the GitLab instance is now one commit *ahead* of your local repository.
 
