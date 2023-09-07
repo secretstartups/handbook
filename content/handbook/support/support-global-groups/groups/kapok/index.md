@@ -61,6 +61,10 @@ If you have questions about coverage or whether you should take PTO or not, feel
 
 **Note**: Candid and honest communication about the impacts of PTO on the SGG team are completely OK as long as we're remembering [our values](https://about.gitlab.com/handbook/values/) when communicating with each other! Also note that we take our time away from work seriously, never feel bad about your PTO! We all need it.
 
+### AMER Leadership Sync
+
+Periodically, the **Senior Support Engineers** in Kapok and the **Support Managers** aligned with Kapok meet to discuss. This meeting is on the **GitLab Support** calendar as `AMER Kapok Leadership Sync` and the [agenda doc](https://docs.google.com/document/d/1yQPkjHv8BA72bN0vWAnN7BzSlGsBOB1pcx6nnc_u-eE/edit) is available to GitLab team members.
+
 ## Kapok Team Building
 
 In July 2022, the folks in Kapok in the AMER region gathered to learn more about one another by delivering presentations in a loose interpretation of the [PechaKucha](https://www.pechakucha.com/) style. GitLab team members with access to [this folder in Google Drive](https://drive.google.com/drive/folders/1csUbGWeu9yBZ1TilTl-Gu3P1SZ2B9IB4?usp=sharing) can [watch and enjoy the video](https://drive.google.com/file/d/1aYfFsiYie9lRnC9fEdWDL7FdIALfkh8G/view?usp=sharing).
