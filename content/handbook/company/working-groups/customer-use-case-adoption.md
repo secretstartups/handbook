@@ -14,10 +14,9 @@ This working group is charged with driving the necessary cross-functional alignm
 1. Mature **existing and new use cases and measures**, including thresholds
 1. Build use cases as input into **actions** to drive the business
 
-### FY24 Refocusing of Working Group on CI Adoption ###
+### FY24 Refocusing of Working Group on CI Adoption
 
 Effective 2023-08-17, the focus of the Customer Use Case Adoption working group pivoted explicitly to CI Adoption and driving the cross-functional workstreams required to achieve CI Adoption ARR of 50% by the end of FY24-Q3. Given the workstreams aligned upon, the expectation is that CI will be the only Use Case focused on by this working group for the remainder of FY24.
-
 
 ## Attributes
 
