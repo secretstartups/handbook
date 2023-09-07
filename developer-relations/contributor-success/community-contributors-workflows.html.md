@@ -301,6 +301,16 @@ These 10 GitLab values support efforts to unblock the wider community and push f
 1. [Everything is in draft](https://handbook.gitlab.com/handbook/values/#everything-is-in-draft)
 1. [Make two-way door decisions](https://handbook.gitlab.com/handbook/values/#make-two-way-door-decisions)
 
+### Seeking wider community contributions
+
+GitLab team members seeking help can reach out to the wider community for contributions. It is suggested to start with smaller issues that have a clear implementation plan before moving on to bigger project requests.
+
+- Add a `quick win` label to the issue.
+- Add a clear implementation plan to the issue description.
+- Share the issue on the GitLab Community Discord in the [#contribute channel](https://discord.com/channels/778180511088640070/997442331202564176).
+- If a community contributor expresses interest, assign them to the issue.
+- Follow up with the community contributor to see if they need help.
+
 ### First-time contributors
 The first-time contributors can be identified after each release in the [First time contributors MRs dashboard](https://gitlab.biterg.io/app/kibana#/dashboard/df97f810-f397-11e8-8fe1-b354a33b38be).
 
