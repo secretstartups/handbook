@@ -63,7 +63,7 @@ If you have questions about coverage or whether you should take PTO or not, feel
 
 ### AMER Leadership Sync
 
-Periodically, the **Senior Support Engineers** in Kapok and the **Support Managers** aligned with Kapok meet to discuss. This meeting is on the **GitLab Support** calendar as `AMER Kapok Leadership Sync` and the [agenda doc](https://docs.google.com/document/d/1yQPkjHv8BA72bN0vWAnN7BzSlGsBOB1pcx6nnc_u-eE/edit) is available to GitLab team members.
+Periodically, the **Senior Support Engineers** in Kapok and the **Support Managers** aligned with Kapok meet to discuss topics related to AMER Kapok. This meeting is on the **GitLab Support** calendar as `AMER Kapok Leadership Sync` and the [agenda doc](https://docs.google.com/document/d/1yQPkjHv8BA72bN0vWAnN7BzSlGsBOB1pcx6nnc_u-eE/edit) is available to GitLab team members.
 
 ## Kapok Team Building
 
