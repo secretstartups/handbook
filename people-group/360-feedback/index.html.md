@@ -69,7 +69,7 @@ The 360 feedback process will be ongoing from July 31, 2023 - September 22, 2023
 - **Sign Up Window** - The period of time during which team members can sign up to participate in the 360 Feedback process. Information on how to sign up for the cycle can be found in the Sign Up Process section below.
 - **Nomination Phase** - Team member nominates peers, manager, and any direct reports they have. Managers have the opportunity to adjust/review team member's feedback nominations during this window. 
 - **Feedback Phase** - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. 
-- **Review Phase** -  At the close of the 360 feedback session CultureAmp will open the feedback report for the coach (direct manager) to review and share with the team member. 
+- **Review Phase** -  At the close of the 360 feedback session CultureAmp will open the feedback report to the team member and their coach (direct manager) for review.
 - **Discussion Phase** - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation).
 
 
@@ -142,7 +142,7 @@ Utilize this checklist to ensure all necessary steps are accomplished during the
 
 1. **Reviewers** - Check with the team member to see who they have nominated for reviewers 
 1. Provide **Feedback** - As a coach, you may have been nominated to give feedback to your team member
-1. Review Feedback and [**Share Report**](https://about.gitlab.com/handbook/people-group/360-feedback/#sharing-the-report-as-a-manager)
+1. [**Review Feedback**](https://about.gitlab.com/handbook/people-group/360-feedback/#Reviewing-the-Report-as-a-Manager) - As a coach and manager you should review the feedback with a growth mindset
 1. Conduct [**Feedback Conversation** ](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation)
 1. **Take Action** on the feedback 
 1. **Complete** the 360 process 
@@ -235,16 +235,8 @@ If you would like to learn more, we held a [Receiving Feedback Live Learning cou
 ### Guidance for Managers
 The feedback that your team member receives may reinforce excellent or under performance you have already observed, but shouldn't be the only data point you use in evaluating performance. In cases where you’ve identified your top performer, we should learn from what makes that person successful to share with others. In cases where unsatisfactory performance is identified, you should also address that timely and honestly. The feedback included through the 360 process may help in talking through examples of strengths or improvement areas, but you should not wait for the 360 Feedback process to address performance matters.
 
-### Sharing the report as a Manager
-Once the feedback cycle closes for managers we advise to send out the completed review to their direct reports within 48 hours. 
-
-1. Log into CultureAmp and view your tasks 
-1. Select a team member and `preview feedback`
-1. Once you are satisfied with the feedback you can select `Share` and this will send the report to the team member 
-1. Coaches are asked to schedule a time within the next two weeks to go over the results and as a follow up create an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan). 
-
-
-Giving and receiving feedback can be hard for both the manager and the team members. Remember to be open-minded and calm. Be open-minded to the fact that others may see something that you do not. If you disagree with the feedback, others may be seeing something that you are not aware of- we called these blind spots earlier. Allow for the fact that others may be right, and use that possibility to look within yourself. Managers, feedback should never be a surprise! It is meant to guide, mentor, support, enhance, and help the team member grow. Try and maintain the model that feedback is a gift- it is data. More data is always better because it provides us with choices we wouldn't otherwise have.
+### Reviewing the Report as a Manager
+Once the feedback cycle closes, managers and team members will be able to review the feedback prior to meeting to discuss.  Giving and receiving feedback can be hard for both the manager and the team members. Remember to be open-minded and calm. Be open-minded to the fact that others may see something that you do not. If you disagree with the feedback, others may be seeing something that you are not aware of- we called these blind spots earlier. Allow for the fact that others may be right, and use that possibility to look within yourself. Managers, feedback should never be a surprise! It is meant to guide, mentor, support, enhance, and help the team member grow. Try and maintain the model that feedback is a gift- it is data. More data is always better because it provides us with choices we wouldn't otherwise have.
 
 ### 360 Feedback Conversation
 
