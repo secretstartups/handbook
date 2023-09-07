@@ -23,8 +23,8 @@ This working group is charged with driving the necessary cross-functional alignm
 | Target End Date                | 2024-01-31 |
 | Slack                          | [#wg-customer-use-case-adoption](https://gitlab.slack.com/archives/C0584NEKSRJ) |
 | Google Doc                     | [Customer Use Case Adoption Scrum - Agenda](https://docs.google.com/document/d/1WtwXCK1r7hoco5O8oW5SIKiIWtXDr_WOLeWcIaDM7Nk/edit?usp=sharing)  |
-| Epic - Primary                 | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190)
-| Epic - CI Adoption Initiatives | [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q3](https://gitlab.com/groups/gitlab-com/-/epics/2225)          
+| Epic - Primary                 | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190) |
+| Epic - CI Adoption Initiatives | [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q3](https://gitlab.com/groups/gitlab-com/-/epics/2225) |
 | Board                          | [CI Adoption Initiatives - FY24](https://gitlab.com/groups/gitlab-com/-/boards/6034252?label_name[]=WorkingGroup%3A%3AUseCaseAdoption&group_by=epic) |
 | Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
