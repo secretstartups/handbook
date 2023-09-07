@@ -286,7 +286,7 @@ The requestor will receive an initial reply with a set of verification challenge
 IMPORTANT NOTE: If at any point you are unsure of next steps or have any questions or concerns about the information in which the requester has provided, please reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel for help.
 
 1. Add the `Awaiting::Challenge Answers` label, and wait for the requestor to reply.
-   1. If no response is received after 10 calendar days, apply the `Account Verification Failed` and `Deletion Request:Denied` labels to the issue, and close it using the following snippet:
+   1. If no response is received after 10 calendar days, apply the `Account Verification Failed` and `deletion request:: denied` labels to the issue, and close it using the following snippet:
 <details>
   <summary markdown="span">Request Closed - No Response</summary>
 
@@ -300,7 +300,7 @@ IMPORTANT NOTE: If at any point you are unsure of next steps or have any questio
 1. Notify [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) of the request so that they can begin review of the evidence provided by the requester proving their authority to act on behalf of the deceased account owner.
 1. If the user has access to the account and provided answers to the [Verification Challenge questions](https://internal.gitlab.com/handbook/support/#account-verification-challenge-questions), then [evaluate answers](https://about.gitlab.com/handbook/support/workflows/account_deletion_access_request_workflows.html#step-2-evaluate) for verification.
    1. If the user fails verification, please reach out to the [#privacy-team_help](https://gitlab.slack.com/archives/C04357HVCJD) Slack channel for further direction.
-   1. If the requester fails the challenge questions, and you get instruction from #privacy-team-help to proceed to verification fail, apply the `Account Verification Failed` and `Deletion Request::Denied` labels, and respond with the following snipped before closing the issue:
+   1. If the requester fails the challenge questions, and you get instruction from #privacy-team-help to proceed to verification fail, apply the `Account Verification Failed` and `deletion request:: denied` labels, and respond with the following snipped before closing the issue:
 
 <details>
 <summary markdown="span">Request Closed - Failed Verification</summary>
