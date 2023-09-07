@@ -61,6 +61,10 @@ If you have questions about coverage or whether you should take PTO or not, feel
 
 **Note**: Candid and honest communication about the impacts of PTO on the SGG team are completely OK as long as we're remembering [our values](https://about.gitlab.com/handbook/values/) when communicating with each other! Also note that we take our time away from work seriously, never feel bad about your PTO! We all need it.
 
+#### Extended PTO
+
+In AMER, we share extended PTO plans via Slack as far in advance as possible. We also discuss upcoming extended PTO during our monthly SGG sync meetings. Extended PTO is typically five days or longer. Raising awareness about extended PTO plans in advance permits the entire team to coordinate and plan accordingly. This helps to ensure we have enough coverage while making sure everyone is able to enjoy GitLab's "[Family and friends first, work second](/handbook/values/#family-and-friends-first-work-second)" operating principle.
+
 ### AMER Leadership Sync
 
 Periodically, the **Senior Support Engineers** in Kapok and the **Support Managers** aligned with Kapok meet to discuss topics related to AMER Kapok. This meeting is on the **GitLab Support** calendar as `AMER Kapok Leadership Sync` and the [agenda doc](https://docs.google.com/document/d/1yQPkjHv8BA72bN0vWAnN7BzSlGsBOB1pcx6nnc_u-eE/edit) is available to GitLab team members.
