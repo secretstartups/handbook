@@ -17,38 +17,43 @@ This working group is charged with driving the necessary cross-functional alignm
 
 ## Attributes
 
-| Property        | Value      |
-|-----------------|------------|
-| Date Created    | 2023-05-16 |
-| Target End Date | 2024-01-31 |
-| Slack           | [#wg-customer-use-case-adoption](https://gitlab.slack.com/archives/C0584NEKSRJ) |
-| Google Doc      | [Customer Use Case Adoption Scrum - Agenda](https://docs.google.com/document/d/1WtwXCK1r7hoco5O8oW5SIKiIWtXDr_WOLeWcIaDM7Nk/edit?usp=sharing)  |
-| Epic            | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190)
-| Board           | *TBD* |
-| Overview & Status | See [Exit criteria](#exit-criteria) below |
+| Property                       | Value      |
+|--------------------------------|------------|
+| Date Created                   | 2023-05-16 |
+| Target End Date                | 2024-01-31 |
+| Slack                          | [#wg-customer-use-case-adoption](https://gitlab.slack.com/archives/C0584NEKSRJ) |
+| Google Doc                     | [Customer Use Case Adoption Scrum - Agenda](https://docs.google.com/document/d/1WtwXCK1r7hoco5O8oW5SIKiIWtXDr_WOLeWcIaDM7Nk/edit?usp=sharing)  |
+| Epic - Primary                 | [Use Case Adoption Measurement & Improvement](https://gitlab.com/groups/gitlab-com/-/epics/2190)
+| Epic - CI Adoption Initiatives | [CI Adoption - Acceleration Proposals to drive CI ARR to 50% by FY24-Q3](https://gitlab.com/groups/gitlab-com/-/epics/2225)          
+| Board                          | [CI Adoption Initiatives - FY24](https://gitlab.com/groups/gitlab-com/-/boards/6034252?label_name[]=WorkingGroup%3A%3AUseCaseAdoption&group_by=epic) |
+| Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
 ## Exit criteria
 
 Note that these goals are aspirational so we set a high bar (and potentially achieving something that is good enough vs. setting a low bar and not achieving something that is good enough).
 
-- [ ] Improve CI Adoption ARR from 40% to 50% by or before the end of FY24
+- [ ] Improve CI Adoption ARR from 40% to 50% by the end of FY24-Q3
 
 ## Roles and Responsibilities
 
 | Working Group Role                           | Person                        | Title                                                      |
 |----------------------------------------------|-------------------------------|------------------------------------------------------------|
 | Executive Sponsor                            | Sid Sijbrandij                | CEO                                                        |
-| DRI                                          | Sherrod Patching              | VP of Customer Success Management                          |
-| Facilitator                                  | Michael Arntz                 |                                                            |
-| Functional Lead: CSM                         | Sherrod Patching              | VP of Customer Success Management                          |
-| Functional Lead: CSM                         | Rachel Fuerst                 | Customer Success Manager, Public Sector                    |
-| Functional Lead: Scale CSE                   | Taylor Lund                   | Senior Manager, Customer Success Managers                  |
-| Functional Lead: PS                          | Mark Foster                   | Senior Professional Services Engagement Manager            |
-| Functional Lead: Product                     | Jackie Porter                 | Director, Product                                          |
-| Functional Lead: Growth                      | Paige Cordero                 | Senior Product Manager, Growth                             |
-| Functional Lead: Customer Success Operations | Nishant Khanna                | Senior Customer Success Operations Analyst                 |
-| Functional Lead: Digital Customer Success    | Michelle Harris               | Senior Program Manager, Customer Programs                  |
-| Functional Lead: Data and Insights           | Amie Bright                   | VP of Data and Insights                                    |
-| Functional Lead: Enterprise Sales            | *TBD*                         | *TBD*                                                      |
-| Functional Lead: Commercial Sales            | Julien Le Postec              | Area Sales Manager Mid Market South EMEA - Commercial Sales|
-| Functional Lead: Developer Relations         | Michael Friedrich             | Senior Developer Evangelist                                |
+| DRI/Facilitator                              | David Tuan                    | Director, Strategy and Operations                          |
+| Functional Lead - CSM                        | Sherrod Patching              | VP, Customer Success Management                            |
+| Functional Lead - Enterprise Sales           | Mike Pyle                     | VP of Enterprise Sales                                     |
+| Functional Lead - Marketing                  | Dave Steer                    | VP, Product Marketing                                      |
+| Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
+| Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
+| Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
+| Functional Lead - CI Adoption Data.          | Michael Arntz                 | Sales Strategy Manager                                     |
+| Member - Customer Success Management         | Luke Stahlman                 | Senior Customer Success Manager                            |
+| Member - Customer Success Management         | Rachel Fuerst                 | Senior Public Sector Customer Success Manager              |
+| Member - Customer Success Operations         | Nishant Khanna                | Senior Customer Success Operations Analyst                 |
+| Member - Digital Customer Success            | Michelle Harris               | Senior Program Manager, Customer Programs                  |
+| Member - Documentation                       | Susan Tacker                  | Director, Technical Writing                                |
+| Member - Growth                              | Paige Cordero                 | Senior Product Manager, Growth                             |
+| Member - Marketing                           | Saumya Upadhyaya              | Senior Manager, Product Marketing                          |
+| Member - Marketing                           | Dan Hom                       | Product Marketing Manager                                  |
+| Member - Product                             | Mike Flouton                  | VP of Product Management                                   |
+| Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
