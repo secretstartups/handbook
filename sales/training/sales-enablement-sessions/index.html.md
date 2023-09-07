@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Aug 31 | FY24-Q3 - Solution Play  | Diane O. |
 | Sep 7 | FY24-Q3 - Better Together: GitLab Alliances Update  | Rhoda B. |
 | Sep 14 | Propensity to Purchase (PTP) Score Launch  | Melia V. |
 | Sep 21 | TBD  | N/A |
@@ -41,6 +40,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-08-31 | **[FY24-2H - Solution Play: AI Powered DevSecOps](https://drive.google.com/file/d/1PRglbQGGW4QYiqhQ6BU2bVcZ6NRKIv-k/view?usp=drive_link)**  | Private |
 | 2023-08-24 |  **[New Compliance Deck & Demo Environment](https://gitlab.highspot.com/items/64e7934a0d1c03be0ae9d8e6)**  | Private |
 | 2023-08-10 | **[Salesforce Data Quality & Governance Overview](https://drive.google.com/file/d/1ygod5B_8amGsZ6X0LSL447jl-UL2P_Q5/view?usp=drive_link)**  | Private |
 | 2023-08-03 |  **[FY24-Q3 - Deal Desk Update: Quote Approvals](https://drive.google.com/file/d/1cSDLF-pPUZgWd1FQB5BzWBpfzlY0oNcT/view?usp=sharing)** | Private |
