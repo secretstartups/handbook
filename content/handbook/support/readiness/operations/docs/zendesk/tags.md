@@ -680,3 +680,13 @@ important to those working within Zendesk:
 | `skip_autoassign`        | Tell Zendesk to not auto-assign the ticket                               |
 
 </details>
+
+<details>
+<summary>Other Notable Tags</summary>
+
+| Tag                | What it means                                                                           |
+|--------------------|-----------------------------------------------------------------------------------------|
+| `partner_customer` | Indicates the account is a customer of an Alliance partner and not eligible for support |
+| `star_submitted`   | Indicates a STAR has been submitted on the ticket                                       |
+
+</details>
