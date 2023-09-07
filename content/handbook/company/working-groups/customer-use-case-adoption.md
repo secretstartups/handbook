@@ -14,6 +14,10 @@ This working group is charged with driving the necessary cross-functional alignm
 1. Mature **existing and new use cases and measures**, including thresholds
 1. Build use cases as input into **actions** to drive the business
 
+### FY24 Refocusing of Working Group on CI Adoption ###
+
+Effective 2023-08-17, the focus of the Customer Use Case Adoption working group pivoted explicitly to CI Adoption and driving the cross-functional workstreams required to achieve CI Adoption ARR of 50% by the end of FY24-Q3. Given the workstreams aligned upon, the expectation is that CI will be the only Use Case focused on by this working group for the remainder of FY24.
+
 
 ## Attributes
 
@@ -46,7 +50,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
 | Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
-| Functional Lead - CI Adoption Data.          | Michael Arntz                 | Sales Strategy Manager                                     |
+| Functional Lead - CI Adoption Data           | Michael Arntz                 | Sales Strategy Manager                                     |
 | Member - Customer Success Management         | Luke Stahlman                 | Senior Customer Success Manager                            |
 | Member - Customer Success Management         | Rachel Fuerst                 | Senior Public Sector Customer Success Manager              |
 | Member - Customer Success Operations         | Nishant Khanna                | Senior Customer Success Operations Analyst                 |
