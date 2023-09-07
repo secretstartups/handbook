@@ -7,16 +7,77 @@
       "syntax" : "markdown"
     },
     {
-      "content" : "{{% alert color=\"warning\" %}}\n\n{{% \/alert %}}",
+      "content" : "{{% alert color=\"warning\" %}}\n$SELECTED_TEXT\n{{% \/alert %}}",
       "name" : "alert-warning"
     },
     {
-      "content" : "{{% alert title=\"Note\" color=\"primary\" %}}\n\n{{% \/alert %}}\n",
+      "content" : "{{% alert title=\"Note\" color=\"primary\" %}}\n$SELECTED_TEXT\n{{% \/alert %}}\n",
       "name" : "note-block"
     },
     {
       "content" : "[iteration]: https:\/\/about.gitlab.com\/handbook\/values\/#iteration\n[collaboration]: https:\/\/about.gitlab.com\/handbook\/values\/#collaboration\n[efficiency]: https:\/\/about.gitlab.com\/handbook\/values\/#efficiency\n[values]: https:\/\/about.gitlab.com\/handbook\/values",
       "name" : "values links"
+    },
+    {
+      "content" : "{{% alert title=\"This is a Controlled Document\" color=\"danger\" %}}\nInline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref \"controlled-document-procedure\" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.\n{{% \/alert %}}\n",
+      "name" : "GL Controlled Document",
+      "scope" : "editor",
+      "trigger" : "{{cd}}"
+    },
+    {
+      "content" : "{{% details summary=\"\" %}}\n$SELECTED_TEXT\n{{% \/details %}}",
+      "name" : "details start",
+      "shortcut" : "ctrl-shift-d"
+    },
+    {
+      "content" : "{{< panel header=\"**Note**\" header-bg=\"blue\" >}}\n$SELECTED_TEXT\n{{< \/panel >}}",
+      "name" : "panel",
+      "shortcut" : "ctrl-shift-p"
+    },
+    {
+      "content" : "{{< ref \"$SELECTED_TEXT\" >}}",
+      "name" : "hugo ref",
+      "shortcut" : "ctrl-shift-a"
+    },
+    {
+      "children" : [
+        {
+          "content" : "{{< ref \"values\" >}}",
+          "name" : "values",
+          "shortcut" : "ctrl-shift-v"
+        },
+        {
+          "content" : "{{< ref \"values#transparency\" >}}",
+          "name" : "transparency",
+          "shortcut" : "alt-ctrl-t"
+        },
+        {
+          "content" : "{{< ref \"values#results\" >}}",
+          "name" : "results",
+          "shortcut" : "alt-ctrl-r"
+        },
+        {
+          "content" : "{{< ref \"values#efficiency\" >}}",
+          "name" : "efficiency",
+          "shortcut" : "alt-ctrl-e"
+        },
+        {
+          "content" : "{{< ref \"values#collaboration\" >}}",
+          "name" : "collaboration",
+          "shortcut" : "alt-ctrl-c"
+        },
+        {
+          "content" : "{{< ref \"values#iteration\" >}}",
+          "name" : "iteration",
+          "shortcut" : "alt-ctrl-i"
+        },
+        {
+          "content" : "{{< ref \"values#not-public\" >}}",
+          "name" : "not-public",
+          "shortcut" : "alt-ctrl-n"
+        }
+      ],
+      "name" : "Values"
     }
   ]
 }
