@@ -222,9 +222,7 @@ Each project should have a project-label applied to all epics and issues to allo
 
 ### Epics
 
-The [Release Velocity](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/170) epic tracks all work related to the group mission.
-
-Any working epic that the team creates should be directly added as a child to one of these two top level tracking epics.
+The [Release Velocity](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/170) epic tracks all work related to the group mission. Any working epic that the team creates should be directly added as a child to this top level tracking.
 
 Working epic should always have:
 
@@ -237,7 +235,7 @@ Working epic should always have:
 1. Labels:
     * ![Delivery Group label](img/group-delivery-label.png)
     * ![Team Delivery:Orchestration label](img/label-delivery-orchestration-team.png) or ![Team Delivery:System label](img/label-delivery-system-team.png)
-    * Label used as part of the project scope (eg. `kubernetes`, `security-release`).
+    * Label used as part of the project scope (eg. `kubernetes`, `security-release`). The DRI should create a suitable project scope label and add it to the [Delivery-triage rules](https://gitlab.com/gitlab-com/gl-infra/triage-ops) if needed.
     * Epic status label using the 'workflow-infra::triage', 'workflow-infra::proposal', 'workflow-infra::in-progress', 'workflow-infra::done'
 
 In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic.
@@ -248,7 +246,7 @@ Each working epic should be accompanied by an issue board. Issue boards should b
 
 ### Labels
 
-The canonical issue tracker for the Delivery group is at [gl-infra/delivery][issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
+The canonical issue tracker for the Delivery group is at [gl-infra/delivery][delivery issue tracker]. Issues are automatically labeled if no labels are applied using the [triage ops] project.
 The default labels defined in the [labeling library](https://gitlab.com/gitlab-com/gl-infra/triage-ops/-/blob/master/lib/delivery/default_labeling.rb).
 
 The Delivery Group has team specific labels:
