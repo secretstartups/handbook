@@ -428,7 +428,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | Thursday October 19 | **Available** | DRI | Key Review Date |
 | Tuesday October 24 | **Available** | DRI | Key Review Date |
 | Wednesday October 25 | CRO - Enterprise | ENT Leadership |  |
-| Thursday October 26 | **Available** | DRI | Key Review Date |
+| Thursday October 26 | Data | Amie Bright | October 17 |
 | Tuesday October 31 | Product| Product Leadership | October 19 |
 | Wednesday November 1 | **Available** | DRI | Key Review Date |
 | Thursday November 2 | **Available** | DRI | Key Review Date |
