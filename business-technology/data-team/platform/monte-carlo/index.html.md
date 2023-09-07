@@ -106,12 +106,25 @@ If you want to modify an existing monitor, depending on the type of monitor, you
 
 ## Responding To A Slack Alert
 
-Currently, when we are getting a notification on the #data-pipelines channel, we can already triage the issue via Slack by assigning a status to it choosing from: Investigating, Expected, Fixed, No Action Needed or False Positive.
+Currently, when we are getting notifications on different Slack channels, we can already triage the issue via Slack by assigning a status to it choosing from: `Fixed`, `Expected`, `Investigating`, `No action needed` and `False positive` (`No status` is a default status by MonteCarlo).
 Once we start investigating and we have a finding, if we write a comment on Slack in the same notification thread, that comment will automatically be added to the incident on Monte Carlo.
 
 Our goal is to be able to integrate Monte Carlo with GitLab so that whenever we get an alert on Slack, a triage issue would automatically be opened on GitLab and we'd follow the same [Data Triage procedure](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) as usual.
 
 There is detailed information including a video section in the official Monte Carlo documentation on [how to respond to an alert](https://docs.getmontecarlo.com/docs/explore-monte-carlo-incidents).
+
+### Incident status
+
+Each MonteCarlo incident has always a status. See the folowwing list when to use which status:
+
+| MonteCarlo status   | Context                                                                                                                                       | Actions done or to -do                                                                 | 
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Fixed               | Incident is not active anymore.                                                                                                               | Actively worked on resolving the incident or the incident is normalized automatically. | 
+| Expected            | Incident was flagged by MonteCarlo **correctly**. We knew that this was coming, like a batch update or a schema change that was in the works. | None                                                                                   |
+| Investigating       | Actively working on the incident                                                                                                              | Root cause investigation and resolve if needed                                         |
+| No action needed    | Incident was flagged by MonteCarlo **correctly**, but its not a breaking change                                                               | None                                                                                   |
+| False positive      | Incident was flagged by MonteCarlo **wrongly**                                                                                                | None                                                                                   | 
+| No Status           | Default status by MonteCarlo                                                                                                                  | Start investigating and update status                                                  |
 
 ## Note on DWH Permissions
 
