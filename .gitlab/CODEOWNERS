@@ -180,8 +180,8 @@
 /content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 
 ^[Security]
-/content/handbook/security/ @robin @jlongo_gitlab
-/content/job-families/security/ @robin @jlongo_gitlab
+/content/handbook/security/ @joshlemos @jlongo_gitlab
+/content/job-families/security/ @joshlemos @jlongo_gitlab
 
 [support]
 /content/handbook/support/ @gitlab-com/support
