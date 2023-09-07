@@ -441,6 +441,10 @@ Below is the information related to Switzerland's statutory leave policies.  Ple
 #### Paid Time Off
 Team members 20 years old and above receive at least four weeks of paid time off per year. Team Members younger than 20 years old are entitled to five weeks. Team members are also entitled to paid time off for public holidays in the canton in which they live.
 
+Team members are eligible for additional time off to get married.  Team members are eligible for 1 day + 1/2 day on the preceding day and 1/2 day on the following day or can log up to 2 full days.
+Please enter the time off into Time Off by Deel using the label `vacation` and then add a comment noting the time away is for Marriage leave.
+For this type of time off request, you will also need to enter it into Remote's platform. Please select the "Other" category and enter the details "wedding leave".
+
 #### Pregnancy and maternity leave
 Birthing parents in Switzerland are eligible for 14 weeks (98 days) of maternity leave that begins when the child is born.  Team members are prohibited from working for the first 8 weeks after birth.
 
