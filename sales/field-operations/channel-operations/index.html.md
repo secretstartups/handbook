@@ -769,26 +769,14 @@ Partner Operations will share a copy of the pricelists to the main contacts of e
 
 The Channel Managers use a [tracking system](https://docs.google.com/presentation/d/1fPJutBp85WPNqf3ErQEk7Xp2042UPupTjmSLUMOmXnE/edit?usp=sharing) in Salesforce to record their sales and marketing activities. This tracker allows them to extract data for sales analysis and goal setting (QBRs, OKRs, [Business Plans](https://docs.google.com/presentation/d/1lSXI1cnJQkv5RFwTEO2-J1FNTs0ykp25WA-orJj-Fok/edit#slide=id.g29a70c6c35_0_68), 1:1s). In addition, it enables the creation of [activity frameworks](https://docs.google.com/presentation/d/15rCXjsOj6r6BFYqWMgST5WB6R_XWJiIqYq2eppUoeDw/edit?usp=sharing) to set engagement standards and further develop relationships with GitLab’s partners. This activity tracker is available to all Channel Managers. 
 
-## Business Plans
+## Partner Insights
+The Partner Operations team provides [Partner Insights](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit#gid=98500586) data to Channel Managers to help with building partner Business Plans and preparing for QBRs and partner meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships.
 
- The business plans are created in Salesforce and our partners can access the content through the partner portal (view only access)
+Channel Managers can: 
+- generate their Partner Insights data by accessing this self-service [spreadsheet](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing). Please follow the instructions on the first tab of the spreadsheet to generate a PDF with charts and metrics for your selected partner.
+- create a Partner Insights PowerPoint by accessing this [step-by-step guide](https://docs.google.com/document/d/1XoyxxF8Ni8HpXqj17Tsoyd47zxpFpCCtnXJJ_WrO5aM/edit?usp=sharing).
 
- How to get started: 
-
- 1. Watch the [training and video](https://docs.google.com/document/d/19iEM3ZMcBOkZVwnBmiJX8fcHdp50AJVfmbwhYUzfcLs/edit) and understand the Business Planning Module. 
- 2. Identify who from your partner contacts should have access to the plan on the partner portal. 
- 3. Create a new plan for your FY23 Select Partners in Salesforce.
-
-**Note:** use the following format for the Business Plan Name field:
-*Partner name, Fiscal year, Business Plan e.g. BoxBoat FY23 Business Plan*
-
-**Note:** if you are creating a Business Plan for a Pubsec partner, please include “Pubsec” after partner name e.g. BoxBoat (Pubsec) FY23 Business Plan
-
-4. Please submit your contacts in the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)  for the Partner Operations team to grant them access.
-5. Review status with Select Partner during QBR’s
-
-**Feedback:** You can submit your feedback on the second tab of the [Business Plan Sheet](https://docs.google.com/spreadsheets/d/1dL805MUQF8xJcbB7d_-wHyTM62euB9I6hVsAOW_CekE/edit#gid=1093608913)
-
+If you need assistance with accessing the spreadsheet or PowerPoint step-by-step guide, please contact us at [#partner-program-ops](https://gitlab.slack.com/archives/CTM4T5BPF) in Slack. If you have a customized reporting request that’s not on the self-service spreadsheet, [please open an issue on the Partner Operations board](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board).  
 
 ## Partner Award Program
 The GitLab Partner Awards are awarded on an annual basis. No submissions or applications are solicited; partners are assessed on our published award criteria outlined below. 
