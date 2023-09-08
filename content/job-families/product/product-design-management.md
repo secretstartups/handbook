@@ -33,7 +33,7 @@ The Foundations team works on building a cohesive and consistent user experience
 
 You'll spend your time collaborating with a [cross-functional team](https://about.gitlab.com/handbook/product/categories/#ecosystem-group), helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility standards into our workflows, and defining guidelines and best practices that will inform how teams design and build products. A breakdown of the vision you’ll help to deliver within the Foundation group can be found on our [product direction page](https://about.gitlab.com/direction/manage/foundations/).
 
-### Requirements
+### Foundations Requirements
 
 - Experience managing a group of designers who work on complex products.
 - A clear philosophy about how to successfully manage remote design teams.
@@ -47,9 +47,24 @@ You'll spend your time collaborating with a [cross-functional team](https://abou
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group).
 - Ability to use GitLab.
 
+#### UX Paper Cuts
+
+The UX Paper Cuts team is responsible for identifying and fixing small, impactful usability issues in the GitLab product. Like the Foundations team, UX Paper Cuts does not work within a specific product area, but across the product as a whole, identifying issues and creating merge requests to continually [improve the user experience](https://nicolasdular.gitlab.io/gitlab-polish-gallery/?&label=UX%20Paper%20Cuts).
+
+### UX Paper Cuts Requirements
+
+- Experience leading a group of designers who work on complex products.
+- A clear philosophy about how to successfully hire and manage remote design teams.
+- Experience working in both start-up and enterprise environments.
+- Experience writing CSS/HTML and be comfortable working in git.
+- Proficiency with pre-visualization software like Figma or Sketch.
+- Strong collaboration skills.
+
 **NOTE** In the compensation calculator below, fill in "Manager" in the `Level` field for this role.
 
 ### Interview Process
+
+Candidates can expect the hiring process to follow the below order, although it can change depending on calendar availability. Please keep in mind that candidates can be declined at any stage of the process.
 
 - [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter.
 - **Interview with Product Designer** In this interview, the interviewer will want to understand the experience you have as a manager, what type of teams you have led, and your management style. The interviewer will also look to understand how you define strategy, how you work with researchers, how you handle conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, your experience with Design Systems, and your technical ability.
@@ -57,6 +72,8 @@ You'll spend your time collaborating with a [cross-functional team](https://abou
 - **Interview with Senior Manager of Product Design** In this interview, the interviewer will want to understand the experience you have as a manager, what types of teams you have led, and your management style. The interviewer will also want to understand how you define strategy, how you work with researchers, how you handle conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and your technical ability.
 - **Interview with a Group Product Manager** In this interview, the interviewer will want to understand how your career experiences will set you up for success at GitLab. They will also look to understand how you work with cross-functional partners, the domains you've worked in previously, and the types of teams you've led.
 - **Interview with Director of Product Design** In this interview, the interviewer will want to understand the experience you have as a manager, your experience working remotely, and how these two elements of your career intersect. They will also look to understand your technical skills and the types of products you've worked on previously.
+
+If you are interviewing for the UX Paper Cuts specialty, the hiring process is the same but does not include an interview with a Group Product Manager.
 
 ## Senior Manager of Product Design
 
