@@ -17,19 +17,12 @@
 #
 #####
 
-# These optional entries are for when no codeowner is found.
-^[content-sites]
-* @jamiemaynard @marshall007
+# The following entries are all sections which require codeowner approval
+# either because they relate to the function of the Handbook or because
+# they are a controlled Document.
 
-^[job-families]
-/content/job-families/ @sytses @streas
-
-^[handbook]
-/content/handbook/ @sytses @streas
-
-^[company]
-/content/company/ @sytses @streas
-
+# No point having a controlled documents section if anyone can just update
+# The CODEOWNERS file.
 [CODEOWNERS]
 .gitlab/CODEOWNERS @timzallmann @gitlab-com/ceo-chief-of-staff-team
 
@@ -70,8 +63,70 @@
 /README.md @jamiemaynard @marshall007
 /content/docs/ @jamiemaynard @marshall007
 
-# The rest of the entries are for the different sections of the handbook and/or job-families
+# This is the controlled documents section where approval from a CODEOWNER is always required
+# Entries will be disabled if they form part of a migration.
+[Controlled Documents]
+/content/handbook/people-group/acceptable-use-policy/ @wendybarnes @akramer @emilyplotkin @pegan
+/content/handbook/security/access-management-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/security-compliance/access-reviews.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-engineering/application-security/vulnerability-management.html.md @joshlemos @jritchey
+/content/handbook/security/audit-logging-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/engineering/infrastructure/production/index.html.md.erb @marin @alanrichards
+/content/handbook/business-technology/gitlab-business-continuity-plan/index.html.md @brobins @cmestel @NabithaRao
+/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/engineering/infrastructure/change-management/index.html.md @marin @alanrichards @meks @joergheilig
+/content/handbook/security/controlled-document-procedure.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/cryptographic-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/data-classification-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/legal/privacy/dpia-policy/ @robin
+/content/handbook/business-technology/data-team/data-management/ @amiebright @dvanrooijen2 @iweeks @nmcavinue
+/content/handbook/business-technology/data-team/platform/index.html.md @amiebright @dvanrooijen2 @iweeks
+/content/handbook/engineering/infrastructure/database/disaster_recovery.html.md @marin @alanrichards
+/content/handbook/security/threat-management/vulnerability-management/encryption-policy.html.md @smanzuik @estrike
+/content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
+/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/password-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/ISMS.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/threat-management/vulnerability-management/Infrastructure-vulnerability-procedure.html.md @smanzuik @estrike
+/content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
+/content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
+/content/handbook/engineering/infrastructure/network-security/ @marin @alanrichards
+/content/handbook/people-group/offboarding/offboarding_standards/ @wendybarnes @mpatel8
+/content/handbook/security/penetration-testing-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/people-policies/ @cgudgenov @emilyplotkin @pegan @wendybarnes
+/content/handbook/engineering/infrastructure/production/architecture/ @marin @alanrichards
+/content/handbook/security/records-retention-deletion.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-change-management-procedure.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/observation-management-procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/observation-remediation-procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-operations/sirt/security-incident-communication-plan.html.md @joshlemos @jfuentes2
+/content/handbook/security/security-operations/sirt/sec-incident-response.html.md @joshlemos @jfuentes2
+/content/handbook/security/secops-oncall.html.md @joshlemos @jlongo_gitlab @jfuentes2
+/content/handbook/security/security-assurance/governance/sec-training.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/security-risk/third-party-risk-management.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/token-management-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike
+/content/handbook/security/change-management-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/finance/expenses/ @brobins
+/content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/control-health-effectiveness-rating.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/change-management-policy.html.md @joshlemos @jlongo_gitlab
 
+# These optional entries are for when no codeowner is found.
+^[content-sites]
+* @jamiemaynard @marshall007
+
+^[job-families]
+/content/job-families/ @sytses @streas
+
+^[handbook]
+/content/handbook/ @sytses @streas
+
+^[company]
+/content/company/ @sytses @streas
+
+# The rest of the entries are for the different sections of the handbook and/or job-families
 ^[READMEs]
 /content/handbook/ceo/chief-of-staff-team/readmes/dlangemak.md @dlangemak
 /content/handbook/ceo/chief-of-staff-team/readmes/ipedowitz.md @ipedowitz
@@ -86,6 +141,13 @@
 ^[ceo]
 /content/job-families/chief-executive-officer @sytses @streas
 /content/job-families/board-of-directors/ @sytses @robin
+/sites/handbook/source/handbook/leadership/ @sytses @streas
+/content/handbook/company/ @sytses @streas
+/content/handbook/company/strategy/ @sytses
+/content/handbook/company/stewardship/ @sytses
+/content/handbook/company/okrs/ @streas
+/content/handbook/company/history/ @sytses
+/content/handbook/company/quote-to-cash/ @justinfarris @ofernandez2 @tgolubeva @courtmeddaugh @alex_martin @vincywilson @jackib @chloeliu @jeromezng @jameslopez @csouthard @rhardarson @isandin @shreyasagarwal @jbrennan1 @jrabbits @NabithaRao @sbaranidharan @jesssalcido @iweeks @lwhelihan @s_mccauley @annapiaseczna @andrew_murray @msubramanian
 
 ^[chief-information-security-officer]
 /content/job-families/chief-information-security-officer.md @robin @fofungwu
@@ -95,9 +157,13 @@
 
 ^[company]
 /content/handbook/esg.md @robin @slcline
+/content/handbook/company/family-and-friends-day/ @chrisweber44
 
 ^[customer-success]
 /content/handbook/customer-success @spatching @christiaanconover @mrleutz
+
+^[eba-team]
+/content/handbook/eba/ @chrisweber44
 
 ^[engineering]
 /content/handbook/engineering/horse/pubsec/ @sdumesnil @pmartinsgl @craig
@@ -172,16 +238,25 @@
 /content/job-families/product/product-operations.md @justinfarris
 /content/job-families/product/ @david @clenneville @mflouton @justinfarris @hbenson
 
-
 ^[sales]
 /content/handbook/sales/ @dhong
 /content/handbook/company/performance-indicators/sales.md @dhong
 /data/performance_indicators/sales.yml @dhong
 /content/job-families/sales/ @dhong @jbrennan1 @jakebielecki @james_harrison @jdbeaumont @cfarris
 
-^[Security]
-/content/handbook/security/ @joshlemos @jlongo_gitlab
+^[security]
 /content/job-families/security/ @joshlemos @jlongo_gitlab
+/content/handbook/security/ @joshlemos @jlongo_gitlab
+/content/handbook/security/architecture/ @plafoucriere
+/content/handbook/security/security-operations/ @joshlemos @jfuentes2
+/content/handbook/security/security-assurance/ @jburrows001 @tdilbeck @corey-oas @jlongo_gitlab @lcoleman
+/content/handbook/security/threat-management/ @smanzuik @estrike
+/content/handbook/security/threat-management/red-team/ @cmoberly
+/content/handbook/security/security-engineering/ @joshlemos
+/content/handbook/security/security-engineering/application-security/ @joshlemos @jritchey
+/content/handbook/security/security-engineering/automation/ @joshlemos @agroleau
+/content/handbook/security/security-engineering/infrastructure-security/ @joshlemos @joe-dub
+/content/handbook/security/security-engineering/security-logging/ @joshlemos @joe-dub
 
 [support]
 /content/handbook/support/ @gitlab-com/support
@@ -203,12 +278,24 @@
 [support-readiness]
 /content/handbook/support/readiness/ @lyle @jcolyer
 
-^[TeamOps]
+^[teampps]
 /content/teamops/ @streas @lfarrer @cynthia
 /content/handbook/teamops/ @streas @lfarrer @cynthia
 
 ^[total-rewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
 
-[Values]
+[values]
 /content/handbook/values/ @sytses @gitlab-com/ceo-chief-of-staff-team
+
+^[working-groups]
+/content/handbook/company/structure/working-groups/ @sytses @streas
+/content/handbook/company/structure/working-groups/clickhouse-datastore.md @clefelhocz1 @sgoldstein @nhxnguyen @nicolewilliams
+/content/handbook/company/structure/working-groups/cross-functional-prioritization.md @clefelhocz1 @vkarnes @meks @justinfarris
+/content/handbook/company/structure/working-groups/demo-test-data.md @grantyoung @poffey21 @vincywilson @meks
+/content/handbook/company/structure/working-groups/api-vision.md @g.hickman @arturoherrero @timzallmann
+/content/handbook/company/structure/working-groups/disaster-recovery.md  @mjwood @andrashorvath
+/content/handbook/company/structure/working-groups/frontend-observability.md @timzallmann @samdbeckham
+/content/handbook/company/structure/working-groups/multi-large.md @cdu1 @mbursi
+/content/handbook/company/structure/working-groups/software-supply-chain-security.md @sam.white @pcalder
+/content/handbook/company/structure/working-groups/ai-integration.md @hbenson @timzallmann @tmccaslin @wayne
