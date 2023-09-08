@@ -204,7 +204,7 @@ All current job codes can be found by the Total Rewards team in the "Job Codes" 
 
 ### Introduction
 
-Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Comptryx, Radford. This is _not_ a cost of living analysis, but instead a **cost of market** evaluation compared to San Francisco. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
+Location Factor is [calculated](#calculating-location-factors) using multiple data sources to conduct a market analysis of compensation rates globally: Economic Research Institute (ERI), Comptryx, Radford. This is _not_ a cost of living analysis, but instead a **cost of labor market** evaluation compared to San Francisco. The Total Rewards team will use their best judgement in determining the input per location based on our [Compensation Principles](/handbook/total-rewards/compensation/#gitlabs-compensation-principles).
 
 ### Geographical Areas
 
@@ -261,9 +261,9 @@ If the location of a metropolitan area is higher than the regional minimum, the 
 GitLab will gather and analyze the data for each location factor annually as part of annual compensation review. We will also iterate on location factors as needed throughout the year.
 
 1. Data Gathering
-   * ERI: Review the Cost of Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
-   * Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential to market.
-   * Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential to market.
+   * ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
+   * Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential.
+   * Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential.
    * In reviewing the data set, determine if a new geo area needs to be added to the list.
 1. Data Analysis
    * For geographical areas:
