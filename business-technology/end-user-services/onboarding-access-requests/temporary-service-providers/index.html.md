@@ -21,7 +21,7 @@ Similar to our Access Request process for team members, we have an access reques
 All steps below must be completed prior to any onboarding or access assignment. 
 
 - Procurement process must be completed. [How to submit a Zip request for a contractor](https://about.gitlab.com/handbook/finance/procurement/#how-to-submit-a-zip-request-for-a-contractor)
-- PO approved with a confirmed engagement end date.
+- PO approved in Coupa with a confirmed engagement end date.
 - Security and Legal Reviews must be complete in Zip.
 - Background checks complete if accessing [orange/red data](https://about.gitlab.com/handbook/security/data-classification-standard.html)
 - If accessing orange/red data a GitLab a laptop is required for your contractor. The manager must have confirmed that IT is able to deliver a laptop to the contractor's country/location.
