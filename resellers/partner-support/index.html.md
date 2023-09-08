@@ -91,16 +91,7 @@ We do not create entire new accounts for separate partner entities with the same
 2. Chatter @Billing Ops from the Partner Account. Copy the link to the newly created contact from the first step and paste it into your chatter request and ask that a new Billing Account be created using the linked contact.
    - Billing Ops will create a billing account and after about 2 hours, it will be usable for quoting.
  3. Sales Reps can then select that billing account as the Invoice Owner and use the contact you created as the Invoice Owner Contact in their quotes.
-
-## Partner Insights
-The Partner Operations team provides ["Partner Insights"](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing) data to Channel Managers for help with preparing for QBRs and other partner executive meetings. These insights are intended to help Channel Managers have productive conversations with partners to identify what is going well so it can be replicated, as well as address opportunities for improvement to develop stronger and more valuable partnerships.
-
-### Gathering Partner Insights Data and Creating a Slide Deck
-Channel Managers can generate their Partner Insights by accessing this self-service [spreadsheet](https://docs.google.com/spreadsheets/d/1DfwnsWbKSUbY21KIzCh2hZH3cgJZltmjXSsCeObLT58/edit?usp=sharing). Please follow the instructions on the first tab of the spreadsheet to generate a PDF with charts and metrics for your selected partner. 
-
-Channel Managers are able to create their own Partner Insights PowerPoint by accessing this [step-by-step guide](https://docs.google.com/document/d/1XoyxxF8Ni8HpXqj17Tsoyd47zxpFpCCtnXJJ_WrO5aM/edit?usp=sharing). 
-
-If you need assistance with accessing the spreadsheet or PowerPoint step-by-step guide, please contact us at [#partner-program-ops](https://gitlab.slack.com/archives/CTM4T5BPF) in Slack. If you have a customized reporting request that’s not on the self-service spreadsheet, [please open an issue on the Partner Operations board](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#the-channel-operations-issue-board).  
+ 
   
 ## Basic Training Requirements
 For a list of basic training requirements for NFRs, Deal Registration, and Transacting, visit the [Channel Partners: Working with GitLab Handbook Page](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#training--certification-requirements-for-transactions-deal-registrations-and-nfrs)
