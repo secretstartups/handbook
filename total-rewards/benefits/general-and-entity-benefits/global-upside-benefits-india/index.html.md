@@ -153,6 +153,7 @@ All of the benefits listed below are administered and managed by [Global Upside
 * Proof of coverage must be shared or forwarded to total-rewards@ domain in order to receive the correct allowance amount.
 * The allowance will be up to 300 USD per month for team member and up to 500 USD per month for team member plus Dependents. (USD amount can be converted to the local currency using the latest [Currency Conversion Factor](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates))
 * The Total Rewards team will send a confirmation email to Global Upside to have the reimbursement processed.
+* The Total Rewards team will email the non-uspayroll team of the allowance and include the amount in the current month's payroll changes report
 
 ### Pension
 
