@@ -234,7 +234,7 @@ A few resources to help reduce the start-up cost for a new benchmarking effort:
 - [Spreadsheet Template](https://docs.google.com/spreadsheets/d/1FK3rS0MaF57cpyVEFL7P9LwD-zwfLSLk-k6tul__cPI/edit?usp=sharing) - A Google Sheets template for recording your session notes and data, complete with pages and formulas for commonly reported metrics.
 - [Google Slides Template](https://docs.google.com/presentation/d/1x2R1-qASZVhEFQwYcX9U2puR-8k3XwpsfRSDYkipsOY/copy) - A Google Slides template for creating your benchmarking report.
 - [Google Slides from Q1FY23 Create Benchmarking](https://docs.google.com/presentation/d/1jX7bOij69uS_oT2tYEsB5Rwg5A9rErfmpi7YhcY1H3M/edit?usp=sharing) - The slide deck from the first benchmarking study, from which you can see the structure of the slides and general presentation flow.
-- [Mural template for recommendations alignment workshop](https://app.mural.co/t/gitlab2474/template/6c725b01-a3be-422e-8cec-d8823e9aaa73) - A Mural template for running a recommendations alignment workshop with your stakeholders.
+- [Figjam template for Usability Benchmarking Alignment Workshop](https://www.figma.com/file/QQ30XlTxTSFx80lq8UpNDo/Usability-Benchmarking-Alignment-Template?type=whiteboard&node-id=0-1&t=o3p1uikRBbZQ5Bnh-0) - A Figjam template for running a Usability Benchmarking Alignment Workshop with your stakeholders.
 - [Example Benchmarking Epic](https://gitlab.com/groups/gitlab-org/-/epics/7205)
 - [Neilsen/Norman on Benchmarking - Process](https://www.nngroup.com/articles/product-ux-benchmarks/)
 - [Neilsen/Norman on Benchmarking - Metrics](https://www.nngroup.com/articles/benchmarking-ux/)

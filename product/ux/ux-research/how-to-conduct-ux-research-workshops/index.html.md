@@ -19,18 +19,18 @@ UX research workshops are useful because they offer UX Researchers a way to coll
 This handbook page covers the main steps involved to conduct a UX research workshop. If you have any questions about this process, please contact your [UX Researcher](/handbook/product/ux/ux-research/how-uxr-team-operates/#how-ux-researchers-are-assigned). They can assist with setting up and/or leading a UX research workshop for your team.
 
 ## Step 1: Select a UX research workshop
-There are 5 different types of UX research workshops that can be used whenever a UX Researcher is about to start or finish a project. Within this section, we define each of the workshops and provide links to Mural templates, which can help UX Researchers with the initial setup process.
+There are 5 different types of UX research workshops that can be used whenever a UX Researcher is about to start or finish a project. Within this section, we define each of the workshops and provide links to Figjam templates, which can help UX Researchers with the initial setup process.
 
 _Early phases of research_
-* **Research project planning workshop:** A process for coming to a consensus about a future research project direction and vision. This type of workshop is used to obtain stakeholder buy-in before a research effort is started. ([Mural board template](https://app.mural.co/template/769242c6-4b0b-4386-bb5c-4e8e15e0ebeb/be463719-b532-4d0e-9ec5-e93fa6d3c56e))
-* **Usability benchmark kickoff workshop:** Similar to a research planning workshop, but with a focus on the main jobs to be done (JTBD) statements, user tasks, recruiting criteria, research questions, and metrics for an upcoming benchmarking study. ([Mural board template](https://app.mural.co/template/7bddfa99-889a-47cf-af34-a7d6b4c773a6/ab3450b0-2c41-4842-b5f0-b21546517ec3))
+* **Research project planning workshop:** A process for coming to a consensus about a future research project direction and vision. This type of workshop is used to obtain stakeholder buy-in before a research effort is started. ([Figjam board template](https://www.figma.com/file/xrI7hK8PrX8z5NgaTZnRbI/Research-Project-Planning-Workshop-Template?type=whiteboard&node-id=0-1&t=iGsKsCszM2IkhEBQ-0))
+* **Usability benchmark kickoff workshop:** Similar to a research planning workshop, but with a focus on the main jobs to be done (JTBD) statements, user tasks, recruiting criteria, research questions, and metrics for an upcoming benchmarking study. ([Figjam board template](https://www.figma.com/file/qB8dve7WnicflTG8UTykp5/Usability-Benchmarking-Kickoff-Workshop?type=whiteboard&node-id=0-1&t=xwLSPezaqJXQLMOB-0))
 
 _Late phases of research_
-* **Research recommendations alignment workshop:** A process for coming to a consensus with a Product team on which user pain points, identified through the research, the team should fix and how to fix them. This type of workshop helps to eliminate any surprises in a final research report since recommendations are discussed and agreed upon ahead of time by the team. ([Mural board template for async based workshop](https://app.mural.co/template/a5b1cf65-483d-4014-8681-373e1a6c9ee7/c2c2b37a-baf6-4b5f-9e97-87f132d07e19); ([Mural board template for sync based workshop](https://app.mural.co/template/4cb109be-478c-4ccf-adc9-955b0e2c925a/028ddbd2-d1d3-4607-93a4-875ed8b72273)))
-* **Research retrospective workshop:** An open dialog between UX Researchers and/or stakeholders that is used to reflect on the positives and negatives of a research project. Also, this workshop is used to identify areas of improvement and action items for future related projects. ([Mural board template](https://app.mural.co/template/c7f8b5ab-fa8d-477a-8424-a1d72e1f4858/559f7b77-1ff9-4d82-8a5a-f551078378f3))
-* **Research summary workshop:** A way to collaboratively analyze research data within the team as it is obtained, so stakeholders are able to contribute to the final research output. This is used to increase stakeholder buy-in with the research findings and help reduce the amount of time spent on data analysis. This type of workshop helps to eliminate any surprises in a final research report since recommendations are discussed and agreed upon ahead of time by the team. ([Mural board template](https://app.mural.co/template/5ba6a117-a578-49ab-abbf-2fb686b0d529/f6022aa3-249b-4f82-9d9c-2960de2ecc8e))
+* **Research recommendations alignment workshop:** A process for coming to a consensus with a Product team on which user pain points, identified through the research, the team should fix and how to fix them. This type of workshop helps to eliminate any surprises in a final research report since recommendations are discussed and agreed upon ahead of time by the team. ([Figjam board template for async based workshop](https://www.figma.com/file/a21e4ULruQzsO4fyhZaQuU/Recommendations-Alignment-Workshop-Template?type=whiteboard&node-id=0-1&t=BPMkNjhREFLGyYzS-0); ([Figjam board template for sync based workshop](https://www.figma.com/file/bNZAvYidhtMXJUFl7PeO88/Recommendations-Alignment-Workshop-(Sync-based)-Template?type=whiteboard&node-id=0-1&t=SttgOyzOTq40QJpg-0)))
+* **Research retrospective workshop:** An open dialog between UX Researchers and/or stakeholders that is used to reflect on the positives and negatives of a research project. Also, this workshop is used to identify areas of improvement and action items for future related projects. ([Figjam board template](https://www.figma.com/file/UwcCFflMdTKU9yuODH14Vm/Research-Retrospective-Workshop-Template?type=whiteboard&node-id=0-1&t=R6aJN08Ek2aQOtTR-0))
+* **Research summary workshop:** A way to collaboratively analyze research data within the team as it is obtained, so stakeholders are able to contribute to the final research output. This is used to increase stakeholder buy-in with the research findings and help reduce the amount of time spent on data analysis. This type of workshop helps to eliminate any surprises in a final research report since recommendations are discussed and agreed upon ahead of time by the team. ([Figjam board template](https://www.figma.com/file/7Hln5gBmLIGlpjKCwbV7Pf/Research-Summary-Workshop-Template?type=whiteboard&node-id=0-1&t=g90bNFAAgEeTBYxa-0))
 
-* **Usability Benchmark recommendations alignment workshop:** After running a [Usability Benchmark](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/) this is a process for running a recommendations alignment workshop with your stakeholders. ([Mural board template](https://app.mural.co/t/gitlab2474/template/6c725b01-a3be-422e-8cec-d8823e9aaa73))
+* **Usability Benchmark recommendations alignment workshop:** After running a [Usability Benchmark](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/) this is a process for running a recommendations alignment workshop with your stakeholders. ([Figjam board template](https://www.figma.com/file/QQ30XlTxTSFx80lq8UpNDo/Usability-Benchmarking-Alignment-Template?type=whiteboard&node-id=0-1&t=IUk08tJPc7mocTdS-0))
 
 If the UX Researcher determines a UX research workshop would be best for their project, they should allocate approximately **1 week** of setup time for a workshop. The following sections highlight the main aspects to consider ahead of time.
 
@@ -73,7 +73,7 @@ When setting up a research workshop, attendees need to have context about what t
 * Research report
 * Research issue/epic
 * Highlight reels of relevant research clips (ex: usability feedback, participant interviews) contained within Dovetail
-* Mural board with instructions
+* Figjam board with instructions
 * YouTube video(s) with instructions
 
 At GitLab, we lean towards overcommunication to ensure that attendees are aware of the upcoming workshop. Thus, we encourage you to share resources and pre-work in multiple applications (for example: Slack, GitLab, Google Calendar), so attendees do not miss any details about the workshop.
@@ -86,13 +86,13 @@ At GitLab, we lean towards overcommunication to ensure that attendees are aware 
 
 
 ## Step 6: Create and share workshop outcomes 
-When the workshop is complete, the UX Researcher should review the Mural board to determine if there is some synthesis required before communicating any final outcomes. In most cases, there will be some additional analysis needed to identify themes or reorganize the workshop data into a final state. 
+When the workshop is complete, the UX Researcher should review the Figjam board to determine if there is some synthesis required before communicating any final outcomes. In most cases, there will be some additional analysis needed to identify themes or reorganize the workshop data into a final state. 
 
 From there, the UX Researcher can broadly share the outcome of the workshop with attendees and other interested teams. It is recommended to communicate outcomes through GitLab issue comments and relevant Slack channels (#UX_Research_Reports, #Product, #UX). 
 
 Some types of workshop outcomes include:
 * Actionable insight issues
-* Completed Mural board
+* Completed Figjam board
 * Summary of insights or learnings
 * Retrospective issue threads
 * Video recordings of workshops (sync workshops only)
