@@ -142,6 +142,12 @@ The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/pe
 | Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
 | Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
 
+## Trust and Psychological Safety Team Survey and Feedback Template
+
+As a part of the Elevate training, an initial iteration for a trust and psychological safety [team survey](https://docs.google.com/forms/d/1g8jXdTBItJW9JIWUU9XssUxgvXt2mwwShKWBTh4T6nk/edit?ts=64e679c9) along with a team tracking [issue template](https://gitlab.com/gitlab-com/people-group/learning-development/programs/-/issues/50) were created to help teams manage the process of measuring and discussing their teams trust and psychological safety. The goal is to better understand how each team member feels about psychological safety within their own team and share those feelings in a discussion. Each manager is encouraged to make copies of the survey and issue template to use when conducting this trust and psychological safety exercise with their team.
+
+Once survey results have been collected and reviewed by each manager, it's suggested that these anonymous results are shared with the team in a sync meeting, in a tracking [issue (template)](https://gitlab.com/gitlab-com/people-group/learning-development/programs/-/issues/50), or both to discuss trends and identify action items in the data collected for each question. The intention is to provide transparency around how each team is feeling and also decide as a team what action items can be taken away from the results and applied in the future.
+
 ## Additional Resources
 - Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
