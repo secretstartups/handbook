@@ -34,14 +34,11 @@ We envision a Field organization that has easy and intuitive access to the infor
 
 ### Field Enablement Strategy & Deliverables
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpPSI90xsZ4j2tGmPd-5KA3zRobK4WB9PhbgrTKlMtcG1q7g7xi_gUq1_dLBhe_BWJ90HA35-zCNmD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+**Review the [Field Enablement FY24 Quarterly Deliverables deck](https://docs.google.com/presentation/d/1ige2sKpmcA6gPO4NyYToC7Hc_zmOCO5L47dZIdovZpk/edit#slide=id.g1c2d0da5713_0_1337).**
 
-
-1. View our Annual Deliverables in FY24 (our “yearlies”) on slide 13
-1. View our Deliverables by segment and quarter on slides 11-21
-1. View the Rhythm of Enablement, Comms, & Content (our operating cadence) on slides 8 & 9 
+1. View our FY24 Enablement Framework on slide 13
+1. View our Deliverables by segment and quarter on slides 14-21
+1. View the Rhythm of Enablement, Comms, Content and Events (our operating cadence) on slides 8-10 
 1. View our team org chart on slide 23 
 
 ### Field Enablement Team 
