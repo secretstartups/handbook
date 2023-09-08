@@ -184,6 +184,10 @@ Candidates for this position can expect the hiring process to follow the order b
 - The final interview will be with a Product Manager and Engineering Manager. They will focus on your ability to collaborate with Product and Engineering teams and determine how well your skills align with the needs of a specific stage group.
 - Successful candidates will subsequently be made an offer via a video call or phone call.
 
+### Hiring process for UX Paper Cuts Specialty
+
+The UX Paper Cuts Speciality has an emphasis on basic coding skills as the role involves making changes to the product by creating, reviewing, and merging MRs. The final interview will be with a member of the UX Paper Cuts team and it will focus on discussing the technical exercise you will receive a couple of days prior to the scheduled call. The technical exercise is brief and to be completed in advance. It's an opportunity to learn your comfort and capability in making small front-end changes. This final interview and exercise replaces the Product Manager and Engineering Manager mentioned above.
+
 ### Preparing for your interviews
 
 #### Case studies
