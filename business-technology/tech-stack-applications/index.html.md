@@ -69,13 +69,10 @@ Please ensure that whenever you update the tech stack, you follow the instructio
 | technical_owner | Text | The Technical Owner(s) all the `administrators` of a tool. This includes everyone with the administrative clearance to provision and deprovision access of a tool and/or as the technical expertise needed to manage it. Example: Jane Doe, John Doe. See guidance [above](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-definitions) for instances where a system does not require/have an administrator function | MR Author and contributors |
 | data_classification | Text (Red, Orange, Yellow, Green) or Unknown** | Decided upon by the Security team, please leave as `null` while this process is completed. More information on [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html).| Security Risk |
 | authentication_method | Text (Okta SWA, Okta SAML, ID and password, other) or Unknown** | Authentication method used to access the system. It can be [SWA](https://help.okta.com/en/prod/Content/Topics/Apps/Apps_Overview_of_Managing_Apps_and_SSO.htm), [SAML](https://support.okta.com/help/s/article/Beginner-s-Guide-to-SAML?language=en_US) or other such as direct access (email and password login).  | MR Author and contributors |
-| need_move_to_okta | Text or Unknown** | If the system is compatible with Okta but is not currently integrated with it put `true` and open a [new Okta application setup issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new?issuable_template=okta_new_app_request) | MR Author and contributors |
 |critical_systems_tier|Text (Tier 1 Mission Critical, Tier 2 Business Critical, Tier 3 Business Operational, Tier 4 Administrative, TBD) or Unknown**|This field classifies the system based on GitLab's [Critical System Tier Definitions](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html). The assignment of a critical system tier is dependent on the completion of a [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) (BIA) questionnaire. The Security Risk Team will coordinate the completion of a BIA if it has not yet been completed at the time a system is being added to the Tech Stack.|Security Risk|
-| compliance_scope | Text | Comma separated list of the system's compliance scope: (e.g. SOX, SOC2, PCI). Decided upon by the Internal Audit and Security Compliance Teams, please leave as null while this process is completed. | Internal Audit and Security Compliance Teams |
 | collected_data | Text or Unknown**  | Data that is collected by the tool | MR Author and contributors |
 | employee_or_customer_facing_app | Text (employee, customer) | If access is limited to GitLab team members, then please add the `employee` word. If access can be granted to external parties, then add `customer` | MR Author and contributors |
 | notes | Text or Unknown** | Additional relevant information about the system that is not captured in any other field. Examples include the GitLab Epic for implementation and rollout. | Optional, MR Author and contributors |
-| saas | Boolean* or Unknown** | Is the tool a Software as a Service (SaaS) tool? | Optional, MR Author and contributors |
 | handbook_link | Text/Markdown or Unknown** | Link to the `Tech Stack Guide` handbook page that includes function and system information.  Example: "The Marketing handbook contains the [Marketo Tech Stack Guide](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/tech-stack-guide-marketo/)." | Optional, MR Author and contributors |
 | external_link | Text/Markdown or Unknown** | Link to the app's primary website. Example: "[ContractWorks](https://www.contractworks.com/)" | Optional, MR Author and contributors |
 | google_group | Text or Unknown** | Google group being used to manage access to the systems through Okta | Optional, MR Author and contributors |
@@ -107,13 +104,10 @@ Copy the content below (including the `- ` before `title`) and please add your s
   technical_owner:
   data_classification:
   authentication_method:
-  need_move_to_okta: null
   critical_systems_tier: null
-  compliance_scope: null
   collected_data: null
   employee_or_customer_facing_app:
   notes: null
-  saas: null
   handbook_link: null
   external_link:
   google_group: null
