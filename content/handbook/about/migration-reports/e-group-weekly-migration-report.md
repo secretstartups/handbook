@@ -1,5 +1,6 @@
 ---
 title: E-Group Weekly
+Description: Migration report for moving the handbooks e-group-weekly section
 ---
 
 **Section:** e-group-weekly

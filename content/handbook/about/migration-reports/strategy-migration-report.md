@@ -1,5 +1,6 @@
 ---
 title: Strategy
+Description: Migration report for moving the handbooks strategy section
 ---
 
 **Section:** strategy
@@ -16,3 +17,5 @@ Please complete the following tasks:
   - MR Link: [https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128956](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128956)
 - [ ] Merge MR for `wwww-gitlab-com`
 - [ ] Advise on Slack the content has been successfully migrated
+
+**Issue:** [https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105](https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105)

@@ -1,5 +1,6 @@
 ---
-Title: CEO and CoST Team
+title: CEO and CoST Team
+Description: Migration report for moving the handbooks ceo section
 ---
 
 **Section:** ceo

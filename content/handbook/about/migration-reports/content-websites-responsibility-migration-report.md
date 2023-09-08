@@ -1,5 +1,6 @@
 ---
 title: Content Websites Responsibility
+Description: Migration report for moving the handbooks content-websites-responsibility section
 ---
 
 **Section:** content-websites-responsibility

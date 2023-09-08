@@ -1,5 +1,6 @@
 ---
 title: Quote to Cash
+Description: Migration report for moving the handbooks quote-to-cash section
 ---
 
 **Section:** quote-to-cash
@@ -16,3 +17,5 @@ Please complete the following tasks:
   - MR Link: [https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128944](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128944)
 - [ ] Merge MR for `wwww-gitlab-com`
 - [ ] Advise on Slack the content has been successfully migrated
+
+**Issue:** [https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105](https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105)

@@ -1,5 +1,6 @@
 ---
 title: Inspired by GitLab
+Description: Migration report for moving the handbooks inspired-by-gitlab section
 ---
 
 **Section:** inspired-by-gitlab

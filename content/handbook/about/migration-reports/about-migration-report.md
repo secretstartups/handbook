@@ -1,5 +1,6 @@
 ---
 title: About the Handbook
+Description: Migration report for moving the handbooks about section
 ---
 
 **Section:** about

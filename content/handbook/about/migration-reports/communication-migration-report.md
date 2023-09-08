@@ -1,5 +1,6 @@
 ---
 title: Communications
+Description: Migration report for moving the handbooks communication section
 ---
 
 **Section:** communication

@@ -1,5 +1,6 @@
 ---
 title: JiHu FAQ
+Description: Migration report for moving the handbooks faq-gitlab-licensing-technology-to-independent-chinese-company section
 ---
 
 **Section:** faq-gitlab-licensing-technology-to-independent-chinese-company
@@ -16,3 +17,5 @@ Please complete the following tasks:
   - MR Link: [https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128219](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/128219)
 - [x] Merge MR for `wwww-gitlab-com`
 - [x] Advise on Slack the content has been successfully migrated
+
+**Issue:** https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105

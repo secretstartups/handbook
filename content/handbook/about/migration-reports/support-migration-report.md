@@ -1,5 +1,6 @@
 ---
 title: Support
+Description: Migration report for moving the handbooks support section
 ---
 
 **Section:** support

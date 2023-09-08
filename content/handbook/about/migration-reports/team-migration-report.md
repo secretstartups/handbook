@@ -1,5 +1,6 @@
 ---
-Title: Team
+title: Team
+Description: Migration report for moving the handbooks team section
 ---
 
 **Section:** team
@@ -19,3 +20,5 @@ Please complete the following tasks:
   - MR Link: [https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/129014](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/129014)
 - [ ] Merge MR for `wwww-gitlab-com`
 - [ ] Advise on Slack the content has been successfully migrated
+
+**Issue:** [https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105](https://gitlab.com/gitlab-com/content-sites/handbook/-/issues/105)

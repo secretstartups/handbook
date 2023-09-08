@@ -1,5 +1,6 @@
 ---
 title: Using GitLab at GitLab
+Description: Migration report for moving the handbooks using-gitlab-at-gitlab section
 ---
 
 **Section:** using-gitlab-at-gitlab

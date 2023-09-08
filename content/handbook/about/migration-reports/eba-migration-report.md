@@ -1,5 +1,6 @@
 ---
 title: EBAs
+Description: Migration report for moving the handbooks eba section
 ---
 
 **Section:** eba

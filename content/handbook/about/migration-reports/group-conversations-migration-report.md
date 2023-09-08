@@ -1,5 +1,6 @@
 ---
-Title: Group Conversations
+title: Group Conversations
+Description: Migration report for moving the handbooks group-conversations section
 ---
 
 **Section:** group-conversations

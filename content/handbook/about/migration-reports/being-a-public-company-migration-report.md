@@ -1,5 +1,6 @@
 ---
-Title: Being a Public Company
+title: Being a Public Company
+Description: Migration report for moving the handbooks being-a-public-company section
 ---
 
 **Section:** being-a-public-company
