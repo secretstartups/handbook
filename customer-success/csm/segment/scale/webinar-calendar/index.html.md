@@ -88,6 +88,24 @@ GitLab enables developers and security to work together in a single tool, allowi
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tZP2Hn0FRESxhIWg5TFz2A#/registration)
 
+#### Hands-On GitLab CI Workshop for Jenkins Users
+##### September 26th, 2023 at 10:00AM-12:00PM Pacific Time / 1:00-3:00PM Eastern Time
+
+Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
+
+We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
+
+We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BPLQaiQUR9-94MvKFIP4_Q)
+
+#### AI in DevSecOps - GitLab Hands-On Workshop
+##### September 27th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
+
+Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_H9oXlO4gRqSWQqXWeqbV4Q#/registration)
+
 #### Hands-On GitLab DevSecOps Workshop
 ##### September 27th, 2023 at 3:00-4:00PM Pacific Time / 6:00-7:00PM Eastern Time / 8:00-9:00AM UTC+10
 
@@ -146,6 +164,14 @@ Learn from our director of engineering how to shift left your change management 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_SuqeCTzvSce0xlehGJT3Tg#/registration)
+
+#### AI in DevSecOps - GitLab Hands-On Workshop
+##### September 26th, 2023 at 2:00-4:00PM UTC / 4:00-6:00PM CEST
+
+Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_110tfU_TRK64Bs-IU209rg#/registration)
+
 
 #### Hands-On GitLab CI Workshop for Jenkins Users
 ##### September 28th, 2023 at 11:00AM-1:00PM UTC / 12:00PM-2:00PM CEST
