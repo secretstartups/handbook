@@ -67,51 +67,51 @@
 # Entries will be disabled if they form part of a migration.
 [Controlled Documents]
 /content/handbook/people-group/acceptable-use-policy/ @wendybarnes @akramer @emilyplotkin @pegan
-/content/handbook/security/access-management-policy.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/security-assurance/security-compliance/access-reviews.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-engineering/application-security/vulnerability-management.html.md @joshlemos @jritchey
-/content/handbook/security/audit-logging-policy.html.md @joshlemos @jlongo_gitlab
-/content/handbook/engineering/infrastructure/production/index.html.md.erb @marin @alanrichards
-/content/handbook/business-technology/gitlab-business-continuity-plan/index.html.md @brobins @cmestel @NabithaRao
-/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/engineering/infrastructure/change-management/index.html.md @marin @alanrichards @meks @joergheilig
-/content/handbook/security/controlled-document-procedure.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/cryptographic-standard.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/data-classification-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/access-management-policy.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/security-compliance/access-reviews.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-engineering/application-security/vulnerability-management.md @joshlemos @jritchey
+/content/handbook/security/audit-logging-policy.md @joshlemos @jlongo_gitlab
+/content/handbook/engineering/infrastructure/production/index.md.erb @marin @alanrichards
+/content/handbook/business-technology/gitlab-business-continuity-plan/index.md @brobins @cmestel @NabithaRao
+/content/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/engineering/infrastructure/change-management/index.md @marin @alanrichards @meks @joergheilig
+/content/handbook/security/controlled-document-procedure.md @joshlemos @jlongo_gitlab
+/content/handbook/security/cryptographic-standard.md @joshlemos @jlongo_gitlab
+/content/handbook/security/data-classification-standard.md @joshlemos @jlongo_gitlab
 /content/handbook/legal/privacy/dpia-policy/ @robin
 /content/handbook/business-technology/data-team/data-management/ @amiebright @dvanrooijen2 @iweeks @nmcavinue
-/content/handbook/business-technology/data-team/platform/index.html.md @amiebright @dvanrooijen2 @iweeks
-/content/handbook/engineering/infrastructure/database/disaster_recovery.html.md @marin @alanrichards
-/content/handbook/security/threat-management/vulnerability-management/encryption-policy.html.md @smanzuik @estrike
+/content/handbook/business-technology/data-team/platform/index.md @amiebright @dvanrooijen2 @iweeks
+/content/handbook/engineering/infrastructure/database/disaster_recovery.md @marin @alanrichards
+/content/handbook/security/threat-management/vulnerability-management/encryption-policy.md @smanzuik @estrike
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
-/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/password-standard.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/ISMS.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/threat-management/vulnerability-management/Infrastructure-vulnerability-procedure.html.md @smanzuik @estrike
+/content/handbook/security/security-assurance/security-compliance/security-control-lifecycle.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/password-standard.md @joshlemos @jlongo_gitlab
+/content/handbook/security/isms.md @joshlemos @jlongo_gitlab
+/content/handbook/security/threat-management/vulnerability-management/infrastructure-vulnerability-procedure.md @smanzuik @estrike
 /content/handbook/business-technology/end-user-services/self-help-troubleshooting/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
 /content/handbook/business-technology/end-user-services/onboarding-access-requests/ @rrea1 @pkaldis @NabithaRao @ericrubin @mbeee
 /content/handbook/engineering/infrastructure/network-security/ @marin @alanrichards
 /content/handbook/people-group/offboarding/offboarding_standards/ @wendybarnes @mpatel8
-/content/handbook/security/penetration-testing-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/penetration-testing-policy.md @joshlemos @jlongo_gitlab
 /content/handbook/people-policies/ @cgudgenov @emilyplotkin @pegan @wendybarnes
 /content/handbook/engineering/infrastructure/production/architecture/ @marin @alanrichards
-/content/handbook/security/records-retention-deletion.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/records-retention-deletion.md @joshlemos @jlongo_gitlab
 /content/handbook/security/security-assurance/security-risk/storm-program/ @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-change-management-procedure.html.md @joshlemos @jlongo_gitlab
-/content/handbook/security/security-assurance/observation-management-procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/observation-remediation-procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-operations/sirt/security-incident-communication-plan.html.md @joshlemos @jfuentes2
-/content/handbook/security/security-operations/sirt/sec-incident-response.html.md @joshlemos @jfuentes2
-/content/handbook/security/secops-oncall.html.md @joshlemos @jlongo_gitlab @jfuentes2
-/content/handbook/security/security-assurance/governance/sec-training.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/security-risk/third-party-risk-management.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/token-management-standard.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-change-management-procedure.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/observation-management-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/observation-remediation-procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-operations/sirt/security-incident-communication-plan.md @joshlemos @jfuentes2
+/content/handbook/security/security-operations/sirt/sec-incident-response.md @joshlemos @jfuentes2
+/content/handbook/security/secops-oncall.md @joshlemos @jlongo_gitlab @jfuentes2
+/content/handbook/security/security-assurance/governance/sec-training.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/security-risk/third-party-risk-management.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/token-management-standard.md @joshlemos @jlongo_gitlab
 /content/handbook/security/threat-management/vulnerability-management/ @smanzuik @estrike
-/content/handbook/security/change-management-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab
 /content/handbook/finance/expenses/ @brobins
-/content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/security-assurance/control-health-effectiveness-rating.html.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
-/content/handbook/security/change-management-policy.html.md @joshlemos @jlongo_gitlab
+/content/handbook/security/security-assurance/dedicated-compliance/POAM-Deviation-Request-Procedure.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/security-assurance/control-health-effectiveness-rating.md @jburrows001 @tdilbeck @corey-oas @lcoleman @jlongo_gitlab
+/content/handbook/security/change-management-policy.md @joshlemos @jlongo_gitlab
 
 # These optional entries are for when no codeowner is found.
 ^[content-sites]
@@ -260,20 +260,20 @@
 
 [support]
 /content/handbook/support/ @gitlab-com/support
-/content/handbook/support/workflows/how-to-set-up-shift-coverage-for-an-event.html.md @gitlab-com/support/managers
-/content/handbook/support/workflows/personal_data_access_account_deletion.html.md @jcolyer @izzyfee @lyle
-/content/handbook/support/workflows/account_deletion_access_request_workflows.html.md @jcolyer @izzyfee @lyle
-/content/handbook/support/workflows/data_processing_addendums.html.md @lyle
-/content/handbook/support/workflows/information-request.html.md @lasayers @dfrhodes @emccrann @smccreesh @BronwynBarnett @rachelpack
-/content/handbook/support/workflows/log_requests.html.md @gitlab-com/support/managers
-/content/handbook/support/workflows/pii_removal_requests.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/dmca.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/reinstating-blocked-accounts.html.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
-/content/handbook/support/workflows/working_with_security.html.md @gitlab-com/support/managers @gitlab-com/gl-security
-/content/handbook/support/workflows/unbabel_translation_in_zendesk.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/setting_ticket_priority.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/zendesk-instances.html.md @gitlab-com/support/managers @gitlab-com/support/support-ops
-/content/handbook/support/workflows/team/performance_review.html.md @joergheilig @lbot @lyle @shaunmccann @vparsons
+/content/handbook/support/workflows/how-to-set-up-shift-coverage-for-an-event.md @gitlab-com/support/managers
+/content/handbook/support/workflows/personal_data_access_account_deletion.md @jcolyer @izzyfee @lyle
+/content/handbook/support/workflows/account_deletion_access_request_workflows.md @jcolyer @izzyfee @lyle
+/content/handbook/support/workflows/data_processing_addendums.md @lyle
+/content/handbook/support/workflows/information-request.md @lasayers @dfrhodes @emccrann @smccreesh @BronwynBarnett @rachelpack
+/content/handbook/support/workflows/log_requests.md @gitlab-com/support/managers
+/content/handbook/support/workflows/pii_removal_requests.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/dmca.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/reinstating-blocked-accounts.md @gitlab-com/support/managers @gitlab-com/gl-security/security-operations/trust-and-safety
+/content/handbook/support/workflows/working_with_security.md @gitlab-com/support/managers @gitlab-com/gl-security
+/content/handbook/support/workflows/unbabel_translation_in_zendesk.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/setting_ticket_priority.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/zendesk-instances.md @gitlab-com/support/managers @gitlab-com/support/support-ops
+/content/handbook/support/workflows/team/performance_review.md @joergheilig @lbot @lyle @shaunmccann @vparsons
 
 [support-readiness]
 /content/handbook/support/readiness/ @lyle @jcolyer
