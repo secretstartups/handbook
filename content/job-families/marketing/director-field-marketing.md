@@ -71,7 +71,7 @@ The Director, Field Marketing - Japan leads the strategy and execution of market
 
 ### Requirements
 
--  10+ years progressive experience in the B2B tech industry with a focus on field, channel and partner marketing; working directly with sales teams
+- 10+ years progressive experience in the B2B tech industry with a focus on field, channel and partner marketing; working directly with sales teams
 - Skilled at building and maintaining relationships, being strategic partner to sales; fluent in Japanese and strong communicator in English
 - Team management and development skills, including career development and coaching; experience managing people managers
 - Track record of delivering results in line with overall business objectives through operational excellence, including accelerating and progressing pipeline
