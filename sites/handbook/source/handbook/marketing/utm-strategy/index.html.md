@@ -17,7 +17,7 @@ twitter_creator: '@gitlab'
 <!-- DO NOT CHANGE ANCHOR -->
 The purpose of this handbook page is to outline how our UTM strategy drives insightful dashboards in Sisense. You may learn how to use the UTM builder, and why it is critical that we use this consistent process across all marketing channels for consistent and useful reporting.
 
-For a quick overview of UTMs, take a look a look at [this YouTube video](https://youtu.be/GrUGZBaUtVo)
+[Enablement Session] Iteration & Review of UTM Parameters available in [this YouTube video](https://youtu.be/QcH2pBH37wU)
 
 Everyone can contribute - See something you'd like to discuss or iterate on? Start an MR and post it in [#mktg-strat-perf](https://gitlab.slack.com/archives/C01HTAYQBM5) slack channel.
 
