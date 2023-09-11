@@ -167,11 +167,11 @@ Two GitLab team members have never worked together before, so they set up a [cof
 {{< cardpane >}}
 
 {{< panel header="**Home**" header-bg="indigo" >}}
-Return to the [TeamOps homepage](/teamops/)
+Return to the <a href="https://about.gitlab.com/teamops/">TeamOps homepage</a>
 {{< /panel >}}
 
 {{< panel header="**Next**" header-bg="success" >}}
-Continue the learning experience by exploring [TeamOps - Everyone Contributes](/teamops/everyone-contributes/)
+Continue the learning experience by exploring <a href="https://handbook.gitlab.com/teamops/everyone-contributes/">TeamOps - Everyone Contributes</a>
 {{< /panel >}}
 
 {{< /cardpane >}}
