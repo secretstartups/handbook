@@ -5,7 +5,7 @@ description: ""
 
 ## Summit Sessions
 
-Summit isn’t a conference, it's a place to connect and collaborate in an environment where everyone can contribute. At GitLab Summit we have unconference sessions and workshops to create spaces where you can build connections with your fellow GitLab team members. 
+Summit isn’t a conference, it's a place to connect and collaborate in an environment where everyone can contribute. At GitLab Summit we have unconference sessions and workshops to create spaces where you can build connections with your fellow GitLab team members.
 
 ### Signup
 
@@ -54,8 +54,8 @@ The following are measures of a successful unconference session:
 
 ### What to expect
 
-1. A workshop is an interactive training of 50 minutes including Q&A (topic examples: Kubernetes 101, Speaker Training, AI, etc.) 
-1. Everyone can participate. It’s a workshop, not a presentation. Everyone in the room should be able to participate. 
+1. A workshop is an interactive training of 50 minutes including Q&A (topic examples: Kubernetes 101, Speaker Training, AI, etc.)
+1. Everyone can participate. It’s a workshop, not a presentation. Everyone in the room should be able to participate.
 1. Can be a small or large number of people. Larger groups may need multiple facilitators or coaches to ensure everyone can participate.
 
 ### How to host
