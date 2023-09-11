@@ -23,14 +23,10 @@ These fall into one of two types:
 | [GitLab Dedicated](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/4414917877650)     | 4414917877650 | Public     | Support               |
 | [L&R](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000071293)                   | 360000071293  | Public     | Support               |
 | [Billing](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000258393)               | 360000258393  | Public     | Billing               |
-| [Professional Services](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000647759) | 360000647759  | Public     | Professional Services |
-| [Open Partner](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000818199)          | 360000818199  | Public     | Support               |
-| [Select Partner](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000837100)        | 360000837100  | Public     | Support               |
 | [Alliance Partners](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001172559)     | 360001172559  | Public     | Support               |
 | [Support Ops](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001801419)           | 360001801419  | Public     | Support Ops           |
 | [JiHu](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001477519)                  | 360001477519  | Public     | Support               |
 | [China Comms Response](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001535259)  | 360001535259  | Public     | Support               |
-| [Community](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/334467)                   | 334467        | Internal   | Support               |
 | [Emergencies](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001264259)           | 360001264259  | Internal   | Support               |
 | [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001629679)      | 360001629679  | Internal   | Support               |
 
