@@ -99,7 +99,7 @@ Each group will deliver the following:
      - Ideal outcome 
      - Description of how they solved it - tools, resources, models, etc.
      - Conclusion and Implications - how would you pitch this solution to e-group in under 3 minutes?
-1. **One Merge Request or Issue:** Open at least 1 merge request to the GitLab handbook or issue that documents new ideas, strategies, or details your group has applied. It's best to open this in the topic area of your project. For example, if your project makes suggestions about imrpoved feedback, document those in a MR to the feedback handbook page.
+1. **One Merge Request or Issue:** Open at least 1 merge request to the GitLab handbook or issue that documents new ideas, strategies, or details your group has applied. It's best to open this in the topic area of your project. For example, if your project makes suggestions about improved feedback, document those in a MR to the feedback handbook page.
 
 #### Tips for Success
 
