@@ -53,12 +53,24 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
   - Discussions and research to provision the container registry database in Omnibus. [https://gitlab.com/gitlab-org/container-registry/-/issues/1102](https://gitlab.com/gitlab-org/container-registry/-/issues/1102)
   - Testing different sizes of the registry for scalability.
   - Coordinate with our Support Liason to prepare for user interaction.
+- Completed:
+  - Created issues for communication with users regarding [beta interest](https://gitlab.com/gitlab-org/gitlab/-/issues/379240) and [feedback](https://gitlab.com/gitlab-org/gitlab/-/issues/423459).  Discussions are in progress with a potential first user for the beta program.
+  - Through testing, the team discovered a problem with persisting database configuration which will need to be fixed in 16.4 before the beta user can start the installation. 
 
 #### Week of Sept 4-8
 - Plan:
+  - Review and merge the omnibus [MR](https://gitlab.com/gitlab-org/omnibus-gitlab/-/merge_requests/7100) for persisting database settings.
+  - Create walkthrough demo of the migration process ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1068))
+  - Add to the [container registry seeder](https://gitlab.com/gitlab-org/ci-cd/package-stage/container-registry-seeder) project to make testing easier.
+- Completed:
+  - Merged omnibus [MR](https://gitlab.com/gitlab-org/omnibus-gitlab/-/merge_requests/7100) and tested.
+  - Recorded [youtube video](https://www.youtube.com/watch?v=aZdyYrKdtxk) for import process.
+  - Tested 100GB model for migration in GCP. ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/424479))
 
 #### Week of Sept 11-18
 - Plan:
+  - Investigate using a lock file for data integrety ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/918)).  Prevent non-database registry changes (such as offline garbage collection) to database managed objects.
+  - Further testing with AWS and 500GB models.
 
 ### Milestone 16.5 (September 17, 2023 - October 10, 2023)
 
