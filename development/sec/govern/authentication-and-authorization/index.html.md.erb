@@ -152,7 +152,7 @@ The issue verification step is optional starting starting 16.4 and will be requi
 We have [many labels](https://docs.gitlab.com/ee/development/labels/index.html) that can be applied to an issue or merge request. Besides the issue workflow labels above, here are the minimum basic labels to apply to issues and merge requests:
 
 - Type (`type::feature`, `type::bug`, or `type::maintenance`)
-- Stage that owns the area (`devops::manage`)
+- Stage that owns the area (`devops::govern`)
 - Group that owns the area (`group::authentication and authorization`)
 - Specialization (`frontend`, `backend`, `database`, `documentation`)
 - `security` if the issue is related to application security, and `breaking change` if this work is considered a [breaking change](https://docs.gitlab.com/ee/development/contributing/index.html#breaking-changes)
@@ -164,7 +164,7 @@ With the combination of our capacity planning (EM) and estimation (IC) processes
 
 ### How we prioritize for a release
 
-We have [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization) aligned with our prioritization framework. The engineering manager will prioritize `type::maintenance` issues, the product manager will prioritize `type::feature` issues, and the software engineer in test will prioritize `type::bug` issues. From there, we are able to select a ratio of the top issues to be planned for the release by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?label_name[]=group%3A%3Aauthentication%20and%20authorization). **Our target ratio is to plan 60% features, 30% bugs, and 10% maintenance per release**. Security issues do not count towards these ratios, but instead take away from the total capacity. The data below helps us understand our overall cross-functional status.
+We have [cross-functional prioritization](/handbook/product/product-processes/#cross-functional-prioritization) aligned with our prioritization framework. The engineering manager will prioritize `type::maintenance` issues, the product manager will prioritize `type::feature` issues, and the software engineer in test will prioritize `type::bug` issues. From there, we are able to select a ratio of the top issues to be planned for the release by using our [cross-functional issue board](https://gitlab.com/groups/gitlab-org/-/boards/4453752?label_name[]=group%3A%3Aauthentication%20and%20authorization). **Starting 16.5, our target ratio is to plan 60% features, 20% bugs, and 20% maintenance per release**. Security issues do not count towards these ratios, but instead take away from the total capacity. The data below helps us understand our overall cross-functional status.
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: 'authentication and authorization' } %>
 
