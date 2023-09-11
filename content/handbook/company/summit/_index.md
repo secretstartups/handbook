@@ -14,9 +14,9 @@ The goal of Summit is to build trust through social connections.
 
 The next Summit is planned to be in Las Vegas, NV, USA. More information is available on the [Summit landing page](https://about.gitlab.com/events/summit-las-vegas/).
 
-## Collaborate to Connect
+# Sessions
 
-We're planning hours of [Unconference and workshops](https://docs.google.com/document/d/10G4cu49e99X8SlzSn50-tGgANlV-PsSabMQhFlHBf6k/edit#heading=h.7ub6xj9fuibd).
+We're planning hours of sessions, including [Unconference and workshops.](/handbook/company/summit/unconference.md).
 
 
 ## Leaders at Summit
