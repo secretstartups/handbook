@@ -12,9 +12,7 @@ description: "Landing page for many of the handbook pages the talent acquisition
 
 {::options parse_block_html="true" /}
 
-
-
-At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](https://about.gitlab.com/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
+At the core of our team’s vision, mission, and strategy is our ability to impact GitLab’s overarching [mission](/company/mission/): to make it so that **everyone can contribute**. When **everyone can contribute**, users become contributors and we greatly increase the rate of innovation. 
 
 As a Talent Acquisition team, we have an outsized impact on GitLab’s ability to make this mission a reality, by connecting top talent to profound careers from wherever they are in a truly distributed, remote workforce. 
 
@@ -26,14 +24,13 @@ It is the Talent Acquisition Team’s mission to predictably build distributed, 
 
 ### Our Guiding Principles
 As we set out over the next decade to achieve this vision, we will continue to rely on core guiding principles to define how we build toward the future. 
-  1. **Experience**: Stakeholder experience is central to all that we do. We are not purely a service provider but a partner and advisor in creating a best-in-class experience while building GitLab as a company. The Talent Acquisition team looks after building an experience for our customers, stakeholders, and partners that stands true to our [CREDIT](https://about.gitlab.com/handbook/values/) values and provides a level of care we are proud of - no matter the outcome. 
+  1. **Experience**: Stakeholder experience is central to all that we do. We are not purely a service provider but a partner and advisor in creating a best-in-class experience while building GitLab as a company. The Talent Acquisition team looks after building an experience for our customers, stakeholders, and partners that stands true to our [CREDIT](/handbook/values/) values and provides a level of care we are proud of - no matter the outcome. 
   1. **Inclusivity**: Applying best practices in the craft of Talent Acquisition has an outsized impact on our ability to build a representative workforce here at GitLab. By embedding inclusivity as a guiding principle, we design fair and equitable processes into the fabric of all that we do, rather than retroactively adding parameters to solve systemic challenges in the societies we exist in   
   1. **Predictability**: Our ability to have the right people, in the right jobs, at the right time is imperative to our ability to execute our commitments and plans as an organization. In order to achieve that, our team must design with an eye for accuracy and forecastability in any program, process or experience we enable. 
 
 ### Our Objectives and Roadmap
 We strive to be as transparent as possible, but these sections are only available for our GitLab team members.
 [FY24 TA Strategy](https://docs.google.com/document/d/1Q9ui_BZLRPBAYpRtdtpHVSvGzW3g7JtVYkGj_KqwZBA/edit#heading=h.riu5wc8sjmum)
-
 
 
 # Talent Acquisition Pages and Processes
@@ -60,7 +57,6 @@ We strive to be as transparent as possible, but these sections are only availabl
 
 </details>
 
-
 ## Candidate Handbook Pages
 ---
 Please find pages for potential and active applicants below.
@@ -68,14 +64,12 @@ Please find pages for potential and active applicants below.
 - [Candidate Handbook Page](/handbook/hiring/candidate/faq/)
 - [Talent Acquisition Privacy Policy](/handbook/hiring/candidate/faq/recruitment-privacy-policy/)
 
-
 ## Interviewer Processes
 ---
 
 - [Interviewer Prep Requirements](/handbook/hiring/interviewing/)
 - [Conducting a GitLab Interview](/handbook/hiring/conducting-a-gitlab-interview/)
 - [Greenhouse for Interviewers](/handbook/hiring/greenhouse/#for-all-interviewers/)
-
 
 ## Hiring Manager Processes
 ---
@@ -99,13 +93,10 @@ Please find pages for potential and active applicants below.
 - [Prelude](/handbook/hiring/prelude)
 - [How to Complete a Contract - CES Process](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/)
 
-
-
 ## Recruiters and Sourcers
 ---
 
 #### Opening a job
-
 
 <details>
 <summary markdown="span">Get your headcount assignments</summary>
@@ -186,9 +177,9 @@ Scorecards are required in all stages that require interviews. Confidential, per
   * [**Assessment:**](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan) This is an optional stage where written assignments can be submitted. Learn more [here](/handbook/hiring/talent-acquisition-framework/req-creation/#update-the-interview-plan). 
   * **Initial Interview:** This is the first video interview with a member of the team, which helps determine if they will move forward to additional interviews. This stage ensures we are utilizing the interviewers' and candidates' time thoughtfully, and is typically either a Hiring Manager or Technical interview.
   * [**Team Interview:**](/handbook/hiring/talent-acquisition-framework/req-overview/#team-interview) All other team interviews live here. 
-  * [**Debrief:**](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#debrief) This will come after the reference check stage for Engineering requisitions, because the reference checks will be initiated as the Justification (R&D's process for the Debrief stage) is initiated. For non-Engineering departments, this will be a holding stage where candidates wait until a decision is made, to track the time it takes for us to reach a decision on a candidate who has completed their interviews. You can learn more about Engineering's Justification process [here](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#debrief). 
-  * [**Reference Check:**](https://about.gitlab.com/handbook/hiring/#offers-and-closing-reqs) The reference check stage can sometimes be done in tandem with the Debrief and Background Check and Offer stages. They can be completed by the Hiring Manager or Recruiter.
-  * [**Background Check and Offer:**]((https://about.gitlab.com/handbook/hiring/#offers-and-closing-reqs)) Recruiters move candidates into this stage once they're ready to receive their verbal offer. Before that time, this stage is where an offer is prepared and goes through approvals. This is the final stage in the process.
+  * [**Debrief:**](/handbook/hiring/talent-acquisition-framework/offer-process/#debrief) This will come after the reference check stage for Engineering requisitions, because the reference checks will be initiated as the Justification (R&D's process for the Debrief stage) is initiated. For non-Engineering departments, this will be a holding stage where candidates wait until a decision is made, to track the time it takes for us to reach a decision on a candidate who has completed their interviews. See the [Engineering's Justification process](/handbook/hiring/talent-acquisition-framework/offer-process/#debrief). 
+  * [**Reference Check:**](/handbook/hiring/#offers-and-closing-reqs) The reference check stage can sometimes be done in tandem with the Debrief and Background Check and Offer stages. They can be completed by the Hiring Manager or Recruiter.
+  * [**Background Check and Offer:**](/handbook/hiring/#offers-and-closing-reqs) Recruiters move candidates into this stage once they're ready to receive their verbal offer. Before that time, this stage is where an offer is prepared and goes through approvals. This is the final stage in the process.
 </details>
 
 <details>
@@ -393,13 +384,11 @@ Processing for the United Arab Emirates could take up to a month, so we recommen
   </details>
 
 
-
 ## Other Hiring Pages
 ---
 
 - [Greenhouse](/handbook/hiring/greenhouse/)
 - [Talent Acquisition Process Framework](/handbook/hiring/talent-acquisition-framework/)
-
 
 
 ## Additional Resources
