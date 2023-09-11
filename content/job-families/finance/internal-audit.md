@@ -11,7 +11,7 @@ The Internal Audit and SOX function has a career ladder represented below:
 |-----------------------------------------------------|-------|
 | [Internal Auditor](#internal-auditor) <br> [SOX Compliance Analyst](#internal-auditor) | 6 |
 | [Sr Internal Auditor](#senior-internal-auditor) <br> [Sr SOX Compliance Analyst](#senior-internal-auditor)| 7 |
-| [Internal Audit and SOX Manager](#internal-audit-and-sox-manager) <br> [Manager, Internal Audit](#manager-internal-audit) <br> [Staff Auditor, IT and Security](#Staff-Auditor,-IT-and-Security) | 8
+| [Internal Audit and SOX Manager](#internal-audit-and-sox-manager) <br> [Manager, Internal Audit](#manager-internal-audit) <br> [Staff Internal Audit & SOX Compliance Analyst](#staff-internal-audit--sox-compliance-analyst) | 8
 | [Sr Manager, Internal Audit](#senior-manager-internal-audit) <br> [Sr Audit Manager, IT and Security](#senior-audit-manager-it-and-security) | 9 |
 | [Director, Internal Audit](#director-internal-audit) | 10 |
 |[VP, Internal Audit](#vice-president-internal-audit) | 12 |
