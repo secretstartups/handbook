@@ -11,10 +11,9 @@ description: "Product Designers, Product Design Managers, the Director of Produc
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 ## Hiring process
 
-Product Designers follow the [Engineering hiring process](/handbook/engineering/#hiring-practices).
+Product Designers follow the [Hiring & Talent Acquisition process](/handbook/hiring/).
 
 General resources:
 - [Interviewing at GitLab](/handbook/hiring/interviewing/#conducting-a-gitlab-interview)
@@ -23,6 +22,7 @@ General resources:
 ## Interviews for Product Designers
 
 Each Product Designer candidate is interviewed by a panel of interviewers that include:
+
 - Product Designer
 - Product Design Manager
 - Senior Manager of Product Design
@@ -40,10 +40,11 @@ An interview rubric has been defined that provides a set of positive answer trai
 Use this rubric comparison/assessment to help with your final scorecard assessment prior to your scorecard submission.
 
 ### Interview rubrics
-1. Product Designer - [Senior Candidate Rubric](https://docs.google.com/document/d/1LLWyEmegVh1m78r4UMTdgGpgB1fpCCqQ6dB6WASBNAw/edit?usp=sharing)
-2. Product Designer - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1EjD-G1KUADLeoGpPEOs2e19_oNeDnL8jC95UMSUo864/edit?usp=sharing)
-3. Product Design Manager - [Senior Candidate Rubric](https://docs.google.com/document/d/1iiMrOtnEc9XRheJ1AAfLSKcPk4Qbr1WKPiubKFCHhbY/edit?usp=sharing)
-4. Product Design Manager - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1Z8MlKQ5S7sMR2jJTNR5weYxMu9c1tpmvUE4ZXpDcqBo/edit?usp=sharing)
+
+1. Product Designer (peer) interview - [Senior Candidate Rubric](https://docs.google.com/document/d/1LLWyEmegVh1m78r4UMTdgGpgB1fpCCqQ6dB6WASBNAw/edit?usp=sharing)
+2. Product Designer (peer) interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1EjD-G1KUADLeoGpPEOs2e19_oNeDnL8jC95UMSUo864/edit?usp=sharing)
+3. Manager interview - [Senior Candidate Rubric](https://docs.google.com/document/d/1iiMrOtnEc9XRheJ1AAfLSKcPk4Qbr1WKPiubKFCHhbY/edit?usp=sharing)
+4. Manager interview - [Intermediate Candidate Rubric](https://docs.google.com/document/d/1Z8MlKQ5S7sMR2jJTNR5weYxMu9c1tpmvUE4ZXpDcqBo/edit?usp=sharing)
 
 ## Interview training
 
@@ -59,7 +60,7 @@ You may request additional shadow opportunities, if you'd like additional practi
 Everyone who interviews a candidate must complete a scorecard and is required to input pros and cons as well as an overall recommendation.
 
 #### Interview scorecards
-- [Talent Acquisition Process: Hiring team to complete feedback in Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
+- [Talent Acquisition Process: Hiring team to complete feedback in Greenhouse](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
 
 ##### Tips for completing interview scorecards
 
@@ -69,8 +70,11 @@ Everyone who interviews a candidate must complete a scorecard and is required to
 - Add your assessment of the candidate in the Pros/Cons sections of the Greenhouse Scorecard.
 - Complete your assessment of the candidate's Attributes, only providing an assessment of the attributes that were discussed, and were available on their resume/CV, or portfolio. If an assessment didn't come, leave it unanswered.
 
+### Manager resources
+
 #### Reference scorecards
-- [Talent Acquisition Process: Complete references](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
+
+- [Talent Acquisition Process: Complete references](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-7hm-complete-references)
 
 #### Justification scorecards
 
