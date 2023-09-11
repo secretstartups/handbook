@@ -52,13 +52,13 @@ The following are measures of a successful unconference session:
 
 ### Workshops
 
-### What to expect
+### What to expect at a workshop
 
 1. A workshop is an interactive training of 50 minutes including Q&A (topic examples: Kubernetes 101, Speaker Training, AI, etc.)
 1. Everyone can participate. It’s a workshop, not a presentation. Everyone in the room should be able to participate.
 1. Can be a small or large number of people. Larger groups may need multiple facilitators or coaches to ensure everyone can participate.
 
-### How to host
+### How to host a workshop
 
 1. Requires preparation and coordination ahead of time to facilitate a productive workshop:
 1. Room needs to be set up.
@@ -66,7 +66,7 @@ The following are measures of a successful unconference session:
 1. Supplemental materials may need to be created.
 1. Can be simple and lightweight (e.g. bring your laptop and learn: how to use git, how to make an MR, how to contribute to GitLab, etc. This is content that already exists in the handbook/website, but it can be very helpful to have someone walk you through it in person).
 
-### Results
+### Results of a workshop
 
 The following are measures of a successful workshop:
 
