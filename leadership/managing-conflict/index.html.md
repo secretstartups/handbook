@@ -78,7 +78,7 @@ Managing conflict through team input.
     *   Reconciling interest through a "win-win" solution - "You need to fund project X but I need to project Y, how can we do both?"
     *   Combining insights into a richer understanding - "You are praising X's technical skills, however I have concerns about their iteration and collaborations skills.  Both are true aren't they?  They have high potential if they can improve on their interpersonal skills."
 
-## 7 tips for managing conflict
+## 8 tips for managing conflict
 1.  **Management/leadership sets the tone**
     * A workplace built on mutual respect
     * Manager/leaders behaivor and actions provide team members with a model to follow
@@ -94,6 +94,8 @@ Managing conflict through team input.
     * Team members in meaningful conflict situations must be respectful of others and should not be allowed to make personal attacks.
 1.  **Encourage transparency and inclusion**
     * All team members must feel free to express their opinions in a non judgemental environment.
+1.  **Serve as a resource**
+    * Serve as a resource in business decisions to [coach through conflict](https://about.gitlab.com/handbook/leadership/managing-conflict/#balancing-conflict) and understand a path forward to support [GitLab’s Vision](https://about.gitlab.com/direction/#vision).
 
 ## Balancing conflict
 

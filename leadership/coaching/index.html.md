@@ -335,6 +335,7 @@ The coach might also want to end the conversation with a few statements about wh
 * Championing
 * Challenging
 * Identifying underlying limiting beliefs, assumptions, and mindset
+* [Tips for managing conflict](/handbook/leadership/managing-conflict/#8-tips-for-managing-conflict)
 
 ## Live Learning Session 
 
