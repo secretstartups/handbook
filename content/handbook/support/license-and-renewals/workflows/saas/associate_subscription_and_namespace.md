@@ -65,8 +65,8 @@ Associating a group with a subscription in CustomersDot:
 1. Go to **Manage Purchases**.
 1. Do one of the following:
    - If the subscription is not linked to a namespace, select **Link subscription to a group**.
-   - If the subscription is already linked to a namespace, select **Subscription actions** (**{ellipsis_v}**) > **Change linked group**.
-1. On the **Change subscription namespace** page, from the **New namespace** dropdown list, select the group you want.
+   - If the subscription is already linked to a namespace, select **Subscription actions** (&nbsp;<i class="me-1 fa-solid fa-ellipsis-vertical"></i>) > **Change linked group**.
+1. On the **Change subscription namespace** page, from the **namespace** dropdown list, select the group you want.
 1. Check your billing information and select **Confirm purchase**.
 
 **Note:** if the relevant namespace is grayed out or not on the namespace drop-down list, they cannot proceed -- they need assistance from Support to complete the association. Use the following information to determine the correct next step:
