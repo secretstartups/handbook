@@ -21,11 +21,9 @@ Questions, comments, and feedback can be posted in the [#women-at-gitlab-mentors
 
 <div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/loader-default.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="645a9bb0944010001175f43d" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
-
 # History
 
 In 2020, the Women's TMRG partnered with the Sales Organization at GitLab to offer the [Women in Sales Mentorship Program pilot](/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot). This initial iteration was a huge success and inspired the scale of this iteration to include a wider audeince. The program now runs on a yearly basis and has been expanded to include mentees who identify as women and non-binary team members.
-
 
 ## Testimonials
 
@@ -33,16 +31,15 @@ Don't take our word for it - check out what mentors and mentees at GitLab have t
 
 **From the Mentees**
 
-`This mentorship program has been one of the highlights from my time at GitLab so far. My mentor is a great example of an empathetic leader who is great at strategic planning and communicating effectively. I was able to learn things during the program that I immediately applied to my work, and she inspired and motivated me in a way will persist much longer. My mentor has become one of my new role models, and I plan on keeping in touch with her far beyond this program's end.`
+> This mentorship program has been one of the highlights from my time at GitLab so far. My mentor is a great example of an empathetic leader who is great at strategic planning and communicating effectively. I was able to learn things during the program that I immediately applied to my work, and she inspired and motivated me in a way will persist much longer. My mentor has become one of my new role models, and I plan on keeping in touch with her far beyond this program's end.
 
-`This was my first mentorship experience and I'm so glad I participated. I found my self confidence in my mentor session. I lacked that for so many years and to be reminded of my self value and worth was so enriching. I would highly recommend participating!`
+> This was my first mentorship experience and I'm so glad I participated. I found my self confidence in my mentor session. I lacked that for so many years and to be reminded of my self value and worth was so enriching. I would highly recommend participating!
 
 **From the Mentors**
 
-`I’ve been a Mentor throughout my career, the GitLab program is hands down the best experience I’ve had. Both Mentor and Mentee are provided with resources and guidance to ensure a successful connection.`
+> I’ve been a Mentor throughout my career, the GitLab program is hands down the best experience I’ve had. Both Mentor and Mentee are provided with resources and guidance to ensure a successful connection.
 
-`One of the elements I really enjoyed about this program was the opportunity to meaningfully connect with someone outside of my team - we both learned from each other!`
-
+> One of the elements I really enjoyed about this program was the opportunity to meaningfully connect with someone outside of my team - we both learned from each other!
 
 # Program Structure
 
@@ -50,11 +47,10 @@ Don't take our word for it - check out what mentors and mentees at GitLab have t
 | ----- | -------- |
 | **Start of Program Feedback Form** | A Culture Amp survey to measure results of the program. Participation is **required**. |
 | **Mentor/Mentee Training** | Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is **required** of all mentors and mentees. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training), created using content from the LinkedIn course. |
-| **Initial program kickoff** | A 25-minute discussion to meet other mentors and mentees in the program. Attendance is **encouraged.**. |
+| **Initial program kickoff** | A 25-minute discussion to meet other mentors and mentees in the program. Attendance is **encouraged**. |
 | **1:1 Mentor Sessions** | Mentors and mentees should meet every other week for 30-minutes for a total of 5 months (with the option to extend). Sessions are led by the mentee and should be focused on specific goals. Attendance is **required**. |
 | **Mentor/Mentee Resources** |[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) are available as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. Use of resources is encouraged but not required. |
 | **End of Program Feedback Form** | A Culture Amp survey to measure results of the program. Participation is **required**. |
-
 
 ## Current Program Timeline
 
@@ -69,9 +65,8 @@ Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf5yUA-H0RS
 | 2023-06-30   | Pairing of mentor relationships complete and communicated to applicants | |
 | By 2023-07-14   | Pre-Program survey sent via Culture Amp | |
 | By 2023-07-14 | Mentor/Mentee pre-program coffee chats | |
-| 2023-07-12 and 2023-07-13  | Initial program Kickoff meeting |```
+| 2023-07-12 and 2023-07-13  | Initial program Kickoff meeting |
 | Week of 2023-11-30 | End of program feedback due |  |
-
 
 # Being a Mentor
 
@@ -161,7 +156,6 @@ Other mentorship resources at GitLab can be found [here in the handbook](/handbo
 
 1. Total Participants: 137 team members / 73 mentor/mentee pairs
 
-
 ## 2022
 
 ### Participation 
@@ -198,15 +192,15 @@ Skill development was a key variable used to measure success of this program.
 1. 95.2% of mentees agree that this program strengthened my self-confidence.
 1. 100% of mentees would suggest other GitLab team members join this program as a mentee?
 
-`I am grateful the company has invested in the Women in GitLab mentorship program. My mentor and I had both a very structured approach to our relationship, but then also took the time to get to know each other and build trust, which allowed for open and honest discussions. I would recommend other team members showing up for this program, both on the mentor and mentee side!`
+> I am grateful the company has invested in the Women in GitLab mentorship program. My mentor and I had both a very structured approach to our relationship, but then also took the time to get to know each other and build trust, which allowed for open and honest discussions. I would recommend other team members showing up for this program, both on the mentor and mentee side!
 
-`Having someone that is not my manager to work through developmental goals has been extraordinary and I am grateful to my mentor for all the feedback and support as I went from feeling heavy with imposter syndrome to believing in myself and my knowledge level!`
+> Having someone that is not my manager to work through developmental goals has been extraordinary and I am grateful to my mentor for all the feedback and support as I went from feeling heavy with imposter syndrome to believing in myself and my knowledge level!
 
-`Women at GitLan Mentorship Program has been a crucial experience for me. My mentor is an outstanding leader who supported me in most useful ways, strengthening especially my self-value and goal-setting skills. She sought out opportunities for me, asked good questions and listened intently - all that has already helped with furthering my career development here at GitLab. I'm grateful to her and for that program, and I recommend it greatly.`
+> Women at GitLan Mentorship Program has been a crucial experience for me. My mentor is an outstanding leader who supported me in most useful ways, strengthening especially my self-value and goal-setting skills. She sought out opportunities for me, asked good questions and listened intently - all that has already helped with furthering my career development here at GitLab. I'm grateful to her and for that program, and I recommend it greatly.
 
-`The Women at GitLab Mentorship program gave me the opportunity to grow as a mentor by providing resources on how to better my listening and guidance skills so that I could better mentor across disciplines.`
+> The Women at GitLab Mentorship program gave me the opportunity to grow as a mentor by providing resources on how to better my listening and guidance skills so that I could better mentor across disciplines.
 
-`The GitLab mentorship program is an incredible opportunity to step out of your usual role and look at your management style from a more holistic perspective, taking a moment to get out of the weeds and look more at the big picture. I learned so much from my mentee! I took these learnings back to my team, in terms of my management style. It also gave me time to recognize the strengths of my team in terms of how we present large initiatives to a boarder audience as this was an ask of my mentee and something we worked on together.`
+> The GitLab mentorship program is an incredible opportunity to step out of your usual role and look at your management style from a more holistic perspective, taking a moment to get out of the weeds and look more at the big picture. I learned so much from my mentee! I took these learnings back to my team, in terms of my management style. It also gave me time to recognize the strengths of my team in terms of how we present large initiatives to a boarder audience as this was an ask of my mentee and something we worked on together.
 
 ## 2021
 
@@ -250,5 +244,3 @@ Skill development was a key variable used to measure success of this program.
 - 55% of mentees want to participate as mentors in future iterations of this program
 - 91.3% of mentors had the time, resources, and support to be a great mentor
 - 86.9% thought their mentee was a good fit based on their career history and expertise
-
-
