@@ -56,6 +56,7 @@ Each case scenario is broken down into specific case triggers.  Details of the c
 - Enter your name in the Owner Name box, and click **Save**
 - Contact the customer listed on the Case
 - Update the Case, and the Opp as needed. (See this [cheat sheet](https://docs.google.com/spreadsheets/d/1fDEr7dDfN3ZCJZAd1UU6v6TNntC-tSBbB0p3O7eLFlI/edit#gid=0) which explains which fields need to updated, and when). 
+- The Pooled AE must also add the end user contact they are engaged with, to the **Contact** field of the case.
 - Once resolved, close out the case and the related opp (if one exists).
 
 ## How any GitLab Team Member can create a case, to loop in the AMER Pooled Team
