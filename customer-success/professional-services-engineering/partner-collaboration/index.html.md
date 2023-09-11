@@ -61,7 +61,7 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 - Any migration to gitlab.com requires PSE involvement due to needing admin tokens to create users on gitlab.com
 - Partners (Indirect) (project based and staff aug) can use congregate and supporting automation utilities.
 - As partners start migration projects, they can use the [Migration Kickoff Deck](https://docs.google.com/presentation/d/1AzM_qYKKOYhgvNTrEBXRmFT2m0caBuKZ6VAH6sCbiKQ/edit#slide=id.g7c1de0839e_0_0) or [Migration Early Adopter Kickoff](https://docs.google.com/presentation/d/19pNUZljJ7mOM8SQ31miYzaU4lXcmHI96Q6yJKqQ2dx4/edit) (for larger engagements) to help facilitate discovery discussions.
-- When using [congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate), you will need to deploy it somewhere. If you need to deploy it within the customer firewall, make sure any hot-fixes you make to migration services source code you port back to the migration services projects.
+- When using [congregate](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate), you will need to deploy it somewhere. If you need to deploy it within the customer firewall, make sure any hot-fixes you make to migration services source code you port back to the migration services projects.
 
 ### Consulting Services
 - Require discovery sessions to further define the problem space that customer is trying to solve
