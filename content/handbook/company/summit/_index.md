@@ -10,10 +10,6 @@ Summit is an all-company team member gathering to foster collaboration, alignmen
 
 The goal of Summit is to build trust through social connections.
 
-### Upcoming Summit
-
-The next Summit is planned to be in Las Vegas, NV, USA. More information is available on the [Summit landing page](https://about.gitlab.com/events/summit-las-vegas/).
-
 ### Sessions
 
 We're looking forward many user-proposed [sessions](/handbook/company/summit/unconference), including unconferences and workshops.
