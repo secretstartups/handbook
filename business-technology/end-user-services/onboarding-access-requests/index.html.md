@@ -148,6 +148,8 @@ Should a laptop not be available to a new GitLab team-member upon their start da
 
 If in the rare case that your laptop arrives damaged or unusable prior to your start date, please reach out to your Candidate Experience Specialist and CC [itops@gitlab.com](mailto:itops@gitlab.com) for next steps on an immediate replacement or repair.
 
+If you are unable to complete any of the steps above, you may request a Laptop Exception using this [template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/Laptop%20Exception%20Request). These requests require approval from leadership across multiple departments and are discouraged due to the possibility of data leakage.
+
 ### Laptop Configurations
 
 GitLab approves and supports the use of Linux and Apple's macOS as the OS for employee laptops. To keep GitLab IT Support efficient, Windows is not supported as a hardware laptop OS.
