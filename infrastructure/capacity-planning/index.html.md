@@ -96,6 +96,7 @@ Capacity Planning issues are created without a state. After the initial assessme
 
 1. `capacity-planning::investigate` - this alert requires further active assessment before deciding on a course of action
 1. `capacity-planning::monitor` - we need to wait for time to pass to gather further data on this issue to make a decision on how to proceed
+1. `capacity-planning::tune model` - we determined the issue isn't relevant at this point in time and intend to tune the forecasting model while we continue to monitor the issue
 1. `capacity-planning::in-progress` - there is a mitigation in progress for this alert
 1. `capacity-planning::verification` - we have completed work on this issue and are  verifying the result
 
