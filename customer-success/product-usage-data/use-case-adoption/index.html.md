@@ -85,9 +85,9 @@ Overall Score for CI = `70.83` or Yellow
 SCM is considered one of the initial land use cases. To that end, we want to ensure the customer is using it appropriately.
 Adoption timeline: 1 months after license purchase
 
-|                       | **Red** | **Yellow** | **Green** |
-| --------------------- | ------- | ---------- | --------  |
-| [`Git Operations - Users L28D`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) ÷ [`Billable Users`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | < 25%    | ≥ 25 - < 50%     | ≥ 50%    |
+|         Metric        | Calculation | **Red** | **Yellow** | **Green** |
+| --------------------- |-------|-------| ---------- | --------  |
+| Git Operation Utilization % | [`Git Operations - Users L28D`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216182040_action_monthly_active_users_project_repo.yml) ÷ [`Billable Users`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | <25%    | ≥25 - <50%     | ≥50%    |
 
 ##### **Green Adoption Criteria:** 
 
@@ -98,9 +98,9 @@ When 50% or more Billable Users have triggered any Git Operation (Read/Write/Pus
 CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). 
 Adoption timeline: 1 months after license purchase
 
-|  | **Red** | **Yellow** | **Green** |
-|---|---|---|---|
-| CI Pipelines Utilization % ([CI Pipelines - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | < 25% | ≥ 25% - < 50% | ≥ 50% |
+| Metric | Calculation | **Red** | **Yellow** | **Green** |
+|---|---|---|---|---|
+| CI Pipeline Utilization % | [CI Pipelines - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216175554_ci_pipelines.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | <25% | ≥25% - <50% | ≥50% |
 
 ##### **Green Adoption Criteria:**
 
@@ -110,11 +110,11 @@ When 50% or more of unique `Billable Users` have triggered a distinct `CI Pipeli
 
 These Security (DevSecOps) metrics are available for all customers. Adoption timeline: 1 months after license purchase
 
-|  | **Red** | **Yellow** | **Green** |
-|---|---|---|---|
-| Secure Scanner Utilization % ([Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | ≤ 5% | > 5% - < 20% | ≥ 20% |
-| Container Scanning Jobs Utilization % ([Container Scanning Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216175505_user_container_scanning_jobs.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | ≤ 3% | > 3% - < 10% | ≥ 10% |
-| Secret Detection Jobs Utilization % ([Secret Detection Jobs - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216182127_user_secret_detection_jobs.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | ≤ 6% | > 6% - < 20% | ≥ 20% |
+| Metric | Calculation | **Red** | **Yellow** | **Green** |
+|---|---|---|---|---|
+| Secure Scanner Utilization % | [Secure Scanners - Users L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216181956_user_unique_users_all_secure_scanners.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | ≤5% | >5% - <20% | ≥20% |
+| Avg. Scan per CI Pipeline | [Secret Detection](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231956_secret_detection_scans.yml) + [Dependency Scan](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183828_dependency_scanning_scans.yml) + [Container Scan](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231849_container_scanning_scans.yml) + [SAST](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231329_sast_scans.yml) + [DAST](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183832_dast_scans.yml) + [Coverage Fuzzing](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183836_coverage_fuzzing_scans.yml) + [API Fuzzing](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183838_api_fuzzing_scans.yml) ÷ [CI Internal Pipelines - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20230217215050_ci_internal_pipelines.yml) | <0.1 | ≥0.1 - ≤0.5 | >0.5 |
+| Number of Scanners in Use | SUM of [Secret Detection](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231956_secret_detection_scans.yml) + [Dependency Scan](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183828_dependency_scanning_scans.yml) + [Container Scan](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231849_container_scanning_scans.yml) + [SAST](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210830231329_sast_scans.yml) + [DAST](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183832_dast_scans.yml) + [Coverage Fuzzing](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183836_coverage_fuzzing_scans.yml) + [API Fuzzing](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/counts_28d/20210216183838_api_fuzzing_scans.yml) | ≤1 | 2 | ≥3 |
 
 ##### **Green Adoption Criteria:**
 
@@ -125,11 +125,11 @@ Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the th
 CD is considered an expansionary use case (one after the initial purchase intent has been solved). 
 Adoption timeline: 1 months after license purchase
 
-|                    | **Red** | **Yellow** | **Green** |
-| ------------------ | ------- | ---------- | --------  |
-| User Deployments Utilization % ([Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | < 5%    | 5-12%     | > 12%    |
-| Deployments Per User L28D ([Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml)) | < 2 | 2 - 7 | > 7 |
-| Successful Deployments % ([Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) ÷ (Successful Deployments - L28D + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml))) | < 25% | 25% - 80% | > 80% |
+|       Metric       | Calculation | **Red** | **Yellow** | **Green** |
+| ------------------ | ------- | ---------- | --------  | -------- |
+| User Deployments Utilization % | [Deployments - User L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181935_deployments.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | <5%    | 5-12%     | >12%    |
+| Deployments Per User L28D | [Deployments L28D (event)](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210201124930_deployments.yml) ÷ [Billable Users](https://gitlab.com/gitlab-org/gitlab/-/blob/master/ee/config/metrics/license/20210531204603_license_billable_users.yml) | <2 | 2 - 7 | >7 |
+| Successful Deployments % | [Successful Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181923_successful_deployments.yml) ÷ (Successful + [Failed Deployments - L28D](https://gitlab.com/gitlab-org/gitlab/-/blob/master/config/metrics/counts_28d/20210216181924_failed_deployments.yml)) | <25% | 25% - 80% | >80% |
 
 ##### **Green Adoption Criteria:**
 
@@ -141,8 +141,6 @@ Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the th
    1. [INTERNAL - Customer Availability, Eligibility & Opt-Out](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/#customer-availability-eligibility--opt-out)
    1. [Cloud Licensing Adoption Dashboard](https://10az.online.tableau.com/#/site/gitlab/views/WIPCloudLicensingPOC/CloudLicensingAdoption?:iid=1)
    1. **Resolution**: Exceptions are considered valid reasons for a customer to not be sending data. However, we have made more exceptions than planned and will be working on enablement on removing exceptions at time of renewal wherever possible.
-1. Security (DevSecOps) health scores are currently user based. However, that is an inadequate method to measure value adopted as some customers allow everyone to run scans and some hold those to a small portion of users. The future plan is to look to event based metrics, such as the number of scans and other features (see [epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253))
-   1. **Resolution**: The Security (DevSecOps) health score is [being refactored](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/253) to align to a better proxy 
 1. Usage is measured at the instance level, which is attached to a subscription, attached to an account. So a "Account" health score is a view of a single instance (the most important one) but, for more complex accounts, that can hide the health of other instances and subscriptions (see [graph](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#csmcse-actions)) that shows how a single account can have multiple subscriptions and each subscription could have multiple instances (self-managed only). Process for dealing with [multiple production instances](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/#multiple-production-instances-health-scoring)
    1. **Resolution**: The ideal outcome is to "split" subscriptions apart into relevant child accounts, which is being [discussed here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/3032)
 1. `Billable Users` was a metric introduced in 14.0. Any customers on an older (self-managed) instance will not have this value and License Utilization will appear as NULL (note: this is a non-issue for SaaS customers)
