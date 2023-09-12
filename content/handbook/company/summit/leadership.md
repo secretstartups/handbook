@@ -4,17 +4,15 @@ title: "Leaders at Summit"
 description: "Company leaders who attend Gitlab Summit should take the opportunity to engage with GitLab team-members across the organization."
 ---
 
-- TOC
-{:toc}
-
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/39chczWRKws?start=1756" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-<small>
-For the context of this video, please see the [project challenges in the Greece recap](https://about.gitlab.com/blog/2017/10/25/gitlab-summit-greece-recap/#summit-challenges)</small>
+{{< note >}}
+For the context of this video, please see the [project challenges in the Greece recap](https://about.gitlab.com/blog/2017/10/25/gitlab-summit-greece-recap/#summit-challenges)
+{{< /note >}}
 
-[Company leaders](/handbook/leadership/) who attend Gitlab Contribute should take the opportunity to engage with GitLab team-members across the organization and should be mindful of silos and favoritism as they observe team dynamics.
+[Company leaders](https://about.gitlab.com/handbook/leadership) who attend Gitlab Contribute should take the opportunity to engage with GitLab team-members across the organization and should be mindful of silos and favoritism as they observe team dynamics.
 
 ### Be conscious
 
@@ -80,8 +78,6 @@ References:
 
 ## Health and safety
 
-{: #health-and-safety}
-
 - Look after your self during Contribute and avoid event burnout. It can be an exciting time with lots of new people to meet and things going on you want to take part in. Remember to take down-time if you need it to recuperate during the week rather than trying to [burn the candle at both ends](https://dictionary.cambridge.org/dictionary/english/burn-the-candle-at-both-ends) and risking exhaustion.
 - Every year about a third of us have some kind of flu after the event, so please take infection prevention seriously.
 - Use hand sanitizer after getting your food and before eating. [Shared buffet utensils spread disease.](http://www.cruisereport.com/crBlogDetail.aspx?id=3683) We will do our best to provide hand sanitizer to everyone whenever we can.
@@ -91,8 +87,6 @@ References:
 - Utilize the resources available to understand the safety and crime considerations in the location we are visiting. Examples are the [UK's Foreign Travel Site](https://www.gov.uk/foreign-travel-advice) and the [U.S. State Department](https://travel.state.gov/content/passports/en/country.html). If you are alarmed by what you are reading, please feel free to reach out to People Ops Team with your concerns. We also advise reviewing the data for countries you feel are safe. You may find that even the safest countries have warnings on crime and safety. Staying with a group and away from known dangerous areas is the most basic way of avoiding problems.
 
 ## Inclusion
-
-{: #inclusion}
 
 - We provide pronoun stickers during check in so that everyone feels welcome and included
 - We provide greeting stickers (Eg. wave, hand shake, hugs) during check in so that each person is able to share how they would like to be greeted. Each person may have different preferences in how they feel most comfortable greeting others and we would like to be mindful and inclusive of that.
