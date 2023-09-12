@@ -24,20 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Git Basics
-##### September 8th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-New to Git? Join this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yizF5bvKRmWMzfTNCl-FIA#/registration)
-
-#### Intro to GitLab
-##### September 12th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_t6S-sdvsQn-S5efqQl5cXg#/registration)
-
 #### Hands-On GitLab CI Workshop for Jenkins Users
 ##### September 12th, 2023 at 3:30-5:00PM Pacific Time / 6:30-7:00PM Eastern Time / 8:30-9:00AM UTC+10
 
@@ -129,20 +115,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_sBib1IoCS6-ChIsigMW7QQ#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to GitLab
-##### September 8th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_qO0JbHVYR7ev3QQ6tWKUHg#/registration)
-
-#### Intro to CI/CD
-##### September 12th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BD7-Q11cS4-dK08Md7R8aw#/registration)
 
 #### Advanced CI/CD
 ##### September 15th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
