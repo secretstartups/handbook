@@ -23,12 +23,14 @@ The Renewals Operations Analyst (Intermediate) is a [grade 6](https://about.gitl
 
 #### Renewals Operations Analyst (Intermediate) Responsibilities
 
-- Maintain and report an accurate rolling 12+ month forecast of renewals for the global Commercial Sales Team
+- Support the maintenance of an accurate rolling 12+ month forecast of renewals
+- Support the Renewals team with day to day requests such as prcoess guidance, data quality and complex deal management
 - Build and maintain reports for key metrics such as renewal revenue, bookings, retention rate, and overall customer health
 - Actively engage with key sales leaders and decision-makers to identify customer requirements and uncover roadblocks to ensure on-time renewals and retention goals
 - Work with cross-functional teams like Product, Strategy, and Finance to champion impactful process improvement and automation for the benefit of Renewals
 - Develop playbooks for renewal engagement maximizing revenue retention
 - Identify opportunities for process automation and optimization, with a focus on scalability and driving significant growth
+- Identify and report on Churn, Contraction and Growth trends within the book of business and effectively communicate them to cross functional leaders
 - Improve the sales team’s effectiveness and efficiency and provide increased customer insights through data, automation, and product analytics
 - Proactively drive a high degree of CRM data quality by leveraging creative system solutions and delivering end-user training
 
