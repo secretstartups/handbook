@@ -33,7 +33,7 @@ The **readiness review issue** is used to coordinate among stakeholders who will
 
 The Production Readiness process is authored by the DRI of the work that is being delivered.
 
-1. [Create an issue][new issue] using the issue template in the [readiness project][https://gitlab.com/gitlab-com/gl-infra/readiness]. The title of the issue should be a descriptive name of change.
+1. [Create an issue][new issue] using the issue template in the [readiness project](https://gitlab.com/gitlab-com/gl-infra/readiness). The title of the issue should be a descriptive name of change.
 2. Follow the Readiness Checklist in the template.
 
 ## Guidelines for the author
