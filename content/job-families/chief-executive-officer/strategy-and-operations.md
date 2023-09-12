@@ -227,6 +227,18 @@ dependencies to achieve project goals
 - Can speak Mandarin and read Simplified Chinese
 - Can work with some overlap with PST and CST timezones. This role would likely be based somewhere in APAC. Not based in China, Macau, or Hong Kong
 
+##### Strategy and Operations (Content)
+
+- Extends that of the Senior Manager, Staff, Principal, or Director level Strategy and Operations
+- Proven ability to write high-quality, long-form or short-form content on complex topics
+- Captures the voice of the CEO in key internal and external communiations
+- Manages end-to-end development of content with internal teams, ensuring all production deliverables are met on-time and within scope on multiple concurrent projects
+- Strategically translates messaging into accurate, targeted, and compelling content
+- Ability to produce multiple blogs, LinkedIn posts, and Twitter blasts each week
+- 3+ years in a content-related role
+- Proven experience writing for technical audiences on one or more of the following topics: Coding, DevOps, Cloud Computing, IT Infrastructure, Cyber Security, or Application Security
+- In-depth industry experience and knowledge in a specialty
+
 ## Performance Indicators
 
 - [Throughput - Issues or merge requests closed as measurement of projects iterated on](https://about.gitlab.com/handbook/ceo/chief-of-staff-team/performance-indicators/#throughput-for-the-cost)
