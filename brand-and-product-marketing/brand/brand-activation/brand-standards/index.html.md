@@ -29,15 +29,16 @@ Brand extensions are directly aligned with GitLab marketing initiatives and conn
 An example of a brand extension is the [Partner Leadership Summit](https://twitter.com/hapapower/status/1529106372771577857). This brand extension builds upon the core branding by incorporating new elements, such as the distinct arrow motif, that make it stand apart from our standard marketing collateral.
 
 Here are the style guides for existing brand extensions:
+- [GitLab Duo](https://www.figma.com/proto/5MrZGllC83sH3HHnlOtyl7/GitLab-Duo-Style-Guide?type=design&node-id=2-2&t=04Rm1rOtcZUTjgBq-0&scaling=contain&page-id=0%3A1)
 - [Partner Leadership Summit](https://www.figma.com/proto/oXk59yUAsJm7ZAqSUK4LhI/Alliance-%26-Channel-Partner-Summit?page-id=296%3A153&node-id=296%3A321&viewport=3169%2C1327%2C1&scaling=contain)
 
 ### Sub-branding Strategy
 Sub-brands are established for approved initiatives that generate awareness, but don't explicitly connect back to our product. They typically have their own marketing strategy but can be included in ongoing initiatives as well. Sub-brands embrace the guidelines of the core GitLab brand (visually and tonally), while incorporating unique additional creative elements (i.e. a distinct logo, alternative illustration style, etc.). Sub-brands should reflect GitLab's core branding and not feel like a complete departure from it. 
 
-An example of a sub-brand is [LevelUp](https://levelup.gitlab.com/), GitLab's certification program. While Level Up offers technical training for the product, it has a broader focus on DevOps as a whole, which extends beyond the company and product.
+An example of a sub-brand is [Level Up](https://levelup.gitlab.com/), GitLab's certification program. While Level Up offers technical training for the product, it has a broader focus on DevOps as a whole, which extends beyond the company and product.
 
 Here are the style guides for existing sub-brands:
-- [LevelUp](https://www.figma.com/proto/cnr9OJiJH7zKszF9VAD3rd/Level-Up-Style-Guide?page-id=0%3A1&node-id=2%3A2&viewport=296%2C240%2C0.09&scaling=contain)
+- [Level Up](https://www.figma.com/proto/cnr9OJiJH7zKszF9VAD3rd/Level-Up-Style-Guide?page-id=0%3A1&node-id=2%3A2&viewport=296%2C240%2C0.09&scaling=contain)
 - [TeamOps](https://www.figma.com/proto/DlhZglOWzvCWh5UF3Jq4sh/TeamOps-style-guide?page-id=0%3A1&node-id=2%3A2&viewport=1044%2C682%2C0.5&scaling=contain)
 
 ## Training resources
