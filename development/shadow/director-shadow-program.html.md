@@ -148,10 +148,8 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| September 4 |  Not Available | |
-| September 11 |  Not Available     |       |
-| September 18 |  Available     |       |
-| September 25 |  Available     |       |
+| September 18 | Not Available     |       |
+| September 25 | Available     |       |
 | October 2  |  Available | |
 | October 9  |  Available | |
 | October 16 |  Available | |
