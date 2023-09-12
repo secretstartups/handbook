@@ -401,7 +401,7 @@ To configure Docker to use `osxkeychain` for secure credential storage, follow t
 
 **Prerequisites**
 
-1. [Create a GPG key](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/#create-a-gpg-key)
+1. [Create a GPG key](https://docs.gitlab.com/ee/user/project/repository/signed_commits/gpg.html#create-a-gpg-key)
 1. [Install `pass`](https://www.passwordstore.org/#download)
 
 To configure Docker to use `pass` for secure credential storage, follow these steps:
