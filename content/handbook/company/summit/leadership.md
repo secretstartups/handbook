@@ -27,6 +27,7 @@ Leaders should consider themselves "hosts" of the event, which means that, in ad
 - Various mental states and moods (anxiety, depression, etc); [neurodiversity](/handbook/values/#diversity-inclusion)
 
 ### What should managers do?
+
 - Protect and reduce risk to all team members and to the company
 - Check on your team throughout Contribute
 - Err on the side of caution and over-communication by contacting People Ops immediately if there is an issue or if you think there may be a problem/concern
@@ -37,17 +38,18 @@ Leaders should consider themselves "hosts" of the event, which means that, in ad
 
 ## Behavior
 
-* Attending Contribute is optional but recommended. Most team members report it is great to get to know each-other better and the schedule is fun. In past in-person Contribute events, about 90% of the team were able to attend.
-* The executive team is required to attend for the full duration of the event.
-* Wear your name-tag when you're outside your room, including during excursions, meals, and on departure day.
-* Try to join different people every time we sit down for a meal
-* Try to form a personal bond with team members of other teams.
-* Contribute is great for informal meetings and brainstorming, like Unconference sessions. People already know their team, so try to make UGC sessions cross functional.
-* Don't plan meetings and 1-1's with your own team, we already do these when we're not together during Contribute. There will be some allocated time for team-time.
-* Prior to Contribute, ensure to communicate to any external stakeholders (i.e. candidates, customers, vendors, etc) that response time may be less reliable, as you will be out of the office and will not have as much access to email and calls.
-* Respect the laws and customs of the location we are visiting.
+- Attending Contribute is optional but recommended. Most team members report it is great to get to know each-other better and the schedule is fun. In past in-person Contribute events, about 90% of the team were able to attend.
+- The executive team is required to attend for the full duration of the event.
+- Wear your name-tag when you're outside your room, including during excursions, meals, and on departure day.
+- Try to join different people every time we sit down for a meal
+- Try to form a personal bond with team members of other teams.
+- Contribute is great for informal meetings and brainstorming, like Unconference sessions. People already know their team, so try to make UGC sessions cross functional.
+- Don't plan meetings and 1-1's with your own team, we already do these when we're not together during Contribute. There will be some allocated time for team-time.
+- Prior to Contribute, ensure to communicate to any external stakeholders (i.e. candidates, customers, vendors, etc) that response time may be less reliable, as you will be out of the office and will not have as much access to email and calls.
+- Respect the laws and customs of the location we are visiting.
 
 ### Extroverts and Introverts
+
 Remember that you and your co-workers may have different personality types in terms of how you interact with others in large social situations. Consider the differences between extraverts and introverts:
 
 **Extroverts**
@@ -77,23 +79,26 @@ References:
 [Are You an Extrovert, Introvert, or Ambivert?](https://www.psychologytoday.com/us/blog/cutting-edge-leadership/201711/are-you-extravert-introvert-or-ambivert)
 
 ## Health and safety
+
 {: #health-and-safety}
 
-* Look after your self during Contribute and avoid event burnout. It can be an exciting time with lots of new people to meet and things going on you want to take part in. Remember to take down-time if you need it to recuperate during the week rather than trying to [burn the candle at both ends](https://dictionary.cambridge.org/dictionary/english/burn-the-candle-at-both-ends) and risking exhaustion.
-* Every year about a third of us have some kind of flu after the event, so please take infection prevention seriously.
-* Use hand sanitizer after getting your food and before eating. [Shared buffet utensils spread disease.](http://www.cruisereport.com/crBlogDetail.aspx?id=3683) We will do our best to provide hand sanitizer to everyone whenever we can.
-* If you are sick please wear a [surgical mask](https://www.amazon.com/Maryger-Disposable-Procedure-Surgical-Counts/dp/B06XVMT3ZH/ref=sr_1_1_sspa?s=hpc&ie=UTF8&qid=1509481716&sr=1-1-spons&keywords=surgical+mask&psc=1) which [reduces the spreading by up to 80%](https://www.healthline.com/health/cold-flu/mask). We'll try to provide them.
-* Remember our [values](/handbook/values/) and specifically the [permission to play](/handbook/values/#permission-to-play) behavior
-* Be respectful of other hotel guests (e.g. don't talk on your floor when returning to your room at night & keep your volume down at restaurants/bars).
-* Utilize the resources available to understand the safety and crime considerations in the location we are visiting. Examples are the [UK's Foreign Travel Site](https://www.gov.uk/foreign-travel-advice) and the [U.S. State Department](https://travel.state.gov/content/passports/en/country.html). If you are alarmed by what you are reading, please feel free to reach out to People Ops Team with your concerns. We also advise reviewing the data for countries you feel are safe. You may find that even the safest countries have warnings on crime and safety. Staying with a group and away from known dangerous areas is the most basic way of avoiding problems.
+- Look after your self during Contribute and avoid event burnout. It can be an exciting time with lots of new people to meet and things going on you want to take part in. Remember to take down-time if you need it to recuperate during the week rather than trying to [burn the candle at both ends](https://dictionary.cambridge.org/dictionary/english/burn-the-candle-at-both-ends) and risking exhaustion.
+- Every year about a third of us have some kind of flu after the event, so please take infection prevention seriously.
+- Use hand sanitizer after getting your food and before eating. [Shared buffet utensils spread disease.](http://www.cruisereport.com/crBlogDetail.aspx?id=3683) We will do our best to provide hand sanitizer to everyone whenever we can.
+- If you are sick please wear a [surgical mask](https://www.amazon.com/Maryger-Disposable-Procedure-Surgical-Counts/dp/B06XVMT3ZH/ref=sr_1_1_sspa?s=hpc&ie=UTF8&qid=1509481716&sr=1-1-spons&keywords=surgical+mask&psc=1) which [reduces the spreading by up to 80%](https://www.healthline.com/health/cold-flu/mask). We'll try to provide them.
+- Remember our [values](/handbook/values/) and specifically the [permission to play](/handbook/values/#permission-to-play) behavior
+- Be respectful of other hotel guests (e.g. don't talk on your floor when returning to your room at night & keep your volume down at restaurants/bars).
+- Utilize the resources available to understand the safety and crime considerations in the location we are visiting. Examples are the [UK's Foreign Travel Site](https://www.gov.uk/foreign-travel-advice) and the [U.S. State Department](https://travel.state.gov/content/passports/en/country.html). If you are alarmed by what you are reading, please feel free to reach out to People Ops Team with your concerns. We also advise reviewing the data for countries you feel are safe. You may find that even the safest countries have warnings on crime and safety. Staying with a group and away from known dangerous areas is the most basic way of avoiding problems.
 
 ## Inclusion
+
 {: #inclusion}
 
-* We provide pronoun stickers during check in so that everyone feels welcome and included
-* We provide greeting stickers (Eg. wave, hand shake, hugs) during check in so that each person is able to share how they would like to be greeted. Each person may have different preferences in how they feel most comfortable greeting others and we would like to be mindful and inclusive of that.
+- We provide pronoun stickers during check in so that everyone feels welcome and included
+- We provide greeting stickers (Eg. wave, hand shake, hugs) during check in so that each person is able to share how they would like to be greeted. Each person may have different preferences in how they feel most comfortable greeting others and we would like to be mindful and inclusive of that.
 
 ### Cultural Impacts and Differences
+
 It is important to recognize that people from different cultures have different ways of saying things, different body language, different ways of dressing/attire and even different ways of looking at things. You can review examples of typical cultural differences on the [Center of Intercultural Competence](http://www.cicb.net/en/home/examples).
 
 Contribute attendees should also remember:
@@ -102,4 +107,5 @@ Contribute attendees should also remember:
 - Be sensitive to political, religious and other potentially divisive conversations
 
 ### Lost in Translation
+
 Translation tends to sound easier than it is. People often think that it is just a matter of replacing each source word with a corresponding translated word, and then you are done. Assume best intent from your fellow team members and use it as an opportunity start a new dialogue. For more information you can review the following articles on [LTC Language Solutions](https://ltclanguagesolutions.com/blog/lost-in-translation-translating-cultural-context/)
