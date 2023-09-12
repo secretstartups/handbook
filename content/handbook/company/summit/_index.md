@@ -16,11 +16,11 @@ The next Summit is planned to be in Las Vegas, NV, USA. More information is avai
 
 ### Sessions
 
-We're planning hours of sessions, including [Unconference and workshops.](/handbook/company/summit/unconference.md).
+We're planning hours of sessions, including [Unconference and workshops.](/handbook/company/summit/unconference)
 
 ### Leaders at Summit
 
-[Read about being in GitLab leadership at Summit](https://about.gitlab.com/company/culture/contribute/leadership/)
+[Read about being in GitLab leadership at Summit.](/handbook/company/summit/leadership/)
 
 ### Previous Summits / Contributes
 
