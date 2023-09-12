@@ -24,8 +24,8 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
 | Sep 14 | Propensity to Purchase (PTP) Score Launch  | Melia V. |
-| Sep 21 | TBD  | N/A |
-| Sep 28 | TBD  | N/A |
+| Sep 21 | Customer Win Stories & Enablement - Leveraging Professional Services  | Bryan M. |
+| Sep 28 | Value Framework Refresh Overview  | Saumya U. & Joe K. |
 | Oct 5 | FY24-Q3 - Analyst Relations Update  | Ryan R. |
 | Oct 12 | FY24-Q3 - Rev Ops Update: Clari Best Practices  | Lindsay S. |
 | Oct 19 | *No session during the last week of the quarter* | N/A |
