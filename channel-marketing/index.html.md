@@ -26,6 +26,7 @@ Our Channel Marketing Managers enable the channel go-to-market efforts through o
 Marketing ready means: 
 1. Partner has an approved business plan with GitLab
 1. Has a list of focus accounts mapped with GitLab
+1. Has a joint value proposition statement with GitLab
 1. Has a dedicated person who manages leads sent to the partner by GitLab (Partner Prospect Admin)
 1. Acknowledges the lead passing and recall process
 1. Has a dedicated marketing responsible person to work on the join activities with GitLab
