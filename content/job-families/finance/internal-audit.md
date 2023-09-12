@@ -177,7 +177,7 @@ The Senior SOX Compliance Anaylst is a [grade 7](https://about.gitlab.com/handbo
 
 #### Career Ladder
 
-The next step in the Senior SOX Compliance Anaylst job family is to move to the [Manager, Internal Audit and SOX](https://about.gitlab.com/job-families/finance/internal-audit/#manager-internal-audit) job family.
+The next step in the Senior SOX Compliance Analyst job family is to move to the [Manager, Internal Audit and SOX](https://about.gitlab.com/job-families/finance/internal-audit/#manager-internal-audit) job family.
 
 #### Hiring Process
 
