@@ -567,6 +567,16 @@ If you no longer wish to have another team member book or manage travel on your 
 
 > Check the _[How do I submit or manage an expense for someone else](https://app.tripactions.com/app/helpcenter/articles/expense/myself/managing-my-expenses/expenses-for-other-users)_ article for more details.
 
+### How to see how much budget is left
+
+If you want to see how much you still are allowed to expense within the policy,
+for example how can expense on [office equipment](/handbook/finance/expenses/#equipment):
+
+1. Navigate to the `Policy` tab.
+1. Click `Benefits`.
+1. Under `Work from home`, click `Show transactions`.
+1. On the right you see the total spent, and how much is left.
+
 ### Leveraging the Navan Expense manager dashboard (available in the desktop browser only)
 
 The Navan Expense Manager Dashboard gives managers an at-a-glance view of their direct reports' transaction activity and spend data, as well as the ability to review and approve transactions (for managers designated as expense approvers). The manager dashboard can be accessed from the Navan desktop browser by clicking on the main dropdown menu on the left, then `Manager` under the Expense section. The page has four main components and filters to narrow your search.
