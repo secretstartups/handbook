@@ -50,7 +50,8 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](https
 - Perform discovery (with account team or with customer) to understand customer current-state, constraints and desired positive business outcomes. 
 - Identify standard and custom services to align to customer outcomes
 - Build custom-scoped services engagement proposals for key strategic customers with guidance/review from Sr. Engagement Manager. 
-- Explain technical solution proposal to account team and/or customer. - Meet and exceed set financial targets 
+- Explain technical solution proposal to account team and/or customer. 
+- Meet and exceed set financial targets 
 - Explain GitLab Services value proposition, catalog of service offerings, and methodologies. 
 - Explain standard packaged solutions to Customer to gain agreement to move forward.  
 - Help customer understand commercial terms - price, period of performance, payment/invoice structure, etc.
@@ -59,10 +60,14 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](https
 - Coordinate closing process with help from Account Executive. 
 - Coordinate staffing requirements with PS Operations team to ensure skillset, language, and timezone match are appropriate for each engagement. 
 - Handle standard objections related to price, DIY implementations, etc.
-- Update quarterly bookings forecast on a weekly basis using Salesforce/Clari. - Identify and communicate risks to account executives and EM leadership team - Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
+- Update quarterly bookings forecast on a weekly basis using Salesforce/Clari. 
+- Identify and communicate risks to account executives and EM leadership team 
+- Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
 - Join Sales leadership forecast calls (within patch) to report on Services Forecast and to identify key customer accounts where services should be attached.   
-- Provide timely and predictable responses to incoming questions/requests from customers or account executives to reinforce positive brand of Global Services.  - Establish mentorship with more senior engagement manager. 
-- Setup individual development plan - Communicate trends in customer behavior to Practice Management team. 
+- Provide timely and predictable responses to incoming questions/requests from customers or account executives to reinforce positive brand of Global Services.  
+- Establish mentorship with more senior engagement manager. 
+- Setup individual development plan 
+- Communicate trends in customer behavior to Practice Management team. 
 
 #### Professional Services Engagement Manager (Intermediate) Requirements
 
@@ -83,7 +88,8 @@ The Senior Professional Services Engagement Manager is a [grade 7](https://about
 - Identify standard and custom services to align to customer outcomes
 - Explain technical solution proposal to account team and/or customer. 
 - Build custom-scoped services engagement proposals for strategic customers. 
-- Gather feedback and approval from Technical Architect, Regional Delivery Manager, and other key stakeholders. - Meet and exceed set financial targets including booking margin targets
+- Gather feedback and approval from Technical Architect, Regional Delivery Manager, and other key stakeholders. 
+- Meet and exceed set financial targets including booking margin targets
 - Explain GitLab Services value proposition, catalog of service offerings, and methodologies. 
 - Explain standard packaged solutions to Customer to gain agreement to move forward.  
 - Help customer understand commercial terms - price, period of performance, payment/invoice structure, etc.
@@ -92,8 +98,10 @@ The Senior Professional Services Engagement Manager is a [grade 7](https://about
 - Coordinate closing process with help from Account Executive. 
 - Coordinate staffing requirements with PS Operations team to ensure skillset, language, and timezone match are appropriate for each engagement. 
 - Handle standard objections related to price, DIY implementations, etc.
-- Accurately forecast quarterly bookings on a weekly basis using Salesforce/Clari. - Identify and communicate risks to account executives and EM leadership team 
-- Provide recommendations to approvers of SOWs and Professional Services Agreement on risk management and negotiation strategies. - Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
+- Accurately forecast quarterly bookings on a weekly basis using Salesforce/Clari. 
+- Identify and communicate risks to account executives and EM leadership team 
+- Provide recommendations to approvers of SOWs and Professional Services Agreement on risk management and negotiation strategies. 
+- Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
 - Join Sales leadership forecast calls (within patch) to report on Services Forecast and to identify key customer accounts where services should be attached.   
 - Provide timely and predictable responses to incoming questions/requests from customers or account executives to reinforce positive brand of Global Services.  
 - Communicate with stakeholders the availability of new service offerings, the successful outcomes achieved on projects within patch, and other informal marketing topics.    
@@ -125,7 +133,8 @@ The Staff Professional Services Engagement Manager is a [grade 8](https://about.
 - Explain technical solution proposal to account team and/or customer. 
 - Build custom-scoped services engagement proposals for key strategic customers. 
 - Gather feedback and approval from Technical Architect, Regional Delivery Manager, and other largest stakeholders. 
-- Identify product gaps that require coordination with Product, Engineering and/or Support to solve. Bring these internal stakeholders into the Customer Opportunity cycle to ensure the most comprehensive proposal is delivered to strategic customers.  - Meet and exceed set financial targets including booking margin targets
+- Identify product gaps that require coordination with Product, Engineering and/or Support to solve. Bring these internal stakeholders into the Customer Opportunity cycle to ensure the most comprehensive proposal is delivered to strategic customers.  
+- Meet and exceed set financial targets including booking margin targets
 - Explain GitLab Services value proposition, catalog of service offerings, and methodologies. 
 - Explain standard packaged solutions to Customer to gain agreement to move forward.  
 - Help customer understand commercial terms - price, period of performance, payment/invoice structure, etc.
@@ -134,9 +143,11 @@ The Staff Professional Services Engagement Manager is a [grade 8](https://about.
 - Coordinate closing process with help from Account Executive. 
 - Coordinate staffing requirements with PS Operations team to ensure skillset, language, and timezone match are appropriate for each engagement. 
 - Handle standard objections related to price, DIY implementations, etc.
-- Accurately forecast quarterly bookings on a weekly basis using Salesforce/Clari. - Identify and communicate risks to account executives and EM leadership team 
+- Accurately forecast quarterly bookings on a weekly basis using Salesforce/Clari. 
+- Identify and communicate risks to account executives and EM leadership team 
 - Provide recommendations to approvers of SOWs and Professional Services Agreement on risk management and negotiation strategies. 
-- Works with account and delivery team to proactively identify and mitigate delivery-related risks. - Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
+- Works with account and delivery team to proactively identify and mitigate delivery-related risks. 
+- Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
 - Join Sales leadership forecast calls (within patch) to report on Services Forecast and to identify key customer accounts where services should be attached.   
 - Provide timely and predictable responses to incoming questions/requests from customers or account executives to reinforce positive brand of Global Services.  
 - Communicate with stakeholders the availability of new service offerings, the successful outcomes achieved on projects within patch, and other informal marketing topics.    
@@ -147,7 +158,8 @@ The Staff Professional Services Engagement Manager is a [grade 8](https://about.
 - Mentors more junior Engagement Managers
 - Deliver enablement to stakeholders on how to best work with and sell professional services. 
 - Contribute to new enablement content and delivery of Global Services enablement during Sales Quick Start. 
-- Consult with Field Enablement on how to better incorporate selling professional services in the field sales collateral and ongoing enablement plans. - Communicate trends in customer behavior to Practice Management team. 
+- Consult with Field Enablement on how to better incorporate selling professional services in the field sales collateral and ongoing enablement plans. 
+- Communicate trends in customer behavior to Practice Management team. 
 - Provide suggestions and update to go-to-market content and operational efficiency processes 
 - Lead the execution of Objectives and Key Results that focus on bringing new services offerings to market and improving the operational efficiency of the Engagement Management team.  
 
@@ -176,7 +188,8 @@ The Principal Professional Services Engagement Manager  is a [grade 9](https://a
 - Identify product gaps that require coordination with Product, Engineering and/or Support to solve. Bring these internal stakeholders into the Customer Opportunity cycle to ensure the most comprehensive proposal is delivered to strategic customers.  
 - Build and deliver multi-workstream DevSecOps transformation proposals that drive enterprise change. Gain buy-in from multiple customer department heads to ensure delivery success. 
 - Leverage positive customer outcomes to drive publicly referenceable use cases. Create externally facing content (e.g. blog posts, fireside chat, or presentations at external conferences) highlighting the accomplishments Customers have using GitLab.  
-- Use technical and market knowledge to collaborate on solutions and influence product to expand GitLab revenue base - especially Total Addressable Market (TAM) and barrier to entry.*- Meet and exceed set financial targets including booking margin targets
+- Use technical and market knowledge to collaborate on solutions and influence product to expand GitLab revenue base - especially Total Addressable Market (TAM) and barrier to entry.
+- Meet and exceed set financial targets including booking margin targets.
 - Explain GitLab Services value proposition, catalog of service offerings, and methodologies. 
 - Explain standard packaged solutions to Customer to gain agreement to move forward.  
 - Help customer understand commercial terms - price, period of performance, payment/invoice structure, etc.
@@ -190,7 +203,8 @@ The Principal Professional Services Engagement Manager  is a [grade 9](https://a
 - Identify and communicate risks to account executives and EM leadership team 
 - Provide recommendations to approvers of SOWs and Professional Services Agreement on risk management and negotiation strategies.
 - Works with account and delivery team to proactively identify and mitigate delivery-related risks. 
- - Lead the development and implementation of risk management strategies across global Professional Services Engagement Management team, Legal, Accounting Revenue and Billing Operations. - Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
+- Lead the development and implementation of risk management strategies across global Professional Services Engagement Management team, Legal, Accounting Revenue and Billing Operations. 
+- Build relationships with Account Executives, Customer Success Managers and Solutions Architects within their patch to ensure Global Services are included as part of the standard customer journey.  
 - Join Sales leadership forecast calls (within patch) to report on Services Forecast and to identify key customer accounts where services should be attached.   
 - Provide timely and predictable responses to incoming questions/requests from customers or account executives to reinforce positive brand of Global Services.  
 - Communicate with stakeholders the availability of new service offerings, the successful outcomes achieved on projects within patch, and other informal marketing topics.    
