@@ -483,10 +483,11 @@ Specifically, we are working to implement [topic types](https://docs.gitlab.com/
 We are currently tracking updates to the [**Use GitLab**](https://docs.gitlab.com/ee/user/)
 section of the global navigation.
 
-| Date         | # of pages done | # of pages total | Percent complete |
-|--------------|-----------------|------------------|------------------|
-| April 2022   | 161             | 420              | 38 %             |
-| October 2022 | 245             | 468              | 52 %             |
+| Date           | # of pages done | # of pages total | Percent complete |
+|----------------|-----------------|------------------|------------------|
+| April 2022     | 161             | 420              | 38 %             |
+| October 2022   | 245             | 468              | 52 %             |
+| September 2023 | 259             | 658              | 39 %             |
 
 ## Hackathons
 
