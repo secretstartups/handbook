@@ -368,6 +368,9 @@ In an all-remote organization, coaching is a critical skill for managers to deve
 - Seeks new coaching approaches and techniques and exemplifies what it means to continuously develop their skills
 - Delivers effective strategies for dealing with cases of [underperformance](/handbook/leadership/underperformance/) and instills that in other leaders across the organization
 
+### Resources for coaching and providing feedback
+There is a [handbook page](../../people-group/learning-and-development/manager-coaching-and-leadership-resources/) which collects resources for different approaches, techniques, and styles of coaching and providing feedback.
+
 ### Additional coaching resources
 
 * [The Leader as Coach - Harvard Business Review Article](https://hbr.org/2019/11/the-leader-as-coach)
