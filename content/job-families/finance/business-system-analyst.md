@@ -106,10 +106,10 @@ The Senior Business Systems Analyst is a [grade 8](https://about.gitlab.com/hand
 
 All the responsibilities of a Senior Business Systems Analyst, plus:
 
-- Build Deep Relationships with Business Partners in Sales Operations, Billing, Finance, and Revenue
-- Define and Build the function of Business Process Analysis within GitLab
-- Train and Educate other team members on the Business process
-- Work cross-functionally with business stakeholders to define measures for process efficiencies. (i.e. Reduce close time, reduce clicks in the quote to order process, drive automation in order to invoice, etc)
+- Build deep relationships with business partners in Sales Operations, Billing, Finance, and Revenue
+- Define and build the function of business process analysis within GitLab
+- Train and educate other team members on business processes
+- Work cross-functionally with business stakeholders to define measures for process efficiencies. (i.e. reduce close time, reduce clicks in the quote to order process, drive automation in order to invoice, etc)
 - Own the delivery of key projects and programs that help the broader business drive efficiencies
 - Be a culture definer and evolver of GitLab Values
 
@@ -118,7 +118,7 @@ All the responsibilities of a Senior Business Systems Analyst, plus:
 All the requirements of a Senior Business Systems Analyst, plus:
 
 - Proven track record of improving operational efficiency
-- 10+ years experience, demonstrating consistent advancement or development, with at least half in related roles
+- 5-8 years experience, demonstrating consistent advancement or development in related roles
 - Over three years in a high-growth technology company, working hands-on with our tech stack at our stage in operational maturity
 - Ability and desire to grow and coach less tenured team-members
 - Demonstrated subject matter expert and thought partner involved in technical/project decisions
@@ -136,13 +136,22 @@ The Principal Business Systems Analyst is a [grade 9](https://about.gitlab.com/h
 
 All the responsibilities of a Staff Business Systems Analyst, plus:
 
-- TO BE ADDED
+- Focuses on work across multiple teams/Sub-department
+- Play a central role in technical, business, and organizational contributions impacting a team member's Sub-department
+- Drives formal networks with key decision makers and serves as external spokesperson for the organization
+- Works on significant and unique issues where coming to a resolution requires complex analysis 
+- Requires conceptual thinking to understand advanced issues and implications
+- Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results
+- Proposed solutions may impact results of a team member's division
+- Analyzes situations and makes decisions impacting multiple teams. These decisions may involve more team members and resources and generally at a higher level of risk and complexity than the manager level
+- Acts independently to determine methods and procedures on new assignments
+- Collaborates and makes proposals across several teams, and helps team members make informed decisions in alignment with strategic plans
 
 #### Principal Business Systems Analyst Requirements
 
 All the requirements of a Staff Business Systems Analyst, plus:
 
-- TO BE ADDED
+- 8-10 years experience, demonstrating consistent advancement or development in related roles
 
 ### Business Systems Architect
 
@@ -154,14 +163,24 @@ The Business Systems Architect is a [grade 10](https://about.gitlab.com/handbook
 
 All the responsibilities of a Principal Business Systems Analyst, plus:
 
-- TO BE ADDED
+- Focuses on work across Sub-departments
+- Drives the framework, strategy and plans
+- Creates a measurable impact on the work of teams across the company
+- Takes a central role in decision making for technical, business, and organizational issues
+- Problems to be solved have a high degree of complexity and may impact future business results
+- Works on issues that impact program success or addresses future concepts and products
+- Implementation of solutions requires a longer term view which impacts strategic goals and objectives
+- Proposed solutions may impact results of multiple Sub-departments
+- Provides a point of escalation for teams facing extremely complex technical challenges
+- Acts as an advisor to Senior Leadership
+- Influences Senior Leadership to adopt a different point of view when appropriate, and makes decisions that have an impact on business direction
+- Drives collaboration, efficient execution of results and behaviors aligned with GitLab Values
 
 #### Business Systems Architect Requirements
 
 All the requirements of a Principal Business Systems Analyst, plus:
 
-- TO BE ADDED
-
+- 10+ years experience, demonstrating consistent advancement or development in related roles
 
 ## Performance Indicators (PI)
 
