@@ -904,6 +904,13 @@ Switch to your GitLab account.
 Use these [GitLab branded form templates](https://drive.google.com/open?id=0BxrZ6azkqZ1bVDl1TTZuelFOb1k) when creating internal or external surveys or forms.
 Make a copy of the form and only edit the copy; do not edit the template itself.
 
+Review [what data privacy means at GitLab](https://about.gitlab.com/handbook/legal/privacy/#what-data-privacy-means). Help participants make informed decisions by applying the following guidelines:
+
+- *For external forms*: State that any Personal Data collected will be processed in accordance with the [GitLab Privacy Statement](https://about.gitlab.com/privacy/).
+- *For internal forms*: Ensure that the purpose for collecting data is stated under our [Team Member Privacy Policy](https://about.gitlab.com/handbook/legal/privacy/employee-privacy-policy/) and that this purpose is made clear to Team Members.
+- Don't make Personal Data form fields mandatory unless they're absolutely necessary to achieve the processing; any inessential Personal Data collected should be through a voluntary form field.
+- Only process Personal Data for the reason in which it was initially collected e.g., if the Google Form collected traveler information, don't then use that Personal Data to create a marketing list.
+
 ### Google Mail (Gmail)
 
 #### Auto-advance
