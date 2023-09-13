@@ -21,22 +21,35 @@ A strategic group of Senior leaders Leaders who assist the DIB team in implement
 1. Represent DIB in eGroup and CEO Skips syncs. 
 1. Play the role of DIB Interruptor - actively advocate, challenge the norm and iterate to ensure Diversity, Inclusion and Belonging remains top of mind in their divisions amongst other senior leaders 
 
-## Structure 
+## Structure & Members 
 
 Senior leadership representative (Snr. Dir +) from each Department and a person from an underrepresented group who is manager+ where representation at Snr Dir+ is not possible. 
 
-* Engineering x 2 
-* Product x 2
-* Security 
-* Sales x 2
-* Marketing x 2
+* Engineering - Two Representatives
+    - Darva Satcher
+    - Tim Zallman
+* Product - Two Representatives
+    - Taylor McCaslin
+    - TBC
+* Sales - Two Representatives
+    - Sherrod Patching
+    - Michel Isnard
+* Marketing - Two Representatives
+    - Christine Lee
+    - Dennis van Rooijen
 * Finance
-* Legal & Corporate Affairs 
+    - Andrew Murray 
+* Legal & Corporate Affairs
+    - Stacy Cline
+* Security
+    - Joaquin Fuentes 
 * People
+    - People Business Partners
 * Representative from DIB Influencer Group
 * Office of CEO representative
-* VP of DIB Leadership DIB Council Lead 
-* DIB Partner 
+    - TBC
+* VP of DIB - Leadership DIB Council Lead 
+* DIB Team
 * Executive Sponsors 
 
 ## Selection Criteria:
