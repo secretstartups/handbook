@@ -12,7 +12,7 @@ description: "The AI Framework gruop is focused on how to support other product 
 
 ## Vision
 
-The AI Framework gruop is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab Duo Chat functionality. They are also maintaining and improving the backend for code suggestions in production.
+The AI Framework gruop is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab Duo Chat functionality.
 
 ## Direction
 
@@ -32,6 +32,12 @@ Team responsibilities include:
 * Supporting the framework for our AI chat system
 * Adding support for new AI providers as needed
 * AI Gateway production support and readiness
-* Code Suggestions production support and quality improvements
+
+
+## Dashboards (internal only)
+
+-  [Usage](https://app.periscopedata.com/app/gitlab/1137231/Ai-Features)
+- [Requests per provider](https://thanos-query.ops.gitlab.net/graph?g0.expr=sum%20by%20(client)(rate(gitlab_sli_llm_client_request_total%7Benv%3D%22gprd%22%7D%5B1m%5D))&g0.tab=0&g0.stacked=0&g0.range_input=1w&g0.max_source_resolution=0s&g0.deduplicate=1&g0.partial_response=0&g0.store_matches=%5B%5D&g0.step_input=60)
+
 
 
