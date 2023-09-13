@@ -99,6 +99,19 @@ _Firefox_
 
 _Note: You will have to visit pages built by that repository in order to see your navigation changes. For example, the website [homepage](https://about.gitlab.com) is built in `Buyer Experience`, so you can visit the homepage in your review app to see your navigation changes. However the [handbook](/handbook/) is built by `www-gitlab-com`, so you'll need to go to a handbook page in order to test your navigation changes in the `www` review app._
 
+## Major 5.0.0 navigation release
+
+This version has some major updates like:
+
+- Updated Vue library from `2.6.x` to `2.7.x`
+- Now you can check the project bundle size by accessing `http://localhost:YOUR_PORT_NUMBER_HERE/stats.html` in local environment.
+- The project bundler is now Vite instead of Webpack, which has reduced the bundle size by 90%.
+- There were some minor changes that can be viewed [here](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/issues/167)
+- We updated the nuxt.config.js in the BE repository. The line `be-navigation/dist/be-navigation.css` has been changed to `be-navigation/dist/style.css`.
+- When running this new version of the Navigation repo, we encountered an issue with the `dist` folder not updating its content if the user already had an older version of the repo installed. To fix this, you need to delete the 'dist' folder and run 'yarn' again
+- From this version onward, we **will no longer support the nav project in the www-repo anymore.** This means that www-gitlab-com **must stay pinned to major version 4**. You will need to move your page over to [Buyer Experience by opening an issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) if having the most up-to-date navigation is a concern for your content.
+- In the `Buyer Experience` repository the nav updates will follow the current instructions.
+
 #### Detailed local review before a nav release with yarn link
 
 If you want to review locally changes made to the navigation:
