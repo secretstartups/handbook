@@ -106,7 +106,7 @@ To minimize miscommunications that can stem from cultural diversity, contextual 
 - *Team:* Build a “suggestion box” communication channel or form where all team members can make suggestions for Collaboration Guideline additions.
 - *Company:* Update your company’s onboarding and continuing education programs to include training about collaboration guidelines.
 
-**Recommended TeamOps Partner:** Kim Minnick
+**Recommended TeamOps Partner:** [Code Traveller HR](https://codetravellerhr.com) (consultant)
 {{% /details %}}
 
 ## Shared values
@@ -135,7 +135,7 @@ Starting communication and collaboration with an external team (be it prospectiv
 - *Team:* When beginning a new project, discuss which values should be specifically prioritized for project success, and how they will influence the project roadmap or group dynamics.
 - *Company:* Update your company’s onboarding and continuing education programs to include training about your company values.
 
-**Recommended TeamOps Partner:** Kim Minnick
+**Recommended TeamOps Partner:** [Code Traveller HR](https://codetravellerhr.com) (consultant)
 {{% /details %}}
 
 ## Inclusivity
