@@ -256,6 +256,19 @@ Error tracking service.
 [sentry_500]: /handbook/support/workflows/500_errors.html#searching-sentry
 [demo]: https://youtu.be/o02t3V3vHMs
 
+#### Setting sentry alerts for your group
+
+Creating alert rules allows groups to monitor their features and help catch issues proactively. This helps in getting the issues fixed before they breach the error budget SLO which in turn helps in keeping the GitLab.com Service Availability high.
+
+Steps for creating the alerts:
+
+1. Visit Sentry's [alert rules dashboard](https://new-sentry.gitlab.net/organizations/gitlab/alerts/rules).
+1. Click on "Create Alert" button at the top right.
+1. Set the required conditions as per your group's feature categories.
+1. Create a new public slack channel with the following naming convention "g_group_name_alerts". Eg: [#g_govern_compliance_alerts](https://gitlab.slack.com/archives/C05GEBG97V3)
+1. Select this channel for sending the alert notifications.
+1. Monitor the group for any new alerts and work towards resolving those.
+
 ### Sitespeed.io
 
 Tool that helps you monitor, analyze and optimize your website speed and performance.
