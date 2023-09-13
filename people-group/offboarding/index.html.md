@@ -44,7 +44,7 @@ For any other offboarding questions, please reach out to People Connect via `peo
 1. **Team Member:** You should review the [Offboarding FAQ](/handbook/people-group/offboarding/faq.html) handbook page to address any questions you may have. If you have a question that is not on that page, please reach out in #people-connect. **Note: You will not see your offboarding issue prior to your departure as this is an issue used to deprovision access and is created once you are done working.**
 1. **Manager:** You will receive the resignation for review through your Workday Inbox - ensure that the proposed final date of employment aligns to the documented [notice period](/handbook/people-group/contracts-probation-periods/#probation-periods-of-team-members-employed-through-a-peo-or-an-entity) for the team members location.  
 1. **Manager:** In the instance that the resignation details require revision, you may send it back to the team member by clicking `Send Back`.  If you are satisfied with the information, click `Approve`.  
-1. **Manager:** Once the details about the team members departure have been finalized schedule time with the team member to plan the [departure announcement](/#communicating-departures). Please reach out to your PBP if you need additional guidance.
+1. **Manager:** Once the details about the team members departure have been finalized schedule time with the team member to plan the [departure announcement](#communicating-departures). Please reach out to your PBP if you need additional guidance.
 
 ### Termination
 
