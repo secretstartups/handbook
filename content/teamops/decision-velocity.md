@@ -27,16 +27,23 @@ Building on the tenet of creating a [shared reality](/teamops/shared-reality/) w
 
 Having a shared guide in a team promotes [measurement clarity](/teamops/measurement-clarity/), [results standardization](/teamops/measurement-clarity/#measure-results-not-hours), [worker autonomy](/teamops/decision-velocity/#give-agency), efficient onboarding, continuous improvement, and operational scalability. By providing a common reference point, these documented workflows enhance efficiency and consistency, ultimately leading to improved team productivity and outcomes.
 
-{{% details summary="Example of documented workflows" %}}
-**Example 1:** [GitLab Support Workflow Library](/handbook/support/workflows/)
+{{% details summary="Examples and resources for documented workflows" %}}
+**Example:** [GitLab Support Workflow Library](/handbook/support/workflows/)
 
 To keep their globally-distributed team equipped with instructions for a variety of unexpected customer services scenarios, the GitLab Support team built a [workflow library](/handbook/support/workflows/). This always-accessible archive guides team members through the triaging process and subsequent protocols, and also helps them navigate to relevant policies, advice, and tools.
+
+**Resource:** [Documenting workflows to streamline business processes from Notion](https://www.notion.so/blog/documenting-workflows) (article)
 {{% /details %}}
 
-{{% details summary="Quick start tips for documented workflows" %}}
-- **Individual:** As you are implementing a documented workflow, update as needed through the process in order to maintain the accuracy of the documentation.
-- **Team:** When starting a new project, discuss and document the anticipated workflow in either the SSoT (if the workflow will be repeated) or in the project management plan.
-- **Company:** Review the SSoT to confirm that the relevant departments have a documented workflow for every item in the cadence calendar.
+{{% details summary="Change management support for documented workflows" %}}
+**Quick Start Tips:**
+- *Individual:* As you are implementing a documented workflow, update as needed through the process in order to maintain the accuracy of the documentation.
+- *Team:* When starting a new project, discuss and document the anticipated workflow in either the SSoT (if the workflow will be repeated) or in the project management plan.
+- *Company:* Review the SSoT to confirm that the relevant departments have a documented workflow for every item in the cadence calendar.
+
+**Recommended TeamOps Partners:**
+- [Modern Leaders](https://www.modernleaders.co/) (consultant)
+- Kim Minnick (consultant)
 {{% /details %}}
 
 ## Give agency
@@ -47,16 +54,21 @@ Valuing agency so highly doesn't mean assuming ***all*** organizational decision
 
 Agency is the antidote to micromanagement, which crushes execution, stifles creativity, and diminishes retention. Greater individual autonomy brings about a shared reality in which all team members feel encouraged to design how and when they want to contribute—and that fuels both individual and collective success.
 
-{{% details summary="Example of give agency" %}}
-**Example 1:** [Normalizing that it's OK to look away in video calls](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away)
+{{% details summary="Examples and resources for give agency" %}}
+**Example:** [Normalizing that it's OK to look away in video calls](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away)
 
 Giving agency begins in the most typical of places. Video calls are a natural part of day-to-day work for many knowledge workers, yet cultural expectations about presenteeism and attentiveness may restrict agency. GitLab explicitly documents that [it's OK to look away](https://about.gitlab.com/company/culture/all-remote/meetings/#9-its-ok-to-look-away) during meetings and that no one should be embarrassed to occasionally ask for something to be repeated. By creating a culture where people are free to manage their own time and attention, they're able to direct energy on a minute-by-minute basis to execute. No one's path to execution looks the same. It may involve breaks to connect with friends, taking a walk outside, or watching a recording of a meeting during a more suitable time.
+
+**Resource:** [High agency: how to feel more in control in your life and work](https://nesslabs.com/high-agency-how-to-feel-more-in-control-in-your-life-and-work) (article)
 {{% /details %}}
 
-{{% details summary="Quick start tips for give agency" %}}
-- **Individual:** Ask your team members what their preferred task management systems, work environments, and typical working hours are. Set an example by publicly publishing your own. Celebrate the diversity of each.
-- **Team:** Replace your instinct to supervise with a mindset of support. Instead of asking, “Is this task going to be done by the due date?”, offer “Is there anything you need to ensure the task will be complete by the due date?”
-- **Company:** Update your company’s onboarding and continuing education programs to include training about what expectations are for operating as a manager of one.
+{{% details summary="Change management support for give agency" %}}
+**Quick Start Tips:**
+- *Individual:* Ask your team members what their preferred task management systems, work environments, and typical working hours are. Set an example by publicly publishing your own. Celebrate the diversity of each.
+- *Team:* Replace your instinct to supervise with a mindset of support. Instead of asking, “Is this task going to be done by the due date?”, offer “Is there anything you need to ensure the task will be complete by the due date?”
+- *Company:* Update your company’s onboarding and continuing education programs to include training about what expectations are for operating as a manager of one.
+
+**Recommended TeamOps Partner:** [Workplaceless](https://www.workplaceless.com/) (training and consulting)
 {{% /details %}}
 
 ## Push decisions to the lowest possible level
@@ -69,16 +81,21 @@ As many decisions as possible should be made by the person doing the work (the [
 
 In the spirit of [iteration](/teamops/measurement-clarity/#iteration), TeamOps encourages executing a sub-optimal decision with full conviction—then returning to it later to improve upon it based on [post-decision feedback](/teamops/everyone-contributes/#disagree-commit-and-disagree)—rather than executing on a full decision with sub-optimal conviction. Each project's DRI knows a project's moving parts and the impacts of a particular choice more than anyone else does; that person should be trusted with full accountability over it.
 
-{{% details summary="Example of push decisions to the lowest possible level" %}}
-**Example 1:** [Updating Developer Evangelism mentoring guidelines](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903)
+{{% details summary="Examples and resources for push decisions to the lowest possible level" %}}
+**Example:** [Updating Developer Evangelism mentoring guidelines](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903)
 
 A Senior Developer Evangelist at GitLab recognized that many coaching and mentoring sessions are shared in private 1:1 conversations. In an effort to add context and transparency to the process — thereby enabling other developer evangelists to make more decisions on their own — he [documented and merged feedback examples](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903). The person doing the work is empowered to make the decision, which involved many micro decisions: to document or not, what context to add, where to document, what examples to share, and how to share within the company.
+
+**Resource:** [Decision-making: how leaders can get out of the way](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/decision-making-how-leaders-can-get-out-of-the-way) (article)
 {{% /details %}}
 
-{{% details summary="Quick start tips for push decisions to the lowest possible level" %}}
-- **Individual:** If/when you see a task or decision that could be completed by a more junior team member, flag it and offer to facilitate the transition.
-- **Team:** When designing a project management plan, determine which decisions will be made by which team members. For decisions from anyone other than the DRI, document why the approval authority was moved to that level.
-- **Company:** Update your company’s management training program to include training to prioritize delegation and employee empowerment.
+{{% details summary="Change management support for push decisions to the lowest possible level" %}}
+**Quick Start Tips:**
+- *Individual:* If/when you see a task or decision that could be completed by a more junior team member, flag it and offer to facilitate the transition.
+- *Team:* When designing a project management plan, determine which decisions will be made by which team members. For decisions from anyone other than the DRI, document why the approval authority was moved to that level.
+- *Company:* Update your company’s management training program to include training to prioritize delegation and employee empowerment.
+
+**Recommended TeamOps Partner:** [Lance Robbins](http://lancehrobbins.com/) (consultant)
 {{% /details %}}
 
 ## Bias for action
@@ -87,16 +104,21 @@ A [bias for action](/handbook/values/#bias-for-action) accelerates ideation, col
 
 When facing decisions that may involve imperfect information or failures, having a bias for action ensures a more rapid pace of execution. This may require a greater organizational tolerance for mistakes and an appreciation for [two-way door decisions](/handbook/values/#make-two-way-door-decisions), which teams should discuss as part of their [shared reality](/teamops/shared-reality/#shared-reality) and their [collaboration guidelines](/teamops/decision-velocity/#collaboration-codification).
 
-{{% details summary="Example of collaboration codification" %}}
-**Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](/handbook/communication/)
+{{% details summary="Examples and resources for bias for action" %}}
+**Example:** [Setting Internal Communication Guidelines for Standardized Tool Use](/handbook/communication/)
 
 To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](/handbook/communication/). These rules, instructions, and demonstrations ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
+
+**Resource:** [What is a bias for action, and how do you build it?](https://www.fingerprintforsuccess.com/blog/bias-for-action) (article)
 {{% /details %}}
 
-{{% details summary="Quick start tips for bias for action" %}}
-- **Individual:** Every time you’re about to ask for approval to do something, stop to consider, “Do I already have approval to do this as the DRI?” or “Is there any part of this task that I can get started on without approval?”
-- **Team:** Publicly recognize and celebrate when a team member demonstrates a strong bias for action for positive reinforcement.
-- **Company:** Update your company’s onboarding and continuing education programs to include training about proactivity and self-efficacy.
+{{% details summary="Change management support for bias for action" %}}
+**Quick Start Tips:**
+- *Individual:* Every time you’re about to ask for approval to do something, stop to consider, “Do I already have approval to do this as the DRI?” or “Is there any part of this task that I can get started on without approval?”
+- *Team:* Publicly recognize and celebrate when a team member demonstrates a strong bias for action for positive reinforcement.
+- *Company:* Update your company’s onboarding and continuing education programs to include training about proactivity and self-efficacy.
+
+**Recommended TeamOps Partner:** [Workplaceless](https://www.workplaceless.com/) (training and consulting)
 {{% /details %}}
 
 ## Low-context communication
@@ -114,22 +136,27 @@ A critical principle of low-context communication is to [Say Why, not just What]
 
 Also note that each business function may have unique expectations on low-context communication (e.g. what classifies as low-context in sales may not in engineering). If decisions within a function appear to be ill-informed, audit the expectations on context first.
 
-{{% details summary="Examples of low-context communication" %}}
-**Example 1:** [Making a company-wide announcement that meaningfully changes a policy](/handbook/communication/#how-to-make-a-company-wide-announcement)
+{{% details summary="Examples and resources for low-context communication" %}}
+**Example:** [Making a company-wide announcement that meaningfully changes a policy](/handbook/communication/#how-to-make-a-company-wide-announcement)
 
 At GitLab, a department leader will typically send out a [company-wide message](/handbook/communication/#how-to-make-a-company-wide-announcement) to a Slack channel that includes every team member. Crucially, this message does not include *only* the news, but a link to a GitLab merge request *detailing what changed* ([diffs](https://docs.gitlab.com/ee/development/merge_request_concepts/diffs/)).
 
 The [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/104440) which added the very copy you're reading now is an example of low-context communication in practice. Darren M., the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the change, also shares a link to the handbook and/or project page ("the news"). The merge request includes context on what's changing, and details on where to ask questions and contribute new iterations (including an optional [Ask Me Anything (AMA)](/handbook/communication/ask-me-anything/) session). This gives any team member enough context to share feedback and apply these changes to their own teams in an informed way.
 
-**Example 2:** [Updating GitLab's recruitment privacy policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)
+**Example:** [Updating GitLab's recruitment privacy policy](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)
 
 GitLab's Recruitment Privacy Policy was updated. Rather than updating the policy behind closed doors, the [merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107652)  outlines the *why*. It provides context into how the change enables cross-functional groups to work more efficiently. The explanation of *why* enables more thoughtful conversation around a potentially polarizing topic (privacy).
+
+**Resource:** [Almanac's Guide to Asynchronous Communication](https://almanac.io/docs/guide-asynchronous-communication-18e32134c835a467b8dcb13b06a0aef0#:~:text=Asynchronous%20communication%20is%20the%20art,time%20your%20communique%20is%20sent.) (playbook)
 {{% /details %}}
 
-{{% details summary="Quick start tips for low-context communication" %}}
-- **Individual:** Before sending an asynchronous message to a team member that is any kind of request, proofread it at least once before sending while pretending that you have started working in this team today and know nothing about the project. Confirm that the “why” and the “ask” of the message are explicit and easy to find.
-- **Team:** Add “good” and “bad” examples of asynchronous messages to the collaboration guidelines section of your SSoT.
-- **Company:** Update your company’s onboarding and continuing education programs to include training about low-context communication.
+{{% details summary="Change management support for low-context communication" %}}
+**Quick Start Tips:**
+- *Individual:* Before sending an asynchronous message to a team member that is any kind of request, proofread it at least once before sending while pretending that you have started working in this team today and know nothing about the project. Confirm that the “why” and the “ask” of the message are explicit and easy to find.
+- *Team:* Add “good” and “bad” examples of asynchronous messages to the collaboration guidelines section of your SSoT.
+- *Company:* Update your company’s onboarding and continuing education programs to include training about low-context communication.
+
+**Recommended TeamOps Partner:** [Workplaceless](https://www.workplaceless.com/) (training and consulting)
 {{% /details %}}
 
 ## Operational transparency
@@ -148,16 +175,23 @@ Your team’s ability to be transparent in your virtual-first ways of working is
 
 By being transparent in your virtual work, your team can easily prove productivity and fulfillment of both individual and collective [KPIs](/teamops/measurement-clarity/#transparent-measurements), which over time ensures accountability, improves the perception of performance, and builds trust.
 
-{{% details summary="Example of operational transparency" %}}
-**Example 1:** [GitLab’s “While You Were Iterating” Newsletter](https://about.gitlab.com/handbook/people-group/employment-branding/people-communications/#people-communications--engagement-channels)
+{{% details summary="Examples and resources for operational transparency" %}}
+**Example:** [GitLab’s “While You Were Iterating” Newsletter](https://about.gitlab.com/handbook/people-group/employment-branding/people-communications/#people-communications--engagement-channels)
 
  Digital notifications from various tools can be noisy, distracting, and overwhelming. To help GitLab team members feel comfortable incorporating deep focus time into their schedule with full confidence that they won’t miss any important announcements, the internal communications team writes and distributes (via email) a twice-monthly newsletter that includes all important announcements, invitations, amd reminders.
+
+**Resource:** [Operational Transparency by HBR](https://hbr.org/2019/03/operational-transparency) (article)
 {{% /details %}}
 
-{{% details summary="Quick start tips for operational transparency" %}}
-- **Individual:** In a 1:1 with your manager, ask them, “What is a time that you were most impressed with my productivity?” Then, consider how you can recreate that performance visibility.
-- **Team:** Design a cadence and channel for operational transparency between your team, such as asynchronously a weekly recap.
-- **Company:** Design and document suggestions for increasing operational transparency. Include a protocols for how to report and resolve when a team member doesn’t feel adequately valued at work.
+{{% details summary="Change management support for operational transparency" %}}
+**Quick Start Tips:**
+- *Individual:* In a 1:1 with your manager, ask them, “What is a time that you were most impressed with my productivity?” Then, consider how you can recreate that performance visibility.
+- *Team:* Design a cadence and channel for operational transparency between your team, such as asynchronously a weekly recap.
+- *Company:* Design and document suggestions for increasing operational transparency. Include a protocols for how to report and resolve when a team member doesn’t feel adequately valued at work.
+
+**Recommended TeamOps Partners:**
+- [Lance Robbins](http://lancehrobbins.com/) (consultant)
+- [Modern Leaders](https://www.modernleaders.co/) (consultant)
 {{% /details %}}
 
 ---
