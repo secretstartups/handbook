@@ -87,7 +87,7 @@ As with all things at GitLab, the compensation calculator is a constant work in 
 
 ### Rounding Best Practice
 
-Previously, our compensation calculator and processes (percentage changes from compensation review, relocations, currency fluctuations, etc.) produced numbers that were exact, sometimes down to the dollar and cents. To make the numbers more digestible, we are implementing a practice to round up compensation in the local currency to the nearest hundredth. This rounding practice applies to future compensation changes from July 2020 onwards.
+Previously, our compensation calculator and processes (percentage changes from compensation review, relocations, currency fluctuations, etc.) produced numbers that were exact, sometimes down to the dollar and cents. To make the numbers more digestible, we are implementing a practice to round up compensation in the local currency to the nearest hundreds. This rounding practice applies to future compensation changes from July 2020 onwards.
 
 ## SF Benchmark
 
