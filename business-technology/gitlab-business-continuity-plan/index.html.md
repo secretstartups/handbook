@@ -24,8 +24,10 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](h
 ## Purpose 
 Business Continuity Plan is the process involved in creating a system of prevention and recovery from potential threats to GitLab. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster.
 
+
+
 ## Scope
-GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning. The BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md). 
+GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. System data from the [Business Impact Analysis](/handbook/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) may be leveraged as part of business continuity planning and testing. Please search the [BIA Data File](https://docs.google.com/spreadsheets/d/1GNrZIaTsQV5Xz2f_yQWPyftgYjKvL6fi4USb1ii4Zow/edit#gid=148367290) by system for more information.  Additionally, the BCP works in conjunction with the [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md).
 
 ## Roles & Responsibilities
 
@@ -34,6 +36,7 @@ GitLab, by its remote-only nature, is not easily affected by typical causes of b
 | GitLab Team Members | Responsible for following the requirements in this procedure |
 | Business Technology | Responsible for implementing and executing this procedure | 
 | Business Technology Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+| Security Risk| Responsible for conducting periodic Business Impact Analysis and applying Critical System Tiers to Tech Stack Systems |
 
 ## Procedure
 
