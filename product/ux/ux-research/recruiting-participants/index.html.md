@@ -186,6 +186,8 @@ If you are planning to recruit users through a promotional game or contest (e.g.
 
 #### Respondent.io process and strategy
 
+For a video overview of how to use Respondent.io, please watch this [internal only recording on GitLab Unfiltered](https://www.youtube.com/watch?v=iRMvlWz96aA). **Note:** The process outlined in the video is primarily for UX Researchers. If you are interested in using Respondent.io, please contact someone from the UX Research team for assistance.
+
 * Typically, participants begin qualifying immediately.
 * Most studies will only need one Respondent campaign.
 * CM Scorecards may require multiple campaigns.
