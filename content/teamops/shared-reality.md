@@ -33,18 +33,28 @@ Teams and functions may choose different mediums as the SSoT depending on the na
 
 This type of system scales and maintains workforce awareness and empowerment with much less effort than word-of-mouth updates or memos. By writing guidance down transparently — in a way that others can modify, validate, or contribute to — leadership scales beyond an individual or team, and even beyond the organization. GitLab refers to this approach as [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/). A core outcome is that individuals are less dependent on others for the information they need to do their job.
 
-{{% details summary="Example of Single Source of Truth" %}}
+{{% details summary="Examples and resources for Single Source of Truth" %}}
 **Example:** [Maintaining a single list of all applications used within a company](https://about.gitlab.com/handbook/business-technology/tech-stack/)
 
 Maintaining a single source of truth for elements that few individuals need isn't difficult (e.g., using a single shared document for a [1-to-1 meeting](https://about.gitlab.com/handbook/leadership/1-1/) between a people manager and direct report). Honoring the single source of truth is harder for elements that are cross-functional by design, such as a list of all applications used across the entire organization.
 
 In conventional organizations, multiple departments may maintain their own version of this list. Crucially, this is either not acknowledged as a problem, or there is no known solution to removing duplication. In an organization powered by TeamOps, duplicate sources may exist initially, but the goal is to remove duplication. Once duplication is discovered, everyone can contribute to the solution by collaborating to create an SSoT. At GitLab, the application list [lives in our handbook](https://about.gitlab.com/handbook/business-technology/tech-stack/), and its integrity is ensured thanks to [version control](https://about.gitlab.com/topics/version-control/).
+
+**Resource:** [The importance of a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) (article)
+
+**Resource:** [How Strong Documentation Powers Async Work](https://www.workplaceless.com/blog/how-strong-documentation-powers-async-work) (article)
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for Single Source of Truth" %}}
-- **Individual:** Set a cadence (including calendar reminders!) to update your SSoT with information relevant to your role and its FAQs at least monthly.
-- **Team:** At least once per quarter, schedule a 1-2 day sprint to audit and update your team’s section of the SSoT. Confirm that all documentation is complete and current, including team member information, workflows, templates, policies, protocols, hyperlinks, etc.
-- **Company:** Update your company’s onboarding and continuing education programs to include training about how to navigate and utilize your SSoT.
+{{% details summary="Change management support for Single Source of Truth" %}}
+
+**Quick Start Tips:**
+- *Individual:* Set a cadence (including calendar reminders!) to update your SSoT with information relevant to your role and its FAQs at least monthly.
+- *Team:* At least once per quarter, schedule a 1-2 day sprint to audit and update your team’s section of the SSoT. Confirm that all documentation is complete and current, including team member information, workflows, templates, policies, protocols, hyperlinks, etc.
+- *Company:* Update your company’s onboarding and continuing education programs to include training about how to navigate and utilize your SSoT.
+
+**Recommended TeamOps Partners:**
+- [Almanac](https://almanac.io/) (tool)
+- [Distribute Consulting](https://www.distributeconsulting.com/) (consultant)
 {{% /details %}}
 
 ## Public by default
@@ -57,7 +67,7 @@ In practice, a TeamOps organization uses a knowledge management system that allo
 
 This type of system scales with much less effort, and scalable leadership is effective leadership. By writing guidance down transparently — in a way that others can modify, validate, or contribute to — leadership scales beyond an individual or team, and even beyond the organization.
 
-{{% details summary="Example of public by default" %}}
+{{% details summary="Examples and resources for public by default" %}}
 **Example:** [Livestreaming company meetings on a branded YouTube channel](https://youtu.be/XcqloQezOUg)
 
 Shortly after GitLab Chief Revenue Officer Michael McBride joined the company in 2018, he [livestreamed a 1-to-1 meeting](https://youtu.be/XcqloQezOUg) with GitLab co-founder and CEO Sid Sijbrandij. As part of McBride's onboarding, Sid was asked to provide an impromptu pitch of GitLab.
@@ -65,10 +75,13 @@ Shortly after GitLab Chief Revenue Officer Michael McBride joined the company in
 In a conventional organization, this interaction would likely be private and not recorded. By recording it and streaming it to the public on a branded YouTube channel, everyone is more informed — the two individuals on the call; GitLab team members past, present, and future; the wider community; customers and partners; candidates; et al.
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for public by default" %}}
-- **Individual:** When a team member initiates a non-confidential conversation via email or direct message, move the thread to a public channel for visibility and broader contributions.
-- **Team:** If team members refer to conversations, decisions, or approvals that were hidden or inaccessible, ask if they can share documentation of the conversation with the rest of the group. Or, at least, ask for a commitment for those conversations to be facilitated in public channels in the future.
-- **Company:** Confirm that all engagement and employee satisfaction surveys are measuring feelings of isolation, information accessibility, and effective communication.
+{{% details summary="Change management support for public by default" %}}
+**Quick Start Tips:**
+- *Individual:* When a team member initiates a non-confidential conversation via email or direct message, move the thread to a public channel for visibility and broader contributions.
+- *Team:* If team members refer to conversations, decisions, or approvals that were hidden or inaccessible, ask if they can share documentation of the conversation with the rest of the group. Or, at least, ask for a commitment for those conversations to be facilitated in public channels in the future.
+- *Company:* Confirm that all engagement and employee satisfaction surveys are measuring feelings of isolation, information accessibility, and effective communication.
+
+**Recommended TeamOps Partner:** [Distribute Consulting](https://www.distributeconsulting.com/) (consultant)
 {{% /details %}}
 
 ## Collaboration guidelines
@@ -79,16 +92,21 @@ When shared realities are based on effectively and efficiently sharing informati
 
 Guidelines should be included in your team's [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for easy reference and continuous accountability. Depending on the format of your knowledge management system and the volume of codification you have, it could either be a dedicated section, or woven throughout all of the pages.
 
-{{% details summary="Example of collaboration guidelines" %}}
-**Example 1:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
+{{% details summary="Examples and resources for collaboration guidelines" %}}
+**Example:** [Setting Internal Communication Guidelines for Standardized Tool Use](https://about.gitlab.com/handbook/communication/)
 
 To minimize miscommunications that can stem from cultural diversity, contextual interpretations, or various levels of software experience, GitLab maintains a handbook page about [internal communication guidelines](https://about.gitlab.com/handbook/communication/). These rules, instructions, and examples ensure that our internationally distributed workforce is using the same tools in the same way, and handing off results to one another without the risk of important information getting “lost in translation.”
+
+**Resource:** [How to Create a Team Working Agreement](https://www.mural.co/blog/team-agreement-guide) (article)
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for collaboration guidelines" %}}
-- **Individual:** Confirm that your SSoT includes a section for collaboration guidelines. If it does, commit to making at least one contribution to it per week. If it doesn’t, contact the DRI for the SSoT to resolve.
-- **Team:** Build a “suggestion box” communication channel or form where all team members can make suggestions for Collaboration Guideline additions.
-- **Company:** Update your company’s onboarding and continuing education programs to include training about collaboration guidelines.
+{{% details summary="Change management support for collaboration guidelines" %}}
+**Quick Start Tips:**
+- *Individual:* Confirm that your SSoT includes a section for collaboration guidelines. If it does, commit to making at least one contribution to it per week. If it doesn’t, contact the DRI for the SSoT to resolve.
+- *Team:* Build a “suggestion box” communication channel or form where all team members can make suggestions for Collaboration Guideline additions.
+- *Company:* Update your company’s onboarding and continuing education programs to include training about collaboration guidelines.
+
+**Recommended TeamOps Partner:** Kim Minnick
 {{% /details %}}
 
 ## Shared values
@@ -99,20 +117,25 @@ Each organization may create its unique values, but whatever they are, values mu
 
 Shared values also create guardrails that provide freedom for individual decision making. This leads to more informed decisions by removing guesswork on whether (or how) values were applied during operational processes.
 
-{{% details summary="Example of shared values" %}}
-**Example 1:** [20+ ways GitLab values are integrated into decision making](/handbook/values/#how-do-we-reinforce-our-values)
+{{% details summary="Examples and resources for shared values" %}}
+**Example:** [20+ ways GitLab values are integrated into decision making](/handbook/values/#how-do-we-reinforce-our-values)
 
 GitLab [reinforces its values in 20+ ways](/handbook/values/#how-do-we-reinforce-our-values), including what we select for during hiring, our default software settings, criteria for discretionary bonuses and promotions, and what we explicitly call out when making decisions. These intentional integrations increase the likelihood that decisions are informed by shared values.
 
-**Example 2:** [How to work with external teams](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company)
+**Example:** [How to work with external teams](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company)
 
 Starting communication and collaboration with an external team (be it prospective clients, vendors, partners, etc.) who are not familiar with GitLab's TeamOps culture may be daunting. Every organization has their own culture. We want to empower our team members to foster communication and education to build an understood shared reality. We start with [three main points](https://about.gitlab.com/company/culture/all-remote/asynchronous/#working-async-outside-of-your-company) to support this conversation.
+
+**Resource** [Virtual and hybrid teams with shared values perform better](https://www.iese.edu/insight/articles/hybrid-teams-values-perform-better/) (research report)
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for shared values" %}}
-- **Individual:** When responding or providing feedback to team members, highlight when their contributions activate one (or more) of your company values.
-- **Team:** When beginning a new project, discuss which values should be specifically prioritized for project success, and how they will influence the project roadmap or group dynamics.
-- **Company:** Update your company’s onboarding and continuing education programs to include training about your company values.
+{{% details summary="Change management support for shared values" %}}
+**Quick Start Tips:**
+- *Individual:* When responding or providing feedback to team members, highlight when their contributions activate one (or more) of your company values.
+- *Team:* When beginning a new project, discuss which values should be specifically prioritized for project success, and how they will influence the project roadmap or group dynamics.
+- *Company:* Update your company’s onboarding and continuing education programs to include training about your company values.
+
+**Recommended TeamOps Partner:** Kim Minnick
 {{% /details %}}
 
 ## Inclusivity
@@ -126,18 +149,23 @@ In TeamOps, a [bias for asynchronous communication](/teamops/everyone-contribute
 
 TeamOps frees contributors from the conventional bounds of time zones and meetings, and invites a wider audience to participate in a shared reality. This generates more informed contributions from more parties, more thoughtful conversation, and more archived context for retrospectives and evaluations.
 
-{{% details summary="Example of inclusivity" %}}
+{{% details summary="Examples and resources for inclusivity" %}}
 **Example:** [Changing a company operating principle](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/103753)
 
 Samantha L., a leader in GitLab's Learning & Development team, hosted [Crucial Conversations](https://about.gitlab.com/handbook/leadership/crucial-conversations/) cohorts for six months. She noticed a common theme: people consistently struggled to say "no" at work. Rather than hosting a closed-door meeting to change an operating principle to address this, Samantha proposed a change in a public forum ([a GitLab merge request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/103753)).
 
 Additionally, she posted a Slack message in the public `#values` channel asking for feedback and suggestions from anyone who felt compelled to contribute. Ultimately, [the DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) of the impacted handbook page — [GitLab Values](/handbook/values/) — came to a decision that was more informed, as it included a more diverse range of perspectives. The feedback is also well-documented for future reference and iterations.
+
+**Resource:** [Reimagining the virtual workplace around inclusion and engagement](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-blog/reimagining-the-virtual-workplace-around-inclusion-and-engagement) (article)
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for inclusivity" %}}
-- **Individual:** Commit to spending 1 hour per week to building professional relationships with your team members. Prioritize team members that work in independent roles, have quiet personalities, or you suspect are at risk for feeling underappreciated.
-- **Team:** Connect with your company’s diversity and inclusion director to ask for ideas on how to support your company’s current goals. To help measure your status, specifically request scores, resources, events, or trainings that might be available.
-- **Company:** Confirm that all engagement and employee satisfaction surveys are measuring feelings of connection, belonging, and trust.
+{{% details summary="Change management support for inclusivity" %}}
+**Quick Start Tips:**
+- *Individual:* Commit to spending 1 hour per week to building professional relationships with your team members. Prioritize team members that work in independent roles, have quiet personalities, or you suspect are at risk for feeling underappreciated.
+- *Team:* Connect with your company’s diversity and inclusion director to ask for ideas on how to support your company’s current goals. To help measure your status, specifically request scores, resources, events, or trainings that might be available.
+- *Company:* Confirm that all engagement and employee satisfaction surveys are measuring feelings of connection, belonging, and trust.
+
+**Recommended TeamOps Partner:** [Flourish](https://www.flouriship.com/) (consultant)
 {{% /details %}}
 
 ## Informal communication
@@ -146,7 +174,7 @@ An intentional approach to [informal communication](https://about.gitlab.com/com
 
 Building this level of trust also enables DRIs to make faster decisions, as there's a foundation of confidence in interacting with others.
 
-{{% details summary="Examples of informal communication" %}}
+{{% details summary="Examples and resources for informal communication" %}}
 **Example 1:** [Scheduling coffee chats during team member onboarding](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats)
 
 To set the precedent for informal communication at GitLab, each team member is required to schedule and conduct several [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and consider applying to join a [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/erg-guide/) as mandatory tasks during their [onboarding](https://about.gitlab.com/handbook/people-group/general-onboarding/). This ensures that they have the skills and confidence to initiate casual conversations and build cross-functional relationships during their time with the company.
@@ -154,12 +182,18 @@ To set the precedent for informal communication at GitLab, each team member is r
 **Example 2:** [Sharing READMEs (personal operating manuals) to build trust with new team members](https://about.gitlab.com/handbook/engineering/readmes/)
 
 Two GitLab team members have never worked together before, so they set up a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) and exchange [READMEs](https://about.gitlab.com/handbook/engineering/readmes/) prior to a new project starting. They learn a lot about each other, their work styles, and their backgrounds in the 25-minute video call and the asynchronous README reviews. The project runs more smoothly because of their [shared trust](https://about.gitlab.com/handbook/leadership/building-trust/) beyond transactional work interactions.
+
+**Resource:** [Informal Communication Definiton by BambooHR](https://www.bamboohr.com/resources/hr-glossary/informal-communication) (article)
+
 {{% /details %}}
 
-{{% details summary="Quick Start Tips for informal communication" %}}
-- **Individual:** Add 5 minutes of casual conversation time to the beginning or end of every meeting agenda.
-- **Team:** After a break, holiday, or company closure, reconnect as a team in your asynchronous communication platform by each sharing pictures of how you spent your time off.
-- **Company:** Build channels in your asynchronous communication platform dedicated exclusively to informal communication about topics like hobbies, local culture/events, pets, caretaking, etc. (Check out [GitLab’s Slack channel directory](/handbook/communication/chat/) for inspiration.)
+{{% details summary="Change management support for informal communication" %}}
+**Quick Start Tips:**
+- *Individual:* Add 5 minutes of casual conversation time to the beginning or end of every meeting agenda.
+- *Team:* After a break, holiday, or company closure, reconnect as a team in your asynchronous communication platform by each sharing pictures of how you spent your time off.
+- *Company:* Build channels in your asynchronous communication platform dedicated exclusively to informal communication about topics like hobbies, local culture/events, pets, caretaking, etc. (Check out [GitLab’s Slack channel directory](/handbook/communication/chat/) for inspiration.)
+
+**Recommended TeamOps Partner:** [Flourish](https://www.flouriship.com/) (consultant)
 {{% /details %}}
 
 ---
