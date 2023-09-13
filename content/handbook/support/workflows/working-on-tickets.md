@@ -115,23 +115,34 @@ ticket to a great resolution. You're never alone. So go ahead and accept the
 challenge! Assign the ticket to yourself, send out your first response, and
 seek help as soon as you need it.
 
-### Assigning a ticket with a different preferred region
+### Assigning and handling tickets which have a different preferred region in your SGG
 
-In SGG, if you've found a new (no first response yet) ticket in your group's
-view that you would like to work, you should feel free to work it regardless
-of its `Preferred region` setting. Please assign yourself the ticket and
-provide a substantive first response as usual. The one extra thing you should do
-is determine whether to keep the ticket or to do a "warm transfer" to **a member
-of your group** who is in the preferred region.
+#### Pathway for handling high priority tickets from a different region
 
-1. If you're confident that your first response will result in the ticket being
-   solved, then keep it.
-1. Otherwise:
-   1. Include a message in your first response informing the customer
-      that you work in a region different from theirs and that it is their
-      choice whether to continue to work with you or to have you transfer their
-      ticket to a support engineer in their region.
-   1. If the customer requests a transfer, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions)
+1. If a ticket is marked as "High Priority" and you have the answer, take assignment of the ticket and offer a solution. If the solution does not resolve the issue, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
+1. If a ticket is marked as "High Priority" and will not breach the FRT (First Response Time) SLA before an hour after the preferred region's support comes online, consider conducting initial research, and recording your findings as an internal note. Do not assign the ticket to yourself.
+1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a response to the requester, and then proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
+
+#### Pathway for handling non priority tickets from a different region
+
+1. If a ticket is not marked as "High Priority," and you're confident in your ability to resolve it, follow these steps:
+      - Take assignment of the ticket and prepare the first technical response.
+      - Use the ZD macro "clarify preferred region assignment" as part of the first response.
+      - If the customer responds and confirms the preferred region, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
+      - If the customer is okay with out-of-region support, continue to offer assistance and regularly assess customer satisfaction and technical progress. Consider a handover if the ticket's priority changes or if the customer becomes frustrated.
+      - If neither of the above scenarios applies, continue to work on the ticket to find a solution.
+1. If a ticket is not marked as "High Priority," and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
+      - Take the assignment.
+      - Provide an initial response to the customer.
+      - Proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
+
+#### Pathway for handling tickets handed over from from a different region
+
+1. Review the progress of the ticket and check the NRT (Next Response Time) SLA.
+   - If you know how to proceed with the ticket:
+      - Introduce yourself to the customer, confirm the handover, and provide the next technical response.
+   - If additional research is necessary:
+      - Introduce yourself to the customer and set clear expectations that further research and a review of the existing information is required before providing the next technical response.
 
 ## Providing a first response to a ticket
 
