@@ -43,7 +43,7 @@ To keep their globally-distributed team equipped with instructions for a variety
 
 **Recommended TeamOps Partners:**
 - [Modern Leaders](https://www.modernleaders.co/) (consultant)
-- Kim Minnick (consultant)
+- [Code Traveller HR](https://codetravellerhr.com) (consultant)
 {{% /details %}}
 
 ## Give agency
