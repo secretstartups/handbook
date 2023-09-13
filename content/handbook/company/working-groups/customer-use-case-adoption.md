@@ -62,6 +62,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
 
 ## Multimodal Communication
+
 - Apply the following labels to issues and epics to enable tracking and team wide visibility
     - `WorkingGroup::UseCaseAdoption`
     - `UseCase::CI`
@@ -71,4 +72,4 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
     - `wg-status::In Progress`
     - `wg_status::Blocked`
     - `wg_status::Complete`
-- Formalize "asks" of the Working Group by filing an issue against the [CI Adoption - Working Group Asks](https://gitlab.com/groups/gitlab-com/-/epics/2232) epic to enable cross-functional visibility, collaboration, and prioritization  
+- Formalize "asks" of the Working Group by filing an issue against the [CI Adoption - Working Group Asks](https://gitlab.com/groups/gitlab-com/-/epics/2232) epic to enable cross-functional visibility, collaboration, and prioritization
