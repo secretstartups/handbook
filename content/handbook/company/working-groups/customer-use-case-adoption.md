@@ -60,3 +60,16 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Marketing                           | Dan Hom                       | Product Marketing Manager                                  |
 | Member - Product                             | Mike Flouton                  | VP of Product Management                                   |
 | Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
+
+## Multimodal Communication
+
+- Apply the following labels to issues and epics to enable tracking and team wide visibility
+    - `WorkingGroup::UseCaseAdoption`
+    - `UseCase::CI`
+- Apply the appropriate [Working Group status labels](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=wg-status) for issues or epics
+    - `wg-status::Not Started`
+    - `wg-status::Ready`
+    - `wg-status::In Progress`
+    - `wg_status::Blocked`
+    - `wg_status::Complete`
+- Formalize "asks" of the Working Group by filing an issue against the [CI Adoption - Working Group Asks](https://gitlab.com/groups/gitlab-com/-/epics/2232) epic to enable cross-functional visibility, collaboration, and prioritization
