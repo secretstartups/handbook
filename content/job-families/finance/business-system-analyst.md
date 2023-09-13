@@ -139,7 +139,7 @@ All the responsibilities of a Staff Business Systems Analyst, plus:
 - Focuses on work across multiple teams/Sub-department
 - Play a central role in technical, business, and organizational contributions impacting a team member's Sub-department
 - Drives formal networks with key decision makers and serves as external spokesperson for the organization
-- Works on significant and unique issues where coming to a resolution requires complex analysis 
+- Works on significant and unique issues where coming to a resolution requires complex analysis
 - Requires conceptual thinking to understand advanced issues and implications
 - Exercises independent judgment in methods, techniques and evaluation criteria for obtaining results
 - Proposed solutions may impact results of a team member's division
