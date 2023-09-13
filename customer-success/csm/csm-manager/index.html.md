@@ -285,37 +285,7 @@ This is a suggested cadence that can be used by regional CSM managers in their w
 
 ### President's Club Calculations
 
-The following process is that used to calculate the President's Club Performance (FY24): 
-
-CSM must have been in a commissionable role since beginning of Q3
-
-#### CSM Nomination Criteria (equally weighted):
-
-1. % of Accounts with manager-validated Green Success Plans (Based on accounts >30 days from onboarding start date)
-1. % per CSM attainment to targets laid out in FY24 comp. plans: Net ARR & Renewal rate.
-
-#### CSE Nomination Criteria (equally weighted):
-
-1. % attainment of CSE customer calls to target 
-1. % per CSE attainment to targets laid out in FY24 comp. plans: Net ARR & Renewal rate.
-
-
-#### Scoring Process for each of the categories:
-1. 1st place in the team: 50 points
-1. 2nd place in the team: 35 points
-1. 3rd place in the team: 15 points
-
-#### People Manager Criteria:
-
-1. CSM/CS Leadership discretion based on GitLab values, and is at the discretion of CS leadership.
-
-#### Conditions:
-1. No points for anything following top 3 positions unless there are multiple CSMs with 100% (success plans for example), in which case each CSM scoring 100% would receive 50 points
-1. If there are two or more CSMs tying for a position across the other categories, 50 points each for top place
-1. In a smaller team, if a CSM scores 0 for any category, they do not get points in simply defaulting to 3rd place - this CSM/s would score 0 and 1st/2nd place would remain at 50/35 points respectively
-
-
-**Final Tally: Top CSMs per team by points**
+President's Club criteria and processes are documented in the [GitLab internal handbook](https://internal.gitlab.com/handbook/sales/presidents-club/).
 
 
 ## Team Member Performance
