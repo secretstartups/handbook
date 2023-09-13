@@ -114,7 +114,7 @@ The Senior Professional Services Engagement Manager is a [grade 7](https://about
 
 - Knowledge of professional services selling processes.
 - Experience with Salesforce as a means of prospecting, forecasting and quoting.
-- Understanding of SDLC, Version Control Systems, Continuous Integration/Continuous Deployment methodologies. 
+- Understanding of SDLC, Version Control Systems, Continuous Integration/Continuous Deployment methodologies.
 
 ### Staff Professional Services Engagement Manager
 
