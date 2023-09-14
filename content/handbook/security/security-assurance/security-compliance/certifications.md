@@ -59,7 +59,7 @@ Year(s): FY24
 
 Year(s): FY25
 
-- [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
+- [ISO/IEC 27001:2022](https://www.iso.org/isoiec-27001-information-security.html) Certification: Recertification
 
 ## Requesting Evidence of Certifications or Attestations
 
