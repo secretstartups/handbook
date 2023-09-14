@@ -25,7 +25,7 @@ graph TD
     D -->|No| F[Check 'Ensuring correct SLA and Zendesk views' workflow and contact Support Ops for help]
     J --> |No| E[Contact Support Ops!]
     J --> |Yes| I[Does it qualify for Support?]
-    I --> |No| K[Reply with 'Self-managed or GitLab.com Free User Request' macro]
+    I --> |No| K[See 'Handling Free User tickets' section below]
     I --> |Yes| E
 ```
 
