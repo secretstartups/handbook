@@ -132,8 +132,8 @@ seek help as soon as you need it.
       - If the customer is okay with out-of-region support, continue to offer assistance and regularly assess customer satisfaction and technical progress. Consider a handover if the ticket's priority changes or if the customer becomes frustrated.
       - If neither of the above scenarios applies, continue to work on the ticket to find a solution.
 1. If a ticket is not marked as "High Priority," and it's at risk of breaching the FRT SLA, and you are not confident in resolving the issue, follow these steps:
-      - Take the assignment.
-      - Provide an initial response to the customer.
+      - Take assignment of the ticket.
+      - Provide a first technical response to the customer.
       - Proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
 
 #### Pathway for handling tickets handed over from from a different region
