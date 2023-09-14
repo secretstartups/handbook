@@ -234,3 +234,9 @@ Data is monitored via Monte-Carlo
 ### Decommission Postgres pipeline table
 
 When one (or more) tables require decommissioning from the `Postgres` pipeline, follow the steps mentioned in the [**Runbook guideline**](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/table_decommission/README.md) to avoid any failure caused due to removal of the table.
+
+### Gitlab.com additional table details
+[This handbook page](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/gitlab-com-additional-table-details/) has more detail on any tables that don't fit the normal mold.
+
+So far, that includes these tables:
+- `merge_request_diff_commits`
