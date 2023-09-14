@@ -263,11 +263,7 @@ If necessary, the Talent DRI will create a Slack channel (#offer-job-title) to d
 
 **Offer Approvals**
 
-In addition to the normal [offer approval process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals), Senior Director and above offers require CEO approval.
-
-Once the offer is approved by all necessary parties leading up to the CEO, tag Sid in the #ceo-offers Slack channel, with the following message:
-
-We’d like to extend an offer to (candidate name, with link to the offer in Greenhouse ) for (job title). Please review for approval. cc: (EBA to CEO)
+In addition to the normal [offer approval process](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/offer-process/#offer-approvals), Director and above offers require approval from the e-group member over the division.
 
 **Offer Delivery**
 
