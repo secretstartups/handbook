@@ -215,6 +215,7 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"bug::mobile"`: Defects encountered on Mobile Devices
   - `~"bug::functional"`: Functional defects resulting from feature changes
   - `~"bug::ux"`: Unexpected and unintended behavior that is detrimental to the user experience.
+  - `~"bug::transient"`: Defects that are transient.
   - _Note:_ **New** documentation or **new** feature flags that relate to `~"type::bug"` are considered `~"type::bug"`.
 1. `~"type::feature"`: Effort to deliver new features, feature changes & improvements. Read more about [features vs bugs](/handbook/product/product-processes/#issues).
   - `~"feature::addition"`: The first MVC that gives GitLab users a foundation of new capabilities that were previously unavailable. Includes [good user value, usability, and tests](/blog/2021/12/01/dont-confuse-these-twelve-shortcuts-with-iteration/). For example, these issues together helped create the first MVC for our Reviewer feature: [Create a Reviewers sidebar widget](https://gitlab.com/gitlab-org/gitlab/-/issues/237921), [Show which reviewers have commented on an MR](https://gitlab.com/gitlab-org/gitlab/-/issues/10294), [Add reviewers to MR form](https://gitlab.com/gitlab-org/gitlab/-/issues/216054), [Increase MR counter on navbar when user is designated as reviewer](https://gitlab.com/gitlab-org/gitlab/-/issues/255102)
@@ -230,6 +231,9 @@ The 3 types (Bug, Feature & Maintenance) is key to our report to industry analys
   - `~"maintenance::test-gap"`: Test coverage improvements that were not included in feature prioritization.
   - `~"maintenance::pipelines"`: Pipeline related changes.
   - `~"maintenance::workflow"`: Improvements of the engineering tooling like Danger, RuboCop, linters, issue templates, etc. 
+  - `~"maintenance::performance"`: Non-defect performance improvements such as load time for a specific page or component, or run time for a specific process.
+  - `~"maintenance::release"`: Release management related changes.
+
 
 If these labels are missing, it will be tracked in the `undefined` bucket instead.
 The Engineering Manager for each team is ultimately responsible for ensuring that these labels are set correctly. If you do not feel the purpose of this issue matches one of the types, you may apply the `~type::ignore` label to exclude it from type tracking metrics and future prompts, this can be good for issues marked `~Planning Issue`.
