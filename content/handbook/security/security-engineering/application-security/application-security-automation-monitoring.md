@@ -14,7 +14,7 @@ The Application Security team uses a number of automation initiatives to help se
 - [Package Hunter](https://gitlab.com/gitlab-org/security-products/package-hunter) detects suspicious activity in dependencies at runtime ([related runbook]({{< ref "investigating-package-hunter-findings" >}}))
 - [GitLab Inventory](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/inventory) monitors our projects and violations of security best practices and standards
 - GitLab's own [application security features](https://docs.gitlab.com/ee/user/application_security/) are running in CI
-- [Advanced Search Token Hunter](https://gitlab.com/gitlab-com/gl-security/appsec/advanced-search-token-hunter) monitors for leaked credentials
+- [Tokinator](https://gitlab.com/gitlab-com/gl-security/appsec/tokinator) monitors for leaked credentials
 - [AppSec Escalator](https://gitlab.com/gitlab-private/gl-security/engineering-and-research/automation-team/escalator/appsec-escalator/) which is a tool that...
   - monitors that security issues are labeled properly
   - sets appropriate due dates on security issues
