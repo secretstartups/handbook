@@ -51,7 +51,7 @@ The following security certifications and attestations are currently on our road
 
 Year(s): FY24
 
-- [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html): +Privacy Criteria
+- [SOC 2 Type 2 Report](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
 - [ISO/IEC 27001:2013](https://www.iso.org/isoiec-27001-information-security.html) Certification: Surveillance audit
 - [Software Bill of Materials (SBOM)](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 - [PCI Attestation of Compliance](https://www.pcisecuritystandards.org/)
