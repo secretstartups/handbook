@@ -1373,6 +1373,16 @@ extras:
       Description two
 ```
 
+Apply the following labels to the MR:
+
+- `release post item`
+- `release post`
+- `release post item::extras`
+
+For review, select the [technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+
+When the MR is approved, add the `Ready` label before merging.
+
 ### Deprecations, removals, and breaking changes
 
 Deprecation, removal, and breaking change announcements appear [in GitLab Docs](https://docs.gitlab.com/ee/update/deprecations.html) and in the release post of the announcement's corresponding milestone.
@@ -1492,9 +1502,15 @@ upgrades:
       Veritatis, quisquam.
 ```
 
-Once complete, assign the MR to the [technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+Apply the following labels to the MR:
 
-When approved, include the Ready label in the MR before merging.
+- `release post`
+- `release post item`
+- `release post item::upgrades`
+
+For review, select the [technical writer](/handbook/product/ux/technical-writing/#designated-technical-writers) assigned to the stage.
+
+When the MR is approved, add the `Ready` label before merging.
 
 ## Major releases
 
