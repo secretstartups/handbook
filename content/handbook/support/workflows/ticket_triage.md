@@ -22,7 +22,7 @@ graph TD
     B -->|Yes| D{Does the ticket have an SLA?}
     B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
-    D -->|No| F[Check 'Ensuring correct SLA and Zendesk views' workflow and contact Support Ops for help]
+    D -->|No| F[Contact Support Ops!]
     J --> |No| E[Contact Support Ops!]
     J --> |Yes| I[Does it qualify for Support?]
     I --> |No| K[See 'Handling Free User tickets' section below]
