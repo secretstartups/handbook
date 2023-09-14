@@ -796,12 +796,18 @@ If you would like to improve your skills or expand your knowledge on topics rela
   <tr>
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">12</td>
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Leads with the value of Diversity &amp; Inclusion across the company and finds opportunities to limit the impact of bias on decision making processes. They sponsor internal initiatives to increase trust, psychological safety and inclusion. They hold their senior management and the e group accountable for upholding this value.</td>
-    <td class="tg-0lax"><ul style=“list-style-type:disc><li>Advocate and Integrate DIB into your organizational KPIs/OKRs, e.g.OKR: continue to build and grow a diverse workforce/organization</li><li>Partner with the <a href="https://about.gitlab.com/company/culture/inclusion/">DIB Team</a> & <a href="https://about.gitlab.com/company/culture/inclusion/leadership-dib-council/">Leadership DIB Council</a> to establish an action plan for your departments & division</li><li>Serve as an <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRG</a> executive sponsor</li><li>Embed DIB into All hands or in person events e.g.review organizations OKR as it relates to DIB progress, champion trainings related to further DIB knowledge, invite guest speakers to advocate</li></ul></td>
+    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc><li>Advocate and Integrate DIB into your organizational KPIs/OKRs, e.g.OKR: continue to build and grow a diverse workforce/organization</li><li>Partner with the <a href="https://about.gitlab.com/company/culture/inclusion/">DIB Team</a> & <a href="https://about.gitlab.com/company/culture/inclusion/leadership-dib-council/">Leadership DIB Council</a> to establish an action plan for your departments & division</li><li>Serve as an <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRG</a> executive sponsor</li><li>Embed DIB into All hands or in person events e.g.review organizations OKR as it relates to DIB progress, champion trainings related to further DIB knowledge, invite guest speakers to advocate</li></ul></td>
   </tr>
   <tr>
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">EVP/CXO</td>
     <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;">Champions the value of Diversity, Inclusion and Belonging into the company's strategy. They champion and sponsor internal and external D&amp;I initiatives. They speak to the importance of this value in company-wide meetings. They hold their leaders and other e group members accountable for upholding this value. They continuously seek ways to increase trust, psychological safety and inclusion across the broader company.</td>
-    <td class="tg-0lax" style="border:gray; border-width:0.5px; border-style:solid;"></td>
+    <td class="tg-0lax"  style="border:gray; border-width:0.5px; border-style:solid;"><ul style=“list-style-type:disc>
+<li>Support current cross-functional <a href="https://about.gitlab.com/company/yearlies/#fy24-yearlies">Yearlies</a> initiative focused on continuing to build a diverse team of top talent that we retain and grow</li>
+<li>Advocate and Integrate DIB into your organizational KPIs/OKRs, e.g.OKR: continue to build and grow a diverse workforce/organization</li>
+<li>Partner with the <a href="https://about.gitlab.com/company/culture/inclusion/">DIB Team</a> & <a href="https://about.gitlab.com/company/culture/inclusion/leadership-dib-council/">Leadership DIB Council</a> to establish an action plan for your departments & division</li>
+<li>Serve as a <a href="https://about.gitlab.com/company/culture/inclusion/erg-guide/">TMRG</a> executive sponsor</li>
+<li>Embed DIB into All hands or in person events e.g.review organizations OKR as it relates to DIB progress, champion trainings related to further DIB knowledge, invite guest speakers to advocate</li>
+</ul></td>
   </tr>
 </table>
 
