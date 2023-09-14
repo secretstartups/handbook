@@ -22,10 +22,10 @@ graph TD
     B -->|Yes| D{Does the ticket have an SLA?}
     B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
-    D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
+    D -->|No| F[Check 'Ensuring correct SLA and Zendesk views' workflow and contact Support Ops for help]
     J --> |No| E[Contact Support Ops!]
     J --> |Yes| I[Does it qualify for Support?]
-    I --> |No| K[Set form to 'Community']
+    I --> |No| K[Reply with 'Self-managed or GitLab.com Free User Request' macro]
     I --> |Yes| E
 ```
 
