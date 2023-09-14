@@ -421,8 +421,8 @@ If your GC is optional and you need to move the date, please work with your depa
 | Wednesday October 4 | **Available** | DRI | Key Review Date |
 | Thursday October 5 | Security | Josh Lemos | September 21 |
 | Tuesday October 10 |  **Available** | DRI | Key Review Date |
-| Wednesday October 11 | IT | Nabitha Rao | October 5 |
-| Thursday October 12 |  **Available** | DRI | Key Review Date |
+| Wednesday October 11 | **Available** | DRI | Key Review Date |
+| Thursday October 12 |  IT | Nabitha Rao | October 5 |
 | Tuesday October 17 |  **Available** | DRI | Key Review Date |
 | Wednesday October 18 |  Development | Christopher Lefelhocz | October 10 |
 | Thursday October 19 | **Available** | DRI | Key Review Date |
