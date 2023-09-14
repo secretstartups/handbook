@@ -136,7 +136,7 @@ seek help as soon as you need it.
       - Provide a first technical response to the customer.
       - Proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
 
-#### Pathway for handling tickets handed over from from a different region
+#### Pathway for handling tickets handed over from a different region
 
 1. Review the progress of the ticket and check the NRT (Next Response Time) SLA.
    - If you know how to proceed with the ticket:
