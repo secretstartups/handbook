@@ -121,7 +121,7 @@ seek help as soon as you need it.
 
 1. If a ticket is marked as "High Priority" and you have the answer, take assignment of the ticket and offer a solution. If the solution does not resolve the issue, proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
 1. If a ticket is marked as "High Priority" and will not breach the FRT (First Response Time) SLA before an hour after the preferred region's support comes online, consider conducting initial research, and recording your findings as an internal note. Do not assign the ticket to yourself.
-1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a response to the requester, and then proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
+1. If a ticket is marked as "High Priority" and there's a risk it might breach the FRT SLA time before the preferred region's support is online, take the assignment, send a substantive response to the requester, and then proceed with the steps in [Handing over tickets and customer calls between regions](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#handing-over-tickets-and-calls-between-regions).
 
 #### Pathway for handling normal and low priority tickets from a different region
 
