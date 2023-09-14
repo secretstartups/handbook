@@ -24,28 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Hands-On GitLab CI Workshop for Jenkins Users
-##### September 12th, 2023 at 3:30-5:00PM Pacific Time / 6:30-7:00PM Eastern Time / 8:30-9:00AM UTC+10
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization! 
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bAlQkD6GT8WPNZSp_8-Nig#/registration)
-
-#### Hands-On GitLab CI Workshop for Jenkins Users
-##### September 13th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_S5d4hSF7SUKrbFTTzeRU0A#/registration)
-
 #### Intro to CI/CD
 ##### September 15th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
