@@ -15,6 +15,8 @@ Team members can reach the AppSec team by:
 - Asking in `#sec-appsec` or mentioning `@appsec-team` on Slack
 - Mentioning `@gitlab-com/gl-security/appsec` on GitLab
 - Finding your Stable Counterpart on the [Product sections, stages, groups, and categories](https://about.gitlab.com/handbook/product/categories/) page
+- Submit an issue in the [AppSec Team repository](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues)
+- For cross team collaboration improvement opportunities, use [this template for collaboration improvement opportunities](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/new?issuable_template=cross-team-collaboration-improvement)
 
 ## Application Security Roadmap
 
