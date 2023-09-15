@@ -1377,6 +1377,7 @@ Below are some attributes of political and non-political work environments. GitL
 | Folks do not provide direct feedback. Instead, they withhold their thoughts or speak behind each other's backs | Feedback is given directly. This includes feedback about a manager's team |
 | Communicating your own suggestions through a report instead of directly | Feedback is given directly from the person who has it |
 | Evaluating proposals or work by who said or did it instead of by what is in it | Proposals and work is evaluated without regard to who worked on them |
+| Lack of transparency in escalations. Team members go to a manager without first attempting to align with peers on an issue or letting peers know |  Team members speak directly to each other about feedback and requests in order to resolve their own conflicts. When they escalate, [they do it in an effective way](/leadership/#effective-escalations) |
 
 {{< youtube id="vEk9z5vumB8" >}}
 
