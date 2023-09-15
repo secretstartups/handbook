@@ -290,6 +290,7 @@ If your GC is optional and you need to move the date, please work with your depa
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month | | EBA to CEO|
 | [Alliances](https://about.gitlab.com/handbook/alliances/) | Nima Badiey | No | Quarterly | | EBA to VP of Alliances |
 | [IT](https://about.gitlab.com/handbook/business-technology/it) | Nabitha Rao | Yes | Quarterly | | EBA to VP of Business Technology |
+| [Data](https://about.gitlab.com/handbook/business-technology/data-team/) | Amie Bright | Yes | Quarterly | | EBA to VP of Business Technology |
 
 | AMAs | DRI |  AMA Frequency | Alternate Hosts | Scheduling DRI |
 | ------------------ | --- | ------------ | --------------- | -------------- |
