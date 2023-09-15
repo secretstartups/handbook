@@ -27,14 +27,14 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
 ## Workflow for selecting GitLab MVP
 
 1. A [nomination issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/release-post-mvp-nominations.md) is automatically generated on 3rd of the month.
-1. Link the nomination issue in the `#release-post`, `#developer-relations`, `#mr-coaching`, `#core`, and `#whats-happening-at-gitlab` Slack channels.
-      ```md
-      :mega: Time to Nominate the __RELEASE_VERSION__ :letter_m: :letter_v: :letter_p: :mega:
+1. Link the nomination issue in the `#whats-happening-at-gitlab` Slack channel.
+   ```md
+   :mega: Time to Nominate the __RELEASE_VERSION__ :letter_m: :letter_v: :letter_p: :mega:
 
-      Please spread the word and add your nominations for the next :mvpcrown:  MVP :mvpcrown:  in __INSERT_MVP_NOMINATION_ISSUE__ 
-      @contributor-success-team will make a selection on the 15th of this month. Nominating an MVP could be your act of kindness of the day. It is also helpful to level up yourselves and the nominated contributor.
-      ```
-
+   Please spread the word and add your nominations for the next :mvpcrown:  MVP :mvpcrown:  in __INSERT_MVP_NOMINATION_ISSUE__ 
+   @contributor-success-team will make a selection on the 15th of this month. Nominating an MVP could be your act of kindness of the day. It is also helpful to level up yourselves and the nominated contributor.
+   ```
+1. Share the post in `#release-post`, `#developer-relations`, `#mr-coaching`, and `#core`.
 1. Link the nomination issue in the `#announcements` Discord channel.
 1. Encourage team members and the wider community to vote by sharing reminders in the above Slack and Discord channels. 
   - Complete by 12th of the month or earliest business day.
@@ -65,11 +65,18 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
    -d '{"query":"mutation{achievementsAward(input:{achievementId: \"gid://gitlab/Achievements::Achievement/53\" userId: \"gid://gitlab/User/<user_id>\"}){errors}}"}' \
    https://gitlab.com/api/graphql
    ```
-1. Announce the MVP winner in the team member Slack channels and community Discord.
-  - Link to the MVP section of the release post
-  - In the Slack message, thank any team members who added nominations, supportive comments or :thumbsup: votes within the MVP nomination issue.
-  - In the Discord message, thank any wider community members who participated.
-1. Follow the steps for [Sending MVP Appreciation Gifts](#sending-mvp-appreciation-gifts)
+1. Link to the decision (the nomination issue) in the `#whats-happening-at-gitlab` Slack channel.
+   ```md
+   :tada: Congratulations to our 16.4 :letter_m: :letter_v: :letter_p: winner X https://gitlab.com/x
+   Note about X's contribution(s).
+
+   A huge thank you to A B and C for nominating MVPs and X Y and Z for voting.
+   https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/x
+   ```
+1. Share the post in `#release-post`, `#developer-relations`, `#mr-coaching`, and `#core`.
+1. Link to the decision (the nomination issue) in the `#announcements` Discord channel.
+   In the Discord message, thank any wider community members who participated.
+1. Follow the steps for [Sending MVP Appreciation Gifts](#sending-mvp-appreciation-gifts).
 
 ### MVP Eligibility
 
