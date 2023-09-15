@@ -17,7 +17,7 @@ title: "People Analytics Tableau Dashboard Overview"
 
 * [Tableau People Folder](https://10az.online.tableau.com/#/site/gitlab/projects/300909) - This is the main folder to find all People Dashboards. This is currently in our Development project but will be moving to our Production location in the future.
 
-* [Tableau Workshops](https://docs.google.com/presentation/d/1bpfwLKKQn3pFawbtGJLhFG_xSpz_qbrzi2PD524_0DM/edit#slide=id.g20e385ea126_0_477) - Held by the People Analytics team as an introduction to using Tableau and navigating the current dashboards available.
+* [Tableau Workshops](https://docs.google.com/document/d/1ChdkC7Tep_HL6UqvJ6PNzLxDmR7QNo5LN823wS0ZAZU/edit#heading=h.2e7gftq6eevx) - Held by the People Analytics team as an introduction to using Tableau and navigating the current dashboards available.
 
 ## People Group Dashboard Inventory
 
