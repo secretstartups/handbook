@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 14 | Propensity to Purchase (PTP) Score Launch  | Melia V. |
 | Sep 21 | Customer Win Stories & Enablement - Leveraging Professional Services  | Bryan M. |
 | Sep 28 | Value Framework Refresh Overview  | Saumya U. & Joe K. |
 | Oct 5 | FY24-Q3 - Analyst Relations Update  | Ryan R. |
@@ -39,6 +38,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-09-14 | **[Propensity to Purchase (PTP) Score Launch](https://drive.google.com/file/d/1dJvpME0GKpRczdMpOu5O6ZnBJRSbGHn9/view?usp=drive_link)**  | Private |
 | 2023-09-07 | **[FY24-Q3 - Better Together: Winning with Cloud Partners](https://drive.google.com/file/d/1uUAQPxTBf_KYgf2lbEdo31waK46jml7t/view?usp=drive_link)**  | Private |
 | 2023-08-31 | **[FY24-2H - Solution Play: AI Powered DevSecOps](https://drive.google.com/file/d/1PRglbQGGW4QYiqhQ6BU2bVcZ6NRKIv-k/view?usp=drive_link)**  | Private |
 | 2023-08-24 |  **[New Compliance Deck & Demo Environment](https://gitlab.highspot.com/items/64e7934a0d1c03be0ae9d8e6)**  | Private |
