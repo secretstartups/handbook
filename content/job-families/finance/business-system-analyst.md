@@ -136,7 +136,10 @@ The Principal Business Systems Analyst is a [grade 9](https://about.gitlab.com/h
 
 All the responsibilities of a Staff Business Systems Analyst, plus:
 
-- Focuses on work across multiple teams/Sub-department
+- Focuses on work across multiple teams/sub-department such as:
+   - System Enhancement: Assess existing systems and processes and identify areas for improvement. Recommends and designs enhancements to streamline operations, increase productivity, and support business growth
+   - Stakeholder Communication: Effectively communicates complex technical concepts to non-technical stakeholders. Build and maintain strong relationships with business units, IT teams, and external vendors
+   - Project Leadership: Takes a lead role in business analysis activities within projects. Collaborates with project managers to ensure successful project delivery, including on-time and within-budget implementations
 - Play a central role in technical, business, and organizational contributions impacting a team member's Sub-department
 - Drives formal networks with key decision makers and serves as external spokesperson for the organization
 - Works on significant and unique issues where coming to a resolution requires complex analysis
@@ -163,7 +166,11 @@ The Business Systems Architect is a [grade 10](https://about.gitlab.com/handbook
 
 All the responsibilities of a Principal Business Systems Analyst, plus:
 
-- Focuses on work across Sub-departments
+- Focuses on work across sub-departments such as:
+   - Architecture Development: Creates and maintain system architecture diagrams, and documentation that outline the structure, components, and interactions of the systems being developed. Ensure that architecture decisions align with industry best practices and standards
+   - Technology Selection: Evaluates and recommend appropriate technologies, platforms, and tools to meet business needs
+   - Integration Planning: Defines strategies for integrating new systems with existing ones, ensuring seamless data flow and minimal disruption to ongoing operations
+   - Risk Assessment: Identifies potential risks and vulnerabilities in the proposed architecture and develop mitigation strategies to address them
 - Drives the framework, strategy and plans
 - Creates a measurable impact on the work of teams across the company
 - Takes a central role in decision making for technical, business, and organizational issues
