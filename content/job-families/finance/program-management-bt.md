@@ -5,11 +5,11 @@ description: "The IT Program Management Office job family is responsible for bui
 
 ## Levels
 
-## IT Program Manager (Associate)
+## Associate IT Program Manager
 
-The Business Technology Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### IT Program Manager (Associate) Responsibilities
+### Associate IT Program Manager Responsibilities
 
 - Responsible for managing individual work and projects
 - Document all aspects of the specific programs that are assigned
@@ -20,7 +20,7 @@ The Business Technology Program Manager is a [grade 5](https://about.gitlab.com/
 - Use GitLab to drive programs
 
 
-### IT Program Manager (Associate) Requirements
+### Associate IT Program Manager Requirements
 
 - Intrinsically motivated with an intense curiosity and desire to produce high-quality work
 - Strong problem-solving skills with ability to analyze data, determine insights and develop programs to drive productivity and efficiencies
@@ -31,11 +31,11 @@ The Business Technology Program Manager is a [grade 5](https://about.gitlab.com/
 - Share and work in accordance with GitLab's values
 - Ability to use GitLab
 
-## IT Program Manager (Intermediate)
+## IT Program Manager
 
 The IT Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### IT Program Manager (Intermediate) Responsibilities
+### IT Program Manager Responsibilities
 
 - Responsible for program management of a critical project or small to medium scope
 - Successfully dig into deliverables, create a project plan and milestones, and hold teams accountable
@@ -46,7 +46,7 @@ The IT Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-re
 - Learn the business and key business processes
 - Use GitLab to drive programs
 
-### IT Program Manager (Intermediate) Requirements
+### IT Program Manager Requirements
 
 - Experience leading cross-functional teams and influencing without direct authority
 - Intrinsically motivated with an intense curiosity and desire to produce high-quality work
@@ -65,7 +65,7 @@ The Senior IT Program Manager is a [grade 7](https://about.gitlab.com/handbook/
 
 ### Senior IT Program Manager Responsibilities
 
-- Extends responsibilities of IT Program Manager (Intermediate)
+- Extends responsibilities of the IT Program Manager
 - Responsible for program management of a critical project or medium to large scope
 - Define success metrics of your programs
 - Report executive-level progress and status of issues weekly, daily when escalated
@@ -82,7 +82,7 @@ The Senior IT Program Manager is a [grade 7](https://about.gitlab.com/handbook/
 
 ### Senior IT Program Manager Requirements
 
-- Extends requirements of IT Program Manager (Intermediate)
+- Extends requirements of the IT Program Manager
 - Ability to simplify complex processes
 - Passionate for being an expert and having opinions to make recommendations vs just running the meetings
 - Experience delivering medium IT programs or parts of large IT programs
@@ -113,13 +113,36 @@ The Staff IT Program Manager is a [grade 8](https://about.gitlab.com/handbook/t
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
+## Principal, IT Program Management
+
+The Principal, IT Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Principal, IT Program Management Responsibilities
+
+- Extends responsibilities of the Staff IT Program Manager
+- Own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
+- Responsible for program management of a critical project of large scope
+- Help architect the executional framework for cross-functional alignment
+- Create a strategy to scale processes as the program evolves; continually improve process
+- Foster a culture of data-driven program management, product excellence and exceptional execution
+- Perform predictive assessment of project progress; proactively identify potential issues before they appear
+- Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
+
+### Principal, IT Program Management Requirements
+
+- Extends requirements of the Staff IT Program Manager
+- Experience delivering large IT programs
+- Experience managing a full portfolio of a business process area and driving measurable impact
+- High level of business acumen and ability to understand stakeholder needs across various functions
+- Demonstrated ability to lead through change at scale
+
 ## Manager, IT Program Management
 
 The Manager, IT Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, IT Program Management Responsibilities
 
-- Extends responsibilities of a Senior IT Program Manager
+- Extends responsibilities of the Senior IT Program Manager
 - Own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
 - Responsible for program management of a critical project of large scope
 - Help architect the executional framework for cross-functional alignment
@@ -131,19 +154,19 @@ The Manager, IT Program Management is a [grade 8](https://about.gitlab.com/hand
 
 ### Manager, IT Program Management Requirements
 
-- Extends requirements of a Senior IT Program Manager
+- Extends requirements of the Senior IT Program Manager
 - Experience delivering large IT programs
 - Experience managing a full portfolio of a business process area and driving measurable impact
 - High level of business acumen and ability to understand stakeholder needs across various functions
 - Demonstrated ability to lead through change at scale
 
-## Senior Manager / Principal, IT Program Management
+## Senior Manager, IT Program Management
 
-The Senior Manager / Principal, IT Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, IT Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Manager / Principal, IT Program Management Responsibilities
+### Senior Manager, IT Program Management Responsibilities
 
-- Extends responsibilities of Manager / Staff IT Program Manager
+- Extends responsibilities of the Manager, IT Program Management
 - Own an IT area such as Quote to Cash, Hire to Retire, Procure to Pay, Record to Report
 - Responsible for program management of a critical project of large scope
 - Help architect the executional framework for cross-functional alignment
@@ -153,9 +176,9 @@ The Senior Manager / Principal, IT Program Management is a [grade 9](https://ab
 - Management: Hire, build, coach and manage a highly productive team day to day. Has solid management skills and techniques especially around prioritization.
 - Autonomy: independently delivers and effectively prioritizes projects assigned as high-level goals
 
-### Senior Manager / Principal, IT Program Management Requirements
+### Senior Manager, IT Program Management Requirements
 
-- Extends requirements of a Manager / Staff IT Program Manager
+- Extends requirements of the Manager, IT Program Management
 - Experience delivering large IT programs
 - Experience managing a full portfolio of a business process area and driving measurable impact
 - High level of business acumen and ability to understand stakeholder needs across various functions
@@ -181,7 +204,7 @@ The Director, IT Program Management is a [grade 10](https://about.gitlab.com/ha
 
 ### Director, IT Program Management Requirements
 
-- Extends requirements of Senior Manager / Principal IT Program Manager
+- Extends requirements of the Senior Manager IT Program Manager
 - Experience working with VP+ level stakeholders
 - Experience driving IT strategy and managing multiple business process areas
 - Participated in multiple large complex implementations (e.g. CRM implementation, ERP implementation, ITSM implementation)
@@ -193,7 +216,7 @@ The Senior Director, IT Program Management is a [grade 11](https://about.gitlab
 
 ### Senior Director, IT Program Management Responsibilities
 
-- Extends responsibilities of Director, IT Program Manager
+- Extends responsibilities of the Director, IT Program Manager
 - Maintain C-level updates of the portfolio
 - Drive the IT strategy in collaboration with IT Ops and Enterprise Application leadership
 - Improve program management governance process and practice in collaboration with Internal Audit and Business Technology leadership
@@ -201,7 +224,7 @@ The Senior Director, IT Program Management is a [grade 11](https://about.gitlab
 
 ### Senior Director, IT Program Management Requirements
 
-- Extends requirements of Director, IT Program Manager
+- Extends requirements of the Director, IT Program Manager
 - Experience working with C-level stakeholders
 - Experience driving IT strategy at a company level Owned multiple large complex implementations (e.g. CRM implementation, ERP implementation, ITSM implementation)
 - Expert in building and leading remote teams
