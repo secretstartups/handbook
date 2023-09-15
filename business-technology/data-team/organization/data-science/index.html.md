@@ -235,25 +235,26 @@ The Data Science Team follows [Cross-Industry standard process for data mining (
 
 #### The GitLab approach
 
-The [Data Science Team approach to model development](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/project_dev_approach/) is centered around GitLab's value of [iteration](/handbook/values/#iteration) and the CRISP-DM standard. Our process expands on some of the 6 phrase outlined in CRISP-DM in order to best address the needs of our specific business objectives and data infrastructure.
+The [Data Science Team approach to model development](/handbook/business-technology/data-team/organization/data-science/project_dev_approach/) is centered around GitLab's value of [iteration](/handbook/values/#iteration) and the CRISP-DM standard. Our process expands on some of the 6 phrase outlined in CRISP-DM in order to best address the needs of our specific business objectives and data infrastructure.
 
 ## Data Science Platform
 Our current platform consists of:
 - the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/) for storing raw and normalized source data as well as final model output for consumption by downstream consumers
 - [JupyterLab](/handbook/business-technology/data-team/platform/jupyter-guide/) for model training, tuning, and selection
-- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, and [experiment tracking](https://about.gitlab.com/handbook/engineering/incubation/mlops/ml_experiment_tracking.html)
+- [GitLab](https://gitlab.com/) for collaboration, project versioning, and score code management, [experiment tracking](https://about.gitlab.com/handbook/engineering/incubation/mlops/ml_experiment_tracking.html), and [CI/CD](https://docs.gitlab.com/ee/ci/)
 - [Airflow](/handbook/business-technology/data-team/platform/infrastructure/#airflow) for automation and orchestration
-- Monte Carlo for drift detection for 
+- Monte Carlo for drift detection 
 - Tableau Server for model monitoring and on-going performance evaluation
 
-Over time we plan to dogfood as many components of the GitLab MLOps Stage as possible, leading to fully automated productionalized pipelines. As more MLOps features come online we will update our platform and processes accordingly. Our immediate next step is to better automate `Current State Data Flows` using a combination of python, airflow, and CI/CD.
+### CI/CD Pipelines for Data Science
+We are in the process of fully moving over the training and scoring of our machine learning models to the native Gitlab CI/CD capabilities. Please see [Getting Started With CI/CD for Data Science Pipelines](/handbook/business-technology/data-team/platform/ci-for-ds-pipelines/) for the most up-to-date information and instructions.
 
 ### Current State Data Flows
 
 ```mermaid
 graph 
     A[Enterprise Data Warehouse: Raw and Normalized Data Sources]
-    B[JupyterLab: Model Training, Tuning, and Selection]
+    B[JupyterLab & CI/CD: Model Training, Tuning, and Selection]
     C(Airflow: Batch scoring with Papermill)
     F[Enterprise Data Warehouse: Model Output for Consumption]
     D[Salesforce/Marketo: CRM Use Cases]
