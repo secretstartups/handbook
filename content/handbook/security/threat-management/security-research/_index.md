@@ -54,6 +54,47 @@ future inspiration. Lightbulb ideas are labeled with
 `~security-research::lightbulb`, and the team periodically discusses open
 lightbulb ideas during the security research sync.
 
+### Issue Labels
+
+To help align and communicate the goals of our projects, the `~Security Focus::`
+and `~Research Goal::` scoped labels are used. One label from each group should
+be applied to team issues upon creation.
+be applied to :bulb: issues upon creation.
+
+### Security Focus labels
+
+[`~Security Focus::`](https://gitlab.com/groups/gitlab-com/gl-security/-/labels?subscribed=&search=Security+Focus)
+labels are used to align an issue with the broad high-level focus areas of the
+Security division, based on the risks and priorities of the business. The list
+is meant to be stable, but not static.
+
+- `Security Focus::Cloud and Infrastruture Security` - Related to the
+secure configuration and use of company production and non-production
+cloud and infrastructure environments.
+- `Security Focus::Data Security Governance` - Related to the controls,
+processes, and policies concerning protection of the data trusted to the
+company.
+- `Security Focus::Identity and Access Management` - Related to authentication
+and authorization to business services and data.
+- `Security Focus::Supply-chain Security` - Related to the establishment of
+trust in 3rd party code, data, and services necessary for the business.
+- `Security Focus::Other` - Related to anything not fitting into the four main focus areas.
+
+### Research Goal labels
+
+[`~Research Goals::`](https://gitlab.com/groups/gitlab-com/gl-security/security-research/-/labels?search=Research+Goal&subscribed=)
+ labels are used to communicate the high-level goal of a project.
+
+- `Project Goal::Risk Identification & Quantification` - The project aims to identify,
+quantify, and communicate risk(s).
+- `Project Goal::Risk Mitigation` - The project aims to reduce or eliminate
+a particular risk.
+- `Project Goal::Team Maturity::Processes` - The project aims to mature team
+processes and improve understanding of how the team works.
+- `Project Goal::Team Maturity::Technical Growth` - The project aims to grow
+the team's understanding of a technical area. The focus is on learning which
+can be applied in future projects.
+
 ### Research Topic Discovery
 
 #### Team Members
