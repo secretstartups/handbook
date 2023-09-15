@@ -74,9 +74,10 @@ Once an AI powered solution is available for validation, make sure to not only c
 - **On trust** - If people trust the information provided by AI. If they don’t trust it, they won’t use it. Here are some example questions to consider:
    - _How much do you trust the [feature name, e.g. code suggestions] provided?_
    - _Do you trust [feature name, e.g. code suggestions] with [task, e.g. providing correct code]? Why/Why not?_
-- Coming soon: quantitative measures
 - **On giving feedback** - If they feel comfortable giving system feedback, e.g. when a code suggestion is not helpful. The AI improves based on user feedback, so it’s important they can do it. You can do this by including a task that focuses on giving feedback on a “wrong” recommendation and measure if they were successful doing it and how they felt about it.
 - **On attitudes towards third-party AI services** - If your AI solution is powered by a third party (e.g. OpenAI), it’s important to understand if users are aware of the use of a third-party and their attitude towards it. This provides insights into users’ mental model (see [Guideline 5](#guideline-5-plan-ahead-for-longitudinal-research)) and impact on GitLab as a brand.
+
+We are piloting a [set of AI metrics](#ai-user-experience-metrics-pilot) and recommend including them in your solution validation.
 
 To get robust feedback during solution validation, it’s recommended to collect at least three data points. As AI output varies, it’s not sufficient to rely on the first output only. You can do this by having three similar tasks to see how participants react to the AI’s responses in these three different scenarios. 
 
@@ -95,6 +96,24 @@ AI will make mistakes due to their probabilistic nature. It’s important to und
 ### Guideline 5: Plan ahead for longitudinal research
 
 AI evolves as users engage with it over time. As a result, users’ mental models about how it works as they engage with it over time may change (it’s a continuous loop). To ensure we’re continuing to offer AI solutions of value, it’s  important to understand how mental models change over time and evaluate the performance of AI solutions as use cases and users increase. 
+
+We are piloting a [set of AI metrics](#ai-user-experience-metrics-pilot) that allow you to evaluate and track user's experience with AI powered features over time.
+
+## AI User Experience Metrics (Pilot)
+
+We developed, and are currently piloting, a set of metrics to evaluate AI powered features in terms of how well they are meeting user needs. These metrics can be used during Solution Validation and to track a user's experience with an AI powered feature over time. 
+
+The metrics focus on the following 8 constructs that we observed in a literature review and are captured in [11 survey questions](https://gitlab.fra1.qualtrics.com/jfe/form/SV_e3yxudPETRbZzfM).  
+- **Accuracy:** How accurate do users find our AI? How much effort is needed to get a meaningful response?
+- **Trustability/Fallibility:** Do users trust GitLab's AI?
+- **Value:** Are we helping users to be faster and more productive? Are we helping users to learn new things? Do users perceive a benefit from using the AI powered feature?
+- **Control:** Do users feel like they have control over how AI recommendations or actions are employed?
+- **Error handling:** Are we enabling users to deal with the errors that AI produces?
+- **Guardrails:** Have we built-in enough mindful friction into user iteractions with AI such that they are able to think critically about what AI is doing for them?
+- **Learnability:** Are users able to quickly understand the AI powered feature?
+- **AI limits:** Do users feel like they understand what the AI powered feature can and can't do?
+
+A survey with these metrics is available for you to send to your participants who are working with AI features. If you want to use this survey, ask Anne Lasch for access to the Qualtrics project.
 
 ### References
 
