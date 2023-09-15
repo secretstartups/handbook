@@ -16,9 +16,29 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 ## UX team members  
 
 - [Jacki Bauer](/company/team/#jackib) ([Jacki's ReadMe](https://gitlab.com/jackib/jacki-bauer/blob/master/README.md)) - Product Design Manager
-- [Emily Sybrant](/company/team/#esybrant) - Senior Product Designer, Billing & Subscription Management
-- [Tim Noah](/company/team/#timnoah) - Senior Product Designer, Utilization
+- [Emily Sybrant](/company/team/#esybrant) - Senior Product Designer, Fulfillment
+- [Tim Noah](/company/team/#timnoah) - Senior Product Designer, Fulfillment
 - [Nick Hertz](/company/team/#nickhertz) - UX Researcher, Fulfillment
+
+### Product Designer Focus Areas
+In Q3, we are exploring the idea of Product Designers being assigned to Projects instead of Groups. 
+
+The Fulfillment team is Project focused, and many projects span Groups, leading to gaps in the user experience or frequent designer borrow requests. In order to avoid this, we will assign designers to project areas, and revisit quarterly during OKR planning.
+
+In Q3:
+- There should be a prioritization issue in [this project](https://gitlab.com/gitlab-org/fulfillment-meta) to reflect design priorities. There can be an issue per designer, or one issue for the team.
+- Anyone can propose projects identified for design focus in the issue. Product Managers should work with Product Designers and the Product Design Manager to rank the priorities. If multiple PMs are contributing to a project, one should be designated for UX planning.
+    - If we had to make a priority call to have projects that will go forward without design support, list those decisions in the issue.
+- Priorities should be reviewed by the team quarterly, or when a new priority project is identified.
+- Designers can still pick up issues outside their assigned projects. These should be crucial UX issues such as SUS Impacting issues or bugs. Issue weights can be used to discuss trade-offs when needed.
+- Anyone can use the #s_fulfillment_ux Slack channel to ask for assistance.
+
+        
+Notes
+- To manage workload, designers should generally be assigned to no more than one large and 1 small/medium project at a time, or 3-4 small/medium projects (or the equivalent in issue weights).
+- Designers should use their best judgement and collaborate with their teams to decide which meetings to attend, and aren't expected to attend team sync meetings for multiple teams at the same time.
+- Product Designers will continue to participate in product MRs via Reviewer Roulette. However, since they also do CustomersDot reviews, they are encouraged to set themselves busy when they reach their threshold of MR reviews, so as not to be overwhelmed by both responsibilities.
+- We will review the impact of this approach at the end of the quarter in a retro issue to evaluate whether this reduced UX borrow requests without introducing any additional concerns or challenges.
 
 ## UX Health
 One of the ways we track our progress is by measuring the UX of our different workflows (scorecards) and progress towards closing out issues that impact UX (issues labeled SUS:Impacting).
