@@ -36,9 +36,9 @@ The services maturity framework provides for 5 maturity levels for offerings: pl
 * **Lovable**: The offering is at full maturity, positive NPS & impact on customer’s adoption of GitLab product
 
 # Service Offering Framework
-In general, you can find our publicly marketed services at https://about.gitlab.com/services and the delivery kits at: [Consulting](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) and [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings)
+In general, you can find our publicly marketed services on our [service catalog page](https://about.gitlab.com/services) and the delivery kits at: [Consulting](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development) and [Education](https://gitlab.com/gitlab-com/customer-success/professional-services-group/trainings)
 
-| Category | Type | Public Offering | Offering Delivery Kit | Maturity |
+<!-- | Category | Type | Public Offering | Offering Delivery Kit | Maturity |
 | :--      | :--:    | :--      | :--:     | ---- | 
 | Education | Standard | [Standard Instructor Led Training](https://about.gitlab.com/services/education/) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Lovable |
 | Education | Standard | [Asynchronous eLearning](https://gitlab.edcast.com) | [Education](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/) | Minimal |
@@ -59,5 +59,5 @@ In general, you can find our publicly marketed services at https://about.gitlab.
 | Consulting | Advisory | Agile/Plan Workflow Advisory | [Agile/Plan Advisory](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting/workflow-agile-ceremonies) | Minimal 
 | Consulting | Advisory | [Dedicated Services (Center of Excellence)]() | TBD | Planned |
 | Consulting | Advisory | DevSecOps Workflow Advisory | TBD | Planned |
-| Consulting | Development | Development | TBD | Planned |
+| Consulting | Development | Development | TBD | Planned | -->
 
