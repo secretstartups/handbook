@@ -14,7 +14,7 @@ For an overview of how CSMs use Customer360 (or C360), please refer to the [Gain
 
 ## Customer NPS/CSAT surveys
 
-Customers at GitLab periodically receive surveys sent via Gainsight by Digital CS Team to gauge customer sentiment. The Net Promoter Score, or NPS, are surveys sent directly to customers to measure customer loyalty, satisfaction, and enthusiasm with GitLab at different points in the customer lifecycle. 
+Customers at GitLab periodically receive surveys sent via Gainsight by the Digital CS Team to gauge customer sentiment. The Net Promoter Score, or NPS, are surveys sent directly to customers to measure customer loyalty, satisfaction, and enthusiasm with GitLab at different points in the customer lifecycle. 
 
 Customer Satisfaction score, or CSAT, are surveys sent directly to customers to measure satisfaction of a service, product, interaction or experience with GitLab. A customer may receive a CSAT survey at any point in their life cycle depending on the survey’s configuration. 
 
@@ -46,10 +46,9 @@ It is the CSM/CSE’s responsibility to ensure the role assignment is completed.
 - A standardized quantitative metric for Customer Satisfaction.
 
 
-
+### NPS Surveys
 Customers receive NPS surveys at multiple points in their customer lifecycle and may include additional CSAT surveys. They are as follows: 
 
-#### NPS Surveys
 - **Post-Onboarding**  
    - NPS: Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
    - CSAT: Overall, how satisfied are you with your onboarding experience?
@@ -77,6 +76,10 @@ Customers receive NPS surveys at multiple points in their customer lifecycle and
    - Please take a few seconds to select the answer that best aligns with your experience
 
 
+#### Other NPS Surveys at GitLab
+
+Other teams within GitLab also conduct NPS surveys that differ from those sent by the Digital CS Team. The UX Research team conducts a quarterly Paid NPS (PNPS) which surveys a random sampling of GitLab users associated with paid accounts. For more information about UXR PNPS, please go to the [Product Operations Survey Workflows handbook page](https://about.gitlab.com/handbook/product/product-operations/surveys/workflows/#paid-nps-survey-pnps). 
+
 ### How to View NPS and CSAT Surveys
 
 #### If you have Gainsight access
@@ -89,4 +92,3 @@ Customers receive NPS surveys at multiple points in their customer lifecycle and
 #### If you _don't_ have Gainsight access
 - All scores are posted to the [#cs_programs_nps_results](https://gitlab.slack.com/archives/C022XR11MJA) channel in Slack. Members of each account team are @-mentioned in the survey results message facilitated by Troops. You must be a member of this channel to receive notifications. _Note: Given GitLab’s Slack data retention policy, results will only be available for 90 days after each response._
    - PubSec customers are sent to a private channel. Ask your manager to learn how to access these results.
-- NPS/CSAT [will soon be available](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/1916) in Snowflake so that they can be accessed at any time by all GitLab team members.
