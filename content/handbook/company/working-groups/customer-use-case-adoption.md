@@ -60,6 +60,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Marketing                           | Dan Hom                       | Product Marketing Manager                                  |
 | Member - Product                             | Mike Flouton                  | VP of Product Management                                   |
 | Member - Professional Services               | Niyati Shah                   | Senior Director, Education Services                        |
+| Member - Sales Strategy                      | Brandon Butterfield           | Senior Sales Analytics Analyst                             |
 
 ## Multimodal Communication
 
