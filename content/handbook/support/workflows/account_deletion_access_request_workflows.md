@@ -313,7 +313,10 @@ IMPORTANT NOTE: If at any point you are unsure of next steps or have any questio
 
 </details>
 
-   1. If the requester passes the challenge questions, or #privacy-team-help has provided instruction to continue with this request, let the requester know they have been verified and that you are initiating the deletion process by leaving a comment on the issue with the following snippet.
+1. If the requester passes the challenge questions, or #privacy-team-help has provided instruction to continue with this request:
+   1. comment on [the gitlab#330669 feature request](https://gitlab.com/gitlab-org/gitlab/-/issues/330669) to note that we're having to manually process a relevant request.
+   1. let the requester know they have been verified and that you are initiating the deletion process by leaving a comment on the issue with the following snippet.
+
 <details>
 <summary markdown="span">Request Closed - Verification Pass</summary>
  <p>Greetings,</p>
