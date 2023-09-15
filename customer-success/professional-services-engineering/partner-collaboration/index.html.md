@@ -195,12 +195,12 @@ The Consulting Coordinator will track the Work Authorizations against the fundin
 ### Customer Project Onsite Travel 
 When a GitLab Partner Travels:
 
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator will provide the partner the travel budget. Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the following details:
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator will provide the travel budget to the partner. Once the travel has incurred, the expenses should be submitted for invoicing through Coupa and include the following details:
 
-- Expense Report that includes a separate line item for each expenses
+- Expense report per this [template](https://docs.google.com/spreadsheets/d/1fSn1G4opUDpnmGlcd35Zi_Mks5zTFoeg03FP__Xghes/edit?usp=sharing) that includes a separate line item for each expense 
 - One PDF document to include receipts for each expense 
-- Guidlines for [Traveling](https://about.gitlab.com/handbook/travel/#expenses-while-traveling)
-- Expense [Guidlines](https://about.gitlab.com/handbook/finance/expenses/#expense-policy-outline)
+- Guidelines for [Traveling](https://about.gitlab.com/handbook/travel/#expenses-while-traveling)
+- Expense [Guidelines](https://about.gitlab.com/handbook/finance/expenses/#expense-policy-outline)
 
 Expenses are to be invoiced in the month in which they have incurred    
    
