@@ -279,8 +279,9 @@
 /content/handbook/support/readiness/ @lyle @jcolyer
 
 ^[teampps]
-/content/teamops/ @streas @lfarrer @cynthia
-/content/handbook/teamops/ @streas @lfarrer @cynthia
+/content/teamops/ @nshah19 @streas @cynthia
+/content/handbook/teamops/ @streas @cynthia
+/content/handbook/teamops/partners.md @jmoverley @streas @cynthia
 
 ^[total-rewards]
 /content/handbook/total-rewards/ @brittanyr @mwilkins
