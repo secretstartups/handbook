@@ -16,7 +16,7 @@ Up to this point, teams, and the ways the people on them work, have been treated
 
 Meanwhile, other critical areas of business have been studied, made objective, codified, and operationalized. Why not so with our most valuable resource: teams?
 
-## What is TeamOps? 
+## What is TeamOps?
 
 Simply put, **TeamOps is an organizational operating model that helps teams maximize productivity, flexibility, and autonomy by managing information more efficiently.** This virtual-first approach is designed to optimize team dynamics, streamline decision-making, and increase output an organization. Developed, practiced, and refined by GitLab, it's a framework grounded in actionable principles that transform how teams work and relate.
 
@@ -51,7 +51,7 @@ There are five foundational elements that should already be in place in an organ
    - Financial management (eg: Quickbooks)
    - Calendars and scheduling (eg: Google Calendar)
 1. **Company Handbook.** TeamOps relies heavily on knowledge sharing through documentation and asynchronous communication. If you don't already have some kind of knowledge management system to host this information sharing-such as a wiki or handbook- you'll want to create one before starting the courses and certifications. But don't worry, you only have to get it started, because the TeamOps Practitioner Certification will guide you through the process of using this resource as a [Single Source of Truth](/handbook.gitlab.com/teamops/shared-reality/#single-source-of-truth-ssot) and populating the content for your team to use.
-1. **Shared set of values.** Your [core values](/handbook/values/) must be more than words on a page. They should be actionable, [reinforced](https://about.gitlab.com/company/culture/all-remote/building-culture/#reinforcing-your-values) in everything you do as a team, and act as a [filter for hiring](https://about.gitlab.com/company/culture/all-remote/building-culture/#how-do-i-assess-culture-fit-remotely) to ensuring you continue to grow the team with people who are committed to living out these values in their work. 
+1. **Shared set of values.** Your [core values](/handbook/values/) must be more than words on a page. They should be actionable, [reinforced](https://about.gitlab.com/company/culture/all-remote/building-culture/#reinforcing-your-values) in everything you do as a team, and act as a [filter for hiring](https://about.gitlab.com/company/culture/all-remote/building-culture/#how-do-i-assess-culture-fit-remotely) to ensuring you continue to grow the team with people who are committed to living out these values in their work.
 1. **Team trust and inclusion.** Implementing new management and operating techniques can be uncomfortable at first. A baseline of [trust](https://about.gitlab.com/handbook/leadership/building-trust/) and [inclusivity](https://about.gitlab.com/company/culture/inclusion/) across the organization will better enable the team to embrace change and assume positive intent along the way.
 1. **Focus on results.** [Measuring output](https://about.gitlab.com/company/culture/all-remote/management/#focusing-on-results) instead of input is foundational to managing a virtual-first team. This means establishing clear, transparent goals so that team members at all levels of the organization can see and take ownership for how their work is contributing to the team, department, and company's success.
 
