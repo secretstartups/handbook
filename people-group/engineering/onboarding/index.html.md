@@ -88,6 +88,8 @@ We run a scheduled pipeline every day that invites team members starting the fol
 
 The invite email is send to their `GitLab` email address which they will get access to the next day.
 
+> These invites are set to expire one month after their start date.
+
 ## Enable self-service
 Our team members are expected to update their BambooHR profile on their first day at GitLab. To be able to do that they need to have `self-service` access level enable on BambooHR. We run a scheduled pipeline every day that enables this for team members starting the following day.
 
