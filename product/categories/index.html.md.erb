@@ -223,6 +223,7 @@ Changes that require the above approvers include:
 
 Changes that require approval only from the relevant Product Director include:
 
+- Changing name or removing a [non-marketing category](/handbook/marketing/digital-experience/website/#stage-attributes), per the `marketing` attribute.
 - Changing a category maturity date
 - Changes to section or group member lists
 - Changes to a category vision page
@@ -245,7 +246,7 @@ When changing the name of a group, make sure to go through the following steps:
 When changing an existing category name, there are some considerations to the order of events:
 
 - First, create a MR to change the name in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml) and `spec/homepage/category_spec.rb`.
-- Get sign off from all required stakeholders listed in the instructions above. Final signoff should be requested in the #ceo channel with a link to the MR once all other signoffs are complete.
+- Get sign off from all required stakeholders listed in the instructions above. 
 - Merge the name change MR.
 - Tag the category's technical writer so that they can update the documentation metadata
 - Re-name the category [direction page](https://about.gitlab.com/direction/) with a new MR. Search for the old category name on the category direction page to ensure the name has been updated in all places.
