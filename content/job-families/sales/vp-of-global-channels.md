@@ -1,15 +1,15 @@
 ---
-title: "Vice President of Global Channels"
-RoleName: "VP of Global Channels"
+title: "Vice President of Sales, Channel and Alliances"
+RoleName: "VP Sales, Channel and Alliances"
 ---
 
-At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application.  With over 100,000 organizations using the product GitLab is one of the fastest growing companies in technology.  Our channel teams are responsible for building, enabling, supporting and driving revenue with SIs, VARs, VADs, and DMRs.  Our channel partners deliver both sales and professional services to our joint customers. Together, we make our customers successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps.  We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production. we take that responsibility seriously and are building a worldwide partner program with like-minded partners. We have an incredible existing, and rapidly growing, customer base, with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.
+At GitLab, we are fundamentally changing the way our customers get their software to market by putting the entire DevOps lifecycle into a single application.  With over 100,000 organizations using the product GitLab is one of the fastest growing companies in technology.  Our channel teams are responsible for building, enabling, supporting and driving revenue with SIs, VARs, VADs, and DMRs.  Our channel partners deliver both sales and professional services to our joint customers. Together, we make our customers successful in achieving their business outcomes with the GitLab product as they move to truly modern DevOps. We know that our customers trust GitLab to take their ideas all the way from plan to shipped product in production. we take that responsibility seriously and are building a worldwide partner program with like-minded partners. We have an incredible existing, and rapidly growing, customer base, with a passionate, supportive open-source community and incredibly talented teams located in 40 countries focused on supporting them.
 
-GitLab's Vice President, Global Channels, is an experienced leader who is at the forefront of our global channel team and programs. The VP of Global Channels is responsible for bringing their strategic vision and innovative approach to build a multi-tier global channel program to support a seamless go-to-market with our high-touch sales organization and customer success team.  Reporting to the Chief Revenue Officer, the VP of Global Channels plays a key role in driving leads, new and expansion revenue, service delivery, customer results, and market expansion by building an ecosystem of partners and programs that deliver massive value to our customers and to GitLab.
+GitLab's VP Sales, Channel and Alliances, is an experienced leader who is at the forefront of our global channel team and programs. The VP Sales, Channel and Alliances is responsible for bringing their strategic vision and innovative approach to build a multi-tier global channel program to support a seamless go-to-market with our high-touch sales organization and customer success team. Reporting to the Chief Revenue Officer, the VP Sales, Channel and Alliances plays a key role in driving leads, new and expansion revenue, service delivery, customer results, and market expansion by building an ecosystem of partners and programs that deliver massive value to our customers and to GitLab.
 
 ## Job Grade
 
-The VP of Global Channels is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP Sales, Channel and Alliances is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -42,4 +42,4 @@ The VP of Global Channels is a [grade 12](https://about.gitlab.com/handbook/tota
 
 ## Career Ladder
 
-The next step for the VP, Global Channel Job Family would be to move to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/) Job Family.
+The next step for the VP Sales, Channel and Alliances Family would be to move to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/) Job Family.
