@@ -485,9 +485,9 @@ section of the global navigation.
 
 | Date           | # of pages done | # of pages total | Percent complete |
 |----------------|-----------------|------------------|------------------|
-| April 2022     | 161             | 420              | 38 %             |
-| October 2022   | 245             | 468              | 52 %             |
 | September 2023 | 259             | 658              | 39 %             |
+| October 2022   | 245             | 468              | 52 %             |
+| April 2022     | 161             | 420              | 38 %             |
 
 ## Hackathons
 
