@@ -451,7 +451,7 @@ Status can be set independent of state. The only time these must align is when a
 
 ### Incident Severity
 
-Incident severity should be assigned at the beginning of an incident to ensure proper response across the organization.  Incident severity should be determined based on the information that is available **at the time**.  Severities can and should be adjusted as more information becomes available.
+Incident severity should be assigned at the beginning of an incident to ensure proper response across the organization.  Incident severity should be determined based on the information that is available **at the time**.  Severities can and should be adjusted as more information becomes available. The severity level reflects the maximum impact the incident had and should remain in that level even after the incident was mitigated or resolved.
 
 Incident Managers and Engineers On-Call can use the following table as a guide for assigning incident severity.
 
