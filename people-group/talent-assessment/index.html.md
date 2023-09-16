@@ -35,6 +35,8 @@ GitLab's Performance/Growth Potential Matrix is a type of talent assessment that
 
 In addition to assessing Performance/Growth Potential, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth Potential and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
 
+For team members with a tenure up to three months to the launch of the Talent Assessment Program will be designated as "Too New to Rate". Also in some cases a "Too New to Rate" designation might be applicable for newly promoted or transferred team members. More about that designation can be found below. 
+
 # The Performance/Growth Potential Matrix
 
 | Performance ↑ <br> Growth Potential →  | **Developing Growth Potential** | **Growing Growth Potential** | **Exceeding Growth Potential** |
@@ -262,6 +264,17 @@ The portion of the Performance/Growth Potential matrix that often entails the mo
 
 Calibration can be done asynchronously or synchronously, and should be done by level (I.E. Manager calibration for their directs, Director calibration for their directs, etc.) so as not to disclose Talent Assessment evaluations amongst peers.
 
+### Too New to Rate
+
+For newly onboarded team members, with a tenure up to 3 months, we have implemented a "Too New to Rate" (TNTR) assessment category. This designation will be applied to individuals with a start date within 3 months of the kick off of Talent Assessment as they have not yet had sufficient time to demonstrate their Performance/Growth Potential according to the defined pillars. 
+
+The introduction of a "Too New to Rate" category is a solution as feedback was raised that being rated "Developing" in many cases does not reflect the actual Performance/Growth Potential. Therefore a TNTR designation is to accurately reflect the time to get up and running of recently onboarded team members. This category acknowledges that new hires require a reasonable timeframe to familiarize themselves with the organization, their role, and the expectations before they can be accurately assessed using the Performance/Growth Potential Matrix.
+
+Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. In these cases we would recommend using this designation if: 
+- A team member has transferred to a role within the last 3 months that is significantly different from their previous role (ex. From a job family to another)
+- A team member is promoted to a role within the last 3 months that is significantly different from their previous role (ex. Different level and different job family). 
+
+If any of the above cases arise we would recommend to discuss with your People Business Partner to ensure the designation is consistently applied. 
 
 ### Calibration Session
 
@@ -763,22 +776,22 @@ Below are a few examples to help managers think through Key Talent designations 
 
 _Note: Intentionally hoarding knowledge is in direct conflict with our [transparency value](/handbook/values/#transparency) and is viewed as a performance issue as we measure performance based on alignment with our values._
 
-### Key Talent and Single Points of Success (SPOS)
+### Key Talent and Single Points of Failure (SPOF)
 
-Single Points of Success - SPOS - (sometimes known as “Single Points of Failure” in other organizations) refers to a single person whose absence would significantly impact the ability of an area of the company to function. 
+Single Points of Failure (SPOF) refers to a single person whose absence would significantly impact the ability of an area of the company to function. 
 
-Team members that are identified as Key Talent can also be SPOS, as the definition of SPOS overlaps with a few of the Key Talent Criteria outlined above, however, a team member who is identified as SPOS is not also Key Talent by default. 
+Team members that are identified as Key Talent can also be SPOF, as the definition of SPOF overlaps with a few of the Key Talent Criteria outlined above, however, a team member who is identified as SPOF is not also Key Talent by default. 
 
-A few key differences between Key Talent and SPOS include: team member’s performance and growth potential, risk mitigation plans, aand support/development strategies.  
+A few key differences between Key Talent and SPOF include: team member’s performance and growth potential, risk mitigation plans, aand support/development strategies.  
 
 Four scenarios exist in the context of our Talent Assessment:
 
 - Team member identified as Key Talent
-- Team member identified as SPOS
-- Team member identified as Key Talent and SPOS
+- Team member identified as SPOF
+- Team member identified as Key Talent and SPOF
 - Team member identified as neither one
 
-To review the SPOS definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
+To review the SPOF definition in more detail along with a few examples, please review our [Organizational Design](/handbook/people-group/organizational-design/) handbook page.
 
 
 ## Process To Determine Key Talent
