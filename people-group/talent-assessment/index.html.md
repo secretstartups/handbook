@@ -347,16 +347,18 @@ After the calibration sessions the performance and growth potential outcomes can
 ## Timeline
 Below is the high level timeline for the formal assessment in Q4 FY23 (Nov, Dec, Jan). Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) if you have any questions. 
 
-- **2022-10-03:**Training and Enablement
-- **2022-10-19:** Kick off Optional Self-Evaluation cycle for all Team Members and Required Manager Evaluation in Workday
-- **2022-11-04:** Due date for all Manager Evaluations to be complete
-- **2022-11-04:** 5:00pm PST Talent Assessment locked
-- **2022-11-07 - 2022-11-29:** Time for calibration and finalising assessments
-- **2022-11-30:** 5:00pm PST Workday Calibration will be locked 
-- **2022-12-01 - 2022-12-08:** Total Rewards and E-Group review and approval
-- **2022-12-09 - 2022-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
-- **2023-01-03 - 2023-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
-- **2023-01-05:** Annual Compensation Review Kicks off for Managers
+- **2023-10-04 and 2023-10-05:** Talent Assessment AMAs
+- **2023-10-09:** Kick off Optional Self-Evaluation cycle for all Team Members 
+- **2023-10-22:** Due date for all Self-Evaluations
+- **2023-10-23:** Kick off Manager Evaluation cycle
+- **2023-11-03:** Due date for all Manager evaluations
+- **2023-11-03:** 5:00pm PST Talent Assessment locked
+- **2023-11-06 - 2023-11-29:** Workday Calibration open and calibration discussions occur
+- **2023-11-29:** 5:00pm PST Workday Calibration will be locked 
+- **2023-12-01 - 2023-12-05:** Total Rewards and final E-Group review and approval
+- **2023-12-05 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
+- **2024-01-02 - 2024-01-31:** Managers can communicate Performance/Growth Potential assessment to team members
+- **2024 Date TBD:** Annual Compensation Review Kicks off for Managers
 
 ### Cadence
 
