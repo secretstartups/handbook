@@ -12,6 +12,16 @@ title: Global Travel and Expense Policy
 
 {::options parse_block_html="true" /}
 
+<div class="panel panel-gitlab-orange">
+**This is a Controlled Document**
+{: .panel-heading}
+<div class="panel-body">
+
+In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged. 
+
+</div>
+</div>
+
 # Team Member’s Global Travel and Expense Policy
 
 # 1. POLICY
