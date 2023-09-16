@@ -6,6 +6,11 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
 
 ## Merge Trains - Weekly Project Plan
 
+### Estimated Iteration Completion Milestones
+- 16.4: Initial Beta Release of Fast Forward Merge Trains and Merge Immediately without Train Restart
+- 16.5: GA Release of Fast Forward Merge Trains
+- 16.6: Additional Bug Fixes to bring Merge Trains to Complete Maturity
+
 <details>
     <summary markdown="span">Archive</summary>
 
@@ -59,9 +64,9 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
   - [x] Merge [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/129820) for using a different commit message when doing fast forward merges
   - [x] *Pulled forward* Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/418819) for refactoring and aggregate specs
   - [~] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/418822) for investigating if merge commit and squash_commit_sha tracking is needed
-  - [ ] Merge MR(s) for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
+  - [~] Merge MR(s) for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
   - [~] Rollout feature flag for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
-  - [ ] *Added* Bug fix for [Issue](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/130467) encountered during initial rollout
+  - [x] *Added* Bug fix for [Issue](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/130467) encountered during initial rollout
 
 ### Week of September 4, 2023 (W36)
 
@@ -72,8 +77,7 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
 #### Goals:
 
   - [~] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/418822) for investigating if merge commit and squash_commit_sha tracking is needed
-  - [ ] [Feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/420161) of creating train ref using rebase.
-  - [ ] Merge MR for [Merge request stuck in locked state when getting merged in a merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/389044)
+  - [~] [Feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/420161) of creating train ref using rebase.
 
 ### Week of September 11, 2023 (W37)
 
@@ -83,9 +87,14 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
 
 #### Goals:
 
-  - [ ] Complete [Feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/282442) of fast forward support or merge trains.
-  - [ ] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/420000) (minor) for investigate concern that UI pipeline might not be created properly and/or status is delayed. This was raised during review of incomplete code. This might be fixed once all the parts are together)
-  - [ ] Fast-follows for issues that arise during roll-out
+  - [~] Complete [Feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/282442) of fast forward support or merge trains.
+  - [~] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/420000) (minor) for investigate concern that UI pipeline might not be created properly and/or status is delayed. This was raised during review of incomplete code. This might be fixed once all the parts are together)
+  - [~] Fast-follows for issues that arise during roll-out
+  - [~] Merge MR(s) for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
+  - [x] Merge MR for [keeping track of fast-forward merge train SHAs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/130763)
+  - [x] Enable [standard commit messages for merge trains](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/131308) by default and on GitLab.com
+  - [x] Enable [improved merge train ref creation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/131218) by default and on GitLab.com
+  - [x] Enable [Feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/420161) and one for SM of creating train ref using rebase.
 
 ### Milestone 16.5 (September 18, 2023 - October 16, 2023)
 
@@ -100,12 +109,20 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
   - [ ] Rollout for [merge-result pipeline change.](https://gitlab.com/gitlab-org/gitlab/-/issues/421025)
   - [ ] Any remaining fast-follows for issues that arise during roll-out
   - [ ] Update merge result pipeline to use same mechanisms as fast forward merge trains
+  - [ ] Clean-up [Feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/420161) for creating train ref using rebase.
   - [ ] Clean-up feature flag for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
-  - [ ] Clean-up Feature flag roll out of fast forward support for merge trains
+  - [ ] Complete [Feature flag rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/282442) of fast forward support or merge trains.
+  - [ ] Clean-up [Feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/282442) for fast forward support or merge trains.
   - [ ] Add [developer documentation](https://gitlab.com/gitlab-org/gitlab/-/issues/423893)
   - [ ] Complete bug fix - [Merge train-enabled merge request fails with "Merge request is not mergeable", succeeds on retry without changes](https://gitlab.com/gitlab-org/gitlab/-/issues/344021)
   - [ ] Complete bug fix - ["Merge" button appears instead of "Start merge train" when manual jobs are not triggered.](https://gitlab.com/gitlab-org/gitlab/-/issues/382394)
   - [~] Duplicate - Complete bug fix - [Incorrect merge button appearing when waiting for manual action](https://gitlab.com/gitlab-org/gitlab/-/issues/300663) 
+  - [ ] Merge MR for [Merge request stuck in locked state when getting merged in a merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/389044)
+  - [ ] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/420000) (minor) for investigate concern that UI pipeline might not be created properly and/or status is delayed. This was raised during review of incomplete code. This might be fixed once all the parts are together)
+  - [ ] Merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/425100) for updating queries that associate rebased fast-forward merges with related MRs
+  - [ ] Investigate and maybe merge [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/425219) where commit verification gets lost on fast-forward merge trains
+  - [ ] Fast-follows for issues that arise during roll-out
+  - [ ] Merge MR(s) for [Add "Merge Immediately" option without interrupting merge train](https://gitlab.com/gitlab-org/gitlab/-/issues/414505)
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 
@@ -115,7 +132,8 @@ description: "Merge Trains Improvements - Weekly Project Plan - Pipeline Executi
 
 #### Goals:
 
-  -
+  - [ ] Complete bug fix - [MergeTrain API failing with error `Branch has been updated since the merge was requested. Please review the changes. Try again`.](https://gitlab.com/gitlab-org/gitlab/-/issues/409339)
+  - [ ] Complete bug fix - [Merge train-enabled merge request fails with "Merge request is not mergeable", succeeds on retry without changes](https://gitlab.com/gitlab-org/gitlab/-/issues/344021)
 
 ### Milestone 16.7 (November 13, 2023 - December 8, 2023)
 
