@@ -3,16 +3,6 @@ title: Security at GitLab
 description: "Security at GitLab"
 ---
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Internal Security Notification Dashboard<i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
-
-<div class="d-grid gap-2 my-4">
-<a href="https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*" class="btn bg-primary text-white btn-lg">Internal Security Notification Dashboard</a>
-</div>
-
-Security has developed an [internal security notification dashboard](https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*). This dashboard will only be used in cases of high priority security notifications appropriate for the entire organization. Notifications will be sent via slack and email to GitLab team members.
-
------
-
 ## Security Practices
 
 Information security encompasses a variety of different working groups. These security best practices support the functions of business operations, infrastructure, and product development, to name a few. Everybody is responsible for maintaining a level of security to [support compliance (available internal-only)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/), while raising the bar of our security posture.
