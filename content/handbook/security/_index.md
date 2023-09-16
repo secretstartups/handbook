@@ -5,8 +5,6 @@ description: "Security at GitLab"
 
 ## Security Practices
 
-Information security encompasses a variety of different working groups. These security best practices support the functions of business operations, infrastructure, and product development, to name a few. Everybody is responsible for maintaining a level of security to [support compliance (available internal-only)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/), while raising the bar of our security posture.
-
 ### Contact GitLab Security
 
 The GitLab Security Teams are available 24/7/365 and are ready to assist with questions, concerns, or issues you may have.
