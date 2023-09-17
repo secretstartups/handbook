@@ -48,6 +48,37 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
+### Specialty
+
+## Director, Field Marketing - Japan
+
+The Director, Field Marketing - Japan reports to the VP, Integrated Marketing.
+
+### Summary
+
+The Director, Field Marketing - Japan leads the strategy and execution of marketing programs performed at a local level, impacting both the direct and indirect sales motions. The Director, Field Marketing - Japan works closely with regional sales leadership to generate and progress demand through events, programs and local insights.
+
+### Responsibilities
+
+- Lead the development of local marketing strategies in Japan, creating a unified approach for both field and partner motions in market in close partnership with (sales) Country Manager
+- Scale field marketing activities and impact, while balancing the unique needs and characteristics of the Japanese markets
+- Create a defined and programmatic approach to channel marketing to support the growth of GitLab and the role of marketing in building the partner ecosystem
+- Be the voice of the field to the broader marketing team, including sales insights and inputs to directly impact marketing strategy and in turn be the primary representative of the broader marketing team to field sales
+- Analyze and report on the impact and performance of regional marketing to a range of audiences, from local leadership to the executive level and tailor the insights accordingly
+- Play an active role as part of the Integrated Marketing Leadership team; including aligning and connecting strategy to top of funnel of motions, collaborating with ABM to extend and amplify efforts and contribute to local success
+- Achieve high and consistent ROI from Marketing program in Japan, through operational rigor, measurement and budget and financial management
+- Continually experiment, test and iterate programs to define best practice and evolve program as the business grows
+
+### Requirements
+
+- 10+ years progressive experience in the B2B tech industry with a focus on field, channel and partner marketing; working directly with sales teams
+- Skilled at building and maintaining relationships, being strategic partner to sales; fluent in Japanese and strong communicator in English
+- Team management and development skills, including career development and coaching; experience managing people managers
+- Track record of delivering results in line with overall business objectives through operational excellence, including accelerating and progressing pipeline
+- Skilled at partnering cross-functionally across marketing, internal stakeholders and agency partners as well as external stakeholders, including channel partners and customers
+- Deep understanding of channel ecosystem and related processes
+
+
 ### Career Ladder
 
 The next step in the Field Marketing Leadership job family is to Senior Director, Regional Marketing.
