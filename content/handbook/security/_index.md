@@ -1322,20 +1322,3 @@ The Security Team works with our Community Outreach Team to ensure that security
 ### Package Signing{#package-signing}
 
 The packages we ship are signed with GPG keys, as described in the [GitLab documentation](https://docs.gitlab.com/ee/administration/package_information/signed_packages.html). The process around how to make and store the key pair in a secure manner is described in [the runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/packaging/manage-package-signing-keys.md). The Distribution team is responsible for updating the package signing key. For more details that are specific to key locations and access at GitLab, find the internal google doc titled "Package Signing Keys at GitLab" on Google Drive.
-
-### Annual 3rd-Party Security Testing
-
-Along with the internal security testing done by the [Application Security](#application-security), [Security Research](#security-research), and [Red]({{< ref "./threat-management/red-team" >}}) teams, GitLab annually contracts a 3rd-party penetration test of our infrastructure. For more information on the goals of these exercises, please see our [Penetration Testing Policy]({{< ref "penetration-testing-policy" >}}).
-
-The following process is followed for these annual tests:
-
-1. The Application Security team will partner with the [Security Operations]({{< ref "security-operations" >}}) and other relevant teams to define the scope of the test.
-1. The Infrastructure team will be notified in accordance with their [procedures](https://about.gitlab.com/handbook/engineering/infrastructure/production/#penetration-testing)
-1. The Application Security team will manage the relationship with the 3rd-party vendor. Included in this role will be communicating the chosen scope and soliciting feedback.
-1. Based on feedback from all parties, testing dates will be defined and communicated to teams for appropriate actions.
-1. Testing will be done by the 3rd-party vendor and the results communicated to GitLab.
-1. The Application Security team will triage the findings and create issues in accordance with the [Issue Triage](#issue-triage) process.
-
-#### Obtaining the Report
-
-GitLab customers can request a redacted copy of the report. For steps on how to do so, please see our [External Testing page](https://about.gitlab.com/security/#external-testing).
