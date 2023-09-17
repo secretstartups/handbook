@@ -100,6 +100,8 @@ The issue verification should be done by someone else other than the MR author. 
 
 In cases where verification in staging or production is unfeasible, the [staging-ref environment](https://about.gitlab.com/handbook/engineering/infrastructure/environments/staging-ref/) may be used. For complex setups, the DRI for the MR should work with a domain expert to ensure verification steps are clear and correct.
 
+In some cases it may be appropriate for the MR author to to verify the change themselves, for example feature flag rollout or monitoring a background migration. In these cases, the author should add the `verified-by-author` label to the issue to prevent the triage bot from assigning another team member, and the author should add a comment in the issue explaining why they are verifying the issue themselves.
+
 ##### Handling Discoveries of Issues  
 
 __Verifier: the engineer verifying the issue on .com/production (not the MR author)__
