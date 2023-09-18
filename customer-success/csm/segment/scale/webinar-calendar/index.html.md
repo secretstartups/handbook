@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to CI/CD
-##### September 15th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mFaQrn5YTcu1NltBcqv8lg#/registration)
-
 #### Advanced CI/CD
 ##### September 19th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -94,13 +87,6 @@ Next, we will look at compliance frameworks and pipelines to show how you can en
 
 ### EMEA Time Zone Webinars
 
-#### Advanced CI/CD
-##### September 15th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
-
-Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_-jv0wceGTAyS7OI1n5LJ4Q#/registration)
-
 #### Continuous Change Management in a Secure Way
 ##### September 19th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CEST
 
@@ -133,5 +119,96 @@ We will kick things off by going over the differences between CI/CD in Jenkins a
 We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MfdQnhtyS1qLVLJzZBflXQ#/registration)
+
+
+## September 2023
+
+### AMER Time Zone Webinars
+
+#### Intro to GitLab
+##### October 3rd, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bXLwncuxSuGn1b1CkIzybQ#/registration)
+
+#### Intro to CI/CD
+##### October 10th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_gd0y9qIcTE--RAosMmaoFQ#/registration)
+
+#### Advanced CI/CD
+##### October 17th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_D9Z3voAhRVy1p-rn7On4pg#/registration)
+
+#### Holistic Approach to Securing the Development Lifecycle
+##### October 24th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
+
+In this session, we will go over the security and compliance features that are available with your GitLab Ultimate account, including:
+- How to achieve comprehensive security scanning without introducing a multitude of tools and systems that expand your attack surface.
+- How to secure and protect your cloud-native applications and IaC environments within existing DevOps workflows.
+- How to use a single source of truth to improve collaboration between development and security.
+- How to manage all of your software vulnerabilities in one place.
+- How to set up compliance pipelines to provide consistent guardrails for developers, and ensure separation of duties
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_M95B_Z-vRISZ652n7_XmGA#/registration)
+
+#### DevSecOps/Compliance
+##### October 31st, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
+
+### EMEA Time Zone Webinars
+
+#### Intro to GitLab
+##### October 3rd, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
+
+Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Bgmla-23T0eKgH2e8maMyw#/registration)
+
+#### Intro to CI/CD
+##### October 10th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
+
+Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_k-VsIi0oTGujfTYfUEFbmQ#/registration)
+
+#### Advanced CI/CD
+##### October 17th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
+
+Expand your CI/CD knowledge while we cover advanced topics that will accelerate your efficiency using GitLab, such as pipelines, variables, rules, artifacts, and more. This session is intended for those who have used CI/CD in the past.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_QId9jL33SECJMXS4vlqxKw#/registration)
+
+#### Holistic Approach to Securing the Development Lifecycle
+##### October 24th, 2023 9:00-10:00AM UTC / 11:00AM-12:00PM CET
+
+Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
+
+In this session, we will go over the security and compliance features that are available with your GitLab Ultimate account, including:
+- How to achieve comprehensive security scanning without introducing a multitude of tools and systems that expand your attack surface.
+- How to secure and protect your cloud-native applications and IaC environments within existing DevOps workflows.
+- How to use a single source of truth to improve collaboration between development and security.
+- How to manage all of your software vulnerabilities in one place.
+- How to set up compliance pipelines to provide consistent guardrails for developers, and ensure separation of duties
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xBCSUKGQTLyVBZhxcRowoQ#/registration)
+
+#### DevSecOps/Compliance
+##### October 31st, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CET
+
+GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
+
+[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_h48TyGjBROGwkt9tDIoZuA#/registration)
 
 Check back later for more webinars! 
