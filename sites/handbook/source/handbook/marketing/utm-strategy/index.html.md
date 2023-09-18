@@ -308,8 +308,9 @@ In order to retain historical campaign tracking data we will keep existing UTM s
 
 ### UTM structure for partner campaigns
 {: #utms-structure-for-partner-campaigns}
+* See [UTM Parameter URL](/handbook/marketing/channel-marketing/partner-campaigns/#utm-parameter-url) structure for partner campaigns.
 * [Most TBD](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1986)
-* UTM PartnerID = the crm ID of the partner you wish to pass the lead to
+
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
