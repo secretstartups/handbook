@@ -116,7 +116,7 @@ Video: [Marketing Salesforce.com Sandbox Training - Creating Changesets](https:/
 If a field needs to be created in Marketo AND SFDC, it must be created in SFDC first and then added to the Marketo User Permission set within SFDC. From there, the field will sync down to Marketo. If you miss this order of operations and the field is created in Marketo first, you will need to still follow the directions above and then open a support to re-map the fields. **Use [documentation for Marketo](https://developers.marketo.com/rest-api/lead-database/fields/field-types/) for field types.
 
 If you need assistance with Sales Systems follow the next steps:
-1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
+1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request` and `EntAppsCustomer::MOPS`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
 2. Determine the type of request you have:
     - Fast Lane Requests:
        1. Permission Set only updates (72 hour SLA w/ Systems)
@@ -138,6 +138,27 @@ If you need assistance with Sales Systems follow the next steps:
 
 - [Steps to getting help from Sales Systems](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#steps-to-getting-help-from-sales-systems)
 - [Sales Systems Charter](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter)
+
+### Working with the Integrations team on Workato related issues
+
+Workato is a low-code/no-code tool used to for automations and integrations across different teams at GitLab. We frequently work with the Integrations team to build, test and deploy some of the processes in Marketing Operations. The best way to work with the Integrations team is by opening an issue, depending on the scenario, there are two ways to go about that:
+
+1. Request the creation of a new automation/integration
+      - For types of request that involve building something from scratch and you require assistence from the Integrations team
+        1. Open an issue in the [Integrations Work](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues/new) and follow the instructions in the issue template.
+        2. If the issue relates to marketing operations, make sure to tag @mihaiConteanu or @amy.waller 
+
+2. Bug fixing or deploying recipes developed in the testing environment
+      - For fixing issues with currently working recipes or to test and review an independently built recipe before moving it into production. Due to SOX compliance, any change to a recipe in production needs to be acompanied by a change management issue.
+        1. Open an issue in the [Integrations Work Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues/new) and depending on your specific need, choose a template for *Bug*, *Change*, or *Default* and follow the instructions in the issue template.
+        2. Open an issue in the [Change Management Project](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/new) and copy and paste [this template](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/blob/main/.gitlab/issue_templates/change%20management.md?ref_type=heads) in the issue description
+        3. Follow the instructions in the template, it contains all labels and tags necessary to notify the Integrations Team
+        4. Set a meeting with Durgesh Thakkar and Karuna Singh to go over and review your changes/recipe/issue. 
+
+**Helpful links**
+- [How Integrations Team works](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/how-we-work/)
+- [Workato Playbook](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/workato-playbook/)
+
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
 
@@ -731,7 +752,7 @@ This information gets passed to us with the help of Zoominfo, which populates th
 
 With Marketo automation we are then using these two fields to hide the phone number information on the following fields: `[ZI] Phone Number`, `Phone` (standard field - only if it matches the `[ZI] Phone Number` value), `[ZI] Mobile Phone Number` and `Mobile Phone` (standard field - only if it matches the `[ZI] Mobile Phone Number` value).
 
-For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933).
+For more information, please visit this [figjam flow chart](https://www.figma.com/file/wzZ7RDnB1cZdnvusqwW5gN/Communication-Compliance---Process-Updates---External-DNC-Lists_2023-09-11_14-17-56?type=whiteboard&t=5P5tqzwIXFwJe8jd-1).
 
 ### Zoominfo Opt Out Lists
 {: .no_toc}
@@ -748,6 +769,6 @@ After collaborating with Gitlab's privacy department, it was decided to create a
 
 The current process takes place on a weekly basis and is implemented with the help of a Marketo Program. It takes advantage of the `Zoominfo Non-Matched Reason` field which is populated by Zoominfo. All leads/contacts that have the  `OPT_OUT` value, enter the process and are checked for additional activities that could qualify as independent lawful basis to be kept. If they lack said activities they will be removed from our database.
 
-For more information, please visit this [mural](https://app.mural.co/t/gitlabmops4601/m/gitlabmops4601/1656333829598/2c60a74604bf29d3abb2de06358a36b56a3325a1?sender=u0b94b30ee620c147d6af0933).
+For more information, please visit this [figjam flow chart](https://www.figma.com/file/wzZ7RDnB1cZdnvusqwW5gN/Communication-Compliance---Process-Updates---External-DNC-Lists_2023-09-11_14-17-56?type=whiteboard&t=5P5tqzwIXFwJe8jd-1).
 
 If you have any questions or concerns feel free to open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the Marketing Operations team.

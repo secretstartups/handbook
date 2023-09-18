@@ -201,33 +201,6 @@ Here is the list of fields that are blocked during a non-trusted import. If you 
 - State
 - Postal Code
 
-### Impartner List Import
-
-Channel and Alliance Marketing team leverages [Impartner](https://about.gitlab.com/handbook/business-technology/tech-stack/#impartner)'s showcase feature to create co-branded resources for GitLab and channel partners. In the primary phase, we are taking a manual approach to import the list into Marketo. We are working towards syncing Impartner with Salesforce for lead creation in the upcoming phase. 
-
-The list importer will require an admin role called `Leads Only` to retrieve the list. 
-
-| Conversion Type | Marketo/Salesforce Campaign Name | `[Impartner] Web Form` value | Smart Campaign |
-| --- | ----------- | --- | ----------- |
-| Free Trial | [Impartner - Trial - Self-Managed](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12472A1) | free-trial | Trigger Campaign |
-| Talk to an Expert | [Impartner - Request - Contact](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12460A1) | talk-to-expert | Batch Campaign |
-| eBook Download | [Impartner - Gated Content - eBook](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG12461A1) | download | Batch Campaign |
-
-**Step 1: Retrieve the Lead List from Impartner**
-1. Log into [Impartner](https://login.impartner.com/login)
-2. Go to the `Leads` tab
-3. Change the view to `List Import`
-4. Export the list - the export is the first icon from the right.
-
-**Step 2: Clean the Lead List**
-1. Utilize the [Google Sheet](https://docs.google.com/spreadsheets/d/1B0KR9BRd6jwZrZ5WizJTY2981mxRxWdWayo3CRFLmWg/edit?usp=sharing) to clean and review the lead list - follow the steps as highlighted [above](https://about.gitlab.com/handbook/marketing/marketing-operations/list-import/#import-cleaning-template---info-for-pre-mktgops-hand-off). The spreadsheet specify any differences in the naming conventions for the fields existing in Impartner and Marketo.
-2. Ensure the required fields are present upon import for the automations to trigger including `CRM Partner ID` and `[Impartner] Web Form`.
-
-**Step 3: Import the Lead List to Marketo**
-1. Go to [list](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ST24638A1), `Lead List to Impartner` located in the Database. 
-2. Set `Acquisition Name` to `None`, then Import.
-3. Go to the [Marketo programs](#impartner-list-import) corresponding to the conversion type and activate processing campaign if it's a batch campaign.
-
 
 
 

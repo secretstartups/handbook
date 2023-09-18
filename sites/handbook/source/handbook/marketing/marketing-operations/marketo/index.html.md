@@ -191,16 +191,8 @@ When a lead is set to `Recycle`, their `Behavior Score` is reset to 0. Their `Pe
 
 When a lead `Re-MQLs` from `Recycle` to `MQL`, their `Recycle Reason` field is set to `Null`, but that `Recycle Reason` value is preserved in the field `Previous Recycle Value` on the lead or contact. That field is set by Marketo only. The `Recycle DateTime` only updates the first time. When a lead re-reaches an `MQL` status, they are not re-routed by LeanData for round-robin, they stay in their original owners name.
 
-Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwards in status to `Raw` or `Inquiry` from a later step.
+Follow the [figjam flow chart](https://www.figma.com/file/lycXH6cMKK5oNaKj2RSigx/Re-MQL-Workflows_2023-08-22_10-56-57?type=whiteboard&t=HDkNJDbCt6265Ezf-1) to see the lead lifecycle. Notice you cannot go backwards in status to `Raw` or `Inquiry` from a later step.
 
-<div style="width: 600px;" class="embed-thumb">
-<div style="position: relative; height: 0;overflow: hidden; height: 400px; max-width: 800px; min-width: 320px; border-width: 1px; border-style: solid; border-color: #d8d8d8;">
-<div style="position: absolute;top: 0;left: 0;z-index: 10; width: 600px; height: 100%;background: url(https://murally.blob.core.windows.net/thumbnails/gitlab2474/murals/gitlab2474.1601481962008-5f74acea0e54f6444736cac9-24283f3a-1be5-41ba-a8d6-97433efd70a5.png?v=21e54b2e-50e9-447d-bec6-d64822e5092a) no-repeat center center; background-size: cover;"><div style="position: absolute;top: 0;left: 0;z-index: 20;width: 100%; height: 100%;background-color: white;-webkit-filter: opacity(.4);">
-</div>
-<a href="https://app.mural.co/t/gitlab2474/m/gitlab2474/1601481962008/7e957440dbd811156bf37e29eb4394d89f2d4d31" target="_blank" rel="noopener noreferrer" style="transform: translate(-50%, -50%);top: 50%;left: 50%; position: absolute; z-index: 30; border: none; display: block; height: 50px; background: transparent;"> <img src="https://app.mural.co/static/images/btn-enter-mural.svg" alt="ENTER THE MURAL" width="233" height="50"> </a> 
-</div>
-</div>
-</div>
 
 ### Scoring Model
 The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL, and their `Behavior Score` cannot be `0`.
@@ -271,6 +263,9 @@ These are boosters to scores that occur when a special action takes place above 
 |LinkedIn Form Fill Booster| Fills out LinkedIn Lead Gen Form | +30| {{my.LinkedIn Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status is Nurture,user takes an activity that increases behaviour score<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 |Trial + Action|Success in program within 40 days of starting a trial |+20|{{my.Trial plus Action Booster}}|Trigger|1/month|
+|On24 Engagement Booster | |+10 | {{my.On24 - High}} | Trigger | Once/3 month |
+| On24 Questions Asked Booster | | +5 | {{my.On24 - Low}} | Trigger | Once/week  |
+|On24 Resources Booster | | +5| {{my.On24 - Low}} | Trigger | Once |
 
 
 #### Demographic Scoring

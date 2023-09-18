@@ -197,7 +197,7 @@ This is an event that we have created, own registration and arrange speaker/venu
 
 #### Partner - MDF
 
-This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
+This is for an activity that our partner is executing utilizing MDF Funds. We track membership, but the partner, not GitLab follows up with these leads. See more details [here](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
 
 **Bizible:** This is tracked as an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -395,7 +395,7 @@ An example of a folder setup in Marketo is:
 
 Be advised that some templates are being used for both `in-person` and `virtual events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual`, `In-Person`, or `Hybrid` (if an event will be both in-person and virtual).  
 
-If this is to set up a program that involves a channel partner, you must also follow the directions on that [setup page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up). You will still clone the program from the list below to get started.
+If this is to set up a program that involves a channel partner, you must also follow the directions on that [setup page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns). You will still clone the program from the list below to get started.
 
 #### How to Clone the Marketo program
 
@@ -432,7 +432,7 @@ If this is to set up a program that involves a channel partner, you must also fo
     - Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
 - Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
 - Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
-- Surveys - For templates and setup instructions for surveys (both general surveys and SimplyDirect surveys) skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
+- Surveys - For templates and setup instructions for surveys, skip to specific setup details [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-surveys-in-marketo-and-sfdc).
 - Owned Event - `Hybrid`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
 - Owned Event - `Virtual - Hopin only`: [YYYYMMDD_OwnedEvent_Hopin_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME11445A1) 
     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector). 
@@ -444,9 +444,9 @@ If this is to set up a program that involves a channel partner, you must also fo
 - Sponsored Webcast: [YYYYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
 #### Partner Campaign Setup
-- Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-funded-campaigns).
-- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-marketing-campaign-set-up) you'll need to complete as well.
-- Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trial-campaign-set-up)
+- Partner MDF Funded campaigns go [this page](/handbook/marketing/channel-marketing/partner-campaigns/#mdf-campaigns).
+- Joint GitLab/Partner campaigns, follow the directions for each campaign type above/below. There are additional steps [here](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns) you'll need to complete as well.
+- Partner Trials setup, go to [this page](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
 
 ### Step 2: Sync to Salesforce
 
@@ -850,17 +850,11 @@ When you do your list upload, you must be sure that the `Asset [number] -` that 
 It is critical that any reference to asset number in the upload or send from the vendor uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
 
 ## Steps to Setup Surveys in Marketo and SFDC
-There are two templates to consider when setting up surveys in Marketo, one being specific to Simply Direct and the other a more general survey template. For this section and where instructions diverge, Simply Direct instructions will be labeled with `a` and the more general set up with `b`. 
-
-Simply Direct will provide you with an unique `Survey Name` that they will pass over into Marketo via the API populating the `Person Source` and the `SurveyName` fields. This name is unique to each survey that is ran. `Person Source` will not update if the lead already exists in Marketo.
-
-SimplyDirect is also passing over the survey Q&A through the `Comment Capture` field. This will populate via a URL on the Interesting Moment and the `Web Form` field, so that the SDR following up will have full access to all of the survey questions and answers.
 
 **Please Note: Once you have created your survey program, please ping Marketing Ops in the `#mktops` Slack channel and link your program for review. Each survey is unique and may require tweaks to the setup.**
 
 ### Step 1: Clone program template
-- a. [Simply Direct template](https://app-ab13.marketo.com/#PG6164A1)
-- b. [General survey template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
+- [General survey template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6402A1)
 - Use format `YYYY_MM_SurveyName`
 
 ### Step 2: Sync to Salesforce
@@ -870,16 +864,8 @@ SimplyDirect is also passing over the survey Q&A through the `Comment Capture` f
     - If you are a user of Allocadia, you will need to add the Allocadia ID sub-category ID to the `Description` field. 
     - Click "Save"
 
-### Step 3a: Update SurveyName across Smart Lists, Flows and Tokens
-- Contact SimplyDirect and ask for the SurveyName they will pass to Marketo
-- Click into `01 Processing`
-     - In Smart List, change every `SurveyName` to the name you were given. There are 3 fields on the smartlist you must change. Tokens will not work, you must update in the smart list. Do not include any extra spaces!
-     - In the Flow, on step 1 `Change Data Value` update `SurveyName` to the name you were given.
-     - Click to the "Schedule" tab and click `Activate`. It should be set that a person can only run through the flow once.
-- BEFORE launch of the survey, have SimplyDirect send an existing lead, and a new lead through to make sure both are being captured.
-- Fill in necessary program tokens.
 
-### Step 3b: Create issue for lead upload (if not Simply Direct)
+### Step 3: Create issue for lead upload
 - If the survey requires a manual upload via a list upload, focus attention on updating the `01 Processing` batch smart campaign. For manual list uploads, the batch will be activated manually by MktgOps during the upload process. 
 - If the survey requires a Zapier automation, consult MktgOps [via issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/blob/master/.gitlab/issue_templates/zapier_connection_request.md) on building out the automation, MktgOps will also be the ones to activate the `01 processing` campaign
 

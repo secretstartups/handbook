@@ -16,7 +16,9 @@ Outreach is a sales engagement platform helps efficiently and effectively engage
 
 ### Support
 
-[#mktgops](https://gitlab.slack.com/archives/CGL35F20G) on Slack.
+Please contact the appropriate channel based on your role:
+- Marketing or Sales Development requests, please contact [#mktgops](https://gitlab.slack.com/archives/CGL35F20G) on Slack.
+- Sales requests, please contact [#sales-tools-support](https://gitlab.slack.com/archives/C05T3JQ1P40) on Slack.
 
 ### Set-Up  
 
@@ -179,7 +181,7 @@ If you need a phone number, please open an issue and we can purchase one if appr
 Custom fields from Outreach that sync into SFDC for understanding engagement status in Outreach. 
 
 |Field Name|Description|SFDC Object|
-|----|----|
+|----|----| ----|
 | Actively Being Sequenced| Checkbox for if a prospect is active in a sequence | Lead & Contact |
 | Name of Active Sequence | Name of the most recent active sequence. If they are in multiple sequences it will note the sequence they have been in the longest.|  Lead & Contact |
 | Sequence Status | The state of the sequence: Active, Pending, Failed.| Lead & Contact |
