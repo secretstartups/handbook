@@ -115,6 +115,7 @@ Any questions should be directed to Senior Director of Legal, Corporate via the 
 2. Issues and MRs:
     * If you shared or see information which has been shared in an Issue or MR that does not fit within the SAFE framework, please immediately message the Company’s Senior Director of Legal, Corporate via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) slack channel and include a link to such Issue or MR when posting your message. Also mark the [MR or Issue “Confidential”](https://www.youtube.com/watch?v=RcaQaWzw2IQ).
     * The Senior Director of Legal, Corporate and Vice President, Investor Relations will review it and advise on any further action necessary.
+    * Helpful Hint: You can use an [internal note](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) in public issues for exchanging confidential information internally.
 3. GitLab Unfiltered Videos:
     * If you shared or see information which has been shared via GitLab Unfiltered that does not fit within the SAFE framework, please mark the video as private. Once the video is private, please immediately message the Senior Director of Legal, Corporate via the [#safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) slack channel.
     * The Senior Director of Legal, Corporate and Vice President, Investor Relations will review it and determine next steps, which may include contacting the Digital Production team to have it removed.
