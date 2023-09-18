@@ -35,7 +35,7 @@ In relation to the [FY21-22 Segment Marketing Plan](https://docs.google.com/pres
 ### Diagrams and GDocs
 {: #diagrams-docs}
 
-* [MURAL: Enterprise Buyer Journey](https://app.mural.co/t/gitlab2474/m/gitlab2474/1600901153588/7da0f06c21519876e5cd6bd6d14a77632c180e83)
+* [Figjam: Enterprise Buyer Journey](https://www.figma.com/file/loQkKtgIMPPtBP8wZXhKZ7/WIP-ENT-Buyer's-journey-map-brainstorm_2023-09-14_18-30-08?type=whiteboard&t=S9GSk8jFu3bJ28Iq-1)
 * [Content slotted into Enterprise Buyer Journey - Use Cases (GDoc)](https://docs.google.com/spreadsheets/d/1MYGePezz7666yXJJNRkif0ekJwxnIoJMBgFPshOm1IY/edit#gid=1067806853)
 * [Content slotted into Enterprise Buyer Journey - Competitive (GDoc)](https://docs.google.com/spreadsheets/d/1MYGePezz7666yXJJNRkif0ekJwxnIoJMBgFPshOm1IY/edit#gid=1974717369)
 * [PF Track organization and rollout (GDoc)](https://docs.google.com/spreadsheets/d/1MYGePezz7666yXJJNRkif0ekJwxnIoJMBgFPshOm1IY/edit#gid=1504719228)
