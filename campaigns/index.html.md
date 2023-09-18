@@ -35,7 +35,7 @@ Think of a **campaign bundle** as the foundational pieces of an integrated campa
 
 _The list below includes recommended items included in a **Campaign Bundle**, which is developed by the Campaign Core Team consisting of Campaigns, Product Marketing, Technical Marketing, Content, Analyst relations, and Design.
 
-To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1678174441182/9087dced75c7cb2a0aac187a02c870479708b472?sender=aoetama8392).
+To see a visual of campaign bundles, which are then leveraged in activation plans, please see [this figjam ](https://www.figma.com/file/jakug8myj5tOcaYrNxRAq2/Campaigns-team-Roles-%26-Responsibilities-Visuals_2023-08-23_11-14-14?type=whiteboard&t=HDkNJDbCt6265Ezf-1).
 
 **What is included in a Campaign Bundle?**
 * Target personas
@@ -258,7 +258,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 **Launched: 2020-04-27 and continually optimized**
 
-#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1659433396850/d99bfb173d53cb12749aebd40c9721b0cf913a51)
+#### [FigJam of FY23 campaign flow>>](https://www.figma.com/file/Ei7B2jndU7eOwukjWuMbAk/CICD-GTM-Campaign-Flow-FY23_2023-08-22_10-27-25?type=whiteboard&t=HDkNJDbCt6265Ezf-1)
 
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#memo-campaign-brief)
 * [Campaign Core Team Members](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2850#busts_in_silhouette-campaign-core-team)
@@ -283,7 +283,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 **Launched: 2020-04-28 and continually optimized**
 
-#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1639574604912/3e0b081d9727a70af1398a562d735dfe7f1cbdba)
+#### [FigJam of FY23 campaign flow>>](https://www.figma.com/file/OuFSfs8Eb1DRepmDxG6OKj/DevOps-GTM-Campaign-Flow-FY23_2023-08-22_10-36-34?type=whiteboard&t=n9XmTSuPFXL83Ruh-1)
 
 * [Campaign Brief](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#memo-campaign-brief)
 * [Current/Planned Content and Events](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2858#fy23-new-planned-content-events)
@@ -305,7 +305,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 **Launched: 2020-04-29 and continually optimized**
 
-#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c)
+#### [FigJam of FY23 campaign flow>>](https://www.figma.com/file/OuFSfs8Eb1DRepmDxG6OKj/DevOps-GTM-Campaign-Flow-FY23_2023-08-22_10-36-34?type=whiteboard&t=elKOAakWTl8snIYW-1)
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
 * [Solution Resource](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/)
@@ -324,7 +324,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 
 **Launched: 2020-06-22 and continually optimized**
 
-#### [MURAL of FY23 campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1620648875422/b0575eec3f6839f6fd9672f34dfb5ca022b422f3)
+#### [FigJam of FY23 campaign flow>>](https://www.figma.com/file/R5rSFgNdyW5mSN9mSHORJo/Campaigns-%3E-GitOps-GTM-Campaign-Flow-FY22---FY23_2023-08-22_10-43-13?type=whiteboard&t=elKOAakWTl8snIYW-1)
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/745)
 * [Campaign Review 2021-9-26](https://docs.google.com/presentation/d/1eYF_H95XzrGmgrqbbRy6rYKsqZkpPvCt7sNxyuEsZuk/edit#slide=id.g5e411f22b2_0_0) - GitLab Team Members Only
@@ -473,7 +473,7 @@ The below were campaigns run historically, and aligned to overall GTM. They have
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/439)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/445)
-* [MURAL of campaign user journey](https://app.mural.co/t/gitlab5736/m/gitlab5736/1584992460277/f66e45f8067dded0ae81d711aeb897c1547e2a80)
+* [FigJam of campaign user journey](https://www.figma.com/file/BYZIoMhJzI4FvM4nXit9Ca/OctoCat-Campaign-Flows-Actual-Sizes_2023-09-11_19-03-47?type=whiteboard&t=elKOAakWTl8snIYW-1)
 * [Live landing page](/competition/github/)
 * [Campaign brief](https://docs.google.com/document/d/1Mcy_0cwMsTPIxWUXPgoqw9ejsRJxaZBHi4NikYTabDY/edit#heading=h.kf9lglu57c0t)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lmdK)
