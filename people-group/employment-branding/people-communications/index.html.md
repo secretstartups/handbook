@@ -61,36 +61,29 @@ In preparing key messages to be shared with all team members, we ask all departm
 
 We use a variety of channels to communicate with various audiences within GitLab. The top channels we use, the purpose of each of these channels, and how everyone can contribute to each is as follows.
 
-- **"While You Were Iterating" Newsletter...** Communicating new updates that are important for all team members to be aware of on a twice a month basis.
+1. **"While You Were Iterating" Newsletter...** Communicating new updates that are important for all team members to be aware of on a twice a month basis.
+    - 🤝 To contribute: Write a comment in the [most current newsletter GitLab issue](https://gitlab.com/gitlab-com/internal-communications/newsletter/-/issues) and tag `@kaylagolden`. Things to note when sending over content: 
+        - Is it globally relevant to more than 75% of GitLab team members? 
+        - Is this something all team members should know about and/or action?
+        - Does it align with our GitLab values?
+        - Make sure there is a team member action included
+        - Send over a 1-2 sentence draft description of your content. If necessary, include additional context for internal comms team’s background and knowledge - this is helpful when reviewing and finalizing the messaging.
 
-To contribute: Write a comment in the most current newsletter GitLab issue and tag @kaylagolden. Things to note when sending over content: 
-    - Is it globally relevant to more than 75% of GitLab team members? 
-    - Is this something all team members should know about and/or action?
-    - Does it align with our GitLab values?
-    - Make sure there is a team member action included
-    - Send over a 1-2 sentence draft description of your content. If necessary, include additional context for internal comms team’s background and knowledge - this is helpful when reviewing and finalizing the messaging.
+2. **Manager README Monthly Newsletter:** Monthly proactive communication to people managers containing: what’s coming up, reminders of what’s important, guidance on team member talking points and what actions to take
+    - 🤝 To contribute: Write a comment in the most current manager comms GitLab issue and tag @kaylagolden. Things to note when sending over content: 
+        - Is it globally relevant to more than 75% of GitLab People Managers? 
+        - Is this something all people managers should know about and/or action?
+        - Does it align with our GitLab values?
+        - Make sure there is a people manager action included
+        - Send over a 1-2 sentence draft description of your content. If necessary, include additional context for internal comms team’s background and knowledge - this is helpful when reviewing and finalizing the messaging.
 
-- **Manager README Monthly Newsletter:** Monthly proactive communication to people managers containing: what’s coming up, reminders of what’s important, guidance on team member talking points and what actions to take
+3. **All-team-member Slack channels (#company-fyi and #company-fyi-private):** Timely important and action-oriented important updates to all team members
+    - 🤝 To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r) and share on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with @kaylagolden.
 
-To contribute: Write a comment in the most current manager comms GitLab issue and tag @kaylagolden. Things to note when sending over content: 
-    - Is it globally relevant to more than 75% of GitLab People Managers? 
-    - Is this something all people managers should know about and/or action?
-    - Does it align with our GitLab values?
-    - Make sure there is a people manager action included
-    - Send over a 1-2 sentence draft description of your content. If necessary, include additional context for internal comms team’s background and knowledge - this is helpful when reviewing and finalizing the messaging.
+4. **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
 
-
-
-- **All-team-member Slack channels (#company-fyi and #company-fyi-private):** Timely important and action-oriented important updates to all team members
-
-To contribute: Read the [Internal Comms Tiered System](https://docs.google.com/document/d/1ST6_ArqcAMKQN0hMgD9ZCEyQ6BEWI7y-kcMsYAUpzDw/edit#heading=h.of2gk6rfwgrw) to determine if your message falls into Tier 1a/1b which would signal a #company-fyi or #company-fyi-private message. If that’s the case, create a copy of and complete the [request for internal communications support template](https://docs.google.com/document/d/1whzG0NxWfUyKDWdIwwojiDy_2xy5W-JIjV34BJm7nek/edit#heading=h.x4nz4qi9s12r) and share on Slack using the **#internal-communications-requests** channel, or if confidentiality is a concern, please connect directly with @kaylagolden.
-
-
-- **GitLab Handbook:** For permanent and non-confidential updates, we consider how information should live in the GitLab Handbook.
-
-- **GitLab Assembly:** All-company synchronous time to hear from GitLab leaders and answer team member questions
-
-To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group.
+5. **GitLab Assembly:** All-company synchronous time to hear from GitLab leaders and answer team member questions
+    - 🤝 To contribute: Content creation is determined by the People Comms & Engagement Team with review by members of the E-Group.
 
 ## GitLab Assembly
 
