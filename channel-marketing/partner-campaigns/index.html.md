@@ -49,10 +49,10 @@ Partners have many different type of campaigns that fit into specific categories
      - Events 
      - Webinar
      - [Partner Sponsored Events](/handbook/marketing/channel-marketing/partner-campaigns/#partner-sponsored-events)
-- [Trial Campaigns](handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
+- [Trial Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#trials-from-partners)
      - SaaS Free Trial
      - Self-Managed Free Trial
-- [Partner Managed Campaigns]((handbook/marketing/channel-marketing/partner-campaigns/#partner-managed-campaigns))
+- [Partner Managed Campaigns](/handbook/marketing/channel-marketing/partner-campaigns/#partner-managed-campaigns)
      - Impartner Program
      - Partner Campaign
 
@@ -77,6 +77,7 @@ Before starting this steps, note you'll need to have already set up the [Allocad
 
 **Step 3: Update SFDC Campaign**
 
+1. Under `Vartopia Partner Information`, select the `Partner Account` and check `Sync to Vartopia` for the campaign to sync to Vartopia.
 1. `Budgeted Cost` in SFDC pulls from your plan number, not your forecast number from Allocadia. If you do not have a plan cost in Allocadia then `Budgeted Cost` in SFDC will remain blank. If this is the case, you will want to add in your `Budgeted Cost` manually into your SFDC campaign.
 2. Once Allocadia has updated the SFDC campaign, you will need to double check `Campaign Type` and make sure it still says `Partner - MDF`. If it does not, please update the field.
 
