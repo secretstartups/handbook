@@ -28,6 +28,8 @@ Data for reporting and analytics use cases like MR Rate & Performance KPIs (Prod
 * Does it contain PII data? `Yes`
 * How often does the data need to be refreshed? `Extract runs twice per day`
 * SLA Description: 
+   - Max 32 hours to Snowflake
+   - Max 55 hours to Sisense/Tableau 
 * Severity in case of an incident
   - [x] Critical - S1
   - [ ] High - S2
@@ -53,6 +55,38 @@ Data for reporting and analytics use cases like MR Rate & Performance KPIs (Prod
 | Business users who need to be informed in case of data outage | See [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_dotcom/Gitlab_DB_recreation_failure.md#slo-breach) | `N/A` |
  
 * Data access approval will be involved in the Access Request process and need to give approval if a GitLab team member applies for raw data access.
+ 
+## SLO explaination
+
+The extract runs twice per day on a replica Postgres database with static data. During the extract, we use a static source. If data is added or modified 1 second before the snapshot creation, it's included in the snapshot. However, if data is added or modified 1 second _after_ the snapshot is created, that data is excluded. Therefore, data is always older than the duration of the extraction process (approximately 6 hours) when it lands in Snowflakes `RAW` [layer](/handbook/business-technology/data-team/platform/#raw). After landing in Snowflake it requires [multiple steps](/handbook/business-technology/data-team/platform/dbt-guide/#what-and-why) to make it available for usage in Sisense/Tableau (`PROD` [layer](/handbook/business-technology/data-team/platform/#prod)).
+ 
+The setup currently, and SLO, is set that if the [Ansible Replica Rebuild](handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/#ansible -replica-ebuild) step fails once (and subsequently we could not run the extract step) it does not lead to a SLO breach.
+
+**Example 1:**
+- Sunday 23:59:59AM UTC - Data is added or modified via GitLab.com
+- Monday 00:00:00AM UTC - Snapshot created 
+- Monday 01:00:00AM UTC - Ansible Replica Rebuild 
+- Monday 02:30:00AM UTC - Pipeline to extract data starts
+- Monday 06:00:00AM UTC - Data available in `raw` format in Snowflake
+- Monday 05:00:00PM UTC - Data available in for consumption in Sisense/Tableau 
+
+**Example 2:**
+- Monday 00:00:01AM UTC - Data is added or modified via GitLab.com
+- Monday 12:00:00PM UTC - Snapshot created 
+- Monday 01:00:00PM UTC - Ansible Replica Rebuild 
+- Monday 02:30:00PM UTC - Pipeline to extract data starts
+- Monday 06:00:00PM UTC - Data available in `raw` format in Snowflake**
+- Tuesday 05:00:00PM UTC - Data available in for consumption in Sisense/Tableau
+
+**Example 3:**
+- Monday 12:00:01PM UTC - Data is added or modified via GitLab.com
+- Tuesday 00:00:00AM UTC - Snapshot created 
+- Tuesday 01:00:00AM UTC - Ansible Replica Rebuild fails
+- No extract
+- Tuesday 12:00:00PM UTC - Snapshot created
+- Tuesday 02:30:00PM UTC - Pipeline to extract data starts
+- Tuesday 06:00:00PM UTC - Data available in `raw` format in Snowflake
+- Wednesday 05:00:00PM UTC - Data available in for consumption in Sisense/Tableau
 
 ## Data pipeline (technical) description
  
@@ -62,13 +96,13 @@ There are **dedicated** gitlab.com _read_ replica database instances used for da
 graph TD;
 subgraph Main Database
     A[Main Tables GitLab.com-DB-Live] -->|wal_files_mechanism| B(Main Tables GitLab.com-DB Replica) 
-    B --> |build_destroy_mechanism DB from GCP Snapshot | C[Main-Tables GitLab.com -- DB running on  port 5432]
+    B --> | Ansible Replica Rebuild DB Main from GCP Snapshot | C[Main-Tables GitLab.com -- DB running on  port 5432]
   
 end
 
 subgraph CI Database
 F[CI Tables GitLab.com-DB-Live] -->|wal_files_mechanism| G(CI Tables GitLab.com-DB Replica)     
-    G --> |build_destroy_mechanism DB from GCP Snapshot | H[CI-Tables GitLab.com -- DB running on  port 5432]
+    G --> | Ansible Replica Rebuild DB CI from GCP Snapshot | H[CI-Tables GitLab.com -- DB running on  port 5432]
 
 end
 
@@ -94,7 +128,10 @@ Extracting data from this database outside the window will result in an error, b
 
 - `Gitlab.com-DB (Main and CI) Live Replica` is populated with data via WAL files continuously. 
 
-Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB (Main and CI) created from GCP snapshots` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
+During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
+
+### Ansible Replica Rebuild 
+Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB (Main and CI) created from GCP snapshots` instance.  The read replicas are build by an Ansible process which is configured in this [project](https://gitlab.com/gitlab-com/gl-infra/data-server-rebuild-ansible). 
 
 ### Monitoring/Alerting
 
