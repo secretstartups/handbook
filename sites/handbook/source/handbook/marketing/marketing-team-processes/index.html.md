@@ -64,7 +64,7 @@ The instructions below are to be followed by marketing team members. Add a row a
 ## Mockup of All-Marketing Calendar (Future Visualization)
 {: #marketing-calendar-mockup}
 <!-- DO NOT CHANGE ANCHOR -->
-In the future, the goal is to visualize these inputs in a calendar format with filters (based on columns in the doc) to allow the team to see the plans in Sisense. [View the Basic Mockup in Mural!](https://app.mural.co/t/gitlab2474/m/gitlab2474/1612202820583/4c75c5323929f81687f7c933eafad6cb4e7ed186)
+In the future, the goal is to visualize these inputs in a calendar format with filters (based on columns in the doc) to allow the team to see the plans in Sisense. [View the Basic Mockup in FigJam!](https://www.figma.com/file/wxKZNk0ysJF77hTak9lNBn/Calendar-Mockup_2023-09-14_18-32-00?type=whiteboard&t=S9GSk8jFu3bJ28Iq-1)
 
 Currently, the GoogleDoc has pre-set filter views to help you see plans by Region, Segment, etc. to be added by team members for their respective activities.
 
