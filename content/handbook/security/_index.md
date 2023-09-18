@@ -302,11 +302,6 @@ such as up-to-date security patching, host firewalls, and antivirus, by followin
 at a minimum. That said, a personal VPN may provide additional protections in these situations.
 For more on personal VPNs see the [Personal VPN]({{< ref "personal-vpn" >}}) page.
 
-### Other Security Topics
-
-- [Security Team handbook]({{< ref "." >}})
-- [Security questions from customers, and their answers](https://about.gitlab.com/security)
-- [Using GPG Keychain for PGP]({{< ref "pgp_process" >}})
 
 ## Security Department
 
@@ -662,15 +657,6 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
         - [SIRT (private)](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations) for SIRT issues.
     - [@gitlab-com/gl-security/security-operations/trust-and-safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety) is the primary group for @'mentioning the Trust & Safety team.
 
-#### Other frequently used GitLab.com Projects
-
-Security crosses many teams in the company, so you will find `~security` labelled issues across all GitLab projects, especially:
-
-- [gitlab](https://gitlab.com/gitlab-org/gitlab/issues/)
-- [infrastructure](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
-- [production](https://gitlab.com/gitlab-com/gl-infra/production/issues/)
-
-When opening issues, please follow the [Creating New Security Issues](#creating-new-security-issues) process for using labels and the confidential flag
 
 #### Runbooks
 
