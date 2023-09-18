@@ -79,7 +79,7 @@ We will continue our always-on and continually-optimized capabilities-focused ca
 
 To view a diagram of Business Initiatives > Solutions > Capabilities, go to your Google Drive and search `Maturity Model`. This is only accessible by GitLab team members. This is owned and managed by Portfolio Marketing. If you have questions about the maturity model, please direct them to the [#portfolio-marketing slack channel](https://gitlab.slack.com/archives/CPTKGRXHP).
 
-View this [MURAL](https://app.mural.co/t/gitlab2474/m/gitlab2474/1619125370999/270c2d5df5a535223c053f2dba0d06833f9b92d1?sender=jgragnola2053) for a visual of our campaigns and how they lead to activation strategies by segment/geo. These are owned by Marketing Campaigns. If you have any questions, please direct them to the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).
+View this [Figjam](https://www.figma.com/file/NjcRe0cN3mHFg4ESib8UCD/FY23-Campaign-Bundles-%2B-RegionalChannel-Activation-%2B-Revenue-Play_2023-09-14_18-28-07?type=whiteboard&t=S9GSk8jFu3bJ28Iq-1) for a visual of our campaigns and how they lead to activation strategies by segment/geo. These are owned by Marketing Campaigns. If you have any questions, please direct them to the [#marketing-campaigns slack channel](https://gitlab.slack.com/archives/CCWUCP4MS).
 
 ## Campaign Core Teams & Campaign Bundles
 {: #campaign-core-teams .gitlab-purple}
