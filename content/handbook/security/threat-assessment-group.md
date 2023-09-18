@@ -61,6 +61,4 @@ The process for creating an advisory is as follows:
 - Advisory is posted to the notification board
 - GitLab team members are notified via email and a message posted to #company-fyi
 
-Advisories will be posted to the [internal security notification dashboard](https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*)
-
 If you would like to report an event for advisory consideration please contact TAG by using the slack command @tag-sec
