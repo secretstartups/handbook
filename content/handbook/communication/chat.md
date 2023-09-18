@@ -241,4 +241,4 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 
 ## Security & Compliance
 
-On a quarterly basis, all users will be logged out of Slack and will need to re-authenticate on all of their devices via Okta. 
+On a quarterly basis, all users will be logged out of Slack and will need to re-authenticate on all of their devices via Okta.
