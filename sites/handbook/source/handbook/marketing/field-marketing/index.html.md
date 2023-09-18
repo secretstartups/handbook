@@ -1018,7 +1018,7 @@ Select Partner marketing activities can be:
 
 ### Lead Management in the Channel
 
-Please refer to the [Channel Partner Joint GitLab events handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-events) for details on how we set up our joint campaign and also lead sharing with the channel as a result of those campaings.
+Please refer to the [Channel Partner Joint GitLab events handbook page](/handbook/marketing/channel-marketing/partner-campaigns/#joint-gitlab-and-partner-campaigns) for details on how we set up our joint campaign and also lead sharing with the channel as a result of those campaings.
 
 All campaigns we are working with channel partners must flow through the outlined process as a way to ensure we are tracking the success of the campaign properly.
 
