@@ -195,10 +195,10 @@ As the requestor/business owner, you are responsible for QA on content, spelling
 * [Overview Deck](https://docs.google.com/presentation/d/1N_VM8xHGiQ95PXt09xyuQAa9px0VGEGyJd0KtGdXjzg/edit#slide=id.g106e2c5ac6b_0_0)
 * [Intelligent Marketo Email Nurture Epic - Pre-launch](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
 * [Intelligent Marketo Email Nurture Epic - FY24](https://gitlab.com/groups/gitlab-com/marketing/-/epics/3557)
-* [MURAL of Intelligent Marketo Email Nurture](https://www.figma.com/file/Jq2tZE4CJ4bFXZL3jPCsh6/Email-Marketing-%3E-Intelligent-Email-Nurture-Engine_2023-08-22_10-41-30?type=whiteboard&node-id=0%3A1&t=USYN6thjZ9rP4NAt-1)
+* [Figjam of Intelligent Marketo Email Nurture](https://www.figma.com/file/Jq2tZE4CJ4bFXZL3jPCsh6/Email-Marketing-%3E-Intelligent-Email-Nurture-Engine_2023-08-22_10-41-30?type=whiteboard&node-id=0%3A1&t=USYN6thjZ9rP4NAt-1)
 * [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
 * [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
-* [MURAL of experience prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
+* [Figjam of experience prior to intelligent nurture](https://www.figma.com/file/QsXfGW9HyfQiumO1bCx948/All-Active-Nurture-Emails-as-of-2021-06-30_2023-09-14_18-22-02?type=whiteboard&t=S9GSk8jFu3bJ28Iq-1)
 * [CTA & UTM documentation experience prior to intelligent nurture](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
 
 #### Labels for Intelligent Nurture Progress
