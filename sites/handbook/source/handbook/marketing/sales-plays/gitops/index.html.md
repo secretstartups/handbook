@@ -112,7 +112,7 @@ If both of these include GitOps keywords or GitOps topics - ensure to have the G
 
 Marketing is running a related demand gen campaign.  
 
-* A Demand Generation campaign is running across different channels (LinkedIn, Facebook, Google Search...) surfacing new leads from the Focus Account Lists, ICP Total Addressable Market, and Volume accounts. See the flow of the Marketing campaign [here](https://app.mural.co/t/gitlab2474/m/gitlab2474/1620648875422/b0575eec3f6839f6fd9672f34dfb5ca022b422f3?sender=epan1035) 
+* A Demand Generation campaign is running across different channels (LinkedIn, Facebook, Google Search...) surfacing new leads from the Focus Account Lists, ICP Total Addressable Market, and Volume accounts. See the flow of the Marketing campaign [on Figjam can be found here](https://www.figma.com/file/R5rSFgNdyW5mSN9mSHORJo/Campaigns-%3E-GitOps-GTM-Campaign-Flow-FY22---FY23_2023-08-22_10-43-13?type=whiteboard&t=S9GSk8jFu3bJ28Iq-1) 
 * A series of virtual events are scheduled throughout FY22, targeting new and existing Inquiries. Schedule of upcoming Infrastructure Automation/GitOps GTM related virtual events can be found in the [FY22 All-Marketing Calendar SSoT](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1570851636)
 
 
