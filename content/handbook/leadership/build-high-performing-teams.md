@@ -1,13 +1,6 @@
 ---
-layout: handbook-page-toc
 title: Building High Performing Teams
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
@@ -56,17 +49,13 @@ Let's explore the stages in more detail and strategies you can implement as a Ma
 
 ### Video to Learn More About the Model
 
-Overview of the Drexler-Sibbet Team Performance Mdoel: 
+Overview of the Drexler-Sibbet Team Performance Mdoel:
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hf8dOLeRvQQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "hf8dOLeRvQQ" >}}
 
 ### Stage 1 Orientation - Why am I here?
 
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zsDGaLH3LcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+{{< youtube "zsDGaLH3LcE" >}}
 
 Why am I here? Team needs to move from complete freedom to a set of “boundaries and constraints” that are needed to operate. The first step is to understand the purpose of the team.
 
@@ -84,16 +73,12 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 - How will my skill be used?
 - How can I best contribute?
 
-<details>
-  <summary markdown='span'>
-    Stage 1 Diagram
-  </summary>
-
+{{% details summary="Stage 1 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHRyishV7cc9k78hA7coEyYw0udvNBIWOgZZtMCxmzwPBPU_0_7b6BizAxH_1qocAZHhGhyWxuOcCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Orientation_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 1 Manager Tasks:**
 
 1. Document the team’s purpose/mission
@@ -102,16 +87,11 @@ Why am I here? Team needs to move from complete freedom to a set of “boundarie
 1. Set clear expectations with your team from the start and ask them to identify where your team is in the model
 1. Assign a buddy or mentor to each new team member to help them acclimate to the team
 
-<details>
-  <summary markdown='span'>
-    Stage 1 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 1 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiNEAtjZlzmTqNCNCrN81l2lTEg-VpRgVNC2UGyyprbjwcng_f4UDI3MstrgEkfU3NY-q9qJUy0BT0/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Orientation%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 2 Trust Building - Who are you?
 
@@ -131,16 +111,12 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 - What are other team member's interpersonal needs and communication styles?
 - Do team members have hidden agendas?
 
-<details>
-  <summary markdown='span'>
-    Stage 2 Diagram
-  </summary>
-
+{{% details summary="Stage 2 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4KKzsmn1vHTssMByK4ZEy_TX0Rq9Q7b583rqxFGpwszceQmkx0kBqz5Y-qyxcpIRIZcO0T4WqQ1xs/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Trust%20Building_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 2 Manager Tasks:**
 
 1. Have each team member share where they see themselves in one to five years
@@ -150,16 +126,11 @@ Who are you? Team members share a mutual regard - the climate is positive, peopl
 1. Establish team ground rules and communication protocol
 1. Review the model with the team quarterly and track progress
 
-<details>
-  <summary markdown='span'>
-    Stage 2 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 2 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSoGJa_PQsyQsbSEuxjhCY9DZYANXuvBbFssuCD4YQF9XRiXdCr6p3p5BSTmbiYTlmxB22IhhUUcj4m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Trust%20Building%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 3 Goal Clarification - What are we doing?
 
@@ -178,32 +149,23 @@ What are we doing? Explicit assumptions are made clear; individual assumptions a
 - What assumptions are we making about our mission and our work?
 - Exactly what are we to do?
 
-<details>
-  <summary markdown='span'>
-    Stage 3 Diagram
-  </summary>
-
+{{% details summary="Stage 3 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHbN4joN6UXpghlX7KuYCWgdYCX7UYbJZCaAR98QiyKnuIJ-Z_Y57qVJXomung7cldjutrcJpcv7Br/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Goal%20Clarification_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 3 Manager Tasks:**
 
 1. Collectively set a team vision that inspires the team members
 1. Collectively develop team goals in support of the mission and vision. Make sure the goals are SMART (specific, measurable, attainable, realistic, time-sensitive). Document the goals and periodically assess.
 1. During 1:1s, discuss how the individual team member’s performance ties to the team goals. Ask the team member for their assessment of how their contributions tie to the team.
 
-<details>
-  <summary markdown='span'>
-    Stage 3 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 3 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdRJCDIBaMfYAzX11xyscYyu4MF3reMLWB4QSKif03jHMPezzowURkh7eO3yOwblDl3ommdvexOkEp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Goal%20Clarification%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 4 Commitment - How will we do it?
 
@@ -223,32 +185,23 @@ How will we do it? The team manages its resources well to make use of what they 
 - What assumptions are we making about our mission and our work?
 - Exactly what are we to do?
 
-<details>
-  <summary markdown='span'>
-    Stage 4 Diagram
-  </summary>
-
+{{% details summary="Stage 4 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW8aXikDfG42nJ0_vaWxjwGA8sDrEEdqYwn4UiRCcYrOsv3K3v0kbMc-pamaFvAO7Tb62Zi2fgYq7l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Commitment_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 4 Manager Tasks:**
 
 1. Collectively identify all team decision points. Specify who is responsible for each decision.
 1. Review, document, and communicate the responsibilities
 1. Define and document individual roles. Discuss assumptions that team members have about roles. Address differences in assumptions.
 
-<details>
-  <summary markdown='span'>
-    Stage 4 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 4 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRESLJzmObFFF13i2-EZ-cscPLHSBPxcYxfkdIGpD5pow9TVmh_kKOdBEhAJErsmQsB8SaxnZdZbhf8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Commitment%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 5 Implementation - Who does what, when, where?
 
@@ -269,16 +222,12 @@ Who does what, when, and where? There is clarity so that the team can take off a
 - How does the team communicate and coordinate with each other?
 - How does the team measure performance?
 
-<details>
-  <summary markdown='span'>
-    Stage 5 Diagram
-  </summary>
-
+{{% details summary="Stage 5 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHyiwrGiRz4vkQXYdaAnUO21M88rV4f1qustr8Ln4NdDFaSuR4sFwb9R_Jdiqty_5MQEf-SgKnz2bY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Implementation_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 5 Manager Tasks:**
 
 1. Document and communicate Handbook first operating procedures.
@@ -287,16 +236,11 @@ Who does what, when, and where? There is clarity so that the team can take off a
 1. Utilize GitLab schedules and trackers and assign someone to own components of the plans.
 1. Periodically solicit input from senior leaders on the team’s performance and execution. Share the feedback with the team.
 
-<details>
-  <summary markdown='span'>
-    Stage 5 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 5 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj-kIQiYnJ0ZKARqjqJE1S8xoxSK69dC0rWn3V_TECHxsCQXTGeyrjCSjQKr1oLYiUdd5B1W0Q0HA6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Implementation%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 6 High Performance - Wow!
 
@@ -314,16 +258,12 @@ The team accomplishes more than it is expected to. The team has taken off and cr
 - How do team members best use the resources of the team?
 - How does the team support one another?
 
-<details>
-  <summary markdown='span'>
-    Stage 6 Diagram
-  </summary>
-
+{{% details summary="Stage 6 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1k7OWgt3Q2W935Jjo-szu0XfloSWdNL9kFYahvmpFYkd5gH_kRmSGbVaV0iU80bpdrptPYfo6mT7d/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22High%20Performance_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 6 Manager Tasks:**
 
 1. Define what high performance would like for your team. Hold a quarterly retrospective.
@@ -336,16 +276,11 @@ Ask:
     - What else can we achieve and accomplish that would be added value to GitLab?
 1. Conduct team after-action reviews and debriefs. Reflect on what the team learned and what the team could have done differently.
 
-<details>
-  <summary markdown='span'>
-    Stage 6 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 6 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL8PmCyN_31MexAx77plo1kJb_wmoflExh0RNuW4i81K53Q8DmS2Ma54JISzkppziruRaW-_Jt4qZl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22High%20Performance%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Stage 7 Renewal - Why Continue?
 
@@ -367,16 +302,13 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 - What changes can the team anticipate? How is the team preparing for them?
 - How can the team continue to improve performance?
 
-<details>
-  <summary markdown='span'>
-    Stage 7 Diagram
-  </summary>
 
+{{% details summary="Stage 7 Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUNWT85oFiaZTQTzXnMRE8Epl17ZF6LZzfJt-27Wuwkni5kXDk-Li8CALqNE-icH0DMJocbVBZVujD/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Renewal_High%20Perf%20Teams%22">Slide deck</a>
+{{% /details %}}
 
-</details>
 **Stage 7 Manager Tasks:**
 
 1. Quarterly conduct a meeting and have each team member come with at least one idea on how the team can improve its performance. Discuss the ideas as a team and vote to identify at least one idea for implementation.
@@ -386,16 +318,11 @@ Why continue? It is time to give recognition to or celebrate the achievement of 
 1. Write personal thank-you notes in the Slack channel.
 1. Identify opportunities to rotate team members to other teams. Allow team members to participate in developmental experiences.
 
-<details>
-  <summary markdown='span'>
-    Stage 7 Manager Tasks Diagram
-  </summary>
-
+{{% details summary="Stage 7 Manager Tasks Diagram" %}}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS26y0FVQMmnsTinXpaUp0GnZePcnRGZ-e_OoYKflYcqyOTcaagWLAkfFDGLpC4RSoluFr9ZMiV70vp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <a href="https://drive.google.com/drive/search?q=title:%22Renewal%20-%20Managers_High%20Perf%20Teams%22">Slide deck</a>
-
-</details>
+{{% /details %}}
 
 ### Putting the Model Into Practice
 
@@ -405,29 +332,28 @@ You may be asking yourself:
 
 Great question! To assess how your team is doing, we've provided a couple of resources for you to leverage:
 
-1. Check out the template: [High Performing Teams Diagnostic Tool](https://docs.google.com/forms/d/1z-Zw5XgtAqfhnDvP9ce7EilJztB6PCObE3MDfIOij_k/edit) 
+1. Check out the template: [High Performing Teams Diagnostic Tool](https://docs.google.com/forms/d/1z-Zw5XgtAqfhnDvP9ce7EilJztB6PCObE3MDfIOij_k/edit)
 1. Make a copy of the [template](https://docs.google.com/forms/d/1z-Zw5XgtAqfhnDvP9ce7EilJztB6PCObE3MDfIOij_k/edit) for your own team and save in a secure folder.
 1. Have each team member complete the survey individually over a course of a few days to assess your team's performance
 1. Once the survey is complete, come together as a group and identify common areas where the team needs to address. Have each team member come with at least one idea on how the team can improve its performance. Managers can use the [Managers High Performing Teams Toolkit](https://docs.google.com/document/d/1tLmpibrOPDLX9smXWLPOzgQ38zGwnlGtbQjxYejPBRM/edit) to facilitate the conversation.
 1. Discuss the ideas as a team and vote to identify at least one idea for implementation (e.g. process improvements, new tools, sync versus async collaboration, communication approaches, etc). Leverage the [team action plan](https://docs.google.com/document/d/1EsfKfddU9Rk-OJ9qwZm4MTf7AAYMYahIALm8q3tkMTk/edit) for a future-focused discussion and plan of action for moving forward as a team.
 1. Conduct a development discussion with each team member regularly during a 1:1 meeting. Inquire on the team members level of engagement. Ask them what else they would like to learn and explore how those development opportunities can be integrated into the role.
 
-
 These are a few practices you can implement within your team to help all team members reach high performance!
 
 ### Motivating Others to Elicit Peak Performance
 
-Another strategy to reach high performance is by applying [Maslow's hierarchy of needs as a motivational theory](https://www.simplypsychology.org/maslow.html) to elicit peak performance from team members. One of the most important tasks of a manager is to elicit peak performance. No matter how well a team is put together, the team will perform only as well as the team members on it. Managers can improve performance through training and/or motivation. 
+Another strategy to reach high performance is by applying [Maslow's hierarchy of needs as a motivational theory](https://www.simplypsychology.org/maslow.html) to elicit peak performance from team members. One of the most important tasks of a manager is to elicit peak performance. No matter how well a team is put together, the team will perform only as well as the team members on it. Managers can improve performance through training and/or motivation.
 
-Maslow's theory of motivation: needs cause people to have drivers that result in motivation. To maintain a high degree of motivation, we must ensure our team members needs are met: 
+Maslow's theory of motivation: needs cause people to have drivers that result in motivation. To maintain a high degree of motivation, we must ensure our team members needs are met:
 
 1. **Physiological:** basic needs such as food and shelter
-2. **Security:** protection from losing basic needs (e.g. medical insurance)
-3. **Social/Affiliation:** Inherent desire to belong to a common group, motivates us to join a company and show up for work
-4. **Esteem/recognition:** Upward achievement and recognition
-5. **Self-actualization:** The need to achieve one's personal best in a chosen endeavor; competence driven = job or task mastery; achievement-driven = need to achieve in all that they do. 
+1. **Security:** protection from losing basic needs (e.g. medical insurance)
+1. **Social/Affiliation:** Inherent desire to belong to a common group, motivates us to join a company and show up for work
+1. **Esteem/recognition:** Upward achievement and recognition
+1. **Self-actualization:** The need to achieve one's personal best in a chosen endeavor; competence driven = job or task mastery; achievement-driven = need to achieve in all that they do.
 
-Motivation has to come from a team member. But a manager can help motivation once self-actualization has been achieved. Self-actualization continues to motivate people to ever-higher levels of performance. A manager can create a result driven culture through motivation by living our values and emphasizing output.  
+Motivation has to come from a team member. But a manager can help motivation once self-actualization has been achieved. Self-actualization continues to motivate people to ever-higher levels of performance. A manager can create a result driven culture through motivation by living our values and emphasizing output.
 
 ### Summary
 
@@ -435,7 +361,7 @@ The Drexler-Sibbet Team Performance Model is an excellent tool to building and m
 
 ## Live Learning Session
 
-On 2021-01-11, we launched the second iteration of the Manager Challenge Program. During the Live Learning session and Async learning, Managers used the Building High Performing Teams model to plan how they will lead their team to high performance. We've posted the activity and roadmaps for you to leverage in helping your team reach high performance, and see what GitLab managers do within the teams they lead. 
+On 2021-01-11, we launched the second iteration of the Manager Challenge Program. During the Live Learning session and Async learning, Managers used the Building High Performing Teams model to plan how they will lead their team to high performance. We've posted the activity and roadmaps for you to leverage in helping your team reach high performance, and see what GitLab managers do within the teams they lead.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTB9MWk2ScRZpFr4kgZ1VGAbPnbqgpsCSRevsrx4xveUPvi4Bxa22WprTs9WJoYXQpm_aBD1kyrXFvI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -445,13 +371,11 @@ During Week 4 of our Manager Challenge Pilot, we had a course covering Building 
 
 A recording of the second of two sessions can be found here:
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aezVF1nOBWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+{{< youtube "aezVF1nOBWc" >}}
 
 ### Roadmap Excercise
 
-During the May Manager Challenge, participants in the live learning challenge completed the building high performing teams roadmap as a group while a few completed independently asynchronously. 
+During the May Manager Challenge, participants in the live learning challenge completed the building high performing teams roadmap as a group while a few completed independently asynchronously.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKm7AxyNsTjeyzOYqrvxCa1Q6fgTq0UmxVihEkJSVFT27NvHiZ8H4JwA0V5E0MLxjRfvZmPfAvl77p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

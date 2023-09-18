@@ -40,11 +40,21 @@
       "shortcut" : "ctrl-shift-a"
     },
     {
+      "content" : "{{< youtube \"$SELECTED_TEXT\" >}}",
+      "name" : "youtube",
+      "shortcut" : "ctrl-shift-y"
+    },
+    {
       "children" : [
         {
           "content" : "{{< ref \"values\" >}}",
           "name" : "values",
           "shortcut" : "ctrl-shift-v"
+        },
+        {
+          "content" : "{{< ref \"values$SELECTED_TEXT\" >}}",
+          "name" : "values-selection",
+          "shortcut" : "alt-ctrl-v"
         },
         {
           "content" : "{{< ref \"values#transparency\" >}}",

@@ -1,43 +1,32 @@
 ---
-layout: handbook-page-toc
 title: Psychological Safety
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Introduction
 
-On this page we are going to review psychological safety and its importance for successful teams. 
+On this page we are going to review psychological safety and its importance for successful teams.
 
 ## What is Psychological Safety
 
 Psychological safety is [defined by Amy Edmondson](https://www.jstor.org/stable/2666999?seq=1) as a “shared belief held by members of a team that the team is safe for interpersonal risk taking”.
 
-It's not about being warm and fuzzy and sharing your feelings. It's about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better. 
+It's not about being warm and fuzzy and sharing your feelings. It's about being comfortable admitting when you are wrong or have made a mistake as well as challenging each other for the better.
 
-Watch the video below where Susan David explains psychological safety. 
+Watch the video below where Susan David explains psychological safety.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/O0kAMpRp2hU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "O0kAMpRp2hU" >}}
 
 ## How it Works
 
-The following information was summarized from an [article on Psychological Safety](https://peopletalking.com.au/project/psychological-safety/) by PeopleTalking. 
+The following information was summarized from an [article on Psychological Safety](https://peopletalking.com.au/project/psychological-safety/) by PeopleTalking.
 
-**Psychological Safety** has primary importance when it comes to significant impact on a team's performance. 
+**Psychological Safety** has primary importance when it comes to significant impact on a team's performance.
 
-The other factors that have an impact on a team's performance are: Dependability, Structure, Meaning & Clarity, Impact. 
+The other factors that have an impact on a team's performance are: Dependability, Structure, Meaning & Clarity, Impact.
 
-In addition, the factors of Accountability, Open Communication & Motivation, Dialogue Practices, and Shared Assumptions are only valuable when the team is already psychologically safe. In the diagram, those lie on the arrows between each of the circles.   
+In addition, the factors of Accountability, Open Communication & Motivation, Dialogue Practices, and Shared Assumptions are only valuable when the team is already psychologically safe. In the diagram, those lie on the arrows between each of the circles.
 
-Why is psychological safety important? When you have psychological safety in the workplace, the following things increase: 
+Why is psychological safety important? When you have psychological safety in the workplace, the following things increase:
 
 - Collaboration
 - Innovation
@@ -49,7 +38,7 @@ Why is psychological safety important? When you have psychological safety in the
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQn6_E_jGgOUz9OBe0hYopG5MYF4k6-MV2NsdESCpxjYenS9ikKD8mylL_Id44GXzl5-lHLltwHsWLD/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make people more comfortable. You can get a better picture of this from the diagram below. 
+Amy Edmondson uses David Kantor's model to show the [relationship between Psychological Safety and Accountability & Motivation](https://peopletalking.com.au/project/psychological-safety/). When there is an environment where psychological safety is low or non-existent, it can be very stress or anxiety filled. When there is high psychological safety, it can make people more comfortable. You can get a better picture of this from the diagram below.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvy9_S6SM97risN1JCRC4Hy0rTRt3PQXdMhl_D_xxEFi-W4F5FYL04FrZp62HgrPlt6N-O8Um-gnCk/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -57,7 +46,7 @@ Amy Edmondson uses David Kantor's model to show the [relationship between Psycho
 
 ## Psychological Safety vs Danger
 
-When you have psychological safety people become more motivated because they feel more able to take risks. When people feel psychologically safe, they will learn from their failure rather than feeling the need to blame others. 
+When you have psychological safety people become more motivated because they feel more able to take risks. When people feel psychologically safe, they will learn from their failure rather than feeling the need to blame others.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzAtUx8ptPA5FbZ1Pn_GKRQB_9I_K98Sxr7GBfssU3FxpkVUXCA9kyg7j5xWV6X9NEOR0zC7SdGuJb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -65,12 +54,12 @@ When you have psychological safety people become more motivated because they fee
 
 ## Diversity and Inclusion
 
-Psychological safety has impacts on diversity and inclusion in organizations. Even if an organization has diversity, it doesn't mean that inclusion is present as well. 
+Psychological safety has impacts on diversity and inclusion in organizations. Even if an organization has diversity, it doesn't mean that inclusion is present as well.
 
 ## Strategies for Cultivating a Culture of Psychological Safety
 
 1. Embrace a culture of respectful debate.
-1. Encourage personal storytelling. 
+1. Encourage personal storytelling.
 1. Ask questions.
 1. Allow for experimentation and failure.
 1. Dismantle perceptions of hierarchy.
@@ -82,7 +71,7 @@ Psychological safety has impacts on diversity and inclusion in organizations. Ev
 
 The above list is from a [Grant Thornton article](https://www.grantthornton.com/library/articles/advisory/2020/psychological-safety-speak-up-culture.aspx).
 
-It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me”, [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it), asks you to consider: 
+It is important to enable a human-to-human approach and realize the other party is more like you than different. The reflection activity called “Just Like Me”, [developed by Paul Santagata](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it), asks you to consider:
 
 - This person has beliefs, perspectives, and opinions, just like me.
 - This person has hopes, anxieties, and vulnerabilities, just like me.
@@ -90,11 +79,14 @@ It is important to enable a human-to-human approach and realize the other party 
 - This person wants to feel respected, appreciated, and competent, just like me.
 - This person wishes for peace, joy, and happiness, just like me.
 
-# Psychological Safety Learning & Development
+## Psychological Safety Learning & Development
 
-## [Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
+{{% alert %}}
+[Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
+{.h4}
+{{% /alert %}}
 
-If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning. 
+If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning.
 
 You can:
 
@@ -103,13 +95,11 @@ You can:
 
 ## Live Learning Session
 
-During Week 3 of our Manager Challenge Pilot, we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
+During Week 3 of our Manager Challenge Pilot, we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session.
 
 A recording of the second of two sessions can be found here:
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pdB-WWeXNjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+{{< youtube "pdB-WWeXNjg" >}}
 
 ## One Week Challenge
 
@@ -117,7 +107,7 @@ We rolled out a One week challenge in November 2020. All details relating to the
 
 The [One Week Challenge](/handbook/people-group/learning-and-development/#gitlab-mini-and-extended-challenges) is a blended learning approach that incorporates self-paced daily challenges and live learning sessions to build knowledge and skills around Psychological Safety.
 
-The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/19). Each day of the challenge was an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms. 
+The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/19). Each day of the challenge was an issue within the epic with specific tasks for each day. Participation was tracked based on engagement in the issues, attending and participating in one of the live learning sessions, and completing the self reflection and evaluation forms.
 
 ### Program Overview
 
@@ -136,11 +126,11 @@ The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/pe
 
 | Day | Challenge | Time | Format | Activity | Competency |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
-| Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
-| Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/psychological-safety-at-work) <br> Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past? | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
-| Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
-| Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | * Diversity, Inclusion, & Belonging <br> * Emotional Intelligence |
+| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/psychological-safety-at-work) <br> Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 5 | Eval + Self Reflection Forms | 20 minutes | Self-Reflection & Evaluation Forms | Complete the Self-reflection and Evaluation | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 
 ## Trust and Psychological Safety Team Survey and Feedback Template
 
@@ -149,14 +139,15 @@ As a part of the Elevate training, an initial iteration for a trust and psycholo
 Once survey results have been collected and reviewed by each manager, it's suggested that these anonymous results are shared with the team in a sync meeting, in a tracking [issue (template)](https://gitlab.com/gitlab-com/www-gitlab-com/-/edit/master/.gitlab/issue_templates/psych-trust-safety.md), or both to discuss trends and identify action items in the data collected for each question. The intention is to provide transparency around how each team is feeling and also decide as a team what action items can be taken away from the results and applied in the future.
 
 ## Additional Resources
-- Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today 
+
+- Read: [The Role of Psychological Safety in Diversity and Inclusion](https://www.psychologytoday.com/us/blog/the-fearless-organization/202006/the-role-psychological-safety-in-diversity-and-inclusion) - Psychology Today
 - Read: [The Fearless Organization by Amy C. Edmondson](https://www.amazon.com/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247/ref=sr_1_1?keywords=The+Fearless+Organization&qid=1567701716&s=gateway&sr=8-1)
 - Read: [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/7-ways-to-create-psychological-safety-in-your-workplace)
 - Read: [What Google Learned from it's Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - Read: [How To Build An Environment Of Psychological Safety](https://trainingindustry.com/articles/compliance/how-to-build-an-environment-of-psychological-safety/)
 - Read: [How Psychological Safety Actually Works](https://www.forbes.com/sites/shanesnow/2020/05/04/how-psychological-safety-actually-works/#c5be718f864c)
-- Read: [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) 
-- Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR 
+- Read: [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
+- Listen: [Creating Psychological Safety in the Workplace](https://hbr.org/podcast/2019/01/creating-psychological-safety-in-the-workplace) - HBR
 - Watch: [Why good leaders make you feel safe - Simon Sinek](https://www.youtube.com/watch?v=lmyZMtPVodo&list=PLhVoCCkYxQDcdcU7j7H_w0-0BdOqIIYxa) - TED
 - Watch: [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0)
 

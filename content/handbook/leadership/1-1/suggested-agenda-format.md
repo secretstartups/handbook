@@ -1,15 +1,8 @@
 ---
-layout: handbook-page-toc
 title: "1-1 Suggested Agenda Format"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-This page describes how [Sid](/handbook/ceo/) formats his 1-1 agendas.
+This page describes how [Sid]({{< ref "/handbook/ceo" >}}) formats his 1-1 agendas.
 If you are new to 1-1s or not sure how to make your previous experience with 1-1s work in
 GitLab's culture, this can be a great starting place for you to learn.
 However, remember that 1-1s are private meetings between a manager and their report, so consistency is secondary to effectiveness -
@@ -26,12 +19,12 @@ Give your agenda document these headers:
 
 ## Performance management (Optional)
 
-1. List reports with high or exceptional performance. Team members with high performance [should be recognized and praised](/company/team/structure/#management-group).
-1.  List reports who might be [underperforming](/handbook/leadership/underperformance/). Err on the side of putting people on too early and taking them off when it turns out there was no underperformance. It is important to bring people [up with your manager immediately](/handbook/leadership/underperformance#immediately-discuss-with-the-managers-manager) and not have your manager have to tell you about concerns.
+1. List reports with high or exceptional performance. Team members with high performance [should be recognized and praised]({{< ref "structure#management-group" >}}).
+1. List reports who might be [underperforming]({{< ref "underperformance" >}}). Err on the side of putting people on too early and taking them off when it turns out there was no underperformance. It is important to bring people [up with your manager immediately]({{< ref "underperformance#immediately-discuss-with-the-managers-manager" >}}) and not have your manager have to tell you about concerns.
 
 ## Career development
 
-An important part of career development is feedback, but that’s not all. It also involves training. 
+An important part of career development is feedback, but that’s not all. It also involves training.
 Please see [our guide on giving career development](/handbook/people-group/guidance-on-feedback/).
 
 ## Vision
@@ -43,26 +36,26 @@ Please see [our guide on giving career development](/handbook/people-group/guida
 
 1. Every item in the hallway section starts with exactly one tag, the tag can come from one of four categories:
     1. Timing
-      * `ISO DATE` (example: 2017-05-21 or 2017-05) - indicating when this item will be discussed next
-      * `RELEASE NUMBER` (example: 9.4 or 9.5) - alternative to `ISO DATE` to indicate when this item will be discussed next
+        - `ISO DATE` (example: 2017-05-21 or 2017-05) - indicating when this item will be discussed next
+        - `RELEASE NUMBER` (example: 9.4 or 9.5) - alternative to `ISO DATE` to indicate when this item will be discussed next
     1. Action
-      * `TODO` - report needs to set date of when this will be completed or just do the task, if we should discuss them report changes them to `DISCUSS`
-      * `DOTO` - manager needs to do something, with this a (case sensitive) search for '` DO`' finds all `DOTO`'s and `DONE`'s
-      * `DISCUSS` - cover in the next 1-1 meeting
-      * `REVIEW` - there is a Merge Request (MR) or document that can be approved, the MR should not be a Work In Progress (WIP)
-      * `HELP` - if you need help with anything.
-      * `THINK` - if the person who did not put it on the agenda wants time to think about it and discuss it next meeting.
+        - `TODO` - report needs to set date of when this will be completed or just do the task, if we should discuss them report changes them to `DISCUSS`
+        - `DOTO` - manager needs to do something, with this a (case sensitive) search for '`DO`' finds all `DOTO`'s and `DONE`'s
+        - `DISCUSS` - cover in the next 1-1 meeting
+        - `REVIEW` - there is a Merge Request (MR) or document that can be approved, the MR should not be a Work In Progress (WIP)
+        - `HELP` - if you need help with anything.
+        - `THINK` - if the person who did not put it on the agenda wants time to think about it and discuss it next meeting.
     1. Ready to remove
-      * `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda (the audience for the FYI).
-      * `DONE` - to be removed by the person who put it on the agenda, only set after any related MR has been merged
-      * `MOVE` - if you want to move it outside of the agenda, for example an issue tracker, removal by the person who put it on the agenda
-      * `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda, removal by the person who put it on the agenda. 
-      * `WONT` - if you think this is no longer something that should be done.
-      * `WHY` - if you get the suggestion but wonder why this is important and what the problem is.
-      * `IDEA` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
-      * `THANKS` - mostly used by the manager to praise the report, these should not require a follow-up action. There is a tendency to focus on issues and challenges. Do not forget to recognize accomplishments and success.
-      * `SORRY` - if you want to say sorry for something.
-      * `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
+        - `FYI` - informational, can be removed outside of the meeting by the person who did not put it on the agenda (the audience for the FYI).
+        - `DONE` - to be removed by the person who put it on the agenda, only set after any related MR has been merged
+        - `MOVE` - if you want to move it outside of the agenda, for example an issue tracker, removal by the person who put it on the agenda
+        - `DUPLICATE` - An item that is an outdated duplicate of another item on the agenda, removal by the person who put it on the agenda.
+        - `WONT` - if you think this is no longer something that should be done.
+        - `WHY` - if you get the suggestion but wonder why this is important and what the problem is.
+        - `IDEA` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
+        - `THANKS` - mostly used by the manager to praise the report, these should not require a follow-up action. There is a tendency to focus on issues and challenges. Do not forget to recognize accomplishments and success.
+        - `SORRY` - if you want to say sorry for something.
+        - `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
 1. It is recommended to provide a section to list frequently & useful tags that helps facilitate ideas and perception triggers when a direct report (or their manager) fills out the 1-1 agenda.
     - This helps reassure that all these topic tags are readily available and encouraged to be used. This is especially important for `THANKS`, `SORRY` and `HELP` tags.
 1. As specified above items are removed after being set to `DONE`. The 1-1 is one list that is continually modified. It is not a meeting agenda that is duplicated every week under a new date.
@@ -78,6 +71,7 @@ Please see [our guide on giving career development](/handbook/people-group/guida
 1. When you make a change link to diff or merge request instead of new content itself, this makes it easier to see what the change was.
 
 ## Order
+
 We move through the agenda top to bottom by header but bottom to top within those headers.
 For example, the very first discussion item in the call should be the last item under High Performance.
 
@@ -88,4 +82,3 @@ Consider this [example agenda](https://docs.google.com/document/d/1Wi8zCIQishXuP
 <figure class="video_container">
 <iframe src="https://docs.google.com/document/d/1Wi8zCIQishXuPZBTsjw3lmjGTWLDwqQBe0n9jmgbTyU/edit#"></iframe>
 </figure>
-

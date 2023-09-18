@@ -1,17 +1,10 @@
 ---
-layout: handbook-page-toc
 title: "No Matrix Organization"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## No matrix organization introduction
 
-On this page, we will give an overview of how GitLab operates as a no matrix organization. 
+On this page, we will give an overview of how GitLab operates as a no matrix organization.
 
 ## No matrix organization overview
 
@@ -25,18 +18,17 @@ On this page, we will give an overview of how GitLab operates as a no matrix org
 1. To mitigate these disadvantages we should offer ample training, coaching, support structures, and processes to ensure our managers can handle these tasks correctly and in a limited amount of time. “It’s easier to train an expert to manage well than to train a manager to be an expert” from [How Apple is organized for Innovation](https://hbr.org/2020/11/how-apple-is-organized-for-innovation).
 1. Everyone deserves a great manager that helps them with their career. A manager should hire a great team, should let you know when to improve, motivate and coach you to get the best out of you.
 1. "Nuke all matrices. Nuke all dual reporting structures. And nuke as many shared services functions as you possibly can." from the great [guide to big companies from Marc Andreessen](http://pmarchive.com/guide_to_big_companies_part2.html) (the other guides are awesome too).
-1. We recommend reading [High Output Management](/handbook/leadership/#books), and its author coined Grove's law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
-1. We do make features with a [DevOps stage group](/company/team/structure/#groups) that is a collection of teams and [stable counterparts](/handbook/leadership/#stable-counterparts).
-1. Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a [working group](/company/team/structure/working-groups/).
+1. We recommend reading [High Output Management]({{< ref "leadership#books" >}}), and its author coined Grove's law: All large organizations with a common business purpose end up in a hybrid organizational form. We believe a dual reporting structure is inevitable, we just want to delay it as long as possible.
+1. We do make features with a [DevOps stage group]({{< ref "structure#groups" >}}) that is a collection of teams and [stable counterparts]({{< ref "leadership#stable-counterparts" >}}).
+1. Whenever there is need to work on a specific, high-level, cross functional business problem, we can assemble a [working group]({{< ref "working-groups" >}}).
 1. Functional companies are easier when you focus on one product. Apple focuses on the iPhone and can have a [unitary/functional/integrated organizational form](https://stratechery.com/2016/apples-organizational-crossroads/). The advantage is that you can make one strong integrated product. We can also maintain a functional organization as long as we keep offering new functionality as features of GitLab instead of different products. The fact that we're in touch with the market because we use our own product helps as well.
 1. Leaders should know the details of their organization three levels down for efficient and effective cross-functional decision-making.
 1. Having functional managers means that they are rarely spending 100% of their time managing. They always get their hands dirty. Apart from giving them relevant experience, it also focuses them on the output function more than the process. Hopefully both the focus and not having a lot of time for process reduces the amount of politics.
-1. Functional managers spend their time between owning, learning, delegating or teaching styles. Managers will decide what activities demand their full attention and fall within their core area of expertise which they will _own_ and what activities require them to _learn_ new areas of expertise. Some activities require less attention from the leader and can be pushed down to others by either _delegating_ or _teaching_ someone on the team.
+1. Functional managers spend their time between owning, learning, delegating or teaching styles. Managers will decide what activities demand their full attention and fall within their core area of expertise which they will *own* and what activities require them to *learn* new areas of expertise. Some activities require less attention from the leader and can be pushed down to others by either *delegating* or *teaching* someone on the team.
 
-## E-Group Conversation on No-Matrix Organization 
+## E-Group Conversation on No-Matrix Organization
 
-Who better to learn how GitLab enables a functional organization structure than our leadership. As part of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), the L&D team facilitated a discussion with executives during a [E-Group offsite](/company/offsite/), to discuss no-matrix organization and GitLab organization design. 
+Who better to learn how GitLab enables a functional organization structure than our leadership. As part of the [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions), the L&D team facilitated a discussion with executives during a [E-Group offsite]({{< ref "offsite" >}}), to discuss no-matrix organization and GitLab organization design.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/E_wegGRv4mA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+{{< youtube "E_wegGRv4mA" >}}

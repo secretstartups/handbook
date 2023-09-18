@@ -1,43 +1,35 @@
 ---
-layout: handbook-page-toc
 title: "Skip Level Meetings - Overview"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
 
 ## Purpose and Benefits of Skip-Levels
 
 A skip-level meeting is a meeting during which a manager's manager meets directly with team members without the direct manager present. While [1-1s](/handbook/leadership/1-1) facilitate communication between a team
-member and their manager, skip levels should facilitate communication between the leader's whole team, not just their direct 
-reports. 
+member and their manager, skip levels should facilitate communication between the leader's whole team, not just their direct
+reports.
 
 The CEO conducts quarterly skip-level meetings with all indirect reports. The goal of this meeting is to help the CEO be a better manager of him/herself, of the report of their function, and the rest of the executive team. What is going well, what needs improvement, how can the CEO help, and what should the CEO focus on when coaching the report?
 
 It also gives the skips and senior leaders an opportunity to:
-* Get to know each other and build rapport
-* Provide an opportunity to have contributions [recognized](/handbook/people-group/guidance-on-feedback/#recognition) by a senior leader
-* Ask questions
-* Clarify their understanding of company or functional objectives
+
+- Get to know each other and build rapport
+- Provide an opportunity to have contributions [recognized](/handbook/people-group/guidance-on-feedback/#recognition) by a senior leader
+- Ask questions
+- Clarify their understanding of company or functional objectives
 
 ## What Skip-Levels Are Not
 
 It's important to note that the following are **not** purposes for the
 skip level meetings:
 
-* To check in on the performance of a manager by "going around them."
-* To manage priorities, career management, or perform any duties typically
+- To check in on the performance of a manager by "going around them."
+- To manage priorities, career management, or perform any duties typically
   handled by a team member's direct manager.
 
 ## Conducting skip level meetings
 
-1. If your reports have multiple reports, a skip level meeting is required.  
-1. The skip level meeting is never recorded as it is a way to build trust with the team members. 
+1. If your reports have multiple reports, a skip level meeting is required.
+1. The skip level meeting is never recorded as it is a way to build trust with the team members.
 1. Skip level meetings should be held at least quarterly. Whether or not you
    choose to organize them more frequently is at your discretion, and likely
    impacted by the number of skips you have.
@@ -62,18 +54,14 @@ skip level meetings:
    skips. [SKS questions](https://en.wikipedia.org/wiki/SKS_process), among
    other feedback mechanisms, make solid agenda items.
 
-_Having a large organization is not a reason to not conduct skip-level meetings. Senior leaders with a a large organizations can opt to conduct skip-levels in a rotational fashion. If meeting with everyone is not scalable, instead meet with a new group of skip-level team members each quarter (or more frequently)._
+*Having a large organization is not a reason to not conduct skip-level meetings. Senior leaders with a a large organizations can opt to conduct skip-levels in a rotational fashion. If meeting with everyone is not scalable, instead meet with a new group of skip-level team members each quarter (or more frequently).*
 
 ### Learning From the CEO on Skip Level Meetings
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kAxp0Mam-Rw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+{{< youtube "kAxp0Mam-Rw" >}}
 
 ## Other Resources
 
-* [Skip Levels](https://www.manager-tools.com/2006/04/skip-levels) podcasts on
-  Manager-Tools
-* [The Art of the Skip Level
-  Meeting](https://www.linkedin.com/pulse/art-skip-level-meeting-scott-boulton%2C-chrp-5948801065834024960/)
-* [Skip Level Meetings](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/skip-level/)
+- [Skip Levels](https://www.manager-tools.com/2006/04/skip-levels) podcasts on Manager-Tools
+- [The Art of the Skip Level Meeting](https://www.linkedin.com/pulse/art-skip-level-meeting-scott-boulton%2C-chrp-5948801065834024960/)
+- [Skip Level Meetings](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/skip-level/)
