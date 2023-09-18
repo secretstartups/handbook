@@ -793,26 +793,6 @@ Gearing ratios related to the Security Department have been moved to a [separate
 
 -----
 
-### <i class="fas fa-stream" id="biz-tech-icons"></i> Security Department Collaborators
-
-#### Secure Sub-Department
-
-The Security department will collaborate with development and product management for security-related features in GitLab.
-The [Secure Sub-Department](https://about.gitlab.com/handbook/engineering/development/sec/secure/) must not be mistaken with the Security Teams.
-
-- Develop real-world security use cases
-- Ideation of compelling security features and products
-- Test and provide product feedback
-
-#### External Security Firms
-
-We work closely with bounty programs, as well as security assessment and penetration testing firms to ensure external review of our security posture.
-
-- One security assessment firm is rotated periodically to gain new perspectives
-- One security assessment firm is engaged every quarter to build expertise in GitLab
-- We maintain a public bug bounty program via [HackerOne](https://hackerone.com/gitlab)
-
------
 
 ### Security Releases
 
