@@ -233,6 +233,31 @@ Upon deal registration creation, when Vartopia recognizes that a lead is matched
 * Campaign must be active to sync.
 * Only one `Partner Account` can be selected per campaign. For campaigns with multiple partners, you are required to create a child campaign per partner.
 
+## How To Add Marketing Campaign
+
+There are two path that partners can access the `GitLab Marketing Campaign` field, through the Prospects or New Registration tab. See [slides](https://docs.google.com/presentation/d/1A9huMA3uJZDvoe3tgdVHLMKjNMqClTI63YuqJ1G122Y/edit#slide=id.g1d24c3e4ddd_5_52) for more instructional details.
+
+**Through the Prospects tab:**
+
+1. Retrieve the lead from the Prospects tab
+  1. In the Prospect details, Partners will be able to see the campaign history on the `Web Form` field. 
+1. Update Prospect Share Status to `Accepted`
+1. Change Partner Prospect Status to `Qualified` to unlock the `Convert to Deal Registration` button
+1. Fill out the first step of Deal Registration form
+1. In the second step of the form, select the GitLab marketing campaign that drove the deal reg.
+   1. `GitLab Marketing Campaign` is a required field
+   1. The best practice is to select the marketing campaign.
+   1. But, If the deal reg was not influenced by a marketing campaign, select `Not Applicable`.
+
+**Through the New Registration tab:**
+
+1. Create a new deal registration if POP has not be sent to GitLab
+1. Fill out the first step of Deal Registration form by adding a new company and contact.
+1. In the second step of the form, select the GitLab marketing campaign that drove the deal reg.
+  1. `GitLab Marketing Campaign` is a required field
+  1. The best practice is to select the marketing campaign.
+  1. But, If the deal reg was not influenced by a marketing campaign, select `Not Applicable`.
+
 ## Use Case for Distributors
 
 Distributors are responsible for managing and overseeing campaigns, and assigning and sharing the acquired leads with Channel Partners. The Channel Partner will then be obligated for following up, actioning, and creating the deal registration. With the Campaign module, partners can finally link their deal registrations to the Distributor's MDF campaigns. 
@@ -250,17 +275,6 @@ In comparison to the main process, we are required to create a child campaign pe
 7. Marketo - import the leads from POP to the child campaign -  leads must already be assigned to partners on import.
 8. Vartopia - when a partner converts the lead to DR, Vartopia will recognize there's a campaign linked to the account, and display a dropdown to select the campaign name.
 9. Salesforce - see the deal registration that's created and update the metrics on the campaign.
-
-### AMER Distributors - Process
-
-Contrary to APAC and EMEA distributors, AMER distributors prefer to create the DR on behalf of the partner. The distributor will be selected in place of `Partner Account` and **will not require any child campaigns**.
-
-1. Allocadia - select the `Channel Partner Name` (distributor) in the campaign detail panel (Future state: Salesforce will take the Channel Partner Name and populate it into Partner Account).
-2. Marketo - input the subcategory ID into the Marketo program description.
-3. Marketo - sync the program to the SFDC campaign.
-4. Salesforce - create SFDC campaign (automated) and you are required to update `Partner Account` (distributor) on the campaign.
-5. Vartopia - when the distributor converts the lead to DR, Vartopia will recognize there's a campaign linked to the account, and display a dropdown to select the campaign name.
-6. Salesforce - see the deal registration that's created and update the metrics on the campaign.
 
 ## Field Glossary
 
