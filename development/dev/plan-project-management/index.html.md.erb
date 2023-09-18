@@ -66,6 +66,18 @@ For more urgent items, feel free to use [#s_plan] on Slack.
 
 <%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
 
+#### Refining and organizing feature work
+
+To help drive alignment with our stable counterparts, provide visibility into progress, and breakdown our vision into a series of [MVCs](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), we collaborate with Product and UX during [`~workflow::planning breakdown`](https://about.gitlab.com/handbook/product-development-flow/#description-4) to refine and organize `~type::feature` deliverables into the following structure:
+
+- Feature (Epic) - Contains all of the necessary vertical feature slices to default the corresponding feature flag to "on". The feature epic will also serve as the location to generate a corresponding Release Post item MR. The feature epic should be scoped to the [minimal amount of functionality that still provides customer value](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). Additional scope planned for future enhancements should be stored in follow-on epics. 
+  - Spike (Issue) - If we are unable to accurately estimate the effort necessary to implement the feature, we first conduct a [spike](####Spikes)
+  - UX (Issue) - For larger initiatives, UX creates a separate UX issue that serves as the SSOT for design goals, design drafts, design conversation and critique, and the chosen design direction that will be implemented. [Learn more about UX issues](https://about.gitlab.com/handbook/product/ux/stage-group-ux-strategy/plan/plan.html#ux-issue-management-weights-and-capacity-planning).
+  - Vertical Feature Slice (Issue) - A subset of the feature that can be completed within a single milestone, tested, and verified within the `plan-stage` group on production. 
+    - Engineering Tasks (Task - _Optional_) - One or more engineering tasks that need to be completed in order to deliver the vertical feature slice. The scope of a task should generally correlate to a single MR. 
+
+During the `~workflow::planning breakdown` phase, all issues need to be weighted so we can efficiently and effectively collaborate with Product and UX on "right sizing" the feature epic. It's advisable that all issues are connected to a parent epic that describes the broader set of improvements we are proposing within a specific area of the product. The desired outcome is to ensure it's as small as possible, maximizes our ability to iterate, and makes it easy to track overall progress on delivery, while providing meaningful value and avoiding an undue amount of "change fatigue" for our customers.  
+
 #### Spikes
 
 There is a decent amount of complexity in the features that we as a team are responsible for, and we're aiming to determine where the majority of risks involved in building a feature are prior to commitments being made and development starting. We are trying out a concept of a rotation of DRIs for spikes. Spikes will be a two week time period where one engineer DRI works exclusively on breaking down an issue/epic by asking questions to determine risk and complexity, creating proof of concepts, and writing up iteration plans for implementation.
