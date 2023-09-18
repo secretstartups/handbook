@@ -21,17 +21,18 @@ The pre-training checklist below provides a list of tasks and reminders to help 
 - For onsite training, make sure that you have the training venue address, point of contact information, sign-in procedures and required documentation, if applicable.
 - Make sure to review all of the trainer materials, such as the slide deck, hands-on guide, facilitator guide, train-the-trainer video, and [GitLab documentation](https://docs.gitlab.com/ee/index.html) for the course you are delivering.
 - Please ensure that you use the latest version of the slide deck for your upcoming class.
-- Ensure that the lab environment and lab exercises are working properly.
+- Ensure that the lab environment and lab exercises are working properly by reviewing ahead of the first day of class.
 - Ensure that you can access and have full functionality of the teleconferencing system.
 - Review the [Remote Training Facilitation Best Practices Tips](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/).
 - Declutter by closing unneeded tabs in the browser you will use to show the course slides.
-- Silence or quit Slack and Gmail to prevent notifications during your class.
+- Silence or quit Slack and email to prevent notifications during your class.
 - Set up your laptop's environment in whatever ways are necessary for the class. For example, if you're going to install a GitLab Runner as part of a CI/CD class, make sure you've uninstalled the GitLab Runner binary from your laptop.
 
 ## Post-Training Checklist
 The checklist below provides a list of tasks and reminders to help you post-training delivery.  The activities should be completed upon training delivery.
 
-- Ensure that the Project Coordinator has a copy of your customized slide deck, if applicable, or provide notice if you used the standard slide deck.
+- The Education Services team is available via your respective GitLab Slack channel for any immediate concerns during your training.
 - Research and answer any parking lot questions that came up during the training.
-- Provide any follow up information or feedback to the Professional Services Education Services team to be forwarded to the GitLab Account Team.
-- Email (`proserv-education@gitlab.com`) or Slack (`#professional-services`, at-mention Kendra Marquart and Chris Cowell) any suggestions for improving the course's slide deck or lab instructions. Concrete suggestions are best, but all suggestions are welcome.
+- Complete the [Post Course Instructor Feedback Form](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/GitLab-Post-Course-Instructor-Feedback) for GitLab's review.
+- For course slide deck or lab instructions feedback, concrete suggestions are best, but all suggestions are welcome.
+- Provide any follow up information or feedback to the Education Services team to be forwarded to the GitLab Account Team.
