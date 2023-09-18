@@ -366,26 +366,26 @@ Our mission is to enable everyone to innovate and succeed on a safe, secure, and
    - Understand goals before recommending solutions
    - Use GitLab first
 1. Efficient operations with a focus on:
-  - Technical controls over handbook rules
-  - Leverage automation first (robots over humans)
-  - Responsible decisions (Spending, Tooling, Staffing, etc) over low ROI (return on investment) decisions
-  - Reusable or repeatable over singular solutions
+   - Technical controls over handbook rules
+   - Leverage automation first (robots over humans)
+   - Responsible decisions (Spending, Tooling, Staffing, etc) over low ROI (return on investment) decisions
+   - Reusable or repeatable over singular solutions
 1. Transparency with a focus on:
-  - Responsible protection of MNPI (material non-public information)
-  - Evangelize [dogfooding]({{< ref "values#dogfooding" >}}) of GitLab publicly
-  - Lead with metrics
-  - Balance security with usefulness
+   - Responsible protection of MNPI (material non-public information)
+   - Evangelize [dogfooding]({{< ref "values#dogfooding" >}}) of GitLab publicly
+   - Lead with metrics
+   - Balance security with usefulness
 1. Risk Reduction with a focus on:
-  - Secure by default
-  - Preventative controls over detective controls
-  - Solving root causes over treating symptoms
-  - Visibility through Coverage, Discoverability, Observability
+   - Secure by default
+   - Preventative controls over detective controls
+   - Solving root causes over treating symptoms
+   - Visibility through Coverage, Discoverability, Observability
 1. Collaborative Culture with a focus on:
-  - Working together on common solutions
-  - Solve shared problems with shared solutions
-  - Simplifying language for everyone to understand
-  - Avoiding security jargon
-  - Seek opportunities to help others succeed
+   - Working together on common solutions
+   - Solve shared problems with shared solutions
+   - Simplifying language for everyone to understand
+   - Avoiding security jargon
+   - Seek opportunities to help others succeed
 
 To help achieve the vision of transparently leading the world to secure outcomes, the Security Department has nominated a [Security Culture Committee]({{< ref "security-culture" >}}).
 
