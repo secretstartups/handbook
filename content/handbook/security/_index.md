@@ -658,13 +658,6 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
     - [@gitlab-com/gl-security/security-operations/trust-and-safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety) is the primary group for @'mentioning the Trust & Safety team.
 
 
-#### Runbooks
-
-- [Security runbooks (private)](https://gitlab.com/gitlab-com/gl-security/runbooks) - **NOTE**: The handbook and [production runbooks](https://gitlab.com/gitlab-com/runbooks) should be the first locations considered for any process or documentation. `gl-security/runbooks` should only be used for documenting specifics that would increase risk and/or have customer impact if publicly disclosed.
-- [Incident-Tools (private)](https://gitlab.com/gitlab-com/gl-security/incident-tools)-  working scripts and other code during or while remediating an incident. If the tool is applicable outside of the `GitLab.com` environment, consider if it's possible to release when the `~security` issue becomes non-confidential. This group can also be used for private demonstration projects for
-security issues.
-- [Security-tools (mostly private)](https://gitlab.com/gitlab-com/security-tools/) contains some operational tools used by the security teams. Contents and/or configurations require that most of these projects remain private.
-
 #### Slack Channels
 
 - [#security](https://gitlab.slack.com/archives/security); Used for general security questions and posting of external links for the great discussions. Company wide security relevant announcements are announced in #whats-happening-at-gitlab and may be copied here.
