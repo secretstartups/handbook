@@ -201,8 +201,8 @@ The earlier in the monthly cycle your MR is merged, the higher the chances are f
 There is no guaranteed "cut-off", "freeze" or any other date defined under which the MR will be included.
 
 Availability, security and performance of GitLab.com is a pre-requisite for any monthly self-managed release.
-If GitLab.com is not experiencing any issues, MR's merged as late as the 20th of the month were included in the release.
-On the opposite side, when GitLab.com stability was lower, MR's merged as early as 15th of the month were not included.
+If GitLab.com is not experiencing any issues, MR's merged as late as 2 days before the [release date] were included in the release.
+On the opposite side, when GitLab.com stability was lower, MR's merged as early as one week before the [release date] of the month were not included.
 
 In other words:
 
@@ -314,3 +314,4 @@ If you need any additional help please ask the Release Managers in the [#release
 [patch release runbook for GitLab engineers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/engineers.md
 [patch release runbook for release managers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/release_managers.md
 [patch release policy]: https://docs.gitlab.com/ee/policy/maintenance.html#patch-releases
+[release date]: https://about.gitlab.com/releases/
