@@ -9,15 +9,15 @@ In general, all IT Compliance professionals at GitLab focus on operating our sec
 
 ## Levels
 
-### IT Compliance Engineer
+## IT Compliance Engineer
 
 This position reports to the Manager, IT Compliance role at GitLab.
 
-#### IT Compliance Engineer (Intermediate) Job Grade
+### IT Compliance Engineer (Intermediate) Job Grade
 
 The IT Compliance role is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### IT Compliance Engineer (Intermediate) Responsibilities
 
 - Be the main point of contact for IT and assist on all internal and external audit teams where IT inquiry is required
 - Monitor activities of assigned IT areas to ensure compliance with internal policies and procedures including monthly, quarterly, and annual account and activity reviews
@@ -29,7 +29,7 @@ The IT Compliance role is a [grade 6](https://about.gitlab.com/handbook/total-re
 - Make broad recommendations on improving compliance related processes and/or procedures as it pertains to the IT department and Identify opportunities for ITGC/security compliance control automation
 - Partner with management, business teams, and/or data team to implement solutions
 
-### Requirements
+### IT Compliance Engineer (Intermediate) Requirements
 
 - A minimum of 2 years' experience working with security compliance programs
 - Demonstrated experience with at least two security control frameworks (e.g. SOX, SOC 2, ISO, NIST, COSO, COBIT, etc.)
@@ -42,7 +42,7 @@ The IT Compliance role is a [grade 6](https://about.gitlab.com/handbook/total-re
 
 The Senior IT Compliance role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Senior IT Compliance Engineer Responsibilities
 
 All the responsibilities of an IT Compliance Engineer, plus:
 
@@ -58,7 +58,7 @@ All the responsibilities of an IT Compliance Engineer, plus:
 - Design requirements for security compliance automation tasks
 - Recommend new security compliance metrics and automate reporting of existing metrics
 
-### Requirements
+### Senior IT Compliance Engineer Requirements
 
 This role includes all of the requirements above, plus:
 
@@ -68,13 +68,15 @@ This role includes all of the requirements above, plus:
 - Ability to use GitLab
 - Solid knowledge and understanding of concepts and philosophies regarding the design and deployment of information technologies and associated architectural concepts, principles, and tools
 
-## Staff IT Compliance Engineer (Staff level is only obtainable through career development)
+## Staff IT Compliance Engineer
 
-### Job Grade
+Staff level is only obtainable through career development.
+
+### Staff IT Compliance Engineer Job Grade
 
 The Staff IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Staff IT Compliance Engineer Responsibilities
 
 - The responsibilities of a Senior IT Compliance Engineer, plus;
 - Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape designs for the sake of security compliance efficiencies
@@ -91,7 +93,7 @@ The Staff IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/to
 - Design, develop, and deploy scripts to automate continuous control monitoring, administrative tasks and metric reporting for all IT security compliance programs
 - Successfully execute on quarterly KRs associated with OKRs
 
-### Requirements
+### Staff IT Compliance Engineer Requirements
 
 This role includes all of the requirements above, plus:
 
@@ -103,11 +105,11 @@ This role includes all of the requirements above, plus:
 
 ## Manager, IT Compliance
 
-### Job Grade
+### Manager, IT Compliance Job Grade
 
 The IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Responsibilities
+### Manager, IT Compliance Responsibilities
 
 - Build, scale, and manage our IT Compliance team to support our needs as a distributed company
 - Be the IT Compliance Expert at GitLab
@@ -118,7 +120,7 @@ The IT Compliance role is a [grade 8](https://about.gitlab.com/handbook/total-re
 - Collaborate with all functions of the company to ensure IT Compliance needs are addressed
 - This position reports to the VP of Information Technology
 
-### Requirements
+### Manager, IT Compliance Requirements
 
 This role includes all of the requirements above, plus:
 
@@ -127,7 +129,7 @@ This role includes all of the requirements above, plus:
 - Ability to use GitLab
 - Experience building and maintaining corporate IT Compliance policies and processes
 
-### Hiring Process
+## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
