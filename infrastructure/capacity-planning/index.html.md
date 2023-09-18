@@ -78,9 +78,9 @@ example, a long running migration. The engineer will evaluate based on all infor
 requires investigation.
 1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate. We use the
 [Infradev Process](/handbook/engineering/workflow/#infradev) and the [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup) to assist with the prioritization of these capacity alerts.
-   1. These issues can be the catalyst for other issues to be created in the 'gitlab-org/gitlab' tracker by the stage groups for further investigation. These
+   1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These
 issues must be connected to the capacity planning issues as related issues.
-1. Any issue concerning resource saturation or capacity planning in any tracker should have the "GitLab.com Resource Saturation' label applied.
+1. Any issue concerning resource saturation or capacity planning in any tracker should have the `~"GitLab.com Resource Saturation"` label applied.
 
 ### Due Dates
 
@@ -108,6 +108,10 @@ Each issue has saturation labels, indicating which thresholds it exceeds and how
 1. `violation` - this issue is predicted (by the median line) to reach the saturation threshold (which varies by component) in the next 90 days.
 1. `saturation-80%-confidence` - this issue is predicted (by the upper end of the 80% confidence interval) to reach 100% saturation in the next 90 days.
 1. `violation-80%-confidence` - this issue is predicted (by the upper end of the 80% confidence interval) to reach the saturation threshold (which varies by component) in the next 90 days.
+
+### Other labels
+
+1. `tamland:keep-open` - Used to prevent Tamland from closing the issue automatically. This can be useful to validate the effect of changes we made for a longer period of time until we are confident about the effects.
 
 ### Capacity Planning is a shared activity
 
