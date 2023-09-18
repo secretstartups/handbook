@@ -473,15 +473,6 @@ For a good template to roll this out for your team, see the [Growth team's plann
 
 ## Team
 
-### Meet the Strategy and Operations (Workplace) team
-
-[**Laurel Farrer**]({{< ref lfarrer >}})
-
-- Title: Principle Strategy and Operations: Workplace
-- GitLab handle: `lfarrer`
-- Slack handle: `lfarrer`
-
-
 ### Contact us
 
 - Slack: Find us in `#remote`, `#teamops`, and `#ceo-chief-of-staff-team`
