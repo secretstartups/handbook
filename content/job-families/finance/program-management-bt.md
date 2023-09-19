@@ -32,7 +32,7 @@ The IT Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-re
 
 ### IT Program Manager Responsibilities
 
-- Ability to lead and motivate cross-functional project teams, ensuring they stay focused on project goals, meet milestones, and deliver quality results.
+- Ability to lead and motivate project teams, set clear objectives, provide direction, and manage conflicts to achieve program goals.
 - Acts on strategic decisions such as project prioritization, resource allocation, technology and vendor selection, and scope management.
 - Influences achievement of goals within the team.
 - Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors.
