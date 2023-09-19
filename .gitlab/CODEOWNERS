@@ -170,8 +170,6 @@
 /content/handbook/engineering/horse/ @marin
 /content/handbook/engineering/infrastructure @sloyd @marin
 /content/handbook/engineering/fedramp-compliance @connorgilbert @corey-oas @Julia.Lake
-/content/handbook/engineering/security/infrastructure_security/ @joe-dub @mlancini @pmartinsgl
-/content/handbook/engineering/security/ @Julia.Lake @rschulman
 /content/handbook/engineering/ @akramer
 /content/job-families/engineering/ @joergheilig
 /content/job-families/engineering/incubation/ @bmarnane
@@ -246,17 +244,16 @@
 
 ^[security]
 /content/job-families/security/ @joshlemos @jlongo_gitlab
-/content/handbook/security/ @joshlemos @jlongo_gitlab
+/content/handbook/security/ @joshlemos @jlongo_gitlab @plafoucriere
 /content/handbook/security/architecture/ @plafoucriere
-/content/handbook/security/security-operations/ @joshlemos @jfuentes2
+/content/handbook/security/security-operations/ @jfuentes2
 /content/handbook/security/security-assurance/ @jburrows001 @tdilbeck @corey-oas @jlongo_gitlab @lcoleman
 /content/handbook/security/threat-management/ @smanzuik @estrike
 /content/handbook/security/threat-management/red-team/ @cmoberly
-/content/handbook/security/security-engineering/ @joshlemos
-/content/handbook/security/security-engineering/application-security/ @joshlemos @jritchey
-/content/handbook/security/security-engineering/automation/ @joshlemos @agroleau
-/content/handbook/security/security-engineering/infrastructure-security/ @joshlemos @joe-dub
-/content/handbook/security/security-engineering/security-logging/ @joshlemos @joe-dub
+/content/handbook/security/security-engineering/ @jritchey
+/content/handbook/security/security-engineering/automation/  @agroleau
+/content/handbook/security/security-engineering/infrastructure-security/ @joe-dub
+/content/handbook/security/security-engineering/security-logging/ @joe-dub
 
 [support]
 /content/handbook/support/ @gitlab-com/support
