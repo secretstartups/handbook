@@ -28,17 +28,8 @@ Have fun!
 
 ## Testing on GitLab.com
 
-You can always create a group.
-As usual, public projects get Gold features, but if you need to test paid group features or in a private project, Support has groups for each paid tier.
-
-- [gitlab-gold](https://gitlab.com/gitlab-gold)
-- [gitlab-silver](https://gitlab.com/gitlab-silver)
-- [gitlab-bronze](https://gitlab.com/gitlab-bronze)
-
-Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
-If you require access, please ask an existing owner.
-
 The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding.
+
 
 ## Testing Environment License
 
