@@ -62,6 +62,11 @@
           "shortcut" : "alt-ctrl-t"
         },
         {
+          "content" : "{{< ref \"values#diversity-inclusion\" >}}",
+          "name" : "diversity",
+          "shortcut" : "alt-ctrl-d"
+        },
+        {
           "content" : "{{< ref \"values#results\" >}}",
           "name" : "results",
           "shortcut" : "alt-ctrl-r"
