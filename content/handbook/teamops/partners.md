@@ -58,7 +58,7 @@ Consultants, tools, and advocates for the future of work need industry standards
 ## TeamOps Partners
 
 A directory of approved and active TeamOps Partners is integrated into the TeamOps handbook pages. You can find a recommended Partner in a dropdown menu below each tenet description. To visit those pages, click on one of the following principles:
-- [Shared Reality](handbook.gitlab.com/teamops/shared-reality/)
-- [Equal Contributions](handbook.gitlab.com/teamops/everyone-contributes/)
-- [Decision Velocity](handbook.gitlab.com/teamops/decision-velocity/)
-- [Measurement Clarity](handbook.gitlab.com/teamops/measurement-clarity/)
+- [Shared Reality]({{< ref "/teamops/shared-reality.md" >}})
+- [Equal Contributions]({{< ref "/teamops/everyone-contributes.md" >}})
+- [Decision Velocity]({{< ref "/teamops/decision-velocity.md" >}})
+- [Measurement Clarity]({{< ref "/teamops/measurement-clarity.md" >}})
