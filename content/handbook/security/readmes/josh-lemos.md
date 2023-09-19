@@ -19,6 +19,7 @@ Everything starts with people, without which we would not have organizational le
 
 ## Working Style & Approach
 
+- Prefer long-form documents or issues which are context rich over slides and presentations. Find this especially useful when a decision is required. Documentation can clearly articulate the various options and trade-offs and provides a record as to why a specific option was selected.
 - When problem solving (and I love helping teams solve problems) I will encourge first principles thinking. I value data driven approaches and will often go back to the data for insights.
 - Empower team members throughout the organization affording everyone maximum opportunity and autonomy.
 - Default to having information pushed to me and try to minimize information requests. Frequent requests for information are often signal to indicate there is a gap in our status reporting processes.
