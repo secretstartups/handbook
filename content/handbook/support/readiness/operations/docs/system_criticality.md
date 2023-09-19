@@ -153,6 +153,11 @@ which can be found
             <i class="fas fa-square fa-fw" style="color:rgb(204,204,0);"></i>
             <a href='https://gitlab.com/support/usage-ping-request' target='_blank'>Usage ping requests form/processor</a>
           </li>
+          <li>
+            <i class="fas fa-star fa-fw" style="color:rgb(255,0,0);"></i>
+            <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/gratis-support-requests/-/issues' target='_blank'>Gratis Support</a>
+            <a href='https://gitlab.com/gitlab-com/support/support-ops/forms/gratis-support-request-form' target='_blank'>form</a> / <a href='https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/gratis-support-requests/' target='_blank'>processor</a>
+          </li>
         </ul>
       </td>
       <td>
