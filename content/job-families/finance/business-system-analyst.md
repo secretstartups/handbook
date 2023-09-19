@@ -167,7 +167,7 @@ The Business Systems Architect is a [grade 10](https://about.gitlab.com/handbook
 
 All the responsibilities of a Principal Business Systems Analyst, plus:
 
-- Responsible for designing and overseeing the architecture of technology systems and solutions within an organization. 
+- Responsible for designing and overseeing the architecture of technology systems and solutions within an organization.
 - Aligns technology with business needs, ensuring that systems are efficient, scalable, and support GitLab's strategic objectives.
 - Creates a measurable impact on the work of teams across the company.
 - Takes a central role in decision making for technical, business, and organizational issues.
