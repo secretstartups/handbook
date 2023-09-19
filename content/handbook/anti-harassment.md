@@ -1,19 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Anti-Harassment Policy"
 description: "Everyone at GitLab has a responsibility to prevent and stop harassment. Learn more about our Anti-harassment policy."
-canonical_path: "/handbook/anti-harassment/"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Introduction
 
-Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values](/handbook/values/), please report the incident directly to the Chief People Officer, [Team Member Relations](/handbook/people-group/team-member-relations/#discussing-private-concerns), or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) immediately for thorough investigation.
+Everyone at GitLab has a responsibility to prevent and stop harassment. Working remotely means that the majority of our interactions are by video call or written communication, such as email or shared documents. The exceptions to this are team summits, attending conferences together, and local team meetups. No matter the method of communication, it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times. Team member behavior is not limited to internal interactions with each other.  Our Anti-harassment policy applies to GitLab team members interaction with customers, vendors and community members. Should you become aware of or witness any form of harassment or behavior that violates this policy or our [company values]({{< ref "values" >}}), please report the incident directly to the Chief People Officer, [Team Member Relations](/handbook/people-group/team-member-relations/#discussing-private-concerns), or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) immediately for thorough investigation.
 
 ## Perspective
 
@@ -48,11 +40,11 @@ Having a diverse workforce, made up of team members who bring a wide variety of 
 
 We do not tolerate discrimination against anyone, including team members, customers, business partners, or other stakeholders. Any form of discrimination towards an individual is strictly prohibited, including:
 
-* On the basis of race (includes national origin or ancestry, ethnicity, national origin or ethnic characteristics; interracial marriage or association; traits historically associated with race, including hair texture, protective hairstyles, and any other national origin or ancestry "as specified by a complainant in a complaint"), color, religion (including all aspects of religious observance and practice, as well as belief or lack of religious belief), sex (including pregnancy, childbirth and related medical conditions; breastfeeding; sex assigned at birth; gender identity or gender expression; affectional or sexual orientation, including heterosexuality, homosexuality, bisexuality, and asexuality; and differences of sex development, variations of sex characteristics, or other intersex characteristics), age, disability, HIV status, marital status, past or present military service, life expectancy, or any other status protected by the laws or regulations in the locations where we operate.
-* We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
-* We provide [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) to individuals with disabilities and remove any artificial barriers to success.
+- On the basis of race (includes national origin or ancestry, ethnicity, national origin or ethnic characteristics; interracial marriage or association; traits historically associated with race, including hair texture, protective hairstyles, and any other national origin or ancestry "as specified by a complainant in a complaint"), color, religion (including all aspects of religious observance and practice, as well as belief or lack of religious belief), sex (including pregnancy, childbirth and related medical conditions; breastfeeding; sex assigned at birth; gender identity or gender expression; affectional or sexual orientation, including heterosexuality, homosexuality, bisexuality, and asexuality; and differences of sex development, variations of sex characteristics, or other intersex characteristics), age, disability, HIV status, marital status, past or present military service, life expectancy, or any other status protected by the laws or regulations in the locations where we operate.
+- We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
+- We provide [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) to individuals with disabilities and remove any artificial barriers to success.
 
-Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. 
+Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred.
 
 If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), or the [Team Member Relations Specialist](/handbook/people-group/team-member-relations/) to initiate an investigation into the behavior. GitLab has also engaged Lighthouse Services to provide anonymous reporting methods, as described in the [How to Report Violations](/handbook/people-group/#how-to-report-violations) section.
 
@@ -189,11 +181,9 @@ If attempts to resolve the problem in an informal manner prove insufficient or i
 
 Without prejudice to the provisions that may arise from a judicial process instituted by the victim, one or more of the following sanctions shall be imposed on the person guilty of undesirable conduct:
 
-• A written admonition.
-
-• Transfer to another department.
-
-• Termination of the agreement.
+- A written admonition.
+- Transfer to another department.
+- Termination of the agreement.
 
 GitLab shall impose, by registered letter and within five working days, the sanctions imposed upon the person who has been guilty of undesirable behavior. In case an employee abuses this complaint procedure, the above sanctions may also apply for the employee.
 
@@ -257,31 +247,35 @@ In addition to the prohibitions listed above, team members are prohibited from a
 
 **Complaint Procedure and Contacts**
 
-The Company is aware of and recognises the effect that bullying, harassment and sexual harassment can have on its team members. 
-  - “Contact Person” – Team Member Relations: teammemberrelations@gitlab.com 
-  - “Designated Person” - For each formal complaint that is reported through Lighthouse, a Designated Person will be appointed by the Company to deal with the specific issue. 
+The Company is aware of and recognises the effect that bullying, harassment and sexual harassment can have on its team members.
 
-_Informal Procedure_
+- “Contact Person” – Team Member Relations: teammemberrelations@gitlab.com
+- “Designated Person” - For each formal complaint that is reported through Lighthouse, a Designated Person will be appointed by the Company to deal with the specific issue.
+
+*Informal Procedure*
+
 1. The Company is of the view that an informal approach to solving matters can often be effective. In the first instance, an attempt should be made to address an allegation of bullying, harassment and sexual harassment on an informal basis through the procedure set out below.
 1. If you believe you are being bullied, harassed or sexually harassed you should explain clearly to the alleged perpetrator(s) that you find the behaviour in question to be unacceptable. If you would find it difficult to approach the alleged perpetrator(s) directly, then you may seek the advice or assistance of Team Member Relations. You may then request the assistance of Team Member Relations in raising the issue with the alleged perpetrator(s). Any approach made by Team Member Relations on your behalf to the alleged perpetrator(s) will be on a confidential, non-confrontational basis and will seek to resolve the issue in an informal low-key manner.
 1. If you decide that it would not be appropriate for the Company to deal with your complaint under the informal procedure, or having done so you are not satisfied with the outcome, you should proceed to the Formal Procedure.
 
-_Formal procedure_
+*Formal procedure*
+
 1. To begin with, you should make a formal complaint in writing via Lighthouse, giving concrete examples of the alleged bullying, harassment and/or sexual harassment, the dates of any such incidents and details of witnesses, where possible. You may make your complaint anonymously if you wish.
-1. The alleged perpetrator(s) will then be notified in writing that an allegation of bullying, harassment and/or sexual harassment has been made against them. A meeting will be arranged at which the alleged perpetrator(s) will be told that they will be given a fair opportunity to respond to each and every allegation of bullying, harassment and/or sexual harassment and they will be given a copy of your written complaint together with a copy of this policy. 
-1. A copy of this policy will also be provided to the complainant. 
+1. The alleged perpetrator(s) will then be notified in writing that an allegation of bullying, harassment and/or sexual harassment has been made against them. A meeting will be arranged at which the alleged perpetrator(s) will be told that they will be given a fair opportunity to respond to each and every allegation of bullying, harassment and/or sexual harassment and they will be given a copy of your written complaint together with a copy of this policy.
+1. A copy of this policy will also be provided to the complainant.
 1. One or more designated members of the People Group (the Designated Person) will be responsible for carrying out an initial investigation into your complaint. The investigator may agree on terms of reference of the investigation with both you and the alleged perpetrator(s) in advance, and you and the alleged perpetrator(s) will be notified of the likely timescale for completion. This initial meeting will take place as soon as reasonably practicable following receipt of your complaint. If the Company considers it appropriate to do so, the Company reserves the right, at its discretion, to appoint or engage an external third party to conduct the investigation.
-1. Where the allegations made are of a severe nature, the Company reserves the right to suspend the alleged perpetrator(s) on full pay pending an investigation. 
+1. Where the allegations made are of a severe nature, the Company reserves the right to suspend the alleged perpetrator(s) on full pay pending an investigation.
 1. The investigator will meet you, the alleged perpetrator(s) and any witnesses or other relevant persons on an individual basis to gather information surrounding the allegation. You and the alleged perpetrator(s) may be accompanied to such meeting by a colleague. The Company reserves the right to refuse your chosen representative attendance at the meeting where appropriate. You will be given the opportunity to change your chosen representative.
-1. Every effort will be made to carry out and complete the investigation as quickly as possible and preferably within the agreed timeframe. Once the investigation is complete, the investigator will present a written report to management. Both the complainant and the alleged perpetrator(s) will be informed in writing of the investigator’s report and both parties will be given the opportunity to comment on the report before any action is decided on by the Company. 
+1. Every effort will be made to carry out and complete the investigation as quickly as possible and preferably within the agreed timeframe. Once the investigation is complete, the investigator will present a written report to management. Both the complainant and the alleged perpetrator(s) will be informed in writing of the investigator’s report and both parties will be given the opportunity to comment on the report before any action is decided on by the Company.
 1. If, on foot of the report, the Company decides that it is appropriate, a People group representative and applicable manager will meet formally with the alleged perpetrator(s) to determine an appropriate course of action. This may include counselling, monitoring, mediation and/or invoking the disciplinary procedure.
 1. If the investigation concludes that based on the evidence, bullying, harassment or sexual harassment may have been perpetrated by an individual who is not a team member of the Company, the Company will decide what appropriate actions should be taken against such individuals including exclusion from Company premises or systems, suspension or termination of service/contract etc.
-1. If the Company decides that the complaint is not well founded, a People group representative and applicable manager will formally meet with the complainant, again to determine an appropriate course of action. It may be that some kind of counselling or mediation session(s) is required between the complainant and the alleged perpetrator(s). 
-1. Either party may appeal the findings of an investigation under this procedure by submitting, in writing, within 5 working days of the Company’s decision in respect of the complaint outlining the reasons for the appeal. The appeal will be heard on the points raised and will not involve reinvestigation of the complaint. 
+1. If the Company decides that the complaint is not well founded, a People group representative and applicable manager will formally meet with the complainant, again to determine an appropriate course of action. It may be that some kind of counselling or mediation session(s) is required between the complainant and the alleged perpetrator(s).
+1. Either party may appeal the findings of an investigation under this procedure by submitting, in writing, within 5 working days of the Company’s decision in respect of the complaint outlining the reasons for the appeal. The appeal will be heard on the points raised and will not involve reinvestigation of the complaint.
 
-_Mediation_
-1. Mediation is an alternative method of resolving issues relating to bullying, harassment and sexual harassment. Mediation involves the parties seeking to arrive at a solution through mutual agreement, rather than through an investigation and decision. 
-1. Mediation provides a confidential opportunity for the person who feels that they have been bullied, harassed or sexually harassed and the person(s) accused of carrying out this inappropriate behaviour to discuss the matter and to reach an agreement on their continuing working relationship. 
+*Mediation*
+
+1. Mediation is an alternative method of resolving issues relating to bullying, harassment and sexual harassment. Mediation involves the parties seeking to arrive at a solution through mutual agreement, rather than through an investigation and decision.
+1. Mediation provides a confidential opportunity for the person who feels that they have been bullied, harassed or sexually harassed and the person(s) accused of carrying out this inappropriate behaviour to discuss the matter and to reach an agreement on their continuing working relationship.
 1. Mediation is conducted in private, and is directly between the parties concerned, with the support of a mediator, who will act as an independent facilitator. Either party may withdraw from the process at any time by notifying the mediator, in writing, that they wish to do so.
 1. If both parties agree to resolve the issue by mediation, the Company will arrange the mediation process. An appropriate person, acceptable to both parties, from within or outside the Company will be assigned as mediator. The Team Member Relations specialist may serve as the internal mediator, if acceptable to both parties.
 1. If the mediation process results in an agreement acceptable to both parties, the mediator will draw up a written record of the terms of the settlement for signature by both parties.
@@ -314,19 +308,19 @@ Team members who reside in Massachusetts have the right to file a complaint to t
 
 ### Oregon Law Requirements
 
-_Nondisclosure or Nondisparagement Agreements_
+*Nondisclosure or Nondisparagement Agreements*
 
 Under this policy, a nondisclosure agreement is any agreement by which one or more parties agree not to discuss or disclose information regarding any complaint of work-related harassment, discrimination, or sexual assault.
 
-A nondisparagement agreement is any agreement by which one or more parties agree not to discredit or make negative or disparaging written or oral statements about any other party or the company. 
+A nondisparagement agreement is any agreement by which one or more parties agree not to discredit or make negative or disparaging written or oral statements about any other party or the company.
 
-A no-rehire provision is an agreement that prohibits a team member from seeking reemployment with the company and allows a company to not rehire that individual in the future. 
+A no-rehire provision is an agreement that prohibits a team member from seeking reemployment with the company and allows a company to not rehire that individual in the future.
 
 The company will not require a team member to enter into any agreement if the purpose or effect of the agreement prevents the employee from disclosing or discussing conduct constituting discrimination, harassment, or sexual assault.
 
 A team member claiming to be aggrieved by discrimination, harassment, or sexual assault may, however, voluntarily request to enter into a settlement, separation, or severance agreement which contains a nondisclosure, nondisparagement, or no-rehire provision and will have at least seven days to revoke any such agreement.
 
-_Time Limitations_
+*Time Limitations*
 
 Nothing in this policy precludes any person from filing a formal grievance in accordance with a collective bargaining agreement [if applicable], the [Bureau of Labor and Industries’ Civil Rights Division](https://www.oregon.gov/boli/civil-rights/Pages/default.aspx) 800 NE Oregon St., Suite 1045 Portland, OR 97232, tel: (971) 673-0761, TTY Relay 711, or the Equal Employment Opportunity Commission. Note that Oregon state law requires that any legal action taken on alleged discriminatory conduct (specifically that prohibited by ORS 659A.030, 659A.082 or 659A.112) commence no later than five years after the occurrence of the violation. Other applicable laws may have a shorter time limitation on filing.
 
@@ -336,15 +330,14 @@ Team members who reside in Rhode Island have the right to file a complaint with 
 
 ### Vermont Law Requirements
 
-If the a team member who resides in Vermont is dissatisfied with this employer's action, or is otherwise interested in doing so, they may file a complaint by writing or calling the Vermont Attorney General's Office, Civil Rights Unit, 109 State Street, Montpelier, VT 05609, ago.civilrights@vermont.gov, tel:(888)745-9195 (Toll Free VT) or (802)828-3657 (voice/TDD). Complaints should be filed within 360 days of the adverse action. 
+If the a team member who resides in Vermont is dissatisfied with this employer's action, or is otherwise interested in doing so, they may file a complaint by writing or calling the Vermont Attorney General's Office, Civil Rights Unit, 109 State Street, Montpelier, VT 05609, ago.civilrights@vermont.gov, tel:(888)745-9195 (Toll Free VT) or (802)828-3657 (voice/TDD). Complaints should be filed within 360 days of the adverse action.
 
 ## Resources
 
 We are continuously gathering country specific references to review regulation and obtain guidance on the management of harassment or misconduct at work. Here are a few authorities we referred to in the creation of this policy:
 
 - [Equal Employer Opportunity Commission (EEOC)](https://www.eeoc.gov/laws-guidance)
-  - Contact [EEOC](https://www.eeoc.gov/employees/charge.cfm): John F. Kennedy Federal Building, 475 Government Center, Boston, MA 02203, , tel:1-800-669-4000 (voice), 1-800-669-
-6820 (TDD). Complaints must be filed within 300 days of the adverse action.
+    - Contact [EEOC](https://www.eeoc.gov/employees/charge.cfm): John F. Kennedy Federal Building, 475 Government Center, Boston, MA 02203, , tel:1-800-669-4000 (voice), 1-800-669-6820 (TDD). Complaints must be filed within 300 days of the adverse action.
 - [Society of Human Resource Management (SHRM)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx)
 
 ## Further Guidance (Country-Specific)
