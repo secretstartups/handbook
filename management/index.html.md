@@ -34,6 +34,7 @@ confidence with your manager:
 - [1-1s](/handbook/leadership/1-1/)
 - [Providing regular feedback](/handbook/leadership/#giving-feedback)
 - [Dealing with underperformance](/handbook/leadership/underperformance/)
+- [Engineering manager role explained](/handbook/engineering/development/training/em-role/)
 
 ## Engineering Manager Onboarding
 
