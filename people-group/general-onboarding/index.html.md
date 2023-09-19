@@ -37,8 +37,8 @@ This call occurs every two weeks on Thursday at two times to account for timezon
 - 11:00/23:00 **PM** PT
 - 08:30 **AM** PT
 
-* For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar.
-* For future team members: You will receive an email with the future dates.
+- For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar.
+- For future team members: You will receive an email with the future dates.
 
 Please note that this call will take a place a week or two before your actual start date.
 
@@ -65,17 +65,17 @@ General Topics Covered
 
 By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:
 
-- #new_team_members (go say hi and introduce yourself)
-- #people-connect (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
-- #diversity_inclusion_and_belonging (connect with other team members to find out more about what we do in Diversity, Inclusion and Belonging)
-- #it_help (any IT related support needed, such as issues with laptop, 1Password, Okta, JAMF, etc)
-- #expense-reporting-inquiries (need some info on your expenses, what can be expensed, approving expenses, etc)
-- #payroll (have any questions on your salary payments, payslips, etc)
-- #questions (anything that the Handbook can't help with)
-- #donut-be-strangers (need some help setting up a coffee chat)
-- #team-member-updates (new team member, anniversaries, goodbyes, bonuses)
-- #thanks (want to acknowledge and thank someone at GitLab, this is the channel)
-- #whats-happening-at-gitlab (all important updates/reminders/notifications related to GitLab)
+- `#new_team_members` (go say hi and introduce yourself)
+- `#people-connect` (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
+- `#diversity_inclusion_and_belonging` (connect with other team members to find out more about what we do in Diversity, Inclusion and Belonging)
+- `#it_help` (any IT related support needed, such as issues with laptop, 1Password, Okta, JAMF, etc)
+- `#expense-reporting-inquiries` (need some info on your expenses, what can be expensed, approving expenses, etc)
+- `#payroll` (have any questions on your salary payments, payslips, etc)
+- `#questions` (anything that the Handbook can't help with)
+- `#donut-be-strangers` (need some help setting up a coffee chat)
+- `#team-member-updates` (new team member, anniversaries, goodbyes, bonuses)
+- `#thanks` (want to acknowledge and thank someone at GitLab, this is the channel)
+- `#whats-happening-at-gitlab` (all important updates/reminders/notifications related to GitLab)
 
 ## Managers of New Team Members
 
@@ -97,8 +97,8 @@ First of all, what is an issue? You can learn more about what an issue is [here]
 
 To ensure a successful completion of the onboarding issue, it is important that all tasks are checked off, whether the task is applicable to the onboarding team member or not. Checking the box indicates one of the following:
 
-* I have completed this task
-* I have checked and this task is not applicable to me
+- I have completed this task
+- I have checked and this task is not applicable to me
 
 ### Onboarding Issue Template Links
 
@@ -112,27 +112,27 @@ All onboarding related employment templates (country and role based) can be foun
 
 ### Supplemental onboarding issue templates
 
-* [Interviewing training issue](https://gitlab.com/gitlab-com/people-group/Training/blob/master/.gitlab/issue_templates/interview_training.md)
-* [Monitor group onboarding issue](https://gitlab.com/gitlab-org/monitor/onboarding/blob/master/.gitlab/issue_templates/Monitor_Onboarding.md)
-* [Becoming a GitLab manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)
-* [Production engineering onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
-* [Security products technical onboarding issue](https://gitlab.com/gitlab-org/secure/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md)
-* [Support engineer onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md)
+- [Interviewing training issue](https://gitlab.com/gitlab-com/people-group/Training/blob/master/.gitlab/issue_templates/interview_training.md)
+- [Monitor group onboarding issue](https://gitlab.com/gitlab-org/monitor/onboarding/blob/master/.gitlab/issue_templates/Monitor_Onboarding.md)
+- [Becoming a GitLab manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)
+- [Production engineering onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
+- [Security products technical onboarding issue](https://gitlab.com/gitlab-org/secure/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md)
+- [Support engineer onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md)
 
 ### Temporary Service Provider (Contractor/Consultant) Onboarding
 
-The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information. 
+The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information. 
 
 ### Additional onboarding pages
 
-* [Developer onboarding](/handbook/developer-onboarding/)
-* [GitLab onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/)
-* [GitLab Onboarding Feedback](/handbook/people-group/general-onboarding/onboarding-feedback/)
-* [Merge Request buddies](/handbook/people-group/general-onboarding/mr-buddies/)
-* [Onboarding Processes](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/)
-* [Quality team onboarding](/handbook/engineering/quality/onboarding/)
-* [Sales team onboarding](/handbook/sales/onboarding/)
-* [Support team onboarding](/handbook/support/training/)
-* [SRE onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
-* [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
-* [UX Researcher onboarding](/handbook/product/ux/ux-research/)
+- [Developer onboarding](/handbook/developer-onboarding/)
+- [GitLab onboarding buddies](/handbook/people-group/general-onboarding/onboarding-buddies/)
+- [GitLab Onboarding Feedback](/handbook/people-group/general-onboarding/onboarding-feedback/)
+- [Merge Request buddies](/handbook/people-group/general-onboarding/mr-buddies/)
+- [Onboarding Processes](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/onboarding_process/)
+- [Quality team onboarding](/handbook/engineering/quality/onboarding/)
+- [Sales team onboarding](/handbook/sales/onboarding/)
+- [Support team onboarding](/handbook/support/training/)
+- [SRE onboarding](/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
+- [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
+- [UX Researcher onboarding](/handbook/product/ux/ux-research/)
