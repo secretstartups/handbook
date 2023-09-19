@@ -3,19 +3,7 @@ title: Security at GitLab
 description: "Security at GitLab"
 ---
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Internal Security Notification Dashboard<i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
-
-<div class="d-grid gap-2 my-4">
-<a href="https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*" class="btn bg-primary text-white btn-lg">Internal Security Notification Dashboard</a>
-</div>
-
-Security has developed an [internal security notification dashboard](https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*). This dashboard will only be used in cases of high priority security notifications appropriate for the entire organization. Notifications will be sent via slack and email to GitLab team members.
-
------
-
 ## Security Practices
-
-Information security encompasses a variety of different working groups. These security best practices support the functions of business operations, infrastructure, and product development, to name a few. Everybody is responsible for maintaining a level of security to [support compliance (available internal-only)](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues/), while raising the bar of our security posture.
 
 ### Contact GitLab Security
 
@@ -314,11 +302,6 @@ such as up-to-date security patching, host firewalls, and antivirus, by followin
 at a minimum. That said, a personal VPN may provide additional protections in these situations.
 For more on personal VPNs see the [Personal VPN]({{< ref "personal-vpn" >}}) page.
 
-### Other Security Topics
-
-- [Security Team handbook]({{< ref "." >}})
-- [Security questions from customers, and their answers](https://about.gitlab.com/security)
-- [Using GPG Keychain for PGP]({{< ref "pgp_process" >}})
 
 ## Security Department
 
@@ -674,22 +657,6 @@ Many teams follow a convention of having a GitLab group `team-name-team` with a 
         - [SIRT (private)](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations) for SIRT issues.
     - [@gitlab-com/gl-security/security-operations/trust-and-safety](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety) is the primary group for @'mentioning the Trust & Safety team.
 
-#### Other frequently used GitLab.com Projects
-
-Security crosses many teams in the company, so you will find `~security` labelled issues across all GitLab projects, especially:
-
-- [gitlab](https://gitlab.com/gitlab-org/gitlab/issues/)
-- [infrastructure](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
-- [production](https://gitlab.com/gitlab-com/gl-infra/production/issues/)
-
-When opening issues, please follow the [Creating New Security Issues](#creating-new-security-issues) process for using labels and the confidential flag
-
-#### Runbooks
-
-- [Security runbooks (private)](https://gitlab.com/gitlab-com/gl-security/runbooks) - **NOTE**: The handbook and [production runbooks](https://gitlab.com/gitlab-com/runbooks) should be the first locations considered for any process or documentation. `gl-security/runbooks` should only be used for documenting specifics that would increase risk and/or have customer impact if publicly disclosed.
-- [Incident-Tools (private)](https://gitlab.com/gitlab-com/gl-security/incident-tools)-  working scripts and other code during or while remediating an incident. If the tool is applicable outside of the `GitLab.com` environment, consider if it's possible to release when the `~security` issue becomes non-confidential. This group can also be used for private demonstration projects for
-security issues.
-- [Security-tools (mostly private)](https://gitlab.com/gitlab-com/security-tools/) contains some operational tools used by the security teams. Contents and/or configurations require that most of these projects remain private.
 
 #### Slack Channels
 
@@ -805,26 +772,6 @@ Gearing ratios related to the Security Department have been moved to a [separate
 
 -----
 
-### <i class="fas fa-stream" id="biz-tech-icons"></i> Security Department Collaborators
-
-#### Secure Sub-Department
-
-The Security department will collaborate with development and product management for security-related features in GitLab.
-The [Secure Sub-Department](https://about.gitlab.com/handbook/engineering/development/sec/secure/) must not be mistaken with the Security Teams.
-
-- Develop real-world security use cases
-- Ideation of compelling security features and products
-- Test and provide product feedback
-
-#### External Security Firms
-
-We work closely with bounty programs, as well as security assessment and penetration testing firms to ensure external review of our security posture.
-
-- One security assessment firm is rotated periodically to gain new perspectives
-- One security assessment firm is engaged every quarter to build expertise in GitLab
-- We maintain a public bug bounty program via [HackerOne](https://hackerone.com/gitlab)
-
------
 
 ### Security Releases
 
@@ -1334,20 +1281,3 @@ The Security Team works with our Community Outreach Team to ensure that security
 ### Package Signing{#package-signing}
 
 The packages we ship are signed with GPG keys, as described in the [GitLab documentation](https://docs.gitlab.com/ee/administration/package_information/signed_packages.html). The process around how to make and store the key pair in a secure manner is described in [the runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/packaging/manage-package-signing-keys.md). The Distribution team is responsible for updating the package signing key. For more details that are specific to key locations and access at GitLab, find the internal google doc titled "Package Signing Keys at GitLab" on Google Drive.
-
-### Annual 3rd-Party Security Testing
-
-Along with the internal security testing done by the [Application Security](#application-security), [Security Research](#security-research), and [Red]({{< ref "./threat-management/red-team" >}}) teams, GitLab annually contracts a 3rd-party penetration test of our infrastructure. For more information on the goals of these exercises, please see our [Penetration Testing Policy]({{< ref "penetration-testing-policy" >}}).
-
-The following process is followed for these annual tests:
-
-1. The Application Security team will partner with the [Security Operations]({{< ref "security-operations" >}}) and other relevant teams to define the scope of the test.
-1. The Infrastructure team will be notified in accordance with their [procedures](https://about.gitlab.com/handbook/engineering/infrastructure/production/#penetration-testing)
-1. The Application Security team will manage the relationship with the 3rd-party vendor. Included in this role will be communicating the chosen scope and soliciting feedback.
-1. Based on feedback from all parties, testing dates will be defined and communicated to teams for appropriate actions.
-1. Testing will be done by the 3rd-party vendor and the results communicated to GitLab.
-1. The Application Security team will triage the findings and create issues in accordance with the [Issue Triage](#issue-triage) process.
-
-#### Obtaining the Report
-
-GitLab customers can request a redacted copy of the report. For steps on how to do so, please see our [External Testing page](https://about.gitlab.com/security/#external-testing).

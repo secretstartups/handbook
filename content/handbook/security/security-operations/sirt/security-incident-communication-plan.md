@@ -103,10 +103,6 @@ Security incidents can be high-pressure, high-stress situations.  Everyone is an
 
 Any time there is a service disruption for team members, the CMOC should post details regarding the disruption and related issue(s) in #whats-happening-at-gitlab, and cross-post in any related channels. It is important to identify if this is a production incident affecting gitlab.com or a service used by the organization.
 
-### Internal Security Notification Dashboard
-
-In cases of high priority security notifications appropriate for the entire organization, the [Internal Security Notification Dashboard](https://gitlab.com/gitlab-com/gl-security/internal-security-notification-dashboard/-/wikis/*Dashboard:-GitLab-Internal-Security-Notifications*) should be used. When an update is made to this dashboard, notifications will be sent via slack and email to all GitLab team members.
-
 ### Incident response channel on Slack
 
 In the cases of incidents that are on-going and require constant communication the `Security Engineer on Call` will set up an incident response Slack channel. All security incident team members and extended POCs should be invited. If the nature of the incident allows, the Slack channel will be public to GitLab and a link to this channel will also be shared in `#security-department` Slack channel to increase visibility.
