@@ -174,7 +174,7 @@ The Senior Manager, IT Program Management is a [grade 9](https://about.gitlab.c
 - Seeks the best and broadest sources of information on issues, and encourages team(s) to find the additional facts that should be included in a discussion or decision.
 - Articulates risks and gaps to the organization's work and capabilities across programs. When identifying risks, makes a compelling case to senior leaders with options for how to address the anticipated problem.
 - Anticipate shifts in direction, and knows when to prepare or adapt the team based on interactions with leaders and others.
--  Demonstrates leadership across multiple teams and/or the Sub-Department.
+- Demonstrates leadership across multiple teams and/or the Sub-Department.
 - Accepts challenges, sets up clear options for Senior Leadership, and drives toward timely decisions.
 - Shows willingness to offer an opinion in opposition of the group.
 - Effectively starts and fosters productive debates with teams; displays the courage to challenge and ask tough questions.
