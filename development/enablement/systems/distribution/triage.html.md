@@ -36,6 +36,13 @@ See the [CE documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/C
 | maintainer-discussion | Issues for further discussion by project Maintainers | Projects maintainers should review status and provide input within 2 weeks. |
 | needs investigation | Information has been provided by the user, but is waiting on the team to further dive in | The team member who added the label should try to find some time to investigate or engage other team members within 4 weeks. |
 
+During triage, an appropriate `group::` label should be applied to the issue.
+
+- `group::distribution::build` for [Distribution Build team responsibilities](index.html.md.erb#distribution-build)
+- `group::distribution::deploy` for [Distribution Deploy team responsibilities](index.html.md.erb#distribution-deploy)
+- `group::distribution` for [Distribution team shared responsibilities](index.html.md.erb#team-responsibility)
+- The otherwise appropriate group to assign based on [GitLab Features by Group](/handbook/product/categories/features/)
+
 During triage additional labels should be added to indicate what part of the product is impacted by the issue. Descriptions for the labels that Distribution often uses can be found the [Distribution Frequently Used Labels Page](https://gitlab.com/gitlab-org/distribution/team-tasks/-/blob/master/frequently-used-labels.md).
 
 ### Resources
@@ -66,20 +73,20 @@ triage duty can be summarized as follows
    submitter. Check out the issue list with `awaiting feedback` label for such
    issues and close them with the ["for issues with no reply"
    response](#for-issues-with-no-reply).
-1. Check out the issues to be triaged and assign appropriate labels to them.
+1. Check out the issues to be triaged and assign [appropriate labels](#label-glossary) to them.
    While it is normal for some issues to demand a bit of research to get to the
    bottom, do keep in mind issue triaging need not end up in issue resolution.
    Triaging is intended only to identify and classify issues so that appropriate
    action can be taken on them, based on priority.
-1. If an issue doesn't fall directly under the domain of omnibus-gitlab (for
-   example, needs changes to gitlab-rails application), move the issue to the
+1. If an issue doesn't fall directly under the domain of the project it is logged in (for
+   example, needs changes to gitlab-rails application, but was made in the omnibus-gitlab project), move the issue to the
    appropriate issue tracker and add the team label which may be the most
    appropriate. If you can't identify which project's tracker should the issue
    reside or which team's label should be applied, you can ask for Quality
    team's help for doing it by mentioning `@gitlab-org/issue-triage` in the
    comments.
-1. If an issue doesn't deal with the code base or work flow of omnibus-gitlab
-   project, but is more of a request for help for
+1. If an issue doesn't deal with the code base or work flow of the project
+  but is more of a request for help for
    installing/configuring/troubleshooting a GitLab instance, close the issue
    using the ["problems not related to package installation and
    configuration" response](#for-problems-not-related-to-the-gitlab-codebases).
@@ -117,12 +124,7 @@ triage duty can be summarized as follows
    of time would be 3 to 5 hours a week.
 1. Since issues piling up is almost inevitable in any software project, we
    should try to bring down the issue count as much as possible. This mainly
-   involves tackling existing backlog of untriaged issues. However, since
-   untriaged issues of today will easily turn to be backlog for tomorrow, a
-   reasonable ratio of old to new issues would be 60:40. This means, 60% of the
-   issues that are triaged should be from the old pile while remaining 40%
-   should be of the ones opened last week. This will help us keep volume of
-   untriaged issues at bay.
+   involves tackling existing backlog of untriaged issues.
 1. During the next weekly meeting, inform the team about the triage week - link
    to the meta issue, number of issues triaged and time spent. And discuss if
    you think something should be changed regarding the process. Also, create a
@@ -139,7 +141,7 @@ Copy and paste into issues where appropriate
 
 ##### For problems not related to the GitLab codebases
 
-If someone is asking for support in the omnibus-gitlab project, point them to the correct place to look
+If someone is asking for support in our projects, point them to the correct place to look
 
 ```
 We are sorry you are having troubles. The provided issue description seems to indicate that the problem is not related to this project. Commonly this indicates other troubles such as network connectivity or filesystem permissions.
