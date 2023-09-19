@@ -10,21 +10,17 @@ GitLab and are expected to drive greater GitLab product recurring revenues.
 
 ## Contacting Support
 
-Select Partners may contact us by submitting a ticket from the
-[support portal](https://support.gitlab.com). To ensure proper ticket routing,
-which helps to prevent first response delays, they should:
+Select Partners and their end customers can contact us by submitting a ticket through the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) form. To ensure efficient ticket handling and prevent any delays in receiving the first response, they have two options:
 
-1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000837100)
-1. verify in advance with their GitLab CSM or GitLab Sales team member that
-   they have a contact record in Salesforce that is associated with their
-   company's correct account record
+   - Select Partners:
+      - If the Select Partner is opening a ticket on behalf of a customer or themselves then they can use the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) page and select the appropriate form for their problem.
 
-GitLab Support will work directly with the Select Partner, not with their
-customer, using the Ultimate support level regardless of the customer's actual
-support level.
+   - End Customers of Partners:
+      - If the end customers would prefer to open a ticket directly with GitLab Support then they can also use the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) page and select the appropriate form for their problem.
 
-**Note to Support**: Never associate a customer to a Select Partner's
-organization, or vice-versa!
+The only requirement for submitting a new ticket is that you must first register on the [GitLab Support Portal](https://about.gitlab.com/support/portal/).
+
+**Note to Support**: Never associate a customer to a Select Partner's organization, or vice-versa!
 
 ## File uploads
 
