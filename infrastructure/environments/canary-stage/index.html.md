@@ -136,7 +136,7 @@ Feature flags on production and production-canary:
 ### How do I get console access to the canary stage?
 
 Currently the canary stage has no console access, you can [standard console
-access process](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/Teleport/Connect_to_Rails_Console_via_Teleport.md)
+access process](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/teleport/Connect_to_Rails_Console_via_Teleport.md)
 to access a console server in the environment running the main stage of the code
 only. Note that as the database is shared between stages, depending on what
 actions your perform in the console, it will affect the "canary" stage as well
