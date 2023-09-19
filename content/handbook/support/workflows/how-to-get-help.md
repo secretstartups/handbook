@@ -110,7 +110,9 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 | Fulfilment Section | [Fulfilment Section Breakdown](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) | [Section Fulfilment Request for Help](https://gitlab.com/gitlab-com/fulfilment-sub-department/section-fulfilment-request-for-help) |
 | SaaS Section (GitLab Dedicated) | [GitLab Dedicated Breakdown](https://about.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/) | [Gitlab Dedicated Request for Help Template](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=support_request) |
 
-The steps for submitting a help request are as follows:
+**Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
+
+#### Opening a request for help
 
 1. Review the above table and click the link to open the corresponding GitLab.com Development Section Project that you require help from.
 1. Within each GitLab Project there is a `ReadMe` (displayed on the project page):
@@ -118,15 +120,27 @@ The steps for submitting a help request are as follows:
    1. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
 1. Before submitting a new issue search the existing issues to check if a similar request has been made before.
 1. If not, then submit a new issue to the project using the template you've identified.
-   - The issue will be automatically assigned to the relevant developers for triaging.
-1. If you encounter any problems, such as obtaining a timely response from Development, then please take the following steps.
-   - Review the contacts listed in the issue template and check slack to see if they are on PTO. If they are on PTO, check slack for their backup and ping them via the issue otherwise ping the primary contact requesting an update via the issue.
-   - Feel empowered to ping the corresponding Development Subgroup slack channel along with a link to the issue, requesting an update.
-   - Make the corresponding Development Subgroup Engineering Manager aware via the issue. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`.
-   - Consider reaching out to a Support Engineering Manager for further guidance.
-1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
+   - If the issue is not automatically assigned to the relevant developers for triaging, review the template for instructions on who to assign to.
+1. Assign the correct `severity label` as outlined in the corresponding 'Project ReadMe.' Additionally, if necessary, advocate for the customer by including a 'Customer Impact' statement in the issue.
 
-**Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
+#### Tips on getting timely responses
+
+1. Review the [Opening a request for help](#opening-a-request-for-help) to ensure all steps were covered.
+1. If an issue is moved to another group (through a label change or moving to another project), check the corresponding template for the new group to see who to assign or mention in a comment.
+1. When linking to Kibana, also upload a copy of relevant entries, a screenshot of the graph, etc. as logs rotate out after 7 days. If possible, also link to the relevant Sentry entry.
+
+#### Escalate to unblock a request
+
+If you encounter any problems, such as obtaining a timely response from Development, then please take the following steps:
+
+1. Review the contacts listed in the issue template and check slack or their GitLab status to see if they are on PTO. If they are on PTO, check slack for their backup and ping them via the issue, otherwise ping the primary contact requesting an update via the issue.
+1. Feel empowered to ping the corresponding Development Subgroup slack channel along with a link to the issue, requesting an update.
+1. Make the corresponding Development Subgroup Engineering Manager aware via the issue. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`.
+1. Consider reaching out to a Support Engineering Manager for further guidance.
+
+#### Prior to closing a request for help
+
+1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
 
 ### Quick Links and Resources
 
