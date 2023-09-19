@@ -224,7 +224,9 @@ CES will then need to track the request to know when the Background check clears
 **NYC Location**
 
 USA Reference Check forms only: 
-It's important to note that the USA Reference Check form should be sent to the candidate and Step 1 should be completed before creating an offer. If the candidate selects “Yes” to indicate that they are located in NYC, you will need to complete a two-step background screening process:
+It's important to note that the USA Reference Check form should be sent to the candidate and Step 1 should be completed before presenting a verbal offer. If the candidate selects “Yes” to indicate that they are located in NYC or its 5 boroughs (They will be listed as Brooklyn, Bronx, New York (Manhattan), Queens, or Staten Island), you will need to complete a two-step background screening process:
+
+Please note that Long Island is not part of NYC and this process does not apply to residents there.
 
 1. CES service desk receives a ticket indicating that the candidate has submitted Reference Check Process Information - USA form. CES notes that the candidate has selected “Yes” for the NYC location question. 
 
