@@ -140,7 +140,7 @@ Staff IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab
 
 Extends the IT Enterprise Applications Engineer responsibilities:
 
-- Implements strategic decisions.
+- Provides input on strategic decisions within the team, such as: new system features and functionality, process definition, system roadmap, annual planning, portfolio management, etc.
 - Thought partner for team's manager to make technical/project decisions for the team.
 - Proposed solutions may impact results within a team member's department.
 - Provides technical and functional knowledge to projects that contribute to overall direction across teams.
