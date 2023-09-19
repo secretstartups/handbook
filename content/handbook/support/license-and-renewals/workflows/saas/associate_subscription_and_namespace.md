@@ -37,6 +37,8 @@ While handing the subscription provisioning requests, we'll face some cases wher
 
 Please note: when using the force associate tool, ensure that a gitlab.com user (with owner role in the relevant namespace) has been linked to the customersdot account that the subscription is associated with. If an association is made, but no gitlab.com user is linked, then any subsequent changes to the subscription will either not reflect on the namespace in gitlab.com or it will downgrade the namespace to Free.
 
+When you Force Associate a subscription, Compute Minute usage is not reset.  Force association only changes the quota.  You can reset the usage from the namespace Admin menu.  However, an Admin reset will clear usage for both the quota and the Additional units.    In some case it may be preferrable instead of resetting the usage, to provide additional minutes to the namespace so the customer receives the full subscription quota of Compute Minutes.
+
 ## Clear Subscription
 
 > <i class="fas fa-exclamation-triangle color-orange"></i> **NOTE**: Soon to be [deprecated](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#mechanizer-notice)
