@@ -46,8 +46,6 @@ Important to note about Congregate:
 
 * [Limitations of Self-Managed to SaaS migrations via Congregate - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-level-of-instance-access-and-permission-are-needed-for-migrating)
 
-  To request an Admin PAT with full API or equivalent scope, you'll need to request one by getting in touch with our PS directly. Our PS team has also supported partners in debugging or doing a root-cause analysis on migration failures with Congregate on a case-by-case basis (billing hours from GitLab PS may need to be purchased by the partner requiring support).
-
 ### 2. Direct transfer (Beta)
 
 This feature was just recently released, and is the direction our product team is moving towards for migrating GitLab projects from instance to instance or to SaaS. Please review the following resources:
