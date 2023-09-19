@@ -339,7 +339,7 @@ Examples of new metrics can include:
 - Looking at feature use in a different context (raw count, activity per user, per project, etc.)
 - Expanding an existing metric to track usage at different product tiers (e.g., specifically tracking the feature component used in Core vs. a paid tier)
 
-## Frequently asked questions
+## Frequently Asked Questions  (FAQs)
 
 ### Data availability
 
@@ -347,6 +347,7 @@ Examples of new metrics can include:
 
 - Self-managed - They are not opted into Service Ping, or they turned it off.
 - Self-managed - None of their instances are labeled as Production. [Here are instructions](#self-managed) on how to label instances as Production.
+- SaaS - If the correct Namespace isn't showing up in Gainsight, the customer will need to associate their Namespace with their (new) subscription. This tends to happen when customers shift from SM to SaaS, or to net new customers where the customer is responsible for tying the namespace back to their subscription. To check if your customer's namespace is tied to their subscription, go to https://customers.gitlab.com/admin/order and type in the most recent `Subscription Name` (i.e. A-S00012345) found in their Salesforce record. If the `Gl namespace` field is blank, then their subscription is not tied to their namespace. This can be fixed by opening an [Internal Support Ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) on your customer's behalf, or alternatively, they may reach out to support themselves. 
 
 #### Why is my customer's Billable Users (OR License Utilization) value `Null`?
 

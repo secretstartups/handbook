@@ -74,13 +74,11 @@ The following primary and ancillary metrics are used to determine a customer's C
 
 #### Resources
 
-- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1Zn5gyUrBRgA1fyprVuoA24FKiH_3fpT5KuL5vK6GcuE/edit#slide=id.g110af81e0a3_0_215) (Internal Only)
-    - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
-        - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CI Metrics to export and calculate the Adoption score
 - [Value Statements for CI Adoption Score](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/delivery-automation/#customer-adoption-and-value)
     - This should help guide the conversation around how CI Adoption is measured and how to improve adoption.
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -103,14 +101,11 @@ The following metrics are used to determine a customer's Security Adoption Score
 <br>
 
 #### Resources
-
-- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1JdRlS5G9iB0XMMWktYxYBDCnhVs2Ti-I6jBW0q61YZk/edit?usp=sharing) (Internal Only)
-   - In order to generate the slide - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
-        - Instructions on using the sheet can be found in this Artifact Generator How to [internal video](https://youtu.be/pLp2Y0oZuc0)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's Security (DevSecOps) Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
 - Additional CSM Enablement - **Coming Soon!**
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 
 ### CD Adoption Scoring
 The following metrics are used to determine a customer's CD Adoption Score:
@@ -133,11 +128,9 @@ In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a
 <!-- blank line -->
 
 #### Resources
-- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1T4vINvjXu4dGBEUHdZb3ohxJG91p11QC1zOWrUNHD4E/edit?usp=sharing) (Internal Only)
-    - In order to generate the slides shown in the video above - this [Google sheet](https://docs.google.com/spreadsheets/d/1wPrQRS9XGJek4oWcZPe9QeaFne9scbJVZYuvEioE2GI/edit#gid=1737266116) can help. 
-        - Instructions on using the sheet can be found in this [internal video](https://youtu.be/oWuX_jtLnLI)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CD Metrics to export and calculate the Adoption score
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 
 ### SCM Adoption Scoring
 The following metrics are used to determine a customer's SCM Adoption Score:
@@ -147,9 +140,9 @@ The following metrics are used to determine a customer's SCM Adoption Score:
 [Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/version-control-collaboration/#adoption-recommendation)
 
 #### Resources
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/1_8rwDMTXxFgqTMfR1aElQiy7SKn1YCH91MRVw-t5Srg/edit?usp=sharing) (Internal Only)
-- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's SCM Metrics to export and calculate the Adoption score
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 <br>
 
 ##### **Disclaimer:**  The scoring criterias & thresholds will continue to evolve as we iterate
