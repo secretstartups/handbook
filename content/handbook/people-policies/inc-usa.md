@@ -1,13 +1,7 @@
 ---
-layout: handbook-page-toc
 title: People Policies - GitLab Inc (USA)
 description: "GitLab's USA-specific People Policies list the mandatory US people-related policies for our US-based team members."
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 All policies on this page apply to **US-based team members** who are employed by GitLab Inc. or GitLab Federal LLC.  If a policy specifically states that it applies to federal contractors, it applies only to team members who are employed by GitLab Federal LLC.
 
@@ -42,7 +36,7 @@ Violations of this policy, regardless of whether an actual law has been violated
 
 ### Harassment
 
-Please refer to the [GitLab Anti-Harassment Policy](https://about.gitlab.com/handbook/anti-harassment/) for more information.
+Please refer to the [GitLab Anti-Harassment Policy]({{< ref "anti-harassment" >}}) for more information.
 
 ## Individuals with Disabilities Policy
 
@@ -50,7 +44,7 @@ GitLab Inc. (“The Company”) complies with the Americans with Disabilities Ac
 
 ### Our Commitment
 
-A team member or applicant in need of a reasonable accommodation should make the Company aware of their request by notifying the Absence Management team at `leaves@gitlab.com`. The Company will work with each individual to define their job-related or application-related needs and to try to accommodate those needs. 
+A team member or applicant in need of a reasonable accommodation should make the Company aware of their request by notifying the Absence Management team at `leaves@gitlab.com`. The Company will work with each individual to define their job-related or application-related needs and to try to accommodate those needs.
 
 ### Roles and Responsibilities
 
@@ -60,7 +54,7 @@ A team member or applicant in need of a reasonable accommodation should make the
 
 **Manager:** The manager will act as the SME (subject matter expert) as it relates to the essential functions of the team member’s job, order any equipment needed as it relates to the accommodation, ensure the team member is trained properly on any equipment and it is regularly serviced (if applicable), and follow up with the Absence Management team if the accommodations are not helping the team member perform their job or their performance is not meeting expectations.
 
-**People Business Partner (PBP):**  Partner with the Manager to evaluate the essential functions of a team member’s job, and possible accommodations.  
+**People Business Partner (PBP):**  Partner with the Manager to evaluate the essential functions of a team member’s job, and possible accommodations.
 
 **Absence Management Team:** Will serve as a liaison between manager, team member/candidate, and the team member’s or candidate’s physician and will provide input to the team member’s or candidate’s request for a medical restriction and/or accommodation as it relates to the job requirements and working conditions, when appropriate. The Absence Management team will verify and/or clarify the team member's claim of a medical and/or medical restriction, when necessary, once an accommodation is requested. They will also monitor the need for the restriction beyond the expiration date of the restriction.
 
@@ -68,7 +62,7 @@ A team member or applicant in need of a reasonable accommodation should make the
 
 ### Qualified Individuals with Disabilities
 
-Qualified individuals with disabilities are defined as individuals with disabilities who can perform the essential functions of the job in question with or without reasonable accommodation. Per the Americans with Disabilities Act (ADA), a disability means, with respect to an individual: a physical or mental impairment that substantially limits one or more of the major life activities of such individual; a record of such an impairment; or being regarded as having such an impairment as described in [Section 36.105](https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm#a105), paragraph (f) of the ADA. So to clarify, you may have been or currently be diagnosed by a disability as per the ADA and not feel that it <i>**substantially**</i> limits your life activities and **still** self-identify as having a disability status.
+Qualified individuals with disabilities are defined as individuals with disabilities who can perform the essential functions of the job in question with or without reasonable accommodation. Per the Americans with Disabilities Act (ADA), a disability means, with respect to an individual: a physical or mental impairment that substantially limits one or more of the major life activities of such individual; a record of such an impairment; or being regarded as having such an impairment as described in [Section 36.105](https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm#a105), paragraph (f) of the ADA. So to clarify, you may have been or currently be diagnosed by a disability as per the ADA and not feel that it ***substantially*** limits your life activities and **still** self-identify as having a disability status.
 
 Please find an overarching list of what can fall into the [disability defition per the ADA](https://www.ada.gov/regs2010/titleIII_2010/titleIII_2010_regulations.htm#a105), including but not limited to:
 
@@ -100,7 +94,7 @@ A reasonable accommodation is any change or adjustment to a job, the work enviro
 
 ### Determining Appropriate Accommodations
 
-When a team member requests a change in the job or working conditions and relates the need to a medical condition, or notifies GitLab “the company” of medical restrictions, the manager or supervisor should direct the team member to notify the Absence Management team (leaves@gitlab.com) of the request.  The Absence Management team will then follow the steps outlined below.  
+When a team member requests a change in the job or working conditions and relates the need to a medical condition, or notifies GitLab “the company” of medical restrictions, the manager or supervisor should direct the team member to notify the Absence Management team (leaves@gitlab.com) of the request.  The Absence Management team will then follow the steps outlined below.
 
 Frequently, when a qualified individual with a disability requests a reasonable accommodation, the appropriate accommodation is easily agreed upon. The individual may recommend an accommodation based on their life or work experience. The ultimate decision as to whether a particular accommodation will be made rests with the Company. When the appropriate accommodation is not obvious, the Company may assist the individual in identifying one. If more than one accommodation will enable the individual to perform the job, the Company reserves the right to choose which accommodation it will make. If you feel that you have been unreasonably denied an accommodation request, please speak with the Absence Management team by emailing `leaves@gitlab.com`. If you have any questions concerning this policy you should speak with the People Operations team.
 
@@ -110,11 +104,11 @@ Please submit your request for an accommodation by completing this [form](https:
 
 **Non-US Team Members Requesting Accommodations:**
 
-If your physician is recommending restrictions that GitLab may need to accommodate, please email leaves@gitlab.com.  While you are under no obligation to provide GitLab with a diagnosis, you may be asked questions related to how your condition impacts your ability to perform the essential functions of your job, in accordance with applicable law.  The Absence Management team will provide you with any necessary paperwork, and assist you with your request.  
+If your physician is recommending restrictions that GitLab may need to accommodate, please email leaves@gitlab.com.  While you are under no obligation to provide GitLab with a diagnosis, you may be asked questions related to how your condition impacts your ability to perform the essential functions of your job, in accordance with applicable law.  The Absence Management team will provide you with any necessary paperwork, and assist you with your request.
 
 ## US Access to Personnel Records
 
-Current and former team members may request a copy of their personnel file in writing to `dpo@gitlab.com`. Additionally, team members can access certain records at anytime via Workday. 
+Current and former team members may request a copy of their personnel file in writing to `dpo@gitlab.com`. Additionally, team members can access certain records at anytime via Workday.
 
 ### Leave Policies
 
@@ -289,11 +283,11 @@ If the consumer reporting agency reports information which may be used, in whole
 
 If the disqualification decision is not based on a misrepresentation or omission in the employment application, it is a best practice to discuss the potentially disqualifying information with the individual prior to issuing the pre-adverse action notice. This practice supports the individual job-related nature of any disqualification decision.
 
-**Step 3:	Wait for a Reasonable Period of Time to Find Out What, if Any, Explanation is Offered by the Applicant**
+**Step 3: Wait for a Reasonable Period of Time to Find Out What, if Any, Explanation is Offered by the Applicant**
 
 If the applicant does not respond at all to the notification within a reasonable period of time (5 days), the employer may proceed with its decision to rescind the conditional offer. If the applicant responds, the employer should carefully consider the information submitted and then make a decision. If the explanation is reasonable under the circumstances, then it may still be possible to go forward with the new hire (for example, a case of mistaken identity). However, if the applicant's explanation is determined to be insufficient, then the employer should proceed to the next step.
 
-**Step 4:	Notify Applicant of Adverse Action**
+**Step 4: Notify Applicant of Adverse Action**
 
 The employer must provide the applicant with written notice of the adverse action and the name, address, and telephone number of the consumer reporting agency.
 The Adverse Action Notice form should be sent along with the federal summary of rights and any applicable state summary of rights. The notice includes a statutorily required statement that the consumer reporting agency did not make the decision and does not know why the decision was made should be included as well as a notice of the applicant's right to obtain the report and dispute the information.

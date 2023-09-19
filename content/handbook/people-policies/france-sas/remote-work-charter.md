@@ -1,32 +1,17 @@
 ---
-layout: handbook-page-toc
 title: "GitLab France S.A.S. Remote Work Charter"
 description: GitLab France S.A.S. Remote Work Charter - French and English language versions.
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
-
-<div class="panel panel-gitlab-orange">
-**This is a Controlled Document**
-{: .panel-heading}
-<div class="panel-body">
-
-In line with GitLab's regulatory obligations, changes to [controlled documents](https://about.gitlab.com/handbook/security/controlled-document-procedure.html) must be approved or merged by a code owner. All contributions are welcome and encouraged.
-
-</div>
-</div>
+{{% alert title="This is a Controlled Document" color="danger" %}}
+Inline with GitLab's regulatory obligations, changes to [controlled documents]({{< ref "controlled-document-procedure" >}}) must be approved or merged by a code owner. All contributions are welcome and encouraged.
+{{% /alert %}}
 
 ## Français: GITLAB FRANCE S.A.S. CHARTE SUR LE TÉLÉTRAVAIL
 
 ### PRÉAMBULE
 
-Avec plus de 1700 membres d'équipe répartis dans plus de 65 pays, GitLab (est l'une des plus grandes entreprises au monde mettant en œuvre du travail à distance intégral. 
+Avec plus de 1700 membres d'équipe répartis dans plus de 65 pays, GitLab (est l'une des plus grandes entreprises au monde mettant en œuvre du travail à distance intégral.
 
 L'approche "travail à distance intégral" de GitLab favorise le recrutement et la mobilité des salariés (ci-après « membres de l’équipe) dans le monde entier, ainsi que la flexibilité des horaires de travail, en permettant aux membres de l’équipe de mieux travailler ensemble, qu'ils se trouvent au même endroit ou qu'ils soient répartis sur plusieurs fuseaux horaires.
 
@@ -38,7 +23,7 @@ La présente charte (ci-après la « Charte ») a été élaborée afin d'encadr
 
 Le télétravail est toute forme d'organisation du travail dans laquelle un travail qui aurait pu être exécuté dans les locaux de la Société est effectué par un membre de l’équipe hors de ces locaux en utilisant les technologies de l'information et de la communication.
 
-Le travail à distance intégral est l'une des conditions d'embauche de la Société. 
+Le travail à distance intégral est l'une des conditions d'embauche de la Société.
 
 Cela signifie que la Société ne dispose pas de locaux et que l’ensemble des membres de l’équipe n'a pas accès aux locaux de la Société/espaces de travail de la Société afin d'exercer leurs fonctions pour la Société.
 
@@ -58,15 +43,15 @@ Tout lieu de télétravail doit être situé sur le territoire français.
 
 3.1 *Conformité des locaux*
 
-En cas de télétravail à domicile, le membre de l’équipe doit prévoir un espace de travail respectant les règles relatives à l'hygiène, à la sécurité et aux conditions de travail et accepte qu'un représentant de la Société contrôle la conformité de son logement. 
+En cas de télétravail à domicile, le membre de l’équipe doit prévoir un espace de travail respectant les règles relatives à l'hygiène, à la sécurité et aux conditions de travail et accepte qu'un représentant de la Société contrôle la conformité de son logement.
 Une synthèse des obligations applicables est annexé à la Charte.
 Le membre de l’équipe sera prévenu des dates et heures du contrôle au moins 5 jours ouvrés à l’avance.
 
 De plus, le lieu de télétravail doit respecter les exigences concernant la conformité des installations électriques. Dans ce contexte et préalablement à la date d’embauche, le membre de l’équipe doit fournir un diagnostic d’électricité récent ou, à défaut, une attestation sur l’honneur de la conformité de l’installation électrique du lieu de télétravail.
 
-La réalisation d’un diagnostic peut être organisée par le membre de l’équipe lui-même (les frais engendrés sont pris en charge par la Société sur justificatif. 
+La réalisation d’un diagnostic peut être organisée par le membre de l’équipe lui-même (les frais engendrés sont pris en charge par la Société sur justificatif.
 
-En cas de déménagement, le membre de l’équipe s'engage à prévenir la Société et à lui communiquer sa nouvelle adresse. Le nouveau logement pourra également faire l'objet d'un contrôle de conformité. De plus, la conformité des installations électriques doit être démontrée comme précisé ci-dessus. 
+En cas de déménagement, le membre de l’équipe s'engage à prévenir la Société et à lui communiquer sa nouvelle adresse. Le nouveau logement pourra également faire l'objet d'un contrôle de conformité. De plus, la conformité des installations électriques doit être démontrée comme précisé ci-dessus.
 
 En cas de télétravail dans un lieu tiers, le membre de l’équipe s’engage à fournir une déclaration sur l’honneur sur la conformité de l’installation électrique de ce lieu de télétravail, le respect des règles relatives à l’hygiène, à la sécurité et aux conditions de travail (notamment en termes d’ergonomie, d’éclairage, etc.) et la couverture de ce lieu par une assurance au sens de l’article 7 de la Charte. Cette déclaration doit être fournie préalablement à la prise du télétravail de ce lieu.
 
@@ -112,11 +97,11 @@ La Société fournit, installe et entretient le matériel nécessaire à l'activ
 
 Les équipements fournis se composent des éléments suivants:
 
-- Un ordinateur portable, 
+- Un ordinateur portable,
 - Tout logiciel nécessaires pour l’exécution des obligations contractuelles;
 - Un écran si nécessaire;
 - Un clavier/un souris, si nécessaire;
-- Un bureau/une chaise ergonomique, si nécessaire, 
+- Un bureau/une chaise ergonomique, si nécessaire,
 - Une imprimante, si nécessaire.
 
 Le membre de l’équipe s'engage:
@@ -124,7 +109,7 @@ Le membre de l’équipe s'engage:
 - à prendre soin des équipements qui lui sont confiés ;
 - à avertir immédiatement la Société en cas de panne ou de mauvais fonctionnement des équipements de travail.
 
-En cas de besoin d'intervention sur l'équipement par un expert technique, le membre de l’équipe contactera l'équipe informatique via le canal Slack #it_help ou en ouvrant un Issue dans le Team Member Enablement Issue Tracker.  
+En cas de besoin d'intervention sur l'équipement par un expert technique, le membre de l’équipe contactera l'équipe informatique via le canal Slack #it_help ou en ouvrant un Issue dans le Team Member Enablement Issue Tracker.
 
 Le membre de l’équipe s'engage à prendre connaissance des consignes d'utilisation des équipements qui lui ont été données et à les respecter scrupuleusement sous peine de sanctions pouvant aller jusqu'au licenciement.
 
@@ -189,13 +174,13 @@ GitLab’s all-remote approach promotes hiring and working from all over the wor
 
 As a consequence, any and all team members employed by GitLab France S.A.S. (hereafter “the Company”) are doing remote work on a 100% basis.
 
-The present charter (hereinafter the "Charter") has been drawn up in order to implement and supervise remote work within the Company in accordance with the applicable legal framework.  
+The present charter (hereinafter the "Charter") has been drawn up in order to implement and supervise remote work within the Company in accordance with the applicable legal framework.
 
 #### 1. DEFINITION AND SCOPE OF APPLICATION
 
 Remote work is any form of work organisation in which work that could have been carried out on the Company's premises is carried out by a team member outside these premises using information and communication technologies.
 
-Fully remote work is one of the Company’s hiring conditions. 
+Fully remote work is one of the Company’s hiring conditions.
 
 This means that the Company does not have any Company premises and any and all team members do not have access to company premises/Company work spaces in order to carry out their duties for the Company.
 
@@ -215,15 +200,15 @@ Any and all remote work locations have to be situated on French territory.
 
 3.1 *Conformity of the place of remote work*
 
-In the case of domicile-based remote work, the team member must provide a workspace that complies with the rules relating to health, safety and working conditions and accepts that a representative of the Company checks the compliance of their accommodation. 
+In the case of domicile-based remote work, the team member must provide a workspace that complies with the rules relating to health, safety and working conditions and accepts that a representative of the Company checks the compliance of their accommodation.
 A summary of the applicable requirements is annexed to the Charter.
 The team member will be notified of the dates and times of the inspection at least 5 working days in advance.
 
 In addition, the remote workplace has to comply with the requirements regarding the conformity of the electrical installations. In this context and prior to the start date, the team member must provide a recent electrical diagnosis or, failing that, a certificate on honour of the conformity of the electrical installation of the remote work place.
 
-The team member may organise a diagnosis himself or herself (the costs incurred will be paid by the Company on presentation of respective proof). 
+The team member may organise a diagnosis himself or herself (the costs incurred will be paid by the Company on presentation of respective proof).
 
-In the event of relocation, the team member undertakes to notify the Company and to inform it of their new address. The new domicile may also be subject to a compliance check. In addition, the conformity of the electrical installations must be demonstrated as specified above. 
+In the event of relocation, the team member undertakes to notify the Company and to inform it of their new address. The new domicile may also be subject to a compliance check. In addition, the conformity of the electrical installations must be demonstrated as specified above.
 
 In case of remote work in a third place, the team member undertakes to provide a declaration on their honour on the conformity of the electrical installation of this remote workplace, the respect of the rules relating to health, safety and working conditions (in particular in terms of ergonomics, lighting, etc.) and the coverage of this place by an insurance as per article 7 of the Charter. This declaration must be provided prior to taking up the remote workplace.
 
@@ -237,7 +222,7 @@ Remote work is open to disabled workers in the following ways:
 - Installation of special software;
 - Adaptation of the working environment.
 
-The [reasonable accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) section of the Company handbook provides complementary information.
+The [reasonable accommodation]({{< ref "inc-usa#reasonable-accommodation" >}}) section of the Company handbook provides complementary information.
 
 #### 4. ORGANISATION OF THE WORKING TIME
 
@@ -253,7 +238,7 @@ During the period of remote work, the team member is free to organise their work
 
 For each day of remote work, the team member shall work the applicable reference working time. Where applicable, remote work may not generate any overtime, except at the express request of the management.
 
-For remote work days, the working time is counted according to a self-reporting system, the monthly balance of which must be submitted to the manager without request at the end of each month. The Payroll handbook page provides more information in this regard with the [Global Upside - France](https://about.gitlab.com/handbook/finance/payroll/#global-upside---france) section. 
+For remote work days, the working time is counted according to a self-reporting system, the monthly balance of which must be submitted to the manager without request at the end of each month. The Payroll handbook page provides more information in this regard with the [Global Upside - France](https://about.gitlab.com/handbook/finance/payroll/#global-upside---france) section.
 
 5.2 *Modalities for work load regulation*
 
@@ -268,11 +253,12 @@ Regardless of any readjustments during the year, the evolution of the team membe
 The Company provides and/or reimburses for the equipment necessary for the team member's activity.
 
 The equipment provided consists of the following items:
-- A laptop computer; 
+
+- A laptop computer;
 - Any software necessary for the performance of the contractual obligations;
 - A screen if required;
 - A keyboard/mouse, if required;
-- A desk/ergonomic chair, if required, 
+- A desk/ergonomic chair, if required,
 - A printer, if required.
 
 The team member undertakes:
@@ -280,7 +266,7 @@ The team member undertakes:
 - to take care of the equipment entrusted to them;
 - to notify the Company immediately in the event of a breakdown or malfunction of the work equipment.
 
-In the event of a need for intervention on the equipment by a technical expert, the team member will contact the IT team via the #it_help Slack channel or by opening an issue in the Team Member Enablement Issue Tracker.  
+In the event of a need for intervention on the equipment by a technical expert, the team member will contact the IT team via the #it_help Slack channel or by opening an issue in the Team Member Enablement Issue Tracker.
 
 The team member undertakes to take note of the instructions for use of the equipment given to them and to comply with them scrupulously under penalty of sanctions which may include dismissal.
 
@@ -336,7 +322,7 @@ In the event of a conflict between the French and English version of the Charter
 
 A PDF of the current version of the Charter is available [here](https://drive.google.com/file/d/1wWR8BnRFwmZURjYLHFE5_zzHh_UJB28u/view?usp=drive_link). If/when the Charter is updated, PDFs of previous versions will be made available here for transparency.
 
-- [2021 version is available here](https://drive.google.com/file/d/1rIpcgcXNVDiAyhTPnBIDohItxUwzFb3D/view?usp=drive_link). 
+- [2021 version is available here](https://drive.google.com/file/d/1rIpcgcXNVDiAyhTPnBIDohItxUwzFb3D/view?usp=drive_link).
 
 
 

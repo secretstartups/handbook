@@ -1,13 +1,7 @@
 ---
-layout: handbook-page-toc
 title: United States Leave of Absence Policies
 description: "GitLab's United States Leave of Absence policies."
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 These GitLab and US-specific leave policies are intended to provide team members time away from work to care for themselves as they recover from a serious health condition, care for a family member recovering from a serious health condition, or to bond with a newborn or a newly placed child for adoption.
 
@@ -16,6 +10,7 @@ This page is designed to educate our team members about the different US-specifi
 Taking time away can be confusing, so your Absence Managment team is here and available to help before, during, or after your leave. If you have any questions related to your time away after reviewing this page, please contact leaves@domain to discuss or request a 1:1 with the Absence Management team.
 
 ## Which leave is right for me?
+
 Below are the GitLab and US-specific leave policies available to US team members, as well as common examples of how each leave may be used. This list may not be all inclusive, so if you have questions regarding which leave may be right for you please contact leaves@domain.
 
 | Leave Program | Description | Eligibility |
@@ -34,9 +29,9 @@ Below are the GitLab and US-specific leave policies available to US team members
 
 | Leave Program | Total Time Off | Job Protection |
 |:---:|:---:|:---:|
-| [Parental Leave](/handbook/people-policies/leave-of-absence/us/#parental-leave) | 16 weeks | Yes* |
-| [Family Medical Leave Act<br>(FMLA- Own Condition)](/handbook/people-policies/leave-of-absence/us/#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
-| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](/handbook/people-policies/leave-of-absence/us/#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
+| [Parental Leave](#parental-leave) | 16 weeks | Yes* |
+| [Family Medical Leave Act<br>(FMLA- Own Condition)](#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
+| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#gitlab-inc-united-states-leave-policy) | Up to 12 weeks | Yes* |
 | [California Family Rights Act (CFRA)](https://www.edd.ca.gov/disability/faqs-fmla-cfra.htm) | Up to 12 weeks** | Yes |
 | Military Leave (USERRA) | Cumulative 5 years | Yes, up to 5 years* |
 | Unpaid Personal Leave | Up to 30 days<br>Requests in excess of 30 days require functional VP and group People Business Partner approval | No |
@@ -47,36 +42,42 @@ Below are the GitLab and US-specific leave policies available to US team members
 
 | Leave Program | Pay Calculations |
 |:---:|:---:|
-| [Parental Leave](/handbook/people-policies/leave-of-absence/us/#payroll-processing-during-parental-leave) | 100% paid by GitLab (minus any State Disability and/or Paid Family Leave benefits) |
-| [Family Medical Leave Act<br>(FMLA - Own Condition)](/handbook/people-policies/leave-of-absence/us/#payroll-processing-during-fmla) | 66.67% (STD) + 33.3% paid by GitLab per week<br>After 12 weeks:  <br>     66.67% (LTD) per month |
-| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](/handbook/people-policies/leave-of-absence/us/#gitlab-inc-united-states-leave-policy) | 100% for up to 25 working days
+| [Parental Leave](#payroll-processing-during-parental-leave) | 100% paid by GitLab (minus any State Disability and/or Paid Family Leave benefits) |
+| [Family Medical Leave Act<br>(FMLA - Own Condition)](#payroll-processing-during-fmla) | 66.67% (STD) + 33.3% paid by GitLab per week<br>After 12 weeks:  <br>     66.67% (LTD) per month |
+| [Family Medical Leave Act<br>(FMLA - Care for a Family Member)](#gitlab-inc-united-states-leave-policy) | 100% for up to 25 working days
 | California Family Rights Act<br>(CFRA) | First 8 weeks:  60% (SDI/PFL) + 6.66% (STD) + 33.3% paid by GitLab<br>8-12 weeks:  60% (SDI - if applicable) + 6.66% (STD) + 33.3% paid by GitLab<br>After 12 weeks:  66.67% LTD paid by Cigna monthly (if eligible) |
-| [Military Leave (USERRA)](/handbook/people-policies/leave-of-absence/us/#compensation) | First 25 days:  paid 100% by Gitlab<br>After 25 days:  Unpaid |
+| [Military Leave (USERRA)](#compensation) | First 25 days:  paid 100% by Gitlab<br>After 25 days:  Unpaid |
 | Unpaid Personal Leave | Unpaid |
 
-If you live in a state where disability or paid family leave benefits are available, GitLab will offset your pay minus these benefits. Please refer to GitLab's [Parental Leave](/handbook/people-policies/leave-of-absence/us/#payroll-processing-during-parental-leave) policy for more information.
+If you live in a state where disability or paid family leave benefits are available, GitLab will offset your pay minus these benefits. Please refer to GitLab's [Parental Leave](#payroll-processing-during-parental-leave) policy for more information.
 
 ## What Happens Next?
-Team members can use this [checklist](https://docs.google.com/document/d/1NCf6NcDkSn5TlBcPLnP0eyjxIWOQ5lVfRVR_cvdZ9zI/edit?usp=sharing) as a reference for what steps to complete before, during, and after you return from leave. For questions specific to your leave or pay, please contact `leaves@domain`. _This checklist is currently in its first iteration. Please continue to check back for updates._
+
+Team members can use this [checklist](https://docs.google.com/document/d/1NCf6NcDkSn5TlBcPLnP0eyjxIWOQ5lVfRVR_cvdZ9zI/edit?usp=sharing) as a reference for what steps to complete before, during, and after you return from leave. For questions specific to your leave or pay, please contact `leaves@domain`. *This checklist is currently in its first iteration. Please continue to check back for updates.*
 
 ### State-Specific Leaves
+
 Each US state varies when it comes to types of leave employers are required to allow employees to take. Employees of GitLab Inc. are eligible for our paid time off policy and our Sick Time policy; which will run concurrently with any State or FMLA leave entitlement. Please refer to the [Sick Time Procedures - USA](/handbook/paid-time-off/#sick-time-procedures---usa) or [Paid Time Off](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off) policy for more information.
 
 ### The Family Medical Leave Act (FMLA)
-The Family Medical Leave Act [FMLA](https://www.dol.gov/agencies/whd/fmla) provides eligible U.S team members up to 12-weeks, or up to 26- workweeks (in one 12 month period to care for an injured service member), unpaid time away from work for their own serious health condition, to care for a family member with a serious health condition, or to bond with a newborn or newly adopted child.  FMLA eligible leave time can be taken in continuous segments or intermittently as certified by a physician.  If FMLA is used to bond with a child, or newly adopted child, all eligible time must be used prior to the child’s first birthday or date of adoption. For more information  please see [Employee Rights Under the Family Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf). 
+
+The Family Medical Leave Act [FMLA](https://www.dol.gov/agencies/whd/fmla) provides eligible U.S team members up to 12-weeks, or up to 26- workweeks (in one 12 month period to care for an injured service member), unpaid time away from work for their own serious health condition, to care for a family member with a serious health condition, or to bond with a newborn or newly adopted child.  FMLA eligible leave time can be taken in continuous segments or intermittently as certified by a physician.  If FMLA is used to bond with a child, or newly adopted child, all eligible time must be used prior to the child’s first birthday or date of adoption. For more information  please see [Employee Rights Under the Family Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf).
 
 Team members must have 12 months of continuous service and 1250 hours worked in the year immediately before the start of their leave to be eligible for FMLA leave.  Working hours are calculated as actual hours worked and does not include PTO or vacation time.  GitLab calculates FMLA eligibility as a “rolling” 12-month period measured backward from the date of any FMLA leave usage. (Each time a team member takes FMLA leave, the remaining leave is the balance of the 12 weeks not used during the 12 months immediately before the FMLA leave is to start.)   All FMLA entitled leave will run concurrently with any State specific leave and disability or paid family leave programs (if applicable), GitLab's sick leave policy (including COVID leave), and/or Short-Term disability benefits.  GitLab’s Flexible PTO policy can not be used to delay, extend, or in lieu of FMLA.
 
 #### How to Apply:
+
 Any medical related absence (for yourself or a family member) requiring you to be away from work for at least 3 but no more than 5 days (either continuously or non-continuous but related to the same condition) must be reported to leaves@domain. You will be contacted within 24-48 business hours (whenever possible) and provided with information regarding your request.  If approved, please submit your time away via Time Off by Deel request utilizing the `Out Sick` option.
 
 #### Payroll Processing During FMLA
+
 The Absence Management team will review the team members eligibility for Short-Term Disability benefits, State pay benefits, and/or GitLab's Sick Time policy, and will communicate how the team member can expect to receive their pay while on leave.
 
 ### California Family Rights Act (CFRA)
+
 GitLab will grant time off to eligible team members in accordance with the requirements of the California Family Rights Act (“CFRA”) and the federal Family and Medical Leave Act (Fed-FMLA). Where both the CFRA and Fed-FMLA apply, the leave provided by each will count against the team member’s entitlement under both laws and must be taken concurrently. A team member who is eligible for leave under only one of these laws will receive benefits in accordance with that law only. In any case, team members will be eligible for the most generous benefits available under applicable law.
 
-The following policy addresses team member rights under the CFRA only. Team members should refer to [GitLab’s Team Member Handbook](/handbook/people-policies/leave-of-absence/us/#gitlab-inc-united-states-leave-policy) for additional detail regarding the Fed-FMLA. All questions concerning this policy should be directed to leaves@domain.
+The following policy addresses team member rights under the CFRA only. Team members should refer to [GitLab’s Team Member Handbook](#gitlab-inc-united-states-leave-policy) for additional detail regarding the Fed-FMLA. All questions concerning this policy should be directed to leaves@domain.
 
 **Team Member Eligibility**
 
@@ -86,22 +87,14 @@ To be eligible for CFRA leave, team members who reside in California must have b
 
 Eligible team members may request leave under the CFRA for one or more of the following reasons:
 
-*For the birth of a team member's child or the placement of a child with the team member for foster care or adoption, so long as the leave is completed within 12 months of the birth or placement of the child;
-
-*To care for the team member's spouse or registered domestic partner, child (regardless of age or dependency status), parent, grandparent, grandchild, or sibling, with a serious health condition;
-
-*For the team member's own serious health condition, except for disability from pregnancy, childbirth or a related medical condition; or
-
-*For a qualifying exigency related to the covered active duty or call to covered active duty of an team member’s spouse, domestic partner, child, or parent in the Armed Forces of the United States;
-
-For purposes of this policy, a "parent" includes a biological, foster or adoptive parent, a stepparent, parent-in-law, a legal guardian or other person who stood in loco parentis to the employee when the employee was a child.
-
-"Serious health condition" means an illness, injury (including, but not limited to, on-the-job injuries), impairment or physical or mental condition that involves either:
-
-*Inpatient care (including, but not limited to, substance abuse treatment) in a hospital, hospice or residential medical care facility, including any period of incapacity (that is, inability to work, attend school or perform other regular daily activities) or any subsequent treatment in connection with this inpatient care; or
-
-*Continuing treatment (including, but not limited to, substance abuse treatment) or continuing supervision by a health care provider that includes one or more of the following:
-
+- For the birth of a team member's child or the placement of a child with the team member for foster care or adoption, so long as the leave is completed within 12 months of the birth or placement of the child;
+- To care for the team member's spouse or registered domestic partner, child (regardless of age or dependency status), parent, grandparent, grandchild, or sibling, with a serious health condition;
+- For the team member's own serious health condition, except for disability from pregnancy, childbirth or a related medical condition; or
+- For a qualifying exigency related to the covered active duty or call to covered active duty of an team member’s spouse, domestic partner, child, or parent in the Armed Forces of the United States;
+    - For purposes of this policy, a "parent" includes a biological, foster or adoptive parent, a stepparent, parent-in-law, a legal guardian or other person who stood in loco parentis to the employee when the employee was a child.
+    - "Serious health condition" means an illness, injury (including, but not limited to, on-the-job injuries), impairment or physical or mental condition that involves either:
+- Inpatient care (including, but not limited to, substance abuse treatment) in a hospital, hospice or residential medical care facility, including any period of incapacity (that is, inability to work, attend school or perform other regular daily activities) or any subsequent treatment in connection with this inpatient care; or
+- Continuing treatment (including, but not limited to, substance abuse treatment) or continuing supervision by a health care provider that includes one or more of the following:
     - A period of incapacity (that is, inability to work, attend school or perform other regular daily activities due to a serious health condition, its treatment or the recovery that it requires) of more than three consecutive calendar days, and any subsequent treatment or period of incapacity relating to the same condition, that also involves treatment two or more times via an in-person visit to a health care provider, or at least one visit to a health care provider that results in a regimen of continuing treatment under the supervision of the health care provider;
     - Any period of incapacity or treatment for incapacity due to a chronic serious health condition that requires periodic visits to a health care provider, continues over an extended period of time and may cause episodic incapacity;
     - A period of incapacity that is permanent or long-term due to a condition for which treatment may not be effective, such as Alzheimer's, a severe stroke and the terminal stages of a disease; or
@@ -148,9 +141,10 @@ At the Company's expense, the Company may also require a second medical opinion 
 **Qualifying Exigency Leave Requirements**
 
 Team members are required to provide:
-*As much advance notice as is reasonable and practicable under the circumstances;
-*A copy of the covered servicemember's active duty orders when the team member requests leave and/or documentation (such as Rest and Recuperation leave orders) issued by the military setting forth the dates of the servicemember's leave; and
-*A completed Certification of Qualifying Exigency form within 15 calendar days, unless unusual circumstances exist to justify providing the form at a later date.
+
+- As much advance notice as is reasonable and practicable under the circumstances;
+- A copy of the covered servicemember's active duty orders when the team member requests leave and/or documentation (such as Rest and Recuperation leave orders) issued by the military setting forth the dates of the servicemember's leave; and
+- A completed Certification of Qualifying Exigency form within 15 calendar days, unless unusual circumstances exist to justify providing the form at a later date.
 
 Certification forms are available from the Absence Management team (leaves@gdomain).
 
@@ -183,6 +177,7 @@ Fraudulent Use of CFRA Leave Prohibited
 A team member who fraudulently obtains CFRA Leave from the Company is not protected by the CFRA’s job restoration or maintenance of health benefits provisions. In addition, the Company will take all available appropriate disciplinary action against a team member due to such fraud.
 
 **Nondiscrimination**
+
 The Company takes its CFRA leave obligations very seriously and will not interfere with, restrain or deny the exercise of any rights provided by the CFRA. We will not terminate or discriminate against any individual for exercising their right to family and medical leave under the CFRA or for giving information or testimony regarding their own or another person’s leave in an inquiry or proceeding related to rights under the CFRA. If a team member believes that their CFRA rights have been violated in any way, they should immediately report the matter to Team Member Relations.
 
 Team members should contact leaves@domain as to any CFRA questions they may have.
@@ -190,34 +185,45 @@ Team members should contact leaves@domain as to any CFRA questions they may have
 ### New York Paid Family Leave (NYPFL)
 
 **Paid Family Leave Overview**
+
 New York Paid Family Leave provides job-protected, paid time off so you can:
-    * Bond with a newly born, adopted or fostered child,
-	* Care for a close relative with a serious health condition, or
-	* Assist with family situations when a family member is deployed abroad on active military service.
+
+- Bond with a newly born, adopted or fostered child,
+- Care for a close relative with a serious health condition, or
+- Assist with family situations when a family member is deployed abroad on active military service.
+
 Paid Family Leave may also be available for use in situations when you or your minor dependent child are under an order of quarantine or isolation due to COVID-19. See PaidFamilyLeave.ny.gov/COVID19 for full details.
 
 **Benefits**
+
 Eligible employees may take up to 12 weeks of leave. This leave can be taken either all at once or intermittently, but must be taken in full-day increments. You may take the maximum time-off benefit in any given 52-week period.
 
 **Pay**
+
 Paid Family Leave benefits provide 67% of your average weekly wage, capped at the same percentage of the New York State Average Weekly Wage. Visit PaidFamilyLeave.ny.gov for information on this year’s maximum weekly benefit, as well as a calculator to estimate your own benefits.
-    * EXAMPLE: An employee who earns $1,000 a week would receive a benefit of $670 a week.
+
+- EXAMPLE: An employee who earns $1,000 a week would receive a benefit of $670 a week.
 
 **Eligibility**
+
 All eligible employees are entitled to participate in Paid Family Leave. Employees are eligible regardless of citizenship and/or immigration status.
-	* Full-time employees: Employees who work a regular schedule of 20 or more hours per week are eligible after 26 consecutive weeks of employment.
-	* Part-time employees: Employees who work a regular schedule of less than 20 hours per week are eligible after working 175 days, which do not need to be consecutive.
+
+- Full-time employees: Employees who work a regular schedule of 20 or more hours per week are eligible after 26 consecutive weeks of employment.
+- Part-time employees: Employees who work a regular schedule of less than 20 hours per week are eligible after working 175 days, which do not need to be consecutive.
 
 **Funding**
+
 Paid Family Leave is funded through employee payroll contributions that are set each year to match the cost of coverage. The rate of employee contributions is reviewed annually, and is subject to change by the New York State Department of Financial Services. Visit PaidFamilyLeave.ny.gov for information on this year’s employee contribution rate, as well as a calculator to estimate your own payroll contributions.
 
 **Qualifying Events**
+
 **New Child:** You can take Paid Family Leave during the first 12 months following the birth, adoption, or fostering of a child. Expectant mothers cannot take Paid Family Leave for their own pregnancy. Paid Family Leave for the birth of a child begins after the birth. It is not available for prenatal conditions.
 
 **Serious Illness:** You can take Paid Family leave to care for a family member with a serious health condition. These relatives can live outside of New York State and even outside the country. You cannot take Paid Family Leave for your own health condition.
 A serious health condition is an illness, injury, impairment, or physical or mental condition that involves:
-	* Inpatient care in a hospital, hospice, or residential health care facility, or
-	* Continuing treatment or continuing supervision by a health care provider
+
+- Inpatient care in a hospital, hospice, or residential health care facility, or
+- Continuing treatment or continuing supervision by a health care provider
 
 A family member includes:  Spouse, Domestic Partner, child and stepchild, Parent and stepparent, Parent-in-law, Grandparent, Grandchild, and effective 2023 Sibling (biological, adopted, half, and step).
 
@@ -226,26 +232,33 @@ A family member includes:  Spouse, Domestic Partner, child and stepchild, Parent
 **COVID-19 Quarantine:** Paid Family Leave may also be available for use in situations when you or your minor dependent child are under an order of quarantine or isolation due to COVID-19. See PaidFamilyLeave.ny.gov/COVID19 for full details.
 
 **Your Rights and Protections**
-    * You have job protection, ensuring you can return to the same job (or a comparable one) when you return from Paid Family Leave.
-    * You can keep your health insurance while on leave. If you contribute to the cost of your health insurance, you must continue to pay your portion of the premium cost while on leave.
-    * Your employer is prohibited from discriminating or retaliating against you for requesting or taking Paid Family Leave.
+
+- You have job protection, ensuring you can return to the same job (or a comparable one) when you return from Paid Family Leave.
+- You can keep your health insurance while on leave. If you contribute to the cost of your health insurance, you must continue to pay your portion of the premium cost while on leave.
+- Your employer is prohibited from discriminating or retaliating against you for requesting or taking Paid Family Leave.
 
 **Taking Paid Family Leave**
+
 1. Notify your employer. When you want to take Paid Family Leave, you must notify your employer at least 30 days before your leave will start if it’s foreseeable. Otherwise, notify your employer as soon as possible.
-2. Obtain required forms. Contact your employer, employer’s insurance carrier, or visit PaidFamilyLeave.ny.gov to obtain the required forms.
-3. Complete and attach: The Request For Paid Family Leave (Form PFL-1) has sections that need to be completed by you and by your employer. Fill out your section, make a copy and give the form to your employer to fill out Part B. Your employer is required to return Form PFL-1 to you within three business days. If there is a delay, you do not have to wait to proceed. Send the Form PFL-1 that you have filled out, along with the rest of your request package, directly to your employer’s insurance carrier.
-4. Obtain and attach supporting documentation. The specific documentation or additional forms required for each type of leave are described on the request for Paid Family Leave and at PaidFamilyLeave.ny.gov/Apply.
-5. Submit your request forms and supporting documentation. You must submit your completed request package to your employer’s insurance carrier within 30 days after the start of your leave to avoid losing benefits. In most cases, the insurance carrier must pay or deny benefits within 18 calendar days of receiving your completed request or your first day of leave, whichever is later.
+1. Obtain required forms. Contact your employer, employer’s insurance carrier, or visit PaidFamilyLeave.ny.gov to obtain the required forms.
+1. Complete and attach: The Request For Paid Family Leave (Form PFL-1) has sections that need to be completed by you and by your employer. Fill out your section, make a copy and give the form to your employer to fill out Part B. Your employer is required to return Form PFL-1 to you within three business days. If there is a delay, you do not have to wait to proceed. Send the Form PFL-1 that you have filled out, along with the rest of your request package, directly to your employer’s insurance carrier.
+1. Obtain and attach supporting documentation. The specific documentation or additional forms required for each type of leave are described on the request for Paid Family Leave and at PaidFamilyLeave.ny.gov/Apply.
+1. Submit your request forms and supporting documentation. You must submit your completed request package to your employer’s insurance carrier within 30 days after the start of your leave to avoid losing benefits. In most cases, the insurance carrier must pay or deny benefits within 18 calendar days of receiving your completed request or your first day of leave, whichever is later.
 
 **Paid Family Leave Process and Contacts**
+
 At GitLab, requests for Paid Family Leave forms and forms submissions should be directed to the Absence Management Team (leaves@domain).  Our Paid Family Leave carrier is Cigna as a subsidiary of NYLife.
 
 **Disputes**
+
 If your Paid Family Leave claim is denied, the insurance carrier will provide you with information about how to request arbitration. A neutral arbitrator will decide claim-related disputes. Contact Cigna a subsidiary of NYLife.
 
 **Discrimination Complaints**
-Employees are protected from discrimination and retaliation for requesting or taking Paid Family Leave. If your employer terminates your employment, reduces your pay and/or benefits, or disciplines you in any way as a result of you requesting or taking Paid Family Leave, send your employer’s designated Paid Family Leave contact a formal request for job reinstatement using the Formal Request For Reinstatement Regarding Paid Family Leave (Form PFL-DC-119), which can be found in the forms section of PaidFamilyLeave.ny.gov. File the completed form with your employer and send a copy to: 
-    Paid Family Leave, P. O. Box 9030, Endicott, NY 13761-9030
+
+Employees are protected from discrimination and retaliation for requesting or taking Paid Family Leave. If your employer terminates your employment, reduces your pay and/or benefits, or disciplines you in any way as a result of you requesting or taking Paid Family Leave, send your employer’s designated Paid Family Leave contact a formal request for job reinstatement using the Formal Request For Reinstatement Regarding Paid Family Leave (Form PFL-DC-119), which can be found in the forms section of PaidFamilyLeave.ny.gov. File the completed form with your employer and send a copy to:
+
+> Paid Family Leave, P. O. Box 9030, Endicott, NY 13761-9030
+
 If your employer fails to comply with the request for reinstatement within 30 days, you may file a Paid Family Leave discrimination complaint with the Workers’ Compensation Board using Paid Family Leave Discrimination Complaint (Form PFL-DC-120), which is also available on the Paid Family Leave website. Once your complaint is received, the Board will assemble your case and schedule a preliminary hearing in front of a Workers’ Compensation Law Judge.
 
 ## Other Leave Types By State
@@ -296,7 +309,7 @@ Team members needing **3 or more consecutive business days** away from work due 
 
 Team Members should report their Military Service in Time Off by Deel by selecting the `Mandatory Civilian Service` option.
 
-* Note: For absences resulting in more than 3 consecutive business days away from work, team members will need to provide a copy of your orders as soon as you receive them. Please email your orders to leaves@domain.
+- Note: For absences resulting in more than 3 consecutive business days away from work, team members will need to provide a copy of your orders as soon as you receive them. Please email your orders to leaves@domain.
 
 **No Retaliation**
 
