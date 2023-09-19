@@ -17,7 +17,6 @@ Select Partners and their end customers can contact us by submitting a ticket th
 
     End Customers of Partners:
         If the end customers would prefer to open a ticket directly with GitLab Support then they can also use the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) page and select the appropriate form for their problem.
-       
 The only requirement for submitting a new ticket is that you must first register on the [GitLab Support Portal](https://about.gitlab.com/support/portal/).
 
 **Note to Support**: Never associate a customer to a Select Partner's organization, or vice-versa!
