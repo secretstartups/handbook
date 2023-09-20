@@ -41,10 +41,10 @@ The Field Communications team will evaluate each request at the given point in t
 1. **Relevancy:** The announcement directly affects Field team members ability to perform selling-related job duties. 
 1. **Urgency:** The announcement and/or action required is time-bound and/or aligned to a company/CRO OKR.
 
-![Field Comms Tiers](~/sites/handbook/source/handbook/sales/field-communications/field-comms-tiers-2023.png)
+![Field Comms Tiers](field-comms-tiers-2023.png)
 
 
-![Field Comms Formula](~/sites/handbook/source/handbook/sales/field-communications/field-comms-formula-2023.png)
+![Field Comms Formula](field-comms-formula-2023.png)
 
 **For T1 and T2 announcements, Field Communications enacts a Manager Cascade motion to ensure Field people leaders are properly informed and enabled on major initiatives ahead of their team members.**
 
