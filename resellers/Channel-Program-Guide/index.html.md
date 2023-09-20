@@ -41,7 +41,7 @@ GitLab is experiencing tremendous growth, which translates to incredible opportu
 | Investment in Partner Success               | \- Portal for enablement resources and deal management<br><br>\- Sales training and resources<br><br>\- Services training and service framework guidance<br><br>\- Customer adoption guidance<br><br>\- Webinars focusing on sales, services, and adoption success<br><br>\- Not-for-Resale (NFR) licenses, for your labs and demos |
 
 
-
+### GitLab Partner Program Requirements and Benefits 
 |                                                                                                            | GitLab Open                                                                                                                                                                                                                                | GitLab Select<br>(Invitation only) |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
 | Overall Program Requirements                                                                               |                                                                                                                                                                                                                                            |                                    |
