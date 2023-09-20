@@ -22,10 +22,10 @@ graph TD
     B -->|Yes| D{Does the ticket have an SLA?}
     B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
-    D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
+    D -->|No| F[Contact Support Ops!]
     J --> |No| E[Contact Support Ops!]
     J --> |Yes| I[Does it qualify for Support?]
-    I --> |No| K[Set form to 'Community']
+    I --> |No| K[See 'Handling Free User tickets' section below]
     I --> |Yes| E
 ```
 
@@ -41,8 +41,7 @@ Below is a list of some commonly used Zendesk forms with a brief explanation reg
 - SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
 - SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - L&R (License and Renewals): subscription and purchase issues, see also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
-- Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support/#free-users). See [Handling Free User tickets](#handling-free-user-tickets) for further instructions on how to handle free user tickets.
-- Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
+- Level Up: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
 
 **Please note:** It's recommended to always use the `General::Forms::Incorrect form used` macro to *change* the ticket form, unless it's between Self-Managed, SaaS (GitLab.com) and SaaS Account.
 
@@ -59,7 +58,7 @@ For cases that need to go to non-support forms, apply the `General::Forms::Incor
 Free Users who are reporting Self-Managed or SaaS issues
 
 1. Triage the Free User ticket and verify if they are a SaaS user who meets the support criteria outlined in the [free users section of the statement of support](https://about.gitlab.com/support/statement-of-support/#free-users).
-1. If they do not meet the above criteria or the ticket is for a self-managed Free User, tickets that are `New` can be moved to the `Community` form, which will activate the [`Ticket::FRT and NRT Stage::Autoreply to Community tickets`](https://gitlab.com/search?group_id=2573624&repository_ref=master&scope=blobs&search=id%3A+5475841891484&snippets=false) trigger (responds and solves the ticket). If the ticket is `Open`, then direct the customer to the [GitLab community forum](https://forum.gitlab.com/) via the ["Self-managed or GitLab.com Free User Request" macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=15990755&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&search=id%3A+360044960813) and mark it "Solved”. If you wish to provide technical assistance to the user, then please do so via the [GitLab community forum](https://forum.gitlab.com/).
+1. If they do not meet the above criteria or the ticket is for a self-managed Free User, in `New` tickets you can select `Free customer` in `Self-Managed Subscription` dropdown, which will activate the [`Auto-close free and self-provisioned trial SM tickets`](https://gitlab.com/search?group_id=2573624&repository_ref=master&scope=blobs&search=id%3A+5475833679900&snippets=false) trigger (responds and solves the ticket). If the ticket is `Open`, then direct the customer to the [GitLab community forum](https://forum.gitlab.com/) via the ["Self-managed or GitLab.com Free User Request" macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=15990755&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&search=id%3A+360044960813) and mark it "Solved”. If you wish to provide technical assistance to the user, then please do so via the [GitLab community forum](https://forum.gitlab.com/).
 
 Free Users who are reporting L&R issues
 
