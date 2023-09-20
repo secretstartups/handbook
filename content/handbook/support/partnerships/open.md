@@ -16,25 +16,16 @@ transacting partners, and can earn product discounts or referral fees.
 
 ## Contacting Support
 
-Open Partners may contact us on behalf of one of their customers by submitting
-a ticket. To ensure proper
-ticket routing, which helps to prevent first response delays, they should:
+Open Partners and their end customers can contact us by submitting a ticket through the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) form. To ensure efficient ticket handling and prevent any delays in receiving the first response, they have two options:
 
-1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000818199)
-1. verify that the customer already has a contact record in Salesforce that is
-   associated with the correct account record
+   - Open Partners:
+      - If the Open Partner is opening a ticket on behalf of a customer or themselves then they can use the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) page and select the appropriate form for their problem.
+   - End Customers of Partners:
+      - If the end customers would prefer to open a ticket directly with GitLab Support then they can also use the [Submit a Request](https://support.gitlab.com/hc/en-us/requests/new) page and select the appropriate form for their problem.
 
-Zendesk will use the information in the form to change the `requester` field to
-contain the name of the partner's customer. The reason for this is that GitLab
-Support works directly with an Open Partner's customer, using the customer's
-support plan level, **not the partner's**.
+The only requirement for submitting a new ticket is that you must first register on the [GitLab Support Portal](https://about.gitlab.com/support/portal/).
 
-If an Open Partner wants to be involved in a ticket, they should indicate that
-within the `Description` of the ticket when they are submitting it. In
-response, we will add them to the CC list of the ticket.
-
-**Note to Support**: Never associate a customer to an Open Partner's
-organization, or vice-versa!
+**Note to Support**: Never associate a customer to a Select Partner's organization, or vice-versa!
 
 ## File uploads
 
