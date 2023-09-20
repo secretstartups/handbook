@@ -76,20 +76,29 @@ Anyone can [open an SM request](https://gitlab.com/gitlab-com/marketing/strategi
 1. **Can we update/create a new video to address a different persona/theme?** \
 Switching a demo to a different persona usually should mean a new demo/video, as changing the target persona should result in changes in the pain points and story, and hence likely the video/screenshots that are shown. It is certainly possible that the existing footage can fit a new persona's story, or that we can change the story to include multiple personas. But more likely than not, if this is easy to do to an existing demo then it is probably because it wasn't properly focused on a persona in the first place. 
 
-#### Presentations and Lightning talks
-Authored and delivered at conferences, for internal enablement, for example. To-be-continued.
+### Presentations
 
-#### Blog posts
-Authored and published on the GitLab blog site. To-be-continued.
+Presentations are prepared and delivered at conferences, meetups, or any relevant event, often in the form of slides.
 
-#### Webinars/Webcasts
-Authored and delivered (live or pre-recorded or semu-live) from the GitLab webinar platform to customers/prospects. To-be-continued.
+### Lightning talks
 
-#### Click-through demos
-Authored to be used with prospects/customers and at conferences. To-be-continued.
+Fast-paced presentations that last for a few minutes to spark new conversations and collaborations. These are commonly requested for the GitLab booth at conferences sponsored by the [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) team. Where slides are used, they are often not more than 5 slides.
 
-#### Tutorials (self-paced or instructor-led)/ How-to's
-Authored to be used with prospects/customers. Hosted within GitLab platform. To-be-continued.
+### Blog posts
+
+Blog posts are informative or descriptive articles that present an idea or viewpoint. Blog posts are mainly for awareness, without necessarily going into the details of how the idea presented can be achieved. Blog posts are published on the GitLab blog, third-party blogs or personal websites.
+
+### Webinars/Webcasts
+Presentations delivered to an audience online, who can be customers or prospects. Webinars are typically lead by the [Campaigns](/handbook/marketing/demand-generation/campaigns/) team. Webinars are often demonstrative in nature. 
+
+### Click-through demos
+Click-through demos are content that visually walks users through the features of a product. They are used to educate prospects and customers at events or self-paced.
+
+### Tutorials (self-paced or instructor-led)/ How-to's
+A tutorial is a step-by-step demonstration of the process to complete a workflow or task. It not only informs the reader but teaches by example and supplies the information needed to complete a certain task. A tutorial can be delivered interactively online or physically, in a long-form blog post, or a video.
+
+
+
 ## Chat, say hi, quick question
 Slack channel: [#dev-evangelism-and-technical-marketing](https://gitlab.slack.com/archives/CMELFQS4B)
 
