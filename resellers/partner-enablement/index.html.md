@@ -24,13 +24,15 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
 
 ## Get to know GitLab, what it is, what it offers, and what it does
 
-1.  GitLab [promo video](https://player.vimeo.com/video/702922416) on [https://about.gitlab.com](https://about.gitlab.com) (1 min)
+1.  [GitLab internal Sales Training Resources](https://about.gitlab.com/handbook/sales/training/):  Review this page for all of the sales related training that internal GitLab sellers go through.
 
-2.  GitLab [promo demo video](https://about.gitlab.com/demo/) (3 min)
+2.  [GitLab Promo Video](https://player.vimeo.com/video/702922416):  Here's the GitLab Trailer.  It's actually a good elevator pitch!  Check it out on [https://about.gitlab.com](https://about.gitlab.com) (1 min)
 
-3.  Get to know the general capability set at [https://about.gitlab.com/platform](https://about.gitlab.com/platform) (be sure to scroll down to the GitLab Features section and then click on the stages of the DevSecOps process (Plan, Create, Verify, Package, etc.) for more information
+3.  [GitLab Promo Demo Video](https://about.gitlab.com/demo/):  This video is a bit longer and shows more about using GitLab in a quick demo (3 min)
 
-4.  Our [Solutions page](https://about.gitlab.com/solutions/) offers a wide variety of ways customers leverage GitLab
+4.  Get to know the general capability set at [https://about.gitlab.com/platform](https://about.gitlab.com/platform) (be sure to scroll down to the GitLab Features section and then click on the stages of the DevSecOps process (Plan, Create, Verify, Package, etc.) for more information
+
+5.  Our [Solutions page](https://about.gitlab.com/solutions/) offers a wide variety of ways customers leverage GitLab
 
 
 ## Pitch GitLab and uncover new opportunities
