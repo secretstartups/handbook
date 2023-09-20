@@ -830,7 +830,9 @@ with the LOADER role.  These tasks run daily and load only new or updated files.
 
 ##### Task Monitoring
 
-The tasks are being monitored with a dbt test that makes sure each task has ran successfully in the last day.  The version test and license test can be found in the internal data-tests project [here](https://gitlab.com/gitlab-data/data-tests/-/blob/main/tests/sources/version/version_load_task_test.sql) and [here](https://gitlab.com/gitlab-data/data-tests/-/blob/main/tests/sources/license/license_load_task_test.sql) respectively.  In order to diagnose problems with the tasks, you can query the `raw.snowflake.task_history_view` and inspect the `error_message` column on failed tasks.
+All Snowflake tables ingested either by `Snowfalke Tasks` or `SnowPipe` are monitored by default with a MonteCarlo source freshness and volume monitor that makes sure that the loading of data is happening successfully. This is indirectly monitoring if the task is actually working or not. In order to diagnose problems with the tasks, you can query the `raw.snowflake.task_history_view` and inspect the `error_message` column on failed tasks.
+
+For more details, refer to the section [Snowflake SnowPipe and Tasks Triage](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/#snowflake-snowpipe-and-tasks-triage).
 
 ### Time Off by Deel Snowpipe
 
@@ -859,7 +861,7 @@ CREATE OR REPLACE PIPE raw.pto.gitlab_pto
     file_format=(type='json' strip_outer_array = true);
 ```
 
-The Snowpipe was enabled so it successfully picks up any new files written to the `gitlab-pto` bucket:
+The Snowpipe was enabled, so it successfully picks up any new files written to the `gitlab-pto` bucket:
 
 ```sql
 alter pipe raw.pto.gitlab_pto enable;
@@ -867,11 +869,10 @@ alter pipe raw.pto.gitlab_pto enable;
 
 #### Debugging
 
-If there are any issues with the PTO snowpipe, check the status of the Snowpipe first.  This can be done in Snowflake by running
+If there are any issues with the PTO `Snowpipe`, should go to a [runbooks page](https://gitlab.com/gitlab-data/runbooks/-/blob/main/triage_issues/snowflake_pipeline_failure_triage.md) and analyze the issue.
 
-```sql
-select SYSTEM$PIPE_STATUS('gitlab_pto');
-```
+Source `PTO` data is saved to `gitlab-pto` bucket each Monday _(weekly)_. It means that the `PTO Snowpipe` immediately after data is saved to `gitlab-pto` bucket loads data into the `RAW` layer. [MonteCarlo rule for PTO](https://getmontecarlo.com/monitors/96c30aa4-04cb-499f-a5df-9c935874c519) is defined to check the freshness of the data. In case no new data is saved in the `RAW` layer, we will be alerted via Slack. 
+
 
 ### Demandbase Load Tasks
 

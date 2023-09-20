@@ -34,7 +34,6 @@ Snowflake contains all of our analytical data and [Data Source](https://about.gi
 
 Login to Snowflake from Okta.
 
-
 ## Navigating the UI
 
 The [Snowflake Quick Tour of the Web Interface](https://docs.snowflake.com/en/user-guide/snowflake-manager.html) provides comprehensive documentation for the UI.
@@ -49,8 +48,65 @@ Since our Snowflake is hosted in AWS  the setup for push notification has been d
 
 For both snowpipe and snowflake task the SNS integration is same. 
 Over here [enabling-error-notifications](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors-sns#enabling-error-notifications) Snowflake has defined steps for the same.
+
+### Snowflake SnowPipe and Tasks Triage
+
+Notified a repeatable situation occurred:
+
+* Occasionally we see a drop in data and notify it after some time - we implemented mechanism to have a push warning about missing or incomplete data. Usually, we use a reactive approach after we are informed from the business side, which is not the preferred way. Now, we are more proactive and alerted immediately when error happened.
+* The pipelines we monitor (`version_db`, `Snowplow`, `PTO`) are running either via `Snowflake tasks` or `Snowpipe` mechanism.
+* Used a comprehensive approach to focus and reveal shape and status of pipelines inside `Snowflake`
+
+#### Workflow
+
+```mermaid
+graph LR
+    PM[Pipelines monitoring]
+    
+    subgraph DE
+        TM[Technical monitoring]
+        PH[Pipeline health]
+        DL[Data freshness check]
+    end 
+    subgraph DE_AE[DE+AE]
+        OD[Observing data]
+        MT[Metrics throughput check]
+    end
+
+    PM-->TM
+    TM-->PH
+    TM-->DL
+    PM-->OD 
+    OD-->MT
+```
+
+#### Technical monitoring
+ 
+Have to make sure that we get notified via `Slack` if there are errors on SnowPipe and/or Snowflake tasks. In case of an error and if it turns out that the root cause is upstream we have to solve in collaboration with source owners. The `Data Platform` is responsible for health of pipelines.
+
+```mermaid
+graph LR
+    SNS_SETUP
+    Lambda-->SLACK
+    SNS_SETUP-->SNS_TOPIC
+    subgraph Snowflake
+        TASK(Tasks)
+        SNOWPIPE(Snowpipes)
+        SNS_SETUP[SNS setup for Taks and Snowpipes]
+        SNOWPIPE-->SNS_SETUP
+        TASK-->SNS_SETUP
+    end    
+
+    subgraph AWS [AWS]
+        SNS_TOPIC[SNS Topic] --> Lambda[Lambda function Python]
+    end
+
+    subgraph Slack
+        SLACK[#data-pipelines channel alert] 
+    end
+```
+
 Below covered details of the name and commands used for setup.
-Below I have covered details of the name and commands used for setup.
 
 ### **Step 1: Created SNS topic in AWS  named `gitlab-snowflake-notification` following the instructution.**  
 For this full access on SNS topic should be provided to the user
@@ -65,9 +121,9 @@ Create an AWS IAM role on which to assign privileges on the SNS topic
 Record the Role ARN value located on the role summary page.
 
 ### **Step 4: Creating the Notification Integration in snowflake** 
-To create Notification Integration Accountadmin priviliges are required. 
+To create Notification Integration [ACCOUNTADMIN](https://docs.snowflake.com/en/user-guide/security-access-control-considerations#using-the-accountadmin-role) privileges are required. 
 
-```SQL
+```sql
 CREATE OR REPLACE NOTIFICATION INTEGRATION gitlab_data_notification_int
   ENABLED = true
   TYPE = QUEUE
@@ -75,17 +131,16 @@ CREATE OR REPLACE NOTIFICATION INTEGRATION gitlab_data_notification_int
   DIRECTION = OUTBOUND
   AWS_SNS_TOPIC_ARN = '<topic_arn>'
   AWS_SNS_ROLE_ARN = '<iam_role_arn>';
-  ```
+```
 
- ### **Step 5: Granting Snowflake Access to the SNS Topic**
+### **Step 5: Granting Snowflake Access to the SNS Topic**
  
-  Run below query in snowflake  
-  ```
-    DESC NOTIFICATION INTEGRATION gitlab_data_notification_int;
-  ```
-  And capture **SF_AWS_IAM_USER_ARN** and **SF_AWS_EXTERNAL_ID** 
- post this modify  the Trust Relationship in the IAM Role by setting 
- ```
+Run below query in Snowflake:  
+```
+  DESC NOTIFICATION INTEGRATION gitlab_data_notification_int;
+```
+And capture **SF_AWS_IAM_USER_ARN** and **SF_AWS_EXTERNAL_ID** post this modify the Trust Relationship in the IAM Role by setting 
+```json
  {
   "Version": "2012-10-17",
   "Statement": [
@@ -104,81 +159,112 @@ CREATE OR REPLACE NOTIFICATION INTEGRATION gitlab_data_notification_int
     }
   ]
 }
- ```
+```
 
  This will require the IT help to update the policy. 
 
 
 ###  **Step 6: Grant usage permission on integration to loader role**
 
- With Accountadmin role execute below in snowflake.
- ```
+With `ACCOUNTADMIN` role execute below in Snowflake.
+```sql
  GRANT USAGE on  INTEGRATION gitlab_data_notification_int to role loader;
 ```
 
 **Note:** `Above  setup should not be modified because modifying any step will require all the step from 1 to 6 redo  as the integration will break.`
 
 ### **Step 7: Create Lambda function to send slack notification** 
-For this the user should have Create lambda function permission in AWS.
+For this the user should have `Create lambda function` and `ListRoles` permission in AWS. If any of those 2 privileges are missing, create an [**AR issue**](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new).
 
-For Creating lambda function select 
-- `Author from scratch`
-- Give unique name to lambda function
-- Select any of the python version 
-- Architecture `Default`
-- Under Change default execution role  select `Use an existing role` and under this select `Gitlab-lambda-snowflake`
-- Click create function 
+For Creating lambda function select the following :
+1. `Author from scratch`
+1. Give unique name to lambda function
+1. Select any of the `Python` version (everything `>=3.10` is fine) 
+1. Architecture `Default`
+1. Under `Change default execution role`  select `Use an existing role` and under this select `Gitlab-lambda-snowflake`
+1. Click `Create function` button 
 
-Once the function is created under code you can setup the basic python code to send the slack notification and example is below 
+More details are shown in the image below.
+
+![LambdaFunctionCreate.png](LambdaFunctionCreate.png)
+
+Once the function is created under code you can set up the basic Python code to send the `Slack` notification. Here is an example from our `gitlab_snowflake_notification` lambda code:
 ``` python
 import urllib3
 import json
+import os
 
 http = urllib3.PoolManager()
 
-
 def lambda_handler(event, context):
-    url = "<Webhook URL >"
-
-    #print(event)
-    event_body = event["Records"]
-    # Convert the input from a JSON string into a JSON object.
-    payload = json.dumps(event_body)
+    url = os.environ["slack_webhook_url"]
+    data = event["Records"][0]
+    timestamp = data["Sns"]["Timestamp"]
+    timestamp = timestamp.replace("T", " ").replace("Z", "")
+    task_details= json.loads(data["Sns"]["Message"])
+    task_name= task_details['taskName']
+    error_meesage=task_details['messages'][0]["errorMessage"]
+    error_message_markdown=f"```{error_meesage}```"
     
-    msg = {
-        "channel": "#data-pipelines",
-        "username": "SNOWFLAKE_TASK_PIPE",
-        "text": payload,
-        "icon_emoji": "snowflake"}
+    log_link='https://gitlab.com/gitlab-data/runbooks/-/blob/main/triage_issues/snowflake_pipeline_failure_triage.md'
+    log_link_markdown = f"<{log_link}|Runbook>"
+    
+    message = {
+            "channel": "#data-pipelines",
+            "username": "SNOWFLAKE_TASK_PIPE",
+            "icon_emoji": "snowflake",
+            "attachments": [{       
+                          "fallback":"Snowflake Task Failure Alert",       
+                          "color":"#FF0000",
+                          "fields": [            
+                                    {      
+                                        "title":"Snowflake Task Failure Alert",              
+                                        "value":task_name
+                                    },
+                                    {             
+                                        "title":"Timestamp",             
+                                        "value":timestamp
+                                    },
+                                    {             
+                                        "title":"Error Message",             
+                                        "value":error_message_markdown
+                                    },
+                                    {             
+                                        "title":"Steps to view error message in snowflake",             
+                                        "value":log_link_markdown
+                                    }
+                                    ]
+                        }]
+    }
 
-    encoded_msg = json.dumps(msg).encode("utf-8")
+    encoded_msg = json.dumps(message).encode("utf-8")
     resp = http.request("POST", url, body=encoded_msg)
+    
     print(
         {
             #"message": event['Records'],
             "status_code": resp.status,
-            "response": resp.data,
+            "response": resp.data
         }
     )
-
 ```
 
-Above function will send all the event notification information into slack like below 
+**Things to consider during the implementation**:  
+* Good practice is to encrypt environment variables you plan to use in `AWS` Lambda function, as a part of good practices. Here is the comprehensive guideline on how to [secure environment variables](https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html#configuration-envvars-encryption). 
 
-```
-[{"EventSource": "aws:sns", "EventVersion": "1.0", "EventSubscriptionArn": "arn:aws:sns:us-west-2:855262394183:gitlab-snowflake-notification:1267d1fc-5ba2-4a9c-8686-ecb8e6a724d3", "Sns": {"Type": "Notification", "MessageId": "0670a05f-b745-573e-9329-fd766ed43654", "TopicArn": "arn:aws:sns:us-west-2:855262394183:gitlab-snowflake-notification", "Subject": null, "Message": "{\"version\":\"1.0\",\"messageId\":\"6b55da66-7491-4bf4-a715-2e19b2c3bf0e\",\"messageType\":\"USER_TASK_FAILED\",\"timestamp\":\"2023-07-13T10:51:48.517Z\",\"accountName\":\"GITLAB\",\"taskName\":\"VPRAKASH_PREP.PUBLIC.MYTASK\",\"taskId\":\"01ad98eb-001f-9ff5-0000-0000000014e7\",\"rootTaskName\":\"VPRAKASH_PREP.PUBLIC.MYTASK\",\"rootTaskId\":\"01ad98eb-001f-9ff5-0000-0000000014e7\",\"messages\":[{\"runId\":\"2023-07-13T10:51:45.445Z\",\"scheduledTime\":\"2023-07-13T10:51:45.445Z\",\"queryStartTime\":\"2023-07-13T10:51:48.234Z\",\"completedTime\":\"2023-07-13T10:51:48.498Z\",\"queryId\":\"01ad98eb-0406-74f1-0000-289d581e19ba\",\"errorCode\":\"002003\",\"errorMessage\":\"SQL compilation error:\\nTable 'MYTABLE' does not exist or not authorized.\"}]}", "Timestamp": "2023-07-13T10:52:01.923Z", "SignatureVersion": "1", "Signature": "P2dOGdYrEyTyurGBRDOzDlE0jGOcMtDSHk6Pt0jQmM5l7jBVvXwFsJRfnsTr/ElApxW4uhUPrxuc0wd1+ZuaWhG4XVxnHcNhTbknSdnkb5diXRhbcl7NIdcBJaLihwdjzJzSDYRShlCpIiuBqogO5JSOhkUX9HWjamLjyFJ/Lk0f2gaR4V6fe1BPJr+O08CB6Kz5i4O4iVlBA/HtUEpxvR2P+fWSfwleV61KE7IJrbjWG/znZhkpNHlQb7Lx0/riSTkSu1q9EA4NUCd0omwPdPwj/48CJFn6rCoUTrcQPfOMA99BXtEjAn4PxOfr/d+IpMMWOn/JqR5LElmSXKJpeA==", "SigningCertUrl": "https://sns.us-west-2.amazonaws.com/SimpleNotificationService-01d088a6f77103d0fe307c0069e40ed6.pem", "UnsubscribeUrl": "https://sns.us-west-2.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-west-2:855262394183:gitlab-snowflake-notification:1267d1fc-5ba2-4a9c-8686-ecb8e6a724d3", "MessageAttributes": {}}}]
-```
 
-Above need modification and to make it more readable. 
+Above function will send all the event notification information into `Slack` like below: 
+
+![slack_alert_example.png](slack_alert_example.png)
 
 ### **Step 7: Add trigger to the Lambda function as the SNS topic which is created in step 1** 
 
 This will trigger the lambda function which will send the Slack notification 
 
-### **Step 8: Alter snowflake snowpipe and snowflake task to send notification on failure** 
+### **Step 8: Alter snowflake Snowpipe and Snowflake task to send notification on failure** 
 
 In this example I have done it for one of snowflake task 
-```SQL
+```sql
 ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK suspend;
 ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK SET ERROR_INTEGRATION = gitlab_data_notification_int;
 ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK resume;
@@ -186,10 +272,19 @@ ALTER TASK RAW.PROMETHEUS.PROMETHEUS_LOAD_TASK resume;
 
 The task should be suspended in order to apply the integration. 
 
-Once above is defined on any failure the notification will be sent to slack channel. 
+Once above is defined on any failure the notification will be sent to `Slack` channel. 
 
 All the required permission in AWS account has been provided to all data platform team member. Also the Permission has been granted to loader role to use snowflake integration.
 
-**Note:** Snowpipe error notifications only work when the ON_ERROR copy option is set to SKIP_FILE (the default). Snowpipe will not send any error notifications if the ON_ERROR copy option is set to CONTINUE.
+**Note:** Snowpipe error notifications only work when the `ON_ERROR` copy option is set to `SKIP_FILE` _(the default value)_. Snowpipe will not send any error notifications if the `ON_ERROR` copy option is set to `CONTINUE`.
 
-You can use the `NOTIFICATION_HISTORY` table function to query the history of notifications sent through Snowpipe. For more information, refer to [NOTIFICATION_HISTORY](https://docs.snowflake.com/en/sql-reference/functions/notification_history).
+You can use the `NOTIFICATION_HISTORY` table function to query the history of notifications sent through Snowpipe. For more information, refer to [NOTIFICATION_HISTORY](https://docs.snowflake.com/en/sql-reference/functions/notification_history) documentation.
+
+
+## Triage errors
+
+When we got an alert in `Slack`, should go to a [runbooks page](https://gitlab.com/gitlab-data/runbooks/-/blob/main/triage_issues/snowflake_pipeline_failure_triage.md) and analyze the issue.
+
+## Data freshness check
+
+For data freshness check, we want to leverage the automatic monitors in `MonteCarlo` for monitoring the data.
