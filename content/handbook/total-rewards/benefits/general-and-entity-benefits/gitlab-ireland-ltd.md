@@ -256,7 +256,7 @@ Please see 'Company Stamp Ireland' in the People Connect 1password folder for co
 
 ### Benefit in Kind Reporting
 
-The Medical Plans premiums are considred a benefit in kind and must be reported on the team member's payslips
+The Medical Plans premiums are considered a benefit in kind and must be reported on the team member's payslips
 
 1. On a monthly basis Non-US Payroll will log on to the Vhi portal and download two reports from the Vhi Employers online Group Account profile:
     1. Changes Report: this report shows the list of new joiners per particular month (select the relevant month when pulling the report)

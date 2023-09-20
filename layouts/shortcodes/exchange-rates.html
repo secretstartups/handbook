@@ -1,0 +1,29 @@
+{{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/currency_conversions.yml"}}
+{{ with resources.GetRemote $dataURL }}
+  {{ with .Err}}
+    <h2>Unable to fetch performance indicator Data</h2>
+  {{ else }}
+      {{ $data := . | transform.Unmarshal }}
+      
+      <p>Point in time rate as {{ $data.updated_at }}</p>
+      
+      <table style="display: table; width: 50%;">
+          <thead>
+              <tr>
+                  <th>Currency</th>
+                  <th>Rate from USD</th>
+                  <th>Rate to USD</th>
+              </tr>
+          </thead>
+          <tbody>
+              {{ range $data.currency_rates }}
+              <tr>
+                  <td>{{ .currency_code }}</td>
+                  <td>{{ .rate_from_usd }}</td>
+                  <td>{{ .rate_to_usd }}</td>
+              </tr>
+              {{ end }}
+          </tbody>
+      </table>
+  {{ end }}
+{{ end }}

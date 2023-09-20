@@ -243,15 +243,15 @@ The location factor depends on your geographical area. To determine geographical
 
 To determine your area:
 
-   1. Select the country you live in. This filters out all areas outside of your country.
-   1. Select your Province or State (if applicable).
-   1. Select your Metro Area if you live within a commutable one hour and forty-five minutes of a city listed.
+1. Select the country you live in. This filters out all areas outside of your country.
+1. Select your Province or State (if applicable).
+1. Select your Metro Area if you live within a commutable one hour and forty-five minutes of a city listed.
 
-      If you are within a commutable one hour and forty-five minutes of more than one city, use the city with the shortest commute as your location. If not, select "Not Applicable."
-
-      If there are no additional boxes for State/Province and/or Metro Area for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if there is no additional box for Metro Area after selecting a State/Province, this state or province has the same location factor regardless of the city you live in.
-   1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
-   1. When you move, you have to inform People Ops and Total Rewards, per the [Relocation process](/handbook/people-group/relocation/) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
+    If you are within a commutable one hour and forty-five minutes of more than one city, use the city with the shortest commute as your location. If not, select "Not Applicable."
+    
+    If there are no additional boxes for State/Province and/or Metro Area for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if there is no additional box for Metro Area after selecting a State/Province, this state or province has the same location factor regardless of the city you live in.
+1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
+1. When you move, you have to inform People Ops and Total Rewards, per the [Relocation process](/handbook/people-group/relocation/) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
 
 If the location of a metropolitan area is higher than the regional minimum, the metropolitan area's location factor is used for the calculation.
 
@@ -260,34 +260,34 @@ If the location of a metropolitan area is higher than the regional minimum, the 
 GitLab will gather and analyze the data for each location factor annually as part of annual compensation review. We will also iterate on location factors as needed throughout the year.
 
 1. Data Gathering
-   * ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
-   * Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential.
-   * Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential.
-   * In reviewing the data set, determine if a new geo area needs to be added to the list.
+    - ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
+    - Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential.
+    - Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential.
+    - In reviewing the data set, determine if a new geo area needs to be added to the list.
 1. Data Analysis
-   * For geographical areas:
-     * Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros.
-   * For metro areas, take the maximum of:
-     * the average of all data sources rounded to the nearest 0.01 OR
-     * the current location factor or geographic area (so as to not reduce location factors).
-     * If the location factor for the metro area is higher than for the geographical area, pull this out as its own location factor.
-     * Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.
-   * Reasons why the formula may be adjusted:
-        * Not enough number of data points for the output to be statistically relevant
-        * Adjusted to align with other metros in geo
-   * When analyzing: Focus on where we are having troubles talent acquisition, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
+    - For geographical areas:
+        - Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros.
+    - For metro areas, take the maximum of:
+        - the average of all data sources rounded to the nearest 0.01 OR
+        - the current location factor or geographic area (so as to not reduce location factors).
+        - If the location factor for the metro area is higher than for the geographical area, pull this out as its own location factor.
+        - Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.
+    - Reasons why the formula may be adjusted:
+        - Not enough number of data points for the output to be statistically relevant
+        - Adjusted to align with other metros in geo
+    - When analyzing: Focus on where we are having troubles talent acquisition, retaining, or have a smaller population of team members as these can be indicators of a misalignment in the region.
 
 ## Level Factor
 
 Level Factor is currently defined as:
 
-* Junior: 0.8 x ic_ttc
-* Intermediate: 1.0 x ic_ttc
-* Senior: 1.2 x ic_ttc
-* Staff/Manager: 1.0 x manager_ttc
-* Senior Manager: 1.2 x manager_ttc
-* Director: 1.0 x director_ttc
-* Senior Director: 1.0 x seniordirector_ttc
+- Junior: 0.8 x ic_ttc
+- Intermediate: 1.0 x ic_ttc
+- Senior: 1.2 x ic_ttc
+- Staff/Manager: 1.0 x manager_ttc
+- Senior Manager: 1.2 x manager_ttc
+- Director: 1.0 x director_ttc
+- Senior Director: 1.0 x seniordirector_ttc
 
 The nomenclature can be adjusted for each job family to ensure the appropriate level to select is clear.
 
