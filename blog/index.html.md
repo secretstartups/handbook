@@ -381,7 +381,7 @@ We use these to make it faster to track the effectiveness of different types of 
 1. **`oss-program`:** Blog posts authored or contributed by [Open Source Program Team](/handbook/marketing/developer-relations/community-programs/opensource-program/)
 1. **`gitlab-duo`:** Blog posts authored or contributed on GitLab Duo
 1. **`engineering`** Blog posts authored or contributed by members of the Engineering organization
-1. **`general-blog`:** Where a blog post doesn't fall into any of the categories above, using the `general-blog` helps ensure every blog post has a post type and can be tracekd.
+1. **`general-blog`:** Where a blog post doesn't fall into any of the categories above, using the `general-blog` helps ensure every blog post has a post type and can be tracked.
 
 Use the `postType` frontmatter option to set the content definition, multiple definitions are allowed where different teams contributed to the article. In [Looker Studio](https://lookerstudio.google.com/) or [Google Analytics](https://analytics.google.com/analytics/web/), use the `postType v2` [dimension/fields](https://support.google.com/analytics/answer/1033861) for filtering your blogs posts, it provides the most accurate data.
 
