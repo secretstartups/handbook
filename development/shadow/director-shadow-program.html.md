@@ -133,6 +133,10 @@ For non-GitLab team member shadows:
 1. Plan to attend Zoom meetings that you get an invited to.
 1. Participate in the slack channel `#wayne_shadow_program`
 
+## Shadow onboarding
+
+Shadow onboarding is coordinated via an issue in [https://gitlab.com/wayne/wayne/-/issues/new](https://gitlab.com/wayne/wayne/-/issues/new) using the director shadow onboarding issue template.
+
 ## What to do after you participate
 
 1. After your shadow completes, I would love to hear feedback on the program, what you learned, what you liked, what you didn't like, feedback on what I can do better, etc.
@@ -148,8 +152,7 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| September 18 | Not Available     |       |
-| September 25 | Available     |       |
+| September 25 | [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
 | October 2  |  Available | |
 | October 9  |  Available | |
 | October 16 |  Available | |
