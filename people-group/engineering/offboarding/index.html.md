@@ -24,8 +24,7 @@ graph TD
   A --> |When the offboarding is voluntary| G
   B[Offboarding issue is created, manager is assigned] --> C
   C[Offboarding merge request is created] --> D
-  D[Team member is removed from gitlab-com and gitlab-org] --> E
-  E[1 day after: removed from Guardian] --> G
+  D[Team member is removed from gitlab-com and gitlab-org] --> G
   G[Informational email is sent to the departing team member] --> |2 days before departure| H
   H[Slack message is sent to the departing team member]
 ```
@@ -68,9 +67,3 @@ In the event that the merge request has become out of date and the `/rebase` qui
 1. Close the MR that is out of date, and ensure to delete the branch that this was created on.
 1. Run the offboarding team page Slack command to re-trigger the automation.
 1. Verify that the MR has been opened.
-
-### Remove from Guardian
-
-When a team member leaves GitLab they also need to be _terminated_ on Guardian. We have a daily check for offboarded team members. Every day we check if there are any new offboarding issues created for the day before. For those, we check if the team member is located in the United States. If there are matches, we create a file with the following naming convention: `04_employee_termination_mmddyyhhmmss.csv` and add the users employee id and their end date to the file. This is then uploaded to Guardian so they can process it.
-
-You can read more about how team members are added to Guardian [here](/handbook/people-group/engineering/onboarding#sync-to-guardian).
