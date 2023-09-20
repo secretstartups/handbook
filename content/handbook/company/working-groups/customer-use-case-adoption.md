@@ -71,6 +71,6 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
     - `wg-status::Not Started`
     - `wg-status::Ready`
     - `wg-status::In Progress`
-    - `wg_status::Blocked`
-    - `wg_status::Complete`
+    - `wg-status::Blocked`
+    - `wg-status::Complete`
 - Formalize "asks" of the Working Group by filing an issue against the [CI Adoption - Working Group Asks](https://gitlab.com/groups/gitlab-com/-/epics/2232) epic to enable cross-functional visibility, collaboration, and prioritization
