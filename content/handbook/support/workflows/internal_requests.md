@@ -69,7 +69,7 @@ Customers can submit a support ticket. See [Name Squatting Policy]({{< ref "name
 
 ## Contact Request
 
-GitLab team members will use this template to request Support to contact a user on their behalf.
+GitLab team members should use [the Contact Request template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=Contact%20Request) to request Support to contact a user on their behalf.
 
 Usually, these are assigned to [CMOC](/handbook/support/internal-support/#regarding-gitlab-support-plans-and-namespaces), but can also be completed by anyone with admin-level access to GitLab.com. `Admin Escalation` label is applied and everyone with admin access is supposed to be subscribed and working on such issues.
 
