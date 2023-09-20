@@ -112,6 +112,21 @@ This version has some major updates like:
 - From this version onward, we **will no longer support the nav project in the www-repo anymore.** This means that www-gitlab-com **must stay pinned to major version 4**. You will need to move your page over to [Buyer Experience by opening an issue](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/issues/new#) if having the most up-to-date navigation is a concern for your content.
 - In the `Buyer Experience` repository the nav updates will follow the current instructions.
 
+## How to update the navigation on the www-gitlab-com repository
+
+In order to update www and Buyer Experience separately we created a [new main branch](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/tree/legacy-navigation-main) in the navigation repository.
+
+- Create a new MR on the Navigation repository, **forking from** `legacy-navigation-main`
+- Finish your updates and merge them to the `legacy-navigation-main`, or ask someone with permission to merge it for you.
+- After the `legacy-navigation-main` is ready with all the issues merged, update its version on the `package.lock` file.
+- Publish the version for our npm by running `npm publish` or ask someone to do it for you
+- Open a new MR on [www repository](https://gitlab.com/gitlab-com/www-gitlab-com) updating the navigation version on the `package.lock`
+- Run the `yarn` command in order to generate the yarn.lock file, commit both the yarn.lock, and package.lock files.
+- Ask for review/merge
+
+#### Note:
+The package version for the www repo **should not** be major, which means it can't be anything higher than `4.x.x`
+
 #### Detailed local review before a nav release with yarn link
 
 If you want to review locally changes made to the navigation:
