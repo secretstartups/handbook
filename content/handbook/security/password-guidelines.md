@@ -321,6 +321,25 @@ Follow this [guideline](https://gizmodo.com/how-to-easily-switch-your-two-factor
 
 There may be cases where TOTP might be used with a non-GitLab account. If you have any questions and need to speak with the Security Team, you can contact [Security]({{< ref "_index.md#-contacting-the-team" >}})
 
+#### Passkeys
+
+1Password has implemented a feature update allowing for Passkeys. This feature allows passwordless sign in to sites that require username and password. Instead of typing out your username and password every time, you can instead use biometrics, or a device like YubiKey instead. Passkeys store a public key in the app and a private key within 1Password locked behind biometrics, YubiKey, or PIN. 
+
+Setting up Passkey is simple. Open a login page or seelect the sign in button on the website or app. You'll see a prompt to complete an authentication step, usually with Biometrics, or YubiKey. You may see something like the image below. 
+
+<div style="text-align:center;">
+  <img src="../PasskeyAlert.png" alt="You may see something like the image below" width="700"/>
+</div>
+<br>
+
+If you're unable to use biometrics, or a YubiKey, you may see your system sign in password requested, or a PIN (however you normally unlock your device). At that point, the key pairing is created and 1Password will use this method of sign in going forward. Note, not all sites are supported at this time. If you're curious about setting this up on a site you use, you can always open 1Password, select that login tab, and see if the "Passkey Available" notification is showing.
+
+<div style="text-align:center;">
+  <img src="../PasskeyAvailable.png" alt="notification is showing. width="700"/>
+</div>
+<br>
+
+You may need to follow steps with the specific sites in order to complete Passkey setup, follow the prompts of the site and 1Password and you'll be set for passwordless login with Passkey. 
 
 #### Example usage {#1password-example-usage}
 
