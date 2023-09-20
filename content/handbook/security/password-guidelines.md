@@ -323,9 +323,9 @@ There may be cases where TOTP might be used with a non-GitLab account. If you ha
 
 #### Passkeys
 
-1Password has implemented a feature update allowing for Passkeys. This feature allows passwordless sign in to sites that require username and password. Instead of typing out your username and password every time, you can instead use biometrics, or a device like YubiKey instead. Passkeys store a public key in the app and a private key within 1Password locked behind biometrics, YubiKey, or PIN. 
+1Password has implemented a feature supporting for Passkeys, which are the credentials used in FIDO2/WebAuthn on sites such as [Okta](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta). This feature can allow passwordless sign in to sites that require username and password, or passkeys can serve as a type of MFA. Passkeys store a public key in the app and a private key within 1Password locked behind biometrics, YubiKey, or PIN. 
 
-Setting up Passkey is simple. Open a login page or seelect the sign in button on the website or app. You'll see a prompt to complete an authentication step, usually with Biometrics, or YubiKey. You may see something like the image below. 
+Setting up Passkey is simple. Open a login page or select the sign in button on the website or app. You'll see a prompt to complete an authentication step, usually with Biometrics, or YubiKey. You may see something like the image below. 
 
 <div style="text-align:center;">
   <img src="../PasskeyAlert.png" alt="You may see something like the image below" width="700"/>
@@ -339,7 +339,7 @@ If you're unable to use biometrics, or a YubiKey, you may see your system sign i
 </div>
 <br>
 
-You may need to follow steps with the specific sites in order to complete Passkey setup, follow the prompts of the site and 1Password and you'll be set for passwordless login with Passkey. 
+You may need to follow steps with the specific sites in order to complete Passkey setup, follow the prompts of the site and 1Password and you'll be set for logging in with a Passkey. 
 
 #### Example usage {#1password-example-usage}
 
