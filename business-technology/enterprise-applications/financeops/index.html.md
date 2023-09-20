@@ -19,7 +19,6 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 
 - [Jessica Salcido](https://about.gitlab.com/company/team/#jesssalcido) - Manager, Finance Systems (Q2C Expert)
 - [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Senior Finance Systems Administrator (P2P and Record to Report Expert)
-- [Cristine Marquardt](https://about.gitlab.com/company/team/#csotomango) - Finance Systems Administrator (Service Desk Guru), *Certified Zuora Administrator*
 - [Brian Wong](https://about.gitlab.com/company/team/#brianmwong) - Finance Systems Administrator, *Certified Zuora Administrator*
 
 
