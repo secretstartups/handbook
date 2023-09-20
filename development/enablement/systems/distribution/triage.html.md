@@ -227,7 +227,7 @@ A shadow may need multiple weeks on shadow before they feel comfortable on a sol
 
 ## Triaging Pipelines
 
-Pipeline failures are a shared team responsibility and need to be handled as soon as possible by whomever is available. That said, the team member on triage duty has a responsibility to follow up on any failures which occurred and provide a summarized tally in the Triage notes. Failures requiring follow up issue(s) should also be noted to increase team awareness. Those issues should be labeled with `Broken Pipeline`
+Pipeline failures are a shared team responsibility and need to be handled as soon as possible by whomever is available. That said, the team member on triage duty has a responsibility to follow up on any failures which occurred and provide a summarized tally in the Triage notes. Failures requiring follow up issue(s) to fix pipelines that are still in a broken state should also be noted to increase team awareness. Those issues should be labeled with `Broken Pipeline`.
 
 Details on the various pipelines and jobs implemented by different projects
 under Distribution are listed below:
