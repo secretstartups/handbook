@@ -53,12 +53,12 @@ All GitLab job codes are categorized in Workday from the 10 [EEO Job Categories]
 
 The 6 main categories that are applicable to GitLab are:
 
-- 1.1 Executive/Senior Level Officials and Managers
-- 1.2 First/Mid Level Officials and Managers
-- 2. Professionals
-- 3. Technicians
-- 4. Sales Workers
-- 5. Administrative Support Workers
+1.1 Executive/Senior Level Officials and Managers
+1.2 First/Mid Level Officials and Managers
+2. Professionals
+3. Technicians
+4. Sales Workers
+5. Administrative Support Workers
 
 In addition to the main EEO categories, GitLab sub-categorizes certain larger categories to ensure a better understanding of distribution, utilization, hiring and promotion according to similar roles and levels. Workday only contains the main categorization. Here are GitLab’s sub-categories and their definitions:
 
