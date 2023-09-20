@@ -70,7 +70,7 @@ GitLab supports team members who wish to continue their education and growth wit
 Budget estimations for the Growth & Development benefit are based on utilization rates from past years, adjusted for the size of the company. The budget is managed on a company-wide scale, not division-specific. For example, approving reimbursement for a team member in Engineering does not "take away" budget from other engineers. Eligibility is managed on an individual basis. Eligibility for this benefit is part of each GitLab team member's Total Rewards package.
 
 The [Growth and Development page]({{< ref "growth-and-development" >}}) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
- 
+
 ## GitLab Contribute
 
 [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
@@ -105,12 +105,13 @@ GitLab offers benefits in relation to [obtaining visas and work permits](/handbo
 GitLab offers an Employee Assistance Program to all team members via [Modern Health]({{< ref "modern-health" >}}).
 
 ## Care Concierge Pilot Program
+
 In light of our [“Family First, Work Second”]({{< ref "values#family-and-friends-first-work-second" >}}) value, we’re looking to launch a new benefit in FY23 to assist team members with family care needs (child, adult and complex care). As part of this implementation, Total Rewards will run a Pilot Program starting in October 2022 and ending in December 2022 to test our platform of choice, [Helpr](https://www.helpr-app.com/parents).
 
 Total Rewards will collaborate with the People Business Partners to select 10 team members to ensure that there is a diversity of participants from different locations, with different care needs, so that we can adequately evaluate the success of the pilot program. Participants will be required to take a survey on their experience with the service.
 
 If you are interested in participating in the Pilot Program or have any questions, please reach out to total-rewards@gitlab.com. Unfortunately, not all team members who request to particpate may be selected due to the limited space in the Pilot Program.
- 
+
 ## Incentives
 
 The following incentives are available for GitLab team members:

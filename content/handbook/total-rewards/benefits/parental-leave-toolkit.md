@@ -10,6 +10,7 @@ GitLab supports all our team members time away needs by offering multiple leave 
 As a manager, your team members(s) may come to you with questions, concerns, and/or requests for additional support and guidance.  These resources are intended to highlight which areas in the leave of absence process you are responsible for, and how you can best support your team members throughout the life-cycle of their leave.  No two leaves are ever the same, so there may not always be a “one-size-fits-all” solution. Some leave situations can be exciting and planned for (i.e. Parental Leave) while others may not be able to be planned for and/or may be serious for the team member or their family member.  As a Manager it is important you approach each situation with empathy and kindness, and understand how to best support your team member.  The resources included in these pages are intended to equip you with the information you need to support your team members through the entire life-cycle of their leave.  If you have any questions or need any additional assistance, please contact leaves@domain.
 
 ### To-Do List:
+
 #### Before the Leave Begins: Your team member informs you they need a leave or more information
 
 1. If Applicable: Your team member may inform you that their physician recommended restrictions or requests accommodations to be able to perform the essential functions of their job before their leave starting. Please contact leaves@domain and the Absence Management Team can assist you with this request.
@@ -19,7 +20,7 @@ As a manager, your team members(s) may come to you with questions, concerns, and
        - Tag team members covering during the absence.
        - Review the [Resource Allocation](#general-guidelines-for-managers-on-resource-allocation) section of the handbook
 
-1. Ask what communication your team members wants while out (if any at all).  Some team members may want to stay plugged in a bit and chat informally to ensure they are not forgotten, and others may want to disconnect completely.  If the team member does want to chat, please ensure any communication while the team member is on leave is _not_ work related.
+1. Ask what communication your team members wants while out (if any at all).  Some team members may want to stay plugged in a bit and chat informally to ensure they are not forgotten, and others may want to disconnect completely.  If the team member does want to chat, please ensure any communication while the team member is on leave is *not* work related.
 
 #### Leave Begins:  Your team member is off work
 
@@ -42,7 +43,7 @@ Some situations require a team member to start their leave immediately.  Hearing
 1. Make them feel welcome on their first day back and prepare/consider a small welcome back gift (flowers, small gift, sign/card from the team, etc.)
 1. Review the [Return from Leave]({{< ref "general-and-entity-benefits#returning-from-parental-leave" >}}) section below to prepare for your team member’s first day/week back at work.
 1. Reach out welcoming them back. Share what they can expect on their first day back, and that you'll plan on meeting with them first thing on their first day back.
-    * We want your team member to see a friendly face on their first day back, and feel comfortable as they return to work.
+    - We want your team member to see a friendly face on their first day back, and feel comfortable as they return to work.
 
 #### Return From Leave:  First Day Back at Work
 
@@ -106,12 +107,13 @@ Visit the [GitLab Team page](https://about.gitlab.com/company/team/) and search 
 
 1. Find your [yml file](/handbook/git-page-update/#12-add-yourself-to-the-team-page).
 1. Add `Parental Leave Reentry buddy` to the `departments` section in your entry (keeping your existing departments):
-   
+
    ```yaml
     departments:
       - ...
       - Parental Leave Reentry buddy
    ```
+
 1. Add the following code above the `expertise` section in your entry:
 
    ```yaml
@@ -120,7 +122,7 @@ Visit the [GitLab Team page](https://about.gitlab.com/company/team/) and search 
    ```
 
 1. If you already have an `expertise` section, add the list item portion of the above code:
-   
+
    ```html
                  <li><a href="">Parental Leave Reentry buddy</a></li>
    ```

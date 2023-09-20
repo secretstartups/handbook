@@ -4,9 +4,9 @@ description: A summary of Financial Wellness resources available to team members
 ---
 
 ## Introduction
- 
+
 GitLab has generated this handbook page to provide resources to team members relating to Financial Wellness. Please note that GitLab is not able to directly provide team members with any financial advice.
- 
+
 If you have any great resources that you have used in the past, please feel free to create a merge request to add to this page as everyone can contribute!
 
 ## Financial Wellness Resources

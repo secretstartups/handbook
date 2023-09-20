@@ -306,7 +306,7 @@ Team members are entitled to up to 56 calendar days of prenatal leave and 56 cal
 
 - Supplementary *prenatal* leave of 14 days may be granted (for a total of 70 days of prenatal leave)if a woman who has initiated pregnancy-related medical care at a preventive medical institution by the 12th week of pregnancy has continued for the whole period of pregnancy.
 - Supplementary *maternity* leave of 14 days bay be granted (for a total of 70 days of maternity leave) if there are complications in pregnancy, childbirth, or the postnatal period or if two or more children are born.
- 
+
 **Paternity Leave:**
 
 Team members are entitled to take up to 10 days of Paternity Leave which must be taken within the first two months of the child’s birth.
@@ -316,7 +316,7 @@ Team members are entitled to take up to 10 days of Paternity Leave which must be
 **Adoption Leave**
 
 For a family which has adopted a child up to 18 years of age, one of the adopters is entitled to 10 days of leave.
- 
+
 **Parental Leave**
 
 All team members are entitled to up to 1 ½ years of parental leave for the birth or adoption of a child until the child reaches eight years old.

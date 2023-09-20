@@ -31,7 +31,7 @@ The current coverage includes:
    - £25 a year for eye test
 - Virtual GP appointments – [DR@Hand](https://drive.google.com/file/d/1YzkeG0qMLPLi6TEY6mQXqV8xooMQb4_Z/view?usp=sharing)
 
- 
+
 **Please note: the AXA plan underwriting is based on a MHD (Medical History Disregarded) basis, meaning that pre-existing medical conditions that existed prior to the date on which the individual joined the AXA scheme will be covered for treatment** (subject to the rules and benefits of the AXA policy, please review your AXA membership package sent by AXA for further reference).
 
 \* Current team members enrolled and new joiners to the AXA plan will have cover for treatment of pre-existing medical issues they may have had before joining, without being a member for two years or being required to have 12 consecutive months of "trouble-free" from when the condition began (pre-existing moratorium terms no longer apply).
@@ -262,26 +262,26 @@ A fund factsheet is provided for each fund with usual information such as previo
 Management charges vary by fund and are not on the fact sheets: use the charges sheet tool on the [workplace pension page.](https://drive.google.com/file/d/1e38np_Q8_s9Ty5JdbXTiMFXYVPTa20UQ/view?usp=sharing).
 
 ## GitLab LTD United Kingdom Leave Policy
- 
+
 ### Sick Leave
- 
+
 Team members are entitled to Statutory Sick Pay (“SSP”)for up to 28 weeks, to be paid by GitLab. SSP is paid when a team member is sick for at least 4 days in a row (including non-working days); however, team members are not entitled to SSP for the first three "waiting" days.
 
 - A team member who is out sick for at least four days, but no more than 7 days will need to complete a [Company Self-Certification Form](https://docs.google.com/document/d/1Cy-xUgWwNKroUEEJ0ut80HGVA0d3RJV5mQO-amLjoCs/edit?usp=sharing) and return it to leaves@gitlab.com.
 - Team members who will be out sick for more than 7 days must provide a [fit note](https://www.gov.uk/taking-sick-leave) and notify the Absence Management team at `leaves@gitlab.com` as soon as possible.
 - Team members who have received SSP in the last 8 weeks who need additional sick pay will be paid for waiting days, including the initial 3-day period of the second leave.
 - Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in Time Off by Deel to ensure that annual sick leave entitlement is properly tracked.  GitLab PTO is inclusive of any entitlement in respect of statutory sick pay.
- 
+
 ### Statutory Vacation Leave
- 
+
 Team members are entitled to at least 28 vacation days which consist of 20 days of standard annual leave plus 8 public holidays. These days will accrue from the team member’s start date.
 - Entitlement to vacation leave is pro rata for any part-time team members based on hours worked.
 - It is important for UK team members to utilize time off for public holidays as the total amount of annual leave is accrued here inclusive of public holidays.
 - Team members must designate any vacation time taken as `Vacation` in Time Off by Deel to ensure that vacation entitlement is properly tracked.
 - Under normal circumstances, there is no carryover for unused vacation days, with exceptions where a team member cannot take annual leave due to sickness or maternity leave; however, given the situation surrounding COVID-19, the UK government has relaxed measures on the carry over of annual leave for the following two calendar years: 2020-2021 and 2021-2022.
- 
+
 ### Parental Leave
- 
+
 **Statutory Maternity Leave:** Team members can take up to 52 weeks of Maternity Leave.
 
 - The earliest that the Maternity Leave can start is 11 weeks before the expected week of childbirth.
@@ -292,7 +292,7 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 **Statutory Paternity Leave:** Team members can take up to 2 weeks of Paternity Leave or up to 50 weeks of [Shared Parental Leave](https://www.gov.uk/shared-parental-leave-and-pay).
 
 - Paternity Leave *cannot* be taken after Shared Parental Leave.
- 
+
 **Statutory Adoption Leave:** Team members can take up to 52 weeks of Adoption Leave.
 
 - Leave can start:
@@ -303,9 +303,9 @@ Team members are entitled to at least 28 vacation days which consist of 20 days 
 - Only one person in a couple can take adoption leave.  The other parent may be entitled to take paternity leave.
 - Team members must notify the Absence Management team at `leaves@gitlab.com` within 28 days if the date of placement (or UK arrival date for overseas adoptions) changes.
 - Team members should give at least 8 weeks’ notice if they would like to change their return to work date.
- 
+
 #### Maternity Leave Payment
- 
+
 Team members can receive Statutory Maternity Pay for up to 39 weeks:
 
 - To be eligible for Statutory Maternity Pay, team members must have continuous employment with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the expected week of childbirth). Eligible team members are entitled to:
@@ -323,9 +323,9 @@ To apply for Maternity Leave:
 - Payroll will continue to be the same while on parental leave but Vistra will file for reimbursement of any statutory funds once the proper paperwork has been sent.
 If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternity Allowance](https://www.gov.uk/maternity-allowance).
 - If a team member is eligible for maternity allowance and GitLab Parental Leave, GitLab will supplement the allowance so that team members receive 100% of their pay for up to 16 weeks of their leave.
- 
+
 #### Paternity Leave Payment
- 
+
 - Team members can receive Statutory Paternity Pay for up to 2 weeks which is £172.48 or 90% of the team member's average weekly earnings (whichever is lower) OR Shared Parental Leave Pay for up to 37 weeks which is £172.48 a week or 90% of the team member's average weekly earnings, whichever is lower.
 - To qualify, team members must have been continuously employed with GitLab for at least 26 weeks leading up to the "qualifying week" (15th week before the baby is due or the matching week if adopting).
 - If [eligible](general-and-entity-benefits#parental-leave), GitLab will supplement the team member's pay to ensure they receive 100% pay for up to 16 weeks of their leave.
@@ -333,33 +333,33 @@ If you do not qualify for Statutory Maternity Pay, you may qualify for [Maternit
    - Submit your time off by selecting the Parental Leave category in Time Off by Deel at least 30 days before your leave starts.
    - Send the Absence Management team at `leaves@gitlab.com` a completed [SPP Form](https://public-online.hmrc.gov.uk/lc/content/xfaforms/profiles/forms.html?contentRoot=repository:///Applications/PersonalTax_iForms/1.0/SC3&template=SC3.xdp) if applying for Statutory Paternity Pay or one of the [SPL Forms](https://www.acas.org.uk/shared-parental-leave-forms) if applying for Shared Parental Leave pay.
    - The Absence Management team will notify payroll and email Vistra a copy of the form, dates of leave and outline what pay the team member is eligible for (statutory, supplemental, etc).
-  
+
 #### Adoption Leave Payment
 
 - Team members can receive statutory adoption pay for up to 39 weeks:
    - 90% of your average weekly earnings (before tax) for the first 6 weeks
    - £172.48 or 90% of your average weekly earnings (whichever is lower) for the next 33 weeks
    - To be eligible for statutory adoption pay, team members must have had continuous employment with GitLab for at least 26 weeks leading up to the week they were matched with the child.
- 
+
 #### Unpaid Parental Leave
 
 - Team members who have been employed with GitLab for more than one year are eligible for up to 18 weeks of unpaid leave to look after their child's welfare.
    - The entitlement is per child up to the age of 18, regardless of the person's employer.
    - The balance of unpaid parental leave carries over to each employer. For example, if someone has taken 10 weeks of unpaid parental leave with their previous employer, they would be entitled to 8 weeks of leave with their new employer.
    - Each parent can take up to 4 weeks each year per child, unless otherwise agreed with their employer.
- 
+
 ### Other Job-Protected Leave
 
 The following leave types run concurrently with GitLab PTO. Team members should initiate leave by selecting the appropriate option in `Time Off by Deel`. If none applies, the team members should notify their manager and the Absence Management team `leaves@gitlab.com` to initiate leave.
- 
+
 **Magistrate Duty:** Any team member who is a magistrate is entitled to leave to carry out their duties. Magistrates will need to be in court for at least 13 days or 26 half-days per year.
- 
+
 **Justice of the Peace (Scotland):** Any team member who is a Justice of the Peace is entitled to leave to carry out their duties.
- 
+
 **Jury Service:** Team members who are called for jury service are entitled to time off to complete the service. Jury Service usually lasts up to 10 days, but can last longer.
- 
+
 **Parental Bereavement Leave:** Team members are entitled to 2 weeks of leave for a child under 18 who has died or if the team member has a stillbirth after 24 weeks of pregnancy.
- 
+
 **Time off for Public Duties:** Team members are entitled to a reasonable amount of time off if they are a local councillor, a school governor, a member of any statutory tribunal, a member of the managing or governing body of an educational establishment, a member of a health authority, a member of a school council or board in Scotland, a member of the Environment Agency or the Scottish Environment Protection agency, a member of the prison independent monitoring boards (England or Wales) or a member of the prison visiting committees (Scotland), a member of Scottish Water or a Water Customer Consultation Panel, or a trade union member. The amount of time should be agreed upon between the team member and the manager beforehand based on how long the duties might take, the amount of time the team member has already taken off for public duties, and how the time off will affect the business.
 
 ## Employers' Liability Insurance

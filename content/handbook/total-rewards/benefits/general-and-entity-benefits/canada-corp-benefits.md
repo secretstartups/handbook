@@ -16,7 +16,7 @@ Please review the [Employee Booklet](https://drive.google.com/file/d/1QToHbxyoqA
 
 ## Group Health Coverage
 
-GitLab offers medical, dental, and vision coverage at no cost to the team member. The benefits are outlined in the following [benefit summary](https://drive.google.com/file/d/1QToHbxyoqAx4lz8wnI73OqNuICScE5tk/view?usp=sharing) as well as below. This documentation also has details on the products and services available under the plan. 
+GitLab offers medical, dental, and vision coverage at no cost to the team member. The benefits are outlined in the following [benefit summary](https://drive.google.com/file/d/1QToHbxyoqAx4lz8wnI73OqNuICScE5tk/view?usp=sharing) as well as below. This documentation also has details on the products and services available under the plan.
 
 ### Medical Coverages
 
@@ -24,7 +24,7 @@ GitLab offers medical, dental, and vision coverage at no cost to the team member
 
 - Prescription Drugs: 80% - Nil deductible; 90% if purchased at Costco
 - Pay Direct Drug Card: Included - Generic Mandatory
-- Maximum:	Unlimited
+- Maximum:    Unlimited
 - Fertility Drugs: Unlimited as per all prescription medication
 - Smoking Cessations: $500 lifetime maximum
 - Vaccines: Included - reasonable & customary maximum
@@ -57,7 +57,7 @@ Effective May 1, 2021 GitLab team members and their dependants enrolled in Canad
 
 - Annual Deductible: None
 - Basic & Preventative: 80%
-- Periodontic & Endodontic:	80%
+- Periodontic & Endodontic:    80%
   - Annual Maximum: $2,000 per benefit year
 - Major Restorative Services: 50%
   - Annual Maximum: $2,000 per benefit year
@@ -157,18 +157,18 @@ Canada Life has designed [tools and services](https://www.greatwestlife.com/you-
 ## Frequently asked questions
 
 - Can the pharmacist submit my prescription claim electronically without a drug card?
-  - Yes, as long as you have the necessary information, a physical card is not needed for your prescription claim to be electronically submitted. Here are a few options for you: Log-on to [GroupNet for Plan Members](https://gwl.greatwestlife.com/MyLogin) and print out a paper copy of your drug card. Log-on to GroupNet for Plan Members (Mobile App or online) and save an electronic card to your phone. Provide your pharmacist you plan number, identification number, date of birth and identify if the patient is the employee, spouse or dependent child. 
+  - Yes, as long as you have the necessary information, a physical card is not needed for your prescription claim to be electronically submitted. Here are a few options for you: Log-on to [GroupNet for Plan Members](https://gwl.greatwestlife.com/MyLogin) and print out a paper copy of your drug card. Log-on to GroupNet for Plan Members (Mobile App or online) and save an electronic card to your phone. Provide your pharmacist you plan number, identification number, date of birth and identify if the patient is the employee, spouse or dependent child.
 - Who should I contact with questions?
   - For health, prescription drug, dental or out-of-country coverage or claims inquiries, please call 1-800-957-9777 or email Canada Life at `grp_hd_inquire@gwl.ca`.
 - What are my key responsibilities as a plan member?
   - If you experience a major lifestyles event, you must advise your plan administrator within 31 days of the event and complete any corresponding paperwork. Failure to notify Canada Life of a lifestyle event within 31 days of the event, could result in limitations or declined coverage. Please see your plan administrator for support.
-  - Major lifestyles events include: 
+  - Major lifestyles events include:
      - Marriage - legal or common-law (1st day of cohabitation)
      - Legal Separation
      - Divorce or termination of a common-law relationship
      - Death of spouse or insured child, Birth or adoption of a child
      - Loss of spouse’s benefits
-     - Dependents becoming ineligible for dependent coverage either because of their age or student status 
+     - Dependents becoming ineligible for dependent coverage either because of their age or student status
 
 ## Registered Retirement Savings Plan (RRSP)
 
@@ -351,7 +351,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 
 - Team members are entitled to take this leave for [specified reasons](https://www.ontario.ca/document/your-guide-employment-standards-act-0/infectious-disease-emergency-leave#section-7)  related to a designated infectious disease. The only disease for which infectious disease emergency leave may be taken as of 2021-03-09 is COVID-19.
 - Team Members should select `Out Sick` in Time Off by Deel.
- 
+
 **Organ Donor Leave** *Team members who have been employed with GitLab for at least 13 weeks*
 
 - Up to to 13 weeks of [organ donor leave](https://www.ontario.ca/document/your-guide-employment-standards-act-0/organ-donor-leave) for the purpose of undergoing surgery to donate all or part of certain organs to a person.
@@ -366,7 +366,7 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 </details>
 
 <details markdown="1">
-  
+
 <summary>Québec</summary>
 
 The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
@@ -376,16 +376,16 @@ To initiate leave, and ensure that statutory entitlements are properly tracked, 
 **Reservist Leave**
 
 - A reservist of the Canadian Armed Forces may be absent from civilian work, without pay, to conduct operations in Canada or abroad:
- - Abroad: After 12 months of uninterrupted service with their employer, reservists may be absent from work to take part in a Canadian Armed Forces operation abroad for a period of up to 18 months. An operation abroad includes preparation, training, rest and travel from their place of residence and back;
- - In Canada: A reservist may be absent from work to take part in a Canadian Armed Forces operation in Canada in order to:
-   - provide assistance in the event of a major disaster within the meaning of the Loi sur la sécurité civile;
-   - assist the civil authority at the request of the Attorney General of Québec pursuant to the National Defence Act;
-   - intervene in any other emergency situation designated by the Government.
- - In Canada or abroad: A reservist may be absent from work to take part in any other Canadian Armed Forces operation under the circumstances, the conditions and for the period prescribed by regulation;
- - Annual training: A reservist may be absent from work to take part in annual training with the Canadian Armed Forces for a period of up to 15 days;
- - Exceptions: A reservist does not have the right to be absent from work in the following situations:
-   - if there is a danger to the life, health or safety of other workers or the population;
-   - if there is a risk of destruction or serious deterioration of buildings or movable property, or in a case of force majeure; if their absence is contrary to their professional code of ethics.
+    - Abroad: After 12 months of uninterrupted service with their employer, reservists may be absent from work to take part in a Canadian Armed Forces operation abroad for a period of up to 18 months. An operation abroad includes preparation, training, rest and travel from their place of residence and back;
+    - In Canada: A reservist may be absent from work to take part in a Canadian Armed Forces operation in Canada in order to:
+        - provide assistance in the event of a major disaster within the meaning of the Loi sur la sécurité civile;
+        - assist the civil authority at the request of the Attorney General of Québec pursuant to the National Defence Act;
+        - intervene in any other emergency situation designated by the Government.
+    - In Canada or abroad: A reservist may be absent from work to take part in any other Canadian Armed Forces operation under the circumstances, the conditions and for the period prescribed by regulation;
+    - Annual training: A reservist may be absent from work to take part in annual training with the Canadian Armed Forces for a period of up to 15 days;
+    - Exceptions: A reservist does not have the right to be absent from work in the following situations:
+        - if there is a danger to the life, health or safety of other workers or the population;
+        - if there is a risk of destruction or serious deterioration of buildings or movable property, or in a case of force majeure; if their absence is contrary to their professional code of ethics.
 - Team Members should select `Mandatory Civilian Service` in Time Off by Deel.
 
 **Marriage or civil union**
@@ -448,7 +448,7 @@ The following leave types **do not** run concurrently with GitLab time away poli
 </details>
 
 <details markdown="1">
-  
+
 <summary>British Columbia</summary>
 
 - The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.
@@ -519,7 +519,7 @@ More information on these leave entitlements can be found on the [Government of 
 </details>
 
 <details markdown="1">
-  
+
 <summary>Alberta</summary>
 
 The following leave types run concurrently with GitLab time away policies (PTO, Sick Time, etc.). Statutory leave for which team members are not entitled to pay will be paid at 100% of the team member’s salary for the first 25 days. If the team member is eligible for a government benefit, GitLab will supplement the payment so that the team member receives 100% of their salary for the first 25 days.

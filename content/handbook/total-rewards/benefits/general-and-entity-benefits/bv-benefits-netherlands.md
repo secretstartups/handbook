@@ -62,11 +62,11 @@ Team members choose their own investment profile: neutral, defensive or offensiv
 Effective November 1, 2022, all team members in the Netherlands will be enrolled in GitLab's Group Accident Insurance Policy with Hienfeld.
 
 This cover provides peace of mind in the event of an accident. All team members are automatically enrolled at no cost to you.  The insured benefit per person is 2x annual salary in case of death or permanent disability due to an accident (maximum annual salary 250,000 euro per person.) You can find the General Terms and Conditions in [English](https://drive.google.com/file/d/10zMEoicyznarbiT_sJbwdKoQOdJb2rNK/view?usp=sharing) & [Dutch](https://drive.google.com/file/d/11dIBfZoIEIavIBYg-gWu7iZUbSxrnPJd/view?usp=sharing).
- 
+
 Because the insurance also pays out in case you pass away due to an accident, we urge you to inform your spouse about this benefit as well.
- 
+
 In the unfortunate event of an accident, please fill in the claim form and send it to total-rewards@gitlab.com as soon as possible. In case of death at least 36 hours before the funeral or cremation. The form is available both in [English](https://drive.google.com/file/d/1btOAO8HaIndD3rNyy2ZGM2v6pOqd5qet/view?usp=sharing) and [Dutch](https://drive.google.com/file/d/1TXDy9-OHgifVUtBht_vWoQ8Vdnr59pMe/view?usp=sharing)
- 
+
 Intern Coverage is a flat coverage amount: 50,000 Euro upon accidental death and 50,000 Euro in case of permanent disability.
 
 ## Life Insurance

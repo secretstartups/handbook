@@ -61,7 +61,7 @@ For [pregnancies with an expected due date of 4 September 2022 or later](https:/
 
 All parents who have custody of their child have an equal right to parental leave regardless of whether they are biological or adoptive, and regardless of the gender of the parent (though generally only one parent may take parental leave at a time). Each parent is entitled to 160 days of parental allowance, with a maximum of 63 days being transferable. Kela pays parental allowance and it is paid regardless of family structure. Parental leave can be taken in up to four periods and must be taken before the child turns two. Single parents are entitled to both quotas and twins, triplets, or other multiple births are an exception to the model and the allowance quota will be extended by 84 days for the second child and every subsequent child.
 
-#### _Before 31 July/4 September 2022_
+#### *Before 31 July/4 September 2022*
 
 Where a child is adopted by their parents (and placed into their care) before 31 July 2022 or a [maternity allowance period is due to start before 4 September 2022](https://www.kela.fi/families-quick-guide), the preceding system of maternity/paternity/adoptive/parental leave allowances, as set out below, will apply.
 

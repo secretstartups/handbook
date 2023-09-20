@@ -50,6 +50,7 @@ Please refer to the GitLab Travel page of the Handbook on how to book flights th
 Papaya Global will offer healthcare by [Cigna](https://drive.google.com/drive/folders/14gS4fI9MSsf4ng4AFi6yS5SBptpw3GWz), this will include dependants.
 
 ## Papaya Global - UAE Leave policies
+
 Below is information related to UAE's statutory leave policies. Please note that team members hired in the UAE are hired via Papaya Global (PEO) and should always check with the PEO, first, for the most up to date information.
 
 ### Annual leave

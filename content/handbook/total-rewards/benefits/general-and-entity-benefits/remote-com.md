@@ -229,7 +229,7 @@ As long as you are a legal resident of Sweden you are entitled to the basic pare
 - The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
- 
+
 Under the Remote Technology scheme, the employer and member both pay **5% each to the Provident fund** as contributions. Applicable tax laws provide that any contribution the employer makes is treated as a contribution made by the member. The contributions will qualify for a tax deduction in each tax year of assessment.
 
 ### Group Life including the Global Education Protector & Funeral Family Benefit
@@ -323,7 +323,7 @@ In order to be eligible for paid maternity leave, you must make sure to meet the
 - If you are below 21 years old, you won’t be required to have made contributions to social security before.
 - If you are 21 to 26 years old, then you must be making contributions to social security for at least 90 days during the past 7 years, or 180 days during your entire working life.
 - If you are over 26 years old, 180 days during the past 7 years or at least 360 days during your working life.
-    
+
 If you don’t meet this requirement, you can still get your maternity leave and get paid during those 16 weeks. Under certain conditions, you will get a non-contributory pension, which pays approximately 530€ per month. Team Members will need to request your [work-life certificate](https://balcellsgroup.com/employment-history-report/) at the “Tesorería de la Seguridad Social”, which can be requested online.
 
 To help plan your leave click: [How Much Exactly Will You Get Paid On Leave](https://balcellsgroup.com/maternity-leave-spain/#How_much_exactly_will_you_get_paid_during_maternity_leave).
@@ -757,7 +757,7 @@ GitLab does not plan to offer pension benefit at this time as Austria has their 
 
 GitLab does not plan to offer life insurance at this time as team members can access the benefits from Social insurance system if they get ill, injured or have a disability.
 
-###  Bonus Payment
+### Bonus Payment
 
 The salary will be paid 14 times a year. This includes 12 months salary and two bonuses.
 

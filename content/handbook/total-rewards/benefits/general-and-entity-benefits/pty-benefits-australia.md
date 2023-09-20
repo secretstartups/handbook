@@ -10,6 +10,7 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 [Fair Work Information Statement](https://www.fairwork.gov.au/sites/default/files/migration/724/Fair-Work-Information-Statement.pdf)
 
 ### Medical
+
 Effective 2023-07-27, all Australian Team members will be eligible to enroll into one of BUPA’s hospital plans and add/mix it with extra coverage options if you prefer. GitLab employees can mix and match (one Hospital plan level and one Extras option) to suit their needs.
 
 - [BUPA Hospital Plan Highlights](https://drive.google.com/drive/folders/18kU_lHdKau2xBoKLC_6hAsC7UP43HzZ9?usp=sharing)
@@ -349,20 +350,20 @@ Team members must pass the [income test](https://www.servicesaustralia.gov.au/me
 **Record-keeping for paid Parental Leave:**
 
 - In addition to the usual record-keeping requirements, employers that have team members getting government-funded Parental Leave Pay also have to keep the following records:
-  -  the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
+  - the amount of Parental Leave Pay funding received from the government for each team member and the period it covers
   - the date each parental leave payment was made to the team member
   - the period each payment covers
   - the gross amount of the payment
   - the net amount paid and the amount of income tax withheld (including other payments, if any, were made)
   - a statement identifying the payment as Parental Leave Pay under the Australian Government Paid Parental Leave Scheme
   - the amount of any deductions made from each payment.
-  
+
 **Pay slips for Parental Leave payments:**
 
 - Team members who get Australian Government Parental Leave Pay have to be given a pay slip for each payment. The pay slip must specify that the payments are Parental Leave Pay under the Australian Government Paid Parental Leave Scheme.
 - Ordinary pay slip requirements apply to pay slips given to team members getting government-funded Parental Leave Pay.
 
-##  GitLab PTY New Zealand Specific Benefits
+## GitLab PTY New Zealand Specific Benefits
 
 ### Annual Leave
 
@@ -387,7 +388,7 @@ If it’s impossible to find a replacement and the team member ends up taking th
 *Note: To stay in compliance with local laws we would follow [the New Zealand government website](https://www.employment.govt.nz/leave-and-holidays/public-holidays/employees-working-shifts-or-on-call/) with regards to compensation for worked time during on-call.*
 
 ### Statutory Sick Leave
- 
+
 - Team members in New Zealand are entitled to 10 days' of statutory sick leave after six months of current continuous employment with GitLab. For each 12 months after meeting the above criteria, each team member gets at least ten days sick leave.
 - If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
 - Sick Leave runs concurrently with GitLab's [Sick Time Policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}).
@@ -454,7 +455,7 @@ Partner Leave
 
 <summary>Stress Leave</summary>
 
-- A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](#sick-leave) apply.
+- A team member with workplace stress that amounts to an illness may take sick leave. The [ordinary conditions for sick leave](#statutory-sick-leave) apply.
 - This leave runs concurrently with GitLab PTO.
 
 *How to Apply:*
@@ -537,7 +538,7 @@ For more information regarding this policy, please reivew the [Employment New Ze
 <summary>COVID-19 and the workplace</summary>
 
 GitLab and its team members need to work together to protect New Zealand and keep each other safe during the global COVID-19 pandemic. This means that normal obligations to keep in regular contact and to act in good faith are more important than ever.
-  
+
 - This leave runs concurrently with GitLab PTO. Team members must designate this time off as `Out Sick` in Time Off by Deel to ensure that statutory entitlements are properly tracked.
 
 For more information pleave review the [Employment New Zealand website](https://www.employment.govt.nz/leave-and-holidays/other-types-of-leave/coronavirus-workplace/leave-and-pay-entitlements-during-covid-19/).

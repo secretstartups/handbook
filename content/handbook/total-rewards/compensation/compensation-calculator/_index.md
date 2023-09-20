@@ -248,7 +248,7 @@ To determine your area:
 1. Select your Metro Area if you live within a commutable one hour and forty-five minutes of a city listed.
 
     If you are within a commutable one hour and forty-five minutes of more than one city, use the city with the shortest commute as your location. If not, select "Not Applicable."
-    
+
     If there are no additional boxes for State/Province and/or Metro Area for the country you select, this country has the same location factor regardless of the city you live in. Similarly, if there is no additional box for Metro Area after selecting a State/Province, this state or province has the same location factor regardless of the city you live in.
 1. If your country is not listed, reach out to total-rewards@domain to gather relevant data.
 1. When you move, you have to inform People Ops and Total Rewards, per the [Relocation process](/handbook/people-group/relocation/) and your compensation may be adjusted up or down. Refer to Total Rewards team or the Compensation Calculator to see what the likely impact will be.
@@ -297,54 +297,54 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 #### Job Grades:
 
-_Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below._
+*Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below.*
 
-| Grade	| Management       | Individual Contributor    |
+| Grade    | Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
 | 15    | CEO              |                           |
 | 14    | EVP/CXO          |                           |
 | 12    | VP               | Fellow                    |
 | 11    | Senior Director  | Senior Distinguished      |
-| 10    |	Director	       | Distinguished  <br> Senior Principal Product Manager           |
-| 9	    | Senior Manager <br> Group Manager, Product   | Principal <br> Principal Product Manager    |
-| 8	    | Manager          | Staff <br> Senior Product Manager <br> Consultant |
-| 7			|                  | Senior <br> Product Manager	                   |
-| 6			|                  | Intermediate              |
-| 5			|                  | Junior                    |
-| 4			|                  | Intern                    |
+| 10    |    Director           | Distinguished  <br> Senior Principal Product Manager           |
+| 9        | Senior Manager <br> Group Manager, Product   | Principal <br> Principal Product Manager    |
+| 8        | Manager          | Staff <br> Senior Product Manager <br> Consultant |
+| 7            |                  | Senior <br> Product Manager                       |
+| 6            |                  | Intermediate              |
+| 5            |                  | Junior                    |
+| 4            |                  | Intern                    |
 
 Dual career tracks can be added to each job family (regardless of division) when supported by data. Each individual contributor level above senior (grade 7) will have links to market examples of that level in the relevant section of the job family.
 
 ##### Sales/Sales Development:
 
-| Grade	| Management      | Individual Contributor          |
+| Grade    | Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
 | 15    | CEO             |                                 |
 | 14    | EVP/CXO         |                                 |
 | 12    | VP              |                                 |
-| 11    | Senior Director |	                                |
-| 10    |	Director	      |                                 |
-| 9	    | Manager (Sales) <br> Senior Manager (Sales)        |         	                      |
-| 8	    | Manager (Demand Generation)                |	Alliance Business Development Manager <br> Enterprise  |
-| 7			|                 | Mid Market                      |
-| 6			|                 | SMB/SDR Lead & Acceleration                             |
-| 5			|                 | Analyst/ SDR  |
+| 11    | Senior Director |                                    |
+| 10    |    Director          |                                 |
+| 9        | Manager (Sales) <br> Senior Manager (Sales)        |                                   |
+| 8        | Manager (Demand Generation)                |    Alliance Business Development Manager <br> Enterprise  |
+| 7            |                 | Mid Market                      |
+| 6            |                 | SMB/SDR Lead & Acceleration                             |
+| 5            |                 | Analyst/ SDR  |
 
 ##### Customer Success:
 
-| Grade	| Management       | Individual Contributor    |
+| Grade    | Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
 | 15    | CEO              |                           |
 | 14    | EVP/CXO          |                           |
 | 12    | VP               | Fellow                    |
-| 11    | Senior Director  |	                         |
-| 10    |	Director	       | Distinguished             |
-| 9	    | Senior Manager <br> Manager   | Principal <br> Staff  |
-| 8	    |          |  |
-| 7			|                  | Senior	                   |
-| 6			|                  | Intermediate              |
-| 5			|                  | Junior                    |
-| 4			|                  | Intern                    |
+| 11    | Senior Director  |                             |
+| 10    |    Director           | Distinguished             |
+| 9        | Senior Manager <br> Manager   | Principal <br> Staff  |
+| 8        |          |  |
+| 7            |                  | Senior                       |
+| 6            |                  | Intermediate              |
+| 5            |                  | Junior                    |
+| 4            |                  | Intern                    |
 
 ## Compa Ratio
 

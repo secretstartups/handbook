@@ -91,7 +91,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 4.16       | 3.89       | -7.63%     |
+    | Male                     | 4.16       | 3.89       | -7.63%     |
     | Female                 | 4.21       | 3.87       | -6.86%     |
     | Individual Contributor | 4.13       | 3.88       | -6.15%     |
     | Manager                | 4.35       | 3.88       | -10.90%    |
@@ -126,7 +126,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.67       | 3.42       | -6.90%     |
+    | Male                     | 3.67       | 3.42       | -6.90%     |
     | Female                 | 3.66       | 3.46       | -5.58%     |
     | Individual Contributor | 3.72       | 3.50       | -5.80%     |
     | Manager                | 3.33       | 3.23       | -2.98%     |
@@ -161,7 +161,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.75       | 3.65       | -2.66%     |
+    | Male                     | 3.75       | 3.65       | -2.66%     |
     | Female                 | 3.79       | 3.59       | -5.40%     |
     | Individual Contributor | 3.83       | 3.70       | -3.39%     |
     | Manager                | 3.38       | 3.41       |  0.84%     |
@@ -196,7 +196,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.59       | 3.82       |   6.45%    |
+    | Male                     | 3.59       | 3.82       |   6.45%    |
     | Female                 | 3.63       | 3.72       |   2.39%    |
     | Individual Contributor | 3.63       | 3.77       |   3.86%    |
     | Manager                | 3.38       | 3.83       |  13.36%    |
@@ -216,7 +216,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.39       | 3.23       | -4.86%     |
+    | Male                     | 3.39       | 3.23       | -4.86%     |
     | Female                 | 3.28       | 3.28       | -0.01%     |
     | Individual Contributor | 3.41       | 3.31       | -3.07%     |
     | Manager                | 3.26       | 3.01       | -7.76%     |
@@ -250,7 +250,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 2.87       | 3.04       |  5.87%     |
+    | Male                     | 2.87       | 3.04       |  5.87%     |
     | Female                 | 2.81       | 3.16       | 12.40%     |
     | Individual Contributor | 2.96       | 3.18       |  7.38%     |
     | Manager                | 2.40       | 2.76       | 14.87%     |
@@ -284,7 +284,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.95       | 3.95       |  0.09%     |
+    | Male                     | 3.95       | 3.95       |  0.09%     |
     | Female                 | 3.44       | 3.60       |  4.60%     |
     | Individual Contributor | 3.82       | 3.84       |  0.49%     |
     | Manager                | 3.61       | 3.89       |  7.68%     |
@@ -319,7 +319,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 4.48       | 4.39       | -2.09%     |
+    | Male                     | 4.48       | 4.39       | -2.09%     |
     | Female                 | 4.40       | 4.37       | -0.68%     |
     | Individual Contributor | 4.49       | 4.43       | -1.29%     |
     | Manager                | 4.27       | 4.24       | -0.79%     |
@@ -354,7 +354,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 3.08       | 3.24       |  5.21%     |
+    | Male                     | 3.08       | 3.24       |  5.21%     |
     | Female                 | 3.13       | 3.31       |  5.77%     |
     | Individual Contributor | 3.21       | 3.35       |  4.36%     |
     | Manager                | 2.58       | 3.00       | 16.28%     |
@@ -389,7 +389,7 @@ By demographic:
 
     | GitLab                 | 2019 Score | 2020 Score | YOY Change |
     |------------------------|------------|------------|------------|
-    | Male	                 | 4.16       | 4.13       | -0.68%     |
+    | Male                     | 4.16       | 4.13       | -0.68%     |
     | Female                 | 4.25       | 4.16       | -2.07%     |
     | Individual Contributor | 4.20       | 4.16       | -0.97%     |
     | Manager                | 4.25       | 4.11       | -3.27%     |
@@ -424,7 +424,7 @@ By demographic:
 
     | GitLab                 | 2020 Score |
     |------------------------|------------|
-    | Male	                 | 3.67       |
+    | Male                     | 3.67       |
     | Female                 | 3.40       |
     | Individual Contributor | 3.68       |
     | Manager                | 3.33       |
@@ -459,7 +459,7 @@ By demographic:
 
     | GitLab                 | 2020 Score |
     |------------------------|------------|
-    | Male	                 | 3.98       |
+    | Male                     | 3.98       |
     | Female                 | 4.02       |
     | Individual Contributor | 4.02       |
     | Manager                | 3.85       |
@@ -494,7 +494,7 @@ By demographic:
 
     | GitLab                 | 2020 Score |
     |------------------------|------------|
-    | Male	                 | 3.10       |
+    | Male                     | 3.10       |
     | Female                 | 3.40       |
     | Individual Contributor | 3.20       |
     | Manager                | 3.14       |
@@ -528,7 +528,7 @@ By demographic:
 
     | GitLab                 | 2020 Score |
     |------------------------|------------|
-    | Male	                 | 3.85       |
+    | Male                     | 3.85       |
     | Female                 | 3.78       |
     | Individual Contributor | 3.77       |
     | Manager                | 3.97       |
@@ -587,7 +587,7 @@ By demographic:
     | Yes, I participated and do not agree with the statement above.                                                                         | 6     | 1%               |
     | No, I did not participate and am not interested in GitLab offering a mediation and mental-wellness benefit.                            | 258   | 33%              |
 
-1. What corporate social responsibility activities would you like to see GitLab enter? The purpose of corporate social responsibility is to give back to the community, take part in philanthropic causes, and provide positive social value. 
+1. What corporate social responsibility activities would you like to see GitLab enter? The purpose of corporate social responsibility is to give back to the community, take part in philanthropic causes, and provide positive social value.
    - Summary of Responses:
      - Giving team members a set amount of money to donate to causes they support each year.
      - Donation matching for donations made by team members or hours volunteered.
@@ -607,7 +607,7 @@ By demographic:
 
     | GitLab                 | Australia Score | United States Score | Netherlands Score | Canada Score | India Score | United Kingdom Score | Germany Score | New Zealand Score |
     |------------------------|-----------------|---------------------|-------------------|--------------|-------------|----------------------|---------------|-------------------|
-    | Male	                 | 3.21            | 3.75                | 2.29              | 3.14         | 2.18        | 3.12                 | 2.91          | 3.50              |
+    | Male                     | 3.21            | 3.75                | 2.29              | 3.14         | 2.18        | 3.12                 | 2.91          | 3.50              |
     | Female                 | 4.67            | 3.72                | 2.71              | 3.00         | 2.75        | 2.79                 | 3.20          | 3.00              |
     | Individual Contributor | 3.50            | 3.79                | 2.53              | 3.19         | 2.29        | 3.05                 | 3.22          | 3.50              |
     | Manager                | 2.89            | 3.70                | 2.50              | 2.71         | 3.00        | 3.00                 | 1.50          | 3.00              |
@@ -618,7 +618,7 @@ By demographic:
 
     | GitLab                 | United States Score | Canada Score | India Score | United Kingdom Score |
     |------------------------|---------------------|--------------|-------------|----------------------|
-    | Male	                 | 4.00                | 3.71         | 1.91        | 3.12                 |
+    | Male                     | 4.00                | 3.71         | 1.91        | 3.12                 |
     | Female                 | 3.83                | 3.57         | 2.50        | 2.93                 |
     | Individual Contributor | 3.94                | 3.86         | 2.00        | 3.08                 |
     | Manager                | 3.99                | 3.00         | 3.00        | 3.00                 |
@@ -629,7 +629,7 @@ By demographic:
 
     | GitLab                 | Ireland Score   | Hungary Score |
     |------------------------|-----------------|---------------|
-    | Male	                 | 1.54            | 2.67          |
+    | Male                     | 1.54            | 2.67          |
     | Female                 | 1.50            | 1.50          |
     | Individual Contributor | 1.59            | 2.20          |
     | Manager                | 1.25            | n/a           |
@@ -640,7 +640,7 @@ By demographic:
 
     | GitLab                 | Ireland Score   | Hungary Score |
     |------------------------|-----------------|---------------|
-    | Male	                 | 2.38            | 3.33          |
+    | Male                     | 2.38            | 3.33          |
     | Female                 | 2.20            | 3.00          |
     | Individual Contributor | 2.35            | 3.20          |
     | Manager                | 2.25            | n/a           |
@@ -651,7 +651,7 @@ By demographic:
 
     | GitLab                 | United States Score |
     |------------------------|---------------------|
-    | Male	                 | 2.66                |
+    | Male                     | 2.66                |
     | Female                 | 2.73                |
     | Individual Contributor | 2.77                |
     | Manager                | 2.52                |
@@ -728,7 +728,7 @@ By demographic:
     | Charitable giving. | 28% | 0% | 27% | 33% |
     | Higher KiwiSaver contribution. | n/a | n/a | 45% | n/a |
 
-8. Which benefit would you be most  willing to sacrifice to allow for new benefits?
+1. Which benefit would you be most  willing to sacrifice to allow for new benefits?
 
 - Americas
 
@@ -782,7 +782,7 @@ By demographic:
     | Visiting grant | 5% | 27% | 18% | 17% |
     | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 19% | 0% | 27% | 17% |
 
-9. Which benefits do you most want GitLab to retain? (select up to 4)
+1. Which benefits do you most want GitLab to retain? (select up to 4)
 
 - Americas
 
@@ -836,7 +836,7 @@ By demographic:
     | Visiting grant | 49% | 33% | 73% | 33% |
     | $20,000 Life Insurance (Expression of Wishes)/Company Life Insurance Policy | 5% | 20% | 27% | 17% |
 
-10. What provider for Health/Medical benefits do you prefer?
+1. What provider for Health/Medical benefits do you prefer?
 
 - **United States**
 
@@ -900,7 +900,7 @@ By demographic:
      - No preference.
      - Vitality.
 
-11. What provider for Dental/Vision do you prefer?
+1. What provider for Dental/Vision do you prefer?
 
 - **United States**
 
@@ -924,7 +924,7 @@ By demographic:
       - Provider not listed above.
       - This question should have been split out for Dental and Vision since not all of these providers do both (I also realized what I did here and will split them next year.)
 
-12. What provider for spending accounts do you prefer (HSA, FSA, LPFSA)?
+1. What provider for spending accounts do you prefer (HSA, FSA, LPFSA)?
 
 - **United States**
 
@@ -942,7 +942,7 @@ By demographic:
      - Not informed enough on the choices to respond.
      - Option not listed above.
 
-13. If GitLab were to convert you to a team member employed through an entity, what benefits would you expect to receive/are offered by most employers in your country? (select all that apply)
+1. If GitLab were to convert you to a team member employed through an entity, what benefits would you expect to receive/are offered by most employers in your country? (select all that apply)
 
 | Response | Austria (% of Respondents) | Mexico (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Singapore (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
 |----------|----------------------------|---------------------------|---------------------------|----------------------------|---------------------------------------|------------------------------|---------------------------|----------------------------|
@@ -953,7 +953,7 @@ By demographic:
 | Disability insurance. | 20% | 33% | 33% | 29% | 17% | 83% | 40% | 20% |
 | Pension. | 80% | 67% | 58% | 86% | 50% | 50% | 100% | 40% |
 
-14. If GitLab were to convert you to a team member employed through an entity, what benefits could GitLab offer that would be considered premium/only a top-tier employer would provide? (select all that apply)
+1. If GitLab were to convert you to a team member employed through an entity, what benefits could GitLab offer that would be considered premium/only a top-tier employer would provide? (select all that apply)
 
 | Response | Austria (% of Respondents) | Mexico (% of Respondents) | Poland (% of Respondents) | Romania (% of Respondents) | Russian Federation (% of Respondents) | Singapore (% of Respondents) | Turkey (% of Respondents) | Ukraine (% of Respondents) |
 |----------|----------------------------|---------------------------|---------------------------|----------------------------|---------------------------------------|------------------------------|---------------------------|----------------------------|

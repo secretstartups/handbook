@@ -5,7 +5,7 @@ description: "On this page, we explain how we carry out the Compensation Review 
 
 ## Introduction
 
-On this page, we explain how we carry out the Annual Compensation Review (ACR) cycle. For more information on the process and input review for the Compensation Review Process, please see the following [handbook page](/handbook/total-rewards/compensation/compensation-review-cycle/review-cycle-inputs/).
+On this page, we explain how we carry out the Annual Compensation Review (ACR) cycle. For more information on the process and input review for the Compensation Review Process, please see the following [handbook page]({{< ref "review-cycle-inputs" >}}).
 
 If you have any feedback or questions about the compensation review cycle, please contact [People Connect](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
@@ -85,7 +85,7 @@ Team members hired after October 31st will be reviewed to ensure their cash comp
     - PBPs will enter promotions and promotional increases that have been approved following the promotion calibration process. Promotional RSU grants will be automatically calculated and awarded subject to approval at the next grant approval date
     - Depending on budget constraints, the performance increases for the individual team members may be adjusted up or down by management and reviewed by Total Rewards.
     - Managers will determine increases to cash compensation as appropriate based on talent assessment outcomes, and market adjustments. In February - March, Director+ team members will review equity and determine equity awards to ensure team members are incentivized through their total rewards package in the next fiscal year.
-    -  Compensation and job information changes will be frozen at this time for the duration of the review cycle.
+    - Compensation and job information changes will be frozen at this time for the duration of the review cycle.
 1. Managers are advised to directly align proposed increases for team members with their manager (Senior Manager/Director) over 1-1s before submitting.
     - Hereafter divisional leaders (or department leaders as applicable) can review and discuss tentative budgetary impact for the division (or department as applicable).
 1. January 13th: People Business Partner check on the progress/Budget impact.
@@ -340,7 +340,7 @@ In determining the equity refresh grants for team members, Total Rewards recomme
    - Value Vesting from 2023-02-01 to 2024-01-31
        - This will calculated to dollars based on a share price assumption that will be disclosed in the help text of the planning screen.
    - FY23 Equity Refresh Grant Amount
-       -  This field will have the original intended value (not current value) of the team member's last refresh grant if they received one in FY23.
+       - This field will have the original intended value (not current value) of the team member's last refresh grant if they received one in FY23.
    - Proposed FY24 Q1 Promotion Grant Amount
        - The promotional grant for the cycle that just took place effective February 1 is included in the grid for reference. This grant is still pending full approval during the March grant approval and so is not included in the unvested equity or value vesting fields.
    - The smart panel will contain the team member's FY24 job title as well as their FY23 and FY24 compa ratio for context on decisions made during the cash review cycle.
@@ -376,7 +376,7 @@ The following information is available in the statement:
 - Curent Unvested Equity Value: Total value of unvested holdings based on the assumed share price of all previous grants including any promotion grants in FY24 Q1.
     - Current Value Vesting in FY24: What is vesting during this fiscal year from the total unvested.
 - FY24 Refresh Grant Equity Value: This is the total value of the grant allocated during this refresh cycle.
-    -  FY24 Refresh Grant Value Vesting in FY24: The amount of this year's refresh grant vesting in FY24. This is calculated the same as on page 1.
+    - FY24 Refresh Grant Value Vesting in FY24: The amount of this year's refresh grant vesting in FY24. This is calculated the same as on page 1.
 - Total Equity Unvested Value: The sum of the current and refresh grant to provide the new total unvested holdings of the team member.
     - Total Equity Value Vesting in FY24: The sum of the current and refresh grant vesting in FY24.
 
@@ -393,7 +393,7 @@ The promotion and annual compensation review budget is separate and calculated b
 - If promotion budget is not used for any given quarter, **it will not rollover to future quarters**.
 - In the case where more than or less than the given budget is projected for any given quarter, please follow the following process to review the possibility of identifying tradeoffs for unused or surplus promotion budget.
     1. Work with your [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to share promotion projections with Total Rewards for an initial analysis.
-    2. Work with your Finance Business Partner to identify potential tradeoffs. Finance requires a minimum of two weeks notice ahead of the commencement of the next quarter to review this possibility. For example, as Q2 begins May 1, the final date to confirm a repurpose budget rollover request would be April 15. *Note: This is not a guarantee, but something leaders can explore with their Finance Business Partner.*
+    1. Work with your Finance Business Partner to identify potential tradeoffs. Finance requires a minimum of two weeks notice ahead of the commencement of the next quarter to review this possibility. For example, as Q2 begins May 1, the final date to confirm a repurpose budget rollover request would be April 15. *Note: This is not a guarantee, but something leaders can explore with their Finance Business Partner.*
 - The Total Rewards team maintains a 5% hold back of the total budget in order to perform pay equality audits.
 
 ### Annual Compensation Review Budget

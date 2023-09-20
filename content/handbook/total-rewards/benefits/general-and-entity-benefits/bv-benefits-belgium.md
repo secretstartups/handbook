@@ -24,9 +24,9 @@ Each year all employees will be sent ecocheques no later than July 31. In accord
 Team members in Belgium should keep a basic first aid kit in their home, as per the Belgian Work Regulations and can purchase and expense one if needed. [This kit from Amazon](https://www.amazon.com.be/-/en/Medical-Outdoor-Survival-Emergency-Workplace/dp/B07R3RMFC4/ref%3Dsr_1_11?crid%3DBRSTI7BC72FQ%26keywords%3Dfirst%252Baid%252Bkit%252Bfor%252Bhome%252Boffice%26qid%3D1686872754%26sprefix%3Dfirst%252Baid%252Bkit%252Bfor%252Bhome%252Boffic%252Caps%252C198%26sr%3D8-11%26th%3D1&sa=D&source=docs&ust=1689883665744344&usg=AOvVaw3000OeBSFQU0GMfKNhd7KA) is suitable but team memebrs may purchase and expense a similar kit in a similar price range from elsewhere if preferred. Please, when expensing the first aid kit through Navan, add a link to this Handbook page in the description to assist the expenses team with approvals (https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/bv-benefits-belgium/#first-aid-kit).
 
 ## Belgium Holiday Schedule
- 
+
 Pursuant to article 13 of the law on paid public holidays, employers are obliged to inform employees of observance holidays granted in lieu of public holidays which fall on a Sunday or another day of inactivity. Below is the 2023 Holiday and Observance schedule for Team Members in Belgium:
- 
+
 | Date                     | Holiday | Replacement Day |
 |--------------------------|:---:|:----:|
 | Sunday January 1st         | New Year's Day  | Monday January 2, 2023 |

@@ -182,7 +182,7 @@ The process for tracking interim/acting roles in both cases is as follows:
     - Whether the interim/acting role is lateral or a higher level
     - The effective start date of the interim/acting period
 1. *(for interim)* People Business Partner will submit a [Job Change - Change Job Details](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit?usp=sharing) request in Workday. Job title should not be changed, as compensation and job family are not altered as part of the interim/acting process. Only a modification to  to the team member's `Business Title` is required. This step is only done for interim positions as acting positions are not tracked in Workday, but exclusively on the spreadsheet.
-2. People Connect will either, 1) confirm that the interim/acting period has been added to the [Acting/Interim Tracker](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0), or 2) confirm that the job title has been added to Workday.
+1. People Connect will either, 1) confirm that the interim/acting period has been added to the [Acting/Interim Tracker](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0), or 2) confirm that the job title has been added to Workday.
 
 #### Submitting
 
@@ -190,7 +190,7 @@ When the interim/acting period ends, the following process should be followed to
 
 - *(For Acting bonuses)* The manager replies to the initial email to `people-connect@gitlab.com` and their People Business Partner to confirm the start/end date of the acting period and their initial bonus calculation
 - *(For Interim bonuses)* The manager references the Workday `Job` tab and clicks into `Job History` and review the 'Business Title' column to confirm the start date of the interim period
-- Once confirmed, the Manager submits the bonus in Workday. Follow the [Request a One-Time Payment job-aid](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit?usp=sharing) to submit an OTP. Manager must also provide the start and end date of the of interim period in Workday under the _Additional Information_ section in Workday
+- Once confirmed, the Manager submits the bonus in Workday. Follow the [Request a One-Time Payment job-aid](https://docs.google.com/document/d/15_cqMAIoqkxNhoCTL42X3XUpr0E9fNZXFmY3Yitk2LQ/edit?usp=sharing) to submit an OTP. Manager must also provide the start and end date of the of interim period in Workday under the *Additional Information* section in Workday
 
 **Note:** The team member must be an active team member of GitLab at the end of the interim role period to be eligible to recive a bonus payment. If a team member leaves GitLab during the interim role period, they will not be eligible for a prorated payment.
 
@@ -271,10 +271,10 @@ The Variable Pay Frequency is a field held in Workday and applicable to roles th
 | Department/Role Description | Variable Pay Frequency Type |
 | --------------------------- | --------------------------- |
 | VP (non-sales), Executives | [Company Executive Bonus Program](#company-director-and-above-bonus-plan) |
-| VP (Channel, Field Operations, Customer Success) | [Sales Executive Bonus Program](#sales-director-and-above-bonus-plan) |
+| VP (Channel, Field Operations, Customer Success) | Sales Executive Bonus Program |
 | VP (Commercial Sales, Enterprise Sales) | Monthly Bonus |
 | Director (non-sales) | [Company Director Bonus Program](#company-director-and-above-bonus-plan) |
-| Director (Field Operations) | [Sales Director Bonus Program](#sales-director-and-above-bonus-plan) |
+| Director (Field Operations) | Sales Director Bonus Program |
 | Director (Channel, Customer Success, Enterprise Sales) | Monthly Bonus |
 | Director (Consulting Delivery) | Quarterly Bonus |
 | Channel, Commercial Sales, Customer Success, Enterprise Sales, Sales Development (IC) | Monthly Bonus |
