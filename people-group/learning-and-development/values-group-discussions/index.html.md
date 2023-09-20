@@ -35,15 +35,15 @@ The objective of these group discussions is to determine where we may be able to
 
 ### Values Discussion flow
 
-- *Pre-work <all>:* Value meaning: We’ll start each session by asking everyone in advance to come prepared with a short description answering: what does <value> mean to you?
-- *Intros <all>:* Very brief introductions, one or two sentences from each person to bring their voice into the room.
-- *Intros <all>:* Moderator sets the expectations for the meeting
-- *Defining Key Operating principles <breakout groups>:* In groups of 4, identify and define the operating principles for <value> that resonates with you and you see yourself living daily. 
+- **Pre-work <all>:** Value meaning: We’ll start each session by asking everyone in advance to come prepared with a short description answering: what does <value> mean to you?
+- **Intros <all>:** Very brief introductions, one or two sentences from each person to bring their voice into the room.
+- **Intros <all>:** Moderator sets the expectations for the meeting
+- **Defining Key Operating principles <breakout groups>:** In groups of 4, identify and define the operating principles for <value> that resonates with you and you see yourself living daily. 
     - TO DO PRIOR TO EACH SESSION: Prepare a doc for each group that lists each operating principle with definitions
-- *Identify less notable operating principles <breakout groups>:* Inversely, which operating principles don’t seem as important? Can these be combined with others?
-- *Sharing and discussing outcomes <all>:* Each group presents the principles they selected and the definitions they came up with as a group.
-- *Summarize <all>:* each group verbalizes if they changed their definitions or top principles. Each group can present less notable operating principle(s).
-- *Wrap up <all>:* Moderator summarizes the results and thanks the participants
+- **Identify less notable operating principles <breakout groups>:** Inversely, which operating principles don’t seem as important? Can these be combined with others?
+- **Sharing and discussing outcomes <all>:** Each group presents the principles they selected and the definitions they came up with as a group.
+- **Summarize <all>:** each group verbalizes if they changed their definitions or top principles. Each group can present less notable operating principle(s).
+- **Wrap up <all>:** Moderator summarizes the results and thanks the participants
 
 ### Identifying team members to be involved
 
@@ -52,10 +52,11 @@ Team members selected to take part will be identified by a collaboration of PBPs
 - We will start by identifying high performers with strong values competencies by having the PBP team review the latest talent assessment data with divisional leaders. The aim is to identify people who have been able to deliver results by embracing our values.
 - Additionally, we will look to identify leaders from each division and TMRG who can weigh in on team members to be involved.
 - The cross-functional project team will review selected team members to ensure performance and values competencies are met by various people involved
-- *Embracing everyone can contribute:* As we work on suggested changes with a smaller group, we will publicly post MRs when ready, and seek feedback on #whats-happening-at-gitlab so that people can make async contributions as suggested changes are shared with the broader company.
+- **Embracing everyone can contribute:** As we work on suggested changes with a smaller group, we will publicly post MRs when ready, and seek feedback on #whats-happening-at-gitlab so that people can make async contributions as suggested changes are shared with the broader company.
 
 ### Desired Outcome
 
 - Decide on operating principles to keep, operating principles to combine or house under others, and operating principles to remove (and why we are recommending those changes). 
 - Clearly categorizing operating principles from ways of working.
 - Recommend any necessary changes to the value description (and why we are suggesting those changes).
+- Share suggested changes with E-Group for alignment before deciding what to move, remove, or adjust.
