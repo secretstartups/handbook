@@ -749,6 +749,7 @@ Tableau offers several [certifications](https://www.tableau.com/learn/certificat
 * [Creating a Tableau Data Source: Custom SQL](https://youtu.be/dE0fnhYcyDA)
 * [Creating a Tableau Data Source: Tableau Modeling](https://youtu.be/BSUJgQmqsDA)
 * [Creating a Tableau Data Source: Virtual Connections](https://youtu.be/BMXJhNwEjs0)
+* [Creating a Tableau Data Source: Full Walkthrough](https://youtu.be/3EDvGoMn4sw)
 
 </details>
 
