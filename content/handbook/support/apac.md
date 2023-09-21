@@ -69,8 +69,7 @@ feedback in the [discussion issue](https://gitlab.com/gitlab-com/support/support
 
 ### Cliff of definite underperformance
 
-A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks.
-{: .alert .alert-warning}
+A support engineer is definitively underperforming when they handle less than 7 tickets in any of 3 of the past 4 weeks. <i class="fa-solid fa-triangle-exclamation"></i>
 
 A support engineer is considered to have handled a ticket when they leave either
 a public or internal comment on a ticket.
@@ -81,19 +80,13 @@ To set clear expectations of when a support engineer's ticket productivity is
 so low that they are no longer performing the basic responsibilities of the
 role.
 
-<div class="panel panel-warning">
-**Warning**
-{: .panel-heading}
-<div class="panel-body">
+{{% alert title="Warning" color="warning" %}}
 
 If you are above the cliff, it does not necessarily mean that you are meeting
 ticket productivity expectations. The full picture of ticket productivity
 performance cannot be derived from a single number and must be looked at
 holistically with other quantitative and qualitative inputs.
-
-</div>
-</div>
-{::options parse_block_html="false" /}
+{{% /alert %}}
 
 **Frequency**
 
