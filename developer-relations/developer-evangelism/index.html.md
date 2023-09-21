@@ -130,6 +130,74 @@ We build our thought leadership on social media. See [Developer Evangelism on So
 
 We build out content to help educate developers around best practices related to DevOps, GitLab, remote work, and other topics where we have expertise. Content includes presentations, demos, workshops, blog posts, and media engagements.
 
+### Corporate event support 
+
+The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Corporate Event Support page](/handbook/marketing/developer-relations/developer-evangelism/event-support/).
+
+### Spokespersons
+
+Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](/handbook/marketing/corporate-communications/).  
+
+### Community Engagement
+
+Our team regularly engages with the wider GitLab community. We do this organically on social media when prompted by our social media team or other GitLab team members and by [monitoring GitLab and other selected keywords on Hacker News](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/). We also manage a few social media platforms ourselves.
+
+The Developer Evangelism team is the DRI for questions and strategy on the platforms below:
+
+<!-- This partially duplicates https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview - when making updates, ensure to keep it in sync. -->
+
+| Platform | Description | Workflows |
+|-------------|-------------|-----------|
+| Discourse | The [GitLab Forum](https://forum.gitlab.com) is a place to ask and respond to questions and share projects or snippets of code. | [Forum Workflows](/handbook/marketing/developer-relations/workflows-tools/forum/) |
+| Reddit | The [GitLab Subreddit r/gitlab](https://www.reddit.com/r/gitlab) is a place to ask questions and share interesting use cases of GitLab and related workshops and tools. | [r/gitlab Workflows ](/handbook/marketing/developer-relations/workflows-tools/reddit/) |
+| StackOverflow | Use [gitlab tags](https://stackoverflow.com/questions/tagged/gitlab) for programming questions related to GitLab or the GitLab API.| [GitLab on StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/) |
+| Discord | A [GitLab Community Discord](https://discord.gg/gitlab) is a place to connect with the community, join pair coding sessions and live streams, and discuss all things GitLab and contribution. | [Community Discord Workflows](/handbook/marketing/developer-relations/workflows-tools/discord/) |
+| Meetup | Our [GitLab Virtual Meetup](https://www.meetup.com/gitlab-virtual-meetups/) includes Office hours, GitLab deep dives, Hackathon calls, project specific office hours, and more!  | [GitLab Meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups), [GitLab Meetups Checklist](https://about.gitlab.com/community/meetups/checklist/) |
+| Common Room | We use [Common Room](https://www.commonroom.io) to aggregate and review insights from our community engagement. | [Common Room Workflows](/handbook/marketing/developer-relations/workflows-tools/common-room/)
+
+#### Community Engagement Initiatives
+
+The Developer Evangelism team is dedicated to building, supporting, and retaining a strong and engaged community through initiatives, including newsletters, mentoring, badges, and sharing resources.
+
+##### Community Response
+
+Given the Developer Evangelism team's understanding of our community and broad knowledge of GitLab, we regularly engage in the response of situations that require intervention to address urgent and important concerns of our community members. We have a documented process for how we [manage these situations](/handbook/marketing/developer-relations/developer-evangelism/community-response/).
+
+##### Community Newsletter
+
+We run a monthly [Community Newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter) dedicated to sharing relevant developer content, highlighting contribution opportunities, and updating community members on upcoming events. We aim to keep our contributors involved and connected with the wider community.
+
+##### Mentoring and Coaching
+
+We make our practices and processes publicly available to foster a diverse and inclusive community. We also offer [mentor and coaching](/handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/) opportunities to share our expertise, encourage professional growth, and promote a welcoming environment.
+
+### Release Evangelism
+
+Developer Evangelists should always be prepared to promote our [monthly release](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) and engage in [community response on release days](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) given the historical performance of release posts on Hacker News.
+
+#### The Lab
+
+Once a month typically a few days after the release, we work with DevOps.com, TechStrong TV, and Highwire to produce [The Lab](https://techstrong.tv/videos/the-lab). For more details see [The Lab Handbook Page](/handbook/marketing/developer-relations/developer-evangelism/the-lab/)
+
+### Tools
+
+Our team uses different tools to grow and analyze our thought leadership, automate workflows, and improve written and presentation skills. See [Developer Evangelism Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/) for a list of all of those tools.
+
+### Projects
+
+Our team maintains many projects to help show off technical concepts, engage with communities, provide examples of using GitLab with other technologies, and automate our team processes. See [Developer Evangelism Projects](/handbook/marketing/developer-relations/developer-evangelism/projects/) for a list of all of those projects.
+
+### OSS Contributions
+
+We actively contribute to OSS projects and share our technical expertise. You can learn more about our ideas and visions in our [OSS contributions](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) handbook page.
+
+
+### Metrics Collection and Analysis
+
+Measuring what we do is very important to understand our impact and how we are able to reach our OKRs. A key metric is the Developer Evangelists' cumulative Twitter impressions. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/metrics/) about the our tools, data collection and how to access the data sources for integrations.
+
+#### YouTube playlist 
+
 We maintain a [YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) with our talks, workshops and community engagements.
 
 <details>
@@ -226,94 +294,6 @@ Thanks a lot @HelpfulCoworker for editing this long read :handshake: :purple_hea
 
 </details>
 
-### Presentations and events
-
-Speaking at events is an essential path for our team to connect with the wider GitLab community and the tech community at large. We love to support to team members and members of the wider community on their presentations, too. We also help with the organization and execution of GitLab events and other tech community events.
-
-##### YouTube playlist
-
-Recordings from past workshops and other team activities can be found on the [Developer Evangelism Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq-bYO9jCJaN45BBpzWSLAQ) on the GitLab Unfiltered channel on YouTube.
-
-#### CFPs
-
-Our Developer Evangelists directly contribute to the wider community by speaking at conferences themselves. We also [support and manage responses to CFPs](/handbook/marketing/developer-relations/developer-evangelism/cfps/) for team members across GitLab through our issue boards.
-
-#### Speaker Enablement
-
-Our team provides support to new and experienced speakers where necessary. These can range from presentation review, CFP ideation, or dry-run. We also host a monthly [Speakers Lean Coffee](/handbook/marketing/corporate-communications/speaking-resources/#speakers-lean-coffee) to help folks prepare to speak. You can also [learn more](/handbook/marketing/developer-relations/developer-evangelism/speaker-enablement/) about the different resources and activities you can benefit from or drop a message on [Slack](https://gitlab.slack.com/archives/CMELFQS4B) if you need direct support.
-
-#### Speakers Bureau
-
-People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
-
-#### Spokespersons
-
-Developer Evangelists are subject matter experts (SMEs) in their focus areas, and collaborate with the [Corporate Communications team](/handbook/marketing/corporate-communications/) to provide media coverage in the form of interviews, podcasts, content by-lines, etc. Developer Evangelists are [GitLab spokespersons](/handbook/marketing/corporate-communications/#spokesperson-criteria) and are required to take relevant training as determined by the [Corporate Communications team](/handbook/marketing/corporate-communications/).  
-
-### Community Engagement
-
-Our team regularly engages with the wider GitLab community. We do this organically on social media when prompted by our social media team or other GitLab team members and by [monitoring GitLab and other selected keywords on Hacker News](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/). We also manage a few social media platforms ourselves.
-
-The Developer Evangelism team is the DRI for questions and strategy on the platforms below:
-
-<!-- This partially duplicates https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview - when making updates, ensure to keep it in sync. -->
-
-| Platform | Description | Workflows |
-|-------------|-------------|-----------|
-| Discourse | The [GitLab Forum](https://forum.gitlab.com) is a place to ask and respond to questions and share projects or snippets of code. | [Forum Workflows](/handbook/marketing/developer-relations/workflows-tools/forum/) |
-| Reddit | The [GitLab Subreddit r/gitlab](https://www.reddit.com/r/gitlab) is a place to ask questions and share interesting use cases of GitLab and related workshops and tools. | [r/gitlab Workflows ](/handbook/marketing/developer-relations/workflows-tools/reddit/) |
-| StackOverflow | Use [gitlab tags](https://stackoverflow.com/questions/tagged/gitlab) for programming questions related to GitLab or the GitLab API.| [GitLab on StackOverflow](/handbook/marketing/developer-relations/workflows-tools/stackoverflow/) |
-| Discord | A [GitLab Community Discord](https://discord.gg/gitlab) is a place to connect with the community, join pair coding sessions and live streams, and discuss all things GitLab and contribution. | [Community Discord Workflows](/handbook/marketing/developer-relations/workflows-tools/discord/) |
-| Meetup | Our [GitLab Virtual Meetup](https://www.meetup.com/gitlab-virtual-meetups/) includes Office hours, GitLab deep dives, Hackathon calls, project specific office hours, and more!  | [GitLab Meetups](/handbook/marketing/developer-relations/evangelist-program/#meetups), [GitLab Meetups Checklist](https://about.gitlab.com/community/meetups/checklist/) |
-| Common Room | We use [Common Room](https://www.commonroom.io) to aggregate and review insights from our community engagement. | [Common Room Workflows](/handbook/marketing/developer-relations/workflows-tools/common-room/)
-
-#### Community Engagement Initiatives
-
-The Developer Evangelism team is dedicated to building, supporting, and retaining a strong and engaged community through initiatives, including newsletters, mentoring, badges, and sharing resources.
-
-##### Community Response
-
-Given the Developer Evangelism team's understanding of our community and broad knowledge of GitLab, we regularly engage in the response of situations that require intervention to address urgent and important concerns of our community members. We have a documented process for how we [manage these situations](/handbook/marketing/developer-relations/developer-evangelism/community-response/).
-
-##### Community Newsletter
-
-We run a monthly [Community Newsletter](/handbook/marketing/developer-relations/developer-evangelism/community-newsletter) dedicated to sharing relevant developer content, highlighting contribution opportunities, and updating community members on upcoming events. We aim to keep our contributors involved and connected with the wider community.
-
-##### Mentoring and Coaching
-
-We make our practices and processes publicly available to foster a diverse and inclusive community. We also offer [mentor and coaching](/handbook/marketing/developer-relations/developer-evangelism/mentoring-coaching/) opportunities to share our expertise, encourage professional growth, and promote a welcoming environment.
-
-### Release Evangelism
-
-Developer Evangelists should always be prepared to promote our [monthly release](/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) and engage in [community response on release days](/handbook/marketing/developer-relations/developer-evangelism/hacker-news/#release-days) given the historical performance of release posts on Hacker News.
-
-#### The Lab
-
-Once a month typically a few days after the release, we work with DevOps.com, TechStrong TV, and Highwire to produce [The Lab](https://techstrong.tv/videos/the-lab). For more details see [The Lab Handbook Page](/handbook/marketing/developer-relations/developer-evangelism/the-lab/)
-
-### Tools
-
-Our team uses different tools to grow and analyze our thought leadership, automate workflows, and improve written and presentation skills. See [Developer Evangelism Tools](/handbook/marketing/developer-relations/developer-evangelism/tools/) for a list of all of those tools.
-
-### Projects
-
-Our team maintains many projects to help show off technical concepts, engage with communities, provide examples of using GitLab with other technologies, and automate our team processes. See [Developer Evangelism Projects](/handbook/marketing/developer-relations/developer-evangelism/projects/) for a list of all of those projects.
-
-### OSS Contributions
-
-We actively contribute to OSS projects and share our technical expertise. You can learn more about our ideas and visions in our [OSS contributions](/handbook/marketing/developer-relations/developer-evangelism/oss-contributions/) handbook page.
-
-### Running a Code Challenge
-
-[CodeChallenge.dev](https://codechallenge.dev/) is the application used to create challenges tied to features in GitLab. The challenges are usually hosted at events coordinated by the Developer Evangelism in collaboration with the [corporate events team](/handbook/marketing/integrated-marketing/corporate-events/), and other teams. You can review the application's [documentation](https://docs.codechallenge.dev/en/introduction/) on how to use the application. 
-
-Please use the [Code challenge checklist template](https://gitlab.com/gitlab-com/marketing/community-relations/dev-evangelism/meta/-/issues/new?issuable_template=codechallenge-checklist) to create a new Code challenge issue for the event. Review the requirements and use them as a guide to ensure every component is in place. Add the new code challenge issue into the event epic in the [event roadmap](/handbook/marketing/community-relations/developer-evangelism/workflow/#roadmap-view).
-
-### Metrics Collection and Analysis
-
-Measuring what we do is very important to understand our impact and how we are able to reach our OKRs. A key metric is the Developer Evangelists' cumulative Twitter impressions. [Learn more](/handbook/marketing/developer-relations/developer-evangelism/metrics/) about the our tools, data collection and how to access the data sources for integrations.
-
-
 
 ## <i class="fa fa-code-branch" aria-hidden="true"></i> How we work
 
@@ -329,3 +309,6 @@ The Developer Evangelism calendar provides insights into speaking engagements, i
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_7930fcb0c9e4783bdd3d23858ae9af4306f28d976a40c833f50710c7cb86ba82%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+
+[def]: #Running-a-Code-Challenge
