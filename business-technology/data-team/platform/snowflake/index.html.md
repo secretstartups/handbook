@@ -202,8 +202,15 @@ def lambda_handler(event, context):
     timestamp = data["Sns"]["Timestamp"]
     timestamp = timestamp.replace("T", " ").replace("Z", "")
     task_details= json.loads(data["Sns"]["Message"])
-    task_name= task_details['taskName']
-    error_meesage=task_details['messages'][0]["errorMessage"]
+    if 'taskName' in task_details:
+        failure_type_name= task_details['taskName']
+        error_meesage=task_details['messages'][0]["errorMessage"]
+        title="Snowflake Task Failure Alert"
+    if 'pipeName' in task_details:
+        failure_type_name= task_details['pipeName']
+        error_meesage=task_details['messages'][0]["firstError"]
+        title="Snowpipe Failure Alert"
+    
     error_message_markdown=f"```{error_meesage}```"
     
     log_link='https://gitlab.com/gitlab-data/runbooks/-/blob/main/triage_issues/snowflake_pipeline_failure_triage.md'
@@ -218,8 +225,8 @@ def lambda_handler(event, context):
                           "color":"#FF0000",
                           "fields": [            
                                     {      
-                                        "title":"Snowflake Task Failure Alert",              
-                                        "value":task_name
+                                        "title":title,              
+                                        "value":failure_type_name
                                     },
                                     {             
                                         "title":"Timestamp",             
@@ -236,7 +243,7 @@ def lambda_handler(event, context):
                                     ]
                         }]
     }
-
+    
     encoded_msg = json.dumps(message).encode("utf-8")
     resp = http.request("POST", url, body=encoded_msg)
     
@@ -253,7 +260,7 @@ def lambda_handler(event, context):
 * Good practice is to encrypt environment variables you plan to use in `AWS` Lambda function, as a part of good practices. Here is the comprehensive guideline on how to [secure environment variables](https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html#configuration-envvars-encryption). 
 
 
-Above function will send all the event notification information into `Slack` like below: 
+Above function will send all the event notification information into `Slack` for snowflake tasks and snowpipe failures and it will look like: 
 
 ![slack_alert_example.png](slack_alert_example.png)
 
