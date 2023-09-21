@@ -91,13 +91,13 @@ Scheduling for the in-person event generally follows:
 1. First Day: Full day meeting starting with breakfast at 8am (usually Tuesday)
 1. Second Day: Full day meeting starting with breakfast at 8am. When the event does not coincide with Contribute, EBA to the CEO will coordinate an off-site activity for the afternoon (usually Wednesday).
 1. Third Day: Half day meeting starting with breakfast at 8am. Usual end time is 12:30 pm with departure flights scheduled in the late afternoon (usually Thursday).
-1. First day after third day: The E-Group hosts a [Functional Leaders Zoom call](#functional-leaders-zoom-call) (usually Friday or the following Monday).
+1. First day after third day: The E-Group hosts a [Functional Leaders Zoom call](#functional-leaders-meeting) (usually Friday or the following Monday).
 
 E-Group is welcome to fly in early or stay later pending their travel preferences.
 
 Scheduling for a fully remote offsite generally follows:
 1. Monday through Thursday from 8am-12:20pm Pacific time each day.
-1. The following Monday after the offsite concludes, the E-Group hosts a [Functional Leaders zoom call](#functional-leaders-zoom-call)
+1. The following Monday after the offsite concludes, the E-Group hosts a [Functional Leaders zoom call](#functional-leaders-meeting)
 
 E-Group Offsites typically happen at the start of the last month of the quarter. The timeline has the following benefits:
 1. While the quarter is not yet complete, leadership has an informed view of success against business objectives.
@@ -186,7 +186,7 @@ These topics are discussed by E-Group before the offsite:
 ## Timeline
 
 1. 2 weeks before Content Selection or other required pre-work is finalized
-1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](https://about.gitlab.com/handbook/business-technology/data-team/) for assistance no less than 2 weeks before the offsite; [alert the data team of on-call request](#data-team-member-on-call)
+1. 2 weeks before- if a subject requires data to support the discussion, make a request of [the data team](https://about.gitlab.com/handbook/business-technology/data-team/) for assistance no less than 2 weeks before the offsite; alert the data team of on-call request
 1. Friday before- agenda is finalized (though always subject to change); Prep Work asks finalized
 1. Immediately following the Offsite, the CoST to the CEO should create the agenda for the next Offsite so that topics can be added as they come up.
 

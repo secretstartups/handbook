@@ -135,7 +135,7 @@ Like the handbook, issues and epics should be public by default. If an issue or 
 
 ### Communicating status, updates, and changes
 
-Communicate outcomes using [multimodal communication](/handbook/communication/#multimodal-communication). For example, you can use a primary epic to communicate current status and updates. The description of the epic should be kept up to date with the latest status, and a running log of updates should be left as comments to the epic. In the comment tag the respective E-Group sponsor (if applicable) as well as the relevant DRIs with `@` mentions. Additionally, ping the link to the current status comment to the Slack channel created in [establishing team norms](#establishing-team-norms) `@` mentioning the relevant folks.
+Communicate outcomes using [multimodal communication](/handbook/communication/#multimodal-communication). For example, you can use a primary epic to communicate current status and updates. The description of the epic should be kept up to date with the latest status, and a running log of updates should be left as comments to the epic. In the comment tag the respective E-Group sponsor (if applicable) as well as the relevant DRIs with `@` mentions. Additionally, ping the link to the current status comment to the Slack channel created in [establishing team norms](#establishing-team-norms-for-the-working-group) `@` mentioning the relevant folks.
 
 Any material changes to the direction or plan for the Working Group should be put into the handbook page created, but general status and updates can be kept in the epic.
 
@@ -158,7 +158,7 @@ Once the Working Group has served it's intended purpose, it's time to disband th
 ### Modifications to Process for Limited Access Communications
 
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
-Some things can't be made public and are either [internal](#internal) to the company or have [limited access](#limited-access) even within the company.
+Some things can't be made public and are either internal to the company or have limited access even within the company.
 If something isn't on our [Not Public list](/handbook/communication/confidentiality-levels/#not-public), we should make it available externally. If a working group is working on something on the Not Public List, working group team members should take precautions to limit access to information until it is determined that information can be shared more broadly. To highlight a few modifications to the process above:
 
 1. Preparation

@@ -395,7 +395,7 @@ in common are:
 - [Advanced Search](#advanced-search)
 - [GitLab Reminders App](#gitlab-reminders-app)
 - [Out of Office](#out-of-office)
-- [Ticket Redaction App](#ticket-redaction-app)
+- Ticket Redaction App
 
 ### Architecture Diagrams
 
