@@ -29,72 +29,53 @@ When it comes to work, [Harvard Business Review](https://hbr.org/2020/10/use-gra
 
 It's important to note that these results rely on a steady gratitude practice over a longer period, which means **we must make recognition a daily practice for our teams**.
 
-## Field Quarterly Achiever's Chat 
+## Quarterly MVPs
 
-The Quarterly Achiever's Chat recognizes Field team members who have excelled in a given quarter by inviting them to join the CEO and CRO in a congratulatory chat. The benefit is three-fold:
-1. Top performers receive facetime and recognition directly at the executive level
-1. Knowledge sharing of best practices that can replicated by other Field team members
-1. Leaders/teams outside of the Field organization gain visibility into Sales momentum and key wins
+The Quarterly MVP (most valuable person) program recognizes Field team members who have excelled in a given quarter – not only in revenue-generating activities like closing big deals, but also in exhibiting great behaviors and setting a positive example for other team members. 
 
-Quarterly Achievers Chats span three quarters: Q1, Q2 and Q3 each year. We do not have Quarterly Achievers criteria/winners for Q4, as award/recognition efforts for Q4 are wrapped into Sales Kickoff (SKO) Awards.
+The program recognizes one MVP per Field segment/CRO leader (5 total) and one "United Win" (cross-functional account team) each quarter. 
 
-Key features of this call include: 
-1. 50-minute call
-1. Held within first two months of new quarter
-1. CEO and CRO attendance required
-1. Not recorded 
+MVPs and the United Win account team are recognized by the CRO on the WW Field Org Call and they can enjoy a recognition dinner to celebrate their accomplishments with family and friends. Note: Field Communications work with the United Win account team to identify key cross-functional players in the win that should qualify for the recognition dinner.
 
-### Selection Criteria - FY24-Q1
+### Selection Criteria
 
-In total, 12 team members from across the Field organization will be recognized. The categories by segment for FY24-Q1 include:
+MVPs are selected by their leadership teams. There is no set criteria to qualify, but leadership teams are provided quantitative and qualitative sample criteria to assist in making their selection: 
 
-**Enterprise Sales**
-1. Land with Vision, Expand with Purpose Award
-1. Leader of the Quarter Award
-1. Services Attach Success Award
+**Quantitative**
+1. Net ARR - Recognize a big deal and how we got there
+1. New Logo - Highlight the steps that were taken to land a new win
+1. Pipe Gen / Forecast Accuracy - Recognize someone who is excelling in operational rigor
 
-**Commercial Sales**
-1. R7 Results Delivery Award
-1. FY24-Q1 COMM Rookie Award
+**Qualitative**
+1. Effort - Recognize someone who went above and beyond on a project
+1. Collaboration - Recognize someone who brought a team together to achieve strong results
+1. Values - Recognize someone who truly lived [GitLab's CREDIT values](https://handbook.gitlab.com/handbook/values/)
 
-**Customer Success**
-1. Stellar Services Results Award
-1. SA Customer Results Award
-1. Customer Adoption and Retention Award
+The United Win is identified by the CRO leadership team. The "United Win" recognizes the cross-functional account team (Sales + CS, Partners, Product, Marketing, Finance, Legal, etc., as applicable) that secured the quarter's most impactful,  well-orchestrated and/or skilled win and is an example of "what good looks like." 
 
-**Partner** 
-1. Channel First Order Award
-1. Channel Management Focus Award
-1. Alliances Peak Results Award
 
-**Field Operations**
-1. FOPS MVP
 
-You can see a full description of each award [in this spreadsheet](https://docs.google.com/spreadsheets/d/1aEHcpaMb6tisRRJQtjBSG3UeVmPrdxTk13IZBUCind8/edit#gid=0).
+### Quarterly MVP Process and Timeline
+1. *[2 weeks before quarter close]* Field Comms opens an issue reminding segment leaders + their directs of the due date to select MVPs and sample criteria.
+1. *[3 weeks after quarter close]* Segment leaders' directs provide the names of their MVPs in the issue along with a brief (3-4 sentence) description of why this individual was selected.
+   1. Sales Strategy can be tapped to provide data if applicable.
+   1. Note: Can be done as a part of the Leadership QBRs.
+1. *[4 weeks after quarter close]* Segment leaders identify one winner from their directs' nominations and confirm the winner in the issue.
+1. *[4 weeks after quarter close]* CRO LT identifies the United Win and associated team members. A delegate from the CRO LT provides a brief (3-4 sentence) description of why this deal / team was chosen.
+   1. Note: This can be done as a part of the CRO QBR.
+1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the WW Field Org Call.
+   1. 2 minutes per MVP + 4 minutes for the United win = +/- 15 minutes total for recognition.
+1. *[5 weeks after quarter close]* e-Cards send from CRO including details about recognition dinner
+1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
 
-Considerations include: 
-1. Categories are reevaluated by CRO leadership and Field Operations every fiscal year and changed if deemed necessary. 
-1. A team member cannot win a Quarterly Achiever award twice within a fiscal year. 
-
-### Quarterly Achiever's Chat Process and Timeline
-1. Quarterly Achievers finalized within the second week of the new quarter
-1. Quarterly Achievers announced and recognized in the first WW Field Sales Call following [QBRs](/handbook/sales/qbrs/) (typically 3 weeks into the new quarter)
-1. Quarterly Achievers Chat held within the first month of new quarter 
-1. CEO and CRO to congratulate and inquire about key learnings from achievers on call
-1. CEO and CRO to pull out 2-3 of the most impactful key learnings and share with the larger team in a Slack post (either #ceo or #cro) after the call
-1. Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
-
-### Quarterly Achiever's Recognition Dinner 
-As part of this initiative, Quarterly Achievers are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly Achiever in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval. 
+### Quarterly MVP Recognition Dinner 
+As part of this initiative, Quarterly MVPs and core members of the United Win account team are able to expense a meal up to $250.00 USD within the same quarter they were selected in. For example, if a team member is selected as a Quarterly MVP in November, they must expense their meal before the end of Q4 (the last day in January). Please submit your meal expense in Navan and in the description field link to this section of the handbook for approval. 
 
 The $250.00 USD is reimbursable for a meal only, other items do not qualify. 
 
-
-
-
 ### Additional Resources for Recognition
 
-You can find more guidance on recognition and what is "recognition worthy" at GitLab [in this handbook page](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#recognition).
+You can find more guidance on recognition and what is "recognition worthy" at GitLab [in this handbook page](/handbook/people-group/guidance-on-feedback/#recognition).
 
 Some additional resources include: 
 1. [The Positive Power of Gratitude for Remote Teams](https://www.heykona.com/post/the-positive-power-of-gratitude-for-remote-teams) - Kona Blog 
