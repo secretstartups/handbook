@@ -542,6 +542,9 @@ Kindly note the following when filling in this section:
 | Switzerland | None
 | Sweden | Standard |
 
+1. Life Insurance Coverage - For Mexico Hires, Please select "I don't want to offer this benefit". For more details on benefits for team members who are contracted through Remote. Click [here](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/remote-com/#brazil).
+If there are any questions, these should be directed to help@remote.com.
+
 1. Click on the benefits acknowledgement and continue
 1. You be will be on the ‘billing cycle’ page 
 1. Click on yearly billing cycle and click continue
