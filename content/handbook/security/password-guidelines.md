@@ -323,7 +323,7 @@ There may be cases where TOTP might be used with a non-GitLab account. If you ha
 
 #### Passkeys
 
-1Password has implemented a feature supporting for Passkeys, which are the credentials used in FIDO2/WebAuthn on sites such as [Okta](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta). This feature can allow passwordless sign in to sites that require username and password. Passkeys can also serve as a type of MFA. Passkeys store a public key in the app and a private key within the 1Password vault.
+1Password has implemented a feature supporting for Passkeys, which are the credentials used in FIDO2/WebAuthn on sites such as [Okta](https://adamhuss-master-patch-a4f4.about.gitlab-review.app/handbook/business-technology/okta/#adding-1password-passkey). This feature can allow passwordless sign in to sites that require username and password. Passkeys can also serve as a type of MFA. Passkeys store a public key in the app and a private key within the 1Password vault.
 
 Setting up Passkey is simple. Open a login page or select the sign in button on the website or app. You'll typically see a prompt to complete an authentication step, usually with Biometrics, or YubiKey. You may see something like the image below.
 
