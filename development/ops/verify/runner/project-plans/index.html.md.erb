@@ -14,13 +14,24 @@ description: "Key Projects"
 
 **Runner Team DRI:** Arran Walker
 
-**Description:** This project's scope is to replace th current autoscaling technology, Docker Machine, used for the GitLab SaaS Shared Runners. To view the complete Implementation plan
+**Description:** This project's scope is to replace the current autoscaling technology, Docker Machine, used for the GitLab SaaS Shared Runners. To view the complete implementation plan
 please visit [the parent epic](https://gitlab.com/groups/gitlab-org/-/epics/6995) that is currently tracking this work. 
 
-#### Week of 2023-09-18
+### Week of 2023-09-18
 
-#### Week of 2023-09-25
+#### Goals:
 
+- [ ] `fleeting`: [Log AWS Autoscaling Activity](https://gitlab.com/gitlab-org/fleeting/fleeting-plugin-aws/-/issues/11)
+- [ ] `fleeting`: [Add Shutdown func to API](https://gitlab.com/gitlab-org/fleeting/fleeting/-/issues/10)
+- [ ] `fleeting`: [Add public provisioning integration tests that plugins can use](https://gitlab.com/gitlab-org/fleeting/fleeting/-/issues/12)
+
+### Week of 2023-09-25
+
+#### Goals:
+
+- [ ] `fleeting-aws-plugin`: [AWS plugin integration tests](https://gitlab.com/gitlab-org/fleeting/fleeting-plugin-aws/-/issues/7)
+- [ ] `taskscaler`: [Integration test of the whole executor using the fleeting-plugin-dummy](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/30880)
+- [ ] `runner`: [Runner-Taskscaler integration tests](https://gitlab.com/gitlab-org/fleeting/taskscaler/-/issues/3)
 
 ## Dedicated SaaS Runners for GitLab Dedicated
 
@@ -30,6 +41,6 @@ please visit [the parent epic](https://gitlab.com/groups/gitlab-org/-/epics/6995
 **Description:** A dedicated runner is a runner that would only be registered to a specific project, group, or instance and not be shared with other users. With this project GitLab will spin up dedicated runner resources within the Dedicated cloud account. The parent
 epic tracking this work can be [found here](https://gitlab.com/groups/gitlab-org/-/epics/10073).
 
-#### Week of 2023-09-18
+### Week of 2023-09-18
 
-#### Week of 2023-09-25
+### Week of 2023-09-25
