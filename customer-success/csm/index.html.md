@@ -124,13 +124,12 @@ Please reference this page for an overview of the areas your CSM will engage wit
   </tr>
   <tr>
     <td>Enable</td>
-    <td><ul><li><a href="handbook/customer-success/csm/workshops/">Enablement Workshops</a></li>
+    <td><ul><li><a href="/handbook/customer-success/csm/workshops/">Use Case Enablement Workshops</a></li>
     <li><a href="/handbook/customer-success/product-usage-data/use-case-adoption/">Measure Primary Use Case Adoption</a></li></ul></td>
   </tr>
   <tr>
     <td>Expand</td>
-    <td><ul><li><a href="/handbook/customer-success/product-usage-data/use-case-adoption/">Adopt Additional Use Cases</a></li>
-    <li><a href="/handbook/customer-success/csm/">Expansion Discovery</a></li></ul></td>
+    <td><ul><li><a href="/handbook/customer-success/product-usage-data/use-case-adoption/">Expansion Discovery</a></li></ul></td>
   </tr>
   <tr>
     <td>Optimize & Renew</td>
