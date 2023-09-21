@@ -136,6 +136,12 @@ To request access to Common Room,
 Once reviewed and merged, open an Access Request. Link to the business case in the description.
 3. In Step 2, for _Justification for this access_, please describe and link to your business case for using Common Room. 
 
+## GitLab Data
+
+Common Room doesn't natively integrate with GitLab.
+We have a [custom Ruby script](https://gitlab.com/gitlab-org/developer-relations/gitlab-common-room-api-source)
+which runs via a scheduled pipeline to injest data.
+
 ## Resources
 
 * Common Room's [getting started documentation](https://docs.commonroom.io/get-started).
