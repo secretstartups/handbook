@@ -33,7 +33,9 @@ description: "Job families are organized by function at GitLab and we use them t
 
 ## Approval Flow
 
-Anyone can create or edit a job family, in general it is the responsibility of the person who will manage the position or job family. They may enlist help from others. After a merge request is created for an existing job family or a new one, **the merge request must follow this approval flow**:
+Anyone can create or edit a job family, but generally it is the responsibility of the person who will manage the position or job family to kick off the approval process. They may enlist help from others as necessary. After a merge request is created for an existing or new job family, **the merge request must follow one of the approval flows below**:
+
+For Grades 10 and above:
 1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. Any review after this should be quick so the manager is the gatekeeper.
 1. **Your executive leader**: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels.
 1. **Your People Business Partner** Who will review and typically notify Total Rewards
@@ -44,6 +46,19 @@ Anyone can create or edit a job family, in general it is the responsibility of t
   * A [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) is set to add to the Compensation Calculator.
   * A Job Title is created within Workday.   
 1. To create more visibility for the Merge Request, send a note to the `#job-family` slack channel
+
+For Grades 9 and below:
+1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. Any review after this should be quick so the manager is the gatekeeper.
+1. **Your Department Head**: Your Department Head (typically at the VP level) is responsible for confirming the role is in plan and review of department/division structure and levels. It is highly recommended that the Department Head notifies the EGroup Leader for awarenesss.
+1. **Your People Business Partner** Who will review and typically notify Total Rewards
+1. **Total Rewards**: The Total Rewards Team, `@gl-total-rewards`, is the final approver for job families on the merge request ensuring.:  
+  * There is a business need for the level within the job family.
+  * The level is common in the market based on survey data. 
+  * All components of the job family are populated. 
+  * A [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) is set to add to the Compensation Calculator.
+  * A Job Title is created within Workday.   
+1. To create more visibility for the Merge Request, send a note to the `#job-family` slack channel
+
 
 ## Templates for New Job Family
 
