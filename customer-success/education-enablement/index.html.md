@@ -76,7 +76,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Intermediate Level
 - [Source Code Management Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
 - [Source Code Management Direction and Roadmap](https://about.gitlab.com/direction/create/source_code_management/)
-- [Code Review Feature Overview with 30+ Features](https://about.gitlab.com/stages-devops-lifecycle/code-review-workflow/)
+- [Code Review Feature Overview with 30+ Features](https://about.gitlab.com/stages-devops-lifecycle/create/)
   - [JIRA Integration Solution Overview](https://about.gitlab.com/solutions/jira/)
   - [JIRA Issues Integration Feature Docs](https://docs.gitlab.com/ee/integration/jira/)
   - [JIRA Development Panel Integration Feature Docs](https://docs.gitlab.com/ee/integration/jira/dvcs.html)
