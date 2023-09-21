@@ -363,9 +363,9 @@ It is also important to ensure a group doesn't have a scope definition that is s
    Ensuring GitLab is performant is the responsibility of all groups.
    We might instead have a performance tooling group.
 
-We do have the [Application Performance group](https://about.gitlab.com/handbook/product/categories/##application-performance-group) and [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
+We do have the [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) and [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
 
-The [Application Performance group](https://about.gitlab.com/handbook/product/categories/##application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
+The [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
 
 The [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) is focused on the specifics of database management/scaling and to provide consulting for development teams in need of database development guidance.  While database related merge requests still require approval from a database maintainer our [database review](https://docs.gitlab.com/ee/development/database_review.html) process has necessarily scaled beyond just the members of the database team.
 
@@ -468,7 +468,7 @@ Sometimes there is a lead in this topic that they report to.
 You can be a specialist in only one topic.
 The specialist description is a paragraph in the job description for a certain title.
 A specialist is listed after a title, for example: Developer, database specialist (do not shorten it to Developer, database).
-Many specialties represent stable counterparts. For instance, a "Software Engineer in Test, Create" specializes in the "Create" [stage group](#stage-groups) and is dedicated to that group.
+Many specialties represent stable counterparts. For instance, a "Software Engineer in Test, Create" specializes in the "Create" stage group and is dedicated to that group.
 If you can have multiple ones and/or if you don't spend the majority of your time there it is probably an [expertise](#expert).
 Since a specialist has the same job description as others with the title they have the same career path and compensation.
 
@@ -526,7 +526,7 @@ Some of individual contributors (without any direct reports) have manager in the
 
 ### "Team", "team member", and "community" terminology
 
-The term "team" is reserved for the smallest group. A team is defined as a manager and their reports. "Team" does not refer to a [group](#groups) or [department](https://about.gitlab.com/handbook/engineering/development/).
+The term "team" is reserved for the smallest group. A team is defined as a manager and their reports. "Team" does not refer to a group or [department](https://about.gitlab.com/handbook/engineering/development/).
 
 We refer to all the people working for the company as "team members". This is a bit confusing, given that "team" refers to a small group, but we believe "team member" is preferable over all the alternatives we considered:
 
