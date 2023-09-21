@@ -32,9 +32,9 @@ Here are some tips:
 
 - Search using an external search engine, like Google.
 - Issues are created in a number of projects in addition to [the main GitLab Rails project](https://gitlab.com/gitlab-org/gitlab/-/issues), of which a handful of the most common are:
-  - The [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues) project is where issue relating to packaged GitLab and docker are created.
+  - The [Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues) project is where issues relating to packaged GitLab and Docker are created.
     - If an error arises during `gitlab-ctl reconfigure` this is probably the best place for an issue to go, unless it relates to a database migration which usually should be in the Rails project issue tracker.
-  - Issues relating to deploying GitLab with Helm [go in the GitLab Chart project](https://gitlab.com/gitlab-org/charts/gitlab/-/issues).
+  - For issues relating to deploying GitLab with Helm [go in the GitLab Chart project](https://gitlab.com/gitlab-org/charts/gitlab/-/issues).
   - Look in the [Gitaly project](https://gitlab.com/gitlab-org/gitaly/-/issues) for issues relating to Gitaly and Gitaly cluster.
 - It's often worth searching across the whole `gitlab.org` group, particularly if you're not sure which project issues might have been raised in.
   - If you can filter the search results by product group label, milestone, etc., use [issue search](https://gitlab.com/groups/gitlab-org/-/issues).
@@ -45,10 +45,13 @@ Here are some tips:
   - If you know which product area is responsible for a feature, filter on the `~group::` label.
     - The [features by group page](../../product/categories/features) is good for finding out the correct group.
     - Alternatively, look at the labels used on related issues and MRs you may have found already.
-- Sort order: If you get a lot of results in the issue view, look at the options for sorting. `Created date` might be more relevant if you suspect a recent regression in the product, for example.
-- Consider adding a reaction on all issues that you come across, and any you raise. For example `bookmark`, `reminder ribbon` or pick something really unusual! You can then filter on `My-Reaction` and search within those results. This helps you quickly find things you've seen before later on.
+- Sort order: If you get a lot of results in the issue view, look at the options for sorting. For example: `Created date` might be more relevant if you suspect a recent regression in the product.
+- You are likely to spend some time searching for issues you've read before.
+  - Consider adding a reaction on all issues that you come across, and any you raise. For example use `bookmark`, `reminder ribbon`, or pick something really unusual! You can then filter on `My-Reaction` and search within those results.
+  - Try searching your browser's history.
   - For quickly finding things based on your own comments, consider setting up the [User Contribution Search](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/user-contribution-search) tool. It indexes all your contributions and gives you a fulltext search interface.
 - When using advanced search, if you're looking for a particular error or string, put it in `"double quotes"`.
+  - See other available syntax options from the [Advanced Search Docs](https://docs.gitlab.com/ee/user/search/advanced_search.html#syntax)
 
 ## Adding Comments on Existing Issues
 
