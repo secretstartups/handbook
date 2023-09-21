@@ -54,6 +54,7 @@ Here are some tips:
   - Consider adding a reaction on all issues that you come across, and any you raise. For example use `bookmark`, `reminder ribbon`, or pick something really unusual! You can then filter on `My-Reaction` and search within those results.
   - Try searching your browser's history.
   - For quickly finding things based on your own comments, consider setting up the [User Contribution Search](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/user-contribution-search) tool. It indexes all your contributions and gives you a fulltext search interface.
+- [Read more about searching in GitLab](https://docs.gitlab.com/ee/user/search/) in the product documentation.
 
 ## Adding Comments on Existing Issues
 
