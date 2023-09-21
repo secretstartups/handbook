@@ -146,7 +146,7 @@ Secrets (e.g. access tokens, private keys, passwords, and credentials to systems
 
 Similarly, internal-only documents and private or confidential issues should not be shared publicly in YouTube videos. If a video uploaded to the unfiltered channel exposes non-public information, [make it private quickly](#make-private-quickly).
 
-Videos which expose secrets or internal information can make it public only after ensuring that all sensitive information has been redacted using the [Blur feature in YouTube Studio](https://support.google.com/youtube/answer/9057652?hl=en).
+Videos which expose secrets or internal information can be made public again after ensuring that all sensitive information has been redacted using the [Blur feature in YouTube Studio](https://support.google.com/youtube/answer/9057652?hl=en).
 
 ## Why not Google Drive
 
