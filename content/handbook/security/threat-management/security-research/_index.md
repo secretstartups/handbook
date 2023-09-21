@@ -46,10 +46,10 @@ within the publication.
 
 ### Lightbulb Ideas
 
-Lightbulb ideas are those inspired ideas that are interesting, but may not be
-not fully developed. These ideas are interesting to capture as they
+Lightbulb ideas are those inspired ideas that are interesting, but may not be fully developed.
+These ideas are interesting to capture as they
 encourage discussion and push us to think broadly. They
-might become research proposals, a side project, or stay just an idea for
+might become a research proposal, a side project, or stay just an idea for
 future inspiration. Lightbulb ideas are labeled with
 `~security-research::lightbulb`, and the team periodically discusses open
 lightbulb ideas during the security research sync.
@@ -57,9 +57,8 @@ lightbulb ideas during the security research sync.
 ### Issue Labels
 
 To help align and communicate the goals of our projects, the `~Security Focus::`
-and `~Research Goal::` scoped labels are used. One label from each group should
+and `~Project Goal::` scoped labels are used. One label from each group should
 be applied to team issues upon creation.
-be applied to :bulb: issues upon creation.
 
 ### Security Focus labels
 
@@ -68,11 +67,11 @@ labels are used to align an issue with the broad high-level focus areas of the
 Security division, based on the risks and priorities of the business. The list
 is meant to be stable, but not static.
 
-- `Security Focus::Cloud and Infrastruture Security` - Related to the
+- `Security Focus::Cloud and Infrastructure Security` - Related to the
 secure configuration and use of company production and non-production
 cloud and infrastructure environments.
 - `Security Focus::Data Security Governance` - Related to the controls,
-processes, and policies concerning protection of the data trusted to the
+processes, and policies concerning the protection of the data trusted to the
 company.
 - `Security Focus::Identity and Access Management` - Related to authentication
 and authorization to business services and data.
@@ -80,9 +79,9 @@ and authorization to business services and data.
 trust in 3rd party code, data, and services necessary for the business.
 - `Security Focus::Other` - Related to anything not fitting into the four main focus areas.
 
-### Research Goal labels
+### Project Goal labels
 
-[`~Research Goals::`](https://gitlab.com/groups/gitlab-com/gl-security/security-research/-/labels?search=Research+Goal&subscribed=)
+[`~Project Goal::`](https://gitlab.com/groups/gitlab-com/gl-security/security-research/-/labels?search=Project+Goal&subscribed=)
  labels are used to communicate the high-level goal of a project.
 
 - `Project Goal::Risk Identification & Quantification` - The project aims to identify,
@@ -114,7 +113,7 @@ Some sources of data include:
 #### Team Manager
 
 The role of the team manager is to support and guide team members in their data
-discovery. This includes sharing information that they may collect, and
+discovery. This includes sharing information that they may collect and
 facilitating communication with other team members. One example of where the
 manager can be impactful is raising security questions/problems identified
 within the company.
@@ -131,7 +130,7 @@ support security and company initiatives.
 
 Prior to the beginning of a quarter, security research team members will propose
 a research problem as their focus project. The proposals can be in an entirely
-new problem space, or an extension of previous work. In both cases, a proposal
+new problem space or an extension of previous work. In both cases, a proposal
 issue is created in the [Security Research issue tracker](https://gitlab.com/gitlab-com/gl-security/security-research/sec-research/-/issues/new?issuable_template=Research%20Proposal)
 using the `Research Proposal` template.
 
@@ -178,7 +177,7 @@ issue should be closed.
 
 At the end of each quarter, the team member will share with stakeholders their
 results. In addition, to meet the team goal of widely
-share the results of our work, the results might be used in public
+sharing the results of our work, the results might be used in public
 communication. In some cases, due to the sensitivity
 of the work, the results will only be shared with the company, until which
 time they can be shared more widely.
@@ -196,7 +195,7 @@ This summary will help to capture:
 
 After the summary has been completed, the issue should be closed.
 
-### Current and past Research Projects
+### Current and Past Research Projects
 
 #### Package Hunter
 
