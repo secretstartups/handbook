@@ -1163,8 +1163,8 @@ This policy dictates the timing of opportunity closure for all sales-assisted de
   - Ramp Deals: All future-year ramp opportunities will be Closed Won on the same date as the first-year ramp opportunity, but the close date will be updated after closure to match the Quote Start Date. See: [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#calculating-net-arr-for-ramp-deals)
 
 ##### Late Renewals
-- If a renewal is achieved *within 30 days after the Quote Start Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
-- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 30 days after the Quote Start date (Renewal Date).**
+- If a renewal is achieved *within 15 days after the Subscription Renewal Date* (Renewal Date), the opportunity will be Closed Won on the date of approval submission.
+- **Renewal opportunities must be Closed Lost if the renewal is not achieved within 15 days after the Subscription Renewal Date (Renewal Date).**
      - See the [Late Renewal Notification & Auto Close Processes](https://internal.gitlab.com/handbook/sales/go-to-market/renewals/#late-renewal-notification--auto-close-process) section of the handbook for details on how the system automatidally supports the 30 day late renewal policy.
 - If a renewal is achieved *more than 30 days after the Renewal Date, but less than 180 days after the Renewal Date*:
   - The renewal should be recorded on a newly created renewal opportunity. The renewal should be quoted using a [New Subscription quote](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#new-subscription-quote). See: [Opportunity Requirements for Return Customers](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-requirements-for-return-customers)
