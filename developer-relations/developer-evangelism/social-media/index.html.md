@@ -161,26 +161,6 @@ Note: be cautious of phishing, spam, and other undesirable messages arriving via
     - Navigate into [`Preference > Appearance`](https://docs.joinmastodon.org/user/preferences/) and select `enable advanced web interface`. 
 1. Mastodon does not track post impressions. **Always** use [UTM tracking with short URLs](/handbook/marketing/developer-relations/developer-evangelism/social-media/#utm-tracking) for GitLab owned content.     
 
-### Polywork Tips
-
-#### Polywork: Collaboration requests
-
-Edit your availability on your profile which brings up a form to:
-
-- Add an introduction text. Example below.
-- Enable that you are open to receiving requests
-- Add topics you are open to. Examples: `Open Source Contributions`, `Guest lecturing`, `Live streaming`, `Mentoring`, `Speaking at Events`, `Writing`, `Speaking on podcasts`, `Brainstorming`, `Content Creation`, `Speaking on Twitter Spaces`. 
-
-Example introduction text from [Michael](https://polywork.com/dnsmichi):
-
-```
-Hi, thanks for reaching out. Here's a few notes to set expectations right :)
-
-I'm a fan of free education, sharing my experiences in talks & podcasts, and spark fresh thoughts for innovation. I prefer to work in public, and transparently allow everyone to benefit from our collaboration. 
- 
-Please be kind on everyone's time, and provide full context and URLs to start async, without a request to jump on a call. Answers may take a while, as I am active in many ecosystems, communities and todos :) 
-```
-
 ## Content
 
 ### Sharing Content 
