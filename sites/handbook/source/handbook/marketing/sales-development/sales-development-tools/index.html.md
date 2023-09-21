@@ -239,16 +239,3 @@ Call and demo recording software. [Chorus](https://www.chorus.ai/) tracks keywor
 
 **Important Note:** Drift Chat is a tool for the Inbound SDR Teams to engage with website visitors. BDRs will not have access to this tool. It is still important for BDRs to understand they will see leads with Drift mentioned in their Salesforce initial source and activity history fields. 
 
-### Drift Training Resources
-
-* GitLab Training: [50 Minute Drift Intro Training Video](https://drive.google.com/drive/u/0/folders/1aGbQopASH0y540by0BS4UQQkjAL9bvyD)
-* GitLab Edcast: [GitLab’s Drift Work Flows Videos](https://gitlab.edcast.com/journey/week-note) 
-* GitLab Best Practices: [Drift Best Practices Document](https://docs.google.com/document/d/1EQYVu2cO-Zn1T2EuTQrIG4z-pRZucs7FG0rhQQo4wzs/edit) 
-
-## LeanData
-
-When a lead is created in Salesforce, [LeanData](https://www.leandatainc.com/) will be the tool that routes it to the appropriate user. Routing rules include sales segmentation, region, lead source, and owned accounts. For example, if a lead from a named account is created, it will be routed directly to the owner of the named account. Also, LeanData provides cross-object visibility between leads and accounts, and contacts. When in an account record, a user can view ‘matched’ leads by company name, email domain, and other methods.
-
-### LeanData Training Resources
-
-* GitLab Handbook: [LeanData Handbook Page and Workflow](https://about.gitlab.com/handbook/marketing/marketing-operations/leandata/) 
