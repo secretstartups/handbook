@@ -74,34 +74,36 @@ Please use this template when creating Epics for activities that should appear f
 #### Content Epic Template 
 
 ```markdown
-<!--  Epic Title Guide: 
+> Epic Title Guide: 
+> Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines 
+> Format:
+>  Content: Title - Author - Publish Month, Publish Year 
 
-Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines 
-
-Content: Title - Author - Publish Month, Publish Year 
--->
 
 ## Activity Summary
 
-<!-- Please consider addressing these key questions in your summary: 
+**Please consider addressing these key questions in your summary:**
 
 1. Who is our audience?
+    - A: 
 
-1. What is the best content type (blog post, video, how-to) to deliver this message?
+2. What is the best content type (blog post, video, how-to) to deliver this message?
+    - A: 
 
-1. How does this content help our audience?
+3. How does this content help our audience?
+    - A: 
 
-1. How does this content help us achieve our goals?
+4. How does this content help us achieve our goals?
+    - A: 
 
--->
 
 ## Team or Individual DRIs
-<!--  Please add team label to epic -->
+**Please add team label to epic.** 
 
 
 ## Relevant Issues, Epics or resources
 
-
+-  
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
@@ -128,38 +130,35 @@ https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 --
 #### Events Epic Template
 
 ```markdown
-<!--  Epic Title Guide: 
-
-Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines 
-
-Event: Event Name, Location, Date 
-
-Content: Title
-
-Others: Title
--->
+> Epic Title Guide: 
+> Dates should be using ISO dates, see https://about.gitlab.com/handbook/communication/#writing-style-guidelines 
+> Format:
+>  Content: Title - Author - Publish Month, Publish Year 
+>  Event: Event Name, Location, ISO Date 
 
 ## Activity Summary
 
-<!-- Please consider addressing these key questions in your summary: 
+**Please consider addressing these key questions in your summary:**
 
 1. Who is our audience?
+    - A: 
 
-1. What is the best content type (blog post, video, how-to) to deliver this message?
+2. What is the best content type (blog post, video, how-to) to deliver this message?
+    - A: 
 
-1. How does this content help our audience?
+3. How does this content help our audience?
+    - A: 
 
-1. How does this content help us achieve our goals?
-
--->
+4. How does this content help us achieve our goals?
+    - A: 
 
 ## Team or Individual DRIs
-<!--  Please add team label to epic -->
+**Please add team label to epic.** 
 
 
 ## Relevant Issues, Epics or resources
 
-
+-  
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
@@ -189,7 +188,8 @@ Note: These are samples for guidance, please add relevant labels for activity re
 ```markdown
 ## 👀 Pins
 
-* [DE Release Evangelism handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) is the SSoT for release post MR, Slack URLs and other insights.
+* [Dev Evangelism Release Evangelism handbook](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/social-media/#release-evangelism) provides all resources. 
+* [#release-post](https://gitlab.slack.com/archives/C3TRESYPJ) Slack channel (internal)
 
 ### ✍ Release post
 
@@ -198,7 +198,7 @@ Note: These are samples for guidance, please add relevant labels for activity re
 
 #### CommunityApps Campaign Links
 
-> Create campaign links in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/).
+> Create campaign links in the [Release Evagelism Campaign](https://campaign-manager.gitlab.com/campaigns/view/3), under the Community Team in [CommunityApps](https://campaign-manager.gitlab.com/), and add them here. 
 
   - Twitter:
   - LinkedIn:
