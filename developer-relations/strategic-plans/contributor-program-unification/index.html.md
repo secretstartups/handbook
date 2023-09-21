@@ -51,6 +51,8 @@ The current configuration of programs currently offers no clear, predictable pat
 - Assisting in forum moderation
 - Volunteering at events
 - Triaging bugs and responding and working with the wider community (including GitLab team members)
+- Reviewing issues
+- Validating stale issues
 
 Recognizing such contributions is critical for building a well-rounded and engaged community. As [Klint Finley writes](https://github.com/readme/featured/open-source-non-code-contributions):
 
@@ -94,6 +96,10 @@ Contest: Hackathon
 
 - Once a quarter
 
+Contest: Backlog Cleansweep
+
+- Focus on triaging and validating existing backlog issues
+
 ### Contribution Weights
 
 1. Scope: https://gitlab.com/gitlab-com & https://gitlab.com/gitlab-org
@@ -115,6 +121,11 @@ Contest: Hackathon
 
 - Weight: 1
 - Assigned when the issue is closed
+
+**Bug validation comment**
+
+- Weight: 3
+- Assigned when validation label is applied or issue is closed
 
 **Merge Request comment / author**
 
@@ -139,6 +150,12 @@ Note: The points, levels & status can still change.
 | Hackathon Runner up #2 | Second place in the Hackathon | Achievement on profile, Swag |
 | Contributor of the month (MVP) | Elected by GitLab Team Members | Achievement on profile, Swag | 
 
+| Contributor Achievements | Requirements | Benefits & Rewards |
+| --- | --- | --- |
+| Bugsmash Winner #1 | First place in the bugsmash | Achievement on profile, Swag |
+| Bugsmash Runner up #2 | Second place in the bugsmash | Achievement on profile, Swag |
+| Contributor of the quarter (MVP) | Elected by GitLab Team Members | Achievement on profile, Swag | 
+
 ### Examples, according to the activities
 
 - A community member decided to organize a meetup with other volunteers in their region and creates an issue to track this behavior.
@@ -152,6 +169,10 @@ Note: The points, levels & status can still change.
     - Merged merge requests credited to all content participants that have commented in that issue or were assigned to it
     - Merged merge requests credited to all code participants, each participant was credited 5 Contribution Points
 
+- A community member validates a bug
+  - Issue Labelled as ~"Issue Validation::<FY* Q*>"
+    - Validation credited to participant who commented in issue explaining what they have validated and requested label be applied
+     
 - Writing blog posts
   - Issue created & closed with the reference to the blog post
     - Issue is credited to all participants that have commented in that issue or were assigned to it, each participant was credited 1 point
