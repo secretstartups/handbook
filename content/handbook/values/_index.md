@@ -644,7 +644,7 @@ People feel more included when they're supported. To encourage this, and to supp
 ##### Culture fit is a bad excuse
 
 We don't hire based on culture or select candidates because we'd like to have a drink with them. We hire and reward team members based on our shared values as detailed on this page. We want a **values fit**, not a culture fit.
-We want cultural diversity instead of cultural conformity, such as a [brogrammer](https://en.wikipedia.org/wiki/Brogrammer) atmosphere. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](https://about.gitlab.com/company/mission/#mission).
+We want cultural diversity instead of cultural conformity. Said differently: ["culture add" > "culture fit"](https://twitter.com/Una/status/846808949672366080) or "hire for culture contribution" since our [mission is that everyone can contribute](https://about.gitlab.com/company/mission/#mission).
 
 ##### Religion and politics at work
 
