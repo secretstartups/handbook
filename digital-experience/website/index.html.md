@@ -523,7 +523,7 @@ All features and capabilities are listed in a single yaml file
 ([`features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml)) under the `features` section.
 It is the single source of truth for multiple pages across the website including:
 
-- [Product pages](/stages-devops-lifecycle/) e.g. [code review](/stages-devops-lifecycle/code-review-workflow/)
+- [Product pages](/stages-devops-lifecycle/) e.g. [code review](/stages-devops-lifecycle/create/)
 - [Pricing](/pricing/)
 - [Features](/features/)
 - [Solutions](/solutions/)
