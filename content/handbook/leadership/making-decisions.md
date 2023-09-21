@@ -45,7 +45,7 @@ DRIs are not project or program managers unless they are team members who work w
 ### Tips for DRIs in making decisions
 
 1. Make [data-driven decisions](https://online.hbs.edu/blog/post/data-driven-decision-making).
-1. When analyzing trends, never show cumulative graphs because they always look up and to the right even if business is bad.
+1. When analyzing data for a decision, focus on growth and trends. Most of the time cumulative graphs shouldn't be used because a standalone cumulative chart can be misleading as it goes up even if growth is flat or declining. If you must show a cumulative graph always include growth and trends on the same slide.
 1. Be aware of your [unconscious biases](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) and emotional triggers.
 1. When making decisions, explicitly acknowledge the quality/quantity of the data that is available for the decision. Resist using poor data to justify judgment calls. It is ok to make a judgment call with limited data, but make sure that is known.
 1. Consider environments that do not allow reliable data collection. According to [research by the Harvard Business Review](https://hbr.org/2016/02/the-rise-of-data-driven-decision-making-is-real-but-uneven), "experience and knowledge of leaders in the subject matter still outperforms purely data-driven approaches."
