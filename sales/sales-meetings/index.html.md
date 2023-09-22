@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Team Meetings"
-description: "Overview of the primary meetings for the global GitLab Field team"
+description: "Overview of the primary meetings for the worldwide GitLab Field team"
 ---
 
 ## On this page
@@ -10,113 +10,94 @@ description: "Overview of the primary meetings for the global GitLab Field team"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The below page overviews the primary meetings for the WW Field Team. 
+The below page overviews the primary all-hands meetings for the WW Field Team. 
 
 ## Field All-Hands Meetings
 The team meets as a full group multiple times in a given quarter, with each meeting series serving a different enablement or planning purpose. 
 
-The high-level cadence of Field full-team meetings in a given quarter is: 
+The high-level cadence of Field all-hands meetings in a given quarter is: 
 
 1. **Month 1**
-   1. [WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
+   1. [WW Field Manager Call](/handbook/sales/sales-meetings/#ww-field-manager-call)
    1. [Quarterly Business Reviews (QBRs)](/handbook/sales/sales-meetings/#quarterly-business-reviews)
-   1. **[In Pilot]** [CRO Segment Roundtable](/handbook/sales/sales-meetings/#fy24-pilot-cro-segment-roundtable)
 1. **Month 2**
-   1. [Sales, Marketing, Product QBR & Recognition (QBR&R)](/handbook/sales/sales-meetings/#sales-marketing-product-qbr--recognition-qbrr-call)
-   1. **[In Pilot]** [All Field Manager Call](/handbook/sales/sales-meetings/#fy24-pilot-all-field-manager-call)
+   1. [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
 1. **Month 3**
-   1. [WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
+   1. No all-hands meeting; quiet time for end-of-quarter activities.
 
-### WW Field Sales Call
+### WW Field Manager Call
 
-* **When:** Every first and third month of the quarter from 9:00am to 9:50am Pacific time. Happens within the first seven business days of a month.
-   * In the second month of the quarter, we host the [Sales, Marketing, Product QBR & Recognition call](/handbook/sales/sales-meetings/#sales-marketing-product-qbr--recognition-qbrr-call), which has an expanded audience and a modified agenda.
-   * The WW Field Sales Call is rescheduled to avoid conflict with major public holidays and/or executive schedules (ex. E-Group offsite).
-* **Who:** This meeting includes all members of the CRO organization as well as stakeholders of the Field team from the Marketing, Finance and People Groups.
-* **What:** The primary purpose of the call is to drive knowledge-sharing across the Field organization, with an emphasis on CRO and leadership business/organizational updates and Q&A time for Field team members and leadership. The typical format is: 
-   1. CRO Organizational Update 
-      1. High-priority topics/announcements for the CRO and CRO LT 
-      1. Recognition for all Field departments 
-      1. Field Team Momentum 
-   1. Guest Speaker Updates 
-   1. Field Team AMA 
-   1. Update Ticker (included asynchronously)
-* If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process.](/handbook/sales/field-communications/#requesting-field-announcements).
-
-#### General Guidelines for Attendees
-
-1. This call should be a discussion/review rather than a presentation. Please ask questions – this is our chance to learn together as a team. Add questions to the Q&A section of the agenda.
-1. Any updates that are not covered on the call will be addressed asynchronously in the agenda. Please read the agenda in full each time.
-1. The agenda can be found [here](https://docs.google.com/document/d/1CVSz5hU5XoFbVtZoBxXsQcqD7AII0NW2KBzy3efA3PI/edit).
-1. Zoom recording links for past calls are included inline in the agenda document under the meeting date. 
-1. If you cannot join the call, consider reviewing the recorded call, or at minimum, read through the meeting agenda.
-1. If you have feedback on how we can improve the WW Field Sales Call, [share it with Field Communications.](/handbook/sales/field-communications/#sharing-feedback)
-
-#### General Guidelines for Presenters
-
-1. Provide your final agenda times by end of day on the business day before the meeting. Your agenda updates should link to relevant references (Handbook pages, issues, MRs, etc.) that provide more context, and you should include where the field can go with more questions and/or feedback that isn't discussed on the call.
-1. Please be respectful of time and keep your updates to 1-2 minutes max – focusing on the most impactful learning or takeaway. We want to leave ample time for questions.
-   1. If you feel your update requires more context, consider recording a quick video with more background that the field can watch asynchronously.
-1. Slides are not necessary, but if you would like to present slides, ensure that you also include a link to the presentation in the agenda.
-1. Once you are done presenting, please handoff to the next presenter on the agenda.
-
-### Sales, Marketing, Product QBR & Recognition (QBR&R) Call
-
-* **When:** (Previously called the GTM Field Update.) The QBR&R call takes place after each GitLab quarterly earnings call. 
-* **Who:** The teams included on the invite for this call are: 
-   1. Field division
-   1. Marketing division
-   1. Product division 
-   1. Field stakeholders (PBPs, Recruiters, Finance)
-* **What:** The goal of this call is to:
-   1. Recognize and thank Field team members for their contributions to GitLab's success
-   1. Celebrate the wins and learn from the misses as a team
-   1. Drive transparency and accountability across Sales, Marketing and Product, with all leaders sharing:
-      1. A review of the deliverables promised in the previous quarter and the status of achievement toward those deliverables    
-      1. The top 3 commitments from each division in the current quarter 
-* If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process.](/handbook/sales/field-communications/#requesting-field-announcements).
+* **When:** Quarterly in the first month of each quarter. The call is 50 minutes.
+   * The call recording is shared with Japan/APAC managers once available with a CTA to watch the prepared remarks (watching the Q&A is not required). The CRO then leads a dedicated follow-up Japan/APAC Manager Q&A session 1-3 business days after the initial call. 
+* **Who:** All Field Managers (people managers and above in the CRO's organization), People Business Partners supporting the Field, Sales Development Management
+* **What:** The goal of this meeting is to provide manager-specific updates, CTAs and enablement topics, and to give managers a forum to provide feedback and ask questions to senior leaders. The sample call format is: 
+   1. [5 min] Manager Icebreaker 
+   1. [10 min] CRO Business Update 
+      1. Past quarter themes (to the extent we can share before earnings)
+      1. Past quarter key win
+      1. Observations on pipe gen & forecasts
+      1. Current quarter focuses/themes (ex. Current quarter pipe coverage - here are the levers to pull)
+      1. Current quarter OKR preview
+      1. Board meeting insights
+      1. Top investments
+   1. [20 min] Flex Time 
+      1. Guest speaker (enablement on manager-specific topic or skill) 
+      1. Field manager spotlight 
+      1. Manager feedback
+   1. [15 min] Q&A
+   1. [Async] Your help needed: Cross-functional updates
 
 ### Quarterly Business Reviews
 
+QBRs commence in the final week of the previous quarter for Customer Success and continue into the second or third week of the current quarter for Sales, with the CRO LT completing the QBR cycle. 
+
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
 
-### [FY24 Pilot] CRO Segment Roundtable
+### WW Field Sales Call
 
-This call was launched in Q2-FY24 and is being run by the Field team as a pilot throughout the fiscal year.
+* **When:** Quarterly in the second month of each quarter. Typically on a Monday or Tuesday in the morning PT for 50 minutes.  
+   * The call recording is shared with Japan/APAC team members once available with a CTA to watch the prepared remarks (watching the Q&A is not required). The CRO then leads a dedicated follow-up Japan/APAC Q&A session 1-3 business days after the initial call. 
+* **Who:** This meeting includes all members of the CRO organization as well as stakeholders of the Field team from the Marketing, Finance, Legal and People Groups.
+   * If you are in the Field organization and do not have the calendar invite, first confirm that your manager has opened a [role-based access request](/handbook/people-group/engineering/onboarding/#access-request-issue-creation) to add you to your team's Google Group (ex. sales-ent). Field attendance is informed by the sales-all Google Group, which is made up of all team sub-groups. Using this method, the calendar invite will auto-add new team members to the invite once they're added to their group. 
+   * If you are not in the Field organization, reach out in #sales-vp to be added to this meeting series, 
+* **What:** The primary purpose of the call is to drive knowledge-sharing across the Field organization, with an emphasis on CRO and leadership business/organizational updates and Q&A time for Field team members and leadership. The typical format is: 
+   1. [20-30 min] CRO Organizational Update 
+      1. High-priority topics/announcements from the CRO and CRO LT 
+      1. Quarterly MVP recognition 
+      1. CRO Fireside Chat/interview
+   1. [5-10 min] Guest Speaker Updates 
+   1. [15-20 min] Q&A
+   1. Update Ticker (included asynchronously)
+* If you would like to add topics to the agenda, please coordinate with Field Communications using their [announcement request process](/handbook/sales/field-communications/#requesting-field-announcements).
 
-* **When:** This meeting happens quarterly. The meeting will last for 50 min. 
-* **Who:** Field segment (ENT, COMM, CS, Partner Team, Field Operations) participation will rotate quarterly, so each segment will have one roundtable with the CRO in a fiscal year. (Note: One quarter must feature two segments.) The organization/planning of the roundtable, including timing and attendance criteria, is at the discretion and responsibility of the CRO leader for a given segment. The CRO leader will work directly with the CRO 
-* **What:** The purpose of these meetings is to give Field team members face-time and build connection with the CRO. The meeting is unstructured, and should feel like a "group coffee chat" with the CRO unless otherwise outlined by the segment leader. The CRO and CRO leader can choose to focus on a specific topic and have prepared remarks, simply use the entire time for an AMA with a specific team within that segment, etc.
+#### General Guidelines for Attendees
 
-### [FY24 Pilot] All Field Manager Call
+1. This call is most effective when we all contribute! Please ask questions in the Q&A using the Slido link provided in the agenda doc. 
+1. Any updates or Q&A questions that are not covered on the call will be addressed asynchronously in the agenda. Please read the agenda in full each time, including the important updates in the async Update Ticker. 
+1. The agenda can be found in the meeting calendar invite. 
+1. Zoom recording links for past calls are included inline in the agenda document under the meeting date. 
+1. If you cannot join the call, consider reviewing the recorded call, or at minimum, read through the meeting agenda.
+1. If you have feedback on how we can improve the WW Field Org Call, share it in the post-meeting survey provided via Zoom when you log off the call. 
 
-This call was launched in Q2-FY24 and is being run by the Field team as a pilot throughout the fiscal year.
+### CRO Fireside Chats
+The CRO will host regular CRO Fireside Chat sessions each quarter as a part of the [Field Enablement Spotlight series](/handbook/sales/training/sales-enablement-sessions/). Spotlight sessions occur weekly at 9 am PT on Thursdays. 
 
-* **When:** This meeting happens quarterly in the second month of each quarter after GitLab's earnings call. The call is 50 minutes.
-* **Who:** All Field Managers (people managers and above in the CRO's organization), People Business Partners supporting the Field, Sales Development Management
-* **What:** This meeting operates like a mini-Group Conversation and places an emphasis on driving awareness for groups across the Field org, highlighting/recognizing front-line managers who are excelling in performance and team development/coaching, and socializing key priorities and CTAs for managers. Team members from Field Enablement and Field Communications will partner with CRO leaders to organize the call agenda and speakers each quarter. The goal of this meeting is to drive increased manager engagement and enablement by:
-   1. Providing Field people leaders time directly with the CRO and hearing their perspective on:
-      1. Where we're at
-      1. Where we're going
-      1. What managers have to look forward to
-      1. CTAs/how managers will help us get there
-   1. Providing exposure to other members of CRO LT and fostering a united front across the Field team.
-   1. Creating awareness around key initiatives/projects launching in the upcoming quarter that will have a direct impact on Field teams
+Topics for the CRO Fireside Chats vary based on skills/topics that are top of mind for the CRO and leadership. All Field team members are included on the invite to the Field Enablement Spotlight series.
+
 
 
 ## Enablement/Planning/Strategy Meetings
 
-### Weekly Thursday Field Enablement Webcast led by the Field Enablement team
+### Field Enablement Spotlight series
 * **When:** Weekly on Thursday at 9am Pacific time, except in the last two weeks of a quarter
 * **Who:** The entire GitLab Field team is invited to this meeting series. The series can be found on the [Field Enablement Google Calendar](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV81bjNnNjBsNTh0aHVtOWFvdnA4aWlzYXYzNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-* **What:** The purpose of this series is to enable Field team members on the latest resources and selling tactics. Enablement topics vary weekly. See more on this [handbook page](/handbook/sales/training/sales-enablement-sessions/).
+* **What:** The purpose of this series is to enable Field team members on the latest resources and selling tactics. Enablement topics vary weekly. See more on [the handbook page](/handbook/sales/training/sales-enablement-sessions/).
 
 ### Sales Group Conversation
 * **When:** Happens once every 8 weeks at 8am Pacific time
 * **Where:** Zoom link varies - please be sure to check the calendar invitation
 * **What:** The CRO Leaders will rotate and provide the company with an update on their business, overall team performance, notable wins, accomplishments, and relevant strategies planned.
 You can view previous updates in the "Group Conversation Sales" (previously "Functional Group Update Sales") folder on the Google Drive.
-   * CRO Rotation: Michael McBride (CRO), Commercial Sales, Customer Success, Enterprise Sales, Channels
 
 ### Sales Monthly [Key Review](/handbook/key-review/)
 * **When:** Happens once every month
