@@ -21,7 +21,7 @@ The high-level cadence of Field all-hands meetings in a given quarter is:
    1. [WW Field Manager Call](/handbook/sales/sales-meetings/#ww-field-manager-call)
    1. [Quarterly Business Reviews (QBRs)](/handbook/sales/sales-meetings/#quarterly-business-reviews)
 1. **Month 2**
-   1. [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
+   1. [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call)
 1. **Month 3**
    1. No all-hands meeting; quiet time for end-of-quarter activities.
 
@@ -53,7 +53,7 @@ QBRs commence in the final week of the previous quarter for Customer Success and
 
 For a full overview of the QBR planning and execution process, QBR request tracking, best-practices for organizers and attendees, and where to find past QBR content, [see here](/handbook/sales/qbrs). 
 
-### WW Field Sales Call
+### WW Field Org Call
 
 * **When:** Quarterly in the second month of each quarter. Typically on a Monday or Tuesday in the morning PT for 50 minutes.  
    * The call recording is shared with Japan/APAC team members once available with a CTA to watch the prepared remarks (watching the Q&A is not required). The CRO then leads a dedicated follow-up Japan/APAC Q&A session 1-3 business days after the initial call. 

@@ -34,7 +34,7 @@ The updates included in this process are *strictly* system/process/policy-based.
 >       - **Why:** (Why are we making this change? WIIFM?)
 >       - **Action:** (What is the ask/next step that we're asking the audience to take?) 
 >    - See the [Field Ops Changelog] for past changes.
-3. Update is included in next-available [WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call). (Sync or async depending on announcement scope) 
+3. Update is included in next-available [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call). (Sync or async depending on announcement scope) 
 4. Summary epics are aggregated in next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/), "Did You Know?" section.
 5. Changes are documented in the [Field Ops Changelog](/handbook/sales/field-operations/changelog/)
 

@@ -90,7 +90,7 @@ Based on the requirements above, this is the current iteration of the newsletter
 
 
 ## Process 
-The newsletter is sent out **on the first Monday of each month at 9 am PT or to align with the [Bi-Weekly WW Field Sales Call](/handbook/sales/sales-meetings/#ww-field-sales-call).** Based on feedback from the field, we will iterate on timing. 
+The newsletter is typically sent out **on the first Monday of each month at 9 am PT**.
 
 We build the newsletter in an issue in the [Enablement project](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement). The process for the issue includes: 
 - The issue for the upcoming newsletter is opened at least three weeks before first Monday of the next month. 

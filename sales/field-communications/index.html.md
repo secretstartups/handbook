@@ -27,7 +27,7 @@ Field Communications uses the channels outlined in this [communication channel m
 
 - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
 - [Field Update Tickers](/handbook/sales/field-communications/field-update-tickers/)
-- [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-sales-call)
+- [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call)
 - [Field Google Group and Slack Channel landscape](/handbook/sales/sales-google-groups/)
    - See this link for how best to communicate with the Field team on Slack or via email. 
 
