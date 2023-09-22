@@ -5,40 +5,6 @@ description: "Security at GitLab"
 
 ## Security Practices
 
-### Contact GitLab Security
-
-The GitLab Security Teams are available 24/7/365 and are ready to assist with questions, concerns, or issues you may have.
-
-There are some common scenarios faced by GitLab team members:
-
- - [CEO & Executive Fraud](#ceo--executive-fraud)
- - [Phishing]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}})
-
-To contact for any other reason, see [Contacting the Team](#-contacting-the-team) or [Engaging the Security On-Call]({{< ref "engaging-security-on-call" >}}).
-
-#### CEO & Executive Fraud
-
-The CEO (and Executive team) will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), or a text message to ask for gift cards, or anything else that feels like a [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud). These types of [spear attack](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests via the #ceo Slack channel.
-
-What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
-
-1. If you are unsure whether the text or email is legitimate, contact [Security]({{< ref "." >}}) to review, and confirm via the #ceo Slack channel.
-1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
-1. If the text is determined to be fake: block the number, notify [Security](#-contacting-the-team), and delete the text.
-  - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
-
-#### Threat Modeling
-
-If you are wanting to implement a process, code, or some other procedure that could impact the security posture of GitLab or its products, something
-that the Security Team uses as a resource is [Threat Modeling](https://en.wikipedia.org/wiki/Threat_model). The Security Team *highly*
-encourages change and improvements, and also ensure that changes and improvements are done securely.
-The Security Team uses a threat framework based upon the [PASTA](https://www.wiley.com/en-us/Risk+Centric+Threat+Modeling%3A+Process+for+Attack+Simulation+and+Threat+Analysis-p-9780470500965#) methodology.
-For more information including an issue template for doing your own threat modeling, check out the [Threat Modeling]({{< ref "threat-modeling" >}}) page.
-
-#### Non-Emergency Contact
-
-If you have a question or concern and need to speak with the Security Team, you can contact [Security](/handbook/security/#-contacting-the-team).
-
 ### Security Process and Procedures for Team Members
 
 #### Accounts and Passwords

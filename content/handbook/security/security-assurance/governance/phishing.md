@@ -214,6 +214,17 @@ To forward the email as an attachment to GitLab's Security Team using Gmail:
 1. Select `Forward as attachment`
 1. Send it to `phishing@gitlab.com`
 
+### CEO & Executive Fraud
+
+The CEO (and Executive team) will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), or a text message to ask for gift cards, or anything else that feels like a [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud). These types of [spear attack](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests via the #ceo Slack channel.
+
+What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
+
+1. If you are unsure whether the text or email is legitimate, contact [Security]({{< ref "." >}}) to review, and confirm via the #ceo Slack channel.
+1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
+1. If the text is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
+  - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
+
 ### What to do if you suspect something else is suspicious
 
 Phishing and other social engineering attacks aren't only sent via email.
