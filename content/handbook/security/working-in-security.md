@@ -1,4 +1,4 @@
-## <i id="biz-tech-icons" class="far fa-newspaper"></i> Working in Security
+## Working in Security
 
 ### Security Hiring
 
