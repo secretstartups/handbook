@@ -208,10 +208,6 @@ You can then choose to use this new service account via the option under **Advan
 1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
-### GitLab Password Guidelines
-
-Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. Follow [GitLab's password guidelines]({{< ref "password-guidelines" >}}) when constructing secure passwords and ensuring proper password management to keep GitLab secure. To learn what makes a password truly secure, read this [article](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277) or watch this [conference presentation](https://www.youtube.com/watch?v=vudZnjp5Uq0&t=19183) on password strength.
-
 ### Panic Email
 
 Should a team member lose a device such as a thumb drive, YubiKey, mobile phone, tablet, laptop, etc. that contains their credentials or other GitLab-sensitive data they should report the issue using the `/security` command in Slack to [engage SIRT]({{< ref "engaging-security-on-call#engage-the-security-engineer-on-call" >}}).
