@@ -121,7 +121,7 @@ In cases where the Community Programs team believes a program member's actions v
 
 In cases where the Community Programs team believes a program member's actions violate the terms of a Program Agreement, and the violation is curable, the team will enact the following procedure to begin redress and ensure compliance.
 
-First, the team will notify the program member of the suspected violation with a message that conforms to [the appropriate template](https://gitlab.com/gitlab-com/marketing/community-relations/community-operations/community-operations/-/tree/main/macros). The purpose of this message is to:
+First, the team will notify the program member of the suspected violation with a message that conforms to [the appropriate template](https://gitlab.com/gitlab-com/marketing/developer-relations/community-programs/operations/-/blob/main/support-macros/opensource/oss-program-eligibility-violation.md). The purpose of this message is to:
 
 * Serve as formal notice that under the terms of an applicable Agreement the program member's current use of the licenses granted is not in compliance with the terms of the applicable Agreement.
 * Signal the beginning of the 30-day cure period, by the conclusion of which the program member must rectify the failure
