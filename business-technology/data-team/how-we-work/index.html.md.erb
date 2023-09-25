@@ -165,15 +165,15 @@ Data Team Incidents can be reviewed in [Incident Overview page](https://gitlab.c
 
 ### Workflow Summary
 
-| Stage (Label)               | Responsible        | Description                                          | Completion Criteria                                                                                                    |
-| --------------------------- | ------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| `workflow::1 - triage`      | Data               | New issue, being assessed                            | Item has enough information to enter problem validation.                                                               |
-| `workflow::2 - validation`  | Data, Business DRI | Clarifying issue scope and proposing solution        | Solution defined with sign off from business owners on proposed solution that is valuable, usable, viable and feasible |
-| `workflow::3 - scheduling`  | Data               | Waiting for scheduling                               | Item has a numerical milestone label                                                                                   |
-| `workflow::4 - scheduled`   | Data               | Waiting for development                              | Data team has started development                                                                                      |
-| `workflow::5 - development` | Data               | Solution is actively being developed                 | Initial engineering work is complete and review process has started                                                    |
-| `workflow::6 - review`      | Data               | Waiting for or in Review                             | MR(s) are merged. Issues had all conversations wrapped up.                                                             |
-| `workflow::X - blocked`     | Data, Business DRI | Issue needs intervention that assignee can't perform | Work is no longer blocked                                                                                              |
+| Stage (Label)                     | Responsible        | An Item Is Added to This Stage When                  | Criteria to Progress to Next Stage                                                                                                   |
+| --------------------------------- | ------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| `workflow::1 - triage`            | Data Triager       | A new request has been created                       | A clear problem statement & business value statement are included in the issue, and appropriate labels (Priority, Champion, and Team) have been applied. |
+| `workflow::2 - validation`        | Data               | Enough information is included to inform a Do / Won't Do Decision    | The business value is clear; the work warrants development and is expected to be refined & prioritized. If not, a description for why the work won't be done will be added and the issue will be closed. |
+| `workflow::3 - refinement`        | Data, Business DRI | The issue is actively being scoped & refined         | Technical solution & expected outcome are included in the issue, and the issue has a numerical weight applied. The technical solution should have enough detail and clarity that another developer (other than the one doing the validation) would be able to pick it up. |
+| `workflow::4 - ready to develop`  | Data               | The issue is fully scoped & refined                  | Work is picked up for development  |
+| `workflow::5 - development`       | Data               | Development work has started                         | Item is actively being worked on.  |
+| `workflow::6 - review` | Data, Business DRI | Development work is ready for, or currently, being reviewed | All work is completed. |
+| `workflow::X - blocked`           | Data, Business DRI | Issue needs intervention that assignee can't perform | Work is no longer blocked  |
 
 Generally issues should move through this process linearly. Some templated issues will skip from `triage` to `scheduling` or `scheduled`.
 
