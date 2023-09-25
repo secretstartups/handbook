@@ -130,6 +130,7 @@ MacBooks are wonderful laptops, but no laptop is without faults. You may come ac
 
 Here are some troubleshooting guides if you forgot your password or if your password is not working for your MacBook.
 
+- [Boot to receovery mode](https://support.apple.com/en-ie/guide/mac-help/mchl46d531d6/mac). Once you get to receovery and have unlocked using your password, restart the laptop. This often fixes the issue.
 - [Use the Reset Password assistant](https://support.apple.com/en-ca/HT212190#:~:text=Use%20the%20Reset%20Password%20assistant,-You%20should%20now&text=From%20the%20Utilities%20menu%20in,open%20the%20Reset%20Password%20assistant.)
 - [Reset your Mac login password](https://support.apple.com/en-ca/guide/mac-help/mh35902/mac)
 
@@ -296,45 +297,9 @@ If you need to wipe a macOS system because you have received a new (refreshed) s
 
 We use Jamf to wipe Macs when you're either getting a new laptop, sending it back to our supplier, or retaining your laptop [after you have left the company](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy).
 
-After we have initiated the wipe from our end, the Mac should restart several times and end up in the Setup Assistant window. If this is not the case then you will need to manually reinstall macOS by following the steps below:
+After we have initiated the wipe from our end, the Mac should restart several times and end up in the Setup Assistant window. If this is not the case then you will need to manually reinstall macOS by following [this guide](https://support.apple.com/en-ie/HT204904).
 
 **Before you reinstall, DNS changes on your router can affect the connection to the Apple Servers. If you do have issues getting into recovery, or are stuck with selecting your network, please try defaulting back to your original DNS to fix this issue**
-
-1. Start up from macOS Recovery
-To start up from macOS Recovery, turn on your Mac and immediately press `Command + R` on your keyboard. Release the keys when you see an Apple logo or Spinning Globe.
-
-![image_2.png](./image_2.png)
-
-When you see the utilities window, you have started up from macOS Recovery.
-
-![image_3.png](./image_3.png)
-
-2. Install macOS
-When you're ready to reinstall macOS, choose Reinstall macOS from the Utilities window. Then click Continue and follow the on-screen instructions. You will be asked to choose a disk on which to install.
-
-- If the installer asks to unlock your disk, enter the password you use to log in to your Mac.
-- If the installer can't see your disk, or it says that it can't install on your computer or volume, you might need to erase your disk first
-
-You can do this by going back to the Utilities window and clicking on `disk utility`
-
-![image_4.png](./image_4.png)
-
-Choose View > Show All Devices from the menu bar in Disk Utility. The sidebar now shows your disks (devices) and any containers and volumes within them. The disk your Mac started up from is at the top of the list. In this example, Apple SSD is the startup disk:
-
-![image_5.png](./image_5.png)
-
-Select the disk you want to erase.
-Click Erase, then complete these items:
-
-Name: Type the name that you want the disk to have after you erase it.
-Format: Choose APFS or Mac OS Extended (Journalled). Disk Utility shows a compatible format by default.
-Scheme: Choose GUID Partition Map.
-
-Click Erase to begin erasing your disk and every container and volume within it. You may be asked to enter your Apple ID. When it's finished, quit Disk Utility.
-
-Once this is complete you can then install OS by clicking on Reinstall macOS from Utilities window again and selecting the disk you've just wiped. Follow the prompts and the OS will install:
-
-![ventura-install.png](./ventura-install.png)
 
 <!---
 ## Enrolling your Chromebook into GitLab Google Device Management
