@@ -24,15 +24,8 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Continuous Change Management in a Secure Way
-##### September 20th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Learn from our director of engineering how to shift left your change management process and why that is important. You will learn about the why and how of a safe and secure change management process.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_KNavz0X4TGWMIm2NmIWeBA#/registration)
-
 #### DevSecOps/Compliance
-##### September 26th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
+##### September 22nd, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
 GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
 
