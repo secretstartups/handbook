@@ -59,9 +59,11 @@ Field updates:
 
 ## What was accomplished this week
 
-- `What did you accomplish this week?`
+- 
 
 ## What will be accomplished next week
 
-- `What will you work on next week?`
+- 
 ```
+
+With `YYYY-MM-DD` being the beginning of the week (Monday, even if this day if a holiday or a Family and Friends day).
