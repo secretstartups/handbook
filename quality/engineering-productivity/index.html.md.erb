@@ -17,9 +17,9 @@ description: "The Engineering Productivity team increases productivity of GitLab
 
 ## KPIs
 
-- [Master Pipeline Stability](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#master-pipeline-stability)
-- [Review app deployment success rate](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate)
-- [Time to First Failure (TtFF)](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#time-to-first-failure)
+- [Master Pipeline Stability](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#master-pipeline-stability)
+- [Review app deployment success rate](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#review-app-deployment-success-rate)
+- [Time to First Failure (TtFF)](https://about.gitlab.com/handbook/engineering/infrastructure-quality/performance-indicators/#time-to-first-failure)
 
 ## OKRs
 
@@ -88,7 +88,7 @@ graph TD
 
 ### Office hours
 
-Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1_4BapuLIufA_OJ1YSdqdq-aLw4kjBLWQZw2hqSKDsJc/edit#). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
+Engineering productivity has monthly office hours on the 3rd Wednesday of the month at 3:00 UTC (20:00 PST) on even months (e.g February, April, etc) open for anyone to add topics or questions to the [agenda](https://docs.google.com/document/d/1e1EXcOQl0y9ovtrnJfTKDi83QIwJ_UXMzCBsWVyY1_s/edit). Office hours can be found in the [GitLab Team Meetings calendar](https://about.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar)
 
 ### Workstream objectives
 
@@ -127,27 +127,45 @@ The Engineering Productivity team focuses on the following workstreams and the a
 
 ### Meetings
 
-Engineering Productivity has an alternating [weekly team meeting schedule](https://docs.google.com/document/d/1yzHuosvykzb_kaldjGP9I6wxpNpMXdNEvEFBkHyZpXs/edit#) to allow for all team members to collaborate in times that work for them.
+Engineering Productivity has [weekly team meeting ](https://docs.google.com/document/d/1yzHuosvykzb_kaldjGP9I6wxpNpMXdNEvEFBkHyZpXs/edit#) in two parts (EMEA / AMER) to allow for all team members to collaborate in times that work for them.
 
-- Week 1 is Tuesdays 1200 UTC, 0400 PST
-- Week 2 is Tuesdays 2330 UTC, 1530 PST
-
-### Showcase
-
-Showcases are done every two months and will be voted on by the team asynchronously in an issue.
-
-1. Engineering Manager will create an issue to discuss showcase during the second week of even months.
-1. Team members will identify topics they'd like to learn more about or demo for the team.
-1. Team members vote with `:thumbsup:` reactions on the ideas they'd like to hear about.
-1. Engineering Manager will identify a DRI to lead the showcase and schedule for the second week of the odd month.
+- Part 1 is Tuesdays 11:00 UTC, 04:00 PST
+- Part 2 is Tuesdays 22:00 UTC, 15:00 PST
 
 ### Work prioritization
 
-The Engineering Productivity team uses [modified prioritization and planning guidelines](prioritization.html) for targeting work within a Milestone.
+The Engineering Productivity team has diverse responsibilities and reactive work. Work is categorized as planned and reactive.
+
+### Guiding principles
+
+- We focus on OKRs, corrective actions and preventative work.
+- We adhere to the general release milestones like %x.y.
+- We are ambitious with our targeted planned work per milestone. These targets are not reflective of a commitment. Reactive work load will ebb and flow and we do not expected to accomplish everything planned for the current milestone.
+- [Priority labels](/handbook/engineering/quality/issue-triage/#priority) are used to indicate relative priority for a milestone.
+
+### Weighting
+
+We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability. 
+
+When weighting, think about knowns and complexity related to recently completed work. The goal with weighting is to allow for some estimation ambiguity that allows for a consistent predictable flow of work each milestone. 
+
+### Prioritization activities
+
+| When | Activity | DRI |
+| --- | --- | --- |
+| Weekly | Assign `~priority::1`, `~priority::2` issues to a milestone | Engineering Productivity Engineering Manager |
+| Weekly | Weight issues identified with `~"needs weight"` | Engineering Productivity Backend Engineer |
+| Weekly | Prioritize all `~"Engineering Productivity"` issues | Engineering Productivity Engineering Manager |
+| 2 weeks prior to milestone start | Milestone planned work is identified and scheduled | Engineering Productivity Engineering Manager |
+| 2 weeks prior to milestone start | Provide feedback on planned work | Engineering Productivity team |
+| 1 week prior to milestone start | Transition any work that is not in progress for current milestone to upcoming milestone | Engineering Productivity Engineering Manager |
+| 1 week prior to milestone start | Adjust planned work for upcoming milestone | Engineering Productivity Engineering Manager |
+| 1 week prior to milestone start | Final adjustments to planned scope | Engineering Productivity team |
+| During milestone | Adjust priorities and scope based on newly identified issues and reactive workload | Engineering Productivity Engineering Manager |
 
 ### Projects
 
-The Engineering Productivity team recently reviewed all our projects and discussed relative priority. Aligning this with our business goals and priorities is very important. The list below is ordered based on aligned priorities and includes primary domain experts for communication as well as a documentation reference for self-service.
+The Engineering Productivity team recently reviewed (2023-05-19) all our projects and discussed relative priority. Aligning this with our business goals and priorities is very important. The list below is ordered based on aligned priorities and includes primary domain experts for communication as well as a documentation reference for self-service.
 
 | Project | Domain Knowledge | Documentation |
 | ------- | ------------------------------------------ | ----- |
@@ -163,19 +181,6 @@ The Engineering Productivity team recently reviewed all our projects and discuss
 | RSpec Profiling Statistics for profiling information on RSpec tests in CI | Alina | [rspec_profiling_stats](https://gitlab.com/gitlab-org/rspec_profiling_stats) |
 | Styles for shared RuboCop cops | ??? | [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec) |
 | Feature flag alert for reporting on GitLab feature flags | ??? | [Gitlab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) |
-
-<!--
-1. `gitlab-org/gitlab` [pipeline configuration, optimization, and stability](https://docs.gitlab.com/ee/development/pipelines.html).
-1. `gitlab-org/gitlab` [Review apps](https://docs.gitlab.com/ee/development/testing_guide/review_apps.html) provisioning and [infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure/-/tree/main/review-apps).
-1. [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops) for issues/merge requests/epics, and [infrastructure](https://gitlab.com/gitlab-org/quality/engineering-productivity-infrastructure/-/tree/main/qa-resources).
-1. [`gitlab-triage` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage), used by [Triage operations](https://gitlab.com/gitlab-org/quality/triage-ops).
-1. [Development department metrics](/handbook/engineering/development/performance-indicators) for measurements of Quality and Productivity.
-1. [`gitLab-dangerfiles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles) for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins.
-1. [`gitLab-styles` Ruby gem](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles) for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec).
-1. [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit) continued development.
-1. [GitLab feature flag alert](https://gitlab.com/gitlab-org/gitlab-feature-flag-alert) for reporting on GitLab feature flags.
-1. [GitLab RSpec Profiling Statistics](https://gitlab.com/gitlab-org/rspec_profiling_stats) for profiling information on RSpec tests in CI.
-/-->
 
 ### Metrics
 
@@ -294,8 +299,8 @@ The weekly update comment should include:
 ##### Examples
 
 Some good examples of epic updates that cover the above aspects:
-- https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793
-- https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901
+- <https://gitlab.com/groups/gitlab-org/-/epics/8628#note_1090732793>
+- <https://gitlab.com/groups/gitlab-org/-/epics/5152#note_1029337901>
 
 
 ## Test Intelligence
@@ -361,7 +366,7 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 
 | Experiment | Status | Hypothesis | Feedback Issue or Findings |
 | --- | --- | --- | --- |
-| [Automatic issue creation for test failures](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182) | In Progress | The goal is to track each failing test in `master` with an issue, so that we can later automatically quarantine tests. | [Feedback issue](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182). |
+| [Automatic issue creation for test failures](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182) | Complete | The goal is to track each failing test in `master` with an issue, so that we can later automatically quarantine tests. | [Feedback issue](https://gitlab.com/gitlab-org/quality/engineering-productivity/team/-/issues/182). |
 | [Always run predictive jobs for fork pipelines](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1170) | Complete | The goal is to reduce the compute minutes consumed by fork pipelines. The "full" jobs only run for canonical pipelines (i.e. pipelines started by a member of the project) once the MR is approved. | |
 | [Retry failed specs in a new process after the initial run](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148) | Complete | Given that a lot of flaky tests are unreliable due to previous test which are affecting the global state, retrying only the failing specs in a new RSpec process should result in a better overall success rate. | [Results show that this is useful](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1148#note_914106156). |
 | [Experiment with automatically skipping identified flaky tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/1069) | Complete - Reverted | Skipping flaky tests should reduce the number of false broken `master` and increase the `master` success rate. | We found out that it can actually break `master` in some cases, so we reverted the experiment with [`gitlab-org/gitlab!111217`](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/111217). |
