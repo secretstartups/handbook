@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### DevSecOps/Compliance
-##### September 22nd, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_tZP2Hn0FRESxhIWg5TFz2A#/registration)
-
 #### Hands-On GitLab CI Workshop for Jenkins Users
 ##### September 26th, 2023 at 10:00AM-12:00PM Pacific Time / 1:00-3:00PM Eastern Time
 
