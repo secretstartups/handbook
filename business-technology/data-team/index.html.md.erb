@@ -121,7 +121,7 @@ Our impact will be measured against 4 dimensions (these metrics will adjust as o
 #### Data Platform Stability
 
 - Infrastructure Cost vs Plan: This performance indicator tracks the financial position of the actual cost vs the planned costs for the data infrastructure (warehouse, ETL pipelines, etc.).
-- Mean Time between Failures (MTBF): This performance indicator tracks the mean time since last system failure based on set cadence.
+- Data Update: This performance indicator measures the % of time a data pipeline was providing data without reported incidents. This indicator is currently measured based on Monte-Carlo data, according to the configured (automatic) monitors on any given table in the `raw` data layer. 
 - Mean Time to Repair (MTTR): This performance indicator tracks the mean time to get the system back up and running based on set cadence.
 
 #### Data Quality & Governance
