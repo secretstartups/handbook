@@ -13,7 +13,7 @@ Introductory text, logos, or whatever the group wants here
 
 - Our Slack Channel: [spt_gg_maple](https://gitlab.slack.com/archives/C03C9EHQ97V)
 - Our Team: [Maple Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=maple)
-- Aligned Managers: 
+- Aligned Managers:
    - **AMER** -- Izzy, Ronnie
    - **EMEA** -- Rebecca, Tine
    - **APAC** -- no alignment
