@@ -16,7 +16,7 @@ description: "Security at GitLab"
 1. Set up your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
   and use this as
   your primary means for accessing Applications supported in Okta. As part of
-  setting up Okta, you'll need to establish a [strong password](#gitlab-password-guidelines)
+  setting up Okta, you'll need to establish a [strong password]({{< ref "password-guidelines" >}})
   and set up at least one additional form of authentication.
 1. For your Okta password and other passwords that you won't store in Okta, set up [1Password](https://1password.com/) as your password manager and set a **strong and unique**
   master password.
