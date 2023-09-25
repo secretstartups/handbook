@@ -14,6 +14,10 @@ Introductory text, logos, or whatever the group wants here
 
 - Our Slack Channel: [spt_gg_kapok](https://gitlab.slack.com/archives/C03C6JQV3EZ)
 - Our Team: [Kapok Members](https://gitlab-com.gitlab.io/support/team/sgg.html?search=kapok)
+- Aligned Managers:
+   - **AMER** -- Aric, Mike
+   - **EMEA** -- Rebecca, John
+   - **APAC** -- no alignment
 
 ## Kapok workflows and processes
 
