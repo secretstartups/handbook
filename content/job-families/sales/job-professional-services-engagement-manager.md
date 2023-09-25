@@ -18,7 +18,7 @@ The Professional Services Engagement Manager (Associate) is a [grade 5](https://
 
 #### Professional Services Engagement Manager (Associate) Responsibilities
 
-- Craft and training and certification engagement methodology with support of Education Services Leadership and EM leadership team.
+- Craft training and certification engagement methodology with support of Education Services Leadership and EM leadership team.
 - Execute training and certification plans with Account Executives and directly with customers.
 - Meet and exceed set financial targets
 - Coach Account Executives on how to include education services on quote/order form.
