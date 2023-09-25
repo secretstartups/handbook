@@ -432,4 +432,4 @@ I try to prioritize people from [underrepresented groups](https://about.gitlab.c
 
 ## CEO scam
 
-See [CEO and executive fraud](https://about.gitlab.com/handbook/security/#ceo--executive-fraud) in the security practices section of the handbook.
+See [CEO and executive fraud](handbook/security/security-assurance/governance/phishing/#ceo--executive-fraud) in the security practices section of the handbook.
