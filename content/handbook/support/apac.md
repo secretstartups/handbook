@@ -97,15 +97,22 @@ The measurement itself should be updated on a quarterly cadence, at the start of
 each financial quarter.
 
 <details>
-  <summary markdown="span">Historical data</summary>
+  <summary markdown="span">Historical & current data</summary>
 
-- FY23-Q1: 5
-- FY23-Q2: 5
-- FY23-Q3: 5
-- FY23-Q4: 5
-- FY24-Q1: 6
-- FY24-Q2: 7
-- FY24-Q3: 7
+  The following shows:
+   - the number for the Cliff of Definite Underperformance (CoDU) as observed for the 12 month period concluding prior to the listed quarter.
+   - a link to the notification issue when the number was reviewed for that period.
+
+| **Quarter** | **CoDU Number** | **Notification Issue**  |
+|------------| -------- |------|--------------------------|
+| FY24-Q3 (Current) | 7 | [STM#5494](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5494) |
+| FY24-Q2 | 7 | Nil - practice started in FY24-Q3 |
+| FY24-Q1 | 6 | |
+| FY23-Q4 | 5 | |
+| FY23-Q3 | 5 | |
+| FY23-Q2 | 5 | |
+| FY23-Q1 | 5 | |
+
 
 </details>
 
@@ -236,6 +243,19 @@ each financial quarter.
        ```
 
 </details>
+
+<details>
+  <summary markdown="span">Documenting the measurement</summary>
+
+  When a review of the measurement is carried out:
+
+- Create an MR to:
+   - Update the number in the first paragraph of the [Cliff of Definite Underperformance section](#cliff-of-definite-underperformance) if the number has changed.
+   - Add a new row to the top of the `Historical & Current Data` table for the current quarter's number. Also move the reference to `(Current)` data to this row.
+- Create a notification issue in [Support Team Meta](https://gitlab.com/gitlab-com/support/support-team-meta) to record that the number has been reviewed and if it has changed.  (Copy a previous notification issue to use as a template).
+- Add a link to the notification issue to the relevant column in the `Historical and Current data` table.
+
+  </details>
 
 ## Daily Bot in the #support_licensing-subscription slack channel
 
