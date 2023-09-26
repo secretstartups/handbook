@@ -26,10 +26,9 @@ This is the rotation schedule for FY24-Q3 and Q4 (2023-08-01 until 2024-01-31). 
 | Veethika Mishra        | Annabel Gray               |
 | Emily Bauman           | Pedro Moreira da Silva     |
 | Austin Regnery         | Sunjung Park	              |
-| Kevin Comoli	         | Sascha Eggenberger	      |
 | Becka Lippert          | Matt Nearents              |
-| Amelia Bauerly         | Emily Sybrant	      |
-| Timothy Noah           | Dan Mizzi-Harris           |
+| Amelia Bauerly         | Emily Sybrant	          |
+| Timothy Noah           | Dan Mizz-Harris, Sascha Eggenberger |
 | Nick Leonard (OOO until 2023-09-18) | Michael Fangman (OOO until 2023-08-31) |        
 
 ### Temporary pairing
