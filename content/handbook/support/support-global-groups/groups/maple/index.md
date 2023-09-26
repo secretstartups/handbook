@@ -25,6 +25,12 @@ Introductory text, logos, or whatever the group wants here
   - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person.html) page, to increase your chances of finding the best DRI for the case.
   - As a last resort, ask the manager on-call to help find an assignee.
 
+### How to handle High Priority tickets
+
+- Reply if you can or leave an internal comment, especially if the ticket is near breaching, and take assignment of it.
+- If the ticket is All-Regions, or has a different prefered region, use the [High Priority workflow](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5375) in our slack channel, selecting the cregion to handover to, and the manager (the DRI managers for EMEA and AMER, oncall manager for APAC), adding a summary of the problem and identifing what is exactly needed.
+- "If you see something, do something". If you see a handover request targeting your region, either take it if you have the capacity, or react with :red_circle: if you can't, and flag it for your team if it remained unacknowledged for a while.
+
 ### How to handle NRTs
 
 We aim for not having any unassigned tickets and at least no > 5 days NRT breaches
