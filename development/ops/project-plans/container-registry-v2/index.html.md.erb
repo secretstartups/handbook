@@ -67,47 +67,30 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/5521](https://gitlab.com/gro
   - Recorded [youtube video](https://www.youtube.com/watch?v=aZdyYrKdtxk) for import process.
   - Tested 100GB model for migration in GCP. ([issue](https://gitlab.com/gitlab-org/gitlab/-/issues/424479))
 
-#### Week of Sept 11-18
+#### Week of Sept 11-15
 - Plan:
   - Investigate using a lock file for data integrety ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/918)).  Prevent non-database registry changes (such as offline garbage collection) to database managed objects.
   - Further testing with AWS and 500GB models.
+- Completed:
+  - Made progress on technical design for lockfiles to protect data integrity in the metadata database.
 
 ### Milestone 16.5 (September 17, 2023 - October 10, 2023)
 
 #### Goals:
--
+- Open the Beta program for the container registry and start getting customer feedback about the docs and migration.
+- Provision a Container Registry database for Omnibus installations ([issue](https://gitlab.com/gitlab-org/container-registry/-/issues/1074))
+- Add observability metric in service ping to identify use of the new database in self-managed installs.
 
-### Milestone 16.6 (October 17, 2023 - November 10, 2023)
+#### Week of Sept 18-22
+- Plan: 
+  - With the 16.4 release, the fix for persisting database settings will be available to self-managed and users can begin testing for the beta program.
+  - Define detailed project delivery goals
 
-#### Goals:
--
+#### Week of Sept 25-29
+- Plan:
 
-### Milestone 16.7 (November 13, 2023 - December 8, 2023)
+#### Week of Oct 2-6
+- Plan:
 
-#### Goals:
--
-
-### Milestone 16.8 (December 11, 2023 - January 12, 2024)
-
-#### Goals:
--
-
-### Milestone 16.9 (January 15, 2024 - February 9, 2024)
-
-#### Goals:
--
-
-### Milestone 16.10 (February 12, 2024 - March 8, 2024)
-
-#### Goals:
--
-
-### Milestone 16.11 (March 11, 2024 - April 12, 2024)
-
-#### Goals:
--
-
-### Milestone 17.0 (April 15, 2024 - May 10, 2024)
-
-#### Goals:
--
+#### Week of Oct 9-13
+- Plan: 
