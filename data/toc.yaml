@@ -6,15 +6,15 @@
       url: https://about.gitlab.com/company/
       links:
       - name: History
-        url: https://about.gitlab.com/company/history/
+        url: history
     - name: Values
       url: values
     - name: Mission
-      url: https://about.gitlab.com/company/mission/
+      url: mission
     - name: Vision
       url: https://about.gitlab.com/company/vision/
     - name: Strategy
-      url: https://about.gitlab.com/company/strategy/
+      url: strategy
     - name: Communication
       url: communication
       links:
@@ -43,15 +43,15 @@
       - name: CEO Shadow Program
         url: shadow
       - name: Cadence
-        url: https://about.gitlab.com/company/cadence/
+        url: cadence
       - name: E-Group Offsite
-        url: https://about.gitlab.com/company/offsite/
+        url: offsite
       - name: KPIs
-        url: https://about.gitlab.com/company/kpis/
+        url: kpis
       - name: OKRs
-        url: https://about.gitlab.com/company/okrs/
+        url: okrs
       - name: Pricing Model
-        url: https://about.gitlab.com/company/pricing/
+        url: /handbook/company/pricing
     - name: Creator pairing
       url: https://about.gitlab.com/handbook/engineering/fellow/shadow/
     - name: Chief of Staff Team to the CEO
@@ -94,12 +94,12 @@
     url: content-websites
 - name: People Group
   icon: fa-solid fa-people-group
-  url: https://about.gitlab.com/handbook/people-group/
+  url: /handbook/people-group/
   links:
     - name: Anti-Harassment Policy
-      url: https://about.gitlab.com/handbook/anti-harassment/
+      url: anti-harassment
     - name: Global Volunteer Month
-      url: https://about.gitlab.com/handbook/people-group/givelab-volunteer-initiatives/
+      url: givelab-volunteer-initiatives
     - name: Hiring
       url: https://about.gitlab.com/handbook/hiring/
       links:
@@ -113,48 +113,48 @@
       url: https://about.gitlab.com/company/culture/inclusion/
       links:
         - name: Ally Resources
-          url: https://about.gitlab.com/handbook/communication/ally-resources/
+          url: ally-resources
         - name: Gender and Sexual Orientation Identity Definitions and FAQ
-          url: https://about.gitlab.com/handbook/people-group/orientation-identity/
+          url: orientation-identity
         - name: Unconscious Bias
           url: https://about.gitlab.com/company/culture/inclusion/unconscious-bias/
     - name: Labor and Employment Notices
-      url: https://about.gitlab.com/handbook/labor-and-employment-notices/
+      url: labor-and-employment-notices
     - name: Leadership
-      url: https://about.gitlab.com/handbook/leadership/
+      url: leadership
     - name: Learning & Development
-      url: https://about.gitlab.com/handbook/people-group/learning-and-development/
+      url: /handbook/people-group/learning-and-development
     - name: Onboarding
-      url: https://about.gitlab.com/handbook/people-group/general-onboarding/
+      url: /handbook/people-group/general-onboarding
     - name: Offboarding
-      url: https://about.gitlab.com/handbook/people-group/offboarding/
+      url: /handbook/people-group/offboarding
     - name: Spending Company Money
       url: https://about.gitlab.com/handbook/spending-company-money/
       links:
         - name: Travel
-          url: https://about.gitlab.com/handbook/travel/
+          url: travel
         - name: Visas
-          url: https://about.gitlab.com/handbook/people-group/visas/
+          url: visas
     - name: Team Member Relations Philosophy
-      url: https://about.gitlab.com/handbook/people-group/team-member-relations/#team-member-relations-philosophy
+      url: /handbook/people-group/team-member-relations#team-member-relations-philosophy
     - name: Total Rewards
-      url: https://about.gitlab.com/handbook/total-rewards/
+      url: /handbook/total-rewards
       links:
         - name: Benefits
-          url: https://about.gitlab.com/handbook/total-rewards/benefits/
+          url: benefits
         - name: Incentives
-          url: https://about.gitlab.com/handbook/incentives/
+          url: incentives
         - name: Paid time off
-          url: https://about.gitlab.com/handbook/paid-time-off/
+          url: paid-time-off
         - name: Compensation
-          url: https://about.gitlab.com/handbook/total-rewards/compensation/
+          url: compensation
         - name: Stock Options
           url: https://about.gitlab.com/handbook/stock-options/
     - name: Tools and Tips
-      url: https://about.gitlab.com/handbook/tools-and-tips/
+      url: tools-and-tips
       links:
         - name: Searching the GitLab Website Like a Pro
-          url: https://about.gitlab.com/handbook/tools-and-tips/searching/
+          url: /handbook/tools-and-tips/searching
 - name: Engineering
   icon: fa-solid fa-laptop-code
   url: https://about.gitlab.com/handbook/engineering/
@@ -197,16 +197,16 @@
     url: https://about.gitlab.com/handbook/engineering/open-source/
 - name: Security
   icon: fa-solid fa-shield-halved
-  url: https://about.gitlab.com/handbook/security/
+  url: /handbook/security
   links:
   - name: Security Engineering
-    url: https://about.gitlab.com/handbook/security/#secure-the-product--security-engineering
+    url: /handbook/security#secure-the-product--security-engineering
   - name: Security Operations
-    url: https://about.gitlab.com/handbook/security/security-operations/
+    url: /handbook/security/security-operations
   - name: Threat Management
-    url: https://about.gitlab.com/handbook/security/threat-management/
+    url: /handbook/security/threat-management
   - name: Security Assurance
-    url: https://about.gitlab.com/handbook/security/security-assurance/
+    url: /handbook/security/security-assurance
 - name: Marketing
   icon: fa-solid fa-lightbulb
   url: https://about.gitlab.com/handbook/marketing/

@@ -1,0 +1,26 @@
+{{ $dataURL := printf "https://gitlab.com/gitlab-com/www-gitlab-com/-/raw/master/data/entity_mapper.yml"}}
+{{ with resources.GetRemote $dataURL }}
+  {{ with .Err}}
+    <h2>Unable to fetch performance indicator Data</h2>
+  {{ else }}
+      {{ $data := . | transform.Unmarshal }}
+      <table style="display: table;">
+          <thead>
+              <tr>
+                  <th>Country</th>
+                  <th>Probation Period</th>
+              </tr>
+          </thead>
+          <tbody>
+              {{ range sort $data "country" }}
+              {{ if and (or (eq .bhr_payroll_type "Employee") (eq .bhr_payroll_type "Contractor-PEO")) (eq .probation "None") }}
+              <tr>
+                  <td>{{ .country }}</td>
+                  <td>{{ .notice_after_probation }}</td>
+              </tr>
+              {{ end }}
+              {{ end }}
+          </tbody>
+      </table>
+  {{ end }}
+{{ end }}
