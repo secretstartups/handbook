@@ -83,9 +83,11 @@ Each issue to be worked in a given iteration is assigned a weight. The total wei
 
 | Weight | Level of Effort |
 | -------- | ---------- |
-| 1 | Minimal effort |
-| 2 | Moderate effort |
-| 3 | High effort |
+| 1 | Basic - Simple, typically sub-issues that can be resolved with minimal effort and have straightforward solutions. They usually don't involve dependencies. |
+| 2 | Intermediate - Issues of moderate complexity that might have a few dependencies (ARs, specialized knowledge, API connections) or require some coordination among team members. |
+| 3 | Advanced - More complex issues that have many dependencies and requires coordination across teams to complete. These issues will take more time to reach a solution. |
+| 4 | Challenging - Larger issue with some complexity that require specialized knowledge or substantial problem-solving. They might involve architectural designs and decisions. These issues will typically be broken down into smaller sub-issues. |
+| 5 | Complex - Larger, more complex, issues that will require architectural designs and decisions. These issues are intricate, involve complex API's, or require extensive changes. These issues will be broken down into smaller sub-issues. |
 
 ### Design
 
@@ -94,6 +96,14 @@ During the design stage, we aim to accomplish the following:
 - Produce a design for the minimum viable product (MVP) solution that will satisfy the automation project's requirements.
 - Design components that are modular
 - Design components that can be reused to accelerate future development projects
+
+### Maturity Model
+
+Maturity Model 1: At this stage, the primary objective is to establish the foundational aspects of automation functionality. The process involves a combination of both manual and automated steps. Data acquisition typically relies on manual pulling from sources, often utilizing .csv files. Basic scripts and tools are employed to execute tasks.
+
+Maturity Model 2: In this phase, the emphasis is on advancing workflow automation by integrating more sophisticated components. Limited manual data extraction may persist, though the focus shifts towards leveraging enhanced scripting and tools. This stage is characterized by semi-automated processes that are not yet self-service and may require manual initiation.
+
+Maturity Model 3: In this advanced stage, the primary objective is achieving a high level of automation while reducing reliance on manual data extraction. Integration with APIs is pivotal to eliminate manual intervention. The solution becomes self-service, with processes executed seamlessly within pipelines on scheduled intervals.
 
 ### Development and Testing
 
