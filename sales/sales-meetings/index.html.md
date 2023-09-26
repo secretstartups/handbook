@@ -79,12 +79,6 @@ For a full overview of the QBR planning and execution process, QBR request track
 1. If you cannot join the call, consider reviewing the recorded call, or at minimum, read through the meeting agenda.
 1. If you have feedback on how we can improve the WW Field Org Call, share it in the post-meeting survey provided via Zoom when you log off the call. 
 
-### CRO Fireside Chats
-The CRO will host regular CRO Fireside Chat sessions each quarter as a part of the [Field Enablement Spotlight series](/handbook/sales/training/sales-enablement-sessions/). Spotlight sessions occur weekly at 9 am PT on Thursdays. 
-
-Topics for the CRO Fireside Chats vary based on skills/topics that are top of mind for the CRO and leadership. All Field team members are included on the invite to the Field Enablement Spotlight series.
-
-
 
 ## Enablement/Planning/Strategy Meetings
 
