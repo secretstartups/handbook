@@ -21,7 +21,7 @@ Introductory text, logos, or whatever the group wants here
 - Please refer to [providing a first response to a ticket](/handbook/support/workflows/working-on-tickets/#providing-a-first-response-to-a-ticket).
 - If you are sending a first response without taking assignment, [check our guidelines](/handbook/support/workflows/working-on-tickets/#helping-with-a-first-response-without-taking-assignment), and try to help find an assignee for it.
   - Consider keeping yourself CCed on ticket, at least till an assignee is found.
-  - If nobody volunteered or has the knowledge to take it, extend the audience to the wider support team by cross-posting your request on either #support_self-managed, or #support_gilab-com. 
+  - If nobody volunteered or has the knowledge to take it, extend the audience to the wider support team by cross-posting your request on either #support_self-managed, or #support_gilab-com.
   - Consider tagging specific team members referring to the [Skills by person](https://gitlab-com.gitlab.io/support/team/skills-by-person.html) page, to increase your chances of finding the best DRI for the case.
   - As a last resort, ask the manager on-call to help find an assignee.
 
@@ -68,11 +68,18 @@ the FRT/NRT queues or to have a social call. These are very similar to a crush c
 These calls can be scheduled or requested as required - but everyone is welcome, regardless of global group
 or region.
 
-Scheduled Maple Hours:
+Scheduled Pairings:
 
 - APAC Maple Hour every Friday at 04:00 UTC
 - AMER Maple Hour every Thursday at 19:30 UTC
 - EMEA Maple Hour every Wednesday at 09:00 UTC
+
+We also added some experimental pairings:
+
+- APAC/EMEA Maple Hour every 2 weeks on Tuesdays 07:00 UTC
+- EMEA/AMER Maple Hour every 2 weeks on Mondays 14:00 UTC
+- Maple NRTea Party (EMEA) on Thursdays 12:00 UTC
+
 
 ### Sync Calls
 
