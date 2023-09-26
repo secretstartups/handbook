@@ -101,7 +101,7 @@ The Senior Business Systems Analyst is a [grade 7](https://about.gitlab.com/hand
 
 #### Job Grade
 
-The Senior Business Systems Analyst is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Business Systems Analyst is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Business Systems Analyst Responsibilities
 
