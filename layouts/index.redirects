@@ -30,6 +30,9 @@
 /handbook/content-websites/handbook-migration/ /handbook/about/roadmap/
 /handbook/content-websites/handbook-migration/migration-details/ /handbook/about/migration-details/
 
+# Retire top cross-functional initative
+/handbook/company/top-cross-functional-initative/ /handbook/company/working-groups/
+
 # Ssecurity migration Redirects - Created: 2023-09-08 - Remove: 2024-09-07
 /handbook/security/access-management-policy.html /handbook/security/access-management-policy/
 /handbook/security/learning-group-ai.html /handbook/security/learning-group-ai/
