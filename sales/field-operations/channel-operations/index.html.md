@@ -859,6 +859,7 @@ The following partner forecast dashboards have been published for FY24. Please u
   - [AMER](https://gitlab.my.salesforce.com/01Z4M000000xfGm)
   - [APAC](https://gitlab.my.salesforce.com/01Z4M000000xfGr)
   - [EMEA](https://gitlab.my.salesforce.com/01Z4M000000xfGw)
+  - [Japan](https://gitlab.my.salesforce.com/01ZPL000000BPXm)
   - [Partner Managed](https://gitlab.my.salesforce.com/01Z8X000000u6ks)
   - [PubSec](https://gitlab.my.salesforce.com/01Z8X000000u6kE)
 
