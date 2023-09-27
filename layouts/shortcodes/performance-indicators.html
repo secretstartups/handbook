@@ -28,7 +28,7 @@
       {{ range $data }}
         <h3 id="{{ .name | anchorize }}">{{ .name }}</h3>
         <p>{{ .definition | safeHTML }}</p>
-        <p><strong>Target:</strong> {{.target}}</p>
+        <p><strong>Target:</strong> {{ .target | safeHTML }}</p>
         {{ if eq .public false }}
         <p><Strong>This KPI cannot be public</Strong></p>
         {{ end }}
