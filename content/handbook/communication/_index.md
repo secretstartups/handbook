@@ -177,9 +177,37 @@ In those cases, the DRIs may want to engage the [Internal Communications functio
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
 1. Consult our [tips for better writing](https://about.gitlab.com/company/culture/all-remote/effective-communication/#tips-for-better-writing).
 
-### Don't use FAQs
+### Structure content instead of using FAQs
 
-[Avoid FAQs](https://about.gitlab.com/handbook/handbook-usage/#avoid-unstructured-content) (a FAQ is a list of Frequently Asked Questions), especially for internal communication. FAQs are unstructured content. They also tend to take on the voice and concerns of assumed personas. Instead of assuming questions, aim to articulate key facts as statements. These statements can be organized under topical headers, so folks can better navigate informational content.
+We want to [avoid unstructured content](https://handbook.gitlab.com/handbook/handbook-usage/#avoid-unstructured-content) which includes FAQs (Frequently Asked Questions), especially for internal communication.
+
+FAQs tend to take on the voice and concerns of assumed personas. Instead of assuming questions, aim to articulate key facts as statements and use these to structure content under topical headers which aren't questions.
+
+Structured content around GitLab, the product, should be in [GitLab Docs](https://docs.gitlab.com/) and structured content around GitLab, the company, should be in the handbook; we should not use separate documents or locations to share this information.
+
+#### Restructuring the content
+
+As an example, let's say your FAQ would have a question like:
+
+> Q: I'm not seeing widget X, what should I do?
+> A: If you're not seeing widget X, you can verify if it's enabled or not by going to User Profile -> Settings and ensure the checkbox is enabled under Enable widget X
+
+You can reframe it to:
+
+> ## How to enable widget X
+>
+> You can enable widget X by going to User Profile -> Settings and ticking the checkbox next to Enable widget X then clicking on the Save button
+
+#### FAQs are discouraged elsewhere as well
+
+Content guidelines across the industry support avoiding FAQs:
+
+1. https://www.plainlanguage.gov/guidelines/web/avoid-faqs/
+1. https://digital.gov/2015/04/27/are-faqs-still-relevant/
+1. https://content-guide.18f.gov/our-approach/structure-the-content/
+1. https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/
+1. https://thegood.com/insights/faq-pages/
+1. https://alistapart.com/article/no-more-faqs-create-purposeful-information-for-a-more-effective-user-experi/
 
 ### Multimodal communication
 
