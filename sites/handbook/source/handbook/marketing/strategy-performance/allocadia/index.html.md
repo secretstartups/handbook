@@ -175,6 +175,11 @@ Any line items within a category or subcategory default inherit the details from
 **Sub-categories:** Partner_Activity Name (no need to add date, it will be listed in the details panel)
 **Line Item:** MDF 000 Partner_Activity Name (000 indicates being 'bookedmarked' once MDF has been approved and the funds request received in SFDC, the MDF Program Owner will change from 000 to the funds request number)
 
+##### MDF that spans multiple months and quarters 
+1. If the funding is all in the same quarter, then it put plan, and forecast in one month, regardless of amount, unless there are payment milestones built into the campaign. If there are milestones, then defer to the milestones agreed to.  
+1. If the campaign is split between more than 1 quarter, then break the plan and forecast numbers out based on what is actually running. As an example, you have digital ads running in Sept, Oct, & Nov. totaling $12k, then $8k ($4k from Sept +$4k from Oct) would be in the plan and forecast for Sept, and then $4k would be November. 
+
+
 #### 🗓 GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
