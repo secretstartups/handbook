@@ -387,10 +387,10 @@ Verify backend engineers are primarily focused on improving the Continuous Integ
 #### Requirements
 
 - Experience with development tooling
-- Experience designing and building fault-tolerant systems or systems development.
+- Experience designing and building fault-tolerant systems or systems development
 - Experience building and scaling highly-available systems
 - In-depth experience with Ruby on Rails
-- Experience with distributed systems (nice-to-have) 
+- Experience with distributed systems (nice-to-have)
 
 #### Responsibilities
 
