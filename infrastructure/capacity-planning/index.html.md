@@ -14,11 +14,11 @@ title: "Capacity Planning for GitLab.com"
 GitLab.com's capacity planning is based on a forecasting model which is populated with the same saturation and utilization data
 that is used for short-term monitoring of GitLab.com. 
 
-The forecasting tool generates warnings which are converted to issues and these issues are raised in various status meetings. 
+The forecasting tool generates capacity warnings which are converted to issues and these issues are raised in various status meetings. 
 
 ## Tools
 
-At present, we use Facebook's Prophet library for forecasting. The model is used to generate a report, which is published weekly to [https://gitlab-com.gitlab.io/gl-infra/tamland](https://gitlab-com.gitlab.io/gl-infra/tamland).
+We use and develop [Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland), which is our capacity forecasting tool. It relies on Facebook's Prophet library for forecasting time series data and generates forecasts on a daily basis. A [report is published](https://gitlab-com.gitlab.io/gl-infra/tamland) and any predicted saturation events result in an issue on the [capacity planning issue tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues).
 
 GitLab's Capacity Planning strategy is based on the following technologies:
 
@@ -29,66 +29,85 @@ graph TD
     B --> |alerts for imminent saturation|D[Pager Duty]
     C --> |historical saturation data|E[Tamland]
     E --> |generates|F[Tamland Report]
-    E --> F[Capacity Planning Issue Tracker]
+    E --> G[Capacity Planning Issue Tracker]
 ```
 
 1. **[Saturation Monitoring Jsonnet Configuration](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)** - for saturation monitoring definition, recording rule generation, short term alerting configuration generation.
 1. **Prometheus** - capturing and processing utilization and saturation metrics over the short-term.
 1. **[Thanos](https://thanos.gitlab.net/)** - long-term storage of utilization and saturation metrics.
-1. **[Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland)** - the forecasting program.
-1. **GitLab CI** - running weekly forecast reports.
+1. **[Tamland](https://gitlab.com/gitlab-com/gl-infra/tamland)** - the forecasting tool.
+1. **GitLab CI** - running the daily forecasting process.
 1. **[Jupyter Book](https://jupyterbook.org/)** - static site generation for generating forecast content from Python based notebooks.
 1. **[Facebook Prophet](https://facebook.github.io/prophet/)** - forecasting.
 1. **[GitLab Pages Tamland Report Site](https://gitlab-com.gitlab.io/gl-infra/tamland)** - static site hosting of the generated forecasts.
-1. **Prometheus Pushgateway** - accepting key metrics from Tamland forecasts.
 1. **[GitLab Capacity Planning Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues)** - GitLab project used for tracking capacity planning forecast warnings. Issues are created by Tamland directly.
 1. **GitLab Slack Integration** - Slack notifications of new issues in the capacity planning project, to the [#infra_capacity-planning](https://gitlab.slack.com/archives/C01AHAD2H8W) channel.
 
 ### Source Data
 
-The forecasting model uses the same saturation and utilization data model that we use
-to monitor GitLab.com over the short-term. This ensures that anything that we feel is worth monitoring as a potential
-saturation point will automatically be included in the forecasting model.
+The forecasting model uses the same saturation and utilization data model that we use to monitor GitLab.com over the short-term. This ensures that anything that we feel is worth monitoring as a potential saturation point will automatically be included in the forecasting model.
 
 Because of this, all services used on GitLab.com are automatically included in the model.
 
-The short-term saturation metric model used on GitLab.com models each resource as a percentage, from 0% to 100%, where 100% is completely saturated. Each resource has an alerting threshold. If this threshold is breached, alerts will fire and the engineer-on-call will be paged.
+The short-term saturation metric model used on GitLab.com models each resource as a percentage, from 0% to 100%, where 100% is completely saturated. Each resource has an alerting threshold (SLO). If this threshold is breached, alerts will fire and the engineer-on-call will be paged.
 
-The thresholds are decided on a case-by-case basis and vary between resources. Some are near 100% while others are much lower, depending on the nature of the resource, the failure modes on saturation of the resource and the required time-to-mediation. Resources are classed as being either horizontally scalable or not. Horizontally scalable resources are generally considered lower priorities from a capacity planning point-of-view, whereas non-horizontally scalable resources (such as CPU on the primary Postgres instance, for example) require much longer-term strategies for remediation and are therefore considered higher priorities in the capacity planning process.
+The thresholds are decided on a case-by-case basis and vary between resources. Some are near 100% while others are much lower, depending on the nature of the resource, the failure modes on saturation of the resource and the required time-to-mediation. Resources are classed as being either horizontally scalable or not. Horizontally scalable resources are generally considered lower priorities from a capacity planning point-of-view, whereas non-horizontally scalable resources (such as CPU on the primary PostgreSQL instance, for example) require much longer-term strategies for remediation and are therefore considered higher priorities in the capacity planning process.
 
 ### Forecasting with Tamland
 
-Tamland relies on Facebook Prophet for generating a forecasting model. Prophet performs analysis of hourly, daily, weekly and monthly trends to forecast a future trend in the data.
+Tamland relies on [Facebook Prophet](https://facebook.github.io/prophet/) for generating a forecasting model. Prophet performs analysis of  daily, weekly, monthly and yearly trends to forecast a future trend in the data.
 
 Even the most skilled engineer would struggle to predict future saturation, so it's unlikely that a model could do it either. We do not expect it to be totally accurate. Instead, with hundreds of resources on GitLab.com that could potentially become saturated, Tamland's forecasts are a bellweather for changes in trends, particularly upward changes, drawing the attention of engineers who review the data to specific issues.
 
 Tamland will attempt to predict a range of outcomes. For saturation, we focus on the median prediction (50th percentile) and only the upper 80th percentile prediction. The lower 80th percentile is not as important for saturation purposes.
 
-The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (set to weekly). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
+The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (set to execute daily). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
 
 ## Workflow
 
-### Reviewing Tamland Data
+### Stakeholders: Scalability team and Service Owners
 
-1. The Tamland report is generated.
-1. If Tamland predicts that a resource will exceed its alerting threshold ([as defined in the metrics catalog](https://gitlab.com/gitlab-com/runbooks/-/tree/master/metrics-catalog/saturation)) within the next 90 days, it creates an issue.
-1. On a weekly basis, an engineer reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker following the [process described on the Scalability:Projections team page](/handbook/engineering/infrastructure/team/scalability/projections.html#triage-duties).
-   1. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for
-example, a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate and if the issue
-requires investigation.
-1. If the engineer observes an unexplained trend they will note down their findings and find an appropriate DRI to investigate further and remediate. We use the
-[Infradev Process](/handbook/engineering/workflow/#infradev) and the [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup) to assist with the prioritization of these capacity alerts.
-   1. These issues can be the catalyst for other issues to be created in the `gitlab-org/gitlab` tracker by the stage groups for further investigation. These
-issues must be connected to the capacity planning issues as related issues.
-1. Any issue concerning resource saturation or capacity planning in any tracker should have the `~"GitLab.com Resource Saturation"` label applied.
+Capacity planning is a shared activity and dependent on input from many stakeholders:
+
+1. The [Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) is the owner of the Capacity Planning process overall - the team oversees the entire process, implements technical improvements to improve our forecasting abilities and helps guide teams to act on associated capacity warnings.
+2. Each service we monitor is associated with a **Service Owner**, who is identified as the [DRI](/handbook/people-group/directly-responsible-individuals/) to act on capacity warnings and provide input in terms of domain knowledge.
+
+### Scalability:Projections
+
+1. Tamland analyzes metrics data on a daily basis and creates capacity warning issues if it predicts that a resource will exceed its SLO within the forecast horizon.
+
+1. On a weekly basis, an engineer from the team reviews all open issues in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker following the [process described on the Scalability:Projections team page](/handbook/engineering/infrastructure/team/scalability/projections.html#triage-duties)
+   1. Assign legitimate forecasts to the respective Service Owner to review and act on it (see below).
+   2. Select the most crucial saturation points to report in the [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the `~"SaaS Weekly"` label when we do the weekly triage.
+   3. Review forecasts with inaccurate model fit or otherwise obscure predictions, and work on improving their quality. Those issues should be labeled with `~capacity-planning::tune model` and not get assigned to the Service Owner directly. Since these model tunings highly benefit from domain insight, the Scalability engineer involves Service Owners to get more information.
+
+### Service Owners
+
+A Service Owner is the individual identified as the DRI for capacity planning for an individual service. This information is covered in the [service catalog](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml).
+
+The Service Owner ideally has the closest insight into the service, its recent changes and events and is responsible for its availability and performance characteristics overall. Capacity Planning aims to help the Service Owner to be informed about trends in resource usage and predicted upcoming resource saturation events, which helps to act early and inform prioritization processes.
+
+For capacity planning, the responsibilities of the Service Owner are:
+
+1. Review and act on automatically generated capacity warnings for their respective service,
+2. Provide regular status updates on a capacity warning and link any ongoing related work to it,
+3. Feed external domain knowledge back into the forecasting model: Forecast quality is dependent on knowing about external factors like special events, changes we made and other service-specific information.
+
+While many forecasts provide a clear and reliable outlook, not all forecasts will be accurate. For example, a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example, a long running migration. The Service Owner is in the best position to know about these external factors and will evaluate based on all information on-hand to determine whether the forecast is accurate and if the issue requires investigation.
+
+The Service Owner will note down their findings on the issue and get the appropriate actions going to remediate and prevent the saturation event. While the Service Owner is the DRI for the capacity warning, the [Infradev Process](/handbook/engineering/workflow/#infradev) and the [SaaS Availability weekly standup](/handbook/engineering/#saas-availability-weekly-standup) assist with the prioritization of these capacity alerts.
+
+The Service Owner can also decide to change the Service Level Objective, the metric definition or any other forecasting parameters that are used to generate capacity warnings. Please see the related [documentation](https://gitlab.com/gitlab-com/runbooks/-/blob/master/libsonnet/saturation-monitoring/README.md) for further information. The [Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) is available to assist, but the work should be owned by the [DRI](/handbook/people-group/directly-responsible-individuals/) and their team.
+
+If the issue does not require investigation, it is important to follow-up and improve the quality of the forecast or the process to improve the signal-to-noise-ratio for capacity planning. This can include feeding external knowledge into the forecasting model or consider changes in automation to prevent getting this capacity warning too early. The Service Owner is expected to get in touch with Scalability:Projections to consider and work on potential improvements.
+
+At any time, the Scalability:Projections team can be consulted and is ready to assist with questions around the forecasting or to help figure out the underlying reasons for a capacity warning.
 
 ### Due Dates
 
-We use the `due date` field to track when the next action is due. For example: the date we expect the issue to drop off the report, or the date we expect the DRI to have taken action. We do this because we want to use the 
-[capacity planning issue board](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) as the single source of truth. 
-The due date is visible on this board and it is easy to see which issues need attention.
+We use the `due date` field to track when the next action is due. For example: the date we expect the issue to drop off the report, or the date we need to take another look at the forecast. We do this because we want to use the [capacity planning issue board](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/boards) as the single source of truth. The due date is visible on this board and it is easy to see which issues need attention.
 
-The DRI is responsible for maintaining the due date and adding status information each time the due date is adjusted.
+The DRI for an issue is responsible for maintaining the due date and adding status information each time the due date is adjusted.
 
 ### Workflow Status Labels
 
@@ -112,11 +131,7 @@ Each issue has saturation labels, indicating which thresholds it exceeds and how
 ### Other labels
 
 1. `tamland:keep-open` - Used to prevent Tamland from closing the issue automatically. This can be useful to validate the effect of changes we made for a longer period of time until we are confident about the effects.
-
-### Capacity Planning is a shared activity
-
-The Scalability:Projections team owns the Capacity Planning process and we aim to enable others to take responsibility for the 
-capacity demands of their features and services. 
+1. Any issue concerning resource saturation or capacity planning in any tracker should have the `~"GitLab.com Resource Saturation"` label applied.
 
 ### Prioritization Framework
 
@@ -134,17 +149,7 @@ The prioritization framework uses an [Eisenhower Matrix](https://todoist.com/pro
  * [Issues sorted by priority](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues/?sort=label_priority&state=opened)
  * [Scoped prioritized labels](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/labels?subscribed=&search=capacity-planning%3A%3Apriority)
 
-### Relaying Forecasted Capacity Saturation Warnings to Engineering
 
-All forecasted capacity saturation warnings are associated with a [service](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml). 
-The Scalability team uses the [service catalog](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/service-catalog.yml) to find the owner of the relevant service. 
-We apply the matching team label and assign the issue to the Engineering Manager for that team who will be the [DRI](/handbook/people-group/directly-responsible-individuals/) going forward. The Engineering Manager can be found by looking for the owning team in [the teams.yml file](https://gitlab.com/gitlab-com/runbooks/-/blob/master/services/teams.yml) and finding the `manager` entry. 
-
-The [DRI](/handbook/people-group/directly-responsible-individuals/) is responsible for resolving the capacity warning, maintaining the due date for the issue, and for providing status information on the issue. If they would like to raise a separate issue in their own tracker, they need to link the issues together and to continue to update the capacity planning issue with status each week.
-
-The [DRI](/handbook/people-group/directly-responsible-individuals/) can also decide to change the Service Level Objective, the metric definition or other forecasting parameters that are used to generate the capacity warnings. If there is data available to the owning team indicating the warning and the predicted saturation date are not the right distance apart, the [DRI](/handbook/people-group/directly-responsible-individuals/) should work on adjusting that Service Level Objective. Please see the related [documentation](https://gitlab.com/gitlab-com/runbooks/-/blob/master/libsonnet/saturation-monitoring/README.md) for further information. The [Scalability:Projections team](/handbook/engineering/infrastructure/team/scalability/projections.html) is available to assist, but the work should be owned by the [DRI](/handbook/people-group/directly-responsible-individuals/) and related team.
-
-We select the most crucial saturation points to report in the [Gitlab SaaS Availability](/handbook/engineering/#saas-availability-weekly-standup) meeting based on the impact they would have when fully saturated and how difficult the mitigation might be. To indicate issues like this, we apply the ~"SaaS Weekly" label when we do the weekly triage.
 
 ## Examples of Capacity Issues
 
