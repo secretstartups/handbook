@@ -15,3 +15,4 @@ The Security Engineering sub-department includes the following teams. Learn more
 - [Security Logging]({{< ref "./security-logging" >}})
 - [Security Automation]({{< ref "./automation" >}})
 - Security External Communications
+- [Product Security Engineering]({{< ref "./product-security-engineering" >}})
