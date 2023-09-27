@@ -83,7 +83,7 @@ organisation chart as well as using WorkDay as the Single Source of Truth for te
 
 ## Migration Timetable and Status
 
-{{% include "includes/migration-timetable.md" %}}
+{{% migration-timetable %}}
 
 ### Migration calendar
 
