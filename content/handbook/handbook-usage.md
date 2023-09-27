@@ -109,7 +109,7 @@ Use descriptive headings so that people can easily search for content.
 - That said, please mix *formats* where and when appropriate in the handbook, even within a single page.
 Utilizing multiple formats can be valuable, and different people may prefer certain formats over others.
 - Worry only about the organization **per function and result**, not about how the page will look if you embed varying types and formats of content.
-- Note: A weakness of [FAQs](/handbook/communication/#dont-use-faqs) is that questions are often asked in biased or leading ways. When possible, state facts as facts.
+- Note: A weakness of [FAQs](/handbook/communication/#structure-content-instead-of-using-faqs) is that questions are often asked in biased or leading ways. When possible, state facts as facts.
 
 #### Use headings liberally
 
