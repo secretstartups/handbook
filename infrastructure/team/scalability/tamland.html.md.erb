@@ -1,0 +1,90 @@
+---
+layout: handbook-page-toc
+title: "Scalability:Projections Team: Tamland"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+## Tamland: Saturation forecasting
+
+Tamland is a saturation forecasting tool we use for capacity planning purposes. The Scalability:Projections team develops and releases Tamland.
+
+This page details how we organize development efforts around Tamland.
+
+## Issue tracker & projects
+
+The main development project for Tamland is [gitlab.com/gitlab-com/gl-infra/tamland](https://gitlab.com/gitlab-com/gl-infra/tamland).
+
+Feature requests, improvements and bug reports can be filed in [Tamland's issue tracker](https://gitlab.com/gitlab-com/gl-infra/tamland/-/issues).
+
+At the moment, we also run CI on the [project on the ops instance](https://ops.gitlab.net/gitlab-com/gl-infra/tamland).
+
+## Release
+
+We build a Docker image called `tamland:tool-latest` when we merge into the `main` branch. This docker image packages Tamland completely and is used to run Tamland in below operational projects.
+
+We run similar CI pipelines on GitLab.com and on the Ops instance and push the image to the respective container registries:
+
+```
+https://registry.gitlab.com/gitlab-com/gl-infra/tamland:tool-latest
+https://registry.ops.gitlab.net/gitlab-com/gl-infra/tamland:tool-latest
+```
+
+In order to run a specific version of Tamland, we also push a docker image tagged `tamland:tool-$sha`, e.g. `tamland:tool-01353c72` in the same locations.
+
+## Tamland for GitLab.com
+
+At present, the Tamland project is used for development and operational purposes. We plan to split this out into different project (see "Environments (planned)" below).
+
+The [project on GitLab.com](https://gitlab.com/gitlab-com/gl-infra/tamland/-/issues) currently generates the forecast based on a Jupyter Notebook, which is rendered and deployed to a Pages site. This also includes issue management functionality.
+
+However, since we cannot connect to our Thanos instance from those CI runners, we rely on a separate project on [the ops instance to pre-warm the cache](https://ops.gitlab.net/gitlab-com/gl-infra/tamland). This happens regularly and before we kick off the forecasting on GitLab.com.
+
+The Thanos data cache consists of many Parquet files with daily data. At present, those are being pushed into the package registry and downloaded from the GitLab.com project. This is subject of getting replaced with GCS later.
+
+We aim to remove that limitation and want to [move all projects to GitLab.com](https://gitlab.com/gitlab-com/gl-infra/tamland/-/issues/99).
+
+## Environments (planned)
+
+The information here is around environments that have been partly set up already, but are not considered production ready just yet. Please refer to to the previous section for how Tamland currently operates.
+
+We maintain operational projects to execute Tamland for relevant environments. These projects are separate from the development project and contain functionality to generate the Tamland manifest, execute forecasting and analyze and report on the results.
+
+### GitLab.com production
+
+The project to operate Tamland forecasting for GitLab.com is [`tamland-gprd`](https://ops.gitlab.net/gitlab-com/scalability/tamland-gprd). 
+
+We store relevant data in a GCS bucket `tamland-gprd`:
+
+1. Cache for Thanos data in [`/cache`](https://console.cloud.google.com/storage/browser/tamland-gprd/cache)
+2. Forecasting results in [`/forecasts`](https://console.cloud.google.com/storage/browser/tamland-gprd/forecasts)
+
+We use [scheduled pipelines](https://ops.gitlab.net/gitlab-com/scalability/tamland-gprd/-/pipeline_schedules) 
+
+1. to trigger manifest sync from the upstream runbooks repository,
+2. and to run the forecasting.
+
+### Staging
+
+The [`tamland-staging`](https://ops.gitlab.net/gitlab-com/scalability/tamland-staging) project operates the staging environment for Tamland. This is based on the same Tamland manifest as GitLab.com and operates on metrics data for GitLab.com (the same as in production).
+
+It is code-wise identical with `tamland-gprd` (see above), but runs with a different configuration:
+
+1. It's cache is stored in the `tamland-staging` bucket under [`/cache`](https://console.cloud.google.com/storage/browser/tamland-staging/cache)
+2. Results are stored in the `tamland-staging` bucket under [`/forecasts`](https://console.cloud.google.com/storage/browser/tamland-staging/forecasts) 
+
+Similarly to `tamland-gprd`, we use [scheduled pipelines](https://ops.gitlab.net/gitlab-com/scalability/tamland-staging/-/pipeline_schedules) for manifest syncs and to run forecasting.
+
+#### Using staging environment to test changes
+
+The primary purpose for the staging environment is to be able to test out changes we make, before we merge them into `main` and release to production.
+
+For this purpose, we can use the `tamland:tool-$sha` tagged docker images. 
+
+For example, let's say we want to run forecasting for SHA version `01353c72` of Tamland. We can do this by [kicking off a pipeline](https://ops.gitlab.net/gitlab-com/scalability/tamland-staging/-/pipelines) with below variables on the main branch of `tamland-staging`:
+
+```
+TAMLAND_IMAGE=tool-01353c72
+TASK=forecast
+```
