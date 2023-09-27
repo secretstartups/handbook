@@ -38,6 +38,7 @@ This page provides an overview on relevant CSM leadership processes.
 | [Christina Souleles](/company/team/#csouleles) | Commercial | EMEA | Manager | N/A |
 | [Robert Clark](/company/team/#robclark14) | PubSec | PubSec | Manager | N/A |
 | [Steven Terhar](/company/team/#SteveTerhar) | PubSec | PubSec | Manager | N/A |
+| [Oliver Falk](/company/team/#ofalk) | Enterprise | DACH | Manager | N/A |
 
 ## CSM Manager Responsibilities & Requirements
 
