@@ -4,6 +4,10 @@ title: "Use of Third-party Trademarks in GitLab"
 description: "Guidelines applicable to the use of third-party trademarks in the GitLab product"
 ---
 
+{::options parse_block_html="true" /}
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,7 +16,25 @@ description: "Guidelines applicable to the use of third-party trademarks in the 
 
 ### Scope
 
-These guidelines apply to the use of third-party trademarks in the GitLab product. Use of third-party trademarks on GitLab websites, marketing or sales materials, or in other customer or public-facing materials is not covered by these guidelines. _For guidance on using third-party trademarks in such public-facing materials, refer to the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
+These guidelines apply to the use of third-party trademarks in the GitLab product. Use of third-party trademarks on GitLab websites, marketing or sales materials, or in other customer or public-facing materials is not covered by these guidelines. For guidance on using third-party trademarks in such public-facing materials, refer to the [Guidelines for Use of Third-party IP in External Materials](/handbook/legal/ip-public-materials-guidelines/).
+
+Some requests for use of third-party trademarks in the GitLab product will need to be reviewed by the Customer Advocacy Team, while other requests will follow this process and be reviewed by Legal, depending on whether the logo is owned by a GitLab customer/partner and/or if the logo will be used in-product. See the chart below:
+
+```mermaid
+graph TD
+  A("Is the company a customer?")-->|Yes|B("Is the customer also a GitLab partner\nwhose logo is being featured\nas a partner or integrator?`")
+  B -->|No|C("Click to contact #customer-advocacy-and-references")
+  B -->|Yes|D("Follow the *Use of Third-party Trademarks in GitLab* process")
+  A -->|No|E("Will the logo be used in-product*?")
+  E -->|Yes|D("Click to follow the Use of Third-party Trademarks in GitLab process")
+  E -->|No|G("Click to contact #legal")
+
+click C "https://app.slack.com/client/T02592416/CLFCPMF8E"
+click D "https://about.gitlab.com/handbook/legal/policies/product-third-party-trademarks-guidelines/"
+click G "https://app.slack.com/client/T02592416/C78E74A6L"
+```
+
+`*` _In-product_ means that the logo will appear on both GitLab.com and self-managed. If it appears only on GitLab.com, it is not in-product.
 
 ### What is a trademark?
 
