@@ -88,11 +88,11 @@ Check the [Getting started with Analytics Instrumentation](/handbook/product/ana
 
 The Metrics Dictionary is a single source of truth for the metrics and events we collect for product usage data. The Metrics Dictionary lists all the metrics we collect in Service Ping, why we're tracking them, and where they are tracked.
 
-The [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) should be updated any time a new metric is implemented, updated, or removed. Currently, the metrics dictionary is built automatically once a day, so when a change to a metric is made in the .yml, you will see the change in the dictionary within 24 hours.
+The [Metrics Dictionary](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html) should be updated any time a new metric is implemented, updated, or removed. Currently, the metrics dictionary is built automatically once a day, so when a change to a metric is made in the .yml, you will see the change in the dictionary within 24 hours.
 
 The Metrics Dictionary can be viewed for [Service Ping](https://docs.gitlab.com/ee/development/service_ping.html) and [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) data, however Snowplow metrics have not been fully converted to this method yet.
 
-The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/issues/270107) in GitLab version 13.9. Metrics status changes are tracked in the [metric YAML definition files](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html). Changes prior to GitLab version 13.9 are not reflected in metrics YAML definitions.
+The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/issues/270107) in GitLab version 13.9. Metrics status changes are tracked in the [metric YAML definition files](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html). Changes prior to GitLab version 13.9 are not reflected in metrics YAML definitions.
 
 ### Metrics Dictionary features
 
@@ -179,7 +179,7 @@ See [issue list](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=
 ## Finding Reporting Dependencies on Metrics
 Although PMs commonly use Service Ping metrics to measure feature health and product usage, that is not the only use for Service Ping metrics. For instance, the Product Data Insights team relies on Service Ping metrics for xMAU reporting. Additionally, the Customer Success Operations team relies on Service Ping metrics to generate [health scores](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/) for customers.
 
-For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [recommend not changing](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html#change-an-existing-metric) the calculation of metrics that are used for reporting once implemented. If you do need to change a metric that is being used, please coordinate with the customer success team before doing so so that they can update their models and health scores accordingly. To identify metrics that are relied upon for reporting, follow these directions.
+For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [recommend not changing](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_lifecycle.html#change-an-existing-metric) the calculation of metrics that are used for reporting once implemented. If you do need to change a metric that is being used, please coordinate with the customer success team before doing so so that they can update their models and health scores accordingly. To identify metrics that are relied upon for reporting, follow these directions.
 
 ### xMAU Reporting
 1. Go to the [Metrics Dictionary](https://metrics.gitlab.com)
