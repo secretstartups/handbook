@@ -116,8 +116,8 @@ The Senior Manager of Product Design is a [grade 9](https://about.gitlab.com/han
 - [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter.
 - Interview with a Product Design Manager. In this interview, the interviewer will focus on understanding your experience with driving design strategy, managing managers, and influencing the wider organization in which you worked. Examples of large, complex projects that had a significant impact on product experience will be helpful. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
 - Interview with a Senior Manager of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, what types of teams you have led and your management style. The interviewer will also want to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
-- Interview with Director of Product (Product Management).
-- Interview with Director of Product Design.
+- Interview with a Director of Product Management. In this interview, the interviewer will seek to learn how you and your design teams have interacted and collaborated with Product Management team members. Be prepared to talk through examples about situations you have led or how you've assisted your team of designers.
+- Interview with the Director of Product Design. In this interview, the interviewer will follow up on some areas covered in previous interviews to dive deeper and learn more about you as a manager, your stakeholder management experience, and your comfort in working on and guiding a team on a highly technical product.
 
 ## Director of Product Design
 
@@ -158,6 +158,7 @@ The Director of Product Design is a [grade 10](https://about.gitlab.com/handbook
 
 - [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter.
 - Interview with a Senior Manager of Product Design or Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, as well as what type of teams you have led and your management style. The interviewer will also be looking to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
-- Interview with Director of Product (Product Management).
-- Interview with VP of UX.
+- Interview with a Director of Product Management. In this interview, the interviewer will seek to learn how you and your design teams have interacted and collaborated with Product Management team members. Be prepared to talk through examples about situations you have led or how you've assisted your team of designers.
+- Interview with the VP of UX.
+- Interview with the Chief Product Officer.
 
