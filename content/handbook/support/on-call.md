@@ -217,3 +217,79 @@ We understand you may have plans outside of your normal workspace while you're o
 PagerDuty phone and SMS notifications can come from a variety of different phone numbers and as such, it is important to stay up to date with this to avoid missed pages. You should use [this PagerDuty documentation page](https://support.pagerduty.com/docs/notification-phone-numbers) to download the most recent vCard or setup an automatically updated PagerDuty contact on your device.
 
 If you use a "do not disturb" mode on your device, you should also allow the PagerDuty contact to bypass this.
+
+## Automatically update your Slack status to indicate you're on-call
+
+Using the PagerDuty logo as your Slack status can be a helpful indicator to others that you're currently on-call. We can use Zapier, an automation tool, to update our Slack status automatically when our shift begins. Zapier can connect to PagerDuty directly, but it does not have "Going On-Call" as a trigger – we need to connect to Gmail and use a PagerDuty notification email as the trigger instead.
+
+### Configure PagerDuty to send a specific notification email for this automation
+
+To make sure this stays separated from our normal PagerDuty notifications, we'll set up a notification specifically for this automation.
+
+1. Go to "My Profile" on [PagerDuty](https://gitlab.pagerduty.com/)
+1. In the "Contact information" tab, click "Add Email Address"
+1. Enter a unique `+` version of your GSuite email address, like `youremail+pagerduty-notif@gitlab.com`
+   - If you do not know about the `+` [trick](https://gmail.googleblog.com/2008/03/2-hidden-ways-to-get-more-from-your.html): This will be delivered to your normal inbox. Specifying this unique version will allow us to create a filter for these notifications later in the process.
+1. Enter anything you want for the "type" (Work, Home, …) – with "Other" you can type your own text
+1. Short/HTML Emails does not make a difference
+1. Add the email address, and use the "Test" button to send a test notification
+
+![Adding a new notification email target in PagerDuty](/images/support/oncall-pagerduty-setup-new-notification-email.png)
+
+
+1. Change to the "Notication Rules" tab
+1. Your new email will already have been added in the "When a high-urgency incident is assigned to me" section – remove it from there, and also from any other sections it might have been added to
+1. Finally, *do* add it to the "Before I go on-call or off-call" section via the "Add Notification Rule" button
+   - Make sure to pick *only* "before I go on-call"
+
+![Setting up a notification specifically for going on-call](/images/support/oncall-pagerduty-setup-going-oncall-notification.png)
+
+That's step one done – now PagerDuty will always send us a notification mail to the unique email address right when our shift begins.
+
+### Configure Gmail to automatically process these new notifications
+
+We do not actually want these notification mails in our inbox, though. They are only a means to an end – so let's set up a corresponding Gmail filter next.
+
+1. Go to your [Filters and Blocked Addresses](https://mail.google.com/mail/u/0/#settings/filters) settings
+1. With the "Create a new filter" link, start adding the filter
+1. In the `To` condition, enter your unique email address from above
+1. Click "Create Filter" and choose these actions in the following dialog:
+   - `Skip the Inbox (Archive it)`
+   - `Mark as read`
+   - `Apply the label:` and via the dropdown create a new label of your choice – for example `going-on-call`
+1. Make sure to check the `Also apply filter to x matching conversations` box – this should match the test notification we sent earlier
+1. Click "Create Filter" again to actually set it up
+
+It should look like this in your filter list afterwards:
+
+![The finished Gmail filter that applies our label](/images/support/oncall-gmail-setup-oncall-label-filter.png)
+
+That's the second step done – we're now all set to make Zapier use these email notifications as a trigger for the Slack status update.
+
+### Configure Zapier to update the Slack status when a new on-call notification email arrives
+
+Note that some teams in GitLab are using Zapier with a paid plan, but Support Engineers usually don't. There's no need to for an Access Request and a Zapier license – this works entirely with a free Zapier account.
+
+1. Sign into (or create an account with) [Zapier](https://zapier.com/) using your Gmail login
+1. Go to [Apps](https://zapier.com/app/connections) and "Add Connection" for both Gmail and Slack
+   - When doing so, you will be prompted to log into both services and give Zapier permissions to access them on your behalf.
+1. [Create a new Zap](https://zapier.com/webintent/create-zap)
+1. For the Trigger, use the `Gmail` app with the `New Labeled Email` event
+1. Continue until you can pick the "Label/Mailbox" and choose the Gmail label created above (for example `going-on-call`)
+1. Zapier will now look for emails with that label and should find the test email we triggered earlier
+1. Choose the test email and "Continue with selected record" to start setting up the action
+1. For the Action, use the `Slack` app with the `Set Status` event
+1. Continue until you can specifiy the input for the status:
+   - `Status Text` – you'll likely want to specify your rotation name here
+   - `Status Emoji` – you'll likely want to use `:pagerduty:` here
+   - `Expiration Time` – you'll want to use the duration of your shift here so the status is automatically cleared when your shift is done
+1. In the next step, give it a quick test (don't forget to clear your Slack status afterwards)
+1. Finally, "publish" your Zap – this is just saving and activating it
+
+Here's what the result should look like:
+
+![The trigger of the zap](/images/support/oncall-zapier-gmail.png)
+
+![The action of the zap](/images/support/oncall-zapier-slack.png)
+
+And that was the third and final step – from now on your Slack status should be updating automatically. Due to how this is set up it can sometimes have a few minutes delay, but it's usually very snappy.
