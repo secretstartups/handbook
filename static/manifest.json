@@ -8,7 +8,7 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/favicons/apple-touch-icon-1024x1024.png",
+            "src": "/favicons/favicon-1024x1024.png",
             "type": "image/png",
             "sizes": "1024x1024"
         },
@@ -44,6 +44,6 @@
         }
     ],
     "start_url": "/",
-    "theme_color": "#0d6efd",
+    "theme_color": "#6e49cb",
     "background_color": "#ffffff"
 }
