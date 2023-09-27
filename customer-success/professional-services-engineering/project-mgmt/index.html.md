@@ -123,3 +123,10 @@ Work at Risk (WAR) is used when seeking approval from PS leadership to staff or 
 * Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description under **Quick Actions** with the epic number e.g. `&65` 
 * Replace `<!-- ADD ISSUE NUMBER OF SCOPING OR CO ISSUE HERE, e.g. #1234-->` at the bottom of the description under **Quick Actions** with the scoping/change order issue number e.g. `#1234` 
 
+#### Description of Work
+
+Description of Work (DoW) is used when a scope discrepancy is identified in the SoW and both GitLab and the customer agrees to the scope change that does not impact the project budget (zero dollar), project duration, project finances or any legal aspects. 
+Unlike the Change Order process, for the DoW, the GitLab signee will be a PS Director.
+
+The DoW can also be used to add additional detail to a SKU that has been sold, but the description does not quite meet the needs of the customer. 
+[create a DoW](https://docs.google.com/document/d/1ZsMUvBUL9kt3CqB4YjYlX-E1uEJz-elO/edit#)
