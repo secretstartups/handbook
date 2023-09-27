@@ -4,7 +4,7 @@ description: "Handbook Content is on the move.  This gives the time table and th
 ---
 ## Migration Timetable and Status
 
-{{% include "includes/migration-timetable.md" %}}
+{{% migration-timetable %}}
 
 ## File Lists
 
