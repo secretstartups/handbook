@@ -107,16 +107,24 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** Security
+**What are we moving:** People-Group
 
-**Status** Expected to complete: 2023-09-08
+**Status** Expected to complete: {{% migration-finish-date section="people-group" %}}
 
 #### What content is moving
 
-The following content has been earmarked as the next content to move.  This will be done as a pair of large merge requests on `2023-09-05`.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup `2023-09-08`.
+The following content has been earmarked as the next content to move.  This will be done as a set of merge requests from {{% migration-start-date section="people-group" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="people-group" %}}.
 
-- [ ] Organizational Change Management
-- [ ] Security
+- [x] Anti-Harassment
+- [x] Entity
+- [ ] Hiring
+- [x] Incentives
+- [x] Labor and Employment
+- [x] Leadership
+- [x] Paid Time Off
+- [x] People Group
+- [x] Total Rewards
+- [x] Travel
 
 #### How will this be done
 
@@ -128,7 +136,7 @@ If you have any questions about this please feel free to ask in [#handbook](http
 
 #### Job Families
 
-*Completion Date:* 31st March 2023
+*Completion Date:* {{% migration-finish-date section="job-families" %}}
 
 **Content to move:**
 
@@ -136,7 +144,7 @@ If you have any questions about this please feel free to ask in [#handbook](http
 
 #### TeamOps
 
-*Completion Date:* 21st April 2023
+*Completion Date:* {{% migration-finish-date section="teamops" %}}
 
 **Content to move:**
 
@@ -146,7 +154,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Company Handbook Content
 
-***Expected Finish Date:*** 11th August 2023
+***Expected Finish Date:*** {{% migration-finish-date section="company-handbook-content" %}}
 
 ***Content to move:***
 
@@ -168,7 +176,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Tools and Tips
 
-**Completed:** 16th May 2023
+**Completed:** {{% migration-finish-date section="tools-and-tips" %}}
 
 **Content to move:**
 
@@ -178,7 +186,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Infrastructure Standards
 
-**Completed:** 9th June 2023
+**Completed:** {{% migration-finish-date section="infrastructure-standards" %}}
 
 **Content to move:**
 
@@ -188,7 +196,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### IT Self Service
 
-**Completed:** 9th August 2023
+**Completed:** {{% migration-finish-date section="it-self-service" %}}
 
 **Content to move:**
 
@@ -198,7 +206,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Support
 
-**Completed** 14th August 2023
+**Completed** {{% migration-finish-date section="support" %}}
 
 **Content to move:**
 
@@ -208,7 +216,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### CEO and CoST Team
 
-**Completed:** 2023-08-18
+**Completed:** {{% migration-finish-date section="ceo-and-cost-team" %}}
 
 **Content to move:**
 
@@ -219,7 +227,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Company
 
-**Completed:** 2023-09-01
+**Completed:** {{% migration-finish-date section="company" %}}
 
 **Content to move:**
 
@@ -240,18 +248,37 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Security
 
-**Expected Date:** 2023-09-08
+**Expected Date:** {{% migration-finish-date section="security" %}}
 
 **Content to move:**
 
-- [ ] Organizational Change Management
-- [ ] Security
+- [x] Organizational Change Management
+- [x] Security
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#security)
 
+#### People Group
+
+**Expected Date:** {{% migration-start-date section="people-group" %}}
+
+**Content to move:**
+
+- [x] Anti-Harassment
+- [x] Entity
+- [ ] Hiring
+- [x] Incentives
+- [x] Labor and Employment
+- [x] Leadership
+- [x] Paid Time Off
+- [x] People Group
+- [x] Total Rewards
+- [x] Travel
+
+A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#people-group)
+
 #### Culture
 
-**Expected Date:** 2023-09-21
+**Expected Date:** {{% migration-start-date section="culture" %}}
 
 **Content to move:**
 
@@ -261,7 +288,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Finance
 
-**Expected Date:** End of September 2023
+**Expected Date:** {{% migration-start-date section="finance" %}}
 
 **Content to move:**
 
@@ -276,7 +303,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Product
 
-**Expected Date:** End of October 2023
+**Expected Date:** {{% migration-start-date section="product" %}}
 
 **Content to move:**
 
@@ -287,28 +314,9 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#product)
 
-#### People Group
-
-**Expected Date:** End of October 2023
-
-**Content to move:**
-
-- [ ] Anti-Harassment
-- [ ] Entity
-- [ ] Hiring
-- [ ] Incentives
-- [ ] Labor and Employment
-- [ ] Leadership
-- [ ] Paid Time Off
-- [ ] People Group
-- [ ] Total Rewards
-- [ ] Travel
-
-A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#people-group)
-
 #### Marketing
 
-**Expected Date:** End of November 2023
+**Expected Date:** {{% migration-start-date section="marketing" %}}
 
 **Content to move:**
 
@@ -319,7 +327,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Sales
 
-**Expected Date:** End of November 2023
+**Expected Date:** {{% migration-start-date section="sales" %}}
 
 **Content to move:**
 
@@ -332,7 +340,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Legal
 
-**Expected Date:** End of December 2024
+**Expected Date:** {{% migration-start-date section="legal" %}}
 
 **Content to move:**
 
@@ -344,7 +352,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Engineering
 
-**Expected Date:** End of February 2023
+**Expected Date:** {{% migration-start-date section="engineering" %}}
 
 **Content to move:**
 
@@ -355,7 +363,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Team
 
-**Expected Date:** End of February 2023
+**Expected Date:** {{% migration-start-date section="team" %}}
 
 **Content to move:**
 
