@@ -138,7 +138,7 @@ VP’s are members of our [S-group](#s-group). VP’s are typically managers of 
 
 Typically a VP reports to an Executive.
 
-### VP-Directs
+#### VP-Directs
 
 VP-Directs are a subset of GitLab VPs who report directly to a member of E-Group. They are members of the VP-Directs Group.
 
