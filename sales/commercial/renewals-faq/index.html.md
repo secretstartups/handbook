@@ -56,13 +56,13 @@ More information on this can be found [here](https://docs.gitlab.com/ee/subscrip
 
 If you want to contest these overages, you can open an [Support Ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) and select the problem type *Quarterly Subscriptions Reconciliation (QSR) Related Problems*.
 
-Q: In the GitLab customer portal, I see the option to cancel my subscription. What happens if I click cancel?
+Q: In the GitLab Customers Portal, I see the option to cancel my subscription. What happens if I click cancel?
 
 A: In customers.gitlab.com, if *Cancel subscription* is highlighted then this means auto-renew is turned on. Clicking *Cancel* turns off auto-renew. You will still have access to your paid features until the subscription expiration date.
 
 ![renewal.status](/handbook/sales/images/renewal.status.png)
 
-Q: In the GitLab customer portal, I see the option to resume my subscription. What happens if I click resume?
+Q: In the GitLab Customers Portal, I see the option to resume my subscription. What happens if I click resume?
 
 A: In customers.gitlab.com,  if *Resume subscription* is highlighted then this means auto-renew is not enabled. Clicking *Resume* turns on auto-renew. When your subscription reaches its expiration date, it will be automatically renewed for another year and your credit card on file will be charged accordingly.
 
@@ -86,7 +86,7 @@ Q: If I add an Admin or Finance user to my group, will this take up a license ev
 
 A: Yes, these users will count as a billable user, and will be charged for.
 
-Q: I would like to give another user access to my subscription account in the GitLab customer portal. How do I do this?
+Q: I would like to give another user access to my subscription account in the GitLab Customers Portal. How do I do this?
 
 A: It is possible you may be able to transfer ownership without GitLabs assistance. See this [workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#self-service-option) for details. If the self-service options are unavailable to you, then please open a [Support Ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293). You will be required to provide ownership verification, after which Support will transfer the ownership.
 
@@ -158,7 +158,7 @@ A: If a customer is not on auto-renewal (Turn on Auto Renew = No) or if we know 
 
 Q: When should I direct a customer to renew online, and how can I help them do that?
 
-A: Advise them to log into the [Customer Portal](https://customers.gitlab.com/?_gl=1*2rhaas*_ga*MjAzMjU3NDY5NS4xNjY5NjU0NzM4*_ga_ENFH3X7M5Y*MTY3OTY3ODY4MS4xOTcuMS4xNjc5Njc4Nzk5LjAuMC4w) using their credentials. Once they have navigated to the *Manage Purchases* view, they should see an option to *Renew*. Once they have clicked on *Renew* and reviewed their order, they can proceed to checkout and select *Purchase*.
+A: Advise them to log into the [Customers Portal](https://customers.gitlab.com/?_gl=1*2rhaas*_ga*MjAzMjU3NDY5NS4xNjY5NjU0NzM4*_ga_ENFH3X7M5Y*MTY3OTY3ODY4MS4xOTcuMS4xNjc5Njc4Nzk5LjAuMC4w) using their credentials. Once they have navigated to the *Manage Purchases* view, they should see an option to *Renew*. Once they have clicked on *Renew* and reviewed their order, they can proceed to checkout and select *Purchase*.
 
 Q: How do I know if my customer has renewed via the online web store?
 
