@@ -24,7 +24,7 @@
 # No point having a controlled documents section if anyone can just update
 # The CODEOWNERS file.
 [CODEOWNERS]
-.gitlab/CODEOWNERS @timzallmann @gitlab-com/ceo-chief-of-staff-team
+.gitlab/CODEOWNERS @david @timzallmann @gitlab-com/ceo-chief-of-staff-team
 
 # The following entries relate to the operation of the handbook repo or the handbook site itself.
 [handbook-operations]
