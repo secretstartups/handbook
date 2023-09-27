@@ -113,7 +113,7 @@ lead to double-counting.
 
 {::options parse_block_html="false" /}
 
-The [Metrics Dictionary Guide](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) 
+The [Metrics Dictionary Guide](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html)
 is a good resource to learn about the other fields in the metric .yml files.
 
 ### Reporting date range
@@ -373,7 +373,7 @@ across installations, the exact date range captured in a 28-day metric will also
 to use the last ping created in the calendar month.
 
 You can read more about how the exact date range is calculated for each type of metric (database 
-vs Redis vs RedisHLL) in the [Service Ping docs](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metric-time_frame).
+vs Redis vs RedisHLL) in the [Service Ping docs](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html#metric-time_frame).
 
 #### Replicated metrics
 
@@ -444,7 +444,7 @@ CRM Account, etc. This model also includes flags related to a metric's time peri
 it is currently mapped to xMAU. To limit to the metrics used for reporting, apply the filter 
 `is_last_ping_of_month = TRUE`.
  
-Read more about metric time frames [here](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metric-time_frame).
+Read more about metric time frames [here](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html#metric-time_frame).
  
 **rpt_ping_metric_totals_w_estimates_monthly**
  
@@ -493,4 +493,3 @@ _*Please see dbt docs for full details on business logic_
 is a customized model designed for monthly paid SaaS xMAU reporting. This model provides user
 counts at the xMAU metric-level (which is not necessarily synonymous with the event-level),
 limited to the appropriate time frame (last 28 days of the month).
-  
