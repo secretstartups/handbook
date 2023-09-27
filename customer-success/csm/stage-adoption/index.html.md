@@ -49,7 +49,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 
 - Using GitLab for git repo storage and code review (MR's).
 
-Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html) you can determine if the customer is doing the following:
 
 - Using Merge Requests as part of the development lifecycle. (counts.merge_requests)
 - Increase in projects with repositories with continuous growth over 3 months (counts.projects_with_repositories_enabled)
@@ -68,7 +68,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 - More than 25% of teams or projects are using GitLab CI/CD.
 - When 75+% of pipelines are using GitLab CI/CD.
 
-Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html) you can determine if the customer is doing the following:
 
 - Made instance level shared Runner(s) available. (gitlab_shared_runners_enabled)
 - Using Continuous Integration (CI) with continuous growth over 3 months (ci_internal_pipelines)
@@ -95,7 +95,7 @@ If there is no data currently being recorded for your customer in version.gitlab
 
 - Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 
-Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) you can determine if the customer is doing the following: 
+Using data from version.gitlab.com and the [Metrics Dictionary](https://docs.gitlab.com/ee/development/internal_analytics/metrics/metrics_dictionary.html) you can determine if the customer is doing the following:
 
 - Using one of more of our security testing tools (SAST, DAST, Container Scanning, Dependency Scanning) with continuous growth over 3 months
 * SAST jobs (counts.sast_jobs)  
