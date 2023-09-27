@@ -84,10 +84,10 @@ Each issue to be worked in a given iteration is assigned a weight. The total wei
 | Weight | Level of Effort |
 | -------- | ---------- |
 | 1 | Basic - Simple, typically sub-issues that can be resolved with minimal effort and have straightforward solutions. They usually don't involve dependencies. |
-| 2 | Intermediate - Issues of moderate complexity that might have a few dependencies (ARs, specialized knowledge, API connections) or require some coordination among team members. |
-| 3 | Advanced - More complex issues that have many dependencies and requires coordination across teams to complete. These issues will take more time to reach a solution. |
+| 2 | Intermediate - Issues of moderate complexity that might have a few dependencies (ARs, specialized knowledge, API connections) or require some coordination amongst team members. |
+| 3 | Advanced - More complex issues that have many dependencies and require coordination across teams to complete. These issues will take more time to reach a solution. |
 | 4 | Challenging - Larger issue with some complexity that require specialized knowledge or substantial problem-solving. They might involve architectural designs and decisions. These issues will typically be broken down into smaller sub-issues. |
-| 5 | Complex - Larger, more complex, issues that will require architectural designs and decisions. These issues are intricate, involve complex API's, or require extensive changes. These issues will be broken down into smaller sub-issues. |
+| 5 | Complex - Larger, more complex, issues that will require architectural designs and decisions. These issues are intricate, involve complex APIs, or require extensive changes. These issues will be broken down into smaller sub-issues. |
 
 ### Design
 
