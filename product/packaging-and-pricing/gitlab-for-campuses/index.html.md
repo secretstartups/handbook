@@ -26,7 +26,7 @@ Qualifying educational institutions may receive an Academic Discount of 20% off 
 
 * The academic discount is available as of 2021-02-01. The academic discount will not be retroactively applied to close-won deals or true-ups.
 * The academic discount can be applied at the time of the renewal if it is after 2021-02-01.
-* The academic discount is not currently available to be purchased directly in the GitLab Customer Portal.
+* The academic discount is not currently available to be purchased directly in the GitLab Customers Portal.
 
 
 # GitLab for Campuses: Enterprise Offering
@@ -46,7 +46,7 @@ Qualifying educational institutions may purchase a campus-wide enterprise licens
 - The seats are available to all sub-units within the educational institution including campuses, colleges, schools, and divisions.
 - The seats for each SKU are only available within the individual education institution and are not available outside of the institution. See definitions below for more details.
 - Each individual educational institution within a  state, regional, or national system much purchase an individual license (SKU). The license (SKU) cannot be shared across individual institutions within a system.
-- The GitLab for Campuses enterprise offering is not currently available through the Customer Portal. Universities must work with their regional sales account owner to obtain a license.
+- The GitLab for Campuses enterprise offering is not currently available through the Customers Portal. Universities must work with their regional sales account owner to obtain a license.
 
 
 ### Support
