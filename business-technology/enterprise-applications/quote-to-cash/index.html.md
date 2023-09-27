@@ -41,7 +41,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 #### Zuora Revenue
 * Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
-#### CustomersDot (Customer Portal)
+#### CustomersDot (Customers Portal)
 * CustomersDot is used when the customer logs in to manage their subscriptions
 * GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 * CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
@@ -233,7 +233,7 @@ classDef gray fill:#FFFFFF;
 ## Entity Relationship Diagrams
 
 - [Zuora Billing](./entity-relationship-diagrams#zuora-billing)
-- [CustomersDot (Customer Portal)](./entity-relationship-diagrams#customersdot-customer-portal)
+- [CustomersDot (Customers Portal)](./entity-relationship-diagrams#customersdot-customer-portal)
 - [GitLab](./entity-relationship-diagrams#gitlab)
 
 ### Quote to Cash Systems Field Mapping
