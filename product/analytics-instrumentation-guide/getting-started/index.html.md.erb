@@ -102,13 +102,13 @@ This step can be skipped for **Database metrics** and **Generic metrics**. These
 
 ##### Redis counter implementation
 
-To track Redis counter events, we offer a frontend API described [in the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#usagedata-api), and a JavaScript/Vue helper for using this API.
+To track Redis counter events, we offer a frontend API described [in the Service Ping guide](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/implement.html#usagedata-api), and a JavaScript/Vue helper for using this API.
 
 ##### RedisHLL counter implementation
 
 To add a RedisHLL counter you must add the event definition and then implement the counter incrementation.
 
-To define a new event, you must add a `yml` file to the [`known_events` folder](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/usage_data_counters/known_events). See [Add new events](https://docs.gitlab.com/ee/development/service_ping/implement.html#add-new-events) for detailed information about defining events.
+To define a new event, you must add a `yml` file to the [`known_events` folder](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/usage_data_counters/known_events). See [Add new events](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/implement.html#add-new-events) for detailed information about defining events.
 
 For RedisHLL counters, you can implement the counter incrementation logic in multiple ways.
 
@@ -120,7 +120,7 @@ In the backend you can implement the counter incrementation logic in:
 
 In the frontend you can implement the counter incrementation logic in the `POST /usage_data/increment_unique_users` API endpoint and its JavaScript/Vue helper.
 
-The tracking methods' implementation is described in detail in the point `2` of [the Service Ping guide](https://docs.gitlab.com/ee/development/service_ping/implement.html#redis-hll-counters).
+The tracking methods' implementation is described in detail in the point `2` of [the Service Ping guide](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/implement.html#redis-hll-counters).
 
 
 #### 3. Instrumentation class
@@ -130,25 +130,25 @@ The instrumentation class implementation will depend on the metrics counter type
 
 ##### Database metric
 
-See [Database metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#database-metrics) for a definition of the database metrics instrumentation class.
+See [Database metrics](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#database-metrics) for a definition of the database metrics instrumentation class.
 
 ##### Redis metric
 
-[Redis metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-metrics).
+[Redis metrics](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#redis-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#availability-restrained-redis-metrics).
 
 ##### RedisHLL metric
 
-[RedisHLL metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#redis-hyperloglog-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisHLLMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#availability-restrained-redis-hyperloglog-metrics).
+[RedisHLL metrics](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#redis-hyperloglog-metrics) typically don't require adding an instrumentation class - instead, they reuse the already defined `RedisHLLMetric` class. A new instrumentation class only needs to be added if we need to define [the metric's availability](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#availability-restrained-redis-hyperloglog-metrics).
 
 ##### Generic metric
 
-See [Generic metrics](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html#generic-metrics) for a definition of the generic metrics instrumentation class.
+See [Generic metrics](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_instrumentation.html#generic-metrics) for a definition of the generic metrics instrumentation class.
 
 #### 4. Adding the event to Service Ping payload & Metrics Dictionary
 
 Now that the events have an instrumentation class defined, the next step is adding them to the Service Ping data payload and to the [Metrics Dictionary](https://metrics.gitlab.com/). Both of these goals can be achieved by adding a single YML event configuration file.
 
-See [Metrics Definition and validation](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metrics-definition-and-validation) for the instructions to add the YML event configuration file .
+See [Metrics Definition and validation](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/metrics_dictionary.html#metrics-definition-and-validation) for the instructions to add the YML event configuration file .
 
 The **instrumentation class**, defined in the previous step of this guide, should be used as the value for the `instrumentation_class` YAML attribute of the newly created config file.
 
@@ -167,7 +167,7 @@ The framework options with their respective guides are:
 
 ### Snowplow
 
-To verify the added changes using your local environment, check [local setup instructions](https://docs.gitlab.com/ee/development/service_ping/implement.html#set-up-and-test-service-ping-locally).
+To verify the added changes using your local environment, check [local setup instructions](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/implement.html#set-up-and-test-service-ping-locally).
 
 To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/snowplow/review_guidelines.html#the-merge-request-author-should). They also include information about what the Analytics Instrumentation reviewer will later check in the MR.
 
@@ -177,7 +177,7 @@ If you want to verify the event attributes passed to Snowplow, check out the [ev
 
 To verify the added changes using your local environment, check [Snowplow testing guide](https://docs.gitlab.com/ee/development/snowplow/implementation.html#develop-and-test-snowplow).
 
-To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/service_ping/review_guidelines.html#the-merge-request-author-should). They also include information about what the Analytics Instrumentation reviewer will later check in the MR.
+To make sure the MR is ready for review, check out the [review guidelines](https://docs.gitlab.com/ee/development/internal_analytics/service_ping/review_guidelines.html#the-merge-request-author-should). They also include information about what the Analytics Instrumentation reviewer will later check in the MR.
 
 ## When to create a Data team issue
 
@@ -220,7 +220,7 @@ This is what needs to be done:
 1. Your data should now be visible in Sisense.
 
 ## Removing or Changing Metrics
-Please follow process outlined by the guidance for removing and changing metrics that can be found in the [Service Ping lifecycle documentation](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html).
+Please follow process outlined by the guidance for removing and changing metrics that can be found in the [Service Ping lifecycle documentation](https://docs.gitlab.com/ee/development/metrics/metrics_lifecycle.html).
 
 ## Quick Links
 
