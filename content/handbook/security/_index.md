@@ -670,67 +670,6 @@ Depending on the impacted resources, the following teams should be engaged and m
 
 Once we've determined that we need to communicate externally about an incident, the SIMOC should kick off our [Security incident communications plan]({{< ref "security-incident-communication-plan#process-for-security-incidents-external-communications" >}}) and [key stakeholders will be engaged]({{< ref "security-incident-communication-plan#designated-key-approvers" >}}) for collaboration, review and approval on any external-facing communications.  *Note:* if customer data is exposed, external communications may be required by law.
 
------
-
-### <i id="biz-tech-icons" class="far fa-newspaper"></i> Working in Security
-
-#### Security Hiring
-
-The company-wide mandate is justification for mapping Security headcount to around 5% of total company headcount. Tying Security Department growth headcount to 5% of total company headcount ensures adequate staffing support for the following (below are highlights and not the entire list of responsibilities of the Security Department):
-
-- Security releases. At GitLab, the Security Department is DRI for critical and non-critical security releases.
-- Detection/response for security incidents, which will increase as GitLab.com users increase.
-- Preparation for becoming a public company.
-- Running the GitLab public bug bounty program.
-- Dogfooding and contributing to our product.
-- Improving and maintaining the security of GitLab.com and related services.
-
-#### Career Development and Opportunities at GitLab
-
-Career opportunities at GitLab, personal growth, and development are important and encouraged. Security team members and managers are encouraged to use [Individual Development Plans]({{< ref "individual-development-plan" >}}) to help foster, guide, and assist with career growth.
-
-Information regarding growth and development benefits available to GitLab team members is available on the [General & Entity Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) page, with specific information regarding general budgeting strategy, reimbursement requirements, and budget exceptions for tuition available in the [Growth and Development Benefit section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) of that page.  [Eligibility information](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#growth-and-development-benefit-eligibility) and directions on [how to apply](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits) for growth and development benefits can be found on the [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) page.  Be sure to review the [administration process for growth and development costs exceeding $1000](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#administration-of-growth-and-development-reimbursements-over-1000) before proceeding with payment as the [reimbursement process](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) and timing differs depending on category.
-
-##### Individual Contribution vs. Management
-
-```mermaid
-  graph LR;
-  subgraph Merit Based
-    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
-    sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
-  end
-  subgraph Based on Merit and Company Need
-    sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
-    sec:stse(Staff Security Engineer)-->sec:pse(Principal Security Engineer);
-    sec:pse(Principal Security Engineer)-->sec:dse(Distinguished Security Engineer);
-    sec:sse(Senior Security Engineer)-->sec:sem(Manager, Security);
-    sec:sem(Manager, Security)-->sec:sms(Senior Manager, Security)
-    sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
-  end
-  click sec:s "{{< ref "/job-families/security/security-engineer#intern" >}}"
-  click sec:se "{{< ref "/job-families/security/security-engineer#intermediate-security-engineer" >}}";
-  click sec:sse "{{< ref "/job-families/security/security-engineer#senior-security-engineer" >}}";
-  click sec:stse "{{< ref "/job-families/security/security-engineer#staff-security-engineer" >}}";
-  click sec:pse "{{< ref "/job-families/security/security-engineer#principal-security-engineer" >}}";
-  click sec:dse "{{< ref "/job-families/security/security-engineer#distinguished-security-engineer" >}}";
-  click sec:sem "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";
-  click sec:sms "{{< ref "security-leadership#senior-manager-security" >}}";
-  click sec:ds "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";
-```
-
-#### Security Internship
-
-For information on the security internship, see the [Internship page]({{< ref "./internship" >}}).
-
-#### Security Shadow Program
-
-The Security Organization is piloting a fully immersive on-the-job cross-training program among our various sub-organizations and teams. Participants will get a true behind the scenes look at how the Security Organization protects, defends, and assures our customers and team members day in and day out.
-
-For more information, see the [Security Shadow Program]({{< ref "security-shadow" >}}) page.
-
-#### Security Gearing Ratios
-
-Gearing ratios related to the Security Department have been moved to a [separate page]({{< ref "gearing-ratios" >}}).
 
 -----
 
@@ -801,6 +740,7 @@ our security automation initiatives.
     - [Print-CMYK](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/tree/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk)
     - and one [exclusively for stickers](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/blob/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk/pdf/sticker/gitlab-security-icon-diecut-sticker-3x2_78in.pdf).
 - [Security READMEs](/handbook/security/readmes/)
+- [Working in Security](/handbook/security/working-in-security.md)
 
 #### AI in Security Learning Group
 
