@@ -138,6 +138,10 @@ VP’s are members of our [S-group](#s-group). VP’s are typically managers of 
 
 Typically a VP reports to an Executive.
 
+### VP-Directs
+
+VP-Directs are a subset of GitLab VPs who report directly to a member of E-Group. They are members of the VP-Directs Group.
+
 #### Executives
 
 The executive layer is structured as follows. R&D focused executives include the Chief Product Officer (CPO), Chief Information Security Officer (CISO) and the Chief Technology Officer (CTO).
@@ -209,11 +213,11 @@ Members of the management group are expected to demonstrate leadership in the wa
 
 #### Board Members
 
-[Board Members](/job-families/board-of-directors/board_member/) serve on the GitLab board and participate in board meetings and board committees, as well as other responsibilities.
+[Board Members]({{< ref "/job-families/board-of-directors/board_member" >}}) serve on the GitLab board and participate in board meetings and board committees, as well as other responsibilities.
 
 ## CEO Skips
 
-You may occassionally hear of the E-Group hosting an "CEO Skips" call or meeting.
+You may occasionally hear of the E-Group hosting an "CEO Skips" call or meeting.
 The CEO Skips group is made up of anyone who reports directly to the e-group. It also includes People Business Partners, Chief of Staffs, and internal communications.
 It is made up of some ICs, some managers, some directors, and some senior leaders.
 
@@ -294,7 +298,6 @@ Past, present and future Directs-Group Particpants will be listed here.
 |-------------|--------------------------------|
 | 2022-01 to 2022-10 | Urja Patel, Matt Taylor, Rob Allen, Melissa Smolenksy, Christopher Lefelhocz, Kenny Johnston, Justin Farris |
 | 2022-11 to 2023-08 | Jim Gladen, Pattie Egan, Dave Steer, Hillary Benson, Eliran Mesika (cohort lead), Stan Hu, Christie Lenneville, Ryan O'Nell, Joaquin Fuentes, Sid Sijbrandij (E-Group Sponsor) |
-| 2023-08 to 2023-06 | TBD |
 
 ### Cohort project
 
@@ -303,6 +306,39 @@ Each Directs-Group will have at least one cohort project. Cohort projects should
 Cohort Projects:
 
 1. **2022-01 to 2022-10** : [Stop Initiative](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/109602/diffs), Internal Handbook updates
+1. **2022-11 to 2023-08** : [Strategic plan refresh](company/strategy/#big-bet-process)
+
+## VP-Directs Group
+
+VP-Directs Group is made up of VP-Directs, VPs who report directly to members of E-Group. This is a senior group of leaders who are able to assist in the cascading of critical communications, support change management, ensure our mission & vision continues to be thoroughly understood at all levels of the organization, support in top priority cross-functional activities, and act as a gauge of company sentiment & engagement.
+
+### VP-Directs Group Objectives
+
+Through monthly meetings and a Slack channel, this group will be engaged to:
+
+1. **Cascade information:** E-Group has a specific message that the organization needs to absorb and understand and senior leaders can help in communicating the message. This is particularly important when heavy change management is required for a specific issue or challenge and E-Group needs broader leadership support. We’d ask this group to absorb it and drive the change through their organizations.
+1. **Provide information and share perspectives:** This group can be a senior sounding board as decisions are made or actions are being taken. For example, this group could be engaged when E-Group has identified a need for a strategic organizational pivot and broader senior level input is desired.
+1. **Provide cross-functional initiative leadership:** E-Group may ask this group to take on specific cross-functional initiatives. For example, this group could play a role in addressing feedback from the Employee Engagement Survey (alongside all functional leaders) or support strategic planning activities.
+1. **Hear from customers:** We’ll invite customers to speak to this group, so we can, as a leadership group, understand their perspective on GitLab and our challenges and opportunities and continue to drive customer-centricity throughout the organization.
+
+### VP-Directs Group Commitment
+
+1. Participate in monthly meeting, synchronously when possible (recorded meeting, if appropriate)
+1. Monitor the Slack channel
+1. Share input on proposals and plan
+1. Reach out to program managers with any ideas on what should be discussed or how to improve group effectiveness
+
+### VP-Directs Group Management
+
+Initial management will include:
+1. Rotating E-Group sponsor: formal E-Group representative
+1. The Chief of Staff to the CEO: owns E-Group interlock, partners with sponsor
+1. VP of Talent and Engagement: Owns team engagement and partners with VP of Global comms on internal comms. VP of Global Comms owns broader communication where necessary.
+This initial management team will be responsible for getting the group up and running and starting to establish rigor & routine. We can iterate from this model as we better understand this
+The management team will:
+1. Coordinate with the EBA team to ensure that invite series are sent and established
+1. Ensure appropriate actions are noted and followed up on, hold accountability where necessary
+1. Serve as an intersection between E-Group and VP Group to ensure that meetings have a clear purpose, information is being effectively shared, and group goals are being met
 
 ## Organizational Structure
 
@@ -314,7 +350,7 @@ Cohort Projects:
 
 **Note** - within the Engineering and Product divisions we try to maintain a close relationship between our organizational structure and our [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) in order to maintain stable counterparts in our organizational structure.
 
-Finance also has a notion called "departments" for financial planning purposes. But these do not align with our organizational departments. For instance the finance department "product development" rolls up both the PM and Engineering functions. But it excludes the Support department, which is part of the engineering function, but a different budget. This name collision should probably be resolved in the future. For futher reference see our [department roll up structure](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure) for accounting purposes.
+Finance also has a notion called "departments" for financial planning purposes. But these do not align with our organizational departments. For instance the finance department "product development" rolls up both the PM and Engineering functions. But it excludes the Support department, which is part of the engineering function, but a different budget. This name collision should probably be resolved in the future. For further reference see our [department roll up structure](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure) for accounting purposes.
 
 We try our best to keep our handbook and documentation up to date, but certain terms used in the past have been updated through time. The term **Functional Group** is no longer used, and it currently is encompassed by the term **Departments**. The term **Functional Group leader** is no longer used, and it is currently encompassed by the term [E-group](#e-group) leaders.
 
