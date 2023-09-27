@@ -23,6 +23,8 @@ Further restrictions may exist depending on the type of Gratis Support you selec
 
 ## Requesting gratis support using the webform
 
+### Required information
+
 For all requests, you must provide the following:
 
 1. Name of the manager within Sales or Customer Success who has already approved your request
@@ -30,6 +32,8 @@ For all requests, you must provide the following:
 1. Amount of ARR associated with the Opportunity
 
 Some options require additional information as displayed in the webform for that option.
+
+### Options on the webform
 
 The gratis support webform shows the following options, which are described in detail below:
 
