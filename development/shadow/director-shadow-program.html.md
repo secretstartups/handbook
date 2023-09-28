@@ -152,8 +152,6 @@ No, not at this time.
 
 | Week of | Shadow(s) | Role | 
 | ------ | ------ | ----- |
-| September 25 | [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
-| October 2  |  Available | |
 | October 9  |  Available | |
 | October 16 |  Available | |
 | October 23 |  Available | |
@@ -203,4 +201,6 @@ No, not at this time.
 | [Julia Lopez](https://www.linkedin.com/in/julia-lopez-841b41a/) | Non-GitLab shadow - Manager of Animation & Gaming Technical Support at Netflix | 
 | [Reggie Skillman](https://www.linkedin.com/in/reggie1/) | Non-GitLab shadow - Military Veteran tenured in Aerospace and Software Stack |
 | [Davis Bickford](https://www.gitlab.com/dbickford) | Backend Engineer - [Runner Saas](https://about.gitlab.com/direction/verify/runner_saas/) |
+| [Jamie Strachan](https://www.linkedin.com/in/jamiestrachan/)     |  Non-Gitlab engineering manager      |
+
 
