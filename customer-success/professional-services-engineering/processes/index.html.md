@@ -23,10 +23,10 @@ The professional services process and methodology fits within the [customer jour
 
 <!--![](/handbook/customer-success/professional-services-engineering/processes/customer-journey-mapped-ps-process.png)-->
 
-[Source, GitLab Team Members Only](https://docs.google.com/presentation/d/1VQXESMods5HRIOADC95i9q6lq_AFe2FLj6BO45C3rnY/edit?usp=sharing)
+[Source, GitLab Team Members Only](https://docs.google.com/presentation/d/1eC_ocJkzNkH4Vw3v4Vkd3S58a0NALYxXtnb6BZ7pJdc/edit?usp=sharing)
 
 ## PS Process Methodology Stages
-The above diagram (slide 4) is meant to describe the Directly Responsible Individuals (DRIs), Activities, Outcomes, and Tools/Collateral for each sage of the methodology. We can also see clear categorization of stages in pre-sales and post-sales phases.
+The above diagram (slide 4) is meant to describe the Directly Responsible Individuals (DRIs), Activities, Outcomes, and Tools/Collateral for each stage of the methodology. We can also see clear categorization of stages in pre-sales and post-sales phases.
 
 In the linked pages below, you can see a detailed drill down into the steps within each stage that individuals use to perform activities to deliver desired outcomes per each stage. These pages are split by the Phase of the selling process (Pre-sales vs Post-sales).
 
