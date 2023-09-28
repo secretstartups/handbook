@@ -35,9 +35,7 @@ Some options require additional information as displayed in the webform for that
 
 ### Options on the webform
 
-The gratis support webform shows the following options, which are described in detail below:
-
-screenshot
+The gratis support webform has the following options, which are described in detail in each section below.
 
 ### a prospect
 
