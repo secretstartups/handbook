@@ -16,31 +16,13 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars and workshops in the month of September.
+We’d like to invite you to our free upcoming webinars and workshops in the months of September and October.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
 
 ## September 2023
 
 ### AMER Time Zone Webinars
-
-#### AI in DevSecOps - GitLab Hands-On Workshop
-##### September 27th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_H9oXlO4gRqSWQqXWeqbV4Q#/registration)
-
-#### Hands-On GitLab DevSecOps Workshop
-##### September 27th, 2023 at 3:00-4:00PM Pacific Time / 6:00-7:00PM Eastern Time / 8:00-9:00AM UTC+10
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_mewzOr2JQeKKXeq8RcUAXA#/registration)
 
 #### Hands-On GitLab DevSecOps Workshop
 ##### September 29th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
@@ -67,7 +49,7 @@ We will then dive into how to build simple GitLab pipelines and work up to more 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_MfdQnhtyS1qLVLJzZBflXQ#/registration)
 
 
-## September 2023
+## October 2023
 
 ### AMER Time Zone Webinars
 
