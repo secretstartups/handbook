@@ -23,11 +23,11 @@ The interview process consists of the following stages:
 
 ### How to submit an application
 
-{{% details "External applicants" %}}
+{{% details summary="External applicants" %}}
 All of our open positions can be found on our [jobs page](https://about.gitlab.com/jobs/all-jobs/). You can view jobs by department and/or location. Click on a job that interests you and select the “Apply Now” button at the top of the page to fill out an application.
 {{% /details %}}
 
-{{% details "Internal applicants" %}}
+{{% details summary="Internal applicants" %}}
 Interested in another role internally? Review internal mobility eligibility [here]({{< ref "internal-hiring-process#team-member-responsibilities" >}}).
 
 If you are a [current team member and are interested in applying]({{< ref "promotions-transfers#department-transfers" >}}) for a current vacancy, please follow the steps below.
@@ -42,11 +42,11 @@ If you are a [current team member and are interested in applying]({{< ref "promo
 
 ### Who can apply?
 
-{{% details "Equal Opportunity Employer" %}}
+{{% details summary="Equal Opportunity Employer" %}}
 GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, without regard to all legally protected classes, including, but not limited to: race, color, religion, ancestry, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, citizenship, marital status, gender identity, disability and genetic information (including family medical history), and any other status protected by federal, state or local law. GitLab will not discriminate on the basis of disability or veteran status.
 {{% /details %}}
 
-{{% details "No solicitations" %}}
+{{% details summary="No solicitations" %}}
 At GitLab, we do not accept solicitations from recruiters, recruiting agencies, headhunters, or outsourcing organizations. If you email us about this type of opportunity, [we'll reply](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/blob/master/Email%20Templates/third%20party%20agency%20response.md) with [a link to this paragraph](#who-can-apply) to indicate that we'd like to be removed from the contact list.
 {{% /details %}}
 
@@ -73,7 +73,7 @@ You, the recruiter or the hiring manager can terminate the discussion at any poi
 
 Depending on the outcome of the call, the talent acquisition team or manager may either reject or move you to the Team Interview stage.
 
-{{% details "Example Screening Call questions" %}}
+{{% details summary="Example Screening Call questions" %}}
 1. Why are you interested in GitLab?
 1. What are you looking for in your next position?
 1. Why did you join and leave your last three positions?
@@ -104,7 +104,7 @@ When you receive a reference form, you will have the option to opt-in for a conv
 
 ### Interview Process FAQs
 
-{{% details "How to request for a reasonable accommodation" %}}
+{{% details summary="How to request for a reasonable accommodation" %}}
 At GitLab we pride ourselves on ensuring that everyone can contribute. To make certain that everyone's interview experience is a positive one, we encourage those who require a reasonable accommodation to successfully carry out the interview process, to reach out to `ces@gitlab.com`. The Candidate Experience team along with Talent Acquisition leadership will work with you to define and accommodate those needs. This could include but is not limited to the following:
 
 - Translation Services
@@ -112,15 +112,15 @@ At GitLab we pride ourselves on ensuring that everyone can contribute. To make c
 - Assistance in setting up Closed Captioning for interviews
 {{% /details %}}
 
-{{% details "I've started the interview process at GitLab, but haven't heard back from anyone recently. What do I do?" %}}
+{{% details summary="I've started the interview process at GitLab, but haven't heard back from anyone recently. What do I do?" %}}
 Feel free to send an email to your Recruiter to get a status update on where you are in the interview process.
 {{% /details %}}
 
-{{% details "Can I have the hiring team’s email addresses so I can send them a note?" %}}
+{{% details summary="Can I have the hiring team’s email addresses so I can send them a note?" %}}
 Yes. You can email your Recruiter or ces@gitlab.com to request your interviewer's email address.
 {{% /details %}}
 
-{{% details "Can I interview for multiple roles at the same time?" %}}
+{{% details summary="Can I interview for multiple roles at the same time?" %}}
 In the event that you are interested in more than one opening, there is no limit on the number of roles you can apply for but keep in mind the following:
 
 1. You will have to complete a full interview process for each role you apply to, so be mindful of the time commitment for each application you submit.
@@ -145,7 +145,7 @@ Example of dual Interview process outline
 1. If you are interviewing for two roles in different job families the offers may be different.
 {{% /details %}}
 
-{{% details "I've been rejected, when can I reapply?" %}}
+{{% details summary="I've been rejected, when can I reapply?" %}}
 If your application is rejected because you are insufficiently qualified for the role, you are welcome to reapply to the same position once 6 months have passed. If you gain the skills, experience, or knowledge we outlined in our [feedback to you]({{< ref "interviewing#rejecting-candidates" >}}), you are welcome to reapply at any time.
 {{% /details %}}
 
@@ -155,14 +155,14 @@ The GitLab team understands the importance of inclusive interviewing, and we str
 
 ### How we conduct remote interviews on a global scale
 
-{{% details "How we work during holidays" %}}
+{{% details summary="How we work during holidays" %}}
 As an all-remote, global company, GitLab gives all team members the flexibility to determine their [time away from work]({{< ref "paid-time-off" >}}), including the holidays they observe.
 There will likely be holidays that our candidates observe that a Recruiter, Hiring Manager, or CES may not.
 If there's a time during the year when a significant portion of the company will be taking time off, we'll be sure to send a communication to all active candidates to let them know of a possible delay in communication.
 Please note that not every member of the team will be observing that holiday, so you may still receive emails from them.
 {{% /details %}}
 
-{{% details "How we schedule interviews on a global scale" %}}
+{{% details summary="How we schedule interviews on a global scale" %}}
 1. Once you have completed a screening call with the recruiter and are ready to be scheduled for the Team Interview stage, you'll receive an email requesting availability. To move through this process as quickly as possible, please give us many different days and times spread across at least 2 weeks. This will prevent us from having to reach out again asking for more availability, as some interviewers could be across many different time zones. Sometimes if the interviewer has a schedule that is difficult to fit interviews into, we'll suggest specific times and dates via your availability link.
 1. After receiving your availability, we will compare it to the interviewers' working hours. If we find a match, we will schedule an interview and send you a link to a Guide and invite in your time zone to download to your computer. If we do not, we will reach back out and work with you to find an alternative. Sometimes there is a very small overlap between time zones, so we appreciate your patience as we identify alternatives!
 1. If you need to reschedule, follow the special instructions in your confirmation email if the interview is within 24 hours. You can also email ces@gitlab.com anytime.
@@ -184,7 +184,7 @@ Depending on your location, a [background screen]({{< ref "people-policies#backg
 
 At GitLab, we hire people from all over the world and all walks of life. Diversity, Inclusion & Belonging  is one of our [core values]({{< ref "values" >}}). As an [all-remote company](https://about.gitlab.com/company/culture/all-remote/) we do face challenges with hiring in certain countries. Each country has unique and complex rules, laws, and regulations, that can affect our ability to conduct business, as well as the employability of the citizens and residents of those countries. It unfortunately affects the employability of the citizens and residents of those countries. We are growing and continuously exploring our hiring capabilities in a variety of geographies. At present we are focusing our hiring in countries where we have entities & PEO's (Professional Employer Organization).
 
-{{% details "Take a look at the countries where we currently hire below." %}}
+{{% details summary="Take a look at the countries where we currently hire below." %}}
 
 Please refer to a specific job listing to see if the position is hiring in the country where you are located. You check our [handbook]({{< ref "/handbook/people-group/employment-solutions#country-hiring-guidelines" >}}) for more in-depth information
 
@@ -229,7 +229,7 @@ Note: In countries with a star (*) hiring is limited to only certain roles
 
 Our [mission]({{< ref "mission" >}}) makes it clear that we believe in a world where everyone can contribute. We make that possible at GitLab by [running our operations on our product]({{< ref "using-gitlab-at-gitlab" >}}) and staying aligned with our [values]({{< ref "values" >}}).
 
-{{% details "Explore the resources below for a deeper understanding of working at GitLab — one of the world's largest all-remote companies" %}}
+{{% details summary="Explore the resources below for a deeper understanding of working at GitLab — one of the world's largest all-remote companies" %}}
 - [Life at GitLab](https://about.gitlab.com/jobs/)
 - [How We're Changing the Look of DevOps and Remote Work, One Iteration at a Time](https://builtin.com/brand-studio/gitlab-changing-look-devops-remote-work?utm_source=linkedin&utm_medium=social_media&utm_campaign=gitlab)
 - [GitLab's guide to starting a new remote role](https://about.gitlab.com/company/culture/all-remote/getting-started/)
