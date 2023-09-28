@@ -415,7 +415,7 @@ Authorized GitLab Partner fills out the NFR License Request Form which can be fo
 
 
 
-1. Partner Help desk (PHD) reviews the request and works with the Partner if additional information is needed.
+1. Partner Operations review the request and work with the Partner if additional information is needed.
 2. Once activated the requestor will receive a license key via email.
 
 
@@ -435,11 +435,11 @@ Request your license by logging in to the [Partner Portal](https://www.partners.
 * Partners can receive one Self-Managed and one Software-as-a-Service (SaaS) NFR license at the Ultimate level for a 12-month period.
     * Select Partners can request a license for up to 25 users. Additional licenses may be available with business justification.
         * Additional licenses must be requested through the partner account manager and not through the NFR Request form
-    * Open Partners can request a license for up to 10 users.
+    * Open Partners can request a maximum of 10 NFR licenses per license type. (ie. Open partners may have a total of 20 NFR licenses [10 Self-Managed/ 10 SaaS]).
 
 Please allow two (2) business days for processing your request.
 
-*The Partner Help Desk manages all NFR requests that fall within the NFR program rules. Any requests outside the program need to be requested, managed, and tracked through the account manager.
+*Partner Operations manage all NFR requests that fall within the NFR program rules. Any requests outside the program need to be requested, managed, and tracked through the account manager.
 
 
 ##### NFR Program Eligibility
@@ -515,5 +515,5 @@ GitLab is building out a global Authorized Distributor network similar to many o
 https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#transacting-through-distribution
 ## Contact Us
 
-All authorized GitLab resellers are invited to the GitLab #resellers Slack channel. This slack channel allows you to reach out to our Sales and Marketing Teams in a timely manner, as well as other resellers. Additionally, you can reach the GitLab channel team at PartnerSupport@GitLab.com and the GitLab Parnter Marketing 
+All authorized GitLab resellers are invited to the GitLab #resellers Slack channel. This slack channel allows you to reach out to our Sales and Marketing Teams in a timely manner, as well as other resellers. Additionally, you can reach the GitLab channel team at PartnerSupport@GitLab.com and the GitLab Partner Marketing 
 Team at Partner-Marketing@GitLab.com. 
