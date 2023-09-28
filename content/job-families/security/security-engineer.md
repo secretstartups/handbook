@@ -222,6 +222,8 @@ Application Security Responsibilities
 - Facilitate preparation of both critical and regular security releases
 - Guide, advise, and assist product development teams as SMEs in the area of application security.
 - Assist with recruiting activities and administrative work
+- Assist in identifying process changes and tooling to mature the software development lifecycle at GitLab
+- Identify, prioritize, and communicate vulnerability patterns, security enhancement ideas, and automation needs to stakeholders, including the Product Security Engineering team
 
 Application Security Requirements
 
@@ -230,6 +232,27 @@ Application Security Requirements
 - Experience with OWASP, static/dynamic analysis, and common exploit tools and methods
 - An understanding of network and web related protocols (such as, TCP/IP, UDP, IPSEC, HTTP, HTTPS, routing protocols)
 - Familiarity with cloud security controls and best practices
+
+### Product Security Engineering
+
+Product Security Engineering specialists work closely with the Application Security team, development teams, and product managers (PM) to deliver security improvements to GitLab products. They are additionally responsible for building and maintaining automations that help the Application Security team work efficiently and operate at scale.
+
+Product Security Engineering Team Responsibilities
+
+- Design and contribute product-first code that enhances the security of GitLab's software assets and improves security at every stage of the software development lifecycle
+- Partner with Engineering teams to understand and then implement security enhancements, defense-in-depth, and other security related improvements
+- Design, engineer, deploy, and maintain security libraries to be used by GitLab development teams
+- Design and engineer solutions that solve classes of vulnerabilities
+- Build and maintain security tooling and automation for internal use that enable the Application Security team to operate at high speed and wide scale
+- Collaborate with the Application Security team to identify, understand and prioritize security enhancements and automation opportunities, including through assisting with threat modeling and root cause analyses
+- Plan and prioritize Product Security Engineering team efforts, with a focus on delivering high-impact proactive and preventative controls which will scale with the organization and result in improved product security
+- Define and own metrics and key performance indicators to determine the effectiveness of the Product Security Engineering team
+
+Product Security Engineering Team Requirements
+
+- Strong development or scripting experience and skills, preferably significant professional experience with Ruby on Rails and/or Golang
+- Excellent understanding of application security issues and how to fix application security vulnerabilities
+- Track record of delivering results through the entire software development lifecycle
 
 ### Security Automation
 
