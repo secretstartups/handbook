@@ -198,9 +198,17 @@ Specify a dbt model against the clone of the RAW database. This jobs runs agains
 
 #### `🌱specify_csv_seed`
 
-This job tests specific seed file.
+This job tests specific seed file. Specify seed file with the variable `DBT_MODELS`. 
 
-Specify seed file with the variable `DBT_MODELS`.
+- This job can be run to fix tag validation errors. Use the variable `DBT_MODELS` and value `valid_tags`
+
+```
+Compilation Error in macro tag_validation (macros/utils/tag_validation.sql)
+Tag Validation Error
+  
+> in macro tag_validation (macros/utils/tag_validation.sql)
+> called by macro tag_validation (macros/utils/tag_validation.sql)
+```
 
 #### `📸🥩specify_snapshot`
 
