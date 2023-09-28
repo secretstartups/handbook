@@ -193,7 +193,7 @@ Extends the Principal IT Enterprise Applications Engineer responsibilities plus:
 - Influence customer roadmaps and collaborate on innovative solutions.
 - Collaborate with the executive team to align technology initiatives with the overall business strategy.
 - Acts as an advisor to Senior Leadership.
-- Influences Senior Leadership to adopt a different point of view when appropriate, and makes decisions that have an impact on business direction. 
+- Influences Senior Leadership to adopt a different point of view when appropriate, and makes decisions that have an impact on business direction.
 
 ### Distinguished IT Enterprise Applications Engineering Requirements
 
