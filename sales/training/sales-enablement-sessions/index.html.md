@@ -23,8 +23,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 21 | **No Session**  | N/A |
-| Sep 28 | Value Framework Refresh Overview  | Saumya U. & Joe K. |
 | Oct 5 | FY24-Q3 - Analyst Relations Update  | Ryan R. |
 | Oct 12 | CRO Fireside Chat: Pitching GitLab and the Top 10 Reasons Why  | Chris W. |
 | Oct 19 | *No session during the last week of the quarter* | N/A |
@@ -38,6 +36,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-09-28 | **[Value Framework Refresh Overview](https://drive.google.com/file/d/1AtxF67rCbGiCc8CqoFsp1D7WZG0Zrnnu/view?usp=drive_link)**  | Private |
 | 2023-09-14 | **[Propensity to Purchase (PTP) Score Launch](https://drive.google.com/file/d/1dJvpME0GKpRczdMpOu5O6ZnBJRSbGHn9/view?usp=drive_link)**  | Private |
 | 2023-09-07 | **[FY24-Q3 - Better Together: Winning with Cloud Partners](https://drive.google.com/file/d/1uUAQPxTBf_KYgf2lbEdo31waK46jml7t/view?usp=drive_link)**  | Private |
 | 2023-08-31 | **[FY24-2H - Solution Play: AI Powered DevSecOps](https://drive.google.com/file/d/1PRglbQGGW4QYiqhQ6BU2bVcZ6NRKIv-k/view?usp=drive_link)**  | Private |
