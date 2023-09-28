@@ -55,7 +55,7 @@ Use this when an existing Premium customer wants to trial Ultimate features. Thi
 
 ### a former customer
 
-Use this when a former or expired customer is trialing GitLab again (proof of value / POV), or is on a Trial/temp license during negotations.
+Use this when a former or expired customer is trialing GitLab again (proof of value / POV) or is on a Trial/temp license during negotiations.
 
 ### an extension of previously requested Gratis Support
 
