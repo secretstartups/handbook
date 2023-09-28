@@ -23,7 +23,7 @@ Further restrictions may exist depending on the type of Gratis Support you selec
 
 ## Requesting gratis support using the webform
 
-The webform is available here: https://gitlab-com.gitlab.io/support/support-ops/forms/gratis-support-request-form/
+The webform is available here: [https://gitlab-com.gitlab.io/support/support-ops/forms/gratis-support-request-form/](https://gitlab-com.gitlab.io/support/support-ops/forms/gratis-support-request-form/)
 
 If you have any questions or problems as you fill out the form, please ask in the `#support-operations` Slack channel.
 
