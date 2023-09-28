@@ -5,40 +5,6 @@ description: "Security at GitLab"
 
 ## Security Practices
 
-### Contact GitLab Security
-
-The GitLab Security Teams are available 24/7/365 and are ready to assist with questions, concerns, or issues you may have.
-
-There are some common scenarios faced by GitLab team members:
-
- - [CEO & Executive Fraud](#ceo--executive-fraud)
- - [Phishing]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}})
-
-To contact for any other reason, see [Contacting the Team](#-contacting-the-team) or [Engaging the Security On-Call]({{< ref "engaging-security-on-call" >}}).
-
-#### CEO & Executive Fraud
-
-The CEO (and Executive team) will not send you an [email to wire cash](http://blog.centrify.com/ceo-fraud-business-email-compromise/), or a text message to ask for gift cards, or anything else that feels like a [CEO fraud or CEO scam](https://www.knowbe4.com/ceo-fraud). These types of [spear attack](https://nakedsecurity.sophos.com/2019/09/05/scammers-deepfake-ceos-voice-to-talk-underling-into-243000-transfer/) events will be more common as we grow. Feel free to verify any unusual requests via the #ceo Slack channel.
-
-What should you do if you receive a potential phishing email or text [\(smishing\)](https://www.proofpoint.com/us/threat-reference/smishing) from GitLab's CEO?
-
-1. If you are unsure whether the text or email is legitimate, contact [Security]({{< ref "." >}}) to review, and confirm via the #ceo Slack channel.
-1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
-1. If the text is determined to be fake: block the number, notify [Security](#-contacting-the-team), and delete the text.
-  - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
-
-#### Threat Modeling
-
-If you are wanting to implement a process, code, or some other procedure that could impact the security posture of GitLab or its products, something
-that the Security Team uses as a resource is [Threat Modeling](https://en.wikipedia.org/wiki/Threat_model). The Security Team *highly*
-encourages change and improvements, and also ensure that changes and improvements are done securely.
-The Security Team uses a threat framework based upon the [PASTA](https://www.wiley.com/en-us/Risk+Centric+Threat+Modeling%3A+Process+for+Attack+Simulation+and+Threat+Analysis-p-9780470500965#) methodology.
-For more information including an issue template for doing your own threat modeling, check out the [Threat Modeling]({{< ref "threat-modeling" >}}) page.
-
-#### Non-Emergency Contact
-
-If you have a question or concern and need to speak with the Security Team, you can contact [Security](/handbook/security/#-contacting-the-team).
-
 ### Security Process and Procedures for Team Members
 
 #### Accounts and Passwords
@@ -50,7 +16,7 @@ If you have a question or concern and need to speak with the Security Team, you 
 1. Set up your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
   and use this as
   your primary means for accessing Applications supported in Okta. As part of
-  setting up Okta, you'll need to establish a [strong password](#gitlab-password-guidelines)
+  setting up Okta, you'll need to establish a [strong password]({{< ref "password-guidelines" >}})
   and set up at least one additional form of authentication.
 1. For your Okta password and other passwords that you won't store in Okta, set up [1Password](https://1password.com/) as your password manager and set a **strong and unique**
   master password.
@@ -241,10 +207,6 @@ You can then choose to use this new service account via the option under **Advan
 1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed.
 1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
 1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
-
-### GitLab Password Guidelines
-
-Passwords are one of the primary mechanisms that protect GitLab information systems and other resources from unauthorized use. Follow [GitLab's password guidelines]({{< ref "password-guidelines" >}}) when constructing secure passwords and ensuring proper password management to keep GitLab secure. To learn what makes a password truly secure, read this [article](https://medium.com/peerio/how-to-build-a-billion-dollar-password-3d92568d9277) or watch this [conference presentation](https://www.youtube.com/watch?v=vudZnjp5Uq0&t=19183) on password strength.
 
 ### Panic Email
 
@@ -661,67 +623,6 @@ Depending on the impacted resources, the following teams should be engaged and m
 
 Once we've determined that we need to communicate externally about an incident, the SIMOC should kick off our [Security incident communications plan]({{< ref "security-incident-communication-plan#process-for-security-incidents-external-communications" >}}) and [key stakeholders will be engaged]({{< ref "security-incident-communication-plan#designated-key-approvers" >}}) for collaboration, review and approval on any external-facing communications.  *Note:* if customer data is exposed, external communications may be required by law.
 
------
-
-### <i id="biz-tech-icons" class="far fa-newspaper"></i> Working in Security
-
-#### Security Hiring
-
-The company-wide mandate is justification for mapping Security headcount to around 5% of total company headcount. Tying Security Department growth headcount to 5% of total company headcount ensures adequate staffing support for the following (below are highlights and not the entire list of responsibilities of the Security Department):
-
-- Security releases. At GitLab, the Security Department is DRI for critical and non-critical security releases.
-- Detection/response for security incidents, which will increase as GitLab.com users increase.
-- Preparation for becoming a public company.
-- Running the GitLab public bug bounty program.
-- Dogfooding and contributing to our product.
-- Improving and maintaining the security of GitLab.com and related services.
-
-#### Career Development and Opportunities at GitLab
-
-Career opportunities at GitLab, personal growth, and development are important and encouraged. Security team members and managers are encouraged to use [Individual Development Plans]({{< ref "individual-development-plan" >}}) to help foster, guide, and assist with career growth.
-
-Information regarding growth and development benefits available to GitLab team members is available on the [General & Entity Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) page, with specific information regarding general budgeting strategy, reimbursement requirements, and budget exceptions for tuition available in the [Growth and Development Benefit section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) of that page.  [Eligibility information](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#growth-and-development-benefit-eligibility) and directions on [how to apply](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits) for growth and development benefits can be found on the [Growth and Development Benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) page.  Be sure to review the [administration process for growth and development costs exceeding $1000](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#administration-of-growth-and-development-reimbursements-over-1000) before proceeding with payment as the [reimbursement process](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) and timing differs depending on category.
-
-##### Individual Contribution vs. Management
-
-```mermaid
-  graph LR;
-  subgraph Merit Based
-    sec:s(Intern, Security Engineering)-->sec:se(Security Engineer);
-    sec:se(Security Engineer)-->sec:sse(Senior Security Engineer);
-  end
-  subgraph Based on Merit and Company Need
-    sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
-    sec:stse(Staff Security Engineer)-->sec:pse(Principal Security Engineer);
-    sec:pse(Principal Security Engineer)-->sec:dse(Distinguished Security Engineer);
-    sec:sse(Senior Security Engineer)-->sec:sem(Manager, Security);
-    sec:sem(Manager, Security)-->sec:sms(Senior Manager, Security)
-    sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
-  end
-  click sec:s "{{< ref "/job-families/security/security-engineer#intern" >}}"
-  click sec:se "{{< ref "/job-families/security/security-engineer#intermediate-security-engineer" >}}";
-  click sec:sse "{{< ref "/job-families/security/security-engineer#senior-security-engineer" >}}";
-  click sec:stse "{{< ref "/job-families/security/security-engineer#staff-security-engineer" >}}";
-  click sec:pse "{{< ref "/job-families/security/security-engineer#principal-security-engineer" >}}";
-  click sec:dse "{{< ref "/job-families/security/security-engineer#distinguished-security-engineer" >}}";
-  click sec:sem "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";
-  click sec:sms "{{< ref "security-leadership#senior-manager-security" >}}";
-  click sec:ds "{{< ref "security-leadership#security-leadership-roles-at-gitlab" >}}";
-```
-
-#### Security Internship
-
-For information on the security internship, see the [Internship page]({{< ref "./internship" >}}).
-
-#### Security Shadow Program
-
-The Security Organization is piloting a fully immersive on-the-job cross-training program among our various sub-organizations and teams. Participants will get a true behind the scenes look at how the Security Organization protects, defends, and assures our customers and team members day in and day out.
-
-For more information, see the [Security Shadow Program]({{< ref "security-shadow" >}}) page.
-
-#### Security Gearing Ratios
-
-Gearing ratios related to the Security Department have been moved to a [separate page]({{< ref "gearing-ratios" >}}).
 
 -----
 
@@ -751,40 +652,8 @@ for GitLab EE.
 
 ### <i class="fas fa-book" style="color:rgb(110,73,203)" aria-hidden="true"></i> Resources
 
-#### Information Security Policies
 
-Information Security Policies are reviewed annually by the Director of Security Assurance. Significant policy changes are reviewed and approved by the code owners.
 
-- [GitLab Information Security Management System]({{< ref "ISMS" >}})
-- [GitLab Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
-- [GitLab Password Standards]({{< ref "password-standard" >}})
-- [Access Management Policy]({{< ref "access-management-policy" >}})
-- [Data Classification Standard]({{< ref "data-classification-standard" >}})
-- [GitLab Cryptography Standard]({{< ref "cryptographic-standard" >}})
-- [Penetration Testing Policy]({{< ref "penetration-testing-policy" >}})
-- [Audit Logging Policy]({{< ref "audit-logging-policy" >}})
-- [Security Ecosystem]({{< ref "ecosystem" >}})
-- [Security Maturity Models]({{< ref "maturity-models" >}})
-
-#### Information Security Policy Exception Management Process
-
-Information security considerations such as regulatory, compliance, confidentiality, integrity and availability requirements are most easily met when companies employ centrally supported or recommended industry standards. Whereas GitLab operates under [the principle of least privilege]({{< ref "access-management-policy#principle-of-least-privilege" >}}), we understand that centrally supported or recommended industry technologies are not always feasible for a specific job function or company need. Deviations from the aforementioned standard or recommended technologies is discouraged.  However, it may be considered provided that there is a reasonable, justifiable business and/or research case for an information security policy exception; resources are sufficient to properly implement and maintain the alternative technology; the process outlined in this and other related documents is followed and other policies and standards are upheld.
-
-In the event a team member requires a deviation from the standard course of business or otherwise allowed by policy, the Requestor must submit a [Policy Exception Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/exceptions/issues/new?issuable_template=exception_request) to the GitLab Security Compliance team, which contains, at a minimum, the following elements:
-
-- Team member Name and contact
-- Time period for the exception (deviations should not exceed 90 days unless the exception is related to a device exception, like using a Windows device)
-- The exception being requested, i.e. which policy or procedure is affected by the proposed deviation
-- Additional details as required by each template, to include evidence of security protections.
-
-Exception request approval requirements are documented within the issue template. The requester should tag the appropriate individuals who are required to provide an approval per the approval matrix.
-
-If the business wants to appeal an approval decision, such appeal will be sent to Legal at legal@gitlab.com. Legal will draft an opinion as to the proposed risks to the company if the deviation were to be granted. Legal’s opinion will be forwarded to the CEO and CFO for final disposition.
-
-Any deviation approval must:
-
-- Recommended compensating controls to reduce exposure and/or harm (i.e. admin rights to financially significant system may require audit logs and review of users activity within the system)
-- Be captured in writing
 
 #### Tools
 
@@ -824,10 +693,7 @@ our security automation initiatives.
     - [Print-CMYK](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/tree/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk)
     - and one [exclusively for stickers](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/blob/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk/pdf/sticker/gitlab-security-icon-diecut-sticker-3x2_78in.pdf).
 - [Security READMEs](/handbook/security/readmes/)
-
-#### Security Awards Program
-
-The Security Awards program is currently paused.
+- [Working in Security](/handbook/security/working-in-security.md)
 
 #### AI in Security Learning Group
 

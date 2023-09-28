@@ -16,7 +16,7 @@ These are the core responsibilities of the security governance discipline.
 
 ### Security policies and standards
 
-Keeping the organization on track and within established boundaries to ensure compliance with laws and regulations while maintaining GitLab's [Information Security Policies]({{< ref "/handbook/security#information-security-policies" >}}). Providing guidance, consistency and accountability to streamline internal processes and align with GitLab's values and mission.
+Keeping the organization on track and within established boundaries to ensure compliance with laws and regulations while maintaining GitLab's [Information Security Policies]({{< ref "/handbook/security/controlled-document-procedure" >}}). Providing guidance, consistency and accountability to streamline internal processes and align with GitLab's values and mission.
 
 #### Security handbook maintenance
 

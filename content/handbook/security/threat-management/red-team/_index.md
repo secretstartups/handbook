@@ -151,7 +151,7 @@ You can read more about this process in the ["deconfliction" section]({{< ref "r
 
 If the Red Team is ever asked *"Is this you?"* by someone other than the designated team members mentioned above, they will respond with the following text:
 
-> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process here: [{{< ref "/handbook/security#contact-gitlab-security" >}}]({{< ref "/handbook/security#contact-gitlab-security" >}}).
+> Thanks for your vigilance! Any suspicious activity should be treated as potentially malicious. If you'd like to contact security, you can follow the process [here]({{< ref "/handbook/security/security-operations/sirt/engaging-security-on-call" >}}).
 >
 > Red Team operations provide an opportunity to practice detecting and responding to real-world attacks, and revealing an operation early might mean we miss out on that opportunity. Because of this, we have a policy to neither confirm nor deny whether an activity belongs to us. You can read more about this policy here: [{{< ref ".#is-this-the-red-team" >}}]({{< ref ".#is-this-the-red-team" >}}).
 
