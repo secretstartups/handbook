@@ -49,7 +49,7 @@ Welcome to Learning and Development for the Finance Department at GitLab! The re
 
 ##### FP&A
 - [FP&A](https://handbook.gitlab.com/job-families/finance/finance-planning-and-analysis/)
-- [Data and Analytics](https://handbook.gitlab.com/job-families/finance/dir-data-and-analytics)
+- [Data and Analytics](https://handbook.gitlab.com/job-families/finance/data-and-insights-executive)
 - [VP Finance](https://handbook.gitlab.com/job-families/finance/vp-finance)
 
 ##### Data and Analytics
@@ -74,5 +74,3 @@ Welcome to Learning and Development for the Finance Department at GitLab! The re
 - [IT Operations System Engineer](https://handbook.gitlab.com/job-families/finance/it-operations-system-engineer)
 - [IT Systems Engineer](https://handbook.gitlab.com/job-families/finance/it-systems-engineer)
 - [IT Manager](https://handbook.gitlab.com/job-families/finance/manager-it)
-
-
