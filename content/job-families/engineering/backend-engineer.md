@@ -376,6 +376,29 @@ The configuration team works on GitLab's Application Control Panel, Infrastructu
 - Implement the appropriate monitoring and alerting on new and existing features owned by the team.
 - Help others adopt and use the configuration features.
 
+### Verify
+
+Verify backend engineers are primarily focused on improving the Continuous Integration (CI) experience. Verify Engineers should always have three goals in mind:
+
+1. Provide value to the user and communicate such with the product manager and engineering manager,
+1. Introduce features that work at scale and in untrusting environments,
+1. Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+
+#### Requirements
+
+- Experience with development tooling
+- Experience designing and building fault-tolerant systems or systems development
+- Experience building and scaling highly-available systems
+- In-depth experience with Ruby on Rails
+- Experience with distributed systems (nice-to-have)
+
+#### Responsibilities
+
+- Work with the Product Manager and Engineering Manager to carefully assess technical feasibility of feature requests
+- Deliver proof-of-concept proposals to help guide technical discussions
+- Identify ways to deliver complex technical projects in an iterative fashion
+- Take [ownership](https://about.gitlab.com/handbook/engineering/development/ops/verify/#mission) of what we build, focusing on stability and availability.
+
 ### CI/CD
 
 CI/CD Backend Engineers are primarily tasked with improving the Continuous Integration (CI)
