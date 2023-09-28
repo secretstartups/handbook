@@ -65,4 +65,4 @@ Use this **only** when you have already negotiated a specific situation with Cus
 
 ## Further Reading
 
-* [Support Operations workflow handbook page for gratis support](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/gratis_support/)
+- [Support Operations workflow handbook page for gratis support](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/gratis_support/)
