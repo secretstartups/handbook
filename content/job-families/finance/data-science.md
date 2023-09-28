@@ -20,7 +20,7 @@ Example Data Science projects include:
 - customer churn and uplift prediction
 - hypothesis testing and forecasting
 
-Data Scientists are a part of the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/dir-data-and-analytics/).
+Data Scientists are a part of the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) and report to the [Director/ Sr. Director, Data & Analytics](/job-families/finance/data-and-insights-executive/).
 
 ## Job Grades
 
@@ -85,7 +85,7 @@ The Senior Data Scientist is a [grade 7](https://about.gitlab.com/handbook/total
 The Senior Data Scientist has all of the responsibilities of an Intermediate Data Scientist, plus:
 
 - Improve predictive models with data from multiple sources
-- Automate feedback loops for algorithms/models in production  
+- Automate feedback loops for algorithms/models in production
 - Create repeatable processes and scalable data products
 - Influence functional teams and develop best practices across the organization
 - Review, scale, and enhance operationalized statistical models and algorithms

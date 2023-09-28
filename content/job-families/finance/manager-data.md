@@ -4,13 +4,13 @@ title: "Data Management"
 
 The Manager, Data is responsible for delivering trusted data and analytics results to help GitLab make better and faster decisions by creating, developing, and leading a [high-performance](https://about.gitlab.com/handbook/leadership/build-high-performing-teams/) Team and continually improving the Data Platform along the [Data Capability Model](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-capability-model).
 The Manager, Data possesses a broad range of people skills and technical skills across the Data domain, as well as business acumen required to establish trusted partnerships with people inside and outside of GitLab.
-The Manager, Data reports to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
+The Manager, Data reports to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
 
 ## Levels
 
 ### Manager, Data (Intermediate)
 
-The Manager, Data may report to the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) or to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
+The Manager, Data may report to the [Senior Manager, Data](https://about.gitlab.com/job-families/finance/manager-data/#senior-manager-data) or to the [Director/Senior Director, Data and Analytics](https://about.gitlab.com/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
 
 #### Job Grade
 
@@ -89,7 +89,7 @@ The Senior Manager, Data is a [grade 9](https://about.gitlab.com/handbook/total-
 
 ## Career Ladder
 
-The next step in the Data Management job family is to move to the [Director of Data](/job-families/finance/dir-data-and-analytics/) job family.
+The next step in the Data Management job family is to move to the [Director of Data](/job-families/finance/data-and-insights-executive/) job family.
 
 ## Hiring Process
 

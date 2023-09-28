@@ -147,7 +147,7 @@ Specializations within the Staff Analytics Engineer extend the Senior Analytics 
 
 ## Principal Analytics Engineer
 
-The Principal Analytics Engineer reports to the [Manager, Data](https://about.gitlab.com/job-families/finance/manager-data) or [Director, Data & Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
+The Principal Analytics Engineer reports to the [Manager, Data](https://about.gitlab.com/job-families/finance/manager-data) or [Director, Data & Analytics](https://about.gitlab.com/job-families/finance/data-and-insights-executive/#director-data-and-analytics).
 
 ### Principal Analytics Engineer Job Grade
 
