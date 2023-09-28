@@ -61,6 +61,8 @@ The partner user will be directed to a page that asks them to confirm the organi
 
 Our training programs are available primarily through the [GitLab Partner Portal](https://partners.gitlab.com/). There, you will find the accreditation courses and testing needed to meet your GitLab program requirements for sales, pre-sales, technical, and professional services training. Check out the [Channel Partner Training and Certifications](https://about.gitlab.com/handbook/resellers/training/) handbook page for additional information.
 
+Please review the different Accreditation requirements for Open Partner and Select Partner tracks.   
+
 
 #### Remitting payment to GitLab
 
@@ -110,7 +112,7 @@ To promote the growth and success of GitLab channels, manage channel conflict, a
 * Approved deal registrations have a standard 90-day expiration from the date of original approval. (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab.) GitLab collaborates with Partners holding the approved deal registration and is available to support Partners throughout the entire sales process.
 * In the event the engagement is dissolved, the GitLab Sales Rep will generally notify you by phone or email. GitLab will reconsider other deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab Sales Rep will typically initiate engagement with a reseller of the GitLab Sales Rep’s choosing.
 
-Only authorized Partners that have signed the GitLab Partner Program Agreement are able to register deals, earn program discounts, and transact with GitLab. Unauthorized Partners do not qualify. Additionally, at least one of the Partner’s employees must complete the Sales Core training for the Partner to qualify for deal registration and program discounts.
+Only authorized Partners that have signed the GitLab Partner Program Agreement are able to register deals, earn program discounts, and transact with GitLab. Unauthorized Partners do not qualify. Additionally, at least one of the Partner’s employees must complete the GitLab Foundations for Partners training for the Partner to qualify for deal registration and program discounts.
 
 
 ##### Deal Registration Instructions
