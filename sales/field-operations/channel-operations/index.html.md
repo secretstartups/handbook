@@ -689,7 +689,7 @@ Most partner-facing questions and changes to the Impartner (Partner Portal) syst
 ##  Program and Incentive Definitions
  
 - The GitLab Partner Program provides partners with set discounts based on their program status and whether or not there is an active deal registration.
-- At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
+- At least one partner employee must complete the GitLab Foundations for Partners training for the partner to qualify for deal registration and program discounts.
 - GitLab employees can access the [partner discount guidance here](https://docs.google.com/document/d/1qiT_2EsnL20c4w0hyZ_CGaJQIzj8CSCsHERoR80cwws/edit?usp=sharing)
 - Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com/).
  
