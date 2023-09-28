@@ -26,7 +26,7 @@ Continued program membership for existing Leading Organizations will be reviewed
 
 ## Why
 
-Open source is eating the world. The organizations that will stand out as leaders in the next decade are those who understand, embrace,and contribute to open source - building cultures where everyone can contribute.
+Open source is eating the world. The organizations that will stand out as leaders in the next decade are those who understand, embrace, and contribute to open source - building cultures where everyone can contribute.
 
 ### Increase Hiring and Retention
 
