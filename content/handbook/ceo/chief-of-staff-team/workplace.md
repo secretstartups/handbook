@@ -165,7 +165,9 @@ Top questions from suddenly or newly-remote companies
    <li>How do you <a href="https://about.gitlab.com/company/culture/all-remote/collaboration-and-whiteboarding/">collaborate and whiteboard</a> remotely?</li>
    </ol>
 </details>
+
 ### Key Points to Cover
+
 {: #foundational-presentation-areas}
 
 Regardless of the nuance in the request, here are the foundational areas that should be covered. Be sure to describe how GitLab implements these tactics using [low-context communication](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication), leaning on examples and detail such that a non-GitLab company can envision how such a tactic could be useful in their own organization.

@@ -101,14 +101,14 @@
     - name: Global Volunteer Month
       url: givelab-volunteer-initiatives
     - name: Hiring
-      url: https://about.gitlab.com/handbook/hiring/
+      url: /handbook/hiring
       links:
         - name: Greenhouse
-          url: https://about.gitlab.com/handbook/hiring/greenhouse/
+          url: greenhouse
         - name: Interviewing
-          url: https://about.gitlab.com/handbook/hiring/interviewing/
+          url: interviewing
         - name: Jobs FAQ
-          url: https://about.gitlab.com/handbook/hiring/candidate/faq/
+          url: candidate-faq
     - name: Inclusion & Diversity
       url: https://about.gitlab.com/company/culture/inclusion/
       links:
