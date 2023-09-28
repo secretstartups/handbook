@@ -86,25 +86,20 @@ The Staff IT Program Manager is a [grade 8](https://about.gitlab.com/handbook/t
 
 ### Staff IT Program Manager Responsibilities
 
-- Implements strategic decisions such as task prioritization, issue resolution, vendor coordination and testing & quality assurance.
-- Provides technical and functional knowledge to IT programs and projects that contribute to overall direction across teams.
+Extends the Senior IT Program Management responsibilities plus:
 - Understands and works on complex problems that requires a deep understanding of multiple sources of data to make a recommendation.
-- Exercises independent judgment in developing methods, techniques and evaluation criteria for obtaining results.
 - Leads others by sharing solutions and problem solving approaches with others.
 - Leverages business acumen, functional expertise and good judgement when evaluating possible outcomes.
 - Interacts with team members and other managers, in addition to suppliers, vendors and/or customers.
-- Collaborates with their team and other stakeholders within the IT Department to maintain a high bar for quality in a fast-paced, iterative environment.
-- Coaches team members on skills and behaviors aligned with GitLab Values.
-- Consistently demonstrates and educates other team members on GitLab remote work best practices.
 - Develop and execute strategic plans for IT programs aligned with the organization's goals and objectives.
-- Build and maintain strong relationships with stakeholders, including executives, customers, and team members, to ensure clear communication and alignment.
 - Identify, assess, and mitigate risks associated with IT programs and projects.
 - Implement quality control measures to ensure deliverables meet the required standards and specifications.
+- Coaches team members on skills and behaviors aligned with GitLab Values.
+- Consistently demonstrates and educates other team members on GitLab remote work best practices.
 
 ### Staff IT Program Manager Requirements
 
 - 5+ years of experience in IT program management or a related field. This experience should include successfully managing large and complex programs, overseeing multiple project teams, and delivering results.
-- Nice to have: Program Management certification, such as PgMP (Program Management Professional) or equivalent.
 - Advanced program and project management skills. The ideal candidate should be capable of managing highly complex programs, portfolios, and large-scale projects.
 - Strategic thinking skills and business acumen to align IT programs and projects with the organization's strategic goals and long-term vision.
 - Strong stakeholder management skills for managing relationships with executive leadership, sponsors, and key stakeholders.
@@ -116,12 +111,10 @@ The Principal, IT Program Management is a [grade 9](https://about.gitlab.com/ha
 
 ### Principal, IT Program Management Responsibilities
 
+Extends the Staff IT Program Management responsibilities plus:
 - Play a critical role in steering complex IT programs toward successful outcomes, ensuring that they align with the organization's strategic goals and deliver value.
 - Develop and articulate a clear and comprehensive program strategy aligned with the organization's long-term goals and vision.
 - Provide strong leadership and direction to program teams, ensuring alignment with the program's strategic objectives.
-- Foster a collaborative and results-driven culture within the program.
-- Develop and maintain strong relationships with stakeholders, addressing their concerns and ensuring their support for the program.
-- Implement corrective actions and solutions to keep programs on course.
 - Develop and manage budgets for IT programs, tracking expenses, and ensuring cost-effectiveness.
 - Mentor and develop program management staff, project managers, and team members.
 - Fosters decision making and problem solving aligned with GitLab Values.
@@ -129,10 +122,9 @@ The Principal, IT Program Management is a [grade 9](https://about.gitlab.com/ha
 
 ### Principal, IT Program Management Requirements
 
+Extends the Staff IT Program Manager requirements plus:
 - 10+ years of experience in IT program management or a related field. This experience should include successfully managing large and highly complex programs, overseeing multiple project teams, and delivering results.
 - Strong track record of leadership roles, including supervising and mentoring program and project managers, leading cross-functional teams, and managing senior stakeholders effectively.
-- Excel at making critical decisions that impact the program or project's success.
-- Nice to have: Program Management certification, such as PgMP (Program Management Professional) or equivalent.
 
 ## Manager, IT Program Management
 
