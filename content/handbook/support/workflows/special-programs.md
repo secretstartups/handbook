@@ -10,7 +10,9 @@ GitLab offers several programs to help introduce GitLab's most powerful features
 - [GitLab for Open Source](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/opensource-program/)
 - [GitLab for Startups](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/startups-program/)
 
-GitLab does not offer non-profit discounts or programs; however, users can apply to these community programs to receive Ultimate benefits if they meet the requirements. [The Community Programs team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
+[The Community Programs team](https://about.gitlab.com/handbook/marketing/developer-relations/community-programs/) is the DRI for these programs.
+
+For registered non-profit organizations, GitLab also offers discounts. Contact GitLab's [Environmental, Social, and Governance (ESG) team](https://about.gitlab.com/handbook/legal/ESG/#faq) for more information regarding this program.
 
 Use the relevant workflows below when you receive a ticket about [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/) or [GitLab for Startups](https://about.gitlab.com/solutions/startups/).
 
