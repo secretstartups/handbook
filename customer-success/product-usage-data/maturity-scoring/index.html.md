@@ -53,7 +53,7 @@ The threshold percentages are chosen by looking at how many customers fall into 
 This is an important part of validating the selected metrics, thresholds, weighting, and data integrity. The process entails calculating the score for at least 15-20 real accounts, specifically where we have a good understanding of their adoption of the given use case, which we can then share with the CSMs to confirm the resulting score. 
 <br>
 ### Operationalize in Gainsight
-Use Case Adoption metrics currently live in Gainsight, which is planned to change in the future as Gitlab continues to evaluate new BI tools, but for now, we currently calculate the Adoption score using the Adoption Use Case usage reports in Gainsight. This report contains normalized metrics (i.e. `CI Pipelines - L28D` / `Billable Users` = `CI Pipelines Utilization %`) which are currently calculated using Gainsight Rules Engine. 
+Use Case Adoption metrics currently live in Snowflake where they are calculated and then visualized in the Gainsight scorecard. There are corresponding reports within C360 that allow Gainsight users to conduct a deep dive into any specific use case for the purposes of supporting conversations with their customers to be able to advise on best practices and recommendations to improve adoption. 
 <br>
 ### Enablement
 The last piece is enabling CSMs to be able to calculate the score, formulate the customer-facing slide deck and be able to present the score in detail. This requires cross-functional partnership between CSMs, CSM Managers, Enablement and CSOps, where a CSM will usually lead the enablement sessions with a mock presentation, while CSOps handle Q&A and any follow-ups that may come out of those enablement sessions. 
@@ -104,8 +104,19 @@ The following metrics are used to determine a customer's Security Adoption Score
 - [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
 - Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's Security (DevSecOps) Metrics to export and calculate the Adoption score
 - [Value Statements](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/devsecops/#the-gitlab-solution)
-- Additional CSM Enablement - **Coming Soon!**
 - [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
+
+#### CS enablement 
+In this internal [enablement session](https://youtu.be/WrhUfVWa3BU), CS will walk you through: 
+- New changes introduced to the scoring rubric
+- Breakdown of newly added metrics
+- Process of building customer-facing slide decks
+- Examples of scoring four different types of customer scenarios
+
+
+<!-- blank line -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WrhUfVWa3BU?si=RwOKuhj9nEz275Vi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- blank line -->
 
 ### CD Adoption Scoring
 The following metrics are used to determine a customer's CD Adoption Score:
@@ -115,8 +126,13 @@ The following metrics are used to determine a customer's CD Adoption Score:
 [Adoption Guide Reference Link](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/cd/#adoption-guide)
 <br>
 
-#### Additional CSM enablement 
-In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a fellow CSM will walk you through:
+#### Resources
+- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
+- Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CD Metrics to export and calculate the Adoption score
+- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
+
+#### CS enablement 
+In this internal [enablement session](https://youtu.be/MQkIlvlsBUA), CS will walk you through:
 - How & Why we chose the CD Metrics
 - How thresholds are established
 - How to calculate and build a customer-ready presentation deck
@@ -126,11 +142,6 @@ In this (internal) [enablement session](https://youtu.be/MQkIlvlsBUA), CSOps & a
 <!-- blank line -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQkIlvlsBUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- blank line -->
-
-#### Resources
-- [Template Deck for Customer Conversations](https://docs.google.com/presentation/d/13IVtUCA8-S3Tjtcnk3y6eY-zEG6R5hmD3bSoKn3C-N8/edit?usp=sharing) (Internal Only)
-- Use the [Use Case Adoption Scorecard](https://gitlab.gainsightcloud.com/v1/ui/dashboard#/f18df482-a70f-4a8b-8c82-1f99538d777e) dashboard in Gainsight to view your customer's CD Metrics to export and calculate the Adoption score
-- [Use Case Adoption Scoring - Defined Metrics](https://docs.google.com/spreadsheets/d/1dJLQIwoQxSK6pJL-ZmbMK_VUBmY0INZPgVsWqsypHzI/edit?usp=sharing) (Internal Only)
 
 ### SCM Adoption Scoring
 The following metrics are used to determine a customer's SCM Adoption Score:
