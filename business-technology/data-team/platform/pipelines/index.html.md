@@ -260,6 +260,125 @@ to role transformer copy current grants;
 A [hardcoded SQL pipeline](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/gcs_external/src/container_registry.py) that queries directly from the external stage is used for filtering and loading data from an external GCS stage. Currently only used for [Container Registry Log data (issue linked)](https://gitlab.com/groups/gitlab-data/-/epics/579), which was too large to completely replicate into `RAW`. Currently [the DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/container_reg.py) runs SQL daily that creates a new table for each date partition, the business [has indicated](https://docs.google.com/document/d/1kwL3KGSmTbtKD7vliRbWOp1uY6gu6FLms6SPb4wXwA4/edit#heading=h.5kovd39dcksw) that this is unlikely to become a business critical data source.
 
 
+## Postgres_Pipeline (pgp) - Postgres Extractor <!-- analytics/extract/postgres_pipeline/README.md -->
+
+Data can be loaded from `postgres` into our data warehouse using `postgres_pipeline`.
+All tables uploaded using `pgp` will contain a metadata column called `_uploaded_at` so that it can be determined when the data was loaded.
+
+SCD (Slowly-Changing Dimensions):
+
+Slowly-Changing dimensions are handled pretty simply. Each time the code is run, it will create a full copy of that table in the data warehouse in an append-only fashion.
+
+* run `pgp` for SCD tables by invoking `python postgres_pipeline/main.py tap <manifest_path> --load_type scd`
+* This command will tell `pgp` to only extract and load tables that are considered slowly-changing dimensions, it will skip all other tables
+* A table is programmtically determined to be an SCD table if there is no `WHERE` clause in the raw query
+
+Incremental (used by Airflow for time-specific loading and backfilling):
+
+* run `pgp` for Incremental tables by invoking `python postgres_pipeline/main.py tap <manifest_path> --load_type incremental`
+* This command will tell `pgp` to only extract and load tables that are able to be incrementally loaded, it will skip all other tables in addition to incremental tables that need to be fully re-synced
+* A table is programmtically determined to be an incremental table if there is a `WHERE` clause in the raw query
+* The time increment to load is based on the `execution_date` that is passed in by airflow minus the increment (`hours` or `days` depending on the query) passed in as an environment variable
+
+Full sync (when a full-table backfill is required):
+
+* There are two conditions that would trigger a full sync: 1) The table doesn't exist in snowflake (it is a new table) or 2) The schema has changed (for instance a column was added or dropped or renamed even).
+* `pgp` will look at the max ID of the target table (the table in `Snowflake` the manifest describes) and backfill in chunks since. Note that this only works for tables that have some primary key. This is true for most tables at GitLab. We are not currently able to handle tables without a primary key.
+
+Test:
+
+* When a table has changed or is new (including SCD tables) `pgp` will try to load 1 million rows of that table to ensure that it can be loaded. This will catch the majority of data quality problems.
+
+Validation (data quality check):
+
+* _Documentation pending feature completion_
+
+#### pgp manifest definition:
+
+There are 5 mandatory sections and 2 optional sections in a `pgp` manifest.
+The 5 sections are as follows:
+
+1. `import_db`: the name of the database that is being imported from
+1. `import_query`: this is the `SELECT` query that is used to extract data from the database. They usually target a single table
+1. `export_schema`: this is the schema that the table lives in in the target database
+1. `export_table`: this is the name of the table that is being targeted for export by the query
+1. `export_table_primary_key`: this is the name of the column that is used as the primary key for the table. It is usually just `id`
+
+The 6th optional section is called `additional_filtering`.
+This field is used when you need to add an additional condition to the `import_query` that isn't related to incremental loading, for instance to filter some bad rows.
+
+The 7th optional section is called `advanced_metadata`. This is a boolean field with the default being false and the only accepted value being `true`.
+Adding this field requires a `drop` of the target table in `Snowflake` and a full re-sync. This field adds a `_task_instance` column to each upload so partitioning by Airflow runs is easier.
+
+<!-- sites/handbook/source/handbook/business-technology/data-team/platform/infrastructure/index.html.md -->
+#### Technical Details:
+
+The logical execution of data loading looks like the following:
+
+1. The manifest is parsed and the table is processed
+1. A check is done to see if the table exists or if the schema has changed
+1. Depending on the above, the data is either loaded into a `_TEMP_` table or directly into the existing table
+1. A query is run against the `postgres` DB, and a pointer is used to return chunks of the result-set
+1. This data is then written out to a tab-separated file in a GCS bucket (the bucket is named `postgres_pipeline` in the `gitlab-analysis` project). Each table only has one file that it continually overwrites. The GCS bucket is set to purge files that are more than 30 days old.
+1. A query is executed in Snowflake that triggers the loading of the file into the target table.
+1. The next table is processed...
+
+#### Tests
+
+Tests are run in CI using `pytest`. `Snowflake` access and `postgres` access are both required, as they rely on the actual data sources for end-to-end testing.
+
+### Development
+
+
+To add new tables or fields to be pulled by postgres pipeline, the manifest file for the specific source database will need to be changed.  These manifest files are in a folder [here](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline/manifests).  To add a new table, add an item to the `tables` list.  The `import_db` value should match the other items in that manifest.  The `import_query` is executed directly against the source target database.  Where possible, make the import query incremental by adding a `WHERE` clause such as:
+
+```sql
+WHERE updated_at BETWEEN '{EXECUTION_DATE}'::timestamp - interval '{HOURS} hours'
+AND '{EXECUTION_DATE}'::timestamp
+```
+
+The `export_schema` value should match the other items in the manifest.  The `export_table` value should match the name of the table being imported.  The `export_table_primary_key` should be set to the primary key of that specific table in the postgres database.  If the import query is not incremental, then add `advanced_metadata: true` which creates another column that differentiates when data was loaded.
+
+After the manifest changes are made, create a merge request using the `add_manifest_tables` template.  Then follow the instructions there.
+
+For further details on the technical implementation see the README [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/postgres_pipeline/README.md)
+
+### Internal Only Filtering
+
+There are some columns in the application data that are useful for internal operations, but also contain customer information. In order to ensure that customer information is not introduced to Snowflake, while still preserving our access to internal data, we create a secondary table entry in the manifest with the `_internal_only` suffix and use the `additional_filtering` parameter to restrict the rows to those within internal projects and groups.
+
+This is done by using any of the following keys in the `additional_filtering` parameter:
+
+* `INTERNAL_NAMESPACE_IDS`
+* `INTERNAL_PROJECT_IDS`
+* `INTERNAL_PROJECT_PATHS`
+* `INTERNAL_NAMESPACE_PATHS`
+* `INTERNAL_PATHS`
+
+as in
+
+```yaml
+  projects_internal_only:
+    additional_filtering: AND namespace_id in {INTERNAL_NAMESPACE_IDS}
+    dbt_snapshots: true
+    dbt_source_model: true
+    export_schema: 'gitlab_com'
+    export_table: 'projects_internal_only'
+```
+
+These IDs are generated from dbt seed files which we use to identify internal groups and projects. If a project or group needs to be included it needs to be added to one of these CSVs
+* [`internal_gitlab_namespaces.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/internal_gitlab_namespaces.csv)
+* [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv)
+* [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv)
+
+### Testing in Airflow
+
+When testing postgres pipeline (pgp) locally in Airflow, there are a few things to keep in mind:
+
+* Previously, a pool needed to be added manually to Airflow, but running `make init-airflow` will now automatically add all the pgp pools to Airflow.
+* Prior to triggering the DAG, the `clone_raw_postgres_pipeline` [CI pipeline](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#clone_raw_postgres_pipeline) will need to be run. This pipeline clones a schema `tap_postgres` into a Snowflake 'dev' database that the DAG will write the data to.
+
+
 ## Prometheus / Thanos (Periodic Queries)
 
 We have one solution in place for extracting data from our Thanos instance, which is managed my the Infrastructure team, into snowflake. There is a service set up in CI Pipeline that runs in `ops.gitlab.net` called [Periodic Quries](https://gitlab.com/gitlab-com/runbooks/blob/d3b03bd2aff20865ba0ae3f96c9d38e3209b4e15/periodic-thanos-queries/README.md) that queries thanos and loads json files into a [GCS Bucket with the same name](https://console.cloud.google.com/storage/browser/periodic-queries)
