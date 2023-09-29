@@ -21,6 +21,64 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/7462](https://gitlab.com/gro
 ### Important Upcoming Tentative Dates
 <%= partial("handbook/engineering/development/ops/project-plans/ci-catalog/project_dates.erb") %>
 
+### Week of October 2, 2023
+
+#### Goals:
+- [Frontend CI Catalog Details page work](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=popularity&state=opened&label_name%5B%5D=group%3A%3Apipeline%20authoring&label_name%5B%5D=Category%3AComponent%20Catalog&label_name%5B%5D=frontend&milestone_title=16.5&or%5Blabel_name%5D%5B%5D=workflow%3A%3Ain%20dev&or%5Blabel_name%5D%5B%5D=workflow%3A%3Ain%20review&first_page_size=20)
+- [Scanning components on release](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) and [adding release sort](https://gitlab.com/gitlab-org/gitlab/-/issues/408382)
+
+### Week of October 9, 2023
+
+#### Goals:
+- TBD 
+
+### Milestone 16.6 (October 17, 2023 - November 10, 2023)
+
+#### Goals:
+- TBD 
+
+### Milestone 16.7 (November 11, 2023 - December 15, 2023)
+
+#### Goals:
+- [ ] **Releasing Components to Beta**
+
+### Milestone 16.8 (December 16, 2023 - January 12, 2024) 
+
+#### Goals:
+- TBD 
+
+### Milestone 16.9 (January 13, 2024 - February 9, 2024)
+
+#### Goals:
+- [ ] **Release CI Steps - Experimental** - Product maturity [epics](https://gitlab.com/groups/gitlab-org/-/epics/11535) have been created to define scope.
+
+### Milestone 16.10 (February 10, 2024 - March 8, 2024)
+
+#### Goals:
+- [ ] **Releasing to Organization Catalog Beta** 
+
+### Milestone 16.11 (March 9, 2024 - April 12, 2024)
+
+#### Goals:
+- [ ] **Organization Catalog to GA** - Aligning with organization beta in `FY25Q1` [planning](https://docs.gitlab.com/ee/architecture/blueprints/organization/index.html#iteration-3-organization-mvc-beta-fy25q1).
+
+### Milestone 17.0 (April 13, 2024 - May 10, 2024)
+
+#### Goals:
+- [ ] **Work on breaking changes related to CI Catalog**
+
+### Milestone 17.1 (May 11, 2024 - June 14, 2024)
+
+#### Goals:
+- [ ] **Release CI Steps - Beta**
+
+### Milestone 17.5 (September 14, 2024 - October 11, 2024)
+
+#### Goals:
+- [ ] **Release CI Steps - GA**
+
+### Archive
+
 ### Week of September 25, 2023 (Milestone 16.5)
 
 #### Team Capacity:
@@ -28,111 +86,12 @@ Epic: [https://gitlab.com/groups/gitlab-org/-/epics/7462](https://gitlab.com/gro
 - 1 Frontend Engineer (Frédéric)
 
 #### Goals:
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/387632](https://gitlab.com/gitlab-org/gitlab/-/issues/387632) to add support for variables in`inputs:` syntax so when `expand_vars` is used, error is raised due to security reasons. ~workflow::in review
+- [x] [https://gitlab.com/gitlab-org/gitlab/-/issues/387632](https://gitlab.com/gitlab-org/gitlab/-/issues/387632) to add support for variables in`inputs:` syntax so when `expand_vars` is used, error is raised due to security reasons. ~workflow::in review
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/408382](https://gitlab.com/gitlab-org/gitlab/-/issues/408382) to add `released` sort to CI Catalog.
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/411438](https://gitlab.com/gitlab-org/gitlab/-/issues/411438) to support CI interpolation with arrays.
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/415413](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) to scan a catalog resource for components on release creation.
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/424962](https://gitlab.com/gitlab-org/gitlab/-/issues/424962) to put the current right side column in the Catalog header. - ~workflow::in review
 - [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/424966](https://gitlab.com/gitlab-org/gitlab/-/issues/424966) to add the README tab with the current content.
-
-### Week of October 2, 2023 (Milestone 16.5)
-
-#### Team Capacity:
-- 3.5 Backend Engineers (Leaminn, Avielle, Laura, 1/2 Kasia)
-- 1 Frontend Engineer (Frédéric)
-
-#### Goals:
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/424967](https://gitlab.com/gitlab-org/gitlab/-/issues/424967) to add the new tab "components" and make it the default
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/399199](https://gitlab.com/gitlab-org/gitlab/-/issues/399199) to create project template for CI components.
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/416292](https://gitlab.com/gitlab-org/gitlab/-/issues/416292) for updating the state on existing catalog resources.
-
-### Week of October 9, 2023 (Milestone 16.5)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Releasing inputs to GA** - Per this [discussion](https://gitlab.com/groups/gitlab-org/-/epics/10603#note_1564626514), the completion of [https://gitlab.com/gitlab-org/gitlab/-/issues/387632](https://gitlab.com/gitlab-org/gitlab/-/issues/387632) will initiate an announcement of inputs as GA-ready.
-
-### Milestone 16.6 (October 17, 2023 - November 10, 2023)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/424481](https://gitlab.com/gitlab-org/gitlab/-/issues/424481) for supporting inputs with !reference 
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/407176](https://gitlab.com/gitlab-org/gitlab/-/issues/407176) for CI interpolation with arrays 
-- [ ] [https://gitlab.com/gitlab-org/gitlab/-/issues/393401](https://gitlab.com/gitlab-org/gitlab/-/issues/393401) for supporting `options:` with inputs defining `default:` value
-
-### Milestone 16.7 (November 11, 2023 - December 15, 2023)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Releasing Components to Beta** - As noted in this [discussion](https://gitlab.com/gitlab-org/gitlab/-/issues/423844#note_1558214362), upon the completion of the work in [https://gitlab.com/groups/gitlab-org/-/epics/10728](https://gitlab.com/groups/gitlab-org/-/epics/10728), that will signify moving components to Beta-ready.
-
-### Milestone 16.8 (December 16, 2023 - January 12, 2024) 
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] 
-
-### Milestone 16.9 (January 13, 2024 - February 9, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Release CI Steps - Experimental** - Product maturity [epics](https://gitlab.com/groups/gitlab-org/-/epics/11535) have been created to define scope.  Proposals/POCs are currently being discussed by engineering leadership.
-- [ ] Additional timelines for CI Steps will be updated in the product direction page via [https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/129506](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/129506) once timelines have been confirmed.
-- [ ] **NOTE:** Based on the Runner [proposal](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/36529), a GitLab Steps [POC](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/36530) was created in `16.5`.  
-
-### Milestone 16.10 (February 10, 2024 - March 8, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Releasing to Beta** 
-- [ ] Additional engineering work for [instrumentation](https://gitlab.com/groups/gitlab-org/-/epics/10120) and [search/filtering](https://gitlab.com/groups/gitlab-org/-/epics/10918) to be completed for Beta.
-
-### Milestone 16.11 (March 9, 2024 - April 12, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Organization Catalog to GA** - Aligning with organization beta in `FY25Q1` [planning](https://docs.gitlab.com/ee/architecture/blueprints/organization/index.html#iteration-3-organization-mvc-beta-fy25q1).
-- [ ] **Completion of CI Steps**
-
-### Milestone 17.0 (April 13, 2024 - May 10, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Work on breaking changes related to CI Catalog**
-
-### Milestone 17.1 (May 11, 2024 - June 14, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Release CI Steps - Beta**
-
-### Milestone 17.5 (September 14, 2024 - October 11, 2024)
-
-#### Team Capacity:
-- TBD
-
-#### Goals:
-- [ ] **Release CI Steps - GA**
-
-### Archive
 
 ### Week of September 18, 2023 (first week of Milestone 16.5)
 
