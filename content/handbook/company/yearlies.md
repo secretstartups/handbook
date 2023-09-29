@@ -67,3 +67,5 @@ FY24 Yearlies and additional detail can be found by searching for the "FY24 Year
     1. Reduce regrettable turnover by 0.6%
     1. Aspirational goal: increase our URG population by 2% and female population by 3%, increase leadership
     1. Increase graduates from the Elevate program from 10% to 85% of our people managers
+
+{{% include "includes/take-gitlab-for-a-spin.md" %}}

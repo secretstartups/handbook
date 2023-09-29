@@ -253,3 +253,5 @@ Kickoff LRO with inputs from this process
 Our strategy is completely public because transparency is one of our [values](/handbook/values/).
 We're not afraid of sharing our strategy because, as Peter Drucker said,
 "Strategy is a commodity, execution is an art."
+
+{{% include "includes/take-gitlab-for-a-spin.md" %}}

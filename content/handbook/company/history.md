@@ -163,3 +163,5 @@ GitLab's [six core values](/handbook/values/) are 🤝 Collaboration, 📈 Resul
 "Most of the time when a company starts commercializing the open source community, the wider community, fades away into the background. We want to prevent that. We want people to feel empowered."
 
 {{< youtube "HJhlL6Oozq8" >}}
+
+{{% include "includes/take-gitlab-for-a-spin.md" %}}
