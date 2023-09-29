@@ -24,7 +24,8 @@ The Create stage helps teams accelerate software delivery and reduce cycle times
 - [Alex Fracazo](/company/team/#afracazo): Code Review Workflow - Automation & Integration
 - [Matt Nearents](/company/team/#mnearents): Code Review Workflow - Collaboration
 - [Michael Le](/company/team/#mle): Source Code
-- [Amy Qualls](/company/team/#aqualls): Tech writing, Source Code, Code Review
+- [Amy Qualls](/company/team/#aqualls): Tech writing, Code Review, Editor Extensions
+- [Marcin Sędłak-Jakubowski](/company/team/#msedlakjakubowski): Tech writing, Source Code
 - [Ashraf Khamis](/company/team/#ashrafkhamis): Tech writing, Editor
 - [Ben Leduc-Mills](/company/team/#leducmills): UX Research
 - [Andy Volpe](/company/team/#andyvolpe): Product Design Manager
@@ -51,15 +52,15 @@ Developers often face the obstacle of setting up their local development environ
 
 #### Strategic priorities
 
-| Theme | Objective | 
-| --- | --- | 
+| Theme | Objective |
+| --- | --- |
 | [**Remote Development**](https://gitlab.com/groups/gitlab-org/-/epics/9881) | Streamline development by eliminating the need for users to configure and maintain their local environment. |
 |  [**WebIDE**](https://gitlab.com/groups/gitlab-org/-/epics/7683) | Make it simple for all users to contribute changes to any repository and bring editing capabilities into the context of their current task. |
 
 Teams working closely with Editor:
 
 - [Configure](/handbook/product/categories/#configure-stage)
-- [Secure](/handbook/product/categories/#secure-stage) 
+- [Secure](/handbook/product/categories/#secure-stage)
 
 ### Code Review Workflow
 
@@ -71,18 +72,18 @@ Code Review is an essential activity of software development. It ensures that co
 
 #### Strategic priorities
 
-| Theme | Objective | DRI | 
-| --- | --- | --- | 
-| [**MR Restructure**](https://gitlab.com/groups/gitlab-org/-/epics/5038) | Enhance the code review experience for Authors and Reviewers by reorganizing relevant information critical to the review process. | Matt Nearents, Pedro Moreira de Silva | 
-| [**Review Rounds**](https://gitlab.com/groups/gitlab-org/-/epics/9577) | Increase collaboration and efficiency during code review by providing users with a structured approach to requesting reviews and providing feedback during a review. | Alex Fracazo | 
+| Theme | Objective | DRI |
+| --- | --- | --- |
+| [**MR Restructure**](https://gitlab.com/groups/gitlab-org/-/epics/5038) | Enhance the code review experience for Authors and Reviewers by reorganizing relevant information critical to the review process. | Matt Nearents, Pedro Moreira de Silva |
+| [**Review Rounds**](https://gitlab.com/groups/gitlab-org/-/epics/9577) | Increase collaboration and efficiency during code review by providing users with a structured approach to requesting reviews and providing feedback during a review. | Alex Fracazo |
 
 #### Separation of duties
 
 ##### Code Review Workflow: **Automation & Integration**
 
-DRI: **Alex Fracazo** 
+DRI: **Alex Fracazo**
 
-The code review experience in GitLab involves automation, integration, and security to ensure that code changes are thoroughly tested, reviewed, and secure before they are merged. 
+The code review experience in GitLab involves automation, integration, and security to ensure that code changes are thoroughly tested, reviewed, and secure before they are merged.
 
 - **Automation** involves continuous integration, review apps, code quality, and notifications to streamline the code review process.
 - **Integration** allows teams to connect different tools and services to GitLab for a seamless experience, including security features such as static and dynamic application security testing, container scanning, security approvals, and access control, helping ensure that code changes are secure and meet industry standards.
@@ -98,9 +99,9 @@ Teams working closely with Code Review: Automation & Integration
 
 ##### Code Review Workflow: **Collaboration**
 
-DRI: **Matt Nearents** 
+DRI: **Matt Nearents**
 
-**Collaboration** is an essential aspect of the code review experience. This area includes comments and discussions, mentions and notifications, code review approvals, assignees and reviewers, and merge requests checklists. These features enable team members to work together effectively during the code review process, share feedback and suggestions, and ensure that everyone is aligned and nothing is missed. 
+**Collaboration** is an essential aspect of the code review experience. This area includes comments and discussions, mentions and notifications, code review approvals, assignees and reviewers, and merge requests checklists. These features enable team members to work together effectively during the code review process, share feedback and suggestions, and ensure that everyone is aligned and nothing is missed.
 
 Teams working closely with Code Review: Collaboration
 
@@ -115,8 +116,8 @@ Building great software depends on teams working well together. Teams can rarely
 
 #### Strategic priorities
 
-| Theme | Objective | 
-| --- | --- | 
+| Theme | Objective |
+| --- | --- |
 | [**Branch rules improvements**](https://gitlab.com/gitlab-org/gitlab/-/issues/358209) | Make it easier for users to understand the impacts of new and existing branch rules. |
 
 Teams working closely with Source code:
@@ -130,6 +131,6 @@ Teams working closely with Source code:
 Tech writers in Create are very busy due to multiple factors. However, it is still important to collaborate with them and solicit their feedback on UI text. We ask you to follow these guidelines to make sure our teams are operating as efficiently as possible:
 
 1. **UI Text to be reviewed should be in a comment**. Mocks are useful for showing context and are encouraged, but we also ask that you paste your text into a comment and `@mention` the assigned tech writer. This way, they can copy the text of the message rather than have to rewrite it.
-2. **Communicate the intent of your UI text** when asking for feedback from Tech Writing. By answering these questions, you will avoid any potential back and forth in the issue: 
-    - What is the task the user is trying to achieve when they encounter this messaging? 
+2. **Communicate the intent of your UI text** when asking for feedback from Tech Writing. By answering these questions, you will avoid any potential back and forth in the issue:
+    - What is the task the user is trying to achieve when they encounter this messaging?
     - What is the problem you are trying to solve with this messaging?
