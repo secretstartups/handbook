@@ -18,10 +18,6 @@
 
 <style>
 @media screen and (max-device-width:640px), screen and (max-width:640px) {
-    .marketing-footer {
-        width: 100% !important;
-    }
-    
     .mimg {
         width: 100% !important;
     }
@@ -44,11 +40,13 @@
 }
 
 .marketing-footer {
+    width: 100% !important;
     margin-top: 4em;
     width: 70%;
 }
 
 .go-for-a-spin {
+    width: 60%;
     border-right: 3px solid #000;
     margin-right: 2em;
     padding-right: 2em;

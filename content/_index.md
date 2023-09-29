@@ -32,5 +32,8 @@ title: The GitLab Handbook
     .td-box--dark > .col > .row > hr {
         display: none;
     }
+    .td-box--dark > .col > .row > p {
+        display: none;
+    }
 </style>
 {{< /blocks/section >}}

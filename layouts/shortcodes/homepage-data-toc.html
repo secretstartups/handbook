@@ -25,6 +25,10 @@
     a {
         color: #6e49cb;
     }
+    
+    sup {
+        font-size: 0.6em;
+    }
 </style>
 <section id="td-block-1" class="td-box td-box--white td-box--height-auto">
 
@@ -47,9 +51,12 @@
 {{ $dojoin := false }}
 {{ end }}
         <div class="card-header">
-            <a href="{{ .url }}">
-                <h3><i class="{{ .icon }}"></i> {{ .name }}</h3>
-            </a>
+            {{ $section_url := urls.Parse .url }}
+            {{ if not $section_url.IsAbs }}
+                <a href="{{ relref $.Page .url }}"><h3><i class="{{ .icon }}"></i>{{ .name }}</h3></a>
+            {{ else }}
+            <a href="{{ .url }}"><h3><i class="{{ .icon }}"></i>{{ .name }} <sup><i class="fa-solid fa-up-right-from-square"></i></sup></h3></a>
+            {{ end }}
         </div>
         <div class="card-body">
             <div class="list-group">
@@ -59,7 +66,7 @@
                 {{ if not $u.IsAbs }}
                     <a href="{{ relref $.Page .url }}" class="list-group-item list-group-item-action">{{.name}}</a>
                 {{ else }}
-                <a href="{{ $url }}" class="list-group-item list-group-item-action">{{.name}}</a>
+                <a href="{{ $url }}" class="list-group-item list-group-item-action">{{.name}} <sup><i class="fa-solid fa-up-right-from-square"></i></sup></a>
                 {{ end }}
                 {{ end }}
             </div>
