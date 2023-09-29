@@ -244,16 +244,17 @@ graph TD;
 
 **TL;DR: Assign the [`Next 1-3 releases` milestone](https://gitlab.com/groups/gitlab-org/-/milestones/48#tab-issues) milestone to all issues that should be refined and prioritized in the next Pre-IPM meeting(s).**
 
-1. When we do high-level long-term initial planning such as this, all higher-priority issues, which should be [contained in the category epic or one of its sub-epics](https://gitlab.com/groups/gitlab-org/-/epics/7419), will be assigned to the **[`Next 1-3 releases` milestone](https://gitlab.com/groups/gitlab-org/-/milestones/48#tab-issues)**.
-1. All higher-priority issues we create in the future should also be assigned to the `Next 1-3 releases` milestone.
+1. All higher-priority issues should be [contained in the category epic or one of its sub-epics](https://gitlab.com/groups/gitlab-org/-/epics/7419)
+1. They should all have the `~rd-workflow::unprioritized` label assigned.
+1. All higher-priority issues should be assigned to the **[`Next 1-3 releases` milestone](https://gitlab.com/groups/gitlab-org/-/milestones/48#tab-issues)**.
+1. Issues which are not a priority to finish within the `%"Next 1-3 releases"` may have the `%"Next 4-7 releases"` or `%"Next 7-13 releases"` release applied, or alternately, they can be assigned to `%Backlog` or `%Awaiting Further Demand`.
+1. Issues in `~rd-workflow::unprioritized` MUST NOT be left without a release applied. This should be enforced by automation. Use [this issue search to identify Remote Development issues which are missing a milestone](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_asc&state=opened&label_name%5B%5D=Category%3ARemote%20Development&milestone_title=None&first_page_size=100)
 
 **Explanation:**
 
 This process identifies and validates higher-priority issues to be worked on in the upcoming releases. It is analogous to the [Validation Track in the GitLab Product Flow](https://about.gitlab.com/handbook/product-development-flow/#validation-track), and should consist of many of the same steps and processes.
 
 In addition to validating features, this process can also result in Engineering identifying high-priority issue which are necessary to [address Technical Debt or "Friction"](https://www.mechanical-orchard.com/post/friction-over-debt?utm_campaign=Boost_friction_debt).
-
-Issues which are not a priority to finish within the `%"Next 1-3 releases"` may have the `%"Next 4-7 releases"` or `%"Next 7-13 releases"` release applied, or alternately, they can be assigned to `%Backlog`, `Awaiting Further Demand`, or left without a release applied.
 
 There may be concerns about over-committing too many issues to the `%"Next 1-3 releases"` release. However:
 
@@ -268,24 +269,24 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
 **TL;DR:** 
 
 - **Async phase - Refinement: Divide up the work to refine each `rd-workflow::unprioritized` issue which has the `%"Next 1-3 releases"` milestone using the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md), then apply the `refined` label.**
-- **Sync phase - Prioritization: Product and Engineering leaders meet to prioritize each `refined` issue into the `rd-workflow::prioritized` label.**
+- **Sync phase - Prioritization: Product and Engineering leaders meet to appropriately prioritize each `refined` issue into the `rd-workflow::prioritized` lane on the Iteration Planning board.**
 
 ##### Async Phase of Pre-IPM Process - Refinement
 
 1. Identify all issues which:
-   1. Have the `~"Category:Remote Development"` **AND**
    1. Have the `~"rd-workflow::unprioritized"` **AND**
    1. Have the `%"Next 1-3 releases"` milestone applied (optionally include additional milestones for next `3-4`/`4-7` releases, if these are being used) **AND**
    1. Do **NOT** yet have the `~refined` label
-1. This can be done either by:
-    1. Doing a [direct issue search](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=Category%3ARemote%20Development&label_name%5B%5D=rd-workflow%3A%3Aunprioritized&not%5Blabel_name%5D%5B%5D=refined&milestone_title=Next%201-3%20releases&milestone_title=Next%203-4%20releases&milestone_title=Next%204-7%20releases&first_page_size=100)
-    1. Using the Iteration Planning board by _temporarily_ applying `Label=~refined` and `Milestone=%"Next 1-3 releases"` to the board filters. _Make sure you don't save this filter to the defualt board settings_
-1. Assign each of these issues to an appropriate team member to be refined. This process can be whatever works for the team, but
-   in general issues should be refined by someone who has the knowledge and availability to refine them properly and promptly.
-   If there are questions, ask for help or reassign it to someone else.
+   1. Do **NOT** have the `~needs-milestone` label
+1. This can be done vie this [direct issue search](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_asc&state=opened&label_name%5B%5D=rd-workflow%3A%3Aunprioritized&milestone_title=Next%201-3%20releases&not%5Blabel_name%5D%5B%5D=refined&not%5Blabel_name%5D%5B%5D=needs-milestone&first_page_size=100)
+1. Assign each of these issues to an appropriate team member to be refined, and leave a comment on the issue mentioning the team member and linking to
+   [Async Phase of Pre-IPM Process - Refinement](#async-phase-of-pre-ipm-process---refinement)
+   This selection process can be whatever works for the team, but in general issues should be refined by someone who has the knowledge and availability
+   to refine them properly and promptly. If there are questions, ask for help or reassign it to someone else.
 1. The assignee should use the [Remote Development issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Remote%20Development%20Group%20-%20issue.md) to refine the issue. The refinement should ensure
    that the description of each prioritized issue is complete, and contains enough information for the team to review, understand
-   and estimate it during the next IPM, in less than 5-10 minutes, without extensive debate/discussion. 
+   and estimate it during the next IPM, in less than 5-10 minutes, without extensive debate/discussion.
+1. There should be no `TODO:` comments left in the description from the template once refinement is complete. If a section is not applicable, delete it.
 1. If the refinement uncovers additional scope/complexity, the issue should be broken down into smaller issues, which
    are then refined individually. Optionally, an epic may be created to organize the work across multiple issues.
 
@@ -295,11 +296,13 @@ See the [following discussion thread](https://gitlab.com/gitlab-org/create-stage
    so that only refined issues appear in the `~"rd-workflow::unprioritized"` list. _Make sure you don't save this filter to the defualt board settings_
 1. The goal of each Pre-IPM sync meeting will be to prioritize all of these issues into the `~"rd-workflow::prioritized"` list, based on their
    relative importance, whether they are blocking other issues, etc. They are prioritized by dragging them into the appropriate order in the `~"rd-workflow::prioritized"` list, with the highest-priority issues being at the top, and the lowest-priority issues being at the bottom.
-1. After an issue has been moved to the `~"rd-workflow::prioritized"` list, it should be assigned to the current `Iteration` of the `Iteration Cadence`. 
+1. After an issue has been moved to the `~"rd-workflow::prioritized"` list, it should be assigned to the **current `Iteration` of the `Iteration Cadence`**.
    We will eventually create an automation for this, but for now it must be done manually. The easiest way to do this is to search for `RD` in the `Iteration` field,
    and pick the top-most iteration. Then, the `Iteration Cadence` feature functionality will handle automatically rolling over any incomplete issues to the next
-   iteration once the current iteration ends. Note that this only applies to `Done` iterations - for future iterations, we use the chrome extension to 
-   automatically split the actual current iteration in the database into multiple future "virtual" iterations based on velocity.
+   iteration once the current iteration ends. Do _NOT_ assign it to a future iteration, only the current iteration. We do this because of limitations in the
+   GitLab Iteration feature which are incompatible with this process, and instead we rely on the
+   [GitLab Velocity Board Chrome Extension](#gitlab-velocity-board-chrome-extension) to automatically split the actual current iteration
+   in the database into multiple future "virtual" iterations based on dynamic velocity calculations.
 
 **Explanation:**
 
@@ -545,6 +548,28 @@ We have the following automation goals for the Remote Development Workflow. Unle
 
 ---
 
+**Goal:** Ensure all prioritized issues have a milestone assigned
+
+**Automation:**
+- All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. (TODO: implement)
+
+---
+
+**Goal:** Ensure all issues with `~rd-workflow-unprioritized` have a milestone assigned
+
+**Automation:**
+- All issues with `~rd-workflow::unprioritized` but no milestone should have: (TODO: implement)
+  - `~needs-milestone` label applied
+  - along with a comment with a link to the [1. High level validation and planning section][#1-high-level-validation-and-planning], and instructions that
+    one of the following milestones must be assigned to all issues in `~rd-workflow::unprioritized`:
+   - `%"Next 1-3 releases"`
+   - `%"Next 4-7 releases"`
+   - `%"Next 7-13 releases"` 
+   - `%Backlog`
+   - `%Awaiting further demand`
+
+---
+
 **Goal:** Apply correct ~rd-workflow label to reopened issues
 
 **Automation:**
@@ -569,19 +594,11 @@ We have the following automation goals for the Remote Development Workflow. Unle
 
 ---
 
-**Goal:** Ensure all prioritized issues have a milestone assigned
-
-**Automation:**
-- All issues with `~rd-workflow::prioritized` but no milestone should have `%"Next 1-3 releases"` milestone assigned. (TODO: implement)
-
----
-
 **Goal:** Ensure all prioritized issues with an assignee have a weight assigned
 
 **Automation:**
 - All issues with `~rd-workflow::prioritized` and an assignee but no weight should get a reminder note to either add a weight estimate or remove the assignee. (TODO: implement)
 
----
 
 <!-- LINKS START -->
 
