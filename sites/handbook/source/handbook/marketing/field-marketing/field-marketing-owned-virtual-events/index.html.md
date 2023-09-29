@@ -547,7 +547,7 @@ There are certain occassions when a workshop needs to urgently be rescheduled du
 
 ### Rescheduling a Workshop or Webcast
 
-PLEASE NOTE: The below instructions are only for virtual workshops. If you are rescheduling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general rescheduling instructions `[here](TBD)`.
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are rescheduling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general rescheduling instructions [here](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
 
 #### FMM Tasks
 
@@ -579,7 +579,7 @@ PLEASE NOTE: The below instructions are only for virtual workshops. If you are r
 
 ## Canceling a Workshop or Webcast
 
-PLEASE NOTE: The below instructions are only for virtual workshops. If you are canceling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general cancelation instructions `[here](TBD)`.
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are canceling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general cancelation instructions [here](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events).
 
 ### FMM Tasks
 
