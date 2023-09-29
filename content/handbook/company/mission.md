@@ -109,3 +109,4 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](https://about.gitlab.com/handbook/leadership/mitigating-concerns/).
 
+{{% include "includes/take-gitlab-for-a-spin.md" %}}

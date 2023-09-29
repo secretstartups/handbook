@@ -6,7 +6,7 @@
 		{{ if not $u.IsAbs }}
 			<li><a href="{{ relref $.Page .url }}">{{.name}}</a></li>
 		{{ else }}
-		<li><a href="{{ $url }}">{{.name}}</a></li>
+		<li><a href="{{ $url }}">{{.name}} <sup><i class="fa-solid fa-up-right-from-square"></i></sup></a></li>
 		{{ end }}
 		{{ template "sublinks" (dict "links" .links "page" $.Page) }}
 	</ul>
@@ -20,11 +20,17 @@
 	{{ $u := urls.Parse .url }}
 	{{ $url := .url }}
 	{{ if not $u.IsAbs }}
-		<li><a href="{{ relref $page .url }}">{{.name}}</a></li>
+		<li><a href="{{ relref $page .url }}">{{.name}}</a></a></li>
 	{{ else }}
-	<li><a href="{{ $url }}">{{.name}}</a></li>
+	<li><a href="{{ $url }}">{{.name}}  <sup><i class="fa-solid fa-up-right-from-square"></i></sup></a></a></li>
 	{{ end }}
 	{{ template "sublinks" (dict "links" .links "page" $page) }}
 	{{ end }}
 </ul>
 {{ end }}
+
+<style>
+	sup {
+		font-size: 0.6em;
+	}
+</style>

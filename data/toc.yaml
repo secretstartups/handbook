@@ -12,7 +12,7 @@
     - name: Mission
       url: mission
     - name: Vision
-      url: https://about.gitlab.com/company/vision/
+      url: vision
     - name: Strategy
       url: strategy
     - name: Communication

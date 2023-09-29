@@ -230,3 +230,5 @@ gantt
     American Thanksgiving           :11-20, 9d
     Christmas and New Year Celebrations          :12-23, 9d
 ```
+
+{{% include "includes/take-gitlab-for-a-spin.md" %}}

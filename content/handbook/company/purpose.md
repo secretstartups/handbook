@@ -129,3 +129,4 @@ Additional Purposes resources:
 1. [Creating a Meaningful Corporate Purpose](https://docs.google.com/document/d/1mXYu-Wf5lzcRC7yknSKCKpdgXx3DEO-E/edit)
 1. [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://www.amazon.com/Find-Your-Why-Practical-Discovering/dp/0143111728)
 
+{{% include "includes/take-gitlab-for-a-spin.md" %}}

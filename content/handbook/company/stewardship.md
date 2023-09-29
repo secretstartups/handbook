@@ -175,3 +175,5 @@ Shipping as much open source as possible is critical to our [business model](#bu
 GitLab is a single application for the entire DevOps lifecycle. By [freely providing](https://about.gitlab.com/solutions/open-source/join/) the top tier of GitLab to [open source projects](https://about.gitlab.com/solutions/open-source/projects/), we are enabling them to be more efficient, secure, and productive.
 
 The combination of the above leads to global optimization on a much larger scale than anything we could contribute with a small portion of our time working on things that don't directly move our vision forward.
+
+{{% include "includes/take-gitlab-for-a-spin.md" %}}
