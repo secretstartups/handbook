@@ -729,7 +729,7 @@ This video covers:
 - For **functionality** related questions, the **Accounts Payable Team** should be the first point of contact for any questions related to how to use the Navan Expense platform and expenses related questions.
 - For **technical** related questions, the **Finance System Admins** should be the first point of contact for any technical issues and / or questions (eg. Access Requests, problems with login, bugs, etc).
 
-To contact the Accounts Payable Team or Finance System Admins, send a message to [#navan-expense-faq](https://gitlab.slack.com/archives/C04FCJTM606) with your question.
+To contact the Accounts Payable Team or Finance System Admins, send a message to [#expense-reporting-inquiries](https://gitlab.slack.com/archives/C012ALM8P29) with your question.
 {: .alert .alert-info}
 
 
