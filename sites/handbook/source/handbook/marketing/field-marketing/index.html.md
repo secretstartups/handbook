@@ -292,26 +292,62 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 ### Plan to WIP video walk through
 [Plan to WIP Video](https://youtu.be/7l59sm_5aD4) - You must be logged into GitLab Unfiltered to view.
 
-# Rescheduling or Cancelling Events
+# Rescheduling or Canceling Events
 
-## [Marketing Calendar](/handbook/marketing/#marketing-calendar)
+## Rescheduling or Canceling a Webast or Virtual Workshop
 
-When an event is rescheduled or cancelled, the FMC is responsible for updating the [Marketing Calendar](https://docs.google.com/spreadsheets/d/1ni6gKeWhjtrNppMdYvPESsCRjDbfVdYjTNtUtcNBFGg/edit#gid=571560493).
-- For a reschedued event, the FMC will update the start and end dates in columns A & B.
-- For a cancelled event, the FMC will select the event line item and add a strikethrough to indicate the event has been cancelled or simply delete the line item. 
-- Ensure the SFDC campaign has been marked `aborted` 
+Please note that the process for rescheduling or canceling a webcast or virtual workshop involves additional steps. For details regarding these instructions, please see below.
 
-## Rescheduling or Cancelling a Self-Service Event
+Please see process [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-workshop-or-webcast) for rescheduling and [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#canceling-a-workshop-or-webcast) for canceling.
 
-Please see process [here](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion) for rescheduling and [here](/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion) for cancelling.
+For all other event types (including in-person workshops), please see instructions below.
 
-## Rescheduling or Cancelling a Webast or Workshop
+## Rescheduling Events
 
-Please see process [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast) for rescheduling and [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#cancelling-a-webcast) for cancelling.
+### FMM Tasks
 
-## Rescheduling or Cancelling a Sponsored Virtual Event
+- FMM to update the new date(s) in the Allocadia sub-category and adjust the forecasted amount (if over the prepaid $5k threshold and if the new date falls in a new month).
+- FMM to obtain an addendum/updated contract from the venue with the new date(s) (if applicable). The FMM will then re-open the original contract request and ping the FMC with new date(s) and addendum/updated contract.
+- FMM to update the date with any additional vendors (such as Boundless, PizzaTime, etc.).
+- FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the updated date(s).
+- If utilizing their personal Zoom for the event, FMM to make the date change in the Zoom account where the event was set up. Make sure to check the `Notify registrants about changes to this meeting` checkbox so registrants gets the date change email notification with their unique join link from Zoom.
+- If there are registrations for the event, please either notify the registrants of the date change directly, or ask your FMC to create a date change email issue and provide copy in the copy doc. Note that this email must follow the [MOps SLA](/handbook/marketing/marketing-operations/campaign-operations/#slas).
 
-Please see process [here](/handbook/marketing/virtual-events/#calendar-rescheduled-external-virtual-event) for rescheduling and [here](/handbook/marketing/virtual-events/#calendar-canceled-external-virtual-event) for cancelling.
+### FMC Tasks
+
+- The FMC will update the event listing in the [Marketing Calendar](/handbook/marketing/#marketing-calendar) with the updated date(s).
+- The FMC will update the date(s) in the appropriate Google calendar for the event invite.
+- The FMC will update the epic details and sub-issue due dates (and issue titles), as well as make the necessary changes to any upcoming asset send dates. If there are any emails scheduled to send, the FMC will ping MOps specically in those issues to have them unschedule the sends first.
+- The FMC will re-open the Marketo LP issue and request the date be changed in the LP. This will most likely change the LP URL as well, in which case, the FMC will update the LP link in the epic and notify the FMM of the changed link (to communicate to the sales team).
+- The FMC will submit an MR to update the date for the event listing and the new LP URL on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (if applicable).
+- Allocadia: FMC to change the ISO date in the SFDC campaign name to the new start date.
+- SFDC: FMC to change the ISO date in the SFDC campaign name to the new date and update the start and end date fields.
+- Marketo: FMC to change the ISO date in the Marketo program to the new date and update the `event date` and `UTM tokens`. Also update [asset expiration](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-setting-landing-page--smart-campaign-expiration-asset-expiration).
+- If the FMM has submitted an addendum/updated contract, FMC to submit a [PO change request via Zip](/handbook/business-technology/enterprise-applications/guides/zip-guide/#how-to-do-a-request-change).
+
+## Canceling Events
+
+### FMM Tasks
+
+- FMM to update Allocadia showing the event as canceled by going to the event sub-category panel and selecting `Yes` to the `Campaign Canceled?` dropdown. FMM to also add in `CANCELED` to the `Official Event/Campaign Name` field so the title in the main issue stays updated.
+- FMM to remove any planned/forecasted costs in Allocadia accordingly.
+- FMM to update the cancellation status with any additional vendors (such as Boundless, PizzaTime, etc.).
+- FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the cancelation and close out the issue.
+- If utilizing their personal Zoom for the event, FMM to delete the event from the Zoom account where the event was set up. Make sure to check the `Send meeting cancellation email to registrants` checkbox so registrants gets the cancellation email notification from Zoom. You will also be able to edit the cancellation message in the body of the email.
+- If there are registrations for the event, please either notify the registrants of the cancelation directly, or ask your FMC to create a cancelation email issue and provide copy in the copy doc. Note that this email must follow the [MOps SLA](/handbook/marketing/marketing-operations/campaign-operations/#slas).
+
+### FMC Tasks
+
+- The FMC will update the [Marketing Calendar](/handbook/marketing/#marketing-calendar) by selecting the event line item and adding a strikethrough to indicate the event has been canceled.
+- The FMC will delete the Google calendar invite in the appropriate calendar.
+- The FMC will submit an MR to delete the event listing on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (if applicable).
+- The FMC will comment regarding the cancelation in all open sub-issues and close out the issues. If there are any emails scheduled to send, the FMC will ping MOps specifically in those issues to have them unschedule the sends first.
+- If applicable, FMC to ping procurement and finance in the Coupa req to notify them that the event has been canceled.
+- If the FMM is not sending their own cancelation email to registrants and would like to send a Marketo cancelation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Marketing Ops. Please Note: This email must be scheduled and sent BEFORE the rest of the steps below can be completed.
+- Once all sub-issues are closed, the FMC will also note the cancelation in the epic and close the epic.
+- SFDC: Add `[CANCELED]` to the campaign name and select `Aborted` in the `Campaign Status` dropdown.
+- Marketo: Add `[CANCELED]` to the program name. Go to the `Salesforce campaign sync` field and click on the linked campaign, select `None` from the dropdown and click `Save.` This removes the SFDC and Marketo sync for the program. Deactivate any [activated smart campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
+- FMC to ping MOps with the Marketo program link in the `#mktgops` Slack channel and request the program be deleted (FM does not have access in Marketo to delete programs). Please Note: Once the Marketo program is deleted, the Marketo LP will also be deleted and not accessible by anyone with the registration link.
 
 # Process to Close Marketo Landing Pages and Landing Page Forms
 

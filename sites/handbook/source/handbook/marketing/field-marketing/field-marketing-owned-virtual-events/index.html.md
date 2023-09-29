@@ -545,55 +545,62 @@ There are certain occassions when a workshop needs to urgently be rescheduled du
 1. Reach out to your FMC to request a Marketo email send to participants and provide specific copy for the send in the copy doc (see additional instructions below). **Note:** There is some standard verbiage for rescheduling at the very bottom of the copy doc template under [Webcast Reschedule Email Copy](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz) that can be utilized. **Note:** If the FMC is not available, reach out to Marketing Ops (per the above instructions).
 1. It is best practice to send out a gift item to registrants as an apology for the inconvenience of having to reschedule last minute. The quickest option is to send email gift cards via Thnks or Reachdesk. The FMM will determine what to send, update Allocadia with budget for items, pull the registration email addresses from SFDC, and provide the email list and copy to the FMC to send the apology gifts.
 
-### General Rescheduling Instructions
+### Rescheduling a Workshop or Webcast
 
-**DRI: FMM and FMC**  
- 
-1. Update the date/time of the webcast on the webcast calendar.
-1. Update the webcast epic and subsequent issues so the new date is reflected on the title and issue due dates are updated based on the new timeline. Make sure to also adjust the date in the main issue and in Allocadia.
-1. Leave a comment on the epic stating the event has been rescheduled and tag all internal panelists and hosts.
-1. If webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to change the date.
-1. **Bulk Email Send for Rescheduling a Webcast:** Follow the below instructions to send a webcast reschedule email to all registrants, telling them they will be receiving a new email with a new Zoom link (additional details covered in steps below). See example reschedule email in the copy doc template [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz).
-   1. Go to the folder of your program called `z. Cancellation/Reschedule`
-   1. In the folder, you will find a pre-configured email program set to send to all registrants (including hosts) as operational (bypassing unsubscribe). Double check the email smart list to make sure it includes your program's name. 
-   1. Navigate to your main marketo campaign program, and click the tokens tab. Update the following tokens:
-      - {{my.webcastDate}} to the new date
-      - {{my.webcastTime}} to the new time
-      - {{my.webcastTitle}} make sure is populated
-   1. Once you update these tokens, go to the email and click preview. Check to make sure tokens are rending properly and the email says what you want it to. You can also send yourself a sample email.
-      - To send yourself a test. Click on the email > `Email Actions` (top left) > `Send Sample` and add your email address in the large box. You do not need to fill out the top 3 drop downs. The test that comes to you will say `Test` in the subject line. You can also right click the email to send yourself a sample.
-      - If copy does not look right, you can either update the token OR go into the email clicking `edit draft` and updating there.
-   1. You must click `Approve` on the email if you made changes, for those changes to take effect.
-   1. Click into email program, on control panel set the date/time for send and click Approve in final box.
-      -  Do not click recipient time zone or head start  
-1. Create a new Zoom program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
-1. Create a new Marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step, since we will be syncing to the existing SFDC program in a later step.
-1. If you are rescheduling your webcast due to technical difficulties the day of the event (if the event has technically completed in Zoom and your statuses have already been triggered) you will need assistance from Marketing Operations from this point forward so they can adjust certain Marketo details and make sure all registrants are moved over to the new program. Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template) and link your epic with the old and new Marketo programs and SFDC campaigns and specify that you will need assistance moving all registrants over to the new program.
-1. Move the landing page from the Marketo program with old webcast date/time to the newly created Marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will receive during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
-1. (Needed only if the above step did not automatically move registrants and trigger a new Zoom confirmation email.) Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
-1. Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
-1. Go to SFDC and change the ISO date in the SFDC campaign name for the webcast to the new date. 
-1. Go back to Marketo. Sync the SFDC campaign to the Marketo program with new webcast date/time by clicking salesforce campaign sync and selecting the name of the SFDC campaign.
-1. Go back to the original Marketo program with the old webcast date/time and deactivate the smart campaigns. You will also need to delete the Marketo program. Field Marketing does not have access to delete Marketo programs so you will need to add `PLEASE DELETE/DO NOT USE` to the title in the Marketo program and send a request in the `#mktgops` Slack channel to have your Marketo program deleted (remember to link to the Marketo program in the request).
-1. Go to Zoom, delete the Zoom program with the old webcast date/time and make sure to uncheck `send webinar cancellation email to panelists and registrants`.
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are rescheduling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general rescheduling instructions `[here](TBD)`.
 
-## Cancelling a Webcast
-**DRI: FMM and FMC**  
+#### FMM Tasks
 
-In the event you need to cancel your webcast, please follow the steps outlined below.
- 
-1. Add [Cancelled] to the webcast epic, main issue and sub-issues.
-1. Leave a comment in the epic and main issue stating the event has been cancelled and tag all internal panelists and hosts.
-1. Re-open your Marketo LP issue and request Marketing Ops close the LP and specify that the event has been cancelled. If this is an urgent request after-hours, please utilize [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-a-webcast-landing-page) to close a `webcast LP` and [these instructions](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration) to close a `workshop LP`. 
-1. Close out all issues and epic.
-1. Remove any forecasted cost from Allocadia and indicate the event was cancelled.
-1. If the webcast is on the Events Page, [submit MR](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
-1. Remove event from the GitLab Hosted Zoom Webcast calendar.
-1. If you want to send a Marketo cancellation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Marketing Ops. Or, you can send out a personalized cancellation email.
-1. After the Marketo cancellation email is sent (if applicable), go to the Marketo program, deactivate all active smart campaigns and add [Cancelled] to the program name.
-1. Field Marketing does not have access to delete a Marketo program, so you will need to send a request in the `#mktgops` Slack channel to have your Marketo program deleted (remember to link to the Marketo program in the request).
-1. Go to the Salesforce campaign, add [Cancelled] to the SFDC campaign name and change the status to `aborted`.
-1. Go to Zoom, delete the webcast program from Zoom and make sure to uncheck `send webinar cancellation email to panelists and registrants` since this is already covered above.
+- FMM to update the new date in the Allocadia sub-category (that reflects in all line items).
+- FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the updated date.
+
+#### FMC Tasks
+
+- The FMC will update the event listing in the [Marketing Calendar](/handbook/marketing/#marketing-calendar) with the updated date.
+- The FMC will update the date in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar invite.
+- The FMC will submit an MR to remove the Webcast listing on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) so we are not promoting an outdated event (FMC will re-submit a new listing in steps further below).
+- The FMC will update the epic details and sub-issue due dates (and issue titles), as well as make the necessary changes to any upcoming asset send dates. If there are any emails scheduled to send, the FMC will ping MOps specifically in those issues to have them unschedule the sends first.
+- The FMC will reschedule the Dry Run invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
+- The FMC will update the `{{my.webcastDate}}` token with the new date.
+- If there are existing registrants in the program, create a [Reschedule Webcast Email sub-issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md), either utilizing the template in the folder of your Marketo program titled `z. Cancellation/Reschedule` or request the FMM update copy in the copy doc template (copy example [here](https://docs.google.com/document/d/1j43mf7Lsq2AXoNwiygGAr_laiFzmokNCfMHi7KNLjuA/edit#bookmark=kix.z3zivyrxl4tz)). Triage to MOps and request an urgent send. 
+- Create a new Zoom program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#step-1-configure-zoom).
+- Create a new Marketo program with the new webcast date/time following the steps outlined in [the section above](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#create-program-in-marketo) minus the create new campaign in SFDC step, since we will be syncing to the existing SFDC program in a later step.
+- If you are rescheduling your webcast due to technical difficulties the day of the event (if the event has technically completed in Zoom and your statuses have already been triggered) you will need assistance from Marketing Operations from this point forward so they can adjust certain Marketo details and make sure all registrants are moved over to the new program. Open a [Marketing Operations issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template) and link your epic with the old and new Marketo programs and SFDC campaigns and specify that you will need assistance moving all registrants over to the new program.
+- If you are not familiar or uncomfortable with the following steps, please create a [Marketing Ops issue](/handbook/marketing/marketing-operations/#issues) to request assistance and ping MOps in the `#mktgops` channel with the issue, if the request is urgent.
+   - Move the landing page from the Marketo program with old webcast date/time to the newly created Marketo program with new webcast date/time. This should automatically move the registrants from the original Marketo program to the new program and also trigger Zoom to send a new confirmation email. If this does not happen, please complete the next step below. **NOTE:** All registrants in the program (including hosts and panelists) will receive a new personalized Zoom registration link at this time. Marketo does not differentiate between hosts/panelists and regular registrants, so the hosts and panelists will need to be made aware that they should NOT utilize the standard Zoom URLs they will receive during this point in the process. Instead, they will utilize the host and panelists Zoom URLs that will be sent to them (and linked in the Dry Run Agenda) during the [dry run scheduling process](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#securing-a-virtual-workshop-or-webcast-dry-run-date).
+   - (Needed only if the above step did not automatically move registrants and trigger a new Zoom confirmation email.) Move the registrants from the Marketo program with old webcast date/time to the newly created marketo program with new webcast date/time by running a one time bulk update on the `(Optional: for rescheduled webcast only) Import registrants from old program` smart campaign. Doing this will also re-trigger the confirmation email to existing registrants.
+   - Remove the SFDC campaign sync on the Marketo program with old webcast date/time by clicking salesforce campaign sync and selecting `None`.
+   - Go to SFDC and change the ISO date in the SFDC campaign name for the webcast to the new date. 
+   - Go back to Marketo. Sync the SFDC campaign to the Marketo program with new webcast date/time by clicking salesforce campaign sync and selecting the name of the SFDC campaign.
+   - Go back to the original Marketo program with the old webcast date/time and deactivate the smart campaigns. Add `[CANCELED]` to the program name. Deactivate any [activated smart campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
+- FMC to ping MOps with the Marketo program link in the `#mktgops` Slack channel and request the program be deleted (FM does not have access in Marketo to delete programs).
+- Go to Zoom, delete the Zoom program with the old webcast date/time and make sure to uncheck `send webinar cancellation email to panelists and registrants`.
+- The FMC will submit an MR to re-submit the Webcast on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) with the new date and updated LP URL.
+
+## Canceling a Workshop or Webcast
+
+PLEASE NOTE: The below instructions are only for virtual workshops. If you are canceling an in-person workshop (a workshop that is NOT utilizing our Zoom integration), then please follow our general cancelation instructions `[here](TBD)`.
+
+### FMM Tasks
+
+- FMM to update Allocadia showing the event as canceled by going to the event sub-category panel and selecting `Yes` to the `Campaign Cancelled?` dropdown. FMM to also add in `CANCELED` to the `Official Event/Campaign Name` field so the title in the main issue stays updated.
+- FMM to remove any planned/forecasted costs in Allocadia accordingly.
+- FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the cancelation and close out the issue.
+- If there are registrations for the event, please either notify the registrants of the cancelation directly, or ask your FMC to create a cancelation email issue and provide copy in the copy doc. Note that this email must follow the [MOps SLA](/handbook/marketing/marketing-operations/campaign-operations/#slas).
+
+### FMC Tasks
+
+- The FMC will update the [Marketing Calendar](/handbook/marketing/#marketing-calendar) by selecting the event line item and adding a strikethrough to indicate the event has been canceled.
+- The FMC will delete the invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
+- The FMC will submit an MR to delete the event listing on the [Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
+- The FMC will comment regarding the cancelation in all open sub-issues and close out the issues. If there are any emails scheduled to send, the FMC will ping MOps specically in those issues to have them unschedule the sends first.
+- The FMC will unschedule the Dry Run invite in the [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) calendar.
+- If the FMM is not sending their own cancelation email to registrants and would like to send a Marketo cancellation email, create an [issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_email_invite.md) for the request and triage to Marketing Ops. Please Note: This email must be scheduled and sent BEFORE the rest of the steps below can be completed.
+- Once all sub-issues are closed, the FMC will also note the cancelation in the epic and close the epic.
+- SFDC: Add `[CANCELED]` to the campaign name and select `Aborted` in the `Campaign Status` dropdown.
+- Marketo: Add `[CANCELED]` to the program name. Go to the `Salesforce campaign sync` field and click on the linked campaign, select `None` from the dropdown and click `Save.` This removes the SFDC and Marketo sync for the program. Deactivate any [activated smart campaigns](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-4-activate-marketo-smart-campaigns).
+- FMC to ping MOps with the Marketo program link in the `#mktgops` Slack channel and request the program be deleted (FM does not have access in Marketo to delete programs). Please Note: Once the Marketo program is deleted, the Marketo LP will also be deleted and not accessible by anyone with the registration link.
+- Go to Zoom, delete the webcast program from Zoom and make sure to uncheck `send webinar cancellation email to panelists and registrants` since this is already covered above.
 
 # Virtual Workshops
 
