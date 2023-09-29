@@ -125,11 +125,6 @@ as [velocity is more important than predictability](/handbook/engineering/develo
   unless it's a minor uncontentious documentation change or a simple update such as adding a new element to an array of menu options, for
   example.
 
-* For tasks that involve making changes to License Finder
-
-  The License Finder pipeline currently takes over an hour to run and quite often has flaky tests. Keep this in mind when estimating
-  the amount of effort to required to make updates to this project.
-
 ### Capacity planning documentation from other teams
 
 * [Plan:Project Management BE Team Capacity Planning](/handbook/engineering/development/dev/plan/plan-project-management-be/#capacity-planning)
