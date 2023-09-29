@@ -84,7 +84,6 @@ Time allocation: 15% of 1 engineer.
 1. Check for new versions of languages or package managers that we support, or deprecation / removal of support for the same and notify Engineering Manager and Product Manager via issue
 1. Check for new versions of our dependencies (not related to security):
    1. Upstream scanners (see [Updating an upstream scanner](#updating-an-upstream-scanner))
-       - [How to update license-finder](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder#how-to-update-the-upstream-scanner)
    1. Container base images
    1. Application dependencies
    1. Programming language
@@ -339,8 +338,6 @@ The Composition Analysis group maintains several projects to provide our scannin
 ### Dependency Scanning
 
 - [gemnasium analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium)
-- [gemnasium-python analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-python)
-- [gemnasium-maven analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven)
 - [gemnasium-maven-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-maven-plugin)
 - [gemnasium-gradle-plugin](https://gitlab.com/gitlab-org/security-products/analyzers/gemnasium-gradle-plugin)
 - **Internal only** [gitlab-depscan](https://gitlab.com/gitlab-org/security-products/gitlab-depscan)
@@ -355,9 +352,6 @@ Additional notes:
 - [Cluster Image Scanning related code](https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent/-/blob/master/internal/module/starboard_vulnerability/agent/scanner.go),
 needed for [Operational Container Scanning](https://docs.gitlab.com/ee/user/clusters/agent/vulnerabilities.html) feature.
 
-### License Compliance
-
-- [License-finder analyzer](https://gitlab.com/gitlab-org/security-products/analyzers/license-finder)
 
 ### License-db
 
@@ -375,7 +369,6 @@ As some of our analyzers rely on open source software, we include them in our se
 
 To do so, we mirror their repository and execute our security scans on them:
 
-- [license-finder](https://gitlab.com/gitlab-org/security-products/dependencies/license-finder)
 - [trivy](https://gitlab.com/gitlab-org/security-products/dependencies/trivy)
 - [trivy-db](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db)
 - [trivy-db-data](https://gitlab.com/gitlab-org/security-products/dependencies/trivy-db-data)
