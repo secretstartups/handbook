@@ -866,25 +866,12 @@ The following partner forecast dashboards have been published for FY24. Please u
 
 ## Clari Forecasting for Partner Managers and Leaders
 
-[Here is a guide](https://docs.google.com/presentation/d/1eIv9YMsWT-S5Ln0vGSGvzzEkq8bMARlvkkM2uGzlodY/edit#slide=id.g1966657aff9_0_38) on how to log in and navigate the module.
+All forecasting for the partner organization is done in Clari. Please use the following enablement guides to learn how to naivgate the tool and understand the forecasting process.
+- [Clari Partner Handbook](https://internal.gitlab.com/handbook/sales/sales-tools/sales-forecasting/#partner-forecasting) 
+- [Clari Cheat Sheet and Enablement Deck](https://docs.google.com/presentation/d/1uEJR85CGuwUSSoKtLx4X-CSz6u3hKxZtL3QznemoUOE/edit#slide=id.g28468b8eaf0_0_36)
+- [Clari Demo](https://youtu.be/tmLr-ssdgHQ) - open link -> click your profile icon in upper right hand corner -> click Switch Account -> select GitLab Unfiltered
 
-Below are descritpions of the different columns in the Channel Forecasting module in Clari. You will also find an equivalent Salesforce filter provided.
 
-| Column | Description | SFDC Filters |
-|---|---|---|
-| Partner Sourced Plan | Your Partner Sourced target |  |
-| Partner Sourced Net Won | Closed Won and Closed Lost Renewal opps (Churn included) | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Actual Churn | Closed Lost Renewals opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Forecast Category <> Decommission, Decommissioned` AND ((`Stage = 8-Closed Lost` AND `Type = Renewal`) OR (`Stage = Closed Won` AND `Net ARR < 0`)) |
-| Partner Sourced Net Commit | **Rep’s call**, based on Commit SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Closed` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net Most Likely | **Rep’s call**, based on Net Most Likely SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND ((`Stamped Opp Owner User Segment = Mid-Market,SMB` AND `Forecast Category = Commit, Best Case, Closed`) OR (`Stamped Opp Owner User Segment = Large, PubSec` AND `Net Most Likely = TRUE`) OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced Net Best Case | **Rep’s call**, based on Best Case SFDC Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND (`Forecast Category = Commit, Best Case, Closed` OR ((`Stage = 8-Closed Lost`) AND (`Type = Renewal`)) |
-| Partner Sourced Forecasted Churn | **Rep’s call**, based on SFDC Renewal Forecast Health | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Type = Renewal` AND `Forecast Category <> Decommission, Decommissioned` AND `Renewal Forecast Category = Red` |
-| Partner Sourced Pipeline | Open Partner Sourced Opps | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Plan | Your Partner Sourced New Logo target count |  |
-| Partner Sourced New Logo Net Won | Closed Won New Logo opp count | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND (`Stage = Closed Won` OR (`Stage = 8-Closed Lost` AND `Type = Renewal`)) |
-| Partner Sourced New Logo Forecast | **Rep’s call**, based on Sourced New Logo  | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
-| Partner Sourced New Logo Net ARR Forecast | forecasted Net ARR of Sourced New Logo Opps to close in Q | `Deal Path = Partner` AND `Sales Qualified Source = Partner Generated` AND `Order Type = 1. New - First Order` AND `Stage <> 0-Pending Acceptance, Closed Won, 8-Closed Lost, 9-Unqualified, 10-Duplicate` |
- 
 ## Alliances and OEMs
 Please visit the [Alliances Handbook](https://about.gitlab.com/handbook/alliances/) for an overview of the GitLab Alliance Team. If you are a GitLab employee, the [Private Alliance Handbook](https://internal.gitlab.com/handbook/alliances/) is another available resource. The [Alliances Salesforce Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYAp) is also available.
 For any questions regarding our Alliance partners, please reach out to the #alliances Slack channel. If your inquiry is deal-specific, please use one of these Slack channels: **#a_gcp_deal_registration, #a_aws_deal_registration, #a_ibm_deal_registration**.
