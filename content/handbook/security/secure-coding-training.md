@@ -64,9 +64,6 @@ The roles are:
 - `corporate_it_senior_it_site_reliability_engineer`
 - `corporate_it_senior_it_systems_engineer`
 - `corporate_it_staff_it_systems_engineer`
-- `csm_customer_success_engineer`
-- `csm_manager_customer_success_engineers`
-- `csm_senior_customer_success_engineer`
 - `customer_support_manager_support_engineering`
 - `customer_support_senior_support_engineer`
 - `customer_support_staff_support_engineer`
