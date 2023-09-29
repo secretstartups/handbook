@@ -70,40 +70,12 @@ Once the sponsorship has been confirmed, go to your calendar event and remove `H
 * For sponsored virtual conferences, change the event title to  `[ER sponsored] Vendor Name Region` (e.g: `[ER sponsored] Captive Eight APAC`).
 
 ## Rescheduling external virtual events
-{: #calendar-rescheduled-external-virtual-event}
-Once the DRI has identified that the date will change, **DRI** will:  
 
-* Update the event date and the campaign tag on the main event issue and in the Budget Document.  
-* Tag the relevant internal contacts for the event in a comment to notify them that the date has changed.
-* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.  
-* If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to update the date.
-* If event is on a specific Virtual Events Calendar, move to the new date and adjust calendar information.
-
-If the date changes after the sub-issues, epic, and tracking for the event have been created, the **DRI/FMC** must make the following updates:
-
-* SFDC: Change the ISO date in the SFDC campaign name to the new date and update the start and end date fields.
-* Marketo: Change the ISO date in the Marketo Program to the new date and update the tokens.
-* GitLab: Update event date in epic and sub-issues. Update due dates and email deployment dates.  
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Cancelling external virtual events
-{: #calendar-canceled-external-virtual-event}
-Once the DRI has identified that an event is cancelled, **DRI** will:
 
-* Update the event issue with [Cancelled] in the event title.
-* Tag the relevant internal contacts for the event in a comment to notify them that the event has been cancelled.
-* Close the main Field/Corporate Marketing event issue and epic.
-* Cancel the event line item from the regional tab.
-   * If receiving a refund: `Field Marketing DRI` will add requested refund info directly into the [FM Cancellation Tab](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A2) of the Budget Doc. `Corporate Marketing DRI` will track cancellation refunds in [this budget doc](https://docs.google.com/spreadsheets/d/1WVWZjSF6f5jAFqHO4hXcV8mN975ITT4eXScSn0F_FU8/edit#gid=1109485360). 
-   * See [instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/2287) on how to technically obtain a refund with finance. 
-* If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
-* If event is on a specific Virtual Events Calendar, cancel off of the calendar.
-
-If an online event is cancelled after the sub-issues, epic, and tracking for the event have been created, the **DRI/FMC** will:
-
-* SFDC: Change the event campaign status to `Aborted`. No other changes.
-* Marketo: Deactivate any active smart campaigns
-
-
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ## Virtual events decision tree
 {: #decision-tree .gitlab-purple}

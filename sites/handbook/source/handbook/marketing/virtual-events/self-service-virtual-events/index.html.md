@@ -433,40 +433,11 @@ This set up is for when you are hosting a self-service webcast, but using a Mark
 
 ### Rescheduling Self-Service Virtual Events with or without Promotion
 
-Once the DRI has identified that the date will change, **DRI** will:  
-
-* Update the event date and the campaign tag on the main event issue and in the Budget Document.  
-* Tag the relevant internal contacts for the event in a comment to notify them that the date has changed.
-* In the main event issue, ping the GL Accountant (@GGGONZALEZ) with the old campaign tag to be removed from NetSuite and the new campaign tag to be added in NetSuite.  
-* If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to update the date.
-* If event is listed on the [self-serive virtual events calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), move to the new date and adjust calendar information.
-* Make the date change in your personal Zoom account where the event was set up. Make sure to check the `Notify registrants about changes to this meeting` checkbox so registrants gets the date change email notification with their unique join link from zoom. 
-
-If the date changes after the sub-issues, epic, and tracking for the event have been created, the **DRI/FMC** must make the following updates:
-
-* SFDC: Change the ISO date in the SFDC campaign name to the new date and update the start and end date fields.
-* Marketo: Change the ISO date in the Marketo Program to the new date and update the tokens.
-* GitLab: Update event date in epic and sub-issues. Update due dates and email deployment dates.  
+For the most up-to-date rescheduling instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 ### Cancelling for Self-Service Virtual Events with or without Promotion
 
-Once the DRI has identified that an event is cancelled, **DRI** will:
-
-* Update the event issue with [Cancelled] in the event title.
-* Tag the relevant internal contacts for the event in a comment to notify them that the event has been cancelled.
-* Close the main Field/Corporate Marketing event issue and epic.
-* Cancel the event line item from the regional tab.
-   * If receiving a refund: `Field Marketing DRI` will add requested refund info directly into the [FM Cancellation Tab](https://docs.google.com/spreadsheets/d/1QC6P0VRWwJheOlGB-9bX8JIF8_4UY3h1cGVT_gacv5M/edit#gid=1753355316&range=A2) of the Budget Doc. `Corporate Marketing DRI` will track cancellation refunds in [this budget doc](https://docs.google.com/spreadsheets/d/1WVWZjSF6f5jAFqHO4hXcV8mN975ITT4eXScSn0F_FU8/edit#gid=1109485360). 
-   * See [instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/2287) on how to technically obtain a refund with finance. 
-* If event is on the Events Page, [submit MR](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) to remove.
-* If event is listed on the [self-service virtual events calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t), remove from the calendar.
-- Delete the event from your personal Zoom account where the event was set up. Make sure to check the `Send meeting cancellation email to registrants` checkbox so registrants gets the cancellation email notification from zoom. You will also be able to edit the cancellation message on the body of the email.
-
-If an online event is cancelled after the sub-issues, epic, and tracking for the event have been created, the **DRI/FMC** will:
-
-* SFDC: Change the event campaign status to `Aborted`. No other changes.
-* Marketo: Go to the Marketo program and deactivate the smart campaigns. You will also need to delete the Marketo program. Delete the Marketo program. If you do not have access to delete Marketo programs you will need to add `PLEASE DELETE/DO NOT USE` to the title in the Marketo program and send a request in the `#mktgops` Slack channel to have your Marketo program deleted (remember to link to the Marketo program in the request).
-
+For the most up-to-date cancellation instructions, please visit [this handbook page](/handbook/marketing/field-marketing/#rescheduling-or-canceling-events). 
 
 #### During the event
 
