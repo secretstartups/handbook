@@ -92,18 +92,30 @@ There are several important things to keep in mind when sharing your opinions ab
 
 - As you're sharing content on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable. This will connect your post to a curated feed of content from our team members on [GitLab's "life" tab](https://www.linkedin.com/company/gitlab-com/life) on LinkedIn, and promote our remote culture.
 
-#### On Twitter
-
-- Be sure to follow the [@gitlab Twitter account](https://twitter.com/gitlab) and reshare content our [social media team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
-- Consider tweeting some of the content ideas above, and tag the GitLab account for potential retweets.
-- Just like on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable in your tweets.
-- If you're sharing a job opening, here are a few suggestions you can consider sharing with the job link. Feel free to personalize these:
+- If you're sharing a GitLab job on LinkedIn, we ask team members to use only the provided templates to ensure we have consistent job sharing messaging. Messaging options include:
 
 > It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
 >
-> Interested in joining the world's largest #AllRemote company? @gitlab is hiring a [INSERT ROLE NAME]! [INSERT JOB LINK] #LifeAtGitLab
+> It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! In this role, you'll help organizations around the world deliver software faster with our AI-powered DevSecOps platform. [INSERT JOB LINK] #LifeAtGitLab 
 >
-> Do your best work from anywhere. @gitlab is the world's largest #AllRemote company, and we're hiring a [INSERT ROLE NAME]. Interested? Learn more: [INSERT JOB LINK] #LifeAtGitLab
+>> It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! In this role, you'll help to build a company that enables over 50% of Fortune500 organizations to deliver software faster with our AI-powered DevSecOps platform. [INSERT JOB LINK] #LifeAtGitLab 
+>
+> Interested in joining one of the world's largest #AllRemote company? @gitlab is hiring a [INSERT ROLE NAME]! [INSERT JOB LINK] #LifeAtGitLab
+>
+> Do your best work from wherever works for you. @gitlab is hiring a [INSERT ROLE NAME]. Interested? Learn more: [INSERT JOB LINK] #LifeAtGitLab
+
+#### On X (formerly Twitter)
+
+- Be sure to follow the [@gitlab X (formerly Twitter) account](https://twitter.com/gitlab) and reshare content our [social media team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
+- Consider tweeting some of the content ideas above, and tag the GitLab account for potential retweets.
+- Just like on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable in your tweets.
+- If you're sharing a job opening on X (formerly Twitter), here are a few suggestions you can consider sharing with the job link. Feel free to personalize these:
+
+> It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
+>
+> Interested in joining one of the world's largest #AllRemote company? @gitlab is hiring a [INSERT ROLE NAME]! [INSERT JOB LINK] #LifeAtGitLab
+>
+> Do your best work from wherever works for you. @gitlab is the world's largest #AllRemote company, and we're hiring a [INSERT ROLE NAME]. Interested? Learn more: [INSERT JOB LINK] #LifeAtGitLab
 
 
 #### Other platforms
