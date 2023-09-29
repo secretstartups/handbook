@@ -121,7 +121,7 @@ The responsibilities of the Senior Data Analyst extend the Data Analyst (Interme
 - Provide mentorship for Junior and Intermediate members of the team to help them grow in their responsibilities
 - Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
 
-#### Senior Data Analyst Requirements  
+#### Senior Data Analyst Requirements
 
 The requirements of the Senior Data Analyst extend the Data Analyst (Intermediate) role and include:
 
@@ -153,7 +153,7 @@ The responsibilities of the Staff Data Analyst extend the Senior Data Analyst ro
 - Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
 - Help create the sense of psychological safety in the department
 
-#### Staff Data Analyst Requirements  
+#### Staff Data Analyst Requirements
 
 The requirements of the Staff Data Analyst extend the Senior Data Analyst role and include:
 
@@ -169,7 +169,7 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 
 - Installs, configures, administers, and troubleshoots BI software environments in order to achieve reliable, highly available, well performing systems.
 - Provides direct technical support to BI user community, triages and engages support of appropriate personnel when needed or BI technical support is not sufficient. Performs and streamlines functions such as managing user and system accounts, network rights and access to BI, analytical and related integrated systems.
-- Creates and maintains documentation, standards and policies for the form, structure and attributes of the BI applications and systems.    
+- Creates and maintains documentation, standards and policies for the form, structure and attributes of the BI applications and systems.
 - Defines and leads training seminars, users’ groups and other educational activities for the organization’s BI user community.
 - Identifies and documents best practices and makes recommendations for standards improvements.
 
