@@ -28,7 +28,7 @@ The Renewal Operations team is responsible for building, maintaining and optimiz
 Find more information about how we drive the above initiatives on the [Renewals Managers - What we Do](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/) page
 
 
-Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.google.com/presentation/u/0/d/1Qv_8SVv3scdKDmF0BNMKbyM9TG5PAJlL4h3pbA-rcjg/edit).
+Below is a breakdown of the 4-part [Renewal Operations Strategy](https://docs.google.com/document/d/1W63d98cMVXfMvqAey8vbd2JRlfOWHLK-Yu23hhZQGTI/edit#heading=h.xion0u9mlv5c).
 
 
 - **Measure**
@@ -75,6 +75,9 @@ To reach out to Renewal Operations within Salesforce simply @ mention @Renewal-O
 - [Closed Details](https://about.gitlab.com/handbook/customer-success/renewals-managers/what/#analytics) updates
 - Renewal Forecast guidance
 - Complex Opportunity management guidance
+- Renewal Manager Opportunity Split
+- Merged Opportunities
+- Churn Exception Review for Renewals Managers
 
 ### Quoting, Approvals and Bookings
 
@@ -88,13 +91,14 @@ For Compensation related questions please reach out to @Sales-Comp on chatter. R
 
 ### Weekly
 - Renewal Forecast Template Update
-- [Forecast Data Quality Review](https://docs.google.com/document/d/1P-2VJnWXHsZeeaujoPRVhsP9Gc0gv2kLLwUmtuxjOjU/edit#heading=h.22dzztfqglrf)
-- Loss/Downgrade Reason Review
-- [Renewal Opportunity - Customer Subscription Reconciliation](https://docs.google.com/document/d/1YKbaIdwqkKv2DGTKLilGGMPbrepbxZxQRrqq0s25g9c/edit#heading=h.22dzztfqglrf)
+- [Forecast Data Quality Review](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/wikis/Renewal-Operations-Process-Documentation/Renewal-Forecast-Data-Quality)
+- [Loss/Downgrade Reason Review](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/wikis/Renewal-Operations-Process-Documentation/Closed-Lost-Reason-Audit)
+- [Renewal Opportunity - Customer Subscription Reconciliation](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/wikis/Renewal-Operations-Process-Documentation/Debook-Rebook-Reconciliation)
 
 ### Monthly
-- [Top Churn & Contraction Opportunity Review](https://docs.google.com/spreadsheets/d/1UVfCFsBztoReg-Caq87Kt8VqtPZhxlwzai5_9fn6pbg/edit#gid=0)
+- Top Churn & Contraction Opportunity Review
 - Debook-Rebook Renewal Reconciliation 
+- Churn Exception Review
 - SMB Churn & Contraction Readout
 - MM Churn & Contraction Readout
 - Customer Success Forum 
