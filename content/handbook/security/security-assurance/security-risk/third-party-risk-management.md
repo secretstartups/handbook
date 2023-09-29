@@ -141,12 +141,12 @@ Circumstances may exist outside of those defined above that could necessitate fu
 
 If a Risk Acceptance was put in place at the time of the previous assessment, inquiry should be performed with the vendor or relevant stakeholder to determine the current status of the risk. Any updates should be documented within the Risk Object. This can be performed in tandem with the requisition or after its approval.
 
-| Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Score Review?| Evidence of PenTest and BCP Testing |
-| ------ | ------ |------ |------ |------ |------ |------ |
-|Red*     |3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          If applicable|     Yes|     If applicable| Yes |
-|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          Yes|     Yes|     Yes| Yes |
-|Orange Professional Services | 3rd Party Attest or SIG Prof Svcs|          N/A|     N/A| N/A|     N/A| N/A|
-|Yellow/Green**     |-|     -|     -|     Yes*|     -| - |
+| Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | Evidence of PenTest and BCP Testing |
+| ------ | ------ |------ |------ |------ |------ |
+|Red*     |3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          If applicable|     Yes|    Yes |
+|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          Yes|     Yes|     Yes |
+|Orange Professional Services | 3rd Party Attest or SIG Prof Svcs|          N/A|     N/A| N/A|   N/A|
+|Yellow/Green**     |-|     -|     -|     Yes*|    - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
