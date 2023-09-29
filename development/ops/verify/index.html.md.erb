@@ -143,6 +143,13 @@ In the Verify stage, we value [MR Rate](/handbook/engineering/metrics/#merge-req
 
 By considering MR Rate as a measure of throughput, product management is focused on creating decomposed pieces of scope to improve the user experience. This encourages the UX and engineering teammates to provide simpler ways to solve the same problem, ultimately improving the throughput of the entire team.
 
+Since April 2023, code changes to Verify code require approval from a Verify maintainer since Continuous Integration platform overall is a critical GitLab feature.
+In order to [track quality of the approval process](https://gitlab.com/gitlab-org/gitlab/-/issues/411559)
+we ask Verify maintainers to apply one of the following labels to a merge request changing Verify code:
+- `~"verify-review::impacted"` for merge requests where the maintainer was able to identify near miss bugs, inefficiencies and tech debt.
+- `~"verify-review::not impacted"` for merge requests where the change was trivial
+or no issues were found by the Verify maintainer.
+
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
