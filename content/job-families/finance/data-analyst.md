@@ -171,7 +171,7 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 - Provides direct technical support to BI user community, triages and engages support of appropriate personnel when needed or BI technical support is not sufficient. Performs and streamlines functions such as managing user and system accounts, network rights and access to BI, analytical and related integrated systems.
 - Creates and maintains documentation, standards and policies for the form, structure and attributes of the BI applications and systems.    
 - Defines and leads training seminars, users’ groups and other educational activities for the organization’s BI user community.
-- Identifies and documents best practices and makes recommendations for standards improvements .
+- Identifies and documents best practices and makes recommendations for standards improvements.
 
 ### Engineering
 
