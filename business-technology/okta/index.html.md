@@ -72,7 +72,6 @@ GitLab requires all team members to use either Biometrics or YubiKey as your [Ok
 
     <img src="/handbook/business-technology/Okta-Add-SecurityKey-2.png" alt="Okta Security Key #2" width="300"/>
 
-
 1. We recommend enrolling both Chrome and Safari for redundancy on your computer, as well as a mobile device. Each browser needs to be enrolled separately. Note that separate browser profiles also need to be enrolled separately. You should enroll one computer browser (for example, Chrome), then add the [mobile device](#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android), then come back and add the other computer [browser](#i-want-to-login-or-add-a-new-computer-to-okta-and-i-have-a-mobile-device-enrolled) (for example, Safari).
 1. If clearing your browser cache, please be careful as you can delete your Touch ID credential. 
     1. In Chrome, if using "Clear Browsing Data" function please ensure that you [DO NOT check](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#clearing-google-chrome-cache-like-this-will-break-your-touchid-2fa) "Passwords and other sign-in data" (under "Advanced" tab). By default, this is unchecked. 
@@ -82,7 +81,14 @@ Follow the GitLab Okta [FAQ](/handbook/business-technology/okta/okta-enduser-faq
 
 We have also prepared Introductory Videos on [Setting up MFA/YubiKeys](https://youtu.be/9UyKml_aO3s), [Configuring Applications](https://youtu.be/xS2CarGUPLc) and [Dashboard Tips](https://youtu.be/xQQwa_pbe2U).
 
+### Adding a Passkey to 1Password
+1. With the 1Password browser extension installed, access the [Settings](https://gitlab.okta.com/enduser/settings) page.
+1. In the 'Security Methods' section of the page, choose `Set up` or `Set up another` next to `Security Key or Biometric`.
+1. You may then be presented with another prompt to confirm if you wish to `Set up another`, followed by an `Enroll` prompt.
+1. After pressing `Enroll`, a prompt from your web browser will appear.
+1. From 1Password, you'll see a pop up notification from 1Password with the options "New Item" or "Update Existing". Select "Update Existing" and your Okta account to continue.
 
+    <img src="/handbook/business-technology/images/1password-passkey.png" alt="Okta Passkey Key #1" width="300"/>
 
 ### I want to add Touch ID / Face ID / Face Authentication to Okta for my mobile device (iPhone/iPad or Android) 
 
