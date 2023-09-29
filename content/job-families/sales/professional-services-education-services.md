@@ -52,17 +52,17 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Video Interview with the Hiring Manager and to outline take home assignment.
 1. Team Interviews with 1-4 team members
 
-## Lab Development Engineer
+## Senior Lab Development Engineer
 
-GitLab’s Education Services team is looking for an experienced lab development engineer to design and build hands-on labs. In this role, you'll have experience developing and deploying solutions using cloud-based services, a deep technical knowledge of multiple IT domains, and excellent writing skills.
+GitLab’s Education Services team is looking for an experienced senior lab development engineer to design and build hands-on labs. In this role, you'll have experience developing and deploying solutions using cloud-based services, a deep technical knowledge of multiple IT domains, and excellent writing skills.
 
 Additionally, the ideal candidate will have training delivery, or training development experience and be able to provide analysis of learning materials from a technical perspective. Software development experience would be a plus. Above all, you will have a passion for learning and contributing to team and learner success.
 
-This role reports to Sr. Manager of Curriculum Development.
+This role reports to Sr. Director of Education Services.
 
 ### Job Grade
 
-The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Lab Development Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsibilities
 
@@ -97,7 +97,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 
 ### Career Ladder
 
-The next steps for the Lab Development Engineer job family has not yet been defined.
+The next steps for the Senior Lab Development Engineer job family has not yet been defined.
 
 ### Hiring Process
 
