@@ -55,6 +55,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"In-Person Conference" ~“Field Marketing”
+/confidential 
 ```
 
 ## Conference (Virtual)
@@ -97,6 +98,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Virtual Conference"~“Field Marketing”
+/confidential
 ```
 
 ## Conference (Hybrid)
@@ -141,6 +143,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Hybrid Conference" ~“Field Marketing”
+/confidential
 ```
 
 ## Content Syndication
@@ -171,6 +174,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~mktg-status:wip ~"Content Syndication" ~"Field Marketing" 
+/confidential
 ```
 
 ## Direct Mail
@@ -208,6 +212,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM 
 
 /label ~"mktg-status::wip" ~"Direct Mail" ~"Field Marketing" 
+/confidential
 ```
 
 ## Executive Roundtable
@@ -245,6 +250,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Field Marketing" ~"Executive Roundtable"
+/confidential
 ```
 
 ## Owned Events
@@ -283,6 +289,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Owned Event" ~“Field Marketing”
+/confidential
 ```
 
 ## Self-Service without Promotion
@@ -313,6 +320,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Self-Serve" ~“Field Marketing”
+/confidential
 ```
 
 ## Self-Service with Promotion
@@ -350,6 +358,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Self-Serve" ~“Field Marketing”
+/confidential
 ```
 
 ## Sponsored Webcast
@@ -383,6 +392,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Webcast - Sponsored" ~"Field Marketing"
+/confidential
 ```
 
 ## Survey
@@ -420,6 +430,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
 
 /label ~"mktg-status::wip" ~"Survey" ~"Field Marketing" 
+/confidential
 ```
 
 ## Vendor Arranged Meetings
@@ -450,6 +461,7 @@ description: "A comprehensive list of all of Field Marketing's epic codes."
 * [ ] [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=event-clean-upload-list) - FMC creates, assigns to FMM
 
 /label ~"mktg-status::wip" ~"Vendor Arranged Meetings" ~"Field Marketing"
+/confidential
 ```
 
 ## Workshops
@@ -509,6 +521,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"workshop" ~"Field Marketing"
+/confidential
 ```
 
 ## Webcasts
@@ -561,4 +574,5 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Optional: FM Pathfactory Asset Upload and Track Creation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Pathfactory_Request_Template) - FMM creates, assigns to FMC
 
 /label ~"mktg-status::wip" ~"Webcast - GitLab Hosted" ~"Field Marketing"
+/confidential
 ```
