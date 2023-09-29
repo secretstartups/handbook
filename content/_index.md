@@ -15,3 +15,22 @@ title: The GitLab Handbook
 {{% /blocks/cover %}}
 
 {{< homepage-data-toc >}}
+
+{{< blocks/section color="dark" type="row" >}}
+{{< include "includes/take-gitlab-for-a-spin.md" >}}
+<style>
+    a.btn-lg {
+        color: #fff !important;
+        }
+    .td-box--dark > .col > .row > .row > .go-for-a-spin {
+        border-right: 3px solid #fff !important;
+        padding-bottom: 0px !important;
+    }
+    .td-box--dark > .col > .row > .row > .col > a {
+        color: #bdd7fe;
+    }
+    .td-box--dark > .col > .row > hr {
+        display: none;
+    }
+</style>
+{{< /blocks/section >}}
