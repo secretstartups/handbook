@@ -16,24 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars and workshops in the months of September and October.
+We’d like to invite you to our free upcoming webinars and workshops in October.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## September 2023
-
-### AMER Time Zone Webinars
-
-#### Hands-On GitLab DevSecOps Workshop
-##### September 29th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_sBib1IoCS6-ChIsigMW7QQ#/registration)
 
 ## October 2023
 
