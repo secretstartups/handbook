@@ -3,12 +3,21 @@ title: Miscellaneous
 description: "Information on automations related to syncing to our team page, job families, and more."
 ---
 
-## Team page entry Specialty field
+## Team page entry daily sync
 
-Once/day we run a pipeline that syncs the specialty field for team members within the Engineering and Product division. This means that if team members edit that field in the file, this will result in the sync overwriting when it runs again. The reason for this is that we consider Workday as the single source of truth for this data. Thus team members and managers will need to make adjustments in Workday first and this will be automatically propagated in the team page entry.
+Once/day we run a pipeline that syncs the the following fields for all team members:
+- `name`, team members preferred name or nick name.
+  - This can be changed at any time in the YAML entry itself, as a team member may want to set a custom nickname or preferred name.
+  - Only updated if the team member has opted out of having their information on the team page, in which case this will be updated to reflect their current job title.
+- `specialty`, included if the team member has a job specialty component.
+- `departments`, A list of the team members Workday department and extra departments added to their team page entry.
+  - We will only ever update the **first** entry of this list to their current Workday department.
+- `division`, person's current division in Workday.
+- `job_title`, person's current job title.
+- `reports_to`, the `slug` reference of the team members manager team page entry.
+- `gitlab` the `customGitLabUsername` value from Workday.
 
-To determine what to fill in for the specialty, we first look at the multi-select specialty field. If there is nothing present in
-this field, we look at the single select specialty field.
+This means that if team members edit that field in the file, this will result in the sync overwriting when it runs again. The reason for this is that we consider Workday as the single source of truth for this data. Thus team members and managers will need to make adjustments in Workday first and this will be automatically propagated in the team page entry.
 
 ## Parental leave PTO to BambooHR
 
