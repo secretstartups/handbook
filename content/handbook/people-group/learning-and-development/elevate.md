@@ -9,7 +9,7 @@ The handbook provides guidance on GitLab [leadership competencies](https://about
 
 At this time, Elevate is only available for current People Leaders, People Business Partners, and members of the Team Member Relations team.
 
-{{< vimeo "827425645" >}}
+{{< vimeo "827425645?h=8019cd1096" >}}
 
 ### Goal
 
@@ -51,7 +51,7 @@ Watch this video for a walk through of each step:
 
 ## Additional Commitments
 
-{{< vimeo "837210402" >}}
+{{< vimeo "837210402?h=339ddf730f" >}}
 
 ### Project
 
@@ -96,12 +96,8 @@ Each group will deliver the following:
 
 Below, you'll find suggestions on how to make the most of your project. In addition, there are 2 **optional** resources you can choose to use to increase collaboration with your group.
 
-<div class="flex-row" markdown="0">
-  <div>
-    <a href="https://docs.google.com/presentation/d/1ichxrIiZxOjr8t8ep45W5Cmn_QWj9bkZq94PwLO2_-E/edit#slide=id.g222f4addab1_0_344" class="btn btn-primary" style="margin:5px;"> Slide Deck Template </a>
-    <a href="https://docs.google.com/document/d/1CZAqM1FasAudovVfQWhd4scrnPNgdfiO0OPaHuBfkz0/edit" class="btn btn-primary" style="margin:5px;"> Recording Agenda Template </a>
-  </div>
-</div>
+<a href="https://docs.google.com/presentation/d/1ichxrIiZxOjr8t8ep45W5Cmn_QWj9bkZq94PwLO2_-E/edit#slide=id.g222f4addab1_0_344" class="btn btn-primary" style="margin:5px;"> Slide Deck Template </a>
+<a href="https://docs.google.com/document/d/1CZAqM1FasAudovVfQWhd4scrnPNgdfiO0OPaHuBfkz0/edit" class="btn btn-primary" style="margin:5px;"> Recording Agenda Template </a>
 
 1. Find a way to collaborate with your group. You might use your cohort Slack channel or stand up a temporary channel.
 1. Select a prompt that resonates with the members of your group. Brainstorm common situations among your small group that can drive your project discussion.
