@@ -216,6 +216,11 @@ Compared with people at low-trust companies, people at high trust companies repo
 1. 74% less stress
 1. 40% less burnout
 
+#### Additional resources on trust building
+
+* [How to build and rebuilt trust - Ted Talk](https://www.ted.com/talks/frances_frei_how_to_build_and_rebuild_trust/)
+* [New to the Team? Here’s How to Build Trust (Remotely) - Harvard Business Review](https://hbr.org/2021/03/new-to-the-team-heres-how-to-build-trust-remotely)
+
 ## GROW Model
 
 The GROW Model is a four-step method for holding coaching conversations with a coachee. You can apply it during coaching sessions to guide the coachee through future-focused discussions.
