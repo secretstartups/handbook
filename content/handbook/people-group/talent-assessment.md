@@ -371,7 +371,7 @@ Our e-group completes Performance/Growth Potential Matrix multiple times a year 
 
 ### Eligibility
 
-Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the Too New To Rate description (https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate). 
+Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the Too New To Rate description (https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).
 
 ### Team Member Self-Evaluations
 
