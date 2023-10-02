@@ -328,7 +328,7 @@ CES: Follow the instructions below on how to create and send a job change letter
 1. The signatory matches the appropriate entity. If the candidate is located in the US (including Federal), Morgan Wilkins can be a signatory. If the candidate is employed through a PEO, Morgan Wilkins and Marissa Ferber can be signatories (this process is subject to change)
 1. Next, Click Generate
 1. Select Job Change Letter template in Greenhouse:
-    - LJob Change Letter w/ OTE (US ONLY!)
+    - Job Change Letter w/ OTE (US ONLY!)
     - Job Change Letter w/ no OTE (US ONLY!)
     - Job Change Letter w/ OTE, no RSU's
     - Job Change Letter, No OTE, No RSU's
