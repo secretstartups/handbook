@@ -37,7 +37,9 @@ Buyer Touchpoints are created on lead or contact objects directly. They do not r
 
 ### Buyer Attribution Touchpoint (BAT)
 
-AMM creates Buyer Attribution Touchpoints when Sales accepts an opportunity created on an account with Buyer Touchpoints. AMM only creates Buyer Attribution Touchpoints on Contact objects, and they must relate to an opportunity. BATs have a NET ARR value.
+AMM creates Buyer Attribution Touchpoints (BATs) when an opportunity is created on an account with Buyer Touchpoints, and they are created before the opportunity is accepted by Sales. These BATs are exact copies of the BT's already associated with the Contacts on the account and associated to an Opportunity. Addtionaly, when AMM creates BAT's it only does so from Contacts. Unlike Buyer Touchpoints, BATs have a NET ARR value.
+
+When AMM creates BAT's, it uses all the BT's associated to any Contact on the account (not just those Contacts associated to an opportunity). 
 
 | Buyer Touchpoint (BT) | Buyer Attribution Touchpoint (BAT) |
 | ----- | ----- | 
