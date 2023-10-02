@@ -16,6 +16,11 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY24
 
+### 2023-10-02 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/391))
+
+**[Account Creation Policy: Converting Leads into Accounts in Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4472)**
+
+
 ### 2023-09-18 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/387))
 
 **[New Slack Channel for Sales Tool Support](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/387#new-slack-channel-for-sales-tool-support)**
