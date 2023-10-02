@@ -33,6 +33,14 @@
 # Retire top cross-functional initative
 /handbook/company/top-cross-functional-initative/ /handbook/company/working-groups/
 
+# People-group migration redirects - created: 2023-10-02 - remove 2023-10-01
+/handbook/people-group/offboarding/faq.html /handbook/people-group/offboarding/faq/
+/handbook/people-group/learning-and-development/listening-tour.html /handbook/people-group/learning-and-development/listening-tour/
+/handbook/people-group/workday/tech-stack-guide-workday/ /handbook/people-group/tech-stack-guide-workday/
+/handbook/people-group/workday/workday-guide/ /handbook/people-group/workday-guide/
+/handbook/hiring/candidate/faq/ /handbook/hiring/candidate-faq/
+/handbook/hiring/candidate/faq/recruitment-privacy-policy/ /handbook/hiring/candidate-faq/recruitment-privacy-policy/
+
 # Ssecurity migration Redirects - Created: 2023-09-08 - Remove: 2024-09-07
 /handbook/security/access-management-policy.html /handbook/security/access-management-policy/
 /handbook/security/learning-group-ai.html /handbook/security/learning-group-ai/
