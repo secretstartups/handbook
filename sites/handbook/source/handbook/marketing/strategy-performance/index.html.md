@@ -22,7 +22,7 @@ Marketing Strategy and Analytics supports the entire Marketing team to develop a
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
-- [Christine Lee, Senior Director, Marketing Strategy & Analytics](https://about.gitlab.com/company/team/#christinelee)
+- [Christine Lee, VP, Marketing Operations & Analytics](https://about.gitlab.com/company/team/#christinelee)
 - [Jerome Ahye, Manager, Data Analytics](https://about.gitlab.com/company/team/#jahye1)
 - [Robert Kohnke, Senior Data Engineer](https://about.gitlab.com/company/team/#rkohnke)
 - [David Egan, Staff Data Analyst](https://about.gitlab.com/company/team/#dwegan)
