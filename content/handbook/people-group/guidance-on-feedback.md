@@ -235,7 +235,7 @@ Take a moment to identify situations in which you or your team are saying "Thank
 - [Giving and Receiving Feedback](https://www.linkedin.com/learning/giving-and-receiving-feedback-18926015) - a 28 minute LinkedIn Learning course by Dr. Gemma Lee Roberts
 - [Coaching Feedback Model](https://www.coachingcultureatwork.com/coaching-feedback-model/)
 - COIN & COILED feedback models - [World of Work Project Article](https://worldofwork.io/2019/07/the-coin-coiled-feedback-models/), 3 minute LinkedIn Learning [video](https://www.linkedin.com/learning/coaching-virtually/use-the-coin-model-to-give-feedback-virtually?u=2255073) on COIN.
- - CEDAR Feedback model - introduction and overview from [join.com](https://join.com/recruitment-hr-blog/feedback-models#6thecedarfeedbackmodel:~:text=6.%20The%20CEDAR,way%20of%20working), and a more comprehensive article and sample conversation at [World of Work Project](https://worldofwork.io/2019/07/the-cedar-feedback-model/)
+- CEDAR Feedback model - introduction and overview from [join.com](https://join.com/recruitment-hr-blog/feedback-models#6thecedarfeedbackmodel:~:text=6.%20The%20CEDAR,way%20of%20working), and a more comprehensive article and sample conversation at [World of Work Project](https://worldofwork.io/2019/07/the-cedar-feedback-model/)
 
 
 ## Modeling a Culture of Feedback Manager Competency
