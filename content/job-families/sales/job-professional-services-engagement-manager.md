@@ -122,7 +122,7 @@ The Staff Professional Services Engagement Manager reports to the Director, Enga
 
 #### Staff Professional Services Engagement Manager Job Grade
 
-The Staff Professional Services Engagement Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Professional Services Engagement Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Professional Services Engagement Manager Responsibilities
 
