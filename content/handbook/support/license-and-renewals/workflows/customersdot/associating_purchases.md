@@ -106,6 +106,8 @@ We need **one** of the following in order to verify eligibility for the subscrip
      - GitLab version 14.1, run the command `sudo gitlab-rails runner 'print License.current.data'` on the GitLab instance. N.B. this command can take a few minutes to complete.
      - GitLab versions older than 14.1, use `Download license` from the `Admin area > License` page.
    - License file can be decoded in customersDot from `Licenses` -> `Validate License` (`/admin/license/validate_license`)
+   - **Copies of license activation code emails** are not permissible articles of proof.
+      - Please use the Redaction Zendesk app to censor the activation code if such a cloud activation code email is provided.
 1. Option for unactivated licenses purchased through a reseller only: Reseller can verify the account ownership change through an ticket request. Support is responsible for [confirming the account was purchased through a reseller](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_reseller_related_requests.html#identifying-whether-a-customer-purchased-through-reseller), and verifying that the email address domain used by the reseller to make the request matches the key Contacts email domain in the subscription details in Zuora. Reseller can either open a ticket with this request or the customer can CC the reseller and also confirm that they would like to authorize the reseller to participate in the ticket.
 
 ### Update Zuora Sold To contact using CustomersDot
