@@ -371,12 +371,7 @@ Our e-group completes Performance/Growth Potential Matrix multiple times a year 
 
 ### Eligibility
 
-Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment. However, if the team member being assessed has been with GitLab for a period of 3 months or less:
-
-- It is likely that these team members will fall into `Developing` for performance and should not expect a compensation adjustment, although they are still eligible to be reviewed. This is because team members generally need several months to get adjusted to their role and responsibilities, and we aim to hire team members at their accurate market rate.
-- Team member manager do not need to complete the full self-assessment or manager evaluation form if they have been employed less than 3 months, but a rating should be allocated.
-
-While there are exceptions, this is the general guideline.
+Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the Too New To Rate description (https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate). 
 
 ### Team Member Self-Evaluations
 
@@ -409,12 +404,12 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 ## Promotions During Assessment Cycle
 
-The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the Q4 FY23 Talent Assessment cycle is **October 31, 2022**. Guidelines are as follows:
+The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the FY24 Talent Assessment cycle is **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member is promoted with an effective date *on or before* October 31, 2022, they should be assessed at the newly promoted level.**
-    - For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2022 in Workday (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.
-1. **If a team member is promoted with an effective date *on or after* November 1, 2022, they should be assessed at the pre-promotion level.**
-    - For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of November 1, 2022, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
+1. **If a team member is promoted with an effective date *on or before* October 16, 20XY, they should be assessed at the newly promoted level.**
+    - For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 20XY in Workday (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.
+1. **If a team member is promoted with an effective date *on or after* October 17, 20XY, they should be assessed at the pre-promotion level.**
+    - For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of November 1, 20XY, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
