@@ -59,7 +59,7 @@ The IT Program Management Office (PMO) mission is to provide:
 
 # <i class="fas fa-tasks" id="biz-tech-icons"></i> What We Do
 
-## Portfolio Planning & Prioritization
+## IT Portfolio Planning & Prioritization
 
 ![it-pmo](/handbook/business-technology/pmo/it-pmo-planning.png)
 
@@ -72,13 +72,13 @@ The IT portfolio planning & prioritization process has 6 steps:
 5. T-Shirt Sizing
 6. Alignment & OKRs
 
-### Portfolio of Projects
+### IT Portfolio of Projects
 
-The inventory of all committed and planned projects for the quarter in IT Operations and Enterprise Applications. The [IT Portfolio: Quarterly Commits](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=955721517) is available for internal team members to track IT planned initiatives. All projects on the roadmap have a Team & Corporate stack ranked to align with the overall [global optimization](https://about.gitlab.com/handbook/values/#global-optimization). 
+The inventory of all committed and planned projects for the quarter in IT Operations and Enterprise Applications. The [IT Portfolio: Quarterly Commits](https://docs.google.com/spreadsheets/d/1ojnTFGB2iYJz9kNPYdoLc4PeyDqAN60gu9cQBrKpHJQ/edit?pli=1#gid=1316376797) is available for internal team members to track IT planned initiatives. All projects on the IT Portfolio have a Team & Corporate Stack Ranke to align with the overall [global optimization](https://about.gitlab.com/handbook/values/#global-optimization). 
 
-### Prioritization
+### IT Project Prioritization
 
-The [IT Prioritization tracker](https://docs.google.com/spreadsheets/d/1fnV3nWI0sNdbakHUys78d-lpbpKexFD_1kdO8JoVySY/edit#gid=157883866) is used to log new projects / initiatives with the IT team. The IT PMO team will review it as part of the Quarterly Portfolio Planning:
+The [IT Project Prioritization tracker](https://docs.google.com/spreadsheets/d/1fnV3nWI0sNdbakHUys78d-lpbpKexFD_1kdO8JoVySY/edit#gid=745075679) is used to log new projects / initiatives with the IT team. The IT PMO team will review it as part of the IT Quarterly Portfolio Planning:
 
 ![it-pmo](/handbook/business-technology/pmo/quarterly-planning.png)
 
