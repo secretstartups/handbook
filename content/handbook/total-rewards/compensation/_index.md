@@ -232,7 +232,7 @@ There are a number of reasons why team members may not be paid in local currency
     - Has not opted out.
 1. Only changes greater than +/- 5% will be processed in each review.
     - Changes must stay within band of the compensation calculator.
-1. The Total Rewards team will work with People Connect to confirm by [letter of adjustment](/handbook/people-group/contracts-probation-periods/#letter-of-adjustment) any *increases or decreases* to compensation as a result of this review.
+1. The Total Rewards team will work with People Connect to confirm by [job change letter](/handbook/people-group/contracts-probation-periods/#job-change-letter) any *increases or decreases* to compensation as a result of this review.
 1. Any significant increases or decreases will be reviewed on a case-by-case basis before any changes are made.
 1. Team members may also [opt out](https://docs.google.com/document/d/1GMxFFMKL8ssEi8gPJzpc1xizSJHxrR2n0R5HSZn-G-g/edit?usp=sharing) of the reviews.
     - If an opt out agreement is signed, the team members will be excluded from any future Exchange Rate reviews. GitLab retains the right to revisit the opt-out status in the future.

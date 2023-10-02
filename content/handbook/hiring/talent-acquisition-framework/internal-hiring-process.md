@@ -35,7 +35,7 @@ description: "This page discusses the Internal Hiring Process"
    - Reach out to People Connect by emailing people-connect@gitlab.com with the following subject line “Eligibility Check for internal team member”. In the body of the email please include the team member name and the link to their Greenhouse application.
    - Once the Recruiter is notified that the eligibility check is completed via the private notes in Greenhouse, and if eligible, Recruiter will reach out to the team member to introduce themselves and set expectations around the process and discuss compensation expectations to ensure the internal candidate is in line with the range, leveling, and budget for the role. If a team member is not eligible, Recruiter will send the appropriate decline email template.
 - Recruiter will then continue the process as described in the [Talent Acquisition Process Framework]({{< ref "talent-acquisition-framework" >}}) for all candidates. Recruiter will use identified templates in Greenhouse to communicate with candidates, current managers and hiring managers throughout the internal hiring process.
-- Once an internal candidate verbally accepts an offer, the Recruiter will notify CES to get the Letter of Adjustment (LOA) to the team member.
+- Once an internal candidate verbally accepts an offer, the Recruiter will notify CES to get the Job Change Letter (JCL) to the team member.
 
 ## CES Responsibilities
 
@@ -43,7 +43,7 @@ description: "This page discusses the Internal Hiring Process"
    - Block off any times on their calendar when they would prefer not to interview.
    - Have working hours visible on their internal Google Calendar
 - Please follow the scheduling process for executive scheduling
-- Recruiters will notify CES via Greenhouse once a [Letter of Adjustment (LOA)]({{< ref "promotions-transfers#letter-of-adjustment" >}}) is ready to be sent.
+- Recruiters will notify CES via Greenhouse once a [Job Change Letter (JCL)]({{< ref "promotions-transfers#job-change-letter" >}}) is ready to be sent.
 
 ## People Connect Lead Responsibilities
 

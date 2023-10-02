@@ -108,7 +108,7 @@ If the country and the location factor don’t change, no change in compensation
 
 1. The People Connect Team member will inform the Manager once the relocation has been fully approved.
 1. The manager will convey to the team member that their relocation has been approved and relay their new compensation.  The manager will then determine if the team member still wishes to relocate based on the changes to compensation.  The manager will convey the team member's final decision to the People Connect team.
-1. The People Connect Team member will ensure that all approval documents including original request from the team member and any approval email threads are saved in the team member's [Workday `Contracts & Changes` folder](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit). This approval will include the converted salary where applicable for the authorized signatory on the contract / adjustment letter to audit against before signing.
+1. The People Connect Team member will ensure that all approval documents including original request from the team member and any approval email threads are saved in the team member's [Workday `Contracts & Changes` folder](https://docs.google.com/document/d/1ao_d_JxvqvZdqxlt4mBoHe1GcAhYT7B6YQoBgDxPdRE/edit). This approval will include the converted salary where applicable for the authorized signatory on the contract / job change letter to audit against before signing.
 
 ### Contract Phase
 

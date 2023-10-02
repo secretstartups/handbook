@@ -18,11 +18,11 @@ First, be sure to validate the following:
 
 ### Entity Contract Signatories
 
-This chart reflects the available signatories for each of GitLab's entities. They are listed in order of preferred signatory first. This chart should only be used for new hire contracts where GitLab has entities. This is not for internal moves such as [contract renewals]({{< ref "contracts-probation-periods#contract-renewals" >}}), [letters of adjustments]({{< ref "contracts-probation-periods#letter-of-adjustment" >}}), or [relocations]({{< ref "relocation" >}}).
+This chart reflects the available signatories for each of GitLab's entities. They are listed in order of preferred signatory first. This chart should only be used for new hire contracts where GitLab has entities. This is not for internal moves such as [contract renewals]({{< ref "contracts-probation-periods#contract-renewals" >}}), [job change letters]({{< ref "contracts-probation-periods#job-change-letter" >}}), or [relocations]({{< ref "relocation" >}}).
 
 | Entity | Signatory |
 |-------- | -----|
-| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. LOAs can be signed by Morgan Wilkins  |
+| GitLab Inc | All Recruiting Leads (Jake Foster, Marissa Ferber, Ursela Knezevic), Jess Dallmar, Rob Allen, Other People Group Team Members who are employed by Inc. and of the appropriate grade to sign the document. JCLs can be signed by Morgan Wilkins  |
 | GitLab Federal LLC    |       Bob Stevens     |
 | GitLab BV Belgium, Dutch & English | Rob Allen & Pattie Egan. Backups: Craig Mestel|
 | GitLab BV, Netherlands | Rob Allen & Pattie Egan. Backup: Craig Mestel|
@@ -37,8 +37,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab South Korea | Jess Dallmar & Rob Allen. Backup: Erin Mannix, Craig Mestel |
 | GitLab France S.A.S. | Rob Allen & Pattie Egan. Backup: Craig Mestel|
 | GitLab Singapore PTE. LTD. | Jess Dallmar & Rob Allen. Backup: Erin Mannix|
-| LOAs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
-| PEOs | The Candidate Experience Specialist processing the offer. For LOAs, choose Morgan Wilkins or Marissa Ferber |
+| JCLs | Choose signatory from the list above. For the US, Morgan Wilkins can also sign. |
+| PEOs | The Candidate Experience Specialist processing the offer. For JCLs, choose Morgan Wilkins or Marissa Ferber |
 
 ### Send the contract through Greenhouse
 
@@ -307,32 +307,32 @@ If they have been hired in Greenhouse and exported to BambooHR, Enablement will 
 1. If the Recruiter has not already tagged the FP&A approver in the Greenhouse notes, please tag them to let them know that the candidate has withdrawn.
 1. If the Recruiter has not done so already, add a candidate tag of `Rescinded Acceptance` to the candidate's profile.
 
-## Letter of Adjustment
+## Job Change Letter
 
-When a team member applies for and receives a new position through Greenhouse, a Letter of Adjustment is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Letter of Adjustment template in Greenhouse the letter is cc'd to peopleops@gitlab.com team for processing.
+When a team member applies for and receives a new position through Greenhouse, a Job Change Letter is prepared in lieu of a new contract using DocuSign. The Candidate Experience Specialist will prepare the letter. This document is signed by the Director, Total Rewards or the Sr. Director, Global People Operations or the Chief People Officer and the team member through DocuSign. Using the Offer through DocuSign - Job Change Letter template in Greenhouse the letter is cc'd to peopleops@gitlab.com team for processing.
 
-Effective dates for a letter of adjustment should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes.
+Effective dates for a job change letter should be the first (1st) of the month or the sixteenth (16th). For Sales or Sales Development team members, they can only be the first of the month. These effective dates do not need to be on a business day and should be adhered to payroll purposes.
 Please note that LOAs cannot be used if a team member is moving from the Federal, LLC. entity into any other entity **or** any entity that is not Federal, LLC into the Federal, LLC. entity. In those cases, a new contract **must** be issued as there are tax implications to this entity.
 
-When generating a letter of adjustment for a PEO, the steps remains the same as outlined below. However, select the LOA template that does not include RSUs, and send the RSU details via DocuSign email.
+When generating a job change letter for a PEO, the steps remains the same as outlined below. However, select the JCL template that does not include RSUs, and send the RSU details via DocuSign email.
 
 The Candidate Experience Specialist needs to merge any additional candidate profiles before marking as hired. If the profiles are not merged, it will create a duplicate and mess with the employment bot sync to Workday & BambooHR. The signed letter is uploaded into Workday under the Contracts and Changes folder on the Documents Tab by the Total Rewards Analyst.
 
-When an internal transition is taking place and the start date for that LOA is amended, please ensure to update the People Connect team via Slack in the `#people-exp_ces` channel of the new start date.
+When an internal transition is taking place and the start date for that JCL is amended, please ensure to update the People Connect team via Slack in the `#people-connect_ces` channel of the new start date.
 
-If a team member goes through a promotion through WorkDay versus Greenhouse, a [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) is prepared by the Total Rewards team as listed on their handbook page.
+If a team member goes through a promotion through WorkDay versus Greenhouse, a [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) is prepared by the Total Rewards team as listed on their handbook page.
 
-CES: Follow the instructions below on how to create and send a letter of adjustment.
+CES: Follow the instructions below on how to create and send a job change letter.
 
 1. Confirm that the start date is either on the 1st or 16th of the month. For Sales or Sales Development, the start date should be the 1st. This is for payroll purposes and does not need to be on a business day.
 1. The signatory matches the appropriate entity. If the candidate is located in the US (including Federal), Morgan Wilkins can be a signatory. If the candidate is employed through a PEO, Morgan Wilkins and Marissa Ferber can be signatories (this process is subject to change)
 1. Next, Click Generate
-1. Select Letter of adjustment template in Greenhouse:
-    - Letter of Adjustment w/ OTE (US ONLY!)
-    - Letter of Adjustment w/ no OTE (US ONLY!)
-    - Letter of Adjustment w/ OTE, no RSU's
-    - Letter of Adjustment, No OTE, No RSU's
-    - **Special Note: Please ensure you are using the bottom two templates ONLY for NON US LOA's!**
+1. Select Job Change Letter template in Greenhouse:
+    - Job Change Letter w/ OTE (US ONLY!)
+    - Job Change Letter w/ no OTE (US ONLY!)
+    - Job Change Letter w/ OTE, no RSU's
+    - Job Change Letter, No OTE, No RSU's
+    - **Special Note: Please ensure you are using the bottom two templates ONLY for NON US JCLs!**
 
 LOAs should be treated like contracts, where RSUs are only features in US ones and all other countries should have text within the DocuSign email instead.
 
@@ -346,7 +346,7 @@ LOAs should be treated like contracts, where RSUs are only features in US ones a
     - #3 Nitin Upadhyay (receives a copy)
     - This ensures that the contract goes to the GitLab signatory to sign first, as well as the recruiter for a Cc and once signed by them it will go to the People Experience for an update of records.
 1. Then click "Done".
-1. When LOA is signed, ensure that you merge profiles before Hiring to avoid creating duplicate profile
+1. When the JCL is signed, ensure that you merge profiles before Hiring to avoid creating duplicate profile
 
 ## Rehires
 
