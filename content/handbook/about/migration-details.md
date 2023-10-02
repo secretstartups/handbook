@@ -853,7 +853,7 @@ company/culture/all-remote/scaling/index.html.md.erb
 company/culture/all-remote/in-person/index.html.md
 company/culture/all-remote/parenting/index.html.md.erb
 company/culture/all-remote/getting-started/index.html.md.erb
-company/culture/all-remote/handbook-first-documentation/index.html.md.erb
+company/culture/all-remote/handbook-first/index.html.md.erb
 company/culture/all-remote/internship/index.html.md
 company/culture/all-remote/people/index.html.md.erb
 company/culture/all-remote/history/index.html.md

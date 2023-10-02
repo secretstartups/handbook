@@ -5,6 +5,8 @@ description: The Global Remote Work Report dissects the state of distributed wor
 twitter_image: '/images/opengraph/remote-report-report.png'
 extra_css:
   - remote-work-survey.css
+draft: true
+unlisted: true
 ---
 
 %header.navbar.navbar-header-transparent#main-nav{role: "navigation"}
@@ -34,7 +36,7 @@ extra_css:
     .row
       .col-md-12
         %h2 Project background
-        
+
     .row
       .col-md-12
         %h4 Objective

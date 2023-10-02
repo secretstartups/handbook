@@ -16,6 +16,8 @@ extra_js:
   - events.js
   - libs/slick.min.js
   - video-carousel.js
+draft: true
+unlisted: true
 ---
 .blank-header
   = image_tag "/images/home/icons-pattern-left.svg", class: "image-border image-border-left", alt: "Gitlab hero border pattern left svg"
@@ -30,11 +32,11 @@ extra_js:
     .wrapper.container.js-in-page-nav-group{role: "main"}
       .row.u-margin-top-xl.js-in-page-nav-section#attend-a-virtual-meetup
         .col-md-10.col-md-offset-1
-          %h2.u-text-brand About GitLab and Universal Remote 
+          %h2.u-text-brand About GitLab and Universal Remote
 
           %p Welcome to <a href="https://www.youtube.com/playlist?list=PLFGfElNsQthay5Dd5OUC9DsNiIl7tzhMW">Universal Remote</a>, GitLab's new weekly web show focused on helping teams transition to a fully remote world. GitLab is the largest all-remote company in the world with over 1,200 team members spanning across 65 countries. Since its inception, GitLab has embraced remote work and now has a dedicated team to foster remote best practices. GitLab is dedicated to helping remote teams succeed. We recently published The Remote Playbook and the Remote Work Report, and the Remote team consults with organizations across industries and geographies to help transition teams to virtual workspaces. The sudden shift to remote work can be challenging, especially given current events, so we'll take 30 minutes each week to help your team work efficiently and make the transition as smooth as possible. We'll uncover the tips, tricks, and insights gleaned from GitLab's long history of remote work and from partners in the industry. Our goal is to make remote content digestible, actionable, and fun.
 
-          %iframe{ src: "https://www.youtube.com/embed/videoseries?list=PLFGfElNsQthay5Dd5OUC9DsNiIl7tzhMW", height: "505", width: "853", frameborder: "0", allow: "autoplay; encrypted-media", allowfullscreen: ""} 
+          %iframe{ src: "https://www.youtube.com/embed/videoseries?list=PLFGfElNsQthay5Dd5OUC9DsNiIl7tzhMW", height: "505", width: "853", frameborder: "0", allow: "autoplay; encrypted-media", allowfullscreen: ""}
 
           %p.u-margin-top-md Below are some topics we will cover this season.
 
@@ -54,7 +56,7 @@ extra_js:
           %h2.u-text-brand Our Sister Podcast
 
           %p
-            Our weekly podcast is live! Tune is as we share some of the great insights gleaned from the weekly web show and beyond. 
+            Our weekly podcast is live! Tune is as we share some of the great insights gleaned from the weekly web show and beyond.
 
             <div id='buzzsprout-small-player-1127639'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1127639.js?container_id=buzzsprout-small-player-1127639&player=small'></script>
 
@@ -62,7 +64,7 @@ extra_js:
         .col-md-10.col-md-offset-1
           %h2.u-text-brand Resources on Remote Work
 
-          %p Please find more remote work resources <a href="/company/culture/all-remote/">here</a>. From the cost savings on office space to more flexibility in employees' daily lives, all-remote work offers a number of advantages to organizations and their people. Find out more about how to get strated or improve team functions using a remote first business model. 
+          %p Please find more remote work resources <a href="/company/culture/all-remote/">here</a>. From the cost savings on office space to more flexibility in employees' daily lives, all-remote work offers a number of advantages to organizations and their people. Find out more about how to get strated or improve team functions using a remote first business model.
 
           .resource-block.resource-block--resources.u-margin-top-md
 

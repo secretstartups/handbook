@@ -23,12 +23,12 @@
       - name: Zoom Webinars
         url: webinars
     - name: Culture
-      url: https://about.gitlab.com/company/culture/
+      url: culture
       links:
       - name: All-Remote
-        url: https://about.gitlab.com/company/culture/all-remote/guide/
+        url: handbook/company/culture/all-remote/guide
       - name: Life at GitLab
-        url: https://about.gitlab.com/company/culture/#life-at-gitlab
+        url: culture#life-at-gitlab
       - name: GitLab Contribute
         url: https://about.gitlab.com/events/gitlab-contribute/
       - name: Team

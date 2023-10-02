@@ -1,118 +1,192 @@
 ---
-layout: default
-title: GitLab for Remote Teams Demo
+title: GitLab for Remote Teams
 description: "See how GitLab can help you continuously deliver software remotely, together"
 twitter_image: "/images/opengraph/GitLab-For-Remote-Teams.png"
 twitter_creator: "@gitlab"
 twitter_site: "@gitlab"
 twitter_image_alt: "GitLab For Remote Teams graphical image using icons representing remote work"
-suppress_header: true
-extra_css:
-  - styles-2018.css
-  - stages-devops-lifecycle.css
-  - comparison-page.css
-  - gitlab-feature-landing-page.css
-  - features.css
-  - form-to-resource.css
 destination_url: "https://youtu.be/qCDAioq3eis"
-form_id: "1002"
-form_type: "resources"
-cta_title: "Register to watch the video:"
-cta_date:
-cta_subtitle:
-link_text: "Click here to watch the video"
-success_message: "You will also receive a link to the video sent to your inbox shortly."
 ---
 
-.wrapper.gitlab-ee-page.gitlab-for-remote-teams-page
-  .blank-header
-    .container
-      .row 
-        .col-md-5.col-md-offset-1
-          .header-content
-            -#= image_tag "/images/icons/all-remote-work-chat-illustration.png", class: "hero-image", alt: "Gitlab CI/CD svg", style: "height: inherit; max-width:500px;"
-            %h1 GitLab for Remote and Hybrid Teams
-            %p With GitLab, every team in your organization can work together in a single platform, driving business outcomes faster with complete transparency, consistency and traceability.
-        .col-md-4.col-md-offset-1
-          .header-foreground-image
-            = image_tag "/images/solutions/remote-teams-mac.png"
+<div class="container">
+<div class="row my-5 5align-items-start">
+    <div class="col-8 d-flex align-items-center">
+        <div>
+            <p class="h3 mb-4">With GitLab, every team in your organization can work together in a single platform, driving business outcomes faster with complete transparency, consistency and traceability.</p>
+            <p class="h4">The DevOps Platform is here</p>
+            <p>GitLab empowers organizations to collaborate efficiently and asynchronously, while strengthening security and compliance.</p>
+            <p>One system to install and maintain. End-to-end lifecycle support from one provider. One point of integration for external systems. One user interface for the entire lifecycle.</p>
+            <p class="h4">Deliver better products faster</p>
+            <p>Accelerate the software delivery process to meet business objectives.</p>
+            <p>Collaborate in a single system, minimize context-switching and waiting, identify and remove productivity blockers, and deliver more value faster with more productive, focused developers.</p>
+            <p class="h4">Reduce security and compliance risk</p>
+            <p>Simplify processes to comply with internal processes, controls and industry regulations without compromising speed.</p>
+            <p>Increase reliability and performance while you grow by eliminating custom integrations.</p>
+            <p class="h4">Whether your team is fully remote, hybrid, or distributed across multiple sites, GitLab simplifies operations and increases your efficiency. Sign up to view demos, read use cases, and get implementation tips.</p>
+        </div>
+    </div>
+    <div class="col d-flex align-items-center rounded-3 p-4 shadow" style="background-color: #6e49cb; color: #ffffff;">
+        <div id="regiserFormDiv">
+            <p class="h4">Register to watch the video:</p>
+            <form action="https://fabform.io/f/dtVXkzD" method="post" id="registerForm" target="hidden-form">
+            <div class="mb-3">
+              <label for="firstName" class="form-label">First Name</label>
+              <input name="firstName" type="text" required class="form-control">
+            </div>
+            <div class="mb-3">
+              <label for="lastName" class="form-label">Last Name</label>
+              <input name="lastName" type="text" required class="form-control">
+              </div>
+              <div class="mb-3">
+              <label for="email" class="form-label">Work Email Address</label>
+              <input name="email" type="email" required class="form-control">
+              </div>
+              <div class="mb-3">
+              <label for="company" class="form-label">Company Name</label>
+              <input name="company" type="company" required class="form-control">
+              </div>
+              <div class="mb-3">
+              {{< country-select >}}
+              </div>
+              <div class="mb-3">
+                <input class="form-check-input" type="checkbox" value="sendEmails" id="sendEmails">
+                <label class="form-check-label" for="sendEmails">
+                I would like to receive emails from GitLab about its products, services and events.
+                </label>
+              </div>
+              <div class="mb-3">
+              <button type="submit" class="btn btn-lg btn-light">Watch Now</button>
+              </div>
+            </form>
+        </div>
+        <div id="thankyou" class="text-center align-items-center">
+            <p class="h2 mb-4">Thank you for registering</p>
+            <button type="button" class="btn btn-lg btn-light" data-bs-toggle="modal" data-bs-target="#videoModal">
+              Watch the video again
+            </button>
+        </div>
+    </div>
+</div>
+<div class="row my-5">
+    <div class="col">
+        <h2>Using GitLab for remote collaboration</h2>
+        <p>GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.</p>
+    </div>
+</div>
+<div class="row my-5">
+    <div class="col d-flex align-items-center">
+        <div>
+            <h2>Document while you work</h2>
+            <p>Instead of critical information getting lost in email or chat, writing down what’s happening inside of GitLab Issues means the plan, process, and execution are automatically documented. Other users can be tagged to comment and collaborate. Since Issues are a many-to-many channel, it’s easy to loop in more folks without the clutter of a reply-all thread.</p>
+        </div>
+    </div>
+    <div class="col">
+        <img src="https://about.gitlab.com/images/solutions/gitlab-for-remote/issue.png" alt="Gitlab devops loop png">
+    </div>
+</div>
 
-  .sub-wrapper
-    .container
-      .row
-        .col-md-5.col-md-offset-1
-          -#%h2.compare-heading.u-text-brand.u-margin-top-0 
+<div class="row my-5">
+    <div class="col">
+        <img src="https://about.gitlab.com/images/solutions/gitlab-for-remote/board-drag.png" alt="Gitlab devops loop png">
+    </div>
+    <div class="col d-flex align-items-center">
+        <div>
+        <h2>Track work from dream to done</h2>
+        <p>Adding labels to GitLab Issues lets you categorize work into different stages, such as planning, in-progress, and complete. <a href="https://about.gitlab.com/stages-devops-lifecycle/issueboard/">GitLab Boards</a> give you visibility and control over how work is being done. It’s like moving digital post-it notes across an online whiteboard that everyone can use, not just the folks in the conference room.</p></div>
+    </div>
+</div>
 
-          .media.u-margin-top-xs
-            -#.media-left.media-middle.u-padding-right-sm
-              -#.media-object{ style: "width: 80px; height: 80px" }
-                -#= image_tag "/images/icons/first-look-influence.svg"
-            .media-body.media-middle
-              %h4.u-margin-top-0
-                -#= image_tag "/images/icons/first-look-influence.svg"
-                The DevOps Platform is here
-              %p GitLab empowers organizations to collaborate efficiently and asychronously, while strengthening security and compliance.
-              %p One system to install and maintain. End-to-end lifecycle support from one provider. One point of integration for external systems. One user interface for the entire lifecycle.
+<div class="row my-5">
+    <div class="col d-flex align-items-center">
+        <div>
+            <h2>Connect strategy to execution</h2>
+            <p>GitLab Epics and Roadmaps provide a way to organize and visualize your entire portfolio of work over the long term. While Issues represent everyday tasks, Epics represent entire features or projects. Roadmaps let you plan work by seeing which work is competing for space and track progress against an assigned completion date.</p>
+        </div>
+    </div>
+    <div class="col">
+        <img src="https://about.gitlab.com/images/solutions/gitlab-for-remote/max.png" alt="Gitlab devops loop png">
+    </div>
+</div>
 
-          .media.u-margin-top-xs
-            .media-body.media-middle
-              %h4.u-margin-top-0
-                -#= image_tag "/images/icons/flag-tower.png"
-                Deliver better products faster
-              %p Accelerate the software delivery process to meet business objectives.
-              %p Collaborate in a single system, minimize context-switching and waiting, identify and remove productivity blockers, and deliver more value faster with more productive, focused developers.
+<div class="row my-5">
+    <div class="col">
+        <img src="https://about.gitlab.com/images/solutions/gitlab-for-remote/diff.png" alt="Gitlab devops loop png">
+    </div>
+    <div class="col d-flex align-items-center">
+        <div>
+        <h2>Version every word</h2>
+        <p>One of the advanced uses for GitLab is to treat copy like code. You can store, version, review, and approve not only software code, but any text at all. Using GitLab’s version control and “code review” capabilities for your text-based copywriting, you’ll be able to track versions, know who changed what when, make multiple proposals to the same document, and easily manage approvals.</p></div>
+    </div>
+</div>
+</div>
 
-          .media.u-margin-top-xs
-            .media-body.media-middle
-              %h4.u-margin-top-0
-                -#= image_tag "/images/icons/to-do-postit.png"
-                Reduce security and compliance risk
-              %p Simplify processes to comply with internal processes, controls and industry regulations without compromising speed.
-              %p Increase reliability and performance while you grow by eliminating custom integrations.
+<iframe style="display:none" name="hidden-form"></iframe>
+<div class="modal fade" id="videoModal" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" style="color: #000000;">GitLab for Remote Team Video</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body text-center">
+        <iframe style="width: 1000px; height: 562px; margin-left: auto; margin-right: auto;" id="gitlabForRemoteVideo" src="" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="modal-footer">
+        <a href="https://www.youtube.com/embed/qCDAioq3eis" class="btn btn-lg btn-secondary" target="_blank"><i class="fa-brands fa-youtube"></i> Watch on YouTube {{< external >}}</a>
+        <button type="button" class="btn btn-lg btn-primary" data-bs-dismiss="modal"><i class="fa-solid fa-circle-check"></i> Done</button>
+      </div>
+    </div>
+  </div>
+</div>
 
-              %h4.u-margin-top-md
-                Whether your team is fully remote, hybrid, or distributed across multiple sites, GitLab simplifies operations and increases your efficiency. Sign up to view demos, read use cases, and get implementation tips.
-
-        .col-md-4.col-md-offset-1
-          = partial "includes/form-to-resource", locals: { destination_url: current_page.data.destination_url, form_id: current_page.data.form_id, form_type: current_page.data.form_type, cta_title: current_page.data.cta_title, cta_date: current_page.data.cta_date, cta_subtitle: current_page.data.cta_subtitle, link_text: current_page.data.link_text, success_message: current_page.data.success_message }
-
-.solutions-wrapper
-  .solution-container.flex-container.justify-center.align-center.full-width
-    .solution-info-container.flex-container.flex-column.full-width
-      %h2
-        Using GitLab for remote collaboration
-      %p
-        GitLab is a collaboration tool designed to help people work better together whether they are in the same location or spread across multiple time zones. Originally, GitLab let software developers collaborate on writing code and packaging it up into software applications. Today, GitLab has a wide range of capabilities used by people around the globe in all kinds of companies and roles.
-  .solution-container.flex-container.justify-center.align-center.full-width
-    .solution-info-container.flex-container.flex-column.full-width
-      %h2
-        Document while you work
-      %p
-        Instead of critical information getting lost in email or chat, writing down what’s happening inside of GitLab Issues means the plan, process, and execution are automatically documented. Other users can be tagged to comment and collaborate. Since Issues are a many-to-many channel, it’s easy to loop in more folks without the clutter of a reply-all thread.
-    .solution-image-container.flex-container.align-center.full-width
-      = image_tag "/images/solutions/gitlab-for-remote/issue.png", :alt => "Gitlab devops loop png"
-  .solution-container.flex-container.justify-center.align-center.full-width
-    .solution-info-container.flex-container.flex-column.full-width
-      %h2
-        Track work from dream to done
-      %p
-        :markdown
-          Adding labels to GitLab Issues lets you categorize work into different stages, such as planning, in-progress, and complete. [GitLab Boards](https://about.gitlab.com/stages-devops-lifecycle/issueboard/) give you visibility and control over how work is being done. It’s like moving digital post-it notes across an online whiteboard that everyone can use, not just the folks in the conference room.
-    .solution-image-container.flex-container.align-center.full-width
-      = image_tag "/images/solutions/gitlab-for-remote/board-drag.png", :alt => "Gitlab devops loop png"
-  .solution-container.flex-container.justify-center.align-center.full-width
-    .solution-info-container.flex-container.flex-column.full-width
-      %h2
-        Connect strategy to execution
-      %p
-        GitLab Epics and Roadmaps provide a way to organize and visualize your entire portfolio of work over the long term. While Issues represent everyday tasks, Epics represent entire features or projects. Roadmaps let you plan work by seeing which work is competing for space and track progress against an assigned completion date.
-    .solution-image-container.flex-container.align-center.full-width
-      = image_tag "/images/solutions/gitlab-for-remote/max.png", :alt => "Gitlab devops loop png"
-  .solution-container.flex-container.justify-center.align-center.full-width
-    .solution-info-container.flex-container.flex-column.full-width
-      %h2
-        Version every word
-      %p
-        One of the advanced uses for GitLab is to treat copy like code. You can store, version, review, and approve not only software code, but any text at all. Using GitLab’s version control and “code review” capabilities for your text-based copywriting, you’ll be able to track versions, know who changed what when, make multiple proposals to the same document, and easily manage approvals.
-    .solution-image-container.flex-container.align-center.full-width
-      = image_tag "/images/solutions/gitlab-for-remote/diff.png", :alt => "Gitlab devops loop png"
+<script>
+    function getCookie(cname) {
+      let name = cname + "=";
+      let decodedCookie = decodeURIComponent(document.cookie);
+      let ca = decodedCookie.split(';');
+      for(let i = 0; i <ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+    $( document ).ready(function() {
+        const registerd = getCookie("gitlab-for-remote-registered");
+        if(registerd) {
+            $("#thankyou").show();
+            $("#regiserFormDiv").hide();
+        }
+    });
+    $("#registerForm").on("submit", function(event) {
+        console.log("Triggering submit");
+        $("#thankyou").show();
+        $("#regiserFormDiv").hide();
+        const videoModal = new bootstrap.Modal(document.getElementById('videoModal'));
+        document.getElementById("gitlabForRemoteVideo").src = "https://www.youtube.com/embed/qCDAioq3eis?si=ZXhIzw7wJD5XveTK"
+        const d = new Date();
+        d.setTime(d.getTime() + (360*24*60*60*1000));
+        let expires = "expires="+ d.toUTCString();
+        document.cookie = "gitlab-for-remote-registered=true;" + expires + ";path=/";
+        videoModal.show();
+    });
+</script>
+<style>
+    #thankyou {
+        width: 100% !important;
+        display: none;
+    }
+    #regiserFormDiv {
+        display: block;
+    }
+    .modal.fade .modal-dialog {
+      -webkit-transition: -webkit-transform 0.3s ease-out;
+         -moz-transition: -moz-transform 0.3s ease-out;
+           -o-transition: -o-transform 0.3s ease-out;
+              transition: transform 0.3s ease-out;
+    }
+</style>

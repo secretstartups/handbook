@@ -1,7 +1,5 @@
 ---
-layout: handbook-page-toc
 title: "Remote-work resources"
-canonical_path: "/company/culture/all-remote/resources/"
 description: Remote-work resources
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
@@ -9,19 +7,12 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-## Introduction
-
-![GitLab remote collaboration](/images/all-remote/gitlab-collaboration.jpg){: .medium.center}
+![GitLab remote collaboration](/images/all-remote/gitlab-collaboration.jpg)
+{style="max-width: 50%"}
 
 On this page, we're curating a list of resources for remote professionals, teams, and organizations.
 
-Looking for GitLab's library of guides to working remotely? Those are [**here**](/company/culture/all-remote/guide/).
+Looking for GitLab's library of guides to working remotely? Those are [**here**]({{< ref "./guide" >}}).
 
 ## Resources on GitLab's all-remote approach
 
@@ -62,7 +53,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 - [5 fun strategies companies are using to make remote workers feel included](https://business.linkedin.com/talent-solutions/blog/employee-engagement/2019/strategies-companies-use-to-keep-remote-workers-feeling-included)
 - [Tech's newest unicorn has employees in 45 countries and zero offices](https://qz.com/work/1394496/gitlab-techs-newest-unicorn-has-no-offices/)
 - [No need to come to the office: Making remote work at GitLab](https://hackernoon.com/no-need-to-come-to-the-office-making-remote-work-at-gitlab-737c42865210)
-- [GitLab and Buffer CEOs talk transparency at scale](/blog/2017/03/14/buffer-and-gitlab-ceos-talk-transparency/)
+- [GitLab and Buffer CEOs talk transparency at scale](https://about.gitlab.com/blog/2017/03/14/buffer-and-gitlab-ceos-talk-transparency/)
 - [Why GitLab is remote only](http://tapes.scalevp.com/remote-only-gitlab-sytse-sid-sijbrandij/)
 - [Tips for Managing a Remote Workforce During Coronavirus — and Beyond](https://business.linkedin.com/talent-solutions/blog/work-flexibility/2020/tips-for-managing-remote-workforce-during-coronavirus)
 - [GitLab 2020 Remote Work Report Highlights Key Motivators for Remote Work](https://www.infoq.com/news/2020/03/gitlab-2020-remote-work-report/)
@@ -72,39 +63,39 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 - [First time all remote: Expect the unexpected](https://dnsmichi.at/2020/03/16/first-time-all-remote-expect-the-unexpected/)
 - [First time all remote: My first week at GitLab](https://dnsmichi.at/2020/03/09/first-time-all-remote-my-first-week-at-gitlab/)
-- [5 tips for mastering video calls](/blog/2019/08/05/tips-for-mastering-video-calls/)
-- [How to make your home a space that works with kids](/blog/2019/08/01/working-remotely-with-children-at-home/)
-- [How being all remote helps us practice our values at GitLab](/blog/2019/07/31/pyb-all-remote-mark-frein/)
-- [How I balance a baby, a career at GitLab, and cultural expectations of motherhood](/blog/2019/07/25/balancing-career-and-baby/)
-- [How to live your best remote life](/blog/2019/07/09/tips-for-working-from-home-remote-work/)
-- [My remote story: Living for more than the weekend](/blog/2020/04/30/living-for-more-than-the-weekend/)
-- [5 things you might hear when meeting with GitLab's CEO](/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)
-- [How I work from anywhere (with good internet)](/blog/2019/06/25/how-remote-work-at-gitlab-enables-location-independence/)
-- [A day in the life of the "average" remote worker](/blog/2019/06/18/day-in-the-life-remote-worker/)
+- [5 tips for mastering video calls](https://about.gitlab.com/blog/2019/08/05/tips-for-mastering-video-calls/)
+- [How to make your home a space that works with kids](https://about.gitlab.com/blog/2019/08/01/working-remotely-with-children-at-home/)
+- [How being all remote helps us practice our values at GitLab](https://about.gitlab.com/blog/2019/07/31/pyb-all-remote-mark-frein/)
+- [How I balance a baby, a career at GitLab, and cultural expectations of motherhood](https://about.gitlab.com/blog/2019/07/25/balancing-career-and-baby/)
+- [How to live your best remote life](https://about.gitlab.com/blog/2019/07/09/tips-for-working-from-home-remote-work/)
+- [My remote story: Living for more than the weekend](https://about.gitlab.com/blog/2020/04/30/living-for-more-than-the-weekend/)
+- [5 things you might hear when meeting with GitLab's CEO](https://about.gitlab.com/blog/2019/06/28/five-things-you-hear-from-gitlab-ceo/)
+- [How I work from anywhere (with good internet)](https://about.gitlab.com/blog/2019/06/25/how-remote-work-at-gitlab-enables-location-independence/)
+- [A day in the life of the "average" remote worker](https://about.gitlab.com/blog/2019/06/18/day-in-the-life-remote-worker/)
 - [First time all-remote: My new workspace featuring standing desk and curved monitor](https://dnsmichi.at/2020/04/28/first-time-all-remote-my-new-workspace-feat-standing-desk-and-curved-monitor/)
 - [We’re all in this Together: A Wellness Guide from the CNCF Well-Being Working Group](https://www.cncf.io/blog/2020/04/03/were-all-in-this-together-a-wellness-guide-from-the-cncf-well-being-working-group/)
 - [One year at GitLab](http://shedoesdatathings.com/post/1-year-at-gitlab/)
-- [How we turned a dull weekly all-hands into a podcast](/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast/)
-- [The GitLab handbook by the numbers](/blog/2019/04/24/the-gitlab-handbook-by-numbers/)
-- [Remote manifesto by GitLab](/blog/2015/04/08/the-remote-manifesto/)
-- [Working remotely at GitLab: an update](/blog/2016/03/04/remote-working-gitlab/)
-- [The case for all-remote companies](/blog/2018/10/18/the-case-for-all-remote-companies/)
-- [How remote work enables rapid innovation at GitLab](/blog/2019/02/27/remote-enables-innovation/)
-- [Why GitLab pays local rates](/blog/2019/02/28/why-we-pay-local-rates/)
-- [Remote work: 9 tips for eliminating distractions and getting things done](/blog/2018/05/17/eliminating-distractions-and-getting-things-done/)
-- [A day in the life of a remote Sales Development Representative](/blog/2018/05/11/day-in-life-of-remote-sdr/)
-- [The remote future: How tech companies are helping their remote teams connect](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/)
-- [Remote work, done right](/blog/2018/03/16/remote-work-done-right/)
-- [How working at GitLab has changed my view on work and life](/blog/2018/03/15/working-at-gitlab-affects-my-life/)
-- [GitLab team-members share how to recognize burnout and how to prevent it](/blog/2018/03/08/preventing-burnout/)
-- [How we stay connected as a remote company](/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/)
-- [How to become the best distributed software development team](/blog/2017/09/15/pick-your-brain-interview-kwan-lee/)
-- [How to keep remote (volunteer) teams engaged](/blog/2016/12/21/how-to-keep-remote-teams-engaged/)
-- [3 things I learned in my first month at GitLab](/blog/2016/11/02/three-things-i-learned-in-my-first-month-at-gitlab/)
-- [Working at GitLab: 30 days later](/blog/2016/11/03/working-at-gitlab-30-days-later/)
-- [What it's like to be a parent working at GitLab](/blog/2016/04/08/remote-working-parents/)
-- [To work remotely you need: Wifi and good communication habits](/blog/2016/03/23/remote-communication/)
-- [Highlights to my first remote job](/blog/2015/06/17/highlights-to-my-first-remote-job/)
+- [How we turned a dull weekly all-hands into a podcast](https://about.gitlab.com/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast/)
+- [The GitLab handbook by the numbers](https://about.gitlab.com/blog/2019/04/24/the-gitlab-handbook-by-numbers/)
+- [Remote manifesto by GitLab](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
+- [Working remotely at GitLab: an update](https://about.gitlab.com/blog/2016/03/04/remote-working-gitlab/)
+- [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
+- [How remote work enables rapid innovation at GitLab](https://about.gitlab.com/blog/2019/02/27/remote-enables-innovation/)
+- [Why GitLab pays local rates](https://about.gitlab.com/blog/2019/02/28/why-we-pay-local-rates/)
+- [Remote work: 9 tips for eliminating distractions and getting things done](https://about.gitlab.com/blog/2018/05/17/eliminating-distractions-and-getting-things-done/)
+- [A day in the life of a remote Sales Development Representative](https://about.gitlab.com/blog/2018/05/11/day-in-life-of-remote-sdr/)
+- [The remote future: How tech companies are helping their remote teams connect](https://about.gitlab.com/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/)
+- [Remote work, done right](https://about.gitlab.com/blog/2018/03/16/remote-work-done-right/)
+- [How working at GitLab has changed my view on work and life](https://about.gitlab.com/blog/2018/03/15/working-at-gitlab-affects-my-life/)
+- [GitLab team-members share how to recognize burnout and how to prevent it](https://about.gitlab.com/blog/2018/03/08/preventing-burnout/)
+- [How we stay connected as a remote company](https://about.gitlab.com/blog/2016/12/05/how-we-stay-connected-as-a-remote-company/)
+- [How to become the best distributed software development team](https://about.gitlab.com/blog/2017/09/15/pick-your-brain-interview-kwan-lee/)
+- [How to keep remote (volunteer) teams engaged](https://about.gitlab.com/blog/2016/12/21/how-to-keep-remote-teams-engaged/)
+- [3 things I learned in my first month at GitLab](https://about.gitlab.com/blog/2016/11/02/three-things-i-learned-in-my-first-month-at-gitlab/)
+- [Working at GitLab: 30 days later](https://about.gitlab.com/blog/2016/11/03/working-at-gitlab-30-days-later/)
+- [What it's like to be a parent working at GitLab](https://about.gitlab.com/blog/2016/04/08/remote-working-parents/)
+- [To work remotely you need: Wifi and good communication habits](https://about.gitlab.com/blog/2016/03/23/remote-communication/)
+- [Highlights to my first remote job](https://about.gitlab.com/blog/2015/06/17/highlights-to-my-first-remote-job/)
 - [I'm leaving GitLab to help everyone work remotely](https://medium.com/@jobv/im-leaving-gitlab-to-help-everyone-work-remotely-1f6828ec45d5)
 
 #### Videos, podcasts, interviews, presentations
@@ -176,7 +167,8 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 ## Resources on remote work
 
-![GitLab values](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
+![GitLab values](/images/all-remote/gitlab-values-tanukis.jpg)
+{style="max-width: 50%"}
 
 #### Articles
 
@@ -261,13 +253,13 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 - [How to get the most out of employees who work from home](https://www.entrepreneur.com/article/228752)
 - [How to manage employees who work from home](https://money.cnn.com/2013/08/27/smallbusiness/employees-work-from-home/index.html)
 - [How to manage a distributed development team](https://www.cio.com/article/2399319/how-to-manage-a-distributed-development-team.html)
-- [Managing Remote Developer Teams: How Buffer Set the Gold Standard - Interview with Katie Womersley ](https://codingsans.com/blog/managing-remote-developer-teams)
+- [Managing Remote Developer Teams: How Buffer Set the Gold Standard - Interview with Katie Womersley](https://codingsans.com/blog/managing-remote-developer-teams)
 - [What Is the Best Compensation Model?](https://www.remoter.com/what-is-the-best-compensation-model)
 
 
 #### Surveys and data
 
-- [The Remote Work Report by GitLab: The Future of Work is Remote](/company/culture/all-remote/remote-work-report/)
+- [The Remote Work Report by GitLab: The Future of Work is Remote]({{< ref "./remote-work-report" >}})
 - [Sike Insights — EQ & Remote Managers Report](https://bit.ly/3iX519B)
 - [Slack — A new guide for adapting to a radically different workplace](https://slack.com/blog/transformation/navigating-the-disruption-of-work)
 - [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
@@ -302,7 +294,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 
 #### Tools that enable remote teams
 
-Here's [a list](/handbook/tools-and-tips/) of the tools we use internally at GitLab, with details on how we use them.
+Here's [a list]({{< ref "/handbook/tools-and-tips" >}}) of the tools we use internally at GitLab, with details on how we use them.
 
 [Elaine Z.](https://twitter.com/ezelby), investor at [SignalFire](https://twitter.com/SignalFire), compiled an [excellent summary of tools](https://medium.com/@ezelby/remote-work-market-map-58591966b0c2) for remote teams to consider. Others are shared below.
 
@@ -348,11 +340,11 @@ Here's [a list](/handbook/tools-and-tips/) of the tools we use internally at Git
 - [Hopin](https://hopin.to/) - all-in-one live online events platform
 - [Remo](https://remo.co/) - virtual workspace tool
 
-#### Coworking, communal workspaces, and third spaces
+#### Co-working, communal workspaces, and third spaces
 
-Remote work [enables](/company/culture/all-remote/phases-of-remote-adaptation/) individuals and teams to create and contribute in places other than a home or conventional office. Many are familiar with [WeWork](https://www.wework.com/) and [Regus](https://www.regus.com/en-us), where a desk or office is available to rent. Post-COVID, leaders are recognizing the need to support the *third space* — a workplace that isn't one's home, and isn't an office.
+Remote work [enables]({{< ref "./phases-of-remote-adaptation" >}}) individuals and teams to create and contribute in places other than a home or conventional office. Many are familiar with [WeWork](https://www.wework.com/) and [Regus](https://www.regus.com/en-us), where a desk or office is available to rent. Post-COVID, leaders are recognizing the need to support the *third space* — a workplace that isn't one's home, and isn't an office.
 
-Some organizations (like GitLab) provide stipends or [reimbursement](/handbook/finance/expenses/#coworking-or-external-office--space) as a matter of inclusivity and productivity. Not every home is amenable to remote work, and not everyone is comfortable working in a traditional office. These communal workspaces provide the energy and camaraderie of working in-person as a group, with the flexibility of being near one's home (and in turn, avoiding a commute).
+Some organizations (like GitLab) provide stipends or [reimbursement](https://about.gitlab.com/handbook/finance/expenses/#coworking-or-external-office--space) as a matter of inclusivity and productivity. Not every home is amenable to remote work, and not everyone is comfortable working in a traditional office. These communal workspaces provide the energy and camaraderie of working in-person as a group, with the flexibility of being near one's home (and in turn, avoiding a commute).
 
 - [Codi](https://www.codi.com/) (residential coworking spaces in neighborhoods that matter to you)
 - [Switchyards](https://switchyards.com/) (neighborhood work clubs)
@@ -372,6 +364,7 @@ Some organizations (like GitLab) provide stipends or [reimbursement](/handbook/f
 - [Remote Work Association](https://www.remoteworkassociation.com/)
 
 #### Guides for remote work
+
 - [The Holloway Guide to Remote Work](https://www.holloway.com/g/remote-work)
 - [Don’t Panic: The Essential Work From Home Field Guide by Maren Kate](https://inde.co/remote)
 - [Google's Distributed Work Playbook](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
@@ -393,4 +386,4 @@ Here's how you can participate:
 
 ----
 
-Return to the main [all-remote page](/company/culture/all-remote/).
+Return to the main [all-remote page]({{< ref "_index.md" >}}).

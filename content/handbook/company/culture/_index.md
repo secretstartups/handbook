@@ -1,37 +1,29 @@
 ---
-layout: markdown_page
 title: "GitLab Culture"
 description: "Here's a look at what you can expect from our culture and all-remote environment."
-canonical_path: "/company/culture/"
 twitter_image: "/images/opengraph/Talent-Brand/hiring-group-shot-sko.png"
 twitter_image_alt: "GitLab Team Members gathered together at an event."
 twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
 ## Introduction
 
-Please see our [company page](/company/){:data-ga-name="company"}{:data-ga-location="body"} for more general information about GitLab. You can see how our team has grown at the [GitLab Contribute page.](/events/gitlab-contribute/){:data-ga-name="contribute"}{:data-ga-location="body"}
+Please see our [company page]({{< ref "company" >}}) for more general information about GitLab. You can see how our team has grown at the [GitLab Contribute page.](https://about.gitlab.com/events/gitlab-contribute/)
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/GKMUs7WXm-E" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+{{< youtube "GKMUs7WXm-E" >}}
+
 ## Life at GitLab
 
-![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg){: .medium.center}
+![GitLab collaboration illustration](/images/all-remote/gitlab-collaboration-illustration.jpg)
+{.mx-auto style="max-width: 50%;"}
 
 It’s an exciting time to be part of GitLab. We're a fast-growing, all-remote team, and we're looking for people to join us around the world.
-Here's a look at what you can expect from our culture and [all-remote environment](/company/culture/all-remote/guide/){:data-ga-name="all remote enviroment"}{:data-ga-location="body"}.
+Here's a look at what you can expect from our culture and [all-remote environment]({{< ref "./all-remote/guide" >}}).
 
 ### Everyone can contribute
 
-Our size and [our mission](/company/mission/#mission){:data-ga-name="mission"}{:data-ga-location="body"} (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
+Our size and [our mission]({{< ref "mission#mission" >}}) (that everyone can contribute) mean that our team members can — and are expected to — make an impact across the company.
 
 Because we all use our product internally, you don't have to be a developer to learn to collaborate in the GitLab tool.
 From your very first week, no matter your role, you'll gain the technical skills needed to access, question, and contribute to projects far beyond your job description.
@@ -46,7 +38,7 @@ You'll need to think creatively, speak up to see how you can help, and be willin
 
 ### Freedom to iterate
 
-At GitLab, our [value of iteration](/handbook/values/#iteration){:data-ga-name="iteration"}{:data-ga-location="body"} has a unique impact on the way we operate and get things done.
+At GitLab, our [value of iteration]({{< ref "values#iteration" >}}) has a unique impact on the way we operate and get things done.
 
 Working this way means our team members are expected to quickly deliver the minimum viable change in their work instead of waiting to produce a polished, completed product.
 
@@ -54,22 +46,17 @@ While this can be a challenging practice to adopt at first, it's liberating to b
 
 As our company and the industry continue to grow, you'll have the freedom to change and constantly evolve everything from your schedule and your workspace to your job description and your skills.
 
-
 ### All-remote work
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/eIs71f5IEUU?start=468" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "eIs71f5IEUU?start=468" >}}
 
 *In the above [interview](https://youtu.be/eIs71f5IEUU) with [Stuart Miniman](https://twitter.com/stu) of [theCUBE](https://www.thecube.net/), GitLab CEO and co-founder Sid Sijbrandij discusses the merits of operating a 100% remote organization, and why he believes it's the future of work.*
 
-> At GitLab, we're figuring out a lot of things you have to do to be all-remote, and we're trying to share those lessons. That's anything from working [handbook-first](/handbook/handbook-usage/#why-handbook-first){:data-ga-name="handbook first"}{:data-ga-location="body"} to [communication styles](/company/culture/all-remote/effective-communication/){:data-ga-name="effective comunication"}{:data-ga-location="body"} and being intentional about [informal communication](/company/culture/all-remote/informal-communication/){:data-ga-name="informal communication"}{:data-ga-location="body"}. 
+> At GitLab, we're figuring out a lot of things you have to do to be all-remote, and we're trying to share those lessons. That's anything from working [handbook-first]({{< ref "handbook-usage#why-handbook-first" >}}) to [communication styles]({{< ref "./all-remote/effective-communication" >}}) and being intentional about [informal communication]({{< ref "./all-remote/informal-communication" >}}).
 >
-> If you Google "*GitLab all-remote*", you'll find tons of tips. And those are based not just on what we say, but what we *do*. We have a public [handbook](/handbook/){:data-ga-name="handbook"}{:data-ga-location="body"} of over 3000 pages with all our internal processes. You can check out what we really do to make this work. 
+> If you Google "*GitLab all-remote*", you'll find tons of tips. And those are based not just on what we say, but what we *do*. We have a public [handbook]({{< ref "/handbook" >}}) of over 3000 pages with all our internal processes. You can check out what we really do to make this work.
 >
-> I think it's going to be the future. In the future, companies who make digital products are going to be much more all-remote. And we want to [enable that trend](/company/culture/all-remote/vision/){:data-ga-name="vision"}{:data-ga-location="body"}. We think it's great for [team members](/company/culture/all-remote/people/){:data-ga-name="team members"}{:data-ga-location="body"}.
+> I think it's going to be the future. In the future, companies who make digital products are going to be much more all-remote. And we want to [enable that trend]({{< ref "remote-vision" >}}). We think it's great for [team members]({{< ref "./all-remote/people" >}}).
 
 GitLab is one of the world's largest all-remote companies, and being a part of our team offers unique advantages beyond the requisite flexibility you'll find in many organizations.
 
@@ -81,83 +68,80 @@ By nature, having no offices or headquarters makes us more inclusive, more trans
 With a team spread across over 65 countries around the globe, we invite diverse perspectives, we document everything, and we collaborate asynchronously.
 
 Despite all of its benefits for team members, our company, and the world, remote work isn't for everyone.
-Learn more about [all-remote work](/company/culture/all-remote/){:data-ga-name="all remote work"}{:data-ga-location="body"} at GitLab and decide if it's right for you.
+Learn more about [all-remote work]({{< ref "all-remote" >}}) at GitLab and decide if it's right for you.
 
 ## Culture at GitLab
 
-![GitLab values](/images/all-remote/gitlab-values-tanukis.jpg){: .medium.center}
+![GitLab values](/images/all-remote/gitlab-values-tanukis.jpg)
+{.mx-auto style="max-width: 50%;"}
 
 Culture at GitLab is composed of three things.
 
-1. [GitLab Values](/handbook/values/)
-1. Camaraderie (mutual trust and friendship). This is created and maintained by [informal communication](/company/culture/all-remote/informal-communication/){:data-ga-name="informal communication"}{:data-ga-location="body"}. We also build trust by [effectively collaborating](/handbook/values/#dont-let-each-other-fail) with others.
-1. Work style (how we work). This is defined and articulated in our [communication guide](/handbook/communication/) and [handbook usage guide](/handbook/handbook-usage/){:data-ga-name="handbook"}{:data-ga-location="body"}.
+1. [GitLab Values]({{< ref "values" >}})
+1. Camaraderie (mutual trust and friendship). This is created and maintained by [informal communication](.{{< ref "./all-remote/informal-communication" >}}/. We also build trust by [effectively collaborating]({{< ref "values#dont-let-each-other-fail" >}}) with others.
+1. Work style (how we work). This is defined and articulated in our [communication guide]({{< ref "communication" >}}) and [handbook usage guide]({{< ref "handbook-usage" >}}).
 
-In other organizations, culture may be defined through the *personality of the group*. This includes people who have traits in common and people who you enjoy spending time with. Note that this is not something that should matter when [evaluating people for work](/handbook/values/#culture-fit-is-a-bad-excuse){:data-ga-name="culture fit"}{:data-ga-location="body"}, and this is not what we mean with Culture at GitLab.
+In other organizations, culture may be defined through the *personality of the group*. This includes people who have traits in common and people who you enjoy spending time with. Note that this is not something that should matter when [evaluating people for work]({{< ref "#culture-fit-is-a-bad-excuse" >}}), and this is not what we mean with Culture at GitLab.
 
 Watch this live speaker series, hosted on 2021-11-18, with Carter Gibson and Markus Mühlbauer from Google on Building Internal Culture.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/fFHadx3J3oA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "fFHadx3J3oA" >}}
 
 Some key takeaways from the call include:
 
 1. Culture isn't preserved. Instead, it evolves. Every team member can contribute to and iterate on the company culture.
 1. It's important to scale communication as companies grow to accommodate different learning styles, communities, and team member expectations.
-1. Culture shouldn't look at roles or levels in the company. There’s no way for a company to dictate a culture from the top down. If you manage to build up this sense of belonging in everyone in the company, it builds up resilience. 
+1. Culture shouldn't look at roles or levels in the company. There’s no way for a company to dictate a culture from the top down. If you manage to build up this sense of belonging in everyone in the company, it builds up resilience.
 
 ## Advantages
 
-<%= partial "includes/reasons_to_work_for_gitlab" %>
+{{% include "includes/reasons-to-work-for-gitlab.md" %}}
 
 ## Other pages related to culture
 
-1. [GitLab 101](/company/culture/gitlab-101/){:data-ga-name="gitlab 101"}{:data-ga-location="body"}
-1. [GitLab Contribute](/events/gitlab-contribute/){:data-ga-name="contribute"}{:data-ga-location="body"}
-1. [Internal Feedback](/company/culture/internal-feedback/){:data-ga-name="internal feedback"}{:data-ga-location="body"}
-1. [Diversity, Inclusion and Belonging](/company/culture/inclusion/){:data-ga-name="diversity"}{:data-ga-location="body"}
-1. [All-Remote](/company/culture/all-remote/){:data-ga-name="all remote"}{:data-ga-location="body"}
-1. [GitLab Songbook](/company/culture/songbook/){:data-ga-name="songbook"}{:data-ga-location="body"}
-1. [Still a Startup](/company/still-a-startup/){:data-ga-name="still a startup"}{:data-ga-location="body"}
+1. [GitLab 101]({{< ref "./gitlab-101" >}})
+1. [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/)
+1. [Internal Feedback]({{< ref "internal-feedback" >}})
+1. [Diversity, Inclusion and Belonging]({{< ref "./inclusion" >}})
+1. [All-Remote]({{< ref "./all-remote" >}})
+1. [GitLab Songbook]({{< ref "./songbook" >}})
+1. [Still a Startup]({{< ref "still-a-startup" >}})
 
 ## Historical Anecdotes
 
-#### _October 8th, 2011_
+#### *October 8th, 2011*
 
-Dmitriy started GitLab when he pushed the [initial commit](https://gitlab.com/gitlab-org/gitlab-ce/commit/9ba1224867665844b117fa037e1465bb706b3685){:data-ga-name="initial commit"}{:data-ga-location="body"}.
+Dmitriy started GitLab when he pushed the [initial commit](https://gitlab.com/gitlab-org/gitlab-ce/commit/9ba1224867665844b117fa037e1465bb706b3685).
 
-#### _August 24th, 2012_
+#### *August 24th, 2012*
 
 Sid announced [GitLab on HN](https://news.ycombinator.com/item?id=4428278).
 
-#### _September 14th, 2012_
+#### *September 14th, 2012*
 
 First 10 people get access to GitLab Cloud (now known as GitLab.com).
 
-#### _November 13th, 2012_
+#### *November 13th, 2012*
 
 GitLab CI is officially announced.
 
-#### _July 22nd, 2013_
+#### *July 22nd, 2013*
 
-[GitLab Enterprise Edition is announced](/releases/2013/07/22/announcing-gitlab-enterprise-edition/){:data-ga-name="enterprise edition"}{:data-ga-location="body"}.
+[GitLab Enterprise Edition is announced](https://about.gitlab.com/releases/2013/07/22/announcing-gitlab-enterprise-edition/).
 
-#### _April 18th, 2014_
+#### *April 18th, 2014*
 
-[GitLab Cloud renamed to GitLab.com](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/){:data-ga-name="gitlab cloud renaming"}{:data-ga-location="body"}.
+[GitLab Cloud renamed to GitLab.com](https://about.gitlab.com/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
 
-#### _March 4th, 2015_
+#### *March 4th, 2015*
 
-[GitLab in Y Combinator winter 2015 batch](/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/){:data-ga-name="Y combinator family"}{:data-ga-location="body"}.
+[GitLab in Y Combinator winter 2015 batch](https://about.gitlab.com/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/).
 
-#### _August 15th, 2015_
+#### *August 15th, 2015*
 
 Series A Funding was signed.
 
-#### _October 10th, 2015_
+#### *October 10th, 2015*
 
 Anniversary of our first ever summit in Amsterdam with 25 GitLab team-members.
 
@@ -170,90 +154,40 @@ What better way to convey a sense of who we are and how we work together, than b
 
 <!-- HTML blocks below - applied to make the images and the video more harmonic than 1 single column with each on a different "row" -->
 
-<br>
+{{% cardpane %}}
+{{% card footer="<a href=\"https://about.gitlab.com/blog/2016/01/06/our-y-combinator-experience/\">Back then</a>, the whole team used to fit in one car. And the car was called \"the Boat\"." %}}
+![The Boat](/images/culture/boat.jpg)
+{{% /card %}}
+{{% card footer="We even took the Boat from San Francisco to Las Vegas to celebrate Job's bachelor party, but as you can see in this video, he thought we were going to visit a customer in Los Angeles!" %}}
+{{% youtube "JZG41C0aFfA" %}}
+{{% /card %}}
+{{% /cardpane %}}
 
-<div class="row">
-  <div class="col-sm-8 col-xm-12"><img src="/images/blogimages/boat.jpg" alt="The Boat"></div>
-  <div class="col-md-4 col-xm-12">
-    <p><a href="/blog/2016/01/06/our-y-combinator-experience/">Back then</a>, the whole team used to fit in one car. And the car was called "the Boat".</p>
-  </div>
-</div>
-
-<br>
-
-<div class="row">
-  <div class="col-sm-8 col-xm-12">
-    <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/JZG41C0aFfA" frameborder="0" allowfullscreen="true"></iframe>
-    </figure>
-  </div>
-  <div class="col-sm-4 col-xm-12">
-    <p>We even took the Boat from San Francisco to Las Vegas to celebrate Job's bachelor party, but as you can see in this video, he thought we were going to visit a customer in Los Angeles!</p>
-  </div>
-</div>
-
-<br>
 
 ### The cattle
 
-<br>
-
-<div class="row">
-  <div class="col-md-4 col-xm-12"><img class="cattle" src="/images/cattle_stare.JPG" alt="Staring down cattle"></div>
-  <div class="col-md-8 col-xm-12">
-    <h4 class="media-heading">Staring down the cattle?</h4>
-    <p class="justify-1">Our CFO, Paul, was on vacation on a cattle ranch,
-    during a time of fundraising. Normally vacation is vacation of course, but
-    in this case it was necessary to have some calls now and again which
-    required strong internet. To get to strong internet, Paul had to cross
-    fields with cattle in them, and stare them down. Over the course of many
-    trips he learned that cattle are docile, mostly... but don't turn your back
-    on them because they can't be outrun!</p>
-  </div>
-</div>
-
-<br>
+{{% cardpane %}}
+{{% card header="**Staring down the cattle?**" footer="Our CFO, Paul, was on vacation on a cattle ranch, during a time of fundraising. Normally vacation is vacation of course, but in this case it was necessary to have some calls now and again which required strong internet. To get to strong internet, Paul had to cross fields with cattle in them, and stare them down. Over the course of many trips he learned that cattle are docile, mostly... but don't turn your backon them because they can't be outrun!" %}}
+![Staring down cattle](/images/culture/cattle_stare.JPG)
+{.text-center}
+{{% /card %}}
+{{% /cardpane %}}
 
 ### IPO date comes in handy... 2 years out
 
-<div class="row">
-  <div class="col-sm-8 col-xm-12">
-    <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/4BIsON95fl8?start=1825" frameborder="0" allowfullscreen="true"> </iframe>
-    </figure>
-  </div>
-  <div class="col-sm-4 col-xm-12">
-    <p>After spending a couple of days in meetings with customers in New York City, USA, Sid and Kirsten had a few hours before their flight and wanted to visit the WTC Observatory deck. It didn't work out but our IPO date did work out in their favor. In the keynote at our Cape Town event, Sid explains what happened.</p>
-  </div>
-</div>
-
-<br>
+{{% cardpane %}}
+{{% card footer="After spending a couple of days in meetings with customers in New York City, USA, Sid and Kirsten had a few hours before their flight and wanted to visit the WTC Observatory deck. It didn't work out but our IPO date did work out in their favor. In the keynote at our Cape Town event, Sid explains what happened." %}}
+{{% youtube "4BIsON95fl8?start=1825" %}}
+{{% /card %}}
+{{% /cardpane %}}
 
 ### So that's what it's like to work at GitLab...
 
-<div class="row">
-  <div class="col-sm-8 col-xm-12">
-    <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/4BIsON95fl8?start=1143" frameborder="0" allowfullscreen="true"> </iframe>
-    </figure>
-  </div>
-  <div class="col-sm-4 col-xm-12">
-    <p>Being new to GitLab, our CRO, Michael McBride joined Sid in meeting with customers in New York City, USA where customers got a glimpse of what it's like to work at GitLab for him</p>
-  </div>
-</div>
-
-<br>
+{{% cardpane %}}
+{{% card footer="Being new to GitLab, our CRO, Michael McBride joined Sid in meeting with customers in New York City, USA where customers got a glimpse of what it's like to work at GitLab for him" %}}
+{{% youtube "4BIsON95fl8?start=1143" %}}
+{{% /card %}}
+{{% /cardpane %}}
 
 
-<!-- particular styles for the pictures and video at the beginning -->
-
-<style>
-.justify,.justify-1 { text-align: justify; }
-.media-heading { margin-bottom: 5px; }
-@media (max-width: 767px) {
-.col-sm-8 h4,.justify { padding-top: 10px; }
-}
-@media (max-width: 991px) {
-.col-md-8 h4,.justify-1 { padding-top: 10px; }
-}
-</style>
+{{< include "includes/take-gitlab-for-a-spin.md" >}}

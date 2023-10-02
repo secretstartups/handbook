@@ -1,7 +1,5 @@
 ---
-layout: handbook-page-toc
 title: "History of all-remote work"
-canonical_path: "/company/culture/all-remote/history/"
 description: History of remote work
 twitter_image: "/images/opengraph/all-remote.jpg"
 twitter_image_alt: "GitLab remote team graphic"
@@ -9,21 +7,14 @@ twitter_site: "@gitlab"
 twitter_creator: "@gitlab"
 ---
 
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-## Introduction
-
 On this page, we're curating important historical moments and milestones that have shaped and furthered remote work globally.
 
 ### Nikola Tesla
 
 [Nikola Tesla](https://www.britannica.com/biography/Nikola-Tesla) was an engineer and inventor, best known for his contributions and experiments linked to electrical systems.
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Nikola Tesla in 1926: Wireless will eliminate distance and allow individuals to communicate instantly, as perfectly as though we were face to face. <br><br>The whole earth will be converted into a huge brain. <br><br>The instrument? A man will be able to carry one in his vest pocket. <a href="https://t.co/JrQjCRQEgU">pic.twitter.com/JrQjCRQEgU</a></p>&mdash; Garry() (@garrytan) <a href="https://twitter.com/garrytan/status/1161083440130691072?ref_src=twsrc%5Etfw">August 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{% tweet user="garrytan" id="1161083440130691072" %}}
+
 In a 1926 issue of [Collier's](http://www.tfcbooks.com/tesla/1926-01-30.htm) magazine, Tesla shared a number of predictions for the future. In forecasting a telephone which could be carried in one's vest pocket, he also alluded to wireless communications that would become the foundation for enabling conditions suitable for an all-remote company to thrive. A portion of the interview is below.
 
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance. Not only this, but through television and telephony we shall see and hear one another as perfectly as though we were face to face, despite intervening distances of thousands of miles; and the instruments through which we shall be able to do his will be amazingly simple compared with our present telephone. A man will be able to carry one in his vest pocket.
@@ -32,13 +23,9 @@ In a 1926 issue of [Collier's](http://www.tfcbooks.com/tesla/1926-01-30.htm) mag
 
 ### Sir Arthur Charles Clarke
 
-Arthur C. Clarke was a writer, inventor, and futurist. 
+Arthur C. Clarke was a writer, inventor, and futurist.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/FxYgdX2PxyQ?start=104" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "FxYgdX2PxyQ?start=104" >}}
 
 In this [BBC Horizon clip](https://youtu.be/FxYgdX2PxyQ?t=104), which originally aired in 1964, Clarke predicts that in or around the year 2000, working remotely by leveraging advanced telecommunications will be possible. A portion of his interview is transcribed below.
 
@@ -50,17 +37,13 @@ In this [BBC Horizon clip](https://youtu.be/FxYgdX2PxyQ?t=104), which originally
 
 [Robert Noyce](https://www.intel.com/content/www/us/en/history/museum-robert-noyce.html) is known as "the Mayor of Silicon Valley," or "Statesman of Silicon Valley." He is Intel's co-founder and the co-inventor of the integrated circuit.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/VG2jwWtjyXU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+{{< youtube "VG2jwWtjyXU" >}}
 
 In [this Tomorrow/Today clip](https://www.youtube.com/watch?v=VG2jwWtjyXU), which originally aired in March of 1981, Noyce posits that as computing power becomes less expensive and more attainable, it will free workers from the burden of traveling to work. His thoughts have proven prescient, and his foresight is particularly impressive given that it predated the modern internet. A portion of his interview is transcribed below.
 
 > "If I look out on the road there, we find most of the cars that are driving by are not carrying goods. They're carrying brains. Trying to take the brain to the place where the work is to be done. With modern communications, and the extension of what we can see in communications, and in computer power — in getting information transferred back and forth — there is no reason why you could not carry on this interview at home, at your office, with me at my office, etcetera.
 >
-> And I think that as we look farther into the future, we're going to find that people will live where it is conducive to live. Not where it is conducive to work. That the movement of the work to the individual will be much easier, because, as I say, most of our people are doing knowledge work, not work with phsyical materials.
+> And I think that as we look farther into the future, we're going to find that people will live where it is conducive to live. Not where it is conducive to work. That the movement of the work to the individual will be much easier, because, as I say, most of our people are doing knowledge work, not work with physical materials.
 >
 > So, at least that half of the population — today's population — could work wherever they please. Without any limitation that they have to go into a particular point to do their work. As long as the communications and the information is available to them wherever they happen to be.
 >
@@ -68,4 +51,4 @@ In [this Tomorrow/Today clip](https://www.youtube.com/watch?v=VG2jwWtjyXU), whic
 
 ----
 
-Return to the main [all-remote page](/company/culture/all-remote/).
+Return to the main [all-remote page]({{< ref "_index.md" >}}).
