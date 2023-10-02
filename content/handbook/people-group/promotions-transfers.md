@@ -325,24 +325,24 @@ When reviewing compensation for a transfer in Greenhouse, the Total Rewards team
 This section describes the approval chain after the People Business Partner submits a promotion request in Workday.
 
 1. The changes will route for approval to the manager, next level manager,and e-Group leader.
-1. If the request is approved, the People Connect Team will stage the [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) in DocuSign.
-1. DocuSign will prompt the manager to discuss the promotion with the team member. The Manager will communicate the change to the team member in their `1-1 meeting by sharing the letter of adjustment on the call`. The Manager and the team member will process/sign the letter. Following the signatures, the manager will announce the promotion on the slack #team-member-updates channel. In the announcement the manager will describe how the individual met the promotion criteria and offer congratulations.
+1. If the request is approved, the People Connect Team will stage the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) in DocuSign.
+1. DocuSign will prompt the manager to discuss the promotion with the team member. The Manager will communicate the change to the team member in their `1-1 meeting by sharing the job change letter on the call`. The Manager and the team member will process/sign the letter. Following the signatures, the manager will announce the promotion on the slack #team-member-updates channel. In the announcement the manager will describe how the individual met the promotion criteria and offer congratulations.
 1. For change of departments and managers, People Connect Team members will create a Career Mobility Issue.
 
 ### For People Connect Team: Processing Promotions, Internal Transfers & Compensation Changes
 
-1. If the request is approved through Workday, the People Connect Team will create the [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed.
+1. If the request is approved through Workday, the People Connect Team will create the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}), whereas if the request is through Greenhouse the `People Connect Team will be notified via the People Connect team email` inbox that the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) has been created by the CES team and signed.
 1. The People Connect Team member notifies Payroll of the changes by adding the relevant details to the applicable payroll sheet depending on the country under the 'Compensation' header and starting month tab
     - [Non-US payroll changes](https://docs.google.com/spreadsheets/d/1M_puIKHLWkHnVzOJ2MwjIpQ-mwxolae-LpT2VPlByv0/edit#gid=261391927)
     - [(US)Payroll Changes](https://docs.google.com/spreadsheets/d/1163qL1tIG32vAVUNNIbhnPnzkL5euPAD9DGlOaapTjY/edit#gid=1431873926)
     - [Canada Payroll Changes](https://docs.google.com/spreadsheets/d/1_jX0TuBarGHnvM3CL7n64ily9a7aV4himDREODk8Ddo/edit#gid=13386269)
 1. If there is a sales commission change: Add the details to the [Final Sales OTE sheet](https://docs.google.com/spreadsheets/d/1lyGxlNAdY4PLMKR31Zw46i7jpb8qfMovMJBUql8PfjE/edit?usp=sharing)
 
-#### Letter of Adjustment
+#### Job Change Letter
 
-1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a letter of adjustment as per the steps mentioned below. If the team member is employed by a PEO, notify the applicable [PEO](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity) either by email or for remote.com via their dashboard. See the People Connect 1password vault for contact details.
-1. Review the [Signature requirements per country](https://docs.google.com/spreadsheets/d/1L85i10rGZuECx-Wxe-lr9O5AaTN2iuD-oVQDAwKDeQ8/edit?usp=sharing) and process the letter of adjustment accordingly.
-1. Make a copy of the [Letter of Adjustment template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request and add the applicable [Signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) or [Company Signature Stamp](https://docs.google.com/document/d/1RWkI7zuFIUkW_sh1TmYii6e8zNOmz9USUoEr1wBIBpQ/edit?usp=sharing). The effective date is as follows:
+1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independent Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create a job change letter as per the steps mentioned below. If the team member is employed by a PEO, notify the applicable [PEO](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity) either by email or for remote.com via their dashboard. See the People Connect 1password vault for contact details.
+1. Review the [Signature requirements per country](https://docs.google.com/spreadsheets/d/1L85i10rGZuECx-Wxe-lr9O5AaTN2iuD-oVQDAwKDeQ8/edit?usp=sharing) and process the job change letter accordingly.
+1. Make a copy of the [Job Change Letter template](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/edit) and enter all applicable information based on the Workday request and add the applicable [Signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) or [Company Signature Stamp](https://docs.google.com/document/d/1RWkI7zuFIUkW_sh1TmYii6e8zNOmz9USUoEr1wBIBpQ/edit?usp=sharing). The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
     - For example, if the change is being processed on June 22, since this date is before the payroll cut off date of June 23, the effective date should be June 16.
@@ -354,7 +354,7 @@ This section describes the approval chain after the People Business Partner subm
     - If the change was instead being processed on June 15, this would be effective July 1.
 1. If only the company stamp is required the letter should get emailed to the team member's manager to communicate the change
 1. If e-signatures are required stage the letter in DocuSign and add the following team members to sign via their GitLab email addresses:
-    - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member by sharing the letter of adjustment during the 1:1 Zoom call and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel.
+    - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member by sharing the job change letter during the 1:1 Zoom call and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel.
     - Add signature field for the team member
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Manager to process the letter without checking the tasks on the letters.
@@ -375,7 +375,7 @@ As highlighted in the Definition section, all interim roles (regardless of the n
 
 *Once a team member successfully completes the interview process and is selected for the interim period, the following steps should be taken to ensure the team member is set up for success in their interim role.*
 
-1. *CES*: Issue a [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
+1. *CES*: Issue a [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) to finalize the beginning of the interim period. The Letter should include: interim job title, start date, and end date (if known). Letters of adjustment are important as this is the process by which Total Rewards is notified of change from Greenhouse.
 1. *People Connect*: Update the team member's job and business titles in Workday to reflect that they have started an interim role e.g. `Senior Manager, Engineering (Interim)`. This update serves as the SSOT for tracking interim start and end dates, in addition to providing transparency pertaining to who is currently executing in an interim role. Job code and job grade will remain the same, as interim periods have no impact on compensation i.e. do not update any other fields when initiating the [Change Job Process](https://docs.google.com/document/d/1hpPikG0STncYKamaY8XlfMTwYdoszP-0Xogvpp5hyZ4/edit).
 1. *Current Manager*: In the instance that there are direct reports that need to be moved to an Interim Manager this change needs to be initiated by the Current Manager or where necessary the People Business Partner for the respective group in Workday by following the [Change Manager Process](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit).  The philosophy here is that if a team member has successfully gone through the interview process and has demonstrated they are ready/able for an interim period in a manager role, they have the required level of EQ and discretion to have direct reports in Workday. It is, of course, expected that should the interim period not end in promotion, the team member continue to treat confidential information confidentially.
 
@@ -408,7 +408,7 @@ A person "acting" in the role is someone who occupies a role temporarily and wil
 
 ### Updating Interim Movements in Workday
 
-If you receive a job change or letter of adjustment to an interim role, process the change by:
+If you receive a job change or job change letter to an interim role, process the change by:
 
 1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
 1. Review for compensation change
@@ -428,7 +428,7 @@ Demotions are not always considered a step backwards.  It may be an opportunity 
 - If the demotion is due to performance, the manager should discuss any performance issues or possible demotions with Team Member Relations.
 - Demotions should also include a review of [compensation]({{< ref "compensation" >}}) and [equity](https://about.gitlab.com/handbook/stock-options/#equity-incentive-plans) in the google doc. Managers should consult with Total Rewards team on these topics; and of course always adhere to the Global Compensation Calculator.
 - Once agreement is reached on the demotion and changes (if any) in Team will act as the point of escalation to have any demotion reviewed and approved by the Compensation Group once the relevant google doc is complete.
-- Once approved, the manager informs the individual. Please cc 'peopleops@gitlab.com'  once the individual has been informed, so the changes can be processed in the relevant administrative systems. A [Letter of Adjustment](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
+- Once approved, the manager informs the individual. Please cc 'peopleops@gitlab.com'  once the individual has been informed, so the changes can be processed in the relevant administrative systems. A [Job Change Letter](https://docs.google.com/document/d/12AscsmP3qnTqCC9h6cx1UpIVrnZUfoN6AvfMjf8guyg/editm) will then be created.
 - The People Connect team should then follow the process listed under the [For People Connect Team: Processing Promotions & Compensation Changes]({{< ref "promotions-transfers#for-people-connect-team-processing-promotions--compensation-changes" >}}).
 - Communication should be on a need-to-know basis only and should not be made public out of respect for the individual.
 - The manager will initiate any necessary access requests or access change requests.
@@ -536,7 +536,7 @@ For more information please visit our [Internal Hiring Process](/handbook/hiring
 - Talent Acquisition team will ensure that, if applicable, the position has been posted for at least three business days before an offer is made.
 - [Compensation]({{< ref "compensation" >}}) and [equity](https://about.gitlab.com/handbook/stock-options/#equity-incentive-plans) may be reviewed during the hiring process to reflect the new level and position.
 - If after interviews, the manager and the GitLab team member want to proceed with the transfer, internal references should be checked. While a manager cannot block a transfer, there is often good feedback that can help inform the decision. It is advised that the GitLab team member talk to their manager to explain their preference for the new team and to understand the feedback that will be given to the new manager. It should also be noted, that performance requirements are not always equal across roles, so if a GitLab team member struggles in one role, those weakness may not be as pronounced in the new role, and vice versa.
-- The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) will be sent out by the Total Rewards team following the hiring process
+- The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) will be sent out by the Total Rewards team following the hiring process
 - If the team member is transferred, the new manager will announce in the `#team-member-updates` Slack Channel and begin any additional onboarding or offboarding necessary. Before the new manager makes the transfer announcement they must confirm with the team members current manager that the current team has been informed about the team members new position and transfer.
 - Team members changing functional roles should complete onboarding for the new function. For example, a Backend Engineer who transferring to become or work on Frontend work should do Frontend Engineer onboarding.
 
@@ -544,7 +544,7 @@ For more information please visit our [Internal Hiring Process](/handbook/hiring
 
 If the team member is staying in the current Job Family, but changing their Specialty or Department (ex: moving from Plan to Secure or moving from Development to Infrastructure), the above steps will be followed. The recruitment procedure might be shortened if the requirements for the role are the same. At a minimum we ask that the hiring manager interview the team member.
 
-If selected for the role, a [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) will be sent by the People Connect Team outlining the changes to department and specialty for the People Connect team to process in Workday. If the current manager needs to backfill the role, they should reach out to the Finance Partner.
+If selected for the role, a [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) will be sent by the People Connect Team outlining the changes to department and specialty for the People Connect team to process in Workday. If the current manager needs to backfill the role, they should reach out to the Finance Partner.
 
 ### Internal Department Transfers
 
@@ -594,7 +594,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 While the [Career Mobility Issue](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
-1. Promotions typically also include equity grants. If the equity grant amount is not listed on the Letter of Adjustment, managers can navigate to Workday to find the amount to communicate to the team member following these steps:
+1. Promotions typically also include equity grants. If the equity grant amount is not listed on the Job Change Letter, managers can navigate to Workday to find the amount to communicate to the team member following these steps:
     - Navigate to Workday
     - Go to promoted team member's profile
     - Click `Job` on the left panel
@@ -604,8 +604,8 @@ While the [Career Mobility Issue](https://about.gitlab.com/handbook/people-group
 
 **Please Note**: Equity grants require board approval. When communicating, managers should highlight that this equity amount is the proposed amount, but will not be [officially approved](https://about.gitlab.com/handbook/stock-options/#grant-levels) until the next [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule).
 
-1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezone permitting) on the **same day that the candidate signs their** [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}).
-1. For cases where announcing on the same day the Letter of Adjustment is signed is not possible, the announcement should be no more than 24 hours after the candidate has signed.
+1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezone permitting) on the **same day that the candidate signs their** [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}).
+1. For cases where announcing on the same day the Job Change Letter is signed is not possible, the announcement should be no more than 24 hours after the candidate has signed.
 1. Following this initial announcement, the `current manager` can proceed with making this announcement in other relevant team-specific channels.
 
 NOTE: Although the Total Rewards and People Connect Team may have visibility into promotions or transfers due to the administration of updating information as part of their roles, they should not communicate with the team member about their promotion/transfer until an announcement has been made._
@@ -689,7 +689,7 @@ The process below outlines the process for [Realignments](https://about.gitlab.c
 
 Vacancies will be posted internally using the Greenhouse internal job board for at least 3 business days. If a role is not posted internally there must be a business case documented in the Workday documents of the team member who received the new role. See [Department Transfers]({{< ref "promotions-transfers#department-transfers" >}}) for additional details.
 
-More details can be found in the [Letter of Adjustment]({{< ref "promotions-transfers#letter-of-adjustment" >}}) section.
+More details can be found in the [Job Change Letter]({{< ref "promotions-transfers#job-change-letter" >}}) section.
 
 ## Career Mobility Issue
 

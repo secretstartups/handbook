@@ -44,10 +44,10 @@ The Senior Manager, Global Enablement reviews if all Greenhouse tokens are corre
 1. Upload the signed documents to the team member's documents folder in Workday.
 1. If applicable, make any necessary updates to the team member's Workday profile and email Total Rewards total-rewards@ gitlab.com and Payroll uspayroll@ gitlab.com or nonuspayroll@ gitlab.com to notify them of the changes.
 
-## Letter of Adjustment
+## Job Change Letter
 
-If a team member changes roles at GitLab and the approval goes through Greenhouse, the process for a Letter of Adjustment is laid out in the [Letter of Adjustment](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#letter-of-adjustment) section on the CES Contract Processes handbook page.
-If a team member changes roles at GitLab and the approval goes through Workday, the process for a Letter of Adjustment is laid out in the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) section on the Promotions & Transfers handbook page.
+If a team member changes roles at GitLab and the approval goes through Greenhouse, the process for a Job Change Letter is laid out in the [Job Change Letter](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#job-change-letter) section on the CES Contract Processes handbook page.
+If a team member changes roles at GitLab and the approval goes through Workday, the process for a Job Change Letter is laid out in the [Job Change Letter](/handbook/people-group/promotions-transfers/#job-change-letter) section on the Promotions & Transfers handbook page.
 
 For other instances such as a [Relocation]({{< ref "relocation" >}}), the People Connect Team member will create a [Relocation letter]({{< ref "relocation#tasks-for-people-operations" >}}) according to the parameters as listed in the [Relocation within the Same Country]({{< ref "relocation#tasks-for-people-operations" >}}) section on the Relocation handbook page.
 
