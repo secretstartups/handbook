@@ -51,7 +51,7 @@ Where we can, we highlight both the self-managed and the GitLab SaaS tiers (like
 ## Libre, gratis, and free
 When discussing their work, open source communities typically use the words "gratis" and "libre" instead of the word "free" to describe the nature of the software they create. This is because the English word "free" is an ambiguous word that can have several meanings: "no cost" ("free as in beer"), "with few or no restrictions" ("free as in speech"), or both. Open source communities therefore prefer to use the unambiguous term "gratis" when referring to "no cost" software and the term "libre" when refer to software "with few or no restrictions." Open source software is "libre" in that anyone is "free" to inspect, modify, and redistribute it. But open source software may or may not be "gratis."
 
-Features that are part of GitLab's Free tier refer to open source software that is both gratis and libre—[free as in speech and as in beer](http://www.howtogeek.com/howto/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/). For more detail on this distinction, see [Wikipedia](https://en.wikipedia.org/wiki/Gratis_versus_libre).
+Features that are part of GitLab's Free tier refer to open source software that is both gratis and libre—[free as in speech and as in beer](https://www.howtogeek.com/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/). For more detail on this distinction, see [Wikipedia](https://en.wikipedia.org/wiki/Gratis_versus_libre).
 
 ## GitLab SaaS
 
