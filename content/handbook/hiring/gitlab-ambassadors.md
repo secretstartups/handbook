@@ -95,21 +95,21 @@ There are several important things to keep in mind when sharing your opinions ab
 - If you're sharing a GitLab job on LinkedIn, we require team members to use only the provided templates to ensure we have consistent messaging when sharing jobs. Messaging options include:
 
 > It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Interested in joining one of the world's largest #AllRemote companies? @gitlab is hiring a [INSERT ROLE NAME]! [INSERT JOB LINK] #LifeAtGitLab
-
+>
 > Do your best work from wherever works for you. @gitlab is one of the world's largest #AllRemote company and we're hiring a [INSERT ROLE NAME]. Interested? Learn more: [INSERT JOB LINK] #LifeAtGitLab
-
+>
 > Join @gitlab and put yourself at the intersection of #AI and #DevSecOps. We're hiring a/an [INSERT ROLE NAME] to contribute to cutting-edge projects that will help organizations around the world deliver software faster. Ready to lead the way? Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Join @gitlab and help organizations around the world deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Join @gitlab and help build a company that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
-> Join @gitlab and help build a product that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
+>> Join @gitlab and help build a product that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
+>
 > Join a company that values transparency, collaboration, and iteration. @gitlab is hiring a [INSERT ROLE NAME]. Discover how our 6 CREDIT values drive our culture and learn more about this role: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Unlock a world of opportunities at @gitlab. We're looking for a [INSERT ROLE NAME] to join our diverse and passionate team. Explore your potential with us: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
 
 
@@ -121,21 +121,21 @@ There are several important things to keep in mind when sharing your opinions ab
 - If you're sharing a job opening on X (formerly Twitter), we require team members to use only the provided templates to ensure we have consistent messaging when sharing jobs.Messaging options include:
 
 > It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Interested in joining one of the world's largest #AllRemote companies? @gitlab is hiring a [INSERT ROLE NAME]! [INSERT JOB LINK] #LifeAtGitLab
-
+>
 > Do your best work from wherever works for you. @gitlab is one of the world's largest #AllRemote company and we're hiring a [INSERT ROLE NAME]. Interested? Learn more: [INSERT JOB LINK] #LifeAtGitLab
-
+>
 > Join @gitlab and put yourself at the intersection of #AI and #DevSecOps. We're hiring a/an [INSERT ROLE NAME] to contribute to cutting-edge projects that will help organizations around the world deliver software faster. Ready to lead the way? Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Join @gitlab and help organizations around the world deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Join @gitlab and help build a company that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
-> Join @gitlab and help build a product that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
+>> Join @gitlab and help build a product that enables over 50% of Fortune 100 organizations to deliver software faster with our AI-powered DevSecOps platform. We're hiring a [INSERT ROLE NAME]. Apply now: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
+>
 > Join a company that values transparency, collaboration, and iteration. @gitlab is hiring a [INSERT ROLE NAME]. Discover how our 6 CREDIT values drive our culture and learn more about this role: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
-
+>
 > Unlock a world of opportunities at @gitlab. We're looking for a [INSERT ROLE NAME] to join our diverse and passionate team. Explore your potential with us: [INSERT JOB LINK] #AllRemote #LifeAtGitLab
 
 
