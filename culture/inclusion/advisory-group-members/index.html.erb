@@ -1,0 +1,40 @@
+---
+layout: default
+title: GitLab Diversity, Inclusion & Belonging  Advisory Group Members
+description: "Landing page for Diversity, Inclusion & Belonging  Advisory Group Members"
+suppress_header: true
+---
+
+<div class="simple-header">
+  <h1>Diversity, Inclusion & Belonging  Advisory Group Members</h1>
+  <p>This page lists the members of the Diversity, Inclusion & Belonging Advisory Group.</p>
+</div>
+
+<div class="content-container">
+  <div class="content">
+    <table style="width:70%" align="center">
+      <tr>
+        <th>Name</th>
+        <%# <th>Location</th> %>
+        <th>Role</th>
+      </tr>
+      <% Gitlab::Homepage.team.members.each do |member| %>
+        <% if member.expertise %>
+          <% if member.expertise.include? 'Diversity, Inclusion & Belonging Advisory Group' %>
+            <tr>
+              <td>
+                <a href="/company/team/#<%= member.slug %>"><%= member.name %></a>
+              </td>
+              <%#<td>%>
+                <%#= member.locality %#>, <%= member.country %>
+              <%# </td> %>
+              <td>
+                <%= member.role %>
+              </td>
+            </tr>
+          <% end %>
+        <% end %>
+      <% end %>
+    </table>
+  </div>
+</div>
