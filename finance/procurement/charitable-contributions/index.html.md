@@ -9,9 +9,6 @@ title: Charitable Contributions
 
 # Charitable Contribution Requests
 
-If you have a request to donate GitLab funds to a charitable cause, please create a new Issue [here](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#), select the "Charitable Contribution Request" template from the Description dropdown, and fill out all the requested information. Please note that all charitable contributions must receive Board approval, so please allow 1-3 months for processing and approval.
+If you have a request to donate GitLab funds to a charitable cause, please refer to the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/#gitlab-inc-philanthropy-policy) for more information about who we support, how we support, exclusions, and delegations/approvals.
 
-Once you submit your Issue, the request will go first to your manager and the PAO for approval; the PAO will then take it to the Board. Once you have manager, PAO, and Board approval documented in the Issue, AP and Procurement will send instructions to the recipient to enter their banking details in Coupa so that payment can be issued.
-
-If you have any questions, please reach out to Procurement through the #procurement Slack channel.
-
+Once all necessary approvals have been documented for your charitable contribution, if the donation is >$5,000, we will need to set the recipient up in Coupa and follow the PO process in order to issue payment. Please [create a purchase request in Zip](https://about.gitlab.com/handbook/finance/procurement/#-how-do-i-create-a-purchase-request-in-zip) to get the organization registered and to process payment. If the donation is <$5,000, please contact AP@gitlab.com to process payment as an exception to the PO process. Please note that if it is a new recipient that we have not paid before, an invitation to register in Coupa will be sent to the main contact on file to get their payment & tax information set up in the system.
