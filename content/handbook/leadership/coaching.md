@@ -328,3 +328,5 @@ There is a [handbook page](/people-group/learning-and-development/manager-coachi
 - [The Leader as Coach - Harvard Business Review Article](https://hbr.org/2019/11/the-leader-as-coach)
 - [What Can Coaches Do for You? - Harvard Business Review Article](https://hbr.org/2009/01/what-can-coaches-do-for-you)
 - [Four Tips for Coaching Remote Employees](https://insideoutdev.com/blog/4-Tips-for-Coaching-Remote-Employees)
+- An overview and comparison of [coaching models](https://www.businessballs.com/coaching-and-mentoring/) including GROW, CLEAR, and OSCAR
+- A 10 minute video on the [CLEAR coaching model](https://www.youtube.com/watch?v=m2KVZzCMJd0) as an alternative to the GROW model
