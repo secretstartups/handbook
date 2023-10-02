@@ -126,17 +126,18 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 #### Tips on getting timely responses
 
 1. Review the [Opening a request for help](#opening-a-request-for-help) to ensure all steps were covered.
+1. Mention the engineer who is helping or assigned with *every* comment where you need them to review or respond.
 1. If an issue is moved to another group (through a label change or moving to another project), check the corresponding template for the new group to see who to assign or mention in a comment.
 1. When linking to Kibana, also upload a copy of relevant entries, a screenshot of the graph, etc. as logs rotate out after 7 days. If possible, also link to the relevant Sentry entry.
 
 #### Escalate to unblock a request
 
-If you encounter any problems, such as obtaining a timely response from Development, then please take the following steps:
+If you encounter any problems, such as obtaining a timely response from Development, then please take one or more of the following steps:
 
-1. Review the contacts listed in the issue template and check slack or their GitLab status to see if they are on PTO. If they are on PTO, check slack for their backup and ping them via the issue, otherwise ping the primary contact requesting an update via the issue.
-1. Feel empowered to ping the corresponding Development Subgroup slack channel along with a link to the issue, requesting an update.
-1. Make the corresponding Development Subgroup Engineering Manager aware via the issue. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects ReadMe Section which provides a section named `Development Groups with their corresponding templates and labels`.
-1. Consider reaching out to a Support Engineering Manager for further guidance.
+1. Check if the engineer(s) assisting with the request is on PTO through Slack or their GitLab status. If they are on PTO, mention the contacts (listed in the issue template) in the issue, or their backups if they are also on PTO, requesting an update via the issue. Backups are listed in a coverage issue, or in Slack.
+1. Make the corresponding Development group Engineering Manager aware by mentioning them in the issue. You can identify the relevant Engineering Manager by checking the Development Group Handbook Page from each Projects Readme Section which provides a section named `Development Groups with their corresponding templates and labels`.
+1. Feel empowered to ping the contacts and/or Engineering Manager in the corresponding product/development group Slack channel along with a link to the issue, requesting an update.
+1. Reach out to a Support Engineering Manager for further guidance directly or in the `#spt_managers` Slack channel.
 
 #### Prior to closing a request for help
 
