@@ -148,6 +148,29 @@ When using this tool to update vulnerabilities and issues, please keep track of 
 
 > All vulnerabilities **must** be remediated by their respective [SLA][Vulnerability SLAs]. This process only describes how to generate the required FedRAMP vulnerability issues required for the report.
 
+#### Manually creating FedRAMP issues
+
+In cases where automation fails, you must create the deviation requests manually before the issues reach SLA.
+To do so, use the following procedure.
+
+* Open a DR issue with the [operational requirement template](https://gitlab.com/gitlab-com/gl-security/security-assurance/team-security-dedicated-compliance/poam-deviation-requests/-/issues).
+    * Update the `Vulnerability Details` section with a link to the advisory (RedHat tracker usually), CVE ID, severity, and CVSS score.
+    * Update the `Justification Section` with:
+
+    > The OS vendor has published an updated advisory for <CVE_ID>, indicating that package <PACKAGE_NAME> has not yet had a fix released for this vulnerability. Until a fix is available for the package, this vulnerability cannot practically be remediated.
+
+    * Update the `Attached Evidence` section with:
+
+    > As this operational requirement represents a dependency on a vendor-published package to address this vulnerability, no additional evidence has been supplied. Please refer to the linked vendor advisory in the above justification.
+
+    * Link it to the security issue: `/relate <issue_id>`
+  * Update the security issue accordingly
+
+    ```
+    /label ~"FedRAMP::Vulnerability" ~"FedRAMP::DR Status::Open"
+    /milestone %Backlog
+    ```
+
 #### Security Policy
 
 We priortize findings by their CVSS severities and [SLAs][Vulnerability SLAs], and currently focus on security findings with these severity levels:
