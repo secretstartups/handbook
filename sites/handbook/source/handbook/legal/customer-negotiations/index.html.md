@@ -50,7 +50,7 @@ The information contained on this page is organized into two distinct categories
     - Choose the correct answers for each field and add details in the "Notes" Section and hit "Save".
     - Once saved, there will be a new legal request added to the legal queue and the appropriate team member will assign the case to themselves.
     - The legal request will be reviewed, answered and the originator will be @ mentioned.
-    - Once the request is addressed, the legal request will be closed by the ;egal team member.
+    - Once the request is addressed, the legal request will be closed by the legal team member.
     **NOTE: If no Opportunity exists, please create a $0 to open the Legal Request.**
 4. Except for export compliance purposes (see process [here](#export-review-in-sfdc)) do not tag @Legal in SFDC as the entire team gets unnecessarily notified.
 5. All agreements or documents for a customer’s particular opportunity should be attached in the same Legal Request: e.g. a customer returns redlines to both the subscription agreement and their order form, both should be uploaded to the same Legal Request.
