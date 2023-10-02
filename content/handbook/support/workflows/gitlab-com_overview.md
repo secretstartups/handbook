@@ -50,9 +50,12 @@ As of 2021-02-01 when our terms were last updated, we introduced the definition 
 
 Enterprise user accounts belong to the company that purchased a GitLab subscription. This means when requested by an `Owner` in the **top-level of a paid group**, information can be shared about, and actions can be made on behalf of an enterprise user.
 
-[Proof of account ownership is required]({{< ref "account_verification" >}}), either the relevant user or requesting owner can pass the verification process.
+To share private information or take any action, [proof of account ownership is required]({{< ref "account_verification" >}}) as usual.
 
-A user is considered an enterprise user when **all** of the following conditions are met:
+Enterprise users belong to a group based on the `enterprise_group_id` user attribute.
+See the [enterprise users documentation page](https://docs.gitlab.com/ee/user/enterprise_user/) for details on how this happens in GitLab.
+
+For the purposes of support, a user may still be considered an enterprise user when **all** of the following conditions are met:
 
 1. The user's primary email has a domain that is owned by the company of the paid group, *and*
 1. The user account meets **one** of the following conditions:
@@ -61,8 +64,8 @@ A user is considered an enterprise user when **all** of the following conditions
     - has a `provisioned_by_group_id` value that is the same as the organization's group's ID.
     - is a member of the organization's group, where the subscription was purchased or renewed 2021-02-01 or later.
 
-If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner is to send a request *from the primary email account* and then validate the account as a personal User account.
+If the Owner is requesting access to an account which has a primary email in the company domain, but *does not meet* any of the second conditions, then we must treat the account as belonging to the user. In this case, the only recourse for the Owner to add the user's *primary email* as a CC on the ticket, then the user validates their own account.
 
-The relevant information can be found in the ZenDesk GitLab User Lookup, GitLab admin or API. Subscription information can additionally be found in CustomersDot.
+The relevant information can be found in the [Zendesk GitLab Super App: User Lookup]({{< ref "../readiness/operations/docs/zendesk/apps.md#gitlab-super-app" >}}), GitLab admin or API. Subscription information can additionally be found in CustomersDot.
 
 {{% include "includes/support-quick-reference.md" %}}
