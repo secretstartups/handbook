@@ -92,7 +92,7 @@ There are several important things to keep in mind when sharing your opinions ab
 
 - As you're sharing content on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable. This will connect your post to a curated feed of content from our team members on [GitLab's "life" tab](https://www.linkedin.com/company/gitlab-com/life) on LinkedIn, and promote our remote culture.
 
-- If you're sharing a GitLab job on LinkedIn, we ask team members to use only the provided templates to ensure we have consistent job sharing messaging. Messaging options include:
+- If you're sharing a GitLab job on LinkedIn, we require team members to use only the provided templates to ensure we have consistent messaging when sharing jobs. Messaging options include:
 
 > It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
 >
@@ -118,7 +118,7 @@ There are several important things to keep in mind when sharing your opinions ab
 - Be sure to follow the [@gitlab X (formerly Twitter) account](https://twitter.com/gitlab) and reshare content our [social media team](https://about.gitlab.com/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/) is posting.
 - Consider tweeting some of the content ideas above, and tag the GitLab account for potential retweets.
 - Just like on LinkedIn, use the hashtags `#LifeAtGitLab` and `#AllRemote` as you deem suitable in your tweets.
-- If you're sharing a job opening on X (formerly Twitter), we ask team members to use only the provided templates to ensure we have consistent job sharing messaging. Messaging options include:
+- If you're sharing a job opening on X (formerly Twitter), we require team members to use only the provided templates to ensure we have consistent messaging when sharing jobs.Messaging options include:
 
 > It’s an exciting time to join @gitlab. We're hiring for a [INSERT ROLE NAME]! [INSERT JOB LINK] #AllRemote #LifeAtGitLab
 >
