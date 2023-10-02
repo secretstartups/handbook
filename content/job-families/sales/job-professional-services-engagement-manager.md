@@ -14,7 +14,7 @@ The Professional Services Engagement Manager (Associate) reports to the Director
 
 #### Professional Services Engagement Manager (Associate) Job Grade
 
-The Professional Services Engagement Manager (Associate) is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Associate) is a [grade 5](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Professional Services Engagement Manager (Associate) Responsibilities
 
@@ -41,7 +41,7 @@ The Professional Services Engagement Manager (Intermediate) reports to the Direc
 
 #### Professional Services Engagement Manager (Intermediate) Job Grade
 
-The Professional Services Engagement Manager (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Intermediate) is a [grade 6](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Professional Services Engagement Manager (Intermediate) Responsibilities
 
@@ -78,7 +78,7 @@ The Senior Professional Services Engagement Manager reports to the Director, Eng
 
 #### Senior Professional Services Engagement Manager Job Grade
 
-The Senior Professional Services Engagement Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Professional Services Engagement Manager is a [grade 7](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Senior Professional Services Engagement Manager Responsibilities
 
@@ -122,7 +122,7 @@ The Staff Professional Services Engagement Manager reports to the Director, Enga
 
 #### Staff Professional Services Engagement Manager Job Grade
 
-The Staff Professional Services Engagement Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Professional Services Engagement Manager is a [grade 9](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Staff Professional Services Engagement Manager Responsibilities
 
@@ -174,7 +174,7 @@ The Principal Professional Services Engagement Manager reports to the Director, 
 
 #### Principal Professional Services Engagement Manager Job Grade
 
-The Principal Professional Services Engagement Manager  is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Professional Services Engagement Manager  is a [grade 9](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Principal Professional Services Engagement Manager Responsibilities
 
@@ -235,7 +235,7 @@ The Manager, Professional Services Engagement Management, reports to the Directo
 
 #### Manager, Professional Services Engagement Management Job Grade
 
-The Manager, Professional Services Engagement Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Professional Services Engagement Management is a [grade 9](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Manager, Professional Services Engagement Management Responsibilities
 
@@ -266,7 +266,7 @@ The Senior Manager, Professional Services Engagement Management, reports to the 
 
 #### Senior Manager, Professional Services Engagement Management Job Grade
 
-The Senior Manager, Professional Services Engagement Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Engagement Management is a [grade 9](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Senior Manager, Professional Services Engagement Management Responsibilities
 
@@ -296,7 +296,7 @@ The Senior Manager, Professional Services Engagement Management is a [grade 9](h
 
 The Director, Professional Services Engagement Management, reports to the Director, Professional Services Practice Management
 
-The Director, Professional Services Engagement Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Professional Services Engagement Management is a [grade 10](https://handbook.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success).
 
 #### Responsibilities
 
