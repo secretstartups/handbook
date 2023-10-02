@@ -10,7 +10,8 @@ This page details processes and general guidelines specific to the Executive Bus
 
 | ORG |  EBA / SR EBA  | EXECUTIVE  |
 | --- | --- | --- |
-| [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/) | **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)<br>Stella Treas (Chief of Staff)
+| [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/) | **Jeanne Rotenberry**<br>Staff EBA, **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)
+| [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) | **Liki Simonot**<br>Sr EBA  | Stella Treas (Chief of Staff)
 | [Engineering](https://about.gitlab.com/handbook/engineering/) | **Marisa Carlson**<br>Sr EBA  | Jörg Heilig (Interim CTO)
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO)
 | [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
