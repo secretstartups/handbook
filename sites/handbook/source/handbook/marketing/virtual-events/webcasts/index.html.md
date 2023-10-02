@@ -107,11 +107,10 @@ Partner webcasts are managed and moderated by Partner Marketing, working closely
 ### Checking On24 webcast calendar for partner webcast dates
 {: #bt-partner-webcasts .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-Create a [webcast date request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request) in the campaigns project.
-*  Please put the target LIVE date of the webcast as the due date
-*  Campaign Managers will triage the date against [On24 webcast calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to make sure there is no overlapping virtual event that has been pre-scheduled
-*  If the suggeted date is feasible and does not over-saturate the calendar, the speaker(s) have been secured, the campaign manager will change the status label from `status:plan` to `status:wip`, and close out the date check issue
-*  Once the campaign manager confirms the date in the issue, the webcast owner may begin creation of the epic and related issues, requesting work of relevant teams
+*  Before scheduling the ON24 Webcast, please check [ON24 calendar](https://calendar.google.com/calendar/u/0?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to make sure there is no overlapping virtual event that has been pre-scheduled
+*  If the date and time is feasible and does not over-saturate the calendar, please schedule directly in the ON24 calendar
+*  Key information to add: webcast title, webcast DRI, and the link to the issue in the description
+*  If you have any additional questions, please get in touch with Marketing Campaigns on slack - #marketing-campaigns
 
 ### Organizing GitLab-Hosted Partner Webcast Epics and Issues
 {: #partner-project-management .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
