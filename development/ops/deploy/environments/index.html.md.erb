@@ -146,12 +146,20 @@ The weights we use are:
 | 3: Medium  | likely              | likely       | likely        |
 | 5: Large   | guaranteed          | guaranteed   | guaranteed    |
 
+The above table is contextual. For example, domain knowledge, experience levels, and time at GitLab can impact an engineer's perspective on whether an issue requires Extra Investigation or Surprises.
+
+Weights are not set in stone. We do our best to get it right during refinement, but we want to be transparent and accurate. If an issue is taking more effort than is reflected in the existing weight, the DRI on the issue is encouraged to change the weight. We want accurate documentation of the level of effort that was required.
+
+By giving a weight 1 to an issue, we're saying "we can't benefit from this issue being broken down into smaller units of shippable work."
+
 Anything 5 or larger should be broken down, these should not be `ready for development`. We would likely turn a 5 into an epic, into a research and implementation issue or a [technical discovery](TBD).
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the engineer will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
 issue will be scheduled for work before any further breakdown of tasks is performed. Once the technical path is clear, the engineer can proceed to weight the issue and/or break down the issue further to guide implementation. Every POC issues should contain a list of questions we want to answer, the definition of done should include the answers and suggested next steps.
 
 Not all POCs will be successful, and that is OK! Some avenues of research may not be successful, and the POC will have saved us from investing significant time in a solution that will not meet our needs. The goal is early feedback and fast iteration.
+
+As a note, designers use the design weight labels instead of using the weight input within the issue, which is reserved for engineering. 
 
 ##### Weight, Velocity, and Planning
 
