@@ -364,7 +364,7 @@ Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec,
 - **2023-10-26:** Kick off Manager Evaluation cycle
 - **2023-11-08:** Due date for all Manager evaluations
 - **2023-11-08:** 5:00pm PST Talent Assessment locked
-- **2023-11-09 - 2023-12-21:** Workday Calibration open and calibration discussions occur
+- **2023-11-09 - 2023-12-01:** Workday Calibration open and calibration discussions occur
 - **2023-12-01:** 5:00pm PST Workday Calibration will be locked
 - **2023-12-01 - 2023-12-08:** Total Rewards and final E-Group review and approval
 - **2023-12-11 - 2023-12-22 (5:00pm PST):** Managers will have access to Workday Talent Assessment to finalize evaluations
