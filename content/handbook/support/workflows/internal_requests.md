@@ -100,6 +100,13 @@ See [internal wiki page](https://gitlab.com/gitlab-com/support/internal-requests
 
 This is a [generic template](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) used to request an engineer with GitLab.com console access to take action.
 
+Before submitting a console escalation request, ensure that you perform [Account Ownership Verification](/handbook/support/workflows/account_verification.html) workflow for the following types of customer request:
+
+1. To extract and release information.
+1. To make changes to account(s).
+
+This ensures that the request is coming from an authorized contact. Console escalation requests for internal investigation do not require account verification. See Support Team Meta [#5276](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5276#reasoning) on the discussion.
+
 Common issues include the following when the UI and API methods are not working:
 
 - Deletion of projects, groups, cluster integrations, container registry images, etc.
