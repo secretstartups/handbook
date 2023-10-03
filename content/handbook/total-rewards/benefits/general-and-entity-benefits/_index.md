@@ -5,7 +5,7 @@ description: A list of the General & Entity Specific Benefits that GitLab offers
 
 ## Introduction
 
-For the avoidance of doubt, the benefits listed below in the General Benefits section are available to contractors and team members, unless otherwise stated. Other benefits are listed by countries that GitLab has established an entity or co-employer and therefore are applicable to team members in those countries only via our entity specific benefits. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Absence Management team.
+For the avoidance of doubt, the benefits listed below in the General Benefits section are available to all team members, unless otherwise stated. Other benefits are listed by countries where GitLab has established an entity or uses a PEO and therefore are applicable to team members in those countries only via our benefits specific to that country. GitLab has also made provisions for Parental Leave which may apply to team members but this may vary depending on local country laws. If you are unsure please reach out to the Absence Management team.
 
 ## Contact Total Rewards
 
@@ -32,7 +32,7 @@ For any questions relating to benefits, please reach out to [Total Rewards](/han
 
 ### Benefits Available to Contractors
 
-Contractors of GitLab BV are eligible for the [general benefits]({{< ref "benefits" >}}), but are not eligible for entity specific benefits. A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, or tax details.
+Contractors of GitLab IT BV are eligible for the [general benefits]({{< ref "benefits" >}}), but are not eligible for entity specific benefits. A contractor may bear the costs of their own health insurance, social security taxes, payroll administration, or tax details.
 
 Our contractor agreements and employment contracts are all on the [Employment Contracts](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/) page in the internal handbook.
 
@@ -71,12 +71,12 @@ Budget estimations for the Growth & Development benefit are based on utilization
 
 The [Growth and Development page]({{< ref "growth-and-development" >}}) covers information on the application process and the different types of expenses you can get reimbursed under this benefit.
 
-## GitLab Contribute
+## GitLab Summit
 
-[GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Contribute is an optional event, so team members should not feel pressured to attend. This year, Contribute will be hybrid-first, enabling team members to watch and participate from anywhere.
+GitLab Summit (formerly known as Contribute) is our annual GitLab team event where we get together to interact with one another and cultivate our community. Since our team is scattered all over the globe, we try to plan a different location each year. Summit is an optional event, so team members should not feel pressured to attend. 
 
-From our first Contribute in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person.
-For more information and compilations of our past events check out our [previous Contributes (formerly called GitLab Summit)](https://about.gitlab.com/company/culture/contribute/previous/).
+From our first Summit in Serbia to our virtual event in 2020, team members from around the world have built friendships and experienced the values in person.
+For more information and compilations of our past events check out our [previous Contributes](https://about.gitlab.com/company/culture/contribute/previous/).
 
 ## Business Travel Accident Policy
 
