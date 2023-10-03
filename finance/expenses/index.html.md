@@ -110,7 +110,7 @@ Payments, gifts, favors, or entertainment for officials, employees, or represent
 
 ## Airfare
 
-All business related flights need to be booked through Navan, and will be paid by Gitlab travel card. For each flight search, Navan determines the price in real time. Also to note that while it is sometimes possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company.
+All business related flights need to be booked through Navan, and will be paid by Gitlab travel card. For each flight search, Navan determines the price in real time. Also to note that while it is sometimes possible to find a cheaper flight outside of Navan, we get overall better rates in the aggregate with the buying power of the whole company. Even if a flight is cheaper outside of Navan, please book in Navan. Also email expenses@gitlab.com with screenshots of Navan's rate and the other airlines rate so the Expense team can address with Navan.
 
 ### Advance Purchase
 - Team Members should make air reservations as early as possible, in order to take advantage of discounted fares. Travelers will ideally book:
@@ -384,7 +384,8 @@ The company will cover all work-related travel expenses. This includes lodging a
 ## Co-Working Space
 - Coworking space is reimbursable for monthly space and one-off days during business travel.  
 - $700.00 Limit per month.
-- TThe space should be located within a commutable distance of the Team Member’s primary residence in their country of employment, with exception to One-off days (day passes) if the Team Member is traveling for business. This is for tax reasons.
+- The space should be located within a commutable distance of the Team Member’s primary residence in their country of employment, with exception to One-off days (day passes) if the Team Member is traveling for business. This is for tax reasons.
+- Co-working spaces need to be a professionally managed space. Leasing of apartments or private properties is prohibited. 
 - Coworking space is not reimbursable while on personal travel.
 - Up to 5 One-off Days in a calendar month related to co-working space do not require Manager or Finance approval. 
 - If more than 5 days are booked in the month, then Manager and Finance approval (via email to expenses@gitlab.com ) is required and needs to be obtained prior to submission of expenses. 
@@ -392,7 +393,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 - No contracts are allowed to be under the GitLab name and it must be under the Team Members name. 
 - The co-working space must be submitted monthly in the month it pertains to with full receipts to be provided. 
 - Gitlab will not cover security deposits or advance payments for co-working space. 
-- Parking, meals, beverages, access cards, insurance  and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable. 
+- Travel to and from the co-working space, parking, meals, beverages, access cards, insurance and other additional expenses in a co-working facility are not reimbursable. Only the rent for the space is reimbursable.
 - If co-working space is used together with a combination of working from home, we will allow the reimbursement of the internet cost for where you spend most of your time. i.e. if you expense a co-working space for a full month then internet for home cannot be expensed. If you expense co-work for a few days in a month then home internet can be expensed in full.
 
 <div class="panel panel-success">
@@ -462,6 +463,7 @@ The company will cover all work-related travel expenses. This includes lodging a
    - A new Team Member recently purchased a new home and shared their news with others. A People Manager sends a "Home Sweet Home" doormat as a congratulatory gift.
    - While working a People Manager noticed a Team Member’s children in the background of a Zoom call and surprised the kids with a new game.
    - A Team Member wasn’t feeling well, which was noticed by a People Manager who sent a care package of food as a ‘get well soon’ gesture.
+- Baby gifts are not reimbursable, as the GitLab People team already sends team members a congratulatory gift. 
 - The cost of the gifts and flowers provided to GitLab Team Members will be allocated to the senders departmental budget. The allowable cost for gifts is up to $125 USD (including shipping) per gift.
 - If you would like to buy holiday gifts for your team, these need to be done personally and should not be expensed.
 - People Managers are to use their own personal card for expense reimbursement. People Managers will need to be sure to use Team MemberGiftsFlowers and the account 6028 in Navan Expense for the expense.
