@@ -69,7 +69,59 @@ GitLab and SuitUp are teaming up to provide virtual volunteer opportunities for 
 
 
 #### In Kind Support & Matching Gifts Program
-GitLab will launch a GitLab for Nonprofits In-Kind donation program in 2023. If you have a request ahead of the official launch, please send the details in #ESG or to ESG@GitLab.com. 
+
+**GitLab for Nonprofits** 
+
+[GitLab for Nonprofits](https://about.gitlab.com/solutions/nonprofit/) is an in-kind donation program that provides licenses and seats at no cost to eligible Registered Nonprofit Organizations. 
+
+GitLab for Nonprofits operates on a first come first served basis. Once the [annual donation of 5,000 seats](https://about.gitlab.com/handbook/legal/philanthropy-policy/#2-in-kind-product-donation) is met, the application will remain closed for the year. 
+
+**FAQs**
+
+**What are the benefits of the GitLab for Nonprofits program?** 
+
+GitLab is a single platform for project management, collaboration, source control management, git, automation, security, and much more. Because it is easy to use, flexible, and all in one place, it is the best choice for nonprofits to scale their work. The GitLab for Nonprofits Program gives free licenses of GitLab to registered nonprofit organizations.
+
+Nonprofits accepted into the program will be provided a free Ultimate license for one year (SaaS or self-managed) for up to 20 seats. Additional seats may be requested although they may not be granted. 
+
+**Who qualifies for the program?**
+
+GitLab supports Registered 501c3 (or jurisdictional equivalent) Nonprofit Organizations in good standing that align with our [Values](https://handbook.gitlab.com/handbook/values/). A “Registered Nonprofit Organization” is one that has been registered with the local government or authorized agency within its applicable local, state, provincial, federal or national government.
+
+GitLab prioritizes Registered Nonprofit Organizations that help advance GitLab’s social and environmental key topics that were defined in GitLab’s [2022 materiality assessment](https://about.gitlab.com/handbook/legal/ESG/). GitLab’s current social and environmental key topics are:
+
+- Diversity, Inclusion, and Belonging 
+- Talent Management & Engagement 
+- Climate Action and Greenhouse Gas Emissions
+
+For the calendar year 2023, we will limit the in-kind program to 5,000 seats, which was approved by finance and the board in the [Philanthropy Policy](https://docs.google.com/document/d/1b40Z-5uVebZ05RQehn5qq86c2qP_0w8T40MrygP3VEU/edit). Each organization will be eligible for up to 20 seats. This will allow us to assist as many organizations as possible. This will be revisited throughout the year and adjusted as needed. Interested organizations may request additional seats although the request may not be granted. 
+
+**What are the terms of the GitLab for Nonprofits program?** 
+
+Upon acceptance, program members are subject to the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/). The decision to issue a GitLab for Nonprofits license is always at the sole discretion of GitLab.
+
+**How does someone apply?**
+
+Interested organizations need to visit the [GitLab for Nonprofits](https://about.gitlab.com/solutions/nonprofit/) page and submit the [application form](https://about.gitlab.com/solutions/nonprofit/join/#nonprofit-program-application). 
+
+**How are applications processed?**
+
+1. Nonprofits apply on the [GitLab for Nonprofits](https://about.gitlab.com/solutions/nonprofit/join/#nonprofit-program-application) page. Once the application is submitted, the Nonprofit will receive a message and a link to TechSoup, our verification partner. 
+2. The Nonprofit will then need to log in or create their TechSoup account. TechSoup provides a rigorous vetting process to ensure the nonprofit is eligible for the GitLab for Nonprofits program and meets all requirements. 
+3. If a Nonprofit is verified, TechSoup will notify GitLab and GitLab will send the instructions directly to the Nonprofit to redeem their license. 
+4. If a Nonprofit is not verified, TechSoup will provide details on how the Nonprofit can become verified. 
+
+**Must Nonprofits renew their memberships?**
+
+Yes. All nonprofits must renew their membership annually, which involves a re-verification process. Nonprofits will submit for renewal the same way they first applied for the program. 
+
+**Where can members receive support?** 
+
+While GitLab for Nonprofits Program benefits do not include product [support](https://about.gitlab.com/support/), program members can receive help with GitLab in a number of ways. In general, we recommend the following:
+- Send questions or issues requiring immediate attention or sensitive information to the GitLab for Nonprofits team at Nonprofits@GitLab.com
+- Review [GitLab Docs](https://docs.gitlab.com/) for answers to general product-related questions.
+- Post questions in the [GitLab Forum](https://forum.gitlab.com/), where community members and GitLab team members can review and discuss them.
+- File bug reports and breaking behaviors [as issues](https://gitlab.com/gitlab-org/gitlab/-/issues) for product teams to review and address.
 
  At this time, GitLab does not offer a matching gifts program. 
 
