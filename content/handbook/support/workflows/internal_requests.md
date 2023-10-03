@@ -105,7 +105,7 @@ Before submitting a console escalation request, ensure that you perform [Account
 1. To extract and release information.
 1. To make changes to account(s).
 
-See Support Team Meta [#5276](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5276#reasoning) for the reasoning.
+This ensures that the request is coming from an authorized contact. Console escalation requests for internal investigation do not require account verification. See Support Team Meta [#5276](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/5276#reasoning) on the discussion.
 
 Common issues include the following when the UI and API methods are not working:
 
