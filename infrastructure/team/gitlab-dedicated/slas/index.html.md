@@ -60,7 +60,7 @@ The recovery time objective ("Recovery Time Objective" or "RTO") for the Plan is
 
 The recovery point objective ("Recovery Point Objective" or "RPO") for the Plan is based on the frequency of snapshots across the data sources.
 
-In order to receive RPO and RTO targets, customers must specify a primary and secondary region upon onboarding and these regions must be supported by GitLab Dedicated. The list of regions that are not supported by GitLab Dedicated [can be found here](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#aws-regions-not-supported).
+In order to receive RPO and RTO targets, customers must specify a primary and secondary region upon onboarding and these regions must be supported by GitLab Dedicated. The list of regions that are supported by GitLab Dedicated [can be found here](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/#available-aws-regions).
 
 For customers who have only specified a primary region or in cases where a secondary region is not supported by GitLab Dedicated, GitLab will still make a good faith effort to recover pursuant to the Plan, but the RTO and RPO goals of the Plan will not be considered.
 
