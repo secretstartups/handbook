@@ -48,7 +48,7 @@ We try to avoid the downside of maturation, because this better enables us to ac
 1. Propose to stop a project or initiative if you feel it is no longer providing value
 1. Suggest ways to improve a project or initiatives efficiency if it is [inefficient](/handbook/values/#efficiency)
 1. "Because we've always done it" is not a valid answer when someone challenges a decision or direction. Avoid [sacred cows](/handbook/ceo/#no-sacred-cows)
-1. We hire folks who are dedicated to GitLab's [mission](https://about.gitlab.com/company/mission/) and [vision](https://about.gitlab.com//company/vision). [Pournelle's Iron Law of Bureaucracy](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy) explains why this is important:
+1. We hire folks who are dedicated to GitLab's [mission](https://about.gitlab.com/company/mission/) and [vision](https://about.gitlab.com/company/vision). [Pournelle's Iron Law of Bureaucracy](https://en.wikipedia.org/wiki/Jerry_Pournelle#Pournelle's_iron_law_of_bureaucracy) explains why this is important:
 
 >In any bureaucratic organization there will be two kinds of people:
 >
