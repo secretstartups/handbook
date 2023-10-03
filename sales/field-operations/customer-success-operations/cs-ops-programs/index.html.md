@@ -29,7 +29,7 @@ You can see more information about what we do and our strategy in the following 
 
 | Person | Role |
 | ------ | ------ |
-| [Jeff Beaumont](https://gitlab.com/jdbeaumont) | [Sr. Director, CS Operations and Customer Programs](https://handbook.gitlab.com/job-families/sales/director-customer-operations/) |
+| [Brittney Sinq](https://gitlab.com/bsinq) | [Sr. Director, CS Strategy & Operations](https://handbook.gitlab.com/job-families/sales/director-customer-operations/) |
 | [Michelle Harris](https://gitlab.com/mharris3) | [Sr. Program Manager, Customer Programs](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs/#senior-program-manager-customer-programs) |
 | [Raluca Gorbanescu](https://gitlab.com/RGorbanescu) | [Sr. Program Manager, Scale](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs/?search=scale#senior-program-manager-customer-programs) |
 | [John Gamboa](https://gitlab.com/johnpgamboa) | [Program Manager, Customer Programs](https://handbook.gitlab.com/job-families/sales/program-manager-customer-programs) |
