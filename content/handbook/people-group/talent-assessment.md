@@ -350,9 +350,8 @@ After the calibration sessions the performance and growth potential outcomes can
 
 ### Timeline
 
-Below is the high level timeline for the formal assessment in Q4 FY23 (Nov, Dec, Jan). Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) if you have any questions.
+Below is the high level WIP timeline for the formal assessment in Q4 FY24 (Nov, Dec, Jan). Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) if you have any questions.
 
-- **2023-10-04 and 2023-10-05:** Talent Assessment AMAs
 - **2023-10-09:** Kick off Optional Self-Evaluation cycle for all Team Members
 - **2023-10-22:** Due date for all Self-Evaluations
 - **2023-10-23:** Kick off Manager Evaluation cycle
