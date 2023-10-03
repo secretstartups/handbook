@@ -151,7 +151,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | Service/Product       | Escalation Type                                                                                  | Escalation Point                                         |  Assignment      |
 |-----------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------- |
 | GitLab Infrastructure | Anything related to the **running of GitLab.com**, performance, something breaks                | <https://gitlab.com/gitlab-com/infrastructure/issues/new> | Production Lead/Senior Production Engineer
-| GitLab.com Support Engineers| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | <https://gitlab.com/gitlab-com/support/internal-requests/issues/new> | Use `~"GitLab.com Console Escalation"` label |
+| Support Engineers with Gitlab.com console access| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | See [Console escalation requests]({{< ref "internal_requests.md#gitlabcom-console-escalation" >}}) | Use `~"GitLab.com Console Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
 **See the [GitLab team page](https://about.gitlab.com/company/team/) for assignments**
