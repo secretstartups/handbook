@@ -150,9 +150,10 @@ Performance against these competencies should be weighted at 40%.
 - *(if applicable)* [Manager and Leadership Competencies](https://about.gitlab.com/handbook/competencies/#manager-and-leadership-competencies)
 
 When completing the talent assessment form, team members and managers should reflect on the applicable competencies and job frameworks when filling out the achievements, strengths, and opportunities section.  Given GitLab's [CREDIT values](https://about.gitlab.com/company/culture/all-remote/values/#:~:text=GitLab's%20six%20values%20%E2%80%94%20Collaboration%2C%20Results,detailed%20in%20the%20company%20Handbook.) should be lived, with each day representing a new opportunity to refamiliarize oneself with said values and strive to implement them in every professional interaction, there is an opportunity for team members and managers to rate how a team member demonstrates each of the CREDIT values.  The following rating scale is used for each value:
-- Rarely Demonstrated: (add more detail)
-- Sometime Demonstrated: (add more detail)
-- Consistently Demonstrated: (add more detail)
+- **Rarely Demonstrated**: team member demonstrates some of the sub-values associated with this value on an occassional basis.
+- **Sometime Demonstrated**: team member demonstrates most of the sub-values associated with this value on a regular basis.
+- **Consistently Demonstrated**: team member demonstrates a large majority of the sub-values associated with the value in most interactions.
+
 Use the comment box at the end of the CREDIT values section to provide examples to support the ratings selected.  
 
 ## What is "Growth Potential"? {#what-is-growth}
