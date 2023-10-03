@@ -191,6 +191,11 @@ The integration process is outlined in our [acquisition integration page](/handb
 
 ### Terminated Acquisition Engagements
 
+1. If the acquisition has advanced past the Technical Call, conduct a retrospective:
+    1. Create a retrospective issue (GitLab internal-only [example](https://gitlab.com/GL-corp-dev/project-snowy/-/issues/26))
+    1. Set time for an **optional** live sync
+    1. Solicit feedback on all related acquisition channels
+    1. Once sync has completed, continue with the steps below.
 1. The corporate development acquisition lead will archive all slack channels associated with the acquisition. 
 1. In accordance with the signed NDA, the GitLab corporate development acquisition lead, and all other deal participants in possession of preliminary and confirmatory deal diligence materials, will make best effort to remove the materials from GitLab's internal drives and repositories.
 
