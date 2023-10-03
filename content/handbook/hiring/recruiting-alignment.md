@@ -17,7 +17,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Commercial Sales, EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
 | Field Operations, US/EMEA | Kelsey Hart  | Alice Crosbie |
-| Customer Success, EMEA | Joanna Muttiah | Lerato Thipe |
+| Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
@@ -42,7 +42,7 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Department                    | Leader      |
 |--------------------------|-----------------|
 | Talent Acquisition         | Jess Dallmar |
-| Talent Brand and Enablement | Devin Rogozinski |
+| Talent Brand | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (EMEA and APAC Sales) | Jake Foster |
 | Talent Acquisition (Marketing) | Steph Sarff/Jake Foster |
@@ -69,5 +69,3 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | LinkedIn | Media - Talent Acquisition | Devin Rogozinski |
 | LinkedIn | Content Management | Marketing |
 | LinkedIn | Content Management - Life at GitLab | Devin Rogozinski |
-| New Platform(s) | Requests | @domain |
-| Recruitment Marketing  | Requests | @domain |
