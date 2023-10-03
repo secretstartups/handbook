@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to GitLab
-##### October 3rd, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_bXLwncuxSuGn1b1CkIzybQ#/registration)
-
 #### Intro to CI/CD
 ##### October 10th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -99,13 +92,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to GitLab
-##### October 3rd, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
-
-Are you new to GitLab? Join this webinar, where we will review what GitLab is, how it benefits you, and the recommended workflow to allow you to get the most out of the platform.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_Bgmla-23T0eKgH2e8maMyw#/registration)
 
 #### Intro to CI/CD
 ##### October 10th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
