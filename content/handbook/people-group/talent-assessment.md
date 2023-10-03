@@ -404,12 +404,10 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 ## Promotions During Assessment Cycle
 
-The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the FY24 Talent Assessment cycle is **October 16, 2023**. Guidelines are as follows:
+The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member is promoted with an effective date *on or before* October 16, 20XY, they should be assessed at the newly promoted level.**
-    - For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 20XY in Workday (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.
-1. **If a team member is promoted with an effective date *on or after* October 17, 20XY, they should be assessed at the pre-promotion level.**
-    - For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of November 1, 20XY, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
+1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle (2023-07-15 to 2023-10-16), guidance would be that they should be assessed as Too New to Rate.**
+2. **If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (before 2023-07-15) they would be assessed based on the new level/role.**
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
