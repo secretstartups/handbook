@@ -5,7 +5,7 @@ description: “Find out how to schedule with E-Group members with Executive Bus
 
 Before scheduling with an E-Group member, please be sure to reach out to their perspective EBA with meeting details.
 
-## Scheduling for Michael McBride, Chief Revenue Officer
+## Scheduling for Chris Weber, Chief Revenue Officer
 
 - All meeting requests routed through the Sr. EBA to the CRO, Alexa Schrauth.
 - Prefers “appropriate length” conversations, so short meetings are okay on the calendar.  If a topic only needs 10 mins, book 10 mins instead of 30, etc.
@@ -35,11 +35,11 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Stella Treas, Chief of Staff to the CEO
 
-- All meeting requests should go through Staff EBA, Aimee David.
+- All meeting requests should go through Sr. EBA, Liki Simonot.
 - Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS to the CEO
 - Limited availability due to personal commitments from 7-9am PT Mon.-Fri. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
 - If meetings need to happen before 9am PT or after 5pm PT check with EBA
-- Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS to the CEO’s EBA
+- Do not schedule over DNB (Do Not Book) without reaching out for approval from CoS to the CEO’s Staff EBA, Jeanne Rotenberry
 - For meetings outside of set business hours contact the CoS to the CEO’s EBA
 - During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 - EBA to add reminders at 1 month, 2 weeks, 1 week and 2 days on the calendar for the following events: OKR How to Achieve, Group Conversations and Board of Director meetings
@@ -53,12 +53,13 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 - Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
 - During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
 - Calendar key is available for viewing in the CLO's daily schedule
-- All meeting requests should include an agenda or doc for reference
+- All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
+- Keep meetings to 25 or 50 minutes unless otherwise specified
 - Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 
 ## Scheduling for Wendy Barnes, Chief People Officer
 
-- Please schedule all meetings through the People Function's Sr. EBA, Stephanie Kusmirek
+- Please schedule all meetings through the People Function's EBA, Julia Nishioki
 - All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
 - Keep meetings to 25 or 50 minutes unless otherwise specified
 - Direct Report 1:1's occur weekly, Skip Level 1:1's Monthly
