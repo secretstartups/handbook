@@ -96,7 +96,7 @@ When 50% or more Billable Users have triggered any Git Operation (Read/Write/Pus
 ### Continuous Integration (CI)
 
 CI is considered both an initial purchase reason or, in the case of SCM, an expansionary use case (one after the initial purchase intent has been solved). 
-Adoption timeline: 1 months after license purchase
+Adoption timeline: 1 months after license purchase. 
 
 | Metric | Calculation | **Red** | **Yellow** | **Green** |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ When 50% or more of unique `Billable Users` have triggered a distinct `CI Pipeli
 
 ### Security (DevSecOps)
 
-These Security (DevSecOps) metrics are available for all customers. Adoption timeline: 1 months after license purchase
+These Security (DevSecOps) metrics are **only** available for [Ultimate customers](https://about.gitlab.com/direction/paid_tiers/#sts=Ultimate). Adoption timeline: 1 month after license purchase
 
 | Metric | Calculation | **Red** | **Yellow** | **Green** |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ These Security (DevSecOps) metrics are available for all customers. Adoption tim
 
 Due to equal weighting and Gainsight's defined scoring ranges, two (2) of the three measure groups have to be Green and one (1) measure group can be Yellow/Green for an overall Green Security (DevSecOps) score
 
-### Continuous Delivery (CD)
+### Continuous Deployment (CD)
 
 CD is considered an expansionary use case (one after the initial purchase intent has been solved). 
 Adoption timeline: 1 months after license purchase
