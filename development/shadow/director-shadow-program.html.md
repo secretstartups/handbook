@@ -130,8 +130,10 @@ For GitLab team member shadows:
 1. Join and participate in the slack channel `#wayne_shadow_program`
 
 For non-GitLab team member shadows:
+1. Create a [GitLab account](https://gitlab.com/-/trial_registrations/new) if you don't already have one.
 1. Plan to attend Zoom meetings that you get an invited to.
 1. Participate in the slack channel `#wayne_shadow_program`
+1. Optionally, contribute changes to GitLab projects by using a personal or [community fork](https://gitlab.com/gitlab-community/meta)
 
 ## Shadow onboarding
 
