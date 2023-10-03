@@ -370,12 +370,7 @@ Our e-group completes Performance/Growth Potential Matrix multiple times a year 
 
 ### Eligibility
 
-Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment. However, if the team member being assessed has been with GitLab for a period of 3 months or less:
-
-- It is likely that these team members will fall into `Developing` for performance and should not expect a compensation adjustment, although they are still eligible to be reviewed. This is because team members generally need several months to get adjusted to their role and responsibilities, and we aim to hire team members at their accurate market rate.
-- Team member manager do not need to complete the full self-assessment or manager evaluation form if they have been employed less than 3 months, but a rating should be allocated.
-
-While there are exceptions, this is the general guideline.
+Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment, as they are eligible for Annual Compensation Review. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the Too New To Rate description (https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).
 
 ### Team Member Self-Evaluations
 
@@ -408,12 +403,10 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 ## Promotions During Assessment Cycle
 
-The cut-off date to determine whether to assess team members at the pre-promotion level or post-promotion level for the Q4 FY23 Talent Assessment cycle is **October 31, 2022**. Guidelines are as follows:
+The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member is promoted with an effective date *on or before* October 31, 2022, they should be assessed at the newly promoted level.**
-    - For example, if a Product Manager is promoted to Senior Product Manager with an effective date of October 15, 2022 in Workday (our SSOT for promotion effective dates), they will be assessed at the Senior Product Manager level for the Q4 Talent Assessment.
-1. **If a team member is promoted with an effective date *on or after* November 1, 2022, they should be assessed at the pre-promotion level.**
-    - For example, if a Backend Engineer is promoted to Senior Backend Engineer with an effective date of November 1, 2022, their pre-promotion assessment at the intermediate Backend Engineer level will remain.
+1.**If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle(2023-07-15 to 2023-11-03) ), guidance would be that they should be assessed as Too New to Rate.**
+2.**If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (before 2023-07-15) they would be assessed based on the new level/role.**
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
@@ -717,7 +710,7 @@ The succession planning process might vary slightly for different areas of the b
 
 | Resource | Purpose |
 | ------ | ------ |
-| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1khkrwgVpef1hkDmwuF8Mhz9BTrtZt4WaFAwjChDFRh4/edit) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the FY'23 Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
+| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit?usp=sharing) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the FY'23 Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
 | [Workday Job Aid: How to Complete My Annual Self Evaluation](https://docs.google.com/document/d/1xLsiB6RljJUQGT9EWbNOMqCVL-Kb8dS1PivriVjgz5E/edit?usp=sharing) | Team member instructions for how to complete their annual Self-Evaluation task in Workday. |
 | [Workday Job Aid: How to Complete the Manager  Evaluation and Assess Growth Potential](https://docs.google.com/document/d/11wq7xkWi0O6a_YXtkH8RSy7DX5Rvxx1j7muWkaFIym0/edit?usp=sharing) | Manager instructions for how to complete their Manager Evaluation task and Assess Growth Potential task in Workday. |
 | [Workday Job Aid: How to Complete Talent Calibration](https://docs.google.com/document/d/1rcHLTE3cvmh_zglHO789uqaN25vYhvGSFRBbHMg8tJk/edit?usp=sharing) | Manager instructions for how to complete their Talent Calibration in Workday. |
