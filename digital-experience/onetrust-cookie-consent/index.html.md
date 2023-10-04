@@ -98,7 +98,6 @@ The `cbextras.js` file handles how elements of the static site are displayed in 
 - YouTube (as well as video thumbnail images pulled from YouTube)
 - Vimeo
 - Sched
-- Disqus
 - Marketo
 
 The way the `cbextras.js` file handles each of these tools can vary, but typically it will search for instances of that element on the page (such as an `iframe` with YouTube as the source) and if cookie consent has not been given, it will display a message telling the user they may need to allow cookies.
