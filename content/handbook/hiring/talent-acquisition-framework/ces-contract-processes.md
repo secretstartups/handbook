@@ -532,7 +532,7 @@ Kindly note the following when filling in this section:
 | Austria | None |
 | Hungary | Standard |
 | Mexico | Allowance |
-| South Africe | Allowance |
+| South Africa | Allowance |
 | Luxembourg | Premium |
 | Brazil | Omint Plan (should be added for you) |
 | Italy | Premium |
