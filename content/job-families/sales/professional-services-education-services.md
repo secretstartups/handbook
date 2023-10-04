@@ -54,7 +54,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 ## Lab Development Engineer
 
-GitLab’s Education Services team is looking for an experienced lab development engineer to design and build hands-on labs. In this role, you'll have experience developing and deploying solutions using cloud-based services, and excellent writing skills.
+GitLab’s Education Services team is looking for an experienced lab development engineer to design and build hands-on labs for self-paced courses/tutorials. In this role, you'll have experience developing and deploying solutions using cloud-based services, and excellent writing skills.
 
 Additionally, the ideal candidate will have training development experience and be able to provide analysis of learning materials from a technical perspective. Software development experience would be a plus. Above all, you will have a passion for learning and contributing to team and learner success.
 
@@ -66,11 +66,10 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 
 ### Responsibilities
 
-- Maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the courseware by offering hands-on learning for learners
-- Create templates and scripts to automate the deployment of these resources
+- Maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the self-paced courseware by offering hands-on learning for learners
+- Develop and maintain templates and scripts to automate deployment of resources required by self-paced courses labs 
 - Utilize automated lab and courseware publishing processes to manage and deploy content.
 - Collaborate with SMEs, and other teams (engineering, support, professional services, etc.) to maintain technically accurate training labs that meet the learning objectives.
-- Develop templates and scripts to automate deployment of resources required by labs
 - Understand and apply security standards to lab environments
 - Author lab instructions
 - Stay up to date on GitLab new training/certification announcements and changes to existing education programs
@@ -78,7 +77,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 
 ### Requirements
 
-- - 3+ years of experience in user support in a cloud-first modern IT environment
+- 3+ years of experience in user support in a cloud-first modern IT environment
 - Knowledge of identity and access management for all primary cloud providers (GCP, AWS)
 - Knowledge in one of the following scripting languages - Python or SQL
 - Knowledge of container and microservice technologies
@@ -88,7 +87,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 
 ## Senior Lab Development Engineer
 
-GitLab’s Education Services team is looking for an experienced senior lab development engineer to design and build hands-on labs. In this role, you'll have experience developing and deploying solutions using cloud-based services, a deep technical knowledge of multiple IT domains, and excellent writing skills.
+GitLab’s Education Services team is looking for an experienced senior lab development engineer to design and build hands-on assessments for GitLab professional certification program and instructor-led training. In this role, you'll have experience developing and deploying solutions using cloud-based services, a deep technical knowledge of multiple IT domains, and excellent writing skills.
 
 Additionally, the ideal candidate will have training delivery, or training development experience and be able to provide analysis of learning materials from a technical perspective. Software development experience would be a plus. Above all, you will have a passion for learning and contributing to team and learner success.
 
@@ -100,8 +99,8 @@ The Senior Lab Development Engineer is a [grade 7](https://about.gitlab.com/hand
 
 ### Responsibilities
 
-- Dive deep into GitLab platform to understand the services and develop effective training for our customers
-- Develop and maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the courseware by offering hands-on learning for learners
+- Dive deep into GitLab platform to understand the services and develop effective skills assessments for our customers
+- Develop and maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the instructor-led training courseware and certification by offering hands-on assessments for learners
 - Coordinate with the curriculum team to ensure that hands-on labs are built for scalability and long-term support.
 - Create templates and scripts to automate the deployment of these resources
 - Utilize automated lab and courseware publishing processes to manage and deploy content.
