@@ -44,7 +44,7 @@ These standard vendor  terms and conditions (the “**Agreement**”) is between
 
 1.13 “**Invoice**” means Vendor’s document which outlines the Fees owed by GitLab pursuant to an executed Transaction Document. Invoices must include: (i) Vendor’s legal entity name, (ii) GitLab’s legal entity name (as stated on the Transaction Document), (iii) GitLab’s PO Number for the applicable purchase, (iv) the start date and/or end date of the Products and/or Professional Services (as defined below), (v) quantity, unit price, total price, applicable taxes, and identification of the Products and/or Professional Services.
 
-1.14 **“Order” **Transaction Document for Products or licensed subscriptions.
+1.14 **“Order”** Transaction Document for Products or licensed subscriptions.
 
 1.15. **“PO**” means the purchase order, or similar document, provided by GitLab to Vendor. Each PO shall include a unique identification number (hereinafter referred to as “**PO Number**”).
 
