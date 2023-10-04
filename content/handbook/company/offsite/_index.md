@@ -84,7 +84,7 @@ It is recommended to set up the cart at the head of the table, placing the main 
 
 ## Schedule
 
-The off-site is a quarterly meeting scheduled over 4 days (including travel time, when remote).
+The offsite is a quarterly meeting scheduled over 3 or 4 days.
 
 In-person offsites happen three times a year. The January, end of Q4, offsite is remote. Q1 and Q3 offsites happen during the same weeks and in the same locations as in-person Board.
 
