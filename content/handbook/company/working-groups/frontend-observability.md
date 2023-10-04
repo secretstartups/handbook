@@ -56,12 +56,6 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Executive Sponsor | Tim Zallmann | Development | Senior Director |
 | Facilitator | Sam Beckham | Manage:Foundations | Engineering Manager |
 | Functional Lead | Miguel Rincon | Verify::Runner | Senior Frontend Engineer |
-| Functional Lead | Drew Stachon | Verify::Pipeline Execution | Backend Engineer |
-| Functional Lead | Andrew Newdigate | Infrastructure | Distinguished Engineer |
-| Member | José Vargas López | Verify::Pipeline Execution | Senior Frontend Engineer |
-| Member | Marius Bobin | Verify::Pipeline Execution | Backend Engineer |
-| Member | Daniele Rossetti | Monitor::Visualization | Senior Frontend Engineer |
 | Member | Sheldon Led | Fulfillment | Senior Frontend Engineer |
 | Member | Adeline Yeung | Infrastructure | Site Reliability Engineer |
-| Member | Rahul Chanila | Package | Senior Frontend Engineer |
 | Member | Savas Vedova | Govern | Senior Frontend Engineer |
