@@ -33,11 +33,15 @@ In most cases, users can disable 2FA themselves and regain access to their accou
 
 > As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
 
+## Group owner 2FA removal for Enterprise users
+
+A top-level group owner can [disable 2FA for any enterprise user](https://docs.gitlab.com/ee/user/enterprise_user/#disable-two-factor-authentication) who is also a group member. With the [rollout of the `enterprise_users_automatic_claim` feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/421407), users are automatically marked as an enterprise user if [a group has a verified domain](https://docs.gitlab.com/ee/user/enterprise_user/#verified-domains-for-groups), and the user's *primary* email matches a verified domain.
+
 ## Disable 2FA With Support Intervention
 
 If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
 
-If a paid user (part of paid group or paid user namespace) is unable to remove 2FA or otherwise regain access to their account using the above methods and responds with the need for further verification, then the user will need to provide evidence of account ownership before we can disable 2FA on their account.
+If a paid user (belonging to either a paid group or a paid user namespace) or the owner of a top-level group is unable to disable two-factor authentication (2FA) or assist the user in regaining access to their account through the methods mentioned above and instead requests support intervention, then the top-level group owner or user must present evidence of their account ownership before we can proceed with disabling 2FA on the account.
 
 For security purposes, support will not process 2FA resets for users who are added to a paid subscription for the express purpose of having 2FA disabled on their account.
 
