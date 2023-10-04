@@ -273,12 +273,9 @@ The introduction of a "Too New to Rate" category is a solution as feedback was r
 
 While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template] (https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then alignig on any support needed for the team member moving forward.  
 
-Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. In these cases we would recommend using this designation if:
+Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](#Promotions-or-Transfers-During-Assessment-Cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
-- A team member has transferred to a role within the last 3 months that is significantly different from their previous role (ex. From a job family to another)
-- A team member is promoted to a role within the last 3 months that is significantly different from their previous role (ex. Different level and different job family).
-
-If any of the above cases arise we would recommend to discuss with your People Business Partner to ensure the designation is consistently applied.
+If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied. 
 
 ### Calibration Session
 
@@ -379,7 +376,7 @@ Our e-group completes Performance/Growth Potential Matrix multiple times a year 
 
 ### Eligibility
 
-Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment, as they are eligible for Annual Compensation Review. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the Too New To Rate description (https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).
+Anyone hired on or before October 31st should receive a Performance and Growth Potential assessment, as they are eligible for Annual Compensation Review. However, if the team member being assessed has been with GitLab for a period of 3 months or less or recently transferred roles or was promoted, please see the [Too New To Rate description](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#too-new-to-rate).
 
 ### Team Member Self-Evaluations
 
@@ -410,7 +407,7 @@ The guidelines below are general guidelines and recommendations. However, *each 
 Aligned with the [timeline](#timeline), managers can see final assessments for each of their team members in their respective Workday profiles.
 
 
-## Promotions During Assessment Cycle
+## Promotions or Transfers During Assessment Cycle
 
 The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
@@ -419,15 +416,7 @@ The cut-off date to determine whether to assess team members as Too New to Rate 
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
-## Transfers During The Assessment Period
-
-Many team members take advantage of internal mobility opportunities we have at GitLab and change role, departments, and sometimes even divisions during the course of the year.
-
-When assessing team members who have switched teams or changed roles throughout the year, managers should:
-
-- Ensure they gather feedback from the previous manager on performance as well
-- Ensure the official Talent Assessment rating reflects the *full year* performance and growth potential assessment (previous role and current role) and provide holistic feedback reflective of both positions
-- Provide team member feedback on how they're doing in their current role to ensure they're set up for success, and aware of feedback moving forward in their current position
+When assessing team members who have transferred teams or changed roles throughout the year, managers should gather feedback from the previous manager on performance as well and take that into account when evaluating performance and growth potential. Managers should also provide the team member feedback on how they're doing in their current role to ensure they're set up for success, and aware of feedback moving forward in their current position.
 
 ## Best Practices for Communicating Performance/Growth Potential Factors
 
