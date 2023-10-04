@@ -151,18 +151,25 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
 ### Acceptable Third-Party Attestations
-GitLab relies on third-party attestations to provide assurance over the design and operating effectiveness of a service provider's internal control environment. These attestations commonly include, but are not limited to, an ISO27001 certificate or a SOC 2 Type 2 report. Alternate forms of attestations can be leveraged in the absence of these more common documents, though diligence should be performed by the assessor in understanding whether the attestation provides sufficient coverage over the control environment and aligns with our assessment criteria.
+GitLab relies on third-party attestations to provide assurance over the design and operating effectiveness of a service provider's internal control environment. These attestations commonly include, but are not limited to, an ISO27001 certificate or a SOC 2 Type 2 report. Alternate forms of attestations can be leveraged in the absence of these more common documents, though diligence should be performed by the assessor in determining whether the attestation provides sufficient coverage over the control environment and aligns with our assessment criteria.
 
-**ISO 27001:** An ISO 27001 certificate can be leveraged as evidence of compliance with industry-standard security best practices. Though review of the certificate itself is not revelatory to the specific controls in place at the organization, the presence of a valid ISO 27001 certificate indicates that an external certifying body has validated that the service provider's management team performs the following:
-- Systematically examine the organization's information security risks, taking account of the threats, vulnerabilities, and impacts;
-- Design and implement a coherent and comprehensive suite of information security controls and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those risks that are deemed unacceptable; and
-- Adopt an overarching management process to ensure that the information security controls continue to meet the organization's information security needs on an ongoing basis. 
+**ISO 27001:** An ISO 27001 certificate can be leveraged as evidence of compliance with industry-standard security best practices. Though review of the certificate itself is not revelatory to the specific controls in place at the organization, the presence of a valid ISO 27001 certificate indicates that an external certifying body has performed testing to validate the design and operating effectiveness of controls related to the management team's performance of the following:
+- Systematic examination of the organization's information security risks, taking account of the threats, vulnerabilities, and impacts;
+- Design and implementation of a coherent and comprehensive suite of information security controls and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those risks that are deemed unacceptable; and
+- Adoption of an overarching management process to ensure that the information security controls continue to meet the organization's information security needs on an ongoing basis. 
 
-Note that ISO 27001 certificates include an expiration date beyond which the certificate is no longer valid and should not be leveraged in assessing third party risk.
+_Note that ISO 27001 certificates include an expiration date beyond which the certificate is no longer valid and should not be leveraged in assessing third party risk._
+
+**SOC 2 Type 2:** The SOC 2 Type 2 report is considered the "Gold Standard" in assessing third party risk, as this report goes into deep detail regarding the design of an organization's information system and how various forms of risk are addressed. This report not only details the controls in place within an organization, but it also includes independent validation of whether or not each control functioned appropriately during the audit period. This report should be reviewed to validate the following:
+- The report was issued within the last 12 months
+- The report provides coverage over the service being provided to GitLab
+- The report is issued without qualifications or exceptions impacting the security of GitLab data.
+
+  - A report designated as "qualified" indicates that one or more controls assessed were found to be inadequately designed or implemented during the audit period. The nature of the qualification should be reviewed and understood to determine whether the control failure could impact the security of GitLab data, and if so should be reported to the Business Owner via the Risk Acceptance Process .
 
 
+**SOC 2 Type 1:** The SOC 2 Type 1 report describes the controls in place within a service provider's environment, though is considered a "Point in Time" assessment and does not include a validation of control operating effectiveness. As such, the Type 1 report should not be leveraged on its own to address our third-party attestation requirements.
 
-**SOC 2 Type 2:** The SOC 2 Type 2 report is considered the "Gold Standard" in assessing third party risk, as this report goes into deep detail regarding the design of an organization's information system and how they address various forms of risk. This report not only details the controls in place within an organization, but it also includes independent validation of whether or not each control functioned appropriately during the audit period.
 
 ### TPRM Approval Windows
 
