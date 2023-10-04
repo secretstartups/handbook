@@ -48,8 +48,8 @@ The next steps for the Certification Exam Developer job family has not yet been 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-1. Phone screen with a GitLab Recruiting team member.
-1. Video Interview with the Hiring Manager and to outline take home assignment.
+1. Phone screen with a GitLab Recruiting team member
+1. Video Interview with the Hiring Manager and to outline take home assignment
 1. Team Interviews with 1-4 team members
 
 ## Lab Development Engineer
