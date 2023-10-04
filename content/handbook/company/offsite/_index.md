@@ -98,7 +98,7 @@ Scheduling for the in-person event around a Board Meeting generally follows:
 1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. Concludes with a dinner with the Board.
 1. Fourth Day (Thursday): No scheduled meeting. Time reserved for ad hoc meetings and time with the Board.
 
-### Fully remote offsite
+### In-person offsite without Board Meeting
 
 Scheduling for the in-person event that is not around a Board Meeting generally follows:
 
