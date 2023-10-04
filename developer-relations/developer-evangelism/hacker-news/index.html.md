@@ -86,7 +86,7 @@ A [comment](https://news.ycombinator.com/item?id=30006193) on Hacker News sums i
 
 ## Blog comments
 
-Blog comments can be easily monitored by joining the [#mentions-of-gitlab Slack channel](https://gitlab.slack.com/archives/C03N3AY9W). Please follow that channel and reply to any comments requiring a response directly in Disqus at the bottom of the blog post. 
+Blog comments can be easily monitored by filtering forum topics by the [feedback tags](/handbook/marketing/developer-relations/workflows-tools/forum/#tags).
 
 ## Social media guidelines
 

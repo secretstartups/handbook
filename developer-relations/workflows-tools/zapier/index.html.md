@@ -32,7 +32,6 @@ List of Zaps that are enabled on the [Developer Relations folder](https://zapier
 
 | Zap | Description | Involved Tools |
 | --- | --- | --- |
-| [about.gitlab.com + devops-tools comments](https://zapier.com/app/editor/47854205) | GitLab blog comments to `#mentions-of-gitlab` Slack channel, and DevOps Tools pages comments to Zendesk and `#devoptools-comments` Slack channel | Disqus, about.gitlab.com/blog, Slack |  
 | [Developer Relations MR Updates](https://zapier.com/app/editor/92097020) | All merged MRs with `Developer Relations` label posted to #developer-relations Slack channel | GitLab.com, Slack |  
 | [GitLab Swag Store](https://zapier.com/app/editor/18836033) | GitLab store order to Printfection order | Printfection, Shopify |
 | [Student Spotlights Application Alerts](https://zapier.com/app/editor/90643179) | Student Spotlights form submission notifications to `#student-spotlights-applications` Slack channel | Google forms/sheets, Slack | 
