@@ -24,14 +24,13 @@ description: "This page is an overview of the search team alignment and the tale
 | G&A, Legal | Jenna VanZutphen | Michelle Jubrey |
 | G&A, Accounting, People | Jenna VanZutphen | Michelle Jubrey |
 | G&A, IT | Jenna VanZutphen | Alice Crosbie |
-| Internal | Jenna VanZutphen | Sruthy Menon |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
-| Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
-| Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
+| Quality | Riley Smith |  Guido Rolli |
+| Infrastructure   | Michelle Kemp | Michelle Jubrey |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
-| Security | Matt Angell | Alice Crosbie |
+| Security | Holly Nesselroad | Michelle Jubrey |
 | Incubation | Matt Angell  | Alice Crosbie |
-| Product Management  | Matt Angell  | Alice Crosbie |
+| Product Management  | Holly Nesselroad | Alice Crosbie |
 | UX  | Riley Smith | Guido Rolli |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
