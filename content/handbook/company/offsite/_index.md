@@ -88,7 +88,7 @@ The off-site is a quarterly meeting scheduled over 4 days (including travel time
 
 In-person offsites happen three times a year. The January, end of Q4, offsite is remote. Q1 and Q3 offsites happen during the same weeks and in the same locations as in-person Board.
 
-This section captures all three meeting formats.
+This section captures all three meeting variants.
 
 ### In-person offsite with Board Meeting
 
