@@ -70,5 +70,7 @@ Maintenance tasks will be tracked via GitLab Issues similar to all other automat
 
 ## Exceptions
 
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "_index.md#information-security-policy-exception-management-process" >}}).
+
 ## References
 
