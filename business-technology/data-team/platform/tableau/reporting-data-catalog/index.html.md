@@ -52,5 +52,15 @@ A data source to explore sales and marketing metrics.  Designed directly from th
 - Certification: Certified
 - Lineage: [restricted_safe_common_mart_sales.mart_crm_opportunity](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_crm_opportunity)
 
+### Report Ping Metric Totals with Estimates (Monthly)
+
+Total, recorded, and estimated usage for Self-Managed and SaaS Service Ping metrics. Designed directly from the [`rpt_ping_metric_totals_w_estimates_monthly`](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly) table in the data warehouse.
+
+- Link: https://10az.online.tableau.com/#/site/gitlab/datasources/50320253
+- Owner: Enterprise Data Team
+- Keywords: Service Ping
+- Certification: Certified
+- Lineage: [common_mart_product.rpt_ping_metric_totals_w_estimates_monthly](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.rpt_ping_metric_totals_w_estimates_monthly)
+
 ## Dashboards
 
