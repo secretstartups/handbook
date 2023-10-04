@@ -10,7 +10,6 @@ description: "This page is an overview of the search team alignment and the tale
 | Executive          | Rich Kahn    | Sruthy Menon  |
 | Executive          | Zach Choquette   | Sruthy Menon  |
 | Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
-| Enterprise Sales, APAC | Yas Priatna | Lerato Thipe |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
 | Commercial Sales, AMER | Marcus Carter | Michelle Jubrey |
 | Commercial Sales, AMER | Hannah Stewart  | Michelle Jubrey |
@@ -22,9 +21,9 @@ description: "This page is an overview of the search team alignment and the tale
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
 | Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Steph Sarff | Michelle Jubrey |
-| G&A, Accounting, People | Steph Sarff | Michelle Jubrey |
-| G&A, IT | Kelsey Hart | Alice Crosbie |
+| G&A, Legal | Jenna VanZutphen | Michelle Jubrey |
+| G&A, Accounting, People | Jenna VanZutphen | Michelle Jubrey |
+| G&A, IT | Jenna VanZutphen | Alice Crosbie |
 | Internal | Jenna VanZutphen | Sruthy Menon |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
 | Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
