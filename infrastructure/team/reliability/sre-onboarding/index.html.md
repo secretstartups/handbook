@@ -140,7 +140,7 @@ It is useful to have the following issue trackers bookmarked and easily accessib
 
 ### Yubikey
 
-SREs should be using a [YubiKey](https://www.yubico.com) and should not have keys on their laptop.
+SREs should be using a [YubiKey](https://www.yubico.com) and should not have keys on their laptop. It is recommended to have a spare YubiKey to avoid being locked out of your accounts if you lose your primary key.
 
 Follow the [yubikey runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/yubikey.md) to set up
 
