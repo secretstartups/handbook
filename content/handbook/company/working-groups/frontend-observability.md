@@ -34,9 +34,9 @@ This group will not focus on instrumentation around user actions for product rea
 
 This working group will have fulfilled its purpose when:
 
-- [ ] The `@sentry/browser` package is upgraded automatically via renovate [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/338816)
-- [ ] Sentry is configured to track and report frontend errors reliably [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339331)
-- [ ] Sentry is configured to monitor our performance with performance tracing [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339332)
+- [x] The `@sentry/browser` package is upgraded automatically via renovate [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/338816)
+- [x] Sentry is configured to track and report frontend errors reliably [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339331)
+- [x] Sentry is configured to monitor our performance with performance tracing [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339332)
 - [ ] A triaging / diagnosing process is created for sentry errors [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339334)
 - [ ] Documentation is written that allows other frontend engineers to contribute [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/339335)
 - [ ] The old sentry settings are deprecated and removed [Link](https://gitlab.com/gitlab-org/gitlab/-/issues/422407)
