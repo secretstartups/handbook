@@ -94,8 +94,8 @@ This section captures all three meeting variants.
 
 Scheduling for the in-person event around a Board Meeting generally follows:
 1. First Day (Monday): Half day meetings. Start around 1pm PST.
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. 
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. Concludes with a dinner with the Board. 
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. Concludes with a dinner with the Board.
 1. Fourth Day (Thursday): No scheduled meeting. Time reserved for ad hoc meetings and time with the Board.
 
 ### Fully remote offsite
@@ -103,8 +103,8 @@ Scheduling for the in-person event around a Board Meeting generally follows:
 Scheduling for the in-person event that is not around a Board Meeting generally follows:
 
 1. First Day (Monday): Half day meetings. Start around 1pm PST.
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. 
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. 
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
 1. Fourth Day (Thursday): Meetings start at 8am and run through 12pm PST.
 
 ### Fully remote offsite
@@ -143,7 +143,7 @@ The following dates were previous E-Group offsites (starting dates):
 
 ## Mid-quarter touch point meetings
 
-We have a quarterly, remote touchpoint meeting that falls between offsite meetings. These happen between 8:00am and 1:00pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 2 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions. 
+We have a quarterly, remote touchpoint meeting that falls between offsite meetings. These happen between 8:00am and 1:00pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 2 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
 
 ## Offsite topic calendar
 
@@ -203,12 +203,12 @@ These topics are discussed by E-Group before the offsite:
 
 ### Collaborating with EBAs on the Offsite
 
-EBAs to E-Group members should have access to the E-Group Offsite outline. This does not mean all individual agenda docs. The EBAs to the CEO should ensure that they have an understanding of the schedule and are aware of which sessions their E-Group leader is leading. They should help to ensure that their E-Group member is inviting folks who should be in sessions, outside of E-Group, to agendas. 
+EBAs to E-Group members should have access to the E-Group Offsite outline. This does not mean all individual agenda docs. The EBAs to the CEO should ensure that they have an understanding of the schedule and are aware of which sessions their E-Group leader is leading. They should help to ensure that their E-Group member is inviting folks who should be in sessions, outside of E-Group, to agendas.
 
 ## Timeline
 
 1. The CoS to the CEO will ask for agenda suggestions at least 3 weeks in advance of the offsite
-1. 3 weeks in advance of the offsite, the CEO will share a suggested agenda and solicit additional feedback. If there is a [content selection](#content-choice), the content should be shared 
+1. 3 weeks in advance of the offsite, the CEO will share a suggested agenda and solicit additional feedback. If there is a [content selection](#content-choice), the content should be shared
 1. 1 week, on the Tuesday before the offsite, pre-work should be available
 
 ## Prep Work
