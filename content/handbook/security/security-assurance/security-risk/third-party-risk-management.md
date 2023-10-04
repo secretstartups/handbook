@@ -159,7 +159,7 @@ GitLab relies on third-party attestations to provide assurance over the design a
 - Design and implementation of a coherent and comprehensive suite of information security controls and/or other forms of risk treatment (such as risk avoidance or risk transfer) to address those risks that are deemed unacceptable; and
 - Adoption of an overarching management process to ensure that the information security controls continue to meet the organization's information security needs on an ongoing basis. ([Source](https://en.wikipedia.org/wiki/ISO/IEC_27001#:~:text=2020.%5B5%5D-,How%20the%20standard%20works,-%5Bedit%5D))
 
-_Note that ISO 27001 certificates include an expiration date beyond which the certificate is no longer valid and should not be leveraged in assessing third party risk._
+  _Note that ISO 27001 certificates include an expiration date beyond which the certificate is no longer valid and should not be leveraged in assessing third party risk._
 
 **SOC 2 Type 2:** The SOC 2 Type 2 report is considered the "Gold Standard" in assessing third party risk, as this report goes into deep detail regarding the design of an organization's information system and how various forms of risk are addressed. This report not only details the controls in place within an organization, but it also includes independent validation of whether or not each of those controls functioned effectively during the audit period. This report should be reviewed to validate the following:
 - The report provides coverage over the service being provided to GitLab;
