@@ -44,8 +44,8 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Talent Brand | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (EMEA and APAC Sales) | Jake Foster |
-| Talent Acquisition (Marketing) | Steph Sarff/Jake Foster |
-| Talent Acquisition (G&A) | Jake Foster |
+| Talent Acquisition (Marketing) | Steph Sarff + Jake Foster |
+| Talent Acquisition (G&A) | Steph Sarff + Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
 | Talent Acquisition (R&D: Customer Support & Development) | Paul Hardy/Ursela Knezevic |
 | Talent Acquisition (R&D: Infrastructure/Quality, Security, Product/UX, Incubation) | Ursela Knezevic |
