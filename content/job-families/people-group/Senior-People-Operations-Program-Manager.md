@@ -16,15 +16,15 @@ The People Operations Program Manager is a [grade 6]({{% ref "compensation-calcu
 #### People Operations Program Manager Responsibilities
 
 - High-level project management and assisting with all aspects of projects from business case approval through validation of success metrics.
-- Work with stakeholders to design processes that are both effective and efficient and deliver the desired outcomes.  
+- Work with stakeholders to design processes that are both effective and efficient and deliver the desired outcomes.
 - Seek opportunities to optimize efficiency of processes to deliver exceptional customer service and enhance the overall employee journey.
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
-- Manage meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.  
+- Manage meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.
 - Collaborate with cross-functional teams to improve processes and to implement programs with the goal always being to make processes easier from the perspective of the team members.
 - Deliver engaging, informative and well-organized presentations to support project objectives and outcomes.
 - Create measures to ensure project outcomes are successful and meet expectations.
 - Resourcefulness in problem-solving, proactively manage multiple projects with a keen sense of attention to detail.
-- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.  
+- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.
 - Ensure compliance with all international rules and regulations.
 - Update documentation and handbook as appropriate.
 - Collect GitLab internal data to track trends in functional areas.
@@ -64,7 +64,7 @@ The Senior People Operations Program Manager is a [grade 7]({{< ref "compensatio
 #### Senior People Operations Program Manager Responsibilities
 
 - Assume accountability for providing detailed project management and leading all aspects of critical projects from business case approval through validation of success metrics.
-- Based on System Design Thinking principles, design processes that are both effective and efficient and deliver the desired outcomes.  
+- Based on System Design Thinking principles, design processes that are both effective and efficient and deliver the desired outcomes.
 - Primary focus on cultivating positive employee experiences, seeking opportunities to optimize efficiency of processes to deliver exceptional customer service and enhance the overall employee journey.
 - Facilitate process mapping and design sessions with cross-functional teams and SMEs to document current state processes while also identifying process gaps, integration opportunities and efficiencies.
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
@@ -73,15 +73,15 @@ The Senior People Operations Program Manager is a [grade 7]({{< ref "compensatio
 - Manage and create effective communication strategies to support information flow from the People team to stakeholders while ensuring a strong focus on achieving strategic outcomes. Deliver engaging, informative and well-organized presentations to support project objectives and outcomes.
 - Build business cases for new projects based on supporting data to present to People Operations Leadership and key stakeholders.
 - Create measures to ensure project outcomes are successful and meet expectations.
-- Coordinate, communicate and report out People operational activities including cyclical and project-based assignments.  
+- Coordinate, communicate and report out People operational activities including cyclical and project-based assignments.
 - Resourcefulness in problem-solving, proactively manage multiple projects with a keen sense of attention to detail.
-- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.  
+- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.
 - Ensure compliance with all international rules and regulations.
 - Update documentation and handbook as appropriate.
 - Collect GitLab internal data to track trends in functional areas.
 - Collect external market data to support project roadmaps.
 
-#### {add Level} Requirements
+#### Senior People Operations Program Manager Requirements
 
 - 3 years of directly related experience required
 - Experience working in a fast-paced environment
@@ -116,21 +116,21 @@ The Senior People Operations Program Manager is a [grade 8]({{< ref "compensatio
 
 #### Staff People Operations Program Manager Responsibilities
 
-- Develop program management strategy and partner with People stakeholders on roadmap
-- Design and drive rigour in processes and policies for our People Operations team
+- Develop program management strategy and partner with People stakeholders on roadmap.
+- Design and drive rigour in processes and policies for our People Operations team.
 - Assume accountability for providing high-level project management and driving all aspects of critical projects from business case approval through validation of success metrics.
-- Based on System Design Thinking principles, design processes that are both effective and efficient and deliver the desired outcomes.  
+- Based on System Design Thinking principles, design processes that are both effective and efficient and deliver the desired outcomes.
 - Primary focus on cultivating positive employee experiences, seeking opportunities to optimize efficiency of processes to deliver exceptional customer service and enhance the overall employee journey.
 - Facilitate process mapping and design sessions with cross-functional teams and SMEs to document current state processes while also identifying process gaps, integration opportunities and efficiencies.
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
-- Manage high-level meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.  
+- Manage high-level meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.
 - Collaborate with cross-functional teams to improve processes and to implement programs with the goal always being to make processes easier from the perspective of the team members.
 - Manage and create effective communication strategies to support information flow from the People team to stakeholders while ensuring a strong focus on achieving strategic outcomes. Deliver engaging, informative and well-organized presentations to support project objectives and outcomes.
 - Build business cases for new projects based on supporting data to present to People Operations Leadership and key stakeholders.
 - Create measures to ensure project outcomes are successful and meet expectations.
-- Coordinate, communicate and report out People operational activities including cyclical and project-based assignments.  
+- Coordinate, communicate and report out People operational activities including cyclical and project-based assignments.
 - Resourcefulness in problem-solving, proactively manage multiple projects with a keen sense of attention to detail.
-- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.  
+- Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.
 - Ensure compliance with all international rules and regulations.
 - Update documentation and handbook as appropriate.
 - Collect GitLab internal data to track trends in functional areas.
@@ -163,18 +163,18 @@ The Senior People Operations Program Manager is a [grade 8]({{< ref "compensatio
 
 ## Performance Indicators
 
-- # of programs/projects launched quarterly 
-- # of business processes streamlined
-- # of PM templated tools created
+- Number of programs/projects launched quarterly
+- Number of business processes streamlined
+- Number of PM templated tools created
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call]({{< ref "interviewing#screening-call" >}}) with one of our Global Recruiters.
-- Second interview: 30-45 minutes with stakeholder
-- Third interview: 30-45 minutes with Director, People Tools & Technology 
+- Second interview: 30-45 minutes with business stakeholder
+- Third interview: 30-45 minutes with Director, People Tools & Technology
 - Fourth interview: 30-45 minutes with VP, Total Rewards and People Operations
-May request for additional interview time. 
+- May request for additional interview time.
 
 Additional details about our process can be found on our [hiring page]({{< ref "/handbook/hiring" >}}).
