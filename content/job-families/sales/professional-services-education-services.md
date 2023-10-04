@@ -67,7 +67,7 @@ The Lab Development Engineer is a [grade 6](https://about.gitlab.com/handbook/to
 ### Responsibilities
 
 - Maintain a cohesive set of real-world, scenario-based labs to reinforce the learning objectives for the self-paced courseware by offering hands-on learning for learners
-- Develop and maintain templates and scripts to automate deployment of resources required by self-paced courses labs 
+- Develop and maintain templates and scripts to automate deployment of resources required by self-paced courses labs
 - Utilize automated lab and courseware publishing processes to manage and deploy content.
 - Collaborate with SMEs, and other teams (engineering, support, professional services, etc.) to maintain technically accurate training labs that meet the learning objectives.
 - Understand and apply security standards to lab environments
