@@ -275,7 +275,7 @@ While newly onboarded team members do not need to complete the Talent Assessment
 
 Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](#Promotions-or-Transfers-During-Assessment-Cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
-If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied. 
+If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied.
 
 ### Calibration Session
 
@@ -416,7 +416,7 @@ The cut-off date to determine whether to assess team members as Too New to Rate 
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
 
-When assessing team members who have transferred teams or changed roles throughout the year, managers should gather feedback from the previous manager on performance as well and take that into account when evaluating performance and growth potential. Managers should also provide the team member feedback on how they're doing in their current role to ensure they're set up for success, and aware of feedback moving forward in their current position.
+When assessing team members who have transferred teams or changed roles throughout the year, managers should gather feedback from the previous manager on performance as well and take that into account when evaluating performance to reflect performance for the entire year. Managers should also provide the team member feedback on how they're doing in their current role to ensure they're set up for success, and aware of feedback moving forward in their current position.
 
 ## Best Practices for Communicating Performance/Growth Potential Factors
 
