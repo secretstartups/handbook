@@ -223,22 +223,6 @@ The different processes are documented here:
   - [Auto-deploy releases][process-auto-deploy-release]
   - [Hot patch]
 
-### A security issue was assigned to me, where should I start?
-
-See the [Security Release process as Developer] documentation for more information.
-
-Also, make sure to see [Security Releases How to video] for a broad explanation about all the steps required as a Developer when working on a security fix.
-
-### Why wasn't my security fix included in the Security Release?
-
-Security issues created on [GitLab Security] need to be associated with the Security Release Tracking issue for them to be included on the Security
-Release. Make sure to use the [security issue template] and follow the steps there.
-
-### How many backports do I need when working on a security issue?
-
-Besides the merge request targeting `master`, three backports will be needed targeting the last two monthly releases and the current release. 
-For more information, see [security release backports].
-
 ### How can I get a high severity bug fix released?
 
 Any high severity issue should start with an issue labelled with the appropriate bug and severity labels. 
@@ -247,22 +231,6 @@ Depending on the bug details, follow one of the following processes:
 - For [high severity security bugs][process-security-release-critical] 
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the [release date](/handbook/engineering/releases/) of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-pick-label)
-
-### How can I revert a security merge request?
-
-Once a security merge request has been merged, it's not advisable to revert it for multiple reasons:
-
-1. Reverting requires rolling back a security fix, compromising the integrity of GitLab.com and self-managed instances
-1. Reverting without making another fix into the release risks disclosing the vulnerability to the public when we make the release.
-   For high severity vulnerabilities, this is unacceptable
-1. Security releases are performed in a restricted time constraint, reverting a security merge request requires another fix to be
-   prepared in time to avoid impacting the security release timeframe 
-
-If a security vulnerability introduced a bug, in most cases, the appropriate path forward is to fix the issue in the canonical repository (after the security release has been published).
-
-If a security vulnerability introduced a high severity bug, engage with AppSec and release managers to coordinate next steps. 
-
-
 
 ## Resources
 
