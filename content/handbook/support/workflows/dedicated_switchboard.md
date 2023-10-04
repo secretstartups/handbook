@@ -13,4 +13,4 @@ GitLab Support Engineers can access the [Switchboard](https://about.gitlab.com/d
 1. Click **Sign in**
 1. Under **Sign in with your corporate ID**, select **Okta**
 
-You should now be in **Switchboard**. 
+You should now be in **Switchboard**.
