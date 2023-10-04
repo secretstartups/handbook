@@ -64,7 +64,6 @@ Please see [our guide on giving career development](/handbook/people-group/guida
 1. Prefix a new item with your name. Do the same for all responses/follow-ups.
 1. Use `=>` to indicate a response/followup to an agenda item and prefix with your name. For example: `DISCUSS` Sid: Should we look into a collaboration with Walmart? => Kate: I think so, I created https://gitlab.com/gitlab-org/gitlab-ce/issues/101
 1. Use sub-bullets (a, b, c) if there sub topics.
-1. For agenda items to be addressed asynchronously, it is recommended to add the lower case text `async` after the tag and contributor name. Note that `async` is not a valid 'Timing', 'Action', or 'Ready to remove' tag, and only describes that an asynchronous method will be leveraged. For example:  `DISCUSS` Andre: `async` What swag should we order for upcoming customer event?
 1. Include a link to the agenda in calendar invite of the 1-1 meeting
 1. Use comments with +mentions in Google Docs only to signal urgency, don't write content down that way since it tends to get lost. Example: +person@example.com urgent because xyz
 1. Link relevant issues, chats, screenshots, and Google Docs liberally.
