@@ -526,6 +526,8 @@ Kindly note the following when filling in this section:
 1. Work Address: Select Yes
 1. Benefits - Select the following per country:
 
+| Country | Benefit plan |
+|---------|--------------|
 | Denmark | Standard |
 | Austria | None |
 | Hungary | Standard |
@@ -534,15 +536,15 @@ Kindly note the following when filling in this section:
 | Luxembourg | Premium |
 | Brazil | Omint Plan (should be added for you) |
 | Italy | Premium |
-| Spain | Premium |
-| Switzerland | None
+| Spain  | Premium |
+| Switzerland | None |
 | Sweden | Standard |
 
-1. Life Insurance Coverage - For Mexico Hires, Please select "I don't want to offer this benefit". For more details on benefits for team members who are contracted through Remote. Click [here]({{< ref "remote-com#brazil" >}}).
+1. Life Insurance Coverage - For Mexico Hires, Please select "Life/ADD Insurance of 350 MXN (~18 USD)". For more details on benefits for team members who are contracted through Remote. Click [here]({{< ref "remote-com#brazil" >}}).
 If there are any questions, these should be directed to help@remote.com.
 1. Click on the benefits acknowledgement and continue
-1. You be will be on the ‘billing cycle’ page
-1. Click on yearly billing cycle and click continue
+1. You be will be on the ‘billing cycle’ page.
+1. Click on yearly billing cycle and click continue.
 1. You will now be able to review all the candidate and contract details, you are able to edit them should you wish.
 1. Once you have reviewed, and everything is in order, click ‘invite now’.
 1. Your candidate has been submitted successfully. You are able to see the progress on the Remote homepage.
