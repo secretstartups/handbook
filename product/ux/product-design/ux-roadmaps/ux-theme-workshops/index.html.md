@@ -12,7 +12,7 @@ description: "Guide to facilitating UX Theme workshops"
 
 ## Overview
 
-This document will serve as a helpful guide for navigating a team through the UX Them workshop. Much like a user interview guide, the items detailed below are not concrete rules or step-by-step instructions; they are guidelines that allow for minor deviations in the process, which will happen as every team is different.
+This document will serve as a helpful guide for navigating a team through the UX Theme workshop. Much like a user interview guide, the items detailed below are not concrete rules or step-by-step instructions; they are guidelines that allow for minor deviations in the process, which will happen as every team is different.
 
 ## Preparing the workshop
 
@@ -104,6 +104,10 @@ Next: Follow the links provided by the Design DRI for relevant insights and JTBD
 _When complete, the FigJam should look like this:_
 
 ![Step-2 example](example-ux-theme-workshop-step-2.png)
+
+#### Make the FigJam board available to team members
+
+This [handbook page](/handbook/product/ux/product-designer/#figma) has information on how to set the appropriate level of access for your FigJam boards.
 
 ## Facilitating the Workshop
 
