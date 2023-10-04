@@ -318,7 +318,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - [Talent Assessment Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
+    - Talent Assessment Training (UDPATE IN PROGRESS)
     - [Values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
     - [Remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
     - [Functional competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies) *(if applicable)*
@@ -335,7 +335,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
 
-{{< youtube "QPPo7sDenEw" >}}
+**IN PROGRESS - WILL BE UPDATED**
 
 #### Topics To Avoid
 
@@ -488,7 +488,7 @@ If you have any questions or concerns about next steps, please contact your mana
 
 ## Information Guide
 
-### Performance/Growth Potential Review General FAQs
+### Performance/Growth Potential Review General Information
 
 - **Why does this matter to me?**
 
@@ -718,7 +718,7 @@ The succession planning process might vary slightly for different areas of the b
 
 *Note that the `Emergency Coverage` slide in the [template above](https://docs.google.com/presentation/d/1w-ODnm-S_sV7TAEDqfU6kUpZqr7-cDIFwAlPZI10HzU/edit#slide=id.gf99d467451_1_8) should only be used to if the identified successor could not provide temporary coverage for the current leader in an emergency situation.*
 
-## Resources
+## Resources -**The Resources for FY24 are currently being updated**
 
 | Resource | Purpose |
 | ------ | ------ |
