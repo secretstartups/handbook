@@ -736,6 +736,27 @@ Note: Time zone offsets change throughout the year due to Daylight Savings Time,
 | Hong Kong         | 03:00 PM | 05:00 PM |
 | Sydney            | 05:00 PM | 07:00 PM |
 
+#### Multi-session meeting naming
+
+When scheduling meetings with two or more sessions (usually when trying ensure worldwide coverage for all team members),
+name them after the topic, appended with a session number based on the order they show up in the calendar.
+Team members will see the meeting invites in their email or calendar in relation to their local time zone and can decide for themselves which session to attend, based on their working hours.
+
+Avoid:
+- Terms like `friendly` or `early` / `late`, as these terms are overly subjective.
+  An early meeting for one team member might seem late for someone in a different time zone.
+  Or a west coast AMER meeting might seem "APAC friendly", but not to someone in western APAC who is still asleep when the meeting starts.
+- Using `AMER`, `EMEA`, `APAC`, or `only` unless the meeting is specifically targeting members of that time zone.
+  These terms give the impression that only team members from those timezones are welcome, when people from any timezone with any working style are welcome.
+
+For example:
+
+| Scheduled time | Preferred                         | Avoid |
+|----------------|-----------------------------------|-------|
+| `07:00:00 UTC` | "All members meeting - Session 1" | "All members meeting - EMEA/AMER" |
+| `15:00:00 UTC` | "All members meeting - Session 2" | "All members meeting - AMER/APAC friendly" |
+| `23:00:00 UTC` | "All members meeting - Session 3" | "All members meeting - APAC/EMEA only" |
+
 ### Video calls
 
 1. Use video calls if you find yourself going back and forth in an issue/via email
