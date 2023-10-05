@@ -136,7 +136,14 @@ At the conclusion of the cure period:
 
 **If the program member does not remedy the situation**, then GitLab will terminate the subscription license it granted the program member under the terms of the applicable Agreement.
 
-Certain situations may warrant immediate suspension or revocation of the subscription license(s) under the Agreement. In those cases, GitLab will use best efforts to notify the program member prior to suspension or revocation. 
+Certain situations may warrant immediate evocation of a program member's subscription license. In those cases, GitLab will use best efforts to notify the program member prior to revocation subject to the terms of the applicable agreement.
+
+To revoke a subscription license, GitLab team members should engage GitLab's Sales Support team via Salesforce as follows:
+
+1. Locate the subscription associated with the license in question
+1. Chatter Deal Desk to request this subscription be "debooked"
+
+Debooking a subscription revokes its associated Ultimate license.
 
 ## Renewal
 
