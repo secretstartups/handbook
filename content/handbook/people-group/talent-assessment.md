@@ -334,7 +334,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
 
-**IN PROGRESS - WILL BE UPDATED**
+[LevelUp Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
 
 #### Topics To Avoid
 
@@ -713,7 +713,7 @@ The succession planning process might vary slightly for different areas of the b
 
 | Resource | Purpose |
 | ------ | ------ |
-| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit?usp=sharing) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the FY'23 Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
+| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit?usp=sharing) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
 | [Workday Job Aid: How to Complete My Annual Self Evaluation](https://docs.google.com/document/d/1xLsiB6RljJUQGT9EWbNOMqCVL-Kb8dS1PivriVjgz5E/edit?usp=sharing) | Team member instructions for how to complete their annual Self-Evaluation task in Workday. |
 | [Workday Job Aid: How to Complete the Manager  Evaluation and Assess Growth Potential](https://docs.google.com/document/d/11wq7xkWi0O6a_YXtkH8RSy7DX5Rvxx1j7muWkaFIym0/edit?usp=sharing) | Manager instructions for how to complete their Manager Evaluation task and Assess Growth Potential task in Workday. |
 | [Workday Job Aid: How to Complete Talent Calibration](https://docs.google.com/document/d/1rcHLTE3cvmh_zglHO789uqaN25vYhvGSFRBbHMg8tJk/edit?usp=sharing) | Manager instructions for how to complete their Talent Calibration in Workday. |
