@@ -35,8 +35,8 @@ The People Operations Program Manager is a [grade 6]({{% ref "compensation-calcu
 - 1-2 years of directly related experience required
 - Experience working in a fast-paced environment
 - Demonstrated resourcefulness in problem-solving, identifying and addressing issues that may arise during People operational activities to include analyzing problems, proposing solutions, and implementing appropriate measures to overcome challenges
-- A strong track record of successful project execution and strong project management skills
-- Experience working independently to lead projects with multiple stakeholders taking them to completion
+- A track record of successful project execution and strong project management skills
+- Experience working independently to lead projects with multiple stakeholders driving projects through to completion
 - Ability to influence others at varying levels of seniority using data to inform recommendations.  Work collaboratively with cross-functional teams to identify and mitigate process gaps and issues through active listening and probing resulting in mutual understanding.
 - Solid organizational skills
 - Solid change management experience
@@ -91,8 +91,8 @@ The Senior People Operations Program Manager is a [grade 7]({{< ref "compensatio
 - Ability to influence others at varying levels of seniority using data to inform recommendations.  Work collaboratively with cross-functional teams to identify and mitigate process gaps and issues through active listening and probing resulting in mutual understanding
 - Strong organizational skills
 - Strong change management experience
-- Ability to understand a high-level issue and conduct root cause analysis to understand concerns
-- Experience analyzing metrics using Excel (or similar software)
+- Strong ability to understand a high-level issue and conduct root cause analysis to understand concerns
+- Intermidiate/Expert experience analyzing metrics using Excel (or similar software)
 - Prior understanding and management of the Contractor Hiring process is a plus
 - Strong process re-engineering skill set
 - Demonstrates exceptional customer service and relationship building skills
@@ -146,8 +146,8 @@ The Senior People Operations Program Manager is a [grade 8]({{< ref "compensatio
 - Ability to influence others at varying levels of seniority using data to inform recommendations.  Work collaboratively with cross-functional teams to identify and mitigate process gaps and issues through active listening and probing resulting in mutual understanding
 - Strong organizational skills
 - Strong change management experience
-- Ability to understand a high-level issue and conduct root cause analysis to understand concerns
-- Experience analyzing metrics using Excel (or similar software)
+- Srong ability to understand a high-level issue and conduct root cause analysis to understand concerns
+- Intermediate/Strong experience analyzing metrics using Excel (or similar software)
 - Prior understanding and management of the Contractor Hiring process is a plus
 - Strong process re-engineering skill set
 - Demonstrates exceptional customer service and relationship building skills
