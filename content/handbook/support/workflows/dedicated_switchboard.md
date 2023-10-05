@@ -14,7 +14,7 @@ Read more about what the goals of Switchboard are on the [Category Direction pag
 GitLab Dedicated Switchboard is a base-entitlement for Support Engineers, Support Engineering Managers and Support Directors.
 You can access the Switchboard app by going into the **Okta Dashboard** -> **Search your apps** -> Search with the term **Switchboard (production)**.
 
-# Accessing a customer configuration
+## Accessing customer configuration
 
 When launching Switchboard, you should default to the `/tenants` page with a list of tenant customers.
 **Name**, **Identifier** (codename), and **External URL** are listed in a table.
@@ -29,7 +29,6 @@ Check the `Tenant Details` collapsible section.
 Check the `Maintenance` collapsible section.
 
 ### Opensearch links
-
 Currently not available. A [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) is open to add that functionality
 
 ### Customer contacts
