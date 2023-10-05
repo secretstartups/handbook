@@ -29,7 +29,7 @@ Working with Grafana [has been moved]({{< ref "dedicated_instance_health" >}})
 
 We do not share internal graphs from our monitoring systems with Dedicated customers. The reason for this is that as the SaaS provider, we manage the underlying environment. Sharing internal graphs would not be actionable by the customer since they don't have access to the environment and these graphs may not be interpreted correctly without a proper understanding of our system.
 
-### View instance metadata 
+### View instance metadata
 
 Use the Switchboard app. More information can be found in the [Switchboard workflow]({{< ref "dedicated_switchboard" >}}).
 
