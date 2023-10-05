@@ -94,8 +94,8 @@ This section captures all three meeting variants.
 
 Scheduling for the in-person event around a Board Meeting generally follows:
 1. First Day (Monday): Half day meetings. Start around 1pm PST. A social dinner in the evening. 
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team activities.
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time. Concludes with a dinner with the Board.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team. Concludes with a dinner with the Board.
 1. Fourth Day (Thursday): No scheduled meeting. Time reserved for ad hoc meetings and time with the Board.
 
 ### In-person offsite without Board Meeting
@@ -103,8 +103,8 @@ Scheduling for the in-person event around a Board Meeting generally follows:
 Scheduling for the in-person event that is not around a Board Meeting generally follows:
 
 1. First Day (Monday): Half day meetings. Start around 1pm PST.
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team activities.
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and a team dinner.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time with the team and a team dinner.
 1. Fourth Day (Thursday): Meetings start at 8am and run through 12pm PST.
 
 ### Fully remote offsite
