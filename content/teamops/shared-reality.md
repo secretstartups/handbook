@@ -145,7 +145,7 @@ TeamOps encourages and supports a culture of respect.
 Decisions and results are better informed when they include a maximally [diverse array of perspectives](/handbook/values/#seek-diverse-perspectives).
 While team members should always be empowered to work autonomously, they should still remain included as a collaborator, informed as a colleague, and valued as a critical component of success.
 
-In TeamOps, a [bias for asynchronous communication](/teamops/everyone-contributes/#asynchronous-workflows) fosters [inclusion](https://about.gitlab.com/company/culture/inclusion/) of many diverse personas, including underrepresented groups, people from different cultural or geographical locations, and [neurodiverse individuals](/handbook/values/#embracing-neurodiversity). By defaulting to written, asynchronous sharing, everyone contributes in the same way, which standardizes and equalizes the weight of each written message. People of all backgrounds, abilities, and work styles are invited to participate in a way that serves their needs. The best idea—not the loudest voice in the meeting—wins.
+In TeamOps, a [bias for asynchronous communication](/teamops/equal-contributions/#asynchronous-workflows) fosters [inclusion](https://about.gitlab.com/company/culture/inclusion/) of many diverse personas, including underrepresented groups, people from different cultural or geographical locations, and [neurodiverse individuals](/handbook/values/#embracing-neurodiversity). By defaulting to written, asynchronous sharing, everyone contributes in the same way, which standardizes and equalizes the weight of each written message. People of all backgrounds, abilities, and work styles are invited to participate in a way that serves their needs. The best idea—not the loudest voice in the meeting—wins.
 
 TeamOps frees contributors from the conventional bounds of time zones and meetings, and invites a wider audience to participate in a shared reality. This generates more informed contributions from more parties, more thoughtful conversation, and more archived context for retrospectives and evaluations.
 
@@ -205,7 +205,7 @@ Return to the <a href="https://about.gitlab.com/teamops/">TeamOps homepage</a>
 {{< /panel >}}
 
 {{< panel header="**Next**" header-bg="success" >}}
-Continue the learning experience by exploring <a href="https://handbook.gitlab.com/teamops/everyone-contributes/">TeamOps - Everyone Contributes</a>
+Continue the learning experience by exploring <a href="https://handbook.gitlab.com/teamops/equal-contributions/">TeamOps - Everyone Contributes</a>
 {{< /panel >}}
 
 {{< /cardpane >}}

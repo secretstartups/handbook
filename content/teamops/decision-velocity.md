@@ -73,13 +73,13 @@ Giving agency begins in the most typical of places. Video calls are a natural pa
 
 ## Push decisions to the lowest possible level
 
-As many decisions as possible should be made by the person doing the work (the [DRI](/teamops/everyone-contributes/#directly-responsible-individual-dri)), not by their manager or their manager's manager. Fostering this kind of ownership can:
+As many decisions as possible should be made by the person doing the work (the [DRI](/teamops/equal-contributions/#directly-responsible-individual-dri)), not by their manager or their manager's manager. Fostering this kind of ownership can:
 
-- enhance [agency](/teamops/everyone-contributes/#give-agency) by empowering people to directly and immediately make necessary changes to their work,
+- enhance [agency](/teamops/equal-contributions/#give-agency) by empowering people to directly and immediately make necessary changes to their work,
 - increase efficiency by eliminating delays while waiting for approval, and
 - free senior leaders from the burden of making decisions that stunt their own productivity.
 
-In the spirit of [iteration](/teamops/measurement-clarity/#iteration), TeamOps encourages executing a sub-optimal decision with full conviction—then returning to it later to improve upon it based on [post-decision feedback](/teamops/everyone-contributes/#disagree-commit-and-disagree)—rather than executing on a full decision with sub-optimal conviction. Each project's DRI knows a project's moving parts and the impacts of a particular choice more than anyone else does; that person should be trusted with full accountability over it.
+In the spirit of [iteration](/teamops/measurement-clarity/#iteration), TeamOps encourages executing a sub-optimal decision with full conviction—then returning to it later to improve upon it based on [post-decision feedback](/teamops/equal-contributions/#disagree-commit-and-disagree)—rather than executing on a full decision with sub-optimal conviction. Each project's DRI knows a project's moving parts and the impacts of a particular choice more than anyone else does; that person should be trusted with full accountability over it.
 
 {{% details summary="Examples and resources for push decisions to the lowest possible level" %}}
 **Example:** [Updating Developer Evangelism mentoring guidelines](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/107903)
@@ -100,7 +100,7 @@ A Senior Developer Evangelist at GitLab recognized that many coaching and mentor
 
 ## Bias for action
 
-A [bias for action](/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/everyone-contributes/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
+A [bias for action](/handbook/values/#bias-for-action) accelerates ideation, collaboration, and execution better than alignment and consensus. This bias stems from the [agency](/teamops/equal-contributions/#give-agency) and [ownership](/teamops/decision-velocity/#push-decisions-to-the-lowest-possible-level) with which every individual is empowered in an organization practicing TeamOps. People can then use that autonomy to optimize their own proactivity, self-efficacy, and creativity. A team member operating in a conventional organizational context might feel compelled to ask "Should I?" A team member operating via TeamOps  can instead think "I will."
 
 When facing decisions that may involve imperfect information or failures, having a bias for action ensures a more rapid pace of execution. This may require a greater organizational tolerance for mistakes and an appreciation for [two-way door decisions](/handbook/values/#make-two-way-door-decisions), which teams should discuss as part of their [shared reality](/teamops/shared-reality/#shared-reality) and their [collaboration guidelines](/teamops/decision-velocity/#collaboration-codification).
 
@@ -168,7 +168,7 @@ Your team’s ability to be transparent in your virtual-first ways of working is
 - Set [clear goals](/teamops/measurement-clarity/#definition-of-done) and communicate them
 - Update the project management system and [SSoT](/teamops/shared-reality/#single-source-of-truth-ssot) often with your progress and status
 - Maintain an organized calendar and share it with all team members
-- Communicate frequently (both [asynchronously](/teamops/everyone-contributes/#asynchronous-workflows) and [synchronously](/teamops/everyone-contributes/#well-managed-meetings))
+- Communicate frequently (both [asynchronously](/teamops/equal-contributions/#asynchronous-workflows) and [synchronously](/teamops/equal-contributions/#well-managed-meetings))
 - Proactively share achievements, [feedback](/teamops/measurement-clarity/#transparent-feedback), and questions (both [personal](/teamops/shared-reality/#informal-communication) and professional)
 - Schedule a cadence of recording and showcasing your work (eg: weekly Slack post and quarterly OKR report)
 - Be responsive and available for team communication
