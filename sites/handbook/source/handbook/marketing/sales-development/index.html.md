@@ -690,6 +690,7 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 * If a lead responds, the BDR/SDR is to schedule a call/meeting using [Outreach’s meetings feature.](/handbook/marketing/marketing-operations/outreach/#outreach-meetings)
 * The only time you will need to manually change lead status outside of what is mentioned in the previous bullets is if you for some reason don't use an Outreach sequence to reach out to someone or if you need to unqualify a lead for bad data etc.
 * If you check the `Inactive lead` or `Inactive contact` checkbox, signifying that this person no longer works at the company, any running sequence will automatically be marked as finished.
+* If you notice your leads are being reassigned to `Inquiry Queue`, that's due to a scheduled clean up job in Traction that updated Status = `Inquiry` to `Inquiry Queue`. To resolve this, you will want to add your leads to Outreach sequence. Note: The scheduled clean up runs daily at 10:30 PM EST/EDT.
 
 ## Follow Up Outreach Sequences
 
@@ -1085,6 +1086,9 @@ Double credit nor double compensation will be given
 
 **Q:** What if a prospect comes back directly to the BDR much delayed, when the account is not marked as “Actively Working” anymore, but resulting from personalized messaging?
 **A:** Yes, if they email, reply via LI, or call the BDR directly, the BDR will need to check that the lead is in queue ownership. If so, they must move the account back to “Actively Working”, so that the lead can be put into their ownership.
+
+**Q:** Why are my leads being reassigned to `Inquiry Queue`?
+**A:** Marketing Operations has a daily scheduled clean at 10:30 PM EST/EDT that update Status = `Inquiry` to `Inquiry Queue`. To prevent the reassignment, you'll want to update the leads from `Inquiry` to `Accepted` or add to an Outreach sequence.
 
 ## BDR Event Promotion and Sales Dev Org Follow Up
 
