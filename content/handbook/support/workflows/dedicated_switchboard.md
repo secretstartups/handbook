@@ -29,8 +29,8 @@ Check the `Tenant Details` collapsible section.
 Check the `Maintenance` collapsible section.
 
 ### Opensearch links
-
-Currently not available. A [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) is open to add that functionality.
+  
+Currently not available. There is an open [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) to add that functionality.
 
 ### Customer contacts
 
