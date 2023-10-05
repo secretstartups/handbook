@@ -31,7 +31,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
 | Security | Matt Angell | Alice Crosbie |
-| Incubation | Matt Angell  | Alice Crosbie |
+| Incubation | Holly Nesselroad  | Alice Crosbie |
 | Product Management  | Matt Angell  | Alice Crosbie |
 | UX  | Riley Smith | Guido Rolli |
 
