@@ -157,6 +157,20 @@ For more information about Highspot, please see the [Highspot at GitLab handbook
          + Make sure to add issues to the epic!
     + Once all sub-issues are completed, close out the epic.
         
+### PTO Process for MDF Request Approvers
+
+Prior to your PTO, as an MDF request approver, you will need to update the `Delegated Approver` to your reporting manager so they have access to approve MDF requests while you are away. When you return, please remember to remove the `Delegated Approver`.
+
+When an approval request email is sent to the assigned approver, the delegated approver also receives an email notification that there is an approval request to review. Delegated approvers can't reassign approval requests; they can only approve or reject approval requests.
+
+Following the steps to update your Delegrated Approver:
+1. Log into Salesforce
+1. On the top right of the page, click on the your name to drop down a menu, then select `My Settings`
+1. On the left column, click on `Personal` > `Approver Settings`
+1. In the settings:
+   1. Select the `Delegrated Approver` (This would be your manager)
+   1. Select `If I am an approver or delegated approver`
+   1. Save.
 
 ### Demand Generation activities eligible for MDF
 Details are listed out in the [MDF handbook](/handbook/resellers/Channel-Program-Guide/MDF/#eligible-activities-and-required-proof-of-performance-mdf-activities). 
