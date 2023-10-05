@@ -18,6 +18,8 @@ At GitLab, we know how important it is to leverage the right Marketing technolog
 
 To do so, we need to embrace continuous learning to stay on top of industry trends and best practices. This handbook page updated quarterly will be your main source of resources for all things Marketing Operations.
 
+The Mops team holds a weekly "show and tell" on the internal team call. To see upcoming schedule or previous recordings, [visit this sheet (internal only)](https://docs.google.com/spreadsheets/d/1iovZfsOppjj8SJW13Y9F_IYXjVCRnHd5FgbUDIUrPfE/edit?usp=sharing).
+
 ## What is Marketing Operations?
 
 Defined by Gartner, "Marketing Operations is the function of overseeing an organization's marketing program, campaign planning and annual strategic planning activities. Other responsibilities include technology and performance measurement and reporting and data analytics."
@@ -28,31 +30,24 @@ Defined by Gartner, "Marketing Operations is the function of overseeing an organ
 
 ## 🔥 Hot Topics
 
-Last updated: July 2023
+Last updated: September 2023
 
 ### Marketing Trends
 
 -   📝 [Business News Daily - 10 tech trends that will influence your Marketing strategies](https://www.businessnewsdaily.com/8564-future-of-marketing.html)
 -   📝 [Gartner - What will Marketing focus on in 2023?](https://www.gartner.com/en/articles/what-will-marketing-focus-on-in-2023)
+-  🎥 [Top Insights from the Marketing Keynote from Salesforce Dreamforce 2023](https://www.salesforce.com/plus/experience/dreamforce_2023/series/marketers_at_dreamforce_2023/episode/episode-s1e1)
 
 ### Personalization
 
--   🎙️[Human of MarTech - A time traveler's guide to martech and personalization](https://humansofmartech.com/2023/06/06/74-pratik-desai-a-time-travelers-guide-to-martech-and-personalization/)
--   📝[Instapage - How to use Account-Based Marketing personalization in your campaigns](https://instapage.com/blog/account-based-marketing-personalization/)
--   📝 [LinkedIn - Hyper-personalization in ABM: Doing it throughout the funnel](https://www.linkedin.com/pulse/hyper-personalization-abm-doing-throughout-funnel-naseef-kpo/)
+-  🎙️ [What does Personalization Actually Mean?](https://open.spotify.com/episode/2YSvgzOF0EAc5GWs5H4IFM)
+-  🎥 [Privacy & Personalization: How to Benefit from Consent-Based Marketing](https://www.bigmarker.com/third-door-media/Privacy-Personalization-How-to-Benefit-from-Consent-Based-Marketing)
 
 ### AI
 
--   📝 [LXA - What is the future of AI in Marketing?](https://www.lxahub.com/stories/what-is-the-future-of-ai-in-marketing)
--   📝 [MarketingOps - Artificial Intelligence Basics a Primer for Marketing Ops Professionals](https://marketingops.com/artificial-intelligence-basics-a-primer-for-marketing-ops-professionals/)
--   📝 [Martech - How to accelerate your Marketing career using generative AI now](https://martech.org/how-to-accelerate-your-marketing-career-using-generative-ai-now/)
-
-### Data
-
--   🎙️ [The OG Ops - Make pipeline, not war - The attribution](https://open.spotify.com/episode/4eEqTUQvATBu57CNvNxO1K?si=AfkbItDLSKi9uKH4oIhjOA)
--   📝 [Media Village - First-party data, the end of third-party cookies and the future of targeting](https://www.mediavillage.com/article/first-party-data-the-end-of-third-party-cookies-and-the-future-of-targeting/)
--   📝 [Hyperproof - Data compliance: What you need to know](https://hyperproof.io/resource/data-compliance/)
--   🎙️ [CS2 - Opt-in optimized: Understanding data compliance](https://www.cs2marketing.com/fwd-thinking/opt-in-optimized-understanding-data-compliance)
+-   📝 [Three Ways To Measure If Your Marketing Operations Is Ready For AI](https://www.forbes.com/sites/forbestechcouncil/2023/08/01/three-ways-to-measure-if-your-marketing-operations-is-ready-for-ai)
+-   📝 [New Research: 60% of Marketers Say Generative AI will Transform Their Role, But Worry About Accuracy]([https://www.salesforce.com/news/stories/generative-ai-for-marketing-research/)
+-   📝 [The ethics of AI-powered marketing technology](https://martech.org/the-ethics-of-ai-powered-marketing-technology/)
 
 ## 🏗️ Marketing Operations Fundamentals
 

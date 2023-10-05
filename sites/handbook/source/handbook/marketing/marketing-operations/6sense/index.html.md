@@ -12,12 +12,6 @@ description: 6sense is an Account Based Marketing platform that uses a predictiv
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> 
-
-This page is under construction while we work to migrate from Demandbase to 6sense. Please feel free to improve this page by opening an MR! 
-{: .alert .alert-warning}
-
-
 ## Overview
 
 [6sense](https://6sense.com/) is a an [Account Based Marketing](https://about.gitlab.com/handbook/marketing/account-based-marketing/) platform that uses a predictive model to identify the right customers at the ideal time.
@@ -47,6 +41,8 @@ Marketo activity is passed to 6sense to inform the predictive models. Marketo fo
 ### Outreach
 
 ### Qualified
+
+### Integrate (DAP)
 
 ### Slack
 
@@ -83,9 +79,9 @@ The following teams have role-based access to 6sense:
 - [EMEA 6Sense Training](https://www.youtube.com/watch?v=fOPXzpcs_5k)
 - [AMER 6Sense Training](https://www.youtube.com/watch?v=z3fmYcoiRXs)
 
-### Upcoming Trainings
-- [2023-09-27: 6sense Field Marketing Enablement Session 1](https://www.google.com/calendar/event?eid=NDU0cm41a2N0cW5qdnRkZGllM2F0aWhqMGIgbnJzQGdpdGxhYi5jb20)
-- [2023-09-27: 6sense Field Marketing Enablement Session 2](https://www.google.com/calendar/event?eid=NjByNzUwdXUxYXZpdjFnbmpmaHZkZWVnam8gbnJzQGdpdGxhYi5jb20)
+### Marketing Trainings
+- [2023-09-27: 6sense Field Marketing Enablement Option 1](https://youtu.be/DwPZIp2L1dw)
+- [2023-09-27: 6sense Field Marketing Enablement Option 2](https://youtu.be/SeWPi1flQZM)
 
 ## Orchestrations
 

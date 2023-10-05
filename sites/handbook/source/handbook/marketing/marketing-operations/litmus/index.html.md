@@ -65,5 +65,3 @@ As a `Proof reviewer`, you will be notified via email that a proof is ready for 
 
 To review, click anywhere on the email and the comment section will open. You can also check the links in the email by clicking where the link should be and selecting `Visit link`. If you would like to leave a comment, click again and select `Add comment` instead. If the email is approved, click the green `Approve` button at the top of the page.
 
-## Litmus Chrome Extension
-Litmus users who need to test and preview emails without leaving Marketo are able to use the Litmus Chrome extension. Details on how to set-up this extension can be found in the Litmus [help documentation](https://help.litmus.com/article/134-litmus-extension).

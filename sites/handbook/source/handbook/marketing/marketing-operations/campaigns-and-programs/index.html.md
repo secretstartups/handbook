@@ -542,7 +542,7 @@ All programs have different necessities so it will be important to determine how
 - Included in the mentioned templates are 2 landing pages and 2 email templates - in the `Self Service Cancellation Assets` folder. To provide a self-service option for recipients to cancel their reservation, these landing pages and email templates will need to be updated.
 - Grab the URL of the `Cancel Page` landing page and place it in the token called `my.cancellation page`. **If this is not done, the link included in the registration confirmation email will be broken**.
 - Activate the `01 Cancellation Flow` smart campaign
-- Update the `Send Alert` step to the preferred internal GitLab email address that will receive the cancellation alert. This notifies stakeholders of cancellations. 
+- For the `Send Alert` step, determine the preferred internal GitLab email address that will receive the cancellation alert. This flow step alert notifies stakeholders of cancellations. If only one email should be notified, fill in the {{my.event owner email address}} token in the program tokens with the appropriate email. If more than one email should be notified, change the token as previously described - then within the `3 - Send Alert` flow step, add each additional email to the `To Other Emails` field after the token, with each email separated by a comma
 - Activate asset expirations for 2-3 days after the event is over for all live cancellation assets
 
 ### Step 7: Update the Salesforce campaign

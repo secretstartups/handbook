@@ -197,8 +197,6 @@ Follow the [figjam flow chart](https://www.figma.com/file/lycXH6cMKK5oNaKj2RSigx
 ### Scoring Model
 The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL, and their `Behavior Score` cannot be `0`.
 
-For account scoring, visit the [DemandBase page](/handbook/marketing/account-based-marketing/demandbase/#account-scoring).
-
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
 Some leads are exluded from scoring if they:
@@ -217,7 +215,7 @@ Based on certain criteria, a lead may auto-MQL. The scenarios are listed below:
 - [Handraise PQL](/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)
 - In-app Health Check form
 - Program status of `Follow Up Requested` 
-- Drift interaction with meeting scheduled
+- Qualified (chat) interaction with meeting scheduled
 
 #### Behavior Scoring
 
@@ -233,7 +231,6 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Content - High|Analyst Reports| +45|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
-|* Survey  - High|Simply Direct|+45|	{{my.Survey - High}}	|Trigger   |	1/day	|
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
@@ -245,7 +242,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`, `/install`, `/free-trial`, `/livestream`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
-|Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
+|No activity in 30 days|No web, scoring, program activity in last 30, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|
 |Email: Unsubscribed|Unsubscribed from Email|	Score Reset	|{{my.Unsubscribed}}|	Trigger	|1/month|
 |Email:  Bounce	|Email Hard Bounces|	-20|	{{my.Bounce}}|	Trigger|1/month|
@@ -264,7 +261,7 @@ These are boosters to scores that occur when a special action takes place above 
 |Re-MQL Score|	Status is Nurture,user takes an activity that increases behaviour score<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
 |Trial + Action|Success in program within 40 days of starting a trial |+20|{{my.Trial plus Action Booster}}|Trigger|1/month|
 |On24 Engagement Booster | |+10 | {{my.On24 - High}} | Trigger | Once/3 month |
-| On24 Questions Asked Booster | | +5 | {{my.On24 - Low}} | Trigger | Once/week  |
+|On24 Questions Asked Booster | | +5 | {{my.On24 - Low}} | Trigger | Once/week  |
 |On24 Resources Booster | | +5| {{my.On24 - Low}} | Trigger | Once |
 
 

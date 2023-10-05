@@ -32,7 +32,7 @@ Marketing Operations (MktgOps) supports the marketing organization to streamline
 
 | Person | Role |
 | ------ | ------ |
-| [Christine Lee](https://gitlab.com/christinelee ) | Sr. Director, Marketing Strategy, Operations, and Analytics |
+| [Christine Lee](https://gitlab.com/christinelee ) | VP, Marketing Ops and Analytics |
 | [Amy Waller](https://gitlab.com/amy.waller) | [Senior Manager, Marketing Operations](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#senior-manager-marketing-operations) |
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Manager, Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#manager-marketing-operations) |
 | [Nikki Silverberg](https://gitlab.com/nikkiroth) | [Staff Marketing Operations Manager](https://handbook.gitlab.com/job-families/marketing/marketing-operations-manager/#staff-marketing-operations-manager) |
@@ -109,30 +109,26 @@ The marketing operations team uses collective merge requests, known as our miles
 
 ### Working with Sales Systems for New Fields and/or Permission Set Updates
 
-The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to deploy new/updated fields and permission sets. See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
+The MktgOps team frequently works with the [Sales Systems team](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#sales-systems-charter) to make changes in Salesforce.com (SFDC). See the below information regarding the process for working with Sales Systems for these changes and SLAs we adhere to.
 
 Video: [Marketing Salesforce.com Sandbox Training - Creating Changesets](https://www.youtube.com/watch?v=tTaepVgxoe8)
 
 If a field needs to be created in Marketo AND SFDC, it must be created in SFDC first and then added to the Marketo User Permission set within SFDC. From there, the field will sync down to Marketo. If you miss this order of operations and the field is created in Marketo first, you will need to still follow the directions above and then open a support to re-map the fields. **Use [documentation for Marketo](https://developers.marketo.com/rest-api/lead-database/fields/field-types/) for field types.
 
 If you need assistance with Sales Systems follow the next steps:
-1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `MktgOps/Systems-Request` and `EntAppsCustomer::MOPS`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
-2. Determine the type of request you have:
-    - Fast Lane Requests:
-       1. Permission Set only updates (72 hour SLA w/ Systems)
-       2. New Field Creation (1 week SLA w/ Systems)
-            - if able, create a changeset in the Marketing Sandbox and link to it in the issue for faster deployment.
-    - All other requests that will need separate prioritization based on size and scope
+1. Open an [Sales System issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new) in their project and assign the label `EntAppsCustomer::MOPS`. Then, add to the corresponding Epic as a related issue, or in the description ([FY23Q4 Example](https://gitlab.com/groups/gitlab-com/-/epics/2043).
+2. If Mops member can create a changeset, please do so shortly after creating the issue to decrease time to deploy,
 3. Add [prioritization label](/handbook/marketing/marketing-operations/#labeling) of `MktgOpsPrio::00: Requested`
-    - If a *Fast Lane* Request, slack #mktgops and tag Amy Waller to flag to the System Prioritization Slack Channel
-4. Prioritization labels will be updated on a regular cadence. If they are labeled `MktgOpsPrio::01: In Queue`, they have been added to the agenda for the Sales Systems Prioritization call that occurs each Tuesday.
-5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::02: Actioned` by the MktgOps representative that is in the prioritization call. Fast Tracks will often be actioned before the Tuesday call.
-    * Once the label has been updated to `MktgOpsPrio::02: Actioned`, follow along with the Sales Systems labels for next steps.
+4. Business process owner (Amy or Christine) will review, and if they approve of the request from a business standpoint, they will check the appropriate box and add the `MktgOpsPrio::01: Approved` label. If not, the request will stay in `MktgOpsPrio::00: Requested` status until blockers or outstanding questions are resolved.
+5. Once approved, requests will be added to the prioritization queue by the business proess owner to review with with Sales Systems or the PMO and labeled `MktgOpsPrio::02: In Queue - Mops`
+4. Once Systems or PMO has agreed to take on work, the request will be added to a `Temp` holding milestone for further prioritization, and labeled `MktgOpsPrio::03: In Queue - Systems`
+5. Once a milestone is added and the issue is discussed, the label will be updated to `MktgOpsPrio::04: Actioned` by the MktgOps representative that is in the prioritization call.
+    * Once the label has been updated to `MktgOpsPrio::04: Actioned`, follow along with the Sales Systems labels for next steps.
 6. Systems will work on the issue and push any updates to the Staging environment first
-7. It is the responsibility of hte Business Owner to test and accept. The Business Owner must show proof (such as a testing plan, or screenshot) that the solution is working correctly in the staging environment. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.  Once this is added to the issue, they must add the label `MktgOpsPrio::03: Needs Approval` to request approval from the Business Process Owner. `Acceptance before they will deploy to production.
-8. The Business Process Owner will review, and if approved, they will add the `MktgOpsPrio::04: Approved` label to the issue, and check the required box in the issue for Systems to deploy. 
-7. Once in production, MktgOps should confirm again that the field/update in SFDC and corresponding/impacted systems is working as anticipated.
-8. Issue is closed and completed.
+7. It is the responsibility of the Business Owner to test and accept. The Business Owner must show proof (such as a testing plan, or screenshot) that the solution is working correctly in the staging environment. This is an important step that represents acceptance of the solution, its testing, and the authority to change the related process.
+8. Once ready to deploy, Systems manager will add `SFDCReleaseHelp` to flag to release managers it is ready for production release. Marketing Ops label should be updated to `MktgOpsPrio::05: Pending Release`
+7. Once in production, MktgOps should confirm again that the field/update in SFDC and corresponding/impacted systems is working as anticipated. Label updated to `MktgOpsPrio::06: Completed`
+8. Issue is closed and completed. 
 
 **Other helpful links:**
 
@@ -268,12 +264,14 @@ Categories
 Collaboration with Sales Systems
 </summary>
 
-- `MktgOps/Systems-Request`: Used on issues that require Sales Systems support
-- `MktgOpsPrio::00: Requested`: Issues that are ready for prioritization with Sales Systems
-- `MktgOpsPrio::01: In Queue`: Added to prioritization call agenda or `fast track` slack channel
-- `MktgOpsPrio::02: Actioned`: Discussed in prioritization and added to a future milestone - refer to Sales Systems labels moving forward for issue status
-- `MktgOpsPrio::03: Needs Approval`: Place on issues that require business process owner approval, after UAT and validation is completed
-- `MtkgOpsPrio::04: Approved `: Issues that have received business process owner approval
+- `EntAppsCustomer: MOPS`: Used on issues that require Sales Systems support
+- `MktgOpsPrio::00: Requested`: New issues  
+- `MktgOpsPrio::01: In Approved`: Issues that have received business process owner approval
+- `MktgOpsPrio::02: In Queue - Mops`: Issues that are ready for prioritization with Sales Systems 
+- `MktgOpsPrio::03: In Queue - Systems`: Discussed in prioritization and added to a temporary milestone
+- `MtkgOpsPrio::04: Actioned`: Issue is in current or future milestone. 
+- `MtkgOpsPrio::05: Pending Release`: Issue fully tested and approved in staging. Awaiting deploy by systems team.
+- `MtkgOpsPrio::06: Complete`: Issue has been deployed into production. 
 
 </details>
 

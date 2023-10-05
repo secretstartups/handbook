@@ -233,7 +233,29 @@ Upon deal registration creation, when Vartopia recognizes that a lead is matched
 * Campaign must be active to sync.
 * Only one `Partner Account` can be selected per campaign. For campaigns with multiple partners, you are required to create a child campaign per partner.
 
-## How To Add Marketing Campaign
+## Create a new Salesforce Campaign to Sync to Vartopia
+
+You can create a new campaigns to sync to Vartopia, to do so, you'll want to follow these steps.
+
+1. Log into Salesforce
+1. Go to Campaigns tab
+   1. If you aren't seeing the Campaigns, select the `+` to see all tabs, and click on Campaigns
+1. Click on the `New` button to create a new campaign
+1. Add `Campaign Name` (required field), you'll want to follow a similar naming convention (YYYYMMDD_PartnerName_Region_CampaignType_ActivityName) to marketing campaigns. For some examples:
+   1. 20221005_Trace3_Evolve_Las_Vegas_In-Person
+   1. 20231101_Presidio_L&L_Virtual
+   1. 20230306_MDF_159_Computacenter_CS_DC_West_Meeting
+1. Check `Active`
+1. Select `Type` and `Type Details`
+1. Add any related issue(s) or epic(s) in `Event Epic`
+1. Update the `Status` appropriately
+1. Add `Start Date` and `End Date`
+1. Update `Region` and `Sub-region`
+1. Update `Budgeted Cost in Campaign` (required field)
+1. Under Vartopia Partner Information, select `Partner Account` and check `Sync to Vartopia`
+1. Save.
+
+## Add GitLab Marketing Campaign on the DR Form
 
 There are two path that partners can access the `GitLab Marketing Campaign` field, through the Prospects or New Registration tab. See [slides](https://docs.google.com/presentation/d/1A9huMA3uJZDvoe3tgdVHLMKjNMqClTI63YuqJ1G122Y/edit#slide=id.g1d24c3e4ddd_5_52) for more instructional details.
 
