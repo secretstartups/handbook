@@ -40,32 +40,6 @@ The Annual Plan process [finishes two quarters after](https://about.gitlab.com/c
 
 ## FY24 Yearlies
 
-FY24 Yearlies and additional detail can be found by searching for the "FY24 Yearlies" Google Doc. This document is limited access. Initiatives in italic and followed by "XFN" are part of GitLab's existing [Top Cross-Functional Initiatives](/company/top-cross-functional-initiatives).
-
-1. Continue to win against GitHub with AI
-    1. XFN *Ship AI features*. Make GitLab (the application) smarter by shipping 16 AI/ML-assisted features and workflows across developer, security, and operations personas per quarter
-    1. XFN *Continue to win against GitHub*. This includes product positioning, R&D priorities, marketing messaging and field readiness. It also includes AI messaging to support GitLab’s “AI in all we do” focus
-    1. Own AI thought leadership. Deliver 15 customer value stories with clear ROI outlined and promote customers through 2 monthly releases (blog or other medium) per month of leader at customer doing great work with GitLab
-    1. Grow our base of [Code Suggestion](https://docs.gitlab.com/ee/user/project/repository/code_suggestions.html) users
-    1. Rollout monetization approach for AI
-1. Reduce churn and contraction by delivering predictable high value to customers
-    1. Reduce churn and contraction to half of the ATR as compared to FY23-Q4
-    1. XFN Run cross functional program to drive DevSecOps Adoption including shipping top product priorities in (Security, Plan, Value Stream Analytics)
-    1. XFN >95% of customer ARR with *usage reporting*
-    1. XFN Recognize and incentivize organizations who are among our most active contributors. Our goal is for 10% of GitLab customers to be *Leading Organizations* by FY25-Q4
-    1. Professional services attach on X% of Top Y Ultimate accounts
-1. Make GitLab easier to do business with
-    1. XFN Roll-out *Matterhorn*
-    1. XFN Deliver against key *Fulfillment Efficiency projects*
-    1. XFN Submit *FedRAMP* SAR package for moderate certification for a GitLab Dedicated federal SaaS offering. Increase FedRAMP sales pipeline by X%
-    1. XFN Onboard at least 5 customers to *Dedicated* per quarter
-    1. XFN Expand GitLab's access to *AWS/GCP* LAM via cloud-first sales plays, new products & solutions, lower friction buying, reduced sales ops costs
-    1. Customers can get an order form, place the order and have active licenses within 4 hours
-    1. % of sales assisted orders with license key errors is below 0.5%
-    1. Ship temporary licenses capability
-1. Continue to build a diverse team of top talent that we retain and grow
-    1. Reduce regrettable turnover by 0.6%
-    1. Aspirational goal: increase our URG population by 2% and female population by 3%, increase leadership
-    1. Increase graduates from the Elevate program from 10% to 85% of our people managers
+FY24 Yearlies are internal only. They can be found in the internal handbook: https://internal.gitlab.com/handbook/company/yearlies.
 
 {{% include "includes/take-gitlab-for-a-spin.md" %}}

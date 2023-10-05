@@ -163,7 +163,7 @@ When your on-call shift starts, you should get notification(s) that your shift i
 ### Ending your on-call shift
 
 Before your shift ends, consider what tasks need to be handed over and make sure to proactively communicate them to the next engineer in the rotation.
-This may mean [paging](https://support.pagerduty.com/docs/incidents#trigger-an-incident) the next on-call engineer and bringing them into an active troubleshooting call, or it may mean providing instructions or context for situations
+This may mean [paging the next on-call engineer](#paging-the-next-on-call-engineer) and bringing them into an active troubleshooting call, or it may mean providing instructions or context for situations
 you have handled that have some follow-up action. For example:
    - if you're in an active call with a customer and it's time to end your day, page the incoming on-call and make sure they're prepared to provide continuity by giving them an overview of what's been done before and what's next
      - once you anticipate an active call to spill over into the next shift, try reaching out to the incoming on-call on Slack to make them aware of the upcoming need for a handover – they might not be around already, but it's worth trying and can make it easier for you to end your shift on time
@@ -196,6 +196,12 @@ To see who the current manager on-call is you can:
     - [Support Manager - EMEA](https://gitlab.pagerduty.com/schedules/PXQ2ZAZ)
 - In the `#spt-gg-forest` slack channel, the regional bot message lists who is on-call for the different schedules today
 - Ask in `#spt_managers` (where you may or may not be referred to the above steps!)
+
+### Paging the next on-call engineer
+
+- First, try pinging the on-call engineer in Slack using the `@ceoc` handle.
+- If it's important and urgent or a weekend, you can:
+   - Manually create a new incident from the [Customer Support Service](https://gitlab.pagerduty.com/service-directory/PL3TX00)
 
 ### Paging the on-call manager
 

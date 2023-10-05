@@ -2,6 +2,7 @@
 title: "Working Groups"
 description: "Like all groups at GitLab, a working group is an arrangement of people from different functions. Learn more!"
 no_list: true
+aliases: /handbook/company/top-cross-functional-initative/
 ---
 
 ## What's a Working Group?
@@ -132,6 +133,17 @@ You may also want to use an [issue board](https://docs.gitlab.com/ee/user/projec
 As work is being fleshed out and sub-projects are identified, some issues should be promoted to [epics](https://docs.gitlab.com/ee/user/group/epics/) to group other issues that are part of the same sub-project. It’s best practice to have an issue or sub-epic for each sub-project associated with the Working Group. Group sub-epics under one parent epic to track progress over time. As items are completed, close out the issues and epics and document progress in the handbook.
 
 Like the handbook, issues and epics should be public by default. If an issue or epic contains material that needs to remain internal, they should be made [confidential](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html) or be in a [project](https://docs.gitlab.com/ee/user/project/) which is [private](https://docs.gitlab.com/ee/user/public_access.html#private-projects-and-groups). If an issue or epic can remain public, but a comment needs to be added that is internal only, you can use [internal notes](https://docs.gitlab.com/ee/user/discussions/#add-an-internal-note) to allow the issue to remain public while having a confidential conversation.
+
+Working Groups should leverage issues and epics in the projects, groups, and sub-groups that drive maximum efficiency.  For Working Groups operating within the [GitLab.com](https://gitlab.com/gitlab-com) group on GitLab company related projects, the following resources are available:
+- Per Working Group scoped labels
+    - `WorkingGroup::<NewWorkingGroupName>`
+- [Working Group status labels](https://gitlab.com/groups/gitlab-com/-/labels?subscribed=&search=wg-status) for tracking status of issues and epics
+    - `wg-status::Not Started`
+    - `wg-status::Ready`
+    - `wg-status::In Progress`
+    - `wg-status::Blocked`
+    - `wg-status::Complete`
+- [working-groups](https://gitlab.com/gitlab-com/working-groups) subgroup for organizing per Working Group issues, epics, and projects
 
 ### Communicating status, updates, and changes
 

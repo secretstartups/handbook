@@ -85,7 +85,7 @@ While often associated with the [Agile](https://www.agilealliance.org/glossary/d
 
 A team's definition of done may not always be the same. It might outline the success criteria for a quarterly OKR, explain when a project or working group should be considered "closed," or enumerate the fulfillment criteria for a small task. Regardless of the scope of impact, clearly [communicating](/teamops/decision-velocity/#low-context-communication) and [documenting](/teamops/shared-reality/#single-source-of-truth-ssot) completion criteria as a definition of done helps TeamOps teams align on methods for measuring and defining success.
 
-Even better, definitions of done are prompts for important [team-building communication](/teamops/shared-reality/#informal-communication). When all of the criteria are complete, that's a signal to your team to review the [contributions each team member has made to the work](/teamops/everyone-contributes/), collaboratively brainstorm [future iterations](/handbook/values/#iteration), and celebrate the fulfillment of your [shared reality goals](/teamops/shared-reality/).
+Even better, definitions of done are prompts for important [team-building communication](/teamops/shared-reality/#informal-communication). When all of the criteria are complete, that's a signal to your team to review the [contributions each team member has made to the work](/teamops/equal-contributions/), collaboratively brainstorm [future iterations](/handbook/values/#iteration), and celebrate the fulfillment of your [shared reality goals](/teamops/shared-reality/).
 
 {{% details summary="Examples and resources for definition of done" %}}
 **Example:** TeamOps Course Updates
@@ -143,10 +143,10 @@ To optimize the efficacy of delivered feedback, consider how other TeamOps tenet
 
 - Exercise your [bias for action](/teamops/decision-velocity/#bias-for-action) to share feedback as quickly as possible
 - Use [low-context communication](/teamops/decision-velocity/#low-context-communication) by sharing specific examples that support your feedback
-- Leverage [asynchronous workflows](/teamops/everyone-contributes/#asynchronous-workflows) to allow time for review and reflection
+- Leverage [asynchronous workflows](/teamops/equal-contributions/#asynchronous-workflows) to allow time for review and reflection
 - Encourage [iterative](/handbook/values/#iteration) growth to build up to aspirational goals
 - In appropriate scenarios, share feedback (both positive and negative) [publicly](/teamops/shared-reality/#public-by-default) with an entire group whose other members can also learn from the insights.
-- As a manager, prioritize building [psychological safety](/teamops/everyone-contributes/#psychological-safety) during group collaboration by encouraging healthy controversy and by investing time in [informal communication](/teamops/shared-reality/#informal-communication) to build trust and camaraderie that can withstand negative criticism.
+- As a manager, prioritize building [psychological safety](/teamops/equal-contributions/#psychological-safety) during group collaboration by encouraging healthy controversy and by investing time in [informal communication](/teamops/shared-reality/#informal-communication) to build trust and camaraderie that can withstand negative criticism.
 
 {{% details summary="Examples and resources for transparent feedback" %}}
 **Example:** [A member of GitLab's L&D Team Giving Feedback to the CEO](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback)
@@ -167,7 +167,7 @@ At GitLab, our mission that [everyone can contribute] even influences our feedba
 
 ## Cadence
 
-In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/everyone-contributes/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational *updates*? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
+In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/equal-contributions/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational *updates*? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
 
 This is why establishing a transparent [cadence](https://about.gitlab.com/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a *pace* for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](https://about.gitlab.com/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
 
