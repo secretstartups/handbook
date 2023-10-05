@@ -77,7 +77,7 @@ These accounts will be grouped together based on specific attributes (industry, 
      - Sponsored ads: Sponsored Content allows us to publish ads in the LinkedIn newsfeed across both desktop and mobile. We can target a specific audience of people which helps us raise awareness and drive quality leads.
      - Sponsored InMail: targets specific audiences through the platform’s message center.
 - Display Advertising: Mobile and desktop advertisements served to a specific audience on a specific list of websites
-- [Drift](/handbook/marketing/marketing-operations/drift/): a chat platform to engage visitors on our webpages 
+- [Qualified](/handbook/marketing/marketing-operations/qualified/): a chat platform to engage visitors on our webpages 
 - [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/): a global gifting platform 
 - [Terminus Email Signature Banners](/handbook/marketing/marketing-operations/terminus-email-experiences/): Ads within an email signature that are targeted based on email address domain. 
 - [Pathfactory](/handbook/marketing/marketing-operations/pathfactory/): 
