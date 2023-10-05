@@ -10,29 +10,27 @@ description: "This page is an overview of the search team alignment and the tale
 | Executive          | Rich Kahn    | Sruthy Menon  |
 | Executive          | Zach Choquette   | Sruthy Menon  |
 | Enterprise Sales, NA | Kevin Rodrigues |Michelle Jubrey |
-| Enterprise Sales, APAC | Yas Priatna | Lerato Thipe |
 | Enterprise Sales, EMEA | Kannwal Matharu | Lerato Thipe |
 | Commercial Sales, AMER | Marcus Carter | Michelle Jubrey |
 | Commercial Sales, AMER | Hannah Stewart  | Michelle Jubrey |
 | Commercial Sales, EMEA | Ben Cowdry | Lerato Thipe |
 | Channel Sales, EMEA | Kanwal Matharu  | Lerato Thipe |
 | Field Operations, US/EMEA | Kelsey Hart  | Alice Crosbie |
-| Customer Success, EMEA | Joanna Muttiah | Lerato Thipe |
+| Customer Success, EMEA | Joanna Tourne | Lerato Thipe |
 | Customer Success, NA | Barbara Dinoff |  Sruthy Menon |
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
 | Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Steph Sarff | Michelle Jubrey |
-| G&A, Accounting, People | Steph Sarff | Michelle Jubrey |
-| G&A, IT | Kelsey Hart | Alice Crosbie |
-| Internal | Jenna VanZutphen | Sruthy Menon |
+| G&A, Legal | Jenna VanZutphen | Michelle Jubrey |
+| G&A, Accounting, People | Jenna VanZutphen | Michelle Jubrey |
+| G&A, IT | Jenna VanZutphen | Alice Crosbie |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
-| Quality | Riley Smith & Dielle Kuffel |  Guido Rolli |
-| Infrastructure   | Riley Smith & Dielle Kuffel | Guido Rolli |
+| Quality | Riley Smith |  Guido Rolli |
+| Infrastructure   | Michelle Kemp | Michelle Jubrey |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
-| Security | Matt Angell | Alice Crosbie |
-| Incubation | Holly Nesselroad  | Alice Crosbie |
-| Product Management  | Matt Angell  | Alice Crosbie |
+| Security | Holly Nesselroad | Michelle Jubrey |
+| Incubation | Matt Angell  | Alice Crosbie |
+| Product Management  | Holly Nesselroad | Alice Crosbie |
 | UX  | Riley Smith | Guido Rolli |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
@@ -42,11 +40,11 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | Department                    | Leader      |
 |--------------------------|-----------------|
 | Talent Acquisition         | Jess Dallmar |
-| Talent Brand and Enablement | Devin Rogozinski |
+| Talent Brand | Devin Rogozinski |
 | Talent Acquisition (Sales) | Jake Foster|
 | Talent Acquisition (EMEA and APAC Sales) | Jake Foster |
-| Talent Acquisition (Marketing) | Steph Sarff/Jake Foster |
-| Talent Acquisition (G&A) | Jake Foster |
+| Talent Acquisition (Marketing) | Steph Sarff + Jake Foster |
+| Talent Acquisition (G&A) | Steph Sarff + Jake Foster |
 | Talent Acquisition (R&D) | Ursela Knezevic |
 | Talent Acquisition (R&D: Customer Support & Development) | Paul Hardy/Ursela Knezevic |
 | Talent Acquisition (R&D: Infrastructure/Quality, Security, Product/UX, Incubation) | Ursela Knezevic |
@@ -69,5 +67,3 @@ For urgent requests of the Candidate Experience Specialist team, we encourage yo
 | LinkedIn | Media - Talent Acquisition | Devin Rogozinski |
 | LinkedIn | Content Management | Marketing |
 | LinkedIn | Content Management - Life at GitLab | Devin Rogozinski |
-| New Platform(s) | Requests | @domain |
-| Recruitment Marketing  | Requests | @domain |
