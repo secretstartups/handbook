@@ -454,9 +454,9 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
 
 * When you cloned the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
    * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
-   * Use the format `webcast-topic` (or `webcast-topic-region` if region is relevant) - ex. `webcast-mastering-cicd` or `webcast-mastering-cicd-italian`
+   * Use the format `webcast-MonthDD-topic-region` (do not include region if it is global. You can also remove the date if the event will be on-demand for more than a year) - ex. `webcast-Oct05-mastering-cicd` or `webcast-mastering-cicd-italian`
 * Complete the same steps for the `Thank You Page`
-   * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
+   * Use the format `webcast-MonthDD-topic-thank-you` (or `webcast-MonthDD-topic-region-thank-you` if region is relevant) - ex. `webcast-Oct05-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
 
 ##### Adjusting number of speakers in Marketo landing page
 {: #zoom-adjust-speakers} <!-- DO NOT CHANGE THIS ANCHOR -->
