@@ -115,6 +115,10 @@ The end-to-end process consists on the following stages:
 Details of the patch release lifecycle can be found on the [patch release documentation], including the
 [patch release runbook for GitLab engineers] and the [patch release runbook for release managers].
 
+## Security releases
+
+The [security release processes](/handbook/engineering/releases/security-releases/#security-release-process) are used to prepare and publish packaages containing vulnerability fixes. For more details about the release overview and the release processes, see the [security releases](handbook/engineering/releases/security-releases/) page. 
+
 ## Backports overview
 
 For information on backports, visit the [backports page](/handbook/engineering/releases/backports).
