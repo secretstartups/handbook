@@ -6,7 +6,8 @@ canonical_path: "/handbook/support/readiness/operations/docs/policies/gratis_sup
 
 This document focuses solely on the workflows and policies for Gratis Support
 requests. If you are looking for a more in-depth description, please review
-the [Support handbook page on requesting gratis support](https://handbook.gitlab.com/handbook/support/gratis-support/).
+the
+[Support handbook page on requesting gratis support](https://handbook.gitlab.com/handbook/support/gratis-support/).
 
 ## Overall process flowchart
 
