@@ -32,7 +32,6 @@ _Reminder: Slack data are only retained for 90 days. If you share, discover, or 
 ##### Read all of
 * [#whats-happening-at-gitlab](https://gitlab.slack.com/messages/C0259241C): usually redundant with [company calls](/handbook/communication/) but keep up with
 * [#company-fyi](https://gitlab.slack.com/archives/C010XFJFTHN): company-wide announcements channel
-* [#contribute2020](https://gitlab.slack.com/messages/CLERRHMC2): until and around [the big event, March 22-27, 2020](/events/gitlab-contribute/)
 
 ##### Highly recommended
 * [#is-this-known](https://gitlab.slack.com/messages/CETG54GQ0): bugs, canary failures

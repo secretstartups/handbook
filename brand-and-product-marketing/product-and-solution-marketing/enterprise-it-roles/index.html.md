@@ -20,7 +20,7 @@ Lack of full metrics and visibility across the entire process.
 Related Reading:
 
 - [10 digital transformation success stories](https://www.cio.com/article/3149977/digital-transformation/digital-transformation-examples.html?nsdr=true#tk.cio_rs)
-- [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html)  
+- [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html)
 - [Complexity a killer when it comes to digital transformation success](https://www.cio.com/article/3269493/digital-transformation/complexity-a-killer-when-it-comes-to-digital-transformation-success.html) - [5 Big Challenges CIOs face](https://www.mrc-productivity.com/blog/2017/11/5-big-challenges-facing-cios-leaders-2018/)
 - [9 forces shaping the future of IT](https://www.cio.com/article/3206770/it-strategy/9-forces-shaping-the-future-of-it.html?upd=1538513299753)
 - [12 biggest issues IT faces](https://www.cio.com/article/3245772/it-strategy/the-12-biggest-issues-it-faces-today.html)
@@ -42,7 +42,7 @@ Related Reading:
 
         **CIO or VP IT** - Business focus, strategic, long-term, transformation, budget
         1. Persona reference: [VP IT video](https://www.youtube.com/watch?v=LUh5eevH3F4), [VP IT Slide Deck](https://docs.google.com/presentation/d/17Ucpgxzt1jSCs83ER4-LdDyEuermpDuriugPNYrz8Rg/)
-        1. Value Prop:  
+        1. Value Prop:
               - GitLab’s single application enables more rapid development (see GitLab stats as an example) to meet time-to-market business challenges.
               - Unite workflows around a common tool to reduce friction and cost of IT.
               - Reduce or eliminate your costly DevOps tool chain (or avoid this investment in one).
@@ -52,26 +52,26 @@ Related Reading:
               - [ROI](/calculator/roi/)
               - [Product page](/stages-devops-lifecycle/)
               - [Comparison page](/competition/)
-              - [Solutions page](/solutions/), depending upon unique challenges/interests  
+              - [Solutions page](/solutions/), depending upon unique challenges/interests
 
 
         **CISO and VP Security** - Risk, Security, Compliance, protecting the business
         1. Value Prop:
               - You no longer must choose between velocity and risk.
-                  1. With GitLab, you can test ALL of your code, on every commit, automatically                              
-                  1. Because it’s not an incremental cost per app or per user (beyond using GitLab Ultimate for your entire SDLC), you can test every code change, not just critical apps or annual scans.  
+                  1. With GitLab, you can test ALL of your code, on every commit, automatically
+                  1. Because it’s not an incremental cost per app or per user (beyond using GitLab Ultimate for your entire SDLC), you can test every code change, not just critical apps or annual scans.
               - Better leverage your scarce security resources by putting app sec tools, that are meant for the developer, into the hands of the developer, so they may remediate more, earlier than possible with traditional app sec tools. (Enable TRUE shift-left via single application and single source-of-truth.)
-              - Improve visibility while at the same time reducing friction between processes and tools used by dev and app sec teams.  
+              - Improve visibility while at the same time reducing friction between processes and tools used by dev and app sec teams.
         1. Resources:
               - [DevSecOps](/solutions/dev-sec-ops/)
               - [Comparison](/competition/)
               - [Current Security Deck](https://docs.google.com/presentation/d/1z4v6v_lP7BHCP2jfRJ9bK_XoUgQ9XW01X2ZhQcon8bY/edit#slide=id.g2823c3f9ca_0_9) - [Deprecated Security Deck](https://docs.google.com/presentation/d/1lNr9pz7axLlN7uw7Wkwi_FYMuEh4F4QzPaoJLfReGFk/edit#slide=id.g2823c3f9ca_0_9)
-              - [Regulatory Compliance](/solutions/compliance/)  
+              - [Regulatory Compliance](/solutions/compliance/)
 
 
         **CTO** - Technology focused, today and in the future. Focus can vary from company to company.
         1. Persona reference: [Chief Architect Video](https://www.youtube.com/watch?v=qyELotxsQzY), [Chief Architect slide deck](https://docs.google.com/presentation/d/1KXsozYkimSLlEg3N-sKeN7Muatz_4XimYp-s7_dY1ZM/)
-        1. Value Prop:  
+        1. Value Prop:
               - GitLab’s single application enables more rapid development (see GitLab stats as an example) to meet time-to-market business challenges. It positions your enterprise for maximum flexibility and speed.
               - Unite workflows around a common tool to reduce friction and cost of IT.
               - Reduce or eliminate your costly DevOps tool chain (or avoid this investment in one).
@@ -80,7 +80,7 @@ Related Reading:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/topics/concurrent-devops/)
+            - [Concurrent DevOps](/topics/devops/ )
             - [Cloud Transformation](/solutions/cloud-native/)
             - Software-defined Infrastructure
             - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
@@ -98,7 +98,7 @@ Related Reading:
       1. Value Prop
           - GitLab’s single application that supports the entire DevOps lifecycle is of significant importance.  The DevOps tool chain crisis is real and there is a lot of ‘bubble gum and duct tape’ going on in and around integrating all these point DevOps tools in order to convey the full story of what’s really happening.
           - Finding new areas across the SDLC to automate is top of mind to this role.  GitLab’s [Auto DevOps](/stages-devops-lifecycle/auto-devops/) will be a competitive differentiator
-      1. There are several critical challenges that application development leaders are facing.   
+      1. There are several critical challenges that application development leaders are facing.
          - [Cycle time - how to improve velocity](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/cycle-time/)
          - [How deliver secure Applications](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/secure-applications/)
          - [How to navigate hybrid cloud and not lock in.](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/it-groups/build/modernize/)
@@ -106,7 +106,7 @@ Related Reading:
           - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
           - [GitLab home page](https://about.gitlab.com)
           - [ROI](/calculator/roi/)
-          - [Concurrent DevOps](/topics/concurrent-devops/)
+          - [Concurrent DevOps](/topics/devops/ )
           - Software-defined Infrastructure
           - [Visibility and Velocity](/blog/2017/06/07/continuous-integration-ticketmaster/)
           - [Geographically distributed teams](/features/gitlab-geo/)
@@ -125,7 +125,7 @@ Related Reading:
             - [GitLab Pitch Deck](https://docs.google.com/presentation/d/1dVPaGc-TnbUQ2IR7TV0w0ujCrCXymKP4vLf6_FDTgVg/)
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
-            - [Concurrent DevOps](/topics/concurrent-devops/)
+            - [Concurrent DevOps](/topics/devops/ )
             - [Auto DevOps](/stages-devops-lifecycle/auto-devops/)
             - [Geographically distributed teams](/features/gitlab-geo/)
             - [High availability development](https://docs.gitlab.com/ee/administration/reference_architectures/)
@@ -148,7 +148,7 @@ Related Reading:
             - [GitLab home page](https://about.gitlab.com)
             - [ROI](/calculator/roi/)
             - [CI/CD](/features/continuous-integration/)
-            - [Concurrent DevOps](/topics/concurrent-devops/)
+            - [Concurrent DevOps](/topics/devops/ )
             - [Cloud Transformation](/solutions/cloud-native/)
             - [Google Cloud Platform](/partners/technology-partners/google-cloud-platform/)
             - [AWS](/partners/technology-partners/aws/)
@@ -161,7 +161,7 @@ Related Reading:
 
 
       **VP Security** - Large enterprises will have this but others go straight to Manager of Security.
-      1. Value Prop and Resources = see CISO  
+      1. Value Prop and Resources = see CISO
 
 
       **VP Shared Svcs** - Common services for IT (Project Mgt, Portfolio Mgt, Resource Mgt, perhaps QA, etc) - for enterprises with microservices model
@@ -199,15 +199,15 @@ Related Reading:
 
 ### Navigating roles to get a qualified lead
 
-1. For prospects **not** yet using GitLab, focus on:  
-        * CxO or VP - single app story. efficiency, time to market.  
-        **Ask:** Are you challenged by Digital Transformation? (e.g. moving to the cloud, DevOps, etc.) Are you wanting to speed time-to-market while balancing constrained resources?  
-        * Director or Manager - repository and CI/CD are best-in-class. Benefits of single application, less friction.  
+1. For prospects **not** yet using GitLab, focus on:
+        * CxO or VP - single app story. efficiency, time to market.
+        **Ask:** Are you challenged by Digital Transformation? (e.g. moving to the cloud, DevOps, etc.) Are you wanting to speed time-to-market while balancing constrained resources?
+        * Director or Manager - repository and CI/CD are best-in-class. Benefits of single application, less friction.
         **Ask:** are you trying to increase the velocity of your software development? Are you stitching together a diverse tool chain to manage your code repo, CI/CD, and more? Do you need modern tools to help you with modern architectures like containers and cloud?
 
 
-2. For prospects using GitLab, up-sell to Ultimate by focusing on:  
-        * Cxo (including CISO) or VP - test more of your apps to manage more risk without hiring additional /scarce security pros.  
-        **Ask:** Are you running security scans on all of your applications today? If not, do you worry about the risks? Do you wish you could find vulnerabilities earlier without adding security staff and costly security tools?   
-        * Director or Manager - test more apps without increasing cost of tools or security staff.  
+2. For prospects using GitLab, up-sell to Ultimate by focusing on:
+        * Cxo (including CISO) or VP - test more of your apps to manage more risk without hiring additional /scarce security pros.
+        **Ask:** Are you running security scans on all of your applications today? If not, do you worry about the risks? Do you wish you could find vulnerabilities earlier without adding security staff and costly security tools?
+        * Director or Manager - test more apps without increasing cost of tools or security staff.
         **Ask:** How do you test applications for security vulnerabilities today? Are you testing ALL of your applications? Do you wish you could find vulnerabilities earlier without adding security staff and costly security tools? Are you wanting to 'shift left' but haven't found tools that will truly help you do that?
