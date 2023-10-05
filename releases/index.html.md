@@ -117,7 +117,7 @@ Details of the patch release lifecycle can be found on the [patch release docume
 
 ## Security releases
 
-The [security release processes](/handbook/engineering/releases/security-releases/#security-release-process) are used to prepare and publish packaages containing vulnerability fixes. For more details about the release overview and the release processes, see the [security releases](handbook/engineering/releases/security-releases/) page. 
+The [security release processes](/handbook/engineering/releases/security-releases/#security-release-process) are used to prepare and publish packages containing vulnerability fixes. For more details about the release overview and the release processes, see the [security release](/handbook/engineering/releases/security-releases/) page.
 
 ## Backports overview
 
