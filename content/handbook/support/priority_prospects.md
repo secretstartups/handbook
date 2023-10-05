@@ -15,7 +15,7 @@ As a member of the Sales/CS team, if you have a prospect who wishes to have acce
 
 All general policies in [the statement of support](/support/statement-of-support/) apply to prospect support.
 
-- Only 30 prospects/customers can receive gratis support at any one time. The current reference sheet can be found 
+- Only 30 prospects/customers can receive gratis support at any one time. The current reference sheet can be found
   [here](https://docs.google.com/spreadsheets/d/11p3aBj1LTr-ngk1wxoMlae-UvJ3bOTuQHd48so2ZcXU/edit?usp=sharing) (internal link).
 - An area sales manager must pre-approve any request for gratis support.
 - The period of gratis support is limited to 30 days per request.
@@ -49,7 +49,7 @@ Please follow the instructions on our main handbook page for [Requesting Gratis 
 
 TBD
 
-If the prospect converts to customer status, they will automatically get the proper support 
+If the prospect converts to customer status, they will automatically get the proper support
 associated with their subscription purchase.
 
 ## Information for the prospect
@@ -63,7 +63,7 @@ following *vital* information for submitting tickets:
 
 - All tickets must be filed by one of the 3 named contacts provided in the request.
   Any others will be rejected by the system, and the tickets automatically closed.
-- All tickets must specify "Sales Assisted Trial" in the "Tell us about your GitLab 
+- All tickets must specify "Sales Assisted Trial" in the "Tell us about your GitLab
   subscription" field. Any other option can cause routing problems.
 - All SaaS related tickets should be submitted via
   [this form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447),
