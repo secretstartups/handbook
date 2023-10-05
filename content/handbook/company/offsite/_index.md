@@ -94,8 +94,8 @@ This section captures all three meeting variants.
 
 Scheduling for the in-person event around a Board Meeting generally follows:
 1. First Day (Monday): Half day meetings. Start around 1pm PST. A social dinner in the evening. 
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities. Concludes with a dinner with the Board.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time. Concludes with a dinner with the Board.
 1. Fourth Day (Thursday): No scheduled meeting. Time reserved for ad hoc meetings and time with the Board.
 
 ### In-person offsite without Board Meeting
@@ -103,8 +103,8 @@ Scheduling for the in-person event around a Board Meeting generally follows:
 Scheduling for the in-person event that is not around a Board Meeting generally follows:
 
 1. First Day (Monday): Half day meetings. Start around 1pm PST.
-1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
-1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team building opportunities.
+1. Second Day (Tuesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and team activities.
+1. Third Day (Wednesday): 6-7 hours of meetings starting with breakfast at 8am. Includes some unstructured time and a team dinner.
 1. Fourth Day (Thursday): Meetings start at 8am and run through 12pm PST.
 
 ### Fully remote offsite
@@ -141,9 +141,9 @@ The following dates were previous E-Group offsites (starting dates):
 - 2023-06-26
 - 2023-09-27
 
-## Mid-quarter touch point meetings
+## Monthly touch point meetings
 
-We have a quarterly, remote touchpoint meeting that falls between offsite meetings. These happen between 8:00am and 1:00pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 2 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
+We have a monthly, remote touchpoint meeting for months that falls between offsite meetings. These happen between 9:00am and 1:00pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 1.5 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
 
 ## Offsite topic calendar
 
