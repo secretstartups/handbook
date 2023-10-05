@@ -18,7 +18,7 @@ Additional key benefits of the Assessment Program include:
 ## Overview
 
 We use Workday to complete our Talent Assessment. You can review an overview of Workday Talent [here](https://docs.google.com/presentation/d/1CYNNtYWvbDyDu_WndCQ47uvTbZYhNKt5PJLnrwZ_3ek/edit?usp=sharing). Please reach out to your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) if you have any questions.
-You can also review the following [guide](https://docs.google.com/document/d/1khkrwgVpef1hkDmwuF8Mhz9BTrtZt4WaFAwjChDFRh4/edit?usp=sharing) which mirrors what is included in the Workday Talent Assessment template to prepare you prior to the tool being launched.
+You can also review the following [guide](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit) which mirrors what is included in the Workday Talent Assessment template to prepare you prior to the tool being launched.
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Potential Matrix (commonly known as "9-Box" in the US) and annually review Key Talent.
 
@@ -273,7 +273,7 @@ The introduction of a "Too New to Rate" category is a solution as feedback was r
 
 While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template](https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then aligning on any support needed for the team member moving forward.  
 
-Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](#Promotions-or-Transfers-During-Assessment-Cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
+Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#promotions-or-transfers-during-assessment-cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
 If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied.
 
