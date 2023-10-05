@@ -23,7 +23,6 @@ Familiarize yourself with what it means to plan your career path, and how leader
 - Read [leadership books](https://about.gitlab.com/handbook/leadership/#books) (strongly suggested).
 - Watch this [Engineering IC Leadership - Handbook Learning Session](https://www.youtube.com/watch?v=OXBwtaZ9edQ) to understand the difference between **IC leadership** and **Management**.
 - Schedule a coffee chat or AMA with someone in the position to better understand what they do, and ask for advice on how to work towards this role.
-- Become familiar with [gearing ratios](https://about.gitlab.com/handbook/engineering/career-development/#gearing-ratios), and how they are used to help govern ([not intended to limit but may delay](https://about.gitlab.com/handbook/engineering/career-development/#opportunity-1)) the amount of available positions in proportion to the mission of a group. Note: Support's gearing ratio is 1 Staff per 1 Senior Manager.
 - Speak with your manager about available openings, and review #spt_hiring for any opportunity announcements.
 - Review and use the templates and resources available in [this Google Drive folder](https://drive.google.com/drive/folders/1LZ6AkjVv4JW0CiHYTGzyMQdGadyOgDY_) to track your performance, career development, and path to promotion.
 - As you begin to track and document your path to promotion document, use meaningful examples that highlight the relevant competencies and the type of work the promotion document asks for. See each section below for some specific conditions.
