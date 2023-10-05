@@ -1,6 +1,7 @@
 ---
 title: "Migration Details"
 description: "Handbook Content is on the move.  This gives the time table and the individual files which are being migrated."
+aliases: /handbook/content-websites/handbook-migration/migration-details/
 ---
 ## Migration Timetable and Status
 
