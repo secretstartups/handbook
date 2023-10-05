@@ -77,7 +77,7 @@ The key risk fields for capturing risk on the renewal are:
 
 - `Renewal Risk Category` with the following selections:
 
-    - `Will Renew`: Used when we have full confidence the customer will renew
+    - `Will Renew`: Used when we have full confidence the customer will renew all the revenue Available to Renew (ATR)
     - `Will Churn`: Only used when we have 100% confidence the opportunity will fully churn (rarely used, most cases are not 100%). 
         - Example: Customer has gone out of business or the U.S. has placed trade sanctions on a country where we do business. 
     - `Will Churn (actionable)`: Used when the entire opp is at risk, but steps can be taken to mitigate that risk 
@@ -90,36 +90,33 @@ The key risk fields for capturing risk on the renewal are:
 
 ## Critiera for how to assign risk (pre and post-quote)
 
-Note: In all instances of risk, assign the `renewal forecast health` to `red`.
-
 - **Pre-quote**
 
     - For `Will Churn (actionable)` or `Will Contract (actionable)` 
 
-        1. Turn the `renewal forecast health` field `red` by selecting the red dropdown and checking the override box
-        2. Fill in the `Amount` field with the value that is expected to renew (i.e. how much we predict will actually book)
-        3. Fill in the `Renewal ARR Swing` amount with how much of the churn/contraction may be saved with intervention
-        4. Record your `Next Steps` 
-        5. Record the risk intervention idea/ask/motion in the `Manager Notes` section (you can use the risk intervention table for ideas)
+        1. Fill in the `Amount` field with the annual value that is expected to renew (i.e. how much we predict will actually book). The Renewal Forecast Health field will automatically update to Red if the Amount is less than the ATR. 
+        2. Fill in the `Renewal ARR Swing` amount with how much of the churn/contraction may be saved with intervention. (Note the Renewal Swing ARR must be a positive number and not greater in magnitude than the Forecasted Churn. Ex. if Forecasted Churn is -$100k the Renewal Swing ARR cannot be greater than +$100k)
+        3. Record your `Next Steps` 
+        4. Record the risk intervention idea/ask/motion in the `Manager Notes` section (you can use the risk intervention table for ideas)
 
         For the other two categories - `Will Churn` and `Will Contract` - use same steps, but no Renewal ARR Swing field is needed
 
 - **Post-quote**
 
     -   For `Will Churn (actionable)`
-        1. Turn the `renewal forecast health` field `red`
+        1. Turn the `Renewal Forecast Health` field `Red` and check the `Renewal Forecast Health Override` box. (Note that checking this box with Red will automatically set Won ATR to $0)
         2. Fill in the `Renewal ARR Swing` field
     
     -   For  `Will Contract (actionable)`
+        1. Ensure the primary quote is showing the most conservative (or Commit) renewal outcome. A placeholder or "dummy" quote may be required to forecast the most conservative outcome. If the primary quote reflects Contraction the `Renewal Forecast Health` will automatically indicate Red.
+        2. Update the `Renewal Swing ARR`field 
 
-        1. Turn the `renewal forecast health` field `red`
-        2. The primary quote should always be showing the most recent/relevant/conservative deal with the contraction risk built in, so the `Renewal ARR swing` field is the only thing that needs to be updated. In the event where there is known risk, but it can't be quoted yet, add the expected amount into the manager notes, and managers will need to manually add this into forecasts. 
+        In instances where Sales has a primary quote that reflects Net ARR Growth but Renewals is aware of persisting Contraction risk update the `Renewal Forecast Health` to `Red` and check the `Renewal Forecast Health Override` box. Note that this will set the Won ATR field to $0.
 
 
-Both the `Will Churn` and `Will Contract` selections should be manager approved, and occur very close to the `Subscription Renewal Date` - as situations at a customer may change rapidly. These selections indicate that the risk on the opportunity will no longer be actively mitigated. 
+Both the `Will Churn` and `Will Contract` selections should only occur very close to the `Subscription Renewal Date` - as situations at a customer may change rapidly. These selections indicate that the risk on the opportunity will no longer be actively mitigated. 
 
 All `Will Churn` renewals should be closed-lost by their `Subscription Renewal Date`
-
 
 ## Forecasting Goal 
 
