@@ -105,6 +105,19 @@ Please use this template when creating Epics for activities that should appear f
 
 -  
 
+## Checklist 
+**Please review the tasks and tick them off.**
+
+- [ ] Add to Technical content sheet. 
+    - [ ] When started: Mark the row as yellow (in progress) 
+- [ ] Add epic start/due date, synced with the technical content sheet row.
+- [ ] Add issues for tracking content (blog pitches, etc.)
+
+On completion:
+
+- [ ] [Distribute the content](https://about.gitlab.com/handbook/marketing/developer-relations/developer-evangelism/#content-distribution)
+- [ ] Add results to the epic, and to the technical content sheet. Mark the sheet row as completed (green).
+
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
 <!-- Example: 
@@ -116,7 +129,8 @@ Note: These are samples for guidance, please add relevant labels for activity re
 <!--Link to parent epic where necessary. Please choose the quarterly epic from the FY24 main epic
 https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 -->
 
-/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/240 
+<!-- FY24Q4 -->
+/parent_epic https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/241 
 
 <!-- Link to Child epic where necessary -->
 /child_epic 
@@ -159,6 +173,17 @@ https://gitlab.com/groups/gitlab-com/marketing/developer-relations/-/epics/98 --
 ## Relevant Issues, Epics or resources
 
 -  
+
+## Checklist 
+**Please review the tasks and tick them off.**
+
+- [ ] Add epic start/due date.
+- [ ] Add issues for tracking tasks (CFPs, code challenge, lightning talks, staffing, etc.)
+- [ ] Document learnings, notes, ideas, etc. in the epic. 
+
+On completion:
+
+- [ ] [Create event report slides and share them](https://about.gitlab.com/handbook/marketing/developer-relations/events/#event-reporting)
 
 <!-- these labels should be included on all templates -->
 /label ~"dev-evangelism" 
