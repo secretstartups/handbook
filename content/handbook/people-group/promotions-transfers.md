@@ -398,15 +398,15 @@ Regardless of the outcome, when the interim period ends, the manager should revi
 If you receive a job change or letter of adjustment to an interim role, process the change by:
 
 1. Saving the letter to `Documents` > `Contracts & Changes` Document Category (Do not choose `Contracts & Changes - Confidential (No Employee View)`)
-1. Review for compensation change 
-1. Access Level 
+1. Review for compensation change
+1. Access Level
     - Interim roles - Access changed (if required)
 1. Update Job title (if required)
 1. Update Manager (if required)
 1. Update Acting/Interim Tracker Spreadsheet
-1. Update Transition Tracker Spreadsheet (if required) 
+1. Update Transition Tracker Spreadsheet (if required)
 
-Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](https://about.gitlab.com/handbook/total-rewards/compensation/#tracking). 
+Note: There are no changes that are made in Workday for acting roles. To track acting positions please follow [this process](https://about.gitlab.com/handbook/total-rewards/compensation/#tracking).
 
 ### Acting
 
@@ -426,9 +426,9 @@ A person "acting" in the role is someone who occupies a role temporarily and wil
 In the event that a team member is working in an acting capacity in a role that then becomes an officially open position, the team member in the informal acting capacity may be considered for the open role along with other candidates. If the team member demonstrates interest in making the acting position permanent, the following process should be followed:
 
 1. Team member expresses interest to their manager in pursuing the position on a permanent basis.
-2. Team member reaches out to the Hiring Manager to receive feedback on their performance in the role thus far in the acting capacity.
-3. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices. _**Note:** If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time._ 
-4. After the team member officially moves into the open role, a backfill position will be created.
+1. Team member reaches out to the Hiring Manager to receive feedback on their performance in the role thus far in the acting capacity.
+1. Team member is welcome to apply for the position in Greenhouse aligned with our standard hiring practices. **Note:** *If the Hiring Manager and acting team member mutually agree to move forward with consideration for the role, the position is at the same or lower [job grade](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) as their current role, the position is within the same division, and the position is not a people management position, a formal interview process may not be required. If the Hiring Manager prefers to not include an interview process, they must connect with their aligned People Business Partner (PBP) to ensure they are supportive. This interview exception possibility exists due to the unique experience team members in acting positions have to demonstrate their ability to be successful in the position over time.*
+1. After the team member officially moves into the open role, a backfill position will be created.
 
 
 ## Demotions
