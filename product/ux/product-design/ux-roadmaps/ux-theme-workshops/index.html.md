@@ -107,7 +107,7 @@ _When complete, the FigJam should look like this:_
 
 #### Make the FigJam board available to team members
 
-This [handbook page](/handbook/product/ux/product-designer/#figma) has information on how to set the appropriate level of access for your FigJam boards.
+This [handbook page](/handbook/product/ux/product-designer/#figma--figjam) has information on how to set the appropriate level of access for your FigJam boards.
 
 ## Facilitating the Workshop
 

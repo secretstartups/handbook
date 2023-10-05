@@ -86,7 +86,7 @@ At GitLab, we lean towards overcommunication to ensure that attendees are aware 
 
 #### Make the FigJam board available to team members
 
-This [handbook page](/handbook/product/ux/product-designer/#figma) has information on how to set the appropriate level of access for your FigJam boards.
+This [handbook page](/handbook/product/ux/product-designer/#figma--figjam) has information on how to set the appropriate level of access for your FigJam boards.
 
 ## Step 6: Create and share workshop outcomes 
 When the workshop is complete, the UX Researcher should review the FigJam board to determine if there is some synthesis required before communicating any final outcomes. In most cases, there will be some additional analysis needed to identify themes or reorganize the workshop data into a final state. 
