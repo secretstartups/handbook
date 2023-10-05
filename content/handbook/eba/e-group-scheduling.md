@@ -81,3 +81,12 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Ashley Kramer, Chief Marketing & Strategy Officer
 
+- Please coordinate with Ashley’s Sr. EBA, Jeanette McCarthy, to schedule meetings. 
+- Priority will be given to customer & E-Group meetings - even last minute. 
+- Flexible for early/late calls to support EMEA & APAC, but please check with EBA first. 
+- Prefers “appropriate length” conversations, so short meetings are okay on the calendar  (e.g. if a topic only needs 10 mins, book 10 mins instead of 30, etc.).
+- For scheduling questions, please do not tag @Ashley, reach out/tag @Jeanette McCarthy. 
+- Include meeting agendas in invites and/or briefing docs (excluding coffee chats) at least 24 hours in advance.
+
+
+
