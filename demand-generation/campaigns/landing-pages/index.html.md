@@ -25,12 +25,13 @@ twitter_creator: "@gitlab"
   * Let's not tell them about how cool we are and how amazing our stamp collection is. Make it about them, and drive the desired action of a form fill.
 
 ## Landing Page URL Best Practices
-* The H1/page title will be the slug of the URL
+* For about.gitlab.com pages: The H1/page title will be the slug of the URL
 * The H1 should be concise and focus on keywords for the campaign
+* For Marketo landing pages, follow the landing page naming convention.
 
 # Resources and related issues
 * [Character Count Checker](https://docs.google.com/spreadsheets/d/1dKVIZGbbOLoR5BdCqXqCQ40qJlQNif9waTiHc8yWggQ/edit#gid=868164112)
-* [Documentation of Modular Marketo Landing Page](https://about.gitlab.com/handbook/marketing/brand-and-digital-design/marketo-page-template/)
+* [Documentation of Modular Marketo Landing Page](https://about.gitlab.com/handbook/marketing/digital-experience/marketo-page-template/)
 * Related Brand & Digital Issues:
   * [Create a new Marketo landing page template phase 1](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/7259)
   * [Marketo Landing Page Phase 1 - KPIs & Validation](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/52)
@@ -39,7 +40,7 @@ twitter_creator: "@gitlab"
 
 # Landing page creation options
 
-We create landing pages in several locations. Marketo is the most efficient option, using tokens and automation pre-built into programs for more speedy and consistent exection. The events yml creates landing pages when specific code is included. Gated content pages are created using code and then added as listings in the /resources/ yml. Campaign pages are currently created on about.gitlab.com.
+We create landing pages in several locations. Marketo is the most efficient option, using tokens and automation pre-built into programs for more speedy and consistent exection. The events yml creates landing pages when specific code is included. Gated content pages are created in Marketo and then added as listings in the /resources/ yml. Campaign pages are currently created on about.gitlab.com.
 
 ## Marketo landing pages (general)
 
@@ -64,7 +65,7 @@ _Curious how to estimate when a landing page due date should be set? We've tried
   * [Handbook page to reference for process and details](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (YML)
 
 #### General Marketo landing page creation instructions
-1. In Marketo, you will have already cloned the correct template for your campaign type and followed the standard process for Marketo program creation and SFDC campaign creation via sync.
+1. In Marketo, you will have already [cloned the correct template](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#step-1-clone-the-marketo-program-indicated-below) for your campaign type and followed the standard process for Marketo program creation and SFDC campaign creation via sync.
 1. In your Marketo program, fill in the appropriate Marketo tokens (Marketo program > `My Tokens`) for the template you are creating
 1. In the `Assets` folder, left-click `Landing Page` > `Edit Draft`
 1. In most cases, the Maketo landing page copy will include the `My Tokens` referenced above, with then does not require any edits to the landing page.
@@ -77,48 +78,49 @@ _Curious how to estimate when a landing page due date should be set? We've tried
 1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
 1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review and approve
 1. When the page is live, do final QA on live version to test all flows are working appropriately via Marketo
+1. Enter the URL of the landing page in the `landingpageURL` token. You will need to remove the `https://` before `page.gitlab.com` in the token for use in emails as this will cause issues with Marketo tracking. Our email templates are coded to have the `https://` hard coded so you do not experience a problem if you properly use the token.
 1. When using the URL in emails or other uses with utm values, Marketo page URLs (starting with page.gitlab.com) should not have a `/` at the end of the page URL before the `?`. This will likely cause the page to redirect. (Correct example: https://page.gitlab.com/webcast-example?{{my.utm}}). Note that about.gitlab.com pages should use a `/`.
 
-**about.gitlab landing page instructions being phased out**
+
+**Specific landing page instructions**
 * Event landing pages (events yml) - [See Events Handbook Page](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents) (for now)
-* Gated content landing pages - [See about.gitlab code Gated Content Handbook Page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) (to be phased out)
-* Webcast landing pages - [See about.gitlab code Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page) (to be phased out)
+* Gated content landing pages - [See Gated Content Handbook Page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns/) 
+* Webcast landing pages - [See Webcast Handbook Page](https://about.gitlab.com/handbook/marketing/virtual-events/webcasts/#step-3c-create-the-landing-page)
 
-## Integrated campaign landing pages
+## Landing page naming convention
 
-Our integrated campaign landing pages are currently created on about.gitlab.
+Marketo landing pages should use the following naming convention: 
 
-### Where to create integrated campaign landing pages
+* `**type-monthdd-shortcampaignname-region**` (no region for global)
+* For joint partner events, include `partner` in the short name
+* If the landing page is for gated content or an evergreen asset (such as a webcast that will be offered on-demand for more than a year), leave the date off.
 
-* **Use Case integrated campaigns:** These are created in the [`/why/` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/why).
-* **Localized integrated campaigns:** These are created in the subfolder for the language (starting at [`/source/` folder](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source)). For example, if it is a localized use case campaign for France, it would use the subfolder `/fr/` followed by the French traslation for `/why/` (which is `/pourquoi/`) followed by the url structure.
-  * Example: French CI Use Case Integrated Campaign is `https://about.gitlab.com/fr-fr/pourquoi/integration-continue-pour-construire-et-tester-plus-rapidement/` whereas the English version is `https://about.gitlab.com/why/use-continuous-integration-to-build-and-test-faster/`.
-* **Competitive integrated campaigns:** These are created in the [`/compare/` directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/compare)
+The 'type' is outlined in the table below. If your type is not listed, please use `program-`.
 
-### Steps to create a new campaign landing page
+The short name should be descriptive so when a person lands on the page, it is clear what they are registering for. Short names such as "emeawebcast" are not acceptable and should reference the topic of the webcast instead. A few examples are: webcast-march15-techdemo-cioverview, event-march19-connect-day-paris-emea, ebook-may23-connect-melbourne-apac
 
-1. Determine the ideal URL name according to [URL best practices](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-url-best-practices) and confirm with Growth Marketing
-1. Create a new directory in the appropriate directory as designated above, beginning a new MR
-  * Name the MR `WIP: Add landing page for [Campaign Name]`
-  * Assign to yourself
-  * This MR should be linked from the landing page issue as part of the Integrated Campaign process
-1. In the new MR, navigate to the new directory you created
-1. Click `+` and select `New File`
-1. Name the file `index.html.haml`
-1. Add the code for the landing page (below)
-1. Update the text variables based on the approved copy for the landing page
-1. Update your commit message to `Add code for new landing page` and click `Commit changes` at the bottom of the page
-1. Test your landing page using the [QA Review Steps](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/landing-pages/#landing-page-qa-review-steps)
-1. Once tested and any necessary updates made, comment in the relevant issue to alert other approvers to review
-1. When your MR is fully ready to be merged:
-  * Make sure your manager is assigned (and has merge rights)
-  * Remove `WIP:` at beginning of MR title
-  * "Resolve" any unresolved threads, ensuring all questions/comments have been addressed
-  * Comment into the MR to @-mention manager, with link directly to the campaign landing page in the review app for final review
-1. Manager will review and either approve and merge, or notify of any necessary changes
-1. When the page is live, do final QA on live version to test all flows are working appropriately via Mareto
+This standardizes our page names for use in reporting and systems such as our ABM tool. Details related to this naming convention can be found in [this issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/7974).
 
-#### QA process for about.gitlab campaign landing pages
+| Type | URL Path: `https://page.gitlab.com/[first word below]` | 
+| ------ | ------ |
+| Webcasts | /webcast-    |
+| Workshops | /workshop-  |
+| Owned, in-person events | /event- |
+| Owned, virtual events (that don't fall under webcasts - like wine tastings, cooking, etc) | /event- | 
+| Gated content - ebook | /ebook- |
+| Gated content - demo | /demo- |
+| Gated content - video | /video- |
+| Gated content - all others | /resources- |
+| Meeting requests | /event- | 
+| Executive roundtables | /event- |
+| Survey | /survey- | 
+| Interest forms | /interest- |
+|Contact us forms (localized, for example) | /contact- |
+| Direct Mail | /direct- |
+|Catch-all (doesn't fit in any of the above) | /program- |
+
+
+# QA process for about.gitlab campaign landing pages
 * When the landing page pipeline has passed, click to the review app and navigate to your new landing page
 * Review the grammer, spelling, and design elements
 * Fill out the form (using a personal email address) and test that the resulting success message and flows take place:
@@ -127,146 +129,6 @@ Our integrated campaign landing pages are currently created on about.gitlab.
 * Check that you receive the confirmation email and run through all the flows by reviewing the `Add to Campaign` smart campaign in your Marketo program (note that if you are using your `@gitlab.com` email address, you will be removed from the flows to avoid inflating program totals for employee form fills)
 * When using the URL in emails or other uses with utm values, about.gitlab.com page URLs (starting with about.gitlab.com) must have a `/` at the end of the page URL before the `?`. Omitting the `/` can cause the form not to display on the page. (Correct example: https://about.gitlab.com/webcast-example/?{{my.utm}}). Note that Marketo pages should not use a `/`.
 
-#### Code for integrated campaign landing pages
-
-The following landing page code is using the latest landing page design (for the CI and DevSecOps use case integrated campaigns). 
-
-```
----
-layout: value-driver
-title: 
-description: 
-suppress_header: true
-extra_css:
-  - value-driver-6595-control.css
-  - comparison-page.css
-  - form-to-resource.css
-  - just-commit-6595-control.css
-destination_url: "&lb_email="
-form_id: "1002"
-form_type: "resources"
-cta_title: ""
-cta_date:
-cta_subtitle:
-link_text: ""
-success_message: ""
----
-%div#experiment6595.experiment-outer-wrapper
-  %span.loading-experiment
-  %div.experiment-container.experiment-control
-    .wrapper.gitlab-ee-page
-      .header-hero-banner.header-hero-banner--reduce-cycle{style: 'background-image:url(/images/just-commit/ci-use-case-web-header.png)'}
-        .container
-          .row
-            .col-md-12
-              %h1.jumbo-heading Main Header
-              %h3 Subheader
-
-      .sub-wrapper.main-content
-        .container
-          .row
-            .col-md-7
-              .just-commit-intro-text
-                %p <strong>Short bold intro sentence.</strong> Intro continued.
-            .col-md-5
-              .just-commit-form-wrap
-                = partial "includes/form-to-resource"
-
-      .just-commit-highlight-row
-        .container
-          .row
-            .col-md-5
-              %h3 
-              %ul.checkmark-list
-                %li 
-                %li 
-                %li 
-
-    .just-commit-logo-wrap
-      = partial "includes/home/customer-logos-transparent"
-
-    .wrapper-dark
-      .just-commit-sales-wrap
-        = partial "includes/contact-sales"
-
-:css
-  body {
-    background: #ffffff;
-  }
-
-  .footer {
-    margin-top: 0;
-  
-```
-
-**Example:**
-```
----
-layout: value-driver
-title: Continuous Integration to build and test faster at any scale
-description: Simplify and automate to deliver better products faster - together
-suppress_header: true
-extra_css:
-  - value-driver-6595-control.css
-  - comparison-page.css
-  - form-to-resource.css
-  - just-commit-6595-control.css
-destination_url: "https://learn.gitlab.com/c/the-benefits-of-sing?x=fDT7Bl&lb_email="
-form_id: "1002"
-form_type: "resources"
-cta_title: "Free Instant Download:<br>Benefits of single application CI/CD eBook"
-cta_date:
-cta_subtitle:
-link_text: "Thanks! Click here to view your content."
-success_message: "You will also receive a copy of the eBook in your inbox shortly."
----
-%div#experiment6595.experiment-outer-wrapper
-  %span.loading-experiment
-  %div.experiment-container.experiment-control
-    .wrapper.gitlab-ee-page
-      .header-hero-banner.header-hero-banner--reduce-cycle{style: 'background-image:url(/images/just-commit/ci-use-case-web-header.png)'}
-        .container
-          .row
-            .col-md-12
-              %h1.jumbo-heading Continuous Integration to build and test faster at any scale
-              %h3 Read this eBook on how to simplify and automate to deliver better products <br> faster - <i> together </i>
-
-      .sub-wrapper.main-content
-        .container
-          .row
-            .col-md-7
-              .just-commit-intro-text
-                %p <strong>Wrangling multiple tools can be just as frustrating as manual processes.</strong> Complicated toolchains are difficult to maintain and create information silos for teams. In this eBook, learn how Continuous Integration, built into a complete DevOps platform, can increase efficiency, promote collaboration, and provide greater visibility across your entire software development lifecycle.
-            .col-md-5
-              .just-commit-form-wrap
-                = partial "includes/form-to-resource"
-
-      .just-commit-highlight-row
-        .container
-          .row
-            .col-md-5
-              %h3 What you will learn
-              %ul.checkmark-list
-                %li How optimized CI automates processes without the added maintenance of plugins
-                %li How GitLab CI/CD compares to other CI tools
-                %li The benefits of single application CI vs. traditional CI
-
-    .just-commit-logo-wrap
-      = partial "includes/home/customer-logos-transparent"
-
-    .wrapper-dark
-      .just-commit-sales-wrap
-        = partial "includes/contact-sales"
-
-:css
-  body {
-    background: #ffffff;
-  }
-
-  .footer {
-    margin-top: 0;
-  }
-```
 
 # Landing page QA review steps
 * Go to the page you are going to test:
