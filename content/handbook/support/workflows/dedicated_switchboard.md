@@ -4,7 +4,7 @@ category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Switchboard"
 ---
 
-# Overview
+## Overview
 
 Swithcboard is a portal for GitLab Internal team members and customers to manage their GitLab Dedicated instance.
 Read more about what the goals of Switchboard are on the [Category Direction page](https://about.gitlab.com/direction/saas-platforms/switchboard/).
@@ -29,7 +29,8 @@ Check the `Tenant Details` collapsible section.
 Check the `Maintenance` collapsible section.
 
 ### Opensearch links
-Currently not available. A [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) is open to add that functionality
+
+Currently not available. A [feature request](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2307) is open to add that functionality.
 
 ### Customer contacts
 
