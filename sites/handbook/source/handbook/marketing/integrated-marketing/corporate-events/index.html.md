@@ -34,7 +34,7 @@ twitter_creator: gitlab
 * Owned events
     * [GitLab Commit](https://about.gitlab.com/events/commit/), our User Conference
 * Internal events
-    * [GitLab Contribute](https://about.gitlab.com/events/gitlab-contribute/), our internal company and core community event
+    * [GitLab Summit](https://about.gitlab.com/events/summit-las-vegas/), our internal company and core community event
     * Please review our events decision tree to ensure Corporate Marketing is the appropriate owner for an event. If it is not clear who should own an event based on the [decision tree](https://docs.google.com/spreadsheets/d/1aWsmsksPfOlX1t6TeqPkh5EQXergt7qjHAjGTxU27as/edit?usp=sharing), please email events@gitlab.com.
 
 
