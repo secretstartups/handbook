@@ -143,7 +143,7 @@ The following dates were previous E-Group offsites (starting dates):
 
 ## Monthly touch point meetings
 
-We have a monthly, remote touchpoint meeting for months that falls between offsite meetings. These happen between 9:00am and 1:00pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 1.5 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
+We have a monthly, remote touchpoint meeting for months that falls between offsite meetings. These happen between 8:30am and 12:30pm PST. They usually happen on a Monday or Tuesday. In them, we review OKR and [Yearly progress](/company/yearlies/), discuss key business priorities, and connect on other issues of importance. [E-Group Weeklies](/handbook/e-group-weekly/) will be cancelled during this week. The agenda will be finalized 1.5 weeks in advance of these meetings by the CoS in collaboration with the CEO. The CoST and E-Group is expected to prioritize these discussions.
 
 ## Offsite topic calendar
 
