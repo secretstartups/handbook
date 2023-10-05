@@ -1,8 +1,8 @@
 ---
-title: "Everyone Contributes"
-summary: "Everyone must be able to contribute. Organizations must **create a system** where everyone can consume information and contribute, regardless of level, function, or location. When people don't have the opportunity to contribute because of their background, or where they live, or their life stage, we miss out on valuable perspectives."
+title: "Equal Contributions"
+summary: "Everyone must be able to equally contribute. Organizations must **create a system** where everyone can consume information and contribute equally, regardless of level, function, or location. When people don't have the opportunity to contribute because of their background, or where they live, or their life stage, we miss out on valuable perspectives."
 weight: 2
-canonical_path: "/teamops/everyone-contributes/"
+canonical_path: "/teamops/equal-contributions/"
 images:
     - /images/opengraph/all-remote.jpg
 ---
@@ -10,7 +10,7 @@ images:
 ![GitLab TeamOps contribution illustration](/teamops/images/teamops-illustration_contribution_purple.png)
 
 {{% alert color="primary" %}}
-This page is about one of the four Guiding Principles of TeamOps: Everyone Contributes. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
+This page is about one of the four Guiding Principles of TeamOps: Equal Contributions. To learn more about the other three Principles, return to the main TeamOps page for a [complete overview of TeamOps](/teamops/), or enroll in the free [TeamOps course](https://levelup.gitlab.com/learn/course/teamops).
 {{% /alert %}}
 
 *Instead of relying on hierarchical management, organizations must create systems and channels where everyone can equally consume and contribute information, regardless of level, function, or location.*
@@ -106,7 +106,7 @@ The editable agenda document, which is attached to the company-wide calendar inv
 
 To address the challenge cross-functional execution at high velocity, TeamOps advocates a [stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) model. It works like this: every functional team (e.g., Support) works with the same team members from a different functional team (e.g., Development), so each member of one function always knows who their partner in another function will be. Stable counterparts enable greater trust and familiarity across the organization, which in turn [speed up decision making](/teamops/decision-velocity/), facilitate stronger communication flows, and reduce the risk of conflicts.
 
-In addition to standard communication channels, recurring opportunities dedicated exclusively to updates and knowledge sharing can help optimize awareness, questions, and feedback about an ongoing project. These [Key Review Meetings](https://about.gitlab.com/handbook/key-review/) allow a functional group to stay updated on and discuss essential success measurements, such as: progress towards goals such as [OKRs and KPIs](/teamops/everyone-contributes/), blocked tasks, new assignments, workstream changes, etc.
+In addition to standard communication channels, recurring opportunities dedicated exclusively to updates and knowledge sharing can help optimize awareness, questions, and feedback about an ongoing project. These [Key Review Meetings](https://about.gitlab.com/handbook/key-review/) allow a functional group to stay updated on and discuss essential success measurements, such as: progress towards goals such as [OKRs and KPIs](/teamops/equal-contributions/), blocked tasks, new assignments, workstream changes, etc.
 
 In conventional organizations, this is apt to be a more informal conversation between a department head and their manager. Broadening the audience of attendees for a Key Review Meeting—to include, for example, the Chief Executive Officer (CEO), Chief Financial Officer (CFO), the function head, stable counterparts, and (optionally) all other executives and their direct reports—broadens the pool of people who can contribute feedback, insights, and advice. It also forces the presenting department to be more mindful of execution, consider areas where they are falling short, and gather input for potential iterations toward progress.
 
@@ -142,7 +142,7 @@ In virtual-first environments, software becomes the shared workplace – instead
 To create an efficient navigation experience and prevent information overload for your team members, it’s important to classify and prioritize each of the tools that you use. In TeamOps, three categories are recommended:
 
 - **Primary** – Your core digital infrastructure, or the few tools that all of your staff members use every day and have full [public access](/teamops/shared-reality/#public-by-default) to.
-- **Supplemental** – Tools that enhance the user experience of one of your primary tools or provide a niche functionality for certain departments. For example, bots that you might integrate into an [asynchronous communication](/teamops/everyone-contributes/#asynchronous-workflows) platform (like Slack), or graphic design software for the marketing department.
+- **Supplemental** – Tools that enhance the user experience of one of your primary tools or provide a niche functionality for certain departments. For example, bots that you might integrate into an [asynchronous communication](/teamops/equal-contributions/#asynchronous-workflows) platform (like Slack), or graphic design software for the marketing department.
 - **Substitute** – Tools to use instead of the primary tool for certain scenarios. Use these sparingly to prevent redundant costs and conflicting [sources of truth](/teamops/shared-reality/#single-source-of-truth-ssot).
 
 {{% details summary="Examples and resources for tool prioritization" %}}
@@ -168,14 +168,14 @@ An organization’s speed of decision-making slows dramatically if its members a
 
 Adopting a TeamOps mentality means having [short toes](/handbook/values/#short-toes) and feeling comfortable with feedback, suggestions, and contributions to the work you "own." It also means speaking up when you see an opportunity for iteration. Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster decisions.
 
-Adopting a TeamOps mentality means providing the psychological safety necessary for all team members to feel confident while sharing ideas, [giving transparent feedback](/teamops/measurement-clarity/#transparent-feedback), [owning impactful project decisions](/teamops/everyone-contributes/#directly-responsible-individual-dri), and [managing themselves independently](/teamops/decision-velocity/#give-agency). Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster results.
+Adopting a TeamOps mentality means providing the psychological safety necessary for all team members to feel confident while sharing ideas, [giving transparent feedback](/teamops/measurement-clarity/#transparent-feedback), [owning impactful project decisions](/teamops/equal-contributions/#directly-responsible-individual-dri), and [managing themselves independently](/teamops/decision-velocity/#give-agency). Eliminating a territorial mindset allows for better [collaboration](/handbook/values/#collaboration), greater [diversity of thought](/handbook/values/#seek-diverse-perspectives), and ultimately faster results.
 
 To create stronger psychological safety in a virtual-first team, try communication-based tactics, such as:
 
 - Create internal catchphrases and code words to use as reinforcing language
 - Leverage [shared values](/teamops/shared-reality/) and [informal communication](/teamops/shared-reality/#informal-communication) to express care, get to know your team members’ various working styles, and remind your team what they have in common
 - Provide [positive feedback](/teamops/measurement-clarity/#transparent-feedback) when you see courageous behaviors and impressive contributions, just as much as you provide constructive feedback when you see results that need improvement
-- Create time and prompts in both [synchronous](/teamops/everyone-contributes/#well-managed-meetings) and [asynchronous](/teamops/everyone-contributes/#asynchronous-workflows) channels for collaborative support and questions
+- Create time and prompts in both [synchronous](/teamops/equal-contributions/#well-managed-meetings) and [asynchronous](/teamops/equal-contributions/#asynchronous-workflows) channels for collaborative support and questions
 - Include conflict resolution training in both onboarding and leadership development curriculum
 
 {{% details summary="Examples and resources for psychological safety" %}}
