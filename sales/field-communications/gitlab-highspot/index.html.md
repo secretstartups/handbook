@@ -621,3 +621,6 @@ Moving forward, **all AI-related content – internal and external – should be
    1. Navigate to the three dots in the righthand corner and select "edit". 
    1. Any changes you make here will be reflected on the spot homepage. Review [Highspot's SmartPage help articles](https://help.highspot.com/hc/en-us/sections/360007945533-Design-Build-SmartPages-) for more information.
 
+   ### HighSpot Video training for Field Marketing 
+   In addition to the training links above, a video training for Field Marketing can be found [here](https://www.loom.com/share/8ddc1075ebc141e3adaae9e9fb373620?sid=5958cd0b-0668-4c1f-92cf-07cf6d58996b). 
+
