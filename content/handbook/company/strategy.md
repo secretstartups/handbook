@@ -138,7 +138,7 @@ graph BT;
 ### KPIs and Responsible departments
 
 | Part of flywheel | Key Performance Indicator (KPI) | Department |
-|-------------- ---|---------------------------------|------------|
+|-----------------|---------------------------------|------------|
 | More Users | [Stage Monthly Active Users](/handbook/product/performance-indicators/) | Product |
 | More Contributions | [Unique Wider Community Contributors per month](/handbook/engineering/quality/performance-indicators/#unique-wider-community-contributors-per-month) | Developer Relations and Engineering |
 | More Contributions | [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr) | Developer Relations and Engineering |
