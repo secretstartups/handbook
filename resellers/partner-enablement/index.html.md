@@ -22,12 +22,20 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
 # Presales and Technical Enablement Resources
 {: .gitlab-orange}
 
-## Building Pipelines Partner Webinar Series
+## Foundational Knowledge
 [Building Pipelines GitLab Partner Webinar Series](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) (Live Webinar & Episode Content Archive)
   - This webinar series is produced exclusively for GitLab Partners.  We discuss various sales and presales-level topics that help you build your sales pipeline with GitLab.  
   - Click the link above to view the archive of previous episode content and be sure to **Register Today**!
 
-## 1. Introduction to GitLab
+**Topical Articles on DevSecOps Concepts**
+  - [What is DevOps](https://about.gitlab.com/topics/devops/)
+    - This extensive article goes into detail about DevOps, the culture, tools, and methods for success.  It's worth 15 mins.
+  - [What is a DevOps Platform?](https://about.gitlab.com/topics/devops-platform/)
+    - Great overview article with 10 primary must-have features and 7 things to consider to get the most out of the platform
+  - [DevSecOps Defined](https://about.gitlab.com/topics/devsecops/)
+    -  Can your existing governance practices keep pace with modern development methods? Learn how next-generation software requires a new approach to application security.
+
+## 1. GitLab Product Overview
 Learn what GitLab is, what it offers, and what it does
 
 **Customer Facing Resources**
@@ -119,9 +127,9 @@ Learn how to construct and transact a GitLab deal
 
 ## 4.  Post-sales Implementation and Adoption Journey
 
-**Customer Facing Resources**
+**Delivery Practice Enablement Material**
 
- - **How Customers  Get Started with GitLab:**
+ - **How Customers  Get Started with GitLab**
     - [Get Started with GitLab for Small Business](https://about.gitlab.com/get-started/small-business/) (Web Page)
       - Links to the primary things SMB / Commercial customers need to do to get up and running successfully with GitLab
     - [Get Started with GitLab for Enterprise](https://about.gitlab.com/get-started/enterprise/) (Web Page)
@@ -130,6 +138,10 @@ Learn how to construct and transact a GitLab deal
       - Review the rest of the assets on the Getting Started with GitLab page.  
 - [GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/) (GitLab Docs)
   - These tutorials are included in the GitLab Docs site.  They are a great starting point for learning or deploying technical capabilities.
+
+- **GitLab Migrations** 
+  - [Partner Migration Services](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services/)
+    - This **important page** outlines the migration services methods, tools, restrictions, and services kits available to partners
 
 **Additional References for You**
 - [Service Kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) (Portal Assets)
@@ -142,45 +154,46 @@ Learn how to construct and transact a GitLab deal
 {: .gitlab-orange}
 
 ## 1. Official GitLab Training on Level Up
-1. [Access GitLab Training from the Partner Portal](https://partners.gitlab.com/prm/English/c/Training) - We use LevelUp that is accessible publicly, but please do not use the site directly as a Partner.  Please login through the Partner Portal and access training there.  This will ensure that the training you take will be associated with your company partnership with GitLab!
+- [Access GitLab Training from the Partner Portal](https://partners.gitlab.com/prm/English/c/Training) 
+  - We use LevelUp that is accessible publicly, but please do not use the site directly as a Partner.  Please login through the Partner Portal and access training there.  This will ensure that the training you take will be associated with your company partnership with GitLab!
 
     ![Start Training from the Partner Portal](images/gitlab-partner-training.png){: .shadow}*Start Training from the Partner Portal*
 
 
 ## 2. Additional Enablement Resources at GitLab
 
-1. [GitLab Unfiltered Partner Enablement Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqQi2Kk0M5vnqB1n0CIb_sa) - This is an SA curated playlist of the most informative technical videos on GitLab Unfiltered channel.  Some videos here are unlisted and hard to discover otherwise.  Bookmark this link!
-
-1. [GitLab Security Capabilities](https://www.youtube.com/watch?v=d8X6vYY4WOA) - Also periodically browse the main GitLab Unfiltered channel.  This video tour of GitLab Security capabilities is excellent, but for technical reasons can't be added to the playlist above.  (50:16)
-
-1.  [Partner Enablement Presentation](https://docs.google.com/presentation/d/1VUY6WR4gewnXITUUAnVbFOExXmhdTYif2JgAiTbT7tE/edit#slide=id.g12b319f6181_0_10) - This deck has some great links associa
+- [GitLab Unfiltered Partner Enablement Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqQi2Kk0M5vnqB1n0CIb_sa) 
+  - This is an SA curated playlist of the most informative technical videos on GitLab Unfiltered channel.  Some videos here are unlisted and hard to discover otherwise.  Bookmark this link!
+-  [GitLab Security Capabilities](https://www.youtube.com/watch?v=d8X6vYY4WOA) 
+  - Also periodically browse the main GitLab Unfiltered channel.  This video tour of GitLab Security capabilities is excellent, but for technical reasons can't be added to the playlist above.  (50:16)
+- [Partner Enablement Presentation](https://docs.google.com/presentation/d/1VUY6WR4gewnXITUUAnVbFOExXmhdTYif2JgAiTbT7tE/edit#slide=id.g12b319f6181_0_10) 
+  - This deck has some great links associa
 
 ## 3. Technical References
 
-1. [GitLab Documentation](https://docs.gitlab.com/) - The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
-
-1. [GitLab Blog](https://about.gitlab.com/blog/) - Various content about GitLab. Mostly technical stuff, but not exclusively. Subscribing to the newsletter can be useful.
-
-1. [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features) - A fairly unknown tool that can help with understanding the changes in each GitLab version. (Source code of the website is [here](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/what-is-new-since).) Important features of this website to pay extra attention to:
-
-    * [CVEs by version](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves): easily keep track of security vulnerabilities in each GitLab version.
-
-    * [Upgrade path](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/): a handy tool which can list the steps of upgrading self-managed GitLab from version X to version Y.
-
-1. [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html) - same data as [this page](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=deprecations) of the Release Overview website, just in a different format.
-
-1. [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/) - The same information as the Release Overview website, but in nicely formatted blog posts, ready to share with customers.
-
-1. [GitLab's Repository](https://gitlab.com/gitlab-org/gitlab) - The source code of the GitLab software itself. The most useful part is the [Issues page](https://gitlab.com/gitlab-org/gitlab/-/issues), where everybody can check the state of a feature or a bug and see if it's planned or being worked on.
+- [GitLab Documentation](https://docs.gitlab.com/) 
+  - The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
+- [GitLab Blog](https://about.gitlab.com/blog/) 
+  - Various content about GitLab. Mostly technical stuff, but not exclusively. Subscribing to the newsletter can be useful.
+- [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features) 
+  - A fairly unknown tool that can help with understanding the changes in each GitLab version. (Source code of the website is [here](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/what-is-new-since).) Important features of this website to pay extra attention to:
+    - [CVEs by version](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves): easily keep track of security vulnerabilities in each GitLab version.
+    - [Upgrade path](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/): a handy tool which can list the steps of upgrading self-managed GitLab from version X to version Y.
+- [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html) 
+  - same data as [this page](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=deprecations) of the Release Overview website, just in a different format.
+- [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/) 
+  - The same information as the Release Overview website, but in nicely formatted blog posts, ready to share with customers.
+- [The GitLab Project](https://gitlab.com/gitlab-org/gitlab) 
+  - The source code of the GitLab software itself. The most useful part is the [Issues page](https://gitlab.com/gitlab-org/gitlab/-/issues), where everybody can check the state of a feature or a bug and see if it's planned or being worked on.
 
 ## 4. Third-Party & Community Tutorials
 
-1.  GitLab for Beginners:
+- GitLab for Beginners:
     - [Learn GitLab in 3 Hours GitLab Complete Tutorial For Beginners](https://www.youtube.com/watch?v=8aV5AxJrHDg) (~ 3 hrs)
-1.  GitLab Flow:
+- GitLab Flow:
     - [GitLab Flow - GitLab Tutorial - Part I](https://www.youtube.com/watch?v=ZJuUz5jWb44) (15:37)
     - [GitLab Flow - GitLab Tutorial - Part II](https://www.youtube.com/watch?v=K5Ux_m0ccuo&list=RDCMUCxu8xrbPZ-neg3FhMdz4yrA&index=3) (33:00)
-1.  GitLab CI/CD:
+- GitLab CI/CD:
     - [GitLab CI/CD - GitLab Runner Introduction - 2022](https://www.youtube.com/watch?v=-CyVpfDQAG0&list=RDCMUCxu8xrbPZ-neg3FhMdz4yrA&index=6)(23:27)
     - [GitLab CI CD - Install and Configure GitLab Runner on Kubernetes with Helm](https://www.youtube.com/watch?v=0Fes86qtBSc) (29:41)
 
