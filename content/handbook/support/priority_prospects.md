@@ -20,6 +20,9 @@ All general policies in [the statement of support](/support/statement-of-support
 - An area sales manager must pre-approve any request for gratis support.
 - The period of gratis support is limited to 30 days per request.
 - No more than 2 extension requests can be made for a prospect (total 90 days).
+- If the prospect converts to customer status, they will automatically get the proper support
+associated with their subscription purchase.
+
 
 The following support specialties are excluded from gratis support for prospects:
 - [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support)
@@ -44,12 +47,6 @@ Please follow the instructions on our main handbook page for [Requesting Gratis 
 **NOTE**: Please file extensions **one week** prior to the expiration date, to avoid interruptions in service.
 
 Please follow the instructions on our main handbook page for [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
-
-## How to cancel a support request
-
-
-If the prospect converts to customer status, they will automatically get the proper support
-associated with their subscription purchase.
 
 ## Information for the prospect
 
