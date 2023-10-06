@@ -126,22 +126,50 @@ Learn how to construct and transact a GitLab deal
 
 
 ## 4.  Post-sales Implementation and Adoption Journey
+Delivery docs and technical guidance for your GitLab practice engineers
 
-**Delivery Practice Enablement Material**
+**Implementing a GitLab Instance**
+  - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
+    - **Read, understand, and follow the guidance given in this reference architecture page.  It's crucially important for long term maintainability of a GitLab instance.**
+  - [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit#documentation)
+    - **This is the Way... to install GitLab.**  The GitLab Environment Toolkit (GET) is a set of opinionated Terraform and Ansible scripts to assist with deploying scaled self-managed GitLab environments following the Reference Architectures.  Built and actively maintained by the Quality Enablement team.
+  - [Other Installation Methods](https://docs.gitlab.com/ee/install/install_methods.html)
+    - Make sure any automation you provide that automatically installs GitLab is installing the Enterprise Edition, and leverages at the core one of these installation methodologies to have a suppored configuration
+  - [Unsupported Designs](https://docs.gitlab.com/ee/administration/reference_architectures/#deviating-from-the-suggested-reference-architectures)
+    - Also review these unsupported configurations to make sure you are in compliance with our support requirements
+  - [Next Implementation Steps After Installation](https://docs.gitlab.com/ee/install/next_steps.html)
+    - Once you have the product installed, here are additional steps to make the installation operationally successful (like backups)
+  - [Upgrading GitLab](https://docs.gitlab.com/ee/update/)
+    - **Upgrades are important to become good at.**  GitLab schedules major releases for May each year, by default.  GitLab releases a minor update on the 3rd Thursday of every month, and has released monthly consistently for more than a decade.  Security patches are released more frequently. 
+     GitLab.com has updates multiple times per day.  
 
- - **How Customers  Get Started with GitLab**
-    - [Get Started with GitLab for Small Business](https://about.gitlab.com/get-started/small-business/) (Web Page)
-      - Links to the primary things SMB / Commercial customers need to do to get up and running successfully with GitLab
-    - [Get Started with GitLab for Enterprise](https://about.gitlab.com/get-started/enterprise/) (Web Page)
-      - Links to the primary things Enterprise customers need to do to get up and running successfully with GitLab
-    - [Getting Started with GitLab Main Page](https://about.gitlab.com/get-started/) (Web Page)
-      - Review the rest of the assets on the Getting Started with GitLab page.  
-- [GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/) (GitLab Docs)
-  - These tutorials are included in the GitLab Docs site.  They are a great starting point for learning or deploying technical capabilities.
+**Implementing GitLab Runners**
+  - [Gitlab Runner Overview](https://docs.gitlab.com/runner/)
+    - GitLab Runners represent the **largest workload the system generates.**  The Runner is the software that executes all of the CI pipelines.  It's possible to deploy them on fixed infrastructure, or autoscale them (up and down) in a cloud provider.
+  - [GitLab Runner Installation](https://docs.gitlab.com/runner/install/)
+  - [GitLab Runner Advanced Configuration](https://docs.gitlab.com/runner/configuration/)
 
-- **GitLab Migrations** 
+**GitLab Migrations** 
   - [Partner Migration Services](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services/)
     - This **important page** outlines the migration services methods, tools, restrictions, and services kits available to partners
+
+**Using and Adopting GitLab Effectively**
+  - [Get Started Administering GitLab](https://docs.gitlab.com/ee/administration/get_started.html)
+    - The Platform Team will need to get good at the administrative aspects of using GitLab.  Here is where to start.
+  - [Get Started Using GitLab](https://about.gitlab.com/get-started/enterprise/#using-gitlab) (Web Page)
+    - Beginning with setting up your Organization, Groups, Projects, etc. this page includes links to the primary things customers need to do to get set up and running successfully with GitLab
+  - [Getting Started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+    - Beginning to use GitLab CI effectively is one of the **most important milestones in customer adoption**.
+  - [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/)
+    - The golden path of building, securing, and deploying cloud native application code into production automatically is through GitLab Auto DevOps.  Learn how you can use it, and how you can customize it to your customers' needs.
+  - [Getting Started with Application Security](https://docs.gitlab.com/ee/user/application_security/get-started-security.html)
+    - Shift left and show your customer how to progressively implement an effective application security strategy that makes sense for them
+  - [Getting Started with GitLab Main Page](https://about.gitlab.com/get-started/) (Web Page)
+      - Review the rest of the assets on the Getting Started with GitLab page.  
+  - [Using GitLab Tutorials](https://docs.gitlab.com/ee/tutorials/) (GitLab Docs)
+    - These video and web page tutorials are included in the GitLab Docs site.  They are a great starting point for learning or deploying technical capabilities.
+
+
 
 **Additional References for You**
 - [Service Kits](https://partners.gitlab.com/prm/English/c/Channel_Service_Packages) (Portal Assets)
