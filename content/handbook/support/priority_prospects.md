@@ -1,98 +1,66 @@
 ---
-title: Priority Prospects
-description: Details on how the priority prospect system works
+title: Gratis Support for Prospects
+description: Details on how to request support for prospects
 ---
 
 ## Overview
 
 By default, [trial licenses do not include support](https://about.gitlab.com/support/#trials-support).
 
-If you've been contacted by a prospect whose evaluation of GitLab includes evaluating support expertise or SLA performance, as a member of the Sales team **you can grant request temporary support for their trial license**. Please note this is only available for 30 days. After that point, the account will be downgraded back to the standard levels for a trial/prospect, unless an extension request is filed and approved.
+As a member of the Sales/CS team, if you have a prospect who wishes to have access to GitLab Customer Support as part of their trial or Proof of Value, you can request temporary support for their trial license. This program is for strategically important prospects, and eligibility must be considered by Sales leadership. Generally, prospects with potential ARR of less than $100,000 are not be likely to be approved.
 
-Free access to support granted in this way is not for any customer who wants it, but for strategically important prospects for whom evaluation of support is part of their decision criteria. There may be many factors Sales leadership will consider in deciding which prospects are eligible. Generally, prospects with potential ARR of less than $100,000 may not be likely to be approved.
+**NOTE:** This option is solely for **prospects** where the account type in Salesforce is `Prospect`. This cannot be applied to any type of account other than `Prospect`. For any other account, please see our main handbook page on [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
 
-## Process Restrictions
+## Restrictions on gratis support for prospects
 
-- Only 30 priority prospects can exist at any one time. The current reference
-   sheet containing who is a priority prospect can be found (internal)
-  [here](https://docs.google.com/spreadsheets/d/11p3aBj1LTr-ngk1wxoMlae-UvJ3bOTuQHd48so2ZcXU/edit?usp=sharing)
-- An area sales manager must approve a request to create or extend a priority
-  prospect
-- No more than 2 extensions can be done for a priority prospect.
+All general policies in [the statement of support](/support/statement-of-support/) apply to prospect support.
 
-## Support Restrictions
+- Only 30 prospects/customers can receive gratis support at any one time. The current reference sheet can be found
+  [here](https://docs.google.com/spreadsheets/d/11p3aBj1LTr-ngk1wxoMlae-UvJ3bOTuQHd48so2ZcXU/edit?usp=sharing) (internal link).
+- An area sales manager must pre-approve any request for gratis support.
+- The period of gratis support is limited to 30 days per request.
+- No more than 2 extension requests can be made for a prospect (total 90 days).
+- If the prospect converts to customer status, they will automatically get the proper support
+associated with their subscription purchase.
 
-- This does not include [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support)
-- This does not include [upgrade assistance support](https://about.gitlab.com/support/scheduling-upgrade-assistance/)
-- This does not include migration assistance support
-- This does not include architecture review support
-- This does not include [namesquatting requests](/support/workflows/namesquatting_policy.html)
-- This should only be for [PoVs](https://about.gitlab.com/customer-success/solutions-architects/tools-and-resources/pov/) involving errors from a setup (and not the setup
-  process itself)
-- A maximum of 3 contacts are able to create support tickets for the organization
-- This does not include [shared organization setup in Zendesk](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations)
-- All response times are reasonable effort and will be given an internal SLO of
-  24 hours.
-- Everything within [the statement of support](/support/statement-of-support/) applies.
-- This is solely for **prospects**. This means the account type in Salesforce
-  is `Prospect`. This cannot be applied to any type of account other than a
-  `Prospect`.
 
-## Requests
+The following support specialties are excluded from gratis support for prospects:
+- [emergency support](https://about.gitlab.com/support/#how-to-trigger-emergency-support)
+- [upgrade assistance](https://about.gitlab.com/support/scheduling-upgrade-assistance/)
+- migration assistance
+- architecture review
+- [namesquatting requests](/support/workflows/namesquatting_policy.html)
+- for [PoVs](https://about.gitlab.com/customer-success/solutions-architects/tools-and-resources/pov/), support is limited to resolving errors from a setup (and not the setup process itself)
+- All response times are reasonable effort, with an internal SLO of 24 hours.
 
-### Requesting a new priority prospect
+Limitations within Zendesk:
 
-Requests to create a new priority prospect are done via issue in the
-support-ops-project repo. The template for this can be found
-[here](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Priority%20Prospect%20Creation%20Request).
+- A maximum of **3** [named contacts](https://about.gitlab.com/support/managing-support-contacts/#managing-contacts) are able to create support tickets for the organization.
+- Gratis support does not include [shared organization setup in Zendesk](https://about.gitlab.com/support/managing-support-contacts/#shared-organizations).
 
-Once submitted, have a regional sales manager comment on the issue approving the
-request. From there, Support Operations will work the request.
+## How to request support for a prospect
 
-Creating a new one can take up to 24 hours to complete, pending no issue
-preventing it from being done. You should plan for this delay as much as is possible.
+Please follow the instructions on our main handbook page for [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
 
-**NOTE**: Customers should *not* submit any tickets until this process is
-completed. Doing so can result in the tickets being rejected, as the
-priority prospect status is only applied on tickets filed **after** the request
-has been completed.
+## How to request an extension
 
-Once the expiration date has been hit, the account will be reverted back to a
-free, non-supported prospect. If there is a need to extend it, please file a
-[request extension](#requesting-an-extension)
-a week prior to the expiration date.
+**NOTE**: Please file extensions **one week** prior to the expiration date, to avoid interruptions in service.
 
-### Requesting an extension
+Please follow the instructions on our main handbook page for [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
 
-Requests to extend an existing priority prospect are done via issue in the
-support-ops-project repo. The template for this can be found
-[here](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Priority%20Prospect%20Extension%20Request).
+## Information for the prospect
 
-**NOTE**: Keep in mind these should be filed a week prior to the expiration
-date to avoid issues.
+The prospect should never submit a support ticket before gratis-support process is fully completed
+(as indicated by Support Operations in the gratis support request issue). Doing so
+can result in tickets being rejected.
 
-Once submitted, have a regional sales manager comment on the issue approving the
-request. From there, Support Operations will get approval from Support
-leadership work the request.
-
-### Requesting a cancellation
-
-Requests to cancel an existing priority prospect are done via issue in the
-support-ops-project repo. The template for this can be found
-[here](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Priority%20Prospect%20Extension%20Request).
-
-This should be done in a case where it has been decided to cancel priority
-prospect status.
-
-## Information for the customer
-
-The customer should never submit a ticket before this process is fully completed
-(as indicated by Support Operations in the request issue). Doing so before that
-can result in the ticket being rejected.
-
-Once the process is fully completed, the customer should be informed of the
+After the process is fully completed, the prospect should be informed of the
 following *vital* information for submitting tickets:
 
+- All tickets must be filed by one of the 3 named contacts provided in the request.
+  Any others will be rejected by the system, and the tickets automatically closed.
+- All tickets must specify "Sales Assisted Trial" in the "Tell us about your GitLab
+  subscription" field. Any other option can cause routing problems.
 - All SaaS related tickets should be submitted via
   [this form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447),
   unless it is specifically about SaaS Account related matters
@@ -100,8 +68,3 @@ following *vital* information for submitting tickets:
   [this form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000803379)
 - All Self-Managed related tickets should be submitted via
   [this form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=426148)
-- Every ticket should ensure the "Tell us about your GitLab subscription" field
-  uses the value "Sales Assisted Trial". Any other one could cause routing
-  issues for them.
-- All tickets must be filed using the contact emails provided in the request.
-  Any others will be rejected by the system (and the ticket closed).
