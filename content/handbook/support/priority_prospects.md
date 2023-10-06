@@ -47,7 +47,6 @@ Please follow the instructions on our main handbook page for [Requesting Gratis 
 
 ## How to cancel a support request
 
-TBD
 
 If the prospect converts to customer status, they will automatically get the proper support
 associated with their subscription purchase.
