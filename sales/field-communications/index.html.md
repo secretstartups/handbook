@@ -25,9 +25,11 @@ For more information about the Field Enablement team, visit the [team handbook p
 ## Primary Field Communications Programs
 Field Communications uses the channels outlined in this [communication channel map](https://docs.google.com/presentation/d/1gedEhDc9X77TmHbED2AR1JhSTm2FjKeISdMvqlIdnzk/edit?usp=sharing) to communicate with the Field. Key programs include:
 
+- [Field-FYI Slack Channel](/handbook/sales/sales-google-groups/field-fyi-channel/)
 - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
 - [Field Update Tickers](/handbook/sales/field-communications/field-update-tickers/)
-- [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call)
+- [Field Alerts](/handbook/sales/field-communications/field-alerts/)
+- [WW Field Org & WW Field Manager Calls](/handbook/sales/sales-meetings/#ww-field-org-call)
 - [Field Google Group and Slack Channel landscape](/handbook/sales/sales-google-groups/)
    - See this link for how best to communicate with the Field team on Slack or via email. 
 
