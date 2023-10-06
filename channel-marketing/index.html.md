@@ -11,7 +11,7 @@ description: "Global Channel supports global channel sales objectives and provid
 {:toc .hidden-md .hidden-lg}
 
 # Our Team
-Global Channel Marketing team is a team of professionals who's job is to build marketing plans to grow the channel business worldwide. We think about our Channel Marketing program in terms of marketing to the channel, marketing through the channel, and marketing with the channel.
+Global Channel Marketing team is a team of professionals whose job is to build marketing plans to grow the channel business worldwide. We think about our Channel Marketing program in terms of marketing to the channel, marketing through the channel, and marketing with the channel.
 
 ## Marketing to the Channel
 This team is responsible for the development of channel marketing campaigns that leverage GitLab’s go-to-market campaigns.  We work with partners to help them understand what the campaigns are, how to use them to help drive partner sourced opportunities, how to leverage upcoming GitLab webinars/webcasts to drive conversion and how to generate trials for GitLab that they can nurture with prospects. Part of this program includes a Partner Leadership Summit, which is an in person event meant to connect our channel partner leadership & GitLab direct leadership to share the GitLab vision and the important part our channel partners play in the success of our business. 
@@ -37,7 +37,7 @@ Channel partners are ultimately responsible for the execution of these campaigns
 
 ## Marketing with the Channel 
 
-The Channel Marketing Manager work with the Field Marketing team to identify upcoming field marketing events and activities that channel partners can participate in for joint go-to-market activities. Both the Channel Markeitng Managers or the Field Marketing Managers can suggest campaigns for marketing ready channel partner participation. 
+The Channel Marketing Manager work with the Field Marketing team to identify upcoming field marketing events and activities that channel partners can participate in for joint go-to-market activities. Both the Channel Marketing Managers or the Field Marketing Managers can suggest campaigns for marketing ready channel partner participation. 
 
 ## Current Service Offerings
 For an in-depth look at the programs and tools we offer our partners, see our [marketing menu of services](/handbook/marketing/channel-marketing/channel-marketing-epics/Channel-Marketing-Service-Offerings/) page. 
@@ -64,18 +64,18 @@ The Channel Marketing Managers are responsible for creating channel marketing pl
    * Feb - July - Plans due Jan 1 
    * August - January - Plans due July 1 
 
-The goal is that we eventually have our partners aligned to our planning cycle, but we realize that we need to take into account THIER own planning cycle. Should there need to be a different planning cycle cadence to accomodate a Marketing Ready channel partner, this should be clearly documented in the [marketing ready issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready). 
+The goal is that we eventually have our partners aligned to our planning cycle, but we realize that we need to take into account THIER own planning cycle. Should there need to be a different planning cycle cadence to accommodate a Marketing Ready channel partner, this should be clearly documented in the [marketing ready issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready). 
 
 ### Tactically, how do we plan? 
-1. The Channel Marketing Manager is responsible for identifying which of our focus partners are `Marketing Ready`. This is done by the CMM completeing a [marketing ready issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready), indicating that the partner has committed resources to work with GitLab. 
+1. The Channel Marketing Manager is responsible for identifying which of our focus partners are `Marketing Ready`. This is done by the CMM completing a [marketing ready issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Channel_Mktg_Ready), indicating that the partner has committed resources to work with GitLab. 
 2. The CMM builds a strategic plan of campaigns with the Channel partner's marketing contact. The team is expected meet on as frequent of a basis as is needed to support the plan. At least bi-monthly. 
-3. In advance of the due date for the plans (due dates listed above), the CMM is expected to add thier plan direclty into [Allocadia](/handbook/marketing/strategy-performance/allocadia/). Our CMMs need to add their plan into Allocadia as this is where we track our program spend and can run reports based on the various attributes in the Allocadia details panel.  
-4. Each camapign run by the CMM should have a [realted issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=MDF_Campaign ) that further details out with the specific campaign entails. 
+3. In advance of the due date for the plans (due dates listed above), the CMM is expected to add their plan directly into [Allocadia](/handbook/marketing/strategy-performance/allocadia/). Our CMMs need to add their plan into Allocadia as this is where we track our program spend and can run reports based on the various attributes in the Allocadia details panel.  
+4. Each campaign run by the CMM should have a [related issue](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=MDF_Campaign ) that further details out with the specific campaign entails. 
    * Eventually the creation of this issue will be built out in Allocadia as part of the MDF Epic + issue creation process. At this point in time, the CMMs need to manually create this issue. All details will need to manually be filled in.  
-5. In advance of the quarterly scheuduled QBR, which is run in alignment with [Q1 & Q3 Field Marketing QBR schedule](/handbook/marketing/field-marketing/#field-marketing-planning), the CMM's will complete this [regional deck](https://docs.google.com/presentation/d/10bUd4Zdk1NmbQB_a-JT_bBE5-fnZ7xZ9mElga4kn3-8/edit#slide=id.g1287bf62b57_0_209). This deck should be shared with the regional partners as well as the CAM. 
+5. In advance of the quarterly scheduled QBR, which is run in alignment with [Q1 & Q3 Field Marketing QBR schedule](/handbook/marketing/field-marketing/#field-marketing-planning), the CMM's will complete this [regional deck](https://docs.google.com/presentation/d/10bUd4Zdk1NmbQB_a-JT_bBE5-fnZ7xZ9mElga4kn3-8/edit#slide=id.g1287bf62b57_0_209). This deck should be shared with the regional partners as well as the CAM. 
    * Communication about the campaign should happen in the issues, this google slide deck is for the purpose of the QBR and high level plan sharing. Allocadia and the issues are the SSOT. 
    * While it is our goal to avoid mid-execution timed campaigns, it is possible to submit for approval mid-planning cycle. Should that be the case, you do not need to go back into your QBR deck and add the activity. 
-6. On a bi-annual basis (every 6 months) our CMMs are responsibile for creating a [score card](https://docs.google.com/spreadsheets/d/1MuyKcDYMeIdfIcRGSzfLgy0SmGUG8ASPrhb4W0iHxkk/edit#gid=0&range=A1) with our partners. We have this score card in order to align around what's mutally important to the success of both of our business and to help with goal setting for future quarters. This should be built in collaboration with the Marketing Ready Channel partner. 
+6. On a bi-annual basis (every 6 months) our CMMs are responsible for creating a [score card](https://docs.google.com/spreadsheets/d/1MuyKcDYMeIdfIcRGSzfLgy0SmGUG8ASPrhb4W0iHxkk/edit#gid=0&range=A1) with our partners. We have this score card in order to align around what's mutually important to the success of both of our business and to help with goal setting for future quarters. This should be built in collaboration with the Marketing Ready Channel partner. 
 
 ### Team Roles and Responsibilities
 * **GEO Channel Director** - Sets the strategy for the region, manages the Channel Account Managers and approves the criteria for Select and Open partner selection in the region.
@@ -88,10 +88,10 @@ The goal is that we eventually have our partners aligned to our planning cycle, 
 
 * **Partner Program Marketing Managers** - Develops scalable marketing programs to support Partners. 
 
-Once a plan for the quarter has been established it is imperative that the CMM, partner marketing contact & channel account manager stay in close, consistent alignment about plan execution.  If there is a plan in place where the channel partner is participating in a program WITH GitLab lead by the Field Marketing team, its the expectation that the Field Marketing team is executing this campaign jointly with the regional partner. The CMM should be involved to help communicate with and hold the channel partner accountable, as they own the marketing relationship with the parnter.
+Once a plan for the quarter has been established it is imperative that the CMM, partner marketing contact & channel account manager stay in close, consistent alignment about plan execution.  If there is a plan in place where the channel partner is participating in a program WITH GitLab lead by the Field Marketing team, its the expectation that the Field Marketing team is executing this campaign jointly with the regional partner. The CMM should be involved to help communicate with and hold the channel partner accountable, as they own the marketing relationship with the partner.
 
 ## Tracking Success
-GitLab Marketing receives 'credit' for opportunities that are partner sourced so long as the oportunity has a BATP (Bizable Touchpoint) from the campaign. We also track deal registrations specifically from MDF spend. This can be tracked on our lead sharing dashboard and is detailed out in our Marketing Strategy & Analytics handbook page, here. ( LB TODO - ADD LINK ONCE MERGED )
+GitLab Marketing receives 'credit' for opportunities that are partner sourced so long as the opportunity has a BATP (Bizable Touchpoint) from the campaign. We also track deal registrations specifically from MDF spend. This can be tracked on our lead sharing dashboard and is detailed out in our Marketing Strategy & Analytics handbook page, here. ( LB TODO - ADD LINK ONCE MERGED )
 
 ## How We Communicate with Channel Partners
 
@@ -102,7 +102,7 @@ Partners who create a profile in the [GitLab Partner Portal](https://partners.gi
 
 For more information about Partner Flash/News On Demand and process to become a contributor, please see the [Channel Program Operations handbook page](/handbook/sales/channel/channel-programs-ops/#partner-communications).
 
-#### Quarterly webinars to Channel Parnters 
+#### Quarterly webinars to Channel Partners 
 Global Channel Marketing hosts a quarterly webinar for our partner community.  Our goal is to provide updates and general marketing program news, as well as highlight one to three larger marketing program topics for a deeper dive.  Invitations are sent via our Partner Flash and News on Demand platform.  We target the global list of marketing contacts (those who have chosen a “marketing” role in their profile) as well as those in GitLab Channel roles, including our sales and program operations teams.  Invites are sent 30 days in advance of the event with a follow up at two weeks out and one day prior.  Those who register will receive a reminder email the day before the event. Members of our global channel marketing team attend and speak during the webinar, along with special guests from other GitLab organizations, depending on the topics we are covering.  Thank You and Sorry We Missed You emails will be sent post-event and provide access to webinar recordings, assets and resources.
 
 Our FY24 webinars dates are:
@@ -142,17 +142,17 @@ For more information about Highspot, please see the [Highspot at GitLab handbook
        + Level 1 approval - Channel Marketing Manager
        + Level 2 approval - Sr Partner Program Manager
     +  Once the MDF request has been either approved or declined the partner will be notified: 
-          + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notificiation
+          + If declined, the Channel Marketing DRI will reach out to the partner and let them know. We will copy the CAM on the notification
           + If approved, the MDF Operation's team will [open an epic](/handbook/marketing/channel-marketing/channel-marketing-epics/) and correlating sub-issues defined therein. 
     + Once Epic has been created, CMM will create the sub-issues listed in the epic. Includes (links are to templates):
        + Campaign Creation 
          + List Upload
           + MDF POP 
              + For POP issues add labels:
-             + `MDF-POP` and use the scoped lables below to work through the approval process:
+             + `MDF-POP` and use the scoped labels below to work through the approval process:
              + `MDF::POP Pending` issues created but POP has not yet been received
              + `MDF::POP Approval Needed` once POP is received change this status to have Samara Souza approve the POP documents submitted
-             + `MDF:: POP Approved` POP has been reveiwed and is approved, list can be uloaded into List upload issue, Zip requistion can be created
+             + `MDF:: POP Approved` POP has been reviewed and is approved, list can be uploaded into List upload issue, Zip requisiton can be created
              + `MDF:: POP Completed` Once all of the steps above are completed, change to this status and close the MDF POP issue
          + Make sure to add issues to the epic!
     + Once all sub-issues are completed, close out the epic.
@@ -163,12 +163,12 @@ Prior to your PTO, as an MDF request approver, you will need to update the `Dele
 
 When an approval request email is sent to the assigned approver, the delegated approver also receives an email notification that there is an approval request to review. Delegated approvers can't reassign approval requests; they can only approve or reject approval requests.
 
-Following the steps to update your Delegrated Approver:
+Following the steps to update your Delegated Approver:
 1. Log into Salesforce
 1. On the top right of the page, click on the your name to drop down a menu, then select `My Settings`
 1. On the left column, click on `Personal` > `Approver Settings`
 1. In the settings:
-   1. Select the `Delegrated Approver` (This would be your manager)
+   1. Select the `Delegated Approver` (This would be your manager)
    1. Select `If I am an approver or delegated approver`
    1. Save.
 
@@ -182,7 +182,7 @@ CMMs can now order swag for approved co-marketing events or other approved award
 
 **Please follow the following steps to get your swag ordered**
 1. Reach out to your Channel Marketing Managers
-2. Have the following information ready: date of the envent, contact information and shipping address
+2. Have the following information ready: date of the event, contact information and shipping address
 3. CMMs will coordinate with the CAM/Parnter directly to get the items shipped
  
 ## Partner Instant Marketing Campaign
@@ -215,7 +215,7 @@ We currently offer the Self-Managed form in English, Spanish, German, French, Ko
       _I agree that GitLab may share the data in this form with the GitLab partner that referred me to this landing page and GitLab's partner may contact me by email or telephone about relevant products, services and events. You may opt-out at any time by unsubscribing in future emails or contacting the GitLab partner directly._
 
 
-- Next, test your custom URL to ensure you are recieving the leads inside the partner portal deal registration prospect section. 
+- Next, test your custom URL to ensure you are receiving the leads inside the partner portal deal registration prospect section. 
 
    - Learn more about where to find your leads by watching this [video](https://partners.gitlab.com/prm/English/s/assets?id=453616). 
 
