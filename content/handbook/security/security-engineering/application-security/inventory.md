@@ -48,16 +48,16 @@ Rules define actions to take, based on the project categories. These actions are
 
 | Categories | Actions |
 | -------- | ----------- |
-|  All (even if no category is defined) | Download [Dependencies] |
-|  `product`, `library` \| `use_pat` \| `website` \| `api/service` \| `green/yellow/red-data` \| `3rdparty` | Download [Vulnerability Reports], [Dependencies], [Protected branches], and [CI/CD configuration] |
-|  `fork` | Download [Protected branches] |
+|  All (even if no category is defined) | Download [Dependencies], [Protected Branches], [Approvals], [Approval Rules] |
+| `product`, `library`, `red_data` | Download [CI/CD configuration] |
+| `product`, `secrets_monitoring`  | Download [Vulnerabilities]     |
 
 ### Policies
 
 | Categories | Policies |
 | -------- | ----------- |
-| `red-data`, `product`, `library` | [SAST], [Dependency Scanning], and [Secret Detection] must be enabled |
-| `red-data`, `product`, `library` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `No one`) |
+| `red_data`, `product`, `library` | [SAST], [Dependency Scanning], and [Secret Detection] must be enabled |
+| `red_data`, `product`, `library` | *Default branch* must be `protected` (Allowed to merge: `Maintainers`, Allowed to push: `No one`) |
 | `use_pat`, `website`+`external` | [Dependency Scanning] and [Secret Detection] must be enabled |
 | `website`+`external` + `yellow/orange/red_data` | [DAST] must be enabled. Overall SSL grade must be 'A' or 'A+' |
 | `product` + `container` | [Container Scanning] must be enabled |
@@ -79,7 +79,9 @@ Rules define actions to take, based on the project categories. These actions are
 [SAST]: https://docs.gitlab.com/ee/user/application_security/sast/
 [Container Scanning]: https://docs.gitlab.com/ee/user/application_security/container_scanning/
 [Vulnerability Reports]: https://docs.gitlab.com/ee/api/project_vulnerabilities.html
-[Protected branches]: https://docs.gitlab.com/ce/api/protected_branches.html
+[Protected Branches]: https://docs.gitlab.com/ce/api/protected_branches.html
+[Approvals]: https://docs.gitlab.com/ee/api/merge_request_approvals.html
+[Approval Rules]: https://docs.gitlab.com/ee/api/merge_request_approvals.html#get-project-level-rules
 
 These policies are aligned with our [GitLab Projects Baseline Requirements](/handbook/security/gitlab_projects_baseline_requirements.html).
 
