@@ -189,9 +189,10 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. Take note of the team members details and reach out to the team members manager via email using the following [template](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/netherlands_temp_contract_renewal.md).
 1. Once you have received confirmation on next steps from the team members line manager, be sure to save the thread under the team members profile in Workday.
 1. Using the correct contract template from the [templates folder](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/#employment-agreements) complete with required team member details. These details can be found on the team members Workday profile.
-1. Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
-1. Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
-1. Remove any wording regarding Probation Period [if applicable](#probation-period).
+- As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
+- Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
+- Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
+- Remove any wording regarding Probation Period [if applicable](#probation-period).
 1. When you have a completed contract be sure to allow a team member to peer review it for you. This can be done by posting the document link in the connect-ops-team private slack channel. Indicate that you are reviewing it by using the 'Eyes' emoji.
 1. Once reviewed, stage the contract for signing in Docusign.
 1. Ensure that the GitLab signatory is the first to sign, followed by the team member. This can be done by selecting the assign signing order option.
@@ -214,6 +215,7 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. If a salary increase is required due to updated [visa salary requirements]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) the People Connect Team member requests approvals from the team member's manager, total rewards and finally the team member's Division's E-Group leader.
 1. The People Connect Team member uploads the approval to the Workday Documents folder.
 1. If the contract extension is approved, the People Connect Team member creates the contract and stages it via Docusign for the team member and [GitLab signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+- As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
 - Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 - Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.
 - Check whether the team member is currently paid the holiday allowance monthly. If yes, confirm with the team member whether we can update to yearly. If the team member agrees to update, ensure to update pay frequency. If no, confirm okay with Legal - Employment and ensure to add correct wording to this effect in new contract. To streamline the process all team members should receive the holiday allowance yearly.
