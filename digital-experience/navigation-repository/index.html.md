@@ -58,7 +58,7 @@ We avoid deploying minor or major releases of the navigation on release post day
 1. Create a new issue titled `Navigation release: Version x.x.xx` and include links to the MRs and Issues included in this release. This navigation issue should be added to the quarterly navigation release epic (ex. [FY23Q3 epic](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/155)). If this has been assigned to you already, you can skip this step. 
 1. Create a new branch from `main`, with all changes
 1. Increment the version number in `package.json`
-1. Build /dist folder - ```npm run build-library``` (optionally use `yarn link` [for a detailed local review](#detailed-local-review-before-a-nav-release-with-yarn-link))
+1. Build /dist folder - ```yarn build``` (optionally use `yarn link` [for a detailed local review](#detailed-local-review-before-a-nav-release-with-yarn-link))
 1. Publish to npm - ```npm publish``` (Note: You may need to login with your npm credentials using ```npm login```)
 1. Merge changes to `origin/main`
 1. Once the package has been published it's now ready to be [updated in the consuming repositories](#using-navigation-in-other-repositories). This should include the `Buyer Experience` and `www` repositories. Open an MR in those repos using the `navigation-change` description template. Include links to those MRs in your Navigation Release Issue assigned to you. 
@@ -150,7 +150,7 @@ The package version for the www repo **should not** be major, which means it can
 If you want to review locally changes made to the navigation:
 
 1. Cd into the navigation folder
-1. Build /dist roject locally by running `yarn run build-library`.
+1. Build /dist roject locally by running `yarn build`.
 1. Link the built package to yarn by running `yarn link`.
 1. Cd into the repository you want use the navigation
 1. Run `yarn link be-navigation`.
