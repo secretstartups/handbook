@@ -371,3 +371,16 @@ You can replace trailing whitespaces in multiple files on the command line using
 find content/handbook -type f -name '*.md' -exec sh -c "sed -i 's/[ \t]*$//' "$1" '{}'" \;
 ```
 
+#### Remove trailing whitespaces in a merge request
+
+Sometimes the easiest way to fix one - or a few - trailing whitespace lint errors is directly in the merge request. 
+
+1. From the `Changes` tab in the merge request, find the file and line number mentioned in the lint error message
+2. Click the speech bubble next to the line number to add a comment
+3. In the comment dialog, click the `insert suggestion` button to copy the line into the comment dialog
+4. Remove the trailing whitespace from the end of the line
+5. Click `Add comment now` and apply the suggestion
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Kfdf2VAk9sM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
