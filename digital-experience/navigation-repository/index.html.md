@@ -17,11 +17,28 @@ Navigation is following [Semantic Versioning](https://semver.org/). The current 
 
 ## Making Changes
 
+Navigation data is distinct from the Navigation code, as it originates from Contentful. To effect changes, two methods are available, contingent on the nature of the desired alteration.
+
+### Content Changes
+
+Navigation data is stored within Contentful, and it is utilized by projects that rely on the Navigation repository. Subsequently, this data is transferred to the Navigation component. Below, you will find two entries containing the data for the navigation in Contentful.
+
+1. [Navigation Entry](https://app.contentful.com/spaces/g1m12f5de7m9/entries/4ANorm7zz94uE5N6oexbdi)
+2. [Footer Entry](https://app.contentful.com/spaces/g1m12f5de7m9/entries/QxdoqHd5ixKTwFjIHYvYI)
+
+Localization data is managed within this context, where child entries are organized by language, and each entry is named with its respective language code format, such as `[fr-fr] - Name of the entry`.
+
+To ensure that changes become visible in production, it's necessary to **publish** the data in Contentful. Afterward, within a few minutes, the updated data will become accessible on the website once the pipeline of the corresponding project has been successfully executed. 
+
+### Structural Changes
+
 To request changes to the Navigation repository, please fill out an issue [here](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/issues/new) to be triaged by the Digital Experience team. 
 
 If you would like to self-serve changes to the navigation, feel free to clone the project locally following the instructions in the [readme](https://gitlab.com/gitlab-com/marketing/digital-experience/navigation/-/blob/main/README.md). Once you make changes, please tag a member of the [Digital Experience team](https://about.gitlab.com/handbook/marketing/digital-experience/#groups-metrics--team-members) to review your MR. We are consistently running tests on navigation links, and doing research and design spikes on navigation changes, so all changes will need to be approved by a member of our team.
 
 **When making a change to the navigation, it's important to check for an AB test**. The quickest check is to look at the file system for the navigation repository. Is there a folder for `Navigation` as well as a folder for `NavigationB` (or some other duplicate name that contains similar files)? If so, be sure to make your changes in both folders, so that both variants will see the updates.
+
+**Note**: Two JSON files are stored under a folder named **mocks**. The data within this folder is exclusively for testing purposes, and any modifications made will have no impact on the production data.
 
 ## Releases
 
@@ -29,11 +46,12 @@ Currently, our team releases new navigation changes in bundles on **Wednesdays**
 
 We avoid deploying minor or major releases of the navigation on release post days.
 
-### Releasing involves 3 main steps:
+### Releasing involves 4 main steps:
 
 1. Prepping issues for the release
-1. Publishing a new version to npm
-1. Updating any repositories that consume the navigation to point to the new version
+2. Publishing a new version to npm
+3. Updating any repositories that consume the navigation to point to the new version
+4. Publishing any changes made in Contentful
 
 ### Detailed instructions
 
