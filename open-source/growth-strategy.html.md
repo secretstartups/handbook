@@ -63,6 +63,12 @@ Provide an outstanding and efficient contributor experience, from onboarding mat
 * **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/9074>
 * **DRI:** [Product Operations](/handbook/product/product-operations/), [Developer Relations team](/handbook/marketing/developer-relations/) & [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
 
+#### Unified Workflow
+
+* **Why:** By reducing workflows that are unique to team members or wider community members, we can create more clarity to everyone in documentation, automation and communication, delivering a boost in velocity.
+* **Epic:** <https://gitlab.com/groups/gitlab-org/-/epics/11649>
+* **DRI:** [Contributor Success team](/handbook/marketing/developer-relations/contributor-success/)
+
 ### Increase Contribution Value
 
 Incentivize, attract and retain contributors by providing a compelling value and regular recognition of contributors for their work. Contributor career advancement materials and awards.
