@@ -48,12 +48,14 @@ If your customer contacts you requiring technical support, the following options
 
 1. When directing your customer to the **GitLab Support Portal**, please inform them that they should ensure they have been [added as a support contact](https://about.gitlab.com/support/managing-support-contacts/) for their organization otherwise their tickets may be auto-closed (except for Licensing and Renewals tickets). Aligned with this, if your customer requires their colleagues to be able to also submit a support ticket then will also need to provide a list of managed contacts. A customer can add or manage support contacts by following the inscriptions in [Managing contacts](https://about.gitlab.com/support/managing-support-contacts/). Please note that encouraging customers to have a valid support portal account will help streamline the support process and ensure a smoother experience for both the customers and our support team.
 
-1. To request adjustments to licenses, subscriptions, renewals, trials, trial extensions, temp licenses, etc., you can [open an Internal Request](#internal-requests) on behalf of the customer (more details [below](#internal-requests)).
+1. To request adjustments to licenses, subscriptions, renewals, trials, trial extensions, temp licenses, etc., you can [open an Internal Request](#internal-requests) on behalf of the customer (more details [below](#internal-requests)).  
     - **Note:** If the customer already has a license/subscription, and is getting errors while applying it, it's best for the customer to open a Support ticket directly with us.
     - **Note:** To submit the form you must have a [Zendesk Light Agent account](#requesting-a-zendesk-light-agent-account), which all GitLab team members can request. The account also enables team members to see customer tickets in Zendesk, and leave notes for the Support team.
 
 1. In sensitive cases where asking a customer to open a ticket would aggravate a situation, you can open a Support ticket on behalf of the customer.
    - **Note:** You cannot be logged into Zendesk if you choose this option, because Zendesk automatically closes any tickets submitted with `gitlab.com` email addresses. Instead, use a private/incognito window in your browser to submit the ticket. When submitting the ticket, in the "Your email address" field, enter your customer's email address. If you should be CC'd on the ticket, please request it in the ticket body.
+
+External customers should not be cc'd on [Internal Requests](https://gitlab-com.gitlab.io/support/internal-requests-form/). Communication with Customers is only provided through [Support tickets](https://gitlab.zendesk.com) initiated by the Customer themselves, or tickets opened on their behalf.
 
 #### Support does not action out of Slack
 
@@ -143,7 +145,7 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 
 ### Internal Requests
 
-All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/).
+All internal requests regarding licensing, subscriptions, trials, and grace period extensions should be filed using the [GitLab Support Internal Request form](https://gitlab-com.gitlab.io/support/internal-requests-form/). Customers should not be cc'd on Internal Requests.
 
 #### Internal Request SLO
 
