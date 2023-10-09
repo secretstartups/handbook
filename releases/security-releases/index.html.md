@@ -15,7 +15,7 @@ Security vulnerabilities in GitLab and its dependencies are to be addressed foll
 
 At GitLab, we have two types of security releases:
 1. Scheduled: A planned security release to publish all available vulnerability fixes to [the current, and previous two GitLab versions](https://docs.gitlab.com/ee/policy/maintenance.html). Scheduled security releases normally take place after the [monthly release](https://about.gitlab.com/releases/)
-1. Critical: An immediate patch and mitigation is required for a single issue. 
+1. Critical: An unplanned, immediate patch and mitigation is required for a single issue. 
 
 Security releases are prepared in parallel with regular GitLab.com deployments so that continuous deployment is not blocked. In this way we can apply security fixes to GitLab.com instances before the public release. 
 
