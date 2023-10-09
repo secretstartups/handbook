@@ -52,7 +52,6 @@ As shown by the green lines, on GitLab.com system logs flow into GitLab Inc's mo
 
 Note: Snowplow JS and Snowplow Ruby are available on self-managed, however, the Snowplow Collector endpoint is set to a self-managed Snowplow Collector which GitLab Inc does not have access to.
 
-
 ## SaaS Data Collection Catalog
 
 Our SaaS data collection catalog spans both the client (frontend) and server (backend), and uses various tools. We pick-up events and data produced when using the application. By utilizing collected [identifiers](/handbook/product/analytics-instrumentation-guide/#data-used-as-identifiers), we can string these backend and frontend events together to illustrate a GitLab journey at the (1) [user](/handbook/product/analytics-instrumentation-guide/#example-user-journey) (pseudonymized), (2) namespace, and (3) project level.
@@ -63,8 +62,6 @@ The below table explains the types of data we collect from GitLab.com and exampl
 |---|---|---|---|
 | **[Snowplow Tracking](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/)** <br> <br>  - [Snowplow JS Tracker](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/javascript-trackers/): client side (FE) events  <br> -[Snowplow Ruby Tracker](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/ruby-tracker/): server-side (BE) events <br> - Schema of events [here](https://gitlab.com/gitlab-org/iglu/)| Event Based Data   | Examples:  <br>- Collects an event on Git pushes <br> - Collects an event on a button click - Collects an event on a successful Pipeline  <br>- Collects an a request to a Rails controller  |                                                                                    Event based or grouped by an attribute (e.g. session) |
 | **[Service Ping](https://docs.gitlab.com/ee/development/service_ping/)** <br> <br> - PostgreSQL database <br> - Redis in-memory data store <br> - System Logs |                                                                Transactional data | Examples: <br> - Total issues created <br> - Instance settings such as the instance's Git version <br> - Integration settings such as an [external storage provider](https://docs.gitlab.com/ee/administration/static_objects_external_storage.html) | Count based on either total time or given timeframe  |
-
-
 
 
 
@@ -96,8 +93,6 @@ The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/i
 
 ### Metrics Dictionary features
 
-
-
 ![Metrics Dictionary Features](metric_dictionary_handbook.png)
 
 
@@ -110,27 +105,10 @@ The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/i
 1. **Metric Product Section/Stage/Group**. You can display and/or filter by Section, Stage and Group as needed.
 1. **Service Usage Data Category**. View and/or filter by [Service Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) category (Optional, Operational, Subscription).
 
-#### What’s next?
-
-Take a look at our [current thinking about future iterations](https://gitlab.com/groups/gitlab-org/-/epics/6522#iteration-opportunities) and please let us know how we can improve this tool for you and your team!
 
 ## Instrumenting Metrics and Events
 
 Get started with our **[Quick Start Instrumentation Guide ](/handbook/product/analytics-instrumentation-guide/getting-started/)**, which is a single page with links to documentation for the entire instrumentation process flow.
-
-####  Instrumentation Classes
-
-We now have [Metric Instrumentation Classes for Service Ping metrics](https://gitlab.com/groups/gitlab-org/-/epics/5547).
-
-This means that we have deprecated the usage of [`usage_data.rb`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/usage_data.rb) and for adding a new metric we do not change this file. When you add or change a Service Ping Metric, you must migrate the metric to instrumentation classes.
-
-For metrics which are added dynamically, the Analytics Instrumentation team is working to migrate these, see [epic](https://gitlab.com/groups/gitlab-org/-/epics/6140). In the case that a metric from this list is added/removed/changed before Product intelligence team has migrated the metric, the group owning the metric should perform the migration to instrumentation classes during the course of the desired change.
-
-Adding a new metric in Service ping will require adding an instrumentation class and a metric definition, see more in [Metrics Instrumentation guide](https://docs.gitlab.com/ee/development/service_ping/metrics_instrumentation.html).
-
-As we add more support to instrumentation classes, you can follow the progress in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6118).
-
-Note that not all the metrics in Service Ping are migrated to use instrumentation classes, this will be a continuous work and we kindly ask for cross-team collaboration to achieve this.
 
 ### Implementing xMAU metrics
 
@@ -152,29 +130,6 @@ Note: We now enable you to deduplicate aggregated metrics implemented via Redis 
 | Aggregated | Metric contains rolled-up values due to an aggregate function (COUNT, SUM, etc) | Total Page Views (TPV) - the sum of all events when a page was viewed. |
 | Deduplicated | Metric counts each unit of measurement once. | Unique Monthly Active Users (UMAU) - each user_id is counted once |
 | Deduplicated Aggregated | Metric contains a rolled-up value where each unit is counted once. | UMAU is a deduplicated aggregated metric but TPV is not. |
-
-## Version Application
-
-### Main functionalities
-
-[version.gitlab.com](https://gitlab.com/gitlab-services/version-gitlab-com)
-
-- Collects [version check](/handbook/sales/process/version-check/)
-- Render version check.
-- [Service Ping](/handbook/customer-success/csm/service-ping-faq/#what-is-service-ping) data.
-- [Exports Service Ping to GCP](https://gitlab.com/gitlab-services/version-gitlab-com#data-export-using-pipeline-schedules)
-
-### New updated version.gitlab.com distribution schedule
-
-An updated `version.gitlab.com` is provided once per quarter. See the [epic](https://gitlab.com/groups/gitlab-org/-/epics/8074) for more details.
-
-See [issue list](https://gitlab.com/groups/gitlab-org/-/epics?state=opened&page=1&sort=start_date_desc&label_name[]=VersionApp) for work related with VersionApp.
-
-| Date | Issue |
-| --- | --- |
-| 2022-07-22 | [Issue](https://gitlab.com/gitlab-org/analytics-section/analytics-instrumentation/internal/-/issues/567) |
-| 2022-10-22 | [Issue](https://gitlab.com/gitlab-org/analytics-section/analytics-instrumentation/internal/-/issues/575) |
-| 2023-01-22 |  |
 
 ## Finding Reporting Dependencies on Metrics
 Although PMs commonly use Service Ping metrics to measure feature health and product usage, that is not the only use for Service Ping metrics. For instance, the Product Data Insights team relies on Service Ping metrics for xMAU reporting. Additionally, the Customer Success Operations team relies on Service Ping metrics to generate [health scores](https://about.gitlab.com/handbook/customer-success/customer-health-scoring/) for customers.
