@@ -85,7 +85,7 @@ When any changes are required besides those listed below, raise an issue in the 
 
 #### Application Logs Request
 
-1. In the ticket, ask the customer to provide the [required information](https://docs.gitlab.com/ee/administration/dedicated/#inbound-private-link). In this case, it's an **IAM principal**.
+1. In the ticket, ask the customer to provide the [required information](https://docs.gitlab.com/ee/administration/dedicated/#access-to-application-logs). In this case, it's an **IAM principal**.
   - The IAM principal must be an [IAM role principal](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html#principal-roles) or [IAM user principal](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html#principal-users).
 1. Open a [Request for Help issue](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/new?issuable_template=request_for_help) in the GitLab Dedicated issue tracker.
 1. Provide the IAM principal to the Environment Automation team.
