@@ -29,7 +29,7 @@ description: "This page is an overview of the search team alignment and the tale
 | Infrastructure   | Michelle Kemp | Michelle Jubrey |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
 | Security | Holly Nesselroad | Michelle Jubrey |
-| Incubation | Matt Angell  | Alice Crosbie |
+| Incubation | Holly Nesselroad  | Alice Crosbie |
 | Product Management  | Holly Nesselroad | Alice Crosbie |
 | UX  | Riley Smith | Guido Rolli |
 
