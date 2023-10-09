@@ -329,7 +329,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
     - An example of notes could include:
         - 2-3 strengths/accomplishments (and supporting examples)
         - 2-3 improvement areas
-        - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
+        - Anything else noteworthy (I.E. recently promoted or transferred, etc.)
 - Keep the [SBI Model]({{< ref "guidance-on-feedback#s-b-i-model" >}}) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided.
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
@@ -445,6 +445,7 @@ The script below is intended to help you structure your Performance and Growth P
 - ***Exceeding*** (consistently surpassing the demands of their current position)
 - ***Performing*** (“on track” and meeting all expectations of current position)
 - ***Developing*** (room to learn and grow, not currently meeting all expectations of current position)
+- ***Too New To Rate*** (hired or transferred <90 days from the start of the Talent Assessment program)
 
 "I assessed your performance as ***[Insert Performance Factor]*** because:"
 
@@ -537,7 +538,7 @@ The Performance/Growth Potential Factor is one of the factors considered in the 
     - You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
 
 - **My team member has recently been promoted - but we assessed the Performance/Growth Potential prior to the promotion. How do I communicate that to the team member?**
-    - TNow that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
+    - Now that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
 
 
 ### Talent Assessment - Manager Scenarios
