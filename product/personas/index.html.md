@@ -40,10 +40,10 @@ As a result we will also consider:
 
 ##### Organizational Archetype
 
-Organizational archetype describe how organizations have structured their software development process and teams.
+Organizational archetypes describe how organizations have structured their software development process and teams.
 They help us understand common structures and the resulting types of interactions that the personas in those structures experience.
 
-We'll build out descriptions of common organizational archetype as our research continues
+We'll build out descriptions of common organizational archetypes as our research continues
 and introduce new personas that fit into these new organization archetypes.
 
 It can happen that a persona from one organizational archetype will have similar jobs-to-be-done,
