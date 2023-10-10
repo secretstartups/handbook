@@ -180,9 +180,9 @@ Once the temporary renewal extension is created, the evidence of it can be seen 
 | Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
 | Customer account belongs to a trade restricted country | Customers with the SoldTo address in [these countries](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6431#proposal) are not eligible for a temporary extension. |
 
-## Billing & Subscription Management Features
+## Subscription Management Features
 
-List of features managed by the [billing and subscription management group](https://about.gitlab.com/direction/fulfillment/billing-and-subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
+List of features managed by the [subscription management group](https://about.gitlab.com/direction/fulfillment/subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
 
 #### Subscription Renewal and Auto-Renewal
 
