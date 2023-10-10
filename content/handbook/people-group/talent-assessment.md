@@ -291,7 +291,7 @@ The calibration session is one of the most important pieces of the Performance/G
 - Refer to the competencies and values when deciding what is relevant.
 - Focus on facts and avoid blanket statements (I.E. [team member] has poor communication)
 - Calibration is not a stack ranking of team members. While some inter-person comparison may happen, it should only be to ensure that evaluations are being applied fairly across different raters.
-- **Ask questions and provide feedback!** This may seem obvious, but it is important aspect to help identify any potential bias
+- **Ask questions and provide feedback!** This may seem obvious, but it is an important aspect to help identify any potential bias
 
 ##### Who Do I Calibrate?
 
