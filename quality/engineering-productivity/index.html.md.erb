@@ -145,9 +145,9 @@ The Engineering Productivity team has diverse responsibilities and reactive work
 
 ### Weighting
 
-We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability. 
+We follow the [department weighting guidelines](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/#weights) to relatively weight issues over time to understand a milestone velocity and increase predictability.
 
-When weighting, think about knowns and complexity related to recently completed work. The goal with weighting is to allow for some estimation ambiguity that allows for a consistent predictable flow of work each milestone. 
+When weighting, think about knowns and complexity related to recently completed work. The goal with weighting is to allow for some estimation ambiguity that allows for a consistent predictable flow of work each milestone.
 
 ### Prioritization activities
 
@@ -326,7 +326,7 @@ See <https://docs.gitlab.com/ee/development/pipelines/index.html#predictive-test
 
 #### Fail-fast job
 
-There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelines/#fail-fast-job-in-merge-request-pipelines) in each merge request pipeline aimed to run all the RSpec tests that provide coverage for the code changes, hence are most likely to fail. It uses the same [test_file_finder](https://gitlab.com/gitlab-org/ci-cd/test_file_finder) gem for test mapping. The job provides faster feedback by running early and stops the rest of the pipeline right away if any of the fail-fast job tests fail.
+There is a [fail-fast job](https://docs.gitlab.com/ee/development/pipelines/#fail-fast-job-in-merge-request-pipelines) in each merge request pipeline aimed to run all the RSpec tests that provide coverage for the code changes, hence are most likely to fail. It uses the same [test_file_finder](https://gitlab.com/gitlab-org/ruby/gems/test_file_finder) gem for test mapping. The job provides faster feedback by running early and stops the rest of the pipeline right away if any of the fail-fast job tests fail.
 Take a look at this [youtube video](https://www.youtube.com/watch?v=FCCbxZky5Nk) for details on how [GitLab](https://gitlab.com/gitlab-org/gitlab) implements the fail-fast job with test_file_finder.
 Note that the current design only works with low-impacting merge requests which are only mapped to a small set of tests. If there is a large number of tests that are likely to fail for a merge request, putting them in a single job is not feasible and could result in a long-running bottleneck which defeats its purpose.
 
