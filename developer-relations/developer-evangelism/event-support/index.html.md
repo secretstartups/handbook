@@ -54,7 +54,7 @@ Our team provides support to new and experienced speakers where necessary. These
 
 People who regularly speak about GitLab may be interested in joining the [GitLab Speakers Bureau](/handbook/marketing/developer-relations/developer-evangelism/speakers-bureau/).
 
-#### Comprehensive list of booth assets
+### Comprehensive list of booth assets
 
 1. Click-through demos: [GitLab Duo (AI) demos](https://tech-marketing.gitlab.io/static-demos/ai-demos.html), [Remote Development workspaces](https://tech-marketing.gitlab.io/static-demos/workspaces/ws_html.html), [Feature flags](https://tech-marketing.gitlab.io/static-demos/feature-flags/feature-flags-html.html), [CI Overview - (2020)](https://tech-marketing.gitlab.io/static-demos/ci_overview_v1.html). 
 2. Live demos: dynamic demonstrations that can be used to showcase specific scenarios or dive deeper into features. Use the following prjects: 
