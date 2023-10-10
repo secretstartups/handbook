@@ -30,7 +30,7 @@ to sign up to be responsible for certifying monthly releases. These assignments 
 
 The certification process can only begin once it is completely certain that
 no new JiHu contributions will be included in the release. The recommended time to begin is during the
-`21st: one day before the release` section of the release task, which specifies that `no new code can be added to the release`.
+`day before the release` section of the release task, which specifies that `no new code can be added to the release`.
 
 Once it is certain that no new JiHu contributions will be added, follow the steps below:
 
