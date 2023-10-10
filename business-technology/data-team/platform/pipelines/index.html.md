@@ -368,7 +368,7 @@ as in
 
 These IDs are generated from dbt seed files which we use to identify internal groups and projects. If a project or group needs to be included it needs to be added to one of these CSVs
 * [`internal_gitlab_namespaces.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/internal_gitlab_namespaces.csv)
-* [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv)
+* [`projects_part_of_product.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product.csv)
 * [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv)
 
 ### Testing in Airflow
