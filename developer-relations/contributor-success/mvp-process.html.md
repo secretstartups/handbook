@@ -37,11 +37,11 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
 1. Share the post in `#release-post`, `#developer-relations`, `#mr-coaching`, and `#core`.
 1. Link the nomination issue in the `#announcements` Discord channel.
 1. Encourage team members and the wider community to vote by sharing reminders in the above Slack and Discord channels. 
-  - Complete by 12th of the month or earliest business day.
+  - Complete by the Monday before the MVP is selected.
 1. Select the MVP in the nomination issue by choosing the [eligible nominee](/handbook/marketing/developer-relations/contributor-success/mvp-process.html#mvp-eligibility) with the most votes
   - Votes are cast as :thumbsup: emoji under the nominee thread in the issue. Other emoji are not counted, but if a vote is close please remind voters they must use the :thumbsup: to vote.
-  - Complete by 15th of the month or earliest business day.
-  - If no MVP nominations have been added to the MVP issue by the 15th or earliest business day, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
+  - Complete by the second Thursday of the month.
+  - If no MVP nominations have been added to the MVP issue by the second Thursday of the month, resend reminders to the Slack/Discord channels by sharing the original solicitation posts again. Ping the channel and note the lack of nominations and due date. E.g. in #developer-relations:
       ```md
       @community-team - We only have one (or none) MVP nomination. I’m going to wait until the end of the day, 12pm UTC for other nominations. Please nominate a community contributor that delivered something great for X-Y!
       ```
@@ -54,7 +54,7 @@ Each release post GitLab recognizes a community contributor as the MVP ("Most Va
   - Add release version, MVP name, user handle, release post date and release post URL
   - Assign another Contributor Success team member to review/merge and double check the merge request is targeting the correct release branch
   - Ping the [release post manager](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_post_managers.yml) into the MR for awareness.
-  - Merge by 20th of the month
+  - Merge by the Tuesday of release week.
 1. Award the MVP winner with the MVP achievement using the `MVP Achievements` group access token from the Contributor Success vault.\
    NOTE: You will need the [1Password cli](https://about.gitlab.com/handbook/security/password-guidelines.html#cli-integration) installed:
    ```shell
@@ -100,7 +100,7 @@ The MVP write-up section should:
   - Correct and working links for user information, issues, MRs, etc.
   - Correct spelling of names, organizations, product features, etc.
   - Correct [prounoun](/handbook/people-group/pronouns/) usage
-- The write-up should be submitted by the 20th of the month to the `data/release_posts/x_y/mvp.yml` file targeting the specific release branch
+- The write-up should be merged by the Tuesday of release week to the `data/release_posts/x_y/mvp.yml` file targeting the specific release branch
 
 You can use the sample message below when pinging the MVP winner and team members into the merge request:
 ```
@@ -119,7 +119,7 @@ Please let us know if there are any details you would like us to highlight about
 
 I'm also pinging **{NOMINATOR}** **{COMMENTER}** who either nominated or commented on your contributions in the **{NOMINATION_ISSUE}**. They can also chime in with anything worth noting for the release post write-up or a quote about your contributions.
 
-Our deadline for submitting this write-up is the 20th of **{MONTH}** so we only have a few days to put this together. If we don't hear back or you don't have the time we will do our best to put something together! The **{X.Y}** release post will go live on the [release date](/handbook/engineering/releases/).
+We only have a few days to put this together. If we don't hear back or you don't have the time we will do our best to put something together! The **{X.Y}** release post will go live on the [release date](/handbook/engineering/releases/).
 
 Finally we will work to get your GitLab swag sent over soon!
 ```
