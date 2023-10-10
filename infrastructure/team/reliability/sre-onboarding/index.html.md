@@ -227,11 +227,11 @@ export HISTTIMEFORMAT="%d/%m/%y %T "
 1. Digital Ocean cli (`brew install doctl`)
 1. Azure cli (`brew install azure-cli`)
 1. AWS cli (`pip3 install awscli --upgrade`)
-1. A text editor such as [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/), [Textmate](https://macromates.com), [MacVim](http://macvim-dev.github.io/macvim/), or [neovim](https://neovim.io)
+1. A text editor such as [Sublime](https://www.sublimetext.com/), [Textmate](https://macromates.com), [MacVim](https://macvim.org/), or [neovim](https://neovim.io)
 1. watch (`brew install watch`)
 1. tmux/tmate (`brew install tmux tmate`)
 1. A markdown editor such as [macdown](https://macdown.uranusjr.com) (`brew install macdown`)
-1. [BitBar](https://getbitbar.com) with [GitLab Plugin](https://gitlab.com/dsylva/gitlab-bitbar)
+1. [BitBar](https://github.com/matryer/xbar) with [GitLab Plugin](https://gitlab.com/devin/gitlab-bitbar)
 1. To [install gnu utils and replace mac utilities]( https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities) use the --with-default-names option.
 1. when using gpg, you will be asked for a password. Querying for passwords can be facilitated by different tools, but a fairly standard and widely supported one is pinentry-mac (`brew install pinentry-mac`). To tell your gpg agent to use it: `echo 'pinentry-program /usr/local/bin/pinentry-mac' >> ~/.gnupg/gpg-agent.conf`
 
@@ -242,10 +242,10 @@ There are sample brew files in the [Infrastructure Project](https://gitlab.com/g
 
 ### iOS apps
 
-1. [Slack](https://itunes.apple.com/us/app/slack/id618783545?mt=8)
-1. [Zoom](https://itunes.apple.com/us/app/zoom-cloud-meetings/id546505307?mt=8)
-1. [PagerDuty](https://itunes.apple.com/us/app/pagerduty/id594039512?mt=8)
-1. [Working Copy](https://itunes.apple.com/us/app/working-copy/id896694807?mt=8) (Optional)
+1. [Slack](https://apps.apple.com/us/app/slack/id618783545)
+1. [Zoom](https://apps.apple.com/us/app/zoom-cloud-meetings/id546505307)
+1. [PagerDuty](https://apps.apple.com/us/app/pagerduty/id594039512)
+1. [Working Copy](https://apps.apple.com/us/app/working-copy/id896694807) (Optional)
 
 ## Reference Material
 
