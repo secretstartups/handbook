@@ -89,8 +89,6 @@ _last updated: April 2023_
 | **How is this notification controlled?** | We first check if we're enforcing via `automatic_purchased_storage_allocation` application setting ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/root_excess_size.rb#L42)) and then we check if the criteria is met. The Application Setting used to determine the limit is `repository_size_limit` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/ee/namespace.rb#L251)). Currently the [limit is `10 GB`](https://docs.gitlab.com/ee/user/usage_quotas#project-storage-limit) and can only be set to the whole GitLab instance. | Same. See [issue](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1388515713) | 
 | **Links** | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/371674) and [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli)  | 
 
-
-
 #### Group Namespace Storage Enforcement
 
 **Purpose**: document what notifications customers can expect to see as part of the group namespace storage enforcement project. [FAQ](https://about.gitlab.com/pricing/faq-paid-storage-transfer/) / [docs](https://docs.gitlab.com/ee/user/usage_quotas#namespace-storage-limit).
@@ -123,6 +121,64 @@ As of 2023-06-28, customers who have purchased a GitLab subscription through an 
 Please keep in mind:
 * Customers do not have access to the invoices, because those are owned by the reseller.
 * Resellers do not have access to the Customers Portal or to their customers' accounts.
+
+## Temporary renewal extensions
+
+_Last updated on 2023-10-09._
+
+| Use Case | Status |
+|---|---|
+| Temporary extensions for **Self-Managed** renewals | Development of this feature is nearly finished, [BETA rollout](#beta-rollout) is being planned. |
+| Temporary extensions for **SaaS** renewals | Development not started. Discovery and planning in progress. |
+
+In the event that a renewal process takes longer then intended (e.g. customer takes longer than average to sign renewal deal), customers run into a problem when their license expires at the subscription term end and they lose complete access to their GitLab instance (Self-managed or SaaS).
+
+Temporary Renewal Extension is an internal feature built in SFDC, and is accessible from a Renewal Opportunity. It enables any Sales Rep to generate the extension on their own, without contacting Support. Extension can be generated 1-15 days before subscription end date, with a default expiration date of 21 days after subscription end date (followed by the [grace period of 14 days](https://docs.gitlab.com/ee/subscriptions/self_managed/#subscription-expiry)).
+
+Additional context about this feature can be found [here](https://gitlab.com/groups/gitlab-org/-/epics/10173), including a [visual timeline](https://gitlab.com/groups/gitlab-org/-/epics/10173#timeline-of-events) of subscription events related to the temporary renewal extensions.
+
+Please share your feedback about this feature in [this issue](https://gitlab.com/gitlab-org/fulfillment/meta/-/issues/1514).
+
+### Beta rollout
+
+BETA access to **temporary extensions for Self-Managed renewals** is being rolled via [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/4544) (confidential).
+
+### Creating an extension
+
+Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an overview of creating an extension. The process is also described below.
+
+1. Go to the SFDC Renewal Opportunity that needs additional processing time.
+1. Click on `Request Temporary License` button. _If you are not part of the beta group, you will see an error message._
+1. Temporary License form will load, and display the related OpportunityID and ZuoraSubscriptionID.
+1. Select `Reason` from the drop down, specify number of `Users` for the license, add optional `Notes`, then click `Next`.
+1. Once the extension is created, you will see a success message. Otherwise, you will see an [error message](add-link).
+1. Several updates happen for a successfully created temporary extension:
+   1. `Temporary License Extension End Date` field on the SFDC Renewal Opportunity is updated with a date (equal to subscription end date + 21 days).
+   1. Temporary extension record appears on [CustomersDot Admin > Temporary Extensions page](https://customers.gitlab.com/admin/temporary_extension_history).
+   1. For self-managed, a legacy trial license is created and can be accessed from the Temporary extension record in CustomersDot Admin.
+   1. An email is sent to the customer with the subject line `[GitLab Transactions] GitLab Temporary Renewal Extension`. For self-managed, a license key is included in the email.
+      * This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
+   1. `Access temporarily extended until YYYY-MM-DD` badge is displayed on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
+
+### Viewing and using the extension
+
+Once the temporary renewal extension is created, the evidence of it can be seen in a few places.
+
+* SFDC Renewal Opportunity has `Temporary License Extension End Date` field populated with a date when the extension expires.
+* [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
+* Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
+   * For self-managed, customer can download the license key and apply it to their instance.
+* Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed.
+
+### Possible errors when creating an extension
+
+| Error | Description |
+|---------|-----------|
+| Request date is not within the allowable range of 15 days prior to subscription term end date | Temporary extension must be created 1-15 days before subscription end date. |
+| Subscription has already availed an extension in the current renewal term | There can only be one 21-day temporary extension per renewal. No additional extensions are allowed. |
+| Subscription has an upcoming extension starting on YYYY-MM-DD | There is an existing temporary extension for the renewal, which hasn't started yet. |
+| Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
+| Customer account belongs to a trade restricted country | Customers with the SoldTo address in [these countries](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6431#proposal) are not eligible for a temporary extension. |
 
 ## Billing & Subscription Management Features
 
