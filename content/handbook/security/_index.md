@@ -163,6 +163,53 @@ For most simple functions, this shouldn't an issue. However, it is possible that
 
 You can then choose to use this new service account via the option under **Advanced Settings -> Advanced -> Service account**.
 
+##### GitLab Demo and Test Instances
+
+Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.
+
+###### IP Filtering
+
+A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each test instance you create whether its a GitLab instance or otherwise. For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore reducing the attack surface of the GitLab organization as a whole.
+
+If you don’t know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it. The steps to implement IP filtering will differ per cloud environment. Below you can find a detailed guide maintained by the support engineering team.
+
+- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/content/ip%20filtering/ip_filtering_test_instances.md)
+
+In addition, you can find official, platform-specific documentation of features involved in implementing IP filtering:
+
+- [Google Cloud](https://cloud.google.com/vpc/docs/using-firewalls#creating_firewall_rules#console)
+- [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+- [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
+
+IP filtering should be set up and used for when hosting any version of GitLab with known and disclosed vulnerabilities.
+
+###### Classified Data
+
+Do not host or store classified data on test or demo instances.
+
+For public-facing instances, only Green data is allowed.
+
+RED data should never be copied to or stored on test or demo instances.
+
+###### Clean Up
+
+Test instances should be ephemeral.
+
+When you've finished testing, or you've finished your demo, shut down or destroy the test environment.
+
+###### Upgrade regularly
+
+For test or demo instances that will be live for any extended period of time, it's important to regularly update and upgrade GitLab and other software on the machine to ensure you're running with all the latest security patches.
+
+###### Secure GitLab Application Settings
+
+- Disable New User Registration
+- Do not use instance-level shared Runners
+
+###### Use HTTPS
+
+To be in line with [GitLab’s encryption policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources. For GitLab instances, you can use the [LetsEncrypt integration](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance). [Let’s Encrypt](https://letsencrypt.org/) is enabled by default if `external_url` is set with the HTTPS protocol and no other certificates are configured.
+
 #### Other Services/Devices
 
 1. Do not configure email **forwarding** of company emails (@gitlab.com) to a
