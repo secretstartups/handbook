@@ -66,7 +66,7 @@ please visit [the parent epic](https://gitlab.com/groups/gitlab-org/-/epics/6995
 
 **Description:** A dedicated runner is a runner that would only be registered to a specific project, group, or instance and not be shared with other users.
 With this project GitLab will spin up dedicated runner resources within the Dedicated cloud account.
-The parent epic tracking this work can be [found here](https://gitlab.com/groups/gitlab-org/-/epics/10073).
+The project plan tracking this work can be [found here](https://gitlab.com/gitlab-org/ci-cd/shared-runners/infrastructure/-/issues/158).
 
 ### Iteration 16.5 (ending 2023-10-19)
 
@@ -82,5 +82,16 @@ The parent epic tracking this work can be [found here](https://gitlab.com/groups
 
 #### Goals:
 
-- [ ] Consolidate all work under a single sub-epic. 
+- [X] Consolidate all work under a single sub-epic. 
   Update issue and epic structure to reflect our agreement to deliver infrastructure-as-a-library (GRIT) and for Environment Automation to operate the runners themselves.
+
+### Week of 2023-10-09
+
+Clarified epic and issue structure with Dedicated ([thread](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/2825#note_1586917812)).
+New project plan for Runner side to replace previous epic: https://gitlab.com/gitlab-org/ci-cd/shared-runners/infrastructure/-/issues/158
+New GRIT sub-epic to track all library work for this use-case: https://gitlab.com/groups/gitlab-org/ci-cd/runner-tools/-/epics/2 
+
+#### Goals:
+
+- [ ] Create a provisional Docker capable Linux AMI
+- [ ] Update [`dev` environment](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/blob/master/modules/dev/dev.tf) to support Linux.
