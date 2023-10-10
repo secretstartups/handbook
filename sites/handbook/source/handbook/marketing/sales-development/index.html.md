@@ -46,7 +46,7 @@ As a Sales Development Representative (SDR) or Business Development Representati
 
 **APAC**
 * **SDR APAC - (Manager - Glenn Perez)** = [`#sdr_emea_apac_inbound`](https://gitlab.slack.com/archives/C031T0LF6NL)
-* **BDR ENTG APAC - (Manager - Peter Voon)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
+* **BDR ENTG APAC - (Manager - Elsje Smart)** = [`#bdr_entg_apac`](https://gitlab.slack.com/archives/C0327R1NZBK)
 
 **Please acknowledge any Slack messages from your managers in your Slack channels, if you have nothing to say at least be creative and funny with emoji so they know you are seeing their requests and updates and are not talking to an empty room!**
 
@@ -1260,16 +1260,6 @@ The Enterprise Land BDR team is responsible for creating qualified meetings and 
 AMER Enterprise BDRs are aligned by accounts - [see Salesforce report](https://gitlab.my.salesforce.com/00O4M000004aftz).
 
 If you are trying to route a lead and the account is First Order Available and does NOT have an BDR Assigned on the account, please chatter Shamit Paul and she will assign to the BDR via round robin routing.
-
-### EMEA Enterprise Land Alignment
-
-| **Role**         |  **BDR**             |  **Lead & Account Assignments**      |
-| :------------- |  :--------------------------------- | :----------------- |
-| Northern Europe - Land       |  Kalyan Nathadwarawala   |  UKI   |
-| NE & MEA - Land       |  Wasan Al-Nahi   |  UKI(Warren), Benelux(Nasser), Middle East, Africa  |
-| Nordics - Land      |  Sarah Van Damme  |  Nordics, Benelux(Aslihan)  |
-| Southern Europe - Land       |  Romain Santos   | France, Southern Europe  |
-| DACH - Land       |  Christopher Allenfort   | DACH (Germany, Switzerland, Austria)  |
 
 ### Expectations
 
