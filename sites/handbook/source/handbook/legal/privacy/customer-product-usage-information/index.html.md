@@ -78,7 +78,7 @@ _Opting-Out_: Each of the four Service Ping categories have different parameters
     - <ins>Free and Paid SaaS users</ins>: You cannot opt-out of Standard Data for any of our SaaS offerings.
 
 ### Snowplow
-_Purpose_: GitLab operates a product intelligence platform in our infrastructure called Snowplow to collect user-level interactions within the SaaS version of the Software (e.g., viewing a specific page, clicking a button, etc).  This allows us to provide detailed usage information to customers and it allows us to understand how users navigate the product.  Unlike with Service Ping, the Metrics collected are not aggregated across an entire instance or namespace, but are attributable to a specific user, subject to a subsequent pseudonymization process.  For more information on Snowplow, please see our comprehensive [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/).
+_Purpose_: GitLab operates a product intelligence platform in our infrastructure called Snowplow to collect user-level interactions within the SaaS version of the Software (e.g., viewing a specific page, clicking a button, etc).  This allows us to provide detailed usage information to customers and it allows us to understand how users navigate the product.  Unlike with Service Ping, the Metrics collected are not aggregated across an entire instance or namespace, but are attributable to a specific user, subject to a subsequent pseudonymization process.  For more information on Snowplow, please see our comprehensive [Internal Analytics documentation](https://docs.gitlab.com/ee/development/internal_analytics/).
 
 _Applicable Software_: Snowplow collects Metrics from free and paid SaaS users.
 
