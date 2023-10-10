@@ -42,7 +42,6 @@ There are 3 issue templates in [this directory](https://gitlab.com/gitlab-com/bu
 </div>
 </div>
 
-
 ## How to Create New or Update a SKU
 
 It is the Business Sponsor's responsibility to provide information and obtain required approvals for the SKU changes being requested. Steps 1-4 of the SKU issue template must be completed and have required approvals obtained before the SKU can be configured. **Please assign the SKU Request issue to yourself by clicking on the `Edit` button on the right-hand panel of the issue.**
@@ -108,7 +107,10 @@ In the issue template, three asterisks are considered a "non-standard" configura
 {: .alert .alert-warning}
 
 1. `Rate Plan Name`
-    - This is the customer facing name of the SKU
+    - This is the customer facing name of the SKU. The `Rate Plan Name` should be be in the format of `Deployment type - Name`. Some examples:
+   1. `Self Managed - Ultimate`
+   1. `SaaS - Ultimate`
+   1. `Dedicated - Ultimate`
 1. `Rate Plan Charge Description`
     - For webstore checkout, this is a short description displayed to customers
     - For sales-assisted, this is a short description of the product displayed when quoting
