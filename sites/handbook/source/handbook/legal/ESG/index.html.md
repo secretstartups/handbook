@@ -68,7 +68,7 @@ GitLab and SuitUp are teaming up to provide virtual volunteer opportunities for 
    - Sign up to be a volunteer [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/34178)  
 
 
-#### In Kind Support & Matching Gifts Program
+#### In Kind Support
 
 **GitLab for Nonprofits** 
 
@@ -123,6 +123,8 @@ While GitLab for Nonprofits Program benefits do not include product [support](ht
 - Post questions in the [GitLab Forum](https://forum.gitlab.com/), where community members and GitLab team members can review and discuss them.
 - File bug reports and breaking behaviors [as issues](https://gitlab.com/gitlab-org/gitlab/-/issues) for product teams to review and address.
 
+#### Matching Gifts Program 
+ 
  At this time, GitLab does not offer a matching gifts program. 
 
 ### Membership Requests (non-monetary)
