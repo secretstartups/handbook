@@ -51,6 +51,5 @@ Quota and compensation will be assigned by the BDR/SDR Manager and discussed in 
 - Questions about onboarding? Drop them in the #new_team_members slack channel
 
 ## Manager Responsibilities
-- [Resources for Sales Development Leadership](/handbook/marketing/sales-development/sdr-manager-resources/#onboarding)
 - [SDR New Hire 1:1 Template](https://docs.google.com/document/d/1hiIksiDQjZBYCevA36J5Tfa4_bItuDuDOisfIK93Ihw/edit?usp=sharing)
 - [BDR New Hire 1:1 Template](https://docs.google.com/document/d/1ymdIfeGhFzFLJkz0_1qZhzVlLMaTpNaiTowfdbVJEao/edit?usp=sharing)

@@ -59,7 +59,7 @@ As a Sales Development Representative (SDR) or Business Development Representati
 |  [GitLab LevelUp Training channel](https://levelup.gitlab.com/learn/) |
 |  [Sales handbook page](/handbook/sales/) |
 |  [Go to Market page](/handbook/sales/field-operations/gtm-resources/) |
-|  [Sales Development Org Manager resources page](/handbook/marketing/sales-development/sdr-manager-resources) |
+|  [Sales Dev Tools and Manager Resources](/handbook/marketing/sales-development/sales-development-tools/) |
 |  [Sales Development Org job family/levels](https://handbook.gitlab.com/job-families/marketing/sales-development-representative/) |
 
 
@@ -1461,7 +1461,7 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
     * Send your announcement to one of the people in the positions above depending on the type of announcement
     * If the request has to do with enablement, reach out to the Sales Dev Enablement Manager
 * Where can I find info on how to title my Sales_Dev_FYI posts?
-    * You can find the logic behind our naming convention on [this handbook page](/handbook/marketing/sales-development/sdr-manager-resources/#sales_dev_fyi-channel-information)
+    * You can find the logic behind our naming convention on [this handbook page](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#sales_dev_fyi-channel-information)
 
 
 ## Issue Boards & Team Labels
