@@ -108,6 +108,7 @@ Please reach out to your aligned People Business Partner (PBP) to engage in the 
 - [Team member Engagement tools]({{< ref "talent-assessment#impact-of-being-identified-as-key-talent" >}})
 - [Coaching]({{< ref "coaching" >}}) guidance
 - An unbiased third party to discuss issues or problems and possible ideas for next steps
+- [Organizational Design]({{< ref "/handbook/people-group/organizational-design" >}})
 
 {{< people-business-partners >}}
 
