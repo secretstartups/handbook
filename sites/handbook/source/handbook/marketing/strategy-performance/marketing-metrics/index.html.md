@@ -436,7 +436,7 @@ Given the way that our systems are connected and synched, you may see a discrepa
 ## Field Marketing Metrics 
 This section will go into specifics on the workflow for a Field Marketer to check their results.
 
-At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns. 
+At the highest level, Field Marketing is responsible for helping to progress MQLs with the rest of the Integrated Marketing team. Those MQLs will ultimately create [Sales Accepted Opportunities](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities) by the Sales Development team.  We also track campaign contribution to the sales pipeline as well as velocity of the opportunities that interact with our campaigns. 
 
 Field Marketing also has an 8X spend to pipeline goal. So if the company gives us $1, we need to give $8 in pipeline back. 
 
