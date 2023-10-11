@@ -66,7 +66,7 @@ description: "Operations, Procedures, Documentation"
 | SAE | Strategic Account Executive |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| [SAO](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative - inbound focused |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
@@ -869,7 +869,7 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
 **0-Pending Acceptance**: This is the initial stage once an opportunity is created.
 
 - What to Complete in This Stage:
-    - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity).
+    - For BDR/SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunities).
     - The BDR/SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: GitLab Introductory Meeting - {{Account Name}}
     - Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to the next stage and the `Amount` field must be populated with estimated pipeline. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
     - If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAE or AE should move the opportunity to an `9-Unqualified` stage (this is the only time an opportunity can move into `9-Unqualified` stage) 
