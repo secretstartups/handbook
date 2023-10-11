@@ -7,7 +7,7 @@ description: "Review of organizational health metrics and capability on a regula
 
 To further our principles of responsible growth, we review organizational health metrics and capability on a regular cadence.
 
-In addition to ongoing company level review and People Group KPIs, People Business Partners provide insights and recommendations to senior leaders based on organizational health metrics at a Division level.  A holistic review of organizational health metrics such as growth rate, turnover, promotion rate, engagement data, organizational shape, span of control, [Single Points of Failure](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-and-single-points-of-success-spos) and DIB metrics support leaders in making data-driven talent decisions, such as organizational design, budget planning, and headcount planning.
+In addition to ongoing company level review and People Group KPIs, People Business Partners provide insights and recommendations to senior leaders based on organizational health metrics at a Division level.  A holistic review of organizational health metrics such as growth rate, turnover, promotion rate, engagement data, organizational shape, span of control, [Single Points of Failure](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#key-talent-and-single-points-of-failure-spof) and DIB metrics support leaders in making data-driven talent decisions, such as organizational design, budget planning, and headcount planning.
 
 You can review more on our organizational structure on this [handbook page](https://about.gitlab.com/company/team/structure)
 
