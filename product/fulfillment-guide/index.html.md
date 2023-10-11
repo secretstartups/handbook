@@ -180,6 +180,25 @@ Once the temporary renewal extension is created, the evidence of it can be seen 
 | Customer account labeled as having bad debt | Billing team has identified this account as having bad debt. You will see either of these fields populated on the Zuora Billing Account: `Support hold`, `Credit hold`. |
 | Customer account belongs to a trade restricted country | Customers with the SoldTo address in [these countries](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6431#proposal) are not eligible for a temporary extension. |
 
+### Accessing GCP logs
+
+Logs related to the Temporary Renewals Extension functionality can be accessed via GCP using this filter: `jsonPayload.functionality="temporary_extension"` ([example](https://cloudlogging.app.goo.gl/YH939WC5G5H56hbm6)).
+
+Logs can be narrowed down by workflow:
+
+| Worfklow | Filter | Example |
+|--------------|-------------- |------------------|
+| API request | `jsonPayload.workflow="api_request"` | [link to example](https://cloudlogging.app.goo.gl/KYHFRHAitHVnVFsL9) |
+| Guardrail | `jsonPayload.workflow="guardrail_check"` | [link to example](https://cloudlogging.app.goo.gl/A41vZPYJSM8RwdpP6) |
+| Self-managed extension | `jsonPayload.workflow="create_sm_extension"` | [link to example](https://cloudlogging.app.goo.gl/UsWNtG3HPS8XaHqu9) |
+
+Additional attributes can be applied:
+
+| Attribute | Filter | Example |
+|--------------|-------------- |------------------|
+| `subscription_id` | `jsonPayload.zuora_subscription_id="8a8aa0008aff6981018b0619305f4d1d"` | [link to example](https://cloudlogging.app.goo.gl/JvfMNogyuA1HyGA59) |
+| `salesforce_opportunity_id` | `jsonPayload.salesforce_opportunity_id="8a8aa0008aff6981018b0619305f4d1d"` | [link to example](https://cloudlogging.app.goo.gl/LZTuShAukfHwAEU87) |
+
 ## Subscription Management Features
 
 List of features managed by the [subscription management group](https://about.gitlab.com/direction/fulfillment/subscription-management/) within the [Fulfillment section](https://about.gitlab.com/direction/fulfillment/).
