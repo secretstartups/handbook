@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Intro to CI/CD
-##### October 10th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_gd0y9qIcTE--RAosMmaoFQ#/registration)
-
 #### Hands-On GitLab CI Workshop 
 ##### October 11th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
 
@@ -92,13 +85,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Intro to CI/CD
-##### October 10th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
-
-Come learn about what CI/CD is and how it can benefit your team. We will cover an overview of CI/CD and what it looks like in GitLab. We will also cover how to get started with your first CI/CD pipeline in GitLab and the basics of GitLab Runners.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_k-VsIi0oTGujfTYfUEFbmQ#/registration)
 
 #### Hands-On GitLab CI Workshop 
 ##### October 11th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CET
