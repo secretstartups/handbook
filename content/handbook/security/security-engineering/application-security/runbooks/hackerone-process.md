@@ -100,6 +100,7 @@ the responsible engineering team:
           - `00 - Triaged with Bounty` for medium, high, and critical reports which do have an initial bounty at time of triage
         - In the comment, include link to the confidential issue
     - Update the CVE issue and Bug Bounty Council note with relevant details, while they are still fresh in your mind
+      - If the CVSS score is higher on GitLab.com than self-managed, calculate both scores and share them in the Bug Bounty Council issue. If the council agrees that security impact is higher on GitLab.com than self-managed, bounty award will be based on the CVSS for GitLab.com. The CVE and security release blog post will always use the self-managed CVSS.
     - If you relied on the HackerOne Triage Team's validation of the issue, consider setting time in your calendar to validate it yourself. This will help if you need to validate the fix later.
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
@@ -294,7 +295,7 @@ The report includes a new vulnerability, for which a patch is not available, or
   - A patch has been available for more than 30 days.
   - It has a clear and working proof of concept that illustrates the impact to GitLab.
   - It has Critical or High impact to GitLab.
-  
+
 This does not include websites of third party software and services and only includes dependencies & packaged software.
 
 ## Awarding Ultimate Licenses
