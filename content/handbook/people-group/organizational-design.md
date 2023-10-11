@@ -67,7 +67,7 @@ Examples of Single Points of Failure and potential risk mitigation strategies in
 
 - Potential Mitigation Stategies: Work distribution - Review whether other senior ICs on the team can partner with this individual to take on/support some of their scope so moving forward knowledge is less concentrated. Knowledge sharing - when this individual is called in to support incidents, ask that another team member "shadows" the process and resolution for real time learning.
 
-1. Key leader 
+1. Key leader
 
 - Scenario: We have a critical leader on the team who has a significant portion of the company in their organization, a high span of control (SPOC), and who has become critical for the efficiency of cross-functional initiatives with company-wide impact. A significant part of our ARR is directly influenced by this individual, and the majority of the managers under them are new to management and leadership. If this individual were to depart GitLab, there would be no one who could step in even temporarily to pick up the work without significant impact to business continuity.
 
