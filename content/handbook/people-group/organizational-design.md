@@ -3,7 +3,7 @@ title: Organizational Design Health and Capability Reviews
 description: "Review of organizational health metrics and capability on a regular cadence is a key tenent of respsonsible growth."
 ---
 
-# Introduction
+## Introduction
 
 To further our principles of responsible growth, we review organizational health metrics and capability on a regular cadence.
 
@@ -17,7 +17,7 @@ Throughout the year, People Business Partners (PBPs) can access organizational h
 
 In addition to the ongoing review of organizational health trends throughout the year, we have two formal touchpoints built in to ensure cross functional alignment to our organizational design strategy, and to inform budget planning.
 
-At a Division level, we review organizational design capability on the following cadence: 
+At a Division level, we review organizational design capability on the following cadence:
 
 #### Q1: Organizational Design Kickoff
 
@@ -27,7 +27,7 @@ At a Division level, we review organizational design capability on the following
 
 #### Q3: Organizational Design Planning
 
-**Purpose:** Assess organizational capability and gaps leveraging a prepared summary of current organizational health metrics and trends in advance of Q4 Talent Assessment and [Annual Planning](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#fy25-plan-milestones). 
+**Purpose:** Assess organizational capability and gaps leveraging a prepared summary of current organizational health metrics and trends in advance of Q4 Talent Assessment and [Annual Planning](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#fy25-plan-milestones).
 Identify single points of failure and proposed mitigation strategies, including budget required to mitigate.
 
 **Process:** In collaboration with People Analytics, PBP reviews a prepared summary of current org health metrics and trends with e-group leaders/senior leadership to identify opportunities and prepare for Annual Planning. Organizational Health metrics include: growth, turnover rate, promotion rate, organizational shape (distribution by level), span of control, and representation metrics.
@@ -61,21 +61,21 @@ Examples of Single Points of Failure and potential risk mitigation strategies in
 
 - Potential Mitigation Stategies: Headcount - Prioritize near term headcount to ensure we are bringing in more team members with this skillset to support the initiative and who have this skillset. Knowledge sharing - Create opportunities for other team members interested in learning more to learn from these individuals more immediately through "Office Hours", an internal internship, etc.
 
-2. Historical knowledge
+1. Historical knowledge
 
 - Scenario: We have a long tenured senior team member who has been with GitLab for several years. This individual has critical historical knowledge of our code base and frequently helps when dealing with high pressure high stakes technical situations to accelerate understanding and uncover "whys" connected to historical context to drive us forward. On multiple occasions when S1 incidents have arisen, this individual has been one of the only people able to get us to quick resolution due to the historical knowledge they have.
 
 - Potential Mitigation Stategies: Work distribution - Review whether other senior ICs on the team can partner with this individual to take on/support some of their scope so moving forward knowledge is less concentrated. Knowledge sharing - when this individual is called in to support incidents, ask that another team member "shadows" the process and resolution for real time learning.
 
-3. Key leader 
+1. Key leader 
 
 - Scenario: We have a critical leader on the team who has a significant portion of the company in their organization, a high span of control (SPOC), and who has become critical for the efficiency of cross-functional initiatives with company-wide impact. A significant part of our ARR is directly influenced by this individual, and the majority of the managers under them are new to management and leadership. If this individual were to depart GitLab, there would be no one who could step in even temporarily to pick up the work without significant impact to business continuity.
 
 - Potential Mitigation Stategy: Organizational structure - Review organizational structure to explore options to get span of control (SPOC) is a more manageable place, and potentially split the group under this leader across 2-3 leaders so criticality becomes distributed. Facilitate a mentor/mentee relationship between the current leader and leaders who step in to support to ensure context is passed on and knowledge is shared. Headcount - Identify a successor for this leader by urgently reprioritizing to allocate headcount to hire someone in.
 
-_Please note that situations and mitigation strategies can and will look different across the business. The examples above are meant to provide additional color in terms of what we mean by "SPOF", but it certainly not an exhaustive list of examples of these situations or of options to mitigate risk for the business._
+**Please note that situations and mitigation strategies can and will look different across the business. The examples above are meant to provide additional color in terms of what we mean by "SPOF", but it certainly not an exhaustive list of examples of these situations or of options to mitigate risk for the business.**
 
-4. Single Owner of a Program and/or Process
+1. Single Owner of a Program and/or Process
 
 - Scenario: We have a team member that is the single owner of a program and/or process that impacts a critical area of the business. If they were to leave, intellectual property about the program and/or process would be gone impacting our ability to achieve results.
 
