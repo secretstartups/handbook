@@ -28,7 +28,7 @@ guidelines, which state that branch names must start with `docs-` (or
 
 > **Note:** If you are unfamiliar with the basics of working in a Git or GitLab
 environment, please complete the
-[Git and GitLab Basics training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git%20and%20GitLab%20Basics.md) before attempting to make documentation changes.
+[Git and GitLab Basics training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Git%20and%20GitLab%20Basics.md) before attempting to make documentation changes.
 
 #### Style Guide and Linting
 

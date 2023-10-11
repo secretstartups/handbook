@@ -313,7 +313,7 @@ A highly effective way to secure your cloud instances is to apply the [concept o
 
 If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each cloud service, [discussions are underway](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack/-/issues/134) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed in some cases. The steps to implement IP filtering will differ per cloud environment.  Below you can find a detailed guide maintained by the support engineering team.
 
-- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/content/ip%20filtering/ip_filtering_test_instances.md)
+- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/content/ip%20filtering/ip_filtering_test_instances.md)
 
 In addition, you can find official, platform-specific documentation of features involved in implementing IP filtering:
 

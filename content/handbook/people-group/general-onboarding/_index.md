@@ -109,7 +109,7 @@ All onboarding related employment templates (country and role based) can be foun
 - [Becoming a GitLab manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)
 - [Production engineering onboarding issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/blob/master/.gitlab/issue_templates/onboarding_template.md)
 - [Security products technical onboarding issue](https://gitlab.com/gitlab-org/secure/onboarding/blob/master/.gitlab/issue_templates/Technical_Onboarding.md)
-- [Support engineer onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md)
+- [Support engineer onboarding issue](https://gitlab.com/gitlab-com/support/support-training/blob/main/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md)
 
 ### Temporary Service Provider (Contractor/Consultant) Onboarding
 
