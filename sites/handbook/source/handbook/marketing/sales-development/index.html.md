@@ -137,7 +137,7 @@ As part of your [onboarding](/handbook/marketing/sales-development/sdr-playbook-
 | SAE | Strategic Account Executive |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
-| [SAO](/handbook/marketing/sales-development/sales-sdr-alignment/#criteria-for-sales-accepted-opportunity) | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
+| SAO | Sales Accepted Opportunity - an opportunity Sales agrees to pursue following an Initial Qualifying Meeting |
 | SDR | Sales Development Representative - focused on inbound |
 | Self Serve | A sales method where a customer purchases online through our web store. Also known as a "web direct" |
 | SEUR | Southern Europe Region |
@@ -204,7 +204,7 @@ The Business Development team aligns to the [Commercial](/handbook/sales/commerc
 * [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
 * Sales territories(Link to Come)
 * [Determining if a lead is in your territory](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
-* [BDR and Sales alignment](/handbook/marketing/sales-development/sales-sdr-alignment/) - working with your SAE or AE!
+
 
 ## Sales Development Organization Standards
 
@@ -248,7 +248,7 @@ We hold our Sales Development Org accountable to three pillars:
 ## BDR and SDR Compensation and Quota
 
 Quota is made up of the following depending on [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation):
-- [Sales Accepted Opportunities (SAOs)](/handbook/marketing/sales-development/sales-sdr-alignment/#goals--targets)
+- [Sales Accepted Opportunities (SAOs)](/https://about.gitlab.com/handbook/marketing/sales-development/#qualification-criteria-and-saos)
 - [ARR](/handbook/sales/sales-term-glossary/arr-in-practice) pipeline component
 - 2-way communication must be documented on the Contact in the Opportunity to receive credit. Opportunities missing this documentation will not be considered for compensation and will not retire quota.
 - For BDRs and SDRs who have SAO/ARR goals, compensation is based on the SAO attainment. ARR attainment is a qualifier for accelerator payments. Our aim is to land net new logos and expand to new customer business units, SAOs being our quantity metric and ARR our quality metric.  Our mission is to create good qualified pipeline for the company. SAO credit is given for licences and not for PS Opportunities (for training, for example) nor pipeline minutes. 
@@ -925,7 +925,7 @@ After having manually shortlisted the accounts that are applicable to your campa
     ii. Prospects with sequence steps past due
     iii. Prospects that have been moved to `Qualifying` status but have not had any outreach since. <br>
 
-2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SAEs that you collaborate with, please follow the [link here](/handbook/marketing/sales-development/sales-sdr-alignment/#expectations-and-strategic-processes) for a list or report templates that may be cloned and customized.
+2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SAEs that you collaborate with.
 
 **Important Note**
 You do not have to wait until the end of the month or quarter to change the BDR prospecting status, you just have to make sure you stay under the limit for your segment and move the account to either “Queued” or “Worked in FY” based on criteria.
