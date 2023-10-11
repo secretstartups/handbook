@@ -227,7 +227,23 @@ A shadow may need multiple weeks on shadow before they feel comfortable on a sol
 
 ## Triaging Pipelines
 
-Pipeline failures are a shared team responsibility and need to be handled as soon as possible by whomever is available. That said, the team member on triage duty has a responsibility to follow up on any failures which occurred and provide a summarized tally in the Triage notes. Failures requiring follow up issue(s) to fix pipelines that are still in a broken state should also be noted to increase team awareness. Those issues should be labeled with `Broken Pipeline`.
+Pipeline failures are a shared team responsibility and need to be handled as soon as possible by whomever is available. That said, the team member on triage duty has a responsibility to follow up on any failures which occurred and provide a summarized tally in the Triage notes.
+
+Note that we are in the process of automating issue creation for every time a critical pipeline fails. Some pipelines failures are notified in our `#g_distribution` Slack channel, but do not yet have issues automatically created for it. See [this epic](https://gitlab.com/groups/gitlab-org/distribution/-/epics/14) to track ongoing work.
+
+### Recommended workflow for pipeline failure triage
+
+1. Optionally, share on the Slack message any initial thoughts, or leave a comment indicating your action plan.
+1. Check if an issue was automatically created for it. If not, please create one.
+1. Link the issue in the inital Slack message so that everybody contributing to solve the problem can use the issue as a single source of truth.
+1. Once you started investigating the issue, add the `pipeline failure::under investigation` label to it.
+1. If you managed to fix the problem, close the issue.
+1. If you managed to mitigate the problem and make the pipeline pass, but the issue could comeback in the future, then: 
+  - Write a comment explaining which actions did you take to mitigate it.
+  - Check if there's an existing follow-up issue to investigate/implement a definitive fix for the problem, and link it to this pipeline issue failure. If the such a follow-up issue does not yet exist, create one and link it.
+1. Failures requiring follow up issue(s) to fix pipelines that are still in a broken state should also be noted to increase team awareness. Those issues should be labeled with `Broken Pipeline`.
+1. Failures caused by upstream failure should be labeled with [`Upstream bug`](https://gitlab.com/groups/gitlab-org/-/labels?search=upstream+bug) and linked with the related upstream issue.
+1. Before closing the issue, don't forget to set the milestone and double check that you have added `pipeline failure::under investigation`. This is important for metric purposes.
 
 Details on the various pipelines and jobs implemented by different projects
 under Distribution are listed below:
