@@ -130,11 +130,11 @@ Extends the Senior IT Enterprise Applications Engineer responsibilities plus:
 - Exceptional time management and prioritization skills, resilient under pressure, able to meet deadlines and able to work in a constantly changing environment.
 - Exhibit strong security and confidentiality practices with systems that handle sensitive data.
 
-## Staff IT Enterprise Applications Engineering
+## Staff IT Enterprise Applications Engineer
 
-Staff IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+The Staff IT Enterprise Applications Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
 
-### Staff IT Enterprise Applications Engineering Responsibilities
+### Staff IT Enterprise Applications Engineer Responsibilities
 
 Extends the Senior IT Enterprise Applications Engineer responsibilities plus:
 
@@ -147,18 +147,18 @@ Extends the Senior IT Enterprise Applications Engineer responsibilities plus:
 - Lead and manage large-scale application development projects, ensuring timely delivery and alignment with business goals.
 - Create and maintain comprehensive documentation of application architectures, configurations, and processes.
 
-### Staff IT Enterprise Applications Engineering Requirements
+### Staff IT Enterprise Applications Engineer Requirements
 
 Extends the Senior IT Enterprise Applications Engineer requirements plus:
 
 - 5-8 years of experience in a system administration role ideally with enterprise SaaS software model.
 - Multiple industry certifications.
 
-## Principal IT Enterprise Applications Engineering
+## Principal IT Enterprise Applications Engineer
 
-Principal IT Enterprise Applications Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
+The Principal IT Enterprise Applications Engineer is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
 
-### Principal IT Enterprise Applications Engineering Responsibilities
+### Principal IT Enterprise Applications Engineer Responsibilities
 
 Extends the Staff IT Enterprise Applications Engineer responsibilities plus:
 
@@ -171,17 +171,17 @@ Extends the Staff IT Enterprise Applications Engineer responsibilities plus:
 - A strategic leader within the organization.
 - Collaborates and makes proposals across several teams, and helps team members make informed decisions in alignment with strategic plans.
 
-### Principal IT Enterprise Applications Engineering Requirements
+### Principal IT Enterprise Applications Engineer Requirements
 
 Extends the Staff IT Enterprise Applications Engineer requirements plus:
 
 - 8-12 years of experience in a system administration role ideally with enterprise SaaS software model.
 
-## Distinguished IT Enterprise Applications Engineering
+## Distinguished IT Enterprise Applications Engineer
 
-Distinguished IT Enterprise Applications Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
+The Distinguished IT Enterprise Applications Engineer is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications.
 
-### Distinguished IT Enterprise Applications Engineering Responsibilities
+### Distinguished IT Enterprise Applications Engineer Responsibilities
 
 Extends the Principal IT Enterprise Applications Engineer responsibilities plus:
 
@@ -195,7 +195,7 @@ Extends the Principal IT Enterprise Applications Engineer responsibilities plus:
 - Acts as an advisor to Senior Leadership.
 - Influences Senior Leadership to adopt a different point of view when appropriate, and makes decisions that have an impact on business direction.
 
-### Distinguished IT Enterprise Applications Engineering Requirements
+### Distinguished IT Enterprise Applications Engineer Requirements
 
 Extends the Principal IT Enterprise Applications Engineer requirements plus:
 
