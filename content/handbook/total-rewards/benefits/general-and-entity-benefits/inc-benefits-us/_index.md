@@ -188,7 +188,7 @@ Enrolled Cigna members can find in-network mental health providers by logging in
 
 ##### Cigna Infertility Services
 
-Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member.
+Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member. There is no infertility cover on the EPO plan.
 
 Coverage will be provided for the following services:
 
@@ -197,7 +197,7 @@ Coverage will be provided for the following services:
 - Treatment and/or procedures performed specifically to restore fertility (e.g. procedures to correct an infertility condition).
 - Artificial Insemination, In-vitro, GIFT, ZIFT, etc.
 
-See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1tHFEoBDaI1O4yluL9U-X7RBWG8JZOdOS/view?usp=sharing) Summary Plan Descriptions for more details.
+See the [HDHP](https://drive.google.com/file/d/1zAQExWPX3Bm131RdZQaFqMY-K1RdfMlR/view?usp=sharing), [PPO](https://drive.google.com/file/d/1O9LW50Wa7Dq6C9SRoEiCR422XK-0_2ZB/view?usp=sharing),Summary Plan Descriptions for more details.
 
 ##### Cigna Transgender Benefit Coverage
 
