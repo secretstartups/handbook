@@ -1,13 +1,19 @@
 ---
-
-title: Quarterly Subscription Reconciliations
+title: Quarterly Subscription Reconciliations (QSR)
 category: General
-description: Workflow to assist customers with Quarterly Reconciliations.
+description: Workflow for QSR dispute, pausing QSR, resolving max seats, and triggering reconciliation.
 ---
+## Overview 
 
-
+This page provides guidance for handling tickets about the quarterly subscription reconciliation process, including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconcilliation.
 
 ## General Workflow
+
+When a customer contacts support regarding QSR, as a first line of contact you can use the [`Support::L&R::Refund or cancellation request on quarterly subscription reconciliation` macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/L&R/Refund%20or%20cancellation%20request%20on%20quarterly%20subscription%20reconciliation.yaml), or you can craft a manual response based on it.  If sending a response in your own words, it's important to follow the general guidelines and information used in the macro to be sure that we are setting appropriate and consistent expectations.
+
+Try to explain QSR, how it works, and consider linking to the [documentation page for it](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html).  There's also individual [SaaS focused](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#how-seat-usage-is-determined) and [self-managed focused](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users) documentation pages explaining how billable seats are calculated.
+
+Refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3540#quarterly-subscription-reconciliation) for in-depth explanations.
 
 **Do**
 
@@ -16,21 +22,15 @@ description: Workflow to assist customers with Quarterly Reconciliations.
 
 **Don't**
 
-- pass the ticket to Billing/AR
-- pause QSR, or reset max seats without documented approval
-
-When a customer contacts support regarding QSR, as a first line of contact you can use the [`Support::L&R::Refund or cancellation request on quarterly subscription reconciliation` macro](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Support/L&R/Refund%20or%20cancellation%20request%20on%20quarterly%20subscription%20reconciliation.yaml), or you can craft a manual response based on it.  If sending a response in your own words, it's important to follow the general guidelines and information used in the macro to be sure that we are setting appropriate and consistent expectations.
-
-Try to explain QSR, how it works, and consider linking to the [documentation page for it](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html).  There's also individual [SaaS focused](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#how-seat-usage-is-determined) and [self-managed focused](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users) documentation pages explaining how billable seats are calculated.
-
-Refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3540#quarterly-subscription-reconciliation) for in-depth explanations.
+- Pass the ticket to Billing/AR
+- Pause QSR, or reset max seats without documented approval
 
 ## Dispute Escalation and Resolution
 
 If the customer would like to dispute a reconciliation, either pending or processed:
 
-- advise the customer that you will be putting them in contact with their sales account manager
-- follow the workflow on [Working with Sales]({{< ref "working_with_sales#general-workflow" >}}) to inform the account manager in SFDC.
+- Advise the customer that you will be putting them in contact with their sales account manager
+- Follow the workflow on [Working with Sales]({{< ref "working_with_sales#general-workflow" >}}) to inform the account manager in SFDC.
 - Do not pause/disable QSR yourself except in extenuating circumstances ([see below](#pausing-qsr-on-a-subscription))
 - Do not reset Max Seats on the namespace ([see below](#resolving-max-seats-overages))
 
