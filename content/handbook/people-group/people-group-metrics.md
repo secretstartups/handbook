@@ -14,9 +14,9 @@ The average location factor of all team members per department or division. The 
 
 ## Percent Over Compensation Band
 
-This metric is manually calculated by the Total Rewards Team. This metric is in the process of being moved to Periscope in the following [issue (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/2544).
+This metric is manually calculated by the Total Rewards Team. 
 
-The Total Rewards Analysts will analyze against how many team members in a division or department are compensated above the bands specific by our [Global Compensation]({{< ref "compensation#compensation-principles" >}}) policy. To determine this, use the "In Range? (Metrics)" column from the Low Location Factor Reporting and generate a pivot table using a count of "FALSE" per department and division. Add this information to the "Location Factor Graphs/Summary" tab to generate a percentage based on total headcount per department and division as well as the raw number. The number can help explain the percentage if a department or division is small, for example.
+The Compensation team will analyze against how many team members in a division or department are compensated above the bands specific by our [Global Compensation]({{< ref "compensation#compensation-principles" >}}) policy. The weighted percentage over compensation band can be found on the Comp Data tab when refreshing the Total Compensation Analysis report.
 
 The percent over compensation band cap is <= 1%.
 
@@ -57,22 +57,11 @@ Retention is calculated in [Sisense](https://app.periscopedata.com/app/gitlab/48
 
 ## Promotion Rate
 
-Promotion Rate = Number of promotions over a rolling 12 month period / Current Headcount. The target is a 12% promotion rate for divisions as well as departments. Promotion Rate is calculated in [SiSense](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9298897). We set a promotion rate KPI since GitLab does not have specific promotion cycles (e.g. two times per year), but instead promotions can be submitted by the manager at any time. To ensure our promotions are in line with market, we analyze promotion rates each month to see trends for each group.
-
-The promotion rate metric can be found in [Sisense](https://app.periscopedata.com/app/gitlab/756370/Promotion_Rate), which is aggregated at a company, division, and department level.
-
-- The report itself can be found in the google drive with the title `Promotion Report` and is only shared with Total Rewards and the data team as it contains sensitive compensation data. This report and Spend per Team Member can be pulled from snowflake.
-- The next iteration of this report is to have all related promotions and promotion budgets available in SiSense as well for the e-group leader and people business partner to review budgetary impacts of any promotions instantly.
+Promotion Rate = Number of promotions over a rolling 12 month period / Current Headcount. The target is a 15% promotion rate for divisions as well as departments for on-cycle promotions. The promotion cycle takes place twice per year. Promotion Rate is calculated in [SiSense](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9298897). 
 
 ## Compensation (Pay Equality)
 
-1. Generate a chart for the compa ratio distribution by Division.
-    - Using the "Comp Data Analysis & Modeling" Google spreadsheet, copy over the employee ID, first name, last name, and Comp Compa Ratio columns.
-    - Using a vlookup, add the division to the report for filtering.
-    - Create a pivot table to take the average compa ratio based on Division.
-1. Determine the Total Target Compensation (inclusive of OTE) as of the end of the month
-    - Using the Workday report, take the max of the USD OTE and Annual USD column.
-    - Create a pivot table to sum the values by division.
+Pay Equality is tracked quarterly as a KPI for gender and reviewed internally by the Compensation team for other URGs within the same analysis. When conducting the analysis, the average and median compa ratio of the URG is compared to the overall company using a percent differential. 
 
 ## Performance Management
 
