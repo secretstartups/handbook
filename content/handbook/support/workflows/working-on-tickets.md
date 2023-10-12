@@ -200,7 +200,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Handing over tickets and customer calls between regions
 
-1. Ensure that you add a final comprehensive `internal note` that encompasses your insights on the prior steps taken as well as any recommendations for future actions. 
+1. Ensure that you add a final comprehensive `internal note` that encompasses your insights on the prior steps taken as well as any recommendations for future actions.
 1. Ask in your group's Slack channel for one of the SEs in the target region to assign the ticket to themself, to notify the customer of the transfer and to continue the ticket work where you left off.
 1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
 1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
