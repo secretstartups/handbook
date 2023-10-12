@@ -3,7 +3,7 @@ title: Quarterly Subscription Reconciliations (QSR)
 category: General
 description: Workflow for QSR dispute, pausing QSR, resolving max seats, and triggering reconciliation.
 ---
-## Overview 
+## Overview
 
 This page provides guidance for handling tickets about the quarterly subscription reconciliation process, including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconcilliation.
 
@@ -22,17 +22,17 @@ Refer to [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/
 
 **Don't**
 
-- Pass the ticket to Billing/AR
-- Pause QSR, or reset max seats without documented approval
+- Pass the ticket to Billing/AR.
+- Pause QSR, or reset max seats without documented approval.
 
 ## Dispute Escalation and Resolution
 
 If the customer would like to dispute a reconciliation, either pending or processed:
 
-- Advise the customer that you will be putting them in contact with their sales account manager
+- Advise the customer that you will be putting them in contact with their sales account manager.
 - Follow the workflow on [Working with Sales]({{< ref "working_with_sales#general-workflow" >}}) to inform the account manager in SFDC.
-- Do not pause/disable QSR yourself except in extenuating circumstances ([see below](#pausing-qsr-on-a-subscription))
-- Do not reset Max Seats on the namespace ([see below](#resolving-max-seats-overages))
+- Do not pause/disable QSR yourself except in extenuating circumstances ([see below](#pausing-qsr-on-a-subscription)).
+- Do not reset Max Seats on the namespace ([see below](#resolving-max-seats-overages)).
 
 Given that support team has no influence over the process at this point, direct the customer to continue all discussions with their sales manager, and the ticket may then be closed.
 
@@ -44,9 +44,9 @@ Given that support team has no influence over the process at this point, direct 
 
 1. In the event a bug has been confirmed which is causing an incorrect QSR amount to be quoted, due to the time-sensitive nature of reconciliations Support team have the ability to disable QSR manually on a subscription through the customersDot Admin interface, and we should do so in these cases.
 
-   - Navigate to the customer's account and view the Zuora Subscriptions tab (`/admin/customer/:id/zuora_subscriptions`)
-   - Use the drop down menu under **Quarterly Coterms** to select Yes/No
-     - Switch to `No`
+   - Navigate to the customer's account and view the Zuora Subscriptions tab (`/admin/customer/:id/zuora_subscriptions`).
+   - Use the drop down menu under **Quarterly Coterms** to select Yes/No.
+     - Switch to `No`.
    - Click Update.
 
 #### When manually pausing QSR
@@ -66,8 +66,8 @@ Be sure that you are setting this value such that it only eliminates the approve
 
 ## Performing reconciliation
 
-The `Perform reconciliation` button, located on the details page of a Reconciliation (https://customers.gitlab.com/admin/reconciliation/12345), doesn't currently work due to a [bug](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4317). 
+The `Perform reconciliation` button, located on the details page of a Reconciliation (https://customers.gitlab.com/admin/reconciliation/12345), doesn't currently work due to a [bug](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4317).
 
-Updating the default credit card in customersdot automatically re-triggers QSR payment (unless something went wrong). You can see a successful re-trigger by looking at the status of the reconcilation event. The re-trigger can be done up to 3 months after a failed QSR event. If the payment did not get triggered, check that the card is set to default in customersdot. 
+Updating the default credit card in customersdot automatically re-triggers QSR payment (unless something went wrong). You can see a successful re-trigger by looking at the status of the reconcilation event. The re-trigger can be done up to 3 months after a failed QSR event. If the payment did not get triggered, check that the card is set to default in customersdot.
 
-The customer will receive an [email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/app/views/reconciliation_mailer/payment_failed.text.erb) when the reconciliation has failed and be provided with instructions on how to retry; this information is also available in our [docs](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html#troubleshooting-failed-payment). 
+The customer will receive an [email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/app/views/reconciliation_mailer/payment_failed.text.erb) when the reconciliation has failed and be provided with instructions on how to retry; this information is also available in our [docs](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html#troubleshooting-failed-payment).
