@@ -108,12 +108,15 @@ a Principal+ Engineer for input.
 1. Post a link to your design document, with a brief description of it, in the
    internal [`#architecture`](https://gitlab.slack.com/archives/CJ4DB7517)
    channel on Slack for additional visibility and transparency.
-1. If your design document describes an complex effort that will span
+1. If your design document describes a complex effort that will span
    multiple milestones, you may want to involve a Coach: a Principal+ Engineer
    who will support you throughout process of describing a technical vision in
    your design document.
 1. Work with all of the stakeholders and domain experts to get your design
    reviewed, refined, approved and merged!
+   Design docs don't need to be fully comprehensive on the first iteration.
+   They can be refined and enriched with details in iterations, as we discover
+   important design aspects.
 1. Assign DRIs that will drive the implementation effort.
 
 ### Implementation phase
@@ -152,6 +155,10 @@ considered for implementation.
 
 As the original author of a proposal, you are the primary DRI during the design
 phase.
+
+The Author is a DRI responsible for driving the process of writing a design document.
+They can collaborate with a Coach, Engineering Management Leader,
+Product Management Leader, Domain Experts, Functional Experts during the process.
 
 #### The Coach
 
@@ -221,23 +228,6 @@ generate awareness early in the cycle and so that they can provide their input.
 
 ### Design Document
 
-The Author is a DRI responsible for driving the process of writing a design document. They can collaborate with a Coach, Engineering Management Leader,
-Product Management Leader, Domain Experts, Functional Experts during the process.
-
-First page of the design document should outline the main vision of a change.
-Technical details can go into subpages, or be extracted into issues / epics.
-The first paragraph should be written as an "executive summary". The main page
-of the design document, and especially the summary, should not be deeply
-technical.
-
-Beyond that the design document is a description of [Why, How and What](https://en.wikipedia.org/wiki/Start_With_Why)
-of the change that has been proposed. It is also a mind map of future
-iterations. It describes challenges, opportunities and a technical vision that
-are supposed to guide team members throughout their iterations, even though
-usually not many technical details are required. As we move forward with
-implementation and iterate on a project, we continuously incorporate feedback
-gained after each of the iterations, into the design document itself.
-
 Merged design documents will be published on our [documentation website](https://docs.gitlab.com/ee/architecture/)
 
 If you don't know what content you could put into a design document, you can use
@@ -247,6 +237,50 @@ as a starting point.
 Please be conscious of our [SAFE](/handbook/legal/safe-framework/) framework
 guidelines, and start collaborating on a design document in a private space
 (like a Google Doc) if it should not be made public.
+
+#### Vision
+
+First page of the design document should outline the main vision of a change.
+The vision is a short content written as an "executive summary" that describes,
+from a business perspective, the problem we want to solve, why it's important
+and the desired outcome.
+
+The vision should be true long term. It should generally not require updates
+when implementation details change or more concrete decisions have been made.
+
+#### Details
+
+The rest of the design document is a description of [Why, How and What](https://en.wikipedia.org/wiki/Start_With_Why)
+of the change. This section is both, a proposal describing the technical
+direction, as well as a documentation of the current state.
+
+The proposal is usually a high-level overview of how we want something to be implemented.
+We highly recommend documenting decisions made about certain aspects of the proposal
+so that these could provide more clarity around the direction.
+
+To document a decision we can use a lightweight process:
+
+- First of all, breakdown complex decisions into smaller ones.
+- Describe the context on what we need to make a decision on.
+- Document benefits, trade-offs and alternatives of the decision.
+- Document why a specific solution was choosen.
+
+You can use a lightweight Architectural Decision Record (ADR).
+See an [example here](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/132129).
+We recommend to add ADRs as subpages, and link them from a `Decision` section on the main page of the design doc.
+
+An example of aspect of a proposal could be "Client-server communication" while an example
+of decision could be: "Use Protocol Buffers as data serialization format".
+
+The ultimate goal is that each aspect of the proposal is accompanied by a
+decision but it's also encouraged to list aspects to analyze even if we don't know
+yet how to address those. Documenting known-unknowns is important in communicating
+where we have not made decisions yet.
+
+As we move forward with implementation and iterate on a project, we continuously
+incorporate feedback gained after each of the iterations, into the design document itself.
+
+Technical details can go into subpages, or be extracted into issues / epics.
 
 ### Implementation Phase
 
