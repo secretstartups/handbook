@@ -63,3 +63,11 @@ If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechan
 Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure.
 
 **Important:** If a QSR is refunded, max user count must be reset by opening a ticket with Support. Deal Desk will support this process. [Internal process guide here](https://gitlab.com/gitlab-com/sales-team/field-operations/deal-desk/-/wikis/Web-Direct-Quarterly-Seat-Reconciliation-(QSR)-Refunds).
+
+## Performing reconciliation
+
+The `Perform reconciliation` button, located on the details page of a Reconciliation (https://customers.gitlab.com/admin/reconciliation/12345), doesn't currently work due to a [bug](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4317). 
+
+Updating the default credit card in customersdot automatically re-triggers QSR payment (unless something went wrong). You can see a successful re-trigger by looking at the status of the reconcilation event. The re-trigger can be done up to 3 months after a failed QSR event. If the payment did not get triggered, check that the card is set to default in customersdot. 
+
+The customer will receive an [email](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/main/app/views/reconciliation_mailer/payment_failed.text.erb) when the reconciliation has failed and be provided with instructions on how to retry; this information is also available in our [docs](https://docs.gitlab.com/ee/subscriptions/quarterly_reconciliation.html#troubleshooting-failed-payment). 
