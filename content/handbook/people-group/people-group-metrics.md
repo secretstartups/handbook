@@ -14,7 +14,7 @@ The average location factor of all team members per department or division. The 
 
 ## Percent Over Compensation Band
 
-This metric is manually calculated by the Total Rewards Team. 
+This metric is manually calculated by the Total Rewards Team.
 
 The Compensation team will analyze against how many team members in a division or department are compensated above the bands specific by our [Global Compensation]({{< ref "compensation#compensation-principles" >}}) policy. The weighted percentage over compensation band can be found on the Comp Data tab when refreshing the Total Compensation Analysis report.
 
@@ -57,11 +57,11 @@ Retention is calculated in [Sisense](https://app.periscopedata.com/app/gitlab/48
 
 ## Promotion Rate
 
-Promotion Rate = Number of promotions over a rolling 12 month period / Current Headcount. The target is a 15% promotion rate for divisions as well as departments for on-cycle promotions. The promotion cycle takes place twice per year. Promotion Rate is calculated in [SiSense](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9298897). 
+Promotion Rate = Number of promotions over a rolling 12 month period / Current Headcount. The target is a 15% promotion rate for divisions as well as departments for on-cycle promotions. The promotion cycle takes place twice per year. Promotion Rate is calculated in [SiSense](https://app.periscopedata.com/app/gitlab/482006/People-KPIs?widget=9298897).
 
 ## Compensation (Pay Equality)
 
-Pay Equality is tracked quarterly as a KPI for gender and reviewed internally by the Compensation team for other URGs within the same analysis. When conducting the analysis, the average and median compa ratio of the URG is compared to the overall company using a percent differential. 
+Pay Equality is tracked quarterly as a KPI for gender and reviewed internally by the Compensation team for other URGs within the same analysis. When conducting the analysis, the average and median compa ratio of the URG is compared to the overall company using a percent differential.
 
 ## Performance Management
 
