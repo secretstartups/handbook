@@ -44,13 +44,13 @@ By observing and measuring, it should spark further questions to help generate m
 
 To generate reports and dashboards, we use a third party tool called [Sisense](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) to visualize the data captured.
 
-The data source determines the table names used in Sisense queries. We have three primary data sources that are useful from a product perspective: usage ping, product database, and Snowplow.
+The data source determines the table names used in Sisense queries. We have three primary data sources that are useful from a product perspective: service ping, product database, and internal events.
 
 **Our goal is to analyze product usage. NOT to track individual users**. This means on the frontend we respect browser settings of "do not track" and allow opting out of usage ping. In addition to that, the Analytics Instrumentation team is responsible for data pseudonymization so that there no personally identifiable information saved. This [video highlights how Snowplow, usage ping, and pseudonymization work together](https://www.youtube.com/watch?v=awWhNtwuVNs).
 
 ### Overview of the data sources
 
-- **Usage Ping** (for Self-Managed and GitLab.com)
+- **Service Ping** (for Self-Managed and GitLab.com)
     - A custom GitLab tool to collect aggregate information from our customers who host our product on their own hardware.
     - Video: [Usage Ping Workshop](https://www.youtube.com/watch?v=D4eGDbpIY5c)
     - Examples of when to use:
@@ -61,7 +61,11 @@ The data source determines the table names used in Sisense queries. We have thre
         - Count of created notes on Snippets
         - Count of notes on Merge Request
 - **GitLab.com Postgres Database** (for GitLab.com)
-- **Snowplow** (for GitLab.com)
+- **Internal Events** (for GitLab.com)
+    - Captures client/server side events and page views
+    - [Tools for viewing events](https://docs.gitlab.com/ee/development/internal_analytics/internal_event_instrumentation/local_setup_and_debugging.html) for exploration/testing
+    - [Implementing event tracking](https://docs.gitlab.com/ee/development/internal_analytics/internal_event_instrumentation/quick_start.html)
+- **deprecated** Snowplow (for GitLab.com)
     - Captures client/server side events and page views
     - Video: [Snowplow 2.0 Workshop](https://www.youtube.com/watch?v=CaxhdskjWvg)
     - [Tools for viewing events](https://docs.gitlab.com/13.12/ee/development/snowplow/#developing-and-testing-snowplow) for exploration/testing
@@ -78,7 +82,7 @@ These visualizations will help you understand how the systems work together:
 
 The issues and merge requests below are examples of how we have used data for decisions.
 
--  [Adds snowplow-based event tracking to see how often users are expanding the unit test report MR widget](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/46048)
+- [Adds snowplow-based event tracking to see how often users are expanding the unit test report MR widget](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/46048)
 - [Left sidebar and top nav navigation interaction (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/5357#note_596307748)
 - [How many users are setup to approve more than one rule (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/10862)
 - [Choosing between a textarea and an input](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/73506#note_722625421)
@@ -92,10 +96,7 @@ The issues and merge requests below are examples of how we have used data for de
 ## Resources
 
 - [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
-- [Snowplow naming convention](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Snowplow%20event%20tracking.md)
-- [Snowplow at GitLab](https://docs.gitlab.com/ee/development/snowplow/index.html)
-- [Snowplow Inspector Chrome Extension](https://docs.gitlab.com/ee/development/snowplow/index.html)
-- [Example SQL reference from docs.gitlab.com](https://docs.gitlab.com/ee/development/snowplow/index.html#reference-sql)
+- [Internal Analytics at GitLab](https://docs.gitlab.com/ee/development/internal_analytics/)
 - [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
 - [Growth Experiments Knowledge Base](https://about.gitlab.com/handbook/marketing/growth/)
 - [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/)
