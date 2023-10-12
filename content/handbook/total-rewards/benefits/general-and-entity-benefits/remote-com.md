@@ -221,12 +221,19 @@ As long as you are a legal resident of Sweden you are entitled to the basic pare
 
 ## South Africa
 
-### Healthcare Monthly Allowance
+### Medical
 
-- Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members for their own Medical Coverage.
-- This amount will be paid on monthly basis with the regular payroll as a reimbursement.
-- Proof of coverage must be shared or forwarded to help@remote.com (CC in total-rewards@domain) in order to receive the correct allowance amount.
-- The allowance will be up to R5,000 per month for team member and up to R8,500 per month for team member plus Dependants.
+#### Registered Medical Aid Plan
+
+Effective November 1, 2023, Remote will offer a Registered Medical Aid plan for Team Members. GitLab will cover the cost to enroll in the "Priority Plan" for the Team Members. Team Members can opt to upgrade to a higher plan at their own cost, the difference will be deducted from their payslip.
+
+#### Dependents
+
+Team Members can add dependents to their plans. While the actual cost will be deducted from the team member's payslips, GitLab will subsidize the benefit through a Dependent Medical Allowance up to R3500 a month. Please send total-rewards@gitlab.com an email with documentation of your dependent's enrollment along with the cost of enrollment. The Total Rewards team will verify and send to Remote & the Non-US payroll Team to process the monthly allowance.
+
+#### Grandfathered Medical Policy
+
+Team Members who were hired before November 1, 2023 have the option to join the Registered Medical Plan in place of their medical allowance, or opt out of the plan and keep their monthly allowance. Should the team member move to the group plan, they will be unable to revert back to the allowance policy at a later time. The allowance policy is not available for team members hired after November 1, 2023.
 
 ### Discovery Life Provident Umbrella Fund (Provident fund match)
 
