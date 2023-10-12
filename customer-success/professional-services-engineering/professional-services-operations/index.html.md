@@ -289,24 +289,9 @@ There is an agreement with revenue if FP items over $10,000 process after the cu
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
 ### Project Expenses
-GitLab Employee Travels:
+Refer to this [internal page](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-operations/-/wikis/Onsite-Travel-and-Expenses) for more information on onsite travel and expense processes.
 
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
-* Purchase incurred or travel booked
-   * All travel should be booked through Trip Actions   
-* PSE/PM submit expense report through Navan with Project Tag (Kantata Workspace ID- Customer Name)
-   * Include E Group travel approval, Travel Exception Request form found here (https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
-   * Include receipts
-   * Disregard the billable checkbox 
-* PS Manager approves expense report in Navan
-* PS Manager selects PS Operations as the next approver for the customer expense report
-* PS Operations then reviews the expense report and sends to Finance approval and processing
-* PS Operations then reviews the customer expense report with the assigned Project Manager
-* PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
-
-The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
-
-If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
+If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/).
 
 
 ### Kantata Project Status/ Colors
