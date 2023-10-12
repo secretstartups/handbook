@@ -82,7 +82,7 @@ The project plan tracking this work can be [found here](https://gitlab.com/gitla
 
 #### Goals:
 
-- [X] Consolidate all work under a single sub-epic. 
+- [X] Consolidate all work under a single sub-epic.
   Update issue and epic structure to reflect our agreement to deliver infrastructure-as-a-library (GRIT) and for Environment Automation to operate the runners themselves.
 
 ### Week of 2023-10-09
@@ -95,3 +95,48 @@ New GRIT sub-epic to track all library work for this use-case: https://gitlab.co
 
 - [ ] Create a provisional Docker capable Linux AMI
 - [ ] Update [`dev` environment](https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/blob/master/modules/dev/dev.tf) to support Linux.
+
+## Runner Fleet Dashboard
+
+**Runner Team DRI:** Vladimir Shushlin
+**Slack Channel:** #f_runner_fleet_management
+
+**Description:** Operators of self-managed runner fleets need, at a glance, observability or, more specifically, the ability to quickly answer critical questions about their Runner Fleet infrastructure.
+Providing actionable insights in the Runner Fleet Dashboard equips GitLab Runner Fleets operators with the tools they need to ensure that developers in their organization can consistently and efficiently run CI/CD jobs at scale. The answers to questions such as how fast will CI/CD jobs start, are our CI/CD jobs waiting in a queue, are there are performance or other problems with the CI/CD job environment will be readily available in the Runner Fleet Dashboard.
+The result is improved developer efficiency, reduced costs, and excellent customer experience for the development teams that rely on the CI/CD build infrastructure.
+
+### Week of 2023-10-02
+
+#### Goals:
+
+- [x] Enable [ClickHouse connection on Staging]()
+- [x] Enable [Runner Dashboard](https://gitlab.com/gitlab-org/gitlab/-/issues/417002) on Staging
+- [ ] Enable [CI data ingestion](https://gitlab.com/gitlab-org/gitlab/-/issues/421203) on Staging
+- [x] Enable [ClickHouse part of the dashboard](https://gitlab.com/gitlab-org/gitlab/-/issues/424498) on Staging
+
+#### Summary
+
+We got everything working on Staging, but discovered two bugs in data ingestion:
+1. [duplicating some data](https://gitlab.com/gitlab-org/gitlab/-/issues/427427)
+1. [not handling removed `ci_builds`](https://gitlab.com/gitlab-org/gitlab/-/issues/427421)
+
+So we disabled data ingestion, and are working on fixing it.
+
+We also reviewed the [bigger epic](https://gitlab.com/groups/gitlab-org/-/epics/11169), and decided that nothing blocks us from enabling
+the dashboard for everyone without ClickHouse part of data.
+
+There are [ongoing discussions](https://gitlab.com/gitlab-org/gitlab/-/issues/426113) on how to use this ci analytics architecture in other features.
+
+### Week of 2023-10-09
+
+Continuing to focus on issues found last week with the goal of re-enabling dashboard on staging and production.
+
+#### Goals:
+
+- [ ] Fix [duplication bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427427)
+- [ ] Fix [removed ci_builds bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427421)
+- [ ] Rollout and remove [runners_dashboard feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/417002) thus enabling Runner Dashboard for everyone
+- [ ] Re-enable [CI data ingestion on Staging](https://gitlab.com/gitlab-org/gitlab/-/issues/421203) and finish it
+- [x] [Add clickhouse credentials for Production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/16931)
+- [ ] [Add support for clickhouse in Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8249) - that will be required for tests on self-managed as well as using ClickHouse from rails console Staging/Production
+- [ ] [Fix "always integer" bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427433)
