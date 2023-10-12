@@ -101,7 +101,7 @@ For now, all broken master incidents are also reported in the `#master-broken` c
 #### Triage DRI Responsibilities
 
 1. Monitor
-   * Pipeline failures are sent to the triage DRI's group channel, if one is identified, and will be reviewed by its group members. The failures will also be sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) as a backup channel, in case the failure cannot be traced to a group, or if the triage DRI requires asssitance. To maintain a scalable workflow, notifications posted in [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) does not require a manual acknolwedgement from the Engineering Productivity team if the incident is announced in another DRI group's Slack channel.
+   * Pipeline failures are sent to the triage DRI's group channel, if one is identified, and will be reviewed by its group members. The failures will also be sent to [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) as a backup channel, in case the failure cannot be traced to a group, or if the triage DRI requires assistance. To maintain a scalable workflow, notifications posted in [`#master-broken`](https://gitlab.slack.com/archives/CR6QH3D7C) does not require a manual acknowledgement from the Engineering Productivity team if the incident is announced in another DRI group's Slack channel.
    * If the incident is a duplicate of an existing incident, use the following quick actions to close the duplicate incident:
 
       ```shell
@@ -180,11 +180,12 @@ For now, all broken master incidents are also reported in the `#master-broken` c
     * When the master-broken is resolved, close the incident.
 2. (Optional) Pre-resolution
    * If the triage DRI believes that there's an easy resolution by either:
-     * Reverting a particular merge request.
-     * Making a quick fix (for example, one line or a few similar simple changes in a few lines).
-     The triage DRI can create a merge request, assign to any available maintainer,
-     and ping the resolution DRI with a `@username FYI` message.
+      * Reverting a particular merge request.
+      * Making a quick fix (for example, one line or a few similar simple changes in a few lines).
+
+     The triage DRI can create a merge request, assign to any available maintainer, and ping the resolution DRI with a `@username FYI` message.
      Additionally, a message can be posted in `#backend_maintainers` or `#frontend_maintainers` to get a maintainer take a look at the fix ASAP.
+   * If the failures occur only in `test-on-gdk` jobs, it's possible to stop those jobs from being added to new pipelines while the cause is being fixed. See the [runbook](https://gitlab.com/gitlab-org/quality/runbooks/-/tree/main/test-on-gdk#disable-the-e2etest-on-gdk-pipeline) for details.
 
 ### Resolution of broken master
 
