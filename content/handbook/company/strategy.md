@@ -13,7 +13,7 @@ strategic goal is to be the leading complete [DevSecOps Platform](/solutions/dev
 
 As we execute on our strategy, it is important to use our financial targets as guide rails and mature our internal processes for building a durable business for the long-term.
 
-**Strategy details are available in GitLab's [internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).** 
+**Strategy details are available in GitLab's [internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
 
 ## Principles
 
