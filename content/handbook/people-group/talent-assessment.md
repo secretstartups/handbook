@@ -18,7 +18,7 @@ Additional key benefits of the Assessment Program include:
 ## Overview
 
 We use Workday to complete our Talent Assessment. You can review an overview of Workday Talent [here](https://docs.google.com/presentation/d/1CYNNtYWvbDyDu_WndCQ47uvTbZYhNKt5PJLnrwZ_3ek/edit?usp=sharing). Please reach out to your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) if you have any questions.
-You can also review the following [guide](https://docs.google.com/document/d/1khkrwgVpef1hkDmwuF8Mhz9BTrtZt4WaFAwjChDFRh4/edit?usp=sharing) which mirrors what is included in the Workday Talent Assessment template to prepare you prior to the tool being launched.
+You can also review the following [guide](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit) which mirrors what is included in the Workday Talent Assessment template to prepare you prior to the tool being launched.
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Potential Matrix (commonly known as "9-Box" in the US) and annually review Key Talent.
 
@@ -273,7 +273,7 @@ The introduction of a "Too New to Rate" category is a solution as feedback was r
 
 While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template](https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then aligning on any support needed for the team member moving forward.  
 
-Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](#Promotions-or-Transfers-During-Assessment-Cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
+Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#promotions-or-transfers-during-assessment-cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
 If any of the above cases arise it is recommend that you discuss with your People Business Partner to ensure the Too New to Rate designation is consistently applied.
 
@@ -291,7 +291,7 @@ The calibration session is one of the most important pieces of the Performance/G
 - Refer to the competencies and values when deciding what is relevant.
 - Focus on facts and avoid blanket statements (I.E. [team member] has poor communication)
 - Calibration is not a stack ranking of team members. While some inter-person comparison may happen, it should only be to ensure that evaluations are being applied fairly across different raters.
-- **Ask questions and provide feedback!** This may seem obvious, but it is import aspect to help identify any potential bias
+- **Ask questions and provide feedback!** This may seem obvious, but it is an important aspect to help identify any potential bias
 
 ##### Who Do I Calibrate?
 
@@ -329,12 +329,12 @@ It is **absolutely essential** that managers complete the required pre-work to e
     - An example of notes could include:
         - 2-3 strengths/accomplishments (and supporting examples)
         - 2-3 improvement areas
-        - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
+        - Anything else noteworthy (I.E. recently promoted or transferred, etc.)
 - Keep the [SBI Model]({{< ref "guidance-on-feedback#s-b-i-model" >}}) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided.
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
 
-**IN PROGRESS - WILL BE UPDATED**
+[LevelUp Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
 
 #### Topics To Avoid
 
@@ -445,6 +445,7 @@ The script below is intended to help you structure your Performance and Growth P
 - ***Exceeding*** (consistently surpassing the demands of their current position)
 - ***Performing*** (“on track” and meeting all expectations of current position)
 - ***Developing*** (room to learn and grow, not currently meeting all expectations of current position)
+- ***Too New To Rate*** (hired or transferred <90 days from the start of the Talent Assessment program)
 
 "I assessed your performance as ***[Insert Performance Factor]*** because:"
 
@@ -537,7 +538,7 @@ The Performance/Growth Potential Factor is one of the factors considered in the 
     - You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
 
 - **My team member has recently been promoted - but we assessed the Performance/Growth Potential prior to the promotion. How do I communicate that to the team member?**
-    - TNow that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
+    - Now that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
 
 
 ### Talent Assessment - Manager Scenarios
@@ -713,7 +714,7 @@ The succession planning process might vary slightly for different areas of the b
 
 | Resource | Purpose |
 | ------ | ------ |
-| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit?usp=sharing) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the FY'23 Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
+| [Workday: Self Assessment & Manager Evaluation Template](https://docs.google.com/document/d/1bdGDq85nY3uLRFLrmKV5RDyQpGkPmnvGAI1pN_RRNto/edit?usp=sharing) | Team members and managers can leverage this template to begin thinking through and documenting the optional self-assessment and the manager evaluation for the Talent Assessment. Please note that this template is for team members who would like to get an early start ahead of Workday launching the Talent Assessment cycle, however, all assessments will need to be transferred over to Workday for formal documentation and calibration.  |
 | [Workday Job Aid: How to Complete My Annual Self Evaluation](https://docs.google.com/document/d/1xLsiB6RljJUQGT9EWbNOMqCVL-Kb8dS1PivriVjgz5E/edit?usp=sharing) | Team member instructions for how to complete their annual Self-Evaluation task in Workday. |
 | [Workday Job Aid: How to Complete the Manager  Evaluation and Assess Growth Potential](https://docs.google.com/document/d/11wq7xkWi0O6a_YXtkH8RSy7DX5Rvxx1j7muWkaFIym0/edit?usp=sharing) | Manager instructions for how to complete their Manager Evaluation task and Assess Growth Potential task in Workday. |
 | [Workday Job Aid: How to Complete Talent Calibration](https://docs.google.com/document/d/1rcHLTE3cvmh_zglHO789uqaN25vYhvGSFRBbHMg8tJk/edit?usp=sharing) | Manager instructions for how to complete their Talent Calibration in Workday. |

@@ -17,6 +17,8 @@ Join the [#gitlab-germany channel](https://gitlab.slack.com/archives/CCLBN72TW) 
 GitLab has introduced two supplemental Pension Plans for our Germany Team Members.
 GitLab offers a **Support fund** (*effective 2023-04*, GitLab contributions only) and a **Direct Insurance Pension Plan** (*effective 2023-05*, Team Member contributions with GitLab matching up to 1% via [Allianz](https://www.allianz.de/?gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGFOXdVxBxDl1GdNzweGsEGxNyDBojrXXa_aita6JwWV_fudgFJOhyAaAhspEALw_wcB&AZMEDID=SEM_SE-GG_VT-g_TH-Brand.Gold_KA-perma%7Copen%7CBrandGold_AG-Brand.Gold.Brand_KW-allianz_MT-p_AZ-334946579704_SL-keinSL_EG-Multiple&ef_id=Cj0KCQiA-oqdBhDfARIsAO0TrGFOXdVxBxDl1GdNzweGsEGxNyDBojrXXa_aita6JwWV_fudgFJOhyAaAhspEALw_wcB:G:s&s_kwcid=AL!8161!3!334946579704!p!!g!!allianz&gclsrc=aw.ds)). Please see the below “Plan Design” section for additional plan details.
 
+For an overview of the Pension Plan please see the [GitLab German Pension Plan Deck](https://drive.google.com/file/d/1fdZBxhIxE0UJrrxFrIwuaL8AY5miHVRl/view?usp=sharing).
+
 The plans are administered by our German Brokers at WTW.  Please see below and the attached [flier](https://drive.google.com/file/d/10MKwET93ZVO6cgAS2LYmE1EfM60LpaOg/view?usp=sharing) for additional details on the plan.
 
 Team members can also email this form directly to WTW (contact details on the form, email yvonne.ruecker@wtwco.com) to obtain further support for the insurance tariff for salary sacrifice or request a consultation appointment with a WTW expert if needed.

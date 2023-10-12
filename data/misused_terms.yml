@@ -160,6 +160,16 @@
   exclude_from_exports: false
 
 - avoid:
+  - Documentation
+  avoid_footnote:
+  - used to describe the handbook or the way that we communicate
+  use_instead:
+  - Handbook
+  - Communication or specific type of communication material
+  reason: Documentation often refers to the process of generating documentation after a change has been communicated. At GitLab, we [write things down](https://handbook.gitlab.com/handbook/values/#write-things-down) *first* and then communicate. This way there is no need for documentation after the communication, a step that is frequently skipped.
+  exclude_from_exports: false
+
+- avoid:
   - Search
   - Elasticsearch
   use_instead:

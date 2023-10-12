@@ -11,8 +11,14 @@ Read more about what the goals of Switchboard are on the [Category Direction pag
 
 ## Accessing Switchboard
 
-GitLab Dedicated Switchboard is a base-entitlement for Support Engineers, Support Engineering Managers and Support Directors.
-You can access the Switchboard app by going into the **Okta Dashboard** -> **Search your apps** -> Search with the term **Switchboard (production)**.
+GitLab Support Engineers can access the [Switchboard](https://about.gitlab.com/direction/saas-platforms/switchboard/) application via [Okta](/handbook/business-technology/okta/index.html).
+
+1. Log in to Okta at `https://gitlab.okta.com`
+1. Search for and click on the **Switchboard (production)** app
+1. Click **Sign in**
+1. Under **Sign in with your corporate ID**, select **Okta**
+
+You should now be in **Switchboard**.
 
 ## Accessing customer configuration
 
@@ -58,3 +64,4 @@ GitLab Dedicated tenants not migrated to Switchboard are defined in the
   file's commit history and search for commits that mention `gitlab`.
 - Use the blame feature to find why individual lines or changes were added.
   It makes it easier to find MRs and Issues with additional context.
+

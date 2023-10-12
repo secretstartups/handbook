@@ -30,7 +30,7 @@ You may want to consider subscribing to [Platform::SaaS](https://gitlab.com/gitl
 
 By subscribing to the labels, you'll receive notifications on when a request is created. You should try to work them into your regular workflow, ensuring that you are assigning it to yourself like a customer ticket if you decide to take it.
 
-If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com%20Console.md).
+If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com%20Console.md).
 
 ## General Workflow
 

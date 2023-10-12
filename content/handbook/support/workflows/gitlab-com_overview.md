@@ -8,7 +8,7 @@ description: "Provides a general overview of how the GitLab.com (SaaS) context i
 
 This page is meant to provide a general overview of how GitLab SaaS (GitLab.com) is different from self-managed instances of GitLab.
 
-Please note that context for the following sections on this page should be covered by the various [workflows](index.html) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
+Please note that context for the following sections on this page should be covered by the various [workflows](index.html) that Support utilizes when working with GitLab SaaS along with the [GitLab.com Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-com-Basics.md) training module.
 
 ## GitLab.com Architecture
 

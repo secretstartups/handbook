@@ -1,6 +1,7 @@
 ---
 title: "Handbook Roadmap"
 description: Documents development plans for the handbook
+aliases: /handbook/content-websites/handbook-migration/
 ---
 
 ## Introduction
