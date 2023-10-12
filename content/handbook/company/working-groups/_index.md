@@ -111,7 +111,7 @@ All meetings should have an [agenda](https://about.gitlab.com/company/culture/al
 
 ### Create a page in the handbook
 
-Working Groups should have a page in the handbook in the current `working-groups` folder and added to the [list of active working groups](#active-working-groups-alphabetic-order) below. If you inherited an existing Working Group, make sure that the page is up-to-date. This ensures that other team members have a place to go if they are looking to learn about what you are working on. At GitLab, we’re [public handbook first](/handbook/handbook-usage/#why-handbook-first), but if your work is [not public](/handbook/communication/confidentiality-levels/#internal), please use the internal handbook to keep the content [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
+Working Groups should have a page in the handbook in the current `working-groups` folder and added to the [list of active working groups](#active-working-groups-alphabetic-order) below. If you inherited an existing Working Group, make sure that the page is up-to-date. This ensures that other team members have a place to go if they are looking to learn about what you are working on. At GitLab, we’re [public handbook first](/handbook/handbook-usage/#why-handbook-first), but if your work is [not public](/handbook/communication/confidentiality-levels/#internal), please use the [internal working groups folder](https://internal.gitlab.com/handbook/company/internal-working-groups/) to keep the content [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 Items to cover on your handbook page should include:
 
