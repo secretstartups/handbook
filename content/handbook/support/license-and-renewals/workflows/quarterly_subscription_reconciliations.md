@@ -5,7 +5,7 @@ description: Workflow for QSR dispute, pausing QSR, resolving max seats, and tri
 ---
 ## Overview
 
-This page provides guidance for handling tickets about the quarterly subscription reconciliation process, including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconcilliation.
+This page provides guidance for handling tickets about the quarterly subscription reconciliation process, including disputes, escalation, pausing QSR, resetting max seats, and how to retry a reconciliation.
 
 ## General Workflow
 
