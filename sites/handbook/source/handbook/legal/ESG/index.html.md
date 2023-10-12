@@ -61,7 +61,7 @@ Below are summaries of the events we held in August and October 2023.
       - On October 11th, we held two virtual competitions with students from Kingsley Academy and Girls Inc of Alameda County. Coached by GitLab volunteers, students role played as CEOs of the company tasked with creating a new initiative with an accompanying marketing campaign that encouraged young professionals to begin their careers at GitLab. Each team pitched their ideas to a panel of GitLab judges and the winning teams came away with prizes.  
 
 
-#### In Kind Support & Matching Gifts Program
+#### In Kind Support
 
 **GitLab for Nonprofits** 
 
@@ -116,6 +116,8 @@ While GitLab for Nonprofits Program benefits do not include product [support](ht
 - Post questions in the [GitLab Forum](https://forum.gitlab.com/), where community members and GitLab team members can review and discuss them.
 - File bug reports and breaking behaviors [as issues](https://gitlab.com/gitlab-org/gitlab/-/issues) for product teams to review and address.
 
+#### Matching Gifts Program 
+ 
  At this time, GitLab does not offer a matching gifts program. 
 
 ### Membership Requests (non-monetary)
