@@ -148,7 +148,7 @@ My goal is to translate the product’s mission into an effective, empathetic, a
 
 ##### Job Summary
 
-I spend the majority of my time focused on completing planned development tasks, with roughly 30-40% of time taken by meetings, planning for the next sprint, and fixing bugs or customer requests as they arise. I work off of JIRA tickets and have a regular stand-up with my team.
+I spend the majority of my time focused on completing planned development tasks, with roughly 30-40% of time taken by meetings, planning for the next sprint, and fixing bugs or customer requests as they arise. I work off of issues and have a regular stand-up with my team.
 
 ##### Motivations
 
