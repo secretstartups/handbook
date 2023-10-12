@@ -44,7 +44,7 @@ All GitLab team members are eligible for the [Referral Bonus]({{< ref "incentive
 
 Before submitting your referral, please check the [Country Hiring Guidelines]({{< ref "/handbook/people-group/employment-solutions#country-hiring-guidelines" >}}) page, **Entity** and **PEO** sections, to see if GitLab can hire in the country where your referral lives. If the country is **not** listed or is marked as `Not Open for Hiring`, we will have to reject the candidate for the open vacancy.
 
-All GitLab Team Members can submit a referral by either submitting them directly through Greenhouse - if the vacancy is open **externally** - or by creating an `Issue` in the [Referrals Project](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template if the vacancy is open **internally**. We ask that you please try to submit the referral in Greenhouse first and, in the event that you can't find the vacancy, use Issues as the second option.
+All GitLab Team Members should submit a referral by submitting them directly through Greenhouse if the vacancy is open **externally**. If you are not seeing the option to refer someone, but the job is open externally, please remove all filters before trying again. 
 
 ##### Submitting a Referral in Greenhouse
 
@@ -54,20 +54,12 @@ All GitLab Team Members can submit a referral by either submitting them directly
     - Of note:
         - We recommend you upload an up-to-date version of the candidate's resume to ensure the relevant recruiting team(s) have all information available to evaluate the candidate. If no resume is available please include a link to their LinkedIn profile.
         - When selecting a `Job` from the dropdown, make sure that an `Office` is **not** selected.
-            - If you **don't** see the desired vacancy there, please check the [Internal Job Board](https://gitlab.greenhouse.io/internal_job_board). If the vacancy is there, please [submit an Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template.
+            - If you **don't** see the desired vacancy there, please remove all filters and try again. If the position is not listed, it is not available externally either because we received a high enough volume of applications, it is not ready for posting, or it is available to internal candidates only.
         - While the `Social media` field is not required, we highly encourage that the referral's LinkedIn URL is provided.
         - If your referral is interested in multiple roles, please refer them to their top choice role. In the referral notes you can mention in which roles the person is interested as well. The recruiter will review the referral and take the appropriate action.
 1. Click `Add this referral` and you'll see the referral in the `My Referrals` section of your dashboard.
 1. If you'd like to introduce a candidate to the TA team, but do not have enough information to feel confident making a referral, you can follow the instructions in Greenhouse to share your social referral link with those people rather than submitting a referral on their behalf.
 
-##### Submitting a Referral via an Issue
-
-1. [Create a new issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) using the `Referral Submission` template.
-1. Please be mindful of **required** fields and selecting the appropriate checkbox, where applicable.
-    - Additional context as to why you're referring the candidate (i.e. why would they be great addition to the GitLab team?) is greatly appreciated (and required).
-    - We recommend you upload an up-to-date version of the candidate's resume to ensure the relevant recruiting team(s) have all information available to evaluate the candidate. If no resume is available please include a link to their LinkedIn profile.
-1. Ensure that the created issue is a [confidential issue](https://docs.gitlab.com/ee/user/project/issues/confidential_issues.html).
-    - If you **don't** have the ability to mark the Issue as `Confidential`, please post in the `#talent-acquisition` Slack channel and we'll follow-up in a DM.
 
 To see what positions are available to submit an external candidate for please visit the [Careers at GitLab](https://about.gitlab.com/jobs/) page.
 
@@ -94,8 +86,7 @@ For details regarding the *Referral Bonus Payout*, please visit [this page]({{< 
 #### Recruitment Process
 
 As a way of ensuring a consistent and positive experience with both the candidate and team member, it's important that the talent acquisition team follows these steps:
-1. Team member makes the referral through [Greenhouse](https://gitlab.greenhouse.io/referrals/new) or a [GitLab Issue.](https://gitlab.com/gl-talent-acquisition/referrals/-/issues)
-1. Within 2 business days, the recruiter acknowledges and thanks the team member for the referral via Slack. The recruiter should also remind the team member that they can track the application status in Greenhouse by linking this [handbook page.](#referral-statuses)
+1. Team member makes the referral through [Greenhouse](https://gitlab.greenhouse.io/referrals/new)
 1. Recruiter to ensure that the referrer is added to Greenhouse correctly. If not;
    1. On the candidate's profile in Greenhouse click the `Details` tab
    1. Then scroll down the page to `Source & Responsibility`
@@ -109,8 +100,6 @@ As a way of ensuring a consistent and positive experience with both the candidat
 
 - Review and action any outstanding candidates in the [Weekly Referral Report.](https://docs.google.com/presentation/d/1RK1HsdHPpdpPJbE0hc6aZrhRJVAw8rBQsRM6NuwviOA/edit#slide=id.g152eafd0392_0_0)
    1. Pay close attention to those referred candidates sitting in the `Get To Know Us` and `Qualified` stages in the report who haven't been actioned yet.
-   1. You can access these candidates by clicking on your name and then following the hyperlink to Greenhouse.
-   1. If you see a cell highlighted in purple against your name then please try to action straight away. This means the candidate hasn't heard from us in 5 business days or more.
    1. If the candidate is attached to multiple requisitions in Greenhouse then disposition the candidate in Greenhouse using the rejection reason `Moved Forward In Different Role` > click `Reject and Don't Send Email`
 - Set up Greenhouse notifications correctly so you never miss a referral.
    1. Click on the role and navigate to `Job Setup`
@@ -122,20 +111,14 @@ As a way of ensuring a consistent and positive experience with both the candidat
    1. For an optimal hiring experience a candidate should only be interviewing for one position at a time given the nuances in the recruitment process between teams. Based on the candidate's background and experience, the recruiters are to decide what team is a better fit, also factoring in the priority of the roles and aged reqs (+90 days old).
    1. Recruiter is then to screen as normal.
    1. If not a fit, then decline for that role but in the rejection acknowledge that they have been referred to other roles and, if so, other recruiters on the TA team will reach out if there's a fit.
-   1. Tag the other recruiter/s in both Greenhouse and Slack to inform them of the outcome and provide any further details if needed for the candidate to be considered for other positions.
 
 #### Common Referral Situations
 
-- Your Referral already submitted an application.
-    - In the event that your Referral already applied, please create an [Issue](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) and provide as much detail as possible about the referral situation. Also, please answer the questions outlined in the *Referral Submission* template. To reiterate, Referrals should be submitted with a personal conviction that they'll be a great addition to the GitLab team. After receiving that, the appropriate Team Member will look into updating the Candidate's source information.
 - Your Referral was referred by someone else.
     - In the event that your claimed Referral was submitted by someone else, the **first** Team Member to have submit the candidate will be considered their *Referrer*.
         - In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform People Ops of that compromise.
             - When such a situation arises, a People Ops team member will notify the Referrers and what will need to happen next.
 - If you referred the candidate to **dissimilar** vacancy, then you would be named their *Referrer* for that specific vacancy.
-- Referring a candidate to the similar positions within the same department.
-
-Other scenarios to be mindful of:
 
 - If the Referrer is part of the Hiring Team they'll...
     - ... recuse themselves from interviewing the candidate and the Hiring Manager will choose a replacement Interviewer.
