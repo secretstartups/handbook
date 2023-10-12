@@ -24,15 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars
 
-#### Hands-On GitLab CI Workshop 
-##### October 11th, 2023 at 9:00-10:30AM Pacific Time / 12:00-1:30PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_214CXs_IQteqZJMgpusWVw#/registration)
-
 #### Advanced CI/CD
 ##### October 17th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -85,15 +76,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Hands-On GitLab CI Workshop 
-##### October 11th, 2023 at 9:00-10:30AM UTC / 11:00AM-12:30PM CET
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-Learn how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ex5AiVtERbeL3THcpihvqQ#/registration)
 
 #### Advanced CI/CD
 ##### October 17th, 2023 at 9:00-10:00AM UTC / 11:00AM-12:00PM CET
