@@ -86,20 +86,23 @@ _Note: To change the table above, team members can edit the [Google Slide deck](
 
 ##### Job Summary
 
-I am responsible for defining and scoping features, incorporating company objectives into the product roadmap, and giving developers and designers the requirements they need to deliver strong features. Whether I’m making sure I have the right skill-sets on the team, prioritizing feature requests, or ensuring that we deliver on time, my job is to set my team up for success.
+At the center of many facets in product development, I am responsible for shaping strategic visions, translating them into actionable plans, and ensuring that our products meet user needs and deliver real value. While my role extends beyond tactical responsibilities, I recognize the critical nature of managing day-to-day tasks which drive successful execution, even though they may not be my favorite part of the role. I strive to create strong relationships, align teams towards common goals, and ensure stakeholders buy-in to the vision for successful product development. My toolkit must include data-driven decisions, market awareness, effective communication, and a clear strategic vision.
 
 ##### Motivations
 
-- When company objectives shift, I want to have a standard process for communication in place, so that I can be in sync with all team members.
-- When development begins, I want to see an overview of all the relevant information related to a feature or project, so that I can monitor progress throughout a cycle.
-- When I’m planning for the next cycle, I want to see a history of how accurately the developers on my team estimated their capacity, so that I can be sure that key features will be delivered on time.
+- Solving Complex Problems and Delivering User Value: I find deep satisfaction and motivation in tackling challenging problems head-on. My drive stems from the opportunity to develop innovative solutions that meet user needs and create real value, culminating in a richer user experience and making a positive impact in the day-to-day lives of our users while driving value and increasing revenue for my organization.
+- Taking Products from Concept to Launch: The process of taking a product from concept to launch excites and motivates me. I get satisfaction from taking part in the evolution of an idea into a fully realized product, navigating challenges, guiding development, and observing the impact with users.
+- Adapting to Change and Achieving Alignment: I’m proud when I can adapt to shifting company objectives and maintain effective communication with my team. I am always working to achieve alignment across teams, knowing that it fuels our ability to achieve ambitious goals and innovate together.
+
 
 ##### Frustrations
 
-- It can be difficult to know the status of certain requirements, when my team members do not take the time to update the various tools we use.
-- I often have trouble balancing feature requests with capacity.
-- It can be difficult to give clients a reasonable timeframe that is not off-base, since a cycle is often unpredictable.
-- It’s challenging to explain why certain features have been delayed or deprioritized, when customers and upper-level management are not working closely with the team.
+- Being Stuck in a "Project, Not Product”, Management Role: It's demotivating when I find myself primarily functioning as a project manager, focusing on tracking tasks and timelines rather than the dynamic and strategic responsibilities that come with being a product manager. This hinders my ability to address customer needs, devise effective market strategies, and maintain a clear product vision, which drives my job satisfaction.
+- Wasting Time, Development Capacity, and Ultimately Money: Wasted efforts and resources on products that fail to gain traction or meet user needs is disheartening. I feel frustrated when we invest in solutions that go unused or lack a clear purpose, especially when there is little meaningful user value or overall product success.
+- Inability to access project status quickly: It can be frustrating when it is difficult to obtain the status of work efforts and I am forced to spend time chasing status. Timely awareness of project status, especially when it is off track, is crucial for my role because I need to ensure people invested in delivery are informed if we will not meet our commitments. 
+- Balancing Product Vision and Capacity: I am constantly trying to make the most of our team’s capacity to execute on our product vision. It’s a challenging juggling act to ensure I am making the right decisions on what comes next to maximize our ability to deliver compelling value to the market.
+- Unpredictable Timeframes, Feature Delays, and Deprioritization: It's frustrating when I'm tasked with providing clients and stakeholders with a reasonable timeframe for the delivery of a feature since development cycles can be unpredictable, and change is inevitable.
+
 
 #### Delaney (Development Team Lead)
 
