@@ -32,7 +32,7 @@ For more details about the vision for this area of the product, see the
 
 Check out our [jobs page](/jobs/) for current openings.
 
-## Work
+## Planning
 
 ### Picking something to work on
 
@@ -46,7 +46,7 @@ The following labels are added by the Engineering Manager at the start of the mi
 It's OK not to take the top item if you are not confident you can solve it, but please post in #s_plan or #g_knowledge if that's the case, as this
 probably means the issue should be better specified.
 
-### Capacity Planning
+### Capacity
 
 <%= partial("handbook/engineering/development/dev/plan/capacity_planning") %>
 
@@ -54,7 +54,20 @@ Typically, 3-month rolling average is a good indicator of the team's capacity. K
 
 The PM and EM will work to fit ~Deliverable issues into no more than 75% of the team's capacity and allocate the rest to ~Stretch issues.
 
-#### Board-Walk
+#### Planning Rotation
+
+As a small team with distinct roles this team does not run an allocated planning rotation, as other Plan teams do.
+
+Instead, all members of the team get involved in estimation during the planning process. We rely on the person with the most context around a task 
+to give an accurate estimate. This should start on the 5th and be completed by the 12th of the month.
+
+#### Weighing bugs
+
+<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+
+### Refinement
+
+#### Board-Walk (weekly)
 
 Team-members meet to walk the [Build Board](https://gitlab.com/groups/gitlab-org/-/boards/5454834) once a week. 25 minutes are allocated for this sync call but it may be completed much more quickly than that. The EM is DRI and attendance is optional except for PM. It is recorded and shared in the [#g_knowledge Slack channel](https://app.slack.com/client/T02592416/C04R571QF5E). The recording will be made public only if no security or other confidential issues are discussed. The [agenda](https://docs.google.com/document/d/1SZrFiipmH5GX5CYL-nOuc8NNqSs-AXCvHOzajwy06vk/edit?usp=sharing) is available internally and all team-members are encouraged to contribute updates and questions.
 
@@ -67,7 +80,7 @@ The purpose of this meeting is to:
 
 DRIs should keep issues up to date with [workflow labels](https://about.gitlab.com/handbook/engineering/development/dev/plan/knowledge/#use-of-labels) and [health status](https://about.gitlab.com/handbook/engineering/development/dev/plan/#keeping-health-status-accurate) on an ongoing basis rather than waiting for this meeting.
 
-#### Planning Meeting
+#### Planning Meeting (monthly)
 
 A planning meeting is held once per month, prior to the start of the milestone. The Product Manager is the DRI for scheduling it.
 
@@ -95,16 +108,23 @@ A refinement meeting might have an agenda with topics like:
 
 As an outcome, the meeting could produce a list of issues, with an estimated milestone, to iterate over. 
 
-#### Planning Rotation
+#### Asynchronous-first
 
-As a small team with distinct roles this team does not run an allocated planning rotation, as other Plan teams do.
+Most planning is done asynchronously. Some tools and processes are observed to make this more efficient.
 
-Instead, all members of the team get involved in estimation during the planning process. We rely on the person with the most context around a task 
-to give an accurate estimate. This should start on the 5th and be completed by the 12th of the month.
+Since issues can only have one milestone attached, the `~"Next Up"` label is used to mark items for the upcoming milestone, regardless of whether they already have a milestone or not. PM and EM should remove this label from any issues prior to the start of planning, then add it to prospective issues and any expected to slip the current milestone during the planning process.
 
-#### Weighing bugs
+Using this label, it's possible to easily analyze the upcoming milestone. The [Planning Board] mimics the Build Board but is scoped to this label instead of the current milestone. Use it to:
 
-<%= partial("handbook/engineering/development/dev/plan/weighing_bugs") %>
+* View the current workflow state of all proposed issues.
+* Plan capacity by totalling weight values for each list.
+* Understand blocking relationships that may be resolvable before the milestone starts.
+
+When the new milestone starts, the milestone can be added all issues with the `~"Next Up"` label in a bulk action, and the label itself removed.
+
+[Planning Board]: https://gitlab.com/groups/gitlab-org/-/boards/7109724
+
+## Workflow
 
 ### Use of Labels
 
