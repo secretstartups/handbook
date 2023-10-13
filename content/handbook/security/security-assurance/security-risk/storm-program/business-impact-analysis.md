@@ -37,17 +37,18 @@ The BIA covers all systems in GitLab's [Tech Stack](https://about.gitlab.com/han
 
 ### New Systems (Ad-Hoc)
 
-A BIA is initiated as the result of TPRM's process for net new systems (guided by our [report template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/TPRM%20Assessment%20Report%20Template.md)). An [associated Tracking Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/New%20System%20-%20TS%20Add%20and%20BIA%20Tracking.md) is created by the TPRM engineer to ensure that the new system has a BIA performed and is added to the Tech Stack.  The steps listed below summarize how BIAs are performed for new systems:
+A BIA is initiated as the result of TPRM's process for net new systems (guided by our [report template](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/TPRM%20Assessment%20Report%20Template.md)). An [associated Tracking Issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/blob/master/.gitlab/issue_templates/New%20System%20-%20TS%20Add%20and%20BIA%20Tracking.md) is created by the TPRM engineer to ensure that the new system has a BIA performed and is added to the Tech Stack.
 
-1. A formal BIA questionnaire is distributed to the Business/Technical Owner for each system, as listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) or Merge Request related to adding the system to the Tech Stack. Launch a new BIA Questionnaire from GitLab's GRC Application, ZenGRC, by following these steps:
-      1. Click 'System of Record' > 'Projects' > 'Business Impact Analysis - New Systems' Project (Select [correct Fiscal Year](https://gitlab.zengrc.com/sor/info/Project/106/info))
-      1. Click the 3 dots on the top right-hand corner > 'Send New Questionnaire'
-      1. Search for and select the 'Business Impact Analysis (BIA)' questionnaire template
-      1. Populate the Recipient Details section. The Recipient is "Internal" (input name/GitLab email of one Business/Technical Owner only).
-      1. Search for and select the 'BIA Questionnaire (New System)' email template
-      1. Update the Title/Subject, Greeting, Message body, CC and Reply-To @securityrisk@gitlab.com, and Due Date accordingly.  Target completion of the BIA Questionnaire is two weeks.
-      1. Click 'Review' > 'Submit' when ready
-      1. Map the appropriate System Object to the BIA Questionnaire by clicking the pencil icon in the 'map:system' column.
+A formal BIA questionnaire is distributed to the Business/Technical Owner for each system as listed in the [Tech Stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) or Merge Request related to adding the system to the Tech Stack. Launch a new BIA Questionnaire from GitLab's GRC Application, ZenGRC, by following these steps:
+
+1. Click [FY24 Business Impact Analysis - New Systems (9/7/2023 - 1/31/2024)](https://gitlab.zengrc.com/sor/info/Project/109/info).
+1. Click the 3 dots on the top right-hand corner > 'Send New Questionnaire'.
+1. Search for and select the **FY24 Business Impact Analysis (BIA) - Standard** Questionnaire template.
+1. Advance and populate the Recipient Details section. The Recipient is "Internal" (input name + GitLab email of one Business/Technical Owner only). 
+1. Search for and select the **FY24 Business Impact Analysis (BIA) - Standard** Email template.
+1. Populate the [New System's Name] inside the email before sending. Target completion of the BIA Questionnaire is two weeks.  CC To/Reply To "securityrisk@gitlab.com".
+1. Click 'Review' > 'Submit' when finished.
+1. Map the appropriate System Object to the BIA Questionnaire by clicking the pencil icon in the 'map:system' column.
 
 ##### Escalation Path
 
