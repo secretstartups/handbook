@@ -109,7 +109,7 @@ The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/tot
 
 - Includes [Senior-level requirements](#senior-red-team-engineer-requirements)
 - Strong knowledge of the GitLab application and its components
-- Good knowledge of automation using well known tools
+- Experience designing/creating automation using well known tools/pipelines
 - Profound knowledge of exploit techniques, and common TTPs
 - Senior knowledge of one or more programming or scripting languages
 - Extensive knowledge of offensive cloud security and common vulnerabilities
