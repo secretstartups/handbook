@@ -350,6 +350,12 @@ Example:
      * `[All of Sales Development] | [Survey - People Group Survey Reminder] | [📊 Feedback Requested ]`
 
 
+## Field Marketing <> BDR Collaboration Process
+
+Our FM/BDR collaboration process is a method that we follow in the spirit of maximizing cross-functional collaboration. We have created an issue template for Field Marketers to populate, which in turns gets managed from the [Kanban Board here.](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5665082). The premise of the [issue template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/FM_BDR_Collaboration_Template.md) and board is to streamline communication between our teams. The issue template very clearly articulates all next steps required of this process while it also tries to leave space for us much AdHoc collaboration as required for each specific event. 
+
+As a BDR Director you will be tagged first in this issue as the primary DRI, while as a BDR Manager you will be involved in this issue on a case-by-case basis by your regional Director. All next steps of this process are clearly mentioned in the template for the issue so please follow each step in turn. The Sales Dev Operations team is also tagged and will be there to monitor progress and offer help if requested.
+
 ## Status Related 6Sense Reports
 
 On folder #5 in the [6Sense segments list](https://gitlab.abm.6sense.com/segments/manage), you'll find the templates for the main three categories of accounts that we have. These templates are meant to be cloned and edited for your teams as per the guidelines below and will assist with coaching on 1:1s and team calls, as well as driving more predictable pipeline building.
