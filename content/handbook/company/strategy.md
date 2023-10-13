@@ -11,78 +11,9 @@ Our strategy is looking 3 years out and [fits into our cadences](/company/cadenc
 Along the road to realizing our mission of **everyone can contribute**, our
 strategic goal is to be the leading complete [DevSecOps Platform](/solutions/devops-platform/). We help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels) (single application + open-core model) will propel us to efficiently be the default choice in the Enterprise market.
 
-To achieve this, we will endeavor to:
-
-### 1) Customer Results
-
-Ensure that GitLab is the default when customers buy DevSecOps software.
-
-1. Even easier to buy
-    1. [Dedicated](https://docs.gitlab.com/ee/subscriptions/gitlab_dedicated/)
-    1. [Fulfillment efficiency](/company/top-cross-functional-initiatives/#current-top-cross-functional-initiatives)
-    1. [Consumption add-ons](https://about.gitlab.com/pricing/)
-    1. Sales efficiency
-    1. [Registration features](/direction/registration-initiatives/#registration-features)
-1. Prove value
-    1. Advocate Training
-    1. Advocate Certification
-    1. Standardize customer value data
-    1. [Value Streams Dashboard for Executive](https://gitlab.com/groups/gitlab-org/-/epics/9317)
-1. Co-create
-    1. [Leading Organizations](/handbook/marketing/developer-relations/leading-organizations/)
-    1. [Dogfooding](/handbook/values/#dogfooding)
-
-### 2) Mature the Platform
-
-Build upon our current platform to meet current and future user needs.
-
-1. Be recognized as the leader in the DevSecOps Platform Category
-    1. Be a replacement for the [existing Best In Class (BIC) tools](https://about.gitlab.com/devops-tools/) so people can switch from DIY DevOps to a DevSecOps Platform.
-    1. [GitHub best in class comparison](/competition/github/) and differentiation
-    1. [Plan](/direction/plan/)
-    1. [Create](/direction/create/)
-    1. [Verify](/direction/ops/#verify)
-    1. [Security](/direction/secure/)
-1. Scaling
-    1. Dedicated (see ARR strategy pillar for details)
-    1. Storage measurement
-    1. [Disaster Recovery time](/company/team/structure/working-groups/disaster-recovery/)
-    1. Standardize Usage data
-    1. [Cells](/direction/enablement/tenant-scale/cell/)
-    1. Data archival
-    1. Import sandbox
-1. Curated experience
-    1. Fulfillment efficiency (see ARR strategy pillar for details)
-    1. Usability benchmarking
-    1. Customer Executive Dashboards
-    1. AI removes security dupes
-    1. [Governance documentation](https://docs.gitlab.com/ee/administration/compliance.html)
-    1. [DORA documentation](https://docs.gitlab.com/ee/user/analytics/dora_metrics.html)
-
-More detail on our product strategy can be found on our [direction page](/direction/#vision).
-
-### 3) Grow Careers
-
-Support GitLab team members in excelling within GitLab and beyond. Be a company to externally emulate and have a training impact that extends beyond the wider-community.
-
-1. Accountability
-    1. [Bias for action](/handbook/values/#bias-for-action)
-    1. [Iteration](/handbook/values/#iteration)
-    1. Fast pace
-    1. [Identifying underperformance early](/handbook/leadership/underperformance/)
-1. [Increase team diversity](/company/culture/inclusion/)
-    1. Ethnicity
-    1. Gender
-    1. Geo
-1. Great training
-    1. [TeamOps](/teamops/)
-    1. [Low voluntary turnover](/handbook/people-group/people-success-performance-indicators/#voluntary-team-member-turnover-rolling-12-months)
-    1. People who leave voluntarily do very well
-        - Note: we are confirming our ability to measure this
-    1. [Vision](/company/vision/)
-    1. GitLab Foundation
-
 As we execute on our strategy, it is important to use our financial targets as guide rails and mature our internal processes for building a durable business for the long-term.
+
+**Strategy details are available in GitLab's [internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
 
 ## Principles
 
@@ -247,11 +178,3 @@ eGroup June Virtual Offsite Sessions:
 - Aug 1-3rd
 
 Kickoff LRO with inputs from this process
-
-## Why is this page public?
-
-Our strategy is completely public because transparency is one of our [values](/handbook/values/).
-We're not afraid of sharing our strategy because, as Peter Drucker said,
-"Strategy is a commodity, execution is an art."
-
-{{% include "includes/take-gitlab-for-a-spin.md" %}}
