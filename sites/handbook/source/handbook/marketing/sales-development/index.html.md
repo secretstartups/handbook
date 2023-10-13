@@ -781,22 +781,53 @@ Your manager will review the information and decide whether SAO credit is warran
 
 ![Opportunity Creation Workflow](/images/handbook/marketing/sales-development/Opportunitycreationworkflow.png)
 
-## BDR Outbound Process
+## BDR First Order Outbound Process
 
 BDR outbound lead generation is done by prospecting to companies and individuals who could be a great fit for our product. Prospecting is the process of finding and developing new business through searching for potential customers with the end goal of moving these people through the sales funnel until they eventually convert into customers.
 
 BDRs will work closely with their dedicated SAE or AE to choose which accounts move into “Actively Working”. Together they will build a strategy for those companies. It is crucial that outreach is very intentional and strategic. When reaching out, we want BDRs to offer value and become a trusted advisor, ensuring a positive impression is left whether there is current demand or not.
 
-### 1. Pre-vet Accounts
+The FO Outbound process is split in four phases, which should be followed on a weekly basis to ensure a steady outbound pipeline in alignment with our internal KPIs. 
 
-In additional to our B2B database toolstack, we also use [6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/) to pre-qualify the accounts that should be considered for our | pipelines since 6Sense [scores accounts](https://6sense.com/platform/account-matching/) based on their market and profile fit.
+### Planning Phase (4-5 hours/week)
+
+#### 1A. Create a set of achievable objectives
+
+These goals should be based on what you know you can achieve when focusing on First Order accounts. It is particularly important to [know your equation](https://docs.google.com/spreadsheets/d/1n7KMzsOnXq9P_IhEuPHldCgnneK-A41fyOsNS2uMrm0/edit#gid=1901663143) so you can map your activities to specific outcomes and goals in a predictable way. 
+
+The main objective you should be focusing at is to measure and plan what activity is required to achieve or increase the amount of First Order meetings.
+
+#### 1B. Map your objectives to your data
+
+Research your territory to identify the true First Order (FO) accounts, ensuring no other subsidiaries have licenses, verifying there hasn't been a lost renewal in the past 180 days, and confirming there are no open opportunities. The goal here is to vet your TAM (Total Addresable Market) so that you can start matching cohorts of accounts with the objectives that you've outlined in the previous step. Indicatively, you can export these accounts to a Google Sheet, or other SSoT of your preference, for tracking since these accounts will be marked as [Actively Working](https://about.gitlab.com/handbook/marketing/sales-development/#definitions) at a future step further down the process.
+
+Utilizing these accounts, create an outreach strategy and plan for the upcoming month and quarter. This strategy should include considerations such as the number of accounts to include in sequences per week and per month, the quantity of prospects from these accounts to add into sequences weekly, whether you intend to target specific personas, if you plan to employ targeted messaging, whether sequences will be used for high-priority targets, and the messaging approach you will implement. As previously mentioned, knowing your equation is important for your planning here. Please refer to the sheet linked above to determine your exact metrics.
+
+### Account Research Phase (4-5 hours/week)
+
+During your research phase for accounts to include in your sequences, thoroughly investigate and document pertinent information, which may include:
+
+* Identifying new strategic hires.
+* Discovering recent job openings in DevOps.
+* Monitoring for security breaches or threats.
+* Scanning for relevant news articles.
+* Gathering intelligence on competitors.
+* Examining future plans, such as digital transformation initiatives.
+* Noting recent company acquisitions.
+* Investigating LinkedIn connections.
+* Identifying instances of GitLab usage by employees or as a past customer.
+* Exploring 2nd and 3rd-degree connections.
+* Seeking mentions of DevOps.
+* Reviewing relevant 10K reports or financial disclosures.
+
+This comprehensive research will provide valuable insights for crafting effective outreach strategies further down the funnel. Regarding account research, in addition to our B2B database toolstack, we also use [6Sense](https://about.gitlab.com/handbook/marketing/marketing-operations/6sense/) to pre-qualify the accounts that should be considered for our pipelines since 6Sense [scores accounts](https://6sense.com/platform/account-matching/) based on their market and profile fit.
 
 There are two ways utilize 6Sense:
 
 1. Through the SFDC iframe integrated dashboard (mandatory for FY24Q3)
 2. Through the 6Sense Platform (optional for this Quarter)
 
-### 2A. Using 6Sense through the SFDC dashboard
+#### 2A. Using 6Sense through the SFDC dashboard
 
 1. Navigate to SFDC
 2. On the main tab with options (leads, accounts, etc), click on the "+" sign
@@ -809,7 +840,7 @@ There are two ways utilize 6Sense:
 The dashboard will now display the top actively working accounts in your name. Do note that these are only accounts that we currently have on our database, while you can find greenfield accounts by visiting the SaaS platform (instructions in section 2B). Section 3 below explains how you can review and utilize this data. 
 
 
-### 2B. Using 6Sense through the SaaS platform <br>
+#### 2B. Using 6Sense through the SaaS platform <br>
 
 
 1. Navigate to 6Sense through Okta
@@ -834,13 +865,9 @@ The dashboard will now display the top actively working accounts in your name. D
  5. For folder 2, you'll see a prompt to add your region to the "Address: Region" field. Do note that based on your territory there are other datapoints like "Address: City" or "Address: Country" that can be used. We're always eager to work with you to help build those reports accurately. 
  6. After having done the edits on steps 4 and 5. Press "Save Changes". Make sure that you've updated the naming convention accordingly and click "Save As New Segment".
 
+#### 3. Manual Research on Accounts
 
-
-### 3. Manual Research on Accounts
-
-No matter how efficiently we're trying to use our toolchain, these tools are still prone to error, and manual research is required to best shortlist the prospecting lists that cross-referencing will provide.
-
-Manual research will also provide additional context that can be used to hyper-personalize your outreach to your prospects.
+No matter how efficiently we're trying to use our toolchain, these tools are still prone to error, and manual research is required to best shortlist the prospecting lists that cross-referencing will provide.Manual research will also provide additional context that can be used to hyper-personalize your outreach to your prospects.
 
 For each account that you want to investigate, start with SFDC to make sure that there are no duplicate accounts. The report templates in 6Sense should exclude existing customers or accounts actively prospected, but we cannot automatically exclude accounts that have a different naming or domain on salesforce (ie. GitLab and GTLB)
 
@@ -894,17 +921,21 @@ to cross-reference this data with our internal knowledge base so that you create
     ii. Check for relevant messaging based on persona<br>
     iii. Check for relevant pain-points based on value driver<br>
 
+### Execution Phase (5-10 hours/week)
 
-
-### 4. Exporting Accounts and Leads to SFDC, and adding to your Outbound Pipeline
+#### 4. Exporting Accounts and Leads to SFDC, and adding to your Outbound Pipeline
 
 After having manually shortlisted the accounts that are applicable to your campaign, the next step is to determine the relevant prospects per account and export them to SFDC. It is important to add accounts to your outbound pipeline so that AEs and other SDRs/BDRs know this is an account that is already being touched, and to avoid confusion or multiple people approaching the same prospects. Before moving an account into “Actively Working Status”, make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
 
 **To determine which prospects to enroll per account, please follow the steps below:**
 
-1. Identify the idea value drivers to be used for the account's pain-points through your manual research, as outlined above
+1. Identify the idea [value drivers](https://about.gitlab.com/handbook/sales/command-of-the-message/) to be used for the account's pain-points through your manual research, as outlined above
 2. Determine which personas would most benefit from the specific value drivers by using our CoM documentation on HighSpot
 3. Run queries for the specific titles on ZoomInfo, and export to CRM
+
+You should explore the specific personas you intend to target, such as VPs, Directors, Developers, Security, Architecture, DevOps, DevSecOps, Procurement Officers, and IT Buyers. Determine the number of prospects you plan to add to sequences, with a minimum of 25 per day. Utilize LinkedIn Sales Navigator, ZoomInfo or Cognism to identify these personas within your target companies.
+
+In Step 7, compile the selected prospects and create LinkedIn Sales Navigator lists for each persona. Save these lists for future use.
 
 **To export to CRM, please follow the guidelines below:**
 
@@ -920,6 +951,13 @@ After having manually shortlisted the accounts that are applicable to your campa
 
 ### 6. Maintaining a clean pipeline, and using BDR fields for cross-functional collaboration.
 
+Having followed the steps above, as part of account prospecting, you should have a finalized list of your accounts for the quarter, as per your territory's capacity. Ensure that these accounts are reviewed by your AEs to align everyone's understanding. Begin by placing 10 of these accounts into "Actively Working" status and enhance them weekly.
+
+Step 6 involves persona prospecting, where you should explore the specific personas you intend to target, such as VPs, Directors, Developers, Security, Architecture, DevOps, DevSecOps, Procurement Officers, and IT Buyers. Determine the number of prospects you plan to add to sequences, with a minimum of 25 per day. Utilize LinkedIn Sales Navigator to identify these personas within your target companies.
+
+In Step 7, compile the selected prospects and create LinkedIn Sales Navigator lists for each persona. Save these lists for future use.
+
+
 1. To review your current pipeline, along with any leads with next steps, please refer to your segments dashboards by going to SFDC > Dashboards and searching for `watch and help`. Team specific variants of these dashboard components will also be found on your team's dashboard. These dashboards will give you a bird's eye view of what actions are required from to maintain a clean pipeline, in terms of:
     i. Accounts with BDR fields past due
     ii. Prospects with sequence steps past due
@@ -932,14 +970,13 @@ You do not have to wait until the end of the month or quarter to change the BDR 
 
 BDR Account views are to help with territory organization. It is very important for BDRs and their manager to update the BDR assigned field for their territory. Contacts ownership will be based on the BDR Assigned to the account. BDRs will be responsible for contact follow up should they MQL. BDRs will also be responsible for any leads that MQL when they’re related to accounts where they are the BDR Assigned and the account is in “Actively Working” status.
 
-**Account views**
+## Account views
 
 * **B1 View**- My BDR Assigned accounts, (clone) - This view will need to be cloned and customized to accounts where you are the BDR assigned. You'll need to know your territory name in order to populate. Once set up, it will allow the BDR to mass update the 'BDR Strategy' field and then the 'BDR Prospecting Status' field to show which ones they will be "Actively Working". You can also use this view to move leads into other statuses.
 * **B2 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
 * **B3 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
 * **B4 Biew**- >>B4 BDR Recycle Date Past due (Clone) - This view will need to be cloned to show AWA accounts where the Recycle Date is in the past two weeks. 
 * **B5 Biew**- >>>>B5 Mvd to "WorkedinFY" this wk (Clone) - This view will need to be cloned to show Worked in FY accounts with a recent Recycle Date.
-
 
 **Before moving an account into “Actively Working Status”**, the BDR will make sure there have been no MQLs or opportunities created from that account within the past 30 days, and there are no leads from that account in Qualifying status with activity in the last 30 days or with a future task date set. If you are not sure, double-check with the related AE, SDR or BDR.
 
@@ -956,7 +993,7 @@ Ideas for account research and strategy: "coming soon"
 
 * Example: You can focus on Closed Lost Opportunities once they are older than 30 days, in line with the Sales Handbook [Opportunity Stages](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)
 
-### Best Practices for Outbound BDRs
+## Best Practices for Outbound BDRs
 
 ### Cold-Calling Checklist
 
@@ -1042,7 +1079,7 @@ Everyone you are contacting should exist on SFDC so that you, your manager, and 
 
 If you have a list you would like to import to SFDC please follow this [List Import](/handbook/marketing/marketing-operations/list-import/) process on our Marketing Operations page which outlines how to import CSVs and ZoomInfo Prospects into the system.
 
-### Outbound Messaging
+## Outbound Messaging
 
 [**Outreach Sequence Library**](https://app1a.outreach.io/sequences)
 
