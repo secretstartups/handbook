@@ -20,7 +20,7 @@ The People Operations Program Manager is a [grade 6]({{% ref "compensation-calcu
 - Seek opportunities to optimize efficiency of processes to deliver exceptional customer service and enhance the overall employee journey.
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
 - Manage meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.
-- Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors. 
+- Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors.
 - Solves problems that requires analysis of multiple sources of information before making a recommendation. 
 - Collaborate with teams to improve processes and to implement programs with the goal always being to make processes easier from the perspective of the team members.
 - Deliver engaging, informative and well-organized presentations to support project objectives and outcomes.
@@ -75,7 +75,7 @@ The Senior People Operations Program Manager is a [grade 7]({{< ref "compensatio
 - Build business cases for new projects based on supporting data to present to People Operations Leadership and key stakeholders.
 - Facilitate process mapping and design sessions with cross-functional teams and SMEs to document current state processes while also identifying process gaps, integration opportunities and efficiencies.
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
-- Manage high-level meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.  
+- Manage high-level meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.
 - Create measures to ensure project outcomes are successful and meet expectations.
 - Coordinate, communicate and report out People operational activities including cyclical and project-based assignments.
 - Demonstrated resourcefulness in problem-solving, proactively manage multiple projects with a keen sense of attention to detail.
@@ -123,9 +123,9 @@ The Senior People Operations Program Manager is a [grade 8]({{< ref "compensatio
 - Develop program management strategy and partner with People stakeholders on roadmap.
 - Design and drive rigour in processes and policies for our People Operations team.
 - Provide technical and functional knowledge to projects that contribute to overall direction across teams. 
-- Understand and work on complex problems that requires a deep understanding of multiple sources of data to make a recommendation. 
+- Understand and work on complex problems that requires a deep understanding of multiple sources of data to make a recommendation.
 - Exercise independent judgment in developing methods, techniques and evaluation criteria for obtaining results.
-- Lead others by sharing solutions and problem solving approaches with others. 
+- Lead others by sharing solutions and problem solving approaches with others.
 - Assume accountability for providing high-level project management and driving all aspects of critical projects from business case approval through validation of success metrics.
 - Based on System Design Thinking principles, design processes that are both effective and efficient and deliver the desired outcomes.
 - Primary focus on cultivating positive employee experiences, seeking opportunities to optimize efficiency of processes to deliver exceptional customer service and enhance the overall employee journey.
