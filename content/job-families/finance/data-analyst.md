@@ -172,7 +172,7 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 - Creates and maintains documentation, standards and policies for the form, structure and attributes of the BI applications and systems.
 - Defines and leads training seminars and other educational activities for the organization’s BI user community.
 - Identifies and documents best practices and makes recommendations for standards improvements.
-
+- Manages user provisioning & permissions
 ### Engineering
 
 - Support all departments in the engineering division by helping drive the standardization, capture, automation, and implementation of performance indicators
