@@ -32,7 +32,12 @@ Informative insights help us learn about something or someone and don’t result
 > * Most developers who took part in the survey were first introduced to GitLab while they were in school.
 > * Developers use about three other applications in addition to GitLab as part of their jobs.
 
-When documenting informative insights, no special actions or processes need to be followed. These simply get documented into Dovetail, per the [standard process](/handbook/product/ux/dovetail/).
+When documenting informative insights, no special actions or processes need to be followed. These simply get documented into Dovetail, per the [standard process](/handbook/product/ux/dovetail/), or in a corresponding research report (e.g., in Google Slides). Include links to Dovetail or the research report in the research issue.
+
+##### Guidance on when to use Dovetail or Google Slides for research reports
+Slides are best used when there is a story to tell behind the insights (i.e., to help the audience understand context and severity of findings), and/or for larger insights that require more discussion and collaboration. Documented decks assist with broader accessibility, tracking progression, and historical reference (i.e., decks work well for topics we anticipate referencing in the future).
+
+Dovetail may be used to document insights that require less explanation and have a smaller scope (e.g., feature-specific usability finding).
 
 #### Actionable insights
 Actionable insights **always have a follow-up action** that needs to take place as a result of the research observation or data, and a clear recommendation or action associated with it. An actionable insight both defines the insight and clearly calls out the next step. Here are two different examples:
@@ -58,7 +63,7 @@ Tips for writing an actionable insight:
 
 To document actionable insights:
 
-* **Step 1:** In Dovetail, preface the actionable insight's title with 'ACTIONABLE:' and clearly describe the next action that needs to be taken.
+* **Step 1:** If already documented in Dovetail as an insight, preface the actionable insight's title with 'ACTIONABLE:' and clearly describe the next action that needs to be taken. If you are putting insights in a research report instead of Dovetail for your project, skip this step.
 * **Step 2:** Create a unique issue in [GitLab.com/GitLab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/-/issues/new) using the appropriate _Actionable Insight_ issue template:
      * **Actionable Insight - Exploration needed** -  This is an actionable research insight derived from a UX research study. To address this insight, further exploration is required. That might be in the form of follow-up research, design explorations, etc. This issue template includes the `~"Actionable Insight::Exploration needed"` scoped label.
      * **Actionable Insight - Product change** -  This is an actionable research insight derived from a UX research study. To address this insight, a change to the product experience is required. This issue template includes the `~"Actionable Insight::Product change"` scoped label.  _Note that the `~"SUS::Impacting"` label and a [severity label](/handbook/engineering/quality/issue-triage/#severity) are both required for actionable insights that require product changes._
