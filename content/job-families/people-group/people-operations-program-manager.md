@@ -21,12 +21,12 @@ The People Operations Program Manager is a [grade 6]({{% ref "compensation-calcu
 - Independently gathers information from a variety of sources; to analyze, interpret, and summarize data gathered, and to deliver meaningful insights to the HR leadership team and other organizational stakeholders.
 - Manage meeting coordination and facilitation by ensuring all logistical aspects are organized and communicated concisely.
 - Works on problems of diverse complexity in which analysis of data requires evaluation of existing and unknown factors.
-- Solves problems that requires analysis of multiple sources of information before making a recommendation. 
+- Solves problems that requires analysis of multiple sources of information before making a recommendation.
 - Collaborate with teams to improve processes and to implement programs with the goal always being to make processes easier from the perspective of the team members.
 - Deliver engaging, informative and well-organized presentations to support project objectives and outcomes.
 - Create measures to ensure project outcomes are successful and meet expectations.
 - Resourcefulness in problem-solving, proactively manage multiple projects with a keen sense of attention to detail.
-- Grows knowledge of project management concepts and functional subject matters to determine solutions. 
+- Grows knowledge of project management concepts and functional subject matters to determine solutions.
 - Create project roadmaps, process documents, project documentation, and milestones to ensure successful completion of projects within the timeframe agreed upon.
 - Ensure compliance with all international rules and regulations.
 - Update documentation and handbook as appropriate.
@@ -122,7 +122,7 @@ The Senior People Operations Program Manager is a [grade 8]({{< ref "compensatio
 
 - Develop program management strategy and partner with People stakeholders on roadmap.
 - Design and drive rigour in processes and policies for our People Operations team.
-- Provide technical and functional knowledge to projects that contribute to overall direction across teams. 
+- Provide technical and functional knowledge to projects that contribute to overall direction across teams.
 - Understand and work on complex problems that requires a deep understanding of multiple sources of data to make a recommendation.
 - Exercise independent judgment in developing methods, techniques and evaluation criteria for obtaining results.
 - Lead others by sharing solutions and problem solving approaches with others.
