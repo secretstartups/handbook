@@ -698,6 +698,15 @@ Lead/contact statuses allow anyone in Salesforce to understand where a lead is a
 
 * [The same video](https://www.youtube.com/watch?v=LOKgeIi5yfA) also showcases the [Auto Follow Up to Book a Meeting Sequence](https://app1a.outreach.io/sequences/9543) SDRs and BDRs can use when a prospect responds to one of their sequences.
 
+## Automatic Enrollment to Sequences
+
+From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach.io/hc/en-us/articles/221361788-How-To-Create-an-Outreach-Trigger-) through Outreach. As a first iteration, we will be automatically enrolling leads that indicate a high Propensity to Purchase (PTP) score to a full High Touch outreach sequence. The filters applicable for this trigger are:
+
+* Lead has direct phone in their record
+* Lead has a high PTP score (4 or 5)
+* Lead is actively enrolled to a Low Touch Sequence 
+
+
 ## Process for scheduling an IQM with AE/SAE
 
 Whether it be from inbound follow up or outbound prospecting, you’re going to be engaging with prospects who are directly involved in a project or team related to the potential purchase of GitLab within a buying group, either as an evaluator, decision-maker, technical buyer, or influencer. During those interactions, you’ll be looking to gather information related to the SAO qualification criteria.
