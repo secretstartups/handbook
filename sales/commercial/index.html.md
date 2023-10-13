@@ -31,7 +31,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. Bookmark the relevant SalesForce dashboard for your region, this is essential to your success. Your Manager will give you the link when you first join.
 1. Get familiar with the [close date conventions](https://about.gitlab.com/handbook/sales/commercial/#close-date-conventions) used in Commercial Sales.
 1. Ensure you fully understand [the Required 7](/handbook/sales/commercial/#required-7). Your teammates and manager are more than happy to help you with this if you need it.
-1. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/reviews/market/application-release-orchestration-solutions/vendor/gitlab/product/gitlab).
+1. Read through reviews of GitLab to get an idea of what customers think about the product. Two good places to start are [Softwareadvice.com](https://www.softwareadvice.com/project-management/gitlab-profile/reviews/) and [Gartner Reviews](https://www.gartner.com/en/documents/4416199).
 1. Watching videos is core to your onboarding. You can watch YouTube & Chorus videos at 1.5x or 1.75x speed to get through them efficiently, you can still retain the information but in less time. Go to the Settings widget > Playback speed.
 1. When you first start, searching through Slack is a great way to find useful information as it's our primary method of asking questions and announcing things to the company. Some channels that are particularly good for information:
 [#questions](https://gitlab.slack.com/archives/C0AR2KW4B)
@@ -45,7 +45,7 @@ Please ensure you read the [Commercial Sales onboarding page](/handbook/sales/co
 1. You might find it useful to create a Google doc to document all your learnings in your first 30 days, as you will get a lot of information to remember and it will also get you in the habit of taking notes, a [key part of GitLab’s culture](/handbook/communication/#external-communication).
 1. You can never have too many [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) with colleagues. You don’t need to ask permission from people, just put some time in their diary.
 1. Make sure your calendar is always up to date so that you can get meetings from SDRs without having to moving them around.
-1. Listen to as many [Chorus](https://chorus.ai/) calls as possible. They are an excellent way to onboard.
+1. Listen to as many [Chorus](https://www.zoominfo.com/products/chorus?ch_source=chorus) calls as possible. They are an excellent way to onboard.
 1. Add your own tips to this page as you onboard to pay it forward for the next new rep!
 1. Get familiar with GitLab and seaching for Issues, MR's and handbook pages. This will significantly speed things up as you progress through onboarding.
 
