@@ -453,16 +453,16 @@ Below is the information related to Italy's statutory leave policies.  Please no
 
 All of the benefits listed below are administered and managed by [Remote](https://remote.com/)
 
-As part of the social security obligations, for its part, the employer pays:
+The social security obligations through Remote are divided between the employee and the employer, with each party contributing their respective shares:
 
-- Half of the Unemployment Insurance
-- The whole of the Non Occupational Accident insurance contribution (professional)
-- The whole of the Occupational Accident insurance contribution (professional)
-- Half of the Supplementary Unemployment insurance (if over a certain value).
-- Half of the Old age, survivors disability insurance
-- The whole of the Family Compensation Fund
-- All Administrative fees
-- Pension plan: [AXA Basisvorsorge AG J25](https://docs.google.com/document/d/1OlFzuWWJQfw5wOEr6hq0yGM4JoNoxjZTzKIFct2FlEQ/edit), per retirement credits
+- The Unemployment Insurance is 50% paid by the Employer & 50% paid by the employee.
+- The whole of the Non Occupational Accident insurance contribution is paid by the employee.
+- The whole of the Occupational Accident insurance contribution is paid by the employer.
+- The Supplementary Unemployment insurance (if over a certain value) is 50% paid by the employer and 50% paid by the employee.
+- The Old age, survivors disability insurance is 50% paid by the employer and 50% paid by the employee.
+- The whole of the Family Compensation Fund is paid by the employer.
+- All Administrative fees are paid by the employer.
+- Pension plan: [AXA Basisvorsorge AG J25](https://docs.google.com/document/d/1OlFzuWWJQfw5wOEr6hq0yGM4JoNoxjZTzKIFct2FlEQ/edit), per the retirement credits.
 
 ### Statutory Leave Policies
 
