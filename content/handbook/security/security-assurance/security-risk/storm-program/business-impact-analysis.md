@@ -44,7 +44,7 @@ A formal BIA questionnaire is distributed to the Business/Technical Owner for ea
 1. Click [FY24 Business Impact Analysis - New Systems (9/7/2023 - 1/31/2024)](https://gitlab.zengrc.com/sor/info/Project/109/info).
 1. Click the 3 dots on the top right-hand corner > 'Send New Questionnaire'.
 1. Search for and select the **FY24 Business Impact Analysis (BIA) - Standard** Questionnaire template.
-1. Advance and populate the Recipient Details section. The Recipient is "Internal" (input name + GitLab email of one Business/Technical Owner only). 
+1. Advance and populate the Recipient Details section. The Recipient is "Internal" (input name and GitLab email of one Business/Technical Owner only).
 1. Search for and select the **FY24 Business Impact Analysis (BIA) - Standard** Email template.
 1. Populate the [New System's Name] inside the email before sending. Target completion of the BIA Questionnaire is two weeks.  CC To/Reply To "securityrisk@gitlab.com".
 1. Click 'Review' > 'Submit' when finished.
