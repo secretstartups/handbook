@@ -317,7 +317,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - Talent Assessment Training (UDPATE IN PROGRESS)
+    - Talent Assessment Training (UPßDATE IN PROGRESS)
     - [Values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies)
     - [Remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies)
     - [Functional competencies](https://about.gitlab.com/handbook/competencies/#functional-competencies) *(if applicable)*
