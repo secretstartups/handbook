@@ -121,7 +121,7 @@ The responsibilities of the Senior Data Analyst extend the Data Analyst (Interme
 - Provide mentorship for Junior and Intermediate members of the team to help them grow in their responsibilities
 - Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
 
-#### Senior Data Analyst Requirements  
+#### Senior Data Analyst Requirements
 
 The requirements of the Senior Data Analyst extend the Data Analyst (Intermediate) role and include:
 
@@ -153,7 +153,7 @@ The responsibilities of the Staff Data Analyst extend the Senior Data Analyst ro
 - Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
 - Help create the sense of psychological safety in the department
 
-#### Staff Data Analyst Requirements  
+#### Staff Data Analyst Requirements
 
 The requirements of the Staff Data Analyst extend the Senior Data Analyst role and include:
 
@@ -165,45 +165,40 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 
 ## Specialties
 
-### Data Team
+### Business Intelligence (BI) Platform Team
 
-- Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope
-- Approve data model changes as a Data Team [Reviewer](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/mr-review/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
-- Own the end-to-end process of on-call data triaging from reading Airflow logs, to diagnosing the data issue, and to verifying and implementing a solution with an automated alerting system (ChatOps, etc) as well as providing data support for all GitLab members
-- This position reports to the Manager, Data
+- Installs, configures, administers, and troubleshoots BI software environments in order to achieve reliable, highly available, well performing systems.
+- Provides direct technical support to BI user community, triages and engages support of appropriate personnel when needed or BI technical support is not sufficient. Performs and streamlines functions such as managing user and system accounts, network rights and access to BI, analytical and related integrated systems.
+- Creates and maintains documentation, standards and policies for the form, structure and attributes of the BI applications and systems.
+- Defines and leads training seminars and other educational activities for the organization’s BI user community.
+- Identifies and documents best practices and makes recommendations for standards improvements.
+- Manages user provisioning & permissions
 
 ### Engineering
 
 - Support all departments in the engineering division by helping drive the standardization, capture, automation, and implementation of performance indicators
 - Be intimately familiar with productivity metrics
-- Priorities will be set by the VP, Engineering but will collaborate with and reporting into the Data Team
 
 ### Finance
 
 - Support the FP&A team in driving financial and operational initiatives by analyzing data and discovering insights
 - Focus on financial and operational specific data
-- Priorities will be set by the Manager, Financial Planning and Analysis but will collaborate with and report into the Data Team
-- Spend 80% of time supporting the FP&A team and spend the remaining 20% of time contributing to the Data Team
-- The Manager, Financial Planning and Analysis will evaluate the analyst on 80% of the goals in the experience factor worksheet relating to supporting FP&A and the Manager, Data will evaluate the analyst on the remaining 20% of goals relating to supporting the Data Team
 
 ### Growth
 
 - Support the product management function in driving product growth, reducing churn, increasing user engagement by analyzing data and discovering insights
 - Focus on product-specific data - usage ping, SaaS DB, Snowplow events
-- Priorities will be set by a Product Manager, Growth but will collaborate with and report into the Data Team
 
 ### Product
 
 - Support the Product function by spearheading tracking and reporting initiatives
 - Focus on product usage metrics across SaaS and self-managed products
 - Build cross-functional analysis to drive strategic decision-making
-- Priorities will be set by a Director of Product but will collaborate with and report into the Data Team
 
 ### Sales
 
 - Coordinate with SalesOps to improve and automate tracking potentially insightful data points
 - Focus on cross-functional analysis that can help drive sales conversations (e.g. product usage into renewal conversations)
-- Priorities will be set by the sales function but will collaborate with and report into the Data Team
 
 ### Marketing
 
@@ -236,7 +231,6 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 
 - Coordinate and support the People function by automating all reports from Greenhouse, BambooHR, and Google Sheets into reporting dashboards.
 - Focus on cross-functional analysis to help other departments identify opportunities for improvement within their recruiting, hiring, and retention policies.
-- Priorities will be set by Director, People Operations but will collaborate with and report into the Data Team
 
 ## Performance Indicators (PI)
 
