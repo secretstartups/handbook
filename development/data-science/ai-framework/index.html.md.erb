@@ -14,27 +14,97 @@ description: "The AI Framework gruop is focused on how to support other product 
 
 The AI Framework group is focused on how to support other product groups at GitLab with the AI Abstraction Layer, and GitLab Duo Chat functionality.
 
-## Direction
+### 👌 Team OKRs
 
-- No page exists yet
+If you're interested in the team's Objectives and Key Results (OKRs), you can find them on [GitLab](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=group%3A%3Aai%20framework&first_page_size=20).
 
-## Team Members & Hiring
+### 🚀 Team Members
 
-Team members who are supporting this team on a short-term basis are located [here](https://comp-calculator.gitlab.net/org_chart) where "Work priorities" include "AI Framework."
+**Engineering Manager & Engineers**
 
-<%= stable_counterparts(role_regexp: /AI Framework/) %>
+<%= direct_team(manager_slug: 'davidoregan') %>
 
-## Responsibilities
+**Product, Design & Quality**
 
-Team responsibilities include:
-* Enabling AI features across GitLab through the AI Abstraction Layer and AI Gateway
-* Ensure that global observability, monitoring, documentation, and latency improvements exist
-* Supporting the framework for our AI chat system
-* Adding support for new AI providers as needed
-* AI Gateway production support and readiness
+<%= stable_counterparts(role_regexp: /AI Framework/, direct_manager_role: 'Engineering Manager, AI Framework') %>
 
+**Team members who are supporting this team on a short-term basis are located [here](https://comp-calculator.gitlab.net/org_chart) where "Work priorities" include "AI Framework."**
 
-## Dashboards (internal only)
+### ☕ Team Responsibilities
+
+**Team responsibilities include**
+
+* Facilitating the integration of AI capabilities throughout GitLab by leveraging the AI Abstraction Layer and AI Gateway.
+* Guaranteeing the presence of comprehensive global observability, monitoring, documentation, and enhancements in latency.
+* Providing essential support for our AI chat system framework.
+* Incorporating support for new AI providers when required.
+* Assisting with the production support and ensuring the readiness of the AI Gateway.
+
+### ☎️ How to reach us
+
+Depending on the context here are the most appropriate ways to reach out to the IDE Group:
+
+- Slack Channel: [`#g_ai_framework`][slack]
+- Slack Groups: `@ai-framework` (entire team) and `@ai-framework-engs` (just engineers)
+
+### 📆 Office Hours
+
+The team hosts [biweekly office hours](https://docs.google.com/document/d/1Zy2behLK2dYq8QV3x0vFNs5QtY_Z6L9ObU8tzeJWWZw/edit#heading=h.onbz64sai6dd) (internal only) which can be attended by viewing the [GitLab Team Meetings calendar](https://handbook.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar). Please attend if you have questions around AI features, in particular abstraction layer and GitLab Duo chat, if you’re working on experiments and need support, or if you don’t know how to write good prompts.
+
+Recordings from the previous weeks are listed in this GitLab Unfiltered YouTube [playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpt0DsmS5WSZbeiMgrBeZXv).
+
+## 📦 Team Processes
+
+### 🖖 Weekly EM Updates
+
+Each week the team EM provides a Weekly Status update issue which aims to capture the most important items for the team to be aware of. These can be found [here](https://gitlab.com/gitlab-org/ai-powered/ai-framework/team-hq/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=Weekly%20Announcements&first_page_size=20).
+
+### 📄 Milestone Planning
+
+Every month, we create a Milestone Planning issue that serves as the single source of truth (SSoT) for the current milestone.
+
+This issue provides us with a centralized location to discuss our upcoming milestone work, plan for feature, bug, and maintenance tasks, and provides us with the necessary flexibility to iterate mid-milestone if required.
+
+Populate the milestone planning issue with issues from the prioritized boards placed in the ~"workflow::ready for development" column. Feel free to add maintenance issues that aren’t directly related to the group as well.
+
+You can find all milestone planning issues in the [AI Framework team’s project](https://gitlab.com/gitlab-org/ai-powered/ai-framework/team-hq/-/issues/?sort=title_asc&state=opened&label_name%5B%5D=Planning%20Issue&first_page_size=20).
+
+The layout for these Milestone issues are automated and can be found [here](https://gitlab.com/gitlab-org/ai-powered/ai-framework/team-hq/-/blob/main/.gitlab/issue_templates/planning_issue.md).
+
+### 📝 Issue Guidelines
+
+These guidelines apply to all issues we use for planning and scheduling work within our group. Our Engineers can define specific implementation issues when needed, but the overall goal for our issues are as follows:
+
+- Provide a meaningful **title** that describes a deliverable result.
+    - ✅ `Add the new GitLab Duo chat package as a Vue2 extension`
+    - ✅ `Chat: move away from using OpenAI embeddings`
+    - ❌ `Make Chat better`
+- Provide a meaningful description that clearly explains the goal of the issue, and provide some technical details if necessary.
+- Should there be critical implementation steps or other useful ways to create small tasks as part of the issue, please use a checklist as part of the issue descriptions.
+- The issue should have a weight, milestone and workflow label assigned.
+
+It's okay to create specific engineering-driven implementation issues for more complex features. These would be called **Child Issues** and they should always link back to their parent. If one issue would spawn many child issues, consider creating an Epic.
+
+## 👏 Communication
+
+The AI Framework Team communicates based on the following guidelines:
+
+1. Always prefer async communication over sync meetings.
+1. Don't shy away from arranging a [sync call](#-ad-hoc-sync-calls) when async is proving inefficient, however always record it to share with team members.
+1. By default communicate in the open.
+1. All work-related communication in Slack happens in the [#g_ai_framework][slack] channel.
+
+### ⏲ Time Off
+
+Team members should add any [planned time off][paid-time-off] in the "Time Off by Deel" slack app, so that the Engineering Manager can use the proper number of days off during capacity planning.
+
+### 🤙 Ad-hoc sync calls
+
+We operate using async communication by default. There are times when a sync discussion can be beneficial and we encourage team members to schedule sync calls with the required team members as needed.
+
+## 🔗 Other Useful Links
+
+### 📝 Dashboards (internal only)
 
 - [All Usage](https://app.periscopedata.com/app/gitlab/1137231/Ai-Features)
 - [Requests per provider](https://thanos-query.ops.gitlab.net/graph?g0.expr=sum%20by%20(client)(rate(gitlab_sli_llm_client_request_total%7Benv%3D%22gprd%22%7D%5B1m%5D))&g0.tab=0&g0.stacked=0&g0.range_input=1w&g0.max_source_resolution=0s&g0.deduplicate=1&g0.partial_response=0&g0.store_matches=%5B%5D&g0.step_input=60)
@@ -43,10 +113,16 @@ Team responsibilities include:
 - [GCP quota limits](https://dashboards.gitlab.net/d/ai-gateway-main/ai-gateway-overview?orgId=1&viewPanel=1515902021)
 - [LLM Sidekiq completions](https://dashboards.gitlab.net/d/sidekiq-main/sidekiq-overview?orgId=1)
 
-## Office Hours
+### 📹 GitLab Unfiltered Playlist
 
-The team hosts [biweekly office hours](https://docs.google.com/document/d/1Zy2behLK2dYq8QV3x0vFNs5QtY_Z6L9ObU8tzeJWWZw/edit#heading=h.onbz64sai6dd) (internal only) which can be attended by viewing the [GitLab Team Meetings calendar](https://handbook.gitlab.com/handbook/tools-and-tips/#gitlab-team-meetings-calendar). Please attend if you have questions around AI features, in particular abstraction layer and GitLab Duo chat, if you’re working on experiments and need support, or if you don’t know how to write good prompts.
+The AI Framework Group collates all video recordings related to the group and its team members in [a playlist][youtube] in the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube channel.
 
-Recordings from the previous weeks are listed in this GitLab Unfiltered YouTube [playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kpt0DsmS5WSZbeiMgrBeZXv).
+<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "AI Framework" } %>
 
+<!-- LINKS START -->
 
+[slack]: TBA
+[youtube]: TBA
+[paid-time-off]: /handbook/paid-time-off/#paid-time-off
+
+<!-- LINKS END -->
