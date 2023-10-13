@@ -104,6 +104,7 @@ The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/tot
 - Identify new Red Team Operations, document an attack plan and execute
 - Collaborate closely with defensive and infrastructure teams
 - Show thought leadership both internally at GitLab and externally with the general community
+- Follow up team OKRs and take ownership to drive some to completion
 
 #### Staff Red Team Engineer Requirements
 
