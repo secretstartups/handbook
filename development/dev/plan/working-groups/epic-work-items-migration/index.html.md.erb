@@ -1,0 +1,83 @@
+---
+layout: handbook-page-toc
+title: "Epic Work Items Migration"
+description: "Stage Working Group for Epics to Work Items migration plan and status"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+# Epic Work Items Migration
+
+Epics to Work Items migration plan and status
+
+## Attributes
+
+|Property|Value|
+|---|---|
+|Date Created|2023-10-02|
+|Target End Date|TBD|
+|Slack|#s_plan, #f_work-item, #g_product_planning (only accessible from within the company)|
+|Google Doc|[Agenda](https://docs.google.com/document/d/1Mh0U-cH0n9FqyAPn4_OMMvpTTJm74-WAmz5ewLVOuJM/edit) (only accessible from within the company)|
+|Epic|[&9290](https://gitlab.com/groups/gitlab-org/-/epics/9290)|
+|Overview & Status|See [Exit Criteria Progress](#exit-criteria-progress)|
+
+### Context
+
+Plan stage is developing [Work Items](https://docs.gitlab.com/ee/architecture/blueprints/work_items/) as a platform to build GitLab features like Issues,
+Epics, Tasks, etc. to be more extensible to meet product needs. This working group is focused on the [migration of Epics to Work Items](https://gitlab.com/groups/gitlab-org/-/epics/9290)
+and provides detailed insight on individuals involved in the effort, the technical plan for the migration, as well as current status and exit criteria.
+
+### Exit Criteria
+
+Updates are being tracked every week within [Link to Status Update Issue](#).
+
+#### Stage 1 - Achieving Feature Parity between Epics and Work Items
+
+|Task|Progress|
+|---|---|
+|[Add native support for work items at group-level](https://gitlab.com/groups/gitlab-org/-/epics/8308)| |
+|[Add support for relating work items based on different relationship types](https://gitlab.com/groups/gitlab-org/-/epics/7459)| 90% |
+|[Add support for relating legacy issues as children to work items](https://gitlab.com/groups/gitlab-org/-/epics/10851)| 70% |
+|[Add support for cross-group hierarchies in Hierarchy widget](https://gitlab.com/gitlab-org/gitlab/-/issues/424896)| |
+|[Start and Due date inheritance support in Work Items](https://gitlab.com/groups/gitlab-org/-/epics/11409)| |
+|[Roll-up statistics around children count, weight sum, and health status in Hierarchy widget](https://gitlab.com/groups/gitlab-org/-/epics/11402)| |
+|[Add support for Ancestor widgets](https://gitlab.com/groups/gitlab-org/-/epics/9291)| |
+
+#### Stage 2 - Epics data migration plan
+
+|Task|Progress|
+|---|---|
+|Block widgets which will be unavailable for migrated Epics| |
+|Setup synchronization between Epics table and Work Items table in database| |
+|Setup synchronization of widgets data between Epics and Work Items along with handling change in Epic Work Item ID| |
+|Introduce Work Item Epic creation ability at Group level| |
+
+#### Stage 3 - Post-migration roll-out preparation
+
+|Task|Progress|
+|---|---|
+|[Ensure REST API interoperability with migrated Epics](https://gitlab.com/groups/gitlab-org/-/epics/10845)| |
+|Determine migration strategy for unique ID and IID of migrating epics to ensure that stale reference redirect| |
+|Database cleanup for stale columns and implementation logic of legacy Epics| |
+
+### Roles and Responsibilities
+
+|Working Group Role|Person|Title|
+|---|---|---|
+|Facilitator|[Kushal Pandya](/company/team/#kushalpandya)|Fullstack Engineering Manager, Plan:Product Planning|
+|Member|[Donald Cook](/company/team/#donaldcook)|Fullstack Engineering Manager, Plan:Project Management|
+|Member|[Gabe Weaver](/company/team/#gweaver)|Senior Product Manager, Plan:Project Management|
+|Member|[Amanda Rueda](/company/team/#gweaver)|Senior Product Manager, Plan:Product Planning|
+|Member|[Jan Provaznik](/company/team/#jprovaznik)|Staff Backend Engineer, Plan:Product Planning|
+|Member|[Heinrich Lee Yu](/company/team/#engwan)|Staff Backend Engineer, Plan:Project Management|
+|Member|[Adam Hegyi](/company/team/#ahegyi)|Staff Backend Engineer, Plan:Optimize|
+|Member|[Felipe Artur](/company/team/#felipe_artur)|Senior Backend Engineer, Plan:Optimize|
+|Member|[Eugenia Grieff](/company/team/#egrieff)|Senior Backend Engineer, Plan:Product Planning|
+|Member|[Coung Ngo](/company/team/#cngo)|Senior Frontend Engineer, Plan:Project Management|
+|Member|[Florie Guibert](/company/team/#fguibert)|Senior Frontend Engineer, Plan:Product Planning|
+|Member|[Mario Celi](/company/team/#mcelicalderonG)|Backend Engineer, Plan:Project Management|
+|Member|[Rajan Mistry](/company/team/#ramistry)|Frontend Engineer, Plan:Product Planning|
