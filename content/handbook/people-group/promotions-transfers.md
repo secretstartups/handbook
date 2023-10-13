@@ -120,13 +120,14 @@ The Sales Development organization reviews In-Cycle Promotions on a monthly basi
     - Communication: After fully approved in either Greenhouse or Workday
     - After communicating 1:1 with individuals **on or after 2023-07-24**, updates can be posted publicly in #team-member-updates. Managers should *not* communicate until Total Rewards communicates that the promotions are approved.
 
-#### FY24 - Q4 (Sales Development)
-Sales Development promotions will be reviewed on a monthly basis. 
+
+#### FY24 - Q4 Sales Development Process
+
+Sales Development promotions will be reviewed on a monthly basis.
 
 - Planning & Calibration: by the third week of each month
 - Processing: promotinos must be added to HRIS by 20th of each month
-    - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01
-    
+    - Effective date for promotions: 2023-11-01, 2023-12-01, 2024-01-01 
 
 ### FY25-Q1
 
