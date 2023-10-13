@@ -45,7 +45,7 @@ As we build GitLab into one of the world’s best workplaces, we will look to in
     - [Career development]({{< ref "career-development" >}}), clarity in expectations by having defined performance indicators, [learning & development]({{< ref "/handbook/people-group/learning-and-development" >}}), and access to opportunity are all things that are top of mind as we grow GitLab.
 1. **We foster a values-led, remote culture**
     - Our [CREDIT values]({{< ref "values" >}}) drive a culture that’s built to operate in an [all-remote environment](/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture in a globally distributed environment.
-    - Our [handbook-led approach](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) and async working style highlight our values-led, remote culture.
+    - Our [handbook-led approach](https://about.gitlab.com/company/culture/all-remote/handbook-first/) and async working style highlight our values-led, remote culture.
 
 ## Key ways we bring this vision to life
 

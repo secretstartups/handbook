@@ -11,7 +11,7 @@
 {{- /* Get resource. */}}
 {{- with resources.Get $asset }}
   {{- $content := .Content | emojify }}
-  {{ $content }}
+  {{ $content | markdownify }}
 {{- else }}
   {{- errorf "The %q shortcode was unable to find %q. See %s" .Name $asset .Position}}
 {{- end }}

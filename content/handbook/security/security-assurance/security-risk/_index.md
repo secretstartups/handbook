@@ -54,7 +54,7 @@ Establishing a complete and accurate inventory of assets is key to the success o
 
 While the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#characteristics-of-a-project-dri) is the individual who is ultimately held accountable for the success or failure of any given project, they are not necessarily the individual that does the tactical project work. The DRI should consult and collaborate with all teams and stakeholders involved to ensure they have all relevant context, to gather input/feedback from others, and to divide action items and tasks amongst those involved.
 
-DRIs are responsible for ensuring a [handbook-first approach](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) to their project(s) and challenging existing processes for [efficiency]({{< ref "values#efficiency" >}}).
+DRIs are responsible for ensuring a [handbook-first approach](https://about.gitlab.com/company/culture/all-remote/handbook-first/) to their project(s) and challenging existing processes for [efficiency]({{< ref "values#efficiency" >}}).
 
 |Function     |DRI|
 |:----------:|:----------:|

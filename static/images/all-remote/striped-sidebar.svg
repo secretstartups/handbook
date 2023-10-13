@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="249px" viewBox="0 0 5 249" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="all-remote-landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-62.000000, -2181.000000)">
+            <g id="Group-5" transform="translate(62.000000, 2181.000000)">
+                <polygon id="Rectangle" fill="#FC6D26" points="0 0 5 0 5 62.2340885 0 62.2340885"></polygon>
+                <polygon id="Rectangle" fill="#FCA326" points="0 62.2340885 5 62.2340885 5 124.468177 0 124.468177"></polygon>
+                <polygon id="Rectangle" fill="#9795F9" points="0 124.468177 5 124.468177 5 186.702265 0 186.702265"></polygon>
+                <polygon id="Rectangle" fill="#55448D" transform="translate(2.500000, 217.819310) rotate(-180.000000) translate(-2.500000, -217.819310) " points="1.13686838e-13 186.702265 5 186.702265 5 248.936354 1.13686838e-13 248.936354"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
