@@ -117,7 +117,7 @@ This week we aim to complete the tooling adaptations to allow query analyzers fo
 schedule. This will allow us to ensure the autovacuum process runs on partitioned tables.
 
 ##### ci_builds
-- [ ] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
+- [~] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
 
 ### Week of October 9, 2023
 #### Team Capacity:
@@ -129,11 +129,16 @@ This week we aim to switch ci_builds to use the routing table rather than direct
 enable the query analyzers for the ci_builds and ci_builds_metadata table to ensure their performance is not being
 significantly negatively impacted. We will continue to work on MRs to update filters in queries to use the partition_id.
 
+#### Status Update:
+
+We are still coordinating with infrastructure to switch the table name. Hopefully next week this can be completed.
+
 #### Task List:
 ##### ci_builds
-- [ ] Switch the table name on the entire fleet
-- [ ] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134) (blocked by table name change)
-- [ ] Start adding partition_id filters to necessary related queries
+- [~] Switch the table name on the entire fleet
+- [~] Enable query analyzers for ci_builds: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134) (blocked by table name change)
+- [x] Enable query analyzers for ci_builds_metadata.
+- [x] Start adding partition_id filters to necessary related queries
 
 ### Week of October 16, 2023
 #### Team Capacity:
@@ -141,16 +146,18 @@ significantly negatively impacted. We will continue to work on MRs to update fil
 
 #### Goals:
 
-This week we will add the migration for self-managed that ensures the uniqueness of ids across partitions.
-Then we plan to start writing to the second partitions of ci_builds and ci_builds_metadata.
+This week we will work on the items that were pushed forward from last week. 
+We aim to switch ci_builds to use the routing table rather than directly using the partition. We will also
+enable the query analyzers for the ci_builds and ci_builds_metadata table to ensure their performance is not being
+significantly negatively impacted. We will continue to work on MRs to update filters in queries to use the partition_id.
+
 
 #### Task List:
 ##### ci_builds
-- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
-- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
+- [ ] Switch the table name on the entire fleet
+- [ ] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
+- [ ] Enable query analyzers for ci_builds: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134) (blocked by table name change)
 
-##### ci_builds_metadata
-- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 #### Team Capacity:
@@ -159,6 +166,8 @@ Then we plan to start writing to the second partitions of ci_builds and ci_build
 #### Goals:
 
 This milestone we plan to finish updating the queries to filter on partition_id for ci_builds and ci_builds_metadata.
+We will add the migration for self-managed that ensures the uniqueness of ids across partitions.
+Then we plan to start writing to the second partitions of ci_builds and ci_builds_metadata.
 We will also split the existing original partition into multiple smaller partitions.
 This will get us to the state where we should start to see some performance improvements. There may be some
 performance decreases as we continue to read from all partitions.
@@ -166,11 +175,14 @@ We will enable the use of the partitions in self-managed for ci_builds.
 
 #### Task List:
 ##### ci_builds
+- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
 - [ ] Complete adding partition_id filters to related queries
 - [ ] Split existing original partition into smaller partitions
 - [ ] Enable for self-managed
 
 ##### ci_builds_metadata
+- [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
 - [ ] Complete adding partition_id filters to related queries
 - [ ] Split existing original partition into smaller partitions
 
