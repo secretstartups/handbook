@@ -100,14 +100,16 @@ The Staff Red Team Engineer is a [grade 8](https://about.gitlab.com/handbook/tot
 
 - Includes [Senior-level responsibilities](#senior-red-team-engineer-responsibilities)
 - Identify new Red Team open source project opportunities and internal tooling needs
-- Identify areas of Red Team process improvement
-- Identify new Red Team Operations, document an attack plan and execute
+- Identify areas of Red Team process improvement (efficiency, automation)
 - Collaborate closely with defensive and infrastructure teams
 - Show thought leadership both internally at GitLab and externally with the general community
+- Follow up team OKRs and take ownership to drive some to completion
 
 #### Staff Red Team Engineer Requirements
 
 - Includes [Senior-level requirements](#senior-red-team-engineer-requirements)
+- Strong knowledge of the GitLab application and its components
+- Experience designing/creating automation using well known tools/pipelines
 - Profound knowledge of exploit techniques, and common TTPs
 - Senior knowledge of one or more programming or scripting languages
 - Extensive knowledge of offensive cloud security and common vulnerabilities
