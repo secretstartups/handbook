@@ -3,13 +3,8 @@ layout: handbook-page-toc
 title: "Tax Treatment When Exercising Your Stock Options"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Keep calm and love taxes!
+{{% alert title=" Keep calm and love taxes!" color="primary" %}}
+{{% /alert %}}
 
 ## Help! I have exercised my options, now what?!
 
@@ -17,15 +12,7 @@ Congratulations! You have exercised (a batch of) GitLab stock options. You are p
 
 ## GitLab Employees
 
-* [Australia](/handbook/tax/stock-options/australia/)
-* [Belgium](/handbook/tax/stock-options/belgium/)
-* [Canada](/handbook/tax/stock-options/canada/)
-* [Germany](/handbook/tax/stock-options/germany/)
-* [Ireland](/handbook/tax/stock-options/ireland/)
-* [Netherlands](/handbook/tax/stock-options/netherlands/)
-* [New Zealand](/handbook/tax/stock-options/newzealand/)
-* [United Kingdom](/handbook/tax/stock-options/unitedkingdom/)
-* [United States of America](/handbook/tax/stock-options/unitedstates/)
+{{< section-inline-toc >}}
 
 ## GitLab Contractors
 

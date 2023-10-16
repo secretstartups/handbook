@@ -1,23 +1,17 @@
 ---
-layout: handbook-page-toc
 title: "International Expansion"
 description: "GitLab is scaling fast and therefore its international expansion efforts need support from a dedicated team with multidisciplinary background."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-# Keep calm and love taxes!
+{{% alert title="Keep calm and love taxes!" color="primary" %}}
+{{% /alert %}}
 
 ## International Expansion
 
 GitLab is scaling fast and therefore its international expansion efforts need support from a dedicated team with multidisciplinary background: Tax, People Ops, Payroll, Legal and Finance. Challenges in connection with international expansion include (but are not limited to)
 
 1. Analysis on economic impact for GitLab
-1. Analysis on legal exposore (Data, IP, Labor)
+1. Analysis on legal exposure (Data, IP, Labor)
 1. Analysis on tax exposure (PE risk, Employment tax)
 1. Analysis on accounting impact (FAS5, FIN48)
 
@@ -37,7 +31,7 @@ As the Tax Team is responsible for managing our corporate structure (e.g. entity
 
 ## RADCIE Model
 
-The [RADCIE Model](/handbook/people-group/directly-responsible-individuals/#radcie) below is drafted according to the procedure.
+The [RADCIE Model]({{< ref "directly-responsible-individuals#radcie" >}}) below is drafted according to the procedure.
 
 | Procedure       | Tax    | People Ops |  Accounting | Legal | Payroll | Everyone |
 |-----------------|:------:|:----------:|:-----------:|:-----:|:-------:|:--------:|
@@ -61,4 +55,4 @@ The [RADCIE Model](/handbook/people-group/directly-responsible-individuals/#radc
 
 ## Performance Indicator
 
-Read more about our [KPI](/handbook/tax/performance-indicators/#scalable-employment-solution) for international expansion.
+Read more about our [KPI]({{< ref "./performance-indicators#scalable-employment-solution" >}}) for international expansion.
