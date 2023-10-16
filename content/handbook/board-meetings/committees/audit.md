@@ -1,20 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Audit Committee"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
 
 ## Audit Committee Composition
 
 - **Chairperson:** Karen Blasing
-- **Members:** Sunny Bedi, Mark Porter 
+- **Members:** Sunny Bedi, Mark Porter
 - **Management DRI:** Chief Financial Officer
 
 ## Audit Committee Charter
@@ -27,7 +18,7 @@ Please click here to read the [Audit Committee Charter](https://ir.gitlab.com/st
 
 The below amended Audit Committee `Earnings` and `Compliance and Special Topics` Meeting Calendar was approved by the Audit Committee on 2022-12-12.
 
-### Audit Committee Earnings Meeting Calendar <br>
+### Audit Committee Earnings Meeting Calendar
 
 #### Accounting and Reporting
 
@@ -95,16 +86,13 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 2 |Other Topics                                        |     |    |     |     |  X  |
 
 
-#### Closed session 
+#### Closed session
 
 |#| Topics                                     | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:| :------------------------------------- | :---: | :---: | :---: | :---: |:---: |
 | 1 | Chief Legal Officer, Chief Finance Officer and KPMG       |  X  |   X  |   X   |   X   |      |
 
-
-<br>
-
-### Audit Committee Compliance and Special Topics Meeting Calendar <BR>
+### Audit Committee Compliance and Special Topics Meeting Calendar
 
 #### Management, Accounting and Reporting
 
@@ -183,7 +171,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 3 | Annual Assessment of Internal Audit (Strategic Plan, IA roadmap, skillset assessment) |Annual |      |    |  X  |     |     |
 | 4 | Internal Audit Charter Review       |As needed |   X  |     |     |     |     |
 | 5 | Organization Overview               |As needed |      |  X  |     |     |     |
-| 6 | Internal Audit and SOX program update                |Quarterly |  X   |  X   |  X  |  X   |     |  
+| 6 | Internal Audit and SOX program update                |Quarterly |  X   |  X   |  X  |  X   |     |
 | 7 | Technology Strategy Roadmap update      |Annual |    |     |  X  |     |     |
 | 8 | Data Analytics Strategy Roadmap update|Annual |    |     |    |   X  |     |
 | 9 | Career Framework update |Annual |    |     |  X  |     |     |
@@ -202,7 +190,7 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 5 | Other Topics                                         |As needed |     |    |     |     |  X  |
 
 
-#### Closed session 
+#### Closed session
 
 |#|Topics                                 | Frequency | FY Q1 | FY Q2 | FY Q3 | FY Q4 |As needed|
 |:---:|:-------------------------------------------------------------- | :---: | :---: | :---: | :---: | :---: |:---:  |
@@ -212,6 +200,3 @@ The below amended Audit Committee `Earnings` and `Compliance and Special Topics`
 | 4 | Approvals                          |Quarterly |   X   |   X   |   X   |   X   |      |
 | 5 | Two upcoming meeting agendas        |Quarterly |   X   |   X   |   X   |   X   |      |
 | 6 | External Auditor                   |Quarterly |   X   |   X   |   X   |   X   |      |
-
-<br>
-

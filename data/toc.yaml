@@ -346,7 +346,7 @@
   - name: Tax
     url: https://about.gitlab.com/handbook/tax/
   - name: Board meetings
-    url: https://about.gitlab.com/handbook/board-meetings/
+    url: /handbook/board-meetings
   - name: Internal Audit
     url: https://about.gitlab.com/handbook/internal-audit/
     links:

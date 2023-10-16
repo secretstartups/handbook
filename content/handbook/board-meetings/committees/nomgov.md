@@ -1,15 +1,6 @@
 ---
-layout: handbook-page-toc
 title: "Nominating and Corporate Governance Committee"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-{::options parse_block_html="true" /}
 
 ## Nominating and Corporate Governance Committee Composition
 

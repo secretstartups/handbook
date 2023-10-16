@@ -78,7 +78,6 @@ Rules define actions to take, based on the project categories. These actions are
 [Secret Detection]: https://docs.gitlab.com/ee/user/application_security/secret_detection/
 [SAST]: https://docs.gitlab.com/ee/user/application_security/sast/
 [Container Scanning]: https://docs.gitlab.com/ee/user/application_security/container_scanning/
-[Vulnerability Reports]: https://docs.gitlab.com/ee/api/project_vulnerabilities.html
 [Protected Branches]: https://docs.gitlab.com/ce/api/protected_branches.html
 [Approvals]: https://docs.gitlab.com/ee/api/merge_request_approvals.html
 [Approval Rules]: https://docs.gitlab.com/ee/api/merge_request_approvals.html#get-project-level-rules
