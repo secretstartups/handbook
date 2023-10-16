@@ -318,7 +318,7 @@ There may be times when a customer's subscription expires **over the weekend**, 
 
 For non-trial subscriptions, you can remind the customer that subscriptions have [a 14-day grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the grace period will still be active on the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should close the emergency ticket and ask the customer to open a [new L&R ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) in case one doesn't exist yet.
 
-Otherwise, use the `Mechanizer` app on the ticket to resolve the situation via the [`Emergency License Generation`](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#emergency-license-generation) option.
+Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies/) workflow. 
 
 #### SaaS Subscription Emergencies
 
@@ -328,6 +328,7 @@ A customer may be blocked because of a license expiring or neglecting to apply a
 1. Check the `Trial ends on` date.
     - If it has a date, you will not need to provide a `Subscription Name` in the next step. Proceed to step 3.
     - If it is empty or null **and the namespace is on a Free plan**, guide the customer to navigate to the Settings -> Billing page and click on `Start a Free Ultimate trial`.
+1. In the ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
 1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#manage-gitlabcom-plan-and-trials) option to resolve the situation.
     - Enter the namespace path.
     - Select the Plan the customer had initially purchased, or use `Ultimate` if you do not have this information.
