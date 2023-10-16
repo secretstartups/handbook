@@ -8,9 +8,9 @@ description: "The Talent Acquisition team has a regular schedule of meetings. Pl
 | **GROUP**                                         | **INDIVIDUALS**                                                                                             |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
 | TALT <br>(Talent Acquisition Leadership Team) | Robert Allen, Devin Rogozinski, Jessica Dallmar, Jake Foster, Ursela Knezevic, Marissa Ferber  |
-| Manager+                                      | Above group + Ale Ayala, Paul Hardy, Rich Kahn, Steph Sarff, Justin Smith |
+| Manager+                                      | Above group + Ale Ayala, Rich Kahn, Steph Sarff, Justin Smith |
 | Business Leadership                           | Jake Foster, Steph Sarff                 |
-| R+D Leadership                                | Ursela Knezevic, Paul Hardy              |
+| R+D Leadership                                | Ursela Knezevic              |
 
 
 ## Team Meetings
