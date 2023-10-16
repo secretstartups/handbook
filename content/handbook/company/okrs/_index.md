@@ -437,9 +437,9 @@ Since we set OKRs that are aspirational, we [don't expect 100% achievement](/okr
 
 | Achievement against targets | Score |
 | ------ | ------ |
-| On-target | 80%-100% |
-| Off-target | 60 to <80% |
-| At risk | <60% |
+| On-target | 85 to 100% |
+| Off-target | 70 to 84% |
+| At risk | 0 to 69% |
 
 ### Tips for goals that are scorable
 
