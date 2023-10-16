@@ -11,7 +11,7 @@ description: "An opt-in offering for UX Researchers to pair up with another UX R
 {:toc .hidden-md .hidden-lg}
 
 
-Inspired by the [Product Designer pairing program](/handbook/product/ux/how-we-work/#pair-designing), UX Researchers can take part in their own pairing offering: **UX Research pairings**.
+Inspired by the [Product Designer pairing program](/handbook/product/ux/how-we-work/design-pair-rotation), UX Researchers can take part in their own pairing offering: **UX Research pairings**.
 
 ### UX Research pairings
 

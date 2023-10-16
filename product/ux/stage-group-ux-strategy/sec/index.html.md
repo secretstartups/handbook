@@ -138,7 +138,7 @@ We use `devops::stage_name` and `UX` labels to indicate issues that need UX effo
 * `UX` + `devops::stage_name`+`Category::name`: There is a DRI for UX (can be shared) and clear engineering collaboration.
 * `UX` + `devops::stage_name`+ `UX debt`: Used for follow-up issues when a proposed design was de-scoped or not implemented as planned.
 
-See our [UX Workflow](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) page for more on how we use labels.
+See our [UX Labels](/handbook/product/ux/#ux-labels) page for more on how we use labels.
 
 ##### Problem and solution validation issues
 When working on a `workflow::problem validation` or `workflow:solution validation` issue requiring implementation in the next 2 releases, ensure there is a placeholder implementation issue. This issue must be attached to the epic, and have a tentative milestone.

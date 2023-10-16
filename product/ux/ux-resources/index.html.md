@@ -14,7 +14,6 @@ This page includes information about UX Resources to help you do your job. It is
 
 ## UX team workflows
 
-* [UX Department](/handbook/product/ux/ux-department-workflow/)
 * [Product Designer workflows](/handbook/product/ux/product-designer/)
 * [UX Researcher workflows](/handbook/product/ux/ux-research/)
 * [Technical Writing workflows](/handbook/product/ux/technical-writing/workflow/)
@@ -30,6 +29,7 @@ The GitLab design project is primarily used by the Product Design team to docume
 * [View the project](https://gitlab.com/gitlab-org/gitlab-design/)
 
 ### YouTube Channels
+
 * [UX Team](https://www.youtube.com/playlist?list=PL05JrBw4t0KqkW0oPW3n0HqVgKcONVnO5)
 * [UX Scorecards](https://www.youtube.com/playlist?list=PL05JrBw4t0KrDmSVDZfwW0jxOQyl1wW9G)
 * [UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz)
@@ -54,6 +54,7 @@ Our SVG repository manages all GitLab SVG assets by creating an SVG sprite out o
 * [View the project](https://gitlab.com/gitlab-org/gitlab-svgs)
 
 ### Jobs to be Done (JTBD)
+
 We use the JTBD framework for viewing products and solutions in terms of the jobs customers are trying to achieve. It's about understanding the goals that people want to accomplish. JTBD is used throughout the design process to determine scope, validate direction, evaluate existing experiences with [UX Scorecards](/handbook/product/ux/ux-scorecards/), and assess our [Category Maturity](/direction/maturity/) with [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/).
 
 * [JTBD Overview](/handbook/product/ux/jobs-to-be-done/)

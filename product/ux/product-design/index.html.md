@@ -15,8 +15,6 @@ description: "We support the business of GitLab by becoming experts in our stage
 
 We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development. 
 
-## Principles
-
 ### Process and DRI
 
 #### Owner of design jugdment
