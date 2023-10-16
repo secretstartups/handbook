@@ -318,7 +318,7 @@ There may be times when a customer's subscription expires **over the weekend**, 
 
 For non-trial subscriptions, you can remind the customer that subscriptions have [a 14-day grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the grace period will still be active on the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should close the emergency ticket and ask the customer to open a [new L&R ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) in case one doesn't exist yet.
 
-Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies/) workflow. 
+Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies/) workflow.
 
 #### SaaS Subscription Emergencies
 
