@@ -164,13 +164,13 @@ The Learning & Development Manager is a [grade 8](https://about.gitlab.com/handb
 - Demonstrated excellence in written and verbal communication, organizational skills, and project management
 - Experience in influencing senior leaders/stakeholders at the director and above levels
 
-## Director, Learning & Development
+## Director, Talent Development
 
-The Director, Learning & Development reports to the [VP, Talent & Engagement](/job-families/people-group/talent-acquisition-leadership/).
+The Director, Talent Development reports to the [VP, Talent & Engagement](/job-families/people-group/talent-acquisition-leadership/).
 
 ### Job Grade
 
-The Learning & Development Manager is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Talent Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
