@@ -22,6 +22,8 @@ MRs with only backend changes sometimes affect the UX (for example, performance 
 
 To help triage, be aware of all MRs in your stage group and ask engineers about which MRs could affect the UX and how. Product Designers often give constructive feedback on any kind of MR, including MRs that _seem_ to not affect the UX, so use your best judgment when deciding which MRs you should review.
 
+We utilize the GitLab Roulette for our MR review assignments. Learn more about [how MR reviews are assigned](#how-to-assign-mr-reviews).
+
 ### Benefits
 
 - Evenly distribute MR reviews across the Product Designers in the UX Department in support of our [Product Design MR review volume KPI](/handbook/product/ux/performance-indicators/#product-design-mr-review-volume). This will have a more significant impact on higher usage areas of our product by opening up capacity for those designers to increase time spent on creating design solutions.
@@ -49,7 +51,7 @@ Single Engineer Group (SEG) MRs often require more active collaboration and addi
 
 MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team. If one of the two designers are OOO, then the team will utilize the [GitLab Roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) to help distribute MR reviews across the Product Design subdepartment.
 
-#### What if a team doesn't have a designer?
+### What if a team doesn't have a designer?
 
 In cases where there is no design DRI to review the MR, you can assign it to [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms) (`@pedroms`), who's covering for teams without a designer.
 
@@ -61,14 +63,11 @@ MR review requests are the [number one priority for Product Designers](/handbook
 
 Balancing MR reviews with other priorities is a challenge, as they can be unpredictable. To avoid disruptions and context-switching, we suggest you block some time every day to review MRs (for example, 30 minutes or 1 hour per day).
 
-
 If you're struggling with MR reviews, remember to [manage expectations with MR authors](/handbook/engineering/workflow/code-review/#managing-expectation) and let your manager know right away so they can help you. 
 
 Before taking up a review, make an estimation of your capacity keeping in mind any upcoming time off. If you are unsure of completing the review before leaving for a time off, spin the roulette again to assign the review to a different designer and [set the appropriate GitLab or Slack status](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to avoid Danger bot assigning you to more merge requests reviews. 
 
 Community contributions are not assigned for reviews through Danger Bot. Work with your manager to communicate and negotiate with the merge request author if your capacity is limited, or in case of upcoming time off.
-
-
 
 ## Reviewing
 
@@ -86,7 +85,7 @@ In general, follow the [Code Review guidelines](https://docs.gitlab.com/ee/devel
 
 ### Preview the MR
 
-Always review the MR in a live environment, so that you can experience the changes as our users will and review them thoroughly. To choose the most appropriate method to preview the MR and get started, see [Review, test, and contribute](/handbook/product/ux/how-we-work/#review-test-and-contribute). If you get stuck, don't struggle on your own, check our [help section](/handbook/product/ux/how-we-work/#help).
+Always review the MR in a live environment, so that you can experience the changes as our users will and review them thoroughly. To choose the most appropriate method to preview the MR and get started, see [Review, test, and contribute](/handbook/product/ux/product-designer/mr-reviews/preview-mr). If you get stuck, don't struggle on your own, check our [help section](/handbook/product/ux/product-designer/mr-reviews/preview-mr/#help).
 
 #### Specific review requirements
 
@@ -111,6 +110,7 @@ Some MRs have additional set up requirements.
    </figure>
    <!-- blank line -->
    Checkout the branch in the MR and open rails console using `bin/rails console`.
+  
    **1. Edit compute minutes**
 
       ApplicationSetting.current.update(shared_runners_minutes: 400)
@@ -139,7 +139,6 @@ Some MRs have additional set up requirements.
       increase_ci_usage(project: project, date: 1.month.ago, amount_used: 10, shared_runners_duration: 20)
       
    The usage quota page should now reflect the changes data.
-
 
 - Secure: 
   - To generate project vulnerabilities, execute `GITLAB_QA_ACCESS_TOKEN=XXXXXXXXXX GITLAB_URL="https://gitlab.com" bundle exec rake vulnerabilities:setup\[<Project_Id>,<Vulnerability_Count>\] --trace` from the `gitlab/qa` directory. Make sure to replace the placeholders in the script with your local access token, project ID, and desired number of vulnerabilities. An example of this might be `GITLAB_QA_ACCESS_TOKEN=asdfASDF1234- GITLAB_URL="http://localhost:3000/" bundle exec rake vulnerabilities:setup\[25,10] --trace`
@@ -187,7 +186,7 @@ Some MRs have additional set up requirements.
 ### Handoff the MR
 
 - After each review round, you should remove yourself as a reviewer and post a summary comment, letting the author know if changes are required following your review.
-- To address any outstanding UX concerns that deviate from the MVC, you should create follow-up issues and label them as `UX debt` (learn more about this label in [how we use labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels)).
+- To address any outstanding UX concerns that deviate from the MVC, you should create follow-up issues and label them as `UX debt` (learn more about this label in [UX labels](/handbook/product/ux/#ux-labels)).
 - If you complete an MR for work that isn't within your specific group, you should consider following up with the original author to discuss their documentation (ex. "This was unclear... In the future, you may want to..."). This can be thought of as a casual retrospective and can be synchronous or asynchronous. 
 - When you're confident that the MR meets all requirements you must [approve it](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) by hitting the Approved button in the merge request widget. To handoff the MR, see the [responsibility of the reviewer](https://docs.gitlab.com/ee/development/code_review.html#the-responsibility-of-the-reviewer).
 

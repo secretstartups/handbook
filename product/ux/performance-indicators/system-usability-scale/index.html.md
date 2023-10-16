@@ -189,7 +189,7 @@ A: There isn’t a single answer to this question, as sample size depends on how
 
 **Q: How can I find open issues that relate to SUS?**
 
-A: Issues that relate to SUS will have one of the labels indicated in the [How we use labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) section of the UX Department Handbook. If you see an issue that relates to usability problems that fall in line with recent SUS findings, feel free to add one of the labels to it. When in doubt, reach out to your manager or ask in the `#ux` Slack channel.
+A: Issues that relate to SUS will have one of the labels indicated in the [How we use labels](/handbook/product/ux/#ux-labels) section of the UX Department Handbook. If you see an issue that relates to usability problems that fall in line with recent SUS findings, feel free to add one of the labels to it. When in doubt, reach out to your manager or ask in the `#ux` Slack channel.
 
 **Q: Does our SUS Database keep all of the past SUS surveys?**
 
