@@ -40,7 +40,7 @@ License requests for a customer with a **paid** plan, where the license's "grace
 
 ### Step 2: Get acknowledgement of trial susbscription exclusions
 
-1. In the Zendesk ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer.
+1. In the ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer.
 1. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
 
 ### Step 3: Generate the trial license
