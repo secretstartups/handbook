@@ -65,12 +65,12 @@ We accomplish this through:
 
 ### Blog
 
-The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab.
+The Editorial team's goals are to grow our blog audience, engage readers, and convert readers into subscribers. To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab.
 
 Areas of focus:
 
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
-- Continue to document [best practices](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#writing-blog-posts--best-practices) to enable contributors
+- Continue to document best practices to enable contributors
 - Improve SEO in new blog posts and selected past posts
 - Experiment with curated content ("collections" of new and existing content on specific themes)
 - Experiment with editorial-first content (i.e. a journalistic approach to stories and covering industry trends or news that is relevant to our audience, but may not place GitLab front and center)
