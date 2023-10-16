@@ -69,7 +69,8 @@ The Production Readiness process is authored by the DRI of the work that is bein
 
 ## Completing the readiness review
 
-Once all discussions have been addressed all mandatory items have satisfactory answers, the author will request approvals in the tracking issue in the "Reviewers" section of the tracking issue.
+Once all discussions have been addressed all mandatory items have satisfactory answers, the author will request approvals from the reviewers. 
+The reviewers should note their approval by approving the merge request. 
 Following this, the issue will be closed and the change can be applied in production.
 
 
