@@ -37,6 +37,10 @@ Leads generated from partner campaigns are shared to Partner in Vartopia where t
 
 Note that Channel Partners refer to Vartopia as `Prospects` in the Partner Portal, as they can only access Vartopia through SSO via the portal.
 
+## CRM IDs for Channel and Alliance Partners
+
+For a running list of Channel Partners and their CRM IDs, which is critical to the channel partner lead flow, click [here](https://gitlab.my.salesforce.com/00O4M000004aSq6), while the `CRM Partner ID` for Alliance Partners can be found [here](https://gitlab.my.salesforce.com/00O8X000008mxIb).
+
 ### Partner Recall
 
 The recall process is built to be able to pull back partner leads that are not being actioned in Vartopia. Not all partner leads are subject to recall, only Joint GitLab and Partner campaign leads can be recalled. [See the full overview.](/handbook/marketing/marketing-operations/vartopia/#partner-recall)
