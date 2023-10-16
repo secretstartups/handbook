@@ -310,7 +310,7 @@ Cohort Projects:
 
 ## VP-Directs Group
 
-VP-Directs Group is made up of VP-Directs, VPs who report directly to members of E-Group. This is a senior group of leaders who are able to assist in the cascading of critical communications, support change management, ensure our mission & vision continues to be thoroughly understood at all levels of the organization, support in top priority cross-functional activities, and act as a gauge of company sentiment & engagement.
+VP-Directs Group is largely made up of VP-Directs, VPs who report directly to members of E-Group. This is a senior group of leaders who are able to assist in the cascading of critical communications, support change management, ensure our mission & vision continues to be thoroughly understood at all levels of the organization, support in top priority cross-functional activities, and act as a gauge of company sentiment & engagement. In cases in which a function has 0-2 VP-Directs, an E-Group member may nominate 1 or 2 additional people from within the function to help represent the function.
 
 ### VP-Directs Group Objectives
 
