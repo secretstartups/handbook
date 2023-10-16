@@ -29,6 +29,15 @@ Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/w
 Tel: 088-2778870
 Email: info@zorgvandezaak.nl
 
+## Computer Glasses Reimbursement
+
+Team Members experiencing eye problems due to work could be entitled to a reimbursement of corrective eye wear.
+The Team Member must be seen by an optician and must provide proof that lenses are specifically required for reading a display screen only and not required for general day to day use.
+
+Team Members should send their documentation (prescription) from the optician to total-rewards@gitlab.com for approval. The Team Member can request to be reimbursed for the frame, lenses, and eye test for a maximum reimbursement of 250 Euros.
+
+Once Total Rewards approves, the team member should submit their reimbursement through [Navan](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
+
 ## Pension
 
 State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [ASR](https://asr.nl/doenpensioen)(formerly Brand New Day) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 5.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 3%. The pension base equals the pensionable salary less the state pension offset. For additional training, ASR has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works.
