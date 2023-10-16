@@ -53,6 +53,12 @@ A few key differences between Key Talent and SPOF include: team member’s perfo
 
 Note that all team members should be having regular [career conversations](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#having-career-conversations) with their managers regardless of whether they are identified as SPOF, Key Talent, or neither one. The risk mitigation focus for SPOF does not imply growth is not important for these individuals, but rather that leaders have an additional responsibility to be mindful of business continuity and mitigate risk to ensure organizational health remains strong.
 
+A key aspect of identifying Single Points of Failure (SPOF) within the organization, is creating mitigation plans to minimize and eventually eliminate risk for the business. [This template](https://docs.google.com/document/d/1BBqr7Tj9gnRmkUHGG53ezDlPpu_rCvkveGiOvYLGJp8/edit) is available for leadership and managers to partner to think through and document risk mitigation strategies and timeline for team members identified as SPOF. While not required, documentation of mitigation plans is highly encouraged.
+
+SPOF identification is typically at the Functional Leaders level, or sometimes one level down due to organization size, but the SPOF identification should always be shared back to the direct manager to ensure awareness and close collaboration on the mitigation plan and execution. In larger organizations, it is beneficial to review and discuss team members identified as SPORs with the broader management chain for feedback and alignment.
+
+### SPOF Examples
+
 Examples of Single Points of Failure and potential risk mitigation strategies include:
 
 1. Critical skillset
