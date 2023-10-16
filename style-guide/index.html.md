@@ -103,7 +103,7 @@ With root-relative URLs same-site links can work properly during local developme
 ## Related Resources
 
 * [GitLab Communication](/handbook/communication/)
-* [Blog style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/#blog-style-guide)
+* [Blog style guide](/handbook/marketing/brand-and-product-marketing/content/editorial-team/)
 * [GitLab Documentation guidelines](https://docs.gitlab.com/ee/development/documentation/)
   * [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 * [Style guides](https://docs.gitlab.com/ee/development/contributing/style_guides.html)
