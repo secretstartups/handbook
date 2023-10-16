@@ -1,27 +1,17 @@
 ---
-layout: handbook-page-toc
 title: "Sarbanes-Oxley (SOX) Program"
 ---
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 
 ## Purpose
 
 To develop a formalized system of checks and balances, thereby helping protect GitLab stakeholders from fraudulant financial reporting.
-<br>
 
 ## Scope
 
-As a public company [Sarbanes- Oxley (SOX)](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act) regulations apply to GitLab. 
+As a public company [Sarbanes- Oxley (SOX)](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act) regulations apply to GitLab.
 GitLab has adopted the [COSO framework](https://www.coso.org/sitepages/internal-control.aspx) as the criteria for evaluating the effectiveness of the company’s internal control over financial reporting.
 
 ## Roles and Responsibilities
-
 
 |Role | Responsibility|
 |:------|:-----------|
@@ -36,36 +26,4 @@ Following outputs of SOX program will be maintained and monitored by the SOX PMO
 - Risk Assessment and Scoping documentation
 - Risk Control Matrix
 - Process Flowcharts
-- Control Deficiency Tracker 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Control Deficiency Tracker
