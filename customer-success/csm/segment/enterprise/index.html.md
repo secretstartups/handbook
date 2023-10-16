@@ -44,6 +44,7 @@ The primary objective in enabling our customers is to get a customer to value qu
 | Primary [use case enablement](/handbook/customer-success/csm/stage-enablement-and-expansion/) to ensure the customer gets value quickly and ROI for their reason for purchase. | - Stage Adoption playbooks opened & completed (QoQ) <br> - [Use case health scores](/handbook/customer-success/product-usage-data/use-case-adoption/) |
 | [EBRs](/handbook/customer-success/csm/ebr/) are strategic touchpoints to ensure that progress against desired business outcomes is being made and communicated back to the team that we work with and key influencers/decision-makers. | EBRs completed within the last twelve months in 75% of all accounts |
 | Use case maturity [workshops](/handbook/customer-success/csm/workshops/) & [enablement sessions](/handbook/customer-success/csm/stage-enablement-and-expansion/) to ensure continuous adoption and identifying areas of improvement. | - [CI and DevSecOps maturity scores](/handbook/customer-success/product-usage-data/maturity-scoring/)  <br> - [Use case health scores](/handbook/customer-success/product-usage-data/use-case-adoption/) |
+| Customer roundtables are industry specific events organised and facilitated by the Customer Success Manager. Those events are meant to give customers the opportunity to exchange ideas and solutions around industry specific topics, such as regulatory requirements. Roundtables can also span industries if they share common use cases. | One roundtable per industry per quarter. |
 
 ### Expand & Renew
 
