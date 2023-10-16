@@ -24,6 +24,7 @@ and provide additional explanation of these in the context of the software
 engineering practice.
 
 1. [Iteration](#iteration)
+1. [Efficiency](#efficiency)
 1. [Simplicity](#simplicity)
 1. [Reliability](#reliability)
 1. [Quality](#quality)
@@ -36,26 +37,73 @@ We always push ourselves to be iterative and make the [minimal viable
 change](/handbook/product/product-principles/#the-minimal-viable-change-mvc)
 that is on the direct path to achiving our goals.
 
-For complex initatives we are using [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
-to define our goals and describe iteration principles for a given effort. How
-we will iterate on something will largely depend on our iteration vision. We
-want to make the iteration as efficient and as pragmatic as possible.
+For complex initiatives we are using the [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
+to define our goals and to describe our iteration plan for a given effort. How
+we are going to iterate on something may depend on our mid-to-long-term vision.
+Our goal is to make the iteration as efficient and as pragmatic as possible.
 
-In some cases we can use the "scooter heuristic", described below:
+We also sometimes use an established "scooter heuristic": release a smallest
+product that our customers can use, and then iterate on it.
 
 ![scooter heuristic](https://gitlab.com/gitlab-org/gitlab/uploads/590251a5311fb50e4dcb174f214e1340/Screen_Shot_2020-02-06_at_3.29.48_PM.png)
-
 Image Credit: [Henrik Kniberg from Crisp](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 
-It is sometimes a good way to think about iteration this way, especially when
-intermediate iterations provide value to our users and allow us to collect
-meaningful feedback. This, however, is not always the case, and sometimes we do
-need to have a tailored plan for efficient iteration. If we want to build a
-starship, our users will not be happy with a paper plane, and building a paper
-plane will not get us closer to our goals.
+Releasing minimal changes, as quickly as possible, is sometimes a good way to
+think about iteration, especially when intermediate steps provide value to our
+users and allow us to collect meaningful feedback. This has often been our
+default iteration approach.
+
+This "scooter" iteration pattern, however, is not always the most efficient way
+to make progress on something. Sometimes we do need to have a tailored plan for
+[efficient iteration](#efficiency), because if we want to build something more
+complex, our users may not be happy with a scooter or a paper airplane, and we
+will either not get any meaningful feedback or it will not be significant
+enough to be useful. In such cases, how we iterate should be a diligently
+planned strategy, designed to improve efficiency and to allow us to achieve our
+goals within a reasonable amount of time.
+
+At GitLab we can use our [Architecture Design Workflow](/handbook/engineering/architecture/workflow/)
+to build a more pragmatic iteration plan aligned with mid-to-long term vision.
+This usually covers building a Minimal Viable Product too. In this case,
+however, how the MVP is going to look like depends on a thoughtful plan,
+described in writing after collecting feedback throughout the organization.
+
+Below you can find a few patterns that can precede "building the smallest thing
+in the next milestone" pattern, aimed to increase iteration efficiency:
+
+1. Identify fundamental design problems, describe these in a design doc.
+1. Identify most significant risks associated with those, find ways to de-risk.
+1. Develop a plan to iterate on the fundamental design aspects individually.
+1. Deliver a first end-to-end iteration as a prototype or a Proof-of-Concept.
+
+All these things attempt to improve our level of knowledge and reduce
+implementation risk. All of these steps are also iterations by themselves that
+can help us find hidden efficiencies to build better MVPs.
 
 To read more about iteration, see our [values](/handbook/values/#iteration)
 page and [engineering workflow](/handbook/engineering/workflow/iteration/).
+
+## Efficiency
+
+Efficiency is at the core our engineering discipline at GitLab. This is also
+one of the most important [company values](/handbook/values/#efficiency).
+
+How we work in Engineering can have a significant compounding effect over the
+mid-to-long term. If we constantly ask ourselves, "How can we implement this
+thing to become more efficient in mid-to-long term?" while still thinking about
+pragmatic short-term goals, we can hope for seeing a lot value being built over
+time, similarly to how compound interest builds wealth. Overfocusing on
+short-term goals can lead to us missing out on this opportunity.
+
+A short, and incomplete list of things that can help us become more efficient:
+
+1. Build useful and well designed abstractions.
+1. Choose [simple solution](#simplicity) over easy solutions.
+1. Refactor code for simplicity and ease of understanding.
+1. Contribute to an open source project instead of patching locally.
+1. Build automation to reduce repetitive work or simplify a process.
+1. Build new communication channels that enhance knowledge sharing.
+1. Strive for achieving engineering excellence over engineering perfection.
 
 ## Simplicity
 
