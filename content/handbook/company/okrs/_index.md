@@ -67,7 +67,7 @@ Key Results should be:
 1. **Iterative** - Aligned with our core value of [iteration](/handbook/values/#iteration), a Key Result should focus on number of iterations or steps on the way to an outcome instead of just the outcome. Deliver x iterations instead of deliver y functionality.
     1. For example, if we need to create a certain number of experimental and beta features to ultimately get to 1 GA feature, break the KR down into iterative pieces such as deliver 16 experimental features, 2 beta features, and 1 GA feature to highlight the iterations required to get to the end result, instead of only focusing on the end result.
 1. **Aspirational** - Ambitious but realistic stretch goals; if it feels uncomfortable, it's a good KR.
-    1. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
+    1. If you achieve less than 70% of your KRs, you may be stretching beyond what is achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
 1. **Linked** - Be aligned to an Objective and be relevant to teams one level down; this alignment also allows KRs to easily roll down to become objectives one level down.
     1. KRs should not be too specific that the KR needs to be rolled more than one level down.
 1. **Clear, Responsible Party** - one single person or team responsible for Key Result.
@@ -432,6 +432,16 @@ The first Key Review of the following quarter should offer a clear scoring for e
 CEO OKR progress will be shared in the first week of the month in the  following slack channels: [#ceo](https://gitlab.slack.com/archives/C3MAZRM8W); [#okrs](https://gitlab.slack.com/archives/C7957GG4B); [#e-group](https://gitlab.slack.com/archives/C5W3VS1C4); [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C).
 
 ## Scoring OKRs
+
+Since we set OKRs that are aspirational, we [don't expect 100% achievement](/okrs/#criteria-for-key-results) across KRs. We score individual KRs to note our achievement against our stated goal. This is the scoring framework.
+
+| Achievement against targets | Score |
+| ------ | ------ |
+| On-target | 85 to 100% |
+| Off-target | 70 to 84% |
+| At risk | 0 to 69% |
+
+### Tips for goals that are scorable
 
 Your KRs should be statements that clearly indicate how you will score. For example, in FY21-Q4, the marketing team set a target of completing 5 experiments. It completed 4 out of the 5, but only one of these appeared to be successful. The marketing team initially saw this as a failure. Instead, it showed notable progress. 80% of experiments were completed. This was the stated KR goal.
 
