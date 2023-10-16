@@ -20,13 +20,17 @@ You will feel very slow in the beginning, which is perfectly normal. There is a 
 
 If you haven't already, please read the main section of the [UX Handbook](/handbook/product/ux/) and the [Product Designer](/handbook/product/ux/product-designer/) section. Reading the [Design project README](https://gitlab.com/gitlab-org/gitlab-design/blob/master/README.md) and its [contribution guidelines][gitlab-design-contrib] will also help fill in all the details of how we work.
 
+## Manager support
+
+Your new manager will help you build new relationships, understand team dynamics, and feel a part of GitLab during your remote onboarding. Manager support spans the three key dimensions of onboarding: the organizational, the technical, and the social. You can learn more about the [manager role in onboarding](/company/culture/all-remote/onboarding/#the-managers-role-in-onboarding) in the handbook.
+
 ## UX Buddy
 
 You will be assigned a UX Buddy to help you find your way around. Your buddy will schedule a coffee chat with you during your second week. To get you up to speed so you can start contributing to the team efforts and improving GitLab as a product, you will be assigned to an onboarding issue that provides a few tips on how to navigate around the team resources as well as company resources.
 
 Your UX Buddy will also be assigned to your first few milestones issues alongside you. While you should feel free to ask anyone for help at anytime, your buddy is a dedicated person you can rely on for help and guidance.
 
-### UX buddy responsibilities
+### UX Buddy responsibilities
 
 As a buddy, you will be responsible for creating an onboarding issue for the new joiner under the [GitLab Design][gitlab-design] project. You can use the `UX Onboarding` issue template for that. Part of your responsibility is also to guide the new desiger around the department, as well as facilitating a smooth ramp-up within the stage group whenever necessary. We created a [Google Docs with a template agenda](https://drive.google.com/drive/u/1/search?q=UX%20Buddy%20(template)) you can use to structure your 1:1s. You should feel free to structure those calls whenever you and the new joiner feel like it. Read more about [general buddy responsibilities](/handbook/people-group/general-onboarding/onboarding-buddies/) in our handbook.
 
