@@ -220,7 +220,7 @@ be notified of updates at least **monthly**.
 
 ## SLA exceptions
 
-The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, we should open a [SLA exception](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team.
+The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, development teams should open a [SLA exception](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team. The Application Security team is available to assist by providing guidance on these exception requests, but the expectation is that development teams will submit these requests and provide the justification and exception type.
 
 ## Closing out & disclosing issues
 
