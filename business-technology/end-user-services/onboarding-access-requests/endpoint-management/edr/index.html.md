@@ -241,10 +241,8 @@ Expect SentinelOne to use less than 10% of total CPU power (for example, display
 ### How do I collect metrics for support on MacOS due to an issue with high CPU or RAM?
 
 1. In a terminal, run:
-`sudo sentinelctl metrics enable`
-1. Reproduce the scenario that caused the issue, or run it for a few minutes. It will run in the background. You will not see output.
-1. Collect the metric log:
-`sudo sentinelctl metrics dump >> /tmp/metrics_dump.txt`
-1. Turn off metric collection:
-`sudo sentinelctl metrics disable`
-1. Analyze the data as below, and then if needed share the file with #sentinelone and we will get a ticket open with SentinelOne support.
+`sudo sentinelctl profiler start 30`
+2. Reproduce the scenario that caused the issue, or run it for a few minutes. It will run in the background. You will not see output.
+3. Collect the metric log:
+`sudo sentinelctl profiler stop`
+4. Analyze the data as below, and then if needed share the file with #sentinelone and we will get a ticket open with SentinelOne support.
