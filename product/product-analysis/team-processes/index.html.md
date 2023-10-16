@@ -23,9 +23,9 @@ All issues must have the following:
 * Section priority label (ex: `section-priority::1`)
 * Section label (ex: `section::dev`)
   * Answers the question "what section is this work supporting?"
-* Stage label (ex: `devops::manage`)
+* Stage label (ex: `devops::create`)
   * Answers the question "what stage is this work supporting?"
-* Group label (ex: `group::optimize`)
+* Group label (ex: `group::code creation`)
   * Answers the question "what group is this work supporting?"
 * Issue weight
 * Iteration (once the issue is scheduled)
@@ -38,9 +38,9 @@ The Product Data Insights team uses a subset of the [workflow labels used by the
 
 | Stage (Label) | Description | Completion Criteria |
 | --- | --- | --- |
-| `workflow::1 - triage` | New issue, being assessed | Requirements are complete and issue is assigned to an analyst |
-| `workflow::3 - scheduling` | Waiting for scheduling | Issue has an iteration |
-| `workflow::4 - scheduled` | Waiting for development | Work starts on the issue |
+| `workflow::1 - triage` | New issue undergoes initial assessment | Requirements and business context are complete |
+| `workflow::3 - refinement` | Issue is scoped and refined | Issue is fully scoped and refined |
+| `workflow::4 - ready to develop` | Issue is waiting for development | Work starts on the issue |
 | `workflow::5 - development` | Work is in-flight | Issue enters review |
 | `workflow::6 - review` | Waiting for or in review | Issue meets [criteria for closure](/handbook/product/product-analysis/team-processes/#checklist-for-closing-an-issue) |
 | `workflow::X - blocked` | Issue needs intervention that assignee can't perform | Work is no longer blocked |
