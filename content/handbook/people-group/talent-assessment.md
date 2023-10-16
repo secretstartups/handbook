@@ -411,7 +411,7 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle(2023-07-15 to 2023-11-03) ), guidance would be that they should be assessed as Too New to Rate.**
+1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle (2023-07-15 to 2023-11-03), guidance would be that they should be assessed as Too New to Rate.** This includes all FY24-Q3 promotions which have an effective date of 2023-08-01.
 1. **If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (before 2023-07-15) they would be assessed based on the new level/role.**
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
