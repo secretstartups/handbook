@@ -709,8 +709,6 @@ From FY24Q4 onwards, we will pilot [automatic triggers](https://support.outreach
 
 ## Process for scheduling an IQM with AE/SAE
 
-Whether it be from inbound follow up or outbound prospecting, you’re going to be engaging with prospects who are directly involved in a project or team related to the potential purchase of GitLab within a buying group, either as an evaluator, decision-maker, technical buyer, or influencer. During those interactions, you’ll be looking to gather information related to the SAO qualification criteria.
-
 ### Qualification Criteria and SAOs
 
 Qualification criteria is a minimum set of characteristics that a lead must have in order to be passed to sales and become a Sales Accepted Opportunity (SAO), these are split into [Inbound and Outbound Criteria.](/handbook/sales/field-operations/gtm-resources/#opportunities)
@@ -779,6 +777,7 @@ There will be times when an SDR or BDR is working a prospect and, after connecti
  **In situations where an SDR or BDR has received conflicting information and it is unclear what the correct territory is for an account, they should Chatter the AEs assigned to the potential territories and have them figure out who owns it.**
 
 ### How do I request SAO credit on a Web Direct opportunity?
+
 On the opportunity record in Salesforce, compose a new Chatter message that includes the following:
 1. Tag your manager (do not tag Sales Support)
 2. Include a link to the record in Salesforce that shows your related two-way activity in the past 60 days. If your related activity is a phone call, you must have entered the details of the phone call into the Qualification Notes field on the lead record at the time of the call in order for it to be considered. Qualification Notes entered after the Web Direct opportunity has been created will not be considered for credit.
@@ -790,7 +789,55 @@ Your manager will review the information and decide whether SAO credit is warran
 
 ![Opportunity Creation Workflow](/images/handbook/marketing/sales-development/Opportunitycreationworkflow.png)
 
-## BDR First Order Outbound Process
+#### SDR/BDR to AE SAO Handoff Process 
+
+The purpose of the BDR-AE outbound handoff process is three fold.
+
+1. Ensure Outbound prospects get the best experience possible.
+2. Ensure the BDR team enjoys operational efficiencies and have clearly structured ways to collaborate with the AE team on outbound accounts.
+3. Ensure the AE team is set up for success is receiving outbound leads in a structured manner and have the appropriate information to utilize in converting them.
+
+To make sure that the hand-offs maximize internal efficiencies, it is required that:
+- The BDR team makes sure to book calls, with a minimum notice time of 48 business hours.
+- The BDR team makes sure to properly fulfil Outbound SAO criteria, or work with AE to create a mutual command plan.
+- The AE team makes sure to:
+     - Accept SAOs within 8 working hours after an IQM call.
+     - To leave a chatter note on the opportunity record, tagging BDR and AE manager with feedback on the level of qualification and handoff in case of discrepancies.
+     - To be responsible for managing the prospect relationship after all handoff types have taken place. This includes re-scheduling conflicts.
+
+     ### 1. BDR Qualified Meeting
+- Are leads that have been qualified by the BDR over a Discovery call.
+- CoM principles have been applied to the call and some of the Before/After Scenarios, Positive Business Outcomes, Requirements and Metrics have been identified and agreed upon between the prospect and the BDR.
+- There is a clear need or intent identified from the side of the company, and the prospect has clearly articulated a path to the ultimate decision-maker, as per the guidelines for outbound [SAO criteria](https://docs.google.com/document/d/1m5YBOCc--M1Iq5-SEEd2OUWDjYyc6VJ3xTsDEEqisUQ/edit)
+
+
+#### BDR steps after discovery call
+
+- Summarize CoM principles uncovered during the call
+- Schedule next step [through Outreach](https://app1a.outreach.io/meetings) while being on the call with the prospect
+    - Meeting Type should be 45’ Evaluation Orchestration Call and body of invitation should be adjusted to meet the prospect’s needs.
+- Send [AE Intro Email](https://app1a.outreach.io/templates/50415)
+    - For demanding hand-offs, [customer-facing](https://docs.google.com/document/d/1EpltUVDhIbgWLcGXD_ug8PkoPOSBxKkNiwpwy7irbsw/edit) agenda may also be copied and attached to intro email.
+- Log Required SFDC fields and populate Notes field [as per the guidelines here](https://docs.google.com/document/d/1m5YBOCc--M1Iq5-SEEd2OUWDjYyc6VJ3xTsDEEqisUQ/edit)
+- **Unless there's a scheduling conflict for the BDR**, attend Evaluation Orchestration Call and kick-off the call:
+     - Summarize the BDR qualifying conversation by mentioning and verifying the before and after scenario of the prospect, as transcribed on the SAO notes.
+     - After prospect acknowledges that their internal situation have not changes inbetween BDR and AE call, recap the expectations and metrics as transcribed on the SAO notes and handoff to AE to move forward.
+
+### 2. Joint IQM
+- Are meetings booked with leads that are from pre-agreed upon Actively Working Acounts.
+- Calls scheduled for these prospects will be taken as a joint IQM with both BDR and AE attending, and leading the qualification.
+- CoM principles will be applied during the call, with the goal of uncovering a clear need and path to the ultimate decision-maker, as per the guidelines for outbound [SAO criteria](https://docs.google.com/document/d/1m5YBOCc--M1Iq5-SEEd2OUWDjYyc6VJ3xTsDEEqisUQ/edit)
+
+#### BDR steps before discovery call
+
+- Schedule next step [through Outreach](https://app1a.outreach.io/meetings) while being on the call with the prospect, and schedule straight to the AEs calendar.
+    - Meeting Type should be 15’ Discovery Call.
+- Create SFDC opportunity, and log any pre-determined or relevant information from your past reseearch.
+- Communicate with AE, and create a mutual [command plan](https://docs.google.com/document/d/1uTHRRUQx4IP_dXUnsrfG2x9Ti-XpMneX3IDu2v0TZtY/edit) for the call.
+     - When kicking off the call, summarize the BDR research and reason for reaching out, such compelling events, Persons with LIM, etc
+     - After prospect acknowledges their compelling event and internal situation, discovery call continues with pre agreed upon structure with AE.
+
+## BDR FO Outbound Process
 
 BDR outbound lead generation is done by prospecting to companies and individuals who could be a great fit for our product. Prospecting is the process of finding and developing new business through searching for potential customers with the end goal of moving these people through the sales funnel until they eventually convert into customers.
 
@@ -960,26 +1007,29 @@ In Step 7, compile the selected prospects and create LinkedIn Sales Navigator li
 
 ### 6. Maintaining a clean pipeline, and using BDR fields for cross-functional collaboration.
 
-Having followed the steps above, as part of account prospecting, you should have a finalized list of your accounts for the quarter, as per your territory's capacity. Ensure that these accounts are reviewed by your AEs to align everyone's understanding. Begin by placing 10 of these accounts into "Actively Working" status and enhance them weekly.
-
-Step 6 involves persona prospecting, where you should explore the specific personas you intend to target, such as VPs, Directors, Developers, Security, Architecture, DevOps, DevSecOps, Procurement Officers, and IT Buyers. Determine the number of prospects you plan to add to sequences, with a minimum of 25 per day. Utilize LinkedIn Sales Navigator to identify these personas within your target companies.
-
-In Step 7, compile the selected prospects and create LinkedIn Sales Navigator lists for each persona. Save these lists for future use.
-
-
-1. To review your current pipeline, along with any leads with next steps, please refer to your segments dashboards by going to SFDC > Dashboards and searching for `watch and help`. Team specific variants of these dashboard components will also be found on your team's dashboard. These dashboards will give you a bird's eye view of what actions are required from to maintain a clean pipeline, in terms of:
+1. To review your current pipeline, along with any leads with next steps, please refer to your segments dashboards by going to SFDC > Dashboards and searching for `Watch and Help`. Team specific variants of these dashboard components will also be found on your team's dashboard. These dashboards will give you a bird's eye view of what actions are required from to maintain a clean pipeline, in terms of:
     i. Accounts with BDR fields past due
     ii. Prospects with sequence steps past due
     iii. Prospects that have been moved to `Qualifying` status but have not had any outreach since. <br>
 
-2. To utilize the BDR fields in maintaing an automated 1:1 outbound agenda with the AEs/SAEs that you collaborate with.
+### 1:1 Dashboards and other collateral
+
+We have created a master set of dashboards that are meant to be used for strategic 1:1 planning with the AE team, in alignment with [our BDR fields](https://docs.google.com/presentation/d/1O5unjpSTYQFENlfheUi6_ZNV2fbrIqQjxNBqtwhEaYw/edit#slide=id.g11de9359282_0_12). These dashboards offer a robust set of reporting across both Accounts and Leads, each with an associated help-text to help drive better understanding of each indivdual component. Additionally, some further report templates that can be used for strategic outbound collaboration are linked below.
+
+1. The full list of dashboards may be found on the [issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/115) or by going to the SFDC dashboards [list here](https://gitlab.my.salesforce.com/01Z?fcf=00l61000000OMzL) and searching for the keyword `1:1 `
+2. [Queued Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoME) - This report will indicate the accounts that the AE/SAE has nominated for outbound efforts by switching the account's `BDR Prospecting Status = Queued`
+3. [Actively Working Accounts Template](https://gitlab.my.salesforce.com/00O8X000008QoM4) - This report will indicate the accounts currently being worked on a BDR, and will include next step dates and relevant strategy fields. The logic behind using these fields in outlined [here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/2fdadc1e76ddd57ceaac706362242b2d/Screenshot_2022-03-15_at_16.29.09.png), with a [practical example here](https://gitlab.com/gitlab-com/marketing/sdr/uploads/7759ffcea589453e562811f3d3c0fd8d/Screenshot_2022-03-15_at_1.35.05_PM.png)
+4. [Closed:Lost Template](https://gitlab.my.salesforce.com/00O8X000008QoQk) - This report will indicate past Closed: Lost accounts in your territory, it can be expanded further by adjusting the Close Date field.
+5. [CI Usage Template](https://gitlab.my.salesforce.com/00O8X000008QoMO) - This is the list of CE users with a high purchase rate of compute minutes.
+6. [CE Users Template](https://gitlab.my.salesforce.com/00O8X000008QoQV) - This is a list of CE users per territory
+7. In addition to the above, the BDR team has got access to DemandBase, the template list for which [may be found here](https://about.gitlab.com/handbook/marketing/sales-development/sdr-manager-resources/#actively-working-status-related-demandbase-reports)
 
 **Important Note**
 You do not have to wait until the end of the month or quarter to change the BDR prospecting status, you just have to make sure you stay under the limit for your segment and move the account to either “Queued” or “Worked in FY” based on criteria.
 
 BDR Account views are to help with territory organization. It is very important for BDRs and their manager to update the BDR assigned field for their territory. Contacts ownership will be based on the BDR Assigned to the account. BDRs will be responsible for contact follow up should they MQL. BDRs will also be responsible for any leads that MQL when they’re related to accounts where they are the BDR Assigned and the account is in “Actively Working” status.
 
-## Account views
+#### Account views
 
 * **B1 View**- My BDR Assigned accounts, (clone) - This view will need to be cloned and customized to accounts where you are the BDR assigned. You'll need to know your territory name in order to populate. Once set up, it will allow the BDR to mass update the 'BDR Strategy' field and then the 'BDR Prospecting Status' field to show which ones they will be "Actively Working". You can also use this view to move leads into other statuses.
 * **B2 View**- My Actively Working accounts, clone - This view will need to be cloned and customized to show “Actively Working” accounts where you are the BDR assigned.
@@ -1142,11 +1192,13 @@ To increase engagement at Field and Corporate events, it’s helpful to have BDR
 Learn more about [Field](/handbook/marketing/field-marketing/) and [Corporate Events](/handbook/marketing/integrated-marketing/corporate-events/) via their linked handbook pages.
 
 ### Approvals Required
+
 The FMM Regional team & the AMER or EMEA/APAC Regional Senior BDR Manager will review the upcoming quarter event calendar to discuss which events needs BDR support and what level of support would be needed. The Regional Senior BDR Manager will sign off on the related event support by referencing the "BDR approved" column in the [Marketing Calendar SSOT worksheet](/handbook/marketing/#marketing-calendar). FMMs will then open the related FMM/ISR/SDR issue mentioning the Regional Senior BDR Manager. The Regional Sr. BDR Manager will assign a Manager DRI who will then include related BDRs participating in the event's BDR pre and post tasks.
 
-*  [Field Marketing SDR Support Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=ISR_SDR_FMTemplate)
+*  [Field Marketing SDR Support Template](https://gitlab.com/gitlab-com/marketing/sales-development/-/blob/main/.gitlab/issue_templates/FM_BDR_Collaboration_Template.md)
 
 ### Sales Development Team Member Selection Best Practices
+
 Best practices for selecting sales development team members to represent GitLab at field marketing events include:
 * Selecting qualifying BDRs and only SDRs as a last resort.
 * Selecting team members that are certified for field marketing events by checking [this spreadsheet](https://docs.google.com/spreadsheets/d/1P7QvZ09F8OT7LJTeMRYbu6_Oxjw9UdouaJ5Oeo8SU8k/edit#gid=1715535840). Team members that are marked as "FM ready" have been tested to understand our sales amd value drivers. Only select team members that have been marked as "FM ready" with approval from sales development leadership.
@@ -1154,14 +1206,17 @@ Best practices for selecting sales development team members to represent GitLab 
 * Select applicable team members in a round robin manner. For instance, every available BDR gets invited to one event before a single BDR gets invited to a second, etc.
 
 ### Levels of Support
+
 Support might include pre event outreach by BDR's to help drive attendance/meetings.  Also could include event booth staffing either in person or virtually by SDRs and/or BDRs.
 
-### Joint Partner Related Events.
+### Joint Partner Related Events
+
 BDRs should not support joint partner related events where there the routing plan is to have the leads worked by the partner. Additionally, the following routing should be taken into the routing workflow.
 * MQLs or Good/Hot leads related to BDR Actively Working Accounts + leads in qualifying status + leads active in sequence should not be passed to the partner but rather to the BDR Assigned or the current sales development lead owner.
 * Any meetings booked at the event via Qualified will automatically route to the SDR team.
 
-### Routing nuances
+### Routing Nuances
+
 * Any BDR 'Sales Nominated' prospects added to the campaign who respond to invite sequence will be worked by the BDR Assigned. If the account isn't in Actively Working status, they will be notified to move the account into Actively Working status so they can continue to work the engaged lead as well as begin strategic outreach to others at the account leveraging this compelling engagement.
 * Qualified meetings scheduled related to an Actively Working account will be facilited by the BDR Assigned. All others will route to the SDR org per the normal routing workflow.
     *  Qualified Leads will appear as MQLs in the SDRs S1 lead view if the SDR engages the prospect and receives a business email from them. The SDR who receives the MQL will be decided by which SDR closed the conversation in Qualified, had a meeting booked with the prospect on their calendar, or  was the last routed user to receive the lead.
@@ -1174,6 +1229,7 @@ BDRs should not support joint partner related events where there the routing pla
 
 
 ### Current asks into the Sales Development Org
+
 * [AMER](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues?scope=all&state=opened&label_name[]=SDR%3A%3AAMER%20Event%20Awareness
 )
 * [US PubSec](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues?scope=all&state=opened&label_name[]=SDR%20Pub%20Sec)
@@ -1183,7 +1239,8 @@ BDRs should not support joint partner related events where there the routing pla
 
 #### Field Process
 
-When our Field Marketing Managers (FMMs) begin preparing for an event or campaign, they will create an issue using a [regional issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/tree/master/.gitlab/issue_templates). If they need BDR or SDR Support they will open an [SDR Request issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=ISR_SDR_FMTemplate) and the FMM will fill out/ensure the following sections are accurate:
+When our Field Marketing Managers (FMMs) begin preparing for an event or campaign, they will create an issue using the process [outlined here](https://about.gitlab.com/handbook/marketing/sales-development/sales-development-tools/#field-marketing-%3C%3E-bdr-collaboration-process). This will include:
+
 * DRI's and Event details in the section: Field Marketing Brief and Pre-Event Request(s) Defined
 * Pre-event/campaign goals
 * Post-event/campaign goals
@@ -1191,7 +1248,7 @@ When our Field Marketing Managers (FMMs) begin preparing for an event or campaig
 
 Once the sections are populated and up to date, the senior regional Sales Dev Manager is looped in. That senior regional Sales Dev Manager will assign a BDR manager to be the manager DRI for this event.
 
-The BDR Manager DRI will:
+The BDR Manager DRI will: 
 
 * Select BDR(s) who will be involved in sourcing/attending the event/combination of both.
 * Showcase who is assigned to which tasks and due dates based on the event date. (in the issue chart)
