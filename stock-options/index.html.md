@@ -25,6 +25,12 @@ If a team member leaves GitLab, they have 90 days post termination to exercise t
 
 ## Equity Incentive Plans
 
+[2015 Equity Incentive Plan](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/exhibit102-sx1.htm) and related form agreements would cover information related to GitLab options.
+
+[2021 Equity Incentive Plan](https://www.sec.gov/Archives/edgar/data/1653482/000162828021019505/exhibit103-sx1a1.htm) and related form agreements would cover information related to GitLab RSUs.
+
+[2021 Employee Stock Purchase Plan](https://www.sec.gov/Archives/edgar/data/1653482/000162828021018818/exhibit104-sx1.htm) would cover information related to GitLab ESPP purchases.
+
 ## Stock Options
 
 In the past at GitLab, we have given equity grants in the form of Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NQs). It’s called an option because you have the option to    buy GitLab stock, subject to vesting terms, at the exercise price provided at the time of grant. 
