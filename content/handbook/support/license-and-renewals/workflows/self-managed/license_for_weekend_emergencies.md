@@ -28,20 +28,28 @@ License requests for a customer with a **paid** plan, where the license's "grace
 
 ---
 
-## Workflows
+## Workflow
 
-### Confirm customer subscription
+### Step 1: Confirm customer subscription
 
 1. Request from the customer the following screenshots:
 
     - Admin Area -> Overview -> Dashboard
     - The license page from Admin Area -> License (in newer versions, may say subscription)
-1. Add the screenshots to the ticket
+1. Add the screenshots to the ticket.
+
+### Step 2: Get acknowledgement of trial susbscription exclusions
+
+1. In the Zendesk ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer.
+1. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
+
+### Step 3: Generate the trial license
+
 1. Go to the Mechanizer ZenDesk App, from the ticket in the right side bar.
-1. Enter your username and the user count for the license based on information from the screenshot
-1. Enter the email address of the person who opened the ticket
-1. The tool will generate and email to the customer a 5-day trial license for the given user count
-1. Put a comment in the `#support_licensing-subscription` Slack channel to let the team know that an emergency license was generated with the ticket url
+1. Enter your username and the user count for the license based on information from the screenshot.
+1. Enter the email address of the person who opened the ticket.
+1. The tool will generate and email to the customer a 5-day trial license for the given user count.
+1. Put a comment in the `#support_licensing-subscription` Slack channel to let the team know that an emergency license was generated with the ticket url.
 
 ### Considerations
 
