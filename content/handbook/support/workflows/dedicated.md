@@ -30,7 +30,7 @@ Here is some background to understand why:
 
 Sharing internal logs, data and graphs without adequate context and explanation
 may cause customers to misinterpret the provided information, creating more
-work for _all_ teams involved and, in the worst case, cause unnecessary damage
+work for *all* teams involved and, in the worst case, cause unnecessary damage
 to GitLab's relationship with the customer.
 
 If you assess that sharing such internal logs, data and graphs with the

@@ -11,7 +11,7 @@ Monitoring and observability graphs from Grafana should not be shared with
 customers by default.
 
 If you think sharing graphs would benefit the customer, please read
-[Sharing internal logs, data & graphs]({{< ref "dedicated#sharing-internal-logs-data-graphs" >}}).
+[Sharing internal logs, data & graphs]({{< ref "dedicated#sharing-internal-logs-data--graphs" >}}).
 
 ## Accessing Grafana
 
