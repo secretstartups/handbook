@@ -80,7 +80,7 @@ Linux: Currently we do not have an endpoint management tool for Linux. However w
 
 It is essential to encrypt your laptops hard drive using Mac's FileVault or Linux's built in encryption. This will prevent unauthorised access of the contents in your hard drive. Please refer to our security pages to complete this. 
 
-- [MacBook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
+- [MacBook Encryption](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
 - [Linux Encryption](https://about.gitlab.com/handbook/tools-and-tips/linux/#initial-installation)
 
 
