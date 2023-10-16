@@ -44,6 +44,6 @@ wish to use a personal VPN service for any reason may still [expense one](https:
 For the use case of laptop usage in untrusted environments, such as coffee
 shops and coworking spaces, team members should prioritize a baseline of always-on host protections,
 such as up-to-date security patching, host firewalls, and antivirus, by following the
-[system configuration guidelines](#laptop-or-desktop-system-configuration)
+[system configuration guidelines](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
 at a minimum. That said, a personal VPN may provide additional protections in these situations.
 For more on personal VPNs see the [Personal VPN]({{< ref "personal-vpn" >}}) page.
