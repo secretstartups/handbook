@@ -143,9 +143,9 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 
 | Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |
-|Red*     |3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          If applicable|     Yes|    Yes |
-|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          Yes|     Yes|     Yes |
-|Orange Professional Services | 3rd Party Attest or SIG Prof Svcs|          N/A|     N/A| N/A|   N/A|
+|Red*     |3rd Party Attest & <a href="https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Lite Plus</a> (or equiv)|     Yes|          If applicable|     Yes|    Yes |
+|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & <a href="https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Lite Plus</a> (or equiv)|     Yes|          Yes|     Yes|     Yes |
+|Orange Professional Services | 3rd Party Attest or <a href="https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Prof Svcs</a>|          N/A|     N/A| N/A|   N/A|
 |Yellow/Green**     |-|     -|     -|     Yes*|    - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
@@ -209,7 +209,7 @@ The Security Risk Team leverages the [Standard Information Gathering (SIG)](http
 Security Risk maintains multiple templated versions of the SIG questionnaire for use depending on the product or service being assessed, as some vendors may not have a SIG questionnaire or equivalent to provide. The SIG templates include instructions noting that we only require Inquiry responses within Columns D and E of the main questionnaire tab, as additional requests for information or documentation within the SIG are generally not required. Note that potential fringe cases *could* exist wherein professional discretion may dictate the necessity for additional documentation requests to supplement vendor responses. These scenarios should be discussed with the Security Risk Manager to determine what is needed. Further, professional discretion should be applied when making decisions as to which version of the SIG questionnaire should be sent. For cases in which the level of review required is unclear, engineers are encouraged to discuss with the @Security-Risk team in the #Sec-Assurance-Team channel to come to a decision.
 
 {{% details summary="SIG Lite Plus" %}}
-- SIG Lite Plus
+- [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
     - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
     - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
         - A. Enterprise Risk Management (Full SIG Content)
@@ -233,7 +233,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
 {{% /details %}}
 
 {{% details summary="Professional Services SIG" %}}
-- SIG Professional Services
+- [SIG Professional Services](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
     - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a system being transmitted sensitive GitLab data. In these cases it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
     - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
         - D. Asset and Info Management
