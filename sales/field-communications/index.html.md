@@ -124,7 +124,13 @@ Once you've reviewed the playbook above and would like to request Field Communic
       - Field Announcement::Tier 6
    1. Note: If the announcement request includes a request to survey some or all Field team members, the `Field Survey` tag will be applied to the issue and Field Communications will work with the requestor to determine if request fits within the survey limits set each month or if plans should be adjusted. 
 3. Field Communications will collaborate with the requester on the announcement details and copy directly in the issue to finalize the roll-out plan and timeline. 
-   - Field Communications will enforce a blackout period in the final two weeks of each quarter to limit distractions and allow the Field to focus on closing business. Exceptions will be made on a case-by-case basis for urgent announcements that require the Field’s immediate attention (system outage, critical update affecting customers and/or closing business).  
+   - Field Communications will enforce a blackout period in the final two weeks of each quarter to limit distractions and allow the Field to focus on closing business. Exceptions will be made on a case-by-case basis for urgent announcements that require the Field’s immediate attention (system outage, critical update affecting customers and/or closing business).  The blackout periods for FY24 & FY25 are as follows:
+            - Q3-FY24: 2023-10-17 - 2023-11-01
+            - Q4-FY24: 2024-01-17 - 2024-01-31
+            - Q1-FY25: 2024-04-16 - 2024-04-30
+            - Q2-FY25: 2024-07-17 - 2024-07-31
+            - Q3-FY25: 2024-10-17 - 2024-10-31
+            - Q4-FY25: 2024-01-16 - 2025-01-30
 
 #### Announcements to External Channel/Alliances Partners 
 If you have an internal announcement that is also relevant to GitLab's external Channel/Alliances Partner audience, please use the Field Announcement Request process outlined above and add the appropriate details in the `Enablement Scope` section of the issue. Also select the `GitLab Partners (external)` audience in addition to the relevant internal audiences. By selecting this audience, the Field Communications team will engage the appropriate team members in Partner Communications to disseminate the announcement to partners. 
