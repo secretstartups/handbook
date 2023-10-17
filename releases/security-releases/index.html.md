@@ -78,9 +78,11 @@ If a security vulnerability introduced a non-vulnerability bug, in most cases, t
 
 If a security vulnerability introduced a high severity non-vulnerability bug, engage with AppSec and release managers to coordinate next steps. 
 
+For more information, see [revert a security merge request] runbook.
 
 [security release backports]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md#backports
 [GitLab Security]: https://gitlab.com/gitlab-org/security/
 [Security Releases How to video]: https://www.youtube.com/watch?v=ixtUDxM3nWA
 [Security Release process as Developer]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md
 [security implementation issue]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/process.md#terminology
+[revert a security merge request]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/runbooks/revert-security-merge-request.md

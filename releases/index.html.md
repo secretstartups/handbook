@@ -235,6 +235,7 @@ Depending on the bug details, follow one of the following processes:
 - For [high severity security bugs][process-security-release-critical] 
 - For [high severity bugs affecting self-managed users][process-patch-release]. If the bug has been found close to the [release date](/handbook/engineering/releases/) of the month please also alert the Release Managers in [#releases]. 
 - For [high severity bugs affecting GitLab.com](/handbook/engineering/deployments-and-releases/deployments/#gitlabcom-pick-label)
+- For [high security bugs affecting security merge requests](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/bugs_introduced_by_security_merge_request.md)
 
 ## Resources
 
