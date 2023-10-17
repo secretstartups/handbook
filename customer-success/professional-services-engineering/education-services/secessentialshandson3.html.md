@@ -17,7 +17,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ### B. Add a `Dockerfile`
 
-A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Ubuntu 18.04 Docker image, and then packages that whole stack into a new Docker image.
+A Dockerfile is a "recipe" that tells Docker how to assemble your application into a Docker image. You'll write a `Dockerfile` that installs your single-file Python application onto an Python 3.4 Docker image, and then packages that whole stack into a new Docker image.
 
 1. In the left navigation pane, select **Repository > Files**.
 1. Above the repository file list, select **(+) > This directory > New file**.
@@ -25,7 +25,7 @@ A Dockerfile is a "recipe" that tells Docker how to assemble your application in
 1. The Dockerfile must specify which Linux image to install your application on. For this lab you'll use an old version of Ubuntu that has security vulnerabilities for the Container Scanner to find. Paste this into `Dockerfile`:
 
     ```dockerfile
-   FROM ubuntu:18.04
+  FROM python:3.4-alpine
     ```
 
 1. The Dockerfile must add your application to the Linux image specified above. Paste this at the bottom of `Dockerfile`:
@@ -37,7 +37,7 @@ A Dockerfile is a "recipe" that tells Docker how to assemble your application in
 1. Your completed `Dockerfile` should look like this. Make any corrections necessary.
 
     ```dockerfile
-   FROM ubuntu:18.04
+  FROM python:3.4-alpine
    ADD HelloWorld.py .
     ```
 
@@ -148,7 +148,7 @@ Now that your Docker image is being built and pushed, you can enable Container S
 
 ### F. View the results
 
-1. See if the Container Scanner found any problems with the old Ubuntu base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
+1. See if the Container Scanner found any problems with the old Python base image by looking at either the **Vulnerability Report** or the **Security** tab in the pipeline details page.
 
 
 ## Suggestions?
