@@ -1,21 +1,13 @@
 ---
-layout: handbook-page-toc
 title: "Payroll"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Introduction
-
 Welcome to the Payroll Group handbook!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then please do the following:
--  **Email** your question(s) to one of the following group email addresses:
-   *   US team members: uspayroll@gitlab.com
-   *   Non-US team members: nonuspayroll@gitlab.com
--  **Chat channel**:  `#payroll` Slack channel for questions that are not confidential.
+
+- **Email** your question(s) to one of the following group email addresses:
+    - US team members: uspayroll@gitlab.com
+    - Non-US team members: nonuspayroll@gitlab.com
+- **Chat channel**:  `#payroll` Slack channel for questions that are not confidential.
 - For questions related to commission such as calculation, deals, etc. contact sales-comp@gitlab.com
 - For questions related to discretionary and referral bonus payout timing contact Total-Rewards@gitlab.com
 
@@ -41,7 +33,6 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 ## Pay Date
 
 1. GitLab Inc and GitLab Federal team members will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements. If a GitLab Inc or GitLab Federal wishes to print their pay statement(s), they may expense the cost of printing the statements at an outside printing location such as FedEx, or they may expense $0.05 per page printed using a home printer.
-
 1. GitLab BV (Netherlands) team members will get their salary wired on the 25th of every month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
 1. GitLab BV (Belgium) team members will get their salary wired on the 25th of each month unless it falls on a holiday then it will be the business day before and will receive their payslip in their personal portal on [myworkandme](https://www.myworkandme.com) once set up.
@@ -60,10 +51,9 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
    - Global Upside: India, Costa Rica, Chile, & Kenya will get their salary wired by the last day of the month. Philippines have 2 check dates: the 15th and last day of the month, respectively. Latvia will be paid on the 25th of each month (unless it falls on a holiday).
    - Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Remote.com will get their salary wired on the 25th of the month. Remote.com will send payslips electronically through their HR portal.
-   - Papaya Global - UAE payday is on the 28th of each month unless it falls on a holiday. 
+   - Papaya Global - UAE payday is on the 28th of each month unless it falls on a holiday.
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
-
 
 ## US
 
@@ -111,7 +101,6 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. Enter 2, or 3 under pay #
 1. Enter W under Special Action
 
-
 #### Updating Benefits
 
 Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for all new enrollments along with changes.  Payroll team will convert the information into an import file to update all changes in ADP.
@@ -137,21 +126,21 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
 
 1. Update payroll changes
 1. Validation reports:
-    *  payroll department between ADP and BambooHR
-    *  salary validation between ADP and BambooHR
-    *  lived in, worked in, and SUI state for each team member in ADP
+    - payroll department between ADP and BambooHR
+    - salary validation between ADP and BambooHR
+    - lived in, worked in, and SUI state for each team member in ADP
 1. Generate payroll reports for review:
-   * Employee changes
-   * Active hourly without hours
-   * Inactive employees with paydata
-   * Autopay cancellation
-   * Payroll Summary
+    - Employee changes
+    - Active hourly without hours
+    - Inactive employees with paydata
+    - Autopay cancellation
+    - Payroll Summary
 1. Preview payroll:
-   * Total payroll reconciliation (input vs. output)
-   * There are two Payroll Analysts for US payroll
-   * Payroll Analyst processing GitLab Inc will review payroll changes for GitLab Federal LLC payroll and vice versa
-   * Sr. Manager, Global Payroll will perform a final review and approve the payroll
-   * All validation and reconciliation reports must be signed by the preparer, reviewer, and approver
+    - Total payroll reconciliation (input vs. output)
+    - There are two Payroll Analysts for US payroll
+    - Payroll Analyst processing GitLab Inc will review payroll changes for GitLab Federal LLC payroll and vice versa
+    - Sr. Manager, Global Payroll will perform a final review and approve the payroll
+    - All validation and reconciliation reports must be signed by the preparer, reviewer, and approver
 
 
 #### Reports after Accepting payroll
@@ -168,28 +157,29 @@ Generate the following reports and saved them on Google Shared drive for Inc and
 
 #### Benefits Funding Process
 
-* H.S.A
-  * Employer contributions will be funded each payroll ($50 per pay)
-  * Missed ER contribution will not have a catch up (Employee enrolls late…Lumity will only fund ER contribution on the upcoming pay period. Any missed employer contributions will be disregarded)
-  * Discovery will debit GitLab Bank account on each funding date
-  * Max out is allowed
-* FSA
-  * Funds will debit from the Discovery reserve account once the employee submits a claim
-  * Discovery will contact GitLab if the reserve is low on funds
-* Dependent Care FSA
-  * Funds will debit from the Discovery reserve account once the employee submits a claim
-  * Discovery will contact GitLab if the reserve is low on funds
-* Limited FSA
-  * Funds will debit from the Discovery reserve account once the employee submits a claim
-  * Discovery will contact GitLab if the reserve is low on funds
-* Commuter
-  * Employee payroll deduction will occur on the last payroll of the month and funded on the 1st of the following month
-  * Funds will debit from the Discovery reserve account once the employee submits a claim
-  * Discovery will contact GitLab if the reserve is low on funds
+- H.S.A
+    - Employer contributions will be funded each payroll ($50 per pay)
+    - Missed ER contribution will not have a catch up (Employee enrolls late…Lumity will only fund ER contribution on the upcoming pay period. Any missed employer contributions will be disregarded)
+    - Discovery will debit GitLab Bank account on each funding date
+    - Max out is allowed
+- FSA
+    - Funds will debit from the Discovery reserve account once the employee submits a claim
+    - Discovery will contact GitLab if the reserve is low on funds
+- Dependent Care FSA
+    - Funds will debit from the Discovery reserve account once the employee submits a claim
+    - Discovery will contact GitLab if the reserve is low on funds
+- Limited FSA
+    - Funds will debit from the Discovery reserve account once the employee submits a claim
+    - Discovery will contact GitLab if the reserve is low on funds
+- Commuter
+    - Employee payroll deduction will occur on the last payroll of the month and funded on the 1st of the following month
+    - Funds will debit from the Discovery reserve account once the employee submits a claim
+    - Discovery will contact GitLab if the reserve is low on funds
 
 ### Tax Statements
 
 GitLab Inc and GitLab Federal LLC team members can access their "Form W-2, Wage and Tax Statement" from [ADP portal](https://workforcenow.adp.com).
+
 To download your W-2 statement, go to Myself > Pay Statements, then scroll to "Tax Statements" at the bottom of the page.
 Generally W-2 statements are made available in late January.
 Each W-2 will be available to you on this web site for three years.
@@ -197,8 +187,8 @@ Each W-2 will be available to you on this web site for three years.
 #### W-2c
 
 If there is a discrepancy on your W-2, please send an e-mail to uspayroll@gitlab.com.
-The payroll team will review and submit a W-2c request to ADP. Standard processing time can take approximately 2-3 weeks.
 
+The payroll team will review and submit a W-2c request to ADP. Standard processing time can take approximately 2-3 weeks.
 
 ### W-4 Tax Withholdings
 
@@ -210,12 +200,12 @@ Changes to tax withholdings received by the payroll cut off date will be reflect
 ### Former team member support
 
 Former team members will retain access to ADP so they can access pay stubs and W-2s.
+
 Former team members will need to access [ADP portal](https://workforcenow.adp.com) directly since Okta has been deprovisioned.
+
 If you experience login issues, please send an e-mail to uspayroll@gitlab.com so the team can assist.
 
-
 ## Non-US
-
 
 ### Australia, UK, Belgium, Netherlands, Finland, Germany, Ireland, New Zealand, Japan, France, Singapore & South Korea Monthly Payroll Process
 
@@ -223,9 +213,9 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 ### Changing bank information
 
-1. Team Members can update their bank information on Workday by following the 'add and edit payment elections' [Workday Guide](/handbook/people-group/workday/workday-guide/#workday-guides). Workday will notify the Payroll team with an automatic email notification. 
-1. Bank information changes are considered in the current pay period if submitted before the [Payroll cut off dates](/handbook/finance/payroll/#payroll-cut-off-dates). If the change occurs after Payroll cut off dates, it is advisable to keep your old bank account open for the current pay period.
-1. Connect your bank account with [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/#connecting-your-bank-account-for-reimbursements) to receive expense reimbursements on the same bank account.
+1. Team Members can update their bank information on Workday by following the 'add and edit payment elections' [Workday Guide]({{< ref "workday-guide#workday-guides" >}}). Workday will notify the Payroll team with an automatic email notification.
+1. Bank information changes are considered in the current pay period if submitted before the [Payroll cut off dates](#payroll-cut-off-dates). If the change occurs after Payroll cut off dates, it is advisable to keep your old bank account open for the current pay period.
+1. Connect your bank account with [Navan](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/#connecting-your-bank-account-for-reimbursements) to receive expense reimbursements on the same bank account.
 
 ### Australia
 
@@ -235,29 +225,29 @@ To view your payslip, visit the [iiPay sign-in portal](https://prd3-ess.iipaysp.
 
 For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com of your personal email address. You will receive a password-reset in your personal email. Password reset: your GitLab email is your username to reset the password.
 
-If you can’t access the portal due to many attempts, you can request via [#payroll](https://gitlab.slack.com/archives/CMQMLSLPR) slack channel to reset your account. 
+If you can’t access the portal due to many attempts, you can request via [#payroll](https://gitlab.slack.com/archives/CMQMLSLPR) slack channel to reset your account.
 
 **Opting for Salary sacrifice**
 
-Email nonuspayroll@gitlab.com and total-rewards@gitlab.com for the amount that you want to sacrifice. 
+Email nonuspayroll@gitlab.com and total-rewards@gitlab.com for the amount that you want to sacrifice.
 If you update your Superannuation details, please send the Super Form to nonuspayroll@gitlab.com.
 
 **Updating Withholding Declarations**
 
 Please follow the instructions on the [ATO](https://www.ato.gov.au/Forms/Withholding-declaration/#Betterwaystodothis) website.
-Once you complete the procedure, kindly email nonuspayroll@gitlab.com with the new details. 
+Once you complete the procedure, kindly email nonuspayroll@gitlab.com with the new details.
 
 For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email.
 
-**Password reset**: your _GitLab email_ is your username to reset the password.
+**Password reset**: your *GitLab email* is your username to reset the password.
 
-Important: It is mandatory for team member to update their state in WorkDay. 
+Important: It is mandatory for team member to update their state in WorkDay.
 
 ### France
 
 All new hires will receive an invite from Papaya Global to update their profile on the platform  (for uploading new hire documents securely). All team members should receive access to the Mihi platform (for time & leave tracking). MiHi access will be arranged by payroll team
 
-Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com 
+Managers are required to approve hours & leave through the Mihi portal to which they will receive an invite and should receive a notification when approvals are due (usually by the 8th of each month). Please find the France [Payroll Calendar](#payroll-cut-off-dates) in the Payroll Cut Off Dates section below. If a Manager is going to be out of office and needs to delegate an approver (usually the direct Manager), & they can do so by emailing gitlab@globalupside.com
 
 Team members in France will need to use Time Off by Deel in Slack to show that they are out of office, and will also need to enter the same into the Mihi platform.
 Expenses are to be submitted on Navan Expense and should be final approved as per the Payroll calendar, Payroll will forward these to Papaya Global for processing.
@@ -295,7 +285,7 @@ To discover more about health insurance in Germany, you can visit this [website]
 
 **Private health insurance**
 
-Team members holding a private health insurance (PKV) will email to nonuspayroll@gitlab.com the document Bescheinigung zur Erlangung des Arbeitgeberzuschusses. 
+Team members holding a private health insurance (PKV) will email to nonuspayroll@gitlab.com the document Bescheinigung zur Erlangung des Arbeitgeberzuschusses.
 
 You can recognise it from the statements:
 
@@ -314,7 +304,7 @@ Team Members holding a private health insurance and covering their dependents wi
 
 **Equity in the pay slip**
 
-Equity items such as [RSU vests ](https://about.gitlab.com/handbook/stock-options/#restricted-stock-units-rsus) and [Stock Options](https://about.gitlab.com/handbook/stock-options/#stock-options) are reported in the pay slip as non-cash benefits of monetary value, so-called benefit-in-kind (BIK).
+Equity items such as [RSU vests](/handbook/stock-options#restricted-stock-units-rsus) and [Stock Options](/handbook/stock-options#stock-options) are reported in the pay slip as non-cash benefits of monetary value, so-called benefit-in-kind (BIK).
 
 **Letter for tax allowance for employee shareholdings**
 
@@ -326,14 +316,16 @@ CloudPay Company Number: GTL011
 
 **New Hire**
 
-In the first month of employment Team Members will receive an email from CloudPay to set up their CloudPay Self Service profile, where Team Members can access their [payslips](https://self-service.cloudpay.net/app/employee/Login.jsp). 
+In the first month of employment Team Members will receive an email from CloudPay to set up their CloudPay Self Service profile, where Team Members can access their [payslips](https://self-service.cloudpay.net/app/employee/Login.jsp).
 
-New Tember must provide the Tax code, and KiwiSaver rate on the [LPI Form](https://docs.google.com/spreadsheets/d/1FXX3-ova8JOJk1GMH5QNI2EUrf79pax0/edit#gid=2010849258). This will also be shared in your onboarding issue. 
+New Tember must provide the Tax code, and KiwiSaver rate on the [LPI Form](https://docs.google.com/spreadsheets/d/1FXX3-ova8JOJk1GMH5QNI2EUrf79pax0/edit#gid=2010849258). This will also be shared in your onboarding issue.
 
 
 **KiwiSaver**
-Updating a new rate contribution, please follow this [guide](https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/making-changes-to-my-kiwisaver/changing-my-kiwisaver-contribution-rate/change-my-kiwisaver-contribution-rate). The Payroll Team will receive a notification directly from IRD. If we receive this after payroll cut-off, then it will be applied to the next period. 
-Opting out of KiwiSaver, please follow this [guide](https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/opting-out-of-kiwisaver/opt-out-of-kiwisaver). The Payroll Team will receive a notification directly from IRD. If we receive this after payroll cut-off, then it will be applied to the next period. 
+
+Updating a new rate contribution, please follow this [guide](https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/making-changes-to-my-kiwisaver/changing-my-kiwisaver-contribution-rate/change-my-kiwisaver-contribution-rate). The Payroll Team will receive a notification directly from IRD. If we receive this after payroll cut-off, then it will be applied to the next period.
+
+Opting out of KiwiSaver, please follow this [guide](https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/opting-out-of-kiwisaver/opt-out-of-kiwisaver). The Payroll Team will receive a notification directly from IRD. If we receive this after payroll cut-off, then it will be applied to the next period.
 
 ### UK
 
@@ -365,23 +357,25 @@ If a team member who had signed up to ESPP deductions choses to withdraw from th
 
 Stock Options:
 
-Stock is reported in the payslip for HMRC to see the entries as it is taxable.  When payroll processes the data that we receive from the Stock Department there are 3 entries.  
-A.	Stock Gain - this the the gain that you will see in your etrade account but converted to  GBP in the payslip
+Stock is reported in the payslip for HMRC to see the entries as it is taxable.  When payroll processes the data that we receive from the Stock Department there are 3 entries.
 
-B.	Stock Gain Tax Paid - this is the taxes withheld on eTrade
+A. Stock Gain - this the the gain that you will see in your etrade account but converted to  GBP in the payslip
 
-C.	Stock Gain Deduction - this is the exact same figure as Stock Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the Stock Gain or else the Stock Gain amount would be paid out in the net pay in error.  The Stock Gain is paid through etrade.
+B. Stock Gain Tax Paid - this is the taxes withheld on eTrade
+
+C. Stock Gain Deduction - this is the exact same figure as Stock Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the Stock Gain or else the Stock Gain amount would be paid out in the net pay in error.  The Stock Gain is paid through etrade.
 
 Please reach out to the stock team if you have any queries in relation to the stock figures on payslip stockadmin@gitlab.com
 
 RSU:
-RSU is reported in the payslip for HMRC to see the entries as it is taxable.  On team members eTrade account shares are withheld to cover taxes.  Taxes are calculated across the board for all UK team members at 47%.  When payroll processes the data that we receive from the Stock Department there are 3 entries. 
 
-A.	RSU Gain - this is the gain that you will see in your etrade account but converted to  GBP in the payslip
+RSU is reported in the payslip for HMRC to see the entries as it is taxable.  On team members eTrade account shares are withheld to cover taxes.  Taxes are calculated across the board for all UK team members at 47%.  When payroll processes the data that we receive from the Stock Department there are 3 entries.
 
-B.	RSU Tax Paid - this is the taxes withheld on eTrade
+A. RSU Gain - this is the gain that you will see in your etrade account but converted to  GBP in the payslip
 
-C.	RSU Deduction - this is the exact same figure as RSU Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the RSU Gain or else the RSU Gain amount would be paid out in the net pay in error.  The RSU Gain is paid through etrade.
+B. RSU Tax Paid - this is the taxes withheld on eTrade
+
+C. RSU Deduction - this is the exact same figure as RSU Gain on your payslip.  This amount is at the bottom of your payslip as it needs to counteract the RSU Gain or else the RSU Gain amount would be paid out in the net pay in error.  The RSU Gain is paid through etrade.
 
 *Note - When payroll receive the data from Stock, stock have converted the USD amount to GBP
 
@@ -390,6 +384,7 @@ C.	RSU Deduction - this is the exact same figure as RSU Gain on your payslip.  T
 Please reach out to the stock team if you have any queries in relation to the stock figures on payslip stockadmin@gitlab.com
 
 Other Additions:
+
 This can show up on some payslips as there is not enough room on the payslip for every item to be named out individually e.g Stock Gain Tax Paid, RSU Gain Tax Paid
 
 Bonus:
@@ -398,7 +393,7 @@ Payroll process them as soon as they are approved by the relevant department. (i
 
 Taxable pay:
 
-At the very bottom of the payslip it gives the amount that is taxable in the payslip. 
+At the very bottom of the payslip it gives the amount that is taxable in the payslip.
 In the example of the payslip given above the taxable pay is: Salary + Medical Insurance BIK + Commission + RSU Gain + Stock Gain - Salary Sacrifice
 
 **Pay day**
@@ -407,8 +402,10 @@ In the example of the payslip given above the taxable pay is: Salary + Medical I
 
 Tax codes
 
-Tax codes - this instruction comes to payroll from HMRC. Please note that payroll have to follow this instruction and we can't amment tax codes on request by email or slack.
+Tax codes - this instruction comes to payroll from HMRC. Please note that payroll have to follow this instruction and we can't amend tax codes on request by email or slack.
+
 Changes to tax codes might be issued depends on:
+
 - Changes on salary (moving to higher bracket)
 - Equity reporting (Stock gain, RSU gains and ESPP gains). Equity reporting is done based on reports delivered to Payroll by Stock Team
 - Changes to commission payouts
@@ -416,53 +413,52 @@ Changes to tax codes might be issued depends on:
 - Changes to BIK
 - Any other taxable event that will have to be processed by payroll team
 
-
 HMRC calculators:
-http://payecalculator.hmrc.gov.uk/PAYE1.aspx
-http://nicecalculator.hmrc.gov.uk/Class1NICs2.aspx
+
+[http://payecalculator.hmrc.gov.uk/PAYE1.aspx](http://payecalculator.hmrc.gov.uk/PAYE1.aspx)
+
+[http://nicecalculator.hmrc.gov.uk/Class1NICs2.aspx](http://nicecalculator.hmrc.gov.uk/Class1NICs2.aspx)
 
 Payments: faster payments - real live payments, delivery depending on the receiver bank.
-
 
 ## iiPay - Contractors
 
 1. Team members must submit their salary invoices through BambooHR by the 8th of each month and expenses through Navan Expense and have them approved by 6th of the month. For example, submit May salary invoice in the month of May, which is the current month.
-
 1. To enter salary invoice in BambooHR:
-   * Visit "My Info" page
-   * Select "Request a Change", locate at the upper right corner in that section
-   * Click "Contractor Invoice..."
-   * Enter "Date Submitted" - current date
-   * Enter "Invoice Number" - it should be incremental from the last invoice
-   * If new team member, then it will be 1
-   * Enter "Invoice Date" - it should be same as invoice date
-   * Enter "Monthly Salary"
-   * For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
-   * Change the currency to match with the currency on the employment contract
-   * Enter bonus or commission according to the position. For referral or discretionary bonus, please convert it into your assigned currency by using the corresponding [exchange rate](/handbook/total-rewards/compensation/#exchange-rates).
-   * Change the currency
-   * Submit - there will be a message at the top of the page - "Your request was submitted successful"
-   * The submitted invoice can be seen in "Sent Requests" page, locate the inbox icon at the upper right corner of the page
-1.  The invoice will submit to the Payroll specialist for approval
-1.  BambooHR will send an email after the invoice was approve or reject with the reason
-1.  The invoice will be visible in BambooHR at that time
-1.  Note - Once Payroll approved the invoice, any corrections to that invoice must be edit by Payroll through correction request(s) email to       nonuspayroll@gitlab.com
-1.  All invoices will be approve by Payroll by the 9th of each month
-1.  For expense reimbursement, team member will need to submit through Navan Expense and report(s) must be approved by managers by the 8th of each month
-1.  Accounts Payable will approve all expense reports by the 8th of each month and forward to Payroll.
-1.  If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
-1.  For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
-1.  Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to the 1st live payment.  Please enter the bank details on the 1st day of employment.
-1.  The required fields for bank details in BambooHR under Bank Information tab:
-    * Bank Name
-    * Beneficiary Name
-    * Account Number (as needed due to each country's banking requirements)
-    * Routing number (as needed due to each country's banking requirements)
-    * IBAN - this is international Bank Account number.  Each region will have different name for this number.  Be sure to check with your bank
-    * SWIFT (as needed or available due to each country's banking requirements)
-    * Account type
-1.  If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
-1.  If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is preferred, and let Payroll know.
+    - Visit "My Info" page
+    - Select "Request a Change", locate at the upper right corner in that section
+    - Click "Contractor Invoice..."
+    - Enter "Date Submitted" - current date
+    - Enter "Invoice Number" - it should be incremental from the last invoice
+    - If new team member, then it will be 1
+    - Enter "Invoice Date" - it should be same as invoice date
+    - Enter "Monthly Salary"
+    - For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual work days from the hire date`
+    - Change the currency to match with the currency on the employment contract
+    - Enter bonus or commission according to the position. For referral or discretionary bonus, please convert it into your assigned currency by using the corresponding [exchange rate]({{< ref "compensation#exchange-rates" >}}).
+    - Change the currency
+    - Submit - there will be a message at the top of the page - "Your request was submitted successful"
+    - The submitted invoice can be seen in "Sent Requests" page, locate the inbox icon at the upper right corner of the page
+1. The invoice will submit to the Payroll specialist for approval
+1. BambooHR will send an email after the invoice was approve or reject with the reason
+1. The invoice will be visible in BambooHR at that time
+1. Note - Once Payroll approved the invoice, any corrections to that invoice must be edit by Payroll through correction request(s) email to       nonuspayroll@gitlab.com
+1. All invoices will be approve by Payroll by the 9th of each month
+1. For expense reimbursement, team member will need to submit through Navan Expense and report(s) must be approved by managers by the 8th of each month
+1. Accounts Payable will approve all expense reports by the 8th of each month and forward to Payroll.
+1. If the 8th fall on the holidays or weekend, then the due date will move to the last business day before the 8th.
+1. For all new hires starting after the 8th of each month, then the current month payment will be paid with the following month's invoice as separate payment. For example, new joiner who joined after 8th April to submit pro-rated April salary invoice by the 8th of the following month, which is 8th of May.
+1. Note - all new team members will receive a testing payment from iiPay to validate their bank details prior to the 1st live payment.  Please enter the bank details on the 1st day of employment.
+1. The required fields for bank details in BambooHR under Bank Information tab:
+    - Bank Name
+    - Beneficiary Name
+    - Account Number (as needed due to each country's banking requirements)
+    - Routing number (as needed due to each country's banking requirements)
+    - IBAN - this is international Bank Account number.  Each region will have different name for this number.  Be sure to check with your bank
+    - SWIFT (as needed or available due to each country's banking requirements)
+    - Account type
+1. If you are changing your bank details for any reason please let nonuspayroll@gitlab.com know and you can update BambooHR accordingly so another test payment can be set up. Please dont change your banking details just before the deadlines per above as this will cause delays in payment.
+1. If you receive a promotion, salary increase and you need to back date it, you can include the back pay amount on one invoice with a comment of the detail or submit two separate invoices which ever is preferred, and let Payroll know.
 
 ## PEO - Contractors:
 
@@ -481,13 +477,13 @@ Payments: faster payments - real live payments, delivery depending on the receiv
 - Serbia
 - Armenia
 
-Team members from the above countries will get paid through CXC Global on or around the 25th of each month: 
+Team members from the above countries will get paid through CXC Global on or around the 25th of each month:
 
 1. Team members should ensure their expenses are final approved on Navan Expense before the 6th of each month so they can include them on their invoice to CXC.
 1. Payroll will gather & submit any commission, bonus, and expenses to CXC by the 10th of each month (unless this falls on a weekend then it will be the working day before). This is to give CXC time to invoice GitLab for the cost and for GitLab to turn around the payment to ensure funding.
-1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global <gitlabpayrollteam@cxcglobal.com> any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred. 
+1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global <gitlabpayrollteam@cxcglobal.com> any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred.
 1. CXC checks that the Payroll submission matches with the invoice, thereafter payment is issued.
-1.  New hires starting after the 1st of the relevant month should pro rate using the following calculation: `(monthly salary / # of business days for that month) * actual workdays from the hire date` team members can email nonuspayroll@gitlab.com if they have any queries in regards to their invoice.
+1. New hires starting after the 1st of the relevant month should pro rate using the following calculation: `(monthly salary / # of business days for that month) * actual workdays from the hire date` team members can email nonuspayroll@gitlab.com if they have any queries in regards to their invoice.
 
 ## PEO - Employee:
 
@@ -497,13 +493,12 @@ The internal deadline for changes is the 8th of each month, Payroll will send by
 
 - India
 - Philippines
-- Latvia 
+- Latvia
 - Costa Rica
 - Chile
-- Kenya 
+- Kenya
 
-Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check dates (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month (with the exception of Latvia (the 25th of each month) and the Philippines as quoted above). For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**. 
-
+Payroll changes will be sent by the 10th of the month.  Global Upside will send an estimated invoice by the 5th of the previous month. For any additional adjustment, they will invoice the adjustment on the following months invoice.  Note: Philippines have two check dates (15th and 30th), any changes sent to Global Upside will be included on the salary of the last day of the month (with the exception of Latvia (the 25th of each month) and the Philippines as quoted above). For all payroll and team member concerns, please email **gitlabpayroll@globalpeoservices.com**. For HR concerns, send email to **gitlabHR@globalpeoservices.com**.
 
 #### Remote.com
 
@@ -547,16 +542,19 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/14KbKndyJlLozRmrsYaD2Fppb5oAK5q7LBHBFfO_Vw2w/edit#gid=1016209953)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1jMNufDqXDjfWM2khvg3xNQvipBsb8Eyy6I6JNaJl6mE/edit#gid=1592804009)
-    -  Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden, Brazil, Luxembourg & Denmark) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=2123079728)
-    - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
+   - Remote.com (South Africa, Mexico, Austria, Hungary, Spain, Italy, Switzerland, Sweden, Brazil, Luxembourg & Denmark) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1Wf7CX82i1JS0DzWbHUbuw-y_qs9x6-rR5BsZEV-k1a8/edit#gid=2123079728)
+   - Global Upside ([India](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=897287889), [Kenya](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1n1-jxFLC15gwX4TQ3vW-mbc8LnBxhHb94K1KeNZAw8M/edit#gid=1213208098) ) Payroll Calendar
 
 ## Performance Indicators
 
 ### Payroll accuracy for each check date = 100%
+
 Payroll is paid on time and accurately for each check date.
 
 ### Payroll journal entry reports submitted to Accounting <= Payroll date - 2 business days
+
 Payroll journal entry reports are to be submitted to Accounting GL team:
+
 - Non-US legal entities (except for Canada)- four calendar days before the check date
 - US and Canada - two calendar days before the check date
 

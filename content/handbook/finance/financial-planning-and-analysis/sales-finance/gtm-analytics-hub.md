@@ -1,18 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "GTM Analytics Hub"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
 ## Common Links
-* [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/)
-* [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
+
+- [Sales Finance]({{< ref "_index.md" >}})
+- [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
 
 ## Reports and Dashboards
 
@@ -23,10 +16,11 @@ title: "GTM Analytics Hub"
 </figure>
 
 ## SSOT Fields/Logic
- * Order Type 2.0
- * Stamped Opp Owner User (Segment/Region/Area)
- * Sales Qualified Source
- * DR - Partner Engagement Type
- * DR - Partner
- * Quote Start Date
- * Filter: Closed Won + (Renewal Closed Lost)
+
+- Order Type 2.0
+- Stamped Opp Owner User (Segment/Region/Area)
+- Sales Qualified Source
+- DR - Partner Engagement Type
+- DR - Partner
+- Quote Start Date
+- Filter: Closed Won + (Renewal Closed Lost)

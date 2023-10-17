@@ -1,42 +1,23 @@
 ---
-layout: handbook-page-toc
 title: "Coupa Tech Stack Guide"
 description: "Reference for how Coupa is implemented."
 ---
 
-{::options parse_block_html="true" /}
+> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-## Coupa Tech Stack Guide
-
-> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
-
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Coupa" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Coupa" %}}
 
 ### Implementation
 
-Coupa is a cloud-based purchasing and payment platform. It has an easy-to-use interface that improved the way suppliers connect with GitLab. All new purchase orders, invoices and communications are managed through the Coupa Supplier Portal. 
+Coupa is a cloud-based purchasing and payment platform. It has an easy-to-use interface that improved the way suppliers connect with GitLab. All new purchase orders, invoices and communications are managed through the Coupa Supplier Portal.
 
 Coupa was implemented in 2 phases. In scope for phase 1 was the implementation of a Supplier Information Management (SIM) system and Coupa Pay (Digital Invoices) for all US and Netherlands payments. Phase 2 consisted on the implementation of Coupa Pay Virtual Card (for ten GitLab entities) and the Supplier Information Management (SIM) system and Coupa Pay for the remaining entities (GmbH, PTY LTD, LTD, Canada, Japan, Ireland, Korea, France and Singapore) which fully replaced Tipalti.
 
 #### Relevant Links
-- [Coupa End Users Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide)
-- [Coupa Virtual Card Guide](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
-- [Coupa FAQ](/handbook/finance/procurement/coupa-faq/)
+
+- [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide)
+- [Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
+- [Coupa FAQ]({{< ref "coupa-faq" >}})
 
 ### System Diagrams
 

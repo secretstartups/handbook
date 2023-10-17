@@ -1,32 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Navan Expense Tech Stack Guide"
 description: "Reference for how TripActions Liquid is implemented."
 ---
 
-{::options parse_block_html="true" /}
+> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
-## Navan Expense Tech Stack Guide
-
-> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
-
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Navan Expense" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Navan Expense" %}}
 
 ### Implementation
 
@@ -49,6 +28,3 @@ User information syncs from Workday to Navan Expense via Okta SCIM integration a
 ### Key Reports / Dashboards
 
 TBD
-
-
-

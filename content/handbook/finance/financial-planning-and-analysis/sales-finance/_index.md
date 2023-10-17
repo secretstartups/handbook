@@ -1,20 +1,15 @@
 ---
-layout: handbook-page-toc
 title: "Sales Finance"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+Welcome to the Sales Finance Handbook!
+{.h2}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+## Common Links
 
-## Welcome to the Sales Finance Handbook!
-
-### Common Links
- * [Financial Planning & Analysis (FP&A)](/handbook/finance/financial-planning-and-analysis/)
- * [Sales Strategy & Analytics (SS&A)](/handbook/sales/field-operations/sales-strategy/)
- * [GTM Analytics Hub](/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub)
+- [Financial Planning & Analysis (FP&A)]({{< ref "financial-planning-and-analysis" >}}/)
+- [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
+- [GTM Analytics Hub]({{< ref "gtm-analytics-hub" >}})
 
 ## Finance Business Partner Alignment
 
@@ -28,9 +23,11 @@ title: "Sales Finance"
 
 
 ## Greenhouse HC Approval SLA (Service Level Agreement)
+
 We approve all new HC reqs (complete and error-free) by EOD business day or within 24 hours, whichever is the latter. Please notify us at least 48 hours in advance for any urgent requests (otherwise, thank you for your patience and partnership).
 
 ## Dashboards
+
 [D03 ARR Basis Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKR) - ARR Basis by Close Date & Subs Start Date
 
 [D04 Top Net ARR Movement Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXnE) - Net ARR Bookings by Order Type (First Order, Expansion, Contraction, Churn)
@@ -50,7 +47,9 @@ We approve all new HC reqs (complete and error-free) by EOD business day or with
 [WIP; D11 Expansion/Loss Reasons Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYpa) - Expansion/Loss Reasons
 
 ## D02 Sales & Marketing Funnel SSOT Dashboards
-The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
+
+The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including:
+
 - ARR Pipeline Created
 - Average days to SAO and to Closed Won
 - $ & # of Stage 1+ opportunities
@@ -58,7 +57,7 @@ The following Single Source of Truth (SSOT) dashboards provide a monthly and qua
 - ASP
 - Win rate
 
-Seperate dashboards have been created for each Stamped User Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data. 
+Separate dashboards have been created for each Stamped User Segment, and for only First Order deals. Each dashboard gives you the ability to filter for Web Direct deals, and SDR generated opportunities to enable the user to obtain multiple views of the data.
 
 [SiSense Dashboard - Graphs](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
 

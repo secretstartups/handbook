@@ -1,32 +1,11 @@
 ---
-layout: handbook-page-toc
 title: "Zuora Revenue Tech Stack Guide"
 description: "Reference for how Zuora Revenue is implemented."
 ---
 
-{::options parse_block_html="true" /}
+> **Note:** Refer to the **[Tech Stack Index](https://about.gitlab.com/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
-## Zuora Revenue Tech Stack Guide
-
-> **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
-
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Zuora Revenue" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Zuora Billing" %}}
 
 ### Implementation
 
@@ -44,6 +23,7 @@ graph TD
     Z --> ZC[Zuora Collect]
     Z --> ZCPQ[Zuora CPQ]
 ```
+
 ### Data Model
 
 TBD
@@ -61,11 +41,12 @@ end
 
 #### Zuora to NetSuite
 
-Zuora Revenue data is synced to NetSuite using the [Zuora Revenue to NetSuite Integration](/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-revenue-to-netsuite/).
+Zuora Revenue data is synced to NetSuite using the [Zuora Revenue to NetSuite Integration](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/zuora-revenue-to-netsuite/).
 
 ### Key Reports / Dashboards
 
 We have a collection of Sisense Dashboards that include Zuora Data. These dashboards include data from other data sources such as Salesforce:
-  * [TD: Zuora Revenue Waterfall](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+
+- [TD: Zuora Revenue Waterfall](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
 
 

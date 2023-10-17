@@ -1,27 +1,17 @@
 ---
-layout: handbook-page-toc
 title: "Timekeeping Policies & Processes"
 description: "Clarifying the GitLab Policies and Processes related to Timekeeping for U.S.-based Team Members."
 ---
-
-## On this page
-
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 For GitLab's US-based team members, the Fair Labor Standards Act (FLSA) determines which U.S. employees are exempt from the Act (not covered by it) and which are non-exempt (covered by the Act). Whether your role is classified as exempt or non-exempt has no bearing on and does not define the value you bring to GitLab through the work that you do.
 
 ## Exempt Team Members
 
-Team members who are based in the United States and classified as exempt are paid on a salary basis. This means the team member receives a predetermined amount of compensation (base pay) each pay period. In general, a team member who is classified as an exempt employee will receive their salary for any week in which the team member performs work, regardless of the number of days or hours worked. There are exceptions to receiving full pay for days not worked under the following circumstances:  
+Team members who are based in the United States and classified as exempt are paid on a salary basis. This means the team member receives a predetermined amount of compensation (base pay) each pay period. In general, a team member who is classified as an exempt employee will receive their salary for any week in which the team member performs work, regardless of the number of days or hours worked. There are exceptions to receiving full pay for days not worked under the following circumstances:
 
-* When a team member classified as exempt takes one or more full days off for personal reasons other than sickness or disability, the team member will not be paid salary for such day(s) of absence, but will be able to use GitLab's Flexible PTO policy to make up for the reduction in salary. Team members who are classified as exempt must record absences from work for reasons such as sick leave or vacation and must record the non work days in Time Off by Deel to ensure that their time off is properly tracked and that they are paid according to the type of time off they are using.
-
-* When a team member classified as exempt only works part of the week during their first and/or last week with GitLab, the team member will be paid only for the days actually worked.
-
-* When a team member classified as exempt takes unpaid leave under the Family and Medical Leave Act or corresponding laws, the team member will be asked to substitute GitLab's Sick Time policy, applicable short-term disability benefits, and/or State-paid disability to pay for the absence.
+- When a team member classified as exempt takes one or more full days off for personal reasons other than sickness or disability, the team member will not be paid salary for such day(s) of absence, but will be able to use GitLab's Flexible PTO policy to make up for the reduction in salary. Team members who are classified as exempt must record absences from work for reasons such as sick leave or vacation and must record the non work days in Time Off by Deel to ensure that their time off is properly tracked and that they are paid according to the type of time off they are using.
+- When a team member classified as exempt only works part of the week during their first and/or last week with GitLab, the team member will be paid only for the days actually worked.
+- When a team member classified as exempt takes unpaid leave under the Family and Medical Leave Act or corresponding laws, the team member will be asked to substitute GitLab's Sick Time policy, applicable short-term disability benefits, and/or State-paid disability to pay for the absence.
 
 The salary of a team member classified as exempt will not be reduced when the team member works part of a week and misses part of a week due to service as a juror, witness or in the military, though deductions may be made to offset amounts a team member receives as jury or witness fees, or for military pay. It is GitLab's policy to comply with the salary basis requirements of the [Fair Labor Standards Act (FLSA)](https://www.dol.gov/agencies/whd/flsa) and applicable state law. GitLab prohibits any deductions from pay that violate the FLSA or applicable state law.
 
@@ -33,15 +23,15 @@ Team members who are based in the United States and classified as non-exempt mus
 
 **Salary**: Non-exempt team members may be paid on a salary basis for a fixed number of hours or under the fluctuating workweek method. Salaried non-exempt team members must still receive overtime in accordance with federal and state laws.
 
-**Hourly**: Non-exempt team members are paid on an hourly basis for work performed.  Generally, hourly workers, because of the method of payment, are classified as non-exempt and are subject to the overtime provisions of the FLSA. 
+**Hourly**: Non-exempt team members are paid on an hourly basis for work performed.  Generally, hourly workers, because of the method of payment, are classified as non-exempt and are subject to the overtime provisions of the FLSA.
 
-# Overtime
+## Overtime
 
 When operating requirements or other needs cannot be met during regular working hours, team members may be scheduled to work overtime. Paid time off such as sick pay, holiday pay, vacation pay and jury duty pay (where applicable) will not count toward hours worked for the purpose of determining overtime pay.
 
-Non-exempt team members **must** report all time worked and not work any time that is not authorized by their managers. Non-exempt team members **must not** start work early, finish work late, work during a meal or rest break, or perform any other extra or overtime work unless directed to do so. Team members who have questions about when or how many hours they are expected to work should contact their manager. If they have any additional concerns, they should reach out to Team Member Relations at `teammemberrelations@gitlab.com`.  
+Non-exempt team members **must** report all time worked and not work any time that is not authorized by their managers. Non-exempt team members **must not** start work early, finish work late, work during a meal or rest break, or perform any other extra or overtime work unless directed to do so. Team members who have questions about when or how many hours they are expected to work should contact their manager. If they have any additional concerns, they should reach out to Team Member Relations at `teammemberrelations@gitlab.com`.
 
-It is a violation of GitLab’s policy for anyone to work "off the clock" or to instruct or encourage another team member to work “off the clock,” to incorrectly report hours worked, or to alter another team member’s time records. If any team member is directed or encouraged to incorrectly report hours worked, or to alter another team member’s time records, they should report the incident immediately to Team Member Relations at `teammemberrelations@gitlab.com`. 
+It is a violation of GitLab’s policy for anyone to work "off the clock" or to instruct or encourage another team member to work “off the clock,” to incorrectly report hours worked, or to alter another team member’s time records. If any team member is directed or encouraged to incorrectly report hours worked, or to alter another team member’s time records, they should report the incident immediately to Team Member Relations at `teammemberrelations@gitlab.com`.
 
 GitLab **requires** manager approval prior to non-exempt team members working overtime. Unless a non-exempt team member resides in one of the below states, overtime is defined as working over 40 hours in a workweek, and results in a pay of 1.5x. A workweek is a Sunday to Saturday week.
 
@@ -60,7 +50,7 @@ GitLab **requires** manager approval prior to non-exempt team members working ov
 - Estimated number of hours
 - Explanation why the work cannot be completed during regular working hours
 
-**Working overtime without prior authorization may result in disciplinary action**. It is the manager's responsibility to review timecards. If overtime is submitted without prior authorization, please communicate with your direct report to better understand what happened, and to reiterate our overtime approvals policy. Managers must also ensure that the overtime worked is paid even if it was not previously authorized.  Review additional questions in our [Frequently Asked Questions](/handbook/finance/timekeeping/frequently-asked-questions/) page.
+**Working overtime without prior authorization may result in disciplinary action**. It is the manager's responsibility to review timecards. If overtime is submitted without prior authorization, please communicate with your direct report to better understand what happened, and to reiterate our overtime approvals policy. Managers must also ensure that the overtime worked is paid even if it was not previously authorized.  Review additional questions in our [Frequently Asked Questions](./frequently-asked-questions/) page.
 
 ## Overtime Pay Calculation
 
@@ -74,7 +64,7 @@ For all states other than those listed in the Overtime Requirements table above,
 |------|-----|-------|
 |40 hrs Regular| $12.50/hr|$500.00|
 |3 hrs Overtime|$18.75/hr|$56.25|
-|      |Total for the week|$556.25|    
+|      |Total for the week|$556.25|
 
 **Example 2:** A team member worked 35 hours in a week and used 8 hours of PTO in the same week. The team member would be paid for that week as follows:
 
@@ -82,9 +72,9 @@ For all states other than those listed in the Overtime Requirements table above,
 |------|-----|-------|
 |35 hrs Regular| $12.50/hr|$437.50|
 |8 hrs PTO|$12.50/hr|$100.00|
-|      |Total for the week|$537.50| 
+|      |Total for the week|$537.50|
 
-Overtime pay will be included in the payroll for the pay period in which the time is worked. Please review and bookmark the pay periods and pay dates for the [US bi-weekly payroll schedule](https://docs.google.com/spreadsheets/d/15O3DAOXE2ENVHL4e9QSGulALDQ0tPT-FO4x9z1GufFU/edit#gid=0). 
+Overtime pay will be included in the payroll for the pay period in which the time is worked. Please review and bookmark the pay periods and pay dates for the [US bi-weekly payroll schedule](https://docs.google.com/spreadsheets/d/15O3DAOXE2ENVHL4e9QSGulALDQ0tPT-FO4x9z1GufFU/edit#gid=0).
 
 **Please note, if someone does not submit a timecard in time, the overtime will be calculated and included in the following pay statement.**
 
@@ -104,55 +94,55 @@ Commissions are considered part of the regular rate of pay for purposes of calcu
 |------|-----|-------|
 |160 hrs Regular| $12.50/hr|$2,000.00|
 |5 hrs Overtime|$18.75/hr|$93.75|
-|      |Total for the month|$2,093.75| 
+|      |Total for the month|$2,093.75|
 
 Overtime pay true-up calculation:
 
-* Regular rate of pay: 165 hours (total hours in the month) * $12.50 per hour = $2,062.50
-* Commissions:  $1,000.00
-* Total earnings to include in regular rate of pay = $3,062.50
-* Total earnings to include in regular rate of pay = $3,062.50
-* Total hours worked in prior month = 165 hours
-* Adjusted regular rate of pay = $18.56 ($3,062.50/165 hours)
-* Adjusted overtime rate = $27.84 ($18.56 * 1.5)
-* Total overtime due for the month = $27.84 * 5 hours = $139.20
-* Less overtime pay received during the month = $93.75
-* Overtime true-up due = $45.45 ($139.20 - $93.75)
+- Regular rate of pay: 165 hours (total hours in the month) * $12.50 per hour = $2,062.50
+- Commissions:  $1,000.00
+- Total earnings to include in regular rate of pay = $3,062.50
+- Total earnings to include in regular rate of pay = $3,062.50
+- Total hours worked in prior month = 165 hours
+- Adjusted regular rate of pay = $18.56 ($3,062.50/165 hours)
+- Adjusted overtime rate = $27.84 ($18.56 * 1.5)
+- Total overtime due for the month = $27.84 * 5 hours = $139.20
+- Less overtime pay received during the month = $93.75
+- Overtime true-up due = $45.45 ($139.20 - $93.75)
 
-# Meal and Rest Breaks
+## Meal and Rest Breaks
 
-Breaks are an important part of your day. At GitLab, your well-being is critical. For your mental and physical health, please take at least the minimum listed breaks as listed below and **always** log your unpaid meal breaks. This is to ensure that we adhere to the United States labor laws.  It is GitLab’s policy to comply with **all** laws regarding meal and rest breaks. 
+Breaks are an important part of your day. At GitLab, your well-being is critical. For your mental and physical health, please take at least the minimum listed breaks as listed below and **always** log your unpaid meal breaks. This is to ensure that we adhere to the United States labor laws.  It is GitLab’s policy to comply with **all** laws regarding meal and rest breaks.
 
-As a fully distributed company, any team member classified as a non-exempt employee is responsible for taking active ownership in ensuring they take the proper breaks. Please contact the Team Member Relations team at `teammemberrelations@gitlab.com` if you feel that your circumstances are preventing you from doing so. Review additional questions in our [Frequently Asked Questions](/handbook/finance/timekeeping/frequently-asked-questions/) page.
+As a fully distributed company, any team member classified as a non-exempt employee is responsible for taking active ownership in ensuring they take the proper breaks. Please contact the Team Member Relations team at `teammemberrelations@gitlab.com` if you feel that your circumstances are preventing you from doing so. Review additional questions in our [Frequently Asked Questions]({{< ref "./frequently-asked-questions" >}}) page.
 
-## Meal Break Policy
+### Meal Break Policy
 
-* Team members **must track their time** and clock out for meal periods in their Time and Attendance portal in ADP.
-* Team members who work between 5 and 6 hours a day are entitled to and are required to take an unpaid meal break of at least 30 minutes.
-* A **meal break** is defined as any break over 30 minutes in which a team member is relieved of all duties. There is no requirement to eat a meal, but historically this is how it has been framed in the historical 9-5 office-based culture. Team members are free to spend their meal break in any manner they so choose, at their discretion, except that they must be completely relieved of all work duties during that time period. 
-* Team members who work more than 6 hours a day are entitled to and required to take an unpaid meal break of at least 45 minutes.
-* The meal period must begin no later than the end of a team member's fourth hour of work.
-* A second unpaid meal break of at least 30 minutes is due after 10 hours total worked in a single day.
-* Team members should be completely relieved of duty during their meal break, and team members are never allowed to work through their meal breaks to make up hours.
-* To the extent that the local law of the jurisdiction where the team member resides entitles a team member to longer breaks or breaks more often than as is set out in this policy, the local law applies.
+- Team members **must track their time** and clock out for meal periods in their Time and Attendance portal in ADP.
+- Team members who work between 5 and 6 hours a day are entitled to and are required to take an unpaid meal break of at least 30 minutes.
+- A **meal break** is defined as any break over 30 minutes in which a team member is relieved of all duties. There is no requirement to eat a meal, but historically this is how it has been framed in the historical 9-5 office-based culture. Team members are free to spend their meal break in any manner they so choose, at their discretion, except that they must be completely relieved of all work duties during that time period.
+- Team members who work more than 6 hours a day are entitled to and required to take an unpaid meal break of at least 45 minutes.
+- The meal period must begin no later than the end of a team member's fourth hour of work.
+- A second unpaid meal break of at least 30 minutes is due after 10 hours total worked in a single day.
+- Team members should be completely relieved of duty during their meal break, and team members are never allowed to work through their meal breaks to make up hours.
+- To the extent that the local law of the jurisdiction where the team member resides entitles a team member to longer breaks or breaks more often than as is set out in this policy, the local law applies.
 
 ## Rest Break Policy
 
-* Team members **do not** log their rest breaks in their Time and Attendance portal in ADP.
-* Team members who work at least 2 hours are entitled to one paid rest break of at least 10 minutes, and additional paid 10-minute rest breaks for every 3.5 hours worked thereafter.
-* Team members may not work more than 3 continuous hours without a rest break.
-* A **rest break** is defined as a short period of time, usually 20 minutes or less, where the team member is relieved of all duties.
+- Team members **do not** log their rest breaks in their Time and Attendance portal in ADP.
+- Team members who work at least 2 hours are entitled to one paid rest break of at least 10 minutes, and additional paid 10-minute rest breaks for every 3.5 hours worked thereafter.
+- Team members may not work more than 3 continuous hours without a rest break.
+- A **rest break** is defined as a short period of time, usually 20 minutes or less, where the team member is relieved of all duties.
 
-# ADP Time & Attendance Portal
+## ADP Time & Attendance Portal
 
-GitLab, Inc. and GitLab Federal LLC use ADP Essential Time & Attendance to report the hours worked and time off for non-exempt team members in the US. ADP Essential Time & Attendance is included within ADP Workforce Now, which is accessed through Okta SSO. Review additional questions in our [Frequently Asked Questions](/handbook/finance/timekeeping/frequently-asked-questions/) page.
+GitLab, Inc. and GitLab Federal LLC use ADP Essential Time & Attendance to report the hours worked and time off for non-exempt team members in the US. ADP Essential Time & Attendance is included within ADP Workforce Now, which is accessed through Okta SSO. Review additional questions in our [Frequently Asked Questions]({{< ref "./frequently-asked-questions" >}}) page.
 
 ## Time Card Reporting
 
 Time cards are important business documents and they must be accurate. Accurate time records help ensure that:
 
-* GitLab pays their team members properly
-* GitLab can make informed decisions about staffing levels
+- GitLab pays their team members properly
+- GitLab can make informed decisions about staffing levels
 
 Team members are expected to follow the following **three directions** related to time cards:
 
@@ -166,24 +156,24 @@ Team members must review their time records for each pay period before submittin
 
 ### Submit Time Cards
 
-When team members submit their time cards, they are certifying the record is accurate and complete. All timesheets should be completed by the deadlines listed in the [US Bi-Weekly Pay Schedule](https://docs.google.com/spreadsheets/d/15O3DAOXE2ENVHL4e9QSGulALDQ0tPT-FO4x9z1GufFU/edit?usp=sharing). Generally, timesheets must be submitted by team members at the latest by **9am Eastern** and approved by the manager by **Noon Eastern** on the Monday *following* the end of a pay period. In the event that such a day falls on a holiday, timesheets must be submitted by team members at the latest by **9am Eastern** and approved by their manager by **Noon Eastern** on the Tuesday *after* the holiday. 
+When team members submit their time cards, they are certifying the record is accurate and complete. All timesheets should be completed by the deadlines listed in the [US Bi-Weekly Pay Schedule](https://docs.google.com/spreadsheets/d/15O3DAOXE2ENVHL4e9QSGulALDQ0tPT-FO4x9z1GufFU/edit?usp=sharing). Generally, timesheets must be submitted by team members at the latest by **9am Eastern** and approved by the manager by **Noon Eastern** on the Monday *following* the end of a pay period. In the event that such a day falls on a holiday, timesheets must be submitted by team members at the latest by **9am Eastern** and approved by their manager by **Noon Eastern** on the Tuesday *after* the holiday.
 
-At the due date and time, all timesheets will be locked for payroll processing, and no further changes will be accepted. Any corrections needed after the due date and time should be promptly reported to Payroll by sending an email to `uspayroll@gitlab.com`. Review additional questions in our [Frequently Asked Questions](/handbook/finance/timekeeping/frequently-asked-questions/) page.
+At the due date and time, all timesheets will be locked for payroll processing, and no further changes will be accepted. Any corrections needed after the due date and time should be promptly reported to Payroll by sending an email to `uspayroll@gitlab.com`. Review additional questions in our [Frequently Asked Questions]({{< ref "./frequently-asked-questions" >}}) page.
 
 ## Time Card Misconduct
 
 Examples of timecard-related team member misconduct that can lead to corrective action include but are not limited to:
- 
-* Submitting an inaccurate or incomplete time record
-* Failing to submit a time record as required
-* Asking an unauthorized team member to change or add to their time record
-* Misrepresenting information about hours worked
+
+- Submitting an inaccurate or incomplete time record
+- Failing to submit a time record as required
+- Asking an unauthorized team member to change or add to their time record
+- Misrepresenting information about hours worked
 
 ## Timecard Approval by Managers
 
-As a manager, it is your responsibility to approve timecards. Failure to do so can result in disciplinary action. Additionally, managers can be individually liable should an employee claim they have not been paid properly. Please review our instructions on how to approve timesheets by completing our **GitLab Time and Attendance Training for Managers**. **LINK to LevelUp TBA** 
+As a manager, it is your responsibility to approve timecards. Failure to do so can result in disciplinary action. Additionally, managers can be individually liable should an employee claim they have not been paid properly. Please review our instructions on how to approve timesheets by completing our **GitLab Time and Attendance Training for Managers**. **LINK to LevelUp TBA**
 
-For any manager-related support and guidance, please reach out to your relevant [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
+For any manager-related support and guidance, please reach out to your relevant [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}).
 
 ## Pay Schedule
 

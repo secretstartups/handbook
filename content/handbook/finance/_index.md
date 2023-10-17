@@ -1,44 +1,27 @@
 ---
-layout: handbook-page-toc
 title: Finance
 ---
 
-## Welcome to the GitLab Finance Handbook
-{: .no_toc}
+Welcome to the GitLab Finance Handbook
+{.h2}
 
 The GitLab Finance Department includes multiple Teams: Accounting, Financial Planning & Analysis, Tax and Business Operations Programs.
 
-[Finance Team READMEs](https://about.gitlab.com/handbook/finance/readmes/)
+[Finance Team READMEs]({{< ref "./readmes" >}})
 
+<i aria-hidden="true" class="fab fa-gitlab fa-fw icon-color font-awesome"></i> Quick Links
+{.h2}
 
-# On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .toc-list-icons .hidden-md .hidden-lg}
-
-## <i aria-hidden="true" class="fab fa-gitlab fa-fw icon-color font-awesome"></i>Quick Links
-
-[Finance Issues](https://gitlab.com/gitlab-com/finance/issues)
-
-- Please use confidential issues for topics that should only be visible to team members at GitLab.
-
-[Accounts Payable](/handbook/finance/accounts-payable/)
-
-[Expense Guidelines](/handbook/finance/expenses/)
-
-[Operating Metrics](/handbook/key-review/)
-
-[Procurement](/handbook/finance/procurement/)
-
-[Sales Comp Plan](/handbook/finance/sales-comp-plan/)
-
-[Signature Authorization Matrix](/handbook/finance/authorization-matrix)
-
-[Authorization Matrix Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy) 
-
-[Stock Options](/handbook/stock-options/)
-
+- [Finance Issues](https://gitlab.com/gitlab-com/finance/issues)
+    - Please use confidential issues for topics that should only be visible to team members at GitLab.
+- [Accounts Payable]({{< ref "./accounts-payable" >}})
+- [Expense Guidelines]({{< ref "./expenses" >}})
+- [Operating Metrics]({{< ref "key-review" >}})
+- [Procurement]({{< ref "./procurement" >}})
+- [Sales Comp Plan]({{< ref "./sales-comp-plan" >}})
+- [Signature Authorization Matrix]({{< ref "./authorization-matrix" >}})
+- [Authorization Matrix Policy]({{< ref "./authorization-matrix#authorization-matrix-policy" >}})
+- [Stock Options](/handbook/stock-options/)
 
 ## Forms
 
@@ -54,20 +37,19 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 - **Accounts Receivable** - customer payment/remittance inquiries should be sent to our Accounts Receivable mailbox - *AR@gitlab.com*
 - **Payroll**- inquiries which relate to contractor invoices should be sent to our Payroll mailbox - *nonuspayroll@gitlab.com*.
 
-- - -
+---
 
-<div class="alert alert-purple center"><h3 class="purple"><strong>We <i class="fas fa-heart orange font-awesome" aria-hidden="true"></i> Finance</strong></h3></div>
+<div class="text-center rounded-3 p-3 display-6 text-primary" style="border: 2px solid #5468ff;"><strong>We <i class="fas fa-heart orange font-awesome" aria-hidden="true"></i> Finance</strong></div>
 
-## <i aria-hidden="true" class="fas fa-book fa-fw icon-color font-awesome"></i>Finance Handbooks
-{: #finance-handbooks}
+## <i aria-hidden="true" class="fas fa-book fa-fw icon-color font-awesome"></i>Finance Handbooks{#finance-handbooks}
 
-- [Accounting](/handbook/finance/accounting/)
-- [Business Technology](/handbook/business-technology/)
-- [Financial Planning & Analysis](/handbook/finance/financial-planning-and-analysis/)
-- [Investor Relations](/handbook/finance/investor-relations/)
-- [Tax](/handbook/tax/)
+- [Accounting]({{< ref "./accounting" >}})
+- [Business Technology](https://about.gitlab.com/handbook/business-technology/)
+- [Financial Planning & Analysis]({{< ref "./financial-planning-and-analysis" >}})
+- [Investor Relations]({{< ref "./investor-relations" >}}/)
+- [Tax]({{< ref "/handbook/tax" >}})
 
-- - -
+---
 
 ## General Topics
 
@@ -76,8 +58,6 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 For commonly requested company information, please visit our [wiki page](https://gitlab.com/gitlab-com/finance/wikis/company-information).
 
 ### Company Accounts
-
-<a name="company-accounts"></a>
 
 Login information for the following accounts can be found in the Secretarial vault
 on 1Password:
@@ -89,8 +69,6 @@ on 1Password:
 If you need this information but cannot find it in your shared vaults, check with the People Connect Team members to get access.
 
 ### Fiscal Year
-
-<a name="fiscal-year"></a>
 
 A fiscal year is a one-year period that corporations use for accounting and budgeting.
 GitLab's Fiscal Year runs from February 1 to January 31.
@@ -107,14 +85,13 @@ GitLab's Fiscal Year runs from February 1 to January 31.
 | FY24-Q3 | 2023-08-01 to 2023-10-31 |
 | FY24-Q4 | 2023-11-01 to 2024-01-31 |
 
-Refer to our [writing style guidelines](/handbook/communication/#writing-style-guidelines) for proper use of date formats.
+Refer to our [writing style guidelines]({{< ref "communication#writing-style-guidelines" >}}) for proper use of date formats.
 
 ### Revenue non-committee
-- **Internal Management Members:** Chief Finanical Officer (DRI), Chief Executive Officer, Chief Revenue Officer (model, guidance, plan, target)
+
+- **Internal Management Members:** Chief Financial Officer (DRI), Chief Executive Officer, Chief Revenue Officer (model, guidance, plan, target)
 
 ## Invoice template and where to send
-
-<a name="invoices"></a>
 
 Vendor invoices are to be sent to ap@gitlab.com and payroll@gitlab.com for contractors. An [invoice](https://docs.google.com/spreadsheets/d/1sRA2uCpFblOleyVIslqM4YwbW27GkU5DTgwMLhgR_Iw/edit?usp=sharing) template can be found in Google Docs by the name of "Invoice Template".
 
@@ -155,16 +132,14 @@ For example, work to enable a sales partner that will not be incorporated into t
 
 | Function | Name |
 | -------- | ---- |
-| Customer Support | [R&D Finance](/handbook/finance/financial-planning-and-analysis/r-and-d-finance/) |
-| R & D | [R&D Finance](/handbook/finance/financial-planning-and-analysis/r-and-d-finance/) |
-| Sales | [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/) |
-| Professional Services | [Sales Finance](/handbook/finance/financial-planning-and-analysis/sales-finance/) |
-| Marketing | [Marketing Finance](/handbook/finance/financial-planning-and-analysis/marketing-finance/) |
+| Customer Support | [R&D Finance]({{< ref "./financial-planning-and-analysis/r-and-d-finance" >}}) |
+| R & D | [R&D Finance]({{< ref "./financial-planning-and-analysis/r-and-d-finance" >}}) |
+| Sales | [Sales Finance]({{< ref "./financial-planning-and-analysis/sales-finance" >}}) |
+| Professional Services | [Sales Finance]({{< ref "./financial-planning-and-analysis/sales-finance" >}}) |
+| Marketing | [Marketing Finance]({{< ref "./financial-planning-and-analysis/marketing-finance" >}}) |
 | G & A | Ellen Boyd and Jess Smith |
 
 ### Types of Work that the team does
 
 1. Level 1: Keeping the lights on activity. Always striving to make this area as efficient as possible so more Layer 2 focus can be attained. Example: closing the books.
 1. Level 2: Operational Efficiencies, Business Engagement and Partnering, actionable insights for the organization. Examples: improving close process, partnering with sales to make a business decision
-
-

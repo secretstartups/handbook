@@ -1,26 +1,14 @@
 ---
-layout: handbook-page-toc
 title: Coupa FAQ
 ---
 
-{::options parse_block_html="true" /}
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-## GENERAL FAQ
+## General Faq
 
 ### What is Coupa?
 
 - Coupa is a cloud-based purchasing and payment platform that will be used by GitLab as of 2021-06-01 for US and Netherlands entities and as of 2021-12-13 for remaining entities. It has an easy-to-use interface that will improve the way suppliers connect with GitLab. All new purchase orders, invoices and communications will be managed through the Coupa Supplier Portal.
 
-
-## SUPPLIER FAQ
+## Supplier Faq
 
 ### How will Coupa impact the way GitLab works with suppliers?
 
@@ -41,18 +29,18 @@ title: Coupa FAQ
 
 ### What is the Coupa Supplier Portal (CSP)?
 
-- The Coupa Supplier Portal (CSP) is a portal which enables GitLab's suppliers to receive purchase orders and create invoices electronically. Suppliers can also create and update catalogues through the CSP. 
+- The Coupa Supplier Portal (CSP) is a portal which enables GitLab's suppliers to receive purchase orders and create invoices electronically. Suppliers can also create and update catalogues through the CSP.
 
 ### What are the key benefits of joining the CSP?
 
-  - CSP makes managing customers and transactions easy.
-  - Roll out world class processes and best-in-class content management.
-  - Manage settings on a customer-by-customer basis, including viewing purchase orders, setting up delivery methods, creating catalogs etc.
-  - Tracking the real time status of transactions.
+- CSP makes managing customers and transactions easy.
+- Roll out world class processes and best-in-class content management.
+- Manage settings on a customer-by-customer basis, including viewing purchase orders, setting up delivery methods, creating catalogs etc.
+- Tracking the real time status of transactions.
 
 ### How long does it take to register for the CSP?
 
-- The registration process takes less than 5 minutes upon receiving the emailed invitation email. 
+- The registration process takes less than 5 minutes upon receiving the emailed invitation email.
 
 ### Do suppliers need additional software to use the CSP?
 
@@ -64,29 +52,23 @@ title: Coupa FAQ
 
 ### How do suppliers register for the CSP?
 
-- The supplier will receive an email invitation to join the CSP and GitLab will partner with them to ensure a smooth transition to Coupa. 
+- The supplier will receive an email invitation to join the CSP and GitLab will partner with them to ensure a smooth transition to Coupa.
 
 ### If the supplier already have a Coupa Supplier Portal account, what do they need to do to enable GitLab?
 
-- We still need the supplier to reply to our initial email so we can set their company up properly in our Coupa system. Once setup, they will be able to easily link GitLab to their Coupa Supplier Portal account. 
+- We still need the supplier to reply to our initial email so we can set their company up properly in our Coupa system. Once setup, they will be able to easily link GitLab to their Coupa Supplier Portal account.
 
 ### Where can I find more information on the Coupa Supplier Portal?
 
-- Here are some useful links with information on the Coupa Supplier Portal: 
-   - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal) 
+- Here are some useful links with information on the Coupa Supplier Portal:
+   - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal)
    - [https://www.supplier.coupa.com/help](https://supplier.coupa.com/help/)
    - [https://www.supplier.coupa.com/help/creating-an-account-with-coupa](https://supplier.coupa.com/help/creating-an-account-with-coupa/)
-   
 - Chat with Coupa Support
    - You can chat with Coupa Support to get a quick response or resolution to your question/issue. Click on the "Chat with Coupa Support" button located in the lower right corner of any screen (see below screenshot).
-   - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
+   - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available.
 
-   ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
-
-
-
-
-
+   ![coupa-image-1](../CoupaSupportChat.png)
 - Suppliers can also email Coupa Support Team (supplier@coupa.com).
 
 
@@ -98,13 +80,13 @@ title: Coupa FAQ
 
 - Yes, suppliers can have both SAN and CSP set up. CSP suppliers will have SAN by default. Please note, suppliers who have initially chosen SAN will have an option to join CSP through the PO email sent.
 
-## cXML OPTION FAQ
+## cXML Option FAQ
 
 ### Do suppliers receive purchase orders via e-mail if they select cXML as the transmission method?
 
 - If they select cXML as your transmission method, they will not receive purchase orders via e-mail. The cXML links directly between the supplier's system and GitLab's system.
 
-## COUPA PAY
+## Coupa Pay
 
 ### What is Coupa Pay?
 
@@ -120,18 +102,9 @@ title: Coupa FAQ
    - [https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments](https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments)
    - [https://supplier.coupa.com/help/remit-to-improvements](https://supplier.coupa.com/help/remit-to-improvements)
 
-<div class="panel panel-warning">
-**IMPORTANT NOTES**
-{: .panel-heading}
-<div class="panel-body">
-
+{{% panel header="**Important Notes**" header-bg="warning" %}}
 - Avoid using any special characters when entering Remit-To Address.
 - The currency of your bank account has to match the currency of your invoices.
-
-</div>
-</div>
+{{% /panel %}}
 
 If there are any issues with setting up a Remit-To account, please email Coupa Support Team (supplier@coupa.com) for assistance.
-
-
-{::options parse_block_html="false" /}

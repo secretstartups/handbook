@@ -3,26 +3,18 @@ layout: handbook-page-toc
 title: "Billing Operations"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+Welcome to the Billing Ops Handbook
+{.h2}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+## Charter
 
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-{::options parse_block_html="true" /}
-
-## Welcome to the Billing Ops Handbook
-
-### Charter
-
-The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing functions of our global account portfolio. 
+The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing functions of our global account portfolio.
 
 **The Gitlab Billing Team comprises three regional teams:**
-* Americas - West Region
-* Americas - East Region
-* EMEA/APAC Region 
+
+- Americas - West Region
+- Americas - East Region
+- EMEA/APAC Region
 
 Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Operations%20&%20Accounts%20Receivable%20Wiki) Page for additional information & resources!
 
@@ -39,26 +31,26 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 - [Christian Willis](https://about.gitlab.com/company/team/#christianwillis) - Senior Billing Operations Specialist
 - [Diana Quitevis](https://about.gitlab.com/company/team/#dquitevis) - Billing Operations Specialist
 
-_The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations._
+*The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations.*
 
 ### Helpful Links
 
-* [How to create an opportunity/build a quote? ](/handbook/sales/field-operations/sales-operations/deal-desk/)
-* [Order requirements](/handbook/sales/field-operations/order-processing/)
-* [Contacting the Legal team](/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
-* [Questions about licenses and plans](/handbook/support/internal-support/#common-internal-requests---sales-team--customer-success-managers--accounts-receivable)
-* [Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)
+- [How to create an opportunity/build a quote?](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/)
+- [Order requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/)
+- [Contacting the Legal team](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
+- [Questions about licenses and plans]({{< ref "/handbook/support/internal-support#common-internal-requests---sales-team--customer-success-managers--accounts-receivable" >}})
+- [Zuora Billing Tech Stack Guide]({{< ref "zuora-billing" >}})
 
 ## Communicating with Billing
 
-Avoid contacting any Billing team members [directly via Slack](https://about.gitlab.com/handbook/communication/#avoid-direct-messages). Please tag `@billing-ops` in the #Finance channel.
+Avoid contacting any Billing team members [directly via Slack]({{< ref "communication#avoid-direct-messages" >}}). Please tag `@billing-ops` in the #Finance channel.
 
-* Email: `billing@gitlab.com`
-* Salesforce: `@billing-ops`
+- Email: `billing@gitlab.com`
+- Salesforce: `@billing-ops`
 
 **Questions on a Quote?** Please contact `@sales-support`
 
-Do not tag individual team members in opportunities. Using `@billing-ops` will ensure that your inquiry is supported quickly and will avoid any potential delays. 
+Do not tag individual team members in opportunities. Using `@billing-ops` will ensure that your inquiry is supported quickly and will avoid any potential delays.
 
 ## Standard Operating Process
 
@@ -95,12 +87,12 @@ See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Div
 ### Salesforce
 
 Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Billing Team utilizes SFDC to view all related customer documentation and account information.
- 
+
 See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
 
 ### Zuora
 
-[Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#zuora), a leader in the subscription management technology space, provides a platform which allows automation of subscription operations for businesses. We use Zuora's platform at GitLab to integrate with other platforms for billing and CRM, automate subscriptions flows and assist with reporting. The platform is considered the source of truth for many important business objects, like the product catalog, subscriptions, invoices, and more. See the **[Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)** for details regarding Zuora Billing implementation, including the [Zuora Object Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship) and integrations with systems like CustomersDot.
+[Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/architecture#zuora), a leader in the subscription management technology space, provides a platform which allows automation of subscription operations for businesses. We use Zuora's platform at GitLab to integrate with other platforms for billing and CRM, automate subscriptions flows and assist with reporting. The platform is considered the source of truth for many important business objects, like the product catalog, subscriptions, invoices, and more. See the **[Zuora Billing Tech Stack Guide]({{< ref "zuora-billing" >}})** for details regarding Zuora Billing implementation, including the [Zuora Object Model](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship) and integrations with systems like CustomersDot.
 
 - **Zuora is used for the following:**
     - Billing of all customer accounts
@@ -110,8 +102,8 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
     - Integrated to Avalara Tax Reporting Software
     - Integrated with Zuora Revenue
 
-> See the **[Zuora Billing Tech Stack Guide](/handbook/finance/accounting/finance-ops/billing-ops/zuora-billing/)** for technical implementation details.
-     
+> See the **[Zuora Billing Tech Stack Guide]({{< ref "zuora-billing" >}})** for technical implementation details.
+
 ### Zendesk
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
@@ -130,7 +122,7 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relati
 1. Click "Manage Purchases"
 1. Click "Download License"
 
-> If you still can’t access your license, please create a support issue [here](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions).
+> If you still can’t access your license, please create a support issue [here]({{< ref "/handbook/support/internal-support#regarding-licensing-and-subscriptions" >}}).
 
 </details>
 
@@ -147,7 +139,7 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relati
 
 > Additional payment instructions are also available on your invoice under `bank information`.
 
-- To make payment via credit card, please log into your account https://customers.gitlab.com 
+- To make payment via credit card, please log into your account https://customers.gitlab.com
     - select `Payment Methods`
     - select `Add New Payment Method`
 
@@ -158,7 +150,7 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/developer-relati
 Connect with GitLab via 3rd Party Billing Portal
 </summary>
 
-GitLab currently supports various 3rd Party Billing Portals. 
+GitLab currently supports various 3rd Party Billing Portals.
 
 Customer billing portals are used for PO receipt and submission of invoices billed by GitLab to our customers.
 
@@ -169,7 +161,7 @@ When a customer advises you that they will need to be connected with GitLab via 
     - Coupa Supplier Portal - Please send a connection request to `AR@gitlab.com`
     - Taulia - Please send a connection request to `AR@gitlab.com`
 
-Internal Team Members, please see [Customer Billing Portal Instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Customer%20Billing%20Portal%20Instructions) for additional information and resources! 
+Internal Team Members, please see [Customer Billing Portal Instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Customer%20Billing%20Portal%20Instructions) for additional information and resources!
 
 </details>
 
@@ -190,9 +182,9 @@ GitLab bills in USD only, without exception.
 What if my customer wants to short pay by foreign withholding tax?
 </summary>
 
-All applicable fees are due and payable as per our terms of service. 
+All applicable fees are due and payable as per our terms of service.
 
-Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service. 
+Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service.
 
 > 6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
@@ -214,7 +206,7 @@ Currently all web-direct (portal) purchases are billed from our GitLab, Inc. (US
 Can we update invoices manually?
 </summary>
 
-Manual (pro-forma) invoice modifications are only done in exceptional circumstances and have to be approved through the Billing Leadership Team. Please ensure that you have proper approvals prior to requesting invoice modifications. 
+Manual (pro-forma) invoice modifications are only done in exceptional circumstances and have to be approved through the Billing Leadership Team. Please ensure that you have proper approvals prior to requesting invoice modifications.
 
 </details>
 
@@ -223,7 +215,7 @@ Manual (pro-forma) invoice modifications are only done in exceptional circumstan
 How can the sales team know if an invoice has been paid?
 </summary>
 
-Please review the `billing account` section of the customer account in Salesforce. 
+Please review the `billing account` section of the customer account in Salesforce.
 
 The billing account will provide all invoice and payment information available for the customer.
 
@@ -249,7 +241,7 @@ Where does GitLab currently charge tax on sales?
 
 Internal Resource: [VAT & Sales Tax Information & Resources](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/VAT%20&%20Sales%20Tax%20Information%20&%20Resources)
 
-See also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
+See also: [The GitLab Tax Team]({{< ref "/handbook/tax" >}})
 
 </details>
 
@@ -263,20 +255,19 @@ Yes, Customers can view invoices in the GitLab Customers Portal! The customer ac
 
 </details>
 
-
 ## GitLab Billing Entities
 
 As a global company, GitLab has locations around the world.
 
-* GitLab Inc in the US
-* GitLab BV in the Netherlands
-* GitLab Ltd in the UK
-* GitLab GmbH in Germany
-* GitLab PTY LTD in Australia
+- GitLab Inc in the US
+- GitLab BV in the Netherlands
+- GitLab Ltd in the UK
+- GitLab GmbH in Germany
+- GitLab PTY LTD in Australia
 
 [Quote Entity Information](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
 
-**Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity. 
+**Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity.
 
 > Clarification: If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well.
 
