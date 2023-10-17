@@ -18,7 +18,7 @@ The L&R team works on licensing and subscription related internal requests that 
 
 **NOTE:** Use the `Support::L&R::Sales Internal Request - Office Hours Notice` macro in either your first or last response in the ticket to increase awareness of the regional office hours hosted by the L&R team.
 
-A list of the different options available and example scenarios can be found in [this table](https://about.gitlab.com/handbook/support/internal-support/#common-internal-request-scenarios).
+A list of the different options available and example scenarios can be found in [this section](https://about.gitlab.com/handbook/support/internal-support/#common-internal-request-scenarios). Click for details.
 
 ### Order Management
 
