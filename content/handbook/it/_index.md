@@ -191,7 +191,7 @@ These policies are a cross-collaboration between the IT and Security department.
 - Laptop Disk Encryption Policy
 - [Laptop Monitoring Policy](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/)
 - Laptop System Configuration Policy
-  - [macOS](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
+  - [macOS](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
   - [Linux](/handbook/tools-and-tips/linux/)
 - [Mobile Device Application Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
