@@ -35,28 +35,28 @@ There are only a few goals for this meeting:
 1. Introduce yourself
    1. Tell them your name
       - be sure you say your name clearly and slowly enough for them to
-      understand
-   2. Tell them a little about your experience at and with GitLab
+        understand
+   1. Tell them a little about your experience at and with GitLab
       - how long you've been at the company
       - how long you've been a support engineer
       - how long you've been using our products
       - what are your biggest strengths with GitLab and supporting technologies
-   3. Tell them why you are excited about the opportunity
-   4. Tell them how you work
+   1. Tell them why you are excited about the opportunity
+   1. Tell them how you work
 2. Ask them to introduce themselves
    1. Name
-   2. Role
-   3. GitLab expertise
+   1. Role
+   1. GitLab expertise
 3. Review the ASE role, constraints and SOW
    1. Let them know how you'll work with them
-   2. Let them know how you'll work with the account team
-   3. Ask what questions they have for you
-   4. Ask what their goals are for working with you
+   1. Let them know how you'll work with the account team
+   1. Ask what questions they have for you
+   1. Ask what their goals are for working with you
 4. Learn about their GitLab-related Plans
    1. Why did they become GitLab customers?
-   2. How are they using the product right now?
-   3. What's going well and what's not going well?
-   4. What are their goals for using GitLab?
+   1. How are they using the product right now?
+   1. What's going well and what's not going well?
+   1. What are their goals for using GitLab?
 
 ## Tips
 
