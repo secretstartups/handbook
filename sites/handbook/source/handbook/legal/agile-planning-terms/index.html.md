@@ -16,7 +16,7 @@ These Agile Planning Terms (“Terms'') are between GitLab Inc. with offices at 
 
 1.2  	“Agile Planning Features” means features within GitLab’s Software (currently only available within the Ultimate tier),  that enable Customer to define, track and measure progress of work to be done by its DevSecOps team including Epics, Issues, Tasks, Milestones, Roadmaps, Boards and as more as fully described at <https://about.gitlab.com/solutions/agile-delivery/> and <https://docs.gitlab.com/ee/topics/plan_and_track.html> 
 
-1.4.	“Subscription Agreement” means the GitLab subscription agreement available at <https://about.gitlab.com/terms/#current-terms-of-use>, or such other written agreement between the parties governing Customer’s use of Software.
+1.3.	“Subscription Agreement” means the GitLab subscription agreement available at <https://about.gitlab.com/terms/#current-terms-of-use>, or such other written agreement between the parties governing Customer’s use of Software.
 
 ## 2. SCOPE OF USE
 
