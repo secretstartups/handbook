@@ -185,11 +185,11 @@ IP filtering should be set up and used for when hosting any version of GitLab wi
 
 ###### Classified Data
 
-Do not host or store classified data on test or demo instances.
+Do not host or store [classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/) on test or demo instances.
 
 For public-facing instances, only Green data is allowed.
 
-RED data should never be copied to or stored on test or demo instances.
+RED or ORANGE data should never be copied to or stored on test or demo instances.
 
 ###### Clean Up
 
