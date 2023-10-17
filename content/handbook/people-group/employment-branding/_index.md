@@ -109,6 +109,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 <br> - Send @cchiodo a Slack with more details about your video project including topic, use case, and team members to include
 <br> - Request participation from team members selected
 <br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo
+<br> - Asked to participat in a video? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/).
 
 </details>
 
@@ -118,6 +119,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 <br> - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies.
 <br> - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry.
 <br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post).
+<br> - Asked to participat in an article? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/).
 
 </details>
 
