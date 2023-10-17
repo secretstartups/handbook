@@ -16,7 +16,7 @@ This page outlines our approach to talent brand at GitLab.
 
 If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
 
-![Talent brand vision statement](/Talent_Brand_June_2022.png)
+![Talent brand vision statement](Talent_Brand_June_2022.png)
 
 There are two parts to this vision:
 
@@ -99,7 +99,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 <br> - Start by creating a slide deck that includes high-level info about careers at GitLab. This sample deck is a really [simple example using only 4 slides](https://docs.google.com/presentation/d/1P6zD82oXUorWoR7mYnHf2Oun2n4q4NvXZqsDbDuWYPw/edit?usp=sharing).
 <br> - Using the Creator Studio add-on, you can choose to "create video" from the existing slides
 <br> - To help with conversion, you can also request a custom QR code be created using QR.io by creating an issue in the talent acquisition project and tagging @cchiodo or @drogozinski
-<br> - The final result will look [something like this](https://drive.google.com/drive/folders/1fwoi5NI6q0_hbT7_Q8Q817AwsRPmTmYe?usp=sharing) and can be shared through various social media sites or presented in video format at in-person events. 
+<br> - The final result will look [something like this](https://drive.google.com/drive/folders/1fwoi5NI6q0_hbT7_Q8Q817AwsRPmTmYe?usp=sharing) and can be shared through various social media sites or presented in video format at in-person events.
 
 </details>
 
@@ -108,7 +108,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 **Whether you're looking to embed video in a job ad, or create an asset to leverage in outreach, team member spotlight videos are an excellent way to provide first-hand perspectives. With a partnership with [Cinebody](https://www.cinebody.com/), we're able to build video projects and collect team member sentiment in one central place.**
 <br> - Send @cchiodo a Slack with more details about your video project including topic, use case, and team members to include
 <br> - Request participation from team members selected
-<br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo 
+<br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo
 
 </details>
 
@@ -117,7 +117,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 **Written articles are a great way to provide insight to candidates about a specific team, project, or exciting aspect of GitLab. There's several different ways to contribute an article including (please slack @cchiodo for further information about each option):**
 <br> - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies.
 <br> - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry.
-<br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post). 
+<br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post).
 
 </details>
 
