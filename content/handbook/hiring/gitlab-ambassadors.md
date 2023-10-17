@@ -166,10 +166,10 @@ Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/talent-acquisit
 > Using video is a highly valuable means of offering a glimpse into the inner workings of our company and what life is like at GitLab. It presents an excellent chance to showcase your genuine self and portray GitLab as an outstanding workplace for prospective candidates. Here's what you can expect during the video collection process:
 >
 1. You'll be asked to record and submit your video via [Cinebody](https://www.cinebody.com/), a powerful tool used to collect and review team member video sentiment before editing into a final video.
-2. You'll receive a PDF from the team member leading the video project describing how to collect the video and prompts to assist your candor in the video. 
-3. Cinebody is integrated with GitLab's Okta SSO system, so once you receive the PDF, click the link either on your phone or computer, sign in, and record away! 
-4. As soon as you submit your video, Cinebody will receive and store it where it will be reviewed by a member of the Talent Brand team before being sent for final editing. 
-5. The video may be used in candidate outreach, in job advertisements, on GitLab social media, or on external talent platforms such as our careers site. 
+1. You'll receive a PDF from the team member leading the video project describing how to collect the video and prompts to assist your candor in the video.
+1. Cinebody is integrated with GitLab's Okta SSO system, so once you receive the PDF, click the link either on your phone or computer, sign in, and record away!
+1. As soon as you submit your video, Cinebody will receive and store it where it will be reviewed by a member of the Talent Brand team before being sent for final editing.
+1. The video may be used in candidate outreach, in job advertisements, on GitLab social media, or on external talent platforms such as our careers site.
 >
 >Please Slack @cchiodo if you're interested in getting involved.
 >
@@ -177,8 +177,8 @@ Here's a [fact sheet](https://gitlab.com/gitlab-com/people-group/talent-acquisit
 > Written content in the form of perspectives, articles, blogs, and/or roundups offer powerful opportunities for our team members to share their thoughts and beliefs about working at GitLab. If you're participating in a piece of written content for the Talent Brand team, here's what you can expect during the collection process:
 >
 1. The team member managing the written project will provide you with an overview of the project and what is expected of you.
-2. The collecion of your written perspectives is typically completed in Google Docs, unless otherwise directed.
-3. Once the piece is finalized, a final review will be conducted by all necessary teams before publication. 
-4. The written piece may be used in candidate outreach, in job advertisements, on GitLab social media, or on external talent platforms such as our careers site. 
+1. The collecion of your written perspectives is typically completed in Google Docs, unless otherwise directed.
+1. Once the piece is finalized, a final review will be conducted by all necessary teams before publication.
+1. The written piece may be used in candidate outreach, in job advertisements, on GitLab social media, or on external talent platforms such as our careers site.
 >
 >Please Slack @cchiodo if you're interested in getting involved.
