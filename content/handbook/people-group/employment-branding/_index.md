@@ -16,7 +16,7 @@ This page outlines our approach to talent brand at GitLab.
 
 If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
 
-![Talent brand vision statement](/images/talent_brand/Talent_Brand_June_2022.png)
+![Talent brand vision statement](/Talent_Brand_June_2022.png)
 
 There are two parts to this vision:
 
