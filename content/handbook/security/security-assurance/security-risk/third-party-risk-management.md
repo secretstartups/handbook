@@ -143,9 +143,9 @@ If a Risk Acceptance was put in place at the time of the previous assessment, in
 
 | Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | Evidence of PenTest and BCP Testing |
 | ------ | ------ |------ |------ |------ |------ |
-|Red*     |3rd Party Attest & <a href="https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Lite Plus</a> (or equiv)|     Yes|          If applicable|     Yes|    Yes |
-|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & <a href="https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Lite Plus</a> (or equiv)|     Yes|          Yes|     Yes|     Yes |
-|Orange Professional Services | 3rd Party Attest or <a href="https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true">SIG Prof Svcs</a>|          N/A|     N/A| N/A|   N/A|
+|Red*     |3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          If applicable|     Yes|    Yes |
+|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          Yes|     Yes|     Yes |
+|Orange Professional Services | 3rd Party Attest or [SIG Prof Svcs](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)|          N/A|     N/A| N/A|   N/A|
 |Yellow/Green**     |-|     -|     -|     Yes*|    - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
