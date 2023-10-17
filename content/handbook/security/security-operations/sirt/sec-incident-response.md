@@ -22,7 +22,7 @@ Incident indicators can be reported to SIRT either internally, by a GitLab team 
 
 The GitLab Security team identifies security incidents as any violation, or threat of violation, of GitLab security, acceptable use or other relevant policies.
 
-SIRT will follow processes in the [Material Breach Determination internal handbook page](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/material_breach_determination/) for any security incidents that may be a material breach, including 3rd party breaches that may have a material impact to GitLab. 
+SIRT will follow processes in the [Material Breach Determination internal handbook page](https://internal.gitlab.com/handbook/security/security_operations/sirt/operations/incident_response/material_breach_determination/) for any security incidents that may be a material breach, including 3rd party breaches that may have a material impact to GitLab.
 
 ## Roles & Responsibilities
 
