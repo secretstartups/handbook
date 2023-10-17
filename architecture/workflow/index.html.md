@@ -242,45 +242,52 @@ guidelines, and start collaborating on a design document in a private space
 
 First page of the design document should outline the main vision of a change.
 The vision is a short content written as an "executive summary" that describes,
-from a business perspective, the problem we want to solve, why it's important
-and the desired outcome.
+from a business perspective, the problem we want to solve, why is it important
+and what is the desired outcome.
 
-The vision should be true long term. It should generally not require updates
-when implementation details change or more concrete decisions have been made.
+The vision should be true long term. It should generally not require many
+updates when implementation details change or more concrete decisions are being
+made.
 
 #### Details
 
 The rest of the design document is a description of [Why, How and What](https://en.wikipedia.org/wiki/Start_With_Why)
 of the change. This section is both, a proposal describing the technical
-direction, as well as a documentation of the current state.
+direction, as well as a documentation of the current state. If the details
+section is long, it is basically advised to extract it to a separate sub-page,
+to keep the main page of a design doc more approachable.
 
-The proposal is usually a high-level overview of how we want something to be implemented.
-We highly recommend documenting decisions made about certain aspects of the proposal
-so that these could provide more clarity around the direction.
+The proposal is usually a high-level overview of how we want something to be
+implemented. We highly recommend documenting decisions made about fundamental
+aspects of the design. These decisions are going to become important
+checkpoints during the implementation phase, and will provide more clarity
+around the direction to newcomers.
 
-To document a decision we can use a lightweight process:
+To document a decision a lightweight process can be used:
 
-- First of all, breakdown complex decisions into smaller ones.
+- Identify fundamental design problems and note them down.
+- Breakdown complex decisions into smaller ones, if needed.
 - Describe the context on what we need to make a decision on.
-- Document benefits, trade-offs and alternatives of the decision.
-- Document why a specific solution was choosen.
+- Document benefits, trade-offs and alternatives considered.
+- Document why a specific solution was chosen.
 
 You can use a lightweight Architectural Decision Record (ADR).
 See an [example here](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/132129).
-We recommend to add ADRs as subpages, and link them from a `Decision` section on the main page of the design doc.
+We recommend to add ADRs as subpages, and link them from a `Decision` section
+on the main page of the design doc.
 
-An example of aspect of a proposal could be "Client-server communication" while an example
-of decision could be: "Use Protocol Buffers as data serialization format".
+An example of an important design aspect could be "Client-server
+communication protocol", while an example of decision could be: "Use Protocol
+Buffers as data serialization format".
 
-The ultimate goal is that each aspect of the proposal is accompanied by a
-decision but it's also encouraged to list aspects to analyze even if we don't know
-yet how to address those. Documenting known-unknowns is important in communicating
-where we have not made decisions yet.
+The goal is that each fundamental aspect of the proposal is accompanied by a
+documented decision. It is also encouraged to document known-unknowns that we
+may need to decide on later.
 
-As we move forward with implementation and iterate on a project, we continuously
-incorporate feedback gained after each of the iterations, into the design document itself.
-
-Technical details can go into subpages, or be extracted into issues / epics.
+As we move forward with implementation and iterate on a project, we
+continuously incorporate feedback gained after each of the iterations, into the
+design document itself. Technical details can go into subpages, or be extracted
+into issues / epics.
 
 ### Implementation Phase
 
