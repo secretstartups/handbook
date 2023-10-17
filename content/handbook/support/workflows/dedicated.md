@@ -17,8 +17,10 @@ The GitLab Dedicated team does **not** have administrative access to the [Admin 
 
 ### Sharing internal logs, data & graphs
 
-We do not share internal logs, data and graphs with GitLab Dedicated customers
-by default.
+We should not visually or physically share internal logs, data and graphs
+with GitLab Dedicated customers by default. Examples of things we should
+not share include, but are not limited to, screenshots of graphs, copied
+log entries, and raw log dumps.
 
 Here is some background to understand why:
 
