@@ -34,8 +34,8 @@ There are only a few goals for this meeting:
 
 1. Introduce yourself
    1. Tell them your name
-      - be sure you say your name clearly and slowly enough for the to
-        understand
+      - be sure you say your name clearly and slowly enough for them to
+      understand
    2. Tell them a little about your experience at and with GitLab
       - how long you've been at the company
       - how long you've been a support engineer
