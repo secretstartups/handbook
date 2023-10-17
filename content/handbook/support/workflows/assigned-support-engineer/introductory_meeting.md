@@ -49,7 +49,7 @@ There are only a few goals for this meeting:
    3. GitLab expertise
 3. Review the ASE role, constraints and SOW
    1. Let them know how you'll work with them
-   2. Let them know how you'll work with the account team 
+   2. Let them know how you'll work with the account team
    3. Ask what questions they have for you
    4. Ask what their goals are for working with you
 4. Learn about their GitLab-related Plans
