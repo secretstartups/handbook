@@ -18,6 +18,10 @@ When the prompt shows, fill in your information. There are some caveats here:
 
 ![image_2](./image_2.png)
 
+If you have ordered a YubiKey in the past, and this is a replacement for a lost/stolen/damaged key, please select "yes". If this is a backup key, please note that we are not sending backup keys currently.
+
+![image_5](./image_5.png)
+
 Select your YubiKey. For now, orders are limited to one YubiKey. You can use this prompt again for a replacement key if needed.
 
 ![image_3](./image_3.png)
