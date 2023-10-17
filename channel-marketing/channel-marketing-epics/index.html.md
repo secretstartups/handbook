@@ -214,7 +214,7 @@ Utilize the [Workshop/Webcast SLA Workback Schedule](https://docs.google.com/spr
 * [ ] [Webcast Prep Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast-prep)
 * [ ] [Dry Run Scheduling Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=webcast_dry_run_scheduling)
 * [ ] [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=write-copy) 
-* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_mkto_landing_page)
+* [ ] [Marketo Landing Page & Automation Issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=request-marketo_landing_page_request)
 * [ ] [News on Demand Article/Email Creation](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=NoD_promotion)
 * [ ] [Update Partner Portal - Partner Marketing Webinar Page](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=Update_Portal_PtnrMktgWebinar)
 * [ ] [Create Post-event Survey](https://gitlab.com/gitlab-com/marketing/channel-marketing/-/issues/new?issuable_template=to_ptnr_postevent_survey)
