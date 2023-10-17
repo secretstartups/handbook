@@ -55,7 +55,7 @@ MRs created by the UX Paper Cuts team will be handled by the UX Paper Cuts team.
 
 In cases where there is no design DRI to review the MR, you can assign it to [Pedro Moreira da Silva](https://about.gitlab.com/company/team/#pedroms) (`@pedroms`), who's covering for teams without a designer.
 
-For general guidance for teams without a designer, see [Product Processes](/handbook/product/product-processes/#what-if-your-team-doesnt-have-a-designer).
+For general guidance for teams without a designer, see [Product Processes](/handbook/product/product-processes/product-mgt-operations/pm-operating-procedures/#what-if-your-team-doesnt-have-a-designer).
 
 ## Workload and response times
 
