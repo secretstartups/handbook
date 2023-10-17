@@ -43,16 +43,16 @@ There are only a few goals for this meeting:
       - what are your biggest strengths with GitLab and supporting technologies
    1. Tell them why you are excited about the opportunity
    1. Tell them how you work
-2. Ask them to introduce themselves
+1. Ask them to introduce themselves
    1. Name
    1. Role
    1. GitLab expertise
-3. Review the ASE role, constraints and SOW
+1. Review the ASE role, constraints and SOW
    1. Let them know how you'll work with them
    1. Let them know how you'll work with the account team
    1. Ask what questions they have for you
    1. Ask what their goals are for working with you
-4. Learn about their GitLab-related Plans
+1. Learn about their GitLab-related Plans
    1. Why did they become GitLab customers?
    1. How are they using the product right now?
    1. What's going well and what's not going well?
