@@ -14,7 +14,7 @@ The Growth and Development benefit is managed in partnership with the Total Rewa
 | Question Type | Contact |
 | ----- | ----- |
 | Administration of the benefit, reimbursements, approvals, and questions realted to the application issue templates | Total Rewards team via the #people-connect Slack channel |
-| Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learnignanddevelopment Slack channel |
+| Qualified programs, suggested courses, conferences, etc, and feedback from your learning | Learning and Development team via #learninganddevelopment Slack channel |
 | Other | #people-connect Slack channel for support in determining the best team |
 
 ## Growth and Development Benefit Eligibility
