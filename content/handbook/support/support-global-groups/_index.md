@@ -38,7 +38,7 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
     regions
   - each group has a representative blend of tenure and skill level
   - product expertise is distributed reasonably between the groups
-  - each manager is aligned with one or more groups 
+  - each manager is aligned with one or more groups
   - the groups are all named after trees from around the world
 
 #### The Groups and the Aligned Managers
