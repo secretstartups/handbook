@@ -68,7 +68,7 @@ The content in this section is typically updated at least 1 month after each rel
     - What does it sell/cover: Good for Premium or Ultimate. Focuses only only the planning stage, so make sure that the students you have coming are not expecting a technical workshop.
     - Instruqt?: No
 
-- GitOps Workshop
+- GitOps Workshop (Temporarily Paused, reach out to Logan Stucker with questions)
     - [Slides](https://drive.google.com/drive/folders/1xFxULChxjLmiQYjIENKNpbiifhhDfvo2)
     - [Content](https://play.instruqt.com/gitlab/tracks/gitlab-gitops-workshop)
     - What does it sell/cover: Good for both premium and ultimate. Real benefit of this workshop is that it will set students up for how to use the agent for IAC or deploying an application. In the future we will be a deep dive into Flux as well.
