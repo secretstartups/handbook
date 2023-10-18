@@ -168,7 +168,8 @@ Once the temporary renewal extension is created, the evidence of it can be seen 
 * [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
 * Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
    * For self-managed, customer can download the license key and apply it to their instance.
-* Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed.
+
+Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed. [This video](https://www.youtube.com/watch?v=cR6odsThHNY) shows what happens when the grace period of the temporary extension has elapsed, and subscription is renewed. 
 
 ### Possible errors when creating an extension
 
