@@ -92,7 +92,7 @@ For Vendor Dependency vulnerabilities, in which GitLab is dependent on a 3rd par
 
 | Step | Description | Label applied to the Vulnerability Issue | Label applied to the Deviation Request Issue |
 | ------ | ------ | ------ | ------ |
-| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `workflow::verification` , `FedRAMP::DR Status::Open` | n/a |
+| 1 | Discover a deviation request is required for a FedRAMP-applicable vulnerability issue |  `FedRAMP::DR Status::Open` | n/a |
 | 2 | Submit a Deviation Request using the appropriate issue template for review by security engineer | *label remains unchanged* | `FedRAMP::DR Status::Ready for review` (*applied automatically using the issue templates*) |
 | 3 | Security (Vulnerability Management team) performs a technical review of the vulnerability and classification/justification provided in the Deviation Request | If approved, *label remains unchanged* or if denied, `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::Compliance review` or if denied `FedRAMP::DR Status::Denied` |
 | 4 | Security Compliance reviews and if approved, tracks vulnerability deviation on POA&M and discusses with Authorizing Official during next monthly meeting | If approved *label remains unchanged* or if denied `FedRAMP::DR Status::Denied` | If approved `FedRAMP::DR Status::AO review`; If denied `FedRAMP::DR Status::Denied` |
