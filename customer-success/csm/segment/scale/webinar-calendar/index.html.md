@@ -24,18 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinar
 
-#### Hands-On GitLab CI Workshop for Jenkins Users
-##### October 18th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_SaGYcRbTTnulNK-tRLdBTQ#/registration)
-
-
 #### Holistic Approach to Securing the Development Lifecycle
 ##### October 24th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -76,17 +64,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Hands-On GitLab CI Workshop for Jenkins Users
-##### October 18th, 2023 at 9:00-11:00AM UTC / 11:00AM-1:00PM CET
-
-Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
-
-We will kick things off by going over the differences between CI/CD in Jenkins and GitLab, syntax requirements, advantages to using GitLab, and how you can achieve the same outcomes in GitLab. Getting started with CI/CD in GitLab will take a lot less time than tends to be required for Jenkins, and your users can stay in a single platform. 
-
-We will then dive into how to build simple GitLab pipelines and work up to more advanced pipeline structures and workflows, including security scanning and compliance enforcement.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_pj8OvIQ8RwKHELv5C9DEVw#/registration)
 
 #### Holistic Approach to Securing the Development Lifecycle
 ##### October 24th, 2023 9:00-10:00AM UTC / 11:00AM-12:00PM CET
