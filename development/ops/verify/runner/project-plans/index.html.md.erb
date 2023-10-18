@@ -133,10 +133,30 @@ Continuing to focus on issues found last week with the goal of re-enabling dashb
 
 #### Goals:
 
-- [ ] Fix [duplication bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427427)
-- [ ] Fix [removed ci_builds bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427421)
+- [x] Fix [duplication bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427427)
+- [x] Fix [removed ci_builds bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427421)
 - [ ] Rollout and remove [runners_dashboard feature flag](https://gitlab.com/gitlab-org/gitlab/-/issues/417002) thus enabling Runner Dashboard for everyone
-- [ ] Re-enable [CI data ingestion on Staging](https://gitlab.com/gitlab-org/gitlab/-/issues/421203) and finish it
+- [x] Re-enable [CI data ingestion on Staging](https://gitlab.com/gitlab-org/gitlab/-/issues/421203) and finish it
 - [x] [Add clickhouse credentials for Production](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/16931)
 - [ ] [Add support for clickhouse in Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8249) - that will be required for tests on self-managed as well as using ClickHouse from rails console Staging/Production
-- [ ] [Fix "always integer" bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427433)
+- [x] [Fix "always integer" bug](https://gitlab.com/gitlab-org/gitlab/-/issues/427433)
+
+#### Summary
+
+1. We got Runner dashboard enabled on both staging and production including ClickHouse!
+2. Decided not to release dashboard in 16.5. We want to test it a bit better and prepare a proper release post.
+3. Omnibus part stuck in review a bit.
+4. During the data ingestion we discovered that we [duplicate some data, it needs investigation](https://gitlab.com/gitlab-org/gitlab/-/issues/428146)
+
+### Week of 2023-10-16
+
+With production rollout complete we now will focus on delivering the dashboard(including Clickhouse) to self-managed.
+We also have half of the usual backend capacity throughout the 16.6 due to planned time off.
+
+#### Goals
+
+- [x] Create [closed-beta self-managed rollout plan](https://gitlab.com/groups/gitlab-org/-/epics/11720)
+- [ ] Finish [omnibus support](https://gitlab.com/gitlab-org/omnibus-gitlab/-/issues/8249)
+- [ ] [Enable dashboard for self-managed and release in 16.6](https://gitlab.com/gitlab-org/gitlab/-/issues/417002)
+- [ ] (stretch) Get a working PoC for [Clickhouse migrations support](https://gitlab.com/gitlab-org/gitlab/-/issues/428124)
+
