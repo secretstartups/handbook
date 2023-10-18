@@ -33,7 +33,14 @@ It's important to note that these results rely on a steady gratitude practice ov
 
 The Quarterly MVP (most valuable person) program recognizes Field team members who have excelled in a given quarter – not only in revenue-generating activities like closing big deals, but also in exhibiting great behaviors and setting a positive example for other team members. 
 
-The program recognizes one MVP per Field segment/CRO leader (5 total) and one "United Win" (cross-functional account team) each quarter. 
+The program recognizes one MVP per CRO leader (7 total) and one "United Win" (cross-functional account team) each quarter. 
+
+1. AMER MVP
+1. EMEA MVP
+1. APAC + Japan MVP
+1. Customer Success (CSM, SA, ProServ) MVP
+1. Partner MVP
+1. RSOE (Revenue Strategy, Operations & Enablement) MVP
 
 MVPs and the United Win account team are recognized by the CRO on the WW Field Org Call and they can enjoy a recognition dinner to celebrate their accomplishments with family and friends. Note: Field Communications work with the United Win account team to identify key cross-functional players in the win that should qualify for the recognition dinner.
 
@@ -56,14 +63,14 @@ The United Win is identified by the CRO leadership team. The "United Win" recogn
 
 
 ### Quarterly MVP Process and Timeline
-1. *[2 weeks before quarter close]* Field Comms opens an issue reminding segment leaders + their directs of the due date to select MVPs and sample criteria.
+1. *[2 weeks before quarter close]* Field Comms opens an issue reminding CRO leaders of the due date to select MVPs and sample criteria.
 1. *[3 weeks after quarter close]* Segment leaders' directs provide the names of their MVPs in the issue along with a brief (3-4 sentence) description of why this individual was selected.
+1. *[4 weeks after quarter close]* CRO leaders to work directly with their leadership teams to identify one winner from their org along with a brief (3-4 sentence) description of why this individual was selected.
    1. Sales Strategy can be tapped to provide data if applicable.
    1. Note: Can be done as a part of the Leadership QBRs.
-1. *[4 weeks after quarter close]* Segment leaders identify one winner from their directs' nominations and confirm the winner in the issue.
 1. *[4 weeks after quarter close]* CRO LT identifies the United Win and associated team members. A delegate from the CRO LT provides a brief (3-4 sentence) description of why this deal / team was chosen.
    1. Note: This can be done as a part of the CRO QBR.
-1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the WW Field Org Call.
+1. *[5 weeks after quarter close]* CRO recognizes Quarterly MVPs on the [WW Field Org Call](/handbook/sales/sales-meetings/#ww-field-org-call).
    1. 2 minutes per MVP + 4 minutes for the United win = +/- 15 minutes total for recognition.
 1. *[5 weeks after quarter close]* e-Cards send from CRO including details about recognition dinner
 1. *[5-6 weeks after quarter close]* Achievers recognized in the next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/)
