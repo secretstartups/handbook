@@ -107,19 +107,18 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 
 **Whether you're looking to embed video in a job ad, or create an asset to leverage in outreach, team member spotlight videos are an excellent way to provide first-hand perspectives. With a partnership with [Cinebody](https://www.cinebody.com/), we're able to build video projects and collect team member sentiment in one central place.**
 <br> - Send @cchiodo a Slack with more details about your video project including topic, use case, and team members to include
-<br> - Request participation from team members selected
 <br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo
-<br> - Asked to participat in a video? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/).
+<br> - Asked to participate in a video? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/)
 
 </details>
 
 <details><summary>Articles</summary>
 
 **Written articles are a great way to provide insight to candidates about a specific team, project, or exciting aspect of GitLab. There's several different ways to contribute an article including (please slack @cchiodo for further information about each option):**
-<br> - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies.
-<br> - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry.
-<br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post).
-<br> - Asked to participat in an article? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/).
+<br> - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies
+<br> - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry
+<br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post)
+<br> - Asked to participate in an article? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/)
 
 </details>
 
