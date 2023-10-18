@@ -68,16 +68,8 @@ There is no set career path for a Chief of Staff. As such, the role is often vie
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+The hiring process for this role is yet to be defined. It will include interviews with the CRO, and other key stakeholders on the Sales leadership team. 
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to schedule a 50 minute interview with the CRO
-- Then, candidates will be invited to schedule a 50 minute interview with the VP, Field Operations
-- Next, candidates will be invited to schedule a 50 minute interview with the VP, Enterprise Sales and a 50 minute interview with the VP, Global Channels
-- Then, candidates will be asked to complete a project
-- Next, candidates will be invited to a 80 minute face to face interview with the CRO
-- Finally, candidates may be asked to do another call with a  VP on the CRO’s Leadership team, GitLab E-Group Member or other industry professional
 
-Majority of the interviews and screening calls will be conducted via a video call. See more details about our interview process here.
 
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
