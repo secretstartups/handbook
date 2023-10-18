@@ -242,3 +242,4 @@ one or more of the following actions before making the change:
    potentially-impacted SGGs of the problem and that you are working to
    figure out a mitigation or resolution. This has been requested by SEs to
    provide some advance warning that something may change soon.
+   
