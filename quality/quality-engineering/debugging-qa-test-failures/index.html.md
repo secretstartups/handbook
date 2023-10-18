@@ -630,8 +630,6 @@ If the test was in quarantine, [remove it from quarantine](#dequarantining-tests
 
 ### Quarantining Tests
 
-> **Note** We should be very strict about quarantining tests. Quarantining a test is very costly and poses a higher risk because it allows tests to fail without blocking the pipeline, which could mean we miss new failures.
-
 The aim of quarantining a test is _not_ to get back a green pipeline, but rather to reduce the noise (due to constantly failing tests, flaky tests, and so on) so that new failures are not missed. If you're unsure about quarantining a test ask for help in the`#quality` Slack channel, and then consider adding to the list of examples below to help future pipeline triage DRIs.
 
 Examples of when to quarantine a test:
@@ -652,7 +650,17 @@ Examples of when not to quarantine a test:
 > **Note** The time limit for the fix is just a suggestion.
 > You can use your judgement to pick a different threshold.
 
-To quarantine a test:
+### Fast quarantine
+
+If a test is failing and you have good reason to quarantine it quickly you can [fast quarantine](https://gitlab.com/gitlab-org/quality/engineering-productivity/fast-quarantine/-/blob/main/README.md) it. Fast quarantine can be done by a single person, without requiring review by another engineer.
+
+You should use fast quarantine to unblock deployment pipelines and MRs if the failure is disruptive and you've ruled out bugs as the cause of the failure (e.g., you've identified that the test is stale, or flaky).
+
+> **Note**: Failing `:reliable` or `:smoke` tests in the `e2e: test-on-gdk` child pipeline will block MR pipelines as well as scheduled master pipelines. Failures of those tests are good candidates for fast quarantine.
+
+After fast quarantining, please follow the long-term quarantine process below.
+
+### Long-term quarantine
 
 - Add the `:quarantine` metadata to the test with a link to the issue (see [quarantined test types](#quarantined-test-types))
 
