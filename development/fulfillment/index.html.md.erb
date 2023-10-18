@@ -60,16 +60,12 @@ In addition to the [Fulfillment Product Direction](https://about.gitlab.com/dire
 
 <%= department_team(base_department: "Fulfillment:Fulfillment Platform Team") %>
 
-### Fulfillment:Commerce Integrations Team
-
-<%= department_team(base_department: "Fulfillment:Commerce Integrations Team") %>
-
 ## Stable counterparts
 
 The following members of other functional teams are our stable counterparts.
 
 <%=
-other_manager_roles = ['Fullstack Engineering Manager, Fulfillment:Fulfillment Platform', 'Fullstack Engineering Manager, Fulfillment:Provision', 'Fullstack Engineering Manager, Fulfillment:Utilization', 'Fullstack Engineering Manager (Interim), Fulfillment:Purchase', 'Fullstack Engineering Manager, Fulfillment:Commerce Integrations', 'Fullstack Engineering Manager, Fulfillment:Billing and Subscription Management Team']
+other_manager_roles = ['Fullstack Engineering Manager, Fulfillment:Fulfillment Platform', 'Fullstack Engineering Manager, Fulfillment:Provision', 'Fullstack Engineering Manager, Fulfillment:Utilization', 'Fullstack Engineering Manager (Interim), Fulfillment:Purchase', 'Fullstack Engineering Manager, Fulfillment:Billing and Subscription Management Team']
 
 stable_counterparts(role_regexp: /Fulfillment|Fulfillment:/, direct_manager_role: 'Senior Engineering Manager, Fulfillment, Interim Strategy and Operations Lead, China', other_manager_roles: other_manager_roles)
 %>
@@ -198,10 +194,6 @@ Every team uses the [monthly prioritization template](https://gitlab.com/gitlab-
 ### Fulfillment Platform team dashboards
 
 <%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Fulfillment Platform" } %>
-
-### Commerce Integrations team dashboards
-
-<%= partial "handbook/engineering/metrics/partials/_cross_functional_dashboard.erb", locals: { filter_value: "Commerce Integrations" } %>
 
 ### Estimation
 
