@@ -107,7 +107,7 @@ We use MITRE's "[ATT&CK Navigator](https://github.com/mitre-attack/attack-naviga
 
 This is great way to visualize the types of attack techniques we've emulated, and to help us understand areas we should focus on in future operations.
 
-GitLab team members can [access the application](https://red-team-dashboard-gitlab-com-gl-security-threat-6d74b7b3ac5937.gitlab.io/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
+GitLab team members can [access the application](https://navigator.gl-redteam.com/) as well as [the project that builds it](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-internal/automation/ci-attack-navigator).
 
 #### Red Team Maturity Model
 
