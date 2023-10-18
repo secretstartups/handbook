@@ -38,12 +38,18 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
     regions
   - each group has a representative blend of tenure and skill level
   - product expertise is distributed reasonably between the groups
-  - the groups are all named after trees from around the world:
-    - [Baobab](groups/baobab)
-    - [Ginkgo](groups/ginkgo)
-    - [Kapok](groups/kapok)
-    - [Maple](groups/maple)
-    - [Pine](groups/pine)
+  - each manager is aligned with one or more groups 
+  - the groups are all named after trees from around the world
+
+#### The Groups and the Aligned Managers
+
+| Group | EMEA Managers | AMER Managers | APAC Managers |
+| ----- | ------------- | ------------- | ------------- |
+| [Baobab](groups/baobab) | Erika, Ilia   | Aric, Izzy | Jane, Ket, Wei-Meng |
+| [Ginkgo](groups/ginkgo) | Erika, John   | Aric, Izzy, Ronnie | Jane, Ket, Wei-Meng |
+| [Kapok](groups/kapok)   | John, Rebecca | Aric, Mike | Jane, Ket, Wei-Meng |
+| [Maple](groups/maple)   | Rebecca, Tine | Izzy, Izzy, Ronnie | Jane, Ket, Wei-Meng |
+| [Pine](groups/pine)     | Ilia, Tine    | Mike, Ronnie | Jane, Ket, Wei-Meng |
 
 #### Zendesk
 
