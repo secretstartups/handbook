@@ -239,6 +239,8 @@ As the DRI for an Epic, the engineer is **not** responsible for executing all th
 1. Making technical decisions.
 1. Providing status updates when requested.
 1. Identifying and communicating blockers.
+1. Identifying potential security implications and involve a security engineer if necessary
+1. Take measurements to [reduce the impact of far-reaching work](/handbook/engineering/expansion-development/#reducing-the-impact-of-far-reaching-work)
 
 The DRI may choose to refine and work on the issues they created but they're not expected to
 deliver the whole Epic on their own.
