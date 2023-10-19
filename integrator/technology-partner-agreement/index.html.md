@@ -18,7 +18,9 @@ title: "Technology Partner Agreement"
 
 This Technology Partner Agreement (the “**Agreement**”) is made as of the date in which the Partner accepts the terms of this Agreement by clicking “agree” or “accept” (the “**Effective Date**”) by and between GitLab and Partner (referred to herein as “**Party**”, or collectively as the “**Parties**”). In consideration of the mutual agreements contained herein and intending to be legally bound hereby, the Parties agree as follows:
 
-1. **DEFINITIONS.** Capitalized terms used in this Agreement shall be defined where first used or as follows
+### 1. **DEFINITIONS** 
+
+Capitalized terms used in this Agreement shall be defined where first used or as follows
 
 1.1 **“Affiliates”** means, with respect to a Party, any entity that directly or indirectly controls, is controlled by, or is under common control with such Party, where “control” means at least fifty percent (50%) ownership of the outstanding shares of the entity or the ability to direct the management of the entity by contract or otherwise.
 
@@ -42,13 +44,13 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 1.11 **“Trademarks”** means a Party’s corporate name, primary logo, and primary “button” or “icon” for use within others’ software to indicate an available integration, and any other logos, service marks, trademarks and certification marks that one Party expressly authorizes the other Party to use under this Agreement in writing.
 
-2. **PURPOSE**
+### 2. **PURPOSE**
 
 2.1 Subject to the terms of this Agreement, as well as any eligibility or other prerequisites for participation as set forth in the GitLab Alliance Partner Program as determined in GitLab’s sole discretion, Partner may create an integration (“**Partner Integration**”) on and/ or within Partner platform, software, and/or solution (“**Partner Product(s)**”) which may enable GitLab customers to request information, or enable activity, from GitLab Software and/or GitLab branded products or services (“**GitLab Product(s)**”).
 
 2.2 Upon Partner meeting full participation requirements as set forth in the GitLab Alliance Partner Program, and subject to Section 4 below, the Parties wish to exchange certain limited license rights to their respective company trademarks and marketing collateral so that each Party may advertise the Partner Integration and corresponding value for GitLab Product(s).
 
-3. **REGISTRATION & USE RIGHTS**
+### 3. **REGISTRATION & USE RIGHTS**
 
 3.1 Partner shall follow the registration or credentialing requirements (if any) established by GitLab within this Agreement, as well as, the GitLab Alliance Partner Program, which includes Partner’s use of, and GitLab’s discretion to provide GitLab Developer Resources.
 
@@ -58,7 +60,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 3.4 Partner and GitLab acknowledge and agree that GitLab Free Software may be limited in functions, features, maintenance, support and contain other limitations not present in GitLab Software purchased. For more information on GitLab’s Alliance Program and NFR license eligibility, please visit: https://about.gitlab.com/handbook/alliances/. Should Partner meet the eligibility requirements of the Alliance Program, as determined in GitLab’s sole discretion, the grant and use of the GitLab Free Software shall be subject to the applicable terms within GitLab’s Subscription Agreement, which can be found at: https://about.gitlab.com/handbook/legal/subscription-agreement/.
 
-4. **OWNERSHIP RIGHTS & TRADEMARKS**
+### 4. **OWNERSHIP RIGHTS & TRADEMARKS**
 
 4.1 Subject  to Partner compliance with this Agreement and satisfying the GitLab Alliance Partner Program requirements, including the certification of a Partner Integration,  the Parties may elect to enter into a separate agreement  or form of amendment hereto for the promotion of, and joint sales of, the GitLab Products and Partner Products, as to be mutually agreed between the Parties in writing including the use of any Collateral or Trademarks designated for such use pursuant to this Agreement as contemplated under Section 4.2 and any other use by a Party approved in writing by the other Party.
 
@@ -68,7 +70,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 4.4 Partner and its third-party licensors (as applicable) shall retain all ownership and other rights in the Partner Integrations, Partner Products, and Partner Trademarks. GitLab and its third-party licensors (as applicable) shall retain all ownership and other rights in the Gitlab Developer Resources, GitLab Products and GitLab Trademarks, including all intellectual property rights. Providing feedback, comments, or suggestions about the GitLab Developer Resources or GitLab Products ("**Feedback**") to GitLab is wholly voluntary. By providing Feedback, Partner grants GitLab a worldwide, royalty-free, non-exclusive, perpetual and irrevocable license to use, copy, modify, sublicense and otherwise exploit the Feedback (including any ideas, concepts, methods, know-how or techniques embodied in Feedback) for any purpose, without any restriction or obligation to Partner based on intellectual property rights or otherwise.
 
-5. **SUPPORT & GITLAB PRODUCTS**
+### 5. **SUPPORT & GITLAB PRODUCTS**
 
 5.1 GitLab, at its own cost and expense, shall be responsible for providing support (if any) to end users for GitLab Products and services.
 
@@ -82,7 +84,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 5.6 This Agreement does not, and Partner shall not resell GitLab Products or create any binding commitment on behalf of GitLab. In addition, Partner may not directly or indirectly charge end users for use of, or access to, the functionality of the GitLab Products or GitLab Developer Resources.
 
-6. **TERM & TERMINATION**
+### 6. **TERM & TERMINATION**
 
 6.1 The initial term of this Agreement shall commence on the Effective Date and shall expire one (1) year later (the “Initial Term”). The Initial Term of this Agreement shall automatically renew for successive one (1) year renewal periods unless terminated as described below. The period of time from the Effective Date until the termination of this Agreement, including the Initial Term, is the “Term.”
 
@@ -92,7 +94,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 6.4 Upon any termination of this Agreement, Partner’s rights to use GitLab Developer Resources (including related access keys and credentials) and GitLab Trademarks will immediately terminate and Partner will cease all such use, but all other provisions of this Agreement will survive. GitLab will have no obligation or liability resulting from termination or suspension of this Agreement, as permitted herein.
 
-7. **CONFIDENTIALITY**
+### 7. **CONFIDENTIALITY**
 
 7.1 “**Confidential Information**” means the terms and conditions of this Agreement, and any other non-public technical or business information of a Party, whether provided orally or in writing, that is designated in writing as “Confidential” or “Proprietary” at the time of disclosure or that due to the nature of the information the receiving Party would reasonably understand it to be confidential information of the disclosing Party, including information relating to a Party’s techniques, ideas, concepts, algorithms, source code, methodologies, workflows, implementation processes, current and future products and services, research, engineering, designs, financial information, procurement requirements, customer lists, business forecasts, roadmaps, marketing plans, pricing, discounts and proposals. Notwithstanding the foregoing, Confidential Information shall not include information or data which is captured in either Parties products and services.
 
@@ -106,7 +108,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 7.6 The Parties agree that the receiving Party’s disclosure of Confidential Information, except as provided herein, would result in irreparable injury for which a remedy in money damages would be inadequate. The Parties further agree that in the event of such disclosure or threatened disclosure: (a) the disclosing Party shall be entitled to seek an injunction to prevent the breach or threatened breach in addition to any other remedies available to the disclosing Party at law or in equity; and (b) each Party hereby acknowledges that such an injunction is appropriate and warranted in such case. Unless specifically provided otherwise in this Agreement, remedies arising under this Agreement are cumulative and do not exclude any other remedies available at law or in equity. All Confidential Information disclosed under this Agreement will remain the property of the disclosing Party. No license or right under any intellectual property right is granted under this Agreement or by any disclosure of Confidential Information except as expressly stated in this Agreement.
 
-8. **WARRANTY & INDEMNIFICATION**
+### 8. **WARRANTY & INDEMNIFICATION**
 
 8.1 Both Parties hereby represent and warrant that they are legally entitled to enter into this Agreement.
 
@@ -114,17 +116,17 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 8.3 Partner will indemnify, defend (at GitLab’s request) and hold harmless GitLab and its Affiliates and their respective directors, officers, employees, agents, contractors, end users and licensees from and against any claims, losses, costs, expenses (including reasonable attorneys' fees), damages or liabilities based on or arising from (a) the Partner Integration and any derivatives / combination of the Partner Integration with GitLab Products and/or GitLab Developer Resources, (b) Partner’s relationships or interactions with any end users or third party distributors of the Partner Integration. GitLab may at its own expense participate in the defense and settlement of any claim with its own counsel, and the Partner may not settle a claim without GitLab's prior written consent (not to be unreasonably withheld).
 
-9. **LIMITATIONS OF LIABILITY**
+### 9. **LIMITATIONS OF LIABILITY**
 
 9.1 WITH THE EXCEPTION OF PARTNER’S, (A) INDEMNIFICATION OBLIGATIONS UNDER SECTION 8.3, (B) OBLIGATIONS UNDER SECTION 10 (EXPORT) AND SECTION 11 (GITLAB CUSTOMER DATA), TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR LOST PROFITS OR REVENUE OR LOSS OF USE OR DATA, COSTS OF COVER OR SUBSTITUTE GOODS OR SERVICES, OR FOR INCIDENTAL, CONSEQUENTIAL, PUNITIVE, SPECIAL OR EXEMPLARY DAMAGES, OR INDIRECT DAMAGES OF ANY TYPE OR KIND, HOWEVER CAUSED, RELATED TO OR ARISING OUT OF THIS AGREEMENT OR THE RIGHTS, LICENSES, PRODUCTS OR SERVICES PROVIDED UNDER THIS AGREEMENT, WHETHER BY BREACH OF WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 9.2 WITH THE EXCEPTION OF PARTNER’S, (A) INDEMNIFICATION OBLIGATIONS UNDER SECTION 8.3, (B) OBLIGATIONS UNDER SECTION 10 (EXPORT), SECTION 11 (GITLAB CUSTOMER DATA), AND SECTION 12 (GENERAL PROVISIONS),TO THE EXTENT PERMITTED BY LAW, THE TOTAL, CUMULATIVE LIABILITY OF EACH PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE RIGHTS, LICENSES, PRODUCTS OR SERVICES PROVIDED UNDER THIS AGREEMENT, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, SHALL BE LIMITED TO FIVE HUNDRED U.S. DOLLARS ($500.00).
 
-10. **EXPORT**
+### 10. **EXPORT**
 
 10.1 The GitLab Developer Resources and GitLab Products are subject to export restrictions by the United States government and import restrictions by certain foreign governments. Partner agrees to comply with all applicable export and import laws and regulations in its use of the GitLab Developer Resources and/or GitLab Products. Partner shall not (and shall not allow any third-party to) remove or export from the United States or allow the export or re-export of any part of the GitLab Developer Resources or GitLab Products: (a) into (or to a national or resident of) any embargoed or terrorist-supporting country; (b) to anyone on the U.S. Commerce Department's Table of Denial Orders or U.S. Treasury Department's list of Specially Designated Nationals; (c) to any country to which such export or re-export is restricted or prohibited, or as to which the United States government or any agency thereof requires an export license or other governmental approval at the time of export or re-export without first obtaining such license or approval; or (d) otherwise in violation of any export or import restrictions, laws or regulations of any United States or foreign agency or authority. Partner represents and warrants that it is not located in, under the control of, or a national or resident of any such prohibited country or on any such prohibited party list.
 
-11. **GITLAB CUSTOMER DATA**
+### 11. **GITLAB CUSTOMER DATA**
 
 11.1 If Partner transmits Customer Data to a system outside the GitLab Software, Partner shall notify users with access to Customer Data that their Customer Data will be transmitted to a system outside GitLab and that GitLab is not responsible for the privacy, security or integrity of such data.
 
@@ -132,7 +134,7 @@ This Technology Partner Agreement (the “**Agreement**”) is made as of the da
 
 11.3 Partner shall also maintain and handle all Customer Data with reasonably adequate privacy and security measures and in compliance with all applicable privacy laws and regulations.
 
-12. **GENERAL PROVISIONS**
+### 12. **GENERAL PROVISIONS**
 
 12.1 Each Party shall comply with all laws and regulations applicable to its performance of its obligations under this Agreement, including without limitation data privacy laws and export control laws and regulations.
 
