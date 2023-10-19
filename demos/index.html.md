@@ -10,7 +10,7 @@ title: Engineering Demo Process
 {:toc .hidden-md .hidden-lg}
 
 Occasionally, it is useful to set up a demo on a regular cadence to ensure cross-functional iterative alignment.
-This is helpful for high-impact deliverables that require integration across multiple functional teams. This is in-line with the seventh principle of the [Agile Manifesto](https://agilemanifesto.org/principles.html): "Working Software is the best measure of process".
+This is helpful for high-impact deliverables that require integration across multiple functional teams. This is in-line with the seventh principle of the [Agile Manifesto](https://agilemanifesto.org/principles.html): "Working Software is the best measure of progress".
 
 ## Demo script
 
