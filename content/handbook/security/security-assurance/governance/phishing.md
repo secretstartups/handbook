@@ -222,9 +222,8 @@ What should you do if you receive a potential phishing email or text [\(smishing
 
 1. If you are unsure whether the text or email is legitimate, contact [Security]({{< ref "." >}}) to review, and confirm via the #ceo Slack channel.
 1. If the email is determined to be fake, follow the instructions for [phishing attacks]({{< ref "phishing#what-to-do-if-you-suspect-an-email-is-a-phishing-attack" >}}) below.
-1. If the text is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
+1. If the text, including those received on apps like WhatsApp or Signal, is determined to be fake: block the number, notify [Security](/handbook/security/#-contacting-the-team), and delete the text.
   - If using iOS, [report the message as spam or junk](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
-1. If the text recieved on Mobile apps like WhatsApp or Signal is determined to be fake, notify [Security](/handbook/security/#-contacting-the-team), report and block the number.
 
 ### What to do if you suspect something else is suspicious
 
