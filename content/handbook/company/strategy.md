@@ -4,6 +4,10 @@ description: "GitLab has a 3 year strategy to be the leading complete DevSecOps 
 canonical_path: "/company/strategy/"
 ---
 
+## Current strategy
+
+**[Current strategy in the internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
+
 ## Three Year Strategy
 
 Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy). It also maps to and reflects GitLab's [mission](/company/mission/), [vision](/company/vision/) and [values](/handbook/values/). It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration) when there is reason to do so.
@@ -12,8 +16,6 @@ Along the road to realizing our mission of **everyone can contribute**, our
 strategic goal is to be the leading complete [DevSecOps Platform](/solutions/devops-platform/). We help our customers build better software faster including developing cloud native applications, building mobile applications, and incorporating machine learning and artificial intelligence into their products and solutions. We believe that our [dual flywheels](#dual-flywheels) (single application + open-core model) will propel us to efficiently be the default choice in the Enterprise market.
 
 As we execute on our strategy, it is important to use our financial targets as guide rails and mature our internal processes for building a durable business for the long-term.
-
-**Strategy details are available in GitLab's [internal handbook](https://internal.gitlab.com/handbook/company/three-year-strategy/).**
 
 ## Principles
 
