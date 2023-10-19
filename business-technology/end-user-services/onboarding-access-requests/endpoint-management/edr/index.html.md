@@ -246,3 +246,25 @@ Expect SentinelOne to use less than 10% of total CPU power (for example, display
 3. Collect the metric log:
 `sudo sentinelctl profiler stop`
 4. Analyze the data as below, and then if needed share the file with #sentinelone and we will get a ticket open with SentinelOne support.
+
+### My SentinelOne agent is offline
+
+The most common reason for a SentinelOne agent to appear offline is a local firewall prohibiting outbound connections to `*.sentinelone.net`. HTTPS (port 443) needs to be allowed outbound to that domain. For macOS, the most common local firewalls are Little Snitch, pfSense or Lulu. Linux users may have pfSense or iptables blocking access. To check status of your agent:
+
+On macOS, open a Terminal prompt and run: 
+``` shell
+sudo sentinelctl status
+```
+
+and look for the status of `Connected: ` (should be "on"). Resolve the local firewall block and it should re-connect.
+
+On Linux, run:
+```shell
+sudo sentinelctl management status
+```
+ You should see `Connectivity: On` and a valid SentinelOne URL.
+   If this is not your result, reach out for assistance in the
+   [`#sentinelone`](https://gitlab.slack.com/archives/C043PF9TU4X) channel.
+
+
+
