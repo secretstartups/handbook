@@ -234,6 +234,7 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - T. Threat Management
         - U. Server Security
         - V. Cloud Hosting Services
+{{% /details %}}
 
 {{% details summary="Professional Services SIG" %}}
 - [SIG Professional Services](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
