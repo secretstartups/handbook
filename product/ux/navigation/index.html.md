@@ -39,15 +39,19 @@ We do not add new items in order to:
 | Date  | Reason |
 | ----- | ------ |
 | May 15 - June 30, 2023 | No navigation additions/changes due to Longitudinal Study |
-| July 1 - Dec 30, 2023 | No top-level changes to Projects or Group Sidebar (except from Longitudinal study feedback) |
+| July 1 - Dec 30, 2023 | No top-level changes to Projects or Group Sidebar (except from Longitudinal study feedback) so users do not have a constantly changing experience during the navigation launch |
 | Post June 30, 2023 | Second-level navigation and Settings proposals that are approved may merge |
 
 ### Process to open a navigation approval request
 
-1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes.
 1. It is recommended to propose a navigation change 2 milestones ahead of when you want to release. This allows enough time for collaboration between the team requesting navigation changes and Product/UX counterparts in Foundations.
+1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. 
+1. Review the [list of navigation](/handbook/product/ux/navigation/#what-are-considered-navigation-changes) changes and what they are to make sure your change qualifies.
+1. The most important requirements:
+   1. Familiarize yourself with feature discovery in the [product handbook](/handbook/product/product-principles/#discoverability-without-being-annoying) as well as our [design system](https://design.gitlab.com/usability/feature-discovery). Provide comprehensive context including alternative options explored (such as Explore, common entry points for your persona, and settings pages), which option is best suited in a given scenario & why, current and future discovery path, as well as a visual representation of proposed changes.
+   1. Successful engagements with the Foundation teams usually include active participation by the product manager and designer on the proposal issue. Conducting proactive designs, user research, and using customer insights to [validate](https://about.gitlab.com/handbook/product-development-flow/#validation-phase-4-solution-validation) the proposal will ensure results inform the proposal.  
 1. If you are ready to propose a navigation change, use this [issue template](https://gitlab.com/gitlab-org/gitlab/-/issues\new?issuable_template=Navigation%20Proposals) to kick off a discussion with the `group::foundations` team.
-1. The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) must approve any proposal as the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual). They will consult with UX counterparts to consider the impact on the user experience based on user research and business needs. UX and Product Management leadership may also be engaged for feedback when necessary. Turnaround time from Foundations team will be 1 milestone.
+1. The [Product Manager for Foundations](/handbook/product/categories/#foundations-group) is the [DRI](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual) for navigation changes. Designers on Foundations will assist the DRI in reviewing the proposal and provide input. The typical turnaround time from the Foundations team will be 1 milestone.
 1. When you have approval and are ready to start implementation, then follow the [GitLab Docs on adding items to the navigation](https://docs.gitlab.com/ee/development/navigation_sidebar.html#adding-page-specific-vue-content).
 
 ### What are considered navigation changes
