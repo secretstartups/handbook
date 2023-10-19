@@ -66,9 +66,9 @@ Per the current [Referral Submission Process]({{< ref "referral-process#submitti
 
 Our Inbound Sourcing team runs point on responding to questions related to referrals in the #talent-acquisition slack channel and ensures that the referrer is credited as the source of a referred candidate.
 
-The Talent Acquisition Team uses the [GitLab Service Desk](https://about.gitlab.com/stages-devops-lifecycle/service-desk/) to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
+The Talent Acquisition Team uses the a GitLab Service Desk to track incoming emails to the `referral@gitlab` email. These emails will, in turn, show up as `Issues`.
 
-To set-up notifications for the [Referral Service Desk Project](https://gitlab.com/gl-talent-acquisition/referrals), please do the following:
+To set-up notifications for the [Referral Service Desk Project](https://gitlab.com/gl-talent-acquisition/operations/), please do the following:
 
 1. Click on the `Bell` icon in the upper right corner (next to `Star` and `Clone`).
 1. Go to `Custom Settings`.
@@ -102,28 +102,3 @@ Each session will have a corresponding Issue linked and in that, we ask that you
 
 A Talent Acquisition Team Member will attend these sessions, so they be able to address any questions that arise on sourcing, LinkedIn, or Greenhouse.
 
-#### Referral Rejection Notifications
-
-In the event that a *Referral* is rejected based on their location factor the following steps will need to be taken by the requisition's **Recruiter**:
-
-1. Send the rejection email to the candidate via Greenhouse using the `Referral Declined - Not ELF` template.
-1. Search for the **closed** referral submission Issue for the respective candidate and add the following comment:
-
-> Thank you again for submitting `CANDIDATE_FIRST_NAME` to the `REQUISITION_TITLE` role.
->
-> Unfortunately, we’re unable to move forward with `CANDIDATE_FIRST_NAME`’s candidacy right now because they are located in a higher location factor area. With our [outbound hiring model]({{< ref "candidate-faq" >}}), the > Talent Acquisition team is focused on building a more diverse team in the most efficient way. This allows us to support our all-remote vision: to spread opportunity to underserved locales, and to influence the increase of wages for remote work outside of metro areas.
->
-> `CANDIDATE_FIRST_NAME` has received an email from our team explaining this. We’ve also added some clarity about this in the [Referral Submission Issue Template]({{< ref "referral-process#submitting-a-referral" >}}) now to be sure team members consider this before they submit their referral.
->
-> We appreciate your understanding and hope you’ll continue to refer talented people to GitLab!
-
-#### Ensuring Referral Confidentiality
-
-Once a week, a Talent Acquisition Operations & Insights Team Member will check to make sure that all submitted referral Issues are marked as `Confidential`.
-
-To do that, please take the following steps:
-
-1. Navigate to the [Issues](https://gitlab.com/gl-talent-acquisition/referrals/-/issues) section of the Referrals Project.
-1. Clicked on `Closed` Issues.
-1. Set the following filter: `Confidential = No` and run the search.
-1. If any Issues appear, please edit the `Confidentiality` section in the right column.
