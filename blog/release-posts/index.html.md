@@ -523,6 +523,8 @@ A feature should be `primary` if the feature:
 - Has high demand from customers or the wider community (measured by discussion or upvotes on an epic/issue)
 - Feature ties into a current Marketing narrative or campaign
 - All `primary` features should have a corresponding entry in `features.yml` as well as a photo or video in the release post item block.
+- Beta features may be included as primary, secondary items, or as an extra, but must clearly reflect the `Beta` status. 
+- Experimental features are not to be included in release posts.
 
 ### Reviews
 
