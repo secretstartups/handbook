@@ -301,6 +301,26 @@ Pursuant to GitLab's Transparency value, all GitLab team members will have acces
 
 User Groups are the only prescribed method we use for setting permissions across the Tableau site. A User Group is a collection of users that can be based on a topic, project, or organization structure, that will need to have the same set of access and permissions for content. All users will be a member of their business department User Group and can be added to more User Groups as required. The assignment of users to groups will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group.
 
+##### Limited Access User Groups
+
+- General SAFE Access
+  - This group allows viewing of and developing with data that contains material non-pulic informaion that should be keept SAFE.  Team members must be on the designatged insters list to be added to this group.
+
+- RSA SAFE Access
+  - This group is for the Revenue Strategy and Analytics team and is restricted because analysis performed are confidential planning efforts that may impact people roles. Team members must be on the Designated Insiders list to be added to this group.
+
+- Self-Service SAFE Access
+  - Team members must be on the designatged insters list to be added to this group.
+
+- People Restricted Access
+
+- Internal Audit Restricted Access
+
+- ASM Restricted Access
+
+- ASM EMEA Commercial Restricted Access
+  - This project allows access to the ASM EMEA Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
+
 <details markdown=1>
 
 <summary><b>Example User Group</b></summary>
