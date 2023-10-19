@@ -115,7 +115,8 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 #### Support Engineer User Guidance for Opening a Request For Help Issue
 
    ##### Thorough Research and Investigation:
-      Use the following repositories and resources for indentifying similar issues or requests:
+      
+      Use the following repositories and resources for identifying similar issues or requests:
       - Zendesk for related tickets.
       - Previous GitLab Application [bugs and feature requests](https://gitlab.com/gitlab-org/gitlab/-/issues).
       - Previously logged GitLab.com issues.
