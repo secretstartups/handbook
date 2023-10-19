@@ -305,9 +305,18 @@ To help structure your usage of the above, you can follow the steps below during
 |  [SDR Event Tracker Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1718115) | Used to follow upcoming events globally | 
 |  [SDR Sisense Dashboard](https://app.periscopedata.com/app/gitlab/641469/WIP:-SDR-Metrics-Update) | Dashboard to monitor SDR leads and meetings  |  
 |  [MQL & SAO Performance vs. Target Sisense Dashboard](https://app.periscopedata.com/app/gitlab/628196/Revised-Marketing-Metrics) | Monitoring MQL and SAO performance in comparison to our goals  |
-|  [AMER Large Watch and Help Board](https://gitlab.my.salesforce.com/01ZPL00000069v3) - [EMEA/APAC Large Watch and Help Board](https://gitlab.my.salesforce.com/01Z4M000000soBO) - [SDR Inbound Watch and Help Board](https://gitlab.my.salesforce.com/01Z4M000000soBT) - [MM Watch and Help Board](https://gitlab.my.salesforce.com/01Z4M000000snjZ) - [PubSec Watch and Help Board](https://gitlab.my.salesforce.com/01Z4M000000sney) | Monitoring Contact Requests, Qualifying Leads, IQMs, and Paused/Failed Sequences 
+
 |  [Lead View Descriptions](https://about.gitlab.com/handbook/marketing/sales-development/#lead-and-contact-views) | There are Manager Lead views in SFDC mirroring the SDR and BDR views which are described on the linked Handbook page on the left. These views need to be checked regularly by managers to ensure all necessary leads are being worked.
 
+##  Watch and Help Boards
+
+| Teams | Boards |   
+| :----: | :-----: | 
+|  **AMER ENTERPRISE TEAMS**  | [AMER ENTERPRISE DAILY BOARD](https://gitlab.my.salesforce.com/01ZPL00000069v3) -  [AMER ENTERPRISE MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL00000069VF) | 
+|  **EMEA and APAC ENTERPRISE TEAMS**  | [EMEA/APAC ENTERPRISE DAILY BOARD](https://gitlab.my.salesforce.com/01Z4M000000soBO) -  [EMEA/APAC ENTERPRISE MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL0000006ABB) | 
+|  **MM TEAMS**  | [MM TEAMS DAILY BOARD](https://gitlab.my.salesforce.com/01Z4M000000snjZ) -  [MM TEAMS MONTHLY BOARD](https://gitlab.my.salesforce.com/01ZPL0000006AW9) | 
+|  **PubSec Team**  | [PubSec Team BOARD](https://gitlab.my.salesforce.com/01Z4M000000sney) | 
+|  **SDR Inbound Teams**  | [SDR Inbound Teams BOARD](https://gitlab.my.salesforce.com/01Z4M000000soBT) | 
 
 ## Sales_Dev_fyi Channel Information
 
