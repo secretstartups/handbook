@@ -55,11 +55,11 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 
 ## FP&A Processes
 
-### Plan
+### Annual Operating Plan ("AOP")
 
-- **What**: The Plan includes the annual strategy, business plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Plan is a three statement (Income Statement, Balance Sheet, and Statement of Cash Flow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off of the bookings plan and expenses are planned at the headcount and vendor level.
-- **Purpose**: GitLab's Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
-- **Governance**: The Plan is approved by the board of directors every year.
+- **What**: The AOP includes the annual strategy, business plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The AOP is a three statement (Income Statement, Balance Sheet, and Statement of Cash Flow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off of the bookings plan and expenses are planned at the headcount and vendor level.
+- **Purpose**: GitLab's AOP identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
+- **Governance**: The AOP is approved by the board of directors every year.
 
 #### Annual Planning Steps
 
@@ -77,20 +77,21 @@ FP&A comprises five different sub-teams to support our FP&A goals:
 - Show trending of key metrics as output of the Plan
 - Capture Plans to drive key metrics
 - Capture X-functional dependencies of execution
+- Document business plans for key drivers and initiatives of the year, e.g. new products
 - Revise and update the annual sales compensation plan
 - Set annual quota assignments for revenue producing roles
 
-#### FY24 Plan
+#### FY24 AOP
 
 Final FY24 Planning documents are on Google Drive, please find the links in the [Internal Handbook](https://internal.gitlab.com/handbook/finance/documents/). These include:
 
-- FY24 Plan Board Approval Presentation
-- FY24 Plan SSOT Hiring List
+- FY24 AOP Board Approval Presentation
+- FY24 AOP SSOT Hiring List
 - FY24 Bookings Quarterization
 
 All of the data for these planning documents are locked in our Adaptive Planning instance (Adaptive Planning can only be accessed by FP&A.)
 
-#### FY25 Plan Milestones
+#### FY25 AOP Milestones
 
 Key planning milestones are listed below. For a more detailed timeline and planning checklist please engage your FP&A business partner.
 
@@ -147,6 +148,48 @@ The following are inputs in the LRO refresh and subsequent LRO updates:
 - PP&E/Capex purchases
 
 The Corporate Finance team leads the LRO refresh and updates in collaboration with: eGroup members to determine key investments, capabilities, and dependencies; GTM Finance team for sales productivity/capacity models, CTB, and bookings attainment; G&A Finance team for total rewards strategy, benefit assumptions; and the R&D Finance team to help inform on allocations, hosting/infrastructure expenses.
+
+
+
+## Business Planning
+
+#### Business Planning Goal
+
+For GitLab’s top growth drivers and new products, drive and document alignment between contributors to success. Writing a business plan drives clarity of thought and operations. Agree on governance models to manage initiative success and cross-functional accountability. At a minimum, each business plan should cover:
+ - Explain what an initiative is, why we should be focused on it.
+ - Identify how each function will support its success, what are dependencies & risks.
+ - Identify how we measure success, e.g. pipeline or bookings goals.
+
+#### Business Planning Details
+
+ - **Product plan** - what are product features to ship, by when? What is committed and what is at risk? What are competitive considerations? If there are phases, what is in scope for each phase?
+ - **Pricing plan** - what is the pricing strategy, what are open decisions, what is the margin structure?
+ - **Marketing plan** - how will product marketing and demand generation support the business plan.
+ - **Sales plan** - what are the drivers of the sales plan? What is the quarterly Plan for  bookings? What are assumed attach rates, penetration rates, adoption rates, where is there uncertainty? What is the field enablement plan?
+ - **Services plan** - if applicable, how can enhanced services improve sales and adoption?
+ - **Operational plan** - what infrastructure do we need (fulfillment, IT, rev rec, legal, security, etc.)
+ - **Financial plan** - gross margin and contribution to P&L, if applicable
+
+#### Key Contributors
+
+- Driver: FP&A
+- Contributors
+   - Product: lead PM(s), pricing lead
+   - Marketing: leads within both Product Marketing and Demand Gen
+   - Sales: Regional VPs, RS&A, GTM FP&A
+   - Support/Services
+   - As needed: fulfillment, IT, accounting, legal, security
+- Approvers / Informed:
+   - CFO, CRO, CMO, CPO, eGroup
+
+#### Review and Governance
+
+- Contributors (above) agree on business plan and review with eGroup members for feedback. Include proposed measurement plan (e.g. bookings or pipeline goals)
+- On a defined cadence (monthly or other), review product accomplishments vs. plan
+- On a defined cadence (monthly or other), review GTM measures of success vs. plan
+- On a defined cadence (quarterly or other), review P&L impact vs. plan
+- Each quarter, refine success goals/metrics based on learnings to iterate on plan of record
+
 
 ## Quarterly & Monthly Cycle (incl. close, variance, forecast, guidance)
 
