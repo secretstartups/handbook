@@ -138,27 +138,32 @@ Our GKE nodes are configured from the start with this mirror already in place pr
 
 [Source](https://docs.google.com/drawings/d/1-j_nFW7EJ01Te26f6zZzFNaPboVzVUtAmuFBbqzztVQ/edit), GitLab internal use only
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRbtcZrFV_XALpBm-kKaWGPR1Si0hKIc4QWh0PiAs00NftY4ZqVke_3e5fDc3yPzj7ENPBNivMFRtpJ/pub?w=960&h=720">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vTL1CvbRbxx3Q9iEQGntgdQ6Vw4iSc5eokogS-0UvBj5mEMbJIz0nKAh8SBaInmdXpwblRju2tcFNs6/pub?w=960&amp;h=720">
 
-[Source](https://docs.google.com/drawings/d/1uXr2NVEdpWgmIrrveJBapYdTwZcm8NdQGbQCVsGut-Y/edit), GitLab internal use only
+[Source](https://docs.google.com/drawings/d/1vz4cluxqoccE2REyJLfLOM2etJjPvYvonwJoIHMtC2w/edit), GitLab internal use only
 
-GitLab.com uses several redis shards for various use cases such as caching, rate-limiting, sidekiq queueing. More info on various redis shards, their
-configuration, and usage can be found in the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/tree/master/roles) and [GitLab](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/redis).
+GitLab.com uses several Redis shards for various use cases such as caching, rate-limiting, Sidekiq queueing. More info on various Redis shards, their
+configuration, and usage can be found in the [chef-repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/tree/master/roles) and [GitLab](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/redis). The relationship between Redis instances and GitLab deployments can be tracked via this [Thanos link](https://thanos-query.ops.gitlab.net/graph?g0.expr=avg%20by%20(type%2C%20storage)%20(gitlab_redis_client_requests_total%7Benv%3D%22gprd%22%7D)&g0.tab=1&g0.stacked=0&g0.range_input=1h&g0.max_source_resolution=0s&g0.deduplicate=1&g0.partial_response=0&g0.store_matches=%5B%5D).
 
 **Redis Infrastructure Strategy**
 
 GitLab.com's Redis, as seen from above, is mostly Redis Sentinel deployed on VMs. There are plans to deploy Redis in Cluster mode (for horizontal scalability) in [epic-823](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/823) and/or migrate from VM to Kubernetes (reduce engineering toil) in [epic-618](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/618). The table below summarises the current and expected states of various Redis types:
 
-
 | Type | Current Setup | Expected Future Setup | Driver of State Change |
 | ------------ | --- | ------- | ------- |
-| RateLimiting | Redis Sentinel on VM | Redis Sentinel on K8s | Reduce toil |
-| Cache | Redis Sentinel on VM | Redis Cluster on VM | CPU Saturation |
+| Cache | Redis Cluster on VM | Redis Cluster on K8s | Reduce toil |
+| ChatCache | Redis Cluster on VM | Redis Cluster on K8s | Reduce toil  |
+| DbLoadBalancing | Redis Sentinel on VM | Redis Cluster on K8s | Reduce toil  |
+| FeatureFlag | Redis Cluster on VM | Redis Cluster on K8s | Reduce toil  |
+| PubSub | Redis Sentinel on K8s | - | - |
+| Queues | Redis Sentinel on VM | Redis Sentinel on K8s |  Reduce toil |
+| QueuesMeta | Redis Cluster on VM | Redis Cluster on K8s |  Reduce toil |
+| RateLimiting | Redis Cluster on VM | Redis Cluster on K8s | Reduce toil  |
 | Registry Cache | Redis Sentinel on k8s | - | - |
+| Repository Cache | Redis Sentinel on VM | Redis Cluster on K8s | CPU saturation |
+| Sessions | Redis Sentinel on VM | Redis Sentinel on K8s | Reduce toil |
 | SharedState | Redis Sentinel on VM | Redis Cluster on VM | CPU Saturation |
 | TraceChunks | Redis Sentinel on VM | Redis Sentinel on K8s | Reduce toil |
-| Queues | Redis Sentinel on VM | Redis Sentinel on K8s |  Reduce toil |
-| Sessions | Redis Sentinel on VM | Redis Sentinel on K8s | Reduce toil |
 
 When needed we also sometimes deal with CPU saturation by making application changes. Some of the techniques for this are discussed in [this video](https://youtu.be/qgK8TPTZllU).
 
