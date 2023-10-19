@@ -73,26 +73,23 @@ Create a [webcast idea issue](https://gitlab.com/gitlab-com/marketing/demand-gen
 * [landing page copy]() - `doc to be added by Marketing Programs` ([clone the template here](https://docs.google.com/document/d/1xHnLKPCaXrpEe1ccRh_7-IqgNbAlzQsZVc-wr1W4ng8/edit#))
 * [ ] [main salesforce campaign]()
 * [ ] [main marketo program]()
+* [ ] [ON24 webcast preview link]()
 
 ## :books: Issue creation
 
 <details>
 <summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.</summary>
 
-* [ ] Zoom license date request issue created
-* [ ] Secure presenters and schedule dry runs issue created
-* [ ] Facilitate tracking issue
-* [ ] Landing page issue created
-* [ ] Optional: New design assets issue created for the design team
-* [ ] Invitation and reminder issue created
-* [ ] Organic social issue created for social media manager
-* [ ] Paid Ads issue created for DMP
-* [ ] PathFactory request issue created
-* [ ] Follow up email issue created
-* [ ] Add to nurture stream issue created
-* [ ] Host dry run issue created
-* [ ] Prepare for webcast isue created
-* [ ] On-demand switch issue created
+* [ ] [Program tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking) issue created
+* [ ] [Webcast dry run schedule](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched) issue created
+* [ ] [Landing page and automation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page) issue created
+* [ ] [Invitation and reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issues created
+* [ ] Optional: Organic social issue created for social media manager
+* [ ] [Follow-up email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issue created
+* [ ] [Add to nurture stream](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-nurture-add) issue created
+* [ ] [Host dry run](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host) issue created
+* [ ] [Prepare for webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep) issue created
+* [ ] [On-demand switch issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-post-webcast) issue created
 </details>
 
 /label ~mktg-demandgen ~dg-campaigns ~"Webcast - GitLab Hosted" ~"Webcast" ~"mktg-status::wip"
@@ -812,17 +809,16 @@ In the event you need to cancel your webcast, please follow the steps outlined b
 <details>
 <summary>Expand below for checkboxes of issues to be created, use the GANTT to calculate the due dates.</summary>
 
-* [ ] Secure presenters and schedule dry runs issue created
-* [ ] Facilitate tracking issue
-* [ ] Landing page issue created
-* [ ] Invitation and reminder issues created
+* [ ] [Program tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking) issue created
+* [ ] [Webcast dry run schedule](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-sched) issue created
+* [ ] [Landing page and automation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page) issue created
+* [ ] [Invitation and reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issues created
 * [ ] Organic social issue created for social media manager
-* [ ] PathFactory request issue created
-* [ ] Follow up email issue created
-* [ ] Add to nurture stream issue created
-* [ ] Host dry run issue created
-* [ ] Prepare for webcast issue created
-* [ ] On-demand switch issue created
+* [ ] [Follow-up email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-invitation-reminder-follow-up) issue created
+* [ ] [Add to nurture stream](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-email-nurture-add) issue created
+* [ ] [Host dry run](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host) issue created
+* [ ] [Prepare for webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-prep) issue created
+* [ ] [On-demand switch issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-post-webcast) issue created
 </details>
 
 /label ~mktg-demandgen ~dg-campaigns ~"Webcast - GitLab Hosted" ~"Webcast" ~"mktg-status::wip"
