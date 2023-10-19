@@ -115,7 +115,7 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 #### Support Engineer User Guidance for Opening a Request For Help Issue
 
 ##### Thorough Research and Investigation:
-      
+
 Use the following repositories and resources for identifying similar issues or requests:
    - Zendesk for related tickets.
    - Previous GitLab Application [bugs and feature requests](https://gitlab.com/gitlab-org/gitlab/-/issues).
@@ -142,8 +142,8 @@ Use the following repositories and resources for identifying similar issues or r
    - Once you receive all the necessary assistance, ensure to close the issue and add a comment explaining why it is being closed.
 
 ##### Documentation and Knowledge Sharing:
-      
-   - Consider whether the solution or information contained within the issue can be used to create a GitLab Doc issue. 
+
+   - Consider whether the solution or information contained within the issue can be used to create a GitLab Doc issue.
    - If applicable, create a GitLab Doc issue for knowledge sharing and documentation purposes.
 
 By following these steps, Support Engineers can ensure that the issue submission process is thorough, well-documented, and efficiently managed, leading to effective problem resolution and knowledge sharing within the GitLab community.
