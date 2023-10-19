@@ -8,7 +8,7 @@ This is a key leadership position on the Chief Revenue Officer’s team. This hi
 
 The responsibilities include both directed work initiated by the CRO as well as self-directed leadership work that includes inputs and priorities from the CRO leadership team. This role will help enable communication, collaboration, strategy execution, and special projects across the CRO organization. This individual will work in close partnership with the CRO and other business stakeholders to drive programs, execute and monitor our business strategy.
 
-- Serves as a proxy to the CRO in reviewing account plans and driving high-quality briefing documents 
+- Serves as a proxy to the CRO in reviewing account plans and driving high-quality briefing documents
 - Drives timely follow-up on customer and partner interactions
 - Leads key priorities and projects across the global Sales team
 - Acts as a sounding board to the CRO and CRO leadership team for new ideas and initiatives.
@@ -17,18 +17,18 @@ The responsibilities include both directed work initiated by the CRO as well as 
 - Helps define, drive, and run CRO-level and relevant business reviews including CRO QBRs
 - Work closely with internal teams on goal-setting and tracking, interfacing, and consulting with cross-functional groups
 - Develops and maintain strong relationships with executives, senior leaders, and stakeholders to achieve project objectives and deliverables
-- Serves as CRO Board Liaison, including creating and developing Board and Committee materials. 
+- Serves as CRO Board Liaison, including creating and developing Board and Committee materials.
 - Partners with the CRO’s People Business Partner, Talent Acquisition lead, SS&A team, and Finance team to support planning, metrics, reporting, and decisions
 - Supports the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CRO.
 - Effectively triages escalations. Our teams often rely heavily on quick root-cause analyses and fast information sharing. Time-sensitive escalations may include driving cross-functional conversations to get to the bottom of complex issues that have become business blockers or helping ensure a fast turnaround for specific prospects and customer needs
 - Maintains and fosters a close partnership with the CEO’s Chief of Staff on strategic initiatives
 - Maintains and fosters a close partnership with the Sales Strategy & Analytics and the broader Field Operations Teams
-This role does not overlap with the responsibilities [Executive Business Administrators](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) handle. This role could have EBA support, will work closely with the EBA to the CRO to ensure the CRO’s time is well managed and prioritized according to the top business objectives. 
-- Manages weekly executive staff meetings, including, but not limited to, providing feedback on top priorities and insights to inform strategic conversations. 
+This role does not overlap with the responsibilities [Executive Business Administrators](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) handle. This role could have EBA support, will work closely with the EBA to the CRO to ensure the CRO’s time is well managed and prioritized according to the top business objectives.
+- Manages weekly executive staff meetings, including, but not limited to, providing feedback on top priorities and insights to inform strategic conversations.
 - Assists in the preparation for external meetings including board meetings
 - Run and manage various partner and client meetings with clear agendas, follow-ups, and next steps
 - Compile and provide feedback on briefing materials for key customer and important company meetings; conduct primary research and work with key stakeholders to prepare the background for meetings with key executives, partners, and events (e. g., identify goals and talking points, provide background on attendees, analyze the current business relationship, and summarize opportunities)
-- Collaborate with the various communications teams and People Business Partners to prepare background, talking points, or presentations for all public and internal speaking moments aligned to the company's strategy and values.  This includes managing organizational announcements and confidential projects. 
+- Collaborate with the various communications teams and People Business Partners to prepare background, talking points, or presentations for all public and internal speaking moments aligned to the company's strategy and values.  This includes managing organizational announcements and confidential projects.
 - Help identify items that can be delegated to others to optimize the CROs time allocation to high-value activities
 - Support the CRO in organizing inspiring and informative WW Field meetings to share important business information as well as engage and boost team morale
 
@@ -41,7 +41,7 @@ This role does not overlap with the responsibilities [Executive Business Adminis
 - Proven ability to quickly learn new things
 - Comfort working in a high-growth, constantly changing environment
 - Track record of handling confidential information with the utmost sensitivity
-- Proven success in analytics and reporting 
+- Proven success in analytics and reporting
 - Ability to shift priorities quickly and act proactively, while maintaining organization and control.
 - Ability to work collaboratively and efficiently with stakeholders throughout the organization
 - Must be able to manage conversations with the Board and C-Suite with ease and confidence
@@ -68,7 +68,7 @@ There is no set career path for a Chief of Staff. As such, the role is often vie
 
 ## Hiring Process
 
-The hiring process for this role is yet to be defined. It will include interviews with the CRO, and other key stakeholders on the Sales leadership team. 
+The hiring process for this role is yet to be defined. It will include interviews with the CRO, and other key stakeholders on the Sales leadership team.
 
 
 
