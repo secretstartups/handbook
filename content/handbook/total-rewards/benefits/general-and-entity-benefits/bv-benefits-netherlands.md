@@ -22,12 +22,11 @@ Team Members will automatically receive the allowance via payroll. No documentat
 
 The allowance will be prorated for New Hires that start in the middle of the month and terminations that are effective in the middle of the month. Team members on sick pay or unpaid parental leave will still receive the monthly allowance. Team members who are on other unpaid leaves will not receive the stipend during their leave.
 
-Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
+Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts occupational safety and health services through Leuk Personeel. The OHS service (company doctor) can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
 
-**[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands
+**Leuk Personeel, Dorresteinweg 72-08, 3763 LL, Soest, the Netherlands
 
-Tel: 088-2778870
-Email: info@zorgvandezaak.nl
+Tel: +0355436137
 
 ## Computer Glasses Reimbursement
 
