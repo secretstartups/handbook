@@ -267,15 +267,15 @@ The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewar
 
 #### VP of Security Requirements
 
-GitLab’s VPs of Security must have all of the following attributes.
+VPs of Security must have all of the following attributes.
 
 Must-haves:
 
 - Relevant, progressive experience managing information security teams
 - Excellent written and verbal communication skills
-- Be able to quickly hire and retain high-performing team members and managers
-- Experience managing a multi-level security organization with managers and IC’s
-- Collaborate with other groups outside engineering such as Sales, Legal, People Ops, and Finance
+- Be able to hire and retain high-performing team members and managers
+- Experience managing a multi-level security organization with managers and individual contributors
+- Collaborate cross-functional teams such as Engineering, Product, Sales, Legal, People Ops, and Finance
 - Ability to excel in a remote-only, multicultural, distributed environment
 - Possess domain knowledge of common information security management frameworks, regulatory requirements, and applicable standards
 - Excellent project and program management skills and techniques
