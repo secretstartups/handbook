@@ -54,6 +54,8 @@ Deficiencies identified are reviewed in the context of the vendor's greater Secu
 
 Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification]({{< ref "data-classification-standard" >}}) of data shared with the third party.
 
+{{% details summary="(Expand to view chart)" %}}
+
 ```mermaid
 
 graph TB
@@ -125,6 +127,9 @@ graph TB
         classDef Orange fill:#FFA500,stroke:#FFA500,color:#000000;
         classDef empty opacity:0
 ```
+
+{{% /details %}}
+
 
 ### TPRM Assessment Requirements
 
