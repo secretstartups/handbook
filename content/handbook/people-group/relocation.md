@@ -9,9 +9,9 @@ This process is managed by the People Connect team as the DRI.  For any question
 
 Moving to a new location is an exciting adventure, and at GitLab, we want to encourage team members to utilize the flexibility that our relocation policy offers. However, there are multiple aspects to consider including eligibility, possible impact on compensation (including equity and benefit eligibility) and the impact on your role at GitLab.
 
-**It’s important to note that any relocation will require business approval; which will consider the ability of the team member to drive results in the new location and the impact of a relocation on the departmental budget.**
+**It’s important to note that any relocation will require business approval; which will consider the ability of the team member to drive results in the new location and the impact of a relocation on the departmental budget. Consult your [FP&A Partner](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/sales-finance/#finance-business-partner-alignment) as soon as possible to ensure the compensation change is accounted for in the department budget.**
 
-A relocation that results in no change in compensation can be approved by the team member's direct leader.  Relocations resulting in an increase in compensation must be approved by the team member's direct leader as well as an eGroup Member.
+A relocation that results in no change in compensation can be approved by the team member's direct manager.  Relocations resulting in an increase in compensation must be approved by the team member's direct manager, and location factor changes that are >.2 will require direct manager, VP as well as an eGroup Member approval.
 
 ### Importance of Communicating Location
 
