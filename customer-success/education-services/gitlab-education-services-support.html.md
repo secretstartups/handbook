@@ -79,12 +79,12 @@ In order to access Credly, login to the site [here](https://www.credly.com/). If
 1.  [How to issue a badge](https://credlyissuer.zendesk.com/hc/en-us/articles/360027660772-How-do-I-issue-a-badge-to-a-single-earner-)
     - [Bulk Issuing Badges](https://credlyissuer.zendesk.com/hc/en-us/articles/360027660752-How-do-I-issue-badges-in-bulk-to-multiple-earners-)
     - All of our badges are triggered via Webhook in Zapier. If you can see a passing result in the [Certification Submissions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/Certifications-form-submission-and-responses-link-centralisation), you can manually issue the badge, but please ping the #edu_services_team Slack channel so we can research the Integration issue.
-3.  Change the email on a badge: 
-- If the badge is Accepted 
-    - You will have to click on the badge and click the Revoke button and then reissue to the new email. 
-- If the badge is Pending 
-    - You will be able to click on the badge and use the Replace button, you will see an edit icon next to the email field where you can change the email.
-4.  [Pulling analytics from Credly](https://credlyissuer.zendesk.com/hc/en-us/articles/360027938091-What-analytics-can-I-view-as-an-administrator-for-my-organization-) 
-- We keep a track of certifications issued on a monthly basis and separated by audience on a Google Sheet located [here](https://docs.google.com/spreadsheets/d/1g1lhtYXXWS2P-Djfru03aRdbOF4a13La-WYQPjwVLks/edit?usp=sharing). It is updated every month by Education Services Managers. 
-5.  [Creating a new badge template ](https://credlyissuer.zendesk.com/hc/en-us/articles/360028654791-How-do-I-create-a-badge-template-)
+1.  Change the email on a badge 
+    - If the badge is Accepted: 
+        - You will have to click on the badge and click the Revoke button and then reissue to the new email. 
+    - If the badge is Pending: 
+        - You will be able to click on the badge and use the Replace button, you will see an edit icon next to the email field where you can change the email.
+1.  [Pulling analytics from Credly](https://credlyissuer.zendesk.com/hc/en-us/articles/360027938091-What-analytics-can-I-view-as-an-administrator-for-my-organization-) 
+    - We keep a track of certifications issued on a monthly basis and separated by audience on a Google Sheet located [here](https://docs.google.com/spreadsheets/d/1g1lhtYXXWS2P-Djfru03aRdbOF4a13La-WYQPjwVLks/edit?usp=sharing). It is updated every month by Education Services Managers. 
+1.  [Creating a new badge template ](https://credlyissuer.zendesk.com/hc/en-us/articles/360028654791-How-do-I-create-a-badge-template-)
     - When creating a new badge, please be sure you engage the marketing design team to create the badge image to ensure it fits GitLab Branding Guidelines. You can use this [issue template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general&_gl=1*1k86ng8*_ga*Njk5OTc1OTcxLjE2NTg3ODM3ODE.*_ga_ENFH3X7M5Y*MTY3MzI5NTQwNi4xMzMuMS4xNjczMjk1NDEwLjAuMC4w) to open a request.

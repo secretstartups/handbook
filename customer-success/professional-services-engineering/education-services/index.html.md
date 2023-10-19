@@ -55,23 +55,17 @@ The GitLab Professional Education Services team currently provides the following
 <table>
   <tr>
      <td>
-
      <h3>Program Entry Requirements</h3>
-
      </td>
-     <td>* Each TSP must:
+     <td> Each TSP must:
+     
+- Be a GitLab Open or Select GitLab Partners or a GitLab Distribution Partner
+- Design, build and operate a training services practice
+- Complete the TSP contract Master Service Agreement and legal exhibit
+- Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
+- Get setup on Edcast and participate in onboarding to access the course catalog
 
-
-     <br>* Be a GitLab Open or Select GitLab Partners or a GitLab Distribution Partner
-
-
-     <br>* Design, build and operate a training services practice
-     <br>* Complete the TSP contract Master Service Agreement and legal exhibit
-     <br>* Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through completion of the competency requirements
-     <br>* Get setup on Edcast and participate in onboarding to access the course catalog
-
-     <br>* Note that participation in this program is limited and requires GitLab program team approval before proceeding with the certification process.
-
+Note that participation in this program is limited and requires GitLab program team approval before proceeding with the certification process.
      </td>
   </tr>
   <tr>
@@ -79,18 +73,10 @@ The GitLab Professional Education Services team currently provides the following
      <h3>Competency Requirements</h3>
      </td>
      <td>
-      
-     Each TSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ
 
-
-
-
-    
- at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
-     <ol>
-     <li>     Each TSP organization must be able to deliver at least four (4) GitLab courses</li>
-     <li>     Each TSP organization must complete the competency requirements prior to 6 months after the last day of the quarter in which they enrolled in the certification process.</li> 
-     </ol>
+- Each TSP must remain compliant with the either the Open, Select, or Distribution programs, and perpetually employ at least two (2) [GitLab Certified Trainers](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/)
+- Each TSP organization must be able to deliver at least four (4) GitLab courses
+- Each TSP organization must complete the competency requirements prior to 6 months after the last day of the quarter in which they enrolled in the certification process.
      </td>
   </tr>
   <tr>
@@ -98,7 +84,7 @@ The GitLab Professional Education Services team currently provides the following
       <h3>Service Offerings</h3>
       </td>
       <td>
-      TSP can provide <a href="https://about.gitlab.com/services/education/">GitLab Education Services</a> by purchasing GitLab student kits and then delivering instructor-led training courses in GitLab LevelUp.
+      TSP can provide [GitLab Education Services](https://about.gitlab.com/services/education) by purchasing GitLab student kits and then delivering instructor-led training courses in GitLab LevelUp.
       </td>
   </tr>
   <tr>
@@ -107,14 +93,13 @@ The GitLab Professional Education Services team currently provides the following
      </td>
      <td>
      Each TSP must:
-     <br>* Hire and continually employ team members who achieve and maintain the competency requirements
-     <br>* Ensure that GitLab licensed courses can only be delivered by a GitLab Certified Trainer who is certified for that specific course   
-     <br>* Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
-     <ol>
-     <li>  CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100</li>
-     <li>  Customer Satisfaction Surveys must be supplied prior to 30 days after the course delivery completion date</li>
-     </ol>
-     <br>* Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
+
+     - Hire and continually employ team members who achieve and maintain the competency requirements
+     - Ensure that GitLab licensed courses can only be delivered by a GitLab Certified Trainer who is certified for that specific course 
+     - Maintain Customer Satisfaction (CSAT) score for training deliveries of at least 80%
+1.  CSAT = (Number of satisfied customers - 4s and 5s) ÷ (Number of survey responses) x 100
+1.  Customer Satisfaction Surveys must be supplied prior to 30 days after the course delivery completion date
+   - Submit service attach registration for each GitLab licensed training engagement within 30 days of the delivery completion date
      </td>
   </tr>
 
