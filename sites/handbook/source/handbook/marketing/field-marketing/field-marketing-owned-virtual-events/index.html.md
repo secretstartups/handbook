@@ -15,29 +15,28 @@ description: "Step by Step instructions for Field Marketers on how to set up var
 
 ## Hosted on Personal Zoom Accounts
 
-### Owned Events Hosted on Personal Zoom Accounts
+### Personal Zoom Capacity
+
+This type of event is generally recommended for smaller virtual events (200 attendees max) and allows you to break the audience into smaller groups during the event. Attendees are able to be interactive in this event type, having the option to share both audio/video if allowed by the host. We can track registration, but there is NO Marketo integration, which requires manual list upload to Marketo post-event. 
+
+Please note this option does not allow for registration to be capped. You can require approval, but Zoom doesn’t allow customization of the rejection email (and it isn’t clear if a rejection email is even sent). 
+
+#### [Owned Events Hosted on Personal Zoom Accounts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#owned-events-hosted-on-personal-zoom-accounts-1)
 
 This is a light-weight virtual event that is hosted on any team member’s personal Zoom. 
 
-### Virtual Lunch and Learn Session (Owned Events)
+#### Virtual Lunch and Learn Session (Owned Events)
 A Virtual Lunch and Learn sessions is another type of light-weight account-centric event that is hosted on a team member’s personal zoom account. The sessions are informal online meetings that take place during break or lunchtime and focus on specific topics, educate and raise product and brand awareness. Lunch and learn sessions usually last 45 minutes to an hour, but depending on the topic and attendee dynamics, some sessions may run longer.
 
-#### Goal
+##### Goal
 In most cases we work closely with an advocate within an account to drive product adoption within their organization. On some occasions, the goal is to introduce GitLab to completely new audiences (prospect accounts) in an interactive and educational way.
 
-#### Best Practices
+##### Best Practices
 1. The FMM works with the account team (SAL, AE, SA, TAM) to determine accounts to be targeted and choose the relevant topic ([currrently vailable topics](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER))
 1. The FMM sets up the [event](/handbook/marketing/events/#event-execution) and is hosted on the team member’s personal zoom account.
 1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](/handbook/marketing/marketing-operations/reachdesk/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
 1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](/handbook/marketing/marketing-operations/reachdesk/#creating-a-landing-page)
 1. All participants are followed up by email with session recording and SDR/SALs direct follow-up.
-
-
-#### Personal Zoom Capacity
-
-This type of event is generally recommended for smaller virtual events (200 attendees max) and allows you to break the audience into smaller groups during the event. Attendees are able to be interactive in this event type, having the option to share both audio/video if allowed by the host. We can track registration, but there is NO Marketo integration, which requires manual list upload to Marketo post-event. 
-
-Please note this option does not allow for registration to be capped. You can require approval, but Zoom doesn’t allow customization of the rejection email (and it isn’t clear if a rejection email is even sent). 
 
 ## Hosted on Field Marketing Zoom License
 
