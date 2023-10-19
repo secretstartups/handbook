@@ -139,6 +139,8 @@ For self-managed customers, a CSM labels their customers' instances as Productio
 
 1. If unsure of the instance type, check with the customer or in the left nav panel click on **Product Usage Trends** and then toggle to the **NOT Production Instance Usage** report to see usage trends for that instance
 2. Anything labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
+3. Please be aware that `Non-Production`/`Unknown`/`Obsolete`/`Geo Secondary Node` instances will not reflect in the Product Usage Trends section of the account, with the exception of `NOT Production Instance Usage` report. 
+4. If `Instance Type` is switched to `Production` from any other type, please allow 24 hours before they are reflected in the usage reports.
 
 ##### Non-CSM Owned Accounts (Scale and Digital)
 
