@@ -294,7 +294,7 @@ Here is a brief [walkthrough](https://docs.google.com/presentation/d/1ZNsMLhk5ZB
 
 In cases where a job family is quite large you may decide to create an overview page of the job family. This helps when we are actively sourcing for external candidates on a role. [Here](/job-families/people-group/recruiting-operations-insights/overview) is an example of a job family overview page.
 
-eECNGB-JkZE
+{{< youtube "eECNGB-JkZE" >}}
 
 - Keep in mind that the overview page needs to be updated when you add a new level or a new role to a job family.
 - The opening statement about the job family should be copied from the job family page to the overview page. Because not all job families have overview pages you should not remove it from one or the other.
