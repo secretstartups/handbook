@@ -54,6 +54,8 @@ Deficiencies identified are reviewed in the context of the vendor's greater Secu
 
 Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification]({{< ref "data-classification-standard" >}}) of data shared with the third party.
 
+{{% details summary="(Expand to view chart)" %}}
+
 ```mermaid
 
 graph TB
@@ -125,6 +127,8 @@ graph TB
         classDef Orange fill:#FFA500,stroke:#FFA500,color:#000000;
         classDef empty opacity:0
 ```
+{{% /details %}}
+
 
 ### TPRM Assessment Requirements
 
@@ -230,7 +234,6 @@ Security Risk maintains multiple templated versions of the SIG questionnaire for
         - T. Threat Management
         - U. Server Security
         - V. Cloud Hosting Services
-{{% /details %}}
 
 {{% details summary="Professional Services SIG" %}}
 - [SIG Professional Services](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
