@@ -112,16 +112,34 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 
 **Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
 
-#### Opening a request for help
+#### Support Engineer User Guidance for Opening a Request For Help Issue
 
-1. Review the above table and click the link to open the corresponding GitLab.com Development Section Project that you require help from.
-1. Within each GitLab Project there is a `ReadMe` (displayed on the project page):
-   1. Read the `Support Engineer User Guidance` section and follow the steps outlined.
-   1. Read the `Development groups and their corresponding templates` section and use the Handbook links provided if you are unsure as to which Section Sub Group and corresponding template you should use.
-1. Before submitting a new issue search the existing issues to check if a similar request has been made before.
-1. If not, then submit a new issue to the project using the template you've identified.
-   - If the issue is not automatically assigned to the relevant developers for triaging, review the template for instructions on who to assign to.
-1. Assign the correct `severity label` as outlined in the corresponding 'Project ReadMe.' Additionally, if necessary, advocate for the customer by including a 'Customer Impact' statement in the issue.
+   ##### Thorough Research and Investigation:
+      Use the following repositories and resources for indentifying similar issues or requests:
+      - Zendesk for related tickets.
+      - Previous GitLab Application [bugs and feature requests](https://gitlab.com/gitlab-org/gitlab/-/issues).
+      - Previously logged GitLab.com issues.
+      - Discuss with knowledge experts and support stable counterparts.
+      - Search for previously opened issues in the relevant Development Section Project on GitLab.com.
+   ##### Create a Detailed Issue:
+      - Open the corresponding GitLab.com Development Section Project as defined [here](#list-of-development-sections-and-corresponding-links-to-the-projects-for-requesting-help)
+      - Review the Development groups and corresponding templates section. Use the provided GitLab Handbook Section Breakdown link at the bottom of the Project ReadMe file if you are unsure about which Section Sub Group and corresponding template to use.
+      - Make sure to use the correct corresponding issue template when creating a new issue.
+      - Complete all the fields in the issue template and attach all necessary files.
+      - Ensure that an appropriate severity is set as defined by the [support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact). You should set the approriate label `severity::1`, `severity::2`, `severity::3`, `severity::4` so that it corresponds with the priority level in Zendesk.
+      - If the Zendesk ticket is escalated then add the label `Support::escalated`.
+      - Add a 'Customer Impact' statement if necessary, advocating for the customer.
+   ##### Follow-Up and Escalation:
+      - If the issue is not automatically assigned to the relevant developers, follow the instructions in the template to assign it to the appropriate group.
+      - Ensure that a link to the corresponding issue is added to the Zendesk ticket as an internal note.
+      - If the Zendesk ticket is escalated, add the `Support::escalated` label to the GitLab issue.
+      - If there is no response within an appropriate timeframe, review the contacts listed in the issue template and check Slack for their availability. If the primary contact is not available, ping their backup via the issue or contact the corresponding Engineering Manager who will be listed in the project ReadMe.
+      - Once you receive all the necessary assistance, ensure to close the issue and add a comment explaining why it is being closed.
+   ##### Documentation and Knowledge Sharing:
+      - Consider whether the solution or information contained within the issue can be used to create a GitLab Doc issue. 
+      - If applicable, create a GitLab Doc issue for knowledge sharing and documentation purposes.
+
+By following these steps, Support Engineers can ensure that the issue submission process is thorough, well-documented, and efficiently managed, leading to effective problem resolution and knowledge sharing within the GitLab community.
 
 #### Tips on getting timely responses
 
