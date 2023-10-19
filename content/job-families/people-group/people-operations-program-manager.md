@@ -1,5 +1,5 @@
 ---
-title: People Operations Progam Manager
+title: People Operations Program Manager
 ---
 
 
