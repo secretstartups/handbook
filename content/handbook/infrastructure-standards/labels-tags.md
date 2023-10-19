@@ -524,7 +524,6 @@ The full list of groups was last audited and updated on 2021-07-22.
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-shared-infra      | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-distribution      | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-geo               | |
-| eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-memory            | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-search            | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-sharding [^2]     | |
 | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-database          | |
@@ -542,6 +541,7 @@ The full list of groups was last audited and updated on 2021-07-22.
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-general [^2]       | |
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-observability [^2] | |
 | eng-infra       | eng-infra                | eng-infra-reliability             | eng-infra-reliability-practices [^2]     | |
+| eng-infra       | eng-infra                | eng-infra-enablement              | eng-infra-cloud-connector            | |
 | eng-dev         | eng-quality              |                                   | eng-quality-shared-infra             | |
 | eng-dev         | eng-quality              |                                   | eng-quality-env-toolkit [^2]         | |
 | eng-dev         | eng-quality              |                                   | eng-quality-ops-ci-cd                | |
@@ -644,6 +644,8 @@ The following group names have been renamed or removed and may still be in use w
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-release                   | eng-dev-release-release-mgmt         | eng-dev-deploy-environments                   |
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-configure                 | eng-dev-configure-shared-infra       | eng-dev-deploy-shared-infra                   |
 | 2023-03-14      | eng-dev         | eng-dev                  | eng-dev-configure                 | eng-dev-configure-configure          | eng-dev-deploy-environments                   |
+| 2023-10-19      | eng-dev         | eng-dev                  | eng-dev-enablement                | eng-dev-enablement-memory            | eng-infra-cloud-connector |
+
 
 ## Resource Type (`gl_resource_type`)
 
