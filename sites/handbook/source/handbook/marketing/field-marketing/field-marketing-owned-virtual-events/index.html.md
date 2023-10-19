@@ -15,36 +15,29 @@ description: "Step by Step instructions for Field Marketers on how to set up var
 
 ## Hosted on Personal Zoom Accounts
 
-### [Self-Service with or without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1)
+### Owned Events Hosted on Personal Zoom Accounts
 
 This is a light-weight virtual event that is hosted on any team member’s personal Zoom. 
 
-**Note:** If you are utilizing a non-Zoom virtual event platform (example - Webex or any other platform where we do not have an integration in place) and would like to create a Marketo LP and Marketo invites, that would be considered an [Owned Event](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#owned-event) and not a self-service event. 
+### Virtual Lunch and Learn Session (Owned Events)
+A Virtual Lunch and Learn sessions is another type of light-weight account-centric event that is hosted on a team member’s personal zoom account. The sessions are informal online meetings that take place during break or lunchtime and focus on specific topics, educate and raise product and brand awareness. Lunch and learn sessions usually last 45 minutes to an hour, but depending on the topic and attendee dynamics, some sessions may run longer.
 
-### Virtual Lunch and Learn Session
-
-A Virtual Lunch and Learn sessions is another type of light-weight account-centric event that is self-hosted on a team member’s personal zoom account. The sessions are informal online meetings that take place during break or lunchtime and focus on specific topics, educate and raise product and brand awareness. Lunch and learn sessions usually last 45 minutes to an hour, but depending on the topic and attendee dynamics, some sessions may run longer.
 #### Goal
 In most cases we work closely with an advocate within an account to drive product adoption within their organization. On some occasions, the goal is to introduce GitLab to completely new audiences (prospect accounts) in an interactive and educational way.
 
 #### Best Practices
 1. The FMM works with the account team (SAL, AE, SA, TAM) to determine accounts to be targeted and choose the relevant topic ([currrently vailable topics](https://drive.google.com/drive/folders/1L_kd6QudSWcvAKDM-h6oPvvC6LiNj_ER))
-1. The FMM sets up the [event](/handbook/marketing/events/#event-execution) using the [self service with promotion](/handbook/marketing/field-marketing/#self-service-virtual-event-with-or-without-promotion-1) issue template and is hosted on the team member’s personal zoom account.
+1. The FMM sets up the [event](/handbook/marketing/events/#event-execution) and is hosted on the team member’s personal zoom account.
 1. Before the Lunch and Learn session, the participants receive an e-voucher (example value $25), uber eat gift card, Just Eat or similar depending on availability in their area. The FMC will coordinate the advanced purchase of these vouchers and send through a [Reachdesk campaign](/handbook/marketing/marketing-operations/reachdesk/#e-gift-cards-and-reward-pass). Small swag items (e.g Stickers and socks) can be sent instead of food vouchers.
 1. If budget allows, the participants may receive a GitLab swag gift through a [Reachdesk Landing Page](/handbook/marketing/marketing-operations/reachdesk/#creating-a-landing-page)
 1. All participants are followed up by email with session recording and SDR/SALs direct follow-up.
 
 
-#### Zoom Guidelines
+#### Personal Zoom Capacity
 
 This type of event is generally recommended for smaller virtual events (200 attendees max) and allows you to break the audience into smaller groups during the event. Attendees are able to be interactive in this event type, having the option to share both audio/video if allowed by the host. We can track registration, but there is NO Marketo integration, which requires manual list upload to Marketo post-event. 
 
-Please note the Self-Service option does not allow for registration to be capped. You can require approval, but Zoom doesn’t allow customization of the rejection email (and it isn’t clear if a rejection email is even sent). 
-
-#### Guidelines of Self-Service Options
-
-- For Self-Service Virtual Events **without** Promotion, no Marketo LP or invite support is requested. 
-- For Self-Service Virtual Events **with** Promotion, Marketing Ops will provide support for a Marketo landing page, 2 invitations, reminder and a follow-up email send.
+Please note this option does not allow for registration to be capped. You can require approval, but Zoom doesn’t allow customization of the rejection email (and it isn’t clear if a rejection email is even sent). 
 
 ## Hosted on Field Marketing Zoom License
 
@@ -736,7 +729,7 @@ In order to cap registration, we remove the registration form on the Landing Pag
 1. Identify if a workshop is currently planned that might support your needs. [Click here](/handbook/marketing/virtual-events/#calendar) to view calendar of scheduled events.
 1. Work with Customer Success team (SAs) to identify the lead instructors/presenters. You must have your lead instructor identified at this time and work together to select a date.  
 1. Once a date has been confirmed, Lead SA must coordinate with the Demo Engineer (Logan Stucker) to obtain the demo environment redemption code and discuss SLAs to ensure demo meets code requirements.
-1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider [Self-Service without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1). Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
+1. If the audience is account centric, if you are not doing paid social media, or need your own workshop due to your account goals, consider running an Owned Event utilizing your personal Zoom account. Sales can run on their own, or with field marketing. If not, then it would qualify as a Webcast. [Click here for virtual events decision tree for more information.](/handbook/marketing/virtual-events/#decision-tree)   
 1. Work with the Sales Team to identify who your Moderator (MC) will be; recommend this be one of your SAEs. Moderator will set the tone for the workshop as well as introduce presenters throughout the event and announce poll questions/answers.
 1. Create a [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date)
    - The date reservation request must be submitted no less than 32 business days prior to event date for existing copy and content and 45 days prior to the event date for new copy and content.  
@@ -1073,31 +1066,24 @@ Base Lab Project (example below):
 
 For details on this process, please reference [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#rescheduling-a-webcast).
 
-# [Self-Service with or without Promotion](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion)
 
-## Ownership of Self-Service Tasks
+# Owned Events Hosted on Personal Zoom Accounts
 
-- Project management in GitLab (epic, issue, timeline creation): FMM/FMC
-- Add to self-service calendar: FMC
-- Zoom setup: FMM
-- Landing page and email copy (with promotion only): FMM
-- Marketo program, SFDC campaign: FMC
-- Landing page, email creation (with promotion only): Marketing Ops
-- Run day-of event Zoom meeting: FMM
+## Capacity
 
-## Self-Service without Promotion Epic
+**DRI: FMM & FMC**  
 
-**Please see Self-Service without Promotion epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-without-promotion)**    
+Note that our capacity for events run on personal Zoom accounts is 200 attendees. With our attrition rates, that means you should plan on shutting down registration at around 400 registrants. The FMC is responsible for tracking the registrations via the Marketo program.
 
-**DRI: FMM & FMC**    
+## Epic
 
-## Self-Service with Promotion Epic
+**Please see the Owned Events epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#owned-events)**    
 
-**Please see Self-Service with Promotion epic code [here](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-with-promotion)**    
-
-**DRI: FMM & FMC**    
+**DRI: FMM & FMC**      
 
 ## [Best Practices](/handbook/marketing/virtual-events/self-service-virtual-events/#best-practices)
+
+**DRI: FMM**  
 
 ## [Promotion Guidelines](/handbook/marketing/virtual-events/self-service-virtual-events/#self-service-virtual-event-promotion-guide)
 
@@ -1107,9 +1093,9 @@ For details on this process, please reference [this section](/handbook/marketing
 
 **DRI: FMM**  
 
-### Things to Remember for Self-Service with Promotion 
+### Things to Remember
 
-- Note that we do not have an integration set up with Marketo and Zoom for self-service events (since these are run on personal Zoom accounts) so the process is different from the Webcast/Workshop process hosted on our Zoom webcast license where we do have an integration in place.
+- Note that we do not have an integration set up with Marketo and Zoom for events run on personal Zoom accounts, so the process is different from the Webcast/Workshop process hosted on our Zoom webcast license where we do have an integration in place.
 - Since the Marketo LP is not integrated with the platform, this means when attendees register on the Marketo LP, that does not register them on the Zoom platform. Instead, we send every registrant a confirmation email that includes the sign in URL so they can log into the event. 
 - It is recommended you also include the sign in URL in the Marketo reminder email in case registrants have lost their confirmation email. 
 - If you plan on sending a Marketo reminder email to attendees, you do not need to set up the reminder email in Zoom.
@@ -1124,50 +1110,6 @@ In order for your FMC to triage your Marketo LP issues, you **must** have your Z
 **DRI: FMM**  
 
 ## [Results](/handbook/marketing/virtual-events/self-service-virtual-events/#results)
-
-## Self-Service Capacity
-
-**DRI: FMC & Marketing Ops**  
-
-Note that our capacity for self-service with promotion is 200 attendees with Zoom. With our attrition rates, that means you should plan on shutting down registration at around 400 registrants. The FMC is responsible for tracking the registrations via the Marketo program.
-
-### Closing Registration
-
-#### Shutting down the Marketo Landing Page for a Self-Service Event
-
-*Note: Instructions for closing registration landing pages varies, depending on the campaign type/Marketo template. Please only utilize the below instructions to close a self-service event LP.*
-
-Please reach out to Marketing Ops to shut down the landing page, or if you have an urgent request after hours, please follow the below instructions (supporting screenshots [here](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2941#note_577918968)).
-
-- Navigate into the `Marketo Program` > `Assets` > `Registration Page` > `Edit Draft`
-- On the right side under the `Variables` section, slide the `2 column sidebar` to `no sidebar`.
-- Under the `Elements` section, right-click the `Form Before` and select `Clear Element` and confirm you want to clear. Do the same for `Form Custom`.
-- On the right side under the `Variables` section slide `Hero2 Visibility` to `Visible`
-- If you need to change the copy of the text, double click on the content on the left side of the screen and you can manually change the verbiage. When done, click `save`. 
-- Under the `Elements` section right-click the `Hero2 copy` and update the content `This event is at capacity`
-- `Preview Draft` and make sure everything look correct. 
-- Go to `Preview Actions` and `Approve and Close` the landing page changes
-- Go to the LP URL to make sure page changes are correct.
-
-#### Additional Tasks to Closing Registration
-
-- If there are remaining invite issues open once registration is closed, the FMC will note this in the issue(s) and close them. If an invite is already scheduled to be sent, the FMC will also ask Marketing Ops to unschedule the send before closing the issue
-- The FMC will also re-open the sales nominated issue and request Marketing Ops shut down the sales-nominated daily sends.
-- There is no need to remove the event listing from the events page. Having a sold out event listed could create more excitement over the event and encourage future attendees to register for events sooner.
-
-## [Rescheduling Self-Service Events](/handbook/marketing/virtual-events/self-service-virtual-events/#rescheduling-self-service-virtual-events-with-or-without-promotion)
-
-**DRI: FMM & FMC**  
-
-## [Cancelling Self-Service Events](/handbook/marketing/virtual-events/self-service-virtual-events/#cancelling-for-self-service-virtual-events-with-or-without-promotion)
-
-**DRI: FMM & FMC**  
-
-
-
-
-
-
 
 
 

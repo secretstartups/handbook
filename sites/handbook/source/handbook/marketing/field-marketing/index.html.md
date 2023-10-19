@@ -167,13 +167,6 @@ Field Marketing utilizes the below issue templates and epic codes for virtual ev
 * [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Owned_Event_Template)
 * [Epic Code](/handbook/marketing/field-marketing/field-marketing-epics/#owned-events)
 
-## Self-Service Virtual Event With or Without Promotion
-* [Tactic Details](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#self-service-with-or-without-promotion-1)
-* [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#self-service-virtual-event)
-* [Issue Template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=Self_Service_Event)
-* [Epic Code (without promotion)](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-without-promotion)
-* [Epic Code (with promotion)](/handbook/marketing/field-marketing/field-marketing-epics/#self-service-with-promotion)
-
 ## Sponsored Webcast
 * [Tactic Details](/handbook/marketing/virtual-events/external-virtual-events/#sponsored-webinars)
 * [Progression Status](/handbook/marketing/marketing-operations/campaigns-and-programs/#sponsored-webcast)
@@ -280,7 +273,6 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
    - FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
 - FMC adds the event to the appropriate events calendar. All events should be added to the appropriate calendar from the list below.
    - [In-Person Events and Sponsorship](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-   - [GitLab Hosted Self-Service Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
    - [External Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
    - [GitLab Hosted Zoom Webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - FMC adds the event to the [GitLab Events Page](/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents), if applicable (specified by the FMM in the FMC Checklist section of the issue)
@@ -385,10 +377,6 @@ Thank you for your interest in this [insert event type]. The event has reached c
 
 ## Closing a Marketo LP Form
 These instructions explain how to close a Marketo LP form and how to update the LPs verbiage at the top of the page. The page and the information on it will still be visible to visitors, but there will no longer be a form to fill out for registration.
-
-### Closing a Self-Service Marketo LP Form
-
-See instructions [here](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#closing-registration-1).
 
 ### Closing a Webcast Marketo LP Form
 
@@ -913,7 +901,6 @@ It is the responsibility of each field marketing manager to ensure that this tra
 If you prefer to see the events in an actual calendar view please refer to the following:
 * [External virtual events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xOGVqOHN0NmlxajZpYXB1NTNrajUzNHBsa0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [GitLab hosted Zoom webcasts](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-* [GitLab Hosted Self-Service Virtual Events](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9uMnNibXZmMjlqczBzM3BiM2ozaHRwa3FmZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [In person Events and Sponsorship](https://calendar.google.com/calendar/u/0?cid=Z2l0bGFiLmNvbV9laWN2b3VkcHBjdTQ3bG5xdTFwOTlvNjU2Z0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 # Suggesting an Event or Tactic
@@ -1379,7 +1366,6 @@ The Field Marketing team works from issues and issue boards. If you need our ass
 - `In-Person Conference`: Issue related to In-Person Conferences
 - `Meeting Setting`: Issue related to Meeting Setting
 - `Owned Event`: Issue related to Owned Events
-- `Self-Serve`: Issue related to Self-Service events
 - `Webcast - Sponsored`: Issue related to Sponsored Webcasts
 - `Survey`: Issue related to Surveys
 - `Vendor Arranged Meetings`: Issue related to Vendor Arranged Meetings
