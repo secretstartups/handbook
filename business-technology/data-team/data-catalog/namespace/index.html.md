@@ -220,5 +220,44 @@ WHERE
 ```
 </details>
 
+**Free/Trial to Paid Namespace Conversion** 
+allows mapping of namespaces to historical subscriptions and paid order records to understand the first paid subscription for a namespace.
+Also allows to view the MRR/ARR for first order/first paid subscription for a given namespace that helps track the revenue expansion and contraction at a namespace level.   
+
+<details>
+
+<summary markdown="span">SaaS Business Flow Diagrams</summary> 
+
+- [SaaS Trials](https://lucid.app/lucidchart/d145fe68-4538-4d66-a95c-10190fea1b72/edit?invitationId=inv_66c1adab-7e76-4032-80e5-70f37835c4be&page=0_0#)
+- [SaaS Upgrade Flow (Web Direct)](https://lucid.app/lucidchart/d145fe68-4538-4d66-a95c-10190fea1b72/edit?invitationId=inv_66c1adab-7e76-4032-80e5-70f37835c4be&page=4mKWOzc-f2B3#) 
+
+</details>
+
+<details markdown=1>
+
+<summary markdown="span">ERD Library</summary> 
+
+- [Conceptual Data Model](https://lucid.app/lucidchart/d145fe68-4538-4d66-a95c-10190fea1b72/edit?invitationId=inv_66c1adab-7e76-4032-80e5-70f37835c4be&page=Tn-Vg~FLn~0r#)
+- [Physical Data Model](https://lucid.app/lucidchart/d145fe68-4538-4d66-a95c-10190fea1b72/edit?invitationId=inv_66c1adab-7e76-4032-80e5-70f37835c4be&page=so-VepKXXX_0#)
+
+</details>
+
+<details markdown=1>
+
+<summary markdown="span">query</summary> 
+
+```
+-- Trial Orders that got converted to Paid and are First Paid Orders
+SELECT 
+    * 
+FROM 
+    prod.restricted_safe_common_mart_sales.mart_charge      
+WHERE 
+    is_trial_converted_namespace = 'TRUE'
+    and is_first_paid_order = 'TRUE'
+    ;
+```
+</details>
+
 
  
