@@ -92,7 +92,7 @@ are:
 
 ## All About You
 
-If you don't have access to the Google Doc, the text of the template follows.
+For those who don't have access to the Google Doc, the text of the template follows.
 
 ---
 
