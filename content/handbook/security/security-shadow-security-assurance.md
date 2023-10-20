@@ -95,7 +95,8 @@ The Security Risk team acts as a shield between GitLab and the dangers lurking w
 - Review the different types of risks and their sources- [StORM]({{< ref "storm-program" >}}) and [Third Party Risk]({{< ref "third-party-risk-management" >}})
 - Learn the main components of risk management
 - Perform a TPRM Assessment
-- [Perform Risk Manager Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/storm/-/blob/master/.gitlab/issue_templates/storm-shadow.md) - You will be given a risk that is reaching a milestone to assess the treatment and potentially validate it's design effectiveness. 
+- [Perform Risk Manager Activities](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/storm/-/blob/master/.gitlab/issue_templates/storm-shadow.md)
+- You will be given a risk that is reaching a milestone to assess the treatment and potentially validate it's design effectiveness.
 
 ### Course Length:
 
