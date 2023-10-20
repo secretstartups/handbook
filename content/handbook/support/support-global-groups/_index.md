@@ -41,15 +41,11 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
   - each manager is aligned with one or more groups
   - the groups are all named after trees from around the world
 
-#### The Groups and the Aligned Managers
-
-| Group | EMEA Managers | AMER Managers | APAC Managers |
-| ----- | ------------- | ------------- | ------------- |
-| [Baobab](groups/baobab) | Erika, Ilia   | Aric, Izzy | Jane, Ket, Wei-Meng |
-| [Ginkgo](groups/ginkgo) | Erika, John   | Aric, Izzy, Ronnie | Jane, Ket, Wei-Meng |
-| [Kapok](groups/kapok)   | John, Rebecca | Aric, Mike | Jane, Ket, Wei-Meng |
-| [Maple](groups/maple)   | Rebecca, Tine | Izzy, Izzy, Ronnie | Jane, Ket, Wei-Meng |
-| [Pine](groups/pine)     | Ilia, Tine    | Mike, Ronnie | Jane, Ket, Wei-Meng |
+To see who is in each group, and which managers are aligned with each group,
+go to the [Global Groups page](https://gitlab-com.gitlab.io/support/team/sgg.html)
+of the [Support Team Home page](https://gitlab-com.gitlab.io/support/team/).
+To make changes to that information, submit an MR for the
+[support-team.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml).
 
 #### Zendesk
 
