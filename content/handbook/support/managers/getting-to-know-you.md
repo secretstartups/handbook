@@ -139,6 +139,6 @@ Tell me anything you want me to know about who you are, and NOTHING you think is
    - What excites you at work?
    - What expectations do you have of yourself?
    - How do you like to be rewarded and recognized?
-      - Reward - what types of rewards really mean the most to you? Cash? Personalized gift? Special time off? 
+      - Reward - what types of rewards really mean the most to you? Cash? Personalized gift? Special time off?
       - Recognition - where do you fall on the spectrum between “love and need public recognition” and “only want private recognition?”
    - What else do I need to know in order to be a really good manager for you?
