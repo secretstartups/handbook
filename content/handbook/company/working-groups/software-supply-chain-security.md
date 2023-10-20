@@ -73,12 +73,15 @@ A prioritized list of work will be tracked here after an engineering DRI has bee
 
 | Priority | Epic  | Status |
 | -------- | ----- | ------ |
-| 1        | [Research spike](https://gitlab.com/gitlab-org/gitlab/-/issues/396632) into the next steps to support [Native Signing of Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/9212) | Research in progress |
-| 2        | [User Experience for Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | Backend development in progress; frontend development not currently resourced |
-| 3        | [Support keyless signing when CI config is located outside of the project](https://gitlab.com/gitlab-org/gitlab/-/issues/411317) | Ready for development |
-| 4        | [User Experience for Signed Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/8839)   | Designs nearly complete; almost ready for refinement |
-| 5        | [Support for GitSign](https://gitlab.com/gitlab-org/gitlab/-/issues/364428) | Ready for refinement |
-| 6+       | This is a WIP and we are still working to add a list of prioritized Epics to deliver on the rest of the exit criteria for the group. | In progress |
+| 1        | [Research spike](https://gitlab.com/gitlab-org/gitlab/-/issues/396632) into the next steps to support [Native Signing of Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/9212) | Joint research scheduled for 16.6 |
+| 2        | [User Experience for Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | In development; target release 16.6. |
+| 3        | [Support keyless signing when CI config is located outside of the project](https://gitlab.com/gitlab-org/gitlab/-/issues/411317) | In development |
+| 4        | [Store a `source` value for Jobs](https://gitlab.com/groups/gitlab-org/-/epics/11796) | Ready for development |
+| 5        | [Optional control of all scan execution policy CI variables](https://gitlab.com/groups/gitlab-org/-/epics/11797) | Waiting for designs |
+| 6        | [Verify Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | Blocked due to lack of ruby-sigstore library |
+| 7        | [User Experience for Signed Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/8839)   | Blocked due to lack of ruby-sigstore library |
+| 8        | [Support for GitSign](https://gitlab.com/gitlab-org/gitlab/-/issues/364428) | Ready for refinement |
+| 9+       | This is a WIP and we are still working to add a list of prioritized Epics to deliver on the rest of the exit criteria for the group. | In progress |
 
 ## Outcome
 
@@ -89,15 +92,7 @@ To be added once the project is complete
 | Working Group Role | Person             | Title                                           |
 |--------------------|--------------------|-------------------------------------------------|
 | Executive Sponsor  | Hillary Benson     | Senior Director, Product Management             |
-| Engineering DRI    | Brian Williams     | Sr. Backend Engineer, Govern                    |
 | Product DRI        | Sam White          | Group Manager, Product - Govern                 |
-| Member             | Nathan Rosandich   | Engineering Manager, Govern                     |
-| Member             | Ali Ladhani        | Backend Engineer, Govern                        |
-| Member             | Aaron Huntsman     | Sr. Backend Engineer, Govern                    |
-| Member             | Daniel Tian        | Sr. Frontend Engineer, Govern                   |
-| Member             | Julian Thome       | Staff, Vulnerability Research                   |
-| Member             | Kris K             | Software Engineer, Google                       |
-| Advisor            | David Fernandez    | Staff Backend Engineer, Package Registry        |
-| Advisor            | Joao Pereira       | Staff Backend Engineer, Container Registry      |
-| Advisor            | Vasilii Iakliushin | Senior Backend Engineer, Source Code            |
+| Engineering Manager DRI | Nathan Rosandich   | Engineering Manager, Govern                |
+| Engineering DRI    | Aaron Huntsman     | Sr. Backend Engineer, Govern                    |
 | Advisor            | Dominic Couture    | Staff Security Engineer, Application Security   |
