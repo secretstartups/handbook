@@ -43,14 +43,17 @@ There are only a few goals for this meeting:
       - what are your biggest strengths with GitLab and supporting technologies
    1. Tell them why you are excited about the opportunity
    1. Tell them how you work
+   1. Tell them your time zone
 1. Ask them to introduce themselves
    1. Name
    1. Role
+   1. Time zone
    1. GitLab expertise
 1. Review the ASE role, constraints and SOW
    1. Let them know how you'll work with them
    1. Let them know how you'll work with the account team
    1. Ask what questions they have for you
+   1. Ask who your primary contact(s) will be
    1. Ask what their goals are for working with you
 1. Learn about their GitLab-related Plans
    1. Why did they become GitLab customers?
@@ -74,7 +77,7 @@ There are only a few goals for this meeting:
    slowly, and loudly enough but not too loudly - your aim is to be heard and
    understood the first time
 1. Be yourself, gently: let the customers get to know you a little at a time
-1. Be friendly and happy, and let the customers feel your energey and
+1. Be friendly and happy, and let the customers feel your energy and
    excitement around this opportunity
 1. Be **early** to the meeting, and welcome each person as they join
 1. This meeting is your first opportunity to set expectations with the customer,
