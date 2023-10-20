@@ -23,28 +23,44 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 
 ### October to November (Milestone 16.6)
 
+#### 2023-10-20 Updates:
+
+- Release workflow
+  - Current work that is in-progress on extracting metadata in the Release creation will continue to be merged with [limits](https://gitlab.com/gitlab-org/gitlab/-/issues/428956) to be incorporated.
+- Search and filtering
+  - Denormalizing columns to improve query plan performance is the plan in [https://gitlab.com/gitlab-org/gitlab/-/issues/427928](https://gitlab.com/gitlab-org/gitlab/-/issues/427928).
+- Discoverability via `Explore` menu for CI Catalog
+  - Following the current [checklist](https://gitlab.com/gitlab-org/gitlab/-/issues/420272#action-items), meeting with Dov/Sunjung with Foundations to review journey map is next week.
+
 #### Goals:
 - Discoverability of Global Catalog through Explore page
+  - [x] [Move shared components to Free Tier](https://gitlab.com/gitlab-org/gitlab/-/issues/428068)
+  - [ ] [Add route and nav for Global CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/427938) `~workflow::in review`
   - [ ] [Coordinate with Foundations on adding Global catalog to the Explore navigation](https://gitlab.com/gitlab-org/gitlab/-/issues/428145)
-  - [ ] [Move shared components to Free Tier](https://gitlab.com/gitlab-org/gitlab/-/issues/428068)
   - [ ] [Add Global Catalog page](https://gitlab.com/gitlab-org/gitlab/-/issues/427939)
-  - [ ] [Add route and nav for Global CI/CD Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/427938)
 - Catalog Details page
+  - [ ] [Make the README tab the default view for component](https://gitlab.com/gitlab-org/gitlab/-/issues/428936) `~workflow::in review`
   - [ ] [FF rollout ci_catalog_components_tab](https://gitlab.com/gitlab-org/gitlab/-/issues/426443)
 - Completion of [Inputs Enhancements]
-  - [ ] [Support options: with inputs defining default: value](https://gitlab.com/gitlab-org/gitlab/-/issues/393401)
+  - [ ] [Support options: with inputs defining default: value](https://gitlab.com/gitlab-org/gitlab/-/issues/393401) `~workflow::in review`
+- Usability improvements
+  - [x] [Add an indicator to the catalog resource project](https://gitlab.com/gitlab-org/gitlab/-/issues/394818)
+  - [ ] [Remove fork count from Catalog details page](https://gitlab.com/gitlab-org/gitlab/-/issues/428064) `~workflow::in review`
+  - [ ] [Prepare Ci::Catalog::Listing for global CI Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/428444) `~workflow::in review`
 - Bug fixes for inputs
   - [ ] [Input with variable does not respect input type:](https://gitlab.com/gitlab-org/gitlab/-/issues/426904)
+    - NOTE: After proposal has been confirmed in this [discussion](https://gitlab.com/gitlab-org/gitlab/-/issues/426904#note_1605964634), this issue will move forward in `16.6`
 - Releasing components workflow 
-  - [ ] [Scanning components on release and collect metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/415413)
+  - [ ] [Add mutation to mark a catalog resource as draft](https://gitlab.com/gitlab-org/gitlab/-/issues/428439) `~workflow::in review`
+  - [ ] [Scanning components on release and collect metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) `~workflow::in dev`
   - [ ] [Update state on existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
   - [ ] [Add path of the component to db](https://gitlab.com/gitlab-org/gitlab/-/issues/427170)
   - [ ] [Add path field to ciCatalogResourceComponentType](https://gitlab.com/gitlab-org/gitlab/-/issues/427169)
   - [ ] [Update catalog_resource.latest_released_at when version is created/deleted](https://gitlab.com/gitlab-org/gitlab/-/issues/427791)
 - Searchability in Global Catalog
-  - [ ] [Name filter addition to ciCatalogResources](https://gitlab.com/gitlab-org/gitlab/-/issues/427928)
-  - [ ] [Remove the projectPath argument from ciCatalogResources GraphQL query](https://gitlab.com/gitlab-org/gitlab/-/issues/427927)
-  - [ ] [Backfill any existing catalogs with the boolean index that we created in the search migration](https://gitlab.com/gitlab-org/gitlab/-/issues/427930)
+  - [ ] [Create database indices for CI Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) `~workflow::in dev`
+  - [ ] [Improve query plan and add Search filter](https://gitlab.com/gitlab-org/gitlab/-/issues/427928) `~workflow::in dev`
+  - [ ] [Remove the projectPath argument from ciCatalogResources GraphQL query](https://gitlab.com/gitlab-org/gitlab/-/issues/427927) `~workflow::in dev`
   - [ ] [Add components field to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/425726)
 
 ### November to December (Milestone 16.7)
@@ -55,7 +71,6 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [ ] [Add filter by resource type (template, step, etc)](https://gitlab.com/gitlab-org/gitlab/-/issues/427960)
 - Usability improvements
   - [ ] [Preserve user page and scroll position](https://gitlab.com/gitlab-org/gitlab/-/issues/415843)
-  - [ ] [Remove fork count from Catalog details page](https://gitlab.com/gitlab-org/gitlab/-/issues/428064)
 - Release components workflow
   - [ ] [Update the CI Catalog index to only show published catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/415414)
 - Bug fixes for index/details pages 
