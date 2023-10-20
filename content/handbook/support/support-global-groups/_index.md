@@ -38,8 +38,13 @@ participated in the SGG Trials: Andrew, Ryan, Daniel and Ben.
     regions
   - each group has a representative blend of tenure and skill level
   - product expertise is distributed reasonably between the groups
+  - the groups are all named after trees from around the world:
+    - [Baobab](groups/baobab)
+    - [Ginkgo](groups/ginkgo)
+    - [Kapok](groups/kapok)
+    - [Maple](groups/maple)
+    - [Pine](groups/pine)
   - each manager is aligned with one or more groups
-  - the groups are all named after trees from around the world
 
 To see who is in each group, and which managers are aligned with each group,
 go to the [Global Groups page](https://gitlab-com.gitlab.io/support/team/sgg.html)
