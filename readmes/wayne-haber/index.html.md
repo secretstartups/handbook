@@ -62,6 +62,35 @@ In addition to leading development for these development sub-departments, I also
 * I prefer that, when feasible, all recorded meetings should be made public on GitLab Unfiltered. I continue to be pleaseantly surprised by how this can increase collaboration inside and outside the team.
 * I always try to explain the “why". Engineers are often asked to focus on the “what” and “how”. However, explaining the "why" makes sure they are engaged and also enables the engineers to find better ways to achieve the goals.
 
+# Meetings
+
+I have a secure, govern, growth senior leaders development staff meeting at 1 pm Pacific on Wednesdays.
+
+This meeting is for my people leader direct reports to discuss development items of interest to secure, govern, and growth. The meeting is open to everyone at GitLab, with recordings made public on GitLab Unfiltered. After public topics are discussed, everyone but the SEM+ team members will drop off the meeting, and the agenda will move to confidential topics.
+
+The discussion notes can be found in this [GitLab team member accessible document](https://docs.google.com/document/d/1EE8t1IzDAUUwNLt-2qIt1k3nYUss-OzYOxFrfp-r45w/edit).
+
+After each meeting the link to the notes and recording will be put in `#sec-growth-development-people-leaders`
+
+# Slack
+
+Announcements and discussions that are public inside the company and are of interest to people leaders in secure, govern, and growth are in `#sec-growth-development-people-leaders`
+
+Confidential topics amongst the same group are discussed in `#sec-growth-development-confidential`
+
+Other public Slack channels of interest to me are often:
+* `#wayne_shadow_program`
+* `#g_secure-vulnerability-research`
+* `#sec-section`
+* `#sec-section_social`
+* `#s_growth_social`
+
+And when I need a break from work:
+* `#ALL-CAPS`
+* `#random`
+* `#gaming`
+* `#reality_tv_talk`
+
 # Engineering Director shadow program
 
 I created and continue to operate the [Engineering director shadow program](/handbook/engineering/development/shadow/director-shadow-program.html), which allows those at GitLab and also non-GitLab team members to shadow me for a week and provides mentoring, learning opportunities, and career development exploration.
@@ -86,7 +115,7 @@ Please be an [accountability partner](https://medium.com/@MaryLouWrites/accounta
 * When I make requests or ask questions, confirm I always include the why, the priority, and the expected time frames 
 * In meetings, don't talk for more than 60 seconds without pausing for questions.
 * In meetings, reduce filler words like "so" and "uh"
-* Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least two hours a day.
+* Use my [standing desk](https://www.webmd.com/fitness-exercise/standing-desks-help-beat-inactivity) at least one hour a day.
 
 # OKRS
 
