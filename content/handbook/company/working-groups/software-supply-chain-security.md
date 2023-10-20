@@ -78,7 +78,7 @@ A prioritized list of work will be tracked here after an engineering DRI has bee
 | 3        | [Support keyless signing when CI config is located outside of the project](https://gitlab.com/gitlab-org/gitlab/-/issues/411317) | In development |
 | 4        | [Store a `source` value for Jobs](https://gitlab.com/groups/gitlab-org/-/epics/11796) | Ready for development |
 | 5        | [Optional control of all scan execution policy CI variables](https://gitlab.com/groups/gitlab-org/-/epics/11797) | Waiting for designs |
-| 6        | [Verify Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/7856)   | Blocked due to lack of ruby-sigstore library |
+| 6        | [Verify Signed Container Registry Images](https://gitlab.com/groups/gitlab-org/-/epics/11798)   | Blocked due to lack of ruby-sigstore library |
 | 7        | [User Experience for Signed Build Artifacts](https://gitlab.com/groups/gitlab-org/-/epics/8839)   | Blocked due to lack of ruby-sigstore library |
 | 8        | [Support for GitSign](https://gitlab.com/gitlab-org/gitlab/-/issues/364428) | Ready for refinement |
 | 9+       | This is a WIP and we are still working to add a list of prioritized Epics to deliver on the rest of the exit criteria for the group. | In progress |
