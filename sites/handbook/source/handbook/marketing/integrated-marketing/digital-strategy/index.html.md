@@ -20,7 +20,6 @@ The Digital Strategy team generates new prospects through paid channels by build
 
 ### Team
 
-- [Zac Badgley](https://gitlab.com/zbadgley) - Digital Marketing Manager
 - [Sara Valko](https://gitlab.com/svalko) - Digital Marketing Manager
 - [Joon Shin](https://gitlab.com/jshin3) - Sr. Digital Marketing Manager
 - [Social Marketing](/handbook/marketing/integrated-marketing/digital-strategy/social-marketing/)
