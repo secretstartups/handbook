@@ -77,7 +77,7 @@ Especially if you feel you're stalled on a ticket and need assistance identifyin
    - the support engineer has noticed a correlation between several of a customers tickets that could use a more cohesive response
    - there is an urgent need for action in a different region (for example, finding a ticket owner or scheduling a call)
 
-### How to Use GitLab.com to Formally Request Help from the GitLab Development Team
+### How to formally Request Help from the GitLab Development Team
 
 Starting from `2022-06-13` the Support Team and the Development Team are rolling out a series of projects that will enable support engineers to request help from a GitLab Development group, for more information on this please review the [associated proposal](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4023). The aim is to provide a formal and accountable workflow process for Support Engineers to request assistance from the various Development Sections for any technical issues which they are currently unable to progress.  Please note that this is an iterative process, which aims to roll out the process for each of the 10 development sections at GitLab. If the Development Section that you require assistance from is not listed in the table below then please continue to use the existing methods for contacting the relevant Development Teams, such as Slack.
 
@@ -112,41 +112,28 @@ Please follow [support epic #222](https://gitlab.com/groups/gitlab-com/support/-
 
 **Please note:** GitLab Dedicated is the first iteration for implementing a Request For Help Section for the SaaS section of GitLab development, therefore at the moment the GitLab project structure and workflows may not be consistent with the other development sections in the above table. You can find out more information on GitLab Dedicated internal processes by visiting the [Dedicated Team's ReadMe](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/blob/main/README.md).
 
-#### Support Engineer User Guidance for Opening a Request For Help Issue
-
-##### Thorough Research and Investigation:
+#### Research prior to opening an issue
 
 Use the following repositories and resources for identifying similar issues or requests:
-   - Zendesk for related tickets.
-   - Previous GitLab Application [bugs and feature requests](https://gitlab.com/gitlab-org/gitlab/-/issues).
-   - Previously logged GitLab.com issues.
-   - Discuss with knowledge experts and support stable counterparts.
-   - Search for previously opened issues in the relevant Development Section Project on GitLab.com.
 
-##### Create a Detailed Issue:
+1. Zendesk for related tickets.
+1. Previous GitLab Application [bugs and feature requests](https://gitlab.com/gitlab-org/gitlab/-/issues).
+1. Previously logged GitLab.com issues.
+1. Discuss with knowledge experts and support stable counterparts.
+1. Search for previously opened issues in the relevant Development Section Project on GitLab.com.
 
-   - Open the corresponding GitLab.com Development Section Project as defined [here](#list-of-development-sections-and-corresponding-links-to-the-projects-for-requesting-help)
-   - Review the Development groups and corresponding templates section. Use the provided GitLab Handbook Section Breakdown link at the bottom of the Project ReadMe file if you are unsure about which Section Sub Group and corresponding template to use.
-   - Make sure to use the correct corresponding issue template when creating a new issue.
-   - Complete all the fields in the issue template and attach all necessary files.
-   - Ensure that an appropriate severity is set as defined by the [support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact. You should set the approriate label `severity::1`, `severity::2`, `severity::3`, `severity::4` so that it corresponds with the priority level in Zendesk.
-   - If the Zendesk ticket is escalated then add the label `Support::escalated`.
-   - Add a 'Customer Impact' statement if necessary, advocating for the customer.
+#### Create a detailed issue
 
-##### Follow-Up and Escalation:
-
-   - If the issue is not automatically assigned to the relevant developers, follow the instructions in the template to assign it to the appropriate group.
-   - Ensure that a link to the corresponding issue is added to the Zendesk ticket as an internal note.
-   - If the Zendesk ticket is escalated, add the `Support::escalated` label to the GitLab issue.
-   - If there is no response within an appropriate timeframe, review the contacts listed in the issue template and check Slack for their availability. If the primary contact is not available, ping their backup via the issue or contact the corresponding Engineering Manager who will be listed in the project ReadMe.
-   - Once you receive all the necessary assistance, ensure to close the issue and add a comment explaining why it is being closed.
-
-##### Documentation and Knowledge Sharing:
-
-   - Consider whether the solution or information contained within the issue can be used to create a GitLab Doc issue.
-   - If applicable, create a GitLab Doc issue for knowledge sharing and documentation purposes.
-
-By following these steps, Support Engineers can ensure that the issue submission process is thorough, well-documented, and efficiently managed, leading to effective problem resolution and knowledge sharing within the GitLab community.
+1. Open the corresponding Development Section Project as [defined in the above table](#list-of-development-sections-and-corresponding-links-to-the-projects-for-requesting-help).
+1. Review the Development groups and corresponding templates section.
+   - Use the provided GitLab Handbook Section Breakdown link at the bottom of the Project ReadMe file if you are unsure about which Section Sub Group and corresponding template to use.
+1. Make sure to use the correct corresponding issue template when creating a new issue.
+1. Complete all the fields in the issue template and attach all necessary files.
+1. Ensure that an appropriate severity is set as defined by the [support impact](https://about.gitlab.com/support/definitions/#definitions-of-support-impact). You should set the approriate label `severity::1`, `severity::2`, `severity::3`, `severity::4` so that it corresponds with the priority level in Zendesk.
+1. If the Zendesk ticket is escalated then add the label `Support::escalated`.
+1. Add a 'Customer Impact' statement if necessary, advocating for the customer.
+1. Ensure to follow any instructions on the template itself, such as who to assign the issue to (if not automatically assigned).
+1. Ensure that a link to the corresponding issue is added to the Zendesk ticket as an internal note.
 
 #### Tips on getting timely responses
 
@@ -164,9 +151,12 @@ If you encounter any problems, such as obtaining a timely response from Developm
 1. Feel empowered to ping the contacts and/or Engineering Manager in the corresponding product/development group Slack channel along with a link to the issue, requesting an update.
 1. Reach out to a Support Engineering Manager for further guidance directly or in the `#spt_managers` Slack channel.
 
-#### Prior to closing a request for help
+#### Closing: Document and knowledge share
 
-1. Lastly, prior to closing the issue please review the information within to determine if any of it can be used to update the GitLab documentation, if any of the information is a candidate to be considered for updating the GitLab documentation then add the label `documentation::candidate` so that the issue can be identifiable for future use. If you have actually updated the GitLab documentation then please add a link to the MR to the issue and add the label `documentation::created`.
+1. Once you receive all the necessary assistance, ensure to close the issue and add a comment explaining why it is being closed.
+1. Consider whether the solution or information contained within the issue can be used to update the GitLab documentation.
+   1. If you have updated the GitLab documentation, add the label `documentation::created` and link the merge request.
+   1. Otherwise, add the label `documentation::candidate`, and create a GitLab issue to update the relevant documentation.
 
 ### Quick Links and Resources
 
