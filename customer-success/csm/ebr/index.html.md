@@ -24,11 +24,15 @@ CSMs conduct EBRs with their customers as follows:
 | Commercial | 20% of book of business is offered an EBR per year, in line with the goal of having [20% of the book of business be PR1](/handbook/customer-success/csm/engagement/#growth-accounts) |
 | Enterprise | 1 EBR per customer per year minimum |
 
+## What constitutes an EBR?
+
+An Executive Business Review's purpose is to align on strategy and discuss progress to date. It is a conversation focused on outcomes. Often, the Executive Business Review follows a standard format and prep process [outlined below](#lifecycle-and-timetable) and uses the [standard slide deck template](#resources--materials). However, any meeting with the appropriate stakeholders & leadership on both sides in which details about outcomes and value-based initiatives and a clear path forward on high-level areas of focus to achieve those outcomes are agreed upon, can be considered an Executive Business Review.
+
+The key ingredients for an EBR are alignment and outcomes pertaining to business value.
+
 ## EBR management for a CSM's book of business
 
 As a key strategic engagement with customers, EBRs should be forecasted and planned with a long time horizon. CSMs should plan out their intended EBR delivery schedule for the full fiscal year, based on the [target of conducting an EBR halfway through a customer's renewal cycle (6 months from the renewal date)](/handbook/customer-success/csm/#high-level-responsibilities-of-a-csm).
-
-CSMs can use the [EBR FY Scheduling](https://docs.google.com/spreadsheets/d/1-NpqwEHvGjazn9XeiFdPJ-Ibg0WwueUvnmbUuzhcqxo/edit?usp=sharing) spreadsheet to help with the FY planning process. This helps get forward-looking visibility into when EBRs should be scheduled, and make adjustments to manage workload across the year.
 
 ## Intended participants
 
@@ -55,14 +59,14 @@ Decisions about who to invite to an EBR are made collectively by the account tea
 
 ## Lifecycle and timetable
 
-Below is an overview of the EBR process from start to finish. Timelines are listed relative to the EBR delivery date to provide a roadmap.
+This section outlines the typical flow of an EBR covering preparation, delivery, and follow-ups. As [noted above](#what-constitutes-an-ebr), not every EBR necessarily follows the standard flow and format - but many do, and for those situations this information provides the guide.
 
 | Stage | DRI | Completion date | Details |
 |---|---|---|---|
 | [Internal kickoff](#internal-kickoff) | CSM | 3-4 months prior to intended EBR date | Align with account team members on target timing for the EBR, goals & objectives, topics/focus areas, and [intended participants](#intended-participants). |
 | [Initial discussion with customer](#initial-discussion-with-the-customer) | CSM | 3-4 months prior to intended EBR date | Discussion occurs several months out to provide time for all subsequent steps, and to get the [right attendees included](#intended-participants). |
 | [Scheduling](#scheduling) | CSM, collaborating with customer contacts | 2-3 months prior to intended EBR date | An EBR is considered "scheduled" when a specific date & time has been picked and customer invites accepted, based on confirmed availability of [intended attendees](#intended-participants). Once scheduled, reach out to GitLab leaders you would like to have participate. |
-| [Planning & assembly](#planning--assembly) | CSM, collaborating with customer contacts and account team | 1 month prior to scheduled EBR date | Build the EBR using our [EBR template](https://docs.google.com/presentation/d/1X9N8eoEZrgUx486en8iN3ZxVtQgNYnY6bAHBKYOA6m0/edit) as a starting point, and in collaboration with the GitLab account team, customer participants/contacts, and anyone else who will be involved. The [Success Plan](#success-planning) is used to frame strategic alignment and objectives. |
+| [Planning & assembly](#planning--assembly) | CSM, collaborating with customer contacts and account team | 1 month prior to scheduled EBR date | Build the EBR using our [EBR template](#resources--materials) as a starting point, and in collaboration with the GitLab account team, customer participants/contacts, and anyone else who will be involved. The [Success Plan](#success-planning) is used to frame strategic alignment and objectives. |
 | [Semi-final internal review](#semi-final-internal-review) | CSM leading, with GitLab presenters and attendees | 3-4 weeks prior to scheduled EBR date | Align with all members of the account team and other GitLab participants on EBR plan, and iterate based on collective feedback. The slide deck and talk track should be mostly complete by this meeting. |
 | [Final review with customer](#final-review-with-customer) | CSM leading, meeting with customer contacts and account team members | 2-3 weeks prior to scheduled EBR date | Validate that the content and intended messaging is aligned with their org's expectations, and that we have accurate details regarding their objectives. |
 | [Final internal review & prep](#final-internal-review--prep) | CSM leading, all GitLab attendees & presenters | 2 weeks prior to scheduled EBR date | This meeting needs to include all GitLab team members who will be present for the EBR and ensure that everyone is aligned on the plan and objectives. **The slide deck and talk track is complete by this meeting, except for any minor adjustments done during this review.** |
@@ -151,7 +155,7 @@ While an EBR is a specific motion, we should naturally treat all [cadence calls]
 
 This is the longest phase of the EBR process, since this is when the EBR actually comes together. Leveraging all of the details we know about the customer across different sources, and collaborating with customer contacts, the content & discussion points for the EBR are assembled.
 
-Use the [GitLab EBR template](https://docs.google.com/presentation/d/1X9N8eoEZrgUx486en8iN3ZxVtQgNYnY6bAHBKYOA6m0/edit) to create your slide deck. Please ensure you are using the most current template, rather than copying a previous EBR deck, by starting from the template linked here.
+Use the [GitLab EBR template](#resources--materials) to create your slide deck. Please ensure you are using the most current template, rather than copying a previous EBR deck, by starting from the template linked here.
 
 The customer's [success plan](#success-planning) forms the basis of the EBR. Think of the success plan as the blueprint for the EBR content. A well-formed success plan provides the key information you need to discuss customer strategy, objectives & goals, accomplishments, progress on current initiatives, and roadmap for the future.
 
@@ -276,9 +280,10 @@ The CSM Manager will discuss the EBR with the CSM in their next 1:1 after the EB
 
 ## Resources & materials
 
-- [EBR slide deck template](https://docs.google.com/presentation/d/1X9N8eoEZrgUx486en8iN3ZxVtQgNYnY6bAHBKYOA6m0/edit)
+- [EBR slide deck template](https://docs.google.com/presentation/d/1X9N8eoEZrgUx486en8iN3ZxVtQgNYnY6bAHBKYOA6m0/edit?usp=sharing): this is the standard template for Executive Business Reviews, aligned to the success plan format and focused on business objectives & results.
+- [EBR FY Scheduling](https://docs.google.com/spreadsheets/d/1-NpqwEHvGjazn9XeiFdPJ-Ibg0WwueUvnmbUuzhcqxo/edit?usp=sharing): This spreadsheet is used to help with the FY planning process. This helps get forward-looking visibility into when EBRs should be scheduled, and make adjustments to manage workload across the year.
 
-Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR Fact Sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which CSMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
+Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR.
 
 ### Sample EBR proposal talk track
 
