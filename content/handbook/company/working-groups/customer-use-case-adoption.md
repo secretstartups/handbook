@@ -44,7 +44,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Executive Sponsor                            | Sid Sijbrandij                | CEO                                                        |
 | DRI/Facilitator                              | David Tuan                    | Director, Strategy and Operations                          |
 | Functional Lead - CSM                        | Sherrod Patching              | VP, Customer Success Management                            |
-| Functional Lead - Enterprise Sales           | Mike Pyle                     | VP of Enterprise Sales                                     |
+| Functional Lead - Sales                      | Open - TBD                    |                                                            |
 | Functional Lead - Marketing                  | Dave Steer                    | VP, Product Marketing                                      |
 | Functional Lead - Product                    | Jackie Porter                 | Director, Product Management                               |
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
