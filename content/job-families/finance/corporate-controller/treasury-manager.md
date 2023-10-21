@@ -4,7 +4,7 @@ title: "Treasury"
 
 ### Levels
 
-##  Treasury Analyst
+## Treasury Analyst
 
 The Treasury Analyst reports to the [Director Treasury](https://about.gitlab.com/job-families/finance/corporate-controller/treasury-manager/#director---treasury)
 
@@ -16,7 +16,7 @@ The Treasury Analyst is a [grade #6](https://about.gitlab.com/handbook/total-rew
 
 - Partner effectively across functional teams (AP, Payroll, Accounting, Legal, and Tax) to execute on key Treasury initiatives and cross-functional projects involving Treasury
 - Maintain worldwide banking relationships
-- Execute the 13-week Cash Forecasting Process 
+- Execute the 13-week Cash Forecasting Process
 - Execute and continuously improve daily treasury operations not limited to cash management, Treasury systems, processes and controls, foreign exchange, domestic and international intercompany settlement/funding and short-term investments
 - Assist with ongoing bank account administration including opening and closing of accounts, updating account documentation, maintain authorized signatories, and KYC (Know Your Customer) requirements
 - Ensures compliance with SOX controls, FBAR, anti-money laundering regulations, and other rules governing cash transactions and banking
