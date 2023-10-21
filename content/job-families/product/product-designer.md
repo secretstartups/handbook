@@ -147,10 +147,6 @@ Everything in the various levels of Product Designer roles, plus:
 - **Creation and management of feature flags** Know when to use feature flags, how to create them, and montitor their progress and potential feedback.
 - **Familiarity with unit testing** The ability to fix, update, and write RSpec and Jest tests.
 
-## Tools
-
-Tools used by the UX department are flexible depending on the needs of the work. Please see the [Product Designer Onboarding](http://about.gitlab.com/handbook/product/ux/product-designer-onboarding/) page for more details.
-
 ## Performance indicators
 
 - [Perception of System Usability](http://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability)
