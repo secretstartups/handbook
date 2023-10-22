@@ -474,69 +474,6 @@ Make sure the appropriate labels (such as `customer`) are applied so every issue
 
 ## Product Development Timeline
 
-This section is for releases up to and including 16.5. For releases 16.6 and later, see [Releases 16.6 and later - Product Development Timeline](#release-166-and-later---product-development-timeline).
-{: .alert .alert-gitlab-orange}
-
-[![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
-
-Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
-There is no specified process whereby a particular person should be working on a set of issues in a given time period.
-However, there are specific deadlines that should inform team workflows and prioritization.
-Suppose we are talking about milestone `m` that will be shipped in month `M` (on the [release date](/handbook/engineering/releases/)).
-We have the following deadlines:
-
-- By month `M-1, 4th` (at least 14 days before milestone `m` begins):
-  - Draft of the issues that will be included in the next release (released next month).
-  - Start capacity and technical discussions with engineering/UX.
-  - Assess error budgets to determine feature/reliability balance.
-  - Development engineering manager provides product manager with prioritization input for `type::maintenance` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
-  - [Quality](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization) provides product manager with prioritization input for `type::bug` issues per [cross-functional prioritization](https://about.gitlab.com/handbook/product/product-processes/#cross-functional-prioritization)
-- By month `M-1, 10th`product manager, taking into consideration prioritization input from development EM, Quality, and UX to create a plan of issues for the upcoming milestone
-  - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
-  - Kickoff document is updated with relevant items to be included.
-- By month `M-1, 13th` (at least 5 days before milestone `m` begins):
-  - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
-  - Kickoff document is updated with relevant items to be included.
-- By month `M-1, 16th` (at least 1 day before milestone `m` begins):
-  - [Group Kickoffs calls](/handbook/product/product-processes/#kickoff-meetings) recorded and uploaded.
-- On month `M-1, 18th` (or next business day, milestone `m` begins): **Kick off!** 📣
-  - [Company Kickoff](#kickoff) call live streamed.
-  - Development on milestone `m` begins
-- By month `M-1, 24th` The development lead for each stage/section coordinates a stage/section level review with the quad [cross-functional dashboard review process](/handbook/engineering/cross-functional-prioritization/#cross-functional-dashboard-reviews).  After the stages/section level reviews are complete, the VP of Development coordinates a summary review with the CTO, VP of Product, VP of UX, and VP of Quality.
-- On `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
-- By month `M, 17th`:
-  - Completed `m` issues with docs have been merged into master.
-  - Feature flags should be flipped from default off to default on after verification to be in the `m` release. See [feature flags](/handbook/product-development-flow/feature-flag-lifecycle/#including-a-feature-behind-feature-flag-in-the-final-release).
-  - Merging by the 17th **does not guarantee** that the feature will be in the `m` release. See [release timelines](/handbook/engineering/releases/#timelines).
-  - Individual [release post entries](/handbook/marketing/blog/release-posts/index.html#contribution-instructions) merged for all relevant issues.
-  - By end of the day, milestone `m` is expired.
-- On or around `M, 21st`:
-  - [Group Retrospective issues](/handbook/engineering/management/group-retrospectives/) are updated with shipped and missed deliverables and team-members are tagged in the discussion.
-- On `M, 19th`, or `M, 20th`, or `M, 21st`:
-  - [Milestone Cleanup](#milestone-cleanup) runs on the schedule at [Milestone cleanup schedule](#milestone-cleanup-schedule)
-- On month `M, 22nd`: **Release Day** 🚀
-  - Release shipped to production.
-  - Release post published.
-- On month `M, 23rd` (the day after the release):
-  - The patch release process for milestone `m` starts. This includes regular and security patch releases.
-  - All unfinished `m` issues and merge requests are automatically moved to milestone `m+1`, with the exception of `~security` issues.
-- On `M, 24th`: Moderator opens the [Retrospective planning and execution issue](#retrospective).
-- Between `M, 24th` to `M+1, 3rd`: Assignees of [Group Retrospective issues](#retrospective) summarize the discussion, ensure corrective actions are taken and a DRI is assigned to each. Actions related to participation in [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4) are taken.
-- On or around `M, 26th`:
-  - [Product plans](/handbook/product/product-processes/#managing-your-product-direction) are to update to reflecting previous and current releases, including category epics and direction pages.
-- On or around `M, 28th`:
-  - Non-critical security patches are  [released](../security/index.html#security-releases).
-
-Refer to [release post content reviews](/handbook/marketing/blog/release-posts/#content-reviews) for additional deadlines.
-
-Note that deployments to GitLab.com are more frequent than monthly major/minor releases.
-See [auto deploy transition](https://gitlab.com/gitlab-org/release/docs/blob/21cbd409dd5f157fe252f254f3e897f01908abe2/general/deploy/auto-deploy-transition.md#transition) guidance for details.
-
-### Release 16.6 and later - Product Development Timeline
-
-This section is for release 16.6 and later. For releases up to and including 16.5, please see the previous [Product Development Timeline](#product-development-timeline).
-{: .alert .alert-gitlab-orange}
-
 [![](gitlab-release-timelines.png)](https://gitlab.com/gitlab-org/gitlab-foss/-/snippets/1731455)
 
 Teams (Product, UX, Development, Quality) continually work on issues according to their respective workflows.
@@ -616,17 +553,6 @@ Each retrospective consist of three parts:
 - [Retrospective Discussion](/handbook/engineering/workflow/#retrospective-discussion): a 25 minute live discussion diving into retrospective discussion topics
 
 **Timeline**
-
-- `M-1 26th`: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
-- `M, 21st`: Group Retrospectives should be held.
-- `M, 24th`: Moderator opens the Retrospective planning and execution issue and communicates a reminder in R&D quad slack channels.
-- `M, 24th` to `M+1, 3rd`: Participants complete the Retrospective planning and execution issue, add their notes to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit#), and suggest and vote on discussion topics.
-- `M+1, 4th`: Moderator records the Retrospective Summary video and announces the video and discussion topics.
-- `M+1, 6th`: Retrospective Discussion is held.
-   - OR, the next Monday if `M+1, 6th` falls in a weekend.
-   - OR, the 2nd working day after `M+1, 6th` if `M+1, 6th` is a holiday.
-
-**Timeline - Release 16.6 and later**
 
 - **Wednesday, 11 days after the milestone begins**: GitLab Bot opens [Group Retrospective](/handbook/engineering/management/group-retrospectives/) issue for the current milestone.
 - **Wednesday, the day before the release date**: Group Retrospectives should be held.
@@ -709,14 +635,14 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 **Steps for participants**
 
 1. Suggest discussion topics by commenting on to the Retrospective planning and execution issue.
-1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on `M+1, 3rd` (for release 16.6 and later, this is the **Wednesday, 13 days after the release date**).
-1. Once discussion topics are announced on `M+1, 4th` (for release 16.6 and later, this is the **Thursday, 14 days after the release date**), begin adding your comments to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
+1. Vote on discussion topics by adding a :thumbsup: reaction. Voting closes on the **Wednesday, 13 days after the release date**.
+1. Once discussion topics are announced on the **Thursday, 14 days after the release date**, begin adding your comments to the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit).
 1. During the Retrospective Discussion, be prepared to verbalize any improvement tasks or commentary on the discussion topics. If you can't make the meeting and there is an item for you to verbalize, please ask someone else on your team to attend to do so.
 
 **Steps for the moderator**
 
 1. In the Retrospective planning and execution issue, create a thread asking participants to suggest and vote on topics.
-1. Voting ends at the close of business on `M+1, 3rd` (for release 16.6 and later, this is the **Wednesday, 13 days after the release date**). Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
+1. Voting ends at the close of business on the **Wednesday, 13 days after the release date**. Take note of which discussion topics have the most votes at this time. If there are not enough votes or if you deem the discussion topics as not relevant to the majority of participants, please choose other discussion topics.
 1. Announce the discussion topics alongside of the Retrospective Summary video in the Retrospective planning and execution issue, the #whats-happening-at-gitlab slack channel, and the [retro doc](https://docs.google.com/document/d/1nEkM_7Dj4bT21GJy0Ut3By76FZqCfLBmFQNVThmW2TY/edit)
 1. Ensure the Retrospective Discussion calendar invite is sent to participants by coordinating with the VP Development.
 1. Host the Retrospective Discussion and press livestream to YouTube.
@@ -799,28 +725,6 @@ The milestone cleanup is currently applied to the [following groups and projects
 Milestones closure is in the remit of [the Delivery team](/handbook/engineering/infrastructure/team/delivery/). At any point in time a release might need to be created for an active milestone,and once that is no longer the case, the Delivery team closes the milestone.
 
 ### Milestone cleanup schedule
-
-This section is for releases up to and including 16.5. For releases 16.6 and later, see [Releases 16.6 and later - Milestone cleanup schedule](#release-166-and-later---milestone-cleanup-schedule).
-{: .alert .alert-gitlab-orange}
-
-The milestone cleanup will happen one weekday before the release day.
-
-The following is observed to account for the weekends:
-- If the 22nd falls on the weekend, cleanup happens on the prior friday.
-- If the 22nd falls on Monday, cleanup happens on the prior friday.
-
-These actions will be applied to open issues:
-- Open issues and merge requests will be moved to the next milestone, and
-  labelled with `~"missed:x.y"`.
-- `~"missed-deliverable"` will also be added whenever `~"Deliverable"`
-    is presented.
-
-Milestones are closed when the Delivery team no longer needs to create a backport release for a specific milestone.
-
-#### Release 16.6 and later - Milestone cleanup schedule
-
-This section is for release 16.6 and later. For releases up to and including 16.5, please see the [previous Milestone cleanup schedule](#milestone-cleanup-schedule).
-{: .alert .alert-gitlab-orange}
 
 The milestone cleanup will happen the day before the release date.
 
