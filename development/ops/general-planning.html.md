@@ -18,7 +18,7 @@ The goals of this process are to ensure we:
 Teams can customize this process to meet needs specific to their team as long as the customizations are documented on their team handbook page.
 
 
-#### M-1, 22nd (1 month before start of milestone)
+#### 1 month before start of milestone
 
 * PM: create a Planning Issue for the milestone from the team's [Planning Issue Template](#planning-issue-template).
 * PM: Set the Planning Issue milestone based on the current working milestone (e.g. Planning Issue 12.10 goes in milestone 12.9).
@@ -26,26 +26,26 @@ Teams can customize this process to meet needs specific to their team as long as
 * PM: assign the Planning Issue to the PM, Engineering Managers, Product Designer, and Software Engineer in Test.
 * PM: ask for feedback on the **Goals for the Milestone** by adding comments for the product group members and other teams' group members if cross-team collaboration is required. 
 
-#### M-1, 1st (~3 weeks before start of milestone)
+#### ~3 weeks before start of milestone
 
 * Engineering Managers: update **Scope of Engineering Work**
 * Product Designer: update **Scope of Work for UX**
 * PM: review scope of works and provide feedback to Engineering Managers and Product Designers via comments on the issue.  Synchronous conversations are encouraged but should be summarized as comments.
 
-#### M-1, 8th (~2 weeks before start of milestone)
+#### ~2 weeks before start of milestone
 
 * Product Designer: attach first draft designs to the planning issue (directly or via linked issue)
 * Product Designer: add a comment asking for feedback on first draft designs
 * Engineering Managers: add a comment asking for feedback on Scope of Engineering work from engineers or other GitLab team members
 
-#### M-1, 15th (~1 weeks before start of milestone)
+#### ~1 week before start of milestone
 
 * Product Designer: attach next draft designs to the planning issue (directly or via linked issue)
 * Product Designer: add a comment asking for feedback on next draft designs
 * Software Engineer in Test: review issues under **Scope of Engineering Work** and apply `~quad-planning` label
 * Software Engineer in Test: update **Scope of Work for Testing**
 
-#### M, 22nd (Start of milestone)
+#### Release day
 
 * PM: close Planning Issue
 

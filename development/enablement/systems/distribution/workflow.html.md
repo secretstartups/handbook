@@ -130,7 +130,7 @@ as such it has had a number of years of development behind it. Since it is used 
 within the regular monthly release cycle to align with the rest of GitLab
 development.
 
-The development deadlines as defined in [PROCESS](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/PROCESS.md#feature-freeze-on-the-7th-for-the-release-on-the-22nd) document apply to this project.
+The contribution process is defined in the [Contribute to GitLab development](https://docs.gitlab.com/ee/development/contributing/) docs.
 
 ### GitLab Helm charts
 
