@@ -9,9 +9,6 @@ title: "Releases"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Starting in 16.6 (November 2023), we will move from publishing on every 22nd of the month to [**every 3rd Thursday of the month**](https://gitlab.com/groups/gitlab-com/-/epics/2184). The release process is not expected to change, but we will now have a set day of the week for releasing the self-managed releases, reducing the need for our team members to work on weekends in order to prepare for the release. With this change, the code cutoff will now always be the **Friday** before the Thursday release day. All releases up to and including 16.5 will still be published on the 22nd of the month.
-{: .alert .alert-gitlab-orange}
-
 ## Overview and terminology
 This page describes the processes used to release packages to self-managed users. 
 
