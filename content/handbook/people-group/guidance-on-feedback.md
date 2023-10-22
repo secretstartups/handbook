@@ -78,7 +78,7 @@ To optimize for a open, honest, and effective conversation, reflection on the fo
 1. What do I really want for the relationship?
 1. How would I behave if I really wanted these results?
 
-Preparing for hard conversations is important, tips [in this article](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger) about using mediation techniques can help you prepare to have these conversations in an authentic and honest manner. 
+Preparing for hard conversations is important, tips [in this article](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger) about using mediation techniques can help you prepare to have these conversations in an authentic and honest manner.
 
 ### Cross-Cultural Feedback Considerations
 
