@@ -78,6 +78,8 @@ To optimize for a open, honest, and effective conversation, reflection on the fo
 1. What do I really want for the relationship?
 1. How would I behave if I really wanted these results?
 
+Preparing for hard conversations is important, tips [in this article](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger) about using mediation techniques can help you prepare to have these conversations in an authentic and honest manner.
+
 ### Cross-Cultural Feedback Considerations
 
 GitLab has 2000+ team members from diverse [cultures and backgrounds](https://about.gitlab.com/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
