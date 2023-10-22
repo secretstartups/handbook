@@ -665,10 +665,7 @@ Open issues and merge requests that have missed the current release will be resc
 **Note:** Confidential issues will be skipped as part of the `missed` label application. Please see the [this issue](https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/45) for more information
 
 * Automation conditions: Open issues or merge requests that missed the current
-  milestone, i.e. current date is
-  * `>= 19th` if the 22nd is on a Monday
-  * `>= 20th` if the 22nd is on a Sunday
-  * `>= 21st` otherwise
+  milestone, i.e. current date is `>= third Wednesday of the month`
 * Automation actions:
   * The issues and merge requests are rescheduled to the next milestone
   * The label `~missed:x.y` is applied, where `x.y` is the current milestone
