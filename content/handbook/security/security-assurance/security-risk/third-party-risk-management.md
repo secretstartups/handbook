@@ -35,21 +35,6 @@ This procedure applies to all third party providers that access, store, process 
 | Business or System Owner |  [Describe the nature of the Third Party Relationship](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the third party as part of the security review requirements |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-## Third Party Minimum Security Standards
-
-TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
-
-The following items often reflect Security deficiencies that may result in a higher vendor residual risk score:
-1. Inability to integrate with *[Okta](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta)
-1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
-1. Lack of background checks for employees and contractors
-1. Systems lacking multi-factor authentication (MFA) capabilities
-1. Systems lacking evidence of a recent penetration test
-
-*While Okta SSO integration is GitLab's preferred method, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
-
-Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
-
 ## Procedure
 
 Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification]({{< ref "data-classification-standard" >}}) of data shared with the third party.
@@ -290,6 +275,21 @@ Commonly requested individual-use software is added to the Pre-Approved Applicat
 
 Want to vet a third party before initiating a new procurement request? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
 
+## Third Party Minimum Security Standards
+
+TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
+
+The following items often reflect Security deficiencies that may result in a higher vendor residual risk score:
+1. Inability to integrate with *[Okta](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta)
+1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
+1. Lack of background checks for employees and contractors
+1. Systems lacking multi-factor authentication (MFA) capabilities
+1. Systems lacking evidence of a recent penetration test
+
+*While Okta SSO integration is GitLab's preferred method, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
+
+Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
+
 ### TPRM Risk Acceptance Process
 
 Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relevant stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
@@ -314,6 +314,8 @@ Please refer to our [StORM Handbook]({{< ref "storm-program#accept-the-risk" >}}
 ## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "/handbook/security#information-security-policy-exception-management-process" >}}).
+
+
 
 ## Documentation Requests
 
