@@ -128,7 +128,18 @@ At various times it's easy to over-optimize on one of the pillars to solve a pro
 
 ### About the Support Team
 
-The support team has a few elements and we've divided the support handbook as such:
+The [Single Source of Truth](/handbook/company/culture/all-remote/remote-work-glossary/#single-source-of-truth-ssot)
+for information about Support Team Members - everything from email address and
+personal interests to product skills and group memberships - is the
+[support-team.yaml file](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml).
+The [Support Team Home Page](https://gitlab-com.gitlab.io/support/team/) is
+built from the information in that file. Many other Support tools and
+automations make use of it also. See the
+[Support team entry page](https://gitlab.com/gitlab-com/support/team/-/wikis/Support-team-entry)
+of the [Support Team wiki](https://gitlab.com/gitlab-com/support/team/-/wikis/home)
+for details of the structure of the file.
+
+Information for and about the different parts of the Support Team can be found in the following sections of the Support Handbook:
 
 - [/support/engineering](/handbook/support/engineering/index.html) is content that is for Support Engineers. Think: Zendesk workflows and technical resources.
 - [/support/license-and-renewals](/handbook/support/license-and-renewals/index.html) is content for the Licensing and Renewals Support Engineers and Managers. Think: [customers.gitlab.com](https://customers.gitlab.com) and working with the Fulfillment Product Team.
