@@ -173,7 +173,7 @@ Always share your work for review. If you are working from an existing Canva tem
 
 ### Templates
 - [GitLab pitch deck template](https://docs.google.com/presentation/d/1vtFnh8DU6ZZzASTHg83UrhM6LJWqo5lq9mJDAY2ILpw/edit?usp=sharing)
-- [Google Slides branded deck theme](https://about.gitlab.com/handbook/tools-and-tips/#updating-your-existing-slide-deck-theme)
+- [Google Slides branded deck theme](https://docs.google.com/presentation/d/1XhGp21FKlIBiJMI9OpvwyneF6fkrQeOQjFxDJF678Ys/edit#slide=id.g1e546bbceaf_0_817)
 - [General templates for email assets](https://www.canva.com/folder/FAFTVmFzaI0) ([GitLab Enterprise](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#gitlab-enterprise-access) account access required)
 - [Email signature template](https://docs.google.com/document/d/1iSOYSi69R-OWqzn11GheH-IipmbhDwvc3PnVDxdHxRY/edit?usp=sharing) (Internal access only)
 - [Google Docs branded templates](https://drive.google.com/drive/folders/1U97a05txXI29pGxjOtLiG4DW-zBMHAU5?usp=sharing) (Internal access only)
