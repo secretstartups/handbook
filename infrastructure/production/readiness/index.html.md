@@ -11,7 +11,8 @@ It loosely follows the [production readiness review][google sre engagement] from
 The goal of the readiness review is to make sure we have enough documentation, observability, and reliability for the feature, change, or service to run at GitLab.com production scale.
 The readiness review process should be started as early as possible as features progress through our [product maturity levels][maturity levels].
 
-**A readiness review must be completed before the Reliability team will take responsibility for the availability of the service, feature, or change being proposed.**
+**Completing a readiness review doesn't necessarily mean that the Reliability team will take over on-call responsibilities or ownership from the service team.**
+**For situations where the Reliability team _is_ taking over ownership and/or on-call responsibilities for a service, a review must be completed.**
 
 It is important to start as early as possible and it is required for all [product maturity levels][maturity levels].
 A readiness review should be created for changes that meet any of the following criteria:
