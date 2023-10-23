@@ -63,7 +63,7 @@ There are a few recent examples of foundational research projects completed by o
 * [Developer engagement study](https://gitlab.com/gitlab-org/ux-research/-/issues/1599)
 
 ## Useful information to started
-There are several ways to come up with a potential foundational research topic. These include looking at existing information such as internal analytics data (metrics on product usage) or examining open-ended customer feedback ([SUS surveys](/handbook/product/ux/sus-database/), [PNPS surveys](/handbook/product/product-operations/surveys/#sts=Paid%20NPS%20(PNPS)), social media posts) for areas that need further exploration. 
+There are several ways to come up with a potential foundational research topic. These include looking at existing information such as internal analytics data (metrics on product usage) or examining open-ended customer feedback ([SUS surveys](/handbook/product/ux/sus-database/), social media posts) for areas that need further exploration. 
 
 Another valuable resource for generating research questions is existing research insights (commonly referred to as [desk research](https://www.nngroup.com/articles/secondary-research-in-ux/)). You can examine this data across multiple studies (findings collected on a particular topic or set of related topics) to understand what is still unknown about users.
 
