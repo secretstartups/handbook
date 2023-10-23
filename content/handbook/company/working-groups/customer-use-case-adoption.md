@@ -50,6 +50,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Functional Lead - Professional Services      | Kevin Lake                    | VP of Professional Services                                |
 | Functional Lead - Developer Relations        | Michael Friedrich             | Senior Developer Evangelist                                |
 | Functional Lead - CI Adoption Data           | Michael Arntz                 | Sales Strategy Manager                                     |
+| Functional Lead - Enterprise Data            | Israel Weeks                  | Director, Data and Analytics                               |
 | Member - Chief of Staff Team (CoST)          | Marshall Cottrell             | Principal Strategy and Operations                          |
 | Member - Customer Success Management         | Luke Stahlman                 | Senior Customer Success Manager                            |
 | Member - Customer Success Management         | Rachel Fuerst                 | Senior Public Sector Customer Success Manager              |
