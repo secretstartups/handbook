@@ -15,15 +15,15 @@ GitLab will continue to review responses from the [Global Benefits Survey]({{< r
 
 Annual Mandatory Indexation:  Each year Belgian’s Joint Industrial Committee 227 (JIC 227) completes a salary review and recommends an adjustment in keeping with the cost of living. That adjustment is referred to as salary indexation and affects employees of companies that are subject to the committee's oversight. GitLab processes these mandated increases as part of Annual Compensation Review. An email will be sent to affected team members that will state their salary increase is an advance payment (partly) on the given year indexation, aiming at compensating (partly) for the increased costs of living and will ask for an acknowledgment of receipt of said email to each employee.
 
-## Healthcare Allowance 
+## Healthcare Allowance
 
-**Allowance: gross amount of 70 Euros Per month** 
-- Healthcare Monthly Allowance will be paid by Payroll as an allowance to team members to help subsidize the cost for their own Healthcare plans. 
-- Team Members will need to purchase their own healthcare plans. No documentation is needed to receive the allowance. 
-- This amount will be paid on a monthly basis with the regular payroll and will be taxed accordingly. 
-- The allowance will be prorated for New Hires that start in the middle of the month and terminations that end in the middle of the month. 
-- Team members on sick pay or unpaid parental leave will continue to receive the monthly allowance. 
-- The allowance is the first iteration of the Belgium Medical Benefits. Once it is possible to set up a group insurance plan in Belgium, the medical allowance policy will be removed.  
+**Allowance: gross amount of 70 Euros Per month**
+- Healthcare Monthly Allowance will be paid by Payroll as an allowance to team members to help subsidize the cost for their own Healthcare plans.
+- Team Members will need to purchase their own healthcare plans. No documentation is needed to receive the allowance.
+- This amount will be paid on a monthly basis with the regular payroll and will be taxed accordingly.
+- The allowance will be prorated for New Hires that start in the middle of the month and terminations that end in the middle of the month.
+- Team members on sick pay or unpaid parental leave will continue to receive the monthly allowance.
+- The allowance is the first iteration of the Belgium Medical Benefits. Once it is possible to set up a group insurance plan in Belgium, the medical allowance policy will be removed.
 
 ## Ecocheques
 
