@@ -82,7 +82,7 @@ These definitions imply several on-call rotations for the different roles. Note 
 
 #### Incident Manager (IM)
 
-_For general information about how shifts are scheduled and common scenarios about what to do when you have PTO or need coverage, see the [Incident Manager onboarding documentation](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/#questions-about-becoming-an-incident-manager)._
+_For general information about how shifts are scheduled and common scenarios about what to do when you have PTO or need coverage, see the [Incident Manager onboarding documentation](/handbook/engineering/infrastructure/incident-management/incident-manager-onboarding/#frequently-asked-questions)_
 
 When paged, the Incident Managers have the following responsibilities during a Sev1 or Sev2 incident and should be engaged on these tasks immediately when an incident is declared:
 
@@ -705,4 +705,3 @@ When a near miss occurs, we should treat it in a similar manner to a normal inci
 1. Ownership of the incident review should be assigned to the team-member who noticed the near-miss, or, when appropriate, the team-member with the most knowledge of how the near-miss came about.
 
 [related issue links]: https://gitlab.com/gitlab-com/gl-infra/production/-/blob/5343440ac4ef41fa5a27053a6938480d229bee3e/.gitlab/issue_templates/incident.md#create-related-issues
-
