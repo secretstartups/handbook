@@ -21,6 +21,7 @@ The Quality team currently works cross-functionally and our task ownership spans
   - [GitLab Triage](https://gitlab.com/gitlab-org/ruby/gems/gitlab-triage)
   - [GitLab Roulette](https://gitlab.com/gitlab-org/gitlab-roulette)
   - [GitLab CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
+  - [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
   - **Ruby gems**
     - [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
     - [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
@@ -55,6 +56,16 @@ Upon joining the Quality department, team members are granted either developer, 
   - After the issue has been reviewed and approved by manager of the Engineering Productivity team, an access request will be created to grant the engineer maintainer role.
 - [GitLab Roulette](https://gitlab.com/gitlab-org/gitlab-roulette)
   - Authored or reviewed 2 MRs in total.
+- [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
+  - Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
+  - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored and reviewed 5 MRs related to improvements to the framework.
+    - Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+- [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
+  - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
+    - Authored 5 MRs related to new features or improvements for GDK.
+    - Reviewed 10 MRs.
+  - After completing the above requirement, the maintainer should be vetted by an existing maintainer in GDK. A merge request should be created in the `www-gitlab-com` repository outlining the reasons why this person should be a maintainer.
 - [GitLab Styles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-styles)
   - Authored or reviewed 2 MRs in total.
 - [GitLab Dangerfiles](https://gitlab.com/gitlab-org/ruby/gems/gitlab-dangerfiles)
@@ -63,17 +74,12 @@ Upon joining the Quality department, team members are granted either developer, 
   - Authored or reviewed 5 MRs in total.
 - [Triage Ops](https://gitlab.com/gitlab-org/quality/triage-ops)
   - Authored or reviewed 10 MRs in total.
-- [GitLab CustomersDot (/qa)](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/qa/)
-  - Quality Growth team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please tag another member of the Quality Growth team to help review.
-  - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
-    - Authored and reviewed 5 MRs related to improvements to the framework.
-    - Authored and reviewed 10 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
 - [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
   - Select Quality Enablement team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please reach out to the Quality Enablement team to help review.
   - In general, team members looking to become maintainers of this project are recommended to have a good working knowledge of [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/) and the GitLab application itself first before applying. We expect that team members will generally feel comfortable and will be granted maintainer access once they have:
     - Authored and reviewed 10 MRs related to improvements to the toolkit.
     - Authored and reviewed 5 MRs related to adding making substantial improvements or additions.
-  - After completing the above requirement the maintainer should be vetted by an existing maintainer for the Toolkit. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 15 MRs in the issue to help aid with review.
+  - After completing the above requirement, the maintainer should be vetted by an existing maintainer for the Toolkit. An issue should be created in the project outlining the reasons why this person should be a maintainer. List all 15 MRs in the issue to help aid with review.
 - [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
   - Select Quality Enablement team members are code owners for this directory. If you are tagged by a developer and don't yet feel comfortable approving a merge request, please reach out to the Quality Enablement team to help review.
   - In general, team members looking to become maintainers of this project are recommended to have a good working knowledge of performance testing in general, [k6](https://k6.io/) and the GitLab application itself first before applying. We expect that team members will generally feel comfortable and will be granted maintainer access once they have:
