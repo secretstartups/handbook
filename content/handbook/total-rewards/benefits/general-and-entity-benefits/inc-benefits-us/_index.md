@@ -14,18 +14,18 @@ US based benefits are arranged through Willis Towers Watson and managed on the P
 
 ## 2024 Plan Year
 
-As GitLab continues to grow and mature, we take measures to minimize cost increases to team members; however, we all will see medical insurance premium increases for 2024 due to rising costs with Inflation, labor shortages, and increasing health & drug costs. The company will continue to cover a great majority of Team Members’ cost of insurance – about 85% across all plans. 
-- **For Team Member Only Coverage**, GitLab will continue to pay 100% for the Cigna HDHP plan and contribute $1,200 to your HSA. To help manage rising costs, there will be a premium for the Cigna PPO, Cigna EPO, and Kaiser HMO plans. 
+As GitLab continues to grow and mature, we take measures to minimize cost increases to team members; however, we all will see medical insurance premium increases for 2024 due to rising costs with Inflation, labor shortages, and increasing health & drug costs. The company will continue to cover a great majority of Team Members’ cost of insurance – about 85% across all plans.
+- **For Team Member Only Coverage** GitLab will continue to pay 100% for the Cigna HDHP plan and contribute $1,200 to your HSA. To help manage rising costs, there will be a premium for the Cigna PPO, Cigna EPO, and Kaiser HMO plans.
 - **For Dependent Level Coverage**: Monthly premiums are increasing for all plans (including the Cigna HDHP plan). To help offset the impact, GitLab will now contribute $1,500 into your HSA.
 
 
 ### 2024 Open Enrollment
 
-GitLab’s US Benefits Open Enrollment for Calendar Year 2024 will take place from 2022-10-30 through 2022-11-13. 
+GitLab’s US Benefits Open Enrollment for Calendar Year 2024 will take place from 2022-10-30 through 2022-11-13.
 
 **This year is an active Open Enrollment. You must actively electl if you want coverage in 2024 or if you want to waive coverage and receive the medical allowance.**
 We are implementing significant changes next year, so you must actively select the benefits you want for 2024 –**your existing benefits elections will not automatically roll over.**
-**If you do not enroll or waive coverage,**  your medical plan will default to the Cigna HDHP Team Member only coverage with no HSA – and you will waive all other benefits. 
+**If you do not enroll or waive coverage,**  your medical plan will default to the Cigna HDHP Team Member only coverage with no HSA – and you will waive all other benefits.
 
 
 Please see additional information on the 2024 US benefits Plans
@@ -81,12 +81,12 @@ Team Members can find information on the **2022 Calendar Year** benefit plans, d
 
 
 
-###  ID Cards
+### ID Cards
 
 Cigna will be moving from Physical to Digital ID cards. Team members can request a physical medical card on mycigna.com. Please allow up to two weeks for ID cards to generate after completing your enrollment.
 
 
-Kaiser cards will be mailed within 3 weeks of submitting your benefit elections. 
+Kaiser cards will be mailed within 3 weeks of submitting your benefit elections.
 
 - *Cigna:* Digital ID cards are available through the [myCigna](https://my.cigna.com/web/public/guest) website or the [myCigna mobile app](https://www.cigna.com/individuals-families/member-resources/mobile-apps/).
 - *Kaiser:* Digital ID cards are available through the [Kaiser website](https://healthy.kaiserpermanente.org/front-door) or the [Kaiser mobile app](https://healthy.kaiserpermanente.org/pages/mobile-app).
@@ -153,7 +153,7 @@ If your Qualifying Life Event requires documentation the steps below will follow
 
 GitLab offers plans from Cigna, as well as additional Kaiser options for residents of California, and Colorado. Hawaii residents are offered Kaiser options for medical plan enrollment.
 
-If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP), with no HSA. 
+If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP), with no HSA.
 
 GitLab has confirmed that our medical plans are CREDITABLE. page 10 of the [2023 Annual Notice](https://drive.google.com/file/d/1ku6hO8_ckJL49MLqOfFchIq_L4GblksZ/view?usp=sharing) and page 9 of the [2024 Annual Notice](https://drive.google.com/file/d/1fB5r88VUiydWz3pFk76DFK3h5DTyVaDw/view?usp=sharing) of the If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
 
@@ -327,6 +327,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $264         | $264         | $152   |
 | Team Member + Child(ren) | $216         | $216         | $126   |
 | Family                   | $388         | $388         | $276   |
+
 ##### Kaiser Telehealth
 
 Virtual visits for Kaiser members can be accessed by logging into Kaiser's [online portal](https://healthy.kaiserpermanente.org/). Please consult the online portal and your plan details for your copay amount.
@@ -576,10 +577,10 @@ GitLab team members in the United States are eligible for a complementary [Emplo
 
 Team Members can enroll in a Legal Insurance plan with ARAG during Open Enrollment and New Hire Enrollment.
 
-Legal Insurance provides: 
+Legal Insurance provides:
 - Network attorney fees are 100% paid in full for most covered matters.
 - Save hundreds, possibly thousands, when dealing with common legal matters.
-- Work with a network of local, experienced attorneys who can provide advice, review documents and represent you. 
+- Work with a network of local, experienced attorneys who can provide advice, review documents and represent you.
 - Use DIY Docs®, an online tool that helps you create a variety of legally valid documents, including state-specific templates.
 
 Team Members can choose between Two Legal Plan Options:
@@ -593,17 +594,18 @@ $18.25 per month
 $20.90 per month
 
 ### ARAG resources
+
 [Mobile Arag Legal App Flyer](https://drive.google.com/file/d/1MGpQ6C-uNwRZS3VrUkuTZ4d6vkIqNmOk/view?usp=sharing)
 [Common Legal Needs ARAG can assist with](https://drive.google.com/file/d/1bFdnlVxmIzJ5Rixu94643AjwkZD-7OrB/view?usp=sharing)
 [ARAG learning Center (Resources for ALL team members)](https://drive.google.com/drive/folders/1GRepiRZGrLWZTbmt8Tz-zP-XMgPo89Nm)
 [ARAG FAQ](https://drive.google.com/file/d/1x9MJVttezz0KOvW2IZXIkY7qtkIMk8p7/view?usp=sharing)
 [Diversity, Equity, and Inclusion Benefits](https://drive.google.com/file/d/1HnfzAbxs-T1yx_r4vBmmUPaLIdQc9YEq/view?usp=sharing)
- 
+
 
 ## Pet Insurance
 
 GitLab offers team members to join the MetLife group Pet Insurance plan. A MetLife Pet Insurance plan helps cover the costs when unexpected accidents or illnesses occur, so
-nothing gets in the way of caring for your pet when they need it most. 
+nothing gets in the way of caring for your pet when they need it most.
 
 Team Members can enroll in this benefit anytime after 2023-10-30
 
@@ -687,7 +689,7 @@ If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account
 
 #### Health Savings Account (HSA)
 
-GitLab contributes $100 per month for those enrolled in the HSA under Individual cover, and $125 per month under team member + dependent(s) cover. You must be enrolled in the HDHP plan in order to contribute to the HSA. 
+GitLab contributes $100 per month for those enrolled in the HSA under Individual cover, and $125 per month under team member + dependent(s) cover. You must be enrolled in the HDHP plan in order to contribute to the HSA.
 
 ##### Benefits of an HSA account
 
@@ -697,10 +699,11 @@ Your HSA contributions go into your account before taxes. The money you save to 
 Money in your HSA account earns tax-free interest.
 Any unused HSA funds roll over to the next year.  The money is yours forever. It doesn’t expire.
 You can spend your HSA dollars on eligible health care expenses, or save and investment them for the future.
-Once your HSA account hits a certain balance, you can invest a portion of your HSA balance in mutual funds, stocks and bonds. 
+Once your HSA account hits a certain balance, you can invest a portion of your HSA balance in mutual funds, stocks and bonds.
 You can use your HSA to save for retirement. At age 65, you can use the funds for any purpose without a penalty. The money you take out to pay for eligible health care expenses continues to be tax free. You also can take money out for other reasons without paying a penalty.
 
 ##### HSA Account Rollover & Administration
+
 If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
 
 If you would like to adjust your HSA contributions please log into [PlanSource](https://benefits.plansource.com/).
@@ -719,7 +722,7 @@ FSAs typically have a $550 rollover each calendar year. This is subject to chang
 
 In 2023 the maximum salary deferral contribution has increased to $3,050 USD, with the maximum rollover amount increasing to $610 USD.
 
-We will post the updated FSA Maximum deferral contribution and rollover amount for 2024, once published by the IRS. 
+We will post the updated FSA Maximum deferral contribution and rollover amount for 2024, once published by the IRS.
 
 FSAs are employer-owned accounts. If you leave GitLab, your FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
 
@@ -737,7 +740,7 @@ GitLab offers [commuter benefits](https://drive.google.com/file/d/0B4eFM43gu7VPe
 
 In 2023 the contribution limits are $300/month for parking and $300 per month of transit. These contributions rollover month to month.
 
-We will post the update contributions for 2024 once the IRS publishes them. 
+We will post the update contributions for 2024 once the IRS publishes them.
 
 ##### Commuter Benefits Period to Submit Claims
 
@@ -889,7 +892,7 @@ To learn more about State-specific leave laws, please visit the [Leave of Absenc
 
 | Tier                           | Cigna DPPO Base | Cigna DPPO Buy up |
 |--------------------------------|:----------:|
-| Team Member Only               |   $36.94  |  $49.80 | 
+| Team Member Only              |   $36.94  |  $49.80 |
 | Team Member + Domestic Partner |   $73.40  | $98.97 |
 | Team Member + Spouse           |   $73.40   | $98.97 |
 | Team Member + Child(ren)       |   $84.91  | $114.48 |
