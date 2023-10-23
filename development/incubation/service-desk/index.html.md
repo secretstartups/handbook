@@ -33,7 +33,7 @@ Please feel free to [subscribe to this GitLab issue to receive notifications](ht
 **Watch the latest video**
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/OIFDH5L6VwA" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/sGaw5QHvKBU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 We publish [short mid month update videos](https://about.gitlab.com/handbook/engineering/development/incubation/#mid-month-update-video) and
@@ -42,6 +42,7 @@ longer [end of month showcase videos](https://about.gitlab.com/handbook/engineer
 
 | Date | Summary / written version | Video |
 | ---- | ------------------------- | ----- |
+| September Showcase (2023-10-20) | [September 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/17) | [Showcase Video](https://www.youtube.com/watch?v=sGaw5QHvKBU){:target="_blank"} |
 | August Showcase (2023-09-19) | [August 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/15) | [Showcase Video](https://www.youtube.com/watch?v=OIFDH5L6VwA){:target="_blank"} |
 | July Showcase | - | - |
 | June Showcase (2023-07-07) | [June 2023 Showcase](https://gitlab.com/gitlab-org/incubation-engineering/service-desk/meta/-/issues/14) | [Showcase Video](https://www.youtube.com/watch?v=PkgfXulZ6ZQ){:target="_blank"} |
@@ -119,5 +120,6 @@ the new domain.
 
 ### Other resources
 
+- [Replace `mail_room` email ingestion with scheduled Sidekiq jobs](https://docs.gitlab.com/ee/architecture/blueprints/email_ingestion/)
 - [Custom email address for Service Desk (Overview)](https://youtu.be/_moD5U3xcQs)
 - [Video walkthrough on how to set up `mail_room` and Service Desk locally in GDK](https://youtu.be/SdqBOK43MlI)
