@@ -274,6 +274,10 @@ Commonly requested individual-use software is added to the Pre-Approved Applicat
 
 Want to vet a third party before initiating a new procurement request? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
 
+#### Documentation Requests
+
+Looking for compliance reports for an active GitLab vendor? [Open a new issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new) within the TPRM workspace using the 'Vendor Documentation Request' template, and we'll be happy to track it down.
+
 ## Third Party Minimum Security Standards
 
 TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
@@ -289,7 +293,7 @@ The following items often reflect Security deficiencies that may result in a hig
 
 Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
 
-## TPRM Risk Acceptance Process
+### TPRM Risk Acceptance Process
 
 Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relevant stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
 
@@ -310,15 +314,9 @@ In the case of a control deficiency introducing a material risk to the security 
 
 Please refer to our [StORM Handbook]({{< ref "storm-program#accept-the-risk" >}}) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers. IT approval is also required to promote transparency across the organization.
 
-### Exceptions
+## Exceptions to the TPRM Process
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "/handbook/security#information-security-policy-exception-management-process" >}}).
-
-
-
-### Documentation Requests
-
-Looking for compliance reports for an active GitLab vendor? [Open a new issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new) within the TPRM workspace using the 'Vendor Documentation Request' template, and we'll be happy to track it down.
 
 ## References
 
