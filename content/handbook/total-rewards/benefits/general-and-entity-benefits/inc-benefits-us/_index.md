@@ -509,7 +509,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 The following costs are monthly rates which would be deducted from your paycheck.
 
-##### *2023 Rates*: The following costs are monthly rates which would be deducted from your paycheck.
+##### *2024 Rates*: The following costs are monthly rates which would be deducted from your paycheck.
 
 | Tier                     | Vision Base | Vision Buy Up
 |--------------------------|------|------|
