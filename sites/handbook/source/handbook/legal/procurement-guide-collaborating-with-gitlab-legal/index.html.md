@@ -41,6 +41,8 @@ NDA Request(s): [NDA Process](https://about.gitlab.com/handbook/legal/procuremen
 
 Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#negotiating-terms)
 
+Use of competitors' services: [Guidelines](https://internal.gitlab.com/handbook/legal-and-corporate-affairs/legal-and-compliance/productguidance/?redirected-from=internal-handbook.gitlab.io#guidelines-for-use-of-competitors-services-to-gain-competitive-intelligence) (Internal only)
+
 ## NDA Process
 - Prior to exchanging any confidential information, GitLab and a potential Vendor should execute a Mutual Non-Disclosure Agreement. This will ensure the adequate protection of any / all information shared. 
 - Follow the [Non-Disclosure Agreement process](https://about.gitlab.com/handbook/legal/NDA/) to send an NDA via DocuSign or request one if you do not have DocuSign access.
