@@ -158,7 +158,7 @@ Data is stored in the table (in the `RAW.SAAS_USAGE_PING` schema):
 * `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`
 
 > **Note:** Data for the `instance_sql_metrics` and `instance_redis_metrics` are combined after processing and stored in the same row in the table `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`
-> 
+ 
 #### Loading instance `Namespace` based metrics
 
 Data for the `instance_namespace_metrics` are calculated and stored in the table;
@@ -166,6 +166,14 @@ Data for the `instance_namespace_metrics` are calculated and stored in the table
 
 Details about implementation are exposed in **[redis-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
 
+#### Automated Service Ping Observability
+
+To ensure high quality of metrics calculation process and to keep track of metrics, we created a `Monte Carlo` monitor [**Automated Service Ping Metrics observability**](https://getmontecarlo.com/monitors/e618120e-c443-4aee-9f93-927037762219).
+This monitor tracks `Automated Service Ping` metrics on a "week-on-week" basis. It will check if is there any significant rise or drop in metrics values for each week when metrics are calculated.  It is running after Automated Service Ping is done _(it starts each `Monday` at `0700 UTC`)_ and checks any discrepancy in metrics on a weekly basis. We are creating a rolling window to check the last `10` pings.
+
+The monitor is based on the metrics flattened in the table `PROD.COMMON_PREP.PREP_PING_INSTANCE_FLATTENED` and focuses only on the `Automated Service Ping` (`ping_type='SaaS - Automated'`) and scan metrics where `metrics_value>=500` _(to avoid false positives in case changes are rapid)_.
+
+**How to solve the issue:** In case a breach happens, inside the monitor specification you should find the `Investigation Query` section where there is a handy option to check why metrics grow or drop.
 
 #### SaaS Service Ping - Admin mode
 Please note that in order to run the `saas_usage_ping` pipeline, the service account `analyticsapi@gitlab.com` needs [**admin_mode**](https://docs.gitlab.com/ee/administration/settings/).

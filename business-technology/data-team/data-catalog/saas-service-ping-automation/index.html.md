@@ -173,7 +173,7 @@ In case you want to change the metrics type from **database** to **redis** in th
 * Got to metrics definition [page](https://metrics.gitlab.com/)
 * Find the metrics you want to change
 * Press the link, and you will be redirected to the `.yaml` file
-* Press the `edit`/`edit in Web IDE` button and change `data_source: database` to `data_source: redis`
+* Press the `edit`/`edit in Web IDE` button and change `data_source: database` to `data_source: redis`
 * Put a proper comment and check the option to create a new MR, here is an example of how [the merge request](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/105682/diffs) should look like
 * Assign your new MR to a `PI` team member
 
@@ -414,7 +414,7 @@ Variance Frequency `%s` for `28d`, `all time` and `7d` is available below along 
 5. [7d Metrics Comparison - Ping Date 2022-05-30](https://docs.google.com/spreadsheets/d/1TqvBEzIx6VVH3SkTGvZ0WW6s2DG_1MdF2SQkUUjTJvQ/edit#gid=1968437392)
 
 There are some broken queries that the `PI` team is working on fixing that directly impact the metrics values in the Automated process [[gitlab-org&5158](https://gitlab.com/groups/gitlab-org/-/epics/5158), [gitlab-org&7451](https://gitlab.com/groups/gitlab-org/-/epics/7451)].
-
+ 
 ### Useful links
 
 1. [Data KR 1-2 Ship TD: SaaS Service Ping Automation and Deprecate Manual SaaS Service Ping](https://gitlab.com/groups/gitlab-data/-/epics/459)
