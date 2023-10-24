@@ -194,8 +194,8 @@ As an example, let's say your FAQ would have a question like:
 
 You can reframe it to:
 
-> ## How to enable widget X
->
+How to enable widget X
+
 > You can enable widget X by going to User Profile -> Settings and ticking the checkbox next to Enable widget X then clicking on the Save button
 
 #### FAQs are discouraged elsewhere as well
