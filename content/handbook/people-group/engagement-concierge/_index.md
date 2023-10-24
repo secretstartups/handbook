@@ -5,18 +5,18 @@ title: Engagement Concierge
 
 ## Program Overview
 
-The Engagement Concierge is a service that Director+ team leaders can utilize to create bespoke and customized engagement programs that help them build high performing teams. Delivered primarily through learning activities, the Engagement Concierge will focus on skills like building systems for accountability, coaching for results, building trust, and communication strategies. 
+The Engagement Concierge is a service that Director+ team leaders can utilize to create bespoke and customized engagement programs that help them build high performing teams. Delivered primarily through learning activities, the Engagement Concierge will focus on skills like building systems for accountability, coaching for results, building trust, and communication strategies.
 
 The Engagement Concierge sits within the Talent & Engagement team.
 
-Reasons to collaborate with the Engagement Concierge can range from general team building needs through to specific learning needs related to building high performing teams. 
+Reasons to collaborate with the Engagement Concierge can range from general team building needs through to specific learning needs related to building high performing teams.
 
 Here are some examples. As a leader you might want to:
 
 1. Increase trust and belonging on your team.
 1. Help your team of managers become better at coaching their direct reports.
 1. Improve the state of sync and async communication on your team.
-1. Prepare your team to have effective [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}). 
+1. Prepare your team to have effective [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}).
 
 Once approved for the program, a member of the Talent & Engagement team will collaborate with you to find the right initiative or solution for your team.
 
