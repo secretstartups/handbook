@@ -22,29 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## October 2023
 
-### AMER Time Zone Webinar
-
-#### Holistic Approach to Securing the Development Lifecycle
-##### October 24th, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
-
-In this session, we will go over the security and compliance features that are available with your GitLab Ultimate account, including:
-- How to achieve comprehensive security scanning without introducing a multitude of tools and systems that expand your attack surface.
-- How to secure and protect your cloud-native applications and IaC environments within existing DevOps workflows.
-- How to use a single source of truth to improve collaboration between development and security.
-- How to manage all of your software vulnerabilities in one place.
-- How to set up compliance pipelines to provide consistent guardrails for developers, and ensure separation of duties
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_M95B_Z-vRISZ652n7_XmGA#/registration)
-
-#### AI in DevSecOps - GitLab Hands-On Workshop
-##### October 24th, 2023 at 11:00AM-12:30PM Pacific Time / 2:00-3:30PM Eastern Time
-
-Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_V7ii9Ys-ToWYKw6OpYFxDQ)
-
 #### Hands-on Workshop: Security and Compliance in GitLab
 ##### October 25th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
 
@@ -64,20 +41,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Holistic Approach to Securing the Development Lifecycle
-##### October 24th, 2023 9:00-10:00AM UTC / 11:00AM-12:00PM CET
-
-Join this one-hour webinar to gain a better understanding of how to successfully shift security left to find and fix security flaws during development, and to do so more easily and with greater visibility and control than typical approaches can provide.
-
-In this session, we will go over the security and compliance features that are available with your GitLab Ultimate account, including:
-- How to achieve comprehensive security scanning without introducing a multitude of tools and systems that expand your attack surface.
-- How to secure and protect your cloud-native applications and IaC environments within existing DevOps workflows.
-- How to use a single source of truth to improve collaboration between development and security.
-- How to manage all of your software vulnerabilities in one place.
-- How to set up compliance pipelines to provide consistent guardrails for developers, and ensure separation of duties
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_xBCSUKGQTLyVBZhxcRowoQ#/registration)
 
 #### Hands-on Workshop: Security and Compliance in GitLab
 ##### October 25th, 2023 at 9:00-11:00AM UTC / 11:00AM-1:00PM CET
