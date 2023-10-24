@@ -9,11 +9,12 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 
 ### Milestones Goals
 - 16.6: ci_builds and ci_builds_metadata partitions in use
-- 16.7: ci_builds and ci_builds_metadata partition rebalancing completed
+- 16.7: ci_builds and ci_builds_metadata second partitions in use
 - 16.10: ci_job_artifacts partitions in use
 - 16.11: ci_stages partitions in use
 - 17.0: ci_pipeline_variables partitions in use
 - 17.4: ci_pipelines partitions in use
+- 17.6: rebalancing complete for partitioned tables
 
 <details markdown="1">
     <summary markdown="span">Archive</summary>
@@ -77,7 +78,6 @@ description: "The CI Data Partitioning Weekly Project Plan - Pipeline Execution 
 - [~] Fix caching issue blocking enabling use of routing table
 - [~] Enable query analyzers: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
 
-</details>
 
 ## Milestone 16.5 (September 18, 2023 - October 16, 2023)
 
@@ -154,16 +154,23 @@ significantly negatively impacted. We will continue to work on MRs to update fil
 
 #### Task List:
 ##### ci_builds
-- [ ] Switch the table name on the entire fleet
-- [ ] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
-- [ ] Enable query analyzers for ci_builds: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134) (blocked by table name change)
+- [x] Switch the table name on the entire fleet
+- [x] [Analyze partitioned parent tables on a schedule](https://gitlab.com/gitlab-org/gitlab/-/issues/423135)
+- [~] Enable query analyzers for ci_builds: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134) (blocked by table name change)
+
+
+#### Status Update:
+
+The table name got switched on production, so we are able to move forward with the remainder of the partitioning tasks for ci_builds now.
+
+</details>
 
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 #### Team Capacity:
 - 1 BE
 
-#### Goals:
+#### Milestone Goals:
 
 This milestone we plan to finish updating the queries to filter on partition_id for ci_builds and ci_builds_metadata.
 We will add the migration for self-managed that ensures the uniqueness of ids across partitions.
@@ -173,18 +180,55 @@ This will get us to the state where we should start to see some performance impr
 performance decreases as we continue to read from all partitions.
 We will enable the use of the partitions in self-managed for ci_builds.
 
+
+### Week of October 23, 2023
+#### Team Capacity:
+- 1 BE
+
+#### Goals:
+Now that we have the table name switched over in production we are moving forward with enabling the query analyzers. 
+We will continue working on query updates. 
+
+
 #### Task List:
 ##### ci_builds
-- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
+- [ ] Enable query analyzers for ci_builds: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/398134)
+
+
+### Week of October 30, 2023
+#### Team Capacity:
+- 1 BE
+
+#### Goals:
+We plan to start writing to the second partition of ci_builds and ci_builds_metadata. 
+As well as reintroducing the migration to ensure uniqueness of ids across partitions for self-managed.
+
+#### Task List:
+##### ci_builds
 - [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
-- [ ] Complete adding partition_id filters to related queries
-- [ ] Split existing original partition into smaller partitions
-- [ ] Enable for self-managed
+- [ ] Reintroduce migration for self-managed for ensuring uniqueness of ids across partitions
 
 ##### ci_builds_metadata
 - [ ] Switch writes to second partition: [Issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387810)
+
+
+### Week of November 06, 2023
+#### Team Capacity:
+- 1 BE
+
+#### Goals:
+ This week we aim to have the partitioning enabled for self-manage. 
+ We also plan to have the required queries updated so that we can fully take advantage of partitioning for ci_builds and ci_builds_metadata.
+
+#### Task List:
+##### ci_builds
 - [ ] Complete adding partition_id filters to related queries
-- [ ] Split existing original partition into smaller partitions
+- [ ] Enable for self-managed
+- [~] Split existing original partition into smaller partitions (UPDATE: This will be done in a later phase after all tables are partitioned.)
+
+##### ci_builds_metadata
+- [ ] Complete adding partition_id filters to related queries
+- [~] Split existing original partition into smaller partitions (UPDATE: This will be done in a later phase after all tables are partitioned.)
 
 
 ### Milestone 16.7 (November 13, 2023 - December 8, 2023)
