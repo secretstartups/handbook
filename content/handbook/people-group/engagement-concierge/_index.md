@@ -5,15 +5,20 @@ title: Engagement Concierge
 
 ## Program Overview
 
-The Engagement Concierge sits within the Talent & Engagement team and is a service that Director+ team leaders can utilize to create bespoke and customized engagement programs, delivered primarily through learning activities.
+The Engagement Concierge is a service that Director+ team leaders can utilize to create bespoke and customized engagement programs that help them build high performing teams. Delivered primarily through learning activities, the Engagement Concierge will focus on skills like building systems for accountability, coaching for results, building trust, and communication strategies. 
 
-Reasons to collaborate with the Engagement Concierge can range from team building needs through to specific learning needs. As a leader, you may want to become more intentional around your team dynamics, team member sense of trust & belonging in an all-remote environment, or specific group learning needs (e.g. [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}})). Once approved for the program, a member of the Talent & Engagement team will collaborate with you to find the right initiative or solution for your team.
+The Engagement Concierge sits within the Talent & Engagement team.
 
-## Features
+Reasons to collaborate with the Engagement Concierge can range from general team building needs through to specific learning needs related to building high performing teams. 
 
-Visit each page below to learn about existing Engagement Concierge programs!
+Here are some examples. As a leader you might want to:
 
-1. [Commerical Sales - Boundary Breakers]({{< ref "boundary-breakers" >}})
+1. Increase trust and belonging on your team.
+1. Help your team of managers become better at coaching their direct reports.
+1. Improve the state of sync and async communication on your team.
+1. Prepare your team to have effective [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}). 
+
+Once approved for the program, a member of the Talent & Engagement team will collaborate with you to find the right initiative or solution for your team.
 
 ## Expectations
 
@@ -26,3 +31,9 @@ There may be situations where the Talent & Engagement team identifies that the t
 Due to current capacity constraints, the Talent & Engagement team will triage requests as received, communicate next steps, and share a proposed timeline with you as quickly as possible. Our current capacity allows for 2-3 bespoke engagement projects per quarter, depending on project size and complexity.
 
 To request support from the Engagement Concierge, please open an issue using the [`engagement-concierge` issue template](https://gitlab.com/gitlab-com/people-group/learning-development/custom-ld-engagement/-/issues/new#). When requesting support in the issue template, please tag your relevant People Business Partner (PBP) for visibility. You can find the PBP that supports your division [here]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}).
+
+## Features
+
+Visit each page below to learn about existing Engagement Concierge programs!
+
+1. [Commerical Sales - Boundary Breakers]({{< ref "boundary-breakers" >}})
