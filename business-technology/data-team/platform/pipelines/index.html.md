@@ -99,7 +99,7 @@ Alternatively, for testing, one can connect to the sql instance through its `ext
 
 Customers Dot database holds information on the `Customer Portal` of the gitlab.com, where customers manage information such as upgrade of subscriptions, adding more seats etc. The infrastructure setup is done in a way that the data team uses the backups as a data source to extract information without affecting the production database.
 The system setup is done by SRE team. For more details on peering can be found [here](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/customersdot/backups.md#gitlab-analysis).
-Currently, we run a complete extract from the customer dot database. 
+Currently, we run a complete extract from the customer dot database. This process relies on a [backup pipeline running in ci jobs](https://ops.gitlab.net/gitlab-com/gl-infra/gitlab-restore/postgres-prdsub/-/jobs), if we're unable to connect or run into any other configuration problems interacting with the db, that is a good place to check. 
 
 ## Google Search Console
 
