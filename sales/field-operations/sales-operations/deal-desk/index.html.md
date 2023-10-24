@@ -413,6 +413,9 @@ In addition to the step-by-step quoting guides that follow this paragraph, check
      
 
 #### **B.  Upgrade or Switch Products During the Subscription Term**
+
+Follow this process to change products mid-term. A common use case for this process is migrations from Self-Managed to SaaS or from SaaS to Self-Managed. In such scenarios, once the opportunity becomes Closed Won, the standard licensing process will occur. 
+
 *   Create an “Amend Subscription” quote by following the steps in Section 2 (A) above.
     *   The **Start Date** should be the date of the product exchange. 
     *   In the Product search bar, search for the **new** product type, and add the correct SKU.
