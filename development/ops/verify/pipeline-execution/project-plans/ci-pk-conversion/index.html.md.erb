@@ -164,8 +164,8 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 - For `ci_pipelines.auto_canceled_by_id`
   - [x] Sync create index (done in week 9.18)
   - [x] Async create foreign key constraint (done in week 9.25)
-  - [ ] Sync validate foreign key constraint
-  - [ ] Swap columns
+  - [x] Sync validate foreign key constraint
+  - [~] Swap columns
 - For `ci_sources_pipelines.pipeline_id` and `ci_sources_pipelines.source_pipeline_id`
   - [x] Sync create index (done in week 9.25)
   - [x] Async create foreign key constraint (done in week 9.25)
@@ -174,18 +174,18 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 - For `ci_pipeline_chat_data.pipeline_id`
   - [x] Swap columns
 - For `ci_pipeline_variables.pipeline_id`
-  - [ ] Swap columns
+  - [~] Swap columns
 - For `ci_stages.pipeline_id`
   - [x] Async create foreign key constraint (done in week 9.25)
   - [x] Sync validate foreign key constraint
-  - [ ] Swap columns
+  - [~] Swap columns
 - For `ci_pipeline_messages.pipeline_id`
   - [x] Sync validate foreign key constraint (done in week 9.18)
   - [x] Swap columns
 - Init conversion for:
-  - [ ] p_ci_builds.auto_canceled_by_id
-  - [ ] p_ci_builds.upstream_pipeline_id
-  - [ ] p_ci_builds.commit_id
+  - [~] p_ci_builds.auto_canceled_by_id
+  - [~] p_ci_builds.upstream_pipeline_id
+  - [~] p_ci_builds.commit_id
 
 ### Milestone 16.6 (October 17, 2023 - November 10, 2023)
 
@@ -196,7 +196,18 @@ description: "Weekly Project Plan for converting the primary keys to bigint - Pi
 #### Goals:
 
 ##### Bigint conversion
-- Remove the triggers and integer columns for:
+
+- For `ci_pipelines.auto_canceled_by_id`
+    - [ ] Swap columns
+- For `ci_pipeline_variables.pipeline_id`
+    - [ ] Swap columns
+- For `ci_stages.pipeline_id`
+    - [ ] Swap columns
+- Init conversion for:
+    - [ ] p_ci_builds.auto_canceled_by_id
+    - [ ] p_ci_builds.upstream_pipeline_id
+    - [ ] p_ci_builds.commit_id
+- **Stretch:** Remove the triggers and integer columns for:
     - [ ] ci_sources_pipelines.pipeline_id
     - [ ] ci_sources_pipelines.source_pipeline_id
     - [ ] ci_pipeline_chat_data.pipeline_id
