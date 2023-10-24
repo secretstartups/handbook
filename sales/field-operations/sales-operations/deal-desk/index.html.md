@@ -1156,6 +1156,8 @@ On Order Forms, GitLab entity information will be populated via the following ru
 | [Google Cloud (Parter)](https://gitlab.my.salesforce.com/0014M00001nJhks)  | Google Cloud Marketplace | "Google Cloud Marketplace" |Inc. (US) |
 | [Amazon Web Services](https://gitlab.my.salesforce.com/0014M00001ldTdt?srPos=1&srKp=001) | Amazon Web Services, Inc. | "Amazon Web Services" |Inc. (US) |
 | [Epidata SA](https://gitlab.my.salesforce.com/00161000015Lyf9?srPos=0&srKp=001) | Epidata SA | "Epidata SA" | BV (NL) |
+| [Epidata LLC](https://gitlab.my.salesforce.com/a0u8X00004iUosZ) | Epidata LLC | "Epidata LLC" | Inc. (US) |
+| [Epidata Columbia SAS](https://gitlab.my.salesforce.com/a0uPL0000001DGC) | Epidata Columbia SAS | "Epidata Columbia SAS" | Inc. (US) |
 
 ##### How to Update Account IDs in Zuora
 
