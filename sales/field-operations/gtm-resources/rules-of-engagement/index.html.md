@@ -188,7 +188,7 @@ _Any request to transfer an account for any reason must follow the outlined exce
      - **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. 
      
 
-   </details>
+</details>
 
 #### Holdover Accounts
 
