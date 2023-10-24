@@ -67,7 +67,7 @@ The steps for creating and managing a cross-section or stage direction are:
 
 Once the direction page has been added, there needs to be an assigned DRI for maintaining monthly updates for the page. The process for keeping the page updated are:
 
-1. Create a slack channel for the direction (e.g. #make_monorepos_lovable)
+1. Create a slack channel for the direction (e.g. _#make_monorepos_lovable_)
 1. Add all interested and contributing members to the channel 
 1. Each month open an MR to the direction page and update issue queries contributing to the vision 
 1. Assign the contributing PMs to the MR for review and contribution 
@@ -209,7 +209,7 @@ In order to support [findability](/handbook/values/#findability) and to clearly 
 
 Some **internal** methods for communication include:
 
-- Sharing the updates various product-based Slack channels such as: #product, #s_, #g_, or #f_ slack channels
+- Sharing the updates various product-based Slack channels such as: `#product`, `#s_`, `#g_`, or `#f_` Slack channels
 - Cross-posting changes in direction or categories into #customer-success and if they impact [use cases](/handbook/use-cases/) tag `@cs-leadership` for awareness
 - Recording a quick video and sharing with Customer Success that discusses direction updates. Use sync meetings [as needed](/company/culture/all-remote/asynchronous/#when-to-start-synchronous-first) to facilitate efficient communication.
 - [Collaborate with the Field Communications team](/handbook/sales/field-communications/#field-communications-playbook) to determine if a larger internal communications plan/approach is necessary for the Field (Sales, Customer Success, Channel & Alliances) team.
@@ -244,42 +244,45 @@ Some guidelines to help promote consistency of what is included in the blog post
 
 Depending on the [maturity level](/direction/maturity/) of your category should influence what you select for as a release post item.
 
-- Minimal
-    - Any new features
-    - Any significant UI additions
-    - Disruptive features that may significantly improve workflows or occasionally introduce unavoidable inconveniences.
-        - We want to anticipate questions and avoid confusion by communicating these changes through the blog post.
-    - UX improvements that significantly adjust current workflow should be included.
-    - New API only functionality, if many users leverage the API instead or UI.
-    - Significant bug fixes
-    - Any deprecations and breaking changes
-    - Smaller tweaks, if interesting, can be included at the bottom of the post.
-- Viable
-    - Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) delivery that is complete.
-    - Disruptive features that may significantly improve workflows or occasionally introduce unavoidable inconveniences.
-        - We want to anticipate questions and avoid confusion by communicating these changes through the blog post.
-    - UX improvements that significantly adjust current workflow should be included.
-    - New API only functionality, if many users leverage the API instead or UI.
-    - Significant bug fixes
-    - Significant architecture changes that support future direction/maturity
-    - Any deprecations and breaking changes
-- Complete
-    - Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) related delivery that is complete.
-    - UX improvements that significantly adjust current workflow should be included.
-    - Significant bug fixes
-    - Any deprecations and breaking changes
-- Loveable
-    - Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) related delivery that is complete.
-    - Significant bug fixes
-    - Any deprecations and breaking changes
+**Minimal**
+- Any new features.
+- Any significant UI additions.
+- Disruptive features that may significantly improve workflows or occasionally introduce unavoidable inconveniences.
+     - We want to anticipate questions and avoid confusion by communicating these changes through the blog post.
+- UX improvements that significantly adjust current workflow should be included.
+- New API only functionality, if many users leverage the API instead or UI.
+- Significant bug fixes.
+- Any deprecations and breaking changes.
+- Smaller tweaks, if interesting, can be included at the bottom of the post.
+
+**Viable**
+- Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) delivery that is complete.
+- Disruptive features that may significantly improve workflows or occasionally introduce unavoidable inconveniences.
+- We want to anticipate questions and avoid confusion by communicating these changes through the blog post.
+- UX improvements that significantly adjust current workflow should be included.
+- New API only functionality, if many users leverage the API instead or UI.
+- Significant bug fixes.
+- Significant architecture changes that support future direction/maturity.
+- Any deprecations and breaking changes.
+
+**Complete**
+- Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) related delivery that is complete.
+- UX improvements that significantly adjust current workflow should be included.
+- Significant bug fixes.
+- Any deprecations and breaking changes.
+
+**Loveable**
+- Any user facing [direction](/handbook/product/product-processes/#managing-your-product-direction) related delivery that is complete.
+- Significant bug fixes.
+- Any deprecations and breaking changes.
 
 It is recommended to start writing your release post items as a part of your [Kickoff preparation](/handbook/product/product-processes/#prioritization-ahead-of-kickoff).
 To reduce rework, use the headline of the release post as the issue or epic title. The description of the release post can simply be part of the description of the implementing issue.
 Writing the release post early and consistently enables you and your team to [work backwards](https://www.product-frameworks.com/Amazon-Product-Management.html) and have the following benefits:
 
-- Help improve kickoff videos by having customer-centric and result-oriented language in issues
-- Facilitates crisply communicating goals to all team members, including those not directly involved in development
-- Help to prevent the stressful mad-dash at the end to complete release posts
+- Help improve kickoff videos by having customer-centric and result-oriented language in issues.
+- Facilitates crisply communicating goals to all team members, including those not directly involved in development.
+- Help to prevent the stressful mad-dash at the end to complete release posts.
 
 ### Writing to inspire action
 
@@ -447,7 +450,7 @@ After the feature freeze, it's expected of each product manager to test their ow
 to the best of their ability and follow up where necessary.
 
 Product managers can use the staging environment once the release managers have deployed a release candidate (RC) to staging.
-Release managers should post in the #product channel in Slack that a new release candidate is available. Product managers
+Release managers should post in the `#product` channel in Slack that a new release candidate is available. Product managers
 can also use other environments as needed, such as GitLab provisioned on Kubernetes with GKE.
 
 ### Feature assurance
@@ -474,7 +477,7 @@ Development Kit (GDK).
 
 ### Dealing with security issues
 
-Quality Engineering Managers (QEM) are the [DRIs for prioritizing bugs](#prioritization-for-feature-maintenance-and-bugs).  These include include security issues which are prioritized in conjunction with the security team. Product Managers must work with their QEM to set Milestones for issues marked with the `bug::vulnerability` [type label](/handbook/engineering/metrics/#work-type-classification) to guarantee they are shipped by their due date, as defined in the [Security Team process](/handbook/security/#severity-and-priority-labels-on-security-issues).
+Quality Engineering Managers (QEM) are the [DRIs for prioritizing bugs](#prioritization-for-feature-maintenance-and-bugs). These include include security issues which are prioritized in conjunction with the security team. Product Managers must work with their QEM to set Milestones for issues marked with the `bug::vulnerability` [type label](/handbook/engineering/metrics/#work-type-classification) to guarantee they are shipped by their due date, as defined in the [Security Team process](/handbook/security/#severity-and-priority-labels-on-security-issues).
 
 While Product Managers are the DRIs for [milestone planning](/handbook/product/cross-functional-prioritization/#planning-for-the-milestone), they must respect the prioritization order for bugs and maintenance issues as determined by their QEM and EM, respectively. As such they should deeply understand the implications and risks of security-related issues and balance those when prioritizing a milestone work. Addressing a serious security issue by its due date may require temporarily adjusting the [desired work type ratio](#overview--philosophy) for one or more milestones. Priority labels and Due Date designations for security issues should never be modified by Product Managers as they are directly managed by the Security Team and used to track metrics and progress.
 
@@ -544,7 +547,7 @@ Once the first PM or EM is hired, the new Groups should be formed:
 1. The other PM/EM's will need to continue working across both Groups. For example if a backend EM is hired, the frontend EM and PM will continue to work across both Groups until additional hires are made.
 1. EM's and engineers should work together and divide the existing engineering team to staff the new groups, like `Control` and `Framework`. Ideally, each group would have at least two backend engineers, but that is not always possible.
 1. Update `stages.yml` and `team.yml` to reflect the new group members. You may need to add a member to the end of `_categories.erb`.
-1. Create a Slack channel for each group, like `g_control` and `g_framework`, and close the previous Slack channel (e.g. `g_manage`)
+1. Create a Slack channel for each group, like `#g_control` and `#g_framework`, and close the previous Slack channel (e.g. `#g_manage`)
 
 As the rest of the EM/PM's are hired, they take over that role for the respective group.
 
@@ -1732,7 +1735,7 @@ You can use [Zendesk's trigger feature](https://support.zendesk.com/hc/en-us/art
 to your product area are mentioned in a support ticket. Additionally, it is possible to create a simple dashboard that lists all the currently active support tickets that match the trigger. Reach out
 in #support_escalations to receive some help in setting this up.
 
-**Social Media** can also be effective. If your personal account has a reasonable number of connections/followers, you can post your desire to connect with users on a specific question directly. When posting, remember to include the subject you want to discuss as well as how people can reach out. You can also reach out to the #social-media channel to have your tweet retweeted by the @gitlab account.
+**Social Media** can also be effective. If your personal account has a reasonable number of connections/followers, you can post your desire to connect with users on a specific question directly. When posting, remember to include the subject you want to discuss as well as how people can reach out. You can also reach out to the `#social-media` channel to have your tweet retweeted by the @gitlab account.
 
 ![twitter-contactpng](/handbook/product/twitter-contact.png)
 
@@ -2133,7 +2136,7 @@ GitLab's [Iteration](/handbook/values/#iteration) value means we often make smal
 You should create an issue if:
 
 - There isn't already an issue for what you're intending to write. Search first.
-- A feature is mentioned in chat channels like #product, #competition or elsewhere
+- A feature is mentioned in chat channels like `#product`, `#competition` or elsewhere
 - A customer requests a particular feature
 
 You should consider **not** creating an issue when:
