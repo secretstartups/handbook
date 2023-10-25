@@ -77,14 +77,38 @@ We run in the `gitlab-analysis` project in Google Cloud Platform (GCP). Airflow 
 
 ##### Node pools
 
-Within this cluster there are 4 node pools: `highmem-pool`, `production-task-pool`, `testing-pool`, and `sdc-1`.  Each node pool has a dedicated use for ease of monitoring and resource management.
+Within this cluster there are 7 node pools: `highmem-pool`, `production-extraction-task-pool`, `production-extraction-task-pool-highmem`, `dbt-task-pool`, `data-science-pool`, `sales-analytics-pool` and `testing-task-pool`.  Each node pool has a dedicated use for ease of monitoring and resource management.
 
-1) `highmem-pool` - used to run the Airflow server, scheduler, and network components.  Autoscales from 1-2 nodes.  
-2) `production-task-pool` - used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.  
-3) `sdc-1` - used to run production SCD extractions.  Autoscales from 1-3 nodes.  
-4) `testing-pool` - a pool that does not usually have a running node, but is used to run engineer's locally-launched Airflow tasks.  Autoscales from 1-2 nodes.  
+1) `highmem-pool` - `n1-highmem-8` machine, strictly dedicated to the Airflow server, scheduler, and network components. Does not autoscale.
+2) `production-extraction-task-pool` - `n1-highmem-4` machine, used to run most production Airflow tasks except SCD tasks.  Autoscales from 2-5 nodes.
+3) `production-extraction-task-pool-highmem` - `n1-highmem-8` machine, used to run SCD tasks AND generally other resource intensive tasks that need more resources than the `production-extraction-task-pool`.  Autoscales from 1-3 nodes.
+4) `dbt-task-pool` - `n1-highmem-4` machine, used for everything related to dbt. DAGs running dbt should always be using this task pool. Autoscales from 1-5 nodes.
+5) `data-science-pool` - `n1-highmem-32` machine, used for everything related to data science runs. Autoscales from 0-2 nodes.
+6) `sales-analytics-pool` - `n1-highmem-8` machine, used specifically for the Sales Analytics loads. Autoscales from 0-2 nodes. We might need to change this to always have at least one node always running - at the moment a pod needs to spin up only when the DAG starts running and sometimes it takes too long and the DAG fails.
+7) `testing-pool` - `n1-highmem-4` machine, a pool that does not usually have a running node, but is used to run engineer's locally-launched Airflow tasks.  Autoscales from 1-2 nodes.
 
-All node pools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which node pool launches which Airflow task. For a task to be scheduled in a node pool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
+All node pools except the `highmem-pool` have labels and [taints](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/) to manage which node pool launches which Airflow task.
+We intentionally left this pool without any labels and taints so that no loads can ever be allocated to it and it is strictly running Airflow.
+For a task to be scheduled in a node pool, a task must have nodeAffinity for the pool and it must have a toleration that matches the taint. See [this MR](https://gitlab.com/gitlab-data/analytics/merge_requests/2006/diffs) where we added the affinity and toleration for the Slowly-Changing Dimensions task for our postgres pipeline jobs.
+
+This is very important for any **new DAGs**: the labels and taints are mandatory, otherwise the DAG won't be able to spin up a pod to run in.
+We have updated all of our DAGs for each of them to run in a pod of a specific kind, depending on their functionality.
+
+The labels are defined on node pool creation and can be found on our [Terraform Airflow scripts](https://gitlab.com/gitlab-data/airflow-infrastructure/-/blob/main/airflow_infra/GKE/prod/airflow_gcp_gke.tf?ref_type=heads#L143).
+
+An example DAG running on the `sales-analytics-pool` is the [Sales Analytics Daily DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/sales_analytics/sales_analytics_daily_notebooks.py?ref_type=heads) and the specifics about attaching it to a node pool are the following lines of code:
+
+```
+
+from kubernetes_helpers import get_affinity, get_toleration
+...
+...
+...
+
+affinity=get_affinity("sales_analytics"),
+tolerations=get_toleration("sales_analytics"),
+
+```
 
 #### Create Namespace
 
