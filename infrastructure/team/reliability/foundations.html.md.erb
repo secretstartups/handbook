@@ -60,6 +60,30 @@ Given the nature of this team's scope, several services the Foundation team work
 Our primary customers are other teams in the Infrastructure department. Our services have particular overlap and impact on the Delivery teams, Scalability, and Reliability::General.
 Other teams outside of Infrastructure that we collaborate with regularly are Support and various teams in the Security organization.
 
+## Getting Assistance
+
+Should you require assistance from the Foundations team, please open an issue in the [Reliability tracker](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues)
+
+Apply one of the following templates:
+
+- For issues pertaining to Teleport connections, use the [`teleport-troubleshooting` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=teleport-troubleshooting)
+- For issues pertaining to Cloudflare, use the [`Cloudflare Troubleshooting` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=Cloudflare%20Troubleshooting)
+- For anything else, use the [`request-foundations` template](https://gitlab.com/gitlab-com/gl-infra/reliability/-/issues/new?issuable_template=request-foundations)
+
+We endeavor to triage incoming requests twice per week. If you have an issue that is very urgent and requires immediate attention, please also send us a link to the request issue in our Slack channel: [#g_infra_foundations](https://gitlab.slack.com/archives/C0313V3L5T6).
+
+## Considerations for tooling and maintaining our services.
+
+* We support [dogfooding](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding) when it makes sense to do so.
+  * We consider the scale at which we run gitlab.com and the additional engineering effort required to dogfood, weighed against the capacity and other priorities of the team.
+* When considering external tooling, we look first to other open source projects that are part of [CNCF](https://www.cncf.io/)
+* Further evaluation criteria include:
+  * Technical Fit - How well does it solve the problem we need it to solve?
+  * Service Maturity - How well developed is the tool, does it have a proven track record of being used at scale?
+  * Maintainability - Does it have strong community engagement, which will ensure it is well maintained for the foreseeable future? Complexity of keeping it up to date?
+  * Cost - Licensing costs when applicable, weighed against the cost of building and maintaining the tooling ourselves. Engineering time required to implement new tooling and maintain it, weighed against the benefit it brings.
+  * License - Identify the specific license under which the open-source project is distributed (*GNU*, *MIT*, *ISC*, etc.). This allows us to ensure compatibility with other tools' licensing, contribute to the project if needed in the future, and understand the restrictions and risks associated with a specific license.
+
 ## Technical Roadmap
 
 In support of our Mission and Vision, this is the direction of our work for FY24-FY25. 
