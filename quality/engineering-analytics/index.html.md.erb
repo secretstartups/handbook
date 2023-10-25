@@ -42,13 +42,7 @@ In addition to the areas of focus and core competencies listed above, the Engine
 
 Every quarter, the team commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates as the quarter progresses. Starting February 2023, Engineering Analytics uses GitLab to track progress towards quarterly OKRs.
 
-### Current Quarter
-
-* [Engineering Analytics OKRs for FY24 Q2](https://gitlab.com/gitlab-com/gitlab-OKRs/-/work_items/2729)
-
-### Previous Quarter
-
-* [Engineering Analytics OKRs for FY24 Q1](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Engineering%20Analytics&milestone_title=FY24-Q1)
+Here is an [overview](https://gitlab.com/gitlab-com/gitlab-OKRs/-/issues/?sort=created_date&state=opened&type%5B%5D=objective&label_name%5B%5D=Engineering%20Analytics&first_page_size=100) of our current OKRs.
 
 ## Team Structure
 
@@ -56,20 +50,24 @@ This team is a function under the Quality Department operating as a team of Engi
 
 ```mermaid
 graph TD
-    A[Quality Department]
-    A --> B[Engineering Analytics Team]
+    A[Infrastructure Quality Department]
+    A --> B(Engineering Analytics)
     B --> BA[Engineering Analyst]
     B --> BB[Engineering Analyst]
     B --> BC[Engineering Analyst]
     B --> BD[Engineering Analyst]
+    A --> P(Platforms)
     A --> D(Quality Engineering)
-    A --> E[Engineering Productivity Team]
+    A --> E(Engineering Productivity)
+    A --> R(Reliability)
 
     click A "/handbook/engineering/quality"
     click B "/handbook/engineering/quality/engineering-analytics"
     click D "/handbook/engineering/quality/quality-engineering"
     click E "/handbook/engineering/quality/engineering-productivity"
-    
+    click P "/handbook/engineering/infrastructure/platforms/"
+    click R "/handbook/engineering/infrastructure/reliability/"
+
     style B fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
