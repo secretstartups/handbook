@@ -52,3 +52,16 @@ Create a Data Source filter using the `USERNAME()` function and the `tableau_use
 ![](images/create_filter_calc.png)
 
 ![](images/data_source_filter.png)
+
+
+## Guidelines for Publishing Extracts to Production and Ad-Hoc Projects
+
+1. ~1 GB Storage Limit per published extract. This is ~10 million rows of data.  
+2. Scheduled extract refreshes should run between 18:00 and 05:00 UTC
+3. Extracts are a performance management tool and should not be used by default. Live Connections should be the default selection and Extracts should only be considered when dashboard performance becomes an issue (i.e. most visualizations still aren't loading after one minute and performance optimizers have been applied)
+4. We currently have 200 GBs of storage on the Tableau Online site and have dedicated 100 GBs of that storage space for extracts
+5. After an extract is published to the Production or Ad-Hoc Project, the extract in the development folder should be deleted
+6. Extracts built directly from tables or marts can be published as a Datasource
+7. Extracts built with Custom SQL must be embedded in a workbook. 
+
+
