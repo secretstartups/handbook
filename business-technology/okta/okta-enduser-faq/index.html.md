@@ -25,7 +25,7 @@ The activation workflow is triggered by the creation of account within Bamboo HR
 
 ## Which browsers does Okta work on?
 
-Okta supports the following Web Browsers: Internet Explorer, Firefox, Safari and Chrome. Okta also works through Mobile Apps on iOS and Android.
+Okta supports the following Web Browsers: Internet Explorer, Firefox, Safari and Chrome. Okta also works through Mobile Apps on iOS. The Okta mobile app isn't currently supported via Android, however you can use OKTA via your phone's browser.
 
 ## What is a plugin?
 
