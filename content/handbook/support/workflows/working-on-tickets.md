@@ -209,7 +209,6 @@ Handover requests can be done via scheduled manual message to your group's Slack
 1. Visibility: Make sure to use the regional group handle (`@spt-[SGG]-[region]`) so the request is visible for the right group members.
 1. CC (@ mention) the [Support Manager on-call](https://about.gitlab.com/handbook/support/on-call/#seeing-which-manager-is-on-call) in the region you want to reach, so they can help ensure the ticket gets assigned.
 1. Bonus info: You can also use the Slack ["schedule message"](https://slack.com/help/articles/201457107-Send-and-read-messages#send-or-schedule-messages) feature, to ensure the message pops up within working hours of the intended region.
-1. **Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
 
 ### Using the Handover Form
 
@@ -218,8 +217,11 @@ Handover requests can be done via scheduled manual message to your group's Slack
 1. When submitted, a message will post to your group's Slack channel, which will ping the regional group handle as well as CC the on-call manager.
 1. You will also receive a private Slack message with the full details of your form submission. Copy and paste this into an internal note in the ticket. (NOTE: future iteration will incorporate the use of a macro that you will paste this information into).
 1. You can track your request in the `Ticket Handover Tracker` sheet that will also be linked in the `Handovers` folder.
-1. **Until another SE has acknowledged the request and taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
 1. Managers and Seniors should periodically review the `Ticket Handover Tracker` sheet to help address any pending requests.
+
+**Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** 
+Be sure to notify the customer that you're working on the transfer.
+
 
 ## Contacting a Customer Success Manager or Account Manager
 
