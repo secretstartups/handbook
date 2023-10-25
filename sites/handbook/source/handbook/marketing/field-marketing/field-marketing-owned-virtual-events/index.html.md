@@ -54,11 +54,9 @@ For more information regarding workshop capacities, please review [these details
 
 #### Virtual Workshop SLA
 
-Note that Virtual Workshops involve two SLA options outlined below. Please make sure to provide your [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_zoom_license_date.md) within the [SLA timeframe](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280).
+Note that Virtual Workshops involve the SLA timeline below. Please make sure to provide your [Zoom License Request](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/request_zoom_license_date.md) within the [SLA timeframe](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280).
 
-- **Existing Content Workshops (-32 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280))** - These workshops utilize the material from the current workshops that have already been created. For these workshops, you will be re-utilizing all the existing content with either no content changes or *very* minor content adjustments (example - change of title from Advanced CI/CD Workshop to Advanced CI/CD Workshop for the PubSec).  
-
-- **New Content Workshops (-45 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280))** - These workshops are brand new and involve creating all new content. Please visit [this section](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#proposing-new-workshops) below for more information.  
+- **Virtual Workshops (-40 business day [SLA](https://docs.google.com/spreadsheets/d/1YXriQ1clvYyBn-TDbbCVvNP6NEbrAF-0w6tIHKhDeZM/edit#gid=1983708280&range=A48))** - These workshops utilize the material from the current workshops that have already been created. For these workshops, you will be re-utilizing all the existing content with either no content changes or *very* minor content adjustments (example - change of title from Advanced CI/CD Workshop to Advanced CI/CD Workshop for the PubSec).  
 
 ### [Webcasts](/handbook/marketing/field-marketing/field-marketing-owned-virtual-events/#webcasts-1)
 
