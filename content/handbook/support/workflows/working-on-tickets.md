@@ -219,9 +219,7 @@ Handover requests can be done via scheduled manual message to your group's Slack
 1. You can track your request in the `Ticket Handover Tracker` sheet that will also be linked in the `Handovers` folder.
 1. Managers and Seniors should periodically review the `Ticket Handover Tracker` sheet to help address any pending requests.
 
-**Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** 
-Be sure to notify the customer that you're working on the transfer.
-
+**Until another SE has taken assignment, keep the ticket assigned to yourself and continue to work with the customer.** Be sure to notify the customer that you're working on the transfer.
 
 ## Contacting a Customer Success Manager or Account Manager
 
