@@ -162,7 +162,7 @@ Please see the [2024 Annual Notice](https://drive.google.com/file/d/1fB5r88VUiyd
 
 ### Medical Allowance
 
-If you already have current group medical coverage, **you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance** and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. <br> In order to receive the monthly benefit allowance you must log on to PlanSource and actively waive medical cover.<br>
+If you already have current group medical coverage, **you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance** and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. <br> In order to receive the monthly benefit allowance you must [log on to PlanSource](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource) and actively waive medical cover.<br>
 
 If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).
 
@@ -177,7 +177,7 @@ Cigna plans are available to team members located in all US states, with the exc
 
 In Network:
 
-| Plan Details               | [2023 Cigna HDHP - HSA](https://drive.google.com/file/d/1QkInnwGyMOZyaPLrktnBPCp9h14_Q8sg/view?usp=sharing) <br> 2024 Cigna HDHP - HSA(TBD)| [2023 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1N96ON4VS_0Tfq0JAIui7WYBJosV5WiG9/view?usp=sharing)\*\* <br> 2024 Cigna EPO (PPO $0)(TBD)  | [2023 Cigna PPO 500](https://drive.google.com/file/d/18A2fDCNEUBdXOhd7kIGWRy1w_1ljIlIS/view?usp=sharing)\*\*\* <br> 2024 Cigna PPO 500(TBD)|
+| Plan Details               | [2023 Cigna HDHP - HSA](https://drive.google.com/file/d/1QkInnwGyMOZyaPLrktnBPCp9h14_Q8sg/view?usp=sharing) <br> [2024 Cigna HDHP - HSA](https://drive.google.com/file/d/1N80QyfcQuJhBpSmEXEVXlK0af_4qziGE/view?usp=sharing)| [2023 Cigna EPO (PPO $0)](https://drive.google.com/file/d/1N96ON4VS_0Tfq0JAIui7WYBJosV5WiG9/view?usp=sharing)\*\* <br> [2024 Cigna EPO (PPO $0)](https://drive.google.com/file/d/12VZeqYPUlh2m8UWanEOGT3WroQsotuXh/view?usp=sharing)  | [2023 Cigna PPO 500](https://drive.google.com/file/d/18A2fDCNEUBdXOhd7kIGWRy1w_1ljIlIS/view?usp=sharing)\*\*\* <br> [2024 Cigna PPO 500](https://drive.google.com/file/d/18GAbC5h1Rr2iC1RjNG_8Y-tWbh2IwH7q/view?usp=sharing)|
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $3,000 (3,200 for 2024)     | $0 / $0            | $500 / $1,000     |
 | Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
@@ -191,7 +191,7 @@ In Network:
 | Brand - Preferred          | $30                    | $30                | $30               |
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
 | HSA Annual Employer Contribution      | $1200 /$1500 (2024)      | N/A                | N/A               |
-| Rx Plan^                   | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) |
+| Rx Plan^                   | [2023 Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf)  <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf)  <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing)  |
 | Summary Plan Descriptions  | [2023 HDHP](https://drive.google.com/file/d/1eBWTivdV3WyWr3Ie3spIV2uGWdGySe7t/view?usp=sharing) <br> 2024 HDHP(TBD)| [2023 EPO](https://drive.google.com/file/d/1xpW3mWOaKiqnLO4DZqnqcV-LZEGdpIeY/view?usp=sharing) <br> 2024 EPO(TBD)   | [2023 PPO](https://drive.google.com/file/d/1gW9evvoVy-JEIiVL05q22dQt1pE_auCw/view?usp=sharing) <BR> [2023 PPO UTAH](https://drive.google.com/file/d/1TxTQuBRSLWa-gwrc2flIiJdzJPKBLj_g/view?usp=sharing)   <Br> 2024 PPO(TBD) <BR> 2024 PPO UTAH(TBD) |
 
 \*\* In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. **Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.**. Please note that there is no inertility cover under the EPO plan as well, [see here](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-infertility-services) for more details on the infertility benefits.
@@ -415,7 +415,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details                         | DDPO 2024 Base | DDPO 2024 Buy Up
+| Plan Details                         | [DDPO 2024 Base](https://drive.google.com/file/d/1JKKaGIudKjGWwikOztQ0-m60HjKnBA-K/view?usp=sharing) | [DDPO 2024 Buy Up](https://drive.google.com/file/d/1f0ZvigwP_eG4HQnh0O6Cs61jJIqkqE6d/view?usp=sharing)
 |--------------------------------------|----------|-----|
 | Deductible (Single/Family)                          | $50/$150 | $50/$150 |
 | Maximum Benefit                      | $2,000     | $3000 |
@@ -494,7 +494,7 @@ The following costs are monthly rates which would be deducted from your paycheck
 
 **Coverages:**
 
-| Plan Details                      | Vision 2024 Base  | Vision 2024 Buy up |
+| Plan Details                      | [Vision 2024 Base](https://drive.google.com/file/d/1oEPOCvtuHBvfPY4MWCiVKuCsC_SJudIR/view?usp=sharing)  | [Vision 2024 Buy up](https://drive.google.com/file/d/1GUplU7IiPVXJQXIM3yX-x6wHh9omgZcG/view?usp=sharing) |
 |-----------------------------------|---------|--------|
 | Frequency of Services  Exam/Lenses/frames   | 12/12/24 months |12/12/12 months |
 | Copay Exam                        | $20          | $0 |
