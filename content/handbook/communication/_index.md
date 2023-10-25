@@ -534,10 +534,14 @@ Due to the volume of posts in the Slack channel, we recommend that you do not us
 
 The goal of Focus Fridays is to maximize efficiency by creating designated meeting-free space within our weeks for focused work, which also aligns with our push to [operate asynchronously](https://about.gitlab.com/company/culture/all-remote/asynchronous/). Other benefits include reducing potential burnout, and being more thoughtful both in and about the meetings on the other days of the week. Guidance for Focus Fridays includes:
 
+- Cancel or move any standing meetings occurring on Fridays.
+- Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason.
+- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as - much as possible and defer to async work where we can.
+- Consider blocking off your calendar as “busy” on Fridays to block your work time.
+- Consider using Fridays to dedicate time to your learning and development.
+- For those in APAC Focus Fridays, team members can decided to have Focus Mondays instead to align our work more efficiently with other global timezones.
 
-You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule and deliverables.
-
-If you are part of a cross-functional team with set deliverables and synchronous time is needed, this would take priority over following Focus Friday with no meetings.
+You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
 Consider joining #focus-fridays in slack and share how you spent your Friday including what has worked for you and what has not worked. Managers are encouraged to provide coaching and guidance.
 
