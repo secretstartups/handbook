@@ -200,7 +200,7 @@ needs, and that might save you and the customer time and effort as well.
 
 ## Handing over tickets and customer calls between regions
 
-Handover requests can be done via scheduled manual message to your group's Slack channel, or requested through the use of the Handover form available in the group Slack channel. Both methods are outlined below.
+Handover requests can be done via scheduled manual message to your group's Slack channel, or requested through the use of the Handover form available in each group's Slack channel. Both methods are outlined below.
 
 ### Manual request
 
