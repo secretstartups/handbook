@@ -22,17 +22,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ## October 2023
 
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### October 25th, 2023 at 9:00-11:00AM Pacific Time / 12:00-2:00PM Eastern Time
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_8jTIZyFdTDCh3jvAWckLpg#/registration)
-
 #### DevSecOps/Compliance
 ##### October 31st, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
 
@@ -41,24 +30,6 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
 
 ### EMEA Time Zone Webinars
-
-#### Hands-on Workshop: Security and Compliance in GitLab
-##### October 25th, 2023 at 9:00-11:00AM UTC / 11:00AM-1:00PM CET
-
-In this workshop we will focus on how you can secure your application with GitLab. 
-
-We will first take a look at how to apply scanners to your CICD pipelines in a hands-on exercise so that any vulnerabilities are caught as soon as the code is committed. 
-
-Next, we will look at compliance frameworks and pipelines to show how you can ensure no one within your development teams is cutting corners and exposing your application.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_o9tQ9bYkTLWAM7zvxqZ87A#/registration)
-
-#### AI in DevSecOps - GitLab Hands-On Workshop
-##### October 25th, 2023 at 12:00-1:30PM UTC / 2:00-3:30PM CET
-
-Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_CD5jUPd_SdOe8vPOLOwQWA)
 
 #### DevSecOps/Compliance
 ##### October 31st, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CET
