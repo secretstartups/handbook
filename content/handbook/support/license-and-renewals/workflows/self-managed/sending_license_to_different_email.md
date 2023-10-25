@@ -12,13 +12,12 @@ A temporary license can be sent to a different email address.
 
 A paid license is always sent to the `Sold to` contact used on the order, and this contact is mentioned in the license file.
 
-We can send the license to another contact if:
+We can send the license to another contact in either of the following cases:
 
 - The contact has a Customers Dot account which is linked to the subscription.
-- or
 - The contact is the `Sold to` contact for the Zuora account.
 
-To have it sent to a different email address, we would need to follow the process outlined at [Associating purchases with additional accounts](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
+To send the license to a different email address, follow the process for [Associating purchases with additional accounts](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
 We cannot bypass doing this based on internal requests. It must be done via a customer submitted ticket. \
 Once the new Customers Dot account is created or changed, the license can be re-sent (or obtained by the new account owner).
 
