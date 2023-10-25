@@ -15,6 +15,7 @@ A paid license is always sent to the `Sold to` contact used on the order, and th
 We can send the license to another contact if:
 
 - The contact has a Customers Dot account which is linked to the subscription.
+- or
 - The contact is the `Sold to` contact for the Zuora account.
 
 To have it sent to a different email address, we would need to follow the process outlined at [Associating purchases with additional accounts](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html). \
