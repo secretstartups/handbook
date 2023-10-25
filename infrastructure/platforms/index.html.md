@@ -74,6 +74,8 @@ For communication between managers, we have [#infra-platforms-reports](https://g
 
 Once per week, we hold a `Platforms leads call` to align on action items related to career development, general direction or answer any ongoing questions that have not been addressed async. The call is cancelled when there are no topics added on the morning of the call.
 
+In addition to the `Platforms leads call`, we have some recurring events and reminders that can be viewed in the [SaaS Platforms Leadership Calendar](https://calendar.google.com/calendar/u/0?cid=Y184YTgxZjdhY2M3NmQ3MmI4ZTQxODlhNjFmN2EyN[…]MzIzNmY1OTJlN2RkNTJlODNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Please add this to your Calendars to stay up-to-date with the various events.
+
 We hold a monthly **Infrastructure Office Hours** for any questions and feedback you may have for the Platforms team. More details can be found on the [Infrastructure Home](../#infrastructureofficehours). 
 
 The Director of Product and Director of Infrastructure for Platforms conduct weekly progress reviews. During `Platforms Grand Review`, they review [progress across all groups](https://gitlab.com/groups/gitlab-com/-/epics/2115) with the goals of being informed of progress made, learning about existing blockers, and supporting the team. The review is private streamed to the GitLab Unfiltered channel because the review covers confidential issues. All recordings are made available in the [Platforms Grand Review YouTube Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqDXSHdlUvPWHOj_Hw8JdQ1).
