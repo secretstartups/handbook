@@ -212,7 +212,7 @@ Handover requests can be done via scheduled manual message to your group's Slack
 
 ### Using the Handover Form
 
-1. Select the handover form linked in the bookmarked folder called `Handovers` located at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region you need to hand the ticket over to.
+1. Select a handover form from the `Handovers` folder that is bookmarked at the top of your group's channel. Choose the form (such as `Handover to EMEA`) based on the target region to which you need to handover the ticket.
 1. Fill out all fields (using as much detail as possible for the paragraph fields), then click `Submit`.
 1. When submitted, a message will post to your group's Slack channel, which will ping the regional group handle as well as CC the on-call manager.
 1. You will also receive a private Slack message with the full details of your form submission. Copy and paste this into an internal note in the ticket. (NOTE: future iteration will incorporate the use of a macro that you will paste this information into).
