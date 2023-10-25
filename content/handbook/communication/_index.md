@@ -652,14 +652,6 @@ Introductions can be helpful during some external meetings, such as executive sa
 1. The person introducing themselves hands it over to the next person in the agenda.
 Make sure you're never screensharing when people are introducing themselves.
 
-![GitLab attendees](introductions.png)
-
-In this example, the introductions would be:
-
-- Sid: Sid Sijbrandij - CEO, Michael
-- McB: Michael McBride - CRO, Mike Pyle
-- Pyle: Mike Pyle, VP Enterprise Sales
-
 ### Scheduling meetings
 
 1. Every scheduled meeting should either have a Google Presentation (for example for functional updates that don't require participation) or a Google Doc (for most meetings) linked. If it is a Google Doc it should have an [agenda](https://docs.google.com/document/d/1eH-adpjfyo_RnlfbPvJ3i0e1Qb-aVoNc4yajnkZgJcU/edit#heading=h.6upuyp25d0wm), including any preparation materials (can be a presentation). For a step-by-step guide on GitLab meeting best practices, visit our [Live Doc Meetings page](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/).
