@@ -110,10 +110,6 @@ Tiering systems utilized across GitLab enables team members to make decisions on
 
 The Critical System Tier for existing systems is re-evaluated as part of the periodic [BIA]({{< ref "business-impact-analysis#existing-systems-frequency-based-on-critical-system-tier" >}}) process. A system's assigned tier can be found in the [tech_stack.yml file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) which is the Single Source of Truth for all systems used at GitLab.
 
-## Exceptions
-
-Systems that are exempt from this methodology include any system which carries a data classification of Green. All remaining systems which store or process YELLOW, ORANGE, or RED data are required to have a critical system tier assigned. Data classification will be validated to corroborate that the data stored or processed by the system is truly Green data, per the [Data Classification Standard]({{< ref "data-classification-standard#green" >}}).
-
 ## References
 
 - [Business Impact Analysis]({{< ref "business-impact-analysis" >}})
