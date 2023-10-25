@@ -9,4 +9,4 @@ title: "Disaster Recovery"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Moved to https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md .
+Moved to <https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md>
