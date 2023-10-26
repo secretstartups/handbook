@@ -128,7 +128,10 @@ A user's [browser's DevTools](https://developer.mozilla.org/en-US/docs/Learn/Com
 
 - Note that multiple `graphql` resources may be present, and not all will be related to the cloud licensing activation process.
 
-Since there will be a lot of information presented in the DevTools, feel free to suggest that the customer [generate a network HAR file](https://support.zendesk.com/hc/en-us/articles/4408828867100-Generating-a-HAR-file-for-troubleshooting) and attach it to the ticket for closer inspection by us.
+Since there will be a lot of information presented in the DevTools, feel free to suggest that the customer [generate a network HAR file](https://support.zendesk.com/hc/en-us/articles/4408828867098) and attach it to the ticket for closer inspection by us.
+
+Caution: Advise the user to sign out of the GitLab session they recorded to invalidate their session credentials.
+See [sec.Okta.com/harfiles](https://sec.okta.com/harfiles) for context.
 
 ### Simulating a cloud license SeatLink attempt from within the Rails application
 
