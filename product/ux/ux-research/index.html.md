@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "UX research at GitLab"
-description: "The goal of UX research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals."
+title: "UX Research at GitLab"
+description: "The goal of UX Research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals."
 ---
 
 ## On this page
@@ -106,6 +106,7 @@ Below is a full list of our UX Research team handbook content:
 - [Interview Carousel - Becoming a better interviewer 15 minutes at a time](/handbook/product/ux/ux-research/interview-carousel/)
 - [Qualtrics tips and tricks](/handbook/product/ux/qualtrics/)
 - [UX Research shadowing](/handbook/product/ux/ux-research/research-shadowing/)
+- [When to conduct UX Research training (internal LevelUp course)](https://levelup.gitlab.com/learn/course/when-to-conduct-ux-research)
 
 ### Resources for UX Researchers
 
