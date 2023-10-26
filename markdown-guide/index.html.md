@@ -1243,7 +1243,7 @@ Some text
 
 ## Font Awesome
 
-Yes, we can use fancy [Font Awesome] icons too.
+Yes, we can use fancy (free) [Font Awesome] icons too.
 
 _Regular_
 
@@ -2259,7 +2259,7 @@ Anything else you know of and is not described here? Any new magic? Any trick? P
 [bootstrap]: http://getbootstrap.com/components/#alerts
 [CommonMarker]: https://github.com/gjtorikian/commonmarker
 [daring-quote]: http://daringfireball.net/projects/markdown/syntax#html
-[font awesome]: http://fontawesome.io/icons/
+[font awesome]: https://fontawesome.com/search?m=free&o=r
 [GitLab slide deck]: https://docs.google.com/presentation/d/1fWjiVgSNMKTHyC6_nWDY5rDhvdm-zEQMQytZysIXAzk/edit?usp=sharing
 [gitlab-markdown]: https://gitlab.com/help/user/markdown.md
 [handbook-writing]: /handbook/communication/#writing-style-guidelines
