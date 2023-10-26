@@ -30,7 +30,7 @@ Here is some background to understand why:
 
 1. GitLab Dedicated comes with a Sevice Level Availability SLO, which if not
    met results in financial penalties for GitLab.
-1. Capacity is tight for the GitLab Dedicated engineering teams as of October
+1. Capacity is limited for the GitLab Dedicated engineering teams as of October
    2023. The teams want to spend the majority of their time on engineering
    tasks and avoid spending time answering non-critical customer questions.
 
