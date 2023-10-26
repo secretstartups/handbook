@@ -14,6 +14,8 @@ UX Research plays an important role when it comes to developing products that ar
 
 When is it **ideal** to conduct UX Research? Quick answer: UX Research can and should be applied whenever possible within the product development process.
 
+The content in the following sections is covered in more depth in a 20 minute, self paced [LevelUp course (internal link)](https://levelup.gitlab.com/learn/course/when-to-conduct-ux-research).
+
 ## Where UX Research fits into the product life cycle
 
 In general, UX Research can be inserted **at any stage** of the product development life cycle. However, the types of research can vary depending on where teams are in the life cycle. As you continue to read through this page, you will learn more about what kinds of research you can do and **when it is (or isn't)** appropriate.
