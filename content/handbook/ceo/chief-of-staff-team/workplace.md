@@ -195,7 +195,7 @@ Regardless of the nuance in the request, here are the foundational areas that sh
    - Share our [GitLab for remote teams solutions page](https://about.gitlab.com/company/culture/all-remote/gitlab-for-remote/).
    - Prepare for minds to be blown. These things feel like second nature to GitLab team members, but are revolutionary to most.
 1. **You must have a single source of truth**
-   - It's not about blanket documentation. It's about working [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).
+   - It's not about blanket documentation. It's about working [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/).
    - Start now! Designate a scribe if you have to. Start small, as an FAQ, and build it out.
    - Show an example of a handbook page — a great example is our [Communication page]({{< ref communication >}}).
 1. **Asynchronous over synchronous**
@@ -257,7 +257,7 @@ Anyone in the world (yes, this includes those who are not employed by GitLab) ma
 
 ![GitLab all-remote team](https://about.gitlab.com/images/all-remote/gitlab-com-all-remote-v4-dark-1280x270.png){: .shadow.medium.center}
 
-Learn more in GitLab's [Handbook-First Documentation guide](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/#tools-for-building-a-handbook) about how GitLab (the company) uses GitLab (the product) to build and maintain its handbook, as well as tools and tips for other companies who wish to start their own.
+Learn more in GitLab's [Handbook-First Documentation guide](https://about.gitlab.com/company/culture/all-remote/handbook-first/#tools-for-building-a-handbook) about how GitLab (the company) uses GitLab (the product) to build and maintain its handbook, as well as tools and tips for other companies who wish to start their own.
 
 ## All-remote guide creation
 

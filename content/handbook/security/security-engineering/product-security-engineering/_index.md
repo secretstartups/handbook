@@ -33,6 +33,8 @@ To reach the Product Security Engineering team, team members can:
 
 ### Backlog building / requests
 
+The `~ProdSecEng Candidate` label identifies a particular issue as potentially being work that the Product Security Engineering team can take on. This label can be added by anyone, the issue will be reviewed and potentially pulled into the backlog by the Product Security Engineering team members.
+
 Depending on the nature of the work it is added either to:
 
 - [Internal Issue Board (gitlab-com)](https://gitlab.com/groups/gitlab-com/-/boards/7098644) (AppSec Automation needs)
@@ -42,6 +44,15 @@ Work that is taken on by Product Security Engineering should have the `~"team::P
 
 - meet the criteria defined in [Automation Request template](https://gitlab.com/gitlab-com/gl-security/product-security-engineering/product-security-engineering-team/-/blob/main/.gitlab/issue_templates/automation_request.md) for automation work, or
 - be updated to include exit criteria, such as which Product Team we hand it over to upon completion
+
+### Removing work items from the backlog
+
+If at any point during the refinement process it is determined that something is not work the Product Security Engineering team will take on, a member of the Product Security Engineering team will:
+
+- Remove the `~"team::Product Security Engineering"` or `~ProdSecEng Candidate` label
+- Make a comment explaining the reasoning as to why the Product Security Engineering team has decided not to commit to this work
+- Make a best-effort to `@-mention` the appropriate Engineering Manager, Product Manager, or teams and apply the relevant group labels
+- Consider applying the `~Seeking community contributions` label, if the issue is public and a potential fit for a community contribution
 
 ### Refinement, Design, and Build
 

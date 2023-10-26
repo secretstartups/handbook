@@ -833,7 +833,7 @@ Don’t wait. When you have something of value like a potential blog post or a s
 ##### Set a due date
 {:.no_toc}
 We always try to set a due date. If needed, we cut scope.
-If we have something planned for a specific date, we make that date. For example we [shipped over 100 releases on the 22nd of the month](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
+If we have something planned for a specific date, we make that date. For example we [shipped over 133 monthly releases](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/). But every one of them doesn't contain all the features we planned.
 If we planned an announcement for a certain date, we might announce less or indicate what is still uncertain.
 But we set a due date because having something out there builds trust and gives us better feedback.
 

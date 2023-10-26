@@ -23,12 +23,12 @@
       - name: Zoom Webinars
         url: webinars
     - name: Culture
-      url: https://about.gitlab.com/company/culture/
+      url: culture
       links:
       - name: All-Remote
-        url: https://about.gitlab.com/company/culture/all-remote/guide/
+        url: handbook/company/culture/all-remote/guide
       - name: Life at GitLab
-        url: https://about.gitlab.com/company/culture/#life-at-gitlab
+        url: culture#life-at-gitlab
       - name: GitLab Contribute
         url: https://about.gitlab.com/events/gitlab-contribute/
       - name: Team
@@ -110,14 +110,14 @@
         - name: Jobs FAQ
           url: candidate-faq
     - name: Inclusion & Diversity
-      url: https://about.gitlab.com/company/culture/inclusion/
+      url: inclusion
       links:
         - name: Ally Resources
           url: ally-resources
         - name: Gender and Sexual Orientation Identity Definitions and FAQ
           url: orientation-identity
         - name: Unconscious Bias
-          url: https://about.gitlab.com/company/culture/inclusion/unconscious-bias/
+          url: unconscious-bias
     - name: Labor and Employment Notices
       url: labor-and-employment-notices
     - name: Leadership
@@ -129,7 +129,7 @@
     - name: Offboarding
       url: /handbook/people-group/offboarding
     - name: Spending Company Money
-      url: https://about.gitlab.com/handbook/spending-company-money/
+      url: spending-company-money
       links:
         - name: Travel
           url: travel
@@ -327,31 +327,31 @@
     url: https://about.gitlab.com/handbook/alliances/
 - name: Finance
   icon: fa-solid fa-landmark
-  url: https://about.gitlab.com/handbook/finance/
+  url: /handbook/finance
   links:
   - name: Accounts Payable
-    url: https://about.gitlab.com/handbook/finance/accounts-payable/
+    url: /handbook/finance/accounts-payable
   - name: Accounts Receivable
-    url: https://about.gitlab.com/handbook/finance/accounting/#accounts-receivable/
+    url: /handbook/finance/accounting/#accounts-receivable
   - name: Business Technology
     url: https://about.gitlab.com/handbook/business-technology/
   - name: Expenses
-    url: https://about.gitlab.com/handbook/finance/expenses/
+    url: /handbook/finance/expenses
   - name: Financial Planning & Analysis
-    url: https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/
+    url: /handbook/finance/financial-planning-and-analysis
   - name: Payroll
-    url: https://about.gitlab.com/handbook/finance/payroll/
+    url: /handbook/finance/payroll
   - name: Procurement
-    url: https://about.gitlab.com/handbook/finance/procurement/
+    url: /handbook/finance/procurement
   - name: Tax
-    url: https://about.gitlab.com/handbook/tax/
+    url: /handbook/tax
   - name: Board meetings
-    url: https://about.gitlab.com/handbook/board-meetings/
+    url: /handbook/board-meetings
   - name: Internal Audit
-    url: https://about.gitlab.com/handbook/internal-audit/
+    url: /handbook/internal-audit
     links:
      - name: Sarbanes-Oxley (SOX) Compliance
-       url: https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/
+       url: sarbanes-oxley
   - name: Stock Options
     url: https://about.gitlab.com/handbook/stock-options/
 - name: Product

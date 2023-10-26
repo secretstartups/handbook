@@ -43,7 +43,7 @@ We also have a [Mitigating Concerns page]({{< ref "mitigating-concerns" >}}).
 
 [All-Remote](https://about.gitlab.com/company/culture/all-remote/)
 
-GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/), operating [transparently]({{< ref "values#transparency" >}}), and [usage of GitLab](https://about.gitlab.com/company/culture/all-remote/gitlab-for-remote/) to drive results creates tailwinds for the organization.
+GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/), operating [transparently]({{< ref "values#transparency" >}}), and [usage of GitLab](https://about.gitlab.com/company/culture/all-remote/gitlab-for-remote/) to drive results creates tailwinds for the organization.
 
 GitLab's adherence to all-remote makes the company an attractive destination for people who are on the [B-team in hybrid-remote firms](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/#all-remote-upgrade), or feel limited by the inflexibility of a fully colocated role.
 

@@ -1,137 +1,82 @@
 ---
-
 title: Billing, invoice and payments requests
 category: General
-description: Billing and invoicing requests require action from our Billing/Accounts Receivable team.
+description: Some billing and invoicing requests require action from our Billing/Accounts Receivable team.
 ---
-
-
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## Overview
 
-Billing and invoicing requests require action from our Billing/Accounts
+Some billing and invoicing requests require action from our Billing/Accounts
 Receivable team.
 
 The following information is helpful to provide to the AR team when transfering
 tickets, but not required.
 
-1. Subscription #
-1. Subscription information - copy & paste from `Manage Purchases` in
-   [CustomersDot](https://customers.gitlab.com/customers/sign_in)
-1. Zuora ID - available in the [CustomersDot](https://customers.gitlab.com/customers/sign_in)
-   under the `Edit` tab
-1. Salesforce Account ID - available in the [CustomersDot](https://customers.gitlab.com/customers/sign_in)
-   under the `Edit` tab
+1. **Subscription #**
+1. **Subscription information** - copy & paste from `Manage Purchases` in [CustomersDot](https://customers.gitlab.com/customers/sign_in), use the `Impersonate` tab to view this information.
+1. **Zuora ID** - This can be found on the customer's organization's `Billing account` page by looking under the `Show` tab in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
+1. **Salesforce account ID** - This can also be found on the customer's organization's `Billing account` page by looking under the `Show` tab in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
 
 ## Billing
 
 ### Zuora contact change
 
-When a customer wants to change the contact for current and future purchases.
+In the past when making contact changes in Zuora this was done by billing.  Recent updates to [CustomersDot](https://customers.gitlab.com/customers/sign_in) have provided this capability to Support.
 
-> **Note:** *Billing doesn't have a vetting process, so we need to vet the
-customer as far as possible before passing the request*
+1. Verify that they are associated with the account / authorised to make the request, by checking the following:
+   - If the requester has access to the current subscription information in [CustomersDot](https://customers.gitlab.com/customers/sign_in).
+   - If the requester is presently listed as the `Sold To:` contact currently on file.
+   - If they pass the [account ownership verification](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
+1. To update the Zuora contact information from within [CustomersDot](https://customers.gitlab.com/customers/sign_in) refer to the [Update Zuora Sold To contact using CustomersDot](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases/#update-zuora-sold-to-contact-using-customersdot) section of the `Associating purchases with additional accounts` page in the L&R workflow portion of the handbook.
+1. If the change to Zuora is outside changing either the `Bill To:` or `Sold To:` on record or their address information, please transfer the ticket to AR and in a private update inform them of what needs to be changed along with why we need them to make this change themselves.
 
-1. Verify that they are associated with the account / authorised to make the
-   request, by checking the following:
-   - if they are a contact in SFDC
-   - if their domain name matches the company/previous contact
-   - checking if they are the owner of the group (for a SaaS subscription)
-   - if they pass the [account ownership verification](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification)
-1. Use the [`Support::L&R::Zuora Contact Change`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=360072090060) macro to transfer the ticket to AR to update the bill to and sold to contact in Zuora
+For self-managed customers, if the new contact would like their license updated it will update automatically if they have a cloud license.  This is done during a daily sync that happens between their instance and GitLab.  For customers using a legacy license or an offline cloud license they will receive a license with an updated contact on it at the time of a license change.  Such as a renewal, seat increase, tier change, or contract reset to list a few reasons when this would happen.
 
-Support will still generate a manual license if new contact wants an updated
-license. Zuora update is primarily effective for future purchases.
+**A Couple of Items of Note:**
 
-NOTE: The `Sold to` contact in Zuora usually receives the license, renewal reminders and comms about changes to the subscription (e.g renewal success/fail). The `Bill to` contact in Zuora will receive invoices as well as renewal reminders.
+1. The `Sold to:` contact in Zuora usually receives the license, renewal reminders and comms about changes to the subscription (e.g renewal success/fail). The `Bill to:` contact in Zuora will receive invoices as well as renewal reminders.
+
+1. Billing doesn't have a vetting process, so we need to vet the customer as far as possible before passing the request.
 
 ### Billing processes to know about
-
-#### Requests From Billing Team for Support to Verify and Update Sold To Details
-
-The Billing Team will generally handle changes to the `Bill To` contact information, but occasionally may need to rely on our team to vet changes to `Sold To`.  In such events, they will pass a ticket over to the Support team, in which case you can review and act on the request pursuant to the steps outlined in the [Ownership Verification workflow]({{< ref "associating_purchases#other-notable-workflows-involving-customersdot" >}}), and the steps to [update Sold To
-details]({{< ref "associating_purchases#update-zuora-sold-to-contact-using-customersdot" >}}).
 
 - Refer to their internal [wiki page here](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-BTST-Information-Updates-and-Invoice-Request#update-request-for-st-email) for additional details.
 
 #### Zuora entity change
 
-When billing processes an [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity),
-billing creates a second Zuora account for the customer, with a different entity
-than the original.
+Billing processes an [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity) by creating a second Zuora account for the customer and entering the appropriate country abbreviation into its `Entity` field. The country will be the one in which the customer has their base of operations.
 
-To identify entity changes, check the `Renewal subscription` field in a Zuora subscription.
-The original (and now cancelled) subscription will point at a `Renewal subscription` that can be used to search for the new Zuora account.
+To identify entity changes, check the `Renewal subscription` field in a subscription from within Zuora.  The original (and now cancelled) subscription will point at a `Renewal subscription` that can be used to search for the new Zuora account.
 
 ##### Effect on Self-Managed subscriptions
 
-When an entity change happens at renewal, it can impact how licenses are
-generated. If you are troubleshooting a license issue, check Zuora to see if
-there are 2 accounts with different entities to confirm if an entity change took
-place.
+When an entity change happens at renewal, it can impact how licenses are generated. If you are troubleshooting a license issue, check Zuora to see if there are 2 accounts with different entities to confirm if an entity change took place.
 
-The issue that we will see more often is the renewal license not generated with
-previous users or trueups. In the event of the license being impacted by the
-entity change, we can assist with a manual license.
+The most common issue that we will see is the renewal license being generated without a previous user count (PUC) or trueups. In the event of the license being impacted by the entity change, we can assist with a manual license.
 
 ##### Effect on SaaS subscriptions
 
-As part of the [entity change](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Process-for-change-of-entity) process,
-the Billing team sets the new Zuora account to `silent` when creating the relevant quote, opportunity, and subscription from the previous account.
+When an entity change occurs the original account and subscription associated with that account in Zuora are cancelled and a new account and subscription are created.  This causes the group that is associated with the original subscription to drop to the Free tier of service until the new subscription is associated to the group.
 
-The `silent` account setting results in no **Order** being created in [Customers Portal](https://customers.gitlab.com/customers/sign_in).
-You can confirm that a Zuora account is `silent` by checking **Billing and Payment Info** -> **Communication Profile**.
+These situations are handled by the account manager for the customer by opening an [IR ticket](https://gitlab-com.gitlab.io/support/internal-requests-form/) and selecting the option `Billing Entity change` from under the `SaaS Subscription Related` section of the dropdown list.
 
-**NOTE:** A subscription in the Customers Portal account may be visible but it would be impossible to link it to a group because of lack of an Order entry.
-
-These situations are handled by following the steps in the [Billing Entity Change: Associate Subscription](https://gitlab.com/gitlab-com/support/internal-requests/-/blob/master/.gitlab/issue_templates/Billing%20Entity%20Change%3A%20Associate%20Subscription.md)
-issue template.
-
-### How to handle Billing Entity changes using the CustomersDot Rails console
-
-<div class="panel panel-gitlab-orange">
-**Console Hacks Deprecation Notice**
-{: .panel-heading #console-hacks-notice}
-<div class="panel-body">
-
-Following the [discussion and decision to be more pushy than hacky](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4299)
-using console commands in CustomersDot, this workflow is documented **as a temporary workaround only** while the Fulfillment team works on
-integrating Billing entity changes in the product.
+### How to handle Billing Entity changes
 
 The progress on Fulfillment's work can be followed in these reported issues:
 
-- [Process for, and gaps around, Billing Entity Change from Fulfillment perspective](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/537)
-- [Billing Entity Change: SaaS Subscriptions should provision correctly](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4376)
 - [Spike: Provision an SM License correctly after a Billing Entity Change](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/3044)
+- [Billing Entity Change: SaaS Subscriptions should provision correctly](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/4376)
+- [Investigate tooling solutions for billing entity change](https://gitlab.com/gitlab-org/gitlab/-/issues/385612)
 
 This workflow will be removed once the above issues are fixed.
 
-</div>
-</div>
+When a Billing Entity Change occurs, there will be two Zuora accounts and two subscriptions.  The old subscription can be found on the canceled Zuora account, while the new subscription can be found on the active Zuora account. To assist with differentiating the accounts, the old account will have a `US` entity while the new account will have the 2 digit entity code for the customer's country of operation.
 
-When a Billing Entity Change occurs, there will be two Zuora accounts and two subscriptions; the old subscription would be on the canceled Zuora account, the new subscription would be on the active Zuora account. The newly created subscription will very possibly not have an Order object created for it, because the billing workflow sets the communication profile to `silent` during creation, which prevents Zuora from making callouts to CustomersDot. An Order is required to link a subscription to a namespace on GitLab, so you will need to create one.
-
-To create an Order and link the namespace to the new subscription:
-
-1. The support engineer requires [console access to CustomersDot](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html). There is not currently a way to fullfil it via mechanizer.
-1. [Find the old and new Zuora Accounts](#finding-zuora-accounts)
-1. Confirm the CustomersDot account has the new `Zuora account` ID
-1. [Create an Order for the new subscription](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#create_order_from_zuora)
-1. [Link the new subscription to the group](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#force_reassociation)
-1. Confirm the `Max seats used` is reset to current seats in use count. If not, update it using the [account_seats](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html#reset-max-seats) function.
-    - This step may be needed here to adjust their `Max seats used` to their `Seats currently in use`, because this process does not automatically reset that like it normally would during a renewal. You may need to use discretion here if the customer's max historical seatcount is wildly different from what they are currently paying for.
-
-Examples of this workflow:
-
-- <https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10633>
-- <https://gitlab.com/gitlab-com/support/internal-requests/-/issues/10585>
+Upon completion of a Billing Entity change the customer's account in [CustomersDot](https://customers.gitlab.com/customers/sign_in) should be updated with the new Zuora account which will house the new subscription information.  Sometimes due to the change in subscription Support will need to use the Mechanizer to do a force associate for the new subscription to the group the old subscription was associated with.  This can be done via the Mechanizer functionality present under the Apps category in Zendesk.
 
 #### Finding Zuora accounts
 
-For the above workflow, you need to locate both of the Zuora accounts in question. The entity change results in a new billing account being created, and the SaaS subscription(s) being recreated on that account.
+Sometimes you need to locate both of the Zuora accounts in question for the workflow shown above. The entity change results in a new billing account being created, and the SaaS subscription(s) being recreated on that account.
 
 - From CustomersDot: If you know the CustomersDot account, at least one of the Zuora accounts will be present in the `History` tab and you can work from there.
 - From SFDC: You can usually find both Zuora account IDs by looking at the SFDC account -> Billing Accounts.  In the best case, there will be only 2 accounts listed there, the new and the old.  But often there are several billing accounts associated with a customer account. The billing account in SFDC will have an Account Number in the format of `A000XXXXX`. This can be searched directly in Zuora from the search page on Customer Accounts. Alternatively, the SFDC billing account shows a Zuora ID md5 hash, which you can supply to Zuora by editing this URL: `https://www.zuora.com/apps/CustomerAccount.do?method=view&id=ZUORA-ID-MD5-HASH-GOES-HERE`
@@ -177,7 +122,7 @@ When creating an order for the new subscription, the `create_order_from_zuora` f
    ```
 
    You may notice that the `end_date` is the **renewed** `end_date`, because it was renewed and then cancelled, so don't get tripped up by that. The important parts are the `subscription_name`, and if needed, the `customer_id`, `subscription_id`, and `zuora_account_id`.
-- From SFDC both subscriptions will be listed in the SFDC account under Subscriptions and/or Subscription Product & Charges. You should notice they point at 2 different billing accounts, and one of the susbcriptions will be marked as `Cancelled`.  You can use both of these to locate the Zuora accounts if you haven't already. Generally, the subscription with the higher ID number will be the new one. Alternatively if you can locate the relevant quotes in SFDC that have their status as `Sent to Z-Billing`, the quotes will have the **Zuora Subscription ID md5 hash**.
+- From SFDC both subscriptions will be listed in the SFDC account under Subscriptions and/or Subscription Product & Charges. You should notice they point at 2 different billing accounts, and one of the susbcriptions will be marked as `Cancelled`.  You can use both of these to locate the Zuora accounts if you haven't already. Generally, the subscription with the higher ID number will be the new one. Alternatively if you can locate the relevant quotes in SFDC that have their status as `Sent to Z-Billing`, the quotes will have the **Zuora Subscription ID MD5 hash**.
 - If you have their CustomersDot account, the new subscription should also appear under their `Zuora Subscriptions` tab. If not, either there exists another CustomersDot account (try searching by just contact email domain), or possibly the CustomersDot account wasn't updated.
 
 Once you locate a `subscription_id` you can directly access the subscription by editing this URL: `https://www.zuora.com/apps/Subscription.do?method=view&id=ZUORA-ID-GOES-HERE`.
@@ -202,7 +147,7 @@ in waiting until the subscription expires.
 There is currently [no ability to downgrade a subscription from a self-service perspective](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/368).
 
 Plan downgrades should only be done at renewal. However, if the customer purchased the wrong plan as a new subscription, send
-the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the Premium plan.
+the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the correct plan.
 
 If a SaaS Ultimate customer would like to renew for a Premium plan, advise them to purchase a Premium subscription and link their group to the new subscription. Ensure that they have set their Ultimate subscription to expire/cancel on the end date.
 

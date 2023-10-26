@@ -240,7 +240,7 @@ The Engineering team and all sub-teams track Handbook Update Frequency as a [KPI
 
 ## Screenshot the handbook instead of creating a presentation
 
-Presentations are great for ephemeral content like [group conversations](https://about.gitlab.com/handbook/group-conversations/) and board presentations. [Evergreen content](https://www.thebalance.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) like a [leadership training](https://about.gitlab.com/handbook/leadership/#training) should be based on the handbook. This is an important element of [working handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).
+Presentations are great for ephemeral content like [group conversations](https://about.gitlab.com/handbook/group-conversations/) and board presentations. [Evergreen content](https://www.thebalance.com/what-is-evergreen-content-definition-dos-and-don-ts-2316028) like a [leadership training](https://about.gitlab.com/handbook/leadership/#training) should be based on the handbook. This is an important element of [working handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/).
 
 In the creation of presentations for evergreen content, please screenshot the handbook and provide links to displayed pages rather than copy and pasting content (or formatting a slide specifically to mirror handbook information). This approach shows a [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication), and rationale for this is below.
 
@@ -262,7 +262,7 @@ If a synchronous presentation is required, default to sharing your screen and vi
 
 Another company asked how we managed to work with the handbook because at their company it wasn't working: "There are many occasions where something is documented in the knowledge base, but people don't know about it because they never bothered to read or search. Some people have a strong aversion against what they perceive as a 'wall of text'."
 
-We attempt to cover this in GitLab's [guide to embracing a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/).
+We attempt to cover this in GitLab's [guide to embracing a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first/).
 
 To ensure that people's time is well spent looking at the handbook we should follow the 'handbook guidelines' above, and also:
 
@@ -274,7 +274,7 @@ To ensure that people's time is well spent looking at the handbook we should fol
 
 ## Wiki handbooks don't scale
 
-Company handbooks [frequently start as wikis](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/#tools-for-building-a-handbook).
+Company handbooks [frequently start as wikis](https://about.gitlab.com/company/culture/all-remote/handbook-first/#tools-for-building-a-handbook).
 This format is more comfortable for people to work in than a static website with GitLab Merge Requests and GitLab Pages.
 However wikis tend to go stale over time, where they are badly organized and get out of date.
 

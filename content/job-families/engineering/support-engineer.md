@@ -128,7 +128,7 @@ A Senior Support Engineer may be interested in exploring Support Management as a
 
 #### Job Grade
 
-The Staff Support Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is subject to [Staff+ IC Gearing Ratios](https://about.gitlab.com/handbook/engineering/career-development/#staff-ic-gearing-ratios). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
+The Staff Support Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
 A Senior Support Engineer will be promoted to Staff Support Engineer when they have
 demonstrated significant leadership and impact; typically around resolving customer issues. This may

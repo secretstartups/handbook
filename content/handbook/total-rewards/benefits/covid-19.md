@@ -26,7 +26,7 @@ Completing a self-evaluation is essential and may be difficult.  However, it is 
 - Team members can adjust their start and end times to later hours in the day to manage their responsibilities/achieve the same results.
 - Team members can shift the days they work due to additional support at home.  For example, a workweek schedule of Wednesday-Sunday, Sunday to Thursday, or Saturday to Wednesday.
 - Team members can no longer work full-time due to home priorities but can commit to a reduced schedule. *(Note: There may be options based on local laws where a team member can go to a reduce work schedule and pay)*
-- Team members cannot work and would like to request a [leave of absence] ({{< ref "leave-of-absence" >}}). Eligibility and details for leaves of absence will vary based on local laws.
+- Team members cannot work and would like to request a [leave of absence]({{< ref "leave-of-absence" >}}). Eligibility and details for leaves of absence will vary based on local laws.
 
 **Any modifications to a work schedule must meet business requirements.  For example, a sales representative may need to be available to customers on specific days of the week which would eliminate the ability to modify the workweek schedule.**
 
@@ -34,24 +34,24 @@ Completing a self-evaluation is essential and may be difficult.  However, it is 
 
 ### Communication
 
-Set up time with your manager to review your [self-evaluation] (#self-evaluation) and talk through your different proposed schedule and work options. Once you and your manager have agreed upon a proposed schedule/working agreement, reach out to your aligned [People Business Partner] (/handbook/people-group/#people-business-partner-alignment-to-division) to review and come to a finalized working agreement.
+Set up time with your manager to review your [self-evaluation](#self-evaluation) and talk through your different proposed schedule and work options. Once you and your manager have agreed upon a proposed schedule/working agreement, reach out to your aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to review and come to a finalized working agreement.
 
-We want to provide support to allow team members to care for themselves and for their loved ones. Please review the [COVID-19 resources] (#resources-for-covid-19) content in the handbook and reach out to the [Employee Assistance Program: Modern Health]({{< ref "modern-health" >}}) as needed. We also want to encourage team members to continue to utilize our [PTO policy] ({{< ref "paid-time-off" >}}) and take time off as needed.
+We want to provide support to allow team members to care for themselves and for their loved ones. Please reach out to the [Employee Assistance Program: Modern Health]({{< ref "modern-health" >}}) as needed. We also want to encourage team members to continue to utilize our [PTO policy]({{< ref "paid-time-off" >}}) and take time off as needed.
 
 ## COVID-19 Medical Leave Policy
 
-GitLab has long believed in ["family and friends first”]({{< ref "values#family-and-friends-first-work-second" >}}), and we realize that our team members may require time away from work in the event they or a dependent family member are directly affected by COVID-19. Therefore, GitLab has adapted its [Sick Time policy] ({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}) to include COVID diagnosis' for both yourself and your family member(s). Please review the Sick Time - Taking and Reporting requirements to determine when your time away needs to be reported.
+GitLab has long believed in ["family and friends first”]({{< ref "values#family-and-friends-first-work-second" >}}), and we realize that our team members may require time away from work in the event they or a dependent family member are directly affected by COVID-19. Therefore, GitLab has adapted its [Sick Time policy]({{< ref "paid-time-off#sick-time---taking-and-reporting" >}}) to include COVID diagnosis' for both yourself and your family member(s). Please review the Sick Time - Taking and Reporting requirements to determine when your time away needs to be reported.
 
 Generally, COVID-related absences of five working shifts or less need to be entered into Time Off by Deel as `Out Sick` in Time Off by Deel. For absences over five working shifts, please contact leaves@gitlab.com. You are not required to provide information related to the treatment or diagnosis of COVID for yourself or your family member. Please include Sick Notes or other applicable documentation that may be required in your country. The Absence Management Team can assist you if you need clarification on whether documentation is required.
 
-Many countries have adopted statutory [COVID leave policies] ({{< ref "general-and-entity-benefits#entity-benefits" >}}). If eligible, your time away will be administered under one of these statutory policies if your absences are more than five working shifts. The Absence Management Team will discuss these policies with you and assist with determining eligibility.
+Many countries have adopted statutory [COVID leave policies]({{< ref "general-and-entity-benefits#entity-benefits" >}}). If eligible, your time away will be administered under one of these statutory policies if your absences are more than five working shifts. The Absence Management Team will discuss these policies with you and assist with determining eligibility.
 
 ## Expensing the COVID-19 Vaccine
 
 To continue supporting our team members globally, we will offer to cover the COVID-19 vaccine for team members whose local government does not fully cover the cost.
 
-Team members can use our [expense reimbursement] (https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. Team members should use the tag (classification) `FY22_COVIDVaccine` when adding this expense to Navan Expense. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.
+Team members can use our [expense reimbursement](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement) process to submit the cost of their vaccine for reimbursement, remembering to [redact personal information](https://about.gitlab.com/handbook/finance/expenses/#redacting-personal-information-from-receipts) including protected health information. Team members should use the tag (classification) `FY22_COVIDVaccine` when adding this expense to Navan Expense. If you have already received and incurred a cost for the vaccine, you may still request reimbursement.
 
 ### Travel Guidance
 
-- For the company's travel guidance, please refer to the [travel handbook page] ({{< ref "travel#travel-guidance-covid-19" >}}).
+- For the company's travel guidance, please refer to the [travel handbook page]({{< ref "travel#travel-guidance-covid-19" >}}).

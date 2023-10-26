@@ -173,6 +173,59 @@ If it is decided between the team member and the team manager to not move
 forward, an explanation should be added as a comment to the issue, and the
 issue should be closed.
 
+#### Project Completion Criteria
+
+When a project is considered to be completed depends on the objectives of the project. The objectives for research projects are:
+- Idea validation
+- GitLab-internal adoption
+- GitLab Product integration
+
+All (self-guided) projects start with idea validation and might be expanded to GitLab-internal adoption and/or GitLab Product integration.
+
+##### Idea Validation
+
+Entry criteria:
+- Lightbulb issue
+- Alignment with focus area
+
+Exit criteria:
+- Research question answered
+- Research findings documented and communicated to potential stakeholders
+
+The idea validation phase begins with formulating one or more research questions which we seek to answer with a research project (see also [Creating a Research Proposal](#creating-research-proposals)). The idea should be related to the focus areas of the Security Department to align the work with company objectives. Once the questions are answered, the idea validation phase is completed and the results should be published as a conference talk, blog post, or tech note. The results should also be shared in a focused effort internally with peers in the Security Department and with product managers to which the work might be relevant.
+
+##### GitLab-internal Adoption
+
+Entry criteria:
+- Stakeholder from within the company exist.
+- Stakeholder commitment (e.g. willingness to maintain code, operate a service, or triage findings).
+- Project plan describing goals and implementation tasks.
+
+Exit criteria:
+- Project plan completed
+
+Once an idea has been validated, the research project can be extended to achieve GitLab-internal adoption and/or integration into GitLab’s products. If the project is extended, a new research proposal should be created and buy-in from stakeholders should be obtained. The expected deliverables should be documented. For example, internal adoption can be achieved by documenting research insights in the handbook or by implementing a software service.
+
+Factors to consider when scoping a project for internal adoption or product integration are:
+- The time and resources available to the researcher. If the researcher is working on a tight deadline or has limited resources, they may need to scale back the scope of the project or adjust their expectations for completion. In other words, a single person introducing a fundamentally new capability to the product is unrealistic.
+- If ongoing maintenance is required, which team will own the maintenance?
+
+##### Product Integration
+
+Entry criteria:
+- Stakeholder from Product exist.
+- Stakeholder commitment (e.g. engineering resources for implementation, maintenance, budget).
+- Project plan describing goals and implementation tasks.
+
+Exit criteria:
+- Project plan completed.
+
+| Project Goal | Idea validation | Internal Adoption | Product Integration |
+| ---      | ---      | ---      | ---    |
+| Completion Criteria   | Research question answered   | <ul><li> Detection capabilities developed </li><li> Process improved  </li></ul>   | <ul><li> Risk mitigated </li><li> Vulnerability fixed </li></ul> |
+| Deliverables   |  <ul><li>PoC</li><li>Talk, Blog Post, Tech Note</li></ul>  |  <ul><li>Code, Infra, Software Service</li><li>Handbook MR</li></ul>  | <ul><li>Code, Infra, Software Service</li><li>Docs MR</li></ul>  |
+| Timeframe (Estimates)| 1-2 quarters | 2-3 quarters | 3-4 quarters |
+
 #### Communicating Results
 
 At the end of each quarter, the team member will share with stakeholders their

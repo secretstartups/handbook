@@ -77,7 +77,7 @@ Connection to customers.gitlab.com 443 port [tcp/https] succeeded!
 ```
 
 ```sh
-$ echo "." | telnet customers.gitlab.com 444
+$ echo "." | telnet customers.gitlab.com 443
 
 Trying 104.18.20.224...
 Connected to customers.gitlab.com.
@@ -152,7 +152,7 @@ At present, cloud licensing does not officially support network proxies, deep pa
 
 ### Activating a license with the GraphQL API
 
-In cases where the license activation functions are unavailable (for example, due to a 500 error on the billing page), the [GraphQL API](https://docs.gitlab.com/ee/api/graphql/reference/) can be used to activate a cloud license directly using the [`Mutation.gitlabSubscriptionActivate` endpoint](https://docs.gitlab.com/ee/api/graphql/reference/#mutationgitlabsubscriptionactivate):
+In cases where the license activation functions are unavailable (for example, due to a 500 error on the billing page), the [GraphQL API](https://docs.gitlab.com/ee/api/graphql/reference/) can be used to activate a cloud license directly using the [`Mutation.gitlabSubscriptionActivate` endpoint](https://docs.gitlab.com/ee/api/graphql/reference/#mutationgitlabsubscriptionactivate). With this method, a subscription can be activated **even if there is already an activated cloud license present on the instance**. This method is useful to avoid the downtime caused by removing the existing license via the UI before activating another key:
 
 1. Have the customer navigate to `https://<their-self-managed-gitlab-site.com>/-/graphql-explorer`
 1. Run the following mutation by replacing `<activation code>` with the actual 24-character cloud activation code:

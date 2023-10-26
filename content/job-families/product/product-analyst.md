@@ -106,7 +106,7 @@ future of Trusted Data at GitLab
 - Operate in an iterative mindset, focused on delivering improvements and value at high velocity
 - Document every action in either an issue, MR, the handbook, or READMEs so analyses and
 findings are discoverable, following the GitLab value of [transparency](/handbook/values/#transparency)
-and the [handbook-first culture](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation)
+and the [handbook-first culture](https://about.gitlab.com/company/culture/all-remote/handbook-first)
 
 ##### Requirements
 

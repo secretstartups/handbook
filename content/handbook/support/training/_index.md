@@ -78,7 +78,7 @@ When you first join the team everything will be new to you. Don't worry! In orde
 
 ## Support Engineer Onboarding Pathway
 
-Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
+Your primary Support Engineer Onboarding Issue is created from the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/New%20Support%20Team%20Member%20Start%20Here.md). This issue keeps track of your completion of the onboarding modules shown in the table below.
 
 It is recommended that you start the modules in the order listed, but it depends on your learning style. Note that the specific learning pathway modules are not included in the list, and when you open and start working on those modules may differ from other team members as well.
 
@@ -171,29 +171,29 @@ The modules in this section should eventually be taken regardless of your Area o
 
 ### Additional Modules in the Support Training Project
 
-We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/.gitlab/issue_templates).
+We are continuously working on adding more modules and building out more learning pathways: you can find a list of all our current training modules and Modules in the [Support Training project](https://gitlab.com/gitlab-com/support/support-training/-/tree/main/.gitlab/issue_templates).
 
 ### Creating and viewing GitLab component based training
 
-Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](https://about.gitlab.com/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/master/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
+Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](https://about.gitlab.com/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/main/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
 
 ---
 
 ## Support Manager Onboarding Pathway
 
-Your primary Support Manager Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
+Your primary Support Manager Onboarding Issue is based on the [New Support Team Member Start Here template](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/New-Support-Team-Member-Start-Here.md). This Issue keeps track of and completes the onboarding modules shown in the following table.
 
 It is recommended that you complete the modules in the order listed, unless an issue mentions that you can start something else simultaneously. Typically, for a new manager in Support, completion of the below onboarding modules should take **3 weeks**.
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [Support Manager Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support-Manager-Basics.md) | 2 Weeks | Understand support management processes and workflows, including on-call rotations |
-| [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
-| [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
-| [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
+| [Support Manager Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Support-Manager-Basics.md) | 2 Weeks | Understand support management processes and workflows, including on-call rotations |
+| [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
+| [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
+| [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
 | [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 4 Days | Understand how to triage tickets including the triage view in Zendesk |
-| [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
-| [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
+| [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
+| [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
 
 When this pathway is complete, let your manager know that you are ready to join the appropriate on-call rotations. (Your Support Manager Basics issue contains the instructions for this step.)
 

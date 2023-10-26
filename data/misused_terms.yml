@@ -94,7 +94,7 @@
   - Radical transparency
   use_instead:
   - Intentional transparency
-  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), [handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/), [onboarding](https://about.gitlab.com/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
+  reason: Radical tends to be absolute and infers a lack of discretion. We are thoughtful and intentional about many things — [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/), [handbook-first documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first/), [onboarding](https://about.gitlab.com/company/culture/all-remote/building-culture/#intentional-onboarding), etc. — and have [exceptions to transparency](/handbook/communication/confidentiality-levels/#not-public).
 
   exclude_from_exports: false
 

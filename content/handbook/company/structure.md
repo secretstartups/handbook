@@ -36,15 +36,15 @@ While today the dual-career path is most built out in our Engineering division, 
 
 ## Job Frameworks
 
-We’ve developed Job frameworks to provide clarity and consistency in our expectations for each job level at GitLab. There are two Job Frameworks: [one for Individual Contributors and one for People Managers](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) which are available to team members internal only, that map to the levels outlined in our [job grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). If we make any updates to the frameworks we will always communicate that broadly. If you as a team member want to propose any changes we recommend for you to open a confidential issue in [the People Business Partner project](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues?sort=created_date&state=opened).
+We’ve developed Job frameworks to provide clarity and consistency in our expectations for each job level at GitLab. There are two Job Frameworks: [one for Individual Contributors and one for People Managers](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) which are available to internal GitLab team members only, that map to the levels outlined in our [job grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). If we make any updates to the frameworks we will always communicate that broadly. If you as a team member want to propose any changes we recommend that you to open a confidential issue in [the People Business Partner project](https://gitlab.com/gitlab-com/people-group/people-business-partners/-/issues?sort=created_date&state=opened).
 
 ### Goals of the Job Frameworks
 
-The Job frameworks will help team members understand the career level at which they're contributing and take ownership of their progression. Team members will also more easily see what skills are required of them at the next level in order to be ready to progress, when the business need supports the additional scope.
+The Job frameworks will help team members understand the career level at which they're contributing and understand the skills required for higher levels within the organization. Team members will also more easily see what skills are required of them at the next level in order to be ready to progress, when the business need supports the additional scope.
 
 This guidance will better equip managers to have more productive conversations about performance expectations and career progression, enable them to support their team members in setting personal development goals and creating shared expectations, and ensure consistency in our expectations for different levels across the organization.
 
-Having Job frameworks that managers and team members share will help us make things more transparent, consistent, actionable, and equitable.  Departments leads can work with their People Business Partner to build out specific functional frameworks with job specific competencies beyond the general frameworks provided here.
+Having Job frameworks that managers and team members share will help us make things more transparent, consistent, actionable, and equitable.  Departments leads can work with their People Business Partner to build out specific functional frameworks with job-specific competencies beyond the general frameworks provided here.
 
 ### How to use Job Frameworks
 
@@ -59,7 +59,7 @@ We are using the Job Frameworks in the following programs:
    - The frameworks will support Leadership and hiring teams in identifying the appropriate levels for to be opened roles.
    - For expanding and introducing new job levels we will leverage the frameworks to review what distinctive competencies are that we would need.
 - [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/):
-   - In the near future we will further build out how we can leverage Job frameworks in the Talent Assessment process.
+   - Job frameworks should be leveraged in the Talent Assessment program for both the self-assessment and the manager assessment in evaluating a team member against the competencies for their grade level. In a review of the competencies per level, strengths and development opportunities may surface which can help with content for the review that can lead to discussions with the team member and their manager on future development and career opportunities.
 - [Succession Planning](https://about.gitlab.com/handbook/people-group/talent-assessment/#succession-planning):
    - In the near future we will further build out how we can leverage Job frameworks in Succession planning.
 
@@ -68,9 +68,9 @@ We are using the Job Frameworks in the following programs:
 For each Job Framework we have identified categories for describing competencies we expect to see at each level. Below we describe the definitions of each category:
 
 - **Scope & Influence**: The scope of the responsibilities and ways each job influences product, team members or company strategy.
-This ranges from focus on own work to cross company and external influence in terms of product, team members, customers or company strategy.
-- **Complexity & Problem solving**: The level of complexity and problem solving skills in day-to-day responsibilities and projects.
-This is ranging from low/moderate complexity and problem solving to high complex issues that influence the accomplishment of long-term goals of GitLab.
+This ranges from focus on own work to cross-company and external influence in terms of product, team members, customers or company strategy.
+- **Complexity & Problem solving**: The level of complexity and problem-solving skills in day-to-day responsibilities and projects.
+This ranges from low/moderate complexity and problem solving to highly complex issues that influence the accomplishment of long-term goals of GitLab.
 - **Leadership & People Management/Communication**: The level of leadership they display and how they communicate within the organization. We expect that individual contributors also show leadership in their roles.
 This ranges from within their team to executives and board members.
 - [**Values Competencies**](https://about.gitlab.com/handbook/competencies/#values-competencies): Competencies that are aligned with our [CREDIT Values](/handbook/values/#credit).
@@ -84,7 +84,7 @@ Besides the above competency categories we have added two categories to the Job 
 
 ### Individual Contributor Job Framework
 
-Individual contributors are [Managers of One](/handbook/values/#managers-of-one). ICs make up the majority of the GitLab team members. [The Job Framework for ICs](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) is a high level guide that describes the minimum competencies we expect at each level of an IC. For exact requirements and responsibilities per level we refer to the Job Family page of each job.
+Individual contributors are [Managers of One](/handbook/values/#managers-of-one). ICs make up the majority of the GitLab team members. [The Job Framework for ICs](https://docs.google.com/spreadsheets/d/1FX4NBwF099uMBm7mGBtf1orIJZuHEjtiEa3jSbg9jJs/edit#gid=819074618) is a high level guide that describes the minimum competencies we expect at each level of an IC. For exact requirements and responsibilities per level team members should refer to the Job Family page of each job.
 
 ### People Managers Job Framework
 
@@ -310,7 +310,7 @@ Cohort Projects:
 
 ## VP-Directs Group
 
-VP-Directs Group is made up of VP-Directs, VPs who report directly to members of E-Group. This is a senior group of leaders who are able to assist in the cascading of critical communications, support change management, ensure our mission & vision continues to be thoroughly understood at all levels of the organization, support in top priority cross-functional activities, and act as a gauge of company sentiment & engagement.
+VP-Directs Group is largely made up of VP-Directs, VPs who report directly to members of E-Group. This is a senior group of leaders who are able to assist in the cascading of critical communications, support change management, ensure our mission & vision continues to be thoroughly understood at all levels of the organization, support in top priority cross-functional activities, and act as a gauge of company sentiment & engagement. In cases in which a function has 0-2 VP-Directs, an E-Group member may nominate 1 or 2 additional people from within the function to help represent the function.
 
 ### VP-Directs Group Objectives
 

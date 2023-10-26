@@ -67,7 +67,7 @@ Please email *paul.dervan@wtwco.com* and cc’ *total-rewards@gitlab.com*
 
 ### Superannuation
 
-GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10.5% of the team member's total salary, with a quarterly cap of $6,323.10 AUD. Super is on top of the salary listed in the compensation calculator/contract.
+GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 11% of the team member's total salary, with a quarterly cap of $6,849.70 AUD. Super is on top of the salary listed in the compensation calculator/contract.
 
 #### Superannuation payments due dates
 

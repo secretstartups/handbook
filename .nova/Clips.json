@@ -11,8 +11,9 @@
       "name" : "alert-warning"
     },
     {
-      "content" : "{{% alert title=\"Note\" color=\"primary\" %}}\n$SELECTED_TEXT\n{{% \/alert %}}\n",
-      "name" : "note-block"
+      "content" : "{{% alert title=\"Note\" color=\"primary\" %}}\n$SELECTED_TEXT{{% \/alert %}}\n",
+      "name" : "note-block",
+      "shortcut" : "ctrl-shift-n"
     },
     {
       "content" : "[iteration]: https:\/\/about.gitlab.com\/handbook\/values\/#iteration\n[collaboration]: https:\/\/about.gitlab.com\/handbook\/values\/#collaboration\n[efficiency]: https:\/\/about.gitlab.com\/handbook\/values\/#efficiency\n[values]: https:\/\/about.gitlab.com\/handbook\/values",
@@ -30,7 +31,7 @@
       "shortcut" : "ctrl-shift-d"
     },
     {
-      "content" : "{{< panel header=\"**Note**\" header-bg=\"blue\" >}}\n$SELECTED_TEXT\n{{< \/panel >}}",
+      "content" : "{{% panel header=\"**Note**\" header-bg=\"primary\" %}}\n$SELECTED_TEXT\n{{% \/panel %}}",
       "name" : "panel",
       "shortcut" : "ctrl-shift-p"
     },

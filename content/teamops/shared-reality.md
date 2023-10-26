@@ -27,11 +27,11 @@ Action tenets of building a Shared Reality, including real-world examples of eac
 
 ## Single Source of Truth (SSoT)
 
-To maximize universal information accessibility, TeamOps intentionally structures all information (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](/handbook/values/#single-source-of-truth). The concept of the SSoT is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) when there is no such thing as a "latest version." There is only *the* version.
+To maximize universal information accessibility, TeamOps intentionally structures all information (policies, objectives, workflows, instructions, values, etc.) in a virtual knowledge management system referred to as a [single source of truth (SSoT)](/handbook/values/#single-source-of-truth). The concept of the SSoT is founded on the thesis that decisions are [better informed](https://about.gitlab.com/company/culture/all-remote/handbook-first/) when there is no such thing as a "latest version." There is only *the* version.
 
 Teams and functions may choose different mediums as the SSoT depending on the nature of their work. TeamOps allows for this type of SSoT flexibility, but requires that those who dictate the SSoT share that information transparently and [crosslink](https://about.gitlab.com/handbook/communication/#cross-link) where appropriate.
 
-This type of system scales and maintains workforce awareness and empowerment with much less effort than word-of-mouth updates or memos. By writing guidance down transparently — in a way that others can modify, validate, or contribute to — leadership scales beyond an individual or team, and even beyond the organization. GitLab refers to this approach as [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/). A core outcome is that individuals are less dependent on others for the information they need to do their job.
+This type of system scales and maintains workforce awareness and empowerment with much less effort than word-of-mouth updates or memos. By writing guidance down transparently — in a way that others can modify, validate, or contribute to — leadership scales beyond an individual or team, and even beyond the organization. GitLab refers to this approach as [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/). A core outcome is that individuals are less dependent on others for the information they need to do their job.
 
 {{% details summary="Examples and resources for Single Source of Truth" %}}
 **Example:** [Maintaining a single list of all applications used within a company](https://about.gitlab.com/handbook/business-technology/tech-stack/)
@@ -40,7 +40,7 @@ Maintaining a single source of truth for elements that few individuals need isn'
 
 In conventional organizations, multiple departments may maintain their own version of this list. Crucially, this is either not acknowledged as a problem, or there is no known solution to removing duplication. In an organization powered by TeamOps, duplicate sources may exist initially, but the goal is to remove duplication. Once duplication is discovered, everyone can contribute to the solution by collaborating to create an SSoT. At GitLab, the application list [lives in our handbook](https://about.gitlab.com/handbook/business-technology/tech-stack/), and its integrity is ensured thanks to [version control](https://about.gitlab.com/topics/version-control/).
 
-**Resource:** [The importance of a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) (article)
+**Resource:** [The importance of a handbook-first approach to documentation](https://about.gitlab.com/company/culture/all-remote/handbook-first/) (article)
 
 **Resource:** [How Strong Documentation Powers Async Work](https://www.workplaceless.com/blog/how-strong-documentation-powers-async-work) (article)
 {{% /details %}}

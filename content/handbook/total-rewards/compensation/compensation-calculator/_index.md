@@ -260,7 +260,7 @@ If the location of a metropolitan area is higher than the regional minimum, the 
 GitLab will gather and analyze the data for each location factor annually as part of annual compensation review. We will also iterate on location factors as needed throughout the year.
 
 1. Data Gathering
-    - ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 125,000, and 150,000 salary rate. Take the average of all three data points.
+    - ERI: Review the Cost of Labor Market Analysis of each Geo Area to San Francisco at the 100,000, 150,000, and 200,000 salary rate. Take the average of all three data points.
     - Comptryx: Pull a report from Comptryx with all job families in SF as well as each location available in Comptryx to evaluate the differential.
     - Radford: Pull a report from Radford with all job families in SF as well as each location available in Radford to evaluate the differential.
     - In reviewing the data set, determine if a new geo area needs to be added to the list.
@@ -268,7 +268,7 @@ GitLab will gather and analyze the data for each location factor annually as par
     - For geographical areas:
         - Take the average of all non-metro data to determine the location factor for the geographical area. If insufficient non-metro data is available, use all available data and deflate for metros.
     - For metro areas, take the maximum of:
-        - the average of all data sources rounded to the nearest 0.01 OR
+        - the average of all data sources rounded up to the nearest 0.05 OR
         - the current location factor or geographic area (so as to not reduce location factors).
         - If the location factor for the metro area is higher than for the geographical area, pull this out as its own location factor.
         - Analyze the output based on geo areas to adjust location factors where needed. Add a comment with the rationale for the adjustment.

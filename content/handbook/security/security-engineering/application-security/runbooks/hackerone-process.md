@@ -100,6 +100,7 @@ the responsible engineering team:
           - `00 - Triaged with Bounty` for medium, high, and critical reports which do have an initial bounty at time of triage
         - In the comment, include link to the confidential issue
     - Update the CVE issue and Bug Bounty Council note with relevant details, while they are still fresh in your mind
+      - If the CVSS score is higher on GitLab.com than self-managed, calculate both scores and share them in the Bug Bounty Council issue. If the council agrees that security impact is higher on GitLab.com than self-managed, bounty award will be based on the CVSS for GitLab.com. The CVE and security release blog post will always use the self-managed CVSS.
     - If you relied on the HackerOne Triage Team's validation of the issue, consider setting time in your calendar to validate it yourself. This will help if you need to validate the fix later.
     - If full impact is needed to be assessed against GitLab infrastructure, instead of testing in https://gitlab.com, use https://staging.gitlab.com/help to sign in with your GitLab email account
         - If multiple users are needed, use credentials for users gitlab-qa-user* stored in 1password Team Vault to access the staging environment
@@ -218,6 +219,10 @@ on-going as to whether a patch will be created at all, reporters should
 be notified of updates at least **monthly**.
 - In any case, no report should go "stale" where updates are not provided within the last month.
 
+## SLA exceptions
+
+The HackerOne bot will automatically assign the correct due date based on severity of the imported issue. However, sometimes the issues may for various reasons not be patched within that timeframe. When this happens, development teams should open a [SLA exception](https://handbook.gitlab.com/handbook/security/threat-management/vulnerability-management/#sla-exception-procedures) and have it approved by the Vulnerability Management team. The Application Security team is available to assist by providing guidance on these exception requests, but the expectation is that development teams will submit these requests and provide the justification and exception type.
+
 ## Closing out & disclosing issues
 
 When a patch is released and the award process complete, it is time to close the HackerOne issue.
@@ -294,7 +299,7 @@ The report includes a new vulnerability, for which a patch is not available, or
   - A patch has been available for more than 30 days.
   - It has a clear and working proof of concept that illustrates the impact to GitLab.
   - It has Critical or High impact to GitLab.
-  
+
 This does not include websites of third party software and services and only includes dependencies & packaged software.
 
 ## Awarding Ultimate Licenses

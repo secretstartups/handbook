@@ -62,7 +62,7 @@ Successfully achieving our KR of a beta value stream means progress against our 
 - [Vision](/company/vision/)
 - [Product vision](/direction/#vision)
 - [Commitment of DZ](https://about.gitlab.com/blog/2021/11/10/a-special-farewell-from-gitlab-dmitriy-zaporozhets/)
-- Time needed for category creation
+- [Time needed for category creation](https://about.gitlab.com/blog/2023/08/30/origin-of-devsecops-platform-category/)
 
 ## 3 years
 

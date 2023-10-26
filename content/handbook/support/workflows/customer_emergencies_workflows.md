@@ -164,9 +164,15 @@ In rare cases, the on-call engineer may experience concurrent emergencies trigge
 1. **Support Manager**: In Slack, ping the regional support group (*e.g.* `@support-team-americas`) and request assistance from anyone who is available to assist with the new incoming emergency case.
 1. **Second Support Engineer**: Acknowledge and resolve the emergency page to indicate that you are assisting the customer with the case.
 
-#### FY23Q4-FY24Q1 Trial - Backup engineers on weekends in APAC
+#### Backup engineers on weekends in APAC
 
-[(RFC) Dealing with concurrent emergencies over the weekend in APAC STM#4583](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/4583) observed an increase of concurrent emergencies over the weekend period. In APAC, the team will trial a pool of Support Engineers volunteering as **backup engineers**. This pool is independent of the existing escalation policies in Pagerduty, as outlined:
+Concurrent emergencies are anticipated to become more frequent over weekends. There is active discussion with the APAC managers on
+the next iteration of emergency coverage but as a stop gap solution, the APAC Support team have a backup pool of Support Engineers
+that can be paged by the Manager on call to assist with simultaneous emergencies if needed.
+
+Support Engineers participating in the backup pool are referred to as **backup engineers** and are strictly on a volunteer basis.
+
+This pool is independent of the existing escalation policies in Pagerduty, as outlined:
 
 ```text
 Pool 1: On call engineer -> Support Manager on call -> Directors
@@ -177,7 +183,7 @@ Pool 2: Backup engineers
 
 ##### Escalate to initiate page to backup engineers
 
-During FY23Q4-FY24Q1 in APAC, in the event that a concurrent emergency comes through while you are still working on the current emergency:
+In the event that a concurrent emergency comes through while you are still working on the current emergency:
 
 1. **You**: **Escalate** the page, instead of acknowledging/resolving it. The Support Manager is responsible for finding an engineer to own the new emergency page.
 1. **Support Manager**: Assess the situation. It's possible to [initiate a page of the backup pool](/handbook/support/workflows/support_manager-on-call.html) to request assistance from backup engineers if the situation calls for it.
@@ -318,7 +324,7 @@ There may be times when a customer's subscription expires **over the weekend**, 
 
 For non-trial subscriptions, you can remind the customer that subscriptions have [a 14-day grace period](https://about.gitlab.com/pricing/licensing-faq/#what-happens-when-my-subscription-is-about-to-expire-or-has-expired). If the grace period will still be active on the next business day, kindly let the user know that their request will be handled as a standard L&R case during normal business hours. You should close the emergency ticket and ask the customer to open a [new L&R ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000071293) in case one doesn't exist yet.
 
-Otherwise, use the `Mechanizer` app on the ticket to resolve the situation via the [`Emergency License Generation`](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#emergency-license-generation) option.
+Otherwise, follow the [Self-Managed Weekend Emergencies - License Request](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies/) workflow.
 
 #### SaaS Subscription Emergencies
 
@@ -328,6 +334,7 @@ A customer may be blocked because of a license expiring or neglecting to apply a
 1. Check the `Trial ends on` date.
     - If it has a date, you will not need to provide a `Subscription Name` in the next step. Proceed to step 3.
     - If it is empty or null **and the namespace is on a Free plan**, guide the customer to navigate to the Settings -> Billing page and click on `Start a Free Ultimate trial`.
+1. In the ticket, apply the `Trial Subscription - Exclusions Sign Off` macro and send the generated message to the customer. Do not proceed further until the customer has provided a **written** response confirming they understand the trial subscription exclusions.
 1. In the `Mechanizer` app on the ticket use the [`Manage GitLab Plan and Trials`](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#manage-gitlabcom-plan-and-trials) option to resolve the situation.
     - Enter the namespace path.
     - Select the Plan the customer had initially purchased, or use `Ultimate` if you do not have this information.

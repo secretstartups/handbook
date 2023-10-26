@@ -20,6 +20,12 @@ params:
   defaultContentLanguage: en
   locale: en-US
   description: Learn more about GitLab and what makes us tick.
+  algolia_docsearch: true
+  search:
+    algolia:
+      appId: 3IIMMA8IDY
+      apiKey: 71feb3efa6044f78ab6b8a7422e727b7
+      indexName: handbook-gitlab
   images:
       - images/gitlab-cover.png
   branch: main
@@ -30,7 +36,7 @@ params:
     # svg: true
   mermaid:
     enable: true
-  offlineSearch: true
+  offlineSearch: false
   ui:
     sidebar_menu_compact: false
     sidebar_menu_foldable: true

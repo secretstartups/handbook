@@ -6,10 +6,12 @@ canonical_path: "/company/okrs/"
 
 ## Most recent OKRs
 
-All our OKRs are public and listed on the pages below.
+Our OKR process and timelines are public and listed on the pages below.
 - [FY24-Q3 Active](/company/okrs/fy24-q3/)
 - [FY24-Q4 Future](/company/okrs/fy24-q4/)
 - [Previous OKRs](#okr-archive)
+
+OKRs are internal-only in line with guidance from the [SAFE framework](/handbook/legal/safe-framework/).
 
 ## What are OKRs?
 
@@ -67,7 +69,7 @@ Key Results should be:
 1. **Iterative** - Aligned with our core value of [iteration](/handbook/values/#iteration), a Key Result should focus on number of iterations or steps on the way to an outcome instead of just the outcome. Deliver x iterations instead of deliver y functionality.
     1. For example, if we need to create a certain number of experimental and beta features to ultimately get to 1 GA feature, break the KR down into iterative pieces such as deliver 16 experimental features, 2 beta features, and 1 GA feature to highlight the iterations required to get to the end result, instead of only focusing on the end result.
 1. **Aspirational** - Ambitious but realistic stretch goals; if it feels uncomfortable, it's a good KR.
-    1. If you achieve less than 70% of your KR, it may have not been achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
+    1. If you achieve less than 70% of your KRs, you may be stretching beyond what is achievable. If you are regularly achieving 100% of your KRs, your goals may not be ambitious enough.
 1. **Linked** - Be aligned to an Objective and be relevant to teams one level down; this alignment also allows KRs to easily roll down to become objectives one level down.
     1. KRs should not be too specific that the KR needs to be rolled more than one level down.
 1. **Clear, Responsible Party** - one single person or team responsible for Key Result.
@@ -275,7 +277,6 @@ To add new objectives in GitLab, follow the steps below:
 1. In the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), navigate to OKRs by selecting **Issues** on the left sidebar.
 1. In the top right corner of the **Issues** screen, select the down arrow next to **New issue** in the top right corner and then select **New objective** from the menu. Next, select the **New objective** button to [create an Objective](https://docs.gitlab.com/ee/user/okrs#create-an-objective).
 1. Enter a short but descriptive title for the objective then click **Create objective**
-    1. If objective contains confidential information, the objective can be set to confidential by checking the box that states `This objective is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the objective. Use the [SAFE framework](/handbook/legal/safe-framework/) to determine whether it needs to be confidential.
 1. Select the objective from the list to open in an editable view and add more details:
     1. Identify the owner for the objective and assign them.
          1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the objective. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
@@ -286,9 +287,7 @@ To add new objectives in GitLab, follow the steps below:
             1. CEO OKRs are designated with a division::CEO scoped label.
         1. Only Product & Engineering cascade OKRs below division level, so for Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
         1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label.
-1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.
-    1. If objective contains confidential information, but objective has already been created, the objective can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
-1. Review to ensure that the objective should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
+1. Review the objective against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. Review to ensure that the objective should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 
 ### Creating Key Results
 
@@ -299,9 +298,8 @@ Since [Key Results are the measure](#what-are-okrs) that helps us understand if 
 To add new key results in GitLab, follow the steps below:
 
 1. Navigate to the the objective that you want to add a child key result to by opening the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), selecting **Issues** on the left sidebar, then clicking on the target objective.
-1. [Add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result) by clicking **Add** in the **Child objectives and key results** section of an objective and then select **New key result**. Use the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) to determine whether it needs to be confidential.
+1. [Add new key result](https://docs.gitlab.com/ee/user/okrs#add-a-child-key-result) by clicking **Add** in the **Child objectives and key results** section of an objective and then select **New key result**. Use the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/) to determine whether it needs to have limited access.
 1. Enter a short but descriptive title for the key result then click **Create key result**
-   1. If key result contains confidential information, the key result can be set to confidential by checking the box that states `This key result is confidential and should only be visible to team members with at least Reporter access` below where you entered the title of the key result.
 1. Select the key result from the list in the **Child objectives and key results** section to open in an editable view and add more details:
     1. Identify the owner for the key result and assign them.
         1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
@@ -311,9 +309,7 @@ To add new key results in GitLab, follow the steps below:
         1. Add [division label](https://gitlab.com/gitlab-com/gitlab-OKRs/-/labels?subscribed=&search=division) to assign to the relevant division (i.e. Sales, Product, etc). CEO OKRs are designated with a `division::CEO` scoped label.
         1. Only Product & Engineering cascade OKRs below division level. For Product & Engineering OKRs, in addition to division labels, follow [stage labels](https://docs.gitlab.com/ee/development/labels/index.html#stage-labels) to add the Section/Stage/Group scoped labels to assign the OKR to the relevant parts of [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
         1. Each part of hierarchy should have a label. For example, an OKR for a group would have a division label, a section label, a stage label, and a group label.
-1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared.
-    1. If KR contains confidential information, but KR has already been created, the KR can still be set to confidential by clicking the menu in the top right and selecting `Turn on confidentiality`.
-1. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
+1. Review the key result against the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/) to ensure it is information that can be shared. Review to ensure that information should not be [limited access](/handbook/communication/confidentiality-levels/#internal). If the information is limited access, use code name if relevant or link to a supporting issue that is limited access.
 1. Optionally, [turn on check-in reminders](https://docs.gitlab.com/ee/user/okrs.html).
 1. The key result now appears in the **Child objectives and key results** section of the corresponding parent objective.
 
@@ -432,6 +428,16 @@ The first Key Review of the following quarter should offer a clear scoring for e
 CEO OKR progress will be shared in the first week of the month in the  following slack channels: [#ceo](https://gitlab.slack.com/archives/C3MAZRM8W); [#okrs](https://gitlab.slack.com/archives/C7957GG4B); [#e-group](https://gitlab.slack.com/archives/C5W3VS1C4); [#whats-happening-at-gitlab](https://gitlab.slack.com/archives/C0259241C).
 
 ## Scoring OKRs
+
+Since we set OKRs that are aspirational, we [don't expect 100% achievement](/okrs/#criteria-for-key-results) across KRs. We score individual KRs to note our achievement against our stated goal. This is the scoring framework.
+
+| Achievement against targets | Score |
+| ------ | ------ |
+| On-target | 85 to 100% |
+| Off-target | 70 to 84% |
+| At risk | 0 to 69% |
+
+### Tips for goals that are scorable
 
 Your KRs should be statements that clearly indicate how you will score. For example, in FY21-Q4, the marketing team set a target of completing 5 experiments. It completed 4 out of the 5, but only one of these appeared to be successful. The marketing team initially saw this as a failure. Instead, it showed notable progress. 80% of experiments were completed. This was the stated KR goal.
 

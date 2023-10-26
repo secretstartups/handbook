@@ -5,7 +5,11 @@ subcategory: Security
 description: How to determine if a blocked user can be re-instated if it has been blocked
 ---
 
-This workflow page will describe how to action on Locked & Blocked accounts. Sometimes users believe they are blocked, but their accounts are locked. The Admin User UI provides information regarding whether a user account is locked or blocked in `/admin/user/USERNAME`. It will say `(Locked)` or `(Blocked)` next to the name at the top. Currently, this functionality is not available in the API, but it has been requested in [gitlab#391635](https://gitlab.com/gitlab-org/gitlab/-/issues/391635).
+This workflow page will describe how to action on **Locked** & **Blocked** accounts. Sometimes users believe they are blocked, but their accounts are locked. There are several ways to verify:
+
+1. The best way to view this information is via the [Zendesk User Lookup app (part of the GitLab Super App)](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-super-app), through the `Locked` and `State` fields.
+1. The Admin User UI in `/admin/user/USERNAME` will say `(Locked)` or `(Blocked)` next to the name at the top.
+1. The [Users API](https://docs.gitlab.com/ee/api/users.html#single-user) through the URL `https://gitlab.com/api/v4/users/<user_id>` in your browser while logged in as an Admin User, also indicates the `locked` and `state` status of the user.
 
 Our implementation of [Arkose Protect](https://docs.gitlab.com/ee/integration/arkose.html#arkose-protect) does *not* affect account locking, but instead can prevent users from signing in without solving the challenge.
 

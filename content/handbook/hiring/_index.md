@@ -214,7 +214,8 @@ Scorecards are required in all stages that require interviews. Confidential, per
 {{% /details %}}
 - [Verbal offer information]({{< ref "offer-process#verbal-job-offer" >}})
 - [Declined offer steps]({{< ref "offer-process#declined-offers" >}})
-- {{% details summary="Background screens" %}}
+
+{{% details summary="Background screens" %}}
 - Contact the Senior Background Check Specialist at backgroundchecks@gitlab.com with any questions or requests for status updates.
 - The most commonly asked question for candidates outside the US is, “Why can’t I enter more than one past employer?” Outside of ​the US, candidates will only submit one former employer and Sterling is working as expected.
 {{% /details %}}

@@ -35,24 +35,11 @@ This procedure applies to all third party providers that access, store, process 
 | Business or System Owner |  [Describe the nature of the Third Party Relationship](https://about.gitlab.com/handbook/finance/procurement/#step-2-submit-your-zip-request) <br> Work with the Security Risk team to facilitate the TPRM review, to include remediation activities <br>* Ensure the responsiveness of the third party as part of the security review requirements |
 | Security Assurance Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-## Third Party Minimum Security Standards
-
-TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
-
-The following items often reflect Security deficiencies that may result in a higher vendor residual risk score:
-1. Inability to integrate with *[Okta](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta)
-1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
-1. Lack of background checks for employees and contractors
-1. Systems lacking multi-factor authentication (MFA) capabilities
-1. Systems lacking evidence of a recent penetration test
-
-*While Okta SSO integration is GitLab's preferred method, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
-
-Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
-
 ## Procedure
 
 Where GitLab controls, owns, or is otherwise responsible for data, the diagram below depicts TPRM procedures based on the [Data Classification]({{< ref "data-classification-standard" >}}) of data shared with the third party.
+
+{{% details summary="(Expand to view chart)" %}}
 
 ```mermaid
 
@@ -126,6 +113,9 @@ graph TB
         classDef empty opacity:0
 ```
 
+{{% /details %}}
+
+
 ### TPRM Assessment Requirements
 
 The following table defines the procedures followed by TPRM engineers for vendors accessing or being transmitted different [classifications of GitLab data]({{< ref "data-classification-standard" >}}). The below procedures are initiated by the [Procurement](https://about.gitlab.com/handbook/finance/procurement/#--what-is-the-procurement-process-at-gitlab) process and are followed in all instances where applicable vendors have not been reviewed within the established approval windows defined below.
@@ -141,12 +131,12 @@ Circumstances may exist outside of those defined above that could necessitate fu
 
 If a Risk Acceptance was put in place at the time of the previous assessment, inquiry should be performed with the vendor or relevant stakeholder to determine the current status of the risk. Any updates should be documented within the Risk Object. This can be performed in tandem with the requisition or after its approval.
 
-| Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | Evidence of PenTest and BCP Testing |
-| ------ | ------ |------ |------ |------ |------ |
-|Red*     |3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          If applicable|     Yes|    Yes |
-|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & SIG Lite Plus (or equiv)|     Yes|          Yes|     Yes|     Yes |
-|Orange Professional Services | 3rd Party Attest or SIG Prof Svcs|          N/A|     N/A| N/A|   N/A|
-|Yellow/Green**     |-|     -|     -|     Yes*|    - |
+| Data Classification | Request | Supplemental Questionnaire in Zen? | Okta SSO? | New BIA / Tech Stack Entry? | BitSight Review? | Evidence of PenTest and BCP Testing |
+| ------ | ------ |------ |------ |------ |------ | ------ |
+|Red*     |3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          If applicable|     Yes|    If Applicable | Yes |
+|Orange SaaS Systems or Locally Hosted/Installed Systems with Data Exchange| 3rd Party Attest & [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true) (or equiv)|     Yes|          Yes|     Yes|     Yes | Yes |
+|Orange Professional Services | 3rd Party Attest or [SIG Prof Svcs](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)|          N/A|     N/A| N/A|   N/A| N/A|
+|Yellow/Green**     |-|     -|     -|     Yes*|    - | - |
 
 Software is inventoried in the tech stack regardless of data classification. See [Tech Stack Application Handbook](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#tech-stack-updates) for more details.
 
@@ -174,6 +164,63 @@ GitLab obtains and reviews third-party attestations to provide assurance over th
 
 **SOC 2 Type 1:** The SOC 2 Type 1 report is often published as part of a preliminary assessment during the SOC 2 Type 2 "readiness" process. This is a limited scope, point in time assessment of the design of controls in place within a service provider's environment, and does not include a validation of control operating effectiveness. As such, the Type 1 report should not be leveraged on its own to address our third-party attestation requirements, however it may be leveraged in addition to an ISO 27001 certificate or equivalent attestation in providing assurance over a service provider's environment.
 
+### The Standard Information Gathering (SIG) Questionnaire
+
+The Security Risk Team leverages the [Standard Information Gathering (SIG)](https://sharedassessments.org/sig/) Questionnaire to gain a more in-depth understanding of a vendor's Security environment beyond what is attained by reviewing a Third-Party Attestation such as an ISO certification or SOC-2 report. Responses within the SIG questionnaire, or an equivalent document such as a CAIQ, should be reviewed alongside the vendor's third-party attestation (if available) and their responses to our Security Questionnaire when assessing the Security environment in place within the service organization.
+
+Security Risk maintains multiple templated versions of the SIG questionnaire for use depending on the product or service being assessed, as some vendors may not have a SIG questionnaire or equivalent to provide. The SIG templates include instructions noting that we only require Inquiry responses within Columns D and E of the main questionnaire tab, as additional requests for information or documentation within the SIG are generally not required. Note that potential fringe cases *could* exist wherein professional discretion may dictate the necessity for additional documentation requests to supplement vendor responses. These scenarios should be discussed with the Security Risk Manager to determine what is needed. Further, professional discretion should be applied when making decisions as to which version of the SIG questionnaire should be sent. For cases in which the level of review required is unclear, engineers are encouraged to discuss with the @Security-Risk team in the #Sec-Assurance-Team channel to come to a decision.
+
+{{% details summary="SIG Lite Plus" %}}
+- [SIG Lite Plus](https://docs.google.com/spreadsheets/d/1wvpY3oF8sG_UbnQzzlbXs85ahsfLiDQp/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
+    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
+    - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
+        - A. Enterprise Risk Management (Full SIG Content)
+        - B. Security Policy
+        - C. Organizational Security
+        - D. Asset and Info Management
+        - E. Human Resources Security (Full SIG Content)
+        - F. Physical and Environmental
+        - G. IT Operations Management
+        - H. Access Control
+        - I. Application Security
+        - J. Cybersecurity Incident Mgmt
+        - K. Operational Resilience
+        - L. Compliance and Ops Risk
+        - M. Endpoint Device Security
+        - N. Network Security
+        - P. Privacy
+        - T. Threat Management
+        - U. Server Security
+        - V. Cloud Hosting Services
+{{% /details %}}
+
+{{% details summary="Professional Services SIG" %}}
+- [SIG Professional Services](https://docs.google.com/spreadsheets/d/1xiReZd5heUl5YVFCqPxEfXJIYlqtz_LS/edit?usp=drive_link&ouid=103289635706160914358&rtpof=true&sd=true)
+    - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a system being transmitted sensitive GitLab data. In these cases it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
+    - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
+        - D. Asset and Info Management
+        - E. Human Resources Security (Full SIG Content)
+        - F. Physical and Environmental
+        - H. Access Control
+        - L. Compliance and Ops Risk
+        - M. Endpoint Device Security
+        - N. Network Security
+        - P. Privacy
+        - T. Threat Management
+
+{{% /details %}}
+
+{{% details summary="Reviewing SIG Responses" %}}
+Vendor responses documented within the SIG questionnaire should be reviewed in the context of the services provided by the vendor, with care taken to understand the broader control environment and how certain control deficiencies may be mitigated by other existing controls. For example, a vendor that does not rely on 3rd party service providers in the provision of services would be unlikely to maintain a Third Party Risk Management program, which is unlikely to pose a risk to GitLab in the broader context of services being provided. Significant deviations such as this should be flagged during the review and noted within the SIG questionnaire with an explanation on why the deficiency does not present a risk to GitLab data. Mitigating controls, if identified, should be defined within these notes as well. Engineers are encouraged to perform follow-up inquiries with vendors as necessary to determine whether a control deficiency exists. These inquiries should be further noted within the SIG document or within the TPRM Assessment Report.
+
+Deficiencies identified that may present a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the Risk Acceptance Process detailed below.
+
+*SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due diligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains.*
+{{% /details %}}
+
+### Leveraging BitSight
+
+BitSight is leveraged to obtain additional assurance over the security of a vendor's environment by use of public scans and peer benchmarking. When assessing a vendor, their BitSight report is downloaded and reviewed to determine whether their scoring is adequate, as evidenced by an "Advanced" security rating. BitSight ratings of "Basic" or "Intermediate" are reviewed in further depth to understand the rationale behind the lower rating and whether the deficiencies identified may indicate a risk to GitLab data. Due to the wide scope of BitSight's scans, some deficiencies may exist within areas that do not impact GitLab's usage of a vendor's product, and thus do not contribute to the vendor's residual risk. If deficiencies are identified that may present a material risk to GitLab data, further inquiry should be performed with the vendor to determine whether they have been resolved. Un-resolved material deficiencies should be documented within the TPRM Assessment Report and reported to the Business Owner via the [TPRM Risk Acceptance Process](https://handbook.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management/#tprm-risk-acceptance-process) defined below.
 
 ### TPRM Approval Windows
 
@@ -198,63 +245,10 @@ The Security Risk team facilitates multiple functions to maintain accuracy of Te
 ### Exceptions to the TPRM Process
 
 In specific instances, requirements for the performance or contents of TPRM reviews may vary from the standard process defined above:
-1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.
-1. Instances where Gitlab team members provide their own data to a third-party [Data Controller](https://about.gitlab.com/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
-1. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team. Note that if the Field Marketing Team is commissioning the use of software to facilitate its operations or have hired a Vendor to collect data on behalf of Gitlab, these vendors are subject to TPRM review.  GitLab receiving event data from another organizer or GitLab sharing event data with other independent organizations and/or sponsors does not require a TPRM assessment.
-
-#### The Standard Information Gathering (SIG) Questionnaire
-
-The Security Risk Team leverages the [Standard Information Gathering (SIG)](https://sharedassessments.org/sig/) Questionnaire to gain a more in-depth understanding of a vendor's Security environment beyond what is attained by reviewing a Third-Party Attestation such as an ISO certification or SOC-2 report. Responses within the SIG questionnaire, or an equivalent document such as a CAIQ, should be reviewed alongside the vendor's third-party attestation (if available) and their responses to our Security Questionnaire when assessing the Security environment in place within the service organization.
-
-Security Risk maintains multiple templated versions of the SIG questionnaire for use depending on the product or service being assessed, as some vendors may not have a SIG questionnaire or equivalent to provide. The SIG templates include instructions noting that we only require Inquiry responses within Columns D and E of the main questionnaire tab, as additional requests for information or documentation within the SIG are generally not required. Note that potential fringe cases *could* exist wherein professional discretion may dictate the necessity for additional documentation requests to supplement vendor responses. These scenarios should be discussed with the Security Risk Manager to determine what is needed. Further, professional discretion should be applied when making decisions as to which version of the SIG questionnaire should be sent. For cases in which the level of review required is unclear, engineers are encouraged to discuss with the @Security-Risk team in the #Sec-Assurance-Team channel to come to a decision.
-
-{{% details summary="SIG Lite Plus" %}}
-- SIG Lite Plus
-    - The SIG Lite Plus questionnaire is leveraged most commonly and should be utilized for all Red vendors and Orange SaaS systems. We refer to our SIG Lite as the "SIG Lite Plus" as it includes full scope SIG questionnaires for domains "A. Enterprise Risk Management" and "E. Human Resource Security". All other domains include standard SIG Lite content. Our objective here is to obtain additional information related to personal computers and background checks.
-    - The following 18 domains are included within the scope of the SIG Lite Plus questionnaire:
-        - A. Enterprise Risk Management (Full SIG Content)
-        - B. Security Policy
-        - C. Organizational Security
-        - D. Asset and Info Management
-        - E. Human Resources Security (Full SIG Content)
-        - F. Physical and Environmental
-        - G. IT Operations Management
-        - H. Access Control
-        - I. Application Security
-        - J. Cybersecurity Incident Mgmt
-        - K. Operational Resilience
-        - L. Compliance and Ops Risk
-        - M. Endpoint Device Security
-        - N. Network Security
-        - P. Privacy
-        - T. Threat Management
-        - U. Server Security
-        - V. Cloud Hosting Services
-{{% /details %}}
-
-{{% details summary="Professional Services SIG" %}}
-- SIG Professional Services
-    - The Professional Services SIG Lite Plus questionnaire features a reduced scope and can be leveraged for scenarios in which an **Orange** vendor is only providing contracted services or services not otherwise resulting in the introduction of a system being transmitted sensitive GitLab data. In these cases it may not be necessary to perform a full-scope review of the vendor's Security environment, as many controls within the full SIG Lite questionnaire may not apply or present a material risk to GitLab data.  **Please note this guidance applies only to Orange professional services providers. Service providers being granted access to Red data in the provision of services should be assessed utilizing the SIG Lite Plus questionnaire defined above due to the greater obligation for Data Security with these providers.**
-    - The following domains are included within the scope of the Professional Services SIG Lite Plus questionnaire.
-        - D. Asset and Info Management
-        - E. Human Resources Security (Full SIG Content)
-        - F. Physical and Environmental
-        - H. Access Control
-        - L. Compliance and Ops Risk
-        - M. Endpoint Device Security
-        - N. Network Security
-        - P. Privacy
-        - T. Threat Management
-
-{{% /details %}}
-
-{{% details summary="Reviewing SIG Responses" %}}
-Vendor responses documented within the SIG questionnaire should be reviewed in the context of the services provided by the vendor, with care taken to understand the broader control environment and how certain control deficiencies may be mitigated by other existing controls. For example, a vendor that does not rely on 3rd party service providers in the provision of services would be unlikely to maintain a Third Party Risk Management program, which is unlikely to pose a risk to GitLab in the broader context of services being provided. Significant deviations such as this should be flagged during the review and noted within the SIG questionnaire with an explanation on why the deficiency does not present a risk to GitLab data. Mitigating controls, if identified, should be defined within these notes as well. Engineers are encouraged to perform follow-up inquiries with vendors as necessary to determine whether a control deficiency exists. These inquiries should be further noted within the SIG document or within the TPRM Assessment Report.
-
-Deficiencies identified that may present a material risk to GitLab data should be noted within the TPRM assessment report and presented to the business owner via the Risk Acceptance Process detailed below.
-
-*SIG questionnaires (or equivalent) provided by a vendor **not** utilizing a GitLab-provided template should be reviewed to ensure they meet our due diligence standards. Domains not sufficiently addressed by a vendor-provided questionnaire should be identified, with additional inquiries performed to gain assurance over all in-scope domains.*
-{{% /details %}}
+1. For privacy-driven TPRM reviews, instances where GitLab **receives** personal data from a third party in a [Controller-to-Controller](/handbook/legal/privacy/#privacy-terms) transfer do not require a TPRM review. The Privacy team will classify the nature of the relationship as part of the Privacy assessment during the procurement process.
+1. Law Firms, Accountants and Auditors may receive data, including red data, in a [Controller-to-Controller relationship](/handbook/legal/privacy/#privacy-terms), meaning these types of entities have direct obligations and standards for processing data under law. As such, these entities may be treated as Orange vendors.
+1. Instances where Gitlab team members provide their own data to a third-party [Data Controller](/handbook/legal/privacy/#privacy-terms), in which the team member personally acknowledges the third-party's terms, may not require a TPRM assessment.  Examples may include signing up for health, coaching or counseling benefits where GitLab only finances the service but does not send or receive data on behalf of team members and team members voluntarily decide to enter the program.
+1. Field Marketing events do not require the completion of a Security review as the gathering of contact information for GL Team Members and prospects is considered to be standard for the normal course of business for the Field Marketing team. Note that if the Field Marketing Team is commissioning the use of software to facilitate its operations or have hired a Vendor to collect data on behalf of Gitlab, these vendors may be subject to TPRM review as they could be considered a [Data Processor]((/handbook/legal/privacy/#privacy-terms))(see 1. above for more information). GitLab receiving event data from another organizer or GitLab sharing event data with other independent organizations and/or sponsors does not require a TPRM assessment.
 
 ### Other Types of Third Party Assessments
 
@@ -284,6 +278,25 @@ Commonly requested individual-use software is added to the Pre-Approved Applicat
 
 Want to vet a third party before initiating a new procurement request? [Click here to open a new Third Party Risk Intake Request](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new?issuable_template=TPRM%20Intake%20Request).
 
+#### Documentation Requests
+
+Looking for compliance reports for an active GitLab vendor? [Open a new issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new) within the TPRM workspace using the 'Vendor Documentation Request' template, and we'll be happy to track it down.
+
+## Third Party Minimum Security Standards
+
+TPRM utilizes a risk-based approach when assessing third parties. Specific procedures used to assess different vendor types / risk profiles can be found below.
+
+The following items often reflect Security deficiencies that may result in a higher vendor residual risk score:
+1. Inability to integrate with *[Okta](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta)
+1. Lack of third-party Security attestation (ISO 270001, SOC2 Type 2)
+1. Lack of background checks for employees and contractors
+1. Systems lacking multi-factor authentication (MFA) capabilities
+1. Systems lacking evidence of a recent penetration test
+
+*While Okta SSO integration is GitLab's preferred method, IT Engineering can review and approve alternative SSO methods on a case by case basis. Exceptions must be submitted and reviewed through an [IT EngOps issue](https://gitlab.com/gitlab-com/it/engops/issue-tracker/-/issues/?sort=due_date&state=opened&first_page_size=100) before approval of the vendor's services.
+
+Deficiencies identified are reviewed in the context of the vendor's greater Security environment and the data transmitted. If a material risk to GitLab data is identified, a Risk Acceptance is drafted and presented to the Business Owner for review. See the **TPRM Risk Acceptance Process** section below.
+
 ### TPRM Risk Acceptance Process
 
 Circumstances may arise in which a Security deficiency exists that is unavoidable or does not otherwise warrant the allocation of resources necessary to mitigate it. In these scenarios the Security risk team may present a Risk Acceptance to the Business Owner and other relevant stakeholders in order to support an informed decision and allow the Business to move forward with the associated requisition if needed.
@@ -294,7 +307,7 @@ Identified deficiencies are reported to the Business Owner via a [Risk Acceptanc
 1. **Justification** for moving forward with the vendor in light of the identified deficiencies.
 1. **Approval** of the risk. Note that this may require multiple levels of approval based on the level of risk identified. See below.
 
-Deficiencies require different stakeholder input based on the level of risk associated with the deficiency:
+Deficiencies require different stakeholder input based on the level of risk associated with the deficiency. Note that additional levels of approval may be required at the discretion of the Security team. For example, if a "Moderate Risk" system has financial reporting implications, eGroup approval may be required.
 
 - **Moderate Risks** are defined as risks that could result in the loss or improper disclosure of "lower" sensitivity (Orange) GitLab data. These risks are reported to the Business Owner for approval. If the Business Owner is not a Director or above, additional Director approval is required.
 - **High Risks** are risks that could result in the loss or improper disclosure of higher sensitivity (Red) data belonging to GitLab customers. Due to the higher level of sensitivity and potential impact on GitLab's obligations for securing this data, approvals are required from the Business Owner, their Director, and the appropriate member of the E-Group as determined by the Security Risk team. This is done to ensure appropriate stakeholder visibility and understanding of the risk being undertaken.
@@ -305,13 +318,9 @@ In the case of a control deficiency introducing a material risk to the security 
 
 Please refer to our [StORM Handbook]({{< ref "storm-program#accept-the-risk" >}}) for required approvals based on risk rating (High/Medium/Low) and responsibilities of Accepted Risk Owners and Risk Acceptance Approvers. IT approval is also required to promote transparency across the organization.
 
-## Exceptions
+## Exceptions to the TPRM Process
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "/handbook/security#information-security-policy-exception-management-process" >}}).
-
-## Documentation Requests
-
-Looking for compliance reports for an active GitLab vendor? [Open a new issue](https://gitlab.com/gitlab-com/gl-security/security-assurance/security-risk-team/third-party-vendor-security-management/-/issues/new) within the TPRM workspace using the 'Vendor Documentation Request' template, and we'll be happy to track it down.
 
 ## References
 

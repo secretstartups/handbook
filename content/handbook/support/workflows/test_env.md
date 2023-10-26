@@ -313,7 +313,7 @@ A highly effective way to secure your cloud instances is to apply the [concept o
 
 If you don't know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it.  Though configuring IP filtering is currently a manual process for each cloud service, [discussions are underway](https://gitlab.com/gitlab-com/business-technology/engineering/tools/hackystack/-/issues/134) at the time of writing regarding how best to automate this practice to reduce complexity and manual processes needed in some cases. The steps to implement IP filtering will differ per cloud environment.  Below you can find a detailed guide maintained by the support engineering team.
 
-- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/content/ip%20filtering/ip_filtering_test_instances.md)
+- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/content/ip%20filtering/ip_filtering_test_instances.md)
 
 In addition, you can find official, platform-specific documentation of features involved in implementing IP filtering:
 
@@ -323,13 +323,31 @@ In addition, you can find official, platform-specific documentation of features 
 
 ### TLS
 
-To be in line with [GitLab's encryption policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources.  Implementing TLS on any test instance that includes a login page can be done with a self-signed certificate if desired.  Self-signed certificates are free, suitable for testing environments, and encrypt ingress and egress traffic with the same ciphers as paid certificates.  The down-side is that self-signed certificates are not trusted by any browser or operating system and will therefore warn users of the risks when accessing a site that utilizes a self-signed (untrusted) certificate.  If external parties will be accessing your instance that should rely on your TLS implementation, it's best to include a signed certificate from a legitimate certificate authority.  For instructions on using self-signed certificates on your test instances, please review the following documentation:
+To be in line with [GitLab's encryption policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources.
+
+For GitLab instances specifically, it's recommended that [LetsEncrypt is manually enabled for Omnibus installs](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance).  First, you'll need a domain assigned to your external IP regardless of your cloud platform.  Enabling LetsEncrypt for Omnibus installs is well documented at the link above.
+
+#### Self-Signed Certificates
+
+ Implementing TLS on any test instance that includes a login page can be done with a self-signed certificate if desired.  Self-signed certificates are free, suitable for testing environments, and encrypt ingress and egress traffic with the same ciphers as paid certificates.  The down-side is that self-signed certificates are not trusted by any browser or operating system and will therefore warn users of the risks when accessing a site that utilizes a self-signed (untrusted) certificate.  If external parties will be accessing your instance that should rely on your TLS implementation, it's best to include a signed certificate from a legitimate certificate authority.  
+
+Self-signed certicificates can be generated with a tool like [mkcert](https://mkcert.dev). Once `mkcert` has been installed, you can this command to generate a certificate file and a key file for `gitlab.example.com`:
+
+```sh
+mkcert gitlab.example.om
+```
+
+The command's output will tell you the filenames that are generated:
+
+>```sh
+> The certificate is at "./gitlab.example.com.pem" and the key at "./gitlab.example.com-key.pem" ✅
+>```
+
+For instructions on using self-signed certificates on your test instances, please review the GitLab docs on [Configure HTTPS manually](https://docs.gitlab.com/omnibus/settings/ssl/index.html#configure-https-manually) and the documentation available from these cloud service providers:
 
 - [Google Cloud](https://cloud.google.com/load-balancing/docs/ssl-certificates/self-managed-certs)
 - [AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html)
 - [Azure](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-self-signed-certificate)
-
-For GitLab instances specifically, it's recommended that [LetsEncrypt is manually enabled for Omnibus installs](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance).  First, you'll need a domain assigned to your external IP regardless of your cloud platform.  Enabling LetsEncrypt for Omnibus installs is well documented at the link above.
 
 ### Patching against known vulnerabilities
 

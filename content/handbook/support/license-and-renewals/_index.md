@@ -62,7 +62,7 @@ experience related to managing subscriptions. We achieve this by:
 ## Information for Support Engineers with L&R responsibilities
 
 Before starting to work L&R tickets, be sure you complete the
-[L&R / Subscriptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md).
+[L&R / Subscriptions training module](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md).
 
 ### Core Concepts
 

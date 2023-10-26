@@ -209,7 +209,7 @@ Assuming that you've already been assigned a LinkedIn seat, here's how to enable
 1. Search *"LinkedIn Recruiter System Connect"* and select the result of the same name
 1. Enable the integration
 
-If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-talent acquisition/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
+If you have **not** been assigned a seat and would like one, please add your GitLab email to your LinkedIn profile and submit an [Access Request](https://gitlab.com/gl-talent-acquisition/operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue using the `LinkedIn Access Request` template.
 
 To add your email to your LinkedIn profile, click `Me` > `Settings & Privacy` > `Sign in & security` > `Email addresses` > add your GitLab email address and verify it.
 

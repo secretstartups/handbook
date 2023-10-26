@@ -25,24 +25,13 @@ Working with logs [has been moved]({{< ref "dedicated_logs" >}})
 
 Working with Grafana [has been moved]({{< ref "dedicated_instance_health" >}})
 
-### Switchboard
-
-The Switchboard section [has been moved]({{< ref "dedicated_switchboard" >}})
-
 #### Monitoring system graphs are for internal use
 
 We do not share internal graphs from our monitoring systems with Dedicated customers. The reason for this is that as the SaaS provider, we manage the underlying environment. Sharing internal graphs would not be actionable by the customer since they don't have access to the environment and these graphs may not be interpreted correctly without a proper understanding of our system.
 
-### View instance metadata and upgrade history
+### View instance metadata
 
-GitLab Dedicated tenants are defined in the
-[Switchboard repository's `tenant_models` directory](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/sandbox/switchboard_la/-/tree/main/tenant_models).
-
-- To view a customer's instance metadata, click on the appropriate `json` file.
-- To view a customer's instance upgrade history, view the appropriate `json`
-  file's commit history and search for commits that mention `gitlab`.
-- Use the blame feature to find why individual lines or changes were added.
-  It makes it easier to find MRs and Issues with additional context.
+Use the Switchboard app. More information can be found in the [Switchboard workflow]({{< ref "dedicated_switchboard" >}}).
 
 ### Configuration changes
 

@@ -113,6 +113,8 @@ Sets additional storage for a namespace to the value specified in the `Extra sto
 - **Namespace:** The customer namespace as it appears in the URL.
 - **Extra storage (MiB):** Additional space to add in MB
 
+> Note: As storage is entered as MB, consider that GB is presented in the UI for large numbers. For example: `10000 MB = 9.76 GB`. For '10 GB of storage', you should instead use `10240`, as `10240 MB = 10 GB`
+
 ### Set max seats
 
 Modifies the highest number of seats used on the namespace during the current subscription term.  
