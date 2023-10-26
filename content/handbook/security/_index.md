@@ -113,6 +113,63 @@ For most simple functions, this shouldn't an issue. However, it is possible that
 
 You can then choose to use this new service account via the option under **Advanced Settings -> Advanced -> Service account**.
 
+##### GitLab Demo and Test Instances
+
+Test and demo instances are publicly accessible on the internet, by default. There may be occasions where team members need to test specific GitLab versions or configurations affected by known security vulnerabilities. It is your responsibility to secure your test instances to prevent them from being compromised or used in ways that could compromise our cloud environment. If you need help securing your instance or have a question, feel free to ask in the #security channel in Slack.
+
+###### IP Filtering
+
+A highly effective way to secure your cloud instances is to apply the [concept of IP filtering](https://www.oreilly.com/library/view/linux-network-administrators/1565924002/ch09s03.html) for each test instance you create whether its a GitLab instance or otherwise. For the majority of cases, this means source IP filtering from one or more [CIDR block ranges](https://whatismyipaddress.com/cidr) ensuring that only certain IPs and integrations can interact with the GitLab instance, therefore reducing the attack surface of the GitLab organization as a whole.
+
+If you don’t know your current IP address to use for source IP filtering, you can utilize services like [whatsmyipaddress.com](https://whatismyipaddress.com/) or [ipinfo.io](https://ipinfo.io/) to retrieve it. The steps to implement IP filtering will differ per cloud environment. Below you can find a detailed guide maintained by the support engineering team.
+
+- [Support Engineering Step-by-Step Guide to Implementing IP Filtering](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/content/ip%20filtering/ip_filtering_test_instances.md)
+
+In addition, you can find official, platform-specific documentation of features involved in implementing IP filtering:
+
+- [Google Cloud](https://cloud.google.com/vpc/docs/using-firewalls#creating_firewall_rules#console)
+- [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+- [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
+
+IP filtering should be set up and used when hosting any version of GitLab affected by known and disclosed vulnerabilities.
+
+You can view a list of vulnerabilities affecting a given version of GitLab [here](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves). Versions of GitLab without the latest security patches and fixes applied should not be publicly accessible.
+
+###### Classified Data
+
+Do not host or store any [classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels) on test or demo instances.
+
+For public-facing instances, only [Green data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#green) is allowed.
+
+[RED, ORANGE, and YELLOW classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels), along with customer data and personal data, should never be copied to or stored on test or demo instances.
+
+###### Clean Up
+
+Test instances should be ephemeral.
+
+As soon as you've finished testing, or you've finished your demo, shut down or destroy the test environment.
+
+If this test or demo environment will be live for a substantial amount of time (>24 hours), plan a decommission date and set a reminder for to ensure the instance is shut down or destroyed in a timely manner.
+
+###### Upgrade regularly
+
+For test or demo instances that will be live for an extended period of time, it's important to regularly update GitLab and other software on the machine to ensure the all latest security patches have been applied.
+
+Establish a plan to update GitLab after every security release, and update system packages at least once a week.
+
+Set a reminder for yourself to ensure you apply GitLab security updates in a timely manner.
+
+Also, remember to [clean up](#clean-up) the instance as soon as your test or demo is has concluded.
+
+###### Secure GitLab Application Settings
+
+- Disable New User Registration
+- Do not use instance-level shared Runners
+
+###### Use HTTPS
+
+To be in line with [GitLab’s encryption policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources. For GitLab instances, you can use the [LetsEncrypt integration](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance). [Let’s Encrypt](https://letsencrypt.org/) is enabled by default if `external_url` is set with the HTTPS protocol and no other certificates are configured.
+
 #### Security Awareness
 
 1. Follow the guidelines for identifying phishing emails provided in the training and [How to identify a basic phishing attack].
