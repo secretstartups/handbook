@@ -185,7 +185,7 @@ For high severity bugs found in the lead up to the [monthly release](/handbook/e
 | Deployment documentation | [Link](https://gitlab.com/gitlab-org/release/docs) |
 | Release related tasks issue tracker | [Link](https://gitlab.com/gitlab-org/release/tasks/) |
 | Delivery group issue tracker | [Link](https://gitlab.com/gitlab-com/gl-infra/delivery/issues) |
-| Release Manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
+| Release manager schedule | [Link](https://about.gitlab.com/community/release-managers/) | 
 | Maintenance Policy | [Link](https://docs.gitlab.com/ee/policy/maintenance.html) |
 
 [semver]: https://semver.org
