@@ -691,7 +691,8 @@ GitLab team members who realize the full potential of analytical insights can do
 
 * [Free Training](https://www.tableau.com/learn/training/20222)
 * [Training Portal](https://elearning.tableau.com/)
-    * Request Access Code from Data Team. Account Owners in the Data Team can find the Access Code under the eLearning section of the [Tableau Customer Portal](https://customer-portal.tableau.com/s/my-elearning). The BI Platform team will share the Access Code via email.
+    * eLearning from Tableau is available for users with the Creator or Explorer license type
+    * Request Access Code from Data Team. The BI Platform team will share the Access Code via email.
     * New Creators without prior Tableau experience should complete the Tableau Fundamentals training course at the minimum. Tableau Intermediate is also recommended as a follow up course.
     * If you experience any issues accessing the training content, check [this page](https://support.skilljar.com/hc/en-us/articles/360033553054) for solutions to the most common problems.
 * [Tableau Community](https://community.tableau.com/s/)
@@ -710,6 +711,34 @@ GitLab team members who realize the full potential of analytical insights can do
 * [YouTube Simplilearn - Tableau Tutorial](https://www.youtube.com/watch?v=fO7g0pnWaRA)
 
 Note: training videos listed above are provided for free by third parties and their content has not been fully vetted by either Tableau or the GitLab Data Team. 
+
+</details>
+
+<details markdown=1>
+
+<summary><b>Minimum Training</b></summary>
+
+Below is the _minimum_ recommended training course(s) and required time estimation for the following roles based on their responsibilities and required skill sets. For the full list of courses and learning paths please see our handbook section under Training by Roles:
+
+Site Administrator
+
+* Minimum: [Introduction to Site Administration](https://elearning.tableau.com/path/site-administrator/introduction-to-site-administration) _(time estimate: 3 hours)_
+
+Project Lead / Maintainer / Code Owner
+
+* Minimum: [Getting Started with Tableau Cloud](https://elearning.tableau.com/path/community-leader/getting-started-with-tableau-online) _(time estimate: 4 hours)_
+
+Creator / Developer / Analyst
+
+* Minimum: [Getting Started with Tableau Desktop](https://elearning.tableau.com/path/data-scientist/getting-started-with-tableau-desktop) _(time estimate: 4 hours)_ 
+
+Explorer 
+
+* Minimum: [Get Started with Tableau](https://explorer-elearning.tableau.com/path/author-learning-path/get-started-with-tableau-author) _(time estimate: 4 hours)_ 
+
+Business Owner / Stakeholder / Viewer / End User
+
+* Minimum: TBD _(time estimate: )_
 
 </details>
 
