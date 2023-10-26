@@ -165,7 +165,7 @@ You can then choose to use this new service account via the option under **Advan
 
 ##### GitLab Demo and Test Instances
 
-Test instances are, by default, publicly accessible on the Internet. Often, we need to test specific versions or configurations that may be vulnerable to remote compromise. It is your responsibility to secure your test instances to prevent them from being compromised and used to further attack our cloud environment.
+Test and demo instances are publicly accessible on the internet, by default. There may be occasions where team members need to test specific GitLab versions or configurations affected by known security vulnerabilities. It is your responsibility to secure your test instances to prevent them from being compromised or used in ways that could compromise our cloud environment. If you need help securing your instance or have a question, feel free to ask in the #security channel in Slack.
 
 ###### IP Filtering
 
@@ -181,25 +181,35 @@ In addition, you can find official, platform-specific documentation of features 
 - [Amazon Web Services (AWS)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 - [Azure](https://docs.microsoft.com/en-us/learn/modules/introduction-azure-web-application-firewall/)
 
-IP filtering should be set up and used for when hosting any version of GitLab with known and disclosed vulnerabilities.
+IP filtering should be set up and used when hosting any version of GitLab affected by known and disclosed vulnerabilities.
+
+You can view a list of vulnerabilities affecting a given version of GitLab [here](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves). Versions of GitLab without the latest security patches and fixes applied should not be publicly accessible.
 
 ###### Classified Data
 
-Do not host or store [classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/) on test or demo instances.
+Do not host or store any [classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels) on test or demo instances.
 
-For public-facing instances, only Green data is allowed.
+For public-facing instances, only [Green data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#green) is allowed.
 
-RED or ORANGE data should never be copied to or stored on test or demo instances.
+[RED, ORANGE, and YELLOW classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels), along with customer data and personal data, should never be copied to or stored on test or demo instances.
 
 ###### Clean Up
 
 Test instances should be ephemeral.
 
-When you've finished testing, or you've finished your demo, shut down or destroy the test environment.
+As soon as you've finished testing, or you've finished your demo, shut down or destroy the test environment.
+
+If this test or demo environment will be live for a substantial amount of time (>24 hours), plan a decommission date and set a reminder for to ensure the instance is shut down or destroyed in a timely manner.
 
 ###### Upgrade regularly
 
-For test or demo instances that will be live for any extended period of time, it's important to regularly update and upgrade GitLab and other software on the machine to ensure you're running with all the latest security patches.
+For test or demo instances that will be live for an extended period of time, it's important to regularly update GitLab and other software on the machine to ensure the all latest security patches have been applied.
+
+Establish a plan to update GitLab after every security release, and update system packages at least once a week.
+
+Set a reminder for yourself to ensure you apply GitLab security updates in a timely manner.
+
+Also, remember to [clean up](#clean-up) the instance as soon as your test or demo is has concluded.
 
 ###### Secure GitLab Application Settings
 
