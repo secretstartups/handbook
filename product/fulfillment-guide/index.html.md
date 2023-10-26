@@ -124,11 +124,11 @@ Please keep in mind:
 
 ## Temporary renewal extensions
 
-_Last updated on 2023-10-09._
+_Last updated on 2023-10-26._
 
 | Use Case | Status |
 |---|---|
-| Temporary extensions for **Self-Managed** renewals | Development of this feature is nearly finished, [BETA rollout](#beta-rollout) is being planned. |
+| Temporary extensions for **Self-Managed** renewals | Development of this feature is complete, [BETA rollout](#beta-rollout) is planned and pending enablement. |
 | Temporary extensions for **SaaS** renewals | Development not started. Discovery and planning in progress. |
 
 In the event that a renewal process takes longer then intended (e.g. customer takes longer than average to sign renewal deal), customers run into a problem when their license expires at the subscription term end and they lose complete access to their GitLab instance (Self-managed or SaaS).
