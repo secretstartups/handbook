@@ -1025,8 +1025,6 @@ Watch the replay below:
 
 ### Communicating dates and time
 
-> **Note**: This handbook section is the [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for communicating dates and time at GitLab. The [all-remote playbook](https://about.gitlab.com/company/culture/all-remote/effective-communication/#communicating-dates-and-time) links here.
-
 1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/).
    1. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard.
    1. For months use `yyyy-mm`, so 2018-01 for January.
