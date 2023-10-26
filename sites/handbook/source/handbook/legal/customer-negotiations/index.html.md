@@ -76,12 +76,12 @@ GitLab includes a signed version of the DPA on the Terms of Use website. As stat
 
 ## Letters of Authorization (LOA)
 
-Visit the [Channel Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
+Visit the [Partner Operations page](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#letters-of-authorization) to learn how partners can request a Letter of Authorization.
 
-**Legal Team Steps:**
-1. Once the Partner has executed or otherwise clicked to accept a GitLab partner agreement, credentials and access to the partner portal will be made available to allow a partner to request an LOA to confirm that the partner is 
-a valid and authorized, Legal will receive an email via DocuSign to `loa@gitlab.com`.
-2. Legal will then fol GitLab partner.  Once the DocuSign process is initiated by the partner, the LOA will be routed to the Legal team to add a Legal Stamp, and then to a GitLab authorized signatory.  Upon completion, the fully executed LOA will be distributed via DocuSign to GitLab Legal and the partner.
+**LOA Review Steps:**
+1. Once the Partner has executed or otherwise clicked to accept a GitLab partner agreement, credentials and access to the partner portal will be made available to allow a partner to request an LOA. When a partner initiates a request for an LOA, Partner Operations will receive the request via DocuSign at `partnersupport@gitlab.com` to confirm that the partner is 
+a valid and authorized partner. Once confirmed by Partner Operations, Legal will receive an email via DocuSign to `loa@gitlab.com`.
+2. Once the DocuSign process is initiated by the partner and Partner Operations has confirmed that the requesting partner is a valid and authorized partner, the LOA will be routed to the Legal team to add a Legal Stamp, and then to a GitLab authorized signatory for execution.  Upon completion, the fully executed LOA will be distributed via DocuSign to GitLab Legal and the partner.
 3. If a partner requests a non-standard LOA with custom terms, please open a Legal Request in SFDC as outlined above. 
 
 ## Export Review in SFDC
