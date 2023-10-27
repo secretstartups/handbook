@@ -30,31 +30,30 @@ If you are [eligible]({{< ref "/handbook/people-group/offboarding#gitlab-alumni-
 The following can be used as a guide on what actions could need to be taken before your last day:
 
 - Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle.
-- [Install JAMF](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
-- Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**.
-  - You can schedule an appointment with one of the IT Analysts, their schedules can be found in this [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts).
 - Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
 - Prepare a handover document for your team / manager.
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable).
-- If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure.
+- If you feel comfortable, send a message in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel notifying everyone of your departure.
 - Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
   - Betterment (US 401(k)): https://wwws.betterment.com/app/login
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
-## IT Ops - Laptops
+## Laptop and IT related steps
 
-### Drive Files
+### Google Drive Files
 
-As part of your exit, IT highly recommends making sure shared docs are in a shared drive for the team after you exit. Please take a moment to make sure any important shared files are available to your team or manager prior by moving them out of your personal "My Drive" and into a team shared drive.
+As part of your exit, IT highly recommends making sure shared docs are in a shared drive for the team after you exit. Please take a moment to make sure any important shared files are available to your team or manager prior by moving them out of your personal [My Drive](https://drive.google.com/drive/my-drive) and into a team [Shared drive](https://drive.google.com/drive/shared-drives).
 
-### Do I need to wipe my laptop?
+### Laptop Wipe
 
-A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
+It is required that your laptop is wiped on your last day. Please [book an appointment](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day. 
 
-### Can I purchase my laptop from GitLab?
+Under **no circumstance** should you be wiping your own laptop. Laptop wipes must be done from an IT Ops team member for logs. Reach out to [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) if you have any other questions.
 
-IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy)
+### Can I keep my laptop?
+
+Please refer to the Laptop Buy Back Policy [here](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy).
 
 ## Compensation - Payroll
 
