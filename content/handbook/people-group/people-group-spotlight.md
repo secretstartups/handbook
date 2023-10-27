@@ -8,11 +8,11 @@ description: >-
 
 The People Group is spotlighting stories of our team members in Slack. This program originated out of team member feedback from our FY24 Engagement Survey results around increasing visibility to collaboration and career growth opportunities within our division.
 
-The goals of these spotlights are:
+The purpose of these spotlights are to further our goal of "one team" by:
 
-1. Share career growth stories of People Group team members
-2. Increase awarness of what teams across the People Group are working on
-3. Make space for incresaed collaboration
+1. Sharing career growth stories of People Group team members
+2. Increasing awarness of what teams across the People Group are working on
+3. Creating deeper connection amongst People Group team members
 
 
 # What to expect
