@@ -6,7 +6,9 @@ description: >-
 
 # People Group Spotlight
 
-As a follow up to the FY24 Engagement Survey Results, the People Group is spotlighting stories of our taem members in Slack. The goals of these spotlights are:
+The People Group is spotlighting stories of our team members in Slack. This program originated out of team member feedback from our FY24 Engagement Survey results around increasing visibility to collaboration and career growth opportunities within our division.
+
+The goals of these spotlights are:
 
 1. Share career growth stories of People Group team members
 2. Increase awarness of what teams across the People Group are working on
