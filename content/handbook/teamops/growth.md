@@ -16,25 +16,24 @@ These principles are a reflection of GitLab’s evolution from prioritizing our 
 
 ## TeamOps Learning Path
 
-If you’re eager to learn more about TeamOps and fuel the success of its adoption in your team, there are several ways to upskill your team through a series of courses and certifications available on GitLab’s learning platform, [LevelUp](https://levelup.gitlab.com/).
+Eager to learn more about TeamOps and fuel successful adoption on your team? Upskill your organization with a series of courses and certifications available on GitLab’s learning platform, [LevelUp](https://levelup.gitlab.com/).
 
 ### TeamOps Foundations
 
-The best place for any TeamOps enthusiast to start in their learning journey is the introductory [TeamOps Foundations course](https://levelup.gitlab.com/courses/teamops). This is an interactive way for learners to explore the principles and tenets of TeamOps, in addition to reading about them in the handbook.
+The best place for TeamOps enthusiasts to begin their learning journey is the introductory [TeamOps Foundations course](https://levelup.gitlab.com/courses/teamops). It's an interactive way for learners to explore TeamOps principles and tenets, not only read about them in the handbook.
 
 ### TeamOps Practitioner
 
-Ready to transform inspiration into implementation? Guided by change management tools and activities, TeamOps Practitioners are able to identify their unique strengths and weaknesses in the TeamOps framework, and optimize their information management behaviors for success.
+Ready to transform inspiration into implementation? Through the [TeamOps Practitioners Certification](https://levelup.gitlab.com/learn/learning-path/teamops-practitioner-certification), TeamOps Practitioners are able to identify their unique strengths and weaknesses in the TeamOps framework, then optimize their information management behaviors for success.
 
 ### TeamOps for Leaders
 
-Successful change management initiatives require the facilitation of empowered change agents. To help support the adoption and maintenance of the TeamOps operating model, the TeamOps for Leaders certification upskills TeamOps Practitioners on how to measure, manage, and mentor a group's adoption of the principles and tenets of virtual-first ways of working.
+Successful change management initiatives require expert facilitation by empowered change agents. To help support the adoption and maintenance of the TeamOps operating model, the [TeamOps for Leaders course](https://levelup.gitlab.com/learn/course/teamops-for-leaders/) instructs TeamOps Practitioners on how to measure, manage, and mentor a group's adoption of virtual-first operating principles and tenets.
 
 ### Practicing TeamOps in GitLab
 
-Inspired by our GitLab’s rapid growth and success, many organizations want to "work in the GitLab way." The first step to achieving this goal is using the tool we do: GitLab. The second step is using that product the same way we use it: TeamOps.
-The Practicing TeamOps in GitLab course teaches our customers how to apply the TeamOps operating model in GitLab the tool. It explains how anyone — regardless of job role or function — can easily activate the action tenets of virtual-first ways of working for managing people and projects.
+Inspired by our GitLab’s rapid growth and success, many organizations want to "work the GitLab way." The first step to achieving this goal is using the tool we do: GitLab. The second step is using that tool the same way we use it: TeamOps. The Practicing TeamOps in GitLab course teaches our customers how to apply the TeamOps operating model while using GitLab tools. It explains how anyone — regardless of job role or function — can easily activate the action tenets of virtual-first ways of working for managing people and projects.
 
 #### Contact Us
 
-To learn more about TeamOps or its educational resources, please [contact the GitLab Education Services team](https://about.gitlab.com/services/education/).
+To learn more about TeamOps and its educational resources, please [contact the GitLab Education Services team](https://about.gitlab.com/services/education/).
