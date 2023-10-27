@@ -19,6 +19,7 @@ The Switchboard is a team within the [Dedicated Group](https://about.gitlab.com/
 <%= direct_team(manager_slug: 'ashiel')%>
 
 Product Manager: [Loryn Bortins](https://about.gitlab.com/company/team/#lbortins)
+Technical Writer: [Lysanne Pinto](https://about.gitlab.com/company/team/#lyspin)
 
 ## Working with us
 
@@ -72,6 +73,7 @@ The outcome of the call is shared in a persistent location (Slack is not persist
 - [Switchboard team roadmap](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/roadmap?state=all&sort=start_date_asc&layout=WEEKS&timeframe_range_type=CURRENT_QUARTER&label_name[]=team::Switchboard&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=ALL&show_labels=false)
 - [Switchboard team top-level epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/1048)
 - [Switchboard team issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard)
+- [Switchboard technical writing board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/7068209?label_name[]=component%3A%3ASwitchboard&label_name[]=Technical%20Writing)
 - [Dedicated Issue Tracker](https://gitlab.com/gitlab-com/gl-infra/gitlab-dedicated/team/-/issues/?sort=created_date&state=opened&first_page_size=100)
 
 #### Epic Refinement
@@ -102,6 +104,7 @@ Switchboard team process to refine issues:
 1. PM and EM ensure that the `Open` and ~"workflow-infra::Ready" columns are prioritised
 1. Team members look at issues in the `Open` column of the [issue board](https://gitlab.com/groups/gitlab-com/gl-infra/gitlab-dedicated/-/boards/4498935?label_name[]=team%3A%3ASwitchboard) and ask questions on the issue to drive clarity
 1. When there are no outstanding questions on the issue it can be labelled ~"workflow-infra::Ready" and it will automatically move into the `Ready` column
+1. If the issue exposes text to users in any way the `technical writing` label should be added. For example if the issue changes UI text, shows an error message, adds a field etc
 
 #### Issue & Epic tracking
 1. Engineers use Progress Threads to share progress in an async fashion
@@ -144,6 +147,7 @@ As the Switchboard team is currently small, we use an 'Approve and Merge' approa
 
 1. When you're ready to have your merge request reviewed, select a [Switchboard reviewer](https://gitlab.com/groups/gitlab-dedicated/switchboard/reviewers/-/group_members).
    * If you're not certain about who to choose, you can use the [reviewer roulette](#reviewer-roulette) to randomly select a reviewer.
+   * If the issue is labelled `technical writing` add the Switchboard technical writer as a reviewer
 1. The reviewer will perform a review based on [reviewing a merge request guidelines](https://docs.gitlab.com/ee/development/code_review.html#reviewing-a-merge-request).
 1. If satisfied, the reviewer will approve.
 1. If the merge request contains the required approvals, the reviewer will trigger a pipeline and set auto-merge.
