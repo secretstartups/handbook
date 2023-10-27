@@ -770,6 +770,8 @@ These videos walking through the triage process were recorded and uploaded to th
   - A demo on how to use git bisect to identify which commit introduced a test failure
 - [Quality Engineering: Test environments show and tell](https://drive.google.com/file/d/1m3f5Vz-KSRu7SfNmdDjTQsU5kMDpPwDJ/view)
   - A show and tell presentation that gives an overview of our test environments. Originally presented for an audience of our counterparts.
+- [Runner Taskscaler and Fleeting Test Plan Discussion](https://www.youtube.com/watch?v=_uuy7KCDgWw)
+  - A high level discussion on the new runner architecture, including the new [taskscaler](https://gitlab.com/gitlab-org/fleeting/taskscaler) and [fleeting](https://gitlab.com/gitlab-org/fleeting/fleeting), the components replacing docker-machine for [runner autoscaling](https://docs.gitlab.com/runner/runner_autoscale/).
 
 ## Other references
 
