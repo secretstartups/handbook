@@ -580,7 +580,7 @@ Employees in Mexico are covered by the Social Security Law, under IMSS who is re
 
 - Healthcare Monthly Allowance will be paid by Remote as an allowance to the team members.
 - The allowance will be 5000 USD per annum.
-- This amount will be paid on monthly basis with the regular payroll as a reimbursement.
+- This amount will be paid on monthly basis with the regular payroll
 
 ### Life Insurance
 
