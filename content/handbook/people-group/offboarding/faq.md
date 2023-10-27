@@ -37,7 +37,7 @@ The following can be used as a guide on what actions could be taken before your 
 
 ### GitLab.com
 
-- Unassign yourself and re-assign any open projects, issues or merge requests to other team members or your manager. 
+- Unassign yourself and re-assign any open projects, issues or merge requests to other team members or your manager.
 
 ### 1Password
 
