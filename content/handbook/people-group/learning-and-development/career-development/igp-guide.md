@@ -43,7 +43,7 @@ Knowing your growth direction helps you set goals and find the right resources. 
 
 1. Do you want to stay on your current team or try something new?
 1. Would you like to manage a team or department?
-1. Would you like to stay as an individual contributor and develop a specific area of expertise?.
+1. Would you like to stay as an individual contributor and develop a specific area of expertise?
 
 Think big in this section. Do you want to become a manager? Are you growing as an IC leader? Maybe you’re ready for a career transition to a new team. Remember that at GitLab, career growth is non-linear - we grow in all directions.
 
@@ -52,7 +52,7 @@ Think big in this section. Do you want to become a manager? Are you growing as a
 
 ## Section 3: Set your Intention
 
-Done exploring for now? It’s time to populate section 3 of the IGP. Setting your eyes on the future, the goal of section 3 is to think about what your mediate term goals are.  Think about what you want your next career step to be (from section 2) and how you will know you are successful by answering the following 2 questions:
+Done exploring for now? It’s time to populate section 3 of the IGP. Setting your eyes on the future, section 3 prompts you to think about your medium-term goals. Think about what you want your next career step to be (from section 2) and how you will know you are successful by answering the following 2 questions:
 
 1. What accomplishments would you like to achieve to help you reach your career objectives?
 1. How will you know that you have been successful?
@@ -69,7 +69,7 @@ A few examples of how to answer those questions are below:
 
 ## Set Development Goals
 
-Now that you set your intention, it’s time to set specific development goals to help you reach your career objectives. Team member’s should focus on setting 1-3 development goals per review period to help them reach their overall career goals.
+Now that you set your intention, it’s time to set specific development goals to help you reach your career objectives. Team members should focus on setting 1-3 development goals per review period to help them reach their overall career goals.
 
 When setting your development goals, try to make your goals specific.  Think about and include details such as:
 
