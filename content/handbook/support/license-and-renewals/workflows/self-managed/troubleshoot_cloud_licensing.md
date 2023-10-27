@@ -77,7 +77,7 @@ Connection to customers.gitlab.com 443 port [tcp/https] succeeded!
 ```
 
 ```sh
-$ echo "." | telnet customers.gitlab.com 444
+$ echo "." | telnet customers.gitlab.com 443
 
 Trying 104.18.20.224...
 Connected to customers.gitlab.com.
@@ -128,7 +128,10 @@ A user's [browser's DevTools](https://developer.mozilla.org/en-US/docs/Learn/Com
 
 - Note that multiple `graphql` resources may be present, and not all will be related to the cloud licensing activation process.
 
-Since there will be a lot of information presented in the DevTools, feel free to suggest that the customer [generate a network HAR file](https://support.zendesk.com/hc/en-us/articles/4408828867100-Generating-a-HAR-file-for-troubleshooting) and attach it to the ticket for closer inspection by us.
+Since there will be a lot of information presented in the DevTools, feel free to suggest that the customer [generate a network HAR file](https://support.zendesk.com/hc/en-us/articles/4408828867098) and attach it to the ticket for closer inspection by us.
+
+Caution: Advise the user to sign out of the GitLab session they recorded to invalidate their session credentials.
+See [sec.Okta.com/harfiles](https://sec.okta.com/harfiles) for context.
 
 ### Simulating a cloud license SeatLink attempt from within the Rails application
 
@@ -152,7 +155,7 @@ At present, cloud licensing does not officially support network proxies, deep pa
 
 ### Activating a license with the GraphQL API
 
-In cases where the license activation functions are unavailable (for example, due to a 500 error on the billing page), the [GraphQL API](https://docs.gitlab.com/ee/api/graphql/reference/) can be used to activate a cloud license directly using the [`Mutation.gitlabSubscriptionActivate` endpoint](https://docs.gitlab.com/ee/api/graphql/reference/#mutationgitlabsubscriptionactivate):
+In cases where the license activation functions are unavailable (for example, due to a 500 error on the billing page), the [GraphQL API](https://docs.gitlab.com/ee/api/graphql/reference/) can be used to activate a cloud license directly using the [`Mutation.gitlabSubscriptionActivate` endpoint](https://docs.gitlab.com/ee/api/graphql/reference/#mutationgitlabsubscriptionactivate). With this method, a subscription can be activated **even if there is already an activated cloud license present on the instance**. This method is useful to avoid the downtime caused by removing the existing license via the UI before activating another key:
 
 1. Have the customer navigate to `https://<their-self-managed-gitlab-site.com>/-/graphql-explorer`
 1. Run the following mutation by replacing `<activation code>` with the actual 24-character cloud activation code:

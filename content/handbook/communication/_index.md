@@ -194,8 +194,8 @@ As an example, let's say your FAQ would have a question like:
 
 You can reframe it to:
 
-> ## How to enable widget X
->
+How to enable widget X
+
 > You can enable widget X by going to User Profile -> Settings and ticking the checkbox next to Enable widget X then clicking on the Save button
 
 #### FAQs are discouraged elsewhere as well
@@ -536,10 +536,9 @@ The goal of Focus Fridays is to maximize efficiency by creating designated meeti
 
 - Cancel or move any standing meetings occurring on Fridays.
 - Customer, prospect, partner and other external meetings are exceptions. You should not decline an external meeting citing Focus Fridays as the reason.
-- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can.
-- Consider blocking off your calendar as "busy" on Fridays to block your work time.
-- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work.
-- Consider using Fridays to dedicate time to your [learning and development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+- Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as - much as possible and defer to async work where we can.
+- Consider blocking off your calendar as “busy” on Fridays to block your work time.
+- Consider using Fridays to dedicate time to your learning and development.
 - For those in APAC Focus Fridays, team members can decided to have Focus Mondays instead to align our work more efficiently with other global timezones.
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
@@ -651,14 +650,6 @@ Introductions can be helpful during some external meetings, such as executive sa
 1. Each person should introduce themselves so that everyone can see that person on Zoom.
 1. The person introducing themselves hands it over to the next person in the agenda.
 Make sure you're never screensharing when people are introducing themselves.
-
-![GitLab attendees](introductions.png)
-
-In this example, the introductions would be:
-
-- Sid: Sid Sijbrandij - CEO, Michael
-- McB: Michael McBride - CRO, Mike Pyle
-- Pyle: Mike Pyle, VP Enterprise Sales
 
 ### Scheduling meetings
 
@@ -1034,8 +1025,6 @@ Watch the replay below:
 
 ### Communicating dates and time
 
-> **Note**: This handbook section is the [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth) for communicating dates and time at GitLab. The [all-remote playbook](https://about.gitlab.com/company/culture/all-remote/effective-communication/#communicating-dates-and-time) links here.
-
 1. {: #iso-dates} Always use [ISO dates](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) in all writing and legal documents since other formats [lead to online confusion](http://xkcd.com/1179/).
    1. Use `yyyy-mm-dd`, for example 2015-04-13, and never 04-13-2015, 13-04-2015, 2015/04/13, 20150413, 2015.04.13, nor April 13, 2015. Even if you use an unambiguous alternative format it is still harder to search for a date, sort on a date, and for other team members to know we use the ISO standard.
    1. For months use `yyyy-mm`, so 2018-01 for January.
@@ -1053,7 +1042,7 @@ Watch the replay below:
 1. We communicate time using the [12-hour clock format](https://en.wikipedia.org/wiki/12-hour_clock). As such, make sure to include `AM` or `PM`.
    1. Please refer to time as `9:00 AM Pacific` or `9:00 PM PT` as well as `9:00 AM UTC` (for engineering and product related items). It isn't often necessary to specify whether a timezone is currently observing Daylight Saving Time, and such references are often incorrect, so prefer "PT" to "PDT" or "PST" unless you have a specific need to differentiate between PDT and PST.
 1. Please remember that not everyone is working in the same timezone; what may be morning for you is evening for someone else. Try to say 3 hours ago or 4 hours from now, or use a timestamp, including a timezone reference.
-1. Don't use "EOD" or "end of day" unless you are okay with a deliverable being due at the end of [anywhere on earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth#:~:text=World%20map%20of%20time%20zones,it%20ends%20on%20Howland%20Island). Team members communicate across timezones, where "end of day" does not specify the exact date and time. When you want something due at a specific time, [communicate the date and time](https://handbook.gitlab.com/handbook/communication/#communicating-dates-and-time) by when the request should be done, for example: `Please review until 2023-06-10 5PM PT`.
+1. Don't use "EOD" or "end of day" unless you are okay with a deliverable being due at the end of [anywhere on earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth#:~:text=World%20map%20of%20time%20zones,it%20ends%20on%20Howland%20Island). Team members communicate across timezones, where "end of day" does not specify the exact date and time. When you want something due at a specific time, [communicate the date and time](https://handbook.gitlab.com/handbook/communication/#communicating-dates-and-time) by when the request should be done, for example: `Please review before 2023-06-10 5PM PT`.
 
 ### Visuals
 

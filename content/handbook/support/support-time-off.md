@@ -227,7 +227,7 @@ Trying to catch-up after a scheduled time off - especially if it's a week long, 
 So here is a list of resources to check that should get you up to date with almost everything
 that happened while you were away:
 
-- [SWIR](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/)
+- [Support Week in Review (SWIR)](https://gitlab.com/gitlab-com/support/readiness/support-week-in-review/-/issues/?sort=created_date&state=closed&label_name%5B%5D=SWIR%3A%3ADigest&first_page_size=20)
 
 - Slack channels:
   - Your [group's channel](/handbook/support/support-global-groups/#slack)

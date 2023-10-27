@@ -1413,5 +1413,5 @@ We have a page which documents our [Mitigating Concerns](https://about.gitlab.co
 
 ## GitLab Values Knowledge Assessment
 
-Anyone can test their knowledge on our GitLab values. To obtain a certificate, you will need to complete this [learning course](https://levelup.gitlab.com/courses/gitlab-values) in Level Up and earn at least an 80%. Once the quiz has been passed, you will receive a certificate for your Level Up profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
+Anyone with a GitLab account can access the GitLab values knowledge assessment. To obtain a certificate, you will need to complete this [learning course](https://levelup.gitlab.com/courses/gitlab-values) in Level Up and earn at least an 80%. Once the quiz has been passed, you will receive a certificate for your Level Up profile. You can also share the badge on your personal LinkedIn page. If you have questions, please reach out to our L&D team at `learning@gitlab.com`.
 <!-- markdownlint-enable MD051 -->

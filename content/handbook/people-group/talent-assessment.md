@@ -154,7 +154,7 @@ When completing the talent assessment form, team members and managers should ref
 - **Sometime Demonstrated**: team member demonstrates most of the sub-values associated with this value on a regular basis.
 - **Consistently Demonstrated**: team member demonstrates a large majority of the sub-values associated with the value in most interactions.
 
-Use the comment box at the end of the CREDIT values section to provide examples to support the ratings selected.  
+Use the comment box at the end of the CREDIT values section to provide examples to support the ratings selected.
 
 ## What is "Growth Potential"? {#what-is-growth}
 
@@ -271,7 +271,7 @@ For newly onboarded team members, with a tenure up to 3 months, we have implemen
 
 The introduction of a "Too New to Rate" category is a solution as feedback was raised that being rated "Developing" in many cases does not reflect the actual Performance/Growth Potential. Therefore a TNTR designation is to accurately reflect the time to get up and running of recently onboarded team members. This category acknowledges that new hires require a reasonable timeframe to familiarize themselves with the organization, their role, and the expectations before they can be accurately assessed using the Performance/Growth Potential Matrix.
 
-While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template](https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then aligning on any support needed for the team member moving forward.  
+While newly onboarded team members do not need to complete the Talent Assessment evaluation in Workday, it's still important for them to have a check-in conversation with their manager. We recommend that this conversation happens after the team member has completed 3 months with GitLab. We've created [this template](https://docs.google.com/document/d/1itxP_OOuNC2oRXYu3ep_ZQdutqcZUdUyXgzQomEpuKM/edit) for team members and managers to complete. The goal would be for the newly onboarded team member and their manager to come together to have a conversation reflecting on their first 3 months at GitLab, highlighting their strengths and opportunities, then aligning on any support needed for the team member moving forward.
 
 Besides team members with a GitLab tenure up to 3 months (New hire TNTR), the “Too New to Rate” designation will also be available for team members that have just transferred or were promoted to a new role. Please see the [Promotions or Transfer During Assessment Cycle](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#promotions-or-transfers-during-assessment-cycle) section for more details and guidance on how to evaluate and consider performance in these scenarios.
 
@@ -359,7 +359,7 @@ After the calibration sessions the performance and growth potential outcomes can
 Below is the high level timeline for the formal assessment in Q4 FY24 (Nov, Dec, Jan). Different departments may have additional due dates built into the high level timeline, so please follow up with your [People Business Partner]({{< ref "/handbook/people-group#people-business-partner-alignment-to-division" >}}) if you have any questions.
 
 - **2023-10-16:** Kick off Optional Self-Evaluation cycle for all Team Members
-- **2023-10-25:** Due date for all Self-Evaluations
+- **2023-10-25 (5:00pm PST):** Due date for all Self-Evaluations
 - **2023-10-26:** Kick off Manager Evaluation cycle
 - **2023-11-08:** Due date for all Manager evaluations
 - **2023-11-08:** 5:00pm PST Talent Assessment locked
@@ -411,7 +411,7 @@ Aligned with the [timeline](#timeline), managers can see final assessments for e
 
 The cut-off date to determine whether to assess team members as Too New to Rate based on recent promotion/transfer for the FY24 Talent Assessment cycle is based on their time in role prior to the start of the Talent Assessment cycle, **October 16, 2023**. Guidelines are as follows:
 
-1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle(2023-07-15 to 2023-11-03) ), guidance would be that they should be assessed as Too New to Rate.**
+1. **If a team member interviews and transfers or is promoted to a new role, with an effective date within 90 days of the start of the talent assessment cycle or throughout the talent assessment cycle (2023-07-15 to 2023-11-03), guidance would be that they should be assessed as Too New to Rate.** This includes most FY24-Q3 promotions which have an effective date of 2023-08-01.
 1. **If a team member interviews and transfers to a new role or was promoted to a new role more than 90 days before the start of the talent assessment cycle (before 2023-07-15) they would be assessed based on the new level/role.**
 
 It is important to note that because being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase therefore a **promotion "resets" the performance factor evaluation**.
@@ -538,7 +538,7 @@ The Performance/Growth Potential Factor is one of the factors considered in the 
     - You should continue to move forward with communicating their performance factor to them and use the meeting as an opportunity to reinforce the expectations of meeting the goals highlighted in the plan.
 
 - **My team member has recently been promoted - but we assessed the Performance/Growth Potential prior to the promotion. How do I communicate that to the team member?**
-    - Now that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
+    - Now that we have moved to a bi-annual (or twice a year) promotion process, there are some team members that would have been promoted effective the start of Q3. Your talent assessment will be based on the team member’s new role. In most cases the rating will be `Too New To Rate`, the exception being where a team member has been operating at the higher level for some time. Being promoted recognizes high performance both in terms of increased scope/responsibility and monetarily through compensation increase; therefore a **promotion "resets" the performance/growth potential factor evaluation**. With the promotion, the job responsibilities and scope can change significantly; therefore a new assessment should be made during the talent assessment period. We recommend you review the responsibilities of the new role and identify focus points for growth in the new role.
 
 
 ### Talent Assessment - Manager Scenarios
@@ -574,8 +574,8 @@ If you feel a conversation might be particularly challenging, you may reach out 
 **My team member is exceeding growth potential expectations, how should I be thinking about their ongoing development?**
 
 Great! At GitLab team members have the opportunity to own their own development, and deserve a great manager (you) to facilitate it. Ask your team member to articulate where they would like to see their skills and career develop. You may have insights that help them refine those goals based on where you see the business going, as they will be most successful in gaining the experience they’re looking for if there are opportunities to align those goals with business goals.
-Using the [70-20-10 model for learning]({{< ref "career-development#70-20-10-rule-for-development" >}}), help your team member identify experiential and formal learning opportunities, and consider connections you can facilitate that will support their growth.
-The [Career Development handbook page]({{< ref "career-development" >}}) has more ideas to help your team member craft a growth plan, including information on GitLab’s [Growth and Development benefit]({{< ref "growth-and-development" >}}).
+Using the [70-20-10 model for learning]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development#70-20-10-rule-for-development" >}}), help your team member identify experiential and formal learning opportunities, and consider connections you can facilitate that will support their growth.
+The [Career Development handbook page]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}) has more ideas to help your team member craft a growth plan, including information on GitLab’s [Growth and Development benefit]({{< ref "/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development" >}}).
 
 **How should we be communicating Growth Potential to team members who we haven't communicated this to before?**
 
