@@ -24,6 +24,8 @@ There are many talent assessment options, and we have opted to use a Performance
 
 GitLab's Performance/Growth Potential Matrix is a type of talent assessment that forms part of our [Talent Development Program]({{< ref "talent-development-program" >}}).
 
+The FY24 talent assessment should consider performance from the period FY23Q4 - FY24Q3 (Nov 1, 2022 to Oct 31, 2023).
+
 In addition to assessing Performance/Growth Potential, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth Potential and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them.
 
 For team members with a tenure up to three months to the launch of the Talent Assessment Program will be designated as "Too New to Rate". Also in some cases a "Too New to Rate" designation might be applicable for newly promoted or transferred team members. More about that designation can be found below.
