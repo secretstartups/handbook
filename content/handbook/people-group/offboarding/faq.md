@@ -27,24 +27,33 @@ If you are [eligible]({{< ref "/handbook/people-group/offboarding#gitlab-alumni-
 
 ### Is there anything I need to do before my last day?
 
-The following can be used as a guide on what actions could need to be taken before your last day:
-
-- Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle.
-- Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
+The following can be used as a guide on what actions could be taken before your last day:
 - Prepare a handover document for your team / manager.
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable).
 - If you feel comfortable, send a message in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel notifying everyone of your departure.
-- Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
+-
+
+## Laptop and IT related offboarding steps
+
+### GitLab.com
+
+- Unassign yourself and re-assign any open projects, issues or merge requests to other team members or your manager. 
+
+### 1Password
+
+- Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
+
+### Google Drive
+
+As part of your exit, IT highly recommends making sure important Google Docs are in a Shared Drive for the team after you exit. Please take a moment to make they are available to your team or manager prior by moving them out of your personal [My Drive](https://drive.google.com/drive/my-drive) and into a team [Shared Drive](https://drive.google.com/drive/shared-drives).
+
+### Other accounts
+
+ Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
   - Fidelity (US 401(k)): https://www.fidelity.com
   - E-Trade (RSU): http://www.etrade.com
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
-
-## Laptop and IT related steps
-
-### Google Drive Files
-
-As part of your exit, IT highly recommends making sure important Google Docs are in a Shared Drive for the team after you exit. Please take a moment to make they are available to your team or manager prior by moving them out of your personal [My Drive](https://drive.google.com/drive/my-drive) and into a team [Shared Drive](https://drive.google.com/drive/shared-drives).
 
 ### Laptop Wipe
 
