@@ -6,15 +6,15 @@ description: The Marketing Analytics team at GitLab is responsible for enabling 
 
 ## Levels
 
-### Manager, Marketing Performance
+### Manager, Marketing Analytics
 
-The Manager, Marketing Performance reports to the Director, Marketing Strategy and Performance.
+The Manager, Marketing Analytics reports to the Director, Marketing Strategy and Performance.
 
-#### Manager, Marketing Performance Job Grade
+#### Manager, Marketing Analytics Job Grade
 
-The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Analytics is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Marketing Performance Responsibilities
+#### Manager, Marketing Analytics Responsibilities
 
 - Create a leading Marketing Data Program to support GitLab's vision.
 - Manage, lead, and develop a High-Performance Team, including day-to-day assignments, bi-weekly milestone planning (followed by a recorded demo), twice a week standups, 1-1s, quarterly objectives, and annual reviews.
@@ -22,9 +22,9 @@ The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handb
 - Develop and manage executive Monthly Key Reviews, formulating actionable insights and structuring a concise, clear presentation of findings.
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations.
 - Assist with annual planning.
-- Continuously develop the Marketing Strategy & Performance Handbook pages to ensure they represent the current state of our strategy, processes, and operations.
+- Continuously develop the Marketing Analytics Handbook pages to ensure they represent the current state of our strategy, processes, and operations.
 
-#### Manager, Marketing Performance Requirements
+#### Manager, Marketing Analytics Requirements
 
 - 5+ years hands on experience in a data analytics/engineering/science role
 - 2+ years leading or managing a team of data analysts
