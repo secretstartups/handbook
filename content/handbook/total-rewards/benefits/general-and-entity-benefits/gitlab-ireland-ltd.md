@@ -50,7 +50,7 @@ Please submit your receipts via expensify and prescription to Total Rewards.
 
 GitLab offers a private pension plan via a defined contribution scheme. Orca Financial is an Irish owned Financial Services company to help with the administration of the pension on behalf of GitLab. The pension provider is **Aviva**. Aviva allows for transfers into the plan and can set up an AVC pension for any members that wish to contribute above the minimum required contribution.
 
-Orca has put together the following [video](https://drive.google.com/file/d/1IkVkLVtKonn8JsJ2hNGZI_89V3FZyPIU/view?usp=sharing) with information about the plan as a resource.
+Orca has put together the following [video](https://docs.google.com/document/d/1i5ir2xMWMIQznq-tEGCmTkSfZ_GuuV46ARlKhAGYrS0/edit) with information about the plan as a resource.
 
 ### Pension Match
 
