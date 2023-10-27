@@ -47,7 +47,7 @@ apps to help you to meet commitments you make.
 ### Avoiding giving concrete answers to "when can I expect feature / fix X?"
 
 During the course of your ticket work you may link back to feature requests and bugs. While an issue with an assigned milestone *may* ship in the release indicated,
-do not promise that it will be. See more in our [documentation style-guide](https://docs.gitlab.com/ee/development/documentation/styleguide/#promising-features-in-future-versions).
+do not promise that it will be. See more in our [documentation style-guide](https://docs.gitlab.com/ee/development/documentation/versions#promising-features-in-future-versions).
 
 ## Emotionally-charged tickets
 
