@@ -433,6 +433,10 @@ Watch our team in action on YouTube!
 
 [Digital Experience](https://www.youtube.com/playlist?list=PL05JrBw4t0KrakNGW0ruM5UL7DDlrMBba)
 
+## Digital Experience Shadow Program
+
+We're piloting a new Shadow program, details here: [Digital Experience Shadow Program](https://about.gitlab.com/handbook/marketing/digital-experience/digital-experience-shadow-program/)
+
 # Requesting Support
 
 Our team works from a quarterly plan, for example: [FY22Q3](https://gitlab.com/groups/gitlab-com/marketing/inbound-marketing/-/epics/385) and [FY22Q4](https://gitlab.com/groups/gitlab-com/marketing/digital-experience/-/epics/3). Our quarterly plan is developed with the intention to put us 30% beyond our capacity which is [GitLab policy](https://about.gitlab.com/company/okrs/#okrs-are-stretch-goals-by-default).
@@ -494,7 +498,6 @@ We love collaborating on work that drives our North Star and supporting metrics.
 ### DEX team members with platform access
 <details>
     <summary>LaunchDarkly</summary>
-    <li>@aleal-ext</li>
     <li>@dcharukulvanich</li>
     <li>@fqureshi</li>
     <li>@jgarc</li>
