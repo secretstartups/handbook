@@ -163,7 +163,7 @@ No, not at this time.
 | November 13|  [Zivago Lee](https://www.linkedin.com/in/zivagolee/) | Non-GitLab shadow - Director of Engineering at [Spin](https://www.spin.app/) |
 | November 20|  Not available | |
 | November 27|  Available | |
-| December 4 |  Available | |
+| December 4 |  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
 | December 11|  Available | |
 | December 18|  Available | |
 | December 25|  Not Available | |
