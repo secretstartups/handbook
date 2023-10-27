@@ -72,7 +72,9 @@ We respect your organizations' network security policies and restrictions and un
 If you see value in sharing Service Ping data and it’s not technically possible for you to do so directly, GitLab can provide you instructions to share the data manually, including allowing you to sanitize certain data as preferred.
 
 ## 8. How do I disable service ping?
-The service ping is opt-out. If you want to deactivate this feature, go to the Settings page of your administration panel and uncheck the Service Ping checkbox.
+**Free Self-Managed instances (CE and EE edition): If you want to deactivate this feature, go to the Settings page of your administration panel and uncheck the Service Ping checkbox.
+**Paid Self-Managed instances (EE edition)**:  You may partially deactivate Service Ping by unchecking the Service Ping checkbox of your administration panel.  However, certain Service Ping metrics related to subscriptions and customer success services can only be deactivated via support or through a sales representative. Details can be found in our [Customer Product Usage Information](handbook/legal/privacy/customer-product-usage-information/#service-ping-formerly-known-as-usage-ping).
+
 You can view the payload at "/admin/application_settings/metrics_and_profiling" in the Usage Statistics section and press the "View Payload" button.
 
 Product Documentation: Deactivate the Service Ping
