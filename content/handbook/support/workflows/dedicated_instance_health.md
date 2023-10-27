@@ -5,6 +5,14 @@ category: GitLab Dedicated
 description: "Gitlab Dedicated Support - Observability and Monitoring"
 ---
 
+## Grafana data is primarily for internal use
+
+Monitoring and observability graphs from Grafana should not be shared with
+customers by default.
+
+If you think sharing graphs would benefit the customer, please read
+[Sharing internal logs, data & graphs]({{< ref "dedicated#sharing-internal-logs-data--graphs" >}}).
+
 ## Accessing Grafana
 
 The credentials for accessing the Grafana instance associated with each GitLab Dedicated tenant are stored in the `GitLab Dedicated - Support` [1Password Vault](https://about.gitlab.com/handbook/security/#vaults).  As with [the OpenSearch instances]({{< ref "dedicated_logs" >}}), the passwords are referred to by customer number. Use the information in the internal note in the ticket and the subdomain in the `website` field in 1Password to find the credentials for the correct GitLab Dedicated tenant.

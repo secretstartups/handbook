@@ -45,7 +45,10 @@ If **yes**: the log entry **can** be shared directly with the customer via the t
 
 If **yes**: the log entry **can** be shared directly with the customer via the ticket.
 
-If one of the criteria above are not met, the log entry can not be shared directly with the customer.
+If one of the criteria above are not met, the log entry should not be shared
+directly with the customer by default. If you think sharing the log entry would
+benefit the customer, please read
+[Sharing internal logs, data & graphs]({{< ref "dedicated#sharing-internal-logs-data--graphs" >}}).
 
 GitLab Dedicated customers can request [access to application logs](https://docs.gitlab.com/ee/administration/dedicated/#access-to-application-logs).
 
