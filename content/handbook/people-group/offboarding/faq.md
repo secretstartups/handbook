@@ -44,6 +44,10 @@ The following can be used as a guide on what actions could need to be taken befo
 
 ## IT Ops - Laptops
 
+### Drive Files
+
+As part of your exit, IT highly recommends making sure shared docs are in a shared drive for the team after you exit. Please take a moment to make sure any important shared files are available to your team or manager prior by moving them out of your personal "My Drive" and into a team shared drive.
+
 ### Do I need to wipe my laptop?
 
 A laptop wipe/reset is **required** once you have been offboarded. Please ensure to [set up a meeting with the IT OPs team](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
