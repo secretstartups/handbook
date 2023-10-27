@@ -1,19 +1,20 @@
 ---
-title: Marketing Strategy
-description: The Marketing Strategy & Performance team at GitLab is responsible for developing marketing plans and go-to-market strategies as well as developing dashboards and reports to support our plans.
+title: Marketing Analytics
+description: The Marketing Analytics team at GitLab is responsible for enabling the Marketing org with data and insights to drive marketing strategy, planning, and tactics that generate incremental improvements in our results, and empower us to cohesively communicate Marketing impact.
+
 ---
 
 ## Levels
 
-### Manager, Marketing Performance
+### Manager, Marketing Analytics
 
-The Manager, Marketing Performance reports to the Director, Marketing Strategy and Performance.
+The Manager, Marketing Analytics reports to the Director, Marketing Strategy and Performance.
 
-#### Manager, Marketing Performance Job Grade
+#### Manager, Marketing Analytics Job Grade
 
-The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Analytics is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Marketing Performance Responsibilities
+#### Manager, Marketing Analytics Responsibilities
 
 - Create a leading Marketing Data Program to support GitLab's vision.
 - Manage, lead, and develop a High-Performance Team, including day-to-day assignments, bi-weekly milestone planning (followed by a recorded demo), twice a week standups, 1-1s, quarterly objectives, and annual reviews.
@@ -21,9 +22,9 @@ The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handb
 - Develop and manage executive Monthly Key Reviews, formulating actionable insights and structuring a concise, clear presentation of findings.
 - Ability to conduct sophisticated and creative analysis, yet translate those results to easily digestible messages, communications, and presentations.
 - Assist with annual planning.
-- Continuously develop the Marketing Strategy & Performance Handbook pages to ensure they represent the current state of our strategy, processes, and operations.
+- Continuously develop the Marketing Analytics Handbook pages to ensure they represent the current state of our strategy, processes, and operations.
 
-#### Manager, Marketing Performance Requirements
+#### Manager, Marketing Analytics Requirements
 
 - 5+ years hands on experience in a data analytics/engineering/science role
 - 2+ years leading or managing a team of data analysts
@@ -39,46 +40,50 @@ The Manager, Marketing Performance is a [grade 8](https://about.gitlab.com/handb
 - Ability to use GitLab
 - Leadership at GitLab
 
-### Director, Marketing Strategy
+### Director, Marketing Analytics
 
-The Director, Marketing Strategy reports to [the Chief Marketing Officer](https://about.gitlab.com/job-families/marketing/chief-marketing-officer/).
+The Director, Marketing Analytics reports to the [VP of Marketing Ops and Analytics](https://handbook.gitlab.com/job-families/marketing/marketing-operations-and-analytics/#vp-marketing-operations-and-analytics).
 
-#### Director, Marketing Strategy Job Grade
+#### Director, Marketing Analytics Job Grade
 
-The Director, Marketing Strategy is a [grade #10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Marketing Strategy is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Marketing StrategyResponsibilities
+#### Director, Marketing Analytics Responsibilities
 
-- Own the overall measurement strategy for GitLab marketing, focusing on CWA/spend and impressions/spend
-- Own the OKR process and reporting for marketing
-- Partner with Marketing Leadership to formulate and develop regional/segment marketing plans and constantly evolving go-to-market strategies
-- Partner with Marketing Operations to drive the right reporting and analytics for cross-marketing measurement
-- Partner with Sales Strategy to integrate marketing and sales strategies into a cohesive GTM strategy
-- Identify opportunities to improve go-to-market efficiencies and manage efforts to scale, align and invest in the business
-- Examine and present recommendations to Marketing Leadership for alignment and investment in the desired state and opportunities for marketing efficiency
-- Develop an understanding of marketing best practices and work with Marketing leadership to implement appropriate best practices
-- Author and deliver high-impact presentations and plans to support CMO and CMO Staff in Board and E-Group level communications, as well as with the overall marketing team
-- Assist with quarterly planning with Marketing Leadership and key GTM Leaders
-- Develop and manage executive reporting on key metrics, formulate actionable insights and structure a concise, clear presentation of findings and prioritize issues as appropriate
-- Be a trusted advisor to Marketing Leadership
+- Own and architect the overall measurement framework for GitLab Marketing, including defining key marketing metrics and developing and maintaining dashboard sources of truth.
+- Drive clear full funnel reporting of Marketing performance across key dimensions such as new and growth, customer segments, and geographies.
+- Be a thought partner to Marketing functional stakeholders– e.g. Digital Marketing, Field Marketing, Digital Experience, Brand, Product Marketing, etc.– by managing a team that analyzes data, surfaces insights, and recommends actionable findings.
+- Solve marketing data and reporting challenges to further Marketing’s understanding of levers that move the business– e.g. marketing attribution, lead scoring optimizations, and ROI and efficiency reporting across our marketing activities.
+- Build a world-class Marketing Analytics team, maintaining a strategic roadmap and ensuring efficient day-to-day operations for on-time delivery. Set priorities for the Marketing Analytics team, as well as mentoring and coaching them.
+- Be a trusted advisor to Marketing Leadership in driving marketing strategy, by partnering with them and their teams to ensure that data guides decision making and prioritization. Assist in defining and measuring Marketing OKR metrics.
+- Author and deliver executive-level presentation materials to support CMO and Marketing Leadership in key communication forums, e.g. Key Reviews, Board decks, and E-Group level communications
+- Partner with the Marketing Operations, Sales Operations, and IT teams to drive data quality and measurement instrumentation.
+- Partner with the Central Data Team and other functional data teams across the company to build and maintain shared source of truth data and definitions to enable consistent and fast answers to business questions.
+- Build for long-term scalability by looking for automation and self-service reporting opportunities.
 
-#### Director, Marketing Strategy Requirements
 
-- BA/BS degree, MBA or other related advanced degree preferred
-- 8-10+ years of experience marketing operations and some experience in GTM or sales operations
+#### Director, Marketing Analytics Requirements
+
+- 8-10+ years of experience marketing analytics and operations, ideally in a B2B SaaS environment that has grown and scaled quickly
+BA/BS degree, MBA or other related advanced degree preferred
+- Track record of success in driving business decisions and outcomes by empowering decision makers with key data and insights
 - Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
-- Ability to think strategically, but also have exceptional attention to detail to drive program management and execution
-- Extensive track record of building high-quality spreadsheets, presentations and documents
-- Superb analytical skills, technical aptitude and executive presence
-- SaaS and B2B experience preferred
-- Interest in GitLab, and open source software
+- Comfortable with B2B full funnel metrics and experience with digital marketing data and associated technologies (e.g. Google Analytics / GA4, Adobe Marketo Measure)
+- Expertise in data visualization best practices in Tableau, experience with Looker Studio, etc.
+- Demonstrated people management skills and career development of team members
+- Ability to think strategically, but also have exceptional attention to detail to drive prioritization and end-to-end ownership of execution
+- Experience in building high quality and executive-level presentations (i.e. Board of Directors and C-suite audience)
+- Strong executive presence and ability to influence cross-functionally across global teams
+- Comfortable in a fast-paced environment; ability to balance structured methodologies and precision with speed of execution and practical decision making
+- Interest in GitLab and open source software
 - A shared interest in our values, and working in accordance with those values
 
 ## Performance Indicators
 
-- [Pipe-to-spend per marketing activity](https://about.gitlab.com/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
-- [Marketing efficiency ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
-- [Total number of MQLs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- [Total number of SAOs by month](https://about.gitlab.com/handbook/marketing/performance-indicators/#total-number-of-mqls-by-month)
+- INQ to SAO conversion rate
+- Marketing influenced pipeline
+
 
 ## Career Ladder
 
@@ -89,9 +94,11 @@ The next step in the Marketing Strategy job family beyond director is not yet de
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will be invited to speak with the VP of Revenue Marketing.
+- Next, candidates will be invited to speak with our VP of Marketing Ops and Analytics
+- Next, candidates will be invited to speak with one of our Marketing Analysts
+- Next, candidates will be invited to speak with one of our Integrated Marketing Directors.
+- Next, candidates will be invited to speak with our VP of Data
 - Next, candidates will be invited to speak with the People Business Partner for Marketing.
 - Finally, candidates will be invited to interview with the Chief Marketing Officer.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
