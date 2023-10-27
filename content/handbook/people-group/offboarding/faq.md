@@ -36,18 +36,19 @@ The following can be used as a guide on what actions could need to be taken befo
 - If you feel comfortable, send a message in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel notifying everyone of your departure.
 - Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
-  - Betterment (US 401(k)): https://wwws.betterment.com/app/login
+  - Fidelity (US 401(k)): https://www.fidelity.com
+  - E-Trade (RSU): http://www.etrade.com
   - Carta (Stock options): https://login.app.carta.com/credentials/login/
 
 ## Laptop and IT related steps
 
 ### Google Drive Files
 
-As part of your exit, IT highly recommends making sure shared docs are in a shared drive for the team after you exit. Please take a moment to make sure any important shared files are available to your team or manager prior by moving them out of your personal [My Drive](https://drive.google.com/drive/my-drive) and into a team [Shared drive](https://drive.google.com/drive/shared-drives).
+As part of your exit, IT highly recommends making sure important Google Docs are in a Shared Drive for the team after you exit. Please take a moment to make they are available to your team or manager prior by moving them out of your personal [My Drive](https://drive.google.com/drive/my-drive) and into a team [Shared Drive](https://drive.google.com/drive/shared-drives).
 
 ### Laptop Wipe
 
-It is required that your laptop is wiped on your last day. Please [book an appointment](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day. 
+It is required that your laptop is wiped on your last day. Please [book an appointment](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT Ops team member for your last day.
 
 Under **no circumstance** should you be wiping your own laptop. Laptop wipes must be done from an IT Ops team member for logs. Reach out to [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) if you have any other questions.
 
