@@ -42,6 +42,8 @@ Generally speaking, all product feedback should be provided via issues. For deta
 
 Creating an issue includes, but is not limited to, features, bugs, and other changes that need to be prioritized, changed, discussed, or need more attention. Product Managers will reach out to stakeholders when making or communicating any decision. The pressure of balancing priorities while ensuring we build excellent software is on the product managers and they need all the input they can get to achieve this. Paid features fall under their respective PMs, not under one PM in particular. For instance, Service Desk falls under the Monitor PM.
 
+All feedback must follow the (GitLab Community Code of Conduct)[https://about.gitlab.com/community/contribute/code-of-conduct/]. Failure to do so will result in the issues or comment being deleted.
+
 ### Customer feature requests
 
 If a customer has a feature request that doesn't already exist, refer to the [process to create an issue](/handbook/product/product-processes/#issues) in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the [Feature Proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Proposal%20-%20lean) template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager. If an issue already exists, make a comment on the issue with their information and use case.
