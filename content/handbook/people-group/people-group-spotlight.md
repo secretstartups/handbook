@@ -1,0 +1,28 @@
+---
+title: People Group
+description: >-
+  An overview of the People Group Spotlight program.
+---
+
+# People Group Spotlight
+
+As a follow up to the FY24 Engagement Survey Results, the People Group is spotlighting stories of our taem members in Slack. The goals of these spotlights are:
+
+1. Share career growth stories of People Group team members
+2. Increase awarness of what teams across the People Group are working on
+3. Make space for incresaed collaboration
+
+
+# What to expect
+
+Starting in October 2023, you'll see People Group Spotlights shared in 2 formats:
+
+| Format | Description |
+| ----- | ---------- |
+| People Group Spotlight Podcast | Liam McNally will host a quarterly podcast focused on one team, that will highlight their current projects, opportunities for collaboration, and give listenerd a chance to get to know the team! |
+| Career Stories | Samantha Lee will collect and share career stories of People Group team members and feature them in Slack, so readers can learn about diverse career paths and what resources they have available. |
+
+# Questions
+
+If you have questions or suggestions for People Group Spotlights, please reach out to Samantha Lee or Liam McNally.
+
