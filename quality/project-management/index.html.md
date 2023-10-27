@@ -46,6 +46,15 @@ Upon joining the Quality department, team members are granted either developer, 
   - In general, we expect that team members will generally feel comfortable and will be granted maintainer access once they have:
     - Authored and reviewed 3 MRs related to improvements to the framework.
     - Authored and reviewed 5 MRs related to adding new end-to-end tests or making substantial improvements to existing ones.
+- [GitLab Tooling and Pipeline configuration](https://gitlab.com/gitlab-org/gitlab/-/blob/35789a64a6519ee764c8cb3b98f9287915e96e9d/.gitlab/CODEOWNERS#L82-117)
+  - GitLab Tooling and Pipeline configuration consists of scripts and config files used for both local development and for CI pipelines. Changes made to these files have wide impact to developer experience at GitLab.
+    - Please note: despite being two different code categories, the [Reviewer roulette](https://gitlab-org.gitlab.io/gitlab-roulette/) is designed to suggest `@gl-quality/tooling-maintainers` to review both `Tooling` and `Pipeline configuration` MRs. We have [an issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/34708) to split up maintainers for `Gitlab Tooling` and `Gitlab Pipeline configuration` into `@gl-quality/tooling-maintainers` and `@gl-quality/pipeline-maintainers`. For now, everyone in `@gl-quality/tooling-maintainers` is required to have the knowledge to review both code changes.
+  - To become a Tooling and Pipeline configuration maintainer, one must have:
+    - Read https://docs.gitlab.com/ee/development/pipelines/index.html and https://docs.gitlab.com/ee/development/pipelines/internals.html and is familiar with GitLab's internal pipeline configuration rules and patterns.
+    - Authored 5 merged MRs for Tooling maintenance and improvements.
+    - Authored 5 merged MRs for Pipeline configuration maintenance and improvements.
+    - Reviewed 10 MRs demonstrate good understanding of tooling and GitLab pipeline configurations.
+    - After completing the above requirements, a merge request is created in the [handbook](https://gitlab.com/gitlab-com/www-gitlab-com) to update their [team member YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person?ref_type=heads) outlining the reasons why they should be a maintainer and list all 20 merge requests to help aid with review. This MR must be approved by a member of `@gl-quality/tooling-maintainers`.
 - [GitLab-QA](https://gitlab.com/gitlab-org/gitlab-qa)
   - Authored and reviewed 5 merged MRs that demonstrate good understanding of the codebase.
   - Reviewed 5 MRs that make substantial improvements.
