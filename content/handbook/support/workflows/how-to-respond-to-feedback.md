@@ -148,7 +148,10 @@ ticket!):
 * **Make the CSM aware of this feedback? (Y/N)**
 ```
 
+The above text will be automatically added as a comment to "bad" reviews. You might also consider adding the above snippet to a [comment template](https://docs.gitlab.com/ee/user/profile/comment_templates.html) for quick use.
+
 If no action needs to be taken, and the customer does not need to be contacted to discuss the ticket, `/close` the Feedback Issue.
+
 
 #### When you see "bad" feedback on an apparently successful ticket
 
