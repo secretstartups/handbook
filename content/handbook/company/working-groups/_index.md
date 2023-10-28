@@ -228,6 +228,7 @@ If you are unable to attend the existing working group meeting due to time diffe
 1. [Learning Experience]({{< ref "learning-experience" >}})
 1. [Modern Applications Go-To-Market]({{< ref "modern-applications-gtm" >}})
 1. [Next Architecture Workflow]({{< ref "next-architecture-workflow" >}})
+1. [North Star Metric Definitions]({{< ref "north-star-metric-definitions" >}})
 1. [Product Accessibility]({{< ref "product-accessibility" >}})
 1. [Runtime Update Process]({{< ref "runtime-update-process" >}})
 1. [Software Supply Chain Security]({{< ref "software-supply-chain-security" >}})
