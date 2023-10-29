@@ -124,7 +124,20 @@
 /content/handbook/ @sytses @streas
 
 ^[company]
-/content/company/ @sytses @streas
+/content/handbook/company/ @sytses @streas
+
+^[Culture]
+/content/handbook/company/culture/ @streas
+/content/handbook/company/culture/all-remote/ @streas
+/content/handbook/company/culture/contribute/ @akramer
+/content/handbook/company/culture/cross-culture-collaboration-guide.md @glucchesi @wendybarnes
+/content/handbook/company/culture/gitlab-101.md @chrisweber44 @streas
+/content/handbook/company/culture/inclusion/ @wendybarnes
+/content/handbook/company/culture/internal-feedback.md @wendybarnes @mwilkins
+/content/handbook/company/culture/inclusion/tmrg-gitlab-generational-understanding.md @darwinjs @wendybarnes @mdrussell @terrichu
+/content/handbook/company/culture/inclusion/tmrg-gitlab-gente.md @pmejia @romerg
+/content/handbook/company/culture/inclusion/erg-gitlab-diversability.md @jgladen @sam.white @kchappell
+/content/handbook/company/culture/inclusion/tmrg-global-voices.md @eliran.mesika @twoodham @marin
 
 # The rest of the entries are for the different sections of the handbook and/or job-families
 ^[READMEs]
