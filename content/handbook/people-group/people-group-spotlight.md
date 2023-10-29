@@ -4,7 +4,7 @@ description: >-
   An overview of the People Group Spotlight program.
 ---
 
-# People Group Spotlight
+## People Group Spotlight
 
 The People Group is spotlighting stories of our team members in Slack. This program originated out of team member feedback from our FY24 Engagement Survey results around increasing visibility to collaboration and career growth opportunities within our division.
 
