@@ -63,6 +63,8 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Enterprise Data                     | Michelle Cooper               | Senior Analytics Engineer                                  |
 | Member - Enterprise Data                     | Miles Russell                 | Senior Analytics Engineer                                  |
 | Member - Enterprise Data                     | Amie Bright                   | VP of Enterprise Data and Analytics                        |
+| Member - Enterprise Data                     | Jong Lee                      | Data Analyst                                               |
+| Member - Office of the Chief of Staff        | David Tuan                    | Director, Strategy and Operations                          |
 
 ## Jobs to be done by the Working Group
 
