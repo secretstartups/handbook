@@ -154,7 +154,7 @@
 ^[ceo]
 /content/job-families/chief-executive-officer @sytses @streas
 /content/job-families/board-of-directors/ @sytses @robin
-/sites/handbook/source/handbook/leadership/ @sytses @streas
+/content/handbook/leadership/ @sytses @streas
 /content/handbook/company/ @sytses @streas
 /content/handbook/company/strategy/ @sytses
 /content/handbook/company/stewardship/ @sytses
@@ -201,8 +201,17 @@
 /content/job-families/engineering/incubation/ @bmarnane
 
 ^[finance]
-/content/handbook/finance/documents/ @james.shen @watson.lin
 /content/handbook/finance/ @brobins
+/content/handbook/finance/documents/ @james.shen @watson.lin
+/content/handbook/finance/financial-planning-and-analysis/ @cmestel
+/content/handbook/finance/financial-planning-and-analysis/sales-finance/ @jlatendresse @kmckern @ofalken
+/content/handbook/finance/financial-planning-and-analysis/adaptive-insights.md @cmestel
+/content/handbook/finance/financial-planning-and-analysis/sales-finance/gtm-analytics-hub.md @cmestel @jakebielecki @christinelee @alex.cohen @james_harrison @jbrennan1
+/content/handbook/finance/procurement/ @cmestel @brobins
+/content/handbook/finance/growth-and-development/cfo-shadow-program.md @brobins @dtadich
+/content/handbook/finance/timekeeping/ @TaraKumpf @cgudgenov @simon-mundy
+/content/handbook/spending-company-money.md @brobins @daleb04
+/content/handbook/tax/ @jgladen
 /content/job-families/finance/ @brobins
 
 ^[Infrastructure-Standards]
