@@ -543,6 +543,7 @@ PLEASE NOTE: The below instructions are only for virtual workshops. If you are r
 
 - FMM to update the new date in the Allocadia sub-category (that reflects in all line items).
 - FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the updated date.
+- FMM to re-open the Zoom License Request issue and update the request with the new date. FMM to then ping the FMC to confirm availability. 
 
 #### FMC Tasks
 
