@@ -36,25 +36,25 @@ Head to the [corporate marketing project](https://gitlab.com/gitlab-com/marketin
 
 ##### General Request Templates
 
-[General Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-general-request.md){:.btn .btn-purple-inv}
-[Listening Report Requests](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-listening.md){:.btn .btn-purple-inv}
-[Reporting Requests](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-reporting.md){:.btn .btn-purple-inv}
+[General Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-general-request){:.btn .btn-purple-inv}
+[Listening Report Requests](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-listening){:.btn .btn-purple-inv}
+[Reporting Requests](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-reporting){:.btn .btn-purple-inv}
 
 ##### Event Request Templates
 
-[Epic: GitLab Events](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-event-epic.md){:.btn .btn-purple-inv}
-[Issue: GitLab Owned Event Template for CFP, Reg, or Engagement](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-event-owned-request.md){:.btn .btn-purple-inv}
-[Issue: 3rd Party Sponsored Event Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-event-sponsored-request.md){:.btn .btn-purple-inv}
+[Epic: GitLab Events](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-event-epic.md){:.btn .btn-purple-inv} 
+[Issue: GitLab Owned Event Template for CFP, Reg, or Engagement](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-event-owned-request){:.btn .btn-purple-inv}
+[Issue: 3rd Party Sponsored Event Request](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-event-sponsored-request){:.btn .btn-purple-inv}
 
 ##### GTM Templates
 
-[GTM Coverage Epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-gtm-organic.md){:.btn .btn-purple-inv}
-[GTM Coverage Issue for each tactic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md){:.btn .btn-purple-inv}
+[GTM Coverage Epic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/epic_templates/social-gtm-epic.md){:.btn .btn-purple-inv}  
+[GTM Coverage Issue for each tactic](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-gtm-organic){:.btn .btn-purple-inv}
 
 ##### Other Specialized Templates
 
-[Case Study Promotion](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-case-study-promotion.md){:.btn .btn-purple-inv}
-[Partner Marketing Support](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/blob/master/.gitlab/issue_templates/social-partner-support-request.md){:.btn .btn-purple-inv}
+[Case Study Promotion](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-case-study-promotion){:.btn .btn-purple-inv}
+[Partner Marketing Support](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=social-partner-support-request){:.btn .btn-purple-inv}
 
 ### Things to remember about social media requests
 
