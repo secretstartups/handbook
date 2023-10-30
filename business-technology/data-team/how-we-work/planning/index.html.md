@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Data Team - Planning Drumbeat"
-description: "GitLab Data Team OKR and Milestone planning process"
+description: "GitLab Data Team OKR and Iteration planning process"
 ---
 
 ## On this page
@@ -26,22 +26,22 @@ The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter
 ![Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/Planning_Drumbeat.png) <br>
 [link to original](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
 
-Milestone naming convention; Milestone FYxx-Qxx-MSxx. I.e. FY22-Q02-MS01 <br>
+Iteration Cadence = Data Team <br>
 LT = Leadership Team (`@amiebright`, `@iweeks`, `@dvanrooijen2`, `@nmcavinue`) <br>
 DT = Data team (Product Fusion Team, GTM Fusion Team, BI Platform Team, or Data Platform Team)
 
 The overall ambition is to **structure** why, when and what we are doing. 
 - OKRs will lead to **why**
 - Work breakdown will lead to **what**
-- Milestone planning will lead to **when**
+- Iteration planning will lead to **when**
 
 This top-down approach is leading, but not fully limited to the way we work. 
 
 ### Goal of the Planning Drumbeat
 
 The goal of the Planning Drumbeat is to improve our ability to plan and estimate work through better understanding of our velocity.
-During the milestone planning process, we assign [issue points](/handbook/business-technology/data-team/how-we-work/#issue-pointing), which are a good measure of consistency, as milestone over milestone should share an average.
-Then we pull into the milestone based on when we think we can commit to the work being completed.
+During the iteration planning process, we assign [issue points](/handbook/business-technology/data-team/how-we-work/#issue-pointing), which are a good measure of consistency so we can calculate issue points per iteration on average.
+Then we pull into the iteration based on when we think we can commit to the work being completed.
 Then issues are prioritised according to our [standing priorities](/handbook/business-technology/data-team/how-we-work/#standing-priorities).
 
 This approach has many benefits, including:
@@ -52,35 +52,35 @@ This approach has many benefits, including:
 1. It encourages consistent throughput from team members
 1. It makes clear to stakeholders where their ask is in priority
 1. It makes clear to all team where their duty is in priority
-1. It helps alleviate the pressure of planning the next milestone, as issues are already ranked
+1. It helps alleviate the pressure of planning the next iteration, as issues are already ranked
 
 **The Planning drumbeat and the results it helps us deliver is a collaborative team-effort**
 
-### Bi-Weekly Milestone Planning
+### Twice-Weekly Iteration Planning
 
-The data team works in two-week intervals, called milestones. 1 milestone per quarter will be one week long, because a quarter contains 13 weeks. The milestone that takes 1 week is the last week of the quarter and is reserved for work breakdowns and quarter initiative wrap-up.  Milestones start on Wednesdays and end on Tuesdays. This discourages last-minute merging on Fridays and allows the team to have milestone planning meetings at the top of the milestone.
+The data team works in two-week intervals, called iterations. Iterations start on Wednesdays and end on Tuesdays. This discourages last-minute merging on Fridays and allows the team to have iteration planning meetings at the top of the iteration.
 
-Milestone planning should take into consideration:
+Iteration planning should take into consideration:
 
 - vacation timelines
 - conference schedules
 - team member availability
 - team member work preferences (specialties are different from preferences)
 
-The timeline for milestone planning is as follows:
+The timeline for Iteration planning is as follows:
 
-- Meeting Preparation - Responsible Party: Milestone Planner
+- Meeting Preparation - Responsible Party: Iteration Planner
     - Investigate and flesh out open issues.
-    - Assign issues to the milestone based on alignment with the Team Roadmap.
+    - Assign issues to the iteration based on alignment with the Team Roadmap.
     - Note: Issues are not assigned to an individual at this stage, except where required.
 
-| Day               | Current Milestone                                                                                                                                            | Next Milestone                                                                                                                                                                                                             |
+| Day               | Current Iteration                                                                                                                                            | Next Iteration                                                                                                                                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0 - 1st Wednesday | **Milestone Start** <br><br>[Roll Milestone](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=Milestone%20Rolling)                      | -                                                                                                                                                                                                                        |
-| 7 - 1st Tuesday   | **Midpoint** <br><br>Any issues that are at risk of slipping from the milestone must be raised by the assignee                                               | -                                                                                                                                                                                                                        |
-| 10 - 2nd Friday   | **The last day to submit MRs for review** <br><br>MRs must include documentation and testing to be ready to merge <br><br>No MRs are to be merged on Fridays, or on Thursday in the case of Family and Friends Day. | **Milestone is roughly final** <br><br>Milestone Planner verifies issue priority and team capacity for next milestone.                                                                                                     |
-| 13 - 2nd Monday   | **Last day of Milestone** <br><br>Ready MRs can be merged                                                                                                    | -                                                                                                                                                                                                                        |
-| 14 - 2nd Tuesday  | **Meeting Day** <br><br> All unfinished issues either need to be removed from milestones or rolled to the next                                               | **Milestone Planning** <br><br> Sync-meeting to perform retro perspective on the current milestone and align/start on the next milestone according to the created milestone planning. All unfinished issues either need to be removed from milestones or rolled to the next |
+| 0 - 1st Wednesday | **Iteration Start** <br><br>                      | -                                                                                                                                                                                                                        |
+| 7 - 1st Tuesday   | **Midpoint** <br><br>Any issues that are at risk of slipping from the iteration must be raised by the assignee                                               | -                                                                                                                                                                                                                        |
+| 10 - 2nd Friday   | **The last day to submit MRs for review** <br><br>MRs must include documentation and testing to be ready to merge <br><br>No MRs are to be merged on Fridays, or on Thursday in the case of Family and Friends Day. | **Iteration is roughly final** <br><br>Iteration Planner verifies issue priority and team capacity for next iteration.                                                                                                     |
+| 13 - 2nd Monday   | **Last day of Iteration** <br><br>Ready MRs can be merged                                                                                                    | -                                                                                                                                                                                                                        |
+| 14 - 2nd Tuesday  | **Meeting Day** <br><br> All unfinished issues either need to be removed from iterations or rolled to the next                                               | **Iteration Planning** <br><br> Sync-meeting to perform retro perspective on the current iteration and align/start on the next iteration according to the created iteration planning. All unfinished issues either need to be removed from iterations or will be automatically rolled to the next |
 
 ### Quarterly OKR Planning
 
