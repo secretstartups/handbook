@@ -112,13 +112,23 @@ When reviewing suggestions from peers asynchronously, it's a best practice to pr
 
 Ultimately, it's up to the owner of the document to decide which suggestions they'd like to apply.
 
+## How UX Researchers socialize upcoming research projects
+To raise awareness and provide transparency on the research projects that we drive, we need to put some additional effort into getting the word out. Note that this announcement isn't intended to serve as a call for feedback; it's purpose is to inform team members of upcoming research. The most effective way to do that is as follows:
+
+- Create a brief statement that explains what will be done. (Example: '_Upcoming UX Research - Hi team! I'm about to start collecting data to inform some new navigation-related decisions focused in the Monitor, Infrastructure, Deployments, and Packages & Registries items with experienced GitLab users._'). Note that the method isn't called out; that's intentional here. Keep the announcement focused on what's going to be accomplished, rather than how.
+- List 3-4 bullets with the main research questions the study will answer. These should not include any detail - just very short sentences.
+- Link to the issue for additional details. 
+- A note around the expected timeline for when you'll share the results. A rough estimate is acceptable. For example, '_Results will be shared in 3-4 weeks from now'_.
+- Optional: if you would like to use this post as a way to invite attendees to your research sessions, you can certainly do that. An example on how to do that: '_If you are interested in attending sessions live, please reply to this thread. Otherwise, I'll post recordings to this Dovetail project [insert link], where you can watch on your own time.'_
+- The posting is shared out via Slack to _at least_ the three following channels: #ux, #ux_research, and #product.  It's advised to also share the posting in any relevant stage-group channels, too.
+
 ## How UX Researchers socialize research findings
 When we drive our own research projects, it means we're also responsible for socializing those insights.  The most effective way to do that is as follows:
 - Create a brief into on what was done. (Example: _Hi team! I recently finished a tree test :deciduous_tree: on the left sidebar navigation focused in the Monitor, Infrastructure, Deployments, and Packages & Registries items with experienced GitLab users. I'm excited to share the key insights :star: :_)
 - List 3-4 bullets with the key insights. These should not include any detail - just very short sentences on the high-level findings.
 - Links to the: Research report, Video readout, Data sheet, Research issue, Dovetail project
 - A 'Next steps' sections that includes bullets on what will be happening as a result of the research.  These should be links to issues that are actionable insights.
-- The posting is shared out via Slack to _at least_ the three following channels: #ux, #ux_research, and #product.  It's advised to also share the posting in any relevant stage-group channels, too.
+- The posting is shared out via Slack to _at least_ the four following channels: #ux, #ux_research, #ux_research_reports and #product.  It's advised to also share the posting in any relevant stage-group channels, too.
 
 Below is an example of the formatting:
 
