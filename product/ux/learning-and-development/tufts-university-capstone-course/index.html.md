@@ -50,7 +50,29 @@ Each project proposal should include a summary with:
  - **A title:** A concise and catchy name for the project. This is one of the first things the students will see when choosing their project for the semester.
  - **Description:** A summary of the problem, including a problem statement and general background about the concepts that would make sense to beginner, non-GitLab users.
 
-Check out [previous years projects](https://gitlab.com/tufts-university/tufts-university-capstone/-/blob/main/project-description.md) for ideas.
+### Project ideas 
+
+You can use this list of previous projects considered for the Tufts University capstone project to help you get started selecting a project or to help brainstorm ideas. 
+
+<details><summary>Help GitLab increase their community contributions from developers and designers</summary>
+
+<a href="https://www.redhat.com/en/topics/open-source/what-is-open-source" target="_blank">Open-source</a> principles are at GitLab’s heart and are one of the reasons why GitLab users love the product. We depend on the <a href="https://about.gitlab.com/community/contribute/" target="_blank">community to contribute</a> to our product. Yes, that’s right! A developer, or even a designer, could contribute their own code or feature design, and it can end up being added to our product. We want as many community contributions as possible. This project is actually based on <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/22578" target="_blank">an issue</a> that was brought up by a community contributor. You will focus on understanding how we can improve GitLab to motivate the community to make contributions. You’ll be running research with real users to understand developers’ and designers’ motivations to contribute code or designs. You’ll also create mockups (you can use our 
+<a href="https://www.figma.com/file/qEddyqCrI7kPSBjGmwkZzQ/Pajamas-UI-Kit" target="_blank">Pajamas UI kit in Figma</a>) based on what you learn and then validate them with real users.
+
+</details>
+
+<details><summary>How are developers using runners and why are they important to them?</summary>
+
+Runners are at the core of <a href="https://docs.gitlab.com/ee/ci/" target="_blank">Continuous integration and deployment</a> (CI/CD), one of GitLab's primary offerings. Thousands of users use our <a href="https://docs.gitlab.com/ee/ci/runners/" target="_blank">GitLab SaaS Runners</a>, managed by our own GitLab team members. For those companies who run their own instances of GitLab and cannot use gitlab.com, <a href="https://docs.gitlab.com/runner/fleet_scaling/" target="_blank">bringing and managing their own runne</a> is required in order to use CI/CD features. We've done <a href="https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/jtbd/#runner-enterprise-administration" target="_blank">extensive research</a> around the management and observability needs of platform engineers who are responsible for those runners, but what isn't clear is how developers (and others with lower permissions) make use of runners and what runner information is crucial for them to complete their jobs. You will focus on understanding the problem at hand by running research with real GitLab developers. You'll also create mockups <a href="https://www.figma.com/file/qEddyqCrI7kPSBjGmwkZzQ/Pajamas-UI-Kit" target="_blank">Pajamas UI kit in Figma</a> based on what you learn and then validate them with users.
+Interview developers to understand how they are interacting with runners today and what type of information they need to know about runners (primary issue: <a href="https://gitlab.com/gitlab-org/ux-research/-/issues/225" target="_blank">Problem validation: How do developers (and others with the same, or less, permissions) interact with runners?</a>). Create mockup proposals to present this data that will replace the Project>CI/CD>Runners view and validate them with real developers.
+
+</details>
+
+<details><summary>How are users interacting with project-level analytics and are they satisfied?</summary>
+ 
+ Various <a href="https://about.gitlab.com/handbook/product/personas/" target="_blank">personas</a> make use of our project-level analytics page for a number of different jobs. This can help organizations evaluate how they are doing throughout the <a href="https://about.gitlab.com/handbook/product-development-flow/" target="_blank">product development workflow</a>. After implementing these analytiocs pages, it is difficult to know how useful these are to users and where they use them within their workflows. Are they placed in the most ideal locations for users to efficiently complete their jobs? You will use <a href="https://about.gitlab.com/handbook/product/ux/heuristics" target="_blank">UX heuristics</a> and our <a href="https://about.gitlab.com/handbook/product/ux/dovetail/" target="_blank">catalog of existing research</a> to determine what these pages do well and what they don't. You'll also be redesigning the pages to make use of <a href="https://design.gitlab.com/" target="_blank">Pajamas standards</a> and validating that these new solutions positively impacts the <a href="https://about.gitlab.com/handbook/product/ux/jobs-to-be-done" target="_blank">jobs to be done (JTBD)</a> for these pages with real GitLab users. Make sure to work with your team to scope this down so you have enough time to complete this project! For example, focus solely on improving the <a href="https://gitlab.com/gitlab-org/gitlab/-/issues/352074" target="_blank">repository analytics page</a>.
+ 
+ </details>
 
 ## Best practices as a sponsor
 - Create a designated public project in the [Tufts University Group](https://gitlab.com/tufts-university) to track the Capstone project progress. Encourage students to create GitLab accounts with their school emails and invite them as `owners` to the project. This can help them get familiar with how GitLab works and the problem they'll be solving. This can also be the place where they access resources or materials they need to complete the project. Check out [this project](https://gitlab.com/tufts-university/tufts-university-capstone) for inspiration.
