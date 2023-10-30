@@ -400,12 +400,8 @@ Please reach out to your Marketing Ops rep to shut down the landing page, or if 
 1. Click into `Assets`
 1. Click into `Registration Landing Page`
 1. Click `Edit Draft` 
-1. Under `Variables` on the right side panel, toggle `Hero 2 Visibility` to `Visible`. This adds the language that the event is at capacity.
-1. If you need to change the copy of the text, double click on the content on the left side of the screen and you can manually change the verbiage. When done, click `save`. 
-1. Before hiding 2column visibility, double click on the landing page content on the left hand side of the screen and copy the entire content.
+1. Toggle `flex 1 Visibility` to `Visible`. This adds the landing page closure content onto the page. If you need to change the copy, double-click on the copy and make your edits.
 1. Toggle `2column visibility` to `Hidden`. This removes all existing content, including the form, from the page.
-1. Toggle `flex 1 Visibility` to `Visible`. This adds the landing page default content onto the page, without the form.
-1. Double click on the landing page default content and paste the copied content from the previous step.
 1. Click `Preview Draft` to make sure everything looks accurate.
 1. Click `Preview Actions` > `Approve and Close` to save your changes. If you need to make additional edits, click `Edit Draft`. Be sure to select `Approve and Close` when you are finished.
 1. Check your live landing page to make sure the content displays correctly and the form has been removed.
