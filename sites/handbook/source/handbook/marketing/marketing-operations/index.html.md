@@ -365,10 +365,7 @@ As a compliment to the Tech Stack, we created a visual of the Tier 1 and 2 tools
 
 Below are tools in the Marketing Technology stack, organized by tier.
 
-<details>
-<summary markdown='span'>
-Business Critical Technology - Tier 1
-</summary>
+#### Business Critical Technology - Tier 1
 
 - [6sense](/handbook/marketing/marketing-operations/6sense/)
 - [Bizible / Marketo Measure](/handbook/marketing/marketing-operations/bizible/)
@@ -383,13 +380,7 @@ Business Critical Technology - Tier 1
 - [ZoomInfo](/handbook/marketing/marketing-operations/zoominfo/)
 - [Vartopia - Lead Sharing Module](/handbook/marketing/marketing-operations/vartopia/)
 
-
-</details>
-
-<details>
-<summary markdown='span'>
-Operational Technology - Tier 2
-</summary>
+#### Operational Technology - Tier 2
 
 - [Allocadia](/handbook/marketing/strategy-performance/allocadia/)
 - Base
@@ -399,26 +390,17 @@ Operational Technology - Tier 2
 - [MailJet](/handbook/marketing/marketing-operations/mailjet/)
 - [OneTrust](/handbook/marketing/digital-experience/onetrust/)
 - [RingLead](/handbook/marketing/marketing-operations/ringlead/)
-</details>
 
-<details>
-<summary markdown='span'>
-Management Technology - Tier 3
-</summary>
+#### Management Technology - Tier 3
 
-- KeyHole
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - [Reachdesk](/handbook/marketing/marketing-operations/reachdesk/)
-
+- Google Analytics (Search Discovery)
 - Survey Monkey
 - [Terminus Email Experiences](/handbook/marketing/marketing-operations/terminus-email-experiences)
 - [Typeform](/handbook/marketing/marketing-operations/typeform/)
-</details>
 
-<details>
-<summary markdown='span'>
-Functional Technology - Tier 4
-</summary>
+#### Functional Technology - Tier 4
 
 - [Bitergia](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - [Canva](/handbook/marketing/brand-and-product-marketing/brand/brand-activation/brand-standards/#canva-best-practices)
@@ -426,7 +408,7 @@ Functional Technology - Tier 4
 - [Common Room](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - ContentKing
 - Frame.io
-- Google Analytics
+- Figma
 - [Launch Darkly](handbook/marketing/digital-experience/engineering-ab-tests/)
 - [MeetUp](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 - Quantum Metric
@@ -436,7 +418,6 @@ Functional Technology - Tier 4
 - [Vimeo](/handbook/marketing/marketing-operations/vimeo/)
 - [Zendesk Community](/handbook/marketing/developer-relations/workflows-tools/#tool-stack-overview)
 
-</details>
 
 ### Requesting access to an existing tool
 

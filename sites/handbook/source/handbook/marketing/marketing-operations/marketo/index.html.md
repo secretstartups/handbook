@@ -180,6 +180,8 @@ All of the standardization smart campaigns are contained in:
 ## MQL and Lead Scoring
 A Marketing Qualified Lead is a lead that has reached a threshold of `100` points, based on demographic/firmographic and/or behavioral information. The [MQL Scoring](/handbook/marketing/marketing-operations/marketo/#scoring-model) is detailed below and is comprised of various actions and/or profile data that are weighted with positive or negative point values.
 
+For a visual overview, please use this [slide](https://docs.google.com/presentation/d/1KMyzQm_-7V7jeSJZuiedmIINti_uEWiW0NBYiX5viSA).
+
 ### Re-MQL
 For additional information, visit the lead lifecycle page](/handbook/marketing/marketing-operations/lead-lifecycle/#lead-lifecycle).
 
@@ -326,7 +328,9 @@ Based off of guidance on [Buyer Persona page](/handbook/marketing/brand-and-prod
 - Executives
 - Directors
 - Managers
-- Practioners
+- Individual Contributor
+- Student / intern
+- Blank title
 - Default
 
 </details>

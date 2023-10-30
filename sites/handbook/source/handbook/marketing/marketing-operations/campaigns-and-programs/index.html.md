@@ -223,7 +223,9 @@ This program type is specific to non-event related list uploads, such as partner
 
 #### Self-Service Virtual Event
 
-This is a light weight virtual event that can be hosted on GitLabber's personal zoom.
+This is a light weight virtual event that can be hosted on GitLabber's personal zoom.  
+
+PLEASE NOTE: The Field Marketing team no longer utilizes this campaign type and instead, utilizes the Owned Events campaign type.  
 
 **Bizible:** This is tracked as an _online_ channel if registrants come through a marketo form, otherwise it will be an _offline_ channel. Touchpoints for offline channels are created through our AMM (formerly known as Bizible) campaign sync rules that can be found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1xR2Q7YKskfNaxclnfGOkK8Vi739zdKypQ6GgF9MLG58/edit#gid=92970564). 
 
@@ -848,6 +850,22 @@ It is critical that any reference to asset number in the Marketo automation belo
 When you do your list upload, you must be sure that the `Asset [number] -` that corresponds to each asset is included in the `Content Syndication Asset` field so the automation will trigger, using the format `Asset [number] -` ("asset number space -"). The recommendation is to populate the `Content Syndication Asset` field using the format `Asset [number] - Name of asset` (example: `Asset 2 - 2023 Global DevSecOps Report: Security & Compliance`). A complete list of current assets with their asset number can be found [here](https://docs.google.com/spreadsheets/d/1PY2_uO2qg4vszSFOBrWXoHfIlNIt2qmjdr6A6fBEtcg/edit#gid=161086184). This also applies if the responses are set directly from the vendor. They must be set-up in the vendor system with the appropriate asset number.
 
 It is critical that any reference to asset number in the upload or send from the vendor uses the format `Asset [number] -` ("asset number space -"). For example `Asset 1 -` and `Asset 12 -`. This allows the automation to select the proper asset since we are using "contains" to trigger the automation. Without the `(space) -` after the asset number, both Asset 12 and Asset 1 will be recorded as Asset 1.
+
+## Integrate DAP Closed Loop Feedback
+
+Feedback on leads received via the Integrate service is an automated process done via Marketo webhooks, with 7 in total. The smart campaign triggers, smartlist filters and "holding" smart campaign used for the automation are found [on this program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG16388A1). There are two smart campaigns used and for two reasons: The `Activation` trigger acts as a holding cell that allows for newly received leads to go through multiple GitLab processes before firing a webhook, e.g. being contacted by SDRs, receiving scoring, being marked as a non-deliverable email. The flow also separates normal leads from `test` leads. The second trigger, `Webhook calls`, calls a webhook after the 5 day hold ends. Marketo webhooks require the use of trigger campaigns, so this should not be set to a scheduled campaign. 
+
+The 7 webhook feedback automations we send to Integrate are:
+
+##### Accepted Webhooks
+- **Accept**: This is a generally accepted lead
+- **Low**: This is also an accepted lead, but we share the feedback that the lead was low quality. This can be for multiple reasons, ranging from the leads being `Disqualified` to having a very low `demographic` score
+##### Not Accepted Webhooks
+- **Bad Data**: This should be generally thought of as being similar to a "spam" lead 
+- **Bad Phone**: Fired when a SDR marks the lead's listed phone number as not usable or wrong. Inegrate can return these leads to us with the phone number corrected, while other return webhooks will cannot be returned
+- **Bounce**: The email address was deemed unreachable by Marketo. Either our emails have bounced or are being blocked. We cannot accept or use the lead 
+- **Competitor**: The lead is part of a competing company and we are not interested in receiving further leads from this competitor. Use this as an error notification, meaning our lead sourcing filters that needs to be addressed
+- **Test**: When Integrate needs to send us test leads, this webhook will be triggered by those incoming leads. Please make sure the teams sending us leads via the service are aware of the needed filters to trigger the automated feedback via webook 
 
 ## Steps to Setup Surveys in Marketo and SFDC
 
