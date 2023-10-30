@@ -235,7 +235,7 @@ The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/hand
 - Establish, allocate, and track budget down to the sub-region
 - Play an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
 - Play an integral role in building out Field Marketing’s work with cross-functional integrated campaigns
-- Lead bi-monthly actionable calls with regional peers from the sales development team with the focus on MQL progression and regional goal tracking 
+- Lead bi-monthly actionable calls with regional peers from the sales development team with the focus on MQL progression and regional goal tracking
 - Act as a leader to foster team collaboration and problem solving within the Integrated Marketing team
 
 ### Requirements
