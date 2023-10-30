@@ -326,7 +326,7 @@ We give people agency to focus on what they think is most beneficial. If a meeti
 
 ##### Write promises down
 
-Agree in writing on measurable goals. Within the company we use [public OKRs](https://about.gitlab.com/company/okrs/) for that.
+Agree in writing on measurable goals. Within the company we use [OKRs](https://about.gitlab.com/company/okrs/) for that.
 
 ##### Growth mindset
 
