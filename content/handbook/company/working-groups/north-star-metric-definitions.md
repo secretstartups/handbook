@@ -6,13 +6,13 @@ status: active
 
 ## Purpose
 
-This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to define the North Star Metric and Leading Indicators for each Customer Use Case. This #north-star-metric-defintions working group ladders up and is an input to the #customer-use-case-adoption working group. The #north-star-metric-defintions working group has a narrower focus than the #customer-use-case-adoption working group and is focused on defining the North Star Metric and Leading Indicators. The #customer-use-case-adoption defined the CI Adoption North Star Metric and Leading Indicators and the working group will move forward with creating a Single Playbook for metric definition and define the Security and Compliance North Star Metric and Leading indicators in FY24-Q4. The formation of this working group will accelerate efforts to win against GitHub and reduce Churn & Contraction.
+This working group is charged with driving the necessary cross-functional alignment, prioritization, and execution required to define the North Star Metric and Leading Indicators for each Customer Product Adoption Use Case. This #north-star-metric-defintions working group ladders up and is an input to the #customer-use-case-adoption working group. The #north-star-metric-defintions working group has a narrower scope than the #customer-use-case-adoption working group and is focused on defining the North Star Metrics and Leading Indicators. The #customer-use-case-adoption defined the CI Adoption North Star Metric and Leading Indicators and the working group will move forward with creating a Single Playbook for metric definition and define the Security and Compliance North Star Metrics and Leading indicators in FY24-Q4. The formation of this working group will accelerate efforts to win against GitHub and reduce Churn & Contraction.
 
 **Desired Outcomes**
 
-1. Develop a Single, Cross-Functional Playbook to define the North Star Metric and Leading Indicators for each Customer Use Case
-1. Drive **cross-functional alignment** around the North Star Metric and Leading Indicators definition process across sales, customer success, product, data, finance, etc.
-1. Publish a certified Tableau dashboard that shows the performance of the North Star Metric versus target for CI, Security, and Compliance
+1. Develop a single, cross-functional Playbook to define the North Star Metrics and Leading Indicators for each Customer Product Adoption Use Case
+1. Drive **cross-functional alignment** around the North Star Metrics and Leading Indicators definition process across sales, customer success, product, data, finance, etc.
+1. Publish a certified Tableau dashboard that shows the performance of the North Star Metrics versus target for CI, Security, and Compliance
 
 ### FY24-Q4 Customer Use Cases in Scope
 
