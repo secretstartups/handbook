@@ -160,7 +160,7 @@ No, not at this time.
 | November 20|  Not available | |
 | November 27|  Available | |
 | December 4 |  [Marc-Aurele Brothier](https://www.linkedin.com/in/marcaurele) | Non-GitLab shadow - Senior Engineering Manager at [Pix4D](https://www.pix4d.com/) |
-| December 11|  Available | |
+| December 11|  [Jeremy Henage](https://www.linkedin.com/in/jeremy-henage/) | Head of SaaS Program @ Digital Manufacturing at Siemens |
 | December 18|  Available | |
 | December 25|  Not Available | |
 
