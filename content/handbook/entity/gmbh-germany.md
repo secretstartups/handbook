@@ -68,7 +68,7 @@ The team member will receive a new version of the contract (may take up to 8 wee
 
 For the Direct Insurance plan, Team Members on Leave, including unpaid, maternity, and paternity and extended Long Term Sickness (42 continuous calendar days of sick leave- 6 weeks) are not eligible to contribute on the plans while on leave.
 
-For the Support Fund, during times the team members is not paid pensionable salary, support fund contribtuions will stop, with the exception of paid maternity and paternity leave. 
+For the Support Fund, during times the team members is not paid pensionable salary, support fund contribtuions will stop, with the exception of paid maternity and paternity leave.
 
 Contributions will cease the month after the team member goes on leave.  – For example if the team member goes on leave on May 2nd (i.e. they are active on the 1st of the month) they can continue the contribution for that month, the next month (June 1st) we will stop contribution. Contributions will start again the following month after the team member returns from leave.
 
