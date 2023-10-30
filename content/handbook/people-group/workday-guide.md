@@ -18,7 +18,7 @@ Workday will be accessible to all GitLab team members through Okta SSO. Go to [g
 
 ![Accesing Workday through Okta](../okta-wd.png)
 
-**Important:** Please note that Workday will be temporarily unavailable due to scheduled weekly maintenance each Friday between 11:00 PM - 3:00 AM PST.
+**Important:** Please note that Workday will be temporarily unavailable due to scheduled weekly maintenance each Friday between 11:00 PM - 3:00 AM PST (Saturday between 6am UTC to 9am UTC).
 
 ## Workday Guides
 
@@ -52,6 +52,10 @@ Use these helpful resources for completing team member self-service tasks in Wor
 |Managers|access and use reports|[Link](https://docs.google.com/document/d/19Isxod-o2CJ9GkurkVPqK8dCxbkQO743LoJ12OonOHY/edit)|-|
 |Managers|move team member to another manager|[Link](https://docs.google.com/document/d/1JEobACNSMeHU4pU5DaaF7aqmv9wmSDoXx7veZ6_SM_I/edit)|-|
 |Managers|view job history of a report prior to the HRIS migration|under that team member: `Job -> Worker History -> Worker History by Category -> Staffing & Compensation from Prior System`|-|
+
+## Job Title Speciality Creation/Update
+
+If you require any changes to a job title speciality or need a new job title speciality created, please open an [issue](https://gitlab.com/gitlab-com/people-group/people-tools-technology/general/-/issues/new) for the People Tech team to review. Select the `Workday: Job Title Speciality Request` template option. Once the job title speciality has been created, and you need changes to team members profiles in Workday, please send an email to `people-connect@gitlab.com` for assistance.
 
 ## How is Workday being implemented?
 
