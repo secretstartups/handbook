@@ -119,6 +119,5 @@ The Field team practices Focus Fridays. The goal is to encourage all field team 
 - Customer/prospect/partner/external meetings are exceptions
 - Some one-off internal meetings might not be avoidable, but aim to minimize them as much as possible
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
-- Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work 
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule. 
