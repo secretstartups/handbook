@@ -9,15 +9,18 @@ title: "Authorization Group"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Govern:Authorization
+# Govern:Authorization
 {: #welcome}
 
 ### Planning
 
-Our [Planning issues](https://gitlab.com/gitlab-org/govern/authorization/team-tasks/-/issues/?label_name%5B%5D=Planning%20Issue) are the SSOT of what we're working on now, and what we're working on next. To maintain the issue lists, leadership (EM+PM) will keep the lists triaged.
+Our [Planning issues](https://gitlab.com/gitlab-org/govern/authorization/team-tasks/-/issues/?label_name%5B%5D=Planning%20Issue) are the SSOT of what we're working on now, and what we're working on next. We also have an [issue board](https://gitlab.com/gitlab-org/gitlab/-/boards/7129613?not%5Bmilestone_title%5D=Backlog&label_name%5B%5D=group%3A%3Aauthorization) to view these from a `workflow` perspective. To maintain the issue lists leadership (EM+PM) will keep the lists triaged.
 
-* Issues that are `~workflow::ready for development` should be picked up in order of Priority. With `~priority::1` being the highest priority.
-* Issues that are `~workflow::scheduling` or are lacking a `~workflow` label shouldn't be picked up, and should be triaged by leadership during the planning phase.
+| Label | Definition |
+| ---   | ---        |
+| `~workflow::ready for development` | Ready to be picked up by an engineer. `~priority::1` being the highest priority. |
+| `~workflow::scheduling` or lacking a `~workflow` label |  Shouldn't be picked up by an engineer and needs to be triaged by leadership. If leadership has no intention on this work being done anytime soon, they should assign the ~Backlog milestone. |
+| `~workflow::refinement` | Needs further investigation by engineering. After refininement, an issue should have a weight assigned and the workflow label should be updated to `~workflow::scheduling` |
 
 ### Group Members
 
@@ -27,9 +30,14 @@ The following people are permanent members of the group:
 
 <%= stable_counterparts(role_regexp: /Govern:Authorization/) %>
 
+### Team Meetings
+
+Our group holds synchronous meetings to gain additional clarity and alignment on our async discussions. We aspire to [record](https://about.gitlab.com/handbook/tools-and-tips/zoom/) all of our meetings as our team members are spread across several time zones and often cannot attend at the scheduled time.
+
+We have a weekly team sync meeting with rotating AMER/APAC and [EMEA/AMER](https://drive.google.com/drive/folders/1gFMDy-Lq0Ycg2pJE7_La0Giln3c4wMJJ?usp=drive_link) friendly time slots: Tues 20:00 UTC and Weds 14:30 UTC.
+
 ### Links and resources
 {: #links}
 
-<%= partial("handbook/engineering/development/dev/manage/shared_links.erb") %>
 * Our Slack channels
-  * Govern:Authorization [#g_manage_auth](https://gitlab.slack.com/archives/CLM1D8QR0)
+  * Govern:Authorization [#g_govern_authorization](https://gitlab.slack.com/archives/C0610LVCSAY)
