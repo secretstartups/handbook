@@ -45,7 +45,7 @@ The following can be used as a guide on what actions could be taken before your 
 
 ### Google Drive
 
-- Move any important Google Docs from your personal [My Drive](https://drive.google.com/drive/my-drive) to a [Shared Drive](https://drive.google.com/drive/shared-drives) so that they will be available to your team and manager after you exit. 
+- Move any important Google Docs from your personal [My Drive](https://drive.google.com/drive/my-drive) to a [Shared Drive](https://drive.google.com/drive/shared-drives) so that they will be available to your team and manager after you exit.
 
 ### Other accounts
 
