@@ -170,11 +170,11 @@ The Manager, Field Marketing is a [grade 8](https://about.gitlab.com/handbook/to
 ### Responsibilities
 
 - Manage a team of field marketers to develop and execute a regional demand generation strategy in line with company sales goals, including working with both direct sellers, channel sellers, and alliance partners.
-- Manage a team of channel marketers to develop and execute a regional full stack marketing strategy in line with company sales goals. 
-- Represent both Field Marketing and Channel Marketing with field sales peers and management at regional leadership meetings. 
-- Collaborate with senior marketing leaders, finance and sales leaders to create integrated plans and budgets for both direct (Field Marketing) as well as MDF budgets (Channel Marketing)
-- Identify gaps and build processes which make our Field and Channel Marketing team more effective and efficient. 
-- Regularly report out on OKR progress as well as direct pipeline impact to the business, for both direct and channel.  
+- Manage a team of channel marketers to develop and execute a regional full stack marketing strategy in line with company sales goals.
+- Represent both Field Marketing and Channel Marketing with field sales peers and management at regional leadership meetings.
+- Collaborate with senior marketing leaders, finance and sales leaders to create integrated plans and budgets for both direct (Field Marketing) as well as MDF budgets (Channel Marketing).
+- Identify gaps and build processes which make our Field and Channel Marketing team more effective and efficient.
+- Regularly report out on OKR progress as well as direct pipeline impact to the business, for both direct and channel.
 - Be a player/coach, executing and managing Field & Channel marketing activities as needed.
 - Hire exceptional field marketer and channel marketers who align with GitLab values.
 
@@ -210,7 +210,7 @@ This role includes all of the performance indicators of the previous level plus:
 - [10X spend contribution to sales pipeline](/handbook/marketing/strategy-performance/marketing-metrics/#marketing-attribution) for geo (AMER, EMEA,APAC) responsible for.
 - Contribution to the outlined Regional Marketing OKRs, in alignment with the [Marketing OKRs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
 - Spending of the regional [Field Marketing budget](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for.
-- Spending of the regional [Channel Marketing MDF budget](/handbook/resellers/Channel-Program-Guide/MDF/) within 5% variance for geo (AMER, EMEA, APAC) responsible for. 
+- Spending of the regional [Channel Marketing MDF budget](/handbook/resellers/Channel-Program-Guide/MDF/) within 5% variance for geo (AMER, EMEA, APAC) responsible for.
 
 ### Hiring Process
 
@@ -236,7 +236,7 @@ The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/hand
 - Play an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
 - Play an integral role in building out Field Marketing’s work with cross-functional integrated campaigns
 - Lead bi-monthly actionable calls with regional peers from the sales development team with the focus on MQL progression and regional goal tracking 
-- Act as a leader to foster team collaboration and problem solving within the Integrated Marketing team 
+- Act as a leader to foster team collaboration and problem solving within the Integrated Marketing team
 
 ### Requirements
 
