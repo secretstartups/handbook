@@ -1,5 +1,5 @@
 ---
-title: "Contributing to GitLab the Product"
+title: "Contributing to GitLab the Product as a Security Team Member"
 ---
 
 ## Security Engineering Code Contributions

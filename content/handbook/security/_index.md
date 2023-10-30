@@ -694,7 +694,7 @@ our security automation initiatives.
     - and one [exclusively for stickers](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/blob/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk/pdf/sticker/gitlab-security-icon-diecut-sticker-3x2_78in.pdf).
 - [Security READMEs](/handbook/security/readmes/)
 - [Working in Security](/handbook/security/working-in-security.md)
-- [Contributing to GitLab the product]({{< ref "contributing-to-gitlab-the-product" >}})
+- [Contributing to GitLab the product as a Security team member]({{< ref "contributing-to-gitlab-the-product" >}})
 
 #### AI in Security Learning Group
 
