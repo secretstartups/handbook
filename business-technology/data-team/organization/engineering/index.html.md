@@ -57,7 +57,7 @@ Production operations is always our [top standing priority](/handbook/business-t
 
 ### Project Management and Planning
 
-The Engineer assigned the Project Management and Planning responsibility oversees, directs, and improves our [workflow processes](/handbook/business-technology/data-team/how-we-work/#workflow-summary), [milestone planning](/handbook/business-technology/data-team/how-we-work/#milestone-planning), and issue triaging. They ensure that work is getting planned and completed efficiently and that the work being done appropriately supports and enables the goals of both the Data Team and GitLab.
+The Engineer assigned the Project Management and Planning responsibility oversees, directs, and improves our [workflow processes](/handbook/business-technology/data-team/how-we-work/#workflow-summary), [iteration planning](/handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning), and issue triaging. They ensure that work is getting planned and completed efficiently and that the work being done appropriately supports and enables the goals of both the Data Team and GitLab.
 
 ### User Experience
 

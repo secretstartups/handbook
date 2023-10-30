@@ -105,7 +105,7 @@ In support of the Data Fusion Team, the Lead Analytics Engineer fulfills the bel
 1. Own one or more stakeholder relationship in Go To Market, Research & Development, General & Administrative, Financial Analytics, or Engineering Analytics business functions.
 1. Co-DRI of Key Results along with the Manager, Data.
 1. Lead [work breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdowns) sessions for OKRs. Incorporate the Data Champion and other required team members in the work breakdown sessions.
-1. Lead bi-weekly [milestone planning](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#bi-weekly-milestone-planning) sessions for the assigned Fusion Team. Work with Data Champions to prioritze `P3-Other` issues. The target state is for the Fusion team to spend 75% of their time working on `OKR` issues and 25% of their time working on `Other` issues. The OKRs are set by the Manager, Data and the Director, Data. Any changes to these priorities will be coordinated by Data Management.
+1. Lead twice-weekly [iteration planning](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning) sessions for the assigned Fusion Team. Work with Data Champions to prioritze `P3-Other` issues. The target state is for the Fusion team to spend 75% of their time working on `OKR` issues and 25% of their time working on `Other` issues. The OKRs are set by the Manager, Data and the Director, Data. Any changes to these priorities will be coordinated by Data Management.
 1. Review the weekly stand-up and provide support as needed to unblock team members and answer questions.
 1. Update the Rolly Bot Epic description section for the Key Results that the Lead AE is Co-DRI off.
 1. Keep Fusion Team boards updated on a bi-weekly cadence aligning to the Planning Drumbeat cadence.
@@ -118,7 +118,7 @@ The stable counterpart is expected to participate in the following meetings asyn
 
 1. Data Team <> Business Function syncs. For example, People Analytics <> Data Team, Engineering Analytics <> Data Team, Product Intelligence <> Data Team syncs.
 1. Data Program Sync meetings where issue prioritization is discussed amongst cross-functional stakeholders. For example, Data Program Support for R&D and Data Program Support for GTM.
-1. Data Fusion Team Milestone Planning Meetings.
+1. Data Fusion Team Iteration Planning Meetings.
 1. Data Fusion Team Meetings.
 
 ### Data Fusion Team Operations

@@ -205,7 +205,7 @@ In order to get better and be more efficient in daily triage, we wrap-up the wor
    - 0.5 hour on answering Slack questions
 - Groundhog Issues. Issues that occur on a regular basis are annoying and costing us unnecessary time. List down any issue that is popping up time after time. This is in order to find any spots in the current landscape to address.
  
-A triage roundup will take place at the end of every milestone by the data leadership team to consolidate the milestones triage efforts. Please bear in mind the purpose of the information provided, to make it useful and improve Triage.
+A triage roundup will take place on a weekly or twice-weekly basis in order for the data leadership team to consolidate triage efforts. Please bear in mind the purpose of the information provided, to make it useful and improve Triage.
 
 ### End of week wrap-up
 

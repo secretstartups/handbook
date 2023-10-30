@@ -36,7 +36,7 @@ The Data Team strives to spend the majority of its time developing and operating
 | --- | --- | --- | --- | --- |
 | 1  | Production Operations | Activities required to maintain efficient and reliable data services, including triage, bug fixes, and patching to meet established [Service Level Objectives](/handbook/business-technology/data-team/platform/#slos-service-level-objectives-by-data-source). | 10-20% (may fluctuate depending on incident frequency and complexity) | As needed
 | 2  | Data Team OKRs | The Data Team identifies strategic-level OKRs in collaboration with partner teams each quarter. | 60-75% | Prioritized through the monthly [Data Leadership Forum](/handbook/business-technology/data-team/how-we-work/#data-leadership-forum) and committed to during our [quarterly planning process](/handbook/business-technology/data-team/how-we-work/planning/) |
-| 3  | Other | Other tactical work that is requested on an ad-hoc basis throughout the quarter | 15-25% | Prioritized on an ongoing basis and committed to during our [milestone planning process](handbook/business-technology/data-team/how-we-work/#quarterly-and-milestone-planning)|
+| 3  | Other | Other tactical work that is requested on an ad-hoc basis throughout the quarter | 15-25% | Prioritized on an ongoing basis and committed to during our [iteration planning process](/handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning)|
 
 We use [scoped labels in GitLab](/handbook/business-technology/data-team/how-we-work/#issue-labeling) to track our issues across these priorities.
 
@@ -104,9 +104,9 @@ The calculator below is based on the following [Value Calculator](https://docs.g
 
 <%= partial 'includes/data_team_value_calculator_vue' %>
 
-### Quarterly and Milestone Planning
+### Quarterly and Iteration Planning
 
-Our planning process is called the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning) and it encompasses Quarterly Planning and [Milestone Planning](/handbook/business-technology/data-team/how-we-work/planning/#milestone-planning). The Planning Drumbeat is one of the most important activities the Data Team performs because it helps us align our work with the broader company, while remaining agile enough to manage shifting business priorities.
+Our planning process is called the [Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning) and it encompasses Quarterly Planning and [Iteration Planning](/handbook/business-technology/data-team/how-we-work/planning/#iteration-planning). The Planning Drumbeat is one of the most important activities the Data Team performs because it helps us align our work with the broader company, while remaining agile enough to manage shifting business priorities.
 
 #### Weekly Roll Up Reporting
 
@@ -137,10 +137,10 @@ Process:
     1. **Business Impact Statement:** [Short summary of business impact]
     <!-- Status End -->
     ```
-4. During milestone planning, the DRI will be responsible for updating the above details for the KR in the Epic. The best practice is to write the update for the entire milestone.
+4. During iteration planning, the DRI will be responsible for updating the above details for the KR in the Epic. The best practice is to write the update for the entire iteration.
 5. At the end of the quarter, the roll up labels will be removed from the KR Epics and added to the new quarter's KR Epics.
 
-**Note:** The release date will often be the next milestone based on our milestone planning process, but it could be sooner or later than that, depending on the specific KR.
+**Note:** The release date will often be the next iteration based on our iteration planning process, but it could be sooner or later than that, depending on the specific KR.
 
 Current limits:
 1. Only Epics can be added to the weekly roll up (i.e. not Issues)
@@ -195,7 +195,7 @@ Generally issues should move through this process linearly. Some templated issue
 | 3      | A typical change, with understood requirements but some complicating factors                                                                                |
 | 5      | A more complex change. Requirements are _probably_ understood or there might be dependencies outside the data-team.                                         |
 | 8      | A complex change, that will involve much of the codebase or will require lots of input from others to determine the requirements.                           |
-| 13     | It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break into smaller Issues.         |
+| 13     | It's unlikely we would commit to this in an iteration, and the preference would be to further clarify requirements and/or break into smaller Issues.        |
 
 #### Issue Labeling
 
@@ -252,7 +252,7 @@ Other tips:
 
     - For simple changes, it is the MR author who should be responsible for closing the threads. If there is a complex change and the concern has been addressed, either the author or reviewer could resolve the threads if the reviewer approves.
 
-1. Reviewers should have 48 hours to complete a review, so plan ahead with the end of the milestone.
+1. Reviewers should have 48 hours to complete a review, so plan ahead with the end of the iteration.
 1. When possible, questions/problems should be discussed with your reviewer before submitting the MR for review. Particularly for large changes, review time is the least efficient time to have to make meaningful changes to code, because you’ve already done most of the work!
 1. Consider bringing the latest commits from the primary branch so the MR is caught up. You can do this quickly by typing `/rebase` into a comment and GitLab will make this happen automatically, barring any merge conflicts.
 
@@ -270,10 +270,10 @@ Once the KPI has been added to our enterprise BI platform, the Data Team will pr
 
 - First-Response SLO for a new Issue or MR: 36 hours from the time of creation
 - Issue Close SLO for a new Issue or MR is based on the [Issue Weight](/handbook/business-technology/data-team/how-we-work/#issue-pointing) assigned by the Data Team.
-    - Issue weight of 1-5 points: 4 weeks (2 milestones)
+    - Issue weight of 1-5 points: 4 weeks (2 iterations)
     - Issue weight > 5 points: No SLO
 - MR Review SLO
-    - 4 weeks (2 milestones)
+    - 4 weeks (2 iterations)
 
 ### Removal and deletion process <!-- @dennis is there an iteration on this one, get @chris and @peter to contribute here -->
 

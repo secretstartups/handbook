@@ -47,8 +47,8 @@ The team follows _[GitLab meeting practices and standards](https://about.gitlab.
 
 **Daily Standup**
 
-Members of the data team use Geekbot for daily standups.
-These standup notes are posted in [#data-daily](https://gitlab.slack.com/archives/CGG0VRJJ0/p1553619142000700).
+Members of the data team use Geekbot for daily or weekly standups.
+These standup notes are posted in [#data-daily](https://gitlab.slack.com/archives/CGG0VRJJ0/p1553619142000700) and/or [#data-weekly](https://gitlab.slack.com/archives/C03CDU924KA).
 When Geekbot asks, "What are you planning on working on today? Any blockers?" try answering with specific details, so that teammates can proactively unblock you.
 Instead of "working on Salesforce stuff", consider "Adding Opportunity Owners for the `sfdc_opportunity_xf` model."
 There is no pressure to respond to Geekbot as soon as it messages you.
@@ -56,15 +56,9 @@ Give responses to Geekbot that truly communicate to your team what you're workin
 
 **Tuesday Planning and Results Meetings**
 
-Every Tuesday from 1400-1700 UTC we focus on results delivery within the business-focused Fusion Teams and Platform Enhancements Team.
+During weekly or twice-weekly meetings on Tuesdays (cadence depends on the team), we focus on results delivery within the business-focused Fusion Teams and Platform Enhancements Team.
 Data Team Leadership are expected to regularly attend most sessions and review all meeting agendas.
-Because we work in [2-week milestone intervals](/handbook/business-technology/data-team/how-we-work/#milestone-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
-
-| Time (CET/UTC/ET/PT) | Meeting                                                                                                                                |
-| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
-| 1600/1400/1000/700   | [GTM Fusion Team Meeting](https://docs.google.com/document/d/1VaRo9qJvmG6YAR1pSAoetCqop2c807K6fjL2S9pIxGg/edit?usp=sharing)   |
-| 1700/1500/1100/800   | [Product Fusion Team Meeting](https://docs.google.com/document/d/1cANv4hvrIt2V66yRJztzb_2tuDYOx1ashEzD2G69NbE/edit)        |
-| 1600/1400/1000/700   | [Data Platform Team Meeting](https://docs.google.com/document/d/1J6yPgnEpr2VXz2LFXNNA4w39UBaibtBrx8qE69H_xQY/edit) |
+Because we work in [2-week iteration intervals](handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning), the focus of these _Tuesday_ meetings will change from week-to-week.
 
 **DEMO Meetings**
 
