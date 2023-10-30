@@ -56,6 +56,12 @@ Data for reporting and analytics use cases like MR Rate & Performance KPIs (Prod
  
 * Data access approval will be involved in the Access Request process and need to give approval if a GitLab team member applies for raw data access.
  
+## Allow listing
+
+We follow the concept of allow listing [internal](/handbook/business-technology/data-team/platform/pipelines/#internal-only-filtering) projects or groups. This means if a project or group is not listed in 1 of the dbt seed (csv) files, data for that project or group is not extracted for `internal_only` considered columns. Also new projects have to be added to the allow list, following the [data minimisation](/handbook/business-technology/data-team/how-we-work/new-data-source/#data-minimisation) principle. 
+
+To add new projects or groups to the allow list, everyone can create a MR and add it to either `internal_gitlab_projects.csv` for projects or `internal_gitlab_namespaces.csv` for groups. Assign the MR to the code owner for review. After merge, `internal_only` considered columns for those projects or groups are extracted from that moment in time onwards (no retro/backfill).  
+
 ## SLO explaination
 
 The extract runs twice per day on a replica Postgres database with static data. During the extract, we use a static source. If data is added or modified 1 second before the snapshot creation, it's included in the snapshot. However, if data is added or modified 1 second _after_ the snapshot is created, that data is excluded. Therefore, data is always older than the duration of the extraction process (approximately 6 hours) when it lands in Snowflakes `RAW` [layer](/handbook/business-technology/data-team/platform/#raw). After landing in Snowflake it requires [multiple steps](/handbook/business-technology/data-team/platform/dbt-guide/#what-and-why) to make it available for usage in Sisense/Tableau (`PROD` [layer](/handbook/business-technology/data-team/platform/#prod)).
@@ -89,6 +95,8 @@ The setup currently, and SLO, is set that if the [Ansible Replica Rebuild](handb
 - Wednesday 05:00:00PM UTC - Data available in for consumption in Sisense/Tableau
 
 ## Data pipeline (technical) description
+
+This pipeline leverages the general Postgres_Pipeline (pgp) - Postgres Extractor.
  
 There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
 

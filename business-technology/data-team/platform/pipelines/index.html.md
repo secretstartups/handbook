@@ -268,7 +268,7 @@ to role transformer copy current grants;
 A [hardcoded SQL pipeline](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/gcs_external/src/container_registry.py) that queries directly from the external stage is used for filtering and loading data from an external GCS stage. Currently only used for [Container Registry Log data (issue linked)](https://gitlab.com/groups/gitlab-data/-/epics/579), which was too large to completely replicate into `RAW`. Currently [the DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/container_reg.py) runs SQL daily that creates a new table for each date partition, the business [has indicated](https://docs.google.com/document/d/1kwL3KGSmTbtKD7vliRbWOp1uY6gu6FLms6SPb4wXwA4/edit#heading=h.5kovd39dcksw) that this is unlikely to become a business critical data source.
 
 
-## Postgres_Pipeline (pgp) - Postgres Extractor <!-- analytics/extract/postgres_pipeline/README.md -->
+## Postgres Pipeline (pgp) - Postgres Extractor
 
 Data can be loaded from `postgres` into our data warehouse using `postgres_pipeline`.
 All tables uploaded using `pgp` will contain a metadata column called `_uploaded_at` so that it can be determined when the data was loaded.
@@ -379,12 +379,6 @@ These IDs are generated from dbt seed files which we use to identify internal gr
 * [`internal_gitlab_namespaces.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/internal_gitlab_namespaces.csv)
 * [`projects_part_of_product.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product.csv)
 * [`projects_part_of_product_ops.csv`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/projects_part_of_product_ops.csv)
-
-#### Allow listing
-
-We follow the concept of allow listing internal projects or groups. This means if a project or group is not listed in 1 of the dbt seed (csv) files, data for that project or group is not extracted for `internal_only` considered columns. Also new projects have to be added to the allow list, following the [data minimisation](/handbook/business-technology/data-team/how-we-work/new-data-source/#data-minimisation) principle. 
-
-To add new projects or groups to the allow list, everyone can create a MR and add it to either `internal_gitlab_projects.csv` for projects or `internal_gitlab_namespaces.csv` for groups. Assign the MR to the code owner for review. After merge, `internal_only` considered columns for those projects or groups are extracted from that moment in time onwards (no retro/backfill).  
 
 ### Testing in Airflow
 
