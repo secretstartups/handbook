@@ -407,6 +407,12 @@ The [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox) is
 The Package team uses this platform to set up its epehemeral demo sandbox environment that launches an Omnibus instance with an active Container Registry and a project that can trigger multiple images/tags leveraging our CI capabilities.
 Instructions on how to use it can be found [here](https://about.gitlab.com/handbook/engineering/development/ops/package/quality).
 
+#### Seeding Utilities
+
+We have two utilities we make use of when seeding Container Registries for testing purposes:
+* [Container Factory](https://gitlab.com/nmezzopera/container-factory)
+* [Container Registry Cloud Seeder](https://gitlab.com/gitlab-org/ci-cd/package-stage/container-registry-seeder)
+
 ### Code Review
 
 Code reviews follow the standard process of using the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to choose a reviewer and a maintainer. The roulette is optional, so if a merge request contains changes that someone outside our group may not fully understand in depth, people are encouraged to ask for a preliminary review from members of the package group to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow package group members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
