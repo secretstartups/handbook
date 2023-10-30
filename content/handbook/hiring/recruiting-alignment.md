@@ -21,16 +21,16 @@ description: "This page is an overview of the search team alignment and the tale
 | All Sales, APAC | Yas Priatna  | Lerato Thipe |
 | Marketing, Global | Steph Sarff | Michelle Jubrey |
 | Marketing, BDR/SDR (Global)| Caroline Rebello |  Alice Crosbie |
-| G&A, Legal | Jenna VanZutphen | Michelle Jubrey |
-| G&A, Accounting, People | Jenna VanZutphen | Michelle Jubrey |
-| G&A, IT | Jenna VanZutphen | Alice Crosbie |
+| G&A, Legal | Jenna VanZutphen | Sruthy Menon |
+| G&A, Accounting, People | Jenna VanZutphen | Sruthy Menon |
+| G&A, IT | Jenna VanZutphen | Sruthy Menon |
 | Development | Mark Deubel & Sara Currie | Guido Rolli |
 | Quality | Riley Smith |  Guido Rolli |
-| Infrastructure   | Michelle Kemp | Michelle Jubrey |
+| Infrastructure   | Michelle Kemp | Guido Rolli |
 | Support | Joanna Michniewicz  |  Alice Crosbie |
 | Security | Holly Nesselroad | Michelle Jubrey |
-| Incubation | Holly Nesselroad  | Alice Crosbie |
-| Product Management  | Holly Nesselroad | Alice Crosbie |
+| Incubation | Holly Nesselroad  | Michelle Jubrey |
+| Product Management  | Holly Nesselroad | Michelle Jubrey |
 | UX  | Riley Smith | Guido Rolli |
 
 For urgent requests of the Candidate Experience Specialist team, we encourage you to contact them by also tagging @CES in Slack messages and CC'ing CES@gitlab.com on emails.
