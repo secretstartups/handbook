@@ -169,7 +169,7 @@ The Manager, Field Marketing is a [grade 8](https://about.gitlab.com/handbook/to
 
 ### Responsibilities
 
-- Manage a team of field marketers to develop and execute a regional demand generation strategy in line with company sales goals.
+- Manage a team of field marketers to develop and execute a regional demand generation strategy in line with company sales goals, including working with both direct sellers, channel sellers, and alliance partners.
 - Manage a team of channel marketers to develop and execute a regional full stack marketing strategy in line with company sales goals. 
 - Represent both Field Marketing and Channel Marketing with field sales peers and management at regional leadership meetings. 
 - Collaborate with senior marketing leaders, finance and sales leaders to create integrated plans and budgets for both direct (Field Marketing) as well as MDF budgets (Channel Marketing)
@@ -233,7 +233,6 @@ The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/hand
 ### Responsibilities
 
 - Establish, allocate, and track budget down to the sub-region
-- Build out process to integrate channel partners into regional campaigns
 - Play an integral role in building out and operationalizing the work Field Marketing does to support our growing channel business
 - Play an integral role in building out Field Marketing’s work with cross-functional integrated campaigns
 - Lead bi-monthly actionable calls with regional peers from the sales development team with the focus on MQL progression and regional goal tracking 
