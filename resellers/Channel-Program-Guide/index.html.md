@@ -85,53 +85,50 @@ GitLab is experiencing tremendous growth, which translates to incredible opportu
 
 
 
-### GitLab Channel Services Program
+### GitLab Partner Services Program
 
-The GitLab Channel Services program is designed to help new or existing partners design service portfolios around the DevOps Lifecycle in correlation to GitLab products. The program will help partners evaluate business opportunities and create a technical enablement framework to use as they build their GitLab-related service practices.
+The GitLab Channel Services program is designed to help new or existing partners design service portfolios around the DevSecOps Lifecycle in correlation to GitLab products. The program helps partners evaluate business opportunities and creates a technical enablement framework to use as they build their GitLab-related service practices.
 
-The foundation of the GitLab Channel Services Program consists of two elements on which partners can build upon to start or grow their GitLab-related service portfolio:
-
-
-
-1. [Designations](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview): GitLab offers GitLab Service Partner Designations, that include training for service delivery teams which enable partners to meet program compliance requirements.
-2. [GitLab Channel Service Packages](https://partners.gitlab.com/prm/English/c/Services): Partners can utilize GitLab Channel Service Packages to assist their teams as they build the service offerings, market and sell their services, and support their service business growth.
-
-
-#### Becoming a Service Partner
-
-All GitLab Service Partner Designations have program compliance and training requirements that must be completed before you can obtain the associated badge.
-
-The GitLab Channel team will communicate the award in email, and reflect the certification in the GitLab Partner Locator.
-
-All GitLab Service Partner Badges are reviewed periodically. Non-compliant partners at the time of the review will have one quarter to return to compliance.
-
-
-#### GitLab Professional Services Partner Requirements
+The foundation of the GitLab Partner Services Program consists of two elements on which partners can build upon to start or grow their GitLab-related service portfolio:
 
 
 
+1. [Designations](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide): GitLab offers the GitLab Professional Services Partner Designation (PSP), which includes training for service delivery teams which enable partners to meet program compliance requirements.
+2. [GitLab Service Development Framework](https://partners.gitlab.com/prm/English/c/Services): Partners can utilize GitLab Service Development Framework to assist their teams as they build the service offerings, market and sell their services, and support their service business growth.
 
 
-![alt_text](images/image1.png "image_tooltip")
+#### Becoming a Desigtnated GitLab Professional Services Partner (PSP)
+
+GitLab Professional Services Partner Designation (PSP) has partner program, competency, and delivery requirements that must be completed before you can obtain the designation. PSP designations will be awarded on a monthly basis to partners who complete the requirements below. 
+
+The GitLab Partner team will communicate new PSP designations in email, and reflect the designation in the GitLab Partner Locator.
+
+GitLab PSP Designations are reviewed annually. Non-compliant partners at the time of the annual review will have their designations removed.
+
+PSP organizations can find their original award date in their GitLab Partner Portal profile. 
+
+
+#### GitLab PSP Designation Requirements
 
 
 
-| GitLab Professional Services Partner Requirements |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+
+| GitLab Designated Professional Services Partner (PSP) Requirements |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Program Entry Requirements                        | Each PSP must be:<br>1\. Be an Open or Select GitLab Partner or GitLab Distribution Partner<br><br>2\. Design, build and operate a professional service practice, and<br><br>3\. Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through the completion of the competency requirements                                                                                                                                                                                                                        |
-| Competency Requirements                           | Each PSP must remain compliant with either the Open, Select, or Distribution programs, and perpetually employ at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse).<br>1\. Partner organizations who achieved their PSP prior to Nov. 4, 2021, are required to have three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse) on staff prior to November 1, 2022 |
-| Service Offerings                                 | Any or all of the following services can be provided by a PSP:<br>\- Assessment<br>\- Migration<br>\- Integration<br>\- Implementation<br>\- Optimization<br>\- Security/Compliance                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Compliance Requirements                           | [Each PSP must:<br>\- Hire and continually employ team members who achieve and maintain the competency requirements<br>\- Maintain positive Customer Success ratings measured against the following](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) [Time-to-Value KPIs](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) that GitLab uses for its metrics: Infrastructure Ready, First Value, & Outcome Achieved.                                                                                                     |
+| Program Entry Requirements                        | Each PSP must be:<br>1\. Be an Open or Select GitLab Partner or GitLab Distribution Partner<br><br>2\. Design, build and operate a professional service practice, and<br><br>3\. Meet the Delivery requirements. And, Hire team members who have completed the competency requirements and/or sponsor the appropriate number of team members through the completion of the competency requirements.                                                                                                                                                                                                                        |
+| Competency Requirements                           | Each PSP must remain compliant with either the Open, Select, or Distribution programs, and perpetually employ at least three (3) [GitLab Certified Professional Service Engineers](https://about.gitlab.com/handbook/resellers/training/#gitlab-professional-services-engineer-pse).<br>\ |
+
+| Delivery Requirements                           | [Each PSP must:<br>\- Enter an average of at least 2 [Service Attach Registrations](https://about.gitlab.com/handbook/resellers/channel-working-with-GitLab/#how-services-attached-registrations-work) per fiscal quarter<br>\When partners who have completed the competency requirements also complete their first two service attach registrations, they will receive their PSP designation at the next monthly award cadence.|   
+                                                                                                 |
 
 
 
 
 
-#### Maintaining Service Partner Badges
+#### Maintaining PSP Designation
 
-At GitLab, collaboration and feedback is meant to nurture and mentor our service partners to grow their service capabilities and expertise. The program will utilize our internal [customer success metrics](https://about.gitlab.com/handbook/customer-success/vision/#measurement-and-kpis) to measure and understand the GitLab customer experience across the entire ecosystem and help further develop our service partners. In order to work together in this process, we will ask each service partner to provide evidence (as stated in the program descriptions above) to support the periodic review for your customer set one month before it is due.
-
-GitLab Channel Partner program will review the GitLab Service Partners’ customer success rating and practitioner certification status each year in the month the partner was originally granted certification. Partners will be notified with the outcome of the review and the resulting status of their badge. If the partner needs to make further investments to stay in good standing with regards to Service Partner badge, the email will indicate the existing status and state the expected status with a due date when compliance is required to renew your GitLab Service Partner Badge. Partners can work with their GitLab Channel Account Manager (CAM) to create a plan for obtaining and maintaining badges.
+GitLab Partner program will review the GitLab Professional Service Partners’ service attach registrations and practitioner certification status each year in the month the partner was originally granted certification. Partners will be notified with the outcome of the review and the resulting status of their designation via email. If partners are not compliant at their annual review date the GitLab Partner program team will remove the PSP designation in the GitLab Partner Portal profile. Partners can work with their GitLab Channel Account Manager (CAM) to create a plan for obtaining and maintaining designation.
 
 
 ### GitLab Channel Partner Program Guide
