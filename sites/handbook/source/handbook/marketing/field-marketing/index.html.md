@@ -250,7 +250,15 @@ The following is the process for when a Field Marketing issue moves from `mktg-s
 
 ## SLAs
 
-FMMs are to provide a 3 business day lead time for contract requests and a 5 business day lead time for all plan to WIP requests in order to give their FMCs time to complete the requests. Also keep in mind that we have a 5 business day [SLA with Marketing Ops](/handbook/marketing/marketing-operations/campaign-operations/#slas), so please plan ahead accordingly.
+Please plan your timelines accordingly based on the below SLAs. Keep in mind these SLAs must also include additional time for any Friends & Family Days or holidays.
+
+*FMMs - For the asset copy process, please allow for a total of 8 business days (which encompasses the SLAs below).* 
+
+- **Contract Requests:** 3 business days
+- **Plan to WIP Requests** - 5 business days
+- **Copy to FMCs for Review** - 24 hours
+- **Triage Request to Triage Manager** - 24 hours
+- **Marketing Operations Requests** - [5 business days](/handbook/marketing/marketing-operations/campaign-operations/#slas) (not including the day the triage request is sent)
 
 ## Items required by FMM to request moving an issue from Plan to WIP
 
@@ -283,6 +291,26 @@ Once the FMM has submitted the Contract Request to their FMC and the remaining a
 
 ### Plan to WIP video walk through
 [Plan to WIP Video](https://youtu.be/7l59sm_5aD4) - You must be logged into GitLab Unfiltered to view.
+
+# Field Marketing Event Copy Deadline Process
+
+Please review [SLAs](/handbook/marketing/field-marketing/#slas) above.
+
+- FMM to assign FMC in main event issue.
+- FMC to attach their regional event tracking label to the event issue.
+- FMM and FMC to follow the [Process for Issues Moving from Plan to WIP](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
+- FMC to create a [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) and fill in the requested copy due dates for each asset the FMM has requested in the FMC checklist, and then attach the issue to the epic.
+- FMM to update the Copy Document file the FMC created for them (linked in the epic) with copy for each asset. Previous Copy Documents for reference are available in the [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH).
+- Once the FMM completes copy, they will ping the FMC in the [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) to notify them which asset copy has been completed.
+- If copy has not been completed for an asset yet, (1) business day before copy is due, the FMC will ping the FMM in [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with a copy due reminder.
+- FMC will make sure copy has been provided or continue to remind the FMM, if needed.
+
+# Lead List Deadline Process
+
+- FMC to create the [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) issue during the [plan to WIP process](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip)
+- FMC to assign a due date of 2 business days post-event
+- One (1) business day after the issue is due, FMC to ping the FMM in the list clean and upload issue to remind them leads are due
+- FMC will make sure leads have been provided or continue to remind the FMM, if needed
 
 # Rescheduling or Canceling Events
 
@@ -450,24 +478,6 @@ Please note that due to PII compliancy, addresses collected in Marketo landing p
 
 ## Removing PII from Marketo
 Once the report is downloaded (or the event/tactic has ended and all swag has been sent), Marketing Ops will then also delete the PII information directly in Marketo. To request this support, please review [this page](/handbook/marketing/marketing-operations/marketo/#list-exports) and open an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request) to specify when a list pull and PII deletion is needed. Also remember to delete PII from any order spreadsheets once swag has shipped.
-
-# Field Marketing Event Copy Deadline Process
-
-- FMM to assign FMC in main event issue.
-- FMC to attach their regional event tracking label to the event issue.
-- FMM and FMC to follow the [Process for Issues Moving from Plan to WIP](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip).
-- FMC to create a [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) and fill in the requested copy due dates for each asset the FMM has requested in the FMC checklist, and then attach the issue to the epic.
-- FMM to update the Copy Document file the FMC created for them (linked in the epic) with copy for each asset. Previous Copy Documents for reference are available in the [Event Support Folder](https://drive.google.com/drive/folders/1S-4PVueBj7FPAE9fB-IKz_Bbuz17rPtH).
-- Once the FMM completes copy, they will ping the FMC in the [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) to notify them which asset copy has been completed.
-- If copy has not been completed for an asset yet, (1) business day before copy is due, the FMC will ping the FMM in [Write Copy Issue](https://gitlab.com/gitlab-com/marketing/field-marketing/-/blob/master/.gitlab/issue_templates/write-copy.md) with a copy due reminder.
-- FMC will make sure copy has been provided or continue to remind the FMM, if needed.
-
-# Lead List Deadline Process
-
-- FMC to create the [List Clean and Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/issues/new?issuable_template=event-clean-upload-list) issue during the [plan to WIP process](/handbook/marketing/field-marketing/#process-for-issues-moving-from-plan-to-wip)
-- FMC to assign a due date of 2 business days post-event
-- One (1) business day after the issue is due, FMC to ping the FMM in the list clean and upload issue to remind them leads are due
-- FMC will make sure leads have been provided or continue to remind the FMM, if needed
 
 # Field Marketing Swag
 
