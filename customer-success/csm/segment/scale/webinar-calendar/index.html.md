@@ -16,27 +16,9 @@ Watch previously recorded webinars on our [YouTube Playlist](https://www.youtube
 
 # Upcoming Webinars
 
-We’d like to invite you to our free upcoming webinars and workshops in the months of October and November.
+We’d like to invite you to our free upcoming webinars and workshops in the month of November.
 
 If you know someone who might be interested in attending, feel free to share the registration links with them. Everyone is welcome, and we hope to see you there!
-
-## October 2023
-
-#### DevSecOps/Compliance
-##### October 31st, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_hOI6GSkQSAK-feMJ4YVxww#/registration)
-
-### EMEA Time Zone Webinars
-
-#### DevSecOps/Compliance
-##### October 31st, 2023 at 9:00-10AM UTC / 11:00AM-12:00PM CET
-
-GitLab enables developers and security to work together in a single tool, allowing for proactive security or “shifting left”. This session will cover what GitLab offers, how scan results integrate seamlessly with merge requests, and how to use the Security Dashboard to manage vulnerabilities.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_h48TyGjBROGwkt9tDIoZuA#/registration)
 
 ## November 2023
 
