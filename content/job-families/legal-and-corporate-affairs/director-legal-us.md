@@ -8,7 +8,7 @@ The Director(s) of Legal are responsible for advising clients across GitLab on l
 
 ### Director, Legal Job Grade
 
-The Director, Legal is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director, Legal Responsibilities
 
@@ -35,7 +35,7 @@ The Director, Legal is a [grade 10](https://about.gitlab.com/handbook/total-rewa
 
 ### Senior Director, Legal Job Grade
 
-The Senior Director, Legal is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Legal is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director, Legal Responsibilities
 
@@ -78,7 +78,7 @@ The Director of Legal, Employment collaborates with clients across GitLab on a b
 
 ### Senior Director of Legal, Risk Management & Dispute Resolution
 
-The Senior Director of Legal, Risk Management & Dispute Resolution reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Risk Management & Dispute Resolution will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
+The Senior Director of Legal, Risk Management & Dispute Resolution reports to the [Chief Legal Officer, Head of Corporate Affairs and Corporate Secretary](/job-families/legal-and-corporate-affairs/chief-legal-officer/), and is responsible for providing counsel and guidance related to litigation, claims, and dispute resolution. As part of their role, the Senior Director of Legal, Risk Management & Dispute Resolution will collaborate with key leaders across GitLab in order to manage a variety of projects related to risk management and dispute resolution.
 
 ### Senior Director of Legal, Risk Management & Dispute Resolution Responsibilities
 
@@ -137,7 +137,7 @@ The next step in the Director, Legal job family is the Senior Director, Legal. T
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
 - Next, candidates will be invited to schedule an interview with our Chief Legal Officer
@@ -145,4 +145,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
 - Finally, candidates may be required to meet with the CEO.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

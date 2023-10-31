@@ -13,7 +13,7 @@ The Associate Sales Operatios Analyst reports to the Manager, Sales Operations.
 
 #### Job Grade
 
-The Associate Sales Operations Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Associate Sales Operations Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Associate Sales Operations Analyst Responsibilities
 
@@ -36,7 +36,7 @@ The Associate Sales Operations Analyst is a [grade 5](https://about.gitlab.com/h
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 ### Sales Operations Analyst
@@ -45,7 +45,7 @@ The Sales Operations Analyst reports to the Manager, Sales Operation.
 
 #### Job Grade
 
-The Sales Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Sales Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Sales Operations Analyst Responsibilities
 
@@ -97,7 +97,7 @@ The Sales Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/to
 
 #### Job Grade
 
-The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Sr. Sales Operations Analyst & Sr. Sales Operations Manager are a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Sr. Sales Operations Analyst Responsibilities
 
@@ -151,7 +151,7 @@ The Manager, Sales Operations reports to the Director, Sales Operations.
 
 #### Job Grade
 
-The Manager, Sales Operations is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Sales Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Sales Operations Responsibilities
 
@@ -183,7 +183,7 @@ The Manager, Sales Operations is a [grade 8](https://about.gitlab.com/handbook/t
 - SaaS and B2B experience preferred
 - Interest in GitLab, and open source software
 - You share our values and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ### Senior Manager, Sales Operations
 
@@ -191,7 +191,7 @@ The Senior Manager, Sales Operations reports to the Director, Sales Operations.
 
 #### Senior Manager, Sales Operations Job Grade
 
-The Senior Manager, Sales Operations is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Sales Operations is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Manager, Sales Operations Responsibilities
 
@@ -212,7 +212,7 @@ The Director, Sales Operations reports to the Sr. Director, Sales Operations.
 
 #### Director, Sales Operations Job Grade
 
-The Director, Sales Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director, Sales Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Sales Operations Responsibilities
 
@@ -237,7 +237,7 @@ The Director, Sales Operations is a [grade 10](https://about.gitlab.com/handbook
 - Interest in GitLab, and open source software
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ### Senior Director, Sales Operations
 
@@ -245,7 +245,7 @@ The Senior Director, Sales Operations reports to the [VP, Field Operations](/job
 
 #### Senior Director, Sales Operations Job Grade
 
-The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Director, Sales Operations is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Director, Sales Operations Responsibilities
 
@@ -271,7 +271,7 @@ The Senior Director, Sales Operations is a [grade 11](https://about.gitlab.com/h
 - Ability to coach, motivate, performance manage and recruit Sales Operations teams
 - Interest in GitLab, and open source software
 - You share our [values](/handbook/values/) and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ## Specialties
 
@@ -409,11 +409,11 @@ The next step in the Sales Operations job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - There may be a final executive interview for any IC role, there will be an executive interview for any Manager level role.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

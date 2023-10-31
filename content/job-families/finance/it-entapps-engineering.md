@@ -8,7 +8,7 @@ The IT Enterprise Applications Engineering job family is responsible for the imp
 
 ### IT Enterprise Applications Administrator
 
-IT Enterprise Applications Administrator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+IT Enterprise Applications Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
 
 ### IT Enterprise Applications Administrator Responsibilities
 
@@ -36,7 +36,7 @@ IT Enterprise Applications Administrator is a [grade 6](https://about.gitlab.com
 
 ### IT Enterprise Applications Engineer
 
-IT Enterprise Applications Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
+IT Enterprise Applications Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the IT Manager, Enterprise Applications Engineering.
 
 ### IT Enterprise Applications Engineer Responsibilities
 
@@ -93,7 +93,7 @@ Extends the IT Enterprise Applications Administrator responsibilities:
 
 ### Manager, IT Enterprise Applications Engineering
 
-Manager, IT Enterprise Applications Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/).
+Manager, IT Enterprise Applications Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
 
 ### Manager, IT Enterprise Applications Engineering Responsibilities
 
@@ -123,16 +123,16 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ## Career Ladder
 
-The next step in the  Manager, IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the  Manager, IT Enterprise Applications Engineering job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
 - Second round interviews will involve interviews with 2 SMEs in the Business and or IT Team.
 - Third round interview is with the Senior Director, Enterprise Applications.
 - At the final stage candidates will meet with the VP of IT.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

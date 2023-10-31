@@ -43,7 +43,7 @@ The Senior Manager, Partner Sales is a [grade 9](/handbook/total-rewards/compens
 
 ## Career Ladder
 
-The Partner Sales career path is not clearly defined at this time. Please review other [Sales Roles](https://handbook.gitlab.com/job-families/sales/ to determine adjacent career paths.
+The Partner Sales career path is not clearly defined at this time. Please review other [Sales Roles](/job-families/sales/ to determine adjacent career paths.
 
 ## Hiring Process
 

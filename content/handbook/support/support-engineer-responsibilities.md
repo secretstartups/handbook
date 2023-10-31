@@ -15,9 +15,9 @@ description: A detailed listing of the responsibilities of Support Engineers in 
    will help you to know where to focus your efforts on a regular basis.
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
-     1. The People Group is responsible for the [GitLab annual review process](https://about.gitlab.com/handbook/people-group/360-feedback/).
+     1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
      1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
-1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
+1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](/handbook/company/okrs/).
 
 ## Support Engineer Areas of Focus
 
@@ -266,7 +266,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 ## Create and update issues for bugs and feature requests (Weekly)
 
-Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](https://about.gitlab.com/handbook/support/workflows/working-with-issues.html) helps achieve this.
+Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues.html) helps achieve this.
 
 **What does success look like?**
 
@@ -338,7 +338,7 @@ If you wish to participate in any of these activities, please discuss it with yo
 
 We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
-The GitLab [Learning and Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Support Engineers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 

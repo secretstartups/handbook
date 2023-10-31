@@ -5,7 +5,7 @@ title: "Coaching"
 ## Coaching at GitLab
 
 Coaching conversations are fluid, dynamic acts of co-creation where the coach and the coachee are equal partners. Coaching is an important component of our [360 review process](/handbook/people-group/360-feedback/) and for [guidance on feedback](/handbook/people-group/guidance-on-feedback/). Coaching can occur during
-[one-on-one meetings]({{< ref "1-1" >}}) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams]({{< ref "leading-through-adversity" >}}), [building an inclusive culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](/handbook/engineering/career-development/mentoring/), and much more.
+[one-on-one meetings]({{< ref "1-1" >}}) or at any time. It is an important component of [career development](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1), [leading teams]({{< ref "leading-through-adversity" >}}), [building an inclusive culture](/handbook/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers), [mentoring](https://about.gitlab.com/handbook/engineering/career-development/mentoring/), and much more.
 
 ## Selecting a coach
 
@@ -123,7 +123,7 @@ Encourage and show enthusiasm by identifying strengths in the coachee to build t
 
 - Acknowledging: Focuses on the coachee - who they are as a person and what they have done in their life, their inner character. Make the coachee feel unique and that you recognize what sets them apart.
 - Appreciating: Focuses on the positive impact and contribution of the deed to others.
-- Praising: Focuses on the deed, what people do - [results]({{< ref "values#results" >}}), [transparency]({{< ref "values#transparency" >}}), [efficiency]({{< ref "values#efficiency" >}}), [inclusion](https://about.gitlab.com/company/culture/inclusion/), and performance.
+- Praising: Focuses on the deed, what people do - [results]({{< ref "values#results" >}}), [transparency]({{< ref "values#transparency" >}}), [efficiency]({{< ref "values#efficiency" >}}), [inclusion](/handbook/company/culture/inclusion/), and performance.
 {{% /details %}}
 
 {{% details summary="Challenge" %}}
@@ -150,7 +150,7 @@ Focus on the other person without judgment. Give your coachee your undivided att
 
 ### Different hats for different conversations
 
-Coaching is just one mode of conversation you might use as a [leader]({{< ref "_index.md" >}}). You may be a team lead running an engineering program. You may be managing [one of our TMRG's](https://about.gitlab.com/company/culture/inclusion/erg-guide/). You may [be a mentor](https://about.gitlab.com/handbook/engineering/career-development/mentoring/) or [an onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Think of these roles as wearing `different hats.`
+Coaching is just one mode of conversation you might use as a [leader]({{< ref "_index.md" >}}). You may be a team lead running an engineering program. You may be managing [one of our TMRG's](/handbook/company/culture/inclusion/erg-guide/). You may [be a mentor](https://about.gitlab.com/handbook/engineering/career-development/mentoring/) or [an onboarding buddy](/handbook/people-group/general-onboarding/onboarding-buddies/). You are also most likely a direct report of someone else. Think of these roles as wearing `different hats.`
 
 You may wear multiple hats in any given day:
 

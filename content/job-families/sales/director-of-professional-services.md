@@ -9,11 +9,11 @@ The Professional Services Manager contributes to and executes the strategic visi
 
 | Title | Grade |
 |---|---|
-| [Regional Manager, Professional Services](#regional-manager-professional-services) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Regional Manager, Professional Services](#senior-regional-manager-professional-services) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Professional Services](#director-of-professional-services) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Director, Professional Services](#senior-director-of-professional-services) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Vice President, Professional Services](#vice-president-of-professional-services) | [Grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+| [Regional Manager, Professional Services](#regional-manager-professional-services) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Regional Manager, Professional Services](#senior-regional-manager-professional-services) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Professional Services](#director-of-professional-services) | [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Director, Professional Services](#senior-director-of-professional-services) | [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Vice President, Professional Services](#vice-president-of-professional-services) | [Grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ## Regional Manager, Professional Services
 
@@ -96,7 +96,7 @@ The Senior Manager, Professional Services reports into the Director, Professiona
 - Ability to be an evangelist for GitLab customers and serve according to GitLab’s values
 - Ability to travel up to 20%
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Director of Professional Services
 

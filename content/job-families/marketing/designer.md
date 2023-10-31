@@ -9,7 +9,7 @@ As a designer for GitLab you would be responsible for creating and maintaining o
 
 ### Job Grade
 
-The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Designer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -24,7 +24,7 @@ The Junior Designer is a [grade 5](https://about.gitlab.com/handbook/total-rewar
 
 ### Job Grade
 
-The Intermediate Designer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate Designer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

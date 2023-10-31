@@ -11,7 +11,7 @@ The Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Analyst Relations Manager Job Grade
 
-The Analyst Relations Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst Relations Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Analyst Relations Manager Requirements
 
@@ -48,7 +48,7 @@ The Senior Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Senior Analyst Relations Manager Job Grade
 
-The Senior Analyst Relations Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Analyst Relations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Analyst Relations Manager Responsibilities
 
@@ -72,7 +72,7 @@ The Staff Analyst Relations Manager reports to Manager, Analyst Relations.
 
 #### Staff Analyst Relations Manager Job Grade
 
-The Staff Analyst Relations Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Analyst Relations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Analyst Relations Manager Requirements
 
@@ -92,7 +92,7 @@ The Staff Analyst Relations Manager is a [grade 8](https://about.gitlab.com
 
 #### Principal Analyst Relations Manager Job Grade
 
-The Principal Analyst Relations Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Analyst Relations Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 The Principal Industry Analyst Relations is responsible for executing the strategic industry analyst relations plan. This is a results-oriented role with a strong knowledge of analyst relations best practices and a keen eye for detail. The Principal Industry Analyst Relations collaborates closely with the Director of Analyst Relations and Product Marketing and Product Management to ensure the GitLab brand is represented fairly in all relevant research reports. This is an independent contributor role reporting to the Senior Director of Corporate Communications.
 
@@ -137,7 +137,7 @@ Events
 
 #### Director of Industry Analyst Relations Job Grade
 
-The Director of Industry Analyst Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Industry Analyst Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 The Director of Industry Analyst Relations is responsible for the strategy and implementation of the industry analyst relations program, cultivating strategic relationships and creating mindshare with key analysts through education, customer references, and two-way communication around key product updates. This leader plays a critical role in GitLab achieving its long-term growth vision by helping to shape analyst perceptions of the outcomes we enable customers to achieve and how we serve customers in ways other companies can’t. The Director of Industry Analyst Relations collaborates closely with Product Marketing, Product Management, and key executives. This is an independent contributor role reporting to the Senior Director of Corporate Communications.
 
@@ -181,12 +181,12 @@ The next step in the Analyst Relations job family is not yet defined at GitLab.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45 minute interview with the Senior Director, Communications
 - Candidates will then be invited to schedule a 45 minute interview with our VP, Global Communications
 - Finally, selected candidates may be asked to interview with our CMO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

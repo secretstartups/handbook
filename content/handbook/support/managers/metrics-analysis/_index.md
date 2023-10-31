@@ -18,9 +18,9 @@ description: "Support team metrics analysis workgroup overview"
 
 ### KPIs that triggered this action
 
-- [Support Satisfaction (SSAT)](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat): Target 95%
+- [Support Satisfaction (SSAT)](/handbook/support/performance-indicators/#support-satisfaction-ssat): Target 95%
   - Trending down since May: [Support Metrics::SSAT](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10099352) in Explore (GitLab internal)
-- [Service Level Agreement (SLA)](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+- [Service Level Agreement (SLA)](/handbook/support/performance-indicators/#service-level-agreement-sla)
   - First Reply Time: Target 95%
     - Trending down since May: [Support Metrics::SLA](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/10100682) in Explore (GitLab internal)
 

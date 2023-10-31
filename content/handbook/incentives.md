@@ -287,7 +287,7 @@ All team members can make nominations for both The DZ Award and Values Awards. W
 
 ## Referral Bonuses
 
-Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](https://about.gitlab.com/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have [Referral Bonuses](/handbook/hiring/referral-process/) that work as follows:
+Chances are that if you work at GitLab, you have great friends and peers who would be fantastic additions to our [Team](/handbook/company/team/) and who may be interested in joining our team. To help us grow with exceptional people, we have [Referral Bonuses](/handbook/hiring/referral-process/) that work as follows:
 
 We encourage and support [diversity]({{< ref "values#diversity-inclusion" >}}) and [frugality]({{< ref "values#frugality" >}}) on our team and in our hiring practices, so we will offer the following referral bonuses once the new team member has been with the company for 3 months. We will award the highest cumulative dollar amount as outlined below:
 
@@ -300,7 +300,7 @@ The following is an *example* of a cumulative Referral Bonus:
 - Who self-identifies as a member of a ["select underrepresented group"](/culture/inclusion/#examples-of-select-underrepresented-groups): + $1,500
 - Cumulative referral bonus to the referring team member: **$3,000**
 
-Please note if the referral bonus was submitted **before 2022-06-01**, then the [here](https://about.gitlab.com/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team) mentioned referral bonus amounts apply.
+Please note if the referral bonus was submitted **before 2022-06-01**, then the [here](/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team) mentioned referral bonus amounts apply.
 
 ### How to make a referral
 
@@ -315,13 +315,13 @@ If a team member has been referred, the People Connect team will review team mem
 - no bonus for referring a Boomerang Team Member (returning team member),
 - no bonus if the referring Team Member is a part of the Talent Acquisition team - they are not eligible given the nature of their position is to engage candidates.
 - no bonus if there's a perceived conflict of interest.
-- no bonus for VP level [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or the [Executive Group](https://about.gitlab.com/company/team/structure/#executives).
+- no bonus for VP level [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or the [Executive Group](/handbook/company/team/structure/#executives).
 - no bonus if the referral is an intern. You will be paid a referral bonus if the referral(intern) is converted to a full-time, intermediate-level team member.
 - no bonus for a referring team member will be applicable if the team members employment is terminated prior to the referral bonus payout date. You need to be an active team member.
 - In the event that more than one GitLab employee refers the same team member for the same role the People Ops team will ask the new team member to confirm who they were referred by (who should get the credit). If they mention two or more people then the bonus will be split between them.
 - In the event that someone wants to refer another candidate to GitLab before they have started, the referring party must have a signed contract at the time of the new candidate's application.
 - In the event that a GitLab sourcer adds a candidate to GreenHouse and the recruiter screens the candidate a referring party cannot be added to their profile after. The candidate source would be Prospecting by the GitLab sourcer.
-- If the referral was submitted on or before 2022-06-01, then refer to the bonus amounts as listed under [Referral Operations](https://about.gitlab.com/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team).
+- If the referral was submitted on or before 2022-06-01, then refer to the bonus amounts as listed under [Referral Operations](/handbook/hiring/referral-operations/#adding-a-referral-to-workday-people-connect-team).
 
 ### Referral Bonus Processing
 
@@ -347,7 +347,7 @@ The Get Together Grant is currently paused. Stay tuned to the [#whats-happening-
 In FY24, each E-Group member has been allocated a budget (can be for a specific quarter or split out between FY24-Q2 to FY24-Q4 as decided upon by the E-Group member in coordination with Finance) for team building events. Each E-Group member can use their discretion when using the budget. This budget should cover leadership offsites, team member get togethers, holiday parties, and other virtual events to drive team bonding.
 
 {{% details summary="See the previous process for reference" %}}
-Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, and August we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. In the fourth quarter, we will have a [holiday grant](https://about.gitlab.com/handbook/finance/expenses/#-year-end-holiday-party-budget) that will be coordinated by your E-group leader.  To take part in the grant, check out the following details:
+Start your quarter off by getting to know someone new at GitLab, or meeting someone in person for the first time! During the first month of every quarter in Feb, May, and August we invite team members to use a Get Together Grant to meet up with a team member either in person or virtually. In the fourth quarter, we will have a [holiday grant](/handbook/finance/expenses/#-year-end-holiday-party-budget) that will be coordinated by your E-group leader.  To take part in the grant, check out the following details:
 
 1. Each team member can expense up to $50 USD each quarter on a meal, activity, and/or ground transportation to spend time with a GitLab team member in-person. Or, up to $25 USD each quarter for a virtual Get Together on a remote activity, remote coffees or remote meals (yes, this means you can have a real coffee for your remote coffee chat).
 1. To use the grant, get together with a team member and expense up to $50 USD for in-person meet-ups or $25 USD for virtual meet-ups in Expensify by selecting the Get Together Grant category in the dropdown the first month of every quarter (Feb, May, Aug) and writing whether your get together was live or virtual in the line items. The expense report must be submitted within 1 month of the Get Together.
@@ -372,11 +372,11 @@ All Visiting Grant and Significant Life Event Grant programs remain suspended.
 
 ### FY23-Q3 Visiting Grant Program (completed)
 
-We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute's purpose was to "get [team members](/company/team/) together to interact with one another and cultivate our community." We introduced the FY23-Q3 Visiting Grants as a way to capture the spirit of this, by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
+We canceled Contribute FY23-Q3 due to the COVID risk to team members in having a large, global event in an indoor facility in the middle of summer. Contribute's purpose was to "get [team members](/handbook/company/team/) together to interact with one another and cultivate our community." We introduced the FY23-Q3 Visiting Grants as a way to capture the spirit of this, by providing team members with another opportunity to spend time together within FY23-Q3 (2022-08-01 to 2022-10-31).
 
 ### The Original Visiting Grant Program (suspended)
 
-Please note in FY21-Q1, GitLab suspended the Original Visiting Grant program until further notice. GitLab is an [all-remote company](https://about.gitlab.com/company/culture/all-remote/) with GitLab team-members all over the world. If you want to visit other team members to get to know them, GitLab will assist with travel expenses (flights, trains, and ground transportation to and from the airport) for a total of up to $150 for every team member that you visit and work with. Please note lodging is excluded. To be clearer, if you meet 2 [GitLab team members]({{< ref "top-misused-terms" >}}) during your visit, the maximum limit of your visiting grant could be $150x2. You don't need to work on the same project or team, either, so long as you discuss work for at least part of the time you're meeting. Before booking any travel using the travel grant budget please discuss your proposed travel with your manager. We encourage team members to utilize the travel grant, however in some cases - for example, a team member has performance issues related to their role - the visiting grant would not be applicable.
+Please note in FY21-Q1, GitLab suspended the Original Visiting Grant program until further notice. GitLab is an [all-remote company](/handbook/company/culture/all-remote/) with GitLab team-members all over the world. If you want to visit other team members to get to know them, GitLab will assist with travel expenses (flights, trains, and ground transportation to and from the airport) for a total of up to $150 for every team member that you visit and work with. Please note lodging is excluded. To be clearer, if you meet 2 [GitLab team members]({{< ref "top-misused-terms" >}}) during your visit, the maximum limit of your visiting grant could be $150x2. You don't need to work on the same project or team, either, so long as you discuss work for at least part of the time you're meeting. Before booking any travel using the travel grant budget please discuss your proposed travel with your manager. We encourage team members to utilize the travel grant, however in some cases - for example, a team member has performance issues related to their role - the visiting grant would not be applicable.
 
 Note that meals and local travel while visiting are not typically covered for anyone as that wouldn't really be fair to those being visited. It may be acceptable to cover a meal, however, if the meeting is pre-announced to other people in the region to encourage as many of them to attend as possible and there are four or more GitLab team-members attending.
 
@@ -388,7 +388,7 @@ To claim the grant, include a line item on your expense report or invoice along 
 
 ### Significant Life Event Grants (suspended)
 
-As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](https://about.gitlab.com/handbook/finance/expenses/) accordingly.
+As we continue to prioritize the health and safety of our team members, GitLab is temporarily suspending the Significant Life Event Grant program until further notice.  We continue to monitor the situation and will update this information and the [travel policy](/handbook/finance/expenses/) accordingly.
 
 Recognizing that [GitLab Team Members]({{< ref "top-misused-terms" >}}) may wish to share significant events in each other's lives, such as weddings or civil partnerships, GitLab will assist with travel expenses to attend these events. This grant works the same way as the [Visiting Grant](#visiting-grant), except the reimbursement limit is $300 per team member you visit at an event.
 

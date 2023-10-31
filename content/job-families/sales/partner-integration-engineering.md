@@ -12,7 +12,7 @@ The Associate Partner Integration Engineer reports to Manager, Partner Integrati
 
 #### Associate Partner Integration Engineer Job Grade
 
-The Associate Partner Integration Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Partner Integration Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Partner Integration Engineer Responsbilities
 
@@ -24,7 +24,7 @@ The Partner Integration Engineer reports to Manager, Partner Integration Enginee
 
 #### Partner Integration Engineer Job Grade
 
-The Partner Integration Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Partner Integration Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Partner Integration Engineer Responsbilities
 
@@ -57,7 +57,7 @@ The Partner Integration Engineer is a [grade 6](https://about.gitlab.com/handboo
   - Application performance monitoring
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Manager, Partner Integration Engineers
 
@@ -65,7 +65,7 @@ The Manager, Partner Integration Engineers reports to Director, Partner Solution
 
 #### Manager, Partner Integration Engineers Job Grade
 
-The Manager, Partner Integration Engineers is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Partner Integration Engineers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Partner Integration Engineers Responsbilities
 
@@ -115,11 +115,11 @@ The next steps for the Partner Integration Engineering job family is not yet def
 
 ## Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

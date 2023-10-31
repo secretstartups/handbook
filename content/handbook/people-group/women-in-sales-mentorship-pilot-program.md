@@ -5,7 +5,7 @@ description: "The GitLab Women in Sales Mentorship Program pilot aims to create 
 
 ## Women in Sales Mentorship Program Pilot
 
-As discussed in [GitLab’s Remote Playbook](https://about.gitlab.com/company/culture/all-remote/), the intentionality behind communication, especially in remote settings, is a critical element of success. This pilot program aims to support GitLab’s communications plan by purposefully creating and cultivating opportunities for mentors, mentees, and connection.
+As discussed in [GitLab’s Remote Playbook](/handbook/company/culture/all-remote/), the intentionality behind communication, especially in remote settings, is a critical element of success. This pilot program aims to support GitLab’s communications plan by purposefully creating and cultivating opportunities for mentors, mentees, and connection.
 
 The goal of the Women in Sales Pilot Program is to provide mentorship opportunities to women in Sales as a ***pilot***. If successful, we will consider an expansion to other groups across the company. In the spirit of [iteration]({{< ref "values#iteration" >}}), we would like to get started soon and expand and improve as we go.
 
@@ -142,7 +142,7 @@ You are eligible to apply for the program if you meet the requirements below:
 - A. No, participation in this program does not guarantee a promotion. Benefits for mentees include: Increased visibility with leadership in various areas of the organization, increased professional development opportunities, career coaching and guidance, and opportunity to form relationships with leaders on other teams. You can review these benefits in the [Program Benefits](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/source/handbook/people-group/women-in-sales-mentorship-pilot-program/index.html.md#program-benefits) section above.
 
 
-Interested in what other mentorship opportunities exist at GitLab? Check out the [Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/) pilot program!
+Interested in what other mentorship opportunities exist at GitLab? Check out the [Minorities in Tech](/handbook/company/culture/inclusion/erg-minorities-in-tech/mentoring/) pilot program!
 
 ## Reverse Ask Me Anything
 

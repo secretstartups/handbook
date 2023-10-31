@@ -33,13 +33,13 @@ When traveling, there is the possibility that customs, border control, or other 
 For additional security specifically when traveling through an airport, the following advice is provided:
 
 - Completely power-off laptops and mobile devices before any security checkpoints. This reduces the risk of attacks that may be conducted against machines in a sleep mode, where the disk encryption is not being actively enforced.
-- Prior to the trip, remove any sensitive data from your local machine that is not absolutely required. Refer to the [Data Classification Standards](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-standards) for more information.
+- Prior to the trip, remove any sensitive data from your local machine that is not absolutely required. Refer to the [Data Classification Standards](/handbook/security/data-classification-standard.html#data-classification-standards) for more information.
 - If you are traveling through an [embargoed country](https://about.gitlab.com/handbook/sales/#export-control-classification-and-countries-we-do-not-do-business-in), do not bring any company-owned devices with you. If you must bring one, contact the legal department to discuss.
 - If you are aware of any circumstances with your travel that may present a unique security risk (such as traveling to speciality conferences like Defcon), you may request advice in the [#security-department](https://gitlab.slack.com/archives/CM74JMLTU) Slack channel.
 
 ## Travel Insurance
 
-GitLab offers travel insurance for business travel. Full details of GitLab's Business Travel Accident Policy can be found in the [benefits section](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#business-travel-accident-policy).
+GitLab offers travel insurance for business travel. Full details of GitLab's Business Travel Accident Policy can be found in the [benefits section](/handbook/total-rewards/benefits/general-and-entity-benefits/#business-travel-accident-policy).
 
 ## Emergency Travel Assistance While Traveling Abroad for Work
 
@@ -53,6 +53,6 @@ Emergency Medical, Safety, and Security Assistance is available to all GitLab te
 
 ## Expenses While Traveling
 
-Understand the guidelines of our [Global Travel and Expense Policy](https://about.gitlab.com/handbook/finance/expenses/) before you travel.
+Understand the guidelines of our [Global Travel and Expense Policy](/handbook/finance/expenses/) before you travel.
 
 

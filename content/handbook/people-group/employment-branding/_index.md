@@ -14,7 +14,7 @@ This page outlines our approach to talent brand at GitLab.
 
 ## Defining our talent brand vision
 
-If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
+If we look 10 years into the future, we picture an iteration of GitLab that's a decade closer to achieving [our mission](/handbook/company/mission/) and that has continued to evolve. Our talent brand vision is meant to capture how we picture GitLab evolving over the decade ahead.
 
 ![Talent brand vision statement](/handbook/people-group/employment-branding/images/talent_brand_june_2022.png)
 
@@ -39,13 +39,13 @@ As we build GitLab into one of the world’s best workplaces, we will look to in
 1. **Everyone can contribute**
     - We’ve got big ambitions to make GitLab the [top DevSecOps platform](https://about.gitlab.com/solutions/devops-platform/) and need skilled contributors to get us there.
     - Our [mission]({{< ref "mission" >}}) makes it clear that we believe in a world where everyone can contribute. We make that possible at GitLab by [running our operations]({{< ref "using-gitlab-at-gitlab" >}}) on our product. This means everything is read-write by default.
-    - We operate around the world. We welcome people of all backgrounds to contribute to our success and have built [Diversity, Inclusion, and Belonging programs](/company/culture/inclusion/) and practices into all parts of our company.
+    - We operate around the world. We welcome people of all backgrounds to contribute to our success and have built [Diversity, Inclusion, and Belonging programs](/handbook/company/culture/inclusion/) and practices into all parts of our company.
 1. **Anyone can thrive**
     - Building a company where anyone can thrive means putting in place the programs needed for our team members to manage their [health, wealth, and well-being]({{< ref "benefits" >}}) regardless of location.
     - [Career development]({{< ref "career-development" >}}), clarity in expectations by having defined performance indicators, [learning & development]({{< ref "/handbook/people-group/learning-and-development" >}}), and access to opportunity are all things that are top of mind as we grow GitLab.
 1. **We foster a values-led, remote culture**
-    - Our [CREDIT values]({{< ref "values" >}}) drive a culture that’s built to operate in an [all-remote environment](/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture in a globally distributed environment.
-    - Our [handbook-led approach](https://about.gitlab.com/company/culture/all-remote/handbook-first/) and async working style highlight our values-led, remote culture.
+    - Our [CREDIT values]({{< ref "values" >}}) drive a culture that’s built to operate in an [all-remote environment](/handbook/company/culture/all-remote/guide/). Because we’re all-remote, we aim to stay at the forefront of best practices & building culture in a globally distributed environment.
+    - Our [handbook-led approach](/handbook/company/culture/all-remote/handbook-first/) and async working style highlight our values-led, remote culture.
 
 ## Key ways we bring this vision to life
 
@@ -108,7 +108,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 **Whether you're looking to embed video in a job ad, or create an asset to leverage in outreach, team member spotlight videos are an excellent way to provide first-hand perspectives. With a partnership with [Cinebody](https://www.cinebody.com/), we're able to build video projects and collect team member sentiment in one central place.**
 <br> - Send @cchiodo a Slack with more details about your video project including topic, use case, and team members to include
 <br> - Once videos are finalized (as notified by @cchiodo), create a video editing request in GitLab by using [this issue template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/digital-production/-/issues/new), applying the video-editing-request template, and tagging @cchiodo
-<br> - Asked to participate in a video? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/)
+<br> - Asked to participate in a video? Learn more about what you can expect by scrolling to the bottom of [this page](/handbook/hiring/gitlab-ambassadors/)
 
 </details>
 
@@ -118,7 +118,7 @@ As we create campaigns, post jobs, sponsor events, and attract top talent to Git
 <br> - [Builtin](https://builtin.com/company/gitlab), the online community for United States-based startups and national tech companies
 <br> - [Venturefizz](https://venturefizz.com/gitlab), one of the leading authorities for jobs & careers in the tech industry
 <br> - Write your own blog, or have a team member write it, and publish on the GitLab blog. Learn more about [how to contribute a blog to GitLab](https://about.gitlab.com/handbook/marketing/blog/#how-to-suggest-a-blog-post)
-<br> - Asked to participate in an article? Learn more about what you can expect by scrolling to the bottom of [this page](https://handbook.gitlab.com/handbook/hiring/gitlab-ambassadors/)
+<br> - Asked to participate in an article? Learn more about what you can expect by scrolling to the bottom of [this page](/handbook/hiring/gitlab-ambassadors/)
 
 </details>
 
@@ -260,7 +260,7 @@ We highly encourage team members to share the news about any GitLab employer awa
 
 ## All-remote work
 
-A foundational aspect of our talent brand is the flexibility and autonomy that all-remote work gives our team members. The Talent Brand Manager collaborates closely with the [All-Remote Marketing team]({{< ref "workplace" >}}) to raise awareness about remote work and tell the stories of how it's impacted the lives of our team members. Learn more about GitLab's approach to remote work on our [all-remote page](https://about.gitlab.com/company/culture/all-remote/).
+A foundational aspect of our talent brand is the flexibility and autonomy that all-remote work gives our team members. The Talent Brand Manager collaborates closely with the [All-Remote Marketing team]({{< ref "workplace" >}}) to raise awareness about remote work and tell the stories of how it's impacted the lives of our team members. Learn more about GitLab's approach to remote work on our [all-remote page](/handbook/company/culture/all-remote/).
 
 ## Performance indicators
 

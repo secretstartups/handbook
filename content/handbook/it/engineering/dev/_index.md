@@ -18,9 +18,9 @@ See our [IT Engineering Development Direction](/handbook/it/engineering/dev/dire
 
 | Name                                                                        | Role                              |
 |-----------------------------------------------------------------------------|-----------------------------------|
-| [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis)              | Senior Manager, IT Engineering    |
-| [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)       | Senior IT Systems Engineer        |
-| [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler)      | Senior IT Systems Engineer        |
+| [Peter Kaldis](/handbook/company/team/#pkaldis)              | Senior Manager, IT Engineering    |
+| [Jeff Martin](/handbook/company/team/#jeffersonmartin)       | Senior IT Systems Engineer        |
+| [Dillon Wheeler](/handbook/company/team/#dillonwheeler)      | Senior IT Systems Engineer        |
 
 ## Repositories
 
@@ -54,7 +54,7 @@ From late 2019 to mid 2021, [Jeff Martin](https://gitlab.com/jeffersonmartin) wa
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------- |
 | [Demo Systems - Demo Cloud](https://about.gitlab.com/handbook/customer-success/demo-systems/)                              | <https://gitlabdemo.cloud>    | Provisioning user accounts on several always-on Omnibus instances used for demos and internal experiments.                                                                                                                         | None                                | Replace with Archie                             |
 | [Demo Systems - Training Cloud](https://about.gitlab.com/handbook/customer-success/demo-systems/#invitation-code-creation) | <https://gitlabdemo.com>      | Customer, marketing prospect, partner, and internal students redeem an invitation code to generate temporary credentials for performing training hands-on labs in different always-on Omnibus instances used for training classes. | Limited Maintenance                 | Rewrite for GitLab.com and Instruqt Integration |
-| [HackyStack / Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/)                   | <https://gitlabsandbox.cloud> | Provisioning AWS accounts, GCP projects, IAM users and roles, and automated Terraform scaffolding for sandbox experiments.                                                                                                         | 24x5 Support, Next-Gen Architecture | Discovery in Progress                           |
+| [HackyStack / Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/)                   | <https://gitlabsandbox.cloud> | Provisioning AWS accounts, GCP projects, IAM users and roles, and automated Terraform scaffolding for sandbox experiments.                                                                                                         | 24x5 Support, Next-Gen Architecture | Discovery in Progress                           |
 
 [Dillon Wheeler](https://gitlab.com/dillonwheeler) joined GitLab as an IT Systems Engineer in April 2021, and Jeff transferred over to IT in June 2021 and the Demo Systems and Sandbox Cloud projects became an IT Engineering managed service.
 

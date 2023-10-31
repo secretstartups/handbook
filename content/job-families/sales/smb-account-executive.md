@@ -6,7 +6,7 @@ description: "Learn more about SMB Account Executive roles at Gitlab including r
 
 ## Job Grade
 
-The SMB Account Executive is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The SMB Account Executive is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -130,7 +130,7 @@ Use discovery to help build a story and collect relevant information in order to
 
 - Which tools are they looking to replace with GitLab?
 - What is their primary driver for looking at GitLab in the first place?
-- A little bit on [Creating Value](https://about.gitlab.com/company/pricing/#value-creation)
+- A little bit on [Creating Value](/handbook/company/pricing/#value-creation)
 - Size and Scope
   - Scope- Find out how many components of GitLab they want to use
   - Size- The larger the organization, the more value GitLab provides
@@ -175,7 +175,7 @@ Below are some common drivers the SMB team has seen for a customer to gravitate 
 
 **Some resources for negotiation:**
 
-- [Our Pricing Model](https://about.gitlab.com/company/pricing/)
+- [Our Pricing Model](/handbook/company/pricing/)
 - [Common Negotiation Mistakes](https://about.gitlab.com/handbook/sales/training/)
 - [Pricing Approval Matrix](https://docs.google.com/document/d/1-8TG8YLAQB-465mFLYnX3wkB6C6-0aI1A4CzdfjpacU/edit?pli=1)
 - [Handling Price Objections](https://about.gitlab.com/handbook/sales/training/)
@@ -195,13 +195,13 @@ Below are some common drivers the SMB team has seen for a customer to gravitate 
 
 ## Career Ladder
 
-The next step in the SMB Account Executive job family is to move to the [Mid Market Account Executive](/job-families/sales/account-executive) job family or the [Sales Management](https://about.gitlab.com/job-families/sales/area-sales-manager/) Job Family.
+The next step in the SMB Account Executive job family is to move to the [Mid Market Account Executive](/job-families/sales/account-executive) job family or the [Sales Management](/job-families/sales/area-sales-manager/) Job Family.
 
 ## Hiring Process
 
-Avoid the confidence gap; you do not have to match all the listed requirements exactly to apply. Our hiring process is described in more detail in our [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+Avoid the confidence gap; you do not have to match all the listed requirements exactly to apply. Our hiring process is described in more detail in our [hiring handbook](/handbook/hiring/).
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to the following:
   1. A phone or video conference screen with the recruiter. This takes 30 minutes and helps our recruiting team align your interests and qualifications with the right opening on the sales team.
@@ -210,4 +210,4 @@ Candidates for this position can expect the hiring process to follow the order b
   1. A video conversation reviewing your professional experience chronologically. This takes from 45 min to an hour and allows your hiring manager to understand the similarities and differences of past roles you’ve had to the role we are considering for you
   1. A mock GitLab customer call. The mock call itself is limited to 15 minutes. You are given a few minutes to ask any final questions before going into the mock call. After the mock call, we use the remainder of the half hour to understand feedback, how it felt to sell GitLab, and ask any questions we have remaining about your candidacy.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

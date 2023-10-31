@@ -101,7 +101,7 @@ Some steps of STAR treatment are handled by bots and auto-responders. The text `
 
 ### Unstarring a ticket - rejecting the request for additional attention
 
-There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
+There are times when a STAR does not meet the threshold for additional attention. See the [main STAR page](/handbook/support/internal-support/support-ticket-attention-requests.html) for details. In such situations, return to the thread in `#support_ticket-attention-requests` and notify the initiator.
 
 ### Resolving a STAR
 
@@ -133,7 +133,7 @@ The following action should be taken promptly:
 
 ## Act as a notification point for security incidents
 
-When GitLab experiences a [security incident](https://about.gitlab.com/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
+When GitLab experiences a [security incident](/handbook/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
 ## Provide assistance with Upgrade Assistance Requests
 

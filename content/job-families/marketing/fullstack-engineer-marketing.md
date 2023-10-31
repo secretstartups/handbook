@@ -40,7 +40,7 @@ The Fullstack Engineer (Intermediate) reports to a [Engineering Manager, Digital
 
 #### Fullstack Engineer (Intermediate) Job Grade
 
-The Fullstack Engineer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Fullstack Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Fullstack Engineer (Intermediate) Responsibilities
 
@@ -72,7 +72,7 @@ The Senior Fullstack Engineer reports to a [Engineering Manager, Digital Experie
 
 #### Senior Fullstack Engineer Job Grade
 
-The Senior Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Fullstack Engineer Responsibilities
 
@@ -100,7 +100,7 @@ The Manager, Engineering reports the [Director, Digital Experience](/job-familie
 
 #### Manager, Engineering Job Grade
 
-The Manager, Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Engineering Responsibilities
 
@@ -138,13 +138,13 @@ The next step in the Website Full Stack Development job family is not yet define
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/handbook/company/team/).
 
-- Select candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 - Next, candidates will be invited to schedule a 30 minute technical interview with a Senior Engineer and an interview with a Senior Brand Designer on the Digital Experience team.
 - Next, candidates will be invited to schedule a 30 minute interview with a Engineering Manager, Digital Experience.
 - Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
 - Successful candidates will subsequently be made an offer via phone or video.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

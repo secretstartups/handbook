@@ -10,7 +10,7 @@ The Order Management Specialist reports to Manager, Deal Desk.
 
 #### Order Management Specialist Job Grade
 
-The Order Management Specialist is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Order Management Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Order Management Specialist Responsibilities
 
@@ -49,7 +49,7 @@ The Senior Order Management Specialist reports to Manager, Deal Desk.
 
 #### Senior Order Management Specialist Job Grade
 
-The Order Management Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Order Management Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Order Management Specialist Responsibilities
 
@@ -102,4 +102,4 @@ Candidates for these positions can expect the hiring process to follow the order
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

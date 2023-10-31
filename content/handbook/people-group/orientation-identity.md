@@ -14,7 +14,7 @@ The reasons for creating a Gender and Sexual Orientation Identity page in the Gi
 ### Additional resources
 
 - [GitLab Ally Resources]({{< ref "ally-resources" >}})
-- [Diversity, Inclusion and Belonging at GitLab](https://about.gitlab.com/company/culture/inclusion/)
+- [Diversity, Inclusion and Belonging at GitLab](/handbook/company/culture/inclusion/)
 - [Human Rights Campaign website][hrc]
   - [HRC Sexual Orientation and Gender Identity Definitions](https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions)
   - [HRC Transgender FAQ](https://www.hrc.org/resources/transgender-faq)
@@ -33,7 +33,7 @@ A person's internal perception of their own gender and the words they use to lab
 
 In our HRIS (Human Resource Information System) [Workday]({{< ref "/handbook/people-group/systems-architecture#Workday" >}}), we have two self-identification fields related to Gender, which we ask our team members to complete during the onboarding process, although it is completely optional. We have one **Gender** field with only two options. This field is a default field in the HRIS and is not inclusive due to the fact that it is primarily used for mandatory Governmental reports and data classification.
 
-At GitLab, we have the additional **Other Gender Options** field, which currently has a number of options for our team members to choose if you would like to. If you would like an additional option added, please contact our DIB team at `diversityinclusion@gitlab.com`. We are transparent in our results in our anonymous [Identity Data](https://about.gitlab.com/company/culture/inclusion/identity-data/).
+At GitLab, we have the additional **Other Gender Options** field, which currently has a number of options for our team members to choose if you would like to. If you would like an additional option added, please contact our DIB team at `diversityinclusion@gitlab.com`. We are transparent in our results in our anonymous [Identity Data](/handbook/company/culture/inclusion/identity-data/).
 
 #### Gender expression
 

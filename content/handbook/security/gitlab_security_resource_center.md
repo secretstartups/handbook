@@ -39,7 +39,7 @@ The following links contain frequently asked security, legal & privacy, and avai
 
 ### Acceptable use
 
-- [Internal acceptable use policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
+- [Internal acceptable use policy](/handbook/people-group/acceptable-use-policy/)
 - [GitLab's terms of use](https://about.gitlab.com/terms/)
 
 ### Access management

@@ -100,7 +100,7 @@ It's important to clarify that being able to work from anywhere does **not** rep
 We recognize how crucial it is to build in time when you can mentally take a break from your work, and as a company, we encourage our team members to do that. Learn more about [how time off works at GitLab.]({{< ref "paid-time-off" >}})
 
 > **“I work closely with our executive team here, and they have been so supportive and encouraging when family-related conflicts arise. They are constantly reminding me that “family first” is our mantra, and give me ease of mind to take time away when needed. Sid, our co-founder and CEO, told me if it’s a beautiful day out and I just want to go enjoy it, I should do that. Moments like these make me so proud to be a part of the GitLab team."**
-[- Cheri, Manager, Executive Assistant](https://about.gitlab.com/company/team#cheriholmes)
+[- Cheri, Manager, Executive Assistant](/handbook/company/team#cheriholmes)
 
 
 ## Tips for leaders and other companies
@@ -151,7 +151,7 @@ Our team members often share [their best advice](https://about.gitlab.com/blog/2
 
 > **“I think you need to throw the concept of 'nine to five' out the window and actively experiment to find what schedule lets you make the most of your time.
 I often find the midday slump to be so real, so if I'm feeling this way I step away for a while and then come back for a few hours in the evening when I generally feel supercharged.”**
-[- Tanya Pazitny, Quality Engineering Manager](https://about.gitlab.com/company/team#tpazitny)
+[- Tanya Pazitny, Quality Engineering Manager](/handbook/company/team#tpazitny)
 
 ### Balance work and life
 
@@ -214,7 +214,7 @@ It's sometimes hard to remember to stay active when you work from home. Here are
 
 > **"Getting out of the house before I start my day is very important for me.
 Either walking the dog or going for a swim to clear my head and get the blood flowing.”**
-[- Daniel Gruesso, Product Manager](https://about.gitlab.com/company/team#danielgruesso)
+[- Daniel Gruesso, Product Manager](/handbook/company/team#danielgruesso)
 
 - Try to create a repeatable schedule that is consistent and try to make a habit out of it. Make sure you enjoy the activity.
 - It can also help to create a goal or challenge for yourself, e.g. registering for a race.

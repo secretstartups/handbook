@@ -34,7 +34,7 @@ While each SGG is encouraged to work together and develop a plan for upcoming ti
 The following are suggestions only. There is no particular order or requirement to go through each, nor is there a limit to stick with just one approach:
 
 - Help rebalance or transfer tickets where it makes sense (this is manual, but may help under certain situations).
-- Start a [branch-out session](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html) (or encourage team members to start one) to help an SGG that is low on staff.
+- Start a [branch-out session](/handbook/support/support-global-groups/branch-out-sessions.html) (or encourage team members to start one) to help an SGG that is low on staff.
 - Request Support Engineers who are not part of an SGG to assist.
 - Help rebalance groups as needed by:
   - assessing SGGs and upcoming OOO statuses to understand which groups are `at risk+` (high OOOs) and which groups may have capacity to help

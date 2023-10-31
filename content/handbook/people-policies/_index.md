@@ -40,7 +40,7 @@ GitLab currently contracts with Sterling Talent Solutions to provide background 
 
 In the event the background screening is not available on the scheduled hire date due to delays in processing, GitLab will run the background screening as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees. The Senior Background Check Specialist will monitor background screenings for completion and accuracy and will follow up accordingly regarding any concerns or issues.
 
-The Candidate Experience Specialists will [initiate](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/coordinator/#background-screenings) all employment verifications and background screenings for candidates. The Senior Background Check Specialist will initiate any applicable retroactive background screenings or requested enhanced background screenings for current team members.
+The Candidate Experience Specialists will [initiate](/handbook/hiring/talent-acquisition-framework/coordinator/#background-screenings) all employment verifications and background screenings for candidates. The Senior Background Check Specialist will initiate any applicable retroactive background screenings or requested enhanced background screenings for current team members.
 
 Please contact the Senior Background Check Specialist at backgroundchecks@gitlab.com regarding any questions.
 
@@ -107,7 +107,7 @@ Please see the [Anti-Retaliation Policy](https://about.gitlab.com/handbook/legal
 
 ### Complaint Procedure
 
-Please see the [Complaint Procedure](https://about.gitlab.com/handbook/people-group/#how-to-report-violations).
+Please see the [Complaint Procedure](/handbook/people-group/#how-to-report-violations).
 
 ### Social Responsibility
 
@@ -115,18 +115,18 @@ Please see our [Environmental, Social, and Governance]({{< ref "esg" >}}) page.
 
 ### Personal Appearance
 
-The image GitLab projects to the public is reflected in the appearance of our team members. Simply stated, team members should be dressed and groomed appropriately for their specific duties. Team members are expected to use good judgment in their appearance and grooming. Read our [GitLab Events Code of Conduct](https://about.gitlab.com/company/culture/ecoc/) for more information. Please read our GitLab Events Code of Conduct for more information regarding team member responsibility during attendance at company-sponsored events.
+The image GitLab projects to the public is reflected in the appearance of our team members. Simply stated, team members should be dressed and groomed appropriately for their specific duties. Team members are expected to use good judgment in their appearance and grooming. Read our [GitLab Events Code of Conduct](/handbook/company/culture/ecoc/) for more information. Please read our GitLab Events Code of Conduct for more information regarding team member responsibility during attendance at company-sponsored events.
 
 ### Job Abandonment
 
-When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact their supervisor, they may be [terminated](https://about.gitlab.com/handbook/people-group/offboarding/#involuntary-terminations) for job abandonment unless otherwise required by law. If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](https://about.gitlab.com/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
+When a team member is absent from work for three consecutive workdays, there is no entry on the availability calendar for time off, and fails to contact their supervisor, they may be [terminated](/handbook/people-group/offboarding/#involuntary-terminations) for job abandonment unless otherwise required by law. If a manager is unable to reach a team member via email or slack within a 24 hour period they should contact their [People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The People Business partner will access the team member's information to obtain additional contact methods and numbers. The manager and People Business Partner will create an action plan to make all attempts to contact the team member.
 
 #### Exceptions
 
 GitLab understands there are extenuating circumstances that can occur. In the instance that a team member is absent from work for three consecutive workdays due to an emergency outside of the team members' control (ex. an internet outage in their country of residence), the recommendation is:
 
 - The team member should notify their manager about the situation, should a period of unavailability be a foreseen possibility.
-- The team member and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (ex. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/).
+- The team member and manager should consider exchanging cell phone numbers to stay in contact as much as possible in the case that the situation should escalate. If you are based in different countries, consider ensuring you and your manager both have an app that facilitates international communication (ex. Whatsapp, Zalo, etc.). If costs are incurred when trying to contact your manager, this can be considered a business expense and can be submitted for reimbursement through [Navan Expense](/handbook/finance/expenses/).
 - Consider leveraging GitLab's flexible [time off policy]({{< ref "paid-time-off" >}}) to take the time you need.
 
 ## Team Member Safety
@@ -166,7 +166,7 @@ The following are GitLab’s procedures in the event a team member feels threate
 1. If at any point, a team member feels like they or another team member may require immediate medical assistance, please contact the local authorities.
 1. Once the immediate threat is controlled, team members should report any safety concerns to People Connect.
 1. If you believe that a certain location, event or area presents greater risk or exposure to individuals, please notify People Connect. People Connect will strive to proactively communicate the concerns to other potentially affected team members.
-1. If at any point you believe you, personally, may commit an unsafe act, People Connect can assist in providing information about available [Employee Assistance](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program) options.
+1. If at any point you believe you, personally, may commit an unsafe act, People Connect can assist in providing information about available [Employee Assistance](/handbook/total-rewards/benefits/general-and-entity-benefits/#employee-assistance-program) options.
 
 ## Workers' Compensation
 
@@ -211,18 +211,18 @@ GitLab strives to maintain a workplace that is free from illegal use, possession
         - "It's always OK to ask for help."
         - "It’s hard for me to understand exactly what you’re going through, but I can see that it’s distressing for you."
 
-        For additional information, please see the Mental Wellness Services offered through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) and tips on [Leading Through Adversity](https://about.gitlab.com/handbook/leadership/managing-conflict/leading-through-adversity/). Additionally, team members should learn to [recognize burnout](https://about.gitlab.com/handbook/paid-time-off/#recognizing-burnout) and to [prevent it](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/).
+        For additional information, please see the Mental Wellness Services offered through [Modern Health](/handbook/total-rewards/benefits/modern-health/) and tips on [Leading Through Adversity](/handbook/leadership/managing-conflict/leading-through-adversity/). Additionally, team members should learn to [recognize burnout](/handbook/paid-time-off/#recognizing-burnout) and to [prevent it](https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/).
 
 Any questions or concerns? Please feel free to contact the People Connect team in the #people-connect Slack channel or email people-connect@gitlab.com.
 
 ## Other People Policies
 
-- [Contracts, Probation Periods, and PIAA](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement)
-- [Outside Employment and Activities](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#outside-employment-paid-or-unpaid-projects-and-potentially-conflicting-activities)
+- [Contracts, Probation Periods, and PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement)
+- [Outside Employment and Activities](/handbook/people-group/contracts-probation-periods/#outside-employment-paid-or-unpaid-projects-and-potentially-conflicting-activities)
 - [Paid Time Off]({{< ref "paid-time-off" >}})
-- [General Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/)
-- [Leave of Absence](https://about.gitlab.com/handbook/people-policies/leave-of-absence/)
-- [Return of Property](https://about.gitlab.com/handbook/people-group/offboarding/#returning-property-to-gitlab)
+- [General Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/)
+- [Leave of Absence](/handbook/people-policies/leave-of-absence/)
+- [Return of Property](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 
 ## Gitlab Legal Policies
 
@@ -341,11 +341,11 @@ To ensure the physical and mental health and safety of our team members in the U
 
 The handbook also has a wealth of information and recommendations for setting up your workspace and procuring the proper equipment:
 
-- [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
-- [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
-- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
-- [Considerations for a Productive Home Office](https://about.gitlab.com/company/culture/all-remote/workspace/#introduction)
-- [Equipment Examples](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
+- [How to Create an Ergonomic Workspace](/handbook/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
+- [Focus your Workspace](/handbook/company/culture/all-remote/getting-started/#focus-your-workspace)
+- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](/handbook/company/culture/all-remote/mental-health/)
+- [Considerations for a Productive Home Office](/handbook/company/culture/all-remote/workspace/#introduction)
+- [Equipment Examples](/handbook/finance/procurement/office-equipment-supplies/)
 
 **Working Time Regulations**
 
@@ -397,11 +397,11 @@ To ensure the physical and mental health and safety of our team members in New Z
 
 **Health and Safety**
 
-- [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
-- [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
-- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](https://about.gitlab.com/company/culture/all-remote/mental-health/)
-- [Considerations for a Productive Home Office](https://about.gitlab.com/company/culture/all-remote/workspace/#introduction)
-- [Equipment Examples](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/)
+- [How to Create an Ergonomic Workspace](/handbook/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
+- [Focus your Workspace](/handbook/company/culture/all-remote/getting-started/#focus-your-workspace)
+- [Combating Burnout, Isolation, and Anxiety in a Remote Workplace](/handbook/company/culture/all-remote/mental-health/)
+- [Considerations for a Productive Home Office](/handbook/company/culture/all-remote/workspace/#introduction)
+- [Equipment Examples](/handbook/finance/procurement/office-equipment-supplies/)
 
 **Data Protection/Privacy Policy**
 

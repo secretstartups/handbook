@@ -39,17 +39,17 @@ Leaders in the security department at GitLab are customer focused. While they ar
 - Ability to use GitLab
 - Exceptional communication skills, including verbal, written, and presentation skills, to a variety of stakeholders
 - You share our [values](/handbook/values/), and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ## Levels
 
 ### Senior Manager, Security
 
-The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
+The Senior Manager, Security role is defined for each [Security Team](/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
 
 #### Senior Manager, Security Job Grade
 
-The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Security Responsibilities
 
@@ -61,7 +61,7 @@ The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/tot
 - Responsible for overflow Director responsibilities
 - Ensure alignment across sub-department teams with Security department and Engineering orgnization objectives
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Assist in building morale, support and alignment within their sub-department
 - Work cross-functionally (both within and outside of Security) to promote and gain prioritization of sub-department needs
 
@@ -76,22 +76,22 @@ The Senior Security Manager is a [grade 9](https://about.gitlab.com/handbook/tot
 
 #### Hiring Process
 
-Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
 - Candidates will then be invited to schedule an interview with the CISO
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Director, Security
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### Director, Security Job Grade
 
-The Director, Security Assurance is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Director, Security Responsibilities
 
@@ -171,23 +171,23 @@ controls, and common security flaws that apply to Ruby on Rails applications
 
 #### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
 - Candidates will then be invited to schedule 2-3 separate 45-60 minute interviews with cross-functional partners
 - Candidates may be requested to meet again with the CISO for a shortened conversation
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Senior Director, Security
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### Senior Director, Security Job Grade
 
-The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Security is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Security Responsibilities
 
@@ -234,23 +234,23 @@ The Senior Director, Security is a [grade 11](https://about.gitlab.com/handbook/
 
 #### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 45-60 minute interview with CISO
 - Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
 - Candidates may be requested to meet again with the CISO for a shortened conversation
 - Candidates will then be invited to schedule an interview with CTO of Engineering
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Vice President (VP) of Security
 
-This position reports to the [CISO](https://about.gitlab.com/job-families/legal-and-corporate-affairs/chief-legal-officer/)
+This position reports to the [CISO](/job-families/legal-and-corporate-affairs/chief-legal-officer/)
 
 #### VP of Security Job Grade
 
-The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Security Responsibilities
 
@@ -263,7 +263,7 @@ The VP of Security is a [grade 12](https://about.gitlab.com/handbook/total-rewar
 - Manage a best-in-class bug-bounty program with the highest rewards
 - Act as central point-of-contact to Facility Security Officer for cleared facilities
 - Collaborate closely with People Ops, Legal, and any third-party firms to ensure the health and safety of organization’s employees globally
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 #### VP of Security Requirements
 
@@ -295,16 +295,16 @@ Great candidates will have some meaningful proportion of the following.
 
 #### Hiring Process
 
-Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with CISO
 - Candidates will then be invited to schedule separate 60 minute interviews with three leaders of the organization
 - Candidates will then be invited to schedule an interview with CEO
 - Successful candidates will subsequently be made an offer via email
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 
-For more details on the security engineering career ladders, please review the [security engineering career development](https://handbook.gitlab.com/job-families/security/security-engineer/) handbook page.
+For more details on the security engineering career ladders, please review the [security engineering career development](/job-families/security/security-engineer/) handbook page.
 

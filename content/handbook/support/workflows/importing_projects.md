@@ -97,7 +97,7 @@ In the access request, enter the following in the **Person Details** section, re
 - Ticket: <TICKET LINK>
 - Import request: <ISSUE LINK>
 
-**Note:** This is part of the [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html) for customers.
+**Note:** This is part of the [project import process](/handbook/support/workflows/importing_projects.html) for customers.
 ```
 
 Then, enter the following for the **Access Request** section, replacing `group` with the top-level group path:
@@ -107,7 +107,7 @@ Then, enter the following for the **Access Request** section, replacing `group` 
     - [ ] Confirm user
     - [ ] Enable 2FA
     - [ ] Add user as `Owner` in `group`
-    - Justification: customer import following [project import process](https://about.gitlab.com/handbook/support/workflows/importing_projects.html)
+    - Justification: customer import following [project import process](/handbook/support/workflows/importing_projects.html)
 ```
 
 ### 2. Verify User List

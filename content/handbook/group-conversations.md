@@ -11,16 +11,16 @@ weight: -10
 
 Group Conversations are recurring 25 minute meetings providing regular updates across all GitLab teams on a rotating schedule. Functions with a [Key Review](/handbook/key-review) will also be scheduled for a Group Conversation with the exception of Legal. Team member attendance is optional for Group Conversations.
 
-The [Executive Business Administrator Team, also known as EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. We do not hold Group Conversations on Monday as there are not enough Group Conversations to consistently have them on a 4th weekday, every week. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday.
+The [Executive Business Administrator Team, also known as EBA Team](/job-families/people-group/executive-business-administrator/) are responsible for scheduling these events which should automatically appear within the GitLab Team Meetings Calendar from 08:00am to 08:25am Pacific Standard Time (PST) from Tuesday to Thursday. We do not hold Group Conversations on Monday as there are not enough Group Conversations to consistently have them on a 4th weekday, every week. Some days might not have a Group Conversation scheduled in advance. These are listed in the [schedule](/handbook/group-conversations/#current-schedule) as **Available**. If you would like to be added to the GC rotation, please post in the slack channel #group-conversations and tag @exec-admins. The EBA to the CEO will schedule an AMA with an E-Group member if there is availability. We will have a Group Conversation or an AMA every Tuesday, Wednesday and Thursday.
 
-All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite. While 8:00am PST is not optimal for synchronous participation from all team members, we have done experiments to confirm that early morning PST is the time that works for the greatest number of team members. When we held GCs during different times, we saw participation fall by over 50%. The folks who opted to attend as a percent of folks who could do so during a 8am to 6pm workday was also lower for the experiment group. Team members who want to participate but choose not to attend in person are encouraged to embrace [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) by contributing questions or comments in advance of meetings and watching recordings or reading notes after.
+All Team Members are invited to participate in Group Conversations by adding questions and comments in the Group Conversation Agenda, a Google Doc linked in the respective calendar invite. While 8:00am PST is not optimal for synchronous participation from all team members, we have done experiments to confirm that early morning PST is the time that works for the greatest number of team members. When we held GCs during different times, we saw participation fall by over 50%. The folks who opted to attend as a percent of folks who could do so during a 8am to 6pm workday was also lower for the experiment group. Team members who want to participate but choose not to attend in person are encouraged to embrace [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/) by contributing questions or comments in advance of meetings and watching recordings or reading notes after.
 
 Non-confidential Group Conversations are streamed live and shared publicly to our [GitLab Unfiltered YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KpUeT6ozUTatC-JbNoJCC-e). Confidential Group Conversations which are not streamed live or shared publicly to YouTube include Finance; Sales; Security and Partnerships.
 
 Group Conversations at GitLab were previously known as Functional Group Updates (FGU) and were renamed because they're not presentations or updates but rather conversations - the term Functional Groups is now encompassed by the use of Departments.
 
 In this video our CEO, Sid gives team members tips and tricks for hosting a FGU which are still relevant and applicable to Group Conversations.
-<figure class="video_container"><iframe src="https://www.youtube.com/embed/MN3mzvbgwuc"></iframe></figure>Below is a guide to ensure everyone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](https://about.gitlab.com/company/strategy/#why)!
+<figure class="video_container"><iframe src="https://www.youtube.com/embed/MN3mzvbgwuc"></iframe></figure>Below is a guide to ensure everyone gets the most out of Group Conversations. If you have suggestions for improving the Attendee or Meeting Leader experience please create a Merge Request (MR) to update this page — [everyone can contribute](/handbook/company/strategy/#why)!
 
 ## Group Conversation vs. Key Review
 
@@ -30,7 +30,7 @@ It's common to wonder what the difference is between these two meetings. General
 | --- | ---------- | ------------------ |
 | **Audience** | Management | General GitLab Team |
 | **Tone** | Formal | Informational |
-| **Discussion** | High-context | [Low-context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) |
+| **Discussion** | High-context | [Low-context](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication) |
 
 The Key Review is intended for senior experts to ask questions. The Group Conversation is open to the entire GitLab team to ask questions. We have both to give the senior experts enough time to ask questions since the Group Conversations can have 100+ attendees. Both are also a good place for sharing news and explaining initiatives. The same deck must be used for both calls. Here's a brief discussion of why we have both meetings, and how they can operate effectively:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/tLOMA3663XM"></iframe></figure>
@@ -78,11 +78,11 @@ If you have questions around an upcoming Group Conversation or would like to sta
 
 Group conversations will be planned for a quarter at a time based on the identified cadence and key review dates. In the handbook page, the Group Conversation schedule for the next 2 months will be posted. This is the SSOT for the schedule. It is up to each functional team’s EBA to ensure that the calendar invites are sent with zoom links in place. At the start of each month, the Handbook will be updated to remove the previous month and add the upcoming month of group conversations.
 
-Calls are scheduled by the [EBA Team](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/).
+Calls are scheduled by the [EBA Team](/job-families/people-group/executive-business-administrator/).
 
 If GC needs to be moved:
 1. First consider, Is there anyone else to host the GC? It’s an informal setting. There may be questions, it's okay if the host doesn't know the answer and will get back to the team member that asked the question.
-1. Look at the [schedule in the handbook](https://about.gitlab.com/handbook/group-conversations/#current-schedule) and see if there are any **available spots**
+1. Look at the [schedule in the handbook](/handbook/group-conversations/#current-schedule) and see if there are any **available spots**
     1. If there are open: open a merge request asking for the GC to be moved. Add the following reviewers: CEO EBA and functional team's EBA
     1. If there aren’t open spots: Post in the [#group-conversations](https://gitlab.slack.com/archives/C9H6V41U0) that you have already reviewed the schedule and need assistance moving a group conversation.
 1. Once the merge request has been approved, it can be merged and your team’s EBA is responsible for updating the calendar invite using the steps below:
@@ -90,7 +90,7 @@ If GC needs to be moved:
     - Update the date of your and the other invite to be switched
     - Choose to send an update to the invitees
     - *If prompted* with the questions to update 1 or all events, choose to only update this event
-    - Update the GC [schedule](https://about.gitlab.com/handbook/group-conversations/#current-schedule)
+    - Update the GC [schedule](/handbook/group-conversations/#current-schedule)
 
 If you will be out of office on the day of your Group Conversation, or need a person other than the DRI listed in the [Schedule & DRI table](/handbook/group-conversations/#schedule--dri) to Host:
 
@@ -124,7 +124,7 @@ A little bit of preparation can go a long way in making the call worthwhile for 
 
 #### Presentation
 
-Use presentations to document everything people should know about your group. If the GC is for a group that didn't have a Key Review, and are preparing new slides, the slides should start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team.
+Use presentations to document everything people should know about your group. If the GC is for a group that didn't have a Key Review, and are preparing new slides, the slides should start with the top 3-5 highlights or top of mind updates that are relevant across functions, followed by additional information. These presentations are for attendees to review and generate questions from for the call, and attendees will often have [low context](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication) around your function or team.
 
 Functions with Key Reviews should not create a new deck for a Group Conversation but should use their [Key Review deck](/handbook/key-review/#group-conversations-and-key-review-metrics) for the Group Conversation.
 
@@ -140,11 +140,11 @@ There are three layers of content in a presentation:
 
 Best practices for presentations:
 1. Save time and ensure asynchronous communication by writing information on the slides. Many people will not be able to participate in Group Conversations, either live or recorded, but can read through the slides.
-1. To better engage team members outside of your team or function, presentations should ideally assume [low context](https://about.gitlab.com/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
+1. To better engage team members outside of your team or function, presentations should ideally assume [low context](/handbook/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
 1. Slides with a lot of text that can be read on their own with lots of links are appreciated.
 1. If you want to present, please consider [posting a recording to YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/) at least 72 hours before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
-1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](https://about.gitlab.com/company/strategy/#why).
+1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as the template for your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab so that [everyone can contribute](/handbook/company/strategy/#why).
 1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
 
 For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations).
@@ -231,7 +231,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. Post notes within the Zoom chat at both five and two minutes remaining mark - this will ensure everyone is aware of the time left within the call and encourage team members to keep the conversation on track.
 1. At time notify the Host that the meeting should be concluded allowing time for all participants to wrap up the active discussion and thanking them for their time and collaboration.
 1. End the Group Conversation by clicking `End Meeting` and then `End Meeting for All` within Zoom - making this selection should end both the call and the stream - should this not be the case it is more than likely because an outdated version of Zoom is being used and the moderator will need to log directly into YouTube Studio and manually end the stream.
-1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) for support.
+1. Once the call ended, audit the YouTube video for any issues such as another stream on the video or errant transcript in the description. If you identify any issues with the video, immediately reach out to [Security](/handbook/security/security-operations/sirt/engaging-security-on-call.html) for support.
 1. Once the stream has ended, copy and paste the YouTube link to the Group Conversation agenda. This will allow easy access to the stream without having to search for it in the GitLab Unfiltered channel.
 1. If livestreaming was not possible manually upload the video to YouTube using these [guidelines](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#uploading-conversations-to-youtube).
 
@@ -247,7 +247,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. Join the call 2-3 minutes early to ensure you're ready when it starts.
 1. If the call is to be streamed, the moderator will follow the script as directed in the [streaming the Call](/handbook/group-conversations/#during-the-call) section on this page.
 1. When the meeting starts introduce yourself and say a few words about what this call is about. For example, "Hello everyone, I'm Diane and I lead the [team]. I am looking forward to answering your questions about our [group name] group."
-1. Do not present your slides. Invite the first person to verbalize their question, respond and when relevant mention a slide number. This is similar to what we do during [board meetings](https://about.gitlab.com/handbook/board-meetings/).
+1. Do not present your slides. Invite the first person to verbalize their question, respond and when relevant mention a slide number. This is similar to what we do during [board meetings](/handbook/board-meetings/).
 1. Remember to only share the slides if illustrating something, otherwise let the speakers be visible in `Speaker View` setting on Zoom.
 1. It is okay to wait until at least two questions have been entered before starting to answer questions, and allow some time for folks to read the slides at the start of the call.
 1. If someone can't verbalize their question (not in call, driving, audio problems) read it aloud for people watching only the video.
@@ -279,11 +279,11 @@ If your GC is optional and you need to move the date, please work with your depa
 | ------------------ | --- | ----------- | ------------ | --------------- | -------------- |
 | [Marketing](https://about.gitlab.com/handbook/sales/) | Ashley Kramer | Yes | Twice per quarter | | EBA to CMSO|
 | [Sales](https://about.gitlab.com/handbook/sales/) | Sales VPs | Yes (GTM Key Review shared with Marketing) | Monthly - rotates between VP of Commercial, VP of Enterprise, VP of Channel & VP of Customer Success | | EBAs in Sales |
-| [Finance](https://about.gitlab.com/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance|
-| [People](https://about.gitlab.com/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO |
+| [Finance](/handbook/finance/) | Brian Robins | Yes | Twice per quarter | | EBAs in Finance|
+| [People](/handbook/people-group/) | Wendy Barnes | Yes | Twice per quarter | | EBA to CPO |
 | [Product](https://about.gitlab.com/handbook/product/) | [Month PLT Leader Rotation](https://about.gitlab.com/handbook/product/product-leadership/#product-group-conversation-leader-rotation) | Yes | Quarterly | | EBAs in Product |
 | [Support](/handbook/support/) | Lyle Kozloff, Lee Matos | Yes | Twice per quarter | @lbot @lyle @vparsons| EBA to Engineering |
-| [Security](https://about.gitlab.com/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering |
+| [Security](/handbook/security/) | Josh Lemos | Yes | Every other month| | EBA to Engineering |
 | [UX](https://about.gitlab.com/handbook/product/ux/) | Christie Lenneville | Yes | Every other month | | EBA to Engineering |
 | [Development](https://about.gitlab.com/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month | | EBA to Engineering |
 | [Infrastructure & Quality](https://about.gitlab.com/handbook/engineering/infrastructure-quality/) | Mek Stittri | Yes | Quarterly | | EBA to Engineering |
@@ -472,7 +472,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
 ### Steps to Request an AMA
 
 1. To request an AMA be put on the GitLab team meetings calendar, the requestor should find a date and time on the GitLab Team Meetings calendar that works for the AMA host.
-1. The requestor will slack [the EBA](https://about.gitlab.com/handbook/eba/)for their department in the `#group-conversations` Slack Channel and provide the following information:
+1. The requestor will slack [the EBA](/handbook/eba/)for their department in the `#group-conversations` Slack Channel and provide the following information:
     - Title of AMA
     - Public or Private Livestream
     - Date & Time (YYYY-MM-DD PST)

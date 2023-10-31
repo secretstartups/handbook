@@ -8,11 +8,11 @@ The Renewals job family delivers to an essential moment in the customer journey,
 
 ### Senior Director, Renewals
 
-The Senior Director, Renewals reports to the [Vice President of Customer Success](https://about.gitlab.com/job-families/sales/vp-of-customer-success/).
+The Senior Director, Renewals reports to the [Vice President of Customer Success](/job-families/sales/vp-of-customer-success/).
 
 #### Senior Director, Renewals Job Grade
 
-The Senior Director, Renewals is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Renewals is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Renewals Responsibilities
 
@@ -51,8 +51,8 @@ The next step for the Renewals job family is not yet defined.
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, qualified candidates will be invited to interview with 2 - 4 team members.
 - Next, qualified candidates will have a final interview with an executive.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

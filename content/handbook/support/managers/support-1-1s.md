@@ -6,7 +6,7 @@ description: "Support team 1:1s guidelines"
 
 ## Aims and context
 
-At GitLab we have [weekly 1-1s](https://about.gitlab.com/handbook/leadership/1-1/).
+At GitLab we have [weekly 1-1s](/handbook/leadership/1-1/).
 
 The **aim** of this page is to:
 
@@ -77,9 +77,9 @@ Discuss the career development and learning aspirations of the Support Engineer 
 
 Agree on and document a training plan that accommodates those aspirations and meets the needs of the support team in terms of enhancing team skills and filling knowledge gaps.
 
-Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+Agree on checkin points to review progress and, if necessary, to assist the Support Engineer in prioritizing and allocating the time required for [Learning and Development](/handbook/people-group/learning-and-development/).
 
-[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
+[Further details on Career Development Page](/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members)
 
 ### 4. Discuss other activities from responsibility areas
 
@@ -91,7 +91,7 @@ There may be activities that the Support Engineer would like to discuss that are
 
 - Ask whether the SE has had a day off in the past month, and if not encourage them to plan for one soon
 - Ask whether they have upcoming time off, and if they do:
-  - remind them to review the [Support Team Member Time Off page](https://about.gitlab.com/handbook/support/support-time-off.html) and then to get appropriate coverage for their tickets and roles
+  - remind them to review the [Support Team Member Time Off page](/handbook/support/support-time-off.html) and then to get appropriate coverage for their tickets and roles
   - ask them if they have any questions about what to do
   - set a reminder for the day before the first PTO date to check with the SE if they've not yet reported to you on their progress in getting coverage
 - If they've had time off recently, ask whether they made all necessary coverage arrangements and discuss any problems that either of you observed

@@ -85,7 +85,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 
 #### Job Grade
 
-The Associate Site Reliability Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Site Reliability Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 
@@ -120,7 +120,7 @@ The Associate Site Reliability Engineer is a [grade 5](https://about.gitlab.com/
 
 #### Job Grade
 
-The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Technical
 
@@ -161,7 +161,7 @@ The Site Reliability Engineer is a [grade 6](https://about.gitlab.com/handbook/t
 
 #### Job Grade
 
-The Senior Site Reliability Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Site Reliability Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Site Reliability Engineers who meet the following criteria:
 
@@ -206,7 +206,7 @@ Are Site Reliability Engineers who meet the following criteria:
 
 #### Job Grade
 
-The Staff Site Reliability Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Site Reliability Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Are Senior Production SREs who meet the following criteria:
 
@@ -310,7 +310,7 @@ SRE's with Cloud Efficiency Engineering specialization primarily focus on improv
 
 ## Career Ladder
 
-Further career progression is available as a Principle Engineer, [Distinguished Engineer](https://about.gitlab.com/job-families/engineering/infrastructure/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-fellow/).
+Further career progression is available as a Principle Engineer, [Distinguished Engineer](/job-families/engineering/infrastructure/distinguished-engineer/#infrastructure) and then an [Engineering Fellow](/job-families/engineering/infrastructure/engineering-fellow/).
 
 Individual Contributors in SRE roles can also move to roles in the [Engineering Management - Infrastructure](/job-families/engineering/infrastructure/engineering-management/) job family.
 

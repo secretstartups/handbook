@@ -40,7 +40,7 @@ Field Marketing Specialist Regions:
 
 ### Job Grade
 
-The Field Marketing Coordinator is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Marketing Coordinator is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -76,7 +76,7 @@ As Field Marketing Coordinators progress throughout their career at GitLab, or w
 
 ### Job Grade
 
-The Field Marketing Specialist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Marketing Specialist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -104,7 +104,7 @@ This role includes all of the performance indicators of the previous level plus:
 
 ### Job Grade
 
-The Senior Field Marketing Specialist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Marketing Specialist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -131,7 +131,7 @@ This role includes all of the performance indicators of the previous level plus:
 
 ### Hiring Process for North America
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a screening call with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Manager, Field Marketing North America.
@@ -142,7 +142,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 ### Hiring Process for EMEA
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a screening call with our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Manager, Field Marketing EMEA.
@@ -151,4 +151,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our VP of Revenue Marketing may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

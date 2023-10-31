@@ -34,7 +34,7 @@ Please see [our guide on giving career development](/handbook/people-group/guida
 
 ## Hallway
 
-1. Every item in the hallway section starts with exactly one tag, the tag can come from one of four categories:
+1. Every item in the hallway section starts with exactly one tag, the tag can come from one of three categories:
     1. Timing
         - `ISO DATE` (example: 2017-05-21 or 2017-05) - indicating when this item will be discussed next
         - `RELEASE NUMBER` (example: 9.4 or 9.5) - alternative to `ISO DATE` to indicate when this item will be discussed next
@@ -56,14 +56,14 @@ Please see [our guide on giving career development](/handbook/people-group/guida
         - `THANKS` - mostly used by the manager to praise the report, these should not require a follow-up action. There is a tendency to focus on issues and challenges. Do not forget to recognize accomplishments and success.
         - `SORRY` - if you want to say sorry for something.
         - `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
-1. It is recommended to provide a section to list frequently & useful tags that helps facilitate ideas and perception triggers when a direct report (or their manager) fills out the 1-1 agenda.
+1. It is recommended to provide a section listing frequently used & useful tags that help facilitate ideas and perception triggers when a direct report (or their manager) fills out the 1-1 agenda.
     - This helps reassure that all these topic tags are readily available and encouraged to be used. This is especially important for `THANKS`, `SORRY` and `HELP` tags.
 1. As specified above items are removed after being set to `DONE`. The 1-1 is one list that is continually modified. It is not a meeting agenda that is duplicated every week under a new date.
 1. Add items to the end of the agenda. This is easier to do when using a numbered list.
 1. The order going through the agenda is last-to-first, this way things that are still top of mind get handled first.
 1. Prefix a new item with your name. Do the same for all responses/follow-ups.
 1. Use `=>` to indicate a response/followup to an agenda item and prefix with your name. For example: `DISCUSS` Sid: Should we look into a collaboration with Walmart? => Kate: I think so, I created https://gitlab.com/gitlab-org/gitlab-ce/issues/101
-1. Use sub-bullets (a, b, c) if there sub topics .
+1. Use sub-bullets (a, b, c) if there sub topics.
 1. Include a link to the agenda in calendar invite of the 1-1 meeting
 1. Use comments with +mentions in Google Docs only to signal urgency, don't write content down that way since it tends to get lost. Example: +person@example.com urgent because xyz
 1. Link relevant issues, chats, screenshots, and Google Docs liberally.

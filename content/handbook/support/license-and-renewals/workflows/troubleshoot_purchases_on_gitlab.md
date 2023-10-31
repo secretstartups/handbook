@@ -55,7 +55,7 @@ Our current integration with Zuora does not support authorizing payment methods 
 With the volume of users requiring this being low, the issue has not yet been prioritized.
 
 For now, the first option is to request the user to try another card.
-You can also [reach out to Sales](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
+You can also [reach out to Sales](/handbook/support/license-and-renewals/workflows/working_with_sales.html#specific-workflows-to-pass-to-sales) to offer the user an alternative payment method.
 
 ### Check whether the linked accounts have matching emails
 
@@ -150,7 +150,7 @@ please report if you encounter it again.
 1. Locate the accounts linked to the user's namespace in Customers Portal
 1. Check that ALL subscriptions in ALL customer accounts are expired
 1. Confirm that the namespace is on a `Free` plan
-1. If the namespace is on `Free` and has no active subscriptions, you can proceed to [unlink the expired subscription](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#clear-subscription) from the namespace:
+1. If the namespace is on `Free` and has no active subscriptions, you can proceed to [unlink the expired subscription](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#clear-subscription) from the namespace:
    1. Locate the customer's account in CustomersDot by searching using the domain part of their email address.
       - If the results of the search are many, you can search using the full email address.
    1. Locate the proper accounts in CustomersDot and navigate to the `Zuora Subscriptions` page
@@ -183,7 +183,7 @@ so that their card does not get locked or blocked.
 If a customer contacts Support informing that their attempt to use their credit card for verification in order to use compute minutes on shared runners (please note that when a customer verifies using their credit card, it will not be charged but instead will be verified with a one-dollar authorisation transaction). Then you should do the following:
 
 1. Respond to the ticket by using the Zendesk Macro `Support::L&R::Credit Card Authorisation Failed'
-1. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](https://about.gitlab.com/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
+1. If the customer comes back after 24 hours and confirms they are still unable to proceed, but they have verified their credit card works outside of GitLab.com, then refer them to Trust and Safety for further guidance. The Trust and Safety Team contact details can be found in the handbook: [Working with the GitLab Trust and Safety Team](/handbook/security/security-operations/trustandsafety/#working-with-gitlab-trust-and-safety-team).
 
 ## Finding an error message in Sentry
 
@@ -199,7 +199,7 @@ To find the error specifically related to a user on Sentry, try to check for a l
 To locate a Sentry event, first get the `ID` or `Username` of the **user making the purchase from GitLab** using any of the following:
 
 - Chatops: Run `/chatops run user find <username or email>`
-- Admin account: Navigate to the admin link in the [GitLab User Lookup](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app) Zendesk app
+- Admin account: Navigate to the admin link in the [GitLab User Lookup](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app) Zendesk app
 - [Users API](https://docs.gitlab.com/ee/api/users.html#for-normal-users): Search for user using their email or username
 
 ### Searching with the username in `gitlabcom` Sentry project

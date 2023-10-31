@@ -40,8 +40,8 @@ When putting a ticket `On-Hold`, you should:
   [Understanding Business Impact](#understanding-business-impact).
 - Aim to provide updates daily, and no less than every four days, which is the [`On-Hold` period length]({{< ref "zendesk-ticket-basics#behavior-of-on-hold-tickets" >}}).
 
-When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
-and [Reminders](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
+When setting a ticket to `Pending` or `On-Hold`, consider using our [Due Date](/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app)
+and [Reminders](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app)
 apps to help you to meet commitments you make.
 
 ### Avoiding giving concrete answers to "when can I expect feature / fix X?"

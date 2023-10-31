@@ -4,11 +4,11 @@ title: "Country Sales Manager for Italy"
 
 ## Country Sales Manager for Italy
 
-The Country Sales Manager for Italy reports to an [Area Sales Manager](https://about.gitlab.com/job-families/sales/area-sales-manager/#area-sales-manager).
+The Country Sales Manager for Italy reports to an [Area Sales Manager](/job-families/sales/area-sales-manager/#area-sales-manager).
 
 ## Country Sales Manager for Italy Job Grade
 
-The Country Sales Manager for Italy is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Country Sales Manager for Italy is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Country Sales Manager for Italy Responsibilities
 
@@ -60,7 +60,7 @@ The Country Sales Manager for Italy is a [grade 9](https://about.gitlab.com/hand
 - Preferred experience with Git, Software Development Tools, Application Lifecycle Management
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Performance Indicators
 
@@ -68,15 +68,15 @@ The Country Sales Manager for Italy is a [grade 9](https://about.gitlab.com/hand
 
 ## Career Ladder
 
-The next steps in the Country Sales Manager for Italy job family is the [Area Sales Manager](https://about.gitlab.com/job-families/sales/area-sales-manager/#area-sales-manager) job family.
+The next steps in the Country Sales Manager for Italy job family is the [Area Sales Manager](/job-families/sales/area-sales-manager/#area-sales-manager) job family.
 
 ## Hiring Plan
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 team members
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

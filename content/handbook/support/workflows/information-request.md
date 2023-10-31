@@ -15,7 +15,7 @@ From time to time we may receive subpoenas or other legal requests for informati
 This workflow clarifies how to handle these requests and subsequent workflow related to delivering information if
 our counsel and CISO approve.
 
-*Note:* If a ticket comes in that you believe is Legal related, but is not a subpoena or court order, please check the list of other [legal workflows](https://about.gitlab.com/handbook/support/workflows/#Legal).
+*Note:* If a ticket comes in that you believe is Legal related, but is not a subpoena or court order, please check the list of other [legal workflows](/handbook/support/workflows/#Legal).
 
 If a subpoena or court order that is not covered by another workflow (e.g. DMCA, GDPR, information request) comes in:
 
@@ -33,13 +33,13 @@ Respond to the ticket with the [`Legal::Namespace and Trademark`](https://gitlab
 
 #### Ownership Disputes
 
-*Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](https://about.gitlab.com/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
+*Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
 
 Respond to the ticket with the [`Legal::Ownership disputes`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759320) macro.
 
 #### Log Requests
 
-Please see [Log requests workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html)
+Please see [Log requests workflow](/handbook/support/workflows/log_requests.html)
 
 ### Other Legal-related Questions
 

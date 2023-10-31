@@ -12,7 +12,7 @@ Read more about this role in the [Data Analytics Handbook Page](https://about.gi
 - Explain trends across data sources, potential opportunities for growth or improvement, and data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive data analysis
 - Understand and document the full lifecycle of data in our [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/) so data can be efficiently integrated, modeled, and analyzed
 - Develop new [Trusted Data Tests](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) to expand test coverage for the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
-- Document every action in either issue/MR templates, the [handbook](https://about.gitlab.com/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first)
+- Document every action in either issue/MR templates, the [handbook](https://about.gitlab.com/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
 - Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
 
@@ -59,11 +59,11 @@ An intern must:
 
 ### Junior Data Analyst
 
-The Junior Data Analyst reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Junior Data Analyst reports to the [Manager, Data.](/job-families/finance/manager-data)
 
 #### Junior Data Analyst Job Grade
 
-The Junior Data Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Data Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Junior Data Analyst Responsibilities
 
@@ -77,11 +77,11 @@ The Junior Data Analyst Requirements extend the Requirements section above and i
 
 ### Data Analyst (Intermediate)
 
-The Data Analyst (Intermediate) reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Data Analyst (Intermediate) reports to the [Manager, Data.](/job-families/finance/manager-data)
 
 #### Data Analyst (Intermediate) Job Grade
 
-The Data Analyst (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Data Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Data Analyst (Intermediate) Responsibilities
 
@@ -99,15 +99,15 @@ The requirements of the Data Analyst extend the Junior Data Analyst role and inc
 - 2+ years experience in an analytics role or equivalent experience/training
 - Hands on experience working with Python, API calls, and JSON, to generate business insights and drive better organizational decision making
 - Demonstrated analytical experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
-- Demonstrated ability to define, design, and develop [Key Performance Indicators](https://about.gitlab.com/company/kpis/) related to one or more business subject areas
+- Demonstrated ability to define, design, and develop [Key Performance Indicators](/handbook/company/kpis/) related to one or more business subject areas
 
 ### Senior Data Analyst
 
-The Senior Data Analyst reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Senior Data Analyst reports to the [Manager, Data.](/job-families/finance/manager-data)
 
 #### Senior Data Analyst Job Grade
 
-The Senior Data Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Data Analyst Responsibilities
 
@@ -133,11 +133,11 @@ The requirements of the Senior Data Analyst extend the Data Analyst (Intermediat
 
 ### Staff Data Analyst
 
-The Staff Data Analyst reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Staff Data Analyst reports to the [Manager, Data.](/job-families/finance/manager-data)
 
 #### Staff Data Analyst Job Grade
 
-The Senior Data Analyst is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is equivalent to the [Manager,Data (Intermediate)](https://about.gitlab.com/job-families/finance/manager-data/#manager-data-intermediate) job grade.
+The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is equivalent to the [Manager,Data (Intermediate)](/job-families/finance/manager-data/#manager-data-intermediate) job grade.
 
 **Market Justification:**
 The business need for this role is to hire, retain, and develop technical talent by establishing Individual Contributor focused career paths for our team members who do not want to move into Data People Management. Staff Data Analyst is a widely accepted role, as supported by survey data, and is common in many data-driven companies. In some companies this position is also called Lead Data Analyst.
@@ -252,4 +252,4 @@ The next step in the Data Analyst job family is to move to the [Data Management]
 - Next, candidates will be invited to schedule a third interview with one a member from our Data team
 - Next, candidates will be invited to schedule a fourth interview with a specialty Engineering manager
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

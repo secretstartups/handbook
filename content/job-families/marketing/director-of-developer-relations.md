@@ -13,7 +13,7 @@ As the Director, Developer Relations, you will be responsible for managing and b
 
 ### Job Grade
 
-The Director, Developer Relations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Developer Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -45,7 +45,7 @@ The Director, Developer Relations is a [grade 10](https://about.gitlab.com/handb
 - Major bonus points for having an existing network from a diverse set of communities and social media platforms.
 - Excellent spoken and written English.
 - Last but not least, and actually most importantly - you share [our values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Career Ladder

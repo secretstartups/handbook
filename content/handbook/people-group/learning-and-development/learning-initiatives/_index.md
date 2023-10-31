@@ -38,10 +38,10 @@ Live Learning sessions are conducted on an ad hoc. There will be a Zoom video co
 **2020**
 
 - January - [Compensation Review: Manager Cycle (Compaas)](https://youtu.be/crkPeOjkqTQ)
-- January - [Ally Training](https://about.gitlab.com/company/culture/inclusion/being-an-ally/)
+- January - [Ally Training](/handbook/company/culture/inclusion/being-an-ally/)
 - February - [Receiving Feedback]({{< ref "guidance-on-feedback#receiving-feedback" >}})
 - June - [Delivering Feedback]({{< ref "guidance-on-feedback#guidelines-for-delivering-feedback" >}})
-- June - [Recognizing Bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/)
+- June - [Recognizing Bias](/handbook/company/culture/inclusion/unconscious-bias/)
 - September - [Manager Challenge Pilot]({{< ref "manager-challenge#pilot-program" >}})
 - November - [Belonging](https://www.youtube.com/watch?v=WZun1ktIQiw)
 - November - [One Week Challenge - Psychological Safety]({{< ref "psychological-safety#one-week-challenge" >}})
@@ -49,8 +49,8 @@ Live Learning sessions are conducted on an ad hoc. There will be a Zoom video co
 
 **2019**
 
-- November - [Communicating Effectively & Responsibly Through Text](https://about.gitlab.com/company/culture/all-remote/effective-communication/)
-- December - [Inclusion Training](https://about.gitlab.com/company/culture/inclusion/being-inclusive/)
+- November - [Communicating Effectively & Responsibly Through Text](/handbook/company/culture/all-remote/effective-communication/)
+- December - [Inclusion Training](/handbook/company/culture/inclusion/being-inclusive/)
 
 {{% /details %}}
 
@@ -137,12 +137,12 @@ After the Call:
 1. [Making Decisions](https://www.youtube.com/watch?v=-by6ohMIi_M&feature=emb_title)
 1. [Individual Contributor Leadership](https://www.youtube.com/watch?v=d0x-JH3aolM)
 1. [Bias Towards Asynchronous Communication](https://www.youtube.com/watch?v=_okcPC9YucA&feature=emb_title)
-1. [High Output Management](https://about.gitlab.com/handbook/leadership/high-output-management/#applying-high-output-management)
+1. [High Output Management](/handbook/leadership/high-output-management/#applying-high-output-management)
 1. [Giving and Receiving Feedback](https://www.youtube.com/watch?v=vL864Zg2sm4&t=731s)
 1. [Managing Underperformance](https://www.youtube.com/watch?v=-mLpytnQtlY&t=637s)
 1. [Transitioning from IC to Manager - Engineering](https://www.youtube.com/watch?v=Zeull-tdy6o)
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
-1. [Working Groups](/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
+1. [Working Groups](/handbook/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 1. [Skip Level Meetings](https://www.youtube.com/watch?v=kAxp0Mam-Rw)
 1. [Product Strategy](https://www.youtube.com/watch?v=yI29xFAgKoA)
 1. [Mental Wellness Discussion](https://www.youtube.com/watch?v=od_KdZqc69k)

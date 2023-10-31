@@ -18,7 +18,7 @@ canonical_path: "/handbook/support/readiness/operations/docs/system_criticality"
 
 We derive our Critical System Tiers (CST) from that of security and engineering,
 which can be found
-[here](https://about.gitlab.com/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers).
+[here](/handbook/security/security-assurance/security-risk/storm-program/critical-systems.html#determining-critical-system-tiers).
 
 ## Data scope
 

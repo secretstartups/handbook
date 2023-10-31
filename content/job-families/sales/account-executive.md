@@ -26,7 +26,7 @@ RoleName: "Account Executive, Mid-Market"
 
 ### Job Grade
 
-The Junior Account Executive - Mid Market is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Account Executive - Mid Market is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Requirements
 
@@ -46,7 +46,7 @@ The Junior Account Executive - Mid Market is a [grade 7](https://about.gitlab.co
 
 ### Job Grade
 
-The Mid Market Account Executive is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Mid Market Account Executive is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -59,7 +59,7 @@ The Mid Market Account Executive is a [grade 7](https://about.gitlab.com/handboo
 - Excellent negotiation, presentation and closing skills
 - Preferred experience with Git, Software Development Tools, Application Lifecycle Management
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Career Ladder
 
@@ -67,7 +67,7 @@ The next step in the Account Executive - Mid Market job family is to move to the
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
   1. What would differentiate you and make you a great account executive for GitLab?
@@ -80,7 +80,7 @@ Candidates for this position can expect the hiring process to follow the order b
   1. A video conversation with a potential colleague. This takes 45 minutes and helps us understand your sales experience, style, and skills.
   1. A mock GitLab customer call. The mock call itself is limited to 15 minutes. You are give a few minutes to ask any final questions before going into the mock call. After the mock call we use the remainder of the half hour to understand feedback, how it felt to sell GitLab, and ask any questions we have remaining about your candidacy.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Specialties
 

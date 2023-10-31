@@ -32,7 +32,7 @@ References to `Year 1`, `Year 2`, etc. in the outline below are meant to indicat
 
 ### Q4
 
-1. Apply as a mentee in current sessions of the [Company-Wide mentorship program]({{< ref "company-program" >}}), [Women at GitLab mentorship program](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) , or independently from the [list of available mentors]({{< ref "mentor#find-a-mentor" >}})
+1. Apply as a mentee in current sessions of the [Company-Wide mentorship program]({{< ref "company-program" >}}), [Women at GitLab mentorship program](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) , or independently from the [list of available mentors]({{< ref "mentor#find-a-mentor" >}})
 1. Complete at least one course on LinkedIn Learning. Find suggested courses in the Skill of the Month channel for [FY23](https://gitlab.edcast.com/channel/skill-of-the-month-fy23) and [FY22](https://gitlab.edcast.com/channel/skill-of-the-month-fy22)
 1. Attend at least one Group Conversation from a division other than your own
 
@@ -52,7 +52,7 @@ References to `Year 1`, `Year 2`, etc. in the outline below are meant to indicat
 
 ### Q3
 
-1. Sign up to be a mentor in current iterations of the [Company-Wide mentorship program]({{< ref "company-program" >}}), [Women at GitLab mentorship program](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) , or add yourself to the [list of available mentors]({{< ref "mentor#find-a-mentor" >}})
+1. Sign up to be a mentor in current iterations of the [Company-Wide mentorship program]({{< ref "company-program" >}}), [Women at GitLab mentorship program](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) , or add yourself to the [list of available mentors]({{< ref "mentor#find-a-mentor" >}})
 1. Complete at least one course on LinkedIn Learning. Find suggested courses in the Skill of the Month channel for [FY23](https://gitlab.edcast.com/channel/skill-of-the-month-fy23) and [FY22](https://gitlab.edcast.com/channel/skill-of-the-month-fy22)
 
 ### Q4

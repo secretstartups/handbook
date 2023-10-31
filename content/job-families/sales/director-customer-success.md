@@ -12,7 +12,7 @@ The Director of Customer Success reports to the [VP of Customer Success](/job-fa
 
 #### Director of Customer Success Job Grade
 
-The Director of Customer Success  is a job grade [level 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Customer Success  is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director of Customer Success Responsibilities
 
@@ -52,9 +52,9 @@ The Director of Customer Success  is a job grade [level 10](https://about.gitlab
 - Holds strong operational skills that will drive organizational efficiencies and customer satisfaction
 - Willing and able to address escalated client issues with speed and urgency
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Senior Director of Customer Success
 
@@ -62,7 +62,7 @@ The Senior Director of Customer Success reports to the [VP of Customer Success](
 
 #### Senior Director of Customer Success Job Grade
 
-The Senior Director of Customer Success is a job grade [level 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director of Customer Success is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director of Customer Success Responsibilities
 
@@ -103,11 +103,11 @@ The Director, Customer Success job family would move into the VP, Customer Succe
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to interview with the VP, Customer Success
 - Next, candidates wll be invitted to interview with 2-4 team members
 - Finally, the candidate will be invited to an interview with the executive team
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

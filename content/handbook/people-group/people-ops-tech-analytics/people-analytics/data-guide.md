@@ -47,7 +47,7 @@ BambooHR was used by GitLab to store all team member information in one central 
 
 ### Greenhouse
 
-GitLab’s ATS (Applicant Tracking System). All hiring managers and interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more. Please refer to the [hiring handbook](https://about.gitlab.com/handbook/hiring/greenhouse/) for additional information.
+GitLab’s ATS (Applicant Tracking System). All hiring managers and interviewers will use Greenhouse to review resumes, provide feedback, communicate with candidates, and more. Please refer to the [hiring handbook](/handbook/hiring/greenhouse/) for additional information.
 
 ### Time Off by Deel
 
@@ -55,7 +55,7 @@ A slack application used to request, track, approve and analyze time off.
 
 ### Workday
 
-[Workday](https://about.gitlab.com/handbook/people-group/workday/tech-stack-guide-workday/) is GitLab's current central HRIS.
+[Workday](/handbook/people-group/workday/tech-stack-guide-workday/) is GitLab's current central HRIS.
 
 ### CultureAmp
 

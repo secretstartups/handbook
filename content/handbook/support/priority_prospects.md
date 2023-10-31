@@ -9,7 +9,7 @@ By default, [trial licenses do not include support](https://about.gitlab.com/sup
 
 As a member of the Sales/CS team, if you have a prospect who wishes to have access to GitLab Customer Support as part of their trial or Proof of Value, you can request temporary support for their trial license. This program is for strategically important prospects, and eligibility must be considered by Sales leadership. Generally, prospects with potential ARR of less than $100,000 are not be likely to be approved.
 
-**NOTE:** This option is solely for **prospects** where the account type in Salesforce is `Prospect`. This cannot be applied to any type of account other than `Prospect`. For any other account, please see our main handbook page on [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
+**NOTE:** This option is solely for **prospects** where the account type in Salesforce is `Prospect`. This cannot be applied to any type of account other than `Prospect`. For any other account, please see our main handbook page on [Requesting Gratis Support](/handbook/support/gratis-support/).
 
 ## Restrictions on gratis support for prospects
 
@@ -40,13 +40,13 @@ Limitations within Zendesk:
 
 ## How to request support for a prospect
 
-Please follow the instructions on our main handbook page for [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
+Please follow the instructions on our main handbook page for [Requesting Gratis Support](/handbook/support/gratis-support/).
 
 ## How to request an extension
 
 **NOTE**: Please file extensions **one week** prior to the expiration date, to avoid interruptions in service.
 
-Please follow the instructions on our main handbook page for [Requesting Gratis Support](https://handbook.gitlab.com/handbook/support/gratis-support/).
+Please follow the instructions on our main handbook page for [Requesting Gratis Support](/handbook/support/gratis-support/).
 
 ## Information for the prospect
 

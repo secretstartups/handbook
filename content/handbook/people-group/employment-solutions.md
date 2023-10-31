@@ -39,7 +39,7 @@ Countries that do not have an entity/scalable PEO will be converted as part of o
 
 - C2C means Company to Company
 - IND means Independent
-- For more information on Consultants/Independent Contractors (those that are **US-based only**), please review the [Procurement](https://about.gitlab.com/handbook/finance/procurement/) handbook page.
+- For more information on Consultants/Independent Contractors (those that are **US-based only**), please review the [Procurement](/handbook/finance/procurement/) handbook page.
 
 ## Team Member Types by Country
 
@@ -47,7 +47,7 @@ GitLab has a few different team member types. The following tables each show how
 
 To ensure the accurate entry of information in Workday, we created this table as guidance of what is applicable in which location. When adding new team members to Workday, please ensure you use this terminology for accurate reporting.
 
-More information related to payroll processes can be found on the [Payroll handbook page](https://about.gitlab.com/handbook/finance/payroll/).
+More information related to payroll processes can be found on the [Payroll handbook page](/handbook/finance/payroll/).
 
 ### GitLab Entities and Branches
 
@@ -162,7 +162,7 @@ Each year a spreadsheet with the project details and hours logged against the wo
 
 ## Engineering internships
 
-Engineering is currently hiring interns. The [engineering internships handbook page](/handbook/engineering/internships/) has more information on this.
+Engineering is currently hiring interns. The [engineering internships handbook page](https://about.gitlab.com/handbook/engineering/internships/) has more information on this.
 
 Interships require a fixed term contract during the internship, which is not possible in all countries.
 

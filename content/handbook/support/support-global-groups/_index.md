@@ -99,7 +99,7 @@ group. <<<<<<<<**
 
 #### "Success of their group" means
 
-- Achieving our [target](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
+- Achieving our [target](/handbook/support/performance-indicators/#service-level-agreement-sla)
   of delivering a meaningful first response on tickets assigned to the group
   within SLA at least 95% of the time
 - Delivering timely and meaningful updates on all tickets assigned to the
@@ -117,7 +117,7 @@ group. <<<<<<<<**
 - Recognizing and seeking additional help from managers and other groups when capacity is at risk due to OOO, on-call, or increased work loads. Suggestions include:
   - Strategizing as a group ahead of time (if you see capacity is at risk)
   - Asking for manager help in the #spt_gg_forest Slack channel
-  - Initiating a [branch out session](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html) to ask other groups for help
+  - Initiating a [branch out session](/handbook/support/support-global-groups/branch-out-sessions.html) to ask other groups for help
 - All group members participating in onboarding new group members
   to ensure that newcomers feel comfortable asking questions.
   The group can decide how they want to approach it.
@@ -201,7 +201,7 @@ and of the broad experience and expertise of our full global team.
 Flexipods is one example of cross-group collaboration, some others are:
 
 - pairing sessions
-- crush sessions (including [branch out sessions](https://about.gitlab.com/handbook/support/support-global-groups/branch-out-sessions.html))
+- crush sessions (including [branch out sessions](/handbook/support/support-global-groups/branch-out-sessions.html))
 - sharing questions to a broader audience in #support_gitlab-com and
   #support_self-managed and #support_team-chat
 

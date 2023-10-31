@@ -33,7 +33,7 @@ The FP&A Analyst reports to the [Manager, FP&A](#manager-fpa).
 
 #### FP&A Analyst (Intermediate) Job Grade
 
-The FP&A Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The FP&A Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### FP&A Analyst (Intermediate) Responsibilities
 
@@ -55,7 +55,7 @@ The FP&A Analyst reports to the [Manager, FP&A](#manager-fpa).
 
 #### Senior FP&A Analyst Job Grade
 
-The Senior FP&A Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior FP&A Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior FP&A Analyst Responsibilities
 
@@ -81,7 +81,7 @@ The FP&A Manager reports to the [Manager, FP&A](#manager-fpa).
 
 #### FP&A Manager Job Grade
 
-The FP&A Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The FP&A Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### FP&A Manager Responsibilities
 
@@ -109,7 +109,7 @@ The Manager, FP&A reports to the [Senior Manager, FP&A](#senior-manager-fpa).
 
 #### Manager, FP&A Job Grade
 
-The Manager, FP&A is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, FP&A is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, FP&A Responsibilities
 
@@ -128,7 +128,7 @@ The Senior Manager, FP&A reports to [Director, FP&A](#director-fpa).
 
 #### Senior Manager, FP&A Job Grade
 
-The Senior Manager, FP&A is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, FP&A is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, FP&A Responsibilities
 
@@ -153,7 +153,7 @@ The Director, FP&A reports to the [Senior Director, FP&A](#senior-director-fpa).
 
 #### Director, FP&A Job Grade
 
-The Director, FP&A is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, FP&A is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, FP&A Responsibilities
 
@@ -179,7 +179,7 @@ The Senior Director, FP&A reports to the [Vice President of Financial Planning a
 
 #### Senior Director, FP&A Job Grade
 
-The Senior Director, FP&A is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, FP&A is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, FP&A Responsibilities
 
@@ -200,9 +200,9 @@ The next step in the Financial Planning and Analysis job family is to move to th
 
 ## Performance Indicators
 
-- [Budget, Forecast Creation Cycle Time](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#budget-forecast-creation-cycle-time)
-- [Plan vs Actual](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
-- [Team Morale Score](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#team-morale-score)
+- [Budget, Forecast Creation Cycle Time](/handbook/finance/financial-planning-and-analysis/#budget-forecast-creation-cycle-time)
+- [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
+- [Team Morale Score](/handbook/finance/financial-planning-and-analysis/#team-morale-score)
 
 ## Hiring Process
 

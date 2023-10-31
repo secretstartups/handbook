@@ -12,7 +12,7 @@ The Director, IT Operations reports to the [Sr. Director, IT Operations](/job-fa
 
 #### Director, IT Operations Job Grade
 
-The Director, IT Operations is a [level 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, IT Operations is a [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, IT Operations Responsibilities
 
@@ -57,7 +57,7 @@ The Sr. Director, IT Operations reports to the [VP, Information Technology](/job
 
 #### Sr. Director, IT Operations Job Grade
 
-The Sr. Director, IT Operations is a [level 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sr. Director, IT Operations is a [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sr. Director, IT Operations Responsibilities
 
@@ -102,4 +102,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Interview with the CFO
 
 Please note that a candidate may declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -114,7 +114,7 @@ Understanding GitLab is [fully remote]({{< ref "/handbook/company/culture/all-re
 - cultivate better global communication
 - make progress toward building an inclusive environment
 
-[Coffee chats]({{< ref "/handbook/company/culture/all-remote/informal-communication#coffee-chats" >}}) are suggested during onboarding but you don't need to stop there. It is recommended to continue this action whenever you would like to. Please take a look at our [GitLab team page](https://about.gitlab.com/company/team/) and feel free to select someone for a coffee chat!
+[Coffee chats]({{< ref "/handbook/company/culture/all-remote/informal-communication#coffee-chats" >}}) are suggested during onboarding but you don't need to stop there. It is recommended to continue this action whenever you would like to. Please take a look at our [GitLab team page](/handbook/company/team/) and feel free to select someone for a coffee chat!
 
 ### Hold Each Other Accountable
 

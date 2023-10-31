@@ -97,7 +97,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 
 - For 1st and 2nd births, team members are entitled to 8 weeks paid by their employer and 8 weeks paid by the government.
 - The first 8 weeks of leave must be taken in one continuous block. The following 8 weeks may be broken up into different periods; however, it must end no later than 12 months from the child's date of birth.
-- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in Time Off by Deel at least 30 days before leave starts.
+- For [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in Time Off by Deel at least 30 days before leave starts.
 
 **Applying for government paid maternity leave**
 
@@ -112,7 +112,7 @@ Team members who have been continuously employed by GitLab for at least 3 months
 **To initiate leave:**
 
 - Team members must submit their leave request through Time Off by Deel by choosing the `Parental Leave` option.
-- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid maternity leave.
+- For [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid maternity leave.
 
 #### Paternity Leave
 

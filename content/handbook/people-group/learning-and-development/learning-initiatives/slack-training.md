@@ -88,7 +88,7 @@ Below you'll find the topics and links covered in each day of the training
 | 3 | Marking all messages as read | [Quick commands Slack docs](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts) |
 | 4 | Follow keywords in Slack | [Custom notifications Slack docs](https://slack.com/help/articles/4412437167251-Get-notified-about-topics-you-care-about) |
 | 5 | Using threads to organize conversations | [Slack usage at GitLab]({{< ref "communication#slack" >}}) |
-| 6 | Review of `here` and `channel` tag usage | [Reducing reliance on Slack at GitLab](https://about.gitlab.com/company/culture/all-remote/asynchronous) |
+| 6 | Review of `here` and `channel` tag usage | [Reducing reliance on Slack at GitLab](/handbook/company/culture/all-remote/asynchronous) |
 | 7 | Blocking time to catch up on Slack messages | [Do not Distrub mode Slack docs](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb#set-a-dnd-schedule) |
 | 8 | Using the `/remind` command | [Remind command Slack docs](https://slack.com/help/articles/208423427-Set-a-reminder)|
 | 9 | Moving conversations out of Slack and into Issues or MRs | [Slack usage at GitLab]({{< ref "communication#slack" >}}) |

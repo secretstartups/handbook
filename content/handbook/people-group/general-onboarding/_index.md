@@ -3,7 +3,7 @@ title: "GitLab Onboarding"
 description: "Onboarding at GitLab and Onboarding Issue Templates"
 ---
 
-Onboarding is [incredibly important](https://about.gitlab.com/company/culture/all-remote/onboarding/) at GitLab. We don't expect you to hit the ground running from day one.
+Onboarding is [incredibly important](/handbook/company/culture/all-remote/onboarding/) at GitLab. We don't expect you to hit the ground running from day one.
 
 We highly recommend taking at least two full weeks for onboarding and only in week three starting with team specific onboarding and training. Please feel free to participate in your team's work in your first two weeks, but don't feel like you have to contribute heavily.
 

@@ -10,9 +10,9 @@ Professional Services Engineers are expected to be able to interface not only wi
 
 | Level | Grade |
 | -- | - |
-| [Associate](#associate-professional-services-engineer) | [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Intermediate](#professional-services-engineer) | [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior](#senior-professional-services-engineer) | [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Associate](#associate-professional-services-engineer) | [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Intermediate](#professional-services-engineer) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior](#senior-professional-services-engineer) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ## Performance Indicator
 
@@ -96,13 +96,13 @@ As members of the GitLab field organization, Professional Services Engineers wil
 ### Requirements
 
 - Extends the general requirements with the following:
-- [Professional experience](https://about.gitlab.com/job-families/sales/professional-services-engineer/#professional-experience) with one or more IaC/CaC technologies:
+- [Professional experience](/job-families/sales/professional-services-engineer/#professional-experience) with one or more IaC/CaC technologies:
   - Terraform
   - Ansible
   - Packer
   - Puppet
   - Chef
-- [Professional experience](https://about.gitlab.com/job-families/sales/professional-services-engineer/#professional-experience) with one or more cloud providers:
+- [Professional experience](/job-families/sales/professional-services-engineer/#professional-experience) with one or more cloud providers:
   - AWS
   - GCP
   - Azure
@@ -150,20 +150,20 @@ The Responsibilities, Requirements, and Additional Sklls for Public Sector Profe
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Regional Delivery Manager
 Candidates may be invited to schedule an interview with Professional Services Engineer peer or other Professional Service team Manager.
 Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the Demo Guide.
 Candidates may be invited to additional interviews.
 Successful candidates will be made an offer after references are verified.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
 
 ## Career Ladder
 
 - The next steps for individual contributors is to move into:
   - A Manager role within this Job Family
   - To a Technical Architect role
-- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)

@@ -19,7 +19,7 @@ Please *do not* transfer to security and refer to the relevant workflow for the 
 - [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
 - [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
 - [Log Requests](/handbook/support/workflows/log_requests.html)
-- [Reporting a New Security Incident](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html)
+- [Reporting a New Security Incident](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
 
 You can also utilize the [`Security::All Security Questions`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-global/macros/-/blob/master/macros/active/Security/All%20Security%20Questions.yaml) macro for more details on the language. If the workflows above and the Macro do not resolve the customer's concern, please post a link to the ticket in the [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 
@@ -32,11 +32,11 @@ Vulnerability disclosures are no longer triaged via ZenDesk. When in doubt, plea
   macro.
 - If the report appears to be a valid security issue, or if in doubt:
   - If the severity may be an ~severity::1 or otherwise needs immediate investigation:
-    - [Engage the Security Engineer on-call](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html)
-    - Manually create an issue for report following the [creating a security issue instructions](https://about.gitlab.com/handbook/security/#creating-new-security-issues)
+    - [Engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html)
+    - Manually create an issue for report following the [creating a security issue instructions](/handbook/security/#creating-new-security-issues)
   - Otherwise, reply to the reporter to see if they wish to either:
     - Report via HackerOne
-    - Create a confidential issue themselves following the [creating a security issue instructions](https://about.gitlab.com/handbook/security/#creating-new-security-issues)
+    - Create a confidential issue themselves following the [creating a security issue instructions](/handbook/security/#creating-new-security-issues)
     - Have a team member create the issue and reply with their preference for acknowledgement.
     - To ensure timely handling of the report, let the reporter know that if no response
       within 3 business days, a GitLab team member will create the issue.
@@ -49,9 +49,9 @@ A summary of GitLab CVEs for specific versions is available in [Customer Success
 
 If the customer is asking about a security vulnerability published as part of a release,
 the only information we can provide is what is in the security blog post.
-For more information on security communication, please see the [security incident communication page](https://about.gitlab.com/handbook/security/security-operations/sirt/security-incident-communication-plan.html).
+For more information on security communication, please see the [security incident communication page](/handbook/security/security-operations/sirt/security-incident-communication-plan.html).
 
-Security will [make the issue public if possible](https://about.gitlab.com/handbook/security/#process-for-disclosing-security-issues) after a set number of days.
+Security will [make the issue public if possible](/handbook/security/#process-for-disclosing-security-issues) after a set number of days.
 
 If you believe more information should be made available in the blog post, or to a specific customer,
 please [open a confidential issue in the security communication tracker](https://gitlab.com/gitlab-com/gl-security/security-communications/communications/-/issues).
@@ -85,8 +85,8 @@ In the case that the customer has already filed an issue for the vulnerability:
 
 1. Add `security`, `customer`, and `bug` or `feature proposal` labels
 
-1. Assign [Severity and Priority Labels](https://about.gitlab.com/handbook/security/#severity-and-priority-labels-on-security-issues)
+1. Assign [Severity and Priority Labels](/handbook/security/#severity-and-priority-labels-on-security-issues)
 
 ### If the customer has not yet created an issue
 
-See [Creating New Security Issues](https://about.gitlab.com/handbook/security/#creating-new-security-issues)
+See [Creating New Security Issues](/handbook/security/#creating-new-security-issues)

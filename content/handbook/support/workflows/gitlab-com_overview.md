@@ -24,7 +24,7 @@ Numerous Support team members including all SaaS focused ones also assist with i
 
 When signing up, users agree to our [terms](https://about.gitlab.com/terms/), which means they are bound by them as well.
 
-Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](https://about.gitlab.com/handbook/security/security-operations/).
+Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](/handbook/security/security-operations/).
 
 ## Administration
 

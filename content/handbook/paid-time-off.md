@@ -8,9 +8,9 @@ This policy relates to the types of leaves that GitLab offers and the guidelines
 
 ## Paid Time Off
 
-Time away from work can be extremely helpful for maintaining a [healthy work/life balance](https://about.gitlab.com/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership]({{< ref "leadership" >}}) to set the example by taking time off when needed, and ensuring their reports do the same.
+Time away from work can be extremely helpful for maintaining a [healthy work/life balance](/handbook/company/culture/all-remote/people/#worklife-harmony). GitLab encourages managers and [leadership]({{< ref "leadership" >}}) to set the example by taking time off when needed, and ensuring their reports do the same.
 
-Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's operating principle [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}), but it is vital to maintaining [mental health](https://about.gitlab.com/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
+Taking time off is not a selfish behavior. Not only is time away from work aligned with GitLab's operating principle [Family and friends first, work second]({{< ref "values#family-and-friends-first-work-second" >}}), but it is vital to maintaining [mental health](/handbook/company/culture/all-remote/mental-health/). It is also a core part of the creative process.
 
 It is important to take time off to recharge batteries and refresh the mind so you can come back to GitLab with renewed energy and be prepared to do your best work ever!
 
@@ -31,7 +31,7 @@ Paid time off is in addition to any [official public holidays](#holidays) that a
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [Time Off by Deel](#time-off-by-deel) as the single source of truth to accurately track and communicate all time off.**
 
-**Note:** Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](https://about.gitlab.com/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
+**Note:** Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](/handbook/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
 {: .note}
 
 1. As of 2022-05-01, we’ve created a Flexible PTO policy to better outline communication expectations for team members and managers. This means that:
@@ -87,7 +87,7 @@ Communicate broadly when you will be away so other people can manage time effici
 1. If your team or work group has a specific scheduling calendar, ensure to update it with your out of office plans.
 1. Decline any meetings you will not be present for so the organizer can make appropriate arrangements.
     - Cancel, move, or find coverage for any meetings for which you are the organizer.
-    - Optionally, if you partake in [Donut coffee chat pairings](https://about.gitlab.com/company/culture/all-remote/tips/#coffee-chats) you can temporarily “snooze” them by opening a direct message with Donut and typing `help` to indicate which weeks you won't be able to participate. Pairings will automatically resume when you’re back.
+    - Optionally, if you partake in [Donut coffee chat pairings](/handbook/company/culture/all-remote/tips/#coffee-chats) you can temporarily “snooze” them by opening a direct message with Donut and typing `help` to indicate which weeks you won't be able to participate. Pairings will automatically resume when you’re back.
 1. If you are an interviewer, review your calendar to address any scheduled interviews. To ensure we provide a great candidate experience, if you find that you cannot attend an interview, you will be responsible for finding a replacement interviewer. You must communicate directly with your recruiter, as being out of the office does not always mean that you will be unavailable to interview.
 1. If you're one of the people who typically handle availability emergencies (the on-call heroes), you **do** need to ensure that someone will be available to cover for you while you're out of office. You can check for this with your manager. Managers can import their team's calendars into their Google Calendar to get a quick view of their team members' availability.
 1. Being part of a global remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
@@ -125,9 +125,9 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 
 1. Remember that it's normal to take extra time to catch up after returning from paid time off. Taking time off doesn't mean that you need to work extra hours before or after your vacation. When taking extended time off, expect to have reduced capacity to take on new work the week of your return while you're catching up on the work that happened while you were away. Remember that [it's impossible to know everything]({{< ref "values#its-impossible-to-know-everything" >}}).
 
-1. Honor a window of transition when returning from PTO and recognize that [rest and time off is productive](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive). Big, reflective moments may happen when you take a step back and reflect. Before catching up on all missed emails and Slack messages, consider first revisiting priority projects to take action on these reflections. In our [interview about managing burnout](https://about.gitlab.com/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive), John Fitch described this approach as spending time working *on* your projects, rather than *in* your projects. This could look like blocking off a few days with no meetings to complete deep work on an OKR or hosting a collaborative session with your team to brainstorm.
+1. Honor a window of transition when returning from PTO and recognize that [rest and time off is productive](/handbook/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive). Big, reflective moments may happen when you take a step back and reflect. Before catching up on all missed emails and Slack messages, consider first revisiting priority projects to take action on these reflections. In our [interview about managing burnout](/handbook/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive), John Fitch described this approach as spending time working *on* your projects, rather than *in* your projects. This could look like blocking off a few days with no meetings to complete deep work on an OKR or hosting a collaborative session with your team to brainstorm.
 
-1. When returning from paid time off, it can be helpful to schedule a [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
+1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
 
 #### Adjust/Remove PTO from past events
 
@@ -324,7 +324,7 @@ You can bulk add holidays based on your region and then modify them manually if 
 
 #### Monthly reminder to consider taking PTO
 
-We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. Time Off by Deel allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](https://about.gitlab.com/company/culture/all-remote/mental-health/).
+We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. Time Off by Deel allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/handbook/company/culture/all-remote/mental-health/).
 
 The reminder will read as follows.
 
@@ -436,7 +436,7 @@ Taking time off should be a chance for a team members to step away from work and
 
 ### Recognizing Burnout
 
-It is important for us to take a step back to recognize and acknowledge the feeling of being "[burned out](https://about.gitlab.com/company/culture/all-remote/mental-health/)".
+It is important for us to take a step back to recognize and acknowledge the feeling of being "[burned out](/handbook/company/culture/all-remote/mental-health/)".
 We are not as effective or efficient when we work long hours, miss meals or forego nurturing our personal lives
 for sustained periods of time. If you feel that you or someone on your team may be experiencing [burnout](http://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642), be sure to address it right away.
 

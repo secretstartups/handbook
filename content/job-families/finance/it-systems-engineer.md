@@ -35,7 +35,7 @@ The IT Systems Engineer is responsible for performing functions such as evaluati
 
 #### Job Grade
 
-The IT Systems Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The IT Systems Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -56,7 +56,7 @@ The IT Systems Engineer position has all the same requirements as the ones outli
 
 #### Senior IT Systems Engineer Job Grade
 
-The Senior IT Systems Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior IT Systems Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior IT Systems Engineer Responsibilities
 
@@ -90,7 +90,7 @@ A Staff IT Systems Engineer focuses on multiple disciplines and cross-department
 
 #### Staff IT Systems Engineer Job Grade
 
-The Staff IT Systems Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff IT Systems Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff IT Systems Engineer Responsibilities
 
@@ -136,13 +136,13 @@ The next step in the IT Systems Engineer job family is to move to the [IT Manage
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Candidates will be invited to complete a 'take home assessment'.  This is to be completed in your own time and returned within 3-5 working days
 - Next, candidates will be invited to schedule an interview with the Hiring Manager
 - Candidates will then be invited to schedule a Team interview with two members of the IT Operations team in a panel interview
 - Candidates will also be invited to schedule a Technical interview with two other team members
 - Finally, candidates will interview with our VP, Business Technology
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -48,7 +48,7 @@ environment, please complete the
   - documentation (the template should be automatically adding this label, but check to make sure).
   - group [scoped label](https://docs.gitlab.com/ee/user/project/labels.html#scoped-labels) (if in doubt, it should be listed at the top of the docs page)
   - customer (if related to a ticket)
-  - *Note: the bot will add the stage, section, [Support Team Contributions](https://about.gitlab.com/handbook/support/#support-fixes), and docs-only labels if you don't*
+  - *Note: the bot will add the stage, section, [Support Team Contributions](/handbook/support/#support-fixes), and docs-only labels if you don't*
 - Follow the [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html) and set the relevant Technical Writer (TW) as a Reviewer.
   - The documentation template has instructions on how to find this, but basically refer to the metadata information at the top of the source version of the docs page.
   - Check the [Technical Writing Assignments](https://about.gitlab.com/handbook/product/ux/technical-writing/#assignments) to find the appropriate tech writer for the page you edited.

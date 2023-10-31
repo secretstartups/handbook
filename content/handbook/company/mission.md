@@ -10,14 +10,14 @@ It is GitLab's mission to make it so that **everyone can contribute**.
 
 There are three ways you can contribute:
 
-1. [Everyone can contribute with GitLab](/company/mission/#contribute-with-gitlab)
-1. [Everyone can contribute to GitLab, the application](/company/mission/#contribute-to-gitlab-application)
-1. [Everyone can contribute to GitLab, the company](/company/mission/#contribute-to-gitlab-company)
+1. [Everyone can contribute with GitLab](/handbook/company/mission/#contribute-with-gitlab)
+1. [Everyone can contribute to GitLab, the application](/handbook/company/mission/#contribute-to-gitlab-application)
+1. [Everyone can contribute to GitLab, the company](/handbook/company/mission/#contribute-to-gitlab-company)
 
 ### Everyone can contribute with GitLab{#contribute-with-gitlab}
 
 To ensure that **everyone can contribute with GitLab** we allow anyone to create a proposal, at any time, without setup, and with confidence. Let's analyze that sentence a bit.
-- Anyone: Every person in the world should be able to afford great DevSecOps software. GitLab.com has free private repos and CI runners and GitLab CE is [free as in speech and as in beer](http://www.howtogeek.com/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/). But open source is more than a license, that is why we are [a good steward of GitLab CE](/company/stewardship/) and keep both GitLab CE and EE open to inspection, modifications, enhancements, and suggestions.
+- Anyone: Every person in the world should be able to afford great DevSecOps software. GitLab.com has free private repos and CI runners and GitLab CE is [free as in speech and as in beer](http://www.howtogeek.com/31717/what-do-the-phrases-free-speech-vs.-free-beer-really-mean/). But open source is more than a license, that is why we are [a good steward of GitLab CE](/handbook/company/stewardship/) and keep both GitLab CE and EE open to inspection, modifications, enhancements, and suggestions.
 - Create: It is a [single application](https://about.gitlab.com/handbook/product/single-application/) based on [convention over configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration).
 - Proposal: With Git, if you can read it, you can fork it to create a proposal.
 - At any time: You can work concurrently with other people, without having to wait for permission or approval from others.
@@ -70,21 +70,21 @@ We welcome all contributors in the [www-gitlab-com project](https://gitlab.com/g
 
 ## Cadence and Alignment
 
-Our Mission is on a 30 year [cadence](/company/cadence/#30-years).
+Our Mission is on a 30 year [cadence](/handbook/company/cadence/#30-years).
 
 ### Purpose
 
-[Our purpose](/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevSecOps platform.
+[Our purpose](/handbook/company/purpose/) is to help people **increase their lifetime earnings** through training, access to opportunities, and the DevSecOps platform.
 
-Our mission is the way we realize [our purpose](/company/purpose/). By making it so **everyone can contribute**, we increase access for people to be creators. With more contributors and more creators, we increase both the volume and velocity of innovation. More innovation drives economic progress that [benefits consumers, businesses, and the economy as a whole](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/growth.en.html). As a result, innovation both directly and indirectly increases the total volume of available opportunities and average value of each individual opportunity.
+Our mission is the way we realize [our purpose](/handbook/company/purpose/). By making it so **everyone can contribute**, we increase access for people to be creators. With more contributors and more creators, we increase both the volume and velocity of innovation. More innovation drives economic progress that [benefits consumers, businesses, and the economy as a whole](https://www.ecb.europa.eu/ecb/educational/explainers/tell-me-more/html/growth.en.html). As a result, innovation both directly and indirectly increases the total volume of available opportunities and average value of each individual opportunity.
 
 Access to a broader set of more valuable opportunities ultimately **increases people's lifetime earnings**.
 
-[Our purpose](/company/purpose/) is on the same 30 year cadence as our mission. [Our purpose](/company/purpose/) informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/company/cadence/). As a result, progress for the items on our [cadence page](/company/cadence/) like [Yearlies](/company/yearlies/) creates progress for both our mission and [our purpose](/company/purpose/).
+[Our purpose](/handbook/company/purpose/) is on the same 30 year cadence as our mission. [Our purpose](/handbook/company/purpose/) informs our mission, which directly or indirectly informs the rest of the items in [our cadence](/handbook/company/cadence/). As a result, progress for the items on our [cadence page](/handbook/company/cadence/) like [Yearlies](/handbook/company/yearlies/) creates progress for both our mission and [our purpose](/handbook/company/purpose/).
 
 ### Vision
 
-Our mission is the inspiration for [our vision](https://about.gitlab.com/company/vision/). Our vision is on a 10 year cadence.
+Our mission is the inspiration for [our vision](/handbook/company/vision/). Our vision is on a 10 year cadence.
 
 ### Values
 
@@ -107,6 +107,6 @@ This policy is in alignment with our mission, contributor and employee code-of-c
 
 ## Mitigating Concerns
 
-We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](https://about.gitlab.com/handbook/leadership/mitigating-concerns/).
+We acknowledge the concerns to achieving our goals. We document them in our [Mitigating Concerns page](/handbook/leadership/mitigating-concerns/).
 
 {{% include "includes/take-gitlab-for-a-spin.md" %}}

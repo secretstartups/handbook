@@ -14,7 +14,7 @@ They own the delivery of test automation tools and strategy and coordinate acros
 
 ### Job Grade
 
-The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Quality Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -46,7 +46,7 @@ The Manager, Quality Engineering is a [grade 8](https://about.gitlab.com/handboo
 - Ability to be successful managing at a remote-only company.
 - Humble, servant leader.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab.
 
 ### Nice-to-have Requirements
@@ -71,7 +71,7 @@ Please keep in mind that candidates can be declined from the position at any sta
 As a result an interview can be canceled at any time even if the interviews are very close (e.g. a few hours apart).
 
 - A short questionnaire from our Recruiting team
-- 30 minute [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter
+- 30 minute [Screening call](/handbook/hiring/#screening-call) with a recruiter
 - 1 hour interview with the hiring manager
 - 1 hour technical Interview with a Software Engineer in Test
 - 1 hour direct report interview with two Software Engineers in Test
@@ -84,7 +84,7 @@ The Senior Manager, Quality Engineering role extends the [Manager, Quality Engin
 
 ### Job Grade
 
-The Senior Manager, Quality Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Quality Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -119,7 +119,7 @@ Please keep in mind that candidates can be declined from the position at any sta
 As a result an interview can be canceled at any time even if the interviews are very close (e.g. a few hours apart).
 
 - A short questionnaire from our Recruiting team
-- 30 minute [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter
+- 30 minute [Screening call](/handbook/hiring/#screening-call) with a recruiter
 - 1 hour interview with the hiring manager
 - 1 hour technical Interview with a Software Engineer in Test
 - 1 hour direct report interview with two Software Engineers in Test
@@ -132,7 +132,7 @@ The Director, Quality Engineering role extends the [Manager, Quality Engineering
 
 ### Job Grade
 
-The Director, Quality Engineering is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Quality Engineering is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -167,7 +167,7 @@ The VP of Quality role extends the [Director, Quality Engineering](#director-qua
 
 ### Job Grade
 
-The VP of Quality is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Quality is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

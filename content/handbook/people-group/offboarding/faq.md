@@ -60,7 +60,7 @@ Please reach out to the Payroll team `nonuspayroll@gitlab.com` before your last 
 
 ### When will I receive my final pay?
 
-This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additional questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location).
+This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](/handbook/finance/payroll/#pay-date). If you have any additional questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location).
 
 ### When will I receive (if applicable) commission payment(s)?
 
@@ -72,13 +72,13 @@ Please create your final expense report in Navan (for employees), OR, please fil
 
 ### How do I submit reimbursable expenses if I don’t have a GitLab access to Navan?
 
-Please follow the process as listed on the Expense Handbook [page](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
+Please follow the process as listed on the Expense Handbook [page](/handbook/finance/expenses/#expense-reimbursement-for-terminated-team-members). For any queries regarding final expenses, please send an email to `ap@gitlab.com`
 
 ### Other Reimbursements, Refunds or Repurchasements
 
 - Please review our Loan Policy in the [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d) if it applies to you. Please also note that in the event that a loan is approved, a legal contract, in accordance to the team member's state, local or federal laws regarding loans and repayment of loans during employment, will be created by the Legal team. It will lay out the complete loan terms, repayment and refunding policy if applicable. If you leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if applicable and legally allowed, as laid out in the terms of the original contract and with support from the Payroll team.
 - Please review our [Unpaid Leave]({{< ref "paid-time-off#unpaid-leave-of-absence" >}}) section regarding payments in error.
-- Please review our policy regarding [Repurchasing Unvested Shares](https://about.gitlab.com/handbook/stock-options/#exercising-your-options).
+- Please review our policy regarding [Repurchasing Unvested Shares](/handbook/stock-options/#exercising-your-options).
 
 ## Total Rewards - Benefits
 
@@ -88,7 +88,7 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 ### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure?
 
-All information is on the [Stock Options](https://about.gitlab.com/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](https://about.gitlab.com/handbook/stock-options/#exercise-window-after-termination) section.
+All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
 ### What if I am a designated Insider?
 
@@ -147,4 +147,4 @@ If you move, please email `people-connect@gitlab.com` so that the People Conne
 
 ### Do I need to return previously expensed Home Office Items?
 
-Please read about the laptop guidelines [here]({{< ref "/handbook/people-group/offboarding/faq#can-i-purchase-my-laptop-from-gitlab" >}}). [Home Office Items](https://about.gitlab.com/handbook/finance/procurement/office-equipment-supplies/#-home-office-items) under $1000 USD per item don't need to get returned and are okay for you to keep. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property and you will be required to return the item(s) if you leave the company.
+Please read about the laptop guidelines [here]({{< ref "/handbook/people-group/offboarding/faq#can-i-purchase-my-laptop-from-gitlab" >}}). [Home Office Items](/handbook/finance/procurement/office-equipment-supplies/#-home-office-items) under $1000 USD per item don't need to get returned and are okay for you to keep. If you make a purchase that will cost GitLab $1000 USD per item (or over), this is classed as company property and you will be required to return the item(s) if you leave the company.

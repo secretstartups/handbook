@@ -37,7 +37,7 @@ Make sure to [add an admin note]({{< ref "admin_note" >}}) on a user/group we to
 
 For the process of sending the outbound contact requests in Zendesk, please
 review the
-[Support Readiness documentation](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
+[Support Readiness documentation](/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
 for more information.
 
 ### Customer Ticket Generator (Deprecated)

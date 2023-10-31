@@ -9,7 +9,7 @@ The Investor Relations analyst will be involved in multiple IR activities. They 
 
 #### Job Grade
 
-The Investor Relations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Investor Relations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -39,7 +39,7 @@ The Vice President of Investor Relations drives the strategy and long-term marke
 
 #### Job Grade
 
-The Vice President, Investor Relations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).\
+The Vice President, Investor Relations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).\
 
 #### Responsibilities
 
@@ -68,7 +68,7 @@ The Vice President, Investor Relations is a [grade 12](https://about.gitlab.com/
 ## Performance Indicators
 
 1. [New Hire Location Factor](/#new-hire-location-factor)
-1. [Enterprise Value to Sales](https://about.gitlab.com/handbook/finance/investor-relations/#enterprise-value-to-sales)
+1. [Enterprise Value to Sales](/handbook/finance/investor-relations/#enterprise-value-to-sales)
 1. Percent of analysts who describe the company the same way we do
 1. Percent of unanticipated questions during earning calls; Target > 80% of questions are anticipated
 1. Investor satisfaction

@@ -6,7 +6,7 @@ description: "Communication channels for GitLab Support"
 
 
 
-Our [support engineers](https://handbook.gitlab.com/job-families/engineering/support-engineer) handle the channels listed below. They are sorted in order of priority (strictest SLA at top), and as a result, it is possible that channels that appear lower in this list experience longer delays in receiving responses. We are actively [hiring](https://about.gitlab.com/jobs/) more Support Engineers to strengthen the team and provide support to the community.
+Our [support engineers](/job-families/engineering/support-engineer) handle the channels listed below. They are sorted in order of priority (strictest SLA at top), and as a result, it is possible that channels that appear lower in this list experience longer delays in receiving responses. We are actively [hiring](https://about.gitlab.com/jobs/) more Support Engineers to strengthen the team and provide support to the community.
 
 ## Emergency Tickets
 
@@ -28,17 +28,17 @@ If an emergency takes longer than an hour to resolve, and/or multiple people are
 
 We have a [Responsible Disclosure Policy](https://about.gitlab.com/security/disclosure/). Users who reach out to `security@gitlab.com` will now receive an auto-reply providing them with specific instructions for reporting the various types of security concerns, and the ticket will be automatically closed. There is more [information on HackerOne](/handbook/support/channels#hackerone) below.
 
-Refer to [working with Security](https://about.gitlab.com/handbook/support/workflows/working_with_security.html) for information on identifying and handling any open security tickets.
+Refer to [working with Security](/handbook/support/workflows/working_with_security.html) for information on identifying and handling any open security tickets.
 
 When in doubt, please involve the security team. This is really important to reduce the likelihood of a 0-day disclosure.
 
-Issues created from ZenDesk tickets must follow the [security issue triage](https://about.gitlab.com/handbook/security/#issue-triage) process.
+Issues created from ZenDesk tickets must follow the [security issue triage](/handbook/security/#issue-triage) process.
 
-Reports that are PGP-encrypted will be handled by the [Security Team](https://about.gitlab.com/handbook/security/#external-contact-information).
+Reports that are PGP-encrypted will be handled by the [Security Team](/handbook/security/#external-contact-information).
 
 ### HackerOne
 
-We use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](https://about.gitlab.com/handbook/security/#hackerone-reports).
+We use [HackerOne](https://hackerone.com/gitlab) to manage security reports. The HackerOne program is managed by the Security Team. The complete workflow for handling HackerOne reports can be found on the [Security Team page](/handbook/security/#hackerone-reports).
 
 If a Team Member requires access to HackerOne, create an [access request](https://gitlab.com/gitlab-com/Team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
 

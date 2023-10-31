@@ -7,13 +7,13 @@ description: "Review of organizational health metrics and capability on a regula
 
 To further our principles of responsible growth, we review organizational health metrics and capability on a regular cadence.
 
-In addition to ongoing company level review and People Group KPIs, People Business Partners provide insights and recommendations to senior leaders based on organizational health metrics at a Division level.  A holistic review of organizational health metrics such as growth rate, turnover, promotion rate, engagement data, organizational shape, span of control, [Single Points of Failure](https://handbook.gitlab.com/handbook/people-group/talent-assessment/#key-talent-and-single-points-of-failure-spof) and DIB metrics support leaders in making data-driven talent decisions, such as organizational design, budget planning, and headcount planning.
+In addition to ongoing company level review and People Group KPIs, People Business Partners provide insights and recommendations to senior leaders based on organizational health metrics at a Division level.  A holistic review of organizational health metrics such as growth rate, turnover, promotion rate, engagement data, organizational shape, span of control, [Single Points of Failure](/handbook/people-group/talent-assessment/#key-talent-and-single-points-of-failure-spof) and DIB metrics support leaders in making data-driven talent decisions, such as organizational design, budget planning, and headcount planning.
 
-You can review more on our organizational structure on this [handbook page](https://about.gitlab.com/company/team/structure)
+You can review more on our organizational structure on this [handbook page](/handbook/company/team/structure)
 
 ## Cadence of Division Level Organizational Health Reviews
 
-Throughout the year, People Business Partners (PBPs) can access organizational health data at the Division level (and in some cases Department level) in Tableau through [People Dashboards](https://about.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/people-tableau/) managed by the [People Analytics team](https://about.gitlab.com/handbook/people-group/people-ops-tech-analytics/people-analytics/).
+Throughout the year, People Business Partners (PBPs) can access organizational health data at the Division level (and in some cases Department level) in Tableau through [People Dashboards](/handbook/people-group/people-ops-tech-analytics/people-analytics/people-tableau/) managed by the [People Analytics team](/handbook/people-group/people-ops-tech-analytics/people-analytics/).
 
 In addition to the ongoing review of organizational health trends throughout the year, we have two formal touchpoints built in to ensure cross functional alignment to our organizational design strategy, and to inform budget planning.
 
@@ -27,7 +27,7 @@ At a Division level, we review organizational design capability on the following
 
 #### Q3: Organizational Design Planning
 
-**Purpose:** Assess organizational capability and gaps leveraging a prepared summary of current organizational health metrics and trends in advance of Q4 Talent Assessment and [Annual Planning](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#fy25-plan-milestones).
+**Purpose:** Assess organizational capability and gaps leveraging a prepared summary of current organizational health metrics and trends in advance of Q4 Talent Assessment and [Annual Planning](/handbook/finance/financial-planning-and-analysis/#fy25-plan-milestones).
 Identify single points of failure and proposed mitigation strategies, including budget required to mitigate.
 
 **Process:** In collaboration with People Analytics, PBP reviews a prepared summary of current org health metrics and trends with e-group leaders/senior leadership to identify opportunities and prepare for Annual Planning. Organizational Health metrics include: growth, turnover rate, promotion rate, organizational shape (distribution by level), span of control, and representation metrics.
@@ -47,11 +47,11 @@ We review data for a Peer Group and against the Industry. "Peer Group" is a grou
 
 Single Points of Failure (SPOF) refers to a single person whose absence would significantly impact the ability of an area of the company to function. The purposee of identifying Single Points of Failure within the organization is to ensure that risk is mitigated and to highlight and inform potential gaps in the context of current hiring and headcount planning for the next fiscal year.
 
-Team members that are identified as Key Talent can also be SPOF, as the definition of SPOF overlaps with a few of the [Key Talent Criteria outlined](https://about.gitlab.com/handbook/people-group/talent-assessment/#key-talent-criteria), however, a **team member who is identified as SPOF is not also Key Talent by default.**
+Team members that are identified as Key Talent can also be SPOF, as the definition of SPOF overlaps with a few of the [Key Talent Criteria outlined](/handbook/people-group/talent-assessment/#key-talent-criteria), however, a **team member who is identified as SPOF is not also Key Talent by default.**
 
-A few key differences between Key Talent and SPOF include: team member’s performance and growth potential, risk mitigation plans, and support/development strategies. While the [impact of being identified as Key Talent](https://about.gitlab.com/handbook/people-group/talent-assessment/#impact-of-being-identified-as-key-talent) is focused primarily on growth opportunities, compensation, and influencing succession planning, the impact of being identified as SPOF is primarily focused on risk mitigation.
+A few key differences between Key Talent and SPOF include: team member’s performance and growth potential, risk mitigation plans, and support/development strategies. While the [impact of being identified as Key Talent](/handbook/people-group/talent-assessment/#impact-of-being-identified-as-key-talent) is focused primarily on growth opportunities, compensation, and influencing succession planning, the impact of being identified as SPOF is primarily focused on risk mitigation.
 
-Note that all team members should be having regular [career conversations](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#having-career-conversations) with their managers regardless of whether they are identified as SPOF, Key Talent, or neither one. The risk mitigation focus for SPOF does not imply growth is not important for these individuals, but rather that leaders have an additional responsibility to be mindful of business continuity and mitigate risk to ensure organizational health remains strong.
+Note that all team members should be having regular [career conversations](/handbook/people-group/learning-and-development/career-development/#having-career-conversations) with their managers regardless of whether they are identified as SPOF, Key Talent, or neither one. The risk mitigation focus for SPOF does not imply growth is not important for these individuals, but rather that leaders have an additional responsibility to be mindful of business continuity and mitigate risk to ensure organizational health remains strong.
 
 A key aspect of identifying Single Points of Failure (SPOF) within the organization, is creating mitigation plans to minimize and eventually eliminate risk for the business. [This template](https://docs.google.com/document/d/1BBqr7Tj9gnRmkUHGG53ezDlPpu_rCvkveGiOvYLGJp8/edit) is available for leadership and managers to partner to think through and document risk mitigation strategies and timeline for team members identified as SPOF. While not required, documentation of mitigation plans is highly encouraged.
 

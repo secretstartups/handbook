@@ -8,7 +8,7 @@ The Procurement Operations job family supports procurement and spend management 
 
 #### Procurement Operations Analyst (Intermediate) Job Grade
 
-The Procurement Operations Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Procurement Operations Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Procurement Operations Analyst (Intermediate) Responsibilities
 
@@ -38,7 +38,7 @@ The Procurement Operations Analyst is a [grade 5](https://about.gitlab.com/handb
 
 #### Senior Procurement Operations Analyst Job Grade
 
-The Senior Procurement Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Procurement Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Procurement Operations Analyst Responsibilities
 
@@ -56,7 +56,7 @@ The Senior Procurement Operations Analyst is a [grade 6](https://about.gitlab.co
 
 #### Procurement Category Manager (Intermediate) Job Grade
 
-The Procurement Category Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Procurement Category Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Procurement Category Manager (Intermediate) Responsibilities
 
@@ -90,7 +90,7 @@ The Procurement Category Manager is a [grade 7](https://about.gitlab.com/handboo
 
 #### Manager, Procurement Job Grade
 
-The Manager, Procurement is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Procurement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Procurement Responsibilities
 
@@ -123,7 +123,7 @@ The Manager, Procurement is a [grade 8](https://about.gitlab.com/handbook/total-
 
 #### Senior Manager, Procurement Job Grade
 
-The Senior Manager, Procurement is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Procurement is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Procurement Responsibilities
 
@@ -143,7 +143,7 @@ The Senior Manager, Procurement is a [grade 9](https://about.gitlab.com/handbook
 
 #### Director, Procurement Job Grade
 
-The Director, Procurement is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Procurement is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Procurement Responsibilities
 
@@ -163,7 +163,7 @@ The Director, Procurement is a [grade 10](https://about.gitlab.com/handbook/tota
 
 #### Senior Director, Procurement Job Grade
 
-The Director, Procurement is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Procurement is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Procurement Responsibilities
 
@@ -207,4 +207,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to interview with 2 - 4 Team Members
 - Finally, candidates may be invited for a final inteview if applicable to the leveling of the role.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

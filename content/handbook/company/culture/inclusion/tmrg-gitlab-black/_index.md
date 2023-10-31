@@ -23,21 +23,21 @@ This group is open to all members of the GitLab community.
 
 ## Leads
 
-- [April Marks](https://about.gitlab.com/company/team/#aprilmarks)
-- [Marcus Carter](https://about.gitlab.com/company/team/#marcusbriancarter)
-- [Madou Coulibaly](https://about.gitlab.com/company/team/#madou)
+- [April Marks](/handbook/company/team/#aprilmarks)
+- [Marcus Carter](/handbook/company/team/#marcusbriancarter)
+- [Madou Coulibaly](/handbook/company/team/#madou)
 
 ## Executive Sponsors
 
-- [David DeSanto](https://about.gitlab.com/company/team/#david)
-- [Sherida McMullan](https://about.gitlab.com/company/team/#sheridam)
-- [Liam McNally](https://about.gitlab.com/company/team/#lmcnally1)
+- [David DeSanto](/handbook/company/team/#david)
+- [Sherida McMullan](/handbook/company/team/#sheridam)
+- [Liam McNally](/handbook/company/team/#lmcnally1)
 
 ## Career Dev Subcommittees
 
-- [Darva Satcher](https://about.gitlab.com/company/team/#dsatcher)
-- [Mam Joof](https://about.gitlab.com/company/team/#mjoof1)
-- [Erran Carrey](https://about.gitlab.com/company/team/#erran)
+- [Darva Satcher](/handbook/company/team/#dsatcher)
+- [Mam Joof](/handbook/company/team/#mjoof1)
+- [Erran Carrey](/handbook/company/team/#erran)
 
 ## How to Join
 

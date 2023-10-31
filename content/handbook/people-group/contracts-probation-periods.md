@@ -40,7 +40,7 @@ The Senior Manager, Global Enablement reviews if all Greenhouse tokens are corre
     - Make a copy of the template and save it to the working documents folder on Google Drive to edit
 1. Once the new contract and cover letter have been created, ping a Candidate Experience Specialist for auditing.
 1. Send the audited created documents and any additional details on the correction to Legal for review.
-1. Once approved by Legal stage the cover letter and new contract in DocuSign and send it for signature first to the [Company signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and subsequently to the team member.
+1. Once approved by Legal stage the cover letter and new contract in DocuSign and send it for signature first to the [Company signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and subsequently to the team member.
 1. Upload the signed documents to the team member's documents folder in Workday.
 1. If applicable, make any necessary updates to the team member's Workday profile and email Total Rewards total-rewards@ gitlab.com and Payroll uspayroll@ gitlab.com or nonuspayroll@ gitlab.com to notify them of the changes.
 
@@ -214,7 +214,7 @@ When renewing a contract, if it is to be for 12 months, the timeframes are at be
 1. At least 1 month before the end of the contract, the manager informs the team member of the extension or not.
 1. If a salary increase is required due to updated [visa salary requirements]({{< ref "visas#right-to-immigrate-to-the-netherlands" >}}) the People Connect Team member requests approvals from the team member's manager, total rewards and finally the team member's Division's E-Group leader.
 1. The People Connect Team member uploads the approval to the Workday Documents folder.
-1. If the contract extension is approved, the People Connect Team member creates the contract and stages it via Docusign for the team member and [GitLab signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
+1. If the contract extension is approved, the People Connect Team member creates the contract and stages it via Docusign for the team member and [GitLab signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) to sign. Add hr@savvy-group.eu to 'Receive a copy' once signed.
 - As we would honour the original hire date in terms of GitLab seniority add the following sentence into the contract after the contract start date: "Your continuity of service for statutory purposes begins on the {{Original Hire Date}}."
 - Do not keep the `Stock Options` line in the Key Terms section, unless additional shares are being given.
 - Be sure to write both the Start date and Birth date of the team member in the **Month DD, YYYY** format to prevent confusion.

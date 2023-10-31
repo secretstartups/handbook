@@ -82,4 +82,4 @@ Windows usage on laptop hardware is the least preferred option. If you have a le
 
 ## Exception Process
 
-Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](https://about.gitlab.com/handbook/security/#information-security-policy-exception-management-process)
+Exceptions must follow the Exception Management process as outlined in the [GitLab Security Handbook page](/handbook/security/#information-security-policy-exception-management-process)

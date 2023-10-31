@@ -12,7 +12,7 @@ The Business Systems Architect (Intermediate) reports to the [Director, Sales Sy
 
 #### Business Systems Architect (Intermediate) Job Grade
 
-The Business Systems Architect (Intermediate) is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Systems Architect (Intermediate) is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Business Systems Architect (Intermediate) Responsibilities
 
@@ -64,11 +64,11 @@ The Business Systems Architect Job Family would move into the [Sales Systems Lea
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+- Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 - Initial phone/video screen from a GitLab Talent Acquisition professional.
 - Phone/video interview with hiring manager and typically two additional GitLab team member.
 - Final interview with 1+ GitLab executives.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -82,7 +82,7 @@ It is important to enable a human-to-human approach and realize the other party 
 ## Psychological Safety Learning & Development
 
 {{% alert %}}
-[Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
+[Psychological Safety Short Course](/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
 {.h4}
 {{% /alert %}}
 
@@ -91,7 +91,7 @@ If you want to learn more about how you can impact psychological safety, you can
 You can:
 
 - Access the [Psychological Safety Short Course here](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/psychological-safety-understanding-empowerment-and-self-reflection).
-- Read the [content of the course here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
+- Read the [content of the course here](/handbook/leadership/emotional-intelligence/psychological-safety-short-course/).
 
 ## Live Learning Session
 
@@ -126,7 +126,7 @@ The challenge was organized in [an Epic](https://gitlab.com/groups/gitlab-com/pe
 
 | Day | Challenge | Time | Format | Activity | Competency |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
+| Day 1 | Introduction to Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read the [Psychological Safety Handbook Page](/handbook/leadership/emotional-intelligence/psychological-safety/) <br> Comment on the daily issue in response to: What does psychological safety mean to you? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 2 | Importance of Psychological Safety | 20 minutes | Self-paced Daily Challenge | Watch [The importance of psychological safety: Amy Edmondson](https://www.youtube.com/watch?v=eP6guvRt0U0) <br> Comment on the daily issue in response to: Throughout your career, what zone(s) (Comfort, Apathy, Learning, or Anxiety - outlined here) have you found yourself in? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 3 | Increasing Psychological Safety | 20 minutes | Self-paced Daily Challenge | Read [7 ways to create psychological safety in your workplace](https://blog.jostle.me/blog/psychological-safety-at-work) <br> Comment on the daily issue in response to: What can you do to increase psychological safety within the teams you are a part of at GitLab? Have you tried or experienced any of these things in the past? | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
 | Day 4 | Attend Live Learning | 50 minutes | Live Learning - Psychological Safety in the Workplace | Participate in the live learning | <ul><li>Diversity, Inclusion, & Belonging</li><li>Emotional Intelligence</li></ul> |
