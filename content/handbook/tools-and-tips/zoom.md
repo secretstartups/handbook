@@ -56,19 +56,19 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 ### Updating Zoom
 
-Preferred minimum version for Zoom: 
+Preferred minimum version for Zoom:
 
 1. Open the Zoom app on your computer.
 1. In the menu bar, click on `zoom.us` (top left corner of your screen).
 1. Click on `Check for Updates...`
 
-### Sign into the Zoom app 
+### Sign into the Zoom app
 
 1. Go to [Okta](https://gitlab.okta.com)
 1. Click on the `Zoom SSO` tile.
 1. Open the Zoom app on your computer.
-1. Click on `SSO`. 
-1. Enter `gitlab.zoom.us` for the company domain. 
+1. Click on `SSO`.
+1. Enter `gitlab.zoom.us` for the company domain.
 
 ### Install the Zoom app (on your Mac)
 
