@@ -333,6 +333,23 @@ If you accidentally push security commits to `gitlab-org/gitlab`, we recommend t
 For more information on how the entire process works for security releases, see the
 [documentation on security releases](https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md).
 
+## Regressions
+
+A `~regression` implies that a previously **verified working functionality** no longer works.
+Regressions are a subset of bugs. The `~regression` label is used to imply that the defect caused the functionality to regress.
+The label tells us that something worked before and it needs extra attention from Engineering and Product Managers to schedule/reschedule.
+
+The regression label does not apply to bugs for new features for which functionality was **never verified as working**. 
+These, by definition, are not regressions.
+
+A regression should always have the `~regression:xx.x` label on it to designate when it was introduced. If it's unclear when it was introduced, the latest released version should be added.
+
+Regressions should be considered high priority issues that should be solved as soon as possible, especially if they have severe impact on users. When identified in time, for example in a SaaS deployment, fixing them within the same milestone avoids their being included with that release.
+
+### Use of the ~regression label on MRs
+
+For better efficiency, it's common for a regression to be fixed in an MR without an issue being created, either through reversion of the original MR or a code change. Regardless of whether there is an issue or not, the MR should also have the `~regression` and `~regression:xx.x` labels. This allows for trends to be accurately measured.
+
 ## Basics
 
 1. Start working on an issue you’re assigned to. If you’re not assigned to any issue, find the issue with the highest priority and relevant label you can work on, and assign it to yourself. [You can use this query, which sorts by priority for the started milestones][priority-issues], and filter by the label for your team.
