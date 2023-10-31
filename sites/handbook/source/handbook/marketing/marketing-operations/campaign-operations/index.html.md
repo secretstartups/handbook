@@ -59,7 +59,7 @@ In an effort to avoid manually adding the issues we are working on, Field Market
 Please note there is a 5 business day SLA with MktgOps, so please plan ahead accordingly. The SLA begins on the day after the issue is put into `~MktgOps::00: Triage`. For example, if the issue goes to triage on Tuesday, day 1 is Wednesday, day 5 is the following Tuesday. Day 5 is the earliest deployment/live date available. Please allow for US holidays and Family & Friends days as well. Using the same example, if day 4 is a US holiday, this will push day 5 to Wednesday. 
 
 #### Field Marketing
-Please note there is a 24 hour SLA for your FM triage manager to review and triage your asset copy/issues. Please allow time for your triage manager and MktgOps (see SLA above) to provide support and plan your copy due dates and send dates accordingly.
+Please see Field Marketing SLAs pertaining to this process [here](/handbook/marketing/field-marketing/#slas).
 
 ### Triage Steps
 {: #triage}
