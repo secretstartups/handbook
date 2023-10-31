@@ -108,6 +108,34 @@ There are several maintenance tasks that need to be completed each milestone. Ea
 - Review upstream changes, and open an issue to upgrade DAST if the upstream changes provide important improvements
 - Review the [security dashboard](https://gitlab.com/gitlab-org/security-products/dast/-/security/vulnerability_report) for DAST and address all critical and high issues. Review the dashboards for upstream projects, [ZAP](https://gitlab.com/gitlab-org/security-products/dependencies/zaproxy) and [ZAP Extensions](https://gitlab.com/gitlab-org/security-products/dependencies/zap-extensions)
 
+### Reaction rotation
+
+DAST uses a reaction rotation to address support concerns. At each milestone planning meeting, an engineer is assigned as the person on reaction rotation.
+Engineers rotate through the position to give everyone equal opportunity both in the role and away from the role. The milestone planning issue maintained by Product Management will include which engineer is on reaction rotation.
+
+The reaction rotation aims to produce better support outcomes by encouraging knowledge sharing, reducing dependencies on individuals in knowledge silos, and clarifying who is responsible for responding to a support request.
+
+Due to the unpredictable nature of support requests, it is hard to determine the impact of reaction rotation on an engineer's typical throughput. We minimize impact to predictability of DAST goals by reducing responsibilities of the person on reaction rotation.
+
+#### In scope of role
+
+The reaction rotation engineer should:
+
+- Triage and respond to customer support requests via support [request for help issues](https://gitlab.com/gitlab-com/sec-sub-department/section-sec-request-for-help/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Help%20group%3A%3Adynamic%20analysis&first_page_size=20). As an outcome of triage, create new issues and communicate with the product team to help assign priority.
+- Triage and respond to customer support requests via Slack. Encourage customers/support teams to create support tickets because of Slack's short retention history.
+- Ensure high-quality support request responses. Reach out to other engineers, teams, or people with knowledge to ensure customers get the best possible answers.
+- Ensure security issues (for FedRAMP compliance or platform security) are created or updated, either manually or through automation. Follow up with creation of [Deviation Requests](https://handbook.gitlab.com/handbook/security/security-assurance/dedicated-compliance/poam-deviation-request-procedure/) if necessary.
+- Act as an MR Coach for newly created community contributions.
+- Continue normal DAST engineering activities.
+
+#### Out of scope of role
+
+The reaction rotation engineer should not:
+
+- Directly fix issues as a result of customer support triage. The product team must prioritize any issue prior to an engineer picking it up.
+- Exclusively work on community contributions, security issues, or bug fixes. These are the purview of the entire team.
+- Take the time as slack time. Slack time is important in everyone's role and is captured as a constant when measuring team throughput to predict release dates.
+
 ### Team Organization
 
 Our dynamic analysis testing group works primarily as 3 sub-teams, a DAST team(Go/Python/Rails), a coverage guided team(Go/Rails) and an API Security/Fuzzing team(C#/Python).
