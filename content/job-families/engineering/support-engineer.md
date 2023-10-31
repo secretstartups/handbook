@@ -1,6 +1,6 @@
 ---
 title: "Support Engineer"
-description: "Support Engineering Management at GitLab isn’t your typical management opportunity because of our approach to the function."
+description: "The core responsibility of a GitLab Support Engineer is to deliver an excellent support experience to our customers on a daily basis by working with them to solve the problems and answer the questions that they present to us in support tickets."
 canonical_path: "/job-families/engineering/support-engineer/"
 ---
 
