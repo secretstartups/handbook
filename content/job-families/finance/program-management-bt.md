@@ -9,7 +9,7 @@ The Program Manager, Business Technology job family is responsible for building 
 
 ### IT Business Technology Program Manager  (Intermediate)
 
-The Business Technology Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Business Technology Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### IT Business Technology Program Manager Responsibilities
 
@@ -36,7 +36,7 @@ The Business Technology Program Manager is a [grade 6](https://about.gitlab.com/
 
 ### Senior IT Business Technology Program Manager
 
-The Senior Business Technology Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Business Technology Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior IT Business Technology Program Manager Responsibilities
 
@@ -66,7 +66,7 @@ The Senior Business Technology Program Manager is a [grade 7](https://about.git
 
 ### Staff Business Technology Program Manager
 
-The Staff Business Technology Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Business Technology Program Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Business Technology Program Manager Responsibilities
 
@@ -88,7 +88,7 @@ The Staff Business Technology Program Manager is a [grade 8](https://about.gitl
 
 ### Manager, IT Business Technology Program Management
 
-The Manager, IT Business Technology Program Management is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, IT Business Technology Program Management is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, IT Business Technology Program Management Responsibilities
 
@@ -111,7 +111,7 @@ The Manager, IT Business Technology Program Management is a [grade 8](https://a
 
 ### Senior / Principal Manager, IT Business Technology Program Management
 
-The Senior / Principal Manager, IT Business Technology Program Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior / Principal Manager, IT Business Technology Program Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior / Principal Manager, IT Business Technology Program Management Responsibilities
 
@@ -134,7 +134,7 @@ The Senior / Principal Manager, IT Business Technology Program Management is a 
 
 ### Director, IT Business Technology Program Management
 
-The Director, Business Technology Program Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Business Technology Program Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director, IT Business Technology Program Management Responsibilities
 
@@ -159,7 +159,7 @@ The Director, Business Technology Program Management is a [grade 10](https://ab
 
 ### Senior Director, IT Business Technology Program Management
 
-The Senior Director, Business Technology Program Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Business Technology Program Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director, IT Business Technology Program Management Responsibilities
 
@@ -186,12 +186,12 @@ Next step in this job family is not yet defined.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Next, candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with our VP IT in a panel interview
 - Next, candidates will be invited to schedule a one to two interviews with a business stakeholder in accounting, sales or product (m
 - Candidates will then be invited to schedule with a leader in the Data, IT Ops, BSA team or FinSys team
 - Then the candidate will be invited to interview with the VP Finance or CFO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

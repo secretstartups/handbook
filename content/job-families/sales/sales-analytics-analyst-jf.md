@@ -16,7 +16,7 @@ The Junior Sales Analytics Analyst reports to the [Senior Manager, Sales Strateg
 
 #### Junior Sales Analytics Analyst Job Grade
 
-The Junior Sales Analytics Analyst is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Sales Analytics Analyst is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Junior Sales Analytics Analyst Responsibilities
 
@@ -46,7 +46,7 @@ The Sales Analytics Analyst (Intermediate) reports to the [Senior Manager, Sales
 
 #### Sales Analytics Analyst (Intermediate) Job Grade
 
-The Sales Analytics Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Sales Analytics Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Sales Analytics Analyst (Intermediate) Responsibilities
 
@@ -71,7 +71,7 @@ The Senior Sales Analytics Analyst reports to the [Senior Manager, Sales Strateg
 
 #### Senior Sales Analytics Analyst Job Grade
 
-The Senior Sales Analytics Analyst is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Sales Analytics Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Sales Analytics Analyst Responsibilities
 
@@ -97,7 +97,7 @@ The Manager, Sales Analytics reports to the [Senior Manager, Sales Strategy](/jo
 
 #### Manager, Sales Analytics  Job Grade
 
-The Manager, Sales Analytics is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sales Analytics is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Sales Analytics  Responsibilities
 
@@ -136,4 +136,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 Team Members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

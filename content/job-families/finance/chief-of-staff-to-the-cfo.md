@@ -8,7 +8,7 @@ The Chief of Staff to the CFO reports to the Chief Financial Officer
 
 #### Chief of Staff to the CFO Job Grade
 
-The Chief of Staff to the CFO can be a [grade 11 or a grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Chief of Staff to the CFO can be a [grade 11 or a grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ## Role
 

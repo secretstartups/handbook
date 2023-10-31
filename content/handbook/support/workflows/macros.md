@@ -6,4 +6,4 @@ category: Zendesk
 ---
 
 
-For information on macros, please see [Zendesk Global Macros](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/macros/).
+For information on macros, please see [Zendesk Global Macros](/handbook/support/readiness/operations/docs/zendesk/macros/).

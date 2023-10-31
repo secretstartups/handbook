@@ -7,7 +7,7 @@ description: Organizations in Zendesk are created automatically through our Sale
 
 For more specific information about organizations, please see:
 
-- [Zendesk Organizations](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/organizations/)
+- [Zendesk Organizations](/handbook/support/readiness/operations/docs/zendesk/organizations/)
 
 <!--
 

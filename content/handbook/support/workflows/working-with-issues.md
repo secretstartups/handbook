@@ -144,7 +144,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/issues/new>  | GitLab CI specialist
 | GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5bdescription%5d=%2flabel%20%7eworkhorse> | Maintainer of gitlab-workhorse
 
-**See the [GitLab team page](https://about.gitlab.com/company/team/) for assignments**
+**See the [GitLab team page](/handbook/company/team/) for assignments**
 
 ## Operational escalation points
 
@@ -154,7 +154,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 | Support Engineers with Gitlab.com console access| Anything related to the **use of GitLab.com**, operations that can't be performed with admin access  | See [Console escalation requests]({{< ref "internal_requests.md#gitlabcom-console-escalation" >}}) | Use `~"GitLab.com Console Escalation"` label |
 | GitLab Support        | Any and all questions in relation to providing customer service for GitLab users and customers. | <https://gitlab.com/gitlab-com/support/support-team-meta/issues/new>        | Support Team Lead/Senior Support Engineer
 
-**See the [GitLab team page](https://about.gitlab.com/company/team/) for assignments**
+**See the [GitLab team page](/handbook/company/team/) for assignments**
 
 ### Omnibus GitLab
 

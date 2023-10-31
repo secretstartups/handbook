@@ -24,14 +24,14 @@ This TMRG is focused on 4 key areas of impact. We call them our pillars. Review 
 
 ## Leads
 
-- [Kyla Gradin Dahl](https://about.gitlab.com/company/team/#kyla) Lead
-- [Samantha Lee](https://about.gitlab.com/company/team/#slee24) Co-Lead
-- [Winnie Chan](https://about.gitlab.com/company/team/#wyychan) Co-Lead
+- [Kyla Gradin Dahl](/handbook/company/team/#kyla) Lead
+- [Samantha Lee](/handbook/company/team/#slee24) Co-Lead
+- [Winnie Chan](/handbook/company/team/#wyychan) Co-Lead
 
 ## Executive Sponsors
 
-- [Robin Schulman](https://about.gitlab.com/company/team/#rschulman) - Chief Legal Officer and Corporate Secretary
-- [Michael McBride](https://about.gitlab.com/company/team/#mmcb) - Chief Revenue Officer
+- [Robin Schulman](/handbook/company/team/#rschulman) - Chief Legal Officer and Corporate Secretary
+- [Michael McBride](/handbook/company/team/#mmcb) - Chief Revenue Officer
 
 ## How to Join
 

@@ -5,7 +5,7 @@ description: "GitLab country specific data in regard to team members location, g
 
 ## GitLab Identity Data
 
-Below is a list of the different ways GitLab Team Members choose to identify. The purpose of this page is to give an overview of our current representation as compared to a year ago. For further trending information, some of these metrics can also be viewed on the [People Success Performance Indicators](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/) page. The DIB Team is actively working to find data sets outside the US and inclusion metrics for underrepresented groups we cannot report on as team member representation.
+Below is a list of the different ways GitLab Team Members choose to identify. The purpose of this page is to give an overview of our current representation as compared to a year ago. For further trending information, some of these metrics can also be viewed on the [People Success Performance Indicators](/handbook/people-group/people-success-performance-indicators/) page. The DIB Team is actively working to find data sets outside the US and inclusion metrics for underrepresented groups we cannot report on as team member representation.
 
 ### Region Data
 

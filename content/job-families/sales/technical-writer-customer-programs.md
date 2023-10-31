@@ -12,7 +12,7 @@ The Senior Technical Writer, Customer Programs reports to the [Director of Custo
 
 #### Senior Technical Writer, Customer Programs Job Grade
 
-The Senior Technical Writer, Customer Programs is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technical Writer, Customer Programs is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Technical Writer, Customer Programs Responsibilities
 
@@ -62,11 +62,11 @@ The Customer Programs Job Family would flow into the [Customer Success Managers]
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
 - Next, candidates will complete an Assessment  
 - Candidates will then interview with the Manager, Customer Success Managers &  Senior Manager of Customer Success Operations
 - The next interview is with one of our Technical Writers
 - The next interview is with our Director, Customer Success Managers
 - The final interview is with our VP of Customer Success
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

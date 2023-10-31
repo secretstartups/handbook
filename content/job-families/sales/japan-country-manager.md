@@ -11,7 +11,7 @@ If you have an action mindset and are excited by the idea of quickly scaling a r
 
 ## Job Grade
 
-The Country Manager is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Country Manager is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibiltiies
 
@@ -39,7 +39,7 @@ The Country Manager is a [grade 11](https://about.gitlab.com/handbook/total-rewa
 - Reside in Japan and with the ability to travel throughout the country as needed.
 - You share our values, and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 {{% job-families/sales/performance %}}
 
@@ -49,8 +49,8 @@ The Country Manager would move into the [VP, Enterprise Sales](/job-families/sal
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).”
-The line after the hiring process should include: “Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).”
+The line after the hiring process should include: “Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 - Qualified candidates receive a short questionnaire from our Global Recruiters
 - Selected candidates will be invited to schedule a screening call with our Global Recruiters

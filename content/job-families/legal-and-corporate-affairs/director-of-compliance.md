@@ -3,11 +3,11 @@ title: Director of Compliance
 ---
 ## Director of Compliance
 
-The Director of Compliance reports to the [Senior Director of Legal, Corporate](https://about.gitlab.com/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations.
+The Director of Compliance reports to the [Senior Director of Legal, Corporate](/job-families/legal-and-corporate-affairs/director-legal-us/#senior-director-legal), and is responsible for providing counsel and guidance related to the design, implementation and monitoring of policies and procedures to ensure GitLab’s compliance with applicable laws and regulations.
 
 ### Director of Compliance: Job Grade
 
-The Director of Compliance is a [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director of Compliance is a [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Director of Compliance: Responsibilities
 
@@ -41,7 +41,7 @@ The next step in the VP of Legal job family is not yet defined
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30-minute screening call with our Global Recruiters
 - Next, candidates will be invited to schedule an interview with the hiring manager
@@ -50,4 +50,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
 - Finally, candidates may be required to meet with the CEO.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

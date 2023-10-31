@@ -9,7 +9,7 @@ category: Support Management
 
 ## Introduction
 
-1. This page is an extension of the [Support Engineering manager job family](https://handbook.gitlab.com/job-families/engineering/support-management/) page.
+1. This page is an extension of the [Support Engineering manager job family](/job-families/engineering/support-management/) page.
 1. The **aim** of this page is to **help you know how to carry out your responsibilities as a Support Engineering Manager**.
 
 ## Support Leadership at GitLab
@@ -25,7 +25,7 @@ Our [Hazards and Challenges page](/handbook/support/managers/hazards-and-challen
 
 ## Consistently ensure high Customer Support Satisfaction
 
-Our primary responsibility in the Support Leadership team is to ensure high quality Customer Support for GitLab customers. To fulfill this responsibility we set and achieve goals (aligned with GitLab Strategy and Engineering [OKRs](https://about.gitlab.com/company/okrs/)), and ensure Support Engineers can achieve *their* goals.
+Our primary responsibility in the Support Leadership team is to ensure high quality Customer Support for GitLab customers. To fulfill this responsibility we set and achieve goals (aligned with GitLab Strategy and Engineering [OKRs](/handbook/company/okrs/)), and ensure Support Engineers can achieve *their* goals.
 
 | SSAT Responsibility | Sub-responsibility |
 | ------------------- | ------------------ |
@@ -41,7 +41,7 @@ Our primary responsibility in the Support Leadership team is to ensure high qual
 |  | Join [Customer Calls](/handbook/support/workflows/customer_calls.html) with SEs on request or according to your judgement |
 |  | Propose, develop, and evaluate improvements to Support processes by acting as DRI for [issues in the Support Meta project](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues) |
 | Stay up-to-date on GitLab Product, Strategy, Pricing, etc. | Contribute to and read the [Support Week in Review](/handbook/support/#support-week-in-review) document every week |
-|  | Participate (at the Section level or cross-functional level) in [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](https://about.gitlab.com/handbook/support/#cross-functional-non-product-counterparts)
+|  | Participate (at the Section level or cross-functional level) in [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](/handbook/support/#cross-functional-non-product-counterparts)
 
 ## Support and nurture team members in Customer Support and SGG (Support Global Groups)
 
@@ -52,13 +52,13 @@ We are equally responsible to ensure our team members are supported in their Git
 | Support and nurture team members | Foster cross-regional connections among Support Engineers and Support Managers |
 |  | Create an inclusive environment and foster DIB values within the team |
 |  | Participate in [Support Weekly Meetings](/handbook/support/#weekly-meetings) |
-|  | Build strong working relationships with your colleagues in Support leadership through [informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/)
+|  | Build strong working relationships with your colleagues in Support leadership through [informal communication](/handbook/company/culture/all-remote/informal-communication/)
 |  | [Conduct weekly 1:1s](#conducting-weekly-11-meetings) with each direct report |
 |  | Recommend projects, training, and leadership roles for your direct reports |
-|  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](https://about.gitlab.com/handbook/support/#cross-functional-non-product-counterparts)
+|  | [Support your direct reports](/handbook/support/support-stable-counterparts.html#expectations-from-managers) who are [Support Stable Counterparts](/handbook/support/#support-stable-counterparts) or [Cross-functional non-product counterparts](/handbook/support/#cross-functional-non-product-counterparts)
 |  | Ensure regular professional/career development for each direct report |
-|  | Perform annual [360 Reviews](https://about.gitlab.com/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
-|  | Conduct [Performance Factor reviews](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-review-cycle/)
+|  | Perform annual [360 Reviews](/handbook/people-group/360-feedback/) and Performance Factor Reviews (compensation) |
+|  | Conduct [Performance Factor reviews](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor) and [Compensation reviews](/handbook/total-rewards/compensation/compensation-review-cycle/)
 |  | Handle any HR / People Group questions and topics from direct reports |
 |  | Review, approve, and merge GitLab Issues and MRs from direct reports |
 |  | Support your team members' participation in on-call rotations |
@@ -98,38 +98,38 @@ Important Slack channels:
 
 ### Conducting weekly 1:1 meetings
 
-Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](https://about.gitlab.com/handbook/support/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
+Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the [Support Engineer Responsibilities page](/handbook/support/support-engineer-responsibilities.html) to understand what your team members are aiming to achieve.
 
 1. [Review at least two tickets per team-member in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
 1. Monitor for team members to have [around 50% to 60% of public replies to be on tickets that are assigned to them](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
 1. Help ensure your team members [meet the ticket baseline](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets they are working on. This encourages the even distribution of ticket volume across the team.
 1. Review notable Incidents/Emergencies and Customer Calls in 1:1 notes/meetings with your team members.
-1. Discuss [career development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/) plans with team members at least once per quarter.
+1. Discuss [career development](/handbook/people-group/learning-and-development/career-development/) plans with team members at least once per quarter.
 
 ### Develop your skills through learning and training
 
-We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Be sure to include non-technical topics such as:
 
-1. [Psychological safety in teams](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/)
+1. [Psychological safety in teams](/handbook/leadership/emotional-intelligence/psychological-safety/)
 1. Time management
-1. [Leadership skills](https://about.gitlab.com/handbook/leadership/)
-1. [Coaching skills](https://about.gitlab.com/handbook/leadership/coaching/)
-1. [Diversity, inclusion, and belonging](https://about.gitlab.com/company/culture/inclusion/)
-1. [Remote work](https://about.gitlab.com/company/culture/all-remote/)
+1. [Leadership skills](/handbook/leadership/)
+1. [Coaching skills](/handbook/leadership/coaching/)
+1. [Diversity, inclusion, and belonging](/handbook/company/culture/inclusion/)
+1. [Remote work](/handbook/company/culture/all-remote/)
 1. Trends and insights in the larger support world
-1. [Assertive communication](https://about.gitlab.com/handbook/communication/#effective-listening)
+1. [Assertive communication](/handbook/communication/#effective-listening)
 
-Consider participating in [Team Member Resource Groups](https://about.gitlab.com/company/culture/inclusion/erg-guide/), and ensure your team members know about these.
+Consider participating in [Team Member Resource Groups](/handbook/company/culture/inclusion/erg-guide/), and ensure your team members know about these.
 
-Consider participating in, creating, or publicizing a [GitLab Book Club](https://about.gitlab.com/handbook/leadership/book-clubs/).
+Consider participating in, creating, or publicizing a [GitLab Book Club](/handbook/leadership/book-clubs/).
 
 Support Engineers and Managers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 
 ### Develop your skills through direct interactions with customers and Support Engineers
 
-We are committed to being managers who [*know and understand what Support Engineers do day to day.*](https://about.gitlab.com/handbook/leadership/no-matrix-organization/).
+We are committed to being managers who [*know and understand what Support Engineers do day to day.*](/handbook/leadership/no-matrix-organization/).
 
 The best way to be familiar with Support Engineer workflows and responsibilities is to step into the shoes of the engineers.
 

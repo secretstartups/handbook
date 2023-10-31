@@ -10,13 +10,13 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents]({
 
 ## 1. Purpose
 
-At GitLab (the “Company”), we support the safety, health and [wellbeing](https://about.gitlab.com/company/culture/all-remote/mental-health/#introduction) of all team members and we operate with an emphasis on [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) and a focus on results, not hours worked. We believe that [family and friends should come first and work should come second]({{< ref "values#family-and-friends-first-work-second" >}}). In line with company values, we understand that “disconnecting” from work is critical in order to foster a healthy and well-rounded life. Technological advancements, world events, and work demands, can, at times, cause us to forget that we need a break from work to recharge.
+At GitLab (the “Company”), we support the safety, health and [wellbeing](/handbook/company/culture/all-remote/mental-health/#introduction) of all team members and we operate with an emphasis on [asynchronous communication](/handbook/company/culture/all-remote/asynchronous/) and a focus on results, not hours worked. We believe that [family and friends should come first and work should come second]({{< ref "values#family-and-friends-first-work-second" >}}). In line with company values, we understand that “disconnecting” from work is critical in order to foster a healthy and well-rounded life. Technological advancements, world events, and work demands, can, at times, cause us to forget that we need a break from work to recharge.
 
 It is expected that team members will disconnect from work and work-related communications outside of their normal working hours and during PTO, and the purpose of this Right to Disconnect Policy (“Policy”) is to encourage disconnection, and to provide guidance on how the Company is committed to supporting all team members to do so.
 
 ## 2. Applicability
 
-This Policy applies to all team members regardless of position, tenure, and work location, as local laws permit, and is intended to support existing rights and obligations of team members and the Company under those laws. For any additional information regarding your specific work location, please refer to the [entity-specific employment policies](https://about.gitlab.com/handbook/people-policies/#entity-specific-employment-policies).
+This Policy applies to all team members regardless of position, tenure, and work location, as local laws permit, and is intended to support existing rights and obligations of team members and the Company under those laws. For any additional information regarding your specific work location, please refer to the [entity-specific employment policies](/handbook/people-policies/#entity-specific-employment-policies).
 
 All team members should familiarise themselves with this Policy.
 

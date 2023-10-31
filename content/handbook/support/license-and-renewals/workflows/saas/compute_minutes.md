@@ -35,7 +35,7 @@ please request the customer to provide a list of impacted projects to our Suppor
   - `Total compute minutes = Their current compute minutes + (2 x sum of compute minutes for all failed jobs)`
   1. Request Manager Approval to `Restore Compute Minutes as an act of goodwill` to the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack
   1. MANAGERS: Acknowledge in Slack and post approval via internal note in the ticket.
-  1. Once Approval provided in ticket, restore the compute minutes using the [mechanizer zendesk app: Set compute minutes to namespace workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#set-compute-minutes-to-namespace)
+  1. Once Approval provided in ticket, restore the compute minutes using the [mechanizer zendesk app: Set compute minutes to namespace workflow](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#set-compute-minutes-to-namespace)
 - This will provide recovery of the compute minutes lost, with an additional amount in recognition of the inconvenience caused to the customer
 - If the request falls outside of the examples above, any additional compute minutes should be paid for. If you are unsure, verify in
 the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) channel in Slack.

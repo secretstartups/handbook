@@ -55,7 +55,7 @@ In FY23 Q1, mentees in current organized mentorship programs reported the affect
 | **Set Expectations** | Be realistic and uphold your commitment. Share access to resources and people, but make it clear you do not wield your influence over others.|
 | **Listen** | Establish [trust]({{< ref "building-trust" >}}) and openness in communication. Give your full, undivided attention. Hear concerns before offering advice and guidance.|
 | **Acknowledge Independence** | Recognize mentee goals and autonomy. Your role as a mentor is to guide; it’s up to the mentee to decide what to implement in their own career. |
-| **Respect Diverse Experiences** | Recognise that underrepresented groups might face additional barriers to advancement. Educate yourself and ask for advice and support via the [appropriate DIB channels](https://about.gitlab.com/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels). |
+| **Respect Diverse Experiences** | Recognise that underrepresented groups might face additional barriers to advancement. Educate yourself and ask for advice and support via the [appropriate DIB channels](/handbook/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels). |
 | **Practice Self-Awareness** | Identify your strengths, weaknesses, and [biases]({{< ref "values#unconscious-bias" >}}). Be aware of and respect other's experiences, ideas, and goals. |
 | **Advocate** | Mentor others on being effective managers or colleagues to those who might have different experiences to them. Teach your mentee how to become a mentor themselves – by example and by encouragement.|
 | **Express Gratitude** | Share openly about your experience. Express gratitude for the skills or experiences developed over time. |
@@ -67,7 +67,7 @@ In FY23 Q1, mentees in current organized mentorship programs reported the affect
 
 ## Find a mentor
 
-The following team members are available as mentors. Schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) to get the conversation started!
+The following team members are available as mentors. Schedule a [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) to get the conversation started!
 
 The `Expertise` column comes from the team member .yaml entry and might not include all subjects they can help you with.
 
@@ -80,10 +80,10 @@ The `Expertise` column comes from the team member .yaml entry and might not incl
 Learn more about organized mentorship programs for team members:
 
 1. [Company-Wide](company-program)
-1. [Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
-1. [Women at GitLab](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
+1. [Minorities in Tech](/handbook/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
+1. [Women at GitLab](/handbook/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
 1. [Aspiring Managers](https://about.gitlab.com/handbook/engineering/development/dev/training/ic-to-manager/#aspiring-manager-mentorship-pilot-program)
-1. [Finance Team](https://about.gitlab.com/handbook/finance/) is running a [mentorship program](https://about.gitlab.com/handbook/finance/growth-and-development/mentorship).
+1. [Finance Team](/handbook/finance/) is running a [mentorship program](/handbook/finance/growth-and-development/mentorship).
 
 ## Resources
 

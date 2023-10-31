@@ -9,7 +9,7 @@ This process is managed by the People Connect team as the DRI.  For any question
 
 Moving to a new location is an exciting adventure, and at GitLab, we want to encourage team members to utilize the flexibility that our relocation policy offers. However, there are multiple aspects to consider including eligibility, possible impact on compensation (including equity and benefit eligibility) and the impact on your role at GitLab.
 
-**It’s important to note that any relocation will require business approval; which will consider the ability of the team member to drive results in the new location and the impact of a relocation on the departmental budget. Consult your [FP&A Partner](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/sales-finance/#finance-business-partner-alignment) as soon as possible to ensure the compensation change is accounted for in the department budget.**
+**It’s important to note that any relocation will require business approval; which will consider the ability of the team member to drive results in the new location and the impact of a relocation on the departmental budget. Consult your [FP&A Partner](/handbook/finance/financial-planning-and-analysis/sales-finance/#finance-business-partner-alignment) as soon as possible to ensure the compensation change is accounted for in the department budget.**
 
 A relocation that results in no change in compensation can be approved by the team member's direct manager.  Relocations resulting in an increase in compensation must be approved by the team member's direct manager, and location factor changes that are >.2 will require direct manager, VP as well as an eGroup Member approval.
 
@@ -126,7 +126,7 @@ The contract phase is unique based upon the team member's relocation. The differ
     - Make a copy of the [Relocation letter](https://docs.google.com/document/d/18V9Qqlaetft8XMXLMPgbTFtZAGgoa7uiuN01-W38c6k/edit) and save it to the [working documents folder](https://drive.google.com/drive/folders/0B4eFM43gu7VPNUlKZEFtNGtSRk0?resourcekey=0-_qX_2OXbs71yJa3HZy0TAQ&usp=sharing).
     - Enter all applicable information based on the relocation request approval email and the team member's Workday profile
 1. Once the Relocation letter has been created, ping the People Connect Team for auditing.
-1. Stage the letter in DocuSign and send for signature to the [applicable signatory](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and the team member
+1. Stage the letter in DocuSign and send for signature to the [applicable signatory](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories) and the team member
 1. Upload the signed document to the team member's `Contracts & Changes` folder in Workday.
 1. Update the [Relocation Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e7a2c42#gid=972787144) with the details of this relocation.
 1. The People Connect Team member makes any necessary updates to the team member's Workday profile by following these Job Aids:
@@ -151,7 +151,7 @@ The contract phase is unique based upon the team member's relocation. The differ
 1. Create a new [contract](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/employment_contracts/) for the team member confirming new compensation (if applicable) and effective date.
     - No stock options are given through relocation, so that line can be removed
     - [Probation Period](contracts-probation-periods/#probation-period): If a team member has continued service with GitLab (tenure with GitLab has been uninterrupted) and they have already passed the probationary period of their original location or contract, they do not need to go through the probation period of their new location or contract.
-    - A list of all signatories can be found [here](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories).
+    - A list of all signatories can be found [here](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#entity-contract-signatories).
 1. If applicable:
     - A [Mutual Termination Agreement](https://docs.google.com/document/d/1MJCWQupiqfU7rUk99qowHuxd64OPIHKfD05gLlfs7K8/edit) is needed, if the team member is relocating from IT BV.
     - A [Side letter Relocation - Transfer from one entity to another](https://docs.google.com/document/d/1UesnGAH1y0MMgWU37RRX2DuSP14mDLff/edit) is needed if the team member is relocating from one entity to another.
@@ -211,7 +211,7 @@ The steps our People Connect Team member team uses to support relocations to the
 1. Sometimes the BSN might not be ready for the first Payroll, if this happens team members can still be on the Dutch Payroll, it just means the highest rate of tax will apply for this period. Any overpaid tax can be claimed back via [a year end tax return](https://www.government.nl/topics/income-tax/filing-a-tax-return). When you receive your BSN please ensure to add to your Workday profile and email nonuspayroll@gitlab.com to let them know. Any Payroll queries should be directed to nonuspayroll@gitlab.com
 1. If applicable due a temporary contract: Click on ‘job change’ actions to ‘add contract’. Fill in start and end date, contract type and reason.
 
-**Review [best practices](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#netherlands-renewal-process) for The Netherlands contracts**
+**Review [best practices](/handbook/people-group/contracts-probation-periods/#netherlands-renewal-process) for The Netherlands contracts**
 
 #### India
 
@@ -267,7 +267,7 @@ Once the contract or Mutual Termination Agreement (MTA) has been created by the 
 ##### Relocating **to** South Korea, France or Singapore
 
 1. The People Connect Lead shares the relocation contract with gitlabHRSS@globalupside.com. Global Upside then sends an Egnyte (payroll platform) login invitation email to the relocating team member. If they are relocating to France an invite to Mihi will also be sent.
-1. [France requires contracts to be individually drafted by the Legal team.](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#process-for-gitlab-team-members-in-singapore-south-korea-or-france)
+1. [France requires contracts to be individually drafted by the Legal team.](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#process-for-gitlab-team-members-in-singapore-south-korea-or-france)
 
 ## Reporting for Relocations
 

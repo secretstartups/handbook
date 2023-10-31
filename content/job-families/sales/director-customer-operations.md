@@ -8,11 +8,11 @@ The Director of Customer Success Operations Job Family is responsible for defini
 
 ### Director of Customer Success Operations
 
-The Director of Customer Success Operations reports to the [Sr. Director, Customer Success Operations](https://about.gitlab.com/job-families/sales/director-customer-operations).
+The Director of Customer Success Operations reports to the [Sr. Director, Customer Success Operations](/job-families/sales/director-customer-operations).
 
 #### Job Grade
 
-The Director Customer Success Operations is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Director Customer Success Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Responsibilities
 
@@ -45,15 +45,15 @@ The Director Customer Success Operations is a [grade 10](https://about.gitlab.co
 - Ability to use GitLab
 - Ability to learn GitLab as part of the role
 - You share our [values](/handbook/values/) and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ### Senior Director of Customer Success Operations
 
-The Senior Director of Customer Success reports to the [VP of Revenue Operations](https://about.gitlab.com/job-families/sales/vp-revenue-operations/).
+The Senior Director of Customer Success reports to the [VP of Revenue Operations](/job-families/sales/vp-revenue-operations/).
 
 #### Senior Director of Customer Success Operations Job Grade
 
-The Senior Director of Customer Success Operations is a job grade [level 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director of Customer Success Operations is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Director of Customer Success Operations Responsibilities
 
@@ -79,13 +79,13 @@ The next step for the Director of Customer Operations is a Senior Director level
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Interviews will be then setup with:
 - Hiring manager, Vice President of Customer Success
 - Head of Global Technical Account Management
 - Director or Vice President of Sales Operations
 - Stakeholder team member (i.e., Product, Marketing, Customer Success, etc.)
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

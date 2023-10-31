@@ -11,7 +11,7 @@ The Senior Accountant, Accounting and External Reporting reports to the Manager,
 
 ### Job Grade
 
-The Senior Accountant, Accounting and External Reporting is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Accountant, Accounting and External Reporting is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -45,7 +45,7 @@ The Manager, Accounting and External Reporting reports to the Senior Manager, Ac
 
 ### Job Grade
 
-The Manager, Accounting and External Reporting is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Accounting and External Reporting is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsibilities
 
@@ -79,7 +79,7 @@ The Senior Manager, Accounting and External Reporting reports to the Director, A
 
 ### Job Grade
 
-The Senior Manager, Accounting and External Reporting is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Accounting and External Reporting is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Additional Responsibilities
 
@@ -121,9 +121,9 @@ Director, Accounting and External Reporting shares the same requirements as list
 
 ## Performance Indicators
 
-- [Average days to close](https://about.gitlab.com/handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments = 0](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
-- [Percentage of ineffective Sox Controls = 0%](https://about.gitlab.com/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments = 0](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
+- [Percentage of ineffective Sox Controls = 0%](/handbook/internal-audit/#performance-measures-for-accounting-and-finance-function-related-to-audit)
 
 ## Career Ladder
 
@@ -131,7 +131,7 @@ The next step in the Accounting & External Reporting job family is to move to th
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Selected candidates will be invited to schedule a 30 minute screening call with our Global Recruiters
 - Next, candidates will be invited to schedule a 45 minute interview with our Controller
@@ -139,4 +139,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

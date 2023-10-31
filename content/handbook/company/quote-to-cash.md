@@ -19,7 +19,7 @@ An efficient Quote-to-Cash system makes purchasing, activating, and managing Git
 
 ## Q2C System Teams
 
-Quote-to-Cash system projects and initiatives often require close collaboration across functions and teams. The teams most often involved include: [Enterprise Applications](https://about.gitlab.com/handbook/business-technology/enterprise-applications/), [Billing Ops](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/), [Fulfillment](/direction/fulfillment/), [Field Operations](https://about.gitlab.com/handbook/sales/field-operations/), [Support](https://about.gitlab.com/handbook/support/readiness/operations/), and [Data](https://about.gitlab.com/handbook/business-technology/data-team/).
+Quote-to-Cash system projects and initiatives often require close collaboration across functions and teams. The teams most often involved include: [Enterprise Applications](https://about.gitlab.com/handbook/business-technology/enterprise-applications/), [Billing Ops](/handbook/finance/accounting/finance-ops/billing-ops/), [Fulfillment](https://about.gitlab.com/direction/fulfillment/), [Field Operations](https://about.gitlab.com/handbook/sales/field-operations/), [Support](/handbook/support/readiness/operations/), and [Data](https://about.gitlab.com/handbook/business-technology/data-team/).
 
 ## Q2C System Architecture
 
@@ -27,8 +27,8 @@ The Fulfillment Team is re-architecting our Quote 2 Cash Systems, in particular 
 
 **Cross-Functional SSOT Architecture Plans:**
 
-1. Fulfillment SSOT Plan: [data_architecture](/company/quote-to-cash/#billing-account-master-data-object)
-1. Central Data Team SSOT Plan: [data_architecture](/company/quote-to-cash/#data-architecture-plan)
+1. Fulfillment SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#billing-account-master-data-object)
+1. Central Data Team SSOT Plan: [data_architecture](/handbook/company/quote-to-cash/#data-architecture-plan)
 1. Sales Systems SSOT Plan: To be added
 1. Enterprise Apps SSOT Plan: To be added
 

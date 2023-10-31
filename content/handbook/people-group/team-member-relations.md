@@ -110,7 +110,7 @@ The following are a few recommendations for a manager to address skill-based per
 - Provide the team member with a mentor or buddy
 - Provide the team member with clear directions and examples
 
-If the team member is still not making progress after the manager has provided additional resources or coaching please review the [underperformance page in the handbook](https://about.gitlab.com/handbook/leadership/underperformance/) for next steps.
+If the team member is still not making progress after the manager has provided additional resources or coaching please review the [underperformance page in the handbook](/handbook/leadership/underperformance/) for next steps.
 
 ### Will-based performance management
 

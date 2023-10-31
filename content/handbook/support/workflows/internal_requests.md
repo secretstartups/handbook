@@ -59,7 +59,7 @@ For sales assisted trials, only we can override the credit card validation requi
 
 ## GitLab.com Trial Change Request
 
-Sales team members will typically open this on behalf of their prospects in order to extend an active trial. You can follow the [L&R Workflow for Extending Trials](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials).
+Sales team members will typically open this on behalf of their prospects in order to extend an active trial. You can follow the [L&R Workflow for Extending Trials](/handbook/support/license-and-renewals/workflows/saas/trials_and_plan_change.html#extending-trials).
 
 ## Inactive Namespace Request
 

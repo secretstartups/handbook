@@ -24,7 +24,7 @@ GLabIT is a platform that hosts many automation related (micro-)services and scr
 | `it-eng` | [ARCHIE Directory](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)              | FY23-Q2 (WIP)     |
 | `it-eng` | [ARCHIE Group Policies](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)         | FY23-Q2 (WIP)     |
 | `it-eng` | [ARCHIE Group Provisioner](https://gitlab-it.gitlab.io/glabit-docs/archie/overview)      | FY23-Q2 (WIP)     |
-| `it-eng` | [HackyStack](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/) | FY23-Q3 (Planned) |
+| `it-eng` | [HackyStack](/handbook/infrastructure-standards/realms/sandbox/) | FY23-Q3 (Planned) |
 | `it-eng` | [IT Ops CLI Scripts](https://gitlab.com/gitlab-com/it/dev/it-ops-laravel-cli-scripts)    | FY23-Q3 (Planned) |
 | `it-eng` | [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)         | FY23-Q3 (Planned) |
 | `it-eng` | [Training Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/)     | FY23-Q3 (Planned) |

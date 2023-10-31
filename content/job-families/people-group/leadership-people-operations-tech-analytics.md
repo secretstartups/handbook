@@ -10,7 +10,7 @@ The Director, People Tools and Technology reports to VP, People Operations.
 
 #### Director, People Tools and Technology Job Grade
 
-The Director, People Group Tools and Technology is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, People Group Tools and Technology is [Job Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, People Tools and Technology Responsibilities
 
@@ -45,13 +45,13 @@ The Director, People Group Tools and Technology is [Job Grade 10](https://about.
 
 #### Director, People Tools and Technology Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 Selected candidates will be invited to schedule a screening call with our Global Recruiters
 Next, candidates will be invited to schedule a first interview with our VP, People Operations
 Candidates will then be invited to schedule a second interview with our CPO, Director, People Operations, and Sr. Director, IT Enterprise Applications
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 #### Director, People Tools and Technology Career Ladder
 
@@ -63,7 +63,7 @@ The Director, Risk and Resilience reports to VP, People Operations.
 
 #### Director, Risk and Resilience Job Grade
 
-The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Risk and Resilience is [Job Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director, Risk and Resilience Responsibilities
 
@@ -96,13 +96,13 @@ The Director, Risk and Resilience is [Job Grade 10](https://about.gitlab.com/han
 
 #### Director, Risk and Resilience Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 Selected candidates will be invited to schedule a screening call with our Global Recruiters
 Next, candidates will be invited to schedule a first interview with our VP, People Operations
 Candidates will then be invited to schedule a second interview with our CPO, Director, Team Member Relations, Director, People Operations
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 #### Director, Risk and Resilience Career Ladder
 
@@ -110,11 +110,11 @@ The next step is to move to VP, People Operations.
 
 ### VP People Operations, Technology & Analytics
 
-The VP, People Operations, Technology & Analytics reports to the [Chief People Officer](https://about.gitlab.com/job-families/people-group/chief-people-officer/).
+The VP, People Operations, Technology & Analytics reports to the [Chief People Officer](/job-families/people-group/chief-people-officer/).
 
 #### VP People Operations, Technology & Analytics Job Grade
 
-The VP, People Operations, Technology & Analytics is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, People Operations, Technology & Analytics is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP People Operations, Technology & Analytics Responsibilities
 
@@ -147,14 +147,14 @@ Oversee development and management of thoughtful, scalable, People processes tha
 
 ## Performance Indicators
 
-- [Onboarding Satisfaction Survey > 4.5](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
-- [Onboarding task completion < X (TBD)](https://about.gitlab.com/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd)
-- [Bug to first action](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
-- [Workscope done within a milestone](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
-- [Google drive documentation](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#google-drive-documentation)
-- [Implementation of audits across Team Member Experience tasks](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#implementation-of-audits-across-team-member-experience-tasks)
-- [Country Conversions completed within due date](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
-- [Increase the locations GitLab can offer work-sponsorship, in alignment with legal and tax](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
+- [Onboarding Satisfaction Survey > 4.5](/handbook/people-group/people-group-metrics/#onboarding-satisfaction-osat)
+- [Onboarding task completion < X (TBD)](/handbook/people-group/people-group-metrics/#onboarding-task-completion--x-tbd)
+- [Bug to first action](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
+- [Workscope done within a milestone](/handbook/people-group/people-success-performance-indicators/#people-group-engineering-workscope-done-within-a-milestone)
+- [Google drive documentation](/handbook/people-group/people-success-performance-indicators/#google-drive-documentation)
+- [Implementation of audits across Team Member Experience tasks](/handbook/people-group/people-success-performance-indicators/#implementation-of-audits-across-team-member-experience-tasks)
+- [Country Conversions completed within due date](/handbook/people-group/people-success-performance-indicators/#country-conversions-completed-within-due-date)
+- [Increase the locations GitLab can offer work-sponsorship, in alignment with legal and tax](/handbook/people-group/people-success-performance-indicators/#increase-the-locations-gitlab-can-offer-work-sponsorship-in-alignment-with-legal-and-tax)
 
 ## Career Ladder
 
@@ -164,10 +164,10 @@ The next step in the VP People Operations, Technology & Analytics job family is 
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates will have a 50 minute interview with the CPO
 - Then, candidates will be invited to schedule threetwo separate 50 minute interviews; one with the Sr Director of People Success, and one with the Sr Manager of Total Rewards and the Director, People Operations
 - Next, candidates will be invited to schedule 2 separate 50 minute interviews;  VP of IT and the Chief Financial Officer
 - Finally, candidates may be invited to a 50 minute interview with the CEO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

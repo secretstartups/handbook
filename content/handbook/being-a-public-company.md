@@ -13,14 +13,14 @@ We continue to believe that being a public company is an integral part of realiz
 
 To achieve fair value with limited relative volatility as a publicly traded company, we are focused on the following:
 
-1. Ability to meet the quarter close schedule outlined on the [Investor Relations](https://about.gitlab.com/handbook/finance/investor-relations/#earnings-release-calendar-workback-schedule) page
+1. Ability to meet the quarter close schedule outlined on the [Investor Relations](/handbook/finance/investor-relations/#earnings-release-calendar-workback-schedule) page
 1. Consistent execution against key operating metrics and initiatives
-1. Demonstrate a reliable trajectory of revenue growth to operating cash flow that aligns to our target [operating model](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and [hypergrowth](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/#the-hypergrowth-rule) objectives
+1. Demonstrate a reliable trajectory of revenue growth to operating cash flow that aligns to our target [operating model](/handbook/finance/financial-planning-and-analysis/#long-term-profitability-targets) and [hypergrowth](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/#the-hypergrowth-rule) objectives
 1. Assessing the maturity of our model in conjunction with equity market volatility to determine an appropriate time for a public offering
-1. Building out a fulsome compliance program which includes: securities law trainings, communications policies, handbook adjustments, required policies such as insider / [trading window](https://about.gitlab.com/handbook/finance/investor-relations/#trading-window)
+1. Building out a fulsome compliance program which includes: securities law trainings, communications policies, handbook adjustments, required policies such as insider / [trading window](/handbook/finance/investor-relations/#trading-window)
 1. Maintaining a high degree of [transparency](/handbook/values/#transparency) that we believe increases contributions and makes collaboration easier. This is a core value and may result in higher than expected volatility.
 
-A successful public offering is a significant milestone, but it is not GitLab’s [mission](https://about.gitlab.com/company/mission/#mission). Like graduating from high school, a great day but it shouldn't be the biggest thing you achieve in life.
+A successful public offering is a significant milestone, but it is not GitLab’s [mission](/handbook/company/mission/#mission). Like graduating from high school, a great day but it shouldn't be the biggest thing you achieve in life.
 
 ## Market Capitalization
 
@@ -28,11 +28,11 @@ Market capitalization (stock price x shares outstanding) will be the result of a
 
 1. Size of [total addressable market](https://about.gitlab.com/handbook/sales/tam/)
 1. Consistency of execution
-1. [Competitive position](https://about.gitlab.com/handbook/leadership/mitigating-concerns/#introduction)
-1. Clarity of [value proposition](https://about.gitlab.com/company/strategy/#organization)
-1. Perception of management [team](https://about.gitlab.com/company/team/)
+1. [Competitive position](/handbook/leadership/mitigating-concerns/#introduction)
+1. Clarity of [value proposition](/handbook/company/strategy/#organization)
+1. Perception of management [team](/handbook/company/team/)
 
-As GitLab team members, delivering on our annual plan and long-term strategy are the most productive ways to contribute to the company achieving full, fair value with limited relative volatility. At a departmental level, we have [key performance indicators](https://about.gitlab.com/company/kpis/#what-are-kpis) aligned to our plan and performance to empower "everyone to contribute" to GitLab’s long term success and public market valuation.
+As GitLab team members, delivering on our annual plan and long-term strategy are the most productive ways to contribute to the company achieving full, fair value with limited relative volatility. At a departmental level, we have [key performance indicators](/handbook/company/kpis/#what-are-kpis) aligned to our plan and performance to empower "everyone to contribute" to GitLab’s long term success and public market valuation.
 
 ## Short Term Focus Can Be A Distraction
 
@@ -44,7 +44,7 @@ The father of value investing, Benjamin Graham, explained this concept by saying
 
 ## Long Term Targets Underpin Efficient, Durable Growth
 
-Our financial planning process includes setting a division's spend based on revenue growth as we move towards our long term profitability target. We view these spending objectives (as a percent of revenue) as a measure of our efficient use of capital. **These objectives are not because we aim to go public.** As we capture a larger percentage of the market, growth could moderate and shift operating cash flow margin to a more significant factor in our [hypergrowth](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/#the-hypergrowth-rule) target.
+Our financial planning process includes setting a division's spend based on revenue growth as we move towards our long term profitability target. We view these spending objectives (as a percent of revenue) as a measure of our efficient use of capital. **These objectives are not because we aim to go public.** As we capture a larger percentage of the market, growth could moderate and shift operating cash flow margin to a more significant factor in our [hypergrowth](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/#the-hypergrowth-rule) target.
 
 ## Two Actionable Values
 
@@ -80,7 +80,7 @@ Statements on this page are being made pursuant to, and in accordance with, Rule
 
 {{% youtube id="LIXLGyZK72c" title="Will GitLab be acquired? Kristof Eger & Sid Sijbrandij" %}}
 
-*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, GitLab co-founder and CEO [Sid Sijbrandij](https://gitlab.com/sytses) discusses the topic of remaining independent as a company with Kristóf Éger. The [coffee chat](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) is transcribed, in part, below.*
+*In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, GitLab co-founder and CEO [Sid Sijbrandij](https://gitlab.com/sytses) discusses the topic of remaining independent as a company with Kristóf Éger. The [coffee chat](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) is transcribed, in part, below.*
 
 > Our intention, from the moment we took external funding, was to stay independent.
 >

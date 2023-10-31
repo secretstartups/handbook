@@ -181,7 +181,7 @@ This has reported to work with latest versions of the Nvidia drivers (as of Dec 
   - `make`
   - `zlib1g-dev`
   - `libereadline-dev` # Prior to Ubuntu 20.04
-- Abide by our [security practices](https://about.gitlab.com/handbook/security/):
+- Abide by our [security practices](/handbook/security/):
 
 ## Production engineering
 

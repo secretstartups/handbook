@@ -17,8 +17,8 @@ Also, we act as a support group. Whether it's async in Slack or live during a me
 
 ## Leads
 
-- [Kaitlyn Chappell](https://about.gitlab.com/company/team/#kchappell)
-- Co-Lead [Wil Spillane](https://about.gitlab.com/company/team/#wspillane)
+- [Kaitlyn Chappell](/handbook/company/team/#kchappell)
+- Co-Lead [Wil Spillane](/handbook/company/team/#wspillane)
 
 ## Executive Sponsor
 

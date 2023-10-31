@@ -28,7 +28,7 @@ If you have any feedback or questions relating to compensation, please reach out
 1. We use a [compensation calculator]({{< ref "compensation-calculator" >}}) to ensure transparent and consistent compensation.
 1. We do not disclose individual compensation since compensation is [not public](/handbook/communication/confidentiality-levels/#not-public).
 1. We adjust our calculator based on survey data, feedback from applicants and team members, and candidate data. Please email `total-rewards@ gitlab` if you want to contribute.
-1. We offer [restricted stock units (RSUs)](https://about.gitlab.com/handbook/stock-options/) for most positions.
+1. We offer [restricted stock units (RSUs)](/handbook/stock-options/) for most positions.
 1. We base compensation on current position and performance at GitLab – not on what we paid you last month – and, generally, we don't reduce compensation.
 1. Increases within the market pay bands will be based on performance.
     - At hire, we base our compensation offer on the position and experience in the market.
@@ -39,7 +39,7 @@ If you have any feedback or questions relating to compensation, please reach out
 1. We will update this page and the processes throughout the year.
 1. We'll review your pay as soon as your job-family or level factor changes.
 1. If we change our [SF benchmark]({{< ref "compensation-calculator#sf-benchmark" >}}) for a job family without changing the requirements, we review the compensation both for existing team members and new hires. If the SF benchmark is changed together with the requirements this review might happen at the time of the change or in our yearly cycle.
-1. We offer [bonuses and incentives]({{< ref "incentives" >}}), but we don't offer ping pong tables or free lunches. We think it is more important to offer people flexibility and freedom. See the [Top 10 reasons to work for GitLab on our culture page](https://about.gitlab.com/company/culture/#advantages/).
+1. We offer [bonuses and incentives]({{< ref "incentives" >}}), but we don't offer ping pong tables or free lunches. We think it is more important to offer people flexibility and freedom. See the [Top 10 reasons to work for GitLab on our culture page](/handbook/company/culture/#advantages/).
 1. We hire across the globe, but we're not location agnostic. Your timezone, the location factor in your region, and the vicinity to users, customers, and partners can all be factors. For example, we may favor one applicant over another because they live in a region with a lower location factor or because we need someone in that timezone.
 1. All things being equal, factors such as whether a candidate is in an underrepresented group or a lower-cost market vs higher-cost market can help us come to hiring decisions. In this case, both factors are equally weighted and business needs will inform the final hiring decision.
 1. People on quota (account executives, account managers, and sales leadership) have variable compensation that is about 50% of their On Target Earnings (OTE). Individual contributors in the sales organization have variable compensation that is purely based on commission.
@@ -101,7 +101,7 @@ We have a market-based approach to compensation because:
 
 ## Compensation Group
 
-The Compensation Group is comprised of the CEO, CFO, and Chief People Officer. The Compensation Group is responsible for all Total Rewards escalations based on the approval matrix. When there is no time to coordinate with the group, the CEO can make a decision and inform the group. When the CEO is away (e.g. vacation), the two other members of the group can make a decision and inform the group. This group is different from the Compensation Leadership Development Committee at the [board level](https://about.gitlab.com/handbook/board-meetings/#board-and-committee-composition).
+The Compensation Group is comprised of the CEO, CFO, and Chief People Officer. The Compensation Group is responsible for all Total Rewards escalations based on the approval matrix. When there is no time to coordinate with the group, the CEO can make a decision and inform the group. When the CEO is away (e.g. vacation), the two other members of the group can make a decision and inform the group. This group is different from the Compensation Leadership Development Committee at the [board level](/handbook/board-meetings/#board-and-committee-composition).
 
 **Approval Matrix:**
 
@@ -111,7 +111,7 @@ The Compensation Group is comprised of the CEO, CFO, and Chief People Officer. T
 | Approval of Benefit Plan Changes (due to implementation or renewal) | If Under 50k USD, Finance Business Partner (G&A)<br>If 50k-100k USD Finance Business Partner (G&A) and VP, Finance<br>If 100k+ USD Finance Business Partner (G&A), VP, Finance, and CFO | Total Rewards to summarize implementation or renewal details |
 | Final Approval of Annual Compensation Review | Chief People Officer, CFO, and CEO | Total Rewards to present final proposed increases and budgetary impact |
 | Review/approval of Executive and Board Compensation | Chief People Officer and CEO | Total Rewards to present summary of proposal, once approved escalate to Compensation Leadership Development Committee for Final Approval |
-| Internal Demotion requests | Chief People Officer | [Demotion Process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#demotions) |
+| Internal Demotion requests | Chief People Officer | [Demotion Process](/handbook/people-group/promotions-transfers/#demotions) |
 
 ## Compensation for Acting and Interim Roles
 
@@ -244,11 +244,11 @@ Example: A team member's local currency is the Russian Ruble (RUB) and they are 
 
 ## Hourly Employees
 
-GitLab is committed to following all applicable wage and working hours laws and regulations. To help ensure that all work performed for GitLab is compensated correctly, team members compensated on the basis of hours worked must [report and record time](https://about.gitlab.com/handbook/finance/#timesheets-for-hourly-employees) accurately.
+GitLab is committed to following all applicable wage and working hours laws and regulations. To help ensure that all work performed for GitLab is compensated correctly, team members compensated on the basis of hours worked must [report and record time](/handbook/finance/#timesheets-for-hourly-employees) accurately.
 
 ## Sales Compensation
 
-Sales and Sales Development roles at GitLab that are subject to quota and paid commission based on the [Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/) are not located in the [compensation calculator]({{< ref "compensation-calculator" >}}). This includes roles in the following departments:
+Sales and Sales Development roles at GitLab that are subject to quota and paid commission based on the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/) are not located in the [compensation calculator]({{< ref "compensation-calculator" >}}). This includes roles in the following departments:
 
 - Channel
 - Commercial Sales
@@ -321,8 +321,8 @@ Directors and above are eligible for the Company Bonus Plan.
 
 **Approvals:**
 
-- The bonus plan is approved by the [Compensation Leadership Development Committee](https://about.gitlab.com/handbook/board-meetings/#compensation-and-leadership-development-committee) of the Board of Directors.
-- Performance against Plan targets is reviewed and approved by the [Audit Committee](https://about.gitlab.com/handbook/board-meetings/#audit-committee) of the Board of Directors.
+- The bonus plan is approved by the [Compensation Leadership Development Committee](/handbook/board-meetings/#compensation-and-leadership-development-committee) of the Board of Directors.
+- Performance against Plan targets is reviewed and approved by the [Audit Committee](/handbook/board-meetings/#audit-committee) of the Board of Directors.
 - Bonus payouts are recommended by the CFO and approved by the Compensation Leadership Development Committee of the Board of Directors.
 
 **Proration and Eligibility:**
@@ -340,7 +340,7 @@ The Compensation Leadership Development Committee approves all bonus payouts for
 
 1. The Finance team will generate a calculation of the total bonus payout for the Fiscal Year within 30 days of the last day of the fiscal year including: Employee #, Name, Reporting to, Division, Department, Title, Hire Date, Total Eligible, Total Payout.
 1. The Total Rewards Team will audit the calculation and eligibility list.
-1. Once approved by the Total Rewards and Finance team, a meeting will scheduled with the CEO, CPO, and CFO for approval of the bonus payout. The CEO and CFO will review and approve all bonus payouts (aligned with the [authorization matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix)) and discuss exceptions with the CPO.
+1. Once approved by the Total Rewards and Finance team, a meeting will scheduled with the CEO, CPO, and CFO for approval of the bonus payout. The CEO and CFO will review and approve all bonus payouts (aligned with the [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix)) and discuss exceptions with the CPO.
 1. The Total Rewards Team will collaborate with the Finance team to include the total spend for the bonus plan, attainment, and executive specific payout for the Compensation Leadership Development Committee meeting. Approval of the bonus plan would be captured in the Committee meeting minutes.
 1. Once approved by the Compensation Leadership Development Committee, the Total Rewards team will notify Finance that the bonuses are ready for processing via payroll. The file approved internally will be shared with payroll by the Finance team.
 

@@ -43,7 +43,7 @@ The gratis support webform has the following options, which are described in det
 
 ### a prospect
 
-Please refer to the [Priority Prospects page](https://handbook.gitlab.com/handbook/support/priority_prospects/) for more information.
+Please refer to the [Priority Prospects page](/handbook/support/priority_prospects/) for more information.
 
 ### a current customer migrating from one product to another
 
@@ -67,4 +67,4 @@ Use this **only** when you have already negotiated a specific situation with Cus
 
 ## Further Reading
 
-- [Support Operations workflow handbook page for gratis support](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/policies/gratis_support/)
+- [Support Operations workflow handbook page for gratis support](/handbook/support/readiness/operations/docs/policies/gratis_support/)

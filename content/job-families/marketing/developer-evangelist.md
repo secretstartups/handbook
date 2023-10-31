@@ -13,7 +13,7 @@ We focus on generating awareness about GitLab by rolling up our sleeves, contrib
 
 ### Job Grade
 
-The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Developer Evangelist is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -40,7 +40,7 @@ The Developer Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 
 ### Job Grade
 
-The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Developer Evangelist is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -59,7 +59,7 @@ The Senior Developer Evangelist is a [grade 7](https://about.gitlab.com/handbook
 
 ### Job Grade
 
-The Staff Developer Evangelist is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Developer Evangelist is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -83,7 +83,7 @@ The Developer Evangelism Program Manager is a Developer Evangelist, who focuses 
 
 ### Job Grade
 
-The Developer Evangelism Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Developer Evangelism Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -132,7 +132,7 @@ As the Manager, Developer Evangelism, you will be responsible for building our d
 
 ### Job Grade
 
-The Manager, Developer Evangelism is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Developer Evangelism is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -161,7 +161,7 @@ As the Senior Manager, Developer Evangelism, you will set stratgey and direction
 
 ### Job Grade
 
-The Senior Manager, Developer Evangelism is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, Developer Evangelism is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsbilities
 

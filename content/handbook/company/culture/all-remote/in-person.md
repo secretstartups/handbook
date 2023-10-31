@@ -135,7 +135,7 @@ This creates an easy path for gathering in a central location to bond. Common re
 
 Being a 100% remote company creates unique opportunities for these gatherings. A team may consider rotating who picks the venue or locale to meet at, creating a diverse calendar of events. Those who are comfortable doing so may even consider inviting local team members to their home or neighborhood.
 
-GitLab recognizes that not everyone can or will prefer to work from their home. In turn, fees associated with co-working spaces are [reimbursable](https://about.gitlab.com/handbook/finance/expenses#coworking-or-external-office--space). Through location channels, team members who live close to one another can easily arrange dedicated co-working days and shared events, covering everything from dining together to supporting a local charity as a unit.
+GitLab recognizes that not everyone can or will prefer to work from their home. In turn, fees associated with co-working spaces are [reimbursable](/handbook/finance/expenses#coworking-or-external-office--space). Through location channels, team members who live close to one another can easily arrange dedicated co-working days and shared events, covering everything from dining together to supporting a local charity as a unit.
 
 ## Subsidized travel to visit team members
 

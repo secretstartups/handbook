@@ -13,9 +13,9 @@ Always include a link to the log as an internal note, with additional informatio
 
 A standard response is available in ZenDesk as a macro [`Support::SaaS::Audit logs access request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360018514099).
 
-If required, you can escalate the ticket/issue by following our [escalation process](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html).
+If required, you can escalate the ticket/issue by following our [escalation process](/handbook/support/internal-support/support-ticket-attention-requests.html).
 
-You can consider using the [kibana workflow]({{< ref "kibana" >}}) page for tips on retrieving logs for requests within the last 7 days. Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](https://about.gitlab.com/handbook/security/customer-requests/).
+You can consider using the [kibana workflow]({{< ref "kibana" >}}) page for tips on retrieving logs for requests within the last 7 days. Log requests beyond a summary (similar to the examples below) or where logs are not readily available on Kibana should be handled according to the process outlined in the handbook page dedicated to [providing assistance to GitLab.com customers during customer-based security incidents](/handbook/security/customer-requests/).
 
 ### Who can make a request
 

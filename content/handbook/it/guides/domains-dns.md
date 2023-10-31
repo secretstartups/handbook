@@ -7,7 +7,7 @@ description: "IT Self Service Guides provide team members with instructions for 
 
 We have a variety of domain names at GitLab for production, services, internal tools, and sandbox purposes. They are technically managed in a variety of ways.
 
-The [Domain Name Registration and Maintenance Policy](https://about.gitlab.com/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) is designed to centralize the registration, legal management, and costs associated with domain names.
+The [Domain Name Registration and Maintenance Policy](/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) is designed to centralize the registration, legal management, and costs associated with domain names.
 
 As of 2022-08-01, you can no longer submit an expense report for domain names that you use for demo and sandbox purposes. See the instructions below for IT to [purchase a trademark domain name](#trademark-domain-names), self service purchasing a [non-trademark domain with Sandbox Cloud](#non-trademark-domain-names) for demo and internal use cases, and [transferring an existing domain name](#transferring-domain-names) into GitLab IT managed infrastructure for ongoing renewals that are paid for by the company.
 
@@ -44,7 +44,7 @@ You can self service purchase a domain name of your choice (without Gitlab trade
 - [Domain Purchase Instructions for AWS Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html)
 - [Domain Purchase Instructions for GCP Cloud Domains](https://cloud.google.com/domains/docs/register-domain)
 
-**Do not purchase any domain names on Namecheap, GoDaddy, or other registrars. Only domain names purchased inside of your Sandbox Cloud AWS Account or GCP Project will be paid for by GitLab. No expense reports will be approved.** See the [Domain Name Registration and Maintenance Policy](https://about.gitlab.com/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) for details.
+**Do not purchase any domain names on Namecheap, GoDaddy, or other registrars. Only domain names purchased inside of your Sandbox Cloud AWS Account or GCP Project will be paid for by GitLab. No expense reports will be approved.** See the [Domain Name Registration and Maintenance Policy](/handbook/finance/expenses/#domain-name-registration-and-maintenance-policy) for details.
 
 Please ask in `#sandbox-cloud-questions` if you need guidance.
 
@@ -54,7 +54,7 @@ If you use [Sandbox Cloud Terraform Environments](/handbook/infrastructure-stand
 
 It is labor intensive (aka expensive) to manually manage subdomain records for different team members as a subdomain with NS records. We spent a lot of time cleaning up past records and consider it to be too expensive to manage.
 
-We believe it is [more efficient](https://about.gitlab.com/handbook/values/#efficiency-for-the-right-group) to pay $10-20/yr for each team member to have their own domain name that they can manage how they see fit. By using the Sandbox Cloud, the costs are handled automatically without any extra work. See [Non-Trademark Domain Names](#non-trademark-domain-names) for instructions.
+We believe it is [more efficient](/handbook/values/#efficiency-for-the-right-group) to pay $10-20/yr for each team member to have their own domain name that they can manage how they see fit. By using the Sandbox Cloud, the costs are handled automatically without any extra work. See [Non-Trademark Domain Names](#non-trademark-domain-names) for instructions.
 
 Please ask in `#sandbox-cloud-questions` if you need guidance.
 

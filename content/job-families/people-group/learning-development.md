@@ -11,7 +11,7 @@ The Associate Learning & Development Program Manager reports to the [Learning & 
 
 ### Associate Learning & Development Program Manager Job Grade
 
-The Associate Learning & Development Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Learning & Development Program Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Associate Learning & Development Program Manager Responsibilities
 
@@ -35,7 +35,7 @@ The Program Manager, Learning & Development (Intermediate) reports to the [Learn
 
 ### Intermediate Learning & Development Program Manager
 
-The Program Manager, Learning & Development (Intermedidate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Program Manager, Learning & Development (Intermedidate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Intermediate Learning & Development Program Manager Responsibilities
 
@@ -69,14 +69,14 @@ The Senior Learning & Development Program Manager reports to the [L&D Manager](/
 
 ### Senior Learning & Development Program Manager Job Grade
 
-The Learning & Development Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Learning & Development Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Learning & Development Program Manager Responsibilities
 
 - Extends the Intermediate Learning & Development Program Manager responsibilities
 - Partner with members of the People group and the leadership team to identify, develop, and deliver solutions that support the growth of our team members and GitLab's success
 - Establish an internal learning and development roadmap for all GitLab managers and individual contributors
-- Iterate on existing materials and design and develop new onboarding/L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](https://about.gitlab.com/handbook/handbook-usage/)
+- Iterate on existing materials and design and develop new onboarding/L&D content, utilizing [GitLab's YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) and [handbook](/handbook/handbook-usage/)
 - Monitor L&D metrics and iterate upon programs and courses for continuous improvement
 - Create and design the supporting course material for all onboarding and/or development programs, both for instructor-led and e-learning
 - Identify and design the right learning solutions to support GitLab's growth
@@ -101,7 +101,7 @@ The Learning & Development Manager reports to the [Senior Manager, Learning & De
 
 ### Job Grade
 
-The Learning & Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -142,7 +142,7 @@ The Senior Manager, Learning & Development reports to the [VP, Talent & Engageme
 
 ### Job Grade
 
-The Learning & Development Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Learning & Development Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -170,7 +170,7 @@ The Director, Talent Development reports to the [VP, Talent & Engagement](/job-f
 
 ### Job Grade
 
-The Director, Talent Development is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Talent Development is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -198,7 +198,7 @@ The Senior Director, Talent, Development & Management reports to the [VP, Talent
 
 ### Job Grade
 
-The Senior Director, Talent, Development & Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Talent, Development & Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -241,15 +241,15 @@ The Senior Director, Talent, Development & Management is a [grade 11](https://ab
 
 ## L&D Performance Indicators
 
-1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](https://about.gitlab.com/handbook/people-group/offboarding/#exit-survey) related to career development
-1. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](https://about.gitlab.com/handbook/people-group/engagement/)
+1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](/handbook/people-group/offboarding/#exit-survey) related to career development
+1. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
 1. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
 
 ## Hiring Process
 
 Candidates for Learning & Development can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the procss.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with the Hiring Manager
 - Then, candidates will be invited to schedule a 45 minute interview with a peer in Learning & Development
 - Then, candidates will be invited to schedule a 45 minute interview with a People Business Partner

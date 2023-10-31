@@ -231,7 +231,7 @@ A performance improvement plan includes the following:
 
 #### PIP Compensation Impact
 
-It is important to note that when a PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/) or the [annual refresh grant program](https://about.gitlab.com/handbook/stock-options/#refresh-grants).
+It is important to note that when a PIP is active, the team member is not eligible for compensation increases from the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/) or the [annual refresh grant program](/handbook/stock-options/#refresh-grants).
 
 ### Internal Applications and Transfers during underperformance remediation
 

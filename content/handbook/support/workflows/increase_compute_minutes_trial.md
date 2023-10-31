@@ -22,6 +22,6 @@ ______________
 1. Confirm the user requesting additional minutes is a member of that namespace.
 1. Update the minutes to reflect 10000, instead of 400.
     1. You can update the minutes as a .com admin, or
-    1. Use /chatops to [set additional minutes quota for a namespace](https://about.gitlab.com/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace).
+    1. Use /chatops to [set additional minutes quota for a namespace](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace).
 
-For more details on adding more minutes to an account, see [Adding additional compute minutes](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html).
+For more details on adding more minutes to an account, see [Adding additional compute minutes](/handbook/support/license-and-renewals/workflows/saas/ci_minutes.html).

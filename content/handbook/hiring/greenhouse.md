@@ -306,7 +306,7 @@ Rejected candidates will stay in our talent community and we may revisit them fo
 
 Generally, we will leave a minimum gap of 6-months before reconsidering someone. We will only reconsider candidates who were rejected because they lacked skills or experience.
 
-We will not reconsider candidates who were mismatched with our [values competencies](https://about.gitlab.com/handbook/competencies/#values-competencies) and/or our [remote work competencies](https://about.gitlab.com/handbook/competencies/#remote-work-competencies).
+We will not reconsider candidates who were mismatched with our [values competencies](/handbook/competencies/#values-competencies) and/or our [remote work competencies](/handbook/competencies/#remote-work-competencies).
 
 #### Single-vetos
 
@@ -420,7 +420,7 @@ The Greenhouse CRM is the entry point for prospective candidates (a.k.a. *Prospe
 
 ### Greenhouse Inclusion
 
-We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/) efforts.
+We use Greenhouse Inclusion to mitigate unconscious bias, ensure consistent candidate evaluations, and to measure the impact of these practices in our [Diversity, Inclusion & Belonging](/handbook/company/culture/inclusion/) efforts.
 
 Enabled features include:
 - Nudges, or reminders, to all users when creating a requisition description, adding a referral, and/or filling out a scorecard.

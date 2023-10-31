@@ -178,7 +178,7 @@ Learn more in the [Communication section of GitLab's Handbook]({{< ref "communic
 
 ### 10. Say thanks and be creative
 
-At GitLab, we have a dedicated Slack channel [devoted to saying thanks]({{< ref "communication#say-thanks" >}}). Kindness is embedded in our [Collaboration]({{< ref "values#collaboration" >}}) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/company/culture/inclusion#fully-distributed-and-completely-connected) team.
+At GitLab, we have a dedicated Slack channel [devoted to saying thanks]({{< ref "communication#say-thanks" >}}). Kindness is embedded in our [Collaboration]({{< ref "values#collaboration" >}}) value, and gratitude is an essential part of our culture. This reinforces what connects us as a [geographically diverse](/handbook/company/culture/inclusion#fully-distributed-and-completely-connected) team.
 
 A great example of several GitLab's [values]({{< ref "values" >}}) being used to generate a creative outcome from a regularly scheduled meeting is detailed on the company blog: ["How we turned a dull weekly all-hands into a podcast"](https://about.gitlab.com/blog/2019/06/03/how-we-turned-40-person-meeting-into-a-podcast)
 

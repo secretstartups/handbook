@@ -51,7 +51,7 @@ The following people are permanent members of the SIRT
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Engaging SIRT
 
-The [SIRT]({{< ref "." >}}) is on-call [24/7/365](https://about.gitlab.com/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
+The [SIRT]({{< ref "." >}}) is on-call [24/7/365](/handbook/on-call/#security-team-on-call-rotation) to assist with any security incidents. If an urgent security incident has been identified or you suspect an incident may have occurred, please refer to [Engaging the Security Engineer On-Call]({{< ref "engaging-security-on-call" >}}).
 
 Information about SIRT responsibilities and incident ownership is available in the [SIRT On-Call Guide]({{< ref "secops-oncall" >}}).
 

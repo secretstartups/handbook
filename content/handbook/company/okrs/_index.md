@@ -7,17 +7,17 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 Our OKR process and timelines are public and listed on the pages below.
-- [FY24-Q3 Active](/company/okrs/fy24-q3/)
-- [FY24-Q4 Future](/company/okrs/fy24-q4/)
+- [FY24-Q3 Active](/handbook/company/okrs/fy24-q3/)
+- [FY24-Q4 Future](/handbook/company/okrs/fy24-q4/)
 - [Previous OKRs](#okr-archive)
 
-OKRs are internal-only in line with guidance from the [SAFE framework](/handbook/legal/safe-framework/).
+OKRs are internal-only in line with guidance from the [SAFE framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ## What are OKRs?
 
 [OKRs](https://en.wikipedia.org/wiki/OKR) stand for Objectives and Key Results and are our quarterly objectives.
-OKRs are *how* to achieve the goal of the Key Performance Indicators [KPIs](/company/kpis/).
-They lay out our plan to execute our [strategy](/company/strategy/) and help make sure our goals and how to achieve them are clearly defined and aligned throughout the organization.
+OKRs are *how* to achieve the goal of the Key Performance Indicators [KPIs](/handbook/company/kpis/).
+They lay out our plan to execute our [strategy](/handbook/company/strategy/) and help make sure our goals and how to achieve them are clearly defined and aligned throughout the organization.
 
 **Objectives** are an aspirational goal to be achieved. They define *what* we're aiming to do, and they show how individual, team, or department work impacts the overall direction of GitLab by connecting work to overall company strategy.
 
@@ -32,9 +32,9 @@ OKRs have four superpowers:
 - Tracking
 - Stretch
 
-We do not use it to [give performance feedback](https://about.gitlab.com/handbook/people-group/360-feedback/) or as a [compensation review](https://about.gitlab.com/handbook/total-rewards/compensation/) for team members.
+We do not use it to [give performance feedback](/handbook/people-group/360-feedback/) or as a [compensation review](/handbook/total-rewards/compensation/) for team members.
 
-The [E-Group](https://about.gitlab.com/company/team/structure/#e-group) does use it for their [Performance Enablement Reviews](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#performance-enablement-review).
+The [E-Group](/handbook/company/team/structure/#e-group) does use it for their [Performance Enablement Reviews](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review).
 
 The [Chief of Staff to the CEO](/job-families/chief-executive-officer/chief-of-staff/) initiates and guides the OKR process.
 
@@ -121,12 +121,12 @@ Some KRs will measure new approaches or processes in a quarter. When this happen
 
 ### Shared Objectives
 
-If there is something important that requires two (or more) parts of our organization, all leaders involved should share the same or similar objective. They should have deconflicted key results so they can still achieve things within their sphere of control. This is in keeping with our concepts of [collaboration](/handbook/values/#collaboration) and [directly responsible individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
+If there is something important that requires two (or more) parts of our organization, all leaders involved should share the same or similar objective. They should have deconflicted key results so they can still achieve things within their sphere of control. This is in keeping with our concepts of [collaboration](/handbook/values/#collaboration) and [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/#what-is-a-directly-responsible-individual).
 
 ### OKRs are what is different
 
 The OKRs are what we are focusing on this quarter specifically. Our most important work are things that happen every quarter.
-Things that happen every quarter are measured with [Key Performance Indicators](/company/kpis/).
+Things that happen every quarter are measured with [Key Performance Indicators](/handbook/company/kpis/).
 Part of the OKRs will be or cause changes in KPIs.
 
 ### Pass-thru Key Results
@@ -160,20 +160,20 @@ Part of the individual performance review is the answer to: how much did this pe
 
 ## Alignment
 
-OKRs are our quarterly priorities that create progress for our [Yearlies](/company/yearlies/), which are our annual company goals. Since OKRs create progress for yearlies, OKRs are aligned to one of the yearlies.
+OKRs are our quarterly priorities that create progress for our [Yearlies](/handbook/company/yearlies/), which are our annual company goals. Since OKRs create progress for yearlies, OKRs are aligned to one of the yearlies.
 
-OKRs are directly aligned to yearlies and not directly aligned to one of the three pillars of the [three year strategy](/company/strategy/#three-year-strategy). However, since the yearlies are aligned to one of the strategic pillars, OKRs are indirectly aligned to one of the strategic pillars.
+OKRs are directly aligned to yearlies and not directly aligned to one of the three pillars of the [three year strategy](/handbook/company/strategy/#three-year-strategy). However, since the yearlies are aligned to one of the strategic pillars, OKRs are indirectly aligned to one of the strategic pillars.
 
 ## Cadence
 
-OKRs are part of our company [cadence](/company/cadence/).
+OKRs are part of our company [cadence](/handbook/company/cadence/).
 
-Since OKRs create progress for our [Yearlies](/company/yearlies/), by achieving our quarterly priorities, we create progress for the rest of the items on the cadence page. By achieving our yearlies, we create progress to achieving our [strategy](/company/strategy/). Achieving our strategy is key to realizing our [vision](/company/vision/), [mission](/company/mission/), and eventually [purpose](/company/purpose/). In this way, OKRs are quarterly building blocks that create progress toward longer term goals.
+Since OKRs create progress for our [Yearlies](/handbook/company/yearlies/), by achieving our quarterly priorities, we create progress for the rest of the items on the cadence page. By achieving our yearlies, we create progress to achieving our [strategy](/handbook/company/strategy/). Achieving our strategy is key to realizing our [vision](/handbook/company/vision/), [mission](/handbook/company/mission/), and eventually [purpose](/handbook/company/purpose/). In this way, OKRs are quarterly building blocks that create progress toward longer term goals.
 
 ## OKR Process at GitLab
 
 The EBA to the CEO is responsible for scheduling and coordinating the OKRs process detailed below.
-Scheduling should be completed at least 30 days in advance of the beginning of the OKR process, which begins 5 weeks before the start of the [fiscal quarter](https://about.gitlab.com/handbook/finance/#fiscal-year).
+Scheduling should be completed at least 30 days in advance of the beginning of the OKR process, which begins 5 weeks before the start of the [fiscal quarter](/handbook/finance/#fiscal-year).
 
 Should you need to reschedule, please @ mention the EBA to the CEO in the `#eba-team` slack channel.
 
@@ -232,7 +232,7 @@ In FY21, we had quarterly How to Achieve Meetings in which senior team members s
 GitLab entries should include the following fields:
 
 1. **Overview:** some additional background on what we are trying to accomplish and why it is important. This section should elaborate on KRs that are not fully descriptive and provide context for team members who might not otherwise understand the desired result.
-1. **DRI or Core Team**: document the [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/). Other key team members and their roles can also be captured in this section.
+1. **DRI or Core Team**: document the [DRI](/handbook/people-group/directly-responsible-individuals/). Other key team members and their roles can also be captured in this section.
 1. **Action Items:** a list of 3-10 key action items for achieving the target. You can consider using checkboxes or a chart to help communicate progress.
 1. **Scoring**: your KR should be a statement that clearly indicates how you will score final achievement at the end of quarter. If it is, this section is not needed. When how the KR will be scored isn't immediately clear from the KR itself, details on how scoring will work should be documented according to [scoring guidelines](#scoring-okrs).
 
@@ -271,7 +271,7 @@ Watch this video for a demo on how to use GitLab for OKR management:
 
 ### Creating Objectives
 
-The objectives for the quarter are defined in the [OKR section of the handbook](https://about.gitlab.com/company/okrs/).
+The objectives for the quarter are defined in the [OKR section of the handbook](/handbook/company/okrs/).
 To add new objectives in GitLab, follow the steps below:
 
 1. In the [GitLab OKRs project](https://gitlab.com/gitlab-com/gitlab-OKRs), navigate to OKRs by selecting **Issues** on the left sidebar.
@@ -279,7 +279,7 @@ To add new objectives in GitLab, follow the steps below:
 1. Enter a short but descriptive title for the objective then click **Create objective**
 1. Select the objective from the list to open in an editable view and add more details:
     1. Identify the owner for the objective and assign them.
-         1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the objective. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
+         1. Ensure that only one [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to the objective. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
     1. Identify the quarter for the objective and set the corresponding milestone.
     1. Add labels so objective is [searchable/filterable](#search-and-filter-okrs):
         1. Add `OKR` label.
@@ -291,7 +291,7 @@ To add new objectives in GitLab, follow the steps below:
 
 ### Creating Key Results
 
-Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Sub-objectives are only used to cascade OKR down a level in [organizational structure](https://about.gitlab.com/team/structure/#layers) while [Key Results are the measure](#what-are-okrs) which helps us understand if we’ve met our objective and can be cascaded down a level of organization structure to become an objective one level down. Key Results must be created as part of an Objective and cannot be created independent of an Objective since Key Results [should be linked](https://about.gitlab.com/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an Objective.
+Each [Objective](#creating-objectives) will contain one or more sub-objectives or key results. Sub-objectives are only used to cascade OKR down a level in [organizational structure](https://about.gitlab.com/team/structure/#layers) while [Key Results are the measure](#what-are-okrs) which helps us understand if we’ve met our objective and can be cascaded down a level of organization structure to become an objective one level down. Key Results must be created as part of an Objective and cannot be created independent of an Objective since Key Results [should be linked](/handbook/company/okrs/#criteria-for-key-results:~:text=Linked%20%2D%20Be%20aligned%20to%20an%20Objective%20and%20be%20relevant%20to%20teams%20one%20level%20down%3B%20this%20alignment%20also%20allows%20KRs%20to%20easily%20roll%20down%20to%20become%20objectives%20one%20level%20down.) to an Objective.
 
 Since [Key Results are the measure](#what-are-okrs) that helps us understand if we’ve met our Objective, Key Results are aligned to the same, single layer of the [organizational structure](https://about.gitlab.com/team/structure/#layers) as their parent Objective and not a Key Result for multiple layers of organizational structure. However, Key Results can be cascaded down from this single organizational structure layer by becoming Objectives in the next organizational level down - see [Cascading OKRs](#cascading-okrs-and-how-to-align-division-okrs-to-the-ceo-okrs).
 
@@ -302,7 +302,7 @@ To add new key results in GitLab, follow the steps below:
 1. Enter a short but descriptive title for the key result then click **Create key result**
 1. Select the key result from the list in the **Child objectives and key results** section to open in an editable view and add more details:
     1. Identify the owner for the key result and assign them.
-        1. Ensure that only one [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is assigned to the KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
+        1. Ensure that only one [DRI](/handbook/people-group/directly-responsible-individuals/) is assigned to the KR. If there is a case of multi-ownership, it's likely that the OKR/KR can be simplified or broken down further.
     1. Identify the quarter for the key result and set the start date as the first date of that quarter and set the due date to the last day of that quarter.
     1. Add labels so that KR is [searchable/filterable](#search-and-filter-okrs):
         1. Add `OKR` label.
@@ -469,27 +469,27 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 
 ## OKR Archive
 
-- [FY24-Q2](/company/okrs/fy24-q2/)
-- [FY24-Q1](/company/okrs/fy24-q1/)
-- [FY23-Q4](/company/okrs/fy23-q4/)
-- [FY23-Q3](/company/okrs/fy23-q3/)
-- [FY23-Q2](/company/okrs/fy23-q2/)
-- [FY23-Q1](/company/okrs/fy23-q1/)
-- [FY22-Q4](/company/okrs/fy22-q4/)
-- [FY22-Q3](/company/okrs/fy22-q3/)
-- [FY22-Q2](/company/okrs/fy22-q2/)
-- [FY22-Q1](/company/okrs/fy22-q1/)
-- [FY21-Q4](/company/okrs/fy21-q4/)
-- [FY21-Q3](/company/okrs/fy21-q3/)
-- [FY21-Q2](/company/okrs/fy21-q2/)
-- [FY21-Q1](/company/okrs/fy21-q1/)
-- [FY20-Q4](/company/okrs/fy20-q4/)
-- [FY20-Q3](/company/okrs/fy20-q3/)
-- [FY20-Q2](/company/okrs/fy20-q2/)
-- [FY20-Q1](/company/okrs/fy20-q1/)
-- [CY18-Q4](/company/okrs/2018-q4/)
-- [CY18-Q3](/company/okrs/2018-q3/)
-- [CY18-Q2](/company/okrs/2018-q2/)
-- [CY18-Q1](/company/okrs/2018-q1/)
-- [CY17-Q4](/company/okrs/2017-q4/)
-- [CY17-Q3](/company/okrs/2017-q3/)
+- [FY24-Q2](/handbook/company/okrs/fy24-q2/)
+- [FY24-Q1](/handbook/company/okrs/fy24-q1/)
+- [FY23-Q4](/handbook/company/okrs/fy23-q4/)
+- [FY23-Q3](/handbook/company/okrs/fy23-q3/)
+- [FY23-Q2](/handbook/company/okrs/fy23-q2/)
+- [FY23-Q1](/handbook/company/okrs/fy23-q1/)
+- [FY22-Q4](/handbook/company/okrs/fy22-q4/)
+- [FY22-Q3](/handbook/company/okrs/fy22-q3/)
+- [FY22-Q2](/handbook/company/okrs/fy22-q2/)
+- [FY22-Q1](/handbook/company/okrs/fy22-q1/)
+- [FY21-Q4](/handbook/company/okrs/fy21-q4/)
+- [FY21-Q3](/handbook/company/okrs/fy21-q3/)
+- [FY21-Q2](/handbook/company/okrs/fy21-q2/)
+- [FY21-Q1](/handbook/company/okrs/fy21-q1/)
+- [FY20-Q4](/handbook/company/okrs/fy20-q4/)
+- [FY20-Q3](/handbook/company/okrs/fy20-q3/)
+- [FY20-Q2](/handbook/company/okrs/fy20-q2/)
+- [FY20-Q1](/handbook/company/okrs/fy20-q1/)
+- [CY18-Q4](/handbook/company/okrs/2018-q4/)
+- [CY18-Q3](/handbook/company/okrs/2018-q3/)
+- [CY18-Q2](/handbook/company/okrs/2018-q2/)
+- [CY18-Q1](/handbook/company/okrs/2018-q1/)
+- [CY17-Q4](/handbook/company/okrs/2017-q4/)
+- [CY17-Q3](/handbook/company/okrs/2017-q3/)

@@ -9,7 +9,7 @@ As a GitLab Community Advocate, you will be a member of the Community Advocacy t
 
 ### Job Grade
 
-The Community Advocate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Community Advocate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -42,7 +42,7 @@ The Community Advocate is a [grade 5](https://about.gitlab.com/handbook/total-re
 
 #### Job Grade
 
-The Junior Community Advocate is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Community Advocate is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities and Requirements
 
@@ -52,7 +52,7 @@ Junior Community Advocates share the same responsibilities and requirements as t
 
 #### Job Grade
 
-The Senior Community Advocate is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Community Advocate is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities and Requirements
 
@@ -67,7 +67,7 @@ Senior Community Advocates share the same responsibilities and requirements as t
 
 #### Job Grade
 
-The Manager, Community Advocate is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Community Advocate is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -94,7 +94,7 @@ The Manager, Community Advocate is a [grade 8](https://about.gitlab.com/handbook
 
 #### Job Grade
 
-The Senior Manager, Community Advocate is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Community Advocate is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 In addition to meeting the requirements of a Manager, Community Advocate, the Senior Manager will have the following:
 
@@ -106,7 +106,7 @@ In addition to meeting the requirements of a Manager, Community Advocate, the Se
 
 ### Career Ladder
 
-The next step in a Senior Manager, Community Advocate's career at GitLab would be [Director, Developer Relations](https://about.gitlab.com/job-families/marketing/director-of-developer-relations/).
+The next step in a Senior Manager, Community Advocate's career at GitLab would be [Director, Developer Relations](/job-families/marketing/director-of-developer-relations/).
 
 ## Performance Indicators
 
@@ -116,16 +116,16 @@ The next step in a Senior Manager, Community Advocate's career at GitLab would b
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - A 45 minute interview with one of our Senior Community Advocates
 - A 45 minute interview with one of the Program Managers in the Developer Relations team
 - A 45 minute interview with our Director of Developer Relations
 - A 45 minute interview with our Chief Marketing Officer
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Relevant links
 

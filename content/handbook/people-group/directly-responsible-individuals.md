@@ -73,11 +73,11 @@ The DRI will also be responsible for making sure the team gets there.
 A DRI should be able to articulate the objectives, check progress and give and receive feedback.
 This will ensure the DRI can change direction or plan ahead to avoid any setbacks.
 
-At GitLab we communicate and work [asynchronously](https://about.gitlab.com/company/culture/all-remote/management/#asynchronous), you can read more about it on [this page]({{< ref "communication" >}}).
+At GitLab we communicate and work [asynchronously](/handbook/company/culture/all-remote/management/#asynchronous), you can read more about it on [this page]({{< ref "communication" >}}).
 
 One thing to consider when a DRI needs to give or receive feedback is that they may not be the actual manager of the other members of the team.
 
-Giving or receiving feedback is tough and we have looked at this in our previous [Guidance on Feedback Training]({{< ref "guidance-on-feedback" >}}). See also GitLab's [guide to communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/).
+Giving or receiving feedback is tough and we have looked at this in our previous [Guidance on Feedback Training]({{< ref "guidance-on-feedback" >}}). See also GitLab's [guide to communicating effectively and responsibly through text](/handbook/company/culture/all-remote/effective-communication/).
 
 ## DRI, Consulted, Informed (DCI)
 
@@ -110,5 +110,5 @@ In these instances, another person may own the final decision, but this doesn't 
 
 1. [How well does Apple's DRI model work in practice](https://www.forbes.com/sites/quora/2012/10/02/how-well-does-apples-directly-responsible-individual-dri-model-work-in-practice/#4d83402d194c)
 1. [Matthew Mamet, DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4)
-1. [Communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/)
+1. [Communicating effectively and responsibly through text](/handbook/company/culture/all-remote/effective-communication/)
 1. [GitLab Handbook, Guidance on Feedback]({{< ref "guidance-on-feedback" >}})

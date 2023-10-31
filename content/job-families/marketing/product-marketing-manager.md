@@ -2,7 +2,7 @@
 title: "Product Marketing Manager"
 summary: Help tell the story about the value of how GitLab helps to unlock the potential of sharing and contribution.
 ---
-Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](https://about.gitlab.com/company/mission/#mission):
+Product Marketing Managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission):
 
 To change all creative work from read-only to read-write so that everyone can contribute.
 When everyone can contribute, consumers become contributors, and we greatly increase the rate of human progress.
@@ -13,7 +13,7 @@ We work in a unique way at GitLab, where flexibility meets a high paced, pragmat
 
 ### Job Grade
 
-The Product Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -64,7 +64,7 @@ Senior product marketing managers are leaders and bring deep experience in a spe
 
 ### Job Grade
 
-The Senior Product Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Product Marketing Managers also
 
@@ -91,7 +91,7 @@ The Senior Product Marketing Manager is a [grade 8](https://about.gitlab.com/han
 
 ### Job Grade
 
-The Principal Product Marketing Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Product Marketing Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The principal level of this role exists at GitLab to ensure thought leadership in the market to inform future strategy. This role protects revenue growth in future fiscal years. This is a very niche role, with a specialised skill set reporting to the Director, Product Marketing.
 
@@ -336,13 +336,13 @@ As a Product Marketing Manager, Market Insights, you will bring your market know
 
 ## Career Ladder
 
-The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](https://about.gitlab.com/job-families/marketing/product-marketing-management/).
+The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing.](/job-families/marketing/product-marketing-management/).
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates then may be offered a 45 minute interview with our Chief Marketing Officer
 - Next, candidates will be invited to schedule a interview with the Senior Director of Marketing and Sales
 - Candidates will then be invited to schedule 45 minute interviews with our Regional Sales Director of the US East Coast
@@ -351,4 +351,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

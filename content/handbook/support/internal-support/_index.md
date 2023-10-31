@@ -30,7 +30,7 @@ GitLab Support provides technical support for GitLab.com and Self-Managed GitLab
 
 ## Should I Contact GitLab Support?
 
-For general questions regarding GitLab ("Can GitLab do x?", "How do I do y with GitLab?") please ask in [#questions](https://gitlab.slack.com/messages/questions), or if you think you've encountered a bug or something isn't behaving right while using GitLab try asking in [#is-this-known](https://gitlab.slack.com/archives/CETG54GQ0). Doing so ensures that [everyone can contribute](https://about.gitlab.com/company/mission/#mission) to an answer.
+For general questions regarding GitLab ("Can GitLab do x?", "How do I do y with GitLab?") please ask in [#questions](https://gitlab.slack.com/messages/questions), or if you think you've encountered a bug or something isn't behaving right while using GitLab try asking in [#is-this-known](https://gitlab.slack.com/archives/CETG54GQ0). Doing so ensures that [everyone can contribute](/handbook/company/mission/#mission) to an answer.
 
 GitLab Support's Slack channels are specifically for the various GitLab Support **teams**, not for questions about GitLab the product. If you're working with a customer that requires technical support, please advise them to [contact GitLab Support](#requesting-support-for-customers).
 
@@ -65,10 +65,10 @@ There are several reasons why Support cannot respond to customer-specific reques
 
 - We aim to meet the [Service Level Agreement](https://about.gitlab.com/support/#service-level-agreements) (SLA) each time we help a customer, and we only track SLA compliance via Zendesk.
 - Zendesk has a ticket assignment system which is vital to our workflow. We have no system to assign tickets in Slack.
-- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
+- When we are trying to solve a current customer problem, we frequently [search resolved tickets in Zendesk](/handbook/support/readiness/operations/docs/zendesk/searching/). Since Slack content is deleted after 90 days, we may lose valuable information if a customer's problem and/or the solutions to it are discussed in Slack instead of a Zendesk ticket.
 - We want to keep all of our records of a customer's technical support problems and their solutions in a single place (Zendesk).
 
-If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](https://about.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests.html)).
+If you want to request that we place additional attention on an **existing** ticket or internal request, please use the [Support Ticket Attention Request Form](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/support_escalation/) ([handbook entry](/handbook/support/internal-support/support-ticket-attention-requests.html)).
 
 ### Requesting support for GitLab.com users that have account or login issues
 
@@ -121,7 +121,7 @@ Note that you cannot send public replies to customers with a Light Agent account
 
 ### GitLab plan or license for team members
 
-For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](https://about.gitlab.com/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
+For GitLab team members, a GitLab license or plan request is done through [Access requests](https://gitlab.com/gitlab-com/team-member-epics/access-requests). Please follow the appropriate handbook instructions, such as the [Incentive instructions](/handbook/incentives/#gitlab-ultimate), or open an issue with the most appropriate template, such as [the License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) for self-managed instances.
 
 ### Contacting users about GitLab incidents or changes
 
@@ -343,7 +343,7 @@ Please declare a **security incident** if:
 
 - you have information about a critical issues that may affect the confidentiality, integrity, or availability of GitLab services or data
 
-[More about Security incidents](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
+[More about Security incidents](/handbook/security/security-operations/sirt/engaging-security-on-call.html#incident-severity)
 
 ---
 

@@ -180,7 +180,7 @@ From family time to unforgettable adventures, there are many great stories of ho
 1. [How I balance a baby, a career at GitLab, and cultural expectations of motherhood](https://about.gitlab.com/blog/2019/07/25/balancing-career-and-baby)
 1. [How to make your home a space that works with kids](https://about.gitlab.com/blog/2019/08/01/working-remotely-with-children-at-home)
 1. [5 Things to keep in mind while working remotely with kids](https://about.gitlab.com/blog/2019/08/08/remote-kids-part-four)
-1. [GitLab parental leave and return tool kit](https://about.gitlab.com/handbook/total-rewards/benefits/parental-leave-toolkit)
+1. [GitLab parental leave and return tool kit](/handbook/total-rewards/benefits/parental-leave-toolkit)
 
 ### Guides from friends and partners
 

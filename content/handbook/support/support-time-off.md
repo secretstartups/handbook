@@ -72,7 +72,7 @@ A little thoughtfulness on everybody's part will go a long way toward making it
 possible for everyone to take their desired days off. As you look to plan your
 time off, please:
 
-- ensure you know the [company wide paid time off guidelines](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
+- ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
 - consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent, the regional team would be short by 20% or more of its people
 - check the regional and global calendars for the groups you are part of (SGG/L&R/etc.) and coordinate with your group to ensure we have sufficient cover for days with low availability.
 - schedule your time off as far in advance as you can, especially for days that
@@ -93,7 +93,7 @@ If you're taking off **less than half a day,** you do not need to make entries i
 
 If you're taking off **a half day or more,** enter the time off in Time Off by Deel.
 
-At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
+At the end of your last work day before taking PTO, update your availability using the [Out of Office](/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
 Follow the guidance below to prepare yourself, your customers, and your colleagues.
 
@@ -147,7 +147,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
 
 ## How Support Handles Family and Friends Days
 
-During [Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
+During [Family and Friends Days](/handbook/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
 to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
 
@@ -200,7 +200,7 @@ Otherwise:
 ## General Tips
 
 In addition to the company-wide tips in
-[Communicating Your Time Off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off),
+[Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off),
 take a look at these tips to increase your ability to disconnect from work,
 truly make the most of your time off, and make it easier to return to work:
 
@@ -237,6 +237,6 @@ that happened while you were away:
 
 Consider setting up a few coffee chats with teammates to simply reconnect with them. You can also ask your teammates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
 
-Once you have taken the time to catch-up, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
+Once you have taken the time to catch-up, update your availability using the [Out of Office](/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
 
-For more tips, check [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto).
+For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto).

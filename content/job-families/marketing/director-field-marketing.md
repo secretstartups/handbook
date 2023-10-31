@@ -11,7 +11,7 @@ A qualified Director, Field Marketing has strong understanding of sales-focused 
 
 ### Job Grade
 
-The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Field Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -44,7 +44,7 @@ The Director, Field Marketing is a [grade 10](https://about.gitlab.com/handbook/
 - A passion and strong understanding of the developer tools, IT operations tools, and/or IT security markets.
 - Strong understanding of marketing to financial services / fintech, federal agencies, healthcare, automotive, tech, and energy industry verticals.
 - Experience with supporting both direct sales and channel sales teams.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 - Ability to travel if needed and comply with the company’s travel policy. If employed by GitLab Federal, LLC, team members need to also comply with the applicable vaccination policies.
 
@@ -93,7 +93,7 @@ The Senior Director, Regional Marketing leads the strategy and execution of mark
 
 ### Job Grade
 
-The Senior Director, Regional Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Regional Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -125,12 +125,12 @@ The next step in the Field Marketing Leadership job family is to VP, Integrated 
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule an interview with the VP, Integrated Marketing
 - Candidates will then be invited to schedule interviews with key stakeholders for the role at GitLab.
 - Finally, our CMO and People Business partner will conduct final interviews.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

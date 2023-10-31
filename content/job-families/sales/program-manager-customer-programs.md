@@ -13,7 +13,7 @@ The Program Manager, Customer Programs reports to the [Director of Customer Succ
 
 #### Program Manager, Customer Programs Job Grade
 
-The Program Manager, Customer Programs is a [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Customer Programs Responsibilities
 
@@ -52,7 +52,7 @@ The Senior Program Manager, Customer Programs reports to the [Director of Custom
 
 #### Senior Program Manager, Customer Programs Job Grade
 
-The Senior Program Manager, Customer Programs is a [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Program Manager, Customer Programs Responsibilities
 
@@ -87,7 +87,7 @@ The Staff Program Manager, Customer Programs reports to the [Director of Custome
 
 #### Staff Program Manager, Customer Programs Job Grade
 
-The Staff Program Manager, Customer Programs is a [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Program Manager, Customer Programs is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Program Manager, Customer Programs Responsibilities
 
@@ -189,8 +189,8 @@ The Customer Programs Job Family would flow into the [Customer Success Operation
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
 - Next, candidates will interview with 2-4 GitLab team members and the hiring manager,
 - Finally, candidates may be asked to complete a final interview with our leadership team.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

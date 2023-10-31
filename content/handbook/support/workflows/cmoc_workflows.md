@@ -476,7 +476,7 @@ Some example training activities are:
 - Tabletop exercises
 - A "CMOC Squawk" in which CMOCs in a region synchronously or asynchronously discuss process improvements, tips and tricks
 - Being the CMOC or shadowing an actual incident: real life training is training too!
-- [Practice Events](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#cmoc-practice-events)
+- [Practice Events](/handbook/support/workflows/cmoc_workflows.html#cmoc-practice-events)
 
 #### CMOC Practice events
 

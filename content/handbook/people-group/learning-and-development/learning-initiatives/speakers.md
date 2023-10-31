@@ -56,7 +56,7 @@ This series included a mix of 5 internal and external speakers. The session reco
 | Date | Session Title + Link |
 | ----- | ----- |
 | 2020-11-19 | [Building Trust with Remote Teams Learning Speaker Series](https://www.youtube.com/watch?v=hHMDY77upAE&feature=youtu.be)
-| 2020-12-10 | [Managing Burnout with Time Off with John Fitch](/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)|
+| 2020-12-10 | [Managing Burnout with Time Off with John Fitch](/handbook/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive)|
 
 ### Hosting a Learning Speaker Series call
 

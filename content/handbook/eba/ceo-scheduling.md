@@ -5,7 +5,7 @@ title: "CEO Scheduling & Preferences"
 
 ## The CEO Support Team
 
-1. **[Stella Treas](https://about.gitlab.com/company/team/#streas) - Chief of Staff to the CEO**
+1. **[Stella Treas](/handbook/company/team/#streas) - Chief of Staff to the CEO**
     1. Cross-functional and multi-functional projects
 1. **EBA to the CEO**
     1. Board Meetings
@@ -54,7 +54,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
     1. If Sid is invited to a meeting on WebEx add a reminder to his calendar 5 minutes before the meeting to `disable shush` in advance of the next meeting.
 1. Office hours hosted by the CEO like Iteration Office Hours should be live streamed publicly by default and the live stream should be hosted by a member of the EBA team or a CEO Shadow.
 1. Sid will attend one of the Monthly Diversity, Inclusion and Belonging calls (typically scheduled at 8am or 4pm PT). Please accept one and decline the other.
-1. If there is a video posted in advance of a [Group Conversation](https://about.gitlab.com/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
+1. If there is a video posted in advance of a [Group Conversation](/handbook/group-conversations/) in slack, the EBA to the CEO should schedule a meeting at 6am (Pacific time) on the CEO's calendar for him to watch the video in advance of the Group Conversation on the same day. Please include a link to the video in the calendar invite and indicate whether it is a private or public video.
 1. After an E-Group offsite, block at least 50 minutes to handle slack, emails, etc
 1. Last minute changes or cancellations should be communicated to Sid via DM rather than public Slack messages or messages in a thread. If there is additional context to share, you can cross-post another Slack message as part of your DM.
 
@@ -83,7 +83,7 @@ All Remote: https://about.gitlab.com/company/culture/all-remote/
 GitLab Unfiltered on YouTube https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/videos
 ```
 
-Depending on the subject of the interview (e.g. [events](https://about.gitlab.com/events/), [all-remote](https://about.gitlab.com/company/culture/all-remote/), etc.), the arranger should consider adding other relevant links beyond the baseline below.
+Depending on the subject of the interview (e.g. [events](https://about.gitlab.com/events/), [all-remote](/handbook/company/culture/all-remote/), etc.), the arranger should consider adding other relevant links beyond the baseline below.
 
 Contact details for external meetings should be collected in advance by the EBA to the CEO and listed in the calendar invite as:
 
@@ -123,24 +123,24 @@ The Chief of Staff to the CEO is responsible for making sure that all of the CEO
 
 If people want advice on open source, remote work, or other things related to GitLab we'll consider that. If Sid approves of the request we suggest the following since we want to make sure the content is radiated as widely as possible. To start, we send an email as shown below.
 
-> Thanks for being interested in GitLab. If we schedule a meeting it will follow GitLab's [Pick Your Brain format](https://about.gitlab.com/handbook/ceo/#pick-your-brain-interviews). Are you able to submit a draft post with us within 48 hours of interview?
+> Thanks for being interested in GitLab. If we schedule a meeting it will follow GitLab's [Pick Your Brain format](/handbook/ceo/#pick-your-brain-interviews). Are you able to submit a draft post with us within 48 hours of interview?
 >
 > GitLab is a very transparent company and many things that are normally confidential can be found in our handbook, available online. Please consider looking at the following pages prior to our meeting.
->   - [Company strategy](https://about.gitlab.com/company/strategy/)
->   - [Our Objectives and Key Results per quarter](https://about.gitlab.com/company/okrs/)
->   - [All team members and numbers per department](https://about.gitlab.com/company/team/)
+>   - [Company strategy](/handbook/company/strategy/)
+>   - [Our Objectives and Key Results per quarter](/handbook/company/okrs/)
+>   - [All team members and numbers per department](/handbook/company/team/)
 >   - [Handbook with all our processes](/handbook/)
 >   - [Pricing plans](https://about.gitlab.com/pricing/)
->   - [Pricing strategy](https://about.gitlab.com/company/pricing/)
->   - [History](https://about.gitlab.com/company/history/)
->   - [About](https://about.gitlab.com/company/)
->   - [All Remote](https://about.gitlab.com/company/culture/all-remote/)
+>   - [Pricing strategy](/handbook/company/pricing/)
+>   - [History](/handbook/company/history/)
+>   - [About](/handbook/company/)
+>   - [All Remote](/handbook/company/culture/all-remote/)
 
 1. If we receive a positive answer we schedule a 50 minute YouTube public livestream. For an example of an interview, see [this one about stress in remote work](https://www.youtube.com/watch?v=23XIx6n9SsQ).
 1. Within 48 hours you share a draft post with us in a Google Doc with suggestion or edit rights for anyone that knows the URL.
 1. You can redact anything you don't want to publish.
 1. Our executive administrator will work with you to publish the post if we agree that it fits with our current marketing plan and would be a good fit for our audience. The EBA-team will follow up to make sure the draft post is submitted and coordinate with Content Marketing to cross-post on our blog.
-1. Read and watch [past Pick Your Brain interviews](https://about.gitlab.com/company/culture/all-remote/interviews/#pick-your-brain-interviews), including [one hosted by Slab co-founder Jason Chen](https://about.gitlab.com/blog/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/) that reached [the top spot on Hacker News](https://news.ycombinator.com/item?id=12615723).
+1. Read and watch [past Pick Your Brain interviews](/handbook/company/culture/all-remote/interviews/#pick-your-brain-interviews), including [one hosted by Slab co-founder Jason Chen](https://about.gitlab.com/blog/2016/07/14/building-an-open-source-company-interview-with-gitlabs-ceo/) that reached [the top spot on Hacker News](https://news.ycombinator.com/item?id=12615723).
 
 Reply to emails: Thanks for wanting to chat. I propose we meet in the format proposed in GitLab's [Handbook](#pick-your-brain-meetings) so that other people benefit from our conversation too. If you're up for that please work with my EBA, XYZ (cc:) to schedule.
 
@@ -164,7 +164,7 @@ Please note, requests for meeting about remote work, all-remote efforts, distrib
 - EBA to CEO should prepare draft responses
 - EBA to CEO should proactively schedule meetings requested via e-mail
 - Standard reply for recruiters:
-    - “We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](https://about.gitlab.com/handbook/hiring/candidate/faq/)."
+    - “We do not accept solicitations by recruiters, recruiting agencies, headhunters, and outsourcing organizations. Please find all info [on our jobs page](/handbook/hiring/candidate/faq/)."
 
 ### Travel preferences
 
@@ -176,7 +176,7 @@ Current preferences for flights are:
 
 ### Visiting Mission Control in San Francisco, CA
 
-The EBA to the CEO will coordinate all meetings at Mission Control. If a group would like to visit GitLab's offices, please ping the EBA to the CEO in slack to discuss the opportunity. Due to limitations in size, we cannot host large groups but are willing to meet remotely and publicly. GitLab is an [all-remote and distributed organization](https://about.gitlab.com/company/culture/all-remote/) and we do not have a head office.
+The EBA to the CEO will coordinate all meetings at Mission Control. If a group would like to visit GitLab's offices, please ping the EBA to the CEO in slack to discuss the opportunity. Due to limitations in size, we cannot host large groups but are willing to meet remotely and publicly. GitLab is an [all-remote and distributed organization](/handbook/company/culture/all-remote/) and we do not have a head office.
 
 Access to Mission Control: In case of a meeting in San Francisco at Mission Control please copy-paste building access instructions into the calendar invite from the "GitLab Mission Control Access Instructions" Google Doc.
 

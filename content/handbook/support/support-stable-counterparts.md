@@ -5,7 +5,7 @@ description: The purpose of this page is to give an overview and outline the exp
 
 ## Overview
 
-As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](https://about.gitlab.com/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
+As a result of our direct interactions with customers, the Support Team occupies a unique position in GitLab that gives us the opportunity to connect product managers with customer feedback, and influence changes. To take advantage of this opportunity, we've adopted a model that is known within GitLab as "Stable Counterparts." In brief, a "stable counterpart" is an assigned, permanent contact for a GitLab Team Member within another function in the company. See the [Stable counterparts](/handbook/leadership/#stable-counterparts) item on the Leadership page, and [An ode to stable counterparts](https://about.gitlab.com/blog/2018/10/16/an-ode-to-stable-counterparts/) for more information.
 
 ## Expected outcomes of the Support Stable Counterpart (SSC) Initiative
 
@@ -54,7 +54,7 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 
 - A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
 - [Section SSC] Ensure a regular cadence of communication with the group level SSCs to ensure alignment and balance of prioritization of issues.
-- Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
+- Share announcements through the [SWIR](/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
   - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
 - Group related updates and announcements can be:
   - New features added in an upcoming release

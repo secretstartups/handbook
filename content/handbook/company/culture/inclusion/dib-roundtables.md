@@ -78,7 +78,7 @@ A DIB Team Member will set up a time to discuss with the manager the function of
 
 ### Start with Privilege for Sale or Privilege Backpack
 
-[Privilege for Sale](https://about.gitlab.com/company/culture/inclusion/privilege-for-sale/) is a great interactive activity to get you thinking about Diversity, Inclusion and Belonging. Click the link for the full activity.
+[Privilege for Sale](/handbook/company/culture/inclusion/privilege-for-sale/) is a great interactive activity to get you thinking about Diversity, Inclusion and Belonging. Click the link for the full activity.
 
 **The Goals and learning objectives are as follows:**
 

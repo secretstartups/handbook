@@ -141,7 +141,7 @@ After the involuntary offboarding call has taken place and the last working day 
 
 If they are on "Garden Leave" they will still be active on payroll through the termination date. When determining the timing of the involuntary offboarding call and termination date it is important to consider any effect this might have on ongoing tasks and responsibilities of the team member.
 
-As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is [on-call](https://about.gitlab.com/handbook/on-call/). If this is unavoidable, the manager is responsible for ensuring a transition/remediation plan.
+As a manager, in collaboration with the Team Member Relations Specialist (TMR) and/or the People Business Partner (PBP), we recommend to avoid scheduling the involuntary offboarding call while a team member is scheduled for any sensitive customer meetings or is [on-call](/handbook/on-call/). If this is unavoidable, the manager is responsible for ensuring a transition/remediation plan.
 
 People Connect will generate the offboarding issue at the end of the team member's last working day, as per notification from the Team Member Relations Specialist (TMR) and the People Business Partner (PBP). Once the `Last Working Day` or Garden leave expires the team member will be officially offboarded from GitLab.  Prior to the offboarding issue and the overall process for the term listed below.
 
@@ -318,7 +318,7 @@ Again, we want all team members to enjoy and thrive in their work and that may o
 The departing team member may work with their manager to author a goodbye message for voluntary offboarding:
 
 1. Work with your manager on the message that your manager will share in `#team-member-updates` on Slack.
-1. Send it to your manager for approval. If, as a manager, you are in doubt about the message - please reach out to your manager or [aligned People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for additional review.
+1. Send it to your manager for approval. If, as a manager, you are in doubt about the message - please reach out to your manager or [aligned People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) for additional review.
 1. Managers are encouraged to use the suggested template (above link) and have the space to add more color wherever they see fit.
 
 In some instances there will be no further clarification on why a team member has departed, if there are concerns you can address those with your manager.

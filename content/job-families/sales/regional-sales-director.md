@@ -7,7 +7,7 @@ As the Regional Sales Director, you will lead a dynamic sales team and help GitL
 
 ## Job Grade
 
-The Regional Sales Director is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Regional Sales Director is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -32,9 +32,9 @@ The Regional Sales Director is a [grade 10](https://about.gitlab.com/handbook/to
 - Experience utilizing CRM systems and marketing automation systems (such as salesforce, market, outreach etc.)
 - Prior employment in technology consulting, open source software or software development is highly desired
 - Demonstrate high levels of integrity, initiative, honesty and leadership
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 {{% job-families/sales/performance %}}
 
@@ -46,11 +46,11 @@ The Reginal Sales Director would move into the [VP, Enterprise Sales](/job-famil
 
 ### Hiring Process
 
-Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Applicants for this position can expect the hiring process to follow the order below. Please keep in mind that applicants can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
+- Selected candidates will be invited to schedule a 30min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to interview with 2-5 teammates
 - Final Interview will be with a Sales Leader
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

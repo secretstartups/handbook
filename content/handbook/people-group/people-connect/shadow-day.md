@@ -7,7 +7,7 @@ of what another team member's role looks like and all involved on a daily basis.
 ## Purpose
 
 A coffee chat is a great way to connect with other team members, and at times may prompt further curiosity about a team member's role and responsibilities. The purpose of the Shadow Day program is to allow any team member to get a better understanding
-of what another team member's work looks like day-to-day. This program is part of GitLab's intention to [formally design informal communications](https://about.gitlab.com/company/culture/all-remote/informal-communication/#formally-design-informal-communications) in an all-remote environment.
+of what another team member's work looks like day-to-day. This program is part of GitLab's intention to [formally design informal communications](/handbook/company/culture/all-remote/informal-communication/#formally-design-informal-communications) in an all-remote environment.
 
 This is also a great way to promote collaboration and transparency across all teams. The shadower is encouraged to share
 any suggestions along the way on how things could be improved to create a better experience for all.
@@ -38,13 +38,13 @@ The Shadow Day program can be scheduled over a full-day time period on any workd
 
 | Date | Shadow | Person to be shadowed |
 |------|--------|-----------------------|
-| TBD  | [Nick Lotz](https://about.gitlab.com/company/team/#nlotz) - PS Technical Instructor | [Tiffany Rea](https://about.gitlab.com/company/team/?department=quality-department#treagitlab) - SET Verify::Pipeline Authoring |
+| TBD  | [Nick Lotz](/handbook/company/team/#nlotz) - PS Technical Instructor | [Tiffany Rea](/handbook/company/team/?department=quality-department#treagitlab) - SET Verify::Pipeline Authoring |
 
 ### Shadow Day Program Alumni
 
 | Date | Shadow | Person was shadowed | Role | Takeaways |
 |------|--------|---------------------|------|-----------|
-| TBD | | [Tiffany Rea](https://about.gitlab.com/company/team/?department=quality-department#treagitlab) | SET Verify::Pipeline Authoring | |
-| TBD | [Nick Lotz](https://about.gitlab.com/company/team/#nlotz) | PS Technical Instructor | | |
+| TBD | | [Tiffany Rea](/handbook/company/team/?department=quality-department#treagitlab) | SET Verify::Pipeline Authoring | |
+| TBD | [Nick Lotz](/handbook/company/team/#nlotz) | PS Technical Instructor | | |
 
 Any new shadowers are encouraged to connect with previous participants in the program for insights and guidance.
