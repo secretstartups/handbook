@@ -23,9 +23,8 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 
 ### October to November (Milestone 16.6)
 
-#### 2023-10-27 Updates:
-
-- With the navigation approval in [#420272](https://gitlab.com/gitlab-org/gitlab/-/issues/420272#note_1617260300), there are not any external blockers at this point.
+#### 2023-10-31 Updates:
+- [#429273](https://gitlab.com/gitlab-org/gitlab/-/issues/429273), [#429117](https://gitlab.com/gitlab-org/gitlab/-/issues/429117) and [#428443](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) were completed so far this week.
 
 #### Goals:
 - CI Catalog - Pages & Navigation 
@@ -38,26 +37,30 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [x] [Move GraphQL Catalog code to FOSS](https://gitlab.com/gitlab-org/gitlab/-/issues/427927)
   - [x] [Remove fork count from Catalog details page](https://gitlab.com/gitlab-org/gitlab/-/issues/428064)
   - [x] [Add a copy-to-clipboard button in the code snippet in the component tab](https://gitlab.com/gitlab-org/gitlab/-/issues/426755)
-  - [ ] [Empty state when there is no metadata for the components details](https://gitlab.com/gitlab-org/gitlab/-/issues/429273) `~workflow::verification`
+  - [x] [Empty state when there is no metadata for the components details](https://gitlab.com/gitlab-org/gitlab/-/issues/429273)
   - [ ] [Add global Catalog arguments to GraphQL](https://gitlab.com/gitlab-org/gitlab/-/issues/429103) `~workflow::in review`
   - [ ] [Update Catalog policies](https://gitlab.com/gitlab-org/gitlab/-/issues/429102) `~workflow::in dev`
   - [ ] [Add Vue application for Global page](https://gitlab.com/gitlab-org/gitlab/-/issues/427939) `~workflow::in dev`
+  - [ ] [Make ciCatalogResource accept a fullpath argument](https://gitlab.com/gitlab-org/gitlab/-/issues/429100) `~workflow::in dev`
   - [ ] [Add components field to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/425726)
   - [ ] [Add the new components tab](https://gitlab.com/gitlab-org/gitlab/-/issues/424967)
   - [ ] [FF rollout ci_catalog_components_tab](https://gitlab.com/gitlab-org/gitlab/-/issues/426443)
+  - [ ] [Add namespace to scope for Catalog resources query](https://gitlab.com/gitlab-org/gitlab/-/issues/429382)
+  - [ ] [Remove projectPath argument from ciCatalogResources](https://gitlab.com/gitlab-org/gitlab/-/issues/429636)
 - CI Catalog - Search & Filter
-  - [ ] [Add GraphQL search filter and sort by created_at to ciCatalogResources](https://gitlab.com/gitlab-org/gitlab/-/issues/429117) `~workflow::verification`
-  - [ ] [Create database indices for CI Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) `~workflow::in review`
+  - [x] [Add GraphQL search filter and sort by created_at to ciCatalogResources](https://gitlab.com/gitlab-org/gitlab/-/issues/429117)
+  - [x] [Create database indices for CI Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/428443)
   - [ ] [Denormalize name and description in Ci::Catalog::Listing](https://gitlab.com/gitlab-org/gitlab/-/issues/427928) `~workflow::in review`
   - [ ] [Add Search bar](https://gitlab.com/gitlab-org/gitlab/-/issues/393214) `~workflow::in dev`
-  - [ ] [Update catalog_resource.latest_released_at when version is created/deleted](https://gitlab.com/gitlab-org/gitlab/-/issues/427791)
   - [ ] [Improve query plan of Ci::Catalog::Listing on filter by permissions](https://gitlab.com/gitlab-org/gitlab/-/issues/429056)
+  - [ ] [Update catalog_resource.latest_released_at when version is created/deleted](https://gitlab.com/gitlab-org/gitlab/-/issues/427791)
 - CI Catalog - Release Process refinements 
   - [x] [Add mutation to mark a catalog resource as draft](https://gitlab.com/gitlab-org/gitlab/-/issues/428439)
   - [ ] [Add path column where to persist full path to component YAML file](https://gitlab.com/gitlab-org/gitlab/-/issues/429256) `~workflow::in review`
   - [ ] [Scanning components on release and collect metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) `~workflow::in dev`
   - [ ] [Update the docs to reflect the recommended method for the release](https://gitlab.com/gitlab-org/gitlab/-/issues/429271) `~workflow::in dev`
-  - [ ] [Update state on existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
+  - [ ] [Create a migration to update state and add metadata to existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
+  - [ ] [Update the releases logic in catalog resources to use the Version association](https://gitlab.com/gitlab-org/gitlab/-/issues/429707)
   - [ ] [Provide a warning model when users toggle catalog resource setting to off](https://gitlab.com/gitlab-org/gitlab/-/issues/416938)
 - Completion of [Inputs Enhancements]
   - [x] [Support options: with inputs defining default: value](https://gitlab.com/gitlab-org/gitlab/-/issues/393401)
