@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "UX Research at GitLab"
 description: "The goal of UX Research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 The goal of UX research at GitLab is to connect with GitLab users all around the world and gather insight into their behaviors, motivations, and goals. We use these insights to inform and strengthen product and design decisions.
 
@@ -139,7 +139,7 @@ Below is a full list of our UX Research team handbook content:
 - [Assessing Category Maturity](/handbook/product/ux/category-maturity/)
     - [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
     - [Category Maturity - Competitor Comparison](/handbook/product/ux/category-maturity/competitor-comparison/)
-- [Tracking research velocity](/handbook/product/ux/ux-research/tracking-research-velocity/) 
-- [Tracking gold, silver, and bronze UX research projects](/handbook/product/ux/ux-research/tracking-research-projects/) 
+- [Tracking research velocity](/handbook/product/ux/ux-research/tracking-research-velocity/)
+- [Tracking gold, silver, and bronze UX research projects](/handbook/product/ux/ux-research/tracking-research-projects/)
 - [Tracking actionable insights](/handbook/product/ux/ux-research/tracking-actionable-insights/)
 

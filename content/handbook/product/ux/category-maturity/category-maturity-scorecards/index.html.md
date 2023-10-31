@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Category Maturity Scorecards
 description: >-
   A Category Maturity Scorecard takes into account the entire experience as
@@ -7,11 +7,11 @@ description: >-
   product
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Intro and Goal
 
@@ -22,6 +22,7 @@ The goal of this process is to produce data as objectively as possible given tim
 To produce data in which we have confidence, the data should be as free of subjective judgement as possible, relying on observed metrics and self-reported user sentiment. Our goal is to compare data over time to see how additions and improvements have impacted product maturity in a quantifiable way. To facilitate this, we've made this process prescriptive, so that it can be consistently applied by all Product Designers in all categories of our product.
 
 ### Some things to keep in mind
+
 Sometimes the JTBD you need to evaluate occurs over a period of time, such as a multi-step process when responding to an alert. For these cases, it's appropriate to include the phrase '(a period of time) has passed' when moving to the next phase of the JTBD in the CM Scorecard scenario.
 
 Occasionally, teams run into situations where they learn something surprising from a CM Scorecard -- for example, even though the score for this single research initiative is high enough to move maturity up, they believe based on the findings that it's not ready, yet. In this case, the Product Manager and Product Designer should use their good judgement about addressing fundamental problems before changing maturity and communicate that decision to stakeholders.
@@ -32,7 +33,7 @@ Any Category Maturity Scorecard effort should have a corresponding issue created
 
 Refer to the [Category Maturity](https://about.gitlab.com/direction/maturity/) page to understand scoring. It is important to note that:
 
-- **Minimal:** Category Maturity Scorecard is _not_ required.
+- **Minimal:** Category Maturity Scorecard is *not* required.
 - **Viable:** Category Maturity Scorecard is conducted with internal users who are dogfooding.
 - **Complete and Lovable:** Category Maturity Scorecard is conducted with external users on the JTBDs.
 
@@ -52,7 +53,7 @@ Category Maturity Scorecards are about judging the quality of experiences agains
 
 Refer to the [JTBD page](/handbook/product/ux/jobs-to-be-done/) to learn [how to write JTBD](/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
 
-Before moving to Step 1, you first need to select the high-priority JTBD statements that you want to assess and translate them into script scenarios. The number of scenarios you will create per job statement often depends on the complexity of the features you're testing. Due to time limitations in a user research study (generally 30 to 60 minutes per participant), we recommend assessing no more than 2 job statements per study to help avoid participant fatigue. However, if you want to test more than 2 job statements, you can. Just be mindful of the total time it will take to run the study. 
+Before moving to Step 1, you first need to select the high-priority JTBD statements that you want to assess and translate them into script scenarios. The number of scenarios you will create per job statement often depends on the complexity of the features you're testing. Due to time limitations in a user research study (generally 30 to 60 minutes per participant), we recommend assessing no more than 2 job statements per study to help avoid participant fatigue. However, if you want to test more than 2 job statements, you can. Just be mindful of the total time it will take to run the study.
 
 Tip: Since job statements are persona and solution agnostic, you might find them to be too broad to serve as guidance for writing script scenarios. If that is the case, consider breaking the job statements down into user stories as an intermediary step, in order to bridge the gap between high-level job statements and actionable scenarios. Learn more about the difference between job statements and user stories in [How to Write JTBD](/handbook/product/ux/jobs-to-be-done/#how-to-write-a-jtbd).
 
@@ -106,7 +107,7 @@ Make sure to test these scenarios with coworkers before evaluating with research
 
 - Successful scenario completion.
 - A single scenario may have several paths to the end goal that result in completion, and thereby a ‘Success’. The team must identify the end goal prior to the study starting so everyone is aligned.
-    - _Why is this important?_ Identifying and being aligned on the end goal allows the moderator to accurately know what is success/failure, which is critical to know since follow-up questions are dependent on completing the scenario.
+    - *Why is this important?* Identifying and being aligned on the end goal allows the moderator to accurately know what is success/failure, which is critical to know since follow-up questions are dependent on completing the scenario.
 - How the participant ended up at the end goal may not be important for the team to document. If the participant took the long path and felt it was or wasn’t easy, that should be reflected in their score. What matters most is if they ended up at the end goal.
 
 👎 **Defining ‘Failure’**
@@ -117,7 +118,7 @@ Make sure to test these scenarios with coworkers before evaluating with research
 **What to do if ‘Failure’ happens during a study**
 
 - If there is a failure, the team should try their best to understand why it occurred (ex: Was it the way the scenario was phrased? Was the experience confusing? etc.).
-    - _How can this be done?_ One way to do this is to go back at the end of the study to have the participant go through that scenario again. This time, you can ask targeted questions to understand why they took the route they took in the experience. (ex: _‘It looks like you clicked on ‘Issues’. Tell me more about why you selected that menu item.’, ‘You felt you completed the scenario at this point. What gave you the confidence that you accomplished the goal of XYZ?’_)
+    - *How can this be done?* One way to do this is to go back at the end of the study to have the participant go through that scenario again. This time, you can ask targeted questions to understand why they took the route they took in the experience. (ex: *‘It looks like you clicked on ‘Issues’. Tell me more about why you selected that menu item.’, ‘You felt you completed the scenario at this point. What gave you the confidence that you accomplished the goal of XYZ?’*)
 - When a participant is unable to complete a scenario, their ratings on that scenario are discarded and not accounted for when calculating the CM Scorecard score.
 - If at any point you notice that less than 80% of participants are able to pass a scenario, the study should stop at that most recent participant to conserve resources.
 
@@ -129,7 +130,7 @@ The CM Scorecard issue template and CM Scorecard Dovetail template both contain 
 
 Before you can begin running your participants through your scenarios you'll need to write your test script. Because Category Maturity Scorecards are a standardized process, moderators should complete and follow this [testing script](https://docs.google.com/document/d/1QqRhAuGThuDnnBnDHHug5zBBKGvDMGsj9aQUtSgs49M/copy) as closely as possible. The moderator will typically be a Product Designer, but this is not strictly required. You are encouraged to have any relevant stakeholders attend the sessions to help take notes, but it is very important they remain silent.
 
-Before participants go through the scenarios, make sure to emphasize that they should not think aloud. This is because the goal of CM Scorecard research is to produce data as objectively as possible. The process of thinking aloud interferes with getting objective data because it takes the user out of the experience and adds time to the study. If you wish to dig deeper on something your participant experienced, feel free to discuss that with them at the conclusion of the study. It is strongly encouraged that you conduct a usability test before a CM Scorecard study when you want to obtain mostly verbal feedback around a set of scenarios. 
+Before participants go through the scenarios, make sure to emphasize that they should not think aloud. This is because the goal of CM Scorecard research is to produce data as objectively as possible. The process of thinking aloud interferes with getting objective data because it takes the user out of the experience and adds time to the study. If you wish to dig deeper on something your participant experienced, feel free to discuss that with them at the conclusion of the study. It is strongly encouraged that you conduct a usability test before a CM Scorecard study when you want to obtain mostly verbal feedback around a set of scenarios.
 
 #### The 3 questions we ask
 
@@ -145,7 +146,7 @@ At the root of how we rate/grade experiences, it arguably comes down to three ma
 
 The [Single Ease Question (SEQ)](https://measuringu.com/single-question/) is a newly introduced industry-wide question based on other UX-related questions and measures. This question essentially helps us understand if the scenario was easy or difficult to complete and provides a simple and reliable way of measuring scenario-performance satisfaction. This question is also used for the UX Scorecard formative evaluation approach.
 
-_Q1: “Overall, this scenario was...”_
+*Q1: “Overall, this scenario was...”*
 
 - Extremely easy
 - Easy
@@ -157,7 +158,7 @@ _Q1: “Overall, this scenario was...”_
 
 Admittedly, the term ‘user experience’ is broad; as it encompasses many components we care about (ex: efficiency, speed, usability, etc) that are completely applicable to how one rates an overall user experience. Because of that, we’re intentionally not defining ‘user experience’ and feel that given our audience, the definition will be collectively understood with a high level of accuracy. This question is also used for the UX Scorecard formative evaluation approach.
 
-_Q2: “How would you rate the quality of the user experience?”_
+*Q2: “How would you rate the quality of the user experience?”*
 
 - Extremely good
 - Good
@@ -169,9 +170,9 @@ _Q2: “How would you rate the quality of the user experience?”_
 
 The [UMUX Lite](https://measuringu.com/umux-lite/) score is based on the UMUX (Usability Metric for User Experience), created by [Finstad](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.872.6330&rep=rep1&type=pdf), and it is highly correlated with the [SUS](/handbook/product/ux/performance-indicators/system-usability-scale/) and the Net Promoter Score. It's intended to be similar to the SUS, but it's shorter and targeted toward the [ISO 9241 definition of usability](https://www.w3.org/2002/Talks/0104-usabilityprocess/slide3-0.html) (effectiveness, efficiency, and satisfaction). This question is also used for the UX Scorecard formative evaluation approach.
 
-_Q3: "You just experienced our implementation of_ `<Scenario>`. _How would you agree or disagree with the following statement:_
+*Q3: "You just experienced our implementation of* `<Scenario>`. *How would you agree or disagree with the following statement:*
 
-`<Scenario>` _has the features I need for what I need to do in my own work."_
+`<Scenario>` *has the features I need for what I need to do in my own work."*
 
 - Strongly agree
 - Agree
@@ -207,7 +208,7 @@ As participants attempt to complete a scenario, for our purposes, the end result
 
 Tip: Use this [Google Sheet](https://docs.google.com/spreadsheets/d/1w3GZNc11PSZ9sN_2II5SI3fwK4tH9LLSb2bci_o2mWg/copy), which contains the calculations already built into it.
 
-**Step one:** For each scenario, enter the test participants' responses across each relevant question and document the task success/failure by using the dropdown. 
+**Step one:** For each scenario, enter the test participants' responses across each relevant question and document the task success/failure by using the dropdown.
 
 Note: Do not enter in ratings for participants who experienced task failure, as those ratings are not accounted for when calculating the CM Scorecard score.
 
@@ -235,7 +236,7 @@ For example:
 
 **Score interpretation examples:**
 
-- A product category currently at Minimal has completed a CM Scorecard study with internal participants. The resulting score is 4.0 and the success rate is 80%. The product category can move up to Viable as it meets the minimum % pass rate. Even though the resulting 4.0 score is at Loveable level, testing the scenario with external users would be required to move the category further in maturity level. The resulting recommendation is to move the category to Viable. 
+- A product category currently at Minimal has completed a CM Scorecard study with internal participants. The resulting score is 4.0 and the success rate is 80%. The product category can move up to Viable as it meets the minimum % pass rate. Even though the resulting 4.0 score is at Loveable level, testing the scenario with external users would be required to move the category further in maturity level. The resulting recommendation is to move the category to Viable.
 - A product category currently at Viable has commpleted a CM Scorecard study with external participants. The resulting score is 3.85, but the success rate is 60%, which is below the minimum % pass rate. In this case the product category won't move up in maturity, and it's recommended to investigate what led to the low success rate.
 
 #### Post-session debriefing

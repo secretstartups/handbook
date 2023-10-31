@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: How to use JTBD at GitLab
 description: >-
   JTBDs can be used to discover and define strategic opportunities in the market when used with GitLab's existing processes. 
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## How to use Jobs to Be Done (JTBD) at GitLab
 
@@ -32,16 +32,16 @@ To make it easier, you can save all of the main jobs for your stage as a templat
 
 If you conduct [solution validation](https://about.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods) to test a design, you will likely [make a script containing tasks](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/#tasks) for your users to attempt and provide feedback on. A significant factor in the quality of your feedback is how realistic the tasks are for the users without biasing them with the obvious solution. One way to do that is by utilizing the circumstances, job process, and needs of the job you are building for.
 
-You can follow these steps to incorporate JTBD within your script: 
+You can follow these steps to incorporate JTBD within your script:
 
-1.  Identify the main job your user is trying to accomplish when using your feature. The goal of every service or product should be to provide a solution for the user's problem. So, identify which job your design is helping to solve.
-1.  It may also be helpful to identify potentially invalid candidates and use their job statements to [create screener questions](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) to disqualify those respondents.
-   -  Identify the circumstances, process, and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
-1.  Use the circumstances to establish the scenario(s) at the beginning of your tasks. This provides the participants' context for the tasks, similar to a user's context when performing their role.
-   -  For example, a previously discovered [JTBD Canvas](https://app.mural.co/t/gitlab2474/m/gitlab2474/1683826081288/619308d762c47782e3ed36fdd6260914c55b0913?sender=u8b3435b2496ba7d2d7ba2448) for the Security Policy group found that users implement security controls when "A new security policy was published in their organization." To turn this circumstance into a scenario for an unmoderated test, we can say, "In this scenario, your organization recently published a new security policy with the parameters provided below. Your task is to implement the necessary security control(s), so your assets comply with the security policy." 
-1.  Create solution validation tasks by using the job process and smaller jobs within it. This will avoid biasing users with information they may not have otherwise. Since JTBD uses language identified during user research, it gives users a more natural experience.
-   -  For example, the first step in implementing security controls is "gathering the security policies." To turn this job step into a task, we can say, "First, please gather the necessary security policies." Participants will read this and naturally understand their task - and we don't have to reveal where we want them to go.
-1.  Use your job's needs to create the post-test evaluation questions. As you craft your [wrap-up questions](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/#usability-study-wrap-up-questions), you can relate the task to the participant's larger goal or the desired outcome. 
+1. Identify the main job your user is trying to accomplish when using your feature. The goal of every service or product should be to provide a solution for the user's problem. So, identify which job your design is helping to solve.
+1. It may also be helpful to identify potentially invalid candidates and use their job statements to [create screener questions](https://docs.google.com/document/d/13ywnQHXOHNgF4F4IcJksAqrnyI0-si1R2MbsRS-Rgdc/edit#heading=h.47623lbekxlj) to disqualify those respondents.
+   - Identify the circumstances, process, and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
+1. Use the circumstances to establish the scenario(s) at the beginning of your tasks. This provides the participants' context for the tasks, similar to a user's context when performing their role.
+   - For example, a previously discovered [JTBD Canvas](https://app.mural.co/t/gitlab2474/m/gitlab2474/1683826081288/619308d762c47782e3ed36fdd6260914c55b0913?sender=u8b3435b2496ba7d2d7ba2448) for the Security Policy group found that users implement security controls when "A new security policy was published in their organization." To turn this circumstance into a scenario for an unmoderated test, we can say, "In this scenario, your organization recently published a new security policy with the parameters provided below. Your task is to implement the necessary security control(s), so your assets comply with the security policy."
+1. Create solution validation tasks by using the job process and smaller jobs within it. This will avoid biasing users with information they may not have otherwise. Since JTBD uses language identified during user research, it gives users a more natural experience.
+   - For example, the first step in implementing security controls is "gathering the security policies." To turn this job step into a task, we can say, "First, please gather the necessary security policies." Participants will read this and naturally understand their task - and we don't have to reveal where we want them to go.
+1. Use your job's needs to create the post-test evaluation questions. As you craft your [wrap-up questions](https://about.gitlab.com/handbook/product/ux/ux-research/writing-usability-testing-script/#usability-study-wrap-up-questions), you can relate the task to the participant's larger goal or the desired outcome.
    - For example, the outcome that a policy creator wants most is to "reduce the likelihood of a potential threat in my organization's assets." To turn this into a question, we can say, "On a scale from 1-7, where 1 is not useful at all, and 7 is extremely useful, how useful was this feature for you in reducing the possibility of a security threat in your organization?" You may also want to use metrics from the [usability benchmark](https://about.gitlab.com/handbook/product/ux/ux-research/usability-benchmarking/#metrics) to get a quantitative comparison.
 
 ### Using JTBDs to Inform a Heuristic Evaluation
@@ -50,13 +50,13 @@ You can follow these steps to incorporate JTBD within your script:
 
 You can follow these general steps to integrate the JTBD Framework into your heuristic evaluation:
 
-1.  Identify the job the user is trying to accomplish with your feature. The goal of any product or service is to provide a solution for the user's (or customer's) problem - so identify which of your stage's jobs the design is helping solve.
-1.  Identify the process and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
-1.  Create a planning document for your heuristic evaluation similar to [this template](https://docs.google.com/document/d/1MJXl2d-dYLm8m9sisTmESJcK2D5uThQrLwVMipIopxI/edit?usp=sharing).
-1.  Use the job process to identify the steps to take during the evaluation process. This is the general workflow you should follow.
-1.  Use the circumstances to establish the scenarios to create for the evaluation. Sometimes it requires following the steps again, but from a different perspective.
-1.  Use the related jobs and collaborate on a consensus for which jobs are out of scope.
-1.  Explore [GitLab's list of heuristics](https://about.gitlab.com/handbook/product/ux/heuristics/#heuristics) or use the well-known [Nielson Norman 10 Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). Determine which heuristics apply to your evaluation. 
-1.  Create questions to ask each other during the evaluation by re-phrasing the applicable heuristics.
-   - For example, one of the heuristics is "User control and freedom". We can turn this into a question by saying, "On a scale from 1-7, where 1 is not useful at all, and 7 is extremely easy, How easy was navigating to and from the tooling?" 
+1. Identify the job the user is trying to accomplish with your feature. The goal of any product or service is to provide a solution for the user's (or customer's) problem - so identify which of your stage's jobs the design is helping solve.
+1. Identify the process and needs for that job. This information should be included in the JTBD Canvas when [discovering your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group).
+1. Create a planning document for your heuristic evaluation similar to [this template](https://docs.google.com/document/d/1MJXl2d-dYLm8m9sisTmESJcK2D5uThQrLwVMipIopxI/edit?usp=sharing).
+1. Use the job process to identify the steps to take during the evaluation process. This is the general workflow you should follow.
+1. Use the circumstances to establish the scenarios to create for the evaluation. Sometimes it requires following the steps again, but from a different perspective.
+1. Use the related jobs and collaborate on a consensus for which jobs are out of scope.
+1. Explore [GitLab's list of heuristics](https://about.gitlab.com/handbook/product/ux/heuristics/#heuristics) or use the well-known [Nielson Norman 10 Usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/). Determine which heuristics apply to your evaluation.
+1. Create questions to ask each other during the evaluation by re-phrasing the applicable heuristics.
+   - For example, one of the heuristics is "User control and freedom". We can turn this into a question by saying, "On a scale from 1-7, where 1 is not useful at all, and 7 is extremely easy, How easy was navigating to and from the tooling?"
 1. Designate who is moderating the evaluation and who is acting as the user. The "user" will move through the UI to complete the tasks while the moderator evaluates the progress and asks questions. Both stakeholders are encouraged to provide feedback, but the moderator must ensure all tasks are evaluated.

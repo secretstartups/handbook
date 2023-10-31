@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Cloud licensing and the support exemption process explained
 description: "How to generate a legacy license for a customer who cannot use Cloud Licensing"
 category: GitLab Self-Managed licenses

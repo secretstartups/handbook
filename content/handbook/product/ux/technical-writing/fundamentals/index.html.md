@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Technical Writing Fundamentals"
 description: "Get started working on GitLab product documentation with our Technical Writing Fundamentals."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-The Technical Writing Fundamentals course is available to help both GitLab and community contributors write and edit documentation for the product. This course provides direction on grammar and topic design. 
+
+
+
+
+The Technical Writing Fundamentals course is available to help both GitLab and community contributors write and edit documentation for the product. This course provides direction on grammar and topic design.
 
 This class is **not required** to contribute to docs.gitlab.com. Everybody can contribute!
 
@@ -18,7 +18,7 @@ You can review the training materials on this page, or you can take [the course 
 
 ## Technical Writing Fundamentals course
 
-The Technical Writing Fundamentals course consists of the following sections to be completed in order. 
+The Technical Writing Fundamentals course consists of the following sections to be completed in order.
 
 ### Google Technical Writing One pre-class material
 
@@ -27,6 +27,7 @@ Complete the pre-class exercises from this excellent Google training. You can ta
 [**Start with the pre-class work** ~12 short sessions](https://developers.google.com/tech-writing/one).
 
 ### GitLab Technical Writing Fundamentals slide deck
+
 Use the slide deck to follow along with the recorded training sessions.
 
 <figure class="video_container">
@@ -35,7 +36,7 @@ Use the slide deck to follow along with the recorded training sessions.
 
 ### Session 1 (4 minutes)
 
-Provides an introduction, the audience for the documentation, a brief recap of pre-class work, and the first grammar and style requirements. 
+Provides an introduction, the audience for the documentation, a brief recap of pre-class work, and the first grammar and style requirements.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/Bp_ltao_xbA" frameborder="0" allowfullscreen="true"> </iframe>
@@ -43,7 +44,7 @@ Provides an introduction, the audience for the documentation, a brief recap of p
   
 ### Session 2 (8 minutes)
 
-Reviews additional grammar and style requirements. 
+Reviews additional grammar and style requirements.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ulFMEOURVR0" frameborder="0" allowfullscreen="true"> </iframe>
@@ -51,7 +52,7 @@ Reviews additional grammar and style requirements.
   
 ### Session 3 (5 minutes)
 
-Reviews even more grammar and style requirements and linting. 
+Reviews even more grammar and style requirements and linting.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/q_LlUEIJnA0" frameborder="0" allowfullscreen="true"> </iframe>
@@ -59,7 +60,7 @@ Reviews even more grammar and style requirements and linting.
 
 ### Session 4 (8 minutes)
 
-Reviews topic types: concepts, tasks, references, troubleshooting (CTRT). 
+Reviews topic types: concepts, tasks, references, troubleshooting (CTRT).
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ZzdE1y7HfzE" frameborder="0" allowfullscreen="true"> </iframe>
@@ -69,7 +70,7 @@ Reviews topic types: concepts, tasks, references, troubleshooting (CTRT).
 
 - Review the [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/).
 - Review some [examples for editing for topic types](https://about.gitlab.com/handbook/product/ux/technical-writing/fundamentals/examples.html).
-- Watch a [related video for more examples](https://youtu.be/HehnjPgPWb0). 
+- Watch a [related video for more examples](https://youtu.be/HehnjPgPWb0).
 - Provide [suggestions or other feedback](https://gitlab.com/gitlab-org/technical-writing/-/issues/445)!
 
 ## Schedule in-person training

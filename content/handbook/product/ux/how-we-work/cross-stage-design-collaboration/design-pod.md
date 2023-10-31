@@ -1,20 +1,24 @@
-## Design Pods 
+## Design Pods
 
 ### What is a Design Pod
+
 A Design Pod is a design team comprised of two or more Product Designers and other relevant counterparts from various Stage Groups. It has defined roles and responsibilities and is tasked with achieving a high-impact business goal that will specifically affect the user experience of the product across Stage Group workflows. Members will come together to tackle a singular design problem following [GitLab’s output design principles](https://design.gitlab.com/get-started/principles) and [Product Designer Workflow processes](https://about.gitlab.com/handbook/engineering/ux/product-designer/#product-design-process). Once this goal is achieved the Design Pod will disband allowing the Stage Group DRI to drive the project to completion.
 
 ### Roles and Responsibilities (all roles are required)
 
 #### DRI
+
 The pod’s DRI should be the Product Designer that is most closely related to the problem being addressed’s Stage Group or Section. The DRI will be Accountable for guiding the pod’s design direction. While they’ll work collaboratively with the rest of the Design Pod, as the DRI, they’ll be in charge of decision-making and driving the best strategy for completing the pod’s work. It’s highly recommended that the DRI at least be a Senior Product Designer as the role will require a high level of leadership and organizational skills.
 
 +#### Product Manager (Sponsor)
 The Product Manager that is most closely related to the addressed problem. The Product Manager's Stage Group or Section will need to approve the pod and should also prepare to participate in the oversight. The Product Manager should also expect to be consulted as they often have unique knowledge or insights into the problem space.
 
 #### Product Design Manager or Staff Product Designer of the DRI
+
 The Product Design Manager or Staff Product Designer of the DRI is Responsible for working closely with the Design Pod to ensure they are progressing and have what they need to succeed. In addition, they may be responsible for helping free up their time to participate in the pod and assisting in recruiting other pod members or securing any tools that may not be available.
 
 #### Members
+
 Other Design Pod members will consist of Product Designers or Product Managers from other Stage Groups that have some relationship to the addressed problem. Depending on their level of participation, they’ll be responsible for attending meetings synchronously or asynchronously regularly, sharing information learned from the Design Pod with their peers, gathering feedback from their peers, bringing that feedback, and completing necessary tasks to help the Design Pod progress and succeed. Members must work closely with their manager and Stage Group’s Product Manager to ensure they will have at least 30% of their typical time per Milestone freed up to participate in the pod. If the design pod has many members, the [RACI model](https://monday.com/blog/project-management/raci-model/) can help assign pod members roles based on interest/capacity.
 
 ### Guidelines
@@ -36,7 +40,7 @@ Other Design Pod members will consist of Product Designers or Product Managers f
 Apply ~UX, the primary DRI’s ~group::<name here>, and ~DesignPod labels
 It should be public unless there is a specific reason to keep it private.
 The DRI is responsible for creating a Slack channel (with #dpod_ prefix) that is public to the company.
-  	- Assemble the pod team and share the formation of the pod in any appropriate Slack channel(s) to encourage participation.
+   - Assemble the pod team and share the formation of the pod in any appropriate Slack channel(s) to encourage participation.
   - All members together determine how the pod will work collaboratively, whether through consistent synchronous calls or asynchronous periodic check-ins. And add it to the Issue/Epic description.
   - If synchronous calls were determined to be the way, schedule the call and invite all pod members. Set any consulted or informed members to be optional participants, and be sure to share the meeting video with everyone through your Slack channel and any other relevant channel (e.g. #ux, #product).
 - Define the addressed problem (both user problems, product, and engineering challenges)

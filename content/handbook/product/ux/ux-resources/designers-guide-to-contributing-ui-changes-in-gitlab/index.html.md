@@ -1,26 +1,26 @@
 ---
-layout: handbook-page-toc
+
 title: "How to do UI Code Contributions"
 description: "There are multiple opportunities to improve GitLab by doing small UI text changes or small CSS refactorings."
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## Contributing to GitLab's main codebase
 
-GitLab's main codebase contains all the code for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) including its UI. Technical knowledge is required to contribute, but it's not necessary to have a deep understanding of programming concepts to do meaningful contributions. There are multiple opportunities to improve GitLab by doing small UI text changes or small CSS refactorings. 
+GitLab's main codebase contains all the code for the [GitLab project](https://gitlab.com/gitlab-org/gitlab) including its UI. Technical knowledge is required to contribute, but it's not necessary to have a deep understanding of programming concepts to do meaningful contributions. There are multiple opportunities to improve GitLab by doing small UI text changes or small CSS refactorings.
 
-Contributing to GitLab's code requires HTML, CSS, Terminal (CLI), and Git Knowledge. Basic Ruby and JavaScript knowledge is also encouraged. 
+Contributing to GitLab's code requires HTML, CSS, Terminal (CLI), and Git Knowledge. Basic Ruby and JavaScript knowledge is also encouraged.
 
 Anyone contributing to GitLab's main codebase should have a working and running [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit), be familiar with a using a code editor (preferably [Visual Studio Code](https://code.visualstudio.com/)) and know the basic Git commands.
 
-As a general rule, if it can be fixed in a browser inspector, it can be probably be fixed it for real in the GitLab codebase. 
+As a general rule, if it can be fixed in a browser inspector, it can be probably be fixed it for real in the GitLab codebase.
 
-Everyone is encouraged to find small UI issues and submit their changes via a [merge request (MRs)](https://docs.gitlab.com/ee/user/project/merge_requests/). 
+Everyone is encouraged to find small UI issues and submit their changes via a [merge request (MRs)](https://docs.gitlab.com/ee/user/project/merge_requests/).
 
 ## GitLab's main codebase contribution basics
 
@@ -66,10 +66,10 @@ For a detailed step by step guide of how to make UI code changes against the Git
 
 ### GitLab UI basics
 
-* GitLab UI builds and deploys components. We then import those components to use throughout gitlab.com.
-* If you've ever created a site or app that utilizes [npm](https://www.npmjs.com/), you [install GitLab UI as a package](https://www.npmjs.com/package/@gitlab/ui) just like you would with other npm packages using `npm install @gitlab/ui`. Since our components are built in Vue, your project also needs to be Vue-based in order to use GitLab UI components.
-* We use [Storybook](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-button--default) for development and component documentation, which is then displayed on component pages in [Pajamas](https://design.gitlab.com/).
-* We use [visual regression testing](https://gitlab.com/gitlab-org/gitlab-ui#visual-regression-tests) to prevent introducing unexpected regressions with CSS and layout changes on components. After committing changes to a GitLab UI merge request, run the manual job `update_screenshots` to check for visual regressions and update them automatically:
+- GitLab UI builds and deploys components. We then import those components to use throughout gitlab.com.
+- If you've ever created a site or app that utilizes [npm](https://www.npmjs.com/), you [install GitLab UI as a package](https://www.npmjs.com/package/@gitlab/ui) just like you would with other npm packages using `npm install @gitlab/ui`. Since our components are built in Vue, your project also needs to be Vue-based in order to use GitLab UI components.
+- We use [Storybook](https://gitlab-org.gitlab.io/gitlab-ui/?path=/story/base-button--default) for development and component documentation, which is then displayed on component pages in [Pajamas](https://design.gitlab.com/).
+- We use [visual regression testing](https://gitlab.com/gitlab-org/gitlab-ui#visual-regression-tests) to prevent introducing unexpected regressions with CSS and layout changes on components. After committing changes to a GitLab UI merge request, run the manual job `update_screenshots` to check for visual regressions and update them automatically:
 
 ![Update screenshots manual job](/images/ux/update_screenshots.png){: .small}
 
@@ -79,7 +79,7 @@ If you're updating an existing component, issues may arise if you've changed or 
 
 ![Create integration branch job](/images/ux/create_integration_branch.png){: .small}
 
-* After running this manual job, click on it and you will see a link to create a merge request from the created integration branch. Open this link to create your merge request:
+- After running this manual job, click on it and you will see a link to create a merge request from the created integration branch. Open this link to create your merge request:
 
 ![Integration branch MR](/images/ux/integration_branch_mr.png)
 
@@ -99,8 +99,8 @@ If you're viewing [Storybook](https://gitlab-org.gitlab.io/gitlab-ui/?path=/stor
 
 ## Terminal (CLI) cheatsheet
 
-* [Command Line basic commands](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) in our GitLab docs.
-* [Basic Git commands](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#basic-git-commands) in our GitLab docs.
+- [Command Line basic commands](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html) in our GitLab docs.
+- [Basic Git commands](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#basic-git-commands) in our GitLab docs.
 
 ## Video walkthroughs
 

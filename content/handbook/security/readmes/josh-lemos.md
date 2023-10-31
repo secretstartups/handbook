@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Josh Lemos README"
 job: "CISO"
 ---

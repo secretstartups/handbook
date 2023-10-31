@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "UX Researcher pairings"
 description: "An opt-in offering for UX Researchers to pair up with another UX Researcher where they can provide and receive feedback from each other."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 Inspired by the [Product Designer pairing program](/handbook/product/ux/how-we-work/design-pair-rotation), UX Researchers can take part in their own pairing offering: **UX Research pairings**.
@@ -39,4 +39,4 @@ If you're part of a pairing, please document it in the table below:
 | Michael Oliver  | Danika Teverovsky | Develop more skills for discovering JTBD and how to use the framework to find strategic opportunities at GitLab | 2023-10-31  |
 |               |                       |          |          |
 
- 
+

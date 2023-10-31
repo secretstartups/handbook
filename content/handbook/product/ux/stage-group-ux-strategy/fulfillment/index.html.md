@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Fulfillment UX Team
 description: "The Fulfillment UX team supports the Fulfillment section to provide customers a great experience with buying, upgrading and renewing GitLab."
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 
@@ -21,7 +21,8 @@ description: "The Fulfillment UX team supports the Fulfillment section to provid
 - [Nick Hertz](/handbook/company/team/#nickhertz) - UX Researcher, Fulfillment
 
 ### Product Designer Focus Areas
-In Q3, we are exploring the idea of Product Designers being assigned to Projects instead of Groups. 
+
+In Q3, we are exploring the idea of Product Designers being assigned to Projects instead of Groups.
 
 The Fulfillment team is Project focused, and many projects span Groups, leading to gaps in the user experience or frequent designer borrow requests. In order to avoid this, we will assign designers to project areas, and revisit quarterly during OKR planning.
 
@@ -33,7 +34,7 @@ In Q3:
 - Designers can still pick up issues outside their assigned projects. These should be crucial UX issues such as SUS Impacting issues or bugs. Issue weights can be used to discuss trade-offs when needed.
 - Anyone can use the #s_fulfillment_ux Slack channel to ask for assistance.
 
-        
+
 Notes
 - To manage workload, designers should generally be assigned to no more than one large and 1 small/medium project at a time, or 3-4 small/medium projects (or the equivalent in issue weights).
 - Designers should use their best judgement and collaborate with their teams to decide which meetings to attend, and aren't expected to attend team sync meetings for multiple teams at the same time.
@@ -41,6 +42,7 @@ Notes
 - We will review the impact of this approach at the end of the quarter in a retro issue to evaluate whether this reduced UX borrow requests without introducing any additional concerns or challenges.
 
 ## UX Health
+
 One of the ways we track our progress is by measuring the UX of our different workflows (scorecards) and progress towards closing out issues that impact UX (issues labeled SUS:Impacting).
 
 [View Fulfillment Cross-Functional Dashboard](https://about.gitlab.com/handbook/engineering/development/fulfillment/#cross-functional-backlog)
@@ -62,11 +64,11 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
 | Renew a subscription (SaaS and SM) (based on renewals research) | NA  | Jan 2023 | - Consolidate and improve renewal messaging in app and emails <br/>- Improve seat usage visibility |
-| [Manually renewing a GitLab subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160) | C- | Jan 2023 | - customize email content and timing to customer context <br/> - improve SSO for seamless log in <br/> - improve UI with better readability and workflow | 
-| Upgrade a self-managed subscription| C- | Jan 2021 | Needs to be re-scored to identify opportunities | 
-| [Upgrade a GitLab.com subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/947) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+| [Manually renewing a GitLab subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2160) | C- | Jan 2023 | - customize email content and timing to customer context <br/> - improve SSO for seamless log in <br/> - improve UI with better readability and workflow |
+| Upgrade a self-managed subscription| C- | Jan 2021 | Needs to be re-scored to identify opportunities |
+| [Upgrade a GitLab.com subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/947) | C | April 2020 | Needs to be re-scored to identify opportunities |
 | Add additional seats to my subscription | |To be scheduled | |
-| Link to a different namespace to use my plan with a different group | | To be scheduled| | 
+| Link to a different namespace to use my plan with a different group | | To be scheduled| |
 | Cancel a subscription | |To be scheduled | |
 | Change/update subscription contact | |To be scheduled | |
 
@@ -77,11 +79,11 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 
 | JTBD                                     | Score  | Date | Opportunities                |
 |------------------------------------------|--------|------|------------------------------|
-| [Purchasing a Self-Managed Subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177) | C | Jan 2023 | - update emails to all use same template <br/> - Improve navigation from purchase to activation | 
+| [Purchasing a Self-Managed Subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177) | C | Jan 2023 | - update emails to all use same template <br/> - Improve navigation from purchase to activation |
 | [Purchasing a GitLab.com Subscription (new user via a Trial)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103)| C | Oct 2022 | - Auto sign-in users after email verification <br/> - Allow users to verify email later <br/> - Improve findability of upgrade link <br/> - More immediate access to paid features after purchase |
-| [Purchasing a GitLab.com Subscription (existing user)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103) | C | Oct 2022 |- Improve findability of purchase link for a group <br/> - More immediate access to paid features after purchase | 
+| [Purchasing a GitLab.com Subscription (existing user)](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2103) | C | Oct 2022 |- Improve findability of purchase link for a group <br/> - More immediate access to paid features after purchase |
 | Purchase add-on storage | | | |
-| [Buy add-on compute minutes](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities | 
+| [Buy add-on compute minutes](https://gitlab.com/gitlab-org/gitlab-design/-/issues/531) | C | April 2020 | Needs to be re-scored to identify opportunities |
 
 [View Open SUS:Impacting Issues for Purchase](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Apurchase&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
@@ -91,10 +93,10 @@ View the complete [Fulfillment UX Scorecard Playlist](https://youtube.com/playli
 |------------------------------------------|--------|------|------------------------------|
 | [Determining where my storage is high in order to reduce it](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2179) | D | Jan 2023 |- Support setting up good storage policies <br/> - Improve transparency into storage by project and type, including history <br/> Ensure accurate documentation |
 | [Removing a user from my SaaS subscription](https://gitlab.com/gitlab-org/gitlab-design/-/issues/2177)| D | Sep 2022 |- Improve clarity around who uses a seat <br/>- Improve workflow clarity (buttons, alerts) |
-| Removing a user from my self-managed subscription |  | To be scheduled | | 
-| Exclude a user from billing in my self-managed subscription |  |To be scheduled| | 
-| Determine how to make a single user non-billable (self-managed) |  | To be scheduled | | 
-| Set up auto-provisioning such that users are non-billable (self-managed) |  | To be scheduled | | 
+| Removing a user from my self-managed subscription |  | To be scheduled | |
+| Exclude a user from billing in my self-managed subscription |  |To be scheduled| |
+| Determine how to make a single user non-billable (self-managed) |  | To be scheduled | |
+| Set up auto-provisioning such that users are non-billable (self-managed) |  | To be scheduled | |
 
 [View Open SUS:Impacting Issues for Utilization](https://gitlab.com/groups/gitlab-org/-/issues/?sort=updated_desc&state=opened&label_name%5B%5D=group%3A%3Afulfillment%20platform&label_name%5B%5D=SUS%3A%3AImpacting&first_page_size=20)
 
@@ -122,7 +124,7 @@ We follow the [Product Designer workflows](/handbook/product/ux/product-designer
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A).
 - we use **milestones** to aid in planning and prioritizing.
 - we use [UX issue weights](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights).
-- we create separate issues for UX work and frontend work and name them with the prefix [UX] and [ENG]. This allows the Product Designer to add an issue weight specific to UX. It also keeps conversations confined to their corresponding issues. The [UX] issue should be the design SSOT for both designs and design feedback. 
+- we create separate issues for UX work and frontend work and name them with the prefix [UX] and [ENG]. This allows the Product Designer to add an issue weight specific to UX. It also keeps conversations confined to their corresponding issues. The [UX] issue should be the design SSOT for both designs and design feedback.
     - when the UX work is complete and the work is ready for the engineering team, we close the [UX] issue and the [ENG] issue should be updated to indicate it's ready to be worked on by linking the [UX] issue in the description of the [ENG] issue and updating the workflow label.
 
 
@@ -138,7 +140,7 @@ We use the Product Development Flow to help move issues through the product life
 The template can also be copied into the main issue that is the SSOT.
 
 
-#### Collaboration 
+#### Collaboration
 
 There is a lot of overlap between Fulfillment groups, so we work very closely. To keep things simple and clear, we follow [GitLab internal communication](/handbook/people-group/employment-branding/people-communications/) guidelines. In addition the following tips will make it easier to collaborate with Product Designers who span multiple groups:
 

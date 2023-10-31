@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Setting Up a Local Environment"
 description: "Tips and suggestions for setting up a local environment to write and preview GitLab product documentation."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Whether you are a contributor or a GitLab Technical Writing team member, one of your first tasks is to set up
 an environment on your computer for writing and previewing [GitLab documentation](https://docs.gitlab.com/).
@@ -31,7 +31,7 @@ These are simply suggestions to help you get up and running quickly:
   - To install, run, and maintain an instance of GitLab locally.
   - To [preview documentation changes locally](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/gitlab_docs.md).
   - To [preview code changes](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/preview_gitlab_changes.md) locally.
-- Optional. Install the [Conventional Comments](https://gitlab.com/conventionalcomments/conventional-comments-button) extension for Chrome. The plugin adds Conventional Comment buttons to GitLab comment fields. Learning about the [Conventional Comments](https://conventionalcomments.org/) message format can help you write better, more actionable review comments - with or without the plugin. 
+- Optional. Install the [Conventional Comments](https://gitlab.com/conventionalcomments/conventional-comments-button) extension for Chrome. The plugin adds Conventional Comment buttons to GitLab comment fields. Learning about the [Conventional Comments](https://conventionalcomments.org/) message format can help you write better, more actionable review comments - with or without the plugin.
 
 ## Additional resources
 

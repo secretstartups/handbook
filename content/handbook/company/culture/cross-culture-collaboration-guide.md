@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Cross-Culture Collaboration Guide"
 description: "This guide will help GitLab team members in effective and inclusive communication and cross-cultural collaboration globally"
 canonical_path: "/company/culture/cross-culture-collaboration-guide/"

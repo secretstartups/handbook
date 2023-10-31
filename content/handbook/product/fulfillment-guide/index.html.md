@@ -1,34 +1,34 @@
 ---
-layout: handbook-page-toc
+
 title: Fulfillment Guide
 description: "The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process."
 ---
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Key Fulfillment Documentation links
 
-| Resource  | Areas Covered | 
+| Resource  | Areas Covered |
 | --------  | ------------- |
-| [Fulfillment Direction](https://about.gitlab.com/direction/fulfillment/) | Fulfillment vision and what we are working on next. | 
+| [Fulfillment Direction](https://about.gitlab.com/direction/fulfillment/) | Fulfillment vision and what we are working on next. |
 | [docs.gitlab.com Subscription](https://docs.gitlab.com/ee/subscriptions/) | Customer-facing documentation around GitLab subscriptions, including Customer Portal (customers.gitlab.com) information. |
 | Fulfillment Guide (this page) | Documentation around CustomersDot Admin tools and process documentation that is not part of the docs.gitlab.com Subscription documentation above. |
-| [Fulfillment Development Sub-Department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. | 
+| [Fulfillment Development Sub-Department](https://about.gitlab.com/handbook/engineering/development/fulfillment/) | Team members, stable counterparts (PM, UX, Quality, Security, EntApps, Field Ops, Sales, Billing, Customer Success, Support Engineering), project management processes, and more. |
 | [Internal Handbook - Fulfillment](https://internal.gitlab.com/handbook/product/fulfillment/) | Documentation that can't be in the public handbook. Minimize this to only [Not Public](/handbook/communication/confidentiality-levels/#not-public) information. |
-| [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites | 
-| [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing | 
-| [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  | 
+| [Cloud Licesing Overview (External)](/pricing/licensing-faq/cloud-licensing/) | Why Cloud Licensing, data collected, customer pre-requisites |
+| [Cloud Licensing (Internal)](https://internal.gitlab.com/handbook/product/fulfillment/cloudlicensing/cloud-licensing/) | Internal handbook information about Cloud Licensing |
+| [Deal Desk Handbook](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) | Standard Quote Configuration (new subscription, amend subscription, add-on quote creation, upgrade or product switch during subscription term, renewal, channel deals, true-ups, co-terms, Starter/Bronze End of Availability, SuperSonics, Professional Services), Non-Standard Quotes (Contract Resets, Concurrent Subscriptions, Multi-year Deals, Ramp deals), Alliance Marketplace Private Offers, and more.  |
 | [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) | Account and opportunity creation, quote configuration, approvals process, opportunity booking requirements, closing an opportunity. |
-| [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. | 
-| [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more | 
-| [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | | 
+| [Internal Support](/handbook/support/internal-support/) | Submitting all requests around licensing, subscription, trials, and grace periods. |
+| [Licensing FAQ](/pricing/licensing-faq/) | Common questions around purchasing, licensing, billing, contacting sales, and more |
+| [Finance and Legal Authorization Matrix](/handbook/finance/authorization-matrix/) | |
 | [Trade Compliance](https://about.gitlab.com/handbook/legal/trade-compliance/) | |
-| [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests | 
+| [Billing, invoice and payment requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html) | Zuora contact change, Zuora entity change and effects on SM/SaaS subscriptions, cancellations, downgrades, refunds, invoices, payments, credit card removals, renewal reversals, split payment requests |
 | [Troubleshooting: True Ups, licenses + EULAs](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/) | |
-| [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams | 
+| [Quote-to-Cash systems documentation (EntApps)](/handbook/business-technology/enterprise-applications/quote-to-cash/) | Overview of systems, EntApps Architecture, Process Flow Diagrams, Entity Relationship Diagrams |
 | [Quote-to-Cash process](/handbook/business-technology/enterprise-applications/quote-to-cash/#quote-to-cash-introduction) | EntApps documentation including systems and process diagrams. |
 
 ## Helpful data links
@@ -39,11 +39,11 @@ description: "The Fulfillment Sub-department is responsible for the infrastructu
 
 ## How to connect with us
 
-If your question is not answered by the key links above or this guide: 
+If your question is not answered by the key links above or this guide:
 
-* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
-* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
-* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
+- For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
+- For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
+- Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
 
 ## Fulfillment Feature Availability
 
@@ -60,7 +60,7 @@ Not all Fulfillment features are available at the time for all types of customer
 | Customers with multi-year deals | Yes | No | No | Yes |
 | Customers purchasing through a GitLab Reseller or other Channel/Alliance Partner | Yes | No | No | Yes |
 | Public Sector Customers | Yes | No | No | Yes |
-| Customers with offline/airgapped environments | Yes<br>_([Offline cloud license](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licenses) released in GitLab 15.0)_ | No | No | No |
+| Customers with offline/airgapped environments | Yes<br>*([Offline cloud license](https://about.gitlab.com/pricing/licensing-faq/cloud-licensing/#offline-cloud-licenses) released in GitLab 15.0)* | No | No | No |
 | GitLab for Education, Open Source and Startups Customers | No | No | No | No |
 | Free Tier Users | No | No | No | No |
 
@@ -72,39 +72,39 @@ Not all Fulfillment features are available at the time for all types of customer
 
 ### Notifications
 
-_last updated: April 2023_
+*last updated: April 2023*
 
 #### Project Storage Enforcement
 
 **Purpose**: document what notifications customers see as part of today's existing [repository/project 10GB enforcement](https://docs.gitlab.com/ee/user/usage_quotas.html#project-storage-limit).
 
-| Question | Banner Notification | CLI | 
+| Question | Banner Notification | CLI |
 | ------------- | --------------------- | ------------------- |
-| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product, on pages related to the affected top-level group and projects.  | Command line interface notifications about storage usage when git commands occur. If the push will send the project over the storage limit, a notification will appear and the command will be rejected. | 
-| **What type of enforcement scenario is this applicable?** | Project storage enforcement.  | Project storage enforcement. | 
-| **Is this live and being shown to customers today (as of Apr 20 2023)?** | Yes | Yes | 
-| **When will we stop showing these notifications?** | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers  | 
-| **Who is seeing this?** | [All members](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960/diffs#a9df026a7fe481b045321b58a363ebfa963e284f_104_107) of the impacted group/project.  | Anyone using the CLI.  | 
-| **When are we showing this?** | Customers who have used `75%+` of their allotted storage, will receive warning messages. When a customer has gone above their allotted storage amount `100%+` (> 100%, not >=),, they will receive a notification that their project is in a read-only state. | Customers who have used `95%-100%` of their of their [allotted storage](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1378071499), will receive warning messages. When a customer has gone above their allotted storage amount `100%+` (> 100%, not >=),, they will receive a notification that their MR has been rejected.  | 
-| **How is this notification controlled?** | We first check if we're enforcing via `automatic_purchased_storage_allocation` application setting ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/root_excess_size.rb#L42)) and then we check if the criteria is met. The Application Setting used to determine the limit is `repository_size_limit` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/ee/namespace.rb#L251)). Currently the [limit is `10 GB`](https://docs.gitlab.com/ee/user/usage_quotas#project-storage-limit) and can only be set to the whole GitLab instance. | Same. See [issue](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1388515713) | 
-| **Links** | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/371674) and [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli)  | 
+| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product, on pages related to the affected top-level group and projects.  | Command line interface notifications about storage usage when git commands occur. If the push will send the project over the storage limit, a notification will appear and the command will be rejected. |
+| **What type of enforcement scenario is this applicable?** | Project storage enforcement.  | Project storage enforcement. |
+| **Is this live and being shown to customers today (as of Apr 20 2023)?** | Yes | Yes |
+| **When will we stop showing these notifications?** | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers | When we roll out `Group Namespace Storage Enforcement` for the `Free` and then later `Paid` tiers  |
+| **Who is seeing this?** | [All members](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960/diffs#a9df026a7fe481b045321b58a363ebfa963e284f_104_107) of the impacted group/project.  | Anyone using the CLI.  |
+| **When are we showing this?** | Customers who have used `75%+` of their allotted storage, will receive warning messages. When a customer has gone above their allotted storage amount `100%+` (> 100%, not >=),, they will receive a notification that their project is in a read-only state. | Customers who have used `95%-100%` of their of their [allotted storage](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1378071499), will receive warning messages. When a customer has gone above their allotted storage amount `100%+` (> 100%, not >=),, they will receive a notification that their MR has been rejected.  |
+| **How is this notification controlled?** | We first check if we're enforcing via `automatic_purchased_storage_allocation` application setting ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/root_excess_size.rb#L42)) and then we check if the criteria is met. The Application Setting used to determine the limit is `repository_size_limit` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/ee/namespace.rb#L251)). Currently the [limit is `10 GB`](https://docs.gitlab.com/ee/user/usage_quotas#project-storage-limit) and can only be set to the whole GitLab instance. | Same. See [issue](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1388515713) |
+| **Links** | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/371674) and [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli)  |
 
 #### Group Namespace Storage Enforcement
 
 **Purpose**: document what notifications customers can expect to see as part of the group namespace storage enforcement project. [FAQ](https://about.gitlab.com/pricing/faq-paid-storage-transfer/) / [docs](https://docs.gitlab.com/ee/user/usage_quotas#namespace-storage-limit).
 
 
-| Question | Pre-Enforcement Banner Notification | Banner Notification | CLI | Emails | 
+| Question | Pre-Enforcement Banner Notification | Banner Notification | CLI | Emails |
 | -------------| ------------- | --------------------- | ------------------- |------------------- |
-| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product that let customers know that we will start enforcing storage limits soon. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`. | In-app banner notifications that can be seen throughout the GitLab product that let customers know they are nearing their storage limits. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`.   | Command line interface notifications about storage usage when git commands occur. If the push will send the group over the storage limit, a notification will appear.  |  E-mails when customers are nearing group namespace storage limits and when they are over storage limits. | 
-| **What type of enforcement scenario is this applicable?** | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.  | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.   | 
-| **Is this live and being shown to customers today (as of Apr 20 2023)?**| No | No | No | No  | 
-| **When will we stop showing these notifications?**| These will stop after we have rolled out storage enforcement to the `Free` tier. Note: we will then deploy them again when we do storage enforcement for the `Paid` Tier. | Never | Never | Never  | 
-| **Who is seeing this?** | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/120434) | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960#note_1361204113)  | Anyone using the CLI.  | Namespace group owners.  | 
-| **When are we showing this?** | We are showing these starting 60 days in advance of `Free` tier storage enforcement. | When group namespace storage enforcement begins, customers who have used `75%+` of their allotted storage, will receive warning banners. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=),, they will receive a banner informing them that their group is now in a read-only state. Note: we haven't enabled the feature flags on production, once we do all users should start see banners once the usage criteria is met.  | Customers who have used `95%-100%` of their [allotted storage](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079#note_1378162404), will receive warning messages. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=), they will receive a notification that their git command has been rejected.  | When group namespace storage enforcement begins, customers who have used `70%`, `85%`, `95%` of their allotted storage, will receive warning e-mails. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=),, they will receive an e-mail informing of them that their group is now in a read-only state and to purchase storage and/or decrease storage usage.  | 
-| **How is this notification controlled?** | We check if the group has no subscription ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L23)). Then we check if the group has not been marked for `storage_limit_exclusion` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L33)), then we check if their plan has a `notification_limit` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L36)) and if so we check if their consumed storage reaches or goes over the notification limit ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L41)). The `notification_limit` will start high and will be gradually decreased until we get to the dashboard limit, controlled by the `storage_size_limit` application setting. | We first check if we're enforcing ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/components/namespaces/storage/limit_alert_component.rb#L24)), then if the criteria is met either for warning or error banners ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/components/namespaces/storage/limit_alert_component.rb#L25)). We use [application settings](https://gitlab.com/gitlab-org/gitlab/-/issues/385515#note_1388969550) to enable the enforcement and the [Plan Limit](https://docs.gitlab.com/ee/api/plan_limits.html) named `storage_size_limit` to check what's the storage quota included in the plan ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/root_size.rb#L34)). Each plan will have a [different limits](https://about.gitlab.com/pricing/faq-paid-storage-transfer/#q-what-is-changing-with-storage-and-transfer-limits)  | Same. See [issue](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1388515713)  | The controls are the same but the email trigger needs to be verified | 
-| **Special Notes** | [For dismissal](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113523#note_1323268332): <br> - For now: can we allow for dismissal but have it re-appear ever 14 days <br> - For later / closer to enforcement: we make the banner [re-appear every day if dismissed](https://gitlab.com/gitlab-org/gitlab/-/issues/398620#note_1362053624). | For dismissal: <br> - Customer can dismiss banner but it will re-appear if they change thresholds (eg they jump from 70% of usage to 95% of usage) <br> - The banner will become [non-dismissable when usage is above 95%](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/122494).  |  |   | 
-| **Links** | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/97807) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#pre-enforcement-banner-notification) | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification-1) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli-1) |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#emails)  | 
+| **What are we showing?** | In-app banner notifications that can be seen throughout the GitLab product that let customers know that we will start enforcing storage limits soon. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`. | In-app banner notifications that can be seen throughout the GitLab product that let customers know they are nearing their storage limits. [They follow](https://gitlab.com/gitlab-org/gitlab/-/issues/387958#note_1322125225) customers around in all pages under `group`, `project`, and `user`.   | Command line interface notifications about storage usage when git commands occur. If the push will send the group over the storage limit, a notification will appear.  |  E-mails when customers are nearing group namespace storage limits and when they are over storage limits. |
+| **What type of enforcement scenario is this applicable?** | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.  | Group Namespace Storage Enforcement. | Group Namespace Storage Enforcement.   |
+| **Is this live and being shown to customers today (as of Apr 20 2023)?**| No | No | No | No  |
+| **When will we stop showing these notifications?**| These will stop after we have rolled out storage enforcement to the `Free` tier. Note: we will then deploy them again when we do storage enforcement for the `Paid` Tier. | Never | Never | Never  |
+| **Who is seeing this?** | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/120434) | [Owners and non-owners](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114960#note_1361204113)  | Anyone using the CLI.  | Namespace group owners.  |
+| **When are we showing this?** | We are showing these starting 60 days in advance of `Free` tier storage enforcement. | When group namespace storage enforcement begins, customers who have used `75%+` of their allotted storage, will receive warning banners. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=),, they will receive a banner informing them that their group is now in a read-only state. Note: we haven't enabled the feature flags on production, once we do all users should start see banners once the usage criteria is met.  | Customers who have used `95%-100%` of their [allotted storage](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079#note_1378162404), will receive warning messages. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=), they will receive a notification that their git command has been rejected.  | When group namespace storage enforcement begins, customers who have used `70%`, `85%`, `95%` of their allotted storage, will receive warning e-mails. When a customer reaches or goes over their allotted storage amount `100%+` (> 100%, not >=),, they will receive an e-mail informing of them that their group is now in a read-only state and to purchase storage and/or decrease storage usage.  |
+| **How is this notification controlled?** | We check if the group has no subscription ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L23)). Then we check if the group has not been marked for `storage_limit_exclusion` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L33)), then we check if their plan has a `notification_limit` ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L36)) and if so we check if their consumed storage reaches or goes over the notification limit ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/enforcement.rb#L41)). The `notification_limit` will start high and will be gradually decreased until we get to the dashboard limit, controlled by the `storage_size_limit` application setting. | We first check if we're enforcing ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/components/namespaces/storage/limit_alert_component.rb#L24)), then if the criteria is met either for warning or error banners ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/components/namespaces/storage/limit_alert_component.rb#L25)). We use [application settings](https://gitlab.com/gitlab-org/gitlab/-/issues/385515#note_1388969550) to enable the enforcement and the [Plan Limit](https://docs.gitlab.com/ee/api/plan_limits.html) named `storage_size_limit` to check what's the storage quota included in the plan ([code](https://gitlab.com/gitlab-org/gitlab/-/blob/e9c674c8/ee/app/models/namespaces/storage/root_size.rb#L34)). Each plan will have a [different limits](https://about.gitlab.com/pricing/faq-paid-storage-transfer/#q-what-is-changing-with-storage-and-transfer-limits)  | Same. See [issue](https://gitlab.com/fulfillment-group/utilization-group/team-project/-/issues/52#note_1388515713)  | The controls are the same but the email trigger needs to be verified |
+| **Special Notes** | [For dismissal](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/113523#note_1323268332): <br> - For now: can we allow for dismissal but have it re-appear ever 14 days <br> - For later / closer to enforcement: we make the banner [re-appear every day if dismissed](https://gitlab.com/gitlab-org/gitlab/-/issues/398620#note_1362053624). | For dismissal: <br> - Customer can dismiss banner but it will re-appear if they change thresholds (eg they jump from 70% of usage to 95% of usage) <br> - The banner will become [non-dismissable when usage is above 95%](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/122494).  |  |   |
+| **Links** | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/97807) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#pre-enforcement-banner-notification) | See [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/387958) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#banner-notification-1) | See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/112079) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#cli-1) |  See [MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/114325) and [issue](https://gitlab.com/gitlab-org/gitlab/-/issues/383393) <br><br> [Screenshots](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/1099#emails)  |
 
 ## User cap for groups on SaaS
 
@@ -112,19 +112,19 @@ On GitLab.com, this feature is now available for all groups. For more informatio
 
 ## Experience for customers that purchased through a reseller
 
-As of 2023-06-28, customers who have purchased a GitLab subscription through an authorized reseller (including GCP and AWS marketplaces) have access to the Customers Portal. 
+As of 2023-06-28, customers who have purchased a GitLab subscription through an authorized reseller (including GCP and AWS marketplaces) have access to the Customers Portal.
 
-* [Customer documentation in GitLab Docs](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#customers-that-purchased-through-a-reseller)
-* [Internal video demo](https://youtu.be/LVhG8JzD8oY)
-* [Related epic](https://gitlab.com/groups/gitlab-org/-/epics/8941)
+- [Customer documentation in GitLab Docs](https://docs.gitlab.com/ee/subscriptions/customers_portal.html#customers-that-purchased-through-a-reseller)
+- [Internal video demo](https://youtu.be/LVhG8JzD8oY)
+- [Related epic](https://gitlab.com/groups/gitlab-org/-/epics/8941)
 
 Please keep in mind:
-* Customers do not have access to the invoices, because those are owned by the reseller.
-* Resellers do not have access to the Customers Portal or to their customers' accounts.
+- Customers do not have access to the invoices, because those are owned by the reseller.
+- Resellers do not have access to the Customers Portal or to their customers' accounts.
 
 ## Temporary renewal extensions
 
-_Last updated on 2023-10-26._
+*Last updated on 2023-10-26.*
 
 | Use Case | Status |
 |---|---|
@@ -148,7 +148,7 @@ BETA access to **temporary extensions for Self-Managed renewals** is being rolle
 Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an overview of creating an extension. The process is also described below.
 
 1. Go to the SFDC Renewal Opportunity that needs additional processing time.
-1. Click on `Request Temporary License` button. _If you are not part of the beta group, you will see an error message._
+1. Click on `Request Temporary License` button. *If you are not part of the beta group, you will see an error message.*
 1. Temporary License form will load, and display the related OpportunityID and ZuoraSubscriptionID.
 1. Select `Reason` from the drop down, specify number of `Users` for the license, add optional `Notes`, then click `Next`.
 1. Once the extension is created, you will see a success message. Otherwise, you will see an [error message](add-link).
@@ -157,19 +157,19 @@ Please watch [this video](https://www.youtube.com/watch?v=ENRtOQ0DbkM) for an ov
    1. Temporary extension record appears on [CustomersDot Admin > Temporary Extensions page](https://customers.gitlab.com/admin/temporary_extension_history).
    1. For self-managed, a legacy trial license is created and can be accessed from the Temporary extension record in CustomersDot Admin.
    1. An email is sent to the customer with the subject line `[GitLab Transactions] GitLab Temporary Renewal Extension`. For self-managed, a license key is included in the email.
-      * This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
+      - This email is also sent to the Revenue Team, as well as copied to SFDC and displayed under Contact Activity.
    1. `Access temporarily extended until YYYY-MM-DD` badge is displayed on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
 
 ### Viewing and using the extension
 
 Once the temporary renewal extension is created, the evidence of it can be seen in a few places.
 
-* SFDC Renewal Opportunity has `Temporary License Extension End Date` field populated with a date when the extension expires.
-* [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
-* Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
-   * For self-managed, customer can download the license key and apply it to their instance.
+- SFDC Renewal Opportunity has `Temporary License Extension End Date` field populated with a date when the extension expires.
+- [CustomersDot Admin > Temporary Extensions](https://customers.gitlab.com/admin/temporary_extension_history) page lists all of the temporary extensions.
+- Customer can see the `Access temporarily extended until YYYY-MM-DD` badge on the related subscription in the [Customers Portal](https://docs.gitlab.com/ee/subscriptions/customers_portal.html).
+   - For self-managed, customer can download the license key and apply it to their instance.
 
-Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed. [This video](https://www.youtube.com/watch?v=cR6odsThHNY) shows what happens when the grace period of the temporary extension has elapsed, and subscription is renewed. 
+Once subscription is renewed, the `Access temporarily extended until YYYY-MM-DD` badge is removed. [This video](https://www.youtube.com/watch?v=cR6odsThHNY) shows what happens when the grace period of the temporary extension has elapsed, and subscription is renewed.
 
 ### Possible errors when creating an extension
 
@@ -216,16 +216,16 @@ As of 2023-01-21, almost all of the subscriptions enrolled in auto-renewal (iden
 
 We will not attempt to auto-renew if:
 
-* Self-Managed customer is not on Cloud Licensing
-* Customer is not on QSR
-* Customer is on QSR, but QSR failed and there’s overage
-* Customer’s credit card is expired
+- Self-Managed customer is not on Cloud Licensing
+- Customer is not on QSR
+- Customer is on QSR, but QSR failed and there’s overage
+- Customer’s credit card is expired
 
 Auto-renewal will fail if:
 
-* Credit card payment failed
-* EoA subscription has more than 25 users
-* Another system error that wasn’t accounted for previously
+- Credit card payment failed
+- EoA subscription has more than 25 users
+- Another system error that wasn’t accounted for previously
 
 Accounts and Subscriptions excluded from auto-renewal:
 
@@ -329,7 +329,7 @@ This functionality lives in Customers Portal and runs daily at midnight UTC. Ple
    1. For SaaS customers, provision additional seats immediately.
    2. For Self-managed customers, provision additional seats in the next instance sync (24 hrs), or customer can trigger the update from within their instance.
 10. Update SFDC Opportunity to Closed Won, and created related SFDC Quote and Quote objects.
-   1. If reconciliation fails for any reason, SFDC Opportunity remains open.
+1. If reconciliation fails for any reason, SFDC Opportunity remains open.
 
 ##### QSR and SFDC Opportunities
 
@@ -364,7 +364,8 @@ As of 2023-05-22, SFDC Opportunities created for QSR have 2 new fields populated
 - [Finance team’s documentation about QSR refunds and escalations](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/WIP%20Quarterly%20Subscription%20Reconciliation%20Escalation#quarterly-subscription-reconciliation-process-post-billing)
 - [Process illustrations](https://gitlab.com/groups/gitlab-org/-/epics/5560#illustration)
 
-#### Subscription Display 
+#### Subscription Display
+
 1. For sales assisted subscriptions, there could be cases wherein a single subscription term has multiple plans (e.g. premium, ultimate). This could be because the subscription was sold with a plan and mid-term the plan was changed to another one. In our new subscription card design, in such cases only the latest version of the subscription will be shown and the details of the old plan will not be shown. The start date of the new plan should be shown correctly as starting from the date from which the new plan is active. More details in this [issue](https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/6103) (internal).
 
 ## CustomersDot Admin Panel
@@ -373,7 +374,7 @@ The target audience is the internal GitLab team, and covers the [admin panel](ht
 
 ### Log in
 
-File an access request for [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) ([example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/14359)) to get access. 
+File an access request for [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) ([example access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/14359)) to get access.
 
 Once access is granted, either go to [customers.gitlab.com/admin/](https://customers.gitlab.com/admin/sign_in) and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal App.
 
@@ -400,7 +401,7 @@ In the search results, any account which has a subscription tied to it will have
 
 #### Update customer details
 
-**Note:** The updated customer details are synced to the matching Zuora BillTo/SoldTo contact. 
+**Note:** The updated customer details are synced to the matching Zuora BillTo/SoldTo contact.
 
 1. Select the correct customer by clicking on the ✎ icon in the `Customers` section.
 1. You can now update `First name`, `Last name`, and `Email`.
@@ -522,7 +523,7 @@ The billing account is the representation of a billing entity which is mostly co
      - Account Number
      - Account Type
      - Bank Name
-     - Account Name 
+     - Account Name
 
 **Note:** This view is also accessible for CDot admins with `read only` permissions.
 
@@ -714,26 +715,27 @@ It's the only way to search for usage ping data if the server name is not known.
 It is important to know who received the license for further troubleshooting as CustomersDot is the SSOT for license information.
 
 ##### References
+
 - [Troubleshooting: Licenses](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#licenses)
 - [Changing License Owner (Contact Support)](https://about.gitlab.com/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#how-do-i-change-the-license-owner-for-self-managed-instances-with-licensegitlab)
 
 ## Action plan for Fulfillment-impacting bugs
 
-If a bug is discovered that impacts Fulfillment, including provisioning, purchasing, billing, subscription data, etc., please do the following: 
+If a bug is discovered that impacts Fulfillment, including provisioning, purchasing, billing, subscription data, etc., please do the following:
 
 **Reporting the issue**
 
-1. Open a new [Fulfillment Meta bug intake issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new) (select the bug_intake template) outlining what is known about the bug. 
+1. Open a new [Fulfillment Meta bug intake issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/new) (select the bug_intake template) outlining what is known about the bug.
    1. Tag [Fulfillment Product Management](https://about.gitlab.com/handbook/engineering/development/fulfillment/#fulfillment-product-management) by mentioning the `@fulfillment-group/leadership/fulfillment-pm` group.
-   1. Assign the issue to `ofernandez2` for review and action. 
-1. Post the link to the issue on Slack in #s_fulfillment and in #business-fulfillment-sync for broad awareness and review. 
+   1. Assign the issue to `ofernandez2` for review and action.
+1. Post the link to the issue on Slack in #s_fulfillment and in #business-fulfillment-sync for broad awareness and review.
 
 **Notifying appropriate DRIs**
 
-The following individuals should be looped into the issue, depending on the impact of the bug: 
+The following individuals should be looped into the issue, depending on the impact of the bug:
 1. For billing and revenue-impacting issues: `Sarah McCauley - Director, Billing & AR`
 1. To determine impacted subscriptions and/or automation of Zuora solutions: `Jessica Salcido - Finance Systems Administrator`
-1. For bookings impact, and/or to assess and coordinate Salesforce solution needs: `Jesse Rabbits - Sr. Manager, Deal Desk` 
+1. For bookings impact, and/or to assess and coordinate Salesforce solution needs: `Jesse Rabbits - Sr. Manager, Deal Desk`
 1. If customer outreach is needed, PM should work with: `Lyle Kozloff - Director of Support, Global Readiness`
 1. For product monetization decisions needed: `Justin Farris - Sr. Dir, Product Monetization`
 
@@ -770,57 +772,57 @@ Our [service usage data](https://about.gitlab.com/handbook/legal/privacy/custome
 Please see [Offline Cloud Licensing](/pricing/licensing-faq/cloud-licensing/#offline-cloud-licensing) for more information.
 
 
-## Fulfillment Roadmap Prioritization 
+## Fulfillment Roadmap Prioritization
 
 ### Principles
- 
+
 Across our stable counterparts, we follow four key principles to keep us focused on delivering the right results. These principles are not absolute, the intent is for them to guide our decision-making.
- 
+
 **Make conducting business with GitLab seamless**
- 
+
 When customers choose to purchase GitLab they've already decided to unlock additional value by accessing the features or services enabled by a transaction. We strive to make the transaction experiences fade into the background, helping customers unlock this additional value as easily as possible. This creates a better customer experience and results in accelerated growth for GitLab.
 
-This means that in every initiative we question the need for complexity. We strive to build functionality that is easy to understand and use, and make sure it works flawlessly for customers of all types. As much as we can, we won't require a customer to speak to a sales representative and will allow them to choose whether to transact via online self-service tools. 
- 
-**Build a strong foundation so GitLab can scale**
- 
-Fulfillment systems are the foundational layer for many commerce activities within GitLab. Our systems provision licenses for customers, are the source of data for multiple KPIs and data models, and interact directly with [Zuora](/handbook/business-technology/enterprise-applications/guides/zuora/) and Salesforce. These systems need to be reliable, scale with demand, and allow other teams to collaborate. 
+This means that in every initiative we question the need for complexity. We strive to build functionality that is easy to understand and use, and make sure it works flawlessly for customers of all types. As much as we can, we won't require a customer to speak to a sales representative and will allow them to choose whether to transact via online self-service tools.
 
-We regularly invest in our foundations and will continue to pause new feature development in favor of foundations whenever we feel that our foundational systems aren't robust enough. We established a Fulfillment Platform group in FY23 for focused efforts in this area. 
- 
+**Build a strong foundation so GitLab can scale**
+
+Fulfillment systems are the foundational layer for many commerce activities within GitLab. Our systems provision licenses for customers, are the source of data for multiple KPIs and data models, and interact directly with [Zuora](/handbook/business-technology/enterprise-applications/guides/zuora/) and Salesforce. These systems need to be reliable, scale with demand, and allow other teams to collaborate.
+
+We regularly invest in our foundations and will continue to pause new feature development in favor of foundations whenever we feel that our foundational systems aren't robust enough. We established a Fulfillment Platform group in FY23 for focused efforts in this area.
+
 **Use data to make decisions and measure impact**
- 
-We have many sensing mechanisms at our disposal: feedback routed via our GTM teams, meetings with business counterparts, customer feedback from user research, and improvement suggestions raised by GitLab team members and members of the wider community in our issue tracker. 
- 
+
+We have many sensing mechanisms at our disposal: feedback routed via our GTM teams, meetings with business counterparts, customer feedback from user research, and improvement suggestions raised by GitLab team members and members of the wider community in our issue tracker.
+
 We're also improving how we use data as a sensing mechanism to set direction and prioritization. Understanding our funnel is paramount in building a seamless commerce experience for our customers. Fulfillment teams in collaboration with Growth are instrumenting each point in our transaction funnels so we can use data to inform our strategy and direction.
- 
+
 **Iterate, especially when the impact of a change is sizeable**
- 
+
 Iteration is one of the most challenging values to follow, especially within Fulfillment. Oftentimes our work needs to be bundled and aligned closely with external announcements or communications. Even so, we strive to break work down as much as possible and decouple functionality releases from broader announcements. Doing this expedites delivering value to our customers and the business.
 
 **Minimize and remove business logic from the GitLab application code**
 
-In the past, we have embedded significant business logic into the GitLab instance code directly. For example, we have logic in our licensing system that checks at the instance level whether the customer license should be activated based on licenses paid for, etc. This causes significant issues as we evolve our business policies, which we can't then reflect in past GitLab versions that we support. 
+In the past, we have embedded significant business logic into the GitLab instance code directly. For example, we have logic in our licensing system that checks at the instance level whether the customer license should be activated based on licenses paid for, etc. This causes significant issues as we evolve our business policies, which we can't then reflect in past GitLab versions that we support.
 
-We will minimize such logic and remove it from the application code whenever possible, seeking alternative solutions. 
+We will minimize such logic and remove it from the application code whenever possible, seeking alternative solutions.
 
 ### Prioritization Process
 
-Our roadmap is prioritized and scheduled following our [Project management process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning). 
- 
+Our roadmap is prioritized and scheduled following our [Project management process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#project-management-process). We aim to update this roadmap every month as a part of our milestone [planning process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#planning).
+
 To request work to be added to the Fulfillment roadmap, please follow our [intake request process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request). Changes in priorities of this roadmap follow our [prioritization process](https://about.gitlab.com/handbook/engineering/development/fulfillment/#prioritization).
- 
+
 The source of truth for all Fulfillment projects is our **[in-product Fulfillment Roadmap](https://gitlab.com/groups/gitlab-org/-/roadmap?state=all&sort=end_date_asc&layout=QUARTERS&timeframe_range_type=THREE_YEARS&label_name%5B%5D=Fulfillment+Roadmap&progress=COUNT&show_progress=true&show_milestones=false&milestones_type=GROUP)**.
-       
+
 By nature of our [direction](https://about.gitlab.com/direction/fulfillment/), Fulfillment works mostly on highly cross-functional projects where either or both of the following are true:
 1. Many cross-team dependencies: project execution relies on collaboration with other teams, with significant coordination of time and resources required.
 1. Downstream impacts: projects may change how other teams operate (e.g., Field Operations, Enterprise Apps, Billing) and may also impact the success of their efforts (e.g., achieving sales efficiency targets, accomplishing e-commerce conversion goals)
- 
+
 To focus on the most impactful work, Fulfillment’s prioritization process seeks to:
 1. Prioritize the highest ROI initiatives as measured by long-term impact on GitLab, Inc’s value. (Note: “cost to build” is a key consideration in the I of the ROI calculation)
 1. Provide future visibility into priorities to adequately plan cross-team and cross-functional resource needs.
 1. Minimize waste and churn due to re-prioritization mid-execution.
- 
+
 #### Prioritization Criteria
 
 A project will be prioritized in the Fulfillment roadmap based on the considerations below.
@@ -844,40 +846,40 @@ A project will be prioritized in the Fulfillment roadmap based on the considerat
    1. Consider the time and resources required to complete the initiative.
    1. Consider a solution that is long-term sustainable, and corresponds to the revenue/cost impact estimated.
    1. For efforts that are not well understood, we will start by assuming a larger effort to account for unknowns. As we do some scoping, we can refine the cost/complexity.
- 
+
 All initiatives, regardless of who requests them, will be evaluated based on this same criteria.
- 
+
 Some initiatives will have a direct impact on these criteria, but others will have an indirect impact. We will consider indirect impact as part of the prioritization.
 
 When scoping new solutions we will prefer those that best allow GitLab to scale and accelerate future work. These solutions often require more upfront foundational work, which we will include in the initial scope. In cases when we decide to accelerate a solution by skipping on some foundational work, we will add this foundational work as a separate line item to the roadmap.
- 
+
 **A note on Customer Satisfaction**: to understand the impact of efforts aimed at improving customer satisfaction, we should estimate the indirect impact of improving CSAT on revenue and cost. For example, by reducing the number of steps or improving the steps required to purchase we will see an increase in conversion rate and thus revenue.
- 
+
 #### Scheduling new work
 
 Prioritization based on the established criteria will drive the order in which work is scheduled to be completed. The product team will review overall prioritization regularly. Before changing priorities, will consider:
 1. Efficiency and morale impact of disrupting ongoing efforts
 1. Impact of changes to existing customer and partner commitments
 1. Feedback from cross-functional partners
- 
+
 To minimize impact and give more predictability to partner teams, we will minimize changes to initiatives that we’ve already agreed with cross-functional partners to do within the ongoing quarter.
- 
+
 Anyone can request new items to be added to the roadmap via an [intake request](https://about.gitlab.com/handbook/engineering/development/fulfillment/#intake-request).
- 
+
 #### Quarterly cross-functional review
 
 One of our prioritization goals is to maximize overall team output across Fulfillment and cross-functional partners. We want to give transparency to all GitLab team members about the work that Fulfillment and its partner teams plan to deliver.
- 
+
 To enable this, we will do a roadmap review with our [stable counterparts](https://about.gitlab.com/handbook/engineering/development/fulfillment/#stable-counterparts) before the beginning of a new fiscal quarter. As part of this review, we gather feedback on roadmap priorities, update the roadmap based on the feedback, and agree with partners on the scope and delivery milestones for the upcoming 3-6 months.
- 
+
 During these quarterly reviews we will aim to commit up to 70% of Fulfillment’s engineering capacity for the upcoming quarter, and no more than 30% of capacity for the quarter after. This is meant to provide enough visibility into upcoming activities for cross-functional partners to plan for them while leaving room for reprioritization and changes as needed.
- 
+
 #### Communicating roadmap changes
 
 Any proposed changes to the roadmap will be first communicated to cross-functional partners async in a relevant Slack channel with the relevant context and rationale, and ask for feedback. As needed, a synchronous meeting will be scheduled to discuss. All feedback will be considered by the product team and a final decision will be made and communicated once made.
 
 ### Fulfillment Prioritization Escalations
 
-If you have an urgent Fulfillment need that is not being prioritized by Fulfillment's regular prioritization process due to competing priorities, and it is both important and urgent, please work with your division's leadership for escalation. The first step can be an async discussion involving Fulfillment leadership (as of now include [ofernandez2](https://gitlab.com/ofernandez2)). Situations in which competing company-priority projects would need to be reprioritized to accommodate your request may require escalation to GitLab's [e-group](/handbook/company/team/structure/#executives). 
+If you have an urgent Fulfillment need that is not being prioritized by Fulfillment's regular prioritization process due to competing priorities, and it is both important and urgent, please work with your division's leadership for escalation. The first step can be an async discussion involving Fulfillment leadership (as of now include [ofernandez2](https://gitlab.com/ofernandez2)). Situations in which competing company-priority projects would need to be reprioritized to accommodate your request may require escalation to GitLab's [e-group](/handbook/company/team/structure/#executives).
 
 Team members in our Sales and Customer Success groups should escalate first via the [Top ARR Drivers meeting](/handbook/product/product-processes/#top-arr-drivers) for cross-team leadership visibility and prioritization. Simply add your item to the list of asks (link in the meeting agenda) for discussion.

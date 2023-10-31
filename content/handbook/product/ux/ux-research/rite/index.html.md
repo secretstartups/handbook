@@ -1,19 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "Rapid Iterative Testing and Evaluation (RITE)"
 description: "Using the RITE methodology at GitLab"
 ---
 
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
+#
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 
 [Rapid Iterative Testing and Evaluation (RITE)](https://uploads-ssl.webflow.com/5d7142044df04fbb477795a2/5ef34f1709bc2ec95a6d3089_ef8a91900840263a4036b0433a389b7097b2.pdf) is a [usability testing method](/handbook/product/ux/ux-research/usability-testing/) where you evaluate a solution to a usability problem multiple times in a rapid and iterative manner. The goal is to identify not just usability problems, but also to react quickly on identified issues and test new solutions that cater to them. The end result of a RITE study is an experience (along with solutions to usability issues) that has been fully usability tested. This translates to an experience that we can be **highly confident** about shipping (in the context of usability), which helps to remove uncertainty around whether a proposed solution will be usable.
 
 ### How a RITE study works
+
 Conducting a RITE study is quite simple and is similar to conducting a traditional usability test.  The differences are: 1) the sample size, and 2) immediately addressing issues as they are found.  The diagram below illustrates the workflow to follow when conducting a RITE study.
 
 <img src='RITE_workflow.png' ALT='Workflow to take for a RITE study'>
@@ -31,7 +32,7 @@ To summarize:
 
 In comparison to other usability testing protocols, RITE consists of the following elements:
 
-- **It’s rapid and iterative:** RITE tests are run regularly with a smaller number of participants. Each usability problem identified you aim to fix _immediately_ and _test again_ with a new set of participants. This process continues until no new usability issues are identified. 
+- **It’s rapid and iterative:** RITE tests are run regularly with a smaller number of participants. Each usability problem identified you aim to fix *immediately* and *test again* with a new set of participants. This process continues until no new usability issues are identified.
 
 
 - **Classification of issues:** To move quickly with the test sessions, usability problems identified in a session are categorized into the following categories:
@@ -46,21 +47,23 @@ In comparison to other usability testing protocols, RITE consists of the followi
 - **Domain knowledge and decision making:** The decision makers of the team should be present or catch up on the session insights in order to quickly react on the learnings from each session. Domain knowledge is essential to estimate if the observed problems are likely to be a problem for others.
 
 ### Roles and expectations to make RITE successful
-RITE studies promise a rapid and iterative process for evaluating and improving design prototypes. It can only succeed if all contributors to the process are aware of their responsibilities and follow the schedule (timing and scheduling are critical to a successful RITE study). Make sure to inform yourself of your individual responsibilities and decide with your team what schedule best fits you. 
 
-- **Product Designer:** Make time to prepare a design prototype, set up a test in usertesting.com based on the prototype, and then launch it. Watch the sessions as soon as they are available and analyze insights. Share your observations in the team sync and decide what changes need to be made with the Product Manager. Document all identified usability problems by placing them into the three categories (A-C). Based on the learnings, you need time to work on future iterations. In the example schedule below, we aim to test two iterations per week, which means during this week, the majority of your time will be spent on running RITE. 
+RITE studies promise a rapid and iterative process for evaluating and improving design prototypes. It can only succeed if all contributors to the process are aware of their responsibilities and follow the schedule (timing and scheduling are critical to a successful RITE study). Make sure to inform yourself of your individual responsibilities and decide with your team what schedule best fits you.
+
+- **Product Designer:** Make time to prepare a design prototype, set up a test in usertesting.com based on the prototype, and then launch it. Watch the sessions as soon as they are available and analyze insights. Share your observations in the team sync and decide what changes need to be made with the Product Manager. Document all identified usability problems by placing them into the three categories (A-C). Based on the learnings, you need time to work on future iterations. In the example schedule below, we aim to test two iterations per week, which means during this week, the majority of your time will be spent on running RITE.
 
 - **Product Managers:** While optional, make time to watch each research session as soon as a study gets picked up. Share your observations in the team sync, and decide what changes need to be made with the Product Designer for the next iteration. In the example schedule below, we aim to test two iterations per week.
 
-- **Engineering:** Building great products is a team effort, and having exposure to real users regularly is crucial. While optional, it’s recommended to make time to watch some or all of the sessions and contribute your insights in the team sync. 
+- **Engineering:** Building great products is a team effort, and having exposure to real users regularly is crucial. While optional, it’s recommended to make time to watch some or all of the sessions and contribute your insights in the team sync.
 
 ### Sample size
-The sample size for RITE studies is both unique and critical to follow. It's fairly simple: 
+
+The sample size for RITE studies is both unique and critical to follow. It's fairly simple:
 - N = 3 for each iteration and N = 5 to complete the process.
 
 You only need 3 participants per iteration because as more iterations are made, the N increases, which provides that opportunity to capture additional usability issues. Over time, a larger number of users provides feedback on the product, and you fix the problems you identify as you go.
 
-The RITE process is completed if you don’t identify any new usability issues in an iteration. However, a sample size of 5 participants is recommended to increase the likelihood of identifying the majority of usability issues. Therefore, if your iteration doesn’t bring in any new usability issues, add two more participants to ensure that all usability problems were identified. 
+The RITE process is completed if you don’t identify any new usability issues in an iteration. However, a sample size of 5 participants is recommended to increase the likelihood of identifying the majority of usability issues. Therefore, if your iteration doesn’t bring in any new usability issues, add two more participants to ensure that all usability problems were identified.
 
 ### Metrics
 
@@ -77,6 +80,7 @@ The key thing to remember when writing your tasks is [that they reflect realisti
 A RITE study can take place in as little as a single day, or up to as long as it takes.  The below example spans 5 days and is merely used to illustrate the process. If your team prefers a different pace, feel free to adjust the timeline accordingly. The example schedule is built to fit unmoderated usability testing using usertesting.com. If you prefer to run a moderated session, allow additional time for recruiting.
 
 #### Day 1 - Preparation
+
 Gather your team, and agree on a timeline on the following:
 
 - When will the test session go live in usertesting.com?
@@ -87,22 +91,26 @@ Gather your team, and agree on a timeline on the following:
 Prepare prototypes and the test script (this should be the same or similar to what you used for the baseline usability test).
 
 #### Day 2  - Test Day
-Run a pilot session, watch the recording, and adust your test plan as needed. 
 
-Next, launch your test in usertesting.com to three participants.  Depending on how quickly the test comes back, analyze insights and organize identified usability problems using the [RITE classification](/handbook/product/ux/ux-research/rite/#elements-of-rite). Feel free to use a copy of [this Figjam board](https://www.figma.com/file/JnK2uxneSYSt9KuLCZEGql/RITE-usability-problems?type=whiteboard&t=rEDan9mX9AvU8LZU-0). 
+Run a pilot session, watch the recording, and adust your test plan as needed.
+
+Next, launch your test in usertesting.com to three participants.  Depending on how quickly the test comes back, analyze insights and organize identified usability problems using the [RITE classification](/handbook/product/ux/ux-research/rite/#elements-of-rite). Feel free to use a copy of [this Figjam board](https://www.figma.com/file/JnK2uxneSYSt9KuLCZEGql/RITE-usability-problems?type=whiteboard&t=rEDan9mX9AvU8LZU-0).
 
 #### Day 3 - Sync with team
+
 Everyone in the team should have a chance to watch the three sessions and become aware of the identified usability problems. Share your learnings and decide on the scope for the next session. Adjust and prepare your prototype accordingly. Remember that Category A issues should be fixed before the new test round.
 
 #### Day 4 - Test Day
-Same as Day 2: Launch your test in usertesting.com with three participants. Analyze insights and classify identified issues. 
+
+Same as Day 2: Launch your test in usertesting.com with three participants. Analyze insights and classify identified issues.
 
 #### Day 5 - Sync with team
-Same as Day 3: Everyone in the team should have a chance to watch the session and contribute to deciding how to act upon the learnings. 
 
-You can repeat this process in the same milestone or in an upcoming one, depending on how long it takes to find solutions for issues in Category B, as well as other activities that need to be taken care of. Document usability issues in Category B (Issues with an obvious solution that can’t be implemented immediately) in GitLab for future planning of work. 
+Same as Day 3: Everyone in the team should have a chance to watch the session and contribute to deciding how to act upon the learnings.
 
-The process is considered complete when usability issues are no longer found in a sample of 5 participants, and you're confident that your solution is user friendly, which may not happen within one milestone. 
+You can repeat this process in the same milestone or in an upcoming one, depending on how long it takes to find solutions for issues in Category B, as well as other activities that need to be taken care of. Document usability issues in Category B (Issues with an obvious solution that can’t be implemented immediately) in GitLab for future planning of work.
+
+The process is considered complete when usability issues are no longer found in a sample of 5 participants, and you're confident that your solution is user friendly, which may not happen within one milestone.
 
 ---------------
 

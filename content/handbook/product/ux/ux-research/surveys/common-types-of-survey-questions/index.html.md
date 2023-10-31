@@ -1,19 +1,19 @@
 ---
-layout: handbook-page-toc
+
 title: "Common types of survey questions"
 description: "This page touches upon some of the common types of survey questions that are commonly used in UX research at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 There are many types of survey questions to choose from when designing your survey.  Determining which kind of survey question to choose to use depends on the data you need to collect. Below are some of the more common survey question types that we use at GitLab.
 
 
-- **Open ended** - Typically a comment box or a single line where respondents can type in responses. 
+- **Open ended** - Typically a comment box or a single line where respondents can type in responses.
      - Best for: qualitative data such as providing feedback
      - Things to watch for: don’t use too many of these types of questions, time-consuming to analyze, participants tend to skip them and/or leave limited detail
 
@@ -62,7 +62,7 @@ There are many types of survey questions to choose from when designing your surv
 
 | **Question type** | **Goal of this sample question**                            | **Poor wording version**                                                        | **Problem with the wording**                                            | **Better wording version**                                                                                                           |
 |-------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| Open-ended        | Acquire feedback on the GitLab experience                   | _“How great is the GitLab experience?”_                                         | Positively biased                                                       | _“Tell us about your experience using GitLab.”_                                                                                      |
-| Multiple choice   | Understanding how many hours respondents use GitLab per day | _“How many hours do you use GitLab per day?” (1-2 \| 2-3 \| 3-4 \| 4-5 \| 5-6)_ | Overlapping options, lack of scoped timeframe, no option for ‘other___’ | _“Within the last week, how many hours have you used GitLab per day?” (1-2 \| 3-4 \| 5-6 \| Other:___)_                              |
-| Rating scale      | Net Promoter Score                                          | _“How likely are you to recommend GitLab…” (0-10)_                              | Scale is not defined                                                    | _“How likely are you to recommend GitLab…” (0 (not likely) -10 (very likely))_                                                       |
-| Likert scale      | Understand satisfaction of the GitLab experience            | _“How was your GitLab experience?” (Awesome \| Amazing \| Great \| Good \| OK)_ | Unbalanced scale                                                        | _“How satisfied were you with the GitLab experience?” (Very dissatisfied \| Dissatisfied \| Neutral \| Satisfied \| Very satisfied)_ |
+| Open-ended        | Acquire feedback on the GitLab experience                   | *“How great is the GitLab experience?”*                                         | Positively biased                                                       | *“Tell us about your experience using GitLab.”*                                                                                      |
+| Multiple choice   | Understanding how many hours respondents use GitLab per day | *“How many hours do you use GitLab per day?” (1-2 \| 2-3 \| 3-4 \| 4-5 \| 5-6)* | Overlapping options, lack of scoped timeframe, no option for ‘other___’ | *“Within the last week, how many hours have you used GitLab per day?” (1-2 \| 3-4 \| 5-6 \| Other:*__)_                              |
+| Rating scale      | Net Promoter Score                                          | *“How likely are you to recommend GitLab…” (0-10)*                              | Scale is not defined                                                    | *“How likely are you to recommend GitLab…” (0 (not likely) -10 (very likely))*                                                       |
+| Likert scale      | Understand satisfaction of the GitLab experience            | *“How was your GitLab experience?” (Awesome \| Amazing \| Great \| Good \| OK)* | Unbalanced scale                                                        | *“How satisfied were you with the GitLab experience?” (Very dissatisfied \| Dissatisfied \| Neutral \| Satisfied \| Very satisfied)* |

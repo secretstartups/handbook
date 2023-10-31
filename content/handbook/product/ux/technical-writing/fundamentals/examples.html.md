@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Editing content into different topic types"
 description: "View examples of how to transform content into concept, task, reference, and troubleshooting topics."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 We often write pages of documentation that contain disparate kinds of information.
 We want to make sure we're telling readers everything they need to know.

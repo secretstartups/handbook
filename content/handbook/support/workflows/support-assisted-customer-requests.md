@@ -5,8 +5,8 @@ description: "GitLab Support Assisted customer requests"
 category: References
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Overview
 

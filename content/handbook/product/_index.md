@@ -1,20 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: Product Handbook
 description: "Most of the content in the product handbook talks about _how_ we do product at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Welcome to the Product Team Handbook
 
 - The Product Team  is led by [David DeSanto](/company/team/#david).
-- The Product Handbook focuses on _how_ we do product at GitLab.
-- Please see [Product Direction](/direction/) to learn about _what_ the Product Team plans to build.
+- The Product Handbook focuses on *how* we do product at GitLab.
+- Please see [Product Direction](/direction/) to learn about *what* the Product Team plans to build.
 
 ## Product Team Functions
 
@@ -33,21 +33,21 @@ description: "Most of the content in the product handbook talks about _how_ we d
 - **It’s about our customers and doing a job for them**, not the product itself. Think externally about customer problems, not internally about the technology.
 - **It’s about love AND value**. Will customers value what we are building? We need to make sure what we build helps build and extract customer value.
 
-## Contributing to the Product Handbook 
+## Contributing to the Product Handbook
 
-The product handbook is widely referenced by product managers and cross-functional team members. Therefore, we want to follow a consistent change management process so all affected collaborators are aligned and informed when there are changes (specially new requirements, processes, meetings, etc.) that affect their workflow. To help ensure awareness across teams, when suggesting a change to the product handbook, please use the `Change-Product-Handbook` [merge request description template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Change-Product-Handbook.md). This ensures your changes are included in [Product Operations Releases](/handbook/product/product-operations/#product-operations-releases). 
+The product handbook is widely referenced by product managers and cross-functional team members. Therefore, we want to follow a consistent change management process so all affected collaborators are aligned and informed when there are changes (specially new requirements, processes, meetings, etc.) that affect their workflow. To help ensure awareness across teams, when suggesting a change to the product handbook, please use the `Change-Product-Handbook` [merge request description template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Change-Product-Handbook.md). This ensures your changes are included in [Product Operations Releases](/handbook/product/product-operations/#product-operations-releases).
 
 This template will also help you out by automatically adding labels and assigning required reviewers.
 
 You will also be asked to indicate which type of change you are suggesting:
-* Small improvement (typos, clarifications, etc.)
-* Adding a new section
-* Modifying existing section
-* Documenting a new process
-* Adding a new page or directory
-* Other
+- Small improvement (typos, clarifications, etc.)
+- Adding a new section
+- Modifying existing section
+- Documenting a new process
+- Adding a new page or directory
+- Other
 
-For a small improvement, please feel free to merge the MR yourself. Otherwise, the template will ping Product Operations for collaboration and review, and the guidance below should be followed for driving awareness: 
+For a small improvement, please feel free to merge the MR yourself. Otherwise, the template will ping Product Operations for collaboration and review, and the guidance below should be followed for driving awareness:
 
 ### Informing team members about the changes
 
@@ -102,6 +102,7 @@ Understand the OKR Process for the GitLab Product Team and review current and pa
 Learn about our Product Leadership Team and learn about them via their personal README’s.
 
 ### Popular Product Resources
+
 - [**Data for Product Managers**](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 - [**Internal Product Handbook**](https://internal.gitlab.com/handbook/product/) (must access through OKTA)
 - [**Learning and Development for Product Management**](/handbook/product/product-manager-role/learning-and-development/)
@@ -122,7 +123,7 @@ Learn about our Product Leadership Team and learn about them via their personal 
 
 Below are team emails and handles that can be used for different departments and sub-departments in the Product Division. These groups are used for internal communication and the `@mention` can only be used by project members. Please remember that tagging `@mention` on issues will generate in-product [to-do items](https://docs.gitlab.com/ee/user/todos.html) and email notifications to **all** team members in that project, so use it only when you need to communicate with the entire team. For communication specifically for product managers, please leverage [How to Engage](https://about.gitlab.com/handbook/product/how-to-engage/).
 
-- `@gl-product-leadership` tags all group managers, directors and VPs in the Product Division 
+- `@gl-product-leadership` tags all group managers, directors and VPs in the Product Division
 - `@gl-product-plt` tags all direct reports to the VP Product in the Product Division
 - `@gl-product` tags to all members of Product Management, Product Monetization and Product Operations in the Product Division
 - `product@gitlab.com` emails all members of Product Management, Product Monetization and Product Operations in the Product Division
@@ -130,7 +131,7 @@ Below are team emails and handles that can be used for different departments and
 - `@gitlab-com/gitlab-ux` tags all members of UX (UX Research, Technical Writing and Product Design) in the Product Division
 - `@gitlab-com/gitlab-ux/managers` tags all people managers within UX (UX Research, Technical Writing, and Product Design)
 - `@gitlab-com/gitlab-ux/designers` tags all Product Designers and Design Managers in UX
-- `@gl-docsteam` for all Technical Writers in UX 
+- `@gl-docsteam` for all Technical Writers in UX
 
 When you are tagging `@mention`:
 

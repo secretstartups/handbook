@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "System Usability Scale Database"
 description: "Gitlab stores all previously recorded SUS surveys in the Sisense App to allow easy access for all team members."
 ---
 
-### On this page
-{:.no_toc .hidden-md .hidden-lg}
+#
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-The [System Usability Scale](https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Gitlab uses SUS as one of the [UX Department's Key Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey. 
+
+
+
+The [System Usability Scale](https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Gitlab uses SUS as one of the [UX Department's Key Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey.
 
 Team members often need to look at past or present SUS scores or surface insights from the verbatims that users provide. In the past, this access to past SUS data was labor intensive. So, the UX Research Team collected and built a [SUS Database](https://app.periscopedata.com/app/gitlab/topic/SUS-Database/abdcbad729a343a09bf38824ef3585d3) in Sisense (internal access only), so that any team member can view all past SUS data points. Everyone at Gitlab is granted a View-only license to Sisense, but you can [request access](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to an Editor role, if you believe that is necessary for your role.
 
@@ -24,16 +24,16 @@ The SUS Database contains information for every quarter of our SUS campaigns. A 
 
 There are 2 main tables in our SUS Database:
 
--  **sus_all_data** contains the main columns of raw data that we collect for SUS, as well as a collection of sentiment analysis. This would be the main table to use for most queries.
-  - Important Columns: 
+- **sus_all_data** contains the main columns of raw data that we collect for SUS, as well as a collection of sentiment analysis. This would be the main table to use for most queries.
+  - Important Columns:
     - doc_id: A unique identifier for each participant.
-    - quarter: Format: FY[year]Q[quarter] (ex: FY21Q4). The quarter which the row of data was collected from. 
+    - quarter: Format: FY[year]Q[quarter] (ex: FY21Q4). The quarter which the row of data was collected from.
     - text_raw: The participant's verbatim from the survey.
     - theme: A hand coded label that associates the participant's verbatim with a UX theme.
     - su: The participant's calculated sus score from the survey.
     - plan: manual data entered from previous handoff.
-    - primary_stage: A hand coded label that associates the participant's verbatim with a Gitlab Stag. A secondary stage could also be present in the secondary_stage column. 
--  **sus_indiv_scores** contains participant answers to the individual questions of the SUS score.
+    - primary_stage: A hand coded label that associates the participant's verbatim with a Gitlab Stag. A secondary stage could also be present in the secondary_stage column.
+- **sus_indiv_scores** contains participant answers to the individual questions of the SUS score.
   - Important Columns (Q1-10): A column for each participant's answers to the individual SUS questions.
 
 There is no Personal Identifiable Information (PII) in any of our data. If you have any questions about what other data is present or what the columns mean in our tables, please message the [#ux_research](https://gitlab.slack.com/archives/CMEERUCE4) Slack channel.
@@ -64,7 +64,7 @@ When viewing a dashboard, there are many different options available to customiz
 
 One of the most common things to do is filter the data on specific columns. As a part of our SUS database, we have created some global filters options for the most used columns: Quarter, Primary Stage, Secondary Stage, Theme, and Plan.
 
-To use these filters, click on `FILTERS` near the top of the page. 
+To use these filters, click on `FILTERS` near the top of the page.
 
 ![Sisense Filter](/images/uxresearch/sus-filter.png)
 
@@ -81,17 +81,17 @@ There are many ways you can explore the SUS data to find what you are looking fo
 
 For example, if you want to find the average SUS score for each Gitlab Plan type:
 
-1.  Click the ☰ icon and select `Edit Pivot`.
-2.  Drag `PLAN` to the box labeled `Rows`. You will see a live view of your data in the background of the webpage.
-3.  Drag `SUS_SCORE` to the box labeled `Values`.
-4.  Click `SUS_SCORE`.
-5.  In the left dropdown, make sure `Average` is selected.
-6.  In the right dropdown, make sure `Number` is selected.
-7.  Click the X icon.
+1. Click the ☰ icon and select `Edit Pivot`.
+2. Drag `PLAN` to the box labeled `Rows`. You will see a live view of your data in the background of the webpage.
+3. Drag `SUS_SCORE` to the box labeled `Values`.
+4. Click `SUS_SCORE`.
+5. In the left dropdown, make sure `Average` is selected.
+6. In the right dropdown, make sure `Number` is selected.
+7. Click the X icon.
 
 If you want to create a visualization with the data, the best method is to click the ✎ icon in the table that contains the data you are looking for. On the right-hand side, there is a section labeled `SERIES SETTINGS`. The first dropdown contains options for multiple different types of visualizations.
 
-_Don't be afraid to change the settings to get the visualization you want. You will not break anything!_
+*Don't be afraid to change the settings to get the visualization you want. You will not break anything!*
 
 Lastly, if you are familiar with SQL, then you can click `NEW CHART` and search for "sus" in the search box to find the tables you want. You can write whatever query you want, and click `RUN SQL` to see the result.
 

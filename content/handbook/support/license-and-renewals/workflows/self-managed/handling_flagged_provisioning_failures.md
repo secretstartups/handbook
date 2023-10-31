@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Handling flagged licensing provisioning failures
 description: "How to handle flagged licensing provisioning failures"
 category: GitLab Self-Managed licenses

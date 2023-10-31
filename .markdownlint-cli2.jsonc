@@ -2,5 +2,9 @@
   "outputFormatters": [
     [ "markdownlint-cli2-formatter-codequality" ],
     [ "markdownlint-cli2-formatter-pretty" ]
+  ],
+  "fix": true,
+  "ignores": [
+    "content/handbook/product/**/*.md"
   ]
 }

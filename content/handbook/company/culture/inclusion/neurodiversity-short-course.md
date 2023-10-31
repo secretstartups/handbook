@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Neurodiversity in the Workplace Short Course"
 description: "This page hosts the read section of the Neurodiversity in the Workplace Short Course"
 canonical_path: "/company/culture/inclusion/neurodiversity-short-course/"

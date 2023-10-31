@@ -1,6 +1,6 @@
 ---
 
-layout: markdown_page
+
 title: Associating a subscription with a namespace & troubleshooting errors
 description: "How to provision GitLab.com subscriptions"
 category: GitLab.com subscriptions & purchases

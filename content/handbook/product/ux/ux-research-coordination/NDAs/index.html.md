@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Non-Disclosure Agreements for UX Research"
 description: "Steps to take if an NDA is needed for your UX Research study"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 If we share information that is Confidential within a UX research study, as described in the [GitLab Code of Business Conduct and Ethics]( https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d), we may ask research participants to sign a Non-Disclosure Agreement (NDA). Typically, however, we don’t ask participants to sign an NDA. A best practice is to check with your Product Manager to see if an NDA is needed for your research. NDAs must be signed by both the participant AND a member of GitLab’s legal team.

@@ -1,15 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Secure and Govern Internship Program"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
+
 The best way to learn about something is by doing it. The best feedback
 comes directly from working with end-users and the product directly. At GitLab,
 we have the opportunity to get more direct product feedback and help folks
@@ -53,13 +54,14 @@ General goals of this internship are:
 1. Become familiar with user research, including how Problem and/or Solution validation is done at GitLab.
 1. Become familiar with the relevant group's product strategy and with how prioritization is done. Although the Product Manager remains the DRI for product priorities, interns are encouraged to openly share their insights on the priorities along with the rationale for their thoughts.
 1. Perform one or more of the following:
-  1. Under the guidance of the mentor, lead research in a Problem Validation cycle to gather information about user needs.  The intern will conclude by proposing next steps to be taken along with creating issues/epics for any relevant product improvements.
-  1. Under the guidance of the mentor, collaborate with a Product Designer to define the requirements and user experience for a feature.  The intern will be responsible for taking this feature through planning breakdown and working with the engineering team on the execution of the feature.
-  1. Under the guidance of the mentor, do extensive competitive, market, and analyst research to refine our product strategy.  The intern will be responsible for proposing updates to direction pages to better describe our competitive position and our strategy to prioritize development in a way that optimizes the value we provide to our users.
+1. Under the guidance of the mentor, lead research in a Problem Validation cycle to gather information about user needs.  The intern will conclude by proposing next steps to be taken along with creating issues/epics for any relevant product improvements.
+1. Under the guidance of the mentor, collaborate with a Product Designer to define the requirements and user experience for a feature.  The intern will be responsible for taking this feature through planning breakdown and working with the engineering team on the execution of the feature.
+1. Under the guidance of the mentor, do extensive competitive, market, and analyst research to refine our product strategy.  The intern will be responsible for proposing updates to direction pages to better describe our competitive position and our strategy to prioritize development in a way that optimizes the value we provide to our users.
 1. Write a report and create collateral detailing their experience and the
   steps above.
 
 ## Benefits
+
 This program benefits everyone involved in a variety of different ways.
 
 ### For the Intern
@@ -116,6 +118,7 @@ This program benefits everyone involved in a variety of different ways.
 1. Provides valuable feedback that can help drive better product decisions.
 
 ### For the mentor
+
 1. Get direct access to an "end-user" to better understand their perspective
   and challenges.
 1. Get practice acting as a mentor and coach.
@@ -128,6 +131,7 @@ for past iterations. The mentor and intern are responsible for setting the
 schedule and deliverables that make sense for them.
 
 ### Define the goals
+
 At the start of the internship, the mentor and intern should decide what the goals
 of the internship are. This should include either a hands-on application of a GitLab
 security tool to some open source project or a specific product task to be accomplished
@@ -138,7 +142,8 @@ open source project.
 Submit your final list of goals to the section leader for approval. The most effective way to do this is to work with your selected mentor and [create an issue](https://gitlab.com/gitlab-com/Product/-/issues/new?issue).
 
 ### Deliver on the goals
-The majority of the internship should be spent _doing_, rather than talking
+
+The majority of the internship should be spent *doing*, rather than talking
 about doing. To that end, for the open source track, a big piece of the
 internship should be spent on working with the open source projects directly,
 rather than working with GitLab teams. For the shadow intern track, the intern
@@ -148,6 +153,7 @@ meetings should be secondary; however, to accomplishing the stated goals.
 Priority should be given to meetings that are directly connected with accomplishing those goals.
 
 ### Share your experiences
+
 At the end of the internship, the intern should produce some sort of content
 about their time in the program and what they did. This could be a blog, a
 YouTube video, conference presentation, or anything that is agreed upon. The
@@ -197,6 +203,7 @@ To apply, please reach out to both Hillary Benson (`@hbenson`) and the mentor li
   and follow that process.
 
 ### Mentors
+
 If you are willing to act as a mentor for the program, you should do a few
 things:
 
@@ -207,6 +214,7 @@ things:
 1. Add your availability and name to the chart above.
 
 ### Open-source projects
+
 If you are an open-source project hosted on GitLab.com, we would love to have
 you work with one of our interns as part of this program! If you're interested,
 please create an issue and tag us! If you haven't already, consider also

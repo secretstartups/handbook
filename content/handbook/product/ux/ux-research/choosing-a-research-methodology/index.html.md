@@ -1,17 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: "Choosing a research methodology"
 description: "How to choose a research methodology: detail vs frequency, user characteristics, and fidelity of insight"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
-When choosing the appropriate methodology (see handbook pages for [problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/) and [solution validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) methods) for your research question, there are multiple factors to consider: 
+
+
+
+
+
+When choosing the appropriate methodology (see handbook pages for [problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/) and [solution validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) methods) for your research question, there are multiple factors to consider:
 
 - The need to understand the details of an issue versus its frequency of occurring
 - The characteristics of your users and their usage
@@ -29,7 +29,7 @@ Once you have an idea of the types of issues your users are experiencing, you ma
 
 #### Characteristics of your users
 
-The next thing you'll want to think about when devising your study is the characteristics of your users' behavior or specific actions you're looking to study. Do all people perform a certain behavior in the same way, or does it vary, perhaps based on their role? Take for example administrators versus regular users. Their understanding and usage of the product will likely be very different. In that case, you would want to be sure you recruit people in different roles. 
+The next thing you'll want to think about when devising your study is the characteristics of your users' behavior or specific actions you're looking to study. Do all people perform a certain behavior in the same way, or does it vary, perhaps based on their role? Take for example administrators versus regular users. Their understanding and usage of the product will likely be very different. In that case, you would want to be sure you recruit people in different roles.
 
 Does usage change over time? Perhaps you're interested in studying how people learn to use a new feature. It might be a good idea to talk to users at multiple intervals as they learn the feature, or at least recruit users at different points on the spectrum of usage.
 
@@ -37,7 +37,7 @@ The important thing is to think about how usage might be different for people ba
 
 #### Fidelity of insight
 
-People often ask at what stage of product development they should be conducting UX research. The reality is that you can conduct research at [every stage](/handbook/product-development-flow/#workflow-summary) of development with different levels of detail. The fidelity of research insights follows the fidelity of design. 
+People often ask at what stage of product development they should be conducting UX research. The reality is that you can conduct research at [every stage](/handbook/product-development-flow/#workflow-summary) of development with different levels of detail. The fidelity of research insights follows the fidelity of design.
 
 If you have a hand drawn product flow on some pieces of paper, you can put that in front of users and get a basic, high level idea of how they comprehend the experience. The key phrase being *high level*, you won't get any detail and you shouldn't try. If you then turn that flow into a high fidelity prototype where users can click hotspots on a series of screen images to progress through the flow, you can get more detail, but still not as much as if they were interacting with a production interface.
 

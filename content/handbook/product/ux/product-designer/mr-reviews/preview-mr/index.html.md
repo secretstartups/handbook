@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: Merge Request Reviews
 description: "Guidelines for Product Designers when reviewing merge requests."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 

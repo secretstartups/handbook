@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Analyzing survey verbatim"
 description: "Guidelines for how to analyze survey verbatim"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 [Verbatim are comments that are submitted to open-ended questions](https://goascribe.com/blog/verbatim-coding-for-survey-research/) (e.g.,” Is there anything that you’d like to share with us about GitLab’s usability?”) that are typically asked in a survey where respondents can type in their responses in a free-form format. A verbatim analysis helps us understand different phenomena, like the user experience, by looking for themes across those responses.
 
@@ -24,17 +24,20 @@ There are two different approaches to categorizing verbatims.
 Analyzing verbatim generally follows the steps below. The exact steps that you take will depend on the scope and goals of your research project.
 
 ## Steps in Verbatim Analysis
+
 ### Top-down approach
-1. Identify your data by sorting and “cleaning” it 
-2. Assign final themes 
-3. Create a summary table 
+
+1. Identify your data by sorting and “cleaning” it
+2. Assign final themes
+3. Create a summary table
 
 ### Bottom-up approach
-1. Identify your data** by sorting and “cleaning” it 
-2. *Familiarize yourself with the data 
-3. *Assign early drafts of codes 
+
+1. Identify your data** by sorting and “cleaning” it
+2. *Familiarize yourself with the data
+3. *Assign early drafts of codes
 4. *Recursively refine and aggregate codes
-5. *Elevate codes to themes, iteratively 
+5. *Elevate codes to themes, iteratively
 6. Determine final themes
 7. Assign final themes
 8. Create a summary table
@@ -52,7 +55,7 @@ Select the data that you’re able to include in your analysis.We use the word �
 
 - **Some of your verbatim will not be actionable because it isn’t directly tied to your research goals or questions will need to be excluded from your analysis**. For example, for the SUS verbatim analysis, we don’t include verbatims that are only positive (e.g., ‘GitLab is a fine tool to help developers’) because they don’t inform our research goal of understanding the current usability problems with GitLab and identifying improvements.
 
-- **Some of your verbatim will include a lot of different ideas or thoughts.** In this case, you can clean your data by breaking those verbatim up so that they are only talking about one topic. This will allow you to more cleanly assign codes. For example, in the SUS analysis we broke up the verbatim paragraph in the table below into two separate verbatim, one about Navigation and one about Search. This makes it easier to assign codes for each section of the original verbatim. 
+- **Some of your verbatim will include a lot of different ideas or thoughts.** In this case, you can clean your data by breaking those verbatim up so that they are only talking about one topic. This will allow you to more cleanly assign codes. For example, in the SUS analysis we broke up the verbatim paragraph in the table below into two separate verbatim, one about Navigation and one about Search. This makes it easier to assign codes for each section of the original verbatim.
 
 | Original Verbatim | Verbatim 1 | Verbatim 2 |
 | ------ | ------ | ------ |
@@ -132,7 +135,7 @@ Table with examples:
 
 Generally, you’ll want to have a maximum of 10 themes. That’s because the more themes that you have, the harder it will be for you to get a clear read on your data. Some themes will not be able to be combined, and that’s ok.
 
-You might need to take a step back here, both conceptually and in terms of an actual break to take a walk, in order to think about ways to reduce the number of themes. For example, in our SUS verbatim analysis we created a separate list of topics (e.g., Pipelines) for each verbatim (e.g., “Pipelines are too complex and confusing”) so that we could create a shorter list of themes that reflected the user experience (e.g., theme: complex / confusing). This allowed us to reduce our SUS themes in verbatim analysis from a list of 23 themes to a smaller list of 10. Creating two different axes, or ways of looking at the data, is called a form of [axial coding](https://en.wikipedia.org/wiki/Axial_coding), which is a bit outside the scope of this handbook page. Suffice it to say that it can sometimes be helpful to create different types of themes to see how they relate to each other. As another example of using an additional coding axis, you might want to code each verbatim for valence, like the positive or negative emotions that they represent, so that you can see how user emotions expressed relate to different topics (e.g., which topics were talked about most positively). 
+You might need to take a step back here, both conceptually and in terms of an actual break to take a walk, in order to think about ways to reduce the number of themes. For example, in our SUS verbatim analysis we created a separate list of topics (e.g., Pipelines) for each verbatim (e.g., “Pipelines are too complex and confusing”) so that we could create a shorter list of themes that reflected the user experience (e.g., theme: complex / confusing). This allowed us to reduce our SUS themes in verbatim analysis from a list of 23 themes to a smaller list of 10. Creating two different axes, or ways of looking at the data, is called a form of [axial coding](https://en.wikipedia.org/wiki/Axial_coding), which is a bit outside the scope of this handbook page. Suffice it to say that it can sometimes be helpful to create different types of themes to see how they relate to each other. As another example of using an additional coding axis, you might want to code each verbatim for valence, like the positive or negative emotions that they represent, so that you can see how user emotions expressed relate to different topics (e.g., which topics were talked about most positively).
 
 Table with example:
 

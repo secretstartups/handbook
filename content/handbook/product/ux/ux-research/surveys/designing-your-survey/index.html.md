@@ -1,20 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "Designing your survey"
 description: "A list of tips to consider when designing your UX research survey."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-Designing a survey isn’t easy.  It requires thoughtful planning to make sure the flow of the survey is easy to follow, the questions are clear to the respondent, and that the output will yield accurate data. 
+
+
+
+
+Designing a survey isn’t easy.  It requires thoughtful planning to make sure the flow of the survey is easy to follow, the questions are clear to the respondent, and that the output will yield accurate data.
 
 Here are some of the more important tips to consider when designing a survey:
 
-1. **Only include survey questions that directly relate to your research questions.** It can be exciting to learn about your users and survey writers have a tendency to include questions that they are curious about, but that won’t impact their product decisions or planning directly. Best practice is to start with a planning table where you list your research questions in one column, the survey questions that you’ll use to answer your research questions in another one, and what you plan to do with your data in a third column. This will help you to think through whether or not your questions are nice-to-have or necessary in order for you to answer your research questions. 
+1. **Only include survey questions that directly relate to your research questions.** It can be exciting to learn about your users and survey writers have a tendency to include questions that they are curious about, but that won’t impact their product decisions or planning directly. Best practice is to start with a planning table where you list your research questions in one column, the survey questions that you’ll use to answer your research questions in another one, and what you plan to do with your data in a third column. This will help you to think through whether or not your questions are nice-to-have or necessary in order for you to answer your research questions.
 1. **Ensure the questions are clear and cannot be easily confused.** Since surveys are unmoderated, you won’t be there to provide clarification.  That means that your survey and accompanying questions need to be simple and clear to your respondents.  A great way to determine this is by piloting a survey through [UserTesting.com](/handbook/product/ux/ux-research/unmoderated-testing/), where you can watch respondents think aloud while taking your survey. It’s also ok to provide definitions to terms when it makes sense.
 1. **Use neutral language.** Avoid positively or negatively worded questions to reduce any bias in your results. You’ll be surprised how easy it can be to inadvertently write your questions as leading.  
 1. **Make sure each question covers a single topic.** Avoid [double-barreled questions](https://www.qualtrics.com/experience-management/research/double-barreled-question/) by breaking out questions that are really 2+ questions in 1. Not only are double-barreled questions difficult to answer for respondents, they’re hard to analyze and act upon.
@@ -26,7 +26,7 @@ Here are some of the more important tips to consider when designing a survey:
      - **Open-ended questions are often skipped** - Filling out an open-ended survey question takes time and can be viewed as an annoyance by respondents. Because of that, they’re often skipped.
      - **Fatigue** - Too many open-ended questions can quickly lead to fatigue, resulting in survey abandonment.
 
-     Now, sometimes it’s necessary to ask open-ended survey questions.  When doing so, just be mindful of the above factors, and explore other survey question types first. If you end up with a lot of open-ended questions, reconsider your methodology. It may be more appropriate to start with an interview, and then run a survey to get a larger volume of answers. 
+     Now, sometimes it’s necessary to ask open-ended survey questions.  When doing so, just be mindful of the above factors, and explore other survey question types first. If you end up with a lot of open-ended questions, reconsider your methodology. It may be more appropriate to start with an interview, and then run a survey to get a larger volume of answers.
 
 1. **Avoid asking questions that force the respondent to estimate because it’s hard to estimate accurately.** What helps is to provide a designated time frame when asking common questions, like “How many times have you XYZ?” Without a scoped time frame, each participant will come up with their own and provide an estimate.  Instead, be crisp about a scoped timeframe for the user to think back about.  This will result in more accurate data across a consistent time frame.
 1. **Make sure the survey flows well.** Ask yourself if the ordering of the questions makes sense.  Questions about the same topic should be grouped together to avoid context switching. A best practice is to start with your most important questions at the beginning of the survey, in case respondents drop off.

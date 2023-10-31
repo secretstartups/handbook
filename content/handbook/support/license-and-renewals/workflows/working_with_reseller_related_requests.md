@@ -5,8 +5,8 @@ category: General
 description: This is a guide on how to handle requests involving Reseller.
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Overview
 

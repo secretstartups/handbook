@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: UX Theme Workshops
 description: "Guide to facilitating UX Theme workshops"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 
@@ -16,13 +16,13 @@ This document will serve as a helpful guide for navigating a team through the UX
 
 ## Preparing the workshop
 
-1. Create an issue in the GitLab Design Project using the UX Theme Workshop Template. 
+1. Create an issue in the GitLab Design Project using the UX Theme Workshop Template.
 2. Fill out the information in the issue template and assign it to yourself and the participants.
-3. Send a two-hour meeting invite to the participants (UX Theme workshop for <stage:group> 
+3. Send a two-hour meeting invite to the participants (UX Theme workshop for <stage:group>
     1. Add meeting invite details
     2. Link to issue in the meeting invite
-    3. Copy the agenda into the meeting invite 
-    4. Link to the homework section of the issue in the meeting invite. 
+    3. Copy the agenda into the meeting invite
+    4. Link to the homework section of the issue in the meeting invite.
     5. Change the due date to reflect the dates from the workshop issue.  
 
 Below is a template comment you can use for the meeting invite.
@@ -55,14 +55,14 @@ Once the Product Manager and Designer have supplied the required information mov
 
 ### Preparing the activities
 
-The activities will take place entirely in FigJam. Only `Step 1 - Warm-up: UX vision definition` and `Step 2 - Cluster inputs into theme bundles` require setup before the workshop. 
+The activities will take place entirely in FigJam. Only `Step 1 - Warm-up: UX vision definition` and `Step 2 - Cluster inputs into theme bundles` require setup before the workshop.
 
 1. Use [this FigJam template](https://www.figma.com/file/uu5scvnjO2iaGeaiGLYc5T/Template-UX-Theme-workshop-stagegroup_2023-08-23_11-13-15?type=whiteboard&t=0OCWWn7IaFbfH2we-1) and place it into the team's or stage's room.
 2. Change <stage:group> to the stage group the workshop is for.
 
 #### Section 1 setup
 
-Follow the links provided by the PM. 
+Follow the links provided by the PM.
 
 >💡 Tip: Not every direction page is consistent. You’ll likely find a mishmash of some or all of these sections within a Stage Group or Category page. You may even see inconsistencies across categories within the same Stage Group. Do the best you can in gathering the most relevant goals for each.
 
@@ -70,13 +70,13 @@ Follow the links provided by the PM.
 2. Read the Overview Mission, Vision, Letter from the Editor, and Strategic Direction sections. Pull outlines that will be relevant to help align the other workshoppers in crafting a UX vision and ultimately create the group's UX Themes for the year.
 3. Copy and Paste the lines and edit them into coherent sentences and paragraphs in the Section & Stage Goals text block.
 
-Move on to Category Goals: 
+Move on to Category Goals:
 
 1. Go to the Stage Group's Category page(s)
-2. Read the Overview Mission, Vision, Letter from the editor, and Strategic Direction sections* and pull out lines that you think will be relevant to help align the other workshoppers in the task of crafting a UX vision and ultimately creating this UX Roadmap 
+2. Read the Overview Mission, Vision, Letter from the editor, and Strategic Direction sections* and pull out lines that you think will be relevant to help align the other workshoppers in the task of crafting a UX vision and ultimately creating this UX Roadmap
 3. Copy and Paste the lines and edit them into coherent sentences and paragraphs in the Category goals text block
 
-_When complete, the FigJam should look like this:_
+*When complete, the FigJam should look like this:*
 
 ![Step-1 example](example-ux-theme-workshop-step-1.png)
 
@@ -88,11 +88,11 @@ Follow the links provided by the PM for the relevant feature issues. **Only** co
 
 > 💡 Tip: Ensure participants have enough space below the sticky notes to create theme bundles. At least ½ of the horizontal area should be blank.
 
-1. Copy and paste each issue title into a sticky note on the FigJam board at the top of Section 2. 
+1. Copy and paste each issue title into a sticky note on the FigJam board at the top of Section 2.
 2. Change the color of the stickies to yellow following the key in FigJam.
-3. Select all of the issues and arrange them into a grid. 
+3. Select all of the issues and arrange them into a grid.
 4. Copy and paste SUS-Impacting issues and change their color to match the key in FigJam.
-5. Copy and paste UX Debt issues and change their color to match the key in FigJam. 
+5. Copy and paste UX Debt issues and change their color to match the key in FigJam.
 6. Arrange these stickies into a grid and place them adjacent to the feature stickies.
 
 Next: Follow the links provided by the Design DRI for relevant insights and JTBD.
@@ -101,7 +101,7 @@ Next: Follow the links provided by the Design DRI for relevant insights and JTBD
 8. Copy and paste each JTBD into a sticky note. Change their color to match the key in FigJam.
 9. Arrange these stickies into a grid and place them adjacent to the feature, sus-impacting, and UX debt stickies.
 
-_When complete, the FigJam should look like this:_
+*When complete, the FigJam should look like this:*
 
 ![Step-2 example](example-ux-theme-workshop-step-2.png)
 
@@ -117,39 +117,39 @@ This [handbook page](/handbook/product/ux/product-designer/#figma--figjam) has i
 
 Welcome everyone to the workshop; introduce yourself and anyone acting as a co-facilitator. Here you should mention the roles and responsibilities of everyone on the call. Restate the purpose of the workshop as well as reinforce that this is collaborative.
 
-_“Hello <team>, I am <...> and I am joined by <...> and we are here to guide you through this workshop._
+*“Hello <team>, I am <...> and I am joined by <...> and we are here to guide you through this workshop.*
 
-_“The goal of today’s workshop is to leave with a stronger sense of a UX direction, goals, vision, and a prioritized list of themes. For your group”_
+*“The goal of today’s workshop is to leave with a stronger sense of a UX direction, goals, vision, and a prioritized list of themes. For your group”*
 
-_“<participant>, <participant>, <participant>,  you will be collaborating on this together, while <facilitator>, <co-facilitator> are here to assist you if needed.  We encourage you to think and talk out loud as you go through the exercises._ 
+*“<participant>, <participant>, <participant>,  you will be collaborating on this together, while <facilitator>, <co-facilitator> are here to assist you if needed.  We encourage you to think and talk out loud as you go through the exercises.*
 
-_“This is a safe space and saying ‘I don’t know` is encouraged. That’s why we are here, to define the known and identify the unknown.”_ 
+*“This is a safe space and saying ‘I don’t know` is encouraged. That’s why we are here, to define the known and identify the unknown.”*
 
 #### 2. Review the itinerary
 
-Share your screen and walk through the itinerary in the workshop issue. When complete, stop sharing your screen allowing the participants to focus back on their screens of the FigJam board. 
+Share your screen and walk through the itinerary in the workshop issue. When complete, stop sharing your screen allowing the participants to focus back on their screens of the FigJam board.
 
 #### 3. Wrap-up the introduction
 
-_Before we get started, are there any questions?_
+*Before we get started, are there any questions?*
 
 ### Activity 1: Goal and Vision warm-up (10 minutes)
 
-Ask everyone to open the FigJam file (share the link over the Zoom chat), and introduce the first exercise. 
+Ask everyone to open the FigJam file (share the link over the Zoom chat), and introduce the first exercise.
 
 >💡 This exercise is part warm-up, to get everyone talking and part exercise for creating UX Themes.
 
->💡 Teams may struggle with this, but it is okay. All that is required is statements on sticky notes so they can complete the goal/vision statements after the workshop. 
+>💡 Teams may struggle with this, but it is okay. All that is required is statements on sticky notes so they can complete the goal/vision statements after the workshop.
 
 #### 1. Set the scene for the activity
 
-_“Looking at the first exercise in the top left you will see the stage and category goal and direction information. This was copied from the direction pages and should be referenced for this exercise.”_ 
+*“Looking at the first exercise in the top left you will see the stage and category goal and direction information. This was copied from the direction pages and should be referenced for this exercise.”*
 
-_“Next you will see a set of prompts to use to help define the vision and goal statement, talking amongst yourselves, try to add statements that you can use to help in your definitions._ 
+*“Next you will see a set of prompts to use to help define the vision and goal statement, talking amongst yourselves, try to add statements that you can use to help in your definitions.*
 
-_“This is going to be our reference point for this year and act as our north star when scoping our work. Let’s take about 10 minutes to brainstorm. If you need more time then that is okay.”_
+*“This is going to be our reference point for this year and act as our north star when scoping our work. Let’s take about 10 minutes to brainstorm. If you need more time then that is okay.”*
 
-_“Does that make sense, any questions?” okay, I will start the timer now.”_
+*“Does that make sense, any questions?” okay, I will start the timer now.”*
 
 ⏲️ **In FigJam Start the timer for 10 minutes**
 
@@ -180,7 +180,7 @@ Based on the number of stickies generated, you'll get a sense that more time is 
 
 📖 Read the Step 2 instruction in FigJam out loud and ask if there are any questions.
 
-_“I’ve transferred the inputs you linked me to in the workshop issue. Now working together, we are going to group these stickies thematically based on the user need they are addressing”_
+*“I’ve transferred the inputs you linked me to in the workshop issue. Now working together, we are going to group these stickies thematically based on the user need they are addressing”*
 
 ⏲️ **In FigJam Start the timer for 45 minutes**
 
@@ -190,7 +190,7 @@ _“I’ve transferred the inputs you linked me to in the workshop issue. Now wo
 - Prompt participants when clusters are beginning to form:
   - Ask if any other inputs could fit into that cluster.
   - Ask if any JTBD or insights relate to the cluster.
-  - Inquire about clusters that are formed and prompt participants to answer questions about the problem it is solving. 
+  - Inquire about clusters that are formed and prompt participants to answer questions about the problem it is solving.
 
 As clusters start to form, you or the co-facilitator should copy and paste the `Beneficiary, Job, Outcome` text block below so teams can begin filling out that information.
 
@@ -202,18 +202,18 @@ As clusters start to form, you or the co-facilitator should copy and paste the `
 
 #### 3. Wrap-up the activity
 
-A team will rarely complete this activity within 45 minutes. Once the time is up, assess the team's progress and plan for a 5 minute break. 
+A team will rarely complete this activity within 45 minutes. Once the time is up, assess the team's progress and plan for a 5 minute break.
 
 >💡 To reiterate, this is a vital step in the process, and you should not move on without defining clusters.
 
 ---
 
 ❗️ If you reached the end of time and the team has not finished:
-- Take the planned break and return to this activity. After returning from the break, set the timer based on how much more time the team needs on this activity; however, **no more than 30 minutes**. 
+- Take the planned break and return to this activity. After returning from the break, set the timer based on how much more time the team needs on this activity; however, **no more than 30 minutes**.
 
 ❗️ If you reached the end of the additional 30 minutes and the team has not finished:
-- **DO NOT CONTINUE.** It is unlikely that they will finish all of the workshop exercises; this is okay. Your goal as the facilitator has now changed from completing the exercise to showing the team how to complete the remaining exercises independently. 
-  - Move on to Step 3. 
+- **DO NOT CONTINUE.** It is unlikely that they will finish all of the workshop exercises; this is okay. Your goal as the facilitator has now changed from completing the exercise to showing the team how to complete the remaining exercises independently.
+  - Move on to Step 3.
   - Take a theme bundle and go through step #3 to give the team a better understanding of the process they will continue on their own.
 
 ---
@@ -228,7 +228,7 @@ This can be an intense process, and participant engagement will fade as the sess
 
 ### Refining clusters into Themes (45 minutes)
 
-#### 1. Set the scene for the activity 
+#### 1. Set the scene for the activity
 
 📖 Read the Step 3 instruction in FigJam out loud and ask if there are any questions.
 
@@ -257,13 +257,13 @@ Ask:
 
 Briefly summarize the activities in the workshop, and celebrate the team's progress. Something to the effect of:
 
-_“Today we created goal and vision statements, bundled work into themes, refined themes and generated the inputs to prioritize them in your roadmap!"_
+*“Today we created goal and vision statements, bundled work into themes, refined themes and generated the inputs to prioritize them in your roadmap!"*
 
-🏁 Ask if there are any questions about the next steps and end the meeting. 
+🏁 Ask if there are any questions about the next steps and end the meeting.
 
 ## Post workshop
 
-### Following up 
+### Following up
 
 We advise following up with the team in the workshop issue a few days after the workshop has concluded. We want to ensure the activities and concepts are fresh so teams won't have to recall every instruction from the workshop; The more time passes, the harder it will be for a team to complete their themes.
 

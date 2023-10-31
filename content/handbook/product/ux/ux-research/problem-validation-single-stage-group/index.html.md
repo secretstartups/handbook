@@ -1,20 +1,21 @@
 ---
-layout: handbook-page-toc
+
 title: "Problem Validation research for single-stage-group initiatives"
 description: "Problem Validation research for single-stage-group initiatives usually focuses on specific behaviors relating to one stage group, such as: How do Release Managers do their job?"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Single-stage-group research initiatives deal with specific behaviors that relate to only one stage group, such as "How do Release Managers do their job?".
 
 To get started, follow the [initial steps](/handbook/product-development-flow/#validation-phase-2-problem-validation) outlined in the Product handbook.
 
 ### For user interviews
+
 1. Product Manager drafts the [discussion guide](/handbook/product/ux/ux-research/discussion-guide-user-interviews/). When a first draft of the guide is complete, the UX Researcher reviews and provides feedback.
 1. Simultaneously, the UX Researcher begins crafting a screening survey in Qualtrics.
 1. After the screening survey is created, the UX Researcher will open a `Recruiting request` issue using the available template in the [UX Research project](https://gitlab.com/gitlab-org/ux-research/) and assign it to the [Research Coordinator](/handbook/product/ux/ux-research-coordination/).
@@ -26,6 +27,7 @@ To get started, follow the [initial steps](/handbook/product-development-flow/#v
 1. UX Researcher updates the `Problem validation research` issue with links to findings in Dovetail and, if applicable, unmarks the `Problem validation research` issue as `confidential` before closing it.
 
 ### For surveys
+
 1. The Product Manager drafts the survey. When a first draft of the survey is complete, the UX Researcher reviews and provides feedback.
 1. The UX Researcher enters the survey in Qualtrics.
 1. Once the survey has been entered into Qualtrics, the UX Researcher opens a `Recruiting request` issue using the available template in the [UX Research project](https://gitlab.com/gitlab-org/ux-research/) and assigns it to the relevant [Research Coordinator](/handbook/product/ux/ux-research-coordination/).

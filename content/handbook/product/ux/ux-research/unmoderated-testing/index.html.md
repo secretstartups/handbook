@@ -1,16 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: Unmoderated usability testing
 description: Using unmoderated usability testing at GitLab.
 ---
 
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 At GitLab, we use [UserTesting.com](https://www.usertesting.com/) for certain unmoderated testing for [Solution Validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) and [Category Maturity Scorecard studies](/handbook/product/ux/category-maturity/category-maturity-scorecards/). Unmoderated usability testing allows us to obtain evaluative feedback from our users very quickly, thereby allowing us to iterate faster in a more independent manner that requires fewer resources.
 
 ### What is unmoderated usability testing?
+
 Unmoderated usability testing is defined as a way to conduct usability testing without a moderator being present.  That means the participant will go through all of the tasks/instructions/questions solo.  This is typically accomplished through a service that also has a panel of participants.  The output of an unmoderated usability study are videos, which have to be watched and analyzed by the person who kicked-off the research.
 
 ### GitLab and UserTesting.com

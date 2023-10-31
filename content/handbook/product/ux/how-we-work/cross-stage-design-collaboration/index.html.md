@@ -1,24 +1,24 @@
 ---
-layout: handbook-page-toc
+
 title: "Cross-stage design collaboration"
 description: "The UX Department works alongside the community, Product Management, Development, Quality, and Brand teams to design the GitLab product. Our users' workflows often cross multiple areas of the GitLab product. In these instances, it's best for our teams to work collaboratively across stages."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ### How do we determine if the topic is cross-stage design
 
-There are several points during the design process where we might identify cross-stage collaboration needs. It is recommended to involve potential partners as early as possible. It is best to determine if there is a collaboration need quickly rather than have to backtrack later when it is too late. 
+There are several points during the design process where we might identify cross-stage collaboration needs. It is recommended to involve potential partners as early as possible. It is best to determine if there is a collaboration need quickly rather than have to backtrack later when it is too late.
 
 **During the discovery and research phase**, it is essential to pay attention to the user journey or other types of research reports; from the research insights, we can assess if the user is using multiple features that cross-stages or if the pain points involve features owned by different teams.
 
 **During the design phase**, there could be signs that we need to contact other teams for potential collaboration. First, the target user is the primary persona of another stage; second, the use case you are targeting is part of a JTBD belonging to another stage; third, the feature you are designing exists in a page/area belonging to another stage; and last, some part of the user’s journey is using some features that belong to another stage.
 
-**For Pajamas contributions**, it is a collaboration-first approach. When designing a component, we want to ensure that the component is suitable for all areas. When we design reusable features and components, such as search or filtering, it is better to collaborate with more than one designer to consider the frequency and complexity of these features in the product. 
+**For Pajamas contributions**, it is a collaboration-first approach. When designing a component, we want to ensure that the component is suitable for all areas. When we design reusable features and components, such as search or filtering, it is better to collaborate with more than one designer to consider the frequency and complexity of these features in the product.
 
 ### How can we find the right DRI for a particular feature
 
@@ -42,7 +42,7 @@ If, for some reason, another relevant team was not involved before problem valid
 - Related previous research
 - A research plan (or at least some research questions or a hypothesis to be answered)
 **At the design stage**, the goal is to design a solution together that matches all user needs and workflows. Therefore, it is essential to have clear documentation of the following:
-- How the feature works: both from the user’s point of view and a technical point of view.   
+- How the feature works: both from the user’s point of view and a technical point of view.
 - The precise problem statement, JTBD, and persona(s)
 - Relevant user feedback/ UXR insights and data
 - Design scope and urgency: this helps all teams figure out a prioritization and collaboration plan

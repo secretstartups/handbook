@@ -1,21 +1,21 @@
 ---
-layout: handbook-page-toc
+
 title: "Interview Carousel - Becoming a better interviewer 15 minutes at a time"
 description: "A lightweight and fun training to improve your user interviewing skills"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 At GitLab, everyone can contribute, which applies to UX Research, too. Product Managers and Product Designers regularly speak with users to validate the problem spaces and solutions they are working on and gain inspiration for what could come next.
-Asking the right questions and listening actively is crucial in these conversations to get the information you need. 
+Asking the right questions and listening actively is crucial in these conversations to get the information you need.
 
-The Interview Carousel is a lightweight, fun way to practice and enhance user interviewing skills for GitLab team members. Everyone can be a great interviewer, however, we are not necessarily born as one. It takes a little bit of practice, and that’s what the Interview Carousel is for. 
+The Interview Carousel is a lightweight, fun way to practice and enhance user interviewing skills for GitLab team members. Everyone can be a great interviewer, however, we are not necessarily born as one. It takes a little bit of practice, and that’s what the Interview Carousel is for.
 
-### The setup 
+### The setup
 
 The Interview Carousel is a live (remote) event where team members get to speak with 3 to 4 users each. Imagine a speed-dating style setup where you speak with one user for 15 minutes and then switch to the next one. There are small breaks in between to avoid fatigue.
 
@@ -27,7 +27,7 @@ As an Interview Carousel participant, you choose what you'd like to discuss with
 
 There is a [20-minute video](https://youtu.be/b03eiIwz2LE) that you must watch before the event that includes tips and tricks on how to be a better interviewer. As you are watching the video, note the 2 or 3 things that you want to focus on and practice during the Interview Carousel.
 
-Make sure to draft a [discussion guide](https://docs.google.com/document/d/1dQ29KkJOZlwrNkxV9z58lR9bNkG2-lSiJPMUpmsiOTw/copy) (internal only) for your session and share it for feedback with the UX Researcher who is hosting the Interview Carousel. This helps to ensure that participants won’t answer the same questions again and again. 
+Make sure to draft a [discussion guide](https://docs.google.com/document/d/1dQ29KkJOZlwrNkxV9z58lR9bNkG2-lSiJPMUpmsiOTw/copy) (internal only) for your session and share it for feedback with the UX Researcher who is hosting the Interview Carousel. This helps to ensure that participants won’t answer the same questions again and again.
 
 You should set aside about 1 hour to watch the training video and create your discussion guide.
 
@@ -41,15 +41,15 @@ The next Interview Carousel is happening in **January 2023**. If you are interes
 
 ### Why should I join?
 
-Below are some verbatims that GitLab team members who previously participated in an Interiew Carousel shared about their experience joining. 
+Below are some verbatims that GitLab team members who previously participated in an Interiew Carousel shared about their experience joining.
 
-_"This process made me more aware of ways that questions can be leading and ways to avoid it, especially in follow-up questions (it's hard!)."_
+*"This process made me more aware of ways that questions can be leading and ways to avoid it, especially in follow-up questions (it's hard!)."*
 
-_"The video material was really good and helped to clarify my goals for every interview since then."_
+*"The video material was really good and helped to clarify my goals for every interview since then."*
 
-_"This was the first opportunity I came across in my entire career as a designer to get my interviewing style assessed and get feedback."_
+*"This was the first opportunity I came across in my entire career as a designer to get my interviewing style assessed and get feedback."*
 
-_"Valuable feedback! I usually don't notice I'm asking leading questions, so it's great to have it called out."_
+*"Valuable feedback! I usually don't notice I'm asking leading questions, so it's great to have it called out."*
 
 ### Frequently Asked Questions
 

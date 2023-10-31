@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Product - Interpreting Release Dates
 description: One of GitLab's core values is Transparency. We do this to make collaboration easier and do this by default.
 ---
@@ -23,6 +23,7 @@ end-users. It has full details about every step of the workflow and can be
 read for specific details.
 
 ## Intepreting Issue States
+
 There are a few pieces of info to understand when an issue might ship. Looking
 at each of these in combination with the others should help you understand
 if an item will ship in the current or a future iteration.
@@ -62,6 +63,7 @@ in to understand what other related work is planned to understand when
 everything will be shipped and usable by users.
 
 ## Still have questions?
+
 If you are still not sure what state an issue is in and want to ensure you set
 the correct expectations with the customer, please @mention the
 [responsible Product Manager](https://about.gitlab.com/handbook/product/categories/),

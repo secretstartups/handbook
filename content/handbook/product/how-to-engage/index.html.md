@@ -1,24 +1,24 @@
 ---
-layout: handbook-page-toc
+
 title: How to Engage with Product Management
 ---
 
 This document describes how to engage with the product management team.
 
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Where to reach Product Managers
 
 {:.no_toc}
 
-* **[Public Issue Tracker (for Product)](https://gitlab.com/gitlab-com/Product/issues)**; please use confidential issues for topics that should only be visible to team members at GitLab.
-* **[Chat channel](https://gitlab.slack.com/archives/product)**; please use the `#product` chat channel for questions that don't seem appropriate for the issue tracker.
+- **[Public Issue Tracker (for Product)](https://gitlab.com/gitlab-com/Product/issues)**; please use confidential issues for topics that should only be visible to team members at GitLab.
+- **[Chat channel](https://gitlab.slack.com/archives/product)**; please use the `#product` chat channel for questions that don't seem appropriate for the issue tracker.
 
 ## Which Product Manager should I contact?
 
@@ -38,11 +38,11 @@ It is then up to the PM to weigh all these inputs and decide on a [prioritizatio
 
 ## How do I share feedback?
 
-Generally speaking, all product feedback should be provided via issues. For detailed overview of how to create an issue, please [read this section on the process](/handbook/product/product-processes/#issues). If you have any product-related questions, comments, input, or otherwise, the Product Manager is the primary person you should talk to, _if creating an issue does not suffice_.
+Generally speaking, all product feedback should be provided via issues. For detailed overview of how to create an issue, please [read this section on the process](/handbook/product/product-processes/#issues). If you have any product-related questions, comments, input, or otherwise, the Product Manager is the primary person you should talk to, *if creating an issue does not suffice*.
 
 Creating an issue includes, but is not limited to, features, bugs, and other changes that need to be prioritized, changed, discussed, or need more attention. Product Managers will reach out to stakeholders when making or communicating any decision. The pressure of balancing priorities while ensuring we build excellent software is on the product managers and they need all the input they can get to achieve this. Paid features fall under their respective PMs, not under one PM in particular. For instance, Service Desk falls under the Monitor PM.
 
-All feedback must follow the (GitLab Community Code of Conduct)[https://about.gitlab.com/community/contribute/code-of-conduct/]. Failure to do so will result in the issues or comment being deleted.
+All feedback must follow the [GitLab Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/). Failure to do so will result in the issues or comment being deleted.
 
 ### Customer feature requests
 
@@ -53,7 +53,7 @@ Whenever you're sharing feedback on an issue (e.g. "Customer X wants this"), ple
 - Link to the source. Usually, this is a link to Salesforce or Zendesk
     - Use the Salesforce Account URL when it's a paying customer and you want to relate the ARR
     - Use the Salesforce Opportunity URL when it's related to a prospect or significant growth opportunity
-- Provide context: if a customer wants this feature, include _why_ they are interested in this. If you don't know, make sure to ask or bring the relevant PM in contact with the customer
+- Provide context: if a customer wants this feature, include *why* they are interested in this. If you don't know, make sure to ask or bring the relevant PM in contact with the customer
 - Include any further useful context (e.g. what kind of software is this customer building, or how they will use the feature)
 - Mention the [Product Manager](/handbook/product/categories/)
     - Feel free to ask them anything that isn't clear to you (e.g. it's not clear what the status is of the issue, etc)
@@ -94,6 +94,7 @@ The following ~customer is interested in this capability
 - PM to mention:
 - CSM to mention:
 ```
+
 The `~customer priority::*` labels are inputs for the prioritization model powering the customer issue prioritization framework dashboards:
 
 - [Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for Product Managers
@@ -104,7 +105,7 @@ These dashboards represent the relative importance of a given issue to the speci
 ##### Good example:
 
 > A customer with more than 1000 users mentioned they are interested in this feature to be able to do their sprint planning more effectively. The problem they are trying to solve is that with the current implementation, they can't X and need to do so because Y. They are using software X to do this today, but would be able to move to GitLab if we would do this.
-> 
+>
 > @productmanager this issue doesn't have a milestone right now, are we planning to address this in the near term?
 
 ##### Bad example:
@@ -222,7 +223,7 @@ Following the process described below will ensure that customer interest in feat
 
 It can be very helpful for both Product and customers to be on a call together to discuss feedback, roadmaps, etc.
 
-It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel. 
+It is best practice to ask for a PM to join your call through the slack channel for their [group or category](/handbook/product/categories/#devops-stages). Direct messages are problematic because it is hard to loop in other PMs if the right person for the call is not included in the DM, and it limits visibility into topics that may be discussed. If you are unsure about the right group to reach out to, you can ask in the general [#product](https://gitlab.slack.com/archives/C0NFPSFA8) channel.
 
 When including a member of the Product team on the call it is important that they have as much information and context as possible in advance. In order for the call to be successful it is important that you collect and share as much context as possible from all attendees in advance.
 
@@ -230,7 +231,7 @@ Also make sure you have a detailed agenda set at least 24 hours before the call 
 
 Take the following steps to ensure an efficient and productive meeting:
 
-### Collecting Customer Context 
+### Collecting Customer Context
 
 In advance to the product call, have a conversation with the customer about expectations and their background.
 
@@ -258,10 +259,10 @@ Ideally, provide them as much of the following details as possible:
    - List of specific questions the customer has
    - Do they want a forward-looking roadmap?
    - Are they interested in specific issues/topics?
-   - What are they trying to accomplish on the call? 
+   - What are they trying to accomplish on the call?
    - What is their general attitude?  Are they friendly, curious, frustrated, or angry?
 
-### EBR Preparation 
+### EBR Preparation
 
 CSMs regularly hold [Executive Business Reviews](https://about.gitlab.com/handbook/customer-success/csm/ebr/) with their customers and often request involvement from Product Managers. When a CSM is looking for Product involvement, they will reach out to the PM (in their group Slack channel) with the date, time, and desired topic.
 

@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Expansion
 ---
 
@@ -7,7 +7,7 @@ title: Expansion
 
 {:.no_toc}
 
-- TOC
+
 {:toc}
 
 ## Overview

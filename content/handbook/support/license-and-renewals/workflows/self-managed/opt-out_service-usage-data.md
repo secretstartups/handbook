@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Handling Opt Out of Services Usage Data request
 description: "How to handle Service Usage Data opt-out request"
 category: GitLab Self-Managed licenses

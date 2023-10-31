@@ -1,27 +1,29 @@
 ---
-layout: handbook-page-toc
+
 title: "UX Heuristics"
 description: "Heuristics used by the UX team to evaluate our product."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Intro
+
 UX Heuristics are guidelines we can use to grade experiences in our product. They can also be useful while designing because you can use them to make design decisions or identify parts of your design that still need work.
 
 This list can change and the handbook version is the SSOT. It's based on best practices in the UX field, as well as feedback from our customers as to what they want their GitLab experience to be like.
 
 ## Templates
-* [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations/-/issues/new?issuable_template=Competitor%20Evaluation)
-* [UX Scorecard Issue Template](https://gitlab.com/gitlab-org/gitlab-design/-/issues/new?issuable_template=UX%20Scorecard%20Part%201)
+
+- [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations/-/issues/new?issuable_template=Competitor%20Evaluation)
+- [UX Scorecard Issue Template](https://gitlab.com/gitlab-org/gitlab-design/-/issues/new?issuable_template=UX%20Scorecard%20Part%201)
 
 ## Heuristics
 
-| Category | Heuristic | Description | 
+| Category | Heuristic | Description |
 | ------ | ------ | ------ |
 | Usability | Visibility of system status | Communicating the current state allows users to feel in control of the system, understand available actions and how to use them to reach their goal, and ultimately establishes trust in the brand. This heuristic differs from the "real-time user interface" heuristic (see below) in that it is a deeper understanding of what is going on with the tool or product (consider a dashboard), whereas real-time user interface is communicating something about the tool or product when change occurs (being notified immediately if there is a dramatic change to one or more metrics on that dashboard).
 (source: NN/g) |
@@ -38,6 +40,7 @@ This list can change and the handbook version is the SSOT. It's based on best pr
 
 
 ## Scoring
+
 Scoring these heuristics can have an element of subjectivity, but the more you involve other users in the evaluation the less subjective it will be. Heuristic scoring is optional, but consists of scoring all [11 heuristics](https://about.gitlab.com/handbook/product/ux/heuristics/#heuristics) for a part of the product on a 1-5 scale using the scoring table below. This [scoring sheet](https://docs.google.com/spreadsheets/d/1KwktDjTnM7eZlI8aj3jk7KbRpkfexJV20-6cTNMtz5w/edit?usp=sharing) allows you to easily record your responses and determine an overall score (average of individual scores for the 11 heuristics).
 
 | Badge | Score | Summary | Description |
@@ -52,6 +55,7 @@ Scoring these heuristics can have an element of subjectivity, but the more you i
 If you're completing a UX Scorecard, please use the [UX Scorecard Grading Rubric](/handbook/product/ux/ux-scorecards/#grading-rubric).
 
 ## References
+
 - [Nielssen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [UI Tenets & Traps](https://uitraps.com/)
 

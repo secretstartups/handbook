@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Hiring Technical Writers"
 description: "The internal process for hiring Technical Writers at GitLab."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 # Hiring Technical Writers
 
@@ -38,13 +38,13 @@ The goal is to evaluate the candidate’s technical skills and knowledge, such a
 - Communication skills
 - Technical writing and editing principles
 - Understanding of Information architecture
-- GitLab values 
+- GitLab values
 
 The candidate must be able to onboard quickly and keep up with the pace of GitLab development, as well as align with the company values.
 
 ## Interview training
 
-If you are a Technical Writer at GitLab and you wish to be part of the hiring process, 
+If you are a Technical Writer at GitLab and you wish to be part of the hiring process,
 complete the [interview training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md).
 
 In the last steps of the training, you will:
@@ -88,7 +88,7 @@ When you shadow a Technical Writer, observe how they conduct the interview.
 - Sync again with your coach to discuss the interview.
 - Ask any questions you might have.
 
-###  Interview process
+### Interview process
 
 When you are being shadowed by your coach, and during any following interviews:
 
@@ -125,12 +125,12 @@ When you are being shadowed by your coach, and during any following interviews:
 **Wrap up**
 
 At the end of the interview, do not give them false expectations.
-You don't know how well they will do in other interviews, so don't say anything about how _you think_ they will do in the process.
+You don't know how well they will do in other interviews, so don't say anything about how *you think* they will do in the process.
 Be kind. Thank them for their time and interest.
 
 ### After the interview
 
-Fill out the candidate’s scorecard in Greenhouse. 
+Fill out the candidate’s scorecard in Greenhouse.
 
 **Takeaways**
 
@@ -146,5 +146,5 @@ For anything unclear to you, or needs a follow-up, or needs further investigatio
 - Add your polished full notes to Greenhouse.
 - Be thoughtful to choose the result ("Strong Yes," "Yes," "No," "Strong No").
 - Submit the scorecard.
-- Discuss with your coach, if you're being shadowed. 
+- Discuss with your coach, if you're being shadowed.
 

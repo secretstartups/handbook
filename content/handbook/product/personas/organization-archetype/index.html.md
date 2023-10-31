@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Organization Archetype
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## What is an organization archetype?
 
@@ -15,12 +15,12 @@ An organization archetype is a typical example of an organizational setup. In ou
 
 ### How do you use organization archetypes as a Product Manager?
 
-An organization archetype can be considered an additional layer to an end-user's demographics alongside [personas](.../personas). When collecting insights during interviews, it would be useful to understand the context of the user within their role and organization via organization archetypes. 
+An organization archetype can be considered an additional layer to an end-user's demographics alongside [personas](.../personas). When collecting insights during interviews, it would be useful to understand the context of the user within their role and organization via organization archetypes.
 
 
 ## Cloud Infrastructure Resourcing
 
-Cloud infrastructure enables flexible and purposefully designed infrastructure per application. Because of this, infrastructure provisioning and software development has become part of a coupled workflow. We have observed 5 different types of infra team or platform team models outlined below. 
+Cloud infrastructure enables flexible and purposefully designed infrastructure per application. Because of this, infrastructure provisioning and software development has become part of a coupled workflow. We have observed 5 different types of infra team or platform team models outlined below.
 
 ### All-in-One Team
 
@@ -52,9 +52,9 @@ On Service Model teams, infrastructure teams gate access to and are responsible 
 Examples of how resources are used:
 
 - **Public Cloud Infrastructure**
-  - only centralized Infra teams can access cloud provider resources 
+  - only centralized Infra teams can access cloud provider resources
   - Devs are able to check audit logs
-  - to request access to cloud resources, Dev files tickets to infrastructure via tools like Freshworks 
+  - to request access to cloud resources, Dev files tickets to infrastructure via tools like Freshworks
   - Devs have more freedom to work with cloud resources in Dev environments
 - **Development Environments**
   - Infra teams experiment with dummy environments to see how changing the number of pods impacts performance (in non-production environments)
@@ -66,7 +66,7 @@ Examples of how resources are used:
 
 ![Service & Embedded](service-embedded.png)
 
-On service & embedded teams, resource use is guided or optimized in partnership. Teams buddyup with specialist as needed so that both Dev and Ops are working together. 
+On service & embedded teams, resource use is guided or optimized in partnership. Teams buddyup with specialist as needed so that both Dev and Ops are working together.
 
 **Company Size:** SMB, Small Enterprise
 
@@ -94,7 +94,7 @@ Examples of how resources are used:
   - All-in-One & Service teams are navigating the entire stack using a standardized set of CI templates in coordination with SaaS or in-house tools. Specialized support teams (e.g., security) monitor this workflow from the sidelines, and auto-correct or account for deviations as needed
 - **Secrets Workflow**
   - All-in-One team members determine how secrets are handled for different types of services based on guidance or requirements provided by Security teams (e.g., what security scans to run). If All-in-One team members deviate from suggested patterns, they notify security teams or complete a waiver request
-  - Platform teams create internal documentation for All-in-One team members to follow           
+  - Platform teams create internal documentation for All-in-One team members to follow
 
 ### All-in-One & Embedded Model
 
@@ -107,8 +107,8 @@ On All-in-One & Embedded teams, DevOps engineer work embedded within product gro
 Examples of how resources are used:
 
 - **CI Templates**
-  - All-in-One & Embedded team members who specialize in different areas work in close concert to coordinate specialized workflows that are specific to different environments 
+  - All-in-One & Embedded team members who specialize in different areas work in close concert to coordinate specialized workflows that are specific to different environments
 - **Deployment Patterns**
-  - All-in-One & Embedded teams members create specialized deployment patterns that are specific to the products line they are working within, use cases and security requirements. They refine them together 
+  - All-in-One & Embedded teams members create specialized deployment patterns that are specific to the products line they are working within, use cases and security requirements. They refine them together
 
 

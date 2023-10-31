@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: People Success Performance Indicators
 description: "GitLab's People Success Department Performance Indicators."
 ---

@@ -1,18 +1,18 @@
 ---
-layout: handbook-page-toc
+
 title: UX Themes
 description: "Introduction and usage guidelines for UX Themes"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 
-_**[Neilsen Norman Group UX Roadmap guide](https://www.nngroup.com/articles/ux-roadmaps/) and the [Neilsen Norman Group UX Theme guide](https://www.nngroup.com/videos/ux-roadmap-themes/?lm=ux-roadmaps&pt=article) are prerequisites for understanding the overall purpose of this process. The documentation that follows discusses the differences in process and structure between the Nielsen Norman Group's documentation for UX Themes and GitLab.**_
+***[Neilsen Norman Group UX Roadmap guide](https://www.nngroup.com/articles/ux-roadmaps/) and the [Neilsen Norman Group UX Theme guide](https://www.nngroup.com/videos/ux-roadmap-themes/?lm=ux-roadmaps&pt=article) are prerequisites for understanding the overall purpose of this process. The documentation that follows discusses the differences in process and structure between the Nielsen Norman Group's documentation for UX Themes and GitLab.***
 
 UX Themes are comprehensive bundles of work organized around the user problem, their need, and their desired outcome. UX Themes comprise a team's UX Roadmap, which should act as a single source of truth for a team's North Star UX vision serving as the blueprint for their strategy. In essence, themes are a wrapper that looks at all the individual issues a Group may have and organizes them into relational bundles, allowing solutions to be holistic and non-fragmented. A UX Roadmap is simply the prioritization of these UX Themes based on user and business needs while also considering your team's confidence in the supporting data.
 
@@ -31,6 +31,7 @@ UX Themes focus on a more significant, holistic problem area rather than discret
 UX Themes influence strategy through collaboration with Product Managers to define the goals, identify and prioritize unmet user needs, and transparently maintain and update the product roadmap over time. Themes also allow us to understand our value as a team by measuring our success against the business outcomes our counterparts define for each theme.
 
 ### Roadmaps and UX Themes
+
 UX Themes organized by priority become a UX Roadmap. This roadmap complements the product roadmap and does not replace or supersede them. Therefore, it's helpful to think of a UX Roadmap as a view of the Product roadmap through the filter of Product Design and UX Research.
 <!-- Roadmap graphic to illustrate how a UXrm fits into the overall Product roadmap -->
 ![Roadmap graphic to illustrate how a UX Roadmaps fit into the overall Product roadmap](Roadmap_Visual2.png)
@@ -41,11 +42,11 @@ UX Themes organized by priority become a UX Roadmap. This roadmap complements th
 
 UX Themes exist at the workflow level, addressing one or more of the user's small jobs they need to complete to satisfy their main [JTBD](/handbook/product/ux/jobs-to-be-done/). Typically, the theme's focus is a single small job, a step that rolls up to the main JTBD, which includes all the micro-jobs (tasks) a user will need to complete to satisfy the small job itself.
 
-Addressing the small job this way adds _depth_ to the experience. Alternatively, you can widen the scope of the UX Theme by considering multiple steps, or small jobs, of the main job, thus adding value to the _breadth and depth_ of the experience. See the image below for a breakdown of these concepts.
+Addressing the small job this way adds *depth* to the experience. Alternatively, you can widen the scope of the UX Theme by considering multiple steps, or small jobs, of the main job, thus adding value to the *breadth and depth* of the experience. See the image below for a breakdown of these concepts.
 
 Using JTBD to define and drive your work through their incorporation of UX Themes is, by design, what JTBD are intended to achieve. UX Themes are practical applications for JTBD, ensuring their usage across the organization.
 
-_JTBD and UX Themes:_
+*JTBD and UX Themes:*
 <!-- Job map and UX Theme scope examples -->
 ![UX Theme scope example using the job map](UX_Theme_JTBD_Scope.png)
 
@@ -74,9 +75,9 @@ A theme statement's structure should align to: (Outcome + Beneficiary + Small Jo
 | Small Job | A step of the larger job (Step(s) + object + qualifier) | Prioritize business-critical risks |
 | Outcome | The user need the theme is addressing | Reduced effort across all assets |
 
-For our example, the theme statement would be: _Reduce the effort for security teams when prioritizing business-critical risks in their assets_.
+For our example, the theme statement would be: *Reduce the effort for security teams when prioritizing business-critical risks in their assets*.
 
-_Note: The theme statement is the defacto title used to reference the theme and serves as the theme issue title._
+*Note: The theme statement is the defacto title used to reference the theme and serves as the theme issue title.*
 
 ##### Beneficiary
 
@@ -92,9 +93,9 @@ Addressing the user's needs is the primary objective of the theme. Needs are inf
 
 #### Main JTBD
 
-The main JTBD of the performer who will benefit from this UX Theme, typically your stage or stage: group's main JTBD. Including this information at the UX Theme level is necessary to ensure our focus remains on the main JTBD while working on the theme. In our example, our main JTBD is; _When I am on triage rotation, I want to address all the business-critical risks in my assets, so I can minimize the likelihood of my organization being compromised by a security breach._
+The main JTBD of the performer who will benefit from this UX Theme, typically your stage or stage: group's main JTBD. Including this information at the UX Theme level is necessary to ensure our focus remains on the main JTBD while working on the theme. In our example, our main JTBD is; *When I am on triage rotation, I want to address all the business-critical risks in my assets, so I can minimize the likelihood of my organization being compromised by a security breach.*
 
-_Note: If there is no JTBD or the JTBD is assumptive, that should indicate that you are working on a low-confidence theme and additional research is required before engaging in design activities._
+*Note: If there is no JTBD or the JTBD is assumptive, that should indicate that you are working on a low-confidence theme and additional research is required before engaging in design activities.*
 
 #### Business objectives
 
@@ -104,7 +105,7 @@ The business objective is why we are working on a theme. Without this informatio
 
 Requirements are more granular aspects of a theme that help define the scope of the problem and solution area. Typically, requirements are derived from feature issues and research insights used to create the theme. Generally speaking, it is more common to see these items in themes in the (Now {Next:1-3 milestones}, or Next {Next:4-7}) buckets, as the problem areas have been researched, and the problems to solve are more evident than themes scheduled in the future. Requirements will take the form of: “The user needs to be able to {solution agnostic description of the need}.”
 
-_Note: We are not designing a solution for a specific feature issue; instead, we are designing the entire theme. The individual feature issues within it will be addressed through a planning breakdown session when the UX Theme's vision design has been completed and is now ready to be built via MVC + Iterations._
+*Note: We are not designing a solution for a specific feature issue; instead, we are designing the entire theme. The individual feature issues within it will be addressed through a planning breakdown session when the UX Theme's vision design has been completed and is now ready to be built via MVC + Iterations.*
 
 
 #### Confidence
@@ -129,7 +130,7 @@ Themes should span multiple milestones, allowing designers to have the flexibili
 
 These timeframes denote when work will take place and when work will be delivered. Think of this as design and research will be delivered within < timeframe > (e.g., design/research delivered in Now: {Next 1-3 Milestones}). In many cases, it will make sense for a lower confidence theme located in the Next or Future buckets to be worked on in parallel by the group’s UX Researcher and/or the Product Manager to increase the confidence, allowing the theme to move up to the Now bucket for future design work. Just like design should be 2-3 milestones ahead of build, research should be 2-3 milestones ahead of design.
 
-_Consider this: If you only work on four themes a year and each gets broken down into three MVCs, that equates to delivering UX value to the user every milestone across twelve milestones._
+*Consider this: If you only work on four themes a year and each gets broken down into three MVCs, that equates to delivering UX value to the user every milestone across twelve milestones.*
 
 #### Ownership
 

@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "AppSec Frequently Asked Questions"
 description: "A curated list of the most frequently asked AppSec related questions"
 ---

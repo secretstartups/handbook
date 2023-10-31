@@ -1,20 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "Data for Design Decisions"
 description: "Guide on tools used within GitLab to find the data to support design decisions."
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## Using data for design decisions at GitLab
 
 Data is another way designers and researchers at GitLab can understand user behavior. Analytics can provide valuable input throughout the Product Development Flow. By using data, we can understand and quantify the impact of the iteration that we shipped.
 
-We should not depend entirely on data to make decisions, but it should be an essential input to decision making. To learn more about quantitative data/research, see the [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/) handbook page. 
+We should not depend entirely on data to make decisions, but it should be an essential input to decision making. To learn more about quantitative data/research, see the [Using Data to Find Insights](/handbook/product/ux/ux-research/quantitative-data/) handbook page.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/J-USG9BKH-g" frameborder="0" allowfullscreen="true"> </iframe>

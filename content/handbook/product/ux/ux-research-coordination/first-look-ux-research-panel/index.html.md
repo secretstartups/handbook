@@ -1,29 +1,29 @@
 ---
-layout: handbook-page-toc
+
 title: "First Look UX Research panel"
 description: "This page details information about the First Look panel used for UX Research studies"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-UX Research participant panels are common throughout the research industry and are used as a way to streamline the recruiting process for user research studies. **First Look** is our own panel of individuals who have volunteered to participate in research at GitLab. When teams generate research questions, the First Look panel is a potential [option](/handbook/product/ux/ux-research-coordination/recruitment-methods/) that can be used to obtain user feedback. 
 
-Individuals can sign up for First Look by going to the [First Look page](https://about.gitlab.com/community/gitlab-first-look/) and filling out some basic information (for example, contact details, GitLab usage, and so on). We add these individuals to our existing database, which is maintained and updated over time by our UX Research Operations Coordinator. 
+
+
+
+UX Research participant panels are common throughout the research industry and are used as a way to streamline the recruiting process for user research studies. **First Look** is our own panel of individuals who have volunteered to participate in research at GitLab. When teams generate research questions, the First Look panel is a potential [option](/handbook/product/ux/ux-research-coordination/recruitment-methods/) that can be used to obtain user feedback.
+
+Individuals can sign up for First Look by going to the [First Look page](https://about.gitlab.com/community/gitlab-first-look/) and filling out some basic information (for example, contact details, GitLab usage, and so on). We add these individuals to our existing database, which is maintained and updated over time by our UX Research Operations Coordinator.
 
 ### What types of individuals are in the First Look panel?
 
 As of 2022-02-08, the panel currently contains the following types of potential participants (N = 4,238):
-* GitLab users (both SaaS and Self-Managed)
-* Non-GitLab users
-* Mostly small-to-medium size businesses, with some large enterprise businesses
-* Many different job titles/roles, with the top-three roles by volume being: 
-    * Back-end Engineer/Developer (19.5%)
-    * DevOps Engineer (14.7%)
-    * Full-stack Engineer/Developer (12.8%)
+- GitLab users (both SaaS and Self-Managed)
+- Non-GitLab users
+- Mostly small-to-medium size businesses, with some large enterprise businesses
+- Many different job titles/roles, with the top-three roles by volume being:
+    - Back-end Engineer/Developer (19.5%)
+    - DevOps Engineer (14.7%)
+    - Full-stack Engineer/Developer (12.8%)
 
 | Language | GitLab User | Plan | SaaS Plan | Self-Managed Plan | Org Size | Team Size |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -40,7 +40,7 @@ No, there are [multiple ways you can obtain participants](/handbook/product/ux/u
 
 ### Is the First Look panel the **preferred** recruiting option?
 
-No, the First Look panel is not any better or worse than other options that the UX Research Operations Coordinator uses. Each study is different and may require one or more recruitment methods to obtain participants. 
+No, the First Look panel is not any better or worse than other options that the UX Research Operations Coordinator uses. Each study is different and may require one or more recruitment methods to obtain participants.
 
 ### What should I consider when using participants from First Look?
 

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: Create UX Team
 description: "The Create design team's goal is to facilitate DevSecOps processes across the entire software delivery workflow"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Overview
 

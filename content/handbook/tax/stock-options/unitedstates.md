@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Tax Treatment of Stock Options as Employee of GitLab Inc"
 ---
 

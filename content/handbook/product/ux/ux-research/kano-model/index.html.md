@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Kano Survey for feature prioritization"
 description: "Kano model provides a simple and powerful way how to think about the features that we plan to build."
 ---
 
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Kano model
 
@@ -33,13 +33,13 @@ Using the Kano model can help you to make more informed decisions when prioritiz
 
 ### How to use it?
 
-The Kano model is best utilized with customer data, especially when it is informing the prioritization of features. To collect this data, we recommend conducting a research study by using a [standardized questionnaire](/handbook/product/ux/ux-research/kano-model/#standardized-questionnaire) that was developed as a part of the Kano analysis model. 
+The Kano model is best utilized with customer data, especially when it is informing the prioritization of features. To collect this data, we recommend conducting a research study by using a [standardized questionnaire](/handbook/product/ux/ux-research/kano-model/#standardized-questionnaire) that was developed as a part of the Kano analysis model.
 
 Designing a survey for a Kano study is rather simple from the research perspective, however it requires a lot of preparation by the Product Manager – especially describing the features and current state of the product area. In the following sections, we will discuss details for designing a Kano study at GitLab.
 
 ## Kano Survey Example
 
-In the project below, a Kano survey was developed to understand how to prioritize a set of new GitLab features. 
+In the project below, a Kano survey was developed to understand how to prioritize a set of new GitLab features.
 
 Example project: [Survey for CI feature prioritization](https://gitlab.com/gitlab-org/ux-research/-/issues/1027)
 
@@ -65,7 +65,7 @@ When creating feature descriptions, follow these guidelines:
 
 1. Describe features, not MVCs
    - The findings should be relevant for a reasonably long time. In other words, you would likely not be able to develop it in 1 or 2 milestones.
-1. Use **simple** and **neutral** language to avoid bias in how feature desciptions are perceived 
+1. Use **simple** and **neutral** language to avoid bias in how feature desciptions are perceived
    - No GitLab lingo like `sections`, `categories`
    - No sales or marketing words like `easy-to-use`, `better`, `faster`, `more efficient`
    - Bad example: `Run Dynamic Application Security Testing (DAST) in the cloud as part of your CI jobs on cloud based runners. This will make deploying and testing applications in a sandbox significantly more efficient.`
@@ -77,7 +77,7 @@ When creating feature descriptions, follow these guidelines:
 1. Include only new features
    - Including features that are already developed can set a benchmark; however, it is mostly not actionable and therefore useless in this context.
 1. Enrich the descriptions with images or gifs
-   - Having a visual aid can help participants understand the concept being described in the feature description. 
+   - Having a visual aid can help participants understand the concept being described in the feature description.
 
 In general, feature descriptions should follow this basic structure:
 
@@ -160,7 +160,7 @@ Using the provided questionnaire, you'll be able to collect the data, analyze it
 
 ##### The qualitative approach
 
-This approach will provide you with a better understanding of the _why_ behind their prioritization. Collecting and analyzing the qualitative data first can help you to spot problems in your feature descriptions, such as whether they are confusing or unclear, so you can fix the descriptions before sending them to a larger set of participants. After taking the [quantitative approach](/handbook/product/ux/ux-research/kano-model/#the-quantitative-approach), you can also talk to a few users from the survey sample for some additional feedback on why they provided their ratings.
+This approach will provide you with a better understanding of the *why* behind their prioritization. Collecting and analyzing the qualitative data first can help you to spot problems in your feature descriptions, such as whether they are confusing or unclear, so you can fix the descriptions before sending them to a larger set of participants. After taking the [quantitative approach](/handbook/product/ux/ux-research/kano-model/#the-quantitative-approach), you can also talk to a few users from the survey sample for some additional feedback on why they provided their ratings.
 
 We recommend conducting 5 to 10 moderated sessions and/or 20 to 30 unmoderated sessions where a participant's task is to go through the questionnaire and explain the reasoning behind their answers.
 
@@ -172,16 +172,18 @@ We recommend collecting responses from 50 to 80 users in your target audience an
 
 For the analysis use this [spreadsheet template](https://drive.google.com/drive/search?q=kano%20model:%20Survey%20for%20feature%20prioritization){:target="_blank"} (GitLab internal link).
 
-Example [report](https://drive.google.com/drive/search?q=gitlab%20plus:%20kano%20research) (GitLab internal link) that summarizes the output from the quantitative approach. 
+Example [report](https://drive.google.com/drive/search?q=gitlab%20plus:%20kano%20research) (GitLab internal link) that summarizes the output from the quantitative approach.
 
-Taking the quantitative and qualitative approach will result in a more complete story behind the data. In addition to prioritization, you'll also be able to explain _why_ participants scored the way they did, too. Combine these two approaches to get the most of your Kano model study.
+Taking the quantitative and qualitative approach will result in a more complete story behind the data. In addition to prioritization, you'll also be able to explain *why* participants scored the way they did, too. Combine these two approaches to get the most of your Kano model study.
 
 ## Additional resources
+
 - Article: [The Complete Guide to Kano Model](https://foldingburritos.com/kano-model/)
 - Article: [Kano Model — Ways to use it and NOT use it](https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808)
 - Video: [Building a Winning UX Strategy Using the Kano Model](https://www.youtube.com/watch?v=Hr1rN3jibIk&feature=youtu.be)
 
 ## Examples of Kano research conducted at GitLab
+
 - [Monitoring feature prioritization](https://gitlab.com/gitlab-org/ux-research/-/merge_requests/28)
 - [CI feature prioritization](https://gitlab.com/gitlab-org/ux-research/-/issues/1027)
 - [Threat insights feature prioritization](https://gitlab.com/gitlab-org/ux-research/-/issues/1295)

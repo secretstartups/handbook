@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Piloting your survey"
 description: "It's very important to pilot your survey with a small number of respondents. This page describes approaches to piloting your survey."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 When you feel your survey is complete, you’re ready to pilot it.  This means sending it out to a small number of people to understand how respondents feel about it and whether they’re able to understand the questions as you hoped they would.
 

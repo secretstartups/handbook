@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Sending licenses to a different email address
 description: "Information on the process for sending licenses to a different email address"
 category: GitLab Self-Managed licenses

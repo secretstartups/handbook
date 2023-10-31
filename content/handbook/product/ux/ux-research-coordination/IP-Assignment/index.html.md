@@ -1,19 +1,20 @@
 ---
-layout: handbook-page-toc
+
 title: "The IP Assignment and when to show it"
 description: "Learn about what the IP Assignment is and when to show it to research participants."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
-The Intellectual Property (IP) Assignment is a short acknowledgement by which participants in UX research activities confirm that IP rights in any feedback, suggestions and ideas they provide are (i) owned by GitLab; and (ii) to the extent not already owned by GitLab, assigned to GitLab. 
+
+
+
+
+
+The Intellectual Property (IP) Assignment is a short acknowledgement by which participants in UX research activities confirm that IP rights in any feedback, suggestions and ideas they provide are (i) owned by GitLab; and (ii) to the extent not already owned by GitLab, assigned to GitLab.
 
 ### How is IP defined in this context?
+
 IP is purposefully not defined in the IP Assignment, but taking the natural meaning of the word, this includes, without limitation, any registered IP rights (including patent rights and registered copyrights), and any unregistered IP rights (including moral rights, inventions, and unregistered copyrights).
 
 ### When to show the IP Assignment
@@ -35,6 +36,7 @@ The below table provides guidance on when to show the IP Assignment. Irrespectiv
 | Surveys (multiple choice, ranking, scoring)    | No                  | Responses will not yield suggestions or solutions.                                                                              |
 
 ### Who is responsible for determining if the IP Assignment needs to be shown?
+
 The research project DRI is responsible in determining if the IP Assignment needs to be shown.  This is because they have the closest knowledge of the research questions and what desired output of the research project. If the research project DRI is unsure whether the IP Assignment needs to be shown, they can always reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to confirm.
 
 ### How we show the IP Assignment
@@ -59,7 +61,7 @@ The research tool being used (for example Qualtrics, UserTesting, Respondent) de
 
        `[ ] I accept the terms of GitLab's Individual Contributor License Agreement.` <br>
        `[ ] I do not accept the terms of GitLab's Individual Contributor License Agreement.`
- 
+
  - **Question:** I’m planning to run a blind study.  Do I need to show the IP Assignment?
  - **Answer:** If you anticipate the participant in the blind study will provide suggestions or solutions in their response, the IP Assignment must be shown. This requirement may prevent a blind study from taking place. If the blind study is run by a third party vendor, it’s likely that vendor will include suitable IP assignments in (i) the end user terms of service between the vendor and their research panel participants; and (ii) the vendor agreement between the vendor and GitLab.  Reach out to [#legal](https://app.slack.com/client/T02592416/C78E74A6L) to confirm suitable IP assignments are in place for a given vendor.
 
@@ -69,6 +71,6 @@ The research tool being used (for example Qualtrics, UserTesting, Respondent) de
  - **Question:** If the participants are anonymous, are there any special considerations?
  - **Answer:** No.  Same guidelines apply.
 
- - **Question:** Are these IP Assignment options included in the Qualtrics survey question library? 
+ - **Question:** Are these IP Assignment options included in the Qualtrics survey question library?
  - **Answer:** Yes. To access the IP Assignment options from within your Qualtrics survey, follow these steps: (1) create a survey question, (2) in the "..." select replace from library, (3) select the "UX Research & Product" library, (4) select "Question Library", (5) select the IP Assignment option that you want to use:  "IP Statement", "IP Assignment Question", or "Individual Contributor License Agreement (ICLA)", and (6) select "Import"
 

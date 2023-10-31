@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab Navigation"
 description: "The group::foundations team owns the navigation structures of the GitLab product. Please review this information if you plan to propose changes to GitLab navigation."
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 The [`group::foundations` team](/handbook/product/categories/#foundations-group) owns the navigation structures of the GitLab product. Please review this information if you plan to propose changes to GitLab navigation.
 
@@ -45,7 +45,7 @@ We do not add new items in order to:
 ### Process to open a navigation approval request
 
 1. It is recommended to propose a navigation change 2 milestones ahead of when you want to release. This allows enough time for collaboration between the team requesting navigation changes and Product/UX counterparts in Foundations.
-1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](https://about.gitlab.com/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes. 
+1. Before opening an issue, review the [elements and patterns for navigation in Pajamas](https://design.gitlab.com/patterns/navigation). It is worth checking the [direction page](https://about.gitlab.com/direction/manage/foundations/navigation_settings/) to see how your proposal aligns or conflicts with upcoming changes.
 1. Review the [list of navigation](/handbook/product/ux/navigation/#what-are-considered-navigation-changes) changes and what they are to make sure your change qualifies.
 1. The most important requirements:
    1. Familiarize yourself with feature discovery in the [product handbook](/handbook/product/product-principles/#discoverability-without-being-annoying) as well as our [design system](https://design.gitlab.com/usability/feature-discovery). Provide comprehensive context including alternative options explored (such as Explore, common entry points for your persona, and settings pages), which option is best suited in a given scenario & why, current and future discovery path, as well as a visual representation of proposed changes.
@@ -56,11 +56,11 @@ We do not add new items in order to:
 
 ### What are considered navigation changes
 
-* First, second, and third navigation additions
-* Renaming a navigation item
-* Removing a navigation item
-* Changing the sort order of navigation items
-* Launching an [Experiment](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) or [Beta](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) feature
+- First, second, and third navigation additions
+- Renaming a navigation item
+- Removing a navigation item
+- Changing the sort order of navigation items
+- Launching an [Experiment](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) or [Beta](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) feature
 
 ### Utilizing feature flags
 

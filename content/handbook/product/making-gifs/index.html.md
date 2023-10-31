@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Making Gifs"
 ---
 
-## On this page
 
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Animated gifs are an awesome way of showing of features that need a little more than just an image, either for marketing purposes or explaining a feature in more detail. This page holds all information on the entire process of creating a gif.
 
@@ -91,7 +91,7 @@ the entire screen or a portion of the screen.
 
 #### QuickTime (macOS)
 
-On every Mac, QuickTime has already been installed. It features a nice screen record option and even has basic trim and splitting functions in the _edit_ menu! Perfect for creating those [video files](#step-1).
+On every Mac, QuickTime has already been installed. It features a nice screen record option and even has basic trim and splitting functions in the *edit* menu! Perfect for creating those [video files](#step-1).
 
 ![quicktime gif](/handbook/product/making-gifs/quicktime.gif)
 
@@ -138,17 +138,17 @@ Worthy of mentioning:
 When you have a series of screenshots as png files, you can use [ImageMagick](/handbook/tools-and-tips/#imagemagick) to convert them to a Gif file. ImageMagick also allows to [resize images](/handbook/tools-and-tips/#resizing-images).
 
 ```
-$ convert -delay 50 -loop 0 *.png output.gif
+convert -delay 50 -loop 0 *.png output.gif
 ```
 
-When you upload the Gif file to social media, ensure that the source image resolution is smaller than 2048x2048. 
+When you upload the Gif file to social media, ensure that the source image resolution is smaller than 2048x2048.
 
 ### Resizing Gifs
 
-The Gif resolution or file size may need resizing for social media uploads, or blog post integrations. Gifsicle supports resizing Gifs in one step. The following example changes the Gif width to 2000px: 
+The Gif resolution or file size may need resizing for social media uploads, or blog post integrations. Gifsicle supports resizing Gifs in one step. The following example changes the Gif width to 2000px:
 
 ```
-$ gifsicle --resize 2000x original.gif > original_resized.gif
+gifsicle --resize 2000x original.gif > original_resized.gif
 ```
 
 ## Relevant links

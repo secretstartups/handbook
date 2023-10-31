@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Technical Writing workflows"
 description: "This document explains the workflows of the Technical Writing team."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 Technical Writing team workflows work in conjunction with the:
 
@@ -451,7 +451,7 @@ Also include:
 - Assignee: `None` until the work is scheduled for a milestone. In the issue description or comments, mention (`@username`) the Technical Writer assigned to the group for awareness.
 - Description: starts with `Docs:` or `Docs feedback:`
 - A task checklist or next step to deliver an MVC. For more information, see [Issue state](/handbook/product/product-processes/#issue-state).
-- Labels: 
+- Labels:
   - `tw::triaged`
   - (Optional, if the issue is suitable for a community contributor) [`Seeking community contributions`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=Seeking%20community%20contributions&first_page_size=50), [`quick win`](https://gitlab.com/groups/gitlab-org/-/issues/?sort=created_date&state=opened&label_name%5B%5D=quick%20win&first_page_size=50)
 
@@ -545,7 +545,7 @@ in the GitLab interface.
 
 ### Usage
 
-Any issue or merge request for which a Technical Writer provides a measurable amount of work on (including content creation and reviews) _must_ include the `Technical Writing` label.
+Any issue or merge request for which a Technical Writer provides a measurable amount of work on (including content creation and reviews) *must* include the `Technical Writing` label.
 
 After adding the `Technical Writing` label, we want to classify the type of effort we're contributing to the issue or merge request by adding an additional label from the following list:
 
@@ -561,9 +561,9 @@ After adding the `Technical Writing` label, we want to classify the type of effo
 - [`docs-technical-debt`](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=docs-technical-debt)
 - `handbook`
 - [`Technical Writing Leadership`](https://gitlab.com/gitlab-org/gitlab/-/labels?subscribed=&search=tech+writing+leadership)
-- [`docs-channel`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=docs-channel)- Technical Writers use this label if they pick up an MR or issue from the `docs` or `tw-team` Slack channels, or from roulette, _and_ it's outside of their assigned groups.
+- [`docs-channel`](https://gitlab.com/groups/gitlab-org/-/labels?subscribed=&search=docs-channel)- Technical Writers use this label if they pick up an MR or issue from the `docs` or `tw-team` Slack channels, or from roulette, *and* it's outside of their assigned groups.
 
-Depending on the issue or merge request, you may include one or more of the preceding labels with the issue or merge request, depending on its contents. There may be occasions when _none_ of the preceding labels apply to the issue or merge request; in that case, having only the `Technical Writing` label is enough.
+Depending on the issue or merge request, you may include one or more of the preceding labels with the issue or merge request, depending on its contents. There may be occasions when *none* of the preceding labels apply to the issue or merge request; in that case, having only the `Technical Writing` label is enough.
 
 ### Documentation-specific type labels
 

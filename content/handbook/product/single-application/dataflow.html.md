@@ -1,9 +1,9 @@
 ---
-layout: markdown_page
+
 title: Data flow GitLab vs. multiple applications
 ---
 
-- TOC
+
 {:toc}
 
 How does having one application vs many applications impact workflow?

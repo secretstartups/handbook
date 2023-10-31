@@ -1,12 +1,12 @@
 ---
-layout: handbook-page-toc
+
 title: Crash Course for Product Stage Resources
 ---
 
-## On this page
+
 {:.no_toc}
 
-- TOC
+
 {:toc}
 
 
@@ -15,29 +15,29 @@ title: Crash Course for Product Stage Resources
 This page is intended to provide a crash course style overview of the most important Product Analytics related resources for each product Stage.
 As a Product Analyst or other curious GitLab team member, it can be helpful to have a quick and easy reference for each product Stage to quickly understand high-level functionality, key objectives or a distilled product roadmap, and key data resources currently used under a specific Stage or Group within GitLab before jumping in to an analysis.
 
-If this page serves it's purpose, Product Analysts should be able to visit this handbook page before working with a Stage or Group to obtain helpful contextual information without needing to do a scavenger hunt search across dozens of handbook pages to find relevant information. 
+If this page serves it's purpose, Product Analysts should be able to visit this handbook page before working with a Stage or Group to obtain helpful contextual information without needing to do a scavenger hunt search across dozens of handbook pages to find relevant information.
 
 ## Helpful places to start
 
-* [Internal handbook performance indicators (PIs)](https://internal.gitlab.com/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
+- [Internal handbook performance indicators (PIs)](https://internal.gitlab.com/handbook/company/performance-indicators/) - This internal handbook page is a great place to understand the PIs for each Stage / Group to understand what results each team is trying to acheive.
 
-* [Sisense Usage Insights](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights) is a Dashboard that provides a high level analysis of most commonly used Sisesnse Dashboards, Data Sources, and Snippets.
+- [Sisense Usage Insights](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights) is a Dashboard that provides a high level analysis of most commonly used Sisesnse Dashboards, Data Sources, and Snippets.
 
-* [Product categories handbook page](/handbook/product/categories/) contains a huge amount of helpful information and defines sections, stages, groups, and categories.
+- [Product categories handbook page](/handbook/product/categories/) contains a huge amount of helpful information and defines sections, stages, groups, and categories.
 
-* Need to quickly learn how a certain Stage/Group feature works? [GitLab Docs](https://docs.gitlab.com/)
+- Need to quickly learn how a certain Stage/Group feature works? [GitLab Docs](https://docs.gitlab.com/)
 
-* [Metrics dictionary](https://metrics.gitlab.com/) contains metrics and events collected in Service Ping and Snowplow. For more information visit the dedicated [Analytics Instrumentation Guide](/handbook/product/analytics-instrumentation-guide/#metrics-dictionary).
+- [Metrics dictionary](https://metrics.gitlab.com/) contains metrics and events collected in Service Ping and Snowplow. For more information visit the dedicated [Analytics Instrumentation Guide](/handbook/product/analytics-instrumentation-guide/#metrics-dictionary).
 
-* [Features by Group handbook page](/handbook/product/categories/features/#planproject-management-group) contains a tabular breakdown of features included in each Stage Group by Core, Premium or Ultimate categories. 
+- [Features by Group handbook page](/handbook/product/categories/features/#planproject-management-group) contains a tabular breakdown of features included in each Stage Group by Core, Premium or Ultimate categories.
 
-* [Definitive guides to data subject areas](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team. 
+- [Definitive guides to data subject areas](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#definitive-guides) managed by the Data team.
 
-* [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
+- [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) contains CMAU, SMAU, and GMAU charts for each section, stage, and group.
 
-* The [Technical Marketing handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.  
+- The [Technical Marketing handbook page](https://about.gitlab.com/handbook/marketing/developer-relations/technical-marketing/) contains links to product demos, webinars and release videos.  
 
-* GitLab's Fiscal Year runs from February 1 to January 31. [Here](/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
+- GitLab's Fiscal Year runs from February 1 to January 31. [Here](/handbook/finance/#fiscal-year) is a link to GitLab's Fiscal Quarter to Month map.
 
 ## Learn about analytics relevant product stage topics grouped by Section
 
@@ -46,6 +46,7 @@ Why are these groupings called 'Stages'? At GitLab, we build a product that supp
 ### Dev Section
 
 #### Manage Stage
+
 This Stage helps teams manage their software delivery lifecycle with metrics and value stream insight in order to streamline and increase their delivery velocity. Insights, authentication, audits, compliance, user management, group & sub-group management, and project management.
 
 <details markdown="1"><summary>Click to expand</summary>
@@ -53,13 +54,13 @@ This Stage helps teams manage their software delivery lifecycle with metrics and
 
 **Top dashboards referenced by this team**
 
-* [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Overall SMAU/GMAU dashboard primarily utilized by the Import Group
+- [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Overall SMAU/GMAU dashboard primarily utilized by the Import Group
 
-* [Manage Stage Sisense Topics Page](https://app.periscopedata.com/app/gitlab/topic/Manage-Stage/ab937816bcd24c9291ceb7b6c5e30c49)  Overall Manage stage pinned dashboards for easy access
+- [Manage Stage Sisense Topics Page](https://app.periscopedata.com/app/gitlab/topic/Manage-Stage/ab937816bcd24c9291ceb7b6c5e30c49)  Overall Manage stage pinned dashboards for easy access
 
-* [Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)  Dashboard frequently used by the Compliance Group
+- [Manage : Compliance](https://app.periscopedata.com/app/gitlab/663045/Manage:-Compliance-Dashboard)  Dashboard frequently used by the Compliance Group
 
-* [Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)  Dashboard frequently used by the Optimize Group
+- [Manage : Optimize Feature Usage](https://app.periscopedata.com/app/gitlab/779829/Manage:Optimize-Feature-Usage)  Dashboard frequently used by the Optimize Group
 
 
 **Important data documentation**
@@ -96,7 +97,7 @@ The Problems to Solve section of Manage's Product Direction Page is the most con
 
 [Metrics from Product Direction Page](https://about.gitlab.com/direction/manage/#metrics)
 
-This link breaks down the performance indicators for each Manage Group clearly and links out to the Internal Handbook PI page. 
+This link breaks down the performance indicators for each Manage Group clearly and links out to the Internal Handbook PI page.
 
 **Key handbook pages**
 
@@ -115,21 +116,22 @@ This link breaks down the performance indicators for each Manage Group clearly a
 </details>
 
 #### Plan Stage
+
 Enable teams to effectively plan and execute work in a single application. This stage enables portfolio planning and management through epics, groups (programs), milestones, etc. to organize and track progress
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))  Overall Plan Stage xMAU dashboard
+- [Plan xMAU (monthly)](https://app.periscopedata.com/app/gitlab/775807/Plan-xMAU-(monthly))  Overall Plan Stage xMAU dashboard
 
-* [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard
+- [Centralized SMAU/GMAU](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)  Most Group PMs on Plan utilize the Centralized SMAU/GMAU dashboard
 
-* [Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)  Analyses dealing with Snowplow events tables
+- [Plan stage .com events](https://app.periscopedata.com/app/gitlab/654183/Plan-stage-.com-events)  Analyses dealing with Snowplow events tables
 
-* [Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)  Primarily engineering analytics utilized for Plan Stage decision making
+- [Say Do Ratios](https://app.periscopedata.com/app/gitlab/658030/Say-Do-Ratios)  Primarily engineering analytics utilized for Plan Stage decision making
 
-* [Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)  Primarily engineering analytics utilized for Plan Stage decision making
+- [Plan stage capacity planning](https://app.periscopedata.com/app/gitlab/587512/Plan-stage-capacity-planning)  Primarily engineering analytics utilized for Plan Stage decision making
 
 **Important data documentation**
 
@@ -175,23 +177,24 @@ Resource to understand the Performance Indicators for the Dev Section - Page can
 </details>
 
 #### Create Stage
+
 Create provides tools that support the beginning of the DevOps Life Cycle. Source Code management, Code Review, Wiki, Web IDE, etc.
 
-[Start on the GitLab website page](https://about.gitlab.com/features/) dedicated to Create to get an understanding of features included in this Stage. 
+[Start on the GitLab website page](https://about.gitlab.com/features/) dedicated to Create to get an understanding of features included in this Stage.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Create - Code Review Topics page](https://app.periscopedata.com/app/gitlab/topic/Create---Code-Review/abb4786159ef4aa7abad4da4c21b0871)  Create : Code Review group specific pinned dashboards for easy access
+- [Create - Code Review Topics page](https://app.periscopedata.com/app/gitlab/topic/Create---Code-Review/abb4786159ef4aa7abad4da4c21b0871)  Create : Code Review group specific pinned dashboards for easy access
 
-* [Code Review MAU Metrics](https://app.periscopedata.com/app/gitlab/786738/Code-Review-MAU-Metrics)  Used frequently by Create : Code Review Group
+- [Code Review MAU Metrics](https://app.periscopedata.com/app/gitlab/786738/Code-Review-MAU-Metrics)  Used frequently by Create : Code Review Group
 
-* [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)  Used frequently by Create : Code Review Group
+- [Editor Extension Category MAU Metrics](https://app.periscopedata.com/app/gitlab/825329/Editor-Extension-Category-MAU-Metrics)  Used frequently by Create : Code Review Group
 
-* [Performance indicators internal handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
+- [Performance indicators internal handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/dev-section/)  The Create : Gitaly Group primarily uses the Performance Indicators Internal Handbook Page to guide decisions
 
-* [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
+- [Handbook page containing engineering analytics dashboards](https://about.gitlab.com/handbook/engineering/development/dev/create/engineering-managers/dashboards/)  Used by Create Stage Engineering Managers
 
 **Important data documentation**
 
@@ -231,7 +234,7 @@ Contains helpful information about how Create operates and current team members
 
 **Slack channels**
 
-**#s_create** 
+**#s_create**
 
 **#s_create_pm**
 
@@ -244,21 +247,22 @@ Contains helpful information about how Create operates and current team members
 ### Ops Section
 
 #### Verify Stage
-Verify provides teams with tools that help facilitate continuous integration. This includes but is not limited to pipelines and runners. 
+
+Verify provides teams with tools that help facilitate continuous integration. This includes but is not limited to pipelines and runners.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Centralized SMAU / GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) This dashboard is a central place for all stages where their SMAU and GMAU metrics are housed for a high-level overview.
+- [Centralized SMAU / GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard) This dashboard is a central place for all stages where their SMAU and GMAU metrics are housed for a high-level overview.
 
-* [Ops Section Dashboard](https://app.periscopedata.com/app/gitlab/781120/Ops-Section-Dashboard) This is the central dashboard for all performance indicator metrics related to the Ops section. 
+- [Ops Section Dashboard](https://app.periscopedata.com/app/gitlab/781120/Ops-Section-Dashboard) This is the central dashboard for all performance indicator metrics related to the Ops section.
 
-* [GitLab Runner SaaS Performance Indicator Metrics](https://app.periscopedata.com/app/gitlab/800667/GitLab-Runner-SaaS-performance-indicator-metrics)
+- [GitLab Runner SaaS Performance Indicator Metrics](https://app.periscopedata.com/app/gitlab/800667/GitLab-Runner-SaaS-performance-indicator-metrics)
 
-* [Actions per Month Verify Stage Dashboard](https://app.periscopedata.com/app/gitlab/538594/Actions-Per-Month-Verify-Stage-Dashboard)
+- [Actions per Month Verify Stage Dashboard](https://app.periscopedata.com/app/gitlab/538594/Actions-Per-Month-Verify-Stage-Dashboard)
 
-* [Error Budget Dashboard](https://app.periscopedata.com/app/gitlab/892433/Error-Budget-Dashboard---Stage-Verify)
+- [Error Budget Dashboard](https://app.periscopedata.com/app/gitlab/892433/Error-Budget-Dashboard---Stage-Verify)
 
 **Important data documentation**
 
@@ -299,13 +303,13 @@ A central hub for all pages related to the Verify stage
 Overall channel for Verify
 
 **#g_pipeline-execution**
-Slack channel for the Verify:Pipeline Execution product category. 
+Slack channel for the Verify:Pipeline Execution product category.
 
 **#g_pipeline-authoring**
 Slack channel for the Verify:Pipeline Authoring product category.
 
 **#g_runner**
-Slack channel for the Verify:Runner product category. 
+Slack channel for the Verify:Runner product category.
 
 **#g_pipeline-security**
 Slack channel for the Verify:Pipeline Security product category.
@@ -317,29 +321,30 @@ Slack channel for the Verify:Pipeline Security product category.
 </details>
 
 #### Package Stage
+
 The Package team works on the package and container registries, as well as the Dependency Proxy.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Package GitLab.com Stage Activity](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard)
+- [Package GitLab.com Stage Activity](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard)
 
 Primarily time series analyses for Package features on GitLab.com
 
-* [Package: User Adoption and Growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth)
+- [Package: User Adoption and Growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth)
 
 Primarily time series analyses including both SaaS and SM usage of Package features
 
-* [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption)
+- [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption)
 
 Customer specific data tables regarding specific Package feature usage
 
-* [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs)
+- [Package: Costs](https://app.periscopedata.com/app/gitlab/1011032/Package:-Costs)
 
-Dashboard analyzing GCP costs associated with Package features. 
+Dashboard analyzing GCP costs associated with Package features.
 
-* [Package:-UI-Data](https://app.periscopedata.com/app/gitlab/1033908/Package:-UI-Data)
+- [Package:-UI-Data](https://app.periscopedata.com/app/gitlab/1033908/Package:-UI-Data)
 
 Dashboard measuring user interaction with the GitLab.com user interface.
 
@@ -387,7 +392,7 @@ GitLab Docs are awesome!
 
 **Slack channels**
 
-**#s_package** 
+**#s_package**
 
 **Team members**
 
@@ -405,7 +410,7 @@ GitLab's integrated CD solution allows users to ship code with zero-touch, be it
 
 **Top dashboards referenced by this team**
 
-* [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/777879/Release-Stage-Dashboard) Primary point of reference for the Release Stage team. 
+- [Release Stage Dashboard](https://app.periscopedata.com/app/gitlab/777879/Release-Stage-Dashboard) Primary point of reference for the Release Stage team.
 
 
 **Important data documentation**
@@ -457,9 +462,9 @@ Enabling users to configure applications and infrastructure. Auto DevOps, Kubern
 
 **Top dashboards referenced by this team**
 
-* [Configure team business metrics](https://app.periscopedata.com/app/gitlab/511813/Configure-team-business-metrics) Central point of entry for the Configure Stage team to evaluate metrics.
+- [Configure team business metrics](https://app.periscopedata.com/app/gitlab/511813/Configure-team-business-metrics) Central point of entry for the Configure Stage team to evaluate metrics.
 
-* [Configure Stage Topic Board](https://app.periscopedata.com/app/gitlab/topic/Configure-Stage/ab515335d8494519ad4971740a62171a) Contains all of the most commonly used dashbaords by the Configure team.
+- [Configure Stage Topic Board](https://app.periscopedata.com/app/gitlab/topic/Configure-Stage/ab515335d8494519ad4971740a62171a) Contains all of the most commonly used dashbaords by the Configure team.
 
 
 **Important data documentation**
@@ -511,9 +516,9 @@ Helps reduce the severity and frequency of incidents. Incident management and er
 
 **Top dashboards referenced by this team**
 
-* [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)
+- [Centralized SMAU/GMAU Dashboard](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard)
 
-* [Error Budget Dashboard - Stage Monitor](https://app.periscopedata.com/app/gitlab/892457/Error-Budget-Dashboard---Stage-Monitor)
+- [Error Budget Dashboard - Stage Monitor](https://app.periscopedata.com/app/gitlab/892457/Error-Budget-Dashboard---Stage-Monitor)
 
 
 **Important data documentation**
@@ -560,23 +565,23 @@ Resource to understand the Performance Indicators for the Ops Section - Page can
 
 #### Secure Stage
 
-Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning 
+Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Container Scanning, and Dependency Scanning
 
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics) Secure:Dynamic Analysis Group
+- [Dynamic Analysis Metrics](https://app.periscopedata.com/app/gitlab/703762/WIP:-Dynamic-Analysis-metrics) Secure:Dynamic Analysis Group
 
-Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team to compare totals from different data sets. 
+Some seemingly duplicate charts in Dynamic Analysis Metrics are used by the team to compare totals from different data sets.
 
-* [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Govern:Threat Insights Group
+- [Threat Management Metrics](https://app.periscopedata.com/app/gitlab/737412/Threat-Management-Metrics---Matt's-Playground) Govern:Threat Insights Group
 
-* [Secure & Govern GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
-This dashboard shows various MAU metrics for Secure and Govern. 
+- [Secure & Govern GMAU/SMAU Metrics](https://app.periscopedata.com/app/gitlab/707777/Secure-&-Protect-GMAU-SMAU-Metrics)
+This dashboard shows various MAU metrics for Secure and Govern.
 
-* [Secure SCA - PI - Software Composition Analysis](https://app.periscopedata.com/app/gitlab/749790/Secure-SCA---PI---Software-Composition-Analysis---Schwartz) Secure:Composition Analysis Group
+- [Secure SCA - PI - Software Composition Analysis](https://app.periscopedata.com/app/gitlab/749790/Secure-SCA---PI---Software-Composition-Analysis---Schwartz) Secure:Composition Analysis Group
 
 
 
@@ -629,7 +634,7 @@ Manage security vulnerabilities, policies, and compliance across your organizati
 
 **Top dashboards referenced by this team**
 
-* [Security Policies Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Govern:Security Policies Group
+- [Security Policies Metrics](https://app.periscopedata.com/app/gitlab/694854/Container-Security-Metrics) Govern:Security Policies Group
 
 
 **Important data documentation**
@@ -677,6 +682,7 @@ WHERE field = stage_name
 
 
 #### Systems Stage (Distribution, Gitaly, Geo Groups)
+
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Systems Stage includes Distribution, Gitaly and Geo Groups.
 
 
@@ -684,26 +690,26 @@ Supports enterprise-grade operational experience of GitLab products from streaml
 
 **Top dashboards referenced by this team**
 
-* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
+- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
 
 
 **Important data documentation**
 
 There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
 
-The following tables can be used for Service Ping metric reporting. 
+The following tables can be used for Service Ping metric reporting.
 
-* common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
+- common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
 
-* common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
+- common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
 
-* common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
+- common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
 
-* common_mart.mart_ping_instance_metric_monthly - Use for all, 7, 28 timeframe metrics pre filtered to the last ping of the month (does not include none or null timeframe metrics)
+- common_mart.mart_ping_instance_metric_monthly - Use for all, 7, 28 timeframe metrics pre filtered to the last ping of the month (does not include none or null timeframe metrics)
 
-* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
+- workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
 
-* workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
+- workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
 
 Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
 
@@ -719,7 +725,7 @@ Includes Stage and Group level details
 
 **Performance indicators**
 
-[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/) 
+[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/)
 
 **Key handbook pages**
 
@@ -745,32 +751,33 @@ OR
 </details>
 
 #### Data Stores Stage (Memory, Global Search, Database, Pods Groups)
+
 Supports enterprise-grade operational experience of GitLab products from streamlined deployment and maintenance, disaster recovery, secure search and discoverability, to high availability, scalability, and performance. The Data Stores Stage includes Memory, Global Search, Database and Pods Groups.
 
 <details markdown="1"><summary>Click to expand</summary>
 
 **Top dashboards referenced by this team**
 
-* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
+- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Enablement Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/820).
 
 
 **Important data documentation**
 
 There are no Enablement metrics currently collected in our Postgres Replica data for Gitlab.com
 
-The following tables can be used for Service Ping metric reporting. 
+The following tables can be used for Service Ping metric reporting.
 
-* common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
+- common_mart.mart_ping_instance_metric_all_time - Use for all time timeframe metrics
 
-* common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
+- common_mart.mart_ping_instance_metric_7_day - Use for 7 day timeframe metrics
 
-* common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
+- common_mart.mart_ping_instance_metric_28_day - Use for 28 day timeframe metrics
 
-* common_mart.mart_ping_instance_metric_monthly - Use for all time and 28 day timeframe metrics, pre filtered to the last ping of the month (does not include 7 day, none, or null timeframe metrics)
+- common_mart.mart_ping_instance_metric_monthly - Use for all time and 28 day timeframe metrics, pre filtered to the last ping of the month (does not include 7 day, none, or null timeframe metrics)
 
-* workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
+- workpace_product.wk_fct_ping_instance_metric_none - Use for metrics with a none timeframe
 
-* workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
+- workpace_product.wk_fct_ping_instance_metric_null - Use for metrics with a null timeframe
 
 Use the [metrics dictionary](https://metrics.gitlab.com/) to determine the timeframe value for any service ping metric.
 
@@ -786,7 +793,7 @@ Includes Stage and Group level details
 
 **Performance indicators**
 
-[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/) 
+[Enablement Section PI handbook page](https://internal.gitlab.com/handbook/company/performance-indicators/product/enablement-section/)
 
 **Key handbook pages**
 
@@ -815,10 +822,12 @@ OR
 
 
 ### Growth Section
-Although the [Growth Section](https://about.gitlab.com/handbook/marketing/growth/) falls within the Maketing & Strategy division, the Growth Section has dedicated support from Product Data Insights on topics within our ownership areas. 
+
+Although the [Growth Section](https://about.gitlab.com/handbook/marketing/growth/) falls within the Maketing & Strategy division, the Growth Section has dedicated support from Product Data Insights on topics within our ownership areas.
 
 
 #### Growth Stage (Acquisition, Activation Groups)
+
 Growth owns the free and trial registration and new user onboarding experiences.
 
 
@@ -826,22 +835,22 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Top dashboards referenced by this team**
 
-* All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Growth Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/729).
+- All dashboards commonly referenced by this team that will be transitioned to Tableau in CY2023 can be found in this [Growth Tableau Transition Epic](https://gitlab.com/groups/gitlab-data/-/epics/729).
 
-* [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub) 
+- [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub)
 
-* [Filterable Growth Experiment Analysis Dashboard](https://app.periscopedata.com/app/gitlab/1121391/Filterable-Growth-Experiment-Analysis)
+- [Filterable Growth Experiment Analysis Dashboard](https://app.periscopedata.com/app/gitlab/1121391/Filterable-Growth-Experiment-Analysis)
 
-* [Growth Experiment Event Validation](https://app.periscopedata.com/app/gitlab/1120337/Growth-Experiment-Event-Validation) 
+- [Growth Experiment Event Validation](https://app.periscopedata.com/app/gitlab/1120337/Growth-Experiment-Event-Validation)
 
-* [Snowplow Event Exploration L30D](https://app.periscopedata.com/app/gitlab/539181/Snowplow-Event-Exploration---last-30-days) - commonly sent to engineers for event validation.
+- [Snowplow Event Exploration L30D](https://app.periscopedata.com/app/gitlab/539181/Snowplow-Event-Exploration---last-30-days) - commonly sent to engineers for event validation.
 
 
 **Important data documentation**
 
-* [workspace_product.wk_rpt_namespace_onboarding](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_rpt_namespace_onboarding) This model contains all of the most commonly analyzed Growth use cases including namespace and namespace creator attributes and SaaS product behavior. This model can be contributed to by PDI, DEX and Marketing Analytics teams. 
+- [workspace_product.wk_rpt_namespace_onboarding](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.wk_rpt_namespace_onboarding) This model contains all of the most commonly analyzed Growth use cases including namespace and namespace creator attributes and SaaS product behavior. This model can be contributed to by PDI, DEX and Marketing Analytics teams.
 
-* Because Growth topics are broad and cross-functional, there are many data models that are commonly used to answer Growth product analytics questions. More comprehensive documentation can be found in [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/).
+- Because Growth topics are broad and cross-functional, there are many data models that are commonly used to answer Growth product analytics questions. More comprehensive documentation can be found in [Product Data Insights Data Models Cheat Sheet](/handbook/product/product-analysis/data-model-cheat-sheet/).
 
 **Helpful video resources**
 
@@ -853,11 +862,11 @@ Growth owns the free and trial registration and new user onboarding experiences.
 
 **Performance indicators**
 
-* [SaaS Team Activation](https://docs.google.com/presentation/d/1rJG8FaqEjfgA-Nz9Ww3blgcUwRGzri7CeKkn1e2eEHY/edit?usp=sharing) 
+- [SaaS Team Activation](https://docs.google.com/presentation/d/1rJG8FaqEjfgA-Nz9Ww3blgcUwRGzri7CeKkn1e2eEHY/edit?usp=sharing)
 
-* [Valuable Signup](https://docs.google.com/presentation/d/1xHBrnvwdMxQGqmX0TtcQz5tUYsAeU6CAMnpcDlhHUpc/edit?usp=sharing)
+- [Valuable Signup](https://docs.google.com/presentation/d/1xHBrnvwdMxQGqmX0TtcQz5tUYsAeU6CAMnpcDlhHUpc/edit?usp=sharing)
 
-* Both of the above metrics are monitored in [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub) 
+- Both of the above metrics are monitored in [Growth Section Product Data Insights Hub in Tableau](https://10az.online.tableau.com/t/gitlab/views/GrowthSectionProductDataInsightsHub/GrowthSectionProductDataInsightsHub)
 
 **Key handbook pages**
 

@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Finding SaaS users"
 description: "How we target SaaS research participants to meet specific criteria"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Finding SaaS (GitLab.com) users
 
@@ -17,9 +17,9 @@ description: "How we target SaaS research participants to meet specific criteria
 We have a variety of methods for identifying and [recruiting participants for research studies](/handbook/product/ux/ux-research/recruiting-participants), including Respondent.io and recruiting via social media. However, there are situations where these methods aren't suitable and you need to be able to find users based on a very specific criteria backed by objective usage data rather than self-reported or inferred data. The best way to do this is to take advantage of the usage and demographic data we have in our data warehouse.
 
 **A non-exhaustive list of examples of when finding users via the data warehouse would be appropriate:**
-* You are looking for users with a certain volume of usage of a feature or stage rather than simply being users of a stage
-* You are looking for users that have interacted with a specific type of object or content on GitLab (ex: epics, snippets, wiki, etc.)
-* You need to understand the broader context of the group or project the user is working within (ex: users in groups with less than 30 users, users in Gold plan groups, users in projects with no repository usage)
+- You are looking for users with a certain volume of usage of a feature or stage rather than simply being users of a stage
+- You are looking for users that have interacted with a specific type of object or content on GitLab (ex: epics, snippets, wiki, etc.)
+- You need to understand the broader context of the group or project the user is working within (ex: users in groups with less than 30 users, users in Gold plan groups, users in projects with no repository usage)
 
 ### Pre-requisites
 
@@ -49,11 +49,11 @@ LIMIT 100
 ### Object Tables (projects, issues, merge requests, etc)
 
 We have a tables containing records for all of our "top level" objects in GitLab, among others:
-* projects
-* groups
-* issues
-* merge requests
-* epics
+- projects
+- groups
+- issues
+- merge requests
+- epics
 
 If you can create it on GitLab.com, there is probably a table for it. These tables follow the same structure as other SaaS tables. For example:
 
@@ -89,13 +89,13 @@ For example: You need to find user IDs for 50 users who interacted with CI pipel
 SELECT user_id
 FROM analytics.gitlab_dotcom_monthly_stage_active_users
 WHERE
-	event_name='ci_pipelines'
-	AND (event_count >= 17 OR event_day_count >= 9)
-	AND smau_month='2020-04-01'
+ event_name='ci_pipelines'
+ AND (event_count >= 17 OR event_day_count >= 9)
+ AND smau_month='2020-04-01'
 LIMIT 50
 ```
 
 ### How to get help
 
-* For questions on where you can find certain data in the warehouse, the #data channel on Slack can address them.
-* If you require a very in depth SQL query, you can reach out to the [Product Data Insights team](https://about.gitlab.com/handbook/product/product-analysis/#working-with-us) to see if they have availability to assist you. 
+- For questions on where you can find certain data in the warehouse, the #data channel on Slack can address them.
+- If you require a very in depth SQL query, you can reach out to the [Product Data Insights team](https://about.gitlab.com/handbook/product/product-analysis/#working-with-us) to see if they have availability to assist you.

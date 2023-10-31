@@ -1,18 +1,19 @@
 ---
-layout: handbook-page-toc
+
 title: "Documenting research insights in Dovetail"
 description: "The GitLab UX Research team's guide to documenting insights in Dovetail"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 The UX Research team uses [Dovetail](https://dovetailapp.com/) to document all the research insights discovered through GitLab’s UX research program. Research insights can be gathered through methods such as user [interviews](/handbook/product/ux/ux-research/facilitating-user-interviews/), [usability testing](/handbook/product/ux/ux-research/usability-testing/), surveys, card sorts, tree tests, customer conversations, and more.
 
 #### Why do we document research in Dovetail?
+
 The UX Research team has [always faced challenges](https://about.gitlab.com/blog/2019/07/10/building-a-ux-research-insights-repository/) in finding the best way to create research reports that are easy to digest and access. When sharing research insights via PDFs, Google docs, and even GitLab issues themselves, it was difficult to track and share study findings. Additionally, since we are often asked to readily recall information we've learned in prior studies, it can be tedious to read through old reports, look through pages of interview notes, or rewatch video recordings to find the information we need. This problem compounds, since we are continuously producing research reports and the wealth of information grows infinitely.
 
 The goal of Dovetail is to make research findings searchable, concise, and easy to reference.
@@ -30,19 +31,20 @@ The goal of Dovetail is to make research findings searchable, concise, and easy 
 1. Check out this [project](https://dovetailapp.com/projects/7fa7fb97-1c9e-41ab-ad3a-55a32987b048/readme) (internal access only) for a great example of how to organize your data, use tags, and turn highlights into insights.
 
 ### The UX Research team's guide to documenting insights in Dovetail
+
 #### Creating a project
 
-At the end of each research study, the study's DRI is responsible for documenting the research in Dovetail. The first step is to create a new project in Dovetail, under the folder that corresponds to your product stage (e.g. Manage). 
+At the end of each research study, the study's DRI is responsible for documenting the research in Dovetail. The first step is to create a new project in Dovetail, under the folder that corresponds to your product stage (e.g. Manage).
 
-1. Go to `Projects`. 
-1. Locate your stage group. 
-1. Click `New project` and select the template you need for your project. You will be redirected to the Project's ReadMe file. 
+1. Go to `Projects`.
+1. Locate your stage group.
+1. Click `New project` and select the template you need for your project. You will be redirected to the Project's ReadMe file.
 
 #### Updating the ReadMe file
 
-In the ReadMe file, update the name of your project from `Problem or Solution Validation Research` to something more recognizable. Ensure you add a link to your research request/brief. 
+In the ReadMe file, update the name of your project from `Problem or Solution Validation Research` to something more recognizable. Ensure you add a link to your research request/brief.
 
-As part of the template, you'll need to provide a link to your research issue in the GitLab UX Research project. Make sure to use the `UX Problem Validation`, `UX Solution Validation`, or `CM Scorecard` tag to ensure proper tracking of your research issue. 
+As part of the template, you'll need to provide a link to your research issue in the GitLab UX Research project. Make sure to use the `UX Problem Validation`, `UX Solution Validation`, or `CM Scorecard` tag to ensure proper tracking of your research issue.
 
 There is no need to add further information about your project to the ReadMe file unless you wish to do so. If you'd like to provide more context, you can describe the research methodology used in the study and any background information you may have about the research participants.
 
@@ -60,9 +62,9 @@ The following video demonstrates how to use the import feature and how to struct
 
 ### Tagging data in Dovetail
 
-Dovetail helps you identify patterns and themes that emerge across your research data and turn those into insight statements. Once you have imported all your raw data, you are ready to start highlighting and tagging content. Think of a highlight as anything interesting that you heard or observed during a research session (for example: a user's pain point or motivation). Tag highlights with the feature/area of GitLab to which the highlight relates (for example, ‘Merge Requests’) and the persona (for example, ‘Sasha: Software Developer’) who made the comment, if possible. 
+Dovetail helps you identify patterns and themes that emerge across your research data and turn those into insight statements. Once you have imported all your raw data, you are ready to start highlighting and tagging content. Think of a highlight as anything interesting that you heard or observed during a research session (for example: a user's pain point or motivation). Tag highlights with the feature/area of GitLab to which the highlight relates (for example, ‘Merge Requests’) and the persona (for example, ‘Sasha: Software Developer’) who made the comment, if possible.
 
-A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data ](/handbook/product/ux/ux-research/analyzing-research-data/)handbook page.
+A bit like [affinity mapping](https://en.wikipedia.org/wiki/Affinity_diagram), tags in Dovetail help you identify and keep track of patterns that emerge across your research data. A single highlight can have one or many tags associated with it. More help can be found on our [Analyzing and synthesizing user data](/handbook/product/ux/ux-research/analyzing-research-data/)handbook page.
 
 #### Enable Global Tags in your Project
 
@@ -70,9 +72,9 @@ As a way to keep Gitlab's research more consistent, we encourage everyone to uti
 
 There are two sets of tags available for your projects. You may use either set whenever you want, as well as your own custom tags, but be aware you will have to enable the tags for **each project**. When summarizing your research, first look at the global tags, and then the section tags when appropriate, and lastly create your own tags. The differences between the two sets of tags is shown below:
 
--   [Gitlab Global Tags](https://gitlab.dovetailapp.com/settings/tags/1imTtBuMIPQSxT46mHjDeX) which contain tags that can be used across all stage groups for a wide range of projects, but particularly useful for solution validation. Try to look at these tags first.
+- [Gitlab Global Tags](https://gitlab.dovetailapp.com/settings/tags/1imTtBuMIPQSxT46mHjDeX) which contain tags that can be used across all stage groups for a wide range of projects, but particularly useful for solution validation. Try to look at these tags first.
 
--   [Gitlab Section Tags](https://gitlab.dovetailapp.com/settings/tags/79TyjJnDkNehFnB4h9DfTp) which contain tags organized by [section](/handbook/product/categories/#devops-stages), which can be used for more feature specific, feature-related work. 
+- [Gitlab Section Tags](https://gitlab.dovetailapp.com/settings/tags/79TyjJnDkNehFnB4h9DfTp) which contain tags organized by [section](/handbook/product/categories/#devops-stages), which can be used for more feature specific, feature-related work.
 
 This [video](https://www.youtube.com/watch?v=Cmh4yNu8fxE) contains a walkthrough of the steps below to enable a global tag on your project:
 
@@ -100,11 +102,11 @@ Tags are organized into categories, so you may want to familiarize yourself with
 
 ##### When to use Global Tags
 
-Global tags can be used as a way to supplement manual tagging by providing standardization and structure. They are not meant to be the only source of tags used in your project. Due to the uniqueness of each research project, there may often be times when creating a new tag is more helpful than using one of the global tags. 
+Global tags can be used as a way to supplement manual tagging by providing standardization and structure. They are not meant to be the only source of tags used in your project. Due to the uniqueness of each research project, there may often be times when creating a new tag is more helpful than using one of the global tags.
 
 **Example:** When conducting a user interview, try to identify the users' feelings towards a particular experience. There may be a number of times when you will want to use tags from the Gitlab Global Tags such as `feature request` & `frustrated` when talking about an experience. Those insights may not be specific enough for your research, so creating additional tags like `wants a drop-down for options` can also be used.
 
-**_A good goal to set for your project is to have 50% of your tags come from global tags._**
+***A good goal to set for your project is to have 50% of your tags come from global tags.***
 
 If you are unsure about whether to create your own tag or use an existing global tag, first think about what would generate the most informative insights. If a global tag can be used while preserving the accuracy of the insights, then stick to that. Otherwise, follow our best practices for creating tags in dovetail.
 
@@ -259,32 +261,32 @@ If you believe the tag library is incomplete or in need of editing, please send 
 
 Many projects will need a mix of custom tags in addition to some global tags. In Dovetail, you can create any tag you want to help distill your user data into pieces of evidence for insights. While this is useful, this can also be problematic. Here's why:
 
--   These tags do not carry over from one project to another, making it difficult to identify similar insights across projects.
+- These tags do not carry over from one project to another, making it difficult to identify similar insights across projects.
 
--   The tags can be named anything. This results in a large number of similarly-themed tags, which makes it difficult to search by insights across projects (for example: tags such as `opportunity`, `opportunities`, `opportunity for UI`).
+- The tags can be named anything. This results in a large number of similarly-themed tags, which makes it difficult to search by insights across projects (for example: tags such as `opportunity`, `opportunities`, `opportunity for UI`).
 
 To properly manage research insights within Dovetail, here are some do's and don'ts when creating your own tags.
 
 ##### Do's
 
--   Tag the data while it's fresh in your mind
-    -  Tag your data immediately after conducting the sessions, or after re-reading your transcripts. Having everything fresh in your mind will make themes more clear.
--   Align your tags with your research hypothesis
-    -   The goal of each tag is to link your user data to your research goals. Each tag should be directly related to one of your research hypotheses.
--   Be consistent
-    -   When you identify what tags you will be using, stick to them. The more consistent our tags are, the easier it is to find trends in our data.
--   Less is more
-    -   It is better to have 5 tags that you are confident in than 10 tags you aren't. As a guideline, try to limit most studies to **less than 15 tags**.
--   Think about how they'll be used
-    -   Assume that someday, someone other than yourself will use your tags to identify similar insights.  Make it easy for them to do that.
--   Take a second look
-    -   After making your tags, take a small break and then read over them one more time.
+- Tag the data while it's fresh in your mind
+    - Tag your data immediately after conducting the sessions, or after re-reading your transcripts. Having everything fresh in your mind will make themes more clear.
+- Align your tags with your research hypothesis
+    - The goal of each tag is to link your user data to your research goals. Each tag should be directly related to one of your research hypotheses.
+- Be consistent
+    - When you identify what tags you will be using, stick to them. The more consistent our tags are, the easier it is to find trends in our data.
+- Less is more
+    - It is better to have 5 tags that you are confident in than 10 tags you aren't. As a guideline, try to limit most studies to **less than 15 tags**.
+- Think about how they'll be used
+    - Assume that someday, someone other than yourself will use your tags to identify similar insights.  Make it easy for them to do that.
+- Take a second look
+    - After making your tags, take a small break and then read over them one more time.
 
 ##### Don'ts
 
 - Do not use full sentences
     - A tag should be 1-3 words long. Using multiple different tags will result in more useful insights than one longer tag.
-- Do not use emoji 
+- Do not use emoji
     - Emoji are naturally more ambiguous than text, and tags should be as clear as possible.
 
 | Poor Tag Examples     | Better Tag Examples  |
@@ -295,53 +297,58 @@ To properly manage research insights within Dovetail, here are some do's and don
 
 
 #### Creating cross-stage awareness using shared tags
-While importing the raw data from user research, sometimes there are insights which are useful to other stages and/or groups than your own. The [extensions feature](https://dovetailapp.com/blog/extensions/) within Dovetail allows for creating tags which can be used across projects. You can use these extension tags to make cross-stage content more discoverable by other stages and/or groups. 
+
+While importing the raw data from user research, sometimes there are insights which are useful to other stages and/or groups than your own. The [extensions feature](https://dovetailapp.com/blog/extensions/) within Dovetail allows for creating tags which can be used across projects. You can use these extension tags to make cross-stage content more discoverable by other stages and/or groups.
 
 Best practices to follow while using the global tags under `Shared Tags` extension:
 
-* First, you must add the extentions to your project. You will need to repeat this process for each new project you start. To do this, navigate to the `Settings` page for your respective project, and under the `Extensions` tab, link the already created `Shared Tags` extension to your project. 
+- First, you must add the extentions to your project. You will need to repeat this process for each new project you start. To do this, navigate to the `Settings` page for your respective project, and under the `Extensions` tab, link the already created `Shared Tags` extension to your project.
 
-* Next, navigate to the `Tags` page of your project. You will now see that extension tags are now available to use in your project. Now that the extensions are available to your project, you just need add them to your insights. Locate insights that could be valuable to other sections, stages or groups and add the appropriate extension tags.
+- Next, navigate to the `Tags` page of your project. You will now see that extension tags are now available to use in your project. Now that the extensions are available to your project, you just need add them to your insights. Locate insights that could be valuable to other sections, stages or groups and add the appropriate extension tags.
 
-* Be sure to double check the list of Extension tags ***before*** you add a new tag. Since this list is available to everyone in the GitLab Dovetail account, you might find that your tag already exists.
+- Be sure to double check the list of Extension tags ***before*** you add a new tag. Since this list is available to everyone in the GitLab Dovetail account, you might find that your tag already exists.
 
-* Only use a ***single global tag*** for the highlighted content. For example, use the name of the related stage group to create the tag for that insight.  Otherwise, apply a tag using the related stage name. And if you’re unsure of what stage to use, mention the product section instead. 
+- Only use a ***single global tag*** for the highlighted content. For example, use the name of the related stage group to create the tag for that insight.  Otherwise, apply a tag using the related stage name. And if you’re unsure of what stage to use, mention the product section instead.
 
-* All the content highlighted with these global tags across projects can be tracked by selecting GitLab Global Tags within the [extension page](https://dovetailapp.com/settings/extensions) found within settings.
+- All the content highlighted with these global tags across projects can be tracked by selecting GitLab Global Tags within the [extension page](https://dovetailapp.com/settings/extensions) found within settings.
 
 #### Charts & Insights
-The next step is to [create insight statements](https://dovetailapp.com/help/the-basics/insights/) for your study and support them with the evidence you gathered in the tags, highlights, and charts. Use `Charts` to quickly get an overview of how frequently themes are mentioned across your research data. Themes that frequently reoccur in your data warrant an insight. `Insights` help you to summarise your research findings. Select multiple highlights in order to create an insight. 
 
-Sometimes during research studies you’ll note something of interest but perhaps don’t have enough data yet to decide whether what you observed or heard was an [edge case](https://en.wikipedia.org/wiki/Edge_case) or something which may be impacting other users. 
+The next step is to [create insight statements](https://dovetailapp.com/help/the-basics/insights/) for your study and support them with the evidence you gathered in the tags, highlights, and charts. Use `Charts` to quickly get an overview of how frequently themes are mentioned across your research data. Themes that frequently reoccur in your data warrant an insight. `Insights` help you to summarise your research findings. Select multiple highlights in order to create an insight.
+
+Sometimes during research studies you’ll note something of interest but perhaps don’t have enough data yet to decide whether what you observed or heard was an [edge case](https://en.wikipedia.org/wiki/Edge_case) or something which may be impacting other users.
 
 A general rule of thumb: If you’re uncertain about whether something should be turned into an insight and/or only have 1-2 highlights that support the theme. Your observation should remain as a `highlight` rather than be converted into an `insight`.
 
-Highlights can still be searched, tracked and revisited again in the future when you’ve gathered more research data. 
+Highlights can still be searched, tracked and revisited again in the future when you’ve gathered more research data.
 
 #### Sharing your findings
+
 After you've created your insight statements, you can use Dovetail's ["presentation mode"](https://dovetailapp.com/help/the-basics/insights/#view-insights-as-a-presentation) feature to share your findings with your team and any other stakeholders. The last step is to provide a link to the Dovetail project directly in the original UX Research issue. Check out this [project](https://dovetailapp.com/projects/838a723f-d93b-48c1-9ade-8b2bd692152c/readme) (internal link only) as a great example of these steps.
 
 #### Suggestions for managing your content
+
 This video demonstrates how to take structured notes in Dovetail similarly to a Google Sheet with multiple notetakers.
    <figure class="video_container">
    <iframe src="https://www.youtube.com/embed/K7WuC0QCOyM" frameborder="0" allowfullscreen="true" width="640" height="360"></iframe>
    </figure>
 
-### Disable Public Access 
-In order to protect PII (Personally Identifiable Information), ensure that your project settings for insights are [disabled for public access](https://dovetailapp.com/help/share-insights-with-public-access/). To do this you navigate to your project and click `Insights`. From there, ensure your share settings look like this: 
+### Disable Public Access
+
+In order to protect PII (Personally Identifiable Information), ensure that your project settings for insights are [disabled for public access](https://dovetailapp.com/help/share-insights-with-public-access/). To do this you navigate to your project and click `Insights`. From there, ensure your share settings look like this:
 ![](/handbook/product/ux/dovetail/sharesettings.png)
 
 ### Frequently Asked Questions
 
 #### I'm a Product Manager and I’d like to use Dovetail to keep track of the calls I have with customers. Is that okay?
 
-Yes! When creating a new project, please select the `Customer calls` template. In the ReadMe file, update the name of your project from `Customer calls` to something more recognisable. Continue to follow the steps outlined under the UX Research team's guide to documenting insights in Dovetail starting with [Importing raw data into Dovetail](/handbook/product/ux/dovetail/index.html#importing-raw-data-into-dovetail). 
+Yes! When creating a new project, please select the `Customer calls` template. In the ReadMe file, update the name of your project from `Customer calls` to something more recognisable. Continue to follow the steps outlined under the UX Research team's guide to documenting insights in Dovetail starting with [Importing raw data into Dovetail](/handbook/product/ux/dovetail/index.html#importing-raw-data-into-dovetail).
 
 Note: If you're only speaking to one customer and haven't heard evidence from other customers that they are experiencing the same problem or want the same feature improvement, it's highly likely that your finding should remain as a `highlight` rather than be converted into an `insight`. Feel free to reach out to your UX Researcher if you're not sure.
 
-#### My team counterparts need access to the research insights in Dovetail. Can I add them to Dovetail? 
+#### My team counterparts need access to the research insights in Dovetail. Can I add them to Dovetail?
 
-Yes, you can add your team counterparts to Dovetail with **view-only** access. It will allow them to view the insights and the related data without affecting our number of available licenses. 
+Yes, you can add your team counterparts to Dovetail with **view-only** access. It will allow them to view the insights and the related data without affecting our number of available licenses.
 
 To add a your counterparts to Dovetail, follow the steps below:
 
@@ -359,11 +366,11 @@ Yes, scroll to the bottom of the Project list and under `Sample data`, you will 
 
 #### I'd like to create a private project to synthesize sensitive information
 
-While our Dovetail projects are currently only accessible by GitLab employees, sometimes you have a project you feel should be only seen by you or a few others. You do this by [controlling who has access](https://dovetailapp.com/blog/2018/access-controls/) to your project. 
+While our Dovetail projects are currently only accessible by GitLab employees, sometimes you have a project you feel should be only seen by you or a few others. You do this by [controlling who has access](https://dovetailapp.com/blog/2018/access-controls/) to your project.
 
 ##### Guidelines for what constitutes sensitive information
 
-When documenting research insights in Dovetail or research issues, it is **extremely important not to disclose** any [personally identifiable information (PII)](https://dataprivacymanager.net/what-is-personally-identifiable-information-pii/) of participants. This is to ensure their feedback and identity is kept confidential and is only available to those who need to know. For example, when giving a title to a session recording, noting down session summaries or using a quote, instead of referring to a participant by their full name use “participant [number]” or the corresponding user persona. 
+When documenting research insights in Dovetail or research issues, it is **extremely important not to disclose** any [personally identifiable information (PII)](https://dataprivacymanager.net/what-is-personally-identifiable-information-pii/) of participants. This is to ensure their feedback and identity is kept confidential and is only available to those who need to know. For example, when giving a title to a session recording, noting down session summaries or using a quote, instead of referring to a participant by their full name use “participant [number]” or the corresponding user persona.
 
 For more information, please refer to our [Code of Business Conduct & Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).
 

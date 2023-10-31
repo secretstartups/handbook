@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Mental modeling"
 description: "A brief overview of how we do mental modeling research at GitLab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 
 
@@ -18,14 +18,14 @@ A mental model is what a user *believes* to be true about how a system works. Th
 
 Nielsen/Norman Group [states:](https://www.nngroup.com/articles/mental-models/)
 
-_“Mental models are one of the most important concepts in human–computer interaction (HCI)”_, and _“What users believe they know about a UI strongly impacts how they use it.”_
+*“Mental models are one of the most important concepts in human–computer interaction (HCI)”*, and *“What users believe they know about a UI strongly impacts how they use it.”*
 
 A mental modeling study aims to gather information on users’ beliefs about how your product operates. They are especially common when dealing with information architecture and navigation.
 
 
 ### When to do a mental modeling study
 
-A mental modeling study can be done at any point in the product lifecycle, but it tends to be most impactful earlier on, when concepts are still in a more flexible state. A frequent use case is when designing or redesigning a product’s navigation, such as menus and sub-menus, etc. 
+A mental modeling study can be done at any point in the product lifecycle, but it tends to be most impactful earlier on, when concepts are still in a more flexible state. A frequent use case is when designing or redesigning a product’s navigation, such as menus and sub-menus, etc.
 
 In actuality, mental modeling can be a useful exercise in clarifying any part of a product - or even the product as a whole.
 
@@ -33,17 +33,17 @@ In actuality, mental modeling can be a useful exercise in clarifying any part of
 
 There are a couple of different exercises that can be used to do mental modeling, and many variations from those main types. We will go over the two main types on this page: card sorting and cognitive mapping.
 
-### Card sorting 
+### Card sorting
 
-[Card sorting](https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/) is a very common method in UX research for discovering how users might group a set of items, for instance in designing an information architecture. Card sorting reveals mental models by having the participant sort a deck of cards, each with a relevant term, into piles. This can be done in person with index cards, or virtually with a digital whiteboard tool (e.g., Figjam). 
+[Card sorting](https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/) is a very common method in UX research for discovering how users might group a set of items, for instance in designing an information architecture. Card sorting reveals mental models by having the participant sort a deck of cards, each with a relevant term, into piles. This can be done in person with index cards, or virtually with a digital whiteboard tool (e.g., Figjam).
 
-You will end up with a set of piles containing the cards or terms a participant believes go together in some way. It is often helpful to have the participant give a name to each group, or to combine several groups under a new term they come up with - this is especially useful in determining multi-layered navigation models. 
+You will end up with a set of piles containing the cards or terms a participant believes go together in some way. It is often helpful to have the participant give a name to each group, or to combine several groups under a new term they come up with - this is especially useful in determining multi-layered navigation models.
 
 Depending on the flexibility of the space you are trying to model, you can leave some cards blank and allow the user to add their own terms into the mix. This can be a great way of discovering gaps in your own mental model, but it can also introduce noise into the results.
 
 ### Cognitive mapping
 
-Cognitive mapping, according to the Neilsen/Norman Group, is really an umbrella term for all visual representations of mental models. [This link](https://www.nngroup.com/articles/cognitive-mind-concept/) from them is a great resource to find out about the different flavors of maps (e.g., cognitive maps, mind maps, concept maps) and what each method is particularly useful for. 
+Cognitive mapping, according to the Neilsen/Norman Group, is really an umbrella term for all visual representations of mental models. [This link](https://www.nngroup.com/articles/cognitive-mind-concept/) from them is a great resource to find out about the different flavors of maps (e.g., cognitive maps, mind maps, concept maps) and what each method is particularly useful for.
 
 At its core, cognitive mapping involves having a user create a visual representation of the system or area of interest you’re investigating. There are a few variables to consider when designing the mapping activity:
 
@@ -57,7 +57,7 @@ In card sorting, we only deal with ‘nouns’ – the objects or items we opera
 
 #### Vocabulary
 
-You have the option of providing all the vocabulary to be used in the map, some of it, or none at all. Choosing the right set of words to provide will have a large impact on the outcome of your study. For our settings example, you may choose to have only that word. For a study on how people organize their refrigerators, some basic items or types might be provided. Other cases may demand a larger list of nouns and verbs, like understanding the relationships between different products as data travels through them.   
+You have the option of providing all the vocabulary to be used in the map, some of it, or none at all. Choosing the right set of words to provide will have a large impact on the outcome of your study. For our settings example, you may choose to have only that word. For a study on how people organize their refrigerators, some basic items or types might be provided. Other cases may demand a larger list of nouns and verbs, like understanding the relationships between different products as data travels through them.
 
 It’s important to reconcile these variables with the research goals you’re after. A well-designed mapping activity can yield a great deal of insight into the mental models of your user, and can have a large positive impact on product planning and implementation.
 
@@ -81,7 +81,7 @@ Analyzing concept maps is less cut-and-dry. The techniques available to you will
 
 #### Segmentation
 
-There are a few ways to do segmentation, but essentially segmentation is about looking at the shape of the maps and finding clusters of items or nouns that tend to be grouped together, and that form a weak link to the rest of the map (defined as having few connections coming into or going out from that group). 
+There are a few ways to do segmentation, but essentially segmentation is about looking at the shape of the maps and finding clusters of items or nouns that tend to be grouped together, and that form a weak link to the rest of the map (defined as having few connections coming into or going out from that group).
 
 When you see clusters like this that share common nouns and appear across many of the maps you review, it is an indication that a section of your map can be segmented in some way. It might be a particular workflow, a sub-process, or something else, but it is usually worth noting. For example, when examining concept maps of a product life cycle, you may find segments like ‘planning’, ‘execution’, or ‘validation’ that identify a part of the process.
 
@@ -91,12 +91,12 @@ Below is an example of the segmentation process, broken down into 3 steps. From 
 
 #### Network Graphing
 
-For concept maps where both nouns and verbs (objects and relationships) are recorded, you can create a network graph. This is done by treating each noun as a node and each verb as an edge, and recording all the noun-verb-noun relationships. This involves going through your maps and tabulating all the unique relationships expressed. 
+For concept maps where both nouns and verbs (objects and relationships) are recorded, you can create a network graph. This is done by treating each noun as a node and each verb as an edge, and recording all the noun-verb-noun relationships. This involves going through your maps and tabulating all the unique relationships expressed.
 
 What you end up with is something like this:
 
 <img src='network_graph.png' ALT='Network graph of mental modeling terms'>
- 
+
 This is from the same [mental model study](https://gitlab.com/gitlab-org/ux-research/-/issues/2076) done at GitLab on different Work Items. Each blue circle represents a node or noun, and the size of the circle corresponds to how many relationships it has with other nodes in the graph.
 
 Once you have constructed your graph, there are some well-defined measures for interpreting the nodes within that graph:

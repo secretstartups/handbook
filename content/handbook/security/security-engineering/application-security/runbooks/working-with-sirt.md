@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Application Security Engineer Working With SIRT"
 ---
 

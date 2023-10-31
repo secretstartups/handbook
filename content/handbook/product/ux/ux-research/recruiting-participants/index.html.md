@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "How to recruit UX Research participants"
 description: "How to find the right participants for research studies at GitLab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 At GitLab, our UX Research Operations Coordinators work closely with those requesting research to make sure the people they are gathering feedback from are the right ones. If you are filling in for a UX Research Operations Coordinator, use [this page](/handbook/product/ux/ux-research-coordination/research-coordinator-fill-in/) as a reference.
 
@@ -108,26 +108,26 @@ To schedule participants, you will need to create a Calendly event. The UX Resea
 
 ### Open a recruitment request issue
 
-Prior to opening a recruitment issue, please have all materials ready: 
+Prior to opening a recruitment issue, please have all materials ready:
 - Screener
-- Script 
-- Recruitment timelines 
+- Script
+- Recruitment timelines
 
-Without these materials the UX research operations coordinator will not be able to move forward with your request. When prematurely creating recruitment issues it will over-inflate our tracking on turn around time for recruitment issues. 
+Without these materials the UX research operations coordinator will not be able to move forward with your request. When prematurely creating recruitment issues it will over-inflate our tracking on turn around time for recruitment issues.
 
 **Step 1 - Open a Recruitment Request Issue**
 This step provides us with all the necessary information we need to complete your request.
 
-- Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue. 
+- Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue.
 - Select the <Recruiting Request> template and fill in the information required.
 
 **Step 2 - Wait one-two working days**
-The UX Research Operations Coordinator will claim the study within one-two working days and work with you to find your participants. They will reach out to you with any further questions and an update on their timeline. When your study is claimed, the coordinator will remove the `ReOps::Triage` label. It will be replaced to identify they are working on it e.g. `ReOps::Cait` - for Caitlin Faughnan. 
+The UX Research Operations Coordinator will claim the study within one-two working days and work with you to find your participants. They will reach out to you with any further questions and an update on their timeline. When your study is claimed, the coordinator will remove the `ReOps::Triage` label. It will be replaced to identify they are working on it e.g. `ReOps::Cait` - for Caitlin Faughnan.
 
 #### What if I want to get a head start, but I’m not quite ready?
 
-If your study is not yet ready for recruitment and you're opening the request early, please start your title with WIP or DRAFT. 
-The UX Research Operations Coordinator will claim the study **_but not work on the request until the issue leaves the WIP/DRAFT phase_**. 
+If your study is not yet ready for recruitment and you're opening the request early, please start your title with WIP or DRAFT.
+The UX Research Operations Coordinator will claim the study ***but not work on the request until the issue leaves the WIP/DRAFT phase***.
 When the issue is ready to leave the WIP/DRAFT phase, @mention the UX Research Operations Coordinator assigned to your request.
 
 #### What will the UX Research Coordinator be responsible for on my request?
@@ -165,51 +165,51 @@ Since you created a Recruitment issue to kick off your process, this is automati
 #### What if I found my own participants and just need to hand out incentives?
 
 If you have a scenario where you didn’t create a Recruitment issue and need to distribute incentives, you’ll need to open an Incentives Request issue.
-- Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue. 
+- Navigate to the [UX Research Project](https://gitlab.com/gitlab-org/ux-research/-/issues) and open a new issue.
 - Select the `Incentives Request` template and fill in the information required.
 - Paste the link to the spreadsheet in the issue.
 
-One of the UX Research Operations Coordinators will pick up your request within one business day and process the incentives for your participants, provided all the required information is in the spreadsheet. 
+One of the UX Research Operations Coordinators will pick up your request within one business day and process the incentives for your participants, provided all the required information is in the spreadsheet.
 If your study is ongoing, simply comment on the issue or tag the UX Research Operations Coordinator in the spreadsheet when you have more incentives that need to be processed.
 
 ### Recruitment timelines
 
-Recruitment typically takes 2 weeks for target participants who are plentiful in our research panel and customer database, such as Engineers and DevOps professionals. 
-Recruitment for low-incidence users, like security professionals or users of a newly released feature, may take more than 2 weeks. 
+Recruitment typically takes 2 weeks for target participants who are plentiful in our research panel and customer database, such as Engineers and DevOps professionals.
+Recruitment for low-incidence users, like security professionals or users of a newly released feature, may take more than 2 weeks.
 In rare cases, when your target participants cannot be found, the UX Research Operations Coordinator will suggest other options.
 
 In all cases, the UX Research Operations Coordinator will keep you updated on the progress of the recruitment effort by commenting on the recruiting issue.
 
 ### Promotional games
 
-If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](https://about.gitlab.com/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](https://about.gitlab.com/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional game or contests. 
+If you are planning to recruit users through a promotional game or contest (e.g., Opportunity to win 1 of 3 $30 (or equivalent currency) Amazon Gift cards), please review the following information in the [handbook](https://about.gitlab.com/handbook/legal/ux-research-pilot/) and consult with legal. For information on contacting legal, please refer to [how to reach us](https://about.gitlab.com/handbook/legal/#how-to-reach-us) in the Legal Team handbook page. Engaging legal for approval and creating an incentive request must be completed before conducting research involving promotional game or contests.
 
 #### Respondent.io process and strategy
 
 For a video overview of how to use Respondent.io, please watch this [internal only recording on GitLab Unfiltered](https://www.youtube.com/watch?v=iRMvlWz96aA). **Note:** The process outlined in the video is primarily for UX Researchers. If you are interested in using Respondent.io, please contact someone from the UX Research team for assistance.
 
-* Typically, participants begin qualifying immediately.
-* Most studies will only need one Respondent campaign.
-* CM Scorecards may require multiple campaigns.
-* If you are looking to recruit multiple distinct segments, you will likely need one campaign per segment. This is because you set up qualifying criteria for each campaign, so participants are automatically qualified and disqualified according to the logic you set up. For example, if you want to speak with two equal segments of Jenkins users and GitHub Actions users, you should set up two campaigns with an identical screener. For one campaign, set the `GitHub actions` as a `must select` item, and set `Jenkins` as a `must select` item on the other. You may have Jenkins users be "disqualified" when they visit the first campaign. You can manually qualify them and interview them in that first project, just keep a tally of how many of each user you actually have. This gets messy, but is the quickest way to get the users you want, because Respondent will keep recruiting until they have found double the users that match your qualifying criteria.
+- Typically, participants begin qualifying immediately.
+- Most studies will only need one Respondent campaign.
+- CM Scorecards may require multiple campaigns.
+- If you are looking to recruit multiple distinct segments, you will likely need one campaign per segment. This is because you set up qualifying criteria for each campaign, so participants are automatically qualified and disqualified according to the logic you set up. For example, if you want to speak with two equal segments of Jenkins users and GitHub Actions users, you should set up two campaigns with an identical screener. For one campaign, set the `GitHub actions` as a `must select` item, and set `Jenkins` as a `must select` item on the other. You may have Jenkins users be "disqualified" when they visit the first campaign. You can manually qualify them and interview them in that first project, just keep a tally of how many of each user you actually have. This gets messy, but is the quickest way to get the users you want, because Respondent will keep recruiting until they have found double the users that match your qualifying criteria.
 
 Once the coordinator has created the campaign, they will invite the interviewers to join Respondent, advise the interviewer(s) to add their calendars and follow the project, and then move into a supporting role unless otherwise discussed. This means that the interviewer is responsible for monitoring the campaign and inviting their preferred users to schedule. The coordinator should plan to check in every few days, but it is the interviewer's responsibility to ping the coordinator if they have questions, or if they don't see any suitable participants after a couple of days.
 
-* Naming your project
+- Naming your project
     - Create a public name that is not too specific; you don't want to give away too much about your criteria because people may game your screener. Example: `Seeking GitLab users!` is fine, while `Seeking daily GitLab CI/CD users with 3+ years of experience!` is too specific.
     - Give a private name that will allow internal team members to see which project is theirs. For example: `Lorie: CI/CD pipeline set up exp.`
 
-* Adding your calendar
+- Adding your calendar
     - Respondent requires us to schedule, pay, and communicate with participants within the platform. It's a major taboo to try to lure platform participants elsewhere.
     - Connect your Google calendar in the `calendars` tab of your project.
     - Navigate to advanced settings and specify the minimum time before new bookings to `8 hours` or more. This will prevent people from scheduling surprise sessions for first thing in the morning while you are sleeping.
     - Set the max number of bookings per day to whatever you are comfortable with. A recommendation is 3-4 sessions per day: more than that is quite taxing.
     - Set a buffer time between sessions so you have time to finish your notes and take a quiick break before starting another session. A recommendation is 15 minutes.
 
-* Using Zoom
+- Using Zoom
 When setting up your Respondent project make sure to use your personal Zoom room link, as you can't change the link per participant (this means each participant will have the same Zoom room link). Additionally, be sure to turn off the password requirement for these sessions.
 
-* Important platform etiquette:
+- Important platform etiquette:
     - Mark participants as `attended` promptly after conducting the interview. This creates a notification for the coordinator that there are participants who need to be paid.
     - Only mark someone as `no-show` if they made no effort to get in touch with you about rescheduling the interview. A `no-show` is highly punitive for participants' rating on the platform.
     - Similarly, if you must reschedule a session, enable the participant to reschedule with as much advance notice as possible. If you do not show up for a session, or cancel within 24 hours, we get a negative rating and have to pay the participant anyway.

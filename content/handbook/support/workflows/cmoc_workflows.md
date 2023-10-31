@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: How to Perform CMOC Duties
 category: On-call
 description: "Describes the role and responsibilities for the Incident CMOC rotation in Support Engineering"

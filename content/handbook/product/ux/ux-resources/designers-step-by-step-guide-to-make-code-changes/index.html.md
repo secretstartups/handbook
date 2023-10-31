@@ -1,18 +1,18 @@
 ---
-layout: handbook-page-toc
+
 title: "Step by Step Guide to Make Code Changes"
 description: "This is a step-by-step guide for how to make code changes against the main GitLab codebase. This guide is meant to serve as a tutorial for anyone with semi-technical knowledge."
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 ## What is this?
 
-This is a step-by-step guide for how to make code changes against the main GitLab codebase. This guide is meant to serve as a follow-along tutorial for anyone with semi-technical knowledge who wants to contribute to GitLab by making small UI changes (like text changes). These changes are meaningful contributions that work towards the consistency of GitLab's UI. 
+This is a step-by-step guide for how to make code changes against the main GitLab codebase. This guide is meant to serve as a follow-along tutorial for anyone with semi-technical knowledge who wants to contribute to GitLab by making small UI changes (like text changes). These changes are meaningful contributions that work towards the consistency of GitLab's UI.
 
 These changes are an excellent way to add value to the GitLab project and can be good starter MRs for anyone who wants to get familiar with the GitLab codebase and do more meaningful changes in the future.
 
@@ -20,7 +20,7 @@ This guide is based on [this video tutorial](https://www.youtube.com/watch?v=AEv
 
 ## Pre-requisites
 
-Before you start with this guide, make sure you have the GDK installed and running. You can follow the GDK installation and setup steps in the following pages: 
+Before you start with this guide, make sure you have the GDK installed and running. You can follow the GDK installation and setup steps in the following pages:
 
 - [Learn how to prepare your workstation to run GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#install-prerequisites)
 - [Learn how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation)
@@ -47,7 +47,7 @@ Finally, you need to have your Git and SSH credentials correctly set up in your 
 
 1. Navigate to your `gitlab` folder in the Terminal. You can do this by using the `cd` command to drill into folders. One simple way to quickly jump into the `gitlab` folder is to locate in a Finder window and drag and drop it on the Terminal. This would provide the absolute path to where you `gitlab` folder is located.
 
-    To do this simply type `cd `  in your Terminal. Locate the `gitlab` folder in a Finder window and drag and drop it on the Terminal. The resulting command would look something like this `cd /Users/jj-gitlab/Desktop/GDK/gdk2/gitlab`. Hit `Enter` and you should be inside the right folder. You can make sure that's the case by checking that the name of the folder shows up next to the name of your machine in the Terminal.
+    To do this simply type `cd`  in your Terminal. Locate the `gitlab` folder in a Finder window and drag and drop it on the Terminal. The resulting command would look something like this `cd /Users/jj-gitlab/Desktop/GDK/gdk2/gitlab`. Hit `Enter` and you should be inside the right folder. You can make sure that's the case by checking that the name of the folder shows up next to the name of your machine in the Terminal.
 
 1. Start your GDK by running the `gdk start` command. This will spin a local version of GitLab that is available at the test host you setup when installing your GDK or more generally at your localhost: http://127.0.0.1:3000/
 
@@ -62,7 +62,7 @@ Finally, you need to have your Git and SSH credentials correctly set up in your 
     Make sure to check for the existence of this particular text in your GDK-powered environment. Do so by going to one of the sample projects and clicking on Settings and then in General. The helper text of the first section is what we will be changing.
 
 
-1. Now that we have a clear goal of what we are changing is time to find the file or files that need to be modified for this change to happen. To do this go to Visual Studio Code and click on the Global Search icon on the left sidebar of your Visual Studio Code window. This should reveal a text box where you can type your search query. In this particular case, we are searching for a particular string which is `Update your project name, topics, description and avatar`. Simply copy and paste that line in the search box. 
+1. Now that we have a clear goal of what we are changing is time to find the file or files that need to be modified for this change to happen. To do this go to Visual Studio Code and click on the Global Search icon on the left sidebar of your Visual Studio Code window. This should reveal a text box where you can type your search query. In this particular case, we are searching for a particular string which is `Update your project name, topics, description and avatar`. Simply copy and paste that line in the search box.
 
     At this point, you should see some search results that match your query. Since this guide is focused on making UI string changes here are some general rules to make sure that you're indeed changing the correct occurrence of that text:
 
@@ -76,15 +76,15 @@ Finally, you need to have your Git and SSH credentials correctly set up in your 
 
 1. Now that we found that match let's swap the text for `Update your project name, topics, description, compliance framework, and avatar.` and save the file. If you go back to your running GDK in your browser and you refresh the page, you should see the change reflected in the UI.
 
-1. We have completed a change in the UI and it's time to wrap it up by doing some preparation tasks before opening an MR: 
+1. We have completed a change in the UI and it's time to wrap it up by doing some preparation tasks before opening an MR:
 
     - **Run the translation job in your Terminal**: This is a process that updates the translation files with your string changes. To do so, simply copy and paste this command in your Terminal: `bin/rake gettext:regenerate`. This will regenerate the `gitlab.pot` file mentioned before. Have in mind that this job can take several minutes and the terminal won't give you immediate feedback so just be patient.
-    
+
     - **Add a changelog:** The changelog is a brief explanation of what the change is doing. The changelog is generated through an interactive command prompt that can be launched from the Terminal with the following command `bin/changelog 'Your changelog message'`. After entering this command simply follow the Terminal prompts.
 
 1. Finally, we are ready to open an MR with this change against the main GitLab repo. Don't worry about this step. You won't break anything and your MR can be closed later without affecting anything in the main repo. To push your change you want to do two things:
 
-   -  Enter the following git command in your terminal:
+   - Enter the following git command in your terminal:
     - `git add .`. This command will add the files that you just changed so they can be committed.
     - `git commit -m 'A meaningful message'`. This command will create a commit with your changes. It's very important that you comply with the commit message rules, otherwise your pipeline will fail. To comply with the rules make sure that your commit message it's a least three words but not more than 75 characters, the first letter needs to be capitalized and it can't end in period `.`.
     - `git push --set-upstream origin your-branch-name`. This command will create an upstream branch and push your changes against that remote branch. After the push is completed the terminal will show the MR url which you can open in a browser to finalize your change.
@@ -98,17 +98,17 @@ Finally, you need to have your Git and SSH credentials correctly set up in your 
 
 The above example shows the process for a text string that doesn't have a test. Although many UI strings are not tied to any particular test (and therefore spec file modifications aren't needed), there are test assertions that check for UI text. Usually what those tests are doing is verifying for the existence of a particular UI component by reading the inner text of an element.
 
-If you change a UI string that is tied to a test and you don't modify the text in the spec file, the test will fail since it cannot locate the string anymore. 
+If you change a UI string that is tied to a test and you don't modify the text in the spec file, the test will fail since it cannot locate the string anymore.
 
-You can find out if the text you're changing is tied to a test if it also shows up in your VS Code search results inside a `.spec.js` or `.spec.rb` file. 
+You can find out if the text you're changing is tied to a test if it also shows up in your VS Code search results inside a `.spec.js` or `.spec.rb` file.
 
-In general, you only need to swap the old text with the new one in the spec files to have a passing test. However there is a small number of cases where swapping a text may require some extra modification to the spec file but those are rare. 
+In general, you only need to swap the old text with the new one in the spec files to have a passing test. However there is a small number of cases where swapping a text may require some extra modification to the spec file but those are rare.
 
 ### Finding generic strings
 
 The above example shows the process for a text string that is very specific. Very specific strings are easy to find and locate because it's likely that there's only one instance of that text in the whole app. But what about generic strings like the text inside some buttons, for example 'Expand'?
 
-For those cases where you need to replace a generic string, you might have to do some logical thinking to identify the correct file and text instance. 
+For those cases where you need to replace a generic string, you might have to do some logical thinking to identify the correct file and text instance.
 
 One good strategy is to find a very specific text string near the generic string. If you search for the specific string you will likely find it in the template or component file that contains the other text. Once you have found that file you can perform a search scoped to the file by pressing `CMD + F` and searching for the generic string inside that file. Most likely any result inside that file is the correct reference to the text you're attempting to change. However, always verify that your change is indeed reflected by checking your live GDK environment.
 

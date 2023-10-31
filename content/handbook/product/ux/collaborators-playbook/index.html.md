@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Design collaborator's playbook"
 description: "This page acts as a quick reference of mental models for sync and async collaboration."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Intro
 
@@ -16,13 +16,13 @@ description: "This page acts as a quick reference of mental models for sync and 
 This page acts as a quick reference of mental models for sync and async collaboration. Its purpose is to create a common language for collaboration between designers, GitLab team members and the broader GitLab community. It should be used to understand and label patterns in collaboration, pain points, where we get stuck and how to get unstuck. It is not our [design workflow](/handbook/product/ux/product-designer/).
 
 **Why is this important?**
-[Collaboration](/handbook/values/#collaboration) is one of GitLab's key values. At GitLab, we believe that everyone is a designer and everyone can contribute. This means the UX department is a [humble facilitator of design](/handbook/product/ux/#were-humble-facilitators-of-user-experience-design). The design team can support collaboration across GitLab (and our broader community) by leveraging and sharing the mindsets, methods and tools of [design thinking](https://en.wikipedia.org/wiki/Design_thinking). 
+[Collaboration](/handbook/values/#collaboration) is one of GitLab's key values. At GitLab, we believe that everyone is a designer and everyone can contribute. This means the UX department is a [humble facilitator of design](/handbook/product/ux/#were-humble-facilitators-of-user-experience-design). The design team can support collaboration across GitLab (and our broader community) by leveraging and sharing the mindsets, methods and tools of [design thinking](https://en.wikipedia.org/wiki/Design_thinking).
 
 ## Mental models
 
 ### 2 steps forward, 1 step back design
 
-At GitLab we ship using the [Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc) (MVC). Designing in this context can often be confusing for newcomers because it's important to consider the big picture as well as the steps for how we get there. To deal with this dichotomy, we design by initially thinking about the mid to long-term vision and then reducing the scope of the experience (in a lovable way) to make implementation quicker. In other words, we design by taking 2 steps forward and 1 step back. 
+At GitLab we ship using the [Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc) (MVC). Designing in this context can often be confusing for newcomers because it's important to consider the big picture as well as the steps for how we get there. To deal with this dichotomy, we design by initially thinking about the mid to long-term vision and then reducing the scope of the experience (in a lovable way) to make implementation quicker. In other words, we design by taking 2 steps forward and 1 step back.
 
 **Actions**
 - Use this model with your team to break a vision down into a series of small (MVC) issues

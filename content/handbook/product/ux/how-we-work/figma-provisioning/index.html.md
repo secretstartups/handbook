@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Figma provisioning and deprovisioning"
 description: "Guidance on how to provision/deprovision Figma"
 ---

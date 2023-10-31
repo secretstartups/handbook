@@ -1,13 +1,13 @@
 ---
-layout: handbook-page-toc
+
 title: Personas
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Roles vs personas
 
@@ -52,7 +52,8 @@ Describing all of them will help us understand the differences that could otherw
 and make better-focused decisions during product development. [Learn more](/handbook/product/personas/organization-archetype/) about the organizational archetypes GitLab is addressing.
 
 #### List of User Personas
-We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow. 
+
+We describe the following personas in terms of the jobs they do, their motivations and frustrations. Understanding our users through this lens helps us contribute to a product that supports their workflow.
 
   1. [Parker, Product Manager](/handbook/product/personas/#parker-product-manager)
   1. [Delaney, Development Team Lead](/handbook/product/personas/#delaney-development-team-lead)
@@ -72,13 +73,14 @@ We describe the following personas in terms of the jobs they do, their motivatio
   1. [Cameron, Compliance Manager](/handbook/product/personas/#cameron-compliance-manager)
 
 #### Personas across stages
-Our personas span across stages (see table below for a depiction of how our user personas map across stages). Understanding how our personas map across stages helps us understand how to collaborate cross-functionally to support their needs. 
+
+Our personas span across stages (see table below for a depiction of how our user personas map across stages). Understanding how our personas map across stages helps us understand how to collaborate cross-functionally to support their needs.
 
 <figure class="video_container">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpBZ2Ainza6lfvNKSQW7YpOPxYnzBSgdqsWXqFUM_DgTWuFCn1FJd5w0PGTn695HRfFCMEatocMG-X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1440" height="839" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
-_Note: To change the table above, team members can edit the [Google Slide deck](https://docs.google.com/presentation/d/1IVDu5RIlywcRCqpkXzdSG7lW8dNiE_XHq54GdI7lkfk/edit?usp=sharing)._
+*Note: To change the table above, team members can edit the [Google Slide deck](https://docs.google.com/presentation/d/1IVDu5RIlywcRCqpkXzdSG7lW8dNiE_XHq54GdI7lkfk/edit?usp=sharing).*
 
 #### Parker (Product Manager)
 
@@ -99,7 +101,7 @@ At the center of many facets in product development, I am responsible for shapin
 
 - Being Stuck in a "Project, Not Product”, Management Role: It's demotivating when I find myself primarily functioning as a project manager, focusing on tracking tasks and timelines rather than the dynamic and strategic responsibilities that come with being a product manager. This hinders my ability to address customer needs, devise effective market strategies, and maintain a clear product vision, which drives my job satisfaction.
 - Wasting Time, Development Capacity, and Ultimately Money: Wasted efforts and resources on products that fail to gain traction or meet user needs is disheartening. I feel frustrated when we invest in solutions that go unused or lack a clear purpose, especially when there is little meaningful user value or overall product success.
-- Inability to access project status quickly: It can be frustrating when it is difficult to obtain the status of work efforts and I am forced to spend time chasing status. Timely awareness of project status, especially when it is off track, is crucial for my role because I need to ensure people invested in delivery are informed if we will not meet our commitments. 
+- Inability to access project status quickly: It can be frustrating when it is difficult to obtain the status of work efforts and I am forced to spend time chasing status. Timely awareness of project status, especially when it is off track, is crucial for my role because I need to ensure people invested in delivery are informed if we will not meet our commitments.
 - Balancing Product Vision and Capacity: I am constantly trying to make the most of our team’s capacity to execute on our product vision. It’s a challenging juggling act to ensure I am making the right decisions on what comes next to maximize our ability to deliver compelling value to the market.
 - Unpredictable Timeframes, Feature Delays, and Deprioritization: It's frustrating when I'm tasked with providing clients and stakeholders with a reasonable timeframe for the delivery of a feature since development cycles can be unpredictable, and change is inevitable.
 
@@ -342,7 +344,7 @@ I have responsibility for ensuring the application I own is accessible and perfo
 
 ##### Jobs to be done
 
-- I want to be able to deploy to production and non-production environments automatically without requiring action from other teams. 
+- I want to be able to deploy to production and non-production environments automatically without requiring action from other teams.
 - I want to use my selected deployment tools so I can predictably understand what "deploy" means.
 - I want to deploy following the company best practices set out by Priyanka, the platform engineer so that we minimize the risk of a new deployment.
 - I want to get up-to-date, real-time information about the system components I own so that I can be assured about the performance and health of the applications I own.
@@ -351,7 +353,7 @@ I have responsibility for ensuring the application I own is accessible and perfo
 
 ##### Frustrations
 
-- As a consumer of a monitoring platform, I'm frustrated when my apps instrumentation doesn't report in the monitoring systems 
+- As a consumer of a monitoring platform, I'm frustrated when my apps instrumentation doesn't report in the monitoring systems
 - I'm frustrated when I can't determine the root cause of the monitoring system's errors.
 - I'm frustrated when I need to use multiple tools to identify that there is an issue.
 - I'm frustrated about processes that slow down deployments.
@@ -431,9 +433,10 @@ I am responsibility for assessing potential business-critical vulnerabilities, p
 
 - Infrastructure security teams
 - Development teams
-- Compliance 
+- Compliance
 
 ##### Resources
+
 - [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/7363)
 
 #### Isaac (Infrastructure Security Engineer)
@@ -442,7 +445,7 @@ I am responsibility for assessing potential business-critical vulnerabilities, p
 
 ##### My Role
 
-I am responsibility for creating and maintaining security tools, monitoring production environments, and assessing security tools to ensure my organization's assets are compliant with the security requirements. 
+I am responsibility for creating and maintaining security tools, monitoring production environments, and assessing security tools to ensure my organization's assets are compliant with the security requirements.
 
 ##### Jobs to be done
 
@@ -469,9 +472,10 @@ I am responsibility for creating and maintaining security tools, monitoring prod
 - Application security teams
 - Security operations teams
 - Development teams
-- Compliance 
+- Compliance
 
 ##### Resources
+
 - [Relevant UX Research findings](https://gitlab.com/groups/gitlab-org/-/epics/7363)
 
 #### Alex (Security Operations Engineer)
@@ -482,7 +486,7 @@ I am responsibility for creating and maintaining security tools, monitoring prod
 
 I’m the firefighter of the Security team. My objective is to **prevent malicious attacks** and **mitigate active risks** to my organization as they pop up, as **quickly** as possible. In order to do that, I develop detection tooling that generates **trustworthy alerts**, and take part in an on-call rotation where I serve as an **Incident Responder**.
 
-_“I need to be jack of all trades: When SecOps get paged, it could be about anything, and there’s a high probability that the incident concerns something you’ve never dealt with before. The sky could be falling and there’s a lot at stake and so the role of a security operations person can be pretty stressful.”_
+*“I need to be jack of all trades: When SecOps get paged, it could be about anything, and there’s a high probability that the incident concerns something you’ve never dealt with before. The sky could be falling and there’s a lot at stake and so the role of a security operations person can be pretty stressful.”*
 
 ##### Jobs to be done
 

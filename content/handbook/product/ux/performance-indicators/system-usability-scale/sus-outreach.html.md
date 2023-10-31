@@ -1,16 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: "System Usability Scale responder outreach"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product. This page outlines the process for reaching out to survey respondents who have opted-in to having a follow-up discussion with our UX team."
 ---
 
-Every quarter, we include a question in the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. This is a great opportunity for Product Designers and Product Managers to learn more about the usability challenges for their specific product area. 
+Every quarter, we include a question in the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. This is a great opportunity for Product Designers and Product Managers to learn more about the usability challenges for their specific product area.
 
 #### Overall process
+
 1. The UX Researcher running the SUS survey shares a Google sheet that contains scores and verbatims from respondents who have agreed to a follow-up conversation.
 1. The UX Researcher creates an outreach issue to manage the responder outreach.
 1. First, Product Leaders go through the Google sheet and sign up for outreach and/or tag in their Product Managers.
-1. Product Managers review the sheet and confirm who they want to speak to. If a Design counterpart exists, tag them Product Design counterparts to decide who will be leading the interview. Otherwise the PM will lead it. The interview leader will be responsible for reaching out to the user and scheduling the interview. Once contacted, they mark the respondent as 'Contacted' in the sheet. 
+1. Product Managers review the sheet and confirm who they want to speak to. If a Design counterpart exists, tag them Product Design counterparts to decide who will be leading the interview. Otherwise the PM will lead it. The interview leader will be responsible for reaching out to the user and scheduling the interview. Once contacted, they mark the respondent as 'Contacted' in the sheet.
 1. If multiple GitLab team members are interested in speaking to the same respondent, coordinate with the team member that contacted the respondent to align on questions to be asked. **We do not want the same respondent be contacted multiple times and by multiple GitLab team members.**
 1. After the interview, mark the respondent as 'Complete' in the sheet.
 1. Add any notes and links to video recordings to the UX Research shared Google Drive.
@@ -18,11 +19,12 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 - Current SUS UX Researcher: @nickhertz
 
 #### Process for reaching out to respondents
+
 1. Calendly is the best method for scheduling calls with respondents. [Set up your free Calendly account](https://calendly.com/signup) if you haven't done so. Add details to the invite description describing yourself and the conversation purpose. Also add your personal Zoom link, either via connecting your Zoom account or pasting in your personal Zoom URL.
 1. You'll need to add an extra question to the invite form in order to ask for permission to record (example below). [See example of a Calendly invite](https://calendly.com/jeffcrow/npsfollowupexample) you can use as a reference.
-1. Draft an email that you'll send to respondents. Example copy is below. 
+1. Draft an email that you'll send to respondents. Example copy is below.
 1. **BE ON TIME TO YOUR CALL**. Make sure everyone on the call introduces themselves.
-1. If respondents have agreed to recording, still ask them once again if it's OK if you record before turning it on. 
+1. If respondents have agreed to recording, still ask them once again if it's OK if you record before turning it on.
 1. See our training materials on [facilitating user interviews](/handbook/product/ux/ux-research/facilitating-user-interviews/)
 
 **Example email copy**:
@@ -51,7 +53,7 @@ Every quarter, we include a question in the SUS survey that asks whether respond
 #### Before the call
 
 1. Locate and review the [SUS Interview Template](https://gitlab.dovetailapp.com/data/4GEKIhm6rHl421tJM382vi) in Dovetail. Make sure to copy this template into a new note file for your session.
-1. Update the note to include information about your session. Specifically, copy over the participants' SUS score and verbatim from the survey, so you can learn more about the user's feedback. 
+1. Update the note to include information about your session. Specifically, copy over the participants' SUS score and verbatim from the survey, so you can learn more about the user's feedback.
 
 #### After the call
 

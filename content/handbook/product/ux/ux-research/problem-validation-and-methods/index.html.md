@@ -1,34 +1,37 @@
 ---
-layout: handbook-page-toc
+
 title: "Problem validation and methods"
 description: "How to conduct problem validation research at GitLab"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-At GitLab, we practice both Problem Validation research and [Solution Validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) research, depending on the questions we need answers to and where we are in the design process. The end result of these methods is a high degree of confidence which results in a better overall user experience. Generating solutions, developing the product experience, and launching to the market is much more effective when we start with a deep understanding of our customer problems. We leverage [Opportunity Canvases](/handbook/product/product-processes/#opportunity-canvas) to track quick iterations on levels of confidence, hypotheses, and lessons learned as our learning about the problem evolves. 
+
+
+
+
+At GitLab, we practice both Problem Validation research and [Solution Validation](/handbook/product/ux/ux-research/solution-validation-and-methods/) research, depending on the questions we need answers to and where we are in the design process. The end result of these methods is a high degree of confidence which results in a better overall user experience. Generating solutions, developing the product experience, and launching to the market is much more effective when we start with a deep understanding of our customer problems. We leverage [Opportunity Canvases](/handbook/product/product-processes/#opportunity-canvas) to track quick iterations on levels of confidence, hypotheses, and lessons learned as our learning about the problem evolves.
 
 ### What is problem validation?
-Problem validation research seeks to provide decision makers with a well understood and clearly articulated customer problem. At GitLab, problem validation encompasses [foundational research](/handbook/product/ux/ux-research/foundational-research/) as well as descriptive and informative research. 
+
+Problem validation research seeks to provide decision makers with a well understood and clearly articulated customer problem. At GitLab, problem validation encompasses [foundational research](/handbook/product/ux/ux-research/foundational-research/) as well as descriptive and informative research.
 
 - **Foundational research** helps develop a deeper understanding of users to uncover opportunities for solutions and innovation.
 
 - **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem.
 
 ### When to use problem validation?
-Problem validation happens [earlier on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-the-right-thingproblem-validation) when we want to get insight into a problem and scope down the focus of a problem. 
 
-**Foundational research** is done when we don’t have a good understanding of what the problem is we need to solve. Often this occurs at the very beginning of the product design process. The purpose is to formulate a problem to solve and have a decent level of confidence that the problem is a relevant one. 
+Problem validation happens [earlier on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-the-right-thingproblem-validation) when we want to get insight into a problem and scope down the focus of a problem.
 
-**Descriptive and informative research** starts with a problem statement, which provides us a concrete problem to solve. This research is used to gain a better understanding of the context we are trying to solve for through our design and is imperative to fill the knowledge gaps of the solution environment by what our participants know. 
+**Foundational research** is done when we don’t have a good understanding of what the problem is we need to solve. Often this occurs at the very beginning of the product design process. The purpose is to formulate a problem to solve and have a decent level of confidence that the problem is a relevant one.
 
-When you are conducting a problem validation research effort, make sure to apply the `UX Problem Validation` label to the research issue. 
+**Descriptive and informative research** starts with a problem statement, which provides us a concrete problem to solve. This research is used to gain a better understanding of the context we are trying to solve for through our design and is imperative to fill the knowledge gaps of the solution environment by what our participants know.
 
-### What questions can problem validation answer? 
+When you are conducting a problem validation research effort, make sure to apply the `UX Problem Validation` label to the research issue.
+
+### What questions can problem validation answer?
+
 **Foundational research** provides answers to these questions:
 - Is there a problem? If so, what is it?
 - Who are the users?
@@ -43,18 +46,19 @@ When you are conducting a problem validation research effort, make sure to apply
 
 
 
-###  Problem validation methods & when to use them
-When choosing the right method for problem validation research, first ask yourself if you need foundational or informative research. 
+### Problem validation methods & when to use them
 
- * **Foundational research** helps develop a deeper understanding of users to uncover opportunities for solutions and innovation.
+When choosing the right method for problem validation research, first ask yourself if you need foundational or informative research.
 
- * **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem. 
+ - **Foundational research** helps develop a deeper understanding of users to uncover opportunities for solutions and innovation.
+
+ - **Descriptive and informative research** begins with a problem statement in mind and is used to gain a detailed understanding of the context of the problem.
 
 Problem validation research is not only conducted with end users. Often, sales, support, and CSMs (technical account managers) can offer valuable insights into customer behavior. They typically interact with a large number of customers and have a well developed understanding of what needs customers have and what issues they have faced.
 
 ### Foundational research methods
 
-To choose the right **_foundational_** research method, you need to identify the purpose for your research. Ask yourself **_“Why am I doing this research?”_** Your answer will help you choose which method to use. You should also ask yourself [how much detail you need, what kind of participants you need, and the fidelity of insight you require](/handbook/product/ux/ux-research/choosing-a-research-methodology/).  If you are still unsure, please reach out to your UX Researcher.
+To choose the right ***foundational*** research method, you need to identify the purpose for your research. Ask yourself ***“Why am I doing this research?”*** Your answer will help you choose which method to use. You should also ask yourself [how much detail you need, what kind of participants you need, and the fidelity of insight you require](/handbook/product/ux/ux-research/choosing-a-research-methodology/).  If you are still unsure, please reach out to your UX Researcher.
 
 |                                                  Overall Purpose for Research                                                  |            Research Method            |
 |:-------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|
@@ -64,7 +68,7 @@ To choose the right **_foundational_** research method, you need to identify the
 
 ### Descriptive and informative research methods
 
-To choose the right **_descriptive and informative_** research method, ask yourself, **_“What do I need to understand better?”_** Your answer will help you choose which method to use. If you are still unsure, please reach out to your UX Researcher.
+To choose the right ***descriptive and informative*** research method, ask yourself, ***“What do I need to understand better?”*** Your answer will help you choose which method to use. If you are still unsure, please reach out to your UX Researcher.
 
 |                                                  What I need to understand better                                                  |            Research Method            |
 |:-------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|

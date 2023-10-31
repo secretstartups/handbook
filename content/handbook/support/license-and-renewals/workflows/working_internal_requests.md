@@ -5,8 +5,8 @@ category: Working L&R requests
 description: Describes how to service internal requests for licensing & renewals.
 ---
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ----
 

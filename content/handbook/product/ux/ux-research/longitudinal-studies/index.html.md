@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Longitudinal studies"
 description: "What are longitudinal studies and when to use them"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
 
-A longitudinal study looks at how _something_ changes for the same group of people, over a period of time.  Data is collected at predefined time intervals to determine how the measures change over the designated period of time.  
+
+
+
+
+A longitudinal study looks at how *something* changes for the same group of people, over a period of time.  Data is collected at predefined time intervals to determine how the measures change over the designated period of time.  
 
 ### When to use?
 
@@ -18,8 +18,8 @@ Longitudinal studies are perfect to help teams answer research questions that ar
 
 Some examples:
 
-- _How will users react to a new navigation scheme, even after using it over a period of time?_
-- _How does confidence and product knowledge change for new users as they’re starting to use GitLab during their first 60 days?_
+- *How will users react to a new navigation scheme, even after using it over a period of time?*
+- *How does confidence and product knowledge change for new users as they’re starting to use GitLab during their first 60 days?*
 
 ### Which methods are used?
 
@@ -82,13 +82,13 @@ Longitudinal studies have their own set of challenges that you should be aware o
 | 3          | 15 minutes     | $20 USD         |
 | 4          | 60 minutes     | $200 USD        |
 
-**Set clear expectations** - Make it crystal clear to participants how important it is for them to complete the full study by taking part in all touchpoints. Otherwise, they don’t qualify for future gratuities and they’re removed from the study. Explain the purpose of the study, while stressing how important their participation is to the success of the research. You’d be surprised how invested they'll be in the project, if you share some details with them. Providing users the touchpoint schedule with dates can be helpful too. 
+**Set clear expectations** - Make it crystal clear to participants how important it is for them to complete the full study by taking part in all touchpoints. Otherwise, they don’t qualify for future gratuities and they’re removed from the study. Explain the purpose of the study, while stressing how important their participation is to the success of the research. You’d be surprised how invested they'll be in the project, if you share some details with them. Providing users the touchpoint schedule with dates can be helpful too.
 
 **Data management plan** - Focus only on what’s important. Typically, that means what is needed to answer the research question(s).  It’s okay to include some other data that supports the main insights, but set limits for yourself. It’s also helpful to input/analyze data &mdash; either in real time (during the interview) or immediately after it. Creating templates can help with this. The key is to be highly organized and disciplined in what you choose to capture, when you capture it, and how you capture it.
 
 **Use Google Docs** - If you’re using a [diary study](/handbook/product/ux/ux-research/diary-studies/) approach, use Google Docs to create a template for the study. Then, use the template to create one document for each participant. Share the document with the participant and give them edit rights, so you have full visibility into their entries. If you feel they need a nudge, or if you have a question about one of their entries, you can just @-mention them in their document. At the conclusion of the study, be sure to unshare all documents, so that participants can't make additional changes.
 
-**Get the ‘why’** - Make sure to build in opportunities to understand the ‘why’ behind the data you’re gathering.  This is critical in telling a complete and impactful story. 
+**Get the ‘why’** - Make sure to build in opportunities to understand the ‘why’ behind the data you’re gathering.  This is critical in telling a complete and impactful story.
 
 **Give yourself time** - Remember that you’ll need a lot more time to conduct a longitudinal study than a usability study. You’ll also have a lot more data to look though and think about. Make sure to allocate additional time for yourself, and clearly set expectations with your stakeholders.
 

@@ -1,9 +1,9 @@
 ---
-layout: markdown_page
+
 title: Advantages of a single application
 ---
 
-- TOC
+
 {:toc}
 
 ## Single application
@@ -289,8 +289,8 @@ make decisions.
 
 Concretely, conversational development in GitLab means that a change can be
 easily followed from inception to the changes it made in performance and
-business metrics and feeding this information back to _all_ stakeholders
-_immediately_.
+business metrics and feeding this information back to *all* stakeholders
+*immediately*.
 
 Effectively, this allows cross-functional teams to collaborate effectively.
 

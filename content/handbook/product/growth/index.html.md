@@ -1,13 +1,13 @@
 ---
-layout: markdown_page
+
 title: How the growth section works
 ---
 
-## On this page
+
 
 {:.no_toc}
 
-- TOC
+
 {:toc}
 
 ## Overview
@@ -23,6 +23,7 @@ culture at GitLab.
 Growth's ultimate goal is to connect GitLab's value as a Single DevOps Platform with our customers. In order to do that, we take a zoom in and zoom out approach. We break down the entire GitLab growth model, and identify the highest ROI lever at this moment to focus on. In the [Growth direction page](https://about.gitlab.com/handbook/marketing/growth/) we outline the Growth section's long term direction and near term focus areas.
 
 ## How the Growth section works
+
 [All the Growth team members are listed here](/handbook/product/categories/#growth-section)
 We follow the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
 
@@ -42,14 +43,14 @@ The Growth Product Management Director should run a weekly growth meeting to rev
 
 5 min: Social questions
 
-5 min: Announcements 
+5 min: Announcements
 
 30 min: Group updates
 
-- KPI & OKR (Live) 
-- Highlights & Learnings (Live) 
+- KPI & OKR (Live)
+- Highlights & Learnings (Live)
 - Activities (Read only)
-- Next UP (Read only) 
+- Next UP (Read only)
 
 10 min: Discussions
 
@@ -97,7 +98,7 @@ In addition to the weekly Growth meeting, Growth team members participate in the
     1. Goals: Growth / Application Security stable counterparts monthly discussion
     1. Agenda: [link](https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20section%20and%20appsec%22)
 
-## How Growth launches experiments 
+## How Growth launches experiments
 
 Since the Growth section is among the first groups to launch product experiments and A/B testing, we summarized the current tooling and process in the list of guides and documentation below to help other teams interested in experimentation to get started faster.  
 
@@ -127,23 +128,26 @@ engineering team may ship smaller improvements independently of Manage's direct 
 and - like a contribution coming from the wider community - ultimately own the final result.
 
 ### UX
- 
 
-#### How UX participates in milestone planning 
+
+#### How UX participates in milestone planning
+
 When the planning issue is created the Product Designer should follow these steps:
-* Review the issue boards and the prioritization dashboard (issues should be ordered by priority)
-* Determine whether they agree with the prioritized issues or want to suggest a change. For example, are there any SUS impacting issues we’ve been neglecting?
-* Comment in the planning issue to discuss proposed changes.
-* Re-order the board once priority is decided.
-* Ensure that issues have weights.
+- Review the issue boards and the prioritization dashboard (issues should be ordered by priority)
+- Determine whether they agree with the prioritized issues or want to suggest a change. For example, are there any SUS impacting issues we’ve been neglecting?
+- Comment in the planning issue to discuss proposed changes.
+- Re-order the board once priority is decided.
+- Ensure that issues have weights.
 
 ##### A note about capacity management
+
 Every milestone will have more work than we can commit to. Product designers know the approximate number of issue weights they can take on in order to do the work to our high standards. Never take on more issue weights than you can, and don't compromise other important tasks such as professional development and UX department initiatives. This leads to burnout. Follow the escalation instructions to make your wider team aware of the issues you can't take on so that they can explore additional options or tradeoffs.
 
 #### How UX Works
+
 We follow the [Product Designer workflows](/handbook/product/ux/product-designer/) and [UX Researcher workflows](/handbook/product/ux/ux-research/) described in the [Product Design section](/handbook/product/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](https://about.gitlab.com/handbook/engineering/development/growth/experimentation/). In addition:
 
-- we have issue boards so we can see what everyone is up to. Refer to issue boards in our planning issues. For example, this is the [template for Acquisition Planning issues](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/growth_acquisition_planning_template.md). 
+- we have issue boards so we can see what everyone is up to. Refer to issue boards in our planning issues. For example, this is the [template for Acquisition Planning issues](https://gitlab.com/gitlab-org/growth/team-tasks/-/blob/master/.gitlab/issue_templates/growth_acquisition_planning_template.md).
 - we **label** our issues with `UX`, `devops::growth` and `group::`.
 - we will label experiments with `UX problem validation` and `UX solution validation` according to the [UX Research Workflow](/handbook/product/ux/#ux-labels) definitions to indicate the type of learning the experiment achieves. The purpose of these labels is to track [this UX KPI](/handbook/product/ux/performance-indicators/#ux-research-velocity) related to research velocity.
 - we use the [workflow labels](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=workflow%3A%3A) for regular issues and [experiment workflow labels](https://about.gitlab.com/handbook/engineering/development/growth/#experiment-workflow-labels) for experiment issues.
@@ -169,8 +173,8 @@ In addition to the [Validation Phase Outcomes](https://about.gitlab.com/handbook
 - Previous versions and discussions of the solution(s) are labeled as 'Draft', and should not appear in the Epic description
 - If changes involve copy, ~"Technical Writing" and ~"UI text" labels have been added
 - Design spec has been added to the designs. Try to link to relevant components in gitlab-ui
-- For design patterns that aren't in Pajamas (done sparingly), detailed implementation annotations are included engineering has reviewed 
-- Follow up issues have been created in the design system project for any new design patterns or documentation updates 
+- For design patterns that aren't in Pajamas (done sparingly), detailed implementation annotations are included engineering has reviewed
+- Follow up issues have been created in the design system project for any new design patterns or documentation updates
 - UX issues are closed and the SSOT (epic) is updated with a link to the completed design, along with design rationale for key decisions.
 - The MVC engineering issue has been updated and labeled ~"workflow::planning breakdown"
 
@@ -180,9 +184,10 @@ The engineering team applies the `UX` label to any MR that introduces a visual, 
 
 Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review using the [reviewer functionality](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) in the sidebar. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
 
-There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer could coordinate a demo or the engineer could record a video of themselves going through the new functionality and add it to the MR. Creating a video is a way to speed up the review process, however it is optional and not always an appropriate stand in for a full review. 
+There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer could coordinate a demo or the engineer could record a video of themselves going through the new functionality and add it to the MR. Creating a video is a way to speed up the review process, however it is optional and not always an appropriate stand in for a full review.
 
 #### UX Scorecards
+
 All of the planned, in progress and completed UX Scorecards for Growth can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/2015).
 For more information, read about [UX Scorecards](/handbook/product/ux/ux-scorecards/).
 
@@ -202,7 +207,7 @@ For now, these themes/labels are:
 
 
 ### Collaboration process with other Product teams
- 
+
 
 We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/233) to make sure growth and product teams are maximizing business impact while ensuring close collaboration.
 
@@ -212,10 +217,10 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 
 1. Growth reaches out to have a sync or async kickoff conversation with the product team (ideally including PM, EM, UX). The goal of the kickoff is to:
 
-   * Inform the Product feature owner that growth is planning to experiment in this area;
-   * Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
-   * Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
-   * Ideally, establish understanding of both teams' KPIs and objectives 
+   - Inform the Product feature owner that growth is planning to experiment in this area;
+   - Share growth's high level plans and ideas to avoid conflicting roadmap and duplicate efforts;
+   - Form a plan how the 2 teams can keep each other updated async, for example, ping the PMs on the relevant issues async or sync meetings etc.
+   - Ideally, establish understanding of both teams' KPIs and objectives
 
 1. Growth will post regular updates on what we are working on, what has been shipped, what's up & next, and the results & learnings from analyzed experiments to channels such as Key Reviews, GC, and potentially a monthly summary video.
 
@@ -224,15 +229,15 @@ We use this [process](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/2
 1. We don't expect to have many new "features" developed from growth experiments, but in the rare case that this happens or if we feel like the UX flow we developed needs to have a permanent owner, the Growth team will work to identify an appropriate product owner, and hand it off to the owner following the typical community contribution process.
 
 1. For UX Collaboration, Product Designers will do the following
-    * The Growth Product Designer will mention the stage group Product Designer when starting work on a design issue for awareness and to gather background information such as existing constraints, usability problems and existing research. (Growth PMs will communicate in a similar way to Stage PMs)
-    * The Growth Product Designer will add the stage group Product Designer to design reviews to get feedback and ensure consistency. Design reviews can be sync or async, for example:
-        * Scheduling a recurring monthly sync call.
-        * Creating a document for async catching up ([template](https://docs.google.com/document/d/1r83O5AAo_o46ics-BF6NV_eIr1yR7KkKCarfc8kbFgM/edit?usp=sharing)) and a calendar event to remind everyone involved to share what they’re working on. 
-    * UX Researchers should share research results with stage groups whenever that research is relevant cross-stage.
+    - The Growth Product Designer will mention the stage group Product Designer when starting work on a design issue for awareness and to gather background information such as existing constraints, usability problems and existing research. (Growth PMs will communicate in a similar way to Stage PMs)
+    - The Growth Product Designer will add the stage group Product Designer to design reviews to get feedback and ensure consistency. Design reviews can be sync or async, for example:
+        - Scheduling a recurring monthly sync call.
+        - Creating a document for async catching up ([template](https://docs.google.com/document/d/1r83O5AAo_o46ics-BF6NV_eIr1yR7KkKCarfc8kbFgM/edit?usp=sharing)) and a calendar event to remind everyone involved to share what they’re working on.
+    - UX Researchers should share research results with stage groups whenever that research is relevant cross-stage.
 
 #### Contributing to the Learn GitLab project
 
-The Learn GitLab project is utilized to onboard new users to GitLab and contains self-paced issues the user can complete to help set them and their team up for success within the GitLab platform. There are currently two separate Learn GitLab projects, one for new free SaaS signups and one for new SaaS trial signups. The growth team is still actively experimenting with improvements to this experience. If you'd like to contribute an improvement to one of the Learn GitLab projects, you can do so by following the steps outlined in this [issue](https://gitlab.com/gitlab-com/Product/-/issues/2239). 
+The Learn GitLab project is utilized to onboard new users to GitLab and contains self-paced issues the user can complete to help set them and their team up for success within the GitLab platform. There are currently two separate Learn GitLab projects, one for new free SaaS signups and one for new SaaS trial signups. The growth team is still actively experimenting with improvements to this experience. If you'd like to contribute an improvement to one of the Learn GitLab projects, you can do so by following the steps outlined in this [issue](https://gitlab.com/gitlab-com/Product/-/issues/2239).
 
 
 ### Growth RADCIE and DRIs

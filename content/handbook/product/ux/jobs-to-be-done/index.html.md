@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Jobs to be Done (JTBD) Overview
 description: >-
   JTBD is a framework for viewing products and solutions in terms of jobs
@@ -7,11 +7,11 @@ description: >-
   to accomplish.
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 A Job to be Done (JTBD) is a framework, or lens, for viewing products and solutions in terms of the jobs customers are trying to achieve. It's about understanding the goals that people want to accomplish. It lets us step back from our business and understand the objectives of the people we serve. It opens the door to innovation.
 
@@ -38,9 +38,9 @@ All GitLab Jobs to be Done can be found in the [jobs-to-be-done.yml file](https:
 First, let's set the terminology we use for JTBD.
 
 - **Job performer**: The person who does the job. Usually, we talk about these people in terms of personas. They are [buyers](/handbook/product/personas/#buyer-personas), [developers](/handbook/product/personas/#sasha-software-developer), [sysadmins](/handbook/product/personas/#sidney-systems-administrator), and so on.
-- **Job**: Something a customer wants to accomplish. For example, the main job of a GitLab customer could be stated as, "build and deploy software." The job always follows the pattern (verb + object + clarifier) and is also refered to as the _job statement_.
+- **Job**: Something a customer wants to accomplish. For example, the main job of a GitLab customer could be stated as, "build and deploy software." The job always follows the pattern (verb + object + clarifier) and is also refered to as the *job statement*.
 - **Circumstance**: Describes the circumstances a person is in when they need a job done.
-- **Need**: A job performer's desired outcome or end state. The need statement follows the pattern (direction + measure + object + clarifier), for example, _minimize the time it takes to review an MR_.
+- **Need**: A job performer's desired outcome or end state. The need statement follows the pattern (direction + measure + object + clarifier), for example, *minimize the time it takes to review an MR*.
 - **Job story**: A succinct statement that brings together the circumstance, goal, and outcome of a job.
 - **Main job**: The primary job the preformer want to accomplish.
 - **Small job**: A smaller, more practical job that corresponds roughly to steps or stages in a main job.
@@ -48,7 +48,7 @@ First, let's set the terminology we use for JTBD.
 
 ## How to write a JTBD
 
-When we refer to JTBD in our work at GitLab, we are referring to the **job story**. A job story provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is _only_ the thing they want to accomplish. A job story includes: the job, the circumstance, and the need.
+When we refer to JTBD in our work at GitLab, we are referring to the **job story**. A job story provides the context of what is happening while someone is trying to accomplish a goal. In contrast, a job is *only* the thing they want to accomplish. A job story includes: the job, the circumstance, and the need.
 
 We write our job stories using the standard format:
 
@@ -84,12 +84,13 @@ Example: Address business-critical risk in my organization's assets.
 
 Small jobs are more practical and correspond to the main job's stages or steps. Small jobs answer the question, "How does the job get done?" in the context of the main job and approximate the process a user moves through to accomplish their goal. Each job step is a small job.
 
-Examples: _Prioritize_ business-critical vulnerabilities in my assets; _Determine_ the impact of a business-critial risk in my application; _Escalate_ a business-critical risk for remediation.
+Examples: *Prioritize* business-critical vulnerabilities in my assets; *Determine* the impact of a business-critial risk in my application; *Escalate* a business-critical risk for remediation.
 
 ### Micro-jobs
+
 Tasks a user may undergo to accomplish their small job. At this level, we define the sub-processes or actions a user will take to complete a step (small job) of their main job.
 
-Examples of tasks related to the small job, _Prioritize business-critical vulnerabilities in my assets_; Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
+Examples of tasks related to the small job, *Prioritize business-critical vulnerabilities in my assets*; Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
 
 ### JTBD Hierarchy
 
@@ -99,7 +100,7 @@ Using our examples, we can produce a JTBD hierarchy, confirming we operate at th
 - **Small job**: Prioritize business-critical vulnerabilities in my assets.
 - **Micro jobs**: Review the most recent risks detected in my assets; Refine the list of risks by relevancy; Refine the list of risks by impact.
 
-_JTBD hierarchy diagram_
+*JTBD hierarchy diagram*
 
 ![JTBD hierarchy diagram](JTBD_Diagram.png)
 
@@ -117,9 +118,9 @@ There are many methods a stage group may use to find or define strategic opportu
 
 Read "[What is and isn't a JTBD](/handbook/product/ux/jobs-to-be-done/deep-dive/#what-is-a-jtbd)".
 
-[Job stories differ from user stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) because they are persona, product, and solution agnostic. This allows us to think more deeply about the user's context, motivations, and needs rather than just a _title, task, and goal_.
+[Job stories differ from user stories](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) because they are persona, product, and solution agnostic. This allows us to think more deeply about the user's context, motivations, and needs rather than just a *title, task, and goal*.
 
-_Example:_
+*Example:*
 
 - **Job**: Address business-critical risks in my organization's assets.
 - **Job story**: When I am on triage rotation, I want to address business-critical risks in my organization's assets, so I can minimize the likelihood of a security incident.

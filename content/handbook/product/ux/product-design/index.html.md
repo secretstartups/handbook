@@ -1,25 +1,25 @@
 ---
-layout: handbook-page-toc
+
 title: "Product Design"
 description: "We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+
+
 {::options parse_block_html="true" /}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Product Design at GitLab
 
-We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development. 
+We support the business of GitLab by becoming experts in our stage group, educating ourselves about the entire product, and staying engaged with user and business goals. We partner closely with our stable counterparts in Product Management and Development.
 
 ### Process and DRI
 
 #### Owner of design jugdment
 
-As Product Designers, we are the **owners of design judgment**. 
+As Product Designers, we are the **owners of design judgment**.
 
 We start with a problem to solve and always first consider what the best experience for the user would be.
 
@@ -33,7 +33,7 @@ To support the Product Management team with their prioritization, we give them o
 
 ### Design
 
-Our [design principles](https://design.gitlab.com/get-started/principles) can be found with the Pajamas Design System. 
+Our [design principles](https://design.gitlab.com/get-started/principles) can be found with the Pajamas Design System.
 
 ## Team Structure
 
@@ -41,60 +41,61 @@ Each Product Designer is assigned to an area of our product, called Stage Groups
 
 Information about product categories and links to team members and direction pages can be found [here](/handbook/product/categories/).
 
-Some UX teams have documented detailed information about their ways of working and stage groups, and these can be found here: 
-* [Dev](https://about.gitlab.com/direction/dev/)
-    * [Create](/handbook/product/ux/stage-group-ux-strategy/create/)
-* CI/CD and [Saas Platforms](https://about.gitlab.com/direction/saas-platforms/)
-    * [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
-* [Sec](https://about.gitlab.com/direction/security/)
-    * [Secure and Govern](https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
-* Fulfillment and Growth UX
-    * Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
-    * Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
+Some UX teams have documented detailed information about their ways of working and stage groups, and these can be found here:
+- [Dev](https://about.gitlab.com/direction/dev/)
+    - [Create](/handbook/product/ux/stage-group-ux-strategy/create/)
+- CI/CD and [Saas Platforms](https://about.gitlab.com/direction/saas-platforms/)
+    - [CI/CD](/handbook/product/ux/stage-group-ux-strategy/ci-cd/) (`@gitlab-com/gitlab-ux/cicd-ux`)
+- [Sec](https://about.gitlab.com/direction/security/)
+    - [Secure and Govern](https://about.gitlab.com/handbook/engineering/ux/stage-group-ux-strategy/sec/) (`@gitlab-com/gitlab-ux/secure-govern-ux`)
+- Fulfillment and Growth UX
+    - Growth UX team: [How we approach experiments](/handbook/product/ux/ux-resources/experimentation/)
+    - Fulfillment UX team: [How we work](/handbook/product/ux/stage-group-ux-strategy/fulfillment/)
 
 ### UX Paper Cuts Team
 
 The UX Paper Cuts team is a small team responsible for identifying and fixing small, but impactful, usability issues in the GitLab product. The term "paper cut" refers to a small, seemingly insignificant problem that can cause annoyance or frustration for users. When considered as a collective, these problems can reduce the overall impression users have of the product.
 
-The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product. 
+The UX Paper Cuts team continuously improves the user experience by creating merge requests to address these small issues. By focusing on small details, the team helps create a more polished and user-friendly interface, leading to increased user satisfaction, engagement, and, ultimately, a more successful product.
 
 You can find changes made by UX Paper Cuts by following along in the [GitLab Polish Gallery](https://nicolasdular.gitlab.io/gitlab-polish-gallery/), the internal Slack channel `#ux_paper_cuts_mrs`, or by searching the GitLab label [UX Paper Cuts](https://gitlab.com/dashboard/merge_requests?scope=all&state=all&label_name[]=UX%20Paper%20Cuts).
 
 #### Learn more about UX Paper Cuts
-* [Planning epic](https://gitlab.com/groups/gitlab-org/-/epics/10026)
-* [Workflow](/handbook/product/ux/product-designer/#ux-paper-cuts-workflow)
+
+- [Planning epic](https://gitlab.com/groups/gitlab-org/-/epics/10026)
+- [Workflow](/handbook/product/ux/product-designer/#ux-paper-cuts-workflow)
 
 ## Learn about UX and see our work
 
-* [YouTube Playlist for UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz) 
+- [YouTube Playlist for UX Showcases](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz)
 
 ## Product Design Workflow
 
-Product Designers follow the guidance outlined in the [Product Development flow](/handbook/product-development-flow/) while working on stage group work with our stable counterparts. 
+Product Designers follow the guidance outlined in the [Product Development flow](/handbook/product-development-flow/) while working on stage group work with our stable counterparts.
 
 For specific details
-* [Planning and managing capacity](/handbook/product/ux/product-designer/#planning-and-managing-capacity)
-* [Prioritization](/handbook/product/ux/product-designer/#priority-for-UX-issues)
-* [Working on Issues](/handbook/product/ux/product-designer/#working-on-issues) 
-* [Design Process](/handbook/product/ux/product-designer/#product-design-process)
-* [Partnering with UX Research](/handbook/product/ux/product-designer/#product-design-process)
-* [Partnering with Technical Writers](/handbook/product/ux/product-designer/#partnering-with-technical-writers)
-* [Contributing to Pajamas](https://design.gitlab.com/get-started/contribute)
-* [Designing AI solutions](/handbook/product/ux/product-designer/#designing-ai-solutions)
+- [Planning and managing capacity](/handbook/product/ux/product-designer/#planning-and-managing-capacity)
+- [Prioritization](/handbook/product/ux/product-designer/#priority-for-UX-issues)
+- [Working on Issues](/handbook/product/ux/product-designer/#working-on-issues)
+- [Design Process](/handbook/product/ux/product-designer/#product-design-process)
+- [Partnering with UX Research](/handbook/product/ux/product-designer/#product-design-process)
+- [Partnering with Technical Writers](/handbook/product/ux/product-designer/#partnering-with-technical-writers)
+- [Contributing to Pajamas](https://design.gitlab.com/get-started/contribute)
+- [Designing AI solutions](/handbook/product/ux/product-designer/#designing-ai-solutions)
 
 Product Designer Tools
-* [UX Scorecard](/handbook/product/ux/ux-scorecards/)
-* [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
-* [UX Issue Triage](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#ux)
-* [Heuristics](/handbook/product/ux/heuristics/)
-* [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (_GitLab Team Member access only_)
-* [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
+- [UX Scorecard](/handbook/product/ux/ux-scorecards/)
+- [Category Maturity Scorecard](/handbook/product/ux/category-maturity/category-maturity-scorecards/)
+- [UX Issue Triage](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#ux)
+- [Heuristics](/handbook/product/ux/heuristics/)
+- [Competitor Evaluation](https://gitlab.com/gitlab-org/competitor-evaluations) (*GitLab Team Member access only*)
+- [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/)
 
 Product Design Management
-* [Product Design Manager Workflows](/handbook/product/ux/product-design/product-design-manager.html)
+- [Product Design Manager Workflows](/handbook/product/ux/product-design/product-design-manager.html)
 
 Learning and Development
-* [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
+- [UX Department Learning and Development](/handbook/product/ux/learning-and-development)
 
 Are you a new GitLab Product Designer? If so, welcome! Make sure you see the [Product Designer Workflow](/handbook/product/ux/product-designer/) handbook page that will help you get started.
 
@@ -106,7 +107,7 @@ Our [design principles](https://design.gitlab.com/get-started/principles) can be
 
 ### Beautifying our UI
 
-In Q4 FY22 and Q1 FY23, we ran an experiment called "Macro UX," in which we paired a Product Designer and an Engineer to make self-directed improvements to a product workflow (Kubernetes Agent). The idea was to empower the pair to make changes they identified themselves and resolved directly with MRs, rather than following our existing [Product Development Flow](/handbook/product-development-flow/). 
+In Q4 FY22 and Q1 FY23, we ran an experiment called "Macro UX," in which we paired a Product Designer and an Engineer to make self-directed improvements to a product workflow (Kubernetes Agent). The idea was to empower the pair to make changes they identified themselves and resolved directly with MRs, rather than following our existing [Product Development Flow](/handbook/product-development-flow/).
 
 The result of the experiment was that the pair was able to resolve low-hanging usability problems, but they ran into challenges when attempting to address larger, more complex problems. However, they did find value in the ability to identify usability problems through heuristic reviews and then quickly partner to fix them. See the [retro issue](https://gitlab.com/gitlab-org/gitlab/-/issues/351288) for details.
 
@@ -114,15 +115,15 @@ In the *Beautifying our UI* initiative, we'd like to take the best parts of the 
 
 #### Next steps
 
-Going forward, every milestone, we will ask Product Designers and Engineers to volunteer to partner in making self-directed usability improvements. It is an opportunity to fix the things that have been bugging you or that you've heard from users without worrying about prioritization. 
+Going forward, every milestone, we will ask Product Designers and Engineers to volunteer to partner in making self-directed usability improvements. It is an opportunity to fix the things that have been bugging you or that you've heard from users without worrying about prioritization.
 
-* **Self-Directed:** There are no restrictions on where in the product the pair can make improvements. The goal is to empower the pair to focus on usability improvements that they personally want to see fixed in a product that they use themselves almost every day. 
-* **No restrictions on product area:** The pair is not required to work within product areas owned by their own stage groups. That does mean you need to ask questions to assess impact when making significant changes to a product area you don't know well.
-* **No restrictions on pairings:** The Product Designer and Engineer pair do not need to be from the same stage group. This is a voluntary initiative.
-* **Work in MRs, not issues:** Both the Product Designer and the Engineer should work directly in MRs to make changes. For the Product Designer, these MRs will likely be focused on less complex usability issues that the pair identifies, such as documentation, minor UI polish, or UI text changes. To make it easier for others to understand the change, make sure that you add screenshots and explain what was changed and why (unless it's an obvious bug fix) in the MR description.
-* **Length of rotation:** The length of the pairing will be 1-3 milestones, depending on what the pairing believes is appropriate for them. This means that multiple groups could be working on Beautifying our UI in parallel.
-* **Prioritization:** The Product Designer and Engineer will inform their direct managers and discuss prioritization and capacity planning prior of their involvement in the initiative, so that they can make time for it during milestone planning. They'll make sure their stage group team is also aware of their involvement.
-* **Documentation:** UI changes can impact the documentation to varying extents. The Product Designer or Engineer will follow the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), with any docs changes required documented in the `/doc` directory by the Product Designer or Engineer. Assign the [relevant Technical Writer](/handbook/product/ux/technical-writing/#assignments) as Reviewer.   
+- **Self-Directed:** There are no restrictions on where in the product the pair can make improvements. The goal is to empower the pair to focus on usability improvements that they personally want to see fixed in a product that they use themselves almost every day.
+- **No restrictions on product area:** The pair is not required to work within product areas owned by their own stage groups. That does mean you need to ask questions to assess impact when making significant changes to a product area you don't know well.
+- **No restrictions on pairings:** The Product Designer and Engineer pair do not need to be from the same stage group. This is a voluntary initiative.
+- **Work in MRs, not issues:** Both the Product Designer and the Engineer should work directly in MRs to make changes. For the Product Designer, these MRs will likely be focused on less complex usability issues that the pair identifies, such as documentation, minor UI polish, or UI text changes. To make it easier for others to understand the change, make sure that you add screenshots and explain what was changed and why (unless it's an obvious bug fix) in the MR description.
+- **Length of rotation:** The length of the pairing will be 1-3 milestones, depending on what the pairing believes is appropriate for them. This means that multiple groups could be working on Beautifying our UI in parallel.
+- **Prioritization:** The Product Designer and Engineer will inform their direct managers and discuss prioritization and capacity planning prior of their involvement in the initiative, so that they can make time for it during milestone planning. They'll make sure their stage group team is also aware of their involvement.
+- **Documentation:** UI changes can impact the documentation to varying extents. The Product Designer or Engineer will follow the [Definition of Done](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done), with any docs changes required documented in the `/doc` directory by the Product Designer or Engineer. Assign the [relevant Technical Writer](/handbook/product/ux/technical-writing/#assignments) as Reviewer.
 
 #### Volunteers
 
@@ -184,9 +185,9 @@ The point of this initiative is to move fast, often in product areas you may not
 
 #### How will we measure success?
 
-The team will track the total number of MRs merged with the [Beautifying our UI](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=Beautifying%20our%20UI) label. 
+The team will track the total number of MRs merged with the [Beautifying our UI](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=Beautifying%20our%20UI) label.
 
 #### Risks
 
-* We don't know how much time will be required during the experiment for these pairings to be successful, so we can't predict the impact to participants' regular milestone work, OKRs, and so on.
-* The experiment will focus on fixing friction points identified during heuristic reviews, which means that we won't conduct user research. There is a possibility that we will inadvertently introduce new friction points.
+- We don't know how much time will be required during the experiment for these pairings to be successful, so we can't predict the impact to participants' regular milestone work, OKRs, and so on.
+- The experiment will focus on fixing friction points identified during heuristic reviews, which means that we won't conduct user research. There is a possibility that we will inadvertently introduce new friction points.

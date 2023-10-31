@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Hiring Product Designers"
 description: "Product Designers, Product Design Managers, the Director of Product Design, and Product Managers participate in our hiring process by interviewing Product Designer candidates. We have created guidelines to help support a consistent end-to-end hiring process."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
+
+
 {::options parse_block_html="true" /}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
 
 ## Hiring process
 
@@ -33,8 +33,8 @@ A [detailed description of each stage of our interview process](/job-families/pr
 We have established a set of questions we ask at each stage of the process. All questions are available in the Greenhouse scorecard for the candidate. We ask the same questions to every candidate to ensure fairness--during the interview and when evaluating each candidate.
 
 An interview rubric has been defined that provides a set of positive answer traits and characteristics to look out for when asking each of the Greenhouse interview questions. It's recommended that you:
-1. Open the appropriate GDoc version for your interview level (i.e. Senior or Intermediate candidate) for quick access after your interview to aid in completing your Greenhouse Scorecard. 
-2. Compare your notes with the rubric on each question and 
+1. Open the appropriate GDoc version for your interview level (i.e. Senior or Intermediate candidate) for quick access after your interview to aid in completing your Greenhouse Scorecard.
+2. Compare your notes with the rubric on each question and
 3. Assess how the candidate's answer compares to the desired positive traits/characteristics provided.
 
 Use this rubric comparison/assessment to help with your final scorecard assessment prior to your scorecard submission.
@@ -51,15 +51,17 @@ Use this rubric comparison/assessment to help with your final scorecard assessme
 Any Product Designer can participate in the hiring process after completing the [company interview training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md) and a [Product Design-specific interview training](https://gitlab.com/gitlab-org/gitlab-design/-/blob/master/.gitlab/issue_templates/Product%20Designer%20Job%20Interview%20Training.md). These trainings will teach you how to perform successful interviews at GitLab.
 
 In the last steps of the training, you will:
-- Shadow an experienced Product Designer interviewer in two separate interviews, so that you can see how a successful interview is conducted. 
-- Be shadowed by your coach in two separate interviews. They will act as your coach and provide feedback on your interviewing skills. 
+- Shadow an experienced Product Designer interviewer in two separate interviews, so that you can see how a successful interview is conducted.
+- Be shadowed by your coach in two separate interviews. They will act as your coach and provide feedback on your interviewing skills.
 
 You may request additional shadow opportunities, if you'd like additional practice and support.
 
 ### Scorecard completion tips
+
 Everyone who interviews a candidate must complete a scorecard and is required to input pros and cons as well as an overall recommendation.
 
 #### Interview scorecards
+
 - [Talent Acquisition Process: Hiring team to complete feedback in Greenhouse](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-hiring-team-to-complete-feedback-in-greenhouse)
 
 ##### Tips for completing interview scorecards
@@ -83,7 +85,7 @@ Everyone who interviews a candidate must complete a scorecard and is required to
 This Justification should provide a summary of all the submitted Scorecards while incorporating any additional commentary around how the hiring manager plans on helping the candidate be successful.
 
 1. In what specific way(s) does this candidate make the team better?
-    1. Consider how the candidate meets each of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue. 
+    1. Consider how the candidate meets each of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue.
     2. List and explain any other strengths and/or unique skills the candidate brings to the role and team.
 2. What flags were raised during the interview process?
     1. Consider how the candidate doesn't meet some of the Must Have's and Nice-to-Have's outlined in the recruiting kickoff issue and explain your reasoning for moving forward, and how you will address them.

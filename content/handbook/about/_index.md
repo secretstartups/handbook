@@ -55,7 +55,7 @@ The handbook is over *two* *thousand* pages long. That's a lot of good info!
 Word and page counts are determined through a simple two-step process:
 
 1. Count the number of words in the handbook. This can be done by running `find sites/handbook/source/handbook -type f -name "*.md" -o -name "*.md.erb" | xargs wc -w` from the root of the repository.
-1. Count the number of pages in the handbook. This can be done by running `grep -l -r "\- TOC" * | wc -l` from the root of the repository.
+1. Count the number of pages in the handbook. This can be done by running `grep -l -r "\" * | wc -l` from the root of the repository.
 
 Note: If you need to go back to an earlier version of the handbook, use ``git checkout `git rev-list -n 1 --first-parent --before="2021-07-02 00:00" master` `` specifying the next day after the day you want.
 

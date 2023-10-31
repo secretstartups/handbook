@@ -1,16 +1,17 @@
 ---
-layout: handbook-page-toc
+
 title: "Secure & Govern UX"
 description: "We’re designing an experience that enables contributors to commit their most secure work and to protect what they have in production."
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ### Overview
+
 We’re designing an experience that enables contributors to commit their most secure work and to protect what they have in production. This is done by merging security into the DevOps process, giving development teams more ownership, commonly referred to as DevSecOps. The experience brings cross-functional stakeholders together to make better, faster, and more security-oriented decisions. We are doing this by focusing the experience on automation, education, empowerment, and shifting security to the left.
 
 **Automation** referrs to convention over configuration that helps draw a clear path for the user to produce meaningful results. When it comes to web security, no application will ever be 100% secure. That’s why we are focused on integrating automation into every step of the user’s journey, taking the guesswork out of configuration to open up more time on what’s important: resolving known vulnerabilities and identifying attacks or threats.
@@ -22,36 +23,40 @@ We’re designing an experience that enables contributors to commit their most s
 **Shifting left** is taking things like QA and other processes typically found later in the ops cycle and moving them to development. Resulting in security problems being addressed earlier and more often.
 
 ### Customer
+
 Organizations of all sizes benefit from our tools and the experience of bringing teams together. We provide customers value with workflow efficiency, informed team decision-making, lower risk of security breaches, and attaining compliance requirements. We focus on all aspects of the product — starting with the customer experience. When deciding to use our tools, organizations are often considering the following:
 
-* What languages does the tool support?
-* What tests do we need to cover?
-* What tests does the tool cover?
-* Can it be automated?
-* How long will setup take?
-* What does setup involve?
-* How easy is it to use?
-* What technologies do you need to use? (ex. Docker, Kubernetes)
-* How lightweight is the tool?
-* How does it integrate with our tools?
-* How does it integrate with GitLab's product?
-* What customer support is offered?
-* What are the upcoming features? (we are selling contracted services vs monthly)
+- What languages does the tool support?
+- What tests do we need to cover?
+- What tests does the tool cover?
+- Can it be automated?
+- How long will setup take?
+- What does setup involve?
+- How easy is it to use?
+- What technologies do you need to use? (ex. Docker, Kubernetes)
+- How lightweight is the tool?
+- How does it integrate with our tools?
+- How does it integrate with GitLab's product?
+- What customer support is offered?
+- What are the upcoming features? (we are selling contracted services vs monthly)
 
 ### Jobs to be Done
+
 We use the [Jobs to be Done (JTBDs) framework](/handbook/product/ux/jobs-to-be-done/) to keep us focused on user goals and to make sure we're supporting users on what they value. See a breakdown of the Secure and Govern Jobs to be Done [here](/handbook/product/ux/stage-group-ux-strategy/sec/jtbd/index.html).
 
 We also carry out [UX Scorecard evaluations](/handbook/product/ux/ux-scorecards/) for our JTBDs. See UX Scorecards for Secure and Govern, as well as for other stages, [here](https://gitlab.com/groups/gitlab-org/-/epics/1714).
 
 ### Team
-* [Justin Mandell](https://gitlab.com/jmandell) - Product Design Manager
-* [Alex Fracazo](https://gitlab.com/afracazo) - Senior Product Designer
-* [Andy Volpe](https://gitlab.com/andyvolpe) - Staff Product Designer
-* [Becka Lippert](https://gitlab.com/beckalippert) - Senior Product Designer
-* [Camellia Yang](https://gitlab.com/cam.x) - Senior Product Designer
-* [Michael Fangman](https://gitlab.com/mfangman) - Product Designer
+
+- [Justin Mandell](https://gitlab.com/jmandell) - Product Design Manager
+- [Alex Fracazo](https://gitlab.com/afracazo) - Senior Product Designer
+- [Andy Volpe](https://gitlab.com/andyvolpe) - Staff Product Designer
+- [Becka Lippert](https://gitlab.com/beckalippert) - Senior Product Designer
+- [Camellia Yang](https://gitlab.com/cam.x) - Senior Product Designer
+- [Michael Fangman](https://gitlab.com/mfangman) - Product Designer
 
 #### Team structure
+
 We've divided our stage into dedicated experience groups to align with a similar [split](/handbook/product/categories/#sec-section) undertaken by our engineering and PM counterparts. This is an excellent way to manage our resources but our mindset is still focused on a wholistic approach for our Groups overall user experience.
 
 **Secure**
@@ -73,7 +78,7 @@ We've divided our stage into dedicated experience groups to align with a similar
 The Secure & Govern UX teams work closely together on all things Secure & Govern and have shared coverage in the following areas:
 
 - Security Dashboards
-- Security Reports 
+- Security Reports
 - Security Widgets in the Merge Request
 - Status, Metrics and Reporting
 - Security Configuration
@@ -88,32 +93,36 @@ This segmentation gives us a better opportunity to:
 Read more about how we've created these dedicated experience groups [here.](https://gitlab.com/gitlab-org/gitlab-design/issues/458)
 
 #### Team strategy
+
 **Short-term (6m - 12m)** (as of 2021-09-22)
-* 💕 🧠 Educate our teams and counterparts on our goals, strategies and reasoning behind them
-* 🖼 Develop a roadmapping framework to be used across all Secure & Govern teams
-* 📐 Review, assess, and address our existing UI for learnability and usability
-* 🚀 Deliver solutions for unmet needs based on JTBD, allowing users to adopt GitLab as their DevOps Platform
+- 💕 🧠 Educate our teams and counterparts on our goals, strategies and reasoning behind them
+- 🖼 Develop a roadmapping framework to be used across all Secure & Govern teams
+- 📐 Review, assess, and address our existing UI for learnability and usability
+- 🚀 Deliver solutions for unmet needs based on JTBD, allowing users to adopt GitLab as their DevOps Platform
 
 **Long-term (1y - 3y)** (as of 2021-09-22)
-* 📚 Evaluate the app security maturity landscape and help our users level-up their maturity (see Empowerment in the [Overview section](/handbook/product/ux/stage-group-ux-strategy/sec/#overview))
-* 🚌 Help our users learn and up-skill their teams' knowledge on the importance of using our tools and how to use them effectively (see Education, Empowerment & Shifting left in the [Overview section](/handbook/product/ux/stage-group-ux-strategy/sec/#overview))
-* 💕 🧠 Continue to educate our teams and counterparts on our goals, strategies and reasoning behind them
+- 📚 Evaluate the app security maturity landscape and help our users level-up their maturity (see Empowerment in the [Overview section](/handbook/product/ux/stage-group-ux-strategy/sec/#overview))
+- 🚌 Help our users learn and up-skill their teams' knowledge on the importance of using our tools and how to use them effectively (see Education, Empowerment & Shifting left in the [Overview section](/handbook/product/ux/stage-group-ux-strategy/sec/#overview))
+- 💕 🧠 Continue to educate our teams and counterparts on our goals, strategies and reasoning behind them
 
 #### UX pages
-* [Secure UX](/handbook/product/ux/stage-group-ux-strategy/secure/)
-* [Govern UX](/handbook/product/ux/stage-group-ux-strategy/govern/)
+
+- [Secure UX](/handbook/product/ux/stage-group-ux-strategy/secure/)
+- [Govern UX](/handbook/product/ux/stage-group-ux-strategy/govern/)
 
 ### How we work
-We follow the [GitLab workflow](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) with [additional dates](/handbook/product/ux/stage-group-ux-strategy/sec/) and actions that directly tie to our work. 
 
-For UX-related issues or MRs that involve all groups across Secure and Govern (if you're unsure who the DRI is), we encourage transparency and collaboration by using `@gitlab-com/gitlab-ux/secure-govern-ux`. 
+We follow the [GitLab workflow](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) with [additional dates](/handbook/product/ux/stage-group-ux-strategy/sec/) and actions that directly tie to our work.
+
+For UX-related issues or MRs that involve all groups across Secure and Govern (if you're unsure who the DRI is), we encourage transparency and collaboration by using `@gitlab-com/gitlab-ux/secure-govern-ux`.
 
 For any feature development on, or affecting the performance of, the Security Dashboard and the Vulnerability Report pages, the Threat Insight backend engineering team should be notified early on by using the `@gitlab-org/govern/threat-insights-backend-team` handle to evaluate the performance impact of the feature.
 
 ### Team meetings
-* UX Group Team Social (Secure & Govern, Configure and Montior teams Check-in and hang out) weekly meeting on Tuesdays at 8:00am PST (See below for more details)
-* Secure & Govern UX - Product Design and Product Management come together every 4 weeks for a refinement session on Wednesdays at 7:00am PST (We review the upcoming milesont plan, 2 weeks before the new milestone starts)
-* Pre milestone Planning Session Monthly on the second Monday at 9:00am PST (We finalize the plan for the upcoming milestone)
+
+- UX Group Team Social (Secure & Govern, Configure and Montior teams Check-in and hang out) weekly meeting on Tuesdays at 8:00am PST (See below for more details)
+- Secure & Govern UX - Product Design and Product Management come together every 4 weeks for a refinement session on Wednesdays at 7:00am PST (We review the upcoming milesont plan, 2 weeks before the new milestone starts)
+- Pre milestone Planning Session Monthly on the second Monday at 9:00am PST (We finalize the plan for the upcoming milestone)
 
 These include topics relevant to Secure design, UX, and research. Some example topics could include:
 - Updates on in-flight and planned research
@@ -132,46 +141,50 @@ Some topics are better suited for a dedicated meeting, and should be created on 
 - Syncing on troublesome issues
 
 ##### Labels we use
+
 We use `devops::stage_name` and `UX` labels to indicate issues that need UX effort. We work on user flows that often span multiple categories so we review each of these issues prior to the start of a milestone to determine the design assignee or assignees.
 
-* `UX` + `devops::stage_name`: It is a shared UX effort and the engineering effort has not been determined.
-* `UX` + `devops::stage_name`+`Category::name`: There is a DRI for UX (can be shared) and clear engineering collaboration.
-* `UX` + `devops::stage_name`+ `UX debt`: Used for follow-up issues when a proposed design was de-scoped or not implemented as planned.
+- `UX` + `devops::stage_name`: It is a shared UX effort and the engineering effort has not been determined.
+- `UX` + `devops::stage_name`+`Category::name`: There is a DRI for UX (can be shared) and clear engineering collaboration.
+- `UX` + `devops::stage_name`+ `UX debt`: Used for follow-up issues when a proposed design was de-scoped or not implemented as planned.
 
 See our [UX Labels](/handbook/product/ux/#ux-labels) page for more on how we use labels.
 
 ##### Problem and solution validation issues
+
 When working on a `workflow::problem validation` or `workflow:solution validation` issue requiring implementation in the next 2 releases, ensure there is a placeholder implementation issue. This issue must be attached to the epic, and have a tentative milestone.
 
 #### Planning and refinement
+
 We use a [team planning board](https://gitlab.com/groups/gitlab-org/-/boards/2131151?milestone_title=13.11&) as tool to help us monitor our velocity allowing us to more efficiently communicate our time to our counterparts.
 
 At the start of each Milestone, we create a Team Milestone Planning Issue (using the [template below](#team-milestone-planning-issue-template)) to initiate a team discussion around which Issues will need to be worked on in the next, upcoming, milestone (not the milestone that has just begun). We do this to ensure that each Group has:
-* Product Designer coverage
-* To allow for a greater awareness of the work each Group is doing
-* To increase the potential for cross-group collaboration, and
-* To increase knowledge across Groups
+- Product Designer coverage
+- To allow for a greater awareness of the work each Group is doing
+- To increase the potential for cross-group collaboration, and
+- To increase knowledge across Groups
 
 **`M-1, 17th` (1 month before start of milestone)**
-* Product Design Manager (PDM): Create a Planning Issue for the milestone from the team's Planning Issue Template.
-* PDM: Assign Issue to entire team
-* Team: Discuss the needs for the NEXT milestone's design work with your Product Managers (PM)
-* Product Designers (PD) will fill in their expected Group, Flex and TOTAL Capacity in the Product Designer's Available Capacity table
+- Product Design Manager (PDM): Create a Planning Issue for the milestone from the team's Planning Issue Template.
+- PDM: Assign Issue to entire team
+- Team: Discuss the needs for the NEXT milestone's design work with your Product Managers (PM)
+- Product Designers (PD) will fill in their expected Group, Flex and TOTAL Capacity in the Product Designer's Available Capacity table
 
 **`M-1, 24th` (~3 weeks before start of milestone)**
-* Each PM and Product Designer (PD) counterpart will work together for a week to add content to their Group's UX Needs table
-* Each PD will add any OKR or Extra issues they expect to work on during the upcoming milestone to the OKR/Extra UX Needs table
+- Each PM and Product Designer (PD) counterpart will work together for a week to add content to their Group's UX Needs table
+- Each PD will add any OKR or Extra issues they expect to work on during the upcoming milestone to the OKR/Extra UX Needs table
 
 **`M-1, 1st` (~2 weeks before start of milestone)**
-* Now that all of the Group's UX Needs tables have been filled in, it's time to discuss if anyone needs additional Product Designer assistance (i.e. An Issue(s) has a priority that is deemed to be higher than another Group's prioritized list or a PM that doesn't have a PD counterpart has work that needs to get done).
+- Now that all of the Group's UX Needs tables have been filled in, it's time to discuss if anyone needs additional Product Designer assistance (i.e. An Issue(s) has a priority that is deemed to be higher than another Group's prioritized list or a PM that doesn't have a PD counterpart has work that needs to get done).
 
 **`M-1, 8th` (~1 weeks before start of milestone)**
-* Add a new comment for a round table team check-in Thumbs up/down to ensure everyone is covered and happy with the outcome.
+- Add a new comment for a round table team check-in Thumbs up/down to ensure everyone is covered and happy with the outcome.
 
 **`M, 17th` (Start of milestone)**
-* PDM: closes Planning Issue
+- PDM: closes Planning Issue
 
 #### Team Milestone Planning Issue Template
+
 To create a new Milestone Planning Issue using the Secure & Govern's issue planning template:
 1. Go to the [Secure & Govern Planning project](https://gitlab.com/gitlab-com/gitlab-ux/secure-govern-ux/secure-and-govern-planning/-/issues) and create a new issue.
 1. Select the "secureAndGovernTeamPlanning" template from the template drop down.
@@ -181,6 +194,7 @@ To create a new Milestone Planning Issue using the Secure & Govern's issue plann
 1. Follow the rest of the checkbox todo items at the bottom of the issue description
 
 ##### Understanding capacity
+
 Part of our milestone planning activities include factoring in the amount of effort required for each assigned issue. We use the following scale:
 
 | Size     | Weight | Description                                                  |
@@ -193,48 +207,54 @@ Part of our milestone planning activities include factoring in the amount of eff
 | Gigantic | 13     | A significant change that spans across multiple flows and that would require significant input from others (teams, team members, user feedback) and there are many unknown unknowns. It's unlikely we would commit to this in a milestone, and the preference would be to further clarify requirements and/or break in to smaller issues. |
 
 ### Our strategy
+
 The Secure and Govern UX teams are working together to [uncover customers' core needs](https://gitlab.com/groups/gitlab-org/-/epics/1611), what our users’ workflows looks like, and defining how we can make our users tasks easier. Our strategy involves the following actions:
 
-* [UX Scorecards and recommendations](/handbook/product/ux/ux-scorecards/) (quarterly)
-* Internal understanding: stakeholder interviews (annually)
-* Iterating on Secure product [foundation's document](https://gitlab.com/gitlab-org/gitlab-design/issues/333) (ongoing)
-* Iterating on Govern product [foundation's document](https://gitlab.com/gitlab-org/gitlab-design/issues/547) (ongoing)
-* Performing heuristic evaluations on at least 3 competitors, based competitors the 3 user type is using (annually, ongoing)
-* We talk to our customer (ongoing)
-* We talk to our users (ongoing)
-* We outline current user workflows and improve them (upcoming, ongoing)
+- [UX Scorecards and recommendations](/handbook/product/ux/ux-scorecards/) (quarterly)
+- Internal understanding: stakeholder interviews (annually)
+- Iterating on Secure product [foundation's document](https://gitlab.com/gitlab-org/gitlab-design/issues/333) (ongoing)
+- Iterating on Govern product [foundation's document](https://gitlab.com/gitlab-org/gitlab-design/issues/547) (ongoing)
+- Performing heuristic evaluations on at least 3 competitors, based competitors the 3 user type is using (annually, ongoing)
+- We talk to our customer (ongoing)
+- We talk to our users (ongoing)
+- We outline current user workflows and improve them (upcoming, ongoing)
 
 Additionally, we value the following:
-* Testing our features with usefulness and usability studies
-* Drinking our own wine and partnering closely with our internal Security and Compliance teams for feedback and feature adoption
-* Partnering with our sales and account team to connect directly with customers and learn why customers did (or didn’t) choose our product
-* Collaborating with stakeholders on proof of concept discoveries to better understand future consideration
-* Collaborating between the Secure and Govern teams to make sure we’re offering a consistent and cohesive security workflow so that our customers can apply reactive findings into proactive measures and make sure their applications are protected throughout the entire application lifecycle
-* Prioritizing issues that are likely to increase our number of active users
+- Testing our features with usefulness and usability studies
+- Drinking our own wine and partnering closely with our internal Security and Compliance teams for feedback and feature adoption
+- Partnering with our sales and account team to connect directly with customers and learn why customers did (or didn’t) choose our product
+- Collaborating with stakeholders on proof of concept discoveries to better understand future consideration
+- Collaborating between the Secure and Govern teams to make sure we’re offering a consistent and cohesive security workflow so that our customers can apply reactive findings into proactive measures and make sure their applications are protected throughout the entire application lifecycle
+- Prioritizing issues that are likely to increase our number of active users
 
 The source of truth lives with shipped features, therefore we:
-* Make data-driven decisions quickly and thoughtfully
-* Optimize to deliver our solutions as soon as possible
-* Learn, iterate, test, and repeat
+- Make data-driven decisions quickly and thoughtfully
+- Optimize to deliver our solutions as soon as possible
+- Learn, iterate, test, and repeat
 
 ### Learning and development
+
 Below is a list of resoruces that provide a foundational understanding of the industry we are designing for as it relates to GitLab.
 
-#### Websites and resources 
+#### Websites and resources
 
 ##### Getting started
+
 -[GitLab Secure UX 101](https://app.mural.co/t/gitlab2474/m/gitlab2474/1573242955373/e0edcc6d4be079e36a7e26eebb0950961b9506c7?sender=avolpe0924)
 
 ##### Security frameworks and standards
+
 - [NIST Cybersecurity framework](https://www.nist.gov/cyberframework)
 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
 ##### Vulnerability types and definitions
+
 - [MITRE - CWEs explained](https://cwe.mitre.org/about/index.html)
 - [MITRE - CVEs explained](https://cve.mitre.org/about/index.html)
 - [National Vulnerability Database NVD](https://nvd.nist.gov/)
 
 #### LinkedIn Learning courses
+
 - [DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops?u=2255073) • 54m • Beginner
 - [DevSecOps: Automated Security Testing](https://www.linkedin.com/learning/devsecops-automated-security-testing?u=2255073) • 1h 35m • Beginner + Intermediate
 - [Learning the OWASP top 10](https://www.linkedin.com/learning/learning-the-owasp-top-10?u=2255073) • 43m • Beginner + Intermediate
@@ -242,6 +262,7 @@ Below is a list of resoruces that provide a foundational understanding of the in
 - [Vulnerability Management: Assessing the Risks with CVSS v3.1](https://www.linkedin.com/learning/vulnerability-management-assessing-the-risks-with-cvss-v3-1/welcome-to-this-course?u=2255073) • 1h 14m • Intermediate
 
 ### Follow our work
+
 Our [Secure and Govern UX YouTube channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrFCe5BgUkzFrZifjforQOz) includes UX Scorecard walkthroughs, UX reviews, group feedback sessions, team meetings, and more.
 
 

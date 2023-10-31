@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "System Usability Scale"
 description: "The System Usability Scale (SUS) is a performance indicator we use to measure the long term usability of our product."
 ---
 
-#### On this page
-{:.no_toc .hidden-md .hidden-lg}
+##
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 The [System Usability Scale](https://measuringu.com/sus/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Our current and past SUS scores can be found in the [UX Department Performance Indicators](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score).
 
@@ -31,7 +31,7 @@ The response scale for each question is a 5-point Likert agreement scale:
 | ----- | ----- | ----- | ----- | ----- |
 | 1 | 2 | 3 | 4 | 5 |
 
-We follow these 10 questions with a single open-ended question that asks, _“Is there anything else you’d like to share with us about GitLab’s usability?”_
+We follow these 10 questions with a single open-ended question that asks, *“Is there anything else you’d like to share with us about GitLab’s usability?”*
 
 These questions are delivered in survey format to users of the product.
 
@@ -39,7 +39,7 @@ These questions are delivered in survey format to users of the product.
 
 We adopted the System Usability Scale at GitLab in FY20-Q1. We deploy the survey quarterly to SaaS users and bi-quarterly to our Self-Managed users. This has allowed us to understand the overall usability of our product and track changes over time. We’ve begun relying on SUS as a [KPI for the UX Department](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score) and we have multiple OKR-related efforts underway to try and improve our score.
 
-With this emphasis, it’s important that SUS is deployed in a rigorous and sustainable manner. 
+With this emphasis, it’s important that SUS is deployed in a rigorous and sustainable manner.
 
 ## Executing SUS
 
@@ -56,7 +56,7 @@ To ensure that our SUS metric can be reliably and sustainably collected, and tha
 ### Regular participant criteria
 
 - **Recently active:** We use a minimum threshold of 10 product events across at least 2 stages in the previous 30 days. An ‘event’ is an indicator that users are doing something in a certain area of GitLab. This approach has two goals: we’re targeting people who have used multiple stages, and eliminating people with limited exposure to our features and the usability of our experience. It also ensures respondents have recently used GitLab and have a higher likelihood of experiencing recent improvements.
-- **Sample size:** For SaaS users we target an ***n* of 200 for each cohort** with a total ***n* of 800**. This allows us to calculate a score with a high degree of confidence. 
+- **Sample size:** For SaaS users we target an ***n* of 200 for each cohort** with a total ***n* of 800**. This allows us to calculate a score with a high degree of confidence.
 
 #### Regular cohorts
 
@@ -67,7 +67,7 @@ We have defined the following cohorts that we will track over time:
 - **Experienced users:** Users that have a tenure of 180 days or more.
 - **New users:** Users with a tenure of less than 180 days.
 
-Note that these cohorts will overlap, so we won't necesssarily be gathering 200 responses for each one. For example, an experienced free user would be considered part of both the _Free user_ cohort and the _Experienced user_ cohort, and would be counted for both of those quotas.
+Note that these cohorts will overlap, so we won't necesssarily be gathering 200 responses for each one. For example, an experienced free user would be considered part of both the *Free user* cohort and the *Experienced user* cohort, and would be counted for both of those quotas.
 
 ### Self-Managed cohort
 
@@ -123,25 +123,26 @@ Company targets for our SUS score are: 73 by Q4-FY24, 77 by Q4-FY25, and 82 by Q
 
 Every quarter, we review feedback from survey respondents and code the responses into high-level themes. We use these themes to highlight trends over time and gain a deeper understanding of the areas that are impacting the usability of GitLab. The survey verbatims and corresponding list of themes are first shared in a Google spreadsheet so that all team members can access the data. We encourage product managers and product designers to review the feedback and search for existing or related issues in the GitLab issue tracker.
 
-### SUS verbatims share out by stage 
-Every quarter, an issue will be created (see [issue template](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/SUS%20Categorization%20By%20Stages.md)) and assigned to the PDMs to categorize the verbatims that fall into their stage(s). Once the verbatim is categorized by stage, it will automatically get populated in the stage-specific tab within the SUS document. The stage-specific verbatims then will be distributed via designated Slack channels. 
+### SUS verbatims share out by stage
 
-| Stage      | Slack channel(s) to communicate findings UXR  | 
+Every quarter, an issue will be created (see [issue template](https://gitlab.com/gitlab-org/ux-research/-/blob/master/.gitlab/issue_templates/SUS%20Categorization%20By%20Stages.md)) and assigned to the PDMs to categorize the verbatims that fall into their stage(s). Once the verbatim is categorized by stage, it will automatically get populated in the stage-specific tab within the SUS document. The stage-specific verbatims then will be distributed via designated Slack channels.
+
+| Stage      | Slack channel(s) to communicate findings UXR  |
 |------------|-----------------------------------------------|
-| Manage     | #s_manage                                     |      
-| Plan       | #s_plan                                       |      
-| Create     | #s_create                                     | 
-| Ecosystem, Foundations, Integrations     | #g_manage_integrations, #g_manage_foundations |      
-| Verify     | #s_verify, #ops_section                       |      
-| Package    | #s_package, #ops_section                      |      
-| Release    | #g_environments, #ops_section                 |      
-| Configure  | #g_environments, #ops_section                 |      
-| Monitor    | #s_monitor, #ops_section                      |      
-| Secure     | #s_secure                                     |      
-| Govern     | #s_govern                                     |      
-| Growth     | #s_growth                                     |      
-| Fulfillment| #s_fulfillment                                |      
-| Enablement | #s_enablement                                 |      
+| Manage     | #s_manage                                     |
+| Plan       | #s_plan                                       |
+| Create     | #s_create                                     |
+| Ecosystem, Foundations, Integrations     | #g_manage_integrations, #g_manage_foundations |
+| Verify     | #s_verify, #ops_section                       |
+| Package    | #s_package, #ops_section                      |
+| Release    | #g_environments, #ops_section                 |
+| Configure  | #g_environments, #ops_section                 |
+| Monitor    | #s_monitor, #ops_section                      |
+| Secure     | #s_secure                                     |
+| Govern     | #s_govern                                     |
+| Growth     | #s_growth                                     |
+| Fulfillment| #s_fulfillment                                |
+| Enablement | #s_enablement                                 |
 | ModelOps   | #s_modelops                                   |
 
 Use the following sample messaging text when sharing out the stage-specific insights:
@@ -158,6 +159,7 @@ Let me know if you have any questions or if you're interested in pursuing some o
 ```
 
 ## SUS Responder Outreach
+
 We include a question at the end of the SUS survey that asks whether respondents would be interested in discussing their responses with a GitLab team member. We have created a process for Product Managers (PM) and Product Designers (PDs) to conduct follow-up interviews so that they can get a better understanding of the usability issues respondents are experiencing. This outreach is optional for team members but highly encouraged. Learn more about the process on the [SUS Responder Outreach page](/handbook/product/ux/performance-indicators/system-usability-scale/sus-outreach.html).
 
 ## Limitations
@@ -171,6 +173,7 @@ It’s natural to try and slice survey response data by every facet imaginable t
 We deploy SUS on a regular basis, but that doesn’t mean we should expect to see improvements reflected in the score immediately. Once we ship a product change, people first have to experience it in sufficient numbers such that our survey reaches enough of them. This can take different amounts of time depending on the usage of a given feature and is effectively impossible to estimate. We also have no way of knowing what the effect of single product change will be on a user. Something that is a major pain for a large number of users may be a minor annoyance for the person we survey. We shouldn’t expect single enhancements to drive increases in the SUS, but rather, that sustained enhancements over time will lead to improvements to our overall usability, which in turn should increase our SUS score over the long term.
 
 ## SUS Database
+
 Every quarter, we collect dozens of data points in our SUS survey, including the individual SUS scores, participants' verbatims, and more. If you want to find past data, you can use the [SUS Database](https://about.gitlab.com/handbook/product/ux/sus-database/) handbook page to find our database in Sisense (internal users only).
 
 ## Frequently Asked Questions

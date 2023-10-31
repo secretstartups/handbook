@@ -1,19 +1,19 @@
 ---
-layout: handbook-page-toc
+
 title: "Community contributions for Actionable Insights"
 description: "Engaging the wider GitLab community to get Actionable Insights fixed"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 
-UX Research is most valuable when insights are acted upon and result in implementation. As part of UX Research deliverables, [Actionable Insight issues](/handbook/product/ux/ux-research/research-insights/#actionable-insights) are created which allow product teams to pick up and fix the issues that UX research uncovers. What's great about GitLab is that [everyone can contribute](/handbook/company/mission/), not just our internal product teams. Engaging the wider GitLab community and asking for their support may help to get Actionable Insights addressed more quickly and with that improve the experience of using GitLab. One way to help surface those insights is by writing a blog post. 
 
-The process below describes how UX Researchers can create blog posts calling for community contributions to implement solutions that address user problems identified in UX Research. 
+
+
+
+
+UX Research is most valuable when insights are acted upon and result in implementation. As part of UX Research deliverables, [Actionable Insight issues](/handbook/product/ux/ux-research/research-insights/#actionable-insights) are created which allow product teams to pick up and fix the issues that UX research uncovers. What's great about GitLab is that [everyone can contribute](/handbook/company/mission/), not just our internal product teams. Engaging the wider GitLab community and asking for their support may help to get Actionable Insights addressed more quickly and with that improve the experience of using GitLab. One way to help surface those insights is by writing a blog post.
+
+The process below describes how UX Researchers can create blog posts calling for community contributions to implement solutions that address user problems identified in UX Research.
 
 ## Who is involved and what are their responsibilities?
 
@@ -54,7 +54,7 @@ It’s recommended to include the following information in a blog post:
 - Solutions (What we want to change, and why)
 - Link to Actionable Insights issues for community contributors to pick up
 
-To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community or linking to useful information about how to [Contribute to GitLab](/community/contribute/). 
+To motivate contributers and set them up for success, it may be helpful to include links to recently completed Actionable Insights by the community or linking to useful information about how to [Contribute to GitLab](/community/contribute/).
 
-For inspiration, take a look at the [first published blog post](https://about.gitlab.com/blog/2022/07/25/5-problems-you-can-help-us-solve-right-now/) and the corresponding [issue for the blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13599). 
+For inspiration, take a look at the [first published blog post](https://about.gitlab.com/blog/2022/07/25/5-problems-you-can-help-us-solve-right-now/) and the corresponding [issue for the blog post proposal](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/13599).
 

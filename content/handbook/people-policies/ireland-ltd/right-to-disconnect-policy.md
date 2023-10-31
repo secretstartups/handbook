@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab Ireland Ltd Right to Disconnect Policy"
 description: GitLab Ireland Ltd Right to Disconnect Policy
 ---
