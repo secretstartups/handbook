@@ -349,7 +349,7 @@ For all other event types (including in-person workshops), please see instructio
 
 ### FMM Tasks
 
-- FMM to update Allocadia showing the event as canceled by going to the event sub-category panel and selecting `Yes` to the `Campaign Canceled?` dropdown. FMM to also add in `CANCELED` to the `Official Event/Campaign Name` field so the title in the main issue stays updated.
+- FMM to update Allocadia showing the event as canceled by going to the event sub-category panel and selecting `Yes` to the `Campaign Canceled?` dropdown. FMM to also add in `CANCELED` to the event sub-category title and to the `Official Event/Campaign Name` field so the title in the main issue stays updated.
 - FMM to remove any planned/forecasted costs in Allocadia accordingly.
 - FMM to update the cancellation status with any additional vendors (such as Boundless, PizzaTime, etc.).
 - FMM to ping the FMC and staff/DRIs in the main Field Marketing issue to communicate the cancelation and close out the issue.
