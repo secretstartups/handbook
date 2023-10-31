@@ -71,16 +71,16 @@ The Partner Help Desk team has compiled a list of issues and solutions to the mo
 # Partner Services Program Management 
 
 
-## Help Your Partners Become a GitLab Certified Service Partner:
+## Help Your Partners Become a GitLab Designated Professional Services Partner (PSP):
 
-Step 1: Introduce your partners to the [GitLab Service Partner Program](https://about.gitlab.com/handbook/resellers/services/#gitlab-certified-service-partner-program-overview) 
+Step 1: Introduce your partners to the [GitLab Partner Services Program](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program) 
 
 Step 2: Set an enablement plan with the partner representative that identifies their key employees who sign up for training and become certified to meet the competency requirements for the program.
 
-Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/services-catalog/)
+Step 3: Build a business plan to incorporate GitLab as a strategic element in their service practice using our [Service Development Framework](https://about.gitlab.com/handbook/resellers/services/)
 
 
-Step 4: CAMs and the PHD award partners their certifications using GitLab Issues. 
+Step 4:  Partner Support team awards partners their designation using GitLab Partner Portal. 
 
 
 
@@ -89,48 +89,36 @@ Step 4: CAMs and the PHD award partners their certifications using GitLab Issues
 
  
 
-## GitLab Service Partner Badge Award Process
+## GitLab Professional Services Partner Designation Award Process
 
-Channel partners who are compliant with the Channel program are eligible to achieve a GitLab  Professional Services Partner (PSP) badge.
+GitLab partners who are compliant with the partner program are eligible to become a GitLab Designated Professional Services Partner (PSP).
 
-The requirements for the GitLab Professional Service Partner badge can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/services/#becoming-a-certified-service-partner).
-
-
+The requirements for the GitLab Professional Service Partner badge can be found on the [Channel Services Handbook Page](https://about.gitlab.com/handbook/resellers/Channel-Program-Guide/#gitlab-partner-services-program).
 
 
-### GitLab Professional Services Partner Badge Award Process
+### GitLab Professional Services Partner Designation Award Process
 
-Practitioners will be granted badges per the [Practitioner Badging Process](https://about.gitlab.com/handbook/resellers/training/). Badges will be issued as each practitioner completes the required training and certification exam associated accreditations and certifications through an automation between the GitLab Learn system and Credly that is managed by GitLab Education Services team. 
+When a partner completes the PSP criteria, the monthly report will trigger the following in the GitLab Partner Portal: 
 
-When a partner reaches the required number of GitLab Professional Services Engineers, the GitLab Channel Programs Team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign the CAM responsible for the account to that issue. The CAM and the Partner Help Desk each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
-
-Within 7 calendar days of assignment the CAM will:
-
-
-1. Send the appropriate certification award email to the main Partner contact person. The award email contains the following elements:
+1. Send the appropriate designation award email to the main Partner contact person listed in the account profile. The award email contains the following elements:
     1. Congratulations
     2. Access to a Badge Graphic Download 
-    4. Directs partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
-2. The Issue will also be automatically be assigned to GitLab Partner Help Desk who will: 
-    1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
-3. Any request for public relations support must go through the CAM as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
+    3. Directs partners to our social media sharing kit to help them effectively announce their new certification per our social media kit.
+2. The report will automatically trigger the following change in the GitLab Partner Portal parter profile: 
+    1. Update the partner portal account information with the new designation and date of award 
+    2. Display the PSP designation on the partner locator for the account.
 
-### GitLab Training Services Partner Award Process
+### GitLab Professional Services Partner Designation Revocation Process
 
-The GitLab Education Services Manager team will open an issue in the [Channels](https://gitlab.com/groups/gitlab-com/channel/-/issues) project using the `Partner_Certification_Award` issue template and assign themeselves to that issue. The Education Services Manager and the Partner Help Desk (PHD) each have tasks to complete in the issue. Instructions and templates are linked in the issue to make it easy for each team member to carry out the tasks.
+When a partner annual audit identifies a non-compliant PSP, the monthly report will trigger the following in the GitLab Partner Portal: 
 
-Within 7 calendar days of assignment the GitLab Education Services Manager will:
-
-
-1. Send the appropriate certification award email to the main partner contact person. The award email contains the following elements:
-    1. Congratulations
-    2. Access to a Badge Graphic Download 
-    4. Directs partners to our social media sharing kit to help them effectively announce their new certification.
-2. The Issue will also be automatically assigned to the PHD who will: 
-    1. Update the partner portal account information with the new certification and include the badge on the partner locator for the account.
-3. Any request for public relations support must go through the Education Services Manager as well as the GitLab PR team. Please refer to the [Corporate Communications handbook page](https://about.gitlab.com/handbook/marketing/corporate-communications/#partner-requests-for-press-release-support) for more information on the process.
-
-
+1. Send the appropriate designation revocation email to the main Partner contact person listed in the account profile. The award email contains the following elements:
+    1. Change of status notification message.
+    2. Directs the partner to the handbook site for further information on returning to compliance
+    
+2. The report will automatically trigger the following change in the GitLab Partner Portal parter profile: 
+    1. Update the partner portal account information to remove the designation and date of award 
+    2. Remove the PSP designation on the partner locator for the account.
 
 
 
