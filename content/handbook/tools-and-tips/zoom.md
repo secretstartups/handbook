@@ -54,12 +54,21 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 *Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app.*
 
-### Sign into Zoom for the first time via Okta
+### Updating Zoom
 
-Please ensure you can login Zoom using Okta
+Preferred minimum version for Zoom: 
 
-1. Go to <https://gitlab.okta.com/>
-1. Click on the `Zoom SSO` tile
+1. Open the Zoom app on your computer.
+1. In the menu bar, click on `zoom.us` (top left corner of your screen).
+1. Click on `Check for Updates...`
+
+### Sign into the Zoom app 
+
+1. Go to [Okta](https://gitlab.okta.com)
+1. Click on the `Zoom SSO` tile.
+1. Open the Zoom app on your computer.
+1. Click on `SSO`. 
+1. Enter `gitlab.zoom.us` for the company domain. 
 
 ### Install the Zoom app (on your Mac)
 
