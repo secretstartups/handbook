@@ -28,14 +28,16 @@ in `gitlab-com/support`.
 1. **Email**: Email is my notification channel. I've sent less than 500 emails and received more than 40,000 in the 2+ years between Jan 2018 and Feb 2020. Nearly all of those emails were to people outside of GitLab.
 1. **Phone**: I have a phone, but often reject or screen calls from unknown numbers. This isn't the best way to get in touch.
 
-#### Email Notification Priorities
+#### Notification Priorities
 
-1. Uncategorized - unknown risk and priority for categorizing trends
-2. Calendar invites - affect availability
-3. MRs - Don't block others work
-4. @mentions - Don't block others work
-5. Support Team Meta - be aware of what's going on in the team
-6. General notifications from GitLab (subscribed issues and such)
+1. GitLab To Do items - if you need me, `@lyle` me!
+   1. MRs - Don't block others work
+   1. @mentions - Don't block others work
+   1. Other items
+1. Email Uncategorized - unknown risk and priority for categorizing trends
+1. Calendar invites - affects availability
+1. Support Team Meta - be aware of what's going on in the team
+1. General notifications from GitLab (subscribed issues and such)
 
 #### Other meetings
 I'm open to ad-hoc meetings with anyone who wants to chat - whether you're in my department 
