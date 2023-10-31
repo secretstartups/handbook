@@ -304,22 +304,33 @@ User Groups are the only prescribed method we use for setting permissions across
 ##### Limited Access User Groups
 
 - General SAFE Access
-  - This group allows viewing of and developing with data that contains material non-pulic informaion that should be keept SAFE.  Team members must be on the designatged insters list to be added to this group.
-
-- RSA SAFE Access
-  - This group is for the Revenue Strategy and Analytics team and is restricted because analysis performed are confidential planning efforts that may impact people roles. Team members must be on the Designated Insiders list to be added to this group.
-
-- Self-Service SAFE Access
-  - Team members must be on the designatged insters list to be added to this group.
-
-- People Restricted Access
-
-- Internal Audit Restricted Access
-
-- ASM Restricted Access
+  - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](https://about.gitlab.com/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
+  - To gain [access to SAFE data](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval. 
 
 - ASM EMEA Commercial Restricted Access
   - This project allows access to the ASM EMEA Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
+  - Please work with Keith Gliksman @keith.gliksman for access approval.
+
+- ASM Restricted Access  
+  - Please work with the GTM Planning & Ops team and/or Alex Cohen @alex.cohen for access approval.
+
+- Internal Audit Restricted Access
+  - Please work with the Internal Audit team and/or Harinakshi Poojary @hpoojary for access approval.
+
+- People Restricted Access
+  - Please work with the People Analytics team and/or Adrian Perez @aperez349 for access approval.
+
+- RSA SAFE Access
+  - This group is for the Revenue Strategy and Analytics team and is restricted because analysis performed are confidential planning efforts that may impact people roles. Team members must be on the Designated Insiders list to be added to this group.
+  - Please work with the Sales Strategy team and/or Olga Falkenhof @ofalken for access approval.
+
+- Sales Development SAFE Access
+  - Team members must be on the Designated Insiders list to be added to this group.
+  - Please work with Keith Gliksman @keith.gliksman for access approval.
+
+- Self-Service SAFE Access
+  - Team members must be on the Designated Insiders list to be added to this group.
+  - Please work with the Self-Service team and/or Max Fleisher @mfleisher for access approval.
 
 <details markdown=1>
 
@@ -349,6 +360,7 @@ users:
 ```
 
 </details>
+
 
 #### Project Permission Structure
 
