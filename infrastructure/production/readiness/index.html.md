@@ -14,12 +14,6 @@ The readiness review process should be started as early as possible as features 
 **Completing a readiness review doesn't necessarily mean that the Reliability team will take over on-call responsibilities or ownership from the service team.**
 **For situations where the Reliability team _is_ taking over ownership and/or on-call responsibilities for a service, a review must be completed.**
 
-It is important to start as early as possible and it is required for all [product maturity levels][maturity levels].
-A readiness review should be created for changes that meet any of the following criteria:
-- New infrastructure components, or significant changes to existing components that have dependencies on the GitLab application.
-- Changes to our application architecture that change how the infrastructure scales, or how data is processed or stored.
-- New services or changes to existing services that will factor into the availability of the GitLab application.
-
 This review is meant to facilitate collaboration between Service Owners, Security and Infrastructure teams to help bridge any gaps identified for a new service.
 The review document will serve as a snapshot of what is being deployed and the discussions that surround it.
 It is not intended to be constantly updated.
@@ -29,6 +23,15 @@ We require an MR because it allows for inline comments, threaded discussions and
 Once an MR has been approved by the stakeholders and merged it is considered approved for corresponding level.
 
 The **readiness review issue** is used to coordinate among stakeholders who will be assigned as reviewers and to track progress using the [Readiness Status Issue Board][issue board].
+
+## Criteria for starting a Production Readiness Review
+
+Production Readiness should start as early as possible and is required for all [product maturity levels][maturity levels] that meet any of the following criteria:
+- New infrastructure components, or significant changes to existing components that have dependencies on the GitLab application.
+- Changes to our application architecture that change how the infrastructure scales, or how data is processed or stored.
+- New services or changes to existing services that will factor into the availability of the GitLab application.
+
+If none of the above criteria is met, it will be unlikely that a Production Readiness review is necessary.
 
 ## Process
 
@@ -70,8 +73,8 @@ The Production Readiness process is authored by the DRI of the work that is bein
 
 ## Completing the readiness review
 
-Once all discussions have been addressed all mandatory items have satisfactory answers, the author will request approvals from the reviewers. 
-The reviewers should note their approval by approving the merge request. 
+Once all discussions have been addressed all mandatory items have satisfactory answers, the author will request approvals from the reviewers.
+The reviewers should note their approval by approving the merge request.
 Following this, the issue will be closed and the change can be applied in production.
 
 
