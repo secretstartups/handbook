@@ -12,7 +12,7 @@ The speed with which we can grow our team is dependent on the rate at which we f
 - **Applications** - a person who has actively applied to one of our open roles through a job advertisement/posting or an event.
 - **Referrals** - a person has been referred by a current GitLab team member.
 - **Sourced (aka Passive)** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
-This person is of interest, but has not interacted with the Talent Acquisition (TA) team or Hiring Manger yet.
+This person is of interest, but has not interacted with the Talent Acquisition (TA) team or Hiring Manager yet.
 
 ## Prospects vs. Candidates
 
