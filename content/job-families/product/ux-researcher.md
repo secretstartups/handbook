@@ -46,7 +46,7 @@ The UX Researcher (Intermediate) reports to the Director of User Experience Rese
 
 #### Intermediate Job Grade
 
-The UX Researcher (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Researcher (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate Responsibilities
 
@@ -82,7 +82,7 @@ The Senior UX Researcher reports to the Director of User Experience Research.
 
 #### Senior Job Grade
 
-The Senior UX Researcher is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Responsibilities
 
@@ -112,7 +112,7 @@ The Staff UX Researcher reports to the Director of User Experience Research.
 
 #### Staff Job Grade
 
-The Staff UX Researcher is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Responsibilities
 
@@ -154,7 +154,7 @@ The Principal UX Researcher reports to the Director of User Experience Research.
 
 #### Principal Job Grade
 
-The Principal UX Researcher is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal UX Researcher is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Responsibilities
 
@@ -168,9 +168,9 @@ The Staff responsibilities, plus the responsibilities below:
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30-min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have.
+- Selected candidates will be invited to schedule a 30-min [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have.
 
 - The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.
 
@@ -180,7 +180,7 @@ Candidates for this position can expect the hiring process to follow the order b
 >
 > 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
+> 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.
 >
 > ### Presentation Topics
 >
@@ -196,7 +196,7 @@ Candidates for this position can expect the hiring process to follow the order b
 >
 > ## Some useful resources
 >
-> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
+> - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
 > - Interested in the type of work our UX team does? Search [GitLab Unfiltered for UX Showcase](https://www.youtube.com/c/GitLabUnfiltered/search?query=ux%20showcase), review our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
@@ -213,4 +213,4 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Successful candidates will subsequently be made an offer via Zoom.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

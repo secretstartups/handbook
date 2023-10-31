@@ -36,7 +36,7 @@ The Technical Instructional Designer is responsible for designing and developing
 - Working knowledge and application experience using reveal.js, Articulate 360, Adobe Creative Suite (Premiere, Captivate, InDesign, Illustrator, Photoshop), and other industry benchmark applications and online multimedia authoring tools
 - HTML5, xAPI, mobile learning, and adaptive learning experience desired
 - Experience working with a variety of Learning Management and Learning Experience Systems and various virtual meeting management tools such as Zoom is a plus
-- Familiarity with statically generated websites are preferred, as we take a [handbook-first](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) approach to Field and Customer Enablement
+- Familiarity with statically generated websites are preferred, as we take a [handbook-first](/handbook/handbook-usage/#why-handbook-first) approach to Field and Customer Enablement
 - Knowledge of the software development life cycle, DevOps, and/or open source software is preferred
 - Ability to use GitLab
 
@@ -48,7 +48,7 @@ The Technical Instructional Designer (Intermediate) reports to the [Senior Manag
 
 #### Job Grade
 
-The Technical Instructional Designer (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Instructional Designer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Intermediate Responsibilities
 
@@ -64,7 +64,7 @@ The Senior Technical Instructional Designer reports to the [Senior Manager of Ed
 
 #### Job Grade
 
-The Senior Technical Instructional Designer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technical Instructional Designer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Responsibilities
 
@@ -94,9 +94,9 @@ The next steps for the Technical Instructional Designer Job Family would be to m
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Videoconference (or phone) screen interview with a GitLab Talent Acquisition team member
 - Videoconference interviews with 2-3 additional GitLab team members
 - Final videoconference interviews with the Director, Professional Services
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -12,7 +12,7 @@ This role reports to the Director, Self Service Growth.
 
 ### Job Grade
 
-The Senior Analyst, Online Sales & Self Service Product GTM is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, Online Sales & Self Service Product GTM is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -49,7 +49,7 @@ This role reports to the Director, Self Service Growth.
 
 ### Job Grade
 
-The Analyst, Online Sales & Self Service Operations is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst, Online Sales & Self Service Operations is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -74,7 +74,7 @@ The Analyst, Online Sales & Self Service Operations is a [grade 6](https://about
 
 ## Job Grade
 
-The Senior Analyst, Online Sales & Self Service Operations is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, Online Sales & Self Service Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 

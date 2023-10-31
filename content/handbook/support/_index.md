@@ -49,7 +49,7 @@ If you recommend [Professional Services](https://about.gitlab.com/services/) or 
 ### Our role within GitLab
 
 GitLab Support is part of the [Engineering division](https://about.gitlab.com/handbook/engineering/).
-While most engineering departments are part of the R&D [cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure),
+While most engineering departments are part of the R&D [cost center](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure),
 Support is part of the Cost of Sales (or sometimes Cost of Goods Sold (COGS)) cost center.
 
 This unique arrangement is expressed in our [Key Performance Indicators](/handbook/support/performance-indicators/),
@@ -162,13 +162,13 @@ Below we also have some commonly referenced pages:
 
 GitLab Support's vision is to deliver a consistent, exceptional experience to all customers across the globe. Our [Support Global Groups](/handbook/support/support-global-groups/) will collaborate and act as one team to deliver on that vision by continuing to strengthen and scale the team while delivering the results our customers care about the most.
 
-The overall direction for Support in FY24 will continue building from the foundations laid in FY23. We will continue to focus on KPI achievement and evolve our approach to support. Following on to the company's overall [strategic objectives](https://about.gitlab.com/company/strategy/), specific areas of focus are:
+The overall direction for Support in FY24 will continue building from the foundations laid in FY23. We will continue to focus on KPI achievement and evolve our approach to support. Following on to the company's overall [strategic objectives](/handbook/company/strategy/), specific areas of focus are:
 
 - [Customer Results](#customer-results)
 - [Strengthening the team](#strengthening-the-team)
 - [Scaling Support](#scaling-support)
 
-While our [publicly visible OKR page](https://about.gitlab.com/company/okrs/) and [Key Performance Indicators](https://about.gitlab.com/handbook/support/performance-indicators/#key-performance-indicators) reflect the focus and progress for the current quarter, the following provides more detail on the items included in the themes for the entire FY23.
+While our [publicly visible OKR page](/handbook/company/okrs/) and [Key Performance Indicators](/handbook/support/performance-indicators/#key-performance-indicators) reflect the focus and progress for the current quarter, the following provides more detail on the items included in the themes for the entire FY23.
 
 ### Customer Results
 
@@ -238,7 +238,7 @@ Here are our most important modes of communication:
 
 - [Support Week in Review](#support-week-in-review). Important updates for everyone in support.
 The SWIR is expected reading/listening for all support team members. You should try to check the SWIR at least once a week. If you have something to share with the entire team this is the best place to do it. For example, if you have an issue for a common bug, an issue that requires feedback, or an issue about an external project you're working.
-- [Slack channels](#slack) for ["informal"](https://about.gitlab.com/handbook/communication/#slack) communication.
+- [Slack channels](#slack) for ["informal"](/handbook/communication/#slack) communication.
 Due to our data retention policy in Slack, things shared there will eventually be deleted. If you want to share something there, please make sure it also has a more permanent place in our docs, handbook, issue tracker, etc.
 - [Meta issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) for any issues regarding workflows,
 general team suggestions, tasks or projects related to support, etc.
@@ -300,11 +300,11 @@ support feel free to create an issue and link to any external issues or projects
 Issues regarding documentation or features for GitLab, our FOSS project or any of the GitLab
 components should not go in this issue tracker, but in their appropriate issue tracker.
 
-If you have a proposed solution that is actionable, it's best to [start a merge request](https://about.gitlab.com/handbook/communication/#start-with-a-merge-request), tag the team for feedback and link in the [Support Week in Review](#support-week-in-review).
+If you have a proposed solution that is actionable, it's best to [start a merge request](/handbook/communication/#start-with-a-merge-request), tag the team for feedback and link in the [Support Week in Review](#support-week-in-review).
 
 ### Slack
 
-We follow GitLab's [general guidelines for using Slack](https://about.gitlab.com/handbook/communication/#slack)
+We follow GitLab's [general guidelines for using Slack](/handbook/communication/#slack)
 for team communications. As only 90 days of activity will be retained, make sure
 to move important information into the team handbook, product documentation,
 issue trackers or customer tickets.
@@ -344,7 +344,7 @@ The [SGG Slackbot's](https://gitlab.com/gitlab-com/support/support-ops/other-sof
 
 
 
-At GitLab we are to be [public by default](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public) unless there is a valid reason for it to not be public. While Slack
+At GitLab we are to be [public by default](/handbook/communication/confidentiality-levels/#not-public) unless there is a valid reason for it to not be public. While Slack
 is not public, the spirit of opening up discussions so that *everyone can contribute* means that private channels should be kept to a minimum.
 
 The following private channels are permanent fixtures in support. Usage estimates are approximate based on traffic in Feb 2022.
@@ -434,7 +434,7 @@ Discussions are encouraged to be kept in issues or merge requests so the entire 
 
 Any demos or announcements that need to be shared with the entire team should be shared in the [Support Week in Review](#support-week-in-review).
 
-All Zoom and agenda links can be found on the relevant calendar entry in the [Support Calendar.](https://about.gitlab.com/handbook/support/#google-calendar).
+All Zoom and agenda links can be found on the relevant calendar entry in the [Support Calendar.](/handbook/support/#google-calendar).
 
 #### Support Team Call
 
@@ -473,7 +473,7 @@ Some ideas of what one can expect at a Senior/Staff Support Engineers' office ho
 
 ### Creating a Meeting
 
-You may wish to host a sync call. To do so, you can create an event on the [Support Calendar.](https://about.gitlab.com/handbook/support/#google-calendar). To invite team members to the event, you can use the appropriate [Support email alias](https://internal.gitlab.com/handbook/support/#support-email-aliases) (internal Handbook, GitLab team members only)
+You may wish to host a sync call. To do so, you can create an event on the [Support Calendar.](/handbook/support/#google-calendar). To invite team members to the event, you can use the appropriate [Support email alias](https://internal.gitlab.com/handbook/support/#support-email-aliases) (internal Handbook, GitLab team members only)
 
 ### Support Week in Review
 
@@ -625,7 +625,7 @@ In GitLab Support, we have two mechanisms to organize support engineers as they 
 
 Global groups are organized by managers. Support Pods are engineer-lead. To join or start a Support Pod you can read more below.
 
-*See the [Working with Support Pods page](https://about.gitlab.com/handbook/support/workflows/working-with-pods.html) and [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).*
+*See the [Working with Support Pods page](/handbook/support/workflows/working-with-pods.html) and [Support Pods project](https://gitlab.com/gitlab-com/support/support-pods).*
 
 ### Improving our processes - 'Active Now' issue board
 
@@ -662,15 +662,15 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 
 ### Handbook links
 
-- [GitLab Team page](https://about.gitlab.com/company/team/)
+- [GitLab Team page](/handbook/company/team/)
 - [Product Categories](https://about.gitlab.com/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support/)
 - [Support Managers](/handbook/support/managers/)
 - [Support Hiring](/handbook/support/managers/hiring/)
 - [Support Channels](/handbook/support/channels/)
-- [On-Call](https://about.gitlab.com/handbook/on-call/)
+- [On-Call](/handbook/on-call/)
 - [License & Renewals](/handbook/support/license-and-renewals/)
-- [Support Ops](https://handbook.gitlab.com/handbook/support/readiness/operations/)
+- [Support Ops](/handbook/support/readiness/operations/)
 - [Advanced Topics](/handbook/support/advanced-topics/)
 
 ### Documentation

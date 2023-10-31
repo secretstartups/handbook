@@ -8,7 +8,7 @@ The Vice President, Online Sales & Self Service reports to the [VP of Commercial
 
 #### Job Grade
 
-The VP, Online Sales and Self Service is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Online Sales and Self Service is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -40,7 +40,7 @@ The VP, Online Sales and Self Service is a [grade 12](https://about.gitlab.com/h
 - Polished presentation skills
 - Ability to handle a fast-paced environment and ambitious workload
 - Bachelor degree
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Performance Indicators
 
@@ -60,10 +60,10 @@ The next step for the VP, Online Sales & Self Service Job Family is to move to t
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with our VP, Talent Acquisition.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with our VP, Talent Acquisition.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule interviews with members of the CRO Leadership team
 - Next, candidates will be invited to scheduled interviews with members of our Fulfillment and Growth teams
 - Finally, candidates will be asked to interview with our Chief Revenue Officer
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

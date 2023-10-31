@@ -57,7 +57,7 @@ You can learn more about why pipelines fail, what failures mean, and how to reso
 
 #### Reporting handbook issues and requesting help
 
-For those inside the GitLab organization, you can request help on individual merge requests via [Merge Request Buddies](https://about.gitlab.com/handbook/people-group/general-onboarding/mr-buddies/) in the `#mr-buddies` Slack channel.
+For those inside the GitLab organization, you can request help on individual merge requests via [Merge Request Buddies](/handbook/people-group/general-onboarding/mr-buddies/) in the `#mr-buddies` Slack channel.
 
 If you suspect a systemic issue, inquire in the `#handbook-escalation` Slack channel, and check to see if others are reporting similar errors in `#is-this-known`. For more information refer to the [Handbook On-Call page](/handbook/about/on-call/).
 

@@ -13,7 +13,7 @@ get merged into GitLab.
 
 ## Find a Merge Request Buddy
 
-Visit the [GitLab Team page](https://about.gitlab.com/company/team/) and search for 'Merge Request Buddy', or ask on Slack in `#mr-buddies`.
+Visit the [GitLab Team page](/handbook/company/team/) and search for 'Merge Request Buddy', or ask on Slack in `#mr-buddies`.
 
 ## Become a Merge Request Buddy
 

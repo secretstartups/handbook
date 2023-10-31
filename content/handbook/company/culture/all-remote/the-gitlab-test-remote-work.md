@@ -90,7 +90,7 @@ Great remote organizations actively work against [proximity bias](https://www.pr
 
 ### 12. Do you fund individual workspaces and reimburse for out-of-home office use?
 
-Great remote organizations recognize that there are more than two places to work. While "the office" and "home" are two options, the third space is vast. Platforms such as [Codi](https://www.codi.com), [Gable](https://www.gable.to), and [Switchyards](https://switchyards.com) exist to support these arrangements. Enabling team members to [submit for reimbursement](https://about.gitlab.com/handbook/finance/expenses#-coworking-or-external-office--space) for coworking or external office space indicates that an organization is so sure of its remote-first workflows that it is comfortable empowering people to work from a variety of spaces.
+Great remote organizations recognize that there are more than two places to work. While "the office" and "home" are two options, the third space is vast. Platforms such as [Codi](https://www.codi.com), [Gable](https://www.gable.to), and [Switchyards](https://switchyards.com) exist to support these arrangements. Enabling team members to [submit for reimbursement](/handbook/finance/expenses#-coworking-or-external-office--space) for coworking or external office space indicates that an organization is so sure of its remote-first workflows that it is comfortable empowering people to work from a variety of spaces.
 
 {{% include "includes/is_this_advice_any_good_remote.md" %}}
 

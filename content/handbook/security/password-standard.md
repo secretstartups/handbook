@@ -76,7 +76,7 @@ For a better understanding of how 2FA fits into GitLab, refer to the [Accounts a
 
 #### Application Authentication Requirements
 
-- Effective FY23 Q3, all third party applications that house GitLab confidential data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta). [Risk acceptances](https://about.gitlab.com/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process) will be required in all cases where Okta is not supported.
+- Effective FY23 Q3, all third party applications that house GitLab confidential data are required to [authenticate via Okta inline with GitLab's approach to centralized authentication and authorization](https://about.gitlab.com/handbook/business-technology/okta/#what-is-okta). [Risk acceptances](/handbook/security/security-assurance/security-risk/third-party-risk-management.html#tprm-risk-acceptance-process) will be required in all cases where Okta is not supported.
 - Authentication to an application should contain multi-factor authentication (Token, OTP Generator, SSO, YubiKey).
 - SAML Assertion after logging into an authentication portal is required where technically feasible (e.g. Okta).
 - Authentication to an application should support individual users, not groups.

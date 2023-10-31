@@ -51,7 +51,7 @@ It's important to clarify that being able to work from anywhere does **not** rep
 We recognize how crucial it is to build in time where you can mentally take a break from your work, and as a company, we encourage our team members to do that. Learn more about [how time off works at GitLab.]({{< ref "paid-time-off" >}})
 
 > **“I work closely with our executive team here, and they have been so supportive and encouraging when family-related conflicts arise. They are constantly reminding me that “family first” is our mantra, and give me ease of mind to take time away when needed. Sid, our co-founder and CEO, told me if it’s a beautiful day out and I just want to go enjoy it, I should do that. Moments like these make me so proud to be a part of the GitLab team."**
-> [*- Cheri, Chief of Staff*](https://about.gitlab.com/company/team#cheriholmes)
+> [*- Cheri, Chief of Staff*](/handbook/company/team#cheriholmes)
 
 ### Dedicate time for health and fitness
 
@@ -65,7 +65,7 @@ It's sometimes hard to remember to stay active when you work from home. If you'r
 
 > **"Getting out of the house before I start my day is very important for me.
 > Either walking the dog or going for a swim to clear my head and get the blood flowing.”**
-> [- *Daniel G., Product Manager*](https://about.gitlab.com/company/team#danielgruesso)
+> [- *Daniel G., Product Manager*](/handbook/company/team#danielgruesso)
 
 ## What are the challenges of all-remote management?
 

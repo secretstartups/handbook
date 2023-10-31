@@ -27,7 +27,7 @@ data storytelling.
 We work in a very unique way at GitLab, where flexibility and independence meet
 a high paced, pragmatic way of working. And everything we do is [in the open](https://about.gitlab.com/handbook/).
 
-We recommend looking at our [about page](https://about.gitlab.com/company/) and at the
+We recommend looking at our [about page](/handbook/company/) and at the
 [Product Data Insights handbook](https://about.gitlab.com/handbook/product/product-analysis) to get started.
 
 <a id="base-pa-requirements"></a>
@@ -52,7 +52,7 @@ and execution
 - Ability to thrive in a fully remote organization, comfortable with asynchronous collaboration
 - Ability to use GitLab
 - You share our [values](/handbook/values/), and work in accordance with those values
-- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+- You are living wherever you want and are excited about the [all remote](/handbook/company/culture/all-remote/) lifestyle
 - Bonus points: Experience working with a Data Warehouse built using Kimball dimensional modeling
 - Bonus points: Experience working with dbt
 - Bonus points: Experience using python or R for analysis
@@ -69,13 +69,13 @@ Work completed per two-week iteration ([Total Issue Velocity](https://about.gitl
 
 ## Job Grades
 
-Read more about GitLab [Job Grades](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Read more about GitLab [Job Grades](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Product Analyst (Intermediate)
 
 ##### Job Grade
 
-The Product Analyst position is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Analyst position is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 <a id="base-pa-expectations"></a>
 
@@ -106,7 +106,7 @@ future of Trusted Data at GitLab
 - Operate in an iterative mindset, focused on delivering improvements and value at high velocity
 - Document every action in either an issue, MR, the handbook, or READMEs so analyses and
 findings are discoverable, following the GitLab value of [transparency](/handbook/values/#transparency)
-and the [handbook-first culture](https://about.gitlab.com/company/culture/all-remote/handbook-first)
+and the [handbook-first culture](/handbook/company/culture/all-remote/handbook-first)
 
 ##### Requirements
 
@@ -121,7 +121,7 @@ and manage their work with minimal guidance.
 
 ##### Job Grade
 
-The Senior Product Analyst role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Analyst role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
@@ -163,7 +163,7 @@ The Staff Product Analyst role extends the Senior Product Analyst role expectati
 
 ##### Job Grade
 
-The Staff Product Analyst role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Product Analyst role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
@@ -199,7 +199,7 @@ The Manager, Product Data Insights role extends the Senior Product Analyst role 
 
 ##### Job Grade
 
-The Manager, Product Data Insights role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Product Data Insights role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 
@@ -243,7 +243,7 @@ The Senior Manager, Product Data Insights role extends the Manager, Product Data
 
 ##### Job Grade
 
-The Senior Manager, Product Data Insights role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Product Data Insights role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Expectations
 

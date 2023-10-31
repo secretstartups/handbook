@@ -7,7 +7,7 @@ As the Senior Director, Corporate Marketing, you will lead the team responsible 
 
 ### Job Grade
 
-The Senior Director, Corporate Marketing is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Corporate Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -35,7 +35,7 @@ The Senior Director, Corporate Marketing is a [grade 11](https://about.gitlab.co
 - Outstanding written and verbal communications skills with the ability to explain and translate complex technology concepts into simple and intuitive communications.
 - Uses data to measure results and inform decision making and strategy development.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Career Ladder
@@ -44,9 +44,9 @@ The next step in the Director, Corporate Marketing job family is not yet defined
 
 ## Hiring process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 - A 45 minute interview with our Chief Marketing Officer
 - A 45 minute interview with our VP of Revenue Marketing
 - A 45 minute interview with our VP of Demand Generation
@@ -54,4 +54,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

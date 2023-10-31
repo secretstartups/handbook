@@ -6,7 +6,7 @@ description: Workflow for Support Engineers on how to get help when working on a
 
 ## Getting Help on a Ticket
 
-When [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first because you are working towards resolving their problem.
+When [working on tickets](/handbook/support/workflows/working-on-tickets.html), collaboration is critical, especially when troubleshooting complex issues, or technical areas of focus that fall outside of your experience level. Asking for help means having a [low level of shame](/handbook/values/#low-level-of-shame), and also shows that you are putting the customer first because you are working towards resolving their problem.
 
 ### How to Get Help Workflow
 
@@ -21,7 +21,7 @@ Identify what's causing you to get stuck. Some examples are:
 - There is a deep technical issue which needs a development expert's consult.
 
 Then consider these options to help unblock you. And remember that
-[escalating to unblock](https://about.gitlab.com/handbook/values/#escalate-to-unblock)
+[escalating to unblock](/handbook/values/#escalate-to-unblock)
 is an operating principle of Results.
 
 #### Ask in your SGG
@@ -45,7 +45,7 @@ Other Support Engineers are a great resource to help out with tickets. To get he
     - APAC or EMEA crush / collaboration sessions
     - Senior Support Office Hours (varying times)
 1. Ask for help in one of the broader
-   [Support Slack channels](https://about.gitlab.com/handbook/support/#slack).
+   [Support Slack channels](/handbook/support/#slack).
 1. Initiate a [Branch Out session](/handbook/support/support-global-groups/branch-out-sessions.html)
    - This is like a crush session, with the specific intention of helping 1 or 2
      groups with FRTs
@@ -162,8 +162,8 @@ If you encounter any problems, such as obtaining a timely response from Developm
 
 - [Needs Collaboration view](https://gitlab.zendesk.com/agent/filters/360080204660) in ZenDesk.
 - Create a Support [pairing session issue](https://gitlab.com/gitlab-com/support/support-pairing).
-- [Support Workflows](https://about.gitlab.com/handbook/support/workflows/) to follow relevant troubleshooting workflow.
-- [Support Documentation links](https://about.gitlab.com/handbook/support/#documentation) for quick references to helpful GitLab documentation.
+- [Support Workflows](/handbook/support/workflows/) to follow relevant troubleshooting workflow.
+- [Support Documentation links](/handbook/support/#documentation) for quick references to helpful GitLab documentation.
 - [Skills by Subject](https://gitlab-com.gitlab.io/support/team/skills-by-subject.html) to find a Support Engineer scoped to the skill set needed for help.
 - [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) to find the right development or product team to reach out to.
 - [Emergency runbooks](https://gitlab.com/gitlab-com/support/emergency-runbook/-/tree/master/.gitlab/issue_templates) with troubleshooting tips, even if not an emergency.

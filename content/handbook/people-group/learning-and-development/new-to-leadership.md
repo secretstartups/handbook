@@ -65,4 +65,4 @@ If managers have any questions regarding their role related to the above topics,
 
 ### Diversity, Inclusion & Belonging
 
- A link to the Building an Inclusive Remote Culture can be found here at [Building an Inclusive Remote Culture](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#introduction).  Make sure you review the [Tips for Managers](https://about.gitlab.com/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers)
+ A link to the Building an Inclusive Remote Culture can be found here at [Building an Inclusive Remote Culture](/handbook/company/culture/inclusion/building-diversity-and-inclusion/#introduction).  Make sure you review the [Tips for Managers](/handbook/company/culture/inclusion/building-diversity-and-inclusion/#tips-for-managers)

@@ -9,7 +9,7 @@ Hi! 👋 I'm **Cassiana Gudgenov, People Compliance Partner**
 
 ## Related Pages
 
-- [Cassiana's GitLab team page entry](https://about.gitlab.com/company/team/#cgudgenov) and [pets entry](https://about.gitlab.com/company/team-pets/#110-marbles-kitty)
+- [Cassiana's GitLab team page entry](/handbook/company/team/#cgudgenov) and [pets entry](/handbook/company/team-pets/#110-marbles-kitty)
 - [Cassiana's GitLab contribution graph](https://gitlab.com/cgudgenov)
 - [Cassiana's LinkedIn profile](https://www.linkedin.com/in/cassianagudgenov/)
 
@@ -59,9 +59,9 @@ People with the S (Supporter) personality type tend to be "calm, patient and res
 
 ## My Working Style
 
-- I prefer long, uninterrupted windows of time for [deep work](https://about.gitlab.com/company/culture/all-remote/asynchronous/#mental-health). I disable **all*- notifications on my Mac and on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient]({{< ref "values#efficiency" >}}) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I will devote my full attention to your request and respond thoughtfully, with context and passion.
+- I prefer long, uninterrupted windows of time for [deep work](/handbook/company/culture/all-remote/asynchronous/#mental-health). I disable **all*- notifications on my Mac and on my phone. This allows me to focus deeply on one task at a time, which is a more [efficient]({{< ref "values#efficiency" >}}) way of working than attempting to [multitask](https://signalvnoise.com/posts/1589-multitasking-is-the-fastest-way-to-mediocrity). In return, I will devote my full attention to your request and respond thoughtfully, with context and passion.
 - Unless specifically mentioned, I don’t expect immediate responses from anyone. I [respect others’ time]({{< ref "communication#be-respectful-of-others-time" >}}) and want you to have the space for a thoughtful response.
-- I embrace [asynchronous workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/). I prefer variety in my workday [as opposed to routine]({{< ref "values#freedom-and-responsibility-over-rigidity" >}}). I work best when leveraging a [non-linear workday](/company/culture/all-remote/non-linear-workday/), maximizing daylight hours for being outdoors (if weather permits), hopefully traveling and exploring a new place.
+- I embrace [asynchronous workflows](/handbook/company/culture/all-remote/asynchronous/). I prefer variety in my workday [as opposed to routine]({{< ref "values#freedom-and-responsibility-over-rigidity" >}}). I work best when leveraging a [non-linear workday](/handbook/company/culture/all-remote/non-linear-workday/), maximizing daylight hours for being outdoors (if weather permits), hopefully traveling and exploring a new place.
 - I have many strong opinions, but they’re [weakly held](https://blog.codinghorror.com/strong-opinions-weakly-held/). I love finding a new perspective that makes me change my opinion, because it means that I’ve gotten a chance to learn something substantive and new. This also means that I expect my working style will evolve over time.
 - When scheduling a meeting, please share an agenda beforehand (unless it is a coffee chat). I like to be able to come prepared to discuss the topics and have issues/MRs or announcements pulled up for reference.
 - If I have a recommendation backed up by experience or people ops/compliance knowledge, I am happy to speak up.

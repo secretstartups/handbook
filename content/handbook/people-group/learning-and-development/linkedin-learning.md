@@ -87,7 +87,7 @@ This error usually happens if it's your first time logging in and we have reache
 
 You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
 
-If a license is required urgently or during periods of high demand, the [Growth & Development benefit](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) can be used to expense one.
+If a license is required urgently or during periods of high demand, the [Growth & Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) can be used to expense one.
 
 ## Revoking LinkedIn Learning licenses
 

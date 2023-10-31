@@ -7,12 +7,12 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents]({
 {{% /alert %}}
 
 {{% panel header="**Not a GitLab team member but want to provide feedback on our StORM program?**" header-bg="primary" %}}
-We receive [feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#feedback-at-gitlab) from GitLab team members regularly and we wanted to provide a mechanism for non-GitLab team members to provide feedback as well to help us [iterate](https://handbook.gitlab.com/handbook/values/#iteration) and align more closely with [our values](https://handbook.gitlab.com/handbook/values). If you are not a GitLab team member and would like to provide feedback on our Security Operational Risk Management (StORM) program or methodology, plese use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmD4G6CTdpbCe5Aymoz0oD6Z3Oi1X-2xxYzGNbJ2wcYh6uOA/viewform?usp=sf_link) to submit anonymous feedback.
+We receive [feedback](/handbook/people-group/guidance-on-feedback/#feedback-at-gitlab) from GitLab team members regularly and we wanted to provide a mechanism for non-GitLab team members to provide feedback as well to help us [iterate](/handbook/values/#iteration) and align more closely with [our values](https://handbook.gitlab.com/handbook/values). If you are not a GitLab team member and would like to provide feedback on our Security Operational Risk Management (StORM) program or methodology, plese use this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfmD4G6CTdpbCe5Aymoz0oD6Z3Oi1X-2xxYzGNbJ2wcYh6uOA/viewform?usp=sf_link) to submit anonymous feedback.
 {{% /panel %}}
 
 ## Purpose
 
-The purpose of the Security Operational Risk Management (“StORM”) program at GitLab is to enable better [decision-making](https://about.gitlab.com/handbook/leadership/making-decisions/) by identifying, monitoring, treating, and reporting on security operational risks in support of GitLab's [strategy]({{< ref "strategy" >}}). The Security Risk Team utilizes the procedures below to ensure that security risks that may impact GitLab's ability to achieve its customer commitments and operational objectives are effectively managed.
+The purpose of the Security Operational Risk Management (“StORM”) program at GitLab is to enable better [decision-making](/handbook/leadership/making-decisions/) by identifying, monitoring, treating, and reporting on security operational risks in support of GitLab's [strategy]({{< ref "strategy" >}}). The Security Risk Team utilizes the procedures below to ensure that security risks that may impact GitLab's ability to achieve its customer commitments and operational objectives are effectively managed.
 
 ## Scope
 
@@ -23,7 +23,7 @@ The scope of the StORM program is limited to operational, technology-agnostic se
 1. Product/GitLab subscription-specific risks (e.g., specific vulnerabilty found within GitLab.com)
 1. Operational risks that are not security-related are out of scope (e.g., accounting-related risks)
 1. [Individual security compliance observations]({{< ref "observation-management-procedure" >}}) (e.g., inadequate password settings for a specific system)
-1. [Enterprise Risk Management (ERM)](https://internal.gitlab.com/handbook/internal-audit/erm/) - internal only. Examples of ERM risks can be found on our [Mitigating Concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/) handbook page.
+1. [Enterprise Risk Management (ERM)](https://internal.gitlab.com/handbook/internal-audit/erm/) - internal only. Examples of ERM risks can be found on our [Mitigating Concerns](/handbook/leadership/mitigating-concerns/) handbook page.
 
 ## Roles and Responsibilities
 
@@ -183,7 +183,7 @@ When drafting a risk, start with a risk statement. This will represent the title
 
 #### Risk Factors and Risk Scoring
 
-Risk rating/scoring is a favorite topic of risk management/decision support practicioners and [thought](https://hubbardresearch.com/risk-management-modeling/)-[leaders](https://normanmarks.wordpress.com/2022/07/31/risk-assessment-danger/). Scores are subjective and can be influenced by [unconscious biases](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) of those applying the scores. To help mitigate this risk, we report on risks and request feedback from management to help calibrate and ensure alignment on our highest priorities.
+Risk rating/scoring is a favorite topic of risk management/decision support practicioners and [thought](https://hubbardresearch.com/risk-management-modeling/)-[leaders](https://normanmarks.wordpress.com/2022/07/31/risk-assessment-danger/). Scores are subjective and can be influenced by [unconscious biases](/handbook/company/culture/inclusion/unconscious-bias/) of those applying the scores. To help mitigate this risk, we report on risks and request feedback from management to help calibrate and ensure alignment on our highest priorities.
 
 To score each risks, we leverage a formula based on the Likelihood of the risk event occurring and the Impact to GitLab if the event occurred. Likelihood and Impact scores directly determine the overall inherent risk to GitLab.
 

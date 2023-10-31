@@ -80,7 +80,7 @@ A Parental Leave Reentry Buddy helps team members reconnect with GitLab and ease
 
 Responsibilities may include but are not limited to:
 
-1. Facilitate weekly [coffee chats](https://about.gitlab.com/company/culture/all-remote/informal-communication/#coffee-chats) to catch up on non-work topics, and listen to any concerns they have or issues they've encountered since returning to work.
+1. Facilitate weekly [coffee chats](/handbook/company/culture/all-remote/informal-communication/#coffee-chats) to catch up on non-work topics, and listen to any concerns they have or issues they've encountered since returning to work.
     - Make it fun!  Returning to work can be stressful, so coffee chats are a great time to step away from work and talk about something else.
 1. Be available to help your team member navigate through any company or departmental changes that occurred while on leave.
 
@@ -97,7 +97,7 @@ Responsibilities may include but are not limited to:
 
 ### Find a Parental Leave Reentry Buddy
 
-Visit the [GitLab Team page](https://about.gitlab.com/company/team/) and search for 'Parental Leave Reentry Buddy', or ask on Slack in `#intheparenthood`.
+Visit the [GitLab Team page](/handbook/company/team/) and search for 'Parental Leave Reentry Buddy', or ask on Slack in `#intheparenthood`.
 
 ### Volunteer to Become a Parental Leave Reentry Buddy
 
@@ -148,7 +148,7 @@ A nice way to celebrate a team member's new addition to their family is by hosti
 - Slack channel to connect with other parents — `#intheparenthood` ([Join Slack channel](https://gitlab.slack.com/app_redirect?channel=intheparenthood) - *for GitLab team members only*)
 - Read the handbook section on [returning from parental leave]({{< ref "general-and-entity-benefits#parental-leave" >}}) with tips for the transition back to work
 - Consider participating in the [**Your 4th Trimester program**]({{< ref "general-and-entity-benefits#return-to-work-resources" >}}), a 90-day coaching program to help parents transition back to work.
-- Read [GitLab's guide to parenting as a remote worker](https://about.gitlab.com/company/culture/all-remote/parenting/)
+- Read [GitLab's guide to parenting as a remote worker](/handbook/company/culture/all-remote/parenting/)
 - Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
 - Watch the video below from [Crucial Conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}) entitled `How Working Moms can Do it All`:
 

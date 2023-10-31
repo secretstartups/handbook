@@ -5,8 +5,8 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 Related Pages:
 
-- [Total Rewards Processes & Audits for US Benefits](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
-- [People Policies - Leave of Absence](https://handbook.gitlab.com/handbook/people-policies/leave-of-absence/us/)
+- [Total Rewards Processes & Audits for US Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
+- [People Policies - Leave of Absence](/handbook/people-policies/leave-of-absence/us/)
 
 ## Specific to US based team members
 
@@ -34,7 +34,7 @@ Please see additional information on the 2024 US benefits Plans
 - Need help selecting a plan? Check out the [PlanSelect Tool](https://myplanselect.com/navigation/Gitlab/2022) to help you find a plan that best suits your needs. You can also reach out to the [Cigna One Guide Service](https://drive.google.com/file/d/1eIvtYtYPSt3Q0h-Byd16CFFfT0bxv8yF/view?usp=sharing) to walk through the GitLab Cigna plans available.
 - Review the [2024 Benefits MEMO](https://drive.google.com/file/d/1hDN30zn2pcgu5hOOHuqItdhJln3x1xcx/view?usp=sharing) and [2024 US Benefits Guide](https://drive.google.com/file/d/1KTgW9U2ByTBHRrjNg623K6DY3-_pKsUD/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.
 - Coming Soon: Benefits Video with a full review of the benefit plans.
-- GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
+- GitLab offers Mental Wellnesss Services through [Modern Health](/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 - Please review the most recent [Summary of Material Modifications](https://drive.google.com/file/d/1_j61NVNqUQ0A4RBWM3ihooRuf094QdWr/view?usp=sharing) from Jan 1, 2022. Please review the [2024 Annual Rights and Notices](https://drive.google.com/file/d/1fB5r88VUiydWz3pFk76DFK3h5DTyVaDw/view?usp=sharing)
 - [Transparency in Coverage](https://www.cigna.com/legal/compliance/machine-readable-files) Starting July 1, 2022, this link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data
 
@@ -49,7 +49,7 @@ Please see additional information on the 2023 US Benefit Plans:
 - Review the [2023 Benefits at Glance](https://drive.google.com/file/d/19r8Ai1AYft_1b-Pcvnw0cQTCq1O0M86k/view?usp=sharing) and [2023 US Benefits Guide](https://drive.google.com/file/d/1vwdEJIdqogqbfFpwcRVC1cHcjH4SsckR/view?usp=sharing) for full plan details and updated plan rates. - Candidates and New hires who are about to start with GitLab can view this document by clicking on the link and requesting access, access will be granted shortly after request.
 - Watch the [2023 US Benefits Video](https://www.brainshark.com/willis/vu?pi=zIgzfm1iozgaiCz0) for a full review of the benefit plans.
 - Watch the [High Deductible (HDHP) & HSA Deep dive Webinar](https://drive.google.com/file/d/1N9DpIyoqKnoDWDZdoU8MlWV_NB30GZeu/view?usp=sharing) to learn more about this health plan and the tax advantages of enrolling in the HDHP plan with an HSA.
-- GitLab offers Mental Wellnesss Services through [Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
+- GitLab offers Mental Wellnesss Services through [Modern Health](/handbook/total-rewards/benefits/modern-health/). In addition to these services, team members that enroll in the Cigna and Kaiser plans have access to their network of [Mental Health Programs and Resources](https://drive.google.com/file/d/1LT_LG1Px3xrGMBP0-iMPXaFyQvopfSiL/view?usp=sharing)
 - Please review the full [summary plan description](https://drive.google.com/file/d/1SAmlBXC6AZUy3vSNRjdcEgQIFCQP01L6/view?usp=sharing) of all related health benefitsPlease review the [2023 Annual Rights and Notices](https://drive.google.com/file/d/1ku6hO8_ckJL49MLqOfFchIq_L4GblksZ/view?usp=sharing)
 
 See the 2023 [HDHP](https://drive.google.com/file/d/1RZb_Xm2lMs2ow4li4mdC8mpksz2ye3g2/view?usp=sharing), [PPO](https://drive.google.com/file/d/1OrHQCpswDPsq1IgDxQBo5BpUqGWflyEp/view?usp=sharing), and [EPO](https://drive.google.com/file/d/1NkwU1QH5leHND8Qwn1eeeVfAxSOQYCoa/view?usp=sharing) Summary Plan Descriptions for reference.
@@ -142,7 +142,7 @@ Once approved, coverage will be backdated to the date of the event.
 If your Qualifying Life Event requires documentation the steps below will follow your QLE request
 
 1. Following your QLE request, you will receive an email from PlanSource requesting documentation for your Qualifying Life Event.
-1. Log into [PlanSource](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource). On your PlanSource Homepage, scroll down to "Your To-Do List". Select the Task requesting documentation for your life event.
+1. Log into [PlanSource](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource). On your PlanSource Homepage, scroll down to "Your To-Do List". Select the Task requesting documentation for your life event.
 1. Upload the documentation in to PlanSource.
 1. Once submitted the Total Rewards Team will review your request and documentation for approval.
 
@@ -162,7 +162,7 @@ Please see the [2024 Annual Notice](https://drive.google.com/file/d/1fB5r88VUiyd
 
 ### Medical Allowance
 
-If you already have current group medical coverage, **you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance** and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. <br> In order to receive the monthly benefit allowance you must [log on to PlanSource](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource) and actively waive medical cover.<br>
+If you already have current group medical coverage, **you may choose to waive or opt out of group health benefits. If you choose to waive health coverage, you will receive a $300.00 monthly benefit allowance** and will still be able to enroll in dental, vision, optional plans, and flexible spending accounts. <br> In order to receive the monthly benefit allowance you must [log on to PlanSource](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#logging-into-plansource) and actively waive medical cover.<br>
 
 If you do not enroll in a plan within your benefits election period, you will automatically be enrolled in the High Deductible Health Plan (HDHP).
 
@@ -194,7 +194,7 @@ In Network:
 | Rx Plan^                   | [2023 Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf)  <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf)  <br> [2024 Standard 3-tier](https://drive.google.com/file/d/1yFWmDQFreGvjmUSmSTK9YKfb-1s_UaJ7/view?usp=sharing)  |
 | Summary Plan Descriptions  | [2023 HDHP](https://drive.google.com/file/d/1eBWTivdV3WyWr3Ie3spIV2uGWdGySe7t/view?usp=sharing) <br> 2024 HDHP(TBD)| [2023 EPO](https://drive.google.com/file/d/1xpW3mWOaKiqnLO4DZqnqcV-LZEGdpIeY/view?usp=sharing) <br> 2024 EPO(TBD)   | [2023 PPO](https://drive.google.com/file/d/1gW9evvoVy-JEIiVL05q22dQt1pE_auCw/view?usp=sharing) <BR> [2023 PPO UTAH](https://drive.google.com/file/d/1TxTQuBRSLWa-gwrc2flIiJdzJPKBLj_g/view?usp=sharing)   <Br> 2024 PPO(TBD) <BR> 2024 PPO UTAH(TBD) |
 
-\*\* In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. **Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.**. Please note that there is no inertility cover under the EPO plan as well, [see here](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-infertility-services) for more details on the infertility benefits.
+\*\* In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. **Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.**. Please note that there is no inertility cover under the EPO plan as well, [see here](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-infertility-services) for more details on the infertility benefits.
 
 \*\*\* Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
 

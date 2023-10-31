@@ -9,8 +9,8 @@ This handbook page is meant to cover who we are and why we exist at GitLab. On t
 
 ## People Analytics Team Members
 
-- [Adrian Perez](/company/team/#aperez349): [Sr. Manager, People Analytics]({{< ref "people-systems-and-analytics#senior-manager-people-analytics" >}})
-- [Shane McCormack](/company/team/#mccormack514): [Sr. Analyst, People Analytics]({{< ref "people-systems-and-analytics#senior-analyst-people-analytics" >}})
+- [Adrian Perez](/handbook/company/team/#aperez349): [Sr. Manager, People Analytics]({{< ref "people-systems-and-analytics#senior-manager-people-analytics" >}})
+- [Shane McCormack](/handbook/company/team/#mccormack514): [Sr. Analyst, People Analytics]({{< ref "people-systems-and-analytics#senior-analyst-people-analytics" >}})
 
 ## People Analytics Handbook Contents
 

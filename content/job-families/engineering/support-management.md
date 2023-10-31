@@ -8,7 +8,7 @@ canonical_path: "/job-families/engineering/support-management/"
 
 GitLab is building an open source, single application for the entire software development lifecycle—from project planning and source code management to CI/CD, monitoring, and security.
 
-Right now, we’re in a period of growth, we’re quickly increasing the size of the [Support team](https://about.gitlab.com/handbook/support/), in step with the number of GitLab employees.
+Right now, we’re in a period of growth, we’re quickly increasing the size of the [Support team](/handbook/support/), in step with the number of GitLab employees.
 
 At GitLab, we live and breathe open source principles. This means our entire [handbook](https://about.gitlab.com/handbook/) is online, and with a few clicks, you can find the details of [future releases](https://about.gitlab.com/direction/#future-releases), check out our [past releases](https://about.gitlab.com/releases/), and see some of the [customers you’d be supporting while working here](https://about.gitlab.com/customers/).
 
@@ -16,7 +16,7 @@ Support Engineering Management at GitLab isn’t your typical management opportu
 
 In the space of a day, our engineers might be doing behind the scenes work of a Linux administrator troubleshooting performance problems by using strace on a particular process, interacting with the Product team to ensure that steps in a bug report are reproducible, or with the Engineering team itself diving deep into our codebase and putting together a merge request to actually fix a customer issue. That’s not all though - they’d equally be invited to improve our documentation, help build out more efficient support processes in our [issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/) and dive into the cutting edge technologies that will define how we will do work tomorrow.
 
-At GitLab, we hold that [managers should be technically competent and experienced in the subject matter](https://about.gitlab.com/handbook/leadership/#no-matrix-organization). So, it would be your job to use your technical expertise to support all of those moving pieces - including stepping into the shoes of a Support Engineer when needs be.
+At GitLab, we hold that [managers should be technically competent and experienced in the subject matter](/handbook/leadership/#no-matrix-organization). So, it would be your job to use your technical expertise to support all of those moving pieces - including stepping into the shoes of a Support Engineer when needs be.
 
 We want to live in a world where [everyone can contribute](/handbook/values/#mission), and as a member of the support team there are no barriers to using your skills to improve the experience of our users, our customers and importantly the folks you’d be supporting as a manager.
 
@@ -28,7 +28,7 @@ We want to live in a world where [everyone can contribute](/handbook/values/#mis
 
 {:.no_toc}
 
-The Manager, Support Engineering is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Support Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### What you can expect in a Manager, Support Engineering role at GitLab
 
@@ -49,7 +49,7 @@ As a Manager, Support Engineering, you will be:
 - improving the customer experience in measurable and repeatable ways.
 - participating in escalation on-call rotation (limited to regional working hours during the week and weekend).
 
-For more details, see our [Support Manager Responsibilities page](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
+For more details, see our [Support Manager Responsibilities page](/handbook/support/managers/manager-responsibilities.html).
 
 #### Projects you might work on
 
@@ -96,7 +96,7 @@ Senior Support Managers manage multiple teams and Staff-level individual contrib
 
 {:.no_toc}
 
-The Senior Manager, Support Engineering is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Support Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### What you can expect in a Senior Support Engineering Manager role at GitLab
 
@@ -118,7 +118,7 @@ A Senior Manager, Support Engineering will:
 - Represent GitLab Support in client meetings, networking events and other official functions
 - Partner with management on budget requirements and executing to established budgets
 
-See also our [Support Manager Responsibilities page](https://about.gitlab.com/handbook/support/managers/manager-responsibilities.html).
+See also our [Support Manager Responsibilities page](/handbook/support/managers/manager-responsibilities.html).
 
 #### Requirements
 
@@ -180,11 +180,11 @@ The VP of Support role extends the Director of Support Role through:
 
 Support Management have the following job-family performance indicators.
 
-- [Customer satisfaction with Support](https://about.gitlab.com/handbook/support/#support-satisfaction-ssat)
-- [Manage team within approved operating expenses](https://about.gitlab.com/handbook/support/#customer-support-operating-expenses)
-- [Service Level Agreement](https://about.gitlab.com/handbook/support/#service-level-agreement-sla)
-- [Maintain hiring plan and capacity to achieve IC:Manager ratio](https://about.gitlab.com/handbook/support/#individual-contributor-to-manager-ratio)
-- [Develop a team of experts](https://about.gitlab.com/handbook/support/#increase-capacity--develop-experts)
+- [Customer satisfaction with Support](/handbook/support/#support-satisfaction-ssat)
+- [Manage team within approved operating expenses](/handbook/support/#customer-support-operating-expenses)
+- [Service Level Agreement](/handbook/support/#service-level-agreement-sla)
+- [Maintain hiring plan and capacity to achieve IC:Manager ratio](/handbook/support/#individual-contributor-to-manager-ratio)
+- [Develop a team of experts](/handbook/support/#increase-capacity--develop-experts)
 
 ## Span of Control in Support Management Positions
 
@@ -233,15 +233,15 @@ This role also closely interacts with counterparts in Product, Development, QA, 
 - Manage multiple teams and projects affecting consistent global execution
 - Own the support readiness and operations across all products
 
-## [What it’s like to work here](https://about.gitlab.com/handbook/hiring/candidate/faq/) at GitLab
+## [What it’s like to work here](/handbook/hiring/candidate/faq/) at GitLab
 
-The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
+The [culture](/handbook/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLabbers are currently located in over 51 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLabbers are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don’t count the number of days you take off annually. You can work incredibly flexible hours, enabled by our [asynchronous approach](/handbook/communication/) to communication. We’ll also help you set up your [home office environment](/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
 Also, every year or so, we’ll invite you to our [Contribute event](https://about.gitlab.com/events/gitlab-contribute/).
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 ### All Candidates
 
@@ -276,7 +276,7 @@ Round 2:
 
 Successful candidates will subsequently be made an offer
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

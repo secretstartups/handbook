@@ -13,7 +13,7 @@ This role will help enable communication, collaboration, strategy execution, and
 #### Projects
 
 - Organize and determine a program for a potential CTO Staff Offsite (virtual or on-site) in the last month of your term.
-- Initiate and guide the CTO team OKR process according to the [OKR schedule](https://about.gitlab.com/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO team).
+- Initiate and guide the CTO team OKR process according to the [OKR schedule](/handbook/company/okrs/#schedule/) (in partnership with the Chief of Staff to the CEO team).
 - Manage, track, and moderate OKRs for Engineering to ensure CTO Staff remain on track, and know their attention points throughout the quarter.
 - Lead the retrospection of the previous quarter OKRs in the first month of your term.
 - Drive future special projects, such as past examples like
@@ -40,7 +40,7 @@ This role will help enable communication, collaboration, strategy execution, and
 
 - Improve the quality of Engineering Handbook content.
 - Support the creation of investor updates, pitch decks, speeches, conference submissions, and presentations on behalf of the CTO.
-- Collaborate with the [CTO Executive Business Administrator](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management, and administration.
+- Collaborate with the [CTO Executive Business Administrator](/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate/) on logistics, agenda/time management, and administration.
 - Assist with finding the next Acting Chief of Staff to CTO, including promoting the role.
 - Provide feedback on the rotation process.
 
@@ -69,4 +69,4 @@ This role will help enable communication, collaboration, strategy execution, and
 
 ### Stakeholders and peers
 
-In this rotation, you will get exposure to high-level Leadership in Engineering, such as the CTO and CTO Staff. Additionally, you will work with the [CTO Executive Business Administrator (EBA)](https://about.gitlab.com/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate) on logistics, time management, meeting note-taking, and time keeping and agenda management. Other stakeholders in this rotation are the [People Business Partners](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division), who are a strategic partner aligned to specific areas of the business to advise on People-related initiatives, challenges, and goals.
+In this rotation, you will get exposure to high-level Leadership in Engineering, such as the CTO and CTO Staff. Additionally, you will work with the [CTO Executive Business Administrator (EBA)](/job-families/people-group/executive-business-administrator/#executive-business-administrator-intermediate) on logistics, time management, meeting note-taking, and time keeping and agenda management. Other stakeholders in this rotation are the [People Business Partners](/handbook/people-group/#people-business-partner-alignment-to-division), who are a strategic partner aligned to specific areas of the business to advise on People-related initiatives, challenges, and goals.

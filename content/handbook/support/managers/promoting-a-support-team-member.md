@@ -5,11 +5,11 @@ description: "How to handle Support Engineer promotions"
 
 ### Support Engineer Promotion Process for Support Managers - Quick Guide
 
-The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](https://about.gitlab.com/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion). The steps below are an addendum for notification and review for Support Engineering managers, taking into account the Customer Support Department's organisational structure, and is not meant as a replacement for any steps in the companywide people group process.
+The companywide People Group process should be followed [For Managers: Requesting a Promotion or Compensation Change](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion). The steps below are an addendum for notification and review for Support Engineering managers, taking into account the Customer Support Department's organisational structure, and is not meant as a replacement for any steps in the companywide people group process.
 
 #### Planning
 
-[We follow the promotion cadence published by the People Group](https://about.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline).
+[We follow the promotion cadence published by the People Group](/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline).
 Regularly:
 
 1. Update the then-current [Support Promotion Projections spreadsheet](https://drive.google.com/drive/search?q=Support%20Promotion%20Projections%20type:spreadsheet)
@@ -17,7 +17,7 @@ Regularly:
    promotion target.
 1. Review each of your candidates' progress toward promotion.
 
-If you have any questions, please ask your manager or our [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division).
+If you have any questions, please ask your manager or our [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division).
 
 #### Calibration
 
@@ -44,7 +44,7 @@ as soon as the documents are ready for review.
 
 #### Submission
 
-- Follow the [For Managers: Requesting a Promotion or Compensation Change](https://about.gitlab.com/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion-or-compensation-change)
+- Follow the [For Managers: Requesting a Promotion or Compensation Change](/handbook/people-group/promotions-transfers/#process-for-managers-requesting-a-promotion-or-compensation-change)
   process
 
 #### Announcement
@@ -52,7 +52,7 @@ as soon as the documents are ready for review.
 - Once approval has been received from People team, notify the engineer.
 - Send a message to the `#team-member-updates` Slack channel.
 - Share the message from `#team-member-updates` into the `#support-team-chat` channel for Support Team visibility.
-- Go multi-modal and [add an announcement](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/SWIR/) to the [Support Week in Review (SWIR)](https://about.gitlab.com/handbook/support/#support-week-in-review), using the "Team Member Updates" category
+- Go multi-modal and [add an announcement](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/SWIR/) to the [Support Week in Review (SWIR)](/handbook/support/#support-week-in-review), using the "Team Member Updates" category
 - Move the promotion doc to the [Individual Docs folder](https://drive.google.com/drive/search?q=Individual%20Docs)
   in the shared `Support` drive on Google Drive.
 

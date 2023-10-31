@@ -33,7 +33,7 @@ When an issue is fixed, verify it yourself, and move the issue's entry from the 
 
 ## Handling of issues related to `noinspection` comments
 
-Many of these issues are related to the [suppression of Code Inspection false positives via `# noinspection ...` comments](https://handbook.gitlab.com/handbook/tools-and-tips/editors-and-ides/jetbrains-ides/code-inspection/#suppressing-false-positives-with-noinspection-comments)
+Many of these issues are related to the [suppression of Code Inspection false positives via `# noinspection ...` comments](/handbook/tools-and-tips/editors-and-ides/jetbrains-ides/code-inspection/#suppressing-false-positives-with-noinspection-comments)
 
 When an issue related to `noinspection` is resolved and included in a released version of the IDE:
 

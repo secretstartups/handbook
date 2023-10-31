@@ -88,7 +88,7 @@ Along with any charges that are over $5,000 USD (or equivalent local currency) t
 - Are not permitted.
 - These purchases must go through the normal employee expense reimbursement process.
 - This includes equipment for new hires and replacements.
-- See [Global Travel and Expense Policy Handbook page](https://about.gitlab.com/handbook/finance/expenses/) regarding "Office Equipment and Supplies" and "Laptops, insurance and repairs".
+- See [Global Travel and Expense Policy Handbook page](/handbook/finance/expenses/) regarding "Office Equipment and Supplies" and "Laptops, insurance and repairs".
 
 ### Conferences Training/Tuition and Membership fees for individual team members
 
@@ -131,14 +131,14 @@ Along with any charges that are over $5,000 USD (or equivalent local currency) t
 ### Software subscriptions
 
 - Of any kind are not permitted (i.e. Amazon, Dropbox, Adobe etc)
-- For individual subscriptions, please follow the process regarding [Individual Use Software](https://about.gitlab.com/handbook/finance/procurement/personal-use-software/).
+- For individual subscriptions, please follow the process regarding [Individual Use Software](/handbook/finance/procurement/personal-use-software/).
 - For group subscriptions, please submit a Purchase Requisition in Zip.
 
 ### Team member Gifts that are not for a Significant Life Event
 
 - (i.e Anniversaries, promotions, birthdays, electronic cards, wellness, thank you's).
 - These purchases must go through the normal employee expense reimbursement process.
-- Please reference the [Gift Handbook Page](https://about.gitlab.com/handbook/people-group/celebrations/).
+- Please reference the [Gift Handbook Page](/handbook/people-group/celebrations/).
 
 ### Prizes
 

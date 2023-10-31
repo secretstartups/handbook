@@ -3,11 +3,11 @@ title: "Talent Acquisition Process Framework for Creating REQs"
 description: "The Talent Acquisition Process Framework for Creating REQs provides guidance on how to open a new requisition for the talent acquisition team."
 ---
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth).
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-talent-acquisition-single-source-of-truth).
 
 ### Requisition Release
 
-There are three creation types for new requisitions: Annual Planned Headcount, [Rolling List of Ask (RLoA)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) Incremental Headcount and Backfills. Annual Planned Headcount is released at the beginning of each fiscal year. RLoA Incremental Headcount is released each quarter for the following quarter (ie: Q2 cycle will release Q3 headcount). Backfills are opened with attrition throughout the year.
+There are three creation types for new requisitions: Annual Planned Headcount, [Rolling List of Ask (RLoA)](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) Incremental Headcount and Backfills. Annual Planned Headcount is released at the beginning of each fiscal year. RLoA Incremental Headcount is released each quarter for the following quarter (ie: Q2 cycle will release Q3 headcount). Backfills are opened with attrition throughout the year.
 
 How is headcount communicated:
 

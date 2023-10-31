@@ -5,7 +5,7 @@ description: The Global GitLab Support Zendesk Instance is the instance where we
 ---
 
 For more information on Zendesk instances, please see
-[Zendesk Instances](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/).
+[Zendesk Instances](/handbook/support/readiness/operations/docs/zendesk/).
 
 ## Emergency Requests for Zendesk US Federal
 

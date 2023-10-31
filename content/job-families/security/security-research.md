@@ -14,7 +14,7 @@ Security research engineers are subject matter experts (SME) that conduct resear
 - Report findings to tool developers and track mitigation process, following [responsible disclosure guidelines](https://about.gitlab.com/security/disclosure/#disclosure-guidelines-for-vulnerabilities-in-3rd-party-software).
 - Author blogs posts and presentations on topics and research in their area of expertise.
 - Author documentation and/or tooling for security training.
-- Apply [Secure tools](https://about.gitlab.com/stages-devops-lifecycle/secure/) to [secure GitLab](https://about.gitlab.com/handbook/security/#secure-the-product) and contribute to the improvement of the tools by providing feedback to the engineering team.
+- Apply [Secure tools](https://about.gitlab.com/stages-devops-lifecycle/secure/) to [secure GitLab](/handbook/security/#secure-the-product) and contribute to the improvement of the tools by providing feedback to the engineering team.
 - Identify gaps in existing security test automation and develop tools to close the gap.
 - Support other GitLab initiatives as a SME.
 
@@ -35,7 +35,7 @@ This position reports to the [Security Manager, Security Research](#security-man
 
 #### Senior Security Research Engineer Job Grade
 
-The role is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Security Research Engineer Responsibilities
 
@@ -56,7 +56,7 @@ This position reports to the [Security Manager, Security Research](#security-man
 
 #### Staff Security Research Engineer Job Grade
 
-The role is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Security Research Engineer Responsibilities
 
@@ -81,7 +81,7 @@ This position reports to the [Senior Security Manager, Security Research](#senio
 
 #### Principal Security Research Engineer Job Grade
 
-The role is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Research Engineer Responsibilities
 
@@ -111,7 +111,7 @@ This position reports to the [Threat Management Director](/job-families/security
 
 #### Distinguished Security Research Engineer Job Grade
 
-The role is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Distinguished Security Research Engineer Responsibilities
 
@@ -141,7 +141,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 
 #### Job Grade
 
-The {Security Research Manager} is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Research Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -184,7 +184,7 @@ This position reports to the [Security Engineering Director](/job-families/secur
 
 #### Job Grade
 
-The {Security Research Senior Manager} is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The {Security Research Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -220,11 +220,11 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule 2 separate 50-minute interviews with Security Research team member peers.
 - Then, candidates will be invited to schedule a 50-minute interviews with the Security Research team hiring manager.
 - Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -10,5 +10,5 @@ On occasion customers may request a Certificate of Fiscal Residence, follow the 
 
 ## Process
 
-1. Refer the customer to the [GitLab Finance handbook](https://about.gitlab.com/handbook/finance/) where they can see when the form will be available.
+1. Refer the customer to the [GitLab Finance handbook](/handbook/finance/) where they can see when the form will be available.
 1. If the customer needs a copy they can email their account representative directly or send an email to <tax@gitlab.com>.

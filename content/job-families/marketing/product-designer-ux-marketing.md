@@ -13,7 +13,7 @@ The Product Designer (UX) - Marketing (Intermediate) reports to the Director, Di
 
 #### Product Designer (UX) - Marketing (Intermediate) Job Grade
 
-The Product Designer (UX) - Marketing (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Product Designer (UX) - Marketing (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Product Designer (UX) - Marketing (Intermediate) Responsibilities
 
@@ -46,7 +46,7 @@ The Senior Product Designer (UX) - Marketing reports to the Director, Digital Ex
 
 #### Senior Product Designer (UX) - Marketing Job Grade
 
-The Senior Product Designer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Product Designer (UX) - Marketing Responsibilities
 
@@ -79,12 +79,12 @@ The next step in the Product Design (UX) - Marketing job family is not yet defin
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/handbook/company/team/).
 
-- Select candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director, Digital Experience.
 - Next, candidates will be invited to schedule a 30 minute interview with a Fullstack Engineer and a Frontend Engineer on the Digital Experience team.
 - Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Inbound Marketing.
 - Finally, candidates will be invited to schedule a 30 minute follow up interview with the Director, Digital Experience.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

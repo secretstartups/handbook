@@ -28,7 +28,7 @@ The process is designed with these constraints in mind:
 
 - aligned with our [values]({{< ref "values" >}})
 - asynchronous
-- [self-service](https://about.gitlab.com/company/culture/all-remote/self-service/) as much as possible
+- [self-service](/handbook/company/culture/all-remote/self-service/) as much as possible
 - avoid being a bottleneck in the software development life cycle
 - deliberately simple and concise
 - automated as much as possible

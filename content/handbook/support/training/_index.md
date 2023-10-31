@@ -19,7 +19,7 @@ To create an issue for yourself with one of the module templates:
 - Assign it to yourself
 - Now you're all set to follow the instructions in the module!
 
-**NOTE:** Contact your [Onboarding Buddy](https://about.gitlab.com/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
+**NOTE:** Contact your [Onboarding Buddy](/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
 
 ## Support hybrid model
 
@@ -175,7 +175,7 @@ We are continuously working on adding more modules and building out more learnin
 
 ### Creating and viewing GitLab component based training
 
-Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](https://about.gitlab.com/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/main/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
+Anyone at GitLab can contribute to creating custom Support-specific training on how to use, configure or debug GitLab and its various components. Within the existing [Support Training Project](/handbook/support/training/) there is a directory named [Support Specific Trainings](https://gitlab.com/gitlab-com/support/support-training/-/tree/main/Support%20Specific%20Trainings ) that provides a means for storing shorter non-module-based training documents and videos. The directory contains a [ReadMe](https://gitlab.com/gitlab-com/support/support-training/-/blob/main/Support%20Specific%20Trainings/ReadMe.md) which provides specific instructions on how to add training material to the directory and where to upload any associated videos.
 
 ---
 

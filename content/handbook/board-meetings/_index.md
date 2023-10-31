@@ -401,11 +401,11 @@ New Director will be be provided with:
 1. Schedule *Functional Reviews* within the first month:
 1. Corporate Strategy (CEO) - 50 mins
   - Materials for meeting: Most recent Board of Directors meeting presentation, Key Review slides, current quarter OKRs. Please do not generate new content. The Staff EBA to the CEO sends material to the new Director at least 72 hours in advance. The meeting is centered around the new Director's questions
-  - [GitLab Strategy](https://about.gitlab.com/company/strategy/)
-  - [3 year strategy](https://about.gitlab.com/company/strategy/#three-year-strategy)
-  - [Company KPI's](https://about.gitlab.com/company/kpis/)
-  - [Quarterly OKRs](https://about.gitlab.com/company/okrs/)
-  - [Mitigating Concerns](https://about.gitlab.com/handbook/leadership/mitigating-concerns/)
+  - [GitLab Strategy](/handbook/company/strategy/)
+  - [3 year strategy](/handbook/company/strategy/#three-year-strategy)
+  - [Company KPI's](/handbook/company/kpis/)
+  - [Quarterly OKRs](/handbook/company/okrs/)
+  - [Mitigating Concerns](/handbook/leadership/mitigating-concerns/)
 1. Finance (CFO) - 80 minutes suggested
   - Financing profile, liquidity, creditworthiness, credit ratings
   - Current issues, Board oversight issues

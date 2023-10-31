@@ -61,7 +61,7 @@ Here is a summary of changes made during the design of these standards based on 
 - On 2021-07-22, we performed an audit and updated the `gl_dept`, `gl_dept_group`, and `gl_product_stage` tables with the latest values. A new table was added below `gl_dept_group` expected values with the list of renamed or removed department groups.
 - The `sales-cs` realm was consolidated into the `business-tech` realm since the Demo Systems infrastructure is now managed by Business Technology.
 - The `infra-shared-services` realm was added for top-level infrastructure management.
-- We now allow short-term and long-term [working groups](https://about.gitlab.com/company/team/structure/working-groups/) to use the `gl_dept_group` label with the prefix of `wg-` and an easily understood name of their choice (no codenames).
+- We now allow short-term and long-term [working groups](/handbook/company/team/structure/working-groups/) to use the `gl_dept_group` label with the prefix of `wg-` and an easily understood name of their choice (no codenames).
 
 ## Environment Realm (`gl_realm`)
 
@@ -311,7 +311,7 @@ This allows us to allocate costs to the respective business entity in financial 
 | `canada`      | (future use) GitLab Canada Corp., Canada         |
 | `gk`          | (future use) GitLab GK, Japan                    |
 
-See the [GitLab Mailing addresses](https://about.gitlab.com/company/visiting/) for details about each entity.
+See the [GitLab Mailing addresses](/handbook/company/visiting/) for details about each entity.
 
 ### Realm Usage Guidelines
 
@@ -729,7 +729,7 @@ This label/tag is required for resources that store data (databases, storage buc
 gl_data_classification: red
 ```
 
-Values should match the documented [Data Classification Levels](https://about.gitlab.com/handbook/security/data-classification-standard.html#data-classification-levels) with all lowercase value (for cloud provider tag and label consistency).
+Values should match the documented [Data Classification Levels](/handbook/security/data-classification-standard.html#data-classification-levels) with all lowercase value (for cloud provider tag and label consistency).
 
 ### Expected Values
 
@@ -742,7 +742,7 @@ Values should match the documented [Data Classification Levels](https://about.gi
 
 ## Accounting and Financial Reporting
 
-In alignment with our [transparency value](https://about.gitlab.com/handbook/communication/confidentiality-levels/#not-public), financial information cannot be shared publicly. Team members can see the details of how labels and tags impact financial reporting in this [issue](https://gitlab.com/gitlab-com/compute-sandbox/issue-tracking/-/issues/3#impact-to-accounting-and-financial-reporting). The cost allocation methodology for production environments that in this [document](https://docs.google.com/document/d/1p4pzquEZjXRZfcdgSUQZ2Kw988o3sdknq5ZQVxtGAkw/edit?usp=sharing).
+In alignment with our [transparency value](/handbook/communication/confidentiality-levels/#not-public), financial information cannot be shared publicly. Team members can see the details of how labels and tags impact financial reporting in this [issue](https://gitlab.com/gitlab-com/compute-sandbox/issue-tracking/-/issues/3#impact-to-accounting-and-financial-reporting). The cost allocation methodology for production environments that in this [document](https://docs.google.com/document/d/1p4pzquEZjXRZfcdgSUQZ2Kw988o3sdknq5ZQVxtGAkw/edit?usp=sharing).
 
 ## Impact to Business Owners and Infrastructure Team
 

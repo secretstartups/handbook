@@ -21,7 +21,7 @@ title: "Professional Services Project Manager"
 
 #### Professional Services Project Manager Job Grade
 
-The Professional Services Project Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Project Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Summary
 
@@ -53,13 +53,13 @@ GitLab Professional Services Project Managers manage high-complexity projects to
 - Solid organizational skills, including attention to detail and ability to handle multiple priorities
 - Demonstrated ability to think strategically about business, products, and technical challenges
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Senior Professional Services Project Manager
 
 #### Senior Professional Services Project Manager Job Grade
 
-The Senior Professionl Services Project Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Professionl Services Project Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Professional Services Project Manager Responsibilities
 
@@ -92,8 +92,8 @@ All of the requirements of an intermeidate Project Manager plus the following:
 - The next steps for individual contributors is to move into:
   - A Manager role within this Job family or
   - To a Engagement Manager role
-- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](https://about.gitlab.com/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services) Job Family.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- The next steps for a Manager, Professional Services would be to move into a Senior Manager within this Job Family or to the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- The next steps for a Senior Manager, Professional Services would be the [Professional Services Engagement](/job-families/sales/job-professional-services-engagement-manager/) Job Family or the [Director of Professional Services](/job-families/sales/director-of-professional-services) Job Family.
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 To learn more, see the [Professional Services Engineer handbook](https://about.gitlab.com/handbook/customer-success/professional-services-engineering)

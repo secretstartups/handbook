@@ -4,7 +4,7 @@ title: "VP, Information Technology"
 
 ## Job Grade
 
-The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, IT is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -53,7 +53,7 @@ The VP, IT is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compe
 
 Please note that a candidate may be declined from the position at any stage of the process.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

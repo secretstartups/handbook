@@ -10,24 +10,24 @@ This page details processes and general guidelines specific to the Executive Bus
 
 | ORG |  EBA / SR EBA  | EXECUTIVE  |
 | --- | --- | --- |
-| [CEO](https://handbook.gitlab.com/job-families/chief-executive-officer/) | **Jeanne Rotenberry**<br>Staff EBA, **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)
+| [CEO](/job-families/chief-executive-officer/) | **Jeanne Rotenberry**<br>Staff EBA, **Liki Simonot**<br>Sr EBA  | Sid Sijbrandij (CEO)
 | [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/) | **Liki Simonot**<br>Sr EBA  | Stella Treas (Chief of Staff)
 | [Engineering](https://about.gitlab.com/handbook/engineering/) | **Marisa Carlson**<br>Sr EBA  | Jörg Heilig (Interim CTO)
-| [Finance](https://about.gitlab.com/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO)
-| [Finance](https://about.gitlab.com/handbook/finance/) | **Cindy King**<br>Sr EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
-| [Finance](https://about.gitlab.com/handbook/finance/) | **Anita Mall**<br>Sr EBA | Craig Mestel (VP of Finance & Business Technology)<br>Jack Andrews (VP of Investor Relations)
+| [Finance](/handbook/finance/) | **Darci Tadich**<br>Sr EBA |  Brian Robins (CFO)
+| [Finance](/handbook/finance/) | **Cindy King**<br>Sr EBA| Erin Mannix (Chief Accounting Officer)<br>Jim Gladen (VP of Tax)<br>Brijen Joshi (VP of Internal Audit)
+| [Finance](/handbook/finance/) | **Anita Mall**<br>Sr EBA | Craig Mestel (VP of Finance & Business Technology)<br>Jack Andrews (VP of Investor Relations)
 | [Legal](https://about.gitlab.com/handbook/legal/) | **Sharlene Seemungal**<br>Sr EBA  | Robin Schulman (CLO and Head of Corporate Affairs)
 | [Legal](https://about.gitlab.com/handbook/legal/)  | **Lauren Lopez**<br>EBA  | Eliran Mesika (Sr. Director of Corporate Development)<br>Emily Plotkin (Sr. Director of Legal, Employment)<br>Lynsey Sayers (VP of Legal, Privacy & IP)<br>Matt Taylor (Sr. Director of Legal, Commercial)<br>Rashmi Chachra (Sr. Director of Legal & Corporate Affairs, Corporate)<br>Robert Nalen (VP of Legal Operations)<br>Stacy Cline (Sr. Director of ESG)<br>Dan Hodes (Sr. Director of Legal, Risk Management and Dispute Resolution)
 | [Marketing](https://about.gitlab.com/handbook/marketing/)| **Jeanette McCarthy**<br>Sr EBA| Ashley Kramer (CMSO)
 | [Marketing](https://about.gitlab.com/handbook/marketing/)| **Linsea O'Shea**<br>Sr EBA | Dave Steer (VP of Brand & Product Marketing)<br>Carrie Maynard (VP of Integrated Marketing)<br>Lisa Boughner (VP of Communications)<br> Jean-Baptiste Larramendy (VP of Sales Development)
-| [People](https://about.gitlab.com/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging)
+| [People](/handbook/people-group/) | **Julia Nishioki**<br>EBA  | Wendy Barnes (CPO)<br>Pattie Egan (VP of People Operations, Technology and Analytics)<br> Rob Allen (VP of Talent Acquisition)<br>Sherida McMullan (VP of Diversity, Inclusion and Belonging)
 | [Product](https://about.gitlab.com/handbook/product/) | **Gena Schwam**<br>Sr EBA|  David DeSanto (CProdO)
 | [Product](https://about.gitlab.com/handbook/product/) | **Jennifer Garcia**<br>EBA | Justin Farris (Sr Director of Product Monetization)<br>Hillary Benson (Sr Director of Product Management)<br>Mike Flouton (VP of Product Management)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Alexa Schrauth**<br>Sr EBA | Chris Weber (CRO)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Becky Piccone**<br>Sr EBA | David Sakamoto (VP of Customer Success)<br>Jonathan Fullam (VP of Global Solutions Architecture)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Kiran Gill**<br>Sr EBA | Jake Bielecki (VP of Field Operations) <br> Patty Cheung (VP of WW Channels & Alliances)
 | [Sales](https://about.gitlab.com/handbook/sales/) | **Victoria Reinhardt**<br>Sr EBA | Bob Stevens (VP of Public Sector Sales) <br> TBH (VP of AMER Sales)
-| [Security](https://about.gitlab.com/handbook/security/) | **Marisa Carlson**<br>Sr EBA  | Josh Lemos (CISO)
+| [Security](/handbook/security/) | **Marisa Carlson**<br>Sr EBA  | Josh Lemos (CISO)
 
 ## Contact us
 
@@ -86,7 +86,7 @@ Please contact the @sales-eba-team with any questions.
 
 The process outlined below should be followed for requesting interviews with any executives. The Candidate Experience team and Executive Business Administrator team will adhere to a 24 hour working day SLA response time for scheduling interviews. Hiring is a top priority at GitLab and the team should prioritize interview requests.
 
-1. The CES team will tag the [appropriate EBA](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) in the private `#eba-team-interview-requests` slack channel with all the required details for the interview
+1. The CES team will tag the [appropriate EBA](/handbook/eba/#executive-business-administrator-team) in the private `#eba-team-interview-requests` slack channel with all the required details for the interview
    - Executive needing to be scheduled
    - Length of Interview
    - Any special timeframes
@@ -159,12 +159,12 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
    - If the meeting is in person, include the address and any pertinent details (like how to access the building or security requirements) in the location and body of the invite. Please include the cell phone numbers of key contacts.
 1. Must be a speedy meeting
 1. Agenda for the meeting must be complete 24hrs or 1 business day before the meeting and include any links to materials and pre-recorded presentations
-   - [Live doc meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) provides a great overview of how we use live docs in our meetings.
+   - [Live doc meetings](/handbook/company/culture/all-remote/live-doc-meetings/) provides a great overview of how we use live docs in our meetings.
    - We do not present in any of our meetings. If you wish to present your material, you can record a presentation in advance and link it in the agenda document. We use synchronous meetings for Q&A. More detail at https://about.gitlab.com/handbook/communication/#few-meetings-with-presentations
 1. Plan to join the meeting on time. We start on time and do not wait for folks to join.
    - As most of our meetings are conducted over zoom, please join with your camera on and with a headset or dedicated microphone whenever possible
 1. The meeting may be recorded or live streamed to GitLab Unfiltered on YouTube, please determine in advance if the meeting should be live streamed or recorded
-1. [Hybrid calls are horrible](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible) - remote meetings should have participants taking the meeting from their own equipment versus a shared conference room, shared device, etc.
+1. [Hybrid calls are horrible](/handbook/communication/#hybrid-calls-are-horrible) - remote meetings should have participants taking the meeting from their own equipment versus a shared conference room, shared device, etc.
 1. If you need to reschedule, contact the EBA team in #eba-team in slack versus contacting the E-Group directly
 
 ### During the meeting
@@ -172,7 +172,7 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
 1. The Host should start the meeting on time, if the Host is late, the participants should feel empowered to start the meeting on time
 1. We start in order of the agenda, with the person who has the first point in the numbered list
    - Unless it is a 1-1 meeting or some working group meetings, then we'd start at the bottom and work our way up
-1. If you're not actively speaking please help take notes. We prefer to [document everything live.](https://about.gitlab.com/company/culture/all-remote/meetings/#document-everything-live-yes-everything)]
+1. If you're not actively speaking please help take notes. We prefer to [document everything live.](/handbook/company/culture/all-remote/meetings/#document-everything-live-yes-everything)]
 1. If something is not on the agenda, we do not discuss it. However, participants can add topics during the meeting if time permits
 1. If you're not benefitting or contributing to the meeting, it is okay to leave the meeting
 1. Speak up if something is not working, i.e. a webcam is causing issues, a speakers volume is too low, there is latency.
@@ -216,7 +216,7 @@ The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accord
 - Mail addressed to Legal - contact the CLO for next steps.
 - Mail related to tax documents - scan and email to the PAO, Director of Tax and Controller.
 - Mail related to employment, payroll, workers compensation, court orders - mail to designated Payroll Specialist.
-- Mail related to unemployment claims - scan and email to the [designated People Connect Team member](https://about.gitlab.com/handbook/people-group/offboarding/#us-unemployment-claim-management) at `people-connect@gitlab.com`.
+- Mail related to unemployment claims - scan and email to the [designated People Connect Team member](/handbook/people-group/offboarding/#us-unemployment-claim-management) at `people-connect@gitlab.com`.
 - Mail addressed to AP - scan and email to ap@gitlab.com.
 - Mail addressed to Meltano - scan and email to the contact person as listed in the Company Mail doc.
 - All human resources related documents will be sent to a designated team member on the People Group Team.
@@ -225,11 +225,11 @@ The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accord
 
 ## OKRs
 
-- EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](https://about.gitlab.com/company/okrs/#updating).
+- EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](/handbook/company/okrs/#updating).
 
 ## Performance Indicators (PI)
 
-More information can be found [here](https://handbook.gitlab.com/job-families/people-group/executive-business-administrator/#performance-indicator)
+More information can be found [here](/job-families/people-group/executive-business-administrator/#performance-indicator)
 
 ## Signature Request procedure
 
@@ -238,7 +238,7 @@ More information can be found [here](https://handbook.gitlab.com/job-families/pe
 1. Is there an issue? If there is more than two documents you may want to consider creating an issue to track progress
 1. What is this for?
 1. Electronic signature or physical wet signature?
-1. Who needs to sign? See [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/)
+1. Who needs to sign? See [Authorization Matrix](/handbook/finance/authorization-matrix/)
 1. Why is this person’s signature required?
 1. If a wet signature is required,  is there a specific ink color that should be use?
 1. Is there a specific paper size that is required? For example, Ireland requires A4.

@@ -35,7 +35,7 @@ At GitLab, there can be many instances where a crucial conversation is needed. W
 1. **Make It Safe:** Nothing kills dialogue faster than fear. When you make it safe, you can talk about almost anything and people will listen. If you spot safety risks as they happen, you can step out of the conversation, build safety, and then find a way to dialogue about almost anything.
 1. **Master Your Stories:** Learn to exert influence over your feelings by slowing down the storytelling process, take a step back, and retrace your path to action one element at a time.
 
-These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](https://about.gitlab.com/handbook/leadership/#books) for leading teams at GitLab. Team members can also sign up to take our in-house [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
+These are just a few strategies outlined in the Crucial Conversation book. We [highly recommend reading it](/handbook/leadership/#books) for leading teams at GitLab. Team members can also sign up to take our in-house [Crucial Conversations training](/handbook/people-group/learning-and-development/learning-initiatives/crucial-conversations/).
 
 ## How Crucial Conversations align with GitLab Values
 

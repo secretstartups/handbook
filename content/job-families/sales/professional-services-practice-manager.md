@@ -8,7 +8,7 @@ title: "Professional Services Practice Manager"
 
 #### Professional Services Practice Manager Job Grade
 
-The Professional Services Practice Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Practice Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Professional Services Practice Manager Responsibilities
 
@@ -36,15 +36,15 @@ The Professional Services Practice Manager is a [grade 6](https://about.gitlab.c
 - Share and work in accordance with GitLab's values
 - Experience growing within a small start-up is a plus
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ## Senior Professional Services Practice Manager
 
 ### Senior Professional Services Practice Manager Job Grade
 
-The Senior Professional Services Practice Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), depending on seniority and prior experience.
+The Senior Professional Services Practice Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) or [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades), depending on seniority and prior experience.
 
 ### Senior Professional Services Practice Manager Job Responsibilities
 
@@ -77,7 +77,7 @@ The Senior Professional Services Practice Manager is a [grade 7](https://about.g
 
 ### Staff Professional Services Practice Manager Job Grade
 
-The Staff Professional Services Practice Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Professional Services Practice Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Staff Professional Services Practice Manager Job Responsibilities
 
@@ -118,7 +118,7 @@ The Manager, Professional Services Practice Management reports into the Senior D
 
 #### Manager, Professional Services Practice Management Job Grade
 
-The Manager, Professional Services Practice Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Professional Services Practice Management Responsibilities
 
@@ -156,7 +156,7 @@ The Senior Manager, Professional Services Practice Management reports into the S
 
 #### Senior Manager, Professional Services Practice Management Job Grade
 
-The Senior Manager, Professional Services Practice Management is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Professional Services Practice Management Responsibilities
 
@@ -240,7 +240,7 @@ The Senior Manager, Professional Services Practice Management is a [grade 9](htt
 - Proven ability to develop training curriculum and deliver effective and satisfying learning experiences.
 - Experience with coaching and mentoring team members.
 - You share our values, and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 #### Performance Indicators
@@ -260,4 +260,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 team members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

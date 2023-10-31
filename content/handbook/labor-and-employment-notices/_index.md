@@ -4,7 +4,7 @@ title: "Labor and Employment Notices"
 
 ## Introduction
 
-Since GitLab is an [all remote](https://about.gitlab.com/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
+Since GitLab is an [all remote](/handbook/company/culture/all-remote/) company we don't have a physical worksite or breakroom wall upon which to post important labor and employment notices, so this page is our version of that.
 
 
 {{% details summary="GitLab, Inc. & GitLab Federal LLC" %}}

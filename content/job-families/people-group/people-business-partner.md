@@ -12,7 +12,7 @@ PBPs contribute to the overall success of People Group driven initiatives by fac
 
 ### Job Grade
 
-The Associate People Business Partner is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate People Business Partner is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -42,7 +42,7 @@ The Associate People Business Partner is a [grade 5](https://about.gitlab.com/ha
 
 ### Job Grade
 
-The People Business Partner is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The People Business Partner is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -72,7 +72,7 @@ The People Business Partner is a [grade 6](https://about.gitlab.com/handbook/tot
 
 ### Job Grade
 
-The Senior People Business Partner is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior People Business Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -106,7 +106,7 @@ The Senior People Business Partner is a [grade 7](https://about.gitlab.com/handb
 
 ### Job Grade
 
-The Manager, People Business Partner is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Business Partner is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 This job may be an individual contributor or a manager of people, but the title is aligned with the market practice and scope of influence for the role.
 
 **Market Justification:** The business need for this role as an individual contributor is to ensure the proper experience and expertise in partnering with leadership at the company. The PBP team brings a vast amount of knowledge with respect to strategic operations in the role. In the market it is common to have this role as an individual contributor with over 50 companies reporting data for this role for an average of 2 incumbents in the role.
@@ -143,7 +143,7 @@ This job may be an individual contributor or a manager of people, but the title 
 
 ### Job Grade
 
-The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Manager, People Business Partner is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 ### Responsibilities
 
@@ -178,7 +178,7 @@ The Senior Manager, People Business Partner is a [grade 9](https://about.gitlab.
 
 ### Job Grade
 
-The Director People Business Partner is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director People Business Partner is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -213,7 +213,7 @@ The Director People Business Partner is a [grade 10](https://about.gitlab.com/ha
 
 ### Job Grade
 
-The Senior Director, People Business Partner is a [job grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, People Business Partner is a [job grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -267,21 +267,21 @@ The Senior Director, People Business Partner is a [job grade 11](https://about.g
 
 Performance indicators are done in partnership with the PBP and the organizational leaders.
 
-- Organizational Design and [Talent Assessment](https://about.gitlab.com/handbook/people-group/talent-assessment/) to drive leadership effectiveness - Complete Talent Assessment for 100% of eligible team members on time annually
-- In collaboration with leadership: Organizational Health Metrics - Turnover aligned with People Group OKRs, [Team Member Engagement](https://about.gitlab.com/handbook/people-group/engagement/)
+- Organizational Design and [Talent Assessment](/handbook/people-group/talent-assessment/) to drive leadership effectiveness - Complete Talent Assessment for 100% of eligible team members on time annually
+- In collaboration with leadership: Organizational Health Metrics - Turnover aligned with People Group OKRs, [Team Member Engagement](/handbook/people-group/engagement/)
 - Change management related to organizational and leadership iterations - measured by engagement scores and regrettable turnover
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 50 minute interview with a Director, People Business Partner
 - After that, candidates will be invited to schedule a 50 minute interview with members of the People Business Partner team and/or other members of the People team.
 - After that, candidates will be invited to interview with several leaders from the client group you will be supporting.
 - Finally, our CPO may choose to conduct a final interview.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Career Ladder
 

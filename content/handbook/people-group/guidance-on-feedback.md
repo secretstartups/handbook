@@ -82,7 +82,7 @@ Preparing for hard conversations is important, tips [in this article](https://ps
 
 ### Cross-Cultural Feedback Considerations
 
-GitLab has 2000+ team members from diverse [cultures and backgrounds](https://about.gitlab.com/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
+GitLab has 2000+ team members from diverse [cultures and backgrounds](/handbook/company/culture/inclusion/identity-data/). We should get to know our team members well enough to understand how best to share feedback. It's important to adapt tone and style according to each individual and relationship. Consider:
 
 1. Do you need to build relationship before candor is comfortable?
 1. Consider comfort with direct vs indirect feedback

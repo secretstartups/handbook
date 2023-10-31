@@ -7,9 +7,9 @@ You've become an onboarding buddy to a new Support Engineer. Congratulations! Yo
 
 ## Responsibilities
 
-These responsibilities of the Support onboarding buddy are an extension of [the GitLab Onboarding Buddy responsibilities](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/#buddy-responsibilities), so please review that page first.
+These responsibilities of the Support onboarding buddy are an extension of [the GitLab Onboarding Buddy responsibilities](/handbook/people-group/general-onboarding/onboarding-buddies/#buddy-responsibilities), so please review that page first.
 
-1. Help the new Support Engineer through any sticking points they have in their [onboarding modules](https://about.gitlab.com/handbook/support/training/).
+1. Help the new Support Engineer through any sticking points they have in their [onboarding modules](/handbook/support/training/).
 1. Communicate often with the new hire, and either help (or direct them to get help) when stuck.
 1. Help the new Support Engineer adapt to and learn the role, by having frequent calls and pairing sessions to learn about our day-to-day duties.
 1. Encourage the new Support Engineer to work tickets that push them out of their initial comfort zone.
@@ -26,7 +26,7 @@ During your time as onboarding buddy, you'll be working alongside the new Suppor
 | |Call to help them update the team page, GitLab Sandbox Cloud for GCP, the GDK, or anything else they may have questions about or trouble with. |
 | [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
 | | Invite them to shadow you on any customer calls. |
-| | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) these tickets. |
+| | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](/handbook/support/workflows/working-on-tickets.html) these tickets. |
 
 ## Ideas & Suggestions
 
@@ -44,19 +44,19 @@ Note that everyone's needs are different, so consider the following as a list of
 - Show them some helpful handbook pages to read during onboarding
 - Show them the GitLab [architecture diagrams](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/artifacts/arch-diagram.html)
 - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
-- Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-- Show them our [Testing Environments](https://about.gitlab.com/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
-- Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
+- Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
+- Show them our [Testing Environments](/handbook/support/workflows/test_env.html), and introduce them to GitLab Sandbox Cloud for GCP (which replaced [support-resources](https://gitlab.com/gitlab-com/support/support-resources))
+- Help them update the [GitLab team page](/handbook/company/team/) with their info (one of their Onboarding Issue checklist items)
 
 ### Pairings
 
 - Introduction to Zendesk and how we use it:
   - Walk them through Zendesk and how to use it
-  - Answer any questions they have about the [ticket workflow handbook pages](https://about.gitlab.com/handbook/support/workflows/)
+  - Answer any questions they have about the [ticket workflow handbook pages](/handbook/support/workflows/)
   - Walk through your own process for choosing and answering tickets
   - Talk about [setting salutations in signature](https://gitlab.com/gitlab-com/support/team/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&search=salutation)
   - Show them how to create a ticket pairing issue
-  - While trying to help them feel comfortable, we also want new SEs to develop the [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame) value by going out of their comfort zone. Stress that there are no stupid questions (maybe share the most recent "silly question" that you asked) and encourage them to ask questions in different public Slack channels
+  - While trying to help them feel comfortable, we also want new SEs to develop the [low level of shame](/handbook/values/#low-level-of-shame) value by going out of their comfort zone. Stress that there are no stupid questions (maybe share the most recent "silly question" that you asked) and encourage them to ask questions in different public Slack channels
   - Have them setup pairings with different subject matter experts when they feel stuck on a topic
 
 - Pair on tickets:

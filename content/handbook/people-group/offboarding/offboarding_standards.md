@@ -82,7 +82,7 @@ If a bot exists, please DM the manager to confirm if the bot should be removed.
 
 #### Team Page
 
-As per the [automation](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
+As per the [automation](/handbook/people-group/engineering/offboarding/#offboarding-merge-request) in place, a merge request is automatically created to remove the team member from the team page. This will update the following:
 
 - Removing the individual file from the data/team_members/person directory
 - Removing the picture used in the previous file
@@ -116,5 +116,5 @@ Exceptions to this policy must be approved by People Connect.
 ## References
 
 - [Information Security Parent Policy](/handbook/security/)
-- [GitLab Offboarding](https://about.gitlab.com/handbook/people-group/offboarding/)
-- [GitLab Offboarding FAQ](https://about.gitlab.com/handbook/people-group/offboarding/faq.html)
+- [GitLab Offboarding](/handbook/people-group/offboarding/)
+- [GitLab Offboarding FAQ](/handbook/people-group/offboarding/faq.html)

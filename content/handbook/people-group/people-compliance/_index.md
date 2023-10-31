@@ -61,7 +61,7 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 - [Records Retention Policy](https://about.gitlab.com/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
 - [Data Classification Policy]({{< ref "data-classification-standard" >}}) - GitLab's Security Compliance policies related to data retention and disposal.
 - [Data Protection Impact Assessment (DPIA) Policy](https://about.gitlab.com/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
-- [GitLab Audit Committee](https://about.gitlab.com/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc.
+- [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc.
 - [Total Rewards Audits]({{< ref "total-rewards-processes" >}}) - Information on some of our People Group audits.
 
 ## Performance Indicators
@@ -76,7 +76,7 @@ This PI encompasses the 100% completion of all mandated, annual HR reports to al
 
 ## Meet the People Compliance team
 
-[**Cassiana Gudgenov**](https://about.gitlab.com/company/team/#cgudgenov)
+[**Cassiana Gudgenov**](/handbook/company/team/#cgudgenov)
 
 - Title: People Compliance Specialist
 - GitLab handle: @cgudgenov

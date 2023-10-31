@@ -92,8 +92,8 @@ If a manual plan change is required for non-emergencies, a [legal issue](https:/
 
 Before actioning a downgrade request:
 
-1. Ensure that the requester provides authorization per the [Ownership verification workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification).
-1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds).
+1. Ensure that the requester provides authorization per the [Ownership verification workflow](/handbook/support/license-and-renewals/workflows/customersdot/associating_purchases.html#ownership-verification).
+1. Determine whether they want to pursue a refund. If they do, then follow the [refunds workflow](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds).
 
 | Example Ticket | Date |
 | --- | --- |

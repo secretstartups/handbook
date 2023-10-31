@@ -19,7 +19,7 @@ The TeamOps Sales and Marketing Working Group aims to manage the design and kick
 
 ### Overview
 
-[TeamOps](https://handbook.gitlab.com/handbook/teamops/direction/) needs to generate revenue, and requires a cross-functional working group to discuss, and design one more relevant plans.
+[TeamOps](/handbook/teamops/direction/) needs to generate revenue, and requires a cross-functional working group to discuss, and design one more relevant plans.
 
 Please see the [overview issue](https://gitlab.com/gitlab-com/ceo-chief-of-staff-team/workplace/teamops-fy24-q1/-/issues/3) for more information.
 
