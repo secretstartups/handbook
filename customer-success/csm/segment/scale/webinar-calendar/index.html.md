@@ -122,7 +122,7 @@ Are you new to GitLab? Join this webinar, where we will review what GitLab is, h
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_ywyXdkYrRNm2MDmcySlA5w#/registration)
 
 #### Hands-On GitLab CI Workshop 
-##### November 8th, 2023 at 10:00-11:30AM UTC / 12:00-1:30PM CET
+##### November 8th, 2023 at 10:00-11:30AM UTC / 11:00AM-12:30PM CET
 
 Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
 
@@ -138,7 +138,7 @@ Come learn about what CI/CD is and how it can benefit your team. We will cover a
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_DiwBUqBwRTSpJqRycBmcxA#/registration)
 
 #### Hands-On GitLab CI Workshop for Jenkins Users
-##### November 15th, 2023 at 10:00AM-12:00PM UTC / 12:00-2:00PM CET
+##### November 15th, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
 
 Join us for a hands-on GitLab CI workshop and learn how it can fit in your organization!
 
@@ -156,7 +156,7 @@ Expand your CI/CD knowledge while we cover advanced topics that will accelerate 
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_yisBO6vWQNO_6A45RlS7Lg#/registration)
 
 #### Hands-on Workshop: Security and Compliance in GitLab
-##### November 22nd, 2023 at 10:00AM-12:00PM UTC / 12:00-2:00PM CET
+##### November 22nd, 2023 at 10:00AM-12:00PM UTC / 11:00AM-1:00PM CET
 
 In this workshop we will focus on how you can secure your application with GitLab. 
 
@@ -174,7 +174,7 @@ GitLab enables developers and security to work together in a single tool, allowi
 [<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_FywMG2KZQoKIpdvq0D7eIw#/registration)
 
 #### AI in DevSecOps - GitLab Hands-On Workshop
-##### November 29th, 2023 at 10:00AM-11:30AM UTC / 12:00-1:30PM CET
+##### November 29th, 2023 at 10:00AM-11:30AM UTC / 11:00AM-12:30PM CET
 
 Join us for a hands-on GitLab AI workshop where we will explore Artificial Intelligence and how it fits within the DevSecOps lifecycle. In this session, we will cover foundational implementation and use case scenarios such as Code Suggestions and Vulnerability Explanations.
 
