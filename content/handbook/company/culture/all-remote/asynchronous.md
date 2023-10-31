@@ -285,9 +285,7 @@ Being intentional about removing Slack from one's phone is a great way to reinfo
 
 In a colocated setting, a worker can pick up context clues by seeing someone storm away, sigh loudly, or intentionally put on a pair of noise-cancelling headphones to prevent interruptions. In a remote setting, it's not as simple to let people know you need uninterrupted focus.
 
-Thus, it's important to leverage Slack statuses to broadcast information on your capacity to your team. Many at GitLab utilize [Clockwise]({{< ref "other-apps#clockwise" >}}), which automatically showcases a calendar icon and triggers `Do Not Disturb` within Slack while you're in a meeting, and shows when you're outside of set working hours.
-
-You should feel safe to manually adjust your status to indicate when you are at capacity or engaged in focus time. This reinforces that others can and should consider doing likewise, while also reminding others that Slack and synchronous conversation [should not be the default]({{< ref "communication#internal-communication" >}}).
+Thus, it's important to leverage Slack statuses to broadcast information on your capacity to your team. You should feel safe to manually adjust your status to indicate when you are at capacity or engaged in focus time. This reinforces that others can and should consider doing likewise, while also reminding others that Slack and synchronous conversation [should not be the default]({{< ref "communication#internal-communication" >}}).
 
 ### Remind people that async is more inclusive
 
