@@ -466,7 +466,7 @@ To easily access a report for what current job title specialties are for your te
 - When requesting a job title specialty update, please follow the following formatting:
     - Review Product/Categories and make sure the group names you use match these. If they don't, please connect with your Product Manager to confirm and work with them to update if needed.
     - Add both stage and group in the job title specialty field
-        - Example:  Add “Govern: Authentication and Authorization” instead of “Authentication and Authorization”
+        - Example:  Add “Govern: Authentication” instead of “Authentication”
         - **Important: Please ensure that you leave a space after the colon (:) between stage and group.**. For example, `Create: Source Code` is *correct* formatting, and `Create:Source Code` is *incorrect* formatting. This helps ensure that when pulling reports we have accurate counts for investment alignment.
     - Review each person and make sure it only lists one group.
         - Note: In situations where there are two groups, pick the primary group.
