@@ -64,6 +64,10 @@ team calendar.
 - [Support Maple ID](https://calendar.google.com/calendar/u/0/embed?src=c_9267f798a9ed00f9341979d21fe5a765ba474727bd1734e5e21a341880ab8cef@group.calendar.google.com)| [Support Maple AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_dafae2e5f43c29027e2f1192fcc4c6c4f653f0c3670f016ab4275c903bf2ac4e@group.calendar.google.com)| [Support Maple APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_166c8a69af9b7cc7f50d17d27c953f00675beb597f46e1317f5dbb863d85e0ba@group.calendar.google.com) | [Support Maple EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_c86311c4b592a35fe5f598fdab42facd800c646d4615e7c6af6b230e230f3469@group.calendar.google.com)
 - [Support Pine ID](https://calendar.google.com/calendar/u/0/embed?src=c_cef7cdb1565aed8160b68d5fb227a0d8458c114254bc0cf6341477ff376069f1@group.calendar.google.com)| [Support Pine AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_5fccfa58dd768e2e6bb3159596b503cab508cab65907721c9c786b1ea50622d7@group.calendar.google.com)| [Support Pine APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_7e8a93a17189fc9b38bf5e3a3cc172a6dbe1df0b353f76a3ba94d7c01e436b99@group.calendar.google.com) | [Support Pine EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_6e35e330542a169789e51bf78fd181794124a2779b8c5ea31000802bf44de431@group.calendar.google.com)
 
+##### Manager Calendar Links
+
+- [Support Managers AMER](https://calendar.google.com/calendar/embed?src=c_d786d5c8e42ba6058b3a5df60448c17e41255f84a0c00549d197f0466000527d%40group.calendar.google.com&ctz=America%2FChicago)
+
 ## Choosing and recording time off
 
 Please take time off whenever you need it.
