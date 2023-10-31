@@ -127,7 +127,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | Gitlab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
 | [Google Ads](https://ads.google.com/) | Fivetran | `google_ads` | `google_ads` | Marketing | 24h / 48h | No | Tier 2 |
 | [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/) | Fivetran | `google_analytics_360_fivetran` | `google_analytics_360` | Marketing | 6h / 32h | No | Tier 2 |
-| [Google Cloud Billing](https://cloud.google.com/support/billing) | Airflow | `gcp_billing` | `gcp_billing` | Engineering | 24h / x | No | Tier 3 |
+| [Google Cloud Billing](https://cloud.google.com/support/billing) | Airflow | `gcp_billing` | `gcp_billing` | Engineering | 24h / x | No | Tier 1 |
 | [Google Search Console](https://search.google.com/search-console/about) | Fivetran | `google_search_console` | `google_search_console` | Marketing | 24h / 48h | No | Tier 2 |
 | [Graphite API](https://graphite-api.readthedocs.io/en/latest/) | Airflow | `engineering_extracts` | x | Engineering | 24h / 48h | No | Tier 3 |
 | [Greenhouse](https://www.greenhouse.io/) | Sheetload | `greenhouse` | `greenhouse` | People | 24h / 48h | No | Tier 2 |
