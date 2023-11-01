@@ -144,6 +144,7 @@ It is critical to be intentional when organizing a self-service data environment
 1. PUMP TABLES: `pump_<subject>` = Can be built on top of dim, fact, mart, and report tables. Used for models that will be piped into a third party tool.
 1. MAP TABLES: `map_<subjects>` = Used to maintain one-to-one relationships between data that come from different sources.
 1. BRIDGE TABLES: `bdg_<subjects>` = Used to maintain many-to-many relationships between data that come from different sources. See the Kimball Group's [documentation](https://www.kimballgroup.com/2012/02/design-tip-142-building-bridges/) for tips on how to build bridge tables.
+1. SCAFFOLD TABLES: `rpt_scaffold_<subject>` = Used to support the visualization layer by creating a template / blueprint with all the combinations of common dimensions between the desired fact tables.
 1. Singular naming should be used, e.g. dim_customer, not dim_customers.
 1. Use prefixes in table and column names to group like data. Data will remain logically grouped when sorted alphabetically, e.g. dim_geo_location, dim_geo_region, dim_geo_sub_region.
 1. Use dimension table names in primary and foreign key naming. This makes it clear to the user what table will need to be joined to pull in additional attributes. For example, the primary key for dim_crm_account is dim_crm_account_id. If this field appears in fct_subscription, it will be named dim_crm_account_id to make it clear the user will need to join to dim_crm_account to get additional account details.
@@ -300,6 +301,18 @@ Below are some guidelines to follow when building marts:
 
 1. Following the naming convention for fact and dimension tables, all marts should start with the prefix `mart_`.
 1. Marts should not be built on top of other marts and should be built using FCT and DIM tables. 
+
+##### Scaffold Tables
+
+Scaffold tables provide a foundational structure between desired fact tables ensuring that all potential combinations of dimensions are represented in visualizations and analyses, even if some combinations are absent in any of the primary fact tables. This is particularly valuable in tools like Tableau which may necessitate a full dataset for relationships. Here, scaffold tables act as a template or blueprint that the corresponding fact tables can join to.
+
+Examples:
+
+When joining actual sales / opportunity data against target values, a scaffold can ensure a day-by-day / attribute-by-attribute structure. This ensures that even if there's no sales data for a given day for any combination of the joining dimensions , the target remains intact and is represented appropriately.
+
+Scaffold tables should be built on top of the desired fact tables.
+
+Scaffold (rpt_scaffold_) tables should reside in the `common_mart` schema.
 
 ## Slowly Changing Dimensions & Snapshots
 
