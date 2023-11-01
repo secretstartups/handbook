@@ -213,6 +213,29 @@ Here is a quick video tutorial how to do this:
 1. Save your settings with the Save button at the bottom.
 1. You can still selectively turn it off for a specific meeting by editing that meeting using the steps in the previous section and turning it off.
 
+### Meeting Surveys
+
+**Enable for all Meeting Surveys**
+
+Meeting Surveys is enabled for everyone at GitLab, however to get this to work, you will need to Meeting Surveys feature within your account.
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to your [account settings](https://gitlab.zoom.us/profile/setting).
+1. Search for `Meeting Survey` and toggle the feature on.
+
+**Add a survey to your meeting**
+
+1. Go to your [meetings](https://gitlab.zoom.us/meeting#/upcoming).
+1. Select one of your meetings **or** schedule a new one.
+1. If you are editing an existing meeting, click the `Survey` tab. If you are scheduling a new meeting, click `Save`, then click the `Survey` tab.
+  1. **Note:** Meeting ID must be generated automatically for this to work, surveys does not work with personal meeting IDs.
+1. Click `Create new survey`.
+1. At the end of the meeting, people will receive the survey to fill out.
+
+**Viewing Survey Results**
+
+1. Go to [Reports](https://zoom.us/account/report?isPersonal=true#/usageReports/meeting) > Meeting > change the `Registration Report` drop down to `Survey Report`.
+
 ---
 
 ## Setting up a Zoom Meeting
