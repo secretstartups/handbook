@@ -31,8 +31,9 @@ Paid time off is in addition to any [official public holidays](#holidays) that a
 
 As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [Time Off by Deel](#time-off-by-deel) as the single source of truth to accurately track and communicate all time off.**
 
-**Note:** Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](/handbook/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
-{: .note}
+{{< note >}}
+Time off by Deel should not be used if working but working asynchronously. Instead, please follow the [communicating your async work days](/handbook/company/culture/all-remote/asynchronous/#communicating-your-async-work-days) section of the asynchronous handbook.
+{{< /note >}}
 
 1. As of 2022-05-01, we’ve created a Flexible PTO policy to better outline communication expectations for team members and managers. This means that:
     - Our move to a Flexible PTO policy means that as long as you have coordinated your planned time off with your manager, you are free to take PTO. There continues to be no set limit per year on the amount of PTO a team member can take.
