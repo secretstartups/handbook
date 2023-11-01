@@ -150,6 +150,9 @@ deciding which of them to do first.
    - Incidents if you are the CMOC
    - [Account escalations](https://about.gitlab.com/handbook/customer-success/csm/escalations/) if you are a DRI or contributing member on an active escalation.
 1. Handle [STARred tickets](/handbook/support/internal-support/support-ticket-attention-requests.html) that are assigned to you or your group.
+   - Assigned tickets that are STARred will ping the assignee and on-call manager.
+   - If your ticket is STARred during your business hours, plan to engage in the STAR thread created in the #support_ticket-attention-requests Slack channel to help address any questions or concerns.
+   - If your ticket is STARred outside of your business hours, you are not expected to engage, but do plan to follow up when you're back online. The on-call manager will address any immediate needs.
 1. Make sure that all new tickets in your group's view receive a meaningful
    first response within SLA
 1. Make sure your assigned tickets are all up to date and progressing
