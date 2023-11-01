@@ -3,4 +3,4 @@
 title: Cross Functional Prioritization
 ---
 
-<%= partial "includes/_cross-functional-prioritization.erb" %>
+{{% include "includes/cross-functional-prioritization.md" %}}

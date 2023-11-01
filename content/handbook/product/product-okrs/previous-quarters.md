@@ -8,7 +8,7 @@ title: Previous Quarter OKR Timelines
 
 
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## FY23 Q3
 

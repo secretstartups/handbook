@@ -10,7 +10,7 @@ title: Product Leadership
 
 
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## General Product Organizational Structure
 

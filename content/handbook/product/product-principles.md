@@ -9,7 +9,7 @@ description: "These are core principles we believe world class product organizat
 
 
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## Our Product Principles
 

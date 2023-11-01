@@ -1,16 +1,8 @@
 ---
-
 title: GitLab the Product
 ---
 
-
-
-
-
-
-
-
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## GitLab the Product
 
@@ -77,7 +69,7 @@ For more guidance on feature tiers and pricing, visit [tiering guidance for feat
 
 <!-- any changes made to this section should be reflected in https://about.gitlab.com/support/statement-of-support/#alpha--beta-features and https://docs.gitlab.com/ee/policy/experiment-beta-support.html -->
 
-There are cases where we need to test features before we are confident that we'll be able to scale, support, and maintain the features in their current form for every designed use case. There are also scenarios where a feature is not complete enough to be considered an [MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). In these cases, we have the option to release features as Experiment, Beta, or Limited Availability, and users can opt-in and test the new experience. Features might not be fully documented or supported in the Experiment or Beta phases.  
+There are cases where we need to test features before we are confident that we'll be able to scale, support, and maintain the features in their current form for every designed use case. There are also scenarios where a feature is not complete enough to be considered an [MVC](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc). In these cases, we have the option to release features as Experiment, Beta, or Limited Availability, and users can opt-in and test the new experience. Features might not be fully documented or supported in the Experiment or Beta phases.
 
 Please note that some features may not be aligned to these recommendations if they were developed before the recommendations were in place or if the group determined an alternative implementation approach was needed.
 
@@ -86,8 +78,8 @@ It's never acceptable to make changes that:
   - destabilize other parts of the application
   - introduces friction into high MAU areas.
 
-- Experiment: This phase is used to gather feedback from a small group of users, typically internal teams or a select group of customers, on a feature or concept that is in the early stages of development. An Experiment phase can be a useful way to gather feedback on early concepts and have the flexibility to make breaking changes based on feedback. This designation also helps set customer expectations that this feature is not ready for production use. See [this page](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) for additional details.  
-- Beta: This phase allows for a larger group of users to test the feature in more realistic environments, and provides the opportunity to identify any remaining issues before the feature is fully released. This designation also helps set customer expectations that this feature is not ready for production use. It is possible to use progressive deployment strategies to manage the volume of customers who have access to the feature in this phase. See [this page](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#beta) for additional details.  
+- Experiment: This phase is used to gather feedback from a small group of users, typically internal teams or a select group of customers, on a feature or concept that is in the early stages of development. An Experiment phase can be a useful way to gather feedback on early concepts and have the flexibility to make breaking changes based on feedback. This designation also helps set customer expectations that this feature is not ready for production use. See [this page](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#experiment) for additional details.
+- Beta: This phase allows for a larger group of users to test the feature in more realistic environments, and provides the opportunity to identify any remaining issues before the feature is fully released. This designation also helps set customer expectations that this feature is not ready for production use. It is possible to use progressive deployment strategies to manage the volume of customers who have access to the feature in this phase. See [this page](https://docs.gitlab.com/ee/policy/experiment-beta-support.html#beta) for additional details.
 - Limited Availability: This phase can be used when a feature is production-ready for a select group of customers, but not for the general user base as is the case in General Availability. This is used specifically for GitLab Dedicated, and should not be used for standard user facing features.
 
 Please refer to [Support for Experiment, Beta, and Generally Available Features](https://docs.gitlab.com/ee/policy/experiment-beta-support.html) for a detailed list of the characteristics of Experiment, Beta, and GA features, including when feature flags should be used.
@@ -113,7 +105,7 @@ For the exit criteria of **AI features**, in addition to the above, see the [UX 
 A breaking change is defined as a non-backward compatible change that:
 
 - causes other areas of the GitLab product to fail, or
-- alters product behavior such that dependent workflows can no longer be completed and no workaround can be provided. 
+- alters product behavior such that dependent workflows can no longer be completed and no workaround can be provided.
 
 A breaking change may occur when you intentionally plan to change or remove functionality. Breaking changes can sometimes result from the addition of new features. It is the responsibility of the PM and EM for a category to carefully consider the risk and impact of introducing a breaking change as they can cause severe disruption to users.
 
@@ -149,8 +141,8 @@ Deprecating and removing a feature needs to follow a specific process because it
 **Note** - some deprecations or removals do not result in a breaking change. So in your notice, you need to be explicit about the following:
 
 - Does the deprecation or removal result in a breaking change?
-- If the deprecation or removal results in a breaking change, then what does it break? 
-- If the deprecation or removal results in a breaking change, what is the user's remediation? 
+- If the deprecation or removal results in a breaking change, then what does it break?
+- If the deprecation or removal results in a breaking change, what is the user's remediation?
 
 #### Definitions
 
@@ -162,14 +154,14 @@ See the [terminology of deprecations](https://docs.gitlab.com/ee/update/terminol
 
 _For example, if the intended removal milestone is `16.0`, given the following release schedule: `15.9, 15.10, 15.11, 16.0`, then `15.9` is the third milestone preceding intended removal._
 
-1. Make sure the deprecation has an issue leveraging the [deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md). 
+1. Make sure the deprecation has an issue leveraging the [deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md).
     - Leveraging this template to create a deprecation issue is required because it serves as the SSOT/communication cross-functionally and across other stable counterparts, such as CSMs and Marketing, who need awareness of upcoming removals.
-1. Identify if deprecating the feature creates a [breaking change](#breaking-change). If so, you will need to wait until a XX.0 major release for removal. (Consider providing a notice as much in advance as you can - especially for features that have large impact.) 
+1. Identify if deprecating the feature creates a [breaking change](#breaking-change). If so, you will need to wait until a XX.0 major release for removal. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
 
-**If you believe you need to push a breaking change outside a major release, tag your manager into the deprecation issue for approval. Upon manager approval, tag in [Delivery group](https://about.gitlab.com/handbook/product/categories/features/#saas-platformsdelivery-group) PM `@swiskow` into the deprecation issue for advisement/collaboration on whether any additional communication to users is required. Communicating to SaaS users on breaking changes is critical, it is recommended you set up a [broadcast message](https://about.gitlab.com/handbook/product/product-processes/#gitlabcom-in-app-messages-broadcast-messaging) one milestone ahead of the milestone in which the breaking change will happen.**  
+**If you believe you need to push a breaking change outside a major release, tag your manager into the deprecation issue for approval. Upon manager approval, tag in [Delivery group](https://about.gitlab.com/handbook/product/categories/features/#saas-platformsdelivery-group) PM `@swiskow` into the deprecation issue for advisement/collaboration on whether any additional communication to users is required. Communicating to SaaS users on breaking changes is critical, it is recommended you set up a [broadcast message](https://about.gitlab.com/handbook/product/product-processes/#gitlabcom-in-app-messages-broadcast-messaging) one milestone ahead of the milestone in which the breaking change will happen.**
 
 1. Review the overall [workflow for announcing deprecations and removals](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) and follow guidance to [announce the deprecation in GitLab Docs and the release post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-and-other-planned-breaking-change-announcements).
-1. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings). 
+1. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings).
 1. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support/) as necessary
 1. Label the feature accordingly in documentation and the application
 1. Remove the feature from marketing pages
@@ -185,7 +177,7 @@ The release post automatically shows all removals that occur during a milestone.
 - The deprecation notice and the linked issue must have clear language describing the change and the impact to users.
 - It is the responsibility of the PM and EM for a category to carefully review the language in the linked issue for clarity.
 - Regardless of whether the Product Manager or Engineering Manager creates the initial deprecation epic/issue, they must @mention the following stable counterparts for their category on each deprecation epic/issue to keep them informed: Support, Customer Success, and Product Marketing.
-     - To make this easy and consistent across teams, using the [deprecations issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md) is required. 
+     - To make this easy and consistent across teams, using the [deprecations issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md) is required.
 
 #### Video on deprecations and removals process
 
@@ -196,7 +188,7 @@ The announcements are grouped by the milestone they'll be removed. The deprecati
 
 #### Syntax deprecation process
 
-<%= partial("handbook/engineering/development/ops/verify/pipeline-authoring/Syntax-deprection.erb") %>
+{{% include "includes/syntax-deprection.md" %}}
 
 ### Naming features
 
@@ -235,11 +227,11 @@ When renaming a feature other items to consider are updates to documentation, bl
 
 ### Using What's New to communicate updates to users
 
-What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them. 
+What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
 
-A small notification dot appears above the "?" icon, and when users click on "What's new" in the menu, a drawer containing the updates slides into view. 
+A small notification dot appears above the "?" icon, and when users click on "What's new" in the menu, a drawer containing the updates slides into view.
 
-The goal of What's New is to make it easy for users to be aware of the most important changes in GitLab so we can help them stay up-to-date on all of our changes and feature updates. 
+The goal of What's New is to make it easy for users to be aware of the most important changes in GitLab so we can help them stay up-to-date on all of our changes and feature updates.
 
 ### Permissions in GitLab
 
