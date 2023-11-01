@@ -56,7 +56,7 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 ### Updating Zoom
 
-Preferred minimum version for Zoom:
+Preferred minimum version for Zoom: 5.13.5
 
 1. Open the Zoom app on your computer.
 1. In the menu bar, click on `zoom.us` (top left corner of your screen).
