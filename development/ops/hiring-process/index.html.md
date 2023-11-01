@@ -37,6 +37,7 @@ The process for Ops is a mix of the current [hiring manager (HM) tasks](/handboo
 1. Add the new vacancy to the handbook https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/vacancy
 
 ### Step 3. Setup job in Greenhouse
+
 1. Work with TA to [open the vacancy in Greenhouse](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse-dri-recruiter)
 1. [Setup scoreboard](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-3hm-setup-scorecard-and-prepare-interview-team)
 1. Publish job ad **internally**. External job ads will be posted from the corresponding Evergreen requisition.
@@ -75,23 +76,23 @@ In addition to reviewing candidates in the Evergreen req, you may also wish to d
 1. Search for candidates
     1. If you are getting support from a sourcer, follow the steps to [review inbound applications](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-4hm-optional-source-candidates-andor-review-inbound-applications)
 1. Reach Out. Consider using the templates listed in the resources. Make sure to ask for contact details of the prospect, you will need this in the next step.
-1. [Add prospects to your team-specific requisition in Greenhouse](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects). In the prospect's profile, click in the three dots, and click on export to ATS. 
+1. [Add prospects to your team-specific requisition in Greenhouse](/handbook/hiring/talent-acquisition-framework/req-overview/#step-4-indentify--engage-top-talent-prospects). In the prospect's `profile`, click in the three dots, and click on `export to ATS`. 
 1. After importing to Greenhouse, edit the profile (under Details tab, there is an edit button) to include the email and any other contact information. This is important because Greenhouse automatically sends an email to the candidate when is moved from prospect to candidate to fill a form which includes the CV to be uploaded there.
 
 **Resources**:
-- Mark Deubel's podcast: [Foundtaions - Sourcing Outreach](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [Guest Show - Sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
+- Mark Deubel's podcast: [Foundations - Sourcing Outreach](https://doobles.podbean.com/e/building-the-foundation-sourcing-outreach-pt1-episode-3/) and [Guest Show - Sourcing outreach](https://doobles.podbean.com/e/guest-show-sourcing-outreach-with-dov-and-mark/)
 - [Talent Acquisition Reach out templates](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing) (private)
 - [Ops reach out templates](https://gitlab.com/gitlab-com/ops-sub-department/ops-hiring-process/-/blob/main/outreach-messages.md) (private)
-- [Sourcing](https://about.gitlab.com/handbook/hiring/sourcing/)
+- [Sourcing](/handbook/hiring/sourcing/)
 - [LinkedIn training](https://docs.google.com/presentation/d/1W9PvVp2uGFsWHFTQrAd5ZjgzfAMmS_dQI6R7Lg7XDJc/edit#slide=id.g7ba34d75e8_0_16) (private)
 - [LinkedIn boolean search](https://docs.google.com/spreadsheets/d/1wRGwx_GT14udxnoMOF-gP2XQaRhJA_8bEVwWwIdBio4/edit#gid=666961789) (private)
 - [Diversity Boolean strings](https://docs.google.com/spreadsheets/d/1Hs3UVEpgYOJgvV8Nlyb0Cl5P6_8IlAlxeLQeXz64d8Y/edit#gid=0) (private)
 - [Single Search Permutator](https://docs.google.com/spreadsheets/d/1TmO1z077y8KvN-V69xkdwX1YmekQiSW-SroDpRTVzj0/edit#gid=1892333325) (private)
-- [Video training for diversity sourcing](https://drive.google.com/file/d/1UJdzcaiaud42OhMSetTa8P_wqoWofBMU/view?usp=sharing) (private)
+- [Video training for Diversity Sourcing](https://drive.google.com/file/d/1UJdzcaiaud42OhMSetTa8P_wqoWofBMU/view?usp=sharing) (private)
 
 ### Step 6. Screening
 
-To speed up scheduling screening calls, integrate Calendly with Greenhouse following [these instructions](https://support.greenhouse.io/hc/en-us/articles/360029359472-Enable-Calendly-integration). To then use this integration, move the candidate to the 'Screening' stage and select "Schedule with Calendly". There will be a template that will automatically populate and you select your Calendly event in the drop down.
+To speed up scheduling screening calls, integrate Calendly with Greenhouse following [these instructions](https://support.greenhouse.io/hc/en-us/articles/360029649991-Calendly-integration). To then use this integration, move the candidate to the 'Screening' stage and select "Schedule with Calendly". There will be a template that will automatically populate and you select your Calendly event in the drop down.
 
 1. Schedule screening calls (3-6 per week) 
 1. Tag TA on the candidates Greenhouse profile so they can support with screening calls. and work with TA in case they have capacity to do the screening
@@ -113,7 +114,6 @@ You have two options to [Schedule interviews](/handbook/hiring/talent-acquisitio
     4. In the template, add _- 'Technical Interview - Ruby or Go, Ruby or Go interviewers, 90 minutes'_ under details
     5. x the _Confirmed_ box to confirm you've requested their availability
     6. Send the template and tag TA on the candidates profile to introduce themselves to the candidate
-
 
 ### Step 9. Perform interviews
 
@@ -162,4 +162,3 @@ If you're unable to submit it within that timeframe, please reach out to the Hir
       - Yes, [First Name] met a majority of the nice-to-have requirements.<br/>
 <br/>
 </details>
-
