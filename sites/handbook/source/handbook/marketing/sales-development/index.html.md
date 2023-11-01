@@ -1599,7 +1599,14 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
 
 ### New Outreach Sequence/Workflow creation.
 
-In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Clone_Request`. The issue description will walk you through all the next steps.
+In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Creation_Request`. The issue description will walk you through all the next steps.
+
+This process aims to:
+
+- Implement [Measurement Clarity](https://handbook.gitlab.com/teamops/measurement-clarity/) and [Decision Velocity](https://handbook.gitlab.com/teamops/decision-velocity/) - by dogfooding GitLab we have a structured and simplified [cadence](https://handbook.gitlab.com/teamops/measurement-clarity/#cadence) of quantifying sequence creation in terms of value and results without [limiting agency.](https://handbook.gitlab.com/teamops/decision-velocity/#give-agency)
+
+-  Maintain [Equal Contributions](https://handbook.gitlab.com/teamops/equal-contributions/) in a [Shared Reality](https://handbook.gitlab.com/teamops/shared-reality/) - by maintaing a Single Source of Truth (SSoT) we give the best possible forum for [cross-functional collaboration](https://handbook.gitlab.com/teamops/equal-contributions/#cross-functional-collaboration) with [specific guidelines](https://handbook.gitlab.com/teamops/shared-reality/#collaboration-guidelines)
+
 
 ## Making Changes to the GitLab Handbook (for BDRs and SDRs)
 
