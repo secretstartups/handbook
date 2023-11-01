@@ -214,5 +214,5 @@ This scorecard feature will increase sharing of candidates that, for example, ma
 ### Frequently Asked Questions (FAQ)
 
 - My Zoom link isn't working, who can help?
-  - This is a common occurrence due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occurring in the future.
-  - The Candidate Experience Specialist team can be reached on slack in an emergency by tagging @ces in your message.
+  - This is a common occurrence due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The `#IT-help`` Slack channel will be able to guide you on the correct configuration to prevent this issue occurring in the future.
+  - The Candidate Experience Specialist team can be reached on slack in an emergency by tagging `@ces`` in your message.
