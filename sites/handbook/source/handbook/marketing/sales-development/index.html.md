@@ -1580,32 +1580,27 @@ To log a PTO Territory Planning request, please go to the Issue list on the SDR 
 
 ## Issue Boards & Team Labels
 
-[Sales Development Org Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/707128): used to track relevant GitLab issues involving the Sales Development Org. This is a global issue board and will capture all issues in any group/sub-group in the GitLab.com repo when any of the following *scoped* labels are used.
+[Sales Development Org Issue Board](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5569691): used to track relevant GitLab issues involving the Sales Development Org. This is a global issue board and will capture all issues in any group/sub-group in the GitLab.com repo when any of the following *scoped* labels are used.
 
-[Sales Development Org Event Tracker](https://gitlab.com/groups/gitlab-com/-/boards/1718115): used to track upcoming events globally.
-
-- `SDR` - issues concerning the Sales Development Organization. This label will typically be removed and changed to one of the below labels once accepted by our team.
-- `SDR::Priority` - projects that we would like brought into RevOps meeting for feedback/next steps from other teams
-- `SDR::Planning` - Discussion about next steps is in progress for issues concerning the Sales Development Organization
-- `SDR::In Progress` - BDR/SDR action item is presently being worked on
-- `SDR::On Hold` - Project is put on hold after agreement from BDR/SDR leadership team
-- `SDR::Watching` - No direct SDR/BDR action item at this time, but BDR/SDR awareness is needed for potential support/questions
-- `SDR::Enablement Series` - Label to track and monitor upcoming topics for the Sales Development Org enablement series. All of these issues roll up to this epic.
-- `SDR::AMER Event Awareness` - Americas Sales Dev Org awareness is needed for potential support/questions in regard to events
-- `SDR::APAC Event Awareness` - APAC Sales Dev Org awareness is needed for potential support/questions in regard to events
-- `SDR::EMEA Event Awareness` - EMEA Sales Dev Org awareness is needed for potential support/questions in regard to events
-- `SDR Pub Sec` - PubSec Sales Dev Org awareness is needed for potential support/questions in regard to events
-- `SDR West Staff Request` - Utilized when a West BDR needs to be assigned to an issue
+[Sales Development Org Event Tracker](https://gitlab.com/gitlab-com/marketing/sales-development/-/boards/5665082): used to track upcoming events globally.
 
 ### New Outreach Sequence/Workflow creation.
 
-In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Creation_Request`. The issue description will walk you through all the next steps.
+In an effort to better iterate, and refresh, our outreach content and workflows, we have a structured process for BDRs to create/measure new Outreach sequences. 
+
+Please log [an issue here](https://gitlab.com/gitlab-com/marketing/sales-development/-/issues/new) by selecting the template `BDR_Sequence_Creation_Request`. 
+
+The issue description will walk you through all the next steps.
 
 This process aims to:
 
-- Implement [Measurement Clarity](https://handbook.gitlab.com/teamops/measurement-clarity/) and [Decision Velocity](https://handbook.gitlab.com/teamops/decision-velocity/) - by dogfooding GitLab we have a structured and simplified [cadence](https://handbook.gitlab.com/teamops/measurement-clarity/#cadence) of quantifying sequence creation in terms of value and results without [limiting agency.](https://handbook.gitlab.com/teamops/decision-velocity/#give-agency)
+#### Implement [Measurement Clarity](https://handbook.gitlab.com/teamops/measurement-clarity/) and [Decision Velocity](https://handbook.gitlab.com/teamops/decision-velocity/) 
 
--  Maintain [Equal Contributions](https://handbook.gitlab.com/teamops/equal-contributions/) in a [Shared Reality](https://handbook.gitlab.com/teamops/shared-reality/) - by maintaing a Single Source of Truth (SSoT) we give the best possible forum for [cross-functional collaboration](https://handbook.gitlab.com/teamops/equal-contributions/#cross-functional-collaboration) with [specific guidelines](https://handbook.gitlab.com/teamops/shared-reality/#collaboration-guidelines)
+By dogfooding GitLab we have a structured and simplified [cadence](https://handbook.gitlab.com/teamops/measurement-clarity/#cadence) of quantifying sequence creation in terms of value and results without [limiting agency.](https://handbook.gitlab.com/teamops/decision-velocity/#give-agency)
+
+#### Maintain [Equal Contributions](https://handbook.gitlab.com/teamops/equal-contributions/) in a [Shared Reality](https://handbook.gitlab.com/teamops/shared-reality/) 
+
+By maintaing a Single Source of Truth (SSoT) we give the best possible forum for [cross-functional collaboration](https://handbook.gitlab.com/teamops/equal-contributions/#cross-functional-collaboration) with [specific guidelines](https://handbook.gitlab.com/teamops/shared-reality/#collaboration-guidelines)
 
 
 ## Making Changes to the GitLab Handbook (for BDRs and SDRs)
