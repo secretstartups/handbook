@@ -1,24 +1,16 @@
 ---
-
 title: Product Manager Responsibilities
 description: >-
   This page highlights the focus of a product managers job, responsibilities and
   required tasks at GitLab.
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 It has never been more [popular](https://medium.com/agileinsider/incredible-growth-in-demand-for-product-managers-in-the-us-but-not-necessarily-in-the-places-youd-936fec5c1932) to be a product manager,
 but the responsibilities of a product manager can vary greatly between organizations and even within an organization.
 
-<%= partial 'includes/pm_responsibilities' %>
-<!-- update in /source/includes/_pm_responsibilities.erb -->
+{{% include "includes/pm_responsibilities.md" %}}
 
 ## Core PM Tasks
 

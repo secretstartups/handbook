@@ -352,7 +352,6 @@ find . -type f -name "*.md" -exec sed -i '' "s~## On this page~~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~- TOC~~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~{:toc .hidden-md .hidden-lg}~~g" {} +
-find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
 
 find . -type f -name "*.erb" -exec sed -i '' "s~layout: handbook-page-toc~~g" {} +
 find . -type f -name "*.erb" -exec sed -i '' "s~layout: markdown_page~~g" {} +

@@ -10,7 +10,7 @@ title: Product sections, stages, groups, and categories
 
 
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## Interfaces
 

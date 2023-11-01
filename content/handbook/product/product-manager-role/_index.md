@@ -13,7 +13,7 @@ description: "On this page, you'll find an overview as well as links to helpful 
 
 On this page, you'll find an overview as well as links to helpful resources for working as a product manager at GitLab. To better understand how we evaluate a product manager's work at GitLab, please visit [Product Management CDF and Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## Product Organizational Structure
 

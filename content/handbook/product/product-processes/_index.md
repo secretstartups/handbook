@@ -1,18 +1,11 @@
 ---
-
 title: Product Processes
 description: >-
   As a Product Organization, we work to create a flexible yet concise product
   development framework for developing products that customers love and value.
 ---
 
-
-
-
-
-
-
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## Our Product philosophy
 
@@ -30,27 +23,27 @@ The product direction is an important part of each PMs work. PMs are expected to
 
 The direction page provides a thematic overview of the focus investment areas for the category. The "What's Next" section should cover the larger, strategic investment themes, while linking to Epics and Issues in GitLab for additional details.  The Roadmap section should outline both (1) current development focus areas and (2) exploratory/design work to inform future work. For each time block (Now/Next/Future) on your direction page, consider adding "how we are measuring success" so the reader can see progress and what the definition of success means.
 
-The structure of a roadmap on a direction page might looks something like this: 
+The structure of a roadmap on a direction page might looks something like this:
 1. Now
   - Prioritized development work
-  - Exploratory work 
-  - How we are measuring success 
+  - Exploratory work
+  - How we are measuring success
 1. Next
   - Prioritized development work
-  - Exploratory work 
-  - How we are measuring success 
+  - Exploratory work
+  - How we are measuring success
 1. Future
   - Prioritized development work
-  - Exploratory work 
-  - How we are measuring success 
+  - Exploratory work
+  - How we are measuring success
 
 If the category has developed a [UX Roadmap](/handbook/product/ux/product-design/ux-roadmaps/) we recommend the product designer to create a merge request to incorporate UX Roadmap themes into the category direction page roadmap. Assign the MR to the PM for review and merge.
 
-#### Navigating cross-stage or cross-section direction pages 
+#### Navigating cross-stage or cross-section direction pages
 
-In some cases there may be direction pages that span multiple stages or sections. A direction page that summarizes the collective vision as well as all the contributors of that direction is critical to maintain transparency and adequate assignment of ownership. 
+In some cases there may be direction pages that span multiple stages or sections. A direction page that summarizes the collective vision as well as all the contributors of that direction is critical to maintain transparency and adequate assignment of ownership.
 
-There are several examples of these types of direction pages today: 
+There are several examples of these types of direction pages today:
 
 1. [Monorepo Product Direction](/direction/monorepos/)
 1. [Versioned Dependencies Direction](/direction/versioned-dependencies/)
@@ -58,20 +51,20 @@ There are several examples of these types of direction pages today:
 1. [Deployment Direction](/direction/delivery/)
 1. [Customizable Dashboards Direction](/direction/customizable-dashboards/)
 
-The steps for creating and managing a cross-section or stage direction are: 
+The steps for creating and managing a cross-section or stage direction are:
 
 1. Create a direction page merge request adding the direction page to the [GitLab direction directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/direction)
-1. Select the category change template in the merge request 
-1. Follow the process for [category changes](/handbook/product/categories/#changes) 
+1. Select the category change template in the merge request
+1. Follow the process for [category changes](/handbook/product/categories/#changes)
 1. Add [CODEOWNERS](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) by adding an entry with the direction page link and the page DRI GitLab Handle.
-1. Once approved, `@` all relevant product managers on the addition 
+1. Once approved, `@` all relevant product managers on the addition
 
 Once the direction page has been added, there needs to be an assigned DRI for maintaining monthly updates for the page. The process for keeping the page updated are:
 
 1. Create a slack channel for the direction (e.g. _#make_monorepos_lovable_)
-1. Add all interested and contributing members to the channel 
-1. Each month open an MR to the direction page and update issue queries contributing to the vision 
-1. Assign the contributing PMs to the MR for review and contribution 
+1. Add all interested and contributing members to the channel
+1. Each month open an MR to the direction page and update issue queries contributing to the vision
+1. Assign the contributing PMs to the MR for review and contribution
 1. Once all parties have contributed, merge the MR
 1. Share changes to the direction page in relevant slack channels. If material changes are made, consider recording a 5-minute overview of the direction page and share the MR as well as overview in #product, the relevant direction channel, or other slack channels as needed
 
@@ -99,7 +92,7 @@ You can mix Direction epics and issues or just use one or the other. Epics will 
 
 ### Top ARR Drivers
 
-Top ARR Drivers list is one of our [Sensing Mechanisms](/handbook/product/product-processes/#sensing-mechanisms) at GitLab that Product Managers review as part of prioritizing their roadmaps. 
+Top ARR Drivers list is one of our [Sensing Mechanisms](/handbook/product/product-processes/#sensing-mechanisms) at GitLab that Product Managers review as part of prioritizing their roadmaps.
 
 The Product function at GitLab maintains an ordered list of product improvements that would drive ARR in collaboration with Sales Leadership. The order and methodology for ordering this input is discussed in a monthly meeting and maintained in the `Top ARR Drivers for Sales/CS` GoogleSheet which you can find in our internal GoogleDrive.
 
@@ -624,11 +617,11 @@ See the [Cross-Functional Prioritization page](/handbook/product/cross-functiona
 
 #### Prioritization Framework
 
-<%= partial "includes/master-prioritization-list.md" %>
+{{% include "includes/master-prioritization-list.md" %}}
 
-<%= partial "includes/engineering-allocations.md" %>
+{{% include "includes/engineering-allocations.md" %}}
 
-<%= partial "includes/feature-change-locks.md" %>
+{{% include "includes/feature-change-locks.md" %}}
 
 Please also note the corresponding [Engineering handbook section](/handbook/engineering/development/principles/#prioritizing-technical-decisions) about the relative importance and prioritization of availability, security, and feature velocity. To ensure we're providing an appropriate focus on security, data loss, and availability, PMs should consider:
 
@@ -761,7 +754,7 @@ For prioritizing most issues, we should utilize the RICE framework noted [above]
 [Customer Requested Issues (Product)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) for product managers
 [Customer Requested Issues (CSM)](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---CSM-Customer-View) for  Sales, CS and CSM
 
-These dashboards provide several inputs for calculating RICE and aggregate all customer requested issues and epics into a single dashboard. These dashboards are not meant as a replacement or sole input for [Top ARR Drivers for Sales/CS](https://docs.google.com/document/d/1TxcJqOPWo4pP1S48OSMBnb4rysky8dRrRWJFflQkmlM/edit#heading=h.t3hg8c37s87g). Further requirements such as the [integration of themes ](https://gitlab.com/gitlab-com/Product/-/issues/3907) need to be implemented before this framework can be used to fully inform or replace tools such as the [Top ARR tracker](https://docs.google.com/spreadsheets/d/1JdtaZYO90pR4_NQgSZRu9qdGuMrFj_H6qkBs5tFMeRc/edit#gid=0).  
+These dashboards provide several inputs for calculating RICE and aggregate all customer requested issues and epics into a single dashboard. These dashboards are not meant as a replacement or sole input for [Top ARR Drivers for Sales/CS](https://docs.google.com/document/d/1TxcJqOPWo4pP1S48OSMBnb4rysky8dRrRWJFflQkmlM/edit#heading=h.t3hg8c37s87g). Further requirements such as the [integration of themes ](https://gitlab.com/gitlab-com/Product/-/issues/3907) need to be implemented before this framework can be used to fully inform or replace tools such as the [Top ARR tracker](https://docs.google.com/spreadsheets/d/1JdtaZYO90pR4_NQgSZRu9qdGuMrFj_H6qkBs5tFMeRc/edit#gid=0).
 
 In some cases however, we may become aware of a feature which is particularly important to deliver on by a certain date. Examples of this could include an issue necessary to embark on a new GitLab rollout, a feature needed by a partner to launch an integration, or a method to import data from a service which is being discontinued. In these instances, the responsible PM can apply the `customer` or `customer+` label along with a `due date` and initial `milestone`. This set of labels can serve to indicate externally that the issue is particularly important, as well as a reminder for internal teams of its importance.
 
@@ -896,11 +889,11 @@ Execution of a Global prioritization can take many forms.  This is worked with b
 
 * [Rapid action](#rapid-action) - use when reassignment isn't necessary, the epic can have several issues assigned to multiple teams
 * [Borrow](#borrow) - use when a temporary assignment (less than 6 months) to a team is required to help resolve an issue/epic
-* [Scope Reassignment](#scope-reassignment) - use when scope that will take longer than 6 months to deliver is a high priority and the team member reporting structure does not need to change to accomplish the effort. 
+* [Scope Reassignment](#scope-reassignment) - use when scope that will take longer than 6 months to deliver is a high priority and the team member reporting structure does not need to change to accomplish the effort.
 * [Realignment](/handbook/people-group/promotions-transfers/#realignment-of-team-members-impacting-multiple-teams) - use when a permanent assignment to a team is required to resolve ongoing challenges. This has the highest impact to team members and should be considered if other options cannot achieve the desired goal. We strive to hire team members in the groups that will need them most.
 
 We have found the following methods less successful in ensuring completion of work that warrants global prioritization:
-- [Working Groups](/company/team/structure/working-groups/) - This method involves convening a group of individuals who maintain full-time responsibility to other [Product Groups](/company/team/structure/#product-groups) and completing work as part of the working group structure. This method isn't prefered for completing product improvements, instead it can be utilized to scope work, or determine plans for future product delivery. 
+- [Working Groups](/company/team/structure/working-groups/) - This method involves convening a group of individuals who maintain full-time responsibility to other [Product Groups](/company/team/structure/#product-groups) and completing work as part of the working group structure. This method isn't prefered for completing product improvements, instead it can be utilized to scope work, or determine plans for future product delivery.
 - Fan Out Prioritization - This method of prioritization involves communicating a global prioritization to a number of [Product Groups](/company/team/structure/#product-groups) in an effort to ensure each individual product group's PM prioritizes the work in the timeframe you'd prefer.  This method requires significant coordination costs and puts delivery at risk due to the lack of central prioritization responsibility. In most cases it is preferred to execute a scope reassignment, borrow or realignment to complete the improvements.
 
 ### Rapid Action
@@ -960,19 +953,19 @@ The DRI should post a summary status update on the epic at least daily. The foll
 ```
 **YYYY-MM-DD Update**
  
-**Progress since last update:** 
+**Progress since last update:**
  
 This section describes what changes have been deployed to production and any other notable progress or accomplishments.
  
-**Progress expected by next update:** 
+**Progress expected by next update:**
  
 This section describes what you expect to accomplish prior to the next update.  For example what work is currently in progress (include links to MRs), when do you expect these to be deployed, what do you expect to be the effect(s)?
  
-**Blockers:** 
+**Blockers:**
  
 This section describes any specific obstacles preventing progress. What is needed to overcome them?  Are there team members (e.g. executives, domain experts) these concerns should be escalated to?
  
-**Praise:** 
+**Praise:**
  
 This section is used to highlight specific praise for team members contributing to the Rapid Action.  It is important to [say thanks](/handbook/values/#say-thanks).
 ```
@@ -989,7 +982,7 @@ Once the resolution criteria have been satisfied:
 
 ### Borrow
 
-Borrow is used when team members are shifted from one team to another temporarily. Team members complete assignment when the work is done. Borrows are meant to align management structures into a single group for coordination and logistics of the effort. It is important to define the work upfront so that it is bounded. We prefer borrows to be for a milestone, but generally can extend to multiple milestones. Any borrow more than 3 months should be reviewed carefully for scope and minimized to the extent possible. Where the ask likely extends beyond 6 months, a realignment should be considered. 
+Borrow is used when team members are shifted from one team to another temporarily. Team members complete assignment when the work is done. Borrows are meant to align management structures into a single group for coordination and logistics of the effort. It is important to define the work upfront so that it is bounded. We prefer borrows to be for a milestone, but generally can extend to multiple milestones. Any borrow more than 3 months should be reviewed carefully for scope and minimized to the extent possible. Where the ask likely extends beyond 6 months, a realignment should be considered.
 
 It is recommended that EMs, PMs, and Product Design Managers utilize [the issue template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Borrow-Request.md) for Borrow requests. Following this template helps ensure the process is efficient, well-organized, and receives the proper approvals. Identification of the group/individals that will be borrowed should be done in a private google doc or limited access project. Once a borrow request is approved, details about the impacted groups/team should be added to the issue to communicate the change more broadly.
 
@@ -1013,22 +1006,22 @@ We've learned that there are some circumstances where borrow requests aren't app
 
 We have learned that there is a way to frame a borrow that leads to a more constructive conversation:
 
-- Borrow requests should be scoped to least [prioritized work](/handbook/product/product-processes/#prioritization) for a given group.   This is counter-intuitive, but the argument should be for the weakest work so when it's compared against other team initiatives it's fairly evaluated for the tradeoff.  The reasoning here is that if team members within the team could be moved to higher priority work that's the first place to borrow from.  
-- Borrow requests should not be initiated to deliver an OKR, but OKRs can be referenced in communicating the business need to propose a borrow request.  The borrow request should be framed in terms of prioritized work.   An OKR goal that is for fixing security issues would be categorized a priority 1 based on our current work.   
+- Borrow requests should be scoped to least [prioritized work](/handbook/product/product-processes/#prioritization) for a given group.   This is counter-intuitive, but the argument should be for the weakest work so when it's compared against other team initiatives it's fairly evaluated for the tradeoff.  The reasoning here is that if team members within the team could be moved to higher priority work that's the first place to borrow from.
+- Borrow requests should not be initiated to deliver an OKR, but OKRs can be referenced in communicating the business need to propose a borrow request.  The borrow request should be framed in terms of prioritized work.   An OKR goal that is for fixing security issues would be categorized a priority 1 based on our current work.
 
 #### Active borrow requests
 
-This [board](https://gitlab.com/gitlab-com/Product/-/boards/5874292) contains all proposed and active borrow requests. 
+This [board](https://gitlab.com/gitlab-com/Product/-/boards/5874292) contains all proposed and active borrow requests.
 
-### Scope reassignment 
+### Scope reassignment
 
-A scope reassignment is used when the features or effort of work will take longer than 6 months and less than a year, but it is not necessary to realign teams permanently in order to deliver the work. Rather, the team reporting structures are maintained and the product groups are directed to work on the product scope of another group, stage, or section. 
+A scope reassignment is used when the features or effort of work will take longer than 6 months and less than a year, but it is not necessary to realign teams permanently in order to deliver the work. Rather, the team reporting structures are maintained and the product groups are directed to work on the product scope of another group, stage, or section.
 
-It is recommended that with a scope reassignment, the product groups align on what portions of scope will be delivered by each group. This is done with epics and issues, as well `group::` labels. 
+It is recommended that with a scope reassignment, the product groups align on what portions of scope will be delivered by each group. This is done with epics and issues, as well `group::` labels.
 
 #### How are scope reassignments, borrows, and realignments different?
 
-A scope reassignment is different from a borrow and realignment because team structure is not changing, instead the items the product groups are working on change. Additionally, borrows are to be used temporarily (less than six months) and realignments are permanent. In the case of a scope reassignment, a product group would maintain its long term charter and vision/investment level, although for up to one year will work on another product area's scope. The reason for a scope reassignment is to reduce the toil of changing managers and team structures while still activating on strategic efforts requiring more headcount. 
+A scope reassignment is different from a borrow and realignment because team structure is not changing, instead the items the product groups are working on change. Additionally, borrows are to be used temporarily (less than six months) and realignments are permanent. In the case of a scope reassignment, a product group would maintain its long term charter and vision/investment level, although for up to one year will work on another product area's scope. The reason for a scope reassignment is to reduce the toil of changing managers and team structures while still activating on strategic efforts requiring more headcount.
 
 ### Managing creation of new groups, stages, and categories
 
@@ -1258,7 +1251,7 @@ For each milestone, the planning quads come together to scope and plan work for 
 - [Create::Editor](https://gitlab.com/gitlab-org/create-stage/-/blob/master/.gitlab/issue_templates/editor-planning.md)
 - [Data Stores::Database](https://gitlab.com/gitlab-org/database-team/team-tasks/-/blob/master/.gitlab/issue_templates/Planning.md)
 
-As you adapt your own issue, it is recommended you apply the label `planning issue` to aid in tracking and to incorporate our [Product Principles](/handbook/product/product-principles/) into the process. 
+As you adapt your own issue, it is recommended you apply the label `planning issue` to aid in tracking and to incorporate our [Product Principles](/handbook/product/product-principles/) into the process.
 
 #### Sensing Mechanisms
 
@@ -1294,7 +1287,7 @@ We recently [conducted a GTM and R&D sensing mechanism survey](https://gitlab.co
 1. Asking probing questions in sales support meetings
 1. Reviewing [Top ARR Drivers](#top-arr-drivers)
 1. Reviewing Customer Success designated top issues
-1. Reviewing the most requested issues from customers using the [Customer Requested Issues (Product) dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) and the [Customer Issues Prioritization Framework handbook page](/handbook/product/product-processes/customer-issues-prioritization-framework/) for guidance. 
+1. Reviewing the most requested issues from customers using the [Customer Requested Issues (Product) dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) and the [Customer Issues Prioritization Framework handbook page](/handbook/product/product-processes/customer-issues-prioritization-framework/) for guidance.
 1. Tracking open source projects in the same space as part of your competitive analysis is important as well. You can [evaluate these open source options](#evaluating-open-source-software) not just for interesting features and ideas, but potentially to integrate them in our product
 1. [Chorus transcriptions](/handbook/business-technology/tech-stack/#chorus) of sales calls and demos ([how to video - private](https://www.youtube.com/watch?v=5LaxjZ31250))
 1. Reviewing Win/Loss reports
@@ -1505,9 +1498,9 @@ A [Design Sprint](https://www.gv.com/sprint/), is a 5-day process used to answer
 
 As an all-remote company we run [Remote Design Sprints (RDS)](/handbook/product/ux/design-sprint/). Check out our [guidelines for running an RDS](/handbook/product/ux/design-sprint/#when-to-opt-for-a-remote-design-sprint) to determine if it's the right approach for the problem at hand.
 
-#### Spikes 
+#### Spikes
 
-If you're faced with a very large or complex problem, and it's not clear how to most efficiently iterate towards the desired outcome, consider working with your engineers to build an experimental [spike solution](http://www.jamesshore.com/v2/books/aoad1/spike_solutions). This process is also sometimes referred to as a "technical evaluation." When conducting a spike, the goal is write as little code within the shortest possible timeframe to provide the level of information necessary the team needs to determine how to best proceed. At the end of the spike, code is usually discarded as the original goal was to learn, not build production-ready solutions. This process is particularly useful for major refactors and creating [architecture blueprints](/handbook/engineering/architecture/workflow/). 
+If you're faced with a very large or complex problem, and it's not clear how to most efficiently iterate towards the desired outcome, consider working with your engineers to build an experimental [spike solution](http://www.jamesshore.com/v2/books/aoad1/spike_solutions). This process is also sometimes referred to as a "technical evaluation." When conducting a spike, the goal is write as little code within the shortest possible timeframe to provide the level of information necessary the team needs to determine how to best proceed. At the end of the spike, code is usually discarded as the original goal was to learn, not build production-ready solutions. This process is particularly useful for major refactors and creating [architecture blueprints](/handbook/engineering/architecture/workflow/).
 
 #### Feedback issues
 
@@ -1714,9 +1707,9 @@ however, there are times when this is not possible or simply doesn't happen. You
 GitLab user page; this page often includes contact information such as Twitter or LinkedIn. Another option is to
 directly mention users in issues to engage async. In popular issues you can just leave a general comment that you're looking for people to interview and many will often volunteer.
 
-**Customer Issues Prioritization Dashboards:** The [customer issues prioritization framework](/handbook/product/product-processes/customer-issues-prioritization-framework) aggregates customer data with the issues and epics that they have requested. When [viewing the dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product), double click on the issue or epic of interest within the "priority score by noteable" table then scroll down to "QA Table - User request weighting by customer" to see the specific customers that are interested in the issue or epic. 
+**Customer Issues Prioritization Dashboards:** The [customer issues prioritization framework](/handbook/product/product-processes/customer-issues-prioritization-framework) aggregates customer data with the issues and epics that they have requested. When [viewing the dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product), double click on the issue or epic of interest within the "priority score by noteable" table then scroll down to "QA Table - User request weighting by customer" to see the specific customers that are interested in the issue or epic.
 
-**GitLab.com Broadcast Messages** Broadcast Messaging is a great tool for acquiring customer feedback from within the product. You can leverage [this workflow](#gitlabcom-in-app-messages-broadcast-messaging) to use broadcast messaging. 
+**GitLab.com Broadcast Messages** Broadcast Messaging is a great tool for acquiring customer feedback from within the product. You can leverage [this workflow](#gitlabcom-in-app-messages-broadcast-messaging) to use broadcast messaging.
 
 **GitLab Sales and Customer Success** You can ask for help in [Slack customer success channel](https://gitlab.slack.com/archives/C5D346V08/p1583438272202100/)
 or join the Field Sales Team Call and the All CS Team Call to present a specific request via the Zoom call.
@@ -1798,7 +1791,7 @@ Broadcast Messaging is a great tool for acquiring user feedback from within the 
 interacting with specific workflows within the product. Currently, broadcast messaging can be [targeted by URL](https://www.youtube.com/watch?time_continue=3&v=C4PuRUiQ6WU&feature=emb_logo),
 and [user information can be passed](https://www.youtube.com/watch?v=2NKsXgfLhqc&feature=youtu.be) in order to personalize the message as well as the response.
 
-There are two types of Broadcast Messages - banners and notifications. Currently banner notifications also send messages in Git responses, but this is [under review](https://gitlab.com/groups/gitlab-org/-/epics/10643). 
+There are two types of Broadcast Messages - banners and notifications. Currently banner notifications also send messages in Git responses, but this is [under review](https://gitlab.com/groups/gitlab-org/-/epics/10643).
 
 **How to use Broadcast Messaging:**
 
@@ -1864,7 +1857,7 @@ Don't forget to thank the authors for the time and effort taken to submit the
 feature request/merge request. In all cases and without exception, you should be
 nice and polite when interacting with users and customers.
 
-##### Reaching out to specific users or accounts based on GitLab usage 
+##### Reaching out to specific users or accounts based on GitLab usage
 
 You may want to interview a specific account because they are exhibiting atypical usage patterns or behaviors. In this case, [request Support to contact GitLab.com user(s) on your behalf](../../support/internal-support/#gitlab-changes-and-contacting-users).
 
@@ -1878,7 +1871,7 @@ One of the primary artifacts of the validation track is the Opportunity Canvas. 
 
 Please note that an opportunity canvas is not required for product functionality or problems that already have well-defined [jobs to be done (JTBD)](/handbook/product/ux/ux-resources/#jobs-to-be-done-jtbd). For situations where we already have a strong understanding of the problem and its solution, it is appropriate to skip the opportunity canvas and proceed directly to solution validation. It might be worth using the opportunity canvas template for existing features in the product to test assumptions and current thinking, although not required.
 
-##### Reviews 
+##### Reviews
 
 Reviewing opportunity canvases with leadership provides you with an opportunity to get early feedback and alignment on your ideas. To schedule a review:
 
@@ -1886,7 +1879,7 @@ Reviewing opportunity canvases with leadership provides you with an opportunity 
 1. The VCProdO and VP of UX should be included as required attendees.
 1. The Product Section Leader, Direct Manager, UX counterpart and Product Operations should be included as optional attendees.
 1. Complete the Opportunity Canvas(es) at least one business day before the meeting to give attendees an opportunity to review content.  The attendees will review the canvas(es) in advance and will add questions directly to the canvas document(s).
-1. When the Opportunity Canvas(es) is complete, inform the meeting participants by tagging them in a post in Slack #product. Include a direct link to the canvases.  
+1. When the Opportunity Canvas(es) is complete, inform the meeting participants by tagging them in a post in Slack #product. Include a direct link to the canvases.
 1. During the review, feel free to present anything you'd like. For comparative reviews it's helpful to start with your proposal for which Opportunity to pursue first. For singular reviews it's fine to go straight to Q&A since the attendees should have reviewed the canvas in advance.
 
 **References**:
@@ -1934,9 +1927,9 @@ new features that we release, and help them to adopt all our own features.
 
 ### PNPS Responder Outreach
 
-Each quarter we reach out to [Paid NPS (PNPS)](/handbook/product/performance-indicators/#paid-net-promoter-score-pnps) responders who opted-in to speak with us. This is a fantastic opportunity to build bridges to users and for product managers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is a detractor. 
+Each quarter we reach out to [Paid NPS (PNPS)](/handbook/product/performance-indicators/#paid-net-promoter-score-pnps) responders who opted-in to speak with us. This is a fantastic opportunity to build bridges to users and for product managers to get direct feedback for their specific product area. If a customer has taken the time to share a verbatim with us and offered to have a conversation, they deserve to be followed up with - especially if that customer is a detractor.
 
-When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers. 
+When we speak to users and customers directly during this workflow, we must be mindful of [Product Legal guidance](/handbook/product/product-safe-guidance/) and the  [SAFE framework](/handbook/legal/safe-framework/, just as we would be with any other documentation or communication we do as product managers.
 
 #### Overall process
 
@@ -1957,15 +1950,15 @@ When we speak to users and customers directly during this workflow, we must be m
 
 #### Instructions for Group Managers and Product Managers
 
-1. Your group PM director will have put your name next to users they felt were relevant for you to speak with. 
-1. If you are unable or unwilling to speak with the customer, please speak with your manager so they can find a replacement. 
+1. Your group PM director will have put your name next to users they felt were relevant for you to speak with.
+1. If you are unable or unwilling to speak with the customer, please speak with your manager so they can find a replacement.
 1. If you see other users that have not been assigned to another PM and you feel may be relevant to speak with, assign that user to yourself.
 1. If you see other users that have been assigned to another PM, reach out to that PM and coordinate a joint conversation. It is very important you do not reach out to users that have been assigned to other PMs as we want to be mindful of our users time and not risk negative sentiment due to over-communication. We are limiting these conversations to one per user for these reasons.
 
 #### Process for reaching out to users
 
 1. Calendly is the best method for scheduling users. [Set up your free Calendly account](https://calendly.com/signup) if you haven't done so. Add details to the invite description describing yourself and the conversation purpose. Also add your personal Zoom link, either via connecting your Zoom account or pasting in your personal Zoom URL.
-1. You'll need to add two extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team. 
+1. You'll need to add two extra questions to the invite form in order to ask for consent to record, example below. Please use these questions as written in the example as they closely mirror the content that has been validated by the UX Research Team.
 1. Draft an email that you'll send to users. Example copy is below. You can re-phrase things as you wish but make sure you still cover the same points as the example.
 1. **BE ON TIME TO YOUR CALL**. Better yet, be 2 minutes early. Be ready to coach people through getting Zoom to work properly. Make sure everyone on the call introduces themselves.
 1. If people have agreed to recording, still ask them once again if it's OK if you record before turning it on. Obviously do not record people that did not give consent.
@@ -1975,29 +1968,29 @@ When we speak to users and customers directly during this workflow, we must be m
 
 > Hello,
 > My name is X and I'm the PM for X at GitLab. Thank you for giving us the opportunity to follow up on your response to our recent survey.
-> 
+>
 > I would be very interested in speaking further about some of the points you raised in your survey response. Would you be willing to do a 30 minute videoconference call to give us some more detailed feedback on your experience using GitLab? You'd be able to schedule the call at a time convenient to you.
-> 
+>
 > Schedule a time for the call using this link:
 > https://calendly.com/yourname/30min
-> 
+>
 > Thank you for your feedback and let me know if you have any questions.
-> 
+>
 > Best,
 > Your name
 
 **Copy for two extra questions in Calendly invite**:
 
 > To make sure we correctly represent what you say in any followup issues or discussions, we would like to record this conversation. Please indicate if you give permission to record this conversation.
-> 
+>
 > Yes, you may record our conversation.
-> 
+>
 > No, you MAY NOT record our conversation.
-> 
+>
 > At GitLab, we value transparency. We would love to share the recording of conversation publicly on GitLab. Please indicate whether you give your permission for the recording to be shared on GitLab.
-> 
+>
 > Yes, you may share the recording publicly on GitLab.
-> 
+>
 > No, you MAY NOT share the recording publicly on GitLab.
 
 #### After the call

@@ -9,7 +9,7 @@ title: Product Division OKRs
 
 
 
-<%= partial("handbook/product/product-handbook-links") %>
+{{% include "includes/product-handbook-links.md" %}}
 
 ## Product Division OKR Overview
 
