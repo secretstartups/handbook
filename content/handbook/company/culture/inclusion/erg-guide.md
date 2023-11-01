@@ -530,7 +530,7 @@ To help develop goals you may want to utilize goal setting activities to assist 
 
 Each TMRG has access to a budget on a per quarter basis to assist in the activities they wish to engage in to further develop the TMRG, Enable and Empower the members, develop activities & events or to buy merchandise.
 
-Details on how to access to the budget are below 
+Details on how to access to the budget are below
 
 **Expenses could include but not limited to:**
 
