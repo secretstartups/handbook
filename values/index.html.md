@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "GitLab Values"
 description: Learn more about how we live our values at GitLab
 canonical_path: "/handbook/values/"
@@ -10,11 +10,11 @@ twitter_creator: "@gitlab"
 
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## CREDIT
 

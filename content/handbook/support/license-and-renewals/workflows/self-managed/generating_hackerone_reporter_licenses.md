@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Generating HackerOne Reporter Award Licenses
 description: "How to generate a license for Hacker One reporter award recipients"
 category: GitLab Self-Managed licenses

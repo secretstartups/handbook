@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Charitable Contribution Requests
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Sales and Customer Success Escalations
 description: "How to escalate from Support to GitLab Sales or Customer Success"
 category: Handling tickets

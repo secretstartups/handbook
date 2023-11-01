@@ -4,11 +4,11 @@ description: "Product Analysts at GitLab have a unique opportunity to improve th
 through data-driven insights and recommendations" 
 ---
 
-## On this page
+
 
 {:.no_toc}
 
-- TOC
+
 {:toc}
 
 ## Role

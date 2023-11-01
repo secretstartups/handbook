@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Troubleshooting license purchase errors
 description: "How to troubleshoot GitLab license purchasing errors"
 category: GitLab Self-Managed licenses

@@ -345,6 +345,23 @@ find . -type f -name "*.md" -exec sed -i '' "s~](/handbook/legal/~](https://abou
 find . -type f -name "*.md" -exec sed -i '' "s~](/blog/~](https://about.gitlab.com/blog/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/direction/~](https://about.gitlab.com/direction/~g" {} +
 
+# Clean up the markdown and erb files a bit
+find . -type f -name "*.md" -exec sed -i '' "s~layout: handbook-page-toc~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~layout: markdown_page~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~## On this page~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~- TOC~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~{:toc .hidden-md .hidden-lg}~~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
+
+find . -type f -name "*.erb" -exec sed -i '' "s~layout: handbook-page-toc~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~layout: markdown_page~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~## On this page~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~{:.no_toc .hidden-erb .hidden-lg}~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~- TOC~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~{:toc .hidden-md .hidden-lg}~~g" {} +
+find . -type f -name "*.erb" -exec sed -i '' "s~{:.no_toc .hidden-md .hidden-lg}~~g" {} +
+
 cd ..
 
 # Run markdownlint to try to fix as many errors as possible
@@ -366,13 +383,17 @@ sed -i '' -e 's~fix: true~fix: false~g' .markdownlint.yaml
 # Then add the migrated section to the markdownlintignore file
 # We'll clean up markdownlint issues once the migration is complete
 if [[ $IS_COMPANY == true ]]; then
-  echo content/handbook/company/$SECTION >> .markdownlintignore
+  echo "content/handbook/company/$SECTION/**/*.md" >> .markdownlintignore
+  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/company/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_ENGINEERING == true ]]; then
-  echo content/handbook/engineering/$SECTION >> .markdownlintignore
+  echo "content/handbook/engineering/$SECTION/**/*.md" >> .markdownlintignore
+  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/engineering/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 elif [[ $IS_HANDBOOK == true ]]; then
-  echo content/handbook/$SECTION >> .markdownlintignore
+  echo "content/handbook/$SECTION/**/*.md" >> .markdownlintignore
+  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/handbook/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 else
-  echo content/$SECTION >> .markdownlintignore
+  echo "content/$SECTION/**/*.md" >> .markdownlintignore
+  sed -i '' "s~\"ignores\": \[~\"ignores\": \[\n    \"content/$SECTION/**/*.md\",~g" .markdownlint-cli2.jsonc
 fi
 
 # Commit the result and raise an MR against the new handbook repo

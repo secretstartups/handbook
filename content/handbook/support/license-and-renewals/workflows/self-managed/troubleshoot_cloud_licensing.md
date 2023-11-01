@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Troubleshooting cloud licensing
 description: "How to troubleshoot issues with a cloud license"
 category: GitLab Self-Managed licenses

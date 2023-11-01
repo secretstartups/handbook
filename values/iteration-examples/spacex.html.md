@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Iteration at SpaceX"
 description: Learn more about how SpaceX and Elon Musk iterate
 canonical_path: "/handbook/values/iteration-examples/spacex.html"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 ## Iteration at SpaceX
 

@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Threat Modeling HowTo"
 description: "A howto for the threat modeling process at GitLab."
 ---

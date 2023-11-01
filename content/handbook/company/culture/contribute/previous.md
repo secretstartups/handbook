@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Previous GitLab Contributes & Summits"
 description: "Over the years, GitLab has hosted team member events as both GitLab Contribute and GitLab Summit. View some times we shared!"
 canonical_path: "/company/culture/contribute/previous/"

@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Board of Directors and Corporate Governance"
 ---
 
