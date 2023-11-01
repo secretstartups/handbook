@@ -228,7 +228,7 @@ Meeting Surveys is enabled for everyone at GitLab, however to get this to work, 
 1. Go to your [meetings](https://gitlab.zoom.us/meeting#/upcoming).
 1. Select one of your meetings **or** schedule a new one.
 1. If you are editing an existing meeting, click the `Survey` tab. If you are scheduling a new meeting, click `Save`, then click the `Survey` tab.
-  1. **Note:** Meeting ID must be generated automatically for this to work, surveys does not work with personal meeting IDs.
+    1. **Note:** Meeting ID must be generated automatically for this to work, surveys does not work with personal meeting IDs.
 1. Click `Create new survey`.
 1. At the end of the meeting, people will receive the survey to fill out.
 
