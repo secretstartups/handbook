@@ -68,7 +68,7 @@ You will be able to review the investment strategy once enrolled through the Fun
 
 ## Death in Service
 
-All full-time GitLab team members in Ireland are eligible for death in service at 4x annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
+All full-time GitLab team members in Ireland are eligible for death in service at 4x base annual salary. Team members are automatically enrolled in this benefit. This benefit is administered through Aviva. Team members may be contacted to complete an additional questionniare if their covered amount is over the scheme limits, with potential medical underwriting required.  More information can be found on the [Retirement and Death Benefit Scheme Rules document](https://drive.google.com/file/d/1T1HjLXj2f3FmMiX3D4HVhpYF_k8zwvyr/view?usp=sharing).
 
 Team members can complete a [Expression of Wish Form](https://drive.google.com/file/d/1YSkmogbYIsAVhSESJXLSYBr-T_uH1x2c/view?usp=sharing) to request a beneficiary for this benefit.  Once completed, please send directly to `employeebenefits@orca.ie`
 
