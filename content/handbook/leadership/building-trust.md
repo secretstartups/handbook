@@ -141,9 +141,9 @@ Take a [coaching approach]({{< ref "coaching" >}}) and have the team members tal
 
 ### Leverage the Building High Performing Teams Model
 
-The [Building High Performing Teams model]({{< ref "build-high-performing-teams" >}}) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section]({{< ref "build-high-performing-teams#stage-2-trust-building---who-are-you" >}}) of the Building High Performing teams page on strategies to build trust.
+The [Building High Performing Teams model](https://internal.gitlab.com/handbook/company/high-performing-teams/) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [high performing teams page](https://internal.gitlab.com/handbook/company/high-performing-teams/) for strategies to build trust.
 
-**How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams]({{< ref "build-high-performing-teams#summary" >}}) at GitLab. In the [trust building section]({{< ref "build-high-performing-teams#stage-2-trust-building---who-are-you" >}}), Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
+**How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams](https://internal.gitlab.com/handbook/company/high-performing-teams/) at GitLab. Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
 
 ### Ask for Feedback
 
