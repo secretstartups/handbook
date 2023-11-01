@@ -22,7 +22,11 @@ The Govern engineering groups are responsible for the [Govern Stage](/handbook/p
 
 Help users manage security vulnerabilities, policies, and compliance across their organization.
 
-The stage vision is captured on the [Govern product direction](https://about.gitlab.com/direction/govern/) pages, along with group priorities.
+The stage vision is captured on the [Govern product direction](https://about.gitlab.com/direction/govern/) pages.
+
+## Priorities
+
+Group priorities are reviewed collaboratively with product counterparts and published on the Govern direction pages 
 
 * [Anti-abuse](https://about.gitlab.com/direction/govern/anti-abuse/#priorities)
 * [Authentication](https://about.gitlab.com/direction/govern/authentication/#priorities) 
@@ -50,18 +54,21 @@ To contact Govern stage development people leaders leaders use the following ali
 ### Anti-abuse
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Anti-Abuse/, manager_slug: 'jayswain') %>
 
-### Authentication and Authorization
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authentication and Authorization/, manager_slug: 'adil.farrukh') %>
+### Authentication
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authentication/, manager_slug: 'adil.farrukh') %>
 
-### Threat Insights
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
-<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'thiagofigueiro') %>
+### Authorization
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Authorization /, manager_slug: 'jayswain') %>
+
+### Compliance
+<%= direct_team(role_regexp: /Engineer(.*)Govern:Compliance/, manager_slug: 'nrosandich') %>
 
 ### Security Policies
 <%=  direct_team(role_regexp: /Engineer(.*)Govern:Security Policies/, manager_slug: 'maciejparuszewski') %>
 
-### Compliance
-<%= direct_team(role_regexp: /Engineer(.*)Govern:Compliance/, manager_slug: 'nrosandich') %>
+### Threat Insights
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'nmccorrison') %>
+<%=  direct_team(role_regexp: /Engineer(.*)Govern:Threat Insights/, manager_slug: 'kniechajewicz') %>
 
 ## Stable Counterparts
 
@@ -71,13 +78,13 @@ The following members of other functional teams are our stable counterparts:
       role_regexp: /[,&] Govern/,
       direct_manager_role: nil,
       other_manager_roles: [
-        'Engineering Manager, Govern:Anti-abuse',
-        'Engineering Manager, Govern:Authentication and Authorization',
+        'Engineering Manager, Govern:Authentication and Anti-abuse',
+        'Engineering Manager, Govern:Authorization',
         'Engineering Manager, Govern:Compliance',
         'Engineering Manager, Govern:Security Policies',
         'Engineering Manager, Govern:Threat Insights',
-        'Engineering Manager, Govern:Threat Insights',
-        'Director of Engineering for Growth, Sec, and Data Science',
+        'Engineering Manager, Growth and Govern:Threat Insights',
+        'Director of Engineering for Secure, Govern, and Growth',
         'Senior Engineering Manager, Govern and Growth'
       ])
 %>
