@@ -24,13 +24,16 @@ We use KPIs by function in the CDF. These KPIs feature a guideline for results t
 
 In each CDF review, it's recommended to select an improvement area to focus on until the next CDF review. This could be anywhere from 1 to 3 improvement areas that you and your manager select together. Once selected, the teammate and manager check in on those focus areas in each 1:1 reviewing progress, discussing feedback, and adjusting any plans for the quarter to continue to improve. Selecting a focus provides a structure to say "no" to other areas that may not be as timely, critical, or worth the additional focus. 
 
-## CDF for Individual Contributors in Product Management 
-Below, you'll find the CDF framework and potential discussion topics for [Product Managers](https://handbook.gitlab.com/job-families/product/product-manager/).
+## Typical Requirements for Promotions
 
-|**Levels**| Intermediate| Senior |Principal|Senior Principal|
-|----|-----|-----|-----|-----|
-| **Typical Reporting Structure** |Reports to a Director or Group Manager | Reports to a Director or Group Manager | Reports to a Group Manager, Director, or VP |  Reports to a Director, or VP 
-| **Typical Experience** |Two to four years of relevant experience or equivalent combination of experience and education. | Four to six years of relevant experience or equivalent combination of experience and education. | Eight to ten years of experience with at least one year of people management responsibility. | Ten years or more of experience or equivalent combination of experience and education.| 
+ Promotions happen inline with our [standard promotion timeline](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/#twice-per-year-promotion-calibration-process--timeline) and process and also follow our [promotion philosophy](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/#promotion-philosophy). Team members should already be demonstrating some of the next level job frameworks level prior to promotion. For promotions to take effect, budget needs to be available and approved.  Also, when reviewing a proposed promotion, we consider: 1) readiness of the individual, and 2) business justification/opportunity. This means that if there is not a business need substantial enough to justify a promotion opportunity, it is possible that otherwise qualified individuals may not be able to be promoted until an opportunity becomes available.
+ 
+ Unless there is a justifiable exception, the requirements below are also typically required to be met for individual contributor promotions within the Product department:
+
+| **Levels**                      | Intermediate | Senior | Principal | Senior Principal |
+| ------------------------------- | ------------ | ------ | --------- | ---------------- |
+| **Typical Business Need**       | A Group requires PM support and the manager has bandwidth to support an Intermediate PM. | A Group requires PM support including deeper strategic direction and cross-group coordination within the Stage. | A Stage requires extensive PM support, strategic leadership, and cross-stage coordination within the Section. | The company requires broad PM support, strategic leadership, and cross-section coordination. |
+| **Typical Reporting Structure** | Reports to a Group Manager or Director | Reports to a Group Manager or Director | Reports to a Group Manager, Director, or Senior Director |  Reports to a Senior Director, or VP |
 
 ## CDF for Individual Contributor Product Managers
 Below, you'll find the CDF framework and potential discussion topics for [Product Managers](https://handbook.gitlab.com/job-families/product/product-manager/). 
