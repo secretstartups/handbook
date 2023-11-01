@@ -23,8 +23,9 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 
 ### October to November (Milestone 16.6)
 
-#### 2023-10-31 Updates:
-- [#429273](https://gitlab.com/gitlab-org/gitlab/-/issues/429273), [#429117](https://gitlab.com/gitlab-org/gitlab/-/issues/429117) and [#428443](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) were completed so far this week.
+#### 2023-11-01 Updates:
+- [#429273](https://gitlab.com/gitlab-org/gitlab/-/issues/429273), [#429256](https://gitlab.com/gitlab-org/gitlab/-/issues/429256), [#429117](https://gitlab.com/gitlab-org/gitlab/-/issues/429117), [#427928](https://gitlab.com/gitlab-org/gitlab/-/issues/427928) and [#428443](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) were completed so far this week.
+- Discussed in weekly planning around direction for toggle.  The issue references can be found [here](https://gitlab.com/gitlab-org/gitlab/-/issues/416938#note_1630481328).
 
 #### Goals:
 - CI Catalog - Pages & Navigation 
@@ -50,17 +51,16 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 - CI Catalog - Search & Filter
   - [x] [Add GraphQL search filter and sort by created_at to ciCatalogResources](https://gitlab.com/gitlab-org/gitlab/-/issues/429117)
   - [x] [Create database indices for CI Catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/428443)
-  - [ ] [Denormalize name and description in Ci::Catalog::Listing](https://gitlab.com/gitlab-org/gitlab/-/issues/427928) `~workflow::in review`
+  - [x] [Denormalize name and description in Ci::Catalog::Listing](https://gitlab.com/gitlab-org/gitlab/-/issues/427928)
   - [ ] [Add Search bar](https://gitlab.com/gitlab-org/gitlab/-/issues/393214) `~workflow::in dev`
-  - [ ] [Improve query plan of Ci::Catalog::Listing on filter by permissions](https://gitlab.com/gitlab-org/gitlab/-/issues/429056)
   - [ ] [Update catalog_resource.latest_released_at when version is created/deleted](https://gitlab.com/gitlab-org/gitlab/-/issues/427791)
 - CI Catalog - Release Process refinements 
   - [x] [Add mutation to mark a catalog resource as draft](https://gitlab.com/gitlab-org/gitlab/-/issues/428439)
-  - [ ] [Add path column where to persist full path to component YAML file](https://gitlab.com/gitlab-org/gitlab/-/issues/429256) `~workflow::in review`
+  - [x] [Add path column where to persist full path to component YAML file](https://gitlab.com/gitlab-org/gitlab/-/issues/429256)
+  - [ ] [Update the docs to reflect the recommended method for the release](https://gitlab.com/gitlab-org/gitlab/-/issues/429271) `~workflow::in review`
   - [ ] [Scanning components on release and collect metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) `~workflow::in dev`
-  - [ ] [Update the docs to reflect the recommended method for the release](https://gitlab.com/gitlab-org/gitlab/-/issues/429271) `~workflow::in dev`
+  - [ ] [Update the releases logic in catalog resources to use the Version association](https://gitlab.com/gitlab-org/gitlab/-/issues/429707) `~workflow::in dev`
   - [ ] [Create a migration to update state and add metadata to existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
-  - [ ] [Update the releases logic in catalog resources to use the Version association](https://gitlab.com/gitlab-org/gitlab/-/issues/429707)
   - [ ] [Provide a warning model when users toggle catalog resource setting to off](https://gitlab.com/gitlab-org/gitlab/-/issues/416938)
 - Completion of [Inputs Enhancements]
   - [x] [Support options: with inputs defining default: value](https://gitlab.com/gitlab-org/gitlab/-/issues/393401)
@@ -72,6 +72,7 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [ ] [Enable FF `global_ci_catalog`](https://gitlab.com/gitlab-org/gitlab/-/issues/427940)
   - [ ] [Fix breadcrumb to continue to project reference](https://gitlab.com/gitlab-org/gitlab/-/issues/421922)  
   - [ ] [Make Catalog resource ID become the fullpath of a resource](https://gitlab.com/gitlab-org/gitlab/-/issues/428949)
+  - [ ] [Remove namespace catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/429669)
 - CI Catalog - Search & Filter
   - [ ] [Update the CI Catalog index to only show published catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/415414)
 - CI Catalog - Release Process refinements 
