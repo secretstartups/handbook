@@ -19,11 +19,24 @@ description: "Continuous education webcast series for GitLab sales team members"
 ## Upcoming Training
 To see what training is coming soon, view the [Field Enablement Spotlight issue list](https://gitlab.com/groups/gitlab-com/sales-team/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=sales%20enablement%20sessions).
 
-**Fall 2023 Lineup**
+**Winter 2023 Lineup**
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Oct 26 | *No session during the last week of the quarter* | N/A |
+| Nov 2 | DORA Metrics in GitLab | Sander B. |
+| Nov 6 | Sales Ops Update: ASM Clari Best Practices | Clari Team |
+| Nov 9 | Sales Ops Update: AE Clari Best Practices | Clari Team |
+| Nov 16 | Competitive Update  | Joe K. |
+| Nov 23 | *No Session - Thanksgiving - US Holiday*  | N/A |
+| Nov 30 | Customer Win Stories & Enablement - Leveraging Professional Services | Melanie R. |
+| Dec 7 | TBD |  |
+| Dec 14 | TBD |  |
+| Dec 21 | TBD |  |
+| Dec 28 | TBD |  |
+| Jan 4 | TBD |  |
+| Jan 11 | TBD |  |
+| Jan 18 | *No session during the last week of the quarter* | N/A |
+| Jan 25 | *No session during the last week of the quarter* | N/A |
 
                                                                                                                                    
 ## Past Sessions
