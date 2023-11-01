@@ -299,9 +299,11 @@ Pursuant to GitLab's Transparency value, all GitLab team members will have acces
 
 #### User Groups
 
-User Groups are the only prescribed method we use for setting permissions across the Tableau site. A User Group is a collection of users that can be based on a topic, project, or organization structure, that will need to have the same set of access and permissions for content. All users will be a member of their business department User Group and can be added to more User Groups as required. The assignment of users to groups will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group.
+User Groups are the only prescribed method we use for setting permissions across the Tableau site. A User Group is a collection of users that can be based on a topic, project, or organization structure, that will need to have the same set of access and permissions for content. All users will be a member of the General Access user group and can be added to more User Groups as required. The assignment of users to groups will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group.
 
-##### Limited Access User Groups
+#### Limited Access User Groups
+
+Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).  
 
 - General SAFE Access
   - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](https://about.gitlab.com/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
