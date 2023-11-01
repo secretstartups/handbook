@@ -564,7 +564,7 @@ Prior to submitting a Coupa requisition, please adjust the Billing portion of th
 
 **Swag-** If the purchase is Swag, please follow the outlined process in the [handbook](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/brand/merchandise-handling/#swag-for-tmrgs).
 
-**Charitable Contributions-** Please follow the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/) 
+**Charitable Contributions-** Please follow the [Philanthropy Policy](https://about.gitlab.com/handbook/legal/philanthropy-policy/)
 
 **Team Member Expensed-** In some instances, TMRG team members will need to follow the [expense reimbursement policy](/handbook/finance/expenses/). If an item is purchased individually upfront (i.e. meals, books) and the item was budgeted, the team member will submit the receipt to get reimbursed. Reach out in #expense-reporting-inquiries for a new expense tag prior to the event.
 When submitting expenses for reimbursement, please add the “TMRG” classification and the expense tag to your expense when submitting the report.
