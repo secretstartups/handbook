@@ -546,7 +546,7 @@ Feel free to get creative with how you support and engage the TMRG utilizing the
 
 **Accessing TMRG Budget**
 
-Each quarter the DIB Team have a defined amount of funds accessible by the TMRG, in order to access the funds, prior to the quarter beginning the TMRG must provide a plan with a defined amount of budget they require for the quarter. Any funds not assigned or requested will be used by the DIB Team for other activities, partnerships and programming. 
+Each quarter the DIB Team have a defined amount of funds accessible by the TMRG, in order to access the funds, prior to the quarter beginning the TMRG must provide a plan with a defined amount of budget they require for the quarter. Any funds not assigned or requested will be used by the DIB Team for other activities, partnerships and programming.
 
 On a quarterly basis, each TMRG DRI is responsible for updating the [TMRG Forecast Tracking Spreadsheet](https://docs.google.com/spreadsheets/d/1-BZrH1KsRBYl9r0EYEy6VXlKyvGGf585mwoj9Vz5rgA/edit#gid=1333381534) for expected expenses for the remainder of the year. Deadlines for updates are due the middle of the following months:
 
