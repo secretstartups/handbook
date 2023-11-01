@@ -246,7 +246,7 @@ Watch the replay of our conversation with [Jeb Hurley, Co-founder and Managing P
 
 ### Strategies to Build High Performing Teams
 
-The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help [build high performing teams]({{< ref "build-high-performing-teams" >}}) at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following:
+The [Drexler-Sibbet Team Performance Model](https://www.kaizenko.com/drexler-sibbet-team-performance-model/) is an excellent tool to help [build high performing teams](https://internal.gitlab.com/handbook/company/high-performing-teams/) at GitLab. The model provides a roadmap for a team and a common language. It is a simplified description of how a team works together that highlights the most important things the team needs to focus on to reach high performance. At GitLab, we can use it as a frame of reference to developing high performing teams. It can help Managers ensure new and existing team members know the mission and direction of the team by the following:
 
 - To form your team
 - To guide what your team does
