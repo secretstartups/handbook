@@ -70,7 +70,7 @@ Support Engineers are responsible for:
 
 - Creating their work schedule with their manager
 - Coordinating day-to-day availability for ticket work with their SGG
-- Working with any Support Manager to take on higher-priority tasks based on customer needs
+- Working with any Support Manager to take on higher-priority tasks (such as STARs or account escalations) based on customer needs
 
 ### 2. Work with your group to meet our FRT SLA target
 
@@ -147,6 +147,8 @@ Here are a few tips for maintaining good progress:
       next update
    1. If you haven't completed the intended work by update time, let the
       customer know what progress you've made and then set a new update time
+1. If your ticket is [STARred](https://handbook.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests/) during your business hours, work with the on-call manager and the person who submitted the STAR to help address any concerns.
+   1. You are not expected to respond or engage in a STAR if you are unavailable (for example, you are on PTO or its after hours). When you are back online, review the STAR thread to ensure you're up-to-speed, and address any follow-up actions, if applicable.
 
 ### 4. Manage customer expectations and communicate thoroughly through tickets and calls
 
