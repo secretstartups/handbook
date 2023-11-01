@@ -98,6 +98,10 @@ If the user is unconfirmed, but their primary email address does not match the u
 1. Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
 1. File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
 
+## Customers Portal account email
+
+If the problem is with the customers portal account email, you can send the user a [new Customers Portal confirmation email](https://customers.gitlab.com/customers/confirmation/new). Afterwards, let the user know you've sent them a new confirmation email and ask them to check their inbox and spam folders.
+
 ## Extras
 
 ### Checking Mailgun
