@@ -1118,6 +1118,9 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
     ' --full-refresh ; ret=$?;\n'
     ```
 2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
+
+If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
+
 3. Manually trigger DAG to run.
 
 dbt command that is run behind is
