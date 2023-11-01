@@ -19,10 +19,11 @@ description: "The Customer Success Management team at GitLab is a part of the Cu
 
 ## Mission Statement
 
-Aligning passionate CSMs with customers to ensure their success by...  
-- Driving progress aligned with their business outcomes
-- Identifying and enabling the customer in their current and future GitLab use cases
-- Expanding ROI with GitLab  
+Accelerate customer success by aligning passionate CSMs with customers to:
+
+ - Drive adoption aligned with business outcomes
+ - Enable customers in current and future GitLab use cases
+ - Expand ROI from GitLab
 
 ## What is a Customer Success Manager (CSM) at GitLab?
 
@@ -48,20 +49,21 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
 <tbody>
   <tr>
     <td><a href="/handbook/customer-success/csm/success-plans/">Success Plans</a></td>
-    <td>These plans are created in partnership with the customer and outline the agreed path to getting a customer to their desired business outcomes (e.g., improve cycle time) and the technical milestones required to get to these objectives (e.g., migration onto GitLab, overcoming a constraint)<br><br>These mutual plans enable the CSM to be proactive in the relationship, ensuring that progress towards the agreed outcomes. As trusted advisors, our role is to ensure that we understand what will drive value for the customer and have the associated plan.</td>
+    <td>Mutually agreed (Customer | GitLab) adoption plans that outline desired outcomes (e.g., improve cycle time),technical milestones required (e.g., migrate to GitLab, overcome constraints), timelines and DRIs.
+    <br><br>
+     These plans enable us to be proactive and ensure progress towards the customer's goals. As trusted advisors, we understand what drives value for our customers and help them achieve it.</td>
     <td>Enterprise: Every customer must have an active success plan<br><br>Commercial: Here, the plans are more adoption-focused, with PR1 customers having a more tailored plan and PR2 customers being focused on successfully adopting their primary use case &amp; expanding into greater adoption</td>
     <td>DRI: CSM<br><br>Consulted: AE, SA, Customer<br><br>Informed: Leadership</td>
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/onboarding/">Onboarding</a></td>
-    <td>Onboarding is a crucial time in the customer lifecycle, during which a positive or negative sentiment can last the partnership's length. This includes the period after upsell, where additional investment has been made, and often at which point a CSM is first assigned.<br><br>There are several onboarding steps in both the new and existing customer onboarding playbooks. The CSM's role is to ensure all of these topics and enablements have been covered and documented.</td>
+    <br><br>There are several onboarding steps in both the new and existing customer onboarding playbooks. The CSM's role is to ensure all of these topics and enablements have been covered and documented.</td>
     <td>All customers for both Enterprise and Commercial are to be taken through the appropriate playbook (New, Existing Customer)</td>
     <td>DRI: CSM<br><br>Consulted: AE, SA, Customer<br><br>Informed: Leadership</td>
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/cadence-calls/">Cadence Calls</a></td>
-    <td>The cadence call is a proactive call. For this call to be proactive, the CSM's responsibility includes:<br>
-    <ul><li>Preparing for the call by reviewing the success plan, what steps have been taken towards the customer's objectives, and what next steps need to occur</li><li>Creating an agenda that clearly calls out the next steps to be taken in the call, in addition to agenda points the customer has requested</li><li>Updating the agenda/preparing in advance progress made towards/completion of steps agreed in the previous call or async exchanges</li><li>Including recently released features that are in line with the customer's objectives and use cases</li><li>Actively listening throughout the call, asking questions to understand the customer's needs and requirements</li><li>Follow-up in email or via the collaboration issue on the agreed next steps and the dates by which the customer can require these next steps to be completed</li></ul></td>
+    <td>The cadence call is a proactive call. For this call to be proactive, the CSM's responsibility includes those listed in the linked cadence call page li></ul></td>
     <td>Call frequency:<br><ul><li>Enterprise: a PR1 customer is engaged bi-weekly, and a PR2 customer monthly at a very minimum</li><li>Commercial: a PR1 customer is engaged bi-weekly or monthly depending on need, and a PR2 customer typically monthly or quarterly at a very minimum</li></ul><br><br>A CSM/CSE can expect to conduct a minimum number of calls as follows:<br><ul><li>Enterprise CSMs: 5 calls per week</li><li>Commercial CSMs: 10 calls per week</li><li>Scale CSEs: 15 calls per week</li></ul></td>
     <td>DRI: CSM<br><br>Consulted: AE, Customer<br><br>Informed: SA, Leadership</td>
   </tr>
@@ -75,7 +77,7 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
   <tr>
     <td><a href="/handbook/customer-success/csm/ebr/">Executive Business Reviews</a></td>
-    <td><ul><li>We hold the business review at month 6, which provides enough time in a contract year to get a relationship back on track if positive progress is not made</li><li>The CSM is the DRI for scheduling, preparing for, presenting, and following up on the EBR</li><li>When a customer is resistant, the CSM uses an upcoming cadence call for a 'mini-EBR' to drive the value of having the 'zoom-out’ conversation to realign on progress, objectives and advocate for a more strategic EBR as a follow-up</li></ul></td>
+    <td><ul><li>We hold the business review at month 6, giving enough time passed to celebrate milestones achieved and enough time remaining to get adoption back on track where needed.</li><li>The CSM is the DRI for scheduling, preparing for, presenting, and following up on the EBR, and partners with both the account team and the customer in the creation of the presentation.</li><li>li></ul></td>
     <td><ul><li>Enterprise: 1 EBR per customer per year at a minimum</li><li>Commercial: 20% of book of business is offered an EBR per year, in-line with the goal of having 20% of the book of business be PR1</li></ul></td>
     <td>DRI: CSM<br><br>Consulted: AE, Customer<br><br>Informed: SA, Leadership</td>
   </tr>
@@ -87,7 +89,7 @@ CSMs are accountable for customer adoption, measurable outcomes, customer satisf
   </tr>
   <tr>
   <td><a href="/handbook/customer-success/csm/health-score-triage/">Managing Risk</a></td>
-    <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for often communicating to the account team and their manager about risk in their accounts and <a href="/handbook/customer-success/csm/escalations/">triggering/leading the escalation process</a> where needed</li></ul></td>
+    <td><ul><li>A CSM actively manages risk in a customer account, quickly turning a customer to red when there is any potential risk of contraction or churn (even if this is unconfirmed)</li><li>The CSM is responsible for frequent communication to the account team about risk in their accounts and <a href="/handbook/customer-success/csm/escalations/">triggering/leading the escalation process</a> where needed</li></ul></td>
     <td><ul><li>Risk is actively managed for both Enterprise and Commercial</li><li>Once red, a customer becomes PR1 in both segments</li></ul></td>
     <td>DRI: CSM<br><br>Consulted: AE, Leadership<br><br>Informed: Renewals team</td>
   </tr>
