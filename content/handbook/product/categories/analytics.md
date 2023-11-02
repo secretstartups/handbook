@@ -1,30 +1,19 @@
 ---
-
 title: "Analytics Section"
 ---
-
-<% section_name = 'Analytics Section' %>
-<% section_id = 'analytics' %>
-<% section_groups = ['Analytics Instrumentation','Product Analytics'] %>
-
-##
-
-
-
-
-
-{: #welcome}
 
 ## What we cover
 
 ## Who we are
 
-
-
 ### Product Groups
+
 Here are the individuals who work as part of one of the Analytics Section groups.
 
-<% section = Gitlab::Homepage::Section.all!.find{|section| section.key == section_id} %>
+<% section_name = 'Analytics Section' %>
+<% section_id = 'analytics' %>
+<% section_groups = ['Analytics Instrumentation','Product Analytics'] %>
+<% section = Gitlab::Homepage::Section.all!.find{ |section| section.key == section_id} %>
 <% section.stage_list.each do |stage| %>
    <% stage.group_list.each do |group| %>
 <%="#### #{group.name}" %>
@@ -96,7 +85,7 @@ TBD
 #### Intent
 The intent of the Section Retrospective Summary meetings is to:
 1. Share reflections, lessons learned and best practices across stages and groups
-1. Serve as a communal forum to solve broad in scope problems or persistent blockers 
+1. Serve as a communal forum to solve broad in scope problems or persistent blockers
 1. Share and celebrate accomplishments to give visibility into what other stages and groups are working on
 
 #### Expectations
