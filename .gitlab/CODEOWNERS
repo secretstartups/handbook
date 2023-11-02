@@ -61,6 +61,7 @@
 [docs]
 /LICENCE @jamiemaynard @marshall007
 /README.md @jamiemaynard @marshall007
+/CONTRIBUTING.md @jamiemaynard @marshal007
 /content/docs/ @jamiemaynard @marshall007
 
 # This is the controlled documents section where approval from a CODEOWNER is always required
