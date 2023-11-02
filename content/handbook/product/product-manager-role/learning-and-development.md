@@ -19,7 +19,7 @@ Welcome to Learning and Development for Product Management at GitLab! This page 
 
 The resources in the Product L & D Hub are meant to support product managers to explore, learn and grow at their own pace. We aim to collect content that spans various skill levels, as well as various levels of depth/commitment. It is recommended that product managers engage with the resources here to help them have a successful journey at GitLab and in their product career as a whole. 
 
-Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](https://about.gitlab.com/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
+Most of the resources here are free but any content requiring payment [can be reimbursed following the GitLab reimbursement policies](/handbook/finance/expenses/#work-related-online-courses-and-professional-development-certifications).
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/product-CDF-competencies/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
@@ -130,7 +130,7 @@ Product Managers are all evaluated using the [CDF](https://about.gitlab.com/hand
 
 ## Growth and Development processes
 
-The general [Growth and Development benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) are maintained by the Total Rewards team. The following make it more specific for Product Managers.
+The general [Growth and Development benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/) are maintained by the Total Rewards team. The following make it more specific for Product Managers.
 
 The product team has specific processes for the trainings outlined below. To get support for a new training, please follow the general guidelines for Growth and Development.
 

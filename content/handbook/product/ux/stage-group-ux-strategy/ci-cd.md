@@ -13,7 +13,7 @@ description: "The CI/CD UX team works to ensure the best experience for users of
 
 ## Hello!
 
-Welcome to the GitLab CI/CD UX team handbook page. We're comprised of three stage groups that support designing and building the GitLab DevOps product: [Verify](/direction/ops/#verify), [Package](/direction/ops/#package), [Deploy](/direction/ops/#deploy), and [SaaS Platforms](/direction/saas-platforms/dedicated/) stages.
+Welcome to the GitLab CI/CD UX team handbook page. We're comprised of three stage groups that support designing and building the GitLab DevOps product: [Verify](https://about.gitlab.com/direction/ops/#verify), [Package](https://about.gitlab.com/direction/ops/#package), [Deploy](https://about.gitlab.com/direction/ops/#deploy), and [SaaS Platforms](https://about.gitlab.com/direction/saas-platforms/dedicated/) stages.
 
 ### Who We Are
 
@@ -50,7 +50,7 @@ TBA
 ## Strategy
 
 Our product design team is working to uncover customers' core needs and streamlining their workflows by being the conversation drivers with product managers, developers and other counterparts across stage groups.
-We contribute to the [UX Department Direction](/handbook/product/ux), [Ops Product Section Direction](/direction/ops/) and [SaaS Platforms Direction](/direction/saas-platforms/) in the following ways:
+We contribute to the [UX Department Direction](/handbook/product/ux), [Ops Product Section Direction](https://about.gitlab.com/direction/ops/) and [SaaS Platforms Direction](https://about.gitlab.com/direction/saas-platforms/) in the following ways:
 
 TBA
 
@@ -88,7 +88,7 @@ TBA
 
 ### Career Development
 
-Apart from GitLab's 360 Feedback and annual Talent Assessment, our team uses a number of approaches to identify opportunities to develop their skills and knowledge. At least once a year, each Product Designer should have a [career development](/handbook/people-group/learning-and-development/career-development) conversation with their manager to set the tone and direction of their yearly growth and development plans. An [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/) (IGP) is created to outline professional goals and steps to accomplish them. Finally, a conversation is followed up with monthly/quarterly checkpoints and frequents 1:1s where team members and manager talk about the IGP plan, accomplishments, and iterations of the goals.
+Apart from GitLab's 360 Feedback and annual Talent Assessment, our team uses a number of approaches to identify opportunities to develop their skills and knowledge. At least once a year, each Product Designer should have a [career development](/handbook/people-group/learning-and-development/career-development) conversation with their manager to set the tone and direction of their yearly growth and development plans. An [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/igp-guide/) (IGP) is created to outline professional goals and steps to accomplish them. Finally, a conversation is followed up with monthly/quarterly checkpoints and frequents 1:1s where team members and manager talk about the IGP plan, accomplishments, and iterations of the goals.
 
 Use the following issue templates to plan and prepare for career conversations with your manager:
 
@@ -105,7 +105,7 @@ We follow the workflows outlined in the [UX section](/handbook/product/ux/how-we
 * Track [team-specif OKRs](#okrs) to execute our UX Department strategy.
 * Use our own [UX Definition of Done (DoD)](#ux-definition-of-done-dod).
 * Participate in the [monthly milestone kick off](/handbook/product/ux/ux-department-workflow/#milestone-kickoff). Together with Product Managers, we record a video with a focus on the user experience, front-end (user interface design) and research innitiatives.
-    * [View all Milestone Kickoff playlists](/direction/kickoff/#ops-section)
+    * [View all Milestone Kickoff playlists](https://about.gitlab.com/direction/kickoff/#ops-section)
 * Perform synchronous and asyncrhonous [design reviews](/handbook/product/ux/ux-resources/#synchronous-design-reviews).
     * [Watch our syncrhonous design reviews on Youtube](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb)
 

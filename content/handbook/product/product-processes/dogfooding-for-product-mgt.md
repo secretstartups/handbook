@@ -12,7 +12,7 @@ title: Dogfooding for Product Managers
 ### Dogfood everything
 
 The best way to understand how GitLab works is to **use it for as much of your job as possible**.
-Avoid [dogfooding antipatterns](/handbook/engineering/development/principles/#dogfooding-antipatterns)
+Avoid [dogfooding antipatterns](https://about.gitlab.com/handbook/engineering/development/principles/#dogfooding-antipatterns)
 and try to find ways to leverage GitLab (instead of an external tool) whenever
 possible. _For example:_ try to use Issues instead of documents or spreadsheets
 and try to capture conversation in comments instead of Slack threads.
@@ -28,7 +28,7 @@ helps you understand what can be improved and what features GitLab is missing.
 
 #### When do we dogfood?
 
-The Dogfooding process should begin [during the validation phase](/handbook/product-development-flow/#validation-phase-1-validation-backlog) of the Product Development flow. PMs should set up conversations with [internal customers](#internal-customer-dris) to gather their feedback on the problem and possible solutions. This helps the group by providing feedback from teams deeply familiar with GitLab, and allows internal customer requirements to be considered from the beginning. We've seen that features that have been dogfooded internally are more successful than those that have not gone through this process, and internal usage is [required to achieve Viable maturity](/direction/maturity/).
+The Dogfooding process should begin [during the validation phase](/handbook/product-development-flow/#validation-phase-1-validation-backlog) of the Product Development flow. PMs should set up conversations with [internal customers](#internal-customer-dris) to gather their feedback on the problem and possible solutions. This helps the group by providing feedback from teams deeply familiar with GitLab, and allows internal customer requirements to be considered from the beginning. We've seen that features that have been dogfooded internally are more successful than those that have not gone through this process, and internal usage is [required to achieve Viable maturity](https://about.gitlab.com/direction/maturity/).
 
 When a feature is <b>_minimal_</b> and moving toward <b>_viable_</b>, designated
 GitLab team members (and anyone else interested!) should be using the feature

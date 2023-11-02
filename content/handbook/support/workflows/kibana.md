@@ -281,7 +281,7 @@ Export errors can occur when a user attempts to export via the UI or [this API e
 - Taking from a few seconds to a few minutes to process the export, depending on the project size
 - Starting the upload to the specified upload URL
 
-Here are some suggestions for searching export logs in Kibana: 
+Here are some suggestions for searching export logs in Kibana:
 
 - In `pubsub-sidekiq-inf-gprd` (Sidekiq), narrow the search by adding filters
   - json.class: `ProjectExportWorker`

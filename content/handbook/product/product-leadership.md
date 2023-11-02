@@ -14,7 +14,7 @@ title: Product Leadership
 
 ## General Product Organizational Structure
 
-The GitLab Product team includes team members at various levels of [Product Management job titles](/handbook/product/product-manager-role/product-CDF-competencies/) across our [organizational levels](/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/company/team/structure/#layers).
+The GitLab Product team includes team members at various levels of [Product Management job titles](/handbook/product/product-manager-role/product-CDF-competencies/) across our [organizational levels](/handbook/company/team/structure/#levels) with scope at various points in our [product hierarchy](/handbook/product/categories/#hierarchy). As a result there can be instances where peers across layers don't have the same title. We will always abide by [GitLab's layer structure](/handbook/company/team/structure/#layers).
 
 | Level | Job Families | Hierarchy Scopes |
 | ----- | ------------ | ---------------- |
@@ -60,7 +60,7 @@ The [Monthly Kick-Off](https://about.gitlab.com/direction/kickoff/#overview) is 
 
 ## Product Key Review Leader Rotation
 
-The Product [Key Review](https://handbook.gitlab.com/handbook/key-review/) is hosted by a member of the [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure). Details on how to prepare for the quarterly Product Key Review will be in the [automated planning issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Key-Review-Prep.md) that will be assigned to the host by the Product EBA. See below for the rotation schedule:
+The Product [Key Review](/handbook/key-review/) is hosted by a member of the [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure). Details on how to prepare for the quarterly Product Key Review will be in the [automated planning issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Key-Review-Prep.md) that will be assigned to the host by the Product EBA. See below for the rotation schedule:
 
 | Date | Host | Planning Issue |
 | ---- | ---- | -------------- |
@@ -73,9 +73,9 @@ The Product [Key Review](https://handbook.gitlab.com/handbook/key-review/) is ho
 
 ## Product Group Conversation Leader Rotation
 
-The Product [Group Conversation](https://about.gitlab.com/handbook/group-conversations/) is hosted by a member of the [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) team. The Group Conversations will either reference a previous Product Key Review or Product Group Conversation presentation, depending on which is most recent. Details on how to drive the tasks will be in the [automatated issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Group-Conversation.md) that will be assigned to the GC host 4 weeks prior to the actual GC date by the Product EBA. 
+The Product [Group Conversation](/handbook/group-conversations/) is hosted by a member of the [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) team. The Group Conversations will either reference a previous Product Key Review or Product Group Conversation presentation, depending on which is most recent. Details on how to drive the tasks will be in the [automatated issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Group-Conversation.md) that will be assigned to the GC host 4 weeks prior to the actual GC date by the Product EBA. 
 
-For more details, visit the Group Conversations [handbook page](https://about.gitlab.com/handbook/group-conversations/#additional-consideration-for-functional-presentations)
+For more details, visit the Group Conversations [handbook page](/handbook/group-conversations/#additional-consideration-for-functional-presentations)
 
 | Date | Host | Planning Issue |
 | ---- | ---- | -------------- |
@@ -131,7 +131,7 @@ are for them, ensuring that there's a productive ongoing dialogue with feedback
 coming in and then features being adopted internally. [Internal customers](/handbook/values/#dogfooding)
 should have at least a monthly check-in, with the internal customer section
 in the category epic kept up to date.
-- Represent their portfolio in day-to-day interaction with [D](https://about.gitlab.com/company/team/structure/#director-group) and [E](https://about.gitlab.com/company/team/structure/#e-group) groups, with
+- Represent their portfolio in day-to-day interaction with [D](/handbook/company/team/structure/#director-group) and [E](/handbook/company/team/structure/#e-group) groups, with
 particular responsibility to prioritize inputs from leadership into something
 stable in the short/medium term and actionable by the PMs, to align efforts
 across teams, and to raise visibility of wins by the PM to the broader team
@@ -151,7 +151,7 @@ and always clearly communicated.
 coaching should be provided consistently, clearly, and in an actionable way, with
 the intent of avoiding "surprise problems". In the same vein, following up on
 requests for context, advice, and so on from the PMs is a priority. The
-[socratic method](/company/team/structure/#management-group) is
+[socratic method](/handbook/company/team/structure/#management-group) is
 recommended as a great approach that works particularly well with PMs.
 - Prioritize hiring, being sure to include PMs (and EMs/team members) who will work
 with the new person in the process.

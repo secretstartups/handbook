@@ -20,7 +20,7 @@ Anyone can contribute to the documentation. Follow our [GitLab documentation gui
 
 ## About Us
 
-[The Technical Writing team](https://about.gitlab.com/company/team/?department=technical-writing) includes:
+[The Technical Writing team](/handbook/company/team/?department=technical-writing) includes:
 - A group of [Technical Writers](/job-families/product/technical-writer/).
 - Two [Technical Writing Managers](/job-families/product/technical-writing-manager/).
 - A [Senior UX Fullstack Engineer](/job-families/product/ux-fullstack-engineer/).
@@ -173,7 +173,7 @@ For collaboration in other projects and subjects:
 | [Style Guide](#style-guide)                                                                                     | [Suzanne Selhorn]                                                                                                                              |
 | [Testing/Vale/markdownlint](#testing)                                                                           | [Diana Logan]                                                                                                                                  |
 | [Documentation handbook](/handbook/documentation/)                                                              | [Diana Logan]                                                                                                                                  |
-| [Technical Writing handbook](/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
+| [Technical Writing handbook](https://about.gitlab.com/handbook/engineering/ux/technical-writing/)                                       | [Susan Tacker]                                                                                                                                 |
 | [Tutorials](https://docs.gitlab.com/ee/tutorials/)                                                              | [Kati Paizee]                                                                                                                                  |
 | [What's new](https://docs.gitlab.com/ee/administration/whats-new.html)                                          | [Kati Paizee]                                                                                                                                  |
 | [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)                            | [Ashraf Khamis], [Axil], [Evan Read], [Fiona Neill], [Jon Glassman], [Lorena Ciutacu], [Marcel Amirault], [Phillip Wells], [Russell Dickenson] |
@@ -336,7 +336,7 @@ The assigned writer does not need to do the work. When they check the queue, the
 Along with Technical Writers' normally assigned work, there are recurring tasks
 that need to be regularly completed:
 
-- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
+- **Release Post Structural Check:** The Technical Writing Lead [reviews the content](https://about.gitlab.com/handbook/marketing/blog/release-posts/#tw-lead) for the release post published at the end of each milestone. See the [Release Post Scheduling](https://about.gitlab.com/handbook/marketing/blog/release-posts/managers/) Handbook page for each milestone's assigned writer.
 - **Monthly doc version:** At the end of each milestone, a Technical Writer [creates the monthly version for the docs site](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md). The Technical Writer assigned to this task is the writer who completed the release post structural check for the previous milestone.
 - **Docs project maintenance tasks:** Each month, one Technical Writer is assigned to complete maintenance tasks for the documentation site and its content. This involves [creating a new issue using the `tw-monthly-tasks` template](https://gitlab.com/gitlab-org/technical-writing/-/issues/new?issue[title]=Docs%20project%20maintenance%20tasks%2C%20Month%20YYYY&issuable_template=tw-monthly-tasks) in the `technical-writing` project to track maintenance work. If additional work beyond what's described in the maintenance issue is required, the Technical Writer creates merge requests and additional issues as needed.
 
@@ -420,7 +420,7 @@ can efficiently perform the necessary verification.
 
 ### Review workflow
 
-To balance [velocity](/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
+To balance [velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity) and quality, the writers use this workflow:
 
 - When a writer opens a merge request, another writer must review and merge. Peer reviews are important to maintain quality and help the team build a common voice.
 
@@ -461,14 +461,14 @@ If you have content that needs a specific assignee, or if you have a merge reque
 
 There are occasions when Technical Writers may be too busy for general team merge request reviews, and need to focus on their groups or other priorities. In those cases, Technical Writers can update their GitLab status by selecting the **Busy** checkbox and adding the 🔴 `:red_circle:`, which prevents their name from appearing in the reviewer roulette.
 
-For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](/handbook/engineering/releases/), to focus on release posts and other requirements.
+For example, Technical Writers on release duty for a milestone should add the busy indicator to their status for the week preceeding the [release date](https://about.gitlab.com/handbook/engineering/releases/), to focus on release posts and other requirements.
 
 In all other cases, while Technical Writers can add (and remove) the busy indicator from their profiles, we ask that the busy indicator be in place for no longer than two days at a time, and be employed no more than once every two weeks. (Noting that the use of the busy indicator during releases doesn't affect this.) If you need more time not participating in the review roulette, be sure to talk to your manager so they can help (which may include additional use of the busy indicator).
 
 ## Merge rights
 
 The Technical Writing team is given merge rights (through
-[Maintainer access](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
+[Maintainer access](https://about.gitlab.com/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer))
 to GitLab projects as part of their role. Not all developers get Maintainer access. Technical
 writers should use this privilege responsibly.
 

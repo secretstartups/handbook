@@ -17,7 +17,7 @@ Under The Occupational Health and Saftey Act, employers must provide computer gl
 
 The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only and not required for general day to day use.
 
-Please submit your prescription to Total Rewards for approval. Once approved, please send your receipts to expensify for reimbursement. 
+Please submit your prescription to Total Rewards for approval. Once approved, please send your receipts to expensify for reimbursement.
 
 
 

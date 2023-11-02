@@ -31,13 +31,13 @@ The intent of this review and collaboration workflow is not to "block" but to he
 - support from Product Operations for successful rollout to and adoption by the Product team
 
 #### Product Management Meeting (Bi-weekly)
-**DRI:** [Product Operations](/company/team/#fseifoddini) and [Chief Product Officer](/company/team/#david)
+**DRI:** [Product Operations](/handbook/company/team/#fseifoddini) and [Chief Product Officer](/handbook/company/team/#david)
 
 - **What:** A bi-weekly team meeting for Product. All team members can add items to the agenda either as a Read-Only, or as a discussion item.
 - **Who:** Product along with interested parties across departments. The meeting is open to all GitLab team members.
 - **When:** Every other Tuesday for 50 minutes. The start time alternates each week between <time datetime="15:00">3 pm UTC (10 am ET / 7 am PT)</time> and <time datetime="21:00">9 pm UTC (4 pm ET / 1 pm PT)</time> to accommodate timezones.
 - **Format:** The agenda is curated and moderated by Product Operations in partnership with the Chief Product Officer
-- **Recordings:** The meetings are set as Private Recordings and are saved to the [Product Team](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko7HO427nXkoz9kovi_2dBi) playlist on YouTube Unfiltered. If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
+- **Recordings:** The meetings are set as Private Recordings and are saved to the [Product Team](https://www.youtube.com/playlist?list=PL05JrBw4t0Ko7HO427nXkoz9kovi_2dBi) playlist on YouTube Unfiltered. If you are unable to view a video, please ensure you are logged in as [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube).
 
 **Potential Topics:**
 
@@ -51,7 +51,7 @@ The intent of this review and collaboration workflow is not to "block" but to he
 All product team members are encouraged to add agenda items. The Chief Product Officer will prioritize the discussion items, and any items we can't get to in the allotted 50 min will be moved to the following meeting. If you are a Product team member and are unable to attend the call, you may add items for `READ-ONLY` to the agenda.
 
 #### Product Leadership Meeting (Weekly)
-**DRI:** [Chief Product Officer](/company/team/#david) and  [EBA to Chief Product Officer](/company/team/#gschwam)
+**DRI:** [Chief Product Officer](/handbook/company/team/#david) and  [EBA to Chief Product Officer](/handbook/company/team/#gschwam)
 
 The Chief Product Officer and their direct reports track our highest priority Product Team initiatives. If one of those initiatives needs to be discussed synchronously the assigned individual should add it to the meeting's [GoogleDoc agenda](https://docs.google.com/document/d/1yN2n1ei24HiM5G7tBxaqK4yNPYreKpLZ3CG3nsEFOR4/edit#heading=h.384zmpcao5l6). Directors can delegate and coordinate cross-product initiatives as needed based on the issues in this board.
 
@@ -60,7 +60,7 @@ As part of this Product Leadership Meeting we also [review progress towards our 
 Non-public items for discussion should be added directly to the [agenda document](https://docs.google.com/document/d/1yN2n1ei24HiM5G7tBxaqK4yNPYreKpLZ3CG3nsEFOR4/edit#heading=h.384zmpcao5l6) for the meeting.
 
 #### Section Performance Indicator Review (Monthly)
-**DRI:** Appropriate [Product Section](/handbook/product/categories) Leader & [Senior Director, Product Monetization](/company/team/#justinfarris)
+**DRI:** Appropriate [Product Section](/handbook/product/categories) Leader & [Senior Director, Product Monetization](/handbook/company/team/#justinfarris)
 
 - **What:** A monthly meeting for [Product  Sections](/handbook/product/categories/#devops-stages) to provide updates on  Performance Indicators, inclusive of their Stages and Groups and the cross-functional team. The main deliverable from the team is for each group to clearly show what they are doing in the next month to drive their metrics in the right direction.
 - **When:** During the last two weeks of every month 
@@ -85,7 +85,7 @@ Non-public items for discussion should be added directly to the [agenda document
 - All Sections will leverage and personalize this [agenda template](https://docs.google.com/document/d/1hKGU8hN_SpudlV-SnCu821EmMwgLVppJsXZmY4Gom4A/edit). 
 
 #### Product Direction Showcases 
-**DRIs:** [Director, Verify & Package](/company/team/#jreporter) and [Product Operations](/company/team/#fseifoddini)
+**DRIs:** [Director, Verify & Package](/handbook/company/team/#jreporter) and [Product Operations](/handbook/company/team/#fseifoddini)
 
 - **What:** A monthly meeting for 4 stages to present 10-minutes on their direction as well as provide a deep dive or demo into a recent product delivery. 
 - **When:** Monthly, rotating between EMEA and NA Timezone 
@@ -117,9 +117,9 @@ the product is developed with [directly responsible individuals](/handbook/peopl
 
 At GitLab, we develop our product for self-managed as well as SaaS-hosted customers. We realize that while we have DRIs there are many stakeholders who who must have input, including Engineering, Quality, UX, Product, Security, and Infrastructure. For example, the Security team often has the deeper context of what it takes to run a secure SaaS system. Similarly, the Infrastructure team has insights into what we should build into the product to reduce toil and enable efficient, reliable, performant, and scalable systems.
 
-We call this the [Product Group](/company/team/structure/#product-groups) model. It is an extension of the classic quad concept at the leadership level and is currently comprised of Development, Quality, User Experience, Infrastructure, Product, and Security.
+We call this the [Product Group](/handbook/company/team/structure/#product-groups) model. It is an extension of the classic quad concept at the leadership level and is currently comprised of Development, Quality, User Experience, Infrastructure, Product, and Security.
 
-The Product Group can be used to facilitate a [global optimization](/handbook/values/#global-optimization), including product-wide [technical debt](/handbook/engineering/workflow/#technical-debt).
+The Product Group can be used to facilitate a [global optimization](/handbook/values/#global-optimization), including product-wide [technical debt](https://about.gitlab.com/handbook/engineering/workflow/#technical-debt).
 
 ### Working with Product Management across the company 
 
@@ -135,7 +135,7 @@ To request approval for an increase in the expected spend for a pre-existing ite
 
 ### Working with Content Marketing
 
-Content marketers and Product Managers can partner together when using a Blog to communicate product changes and engaging the market with thoughtful changes. See the [blog post handbook page](/handbook/marketing/brand-and-product-marketing/content/content-marketing/#blog-post) for guidelines on when and how to start engaging Content Marketing for creating a blog post for a feature.
+Content marketers and Product Managers can partner together when using a Blog to communicate product changes and engaging the market with thoughtful changes. See the [blog post handbook page](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/content/content-marketing/#blog-post) for guidelines on when and how to start engaging Content Marketing for creating a blog post for a feature.
 
 ### Working with Product Marketing (PMM)
 
@@ -239,7 +239,7 @@ Here are some practices for how PMs work with groups outside of GitLab.
 #### Working with community contributors
 
 Product managers are the DRI for their group's [product direction](/handbook/product/product-processes/#managing-your-product-direction)
-which must include delivering on our greater company strategy of [dual flywheels](/company/strategy/#dual-flywheels).
+which must include delivering on our greater company strategy of [dual flywheels](/handbook/company/strategy/#dual-flywheels).
 [Community contributions](https://about.gitlab.com/community/contribute/) are a critical
 part of the product direction.
 To support contributions product managers may consider the following guidelines:

@@ -43,7 +43,7 @@ Maintainers are GitLab designers who:
 
 Every project has at least one maintainer, but most have multiple, and some projects (like `gitlab-ui` and `design.gitlab.com`) have separate maintainers for design and frontend. As with reviewers, design maintainers can be found on the list of [GitLab Engineering Projects][eng-projects].
 
-Read more about what makes great maintainers in the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/#maintainer).
+Read more about what makes great maintainers in the [Engineering Review Workflow](https://about.gitlab.com/handbook/engineering/workflow/code-review/#maintainer).
 
 ### Maintainer types
 
@@ -54,7 +54,7 @@ Design maintainers are divided into types of maintainership. This helps maintain
 | `design.gitlab.com` |  `Figma` (Pajamas UI Kit): reviews file organization, object properties, interaction design, accessibility, visual design, and technical feasibility.<br>`UX` (Pajamas website): reviews content meaning, terminology, and structure across all sections of the website. |
 | `gitlab-svgs` | `Figma` (Pajamas UI Kit): reviews icon and illustration file organization, object properties, and visual design. |
 
-If you are interested in becoming a Maintainer of UI (`.scss`) for the `gitlab` or `gitlab-ui` projects, please follow the [Engineering Review Workflow](/handbook/engineering/workflow/code-review/).
+If you are interested in becoming a Maintainer of UI (`.scss`) for the `gitlab` or `gitlab-ui` projects, please follow the [Engineering Review Workflow](https://about.gitlab.com/handbook/engineering/workflow/code-review/).
 
 ### How to become a maintainer
 
@@ -68,7 +68,7 @@ Three key aspects of that process:
 
 #### Trainee maintainer
 
-**We're not able to support more trainees at the moment. We can only accommodate trainee's once we have a [Support Maintainer](/handbook/engineering/projects/#design.gitlab.com) available and there is a need for additional maintainers. If you have an interest in becoming a maintainer, we encourage you to talk with your manager!**
+**We're not able to support more trainees at the moment. We can only accommodate trainee's once we have a [Support Maintainer](https://about.gitlab.com/handbook/engineering/projects/#design.gitlab.com) available and there is a need for additional maintainers. If you have an interest in becoming a maintainer, we encourage you to talk with your manager!**
 
 **Note: While maintainers are responsible for certain projects, becoming one is not required for career progression and this should not be the primary reason for becoming a trainee.**
 

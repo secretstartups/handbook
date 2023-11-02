@@ -43,7 +43,7 @@ These are core principles we believe world class product organizations exhibit. 
 From development teams to marketing organizations, everyone needs to collaborate
 on digital content. Content should be open to suggestions by a wide number of
 potential contributors. Open contribution can be achieved by using a mergeable
-file format and distributed version control. The [mission of GitLab](/company/mission/#mission)
+file format and distributed version control. The [mission of GitLab](/handbook/company/mission/#mission)
 is to **allow everyone to collaborate on all digital content** so people can
 cooperate effectively and achieve better results, faster.
 
@@ -96,7 +96,7 @@ There are scenarios when an MVC approach is not advised. These include:
 
 ### Iteration
 
-An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
+An MVC approach is a byproduct of our spirit of iteration. That means we [break problems down](/handbook/product-development-flow/#build-phase-1-plan) as [small as possible](/handbook/values/#make-small-merge-requests), use [merge request rate as a performance indicator](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#development-department-mr-rate), and focus on [reduced cycle time](/handbook/values/#reduce-cycle-time). Thinking iteratively is not always intuitive, and breaking certain topics or projects down can be challenging. Here's a helpful [video](https://www.youtube.com/watch?v=zwoFDSb__yM) from our CEO with guidance on how to think more iteratively.
 
 Here is a [great video](https://www.youtube.com/watch?v=MwHHErfX9hI) that illustrates how to build MVCs using Iteration. It shows Lego climbing obstacles. The first design fails. The second one can climb a book and so on. It also illustrates how modularity and good interfaces help with iteration as things get complex.
 
@@ -158,7 +158,7 @@ We have achieved many successes following this approach:
 
 - [Code Quality](https://docs.gitlab.com/ee/user/project/merge_requests/code_quality.html) in CI/CD pipelines by embedding [CodeClimate](https://codeclimate.com/)
 - [Feature Flags](https://docs.gitlab.com/ee/operations/feature_flags.html) by using the [Unleash](https://github.com/Unleash/unleash) client library
-- [Mobile publishing](/blog/2019/03/06/ios-publishing-with-gitlab-and-fastlane/) by writing about how to utilize [FastLane](https://fastlane.tools/) with GitLab
+- [Mobile publishing](https://about.gitlab.com/blog/2019/03/06/ios-publishing-with-gitlab-and-fastlane/) by writing about how to utilize [FastLane](https://fastlane.tools/) with GitLab
 
 There are also many more examples throughout the company where this has been successful.
 As a product manager you should be monitoring the world of Open Source as it
@@ -314,7 +314,7 @@ planning aspirationally means that we won't always be able to deliver everything
 that we wanted to try in every release, and similar to our [OKRs](/handbook/ceo/#three-levels-of-performance),
 we believe this is a good thing. We don't want to shy away from challenging
 ourselves and always want to keep a sense of urgency, and aiming for more helps
-us do that. Also see [the importance of velocity](/handbook/engineering/development/principles/#the-importance-of-velocity)
+us do that. Also see [the importance of velocity](https://about.gitlab.com/handbook/engineering/development/principles/#the-importance-of-velocity)
 
 We arrived at our preference for ambitious planning after measuring our velocity and finding that our velocity was unchanged whether we scheduled ambitiously or scheduled for providing slack.
 
@@ -454,7 +454,7 @@ company successful as well. This means that we should:
 
 ### No artificial limits in Core
 
-Per [GitLab Stewardship](/company/stewardship/#promises), we will not introduce _artificial_ limits in Core. Artificial means
+Per [GitLab Stewardship](/handbook/company/stewardship/#promises), we will not introduce _artificial_ limits in Core. Artificial means
 arbitrarily setting a small number (such as: 1) as a limit on a given GitLab object category,
 that would incur _no additional_ effort or cost had we chosen a larger number. The additional
 effort includes product, design, and engineering effort to create the feature in the first place,
@@ -576,7 +576,7 @@ With this in mind, below are some product guidelines to consider:
     - By having such an incredible breadth, GitLab has _the opportunity to add value to external features that they could never otherwise have_, if not integrated with GitLab. For example, our excellent **To Dos** feature puts actionable work at the fingertips of developers, and it's a feature somewhat unique to GitLab. Many other tools make it harder to identify work that needs immediate action, so by integrating those tools with this part of GitLab, **we can make them even more powerful than they'd be alone.**
 - **Consider the right buyer for pricing**
     - While we typically think about who is _using the functionality_ as an indicator of our buyer, this may not be appropriate for your integration.
-    - When an integration is driven by an organizational requirement (such as having all teams in the company use Jira), [Buyer Based Tiering](/company/pricing/#buyer-based-tiering-clarification) likely indicates that the integration is for _multiple team_ (Premium) or _strategic organizational_ (Ultimate) use.
+    - When an integration is driven by an organizational requirement (such as having all teams in the company use Jira), [Buyer Based Tiering](/handbook/company/pricing/#buyer-based-tiering-clarification) likely indicates that the integration is for _multiple team_ (Premium) or _strategic organizational_ (Ultimate) use.
     - When an integration is _extending GitLab capabilities_, the buyer is more likely to be the end-user, similar to how we'd think about pricing other GitLab functionality.
 - **Low level of shame still applies here**
     - When we start to integrate with another product, it's almost like opening a whole new Category of work. With this in mind, a friendly reminder that [low level of shame](/handbook/values/#low-level-of-shame) applies, just like it would anywhere else. The integration may not be very valuable _today_, but it's just a starting place, and we should use our first iteration to validate what belongs in the next one.
@@ -619,7 +619,7 @@ And for **developers of GitLab** including the third parties, this has significa
 1. Their work isn't limited in functionality, because they're changing the code of the product itself.
 1. Their code will be tested along with the rest of the product as things change refactoring is easier, reducing the likelihood that it suffers from [software atrophy](https://vijay.tech/articles/wiki/SoftwareEngineering/SoftwareAtrophyAnExample) because something is hard to change.
 1. Community effort is not wasted on developing multiple plugins that all ultimately do the same thing and compete with each other for usage.
-1. Developers don't have to sacrifice [velocity in favor of predictability](/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
+1. Developers don't have to sacrifice [velocity in favor of predictability](https://about.gitlab.com/handbook/engineering/development/principles/#velocity-over-predictability), since they don't have to worry about breaking the plugin API.
 
 Overall, we believe that this approach creates the best possible experience for both the users of and the contributors to GitLab, and to that end we encourage people to [contribute functionality to GitLab directly](/community/contribute/).
 
@@ -648,7 +648,7 @@ For more guidance on the feature naming process, see [naming features](https://a
 ### Next Generation
 
 While our [big, hairy, audacious goal](https://www.jimcollins.com/concepts/bhag.html) spans all development processes, personas, and use-cases, there are primary targets in each one of these venues.
-When considering prioritization we should first aim to provide complete [maturity](/direction/maturity/) for developers building cloud native applications in a modern way prior to moving to other development methodologies, personas, and application types.
+When considering prioritization we should first aim to provide complete [maturity](https://about.gitlab.com/direction/maturity/) for developers building cloud native applications in a modern way prior to moving to other development methodologies, personas, and application types.
 
 #### Modern first
 
@@ -692,5 +692,5 @@ We provide customer support to paying customers on all features that are in the 
 This means a feature in Core, should get customer support in all paid tiers.
 For example, when there is a feature that is available in the lowest paid tier, but only has customer support in higher tiers,
 the feature should be removed from that lowest paid tier.
-In accordance with our [stewardship policy](/company/stewardship/) we can never remove features from Core into paid tiers,
+In accordance with our [stewardship policy](/handbook/company/stewardship/) we can never remove features from Core into paid tiers,
 but we can build additional features around it which are available to paying customers only.

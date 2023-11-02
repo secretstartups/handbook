@@ -101,7 +101,7 @@ See the table above. If you are recording a video that requires a disclaimer but
 
 #### What limitations do we have on sharing specific instrumentation data in public issues?
 
-None, so long as the instrumentation data does not contain [sensitive](https://about.gitlab.com/handbook/legal/safe-framework/#sensitive), [financial](https://about.gitlab.com/handbook/legal/safe-framework/#financial), or [internal-only](https://about.gitlab.com/handbook/communication/confidentiality-levels/#internal) data.
+None, so long as the instrumentation data does not contain [sensitive](https://about.gitlab.com/handbook/legal/safe-framework/#sensitive), [financial](https://about.gitlab.com/handbook/legal/safe-framework/#financial), or [internal-only](/handbook/communication/confidentiality-levels/#internal) data.
 
 #### What third-party materials (like images, diagrams, and quotes) can be included in publicly-available artifacts?
 

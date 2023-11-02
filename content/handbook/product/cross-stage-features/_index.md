@@ -14,7 +14,7 @@ Here are some guidelines for thinking about "Which stage should do this work?":
 
 1. If a stage wants to develop new functionality that is core to their value, even if it _happens to live inside_ a feature owned by another stage, they should still build it.
 1. Alternately, if the functionality lives inside another stage's feature, but is also very-much a _"nice-to-have"_, they should consider putting it in an issue and labeling it appropriately. This way, the stage that owns that feature can prioritize it at a later date when it makes sense for them to do so.
-1. External requests for integration with 3rd-party systems will be handled by the [`Manage:Import and Integrate` group](/direction/manage/import_and_integrate/) by default. But again, if the feature is core to a stage's value proposition, they should go ahead and build it themselves.
+1. External requests for integration with 3rd-party systems will be handled by the [`Manage:Import and Integrate` group](https://about.gitlab.com/direction/manage/import_and_integrate/) by default. But again, if the feature is core to a stage's value proposition, they should go ahead and build it themselves.
 
 This model allows teams to be flexible and calibrate their priorities accordingly, and no team should ever be "blocked." Exceptions may be items where a change requires anything that a software engineer would not be allowed to do, such as a production change, in which case the infrastructure team would be the blocker.
 
@@ -22,7 +22,7 @@ While any team can contribute features to any stage, it is recommended to loop i
 
 Below is a guide to help other product groups understand how to work on these areas and quickly locate the best parties who may assist on the subject matter.
 
-This section is modeled after the engineering handbook version of [ownership of shared services and components](/handbook/engineering/development/#ownership-of-shared-services-and-components).
+This section is modeled after the engineering handbook version of [ownership of shared services and components](https://about.gitlab.com/handbook/engineering/development/#ownership-of-shared-services-and-components).
 
 ### Existing Cross-Stage Capabilities
 - [Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/) - also see [collaboration process](/handbook/product/cross-stage-features/merge-requests) 

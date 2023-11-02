@@ -30,14 +30,14 @@ GitLab Project: [Verify](https://gitlab.com/gitlab-org/verify-stage)
 
 Verify teams:
 
-- [Verify:Pipeline Execution](/handbook/engineering/development/ops/verify/pipeline-execution/)
-- [Verify:Pipeline Authoring](/handbook/engineering/development/ops/verify/pipeline-authoring/)
-- [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
-- [Verify:Pipeline Security](/handbook/engineering/development/ops/verify/pipeline-security/)
+- [Verify:Pipeline Execution](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/)
+- [Verify:Pipeline Authoring](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-authoring/)
+- [Verify:Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/)
+- [Verify:Pipeline Security](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-security/)
 
 ### What do y'all do? 
 
-The purpose of this product group are described by the [Verify stage direction](/direction/ops/#verify). This is inclusive, though not limited to, the pipeline experience, creating or authoring .gitlab-ci.yml files, executing jobs in a pipeline, and various testing capabilties in CI/CD.  
+The purpose of this product group are described by the [Verify stage direction](https://about.gitlab.com/direction/ops/#verify). This is inclusive, though not limited to, the pipeline experience, creating or authoring .gitlab-ci.yml files, executing jobs in a pipeline, and various testing capabilties in CI/CD.  
 
 ![Verify Banner](verify_groups_banner.jpg)
 
@@ -45,7 +45,7 @@ The purpose of this product group are described by the [Verify stage direction](
 
 While generally the functions of Continuous Integration and Runners are interdependent (runners are the build agents that execute CI jobs), as Verify categories they represent distinct feature areas. However, it is sometimes difficult to discern which team or product manager is the DRI for a feature or capability that doesn't seem to fit neatly within the high-level categories and this section aims to clarify those boundaries.
 
-At GitLab, using [RADCIE](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#radcie) to assign responsibilities means everyone is Consulted and Informed, but to highlight critical team members who must be consulted the table below specifies who explicitly.
+At GitLab, using [RADCIE](/handbook/people-group/directly-responsible-individuals/#radcie) to assign responsibilities means everyone is Consulted and Informed, but to highlight critical team members who must be consulted the table below specifies who explicitly.
 
 The noted DRI still owns decision-making and is still responsible for notifying/consulting critical team members, however the 'Must be Consulted' designee(s) takes the guesswork out of who to involve when these team members may not be part of the core engineering team aligned to the DRI product manager.
 
@@ -69,7 +69,7 @@ We work across other teams often and are striving to get better at engaging with
 
 #### Product Marketing Enagement 
 
-We partner really closely with [Product Marketing Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/). In the Verify Stage, we have a stable counterpart assigned, as defined in the [PMM Team Structure](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/#pmm-team-structure), which aligns to the [CI Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/).
+We partner really closely with [Product Marketing Management](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/). In the Verify Stage, we have a stable counterpart assigned, as defined in the [PMM Team Structure](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/#pmm-team-structure), which aligns to the [CI Use Case](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/).
 
 We have four main processes: 
 
@@ -127,6 +127,6 @@ More details to come
 We want to encourage and support our open source community as nuch as possible. We have two measures of success: 
 
 1. Merged MRs from the community in the [Verify Stage](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=devops%3A%3Averify&label_name[]=Community%20contribution)
-1. [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
+1. [MRARR](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#mrarr)
 
 Our process for enabling merge requests from the community can be found on the [Verify Team Page]().
