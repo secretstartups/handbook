@@ -38,7 +38,7 @@ Sometimes people have an awesome story to share but can't find the time to put w
 
 The submission is open to everyone including wider community members. If you have any question, please ask in the [#dev-evangelism-and-technical-marketing Slack channel](https://gitlab.slack.com/archives/CMELFQS4B) (internal for team members) and mention `@abuango` (or [Twitter](https://twitter.com/sarki247)) in any ongoing GitLab issue. 
 
-You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/event-support/#presentations-at-events). Review examples:
+You can request help with reviewing CFP abstract drafts and talk slide from the [Developer Evangelism team](/handbook/marketing/developer-relations/developer-evangelism/cfps/). Review examples:
 
 - [Efficient Pipelines with CI/CD Templates abstract review](https://gitlab.com/gitlab-com/Product/-/issues/3866#note_852899090)
 - [Secure CI/CD using JWT tokens abstract review](https://gitlab.com/gitlab-com/Product/-/issues/4474)
