@@ -69,7 +69,7 @@ Follow these steps to obtain legal approval and enter into a CLA on behalf of Gi
 
  1. Check the [Third-party CLA Tracker](https://docs.google.com/spreadsheets/d/106bLmkl6IofWN__iwnu0UwQZzdm5JvDf8qdLV_4DTh8/edit#gid=0) to verify whether there is already a CLA in place in respect of the project you want to contribute to. 
  1. If there's no CLA already in place listed in the [Third-party CLA Tracker](https://docs.google.com/spreadsheets/d/106bLmkl6IofWN__iwnu0UwQZzdm5JvDf8qdLV_4DTh8/edit#gid=0), open a new [ Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) in the [Legal and Compliance Project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues).
- 1. Apply the `Licensing` label to the issue.
+ 1. Apply the `CLA` label to the issue.
  1. Include details of the project you are contributing to, and add the CLA for approval, either as an attachment or a hyperlink, to the issue.
  1. Legal will review the CLA, requesting additional information where necessary, and approve.
  1. If an email address and/or account is required to enter into the CLA, the `cla_managers`[at] `gitlab.com` email address should be used. Access to this Google Group can be requested and granted via the issue if required. 
