@@ -1,5 +1,5 @@
 ---
-
+aliases: /handbook/business-technology/data-team/documentation
 title: "Data Team Documentation Guide"
 description: "This documentation method is not currently used by the data team, but is still a good guide for how to think about the different types of documentation."
 ---

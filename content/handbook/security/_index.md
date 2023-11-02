@@ -379,7 +379,7 @@ The [Security Logging team]({{< ref "security-engineering/security-logging" >}})
 
 ##### Security Automation
 
-[Security Automation]({{< ref "automation" >}}) specialists help us scale by creating tools that perform common tasks automatically. Examples include building automated security issue triage and management, proactive vulnerability scanning, and defining security metrics for executive review. Initiatives for this specialty also include:
+[Security Automation]({{< ref "./security-engineering/automation.md" >}}) specialists help us scale by creating tools that perform common tasks automatically. Examples include building automated security issue triage and management, proactive vulnerability scanning, and defining security metrics for executive review. Initiatives for this specialty also include:
 
 - Assist other security specialty teams in their automation efforts
 - Assess security tools and integrate tools as needed

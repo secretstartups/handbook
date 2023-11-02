@@ -75,7 +75,7 @@
   - name: Handbook Changelog
     url: changelog
   - name: Handbook Roadmap
-    url: roadmap
+    url: /handbook/about/roadmap
   - name: Handbook Support
     url: /content/handbook/about/support.md
   - name: Handbook On-Call

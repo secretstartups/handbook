@@ -15,7 +15,7 @@ This is anchored in the belief that building a balanced workforce will enable Gi
 
 ## Our Guiding Principles
 
-The guiding principles for the Emerging Talent Program cascade from GitLab’s [hiring principles]({{< ref "principles" >}}) and will set us up to drive change in our organization over the next three years:
+The guiding principles for the Emerging Talent Program cascade from GitLab’s hiring principles and will set us up to drive change in our organization over the next three years:
 
 - **Inclusion First**
     - We build experiences and programming that contribute to and increases the representation of underrepresented communities at GitLab by being open to anyone, whoever they are, wherever they are*.
