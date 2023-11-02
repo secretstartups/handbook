@@ -108,24 +108,18 @@ This is the order we have identified to migrate content but it is subject to cha
 
 #### What is moving next?
 
-**What are we moving:** People-Group
+**What are we moving:** Product
 
-**Status** Expected to complete: {{% migration-finish-date section="people-group" %}}
+**Status** Expected to complete: {{% migration-finish-date section="product" %}}
 
 #### What content is moving
 
-The following content has been earmarked as the next content to move.  This will be done as a set of merge requests from {{% migration-start-date section="people-group" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="people-group" %}}.
+The following content has been earmarked as the next content to move.  This will be done as a set of merge requests from {{% migration-start-date section="product" %}}.  The content will then be checked, markdown errors fixed and merged in to the new handbook.  The content on the about site will be removed and redirects setup {{% migration-finish-date section="product" %}}.
 
-- [x] Anti-Harassment
-- [x] Entity
-- [ ] Hiring
-- [x] Incentives
-- [x] Labor and Employment
-- [x] Leadership
-- [x] Paid Time Off
-- [x] People Group
-- [x] Total Rewards
-- [x] Travel
+- [ ] Acquisitions
+- [x] Business Technology
+- [x] Product
+- [x] Product Development
 
 #### How will this be done
 
@@ -249,7 +243,7 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Security
 
-**Expected Date:** {{% migration-finish-date section="security" %}}
+**Completed:** {{% migration-finish-date section="security" %}}
 
 **Content to move:**
 
@@ -260,13 +254,13 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### People Group
 
-**Expected Date:** {{% migration-start-date section="people-group" %}}
+**Completed:** {{% migration-start-date section="people-group" %}}
 
 **Content to move:**
 
 - [x] Anti-Harassment
 - [x] Entity
-- [ ] Hiring
+- [x] Hiring
 - [x] Incentives
 - [x] Labor and Employment
 - [x] Leadership
@@ -279,26 +273,26 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 
 #### Culture
 
-**Expected Date:** {{% migration-start-date section="culture" %}}
+**Completed:** {{% migration-start-date section="culture" %}}
 
 **Content to move:**
 
-- [ ] Company Culture
+- [x] Company Culture
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#culture)
 
 #### Finance
 
-**Expected Date:** {{% migration-start-date section="finance" %}}
+**Completed:** {{% migration-start-date section="finance" %}}
 
 **Content to move:**
 
-- [ ] Board Meetings
-- [ ] Finance
-- [ ] Internal Audit
-- [ ] Spending Company Money
-- [ ] Stock Options
-- [ ] Tax
+- [x] Board Meetings
+- [x] Finance
+- [x] Internal Audit
+- [x] Spending Company Money
+- [x] Stock Options
+- [x] Tax
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#finance)
 
@@ -309,9 +303,9 @@ A full breakdown of this sections content files can be viewed on our [Migration 
 **Content to move:**
 
 - [ ] Acquisitions
-- [ ] Business Technology
-- [ ] Product
-- [ ] Product Development
+- [x] Business Technology
+- [x] Product
+- [x] Product Development
 
 A full breakdown of this sections content files can be viewed on our [Migration details page](/handbook/about/migration-details/#product)
 
