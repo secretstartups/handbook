@@ -11,7 +11,7 @@ The Marketing Campaign Manager (Intermediate) reports to Manager, Marketing Camp
 
 #### Marketing Campaign Manager (Intermediate) Job Grade
 
-The Marketing Campaign Manager (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Marketing Campaign Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Marketing Campaign Manager (Intermediate) Responsibilities
 
@@ -50,7 +50,7 @@ The Senior Marketing Campaign Manager reports to Manager, Marketing Campaigns.
 
 #### Senior Marketing Campaign Manager Job Grade
 
-The Senior Marketing Campaign Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Marketing Campaign Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Marketing Campaign Manager Responsibilities
 
@@ -73,7 +73,7 @@ The Staff Marketing Campaign Manager reports to Manager, Marketing Campaigns.
 
 #### Staff Marketing Campaign Manager Job Grade
 
-The Staff Marketing Campaign Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Marketing Campaign Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Marketing Campaign Manager Responsibilities
 
@@ -98,7 +98,7 @@ The Manager, Marketing Campaigns reports to Senior Manager, Campaigns, ABM & Lif
 
 #### Manager, Marketing Campaigns Job Grade
 
-The Manager, Marketing Campaigns is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Marketing Campaigns is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Marketing Campaigns Responsibilities
 
@@ -131,7 +131,7 @@ The Senior Manager, Marketing Campaigns reports to VP of Integrated Marketing.
 
 #### Senior Manager, Marketing Campaigns Job Grade
 
-The Senior Manager, Marketing Campaigns is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Marketing Campaigns Responsibilities
 
@@ -244,4 +244,4 @@ Phone screen with a GitLab Recruiting Team Member
 Video Interview with the Hiring Manager
 Team Interviews with 1-4 Team Members
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

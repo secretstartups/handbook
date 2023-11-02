@@ -4,11 +4,11 @@ title: "VP, Field Operations"
 
 ## Vice President, Field Operations
 
-The Vice President, Field Operations is responsible for bringing a strategic vision and innovative approach in creating, managing and executing strategic programs that will drive key revenue, margin, and growth opportunities globally for GitLab. The Vice President, Field Operations reports to the [Chief Revenue Officer](https://about.gitlab.com/job-families/sales/chief-revenue-officer/).
+The Vice President, Field Operations is responsible for bringing a strategic vision and innovative approach in creating, managing and executing strategic programs that will drive key revenue, margin, and growth opportunities globally for GitLab. The Vice President, Field Operations reports to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/).
 
 ### Job Grade
 
-The VP, Field Operations is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Field Operations is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -33,7 +33,7 @@ The VP, Field Operations is a [grade 12](https://about.gitlab.com/handbook/total
 - Analytical and detail oriented, strong project management skills with a drive for results.
 - Proven ability to thrive in a fluid, fast-paced, unpredictable environment.
 - Unquestionable ethics, integrity and business judgment; you share our values, and work in accordance with those values.
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 ### Performance Indicators
 
@@ -43,11 +43,11 @@ The VP, Field Operations is a [grade 12](https://about.gitlab.com/handbook/total
 
 ### Career Ladder
 
-The next steps for the VP, Field Operations would be to move to the [Chief Revenue Officer](https://about.gitlab.com/job-families/sales/chief-revenue-officer/) Job Family.
+The next steps for the VP, Field Operations would be to move to the [Chief Revenue Officer](/job-families/sales/chief-revenue-officer/) Job Family.
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - First, the candidate will have a 30 min screening call with a GitLab Recruiters
 - Next, the candidate will have a 30 min interview with the Hiring Manager
@@ -55,4 +55,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, the candidate  will have a 45 min interview with a peer
 - Lastly, the candidate will have a final 45 min interview with the CRO
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

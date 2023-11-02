@@ -156,7 +156,7 @@ Second, a timezone-biased company that wants to scale its team can run into sour
 
 ## 9. All-remote
 
-"All-remote" describes organizations that do not maintain offices and work globally across many time zones. [GitLab is an all-remote company]({{< ref "./terminology" >}}), with [team members](https://about.gitlab.com/company/team) in 65+ countries.
+"All-remote" describes organizations that do not maintain offices and work globally across many time zones. [GitLab is an all-remote company]({{< ref "./terminology" >}}), with [team members](/handbook/company/team) in 65+ countries.
 
 In all-remote companies, there is no effort placed on trying to coordinate team members to a given time zone. Rather, a bias towards [asynchronous communication](./asynchronous) encourages documentation, discourages synchronous meetings as a default for collaboration, and provides greater flexibility for each member to determine the working hours that best suites their [lifestyle](./people).
 

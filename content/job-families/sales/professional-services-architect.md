@@ -10,9 +10,9 @@ You will play a critical role in the success of Professional Services engagement
 
 | Professional Services Technical Architect |
 | - |
-| [Intermediate](#technical-architect) | [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior](#senior-technical-architect) | [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Staff](#staff-technical-architect) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Intermediate](#technical-architect) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior](#senior-technical-architect) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Staff](#staff-technical-architect) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ### Performance Indicator
 
@@ -97,20 +97,20 @@ At GitLab, due to the pace at which we are moving, people joining our team will 
 
 ### Job Grades
 
-Read more about grades at GitLab [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). As Professional Services falls under Customer Success, the specific grades are [here](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#customer-success)
+Read more about grades at GitLab [here](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). As Professional Services falls under Customer Success, the specific grades are [here](/handbook/total-rewards/compensation/compensation-calculator/#customer-success)
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a first interview with the Regional Delivery Manager
 Candidates may be invited to schedule an interview with Professional Services Architect peer or other Professional Services team Manager.
 Then, candidates will be required to deliver a demo of GitLab to a panel of Customer Success attendees using the Demo Guide.
 Candidates may be invited to additional interviews.
 Successful candidates will be made an offer after references are verified.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
 
 ## Career Ladder
 

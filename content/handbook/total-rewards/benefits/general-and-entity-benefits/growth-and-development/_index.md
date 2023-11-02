@@ -86,17 +86,17 @@ Once the appropriate approvals are provided on the Growth and Development issue,
 ## Bulk Applications
 
 - If multiple team members are doing the same training or attending the same conference, please open one issue.
-- For ease of processing, it is recommended that bulk applications are paid via [Coupa](https://about.gitlab.com/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](https://about.gitlab.com/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Navan Expense or the Growth & Development email per the [reimbursement process](#reimbursements-of-growth-and-development-applications) below.
+- For ease of processing, it is recommended that bulk applications are paid via [Coupa](/handbook/finance/procurement/). If the bulk application is for a conference, the group tickets may be paid via [Coupa](/handbook/finance/procurement/) under one invoice and individual costs (such as accommodation and food) may be claimed by Navan Expense or the Growth & Development email per the [reimbursement process](#reimbursements-of-growth-and-development-applications) below.
 
 ## Reimbursements of Growth and Development Applications
 
 **If the cost is [$1,000 USD or less]({{< ref "compensation#exchange-rates" >}})**
 
-- Claim your expenses via [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/#-introduction):
+- Claim your expenses via [Navan Expense](/handbook/finance/expenses/#-introduction):
   - Include a screenshot of your approved Growth & Development issue.
   - In your Navan Expense report, select the classification or tag "Growth and Development".
   - Please make sure the issue matches your Navan Expense claim amount. Your Navan Expense claim will be audited against the Growth & Development issue amount.
-- Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](https://about.gitlab.com/handbook/finance/expenses/#-introduction).
+- Please claim conference and workshop meals and lodging that cost $1,000 USD and below per receipt via [Navan Expense](/handbook/finance/expenses/#-introduction).
 
 **If the cost is [over $1,000 USD]({{< ref "compensation#exchange-rates" >}})**
 
@@ -199,7 +199,7 @@ Examples of English Language Courses:
 
 ### Workshops and Conferences
 
-**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](https://about.gitlab.com/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Communications](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
+**Description:** Work-related conferences including registration, lodging, and meals. The costs for travelling to and from an event should be expensed separately from the training budget following the [existing travel expense policy](/handbook/finance/expenses/), with your manager approval. We encourage people to be speakers in conferences. More information for people interested in speaking can be found on our [Corporate Communications](https://about.gitlab.com/handbook/marketing/corporate-communications/speaking-resources/) page. We suggest to the attendees bring and share a post or document about the news and interesting items that can bring value to our environment.
 
 **Eligibility for Reimbursement:** Before scheduling any travel or time off to attend a conference, please discuss your request with your manager. The manager will approve the request if the conference is work-related and the timing doesn't interfere with GitLab deliverables. After manager approval, the team member needs to submit a Growth & Development form for expenses either [over $1,000 or under $1,000](#how-to-apply-for-growth-and-development-benefits). Once all parties sign the document, they can schedule travel. Please review current [GitLab travel policy]({{< ref "travel" >}}) for the most up-to-date information about booking and planning conference travel and determine if travel is [business essential]({{< ref "travel" >}}) during Covid-19. Reimbursement for the workshop or conference fee, and for related expenses will be processed once proof of attendance is provided. Attach a copy of the Growth & Development Benefit Form to your expenses.
 

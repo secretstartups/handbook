@@ -35,7 +35,7 @@ The UX Research Operations Coordinator (Intermediate) reports to a [UX Research 
 
 #### Job Grade
 
-The UX Research Operations Coordinator (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Research Operations Coordinator (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### UX Research Operations Coordinator (Intermediate) Responsibilities
 
@@ -68,7 +68,7 @@ The Senior UX Research Operations Coordinator reports to a [UX Research Manager]
 
 #### Senior UX Research Operations Coordinator Job Grade
 
-The UX Research Operations Coordinator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Research Operations Coordinator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior UX Research Operations Coordinator Responsibilities
 
@@ -96,14 +96,14 @@ The UX Research Operations Coordinator is a [grade 7](https://about.gitlab.com/h
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30-minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- Selected candidates will be invited to schedule a 30-minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a UX Research Operations Coordinator role, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 - After that, we'll invite you to create a 90-day plan in the form of a slide deck using this [template](https://docs.google.com/presentation/d/1FTiFcwxY1MoMSjg9KUAxSuvhF2mL0ZdAZ8Dd96gcPD0/edit?usp=sharing). The slide deck should be no more than 4 slides: intro, 3 slides for the 90-day plan, and final slide. The slide deck will be leveraged in discussion during the three rounds of interviews.
 
 > ### Why we ask for a 90-day plan slide deck
 >
 > 1. It helps create a shared understanding of how you work between you and our interviewers ahead of the first interview.
 > 1. It allows us to ask more informed questions about your experience and work during the interview process.
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations or share slide decks, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
+> 1. Generally, we [avoid using meetings as a means to present](/handbook/communication/#common-meeting-problems). Instead, we record presentations or share slide decks, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
 >
 > ### 90-day plan topics
 >
@@ -136,4 +136,4 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Successful candidates will subsequently be made an offer via Zoom.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -6,7 +6,7 @@ The VP of Finance is responsible for implementing financial processes and system
 
 ## Job Grade
 
-The VP, FP&A is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, FP&A is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Accounting and Reporting
 
@@ -37,7 +37,7 @@ The VP, FP&A is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 
 ## Performance Indicators
 
-1. [Plan vs Actual](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
+1. [Plan vs Actual](/handbook/finance/financial-planning-and-analysis/#plan-vs-actual)
 1. [IACV Efficiency](https://about.gitlab.com/handbook/sales/#iacv-efficiency-ratio)
 1. [New hire location factor](/#new-hire-location-factor)
 
@@ -52,7 +52,7 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Interview with CEO plus 1-2 board members
 
 Please note that a candidate may declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

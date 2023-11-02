@@ -12,9 +12,9 @@ twitter_creator: "@gitlab"
 
 Trust is the cornerstone of how we operate at GitLab. We trust team members to [do the right thing instead of having rigid rules]({{< ref "values#measure-results-not-hours" >}}). Trust at GitLab [increases results](/handbook/people-group/guidance-on-feedback/), [efficiency]({{< ref "values#efficiency" >}}), and [collaboration]({{< ref "values#collaboration" >}}).
 
-Trust takes time and energy to build. We leverage [informal communication](/company/culture/all-remote/informal-communication/) to build trust, but there are additional strategies [people leaders]({{< ref "_index.md" >}}) and team members can implement on their teams.
+Trust takes time and energy to build. We leverage [informal communication](/handbook/company/culture/all-remote/informal-communication/) to build trust, but there are additional strategies [people leaders]({{< ref "_index.md" >}}) and team members can implement on their teams.
 
-Working remotely can be isolating for team members if managers do not take the [necessary steps](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/) to build trust and social cohesion amongst their teams. In a remote environment, it can take team members longer to get to know each other compared to a colocated office setting. On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams.
+Working remotely can be isolating for team members if managers do not take the [necessary steps](/handbook/company/culture/all-remote/being-a-great-remote-manager/) to build trust and social cohesion amongst their teams. In a remote environment, it can take team members longer to get to know each other compared to a colocated office setting. On this page, we’ve outlined additional strategies people leaders and team members can apply to build trust amongst their teams.
 
 ## Ten Dimensions of Trust
 
@@ -34,7 +34,7 @@ Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimension
     1. Knowing the person better
     1. Listening (actively)
     1. Spending more time
-    1. [Informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/)
+    1. [Informal communication](/handbook/company/culture/all-remote/informal-communication/)
 1. Information
     1. Providing and receiving [feedback](/handbook/people-group/guidance-on-feedback/)
     1. Bad news travels fast
@@ -70,7 +70,7 @@ Sid Sijbrandij, GitLab's CEO, shared what he has identified as the ten dimension
 
 ## Strategies to Build Trust
 
-People Leaders should make every effort to build trust as soon as they mobilize a team, when new team members start, and throughout the year. [Informal communication](https://about.gitlab.com/company/culture/all-remote/informal-communication/) is a great tool to build trust; however, there are additional strategies managers and team members can implement to build trust within the teams they support.
+People Leaders should make every effort to build trust as soon as they mobilize a team, when new team members start, and throughout the year. [Informal communication](/handbook/company/culture/all-remote/informal-communication/) is a great tool to build trust; however, there are additional strategies managers and team members can implement to build trust within the teams they support.
 
 ### Personality Assessments
 
@@ -111,7 +111,7 @@ Optional social calls are a strategy to increase trust. Anyone can organize one.
 
 **How to apply optional weekly team social calls:** Set a regular cadence of optional weekly team social calls (monthly, bi-weekly, weekly). Each social call, have one team member be in charge of managing and facilitating the discussion. They are responsible for proposing the topic and keeping the call moving. Remember to make these fun and try not to talk about work!
 
-To be inclusive of time zones and those who may not prefer these types of social settings, alternate synchronous social calls with [asynchronous](/company/culture/all-remote/asynchronous/) social standups. You can port the questions to the `Geekbot` Slack app so team members can share at their convenience.
+To be inclusive of time zones and those who may not prefer these types of social settings, alternate synchronous social calls with [asynchronous](/handbook/company/culture/all-remote/asynchronous/) social standups. You can port the questions to the `Geekbot` Slack app so team members can share at their convenience.
 
 ### Zoom Background Ice-Breaker
 
@@ -141,9 +141,9 @@ Take a [coaching approach]({{< ref "coaching" >}}) and have the team members tal
 
 ### Leverage the Building High Performing Teams Model
 
-The [Building High Performing Teams model]({{< ref "build-high-performing-teams" >}}) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [Trust section]({{< ref "build-high-performing-teams#stage-2-trust-building---who-are-you" >}}) of the Building High Performing teams page on strategies to build trust.
+The [Building High Performing Teams model](https://internal.gitlab.com/handbook/company/high-performing-teams/) is one of the most widely used and accepted models for team development. A big component of the model is building trust. To reach high performance, teams need to trust each other and share mutual regard where people are supported and respected. There is a willingness to be forthright, open, and free in working with team members. Review the [high performing teams page](https://internal.gitlab.com/handbook/company/high-performing-teams/) for strategies to build trust.
 
-**How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams]({{< ref "build-high-performing-teams#summary" >}}) at GitLab. In the [trust building section]({{< ref "build-high-performing-teams#stage-2-trust-building---who-are-you" >}}), Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
+**How to apply the building higher performing teams model:** Review the strategies to improve [building high performing teams](https://internal.gitlab.com/handbook/company/high-performing-teams/) at GitLab. Managers can conduct an assessment with their teams to see if team members trust one another. Use the resources outlined to facilitate a discussion.
 
 ### Ask for Feedback
 
@@ -153,9 +153,9 @@ Managers should be open to [receiving feedback](/handbook/people-group/guidance-
 
 ### Overcome Unconscious Bias
 
-As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](https://about.gitlab.com/company/culture/inclusion/unconscious-bias/) contributes to a major loss in trust between managers and employees.
+As people, we have a natural tendency to make assumptions about others, which means that once someone becomes a manager they might unintentionally favor some team members over others. [Unconscious bias](/handbook/company/culture/inclusion/unconscious-bias/) contributes to a major loss in trust between managers and employees.
 
-**How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](https://implicit.harvard.edu/implicit/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](https://about.gitlab.com/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective.
+**How to apply overcoming unconscious bias:** There are a host of free resources available to overcome unconscious bias. Managers and team members should spend time understanding their bias. Take the [implicit-association test (IAT)](https://implicit.harvard.edu/implicit/) as a first step. Block time on your calendar to take [Diversity, Inclusion, and Belonging](/handbook/company/culture/inclusion/) related training every quarter. Apply empathy to discussions amongst your team and put yourself in others shoes to better understand their perspective.
 
 ### Take Time Out To Learn
 
@@ -189,7 +189,7 @@ Below are potential team day activities:
 1. Give a tour to your team of your home town, your favorite place, or a dream vacation spot. Try sharing photos, Google Maps tours, and videos.
 1. Play a Zoom pictionary/drawing guessing game. Try using the tool [Drawasaurus](https://www.drawasaurus.org/).
 1. Host live or recorded Zoom classes based on team members skills, like cooking, crafts, fitness, or woodworking.
-1. Organize a [Walk and talk](https://about.gitlab.com/handbook/communication/#walk-and-talk-calls) social chat, a team 5k walk or run, or some other kind challenge to get your body moving.
+1. Organize a [Walk and talk](/handbook/communication/#walk-and-talk-calls) social chat, a team 5k walk or run, or some other kind challenge to get your body moving.
 1. Create Slack social threads to solve riddles, play a trivia game, post GIFs to represent your day, and share photos.
 
 #### More Ideas for Activities

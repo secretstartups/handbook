@@ -11,7 +11,7 @@ The Vice President of Customer Success needs an action mindset, are excited by t
 
 ## Job Grade
 
-The VP of Customer Success is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Customer Success is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -39,9 +39,9 @@ The VP of Customer Success is a [grade 12](https://about.gitlab.com/handbook/tot
 - Understanding of the balance between internal services, external partners and how to use both effectively to support customers and grow quickly
 - Effective and productive collaborator to drive cross-functional initiatives
 - Empathy, humility and listening skills
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#s-group)
 - Ability to use GitLab
-- Ability to travel if needed and comply with the company’s [travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the company’s [travel policy](/handbook/travel/)
 
 {{% job-families/sales/performance %}}
 

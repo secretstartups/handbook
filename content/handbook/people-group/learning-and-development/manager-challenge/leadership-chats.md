@@ -16,11 +16,11 @@ Leadership Chats are monthly calls for people leaders at GitLab. Sessions are no
 
 ### Potential Discussion Topics
 
-1. Challenges faced as a [manager of an all-remote team](https://about.gitlab.com/company/culture/all-remote/being-a-great-remote-manager/)
+1. Challenges faced as a [manager of an all-remote team](/handbook/company/culture/all-remote/being-a-great-remote-manager/)
 1. [Crucial conversations]({{< ref "/handbook/leadership/crucial-conversations" >}}): how to have them, what works, what doesn't
 1. Work and life balance as a manager
 1. [Professional development]({{< ref "career-development" >}}) as both a manager and for direct reports
-1. Enabling [GitLab culture](https://about.gitlab.com/company/culture/#culture-at-gitlab)
+1. Enabling [GitLab culture](/handbook/company/culture/#culture-at-gitlab)
 1. Relationship and [trust building]({{< ref "building-trust" >}})
 1. More topics proposed on the leadership call [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643)
 

@@ -16,7 +16,7 @@ Engineers work as part of a team in the Data Science section, and collaborate wi
 
 ### Associate Machine Learning Engineer
 
-The Associate level in the Engineering Division is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate level in the Engineering Division is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -33,19 +33,19 @@ The Associate level in the Engineering Division is a [grade 5](https://about.git
 - 1 or more years of experience in ML, **or** a Master's or PhD degree with a focus on Machine Learning
 - Demonstrated capacity to develop and implement deep learning models
 - Experience with Python
-- Comfort working in a highly agile, [intensely iterative](https://handbook.gitlab.com/handbook/values/#iteration) software development process
+- Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) software development process
 - Positive and solution-oriented mindset
-- Effective communication skills: [Regularly achieve consensus with peers](https://handbook.gitlab.com/handbook/values/#collaboration), and clear status updates
+- Effective communication skills: [Regularly achieve consensus with peers](/handbook/values/#collaboration), and clear status updates
 - An inclination towards communication, inclusion, and visibility
-- [Self-motivated and self-managing](https://handbook.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
+- [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills.
 - Ability to work closely with other parts of the organization
-- Share [our values](https://handbook.gitlab.com/handbook/values/), and work in accordance with those values
+- Share [our values](/handbook/values/), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 
 ### Machine Learning Engineer Intermediate
 
-The Intermediate level in the Engineering Division is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Intermediate level in the Engineering Division is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -65,22 +65,22 @@ The Intermediate level in the Engineering Division is a [grade 6](https://about.
 - Experience developing and implementing deep learning models
 - Professional experience with Python
 - Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems
-- Comfort working in a highly agile, [intensely iterative](https://handbook.gitlab.com/handbook/values/#iteration) software development process
+- Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) software development process
 - Demonstrated ability to onboard and integrate with an organization long-term
 - Positive and solution-oriented mindset
-- Effective communication skills: [Regularly achieve consensus with peers](https://handbook.gitlab.com/handbook/values/#collaboration), and clear status updates
+- Effective communication skills: [Regularly achieve consensus with peers](/handbook/values/#collaboration), and clear status updates
 - An inclination towards communication, inclusion, and visibility
 - Experience owning a project from concept to production, including proposal, discussion, and execution.
-- [Self-motivated and self-managing](https://handbook.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
+- [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills.
 - Demonstrated ability to work closely with other parts of the organization
-- Share [our values](https://handbook.gitlab.com/handbook/values/), and work in accordance with those values
+- Share [our values](/handbook/values/), and work in accordance with those values
 - Ability to thrive in a fully remote organization
 - Ability to use GitLab
 - Comfort and familiarity with our [code review process](https://about.gitlab.com/handbook/engineering/workflow/code-review/)
 
 ### Senior Machine Learning Engineer
 
-The Senior level in the Engineering Division is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior level in the Engineering Division is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Responsibilities
 
@@ -106,7 +106,7 @@ The following extend the main [requirements](#requirements) for this role.
 
 ### Staff Machine Learning Engineer
 
-The Staff level in the Engineering Division is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff level in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Responsibilities
 
@@ -137,7 +137,7 @@ The following extend the main [requirements](#requirements) for this role.
 
 ## Engineering Manager Machine Learning
 
-The Engineering Manager in the Engineering Division is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Manager in the Engineering Division is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Engineering Manager Machine Learning Responsibilites
 
@@ -184,21 +184,21 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
 For Individual Contributors:
 
 - As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
-- Next, candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 - Successful candidates will subsequently be made an offer.
-  Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+  Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 For Managers:
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 - Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -207,4 +207,4 @@ For Managers:
 - Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -32,6 +32,6 @@ There are no exceptions to the ISCP.
 
 - [NIST 800-34](https://csrc.nist.gov/glossary/term/information_system_contingency_plan)
 - [BCP]( https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
-- [BCP Related Controls](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html)
+- [BCP Related Controls](/handbook/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html)
 - [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md)
 - [Database DR](https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery.html)

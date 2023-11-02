@@ -11,7 +11,7 @@ The Analyst, Online Sales & Self Service Data reports to the Senior Manager, Onl
 
 ### Job Grade
 
-The Analyst, Online Sales & Self Service Growth is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Analyst, Online Sales & Self Service Growth is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -43,7 +43,7 @@ The Senior Analyst, Online Sales & Self Service Data reports to the Senior Manag
 
 ### Job Grade
 
-The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -80,7 +80,7 @@ The Manager, Online Sales & Self Service Data reports to the Senior Manager, Onl
 
 ### Job Grade
 
-The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Online Sales & Self Service Growth is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -115,11 +115,11 @@ The Manager, Online Sales & Self Service Growth is a [grade 8](https://about.git
 
 The Senior Manager, Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.
 
-The Senior Manager, Online Sales & Self Service Product & Data Analytics reports to the [VP Online Sales and Self Service](https://about.gitlab.com/job-families/sales/vice-president-online-sales-and-self-service/).
+The Senior Manager, Online Sales & Self Service Product & Data Analytics reports to the [VP Online Sales and Self Service](/job-families/sales/vice-president-online-sales-and-self-service/).
 
 ### Job Grade
 
-The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -160,13 +160,13 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 
 ## Career Ladder
 
-The next step for the Online Sales & Self Service Product & Data Analytics Job Family is to move to the [Director, Online Sales & Self Service Job Family](https://about.gitlab.com/job-families/sales/Director-online-sales-and-self-service-growth/).
+The next step for the Online Sales & Self Service Product & Data Analytics Job Family is to move to the [Director, Online Sales & Self Service Job Family](/job-families/sales/Director-online-sales-and-self-service-growth/).
 
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Qualified candidates will take a short technical take home test.
 - Next, candidates will be invited to schedule a first interview with the Hiring Manager
 - Next, candidates will be invited to schedule interviews 30 minute interviews with 2 immediate team members and 3 cross-functional partners

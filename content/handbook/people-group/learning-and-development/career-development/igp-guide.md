@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: Individual Growth Plan (IGP) Guide
 description: "Step by Step resource for team members filling out the GitLab Individual Growth Plan (IGP) "
 ---

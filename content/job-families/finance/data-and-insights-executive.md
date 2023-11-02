@@ -14,7 +14,7 @@ The director of data and analytics is an organizational leader with a passion fo
 
 ### Job Grade
 
-The Director, Data and Insights is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Data and Insights is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -50,7 +50,7 @@ The director of data platform will be responsible for overseeing the development
 
 ### Job Grade
 
-The Director, data platform is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, data platform is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -83,7 +83,7 @@ The Director, data platform is a [grade 10](https://about.gitlab.com/handbook/to
 
 ### Job Grade
 
-The Senior Director, Data and Insights is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Data and Insights is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilites
 
@@ -113,7 +113,7 @@ The Senior Director, Data and Insights is a [grade 11](https://about.gitlab.com/
 
 ### Job Grade
 
-The VP, Data and Insights is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Data and Insights is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

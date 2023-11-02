@@ -8,7 +8,7 @@ The Senior Manager, Internal Audit reports to the [VP, Internal Audit](#Vice Pre
 
 ### Job Grade
 
-The Senior Manager, Internal Audit is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Internal Audit is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 

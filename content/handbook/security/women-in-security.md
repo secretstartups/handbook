@@ -23,7 +23,7 @@ PENDING
 
 ## Catalog of Events and Publications
 
-- [Applying Risk Management to Pandemic-driven Remote Learning](/blog/2020/08/27/applying-risk-management-to-remote-learning/)
+- [Applying Risk Management to Pandemic-driven Remote Learning](https://about.gitlab.com/blog/2020/08/27/applying-risk-management-to-remote-learning/)
 - [Understanding Compliance: Liz Coleman](https://www.youtube.com/watch?v=WfbAQfUz-_w)
 - [Understanding Compliance: Meghan Maneval](https://www.youtube.com/watch?v=h95ddzEsTog)
 - [WIS Blog 1: How to break into security](https://about.gitlab.com/blog/2020/11/12/breaking-into-security/)

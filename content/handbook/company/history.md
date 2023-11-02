@@ -33,12 +33,12 @@ A team member at GitLab interviewed the first five team members from GitLab to h
 In 2016 the number of [people that contributed to GitLab](http://contributors.gitlab.com/) grew to more than 1000.
 More than 100,000 organizations and millions of users are using GitLab.
 Our team grew with 100 people to more than 140.
-In September we announce [our master plan](/blog/2016/09/13/gitlab-master-plan/) and raising $20m in our B round of financing.
+In September we announce [our master plan](https://about.gitlab.com/blog/2016/09/13/gitlab-master-plan/) and raising $20m in our B round of financing.
 
 ### *2015: Y Combinator*
 
 In the very start of 2015, almost the entire GitLab team flew over to Silicon
-Valley to [participate in Y Combinator](/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/).
+Valley to [participate in Y Combinator](https://about.gitlab.com/blog/2015/03/04/gitlab-is-part-of-the-y-combinator-family/).
 
 We became much more comfortable with a much faster pace, and it changed the way we thought about what we could achieve in a short timeframe. If we think something takes too long, we need to change our idea of what we can accomplish. There is always an opportunity to do something smaller and imperfect but that still makes a difference.
 
@@ -48,10 +48,10 @@ We graduated in March of 2015 and had 9 people on our team. The GitLab Handbook 
 
 ### *2014: GitLab was incorporated*
 
-In 2014 GitLab was officially incorporated as a [limited liability corporation](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
+In 2014 GitLab was officially incorporated as a [limited liability corporation](https://about.gitlab.com/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
 GitLab released a new version every month on the 22nd, just as every year before and after.
 The first release of the year at January 22nd: GitLab 6.5. At the end of 2014, December 2014, GitLab 7.6 was released.
-In the end of that year we submitted [our application to Y Combinator](/blog/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/).
+In the end of that year we submitted [our application to Y Combinator](https://about.gitlab.com/blog/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/).
 
 ### *2013: "I want to work on GitLab full time"*
 
@@ -94,15 +94,15 @@ As part of a Harvard Business School case study [interview](https://youtu.be/jdN
 >
 > I continued to hire people in The Netherlands, and continually they stopped showing up after a couple of days.
 >
-> Then, we did Y Combinator and almost all of the company lived in the same house. That was effective and intense. There is something to be said if you're one team of people and you can be in the same room together, and you have to move quickly, I'm supportive of doing that [in-person](/company/culture/all-remote/in-person/).
+> Then, we did Y Combinator and almost all of the company lived in the same house. That was effective and intense. There is something to be said if you're one team of people and you can be in the same room together, and you have to move quickly, I'm supportive of doing that [in-person](/handbook/company/culture/all-remote/in-person/).
 >
-> Afterwards, everyone went back home because they were away from the [people they cared most about](/company/culture/all-remote/people/#worklife-harmony). Our Y Combinator coaches said, 'Look, this whole remote thing, it kind of works for engineering, but it doesn't work for other functions, so consider getting an office.'
+> Afterwards, everyone went back home because they were away from the [people they cared most about](/handbook/company/culture/all-remote/people/#worklife-harmony). Our Y Combinator coaches said, 'Look, this whole remote thing, it kind of works for engineering, but it doesn't work for other functions, so consider getting an office.'
 >
 > I thought that was good advice. You see, a typical flaw of a technical, product-focused CEO [like me] is that they think they can reinvent management. I believed in middle management, I believed in sales, and I thought: 'Let's not fall into that same trap by being adamant about having to be remote.'
 >
 > So, we got an office in San Francisco. It housed 15 people. The first person to show up there was our sales person, who had been with the company for a while. He stopped coming after a couple of days, and the same pattern continued.  People came in a few days, then stopped coming.
 >
-> It was because we were so used to using systems correctly, and using a remote work style. We used Slack, video calls, Google Docs, GitLab Issues, GitLab merge requests — we were just used to [that way of working](/company/culture/all-remote/management/).
+> It was because we were so used to using systems correctly, and using a remote work style. We used Slack, video calls, Google Docs, GitLab Issues, GitLab merge requests — we were just used to [that way of working](/handbook/company/culture/all-remote/management/).
 >
 > A few times it became contentious — mostly on executive hiring. Then, they come in and talk to the other executives, where they'd hear 'This is my first remote company as well, but I have an easier time reaching people here than at my previous job. People are super good at replying to messages and reading things here.'
 >
@@ -110,13 +110,13 @@ As part of a Harvard Business School case study [interview](https://youtu.be/jdN
 >
 > At a certain point, we decided: 'OK, this works. Almost nobody in the company wants to come to the office because it's a waste of time.'
 >
-> The worst thing you can do is have a [hybrid company](/company/culture/all-remote/hybrid-remote/), where some people are at the office using certain communication styles, while others are remote using [different communication styles](/company/culture/all-remote/evaluate/). That leads to a lot of inefficiency.
+> The worst thing you can do is have a [hybrid company](/handbook/company/culture/all-remote/hybrid-remote/), where some people are at the office using certain communication styles, while others are remote using [different communication styles](/handbook/company/culture/all-remote/evaluate/). That leads to a lot of inefficiency.
 >
 > When we decided to become remote, our investors were worried about it. They said, 'Look, there are very few remote companies at scale.' At the time, there was WordPress and InVision.
 >
 > We said, 'OK, we'll be pragmatic. As soon as we have a big breakdown in the leadership team or something, we'll reconsider.'
 >
-> That did not happen. We said, 'We're pretty sure this [scales a lot better](/company/culture/all-remote/scaling/). We're actually able to grow faster and have less disconnect amongst the leadership team than in other companies.'
+> That did not happen. We said, 'We're pretty sure this [scales a lot better](/handbook/company/culture/all-remote/scaling/). We're actually able to grow faster and have less disconnect amongst the leadership team than in other companies.'
 
 Moving to the topic of investors and their perception of remote companies, Sid added the following.
 

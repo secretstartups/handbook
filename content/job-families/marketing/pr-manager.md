@@ -37,7 +37,7 @@ The GitLab PR Manager will help GitLab build thought leadership and drive conver
 
 #### Job Grade
 
-The PR Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The PR Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -66,7 +66,7 @@ The PR Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/co
 
 #### Job Grade
 
-The Senior PR Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior PR Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -125,7 +125,7 @@ This specialty maps to the [Public Sector department](https://about.gitlab.com/h
 
 #### Job Grade
 
-The Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 The GitLab Manager, PR  will lead a team of PR managers to build GitLab thought leadership and drive conversation in external communications channels. This position is responsible for leading the PR team focused on developing and overseeing the PR strategy and campaigns for product, security, verticals and partner and channel  at GitLab. This person will not only manage a team of PR professionals but will also work across global teams to provide strategic guidance and develop and execute PR campaigns for tier one partners and GitLab campaigns.
 
@@ -164,7 +164,7 @@ The GitLab Manager, PR  will lead a team of PR managers to build GitLab thought 
 
 #### Job Grade
 
-The Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 

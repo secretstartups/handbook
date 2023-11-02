@@ -7,7 +7,7 @@ RoleName: "Senior Manager Sales Systems"
 
 ### Job Grade
 
-The Manager, Sales Systems is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Sales Systems is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -33,14 +33,14 @@ The Manager, Sales Systems is a [grade 8](https://about.gitlab.com/handbook/tota
 - Interest in GitLab, and open source software.
 - You share our values, and work in accordance with those values.
 - Ability to thrive in a fully remote organization.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group).
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group).
 - Ability to use GitLab.
 
 ## Senior Manager, Sales Systems
 
 ### Job Grade
 
-The Senior Manager, Sales Systems is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Sales Systems is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -66,7 +66,7 @@ The Senior Manager, Sales Systems is a [grade 9](https://about.gitlab.com/handbo
 - Interest in GitLab, and open source software
 - You share our values, and work in accordance with those values
 - Ability to thrive in a fully remote organization
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 - Ability to use GitLab
 
 {{% job-families/sales/performance %}}
@@ -77,7 +77,7 @@ The Director of Sales Systems reports to the Senior Director of Sales Systems  a
 
 ### Job Grade
 
-The Director, Sales Systems is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Sales Systems is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -104,13 +104,13 @@ The Director, Sales Systems is a [grade 10](https://about.gitlab.com/handbook/to
 - Excellent communication and interpersonal skills, with the ability to resolve complicated interdepartmental projects and manage stakeholders.
 - Committed to “Drink our own Champagne” and fully utilize the GitLab product for internal project management and collaboration.
 - Share and work in accordance with our [values](/handbook/values/).
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ## Senior Director, Sales Systems
 
 ### Job Grade
 
-The Senior Director, Sales Systems is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Sales Systems is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -138,7 +138,7 @@ The Senior Director, Sales Systems is a [grade 11](https://about.gitlab.com/hand
 - Strong analytical and problem-solving skills with a clear and relentless focus under pressure.
 - Drive the utilization of the GitLab product for internal project management and collaboration.
 - Share and work in accordance with our [values](/handbook/values/).
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#management-group)
 
 ## Performance Indicators
 
@@ -154,11 +154,11 @@ The next steps for the Sales Systems Leadership Job Family has not been defined 
 
 ## Hiring Process
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to a first interview with the Hiring Manager
 - Second round interviews will be the Interview team that consists of 2-4 interviews
 - An optional final interview with a C level Executive may occur
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 - Successful candidates will subsequently be made an offer via email

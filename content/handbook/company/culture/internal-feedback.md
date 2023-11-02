@@ -317,11 +317,11 @@ responsibility, willingness of GitLab team-members to teach new GitLab team-memb
 #### What are you wondering about / What we are missing
 
 1. Are we growing too fast?
-    - Check out our [strategy](/company/strategy/) page for why we are growing faster than feels intuitive.
+    - Check out our [strategy](/handbook/company/strategy/) page for why we are growing faster than feels intuitive.
 1. How to improve myself as a professional?
     - Aside from the internal tools at GitLab, you can expense any course or training that falls in line with [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money). Questions? Just ask your manager or People Ops.
 1. How are we using our series B funding?
-    - We have released our [master plan](/blog/2016/09/13/gitlab-master-plan/) for how we plan on growing as a company as a result of our Series B Funding. Also, check out our [Strategy Page]({{< ref "strategy" >}}).
+    - We have released our [master plan](https://about.gitlab.com/blog/2016/09/13/gitlab-master-plan/) for how we plan on growing as a company as a result of our Series B Funding. Also, check out our [Strategy Page]({{< ref "strategy" >}}).
 1. What are the plans for parental leave?
     - We are currently working on this [issue](https://gitlab.com/gitlab-com/peopleops/issues/88).
 1. What are the mid to long term engineering strategies?

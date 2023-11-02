@@ -46,7 +46,7 @@ This role reports to the [Manager, Financial Systems Administrator](#manager-fin
 
 #### Finance Systems Administrator (Intermediate) Job Grade
 
-The Finance Systems Administrator (Intermediate) is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Finance Systems Administrator (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Finance Systems Administrator (Intermediate) Responsibilities
 
@@ -62,7 +62,7 @@ The Senior Finance Systems Administrator reports directly to the [Manager, Finan
 
 #### Senior Finance Systems Administrator Job Grade
 
-The Senior Finance Systems Administrator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Finance Systems Administrator Responsibilities
 
@@ -88,7 +88,7 @@ The Staff Finance Systems Administrator reports directly to the [Manager, Financ
 
 #### Staff Finance Systems Administrator Job Grade
 
-The Staff Finance Systems Administrator is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Finance Systems Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Finance Systems Administrator Responsibilities
 
@@ -112,11 +112,11 @@ Extends the Senior Finance Systems Administrators requirements.
 
 ### Manager, Finance Systems Administrator
 
-The Manager, Finance Systems Administrator reports to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/)
+The Manager, Finance Systems Administrator reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/)
 
 #### Manager, Finance Systems Administrator Job Grade
 
-The Manager, Finance Systems Administrator is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Finance Systems Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Finance Systems Administrator Responsibilities
 
@@ -138,20 +138,20 @@ The Manager, Finance Systems Administrator is a [grade 8](https://about.gitlab.c
 
 ## Performance Indicators
 
-- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](https://about.gitlab.com/company/kpis/#finance-kpis).
+- As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](/handbook/company/kpis/#finance-kpis).
 
 ## Career Ladder
 
-The next step in the Manager, Finance Systems Administrator job family is to move to the [Director, Enterprise Applications](https://handbook.gitlab.com/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the Manager, Finance Systems Administrator job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
 - Second round interviews will involve interviews with 2 Managers of the Enterprise Applications or Business Technology Team.
 - Third round interview is with the Senior Director of Enterprise Applications
 - At final stage candidates will meet with the Principal Accounting Officer and the VP of Business Technology.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

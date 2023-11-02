@@ -57,11 +57,11 @@ Fullstack engineers work across the front- and backend of the the GitLab documen
 
 ### Senior UX Fullstack Engineer
 
-The Senior Fullstack Engineer reports to the [Director, Technical Writing](https://about.gitlab.com/job-families/product/technical-writing-manager/#director-technical-writing).
+The Senior Fullstack Engineer reports to the [Director, Technical Writing](/job-families/product/technical-writing-manager/#director-technical-writing).
 
 #### Senior UX Fullstack Engineer Job Grade
 
-The Senior UX Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior UX Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior UX Fullstack Engineer Responsibilities
 
@@ -78,4 +78,4 @@ The Senior UX Fullstack Engineer is a [grade 7](https://about.gitlab.com/handboo
 
 The Senior UX Fullstack Engineer is included in the [Technical Writing MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writer-mr-rate).
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

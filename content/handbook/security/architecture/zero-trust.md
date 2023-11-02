@@ -39,7 +39,7 @@ Current access to critical systems is managed through alternative controls.
 While a corporate VPN is not implemented at this time, there are other valid
 use cases for which individual team members may still wish to use a *personal*
 VPN, such as privacy or preventing traffic aggregation. Team members that
-wish to use a personal VPN service for any reason may still [expense one](https://about.gitlab.com/handbook/finance/expenses/).
+wish to use a personal VPN service for any reason may still [expense one](/handbook/finance/expenses/).
 
 For the use case of laptop usage in untrusted environments, such as coffee
 shops and coworking spaces, team members should prioritize a baseline of always-on host protections,

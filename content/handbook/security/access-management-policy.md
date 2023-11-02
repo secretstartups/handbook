@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "Access Management Policy"
 ---
 
@@ -53,7 +53,7 @@ These templates should be used during the [onboarding process](/handbook/people-
    - ARs for Slack groups for internal GitLab team members
    - ARs using a role based template
    - ARs for access removal
-   - ARs resulting from a [User Access Review](https://about.gitlab.com/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
+   - ARs resulting from a [User Access Review](/handbook/security/security-assurance/security-compliance/access-reviews.html) in which users are marked for an access change by the technical/business owner performing the review
 
   Please note that ARs for access to internal systems for "external to GitLab individuals" require managerial approval. This includes access to Google Workspace security groups.
 
@@ -64,7 +64,7 @@ These templates should be used during the [onboarding process](/handbook/people-
     - [GitLab CE and GitLab EE](https://gitlab.com/gitlab-org/gitlab) (aka single Rails repository)
   - Groups:
     - [GitLab.com](https://gitlab.com/gitlab-com) and [GitLab.org](https://gitlab.com/gitlab-org) - top level group permissions
-    -NOTE: When provisioning access to a top level group, access is inherited to all sub-groups and projects below the group. For this reason, Owner and Maintainer access should **almost always** be provisioned at the project or sub-group levels rather than at the top parent group level, else we may not adhere to our [principle of least-privilege](https://about.gitlab.com/handbook/security/access-management-policy.html#principle-of-least-privilege).
+    -NOTE: When provisioning access to a top level group, access is inherited to all sub-groups and projects below the group. For this reason, Owner and Maintainer access should **almost always** be provisioned at the project or sub-group levels rather than at the top parent group level, else we may not adhere to our [principle of least-privilege](/handbook/security/access-management-policy.html#principle-of-least-privilege).
 
 - For all projects, access requests should be submitted when requesting explicit access to private groups, sub-groups, and repositories, as well as public facing repositories that are limited in access to GitLab team members in order to facilitate deprovisioning. This also allows for greater oversight of permissions being granted across GitLab projects.
 
@@ -78,7 +78,7 @@ These templates should be used during the [onboarding process](/handbook/people-
 
 - All requests for new service accounts require a New Service Account Request:
 
-  - [Gitlab.com Service Account Request](https://about.gitlab.com/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
+  - [Gitlab.com Service Account Request](/handbook/security/access-management-policy.html#requesting-gitlabcom-service-account-for-automation)
   - [GCP Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GCP_Google_Service_Account_Request)
   - [Other System Service Account Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Service_Account_Request)
 
@@ -168,7 +168,7 @@ GitLab operates its access management under the [principle of least privilege](h
 
   - The Security Operations team will periodically perform an access review of **GitLab infrastructure** accounts, to include a [least privilege review]({{< ref "_index.md#least-privilege-reviews-for-access-requests" >}}).
   - The Internal Audit team will periodically perform an access review of **financial application** accounts, to include a [least privilege review]({{< ref "_index.md#least-privilege-reviews-for-access-requests" >}}), as part of routine audits. A comprehensive access audit may be performed based on an annual risk assessment.
-  - Quarterly access reviews and access recertifications are performed for all applications that are determined by Internal Audit to be [SOX-in-scope](https://about.gitlab.com/handbook/internal-audit/sarbanes-oxley/).
+  - Quarterly access reviews and access recertifications are performed for all applications that are determined by Internal Audit to be [SOX-in-scope](/handbook/internal-audit/sarbanes-oxley/).
   - For source code security, access reviews for `gitlab.org` owners and maintainers will be performed quarterly by the Security Compliance team and verified by Infrastructure for appropriate permissions.
 
 - As part of an access review, existing access may be modified or revoked. New access (not modification of existing access) requires the submission of a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).

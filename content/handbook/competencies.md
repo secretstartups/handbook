@@ -95,7 +95,7 @@ In addition to the knowledge assessments for each value, you can take this [Know
 ### Remote Work Competencies
 
 1. [Manager of One]({{< ref "leadership#managers-of-one" >}})
-1. [Effective Communication]({{< ref "communication#effective-communication-competency" >}}) : includes Working async: [Why](https://about.gitlab.com/company/culture/all-remote/asynchronous/) and [How]({{< ref "communication" >}}), Well written artifacts, [Single Source of Truth]({{< ref "documentation#documentation-is-the-single-source-of-truth-ssot" >}}) and [Producing video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
+1. [Effective Communication]({{< ref "communication#effective-communication-competency" >}}) : includes Working async: [Why](/handbook/company/culture/all-remote/asynchronous/) and [How]({{< ref "communication" >}}), Well written artifacts, [Single Source of Truth]({{< ref "documentation#documentation-is-the-single-source-of-truth-ssot" >}}) and [Producing video](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/)
 1. [Handbook first]({{< ref "handbook-usage#handbook-first-competency" >}})
 1. [Using GitLab]({{< ref "using-gitlab-at-gitlab#using-gitlab-competency" >}})
 

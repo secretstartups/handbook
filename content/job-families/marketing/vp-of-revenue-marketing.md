@@ -13,7 +13,7 @@ Our Vice President of Revenue Marketing has proven success collaborating with al
 
 #### Job Grade
 
-The Vice President of Revenue Marketing role is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Vice President of Revenue Marketing role is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -40,7 +40,7 @@ The Vice President of Revenue Marketing role is a [grade 12](https://about.gitla
 - Must understand the difference between a leader and a manager
 - Experience managing external vendors and agencies
 - Exemplary work ethic; takes the initiative and thinks creatively to get the job done
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 - Ability to use GitLab
 
 ## Performance Indicators
@@ -53,10 +53,10 @@ The Vice President of Revenue Marketing role is a [grade 12](https://about.gitla
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 
 - A 45 minute interview with Chief Marketing Officer
 - A 30 minute interview with Senior Director of Strategic Marketing

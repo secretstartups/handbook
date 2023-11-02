@@ -296,7 +296,7 @@ Some people work better with a [consistent workday routine](https://learn.g2.com
 
 > **“I think you need to throw the concept of 'nine to five' out the window and actively experiment to find what schedule lets you make the most of your time.
 I often find the midday slump to be so real, so if I'm feeling this way I step away for a while and then come back for a few hours in the evening when I generally feel supercharged.”**
-[- Tanya Pazitny, Quality Engineering Manager](https://about.gitlab.com/company/team#tpazitny)
+[- Tanya Pazitny, Quality Engineering Manager](/handbook/company/team#tpazitny)
 
 ## All-Remote Upgrade
 

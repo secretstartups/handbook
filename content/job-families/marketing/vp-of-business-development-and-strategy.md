@@ -32,8 +32,8 @@ You and your team would communicate the strategic direction of the company at:
 - Be able to represent the company in place of the CEO.
 - Extensive network in the ALM industry.
 - Ability to work well with colleagues both in and outside of the organization, with good judgment, discretion, and tact.
-- Ability to [lead a team](https://about.gitlab.com/handbook/leadership/) and good management skills.
+- Ability to [lead a team](/handbook/leadership/) and good management skills.
 - You share our [values](/handbook/values/), and work in accordance with those values
 
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#s-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#s-group)
 - Ability to use GitLab

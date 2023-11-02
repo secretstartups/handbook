@@ -15,9 +15,9 @@ description: A detailed listing of the responsibilities of Support Engineers in 
    will help you to know where to focus your efforts on a regular basis.
 1. The '**What does success look like?**' subsections help encourage consistent contributions across our global team. They're not hard targets that must be met. They're to help you know how and where to contribute to succeed in your role.
 1. **Performance measurement for annual reviews and promotions are separate activities to the core responsibilities described here.**
-     1. The People Group is responsible for the [GitLab annual review process](https://about.gitlab.com/handbook/people-group/360-feedback/).
+     1. The People Group is responsible for the [GitLab annual review process](/handbook/people-group/360-feedback/).
      1. Read about [Support Engineer Career Path](/handbook/support/support-engineer-career-path.html) for further resources on promotions, and understanding the role at different levels.
-1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](https://about.gitlab.com/company/okrs/).
+1. Support Engineering has [team level performance indicators](/handbook/support/#how-we-measure-our-performance). Successfully carrying out the responsibilities on this page will, directly or indirectly, help improve our KPIs. All team-level KPIs are, in turn, related to GitLab's company-level [Objectives and Key Results](/handbook/company/okrs/).
 
 ## Support Engineer Areas of Focus
 
@@ -70,7 +70,7 @@ Support Engineers are responsible for:
 
 - Creating their work schedule with their manager
 - Coordinating day-to-day availability for ticket work with their SGG
-- Working with any Support Manager to take on higher-priority tasks based on customer needs
+- Working with any Support Manager to take on higher-priority tasks (such as STARs or account escalations) based on customer needs
 
 ### 2. Work with your group to meet our FRT SLA target
 
@@ -147,6 +147,8 @@ Here are a few tips for maintaining good progress:
       next update
    1. If you haven't completed the intended work by update time, let the
       customer know what progress you've made and then set a new update time
+1. If your ticket is [STARred](https://handbook.gitlab.com/handbook/support/internal-support/support-ticket-attention-requests/) during your business hours, work with the on-call manager and the person who submitted the STAR to help address any concerns.
+   1. You are not expected to respond or engage in a STAR if you are unavailable (for example, you are on PTO or its after hours). When you are back online, review the STAR thread to ensure you're up-to-speed, and address any follow-up actions, if applicable.
 
 ### 4. Manage customer expectations and communicate thoroughly through tickets and calls
 
@@ -266,7 +268,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 ## Create and update issues for bugs and feature requests (Weekly)
 
-Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](https://about.gitlab.com/handbook/support/workflows/working-with-issues.html) helps achieve this.
+Reducing future customer problems is an important part of being a Support Engineer. [Creating, updating and escalating issues for bugs and feature requests](/handbook/support/workflows/working-with-issues.html) helps achieve this.
 
 **What does success look like?**
 
@@ -338,7 +340,7 @@ If you wish to participate in any of these activities, please discuss it with yo
 
 We are committed to helping you develop your skills through continuous learning. You can complete [modules in the Support Training project](https://gitlab.com/gitlab-com/support/support-training).
 
-The GitLab [Learning and Development team](https://about.gitlab.com/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Support Engineers are also encouraged to complete courses and certification from external providers. Speak with your manager to plan your learning goals.
 

@@ -4,7 +4,7 @@ title: "Root Cause Analysis for Critical Vulnerabilities"
 
 ## What is an RCA?
 
-Root Cause Analysis (RCA) is a process to ultimately identify the root problem of an issue so that we may prevent it from occurring again. You can learn more about [RCAs here](/handbook/engineering/root-cause-analysis/).
+Root Cause Analysis (RCA) is a process to ultimately identify the root problem of an issue so that we may prevent it from occurring again. You can learn more about [RCAs here](https://about.gitlab.com/handbook/engineering/root-cause-analysis/).
 
 To do this a DRI and all relevant other stakeholders from Security and the affected teams (as determined by the DRI) systematically work through a set of questions and discussion topics, as defined in our [RCA Template](https://gitlab.com/gitlab-com/gl-security/rcas/-/blob/main/.gitlab/issue_templates/RCA.md).
 

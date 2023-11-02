@@ -35,7 +35,7 @@ As a participant in this program, GitLab team members will:
 
 ## Eligibility
 
-All members, including allys, in the Women TMRG are welcome to participate. If you are not yet a member of the TMRG, please follow [these instructions](/company/culture/inclusion/tmrg-gitlab-women/#how-to-join) to join before applying.
+All members, including allys, in the Women TMRG are welcome to participate. If you are not yet a member of the TMRG, please follow [these instructions](/handbook/company/culture/inclusion/tmrg-gitlab-women/#how-to-join) to join before applying.
 
 The size of this cohort is limited to 50 total participants. Applications for this pilot are currently closed.
 
@@ -50,7 +50,7 @@ Participants interested in `Activate your Agile Career` should expect and commit
     - 2022-11-09 @ 4pm UTC - 90 minutes
     - 2023-01-11  @ 4pm UTC - 90 minutes
 1. Complete post-session self paced homework and reflections (total of 7-10 hours)
-1. Read or listen to [Activate Your Agile Career: How Responding to Change Will Inspire Your Life's Work](https://www.amazon.com/Activate-Your-Agile-Career-Responding/dp/0998953121). You can [expense work related books](https://about.gitlab.com/handbook/finance/expenses/#-expense-policy-summary).
+1. Read or listen to [Activate Your Agile Career: How Responding to Change Will Inspire Your Life's Work](https://www.amazon.com/Activate-Your-Agile-Career-Responding/dp/0998953121). You can [expense work related books](/handbook/finance/expenses/#-expense-policy-summary).
 1. Attend monthly cohort accountability sync sessions (5 total) along with participants with similar career goals - 25 minutes each
 1. Complete a personal IGP and have a career development conversation with their manager
 

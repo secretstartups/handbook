@@ -42,8 +42,8 @@ It is important to us to create an accessible and inclusive interview experience
 Now it's time to get excited! Here are some links that might help you understand our company and the role even better:
 
 - [Values]({{< ref "values" >}})
-- [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-- [Informal Communication in an all-remote environment](https://about.gitlab.com/company/culture/all-remote/informal-communication/)
+- [GitLab Company Culture](/handbook/company/culture/)
+- [Informal Communication in an all-remote environment](/handbook/company/culture/all-remote/informal-communication/)
 - [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/)
 - [Coding at Scale](https://about.gitlab.com/handbook/engineering/infrastructure/coding-at-scale/)
 - [Infrastructure careers and internships](https://about.gitlab.com/handbook/engineering/infrastructure/career/)

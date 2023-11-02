@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Handling GitLab Dedicated License Requests
 description: "How to handle GitLab Dedicated License Requests"
 category: GitLab Self-Managed licenses

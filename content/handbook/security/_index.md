@@ -10,7 +10,7 @@ description: "Security at GitLab"
 #### Accounts and Passwords
 
 1. Read and follow the requirements for handling passwords and other credentials in
-  the [GitLab Password Standards](https://about.gitlab.com/handbook/security/password-standard.html)
+  the [GitLab Password Standards](/handbook/security/password-standard.html)
   for all accounts used to conduct GitLab related work.
   Using 1Password to [generate and store] the passwords is strongly recommended.
 1. Set up your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
@@ -42,7 +42,7 @@ description: "Security at GitLab"
   If any systems provide an option to use SMS text as a second factor, this is highly discouraged.
   Phone company security can be easily subverted by attackers allowing them to take over a phone account.
   *(Ref: [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication) / [2 minute Youtube social engineering attack with a phone call and crying baby](https://www.youtube.com/watch?v=lc7scxvKQOo))*
-1. A FIDO2/WebAuthn hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](https://about.gitlab.com/handbook/spending-company-money/). GitLab's standard is Yubico's YubiKey. For more information on FIDO2/WebAuthn, visit the [Tools and Tips page](/handbook/tools-and-tips/#fido2webauthn-devices).
+1. A FIDO2/WebAuthn hardware token can be used as a secure and convenient 2-factor authentication method for Okta, Google Workspace, GitLab instances, and many other sites. If you do not have one, you may consider [purchasing one](/handbook/spending-company-money/). GitLab's standard is Yubico's YubiKey. For more information on FIDO2/WebAuthn, visit the [Tools and Tips page](/handbook/tools-and-tips/#fido2webauthn-devices).
 1. If shared access to a single account is required by multiple team members, for example, a social media account, an Okta [new application setup Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta&_gl=1*hvl1g4*_ga*ODQwNzAxNjM0LjE2NjYwNDc2Njc.*_ga_ENFH3X7M5Y*MTY4Njk0MTkzOC43MDIuMS4xNjg2OTQyMTc4LjAuMC4w) should be created. The credentials will be stored and shared via Okta.
 1. If you find an existing shared account in 1Password, [create an Issue](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=change_management_okta) to get it migrated to Okta.
 
@@ -137,11 +137,11 @@ You can view a list of vulnerabilities affecting a given version of GitLab [here
 
 ###### Classified Data
 
-Do not host or store any [classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels) on test or demo instances.
+Do not host or store any [classified data](/handbook/security/data-classification-standard/#data-classification-levels) on test or demo instances.
 
-For public-facing instances, only [Green data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#green) is allowed.
+For public-facing instances, only [Green data](/handbook/security/data-classification-standard/#green) is allowed.
 
-[RED, ORANGE, and YELLOW classified data](https://handbook.gitlab.com/handbook/security/data-classification-standard/#data-classification-levels), along with customer data and personal data, should never be copied to or stored on test or demo instances.
+[RED, ORANGE, and YELLOW classified data](/handbook/security/data-classification-standard/#data-classification-levels), along with customer data and personal data, should never be copied to or stored on test or demo instances.
 
 ###### Clean Up
 
@@ -168,7 +168,7 @@ Also, remember to [clean up](#clean-up) the instance as soon as your test or dem
 
 ###### Use HTTPS
 
-To be in line with [GitLab’s encryption policy](https://about.gitlab.com/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources. For GitLab instances, you can use the [LetsEncrypt integration](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance). [Let’s Encrypt](https://letsencrypt.org/) is enabled by default if `external_url` is set with the HTTPS protocol and no other certificates are configured.
+To be in line with [GitLab’s encryption policy](/handbook/security/threat-management/vulnerability-management/encryption-policy.html), TLS should also be implemented on public-facing testing resources. For GitLab instances, you can use the [LetsEncrypt integration](https://docs.gitlab.com/omnibus/settings/ssl.html#primary-gitlab-instance). [Let’s Encrypt](https://letsencrypt.org/) is enabled by default if `external_url` is set with the HTTPS protocol and no other certificates are configured.
 
 #### Security Awareness
 
@@ -184,7 +184,7 @@ To be in line with [GitLab’s encryption policy](https://about.gitlab.com/handb
   [they might be aiming for the company](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b).
 1. If you receive a security report of any kind (issue, customer ticket, etc.)
   never **dismiss** it as invalid. Please bring it to the attention of the
-  [Security Team](/handbook/engineering/security), and follow the steps outlined on
+  [Security Team](https://about.gitlab.com/handbook/engineering/security), and follow the steps outlined on
   that team's handbook page.
 1. **Report** suspect situations to an officer of the company or use the [engage the Security Engineer on-call](/handbook/security/security-operations/sirt/engaging-security-on-call.html).
 1. If you have security **suggestion**, create an issue on the
@@ -200,13 +200,13 @@ To be in line with [GitLab’s encryption policy](https://about.gitlab.com/handb
 
 #### Personal Access Tokens
 
-1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
+1. When creating a [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html), be sure to choose the appropriate [scopes](/handbook/security/security-operations/sirt/engaging-security-on-call.html) that only have the permissions that are absolutely necessary.
 1. Oftentimes a [Project Access Token](https://docs.gitlab.com/ee/user/project/settings/project_access_tokens.html) might be sufficient instead of a Personal Access Token. Project Access Tokens have a much more limited scope and should be preferred over Personal Access Tokens whenever possible.
 1. Always set an expiration for your tokens when creating them. Tokens should preferably expire in a matter of hours or a day.
 1. Be mindful to keep these personal access tokens secret. Be particularly careful not to accidentally commit them in configuration files, paste them into issue or merge request comments, or otherwise expose them.
 1. Please consider periodically reviewing your currently active Personal Access Tokens and revoking any that are no longer needed.
 1. Personal Access Tokens will be highly discouraged within the GitLab production environment, and disallowed/disabled wherever possible. Existing tokens shall remain, but additional issuance will not be permissible/possible.
-1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](https://about.gitlab.com/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
+1. If you believe a personal access token has been leaked, revoke it immediately (if possible) and [contact the security team](/handbook/security/security-operations/sirt/engaging-security-on-call.html) using the `/security` Slack command.
 
 ### Panic Email
 
@@ -216,7 +216,7 @@ GitLab provides a `panic@gitlab.com` email address for team members to use in si
 
 This email address is only accessible to GitLab team members and can be reached from their gitlab.com or personal email address as listed in Workday. Using this address provides an excellent way to limit the damage caused by a loss of one of these devices.
 
-Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](https://about.gitlab.com/handbook/people-group/#in-case-of-emergency).
+Additionally if a GitLab team member experiences a personal emergency the People Group also provides an [emergency contact email](/handbook/people-group/#in-case-of-emergency).
 
 ## Security Department
 
@@ -244,7 +244,7 @@ FY23 began with the creation of a new sub-department known as Threat and Vulnera
 Initially, Vulnerability Management will be very focused on implementing an initial process to better track and analyze cloud assets (GCP, AWS, Azure, DO)  for vulnerabilities.  Once this initial process is in place and being executed on we will begin expanding coverage to the GitLab product, specific business critical projects and other potential weaknesses. The overall goal of this team will be to create a holistic view of GitLab’s attack surface and ensure that the necessary attention is given to remediating issues.
 FY23 will also see the introduction of several new security teams.  In addition to the vulnerability management team mentioned above, we are also adding a Log Management team.  This team will report into the Security Engineering sub-department and will be responsible for creating a more holistic approach to log management, incident response, and forensic investigation.
 
-Lastly, we value the opinions and feedback of our team members and encourage them to submit ideas [handbook first](https://about.gitlab.com/company/culture/all-remote/handbook-first/) (directly to the handbook in the form of an MR).  We saw incredible gains in our culture amp survey results in FY22 and going forward we are committed to continuous improvement of our leadership team, team growth and development, and GitLab culture within the Security Department.
+Lastly, we value the opinions and feedback of our team members and encourage them to submit ideas [handbook first](/handbook/company/culture/all-remote/handbook-first/) (directly to the handbook in the form of an MR).  We saw incredible gains in our culture amp survey results in FY22 and going forward we are committed to continuous improvement of our leadership team, team growth and development, and GitLab culture within the Security Department.
 
 {{% include "includes/we-are-also-product-development.md" %}}
 
@@ -365,7 +365,7 @@ The term “Product” is interpreted broadly and includes the GitLab applicatio
 
 ##### Infrastructure Security
 
-The [Infrastructure Security team]({{< ref "security-engineering/infrastructure-security" >}}) consists of cloud security specialists that serve as a stable counterpart to the [Infrastructure Department](/handbook/engineering/infrastructure) and their efforts. The team is focused on two key aspects of security:
+The [Infrastructure Security team]({{< ref "security-engineering/infrastructure-security" >}}) consists of cloud security specialists that serve as a stable counterpart to the [Infrastructure Department](https://about.gitlab.com/handbook/engineering/infrastructure) and their efforts. The team is focused on two key aspects of security:
 
 - The security of GitLab.com's infrastructure
 - The availability and scalability of Security's own infrastructure
@@ -612,7 +612,7 @@ Depending on the impacted resources, the following teams should be engaged and m
 
 - [Database: Disaster Recovery Team](https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery.html) - responsible for disaster recovery strategy for the PostgreSQL database.
 - [Infrastructure Team](https://about.gitlab.com/handbook/engineering/infrastructure/#teams) - availability, reliability, performance, and scalability of GitLab SaaS software
-- [Infrastructure Security Team](https://about.gitlab.com/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
+- [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
 - [Business Technology Engineering](https://about.gitlab.com/handbook/business-technology/engineering/) - endpoint and systems access management
 - [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
 - [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
@@ -633,11 +633,11 @@ GitLab releases patches for vulnerabilities in dedicated security releases. Ther
 
 #### Timing of the monthly security release
 
-Our team targets release of the scheduled, monthly security release around the 28th, or 6-10 days after the [monthly feature release](https://about.gitlab.com/handbook/engineering/releases/) and communicates the release via [blog](https://about.gitlab.com/releases/categories/releases/) and email notification to subscribers of our [security notices](https://about.gitlab.com/company/contact/).
+Our team targets release of the scheduled, monthly security release around the 28th, or 6-10 days after the [monthly feature release](https://about.gitlab.com/handbook/engineering/releases/) and communicates the release via [blog](https://about.gitlab.com/releases/categories/releases/) and email notification to subscribers of our [security notices](/handbook/company/contact/).
 
 #### Receive notification of security releases
 
-- To receive security release blog notifications delivered to your inbox, visit our [contact us](https://about.gitlab.com/company/contact/) page.
+- To receive security release blog notifications delivered to your inbox, visit our [contact us](/handbook/company/contact/) page.
 - To receive release notifications via RSS, subscribe to our [security release RSS feed](https://about.gitlab.com/security-releases.xml) or our [RSS feed for all releases](https://about.gitlab.com/all-releases.xml).
 
 #### Security release related documentation
@@ -685,7 +685,7 @@ When opening issues, please follow the [Creating New Security Issues](#creating-
   on their own [security best practices page]({{< ref "." >}}).
 - [Secure Coding Training]({{< ref "secure-coding-training" >}}).
 - GitLab.com [data breach notification policy](https://about.gitlab.com/security/#data-breach-notification-policy).
-- GitLab Internal Acceptable Use [Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/).
+- GitLab Internal Acceptable Use [Policy](/handbook/people-group/acceptable-use-policy/).
 - For GitLab.com, we have developed a [Google Cloud Platform (GCP) Security Guidelines Policy](https://docs.google.com/document/d/1BBTWC5OpIqrva7DqH4nkjYUmNZ3UFbc6erqV89P_N-o/edit?usp=sharing) document, which outlines recommended best practices, and is enforced through
 our security automation initiatives.
 - GitLab Security Tanuki for use on security release blogs, social media and security related swag as appropriate:
@@ -694,6 +694,7 @@ our security automation initiatives.
     - and one [exclusively for stickers](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/blob/master/design/gitlab-brand-files/gitlab-logo-files/gitlab-security-logo/print-cmyk/pdf/sticker/gitlab-security-icon-diecut-sticker-3x2_78in.pdf).
 - [Security READMEs](/handbook/security/readmes/)
 - [Working in Security](/handbook/security/working-in-security.md)
+- [Contributing to GitLab the product as a Security team member]({{< ref "contributing-to-gitlab-the-product" >}})
 
 #### AI in Security Learning Group
 
@@ -748,7 +749,7 @@ Severity label is determined by CVSS score, using the [GitLab CVSS calculator](h
 If another team member feels that the chosen `~severity` / `~priority` labels
 need to be reconsidered, they are encouraged to begin a discussion on the relevant issue.
 
-The presence of the `~bug::vulnerability` label modifies the standard [severity labels](/handbook/engineering/quality/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
+The presence of the `~bug::vulnerability` label modifies the standard [severity labels](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity)(`~severity::1`, `~severity::2`, `~severity::3`, `~severity::4`)
 by additionally taking into account
 likelihood as described below, as well as any
 other mitigating or exacerbating factors. The priority of addressing
@@ -1069,34 +1070,3 @@ Best Regards,
 Security Department | GitLab
 https://handbook.gitlab.com/handbook/security/
 ```
-
-### Security Engineering Code Contributions
-
-Security Engineers typically act as Subject Matter Experts and advisors to GitLab's engineering teams. Security Engineers may wish to make a larger contribution to GitLab products, for example a defense-in-depth measure or new security feature.
-
-Like any contributor, follow the [Contributor and Development Docs](https://docs.gitlab.com/ee/development/), paying particular attention to the issue workflow, merge requests workflow, style guides, and testing standards.
-
-Security Engineers will need to collaborate with and ultimately hand over their work to a team in the Development Department. That team will be responsible for prioritisation, review, rollout, error budget, and maintenance of the contribution. Security Engineers should ideally open an Issue or Epic as early as possible, labelled with the candidate owning team. The team can inform implementation or architectural decisions, highlight existing or upcoming work that may impact yours, and let them plan capacity for reviewing your work.
-
-If a team does not have capacity or a desire to assist, a Security Engineer's work can still continue; everyone can contribute.
-
-Requests from Security Engineers for new features and enhancements should follow the process in ["Requesting something to be scheduled"](https://about.gitlab.com/handbook/engineering/workflow/#requesting-something-to-be-scheduled)
-
-This does not apply to addressing security vulnerabilities or dependency updates, which have [separate processes for triage and patching](#issue-triage).
-
-### External Code Contributions
-
-We have a process in place to conduct security reviews for externally contributed code, especially if the code functionality includes any of the following:
-
-- Processing credentials/tokens
-- Storing credentials/tokens
-- Logic for privilege escalation
-- Authorization logic
-- User/account access controls
-- Authentication mechanisms
-
-The Security Team works with our Community Outreach Team to ensure that security reviews are conducted where relevant. For more information about contributing, please reference the [Contribute to GitLab](https://about.gitlab.com/community/contribute/) page.
-
-### Package Signing{#package-signing}
-
-The packages we ship are signed with GPG keys, as described in the [GitLab documentation](https://docs.gitlab.com/ee/administration/package_information/signed_packages.html). The process around how to make and store the key pair in a secure manner is described in [the runbooks](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/packaging/manage-package-signing-keys.md). The Distribution team is responsible for updating the package signing key. For more details that are specific to key locations and access at GitLab, find the internal google doc titled "Package Signing Keys at GitLab" on Google Drive.

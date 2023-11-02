@@ -64,6 +64,10 @@ team calendar.
 - [Support Maple ID](https://calendar.google.com/calendar/u/0/embed?src=c_9267f798a9ed00f9341979d21fe5a765ba474727bd1734e5e21a341880ab8cef@group.calendar.google.com)| [Support Maple AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_dafae2e5f43c29027e2f1192fcc4c6c4f653f0c3670f016ab4275c903bf2ac4e@group.calendar.google.com)| [Support Maple APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_166c8a69af9b7cc7f50d17d27c953f00675beb597f46e1317f5dbb863d85e0ba@group.calendar.google.com) | [Support Maple EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_c86311c4b592a35fe5f598fdab42facd800c646d4615e7c6af6b230e230f3469@group.calendar.google.com)
 - [Support Pine ID](https://calendar.google.com/calendar/u/0/embed?src=c_cef7cdb1565aed8160b68d5fb227a0d8458c114254bc0cf6341477ff376069f1@group.calendar.google.com)| [Support Pine AMER ID](https://calendar.google.com/calendar/u/0/embed?src=c_5fccfa58dd768e2e6bb3159596b503cab508cab65907721c9c786b1ea50622d7@group.calendar.google.com)| [Support Pine APAC ID](https://calendar.google.com/calendar/u/0/embed?src=c_7e8a93a17189fc9b38bf5e3a3cc172a6dbe1df0b353f76a3ba94d7c01e436b99@group.calendar.google.com) | [Support Pine EMEA ID](https://calendar.google.com/calendar/u/0/embed?src=c_6e35e330542a169789e51bf78fd181794124a2779b8c5ea31000802bf44de431@group.calendar.google.com)
 
+##### Manager Calendar Links
+
+- [Support Managers AMER](https://calendar.google.com/calendar/embed?src=c_d786d5c8e42ba6058b3a5df60448c17e41255f84a0c00549d197f0466000527d%40group.calendar.google.com&ctz=America%2FChicago)
+
 ## Choosing and recording time off
 
 Please take time off whenever you need it.
@@ -72,7 +76,7 @@ A little thoughtfulness on everybody's part will go a long way toward making it
 possible for everyone to take their desired days off. As you look to plan your
 time off, please:
 
-- ensure you know the [company wide paid time off guidelines](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
+- ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
 - consider a different time off schedule if your [regional capacity calendar](https://gitlab.com/gitlab-com/support/toolbox/support-calendar) shows that on any of the days you would be absent, the regional team would be short by 20% or more of its people
 - check the regional and global calendars for the groups you are part of (SGG/L&R/etc.) and coordinate with your group to ensure we have sufficient cover for days with low availability.
 - schedule your time off as far in advance as you can, especially for days that
@@ -93,7 +97,7 @@ If you're taking off **less than half a day,** you do not need to make entries i
 
 If you're taking off **a half day or more,** enter the time off in Time Off by Deel.
 
-At the end of your last work day before taking PTO, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
+At the end of your last work day before taking PTO, update your availability using the [Out of Office](/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make unavailable` button on the row with your user information in it.
 
 Follow the guidance below to prepare yourself, your customers, and your colleagues.
 
@@ -147,7 +151,7 @@ If they want to pause, put the ticket on-hold. Otherwise:
 
 ## How Support Handles Family and Friends Days
 
-During [Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
+During [Family and Friends Days](/handbook/company/family-and-friends-day/#upcoming-family-and-friends-days) GitLab Support continues
 to operate as normal. During the month of a Family and Friends Days, choose a day off to spend as you please.
 Please follow the same guidelines as you would in [Choosing and Recording Time Off](#choosing-and-recording-time-off).
 
@@ -200,7 +204,7 @@ Otherwise:
 ## General Tips
 
 In addition to the company-wide tips in
-[Communicating Your Time Off](https://about.gitlab.com/handbook/paid-time-off/#communicating-your-time-off),
+[Communicating Your Time Off](/handbook/paid-time-off/#communicating-your-time-off),
 take a look at these tips to increase your ability to disconnect from work,
 truly make the most of your time off, and make it easier to return to work:
 
@@ -237,6 +241,6 @@ that happened while you were away:
 
 Consider setting up a few coffee chats with teammates to simply reconnect with them. You can also ask your teammates who haven't taken PTO while you were out, during coffee chats or pairing sessions, to mention a thing or two that you might have missed.
 
-Once you have taken the time to catch-up, update your availability using the [Out of Office](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
+Once you have taken the time to catch-up, update your availability using the [Out of Office](/handbook/support/readiness/operations/docs/zendesk/apps/#out-of-office) app in Zendesk showing you are no longer OOO. This is done by navigating to the [app in Zendesk](https://gitlab.zendesk.com/agent/apps/out-of-office) and clicking the `Make available` button on the row with your user information in it.
 
-For more tips, check [returning from pto](https://about.gitlab.com/handbook/paid-time-off/#returning-from-pto).
+For more tips, check [returning from pto](/handbook/paid-time-off/#returning-from-pto).

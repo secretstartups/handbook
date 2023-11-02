@@ -8,14 +8,14 @@ The Channel Program Manager will be responsible for the design, management & exe
 
 | Role | Grade |
 | -- | - |
-| [Junior Channel Program Manager](#junior-channel-program-manager) | [Grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Channel Program Manager](#channel-program-manager) | [Grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Channel Program Manager](#junior-channel-program-manager) | [Grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
-| [Lead Channel Program Manager](#lead-channel-program-manager) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
-| [Manager, Channel Program](#manager-channel-program) | [Grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Manager, Channel Program](#senior-manager-channel-program) | [Grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Director, Channel Program](#director-channel-programs) | [Grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
-| [Senior Director, Channel Program](#director-channel-programs) | [Grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Junior Channel Program Manager](#junior-channel-program-manager) | [Grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Channel Program Manager](#channel-program-manager) | [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Channel Program Manager](#junior-channel-program-manager) | [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+| [Lead Channel Program Manager](#lead-channel-program-manager) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+| [Manager, Channel Program](#manager-channel-program) | [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Manager, Channel Program](#senior-manager-channel-program) | [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Director, Channel Program](#director-channel-programs) | [Grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
+| [Senior Director, Channel Program](#director-channel-programs) | [Grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) |
 
 ## Junior Channel Program Manager
 
@@ -23,7 +23,7 @@ The Junior Channel Program Manager reports to the Manager, Channel Programs.
 
 #### Job Grade
 
-The Junior Channel Program Manager is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior Channel Program Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -37,7 +37,7 @@ To be defined at time of business need.
 
 #### Job Grade
 
-The Channel Program Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Channel Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -68,7 +68,7 @@ The Channel Program Manager will be responsible for the design, management & exe
 
 #### Job Grade
 
-The Senior Channel Program Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -98,7 +98,7 @@ The Sr. Channel Program Manager will be responsible for the design, management &
 
 #### Job Grade
 
-The Lead Channel Program Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Lead Channel Program Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -128,7 +128,7 @@ Establish and track metrics of the program, run a quarterly compliance process w
 
 #### Job Grade
 
-The Manager, Channel Program is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Channel Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -142,7 +142,7 @@ To be defined at time of business need.
 
 #### Job Grade
 
-The Senior Manager, Channel Program is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Channel Program is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -174,7 +174,7 @@ The Sr. Manager, Channel Program will be responsible for the design, management 
 
 #### Job Grade
 
-The Director, Channel Programs is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Programs is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -209,7 +209,7 @@ The Senior Director, Channel Program reports to the VP of Global Channels.
 
 #### Job Grade
 
-The Senior Director, Channel Program is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Channel Program is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -242,4 +242,4 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Phone screen with a GitLab Recruiting team member
 1. Video Interview with the Hiring Manager
 1. Team Interviews with 1-4 teammates
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Handling trials and extensions for GitLab Self-Managed
 category: GitLab Self-Managed licenses
 description: Issuing a license to "extend" Self-managed trials and grace periods

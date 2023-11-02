@@ -52,13 +52,13 @@ Given that support team has no influence over the process at this point, direct 
 #### When manually pausing QSR
 
 1. You will need to take responsibility for ensuring that it becomes reactivated after a bug-fix or other work-around has been implemented.
-   - Consider the [due date app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app), [reminder app](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app), Slack's built-in reminder tool, or whatever works for you.
+   - Consider the [due date app](/handbook/support/readiness/operations/docs/zendesk/apps/#zendesk-super-app), [reminder app](/handbook/support/readiness/operations/docs/zendesk/apps/#gitlab-reminders-app), Slack's built-in reminder tool, or whatever works for you.
 
 ## Resolving Max Seats Overages
 
 **Important:** Do not reset a namespace's `Max Seats` without the necessary approvals in chatter. View this step as waiving trueups, and refer to the sales-ops handbook page [Waived True-Ups: Policy and Approval Requirements](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#waived-true-ups-policy-and-approval-requirements)
 
-If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > [Max Seats tool](https://handbook.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#set-max-seats), or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
+If approvals are given for resetting `Max Seats`, you can use the ZenDesk Mechanizer App > [Max Seats tool](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer/#set-max-seats), or do so through console access.  Document the action in the relevant ticket, or in an [internal-request](https://gitlab-com.gitlab.io/support/internal-requests-form/). In the case where QSR is approved for refund, approval for `Max seats` reset is still needed.
 
 Be sure that you are setting this value such that it only eliminates the approved and waived overages. In many cases, you can simply set this value to the namespace's current usage, but use some common sense here too like reviewing the ticket, screenshots, customer interactions, etc to be sure you are setting the proper amount.  Ask in slack if you're unsure.
 

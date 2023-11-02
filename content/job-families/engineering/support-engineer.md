@@ -1,6 +1,6 @@
 ---
 title: "Support Engineer"
-description: "Support Engineering Management at GitLab isn’t your typical management opportunity because of our approach to the function."
+description: "The core responsibility of a GitLab Support Engineer is to deliver an excellent support experience to our customers on a daily basis by working with them to solve the problems and answer the questions that they present to us in support tickets."
 canonical_path: "/job-families/engineering/support-engineer/"
 ---
 
@@ -14,7 +14,7 @@ This position is 100% remote.
 
 ### Job Grade
 
-The Support Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Support Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### What you can expect in a Support Engineer role at GitLab
 
@@ -82,7 +82,7 @@ When you’re not tackling difficult customer challenges, you’ll have a lot of
 
 Support Engineers with verified US Citizenship may join the GitLab US Federal Support Team. This group works through the [US Federal Support portal](https://about.gitlab.com/support/us-federal-support/) to collaborate with Public Sector organizations and United States Government agencies in order to support, maintain, and resolve issues in their GitLab environments.
 
-There are a number of challenges that are unique when it comes to supporting the customer environments that an engineer may encounter in the Federal space. Some of those challenges may include highly sanitized and redacted troubleshooting information, inability to screenshare or provide screenshots, etc. You can learn more about working on tickets in the US Federal Support portal [here](https://about.gitlab.com/handbook/support/workflows/federal_tickets.html). If you look forward to the aforementioned challenges and meet the requirements for US Federal Support, apply today!
+There are a number of challenges that are unique when it comes to supporting the customer environments that an engineer may encounter in the Federal space. Some of those challenges may include highly sanitized and redacted troubleshooting information, inability to screenshare or provide screenshots, etc. You can learn more about working on tickets in the US Federal Support portal [here](/handbook/support/workflows/federal_tickets.html). If you look forward to the aforementioned challenges and meet the requirements for US Federal Support, apply today!
 
 ### Support Engineer (Shift)
 
@@ -94,9 +94,9 @@ In addition to the above requirements for Global Support Engineers, you will nee
 
 - Valid proof of US Citizenship
 
-### [What it’s like to work here](https://about.gitlab.com/company/culture/#so-thats-what-its-like-to-work-at-gitlab) at GitLab
+### [What it’s like to work here](/handbook/company/culture/#so-thats-what-its-like-to-work-at-gitlab) at GitLab
 
-The [culture](https://about.gitlab.com/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team members are currently located in over 60 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](https://about.gitlab.com/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team members are fully remote and receive GitLab's [Flexible PTO policy](https://about.gitlab.com/handbook/paid-time-off/), where there is no set limit per year on the amount of paid time off a team member can take. You can work incredibly flexible hours, enabled by our [asynchronous approach](https://about.gitlab.com/handbook/communication/) to communication. We’ll also help you set up your [home office environment](https://about.gitlab.com/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](https://about.gitlab.com/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
+The [culture](/handbook/company/culture/) here at GitLab is something we’re incredibly proud of. Because GitLab team members are currently located in over 60 different countries, you’ll spend your time collaborating with kind, talented, and motivated colleagues from across the globe. Some of the [benefits](/handbook/total-rewards/benefits/) you’ll be entitled to vary by the region or country you’re in. However, all GitLab team members are fully remote and receive GitLab's [Flexible PTO policy](/handbook/paid-time-off/), where there is no set limit per year on the amount of paid time off a team member can take. You can work incredibly flexible hours, enabled by our [asynchronous approach](/handbook/communication/) to communication. We’ll also help you set up your [home office environment](/handbook/spending-company-money/), pay for your membership to a co-working space, and contribute to the [travel costs](/handbook/incentives/#visiting-grant) associated with meeting other GitLab employees across the world.
 
 Also, every year or so, we’ll invite you to our [Contribute event](https://about.gitlab.com/events/gitlab-contribute/).
 
@@ -112,7 +112,7 @@ A Senior Support Engineer is a more experienced engineer who continues to contri
 
 #### Job Grade
 
-The Senior Support Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Support Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 Generally they meet the following criteria. They:
 
@@ -128,7 +128,7 @@ A Senior Support Engineer may be interested in exploring Support Management as a
 
 #### Job Grade
 
-The Staff Support Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
+The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
 A Senior Support Engineer will be promoted to Staff Support Engineer when they have
 demonstrated significant leadership and impact; typically around resolving customer issues. This may
@@ -151,24 +151,24 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Support Engineers have the following job-family Performance Indicators.
 
-- [Customer satisfaction with Support](https://about.gitlab.com/handbook/support/performance-indicators/#support-satisfaction-ssat)
-- [Maintain at least average monthly tickets](https://about.gitlab.com/handbook/support/performance-indicators/#average-daily-tickets-closed-per-support-team-member)
-- [Service Level Agreement](https://about.gitlab.com/handbook/support/performance-indicators/#service-level-agreement-sla)
-- [Ticket deflection through documentation updates](https://about.gitlab.com/handbook/support/workflows/how-to-respond-to-tickets.html#improving-the-customer-experience-through-ticket-deflection)
+- [Customer satisfaction with Support](/handbook/support/performance-indicators/#support-satisfaction-ssat)
+- [Maintain at least average monthly tickets](/handbook/support/performance-indicators/#average-daily-tickets-closed-per-support-team-member)
+- [Service Level Agreement](/handbook/support/performance-indicators/#service-level-agreement-sla)
+- [Ticket deflection through documentation updates](/handbook/support/workflows/how-to-respond-to-tickets.html#improving-the-customer-experience-through-ticket-deflection)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Technical assessment.
 - 30-minute screening call with a Recruiter.
-- 90-Minute [Technical Interview](https://about.gitlab.com/handbook/hiring/interviewing/customer-support-interviewing/#4-90-minute-technical-interview-with-a-member-of-the-support-team) with a member of the Support team.
+- 90-Minute [Technical Interview](/handbook/hiring/interviewing/customer-support-interviewing/#4-90-minute-technical-interview-with-a-member-of-the-support-team) with a member of the Support team.
     - The Technical Interview will involve live break-fix/bug-fix scenarios as well as customer scenarios. You will need to have access to a terminal with Bash or similar. You will also need to have an SSH key pair installed locally so you can connect to the server. Windows users must have ‘Git Bash for Windows’ installed prior to the call. If the Technical Interview is not passed, the Behavioral Interview will be canceled.
 - (optional) Zoom call with a member of the Support team – an opportunity for you to discuss any questions you might have about the role. This optional call has no influence on our decision, this is meant to help *you* clarify whatever you need to make your decision.
 - 60-Minute Behavioral Panel Interview with a Support Engineering Manager & one other member of the team.
 - 60-Minute Interview with a Senior Manager or Director of Support.
 - Reference Checks.
-- (optional) Zoom call with a member of a [Team Member Resource Group](https://about.gitlab.com/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups). Similarly to the optional call with a Support team member, this is an opportunity for you to learn more about your potential new workplace.
+- (optional) Zoom call with a member of a [Team Member Resource Group](/handbook/company/culture/inclusion/erg-guide/#definition-of-the-tmrg---team-member-resource-groups). Similarly to the optional call with a Support team member, this is an opportunity for you to learn more about your potential new workplace.
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

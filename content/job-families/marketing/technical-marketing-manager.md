@@ -4,7 +4,7 @@ summary: Evangelize our products to both technical and non technical audiences b
 ---
 
 Technical marketing managers at GitLab have a unique opportunity to contribute to our
-[mission](https://about.gitlab.com/company/mission/#mission):
+[mission](/handbook/company/mission/#mission):
 
 To change all creative work from read-only to read-write so that everyone can contribute.
 When everyone can contribute, consumers become contributors, and we greatly increase the rate of human progress.
@@ -17,9 +17,9 @@ as a technical evangelist at key trade shows and customer meetings.
 
 ## Job Grade
 
-The Technical Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-The Senior Technical Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Technical Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -176,9 +176,9 @@ The next step in the Technical Marketing Manager job family is to move to the [M
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Candidates then will be invited to schedule a 45 minute interview with the Manager of Technical Marketing.
 - Candidates may be invited to schedule 45 minute technical interview with a member of the Technical Marketing team.
 - Candidates may be invited to schedule a 30 minute peer interview with someone on the Technical Marketing team.
@@ -187,4 +187,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CMO or CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via phone, email, or video.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

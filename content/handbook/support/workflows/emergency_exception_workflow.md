@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: Emergency Exception Workflow
 category: On-call
 description: "Describes the exception process for emergencies with some examples"

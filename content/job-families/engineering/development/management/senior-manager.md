@@ -25,13 +25,13 @@ with fullstack teams (frontend, backend, and fullstack engineers), and/or Engine
   - Leading business critical cross-functional initiatives in addition to managing a team.
 - Conduct managerial interviews for candidates, and train engineering managers to do managerial interviews
 - Generate and implement process improvements, especially cross-team processes
-- Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team members and [skip-level](https://about.gitlab.com/handbook/leadership/skip-levels/) 1:1s with indirect reports
+- Hold regular [1:1s](/handbook/leadership/1-1/) with team members and [skip-level](/handbook/leadership/skip-levels/) 1:1s with indirect reports
 - Provide management mentorship
-- Enable [quad planning team](https://about.gitlab.com/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](https://about.gitlab.com/company/team/structure/#product-groups)
-- Enable [Product](https://about.gitlab.com/handbook/product/performance-indicators/), [Quality](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/), and [UX](https://about.gitlab.com/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) partnership
+- Enable [quad planning team](https://about.gitlab.com/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/handbook/company/team/structure/#product-groups)
+- Enable [Product](https://about.gitlab.com/handbook/product/performance-indicators/), [Quality](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/), and [UX](https://about.gitlab.com/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 - Contribute to the sense of psychological safety of multiple teams.
-- Give regular and clear feedback around the [individual's performance](https://about.gitlab.com/handbook/leadership/1-1/suggested-agenda-format/)
-- Draft quarterly [OKRs](https://about.gitlab.com/company/okrs/) and [Engineering KPIs](https://about.gitlab.com/handbook/engineering/performance-indicators/#key-performance-indicators)
+- Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
+- Draft quarterly [OKRs](/handbook/company/okrs/) and [Engineering KPIs](https://about.gitlab.com/handbook/engineering/performance-indicators/#key-performance-indicators)
 - Improve product quality, security, and performance
 - Participate in the [Incident Management on-call rotation](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members
 
@@ -72,7 +72,7 @@ with fullstack teams (frontend, backend, and fullstack engineers), and/or Engine
 
 ## Job Grade
 
-The Senior Engineering Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Performance Indicators
 
@@ -116,9 +116,9 @@ The Senior Engineering Manager is a [grade 9](https://about.gitlab.com/handbook/
 
 ## Hiring Process
 
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-1. Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+1. Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 1. Candidates will be invited to schedule a 60 minute first interview with a VP of Development
 1. Candidates will be invited to schedule a 45 minute second interview with a Director of Engineering
 1. Candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
@@ -127,4 +127,4 @@ Candidates for this position can generally expect the hiring process to follow t
 1. Candidates may be asked to schedule a 50 minute final interview with our CEO
 1. Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

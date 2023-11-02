@@ -11,7 +11,7 @@ The Field Marketing Manager position is responsible for all regional marketing s
 
 Field Marketing Manager - (REGION) AMER - responsible for supporting regional specific AMER sales terrory(ies).
 
-Field Marketing Manager - US-Public Sector is responsible for supporting the US-Public Sector sales terrority. Our US-Public Sector Field Marketing Manager position has a separate compensation calculator, therefore has [its own job family page](https://about.gitlab.com/job-families/marketing/field-marketing-manager-public-sector/) with additional detail.
+Field Marketing Manager - US-Public Sector is responsible for supporting the US-Public Sector sales terrority. Our US-Public Sector Field Marketing Manager position has a separate compensation calculator, therefore has [its own job family page](/job-families/marketing/field-marketing-manager-public-sector/) with additional detail.
 
 Field Marketing Manager - EMEA is responsible for supporting our Europe, Middle East, and Africa (EMEA) sales terrory(ies).
 
@@ -61,7 +61,7 @@ A successful Field Marketing Manager has substantial understanding of sales-focu
 
 ### Job Grade
 
-The Field Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -94,7 +94,7 @@ The Field Marketing Manager is a [grade 6](https://about.gitlab.com/handbook/tot
 ### Key Performance Indicators
 
 - [8X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for region responsible for.
-- Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
+- Contribution to the outlined FMM ORKs, in alignment with the [Marketing ORKs](/handbook/company/okrs/#most-recent-okrs).
 - Field Marketing plans completed in alignment [with planning schedule](https://about.gitlab.com/handbook/marketing/field-marketing/#field-marketing-planning).
 - Spending of the regional [Field Marketing budget](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance.
 
@@ -104,7 +104,7 @@ As Field Marketing Managers progress throughout their career at GitLab or we fin
 
 ### Job Grade
 
-The Senior Field Marketing Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -136,7 +136,7 @@ This role includes all of the performance indicators of the previous level plus:
 
 ### Job Grade
 
-The Staff Field Marketing Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Field Marketing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Requirements
 
@@ -165,7 +165,7 @@ As GitLab grows, it will be important to have regional leadership to scale the f
 
 ### Job Grade
 
-The Manager, Field Marketing is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Field Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -204,14 +204,14 @@ The Manager, Field Marketing is a [grade 8](https://about.gitlab.com/handbook/to
 This role includes all of the performance indicators of the previous level plus:
 
 - [8X spend contribution to sales pipeline](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution) for geo (AMER, EMEA,APAC) responsible for.
-- Contribution to the outlined FMM OKRs, in alignment with the [Marketing OKRs](https://about.gitlab.com/company/okrs/#most-recent-okrs).
+- Contribution to the outlined FMM OKRs, in alignment with the [Marketing OKRs](/handbook/company/okrs/#most-recent-okrs).
 - Spending of the regional [Field Marketing budget](https://about.gitlab.com/handbook/marketing/field-marketing/#the-field-marketing-budget) within 5% variance, for geo (AMER, EMEA,APAC) responsible for.
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a series of 45 minute interviews with the VP of Revenue Marketing, Director of Field Marketing, regional sales leader, and a seller who they would support.
 - Depending on location, candidates may meet in person with any of the above.
 - Finally, our CMO may choose to conduct a final interview.
@@ -223,7 +223,7 @@ In addition to meeting all of the requirements of a Manager, Field Marketing, th
 
 ### Job Grade
 
-The Senior Manager, Field Marketing is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Field Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -252,12 +252,12 @@ The next step for  managers of people is to move to the [Director of Field Marke
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a series of 45 minute interviews with the Sr. Director of Revenue Marketing, Director of Field Marketing, regional sales leader, and a seller who he/she would support.
 - Depending on location, candidates may meet in person with any of the above.
 - Finally, our CEO may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via email. The total compensation for this role listed in <https://about.gitlab.com/job-families/marketing/field-marketing-manager/> is 100% base salary.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

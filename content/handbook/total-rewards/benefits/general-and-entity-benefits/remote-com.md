@@ -413,7 +413,7 @@ More information can be found below:
 - [Remote Allianz Benefit Guide](https://drive.google.com/file/d/1krO_RGt_H1_kPNgudHeuSIFjJohJuq-h/view)
 - [Allianz](https://drive.google.com/file/d/1hMw61FsriqRPfcFRQ-mzQsu6HF03IUFB/view)
 - Team members also have access to government-subsidized supplementary healthcare, either Fondo Est or Qu.AS, depending on their role. The annual cost for Fond Est is 24 EUR paid by the team member and 120 EUR paid by the company. There's more information [on the Fondo Est website](https://www.fondoest.it/). The annual cost for Qu.AS. (available for quadro level only) is 56 EUR paid by the team member and 350 EUR paid by the company. There's more information [on the Qu.AS website](https://www.quas.it/).
-- Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
+- Pension and Life Insurance - As part of Remote payroll, mandatory contributions are made towards social security funds. Remote currently does not offer a supplementary pension but will be reviewing this in the upcoming year. The [GitLab Life Insurance plan](/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ### Statutory Leave Policies
 

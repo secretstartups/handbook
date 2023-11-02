@@ -91,7 +91,7 @@ Limiting your company's recruiting pipeline to a certain geographic region, or s
 Not only does this create a less [inclusive]({{< ref "inclusion" >}}) hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
 
 1. You're able to hire great people [no matter where they live]({{< ref "handbook/people-group/employment-solutions#country-hiring-guidelines" >}}).
-   - GitLab has a truly global footprint, with team members in [65+ countries](https://about.gitlab.com/company/team).
+   - GitLab has a truly global footprint, with team members in [65+ countries](/handbook/company/team).
 1. Employees are [more productive with fewer distractions](https://about.gitlab.com/blog/2018/05/11/day-in-life-of-remote-sdr), so long as leadership is supportive in equipping teams with the requisite tools, structure, and culture to thrive.
    - For example, GitLab has a KPI of [65 tickets closed per support staff per month](/handbook/support/performance-indicators#average-daily-tickets-closed-per-support-team-member).
 1. [Increased savings on office costs](https://globalworkplaceanalytics.com/the-remote-work-roi-calculator-v0-95) and [compensation](https://about.gitlab.com/blog/2019/02/28/why-we-pay-local-rates) (due to hiring in lower-cost regions).
@@ -102,7 +102,7 @@ Not only does this create a less [inclusive]({{< ref "inclusion" >}}) hiring pro
 1. It's easier to quickly grow and scale your company.
    - GitLab **does not own/lease office space**. As colocated companies scale in size, their spend related to real estate will swell. This not only encompasses office space, but related activities such as security, cleaning, remodeling, etc. It also hampers [growth]({{< ref "./scaling" >}}). Hiring too many people in too short a time span will force you to move offices in quick succession, creating massive cost and inefficiency.
 1. Employees are [increasingly](https://www.iofficecorp.com/blog/workplace-design-statistics) expecting remote work options from their employers.
-   - GitLab sees **over 3,000 applicants per week** for open [vacancies](https://about.gitlab.com/jobs). Each applicant is given access to our [strategy]({{< ref "strategy" >}}) and an overview of [what it's like to work at GitLab](https://about.gitlab.com/company/culture#so-thats-what-its-like-to-work-at-gitlab) *before* they are asked to invest time and energy in applying. We get more qualified applicants due to our [transparency]({{< ref "values#transparency" >}}), showcased through examples like [role description videos](https://youtu.be/BOeXgGu1Vco) hosted on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
+   - GitLab sees **over 3,000 applicants per week** for open [vacancies](https://about.gitlab.com/jobs). Each applicant is given access to our [strategy]({{< ref "strategy" >}}) and an overview of [what it's like to work at GitLab](/handbook/company/culture#so-thats-what-its-like-to-work-at-gitlab) *before* they are asked to invest time and energy in applying. We get more qualified applicants due to our [transparency]({{< ref "values#transparency" >}}), showcased through examples like [role description videos](https://youtu.be/BOeXgGu1Vco) hosted on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A).
 1. Companies often experience [lower employee turnover](https://www.owllabs.com/blog/remote-work-statistics) and higher morale with remote work.
    - GitLab enjoys an **[85% year-over-year voluntary retention rate]({{< ref "/handbook/people-group/people-group-metrics#team-member-retention" >}})**.  All-remote contributes to our high retention of people, as they're able to [take their career with them]({{< ref "./people" >}}) through life's changes.
 1. You have [fewer meetings](./meetings) and more focus on results and [output of great work]({{< ref "values#results" >}}).
@@ -141,7 +141,7 @@ Limiting your company's recruiting pipeline to a certain geographic region, or s
 
 Not only does this create a less [inclusive]({{< ref "inclusion" >}}) hiring process which reaches a less diverse set of candidates, it forces your organization to compete primarily on the basis of [salary](https://hired.com/page/state-of-salaries).
 
-Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries](https://about.gitlab.com/company/team).
+Remote organizations are able to hire great people no matter where they live. For example, GitLab has a truly global footprint, with team members in [65+ countries](/handbook/company/team).
 
 ### Flexible working hours and availability
 
@@ -185,7 +185,7 @@ All-remote work promotes:
 
 > **"Remote is not a challenge to overcome. It's a clear business advantage."** -Victor, Product Manager, GitLab
 
-GitLab is one of the world's largest all-remote companies with [team members](https://about.gitlab.com/company/team) located in more than 65 countries around the world.
+GitLab is one of the world's largest all-remote companies with [team members](/handbook/company/team) located in more than 65 countries around the world.
 
 Our all-remote workforce implementation is featured in [The Journal of Organizational Design](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8). It is also the centerpiece of case studies authored by [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=57917) and [INSEAD](https://publishing.insead.edu/case/gitlab).
 

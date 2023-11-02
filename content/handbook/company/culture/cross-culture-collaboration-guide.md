@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Cross-Culture Collaboration Guide"
 description: "This guide will help GitLab team members in effective and inclusive communication and cross-cultural collaboration globally"
 canonical_path: "/company/culture/cross-culture-collaboration-guide/"
@@ -7,7 +7,7 @@ canonical_path: "/company/culture/cross-culture-collaboration-guide/"
 
 ## Goal
 
-As an organization with [67+ countries and regions](https://about.gitlab.com/company/team/) represented, it is ever-important for all of us to increase our cultural awareness, sensitivity, and understanding. This guide will help GitLab team members in effective and inclusive communication and cross-cultural collaboration globally; irrespective of culture or background.
+As an organization with [67+ countries and regions](/handbook/company/team/) represented, it is ever-important for all of us to increase our cultural awareness, sensitivity, and understanding. This guide will help GitLab team members in effective and inclusive communication and cross-cultural collaboration globally; irrespective of culture or background.
 
 ### Individual Culture vs. Company Culture
 

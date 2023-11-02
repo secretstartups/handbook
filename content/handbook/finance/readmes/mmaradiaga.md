@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+
 title: "Melody's README"
 description: "his page is intended to help others understand what it might be like to work with Melody Maradiaga, Sr. Manager, Statutory Compliance and Reporting"
 ---
@@ -20,7 +20,7 @@ Related pages:
 
 I live on a farm in northwest Arkansas, grew up in Texas, and lived in Costa Rica for five years.  My husband is from Nicaragua and my kids have citizenship in multiple countries.  We have lots of animals on the farm - cows, horses, chickens, dogs, and cats.  I enjoy reading, cooking, and watching movies.  It’s important to me to leave the world a better place for my kids and grandkids - I recycle, try not to purchase a lot of plastic if I can help it, and I try to be kind more often than not.  I also believe access to food should be a right, not a privlege, so I try to volunteer at food banks / community meals when I can.
 
-One of the main reasons I wanted to come to GitLab was because of our [values](https://handbook.gitlab.com/handbook/values/).  I relate to all of them and feel that working collaboratively and keeping a focus on results make for a more efficient and balanced work environment.  I feel that [assuming positive intent](handbook.gitlab.com/handbook/values/#assume-positive-intent) has made a huge difference in how I interact with people and how I lead my teams.  Also, anyone who talks to me for more than 5 minutes will see I'm pretty transparent about most anything.
+One of the main reasons I wanted to come to GitLab was because of our [values](/handbook/values/).  I relate to all of them and feel that working collaboratively and keeping a focus on results make for a more efficient and balanced work environment.  I feel that [assuming positive intent](handbook.gitlab.com/handbook/values/#assume-positive-intent) has made a huge difference in how I interact with people and how I lead my teams.  Also, anyone who talks to me for more than 5 minutes will see I'm pretty transparent about most anything.
 
 **How you can help me**
 

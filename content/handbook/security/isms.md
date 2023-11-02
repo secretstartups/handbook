@@ -96,14 +96,14 @@ GitLab has implemented a formal security awareness training program that include
 
 A formal [controlled document procedure]({{< ref "controlled-document-procedure" >}}) is in place to ensure that there is consistency in developing and maintaining controlled documents at GitLab utilizing a hierarchal approach. All controlled documents are available to all GitLab team members and the public via the [GitLab handbook]({{< ref "/" >}}) unless otherwise noted. Updates to controlled documents are managed via [GitLab merge requests](https://docs.gitlab.com/ee/user/project/merge_requests/) which are also accessible to all GitLab team members for the entire workflow. An annual review of controlled documents is required by the ISMS owner or assigned representative.
 
-GitLab publishes [Job Families](https://about.gitlab.com/handbook/hiring/job-families/) to define roles and responsibilities based on level for all team members. This information is publicly available and the foundation for team member hiring and performance reviews. On a minimum of an annual basis, GitLab management executes [talent assessments](https://about.gitlab.com/handbook/people-group/talent-assessment/) with team members to ensure competency to Job Family.
+GitLab publishes [Job Families](/handbook/hiring/job-families/) to define roles and responsibilities based on level for all team members. This information is publicly available and the foundation for team member hiring and performance reviews. On a minimum of an annual basis, GitLab management executes [talent assessments](/handbook/people-group/talent-assessment/) with team members to ensure competency to Job Family.
 
 ### Operations
 
 The [GitLab team handbook]({{< ref "/" >}}) is the central repository for how we run the company. Everything at GitLab is handbook first, to include development of company policies, standards and procedures. Key controlled documents that support the ISMS include:
 
 - [Data Classification Standard]({{< ref "data-classification-standard" >}})
-- [Internal Acceptable Use Policy](https://about.gitlab.com/handbook/people-group/acceptable-use-policy/)
+- [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/)
 - [Security Policies]({{< ref "_index.md#information-security-policies" >}})
 - [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d)
 - [Infrastucture Change Management Procedure](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/)

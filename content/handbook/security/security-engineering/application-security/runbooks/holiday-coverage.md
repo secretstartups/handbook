@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "AppSec Holiday and Friends and Family Day Coverage"
 ---
 

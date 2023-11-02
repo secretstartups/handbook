@@ -11,6 +11,15 @@ Currently, GitLab provides the below additional benefits, in addition to mandato
 
 Join the [#gitlab-germany channel](https://gitlab.slack.com/archives/CCLBN72TW) in Slack for questions.
 
+## Eye Exam and Glasses Reimbursement
+
+Under The Occupational Health and Saftey Act, employers must provide computer glasses when medically necessary to preform the job. If an eye exam determines that a team member needs glasses solely and exclusively for VDU (visual display unit i.e. computer screen) use, GitLab will reimburse towards the cost of a basic pair of frames and lenses (i.e. not designer frames) up to 150 Euro.
+
+The team member needs to provide documentation (a prescription) from the optician that confirms if the lenses are specifically required for reading a display screen only and not required for general day to day use.
+
+Please submit your prescription to Total Rewards for approval. Once approved, please send your receipts to expensify for reimbursement. 
+
+
 
 ## German Supplemental Pension Plans
 
@@ -100,7 +109,7 @@ The injured team member has the right to a copy of the accident report and can r
 
 ## Life Insurance
 
-GitLab does not plan to offer different Life Insurance Benefits because team members can access employer insurance and government pension schemes to help with payments in the event of a death of a family member. The [GitLab Life Insurance plan](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
+GitLab does not plan to offer different Life Insurance Benefits because team members can access employer insurance and government pension schemes to help with payments in the event of a death of a family member. The [GitLab Life Insurance plan](/handbook/total-rewards/benefits/general-and-entity-benefits/#life-insurance) still applies.
 
 ## GitLab GmbH Germany Leave Policy
 
@@ -128,7 +137,7 @@ All team members who are or become parents are entitled to take up to three year
 
 Regardless of the length of service, under German law employees may take up to three years of parental leave following the child’s birth, adoption or foster care placement. The entitlement is valid until a child reaches the age of three years. A period of up to 24 months may be taken between the child's third birthday and the completion of his or her eighth year of life. The parental leave can be distributed over three time periods, without approval of the employer. Distribution over further periods is possible only with the employer's consent.
 
-In case a woman takes parental leave subsequently to the child’s birth, the period of maternity leave is credited for the parental leave. For expecting mothers, they may take the Maternity Protection period followed by Parental Leave. GitLab will provide full Parental Leave pay (provided the team member meets the [eligibility criteria](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)) for up to 16 weeks of the total leave (including the Maternity Protection period). The team member may apply for state benefits for the remainder of their Parental Leave.
+In case a woman takes parental leave subsequently to the child’s birth, the period of maternity leave is credited for the parental leave. For expecting mothers, they may take the Maternity Protection period followed by Parental Leave. GitLab will provide full Parental Leave pay (provided the team member meets the [eligibility criteria](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave)) for up to 16 weeks of the total leave (including the Maternity Protection period). The team member may apply for state benefits for the remainder of their Parental Leave.
 
 **Maternity Leave Payment**
 
@@ -137,7 +146,7 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 - If you are privately insured and will not receive a daily sickness allowance, you may qualify for a one-time payment of up to 210 euros from the [Federal Social Security Office](https://www.bundesamtsozialesicherung.de/de/mutterschaftsgeld/ueberblick/). GitLab will supplement your pay so that you receive 100% of your salary for the duration of the Maternity Protection Period.
     - GitLab may receive reimbursement of these payments from the team member's health insurance carrier. Please provide the Absence Management team at `leaves@domain` with the name of your insurance provider and Versichertennummer (insurance number).
     - The Absence Management team will then send payroll the team member's insurance details.
-- If [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), paid Parental Leave at GitLab will start from the beginning of the Maternity Protection Period and run concurrently with any statutory allowances, if applicable.
+- If [eligible](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave), paid Parental Leave at GitLab will start from the beginning of the Maternity Protection Period and run concurrently with any statutory allowances, if applicable.
 - If you wish to take Parental Leave directly after your Maternity Protection Period ends, you may do so. If eligible, GitLab will pay up to 16 weeks of your total leave (including Maternity Protection), the rest will be unpaid.
 
 **Parental Leave Payment**
@@ -152,7 +161,7 @@ In case a woman takes parental leave subsequently to the child’s birth, the pe
 - A request for parental leave by facsimile or email does not comply with the written form requirement and is therefore void.
 - Please register your leave, in addition to the written application, by emailing leaves@domain.
 - Submit your Parental Leave in Time Off by Deel by selecting the `Parental Leave` option.
-- Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+- Please familiarize yourself with [GitLab's Parental Leave policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
 
 **Part-time work during parental leave**
 
@@ -200,7 +209,7 @@ How to Apply:
 
 #### Statutory Sick Leave
 
-Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's [Sick Time](https://about.gitlab.com/handbook/paid-time-off/#sick-time-procedures---all-team-members) policy.
+Team members are entitled to 100% of their salary, to be paid by GitLab, for up to the first six weeks if they are unable to work due to an illness. This runs concurrently with GitLab's [Sick Time](/handbook/paid-time-off/#sick-time-procedures---all-team-members) policy.
 
 - If a team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less than the team member's salary.
 
@@ -254,7 +263,7 @@ Our legal council has the German company stamp and can stamp government forms fo
 
 ## Email Signature
 
-During onboarding you may have been asked to set up your GitLab Gmail and your email signature using the following [example as a guideline](https://about.gitlab.com/handbook/tools-and-tips/#email-signature). If you are a employed by our German entity, you will need to add some company related details to the end of your email signature as [set out here]({{< ref "tools-and-tips#email-signature-if-employed-by-our-german-entity" >}}) (accessible internally to GitLab only).
+During onboarding you may have been asked to set up your GitLab Gmail and your email signature using the following [example as a guideline](/handbook/tools-and-tips/#email-signature). If you are a employed by our German entity, you will need to add some company related details to the end of your email signature as [set out here]({{< ref "tools-and-tips#email-signature-if-employed-by-our-german-entity" >}}) (accessible internally to GitLab only).
 
 ## Company details/Signature on Company Communications
 

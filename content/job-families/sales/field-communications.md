@@ -15,7 +15,7 @@ The Field Communications Specialist reports to the Manager/Sr. Manager, Field Co
 
 #### Associate Field Communications Specialist Job Grade
 
-The Field Communications Specialist (Intermediate) is a grade [5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Communications Specialist (Intermediate) is a grade [5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Associate Field Communications Specialist Responsibilities
 
@@ -45,7 +45,7 @@ The Field Communications Specialist reports to the Manager/Sr. Manager, Field Co
 
 #### Field Communications Specialist (Intermediate) Job Grade
 
-The Field Communications Specialist (Intermediate) is a grade [6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Field Communications Specialist (Intermediate) is a grade [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Communications Specialist (Intermediate) Responsibilities
 
@@ -82,7 +82,7 @@ The Senior Field Communications Specialist reports to the Manager/Sr. Manager, F
 
 #### Senior Field Communications Specialist Job Grade
 
-The Senior Field Communications Specialist is a grade [7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Field Communications Specialist is a grade [7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Field COmmunications Specialist Responsibilities
 
@@ -114,11 +114,11 @@ The Senior Field Communications Specialist is a grade [7](https://about.gitlab.c
 
 ### Manager, Field Communications
 
-The Manager, Field Communications reports to the Sr. Manager, Field Communications (if applicable) or the [Vice President, Revenue Operations](https://about.gitlab.com/job-families/sales/vp-revenue-operations/).
+The Manager, Field Communications reports to the Sr. Manager, Field Communications (if applicable) or the [Vice President, Revenue Operations](/job-families/sales/vp-revenue-operations/).
 
 #### Manager, Field Communications Job Grade
 
-The Manager, Field Communications is a grade [8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Field Communications is a grade [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Field Communications Responsibilities
 
@@ -155,15 +155,15 @@ The Manager, Field Communications is a grade [8](https://about.gitlab.com/handbo
 
 ### Senior Manager, Field Communications
 
-The Senior Manager, Field Communications reports to the [Vice President, Revenue Operations](https://about.gitlab.com/job-families/sales/vp-revenue-operations/).
+The Senior Manager, Field Communications reports to the [Vice President, Revenue Operations](/job-families/sales/vp-revenue-operations/).
 
 #### Senior Manager, Field Communications Job Grade
 
-The Senior Manager, Field Communications is a grade [9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Field Communications is a grade [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Field Communications Responsibilities
 
-- Manage, coach, and develop Field Communications Manager, Field Content [Program Managers](https://about.gitlab.com/job-families/sales/program-manager-field-enablement/), and Field Communications Specialists responsible for managing and executing robust Field Comms and Content programs.
+- Manage, coach, and develop Field Communications Manager, Field Content [Program Managers](/job-families/sales/program-manager-field-enablement/), and Field Communications Specialists responsible for managing and executing robust Field Comms and Content programs.
 - Collaborate and iterate directly with CRO and the CRO leadership team to provide strategic communications guidance for key revenue-impacting field initiatives
 - Oversee the management and iteration of GitLab’s Sales content management system, ensuring CRO LT, field leaders, and field sellers plus key stakeholders are engaged and informed on the platform’s performance/ROI  
 - Lead sales content and messaging initiatives that support proactive go-to-market activities as well as document internal sales processes for various customer segments and all routes to market
@@ -215,11 +215,11 @@ graph TD;
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-- Next, candidates will meet with members of the [GitLab Field Operations team](https://about.gitlab.com/company/team/?department=field-operations),
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Next, candidates will meet with members of the [GitLab Field Operations team](/handbook/company/team/?department=field-operations),
 - Then, candidates will meet with the Manager and/or Senior Manager of Field Communications,
 - Finally, candidates will meet with the VP of Field Operations.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

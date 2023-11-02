@@ -18,7 +18,7 @@ Additional details on career paths within quota carrying roles at GitLab [can be
 
 ### Job Grade
 
-The Associate Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -49,7 +49,7 @@ The Associate Strategic Account Executive is a [grade 8](https://about.gitlab.co
 - Motivated, driven, and results oriented
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the [company’s travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the [company’s travel policy](/handbook/travel/)
 
 ## Strategic Account Executive
 
@@ -57,7 +57,7 @@ The Strategic Account Executive role extends the Associate Strategic Account Exe
 
 ### Job Grade
 
-The Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -87,7 +87,7 @@ The Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook
 - Preferred experience with Git, Software Development Tools, Application Lifecycle Management
 - You share our [values](/handbook/values/), and work in accordance with those values.
 - Ability to use GitLab
-- Ability to travel if needed and comply with the [company’s travel policy](https://about.gitlab.com/handbook/travel/)
+- Ability to travel if needed and comply with the [company’s travel policy](/handbook/travel/)
 
 The [confidence gap](https://www.theatlantic.com/magazine/archive/2014/05/the-confidence-gap/359815/) exists. The above list is intended to show the kinds of experience and qualities we're looking for. If you're reading this, do not match all of the requirements, and are hesitant to apply, we encourage you to make an application despite your hesitations.
 
@@ -97,7 +97,7 @@ The Sr. Strategic Account Executive  role extends the Strategic Account Executiv
 
 ### Job Grade
 
-The Senior Strategic Account Executive is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Strategic Account Executive is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -143,7 +143,7 @@ The Major Account Executive reports  to an Area Sales Manager or Regional Direct
 
 ### Job Grade
 
-The Major Account Executive Leader is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Major Account Executive Leader is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -177,7 +177,7 @@ The Sr. Major Account Executive  role extends the Major Account Executive role o
 
 ### Job Grade
 
-The Senior Major Account Executive Leader is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Major Account Executive Leader is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -216,11 +216,11 @@ The next step in the Strategic Account Executive and Major Account Executive  jo
 
 ### Performance Indicators
 
-As with all roles in the Sales Department the Strategic Account Executive participates in the [Sales KPIs](https://about.gitlab.com/company/kpis/#sales-kpis).
+As with all roles in the Sales Department the Strategic Account Executive participates in the [Sales KPIs](/handbook/company/kpis/#sales-kpis).
 
 ### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 As part of the application, candidates will need to answer the following questions
 
 - What would differentiate you and make you a great account executive for GitLab?

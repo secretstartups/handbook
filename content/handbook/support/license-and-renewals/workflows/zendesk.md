@@ -10,18 +10,18 @@ This page outlines workflows relevant to folks using the `L&R` form in Zendesk.
 
 ### Selecting, Assigning and Responding to Tickets
 
-Support Engineers that work on Licensing and Renewal (L&R) tickets should apply the same guidelines documented within the [Support - Working on Tickets workflow](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html):
+Support Engineers that work on Licensing and Renewal (L&R) tickets should apply the same guidelines documented within the [Support - Working on Tickets workflow](/handbook/support/workflows/working-on-tickets.html):
 
-1. [Selecting tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#selecting-tickets)
-1. [Assigning tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#assigning-tickets)
-1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](https://about.gitlab.com/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets)
+1. [Selecting tickets](/handbook/support/workflows/working-on-tickets.html#selecting-tickets)
+1. [Assigning tickets](/handbook/support/workflows/working-on-tickets.html#assigning-tickets)
+1. Responding to next-to-breach ticket, both your own and [responding to other SEs tickets](/handbook/support/support-global-groups/sgg-faq.html#1-should-ses-respond-to-other-ses-tickets)
 
 ### The workflow
 
 1. Check the main L&R view and work on the next-to-breach ticket:
 1. Take assignment of the ticket if it is currently unassigned
 1. Write your public reply
-1. **If the ticket is an Internal Request**, review whether the [Priority](https://about.gitlab.com/handbook/support/internal-support/#internal-request-slo) is appropriate. If it is not, set the `Priority` field to the appropriate value and notify the requester of the change and of your reasoning. (A macro for this may soon be available)
+1. **If the ticket is an Internal Request**, review whether the [Priority](/handbook/support/internal-support/#internal-request-slo) is appropriate. If it is not, set the `Priority` field to the appropriate value and notify the requester of the change and of your reasoning. (A macro for this may soon be available)
 1. Complete the remaining form data
 1. If you are not able to make a public reply, please ask for assistance from your colleagues to take assignment and drive the ticket forward
 1. If you are waiting on internal stakeholders and processes to be completed before being able to set a ticket to Solved:

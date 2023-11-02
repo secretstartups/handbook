@@ -89,7 +89,7 @@ representative to request an exemption as part of the sales purchase or renewal 
   - As noted on GitLab's [statement of support](https://about.gitlab.com/support/statement-of-support/#version-support),
   our Support team are (in almost all circumstances) unable to assist customers running below
   GitLab `14.x`, so this should provide further encouragement for customers to upgrade.
-- [Post-sales exemptions for Cloud Licensing](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
+- [Post-sales exemptions for Cloud Licensing](/handbook/support/license-and-renewals/workflows/self-managed/cloud-licensing.html#post-sale-exemptions-support)
 are rare and require an internal request and Sales VP approval.
 - License files are still used for Self-Managed **Trials**.
 

@@ -1,5 +1,5 @@
 ---
-layout: handbook-page-toc
+
 title: "TPM.1.01 - Third Party Assurance Review Control Guidance"
 ---
 

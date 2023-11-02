@@ -137,7 +137,7 @@ Emilie S., a data engineer, provides tips for those embracing all-remote roles i
 
 Brittany R., Compensation & Benefits Manager, shares [advice for working parents in an all-remote setting](https://about.gitlab.com/blog/2019/08/08/remote-kids-part-four).
 
-> My daughter is my best friend, and I am so blessed to be able to see her grow into her own little person while still accomplishing my professional goals. Seeing her interact ("Hi!" for everyone) with all of my GitLab teammates at Contribute was also very special. – [*Brittany R., Compensation & Benefits Manager*](https://about.gitlab.com/company/team#brittanyr)
+> My daughter is my best friend, and I am so blessed to be able to see her grow into her own little person while still accomplishing my professional goals. Seeing her interact ("Hi!" for everyone) with all of my GitLab teammates at Contribute was also very special. – [*Brittany R., Compensation & Benefits Manager*](/handbook/company/team#brittanyr)
 
 ## Hobbyists
 
@@ -218,7 +218,7 @@ As time passes, caregiving needs can change. Families may need to relocate to be
 
 Beyond the personal, communal, and societal benefits from empowering people to provide care to others who are important to them, all-remote employers should expect heightened loyalty and job satisfaction from caregiving team members.
 
-> When we made the decision to relocate to help care for my dad, it was a huge relief to know I didn't have to worry about the move impacting my career. The asynchronous nature of our work also means I have the freedom to shape my days and weeks to prioritize time with my parents. Being part of the GitLab team gives me invaluable flexibility, support, and stability that benefits my entire family during this challenging chapter of life. - *[Betsy B., All-Remote Evangelist](https://about.gitlab.com/company/team#bbula)*
+> When we made the decision to relocate to help care for my dad, it was a huge relief to know I didn't have to worry about the move impacting my career. The asynchronous nature of our work also means I have the freedom to shape my days and weeks to prioritize time with my parents. Being part of the GitLab team gives me invaluable flexibility, support, and stability that benefits my entire family during this challenging chapter of life. - *[Betsy B., All-Remote Evangelist](/handbook/company/team#bbula)*
 
 
 {{% include "includes/is_this_advice_any_good_remote.md" %}}

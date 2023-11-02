@@ -14,13 +14,13 @@ Welcome to the People Group handbook! You should be able to find answers to most
     - [**Employment Issue Tracker**](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates): Only Onboarding, Offboarding and Transition Issue Templates are held in this subproject, and they are created by the People Connect Team only. Interview Training Issues, are held in the [Training project](https://gitlab.com/gitlab-com/people-group/Training) and created by the Talent Acquisition team. Please see the [interviewing page](/handbook/hiring/interviewing/#typical-hiring-timeline) for more info.
 - [**People Connect**](https://app.slack.com/client/T02592416/C02360SQQFR); Please use the `#people-connect` Slack chat channel for questions that do not seem appropriate for the issue tracker - if your question contains personal data or sensitive information we encourage you to direct message the People Connect Team which can be found in the Apps Dropdown within Slack. For access requests regarding Google or Slack groups, please create an issue here: https://gitlab.com/gitlab-com/team-member-epics/access-requests. For questions that relate to Payroll and contractor invoices please direct your question to the `#payroll`, `#expense-reporting-inquiries` and `#finance` channel for Carta. Regarding questions for our recruiting team, including questions relating to access, or anything to do with Greenhouse, referrals, interviewing, or interview training please use the `#talent-acquisition` channel.
 - If you need to discuss something that is confidential/private (including sensitive matters surrounding your team), you can send an email to the Team Member Relations team: teammemberrelations@gitlab.com. Any team member, regardless of location, can use this alias to discuss a private sensitive matter.
-- If you only feel comfortable speaking with one team member, you can ping an individual member of the People Group, as listed on our [Team page](https://about.gitlab.com/company/team/).
-- If you wonder who's available and/or in what time zone specific team members of the People Group are, you can easily check via Google Calendar or the [GitLab Team Page](https://about.gitlab.com/company/team/)
+- If you only feel comfortable speaking with one team member, you can ping an individual member of the People Group, as listed on our [Team page](/handbook/company/team/).
+- If you wonder who's available and/or in what time zone specific team members of the People Group are, you can easily check via Google Calendar or the [GitLab Team Page](/handbook/company/team/)
 - If you need help with any technical items, for example, 2FA, please ask in `#it_help`. The channel topic explains how to create an issue. For urgent matters you can mention `@it-ops-team`.
 
 ## The People Group: [One Team Mosaic Video](https://www.youtube.com/watch?v=5bSij66OSgw)
 
-In general, the People Group is here to support GitLab's [mission](https://about.gitlab.com/company/mission/) by bringing top talent into GitLab, and then enabling team members to make meaningful contributions in alignment with our [values]({{< ref "values" >}}).  Please don't hesitate to [reach out](#how-to-reach-the-right-member-of-the-people-group) with questions or ask for support!
+In general, the People Group is here to support GitLab's [mission](/handbook/company/mission/) by bringing top talent into GitLab, and then enabling team members to make meaningful contributions in alignment with our [values]({{< ref "values" >}}).  Please don't hesitate to [reach out](#how-to-reach-the-right-member-of-the-people-group) with questions or ask for support!
 
 The People Group works together as one team, made up of five departments: People Operations, Talent and Engagement, Total Rewards, People Business Partners, and Diversity, Inclusion, and Belonging (DIB).
 
@@ -38,7 +38,7 @@ The People Group works together as one team, made up of five departments: People
 
 If team members need emergency support from GitLab's People team, please post in the `#people-connect` Slack channel marked `URGENT`. The [#people-connect]({{< ref "people-connect" >}}) channel is monitored during most working hours and is the centralized support platform for all people-related queries. Please do not include any sensitive or private information in your message in the #people-connect channel. Team members must direct message the People Connect Team to relay any personal data or potentially sensitive information. The People Connect Team which can be found by searching the 'apps' section of Slack. Read more about our [People Connect methods of engagement]({{< ref "people-connect#methods-of-engagement" >}}).
 
-In critical cases, the [VP, People Operations, Technology & Analytics](https://about.gitlab.com/company/team/#pegan) is contactable 24/7 via their mobile numbers that appear in their Slack profile.
+In critical cases, the [VP, People Operations, Technology & Analytics](/handbook/company/team/#pegan) is contactable 24/7 via their mobile numbers that appear in their Slack profile.
 
 We trust team members to always use their best judgement when facing any emergency. Team members are encouraged to dial their country's emergency services number for any critical and/or medical emergency. In the case that other team members are aware of a team member's emergency (during a Zoom call for example) and wish to call that country's emergency services on the original team member's behalf, we do not recommend this as only certain People Ops team members have access to team member addresses and we would take on the role of communicating with emergency services, should this extremely rare situation arise.
 
@@ -82,8 +82,8 @@ This table lists the aliases to use, when you are looking to reach a specific gr
 | [Diversity, Inclusion and Belonging](https://gitlab.com/gitlab-com/diversity-and-inclusion) | No alias yet, @mention the |  |  |  |  |
 | [Diversity, Inclusion and Belonging Partner]({{< ref "diversity-inclusion-partner" >}}) | diversityinclusion@ gitlab.com | n/a | n/a |  | [Diversity, Inclusion and Belonging issue tracker](https://gitlab.com/gitlab-com/diversity-and-inclusion/-/issues) |
 | [Learning and Development](https://gitlab.com/gitlab-com/people-group/Training) | `@gitlab-com/people-group/learning-development` | learning@ gitlab.com | #learninganddevelopment | n/a | [L&D Issue Board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538)  |
-| [Talent Acquisition](/company/team/?department=talent-acquisition) | @gl-talent-acquisition | recruiting@ gitlab.com | @talent-acquisition-team | n/a |  |
-| Employer Branding | No alias yet, @mention the [Senior Talent Brand Manager](/company/team/#bchurch) | employmentbranding@ gitlab.com | n/a | n/a |  |
+| [Talent Acquisition](/handbook/company/team/?department=talent-acquisition) | @gl-talent-acquisition | recruiting@ gitlab.com | @talent-acquisition-team | n/a |  |
+| Employer Branding | No alias yet, @mention the [Senior Talent Brand Manager](/handbook/company/team/#bchurch) | employmentbranding@ gitlab.com | n/a | n/a |  |
 | [Candidate Experience Specialist]({{< ref "/job-families/people-group/candidate-experience" >}}) | @gitlab-com/gl-ces | ces@ gitlab.com | @ces | @ces* |  |
 | Talent Acquisition Operations and Insights | @gl-talent acquisitionops | talentacquisitionops@ gitlab.com | @talent-acquisition-ops | @talent-acquisitionops |  |
 | Sourcing | @gl-sourcingteam | n/a | @sourcingteam | n/a |  |
@@ -208,7 +208,7 @@ Please review the [frequently requested section]({{< ref "frequent-requests" >}}
 
 ## Addresses
 
-- For the our mailing addresses, see our [visiting](https://about.gitlab.com/company/visiting/) page.
+- For the our mailing addresses, see our [visiting](/handbook/company/visiting/) page.
 - For the NL office, we use [addpost](https://www.addpost.nl) to scan our mail and send it to a physical address upon request.
 
 ## Reporting potential inaccurate LinkedIn Profiles

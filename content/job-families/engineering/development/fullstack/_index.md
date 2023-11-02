@@ -9,9 +9,9 @@ Due to the nature of our tech stack, the volume and complexity of work is weight
 
 ### Job Grade
 
-The Fullstack Engineer is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-The Senior Fullstack Engineer is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-The Staff Fullstack Engineer is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Fullstack Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
@@ -80,9 +80,9 @@ The Staff Fullstack Engineer is a [grade 8](https://about.gitlab.com/handbook/to
 
 ### Hiring Process for Handbook Specialty
 
-Candidates for this speciality can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this speciality can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 25 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a 25 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a 50 minute high-level technical and fit interview with the Hiring Manager on the [Strategy and Operations team](/job-families/chief-executive-officer/strategy-and-operations/)
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Fullstack Engineers or Engineering Managers
 - Next, candidates will be invited to schedule a 25 minute interview with one of our Engineering Managers
@@ -90,9 +90,9 @@ Candidates for this speciality can expect the hiring process to follow the order
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with our Global Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Backend Engineers
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Frontend Engineers
 - Next, candidates will be invited to schedule one or more 45 minute interviews with an Engineering Hiring Manager
@@ -100,7 +100,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

@@ -14,7 +14,7 @@ The VP of UX (User Experience) reports to the Chief Product Officer (CPO), and D
 
 #### Job Grade
 
-The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -44,11 +44,11 @@ The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 - Passion for creating visually pleasing and intuitive user experiences.
 - Collaborative team spirit with great communication skills.
 - You share our [values](/handbook/values/), and work in accordance with those values.
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 #### Interview Process
 
-- [Screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a recruiter.
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter.
 - Interview with a manager on the UX Leadership team. In this interview, the interviewer will spend a lot of time trying to understand the experience you have leading managers, as well as what type of teams you have led and your management style. The interviewer will also be looking to understand how you define strategy, how you've handled conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
 - Interview with a director on the UX Leadership team. In this interview, we will be looking for you to give some real insight into a problem you were solving as part of a large initiative you led the work on. We'll look to understand the size and structure of the team, the goals of the project, how you/the team approached research, how you used research to inform decisions, and how you collaborated with the wider team. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
 - Interview with VP of Product Management.
@@ -56,7 +56,7 @@ The VP of UX is a [grade 12](https://about.gitlab.com/handbook/total-rewards/com
 
 As always, interviews and the screening call will be conducted via video.
 
-See more details about our hiring process on the [hiring handbook](https://about.gitlab.com/handbook/hiring/).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 #### Performance indicators
 
@@ -72,7 +72,7 @@ This role typically manages 4-6 direct reports, including Group Managers of Prod
 
 #### VP of Product Management - Job Grade
 
-The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Product Management is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Product Management - Responsibilities
 
@@ -96,7 +96,7 @@ The VP of Product Management is a [grade 12](https://about.gitlab.com/handbook/t
 
 #### VP of Product Management - Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Apply on the GitLab Jobs [page](https://about.gitlab.com/jobs/)
 - 30 minute screening call with Recruiter
@@ -130,7 +130,7 @@ This role typically manages 4-6 direct reports, including Product Managers, Grou
 
 #### Senior Director of Product Management - Job Grade
 
-The  Senior Director, Product Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director of Product Management - Requirements
 
@@ -164,7 +164,7 @@ The Senior Director of Product Management - Sec, Data Science, & Service Managem
 The Senior Director of Product Management - Monetization & Operations is the PM DRI for the Fulfillment Section, Pricing, Product Analysis, and Product Operations which include:
 
 - [Fulfillment Section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section) - Fulfillment Stage
-- [Pricing](https://about.gitlab.com/company/pricing/) - Pricing team
+- [Pricing](/handbook/company/pricing/) - Pricing team
 - [Product Data Insights](https://about.gitlab.com/handbook/product/product-analysis/) - Product Data Insights Stage
 - [Product Operations](https://about.gitlab.com/direction/product-operations/) - Product Operations Team
 
@@ -174,7 +174,7 @@ The Senior Director of Product Management, Monetization & Operations is the PM D
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with the Chief Product Officer
 - Next, candidates will be invited to schedule a 45 minute second peer interview with a Product Director
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Product team

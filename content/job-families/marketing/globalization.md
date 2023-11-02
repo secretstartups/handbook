@@ -11,7 +11,7 @@ The Senior Globalization Enablement Manager reports to the Director, Globalizati
 
 ### Senior Globalization Enablement Manager Job Grade
 
-The Senior Globalization Enablement Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Globalization Enablement Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 ### Senior Globalization Enablement Manager Overview
 
@@ -63,7 +63,7 @@ The Content Manager reports to the Director, Globalization & Localization.
 
 ### Senior Localization Content Manager Job Grade
 
-The Senior Localization Content Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Localization Content Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 ### Senior Localization Content Manager Overview
 
@@ -115,7 +115,7 @@ The Senior Manager, Globalization Technology reports to the Director, Globalizat
 
 #### Senior Manager, Globalization Technology Job Grade
 
-The Senior Manager, Globalization Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Senior Manager, Globalization Technology is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Senior Manager, Globalization Technology Role
 
@@ -162,7 +162,7 @@ The Director, Globalization & Localization reports to the VP Marketing Strategy 
 
 #### Director, Globalization & Localization Job Grade
 
-The Director, Globalization & Localization is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
+The Director, Globalization & Localization is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
 #### Director, Globalization & Localization Role
 
@@ -202,9 +202,9 @@ The next step in the Globalization & Localization job family is not yet defined 
 
 #### Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/talent-acquisition-framework/req-overview/#screening) with one of our Global Recruiters.
 - A 45 minute interview with our VP, Marketing Strategy & Platforms
 - A 45 minute interview with our Director, Digital Experience or Group Product Manager, Growth
 - A 45 minute interview with our Director, Marketing Operations or Manager, Marketing Operations
@@ -213,4 +213,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - A 30 minute interview with our Chief Marketing Officer or VP, Product Marketing
 - A 45 minute interview with our Director, People Business Partner
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

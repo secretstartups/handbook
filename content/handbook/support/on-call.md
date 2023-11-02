@@ -143,7 +143,7 @@ Team members employed by GitLab PTY Ltd *must* take time off in lieu within two
 weeks of completing their on-call shift. Time in lieu should be requested via
 Time Off by Deel, selecting the `On-Call Time in Lieu` option.
 
-For more details, see the [GitLab PTY Australia Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
 page.
 
 ##### New Zealand (Employees of GitLab PTY Ltd NZ)
@@ -152,7 +152,7 @@ Team members employed by GitLab PTY Ltd NZ must avoid taking an on-call shift
 which falls on a New Zealand public holiday. If this cannot be avoided, your
 manager must be informed.
 
-For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
+For more details, see the [GitLab PTY Ltd NZ Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
 
 ### Starting on-call
 

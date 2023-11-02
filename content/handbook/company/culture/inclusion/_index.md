@@ -3,7 +3,7 @@ title: "Diversity, Inclusion & Belonging"
 description: "Diversity, Inclusion & Belonging is fundamental to the success of GitLab. We include it in every way possible and in all that we do."
 ---
 
-![Our Global Team](/images/summits/2019_new-orleans_team.png){: .illustration}*<small>In May of 2019, our team of 638 GitLab team-members from around the world had our annual company trip in New Orleans!</small>*
+![Our Global Team](/images/summits/2019_new-orleans_team.png){:.illustration}*<small>In May of 2019, our team of 638 GitLab team-members from around the world had our annual company trip in New Orleans!</small>*
 
 ## Diversity, Inclusion & Belonging at GitLab
 
@@ -100,9 +100,9 @@ Source: GitLab's People Analytics Team, WorkDay
 
 ## Diversity, Inclusion and Belonging Team
 
-- [Liam McNally](https://about.gitlab.com/company/team/#lmcnally1) - Manager, Diversity, Inclusion and Belonging
-- [Marina Brownrigg](https://about.gitlab.com/company/team/#mbrownrigg) - Diversity, Inclusion and Belonging Partner
-- [Sherida McMullan](https://about.gitlab.com/company/team/#sheridam) - Vice President, Diversity, Inclusion and Belonging
+- [Liam McNally](/handbook/company/team/#lmcnally1) - Manager, Diversity, Inclusion and Belonging
+- [Marina Brownrigg](/handbook/company/team/#mbrownrigg) - Diversity, Inclusion and Belonging Partner
+- [Sherida McMullan](/handbook/company/team/#sheridam) - Vice President, Diversity, Inclusion and Belonging
 
 ## Request Needed or Want to Learn More?
 
@@ -131,7 +131,7 @@ By having no offices and allowing each GitLab team member to work and live where
 
 - All-remote means that you [will not sacrifice career advancement]({{< ref "/handbook/people-group/learning-and-development" >}}) by working outside of the office, as even GitLab executives are fully remote.
 - All-remote creates a workplace where caregivers, individuals with physical disabilities, etc. are not disadvantaged for being unable to regularly commute into an office.
-- GitLab's approach to [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) enables all team members to create a work environment uniquely tailored for them.
+- GitLab's approach to [Spending Company Money](/handbook/spending-company-money/) enables all team members to create a work environment uniquely tailored for them.
 - All-remote enables those who must relocate frequently for family and personal reasons to take their career with them.
 - All-remote allows movement and relocation to physical settings that contribute to an individual's health (e.g. moving to a location with an improved air quality index).
 
@@ -252,7 +252,7 @@ We launched our Global Diversity, Inclusion & Belonging Influencer Group - A tea
 - Review and provide feedback on new initiatives
 - Suggest/Propose and drive initiatives needed based on the region in which you reside.
 
-> Members of the advisory board have a tag on the [team page](https://about.gitlab.com/company/team/) and [there is also a full list]({{< ref "advisory-group-members" >}}).
+> Members of the advisory board have a tag on the [team page](/handbook/company/team/) and [there is also a full list]({{< ref "advisory-group-members" >}}).
 > Want to know more about how the group is guided?  Please review [DIB Influencer group guidelines]({{< ref "influencer-group-guide" >}}).
 
 ### TMRGs - Team Member Resource Groups
@@ -371,8 +371,8 @@ We encourage organizers of events that are supported through our [GitLab Diversi
 ## Definitions
 
 - [Gender and Sexual Orientation Identity Definitions and FAQ](/handbook/people-group/orientation-identity/)
-- [Leadership](/company/team/structure/#organizational-chart) is defined as director and above.
-- [Geographically](/company/culture/inclusion/identity-data/) is defined as those countries we use in our identity data.
+- [Leadership](/handbook/company/team/structure/#organizational-chart) is defined as director and above.
+- [Geographically](/handbook/company/culture/inclusion/identity-data/) is defined as those countries we use in our identity data.
 - Women is the term GitLab uses instead of "Female". "Female/Male" are gender terms often designated at birth. "Woman/Man" are gender terms based on self-identification. At GitLab, we define women based on how team members self-identify their gender in Workday.
 - **Privilege** is an unearned advantage given by society to some people but not all. In the USA figures were released in 2009 that on average women were paid $0.78 for every $1 a man makes. These figures have improved but there is still a gender imbalance.
 - **Race** - As we work to be inclusive and equitable in opportunities, promotions, etc throughout GitLab, it is imperative that we understand our representation.  We want to do our best in having categories for race that team members can select where they are able to in some way identify with the options available.  Below are the categories GitLab uses with expanded options for each:

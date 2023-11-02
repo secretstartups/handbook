@@ -31,9 +31,9 @@ graph TD
 
 ## Applying the Correct Form
 
-A ticket should have the correct [form](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/forms/) applied to it to help route it to the right set of individuals who can assist with that request.
+A ticket should have the correct [form](/handbook/support/readiness/operations/docs/zendesk/forms/) applied to it to help route it to the right set of individuals who can assist with that request.
 
-The single source of truth for what forms exist is the [Current active forms](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/forms/) list in the Support Ops handbook section.
+The single source of truth for what forms exist is the [Current active forms](/handbook/support/readiness/operations/docs/zendesk/forms/) list in the Support Ops handbook section.
 
 Below is a list of some commonly used Zendesk forms with a brief explanation regarding their usage:
 
@@ -41,7 +41,7 @@ Below is a list of some commonly used Zendesk forms with a brief explanation reg
 - SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
 - SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - L&R (License and Renewals): subscription and purchase issues, see also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
-- Level Up: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](https://about.gitlab.com/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
+- Level Up: For tickets that should go to the Professional Services team, such as requests about [the GitLab LevelUp platform](/handbook/people-group/learning-and-development/level-up/)(`levelup.gitlab.com`).
 
 **Please note:** It's recommended to always use the `General::Forms::Incorrect form used` macro to *change* the ticket form, unless it's between Self-Managed, SaaS (GitLab.com) and SaaS Account.
 

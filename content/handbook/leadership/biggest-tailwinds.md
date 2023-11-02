@@ -41,16 +41,16 @@ We also have a [Mitigating Concerns page]({{< ref "mitigating-concerns" >}}).
 
 ## 4. All-Remote
 
-[All-Remote](https://about.gitlab.com/company/culture/all-remote/)
+[All-Remote](/handbook/company/culture/all-remote/)
 
-GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](https://about.gitlab.com/company/culture/all-remote/handbook-first/), operating [transparently]({{< ref "values#transparency" >}}), and [usage of GitLab](https://about.gitlab.com/company/culture/all-remote/gitlab-for-remote/) to drive results creates tailwinds for the organization.
+GitLab's all-remote workforce is significantly more advanced and sophisticated than other forms of organizational design. Our dedication to working [handbook-first](/handbook/company/culture/all-remote/handbook-first/), operating [transparently]({{< ref "values#transparency" >}}), and [usage of GitLab](/handbook/company/culture/all-remote/gitlab-for-remote/) to drive results creates tailwinds for the organization.
 
-GitLab's adherence to all-remote makes the company an attractive destination for people who are on the [B-team in hybrid-remote firms](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/#all-remote-upgrade), or feel limited by the inflexibility of a fully colocated role.
+GitLab's adherence to all-remote makes the company an attractive destination for people who are on the [B-team in hybrid-remote firms](/handbook/company/culture/all-remote/hybrid-remote/#all-remote-upgrade), or feel limited by the inflexibility of a fully colocated role.
 
-[GitLab Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
+[GitLab Guide to All-Remote](/handbook/company/culture/all-remote/guide/)
 
 [Work where you want, when you want](https://jorgdesign.springeropen.com/articles/10.1186/s41469-020-00087-8)
 
-[All-Remote Upgrade](https://about.gitlab.com/company/culture/all-remote/hybrid-remote/#all-remote-upgrade)
+[All-Remote Upgrade](/handbook/company/culture/all-remote/hybrid-remote/#all-remote-upgrade)
 
 [Our Work-From-Anywhere Future](https://hbr.org/2020/11/our-work-from-anywhere-future)

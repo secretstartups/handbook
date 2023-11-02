@@ -54,12 +54,21 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 *Sign up for your default Zoom Pro account in Okta. All team members should have a Zoom Pro account by default. Before diving into sections below, please ensure that you're logged into your GitLab account within your Zoom app.*
 
-### Sign into Zoom for the first time via Okta
+### Updating Zoom
 
-Please ensure you can login Zoom using Okta
+Preferred minimum version for Zoom:
 
-1. Go to <https://gitlab.okta.com/>
-1. Click on the `Zoom SSO` tile
+1. Open the Zoom app on your computer.
+1. In the menu bar, click on `zoom.us` (top left corner of your screen).
+1. Click on `Check for Updates...`
+
+### Sign into the Zoom app
+
+1. Go to [Okta](https://gitlab.okta.com)
+1. Click on the `Zoom SSO` tile.
+1. Open the Zoom app on your computer.
+1. Click on `SSO`.
+1. Enter `gitlab.zoom.us` for the company domain.
 
 ### Install the Zoom app (on your Mac)
 
@@ -204,6 +213,29 @@ Here is a quick video tutorial how to do this:
 1. Save your settings with the Save button at the bottom.
 1. You can still selectively turn it off for a specific meeting by editing that meeting using the steps in the previous section and turning it off.
 
+### Meeting Surveys
+
+**Enable for all Meeting Surveys**
+
+Meeting Surveys is enabled for everyone at GitLab, however to get this to work, you will need to Meeting Surveys feature within your account.
+
+1. Sign in to the [Zoom web portal](https://zoom.us/signin).
+1. Go to your [account settings](https://gitlab.zoom.us/profile/setting).
+1. Search for `Meeting Survey` and toggle the feature on.
+
+**Add a survey to your meeting**
+
+1. Go to your [meetings](https://gitlab.zoom.us/meeting#/upcoming).
+1. Select one of your meetings **or** schedule a new one.
+1. If you are editing an existing meeting, click the `Survey` tab. If you are scheduling a new meeting, click `Save`, then click the `Survey` tab.
+    1. **Note:** Meeting ID must be generated automatically for this to work, surveys does not work with personal meeting IDs.
+1. Click `Create new survey`.
+1. At the end of the meeting, people will receive the survey to fill out.
+
+**Viewing Survey Results**
+
+1. Go to [Reports](https://zoom.us/account/report?isPersonal=true#/usageReports/meeting) > Meeting > change the `Registration Report` drop down to `Survey Report`.
+
 ---
 
 ## Setting up a Zoom Meeting
@@ -241,7 +273,7 @@ This also mitigates the issue of potential weak communication encryption since t
 
 ### Large meeting considerations
 
-It can be distracting when a call with a large number of attendees has folks joining unmuted. For [Assembly](https://about.gitlab.com/company/gitlab-assembly), CEO [AMAs](https://about.gitlab.com/handbook/communication/ask-me-anything), and other meetings in which we expect an attendance of over 25 folks, meetings should be scheduled, so that folks enter on mute. These folks can then opt to unmute as required to participate in the conversation.
+It can be distracting when a call with a large number of attendees has folks joining unmuted. For [Assembly](/handbook/company/gitlab-assembly), CEO [AMAs](/handbook/communication/ask-me-anything), and other meetings in which we expect an attendance of over 25 folks, meetings should be scheduled, so that folks enter on mute. These folks can then opt to unmute as required to participate in the conversation.
 
 ---
 

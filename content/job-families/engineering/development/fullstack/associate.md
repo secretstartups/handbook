@@ -83,17 +83,17 @@ as well as some level of understanding of Ruby and Ruby on Rails.
 
 ## Job Grade
 
-The Associate Fullstack Engineer is a [grade 5](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Fullstack Engineer is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
-- Qualified candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+- Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 90 minute technical interview with either a Fullstack Engineer, Backend Engineer or an Engineering Manager
 - Next, candidates will be invited to schedule a 90 minute technical interview with either a Fullstack Engineer, Frontend Engineer or an Engineering Manager
 - Next, candidates will be invited to schedule a 60 minute behavioral interview with an Engineering Manager
 - Candidates will then be invited to schedule a 60 minute interview with a Senior Manager or Director of Engineering
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -10,7 +10,7 @@ The Professional Services Project Coordinator reports to Manager, Professional S
 
 #### Professional Services Project Coordinator Job Grade
 
-The Professional Services Project Coordinator is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Professional Services Project Coordinator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### Professional Services Project Coordinator Responsibilities
 
@@ -45,7 +45,7 @@ The Professional Services Project Coordinator is a [grade 6](https://about.gitla
 
 #### Senior Professional Services Project Coordinator Job Grade
 
-The Senior Professional Services Project Coordinator is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Professional Services Project Coordinator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Professional Services Project Coordinator Responsibilities
 
@@ -121,7 +121,7 @@ The Professional Services Operations Analyst reports to Sr. Manager, Professiona
 
 #### Professional Services POperations Analyst Job Grade
 
-The Professional Services Operations Analyst is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
+The Professional Services Operations Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
 
 #### Professional Services Operations Analyst Responsibilities
 
@@ -154,7 +154,7 @@ This role will provide business operations support for the Professional Services
 
 ## Performance Indicators
 
-- [CSAT](https://about.gitlab.com/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
+- [CSAT](/handbook/support/support-ops/#customer-satisfaction-survey-csat ) >8.0/10
 - [Project Margin](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/#long-term-profitability-targets ) > 20% for assigned projects
 
 ## Career Ladder
@@ -163,13 +163,13 @@ The next steps for the Professional Services Project Coordinator Job Family woul
 
 ## Hiring Process
 
-Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates for the Professional Services Project Manager will receive a short questionnaire.
-- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with a member of our Recruiting team.
+- Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with a member of our Recruiting team.
 - Next, candidates will be invited to schedule a first interview with our Director of Customer Success.
 - For the Professional Services Project Manager role, candidates will be invited to schedule an interview with a Customer Success peer and may be asked to participate in a demo of a live install of GitLab.
 - For the Federal Professional Services Project Manager role, candidates will be invited to schedule interviews with members of the Customer Success team and our Federal Regional Sales Director.
 - Candidates may be invited to schedule an interview with our VP of customer success.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/interviewing/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

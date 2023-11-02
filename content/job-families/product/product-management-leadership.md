@@ -34,9 +34,9 @@ of GitLab's [product hierarchy](https://about.gitlab.com/handbook/product/catego
 - Experience in DevOps
 - Experience with solutions from the product category, groups or DevOps stages you will be responsible for
 - Technical background or clear understanding of developer products; familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
-- You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
+- You are living wherever you want and are excited about the [all remote](/handbook/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
-- [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- [Leadership at GitLab](/handbook/company/team/structure/#director-group)
 
 ## Levels
 
@@ -47,7 +47,7 @@ a [Senior Director of Product Management](#senior-director-of-product-management
 
 #### Group Manager, Product (GMP) - Job Grade
 
-The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Group Manager, Product (GMP) - Responsibilities
 
@@ -56,8 +56,8 @@ The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/tota
 - Coach Product Managers through their [responsibilities](/job-families/product/product-manager/#responsibilities)
 - Ensure PMs receive regular [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) feedback and, if desired, Career Coaching
 - Ensure that Product Managers participate in [Validation](https://about.gitlab.com/handbook/product-development-flow/#validation-track) and [Build](https://about.gitlab.com/handbook/product-development-flow/#build-track) track activities while following our product principles so that our Product Performance indicators are met
-- Enable product managers to make the most effective decisions when [prioritizing R&D investment](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](https://about.gitlab.com/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
-- Convene a set of stable counterparts for your assigned [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](https://about.gitlab.com/company/kpis/) are met
+- Enable product managers to make the most effective decisions when [prioritizing R&D investment](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](/handbook/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
+- Convene a set of stable counterparts for your assigned [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](/handbook/company/kpis/) are met
 - Join customer and partner visits that spawn ideas for new features
 - Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](https://about.gitlab.com/competition/) and category directions relevant to their markets are up to date
 - Keep relevant [/direction](https://about.gitlab.com/direction) pages up to date as our high level roadmap
@@ -65,7 +65,7 @@ The Group Manager, Product is a [grade 9](https://about.gitlab.com/handbook/tota
 - Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
 - Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/)
 - Own driving connections between the groups their PMs drive to ensure a single-application user experience.
-- Demonstrate leadership as [expected of Managers across GitLab](https://about.gitlab.com/company/team/structure/#management-group).
+- Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/team/structure/#management-group).
 - Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
 
 *Please note: If the Group Manager has less than 4 direct reports or is a first-time manager, some individual contributor responsibilities may be expected to be maintained.*
@@ -82,7 +82,7 @@ The next step in the Group Manager, Product is to move to [Director of Product](
 
 ##### Verify
 
-Are responsible for managing the team of product managers covering the [Verify stage groups](https://about.gitlab.com/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](https://about.gitlab.com/company/mission/#mission).
+Are responsible for managing the team of product managers covering the [Verify stage groups](https://about.gitlab.com/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/handbook/company/mission/#mission).
 
 ###### Verify - Runner
 
@@ -139,7 +139,7 @@ Responsible for leading the team of PMs who manage the [Govern stage groups](htt
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with a Director of Product
 - Next, candidates will be invited to schedule a 45 minute peer interview with an Engineering Manager
 - Next, candidates will be invited to schedule a 45 minute deep dive interview with a member of the Product team
@@ -152,25 +152,25 @@ This role typically manages 4-6 direct reports, including Product Managers and G
 
 #### Director of Product Management - Job Grade
 
-The Director, Product Management is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Product Management is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Director of Product Management - Responsibilities
 
 ##### Team responsibility
 
 - Perform all non-IC responsibilities of a [Group Manager of Product](#group-manager-product-gmp---responsibilities)
-- Contribute to the [job family](https://about.gitlab.com/handbook/hiring/job-families/), [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
+- Contribute to the [job family](/handbook/hiring/job-families/), [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
 - Help the team to avoid shipping our org chart.
   - Within the area of ownership, ensure that team creates product experiences that solve the job-to-be-done.
   - Across your peer group - work to identify areas to partner with peers to create single app experiences that solve the job-to-be-done.
 - Ensure adequate Career Coaching is available to all Product Managers in your organization
 - Maintain a comprehensive understanding of GitLab's overall, and Section specific Product Direction to spot, propose and complete appropriate [global optimizations](/handbook/values/#global-optimization) of our R&D investment
-- Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](https://about.gitlab.com/company/pricing/), product positioning and process
+- Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](/handbook/company/pricing/), product positioning and process
 - Maintain priorities for and champion [acquisitions](https://about.gitlab.com/handbook/acquisitions/) that impact our [product maturity](https://about.gitlab.com/direction/maturity/)
 - Perform [product walk-throughs](https://about.gitlab.com/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 - Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
 - Drive cross-functional, high impact business workstreams outside of the direct area of ownership
-- Demonstrate leadership as [expected of Directors across GitLab](https://about.gitlab.com/company/team/structure/#director-group)
+- Demonstrate leadership as [expected of Directors across GitLab](/handbook/company/team/structure/#director-group)
 - Contribute strategic improvements to how the [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) operates and shape the priorities of the Product Management function
 
 #### Director of Product Management - Requirements
@@ -210,7 +210,7 @@ The Director of Product Management, SaaS Platforms is the PM DRI for the [Fulfil
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with the VP of Product Management
 - Next, candidates will be invited to schedule a 45 minute second peer interview with a Product Director
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Product team
@@ -225,7 +225,7 @@ This role typically manages 4-6 direct reports, including Product Managers, Grou
 
 #### Senior Director of Product Management - Job Grade
 
-The  Senior Director, Product Management is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Director, Product Management is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director of Product Management - Requirements
 
@@ -248,7 +248,7 @@ The next step in the Product Management Leadership job family is to move to the 
 
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-- Selected candidates will be invited to schedule a 30 minute [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Technical Recruiters
+- Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
 - Next, candidates will be invited to schedule a 60 minute first interview with the VP of Product Management
 - Next, candidates will be invited to schedule a 45 minute second peer interview with a Product Director
 - Next, candidates will be invited to schedule a 45 minute third interview with another member of the Product team
@@ -262,7 +262,7 @@ Candidates for this position can generally expect the hiring process to follow t
 Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
 
 1. Their [relevant Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/#structure)
-1. Our global [Product KPIs](https://about.gitlab.com/company/kpis/#product-kpis)
+1. Our global [Product KPIs](/handbook/company/kpis/#product-kpis)
 1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
 1. Hiring versus plan and [new hire location factor](https://about.gitlab.com/handbook/product/performance-indicators/#new-hire-location-factor)
 1. IACV attained by assigned [use case](https://about.gitlab.com/handbook/use-cases/#specific-use-cases) as designated in `Why GitLab` of opportunity [Command Plans](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) ([Dashboard](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback)).

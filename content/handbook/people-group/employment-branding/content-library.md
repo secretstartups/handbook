@@ -20,7 +20,7 @@ Use this content library as a resource whenever you're acting as a talent ambass
 | Remote team members | 100% |
 | Pets | 330+ |
 
-Source: [GitLab team page](https://about.gitlab.com/company/team/)
+Source: [GitLab team page](/handbook/company/team/)
 
 The current headcount number will be updated each quarter following our quarterly earnings call using the GitLab team page as our source of current team members and rounding that number down to the nearest hundred. This number will then be used across all careers sites that reference a specific number of team members.
 
@@ -29,14 +29,14 @@ The current headcount number will be updated each quarter following our quarterl
 - We're one of the largest all-remote companies in the world, and we've intentionally built our culture this way from our founding year.
 - As a GitLab team member, you can work from anywhere with good internet. You'll have the freedom to contribute when and where you do your best work.
 - Our mission makes it clear that we believe in a world where everyone can contribute. We make that possible at GitLab by running our operations on our product and staying aligned with [our values](/handbook/values/)​ in everything we do.
-- More about [life at GitLab and our culture](https://about.gitlab.com/company/culture/).
+- More about [life at GitLab and our culture](/handbook/company/culture/).
 
 ## Key messages about diversity, inclusion, and belonging (DIB) at GitLab
 
 - Diversity, inclusion, and belonging (DIB) are fundamental to the success of GitLab. We infuse DIB in every way possible in all that we do.
 -At GitLab, everyone has a voice and is empowered to contribute. This means that team members have the opportunity to speak openly about their experiences and provide suggestions to leadership in order to create a more diverse and inclusive culture.
 - Through Team Member Resource Groups, event sponsorships, mentorship opportunities, and partnerships with HBCU's, we strive to create a transparent environment where people can and feel comfortable to show up as their full selves each and every day.
-- More about [DIB at GitLab](/company/culture/inclusion/).
+- More about [DIB at GitLab](/handbook/company/culture/inclusion/).
 
 ## Awards and lists recognizing GitLab as a great place to work
 

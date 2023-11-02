@@ -5,13 +5,13 @@ summary: Through leadership, experience, and insight, you will position GitLab a
 
 ### Corporate Communications Manager
 
-Corporate Communications managers at GitLab have a unique opportunity to contribute to our [mission](https://about.gitlab.com/company/mission/#mission). Through your leadership, experience, and insight, you will position GitLab as a trustworthy partner to customers with a strong track record of addressing business challenges, increase overall brand awareness, provide air cover for business as a whole, and come up with thought leadership opportunities. This position will work across teams and the globe to develop and execute integrated communications campaigns in line with GitLab initiatives. You will be expected to prioritize and manage your work with minimal guidance from leadership or other corporate communications team members.
+Corporate Communications managers at GitLab have a unique opportunity to contribute to our [mission](/handbook/company/mission/#mission). Through your leadership, experience, and insight, you will position GitLab as a trustworthy partner to customers with a strong track record of addressing business challenges, increase overall brand awareness, provide air cover for business as a whole, and come up with thought leadership opportunities. This position will work across teams and the globe to develop and execute integrated communications campaigns in line with GitLab initiatives. You will be expected to prioritize and manage your work with minimal guidance from leadership or other corporate communications team members.
 
 We work in a unique way at GitLab, where flexibility and independence meet a high paced, pragmatic way of working. And everything we do is in the open. We recommend looking at our [corporate communications handbook](https://about.gitlab.com/handbook/marketing/corporate-communications/) to get started.
 
 #### Job Grade
 
-The Corporate Communications Manager is a [grade 6](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Corporate Communications Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -41,7 +41,7 @@ The Corporate Communications Manager is a [grade 6](https://about.gitlab.com/han
 
 #### Job Grade
 
-The Senior Corporate Communications Manager is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -65,7 +65,7 @@ The Senior Corporate Communications Manager is a [grade 7](https://about.gitlab.
 
 #### Job Grade
 
-Manager, Corporate Communications is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Manager, Corporate Communications is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -90,7 +90,7 @@ Manager, Corporate Communications is a [grade 8](https://about.gitlab.com/handbo
 
 #### Job Grade
 
-Staff Corporate Communications Manager is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Staff Corporate Communications Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each specialized function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Market data yields an output of 35 companies that use this type of level with an average of 2 incumbents.
 
@@ -115,7 +115,7 @@ Staff Corporate Communications Manager is a [grade 8](https://about.gitlab.com/h
 
 #### Job Grade
 
-Senior Manager, Corporate Communications is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+Senior Manager, Corporate Communications is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -135,7 +135,7 @@ Senior Manager, Corporate Communications is a [grade 9](https://about.gitlab.com
 
 #### Job Grade
 
-The Principal Corporate Communications Manager is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** The business need for an individual contributor Corporate Communications role is to have a team member with a high level of expertise in Corporate, Internal or Executive Communications to be able to develop programs and run each business function. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. Survey data yields a return of 18 organizations with an average of 1 incumbent in the principal level within Marketing Communications. A comparable role at GitLab is the Principal Internal Communications Manager.
 
@@ -159,7 +159,7 @@ The Director of Corporate Communications leads the overall corporate communicati
 
 #### Job Grade
 
-The Director, Corporate Communications is a [grade 10](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Corporate Communications is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Requirements
 
@@ -249,7 +249,7 @@ The Principal Internal Communications Manager is part of the Talent Brand team w
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/handbook/company/team/).
 
 - Qualified candidates will be invited to schedule a screening call with one of our Global Recruiters.
 - Candidates then may be offered a 30 minute interview with our Senior Manager, Corporate Communications.
@@ -258,13 +258,13 @@ Candidates for this position can expect the hiring process to follow the order b
 
 Successful candidates will subsequently be made an offer via video, phone, or email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Senior Director, Corporate Communications
 
 #### Job Grade
 
-The Senior Director, Corporate Communications is a [grade 11](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Director, Corporate Communications is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 This role is responsible for corporate PR, financial communications, reputation management, and executive visibility programs, serving to develop, raise, and protect GitLab's reputation and that of its CEO, CMO, and CFO.
 
 This role develops and leads a cross-functional, long-term strategic communications strategy that translates and synthesizes GitLab’s executives' vision and voice across organizational and industry topics.
@@ -359,7 +359,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - 30 minute interview with our Chief Legal Officer
 - Successful candidates will subsequently be made an offer via video, phone, or email.
 
-Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Performance Indicators
 

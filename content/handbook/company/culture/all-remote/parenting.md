@@ -140,7 +140,7 @@ With just one or two clicks, you can modify your status on Slack or Microsoft Te
 
 Being booked at 100% is a risk, particularly for working parents. (See [Kingman's Formula](https://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations) for the mathematics behind this.) The ebbs and flows of life cannot be predicted — after all, [it's impossible to know everything]({{< ref "values#its-impossible-to-know-everything" >}}). If your standing commitments have you at 100%, you have no room to react thoughtfully to life/children, or to plan for improvements.
 
-Stress is contagious, but so is [calm]({{< ref "./mental-health" >}}). Be ruthless in declining meetings and conveying that your schedule is full once you reach a certain quantity of daily or weekly meetings. Consider using [Clockwise]({{< ref "/handbook/tools-and-tips/other-apps#clockwise" >}}) to force more focus time into your schedule.
+Stress is contagious, but so is [calm]({{< ref "./mental-health" >}}). Be ruthless in declining meetings and conveying that your schedule is full once you reach a certain quantity of daily or weekly meetings.
 
 ### Expect the unexpected
 
@@ -180,7 +180,7 @@ From family time to unforgettable adventures, there are many great stories of ho
 1. [How I balance a baby, a career at GitLab, and cultural expectations of motherhood](https://about.gitlab.com/blog/2019/07/25/balancing-career-and-baby)
 1. [How to make your home a space that works with kids](https://about.gitlab.com/blog/2019/08/01/working-remotely-with-children-at-home)
 1. [5 Things to keep in mind while working remotely with kids](https://about.gitlab.com/blog/2019/08/08/remote-kids-part-four)
-1. [GitLab parental leave and return tool kit](https://about.gitlab.com/handbook/total-rewards/benefits/parental-leave-toolkit)
+1. [GitLab parental leave and return tool kit](/handbook/total-rewards/benefits/parental-leave-toolkit)
 
 ### Guides from friends and partners
 

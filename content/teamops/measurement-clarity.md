@@ -25,16 +25,16 @@ Action tenets of measurement clarity, including real-world examples of each, are
 
 ## Transparent measurements
 
-Conventional management philosophies glorify "metrics," which is a nonspecific term that often lacks connection to objectives, mission, values, workflows, strategy, or a shared reality. TeamOps prefers [Key Performance Indicators (KPIs)](https://about.gitlab.com/company/kpis/), which are smaller, incremental measures linked to [Objectives and Key Results](https://about.gitlab.com/company/okrs/) (OKRs) that, well, *indicate performance*. These offer greater context for both daily operations and the relevance of ongoing productivity to a function or the entire company.
+Conventional management philosophies glorify "metrics," which is a nonspecific term that often lacks connection to objectives, mission, values, workflows, strategy, or a shared reality. TeamOps prefers [Key Performance Indicators (KPIs)](/handbook/company/kpis/), which are smaller, incremental measures linked to [Objectives and Key Results](/handbook/company/okrs/) (OKRs) that, well, *indicate performance*. These offer greater context for both daily operations and the relevance of ongoing productivity to a function or the entire company.
 
 While KPIs measure smaller units than OKRs do, the former aren't dependent on the latter. In fact, the two should be symbiotic in nature, informing and influencing each other to enhance operational visibility, measurement accuracy, and team empowerment. If you're not creating OKRs to improve KPIs, then you're either missing KPIs or you have the wrong OKRs.
 
 Crucially, under TeamOps every functional department shares its KPIs transparently shared across the organization. This aids visibility and enables everyone to contribute.
 
 {{% details summary="Examples and resources for transparent measurements" %}}
-**Example:** [Chief Executive Officer OKR and KPIs](https://about.gitlab.com/company/okrs/fy23-q3/)
+**Example:** [Chief Executive Officer OKR and KPIs](/handbook/company/okrs/fy23-q3/)
 
-In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](https://about.gitlab.com/company/okrs/fy23-q3/). This is the *initiative* to improve a series of KPIs, a subset of which are documented below:
+In Q3-FY23 at GitLab, a CEO OKR was [Improve user and wider-community engagement](/handbook/company/okrs/fy23-q3/). This is the *initiative* to improve a series of KPIs, a subset of which are documented below:
 
 1. Evolve the resident contributor strategy by conducting 5 customer conversations with current “resident contributors” in seat
 1. Certify 1,000 team members and 10,000 wider-community members in TeamOps
@@ -113,7 +113,7 @@ An organization practicing TeamOps will always set a due date and, if necessary 
 {{% details summary="Examples and resources for prioritize due dates over scope" %}}
 **Example:** [Maintaining a monthly release cadence for 10+ years](https://about.gitlab.com/releases/)
 
-As of 2022-12-01, GitLab has [shipped a monthly product release](https://about.gitlab.com/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](https://handbook.gitlab.com/handbook/values/#set-a-due-date) instead of pushing ship dates.
+As of 2022-12-01, GitLab has [shipped a monthly product release](https://about.gitlab.com/releases/) for 134 consecutive months. That's more than 10 years! A decade of [consistent execution](https://about.gitlab.com/blog/2018/11/21/why-gitlab-uses-a-monthly-release-cycle/) is made possible by [cutting scope](/handbook/values/#set-a-due-date) instead of pushing ship dates.
 
 **Resource:** [Project Scope: How to Meet Deadlines and Keep Stakeholders Happy](https://www.process.st/project-scope/) (article)
 {{% /details %}}
@@ -131,7 +131,7 @@ As of 2022-12-01, GitLab has [shipped a monthly product release](https://about.g
 
 Achieving measurement clarity involves more than evaluating *whether* your team successfully achieved its goals. It also involves evaluating *how* your team succeeded during the process. So just as a team's measurements should be as [transparent](/teamops/measurement-clarity/#transparent-measurements) as possible, so too should be a team's feedback *about* those results.
 
-[Transparent feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/) means that constructive criticism is:
+[Transparent feedback](/handbook/people-group/guidance-on-feedback/) means that constructive criticism is:
 
 - immediate
 - specific
@@ -149,9 +149,9 @@ To optimize the efficacy of delivered feedback, consider how other TeamOps tenet
 - As a manager, prioritize building [psychological safety](/teamops/equal-contributions/#psychological-safety) during group collaboration by encouraging healthy controversy and by investing time in [informal communication](/teamops/shared-reality/#informal-communication) to build trust and camaraderie that can withstand negative criticism.
 
 {{% details summary="Examples and resources for transparent feedback" %}}
-**Example:** [A member of GitLab's L&D Team Giving Feedback to the CEO](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback)
+**Example:** [A member of GitLab's L&D Team Giving Feedback to the CEO](/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback)
 
-At GitLab, our mission that [everyone can contribute] even influences our feedback guidelines—suggesting that any team member, at any level, can give feedback to any other team member, at any level. In this video about [Guidance on Giving and Receiving Feedback](https://about.gitlab.com/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback), the CEO of GitLab, Sid Sijbrandij, discusses this challenge in more detail, and asks for performance feedback from a member of the Learning & Development team.
+At GitLab, our mission that [everyone can contribute] even influences our feedback guidelines—suggesting that any team member, at any level, can give feedback to any other team member, at any level. In this video about [Guidance on Giving and Receiving Feedback](/handbook/people-group/guidance-on-feedback/#guidance-on-giving-and-receiving-feedback), the CEO of GitLab, Sid Sijbrandij, discusses this challenge in more detail, and asks for performance feedback from a member of the Learning & Development team.
 
 **Resource:** [Guide to Giving Remote Feedback](https://www.workplaceless.com/blog/guide-to-remote-feedback) (playbook)
 {{% /details %}}
@@ -169,12 +169,12 @@ At GitLab, our mission that [everyone can contribute] even influences our feedba
 
 In organizations built on information-based operations, team members' collective sense of stability, security, and well-being is an outgrowth of their knowing when future opportunities to receive and exchange knowledge will occur. A [Single Source of Truth (SSoT)](/teamops/shared-reality/#single-source-of-truth-ssot) and [asynchronous workflows](/teamops/equal-contributions/#asynchronous-workflows) ensure that existing information is continuously accessible. But what about informational *updates*? Not knowing about emerging decisions, forthcoming goals, or adjustments to long-term visions can compromise a team's focus, efficiency, and trust.
 
-This is why establishing a transparent [cadence](https://about.gitlab.com/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a *pace* for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](https://about.gitlab.com/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
+This is why establishing a transparent [cadence](/handbook/company/cadence/) for decision-making activities, informational updates, and feedback opportunities is important for teams practicing TeamOps. A regular cadence sets a *pace* for productivity and creates predictable, comfortable intervals for work. Establishing and documenting a cadence for everything from operational workflows and [due dates](/handbook/teamops/measurement-clarity/#prioritize-due-dates-over-scope)  to company announcements and team meetings can prevent the kinds of distraction and burnout that often result from context switching, distractive research, or individual uncertainty.
 
 {{% details summary="Examples and resources for cadence" %}}
-**Example:** [GitLab’s Quarterly All-Hands Meeting](https://about.gitlab.com/company/gitlab-assembly/)
+**Example:** [GitLab’s Quarterly All-Hands Meeting](/handbook/company/gitlab-assembly/)
 
-At the same time each quarter, executive leadership hosts [GitLab Assembly](https://about.gitlab.com/company/gitlab-assembly/)—a company-wide recap of the past quarter's accomplishments, summary of the new quarter's objectives, and an open-floor Q&A for any employee to resolve questions or concerns. Knowing exactly when this meeting will occur, who will be in attendance, and what will be discussed gives GitLab team members full confidence of when they can have direct access to the executive team about company growth.
+At the same time each quarter, executive leadership hosts [GitLab Assembly](/handbook/company/gitlab-assembly/)—a company-wide recap of the past quarter's accomplishments, summary of the new quarter's objectives, and an open-floor Q&A for any employee to resolve questions or concerns. Knowing exactly when this meeting will occur, who will be in attendance, and what will be discussed gives GitLab team members full confidence of when they can have direct access to the executive team about company growth.
 
 **Resource:** [How to use a business cadence to promote collaboration](https://www.hydra.cloud/en/resources/blog/how-to-use-a-business-cadence-to-promote-collaboration) (article)
 {{% /details %}}
