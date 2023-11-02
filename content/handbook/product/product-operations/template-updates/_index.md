@@ -1,4 +1,3 @@
 ---
-
 title: Template updates
 ---
