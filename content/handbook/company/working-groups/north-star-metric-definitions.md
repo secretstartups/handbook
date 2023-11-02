@@ -27,7 +27,7 @@ This working group is charged with driving the necessary cross-functional alignm
 | Date Created                   | 2023-11-01 |
 | Target End Date                | 2024-01-31 |
 | Slack                          | #wg_north-star-metric-definitions |
-| Google Doc                     | TBD - [North Star Metric Definitions Agenda] |
+| Google Doc                     | [North Star Metric Definitions Agenda](https://docs.google.com/document/d/1MFpr7p8nu5qTwo8xaIyX1aPyYT2ulk2yqXKUJYx676M/edit#heading=h.5pzaui1699w8) |
 | Epic - Primary                 | [Primary](https://gitlab.com/groups/gitlab-data/-/epics/1083)|
 | Epic - Security                | [Security](https://gitlab.com/gitlab-data/analytics/-/issues/18848) |
 | Epic - Compliance              | [Compliance](https://gitlab.com/gitlab-data/analytics/-/issues/18849) |
