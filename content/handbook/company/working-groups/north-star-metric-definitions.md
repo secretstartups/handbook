@@ -31,7 +31,7 @@ This working group is charged with driving the necessary cross-functional alignm
 | Epic - Primary                 | [Primary](https://gitlab.com/groups/gitlab-data/-/epics/1083)|
 | Epic - Security                | [Security](https://gitlab.com/gitlab-data/analytics/-/issues/18848) |
 | Epic - Compliance              | [Compliance](https://gitlab.com/gitlab-data/analytics/-/issues/18849) |
-| Board                          | TBD |
+| Board                          | [North Star Metric Definitions Board](https://gitlab.com/gitlab-data/analytics/-/boards/7148077?label_name[]=WorkingGroup%3A%3ANorthStarMetric) |
 | Overview & Status              | See [Exit criteria](#exit-criteria) below |
 
 ## Exit criteria
@@ -65,7 +65,8 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Member - Enterprise Data                     | Miles Russell                 | Senior Analytics Engineer                                  |
 | Member - Enterprise Data                     | Amie Bright                   | VP of Enterprise Data and Analytics                        |
 | Member - Enterprise Data                     | Jong Lee                      | Data Analyst                                               |
-| Member - Chief of Staff Team (CoST)        | David Tuan                    | Director, Strategy and Operations                          |
+| Member - Enterprise Data                     | Naheil McAvinue               | Senior Manager, Data                                       |
+| Member - Chief of Staff Team (CoST)          | David Tuan                    | Director, Strategy and Operations                          |
 
 ## Jobs to be done by the Working Group
 
@@ -82,7 +83,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 
 ## Multimodal Communication
 
-- Apply the following labels to issues and epics to enable tracking and team wide visibility (To be created)
+- Apply the following labels to issues and epics to enable tracking and team wide visibility
     - `WorkingGroup::NorthStarMetric`
     - `UseCase::CI`
     - `UseCase::Security`
@@ -94,4 +95,4 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
     - `wg-status::Blocked`
     - `wg-status::Complete`
     - `wg-status::Cancelled`
-- Formalize "asks" of the Working Group by filing an issue against the **TBD EPIC** epic to enable cross-functional visibility, collaboration, and prioritization
+- Formalize "asks" of the Working Group by filing an issue against the [EPIC](https://gitlab.com/groups/gitlab-data/-/epics/1083) to enable cross-functional visibility, collaboration, and prioritization
