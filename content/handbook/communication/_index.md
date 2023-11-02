@@ -133,14 +133,7 @@ When in doubt, you can reach out to your People Business Partner and/or your lea
 
 ### Organization code names
 
-
-- Listed in Google Sheet under 'Organization code names'
-- To make it easier to recognize code names we base them on classic car models.
-
-There are two types of code names:
-
-- **Do not mention publicly** We can use code names anywhere we regularly share items in that medium with people outside the company: issue trackers, Group Conversations, etc. For these we don't have to use code names in things that are never published: SalesForce, Zuora, Zendesk, and verbal conversations.
-- **Do not write down** there are organizations that we shouldn't write down anywhere.
+Please see our [Project names section](/handbook/communication/confidentiality-levels/#project-names).
 
 ## Internal communication
 
