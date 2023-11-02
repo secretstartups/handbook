@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Kamil Trzciński's README"
-job: "Distinguished Engineer, Ops and Enablement"
+job: "Senior Distinguished Engineer, Ops and Enablement"
 ---
 
 ## On this page
@@ -12,7 +12,7 @@ job: "Distinguished Engineer, Ops and Enablement"
 
 ## Introduction
 
-My name is Kamil Trzciński and I am a Distinguished Engineer as part of the
+My name is Kamil Trzciński and I am a Senior Distinguished Engineer as part of the
 [Memory team][/handbook/engineering/development/enablement/data_stores/application_performance/],
 and I live in Poland.
 
