@@ -154,7 +154,7 @@ Engage with public replies in Twitter threads, LinkedIn posts, etc. and offer co
 
 Developer Evangelists are encouraged to help with
 
-- [Review talk abstracts and slide decks](/handbook/marketing/developer-relations/developer-evangelism/event-support/#speaker-enablement)
+- [Review talk abstracts and slide decks](/handbook/marketing/developer-relations/events/#speaker-enablement)
 - [Social media best practices](/handbook/marketing/developer-relations/developer-evangelism/social-media/)
 - Help with advice on detecting and preventing burnout
   - [Twitter Thread](https://twitter.com/dnsmichi/status/1534256896135335936) as a response to the question `How do I know when I'm showing signs of burnout?`

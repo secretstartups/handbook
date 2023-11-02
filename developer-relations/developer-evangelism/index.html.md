@@ -132,7 +132,7 @@ We build out content to help educate developers around best practices related to
 
 ### Corporate event support 
 
-The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Corporate Event Support page](/handbook/marketing/developer-relations/developer-evangelism/event-support/).
+The Developer Evangelism and Technical Marketing teams play a key role in supporting events. We work closely alongside [Corporate Event Marketing](https://about.gitlab.com/handbook/marketing/integrated-marketing/corporate-events/) to provide strategic content and assistance for both corporate and third-party sponsored events. This collaboration ensures the success and seamless execution of various gatherings. To learn more please refer to the [Events page](/handbook/marketing/developer-relations/events/).
 
 ### Spokespersons
 
