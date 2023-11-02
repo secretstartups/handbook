@@ -139,7 +139,7 @@ You can request Support to contact GitLab.com users on your behalf. Here are som
 | Contact a user during an incident | [Open a confidential infra issue, assign it to the current CMOC](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=confidential_incident_data), use `confidential_incident_data` template | #support_gitlab-com |
 | Contact a single user | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=Contact%20Request) using the `Contact Request` template | #support_gitlab-com |
 | Prepare Support for changes (with or without contacting select users) | [Open a Support Readiness issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Support%20Readiness) | #spt_managers |
-| I need to reach out to many users | Review [the tools and users table](/handbook/support/workflows/sending_notices.html#tools-and-approvals) for a guide on how to most effectively send communications. | #spt_managers |
+| I need to reach out to many users | [Open a Marketing-Ops issue](https://handbook.gitlab.com/handbook/support/workflows/sending_notices/#mass-emails-through-marketing-department) | #spt_managers |
 
 **Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
