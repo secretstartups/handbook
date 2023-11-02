@@ -354,6 +354,7 @@ Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **
 - For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/)
 
 ### Position ID (PID)
+
 Position ID is a unique identifier and is the link between approved headcount and the Hiring Plan
 - Each position is approved and allows TA to open a role for the business
 - Positions are all approved headcount in the Hiring Plan. 
@@ -404,36 +405,39 @@ Position ID is a unique identifier and is the link between approved headcount an
 ### Role Approval and Release Process
 
 #### Process Overview
-Hiring Plan 
-Finance Business Partners (FBPs) work with Business Partners (BPs) to discuss role details and enter final decisions to Adaptive as Hiring Plan
-Hiring Plans are approved by Board of Directors (during AOP) or CFO & eGroup (during RLOA). 
-All approved positions will be communicated by FBPs to TA partners, PBPs, and BPs
-Requisition Release
-Role details are added to Live Interlock sheets. Details allow TA to open a requisition in Greenhouse
-Backfill requisition requires separate approval (below)
-Hiring Manager create/review Job Family
-Talent Acquisition partner opens requisition in Greenhouse
-Formal approval to open role
-When a requisition is opened in Greenhouse it is routed for approvals. The job approval requires approvals from Total Rewards, FP&A and Department Lead (VP+)
-This allows the FBPs to check all details of the role and ensure consistency to SSOT Hiring Plan
-If role details in Greenhouse do not reconcile to Hiring Plan in Adaptive, FBP will reach out to both TA and HM to resolve discrepancies
-FP&A is also a required approval on all job offers (before the role is officially filled). This approval allows FP&A to confirm details of the job offer and ensure reconciliation to Hiring Plan
-Run kick-off (aka Intake) with Hiring Manager
+
+1. Hiring Plan 
+   - Finance Business Partners (FBPs) work with Business Partners (BPs) to discuss role details and enter final decisions to Adaptive as Hiring Plan
+   - Hiring Plans are approved by Board of Directors (during AOP) or CFO & eGroup (during RLOA). 
+   - All approved positions will be communicated by FBPs to TA partners, PBPs, and BPs
+2. Requisition Release
+   - Role details are added to Live Interlock sheets. Details allow TA to open a requisition in Greenhouse
+   - Backfill requisition requires separate approval (below)
+3. Hiring Manager create/review Job Family
+4. Talent Acquisition partner opens requisition in Greenhouse
+5. Formal approval to open role
+   - When a requisition is opened in Greenhouse it is routed for approvals. The job approval requires approvals from Total Rewards, FP&A and Department Lead (VP+)
+   - This allows the FBPs to check all details of the role and ensure consistency to SSOT Hiring Plan
+      - If role details in Greenhouse do not reconcile to Hiring Plan in Adaptive, FBP will reach out to both TA and HM to resolve discrepancies
+   - FP&A is also a required approval on all job offers (before the role is officially filled). This approval allows FP&A to confirm details of the job offer and ensure reconciliation to Hiring Plan
+6. Run kick-off (aka Intake) with Hiring Manager
 
 FP&A and TA discussed and agreed upon the above process. This SSOT process ensures consistency in Hiring Plan execution
 
 #### Planned Positions
+
 Planned Positions include all Net New positions to existing GitLab active employees.
-Hiring Plan Approval of any Planned Positions are from:
-Annual Operating Plan (AOP) cycle
-RLoA cycle for any incremental roles through the year
-Requisition Release
-Hiring Manager create/review Job Family
-Open requisition in Greenhouse
-Formal approval to open role
-Run kick-off (aka Intake) with Hiring Manager
+1. Hiring Plan Approval of any Planned Positions are from:
+   - Annual Operating Plan (AOP) cycle
+   - RLoA cycle for any incremental roles through the year
+2. Requisition Release
+3. Hiring Manager create/review Job Family
+4. Open requisition in Greenhouse
+5. Formal approval to open role
+6. Run kick-off (aka Intake) with Hiring Manager
 
 #### Backfill Positions
+
 Backfill Positions include all positions created due to departure or termination of an existing employee.
 Hiring Plan Approval of any Backfill Positions
 While GitLab strongly believes that a HM should be able to backfill each role upon termination and/or departure, HM should check with his/her leadership to discuss and decide whether there are changes to the backfill role
