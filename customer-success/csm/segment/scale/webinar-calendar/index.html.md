@@ -24,13 +24,6 @@ If you know someone who might be interested in attending, feel free to share the
 
 ### AMER Time Zone Webinars & Workshops
 
-#### Git Basics
-##### November 1st, 2023 at 9:00-10:00AM Pacific Time / 12:00-1:00PM Eastern Time
-
-New to Git? Join this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_NnX60rz1QRqw2R87gFuTgA#/registration)
-
 #### Intro to GitLab
 ##### November 7th, 2023 at 9:00-10:00AM Pacific Time / 1:00-2:00PM Eastern Time
 
@@ -106,13 +99,6 @@ Join us for a hands-on GitLab AI workshop where we will explore Artificial Intel
 
 
 ### EMEA Time Zone Webinars and Workshops
-
-#### Git Basics
-##### November 1st, 2023 at 9:00-10:00AM UTC / 10:00-11:00AM CET
-
-New to Git? Join this webinar targeted at beginners working with source code, where we will review the basics of using Git for version control and how it works with GitLab to help you get started quickly.
-
-[<button class="btn btn-primary" type="button">Register</button>](https://gitlab.zoom.us/webinar/register/WN_BbEhaKJ6Sl-Y6u3mKtVBmQ#/registration)
 
 #### Intro to GitLab
 ##### November 7th, 2023 at 9:00-10:00AM UTC / 10:00-11:00AM CET
