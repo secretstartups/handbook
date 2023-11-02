@@ -24,11 +24,11 @@ Product Managers are responsible for helping determine and maintain the optimal 
 
 ### Pricing Tiers
 
-The [CEO is the DRI for pricing and tiers](/company/pricing/#departments). This includes any changes that directly impact how we charge customers under our licensing model, such as a [change to how we handle active users](https://gitlab.com/gitlab-org/gitlab/issues/22257). GitLab leverages a [buyer-based *open core*](https://about.gitlab.com/company/pricing/#buyer-based-open-core) pricing model. Please review the entirety of the [stewardship](/company/stewardship/) and [pricing model](/company/pricing/) pages before making any determinations as to which tier a given feature should go in.
+The [CEO is the DRI for pricing and tiers](/handbook/company/pricing/#departments). This includes any changes that directly impact how we charge customers under our licensing model, such as a [change to how we handle active users](https://gitlab.com/gitlab-org/gitlab/issues/22257). GitLab leverages a [buyer-based *open core*](/handbook/company/pricing/#buyer-based-open-core) pricing model. Please review the entirety of the [stewardship](/handbook/company/stewardship/) and [pricing model](/handbook/company/pricing/) pages before making any determinations as to which tier a given feature should go in.
 
 #### Determining the tier of a new feature
 
-The [likely buyer](/company/pricing/#buyer-based-open-core) determines which tier, and "Who cares most about the feature" ultimately determines the likely buyer. Our [stewardship principles](/company/stewardship/) also help guide whether something belongs in a paid tier. Be sure to consider documenting your rationale for the decision in the issue description, including a reference to our [stewardship page](/company/stewardship/) when appropriate.
+The [likely buyer](/handbook/company/pricing/#buyer-based-open-core) determines which tier, and "Who cares most about the feature" ultimately determines the likely buyer. Our [stewardship principles](/handbook/company/stewardship/) also help guide whether something belongs in a paid tier. Be sure to consider documenting your rationale for the decision in the issue description, including a reference to our [stewardship page](/handbook/company/stewardship/) when appropriate.
 
 Please indicate the applicable tier for an issue by applying the label associated with the tier (e.g. `GitLab Ultimate`). Ensure this is defined before feature development begins.
 
@@ -42,8 +42,8 @@ Each product area should have a laddered tiering strategy, where incremental val
 
 #### Moving features between tiers or other pricing changes
 
-To propose changing a feature tier or making any other change that impacts how we charge customers, please follow the process and template on the [pricing page](/company/pricing/#changing-tiers-and-pricing-changes). This ensures collaboration and alignment with key GitLab stakeholders and maintenance of `features.yml` as SSOT.
-Please remember our [promise not to make open-source features source-available](https://about.gitlab.com/company/stewardship/#existing-contributed-open-source-features-will-not-become-source-available).
+To propose changing a feature tier or making any other change that impacts how we charge customers, please follow the process and template on the [pricing page](/handbook/company/pricing/#changing-tiers-and-pricing-changes). This ensures collaboration and alignment with key GitLab stakeholders and maintenance of `features.yml` as SSOT.
+Please remember our [promise not to make open-source features source-available](/handbook/company/stewardship/#existing-contributed-open-source-features-will-not-become-source-available).
 
 #### Paid Tier requirements
 

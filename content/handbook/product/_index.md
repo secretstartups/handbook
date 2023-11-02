@@ -12,9 +12,9 @@ description: "Most of the content in the product handbook talks about _how_ we d
 
 ## Welcome to the Product Team Handbook
 
-- The Product Team  is led by [David DeSanto](/company/team/#david).
+- The Product Team  is led by [David DeSanto](/handbook/company/team/#david).
 - The Product Handbook focuses on *how* we do product at GitLab.
-- Please see [Product Direction](/direction/) to learn about *what* the Product Team plans to build.
+- Please see [Product Direction](https://about.gitlab.com/direction/) to learn about *what* the Product Team plans to build.
 
 ## Product Team Functions
 
@@ -108,15 +108,15 @@ Learn about our Product Leadership Team and learn about them via their personal 
 - [**Learning and Development for Product Management**](/handbook/product/product-manager-role/learning-and-development/)
 - [**Product Budgeting Process**](/handbook/product-development-budgeting/)
 - [**Product Development Flow**](/handbook/product-development-flow/)
-- [**Product Development Timeline**](/handbook/engineering/workflow/#product-development-timeline)
+- [**Product Development Timeline**](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 - [**Analytics Instrumentation Guide**](/handbook/product/analytics-instrumentation-guide/)
 - [**Product Management CDF and competencies**](/handbook/product/product-manager-role/product-CDF-competencies/)
 - [**Product Manager Onboarding**](https://about.gitlab.com/handbook/product/product-manager-role/#product-manager-onboarding)
 - [**Product Manager Responsibilities**](/handbook/product/product-manager-responsibilities/)
 - [**Product Manager SAFE (legal) Guidance**](https://about.gitlab.com/handbook/product/product-safe-guidance/)
 - [**Product Operations Releases**](/handbook/product/product-operations/#product-operations-releases)
-- [**Product Pricing Model**](/company/pricing/)
-- [**Release Posts**](/handbook/marketing/blog/release-posts/)
+- [**Product Pricing Model**](/handbook/company/pricing/)
+- [**Release Posts**](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
 - [**Tiering Guidance for Features**](https://about.gitlab.com/handbook/product/tiering-guidance-for-features/#learning-opportunities)
 
 ### Communicating with the Product Division

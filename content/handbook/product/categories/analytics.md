@@ -36,16 +36,16 @@ Here are the individuals who work as part of one of the Analytics Section groups
 The section is covered by groups from teams across two primary departments, Engineering and Product. Teams and team members from those departments have their own handbook pages linked below.
 
 * Engineering
-   * [Development](/handbook/engineering/development/)
-      * [Analytics Instrumentation](/handbook/engineering/development/analytics/analytics-instrumentation/)
+   * [Development](https://about.gitlab.com/handbook/engineering/development/)
+      * [Analytics Instrumentation](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/)
       * Product Analytics
    * [UX](/handbook/product/ux/#team-structure)
-   * [Quality](/handbook/engineering/quality/#quality-engineering-structure)
+   * [Quality](https://about.gitlab.com/handbook/engineering/quality/#quality-engineering-structure)
 * Product
    * TBD
 
 ## Investment Allocation
-The [product groups](/company/team/structure/#product-groups) within the Analytics Section are outlined in the [product categories page](/handbook/product/categories/#analytics-section).
+The [product groups](/handbook/company/team/structure/#product-groups) within the Analytics Section are outlined in the [product categories page](/handbook/product/categories/#analytics-section).
 
 The product department determines our [investment](https://internal.gitlab.com/handbook/product/investment/) within the section by allocating headcount for development team members to product groups. While doing so we adhere to the following principles:
 * All product groups will maintain at least a 1:1:1 ratio between three primary DRIs - Product Managers, Product Designers and Engineering Managers.
@@ -136,6 +136,6 @@ TBD
 
 ## References
 * [Product categories](/handbook/product/categories/#analytics-section)
-* [Direction](/direction/analytics/)
+* [Direction](https://about.gitlab.com/direction/analytics/)
 
 

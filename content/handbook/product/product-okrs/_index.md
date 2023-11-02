@@ -13,7 +13,7 @@ title: Product Division OKRs
 
 ## Product Division OKR Overview
 
-For an overview of our overall approach to OKRs, as well as any company-wide OKR due dates, see [Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/). 
+For an overview of our overall approach to OKRs, as well as any company-wide OKR due dates, see [Objectives and Key Results (OKRs)](/handbook/company/okrs/). 
 
 ### General timeline and process 
 
@@ -30,12 +30,12 @@ This page provides an overview of the Product Division OKR workflow. All departm
 - **5 weeks** prior to the start of the  quarter, an [automated drafting issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Division-OKR-Drafting.md) kicks off the OKR drafting process: 
      - Product EBA updates the issue with due dates and signals the Chief Product Officer the drafting issue is available for drafting
 - **4 weeks** prior to the start of the quarter: 
-     - CProdO drafts Product Division OKRs aligned to the [annual product investment themes](https://about.gitlab.com/direction/#fy23-product-investment-themes) and annual [Yearlies](https://about.gitlab.com/company/yearlies/) leveraging the [drafting issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Division-OKR-Drafting.md)
+     - CProdO drafts Product Division OKRs aligned to the [annual product investment themes](https://about.gitlab.com/direction/#fy23-product-investment-themes) and annual [Yearlies](/handbook/company/yearlies/) leveraging the [drafting issue](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Division-OKR-Drafting.md)
 - **3 weeks** prior to the start of the quarter:
      - CProdO shares proposed Product OKRs with Product Leadership Team
      - Product Leadership team provides their feedback or any alternate OKRs in the drafting issue
 - **2 weeks** prior to the start to quarter:
-     - Product EBAs create Product Division OKRs in GitLab and mention '@gl-product' (section, stage, and group product leads) to finalize KR drafts with their respective [Product Quad](/handbook/engineering/quality/quality-engineering/quad-planning/)
+     - Product EBAs create Product Division OKRs in GitLab and mention '@gl-product' (section, stage, and group product leads) to finalize KR drafts with their respective [Product Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/)
      - Product leads must have at least 2 weeks to review CProdO OKRs, propose changes, and plan any additional OKRs that cascade up to CProdO OKRs. 
      - Product leads from each section, stage, and group review Product Division OKRs and provide feedback directly in GitLab on changes that may be needed. 
      - Product leads plan and propose their respective section, stage and section OKRs following the guidance on [how to write OKRs](/handbook/product/product-okrs/#how-to-write-okrs). 
@@ -50,8 +50,8 @@ This page provides an overview of the Product Division OKR workflow. All departm
 
 ### When to update the status of Product OKRs
 
-1. For all Product team OKRs, the KR owners are responsible for keeping the status of their KRs in [GitLab](/company/okrs/#how-to-use-gitlab-for-okrs) up to date
-     - Team members who **own** specific OKRs will update [the score (% complete) in GitLab](/company/okrs/#scoring-okrs) monthly and ping any relevant stakeholders as needed. For example, since FY23-Q1 begins February 1, KR owners will provide score updates by February 15,  March 15 and April 15. We follow this mid-month cycle to ensure there are accurate OKR status updates for [Key Reviews](/handbook/key-review/) which typically happen around the 20th of each month.
+1. For all Product team OKRs, the KR owners are responsible for keeping the status of their KRs in [GitLab](/handbook/company/okrs/#how-to-use-gitlab-for-okrs) up to date
+     - Team members who **own** specific OKRs will update [the score (% complete) in GitLab](/handbook/company/okrs/#scoring-okrs) monthly and ping any relevant stakeholders as needed. For example, since FY23-Q1 begins February 1, KR owners will provide score updates by February 15,  March 15 and April 15. We follow this mid-month cycle to ensure there are accurate OKR status updates for [Key Reviews](/handbook/key-review/) which typically happen around the 20th of each month.
 2. **Owners** of KRs will get pinged with reminders update their KRs via Slack around the 5th of each month.
 3. **Owners** of KRs will also get pinged in the [Product Key Review issue](https://gitlab.com/gitlab-com/Product/-/issues/2919) as needed to update the Product Key Review slides around the 18th of each month based on what is in GitLab.
 
@@ -69,7 +69,7 @@ We recommend sharing the results of the retrospectives with `@gl-product` and ot
 
 ### How to change an OKR within the quarter
 
-In certain circumstances, it is appropriate to [change an OKR within the quarter](/company/okrs/#making-changes-within-quarter). To make a change to an OKR: 
+In certain circumstances, it is appropriate to [change an OKR within the quarter](/handbook/company/okrs/#making-changes-within-quarter). To make a change to an OKR: 
 1. OKR assignee review: The OKR assignee needs to review and agree to the proposed OKR change. 
 2. Tradeoffs review and communication: OKR assignee should ensure that the right tradeoffs are made to make the OKR feasible for the quarter. 
    1. If another OKR needs to be deprioritized this should be clearly outlined as part of the OKR change. 
@@ -86,14 +86,14 @@ In certain circumstances, it is appropriate to [change an OKR within the quarter
 ## How to write OKRs
 
 Product groups should limit the number of OKRs they commit to so they have reasonable bandwidth to deliver. When planning OKRs: 
-1. Consider non-OKR commitments. While OKRs are the big commitments that the team is making for the quarter, they [do not supersede core team members responsibilities](/company/okrs/#how-do-i-prioritize-okrs-in-light-of-other-priorities). For R&D, this means retaining team capacity beyond OKRs for work that falls higher in our [prioritization framework](/handbook/product/product-processes/#prioritization-framework), such as forced prioritization items with an SLA/SLO. Meeting SLOs is not an OKR, as [OKRs focus on what's different](/company/okrs/#okrs-are-what-is-different).
+1. Consider non-OKR commitments. While OKRs are the big commitments that the team is making for the quarter, they [do not supersede core team members responsibilities](/handbook/company/okrs/#how-do-i-prioritize-okrs-in-light-of-other-priorities). For R&D, this means retaining team capacity beyond OKRs for work that falls higher in our [prioritization framework](/handbook/product/product-processes/#prioritization-framework), such as forced prioritization items with an SLA/SLO. Meeting SLOs is not an OKR, as [OKRs focus on what's different](/handbook/company/okrs/#okrs-are-what-is-different).
    1. Other than core team member responsibilities such as those outlined above, all other major commitments should be prioritized via OKRs and consider team bandwidth. 
    2. If a team gets a request for a major effort within the quarter, they can change the OKR by following the guidelines above about [how to change an OKR within the quarter](#how-to-change-an-okr-within-the quarter)
-2. Plan for [OKRs to be ambitious, but achievable](/company/okrs/#criteria-for-key-results) within the team capacity that you have for OKRs. While OKRs are meant to be ambitious, [you should aim to complete them](/company/okrs/#how-do-i-prioritize-okrs-in-light-of-other-priorities) and strive to hit the ambitious plan. We recognize that with ambitious planning some OKRs will not be completed, but it is striving and reporting on OKRs with the goal of hitting 100% that helps us accomplish strong results. We score individual OKRs as "on track" when they are at least 80% complete. In aggregate, we expect that the average completion score across OKRs is 70%.
-3. [Review cascading OKRs](/company/okrs/#cascading-okrs-and-how-to-align-division-okrs-to-the-ceo-okrs) first and allocate time for those. Cascading OKRs are those at the CEO level or Product Division level that need your group's contributions to be achieved. You should prioritize these first. 
+2. Plan for [OKRs to be ambitious, but achievable](/handbook/company/okrs/#criteria-for-key-results) within the team capacity that you have for OKRs. While OKRs are meant to be ambitious, [you should aim to complete them](/handbook/company/okrs/#how-do-i-prioritize-okrs-in-light-of-other-priorities) and strive to hit the ambitious plan. We recognize that with ambitious planning some OKRs will not be completed, but it is striving and reporting on OKRs with the goal of hitting 100% that helps us accomplish strong results. We score individual OKRs as "on track" when they are at least 80% complete. In aggregate, we expect that the average completion score across OKRs is 70%.
+3. [Review cascading OKRs](/handbook/company/okrs/#cascading-okrs-and-how-to-align-division-okrs-to-the-ceo-okrs) first and allocate time for those. Cascading OKRs are those at the CEO level or Product Division level that need your group's contributions to be achieved. You should prioritize these first. 
 4. It is OK to push back on OKRs. If you can't prioritize a cascading or shared OKR due to more important work, contact the owner of the OKR and make adjustments so that it is achievable without your team's contribution, or remove it. It is OK to do this, with clear communication and collaboration. It is not acceptable to simply ignore the cascading OKR or shared OKR without clear upfront communication and prioritize other work instead. 
-5. When writing OKRs, follow our company guidelines on [how to write OKRs](/company/okrs/#how-to-write-okrs). In particular, focus on outcomes, not tasks, and make key results measurable. 
-6. For any OKR with a dependency, make sure to get [commitment on the dependency](/company/okrs/#dependency-commitments) with [shared objectives](/company/okrs/#shared-objectives). If you don't get commitment in the shared objective, make changes as needed to keep to feasible OKRs. 
+5. When writing OKRs, follow our company guidelines on [how to write OKRs](/handbook/company/okrs/#how-to-write-okrs). In particular, focus on outcomes, not tasks, and make key results measurable. 
+6. For any OKR with a dependency, make sure to get [commitment on the dependency](/handbook/company/okrs/#dependency-commitments) with [shared objectives](/handbook/company/okrs/#shared-objectives). If you don't get commitment in the shared objective, make changes as needed to keep to feasible OKRs. 
 
 ### Examples of good OKRs
 

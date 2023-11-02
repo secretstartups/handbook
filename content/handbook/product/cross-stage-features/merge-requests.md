@@ -8,7 +8,7 @@ description: "Collaboration process and documentation for contributing to the me
 
 **The merge request (MR) is the center point of collaboration for users in GitLab.** It's where code is reviewed, pipelines are run, testing and scanning results provided, and ultimately contributions are merged.
 
-Any change to the MR experience is likely to affect the **duration of code review**, even small changes. Reducing the duration of code review is the [primary metric of success of the Code Review group](/direction/create/code_review/#metrics-of-success). This metric impacts the code quality and velocity of every user of GitLab.
+Any change to the MR experience is likely to affect the **duration of code review**, even small changes. Reducing the duration of code review is the [primary metric of success of the Code Review group](https://about.gitlab.com/direction/create/code_review/#metrics-of-success). This metric impacts the code quality and velocity of every user of GitLab.
 
 Here in the [Code Review group](/handbook/product/categories/#code-review-group), we deeply care about the MR experience. We're the primary contributor to the MR experience, although many other groups have a stake in it. **Contributions over the years from different parties with no guidance and vision have resulted in a large amount of technical and UX debt**. This page provides that much-needed guidance on how “everyone can contribute” sustainably to the MR experience.
 

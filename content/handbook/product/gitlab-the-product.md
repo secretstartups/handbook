@@ -40,7 +40,7 @@ GitLab.com runs GitLab Enterprise Edition.
 To keep our code easy to maintain and to make sure everyone reaps the benefits
 of all our efforts, we will not separate GitLab.com codebase from the Enterprise Edition codebase.
 
-To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
+To avoid complexity, [GitLab.com tiers and GitLab self-managed tiers](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/) are named the same.
 
 #### GitLab.com subscription scope and tiers
 
@@ -55,7 +55,7 @@ Public projects get Ultimate for free.
 Public groups _do not_ get Ultimate for free. Because:
 
 - This would add significant additional complexity to the way we structure our features, licenses and groups. We don't want to discourage public groups, yet it wouldn't be fair to have a public group with only private projects and for that group to still get all the benefits of Ultimate. That would make buying a license for GitLab.com almost entirely moot.
-- All value of group level features is aimed at organisations, i.e. managers and up (see our [stewardship](/company/stewardship/)). The aim with giving all features away for free is to enable and encourage open source projects. The benefit of group-level features for open source projects is significantly diminished, therefore.
+- All value of group level features is aimed at organisations, i.e. managers and up (see our [stewardship](/handbook/company/stewardship/)). The aim with giving all features away for free is to enable and encourage open source projects. The benefit of group-level features for open source projects is significantly diminished, therefore.
 - Alternative solutions are hard to understand, and hard to maintain.
 
 Admittedly, this is complex and can be confusing for product managers when implementing features.
@@ -227,7 +227,7 @@ When renaming a feature other items to consider are updates to documentation, bl
 
 ### Using What's New to communicate updates to users
 
-What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
+What's New is a feature that is part of GitLab.com and Self-managed GitLab that is used to communicate highlights from each release. After each major release, a [yaml file is published](https://about.gitlab.com/handbook/marketing/blog/release-posts/index.html#creating-an-mr-for-whats-new-entries) that contains 3-10 highlights from the release along with links to the relevant documentation to get started using them.
 
 A small notification dot appears above the "?" icon, and when users click on "What's new" in the menu, a drawer containing the updates slides into view.
 
@@ -264,9 +264,9 @@ All the above can be achieved by iteratively improving existing roles.
 
 ### Security Paradigm
 
-You can now find our [security paradigm](/direction/secure/#security-paradigm) on the [Secure Strategy](/direction/secure/) page.
+You can now find our [security paradigm](https://about.gitlab.com/direction/secure/#security-paradigm) on the [Secure Strategy](https://about.gitlab.com/direction/secure/) page.
 
-Also see our [Secure Team engineering handbook](/handbook/engineering/development/sec/secure/).
+Also see our [Secure Team engineering handbook](https://about.gitlab.com/handbook/engineering/development/sec/secure/).
 
 ### Statistics and performance data
 
@@ -302,7 +302,7 @@ pages to add to performance debt. When they ship, they should be fast.
 
 You must account for all cases, from someone with a single object, to thousands of objects.
 
-Read the handbook page relating to [performance of GitLab.com](/handbook/engineering/performance), and note the Speed Index target shown there
+Read the handbook page relating to [performance of GitLab.com](https://about.gitlab.com/handbook/engineering/performance), and note the Speed Index target shown there
 (read it thoroughly if you need a detailed overview of performance). Then:
 
 - Make sure that new pages and interactions meet the Speed Index target.
@@ -312,10 +312,10 @@ or changes.
 prioritizing work on their performance, or changes that would lead to improved page load speeds
 (such as pagination, showing less data, etc).
 - Any page that takes more than 4 seconds to load (speed index) should be considered too slow.
-- Use the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)
+- Use the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)
 to communicate and prioritize issues relating to performance.
 
-You must prioritize improvements according to their impact (per the [availability & performance priority labels](/handbook/engineering/performance/#availability-performance-labels)).
+You must prioritize improvements according to their impact (per the [availability & performance priority labels](https://about.gitlab.com/handbook/engineering/performance/#availability-performance-labels)).
 Pages that are visited often should be prioritized over pages that rarely have any visitors.
 However, if page load time approaches 4 seconds or more, they are considered no longer
 usable and should be fixed at the earliest opportunity.

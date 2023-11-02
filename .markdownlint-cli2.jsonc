@@ -3,8 +3,9 @@
     [ "markdownlint-cli2-formatter-codequality" ],
     [ "markdownlint-cli2-formatter-pretty" ]
   ],
-  "fix": true,
+  "fix": false,
   "ignores": [
+    "content/handbook/product-development-budgeting/**/*.md",
     "content/handbook/product/**/*.md"
   ]
 }

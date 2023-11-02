@@ -204,7 +204,7 @@ FY22 Q4 Shared R&D OKR Overview by CTO and CProdO
 - Quarterly priority OKRs from CTO and CprodO will be referred to as [**Shared R&D OKRs**](#shared-rd-okrs)
 - The teams responsible for collaborating on these OKRs will be referred to as [**Product Groups**](/handbook/product/product-processes/#quad--infra--security-product-group-dris)
 
-For guidance about the Product OKR process, team members can post in Slack #product and tag [Product Operations](https://about.gitlab.com/company/team/#fseifoddini). Team members can also attend [Product Operations office hours](/handbook/product/product-processes/#product-operations-office-hours-bi-weekly) for live support. For guidance on how to use Ally.io please check out [Ally.io resources](#allyio-resources) or post in Slack #ally-okr-rollout and tag Product Operations. 
+For guidance about the Product OKR process, team members can post in Slack #product and tag [Product Operations](/handbook/company/team/#fseifoddini). Team members can also attend [Product Operations office hours](/handbook/product/product-processes/#product-operations-office-hours-bi-weekly) for live support. For guidance on how to use Ally.io please check out [Ally.io resources](#allyio-resources) or post in Slack #ally-okr-rollout and tag Product Operations. 
 
 Please share your feedback in [Feedback on Q4 Shared R&D OKR Process](https://gitlab.com/gitlab-com/Product/-/issues/3142)
 
