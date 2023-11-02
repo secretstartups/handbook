@@ -17,7 +17,7 @@ strong engineering principles, and methodical problem-solving skills.
 CI/CD, and load balancing.
 - Have the ability to grow your knowledge of GitLab provisioning and setup tools like Terraform and Ansible.
 - Setup and maintain new GitLab test environments.
-- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](https://about.gitlab.com/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
+- You’ll work on test automation issues related to the Quality department, the [stage group you're embedded in](/handbook/product/categories/#devops-stages), and the entire GitLab product. The work you’ll do will be [transparent and open to the GitLab community](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Quality)
 - Participate in test pipeline triage rotation and ensure pipeline failures are triaged promptly.
 - Develop working knowledge of the entire GitLab application stack including tests at all levels. (Unit, Integration, and End-to-end).
 - Groom and prune GitLab tests at all levels to ensure optimal coverage and effective deduplication.

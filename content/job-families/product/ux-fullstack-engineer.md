@@ -76,6 +76,6 @@ The Senior UX Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensa
 
 #### Performance Indicators
 
-The Senior UX Fullstack Engineer is included in the [Technical Writing MR rate](https://about.gitlab.com/handbook/product/ux/performance-indicators/#technical-writer-mr-rate).
+The Senior UX Fullstack Engineer is included in the [Technical Writing MR rate](/handbook/product/ux/performance-indicators/#technical-writer-mr-rate).
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).

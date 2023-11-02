@@ -47,7 +47,7 @@ You have a navigation design concept that you want to move forward with, and you
     - Did the navigation item not behave as expected (such as searching in the top menu)? Why?
     - Issues should be classified in each session following this format:
 
-**Usability problems identified in a session are categorized into the following [categories](https://about.gitlab.com/handbook/product/ux/ux-research/rite/#elements-of-rite):**
+**Usability problems identified in a session are categorized into the following [categories](/handbook/product/ux/ux-research/rite/#elements-of-rite):**
 
 | Category | Description| What to do
 |-----|-----------|-----------

@@ -14,7 +14,7 @@ Team members can reach the AppSec team by:
 
 - Asking in `#sec-appsec` or mentioning `@appsec-team` on Slack
 - Mentioning `@gitlab-com/gl-security/appsec` on GitLab
-- Finding your Stable Counterpart on the [Product sections, stages, groups, and categories](https://about.gitlab.com/handbook/product/categories/) page
+- Finding your Stable Counterpart on the [Product sections, stages, groups, and categories](/handbook/product/categories/) page
 - Submit an issue in the [AppSec Team repository](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues)
 - For cross team collaboration improvement opportunities, use [this template for collaboration improvement opportunities](https://gitlab.com/gitlab-com/gl-security/appsec/appsec-team/-/issues/new?issuable_template=cross-team-collaboration-improvement)
 
@@ -35,8 +35,8 @@ Please see the [Application Security Job Family page][6].
 - [Security issue board that tracks ongoing issues (hackerone and others)](https://gitlab.com/groups/gitlab-org/-/boards/1216545?label_name[]=security)
 - [The latest releases](https://gitlab.com/gitlab-org/gitlab/-/tags)
 - [Overview of a project member permissions](https://gitlab.com/help/user/permissions)
-- [The DevOps stages and their different groups](https://about.gitlab.com/handbook/product/categories/). This page contains information on the development teams, their areas of focus, and their team members as well as the AppSec stable counterparts. It is used to assign issues to the stable counterparts.
-- [The product features listed by groups that own them](https://about.gitlab.com/handbook/product/categories/features/)
+- [The DevOps stages and their different groups](/handbook/product/categories/). This page contains information on the development teams, their areas of focus, and their team members as well as the AppSec stable counterparts. It is used to assign issues to the stable counterparts.
+- [The product features listed by groups that own them](/handbook/product/categories/features/)
 - [List of merged security issues in `gitlab-org`](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&state=merged&label_name[]=security&milestone_title=%23upcoming). **Note:** It can include results from the security mirror `gitlab-org/security/`.
 
 The list above is not exhaustive and is subject to be modified as our processes keep evolving.
@@ -77,7 +77,7 @@ When necessary a backlog review can be initiated, please see the [Vulnerability 
 
 ## GitLab Secure Tools coverage
 
-As part of our [dogfooding effort](https://about.gitlab.com/handbook/product/product-processes/#dogfood-everything),
+As part of our [dogfooding effort](/handbook/product/product-processes/#dogfood-everything),
 the [Secure Tools](https://docs.gitlab.com/ee/user/application_security/) are set up on many different GitLab projects (see our [policies]({{< ref "inventory#policies" >}})).
 This list is too dynamic to be included in this page, and is now maintained in the [GitLab AppSec Inventory]({{< ref "inventory" >}}).
 

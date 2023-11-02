@@ -6,7 +6,7 @@ When evaluating security issues or MRs, it can be useful to have a way to reprod
 
 ## Get a version of GitLab to play with
 
-Many AppSec engineers will opt to install GitLab locally using GDK. [Here's how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation) and [how to use it](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md). The UX team have a great summary of [other ways to play with & test GitLab](https://about.gitlab.com/handbook/product/ux/how-we-work/#preview-test-and-contribute).
+Many AppSec engineers will opt to install GitLab locally using GDK. [Here's how to install GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/index.md#one-line-installation) and [how to use it](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/index.md). The UX team have a great summary of [other ways to play with & test GitLab](/handbook/product/ux/how-we-work/#preview-test-and-contribute).
 
 ### Step through execution chains
 

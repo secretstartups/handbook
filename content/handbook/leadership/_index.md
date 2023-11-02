@@ -129,8 +129,8 @@ GitLab division README pages are linked below for context. Reading other READMEs
 
 - [Engineering READMEs](https://about.gitlab.com/handbook/engineering/readmes/)
 - [Marketing Team READMEs](https://about.gitlab.com/handbook/marketing/readmes/)
-- [Product READMEs](https://about.gitlab.com/handbook/product/readme/)
-    - [UX Department READMEs](https://about.gitlab.com/handbook/product/ux/#meet-some-of-our-team-members)
+- [Product READMEs](/handbook/product/readme/)
+    - [UX Department READMEs](/handbook/product/ux/#meet-some-of-our-team-members)
 - [Sales Team READMEs](https://about.gitlab.com/handbook/sales/readmes/)
 - [People Group READMEs](/handbook/people-group/readmes/)
 - [Finance Team READMEs](/handbook/finance/readmes/)
@@ -174,7 +174,7 @@ Please see [{{< relref "no-matrix-organization" >}}]({{< ref "no-matrix-organiza
 
 ## Stable counterparts
 
-We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](https://about.gitlab.com/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](https://about.gitlab.com/handbook/engineering/frontend/#teams).
+We want to promote organic cross-functional collaboration by giving people stable counterparts for other functions they need to work with. For example, each Strategic Account Executive (SAE) works with one Sales Development Representative (SDR). With our [categories](/handbook/product/categories/) every backend team of developers maps to a [Product Manager (PM)]({{< ref "product-manager" >}}) and a [frontend team](https://about.gitlab.com/handbook/engineering/frontend/#teams).
 
 Giving people a **stable counterpart** allows for more social trust and familiarity, which speeds up decision making, prevents communication problems, and reduces the risk of conflicts. This way we can work effectively cross functionally without the [downsides of a matrix organization](#no-matrix-organization).
 

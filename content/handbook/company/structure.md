@@ -348,7 +348,7 @@ The management team will:
 - **Compartments:** lead by Senior Managers and comprised of multiple teams where the Sub-department structure is already used *e.g.* the Manage Compartment with the Dev Sub-department
 - **Teams:** constitute departments  and are made of a line manager and their direct reports *e.g.* the Security operations team within the Security Department
 
-**Note** - within the Engineering and Product divisions we try to maintain a close relationship between our organizational structure and our [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) in order to maintain stable counterparts in our organizational structure.
+**Note** - within the Engineering and Product divisions we try to maintain a close relationship between our organizational structure and our [Product Hierarchy](/handbook/product/categories/#hierarchy) in order to maintain stable counterparts in our organizational structure.
 
 Finance also has a notion called "departments" for financial planning purposes. But these do not align with our organizational departments. For instance the finance department "product development" rolls up both the PM and Engineering functions. But it excludes the Support department, which is part of the engineering function, but a different budget. This name collision should probably be resolved in the future. For further reference see our [department roll up structure](/handbook/finance/financial-planning-and-analysis/#cost--reporting-structure) for accounting purposes.
 
@@ -372,14 +372,14 @@ We also ensure every department has a clear priority.
 
 ### Product Groups{#product-groups}
 
-Our engineering organization is directly aligned to groups as defined in [product category hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy).
+Our engineering organization is directly aligned to groups as defined in [product category hierarchy](/handbook/product/categories/#hierarchy).
 Our groups operate on the principle of [stable counterparts](/handbook/leadership/#stable-counterparts) from multiple functions.
 
 For example, we have a Product Manager, Product Marketing Manager, Engineering Manager, Content Marketer, Backend Developers, Frontend Developers, and Product Designers that are all dedicated to a group called "Package". Collectively, these individuals form the "Package group". The word "Package" appears in their titles as a specialty, and in some cases, their team name.
 
 We distinguish between types of stable counterparts to these Product Groups with:
 - Primary Stable Counterparts - Team members assigned to our Product hierarchy (typically groups) from Product, Development, Product Design and Quality functions which we call the [Quad](https://about.gitlab.com/handbook/engineering/quality/quality-engineering/quad-planning/).
-- Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](https://about.gitlab.com/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
+- Complete Stable Counterparts - All team members assigned to product hierarchy from functions outside of the primary functions and defined in our [product categories page](/handbook/product/categories/). For example - we assign stable counterparts from Support, Product Marketing and Customer Success who are all considered part of the complete stable counterparts.
 
 A group has no reporting lines because we [don't want a matrix organization](/handbook/leadership/#no-matrix-organization).
 Instead, we rely on stable counterparts to make a group function well.
@@ -399,11 +399,11 @@ It is also important to ensure a group doesn't have a scope definition that is s
    Ensuring GitLab is performant is the responsibility of all groups.
    We might instead have a performance tooling group.
 
-We do have the [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) and [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
+We do have the [Application Performance group](/handbook/product/categories/#application-performance-group) and [Database group](/handbook/product/categories/#database-group) whose charters involve consulting and providing frameworks for other teams, but are considered non-blocking.
 
-The [Application Performance group](https://about.gitlab.com/handbook/product/categories/#application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
+The [Application Performance group](/handbook/product/categories/#application-performance-group) is focused on identifying systemic performance bottlenecks, creating documentation, and tooling to assist other groups in understanding and improving the performance of their features.
 
-The [Database group](https://about.gitlab.com/handbook/product/categories/#database-group) is focused on the specifics of database management/scaling and to provide consulting for development teams in need of database development guidance.  While database related merge requests still require approval from a database maintainer our [database review](https://docs.gitlab.com/ee/development/database_review.html) process has necessarily scaled beyond just the members of the database team.
+The [Database group](/handbook/product/categories/#database-group) is focused on the specifics of database management/scaling and to provide consulting for development teams in need of database development guidance.  While database related merge requests still require approval from a database maintainer our [database review](https://docs.gitlab.com/ee/development/database_review.html) process has necessarily scaled beyond just the members of the database team.
 
 #### Product Group health Assessment
 
@@ -421,7 +421,7 @@ The [Learning & Development](/handbook/people-group/learning-and-development/) t
 
 Because it is our single source of truth (SSOT) for employee data, BambooHR serves as the SSOT for product group assignment. Each team member in R&D functions (Product/Engineering) is assigned a `specialty` field in their `team.yml` entry. While this entry is editable in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/team_members/person), any adjustments will be [over-written by a daily sync](/handbook/people-group/engineering/miscellaneous/#specialty-field) from BambooHR. In order to adjust a team members specialty their manager must initiate a [Job Information Change](/handbook/people-group/promotions-transfers/#manager-self-service-in-workday-job-information-change).
 
-When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and their designated [names](https://about.gitlab.com/handbook/product/categories/#naming). So for example:
+When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](/handbook/product/categories/#hierarchy) and their designated [names](/handbook/product/categories/#naming). So for example:
 
 - A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create:Code Review`
 - A team member who is a stable counterpart to the entire Verify stage would have a specialty designation of `Verify`
@@ -447,7 +447,7 @@ We have a huge opportunity in front of us and we want to be ambitious. Therefore
 
 ##### Success criteria
 
-The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](https://about.gitlab.com/handbook/product/performance-indicators/#group-monthly-active-users-gmau).
+The success of the Engineer relates to getting a rapid, high-quality answer to the question of product-market fit. That answer can absolutely be "no", so performance is not contingent on the group graduating to a larger, multi-person group. The measure of this is [GMAU](/handbook/product/performance-indicators/#group-monthly-active-users-gmau).
 
 ##### Sponsorship
 
@@ -549,7 +549,7 @@ We do have an exception to the above, which is a senior leader in Product Manage
 
 Here are some examples of the things that this senior leader will coordinate:
 
-- Growth Group: [Stages per User (SpU)](https://about.gitlab.com/handbook/product/performance-indicators/)
+- Growth Group: [Stages per User (SpU)](/handbook/product/performance-indicators/)
 - Pricing: [Tiers](https://about.gitlab.com/pricing/)
 - Infrastructure Department: Cloud spend (within limits, not cost per user)
 - Development Department: Prioritization of large enterprise features

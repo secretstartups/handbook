@@ -119,7 +119,7 @@ The Distribution Deploy team is involved with diverse projects and tasks that in
 
 ### Package
 
-Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package-stage).
+Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](/handbook/product/categories/#package-stage).
 
 #### Requirements
 
@@ -131,7 +131,7 @@ Package engineers are focused on creating and maintaining the dependency managem
 
 ### Runner
 
-Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](https://about.gitlab.com/handbook/product/categories/#runner-group) handbook page.
+Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](/handbook/product/categories/#runner-group) handbook page.
 
 #### Requirements
 
@@ -207,7 +207,7 @@ CI/CD Backend Engineers are primarily tasked with improving the Continuous Integ
 
 - Provide value to the user and communicate such with product managers,
 - Introduce features that work at scale and in untrusting environments,
-- Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+- Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go. We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly. CI/CD engineering is interlaced with a number of teams across GitLab. We build new features by following our [direction](https://about.gitlab.com/direction/#ci--cd). Currently, we focus on providing a deep integration of Kubernetes with GitLab:
 

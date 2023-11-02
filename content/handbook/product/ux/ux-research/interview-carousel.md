@@ -33,7 +33,7 @@ You should set aside about 1 hour to watch the training video and create your di
 
 #### What happens after the event?
 
-To make the most out of the event, we strongly encourage you to record your interviews and upload them to [Dovetail](https://about.gitlab.com/handbook/product/ux/dovetail/). The UX Researcher hosting the Interview Carousel will watch the recordings and provide you with individual feedback on your interviewing skills.
+To make the most out of the event, we strongly encourage you to record your interviews and upload them to [Dovetail](/handbook/product/ux/dovetail/). The UX Researcher hosting the Interview Carousel will watch the recordings and provide you with individual feedback on your interviewing skills.
 
 ### How do I join?
 

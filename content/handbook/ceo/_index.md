@@ -68,7 +68,7 @@ Sid is easy to talk to on any subject. He is good at drawing people out and chal
 1. Sid is also the driving force for our iteration value. For example, he holds [Iteration Office Hours](#iteration-office-hours).
 1. Sid really values 1:1 preparation.
 1. Sid believes in “strong opinions, weakly held.” He doesn’t always seem like it, but he will change his mind quickly if you present him with compelling new information and a data driven perspective.
-1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](https://about.gitlab.com/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms]({{< ref "communication#mecefu-terms" >}}) to keep communication efficient.
+1. Sid loves naming things, and strongly believes in the power of clear language. Learn and use (and add to) our terminology e.g. `It’s not a “best practice”, it’s a “boring solution”`. The [product categories](/handbook/product/categories/) page is a good example. Sid advocates for using [MECEFU terms]({{< ref "communication#mecefu-terms" >}}) to keep communication efficient.
 
 ## Interviewing and conducting meetings
 

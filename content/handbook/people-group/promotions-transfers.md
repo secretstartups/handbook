@@ -626,7 +626,7 @@ Company priorities can change and occasionally team members may be asked to tran
 
 #### Types of Team Alignment Changes
 
-There are several types of Team Alignment Changes, including [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
+There are several types of Team Alignment Changes, including [Global Prioritization](/handbook/product/product-processes/#prioritize-global) changes, and [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation), all of which are ways to ensure the organization is prioritizing and delivering effectively.
 
 The different types of group alignment changes vary in length, purpose, DRI, and overall change impact.
 
@@ -671,11 +671,11 @@ Regardless of the change type, the following steps should always be followed to 
 
 ##### Realignment Process
 
-We have process outlined for our various [Global Prioritization](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](https://about.gitlab.com/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
+We have process outlined for our various [Global Prioritization](/handbook/product/product-processes/#prioritize-global) team member alignment changes outlined in addition to [Engineering Allocations](/handbook/product/product-processes/#engineering-allocation) on the Product Processes page.
 
 Realignments are used when a permanent assignment to a team is required to resolve ongoing challenges. This has the highest impact to team members and should be considered if other options cannot achieve the desired goal. While the processes that only apply to R&D are listed in the Product Processes page, the Realignment process is outlined below as it could be applied to other departments and divisions at GitLab.
 
-The process below outlines the process for [Realignments](https://about.gitlab.com/handbook/product/product-processes/#prioritize-global) specifically:
+The process below outlines the process for [Realignments](/handbook/product/product-processes/#prioritize-global) specifically:
 
 1. Select a DRI to coordinate the overall realignment process.
 1. Loop in your aligned People Business Partner (PBP) and ensure the `Team Alignment Change Process` steps above are followed.

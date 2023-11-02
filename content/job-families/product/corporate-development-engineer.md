@@ -48,8 +48,8 @@ open to a [soft-landing acquisition](https://about.gitlab.com/blog/2019/07/30/gi
 
 ### Performance Indicators
 
-- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Acquisition velocity](/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ## Hiring Process
 

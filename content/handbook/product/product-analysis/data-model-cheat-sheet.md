@@ -37,7 +37,7 @@ These categories are grouped by data source and subject area.
 
 
 > Is it possible to report at the namespace or user level using Service Ping data?
-- Nope! As part of our [Commitment to Individual User Privacy](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/), GitLab only collects usage metrics aggregated at the installation level.
+- Nope! As part of our [Commitment to Individual User Privacy](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/), GitLab only collects usage metrics aggregated at the installation level.
 
 > What is the difference between an instance and an installation?
 - An installation is the unique combination of instance_id and host_id. [Read more here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/self-managed/). We do Self-Managed analysis and reporting at the installation level.

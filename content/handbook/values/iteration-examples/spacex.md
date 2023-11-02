@@ -63,10 +63,10 @@ As you are building new features or introducing new code/processes, ask whether 
 
 For GitLab and software companies, one can translate this into a few recommended actions:
 
-1. Challenge yourself on whether a given setting or feature is required. Is there a possibility to utilize [convention over configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)? Each setting/feature generates an on-going maintenance cost, as well as cognitive load on users.
+1. Challenge yourself on whether a given setting or feature is required. Is there a possibility to utilize [convention over configuration](/handbook/product/product-principles/#convention-over-configuration)? Each setting/feature generates an on-going maintenance cost, as well as cognitive load on users.
 1. If you believe a feature is needed, ask yourself if there is a more general purpose way of solving this. Is there a small building block feature which could enable users to solve this problem, but also unlock the possibility to solve others? Could another feature be re-used or extended? An example of this is GitLab CI, where we provide a set of building blocks which users can assemble in many ways to solve a wide variety of problems, as well as incident management which re-uses issues.
 
-[Convention over Configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)
+[Convention over Configuration](/handbook/product/product-principles/#convention-over-configuration)
 
 ### Accelerate cycle time
 

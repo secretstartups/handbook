@@ -102,7 +102,7 @@ Here is a [great video](https://www.youtube.com/watch?v=MwHHErfX9hI) that illust
 
 #### Subtractive thinking
 
-Humans tend to [favor solutions that add features than solutions that remove them, even when removing features is more efficient](https://www.nature.com/articles/d41586-021-00592-0) - great PMs recognize this bias and utilize subtractive thinking to create great user experiences. Customers will tell us when we’re missing something they need, but they’re unlikely to explicitly tell us when we’re overwhelming them with unwanted features. However, we do have evidence that this challenge is already a consideration for us, as reflected consistently in our [System Usability Scale verbatims](https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/). Here is [an episode on the Hidden Brain podcast](https://hiddenbrain.org/podcast/do-less/) that explores this bias further.
+Humans tend to [favor solutions that add features than solutions that remove them, even when removing features is more efficient](https://www.nature.com/articles/d41586-021-00592-0) - great PMs recognize this bias and utilize subtractive thinking to create great user experiences. Customers will tell us when we’re missing something they need, but they’re unlikely to explicitly tell us when we’re overwhelming them with unwanted features. However, we do have evidence that this challenge is already a consideration for us, as reflected consistently in our [System Usability Scale verbatims](/handbook/product/ux/performance-indicators/system-usability-scale/). Here is [an episode on the Hidden Brain podcast](https://hiddenbrain.org/podcast/do-less/) that explores this bias further.
 
 #### SaaS First
 
@@ -207,7 +207,7 @@ Sometimes fast deployments are needed to fix a service or application outage tha
 
 #### Parity between SaaS and Self-managed deployments
 
-We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](https://about.gitlab.com/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations. 
+We want to provide the same capabilities to end users regardless of the method they choose to use GitLab (GitLab SaaS or Self-managed). At the same time, we believe in the power of a [single code base](/handbook/product/single-application/#single-codebase). Therefore we strive to maintain feature parity between SaaS and Self-managed installations. 
 
 In line with our [SaaS-first](#saas-first) principle, some features may be released on SaaS to gain operational experience prior to recommending and supporting customers using it. All features will eventually be made available across SaaS and self-managed once those learnings have been applied.
 
@@ -217,7 +217,7 @@ For functionality where implementation may be especially challenging without clo
 
 **Exception to this product principle requires CEO approval. Work with VP, Product Management to add your request to the Product Scale agenda describing the situation and request for exception to gain CEO approval.**
 
-Our [simplicity](https://about.gitlab.com/handbook/product/product-principles/#simplicity) and [SaaS/Self-Managed Parity](https://about.gitlab.com/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) principles require that we adhere to our established knowledge architecture. Our established architecture is [Organization](https://gitlab.com/groups/gitlab-org/-/epics/4257#proposal), [Group](https://docs.gitlab.com/ee/user/group/) and [Project](https://docs.gitlab.com/ee/user/project/).
+Our [simplicity](/handbook/product/product-principles/#simplicity) and [SaaS/Self-Managed Parity](/handbook/product/product-principles/#parity-between-saas-and-self-managed-deployments) principles require that we adhere to our established knowledge architecture. Our established architecture is [Organization](https://gitlab.com/groups/gitlab-org/-/epics/4257#proposal), [Group](https://docs.gitlab.com/ee/user/group/) and [Project](https://docs.gitlab.com/ee/user/project/).
 
 - When we need to add capabilities that an admin needs to apply across the entire organization, then we provide them at the organization level.
 - When we need to add capabilities that need to apply across all projects in a group, but not applicable to all groups in an organization, then we provide them at a group level.
@@ -268,7 +268,7 @@ When you have to add a new configuration, make sure that the features and servic
 
 ##### For a GitLab CI configuration in `.gitlab-ci.yml`
 
-If the decision to add a configuration follows the [principles above](https://about.gitlab.com/handbook/product/#principles), add it to the repository-specific CI configuration options and be sure to default it to the option that results in the best user experience. We are much more liberal with additions to CI configurations than Instance configurations.
+If the decision to add a configuration follows the [principles above](/handbook/product/#principles), add it to the repository-specific CI configuration options and be sure to default it to the option that results in the best user experience. We are much more liberal with additions to CI configurations than Instance configurations.
 
 #### Every feature is owned by a group
 
@@ -333,7 +333,7 @@ As the GitLab userbase and team members who work on GitLab continue to grow we n
 #### A PQL can be further broken down into two types, usage and hand-raise
 
 - Usage: A usage-based PQL is a user or a team (group or instance) that adopted the product to the level that we had data to support that they are statistically more likely to upgrade to a subscription compared to our remaining userbase. When this level of product adoption is achieved by the user or team an alert is triggered for the sales team to follow up with the user and/or team. The level of usage that triggers a usage-based PQL is something that will be determined and agreed upon between Product, Marketing, and Sales as the goal is to generate quality leads for the sales team. When the usage-based definition is agreed upon it will be added here.
-- Hand-Raise: A hand-raise PQL is a user who requests to speak to sales from within the product. Our goal is to introduce these hand-raise moments throughout the product at feature discovery moments, or moments where a user is learning more about a paid feature or tier of GitLab that they may find valuable. These moments should be contextually relevant to their usage and non-obtrusive [see Discoverability Without Being Annoying](https://about.gitlab.com/handbook/product/product-principles/#discoverability-without-being-annoying). A hand-raise moment in the product should be accompanied by either a trial CTA or a touchless upgrade CTA or both. We want to always provide options to our users as we want them to decide the path that best suits their needs.
+- Hand-Raise: A hand-raise PQL is a user who requests to speak to sales from within the product. Our goal is to introduce these hand-raise moments throughout the product at feature discovery moments, or moments where a user is learning more about a paid feature or tier of GitLab that they may find valuable. These moments should be contextually relevant to their usage and non-obtrusive [see Discoverability Without Being Annoying](/handbook/product/product-principles/#discoverability-without-being-annoying). A hand-raise moment in the product should be accompanied by either a trial CTA or a touchless upgrade CTA or both. We want to always provide options to our users as we want them to decide the path that best suits their needs.
 
 #### Clarifiying out what a PQL is not
 
@@ -643,7 +643,7 @@ When naming a GitLab extension, plugin, app, or integration for a third-party pr
 
 Provided we use the tool's full name in marketing materials and technical documentation, as exceptions to this general principle we can: (1) refer to the tool solely by the third-party service name in places where we list GitLab's tools in product; and (2) refer to the tool solely as "GitLab" in the third-party product's app directory. For example, we refer to the GitLab for Slack app as "Slack" in our lists of GitLab integrations, and as "GitLab" in the [Slack App Directory](https://gitlab.slack.com/apps/A676ADMV5-gitlab?tab=more_info).
 
-For more guidance on the feature naming process, see [naming features](https://about.gitlab.com/handbook/product/gitlab-the-product/#naming-features).
+For more guidance on the feature naming process, see [naming features](/handbook/product/gitlab-the-product/#naming-features).
 
 ### Next Generation
 

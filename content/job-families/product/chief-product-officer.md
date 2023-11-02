@@ -56,7 +56,7 @@ need to make sure that the company is building, shipping and supporting the righ
 
 ## Links
 
-- [Product Handbook](https://about.gitlab.com/handbook/product/)
+- [Product Handbook](/handbook/product/)
 - [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
 ## Hiring Process

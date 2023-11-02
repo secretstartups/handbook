@@ -46,7 +46,7 @@ The designated UX Researcher is the go-to person for their assigned [stage group
 
 1. We collaborate with Product Designers, Product Managers, and Engineers to collectively determine what areas to conduct research on. The UX Research department works within the [Product Development Flow](/handbook/product-development-flow/#overview--philosophy) as they partner with Product Management and Product Design.  Additional details can be found [here](/handbook/product/ux/ux-research/research-prioritization/) on how UX Reseachers prioritize research projects.
 
-1. We follow a [priortization process](https://about.gitlab.com/handbook/product/ux/ux-research/research-prioritization/) that helps us distribute our time effectively across the research projects occurring within our stage groups.
+1. We follow a [priortization process](/handbook/product/ux/ux-research/research-prioritization/) that helps us distribute our time effectively across the research projects occurring within our stage groups.
 
 1. Like other departments at GitLab, UX Researchers follow the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline) and use milestones to schedule their work. Milestones change monthly ([find out the dates for upcoming milestones](https://gitlab.com/groups/gitlab-org/-/milestones)).
 

@@ -146,7 +146,7 @@ You can add the following checklist to an issue description to help illustrate t
     - [ ] Discuss the technical implications with Engineering
     - [ ] Pajamas issue is created (within the scope of the MVC)
 - [ ] Update issues/epic descriptions
-    - [ ] The appropriate [labels](https://about.gitlab.com/handbook/product/ux/ux-department-workflow/#how-we-use-labels) were applied
+    - [ ] The appropriate [labels](/handbook/product/ux/ux-department-workflow/#how-we-use-labels) were applied
       - [ ] If changes involve copy, add the ~"Technical Writing" and ~"UI text" labels
 - [ ] Proposed solution(s) identified and documented in the issue/epic description
 

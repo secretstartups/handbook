@@ -48,5 +48,5 @@ One aspect to consider with First Look participants is that they signed up to pr
 
 ### How can I use First Look for my research?
 
-If you want to use participants from the First Look panel, please submit a [recruitment request issue](https://about.gitlab.com/handbook/product/ux/ux-research/recruiting-participants/#sts=Open%20a%20recruitment%20request%20issue) in the UX Research project and contact the UX Research Operations Coordinator within the issue to get started. The UX Research Operations Coordinator will determine whether First Look or another recruiting method best suits the needs of the study.
+If you want to use participants from the First Look panel, please submit a [recruitment request issue](/handbook/product/ux/ux-research/recruiting-participants/#sts=Open%20a%20recruitment%20request%20issue) in the UX Research project and contact the UX Research Operations Coordinator within the issue to get started. The UX Research Operations Coordinator will determine whether First Look or another recruiting method best suits the needs of the study.
 

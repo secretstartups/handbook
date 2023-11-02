@@ -20,7 +20,7 @@ After identifying and understanding a problem, its context, and the people aroun
 
 ### When to use Solution Validation?
 
-Solution validation happens [later on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-things-rightsolution-validation) when we want to get feedback on potential solutions or solutions made available to users.
+Solution validation happens [later on in the product life cycle](/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-things-rightsolution-validation) when we want to get feedback on potential solutions or solutions made available to users.
 
 Solution validation research is conducted after we have a working design or prototype that was created to solve the problem(s) discovered in Problem Validation research. It is not necessary for the design or prototype to be high fidelity, it only needs to be able to support the task(s) it was designed for.
 
@@ -44,7 +44,7 @@ When choosing the appropriate methodology for your research question, there are 
 
 If you choose to conduct Usability Testing, take advantage of our tips on how to write a [usability testing script](/handbook/product/ux/ux-research/writing-usability-testing-script/). We also have an [unmoderated usability testing tool](/handbook/product/ux/ux-research/unmoderated-testing/), UserTesting.com.
 
-There is a [UX Cloud Sandbox](https://about.gitlab.com/handbook/product/ux/ux-research/ux-cloud-sandbox/) which is a reserved instance of GitLab for UX testing and research. The referenced handbook page has everything you need to get started, and there is also a #ux-cloud-sandbox Slack channel to reach out to for help.
+There is a [UX Cloud Sandbox](/handbook/product/ux/ux-research/ux-cloud-sandbox/) which is a reserved instance of GitLab for UX testing and research. The referenced handbook page has everything you need to get started, and there is also a #ux-cloud-sandbox Slack channel to reach out to for help.
 
 If you want help creating a pristine test environment separate from the sandbox be sure to reach out to the [Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) group on the #demo-systems Slack channel. They can create a demo environment for users and help build any particular parameters needed for your testing environment. Be aware that setting up a test environment for a research study this way can be time consuming and difficult.
 

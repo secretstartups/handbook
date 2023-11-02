@@ -74,7 +74,7 @@ The DRI should identify key folks who will be members of the Working Group. They
 1. Reach out to the exec sponsor to help identify leads/contacts throughout the organization who could provide support
 1. Reach out to functional leads from the stages identified as needing to provide support to this effort
 1. Include the folks who the DRI has already been working with on this effort, and ask them if they'd like to continue or have someone they'd recommend taking over
-1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](https://about.gitlab.com/handbook/product/categories/features/) page may provide some guidance
+1. Solicit help on the respective stage's/team's Slack channel. The [Features by Group](/handbook/product/categories/features/) page may provide some guidance
 
 For example, if you know that this Working Group will eventually involve customer communications, you should ensure that the team has appropriate representation from the Customer Success department and that the representative is clear on the asks for both the team and the individual within the coming weeks and quarters.
 

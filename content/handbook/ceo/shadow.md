@@ -235,7 +235,7 @@ The CEO has a [section in the handbook]({{< ref ceo >}}) that details processes 
 
 #### Review acronyms
 
-If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
+If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
 - [KPI (Key Performance Indicator)](/handbook/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](/handbook/company/okrs/#what-are-okrs)

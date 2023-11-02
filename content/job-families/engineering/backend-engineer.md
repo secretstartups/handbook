@@ -307,7 +307,7 @@ and management of artifacts manipulated by projects.
 By extending the current CI artifacts system, the Package team will expose GitLab as
 a package repository allowing access to the most common package managers, e.g.
 Maven and APT and similar. Additionally, the Package team is improving
-the Container Registry and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package).
+the Container Registry and is responsible for items listed under [Package product category](/handbook/product/categories/#package).
 
 #### Responsibilities
 
@@ -382,7 +382,7 @@ Verify backend engineers are primarily focused on improving the Continuous Integ
 
 1. Provide value to the user and communicate such with the product manager and engineering manager,
 1. Introduce features that work at scale and in untrusting environments,
-1. Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+1. Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 #### Requirements
 
@@ -406,7 +406,7 @@ and Continuous Deployment (CD) functionality in GitLab. Engineers should be will
 
 1. Provide value to the user and communicate such with product managers,
 1. Introduce features that work at scale and in untrusting environments,
-1. Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+1. Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go.
 We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly.

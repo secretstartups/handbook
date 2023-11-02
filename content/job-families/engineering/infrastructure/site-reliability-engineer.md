@@ -42,7 +42,7 @@ GitLab.com is a unique site and brings with it unique challenges: it is the larg
 - Improving our [Prometheus Monitoring](https://gitlab.com/gitlab-cookbooks/gitlab-prometheus) or building new [metrics](https://gitlab.com/gitlab-org/gitlab-exporter)
 - Helping [release managers](https://about.gitlab.com/handbook/engineering/#release-managers) deploy and fix new versions of GitLab-EE.
 - Plan, prepare for, and execute the [migration of GitLab.com](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/#infra-proposed-cloud-native) from virtual machines running on Google Cloud to cloud-native container-based deployments with Kubernetes using Google Kubernetes Engine.
-- Develop a relationship with a [product group](https://about.gitlab.com/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
+- Develop a relationship with a [product group](/handbook/product/categories/), define their SLAs, share GitLab.com data on those SLAs and improve their reliability
 
 ## Leveling of Site Reliability Engineering at GitLab
 
@@ -135,7 +135,7 @@ The Site Reliability Engineer is a [grade 6](/handbook/total-rewards/compensatio
    1. Block and object storage configuration
    1. Networking VPCs, proxies and CDNs
 
-1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](https://about.gitlab.com/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
+1. Working knowledge of GitLab product, including deeper knowledge in areas of [stages and groups](/handbook/product/categories/#hierarchy) which may be part of stable counterpart assignments
 
 ##### Execution
 

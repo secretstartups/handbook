@@ -59,7 +59,7 @@ to be fewer categories, or shorter category names, if the aggregate number of
 lines when rendered would exceed 13 lines, when accounting for category names
 to word-wrap, which occurs at approximately 15 characters.
 Categories are maintained in [`data/categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml).
-Each category has a corresponding [`Category:<Category>` label](https://docs.gitlab.com/ee/development/labels/index.html#category-labels) under the `gitlab-org` group. Category maturity is managed in the product [Category Maturity Change](https://about.gitlab.com/handbook/product/categories/#changing-category-maturity) process
+Each category has a corresponding [`Category:<Category>` label](https://docs.gitlab.com/ee/development/labels/index.html#category-labels) under the `gitlab-org` group. Category maturity is managed in the product [Category Maturity Change](/handbook/product/categories/#changing-category-maturity) process
 1. **Features**: Small, discrete functionalities. e.g. Issue weights. Some
 common features are listed within parentheses to facilitate finding
 responsible PMs by keyword.
@@ -351,7 +351,7 @@ Internal Customers: [Create:Gitaly](#gitaly-group), [Enablement section](#enable
 
 ### Other functionality in [Analytics](/handbook/product/categories/#analytics-stage)
 
-#### [Product Analytics group](https://about.gitlab.com/handbook/product/categories/#product-analytics-group)
+#### [Product Analytics group](/handbook/product/categories/#product-analytics-group)
 - [Analytics Dashboards](https://docs.gitlab.com/ee/user/product_analytics/#product-analytics-dashboards) - used by many groups to add visualizations or provide pre-configured dashboards to users
 
 ### Facilitated functionality

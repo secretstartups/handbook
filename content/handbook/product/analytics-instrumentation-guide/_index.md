@@ -141,7 +141,7 @@ For a [variety of reasons](https://www.youtube.com/watch?v=qgnWYIynDF4), we [rec
 2. Click "Customize table" and select "Performance indicator type"
 3. Search for a metric and view the **performance indicator type** values.
     - If the field is blank, there are no xMAU reporting dependencies on this metric
-    - If the field is not blank, there are xMAU reporting dependencies on this metric. Please reach out to the [Product Data Insights](https://about.gitlab.com/handbook/product/product-analysis/) to understand how changing metric calculations would impact downstream dependencies.
+    - If the field is not blank, there are xMAU reporting dependencies on this metric. Please reach out to the [Product Data Insights](/handbook/product/product-analysis/) to understand how changing metric calculations would impact downstream dependencies.
 
 ### Customer Health Scoring
 1. Go to [this CSV](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/data/health_score_metrics.csv), which is the SSOT for metrics that are used for health scoring.

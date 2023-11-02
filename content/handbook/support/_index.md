@@ -663,7 +663,7 @@ The [Support Slackbot (archived)](https://gitlab.com/gitlab-com/support/toolbox/
 ### Handbook links
 
 - [GitLab Team page](/handbook/company/team/)
-- [Product Categories](https://about.gitlab.com/handbook/product/categories/) - Find out what team handles what
+- [Product Categories](/handbook/product/categories/) - Find out what team handles what
 - [Statement Of Support](https://about.gitlab.com/support/statement-of-support/)
 - [Support Managers](/handbook/support/managers/)
 - [Support Hiring](/handbook/support/managers/hiring/)

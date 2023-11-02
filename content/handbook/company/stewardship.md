@@ -98,7 +98,7 @@ Also, [we do not say no by-default to having existing paid features contributed 
 
 **Vendor Lock-In.**
 Premium features make it more difficult to switch workflows. -
-GitLab the product [plays well with others](https://about.gitlab.com/handbook/product/gitlab-the-product/#plays-well-with-others). As we outline,
+GitLab the product [plays well with others](/handbook/product/gitlab-the-product/#plays-well-with-others). As we outline,
 > Many other applications [integrate with GitLab](https://about.gitlab.com/partners/technology-partners/integrate/), and we are open to adding new integrations to our [technology partners page](https://about.gitlab.com/partners/technology-partners/). New integrations with GitLab can vary in richness and complexity; from a simple webhook, and all the way to a [Project Service](https://docs.gitlab.com/ee/user/project/integrations/project_services.html).
 > GitLab [welcomes and supports new integrations](https://about.gitlab.com/partners/technology-partners/integrate/) to be created to extend collaborations with other products. GitLab plays well with others by providing APIs for nearly anything you can do within GitLab. GitLab can be a [provider of authentication](https://docs.gitlab.com/ee/integration/oauth_provider.html) for external applications. **GitLab is open source so people are very welcome to add anything that they are missing.**
 
@@ -137,7 +137,7 @@ When someone contributes an *existing* feature to open-source it, we weigh a num
 1. What is the quality of the submitted code?
 1. Is it a complete replacement of the source-available functionality?
 1. Does it meet the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria)?
-1. Is it [more relevant for mid-market organizations or larger](https://about.gitlab.com/handbook/product/gitlab-the-product/#paid-tiers)?
+1. Is it [more relevant for mid-market organizations or larger](/handbook/product/gitlab-the-product/#paid-tiers)?
 1. Is the person or organization submitting this using GitLab in an [SMB](https://about.gitlab.com/handbook/sales/#market-segmentation)?
 1. Did the person or organization submitting this contribute to GitLab before?
 1. Is it something that many of our existing customers chose our paid tiers for?
@@ -154,7 +154,7 @@ We'll weigh all factors and you can judge our stewardship of the open source cod
 When someone contributes a *not yet existing* feature on the [issue tracker](https://gitlab.com/gitlab-org/gitlab/issues) that has a paid tier label,
 and it has met the [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria),
 we will accept it under whatever license (open-source or source-available) they prefer, provided that GitLab Inc. has not already started working on the feature. (The contribution
-should not contain any *already existing* source-available features in it.) We encourage contributors to @-mention the [relevant product manager](https://about.gitlab.com/handbook/product/categories/#devops-stages) earlier in the development process (in the issue or merge request) to ensure GitLab team-members are not already working on the feature in order to avoid conflicts.
+should not contain any *already existing* source-available features in it.) We encourage contributors to @-mention the [relevant product manager](/handbook/product/categories/#devops-stages) earlier in the development process (in the issue or merge request) to ensure GitLab team-members are not already working on the feature in order to avoid conflicts.
 
 ## How We Think About Contributing More To Open Source
 

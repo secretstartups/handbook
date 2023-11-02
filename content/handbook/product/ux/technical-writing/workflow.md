@@ -459,7 +459,7 @@ If an issue requires input from the development team before a Technical Writer c
 
 ### Review and triage docs-only backlog issues
 
-Routine review and triage of documentation feedback and improvement issues for your groups helps us spend the [time we have](https://about.gitlab.com/handbook/product/ux/technical-writing/#prioritization) on actionable issues that improve the user experience.
+Routine review and triage of documentation feedback and improvement issues for your groups helps us spend the [time we have](/handbook/product/ux/technical-writing/#prioritization) on actionable issues that improve the user experience.
 
 #### Prerequisites
 

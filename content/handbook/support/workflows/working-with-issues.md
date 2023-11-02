@@ -12,7 +12,7 @@ Creating, updating and escalating GitLab issues correctly is an important part o
 
 ## Issue Prioritization
 
-In general, the Product team  will [prioritize all issues](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](https://about.gitlab.com/direction/).
+In general, the Product team  will [prioritize all issues](/handbook/product/product-processes/#how-we-prioritize-work) (not just customer requests) based on types of issues and the [direction of the product](https://about.gitlab.com/direction/).
 
 The Support Team plays a role in communicating the **impact to customers** of issues and feature requests. By using appropriate templates, adding labels, and adding relevant information in descriptions and comments, the team can communicate which issues affect customers along with their priority and severity. By participating in the scheduling effort for each release, the Support Team represents an additional voice of the customer in product development.
 
@@ -61,7 +61,7 @@ Here are some tips:
 
 Regardless of the type of issue, please include any relevant information *along* with a link. Also check that the [correct labels](#adding-labels) have been applied.
 
-Please see the product handbook to see [what information product wants us to provide for feature requests](https://about.gitlab.com/handbook/product/how-to-engage/#customer-feature-requests)
+Please see the product handbook to see [what information product wants us to provide for feature requests](/handbook/product/how-to-engage/#customer-feature-requests)
 
 Optional:
 
@@ -75,7 +75,7 @@ Using the appropriate labels is *critical* to ensuring visibility of issues and 
 
 Required:
 
-- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [documentation metadata](https://docs.gitlab.com/ee/development/documentation/#metadata), [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages), [features list by stage](https://about.gitlab.com/features) or similar existing issue.
+- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [documentation metadata](https://docs.gitlab.com/ee/development/documentation/#metadata), [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](https://about.gitlab.com/features) or similar existing issue.
 - [Type Labels](https://about.gitlab.com/handbook/engineering/metrics/#work-type-classification) should be added by the template, but *add* them if any are missing.
 - `~customer` (if a ZenDesk link is added, the bot will add this automatically if you forget)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
@@ -93,7 +93,7 @@ For L&R related issues, please see the [specific guidance on Fulfillment issues]
 
 ## Escalate New and Existing Issues
 
-The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
+The Support team can directly ping the PM on the issue or in the #product Slack channel (see [DevOps Stages](/handbook/product/categories/#devops-stages)) in case this may help with communication. Comments might include asking for an update on behalf of the customer, or discussing the severity or priority especially if it needs to be increased.
 
 ## Creating Issues
 
@@ -129,7 +129,7 @@ and
 
 ## Creating Feature Proposals
 
-As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support/), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](https://about.gitlab.com/handbook/product/how-to-engage/#customer-feature-requests).
+As per our [Statement of Support](https://about.gitlab.com/support/statement-of-support/), the Support Team will generally ask the customer to create feature requests. Feature requests with direct feedback from customers are valuable as customers are often best equipped to explain their use case, requirements, and needs. Ask customers to create the feature request issue and share the link with us. Once an issue link is available, [add labels](#adding-labels) and relevant details in the [comments](#adding-comments-on-existing-issues), and [link the source](/handbook/product/how-to-engage/#customer-feature-requests).
 
 If you create a feature proposal on behalf of a customer, please follow the same process as [Creating Issues](#creating-issues) by using the `Feature Proposal` template. After the issue is created, share the link in a reply encouraging the customer to follow and contribute to the issue.
 

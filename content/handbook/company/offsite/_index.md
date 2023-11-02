@@ -339,7 +339,7 @@ The CoS to the CEO will moderate the call.
 
 The CoS to the CEO is responsible for meeting material. The CoS to the CEO will share the meeting recap material no later than 72 business hours after the offsite concludes and at least 48 hours in advance of the mettig. Material will include an event summary and may include a highlight video message from the CEO or others. All materials will be signed off on by the Legal Team in advance of sharing.
 
-A version of the notes shared with Functional Leaders may be shared with all team members within 4 business days of a Functional Leader eeting. The CoST to the CEO prepares materials excluding Functional Leadering Meeting Q&A or any [material non-public information](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. Functional Leaders are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
+A version of the notes shared with Functional Leaders may be shared with all team members within 4 business days of a Functional Leader eeting. The CoST to the CEO prepares materials excluding Functional Leadering Meeting Q&A or any [material non-public information](/handbook/product/product-safe-guidance/#materially-non-public-information) and shares them in the #company-fyi-private Slack Channel. Functional Leaders are encouraged to discuss relevant information within their teams. You can think of the materials shared with all team members as a "Meeting in a Box."
 
 ## Content Choice
 

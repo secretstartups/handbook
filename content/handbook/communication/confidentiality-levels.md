@@ -71,7 +71,7 @@ Some projects require limited access internally due to the confidential or sensi
 
 Project code names can be overused. Code names should only be used for projects in which the leaking of a descriptive name (even without access to any related content) would be a problem. There are two cases where the project name should be used instead of a name that clearly describes the project.
 
-1. The existence of the project is [material non-public information (MNPI)](https://about.gitlab.com/handbook/product/product-safe-guidance/#materially-non-public-information). Example: "Gotham" was our project name for our IPO, because GitLab would have been penalized for pre-maturely signaling the imminence of its IPO.
+1. The existence of the project is [material non-public information (MNPI)](/handbook/product/product-safe-guidance/#materially-non-public-information). Example: "Gotham" was our project name for our IPO, because GitLab would have been penalized for pre-maturely signaling the imminence of its IPO.
 1. Knowledge of the project or initiative is not MNPI but should remain [limited access](/handbook/communication/confidentiality-levels/#limited-access) to avoid prematurely sharing information with  team members, customers or the wider community. Examples include: "Tiering" was our project name for End of Availability, and "Hamster" was our project name for exploring how to enter China.
 
 In many cases, key project or initiative content will be MNPI or limited access, but we do not use a code name. In these cases, it is okay for folks to have a sense of what is being worked on, but the exact details are sensitive. For example:

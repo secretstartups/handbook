@@ -33,7 +33,7 @@ title: Previous Quarter OKR Timelines
 - **5 weeks** prior to the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process. The CEO will share an MR in the #e-group Slack channel with the 3 Company Objectives for the quarter, and one to three Key Results for each objective. 
 -  **4 weeks** prior to the start of the new quarter:
      - Product Operations adds the aligned upon Shared R&D OKRs plus any additional Product organization specific OKRs to [FY23-Q3 Shared R&D and Product Org OKR Planning](https://gitlab.com/gitlab-com/Product/-/issues/4295) and the VPP reviews the proposed OKRs with the CEO
-     - Product Operations informs Product team members that Q3 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
+     - Product Operations informs Product team members that Q3 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
 
 #### OKR Collaboration by the Product Team
 
@@ -89,7 +89,7 @@ FY23 Q2 Shared R&D OKR Overview by Engineering and Product Leadership
 - **5 weeks** prior to the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process. The CEO will share an MR in the #e-group Slack channel with the 3 Company Objectives for the quarter, and one to three Key Results for each objective. 
 -  **4 weeks** prior to the start of the new quarter:
      - Product Operations adds the aligned upon Shared R&D OKRs plus any additional Product organization specific OKRs to [FY23-Q2 Shared R&D and Product Org OKR Planning](https://gitlab.com/gitlab-com/Product/-/issues/3891) and reviews the proposed OKRs with the CEO
-     - Product Operations informs Product team members that Q1 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
+     - Product Operations informs Product team members that Q1 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
 
 #### OKR Collaboration by the Product Team
 
@@ -120,7 +120,7 @@ FY23 Q2 Shared R&D OKR Overview by Engineering and Product Leadership
 #### Product Manager participation in OKRs
 
 - Product Managers will be pulled in for collaboration throughout the OKR drafting process
-- Product Managers will work with their manager and [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
+- Product Managers will work with their manager and [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
 
 #### Scoring and reporting 
 
@@ -154,7 +154,7 @@ FY23 Q1 Shared R&D OKR Overview by Engineering and Product Leadership
 - **5 weeks** prior to the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process. The CEO will share an MR in the #e-group Slack channel with the 3 Company Objectives for the quarter, and one to three Key Results for each objective. 
 -  **4 weeks** prior to the start of the new quarter:
      - the CProdO adds the aligned upon Shared R&D OKRs plus any additional Product organization specific OKRs to [FY23-Q1 Shared R&D and Product Org OKR Planning](https://gitlab.com/gitlab-com/Product/-/issues/3594) and reviews the proposed OKRs with the CEO
-     - Product Operations informs Product team members that Q1 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
+     - Product Operations informs Product team members that Q1 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
 
 #### OKR Collaboration by the Product Team
 
@@ -185,7 +185,7 @@ FY23 Q1 Shared R&D OKR Overview by Engineering and Product Leadership
 #### Product Manager participation in OKRs
 
 - Product Managers will be pulled in for collaboration throughout the OKR drafting process
-- Product Managers will work with their manager and [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
+- Product Managers will work with their manager and [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
 
 #### Scoring and reporting 
 
@@ -222,7 +222,7 @@ Please share your feedback in [Feedback on Q4 Shared R&D OKR Process](https://gi
 - **5 weeks** prior to the start of the fiscal quarter, the CEO and Chief of Staff to the CEO initiate the OKR process. The CEO will share an MR in the #e-group Slack channel with the 3 Company Objectives for the quarter, and one to three Key Results for each objective. 
 -  **4 weeks** prior to the start of the new quarter:
      - the CProdO adds the aligned upon Shared R&D OKRs plus any additional Product organization specific OKRs to [FY22-Q4 Shared R&D OKR and Product Org OKR Planning](https://gitlab.com/gitlab-com/ally-okr-rollout/-/issues/36) and reviews the proposed OKRs with the CEO
-     - Product Operations informs Product team members that Q4 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
+     - Product Operations informs Product team members that Q4 OKR planning has begun by tagging them into this issue, highlighting that it is recommended for Product Managers to review and activate their [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to begin ideation on their Q4 KRs at this time. 
 
 **Notes:** 
 
@@ -258,7 +258,7 @@ Please share your feedback in [Feedback on Q4 Shared R&D OKR Process](https://gi
 #### Product Manager participation in OKRs
 
 - Product Managers will be pulled in for collaboration throughout the OKR drafting process
-- Product Managers will work with their manager and [Product Group](https://about.gitlab.com/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
+- Product Managers will work with their manager and [Product Group](/handbook/product/product-processes/#quad--infra--security-product-group-dris) to plan and execute work to support OKRs throughout the quarter
 
 #### Scoring and reporting 
 

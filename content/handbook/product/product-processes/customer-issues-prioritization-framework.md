@@ -58,7 +58,7 @@ The outcomes the framework is aimed at providing:
 ## Quickstart
 
 1. To view a list of requested issues by customer, stage, CSM, or category, visit the [Customer Requested Issues (Product) dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970771/User-Request-Issue-Prioritization---Product) or [Customer Requested Issues (CSM) dashboard](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/970772/User-Request-Issue-Prioritization---CSM-Customer-View) and apply the relevant filters.
-1. To add a customer or opportunity to an open issue or epic, follow the process outlined below in ["Customer Links"](https://about.gitlab.com/handbook/product/product-processes/customer-issues-prioritization-framework/#customer-links).
+1. To add a customer or opportunity to an open issue or epic, follow the process outlined below in ["Customer Links"](/handbook/product/product-processes/customer-issues-prioritization-framework/#customer-links).
 1. Optionally, watch the [walk-through (10m 20s)](https://www.youtube.com/watch?v=ZUxIxp_Pv5k&list=PL05JrBw4t0KrKoeXjf5Bdtapu9Cl3T7gI&index=17&pp=sAQB).
 
 
@@ -83,7 +83,7 @@ The framework is powered by a model that consists of several key components:
 
 ### Customer Links 
 
-To link an account, opportunity, or support ticket to an issue or epic, [use the feedback template and Salesforce/Zendesk link](https://about.gitlab.com/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to add a comment to the issue or epic in `gitlab-org` or any project or sub-group within this top-level namespace (ex: `/gitlab-org/gitlab`). For best results, only include one Salesforce or Zendesk link per comment. If you want to "unlink" an account from an issue or epic, simply remove the Salesforce or Zendesk link from the respective comment(s) on the issue or epic. 
+To link an account, opportunity, or support ticket to an issue or epic, [use the feedback template and Salesforce/Zendesk link](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) to add a comment to the issue or epic in `gitlab-org` or any project or sub-group within this top-level namespace (ex: `/gitlab-org/gitlab`). For best results, only include one Salesforce or Zendesk link per comment. If you want to "unlink" an account from an issue or epic, simply remove the Salesforce or Zendesk link from the respective comment(s) on the issue or epic. 
 
 Supported link types:
 
@@ -215,9 +215,9 @@ Column definitions:
 - `Notable ID`: The ID of the issue or epic.
 - `Notable Type`: If the link is on an issue or epic.
 - `Notable Title`: The title of the issue or epic. 
-- `Group`: The relevant [product group](https://about.gitlab.com/handbook/product/categories/#hierarchy) that is the DRI for the issue or epic.
-- `Stage`: The relevant [stage](https://about.gitlab.com/handbook/product/categories/#hierarchy) to which the issue or epic belongs.
-- `Category`: The relevant [category](https://about.gitlab.com/handbook/product/categories/#hierarchy) to which the issue or epic belongs.
+- `Group`: The relevant [product group](/handbook/product/categories/#hierarchy) that is the DRI for the issue or epic.
+- `Stage`: The relevant [stage](/handbook/product/categories/#hierarchy) to which the issue or epic belongs.
+- `Category`: The relevant [category](/handbook/product/categories/#hierarchy) to which the issue or epic belongs.
 - `Notable Weight`: The weight of the issue or the aggregate weight of all issues within an epic. 
 - `Milestone`: The milestone to which the issue is currently assigned or the furthest out milestone to which an issue within an epic is assigned. 
 - `Upvote Count`: The number of 👍 an issue or epic currently has.

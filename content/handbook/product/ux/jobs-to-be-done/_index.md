@@ -24,7 +24,7 @@ At GitLab, we have our own flavor of JTBD and use it throughout the design proce
 
 JTBD come directly from research and customer conversations with those people who do the tasks/jobs we need to design for. [Problem validation](/handbook/product/ux/ux-research/problem-validation-and-methods/#what-is-problem-validation) is one of the most effective ways to confidently inform the writing of a JTBD.
 
-To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to use JTBD](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/using-jtbd/)
+To learn more about our JTBD philosophy, see the [JTBD deep dive](/handbook/product/ux/jobs-to-be-done/deep-dive/) and [How to use JTBD](/handbook/product/ux/jobs-to-be-done/using-jtbd/)
 
 You can also watch the following video for a brief overview of why JTBD are so valuable in the product development process:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/H6j1Xd4yufI"></iframe></figure>
@@ -106,7 +106,7 @@ Using our examples, we can produce a JTBD hierarchy, confirming we operate at th
 
 ### Using JTBD at GitLab
 
-There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) before spending too much time learning about inaccurate jobs.
+There are many methods a stage group may use to find or define strategic opportunities with JTBD. You can see more detailed uses of JTBD on our [How to use Jobs to Be Done](/handbook/product/ux/jobs-to-be-done/using-jtbd/) handbook page. If you plan on using one of these methods, remember to use [interviews to validate your jobs](/handbook/product/ux/jobs-to-be-done/deep-dive/#how-do-i-discover-jtbd-relevant-to-my-group) before spending too much time learning about inaccurate jobs.
 
 ## Quick methods to increase confidence
 
@@ -132,6 +132,6 @@ If you want a detailed breakdown of each segement of the JTBD, learn more about 
 
 ### Job stories and user personas
 
-[User personas](https://about.gitlab.com/handbook/product/personas/#user-personas) are people who use GitLab. Each persona represents a person with a particular job title or role in an organization. A job performer in our JTBD framework is any user doing a specific task. In practice, the person who is the job performer could change and is not strictly tied to a job title.
+[User personas](/handbook/product/personas/#user-personas) are people who use GitLab. Each persona represents a person with a particular job title or role in an organization. A job performer in our JTBD framework is any user doing a specific task. In practice, the person who is the job performer could change and is not strictly tied to a job title.
 
-For example, anyone who creates a merge request is considered a Code Author (job performer) in the JTBD Framework. This is a different perspective of a user persona that attempts to fit any person in an organization with the title Software Developer into the [Sasha](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer) user persona.
+For example, anyone who creates a merge request is considered a Code Author (job performer) in the JTBD Framework. This is a different perspective of a user persona that attempts to fit any person in an organization with the title Software Developer into the [Sasha](/handbook/product/personas/#sasha-software-developer) user persona.

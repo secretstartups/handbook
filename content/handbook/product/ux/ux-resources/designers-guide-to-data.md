@@ -75,7 +75,7 @@ The data source determines the table names used in Sisense queries. We have thre
 
 These visualizations will help you understand how the systems work together:
 
-- A [simplified diagram](https://about.gitlab.com/handbook/product/analytics-instrumentation-guide/#systems-overview) showing the interactions between GitLab Inc and self-managed instances.
+- A [simplified diagram](/handbook/product/analytics-instrumentation-guide/#systems-overview) showing the interactions between GitLab Inc and self-managed instances.
 - A detailed diagram of the [data platform's data stack](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack).
 
 ## Examples of using data for design decisions
