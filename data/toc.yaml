@@ -356,20 +356,20 @@
     url: https://about.gitlab.com/handbook/stock-options/
 - name: Product
   icon: fa-solid fa-comments
-  url: https://about.gitlab.com/handbook/product/
+  url: /handbook/product
   links:
   - name: Release posts
     url: https://about.gitlab.com/handbook/marketing/blog/release-posts/
   - name: About the GitLab Product
-    url: https://about.gitlab.com/handbook/product/gitlab-the-product/
+    url: /handbook/product/gitlab-the-product
   - name: Being a Product Manager at GitLab
-    url: https://about.gitlab.com/handbook/product/product-manager-role/
+    url: /handbook/product/product-manager-role
   - name: Product Principles
-    url: https://about.gitlab.com/handbook/product/product-principles/
+    url: /handbook/product/product-principles
   - name: Product Processes
-    url: https://about.gitlab.com/handbook/product/product-processes/
+    url: /handbook/product/product-processes
   - name: Product sections, stages, groups, and categories
-    url: https://about.gitlab.com/handbook/product/categories/
+    url: /handbook/product/categories
   - name: Product Development Flow
     url: https://about.gitlab.com/handbook/product-development-flow/
   - name: Product Development Timeline
@@ -377,20 +377,20 @@
   - name: Data for Product Managers
     url: https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/
   - name: Product Pricing Model
-    url: https://about.gitlab.com/company/pricing/
+    url: /handbook/company/pricing
   - name: Data analysis
     url: https://about.gitlab.com/handbook/business-technology/data-team/
   - name: Corporate Development / Acquisitions
     url: https://about.gitlab.com/handbook/acquisitions/
   - name: UX Department
-    url: https://about.gitlab.com/handbook/product/ux/
+    url: /handbook/product/ux
     links:
     - name: Technical Writing
-      url: https://about.gitlab.com/handbook/product/ux/technical-writing/
+      url: /handbook/product/ux/technical-writing
     - name: UX Research
-      url: https://about.gitlab.com/handbook/product/ux/ux-research/
+      url: /handbook/product/ux/ux-research
     - name: Product Design
-      url: https://about.gitlab.com/handbook/product/ux/product-design/
+      url: /handbook/product/ux/product-design
 - name: Legal and Compliance
   icon: fa-solid fa-scale-balanced
   url: https://about.gitlab.com/handbook/legal/
