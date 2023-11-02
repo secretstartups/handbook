@@ -273,6 +273,49 @@ If there is an error, search for an existing issue. Errors where the metadata is
 
 If no error is found and the import is partial, most likely it is a timeout issue.
 
+#### Export Errors
+
+Export errors can occur when a user attempts to export via the UI or [this API endpoint](https://docs.gitlab.com/ee/api/project_import_export.html#schedule-an-export). A parameter in the API allows for exporting to an external URL such as a pre-signed AWS S3 URL. Typically, the export process consists of:
+
+- Returning an initial `202` response to the client confirming the export has started
+- Taking from a few seconds to a few minutes to process the export, depending on the project size
+- Starting the upload to the specified upload URL
+
+Here are some suggestions for searching export logs in Kibana: 
+
+- In `pubsub-sidekiq-inf-gprd` (Sidekiq), narrow the search by adding filters
+  - json.class: `ProjectExportWorker`
+  - json.meta.project `path/to/project`
+
+If using the [Correlation Dashboard](#correlation-dashboard), you should be able to follow Sidekiq events throughout the export process, and locate errors by filtering json.severity: `ERROR`. Provided below is an example of an upload failing to AWS S3:
+
+```json
+"severity": "ERROR",
+      "meta.caller_id": "ProjectExportWorker",
+      "subcomponent": "exporter",
+      ...
+      "message": "Invalid response code while uploading file. Code: 400",
+      "response_body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error><Code>EntityTooLarge</Code><Message>Your proposed upload exceeds the maximum allowed size</Message><ProposedSize>6353524398</ProposedSize><MaxSizeAllowed>5368709120</MaxSizeAllowed><RequestId><omitted></RequestId><HostId><omitted></HostId></Error>",
+```
+
+The XML response can provide an indication of the failure reason, such as the project exceeding the maximum allowed size:
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+    <Code>EntityTooLarge</Code>
+    <Message>Your proposed upload exceeds the maximum allowed size</Message>
+    <ProposedSize>6353524398</ProposedSize>
+    <MaxSizeAllowed>5368709120</MaxSizeAllowed>
+    <RequestId>
+        <omitted>
+    </RequestId>
+    <HostId>
+        <omitted>
+    </HostId>
+</Error>
+```
+
 ##### Known Import Issues
 
 - **Imported project's size differs from where it originated**
