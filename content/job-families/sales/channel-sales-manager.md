@@ -264,7 +264,7 @@ The Director, Channel Sales Manager is a [grade 10](/handbook/total-rewards/comp
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ### Senior Director, Channel Sales
 
@@ -294,7 +294,7 @@ The Senior Director, Channel Sales Manager is a [grade 11](/handbook/total-rewar
 - % Revenue Partner Inititated
 - % Services Attached
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) acceleration by stage or # seats in named enterprise accounts
 
 ## Specialties
 

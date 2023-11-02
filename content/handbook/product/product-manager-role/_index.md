@@ -35,7 +35,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 
 ### Responsibilities
 
-Your job as a PM is outlined in [Product Manager Responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/)
+Your job as a PM is outlined in [Product Manager Responsibilities](/handbook/product/product-manager-responsibilities/)
 
 ### Getting started as a PM at GitLab
 
@@ -152,7 +152,7 @@ Additionally, the product team has the [First 100 days template](https://gitlab.
 
 The hiring manager will prep/personalize the  **First 100 days template**. We encourage these issues to default to public per our values but they may be marked `confidential` if there is any sensitive or personal data per the manager's discretion.  The **First 100 days issue**  should be open for the new product manager on their start date.  It isn't expected that they get started on this issue, but it is intended to give them a general idea of what is coming.  Generally, the **First 100 days issue** kicks off around the start of the new milestone, around 2-4 weeks after the product manager's start data.  This timing is intended to help to allow enough time for tactical/general onboarding, before the new product manager starts to figure out what their first 100 days in "office" looks like more strategically.  However, the timing/content of the first 100 days is ultimately up to the product manager and their manager to agree upon.  
 
-The new hire should also participate in defining and adding to the goals of the **First 100 days template**. It is recommended that the manager leverage this goal-oriented onboarding issue for the new product managers first [CDF review](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework), to effectively align teammates in supporting the PM as they settle into their role at GitLab. Take a look at these first 100 days onboarding issues as examples: [3291](https://gitlab.com/gitlab-com/Product/-/issues/3291) and [2809](https://gitlab.com/gitlab-com/Product/-/issues/2809). 
+The new hire should also participate in defining and adding to the goals of the **First 100 days template**. It is recommended that the manager leverage this goal-oriented onboarding issue for the new product managers first [CDF review](/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework), to effectively align teammates in supporting the PM as they settle into their role at GitLab. Take a look at these first 100 days onboarding issues as examples: [3291](https://gitlab.com/gitlab-com/Product/-/issues/3291) and [2809](https://gitlab.com/gitlab-com/Product/-/issues/2809). 
 
 We use two templates, so the Product Manager can focus on GitLab onboarding for the first month with more urgent, tactical tasks. As the new Product Manager becomes more familiar with GitLab they can transition to more strategic and less time-sensitive onboarding tasks in their first 3 months at GitLab. 
 

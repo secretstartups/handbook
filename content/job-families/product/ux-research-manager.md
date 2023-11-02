@@ -74,7 +74,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 > ### Some useful resources
 >
 > - Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation.
-> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/product/ux/ux-research/), and our [UX Department's handbook](https://about.gitlab.com/handbook/product/ux/).
+> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](/handbook/product/ux/ux-research/), and our [UX Department's handbook](/handbook/product/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call.
 
@@ -151,7 +151,7 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 - Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
 - Identify ways to more efficiently and effectively conduct remote user research, and share those learnings with the wider community.
 - Work with Product Operations to ensure UXR consideration in the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
-- Define and manage [Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/) for the UX Research team.
+- Define and manage [Performance Indicators](/handbook/product/ux/performance-indicators/) for the UX Research team.
 - Independently create and manage [OKRs](/handbook/company/okrs/) for the UX Research team.
 - Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
 - Conduct regular [1:1 meetings](/handbook/leadership/1-1/) with their direct reports and quarterly [skip-level meetings](/handbook/leadership/skip-levels/) with the reports of their direct reports.
@@ -178,10 +178,10 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 
 ## Performance indicators
 
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/product/ux/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/product/ux/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/product/ux/performance-indicators/#team-member-retention)
+- [Hiring Actual vs Plan](/handbook/product/ux/performance-indicators/#hiring-actual-vs-plan)
+- [Diversity](/handbook/product/ux/performance-indicators/#diversity)
+- [Handbook Update Frequency](/handbook/product/ux/performance-indicators/#handbook-update-frequency)
+- [Team Member Retention](/handbook/product/ux/performance-indicators/#team-member-retention)
 
 #### Interview Process
 

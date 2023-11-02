@@ -30,9 +30,9 @@ Product operations work happens in alignment with GitLab's [product development 
 **Information on the most recent product operations releases can be seen here:**
 
 - [Product development flow releases](/handbook/product-development-flow/releases/)
-- [Product handbook updates](https://about.gitlab.com/handbook/product/handbook-updates/)
+- [Product handbook updates](/handbook/product/handbook-updates/)
 - [Release post updates](https://about.gitlab.com/handbook/marketing/blog/release-posts/process-updates/)
-- [Template specific updates](https://about.gitlab.com/handbook/product/product-operations/template-updates/)
+- [Template specific updates](/handbook/product/product-operations/template-updates/)
 
 **Information on all work currently in progress for product operations can be seen here:**
 
@@ -45,5 +45,5 @@ Product operations work happens in alignment with GitLab's [product development 
 
 Product operations is responsible for managing Post Purchase Surveys (PPS) as well as Paid NPS Surveys (PNPS) on behalf of GitLab.
 
-- [Survey results](https://about.gitlab.com/handbook/product/product-operations/surveys/)
-- [Workflow and technical details](https://about.gitlab.com/handbook/product/product-operations/surveys/workflows/)
+- [Survey results](/handbook/product/product-operations/surveys/)
+- [Workflow and technical details](/handbook/product/product-operations/surveys/workflows/)

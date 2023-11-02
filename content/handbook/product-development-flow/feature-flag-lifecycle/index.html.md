@@ -1,14 +1,14 @@
 ---
-layout: handbook-page-toc
+
 title: "Feature flags in development of GitLab"
 ---
 {::options parse_block_html="true" /}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 
 **NOTE**:
 The content below covers feature flags used by GitLab to deploy its own features, which **is not** the same
@@ -48,7 +48,7 @@ In case you are uncertain whether feature flag is necessary, please ask about th
 
 <details>
 
-It may seem like feature flags are configuration, which goes against our [convention-over-configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)
+It may seem like feature flags are configuration, which goes against our [convention-over-configuration](/handbook/product/product-principles/#convention-over-configuration)
 principle. However, configuration is by definition something that is user-manageable.
 Feature flags are not intended to be user-editable. Instead, they are intended as a tool for Engineers
 and Site Reliability Engineers to use to de-risk their changes. Feature flags are the shim that gets us
@@ -83,7 +83,7 @@ When reading about the process, you can think that deploying a feature behind a 
 adds a lot of work. Fortunately, this is not the case, and we'll show you why. For
 this example, we'll specify the cost of the work to do as a number, ranging from
 0 to infinity. The greater the number, the more expensive the work is. The cost
-does _not_ translate to time, it's just a way of measuring complexity of one
+does *not* translate to time, it's just a way of measuring complexity of one
 change relative to another.
 
 Let's say we are building a new feature, and we have determined that the cost of
@@ -128,7 +128,7 @@ bit bigger when compared to not using a feature flag. Meanwhile, the process of
 reverting our changes was significantly and reliably cheaper.
 
 In other words, feature flags do not slow down the development process. Instead,
-they speed up the process as managing incidents now becomes _much_ easier. As
+they speed up the process as managing incidents now becomes *much* easier. As
 continuous deployments are easier to perform, the time to iterate on a feature
 is reduced even further, as you no longer need to wait weeks before your changes
 are available on GitLab.com.
@@ -151,7 +151,7 @@ Before using feature flags, make sure to read the information on this page and t
 1. [Controlling feature flags](https://docs.gitlab.com/ee/development/feature_flags/controls.html): Learn the process for deploying
   a new feature, enabling it on GitLab.com, communicating the change,
   logging, and cleaning up.
-1. [Feature flags and the change management process](/handbook/engineering/infrastructure/change-management/#feature-flags-and-the-change-management-process): Learn whether your flag requires use of the change management process or not.
+1. [Feature flags and the change management process](https://about.gitlab.com/handbook/engineering/infrastructure/change-management/#feature-flags-and-the-change-management-process): Learn whether your flag requires use of the change management process or not.
 1. [Checking on the status of your teams feature flags](#dashboard--metrics): See if your team has too many, or stale feature flags. See how your feature flags have been toggled over time.
 1. [Conducting an experiment with feature flags](https://docs.gitlab.com/ee/development/experiment_guide/): Learn how the Growth department uses experiment feature flags.
 
@@ -192,7 +192,7 @@ For information about how the user will interact with features behind flags, see
 1. Continue to iterate towards issue completion, using the feature flag to test logical slices:
    1. You may use your feature flag in more than one MR. Continue to iterate until the issue is complete.
 1. Ensure you follow the [documentation guidelines for feature flags](https://docs.gitlab.com/ee/development/documentation/feature_flags.html) and keep them up-to-date according to the feature flag state.
-1. When slices are deemed complete enough (keeping in mind [low level of shame](https://about.gitlab.com/handbook/values/#low-level-of-shame)), proceed to the rollout process.
+1. When slices are deemed complete enough (keeping in mind [low level of shame](/handbook/values/#low-level-of-shame)), proceed to the rollout process.
    1. Some teams may choose to close the feature issue here once it is complete, other teams may want to wait until after the rollout process is finished. If you close your feature issues after the code is present in the default branch, you should close the issue here.
 
 ### Rollout
@@ -251,7 +251,7 @@ graph TD
 In order to build a final release and present the feature for self-managed
 users, the feature flag should be at least defaulted to **on**. If the feature
 is deemed stable and there is confidence that removing the feature flag is safe,
-consider removing the feature flag altogether. It's _strongly_ recommended that
+consider removing the feature flag altogether. It's *strongly* recommended that
 the feature flag is [enabled **globally** on **production**](https://docs.gitlab.com/ee/development/feature_flags/controls.html#enabling-a-feature-for-gitlabcom) for **at least one day**
 before making this decision. Unexpected bugs are sometimes discovered during this period.
 
@@ -264,7 +264,7 @@ Feature flags must be [documented according to their state (enabled/disabled)](h
 and when the state changes, docs **must** be updated accordingly.
 
 Changing the default state or removing the feature flag has to be done before
-the [release date](/handbook/engineering/releases/), _at least_ 3-4 working days before, in order for the change
+the [release date](https://about.gitlab.com/handbook/engineering/releases/), *at least* 3-4 working days before, in order for the change
 to be included in the final self-managed release.
 
 **Note:** consider that, by removing the flag, the feature will become available on
@@ -287,7 +287,7 @@ time to properly measure how the changes behave on GitLab.com.
 
 ## Community contributions
 
-Feature flag rollouts require access to internal GitLab systems. Because of this restriction, a community contribution will require assistance from a GitLab team member to [rollout](#rollout) the feature flag. 
+Feature flag rollouts require access to internal GitLab systems. Because of this restriction, a community contribution will require assistance from a GitLab team member to [rollout](#rollout) the feature flag.
 
 During the [planning](#planning) phase it is essential that the EM and PM are pinged by the MR Coach or a GitLab Team member, who executes the review, on the feature flag rollout issue to get it scheduled/planned/refined. Also they should tag the feature flag rollout issue in the final MR using the feature flag, so that the EM and PM are aware that the rollout will be required soon.
 

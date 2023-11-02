@@ -1008,7 +1008,7 @@ Watch the replay below:
 1. Refer to products by tier name only on Marketing pages: Our tier names are Ultimate, Premium, and Free. When both deployment models are being referred to (SaaS and self-managed), use the tier name only. When only one of the deployment models is being referred to, prefix the tier name with the deployment model. E.g., SaaS-Premium, Self-Managed-Ultimate.
 1. Correct capitalization of self-managed: The term `self-managed` should not be capitalized unless it's in a title or unless you are writing the full product name ("Self-Managed-Ultimate"). If it is used at the beginning of a sentence, then the first word only is capitalized: "Self-managed".
 1. Refer to environments that are installed and run by the end-user as "self-managed."
-1. Write a [group](https://about.gitlab.com/handbook/product/categories/#hierarchy) name as ["Stage:Group"](https://about.gitlab.com/handbook/product/categories/#naming) when you want to include the stage name for extra context.
+1. Write a [group](/handbook/product/categories/#hierarchy) name as ["Stage:Group"](/handbook/product/categories/#naming) when you want to include the stage name for extra context.
 1. Do not use a hyphen when writing the term "open source" except where doing so eliminates ambiguity or clumsiness.
 1. Monetary amounts shouldn't have one digit, so prefer $19.90 to $19.9.
 1. If an email needs a response, write the answer at the top of it.
@@ -1176,7 +1176,7 @@ For example, do not suggest that you're "working in real-time" when a matter is 
 
 Do not use a cool term such as "tiger team" when the [existing term of "working group"](/handbook/company/team/structure/working-groups/) is more exact. While cool terms such as these may be useful for persuading colleagues to join you in working towards a solution, the right way isn't to use flowery language.
 
-The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](https://about.gitlab.com/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
+The last example is when we used 'Prioritizing for Global Optimization' for what we now call a [headcount reset](/handbook/product/product-processes/#headcount-resets). When we [renamed it](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/31101/diffs) we saw a good reduction in the use of this disruptive practice of moving people around.
 
 ### Avoid using Git in Project Names
 

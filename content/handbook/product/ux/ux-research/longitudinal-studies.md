@@ -29,7 +29,7 @@ Longitudinal studies typically combine use of multiple methods. Determining whic
 
 - [Diary studies](/handbook/product/ux/ux-research/diary-studies/) - These are often incorporated into longitudinal studies, where participants are asked to document something they’ve done over a period of time.
 
-- [Surveys](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=2255073) - It can be helpful to run surveys throughout the course of your longitudinal study, mainly as a way to revisit the key measures and determine how those have changed over time. Note that these can be done through a survey tool, like [Qualtrics](https://about.gitlab.com/handbook/product/ux/qualtrics/), or verbally through interviews.
+- [Surveys](https://www.linkedin.com/learning/surveys-and-questionnaires-for-ux-projects/getting-good-feedback?u=2255073) - It can be helpful to run surveys throughout the course of your longitudinal study, mainly as a way to revisit the key measures and determine how those have changed over time. Note that these can be done through a survey tool, like [Qualtrics](/handbook/product/ux/qualtrics/), or verbally through interviews.
 
 To reiterate the importance of interviews: they’re critical to understanding the ‘why’ behind the data that may appear in diary studies and the ratings that participants provide within surveys.  The ‘why’ can directly lead to clear actions, too.
 

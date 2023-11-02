@@ -105,7 +105,7 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 
 1. [Field Competencies](https://about.gitlab.com/handbook/sales/training/field-functional-competencies/)
 1. [Engineering Competencies](https://about.gitlab.com/handbook/engineering/career-development/matrix/engineering/)
-1. [Product Management Competencies](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+1. [Product Management Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 ### Manager and Leadership Competencies
 

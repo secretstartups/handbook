@@ -32,11 +32,11 @@ The following applies to GitLab artifacts that have product and specific feature
 
 |Topic | Disclaimer | Legal Review Required (Y/N) | Other Considerations| 
 |[3 year direction videos](https://www.youtube.com/watch?v=2By7ipuQk1o) | Y | Y | | 
-|[Company wide kickoff video](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings) | Y | N | | 
-|[Group Kickoff videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings) | N | N | | 
-| [Product demos, walk-through videos](https://about.gitlab.com/handbook/product/product-processes/#recording-videos-to-showcase-features) | N | N | | 
+|[Company wide kickoff video](/handbook/product/product-processes/#kickoff-meetings) | Y | N | | 
+|[Group Kickoff videos](/handbook/product/product-processes/#kickoff-meetings) | N | N | | 
+| [Product demos, walk-through videos](/handbook/product/product-processes/#recording-videos-to-showcase-features) | N | N | | 
 |Meeting recordings (e.g. Team calls, PM Weekly, Retrospectives) | N | N | | 
-|[Direction pages](https://about.gitlab.com/handbook/product/product-processes/#managing-your-product-direction) | Y | N | | 
+|[Direction pages](/handbook/product/product-processes/#managing-your-product-direction) | Y | N | | 
 |General product handbook pages | N | N | | 
 |Epics (non-direction) | N | N | | 
 |Issues (non-direction) | N | N | 

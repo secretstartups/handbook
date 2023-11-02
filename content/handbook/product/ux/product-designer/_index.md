@@ -219,7 +219,7 @@ Here's a sample set of questions you can ask yourself when designing:
 
 There are two evergreen design efforts that align with sophisticated simplicity:
 
-1. **Beautifying the UI** -  Clean up a portion of the UI — from a single component to an entire page or experience — to create more consistency, organization, and aesthetic improvements. Learn more in the [Beautifying our UI](https://about.gitlab.com/handbook/product/ux/product-design/#beautifying-our-ui) section of the handbook.
+1. **Beautifying the UI** -  Clean up a portion of the UI — from a single component to an entire page or experience — to create more consistency, organization, and aesthetic improvements. Learn more in the [Beautifying our UI](/handbook/product/ux/product-design/#beautifying-our-ui) section of the handbook.
 1. **Unboxing the UI** - Boxes are currently overused to convey hierarchy, layout content, and divide pages into sections, but there are better ways. Learn more in this video on ["Unboxing" the UI](https://youtu.be/MxpZuWQH-kk).
 
 ### Ideate and iterate

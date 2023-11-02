@@ -161,7 +161,7 @@ Resource to understand the Performance Indicators for the Dev Section - Page can
 
 **Key handbook pages**
 
-[Main Plan page](https://about.gitlab.com/handbook/product/categories/#plan-stage)
+[Main Plan page](/handbook/product/categories/#plan-stage)
 
 [Plan direction page](https://about.gitlab.com/direction/plan/)
 

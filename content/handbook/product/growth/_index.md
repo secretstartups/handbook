@@ -155,7 +155,7 @@ We follow the [Product Designer workflows](/handbook/product/ux/product-designer
     - PMs provide an [ICE score for experiments](https://docs.google.com/spreadsheets/d/1yvLW0qM0FpvcBzvtnyFrH6O5kAlV1TEFn0TB8KM-Y1s/edit#gid=0) and by using [priority labels](https://docs.gitlab.com/ee/development/labels/index.html#priority-labels) for other issues.
     - The Product Designer applies the milestone in which they plan to deliver the work (1-2 milestones in advance, or backlog for items that are several months out. For example, if an issue is not doable for a designer in the current milestone, they can add the next milestone to the issue, which will communicate to the PM when the work will be delivered.
     - If the PM has any concern about the planned milestone, they will discuss trade-offs with the Product Designer and other Growth PMs.
-- we use [UX issue weights](https://about.gitlab.com/handbook/product/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
+- we use [UX issue weights](/handbook/product/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
     - Label the issue for UX work with `UX` and assess the issue weight. Issues larger than an **8** should be broken down further.
     - Use the scoped labels starting with `design weight` to add the UX weight to an issue.
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.

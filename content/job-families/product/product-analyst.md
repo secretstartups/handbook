@@ -28,7 +28,7 @@ We work in a very unique way at GitLab, where flexibility and independence meet
 a high paced, pragmatic way of working. And everything we do is [in the open](https://about.gitlab.com/handbook/).
 
 We recommend looking at our [about page](/handbook/company/) and at the
-[Product Data Insights handbook](https://about.gitlab.com/handbook/product/product-analysis) to get started.
+[Product Data Insights handbook](/handbook/product/product-analysis) to get started.
 
 <a id="base-pa-requirements"></a>
 
@@ -61,7 +61,7 @@ and execution
 
 ### Primary Performance Indicator for the Role
 
-Work completed per two-week iteration ([Total Issue Velocity](https://about.gitlab.com/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
+Work completed per two-week iteration ([Total Issue Velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
 
 ***
 
@@ -208,7 +208,7 @@ The Manager, Product Data Insights role is a [grade 8](/handbook/total-rewards/c
 - Manage and lead a high performing team of ICs, including day-to-day assignments, weekly 1-1s,
 bi-weekly iteration planning, quarterly reviews, and quarterly objectives
 - Proactively identify strategic opportunities for product team via data analysis
-- Ensure team is delivering high-quality work and maintaining a consistent [velocity](https://about.gitlab.com/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
+- Ensure team is delivering high-quality work and maintaining a consistent [velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
 - Mentor and coach members of the team
 - Work with stakeholders and product leadership to align the team's priorities with those of
 the company
@@ -252,7 +252,7 @@ The Senior Manager, Product Data Insights role is a [grade 9](/handbook/total-re
 - Manage and lead a high performing team comprised of managers, and ICs
 - Effective at leading through frontline managers
 - Proactively identify strategic opportunities for product team via data analysis
-- Ensure team is delivering high-quality work and maintaining a consistent [velocity](https://about.gitlab.com/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
+- Ensure team is delivering high-quality work and maintaining a consistent [velocity](/handbook/product/product-analysis/team-processes/#team-velocity-calculations)
 - Mentor and coach members of the team, including managers to increase the impact of their teams
 - Conduct and maintain skip-level 1:1s and feedback sessions ensuring the team is operaring in line with GitLab's values
 - Work cross-functionally with other leaders through the company (including Product, IT, Sales, and Marketing) ensuring the team's direction is aligned with company needs.
@@ -286,9 +286,9 @@ prioritization, stakeholder management, and cross-functional collaboration as a 
 
 ## Relevant links
 
-- [Product Data Insights Handbook](https://about.gitlab.com/handbook/product/product-analysis/)
+- [Product Data Insights Handbook](/handbook/product/product-analysis/)
 - [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
-- [Product Handbook](https://about.gitlab.com/handbook/product/)
+- [Product Handbook](/handbook/product/)
 
 ## Performance Indicator
 
@@ -298,4 +298,4 @@ Product Data Insights Leadership is responsible for building the capacity and ca
 1. Our global Product KPIs
 1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
 1. Hiring versus plan and new hire location factor
-1. Ensuring individuals meet and maintain their ([Performance Indicator](https://about.gitlab.com/handbook/product/product-analysis/team-processes/#team-velocity-calculations))
+1. Ensuring individuals meet and maintain their ([Performance Indicator](/handbook/product/product-analysis/team-processes/#team-velocity-calculations))

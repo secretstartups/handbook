@@ -33,13 +33,13 @@ Common Screeners do the following:
 The Verify and Package teams worked on their first GitLab iteration of a Common Screener in early 2022. We were able to use the same screener to recruit across 5 Problem Validation studies (more [here](https://gitlab.com/gitlab-org/ux-research/-/issues/1808)).  We are currently utilizing this process to see if we’re able to use the same screener to support recruitment for both Problem and Solution Validation studies across the second half of 2022 (more [here](https://gitlab.com/gitlab-org/ux-research/-/issues/1894)).
 
 Our pilot focuses on User Personas across Verify and Package teams:
-- [Presley, Product Designer](https://about.gitlab.com/handbook/product/personas/#presley-product-designer)
-- [Sasha, Software Developer](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer)
-- [Devon, DevOps Engineer](https://about.gitlab.com/handbook/product/personas/#devon-devops-engineer)
-- [Sidney, Systems Administrator](https://about.gitlab.com/handbook/product/personas/#sidney-systems-administrator)
-- [Sam, Security Analyst](https://about.gitlab.com/handbook/product/personas/#sam-security-analyst)
-- [Rachel, Release Manager](https://about.gitlab.com/handbook/product/personas/#rachel-release-manager)
-- [Alex, Security Operations Engineer](https://about.gitlab.com/handbook/product/personas/#alex-security-operations-engineer)
+- [Presley, Product Designer](/handbook/product/personas/#presley-product-designer)
+- [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer)
+- [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer)
+- [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator)
+- [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst)
+- [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager)
+- [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer)
 
 Our common screener uses questions about a few key areas to help us match respondents with research studies, including:
 - Company size
@@ -69,13 +69,13 @@ Table 1. Lists tasks from the handbook page that help us differentiate which res
 
 | User Persona | Differentiating Task |
 | ------ | ------ |
-| [Presley, Product Designer](https://about.gitlab.com/handbook/product/personas/#presley-product-designer) | Lead the design of an effective, empathetic and efficient user experience |
-| [Sasha, Software Developer](https://about.gitlab.com/handbook/product/personas/#sasha-software-developer) | Translate product designs into code |
-| [Devon, DevOps Engineer](https://about.gitlab.com/handbook/product/personas/#devon-devops-engineer) | Deploy, build and release code; Provide pipeline definitions and CI templates; Use code to implement features and bug fixes |
-| [Sidney, Systems Administrator](https://about.gitlab.com/handbook/product/personas/#sidney-systems-administrator) | Maintain and scale infrastructure and configurations; Build servers deploy to them and/or help developers to do so|
-| [Sam, Security Analyst](https://about.gitlab.com/handbook/product/personas/#sam-security-analyst) | Work with teams to implement security fixes; Run security tests and/or flag potential security issue |
-| [Rachel, Release Manager](https://about.gitlab.com/handbook/product/personas/#rachel-release-manager) | Run and test pipeline builds; Automate pipelines; Coordinate teams across releases |
-|  [Alex, Security Operations Engineer](https://about.gitlab.com/handbook/product/personas/#alex-security-operations-engineer) | Address security incidents; Build and implement tools to enhance security |
+| [Presley, Product Designer](/handbook/product/personas/#presley-product-designer) | Lead the design of an effective, empathetic and efficient user experience |
+| [Sasha, Software Developer](/handbook/product/personas/#sasha-software-developer) | Translate product designs into code |
+| [Devon, DevOps Engineer](/handbook/product/personas/#devon-devops-engineer) | Deploy, build and release code; Provide pipeline definitions and CI templates; Use code to implement features and bug fixes |
+| [Sidney, Systems Administrator](/handbook/product/personas/#sidney-systems-administrator) | Maintain and scale infrastructure and configurations; Build servers deploy to them and/or help developers to do so|
+| [Sam, Security Analyst](/handbook/product/personas/#sam-security-analyst) | Work with teams to implement security fixes; Run security tests and/or flag potential security issue |
+| [Rachel, Release Manager](/handbook/product/personas/#rachel-release-manager) | Run and test pipeline builds; Automate pipelines; Coordinate teams across releases |
+|  [Alex, Security Operations Engineer](/handbook/product/personas/#alex-security-operations-engineer) | Address security incidents; Build and implement tools to enhance security |
 
 ### Are there requirements for using a common screener?
 

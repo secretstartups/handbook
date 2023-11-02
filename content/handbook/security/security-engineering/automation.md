@@ -186,7 +186,7 @@ While the Security Automation team is heavily involved with our environment and 
 
 ## 6. Expand
 
-Should an automation written for GitLab.com living in our Knative environment be identified as a possible product feature, the Security Automation team will assist in its development into the product by working closely with the [Anti-Abuse team](https://about.gitlab.com/handbook/engineering/development/sec/govern/anti-abuse) and potentially [other product and development teams](https://about.gitlab.com/handbook/product/categories/#devops-stages) that need to be involved. If this is the case, the following processes should occur:
+Should an automation written for GitLab.com living in our Knative environment be identified as a possible product feature, the Security Automation team will assist in its development into the product by working closely with the [Anti-Abuse team](https://about.gitlab.com/handbook/engineering/development/sec/govern/anti-abuse) and potentially [other product and development teams](/handbook/product/categories/#devops-stages) that need to be involved. If this is the case, the following processes should occur:
 
 - Any existing code repositories will be moved from [`gitlab-com/gl-security`](https://gitlab.com/gitlab-com/gl-security) to [`gitlab-org/gl-security`](https://gitlab.com/gitlab-org/gl-security) or to any place in the `gitlab-org` product hierarchy that makes sense for their visibility
 - A cross-functional epic should be created in the top-level `gitlab-org` namespace that represents the body of work to expand or extend an automation into a product feature

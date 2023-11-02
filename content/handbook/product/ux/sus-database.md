@@ -10,7 +10,7 @@ description: "Gitlab stores all previously recorded SUS surveys in the Sisense A
 
 
 
-The [System Usability Scale](https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Gitlab uses SUS as one of the [UX Department's Key Performance Indicators](https://about.gitlab.com/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey.
+The [System Usability Scale](/handbook/product/ux/performance-indicators/system-usability-scale/) (SUS) is a standardized metric used to measure usability perception of computer interfaces. Gitlab uses SUS as one of the [UX Department's Key Performance Indicators](/handbook/product/ux/performance-indicators/#perception-of-system-usability), and collects data every quarter through a survey.
 
 Team members often need to look at past or present SUS scores or surface insights from the verbatims that users provide. In the past, this access to past SUS data was labor intensive. So, the UX Research Team collected and built a [SUS Database](https://app.periscopedata.com/app/gitlab/topic/SUS-Database/abdcbad729a343a09bf38824ef3585d3) in Sisense (internal access only), so that any team member can view all past SUS data points. Everyone at Gitlab is granted a View-only license to Sisense, but you can [request access](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to an Editor role, if you believe that is necessary for your role.
 

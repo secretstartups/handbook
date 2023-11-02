@@ -106,7 +106,7 @@ The DevSecOps Platform brings together developers, operations and security profe
 #### More Accessible
 
 1. Allow anyone to be a creator
-1. Make GitLab easier to use, higher [System Usability Scale (SUS)](https://about.gitlab.com/handbook/product/ux/performance-indicators/system-usability-scale/) score
+1. Make GitLab easier to use, higher [System Usability Scale (SUS)](/handbook/product/ux/performance-indicators/system-usability-scale/) score
 1. Visibility into DevSecOps success
 
 ## Cadence and Alignment

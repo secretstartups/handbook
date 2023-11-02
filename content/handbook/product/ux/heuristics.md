@@ -41,7 +41,7 @@ This list can change and the handbook version is the SSOT. It's based on best pr
 
 ## Scoring
 
-Scoring these heuristics can have an element of subjectivity, but the more you involve other users in the evaluation the less subjective it will be. Heuristic scoring is optional, but consists of scoring all [11 heuristics](https://about.gitlab.com/handbook/product/ux/heuristics/#heuristics) for a part of the product on a 1-5 scale using the scoring table below. This [scoring sheet](https://docs.google.com/spreadsheets/d/1KwktDjTnM7eZlI8aj3jk7KbRpkfexJV20-6cTNMtz5w/edit?usp=sharing) allows you to easily record your responses and determine an overall score (average of individual scores for the 11 heuristics).
+Scoring these heuristics can have an element of subjectivity, but the more you involve other users in the evaluation the less subjective it will be. Heuristic scoring is optional, but consists of scoring all [11 heuristics](/handbook/product/ux/heuristics/#heuristics) for a part of the product on a 1-5 scale using the scoring table below. This [scoring sheet](https://docs.google.com/spreadsheets/d/1KwktDjTnM7eZlI8aj3jk7KbRpkfexJV20-6cTNMtz5w/edit?usp=sharing) allows you to easily record your responses and determine an overall score (average of individual scores for the 11 heuristics).
 
 | Badge | Score | Summary | Description |
 | --- | --- | --- | --- |

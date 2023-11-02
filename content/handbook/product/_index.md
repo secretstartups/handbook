@@ -18,11 +18,11 @@ description: "Most of the content in the product handbook talks about _how_ we d
 
 ## Product Team Functions
 
-- [Product Management](https://about.gitlab.com/handbook/product/#product-management)
-- [Product Monetization](https://about.gitlab.com/handbook/product/product-monetization)
-- [Product Management Procedures](https://about.gitlab.com/handbook/product/product-processes/product-mgt-operations/pm-operating-procedures/)
-- [Product Management Operations](https://about.gitlab.com/handbook/product/product-processes/product-mgt-operations/)
-- [User Experience](https://about.gitlab.com/handbook/product/ux/)
+- [Product Management](/handbook/product/#product-management)
+- [Product Monetization](/handbook/product/product-monetization)
+- [Product Management Procedures](/handbook/product/product-processes/product-mgt-operations/pm-operating-procedures/)
+- [Product Management Operations](/handbook/product/product-processes/product-mgt-operations/)
+- [User Experience](/handbook/product/ux/)
 
 ## Product Team Mission
 
@@ -111,17 +111,17 @@ Learn about our Product Leadership Team and learn about them via their personal 
 - [**Product Development Timeline**](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 - [**Analytics Instrumentation Guide**](/handbook/product/analytics-instrumentation-guide/)
 - [**Product Management CDF and competencies**](/handbook/product/product-manager-role/product-CDF-competencies/)
-- [**Product Manager Onboarding**](https://about.gitlab.com/handbook/product/product-manager-role/#product-manager-onboarding)
+- [**Product Manager Onboarding**](/handbook/product/product-manager-role/#product-manager-onboarding)
 - [**Product Manager Responsibilities**](/handbook/product/product-manager-responsibilities/)
-- [**Product Manager SAFE (legal) Guidance**](https://about.gitlab.com/handbook/product/product-safe-guidance/)
+- [**Product Manager SAFE (legal) Guidance**](/handbook/product/product-safe-guidance/)
 - [**Product Operations Releases**](/handbook/product/product-operations/#product-operations-releases)
 - [**Product Pricing Model**](/handbook/company/pricing/)
 - [**Release Posts**](https://about.gitlab.com/handbook/marketing/blog/release-posts/)
-- [**Tiering Guidance for Features**](https://about.gitlab.com/handbook/product/tiering-guidance-for-features/#learning-opportunities)
+- [**Tiering Guidance for Features**](/handbook/product/tiering-guidance-for-features/#learning-opportunities)
 
 ### Communicating with the Product Division
 
-Below are team emails and handles that can be used for different departments and sub-departments in the Product Division. These groups are used for internal communication and the `@mention` can only be used by project members. Please remember that tagging `@mention` on issues will generate in-product [to-do items](https://docs.gitlab.com/ee/user/todos.html) and email notifications to **all** team members in that project, so use it only when you need to communicate with the entire team. For communication specifically for product managers, please leverage [How to Engage](https://about.gitlab.com/handbook/product/how-to-engage/).
+Below are team emails and handles that can be used for different departments and sub-departments in the Product Division. These groups are used for internal communication and the `@mention` can only be used by project members. Please remember that tagging `@mention` on issues will generate in-product [to-do items](https://docs.gitlab.com/ee/user/todos.html) and email notifications to **all** team members in that project, so use it only when you need to communicate with the entire team. For communication specifically for product managers, please leverage [How to Engage](/handbook/product/how-to-engage/).
 
 - `@gl-product-leadership` tags all group managers, directors and VPs in the Product Division
 - `@gl-product-plt` tags all direct reports to the VP Product in the Product Division

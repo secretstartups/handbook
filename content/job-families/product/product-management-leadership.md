@@ -6,21 +6,21 @@ description: "This job family represents all Managers in the Product Management 
 This job family represents all Managers in the Product Management department. They are responsible for managing,
 directly or indirectly GitLab team members performing in the role of [Product Manager](/job-families/product/product-manager/).
 These roles are responsible for managing and building teams which focus on specific specialties as part
-of GitLab's [product hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy)
-([sometimes encompassing entire stages or a section](https://about.gitlab.com/handbook/product/product-leadership/#product-organizational-structure)).
+of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy)
+([sometimes encompassing entire stages or a section](/handbook/product/product-leadership/#product-organizational-structure)).
 
 ## References
 
-- [Product Handbook](https://about.gitlab.com/handbook/product/)
-- [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/)
+- [Product Handbook](/handbook/product/)
+- [Product Leadership](/handbook/product/product-leadership/)
 - [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/)
-- [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/)
+- [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
 - [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
 ## Responsibilities
 
 - Make sure you have a great product team (recruit and hire, coach and mentor, promote proactively, identify underperformance)
-- Work on the vision with the [Product Leadership](https://about.gitlab.com/handbook/product/product-leadership/) and CEO; and communicate this vision internally and externally
+- Work on the vision with the [Product Leadership](/handbook/product/product-leadership/) and CEO; and communicate this vision internally and externally
 - Distill the overall vision into a compelling roadmap
 - Make sure the vision advances in every release and communicate this
 - Communicate our vision though demo's, conference speaking, blogging, and interviews
@@ -54,16 +54,16 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 **Team responsibilities**
 
 - Coach Product Managers through their [responsibilities](/job-families/product/product-manager/#responsibilities)
-- Ensure PMs receive regular [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) feedback and, if desired, Career Coaching
+- Ensure PMs receive regular [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) feedback and, if desired, Career Coaching
 - Ensure that Product Managers participate in [Validation](https://about.gitlab.com/handbook/product-development-flow/#validation-track) and [Build](https://about.gitlab.com/handbook/product-development-flow/#build-track) track activities while following our product principles so that our Product Performance indicators are met
-- Enable product managers to make the most effective decisions when [prioritizing R&D investment](https://about.gitlab.com/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](/handbook/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
-- Convene a set of stable counterparts for your assigned [Product Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](/handbook/company/kpis/) are met
+- Enable product managers to make the most effective decisions when [prioritizing R&D investment](/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](/handbook/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
+- Convene a set of stable counterparts for your assigned [Product Hierarchy](/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](/handbook/company/kpis/) are met
 - Join customer and partner visits that spawn ideas for new features
 - Ensure PMs develop an understanding of the market for their categories, including ensuring that the [DevOps tools](https://about.gitlab.com/competition/) and category directions relevant to their markets are up to date
 - Keep relevant [/direction](https://about.gitlab.com/direction) pages up to date as our high level roadmap
 - Prioritize, build and assess business cases for new or existing opportunities in your group that have no investment
 - Understand deeply and synthesize the market, competition, and upcoming solutions in the space their team is responsible for.
-- Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](https://about.gitlab.com/handbook/product/ux/jobs-to-be-done/)
+- Review release post announcements to ensure they focus on user problems and [jobs-to-be-done](/handbook/product/ux/jobs-to-be-done/)
 - Own driving connections between the groups their PMs drive to ensure a single-application user experience.
 - Demonstrate leadership as [expected of Managers across GitLab](/handbook/company/team/structure/#management-group).
 - Find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups.
@@ -72,7 +72,7 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 
 #### Group Manager, Product (GMP) - Requirements
 
-Requirements are outlined in the [Product Management Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership)
+Requirements are outlined in the [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership)
 
 #### Group Manager, Product (GMP) - Career Ladder
 
@@ -82,7 +82,7 @@ The next step in the Group Manager, Product is to move to [Director of Product](
 
 ##### Verify
 
-Are responsible for managing the team of product managers covering the [Verify stage groups](https://about.gitlab.com/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/handbook/company/mission/#mission).
+Are responsible for managing the team of product managers covering the [Verify stage groups](/handbook/product/categories/#verify-stage). Leading the [Verify direction](https://about.gitlab.com/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](https://about.gitlab.com/analysts/forrester-cloudci19/) continues to be a [critical entry-point](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](https://internal-handbook.gitlab.io/handbook/product/investment/) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/handbook/company/mission/#mission).
 
 ###### Verify - Runner
 
@@ -90,7 +90,7 @@ The GMP for Verify:Runner is responsible for supporting our [Runner product grou
 
 ##### Enablement
 
-Responsible for the [Geo](https://about.gitlab.com/handbook/product/categories/#geo-group), [Global Search](https://about.gitlab.com/handbook/product/categories/#global-search-group), [Memory](https://about.gitlab.com/handbook/product/categories/#memory-group), and [Database](https://about.gitlab.com/handbook/product/categories/#database-group) groups. These groups ensure GitLab can meet customer business continuity requirements, is performant at all scales, and enables users to find the content they are looking for in our single platform.
+Responsible for the [Geo](/handbook/product/categories/#geo-group), [Global Search](/handbook/product/categories/#global-search-group), [Memory](/handbook/product/categories/#memory-group), and [Database](/handbook/product/categories/#database-group) groups. These groups ensure GitLab can meet customer business continuity requirements, is performant at all scales, and enables users to find the content they are looking for in our single platform.
 
 ##### Requirements
 
@@ -102,7 +102,7 @@ Responsible for the [Geo](https://about.gitlab.com/handbook/product/categories/#
 
 ##### ModelOps
 
-Responsible for leading the team of PMs who manage the [ModelOps stage groups](https://about.gitlab.com/handbook/product/categories/#modelops-stage). This stage leader sets the vision and direction for how to empower GitLab users to leverage data science as part of their DevOps program—both by enabling users to build and run data science workloads, as well as by enriching existing GitLab product functionality with capabilities powered by machine learning. This individual will lead an expansion of GitLab’s [core personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas) to address the needs of data science teams and will work cross-functionality with [other GitLab stages](https://about.gitlab.com/handbook/product/categories/#devops-stages) in leveraging machine learning to deepen our [core differentiators](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#top-3-gitlab-differentiators). This individual will be responsible for developing new revenue-generating products as well as enhancing existing products used by millions of users across the world.
+Responsible for leading the team of PMs who manage the [ModelOps stage groups](/handbook/product/categories/#modelops-stage). This stage leader sets the vision and direction for how to empower GitLab users to leverage data science as part of their DevOps program—both by enabling users to build and run data science workloads, as well as by enriching existing GitLab product functionality with capabilities powered by machine learning. This individual will lead an expansion of GitLab’s [core personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#personas) to address the needs of data science teams and will work cross-functionality with [other GitLab stages](/handbook/product/categories/#devops-stages) in leveraging machine learning to deepen our [core differentiators](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/#top-3-gitlab-differentiators). This individual will be responsible for developing new revenue-generating products as well as enhancing existing products used by millions of users across the world.
 
 ##### Requirements
 
@@ -115,7 +115,7 @@ Responsible for leading the team of PMs who manage the [ModelOps stage groups](h
 
 ##### Secure
 
-Responsible for leading the team of PMs who manage the [Secure stage groups](https://about.gitlab.com/handbook/product/categories/#secure-stage). This stage leader sets the vision and direction for how to enable GitLab users to minimize their security risk with continuous identification and prioritization of high-impact vulnerabilities and weaknesses across every stage of the DevOps process. This scope includes identifying, prioritizing, and managing security research requirements across the entire Sec section and working with GitLab's Vulnerability Research team to prioritize those requirements. The Secure GMP works hand in hand with the [Govern stage](https://about.gitlab.com/handbook/product/categories/#govern-stage) leader to ensure that their teams, together, are providing a holistic and world-class user experience across all of GitLab's security & compliance offerings.
+Responsible for leading the team of PMs who manage the [Secure stage groups](/handbook/product/categories/#secure-stage). This stage leader sets the vision and direction for how to enable GitLab users to minimize their security risk with continuous identification and prioritization of high-impact vulnerabilities and weaknesses across every stage of the DevOps process. This scope includes identifying, prioritizing, and managing security research requirements across the entire Sec section and working with GitLab's Vulnerability Research team to prioritize those requirements. The Secure GMP works hand in hand with the [Govern stage](/handbook/product/categories/#govern-stage) leader to ensure that their teams, together, are providing a holistic and world-class user experience across all of GitLab's security & compliance offerings.
 
 ##### Requirements
 
@@ -126,7 +126,7 @@ Responsible for leading the team of PMs who manage the [Secure stage groups](htt
 
 #### Govern
 
-Responsible for leading the team of PMs who manage the [Govern stage groups](https://about.gitlab.com/handbook/product/categories/#govern-stage). This stage leader sets the vision and direction for how to enable GitLab users with an effective, scalable, and lovable security and compliance solution. This individual also maintains and champions GitLab's [Software Supply Chain Security (SSCS) direction](https://about.gitlab.com/direction/supply-chain/) and coordinates execution of the SSCS roadmap across all GitLab stages. The Govern GMP works hand in hand with the [Secure stage](https://about.gitlab.com/handbook/product/categories/#secure-stage) leader to ensure that their teams, together, are providing a holistic and word-class user experience across all of GitLab's security & compliance offerings.
+Responsible for leading the team of PMs who manage the [Govern stage groups](/handbook/product/categories/#govern-stage). This stage leader sets the vision and direction for how to enable GitLab users with an effective, scalable, and lovable security and compliance solution. This individual also maintains and champions GitLab's [Software Supply Chain Security (SSCS) direction](https://about.gitlab.com/direction/supply-chain/) and coordinates execution of the SSCS roadmap across all GitLab stages. The Govern GMP works hand in hand with the [Secure stage](/handbook/product/categories/#secure-stage) leader to ensure that their teams, together, are providing a holistic and word-class user experience across all of GitLab's security & compliance offerings.
 
 ##### Requirements
 
@@ -159,7 +159,7 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 ##### Team responsibility
 
 - Perform all non-IC responsibilities of a [Group Manager of Product](#group-manager-product-gmp---responsibilities)
-- Contribute to the [job family](/handbook/hiring/job-families/), [CDF](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
+- Contribute to the [job family](/handbook/hiring/job-families/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [hiring content](https://gitlab.com/gitlab-com/people-group/hiring-processes/-/tree/master/Product) for the Product function
 - Help the team to avoid shipping our org chart.
   - Within the area of ownership, ensure that team creates product experiences that solve the job-to-be-done.
   - Across your peer group - work to identify areas to partner with peers to create single app experiences that solve the job-to-be-done.
@@ -167,15 +167,15 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 - Maintain a comprehensive understanding of GitLab's overall, and Section specific Product Direction to spot, propose and complete appropriate [global optimizations](/handbook/values/#global-optimization) of our R&D investment
 - Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](/handbook/company/pricing/), product positioning and process
 - Maintain priorities for and champion [acquisitions](https://about.gitlab.com/handbook/acquisitions/) that impact our [product maturity](https://about.gitlab.com/direction/maturity/)
-- Perform [product walk-throughs](https://about.gitlab.com/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
+- Perform [product walk-throughs](/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 - Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
 - Drive cross-functional, high impact business workstreams outside of the direct area of ownership
 - Demonstrate leadership as [expected of Directors across GitLab](/handbook/company/team/structure/#director-group)
-- Contribute strategic improvements to how the [Product Leadership Team](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) operates and shape the priorities of the Product Management function
+- Contribute strategic improvements to how the [Product Leadership Team](/handbook/product/product-leadership/#product-leadership-team-structure) operates and shape the priorities of the Product Management function
 
 #### Director of Product Management - Requirements
 
-Requirements for the role are outlined as part of the [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership).
+Requirements for the role are outlined as part of the [Product Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-product-leadership).
 
 - Prior experience managing product management managers (e.g., [Group Manager, Product roles](#group-manager-product-gmp)) preferred however not required.
 
@@ -187,19 +187,19 @@ The next step for a Director of Product Management is to move to [Senior Directo
 
 ##### CI
 
-The Director of Product Management, CI is the PM DRI for the [CI Section](https://about.gitlab.com/handbook/product/categories/#ci-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The CI Section includes the Verify and Package Stages
+The Director of Product Management, CI is the PM DRI for the [CI Section](/handbook/product/categories/#ci-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The CI Section includes the Verify and Package Stages
 
 ##### Enablement
 
-The Director of Product Management, SaaS Platforms is the PM DRI for the [Enablement Section](https://about.gitlab.com/handbook/product/categories/#enablement-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The Enablement Section includes the Systems and Data Store Stages.
+The Director of Product Management, SaaS Platforms is the PM DRI for the [Enablement Section](/handbook/product/categories/#enablement-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The Enablement Section includes the Systems and Data Store Stages.
 
 ##### SaaS Platforms
 
-The Director of Product Management, SaaS Platforms is the PM DRI for the [SaaS Platforms Section](https://about.gitlab.com/handbook/product/categories/#saas-platforms-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The SaaS Platforms Section includes the SaaS Platforms Stage.
+The Director of Product Management, SaaS Platforms is the PM DRI for the [SaaS Platforms Section](/handbook/product/categories/#saas-platforms-section) and reports to the VP, Product Management - CI/CD, Enablement, & SaaS Platforms. The SaaS Platforms Section includes the SaaS Platforms Stage.
 
 ##### Fulfilment
 
-The Director of Product Management, SaaS Platforms is the PM DRI for the [Fulfillment Section](https://about.gitlab.com/handbook/product/categories/#fulfillment-section), which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
+The Director of Product Management, SaaS Platforms is the PM DRI for the [Fulfillment Section](/handbook/product/categories/#fulfillment-section), which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
 
 ##### Requirements
 
@@ -261,10 +261,10 @@ Candidates for this position can generally expect the hiring process to follow t
 
 Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
 
-1. Their [relevant Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/#structure)
+1. Their [relevant Product Performance Indicators](/handbook/product/performance-indicators/#structure)
 1. Our global [Product KPIs](/handbook/company/kpis/#product-kpis)
 1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
-1. Hiring versus plan and [new hire location factor](https://about.gitlab.com/handbook/product/performance-indicators/#new-hire-location-factor)
+1. Hiring versus plan and [new hire location factor](/handbook/product/performance-indicators/#new-hire-location-factor)
 1. IACV attained by assigned [use case](https://about.gitlab.com/handbook/use-cases/#specific-use-cases) as designated in `Why GitLab` of opportunity [Command Plans](https://about.gitlab.com/handbook/sales/command-of-the-message/command-plan/) ([Dashboard](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback)).
 
 In addition, some roles have role-specific activities and performance indicators.

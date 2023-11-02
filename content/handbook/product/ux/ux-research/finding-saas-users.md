@@ -98,4 +98,4 @@ LIMIT 50
 ### How to get help
 
 - For questions on where you can find certain data in the warehouse, the #data channel on Slack can address them.
-- If you require a very in depth SQL query, you can reach out to the [Product Data Insights team](https://about.gitlab.com/handbook/product/product-analysis/#working-with-us) to see if they have availability to assist you.
+- If you require a very in depth SQL query, you can reach out to the [Product Data Insights team](/handbook/product/product-analysis/#working-with-us) to see if they have availability to assist you.

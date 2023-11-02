@@ -22,7 +22,7 @@ As a Support Engineer, you will:
 
 - resolve customer issues via email and video conferencing.
 - support a mix of Self-managed and GitLab.com (SaaS) customers.
-- collaborate with our [Product](https://about.gitlab.com/handbook/product/) and [Development](https://about.gitlab.com/handbook/engineering/development/) Teams to build new features and fix bugs.
+- collaborate with our [Product](/handbook/product/) and [Development](https://about.gitlab.com/handbook/engineering/development/) Teams to build new features and fix bugs.
 - create and update documentation based on customer interactions.
 - work hard to solve customer problems while delighting them along the way.
 - participate in regular rotations for weekday and weekend on-call coverage (daytime only), providing emergency support to our Self-managed and SaaS customers, or working with our SaaS Production team to coordinate incident communications.

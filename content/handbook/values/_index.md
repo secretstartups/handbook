@@ -307,7 +307,7 @@ At GitLab, we want to drive customer results through focusing on platform enhanc
 1. **What we plan to make**. If we focus only on our own plans, we would have only GitLab.com and no self-managed delivery of GitLab.
 1. **Large customers**. This leads to the [innovator's dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma), so we should also focus on small customers and future customers (users).
 1. **What customers ask for**. This means we don't use the phrase "customer focus", because it tempts us to prioritize what the customer *says* they want over what we discover they actually need through our product development process. Often, it’s easier for a customer to think in terms of a specific solution than to think about the core problem that needs to be solved. But a solution that works well for one customer isn’t always relevant to other customers, and it may not align with our overall product strategy. When a customer asks for something specific, we should strive to understand why, work to understand the broader impact, and then create a solution that scales.
-1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](https://about.gitlab.com/handbook/product/single-application/) for the DevOps lifecycle.
+1. **Our existing scope**. For example, when customers asked for better integrations and complained about integration costs and effort, we responded by expanding our scope to create a [single application](/handbook/product/single-application/) for the DevOps lifecycle.
 1. **Our assumptions**. Every company works differently, so we can’t assume that what works well for us will support our customers’ needs. When we have an idea, we must directly validate our assumptions with customers to ensure we create scalable, highly relevant solutions.
 1. **What we control**. We should take responsibility for what the **customer experiences**, even when it isn’t entirely in our control. We aim to treat every customer-managed instance downtime as a [$1M a day problem](https://gitlab.com/gitlab-com/www-gitlab-com/commit/8b7857c1f7c59c53e4a9c0d6008830459d817497).
 
@@ -864,7 +864,7 @@ Small iterations make it easier to work with the wider community. Their work loo
 
 ##### Minimal Viable Change (MVC)
 
-We encourage MVCs to be as small as possible. Always look to make the quickest change possible to improve the user's outcome. If you validate that the change adds more value than what is there now, then do it. This may be additive (adding something) or subtractive (removing something). No need to wait for something more robust. More information is in the [product handbook](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc), but this applies to everything we do in all functions. Specifically for product MVCs, there is additional responsibility to validate with customers that we're adding useful functionality without obvious bugs or usability issues.
+We encourage MVCs to be as small as possible. Always look to make the quickest change possible to improve the user's outcome. If you validate that the change adds more value than what is there now, then do it. This may be additive (adding something) or subtractive (removing something). No need to wait for something more robust. More information is in the [product handbook](/handbook/product/product-principles/#the-minimal-viable-change-mvc), but this applies to everything we do in all functions. Specifically for product MVCs, there is additional responsibility to validate with customers that we're adding useful functionality without obvious bugs or usability issues.
 
 ##### Make a proposal
 
@@ -944,7 +944,7 @@ When you are submitting a merge request for a code change, or a process change i
 the handbook, keep it as small as possible. If you are adding a new page to the
 handbook, create the new page with a small amount of initial content, get it merged
 quickly via [Handbook Usage guidelines](/handbook/handbook-usage/), and then add additional sections iteratively with subsequent merge requests.
-Similarly, when adding features to GitLab, consider ways to [reduce the scope](https://about.gitlab.com/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
+Similarly, when adding features to GitLab, consider ways to [reduce the scope](/handbook/product/product-processes/#crafting-an-mvc) of the feature before creating the merge request to ensure your merge request is as small as possible.
 
 ##### Always iterate deliberately
 
@@ -1104,7 +1104,7 @@ By having most company communications and work artifacts be public to the Intern
 
 ##### Findability
 
-Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](https://about.gitlab.com/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to MRs in Slack.
+Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to MRs in Slack.
 
 ##### Say why, not just what
 

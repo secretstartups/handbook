@@ -166,9 +166,9 @@ The Director, Corporate Development is a [grade 10](/handbook/total-rewards/comp
 
 #### Performance Indicators
 
-- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
-- [Acquisition success](https://about.gitlab.com/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Acquisition velocity](/handbook/product/performance-indicators/)
+- [Acquisition success](/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ### Senior Director of Corporate Development
 
@@ -213,9 +213,9 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 
 #### Performance Indicators
 
-- [Acquisition velocity](https://about.gitlab.com/handbook/product/performance-indicators/)
-- [Acquisition success](https://about.gitlab.com/handbook/product/performance-indicators/)
-- [Qualified acquisition targets](https://about.gitlab.com/handbook/product/performance-indicators/)
+- [Acquisition velocity](/handbook/product/performance-indicators/)
+- [Acquisition success](/handbook/product/performance-indicators/)
+- [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ## Career Ladder
 

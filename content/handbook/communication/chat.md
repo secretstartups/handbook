@@ -55,12 +55,12 @@ These channels are for teams and GitLab team-members interested in a specific fe
 
 #### Group Channels (g_)
 
-Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](https://about.gitlab.com/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
+Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/handbook/product/categories/#hierarchy) and other [engineering departments and teams](https://about.gitlab.com/handbook/engineering/#engineering-departments--teams).
 
 **Example**
 
-- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](https://about.gitlab.com/handbook/product/categories/#create-stage) development group.
-- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](https://about.gitlab.com/handbook/product/categories/#source-code-group) development group.
+- **[`#g_create`](https://gitlab.slack.com/archives/g_create)**: Channel for the [Create](/handbook/product/categories/#create-stage) development group.
+- **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
 - **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](https://about.gitlab.com/handbook/engineering/development/enablement/systems/geo/).
 
 #### Location Channels (loc_)
@@ -204,8 +204,8 @@ Stage channels (prefixed with `s_`) correspond to stages within sub-departments.
 
 **Examples**
 
-- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage).
-- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](https://about.gitlab.com/handbook/product/categories/#create-stage).
+- **[`#s_enablement`](https://gitlab.slack.com/archives/s_enablement)**: For the [Enablement stage](/handbook/product/categories/#enablement-stage).
+- **[`#s_create`](https://gitlab.slack.com/archives/s_create)**: For the [Create stage](/handbook/product/categories/#create-stage).
 
 #### Sub-Department Channels (sd_)
 

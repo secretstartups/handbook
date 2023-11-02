@@ -73,7 +73,7 @@ The [Growth sub-department](https://about.gitlab.com/handbook/engineering/develo
 
 ### Govern
 
-The [Govern sub-department](https://about.gitlab.com/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](https://about.gitlab.com/handbook/product/categories/#sec-section) section.
+The [Govern sub-department](https://about.gitlab.com/handbook/engineering/development/sec/govern/) contributes to development in the [Sec](/handbook/product/categories/#sec-section) section.
 
 #### Govern Requirements
 

@@ -126,5 +126,5 @@ The People team is not involved in the process for hiring, onboarding, or offboa
 - [Sales team onboarding](https://about.gitlab.com/handbook/sales/onboarding/)
 - [Support team onboarding]({{< ref "/handbook/support/training" >}})
 - [SRE onboarding](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/sre-onboarding/)
-- [Product Designer onboarding](https://about.gitlab.com/handbook/product/ux/product-designer-onboarding/)
-- [UX Researcher onboarding](https://about.gitlab.com/handbook/product/ux/ux-research/)
+- [Product Designer onboarding](/handbook/product/ux/product-designer-onboarding/)
+- [UX Researcher onboarding](/handbook/product/ux/ux-research/)

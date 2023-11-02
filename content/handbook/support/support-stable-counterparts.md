@@ -16,7 +16,7 @@ As a result of our direct interactions with customers, the Support Team occupies
 
 ## How do we align Support Team Members to the Product?
 
-- Development of the product is broken down into [sections, stages and groups; that page](https://about.gitlab.com/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
+- Development of the product is broken down into [sections, stages and groups; that page](/handbook/product/categories/#devops-stages) is the single source of truth about who is performing this role.
 - Each group can have one or more individual contributor counterparts.
 - Each section can have a Support manager counterpart.
 

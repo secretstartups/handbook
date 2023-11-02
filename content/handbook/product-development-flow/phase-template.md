@@ -12,6 +12,7 @@ Label: `~label`
 | Informed | TBD |
 
 #### Description
+
 Phase description...
 <!-- The description should capture the intent of the phase. Why does it exist and what are the basic motions involved with the phase? Be clear and write with brevity. 
 
@@ -33,6 +34,7 @@ DRI = who is responsible for ensuring this outcome is completed (Product Manager
 | Outcome 2 | - Activity 1 <br> - Activity 2 | DRI|
 
 #### Required Outcomes
+
 <kbd class="required">Required 🔎</kbd>
 **Outcome #** - Description of required outcome providing a better understanding of the outcome and any required outputs
 

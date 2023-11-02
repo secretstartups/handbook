@@ -40,8 +40,8 @@ For each finding:
     - Click `Create Issue`
     - Assign [Priority and Severity labels]({{< ref "/handbook/security#severity-and-priority-labels-on-security-issues" >}}) based on the finding rating and the impact on GitLab
     - Assign a [Due Date]({{< ref "/handbook/security#due-date-on-security-issues" >}})
-    - add labels (`/label ~` command) corresponding to the [DevOps stage](https://about.gitlab.com/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
-    - @-mention product manager of appropriate teams for scheduling and/or the engineering managers if additional engineering feedback is required to complete the triage, based on the [product categories page](https://about.gitlab.com/handbook/product/categories/)
+    - add labels (`/label ~` command) corresponding to the [DevOps stage](/handbook/product/categories/#devops-stages) and source group (consult the [Hierarchy](/handbook/product/categories/#hierarchy) for an overview on categories forming the hierarchy)
+    - @-mention product manager of appropriate teams for scheduling and/or the engineering managers if additional engineering feedback is required to complete the triage, based on the [product categories page](/handbook/product/categories/)
         - If an appropriate engineering team is not immediately apparent, ping an Appsec manager for help identifying the owner
 - For an invalid report:
     - Change the status to `Dismissed`

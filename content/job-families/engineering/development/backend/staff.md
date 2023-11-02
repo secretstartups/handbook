@@ -121,7 +121,7 @@ The Distribution Deploy team is involved with diverse projects and tasks that in
 
 Package engineers are focused on creating the binary repository management system that will extend our Continuous Integration (CI) functionality to allow access and management of artifacts manipulated by projects.
 
-By extending the current CI artifacts system, the Package team will expose GitLab as a package repository allowing access to the most common package managers, e.g. Maven and APT and similar. Additionally, the Package team is improving the Container Registry and is responsible for items listed under [Package product category](https://about.gitlab.com/handbook/product/categories/#package).
+By extending the current CI artifacts system, the Package team will expose GitLab as a package repository allowing access to the most common package managers, e.g. Maven and APT and similar. Additionally, the Package team is improving the Container Registry and is responsible for items listed under [Package product category](/handbook/product/categories/#package).
 
 #### Responsibilities
 
@@ -196,7 +196,7 @@ CI/CD Backend Engineers are primarily tasked with improving the Continuous Integ
 
 - Provide value to the user and communicate such with product managers,
 - Introduce features that work at scale and in untrusting environments,
-- Always focus on defining and shipping [the Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#the-minimal-viable-change-mvc).
+- Always focus on defining and shipping [the Minimal Viable Change](/handbook/product/product-principles/#the-minimal-viable-change-mvc).
 
 We, as a team, cover end-to-end integration of CI/CD in GitLab, with components being written in Rails and Go. We work on a scale of processing a few million of CI/CD jobs on GitLab.com monthly. CI/CD engineering is interlaced with a number of teams across GitLab. We build new features by following our [direction](https://about.gitlab.com/direction/#ci--cd). Currently, we focus on providing a deep integration of Kubernetes with GitLab:
 

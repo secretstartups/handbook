@@ -22,7 +22,7 @@ Problem validation research seeks to provide decision makers with a well underst
 
 ### When to use problem validation?
 
-Problem validation happens [earlier on in the product life cycle](https://about.gitlab.com/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-the-right-thingproblem-validation) when we want to get insight into a problem and scope down the focus of a problem.
+Problem validation happens [earlier on in the product life cycle](/handbook/product/ux/ux-research/when-to-conduct-ux-research/#design-the-right-thingproblem-validation) when we want to get insight into a problem and scope down the focus of a problem.
 
 **Foundational research** is done when we don’t have a good understanding of what the problem is we need to solve. Often this occurs at the very beginning of the product design process. The purpose is to formulate a problem to solve and have a decent level of confidence that the problem is a relevant one.
 

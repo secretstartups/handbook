@@ -27,8 +27,8 @@ with fullstack teams (frontend, backend, and fullstack engineers), and/or Engine
 - Generate and implement process improvements, especially cross-team processes
 - Hold regular [1:1s](/handbook/leadership/1-1/) with team members and [skip-level](/handbook/leadership/skip-levels/) 1:1s with indirect reports
 - Provide management mentorship
-- Enable [quad planning team](https://about.gitlab.com/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/handbook/company/team/structure/#product-groups)
-- Enable [Product](https://about.gitlab.com/handbook/product/performance-indicators/), [Quality](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/), and [UX](https://about.gitlab.com/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
+- Enable [quad planning team](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris) [collaboration](/handbook/values/#collaboration) within [product groups](/handbook/company/team/structure/#product-groups)
+- Enable [Product](/handbook/product/performance-indicators/), [Quality](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/product/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 - Contribute to the sense of psychological safety of multiple teams.
 - Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 - Draft quarterly [OKRs](/handbook/company/okrs/) and [Engineering KPIs](https://about.gitlab.com/handbook/engineering/performance-indicators/#key-performance-indicators)

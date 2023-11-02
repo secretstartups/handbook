@@ -44,7 +44,7 @@ We work closely with the community, and our stable counterparts Product Managers
 * [Technical Writing](/handbook/product/ux/technical-writing/workflow/)
 * [Product Designer](/handbook/product/ux/product-designer/)
 * [Product Design Manager workflows](/handbook/product/ux/product-design/product-design-manager.html)
-* [Cross-functional Prioritization](https://about.gitlab.com/handbook/product/cross-functional-prioritization/)
+* [Cross-functional Prioritization](/handbook/product/cross-functional-prioritization/)
 
 ### Headcount planning
 

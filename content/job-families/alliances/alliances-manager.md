@@ -132,7 +132,7 @@ The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-r
 
 - $ derived from GitLab + Technology partner joint customers
 - Size of Partner Practices - skilled, certified consultants and deliver resources
-- [SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners.  This person has the wherewithall to drive revenue derived from the largest of Clouds to the smallest of ISVs
+- [SMAU](/handbook/product/performance-indicators/#stage-monthly-active-users-smau) deal acceleration by stage or # seats in named enterprise accounts with assistance of the partners.  This person has the wherewithall to drive revenue derived from the largest of Clouds to the smallest of ISVs
 
 ## Career Ladder
 
