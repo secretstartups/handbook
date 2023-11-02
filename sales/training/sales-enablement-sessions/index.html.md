@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Nov 2 | DORA Metrics in GitLab | Sander B. |
 | Nov 6 | Sales Ops Update: ASM Clari Best Practices | Clari Team |
 | Nov 9 | Sales Ops Update: AE Clari Best Practices | Clari Team |
 | Nov 16 | Competitive Update  | Joe K. |
@@ -46,6 +45,7 @@ To see what training is coming soon, view the [Field Enablement Spotlight issue 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2023-11-02 | **[How to Implement DORA Metrics in GitLab](https://drive.google.com/file/d/1XDqR6peiMYIBs-jdNuvXaz4WlTVqJsTU/view?usp=drive_link)** | Private |
 | 2023-10-19 | **[Pitching GitLab and the Top 10 Reasons Why](https://drive.google.com/file/d/1Mod-ZvWgt85gg55JQke0H1OmGlGm-0sp/view?usp=share_link)**  | Private |
 | 2023-10-12 | **[Analyst Relations - New Gartner & Forrester Security Reports](https://drive.google.com/file/d/1eHc9R-hOtnUT9KNB0oGMTi5mANZGLDKd/view?usp=drive_link)**  | Private |
 | 2023-09-28 | **[Value Framework Refresh Overview](https://drive.google.com/file/d/1AtxF67rCbGiCc8CqoFsp1D7WZG0Zrnnu/view?usp=drive_link)**  | Private |
@@ -214,7 +214,7 @@ You can [fill out an access request](/handbook/business-technology/team-member-e
 
 There are a few places to see previous Sales Enablement sessions:
 
-- The latest, most relevant sessions are highlighted within the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6480e56aff37cbf397ac752f?lfrm=srp.6) page in Highspot.
+- The latest, most relevant sessions are highlighted within the [Field Enablement Spotlight: Continuous Education at GitLab](https://gitlab.highspot.com/items/6543ce4214eff9c9b102378a) page in Highspot.
 - [Sales enablement Youtube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrirMKe3CyWl4ZBCKna5rJX) on GitLab Unfiltered YouTube
 - [Sales enablement Youtube playlist](https://www.YouTube.com/watch?v=ZyyBq3_rzJo&list=PLFGfElNsQthYe-_LZdge1SVc1XEM1bQfG) on GitLab YouTube
 - Historical sessions that were recorded in Google drive can be accessed via this [deprecated spreadsheet](https://docs.google.com/spreadsheets/d/1ETY7FfCzb2q9h2EkYttlW_Qpl7IHUF-F2rOJG2W03Yk/edit#gid=0)
