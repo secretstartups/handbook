@@ -112,6 +112,7 @@ Pointing you to this handbook page serves as our mechanism to provide the requir
 ### New York
 
 - [Unemployment Insurance Record of Employment IA 12.3](https://dol.ny.gov/system/files/documents/2021/02/ia12_3.pdf)
+- [Unemployment Assistance NY State site](https://www.ny.gov/services/unemployment-0)
 
 ### Pennsylvania
 
