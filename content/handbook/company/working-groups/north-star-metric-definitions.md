@@ -75,7 +75,7 @@ Note that these goals are aspirational so we set a high bar (and potentially ach
 | Opportunity canvas and defining outcomes      | Jackie Porter, Mike Flouton        | Product Management - CI                                                  |
 | Opportunity canvas and defining outcomes      | Hillary Benson, Sam White, Sarah Waldner | Product Management - Compliance                                   |
 | Opportunity canvas and defining outcomes      | Hillary Benson, Sarah Waldner, Sam White | Product Management - Security                                     |
-| Instrument New Metrics                        | Jackie Porter, Sam White, Sam Kerr | Product Management - CI, Security, Compliance, Analytics Instrumentation |
+| Instrument New Metrics                        | Jackie Porter, Sam White, Sam Kerr, Sarah Waldner | Product Management - CI, Security, Compliance, Analytics Instrumentation |
 | Defining North Star Metrics in the Hanbook    | Israel Weeks                       | Enterprise Data                                                          |
 | Build and publish certified Tableau dashboard | Naheil McAvinue                    | Enterprise Data                                                          |
 | Build dbt data models                         | Israel Weeks                       | Enterprise Data                                                          |
