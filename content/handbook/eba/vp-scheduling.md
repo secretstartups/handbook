@@ -65,7 +65,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
   - Subject of the meeting
   - Provide context: include agenda to be covered, share google doc if available, include a link to any relevant issues, slides, etc.
 
-## Scheduling for Product Leadership 
+## Scheduling for Product Leadership
 
 **Mike Flouton, VP of Product Management - Justin Farris, Sr Director of Product Management - Hillary Benson, Sr Director of Product Management**
 
