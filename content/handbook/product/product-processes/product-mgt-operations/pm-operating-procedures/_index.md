@@ -1,32 +1,25 @@
 ---
-
 title: Product Management Procedures
 description: >-
   As a Product Organization, we work to create a flexible yet concise product
   development framework for developing products that customers love and value.
 ---
 
+## Product Management Operations
 
-
-
-
-
-
-## Product Management Operations  
-
-This page details the meetings and working relationships. 
+This page details the meetings and working relationships.
 
 ### Team Meetings
 
-Below you'll find overviews for team meetings designed to boost Product team knowledge, communication, and collaboration. Our goal is to have minimal but valuable sync meetings for the Product team. All sync Product team meetings are required to have agendas and recordings that support async collaboration. We encourage any Product team member to propose a new meeting or the re-design of an existing meeting to help drive or improve collaboration amongst the Product team in an effort to drive more product value for our users. 
+Below you'll find overviews for team meetings designed to boost Product team knowledge, communication, and collaboration. Our goal is to have minimal but valuable sync meetings for the Product team. All sync Product team meetings are required to have agendas and recordings that support async collaboration. We encourage any Product team member to propose a new meeting or the re-design of an existing meeting to help drive or improve collaboration amongst the Product team in an effort to drive more product value for our users.
 
 #### Adding or revising Product team meetings
 
-To ensure transparency and alignment on the design and frequency of team meetings requiring time commitment from the entire or broader Product team, please raise an MR on this page, requesting review and collaboration from Product Operations, the CPO and any other DRIs noted for the meeting. Product Operations should be always be included to review the addition of new or major revision of existing team meetings because they monitor the overall flow, productivity and satisfaction of all Product team meetings. "Broader" Product team refers to meetings that affect team members across Sections, Stages, and Groups on a regular cadence. For example, if a meeting is proposed that requires the participation of **all** Group Product Managers on the Product team **every month**. 
+To ensure transparency and alignment on the design and frequency of team meetings requiring time commitment from the entire or broader Product team, please raise an MR on this page, requesting review and collaboration from Product Operations, the CPO and any other DRIs noted for the meeting. Product Operations should be always be included to review the addition of new or major revision of existing team meetings because they monitor the overall flow, productivity and satisfaction of all Product team meetings. "Broader" Product team refers to meetings that affect team members across Sections, Stages, and Groups on a regular cadence. For example, if a meeting is proposed that requires the participation of **all** Group Product Managers on the Product team **every month**.
 
-The intent of this review and collaboration workflow is not to "block" but to help ensure team meetings compliment and flow well together, taking into consideration the following: 
+The intent of this review and collaboration workflow is not to "block" but to help ensure team meetings compliment and flow well together, taking into consideration the following:
 
-- the existing macro Product team workflow 
+- the existing macro Product team workflow
 - non-duplication of existing sync or async meetings
 - support from Product Operations for successful rollout to and adoption by the Product team
 
@@ -63,36 +56,36 @@ Non-public items for discussion should be added directly to the [agenda document
 **DRI:** Appropriate [Product Section](/handbook/product/categories) Leader & [Senior Director, Product Monetization](/company/team/#justinfarris)
 
 - **What:** A monthly meeting for [Product  Sections](/handbook/product/categories/#devops-stages) to provide updates on  Performance Indicators, inclusive of their Stages and Groups and the cross-functional team. The main deliverable from the team is for each group to clearly show what they are doing in the next month to drive their metrics in the right direction.
-- **When:** During the last two weeks of every month 
+- **When:** During the last two weeks of every month
 - **Duration:** 50 minutes
 - **Format:** The meeting is lead by the Section Leader
-     - All data reviewed will be published on the Section's PI page in the internal handbook ([example](https://internal.gitlab.com/handbook/company/performance-indicators/product/fulfillment-section/). Sections may optionally provide supporting slides. 
+     - All data reviewed will be published on the Section's PI page in the internal handbook ([example](https://internal.gitlab.com/handbook/company/performance-indicators/product/fulfillment-section/). Sections may optionally provide supporting slides.
      - Content will focus on the following areas:
      1. Development - Error Budgets, Past Due Security/InfraDev Issues (S1/S2)
      2. Quality - Past Due Bugs (S1/S2)
      3. UX - Past Due SUS Impacting Issues (S1/S2)
      4. Product - XMAU, XFN Prioritization
 - **Recordings:** Each meeting will be recorded, and published so participants can engage async. The meetings have [REC] in the title and will automatically go to the [Google Drive Folder](https://drive.google.com/drive/search?q=type:video%20Performance%20Indicator). If you cannot find a recording, please message the EBA to the Product Division.
-- **Preparation:** Section Leaders will provide the content at least 2 business days in advance of their review by posting a link to the updated PI pages and slides (optional) in the meeting agenda to allow ample time for meeting participants to review in advance. The Chief Product Officer may not attend the sync meeting but will always review async. 
-- **Meeting Attendees** 
+- **Preparation:** Section Leaders will provide the content at least 2 business days in advance of their review by posting a link to the updated PI pages and slides (optional) in the meeting agenda to allow ample time for meeting participants to review in advance. The Chief Product Officer may not attend the sync meeting but will always review async.
+- **Meeting Attendees**
 - The following participants will be included in the sync meeting from each group (attendance can be async):
    1. Engineering Managers or Sr Engineering Manager / Director for the stage
    2. Product Design Manager(s) for the Stage
    3. Quality Engineering Manager for the Stage
-   4. Group Manager, Product for the Stage 
+   4. Group Manager, Product for the Stage
    5. Product Manager for the Group
 - All Sections  will leverage and personalize this [template](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/section-PI-review-monthly-template.md)
-- All Sections will leverage and personalize this [agenda template](https://docs.google.com/document/d/1hKGU8hN_SpudlV-SnCu821EmMwgLVppJsXZmY4Gom4A/edit). 
+- All Sections will leverage and personalize this [agenda template](https://docs.google.com/document/d/1hKGU8hN_SpudlV-SnCu821EmMwgLVppJsXZmY4Gom4A/edit).
 
-#### Product Direction Showcases 
+#### Product Direction Showcases
 **DRIs:** [Director, Verify & Package](/company/team/#jreporter) and [Product Operations](/company/team/#fseifoddini)
 
-- **What:** A monthly meeting for 4 stages to present 10-minutes on their direction as well as provide a deep dive or demo into a recent product delivery. 
-- **When:** Monthly, rotating between EMEA and NA Timezone 
+- **What:** A monthly meeting for 4 stages to present 10-minutes on their direction as well as provide a deep dive or demo into a recent product delivery.
+- **When:** Monthly, rotating between EMEA and NA Timezone
 - **Duration:** 50 minutes
-- **Format:** The meeting is lead by the Group Manager of the Stage. 
+- **Format:** The meeting is lead by the Group Manager of the Stage.
 - **Recordings:** The meetings have [REC] in the title and will automatically go to the [Google Drive Folder](https://drive.google.com/drive/search?q=type:video%20Product%20Direction%20Showcase). If you cannot find a recording, please message the EBA to the Product Organization.
-- **Preparation:** A monthly issue will get created and 2 weeks before meeting Stage leaders will populate their place in the meeting and will provide a link to a deck or direction page that will be reviewed for their timeslot. 
+- **Preparation:** A monthly issue will get created and 2 weeks before meeting Stage leaders will populate their place in the meeting and will provide a link to a deck or direction page that will be reviewed for their timeslot.
 
 ### Kickoff meetings
 
@@ -121,17 +114,17 @@ We call this the [Product Group](/company/team/structure/#product-groups) model.
 
 The Product Group can be used to facilitate a [global optimization](/handbook/values/#global-optimization), including product-wide [technical debt](/handbook/engineering/workflow/#technical-debt).
 
-### Working with Product Management across the company 
+### Working with Product Management across the company
 
 There are many counterparts that PMs work with. Here are some best practices for working across the organization.
 
-#### Working with Finance Business Partners 
+#### Working with Finance Business Partners
 
-In some cases, Product Managers may have items that incur expenses toward the budget. These can be related to external vendors for research, contractors for development staffing, and infrastructure. The CProdO is the DRI for the product budget and all changes or requests for budget spend must be approved through them. 
+In some cases, Product Managers may have items that incur expenses toward the budget. These can be related to external vendors for research, contractors for development staffing, and infrastructure. The CProdO is the DRI for the product budget and all changes or requests for budget spend must be approved through them.
 
-To request a forward-looking new budget item, open an issue in the Product project using the [Product Budget Request Template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Product-Budget-Request.md) and assign it to the CProdO and manager. Budgets are planned annually and quarterly, so approval may not be immediately given because it depends on the timing of budget planning. The CProdO will bring the budget request to the next budget planning session with Finance. 
+To request a forward-looking new budget item, open an issue in the Product project using the [Product Budget Request Template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Product-Budget-Request.md) and assign it to the CProdO and manager. Budgets are planned annually and quarterly, so approval may not be immediately given because it depends on the timing of budget planning. The CProdO will bring the budget request to the next budget planning session with Finance.
 
-To request approval for an increase in the expected spend for a pre-existing item, open an issue in the Product project using the [Product Budget Request Template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Product-Budget-Request.md) assign to the CProdO and tag your manager. The CProdO will review, approve or decline the budget change. The CProdO will then notify the Finance Business Partner of changes for forecast updates. 
+To request approval for an increase in the expected spend for a pre-existing item, open an issue in the Product project using the [Product Budget Request Template](https://gitlab.com/gitlab-com/Product/-/tree/main/.gitlab/issue_templates/Product-Budget-Request.md) assign to the CProdO and tag your manager. The CProdO will review, approve or decline the budget change. The CProdO will then notify the Finance Business Partner of changes for forecast updates.
 
 ### Working with Content Marketing
 
@@ -151,11 +144,11 @@ In general, you should:
 - proactively reach out for input when contemplating new features
 - involve PMM as early as possible with work on important changes
 
-<%= partial "includes/usecase-competitive-content.md" %>
+{{% include "includes/usecase-competitive-content.md" %}}
 
-### Working with marketing 
+### Working with marketing
 
-When working on the release of larger features or new capabilities, it is important the product manager consider various aspects of the go to market plan and  inform or partner with the appropriate stable counterparts for strategic and logistical considerations. 
+When working on the release of larger features or new capabilities, it is important the product manager consider various aspects of the go to market plan and  inform or partner with the appropriate stable counterparts for strategic and logistical considerations.
 
 #### Marketing materials
 
@@ -200,15 +193,15 @@ It's important to remember that User Experience (UX) does not only relate to vis
 
 ##### Assessing user workflows
 
-As the GitLab product matures, we know we must make important workflows easier to use through feedback-loop mechanisms as is captured in the "Improve" section of the [Product Development Flow](/handbook/product-development-flow/#outcomes-and-activities-7). We can use the [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/) and [UX scorecards](/handbook/product/ux/ux-scorecards/) as mechanisms to provide insights into how might be able to improve these user workflows. 
+As the GitLab product matures, we know we must make important workflows easier to use through feedback-loop mechanisms as is captured in the "Improve" section of the [Product Development Flow](/handbook/product-development-flow/#outcomes-and-activities-7). We can use the [Category Maturity Scorecards](/handbook/product/ux/category-maturity/category-maturity-scorecards/) and [UX scorecards](/handbook/product/ux/ux-scorecards/) as mechanisms to provide insights into how might be able to improve these user workflows.
 
 ##### What if there is a conflict with the product direction plan and solution proposal?
 
-For areas with minimal maturity, or low/internal-only adoption, iteration and quickly adapting the product is the priority. In cases where the product experience desired would take longer to implement than required for the current maturity stage, it is advised the Product Manager work with the Product Designer and/or Engineering Manager to scope an iteration plan to ensure the experience is delivered incrementally over time to provide value quickly with quality. 
+For areas with minimal maturity, or low/internal-only adoption, iteration and quickly adapting the product is the priority. In cases where the product experience desired would take longer to implement than required for the current maturity stage, it is advised the Product Manager work with the Product Designer and/or Engineering Manager to scope an iteration plan to ensure the experience is delivered incrementally over time to provide value quickly with quality.
 
 For areas with more adoption, or beyond viable maturity, we recommend using the below escalation path if there is a disagreement on the approach to solve for the product direction and experience for users/customers.
 
-As a team, there may be cases where a proposal exceeds the expected time to market to achieve the optimal customer experience. As this impacts potential business results, product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) of the decision. 
+As a team, there may be cases where a proposal exceeds the expected time to market to achieve the optimal customer experience. As this impacts potential business results, product managers are the [DRIs](/handbook/people-group/directly-responsible-individuals/) of the decision.
 
 As DRIs, it is important to consider the input from other team members and to know when to trust in their experience and judgment. It is advised to use an [opportunity canvas lite](/handbook/product/product-processes/#opportunity-canvas-lite). The PM is expected to compile the canvas lite with inputs from the Product Designer and/or Engineering Manager. The PM then makes a decision after weighing input from the product designer and engineering, as appropriate. The PM should then share the decision, articulating the costs of waiting, and shipping earlier with less polish, as well as why no smaller iteration exists as part of this decision.
 
@@ -224,17 +217,17 @@ Results are the most important aspect to consider for the business and our users
 
 Product Designer assignments are listed in the team.yml file. Unfortunately, we are currently unable to assign a dedicated Product Designer for every group. Instead, Product Designers are assigned to the areas of highest business priority and will continue to provide focused support to those priorities throughout the year. Due to the limited capacity, we are also not able to do UX reviews on MRs for groups without a designer.
 
-If there isn't a designer listed for a group, then that team is expected to be self-sufficient in taking responsibility for the design needs of their product area. Product Design does not have the capacity to review complex proposed design solutions or provide design solutions for unsupported groups. 
+If there isn't a designer listed for a group, then that team is expected to be self-sufficient in taking responsibility for the design needs of their product area. Product Design does not have the capacity to review complex proposed design solutions or provide design solutions for unsupported groups.
 
 If you have questions or need support you can do so in the following ways:
-- PMs who need to create designs can request access to Figma by creating an Access Request issue.     
+- PMs who need to create designs can request access to Figma by creating an Access Request issue.
 - Review and follow the [Pajamas guidelines](https://design.gitlab.com/).
 - If you have a small design question, or the Pajamas guidance is not clear, reach out via the `#ux` or `#ux_coworking` Slack channel.
-- If you have a Community Contribution MR that needs a design review, follow the process for [MR Reviews for Groups without a Designer](/handbook/product/ux/product-designer/mr-reviews/#what-if-a-team-doesnt-have-a-designer). 
+- If you have a Community Contribution MR that needs a design review, follow the process for [MR Reviews for Groups without a Designer](/handbook/product/ux/product-designer/mr-reviews/#what-if-a-team-doesnt-have-a-designer).
 
-### Working with Product Management external to the company 
+### Working with Product Management external to the company
 
-Here are some practices for how PMs work with groups outside of GitLab. 
+Here are some practices for how PMs work with groups outside of GitLab.
 
 #### Working with community contributors
 
@@ -245,13 +238,13 @@ part of the product direction.
 To support contributions product managers may consider the following guidelines:
 
 1. Aim to review and respond to community contributions within 4 working days- see [review response SLO](https://about.gitlab.com/handbook/engineering/workflow/code-review/#review-response-slo).
-   Contributions for well-defined `~direction` or `%Backlog` issues will be prioritised. 
+   Contributions for well-defined `~direction` or `%Backlog` issues will be prioritised.
 1. For contributions that impact user experience, following the [contribution guidelines](https://about.gitlab.com/community/contribute/),
-   the Product Designer for the group should review the MR and provide feedback on the MR. 
+   the Product Designer for the group should review the MR and provide feedback on the MR.
 1. For contributions that are for features we do not want in the product (either because
    of conflicts with our product direction, poor UX, maintenance concerns, or security reasons)
    the Product Manager should review the MR and provide feedback on the MR so the contributor
-   understands this feature is not being accepted by GitLab. 
+   understands this feature is not being accepted by GitLab.
 1. If not involved earlier, tag the PM of the group reviewing the MR before merging the MR.
    This is to ensure that the PM stays informed about changes affecting their area and to
    allow them communicate the change via a release post, if necessary.

@@ -1,26 +1,18 @@
 ---
-
 title: "Verify Product Group"
 description: "The Verify Product Group wants to increase sharing, findability, and encourage bias for async communication."
 ---
 
-
-
-
-
-
-
 ### Verify
-{: #welcome}
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/9iF9zWAxdH0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
-### Intent of this page 
+### Intent of this page
 
-The Verify Product Group wants to increase [sharing](/handbook/values/#share), [findability](/handbook/values/#findability), and encourage [bias for async communication](/handbook/values/#bias-towards-asynchronous-communication). We will use this handbook page as forum for showcasing our team processes while also providing an opportunity to encourage a open discussion between team members on our processes for retrospective. 
+The Verify Product Group wants to increase [sharing](/handbook/values/#share), [findability](/handbook/values/#findability), and encourage [bias for async communication](/handbook/values/#bias-towards-asynchronous-communication). We will use this handbook page as forum for showcasing our team processes while also providing an opportunity to encourage a open discussion between team members on our processes for retrospective.
 
 ### Where can I reach you?
 
@@ -35,9 +27,9 @@ Verify teams:
 - [Verify:Runner](/handbook/engineering/development/ops/verify/runner/)
 - [Verify:Pipeline Security](/handbook/engineering/development/ops/verify/pipeline-security/)
 
-### What do y'all do? 
+### What do y'all do?
 
-The purpose of this product group are described by the [Verify stage direction](/direction/ops/#verify). This is inclusive, though not limited to, the pipeline experience, creating or authoring .gitlab-ci.yml files, executing jobs in a pipeline, and various testing capabilties in CI/CD.  
+The purpose of this product group are described by the [Verify stage direction](/direction/ops/#verify). This is inclusive, though not limited to, the pipeline experience, creating or authoring .gitlab-ci.yml files, executing jobs in a pipeline, and various testing capabilties in CI/CD.
 
 ![Verify Banner](verify_groups_banner.jpg)
 
@@ -63,68 +55,68 @@ The noted DRI still owns decision-making and is still responsible for notifying/
 
 We work in a Kanban-style aligning with Milestones and [GitLab's Product Development Flow](/handbook/product-development-flow/).
 
-### Cross-Functional Partnership 
+### Cross-Functional Partnership
 
-We work across other teams often and are striving to get better at engaging with others. If you are interested in being a part of this dialogue - drop a line our #s_verify slack group! 
+We work across other teams often and are striving to get better at engaging with others. If you are interested in being a part of this dialogue - drop a line our #s_verify slack group!
 
-#### Product Marketing Enagement 
+#### Product Marketing Enagement
 
 We partner really closely with [Product Marketing Management](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/). In the Verify Stage, we have a stable counterpart assigned, as defined in the [PMM Team Structure](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/core-product-marketing/#pmm-team-structure), which aligns to the [CI Use Case](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/usecase-gtm/ci/).
 
-We have four main processes: 
+We have four main processes:
 
-1. Semi-annual Stage-wide GTM & Strategy Positioning 
-1. Quarterly Sales Enablement 
-1. Quarterly Roadmap Alignment for Product Groups 
-1. Monthly Release Post and Market Positioning for Product Groups 
+1. Semi-annual Stage-wide GTM & Strategy Positioning
+1. Quarterly Sales Enablement
+1. Quarterly Roadmap Alignment for Product Groups
+1. Monthly Release Post and Market Positioning for Product Groups
 
-##### Stage-wide GTM & Strategy Positioning 
+##### Stage-wide GTM & Strategy Positioning
 
-* **Frequency**: Twice a year 
-* **Audience**: Internal 
-* **Assets Produced**: Deck, Recording, and Issue Boards 
-* **Goal**:  Deliver a 30-minute recording that aligns the half-year product strategy of the stage with the GTM sales motion and competitive landscape. Include any assets that will be helpful to sales teams for pitches and product managers for early selling in prospect calls. 
+* **Frequency**: Twice a year
+* **Audience**: Internal
+* **Assets Produced**: Deck, Recording, and Issue Boards
+* **Goal**:  Deliver a 30-minute recording that aligns the half-year product strategy of the stage with the GTM sales motion and competitive landscape. Include any assets that will be helpful to sales teams for pitches and product managers for early selling in prospect calls.
 
 We recently conducted our first joint stage-wide PMM and Product Positioning for F[Y22 1H](https://youtu.be/B03ke3WlnaE), alongside a [deck](https://docs.google.com/presentation/d/1K0QXBtW48UbG7uQMaTa83X99RIbDXuY0tFYynSyuSGo/edit).
 
-##### Sales Enablement 
+##### Sales Enablement
 
 * **Frequency**: Quarterly
-* **Audience**: Internal 
+* **Audience**: Internal
 * **Assets Produced**: Deck and Recording
-* **Goal**:  Deliver 10-30 minute recordings on various product topics for use in field enablement. 
+* **Goal**:  Deliver 10-30 minute recordings on various product topics for use in field enablement.
 
-We recently participated in a discussion of building the bench for technical topics via [cs-skill#116](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/116). These types of sessions would then be used in partnership with PMM to help build compelling stories for the Field. 
+We recently participated in a discussion of building the bench for technical topics via [cs-skill#116](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/116). These types of sessions would then be used in partnership with PMM to help build compelling stories for the Field.
 
-##### Roadmap Alignment for Product Group 
+##### Roadmap Alignment for Product Group
 
 * **Frequency**: Quarterly
 * **Audience**: External
 * **Assets Produced**: Recording
-* **Goal**:  Deliver 10-30 minute recordings on various product topics for use in webinars, partner calls, or whitepapers. 
+* **Goal**:  Deliver 10-30 minute recordings on various product topics for use in webinars, partner calls, or whitepapers.
 
-These are intended to help guide themes and present opportunities to build stories in the market and not commitments, otherwise, these would be scheduled for a milestone. 
+These are intended to help guide themes and present opportunities to build stories in the market and not commitments, otherwise, these would be scheduled for a milestone.
 
 ##### Release Post & Market Postioning for Features
 
 * **Frequency**: Monthly
-* **Audience**: External 
-* **Assets Produced**: Copy/text 
+* **Audience**: External
+* **Assets Produced**: Copy/text
 * **Goal**:  Deliver written communication in Merge Requests with Product Manager in the Release Post Items or blog posts.
 
 We sometimes ship feature specific blog posts such as [Moving CI to Lovable...again](https://about.gitlab.com/blog/2021/02/22/continuously-improving-ci-lovability/) or this expose on [the Pipeline Editor](https://about.gitlab.com/blog/2021/02/22/pipeline-editor-overview/). These are great opportunities to include PMM alongside the [Release Post review and positioning](https://about.gitlab.com/handbook/marketing/blog/release-posts/#pmm-reviewers).
 
-#### Customer Success & Renewal Engagement 
+#### Customer Success & Renewal Engagement
 
 We have a CS <> Product feedback loop for Customer Success (SA/CSM) and Product Managers to sync on product feedback from prospects and customers. On a monthly cadence, we meet to discuss problems to solve as captured in issues created in the [cs-product-feedback ](https://gitlab.com/gitlab-com/cs-product-feedback) project and consolidated on this [issue board](https://gitlab.com/gitlab-com/cs-product-feedback/-/boards).
 
 #### Alliances Engagement
 
-More details to come 
+More details to come
 
-### Community Contributions 
+### Community Contributions
 
-We want to encourage and support our open source community as nuch as possible. We have two measures of success: 
+We want to encourage and support our open source community as nuch as possible. We have two measures of success:
 
 1. Merged MRs from the community in the [Verify Stage](https://gitlab.com/groups/gitlab-org/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&label_name[]=devops%3A%3Averify&label_name[]=Community%20contribution)
 1. [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)

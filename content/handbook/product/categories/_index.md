@@ -1,14 +1,6 @@
 ---
-
 title: Product sections, stages, groups, and categories
 ---
-
-
-
-
-
-
-
 
 {{% include "includes/product-handbook-links.md" %}}
 
@@ -158,16 +150,16 @@ it's also an expensive add and we don't create groups just for a cleaner
 hierarchy; it has to be justified from a [span-of-control](/company/team/structure/#management-group)
 perspective or limits to what one product manager can handle.
 
-### Category Statuses 
+### Category Statuses
 
-Categories can have varying level of investment and development work. There are four main investment statuses: 
+Categories can have varying level of investment and development work. There are four main investment statuses:
 
 1. Accelerated - Top category for product strategy that has received additional investment in the next year
 1. Sustained - Categories where new features will be added in the next year
 1. Reduced - Categories where scope and ambition is decreased although, new features will still be added in the next year
-1. Maintenance - Categories where no new features will added 
+1. Maintenance - Categories where no new features will added
 
-Typically, product direction pages will transparently state the investment status of the category for the fiscal year based on annual product themes and investment levels. 
+Typically, product direction pages will transparently state the investment status of the category for the fiscal year based on annual product themes and investment levels.
 
 ## Changes
 
@@ -209,7 +201,7 @@ This is to ensure that [GitLab Bot auto-labeling](/handbook/engineering/quality/
 
 Upon approval, tag the group Technical Writer in the merge request to ensure [documentation metadata](https://docs.gitlab.com/ee/development/documentation/#stage-and-group-metadata) is updated after the category change is merged.
 
-Ensure that relevant slack channels are updated following our [slack channel naming convention](https://handbook.gitlab.com/handbook/communication/chat/#channel-categories), open an [access request](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to have slack channel names updated as they can no longer be updated by creators. 
+Ensure that relevant slack channels are updated following our [slack channel naming convention](https://handbook.gitlab.com/handbook/communication/chat/#channel-categories), open an [access request](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/) to have slack channel names updated as they can no longer be updated by creators.
 
 ### Examples
 
@@ -249,7 +241,7 @@ When changing the name of a group, make sure to go through the following steps:
 When changing an existing category name, there are some considerations to the order of events:
 
 - First, create a MR to change the name in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml) and `spec/homepage/category_spec.rb`.
-- Get sign off from all required stakeholders listed in the instructions above. 
+- Get sign off from all required stakeholders listed in the instructions above.
 - Merge the name change MR.
 - Tag the category's technical writer so that they can update the documentation metadata
 - Re-name the category [direction page](https://about.gitlab.com/direction/) with a new MR. Search for the old category name on the category direction page to ensure the name has been updated in all places.
@@ -271,11 +263,13 @@ When downgrading product maturity, we adjust our customer's current expectations
 
 ## DevOps Stages
 
-<%= devops_diagram(["All"]) %>
+<!-- <%= devops_diagram(["All"]) %> -->
+![Dev Ops Diagram](devops-diagram.svg)
 
-<%= partial("includes/product/categories") %>
+<!-- Short code in progress -->
+<!--{{%/* categories */%}}-->
 
-<%= partial("includes/product/categories-names") %>
+<!-- <%= partial("includes/product/categories-names") %> -->
 
 ## Possible future Stages
 
@@ -372,11 +366,11 @@ If you encounter an issue falling into a facilitated area:
 
 ### Shared responsibility functionality
 
-There are certain product capabilities that are foundational in nature and affect or refer to horizontal components of the architecture that have an impact across functional groups and stages. 
+There are certain product capabilities that are foundational in nature and affect or refer to horizontal components of the architecture that have an impact across functional groups and stages.
 
-These capabilities may refer to "Facilitated Functionality" (see section above) where the mental models are owned by a particular group, while anyone can contribute. However, there may be others that will not have a clear owner because they don’t fall squarely into any particular group’s purview of product categories. Prime examples of this are issues related to the improvement or evolution of foundational components, frameworks and libraries that are used by several or all groups across the organization. Another example could be components created by special task groups in the past that have been since dissolved and that have not required continued development to justify the funding of a dedicated permanent group to maintain them. 
+These capabilities may refer to "Facilitated Functionality" (see section above) where the mental models are owned by a particular group, while anyone can contribute. However, there may be others that will not have a clear owner because they don’t fall squarely into any particular group’s purview of product categories. Prime examples of this are issues related to the improvement or evolution of foundational components, frameworks and libraries that are used by several or all groups across the organization. Another example could be components created by special task groups in the past that have been since dissolved and that have not required continued development to justify the funding of a dedicated permanent group to maintain them.
 
-Whatever the source of the functionality, rather than thinking of these components as "not having an owner", it is important to think of them as being owned by everyone through the lens of shared responsibility. "Shared responsibility" means that every group should be committed and responsible to **contribute** to their continued maintenance, improvement and innovation. 
+Whatever the source of the functionality, rather than thinking of these components as "not having an owner", it is important to think of them as being owned by everyone through the lens of shared responsibility. "Shared responsibility" means that every group should be committed and responsible to **contribute** to their continued maintenance, improvement and innovation.
 
 **Contribution**, in this context, may manifest in different ways:
 
@@ -385,9 +379,9 @@ Whatever the source of the functionality, rather than thinking of these componen
 - Technical scoping and feasibility analysis for possible technical and architectural approaches to implementation
 - Actual implementation and release activities
 
-It does not mean, however, that a single group should necessarily be solely responsible for all of these activities. Multiple groups could end up collaborating in execution. This coordination however requires a careful triage of the shared responsibility issues in the issue tracker where a single [DRI](/handbook/people-group/directly-responsible-individuals/) coordinates these activities. 
+It does not mean, however, that a single group should necessarily be solely responsible for all of these activities. Multiple groups could end up collaborating in execution. This coordination however requires a careful triage of the shared responsibility issues in the issue tracker where a single [DRI](/handbook/people-group/directly-responsible-individuals/) coordinates these activities.
 
-For more information please review [this section in the quality department handbook](/handbook/engineering/quality/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues. 
+For more information please review [this section in the quality department handbook](/handbook/engineering/quality/issue-triage/#shared-responsibility-issues) to learn more about a decentralized approach to triaging these types of issues.
 
 
 <%= partial("includes/product/categories_index") %>
