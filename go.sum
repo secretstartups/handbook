@@ -20,3 +20,5 @@ gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.11 h1:Zsa6GMaC1hRSBe5TWk8C
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.11/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.12 h1:tWqd3IRi6iANcrKimh+F/arsziOWwxRtukqKK+6kJCo=
 gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.2.12/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.0 h1:eMiv0Rj5+3mC9HldMKpbxhLgCTWElAnRBM5C/rmHjqs=
+gitlab.com/gitlab-com/content-sites/docsy-gitlab v0.3.0/go.mod h1:XSbeHClNun1w/mhjfsLDl0OMSEUtib6dC4Jq3ot8UKQ=
