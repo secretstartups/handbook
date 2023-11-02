@@ -27,14 +27,25 @@ The [deployments and releases page](/handbook/engineering/deployments-and-releas
 
 The `monthly self-managed release` timelines are concentrated around the [release date](/handbook/engineering/releases/).
 
-Monthly self-managed release preparation steps
-1. In the days leading up to the [release date](/handbook/engineering/releases/), the [release managers](https://about.gitlab.com/community/release-managers/) will post announcements in
-[#releases], [#development](https://gitlab.slack.com/archives/C02PF508L),
-[#backend](https://gitlab.slack.com/archives/C8HG8D9MY), and [#frontend](https://gitlab.slack.com/archives/C0GQHHPGW) to update on candidate and guaranteed commits for the release. Only changes that have successfully run on GitLab.com can be considered for self-managed releases. This means that the availability and stability of GitLab.com deployments will determine the cutoff date for inclusion in the release 
-2. Following a successful deployment to GitLab.com a stable branch is created for the targeted [semver] version with a stable suffix, eg. ```12-3-stable``` and a test release candidate (RC) is tagged. The test RC checks that a package can be built and successfully deployed and tested on the [Pre](https://about.gitlab.com/handbook/engineering/infrastructure/environments/#pre) environment. At this point [release managers](https://about.gitlab.com/community/release-managers/) will announce the final commit to be included in the release 
-3. After confirming automated tests have passed on the CE stable branch, EE stable branch, and Omnibus stable branches the release managers will tag the release
-4. The release package is built and deployed to the [Release](/handbook/engineering/infrastructure/environments/#release) environment
-5. On the [release date](/handbook/engineering/releases/) the release package and the release blog post are published
+Overview of the steps involved on the self-managed release process:  
+
+![Self-managed release overview](self_managed_release_overview.png)
+* [Diagram source](https://docs.google.com/presentation/d/1YRjA1dYCXNXp06VltDYlik1MdFyzUvaeXKk69mMPcA4/edit#slide=id.g2951f7d5d31_1_0)
+
+The end-to-end process consists on the following stages:
+
+1. **First steps** - Initial steps to setup the monthly release, including setting up the release schedule and the deployment cadence.
+1. **GitLab.com deployments** - From the start of the milestone up to one week before the release date, GitLab.com receives multiple
+    deployments per day. For application changes to be considered in a self-managed release they need to be successfully deployed to GitLab.com.
+1. **Candidate commit** - One week before the release date a candidate commit is selected and broadcasted by release managers, the commit is usually
+    the current commit running on GitLab.com. Pending GitLab.com availability, a different commit might be choosen, this means that the availability and
+    stability of GitLab.com deployments will determine the cutoff date for inclusion in the release. This commit is announced in multiple Slack engineering channels, including 
+    [#releases], [#development], [#backend] and [#frontend].
+1. **Release candidate** - A test release candidate (RC) is created, along with a stable branch for the targeted [semver] version. The release candidate package is built, 
+    tested and deployed to the [pre environment]. A successful outcome indicates this package can be used as the final version. At this point [release managers] will
+    announce the final commit to be included in the release.
+1. **Tag** - Release managers tag the final version of the release based on the release candidate. The release is built and deployed to the [Release environment].
+1. **Release** - On the release day, the release packages are published.
 
 ### Timelines
 
@@ -262,7 +273,10 @@ If you need any additional help please ask the Release Managers in the [#release
 [auto-deploy]: https://www.youtube.com/watch?v=_G-EWRpCAz4
 [severity]: /handbook/engineering/quality/issue-triage/#severity
 [#releases]: https://gitlab.slack.com/archives/C0XM5UU6B
-[#f_upcoming_release]: https://gitlab.slack.com/archives/C0139MAV672
+[#f_upcoming_release]: https://gitlab.slack.com/archives/C0139MAV672a
+[#development]: https://gitlab.slack.com/archives/C02PF508L
+[#backend]: https://gitlab.slack.com/archives/C8HG8D9MY
+[#frontend]: https://gitlab.slack.com/archives/C0GQHHPGW
 [process-monthly-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/monthly/process.md
 [process-auto-deploy-release]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/deploy/auto-deploy.md
 [process-security-release-critical]: https://gitlab.com/gitlab-org/release/docs/blob/master/general/security/process.md#critical-security-releases
@@ -285,3 +299,6 @@ If you need any additional help please ask the Release Managers in the [#release
 [patch release runbook for release managers]: https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/patch/release_managers.md
 [patch release policy]: https://docs.gitlab.com/ee/policy/maintenance.html#patch-releases
 [release date]: https://about.gitlab.com/releases/
+[pre environment]: https://about.gitlab.com/handbook/engineering/infrastructure/environments/#pre
+[release managers]: https://about.gitlab.com/community/release-managers/
+[Release environment]: https://about.gitlab.com/handbook/engineering/infrastructure/environments/#release
