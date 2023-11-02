@@ -255,6 +255,8 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbo
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/communication/~](/handbook/communication/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/leadership/~](/handbook/leadership/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/people-policies/~](/handbook/people-policies/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/product/~](/handbook/product/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/product-development-budgeting/~](/handbook/product-development-budgeting/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/handbook/travel/~](/handbook/travel/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://about.gitlab.com/job-families~](/job-families~g" {} +
@@ -304,6 +306,8 @@ find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/han
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/communication/~](/handbook/communication/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/leadership/~](/handbook/leadership/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/people-policies/~](/handbook/people-policies/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/product/~](/handbook/product/~g" {} +
+find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/product-development-budgeting/~](/handbook/product-development-budgeting/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/handbook/travel/~](/handbook/travel/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](https://handbook.gitlab.com/company/~](/handbook/company/~g" {} +
 find . -type f -name "*.md" -exec sed -i '' "s~](/company/~](/handbook/company/~g" {} +
