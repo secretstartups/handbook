@@ -58,9 +58,21 @@ The People Ops or IT Ops teams can force end a meeting by logging into Zoom with
 
 Preferred minimum version for Zoom: 5.13.5
 
+#### macOS
+
 1. Open the Zoom app on your computer.
 1. In the menu bar, click on `zoom.us` (top left corner of your screen).
 1. Click on `Check for Updates...`
+
+#### Linux
+
+1. Open the terminal, type in the following command and press **Enter** to install GDebi. `sudo apt install gdebi`
+    1. Note: GDebi is usually installed by default on most Ubuntu-based distros. If you're using Debian and get an error saying you are "not in the sudoers file", run the following commands to install sudo, then try installing GDebi again. `su -` then `apt install sudo`
+1. Enter your admin password and continue the installation when prompted.
+1. Download the DEB installer file from our [Download Center](https://zoom.us/download?os=linux).
+1. Double-click the installer file to open it using GDebi.
+1. Click **Install**.
+1. Enter your admin password and continue the installation when prompted.
 
 ### Sign into the Zoom app
 
