@@ -157,11 +157,10 @@ Note: We encourage having more than 1 SSC for a group - so if the group you are 
 A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
 Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
 
-| Section          | Group          | Group Contact       | Support Liaison             | Frequency           |
-|:----------------:|:--------------:|:-------------------:|:---------------------------:|:-------------------:|
-| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting |
-| UX               | UX             | Christie Lenneville | Cynthia Ng                  | weekly team meeting |
-| Quality          | Reference Architecture | Grant Young | Simon Street | TBD |
+| Section          | Group          | Group Contact       | Support Counterpart | Frequency           |
+|:----------------:|:--------------:|:-------------------:|:-------------------:|:-------------------:|
+| UX               | Tech Writing   | Susan Tacker        | Mike Lockhart       | weekly team meeting |
+| Quality          | Reference Architecture | Grant Young | Simon Street        | TBD |
 
 ## Product counterparts
 
