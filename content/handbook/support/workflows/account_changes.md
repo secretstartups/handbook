@@ -17,6 +17,7 @@ The main situations where action may need to be taken on behalf of the user:
 1. Project/Group Changes
 1. Account Access Requests
 1. Releasing an Email Address
+1. Primary email change of an enterprise user.
 
 ### User Action First
 
@@ -87,6 +88,71 @@ Check the user's activity page:
 1. Add an [Admin Note]({{< ref "admin_note" >}}) to the user's account.
 1. Advise the customer to add the newly released email address again to their primary account.
 1. Consider commenting on [this feature request](https://gitlab.com/gitlab-org/gitlab/-/issues/352514)
+
+## Change primary email address of enterprise users
+
+Enterprise users [cannot modify their primary email address to an email with a non-verified domain](https://docs.gitlab.com/ee/user/enterprise_user/#primary-email-change). An enterprise user can only change their primary email to an email their organization owns as per its verified domains. An enterprise user or a top level group owner can reach out to Support to request primary email address change. 
+**Note that changing the primary email address to an email that is not part of the group domain verification will disassociate the user**: the user will no longer be an enterprise user.
+
+### Request from a top level group owner
+
+Until [the issue 412966](https://gitlab.com/gitlab-org/gitlab/-/issues/412966) is implemented, top level group owners are not able to change their enterprise users primary email address. They can request support to change the primary email of one or more enterprise user(s).
+
+1. Check the [Account Verification Matrix for eligibility](/content/handbook/support/workflows/account_verification.md#account-verification-matrix).
+1. Use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+1. If successful:
+
+> Greetings,
+>
+> Thank you, we were able to verify your identity as account owner. 
+>
+> Could you please confirm that you would like us to change the enterprise user primary address from example@primary-email.address to example@new-primary-email address ? Replying in this ticket stating you provide permission will be sufficient.
+> 
+> [Important notice](https://docs.gitlab.com/ee/user/enterprise_user/#dissociation-of-the-user-from-their-enterprise-group): Changing an enterprise user’s primary email to an email with a non-verified domain automatically disassociates them from their enterprise group.
+
+1. Update the primary email address of the enterprise user(s).
+1. Add an Admin Note to the user’s account(s).
+
+### Request from an enterprise user that may or may not be part of the group
+
+Enterprise users have user accounts that are administered by an organization that has purchased a GitLab subscription. This means Support is not taking action without the explicit permission of one of the top level group owners.
+
+1. Send the snippet below as an initial answer:
+
+> Greetings,
+>
+> Your account is an enterprise user account, [enterprise users cannot modify their primary email address to an email with a non-verified domain](https://docs.gitlab.com/ee/user/enterprise_user/#primary-email-change). An enterprise user can only change their primary email to an email their organization owns as per its verified domains.
+> Updating your primary email address to an email with a non-verified domain will automatically disassociates you from your enterprise group.
+>
+> If you still wish to update your primary email address please note it will require involvement of one of the top level group owners. Please let us know if you wish to proceed.
+
+2. If answer they wish to procceed, use the [Account Ownership Verification workflow](/content/handbook/support/workflows/account_verification.md) to verify ownership.
+
+3. If successful, contact Owner:
+- Create a new Zendesk ticket with the top level group owner’s email address as the requester (found in admin) by following [this specific workflow to create ticket and user](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/tickets/#creating-tickets-for-outbound-requests)
+- Apply the macro `General::Outbound Contact Request` that ensure the new ticket routes properly and the end-user we wish to contact receives the correct notification.
+- Copy the snippet below and mark the ticket as `On-hold`:
+
+> Hi,
+>
+> We're contacting you because we've received a request from one of your enterprise users <username and email address> to modify their primary email address to an email address with a non-verified domain. This will disassociate the user from your organization: the user will no longer be an enterprise user.
+>
+> As you will lost the user administration following this change we are asking for your permission. Replying in this ticket stating you provide permission will be sufficient.
+
+- Make an internal comment providing a link to the requester’s ticket.
+- If the group contains multiples owners, contact one owner per ticket. Limit to 3 owners if more (you can pick the owners that have the most recent Last activity in the page `https://gitlab.com/groups/<group_name>/-/group_members` or/and the owner(s) that is(are) listed as Source).
+
+4. Requester’s Ticket:
+ - Add as an internal comment the ticket created above.
+ - Reply to the requester with the snippet below and mark ticket as `On-hold`.
+
+> Hi, 
+>
+> We have verify your identity, we are now waiting for permission from your organization to release the account by updating your primary email address.
+> We will keep you updated.
+
+5. If one of the owners approve, update the primary email address of the enterprise user.
+6. Add an Admin Note to the user’s account.
 
 ## How is permission given for troubleshooting?
 
