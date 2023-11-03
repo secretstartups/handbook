@@ -7,7 +7,7 @@ title: "Data Team Direction - Timeline"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

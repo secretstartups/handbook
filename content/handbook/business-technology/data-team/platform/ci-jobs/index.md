@@ -8,9 +8,9 @@ description: "GitLab Data Team CI Jobs"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -40,7 +40,7 @@ CI jobs are grouped by stages.
 
 ### ❄️ Snowflake
 
-These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml). All Snowflake objects created by a CI clone job will exist until dropped, either manually or by the [weekly clean up of Snowflake objects](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#what-to-do-if-a-pipeline-fails).
+These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab-ci.yml). All Snowflake objects created by a CI clone job will exist until dropped, either manually or by the [weekly clean up of Snowflake objects](/handbook/business-technology/data-team/platform/ci-jobs/#what-to-do-if-a-pipeline-fails).
 
 #### `clone_prep_specific_schema`
 
@@ -331,7 +331,7 @@ Runs the SQLFluff linter on all changed `sql` files within the `transform/snowfl
 
 #### `🚫safe_model_script`
 
-In order to ensure that all [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) data is being stored in appropriate schemas all models that are downstream of [source models with MNPI data](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/#mnpi-data) must either have an exception tag or be in a restricted schema in `PROD`. This CI Job checks for compliance with this state. If your MR fails this job it will likely either need to be audited and verified to be without change MNPI data and have the appropriate exception tags added, or models may need to be migrated to the appropriate restricted schema
+In order to ensure that all [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/) data is being stored in appropriate schemas all models that are downstream of [source models with MNPI data](/handbook/business-technology/data-team/how-we-work/new-data-source/#mnpi-data) must either have an exception tag or be in a restricted schema in `PROD`. This CI Job checks for compliance with this state. If your MR fails this job it will likely either need to be audited and verified to be without change MNPI data and have the appropriate exception tags added, or models may need to be migrated to the appropriate restricted schema
 
 #### `🔍macro_name_check`:
 

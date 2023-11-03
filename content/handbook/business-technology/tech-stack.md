@@ -4,7 +4,7 @@ title: "Business Technology - Tech Stack Details"
 description: "A list of tools and applications used internally at GitLab and how to access them."
 ---
 
-This is a listing of the applications we use at GitLab. If you're looking for the technology used to deliver GitLab.com, please visit the [Production Architecture page](/handbook/engineering/infrastructure/production/architecture/).
+This is a listing of the applications we use at GitLab. If you're looking for the technology used to deliver GitLab.com, please visit the [Production Architecture page](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/).
 
 ## Tech stack related processes
 

@@ -8,7 +8,7 @@ description: "Giltab's Reporting Data Catalog"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

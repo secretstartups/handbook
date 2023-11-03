@@ -8,9 +8,9 @@ description: "GitLab Data Triage Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -323,7 +323,7 @@ Follow the [runbook](https://gitlab.com/gitlab-data/runbooks/-/blob/main/Gitlab_
 
 ### Automated service ping issue
 
-In a situation when [Service ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#service-ping-overview) fail while it generates metrics, we should be informed either via `Trusted data dashboard` or `Airflow` log - generally, the error log is stored in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table. Follow the instructions from the link [error-handling-for-sql-based-service-ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#error-handling-for-sql-based-service-ping) in order to fix the issue.
+In a situation when [Service ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#service-ping-overview) fail while it generates metrics, we should be informed either via `Trusted data dashboard` or `Airflow` log - generally, the error log is stored in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table. Follow the instructions from the link [error-handling-for-sql-based-service-ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#error-handling-for-sql-based-service-ping) in order to fix the issue.
 
 ### Zuora Stitch Integration single or set of table-level reset
 
@@ -403,7 +403,7 @@ See the [source contact spreadsheet](https://docs.google.com/spreadsheets/d/1VKv
 | ------------------------- |
 | DAG `sheetload` <br> Task `dbt-sheetload`  <br> |
 | Background: This is an issue with Google sheets when data is being imported from a second sheet using Google sheets' import function. Occasionally the connections between the sheets stop working and the sheet needs to be refreshed. |
-| More information of the setup [here](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
+| More information of the setup [here](/handbook/business-technology/data-team/platform/pipelines/#sheetload).  |
 | Possible steps, resolution and actions: <br> - In general you should just need to open the Google sheet which is failing and confirm the data has been re-populated. <br> - If you do not have access to the sheet contact @gitlab-data/engineers and confirm if anyone else does. |
 
 
@@ -421,7 +421,7 @@ When got an error for model `version_usage_data_unpacked` and error looks like:
 
 The root cause of this issue is when new metrics are introduced in an upstream model - and this model (along with model `version_usage_data_unpacked_intermediate`) try to pivot values to columns. Without full refresh, this will not happen under the pipeline.
 
-Full refresh required as per instructions from [dbt models full refresh](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#dbt-models-full-refresh).
+Full refresh required as per instructions from [dbt models full refresh](/handbook/business-technology/data-team/platform/infrastructure/#dbt-models-full-refresh).
 
 An example for this failure is the issue: **[#11524 (internal link)](https://gitlab.com/gitlab-data/analytics/-/issues/11524)**
 

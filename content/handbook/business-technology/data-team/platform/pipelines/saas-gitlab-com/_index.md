@@ -8,9 +8,9 @@ description: "Gitlab.com SAAS Extract"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -292,7 +292,7 @@ When one (or more) tables require decommissioning from the `Postgres` pipeline, 
 
 ### Gitlab.com additional table details
 
-[This handbook page](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/gitlab-com-additional-table-details/) has more detail on any tables that don't fit the normal mold.
+[This handbook page](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/gitlab-com-additional-table-details/) has more detail on any tables that don't fit the normal mold.
 
 So far, that includes these tables:
 - `merge_request_diff_commits`

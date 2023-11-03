@@ -4,7 +4,7 @@ title: "Integrations SDLC Process"
 description: "The page defines the different SDLC stages and artifacts delivered at the completion of each stage."
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 

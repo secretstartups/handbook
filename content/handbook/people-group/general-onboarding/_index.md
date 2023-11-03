@@ -113,7 +113,7 @@ All onboarding related employment templates (country and role based) can be foun
 
 ### Temporary Service Provider (Contractor/Consultant) Onboarding
 
-The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information.
+The People team is not involved in the process for hiring, onboarding, or offboarding temporary service providers. You can work with the Procurement team on these onboardings and review the [temporary service provider handbook page](/handbook/business-technology/end-user-services/onboarding-access-requests/temporary-service-providers/) for templates and other helpful information.
 
 ### Additional onboarding pages
 

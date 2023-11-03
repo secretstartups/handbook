@@ -117,9 +117,9 @@ Extends the IT Enterprise Applications Engineer responsibilities:
 
 ## Performance Indicators (PI)
 
-- [Evaluating System or Process Efficiency](https://about.gitlab.com/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
-- [Average Issues](https://about.gitlab.com/handbook/business-technology/metrics/#average-issues)
-- [Average Merge Requests](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
+- [Evaluating System or Process Efficiency](/handbook/business-technology/metrics/#evaluating-system-or-process-efficiency)
+- [Average Issues](/handbook/business-technology/metrics/#average-issues)
+- [Average Merge Requests](/handbook/business-technology/metrics/#average-merge-request)
 
 ## Career Ladder
 

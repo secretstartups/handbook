@@ -286,7 +286,7 @@ A: The UX Researcher on the project can set up a cloud instance of Gitlab and cr
 
 A: It depends. Basically you need to look at your task list and go through them, ensuring that every area of the project that you go to (or might reasonably expect participants to go) has something there. Ideally, there's more than 1 item there (file, merge request, comment, environment, deployment, etc.) so that the task time accounts for scanning and searching the desired path. Depending on the areas you're focused on, this may be a lot of sample data, or not so much.
 
-**Q:Where does this fit in the [product lifecycle?](https://about.gitlab.com/handbook/product-development-flow/)**
+**Q:Where does this fit in the [product lifecycle?](/handbook/product-development-flow/)**
 
 A: Benchmarking lives at a space bridging the 'improve' stage of the build track and the 'collect ideas/understand the problem' parts of the validation track. Benchmarking is a great way to see how the current product is performing, so it fits well with the 'measure, learn, and improve' part of the cycle. The 'learn' and 'improve' parts of are then taken as inputs into the collect ideas/understand the problem parts of the validation track. So, in benchmarking, we're measuring our current product, validating existing problems we know of, and generating ideas on how to address these problems or generally improve the product.
 Note: Benchmarking is somewhat outside of our normal workflow. Since it is so time intensive, it's not something that could or should be a part of every feature or issue, and it's not something we should conduct more than once or twice a year for the same tasks.

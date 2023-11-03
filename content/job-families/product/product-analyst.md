@@ -6,10 +6,10 @@ through data-driven insights and recommendations"
 
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Role
 
@@ -222,7 +222,7 @@ maintainability, and best practices
 - Help create a leading product Data Program to support GitLab's vision and advocate for a
 data-driven culture
 - Act as a central contributor to cross-functional groups and initiatives like
-[FACE (Functional Analytics Center of Excellence)](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
+[FACE (Functional Analytics Center of Excellence)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
 
 **Be an individual contributor**
 
@@ -266,7 +266,7 @@ maintainability, and best practices
 - Help create a leading product Data Program to support GitLab's vision and advocate for a
 data-driven culture
 - Act as a central contributor to cross-functional groups and initiatives like
-[FACE (Functional Analytics Center of Excellence)](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
+[FACE (Functional Analytics Center of Excellence)](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/)
 - Actively provide feedback on Product strategy direction leveraging insights derived from the team
 - Contribute to GitLab's [Analytics section](https://about.gitlab.com/direction/analytics/) providing feedback on tools, technology and use cases for Product Analytics.  
 
@@ -287,7 +287,7 @@ prioritization, stakeholder management, and cross-functional collaboration as a 
 ## Relevant links
 
 - [Product Data Insights Handbook](/handbook/product/product-analysis/)
-- [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team/)
+- [Data Team Handbook](/handbook/business-technology/data-team/)
 - [Product Handbook](/handbook/product/)
 
 ## Performance Indicator

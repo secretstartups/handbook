@@ -4,7 +4,7 @@ title: "Coupa Virtual Card Guide"
 description: "Coupa Virtual Card Guide"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -28,7 +28,7 @@ On the **General information** Navigation page in `Zip`:
 1. Select **American Express- Virtual Card** in the field "What's the name of the vendor?"
 1. Complete the remaining fields on the page.
 
- > Check the [`Zip Handbook page`](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/zip-guide/) to learn more about completing a new request.
+ > Check the [`Zip Handbook page`](/handbook/business-technology/enterprise-applications/guides/zip-guide/) to learn more about completing a new request.
 
 <br>
 
@@ -87,7 +87,7 @@ The card number, expiration date, and CVV code will be available to the requeste
    - By default, the Virtual Card is valid for 365 days. After that, the card will expire for security reasons. If you are unable to make payment within those 365 days and the Virtual Card has expired, tag **@Accounts Payable Approval Group** in the **Comments** section of the Purchase Order. You must include the business justification for reissuing a card in your comments.
 
 - **How do I request an amount to increase the Virtual Card?**
-   - Follow the same process as [How to do a Purchase Order Change Request](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
+   - Follow the same process as [How to do a Purchase Order Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request). Once the change request has been approved, the Virtual Card amount will be increased.
 
 - **How do I attach a receipt or invoice after Purchase Order is issued?**
    - Receipts are **NOT REQUIRED** for Virtual Card charges.

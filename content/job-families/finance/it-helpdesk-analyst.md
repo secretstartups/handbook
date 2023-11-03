@@ -77,11 +77,11 @@ The Senior IT Helpdesk Analyst is a [grade 7](/handbook/total-rewards/compensati
 
 ## Performance Indicators (PI)
 
-- [Cycle Time for IT Support Issue Resolution](https://about.gitlab.com/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
-- [Support Issues and Access Request Closed per Employee](https://about.gitlab.com/handbook/business-technology/metrics/#support-tickets-and-access-request-closed-per-employee)
-- [Average Merge Request](https://about.gitlab.com/handbook/business-technology/metrics/#average-merge-request)
-- [Average Delivery Time of Laptop Machines < 21 days](https://about.gitlab.com/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
-- [Customer Satisfaction Survey (CSAT)](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [Cycle Time for IT Support Issue Resolution](/handbook/business-technology/metrics/#cycle-time-for-it-support-issue-resolution)
+- [Support Issues and Access Request Closed per Employee](/handbook/business-technology/metrics/#support-tickets-and-access-request-closed-per-employee)
+- [Average Merge Request](/handbook/business-technology/metrics/#average-merge-request)
+- [Average Delivery Time of Laptop Machines < 21 days](/handbook/business-technology/metrics/#average-delivery-time-of-laptop-machines--21-days)
+- [Customer Satisfaction Survey (CSAT)](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 
 ## Hiring Process
 

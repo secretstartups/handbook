@@ -4,10 +4,10 @@ title: "Group Namespace Conversion Metrics"
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ---
 
@@ -121,7 +121,7 @@ Snippets are used to create a string of SQL code that can be reused in different
 
 ### Trusted Data Solution
 
-- [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+- [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
 `Coming Soon`
 

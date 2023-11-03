@@ -83,7 +83,7 @@ You might receive an error similar to:
 This error usually happens if it's your first time logging in and we have reached our limit of available LinkedIn licenses. If this happens:
 
 1. Ensure your GitLab email address is on your LinkedIn Profile.
-1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).
+1. Fill out an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).
 
 You will receive an email invite when a license next becomes available. Generally a couple of licenses are freed up each week.
 

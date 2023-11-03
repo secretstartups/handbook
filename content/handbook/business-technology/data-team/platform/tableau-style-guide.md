@@ -8,7 +8,7 @@ description: "Tableau Style Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

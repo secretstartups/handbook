@@ -4,10 +4,10 @@ title: Product Data Insights Data Models Cheat Sheet
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Objectives for this page
 
@@ -21,9 +21,9 @@ To collaborate on the content in this page, please either submit an MR (preferre
 
 - [Data guides to data subject areas](/handbook/business-technology/data-team/data-catalog/) managed by the Data team.
 
-- [Documentation on data pipelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
+- [Documentation on data pipelines](/handbook/business-technology/data-team/platform/pipelines/) for the technically curious analyst. This page goes into each data source and extraction details.
 
-- [Table of data sources and refresh schedules](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources) to understand standard load times for each data source.
+- [Table of data sources and refresh schedules](/handbook/business-technology/data-team/platform/#data-sources) to understand standard load times for each data source.
 
 ## Data Model Categories
 
@@ -40,7 +40,7 @@ These categories are grouped by data source and subject area.
 - Nope! As part of our [Commitment to Individual User Privacy](/handbook/product/analytics-instrumentation-guide/service-usage-data-commitment/), GitLab only collects usage metrics aggregated at the installation level.
 
 > What is the difference between an instance and an installation?
-- An installation is the unique combination of instance_id and host_id. [Read more here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/self-managed/). We do Self-Managed analysis and reporting at the installation level.
+- An installation is the unique combination of instance_id and host_id. [Read more here](/handbook/business-technology/data-team/data-catalog/self-managed/). We do Self-Managed analysis and reporting at the installation level.
 
 
 #### Documentation
@@ -94,7 +94,7 @@ These categories are grouped by data source and subject area.
 
 ### Gitlab.com
 
-GitLab.com (SaaS) is a single installation reporting a single ping within our Service Ping framework. In order to access more granular data by product tier, plan type, namespace, or user, we utilize the [GitLab.com Postgres database](https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/#gitlabcom-postgres-database). This data source replicates any service ping events that create a [backend table](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs).
+GitLab.com (SaaS) is a single installation reporting a single ping within our Service Ping framework. In order to access more granular data by product tier, plan type, namespace, or user, we utilize the [GitLab.com Postgres database](/handbook/business-technology/data-team/programs/data-for-product-managers/#gitlabcom-postgres-database). This data source replicates any service ping events that create a [backend table](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs).
 
 #### FAQs
 
@@ -112,13 +112,13 @@ GitLab.com (SaaS) is a single installation reporting a single ping within our Se
 
 <details markdown="1"><summary>Click to expand</summary>
 
-- [Data Guide for Product Managers documentation on Gitlab.com postgres replica data](https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/#gitlabcom-postgres-database)
+- [Data Guide for Product Managers documentation on Gitlab.com postgres replica data](/handbook/business-technology/data-team/programs/data-for-product-managers/#gitlabcom-postgres-database)
 
 - [DB docs](https://gitlab.com/gitlab-org/gitlab/-/tree/master/db/docs) document which service ping metrics are replicated in a database. Click in to the .yml files for each table to access table specific descriptions.
 
 - [DBT documentation on the prep_event model](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event) contains compiled SQL logic to better understand any filtering applied to events.
 
-- [Data Guide to xMAU Analysis](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
+- [Data Guide to xMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 
 - [Schema file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) containing SQL logic for the creation of each postgres table available in production.
 
@@ -172,9 +172,9 @@ Snowplow is an open source event tracking tool that is used at GitLab to track G
 
 <details markdown="1"><summary>Click to expand</summary>
 
-- [Guide to Snowplow for Product Managers](https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/#sts=Snowplow)
+- [Guide to Snowplow for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/#sts=Snowplow)
 
-- [Technical Snowplow overview](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/)
+- [Technical Snowplow overview](/handbook/business-technology/data-team/platform/snowplow/)
 
 - [Snowplow docs on standard fields](https://docs.snowplow.io/docs/understanding-your-pipeline/canonical-event/)
 
@@ -278,8 +278,8 @@ Models used to report on trials, subscriptions and charges.
 
 #### FAQs
 
-> How mature is the [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) approach to namespace and installation trial and paid conversion analysis?
-- This category of data models is the next priority for refactoring and aligning with the [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf).
+> How mature is the [Trusted Data](/handbook/business-technology/data-team/platform/#tdf) approach to namespace and installation trial and paid conversion analysis?
+- This category of data models is the next priority for refactoring and aligning with the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf).
 
 
 #### Documentation

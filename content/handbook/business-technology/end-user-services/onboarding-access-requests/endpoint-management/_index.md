@@ -10,7 +10,7 @@ description: "Endpoint Management: endpoint security, macOS, Windows, Linux, end
 
 
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**
@@ -75,12 +75,12 @@ GitLab has chosen the following endpoint technologies to comply with the various
 
 #### Jamf
 
-Jamf is an Apple device management solution used by system administrators to configure and automate IT administration tasks for macOS, iOS, and tvOS devices. For more detail, please review the [Jamf endpoint management page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/).
+Jamf is an Apple device management solution used by system administrators to configure and automate IT administration tasks for macOS, iOS, and tvOS devices. For more detail, please review the [Jamf endpoint management page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/).
 
 
 #### SentinelOne
 
-SentinelOne is an endpoint detection and response technology used to secure and protect endpoints from malicious digital attacks. For more detail, please review the [Endpoint Detection & Response page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/).
+SentinelOne is an endpoint detection and response technology used to secure and protect endpoints from malicious digital attacks. For more detail, please review the [Endpoint Detection & Response page](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/).
 
 ### DriveStrike
 

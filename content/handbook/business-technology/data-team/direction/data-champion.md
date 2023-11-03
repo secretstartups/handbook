@@ -8,7 +8,7 @@ description: “Discover how GitLab uses a Data Champion Program in concert with
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

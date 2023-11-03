@@ -71,12 +71,12 @@ The data source determines the table names used in Sisense queries. We have thre
     - [Tools for viewing events](https://docs.gitlab.com/13.12/ee/development/snowplow/#developing-and-testing-snowplow) for exploration/testing
     - [Implementing Snowplow click tracking for designers](https://www.youtube.com/watch?v=95wNcGMrpMg&ab_channel=GitLabUnfiltered)
 
-[Key Data Sources for Product Managers at GitLab](https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/#key-data-sources-for-product-managers-at-gitlab) elaborates on how each data source is used and queried.
+[Key Data Sources for Product Managers at GitLab](/handbook/business-technology/data-team/programs/data-for-product-managers/#key-data-sources-for-product-managers-at-gitlab) elaborates on how each data source is used and queried.
 
 These visualizations will help you understand how the systems work together:
 
 - A [simplified diagram](/handbook/product/analytics-instrumentation-guide/#systems-overview) showing the interactions between GitLab Inc and self-managed instances.
-- A detailed diagram of the [data platform's data stack](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack).
+- A detailed diagram of the [data platform's data stack](/handbook/business-technology/data-team/platform/#our-data-stack).
 
 ## Examples of using data for design decisions
 

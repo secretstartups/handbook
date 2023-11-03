@@ -5,10 +5,10 @@ description: "Customer segmentation is the process of dividing our customers int
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ---
 
@@ -139,9 +139,9 @@ The exceptions are the following fields that are calculated based on business lo
 
 ## Trusted Data Solution
 
-See overview at [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+See overview at [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
-[dbt guide examples](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
+[dbt guide examples](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
 details and examples on implementing further tests
 
 #### Zuora

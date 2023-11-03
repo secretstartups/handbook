@@ -14,7 +14,7 @@ description: "This page defines the process for developing KPIs."
 
 {:no_toc}
 
-This page defines the process for developing a new KPI or altering an existing KPI, part of the [GitLab KPIs Index](/company/kpis/). KPIs for each group are listed in a YAML file that are stored in a [common directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) on GitLab.com. 
+This page defines the process for developing a new KPI or altering an existing KPI, part of the [GitLab KPIs Index](/handbook/company/kpis/). KPIs for each group are listed in a YAML file that are stored in a [common directory](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) on GitLab.com. 
 
 ## KPI Development
 
@@ -34,12 +34,12 @@ graph LR
 
 ### Creating A New KPI
 
-1. Create a merge request to add the KPI definition to the appropriate functional page of the handbook. Define the KPI as completely as possible with [all of its parts](/company/kpis/#parts-of-a-kpi).
+1. Create a merge request to add the KPI definition to the appropriate functional page of the handbook. Define the KPI as completely as possible with [all of its parts](/handbook/company/kpis/#parts-of-a-kpi).
     - The MR must be approved by the functional leader and the CEO.
     - Tag the CFO; VP, Finance; and Senior Director, Data in the MR for visibility into downstream changes that may need to occur.
 1. Create a [Data Team issue](https://gitlab.com/gitlab-data/analytics/-/issues) using the _KPI Template_ and fill in the details. Include a link to the handbook page if merged or MR if not.
 1. If necessary, the Data Team will contact you to arrange a discovery session and create a development plan.
-1. KPI Development is considered complete once the KPI chart is published and the KPI entry on this page is tagged with the appropriate [operational status](/company/kpis/#legend).
+1. KPI Development is considered complete once the KPI chart is published and the KPI entry on this page is tagged with the appropriate [operational status](/handbook/company/kpis/#legend).
 
 ### Updating An Existing KPI
 

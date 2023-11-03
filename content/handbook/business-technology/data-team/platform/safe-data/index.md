@@ -8,9 +8,9 @@ description: "SAFE Data Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -23,7 +23,7 @@ The Data Team follows the GitLab SAFE [Framework](https://about.gitlab.com/handb
 ### Sisense
 
 Access to Sisense dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
-- the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#access)
+- the **GitLab** space is a General Access area which houses dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members. Access instructions are covered in the [Sisense overview and development page.](/handbook/business-technology/data-team/platform/sisensecdt/#access)
 - the **SAFE Intermediate Dashboard** space houses dashboards which do not require SAFE handling, but reference data models that contain SAFE Data. SAFE Intermediate Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 
@@ -31,7 +31,7 @@ A complete list of Dashboards, including SAFE Dashboards, is available in the [G
 
 #### Accessing a GitLab General Access Dashboard
 
-General Access Dashboards are available to all GitLab Team members and no Access Request issue is required. Access instructions are covered in the [Sisense overview and development page.](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/#access)
+General Access Dashboards are available to all GitLab Team members and no Access Request issue is required. Access instructions are covered in the [Sisense overview and development page.](/handbook/business-technology/data-team/platform/sisensecdt/#access)
 
 #### Accessing a SAFE Dashboard
 
@@ -90,7 +90,7 @@ This space is only about limiting access to sensitive sales organization dashboa
 
 ### Tableau
 
-Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, we apply the SAFE security framework using [User Groups](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#user-groups).
+Access to Tableau dashboards is based on job role and governed by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Tableau, we apply the SAFE security framework using [User Groups](/handbook/business-technology/data-team/platform/tableau/#user-groups).
 
 The development workflow for Tableau Creators that work with data that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart) is to publish into the SAFE folder in their department's development project. Should the Creator want to publish the workbook outside of the SAFE folder within the development project, they should open an [issue](https://gitlab.com/gitlab-data/tableau/-/issues/new) using the `All Requests` template in the Tableau project and request a review of the content by the BI Platform team. The BI Platform team will provide a yes or no decision on whether it is SAFE to publish the content outside of the SAFE folder in the development project.
 

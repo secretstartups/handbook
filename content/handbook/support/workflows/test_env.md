@@ -28,7 +28,7 @@ Have fun!
 
 ## Testing on GitLab.com
 
-The [IT Ops](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding.
+The [IT Ops](/handbook/business-technology/team-member-enablement/#gitlab-it-team) team handle provisioning of paid tier test groups on GitLab.com. If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitlabCom_Licensed_Demo_Group_Request). This process will ensure that all entitlements are removed during processes such as staff member offboarding.
 
 
 ## Testing Environment License

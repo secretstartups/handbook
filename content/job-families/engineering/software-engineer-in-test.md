@@ -21,7 +21,7 @@ CI/CD, and load balancing.
 - Participate in test pipeline triage rotation and ensure pipeline failures are triaged promptly.
 - Develop working knowledge of the entire GitLab application stack including tests at all levels. (Unit, Integration, and End-to-end).
 - Groom and prune GitLab tests at all levels to ensure optimal coverage and effective deduplication.
-- Collaborate with a [Product Manager and with the wider product and development team](https://about.gitlab.com/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
+- Collaborate with a [Product Manager and with the wider product and development team](/handbook/product-development-flow/#build-track) to understand how new features should be tested and to contribute to automated tests for these new features.
 - Collaborate with engineers to define and implement mechanisms to inject testing earlier into the software development process.
 - Identify, share, and nurture the adoption of best practices in code health, testing, testability, and maintainability in collaboration with the wider Quality department. You should champion clean code and the concept of the test pyramid.
 - Analyze complex software systems and collaborate with others to improve the overall design, testability, and quality.

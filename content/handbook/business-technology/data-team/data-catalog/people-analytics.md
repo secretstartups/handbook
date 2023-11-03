@@ -9,7 +9,7 @@ title: "People Analytics Overview"
 TOC
 
 
-{::options parse_block_html="true" /}
+
 
 ---
 

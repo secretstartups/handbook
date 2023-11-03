@@ -5,10 +5,10 @@ description: "This handbook page provides information about the IT Engineering a
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Automation Philosophy
 

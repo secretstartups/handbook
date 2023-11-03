@@ -1500,7 +1500,7 @@ GitLab has chosen to restrict the ability to install apps, and we have a process
 1. Add a custom message with more context about your request and also link the vendor approval issue.
 1. Click Submit. You'll receive a direct message from Slackbot when your request has been reviewed by the team.
 
-**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](https://about.gitlab.com/handbook/business-technology/change-management/) process.
+**Please note that this is only required for new apps that have not been reviewed or approved.** If your request is to add a new process or update an existing process for how an application works in slack, please refer to our [Business Technology Change Management](/handbook/business-technology/change-management/) process.
 
 ### Emergency chat
 

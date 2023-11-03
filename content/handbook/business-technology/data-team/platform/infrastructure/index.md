@@ -9,7 +9,7 @@ title: "Data Infrastructure"
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Quick Links
 
@@ -842,7 +842,7 @@ with the LOADER role.  These tasks run daily and load only new or updated files.
 
 All Snowflake tables ingested either by `Snowfalke Tasks` or `SnowPipe` are monitored by default with a MonteCarlo source freshness and volume monitor that makes sure that the loading of data is happening successfully. This is indirectly monitoring if the task is actually working or not. In order to diagnose problems with the tasks, you can query the `raw.snowflake.task_history_view` and inspect the `error_message` column on failed tasks.
 
-For more details, refer to the section [Snowflake SnowPipe and Tasks Triage](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowflake/#snowflake-snowpipe-and-tasks-triage).
+For more details, refer to the section [Snowflake SnowPipe and Tasks Triage](/handbook/business-technology/data-team/platform/snowflake/#snowflake-snowpipe-and-tasks-triage).
 
 ### Time Off by Deel Snowpipe
 
@@ -1132,7 +1132,7 @@ Use `dbt_full_refresh` DAG to force dbt to rebuild the entire incremental model 
     ' --full-refresh ; ret=$?;\n'
     ```
 
-2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
+2. By default `dbt_full_refresh` DAG will be running on `TRANSFORMING_XL` warehouse , in order to modify the warehouse size in case of quick full refresh or in case of performance issue, modify the variable `DBT_WAREHOUSE_FOR_FULL_REFRESH` to desired warehouse size. For the actual list of the actual warehouse's sizes, check [compute-resources](/handbook/business-technology/data-team/platform/#compute-resources)
 
 If a bigger warehouse than `XL` is used, an issue has to be created and Data Leadership has to be tagged. Document in the issue why a bigger warehouse is used. Report in the issue **every** run that was applicable, which models were refreshed and their starttime, stoptime and status (`succeeded`, `failed` or `aborted`).
 
@@ -1168,7 +1168,7 @@ In order to use the updated utils package, you will generally have to update the
 - data-image
 - analytics
 
-For more instructions, refer to this [handbook section](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#new-images).
+For more instructions, refer to this [handbook section](/handbook/business-technology/data-team/platform/infrastructure/#new-images).
 
 ## Upgrading dbt for production
 

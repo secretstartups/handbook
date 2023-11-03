@@ -8,7 +8,7 @@ description: "Giltab's Tableau Developer guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

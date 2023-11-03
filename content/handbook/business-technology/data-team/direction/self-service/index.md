@@ -7,7 +7,7 @@ title: "Self-Service Data"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

@@ -4,14 +4,14 @@ title: "Data Analytics"
 
 ## Data Analyst Roles at GitLab
 
-Read more about this role in the [Data Analytics Handbook Page](https://about.gitlab.com/handbook/business-technology/data-team/organization/analytics/).
+Read more about this role in the [Data Analytics Handbook Page](/handbook/business-technology/data-team/organization/analytics/).
 
 ## Responsibilities
 
 - Collaborate with other functions across the company by building reports and dashboards with useful analysis and data insights
 - Explain trends across data sources, potential opportunities for growth or improvement, and data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive data analysis
-- Understand and document the full lifecycle of data in our [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/) so data can be efficiently integrated, modeled, and analyzed
-- Develop new [Trusted Data Tests](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) to expand test coverage for the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
+- Understand and document the full lifecycle of data in our [Data Catalog](/handbook/business-technology/data-team/data-catalog/) so data can be efficiently integrated, modeled, and analyzed
+- Develop new [Trusted Data Tests](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) to expand test coverage for the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
 - Document every action in either issue/MR templates, the [handbook](https://about.gitlab.com/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 - Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
 - Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
@@ -26,7 +26,7 @@ Read more about this role in the [Data Analytics Handbook Page](https://about.gi
 - Fluent in SQL within analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
 - Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
 - Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
-- Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](https://about.gitlab.com/handbook/business-technology/data-team/))
+- Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-technology/data-team/))
 - Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
 - Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 - [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
@@ -87,8 +87,8 @@ The Data Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensat
 
 The responsibilities of the Data Analyst extend the Junior Data Analyst role and include:
 
-- Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](https://about.gitlab.com/handbook/business-technology/data-team/) to help drive product designs or service usage or note impacts to data reporting capabilities
-- Serve as a Subject Matter Expert (SME) in one or more [Data Sources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
+- Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-technology/data-team/) to help drive product designs or service usage or note impacts to data reporting capabilities
+- Serve as a Subject Matter Expert (SME) in one or more [Data Sources](/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
 - Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
 - Approve data model changes as a Data Team Reviewer and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
 
@@ -126,10 +126,10 @@ The responsibilities of the Senior Data Analyst extend the Data Analyst (Interme
 The requirements of the Senior Data Analyst extend the Data Analyst (Intermediate) role and include:
 
 - 6+ years experience in an analytics role or equivalent experience/training
-- Fluent in all Data Analysis technologies defined in in the [Data Team Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/)
+- Fluent in all Data Analysis technologies defined in in the [Data Team Platform](/handbook/business-technology/data-team/platform/)
 - Recognized expert in SQL, Data Visualization and Business Intelligence
-- Own and maintain one or more sections of the [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
-- Own and maintain one or more sections of the [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework)  for a specified Trusted Model
+- Own and maintain one or more sections of the [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
+- Own and maintain one or more sections of the [Trusted Data Framework](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework)  for a specified Trusted Model
 
 ### Staff Data Analyst
 
@@ -158,10 +158,10 @@ The responsibilities of the Staff Data Analyst extend the Senior Data Analyst ro
 The requirements of the Staff Data Analyst extend the Senior Data Analyst role and include:
 
 - 8+ years experience in an analytics role or equivalent experience/training
-- Fluent in all major technologies in the [Data Team Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/), with a particular emphasis on Data Visualization, Business Intelligence and Data Modeling
+- Fluent in all major technologies in the [Data Team Platform](/handbook/business-technology/data-team/platform/), with a particular emphasis on Data Visualization, Business Intelligence and Data Modeling
 - Recognized expert in SQL, Sisense, and dbt
-- Influence the Analytics Roadmap for one of the [Data Flywheels](https://about.gitlab.com/handbook/business-technology/data-team/direction/#data-flywheels)
-- Own and maintain one or more sections of the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
+- Influence the Analytics Roadmap for one of the [Data Flywheels](/handbook/business-technology/data-team/direction/#data-flywheels)
+- Own and maintain one or more sections of the [Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
 
 ## Specialties
 
@@ -234,8 +234,8 @@ The requirements of the Staff Data Analyst extend the Senior Data Analyst role a
 
 ## Performance Indicators (PI)
 
-- [Adoption of Data Team BI charts throughout company](https://about.gitlab.com/handbook/business-technology/metrics/#adoption-of-data-team-bi-charts-throughout-company)
-- [% of issues requested triaged with first response within 36 hours (per business unit)](https://about.gitlab.com/handbook/business-technology/metrics/#percent--of-issues-requested-triaged-with-first-response-within-36-hours-per-business-unit)
+- [Adoption of Data Team BI charts throughout company](/handbook/business-technology/metrics/#adoption-of-data-team-bi-charts-throughout-company)
+- [% of issues requested triaged with first response within 36 hours (per business unit)](/handbook/business-technology/metrics/#percent--of-issues-requested-triaged-with-first-response-within-36-hours-per-business-unit)
 
 ### Career Ladder
 

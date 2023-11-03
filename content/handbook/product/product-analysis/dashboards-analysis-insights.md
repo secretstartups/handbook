@@ -4,10 +4,10 @@ title: PDI Dashboards, Analysis, & Insights
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 This is a page to aggregate dashboards, analysis, and insights generated or owned by the Product Data Insights team.
 
@@ -18,7 +18,7 @@ This is a page to aggregate dashboards, analysis, and insights generated or owne
 Please see the chart below ([or follow this link](https://app.periscopedata.com/app/gitlab/1013112/Sisense-Usage-Insights?widget=15499554&udv=1634665)) 
 to see a list of the most-used dashboards that are owned by members of the Product Data 
 Insights team. Note that viewing dashboards in the `gitlab:safe-dashboard` space may require 
-additional steps to [obtain SAFE Dashboard access](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/). 
+additional steps to [obtain SAFE Dashboard access](/handbook/business-technology/data-team/platform/safe-data/). 
 If you have any questions about using and interpreting the insights from these dashboards, 
 please reach out to the dashboard owner or tag `@product-analysts` in the `#data` channel on Slack.
 

@@ -8,9 +8,9 @@ title: "Pricing Analysis"
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -151,9 +151,9 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 <summary markdown='span'>
   Trusted Data Solution
 </summary>
-See overview at [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+See overview at [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
-[dbt guide examples](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
+[dbt guide examples](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
 details and examples on implementing further tests
 </details>
 

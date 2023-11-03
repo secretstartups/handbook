@@ -7,9 +7,9 @@ title: "Data For Product Managers"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -30,7 +30,7 @@ Here are some useful links that we recommend for you to bookmark:
 - [Service Ping documentation](https://docs.gitlab.com/ee/development/service_ping/)
 - [Snowplow documentation](https://docs.gitlab.com/ee/development/snowplow/)
 - [Sisense](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index)
-- [Analytics Instrumentation Quick Links](/direction/analytics/analytics-instrumentation/#quick-links)
+- [Analytics Instrumentation Quick Links](https://about.gitlab.com/direction/analytics/analytics-instrumentation/#quick-links)
 - [Product Data Insights handbook](/handbook/product/product-analysis/)
 
 #### Getting Access
@@ -66,9 +66,9 @@ Here are some useful links that we recommend for you to bookmark:
 
 ##### How can I update or add more information to the dbt docs?
 
-You will need to locate the file you wish to update or create in the [gitlab-data analytics project](https://gitlab.com/gitlab-data/analytics). Please be sure to read and follow the [SQL style guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/) when creating the changes. If you wish to update only the descriptions or information about tables you will be looking for a `schema.yml` file. If you wish to actually change the structure of tables it will be a `*.sql` file.
+You will need to locate the file you wish to update or create in the [gitlab-data analytics project](https://gitlab.com/gitlab-data/analytics). Please be sure to read and follow the [SQL style guide](/handbook/business-technology/data-team/platform/sql-style-guide/) when creating the changes. If you wish to update only the descriptions or information about tables you will be looking for a `schema.yml` file. If you wish to actually change the structure of tables it will be a `*.sql` file.
 
-Next, create a branch and then submit an MR using the `dbt Model Changes` template to the [gitlab-data analytics project](https://gitlab.com/gitlab-data/analytics). When creating your branch and MR please folow the [data team workflow](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#merge-request-workflow) and use the appropriate [data team labels](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#issue-labeling).
+Next, create a branch and then submit an MR using the `dbt Model Changes` template to the [gitlab-data analytics project](https://gitlab.com/gitlab-data/analytics). When creating your branch and MR please folow the [data team workflow](/handbook/business-technology/data-team/how-we-work/#merge-request-workflow) and use the appropriate [data team labels](/handbook/business-technology/data-team/how-we-work/#issue-labeling).
 
 #### How does data get into the warehouse?
 
@@ -231,7 +231,7 @@ TODO
 
 ## Analytics Instrumentation
 
-- [Analytics Instrumentation](/direction/analytics/analytics-instrumentation/) is part of the product org and is completely separate from the Data team. However, the Data team and the Analytics Instrumentation collaborate closely as Product Analytics Fusion Team.
+- [Analytics Instrumentation](https://about.gitlab.com/direction/analytics/analytics-instrumentation/) is part of the product org and is completely separate from the Data team. However, the Data team and the Analytics Instrumentation collaborate closely as Product Analytics Fusion Team.
 - The Analytics Instrumentation team members are the [DRI](/handbook/people-group/directly-responsible-individuals/)s for data collection across both GitLab.com and Self-Managed. They own Service Ping and Snowplow. They are the ones to go to for questions like:
     - How do I instrument a new statistic for self-managed?
     - What are the best practices for adding to service ping?

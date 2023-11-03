@@ -2,7 +2,7 @@
 
 title: "Feature flags in development of GitLab"
 ---
-{::options parse_block_html="true" /}
+
 
 
 

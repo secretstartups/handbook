@@ -5,7 +5,7 @@ description: "Provides procedures and capabilities for recovering an information
 
 ## Purpose
 
-An ISCP provides established procedures for the assessment and recovery of a system following a system disruption. The ISCP provides key information needed for system recovery, including roles and responsibilities, inventory information, assessment procedures, detailed recovery procedures, and testing of a system. An ISCP will be created for GitLab.com and [Tier 1 systems]({{< ref "critical-systems" >}}), working in conjunction with the [Business Continuity Plan (BCP)](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/) and [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md).
+An ISCP provides established procedures for the assessment and recovery of a system following a system disruption. The ISCP provides key information needed for system recovery, including roles and responsibilities, inventory information, assessment procedures, detailed recovery procedures, and testing of a system. An ISCP will be created for GitLab.com and [Tier 1 systems]({{< ref "critical-systems" >}}), working in conjunction with the [Business Continuity Plan (BCP)](/handbook/business-technology/gitlab-business-continuity-plan/) and [Disaster Recovery Plan (DRP)](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/library/disaster-recovery/index.md).
 
 ## Difference between ISCP and DRP
 

@@ -13,7 +13,7 @@ description: "Security at GitLab"
   the [GitLab Password Standards](/handbook/security/password-standard.html)
   for all accounts used to conduct GitLab related work.
   Using 1Password to [generate and store] the passwords is strongly recommended.
-1. Set up your [Okta](https://about.gitlab.com/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
+1. Set up your [Okta](/handbook/business-technology/okta/) account at [https://gitlab.okta.com](https://gitlab.okta.com),
   and use this as
   your primary means for accessing Applications supported in Okta. As part of
   setting up Okta, you'll need to establish a [strong password]({{< ref "password-guidelines" >}})
@@ -613,7 +613,7 @@ Depending on the impacted resources, the following teams should be engaged and m
 - [Database: Disaster Recovery Team](https://about.gitlab.com/handbook/engineering/infrastructure/database/disaster_recovery.html) - responsible for disaster recovery strategy for the PostgreSQL database.
 - [Infrastructure Team](https://about.gitlab.com/handbook/engineering/infrastructure/#teams) - availability, reliability, performance, and scalability of GitLab SaaS software
 - [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/) - infrastructure teams stable counterpart focused on cloud infrastructure security, best practices, and vulnerability management
-- [Business Technology Engineering](https://about.gitlab.com/handbook/business-technology/engineering/) - endpoint and systems access management
+- [Business Technology Engineering](/handbook/business-technology/engineering/) - endpoint and systems access management
 - [Support Team](https://about.gitlab.com/support/) - responding to customer or employee inquiries regarding system outages
 - [Legal & Corporate Affairs](https://about.gitlab.com/handbook/legal/)
 - [Security Assurance]({{< ref "security-assurance" >}}) - assuring the security of GitLab as an enterprise application

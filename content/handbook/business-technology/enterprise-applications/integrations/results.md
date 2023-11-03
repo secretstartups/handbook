@@ -68,7 +68,7 @@ title: "Integrations Engineering Results"
 
 # Integrations Engineering Results
 
-{::options parse_block_html="true" /}
+
 
 <div id="hours-saved-container">
 <p id="hours-saved" saved="78">-</p>

@@ -10,7 +10,7 @@ description: "This page describes the different data sources and the way we extr
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Background
 
@@ -125,7 +125,7 @@ Service ping has two major varieties:
 - Self-Managed Service Ping
 - SaaS Service Ping
 
-For more details refer to [4 types of service ping processes](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#4-types-of-service-ping-processes-run-versus-3-environments)
+For more details refer to [4 types of service ping processes](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#4-types-of-service-ping-processes-run-versus-3-environments)
 
 ### Self-Managed Service Ping
 
@@ -148,7 +148,7 @@ Data is stored in the tables (in the `RAW.SAAS_USAGE_PING` schema):
 - `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`
 - `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERROR` - this table contains SQL command where error pops-up during data processing for SQL metrics.
 
-Details about implementation are exposed in **[sql-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#sql-metrics-implementation)**
+Details about implementation are exposed in **[sql-metrics-implementation](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#sql-metrics-implementation)**
 
 > **Note:** Data for the `instance_sql_metrics` and `instance_redis_metrics` are combined after processing and stored in the same row in the table `RAW.SAAS_USAGE_PING.INSTANCE_COMBINED_METRICS`
 
@@ -165,7 +165,7 @@ Data is stored in the table (in the `RAW.SAAS_USAGE_PING` schema):
 Data for the `instance_namespace_metrics` are calculated and stored in the table;
 - `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 
-Details about implementation are exposed in **[redis-metrics-implementation](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
+Details about implementation are exposed in **[redis-metrics-implementation](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#redis-metrics-implementation)**
 
 #### Automated Service Ping Observability
 
@@ -391,7 +391,7 @@ These IDs are generated from dbt seed files which we use to identify internal gr
 When testing postgres pipeline (pgp) locally in Airflow, there are a few things to keep in mind:
 
 - Previously, a pool needed to be added manually to Airflow, but running `make init-airflow` will now automatically add all the pgp pools to Airflow.
-- Prior to triggering the DAG, the `clone_raw_postgres_pipeline` [CI pipeline](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#clone_raw_postgres_pipeline) will need to be run. This pipeline clones a schema `tap_postgres` into a Snowflake 'dev' database that the DAG will write the data to.
+- Prior to triggering the DAG, the `clone_raw_postgres_pipeline` [CI pipeline](/handbook/business-technology/data-team/platform/ci-jobs/#clone_raw_postgres_pipeline) will need to be run. This pipeline clones a schema `tap_postgres` into a Snowflake 'dev' database that the DAG will write the data to.
 
 
 ## Prometheus / Thanos (Periodic Queries)
@@ -827,7 +827,7 @@ The Schedule is set to run daily at midnight.
 
 ## ZenGRC
 
-The ZenGRC data source uses a singer tap we developed in [gitlab-data/tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L73) scheduled 3 times per day/every 8 hours starting at midnight UTC in Meltano.
+The ZenGRC data source uses a singer tap we developed in [gitlab-data/tap-zengrc](https://gitlab.com/gitlab-data/tap-zengrc) and is run in our [Meltano instance](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L73) scheduled 3 times per day/every 8 hours starting at midnight UTC in Meltano.
 
 Currently this tap extracts a select number of objects from ZenGRC. These are listed in the [stream types in `tap_zengrc/tap.py`](https://gitlab.com/gitlab-data/tap-zengrc/-/blob/main/tap_zengrc/tap.py#L20-26).
 
@@ -835,7 +835,7 @@ This tap was created using [Meltano SDK](https://sdk.meltano.com/en/latest/) and
 
 ## ZenDesk
 
-The `ZenDesk` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L374) schedule at `04:00:00 UTC`.
+The `ZenDesk` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L374) schedule at `04:00:00 UTC`.
 
 The streams we currently load are specified on the `meltano.yml` configuration file, under the loader's `select` [section](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L100).
 
@@ -855,7 +855,7 @@ The final data ends up in Snowflake under the `TAP_ZENDESK` schema.
 
 ## ZenDesk Community Relations
 
-Similar to the `ZenDesk` pipeline, the `ZenDesk Community Relations` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L380) schedule at `05:00:00 UTC`.
+Similar to the `ZenDesk` pipeline, the `ZenDesk Community Relations` data source uses the [tap-zendesk](https://hub.meltano.com/taps/zendesk) Singer tap and runs on our [Meltano instance](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a [daily](https://gitlab.com/gitlab-data/gitlab-data-meltano/-/blob/main/meltano.yml#L380) schedule at `05:00:00 UTC`.
 
 Notice how in the configuration, this loader has a different name (`tap-zendesk--community-relations`), but it inherits from the same base loader: `tap-zendesk`.
 
@@ -876,7 +876,7 @@ The final data ends up in Snowflake under the `TAP_ZENDESK_COMMUNITY_RELATIONS` 
 
 ## Xactly
 
-The Xactly data source uses a singer tap we developed in [gitlab-data/tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) and is run in our [Meltano instance](https://about.gitlab.com/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a daily schedule at midnight UTC and at 5:00AM UTC. The midnight UTC is the regular extract and we do an [extra](https://gitlab.com/gitlab-data/analytics/-/issues/14780#note_1185764844) extract at 5:00AM UTC incase of network errors. Network errors do occur from time to time when extracting data out of Xactly which gets resolved automatically. Instead of rerunning the extract manually with the risk of missing the SLO we do an extra try at 5:00AM UTC.
+The Xactly data source uses a singer tap we developed in [gitlab-data/tap-xactly](https://gitlab.com/gitlab-data/meltano_taps/-/tree/main/tap-xactly) and is run in our [Meltano instance](/handbook/business-technology/data-team/platform/Meltano-Gitlab/) on a daily schedule at midnight UTC and at 5:00AM UTC. The midnight UTC is the regular extract and we do an [extra](https://gitlab.com/gitlab-data/analytics/-/issues/14780#note_1185764844) extract at 5:00AM UTC incase of network errors. Network errors do occur from time to time when extracting data out of Xactly which gets resolved automatically. Instead of rerunning the extract manually with the risk of missing the SLO we do an extra try at 5:00AM UTC.
 
 ## Clari
 
@@ -884,7 +884,7 @@ Clari is a revenue platform currently used by GitLab to forecast salesperson sal
 
 For each quarter, the API returns a forecast record for each user/week/metric.
 
-The [Clari child page](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/clari-pipeline) in the handbook has more technical details, including various gotcha's such as:
+The [Clari child page](/handbook/business-technology/data-team/platform/pipelines/clari-pipeline) in the handbook has more technical details, including various gotcha's such as:
 - API is not idempotent - returns only records for *current* active users, making backfills inadvisable
 - Need two DAG's to support the following edge cases:
     - late updated records
@@ -916,7 +916,7 @@ The [DAG](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/le
 
 Since each API endpoint has a `startDate` and `endDate` parameter, we can correspondingly pass in the DAG run's `execution_date` and `next_execution_date`. And since the DAG has a daily schedule, each run will return data for a 24-hour period.
 
-To do backfills for a longer period of time, it may be useful to follow the [handbook guidelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#backfills) on backfilling from the command line.
+To do backfills for a longer period of time, it may be useful to follow the [handbook guidelines](/handbook/business-technology/data-team/platform/infrastructure/#backfills) on backfilling from the command line.
 
 ## Omamori Extract
 

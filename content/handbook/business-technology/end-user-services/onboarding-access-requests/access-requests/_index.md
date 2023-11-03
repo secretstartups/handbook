@@ -32,7 +32,7 @@ If you have any access requests related questions, please reach out to #it_help 
 
 *You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) to request access for individuals or multiple people, as long as all the people are requesting access to the same systems.  Create multiple issues using this same template if multiple people require access to different systems. When access is being requested for multiple people who report to different managers but are part of the same department or division, approval can be obtained by the manager at the highest level; that is, the Director, Vice President, or Executive of the department or division.*
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-success">
 
@@ -169,7 +169,7 @@ While this application automation will take place in Okta, "true" system provisi
 
 *You can use [this template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/Name_change_request.md) when your name changes.*
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-success">
 

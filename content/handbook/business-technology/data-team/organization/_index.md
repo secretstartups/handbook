@@ -8,9 +8,9 @@ description: "GitLab Data Team Organization"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -87,7 +87,7 @@ In support of the Data Fusion Team, the Manager, Data fulfills the below respons
 
 ### Data Champion
 
-In support of the Data Fusion Team, the Data Champion is the `DRI for Data` within a Functional Analytics Team. The Data Champion fulfills the below responsibilities from the [Data Champion Program](https://about.gitlab.com/handbook/business-technology/data-team/direction/data-champion/) in Data Fusion:
+In support of the Data Fusion Team, the Data Champion is the `DRI for Data` within a Functional Analytics Team. The Data Champion fulfills the below responsibilities from the [Data Champion Program](/handbook/business-technology/data-team/direction/data-champion/) in Data Fusion:
 
 1. Develop a Data Success Plan in coordination with the Data Team.
 1. Serve as Data DRI for their functional team, capturing all Data requests, including Data Quality problems.
@@ -104,8 +104,8 @@ In support of the Data Fusion Team, the Lead Analytics Engineer fulfills the bel
 
 1. Own one or more stakeholder relationship in Go To Market, Research & Development, General & Administrative, Financial Analytics, or Engineering Analytics business functions.
 1. Co-DRI of Key Results along with the Manager, Data.
-1. Lead [work breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdowns) sessions for OKRs. Incorporate the Data Champion and other required team members in the work breakdown sessions.
-1. Lead twice-weekly [iteration planning](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning) sessions for the assigned Fusion Team. Work with Data Champions to prioritze `P3-Other` issues. The target state is for the Fusion team to spend 75% of their time working on `OKR` issues and 25% of their time working on `Other` issues. The OKRs are set by the Manager, Data and the Director, Data. Any changes to these priorities will be coordinated by Data Management.
+1. Lead [work breakdown](/handbook/business-technology/data-team/how-we-work/planning/#work-breakdowns) sessions for OKRs. Incorporate the Data Champion and other required team members in the work breakdown sessions.
+1. Lead twice-weekly [iteration planning](/handbook/business-technology/data-team/how-we-work/#quarterly-and-iteration-planning) sessions for the assigned Fusion Team. Work with Data Champions to prioritze `P3-Other` issues. The target state is for the Fusion team to spend 75% of their time working on `OKR` issues and 25% of their time working on `Other` issues. The OKRs are set by the Manager, Data and the Director, Data. Any changes to these priorities will be coordinated by Data Management.
 1. Review the weekly stand-up and provide support as needed to unblock team members and answer questions.
 1. Update the Rolly Bot Epic description section for the Key Results that the Lead AE is Co-DRI off.
 1. Keep Fusion Team boards updated on a bi-weekly cadence aligning to the Planning Drumbeat cadence.
@@ -150,8 +150,8 @@ We encourage our stakeholders to follow along with our issue boards to understan
 
 Recruiting great people is critical to our success and we've invested much effort into making the process efficient. Here are some reference materials we use:
 - a [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
-- [Data Roles and Career Development](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) to help existing team members and prospects understand growth opportunities
-- a [Take Home Test](https://about.gitlab.com/handbook/business-technology/data-team/organization/#data-roles-and-career-development) that we ask each candidate to complete; this test is good for the candidate and for us because it represents the type of work we perform regularly and if the candidate is not interested in this work it helps them make a more informed decision about their application
+- [Data Roles and Career Development](/handbook/business-technology/data-team/organization/#data-roles-and-career-development) to help existing team members and prospects understand growth opportunities
+- a [Take Home Test](/handbook/business-technology/data-team/organization/#data-roles-and-career-development) that we ask each candidate to complete; this test is good for the candidate and for us because it represents the type of work we perform regularly and if the candidate is not interested in this work it helps them make a more informed decision about their application
 
 # Data Roles and Career Development
 
@@ -232,7 +232,7 @@ Create a MR to contribute to handbook or templates | Investigate incidents and i
 | By Day 30 | By Day 60 |  By Day 90 | By Day 120 |
 | ------ | ------ |------ |------ |
 | Complete People and Data Onboarding | Meet stakeholders across the organization | Re-train or enhance an existing data science model |  Make a contribution to improve the Data Science handbook, packages, or processes |
-| Start attending Data Science Team meetings | Refine/improve one data science dashboard | Work on [OKR assignments](https://about.gitlab.com/handbook/business-technology/data-team/direction/#quarterly-objectives) | Take ownership of at least one quarterly OKR |
+| Start attending Data Science Team meetings | Refine/improve one data science dashboard | Work on [OKR assignments](/handbook/business-technology/data-team/direction/#quarterly-objectives) | Take ownership of at least one quarterly OKR |
 | Understand the current data science systems and processes |  | |  |
 
 ## Analytics Engineering

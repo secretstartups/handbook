@@ -124,7 +124,7 @@ The following best practices should be followed when building learning content t
 
 ## Toolkit
 
-Use the following resources when building handbook first learning. Review the [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
+Use the following resources when building handbook first learning. Review the [tech stack](/handbook/business-technology/tech-stack-applications/) to find the current application owner at GitLab.
 
 1. Articulate360
 1. [ScribehHow](https://scribehow.com/)

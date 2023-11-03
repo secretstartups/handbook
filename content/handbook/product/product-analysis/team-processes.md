@@ -4,10 +4,10 @@ title: Team Processes
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Issue hygiene
 

@@ -8,7 +8,7 @@ description: Snowplow Infrastructure Management
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ### Snowplow Overview
 

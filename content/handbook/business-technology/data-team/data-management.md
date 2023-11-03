@@ -10,7 +10,7 @@ description: "The Data Management Page covers the content around managing, secur
 
 
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**
@@ -24,7 +24,7 @@ Inline with GitLab's regulatory obligations, changes to [controlled documents](/
 
 ## Purpose
 
-Data Management covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it. The technical components of the Enterprise Data Platform are listed in the [GitLab Tech Stack](/handbook/business-technology/tech-stack-applications/).
+Data Management covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](/handbook/business-technology/data-team/platform/) and activities related to it. The technical components of the Enterprise Data Platform are listed in the [GitLab Tech Stack](/handbook/business-technology/tech-stack-applications/).
 
 ## Scope
 

@@ -38,7 +38,7 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 
 ## <i class="far fa-newspaper" id="biz-tech-icons"></i> Data Proof of Value Guide
 
-The Data Team performs Proof of Value Evaluations (PoVs) for all new technologies we are considering adding to the [Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform) or the broader [Technology stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/). This Guide is intended to help you perform a PoV efficiently and with great results.
+The Data Team performs Proof of Value Evaluations (PoVs) for all new technologies we are considering adding to the [Data Platform](/handbook/business-technology/data-team/platform) or the broader [Technology stack](/handbook/business-technology/tech-stack-applications/). This Guide is intended to help you perform a PoV efficiently and with great results.
 
 ### Phase 1: Calculate Value and Define Requirements
 

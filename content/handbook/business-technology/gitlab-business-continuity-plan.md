@@ -9,7 +9,7 @@ title: "Business Continuity Plan"
 
 
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**

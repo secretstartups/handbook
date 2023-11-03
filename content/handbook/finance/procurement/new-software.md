@@ -12,7 +12,7 @@ title: New software
 ## How Do I Submit a Request to Purchase New Software?
 
 - Once you've chosen your software vendor and have followed the Bid Requirements per above follow these instructions:
-    1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
+    1. [Login to Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
     1. Submit a New Supplier Request Form following below steps or [video](https://www.loom.com/share/16555efd968945d5b19b578a7c54afff) instruction:
 - Go to the "Forms and Quick Links" section on Home screen;
 - Click on "Request a New Supplier" button and complete the required fields;
@@ -29,7 +29,7 @@ title: New software
             - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
             - Upload any contracts you've received.
             - Click "Submit for Approval"
-1. After your request is approved and the contract signed, [update the tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) accordingly.
+1. After your request is approved and the contract signed, [update the tech stack](/handbook/business-technology/tech-stack-applications/#add-new-system-to-the-tech-stack) accordingly.
 
 ## What Happens after I submit my Request?
 

@@ -3,7 +3,7 @@
 title: "Workato Playbook"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -20,7 +20,7 @@ Please join [#workato-community](https://gitlab.slack.com/archives/C02U9EW8KSS) 
 
 ### How to request access?
 
-To get started with Workato, please create an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the AR, please include the following details:
+To get started with Workato, please create an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign it to @dparker or @karuna16. In the AR, please include the following details:
 
 - [ ] your organizational team
 - [ ] Workato environment - dev, test or prod.

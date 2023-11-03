@@ -150,7 +150,7 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 - Actively advocate for UX Research throughout the company, so that the company is aware of what UX Research does, how they do it, and what insights they have delivered.
 - Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
 - Identify ways to more efficiently and effectively conduct remote user research, and share those learnings with the wider community.
-- Work with Product Operations to ensure UXR consideration in the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
+- Work with Product Operations to ensure UXR consideration in the [Product Development Flow](/handbook/product-development-flow/).
 - Define and manage [Performance Indicators](/handbook/product/ux/performance-indicators/) for the UX Research team.
 - Independently create and manage [OKRs](/handbook/company/okrs/) for the UX Research team.
 - Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.

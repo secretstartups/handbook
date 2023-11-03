@@ -82,7 +82,7 @@ Subtracting the carry over weight (item 2) from our expected capacity (the produ
 
 #### Workflow
 
-Issues and epics generally follow our [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/).
+Issues and epics generally follow our [Product Development Flow](/handbook/product-development-flow/).
 
 Starting in January 2022, we will be running a 3-6 month experiment to shift the planning cadence from milestones to iterations with the primary goal of planning in smaller batches to enable more timely, better decision making. Iteration planning will take place via our 30 minute weekly Engineering/Product/UX sync. Only issues that have been weighted and marked as `~workflow::ready for development` will be scheduled into upcoming iterations. While we will be leveraging iterations, we will still follow our documented [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 

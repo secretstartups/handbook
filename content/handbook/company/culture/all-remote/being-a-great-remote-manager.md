@@ -106,7 +106,7 @@ There is an endless and ever-changing list of options available for online colla
 - Monday.com
 - Twist
 
-Want to see how GitLab does it? [Here's our tool stack](https://about.gitlab.com/handbook/business-technology/tech-stack/).
+Want to see how GitLab does it? [Here's our tool stack](/handbook/business-technology/tech-stack/).
 
 ### Promote inclusion
 

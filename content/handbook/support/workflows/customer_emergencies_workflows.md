@@ -481,7 +481,7 @@ You can bulk edit tickets by:
 
 1. Click Submit with the appropriate status change
 
-![ZD Bulk Update View](/images/support/zd-bulk-update.png){: .shadow}
+![ZD Bulk Update View](/images/support/zd-bulk-update.png)
 
 ## US Federal Emergencies
 

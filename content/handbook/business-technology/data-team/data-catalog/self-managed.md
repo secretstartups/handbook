@@ -6,9 +6,9 @@ description: "This page defines Self-Managed and provides directions for Self-Ma
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -32,8 +32,8 @@ description: "This page defines Self-Managed and provides directions for Self-Ma
 - Subscriptions
   - A subscription enables the Features of the product assigned to the Instance.   You can see a full list of features by tier on the [feature comparison](https://about.gitlab.com/pricing/feature-comparison/) page.
 - Product Usage
-  - [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) -  Service ping data is sent voluntarily from an Instance.  The User and Other Activity is captured as aggregated counts. Since not all customers send service ping data, or send just partial service ping data, there is an [Estimation Algorithm](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) used for a more wholistic view of the overall usage.
-  - Product Usage data and use cases is further described [here](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/).
+  - [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) -  Service ping data is sent voluntarily from an Instance.  The User and Other Activity is captured as aggregated counts. Since not all customers send service ping data, or send just partial service ping data, there is an [Estimation Algorithm](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html) used for a more wholistic view of the overall usage.
+  - Product Usage data and use cases is further described [here](/handbook/business-technology/data-team/data-catalog/product-usage-data/).
   - The systems overview of how the data is brought into GitLab can be seen [here](/handbook/product/analytics-instrumentation-guide/#systems-overview).
 
 ## Self-Managed Analysis

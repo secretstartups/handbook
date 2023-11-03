@@ -15,7 +15,7 @@ This document describes how to engage with the product management team.
 
 ## Where to reach Product Managers
 
-{:.no_toc}
+
 
 - **[Public Issue Tracker (for Product)](https://gitlab.com/gitlab-com/Product/issues)**; please use confidential issues for topics that should only be visible to team members at GitLab.
 - **[Chat channel](https://gitlab.slack.com/archives/product)**; please use the `#product` chat channel for questions that don't seem appropriate for the issue tracker.

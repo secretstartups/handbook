@@ -105,5 +105,5 @@ The following areas may need to be considered in the planning:
 ## Step 7) Execution against Product Launch checklist should happen
 
 Execute against the plan created above some resources that are helpful are:
-- SKU Creation handbook [page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/product-catalog/)
+- SKU Creation handbook [page](/handbook/business-technology/enterprise-applications/guides/product-catalog/)
 - Premium Pricing [Execution](https://internal.gitlab.com/handbook/product/pricing/archived-projects/matterhorn/) (Team member access only)

@@ -2,7 +2,7 @@
 
 title: "Management Responsibilities"
 ---
-{::options parse_block_html="true" /}
+
 
 
 

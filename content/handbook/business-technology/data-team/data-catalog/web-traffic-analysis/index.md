@@ -4,10 +4,10 @@ title: "Web Traffic Analysis"
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ---
 
@@ -165,7 +165,7 @@ Google Analytics 360/ BigQuery data is based on `All Data - Raw No Filters` view
 Each row in the Google Analytics BigQuery represents a single session.
 There are a lot of dimensions and metrics on Google Analytics UI, this schema can be a bit overwhelming on database level. The below picture represents 2 sessions that helps to get a better understanding of the BigQuery data structure:
 
-![image](/handbook/business-technology/data-team/data-catalog/web-traffic-analysis/bigquery_structure.png){: .shadow}
+![image](/handbook/business-technology/data-team/data-catalog/web-traffic-analysis/bigquery_structure.png)
 
 To get more clarity about BigQuery export schema, take a look at the below interactive tree map:
 

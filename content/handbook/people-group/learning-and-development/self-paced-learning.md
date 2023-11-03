@@ -15,7 +15,7 @@ The Customer Success and Development departments each have a number of licenses 
 
 #### Customer Sucess
 
-- If the O'Reilly App isn't listed on Okta, please open an Access Request using instructions on this [handbook page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
+- If the O'Reilly App isn't listed on Okta, please open an Access Request using instructions on this [handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
 - If you are unable to log in from the Okta O'Reilly App, please contact [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) with the AR number you created using the link above.
 
 #### Development

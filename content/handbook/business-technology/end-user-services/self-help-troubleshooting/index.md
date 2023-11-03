@@ -12,7 +12,7 @@ description: "Frequently asked questions for GitLab team members regarding 2FA, 
 
 
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**

@@ -8,7 +8,7 @@ description: "A set of conventions and guidelines for writing SQL at GitLab"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

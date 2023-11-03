@@ -4,7 +4,7 @@ title: "Tech Stack Guide Reference"
 description: "Reference for how to create and maintain Tech Stack Guides."
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -69,10 +69,10 @@ List the integrations between this app and other tech stack apps or systems. Inc
 
 List the important reports and dashboards used to operate the application, including links where available.
 
-## Tech Stack Guide Example #1: [Thought Industries LMS Tech Stack Guide](/handbook/customer-success/professional-services-engineering/education-services/lms/)
+## Tech Stack Guide Example #1: [Thought Industries LMS Tech Stack Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/lms/)
 
 Important Notes:
-1. This Tech Stack Guide lives in the [GitLab Professional Education Services](/handbook/customer-success/professional-services-engineering/education-services) handbook because Professional Services are the business owners of the app
+1. This Tech Stack Guide lives in the [GitLab Professional Education Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services) handbook because Professional Services are the business owners of the app
 2. The `handbook_link` key in the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for Thought Industries Learning Management System references the Tech Stack Guide
 
 ## Tech Stack Guide Example #2: Zuora Billing
@@ -148,7 +148,7 @@ For Zuora Billing, the team uses [Zuora Standard Reports](https://knowledgecente
  - Credit memos over time
 
 We also have a collection of Sisense Dashboards that include Zuora Data. These dashboards include data from other data sources such as Salesforce:
-  * [TD: Zuora Revenue Waterfall](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
+  * [TD: Zuora Revenue Waterfall](/handbook/business-technology/data-team/data-catalog/zuora_revenue_waterfall/)
   * [TD: Customer Segmentation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919364/TD:-Customer-Segmentation)
   * [Zuora ATR (Available to Renew)](https://app.periscopedata.com/app/gitlab:safe-dashboard/919223/Zuora-ATR-%7C-MYB---Live---v1.1)
   * [FY22 Zuora ATR](https://app.periscopedata.com/app/gitlab:safe-dashboard/919260/FY22:-Zuora-ATR---Based-on-FY21-Exit-ARR,-Snapshot-Date---2021-02-04)

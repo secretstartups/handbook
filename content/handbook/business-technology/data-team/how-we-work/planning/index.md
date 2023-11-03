@@ -9,9 +9,9 @@ description: "GitLab Data Team OKR and Iteration planning process"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -84,13 +84,13 @@ The timeline for Iteration planning is as follows:
 
 ### Quarterly OKR Planning
 
-Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. The Data Team also creates OKRs for [Data Platform](/handbook/business-technology/data-team/platform/) infrastructure development and these OKRs may not always map to immediate term Business Partner OKRs. Overall, [OKRs constitute 60-75%](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#standing-priorities) of the Data Team's Quarterly Capacity, with Production Operations as the only established higher priority.
+Data Team OKRs aspire to align with Business Technology OKRs, Finance Division OKRs, and CEO OKRs, thereby aligning with the OKRs of the Divisions we support. The Data Team also creates OKRs for [Data Platform](/handbook/business-technology/data-team/platform/) infrastructure development and these OKRs may not always map to immediate term Business Partner OKRs. Overall, [OKRs constitute 60-75%](/handbook/business-technology/data-team/how-we-work/#standing-priorities) of the Data Team's Quarterly Capacity, with Production Operations as the only established higher priority.
 
 Data Team OKRs are managed with [GitLab Plan](https://about.gitlab.com/direction/plan/) using Epics and Issues using a standard naming scheme and structure and this approach:
 - enables async contributions and planning
 - clearly defines Data Team priorities
 - helps to keep Epic and Issue description content to a manageable level
-- supports the [Rolly Bot](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting) for regular progress reporting
+- supports the [Rolly Bot](/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting) for regular progress reporting
 
 OKRs across the Data Team are written using GitLab's [How to Write OKRs](/handbook/company/okrs/#how-to-write-okrs) handbook page. The below formulas are used to write OKRs:
 
@@ -130,7 +130,7 @@ All Epics are part of the [GitLab Data Group](https://gitlab.com/groups/gitlab-d
     - [ ] Give each new Key Result Epic a title in the format `FYxx-Qx Data Objective X, KR Y: <name of key result>`
     - [ ] An example title is `FY23-Q1 Data Objective 1, KR 1: Deliver a New Adoption Performance Dashboard to Product with 10 Users Trained`
     - [ ] Add detail to this Key Result Epic, including:
-        - header bullets to support [weekly status roll-up reporting](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting)
+        - header bullets to support [weekly status roll-up reporting](/handbook/business-technology/data-team/how-we-work/#weekly-roll-up-reporting)
         - a description of the work
         - the expected business impact
         - objective measures and dates if available.

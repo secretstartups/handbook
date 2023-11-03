@@ -5,10 +5,10 @@ description: "This handbook page provides information about how we work in the I
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Overview
 

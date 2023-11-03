@@ -77,7 +77,7 @@ We were voted [The World's Most Productive Remote Team](https://noonies.hackerno
 As more folks work away from customers, it is easy to lose sight of whom we are serving. We can address this by:
 
 - [living out our customer results value]({{< ref "values#customer-results" >}})
-- product managers continuing to do [customer validation cycles](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 - [dogfooding]({{< ref "values#dogfooding" >}}) so we experience the same pain points our customers do
 - optimizing for [user experience and usability](/handbook/product/ux/). We manage toward improving performance for [UX KPIs]({{< ref "kpis#ux-department-kpis" >}}), including [SUS score](/handbook/product/ux/performance-indicators/#system-usability-scale-sus-score)
 
@@ -185,7 +185,7 @@ While building enterprise software, it's possible to optimize the software for t
 In order to prevent this effect, we will:
 
 - Create and maintain [UX scorecards](/handbook/product/ux/ux-scorecards/) and interviews from UX
-- [Validate problems and solutions before building](https://about.gitlab.com/handbook/product-development-flow/#validation-track)
+- [Validate problems and solutions before building](/handbook/product-development-flow/#validation-track)
 
 ### Frankenstein product
 

@@ -160,7 +160,7 @@ You can add the following checklist to an issue description to help illustrate t
 
 2️⃣ **BUILD TRACK**
 
-[**Plan Phase**](https://about.gitlab.com/handbook/product-development-flow/#build-phase-1-plan)
+[**Plan Phase**](/handbook/product-development-flow/#build-phase-1-plan)
 - [ ] Proposal is ready to be broken down and prioritized by PM for development
 
 **Develop & Test Phase**

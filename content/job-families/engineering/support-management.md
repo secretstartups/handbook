@@ -26,13 +26,13 @@ We want to live in a world where [everyone can contribute](/handbook/values/#mis
 
 #### Job Grade
 
-{:.no_toc}
+
 
 The Manager, Support Engineering is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### What you can expect in a Manager, Support Engineering role at GitLab
 
-{:.no_toc}
+
 
 As a Manager, Support Engineering, you will be:
 
@@ -53,7 +53,7 @@ For more details, see our [Support Manager Responsibilities page](/handbook/supp
 
 #### Projects you might work on
 
-{:.no_toc}
+
 
 Support Managers also work on things that will make your (and the lives of your coworkers) easier. Current and past Support team members have:
 
@@ -66,7 +66,7 @@ Support Managers also work on things that will make your (and the lives of your 
 
 #### You should apply if
 
-{:.no_toc}
+
 
 - You have an affinity for (and experience with) providing customer support, and making customers happy.
 - You have more than 2 years experience leading Support Engineering teams.
@@ -94,13 +94,13 @@ Senior Support Managers manage multiple teams and Staff-level individual contrib
 
 #### Job Grade
 
-{:.no_toc}
+
 
 The Senior Manager, Support Engineering is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### What you can expect in a Senior Support Engineering Manager role at GitLab
 
-{:.no_toc}
+
 
 A Senior Manager, Support Engineering will:
 
@@ -122,7 +122,7 @@ See also our [Support Manager Responsibilities page](/handbook/support/managers/
 
 #### Requirements
 
-{:.no_toc}
+
 
 - Technical credibility: Past experience as a Support Engineer or leading teams thereof
 - Management credibility: Past experience (3 to 5 years) in Support Management
@@ -133,7 +133,7 @@ See also our [Support Manager Responsibilities page](/handbook/support/managers/
 
 #### Nice-to-have Requirements
 
-{:.no_toc}
+
 
 - Be a user of GitLab, or familiar with our company
 - Prior product company experience
@@ -205,14 +205,14 @@ If you look forward to the challenges and opportunities and meet the requirement
 
 ##### Additional Responsibilities Unique to US Federal Include
 
-{:.no_toc}
+
 
 - Work closely with Public Sector CSM and SAEs in order to adapt to the needs of the unique user base
 - Be responsible for maintaining customer confidentiality and data security when working with cases
 
 #### Requirements
 
-{:.no_toc}
+
 
 In addition to the above requirements for Global Support Managers, you will need:
 
@@ -228,7 +228,7 @@ This role also closely interacts with counterparts in Product, Development, QA, 
 
 ###### Additional Responsibilities for Director of Support Readiness
 
-{:.no_toc}
+
 
 - Manage multiple teams and projects affecting consistent global execution
 - Own the support readiness and operations across all products

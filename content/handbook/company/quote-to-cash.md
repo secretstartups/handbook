@@ -19,7 +19,7 @@ An efficient Quote-to-Cash system makes purchasing, activating, and managing Git
 
 ## Q2C System Teams
 
-Quote-to-Cash system projects and initiatives often require close collaboration across functions and teams. The teams most often involved include: [Enterprise Applications](https://about.gitlab.com/handbook/business-technology/enterprise-applications/), [Billing Ops](/handbook/finance/accounting/finance-ops/billing-ops/), [Fulfillment](https://about.gitlab.com/direction/fulfillment/), [Field Operations](https://about.gitlab.com/handbook/sales/field-operations/), [Support](/handbook/support/readiness/operations/), and [Data](https://about.gitlab.com/handbook/business-technology/data-team/).
+Quote-to-Cash system projects and initiatives often require close collaboration across functions and teams. The teams most often involved include: [Enterprise Applications](/handbook/business-technology/enterprise-applications/), [Billing Ops](/handbook/finance/accounting/finance-ops/billing-ops/), [Fulfillment](https://about.gitlab.com/direction/fulfillment/), [Field Operations](https://about.gitlab.com/handbook/sales/field-operations/), [Support](/handbook/support/readiness/operations/), and [Data](/handbook/business-technology/data-team/).
 
 ## Q2C System Architecture
 
@@ -479,13 +479,13 @@ These ERDs illustrate how we model data from the Quote to Cash Systems in the Sn
 
 #### dbt Data Lineage Diagrams and Data Dictionaries
 
-[Quote to Cash Data Lineage Diagrams](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#dbt-data-lineage-diagrams) illustrate how the data from critical Quote to Cash source tables flow through the Snowflake data models.
+[Quote to Cash Data Lineage Diagrams](/handbook/business-technology/data-team/data-catalog/#dbt-data-lineage-diagrams) illustrate how the data from critical Quote to Cash source tables flow through the Snowflake data models.
 
-[Quote to Cash Data Dictionaries](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#dbt-data-dictionaries) provide definitions for the Quote to Cash fields used in the Snowflake Enterprise Dimensional Data Model.
+[Quote to Cash Data Dictionaries](/handbook/business-technology/data-team/data-catalog/#dbt-data-dictionaries) provide definitions for the Quote to Cash fields used in the Snowflake Enterprise Dimensional Data Model.
 
 #### Business Insights and Analysis
 
 Our Data Catalog provides access to Analytics Hubs, Data Guides, ERDs, and Analytics projects relating to the Quote to Cash business processes.
 
-- [Lead to Cash Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#lead-to-cash-catalog)
-- [Product Release to Adoption Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)
+- [Lead to Cash Data Catalog](/handbook/business-technology/data-team/data-catalog/#lead-to-cash-catalog)
+- [Product Release to Adoption Data Catalog](/handbook/business-technology/data-team/data-catalog/#product-release-to-adoption-catalog)

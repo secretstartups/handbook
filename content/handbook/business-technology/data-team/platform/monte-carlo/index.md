@@ -8,9 +8,9 @@ description: "Monte Carlo (MC) is our Data Observability tool and helps us deliv
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -26,7 +26,7 @@ The Data Team default for observing the status of the data is using Monte Carlo.
 - `Number of systems:` 1 (Snowflake)
 - `Number of tables:` 7,000+ tables
 - `Tables under active Alert:` 1,700+ tables
-- Part of [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/)
+- Part of [Daily Data Triage](/handbook/business-technology/data-team/how-we-work/triage/)
 - Create Custom Monitors for advanced use cases
 - Pilot Monitoring Tool for select dbt tests
 
@@ -43,7 +43,7 @@ We use the [#data-pipelines](https://gitlab.slack.com/archives/C0384JBNVDJ) Slac
 We are planning on using the [#data-analytics](https://gitlab.slack.com/archives/CBZD1BA5S) Slack channel in the near future for model related alerts, as soon as we have implemented the full notification strategy for Monte Carlo.
 This work is planned under this epic for F23Q3: [Onboard Analytics Engineers to the Monte Carlo Tool](https://gitlab.com/groups/gitlab-data/-/epics/615)
 
-Monte Carlo is an integral part of our [Daily Data Triage](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
+Monte Carlo is an integral part of our [Daily Data Triage](/handbook/business-technology/data-team/how-we-work/triage/) and will replace the [TD Trusted Data Dashboards](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-operations-dashboard).
 
 
 ```mermaid
@@ -109,7 +109,7 @@ If you want to modify an existing monitor, depending on the type of monitor, you
 Currently, when we are getting notifications on different Slack channels, we can already triage the issue via Slack by assigning a status to it choosing from: `Fixed`, `Expected`, `Investigating`, `No action needed` and `False positive` (`No status` is a default status by MonteCarlo).
 Once we start investigating and we have a finding, if we write a comment on Slack in the same notification thread, that comment will automatically be added to the incident on Monte Carlo.
 
-Our goal is to be able to integrate Monte Carlo with GitLab so that whenever we get an alert on Slack, a triage issue would automatically be opened on GitLab and we'd follow the same [Data Triage procedure](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/triage/) as usual.
+Our goal is to be able to integrate Monte Carlo with GitLab so that whenever we get an alert on Slack, a triage issue would automatically be opened on GitLab and we'd follow the same [Data Triage procedure](/handbook/business-technology/data-team/how-we-work/triage/) as usual.
 
 There is detailed information including a video section in the official Monte Carlo documentation on [how to respond to an alert](https://docs.getmontecarlo.com/docs/explore-monte-carlo-incidents).
 

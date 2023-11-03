@@ -289,7 +289,7 @@ Over the last few years, GitLab has continued to hold the [ISO/IEC 27001:2013](/
 
 #### Responsible Product Development*
 
-GitLab's [product mission](https://about.gitlab.com/handbook/product-development-flow/) is to consistently create products and experiences that users love and value. Responsible product development is integral to this mission.
+GitLab's [product mission](/handbook/product-development-flow/) is to consistently create products and experiences that users love and value. Responsible product development is integral to this mission.
 
 We are committed to secure and ethical operations as an organization and, beyond that, strive to set an example by empowering our wider GitLab [community](https://about.gitlab.com/handbook/marketing/developer-relations/community-pathway/#how-community-fits-into-gitlabs-strategy) to build and work with the highest levels of security through our DevSecOps platform.
 

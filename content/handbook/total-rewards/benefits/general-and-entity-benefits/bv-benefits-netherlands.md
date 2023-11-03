@@ -61,7 +61,7 @@ The Team Member must be seen by an optician and must provide proof that lenses a
 
 Team Members should send their documentation (prescription) from the optician to total-rewards@gitlab.com for approval. The Team Member can request to be reimbursed for the frame, lenses, and eye test for a maximum reimbursement of 250 Euros.
 
-Once Total Rewards approves, the team member should submit their reimbursement through [Navan](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
+Once Total Rewards approves, the team member should submit their reimbursement through [Navan](/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/). For the Navan entry under "Expense Type" select "Other" and under "GL" select "Benefits Medical & Other".
 
 ## Pension
 

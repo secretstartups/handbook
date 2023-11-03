@@ -26,7 +26,7 @@ level increases, up to Red data.
 
 The framework targets mostly Engineering Managers and their team, but also Product Managers, to
 track progress from the early phases of the [Product Development
-Workflow](https://about.gitlab.com/handbook/product-development-flow/), to the release or deployment to production.
+Workflow](/handbook/product-development-flow/), to the release or deployment to production.
 
 Once released or deployed, the SDLC loops and a new iteration can start. The framework continues to
 support the team with insights and recommendations. More importantly, changes in the framework

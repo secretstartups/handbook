@@ -15,7 +15,7 @@ description: "Endpoint Detection and Response: EDR, endpoint security, anti-viru
 
 ## Overview
 
-With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS, Windows and Linux devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. The use of a Windows endpoint requires a specific business reason and an approved exception as the [use of a Windows endpoint is prohibited](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
+With an increased number of high profile breaches in the media today it is important we carefully consider the risk and external threats GitLab faces.  Due to our service and the companies that use us, it is credible that we are or will soon become a high profile target for adversaries looking to exploit GitLab or a GitLab customer. Endpoint detection and response (EDR) technology helps further strengthen endpoint security protecting not only GitLab, but each of our Team Members as well. All macOS, Windows and Linux devices used by GitLab Team Members for the purposes of fulfilling the responsibilities of their role as a GitLab Team Member are required have the SentinelOne EDR agent installed and functioning. The use of a Windows endpoint requires a specific business reason and an approved exception as the [use of a Windows endpoint is prohibited](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations).
 
 ### What is Endpoint Detection and Response (EDR)?
 
@@ -82,7 +82,7 @@ While this effort is certainly appreciated, we need a way to be able to audit la
 
 ### Who owns and manages the EDR solution at GitLab?
 
-Jointly, the Security Department and IT will be responsible for different components. [SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [IT Security](https://about.gitlab.com/handbook/business-technology/#security-and-compliance) will handle the configuration and deployment of agents (via Jamf), and [Compliance](/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership.
+Jointly, the Security Department and IT will be responsible for different components. [SIRT](/handbook/security/security-operations/sirt/sec-incident-response.html) will manage the console for incidents, [IT Security](/handbook/business-technology/#security-and-compliance) will handle the configuration and deployment of agents (via Jamf), and [Compliance](/handbook/security/security-assurance/security-compliance/) will handle auditing components. With two departments responsible for usage, we deem it to be joint ownership.
 
 ### What safeguards are in place to ensure that owners of this process can prevent abuse?
 
@@ -101,7 +101,7 @@ If you wish to add further privacy and security to your home network, you can fu
 
 ### How do I install the SentinelOne agent on Linux?
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-info">
 **Note**

@@ -32,7 +32,7 @@ Welcome to Accounts Payable, commonly referred to as AP. You should be able to f
 
 1. The vendor's invoice has not been paid yet, and they are asking me when it will be paid?
     - Check if your Coupa PO was fully approved.
-    - The PO must also be received before we can release payment. Instructions on this process can be found [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide#how-to-receive-an-order).
+    - The PO must also be received before we can release payment. Instructions on this process can be found [here](/handbook/business-technology/enterprise-applications/guides/coupa-guide#how-to-receive-an-order).
     - Verify if the invoice was sent to the correct place:
         - An invoice attached to a PO **will not** get processed.
         - Invoices for Coupa should be submitted in the supplier portal against their PO or emailed to <i>[invoices@gitlab.coupahost.com](mailto:invoices@gitlab.coupahost.com)</i> if they do not have a PO. If invoices are emailed, they MUST include the PO# on the invoice for timely payment.
@@ -60,7 +60,7 @@ Coupa is a procure-to-pay system that will help us streamline the purchase reque
 
 Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](mailto:invoices@gitlab.coupahost.com)</i>. Vendors can also upload their invoices directly and match to their PO through their Coupa supplier portal.
 
-> You can learn more about Coupa in our [FAQ Page]({{< ref "../procurement/coupa-faq" >}}) and in the [Coupa Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide)
+> You can learn more about Coupa in our [FAQ Page]({{< ref "../procurement/coupa-faq" >}}) and in the [Coupa Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide)
 
 #### Coupa Best Practices
 
@@ -79,7 +79,7 @@ Invoices can be emailed to <i>[invoices@gitlab.coupahost.com](mailto:invoices@gi
     - If PO is hard/fully closed, it cannot be reversed.
 1. Payment batch creation:
     - Use the pre-set view "Payment Setup" which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date.
-     ![Payment-setup](Payment-setup.png){: .shadow}
+     ![Payment-setup](Payment-setup.png)
 1. How to remove an invoice from a payment batch:
     - To remove a payment from a submitted batch, please add a comment to the batch and tag Misty Brown so that she can remove the payment and the request will be recorded in Coupa.
 1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76).

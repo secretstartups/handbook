@@ -4,7 +4,7 @@ title: "Coupa End Users Quick Guide"
 description: "Coupa End Users Quick Guide"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -17,7 +17,7 @@ description: "Coupa End Users Quick Guide"
 ### Coupa End Users Quick Guide
 
 This page provides a general overview of the Coupa procurement processes. See below for links to additional Coupa information:
-- [Coupa End Users Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
+- [Coupa End Users Guide](/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
 - [Coupa FAQ](/handbook/finance/procurement/coupa-faq/)
 - [The GitLab Procurement Team](/handbook/finance/procurement/)
 - [Accounts Payable](/handbook/finance/accounts-payable/)

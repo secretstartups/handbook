@@ -43,11 +43,11 @@ If you are issued a refreshed or replacement laptop, please do not transfer data
 
 # Linux laptops
 
-We do not have Linux-based endpoint management in place at this time. We are using [DriveStrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) to perform remote disk wipes in case a Linux device is lost, stolen, or the team-member is offboarded. There will be a second initiative to address Linux-based endpoint management in the future.
+We do not have Linux-based endpoint management in place at this time. We are using [DriveStrike](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) to perform remote disk wipes in case a Linux device is lost, stolen, or the team-member is offboarded. There will be a second initiative to address Linux-based endpoint management in the future.
 
 # Windows laptops
 
-The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact [Team Member Enablement](https://about.gitlab.com/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us) to have a company laptop shipped to you.
+The Windows operating system is not a supported platform at GitLab, as described in the [Internal Acceptable Use Policy](/handbook/people-group/acceptable-use-policy/#unable-to-use-company-laptop). If you’re using a Windows laptop, please contact [Team Member Enablement](/handbook/business-technology/team-member-enablement/#-how-to-reach-out-to-us) to have a company laptop shipped to you.
 
 # Support Information
 
@@ -300,7 +300,7 @@ We do not have any additional controls in place beyond the existing requirements
 
 ### What will be the change, review, and socialization process for configuration changes to Jamf?
 
-It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/change-management/](https://about.gitlab.com/handbook/business-technology/change-management/).
+It will be no different than our current process for change management which is outlined here: [/handbook/business-technology/change-management/](/handbook/business-technology/change-management/).
 
 ### What options does a team member have to protect their home network privacy?
 

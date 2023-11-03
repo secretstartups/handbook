@@ -9,7 +9,7 @@ title: "GitLab Laptop Management"
 
 
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**
@@ -73,7 +73,7 @@ Read the ["What to know about a fake job scam impersonating GitLab"](https://abo
 
 Team members can choose to refresh their laptop, no questions asked, after 3 years of use (not necessarily 3 years of employment if a used laptop was issued at the time of onboarding). If the laptop is sufficient for your needs, you may opt to continue using a laptop until it no longer receives the latest macOS version from Apple (approximately 5 years).
 
-The old laptop must be [wiped](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) or [returned](#laptop-recyclereturn) **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
+The old laptop must be [wiped](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) or [returned](#laptop-recyclereturn) **within 2 weeks of receiving the replacement laptop**, so please prioritize transferring information between laptops within this timeframe.
 
 Laptops being requested as part of the refresh program use [this template](https://gitlab.com/gitlab-com/it/end-user-services/issues/laptop-issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
@@ -107,7 +107,7 @@ You must open an issue in the [End User Services Issue Tracker](https://gitlab.c
 
 Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
-Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process. Make sure that your [disk is encrypted](/handbook/business-technology/end-user-services/onboarding-access-requests/#full-disk-encryption) and you've reinstalled [Jamf for Mac or DriveStrike for Linux](/handbook/business-technology/end-user-services/onboarding-access-requests/#fleet-intelligence--remote-lockwipe). Also, ensure that you have installed [SentinelOne](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/#endpoint-management-technologies) in order to keep your laptop secure.
 
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
 
@@ -292,7 +292,7 @@ Reformatting a computer is not sufficient in these cases because it is possible 
 
 ### Laptop Wipe
 
-Laptop wipes must be performed via [scheduling an appointment](https://about.gitlab.com/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT analyst to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab. Laptops must be wiped with [Jamf](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/) for macOS, and [DriveStrike](/handbook/it/guides/drivestrike/) for Linux. Using these tools ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe.
+Laptop wipes must be performed via [scheduling an appointment](/handbook/business-technology/end-user-services/#laptop-wipe-schedules-for-it-analysts) with an IT analyst to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by GitLab. Laptops must be wiped with [Jamf](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/jamf/) for macOS, and [DriveStrike](/handbook/it/guides/drivestrike/) for Linux. Using these tools ensures a clean disk wipe is performed and GitLab can retain evidence of the disk wipe.
 
 Under no circumstance should you perform your own disk wipe unless you are doing so at the request of IT to troubleshoot a technical problem with the laptop. If GitLab discovers that a device has not been wiped according to policy, GitLab may act to enforce a remote wipe without notice.
 

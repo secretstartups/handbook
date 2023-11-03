@@ -3,7 +3,7 @@
 title: "IT Program Management Office"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -210,7 +210,7 @@ To better organize and manage their work, the IT teams have different label cate
 
 ## Compliance Documentation
 
-The IT PMO team supports project stakeholders in gathering all the essential information required for SOX (Sarbanes-Oxley Act) and compliance purposes throughout the project's lifecycle. We have developed multiple templates following the [guidelines](/handbook/business-technology/pmo/pmo-governance/#clear-documentation-for-compliance) provided by the [IT Compliance team](https://about.gitlab.com/handbook/business-technology/it-compliance/). These templates aid in creating comprehensive and well-structured documentation, facilitating the gathering of essential information.
+The IT PMO team supports project stakeholders in gathering all the essential information required for SOX (Sarbanes-Oxley Act) and compliance purposes throughout the project's lifecycle. We have developed multiple templates following the [guidelines](/handbook/business-technology/pmo/pmo-governance/#clear-documentation-for-compliance) provided by the [IT Compliance team](/handbook/business-technology/it-compliance/). These templates aid in creating comprehensive and well-structured documentation, facilitating the gathering of essential information.
 
 The IT PMO team collaborates with project stakeholders to create these documents and ensures that all necessary approvals are captured within them.
 

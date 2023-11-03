@@ -12,7 +12,7 @@ description: "Entity Relationship Diagrams for Quote to Cash Systems"
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Quote to Cash Entity Relationship Diagrams
 

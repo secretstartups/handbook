@@ -4,7 +4,7 @@ title: "Application Rationalization"
 description: ""
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -16,7 +16,7 @@ description: ""
 
 # Context
 
-The [Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) is a list of all the technology that GitLab currently uses to support the business. It lists systems/applications and data used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
+The [Tech Stack](/handbook/business-technology/tech-stack-applications/) is a list of all the technology that GitLab currently uses to support the business. It lists systems/applications and data used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details.
 
 > Use the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Tech Stack Apps.
 

@@ -5,9 +5,9 @@ title: "CI Runner Activity"
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -109,8 +109,8 @@ A great way to get started building charts in Sisense is to watch this 10 minute
 
 ## Trusted Data Solution
 
-See overview at [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+See overview at [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
-Kindly refer the [dbt guide examples](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
+Kindly refer the [dbt guide examples](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
 details and examples on implementing further tests.
 

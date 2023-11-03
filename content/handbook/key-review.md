@@ -140,7 +140,7 @@ To create these slides, you will need *Editor* access in Sisense.
 - Edit the chart you're interested in.
 - Click "Chart Format" (second tab on far right)
 - Under Advanced, select "Expose Public CSV URL"
-- Follow the [instructions on pulling data out of Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/#pulling-data-out-of-sisense)
+- Follow the [instructions on pulling data out of Sisense](/handbook/business-technology/data-team/platform/periscope/#pulling-data-out-of-sisense)
 - Select the data set and add a chart to the sheet
 - In the slides, Insert > Chart > From Sheets > find the one you're looking for
 

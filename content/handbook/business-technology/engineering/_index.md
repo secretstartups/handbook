@@ -68,7 +68,7 @@ If in doubt of how to engage or wish to informally ask, simply send a message to
 - [Google Drive Folder with Slide Decks](https://drive.google.com/drive/folders/1qY4KCTAM26VEmUPPcKFS8EdK1p3McxU_)
 - [Development Roadmap](https://drive.google.com/drive/folders/1W1861aFWo8XBoBYbI95FbRX6zDS2bsAr)
 
-The Access Manager Engineering team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/).
+The Access Manager Engineering team focuses on Identity and Access Management (IAM) and Role-Based Access Control (RBAC) automation for all of [GitLab's tech stack applications](/handbook/business-technology/tech-stack-applications/).
 
 See the [Access Manager Handbook Page](/handbook/it/access-manager) to learn more.
 
@@ -94,16 +94,16 @@ See the [Access Manager Handbook Page](/handbook/it/access-manager) to learn mor
   - [Dominic Couture (Staff Security Engineer, Application Security)](/handbook/company/team/#dcouture)
 
 - `#bt-integrations` Slack Channel
-- [Handbook Page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
+- [Handbook Page](/handbook/business-technology/enterprise-applications/integrations/)
 - [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work)
 - [Project Repositories](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations)
-- [Related - Project Platypus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/platypus/#platypus-distilled)
+- [Related - Project Platypus](/handbook/business-technology/enterprise-applications/integrations/platypus/#platypus-distilled)
 
 The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Platypus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaaS).
 In FY21-Q3, we launched v1.0 of Platypus. This release includes all of the work we’ve done so far to stand up Platypus and get it ready for projects. Going forward release versions will be bumped at the end of our monthly milestones and include the changelog of the work done in that milestone. We are releasing code to production on a daily basis, these versions just serves as a marker to capture a snapshot of the work we’ve done in each milestone.
 
 
-You can learn more about Platypus and our capabilities and offerings on our [handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/) or ask in the `#bt-integrations` Slack channel.
+You can learn more about Platypus and our capabilities and offerings on our [handbook page](/handbook/business-technology/enterprise-applications/integrations/) or ask in the `#bt-integrations` Slack channel.
 
 ## Infrastructure Engineering
 
