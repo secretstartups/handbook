@@ -523,7 +523,20 @@ _Each PM is responsible for pinging their PMM counterpart when they need a revie
 
 PMM lead is responsible for creating a release post highlight blurb for consumption by field and PR.
 
-The tasks are included in the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md).
+The tasks are included in the [release post MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and in the [monthly release post intro document](https://docs.google.com/document/d/13bGcGxkAQjdUgonX8tbQ72bkCtgkEY6EM9dsXFqfwN0/edit).
+
+On or before the third thursday of the month:
+- Create [new Product marketing](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new) issue with PMM-Release-Post template.
+- Create release highlights - 3-4 themes with description. Use this document to document your highlights
+- Update the issue with the highlights
+- Update highspot
+  - Add the actual release post blog as a new piece of content in Highspot (Customer Outreach spot) (e.g., [release post](https://gitlab.highspot.com/items/64be9cb7a725d13bebaaf6c2?lfrm=shp.1)) 
+  - Add this new release post on highspot to the [GitLab Releases spot overview page](https://gitlab.highspot.com/items/624626054e2472aa8611b5bf) in the GitLab Release Post section
+  - Create a new pitch template for this release in Highspot (Company Pitch Templates spot) (e.g., [pitch template](https://gitlab.highspot.com/items/64e642a213d3aeb2992e8ec4))
+  - Add this new pitch template to the [GitLab Releases spot overview page](https://gitlab.highspot.com/items/624626054e2472aa8611b5bf) in the Release Pitch Templates section
+- Flag to comms to share in #sales
+- Share with the PR and Field enablement team and tag release post manager.
+
 
 ## TW Lead
 
