@@ -47,7 +47,7 @@ Please see our [Top misused terms page](/handbook/communication/top-misused-term
 
 ### Effective Listening
 
-Commit to [Active and Effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening).
+Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening).
 
 ## Communicating Potentially GitLab Sensitive Topics
 
