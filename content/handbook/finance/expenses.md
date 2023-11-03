@@ -323,7 +323,7 @@ The company will cover all work-related travel expenses. This includes lodging a
 #### Business Cards
 
 - Business cards are ordered from Moo as per the instructions provided by the People Connect team.
-- To be ordered via Moo, attach a receipt from Moo. Refer to the Ordering Business Cards handbook page.
+- To be ordered via Moo, attach a receipt from Moo. Refer to the [Ordering Business Cards](https://internal.gitlab.com/handbook/people-group/people-operations/people-connect/frequently_requested/#ordering-business-cards) handbook page.
 - Limit is set at $150 per quarter.
 - Expenses higher than this limit require manager's approval via email. The email should be attached to the expense transaction as an additional receipt.
 
