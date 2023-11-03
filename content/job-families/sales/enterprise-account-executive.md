@@ -221,19 +221,45 @@ As with all roles in the Sales Department the Strategic Account Executive partic
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
-As part of the application, candidates will need to answer the following questions
+As part of the application, candidates can expect the following stages.
 
-- What would differentiate you and make you a great account executive for GitLab?
-- What is your knowledge of the space that GitLab is in? (i.e. Industry Trends)
-- How do you see the developer tools changing over the coming years from a sales perspective? (i.e. Competitive Positioning, Customer Needs, etc)
+### Stages
 
-Selected candidates will be invited to schedule a screening call with our Global Recruiters
-Next, candidates will be invited to schedule a first interview with an Area Sales Managers or Regional Sales Director
-Candidates will then be invited to schedule a second interview with Regional Sales Director (in a different region)
-Candidates may be invited to schedule a third interview with our VP, Enterprise Sales
-Successful candidates will subsequently be made an offer via email
+#### 1. Initial Screen - Recruiter
+- Candidates are invited to schedule an interview with the Recruiter.
+- Areas of focus (as defined in GitLab Handbook):
+    - Results
+    - Collaboration
+#### 2. Initial Interview - Hiring Manager
+- Candidates are invited to schedule an interview with the Hiring Manager.
+- Areas of focus (as defined in GitLab Handbook):
+    - Results
+    - Operational Excellence - Account Planning & Management
+    - Customer Focus - Effective Communication
+    - Operational Excellence - Growth Mindset
+    - Operational Excellence - Process Discipline
+    - Iteration
+#### 3. Mock Presentation - Panel
+- Candidates are invited to schedule a presentation with 3 interviewers from the team.
+- Areas of focus (as defined in GitLab Handbook):
+    - Solutions Focus - Consultative approach
+    - Solutions Focus - DevOps & Technical Leadership
+    - Solutions Focus - Building Trust
+    - Customer Focus - Facilitating
+    - Customer Focus - Understanding Customer’s Needs
+    - Efficiency
+#### 4. Final Interview - Senior Leadership
+- Candidates are invited to schedule an interview with senior leadership.
+- Areas of focus (as defined in GitLab Handbook):
+    - Operational Excellence - Resource Orchestration
+    - Collaboration
+    - Operational Excellence - Growth Mindset
+    - Customer Focus - Customer Business Acumen
+    - Solutions Focus - Leading with Vision
+    - Transparency
+    - Diversity inclusion and belonging
 
-Additional details about our process can be found on our hiring page.
+
 
 ### Compensation
 
