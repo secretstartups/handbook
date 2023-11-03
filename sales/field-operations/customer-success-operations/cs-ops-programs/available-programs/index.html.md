@@ -29,9 +29,9 @@ The programs below are available to Tech Touch and Scale segments. Programs are 
 |---------------------------------|-------------|----------|---------------------------------------------------------|--------|
 | Onboarding Enrollment   | Onboarding  | [Copy doc](https://docs.google.com/document/d/1VmJ_UWWbbTvMnjagixhPRWTomzLZmWJBI4t04pwFiOY/edit?usp=sharing) | 0-2 days of contract date                        | Time-based trigger |
 | Onboarding & CI Enablement Series   | Onboarding and Enablement  | [Copy doc](https://docs.google.com/document/d/1ZdJkf8K3E6sEB3jEFOcRot5bp_s-neBflPdX0eeSgmc/edit?usp=sharing) | 0-7 days | Time- and usage-based triggers |
-| DevSecOps Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 30-37 days  | Time-based trigger |
-| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 45-50 days     | Time-based trigger |
-| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 53-58 days   | Time-based trigger |
+| Secure (DevSecOps) Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1Pw66qGELmFbdzh7iFqLfuWt0dfDWTVqYSNl2hYe2jqE/edit?usp=sharing) | 10-15 days  | Time-based trigger |
+| CD Enablement Series    | Enablement  | [Copy doc](https://docs.google.com/document/d/11x7AYtQoSD51jY2ev5MPv2xZ7qDUKwXMEQpDsSUGlVA/edit?usp=sharing) | 17-19 days     | Time-based trigger |
+| Agile Enablement Series  | Enablement  | [Copy doc](https://docs.google.com/document/d/1V7HaAvY4Oi60Sda636vOes3wUlsmkvtTKlsXlhqJhKc/edit?usp=sharing) | 21-23 days   | Time-based trigger |
 | Monthly Newsletters  | Enablement  | [Handbook](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/customer-newsletter/)     | Sent Monthly on Fridays  | Time-based trigger |
 | NPS Post-Onboarding Survey | Onboarding  | [Issue](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/274)    | First Value Date, or 90 days after contract date, whichever is first  | Time- and usage-based trigger |
 | NPS Pre-Renewal Survey     | Retention   | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | ~ 120 days before Next renewal date | Time-based trigger |
