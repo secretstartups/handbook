@@ -423,9 +423,9 @@ Because it is our single source of truth (SSOT) for employee data, BambooHR serv
 
 When designating a team members `specialty` we use the smallest unit of our Product [hierarchy](/handbook/product/categories/#hierarchy) and their designated [names](/handbook/product/categories/#naming). So for example:
 
-- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create:Code Review`
+- A team member who is a stable counterpart in the Code Review group in the Create stage would have the specialty designation of `Create: Code Review`
 - A team member who is a stable counterpart to the entire Verify stage would have a specialty designation of `Verify`
-- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage:Access`, `Manage:Import`, and `Create:Gitaly`.
+- A team member who is a stable counterpart to the Access and Import groups in the Manage stage, and the Gitaly group in the Create stage would have specialty designations of `Manage: Access`, `Manage: Import`, and `Create: Gitaly`.
 
 #### Single-Engineer Groups
 
