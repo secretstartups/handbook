@@ -14,6 +14,20 @@ The Field Operations Changelog keeps a running log of Field Ops changes related 
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/).
 
+## Q4-FY24
+
+### 2023-11-07 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/403))
+
+**[Auto Renew Logic Update](https://gitlab.com/groups/gitlab-org/-/epics/11051)**
+
+**[Sales Tech Stack Strategy & DRI](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/385)**
+
+**[Sales Tools License Usage Policy](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/merge_requests/3686)**
+
+**[Clari Session Timeout](https://gitlab.com/internal-handbook/internal-handbook.gitlab.io/-/merge_requests/3686)**
+
+**[Clari Product Update - Forecasting Quick Submit](https://clari.my.site.com/customer/s/article/Forecasting-Quick-Submit)**
+
 ## Q3-FY24
 
 ### 2023-10-16 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/398))
