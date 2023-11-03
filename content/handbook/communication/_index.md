@@ -47,44 +47,7 @@ Please see our [Top misused terms page](/handbook/communication/top-misused-term
 
 ### Effective Listening
 
-It is estimated that listeners will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
-
-**Myths about Listening**
-
-- Everybody knows how to listen.
-- Sending messages is more important than receiving them.
-- Listening is easy and passive.
-- Hearing and listening are the same thing.
-- An effective speaker commands audience attention.
-- Communication is the sender’s responsibility.
-- Listening is done with our ears.
-- Listening skills are practiced and not learned.
-- Listening ability comes from maturity.
-
-**Tips for Effective Listening**
-
-- Concentrate.
-- Give unequivocal attention to the speaker.
-- Don’t anticipate what the speaker means.
-- Test the message not the messenger.
-- Respect cultural difference and boundaries.
-- Develop the fine art of empathy.
-- Try not to interrupt.
-- Focus on feelings and not grammar or vocabulary.
-- Silence is the golden rule.
-
-**Being Assertive**
-
-There is a delicate balance between being confident enough to be assertive of personal rights and boundaries while respectful of others.
-
-- Know the distinction between being assertive and being aggressive or arrogant.
-- Establish clear boundaries when dealing with others.
-- Politely but directly let people know your position.
-- Know what you want.
-- Avoid being timid.
-- Be willing to clearly say either yes or no and stand by your answer.
-- Avoid arrogance.
-- When opinions are in question give yourself permission to disclose yours.
+Commit to [Active Listening and Effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening).
 
 ## Communicating Potentially GitLab Sensitive Topics
 
