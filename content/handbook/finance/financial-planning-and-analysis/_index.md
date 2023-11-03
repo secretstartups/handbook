@@ -363,7 +363,7 @@ Position ID is a unique identifier and is the link between approved headcount an
    - Only Planned and Backfill positions are included in the Hiring Plan
 - All positions in the Hiring Plan are approved through:
    - Annual Operating Plan (AOP) cycle (beginning of each fiscal year)
-   - RLoA cycle for any incremental roles through the year
+   - [RLoA](https://handbook.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
    - Backfill due to attrition in the business
 - Positions may be updated/changed during weekly interlock process (e.g. reallocated to different team, changed for different Role level)
 - Each position is assigned with an unique identifier called Position ID (PID)
@@ -371,10 +371,10 @@ Position ID is a unique identifier and is the link between approved headcount an
    - PID simplifies and provides transparency on modeled headcount (attrition and backfill)
    - PID is an unique identifier for positions assigned to all current and future approved headcount
 - PIDs are created and assigned by Corporate FP&A (Corporate) when Hiring Plan is finalized or upon change request of existing position(s)
-   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to TA’s section on GHPID)
+   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
    - Not all positions are assigned with GHPIDs
    - Key difference between GHPID and PID
-      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to TA section on Opening)
+      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
       - PID has 1-to-1 relationship with an approval headcount
       - Each PID has 1-to-1 relationship with a GHPID at any given time
       - **Illustrative example:** Employee **A** departs and business decides to backfill the same role
@@ -467,10 +467,10 @@ Both PID and GHPID are created and maintained by FP&A team as unique identifiers
 All PIDs are created by the Corporate FP&A team and are tied to Headcount Forecast (including Hiring Plan)
 
 FP&A Position IDs increase visibility and accuracy for headcount forecasting (count and dollars) and simplify & provide transparency on modeled headcount (attrition and backfill).
-   - PID is an unique identifier for positions assigned by Corporate to all positions in Hiring Plan
-   - Add/remove/exchange positions requires FBP approval via existing process, e.g. RLOA or rolling forecast and submit change request Google Form here
+   - PID is an unique identifier for positions assigned by Corporate to **all** positions in Hiring Plan
+   - Add/remove/exchange positions requires FBP approval via existing process, e.g. RLOA or rolling forecast and submit change request Google Form [here](https://docs.google.com/forms/d/e/1FAIpQLSeHS97lg1Fz_SIQTisg-TOPHsXf6QMGw6vXfuEDkB_GY8pKfA/viewform)
    - Positions reconciled regularly, e.g. monthly before each rolling forecast lock
-   - Position ID follows “FIN-Fiscal Year-0000 (4-digit PID code)” as naming convention
+   - Position ID follows “**FIN-Fiscal Year-0000 (4-digit PID code)**” as naming convention
       - For example, if a role is opened in FY24, the PID is “FIN-FY24-0000”
 
 #### Creating GHPID
