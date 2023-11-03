@@ -251,6 +251,10 @@ To maintain confidentiality, we follow the following guidelines:
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
 
+### Shared Slack Channels with Targets 
+
+If and when our team and the target's would like to open a shared Slack channel for streamlined communication, please engage Corporate Development for that purpose so that we can ensure we have persistent process visibility.
+
 ### Social Media
 
 As an operating principal, all team members are advised not to accept social media invites or follow requests (LinkedIn, Facebook) from individuals at companies with which we are actively engaged in acquisition discussions. Third-parties can view these connections and deduce that GitLab is having, or has had, discussions relating to M&A or investments. 
