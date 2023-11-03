@@ -1,15 +1,7 @@
 ---
-
 title: "Pajamas Design Review Process"
 description: "The roles of reviewer and maintainer in approving and merging merge requests in projects related to the Pajamas Design System, and how to become a maintainer."
 ---
-
-
-
-
-
-
-
 
 ## Overview
 
@@ -93,7 +85,7 @@ To help track progress, we encourage trainees to make the traineeship one of the
 
 See the [Pajamas maintainer ratio dashboard](https://app.periscopedata.com/app/gitlab/658466/Pajamas-Design-System).
 
-<embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 658466, embed: 'v2') %>">
+{{% sisense dashboard="658466" height="475" %}}
 
 ##### Current trainee maintainers
 
