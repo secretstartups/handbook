@@ -9,60 +9,59 @@ Below is a list of the different ways GitLab Team Members choose to identify. Th
 
 ### Region Data
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548799, dashboard: 1131846, embed: 'v2') %>">
-
+{{% sisense dashboard="1131846" chart="16548799" height="200" %}}
 
 ### Gender Data
 
 #### Gender Identification (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548802, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548802" height="200" %}}
 
 #### Gender in Management (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548804, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548804" height="200" %}}
 
 #### Gender in Leadership (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548806, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548806" height="200" %}}
 
 #### Gender in Tech (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548801, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548801" height="200" %}}
 
 #### Gender in Non-Tech (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548803, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548803" height="200" %}}
 
 #### Gender in Sales (Global)
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548805, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548805" height="200" %}}
 
 ### Underrepresented Groups (URG) Data - US-Only**
 
 #### URG at GitLab
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548809, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548809" height="200" %}}
 
 #### URG in Management
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548811, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548811" height="200" %}}
 
 #### URG in Leadership
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548812, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548812" height="200" %}}
 
 #### URG in Tech
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548808, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548808" height="200" %}}
 
 #### URG in Non-Tech
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548810, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548810" height="200" %}}
 
 #### URG in Sales
 
-<embed width="100%" height="200px" src="<%= signed_periscope_url(chart: 16548813, dashboard: 1131846, embed: 'v2') %>">
+{{% sisense dashboard="1131846" chart="16548813" height="200" %}}
 
 **Source**: GitLab's People Analytics Team, WorkDay
 **Of Note**: `Management` refers to Team Members who are *People Managers*, whereas `Leadership` denotes Team Members who are in *Director-level positions and above*.

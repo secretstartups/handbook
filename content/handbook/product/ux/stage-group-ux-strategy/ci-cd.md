@@ -1,15 +1,7 @@
 ---
-
 title: "CI/CD UX Team"
 description: "The CI/CD UX team works to ensure the best experience for users of all knowledge levels to successfully apply continuous methods with no 3rd-party application or integration"
 ---
-
-
-
-
-
-
-
 
 ## Hello!
 
@@ -20,12 +12,12 @@ Welcome to the GitLab CI/CD UX team handbook page. We're comprised of three stag
 | **GitLab.com** | [`@gitlab-com/gitlab-ux/cicd-ux`](https://gitlab.com/gitlab-org/ci-cd-ux) |
 | **Slack channel** | [`#ux_ci-cd`](https://gitlab.slack.com/app_redirect?channel=ux_ci-cd) (_internal only_)|
 | **Youtube playlists** | [CI/CD UX - Team Meetings](https://www.youtube.com/watch?v=ViEs54I5lHE&list=PL05JrBw4t0Kpap0GkV0SSuGnPhCM8jrAv) |
-| |  [CI/CD UX Team - Design Reviews](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb) | 
-| **Ops Section page** | [Ops handbook](/handbook/product/categories/#ops-section) | 
+| |  [CI/CD UX Team - Design Reviews](https://www.youtube.com/watch?v=AYO97sRry4E&list=PL05JrBw4t0Kpnb8RDztlfpryAYip1OMwb) |
+| **Ops Section page** | [Ops handbook](/handbook/product/categories/#ops-section) |
 
 ### Vision
 
-Our mission is to design and create simple, clean ways to make GitLab the tool of choice for deploying software where, when, and how users want. 
+Our mission is to design and create simple, clean ways to make GitLab the tool of choice for deploying software where, when, and how users want.
 
 Our design team works to ensure the best experience for users of all knowledge levels, allowing them to successfully apply the continuous methods (Continuous Integration, Delivery, and Deployment) to their software with no third-party application or integration needed.
 
@@ -35,7 +27,7 @@ Our design team works to ensure the best experience for users of all knowledge l
   
 TBA
   
-#### Package 
+#### Package
   
 TBA
   
@@ -59,7 +51,7 @@ TBA
 Different user types are considered in our experience design effort. Even when a user has the same title, their responsibilities may vary by organization size, department, organization structure, and role. Some of the people we are serving are:
 
 - [Software Developer](/handbook/product/personas/#sasha-software-developer)
-- [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead) 
+- [Development Tech Lead](/handbook/product/personas/#delaney-development-team-lead)
 - [DevOps Engineer](/handbook/product/personas/)
 - [Product Designer](/handbook/product/personas/#presley-product-designer)
 - QA
@@ -78,7 +70,7 @@ TBA
 
 #### UX Debt in CI/CD
 
-<embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 930769, embed: 'v2') %>">
+{{% sisense dashboard="930769" height="2515" %}}
 
 ## How we work
 

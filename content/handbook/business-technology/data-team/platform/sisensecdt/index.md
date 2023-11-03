@@ -1,17 +1,6 @@
 ---
-
 title: "Sisense For Cloud Data Teams‎"
 description: "Sisense For Cloud Data Teams‎ at GitLab"
----
-
-
-
-
-
-
-
-
-
 ---
 
 ## <i class="fab fa-gitlab fa-fw icon-color font-awesome" aria-hidden="true"></i>Quick Links
@@ -83,7 +72,7 @@ Alternatively, you can write your own queries using the log data stored in Sisen
 **List of Users per space:**
 
 ```sql
-  SELECT 
+  SELECT
     users.first_name || ' ' || users.last_name AS user_name,
     users.email_address AS user_email,
     spaces.name AS sisense_space
@@ -97,13 +86,13 @@ Alternatively, you can write your own queries using the log data stored in Sisen
 **Usage of external users accessing dashboards embedded in the handbook:**
 
 ```sql
-  SELECT 
-    dashboards.name AS dashboard, 
+  SELECT
+    dashboards.name AS dashboard,
     TRUNC(time_on_site_logs.created_at) AS date,
     SUM(time_on_site_logs.seconds) AS total_duration_in_seconds,
-    COUNT(time_on_site_logs.seconds) AS total_number_of_sessions       
+    COUNT(time_on_site_logs.seconds) AS total_number_of_sessions
   FROM time_on_site_logs
-  JOIN dashboards 
+  JOIN dashboards
     ON time_on_site_logs.dashboard_id = dashboards.id
   WHERE time_on_site_logs.user_id IS NULL  -- all GitLab users will have a user_id, external users do not
   GROUP BY 1,2
@@ -502,7 +491,7 @@ Plug the URL into the following:
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/8622a5c3-c076-4ce1-8921-67a16281a2b9?embed=true" height="700"> </iframe>
 ```
 
-Note, only dashboards in the `GitLab` space can be shared externally. External sharing for our `SAFE` and `SAFE Intermediate` spaces is disabled.  
+Note, only dashboards in the `GitLab` space can be shared externally. External sharing for our `SAFE` and `SAFE Intermediate` spaces is disabled.
 
 We aim to make sure that the dashboard does not require scroll within the handbook, so you will need to adjust the height value of the iframe appropriately. There is no way to do that programmatically.
 
@@ -515,7 +504,7 @@ Note that your file must end in `.erb`. If you are working on a file which has a
 You simply pass the data as argument to the function. It can take any data required by the Sisense API, including sub-arrays and objects. The Sisense documentation has a [full list of options available for the embed API](https://doc.periscopedata.com/article/embed-api-options).
 
 ```
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 6114177, dashboard: 463858, embed: 'v2') %>">
+{{% sisense dashboard="463858" chart="6114177" height="400" %}}
 ```
 
 This method does not work in plain Markdown or HTML files because they do not execute code when rendering.
