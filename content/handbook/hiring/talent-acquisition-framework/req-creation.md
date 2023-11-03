@@ -67,7 +67,7 @@ There are a few options for what to open in Greenhouse.
 - **Open an additional opening onto an existing job**
    - If the job is currently open, recruiters can add an additional opening through the approvals page. It is vital that each opening is opened, associated with the correct GHPiD and documented in Greenhouse so reporting can tell us how many positions are open.
 - **Reopen an old job**
-   - We do not reopen old jobs. 
+   - We do not reopen old jobs.
 - **Evergreen job**
    - An Evergreen Job is a requisition that is 'always open'... more specifically, it is used when we have at least 3 openings for a particular job repeated each quarter. There is then one Evergreen job posted for internal, external and passive candidates. It is important that no candidate is hired to an Evergreen job, and instead is moved to an approved opening (aka - an opening with a single corresponding GHPiD).
 - **When should an Evergreen req be used?**
@@ -114,9 +114,9 @@ Set up Notifications where appropriate. You should make sure that you are always
 
 Scroll to the bottom of the page and click `Request Approval`.
 
-In order to fully open a requisition in Greenhouse, you will need to complete the following approval paths: 
+In order to fully open a requisition in Greenhouse, you will need to complete the following approval paths:
 
-1. `Start Recruiting` Approval: 
+1. `Start Recruiting` Approval:
    1. Total Rewards
 1. `Official Job` Approval:
    1. Finance
