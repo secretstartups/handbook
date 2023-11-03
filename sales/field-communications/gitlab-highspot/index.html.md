@@ -518,6 +518,16 @@ In addition, when adding files directly from Drive, ALWAYS select the `Automatic
 
 ![Screenshot_DriveAutoUpdate](/handbook/sales/field-communications/gitlab-highspot/images/Example_AutoUpdate.png)
 
+#### Google Slide Considerations 
+
+Due to a limitation in the Google Slides --> Highspot handoff, the following Google Slides features are not supported when displaying in Highspot:
+
+1. Skipped slides
+1. Slide animations
+1. Gifs
+
+Please note that you should **NOT** include skipped slides in presentations loaded to Highspot as a best practice to avoid unwanted content displaying to internal Field reps or external customers.
+
 #### Embedding Links 
 
 When adding a link in Highspot, you will have the option to add an embed code to the content. **You should always aim to use the embed code for links when possible.** 
