@@ -195,6 +195,7 @@ Known failures should be linked to the current [pipeline triage report](https://
     4. [`failure::flaky-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Aflaky-test)
     5. [`failure::stale-test`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Astale-test)
     6. [`failure::bug`](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=failure%3A%3Abug)
+    7. [`failure::external-dependency`](https://gitlab.com/gitlab-org/gitlab/-/issues/?sort=created_date&state=opened&label_name%5B%5D=failure%3A%3Aexternal-dependency)
 1. If the issue has already been reported please use the existing issue to track the latest status.
 1. If there is no existing issue for the failure, please create an issue using one of [classification labels](#classify-and-triage-the-test-failure) via the steps below.
 
@@ -511,6 +512,7 @@ We use the following labels to capture the cause of the failure.
 - `~"failure::flaky-test"`: [Flaky test](#flaky-test)
 - `~"failure::test-environment"`: [Failure due to test environment](#failure-due-to-test-environment)
 - `~"failure::bug"`: [Bug in the application](#bug-in-the-application)
+- `~"failure::external-dependency"`: [Failure due to an external dependency](#failure-due-to-external-dependency)
 
 Bugs blocking end-to-end test execution (due to the resulting quarantined tests) should additionally have severity and priority labels. For guidelines about which to choose, please see the [blocked tests section of the issue triage page](/handbook/engineering/quality/issue-triage/#blocked-tests).
 
@@ -584,7 +586,7 @@ See [Quarantining Tests]
 
 #### Failure due to test environment
 
-The failure is due external factors outside the scope of the test. This could be due to environments, deployment hang-ups, or upstream dependencies.
+The failure is due external factors outside the scope of the test but within a test environment under GitLab's control. This could be due to environments, deployment hang-ups, or upstream dependencies within GitLab's control.
 
 - Include your findings in a note in the issue about the failure.
 - Apply the `~"failure::test-environment"` label.
@@ -593,10 +595,23 @@ The failure is due external factors outside the scope of the test. This could be
 
 A job may fail due to infrastructure or orchestration issues that are not related to any specific test. In some cases these issues will fail a job before tests are ever executed. Some examples of non-test related failures include:
 
-- Failed to download Docker image
+- Failed to download container from GitLab Container Registry
 - Failed to complete orchestration of a Geo cluster
 - CI runner timeouts
 - 500 error while uploading job artifacts
+
+#### Failure due to external dependency
+
+The failure is due to an external dependency the test is reliant on, but is outside of GitLab's control. This could be due to outages in external package management systems, or outages in third-party integrations. If possible, external dependencies should be avoided to increase the reliability of the test suite.
+
+- Include your findings in a note in the issue about the failure.
+- Apply the `~"failure::external-dependency"` label.
+- Include a link to the external dependency's outage notice, if available.
+
+Some examples of external dependency failures could include:
+
+- Outages in package or container management systems such as registry.npmjs.org, RubyGems.org, NuGet or dockerhub
+- Outages in third-party integrations such as Zuora
 
 ### Notify relevant groups about the failure
 
