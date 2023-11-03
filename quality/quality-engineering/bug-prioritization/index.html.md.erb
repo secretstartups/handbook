@@ -21,14 +21,32 @@ An overview of the full process can be found on the [cross-functional prioritiza
 As defined in our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline), there are specific deadlines for prioritization. Given a milestone `m` that will be shipped in month `M` (on the [release date](/handbook/engineering/releases/)):
 
 - By the Monday, 19 days before the milestone begins:
-  - SETs provide a list of prioritized `type::bug` issues to the product managers of their counterpart groups. If a counterpart group does not have an assigned SET, this list will be provided by the respective QEM.
+  - Bug Prioritization triage report is created with a list of prioritized `type::bug` issues to the product managers of each groups.
 - By the Monday, 12 days before the milestone begins:
   - the quad for each counterpart group (PMs, EMs, UX, and Quality) discusses which issues to include in the upcoming milestone.
   - the product manager, taking into consideration prioritization input from the quad, creates a plan of issues for the upcoming milestone.
 
-## Process
+## Bug Prioritization triage report
 
-SETs can use the [bug prioritization dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) to put together a suggested list of bugs for their counterpart groups.
+An automated [Bug Prioritization triage report](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/template/group/bugs-prioritization.yml.erb) is created for each group on a monthly basis containing the Top 10 open issues of `type::bug` or `bug::vulnerability`. The report is generated with issues that are prioritized based on the below conditions:
+  1. Age of the issues(oldest)
+  1. Severity based on label `severity::*` and `type::bug`
+  1. Security vulnerabilities based on label `bug::vulnerability`
+  1. Customer issues based on label `customer` 
+
+Bug Prioritization triage report are automatically assigned to specific PMs, EMs of each group, listed in
+[the group definition file](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/group-definition.yml),
+or directly in the triage report policy files
+[policy YAML files](https://gitlab.com/gitlab-org/quality/triage-ops/tree/master/policies).
+
+To change who an issue gets assigned to, open a merge request for the above
+files. If the group definition file is changed, we'll need to
+[run some scripts](https://gitlab.com/gitlab-org/quality/triage-ops#generating-policy-files-and-ci-jobs)
+to update the generated files as well.
+
+## Bug Prioritization Dashboard 
+
+The [bug prioritization dashboard](https://app.periscopedata.com/app/gitlab/1037965/Bug-Prioritization) can also be used to put together a suggested list of bugs for each group.
 This dashboard should be revisited for each milestone, as the data will change over time.
 
 As a general guideline, the total amount of bugs proposed should match the burndown plan from the dashboard for your specific group. 
@@ -36,11 +54,6 @@ This total can be found under **Total Bugs** in the chart titled **Milestone pla
 
 It is also helpful to include the **Total Bug %** as well, which can be found in the **Milestone planning (bug % of scheduled issues)** chart.
 This metric can help groups aim toward scheduling the appropriate percentage of bugs if they do not have the capacity to work on every bug listed.
-
-SETs / QEMs can include this list as part of their group's milestone planning issue. The [bug prioritization issue template](https://gitlab.com/gitlab-org/quality/team-tasks/-/blob/master/.gitlab/issue_templates/QA%20Bug%20Prioritization.md) can also be used as a guide for organizing a bug prioritization section in the planning issue, or for creating a new issue for groups that do not have a planning issue.
-
-List of group planning issues used by various product groups to plan monthly releases:
-- [Dev Section](/handbook/engineering/quality/quality-engineering/dev-qe-team/#bugs-prioritization)
 
 This process is not intended to be one-size-fits-all, and groups are encouraged to find what best works for the team.
 
