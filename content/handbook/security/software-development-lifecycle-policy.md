@@ -29,9 +29,9 @@ The planning stage occurs across different mediums depending upon each team's in
 
 During this stage, the following information is established:
 
-* business requirements are identified
-* scope is defined 
-* a detailed project plan with milestones and deliverables is created
+- business requirements are identified
+- scope is defined
+- a detailed project plan with milestones and deliverables is created
 
 ### Analysis
 
