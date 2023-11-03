@@ -25,52 +25,46 @@ This policy applies to anyone developing code at GitLab in support of GitLab's p
 
 ### Planning
 
-The planning stage occurs during 1:1s, weekly sprint planning meetings, and Slack conversations. During this stage, we gather the following information:
+The planning stage occurs across different mediums depending upon each team's individual processes.
 
-Who is requesting the automation project?
-What are they requesting?
-Why are they requesting this project?
-What efficiencies will be gained?
-How much time will be saved per team member, per week?
-When is this project expected to be completed by?
-How is the automation expected to function?
-As a result of the planning stage, we determine the feasibility of a particular project. Accepted projects are promoted to Epics.
+During this stage, the following information is established:
+
+* business requirements are identified
+* scope is defined 
+* a detailed project plan with milestones and deliverables is created
 
 ### Analysis
 
-During the analysis stage, we continue to gather details to support accepted projects. Projects are broken down into individual components to support an agile approach to development. Those individual components are represented as child issues under the project Epic.
+During the analysis stage, requirements are gathered from stakeholders relevant to each project.
 
-Each child issue is assigned a weight. The total weight of the Epic allows us to gauge the level of effort required to accomplish a particular project.
+Identified requirements are documented in the project management tool and made available for review and approval by relevant stakeholders.
 
 ### Design
 
-During the design stage, we aim to accomplish the following:
+During the design stage, design documents are captured in the project management tool as version controlled documents.
 
-Produce a design for the minimum viable product (MVP) solution that will satisfy the automation project's requirements.
-Design components that are modular
-Design components that can be reused to accelerate future development projects
+Design documents must be approved by relevant stakeholders prior to being merged.
 
 ### Development and Testing
 
-During the this stage, code is written to satisfy the requirements of a particular project. Development is accomplished in an iterative manner through many small changes. Project stakeholders may be consulted to ensure continued alignment with project expectations as code is being written.
+Software development at GitLab is accomplished using industry standard development practices.
 
-Security Assurance Automation Engineers run tests on their code to identify bugs, vulnerabilities, and usability conflicts.
+Software development must be accomplished using GitLab's development platform in a version controlled manner.
 
-### Implementation
+[Code review guidelines](https://about.gitlab.com/handbook/engineering/workflow/code-review/) must be adhered to when developing code at GitLab.
 
-During this stage, code is moved from the Sec Auto Dev pipeline into the Sec Auto Live pipeline. If an automation request requires web hosting or a server, the automation will live in the Sec Auto Live private GCP instance.
+Development work must undergo testing and approval prior to deployment to production.
 
-Once the code is ready for final review, a team member from Security Assurance or Security Automation will review the code and merge the branch. The project is moved to a "Done" state when the solution is operating in an automated private pipeline.
+### Deployment
+
+Deployment of software at GitLab must adhere to all defined staging, testing, release, and rollback processes.
 
 ### Maintenance
 
-Routine and break-fix maintenance of automated controls and processes is performed by Security Assurance Automation Engineers for automation related to the sub-department. Pro-active requests for maintenance can submitted through the Security Assurance Automation project.
+GitLab continuously monitors the state and stability of its platforms.
 
-Maintenance tasks will be tracked via GitLab Issues similar to all other automation tasks.
+Maintenance of GitLab's platform is conducted in accordance with [GitLab's release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html)
 
 ## Exceptions
 
 Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process]({{< ref "_index.md#information-security-policy-exception-management-process" >}}).
-
-## References
-
