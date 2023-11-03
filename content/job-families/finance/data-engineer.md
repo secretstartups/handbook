@@ -27,7 +27,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 
 ### Data Engineer (Junior) Responsibilities
 
-- Maintain our [data platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) with timely and quality data
+- Maintain our [data platform](/handbook/business-technology/data-team/platform/) with timely and quality data
 - Build and maintain data pipelines from internal databases and SaaS applications
 - Create and maintain systems documentation
 - Write maintainable, performant code
@@ -35,7 +35,7 @@ The Data Engineer (Junior) is a [grade 5](/handbook/total-rewards/compensation/c
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with [Analytics Engineers](/job-families/finance/analytics-engineer/) and [Data Analysts](/job-families/finance/data-analyst/) to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](https://about.gitlab.com/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ## Data Engineer (Intermediate)
 
@@ -72,7 +72,7 @@ The Data Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensa
 - Plan and execute system expansion as needed to support the company's growth and analytic needs
 - Collaborate with Data Analysts to drive efficiencies for their work
 - Collaborate with other functions to ensure data needs are addressed
-- This position is always [central](https://about.gitlab.com/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
+- This position is always [central](/handbook/business-technology/data-team/organization/) and reports to the Manager, Data
 
 ## Senior Data Engineer
 
@@ -152,11 +152,11 @@ Business Justification: The staff level requires deep technical and functional k
 
 ## Performance Indicators (PI)
 
-- [SLO achievement per data source](https://about.gitlab.com/handbook/business-technology/metrics/#slo-achievement-per-data-source)
-- [Infrastructure Cost vs Plan](https://about.gitlab.com/handbook/business-technology/metrics/#infrastructure-cost-vs-plan)
-- [Number of days since last environment audit](https://about.gitlab.com/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
-- [Mean Time between Failures (MTBF)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
-- [Mean Time to Repair (MTTR)](https://about.gitlab.com/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
+- [SLO achievement per data source](/handbook/business-technology/metrics/#slo-achievement-per-data-source)
+- [Infrastructure Cost vs Plan](/handbook/business-technology/metrics/#infrastructure-cost-vs-plan)
+- [Number of days since last environment audit](/handbook/business-technology/metrics/#number-of-days-since-last-environment-audit)
+- [Mean Time between Failures (MTBF)](/handbook/business-technology/metrics/#mean-time-between-failures-mtbf)
+- [Mean Time to Repair (MTTR)](/handbook/business-technology/metrics/#mean-time-to-repair-mttr)
 
 ### Career Ladder
 

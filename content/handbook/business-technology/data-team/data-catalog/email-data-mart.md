@@ -5,9 +5,9 @@ title: "Email Marketing Data Mart"
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -211,7 +211,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
   Email Marketing Data Pump
 </summary>
 
-For more information around the Email Marketing Data Pump, which is the technology in charge of moving a selected set of data from the email marketing database in Snowflake to Marketo, please reference [this page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/marketing-data-pump/).
+For more information around the Email Marketing Data Pump, which is the technology in charge of moving a selected set of data from the email marketing database in Snowflake to Marketo, please reference [this page](/handbook/business-technology/enterprise-applications/integrations/wiki/integrations-list/marketing-data-pump/).
 
 </details>
 

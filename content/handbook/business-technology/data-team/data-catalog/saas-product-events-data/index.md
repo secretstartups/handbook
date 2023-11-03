@@ -3,13 +3,13 @@
 title: "SaaS Product Events Data"
 description: "Product Usage Data provides quantitative measurement of how, when, and where Paid and Free Users are using GitLab as a product."
 ---
-{::options parse_block_html="true" /}
 
 
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
+
 
 ---
 

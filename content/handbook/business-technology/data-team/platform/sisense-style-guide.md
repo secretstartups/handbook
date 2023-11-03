@@ -8,7 +8,7 @@ description: "SiSense Style Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 
@@ -44,7 +44,7 @@ Here is how you can create a line chart in Sisense:
 3. Determine the values fields and assign them in the Y-axis. We can choose multiple fields that will be represented by multiple lines too.
 4. If more than 1 value field is determined: Under the Series panel, you can further choose the fields to be assigned in either of the two Y-axis.
 
-We can also change the color theme by following the [Gitlab Standard Color Palette](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
+We can also change the color theme by following the [Gitlab Standard Color Palette](/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
 
 #### Bar charts
 
@@ -66,7 +66,7 @@ Here is how you can create a bar chart in Sisense:
 3. Determine the values fields and assign them in the Y-axis (min of 1).
 4. If more than 1 value field is determined: Under the Series panel, you can further choose the fields to be assigned in either of the two Y-axis.
 
-We can also change the color theme by following the [Gitlab Standard Color Pallete](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
+We can also change the color theme by following the [Gitlab Standard Color Pallete](/handbook/business-technology/data-team/platform/sisense-style-guide/#standard-color-pallete).
 
 #### Pie charts
 

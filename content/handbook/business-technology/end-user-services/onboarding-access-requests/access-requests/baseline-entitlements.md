@@ -203,7 +203,7 @@ All existing role based entitlement templates can be found in [this list](https:
 1. Make sure all systems listed in the template include the System Name and the roles/groups/projects that access is being requested to.
 1. Make sure that the team member has requested permission from all the Technical Owners of the systems. This isn't something that Team Member Enablement should do, it should be done by whoever is creating the template.
 1. Make sure that the template has been approved by the Director of the department the role belongs to with the exception of Functional vs Non-Functional changes.
-1. As a last  step, make sure the labels being added to the template are correct and follow the guidelines outlined in Step 4 of the [instructions](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#instructions-1) above.
+1. As a last  step, make sure the labels being added to the template are correct and follow the guidelines outlined in Step 4 of the [instructions](/handbook/business-technology/end-user-services/onboarding-access-requests/access-requests/baseline-entitlements/#instructions-1) above.
 1. Keep in mind that if you commit a change to the template, you won't be able to approve it. It is recommended that you add [suggestions](https://docs.gitlab.com/ee/user/discussions/#suggest-changes) to templates instead of committing changes yourself.
 
 ## Exception Process

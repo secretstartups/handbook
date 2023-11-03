@@ -3,7 +3,7 @@ title: "Accounting Prepaid Automation Process"
 description: "Accounting Prepaid Automation Process (effective date 2022-04-01)"
 ---
 
-To facilitate an improved and efficient process, the Accounting Team has implemented the automation of amortization entries. The purchase process starts in Coupa and Requesters have been directed to submit prepaid purchases correctly using the [Coupa Prepaid Automation Process](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/).
+To facilitate an improved and efficient process, the Accounting Team has implemented the automation of amortization entries. The purchase process starts in Coupa and Requesters have been directed to submit prepaid purchases correctly using the [Coupa Prepaid Automation Process](/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/).
 
 The Requester must submit a Prepayment or Deposit (meaning any service charge that needs to be amortized/ capitalized according to the [Prepaid Expense Policy]({{< ref "./_index.md#prepaid-expense-policy" >}}) or also those invoices that correspond to events or services that will occur in the future).
 

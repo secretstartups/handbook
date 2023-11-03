@@ -8,11 +8,11 @@ description: "GitLab Data Team Platform"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
 
-{::options parse_block_html="true" /}
+
+
+
 
 <div class="panel panel-gitlab-orange">
 **This is a Controlled Document**
@@ -117,12 +117,12 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [BambooHR](https://www.bamboohr.com/) | Airflow | `bamboohr` | `sensitive` | People | 12h / 24h | No | Tier 2 |
 | [Clari](https://www.clari.com/) | Airflow | `clari` | `clari` | Sales | 24h / 24h | Yes | Tier 2 |
 | [Clearbit](https://clearbit.com/) | x | x | x | x / x |  | No | Tier 3 |
-| [CustomersDot](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
+| [CustomersDot](/handbook/business-technology/data-team/platform/pipelines/#gitlab-customer-dot-database) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | pgp | `tap_postgres` | `customers` | Product | 24h / x | No | Tier 1 |
 | [Demandbase](https://www.demandbase.com/) | Snowflake task | `demandbase` | `demandbase` | Marketing | 24h / x | No | Tier 2 |
 | [Facebook_ads](https://www.facebook.com/business/ads) | Fivetran | `facebook_ads` | `facebook_ads` | Marketing | 24h / 48h | No | Tier 3 |
 | [Gainsight Customer Success](https://gitlab.gainsightcloud.com/v1/ui/home) | Fivetran | `gainsight_customer_success` | `gainsight_customer_success` | Customer Success | 24h / 48h | No | Tier 3 |
 | [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/SAAS-Gitlab-com/) | pgp | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 12h / 55h | No | Tier 1 |
-| [GitLab Ops DB](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#gitlab-ops-database) | pgp | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x | No | Tier 1 |
+| [GitLab Ops DB](/handbook/business-technology/data-team/platform/pipelines/#gitlab-ops-database) | pgp | `tap_postgres` | `gitlab_ops` | Engineering | 6h / x | No | Tier 1 |
 | GitLab Profiler DB | x | x | x | x | x / x | No | Tier 3 |
 | Gitlab Container Registry Logs | Airflow | `Container Registry` | `Container Registry` | Engineering | x | No | Tier 2 |
 | [Google Ads](https://ads.google.com/) | Fivetran | `google_ads` | `google_ads` | Marketing | 24h / 48h | No | Tier 2 |
@@ -632,7 +632,7 @@ We've identified currently 2 types of unforeseen circumstances:
 
 This can be data manipulation action done by a GitLab Team member or by services with access to the data in Snowflake. Some examples are accidentally dropping/truncating a table or running incorrect logic in a transformation.
 
-The vast majority of data in snowflake is copied or derived from copies of our [data sources](/handbook/business-technology/data-team/platform/#data-sources), which is all managed [idempotently](https://docs.getdbt.com/terms/idempotent) with **dbt** and so the most common procedure for data restoration or recovery is through recreating or refreshing objects using [dbt Full Refresh](/handbook/business-technology/data-team/platform/infrastructure/#dbt-full-refresh). For data in the `RAW` database, which comes from our extraction [pipelines](/handbook/business-technology/data-team/platform/pipelines/) we follow the appropriate [Data refresh procedure](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#data-refresh).
+The vast majority of data in snowflake is copied or derived from copies of our [data sources](/handbook/business-technology/data-team/platform/#data-sources), which is all managed [idempotently](https://docs.getdbt.com/terms/idempotent) with **dbt** and so the most common procedure for data restoration or recovery is through recreating or refreshing objects using [dbt Full Refresh](/handbook/business-technology/data-team/platform/infrastructure/#dbt-full-refresh). For data in the `RAW` database, which comes from our extraction [pipelines](/handbook/business-technology/data-team/platform/pipelines/) we follow the appropriate [Data refresh procedure](/handbook/business-technology/data-team/platform/infrastructure/#data-refresh).
 
 However, there are some exceptions to this. Any data in snowflake which is not a result of idempotent processes or that cannot be refreshed in a practical amount of time should be backed up. For this we use Snowflake Time travel. Which includes:
 1. Storage in permanent (not transient) tables.

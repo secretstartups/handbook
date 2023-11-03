@@ -15,7 +15,7 @@ Before engaging the SEOC, please review [our severity and priority levels]({{< r
 
 For phishing related issues, see [Phishing](#phishing). For other non-urgent issues, see [Low Severity Issues](#low-severity-issues)/
 
-Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](https://about.gitlab.com/handbook/business-technology/gitlab-business-continuity-plan/)
+Note: Additional information on Recovery Time Objective (RTO) and Recovery Point Objective (RPO)is available on the [BPC Handbook page](/handbook/business-technology/gitlab-business-continuity-plan/)
 
 The following items are out of scope for SIRT and should be escalated to the respective teams mentioned below:
 

@@ -4,7 +4,7 @@ title: "Coupa End Users Guide"
 description: "Coupa End Users Guide"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -171,7 +171,7 @@ If an invoice is attached, it will also need to be emailed to **ap@gitlab.com** 
 
 ![coupa-image-43](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa43.png)
 
-- The above information is synced from `Zip` or updated by FP&A Team if falls under [Coupa Prepaid Automation Process](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/).
+- The above information is synced from `Zip` or updated by FP&A Team if falls under [Coupa Prepaid Automation Process](/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/).
 
 <br>
 
@@ -406,7 +406,7 @@ For further instructions on the invoicing and payment modules in Coupa, please v
 ## How to Request a Coupa Virtual Card
 
 To learn more about requesting a Virtual Card, check the
-[Coupa Virtual Card Guide](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
+[Coupa Virtual Card Guide](/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/).
 
 
 ## Coupa Support

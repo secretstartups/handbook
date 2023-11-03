@@ -2,7 +2,7 @@
 
 title: "How To Use Google Calendar Delegate"
 ---
-{::options parse_block_html="true" /}
+
 
 
 

@@ -12,7 +12,7 @@ description: "A handy automation tool to generate status rollup issues for large
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Problem
 

@@ -51,20 +51,20 @@ The collective set of people, projects, and initiatives focused on advancing the
 
 The GitLab Data Program includes teams focused in the following areas:
 
-* [Customer Success Operational Data Team](/handbook/customer-success/product-usage-data/)
+* [Customer Success Operational Data Team](https://about.gitlab.com/handbook/customer-success/product-usage-data/)
 * [Data Team](/handbook/business-technology/data-team/)
-* [Engineering Analytics](/handbook/engineering/quality/engineering-analytics/)
+* [Engineering Analytics](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/)
 * [Finance Analytics & Insights](/handbook/business-technology/data-team/analytics-and-insights/)
-* [Marketing Strategy and Performance](/handbook/marketing/strategy-performance/)
-* [Marketing Web Analytics](/handbook/marketing/inbound-marketing/search-marketing/analytics/)
+* [Marketing Strategy and Performance](https://about.gitlab.com/handbook/marketing/strategy-performance/)
+* [Marketing Web Analytics](https://about.gitlab.com/handbook/marketing/inbound-marketing/search-marketing/analytics/)
 * [People Analytics Team](/handbook/people-group/people-ops-tech-analytics/people-analytics/)
 * [Product Analysis Group](/handbook/product/product-analysis/)
-* [Analytics Instrumentation Group](/handbook/engineering/development/analytics/analytics-instrumentation/)
-* [Sales Analytics](/handbook/sales/field-operations/sales-strategy/)
+* [Analytics Instrumentation Group](https://about.gitlab.com/handbook/engineering/development/analytics/analytics-instrumentation/)
+* [Sales Analytics](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
 
 ### Data Program Collaboration Hub
 
-List of the Data Program Teams meeting series, subject DRIs, slack channels, and initiatives can be found in the [Data Program Collaboration Hub](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub) page.
+List of the Data Program Teams meeting series, subject DRIs, slack channels, and initiatives can be found in the [Data Program Collaboration Hub](/handbook/business-technology/data-team/data-program-collaboration-hub) page.
 
 ### How Data Teams Work Together
 
@@ -92,7 +92,7 @@ classDiagram
 ```
 ### The Data Platform & Architecture Team
 
-The **[Data Platform Team & Architecture Team](/handbook/business-technology/data-team/organization/engineering/)** is part of the Enterprise Data Team and focuses on building and maintaing secure, efficent, and reliable data systems [data infrastructure](/handbook/business-technology/data-team/platform/). The Data Platform & Architecture Team is both a development team and an operations/site reliability team. The team supports all Data Fusion Teams with **available, reliable, and scalable** data compute, processing, and storage. Platform components include the Data Warehouse, New Data Sources, Data Pumps, Data Security, and related new data technology. The Data Platform team also drives the [Data Management processes](https://about.gitlab.com/handbook/business-technology/data-team/data-management/). The Data Platform Team is composed of [Data Engineers](https://handbook.gitlab.com/job-families/finance/data-engineer/).
+The **[Data Platform Team & Architecture Team](/handbook/business-technology/data-team/organization/engineering/)** is part of the Enterprise Data Team and focuses on building and maintaing secure, efficent, and reliable data systems [data infrastructure](/handbook/business-technology/data-team/platform/). The Data Platform & Architecture Team is both a development team and an operations/site reliability team. The team supports all Data Fusion Teams with **available, reliable, and scalable** data compute, processing, and storage. Platform components include the Data Warehouse, New Data Sources, Data Pumps, Data Security, and related new data technology. The Data Platform team also drives the [Data Management processes](/handbook/business-technology/data-team/data-management/). The Data Platform Team is composed of [Data Engineers](/job-families/finance/data-engineer/).
 
 ### Analytics Engineering Team
 
@@ -107,12 +107,12 @@ The [Enterprise Insights & Data Science Team](/handbook/business-technology/data
 
 The job families are designed to support all of the routine activities expected of a Data Team. In FY22 we are introducing two new job families, Data Scientist and Analytics Engineer.
 
-- [Data Analyst](https://handbook.gitlab.com/job-families/finance/data-analyst/)
-- [Data Scientist](https://handbook.gitlab.com/job-families/finance/data-science)
-- [Analytics Engineer](https://handbook.gitlab.com/job-families/finance/analytics-engineer/)
-- [Data Engineer](https://handbook.gitlab.com/job-families/finance/data-engineer/)
-- [Manager, Data](https://handbook.gitlab.com/job-families/finance/manager-data/)
-- [Director, Data](https://handbook.gitlab.com/job-families/finance/data-and-insights-executive/)
+- [Data Analyst](/job-families/finance/data-analyst/)
+- [Data Scientist](/job-families/finance/data-science)
+- [Analytics Engineer](/job-families/finance/analytics-engineer/)
+- [Data Engineer](/job-families/finance/data-engineer/)
+- [Manager, Data](/job-families/finance/manager-data/)
+- [Director, Data](/job-families/finance/data-and-insights-executive/)
 
 ### How We Measure Impact
 
@@ -148,7 +148,7 @@ Our impact will be measured against 4 dimensions (these metrics will adjust as o
 - % views of certified dashboards
 
 #### Revenue/Efficiency Impact
-First we have the evaluation criteria known as Dollar Value of our Results as calculated by the Data Value Calculator. We can use the [Data Team Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) to calculate the dollar value of the initiatives we contribute to and the issues we complete.
+First we have the evaluation criteria known as Dollar Value of our Results as calculated by the Data Value Calculator. We can use the [Data Team Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator) to calculate the dollar value of the initiatives we contribute to and the issues we complete.
 Additionally we want to shift to a more aspirational measurement which is to measure the ARR impact or efficiency gain from each of our data products. Our data science models will be measured in the following ways:
 - Propensity to Expand (PtE) and Purchase (PtP) - We will evaluate two metrics: 1) Incremental revenue impact 2) # of leads generated that are not currently in the sales funnel
 - Propensity to Churn (PtC) - We will evaluate two metrics: 1) # of high propensity to churn customers that didn't churn 2) Incremental revenue impact

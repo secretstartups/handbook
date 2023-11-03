@@ -200,7 +200,7 @@ The Senior Manager, Customer Success Operations is a [grade 9](/handbook/total-r
 ## Performance Indicators
 
 - SMAU
-- [CSAT](https://about.gitlab.com/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
+- [CSAT](/handbook/business-technology/metrics/#customer-satisfaction-survey-csat)
 - [PNPS](/handbook/product/performance-indicators/#gitlab-com-paid-net-promoter-score-pnps)
 - [Churn & customer retention metrics](https://about.gitlab.com/handbook/customer-success/vision/#retention-and-reasons-for-churn)
 

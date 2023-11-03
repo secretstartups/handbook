@@ -113,7 +113,7 @@ net-new code should use common models, when possible.*
 <br><br>
 Models in the `common` schema are built to the Data program's [EDM Standards](/handbook/business-technology/data-team/platform/edw/#enterprise-dimensional-model-governance)
 and are subject to a greater level of validation than the legacy models. Only models in the
-`common*` schemas can meet [Trusted Data Standards](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development),
+`common*` schemas can meet [Trusted Data Standards](/handbook/business-technology/data-team/data-development/#trusted-data-development),
 and any reference to a legacy a model's lineage makes it ineligible to meet the TD requirements.
 {: .alert .alert-info}
 

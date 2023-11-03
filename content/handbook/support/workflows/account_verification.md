@@ -21,7 +21,7 @@ As of Aug 16, 2023, Gitlab.com now requires that users without 2FA enabled verif
 
 ## GitLab Team Members
 
-If the user is a GitLab team member, have them [contact IT Ops](https://about.gitlab.com/handbook/business-technology/end-user-services/).
+If the user is a GitLab team member, have them [contact IT Ops](/handbook/business-technology/end-user-services/).
 
 ## Self Service 2FA Removal
 

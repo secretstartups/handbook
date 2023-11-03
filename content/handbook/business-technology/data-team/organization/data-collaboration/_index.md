@@ -8,9 +8,9 @@ description: "GitLab Data Collaboration Team Handbook"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ----
 
@@ -31,7 +31,7 @@ At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) 
 
 ## Data Collaboration Responsibilities
 
-Of the [Data Team's Responsibilities](https://about.gitlab.com/handbook/business-technology/data-team/#responsibilities), the Data Collaboration Team is **directly responsible** for:
+Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Data Collaboration Team is **directly responsible** for:
 
 - Administration of our Sisense CDT BI platform
 - Initial triage and traffic management of data issues
@@ -88,7 +88,7 @@ Note: roles aren't static and members of the team will be in different roles for
 
 ### Project Structure
 
-We follow the standard [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/) for OKRs. For ad-hoc requests, please create an issue, add the `Team::Data Collaboration` label, and assign it to one of the [Data Collaboration Team Members](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-collaboration/#team-structure) for evaluation and planning.
+We follow the standard [Data Team Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/) for OKRs. For ad-hoc requests, please create an issue, add the `Team::Data Collaboration` label, and assign it to one of the [Data Collaboration Team Members](/handbook/business-technology/data-team/organization/data-collaboration/#team-structure) for evaluation and planning.
 
 ### Data Assets Findability
 
@@ -97,24 +97,24 @@ BI Dashboards hub pages per functional area:
 - [Marketing Analytics Hub](https://app.periscopedata.com/app/gitlab:safe-intermediate-dashboard/969815/Marketing-Analytics-Hub)
 
 Handbook pages:
-- [FACE Single Source of Truth Reporting](https://about.gitlab.com/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
-- [Data Collaboration Hub](https://about.gitlab.com/handbook/business-technology/data-team/data-program-collaboration-hub/)
-- [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
+- [FACE Single Source of Truth Reporting](/handbook/business-technology/data-team/functional-analytics-center-of-excellence/source-of-truth-fields-for-reporting/)
+- [Data Collaboration Hub](/handbook/business-technology/data-team/data-program-collaboration-hub/)
+- [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 
 ### Current State of Business Intelligence
 
-Currently, analysts and knowledge workers in the company have a few options to analyze structured data from the [data warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-warehouse), primarily those listed below:
+Currently, analysts and knowledge workers in the company have a few options to analyze structured data from the [data warehouse](/handbook/business-technology/data-team/platform/#data-warehouse), primarily those listed below:
 
 | Solution | Good for | Limitations |
 | ------ | ------ | ----- |
-|[Sisense for Cloud Data Teams](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) | Heavy SQL users to create data visualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities|
-| [Google Data Studio](https://about.gitlab.com/handbook/business-technology/data-team/platform/#google-data-studio)| Integrations well with other Google products | Limited data modeling and data visualization capabilities, limited access to data |
+|[Sisense for Cloud Data Teams](/handbook/business-technology/data-team/platform/sisensecdt/) | Heavy SQL users to create data visualizations | Difficult to use for non-SQL users, limited filtering capabilities, no data modeling capabilities|
+| [Google Data Studio](/handbook/business-technology/data-team/platform/#google-data-studio)| Integrations well with other Google products | Limited data modeling and data visualization capabilities, limited access to data |
 | Google Sheets | Easy to use | Limited in how much data it can handle |
 | Solutions specific to business functions, including Gainsight, Salesforce, Google Analytics, etc. | Solves for business function specific use cases | Can't solve for other use cases outside of its primary domain |
 
 What is missing from all these solutions is a governed way to enable data analytics across the company. None of the platforms currently in use have robust granular access controls, robust data modeling and data governance capabilities, or world class data visualization capabilities. Furthermore, these platforms only enable a subset of out entire team member base to be proficient analyzing data. This impacts us in the following ways:
 - Instead of democratizing data analytics, most data analytics work is put on specific team members who face an ever growing backlog of issues and risk becoming bottle necks.
-- The lack of robust granular access controls results in increased overhead to enforce the principle of least privilege, like the need to create our [SAFE intermediate space](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
+- The lack of robust granular access controls results in increased overhead to enforce the principle of least privilege, like the need to create our [SAFE intermediate space](/handbook/business-technology/data-team/platform/safe-data/#what-is-safe-data) due to the lack of row and column level permissions.
 - The lack of robust data governance capabilities in the platforms we use for analytics purposes could result in different numbers being displayed for the same metrics.
 - The lack of world class data visualization options results in less useable dashboards, as many data visualization [best practices](https://www.perceptualedge.com/articles/Whitepapers/Communicating_Numbers.pdf) can't always be implemented in our current toolset.
 
@@ -123,7 +123,7 @@ What is missing from all these solutions is a governed way to enable data analyt
 
 ### Current State of Product Analytics
 
-Currently, Product Managers and others looking to analyze GitLab product data use either [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) or [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data. To visualize that data they use SQL in [Sisense for Cloud Data Teams](/handbook/product/analytics-instrumentation-guide/getting-started/#accessing-the-data-in-sisense) to access the Snowplow and Service Ping data in our Snowflake data warehouse. Although this is sufficient for certain metrics like [xMAU](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/), it is not well suited for more complicated analysis (like for instance funnel or cohort analysis).
+Currently, Product Managers and others looking to analyze GitLab product data use either [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) or [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) data. To visualize that data they use SQL in [Sisense for Cloud Data Teams](/handbook/product/analytics-instrumentation-guide/getting-started/#accessing-the-data-in-sisense) to access the Snowplow and Service Ping data in our Snowflake data warehouse. Although this is sufficient for certain metrics like [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/), it is not well suited for more complicated analysis (like for instance funnel or cohort analysis).
 
 That means that currently product insights require time and resource-intensive manual SQL, limiting the team’s decision velocity and decision quality. Analysts spend multiple days/weeks building and updating dashboards, and a large portion of their workload is spent helping run SQL queries for less technical team members. To address that need we are in the process of implementing [PostHog](https://posthog.com/) specifically for product analytics.
 
@@ -144,7 +144,7 @@ The ability to build dashboards quickly based on curated, secured, centralized d
 
 **Pilot Implementation**
 
-We are rolling out a pilot deployment of [Tableau](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/) with a limited audience and scope. During this pilot release, the acceptable use for Tableau is limited to:
+We are rolling out a pilot deployment of [Tableau](/handbook/business-technology/data-team/platform/tableau/) with a limited audience and scope. During this pilot release, the acceptable use for Tableau is limited to:
 - Ad-hoc analysis and data exploration
 - One-off or temporary dashboards or reporting
 - Creating data visualizations for screenshots in presentations
@@ -168,7 +168,7 @@ Every member of the Product, Growth, and Analyst teams should be able to self-se
 
 **Pilot Implementation**
 
-We are currently running a pilot project with [PostHog](https://posthog.com) and our [Analytics Instrumentation team](/handbook/product/analytics-instrumentation-guide/). As part of the first iteration we're in the process of loading 3 months of [Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/) data into the platform. If successful we'll add additional data and will roll this out to a broader audience within the company.
+We are currently running a pilot project with [PostHog](https://posthog.com) and our [Analytics Instrumentation team](/handbook/product/analytics-instrumentation-guide/). As part of the first iteration we're in the process of loading 3 months of [Snowplow](/handbook/business-technology/data-team/platform/snowplow/) data into the platform. If successful we'll add additional data and will roll this out to a broader audience within the company.
 
 ## Useful Resources
 

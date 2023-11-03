@@ -6,9 +6,9 @@ description: "This page defines the Namespace along with the relationship to Wor
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -71,7 +71,7 @@ Here is the Namespace To Workflow Relationship Diagram for a visual understandin
 
 ## Namespace Use Cases
 
-Namespace Service Pings information is sent to Gitlab showing the usage of the product by namespace.  Gitlab receives [Service Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) information at the Instance or [Namespace Ping](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) level.  The [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) information is used to enhance the product and better meet the needs of the users.  Here are some use cases for Namespaces.
+Namespace Service Pings information is sent to Gitlab showing the usage of the product by namespace.  Gitlab receives [Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) information at the Instance or [Namespace Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/#saas-namespace-service-ping) level.  The [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) information is used to enhance the product and better meet the needs of the users.  Here are some use cases for Namespaces.
 
 **Paid, Free and Trial Namespaces Created**
 analysis is needed to identify Namespaces that have been recently created and using Paid vs Free vs Trial (Free w/Paid Features) features of the product.  

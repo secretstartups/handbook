@@ -4,7 +4,7 @@ title: "Coupa Prepaid Automation Process"
 description: "Coupa Prepaid Automation Process (as of 2022-04-01)"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 

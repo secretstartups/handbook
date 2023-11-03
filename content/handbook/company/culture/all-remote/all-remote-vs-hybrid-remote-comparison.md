@@ -54,7 +54,7 @@ For deeper dives on this topic, read our guides below.
 | [Learning and development]({{< ref "./learning-and-development" >}}) is applicable to all team members, regardless of location |            Yes             |                                         No |
 | Career growth is not dependent on willingness/ability to transfer to in-person by default |            Yes             |                                         No |
 | Freedom from last-minute demands to fly to an office for an in-person meeting |            Yes             |                                         No |
-| [Business operations team](https://about.gitlab.com/handbook/business-technology/) is fully focused on upleveling tools and technology which positively impact all team members (vs. catering to one subset over another) |            Yes             |                                         No |
+| [Business operations team](/handbook/business-technology/) is fully focused on upleveling tools and technology which positively impact all team members (vs. catering to one subset over another) |            Yes             |                                         No |
 | Freedom from being transferred to a manager or department who is in-person and/or isn't supportive of remote arrangements |            Yes             |                                         No |
 | Eclectic mix of company-wide [in-person gatherings]({{< ref "./in-person" >}}) (vs. congregating at a standard office) |            Yes             |                                         No |
 | Hearing about watercooler chitchat and perpetual cubical drop-ins from your in-office colleagues |             No             |                                        Yes |

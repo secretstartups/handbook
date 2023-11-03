@@ -4,16 +4,16 @@ title: "Data Guide to Self-Managed Product Geolocation Analysis"
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ---
 
 ## Product Geolocation Analysis : Self-Managed
 
-{:.no_toc}
+
 
 Understanding where your product is used around the world is an important step towards developing a more complete understanding of your customers, your product's global reach, and related location insights.
 
@@ -178,7 +178,7 @@ GROUP BY 1,2
 
 ## Trusted Data Solution
 
-[Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+[Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
 ### EDM Enterprise Dimensional Model Validations
 

@@ -5,7 +5,7 @@ description: "The IT Self Service handbook page provides all of our team members
 
 This IT Self Service handbook page provides all of our team members with a SSOT knowledge base directory of all the processes and solutions related to IT whether you've just started at GitLab or have been here awhile.
 
-We have several teams at GitLab that focus on specific functions typically handled by an IT organization. Our Tech Stack applications have a wide range of [System Owners](https://about.gitlab.com/handbook/business-technology/#cross-department-system-owners) across the organization that may not be managed day-to-day by the Information Technology department outside of a security and compliance function.
+We have several teams at GitLab that focus on specific functions typically handled by an IT organization. Our Tech Stack applications have a wide range of [System Owners](/handbook/business-technology/#cross-department-system-owners) across the organization that may not be managed day-to-day by the Information Technology department outside of a security and compliance function.
 
 Our handbook is organized per function and result, so the goal of this page is to provide cross-links to other handbook pages and sections that have the answers you're looking for, even if it's on a different department's handbook page. Please contribute any crosslinks if we missed anything.
 
@@ -187,11 +187,11 @@ These policies are a cross-collaboration between the IT and Security department.
 - [Acceptable Use Policy](/handbook/people-group/acceptable-use-policy)
 - [Data Classification Standards](/handbook/security/data-classification-standard.html) - RED, ORANGE, YELLOW, GREEN
 - [Home WiFi Configuration Policy](/handbook/security/network-isolation/)
-- [Laptop Asset Management Policy](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
+- [Laptop Asset Management Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/)
 - Laptop Disk Encryption Policy
-- [Laptop Monitoring Policy](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/)
+- [Laptop Monitoring Policy](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/)
 - Laptop System Configuration Policy
-  - [macOS](https://about.gitlab.com/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
+  - [macOS](/handbook/business-technology/it/security/system-configuration/#laptop-or-desktop-system-configuration)
   - [Linux](/handbook/tools-and-tips/linux/)
 - [Mobile Device Application Policy](/handbook/people-group/acceptable-use-policy/#bring-your-own-device-byod)
 - Other Services and Devices Policy
@@ -208,10 +208,10 @@ The Tech Stack is a list of all the technology that GitLab currently uses to sup
 
 Historically, the Tech Stack was a YAML file with a list systems/applications/tools used by all departments and details the business purpose/description, the owners, the provisioners, the teams that access the tool and other details. This is still the SSOT for a directory of applications.
 
-- [Overview](https://about.gitlab.com/handbook/business-technology/tech-stack)
+- [Overview](/handbook/business-technology/tech-stack)
 - [SSOT YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml)
-- [Managing the Tech Stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications)
-- [Change Management](https://about.gitlab.com/handbook/business-technology/change-management/)
+- [Managing the Tech Stack](/handbook/business-technology/tech-stack-applications)
+- [Change Management](/handbook/business-technology/change-management/)
 - [IT Engineering Issues](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker/-/issues)
 
 As we continue to iterate, we are creating public handbook pages with user guides (below), internal handbook pages with admin guides, and link architecture and security documentation/issues/reviews from the admin guide.
@@ -220,7 +220,7 @@ As we continue to iterate, we are creating public handbook pages with user guide
 
 - [1Password User Guide](/handbook/security/#accounts-and-passwords) - Password management and security best practices guide
 - 1Password Shared Vault Guide - Accessing and managing vaults with shared credentials
-- [Apple iCloud User Guide](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding101/#apple-id) - Apple identity and sync services
+- [Apple iCloud User Guide](/handbook/business-technology/team-member-enablement/onboarding101/#apple-id) - Apple identity and sync services
 - [Calendly User Guide](/handbook/tools-and-tips/other-apps/#calendly) - Calendar scheduling assistant
 - [Domain Names and DNS Records](/handbook/it/guides/domains-dns) - Domain name purchases, transfers, and DNS records
 - [DriveStrike](/handbook/it/guides/drivestrike)
@@ -239,17 +239,17 @@ As we continue to iterate, we are creating public handbook pages with user guide
 - Google Mail (Gmail) User Guide - Email
 - Google Groups and Email Lists Guide - Group member permissions and mailing lists
 - Google Workspace User Guide - Google Services
-- [Jamf User Guide](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/) - Asset and endpoint management
+- [Jamf User Guide](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/) - Asset and endpoint management
 - Loom User Guide - Video recording and sharing
 - LucidChart User Guide - Diagram software
 - [MacOS User Guide - Operating System](/handbook/tools-and-tips/mac/)
 - [Nira User Guide](/handbook/it/guides/nira) - Google Drive permissions
 - [NordLayer User Guide](/handbook/it/guides/nordlayer) - Public WiFi VPN
-- [Okta User Guide](https://about.gitlab.com/handbook/business-technology/okta/) - Identity Management (IAM and SSO)
+- [Okta User Guide](/handbook/business-technology/okta/) - Identity Management (IAM and SSO)
   - [Okta Verify & Okta Device Trust](https://internal-handbook.gitlab.io/handbook/it/okta-device-trust/) (Internal)
 - Okta Groups Guide - Identity Management
-- [Okta Apps SSO Integration Guide](https://about.gitlab.com/handbook/business-technology/okta/okta-enduser-faq/#how-do-i-request-an-app-to-be-added)   - Identity Management
-- [SentinelOne User Guide](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) - Endpoint Detection and Response (EDR) Laptop Monitoring
+- [Okta Apps SSO Integration Guide](/handbook/business-technology/okta/okta-enduser-faq/#how-do-i-request-an-app-to-be-added)   - Identity Management
+- [SentinelOne User Guide](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) - Endpoint Detection and Response (EDR) Laptop Monitoring
 - [Slack User Guide](/handbook/communication/#slack) - Chat collaboration
 - Slack Channel Guide - Chat collaboration
 - Slack Groups Guide - Chat collaboration
@@ -260,20 +260,20 @@ As we continue to iterate, we are creating public handbook pages with user guide
 
 ### Data Team Tech Stack
 
-See the [Data Team](https://about.gitlab.com/handbook/business-technology/data-team/) handbook page to learn more.
+See the [Data Team](/handbook/business-technology/data-team/) handbook page to learn more.
 
-- [GitLab Data Dashboard Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/)
-- [GitLab Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/)
+- [GitLab Data Dashboard Catalog](/handbook/business-technology/data-team/data-catalog/)
+- [GitLab Data Platform](/handbook/business-technology/data-team/platform/)
   - Airflow
   - Fivetran
   - SiSense (formerly Periscope)
   - Snowflake
-  - [Snowplow](https://about.gitlab.com/handbook/business-technology/data-team/platform/snowplow/)
+  - [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
   - Stitch
 
 ### Finance Tech Stack
 
-See the [Finance Ops](https://about.gitlab.com/handbook/business-technology/enterprise-applications/financeops/) handbook page to learn more.
+See the [Finance Ops](/handbook/business-technology/enterprise-applications/financeops/) handbook page to learn more.
 
 - Adaptive Planning
 - Avalara
@@ -296,7 +296,7 @@ See the [Finance Ops](https://about.gitlab.com/handbook/business-technology/ente
 
 ### Infrastructure Shared Services Tech Stack
 
-This is a cross-collaboration between [IT Infrastructure](https://about.gitlab.com/handbook/business-technology/engineering/infrastructure), [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/), and [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) with audit and monitoring by [Security Incident Response Team (SIRT)](/handbook/security/security-operations/sirt/).
+This is a cross-collaboration between [IT Infrastructure](/handbook/business-technology/engineering/infrastructure), [Reliability Engineering](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/), and [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/) with audit and monitoring by [Security Incident Response Team (SIRT)](/handbook/security/security-operations/sirt/).
 
 - Amazon Web Services (AWS)
 - [Domain Names and DNS Records](/handbook/it/guides/domains-dns)
@@ -345,24 +345,24 @@ See the [Security Tools (internal)](https://internal-handbook.gitlab.io/handbook
 
 #### Business Technology
 
-- [Business Technology Data Team](https://about.gitlab.com/handbook/business-technology/data-team)
-- [Business Technology Enterprise Applications Team](https://about.gitlab.com/handbook/business-technology/enterprise-applications)
-  - [Business Systems Analysts "BSA" Team](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/)
-  - [Finance Operations](https://about.gitlab.com/handbook/business-technology/enterprise-applications/financeops/)
-- [Business Technology Procurement Team](https://about.gitlab.com/handbook/business-technology/data-team)
+- [Business Technology Data Team](/handbook/business-technology/data-team)
+- [Business Technology Enterprise Applications Team](/handbook/business-technology/enterprise-applications)
+  - [Business Systems Analysts "BSA" Team](/handbook/business-technology/enterprise-applications/bsa/)
+  - [Finance Operations](/handbook/business-technology/enterprise-applications/financeops/)
+- [Business Technology Procurement Team](/handbook/business-technology/data-team)
 - [Business Technology Program Management (PMO) Team]
 
 #### IT Department
 
-- [IT Compliance and Security](https://about.gitlab.com/handbook/business-technology/it-compliance)
-- [IT Engineering](https://about.gitlab.com/handbook/business-technology/engineering)
+- [IT Compliance and Security](/handbook/business-technology/it-compliance)
+- [IT Engineering](/handbook/business-technology/engineering)
 - IT Helpdesk Analysts
-- [IT Infrastructure](https://about.gitlab.com/handbook/business-technology/engineering/infrastructure)
+- [IT Infrastructure](/handbook/business-technology/engineering/infrastructure)
 
 #### Infrastructure Shared Services
 
 - [Infrastructure Security Team](/handbook/security/security-engineering/infrastructure-security/)
-- [IT Infrastructure](https://about.gitlab.com/handbook/business-technology/engineering/infrastructure)
+- [IT Infrastructure](/handbook/business-technology/engineering/infrastructure)
 - [Reliability Engineering Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/reliability/)
 
 #### People Team

@@ -8,7 +8,7 @@ description: "Tableau at GitLab"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 
@@ -257,7 +257,7 @@ Tableau Workbooks must satisfy all of the below requirements in order to be publ
 
 <summary><b>Tableau Style Guide</b></summary>
 
-For more guidance on design best practices and resources, please refer to our [Tableau Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau-style-guide/) handbook page.
+For more guidance on design best practices and resources, please refer to our [Tableau Style Guide](/handbook/business-technology/data-team/platform/tableau-style-guide/) handbook page.
 
 </details>
 
@@ -304,11 +304,11 @@ User Groups are the only prescribed method we use for setting permissions across
 
 #### Limited Access User Groups
 
-Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).  
+Limited access user groups will allow business teams to manage accessibility to their published content based on rules that they've identified. Request for the creation of a limited access user group can be made through the All Requests template in [Issues](https://gitlab.com/gitlab-data/tableau/-/issues/?sort=created_date&state=opened&first_page_size=100) section of the Tableau project and requires the approval of that department's [sub-project lead](/handbook/business-technology/data-team/platform/tableau/#biops-roles-and-responsibilities).  
 
 - General SAFE Access
   - This group allows viewing of and development with data that contains material non-pulic information that should be kept [SAFE](https://about.gitlab.com/handbook/legal/safe-framework/).  Team members must be on the [Designated Insiders](https://about.gitlab.com/handbook/legal/publiccompanyresources/#sts=Designated%20Insiders) list to be added to this group.
-  - To gain [access to SAFE data](https://about.gitlab.com/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval.
+  - To gain [access to SAFE data](/handbook/business-technology/data-team/platform/safe-data/) and be part of the SAFE Access group please submit an AR like this [example](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/24284), which requires manager and VP approval.
 
 - ASM EMEA Commercial Restricted Access
   - This project allows access to the ASM EMEA Commercial sub project. It is restricted because the data contains sensitive information about sales rep activity, bookings, and segmentation.
@@ -371,7 +371,7 @@ User Groups are applied at the Project and Sub-Project levels. We have two types
 
 The Admistrator User Group and the Access Control User Group can be customized to meet the unique needs and requirements of each Project and Sub-Project on the Tableau site. This allows for flexibility to add or customize security controls on an as-needed basis. The assignment of a User Groups permission rule set for a Project or Sub-Project will be documented and controlled from YAML files maintained in the Tableau Project in the Data Group.
 
-No content is published in the top level Production, Ad-Hoc, and Development Projects. Content is only published in the Sub-Projects under the Top level projects which is a best practice for content, access, and security control. Top level Project (Production, Ad-Hoc, and Development) Leaders will always be a member of the Central Data Team's BI Platform team and will need a site role of Creator to function as Project Administrators for publishing content. [Data Champions](https://about.gitlab.com/handbook/business-technology/data-team/direction/data-champion/) will serve as Project Leaders for the Sub-Projects for their respective functional areas. The Sub-Project Leaders will be added to the applicable Administrator and Access Control Groups in order to have the right permissions to lead the Sub-Project.
+No content is published in the top level Production, Ad-Hoc, and Development Projects. Content is only published in the Sub-Projects under the Top level projects which is a best practice for content, access, and security control. Top level Project (Production, Ad-Hoc, and Development) Leaders will always be a member of the Central Data Team's BI Platform team and will need a site role of Creator to function as Project Administrators for publishing content. [Data Champions](/handbook/business-technology/data-team/direction/data-champion/) will serve as Project Leaders for the Sub-Projects for their respective functional areas. The Sub-Project Leaders will be added to the applicable Administrator and Access Control Groups in order to have the right permissions to lead the Sub-Project.
 
 The standard permission rules for top level Projects are noted below:
 
@@ -539,7 +539,7 @@ Unused licenses will be reclaimed by the data team.
 
 #### Tableau Online Access
 
-Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to a designated [Tableau Online admin](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins) after acquiring manager approval. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
+Users can request access by creating an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required and assigning it to a designated [Tableau Online admin](/handbook/business-technology/data-team/platform/tableau/#tableau-online-admins) after acquiring manager approval. To make a request, please navigate to the **Choose a template** dropdown menu and select the **Tableau_Request** template to get your AR started.
 
 All users will be given access to their Division's sub-project by default. For access to another team's space please submit your request in a [Tableau Project issue](https://gitlab.com/gitlab-data/tableau/-/issues) via the **All Requests** template and tag the designated Lead Approver(s) for that team from below for approval in your issue:
 
@@ -641,7 +641,7 @@ Fore more details on features offered by each version please see this Tableau ar
 
 #### Data Source Access: Tableau Desktop or Tableau Prep Builder
 
-*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
+*Important:* In order to connect Tableau Desktop to Tableau Online, you need to set up a [Yubikey](/handbook/security/#security-process-and-procedures-for-team-members) in Okta. Fingerprints will not work. Please see the [Tableau Online Access](/handbook/business-technology/data-team/platform/tableau/#tableau-online-access) section above for more details on how to order a Yubikey.
 
 <details markdown=1>
 

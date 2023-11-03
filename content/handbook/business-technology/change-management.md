@@ -123,7 +123,7 @@ An **emergency change** follows the same approval process as comprehensive.
 | **Business Approval** | Approval by Impacted Team(s) Management approval that is responsible for the particular system or is impacted by the change. | No | No | Yes | Yes
 | **Head of IT, Business** | The Head of IT must approve all changes made during blackout periods | No | No | Yes | Yes* |
 
-- (*) Refer to Emergency Change section under [Change Request Types](https://about.gitlab.com/handbook/business-technology/change-management/#change-request-types) for approval requirement details.
+- (*) Refer to Emergency Change section under [Change Request Types](/handbook/business-technology/change-management/#change-request-types) for approval requirement details.
 
 ## Procedure
 

@@ -4,7 +4,7 @@ title: "Service Data Inspector"
 description: "Service Data Inspector is a dashboard that offers insights into account and subscription details for both Self-Managed and SaaS customers"
 ---
 
-{::options parse_block_html="true" /}
+
 ---
 
 ## Service Data Inspector
@@ -33,7 +33,7 @@ Section 3: Service Data Reports contains summary and detailed data tables from m
 - Licenses & Namespaces: Distinct count of licenses and namespaces, broken down by Active/Inactive status, Self-Managed or SaaS
 - Service Ping: Distinct count of accounts, instances and namespaces with pings, broken down by Self-Managed or SaaS, with earliest/latest service ping date
 - Subscription & License Reports include details on paying CRM accounts and their summary, Zuora subscription, and license detail
-- Service Data Reports include [Product Usage](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/) paid user metrics on an aggregate by snapshot month, paying CRM accounts and WAVE 1-3.2 usage metrics
+- Service Data Reports include [Product Usage](/handbook/business-technology/data-team/data-catalog/product-usage-data/) paid user metrics on an aggregate by snapshot month, paying CRM accounts and WAVE 1-3.2 usage metrics
 
 In future iterations, we plan on adding the following:
 - Prep/raw data

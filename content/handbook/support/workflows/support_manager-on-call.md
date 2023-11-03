@@ -172,7 +172,7 @@ Login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select **+ New
 
 No other fields need to be filled out, therefore you may then click **Create Incident**
 
-![Manually triggering an emergency](/images/support/manually-trigger-emergency.png){: .shadow}
+![Manually triggering an emergency](/images/support/manually-trigger-emergency.png)
 
 ## Special Handling Notes
 

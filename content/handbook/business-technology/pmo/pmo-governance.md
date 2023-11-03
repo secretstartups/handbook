@@ -4,7 +4,7 @@ title: "Governance and IT Program Management"
 description: "Describes the program methodology for GitLab IT programs to ensure strong results and execution in an efficient way, proper scoping consistent with our value of iteration, correct stakeholders consistent with our value of collaboration and proper documentation for compliance consistent with our transparency value."
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -142,11 +142,11 @@ The IT PMO team uses the [Gitlab Roadmap](https://docs.gitlab.com/ee/user/group/
 
 ### Clear documentation for data model
 
-One of the deliverables of the program beyond a working technical solve is documentation on the data model of the new system or program. We use [this approach](https://about.gitlab.com/handbook/business-technology/tech-stack-guide/#approach).
+One of the deliverables of the program beyond a working technical solve is documentation on the data model of the new system or program. We use [this approach](/handbook/business-technology/tech-stack-guide/#approach).
 
 ### Clear documentation for compliance
 
-Additionally, we need clear documentation to meet change management controls and new product introduction controls. These are fully documented [here](https://about.gitlab.com/handbook/business-technology/it-compliance/ITGC.html).
+Additionally, we need clear documentation to meet change management controls and new product introduction controls. These are fully documented [here](/handbook/business-technology/it-compliance/ITGC.html).
 
 The relevant controls that need to be documented in these programs are these three:
 

@@ -25,7 +25,7 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 - **UX initiatives:** Identify ways to elevate the GitLab product experience, manage initiatives to address those concerns, and track and communicate about progress.
 - **Coach UX leaders:** Help UX leaders grow their skills and leadership experience.
 - **Culture:** Foster an open and collaborative culture based on trust in the UX department, where everyone feels empowered to do their best work.
-- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](https://about.gitlab.com/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
+- **Cross-product collaboration:** Ensure that UX is well-integrated into the [Product Development Flow](/handbook/product-development-flow/), and advocate for process changes that help product management, engineering, and UX work together to build a great experience.
 - **Design system:** Define and promote design guidelines, best practices, and standards, and help to drive GitLab's [design system](https://design.gitlab.com/) forward at a strategic level.
 - **Research evangelism:** Work with product leadership to prioritize research efforts, so that we validate whether we're solving the right problems in the right ways.
 - **Democratize UX:** Ensure that Development is included in the UX process by offering the opportunity to participate in and understand the outcomes of user research, give early feedback on upcoming designs, and participate in design system strategy.
@@ -83,7 +83,7 @@ The VP of Product Management is a [grade 12](/handbook/total-rewards/compensatio
 - Align team with end-to-end product line vision and goals
 - Leverage portfolio product management techniques to ensure product investments are properly allocated across the end-to-end GitLab product
 - Partner effectively with Engineering, Design, and Product Marketing to ensure we validate, build, launch, and measure product experiences that customers love and value
-- Help refine and implement the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
+- Help refine and implement the GitLab [product development flow](/handbook/product-development-flow/), ensuring team members receive training and coaching required to work effectively within the system
 - Serve as a spokesperson for the end-to-end GitLab product internally and externally
 
 #### VP of Product Management - Requirements

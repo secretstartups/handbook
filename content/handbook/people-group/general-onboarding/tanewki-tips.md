@@ -26,7 +26,7 @@ After you sign your offer and complete your background check and references, you
 ### Before you start
 
 1. Sign your offer, and be on the lookout for your :email: Welcome Email from the Candidate Experience Specialist team. You can read about the team on [this handbook page](/handbook/hiring/talent-acquisition-framework/coordinator/).
-    - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#gitlab-laptops).
+    - This email will contain all pertainent information such as how to order your office equipment and most importantly your laptop. The IT team also has a very handy, handbook page [you can review](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#gitlab-laptops).
     - Please note,when you receive your laptop, make sure to **not** sign into the laptop with your personal Apple ID. You will be asked to create an Apple ID on day one with your GitLab email address.
 1. If you are being employed by one of GitLab's US entities, either GitLab Inc or GitLab Federal LLC, you will need to complete your I9 via LawLogix. You will receive an email from LawLogix. This email will walk you through the process of completing the I9.
 1. If you live in Germany, Belgium, or Japan you will need to be on a lookout from an email from the People Connect team to complete some payroll documents.
@@ -141,7 +141,7 @@ GitLab utitilizes Navan as our team member [expense](/handbook/finance/expenses/
 1. We use Slack as our formal/informal communications tool. This allows us to communicate with our team members, teams and wider company. New to Slack? No problem! This [quick start guide](https://slack.com/intl/en-za/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) will share all the helpful tips on getting you started.
 1. We do not use the standard operating software and instead have a business account with Google Workspace. We use the [Gmail](https://workspace.google.com/intl/en/products/gmail/) feature to retrieve our emails, we use [Drive](https://workspace.google.com/intl/en/products/drive/) to store all our important documents, and Google [Docs](https://workspace.google.com/intl/en/products/docs/)/[Sheets](https://workspace.google.com/intl/en/products/sheets/) for anything we need to document.
 
-{::options parse_block_html="true" /}
+
 
 <i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
 Want to learn more about Onboarding from current team members? View their feedback [here](/handbook/people-group/general-onboarding/onboarding-feedback)!

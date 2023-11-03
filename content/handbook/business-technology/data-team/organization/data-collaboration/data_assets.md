@@ -21,7 +21,7 @@ This is a listing of the data assets we use at GitLab.
 
 #### Update data assets information
 
-Please visit our [Data Collaboration page](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-collaboration/) for instructions on how to request updates to the data asset information.
+Please visit our [Data Collaboration page](/handbook/business-technology/data-team/organization/data-collaboration/) for instructions on how to request updates to the data asset information.
 
 #### Request Access
 

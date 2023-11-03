@@ -68,7 +68,7 @@ The following requirements are driven by 3 high level guidelines:
 #### Service Account usage
 
 1. Service accounts names SHOULD be meaningful.
-1. Service accounts with access to RED data MUST follow the [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#shared-account-access-request)
+1. Service accounts with access to RED data MUST follow the [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#shared-account-access-request)
    process.
 1. Service accounts with access to RED data MUST be limited to single logical scope; for example, a single GCP project.
 
@@ -254,7 +254,7 @@ reviewed periodically as part of scheduled reviews and maintenance.
 
 ## Identity Providers
 
-[Okta](https://about.gitlab.com/handbook/business-technology/okta/) is our corporate identity and authentication provider. Configuration of
+[Okta](/handbook/business-technology/okta/) is our corporate identity and authentication provider. Configuration of
 applications using Okta as a SAML provider is the preferred solution. It meets
 operation needs for security monitoring of activity and can be provisioned by
 IT Ops using the standard Access Request process. Applications designed

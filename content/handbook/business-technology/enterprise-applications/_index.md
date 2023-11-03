@@ -4,7 +4,7 @@ title: "Enterprise Applications Team"
 description: "The Enterprise Applications Team implements and supports specialized applications that support our business processes within GitLab."
 ---
 
-{::options parse_block_html="true" /}
+
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -44,16 +44,16 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 # <i class="fas fa-bullhorn" id="biz-tech-icons"></i> Services We Offer
 
 ### Business Process Improvements
-- Being business process first, means that the Enterprise Applications team will firm up requirements, use cases, and process flows as we implement systems, enhance them or deliver fixes.   Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/).
+- Being business process first, means that the Enterprise Applications team will firm up requirements, use cases, and process flows as we implement systems, enhance them or deliver fixes.   Learn more [here](/handbook/business-technology/enterprise-applications/bsa/).
 
 ### Application Evaluations & Implementations
-- We provide templates for vendor evaluations, can help write and review your user stories, and are happy to participate in tool evaluations that integrate with other applications or intersect with multiple departments. Once an application is selected, our team will align with vendor teams to implement Enterprise Applications that are coming on board. We follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/#system-implementations).
+- We provide templates for vendor evaluations, can help write and review your user stories, and are happy to participate in tool evaluations that integrate with other applications or intersect with multiple departments. Once an application is selected, our team will align with vendor teams to implement Enterprise Applications that are coming on board. We follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently. Learn more [here](/handbook/business-technology/enterprise-applications/bsa/#system-implementations).
 
 ### Finance Systems Administration
 - Enterprise Applications supports all of the core finance systems with experienced admins that streamline and enhance current processes, turn on new features, and improve end to end process cycle time.
 
 ### Integrations Engineering
-- Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
+- Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](/handbook/business-technology/enterprise-applications/integrations/).
 
 # <i class="fas fa-database" id="biz-tech-icons"></i>  Applications We Own
 
@@ -167,7 +167,7 @@ The *~"EntApps Intake"* label is not limited to the Intake project, it can be us
 
 ## EntApps Milestone Planning
 
-EntApps milestones run for 2 weeks from Wednesday-Tuesday to avoid pushing changes over the weekend. This is also in line with the [Business Technology blocked periods](https://about.gitlab.com/handbook/business-technology/change-management/#procedure) and the GitLab calendar.
+EntApps milestones run for 2 weeks from Wednesday-Tuesday to avoid pushing changes over the weekend. This is also in line with the [Business Technology blocked periods](/handbook/business-technology/change-management/#procedure) and the GitLab calendar.
 
 Every Tuesday, Enterprise Applications Leadership is responsible for:
 - Reviewing the [EntApps Intake board](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?label_name%5B%5D=EntApps%20Intake) and:

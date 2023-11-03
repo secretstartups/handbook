@@ -8,9 +8,9 @@ description: "GitLab Data Analytics Team Handbook"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ----
 
@@ -72,7 +72,7 @@ At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) 
 Our short term goal for `FY21-2H` is to move GitLab up the [**Data Capability Model**](/handbook/business-technology/data-team/direction/#data-capability-model) from **Level (1) Reactive** to **Level (2) Advanced**.
 
 To do this, the Data Analytics team will be:
-- operating in [Data Fusion teams](https://about.gitlab.com/handbook/business-technology/data-team/organization/#fusion-teams) towards the same business goals at the same pace
+- operating in [Data Fusion teams](/handbook/business-technology/data-team/organization/#fusion-teams) towards the same business goals at the same pace
 - strengthening the [Data Analysis Process](/handbook/business-technology/data-team/organization/analytics/#data-analysis-process)
 - advancing GitLab's [Data Visualization](https://datavizcatalogue.com/) & [Data Storytelling](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#71f2f94852ad) skills
 

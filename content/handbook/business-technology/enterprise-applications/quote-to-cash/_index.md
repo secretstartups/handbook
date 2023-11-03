@@ -13,7 +13,7 @@ description: "Enterprise Applications Quote to Cash Documentation"
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Quote to Cash Introduction
 
@@ -51,7 +51,7 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 - NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team.
 - The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
-{::options parse_block_html="true" /}
+
 
 ## Enterprise Systems Architecture
 

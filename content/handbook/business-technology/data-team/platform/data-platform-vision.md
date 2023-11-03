@@ -8,7 +8,7 @@ description: "A visionary perscription of the data platform"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 

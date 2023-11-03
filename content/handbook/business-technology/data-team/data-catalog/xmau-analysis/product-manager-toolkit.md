@@ -42,7 +42,7 @@ an xMAU metric or other PI) (`[td_xmau]`)
 - gain more insights into a drop or an increase of your feature usage (`[td_xmau_monthly_change_breakdown]`)
 
 ## Trusted Data snippets
-{:.no_toc}
+
 
 All these snippets start with a `td_` (Trusted Data) prefix and are considered to meet the
 requirements for the Data team's [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf).
@@ -472,7 +472,7 @@ The snippet called `feature_usage_this_agg_period_and_growth(feature)` ([SQL sou
 
 This snippet can be used with the date-range and aggregation filters. It has been used in several dashboards, one of them is the [Secure Metrics dashboard](https://app.periscopedata.com/app/gitlab/410654/Secure-Metrics)
 
-We are planning to build a second snippet to report on the adoption rate per [product tier](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). This snippet will allow to easily calculate among the installations that send us service pings in a given period, the number of installations that use a specific feature.
+We are planning to build a second snippet to report on the adoption rate per [product tier](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/). This snippet will allow to easily calculate among the installations that send us service pings in a given period, the number of installations that use a specific feature.
 
 ###### Examples
 

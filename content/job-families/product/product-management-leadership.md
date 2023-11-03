@@ -13,7 +13,7 @@ of GitLab's [product hierarchy](/handbook/product/categories/#hierarchy)
 
 - [Product Handbook](/handbook/product/)
 - [Product Leadership](/handbook/product/product-leadership/)
-- [Product Development Workflow](https://about.gitlab.com/handbook/product-development-flow/)
+- [Product Development Workflow](/handbook/product-development-flow/)
 - [Product Management Career Development Framework](/handbook/product/product-manager-role/product-CDF-competencies/)
 - [Engineering Workflow](https://about.gitlab.com/handbook/engineering/workflow/)
 
@@ -55,7 +55,7 @@ The Group Manager, Product is a [grade 9](/handbook/total-rewards/compensation/c
 
 - Coach Product Managers through their [responsibilities](/job-families/product/product-manager/#responsibilities)
 - Ensure PMs receive regular [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) feedback and, if desired, Career Coaching
-- Ensure that Product Managers participate in [Validation](https://about.gitlab.com/handbook/product-development-flow/#validation-track) and [Build](https://about.gitlab.com/handbook/product-development-flow/#build-track) track activities while following our product principles so that our Product Performance indicators are met
+- Ensure that Product Managers participate in [Validation](/handbook/product-development-flow/#validation-track) and [Build](/handbook/product-development-flow/#build-track) track activities while following our product principles so that our Product Performance indicators are met
 - Enable product managers to make the most effective decisions when [prioritizing R&D investment](/handbook/product/product-processes/#how-we-prioritize-work) in their [product groups](/handbook/company/team/structure/#product-groups) so that our upcoming releases contain relevant enhancements for our customers, users, prospects and us.
 - Convene a set of stable counterparts for your assigned [Product Hierarchy](/handbook/product/categories/#hierarchy) and Use Cases to ensure R&D and GTM [KPIs](/handbook/company/kpis/) are met
 - Join customer and partner visits that spawn ideas for new features

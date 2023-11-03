@@ -9,7 +9,7 @@ title: "Meltano At Gitlab"
 
 
 
-{::options parse_block_html="true" /}
+
 
 ## Quick Links
 

@@ -226,7 +226,7 @@ Coupa is a procure-to-pay system that streamlines the purchase request process, 
 
 **How vendors are added into Coupa:**
 1. Any Coupa user can request a new supplier using the New Supplier Request form.
-   - Check [How to Request a New Supplier in Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) for a detailed guide.
+   - Check [How to Request a New Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) for a detailed guide.
 1. Once the New Supplier Request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
    - Supplier must complete the form and submit it back.
 1. After supplier submission, the external form will be routed to Accounts Payable Approval Group for review and approval.

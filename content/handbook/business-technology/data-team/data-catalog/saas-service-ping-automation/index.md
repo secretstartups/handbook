@@ -5,9 +5,9 @@ title: "SaaS Service Ping Automation"
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -19,7 +19,7 @@ Previously called `Usage Ping`, [Service Ping](https://docs.gitlab.com/ee/develo
 
 Service Ping metrics provide insights that help our Product, Support, and Sales teams understand how GitLab is used. For example, the data helps to:
 
-1. Support [GitLab xMAU KPIs](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) KPI
+1. Support [GitLab xMAU KPIs](/handbook/business-technology/data-team/data-catalog/xmau-analysis/) KPI
 1. Calculate Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features
 1. Understand which features are or are not being used and provide guidance to customers to help them take advantage of GitLab's rich feature set
 1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features
@@ -400,7 +400,7 @@ That means the data set created will be `UNIONED` with the current data pipeline
 
 We might want to add some content and details to this page regarding the known issues that we came across during the reconciliation process:
 
-1. [Full sync is currently not enabled](https://gitlab.com/gitlab-data/analytics/-/issues/10163#note_969406760) for most of the Postgres db tables that read data from Gitlab.com using [PG replica process](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) as `Gitlab.com` production database
+1. [Full sync is currently not enabled](https://gitlab.com/gitlab-data/analytics/-/issues/10163#note_969406760) for most of the Postgres db tables that read data from Gitlab.com using [PG replica process](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) as `Gitlab.com` production database
 does not store deleted records and only holds incremental data.
 
 Related Issues:

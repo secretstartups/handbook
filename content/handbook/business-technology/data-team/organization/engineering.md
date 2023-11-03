@@ -8,9 +8,9 @@ description: "GitLab Data Platform Team Handbook"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -23,7 +23,7 @@ The mission of the Data Platform team is to build a secure and trusted data plat
 Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities) the Data Platform team is directly responsible for:
 
 - Integrating new data sources to enable analysis of subject areas, activities, and processes
-- Keeping the data sources running per established [Service Level Objectives and Tiers](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources)
+- Keeping the data sources running per established [Service Level Objectives and Tiers](/handbook/business-technology/data-team/platform/#data-sources)
 - Expanding the scalability of pipelines and processes to meet growing data volumes
 - Evaluating new technologies to help make our platform more scalable and efficient
 

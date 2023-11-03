@@ -8,9 +8,9 @@ description: "How to add a new data source"
 
  
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -178,7 +178,7 @@ Red data is not allowed to be stored in our Data Platform (Snowflake). Therefore
 When extracting new data towards Snowflake and the data source is not listed or listed `data_classification: Red`;
 - The team member must state a business case to connect the system to the Data Platform.
 - The team member that requests the connection will perform an analysis of the data and confirm the data that is extracted is not Red data.
-   - For instances where Red data (fields) must be ingested into Snowflake, [masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking) will be applied upon extraction.
+   - For instances where Red data (fields) must be ingested into Snowflake, [masking](/handbook/business-technology/data-team/platform/#data-masking) will be applied upon extraction.
 - BT/Data VP-level, Legal and Security must sign off to start the implementation.
 
 ## Monte Carlo observability

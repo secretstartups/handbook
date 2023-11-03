@@ -7,7 +7,7 @@ description: "GitLab Enterprise Data & Insights Team Operating Principles Handbo
 
 
 
-{::options parse_block_html="true" /}
+
 
 ----
 

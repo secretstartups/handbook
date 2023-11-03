@@ -43,7 +43,7 @@ This platform is powered by [HackyStack](https://gitlab.com/gitlab-com/infra-sta
 
 You can learn more in the [HackyStack High-Level Intro](https://docs.google.com/presentation/d/1kbaub1-ztxGCV7wAzhNWXsH5beIu_HAVGSBjr8-0qTw/edit#slide=id.gdfc093c5c0_0_11) presentation.
 
-The Sandbox Cloud is managed by the [IT Engineering](https://about.gitlab.com/handbook/business-technology/it/engineering) team. Please tag `Jeff Martin` in Slack with any questions.
+The Sandbox Cloud is managed by the [IT Engineering](/handbook/business-technology/it/engineering) team. Please tag `Jeff Martin` in Slack with any questions.
 
 ### How to Get Started
 
@@ -84,7 +84,7 @@ Any team member can request a new AWS account or GCP project for a specific proj
 
 **No RED data is allowed in these accounts/projects.** Any RED data must be hosted in production AWS accounts or GCP projects managed by the appropriate Infrastructure Realm administrators (ex. `eng-infra-saas`, `it-infra`, etc.).
 
-Self-service creation and IAM management is not available yet for end users in HackyStack (will be available through API integration with [GitLab Access Manager](https://about.gitlab.com/handbook/business-technology/engineering/#access-manager-engineering) in the future and tracked in [hackystack#38](https://gitlab.com/gitlab-com/infra-standards/hackystack-laravel/-/issues/38)). In the meantime, we use access request style issue templates as our boring solution for security compliance reasons and the HackyStack administrators provision accounts and users using the Admin CLI.
+Self-service creation and IAM management is not available yet for end users in HackyStack (will be available through API integration with [GitLab Access Manager](/handbook/business-technology/engineering/#access-manager-engineering) in the future and tracked in [hackystack#38](https://gitlab.com/gitlab-com/infra-standards/hackystack-laravel/-/issues/38)). In the meantime, we use access request style issue templates as our boring solution for security compliance reasons and the HackyStack administrators provision accounts and users using the Admin CLI.
 
 - [Issue Template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=aws_group_account_create_request): New AWS Group (Multi-user) Account Request ([Provisioner Runbook](https://gitlab.com/gitlab-com/business-technology/engineering/runbooks/-/blob/main/gitlab-sandbox-cloud/add-group-account-for-aws.md))
 - [Issue Template](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues/new?issuable_template=aws_group_account_iam_update_request): Add/Remove IAM Users from AWS Group Account ([Provisioner Runbook](https://gitlab.com/gitlab-com/business-technology/engineering/runbooks/-/blob/main/gitlab-sandbox-cloud/add-iam-user-to-aws-group-account.md))
@@ -105,11 +105,11 @@ Any projects with [yellow or green](/handbook/security/data-classification-stand
 
 ##### Business Related
 
-For any infrastructure services related to business operations and our tech stack, please contact the IT team in `#it_help` for guidance on next steps. Most of our [tech stack](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/) are SaaS-based and hosted by the respective vendor.
+For any infrastructure services related to business operations and our tech stack, please contact the IT team in `#it_help` for guidance on next steps. Most of our [tech stack](/handbook/business-technology/tech-stack-applications/) are SaaS-based and hosted by the respective vendor.
 
-New SaaS applications should go through the [Procurement Process](/handbook/finance/procurement/) and are managed by the respective department's [system owners](https://about.gitlab.com/handbook/business-technology/#cross-department-system-owners).
+New SaaS applications should go through the [Procurement Process](/handbook/finance/procurement/) and are managed by the respective department's [system owners](/handbook/business-technology/#cross-department-system-owners).
 
-Self-hosted application infrastructure is determined on a case-by-case basis and is architected in collaboration with [IT Infrastructure](https://about.gitlab.com/handbook/business-technology/it/engineering/infrastructure/), [Security Architecture](/handbook/security/architecture/), [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/), [Application Security](/handbook/security/security-engineering/application-security/), and [3rd Party Risk](/handbook/security/security-assurance/security-risk/third-party-risk-management.html). Please tag `@jeffersonmartin` in an issue for preliminary guidance on new services. If you do not have an issue yet, please create one in the [IT Infrastructure issue tracker](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues).
+Self-hosted application infrastructure is determined on a case-by-case basis and is architected in collaboration with [IT Infrastructure](/handbook/business-technology/it/engineering/infrastructure/), [Security Architecture](/handbook/security/architecture/), [Infrastructure Security](/handbook/security/security-engineering/infrastructure-security/), [Application Security](/handbook/security/security-engineering/application-security/), and [3rd Party Risk](/handbook/security/security-assurance/security-risk/third-party-risk-management.html). Please tag `@jeffersonmartin` in an issue for preliminary guidance on new services. If you do not have an issue yet, please create one in the [IT Infrastructure issue tracker](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker/-/issues).
 
 #### Accessing your AWS Account
 

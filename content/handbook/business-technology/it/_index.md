@@ -5,10 +5,10 @@ description: "The IT department focuses on managing the framework of how GitLab 
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 # Information Technology (IT) Department
 

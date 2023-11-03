@@ -6,7 +6,7 @@ description: "There are more than a few frameworks for Jobs to be Done. The aim 
 
 ##
 
-{::options parse_block_html="true" /}
+
 
 
 

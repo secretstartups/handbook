@@ -8,9 +8,9 @@ description: “Discover how GitLab Finance Team members can use data for genera
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 

@@ -110,7 +110,7 @@ A few additional resources that can be helpful when working with Mermaid are:
 - Examples of Mermaid charts that have been created by GitLab team members:
   - [Talent Development Program Chart]({{< ref "talent-development-program#talent-development-program-chart" >}}) by [Cassiana Gudgenov](https://gitlab.com/cgudgenov), People Compliance Partner
   - [CEO Year at a Glance]({{< ref "cadence#year-at-a-glance" >}})
-  - [Data Infrastructure System Diagram](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
+  - [Data Infrastructure System Diagram](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram)
 - [Advanced layout demos](mermaid) for Mermaid diagrams
 
 *Note: When creating Mermaid charts in the GitLab handbook, you need to type `three back tick symbols` followed by the word `mermaid` before the chart, and `three back tick symbols` at the end of the chart. This will enable Markdown to distinguish between .md and Mermaid. Please reference the example Mermaid charts linked above to see how this looks live.*
@@ -470,7 +470,7 @@ While there are other hardware tokens that are also decent and will function wit
 
 What GitLab team members need to keep in mind is that if you travel with your company laptop - either on a business trip, a trip to visit family and friends in another location but you intend to keep working, or just a trip to the local coffee shop - treat the token with the same level of care as a credit card. Do not leave it where it could be stolen.
 
-If you are concerned about potentially losing your hardware token, be sure to add [Touch ID](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) and potentially a [mobile device](https://about.gitlab.com/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) as an accepted authentication token. Sites following the FIDO2/WebAuthn standard should support multiple tokens. That way if one is lost or stolen, you can still login use another method. Currently YubiKey's are limited to one per user, in the case of lost or damaged, please reach out in the #it_security_help Slack channel and we'll assist you with a replacement.
+If you are concerned about potentially losing your hardware token, be sure to add [Touch ID](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication--yubikey-to-okta) and potentially a [mobile device](/handbook/business-technology/okta/#i-want-to-add-touch-id--face-id--face-authentication-to-okta-for-my-mobile-device-iphoneipad-or-android) as an accepted authentication token. Sites following the FIDO2/WebAuthn standard should support multiple tokens. That way if one is lost or stolen, you can still login use another method. Currently YubiKey's are limited to one per user, in the case of lost or damaged, please reach out in the #it_security_help Slack channel and we'll assist you with a replacement.
 
 Usage of 2FA is mandatory for GitLab team members.
 
@@ -1085,7 +1085,7 @@ Jamboard is a collaborative whiteboarding platform, accessible at <https://jambo
   - Hide the bookmarks bar: `cmd shift b` (e.g. for screenshots, or shared screen presentations)
   - Open the developer tools: `cmd option i` (e.g. for debugging website errors)
 - You can [organize tabs into tab groups](https://www.google.com/chrome/tips/#organize), assign names and custom colors, and collapse or reorder them. Moving tabs between groups also works across browser windows.
-- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
+- Logging in to the browser (with your GitLab Workspace account) preserves [your profile across installations](https://www.google.com/chrome/tips/#customize). This is helpful to migrate bookmarks, extensions, and configuration [when refreshing your laptop](/handbook/business-technology/end-user-services/onboarding-access-requests/#gitlab-laptop-refreshes-for-team-members).
 
 #### Chrome Performance Settings
 

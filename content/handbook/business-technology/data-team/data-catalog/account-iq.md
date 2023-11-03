@@ -4,7 +4,7 @@ title: "Account IQ"
 description: "Account IQ is a dashboard that is dedicated to providing account-level insights into our customers' activities such as product usage, stage adoption, CI maturity, Salesforce information"
 ---
 
-{::options parse_block_html="true" /}
+
 ---
 
 ## What is the Account IQ dashboard?

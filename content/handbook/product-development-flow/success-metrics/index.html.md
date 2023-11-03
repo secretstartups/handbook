@@ -5,7 +5,7 @@ description: "This page surfaces metrics related to the product development flow
 canonical_path: "/handbook/product-development-flow/success-metrics/"
 ---
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-gitlab-orange">
 

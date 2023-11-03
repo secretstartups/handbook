@@ -11,7 +11,7 @@ title: "Business Technology Performance Indicators"
 
 
 This page focuses on top performance indicators for Business Technology team.
-[Data team metrics](https://about.gitlab.com/handbook/business-technology/metrics/)
+[Data team metrics](/handbook/business-technology/metrics/)
 [Procurement team metrics](/handbook/finance/procurement/)
 
 # Key Performance Indicators (KPI)
@@ -20,12 +20,12 @@ This page focuses on top performance indicators for Business Technology team.
 
 Engineering Contribution Rate is a key indicator showing how productive our team members are based on two factors.
 1. the total MRs created for contributions to GitLab or to IT Applications
-  - [Handbook Link](https://about.gitlab.com/handbook/business-technology/it/engineering/development/)
+  - [Handbook Link](/handbook/business-technology/it/engineering/development/)
 1. the number of IT engineering issues that are actioned each month.
-  - [Access requests](https://about.gitlab.com/handbook/business-technology/it/engineering/access-mgmt/)
-  - [IT infrastructure](https://about.gitlab.com/handbook/business-technology/it/engineering/infrastructure/)
+  - [Access requests](/handbook/business-technology/it/engineering/access-mgmt/)
+  - [IT infrastructure](/handbook/business-technology/it/engineering/infrastructure/)
   - [IT Eng Ops](https://gitlab.com/gitlab-com/business-technology/engineering/operations/issue-tracker/-/issues)
-  - [IT change management](https://about.gitlab.com/handbook/business-technology/it/engineering/change-mgmt/)
+  - [IT change management](/handbook/business-technology/it/engineering/change-mgmt/)
 
 [Full Contribution Reports](https://gitlab.com/gitlab-com/business-technology/engineering/standup-reports/-/tree/main/contribution-reports)
 

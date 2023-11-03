@@ -8,9 +8,9 @@ description: "data build tool (dbt) Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -239,12 +239,12 @@ We use SQLFluff to enforce [SQL style guide](/handbook/business-technology/data-
 
 ### VSCode extension: dbt Power User
 
-[dbt Power User](/handbook/business-technology/data-team/platform/sql-style-guide/) makes VScode seamlessly work with dbt. The guide below will allow you to install dbt Power User if you followed the [Venv workflow](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#Venv-workflow).
+[dbt Power User](/handbook/business-technology/data-team/platform/sql-style-guide/) makes VScode seamlessly work with dbt. The guide below will allow you to install dbt Power User if you followed the [Venv workflow](/handbook/business-technology/data-team/platform/dbt-guide/#Venv-workflow).
 
 Before we start, there are some settings to adjust in your VScode:
 - Go in Code > Settings > Settings…
     - Search for ‘Python info visibility’ > Set this setting as ‘Always’
-    - In a terminal, run `make run-dbt` as described in the [Using dbt](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#using-dbt) section. Once it ran and the new shell spawned, run `echo $VIRTUAL_ENV`. Copy that value.
+    - In a terminal, run `make run-dbt` as described in the [Using dbt](/handbook/business-technology/data-team/platform/dbt-guide/#using-dbt) section. Once it ran and the new shell spawned, run `echo $VIRTUAL_ENV`. Copy that value.
         - Search for ‘venv path’ in VScode settings.
         - Set this setting to the path that you copied last step, which should look like `/Users/<username>/Library/Caches/pypoetry/virtualenvs/` if you followed a standard installation. Remove the last part of the path `analytics-*******-py3.10` at the time of writing.
 - Open VScode in /analytics (File > Open Folder... or Workspace...)
@@ -896,7 +896,7 @@ With a sample table the developer creates a table that represents a sub set of t
 Workflow steps:
 
 - Clone the target sample tables
-  - Using a command such as [`clone-dbt-select-local-user`](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#cloning-into-local-user-db) ensure that there is a full data table to sample from.
+  - Using a command such as [`clone-dbt-select-local-user`](/handbook/business-technology/data-team/platform/dbt-guide/#cloning-into-local-user-db) ensure that there is a full data table to sample from.
 - Configure the sample for each table to be created
   - Samples are configured in the `samples` macro in the `samples_yml` variable
 
@@ -1347,7 +1347,7 @@ While the DBT Snapshot tables are built directly over sources to capture changed
 1. A DBT Snapshot model captures changed records for a single table.
    - The single table being snapshotted may be a Source table or a table already being used for analysis.
    - A Snapshot table is defined with {% snapshot table_name %} in the configuration section of the model.
-   - The snapshot model has to be added to the `sources.yml` file to be recognized by other models.  This is further described in the [Make snapshots table available in prod database](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#make-snapshots-table-available-in-prod-database) section below.
+   - The snapshot model has to be added to the `sources.yml` file to be recognized by other models.  This is further described in the [Make snapshots table available in prod database](/handbook/business-technology/data-team/platform/dbt-guide/#make-snapshots-table-available-in-prod-database) section below.
    - These tables have to be referenced as Source tables by other models because they are built in RAW.  ie. {{ source(location,name)}} syntax.
 2. DBT models built over snapshot tables include snapshot data and are used for historical analysis. Multiple snapshots may be joined and logic added to provide a historical view of fully built out derived dimensions.
 
@@ -1365,7 +1365,7 @@ DBT Snapshots, by default, are loaded incrementally. Records that have changed a
 
 **DBT Model built over Snapshots:**
 
-- [Building Models on top of snapshots](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots) is further defined below.
+- [Building Models on top of snapshots](/handbook/business-technology/data-team/platform/dbt-guide/#building-models-on-top-of-snapshots) is further defined below.
 - DBT Snapshots are Source level data and are not queried directly for user analysis.  These tables may include the `dbt_valid_from` and `dbt_valid_to` columns to identify the `record version` which comes from the Dbt Snapshot table.
 - `date spining` is used to show the record value for any day in history.  Rows are included for all dates between dbt_valid_from and dbt_valid_to.  This allows for easy analysis and joins for particular dates.
 - These models may be configured as `incremental` because the underlying dbt snapshots are appended to and not modified.
@@ -1382,7 +1382,7 @@ Some basic features of Snapshot models are:
 - `History Rebuild` - Model built over one or more Snapshot models using the same logic used to build out the SCD Dimension.  The history in these models can be rebuilt if the columns or logic changes.
 
 **Snapshot Model Type Examples:**
-- Snapshot Methods used for ARR Data can be found [HERE](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/finance-arr/)  
+- Snapshot Methods used for ARR Data can be found [HERE](/handbook/business-technology/data-team/data-catalog/finance-arr/)  
 - Here are examples of snapshot models with the variation of features that help determine the type:
 
 | DBT Snapshot | Over Snapshot | Spined Dates | History ReBuild | Example                          |
@@ -1401,7 +1401,7 @@ dbt does a great job of handling schema changes in snapshots, but given the brea
 
 #### Testing Snapshots
 
-Testing of a snapshot can be done in a merge request using the [specify_snapshot](https://about.gitlab.com/handbook/business-technology/data-team/platform/ci-jobs/#specify_snapshot) CI job.
+Testing of a snapshot can be done in a merge request using the [specify_snapshot](/handbook/business-technology/data-team/platform/ci-jobs/#specify_snapshot) CI job.
 Engineers should test locally using Airflow, as the proper environment variables are handled based on the git branch.
 Testing should NOT be done while on the master branch.
 It is not recommended to test locally by setting the `SNOWFLAKE_SNAPSHOT_DATABASE` environment variable.
@@ -1651,7 +1651,7 @@ Not all models need to be incremental due to the increased design complexity.
 #### Check never full refresh viability
 
   - Event stream data that does not change is a prime candidate for never full refreshing.
-  - Check data source [guidelines from the handbook](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#data-source-and-data-lineage-information-used-to-determine-full-refresh-policy).
+  - Check data source [guidelines from the handbook](/handbook/business-technology/data-team/platform/infrastructure/#data-source-and-data-lineage-information-used-to-determine-full-refresh-policy).
 
 #### Check Warehouse Size viability
 

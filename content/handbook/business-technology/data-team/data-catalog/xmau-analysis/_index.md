@@ -5,10 +5,10 @@ description: "This page explains key terms, concepts, and data models used in xM
 ---
  
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ---
 
@@ -30,7 +30,7 @@ catch-all term for any other metric.
 
 ### Quick links
 
-{:.no_toc}
+
 
 <div class="d-flex" markdown="0" style="height:80px">
  <a href="https://metrics.gitlab.com/" class="btn btn-purple" style="white-space:initial;min-width:0;width:auto;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Service Ping Metrics Dictionary</a>
@@ -98,7 +98,7 @@ the Service Ping metric .yml files, which are linked in the [Service Ping Metric
 Updates to `performance_indicator_type` for a specific metric will propagate downstream to the
 xMAU charts in Sisense and the internal handbook PI pages.
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-warning">
 **Service Ping-to-xMAU metric mappings**
@@ -306,7 +306,7 @@ Instrumentation team instrumented a subset of these metrics as Snowplow events.
 us to aggregate the events in Snowflake and generate paid GitLab.com xMAU for a handful
 of metrics.
 
-{::options parse_block_html="true" /}
+
 
 <div class="panel panel-warning">
 **Note on replicating Redis and RedisHLL metrics with Snowplow events**

@@ -5,10 +5,10 @@ title: Tiering Strategy & Guidance for Product Managers
 
 On this page
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Tiering strategy
 

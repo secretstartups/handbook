@@ -26,13 +26,13 @@
       url: culture
       links:
       - name: All-Remote
-        url: handbook/company/culture/all-remote/guide
+        url: /handbook/company/culture/all-remote/guide
       - name: Life at GitLab
         url: culture#life-at-gitlab
       - name: GitLab Contribute
         url: https://about.gitlab.com/events/gitlab-contribute/
       - name: Team
-        url: https://about.gitlab.com/company/team/
+        url: /handbook/company/team
       - name: Only healthy constraints
         url: only-healthy-constraints
     - name: TeamOps
@@ -149,7 +149,7 @@
         - name: Compensation
           url: compensation
         - name: Stock Options
-          url: https://about.gitlab.com/handbook/stock-options/
+          url: /handbook/stock-options
     - name: Tools and Tips
       url: tools-and-tips
       links:
@@ -192,7 +192,7 @@
     - name: Engineering Analytics
       url: https://about.gitlab.com/handbook/engineering/quality/engineering-analytics/
   - name: Security Practices
-    url: https://about.gitlab.com/handbook/security/
+    url: /handbook/security/
   - name: Open Source
     url: https://about.gitlab.com/handbook/engineering/open-source/
 - name: Security
@@ -334,7 +334,7 @@
   - name: Accounts Receivable
     url: /handbook/finance/accounting/#accounts-receivable
   - name: Business Technology
-    url: https://about.gitlab.com/handbook/business-technology/
+    url: /handbook/business-technology/
   - name: Expenses
     url: /handbook/finance/expenses
   - name: Financial Planning & Analysis
@@ -353,7 +353,7 @@
      - name: Sarbanes-Oxley (SOX) Compliance
        url: sarbanes-oxley
   - name: Stock Options
-    url: https://about.gitlab.com/handbook/stock-options/
+    url: /handbook/stock-options
 - name: Product
   icon: fa-solid fa-comments
   url: /handbook/product
@@ -371,15 +371,15 @@
   - name: Product sections, stages, groups, and categories
     url: /handbook/product/categories
   - name: Product Development Flow
-    url: https://about.gitlab.com/handbook/product-development-flow/
+    url: /handbook/product-development-flow
   - name: Product Development Timeline
     url: https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline
   - name: Data for Product Managers
-    url: https://about.gitlab.com/handbook/business-technology/data-team/programs/data-for-product-managers/
+    url: /handbook/business-technology/data-team/programs/data-for-product-managers
   - name: Product Pricing Model
     url: /handbook/company/pricing
   - name: Data analysis
-    url: https://about.gitlab.com/handbook/business-technology/data-team/
+    url: /handbook/business-technology/data-team/
   - name: Corporate Development / Acquisitions
     url: https://about.gitlab.com/handbook/acquisitions/
   - name: UX Department

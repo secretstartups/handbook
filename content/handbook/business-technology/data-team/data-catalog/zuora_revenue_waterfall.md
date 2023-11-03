@@ -82,7 +82,7 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;}
 <h1 id="headerformat">Understanding the Data Sources and Data Models</h1>
 <br>
 
-Zuora Billing is our enterprise solution for tracking subscriptions. It is the basis for many of our important financial metrics, like [ARR](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/finance-arr/). Zuora Revenue is a tool used by the Corporate Finance team to recognize our subscription revenue based on both GAAP and non-GAAP rules.
+Zuora Billing is our enterprise solution for tracking subscriptions. It is the basis for many of our important financial metrics, like [ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/). Zuora Revenue is a tool used by the Corporate Finance team to recognize our subscription revenue based on both GAAP and non-GAAP rules.
 
 <details>
 <summary markdown='span'>
@@ -121,9 +121,9 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 
 ARR models use the `zuora_revenue` tags for Trusted Data tests and their results. This can be seen most easily using the [Trusted Data Dashboard](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
-See overview at [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+See overview at [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
-[dbt guide examples](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
+[dbt guide examples](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
 details and examples on implementing further tests
 </details>
 

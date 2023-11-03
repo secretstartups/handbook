@@ -13,7 +13,7 @@ If you have any questions around the offboarding process, please be sure to revi
 
 ### Offboarding Support
 
-For system access questions and [laptop wipes](https://about.gitlab.com/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
+For system access questions and [laptop wipes](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/) related to offboarding, send an email to `itops@gitlab.com`.
 
 For payroll questions or outstanding expense claims, please reach out to either `uspayroll@gitlab.com` or `nonuspayroll@gitlab.com`.
 
@@ -204,7 +204,7 @@ The People Connect member in the relevant rotation will complete a weekly audit 
 
 Once all tasks have been completed, the People Connect Member will close the offboarding issue and mark as completed in the offboarding tracker.
 
-All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/).
+All offboarding tasks by all Departments need to be completed within 5 days of the offboarding date. For systems that are more critical and time sensitive, these will be completed within the first 24 hours (example 1Password, Slack) by the relevant Departments. Information about application & system deprovisioners can be found on the [Tech Stack Applications handbook page](/handbook/business-technology/tech-stack-applications/).
 
 To ensure a successful completion of the offboarding issue, it is important that all tasks are checked off, whether the system/tool is applicable to the offboarding team member or not. Checking the box indicates one of the following:
 
@@ -340,7 +340,7 @@ To track all tool deprovisioning, please open an offboarding issue following the
 
 As part of offboarding, any GitLab property valued above 1,000 USD needs to be returned to GitLab.
 
-For laptops, please refer to the [Laptop Buy Back Policy](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
+For laptops, please refer to the [Laptop Buy Back Policy](/handbook/business-technology/end-user-services/onboarding-access-requests/#laptop-buy-back-policy) which states that team-members have the option to buy back their existing laptops either when it gets refreshed for a new one, or when the team member is offboarding. If the team member has completed 1 calendar year or more at GitLab at the time of laptop refresh or offboarding, they can opt to keep their laptop at no cost. If the team member hasn't completed 1 calendar year at GitLab at that time, they have the option to purchase their laptop for current market value.
 
 To return your laptop to GitLab, please contact `itops@gitlab.com` immediately upon offboarding.
 

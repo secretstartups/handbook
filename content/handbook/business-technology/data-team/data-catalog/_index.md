@@ -8,29 +8,29 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 
 ---
 
 # Purpose
 
-The purpose of this **Data Catalog** is to help you understand and make use of the data that is available in our [Snowflake Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/infrastructure/#system-diagram) for reporting and analysis. Snowflake contains [Data Sources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources) extracted from [Tech Stack Applications](https://about.gitlab.com/handbook/business-technology/tech-stack-applications/), then transformed and integrated into the [Trusted Data Model](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#background) for simple and easy reporting and analysis. Trusted Data Models are expressed using standard [dimensional modeling](https://en.wikipedia.org/wiki/Dimensional_modeling). Reporting and analysis is performed using either SQL run versus Snowflake (UI or Command Line), or using [the Sisense BI Tool](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) that connects to Snowflake.
+The purpose of this **Data Catalog** is to help you understand and make use of the data that is available in our [Snowflake Data Warehouse](/handbook/business-technology/data-team/platform/infrastructure/#system-diagram) for reporting and analysis. Snowflake contains [Data Sources](/handbook/business-technology/data-team/platform/#data-sources) extracted from [Tech Stack Applications](/handbook/business-technology/tech-stack-applications/), then transformed and integrated into the [Trusted Data Model](/handbook/business-technology/data-team/platform/edw/#background) for simple and easy reporting and analysis. Trusted Data Models are expressed using standard [dimensional modeling](https://en.wikipedia.org/wiki/Dimensional_modeling). Reporting and analysis is performed using either SQL run versus Snowflake (UI or Command Line), or using [the Sisense BI Tool](/handbook/business-technology/data-team/platform/sisensecdt/) that connects to Snowflake.
 
-- See [Data Sources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources) for a list of all data sourced into Snowflake. Not all Tech Stack Application Data is sourced into Snowflake, but most critical application data is. If there is data you would like sourced into Snowflake, follow our [New Data Source](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/) guide.
+- See [Data Sources](/handbook/business-technology/data-team/platform/#data-sources) for a list of all data sourced into Snowflake. Not all Tech Stack Application Data is sourced into Snowflake, but most critical application data is. If there is data you would like sourced into Snowflake, follow our [New Data Source](/handbook/business-technology/data-team/how-we-work/new-data-source/) guide.
 - Refer to the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) for a comprehensive list of all Tech Stack Applications. The YAML file is the SSOT for key application information, such as business owner, technical owner, data classification, and access request process.
 - This Data Catalog is organized by the major cross functional workflows and then by the [function and results](/handbook/handbook-usage/#organized-by-function-and-results).
 
 ## Important: How Data Extraction, Loading, and Transformation Works
 
-We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-elt/#:~:text=ETL%20transforms%20data%20on%20a,directly%20to%20the%20data%20warehouse.) because the ELT approach gives us more flexibility in storing historical data and transforming it all within Snowflake. Data is stored in different schemas and databases in Snowflake as it progresses through Loading and Transformation Stages. For Data Access and Security reasons, only data surfaced in the `PROD` database is accessible to Sisense. Learn more about our Snowflake Data Storage process design in the [Data Storage guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-storage)
+We follow [an ELT approach, not an ETL approach](https://rivery.io/blog/etl-vs-elt/#:~:text=ETL%20transforms%20data%20on%20a,directly%20to%20the%20data%20warehouse.) because the ELT approach gives us more flexibility in storing historical data and transforming it all within Snowflake. Data is stored in different schemas and databases in Snowflake as it progresses through Loading and Transformation Stages. For Data Access and Security reasons, only data surfaced in the `PROD` database is accessible to Sisense. Learn more about our Snowflake Data Storage process design in the [Data Storage guide](/handbook/business-technology/data-team/platform/#data-storage)
 
-- **Extraction and Loading:** We use a variety of tools to extract data from Tech Stack applications and follow the [Extraction Solution decision tree](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/new-data-source/#extraction-solution) to ultimately decide which is the best tool to use for a given data source. The [Pipelines guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/pipelines/#background) contains more information about our Extraction processes.
+- **Extraction and Loading:** We use a variety of tools to extract data from Tech Stack applications and follow the [Extraction Solution decision tree](/handbook/business-technology/data-team/how-we-work/new-data-source/#extraction-solution) to ultimately decide which is the best tool to use for a given data source. The [Pipelines guide](/handbook/business-technology/data-team/platform/pipelines/#background) contains more information about our Extraction processes.
 
-- **Transformation**: [dbt](https://www.getdbt.com/) is used for all in transformations. See our [dbt guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/) for more details on why and how we use this tool. All dbt code is stored in our [Analytics Project](https://about.gitlab.com/handbook/business-technology/data-team/platform/#folder-structure-in-analytics-project).
+- **Transformation**: [dbt](https://www.getdbt.com/) is used for all in transformations. See our [dbt guide](/handbook/business-technology/data-team/platform/dbt-guide/) for more details on why and how we use this tool. All dbt code is stored in our [Analytics Project](/handbook/business-technology/data-team/platform/#folder-structure-in-analytics-project).
 
 ## Sisense Enterprise BI Tool
 
-[Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/sisensecdt/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
+[Sisense](/handbook/business-technology/data-team/platform/sisensecdt/) is our enterprise standard BI tool. See how Sisense is being used with the [Sisense Usage Overview](https://app.periscopedata.com/app/gitlab/410320/Periscope-Usage!-%F0%9F%93%88?) dashboard.
 
 ## Tableau Enterprise BI Tool
 

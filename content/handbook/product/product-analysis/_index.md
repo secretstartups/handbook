@@ -4,14 +4,14 @@ title: Product Data Insights
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Product Data Insights Handbook
 
-{:.no_toc}
+
 
 The Product Data Insights (formerly known as "Product Analysis") group consists of a team of
 product analysts. This group reports to the Senior Director, Product Monetization and serves
@@ -28,7 +28,7 @@ Read more about what we do at GitLab on our [Direction](https://about.gitlab.com
 
 ### Team members
 
-{:.no_toc}
+
 
 Product Data Insights is a small (but mighty) team. In order to support the Product division,
 each analyst is assigned to one or more sections or teams to support.
@@ -68,7 +68,7 @@ All data issues with the `Team::PDI` label will appear on the [Product Data Insi
 
 #### Issue templates
 
-{:.no_toc}
+
 
 Please select the appropriate template based on your type of request and answer as many of the
 questions as you can. The more information and context we have up front, the faster we are able
@@ -83,7 +83,7 @@ to triage and begin work on the issue.
 
 #### Submission due date
 
-{:.no_toc}
+
 
 In order to be considered for the upcoming iteration, please open all issues by EOD Monday
 before the next iteration begins. We understand that urgent matters come up, but please try to
@@ -311,7 +311,7 @@ questions are captured in issues and go through a more rigorous, structured prio
 
 #### How to sign up
 
-{:.no_toc}
+
 
 The [agenda](https://docs.google.com/document/d/1ZXS-eeZNuRUn7176dZFqsyhIU-DSWYvWuEhogpbTzys/edit#)
 is first-come, first-served. Walk-ins/drop-ins are always welcome, but if possible, please
@@ -324,7 +324,7 @@ which can help reduce async back-and-forth communication in the issue itself.
 
 #### Example topics
 
-{:.no_toc}
+
 
 Office hours are intended for smaller bodies of work, brainstorming, and assistance with
 data self-service. Here are some examples of topics for office hours:
@@ -395,7 +395,7 @@ work and will redirect you to [open an issue](https://gitlab.com/gitlab-data/pro
 
 #### FAQs
 
-{:.no_toc}
+
 
 **What is the difference between topics for office hours and formal data requests?**
 

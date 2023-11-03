@@ -39,7 +39,7 @@ Infrastructure uses [Woodhouse](https://gitlab.com/gitlab-com/gl-infra/woodhouse
 
 This information will all be posted to Slack in the `#incident-management` channel by Woodhouse and it'll look similar to the following example.
 
-![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png){: .shadow}
+![Incident declared by Woodhouse](/images/support/cmoc_incident_declared.png)
 
 GitLab team members are encouraged to use this method of reporting incidents if they suspect GitLab.com is about to face one.
 
@@ -182,7 +182,7 @@ You can create an incident directly through the `status.io` website **OR** throu
 
 To create an incident through Status.io click the `New Incident` button from the main dashboard:
 
-![New incident](/images/support/cmoc_new_incident.png){: .shadow}
+![New incident](/images/support/cmoc_new_incident.png)
 
 Then, fill out all of the details of the incident. The following values should be changed:
 
@@ -202,7 +202,7 @@ Then, fill out all of the details of the incident. The following values should b
 
 The following is an example of an incident ready to be created regarding a delay in job processing on GitLab.com, and is generally what this page should look like before being submitted based on the guidelines above.
 
-![Incident details](/images/support/cmoc_incident_details.png){: .shadow}
+![Incident details](/images/support/cmoc_incident_details.png)
 
 #### Create Through Slack
 
@@ -249,11 +249,11 @@ To publicly communicate attention and progress incidents should be updated accor
 
 To update an active incident, click the incidents icon from the dashboard.
 
-![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
+![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png)
 
 Then click on the edit button next to the incident.
 
-![Incident edit button](/images/support/cmoc_update_incident.png){: .shadow}
+![Incident edit button](/images/support/cmoc_update_incident.png)
 
 Change the following values:
 
@@ -271,7 +271,7 @@ Change the following values:
 
 A ready to be published update should look similar to the following.
 
-![Incident update](/images/support/cmoc_post_incident_update.png){: .shadow}
+![Incident update](/images/support/cmoc_post_incident_update.png)
 
 Twitter has a 280 character limit, but we noticed that some tweets get truncated to 230 characters, such as [this one](https://twitter.com/gitlabstatus/status/1641150257936601088). This can be due to twitter converting any URLs to a 23-character URL via their link shortener service.
 
@@ -287,7 +287,7 @@ Proceed to either [Title](#title) or [Affected Infrastructure](#affected-infrast
 
 To update the title of an incident, click `Incidents` in the navigation bar and then the `View Incident` button next to the incident in question:
 
-![Update incident title - 1](/images/support/cmoc_update_title_or_infra.png){: .shadow}
+![Update incident title - 1](/images/support/cmoc_update_title_or_infra.png)
 
 Click the pencil icon next to the current incident title, change it, then click `Save`.
 
@@ -295,11 +295,11 @@ Click the pencil icon next to the current incident title, change it, then click 
 
 To update the affected infrastructure of an incident, click `Incidents` from the navigation bar and then the `View Incident` button next to the incident in question:
 
-![Update affected infrastructure - 1](/images/support/cmoc_update_title_or_infra.png){: .shadow}
+![Update affected infrastructure - 1](/images/support/cmoc_update_title_or_infra.png)
 
 Click the pencil next to `Affected Infrastructure`, check the boxes next to the additional affected infrastructure, then click `Save`. Then, click `Dashboard` from the navigation menu, click the additional affected infrastructure from the `Current Status` menu, and change their status:
 
-![Change affected infrastructure](/images/support/cmoc_update_infra.png){: .shadow}
+![Change affected infrastructure](/images/support/cmoc_update_infra.png)
 
 #### Create Zendesk Tag
 
@@ -342,7 +342,7 @@ To begin monitoring, edit the incident and change the following fields.
 
 A ready to be published update that switches the incident over to the monitoring period should look similar to the following.
 
-![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
+![Switch to monitoring](/images/support/cmoc_monitoring_stage.png)
 
 If at any point during the monitoring period we see a recurrence of the issue, return to [Stage 2](#stage-2-manage). If the monitoring period completes with no recurrence of the issue, proceed to [Stage 4](#stage-4-resolve).
 
@@ -368,7 +368,7 @@ Once we've confirmed that the issue has been resolved and **the IM has given the
 
 A ready to be published update that closes the incident should look similar to the following.
 
-![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
+![Resolve incident](/images/support/cmoc_resolve_incident.png)
 
 After the incident has been closed double check that the status page looks right.
 
@@ -380,15 +380,15 @@ Do the following to add a post-mortem to a resolved incident:
 
 1. From the dashboard click the `Incidents` button.
 
-   ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
+   ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png)
 
 1. Scroll down and click on the title of the incident.
 
-   ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png){: .shadow}
+   ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png)
 
 1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review, this is usually the same issue that was opened for the incident.
 
-   ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
+   ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png)
 
 #### Check Zendesk
 
@@ -402,11 +402,11 @@ In the event that a maintenance will affect users, infrastructure can request th
 
 To create a new maintenance event, click `New Maintenance` from the Status.io dashboard.
 
-![New Maintenance](/images/support/cmoc_new_maintenance.png){: .shadow}
+![New Maintenance](/images/support/cmoc_new_maintenance.png)
 
 The contents of the maintenance should be filled out according to the details provided in the maintenance issue. Once complete, it might look something like the following.
 
-![Maintenance Details](/images/support/cmoc_maintenance_details_automation.png){: .shadow}
+![Maintenance Details](/images/support/cmoc_maintenance_details_automation.png)
 
 ### Timezones and Dates for Maintenance
 
@@ -417,10 +417,10 @@ The date format is DD-MM-YYYY, because the ISO format is not an option as of 202
 ### Rescheduling a Maintenance Event
 
 In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
-![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
+![Maintenance Tab](/images/support/cmoc_select_maintenance.png)
 
 Select the maintenance you need to reschedule.
-![Maintenance selected](/images/support/cmoc_get_in_maintenance.png){: .shadow}
+![Maintenance selected](/images/support/cmoc_get_in_maintenance.png)
 
 Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
 
@@ -433,11 +433,11 @@ After being disabled all future updates to this Maintenance Event must be manual
 
 To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
 
-![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
+![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png)
 
 Enter the update details provided by the Infrastructure team and have them confirm the appropriate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
 
-![Broadcast Maintenance Update](/images/support/cmoc_broadcast_maintenance_update.png){: .shadow}
+![Broadcast Maintenance Update](/images/support/cmoc_broadcast_maintenance_update.png)
 
 Once the GitLab Status Twitter account has posted about the maintenance schedule, send a link of the tweet to the `#social_media_action` channel to let the social team know that you'd like amplification on our GitLab brand twitter account. This should only be used once during a selected scheduled maintenance timeline, preferably mid-week prior to the scheduled maintenance.
 

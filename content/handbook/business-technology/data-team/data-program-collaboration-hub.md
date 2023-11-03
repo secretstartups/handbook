@@ -8,9 +8,9 @@ description: "Data and Analytics oriented meetings, initiatives, and people"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -43,7 +43,7 @@ The Data Directory is designed to provide quick access to / better organize key 
 **DATA / SCIENCE**
 <details>
   <summary markdown="span">About Data Science</summary>
-  [Handbook Page](https://about.gitlab.com/handbook/business-technology/data-team/organization/data-science/)
+  [Handbook Page](/handbook/business-technology/data-team/organization/data-science/)
   <br>
 </details>
 

@@ -8,9 +8,9 @@ description: "GitLab Enterprise Data Team Handbook"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ----
 
@@ -32,12 +32,12 @@ At GitLab we are [Handbook First](/handbook/handbook-usage/#why-handbook-first) 
 
 Of the [Data Team's Responsibilities](/handbook/business-technology/data-team/#responsibilities), the Enterprise Data Team is responsible for:
 
-- Being a ***Center of Excellence*** for [Data Management processes](https://about.gitlab.com/handbook/business-technology/data-team/data-management/)
-- Provide direction and support to the Data Modeling Project teams to develop architecture and implement dimensional model designs by following [Modeling Development process](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#modeling-development-process)
-- Review ERDs and validate Data models to ensure that they adhere to all the [Enterprise Dimensional Modeling Guidelines](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/#modeling-guidelines) and [Naming standards](Naming Standards)
+- Being a ***Center of Excellence*** for [Data Management processes](/handbook/business-technology/data-team/data-management/)
+- Provide direction and support to the Data Modeling Project teams to develop architecture and implement dimensional model designs by following [Modeling Development process](/handbook/business-technology/data-team/platform/edw/#modeling-development-process)
+- Review ERDs and validate Data models to ensure that they adhere to all the [Enterprise Dimensional Modeling Guidelines](/handbook/business-technology/data-team/platform/edw/#modeling-guidelines) and [Naming standards](Naming Standards)
 - Update/Maintain a current version of [Conformance matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=430467333) to enhance searchability of EDM Facts/Dims/marts for cross-subject area analysis
 - Support Self-Service BI and Analytical capabilities by providing Data Enablement and required training to the Users on Data Models
-- Continue to work towards adding more content to [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/#data-catalog) for business users that synthesizes details about data assets across multiple data sources by organizing them into an easy to digest form
+- Continue to work towards adding more content to [Data Catalog](/handbook/business-technology/data-team/data-catalog/#data-catalog) for business users that synthesizes details about data assets across multiple data sources by organizing them into an easy to digest form
 - Creating Definitive Guide Handbook pages on various topics of interest for business and technical audience
 
 Additionally, the `Enterprise Data Team` partners with the `Data Platform` & other `Data Teams` to Scope, Assist and Support a [Data Management strategy](https://lucid.app/lucidchart/3d662a2c-0025-40eb-a507-07ad21d11214/edit?beaconFlowId=795ADBEB78311025&invitationId=inv_cc970528-711f-44e1-8086-47d450d4400d&page=0_0#) that directly impacts data across various subject areas.  These areas of responsibility include:
@@ -98,7 +98,7 @@ Additionally, the `Enterprise Data Team` partners with the `Data Platform` & oth
 
 ## Current State of Enterprise Data
 
-Currently, analysts and knowledge workers in the company have a few options to analyze structured data from the [data warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-warehouse), primarily those listed below:
+Currently, analysts and knowledge workers in the company have a few options to analyze structured data from the [data warehouse](/handbook/business-technology/data-team/platform/#data-warehouse), primarily those listed below:
 
 - A well defined Enterprise Data Model that provides a birds-eye view to all the available fact, dimension and mart models being used across various subject areas has not been developed yet.
 - The existing Data models are siloed and there are not many conformed dimensions.
@@ -127,9 +127,9 @@ The `Enterprise Data Team` will continue to work towards achieving the following
 
 # Useful Links and resources
 
-- [A Complete Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
-- [Enterprise Dimensional Modelling](https://about.gitlab.com/handbook/business-technology/data-team/platform/edw/)
-- [Data Team Data Management](https://about.gitlab.com/handbook/business-technology/data-team/data-management/)
-- [Data Team Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/)
+- [A Complete Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
+- [Enterprise Dimensional Modelling](/handbook/business-technology/data-team/platform/edw/)
+- [Data Team Data Management](/handbook/business-technology/data-team/data-management/)
+- [Data Team Platform](/handbook/business-technology/data-team/platform/)
 
 

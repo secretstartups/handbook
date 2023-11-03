@@ -5,10 +5,10 @@ title: Expansion
 
 ## Welcome to the GitLab Growth Expansion Group Handbook
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Overview
 

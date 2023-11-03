@@ -8,9 +8,9 @@ description: "GitLab Data Team Workflow"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 ### <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
@@ -63,7 +63,7 @@ Here's the process to follow to create a new Data issue:
 
 The monthly Data Leadership Forum includes representation from partner teams across GitLab (Marketing, Sales, Customer Success, Finance, IT, Support, Product, Engineering, People, Security, Legal) and is used to oversee and drive the strategic direction of GitLab data management and analytics initiatives, including project prioritization. The forum ensures that data is leveraged effectively to support business goals, improve decision-making processes, and drive innovation. It acts as a governing body to establish policies, standards, and best practices for data governance, data quality, data privacy, and data security.
 
-In order for OKRs / projects to be prioritized through the Data Leadership Forum, an opportunity canvas is required. An opportunity canvas is a specific [issue template](https://gitlab.com/gitlab-data/analytics/-/issues) that contains detailed information about the work that is being requested, the expected business impact from that work, a rough estimate of the level of effort to accomplish the work, and known risks/dependencies. The opportunity canvas also includes a business value score based on our [Value Calculator](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator), which is one factor in prioritizing and ranking our backlog of work. 
+In order for OKRs / projects to be prioritized through the Data Leadership Forum, an opportunity canvas is required. An opportunity canvas is a specific [issue template](https://gitlab.com/gitlab-data/analytics/-/issues) that contains detailed information about the work that is being requested, the expected business impact from that work, a rough estimate of the level of effort to accomplish the work, and known risks/dependencies. The opportunity canvas also includes a business value score based on our [Value Calculator](/handbook/business-technology/data-team/how-we-work/#data-team-value-calculator), which is one factor in prioritizing and ranking our backlog of work. 
 
 In the instance that a new project is raised mid-quarter and is proposed to be prioritized sooner than the next quarterly planning cycle, the forum will review the Opportunity Canvas for the new project, determine if the business value and impact warrants re-prioritization, and will come to a decision on the necessary trade-offs (i.e. to prioritize that new work, other planned work must be deprioritized). 
 
@@ -77,7 +77,7 @@ Requests to expedite responses, triage issues, or MR reviews are rare. Given the
 
 ### Deciding What And How To Build
 
-Not all data solutions require the same level of quality, scalability, and performance so we have defined a [Data Development](/handbook/business-technology/data-team/data-development/) framework to help match required outcomes with level of investment. The Data Team works with all teams to build solutions appropriate to the need, but focuses on *Trusted Data* using [Trusted Data Development](https://about.gitlab.com/handbook/business-technology/data-team/data-development/#trusted-data-development).
+Not all data solutions require the same level of quality, scalability, and performance so we have defined a [Data Development](/handbook/business-technology/data-team/data-development/) framework to help match required outcomes with level of investment. The Data Team works with all teams to build solutions appropriate to the need, but focuses on *Trusted Data* using [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development).
 
 ### Design Spike
 
@@ -110,7 +110,7 @@ Our planning process is called the [Planning Drumbeat](/handbook/business-techno
 
 #### Weekly Roll Up Reporting
 
-Business Technology developed [Rolly Bot](https://about.gitlab.com/handbook/business-technology/how-we-work/rolly/) to automate the creation and dissemination of weekly status updates. By using their tool, the Data Team is able to send out regular updates about their OKRs via email and Slack with minimal time commitments from team members. One roll up is generated for the Data Fusion team and a second is created for the Data Platform team. 
+Business Technology developed [Rolly Bot](/handbook/business-technology/how-we-work/rolly/) to automate the creation and dissemination of weekly status updates. By using their tool, the Data Team is able to send out regular updates about their OKRs via email and Slack with minimal time commitments from team members. One roll up is generated for the Data Fusion team and a second is created for the Data Platform team. 
 
 We use GitLab's [DRI Handbook Page](/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) to define the roles and responsibilities for each key result. The DRI (Responsible and Accountable Team Member that completes the Key Result), Consulted (Primary Business Stakeholder for Data Activation), and Informed (Secondary Business Stakeholder for Data activation) should be added to the Epic description.
 
@@ -213,7 +213,7 @@ Optional labels that are useful to communicate state or other priority:
     - Data: Data being touched (Salesforce, Zuora, Zendesk, GitLab.com, etc.)
     - Tool: (Sisense, dbt, Stitch, Airflow, etc.)
 - **Business Logic Change**: This label is applied for any business logic changes such as adding new dimensions, facts, marts, changing joins, adding new calculated fields.
-- **Opportunity Canvas**: This label is auto-applied on the Opportunity Canvas template, but can also be applied to work that has converted into a large-scale project. This label will be used to identify topics for discussion and prioritization at the [monthly Data Leadership forum](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/#prioritization). 
+- **Opportunity Canvas**: This label is auto-applied on the Opportunity Canvas template, but can also be applied to work that has converted into a large-scale project. This label will be used to identify topics for discussion and prioritization at the [monthly Data Leadership forum](/handbook/business-technology/data-team/how-we-work/#prioritization). 
 
 ##### Merge Request Workflow 
 
@@ -259,8 +259,8 @@ Other tips:
 ##### KPI Development Workflow
 
 The Data Team will work to add KPIs and Performance Indicators to our enterprise database models and BI reports once the following steps have been completed.
-    - The DRI should ensure the KPI definition, business logic, and calculation steps are documented in the relevant section of the handbook and added to the GitLab KPIs [with all of its parts](/company/kpis/#parts-of-a-kpi) 
-    - The handbook definition should be reviewed by the necessary [Consulted & Informed](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) cross-functional partners. In some cases, the definition may also require [approval](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/#circumstances-requiring-the-rare-need-for-approvals) from those cross-functional partners
+    - The DRI should ensure the KPI definition, business logic, and calculation steps are documented in the relevant section of the handbook and added to the GitLab KPIs [with all of its parts](/handbook/company/kpis/#parts-of-a-kpi) 
+    - The handbook definition should be reviewed by the necessary [Consulted & Informed](/handbook/people-group/directly-responsible-individuals/#dri-consulted-informed-dci) cross-functional partners. In some cases, the definition may also require [approval](/handbook/people-group/directly-responsible-individuals/#circumstances-requiring-the-rare-need-for-approvals) from those cross-functional partners
     - Once the KPI is ready to be added into our enterprise reporting, the DRI should create an issue using the standard Data Team Issue template on the [GitLab Data Team Issue Tracker](https://gitlab.com/gitlab-data/analytics/issues).
     - The Data team will verify the data sources and help to find a way to automate (if necessary).
 
@@ -312,7 +312,7 @@ Each variables will be scored 1 to 3.
 
 `Probability ` * `Impact` = `Risk Score`
 
-{::options parse_block_html="true" /}
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -380,7 +380,7 @@ Each year beginning in FY24, the Data Team will facilitate a survey to solicit a
 
 ### YouTube
 
-We encourage everyone to record videos and post to GitLab Unfiltered. The [handbook page on YouTube](/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you're uploading a video for the data team, be sure to do the following extra steps:
+We encourage everyone to record videos and post to GitLab Unfiltered. The [handbook page on YouTube](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#post-everything) does an excellent job of telling why we should be doing this. If you're uploading a video for the data team, be sure to do the following extra steps:
 
 - Add `data` as a video tag
 - Add it to the [Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI)
@@ -393,5 +393,5 @@ We encourage everyone to record videos and post to GitLab Unfiltered. The [handb
 1. Ask your People BP to provide you a Requisition # for tracking purposes. If you have multiple openings to fill, communicate with your People BP using this Req# because juggling multiple openings gets confusing fast.
 1. Develop an Interview Plan, which will cover Responsibilities, Tips, Reminders, and custom Interview questions for each Interview Job Role type. For examples, see the [Data Scientist Interview Plan](https://docs.google.com/document/d/1slPL8qy6IW01DcNBP26YVC3mHtkwApHGmA29d6Y9nlg/edit#heading=h.6mqvxi38wull) and [Analytics Engineer Interview Plan](https://docs.google.com/document/d/1wspMpA6Z-UQXZsqYJ7vqhZ5pHNErv54lyF-kOilpkDw/edit).
 1. Each Data Job Role and Job Grade has a customized [Homework Assessment](https://drive.google.com/drive/folders/1cQeCKu_Nu2kBLa4oiAVrp7hu7LdnIB3C). Review and update the Homework Assessment as needed. If a Homework Assessment is not available for the Job Role, create one and save it in the [Homework Assessment Google Drive](https://drive.google.com/drive/folders/1cQeCKu_Nu2kBLa4oiAVrp7hu7LdnIB3C)
-1. Send a Homework Assessment to the People BP for inclusion in the Hiring process. The Hiring Process is included in each Data Job Family to help set candidate and interviewer expectations. An example is the [Data Engineer Hiring Process](https://handbook.gitlab.com/job-families/finance/data-engineer/#hiring-process).
+1. Send a Homework Assessment to the People BP for inclusion in the Hiring process. The Hiring Process is included in each Data Job Family to help set candidate and interviewer expectations. An example is the [Data Engineer Hiring Process](/job-families/finance/data-engineer/#hiring-process).
 1. Create a new slack channel, e.g. `bt-data-data-science-interview` to help coordinate with your interviewers. Share the Interview Plan with your interviewers through Slack.

@@ -5,10 +5,10 @@ description: "This handbook page provides information about how the IT Security 
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to reach out to us?
 
@@ -25,7 +25,7 @@ IT Security's main function is maintaining internal security posture of GitLab. 
 
 We use our [IT Security](https://gitlab.com/groups/gitlab-com/-/boards/3481285) board to track a lot of our work. If you need assistance with an IT Security issue, you can open an issue in our [issue tracker](https://gitlab.com/groups/gitlab-com/it/security/-/issues) with the ~it-security-status::needs-review label.
 
-## [IT Security and Compliance Tools](https://about.gitlab.com/handbook/business-technology/it/security/tools.html.md)
+## [IT Security and Compliance Tools](/handbook/business-technology/it/security/tools.html.md)
 
 IT Security has some tools at our disposal in order to help the company maintain a SAFE and Secure. These tools include a VPN Solution NordLayer and a Google Drive security tool called Nira. Please follow the link above for more information about these tools. If you have any questions about these tools, please reach out in the [#it_security_help](https://gitlab.slack.com/archives/C03ET01KZK7) Slack channel.
 

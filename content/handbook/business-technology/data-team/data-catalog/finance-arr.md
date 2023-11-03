@@ -5,9 +5,9 @@ title: "TD: Finance Annual Recurring Revenue (ARR)"
 
 
 
-{:toc}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
@@ -160,9 +160,9 @@ background-color: #6666c4; color: black; padding: 5px; text-align: center;
 
 ARR models use the `arr`, `arr_snapshots`, `mrr`, `zuora`, `billing_account`, and `crm_account` tags for Trusted Data tests and their results. This can be seen most easily using the [Trusted Data Dashboard](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
-See overview at [Trusted Data Framework](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf)
+See overview at [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf)
 
-[dbt guide examples](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
+[dbt guide examples](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) for
 details and examples on implementing further tests
 </details>
 

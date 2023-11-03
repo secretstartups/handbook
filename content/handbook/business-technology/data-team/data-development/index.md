@@ -59,7 +59,7 @@ All Trusted Data solutions must meet the following criteria:
 1. Scope is defined for v1.0 and v1.1, with a release cycle established up-front (e.g. weekly, bi-weekly, monthly)
 1. A Dashboard Wireframe is created in Lucid or Sisense and shared with users, iterating to "final draft"
 1. If a Dimensional Data Model solution is indicated, then the Dimensional Data Model is designed and integrated into the [Enterprise Dimensional Model Bus Matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=742713121). This step is not applicable for data modeled in the `SPECIFIC` application schema.
-1. (`DRAFT: Under review with Monte Carlo Project`) [Trusted Data Tests](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) are created and deployed
+1. (`DRAFT: Under review with Monte Carlo Project`) [Trusted Data Tests](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) are created and deployed
 1. The solution enters a User Acceptance Testing phase, including data validations to source systems
 1. The solution is registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 1. The solution is deployed, including any required training and user enablement

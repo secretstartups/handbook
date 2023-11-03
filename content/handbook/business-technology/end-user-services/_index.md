@@ -47,11 +47,11 @@ To read more about Okta, please visit the [**Okta**](/handbook/business-technolo
 
 #### Jamf (Endpoint Management)
 
-To read more about our Jamf deployment please visit the [**Endpoint Management**](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) page of the handbook
+To read more about our Jamf deployment please visit the [**Endpoint Management**](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/) page of the handbook
 
 #### Laptop Delivery Metrics
 
-To view laptop delivery metrics and statistic please visit the [Laptop Metrics Handbook Page](https://about.gitlab.com/handbook/business-technology/end-user-services/laptop-metrics/)
+To view laptop delivery metrics and statistic please visit the [Laptop Metrics Handbook Page](/handbook/business-technology/end-user-services/laptop-metrics/)
 
 #### GitLab Onboarding and machine management
 
@@ -59,7 +59,7 @@ Please visit the GitLab Onboarding and machine management [handbook page](/handb
 
 #### Gitlab Laptop Offboarding
 
-Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
+Please visit the Gitlab Laptop Offboarding page for information pertaining to this process at Gitlab [handbook page](/handbook/business-technology/end-user-services/gitlab-laptop-offboarding/)
 
 #### Self-help and troubleshooting
 
@@ -67,7 +67,7 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 
 #### Gitlab IT 101
 
-New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding101/)
+New to Gitlab and looking for some IT tips and tricks? This is the spot for you, we have created a comprehensive guide for using the IT systems, apps and hardware [in this handbook page](/handbook/business-technology/end-user-services/onboarding101/)
 
 #### Offboarding
 

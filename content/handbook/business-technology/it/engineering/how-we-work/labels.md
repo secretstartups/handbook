@@ -5,10 +5,10 @@ description: "This handbook page provides information about how we use GitLab.co
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Overview
 

@@ -8,27 +8,27 @@ description: "Snowflake Data Warehouse Guide"
 
 
 
-{:toc .toc-list-icons .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
+
+
 
 ---
 
 ## What and why
 
-[Snowflake](https://www.snowflake.com/) is our Enterprise Data Warehouse (EDW) and is the core technology in our [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack).
+[Snowflake](https://www.snowflake.com/) is our Enterprise Data Warehouse (EDW) and is the core technology in our [Enterprise Data Platform](/handbook/business-technology/data-team/platform/#our-data-stack).
 
 ## What does Snowflake Contain?
 
-Snowflake contains all of our analytical data and [Data Source](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-sources)s defines the set of original/raw data available.
+Snowflake contains all of our analytical data and [Data Source](/handbook/business-technology/data-team/platform/#data-sources)s defines the set of original/raw data available.
 
 ## Related Content
 
-- [Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/#warehouse-access)
-- [Support Portal Access](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-warehouse)
-- [Compute Resources](https://about.gitlab.com/handbook/business-technology/data-team/platform/#compute-resources)
-- [Data Masking](https://about.gitlab.com/handbook/business-technology/data-team/platform/#data-masking)
-- [Backups](https://about.gitlab.com/handbook/business-technology/data-team/platform/#backups)
+- [Access](/handbook/business-technology/data-team/platform/#warehouse-access)
+- [Support Portal Access](/handbook/business-technology/data-team/platform/#data-warehouse)
+- [Compute Resources](/handbook/business-technology/data-team/platform/#compute-resources)
+- [Data Masking](/handbook/business-technology/data-team/platform/#data-masking)
+- [Backups](/handbook/business-technology/data-team/platform/#backups)
 
 ## Logging In
 

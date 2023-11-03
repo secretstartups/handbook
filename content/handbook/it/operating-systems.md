@@ -19,7 +19,7 @@ macOS 13.4.0 or later
 
 If your work requires a Linux distro installed on your laptop (a team member endpoint system) by any means, including virtualization, that it must be on the below GitLab Approved List. It will be your responsibility to maintain your Linux environment with security patching and version upgrades to stay compliant with the list.
 
-The list of Linux versions below is based on what our [EDR](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution is required on team member endpoint systems and [virtual machines](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#i-have-several-virtual-hosts-on-my-laptop-do-they-all-need-agent).
+The list of Linux versions below is based on what our [EDR](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/) platform supports. Deployment of the EDR solution is required on team member endpoint systems and [virtual machines](/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/edr/#i-have-several-virtual-hosts-on-my-laptop-do-they-all-need-agent).
 
 Linux versions are therefore limited to:
 
@@ -56,7 +56,7 @@ No matter how the Windows operating system is provisioned, it cannot be used to 
 ##### Roles that qualify for Windows usage
 
 - Engineers, Support Engineers, Technical Marketing Managers, Product Designers, UX Managers, Product Managers, Technical Writers and all Customer Success Technical roles are eligible to run virtualized Windows.
-- The team member is responsible to ensure compliance with [all endpoint management policies](/handbook/it/operating-systems/) for virtualized Windows running on a GitLab Laptop. This includes installation and configruation of our [endpoint detection and response tool](https://about.gitlab.com/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/).
+- The team member is responsible to ensure compliance with [all endpoint management policies](/handbook/it/operating-systems/) for virtualized Windows running on a GitLab Laptop. This includes installation and configruation of our [endpoint detection and response tool](/handbook/business-technology/end-user-services/onboarding-access-requests/endpoint-management/edr/).
 
 ##### Required manager approval and assurances
 

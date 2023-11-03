@@ -4,10 +4,10 @@ title: "Manual Upload of Usage Payload"
 ---
 
 
-{:.no_toc}
 
 
-{:toc}
+
+
 
 ## Activities for the User with Usage Data
 

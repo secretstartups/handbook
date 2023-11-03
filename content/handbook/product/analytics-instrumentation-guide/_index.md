@@ -99,7 +99,7 @@ The Metrics Dictionary was [introduced](https://gitlab.com/gitlab-org/gitlab/-/i
 1. **Filter data**. In the search bar, enter a value you want to filter the results set by.
 1. **Customize viewable columns**. Select the options button to expand the "table fields" control. From here, you can select the columns you want to display in your view. Note, this doesn't not filter data by the selection, this only displays or not displays the data regardless of the values.
 1. **Sisense query for GitLab.com**. Copy this query for use in Sisense. A common use case for this feature is to identify if data is available for SaaS Service Ping. Watch [this quick video](https://www.youtube.com/watch?v=n4o65ivta48) to learn more.
-1. **Performance indicator type**. Metrics which are utilized in business critical [xMAU](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) calculations are indicated with a Performance indicator type value.
+1. **Performance indicator type**. Metrics which are utilized in business critical [xMAU](/handbook/business-technology/data-team/data-catalog/xmau-analysis/) calculations are indicated with a Performance indicator type value.
 1. **Export**. You can now download the entire metrics dictionary as a .csv file.
 1. **Metric Version**. Starting with miletone 13.9, we've begun to attribute the version associated with the metric. Unfortunately we couldn't populate the historical values for existing metrics so all prior metrics are labeled as `<13.9`.
 1. **Metric Product Section/Stage/Group**. You can display and/or filter by Section, Stage and Group as needed.
