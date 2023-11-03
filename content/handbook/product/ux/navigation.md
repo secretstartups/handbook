@@ -26,7 +26,7 @@ We only make new additions to the Gitlab navigation structure through a delibera
 
 Therefore, we **do not add new items** to:
 
-* Improve discoverability of new features. Instead, look for other opportunities to highlight the functionality throughout the product.
+* Improve discoverability of new features. Instead, look for other opportunities to [highlight the functionality](https://design.gitlab.com/usability/feature-discovery) throughout the product.
 * Optimize for the potential future. We should be forward thinking without over optimizing. As features are developed and added, we can look into what changes may need to occur to support a growing feature.
 
 **Any proposal should include a business case with research that identifies the underlying problem and evaluates a navigation change against other potential solutions.** 
