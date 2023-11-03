@@ -7,8 +7,6 @@ enableRobotsTXT: true
 enableGitInfo: true
 
 googleAnalytics: G-41B5X0RBD8
-social:
-  twitter: GitLab
 
 sitemap:
   changefreq: monthly
@@ -17,6 +15,8 @@ sitemap:
 
 params:
   title: The GitLab Handbook
+  social:
+    twitter: GitLab
   defaultContentLanguage: en
   locale: en-US
   description: Learn more about GitLab and what makes us tick.
