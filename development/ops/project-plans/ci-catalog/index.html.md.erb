@@ -23,10 +23,11 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
 
 ### October to November (Milestone 16.6)
 
-#### 2023-11-02 Updates:
-- [#429273](https://gitlab.com/gitlab-org/gitlab/-/issues/429273), [#429256](https://gitlab.com/gitlab-org/gitlab/-/issues/429256), [#429117](https://gitlab.com/gitlab-org/gitlab/-/issues/429117), [#427928](https://gitlab.com/gitlab-org/gitlab/-/issues/427928), [#428443](https://gitlab.com/gitlab-org/gitlab/-/issues/428443) and [#429271](https://gitlab.com/gitlab-org/gitlab/-/issues/429271) were completed so far this week.
-- Discussed in weekly planning around direction for toggle.  The issue references can be found [here](https://gitlab.com/gitlab-org/gitlab/-/issues/416938#note_1630481328).
-- [https://gitlab.com/gitlab-org/gitlab/-/issues/430109](https://gitlab.com/gitlab-org/gitlab/-/issues/430109) will become SSOT for toggle behavior.
+#### 2023-11-03 Updates:
+- MR related to [Add global Catalog arguments to GraphQL](https://gitlab.com/gitlab-org/gitlab/-/issues/429103) is being merged today (2023-11-03) which allows FE to move forward to release MVC early next week.
+- Bug was uncovered in [Fix regexp to scan for component files](https://gitlab.com/gitlab-org/gitlab/-/issues/430344) during pairing session with Support.  Currently in `~workflow::in review`.
+  - Caused by the `regexp` being too [strict](https://gitlab.com/gitlab-org/gitlab/-/blob/4528abb157e1145f7ef63c5e3b95777dc35f1ce4/app/models/ci/catalog/components_project.rb#L12).
+- At the moment, there are not any concerns with the work that is currently open in the list and blockers are continuing to get completed to unblock other issues.
 
 #### Goals:
 - CI Catalog - Pages & Navigation 
@@ -41,10 +42,9 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [x] [Add a copy-to-clipboard button in the code snippet in the component tab](https://gitlab.com/gitlab-org/gitlab/-/issues/426755)
   - [x] [Empty state when there is no metadata for the components details](https://gitlab.com/gitlab-org/gitlab/-/issues/429273)
   - [ ] [Add global Catalog arguments to GraphQL](https://gitlab.com/gitlab-org/gitlab/-/issues/429103) `~workflow::in review`
-  - [ ] [Update Catalog policies](https://gitlab.com/gitlab-org/gitlab/-/issues/429102) `~workflow::in dev`
   - [ ] [Add Vue application for Global page](https://gitlab.com/gitlab-org/gitlab/-/issues/427939) `~workflow::in dev`
   - [ ] [Make ciCatalogResource accept a fullpath argument](https://gitlab.com/gitlab-org/gitlab/-/issues/429100) `~workflow::in dev`
-  - [ ] [Add components field to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/425726)
+  - [ ] [Add components field to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/425726) `~workflow::in dev`
   - [ ] [Add the new components tab](https://gitlab.com/gitlab-org/gitlab/-/issues/424967)
   - [ ] [FF rollout ci_catalog_components_tab](https://gitlab.com/gitlab-org/gitlab/-/issues/426443)
   - [ ] [Add namespace to scope for Catalog resources query](https://gitlab.com/gitlab-org/gitlab/-/issues/429382)
@@ -59,6 +59,7 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [x] [Add mutation to mark a catalog resource as draft](https://gitlab.com/gitlab-org/gitlab/-/issues/428439)
   - [x] [Add path column where to persist full path to component YAML file](https://gitlab.com/gitlab-org/gitlab/-/issues/429256)
   - [x] [Update the docs to reflect the recommended method for the release](https://gitlab.com/gitlab-org/gitlab/-/issues/429271)
+  - [ ] [Fix regexp to scan for component files](https://gitlab.com/gitlab-org/gitlab/-/issues/430344) `~workflow::in review`
   - [ ] [Update the releases logic in catalog resources to use the Version association](https://gitlab.com/gitlab-org/gitlab/-/issues/429707) `~workflow::in review`
   - [ ] [Scanning components on release and collect metadata](https://gitlab.com/gitlab-org/gitlab/-/issues/415413) `~workflow::in dev`
   - [ ] [Create a migration to update state and add metadata to existing catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/416292)
@@ -73,6 +74,7 @@ Global CI Catalog Epic: [https://gitlab.com/groups/gitlab-org/-/epics/11674](htt
   - [ ] [Fix breadcrumb to continue to project reference](https://gitlab.com/gitlab-org/gitlab/-/issues/421922)  
   - [ ] [Make Catalog resource ID become the fullpath of a resource](https://gitlab.com/gitlab-org/gitlab/-/issues/428949)
   - [ ] [Remove namespace catalog](https://gitlab.com/gitlab-org/gitlab/-/issues/429669)
+  - [ ] [Add version_tag argument to ciCatalogResource](https://gitlab.com/gitlab-org/gitlab/-/issues/429279)
 - CI Catalog - Search & Filter
   - [ ] [Update the CI Catalog index to only show published catalog resources](https://gitlab.com/gitlab-org/gitlab/-/issues/415414)
 - CI Catalog - Release Process refinements 
