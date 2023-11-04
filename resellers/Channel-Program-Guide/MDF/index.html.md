@@ -169,11 +169,12 @@ Once a claim is submitted MDF Program Owner receives an automated email.
 - CMM to remove any planned/forecasted costs in Allocadia accordingly.
 - CMM to ping the Channel Marketing Programs Manager (CMPM) and staff/DRI's in the main MDF epic to communicate the cancelation and close out the issue.
 
-### Channel Marketing Programs Manager Tasks
+#### Channel Marketing Programs Manager Tasks
 - The CMPM will comment regarding the cancelation in all open sub-issues and close out the issues. 
 - If applicable, CMPM to delete the Zip req and comment that the MDF has been canceled.
 - If applicable, CMPM to ping procurement and finance in the Coupa req to notify them that the MDF has been canceled.
 - Once all sub-issues are closed, the CMPM will also note the cancellation in the epic and close the epic.
+- The CMPM will change the MDF Request status in SFDC from `Approved` to `Cancelled` or `denied` (where applicable) if request has been submitted by the partner. By doing so the Partner will receive an automated email informing the Funds Request initially submitted has been cancelled or denied.
 - SFDC: CMPM to add `[CANCELED]` to the campaign name and select `Aborted` in the `Campaign Status` dropdown. Also, unlink the `Partner Account` and unsync to `Vartopia`.
 - Marketo: CMPM to delete Marketo program. 
 
