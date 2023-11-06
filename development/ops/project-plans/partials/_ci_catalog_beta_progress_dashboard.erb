@@ -1,0 +1,7 @@
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="250" src="<%= signed_periscope_url({ dashboard: 1174055, embed: 'v2', data_ts: Date.today.to_time.to_i }) %>">
+  </div>
+  <% else %>
+    <p>You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.</p>
+<% end %>
