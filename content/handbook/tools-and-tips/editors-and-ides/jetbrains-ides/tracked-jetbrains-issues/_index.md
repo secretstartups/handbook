@@ -70,8 +70,7 @@ Keep these sections sorted alphabetically. They are headers so that they can be 
 - Title: Cannot resolve attributes on ActiveRecord model which is not in standard location
 - Link: <https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location>
 - Notes:
-  - Requires `# noinspection SqlResolve`. It's just a guess that the non-standard model
-    location is the root cause.
+  - Requires `# noinspection SqlResolve` or sometimes maybe `# noinspection RubyResolve` (e.g. if it's indirectly accessed via Rspec).
   - UPDATE 2023-07-10: Got a response from JetBrains here: <https://youtrack.jetbrains.com/issue/RUBY-31542/Cannot-resolve-attributes-on-ActiveRecord-model-which-is-not-in-standard-location#focus=Comments-27-7813387.0-0> providing some information and requesting more info and follow-up
 
 ### RUBY-31543
