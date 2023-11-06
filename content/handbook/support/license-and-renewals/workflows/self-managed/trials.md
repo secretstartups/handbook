@@ -64,8 +64,8 @@ Account Executives (AEs) can use SalesForce.com (SFDC) to issue a self-managed 2
 
 An AE is expected to use the [SFDC process](#SFDC-generated-trial-license-extensions) first when a customer requires a self-managed license extension.  However, if an extension has elapsed then an AE can use the [Internal Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) named `Extend an (almost) expired subscription` to request a license extension directly from L&R support.  There are some caveats to this process which are listed below:
 
-- If the AE does not select this correct form and chooses another (e.g. the IR other), then the L&R Support engineer should redirect the AE to submit a new ticket, add the macro `Deviation from SM License Extension Workflow` and close the ticket.
-- If sales have first not utilised the new SFDC process we can direct them there, add the `Deviation from SM License Extension Workflow` and close the ticket.
+- If the AE selects a different form (e.g. the IR `other`), then the L&R Support engineer should redirect the AE to submit a new ticket, add the macro `Deviation from SM License Extension Workflow` and close the ticket.
+- If the AE has not first utilized the SFDC process, then the L&R Support engineer should direct them there, add the `Deviation from SM License Extension Workflow` and close the ticket.
 
 
 #### Customer requests for temporary license extension
