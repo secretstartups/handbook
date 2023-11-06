@@ -8,9 +8,9 @@ On this page, we will give an overview of how GitLab operates as a no matrix
 organization.
 
 "No matrix organization" means that everyone reports to exactly one person. At
-GitLab we have a simple functional management hierarchy, that makes it easier to
-focus on building a great product. Technical leadership at GitLab, is leadership
-without authority, based on collaboration and coaching.
+GitLab we have a simple functional management hierarchy. Technical leadership at
+GitLab is leadership without a formal reporting line, based on project roles and
+experience.
 
 ## No matrix organization overview
 
