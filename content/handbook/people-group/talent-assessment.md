@@ -319,7 +319,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - Talent Assessment Training (UPßDATE IN PROGRESS)
+    - Talent Assessment Training (UPDATE IN PROGRESS)
     - [Values competencies](/handbook/competencies/#values-competencies)
     - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
     - [Functional competencies](/handbook/competencies/#functional-competencies) *(if applicable)*
