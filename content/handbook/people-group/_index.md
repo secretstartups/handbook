@@ -273,7 +273,7 @@ If you need assistance reviewing your CultureAmp Survey, please complete this [i
 
 - [Learning & Development]({{< ref "learning-and-development" >}})
 - [Guidance on Feedback]({{< ref "guidance-on-feedback" >}})
-- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening" >}})
+- [Active Listening]({{< ref "/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources#demonstrating-active-listening" >}})
 
 ### Diversity, Inclusion and Belonging
 
