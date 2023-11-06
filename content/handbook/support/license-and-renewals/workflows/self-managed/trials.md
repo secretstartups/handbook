@@ -54,3 +54,23 @@ Users should initiate a request on their own by clicking on the following link: 
 ### Emergency Weekend Licenses
 
 If you're on call and you need a license generated, but don't have access to the CustomersDot interface, follow the [Weekend Emergencies - License Request](/handbook/support/license-and-renewals/workflows/self-managed/license_for_weekend_emergencies.html) workflow.
+
+### SFDC generated trial license extensions
+
+Account Executives (AEs) can now use SalesForce.com (SFDC) to issue a self-managed 21 day trial license to a customer if the customer encounters a situation where the associated renewal or sales app opportunity is taking longer than expected to close. Whenever a AE uses this functionality, the license code is automatically generated and sent to the customer without any L&R support involvement, the following handbook entry [Temporary renewal extensions](https://about.gitlab.com/handbook/product/fulfillment-guide/#temporary-renewal-extensions) documents this approach. However as part of the guardrails, the generation of a temporary license using this approach can only be performed once, therefore on occasions L&R support will still be required to generate further license extensions. 
+
+
+#### Sales AE requests for a manual temporary extension
+
+AE should always use the above documented SFDC process first whenever a customer requires a self-managed temporary trail extension.  However, if a trial extension has elapsed then AE’s can continue to use the existing [Internal Form](https://gitlab-com.gitlab.io/support/internal-requests-form/) named `Extend an (almost) expired subscription` to request a second trial extension directly from L&R support.  There are some caveats to this process which are listed below:
+
+- If the AE does not select this correct form and chooses another (e.g. the IR other), then the L&R Support engineer should redirect the AE to submit a new ticket, add the macro `Deviation from SM License Extension Workflow` and close the ticket.
+- If sales have first not utilised the new SFDC process we can direct them there, add the `Deviation from SM License Extension Workflow` and close the ticket.
+
+
+#### Customer requests for temporary license extension
+
+For tracking customer requests for a temporary extension, it becomes a manual process relying on either the customer to select the right problem type or the SE to review the problem type and fix it if it's wrong. Therefore if a customer contacts us requesting a temporary extension then we can add the macro `Customer Request for SM License Extension` to redirect the customer to their AE.  In this scenario, you should modify the macro to provide the customer with their sales AE’s email address.
+
+This macro will automatically add the tag `lnr_sm_extension_customer_request` to track these instances.
+
