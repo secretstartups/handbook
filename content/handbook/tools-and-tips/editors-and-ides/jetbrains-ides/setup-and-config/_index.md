@@ -103,9 +103,9 @@ This is the current description of that issue:
 > This feature may be implemented along with making profiles for Settings Sync.
 
 On the [`#jetbrains-ide-users` internal Slack channel for GitLab team members](https://gitlab.slack.com/archives/CR08PTQ6T), JetBrains has indicated that:
-_"one of the possible solutions should be implemented in the scope of [Toolbox Enterprise](https://www.jetbrains.com/toolbox-enterprise/), but AFAIK, there is no ETA for now"_
+*"one of the possible solutions should be implemented in the scope of [Toolbox Enterprise](https://www.jetbrains.com/toolbox-enterprise/), but AFAIK, there is no ETA for now"*
 
-_However, if you are only wanting to sync your own settings to a remote git repo and not necessarily share them, that's still possible._
+*However, if you are only wanting to sync your own settings to a remote git repo and not necessarily share them, that's still possible.*
 
 Since the deprecation of the Settings Repository plugin (and the fact that it seems to have some bugs they aren't planning to fix),
 the [Settings Sync feature](https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync) seems to be the choice to do this,
@@ -228,7 +228,7 @@ Each of these have their tradeoffs, see the following sections for details.
 #### JetBrains-supported option 1: Settings Sync
 
 NOTE: With the deprecation of Settings Repository, this is the only option supported by
-JetBrains which allows you to store your settings in a git repo (see [`UPDATE 2023-11`](#update-2023-11) note above). 
+JetBrains which allows you to store your settings in a git repo (see [`UPDATE 2023-11`](#update-2023-11) note above).
 
 This approach is described here: <https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync>
 
@@ -250,7 +250,7 @@ manage that manually as described above.
 #### JetBrains-supported option 2: Settings Repository
 
 NOTE: This option is now deprecated and unsupported by JetBrains (see [`UPDATE 2023-11`](#update-2023-11) note above).
-You should use the Settings Sync option above as it is supported. 
+You should use the Settings Sync option above as it is supported.
 
 This involves syncing your IDE-level (not-project level) config to a git repo.
 
