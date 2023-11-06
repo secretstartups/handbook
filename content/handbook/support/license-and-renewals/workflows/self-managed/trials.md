@@ -68,9 +68,9 @@ An AE is expected to use the [SFDC process](#SFDC-generated-trial-license-extens
 - If the AE has not first utilized the SFDC process, then the L&R Support engineer should direct them there, add the `Deviation from SM License Extension Workflow` and close the ticket.
 
 
-#### Customer requests for temporary license extension
+#### Customer requests for a license extension
 
-For tracking customer requests for a temporary extension, it becomes a manual process relying on either the customer to select the right problem type or the SE to review the problem type and fix it if it's wrong. Therefore if a customer contacts us requesting a temporary extension then we can add the macro `Customer Request for SM License Extension` to redirect the customer to their AE.  In this scenario, you should modify the macro to provide the customer with their sales AE’s email address.
+For tracking customer requests for a license extension, we rely on the SE to review the problem type and fix it if it's wrong. When a customer submits a ticket requesting a license extension, we should apply the macro `Customer Request for SM License Extension` to redirect the customer to their AE.  In this scenario, we need to modify the template text to provide the customer with their AE’s email address.
 
 This macro will automatically add the tag `lnr_sm_extension_customer_request` to track these instances.
 
