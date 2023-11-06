@@ -57,7 +57,7 @@ If you're on call and you need a license generated, but don't have access to the
 
 ### SFDC generated trial license extensions
 
-Account Executives (AEs) can now use SalesForce.com (SFDC) to issue a self-managed 21 day trial license to a customer if the customer encounters a situation where the associated renewal or sales app opportunity is taking longer than expected to close. Whenever a AE uses this functionality, the license code is automatically generated and sent to the customer without any L&R support involvement, the following handbook entry [Temporary renewal extensions](https://about.gitlab.com/handbook/product/fulfillment-guide/#temporary-renewal-extensions) documents this approach. However as part of the guardrails, the generation of a temporary license using this approach can only be performed once, therefore on occasions L&R support will still be required to generate further license extensions.
+Account Executives (AEs) can use SalesForce.com (SFDC) to issue a self-managed 21-day license extension to a customer when the renewal opportunity is taking longer than expected to close. When an AE uses this functionality, the license code is automatically generated and sent to the customer without any L&R Support involvement. The [Temporary renewal extensions](https://about.gitlab.com/handbook/product/fulfillment-guide/#temporary-renewal-extensions) handbook entry documents this approach. Note that there are guardrails in place to prevent abuse of this ability, and that as a result only one license extension can be generated per renewal event. Therefore on occasions L&R Support will still be required to generate further license extensions.
 
 
 #### Sales AE requests for a manual temporary extension
