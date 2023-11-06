@@ -447,8 +447,7 @@ Backfill Positions include all positions created due to departure or termination
       - FBPs brief Corporate and request new/remove PID if applicable
       - Upon final decision, FBPs enter details into Adaptive and update Hiring Plan
 1. Requisition Release
-   - Today: backfill process is ad-hoc and TA receives information from business and/or finance
-   - Future state: Upon a resignation, Hiring Managers (HMs) submit official notice to Workday (WD)
+   - Upon a resignation, Hiring Managers (HMs) submit official notice to Workday (WD)
       - WD backfill notification will send to both TA and FBPs
       - WD backfill notification will allow Recruiter to create a backfill issue
       - All final decisions and details of the role(s) will be documented in the backfill issue
