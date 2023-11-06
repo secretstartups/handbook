@@ -30,7 +30,7 @@ description: "Reference for how Salesforce is implemented."
 
 ### Implementation
 
-Salesforce consists of several modules and installed [packages](/handbook/sales/field-operations/sales-systems/salesforce-config/#installed-packages).
+Salesforce consists of several modules and installed [packages](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/salesforce-config/#installed-packages).
 
 ### System Diagrams
 
@@ -48,9 +48,9 @@ Zuora Data to [Salesforce](#salesforce-sales-cloud) via [Zuora CPQ](#zuora-cpq)
 
 #### Go-To-Market Production SaaS Environments
 
-![Go-To-Market Production SaaS Environments](/handbook/sales/images/gtm-production.png)
+![Go-To-Market Production SaaS Environments](https://about.gitlab.com/handbook/sales/images/gtm-production.png)
 
-[Go-To-Market Integrated Environments](/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
+[Go-To-Market Integrated Environments](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
 
 ### Key Reports / Dashboards
 

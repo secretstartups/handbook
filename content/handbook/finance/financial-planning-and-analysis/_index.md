@@ -352,7 +352,7 @@ Financial Planning & Analysis (FP&A) team is the owner of SSOT for GitLab’s **
 - Hiring Plan is maintained by the Finance Business Partners (FBPs) and shared with Talent Acquisition (TA) team and Business Partners (BPs)
 - Finance owns the Hiring Plan to ensure there is only one Headcount Forecast and Hiring Plan for the business
 - Hiring Plan increases our predictability as a company and streamlines the hiring process
-- For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/)
+- For questions specific to TA’s process and REQ creation, please refer to [TA’s section of the handbook](/handbook/hiring/talent-acquisition-framework/req-creation/)
 
 ### Position ID (PID)
 
@@ -363,7 +363,7 @@ Position ID is a unique identifier and is the link between approved headcount an
    - Only Planned and Backfill positions are included in the Hiring Plan
 - All positions in the Hiring Plan are approved through:
    - Annual Operating Plan (AOP) cycle (beginning of each fiscal year)
-   - [RLoA](https://handbook.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
+   - [RLoA](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa) cycle for any incremental roles through the year
    - Backfill due to attrition in the business
 - Positions may be updated/changed during weekly interlock process (e.g. reallocated to different team, changed for different Role level)
 - Each position is assigned with an unique identifier called Position ID (PID)
@@ -371,10 +371,10 @@ Position ID is a unique identifier and is the link between approved headcount an
    - PID simplifies and provides transparency on modeled headcount (attrition and backfill)
    - PID is an unique identifier for positions assigned to all current and future approved headcount
 - PIDs are created and assigned by Corporate FP&A (Corporate) when Hiring Plan is finalized or upon change request of existing position(s)
-   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
+   - All approved Planned and Backfill positions are assigned with an GHPID (please refer to [TA’s section on GHPID](/handbook/hiring/talent-acquisition-framework/req-creation/))
    - Not all positions are assigned with GHPIDs
    - Key difference between GHPID and PID
-      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](https://handbook.gitlab.com/handbook/hiring/talent-acquisition-framework/req-creation/))
+      - GHPID has 1-to-1 relationship with an Opening ID in Greenhouse (please refer to [TA section on Opening](/handbook/hiring/talent-acquisition-framework/req-creation/))
       - PID has 1-to-1 relationship with an approval headcount
       - Each PID has 1-to-1 relationship with a GHPID at any given time
       - **Illustrative example:** Employee **A** departs and business decides to backfill the same role
@@ -507,7 +507,7 @@ FP&A team is the owner and maintainer of SSOT for GitLab’s Hiring Plan
 
 #### Purpose
 
-The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
+The FP&A team and Talent Acquisition Managers collaborate to ensure understanding and implementation of the most up-to-date view of forecasted headcount-related expenses. This interlock enables GitLab to respond quickly and make live decisions through a weekly P&L forecast and the [rolling list of asks (RLOA) process](/handbook/finance/financial-planning-and-analysis/#rolling-list-of-asks-rloa). This process also ensures alignment and accuracy of headcount forecasts when FP&A locks its annual plan and monthly rolling forecasts. This process also tracks company metrics against Wall Street expectations related to non-GAAP operating income and non-GAAP earnings per share. Please see the [Headcount Metrics and Processes page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/tree/master/-/sites/handbook/source/handbook/finance/financial-planning-and-analysis/headcount-metrics-and-processes/) for definitions and key metrics.
 
 #### Headocunt Live Dashboards
 
