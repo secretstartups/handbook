@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/sales/**/*.md",
     "content/handbook/business-technology/**/*.md",
     "content/handbook/product-development-flow/**/*.md",
     "content/handbook/product-development-budgeting/**/*.md",
