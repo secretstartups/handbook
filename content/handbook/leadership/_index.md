@@ -16,13 +16,13 @@ In an all-remote organization, we want each team member to be a [manager of one]
 1. Behavior should be consistent inside and outside the company. We do the right thing outside the company, too.
 1. GitLab respects your judgment of what is best for you, since you know yourself best. If you have a better opportunity somewhere else don't stay at GitLab out of a sense of loyalty to the company.
 1. In tough times people will put in their best effort when they are doing it for each other.
-1. We work [asynchronously](https://about.gitlab.comhttps://about.gitlab.com/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](https://about.gitlab.comhttps://about.gitlab.com/company/culture/all-remote/self-service/#paying-it-forward). Hold your team accountable with documentation.
+1. We work [asynchronously](/handbook/company/culture/all-remote/management/#asynchronous). Lead by example and make sure people understand that [things need to be written down in issues as they happen](/handbook/company/culture/all-remote/self-service/#paying-it-forward). Hold your team accountable with documentation.
 1. We are not a democratic or consensus driven company. People are encouraged to give their comments and opinions, but in the end [one person decides](/handbook/people-group/directly-responsible-individuals/) the matter after they have listened to all the feedback.
 1. It is encouraged to disagree and have constructive debates but please [argue intelligently](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/).
 1. We value truth seeking over cohesion.
-1. We avoid [meetings](https://about.gitlab.comhttps://about.gitlab.com/company/culture/all-remote/meetings/), when possible, because they don't support the asynchronous work flow and are hard to conduct due to timezone differences.
+1. We avoid [meetings](/handbook/company/culture/all-remote/meetings/), when possible, because they don't support the asynchronous work flow and are hard to conduct due to timezone differences.
 1. Start meetings on time, be on time yourself, don't ask if everyone is there, and don't punish people that have shown up on time by waiting for people or repeating things for those that come late. When a meeting unblocks a process or decision, don't celebrate that but instead address the question: How can we unblock in the future without needing a meeting?
-1. Be intentional in how you prepare for and participate in meetings. Async communication works best when folks [review their calendars and prepare in advance of meetings](https://about.gitlab.com/culture/all-remote/meetings/#how-can-i-prepare-for-a-remote-meeting).
+1. Be intentional in how you prepare for and participate in meetings. Async communication works best when folks [review their calendars and prepare in advance of meetings](/handbook/company/culture/all-remote/meetings/#how-can-i-prepare-for-a-remote-meeting).
 1. We give [feedback](/handbook/company/culture/all-remote/effective-communication/#feedback-is-a-gift), lots of it. Don't hold back on suggestions for improvements, this helps us grow. Take pride in helping others through feedback.
 1. [Focus on improvement]({{< ref "values#focus-on-improvement" >}}). If you meet external people, always ask what they think we should improve.
 1. Following from [Paul Graham's advice](https://twitter.com/paulg/status/802102152319606784): Strive to make the organization simpler.
@@ -52,7 +52,7 @@ In the [CEO Handbook Learning Session](/handbook/people-group/learning-and-devel
 
 ## Interim and Acting Leadership
 
-In some cases, a individual in the [Management group](/handbook/company/team/structure#management-group), [Director group]({{< ref "structure#director-group" >}}), [S-group]({{< ref "structure#s-group" >}}), or even [E-group]({{< ref "structure#e-group" >}}) may have an "Interim" or "Acting" title.
+In some cases, a individual in the [Management group](/handbook/company/structure#management-group), [Director group]({{< ref "structure#director-group" >}}), [S-group]({{< ref "structure#s-group" >}}), or even [E-group]({{< ref "structure#e-group" >}}) may have an "Interim" or "Acting" title.
 
 1. **Acting** means that someone is occupying this role temporarily and will move back to their original role after a set amount of time or other conditions, such as an external hire.
 1. **Interim** means the individual is working on a promotion into the role.
