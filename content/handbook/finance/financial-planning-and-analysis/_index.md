@@ -386,7 +386,7 @@ The FP&A team and Talent Acquisition Managers collaborate to ensure understandin
 
 #### Headocunt Live Dashboards
 
-The Hiring Plan (Planned Headcount) data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
+The Hiring Plan data is divided into four headcount forecast templates, one for each cost center with Cost of Goods Sold allocated among Sales and R&D. The data and analysis from the four templates roll into the Summary file. The four templates can be found in the [Headcount Live Summary Dashboard](https://docs.google.com/spreadsheets/d/1LmMiPMeBu2jW6APZ1SDNOk1OgLN6pyB01TrEVza40us/edit#gid=1019520422).
 
 #### Cadence / Process
 
