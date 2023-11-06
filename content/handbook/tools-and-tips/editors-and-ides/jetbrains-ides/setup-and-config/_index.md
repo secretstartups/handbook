@@ -90,6 +90,29 @@ If you have the memory to spare on your workstation, it will help your performac
 
 ## Configuration
 
+### UPDATE 2023-11
+
+With the deprecation of the Settings Repository feature, JetBrains has acknowledged that
+[there is currently no supported, non-deprecated way to share settings among team mambers](https://youtrack.jetbrains.com/issue/IDEA-309002).
+This is the current description of that issue:
+
+> The new Settings Sync works with the JetBrains account; it makes this solution inappropriate for team settings sharing when it's necessary to share only certain settings (code style, color schemes, etc) between team members (they have their own JB Accounts).
+>
+> We already have the Settings Repository plugin, but it can be used only with third-party sources, and we don't maintain this plugin for now.
+> The import/export settings feature is not automated enough.
+> This feature may be implemented along with making profiles for Settings Sync.
+
+On the [`#jetbrains-ide-users` internal Slack channel for GitLab team members](https://gitlab.slack.com/archives/CR08PTQ6T), JetBrains has indicated that:
+_"one of the possible solutions should be implemented in the scope of [Toolbox Enterprise](https://www.jetbrains.com/toolbox-enterprise/), but AFAIK, there is no ETA for now"_
+
+_However, if you are only wanting to sync your own settings to a remote git repo and not necessarily share them, that's still possible._
+
+Since the deprecation of the Settings Repository plugin (and the fact that it seems to have some bugs they aren't planning to fix),
+the [Settings Sync feature](https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync) seems to be the choice to do this,
+which is listed below as "JetBrains-supported option 1: Settings Sync"
+
+TODO: So, all of the sections below could use a reorg and rewrite in light of this new information.
+
 ### TL;DR
 
 If you want to get your JetBrains (RubyMine) configured to work (and specifically
@@ -197,20 +220,37 @@ described on the following page (using RubyMine as an example):
 <https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html>
 
 1. Settings Sync
-1. Settings Repository
+1. Settings Repository (DEPRECATED)
 1. Settings Export/Import
 
 Each of these have their tradeoffs, see the following sections for details.
 
 #### JetBrains-supported option 1: Settings Sync
 
+NOTE: With the deprecation of Settings Repository, this is the only option supported by
+JetBrains which allows you to store your settings in a git repo (see [`UPDATE 2023-11`](#update-2023-11) note above). 
+
 This approach is described here: <https://www.jetbrains.com/help/ruby/sharing-your-ide-settings.html#IDE_settings_sync>
 
-The main downside of this approach is that since this is done through your JetBrains account,
+~~The main downside of this approach is that since this is done through your JetBrains account,
 there appears to be no way to share with other team members. So, you'll have to one of the other
-approaches if you want to share your settings with someone else, or have them share theirs with you.
+approaches if you want to share your settings with someone else, or have them share theirs with you.~~
+
+Update: As of RubyMine 2022.3, this (like the Settings Repository) also stores the config in a local git repo on disk
+in the [IDE Configuration Directory](https://www.jetbrains.com/help/idea/directories-used-by-the-ide-to-store-settings-caches-plugins-and-logs.html#config-directory), which on MacOS is at:
+`/Users/cwoolley/Library/Application Support/JetBrains/<product><version>/settingsSync`.
+
+You can also manually manage pushing the repo to a remote, if you want to back it up outside your machine,
+or let other team members view/copy individual config files.
+
+Note that the downside of this is that is still only manages IDE-level config, not Project-level
+config in the `.idea` folder of the project. If you want to back up your `.idea` folder too, you'll have to
+manage that manually as described above.
 
 #### JetBrains-supported option 2: Settings Repository
+
+NOTE: This option is now deprecated and unsupported by JetBrains (see [`UPDATE 2023-11`](#update-2023-11) note above).
+You should use the Settings Sync option above as it is supported. 
 
 This involves syncing your IDE-level (not-project level) config to a git repo.
 
