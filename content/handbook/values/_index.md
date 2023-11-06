@@ -1019,23 +1019,23 @@ We demonstrate iteration when we do the smallest viable and valuable thing, get 
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a Staff/Manager level, a Sr. Manager practices and fosters the value of iteration to team members. They hold their team members accountable for iteration and boring solutions.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a Staff/Manager level, a Principal/Sr. Manager practices and fosters the value of iteration to team members. They hold their team members accountable for iteration and boring solutions.</td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a Sr. Manager, a Director proactively finds ways to drive the value of iteration and boring solutions.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a Principal/Sr. Manager, a Distinguished/Director proactively finds ways to drive the value of iteration and boring solutions.</td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a  Director , a Sr. Director embeds the value of Iteration across the department and division.  They use their cognitive and analytical abilities to anticipate and adapt to unpredictabilities in regard to strategic risk in a way that benefits all involved.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a  Distinguished/Director , a Sr. Distinguished/Sr. Director embeds the value of Iteration across the department and division.  They use their cognitive and analytical abilities to anticipate and adapt to unpredictabilities in regard to strategic risk in a way that benefits all involved.</td>
   </tr>
   <tr>
     <td class="tg-0lax">12</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a Sr. Director , a VP leads the way for the value of Iteration across the division and cross functional teams. They confidently lead their teams through change and proactively take risks based on values and the strategic vision.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a Sr. Distinguished/Sr. Director , a Fellow/VP leads the way for the value of Iteration across the division and cross functional teams. They confidently lead their teams through change and proactively take risks based on values and the strategic vision.</td>
   </tr>
   <tr>
     <td class="tg-0lax">EVP/CXO</td>
-    <td class="tg-0lax">In addition to upholding the requirements of a VP,  the EVP champions the value of Iteration across GitLab. They are comfortable leading through discomfort and the unease associated with change and innovation.</td>
+    <td class="tg-0lax">In addition to upholding the requirements of a Fellow/VP,  the EVP champions the value of Iteration across GitLab. They are comfortable leading through discomfort and the unease associated with change and innovation.</td>
   </tr>
 </table>
 
