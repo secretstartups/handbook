@@ -23,6 +23,7 @@ We communicate respectfully and professionally at all times.
 1. **Do not underestimate a 1:1.** Asynchronous communication (e.g., via text) is helpful and necessary. In some cases (e.g., to clarify misunderstandings) it can be much more effective to jump on a Zoom video call.
 1. **Always Adhere to our [Anti-Harassment Policy](/handbook/anti-harassment/) and [GitLab Code of Business Conduct and Ethics](https://ir.gitlab.com/static-files/7d8c7eb3-cb17-4d68-a607-1b7a1fa1c95d).** Everyone should be comfortable in their work environment.
 1. **Focus on what we can directly influence.** There are many factors we can't directly influence and we should avoid spending time discussing those things. For example, we don't talk about our [market capitalization](/handbook/being-a-public-company/#market-capitalization) because aspects of this are out of our control. Instead, we should focus on our KPIs and growing [annual recurring revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
+1. **Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening)**.
 
 Embracing asynchronous communication and learning to use it effectively requires a mental shift. This can feel unusual or even uncomfortable for those who come from a colocated environment, where in-person meetings and communiques are the norm. Learn more about [mastering the use of the written word in an all-remote setting](/handbook/company/culture/all-remote/effective-communication/).
 
@@ -44,10 +45,6 @@ Escalate to management if you are not getting the support you need. Remember tha
 ### Top misused terms
 
 Please see our [Top misused terms page](/handbook/communication/top-misused-terms/).
-
-### Effective Listening
-
-Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening).
 
 ## Communicating Potentially GitLab Sensitive Topics
 
