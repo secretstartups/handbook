@@ -48,7 +48,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     - **Related To** - Search for and set this to the Salesforce `Opportunity` associated with the activity.
     - **Name**  - Please search for and populate the `Name` field with a prospect/customer contact existing in Salesforce that was part of the activity.   <i>`Name` is currently a single select field. Choose any contact that was part of the meeting, if possible. In the future, we may have the ability to select multiple contacts.</i>
     - **Subject**  - High-level description of the activity. Usually, the subject of the calendar event for this activity is appropriate.
-    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction  (ie. Demo, POV Related, Presentation/Pitch). For description of each activity type, refer to [this page](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc). 
+    - **[SA] Activity Type** - Choose the type(s) of activity for this customer/prospect interaction  (ie. Demo, POV Related, Presentation/Pitch). For description of each activity type, refer to [this page](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc). 
     - **Persona Levels** (Optional if unknown) - Select the customer/prospect participants' levels in this activity. Current options include: `Individual Contributor, Manager/Director, Executive` _Note: Executive should be used for any VP, C-level or the Economic Buyer_
     - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
@@ -56,7 +56,7 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
 
 #### Activity type description
 
-All activities should fall into one of the categories described in the [activity type descriptions](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc)
+All activities should fall into one of the categories described in the [activity type descriptions](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc)
 
 #### Example Activity Description
 
@@ -116,7 +116,7 @@ In case that the opportunity has been closed in Salesforce, and you did not have
 
 ### Proof of Value (POV) Updates
 
-Proof of Values are [tracked in salesforce](/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
+Proof of Values are [tracked in salesforce](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/#tracking-a-pov-in-salesforce) but can be created or updated through Troops by:
 
 - **Create POV**: Clicking on the `Add a Proof of Value` button
     - on the Troops `You just had a meeting` notification in slack
@@ -175,8 +175,8 @@ This [tutorial](https://www.youtube.com/watch?v=BhkaI-Sl4nc) explains how to set
 
 Email communication with customers can be recorded in Salesforce within the account's activity history. There are two options to track this activity:
 
-1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
-2. Or, download the [Salesforce Chrome plugin](/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
+1. BCC your "email to Salesforce address". Instructions to obtain this address are found on this [page](https://about.gitlab.com/handbook/customer-success/using-salesforce-within-customer-success/#tracking-emails-within-salesforce).
+2. Or, download the [Salesforce Chrome plugin](https://about.gitlab.com/handbook/sales/prospect-engagement-best-practices) to easily log customer-related emails.
 
 Email communication that is collected and stored in Salesforce is not measured or reported on at this time. It can be useful to collect for sharing information with the broader sales team.
 

@@ -15,7 +15,7 @@ description: "Content calendar for Solutions Architects."
 
 The purpose of this effort is to consistently create content that:
 
-- Helps customers be successful in an [async](https://about.gitlab.com/company/culture/all-remote/asynchronous/) manner
+- Helps customers be successful in an [async](/handbook/company/culture/all-remote/asynchronous/) manner
 - Supports our GTM efforts by scaling the solutions architecture knowledge and reach
 - Builds thought leadership across the solutions architecture community
 - Enables solutions architects to spend more time having meaningful conversations with customers
@@ -56,17 +56,17 @@ Here is a list of example posts and videos to serve as an inspiration for gettin
 | Publish Date | Author                                                                                       | Topic                                                                                                                                         | Content Type |
 |--------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 2022-01-27   | [Sarah Bailey](https://gitlab.com/sbailey1)                                                  | [All About The Merge Request](https://www.youtube.com/watch?v=eTIVgyknA9w )                                                                   | Video        |
-| 2022-08-02   | [Madou Coulibaly](https://gitlab.com/madou) and [Joe Randazzo](https://gitlab.com/jrandazzo) | [How to provision dynamic review environments using merge requests and Argo CD](/blog/2022/08/02/how-to-provision-reviewops/)                 | Blog         |
+| 2022-08-02   | [Madou Coulibaly](https://gitlab.com/madou) and [Joe Randazzo](https://gitlab.com/jrandazzo) | [How to provision dynamic review environments using merge requests and Argo CD](https://about.gitlab.com/blog/2022/08/02/how-to-provision-reviewops/)                 | Blog         |
 | 2022-09-23   | [Joe Randazzo](https://gitlab.com/jrandazzo)                                                 | [CI/CD Modernization with GitLab]( https://www.youtube.com/watch?v=QGAaif8lY0A&ab_channel=GitLabUnfiltered )                                  | Video        |
-| 2022-10-06   | [Jeremy Wagner]( https://gitlab.com/jeremywagner )                                           | [How to automate testing for a React application with GitLab](/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)  | Blog         |
-| 2023-01-03   | [Joe Randazzo](https://gitlab.com/jrandazzo) and [Noah Ing](https://gitlab.com/noah)         | [Keeping Your Development DRY](/blog/2023/01/03/keeping-your-development-dry/)                                                                | Blog         |
+| 2022-10-06   | [Jeremy Wagner]( https://gitlab.com/jeremywagner )                                           | [How to automate testing for a React application with GitLab](https://about.gitlab.com/blog/2022/11/01/how-to-automate-testing-for-a-react-application-with-gitlab/)  | Blog         |
+| 2023-01-03   | [Joe Randazzo](https://gitlab.com/jrandazzo) and [Noah Ing](https://gitlab.com/noah)         | [Keeping Your Development DRY](https://about.gitlab.com/blog/2023/01/03/keeping-your-development-dry/)                                                                | Blog         |
 | 2023-01-09   | [Julie Byrne](https://gitlab.com/juliebyrne)                                                 | [Migrating from Self-Managed to SaaS](https://youtu.be/L11mZqQKuwo)                                                                           | Video        |
 | 2023-02-06   | [Siddharth Mathur](https://gitlab.com/smathur)                                               | [Setting Up OIDC to Get Credentials from Google Cloud](https://www.youtube.com/watch?v=Psfy3dIa6w8&list=PL05JrBw4t0KrjbWGBOq710-WAUpQTVial)   | Video        |
-| 2023-03-01   | [Jeremy Wagner](https://gitlab.com/jeremywagner)                                             | [How to Deploy React to Amazon S3](/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/)                                                        | Blog         |
+| 2023-03-01   | [Jeremy Wagner](https://gitlab.com/jeremywagner)                                             | [How to Deploy React to Amazon S3](https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/)                                                        | Blog         |
 | 2023-03-06   | [Siddharth Mathur](https://gitlab.com/smathur)                                               | [Automating Deployments to ECS with GitLab CI/CD](https://youtu.be/Grc_5v4rOFI)                                                               | Video        |
-| 2023-03-13   | [Noah Ing](https://gitlab.com/noah) and [Sam Morris](https://gitlab.com/sam)                 | [Actioning Security Vulnerabilities in GitLab Premium](/blog/2023/03/13/actioning-security-vulnerabilities-in-gitlab-premium/)                | Blog         |
-| 2023-03-15   | [Julie Byrne](https://gitlab.com/juliebyrne)                                                 | [Getting Started with GitLab Application Security](/blog/2023/03/15/getting-started-with-gitlab-application-security/)                        | Blog         |
-| 2023-03-21   | [Siddharth Mathur](https://gitlab.com/smathur)                                               | [How to automate a Twitter bot using GitLab CI/CD](/blog/2023/03/21/automating-a-twitter-bot-using-gitlab-cicd/)                              | Blog         |
+| 2023-03-13   | [Noah Ing](https://gitlab.com/noah) and [Sam Morris](https://gitlab.com/sam)                 | [Actioning Security Vulnerabilities in GitLab Premium](https://about.gitlab.com/blog/2023/03/13/actioning-security-vulnerabilities-in-gitlab-premium/)                | Blog         |
+| 2023-03-15   | [Julie Byrne](https://gitlab.com/juliebyrne)                                                 | [Getting Started with GitLab Application Security](https://about.gitlab.com/blog/2023/03/15/getting-started-with-gitlab-application-security/)                        | Blog         |
+| 2023-03-21   | [Siddharth Mathur](https://gitlab.com/smathur)                                               | [How to automate a Twitter bot using GitLab CI/CD](https://about.gitlab.com/blog/2023/03/21/automating-a-twitter-bot-using-gitlab-cicd/)                              | Blog         |
 
 ## DRI rotation
 
@@ -78,7 +78,7 @@ FY24 Q3 DRI: Open to volunteers
 
 ## How to contribute
 
-[Everyone can contribute](https://about.gitlab.com/company/mission/#background). This effort was started to combine multiple initiatives to get content to help customers. Have an idea? Submit an MR and improve the process.
+[Everyone can contribute](/handbook/company/mission/#background). This effort was started to combine multiple initiatives to get content to help customers. Have an idea? Submit an MR and improve the process.
 
 Some easy ways to contribute to this effort are:
 

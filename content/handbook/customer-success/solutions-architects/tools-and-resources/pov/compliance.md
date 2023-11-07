@@ -44,9 +44,9 @@ If this is the key scope for the POV, reach out to the strategic field team to r
 
 SA working with SAE and AE can define the POV scope with the customer, with alignment to the business values and the GitLab solution. For each solution, the typical scope and acceptances are listed for reference but the team should define the scope, time and execution with acceptance for each engagement.
 
-- [DevSecOps](/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
-- [Automated Software Delivery](/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
-- [DevOps Platform cumulatively](/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
+- [DevSecOps](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/devsecops/)
+- [Automated Software Delivery](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/automation/)
+- [DevOps Platform cumulatively](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/platform/)
 
 
 

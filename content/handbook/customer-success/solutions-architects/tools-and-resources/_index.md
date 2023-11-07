@@ -18,11 +18,11 @@ Tools and resources provide infomation to help Solution Architects to conduct PO
 
 ### Education and Enablement
 
-As a Solutions Architect, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+As a Solutions Architect, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](https://about.gitlab.com/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ### Proof of Value (POV) Guidelines
 
-Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/pov/) page.
+Proof of Value (POV), formerly known as Proof of Concept, is conducted during the Technical Evaluation stage with Solutions Architects by  prospects or existing customers to assess the required capabilities based on a set of criteria and value drivers. A POV is a collaboration between GitLab and the prospective or existing customer for evaluating GitLab. Information on the POV guidelines, POV types and process can be found on the [Proof of Value (POV) Guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) page.
 
 ### SaaS Trials for Existing Customers
 
@@ -33,17 +33,17 @@ Paid customers must set up a new namespace on SaaS when trialing Ultimate.  Ther
 
 Both situations put customer production GitLab usage at risk if a trial is applied to the SaaS namespace.
 
-Instead, a customer should create a new namespace and trial there.  We have put together some [rial guidelines](/handbook/customer-success/solutions-architects/tools-and-resources/trial-guidelines/) in order to make the process as seamless as possible for customers.
+Instead, a customer should create a new namespace and trial there.  We have put together some [rial guidelines](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/trial-guidelines/) in order to make the process as seamless as possible for customers.
 
 
 
 ### Hands-on Workshops
 
-GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](/handbook/customer-success/solutions-architects/tools-and-resources/workshop/) page.
+GitLab Solutions Architects conduct hands-on workshops as interactive events for GitLab prospects and customers to learn the GitLab product and DevSecOps capabilities. Workshops may be executed as marketing events or run independently for specific customers. Detail information is provided on the [Hands-on Workshops](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/workshop/) page.
 
 ### RFI/RFP Responses
 
-RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](https://about.gitlab.com/handbook/security/security-assurance/field-security/Field-Security-RFP.html) page.
+RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](/handbook/security/security-assurance/field-security/Field-Security-RFP.html) page.
 
 ### Stack Overflow for Teams 
 
@@ -55,7 +55,7 @@ Additionally, it is possible to interact with Stack Overflow using Slack integra
 - `/stack ask How do I do X?` to ask a question directly via Slack
 - `/stack search [search term]` to search for questions and answers
 
-Slack integration also posts notifications about new questions and answers via `#cs-questions` Slack channel for the entire team to stay up to date and boost participation. Adherent to and in support of GitLab's [efficiency value](https://handbook.gitlab.com/handbook/values/#efficiency) team members should first [search for an existing answer](/company/culture/all-remote/self-service/) and post a question only if an answer is not readily available.
+Slack integration also posts notifications about new questions and answers via `#cs-questions` Slack channel for the entire team to stay up to date and boost participation. Adherent to and in support of GitLab's [efficiency value](/handbook/values/#efficiency) team members should first [search for an existing answer](/handbook/company/culture/all-remote/self-service/) and post a question only if an answer is not readily available.
 
 Stack Overflow for teams replaces older [Customer Success Knowledge Base](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/sa-knowledge-base/), which is considered deprecated and will be removed in the Future.
 
@@ -122,7 +122,7 @@ Here are courses that will facilitate the onboarding process of associate SAs an
 - [Docker for the Absolute Beginner - Hands-On](https://learning.oreilly.com/videos/docker-for-the/9781788991315/)
 
 **Paid**
-Paid courses can be expensed as part of the [Growth and Development benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/)
+Paid courses can be expensed as part of the [Growth and Development benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/)
 - IBM course on Coursera: [Information Technology (IT) and Cloud Fundamentals Specialization](https://www.coursera.org/specializations/it-cloud-fundamentals)
 Especially the module [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud?specialization=it-cloud-fundamentals)
 

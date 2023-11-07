@@ -12,7 +12,7 @@ title: Account Planning for Solutions Architects
 
 ## Account Planning in Gainsight Overview 
 
-[Account planning](/handbook/sales/account-planning/) helps the SAE and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's organization and work more strategically across the territory. Gainsight is a the tool for Strategic Account Leaders (SAEs), Solutions Architects (SAs), and Customer Success Managers (CSMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you win deals.
+[Account planning](https://about.gitlab.com/handbook/sales/account-planning/) helps the SAE and the SA develop a plan to elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. This is is a critical step is helping the team evaluate the customer's organization and work more strategically across the territory. Gainsight is a the tool for Strategic Account Leaders (SAEs), Solutions Architects (SAs), and Customer Success Managers (CSMs) to manage the account planning process. Since it sits within SalesForce, it provides a comprehensive view of your customers, allows you to understand trends and risks, and empowers you to execute a strategy to help you win deals.
 
 # Accessing Gainsight
 - Steps to access Gainsight are outlined on this [Handbook Page](https://about.gitlab.com/handbook/sales/gainsight/#getting-started)
@@ -63,7 +63,7 @@ It is important to note that Gainsight brings the entire account team onto a sin
 
 
 # Gainsight Enablement 
-* [Account Planning Handbook Page](/handbook/sales/account-planning/)
+* [Account Planning Handbook Page](https://about.gitlab.com/handbook/sales/account-planning/)
 * [Account Planning with Gainsight Overview and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
 * [Account Planning for SAs](https://gitlab.edcast.com/pathways/gainsight-for-solutions-architects-sas)
 * [Using Gainsight in Team Meetings](https://www.youtube.com/watch?v=gT_pz9PoHHg)

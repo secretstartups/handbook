@@ -17,22 +17,22 @@ description: "Solutions Architects are occasionally called on at a moments notic
 
 ## Demo Systems Overview and Specific Environments
 
-The [Demo Systems Handbook page](/handbook/customer-success/demo-systems/) provides an overview of the demo system infrastructure used for demonstrating GitLab features, value propositions, and workflows.
+The [Demo Systems Handbook page](https://about.gitlab.com/handbook/customer-success/demo-systems/) provides an overview of the demo system infrastructure used for demonstrating GitLab features, value propositions, and workflows.
 
-See the [Environments sub-page](/handbook/customer-success/demo-systems/#shared-environments) for specific details on how to access the environments for use in your demos.
+See the [Environments sub-page](https://about.gitlab.com/handbook/customer-success/demo-systems/#shared-environments) for specific details on how to access the environments for use in your demos.
 
 ## Demo Readiness
 
 Solutions Architects are occasionally called on at a moments notice to give a demo or join a call to show a prospect or customer specific GitLab functionality. A best practice for being prepared for these demo requests is to have a minimized browser window with various content preloaded into the browser tabs. Examples of common environments utilized are listed below. Note that accessing some of these links are only enabled for GitLab team-members.  (To-do: port this list to the demo catalog)
 
-- The [GitLab Demo Systems](/handbook/customer-success/demo-systems/) provides a catalog of demos and the sandbox infrastructure for performing demos.
+- The [GitLab Demo Systems](https://about.gitlab.com/handbook/customer-success/demo-systems/) provides a catalog of demos and the sandbox infrastructure for performing demos.
 - The [GitLab.org Group level](https://gitlab.com/groups/gitlab-org/-/roadmap) clearly represents GitLab Epics, Roadmaps and cross-project issue views used for planning releases
 - A [GitLab.com project](https://gitlab.com/jkrooswyk/joel-springsample/-/boards/579466) driven by Auto DevOps which includes a populated issue board as well as an active Merge Request is highly useful for describing value of workflow utilizing GitLab Auto DevOps for build, test, security and review
 - This [GitLab.com project](https://gitlab.com/gitlab-examples/security/security-reports/merge_requests/2) is commonly utilized specifically for security discussions
 - The [production monitoring for GitLab.com](https://gitlab.com/gitlab-org/charts/gitlab/-/metrics?environment=190276) is useful for any discussion regarding custom and in-app monitoring
 - The [production Grafana instance](https://dashboards.gitlab.com/d/000000159/ci?refresh=5m&orgId=1) showing GitLab Runner details is a great way to represent the art of the possible as it relates to monitoring and dashboards
-- The GitLab [Direction](/direction/) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
-- Optional: [Integrations](/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
+- The GitLab [Direction](https://about.gitlab.com/direction/) page in the Handbook is often beneficial for future-looking product vision questions and discussions about upcoming features
+- Optional: [Integrations](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/demo/integrations/) may be loaded and ready to discuss by leveraging the standard demo environments
 - Other Existing demo groups and projects are listed in the next section
 
 ## Repeatable process for maintenance of recording GitLab Flow-style demos
@@ -63,7 +63,7 @@ Loom
 
 ## Existing Demonstrations
 
-[Demo Architect Offerings Handbook page](/handbook/customer-success/solutions-architects/demo-architect/) lists currently available shared CS demos, lunch & learns and workshops maintained and owned by Demo Engineering.
+[Demo Architect Offerings Handbook page](https://about.gitlab.com/handbook/customer-success/solutions-architects/demo-architect/) lists currently available shared CS demos, lunch & learns and workshops maintained and owned by Demo Engineering.
 
 In addition, there are various legacy sources and locations that might be helpful in locating reusable demos and projects:
 

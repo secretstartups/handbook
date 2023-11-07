@@ -43,7 +43,7 @@ Examples:
 
 
 ## Demo Jam
-Similar to lightning talks, [Demo Jam](/handbook/customer-success/solutions-architects/processes/commercial/#commercial-demo-jam) is practiced amongst the Commercial SA Team as a safe place to continously practice showcasing features, managing objections, and improving storytelling.
+Similar to lightning talks, [Demo Jam](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/#commercial-demo-jam) is practiced amongst the Commercial SA Team as a safe place to continously practice showcasing features, managing objections, and improving storytelling.
 
 ## Objection Handling Workshops
 

@@ -191,7 +191,7 @@ Will have specific resources under actions above. This is for additional resourc
 | CISO, CTO, VP Engineering, Director of DevOps Platform or Developer Experience, Head of Digital/DevOps Transformation | [Transformative services](https://www.loom.com/share/da035d54cda74c039524d940766d7621?sharedAppSource=personal_library), [slides](https://docs.google.com/presentation/d/1zH6l_qLtODL_gYD6YazKYl5BGY0FVDy08QAqS7ticuU/edit#slide=id.g11640e57389_0_21) | reducing functional silos, proactive risk management (e.g. shift left), standardizing CI/CD workflows, and innersourcing collaboration. |
 | Sr. Manager App Dev, Director of Engineering | [Standard service packages](https://about.gitlab.com/services/catalog/) or Custom Scoped Offerings| Customers who are interested in [training](https://about.gitlab.com/services/education/) on one ore more specific topic. Customers who need help in [implementing GitLab Self Managed](https://about.gitlab.com/services/implementation/) or need data to be [migrated to GitLab](https://about.gitlab.com/services/migration/)  |
 
-Not sure? Get in contact with your region's [PS Engagement Manager](https://about.gitlab.com/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities. 
+Not sure? Get in contact with your region's [PS Engagement Manager](/handbook/company/team/?department=practice-management) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to discuss specific customer opportunities. 
 
 
 ## Measuring progress

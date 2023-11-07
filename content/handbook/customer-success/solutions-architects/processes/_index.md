@@ -36,13 +36,13 @@ To following process maps are best viewed in full screen.  Please note that many
 
 ## SA Activity Capture
 
-Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
 
 We have a [standard meeting notes document](https://docs.google.com/document/d/1TlG1ZDKtd3YcV_yZg9YxQ52HRxNCpYXJLyDblxBz-vU/edit?usp=sharing) that is formatted to enable the activity capture in Troops which should be utilised for each customer engagement
 
 ## Customer Strategy Planning
 
-A customer Strategy Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Strategy Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](/handbook/customer-success/csm/success-plans/). The customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
+A customer Strategy Plan is a customer-facing and mutually agreed roadmap for achieving value through GitLab adoption. This is an outcome of collaboration between GitLab Solution Architecture and the customer with the primary objective of ensuring customers are successful.  The process is designed to support shifting from product scoped conversations (focusing on specific features or functions and limited to a specific subset of DevSecOps stages) towards solution (addressing specific pain points) or strategic (shaping business outcomes through holistic organizational process innovation and transformation tied to top strategic initiatives ) scopes. This Strategy Plan starts in the pre-sales process and is intended to carry through to the post-sales [Success Plan](https://about.gitlab.com/handbook/customer-success/csm/success-plans/). The customer Success Plan is intended to be dynamic and should therefore be regularly reviewed on an agreed-upon cadence.
 
 Customer Strategy Planning core goal is to identify:
 - Key business stakeholders
@@ -68,7 +68,7 @@ Please add "Positioned PS" as SA activity type after you have positoned it for y
 
 ## Engaging Professional Services
 
-Follow the process detailed in the [Working with Professional Services](/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
+Follow the process detailed in the [Working with Professional Services](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
 handbook page.
 
 Simplified process description:
@@ -100,7 +100,7 @@ handbook page.
 ## SA Initiatives and OKRs
 
 Solutions Architects record and track their OKRs (Objectives and Key Results) and Initiatives in the [SA Initiatives](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives) GitLab project.
-OKRs are directly realted to the fiscal year SA focus areas as well as [company OKRs](https://about.gitlab.com/company/okrs/). Initiatives are independent of focus areas and OKRs.
+OKRs are directly realted to the fiscal year SA focus areas as well as [company OKRs](/handbook/company/okrs/). Initiatives are independent of focus areas and OKRs.
 Every Solution Architect can start a new Initiative and OKR as well as contribute to existing.
 Both are ideally broken down to quarterly achievable efforts with DRIs (Direct Responsible Individual) for each action item as well as measurble deliverables (Key Results).
 For documentation and tracking use the OKR and Initiatives template provided in the [project](https://gitlab.com/gitlab-com/customer-success/solutions-architecture-leaders/sa-initiatives) and apply the correspongding lables.
@@ -127,7 +127,7 @@ Enterprise Solutions Architects typically support sales teams made up of Sales D
 
 1. **Salesforce**
 [To-do] Add info on views and reports to use during the sales cycle. Also, guidance on SA being listed on opportunities and accounts (there is not any info in our current handbook)
-1. **Gainsight** Primarily for account planning in partnership with SAE and CSM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](/handbook/sales/gainsight/account-planning/) page for details.
+1. **Gainsight** Primarily for account planning in partnership with SAE and CSM. The easiest way to access Gainsight is via Salesforce. See the [Account Planning in Gainsight](https://about.gitlab.com/handbook/sales/gainsight/account-planning/) page for details.
 1. **Slack** Create a public internal team slack channel for your cross-functional team. This will allow you to collaborate easily without sending DM's.
 1. **Google Drive** There is a shared [GitLab Sales](https://drive.google.com/drive/folders/0BzQII5CcGHkKSFFJWkx3R1lUdGM?usp=sharing) folder. Running customer notes and other documents related to a specific customer should be stored in the [Customers and Prospects Subfolder](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U?usp=sharing) under the appropriate letter and customer name subfolder.
 1. <b>[GitLab Account Management Project](https://gitlab.com/gitlab-com/account-management)</b> may be used for a POV and/or CSM collaboration with a customer post-sale.
@@ -135,7 +135,7 @@ Enterprise Solutions Architects typically support sales teams made up of Sales D
 
 ### Account Planning 
 
-Account planning helps the SAE and the SA elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. It is a critical step in strategically supporting the customer at the account level, and facilitates more efficient opportunity planning. See the [Using Gainsight for SAs](/handbook/customer-success/solutions-architects/processes/account-planning) page for details. 
+Account planning helps the SAE and the SA elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers. It is a critical step in strategically supporting the customer at the account level, and facilitates more efficient opportunity planning. See the [Using Gainsight for SAs](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/account-planning) page for details. 
 
 ### Quarterly Exchange
 At the end of a quarter, an SA team meets to share what they have been focused on to either share learnings or gather insights. 
@@ -291,25 +291,25 @@ When workload exceeds the SA's capacity or when there is a request from other de
 
 ### Commercial Engagement Model
 
-SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the SA Request button on the Salesforce Opportunity. Find more information about engagement considerations, triage process and expectations in dedicated [Commercial Solutions Architecture Engagement Model](/handbook/customer-success/solutions-architects/processes/commercial/#commercial-solutions-architecture-engagement-model) handbook page.
+SA engagement for customer interactions, RFP's, audits and more ([how to engage a Commercial SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/)) can be requested by an SMB or Mid-Market Account Executive or other GitLab team-member using the SA Request button on the Salesforce Opportunity. Find more information about engagement considerations, triage process and expectations in dedicated [Commercial Solutions Architecture Engagement Model](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/commercial/#commercial-solutions-architecture-engagement-model) handbook page.
 
 ### APAC Account Engagement Model
 
 APAC SAs are aligned regionally into regions such as ANZ, SEA (South-East Asia), India, South Korea and Japan in close alignment to the Strategic Account Leaders, Commercial AEs and Channels Managers territories. Teams collaborate to the standards [Working Agreements](#working-agreements). 
 
 ### Alliances SA Engagement Model
-The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / CSM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
+The Alliance SA team is global. The Alliance SA's are aligned with Alliance Partner Managers/Directors and the Alliance Business Development Managers. In customer accounts where an Alliance partner technology is involved, an Alliance SA engagement for customer interactions can be requested by an Account Executive / SA / CSM using the appropriate issue board. For more details, click on [how to engage an Alliance SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/alliance/). Here's the [Alliance Triage Board](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/boards/2245192) and the [issue template](https://gitlab.com/gitlab-com/alliances/gitlab-alliances-team/alliance-sa-work/-/issues/new?issuable_template=GitLab%20Internal%20Assistance) 
 
 ### Channel SA Engagement Model
 The Channel SA's are aligned globally with the Channel program team as well as regionally with Channel Sales Directors and Channel Account Managers. Channel SA's are primarily focused on developing Partner relationships as opposed to direct Customer relationships.  Our primary community served are the regional Channel Sales Directors and their Channel Account Managers (CAMs), Partner teams, and our own managment.  Generally for direct customer opportunity support, engage the appropriate GitLab SA community for your customer.  Channel SA's can provide backup to the Customer SA community in support of a Partner aligned opportunity.  
 
 Most Opportunity based enagement should start with the CAM and they should identify the appropriate Channel SA to engage.  If you do not know the CAM for your account / partner reach out via the `#channel-sales` slack channel for general sales questions about working with partners or finding help with a specific channel opportunity.  
 
-In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / CSM.  For more details, click on [how to engage a Channel SA](/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
+In customer accounts where a Channel partner is involved, engagement with the Partner from a Channel SA can be requested by an Account Executive / SA / CSM.  For more details, click on [how to engage a Channel SA](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/channel/).  The details on Channel SA engagement model can be found in this [RACI spreadsheet](https://docs.google.com/spreadsheets/d/1AxDrQp2HeIXfomw8QRrb0gemQCHktt_BR3ufpLTtxNc/).
 
 ### Subject Matter Expert Engagement Model
 
-Before you invite or request an [Subject Matter Expert](/handbook/customer-success/solutions-architects/sa-practices/subject-matter-experts) for your opportunity, ensure your opportunity is fully qualified. The SME should be requested by the primary Solutions Architect. This will help make sure we're using our resources efficiently and effectively.
+Before you invite or request an [Subject Matter Expert](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/subject-matter-experts) for your opportunity, ensure your opportunity is fully qualified. The SME should be requested by the primary Solutions Architect. This will help make sure we're using our resources efficiently and effectively.
 
 Create an issue in the [SME Triage Project](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/sme-triage) using the template. You can have a look on the [board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/sme-triage/-/boards/5983907) for current engagements.
 

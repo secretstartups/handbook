@@ -17,7 +17,7 @@ GitLab Field Teams can engage a Channel SA when a GitLab Partner is involved in 
 
 Channel SA's ensure that partners get the most value possible out of their relationship with GitLab through their sales and delivery of GitLab's products and services. Channel Solutions Architects (CSA) organize their activities to facilitate partner sales opportunities and mature GitLab partners quickly in their ability to independently deliver customer value.
 
-To mature Partners through their Partner Journey, CSA's engage in a variety of activities designed to help Partners win deals, and mature their practices.  CSA activities can be seen as contributing to these themes, Align, Enable, and Expand partner value to customer success. The [partner maturity model](/handbook/resellers/services/#partner-capabilities-journey) has more details on the partner journey.
+To mature Partners through their Partner Journey, CSA's engage in a variety of activities designed to help Partners win deals, and mature their practices.  CSA activities can be seen as contributing to these themes, Align, Enable, and Expand partner value to customer success. The [partner maturity model](https://about.gitlab.com/handbook/resellers/services/#partner-capabilities-journey) has more details on the partner journey.
 
 #### Align
 
