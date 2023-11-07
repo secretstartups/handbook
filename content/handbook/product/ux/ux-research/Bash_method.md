@@ -62,10 +62,10 @@ Bashes are useful when [foundational research](https://about.gitlab.com/handbook
 - [Join the GitLab Discord server](https://about.gitlab.com/handbook/marketing/developer-relations/workflows-tools/discord/), where the community and external users are active
 - Reach out to Fatima Sarah Khalid (GitLab and Discord handle: sugaroverflow) to have your Discord profile noted as a GitLab employee.
 - Create an [Incentives Request issue](https://about.gitlab.com/handbook/product/ux/ux-research-coordination/incentives/) to pay participants. 
-- Announce the Bash in the #announcements Slack channel with a link to a [screener survey](https://about.gitlab.com/handbook/product/ux/ux-research/write-effective-screener/)
+- Announce the Bash in the #announcements Discord channel with a link to a [screener survey](https://about.gitlab.com/handbook/product/ux/ux-research/write-effective-screener/)
    - <img src='Bash_Discord_invite.png' ALT='Example of a Discord invitation'>
 - Select your participants.
-   - You can also work with Fatima Sarah Khalid (sugaroverflow) to have your post shared on the GitLab Community Forum to boost awareness.
+   - You can also work with Fatima Sarah Khalid (GitLab and Discord handle: sugaroverflow) to have your post shared on the GitLab Community Forum to boost awareness.
 - Send event reminders
    - Creating a calendar event for the Bash and emailing participants the day before the Bash is a best practice.
 
