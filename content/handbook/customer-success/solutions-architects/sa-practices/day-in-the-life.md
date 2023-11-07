@@ -62,7 +62,7 @@ The scope of a Day In The Life of a Developer should always be clearly defined. 
 
 A successful Day In The Life of a Developer requires a commitment by the software delivery stakeholders and the personnel experienced with the various processes that constitute their development process. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful Day In The Life of a Developer. Educate the prospect or customer on the benefits, process details, and the required commitment. 
 
-_While a Day In The Life of a Developer is an advanced discovery workshop, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
+_While a Day In The Life of a Developer is an advanced discovery workshop, it's expected that initial [opportunity discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/) and [technical discovery](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
 #### Key Benefits
 

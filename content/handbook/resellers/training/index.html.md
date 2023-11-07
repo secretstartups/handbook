@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: 'Partner Training, Accreditations, and Enablement'
 description: >-
   Learning program including functional, soft skills, and technical training for channel and alliances partners to support and scale GitLab's and our partners' growth and success
 ---
 
 ## Partner Training, Accreditations, and Enablement
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
 
 - - -
 
@@ -18,6 +18,7 @@ GitLab offers global, role-based training and enablement to help you grow your s
 ## <span class="colour" style="color: rgb(252, 109, 38);">Benefits of GitLab Accreditations</span>
 
 GitLab has a commitment to enabling our partners with the skills that they need to best support current and future GitLab customers. This includes offering a combination of GitLab Partner Accreditations for Sales, Pre-Sales Technical, and Customer Success roles, as well as offering [GitLab Certifications.](https://about.gitlab.com/services/education/gitlab-technical-certification-self-paced/)
+
 ## <span class="colour" style="color: rgb(252, 109, 38);">Learn at your own pace</span>
 
 At GitLab we value asynchronous working relationships, that's why all of our Partner Training and Accreditations are self-paced and offered online. Learn anytime and anywhere with access to our training system using your GitLab Partner Portal login.
@@ -30,6 +31,7 @@ At GitLab we value asynchronous working relationships, that's why all of our Par
 | Value Pitches    | Product Knowledge  | Service Development      |
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Training for all Partner Learners</span>
+
 We reccommend that every learner begin their journey with GitLab, by taking the GitLab Foundations course. This fundamental course will give you and introduction to the GitLab product, licensing model, and how to transact with GitLab.
 
 ## <span class="colour" style="color: rgb(252, 109, 38);">Training for Sales Professionals</span>
@@ -80,13 +82,16 @@ All enablement materials can be accessed via the GitLab Partner Portal. Job aide
 ## <span class="colour" style="color: rgb(56, 13, 117);">Enrolling in Accreditation and Certification Courses</span>
 
 ## For Channel Partners ##
+
 To sign up for any of the courses listed on this page, please visit the training section on the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/c/Training) and select Level Up. You do not require a separate login or credentials to access the GitLab Training Portal from the Partner Portal.
 
 ## For Alliance Partners ##
+
 To sign up for any of the courses listed on this page, please visit the [Alliance Partner Learning Dashboard](https://levelup.gitlab.com/alliance-partner) and enter the unique validation code provided to you via your SA and/or ABDM.
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Badge Award Process</span>
+
 GitLab uses Credly to award our Technical Certifications and Accreditations. Once you have successfully completed all components of an Accreditation or Certification, you will receive an email notification from Credly. You will need to accept the badge. Once you accept the badge, you will be able to share your badge, attach your badge to your email, and attach your badge to your LinkedIn profile.##Please note that it can take 7-10 business days for your completion to be reflected in the partner portal.## Please refer to the below links to assist you in managing your badge(s):
 
 - [Accepting a Credly badge](http://x8672.mjt.lu/lnk/AMEAAM_mUCcAAABrO8IAACCEDhIAAAABDiMAAQaGABe-EwBi2XgInVHA7IsURfGUyzjadeVL2QAXQZQ/4/nw0aGmV6G5Esfsk-xF_4sA/aHR0cHM6Ly9zdXBwb3J0LmNyZWRseS5jb20vaGMvZW4tdXMvc2VjdGlvbnMvMzYwMDAzMjA1MDcyLS1BY2NlcHRpbmctYS1CYWRnZQ)
@@ -98,6 +103,7 @@ GitLab uses Credly to award our Technical Certifications and Accreditations. Onc
 
 
 ## <span class="colour" style="color: rgb(56, 13, 117);">Additional Enablement Resources</span>
+
 - **Building Pipeline with GitLab Webcast** - Every 1st and 3rd wednesday of the month, GitLab hosts Building Pipelines with GitLab,  a webcast for partners that cover topics on how to best build your GitLab pipeline. You can access previous recordings of the Building Pipelines with GitLab webcast in the [partner portal](https://partners.gitlab.com/prm/api/objects/v1/asset/vmyjbknbzcv2/_download), or [register](https://gitlab.zoom.us/webinar/register/WN_XjqiiczZQje-RugNH1Eugg) to attend live.
 - **Partner Marketing Webcasts** - GitLab Partners’ Marketing team members are invited to join our monthly webcast to learn about the latest Partner marketing campaigns, resources and more.
 - **The [GitLab Partner Portal](https://partners.gitlab.com/English/)** - provides Partners with easy access to additional sales resources, webcast replays, competitive analysis, event calendar, Marketing campaigns, support and more.

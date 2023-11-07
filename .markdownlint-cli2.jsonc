@@ -5,6 +5,7 @@
   ],
   "fix": false,
   "ignores": [
+    "content/handbook/resellers/**/*.md",
     "content/handbook/customer-success/**/*.md",
     "content/handbook/sales/**/*.md",
     "content/handbook/business-technology/**/*.md",

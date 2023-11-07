@@ -25,10 +25,10 @@ Solutions Architects record all customer and prospect activity with accurate act
 When recording prospect/customer activity by SA into `Task` objects within Salesforce based on the Troops.ai `Log a Call` action on an `Opportunity`, one or more than one activity type should be selected to accurately reflect the customer interaction. 
 
 This page describes all activity types available for SAs in 
-- [Enterprise and Commercial](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
-- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity)
+- [Enterprise and Commercial](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
+- [Strategic Field](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity)
 - [Value Stream Assessment](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/#value-stream-assessments), and
-- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-alliancechannel-sa-activity)
+- [Alliance/Channel](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#description-for-alliancechannel-sa-activity)
 
 
 ### Description for Enterprise and Commercial SA Activity Type
@@ -37,7 +37,7 @@ Select these types when capturing activities by Enterprise and Commercial SA tea
 
 - **Customer No Show** - The SA has the opportunity to log an activity for a scheduled client meeting whereby the customer has not attended. In collaboration with the SAE/AE/Channels Manager, the SA should try to understand the underlying reason for the customers absence and record under the [SA] Activity Description.
 
-- **Customer Strategy Plan Review** - Collaborative session between SA and a customer identifying and documenting business stakeholders, high-impact strategic requirements and key technologies, the current state of their technology ecosystem, current and desired capabilities, operational alignment with strategic objectives, and perceived gaps and deficiencies in current capabilities. See [process description](/handbook/customer-success/solutions-architects/processes/index.html#customer-strategy-planning) for details. When reporting this activity a link to the latest Customer Strategy Plan must be included.
+- **Customer Strategy Plan Review** - Collaborative session between SA and a customer identifying and documenting business stakeholders, high-impact strategic requirements and key technologies, the current state of their technology ecosystem, current and desired capabilities, operational alignment with strategic objectives, and perceived gaps and deficiencies in current capabilities. See [process description](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/index.html#customer-strategy-planning) for details. When reporting this activity a link to the latest Customer Strategy Plan must be included.
 
 - **Demo** - The SA can record the activity when a planned GitLab product demonstration has been 
 delivered to the client. In the [SA] Activity Description field in troops, the SA should 
@@ -63,7 +63,7 @@ also refer to insights around the demonstration purpose and area of product walk
   * The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
   * The SA debriefed internally with their SAE/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
 
-- **Ride Along** - This activity type is used when one SA is shadowing another SA to help support the opportunity, provide feedback for the primary solutions architect, and to learn how the primary solutions architect works. Please leverage [the Ride Alongs](/handbook/customer-success/solutions-architects/sa-practices/ride-alongs/) handbook page to learn more about how Ride Alongs work. Record this activity on Account level. Recording at the account level is required because ride alongs that are inter-segment or inter-region will not have their opportunities available to the riders. 
+- **Ride Along** - This activity type is used when one SA is shadowing another SA to help support the opportunity, provide feedback for the primary solutions architect, and to learn how the primary solutions architect works. Please leverage [the Ride Alongs](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/ride-alongs/) handbook page to learn more about how Ride Alongs work. Record this activity on Account level. Recording at the account level is required because ride alongs that are inter-segment or inter-region will not have their opportunities available to the riders. 
 
 - **Guided Trial** - This activity type is used in case a prospect or existing customer needs support from an SA during their self-evaluation via the GitLab Free trial offering.
 
@@ -75,7 +75,7 @@ also refer to insights around the demonstration purpose and area of product walk
 
 - **Technical Support** - SA conducts the technical support sessions as the account team and with GitLab Support to troubleshoot and address specific technical issues and challenges.
 
-- **Positioned Professional Services** - This activity type should be used when positioned Professional services as part of the [Solution Architects Processes](/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)  
+- **Positioned Professional Services** - This activity type should be used when positioned Professional services as part of the [Solution Architects Processes](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/#positioning-professional-services)  
 
 - **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.
 

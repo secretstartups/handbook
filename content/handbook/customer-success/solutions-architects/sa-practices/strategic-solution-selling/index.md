@@ -22,7 +22,7 @@ A strategic solution is aimed to provide a customer the DevOps capabilities for 
 
 ## Analyze and Gather Information
 
-When an opportunity is qualified [**during the discovery**](/handbook/sales/playbook/discovery/) by a Strategic Account Executive (SAE), the SAE will work with the SA and decide the plan for next steps. The SA may conduct a **technical** discovery on the first call with the customer. Then the SA can start the analysis for scoping.
+When an opportunity is qualified [**during the discovery**](https://about.gitlab.com/handbook/sales/playbook/discovery/) by a Strategic Account Executive (SAE), the SAE will work with the SA and decide the plan for next steps. The SA may conduct a **technical** discovery on the first call with the customer. Then the SA can start the analysis for scoping.
 
 The following diagram shows the mindset for the SA to consider when expanding the technical feature considerations to the strategic solutioning, specifically the information that needs to be discovered and gathered. It involves various activities based on the SAE and SA being engaged with a customer during the discovery and scoping.
 
@@ -133,7 +133,7 @@ The following aspects oultine a more strategic dialog for SA to lead and engage 
 
 When engaging with the topics that lead to good responses from the initial discussion, the SA can expand the topics and discussions to a higher level or to other influential stakeholders.
 
-[**Value Stream Assessment**](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/) may be positioned for deeper understanding and further solidify the strategic partnership and engagement.
+[**Value Stream Assessment**](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/) may be positioned for deeper understanding and further solidify the strategic partnership and engagement.
 
 ## Capabilities and Solutions
 A SA can lead and identify required capabilities and solution framework upon the following information gathered and analysis performed:

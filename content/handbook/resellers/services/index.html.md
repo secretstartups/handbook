@@ -1,15 +1,15 @@
 ---
-layout: handbook-page-toc
+
 title: "Developing your GitLab Practice"
 ---
-{::options parse_block_html="true" /}
-
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
+
+
 
 ## **Developing your GitLab Practice**
 

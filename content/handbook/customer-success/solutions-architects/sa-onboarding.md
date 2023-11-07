@@ -33,19 +33,19 @@ The purpose of this role-specific onboarding program is to provide the newly hir
 
 **Welcome to your GitLab Solutions Architects (SA) 30-60-90 Day Onboarding!**
 
-_We are so excited you’re here and look forward to setting you up for [all-remote](https://about.gitlab.com/company/culture/all-remote/guide/) success as your team member journey begins._
+_We are so excited you’re here and look forward to setting you up for [all-remote](/handbook/company/culture/all-remote/guide/) success as your team member journey begins._
 
 Now that you have completed your core GitLab onboarding issue housed in GitLab.com, and Sales Quick Start (SQS) it is time to jump into your role-specific onboarding. This onboarding program will cover Technical Onboarding as it relates to the SA role.
 
-This onboarding still adheres to the sentiments of [self directed and continuous learning](https://about.gitlab.com/company/culture/all-remote/self-service/), using the diverse set of high and low touch resources available to all GitLab team members such as videos; handbook pages; blog pieces; Zoom sessions and knowledge assessments, while encouraging [asynchronous communication and workflows](https://about.gitlab.com/company/culture/all-remote/asynchronous/).
+This onboarding still adheres to the sentiments of [self directed and continuous learning](/handbook/company/culture/all-remote/self-service/), using the diverse set of high and low touch resources available to all GitLab team members such as videos; handbook pages; blog pieces; Zoom sessions and knowledge assessments, while encouraging [asynchronous communication and workflows](/handbook/company/culture/all-remote/asynchronous/).
 
 ### Support and our Single Source of Truth
 
-Since GitLab is a [handbook first](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) organization, the answer to any question you may have particularly throughout your first thirty days should be documented and readily available as this is our [Single Source of Truth (SSoT)](https://about.gitlab.com/handbook/values/#single-source-of-truth).
+Since GitLab is a [handbook first](/handbook/company/culture/all-remote/handbook-first-documentation/) organization, the answer to any question you may have particularly throughout your first thirty days should be documented and readily available as this is our [Single Source of Truth (SSoT)](/handbook/values/#single-source-of-truth).
 
 If you are unable to find the information you are looking for, please be sure to reach out to your Manager; Onboarding Buddy; People Connect Team member or Enablement Program Manager (@thabo) for support by tagging them in the comments section of this issue. If you need to troubleshoot specific issues with tools, you can add a screenshot of the issue directly in the comment to help them diagnose the problem.
 
-Alternatively once you are active on [Slack](https://about.gitlab.com/handbook/communication/#key-slack-channels), which is used solely for informal communication, you will notice that you have been automatically added to a handful of useful support channels such #questions, #cs-questions, #solutions-architects, #it-help, etc.
+Alternatively once you are active on [Slack](/handbook/communication/#key-slack-channels), which is used solely for informal communication, you will notice that you have been automatically added to a handful of useful support channels such #questions, #cs-questions, #solutions-architects, #it-help, etc.
 
 ## 30-60-90 Day Program
 * [SA Onboarding At a Glance](https://docs.google.com/presentation/d/1_4rX6svo7QC7bHBBYjABzhasS5_Gu07sMznbLe3G_Eg/edit#slide=id.g118aed8c9bf_0_193)

@@ -129,7 +129,7 @@ These Slack channels are considered to be a safe harbor for all Commercial AE <-
 
 #### Post-Sales Engagement
 
-As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
+As an opportunity enters into either the [Negotiating or Awaiting Signature](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#opportunity-stages) stage, the Solutions Architect and Account Executive ought to begin introducing the customer to a Customer Success Manager following the [Commercial CSM Transition Process](https://about.gitlab.com/handbook/customer-success/pre-sales-post-sales-transition/#commercial-csm-transition-process).
 
 Solutions Architects ought to be primarily engaged with accounts that have active opportunities in Salesforce.  When we work with customers, it's easy to build a trusted advisor relationship with them that persists past the end of the sale.  In these cases, SAs must use their judgment in determining when to redirect a customer to the proper support channel for follow-up questions.
 
@@ -216,7 +216,7 @@ This review process aims to help ensure on-site engagements have the highest lev
 
 ### Live Optimization Sessions
 
-Live Optimization sessions are one-time post-sales activities session conducted 1-2 months after a closed deal by a Commercial Solutions Architect in order to support and 'fine tune' net new SMB customers' adoption of GitLab. Read more on the process in the [SMB Sales Handbook](/handbook/sales/commercial/smb/live-optimization/).
+Live Optimization sessions are one-time post-sales activities session conducted 1-2 months after a closed deal by a Commercial Solutions Architect in order to support and 'fine tune' net new SMB customers' adoption of GitLab. Read more on the process in the [SMB Sales Handbook](https://about.gitlab.com/handbook/sales/commercial/smb/live-optimization/).
 
 ## SA Circles
 
@@ -319,7 +319,7 @@ Quarterly review of wins and losses to identify patterns and things we can do to
 
 ### Commercial SA Peer Review
 
-Commercial SA team holds [Peer Review sessions](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice/#peer-reviews) every two weeks as a key activity in elevating the quality of pre-sales efforts, fostering collaboration, promoting continuous learning, and ultimately increasing the chances of successful client engagements.
+Commercial SA team holds [Peer Review sessions](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice/#peer-reviews) every two weeks as a key activity in elevating the quality of pre-sales efforts, fostering collaboration, promoting continuous learning, and ultimately increasing the chances of successful client engagements.
 
 #### Structure
 

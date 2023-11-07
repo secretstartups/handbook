@@ -62,7 +62,7 @@ The scope of a value stream assessment should always be clearly defined. A clear
 
 A successful Value Stream Assessment requires a commitment to the workshop by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful value stream assessment. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Positioning Deck](https://docs.google.com/presentation/d/1dOy-YGmsQio3v4EVjhFoCJWekzG0Z8PIpwsqliTyku0/edit?usp=sharing) - ([Recording](https://youtu.be/oxYjSrYLML4)) by customizing it for the prospect or customer to assist with this step.
 
-_While a Value Stream Assessment is an advanced discovery workshop, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
+_While a Value Stream Assessment is an advanced discovery workshop, it's expected that initial [opportunity discovery](https://about.gitlab.com/handbook/sales/playbook/discovery/) and [technical discovery](https://about.gitlab.com/handbook/customer-success/solutions-architects/processes/technical-discovery/) have been conducted._
 
 #### Key Benefits
 

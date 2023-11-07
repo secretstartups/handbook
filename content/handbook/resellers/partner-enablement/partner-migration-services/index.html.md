@@ -1,17 +1,18 @@
 ---
-layout: handbook-page-toc
+
 title: "Channel Partner Migration Services"
 ---
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-{::options parse_block_html="true" /}
+
 
 # Partner Migration Services
+
 {: .gitlab-orange}
 
 To learn about GitLab migrations, start [here](https://docs.gitlab.com/ee/user/project/import/). Depending on the source Git provider, size/scope of the migration and the importance of the preservation of the migrated artifacts, carefully consider each option given each option's limitations/benefits.
@@ -38,46 +39,47 @@ There are three different options for these migrations.
 
 Important to note about Congregate:
 
-* [Congregate Migration Features Matrix](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/gitlab-migration-features-matrix.md)
+- [Congregate Migration Features Matrix](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/gitlab-migration-features-matrix.md)
 
-* [Migration Readiness Checklist](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/migration-readiness-checklist.md)
+- [Migration Readiness Checklist](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/migration-readiness-checklist.md)
 
-* [Customer's obligations and responsibilities - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-are-a-customers-obligations-and-responsibilities-prior-during-and-after-a-migration)
+- [Customer's obligations and responsibilities - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-are-a-customers-obligations-and-responsibilities-prior-during-and-after-a-migration)
 
-* [Limitations of Self-Managed to SaaS migrations via Congregate - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-level-of-instance-access-and-permission-are-needed-for-migrating)
+- [Limitations of Self-Managed to SaaS migrations via Congregate - Congregate FAMQ](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/customer/famq.md#what-level-of-instance-access-and-permission-are-needed-for-migrating)
 
 ### 2. Direct transfer (Beta)
 
 This feature was just recently released, and is the direction our product team is moving towards for migrating GitLab projects from instance to instance or to SaaS. Please review the following resources:
 
-* [Migrated group items (direct transfer)](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-group-items)
+- [Migrated group items (direct transfer)](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-group-items)
 
-* [Migrated project items (direct transfer)](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-project-items-beta)
+- [Migrated project items (direct transfer)](https://docs.gitlab.com/ee/user/group/import/index.html#migrated-project-items-beta)
 
 ### 3. File exports
 
 For cases what direct transfer can't or won't cover. A good example would be air-gapped environments - see below.
 
-* [Migrating projects using file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html)
+- [Migrating projects using file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html)
 
-* [Items that are exported via file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html#items-that-are-exported)
+- [Items that are exported via file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html#items-that-are-exported)
 
-* [Items that are not exported via file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html#items-that-are-not-exported)
+- [Items that are not exported via file exports](https://docs.gitlab.com/ee/user/project/settings/import_export.html#items-that-are-not-exported)
 
-* [Project import and export API](https://docs.gitlab.com/ee/api/project_import_export.html)
+- [Project import and export API](https://docs.gitlab.com/ee/api/project_import_export.html)
 
-* [Group import and export API](https://docs.gitlab.com/ee/api/group_import_export.html)
+- [Group import and export API](https://docs.gitlab.com/ee/api/group_import_export.html)
 
 ## Air-gapped environments
 
 GitLab can be installed and operated in [offline environments](https://docs.gitlab.com/ee/user/application_security/offline_deployments/). This setup makes migration projects more complex.
 
-* Direct transfer doesn't support this. Project/export import is a workaround and it will likely stay as such. More info [here](https://gitlab.com/groups/gitlab-org/-/epics/8985) and [here](https://gitlab.com/gitlab-org/gitlab/-/issues/363406).
+- Direct transfer doesn't support this. Project/export import is a workaround and it will likely stay as such. More info [here](https://gitlab.com/groups/gitlab-org/-/epics/8985) and [here](https://gitlab.com/gitlab-org/gitlab/-/issues/363406).
 
-* Congregate does support this. More info [here](https://gitlab.com/groups/gitlab-org/professional-services-automation/tools/migration/-/epics/116) and [here](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/runbooks/airgapped-migration-usage.md).
+- Congregate does support this. More info [here](https://gitlab.com/groups/gitlab-org/professional-services-automation/tools/migration/-/epics/116) and [here](https://gitlab.com/gitlab-org/professional-services-automation/tools/migration/congregate/-/blob/master/runbooks/airgapped-migration-usage.md).
 
 
 # GitLab Professional Migration Services
+
 {: .gitlab-orange}
 GitLab Professional Services team has a [full service catalog of offerings avaialable](https://about.gitlab.com/services/catalog/) for direct to customers to utilize. Partners may want to review the offerings for inspiration towards delivering same or similar Professional (consultative) Service offerings.
 

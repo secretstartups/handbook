@@ -1,16 +1,16 @@
 ---
-layout: handbook-page-toc
+
 title: "Channel Partner Technical Presales Enablement"
 ---
 
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
-- TOC
-{:toc .hidden-md .hidden-lg}
+
+
+
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-{::options parse_block_html="true" /}
+
 
 
 In this section of the Channel Partner Programs Handbook we review assets and enablement from the perspective of GitLab Partners' Technical constituencies.
@@ -20,9 +20,11 @@ Beyond our Channel Partners Handbook pages, you will find sales guides, use case
 Rember that some of the links below require you to login to [GitLab's Partner Portal](https://partners.gitlab.com/) first. If you haven't already, [here is where you register for portal access](https://partners.gitlab.com/English/).
 
 # Presales and Technical Enablement Resources
+
 {: .gitlab-orange}
 
 ## Foundational Knowledge
+
 [Building Pipelines GitLab Partner Webinar Series](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db) (Live Webinar & Episode Content Archive)
   - This webinar series is produced exclusively for GitLab Partners.  We discuss various sales and presales-level topics that help you build your sales pipeline with GitLab.  
   - Click the link above to view the archive of previous episode content and be sure to **Register Today**!
@@ -33,9 +35,10 @@ Rember that some of the links below require you to login to [GitLab's Partner Po
   - [What is a DevOps Platform?](https://about.gitlab.com/topics/devops-platform/)
     - Great overview article with 10 primary must-have features and 7 things to consider to get the most out of the platform
   - [DevSecOps Defined](https://about.gitlab.com/topics/devsecops/)
-    -  Can your existing governance practices keep pace with modern development methods? Learn how next-generation software requires a new approach to application security.
+    - Can your existing governance practices keep pace with modern development methods? Learn how next-generation software requires a new approach to application security.
 
 ## 1. GitLab Product Overview
+
 Learn what GitLab is, what it offers, and what it does
 
 **Customer Facing Resources**
@@ -43,9 +46,9 @@ Learn what GitLab is, what it offers, and what it does
     - This is the GitLab Trailer.  It's actually a good elevator pitch!  Check it out.  (1 min)
   - [GitLab Promo DEMO](https://about.gitlab.com/demo/) (Video)
     - This video is a bit longer demo video and shows more about using GitLab (3 min)
-  - [Platform Page](https://about.gitlab.com/platform) (Web Page) 
+  - [Platform Page](https://about.gitlab.com/platform) (Web Page)
     - Get to know the basic capability set of GitLab here.  Be sure to scroll down to the Solutions GitLab enables and drill into them for more information (20 min read)
-  - [Solutions Page](https://about.gitlab.com/solutions/) (Web Page) 
+  - [Solutions Page](https://about.gitlab.com/solutions/) (Web Page)
     - offers a wide variety of ways customers leverage GitLab (20 min read)
 
 **Additional References for You**
@@ -54,6 +57,7 @@ Learn what GitLab is, what it offers, and what it does
 
 
 ## 2. Pitching GitLab and Showcasing a Solution
+
 Learn how to identify the most valuable challenges and leverage the GitLab DevSecOps Platform to create a valuable solution
 
 **Customer Facing Resources**
@@ -71,7 +75,7 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - Review this page to learn about how to position GitLab in the market. (10 min)
   - [GitLab Technical Discovery Guide](https://about.gitlab.com/handbook/sales/qualification-questions/#questions-for-selling-gitlab-premium-and-ultimate) (Handbook)
     - Discovery is a crucial skill for any Solutions Architect (SA).  Here is how GitLab SA’s do their Discovery (10 min)
-  - [User Personas](https://about.gitlab.com/handbook/product/personas/) (Handbook) 
+  - [User Personas](/handbook/product/personas/) (Handbook)
     - These are the persona types that are the primary users of GitLab inside your customer.
   - [Buyer Personas](https://about.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/roles-personas/buyer-persona/) (Handbook)
     - There are different buyer personas to understand when selling a Platform like GitLab.  Which do you value more? (20 min)
@@ -91,7 +95,7 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - “Effective GitLab Demos.” (40:16)  More resources and helpful hints are provided.  [Register for the Webinar](https://content.gitlab.com/viewer/63bddf02edadd0b1346a73db)!
   - [GitLab Partner Demos](https://gitlab.com/gitlab-partner-demos) (Project Catalog)
     - Public group containing demo projects developed by the GitLab Partner SA team for use with and by our partners
-  - [GitLab POV Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/) 
+  - [GitLab POV Handbook Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/tools-and-resources/pov/)
     - This handbook page is a great resource and link aggregation point for resources to conduct POVs
   - [The GitLab Demo Page](https://about.gitlab.com/handbook/customer-success/solutions-architects/demonstrations/) (Handbook)
     - Good reference material for general purpose demos the same way GitLab SA's do it.
@@ -99,22 +103,23 @@ Learn how to identify the most valuable challenges and leverage the GitLab DevSe
     - Leverage GitLab K8s agent to deploy to EKS.
   - [Guided Explorations](https://gitlab.com/guided-explorations) (Project Catalog)
     - Contains Joint Reference Architectures, Patterns, and Working Examples for integrating GitLab with Alliance and Technology solutions.
-  - [CI Samples Demo](https://gitlab.com/gitlab-learn-labs/webinars/cicd/cicd-samples) 
-    -  CI functions samples for quick demos
+  - [CI Samples Demo](https://gitlab.com/gitlab-learn-labs/webinars/cicd/cicd-samples)
+    - CI functions samples for quick demos
 
 **Additional References for You**
   - [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/) and [Install Guides](https://docs.gitlab.com/ee/install/) (GitLab Docs)
     - GitLab has a leading market share in self-managed deployments.  Here are our technical specs and docs for solutioning and installing GitLab instances.  
- 
+
 
 
 ## 3.  Closing the Deal
+
 Learn how to construct and transact a GitLab deal
 
 **Customer Facing Resources**
 
   - [Customer Pricing Page](https://about.gitlab.com/pricing/) (Web Page)
-    - This is the public price of the subscription.  Pricing is a simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance. 
+    - This is the public price of the subscription.  Pricing is a simple per-user subscription that is the same whether you are using SaaS or Self Hosted instance.
   - [Customer Case Studies](https://about.gitlab.com/customers/) (Web Page)
     - Leverage these for customer justification in deals. (10 min)
 
@@ -126,6 +131,7 @@ Learn how to construct and transact a GitLab deal
 
 
 ## 4.  Post-sales Implementation and Adoption Journey
+
 Delivery docs and technical guidance for your GitLab practice engineers
 
 **Implementing a GitLab Instance**
@@ -140,7 +146,7 @@ Delivery docs and technical guidance for your GitLab practice engineers
   - [Next Implementation Steps After Installation](https://docs.gitlab.com/ee/install/next_steps.html)
     - Once you have the product installed, here are additional steps to make the installation operationally successful (like backups)
   - [Upgrading GitLab](https://docs.gitlab.com/ee/update/)
-    - **Upgrades are important to become good at.**  GitLab schedules major releases for May each year, by default.  GitLab releases a minor update on the 3rd Thursday of every month, and has released monthly consistently for more than a decade.  Security patches are released more frequently. 
+    - **Upgrades are important to become good at.**  GitLab schedules major releases for May each year, by default.  GitLab releases a minor update on the 3rd Thursday of every month, and has released monthly consistently for more than a decade.  Security patches are released more frequently.
      GitLab.com has updates multiple times per day.  
 
 **Implementing GitLab Runners**
@@ -149,7 +155,7 @@ Delivery docs and technical guidance for your GitLab practice engineers
   - [GitLab Runner Installation](https://docs.gitlab.com/runner/install/)
   - [GitLab Runner Advanced Configuration](https://docs.gitlab.com/runner/configuration/)
 
-**GitLab Migrations** 
+**GitLab Migrations**
   - [Partner Migration Services](https://about.gitlab.com/handbook/resellers/partner-enablement/partner-migration-services/)
     - This **important page** outlines the migration services methods, tools, restrictions, and services kits available to partners
 
@@ -179,39 +185,41 @@ Delivery docs and technical guidance for your GitLab practice engineers
 
 
 # Additional Resources
+
 {: .gitlab-orange}
 
 ## 1. Official GitLab Training on Level Up
-- [Access GitLab Training from the Partner Portal](https://partners.gitlab.com/prm/English/c/Training) 
+
+- [Access GitLab Training from the Partner Portal](https://partners.gitlab.com/prm/English/c/Training)
   - We use LevelUp that is accessible publicly, but please do not use the site directly as a Partner.  Please login through the Partner Portal and access training there.  This will ensure that the training you take will be associated with your company partnership with GitLab!
 
-    ![Start Training from the Partner Portal](images/gitlab-partner-training.png){: .shadow}*Start Training from the Partner Portal*
+    ![Start Training from the Partner Portal](images/gitlab-partner-training.png)*Start Training from the Partner Portal*
 
 
 ## 2. Additional Enablement Resources at GitLab
 
-- [GitLab Unfiltered Partner Enablement Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqQi2Kk0M5vnqB1n0CIb_sa) 
+- [GitLab Unfiltered Partner Enablement Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KqQi2Kk0M5vnqB1n0CIb_sa)
   - This is an SA curated playlist of the most informative technical videos on GitLab Unfiltered channel.  Some videos here are unlisted and hard to discover otherwise.  Bookmark this link!
--  [GitLab Security Capabilities](https://www.youtube.com/watch?v=d8X6vYY4WOA) 
+- [GitLab Security Capabilities](https://www.youtube.com/watch?v=d8X6vYY4WOA)
   - Also periodically browse the main GitLab Unfiltered channel.  This video tour of GitLab Security capabilities is excellent, but for technical reasons can't be added to the playlist above.  (50:16)
-- [Partner Enablement Presentation](https://docs.google.com/presentation/d/1VUY6WR4gewnXITUUAnVbFOExXmhdTYif2JgAiTbT7tE/edit#slide=id.g12b319f6181_0_10) 
+- [Partner Enablement Presentation](https://docs.google.com/presentation/d/1VUY6WR4gewnXITUUAnVbFOExXmhdTYif2JgAiTbT7tE/edit#slide=id.g12b319f6181_0_10)
   - This deck has some great links associa
 
 ## 3. Technical References
 
-- [GitLab Documentation](https://docs.gitlab.com/) 
+- [GitLab Documentation](https://docs.gitlab.com/)
   - The best starting point for technical questions. It lists feature descriptions, excellent tutorials, and troubleshooting tips.
-- [GitLab Blog](https://about.gitlab.com/blog/) 
+- [GitLab Blog](https://about.gitlab.com/blog/)
   - Various content about GitLab. Mostly technical stuff, but not exclusively. Subscribing to the newsletter can be useful.
-- [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features) 
+- [Release Overview Website](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=features)
   - A fairly unknown tool that can help with understanding the changes in each GitLab version. (Source code of the website is [here](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/what-is-new-since).) Important features of this website to pay extra attention to:
     - [CVEs by version](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=cves): easily keep track of security vulnerabilities in each GitLab version.
     - [Upgrade path](https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/): a handy tool which can list the steps of upgrading self-managed GitLab from version X to version Y.
-- [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html) 
+- [Deprecations by version](https://docs.gitlab.com/ee/update/deprecations.html)
   - same data as [this page](https://gitlab-com.gitlab.io/cs-tools/gitlab-cs-tools/what-is-new-since/?tab=deprecations) of the Release Overview website, just in a different format.
-- [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/) 
+- [GitLab Releases Blog](https://about.gitlab.com/releases/categories/releases/)
   - The same information as the Release Overview website, but in nicely formatted blog posts, ready to share with customers.
-- [The GitLab Project](https://gitlab.com/gitlab-org/gitlab) 
+- [The GitLab Project](https://gitlab.com/gitlab-org/gitlab)
   - The source code of the GitLab software itself. The most useful part is the [Issues page](https://gitlab.com/gitlab-org/gitlab/-/issues), where everybody can check the state of a feature or a bug and see if it's planned or being worked on.
 
 ## 4. Third-Party & Community Tutorials

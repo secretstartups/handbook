@@ -26,7 +26,7 @@ This list is **not** exhaustive but provides the Solution Architect (SA) with a 
 | `Configure` | N/A |
 | `Monitor` | N/A |
 | `Govern` | N/A | 
-| `Integration Technologies` | 1. [Elasticsearch: Advanced Searching](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/integration-technologies/) |
+| `Integration Technologies` | 1. [Elasticsearch: Advanced Searching](https://about.gitlab.com/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/integration-technologies/) |
 
 ## Contribution Guidelines
 
