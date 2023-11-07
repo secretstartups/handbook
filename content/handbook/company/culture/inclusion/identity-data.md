@@ -66,6 +66,6 @@ Below is a list of the different ways GitLab Team Members choose to identify. Th
 **Source**: GitLab's People Analytics Team, WorkDay
 **Of Note**: `Management` refers to Team Members who are *People Managers*, whereas `Leadership` denotes Team Members who are in *Director-level positions and above*.
 
-**As of 2023-11-01 underrepresented groups for ethnicity are reported globally as opposed to just for team members in the US. This decision was made to better align with GitLab values and to show true representation of team members globally. 
+**As of 2023-11-01 underrepresented groups for ethnicity are reported globally as opposed to just for team members in the US. This decision was made to better align with GitLab values and to show true representation of team members globally.
 
 Due to data and or legal limitations, this is not an exhaustive list of all of our underrepresented groups (those with disabilities, those that identify as LGBTQIA+, etc. who choose not to disclose).
