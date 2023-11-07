@@ -41,10 +41,6 @@ To learn more on when to use asynchronous and synchronous communication, example
 When working on a problem or issue, communicate directly with the people you need support from rather than working through reporting lines. Direct communication with the people you need to collaborate with is more efficient than working through your manager, their manager, or another intermediary.
 Escalate to management if you are not getting the support you need. Remember that everyone is a [manager of one](/handbook/values/#managers-of-one) and they might have to complete their own assignments and inform the reporting lines.
 
-### Top misused terms
-
-Please see our [Top misused terms page](/handbook/communication/top-misused-terms/).
-
 ### Effective Listening
 
 Commit to [active and effective listening](/handbook/people-group/learning-and-development/manager-coaching-and-leadership-resources/#demonstrating-active-listening).
