@@ -103,6 +103,6 @@ Please see the [Application Security Automation and Monitoring page][12]
 [7]: https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics
 [8]: https://app.periscopedata.com/app/gitlab/758795/Appsec-Embedded-Dashboard
 [9]: https://docs.google.com/document/d/1Mba9ZhuVr2qBkvR7AqzNTUFMUTapJqiXkPUqc9Gr8io/edit
-[10]: {{< ref "root-cause-analysis" >}}
+[10]: {{< ref "/handbook/security/root-cause-analysis" >}}
 [11]: {{< ref "reproducible-vulnerabilities" >}}
 [12]: {{< ref "application-security-automation-monitoring" >}}
