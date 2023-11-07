@@ -329,7 +329,7 @@ What do managers ask about when it comes to having career conversations with the
 
 *Career Conversation Acknowledgements happen at a division basis. Check with your People Business Partner if your division is doing this.*
 
-Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results]({{< ref "engagement" >}}) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
+Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results]({{< ref "/handbook/people-group/engagement" >}}) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently.
 
 ### Cadence
 
