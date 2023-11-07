@@ -4,7 +4,7 @@ title: RFI/RFP Process
 description: >-
   Solution Architect Assisted RFI/RFP Process
 ---
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## RFI/RFP Process
  

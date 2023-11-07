@@ -1,19 +1,7 @@
 ---
-
 title: "Tech Stack Guide Reference"
 description: "Reference for how to create and maintain Tech Stack Guides."
 ---
-
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
-
-
-
-
-
 
 ## What Is A Tech Stack Guide?
 
@@ -27,27 +15,22 @@ The goal of this page is to describe how to document an application's `Tech Stac
 
 Here's how to think about the relationship between the Tech Stack YAML nd the Tech Stack Guide:
 - The Tech Stack YAML is a registry of all apps GitLab owns or operates (the What)
-- A Tech Stack Guide covers the business and technical workflows (the Why and How) of each Tech Stack app 
+- A Tech Stack Guide covers the business and technical workflows (the Why and How) of each Tech Stack app
 - The `handbook_link` key/property in the YAML links to the corresponding Tech Stack Guide(s)
 
 We also plan to have a second YAML file for our security applications called the Security Stack YAML that lives in the internal handbook. We will use the same template approach for these applications.
 
+{{% alert color="warning" %}}
 Tech Stack Guide Template
-{: .alert .alert-success}
+{{% /alert %}}
 
 ## Tech Stack Application Name
 
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
 
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Application Name" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Okta Enabled:** <%= stack.need_move_to_okta %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+```markdown
+{{%/* tech-stack "Application Name" */%}}
+```
 
 ### Implementation
 
@@ -77,17 +60,19 @@ Important Notes:
 
 ## Tech Stack Guide Example #2: Zuora Billing
 
+### Code
+
+```markdown
 The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
 
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Zuora" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Okta Enabled:** <%= stack.need_move_to_okta %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{%/* tech-stack "Zuora Billing" */%}}
+```
+
+### Result
+
+The Tech Stack single source of truth is the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and contains more detail about this app.
+
+{{% tech-stack "Zuora Billing" %}}
 
 ### Implementation
 

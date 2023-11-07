@@ -18,12 +18,4 @@ If you need to request access for any of the following tools, please refer to an
 
 ## Tech Stack Applications
 
-<% data.tech_stack.each do |stack| %>
-## <%= stack.title %>
-
-<%= kramdown(stack.description) if stack.description %>
-
-<% if stack.handbook_link %>
-**Handbook Guide:** <%= stack.handbook_link %>
-<% end %>
-<% end %>
+{{% all-tech-stack %}}

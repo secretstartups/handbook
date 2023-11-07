@@ -9,7 +9,7 @@ description: GitLab Trial Guidelines
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 The guidelines here are meant to help prospects and existing GitLab Self-Managed or SaaS customers get started with an Ultimate trial. 
 

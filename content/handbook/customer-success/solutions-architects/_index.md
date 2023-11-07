@@ -9,7 +9,7 @@ description: "Solutions Architects (SA) are the trusted advisors to GitLab prosp
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 ## Solutions Architecture Mission
 

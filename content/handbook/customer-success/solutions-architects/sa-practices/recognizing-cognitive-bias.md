@@ -4,7 +4,7 @@ title: What is Cognitive Bias
 description: Learn about Cognitive Bias and how to facilitate Cognitive Bias exercise.
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 What is Cognitive Bias:
 

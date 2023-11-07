@@ -4,7 +4,7 @@ title: "Monthly Release Quiz"
 description: "Enable SAs and the larger CS team on new and existing features with a monthly quiz event"
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 

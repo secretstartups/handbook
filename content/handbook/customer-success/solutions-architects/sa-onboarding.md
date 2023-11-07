@@ -9,7 +9,7 @@ description: "30-60-90 day Onboarding Program for Solutions Architects (SA)."
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 View the [SA Handbook homepage](https://about.gitlab.com/handbook/customer-success/solutions-architects/) for additional SA-related handbook pages.
 

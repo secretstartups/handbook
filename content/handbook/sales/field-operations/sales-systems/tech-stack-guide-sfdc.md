@@ -1,32 +1,13 @@
 ---
-
 title: "Salesforce Tech Stack Guide"
 description: "Reference for how Salesforce is implemented."
 ---
-
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
-
-
-
-
-
-
-
 
 ## Salesforce Tech Stack Guide
 
 > **Note:** Refer to the **[Tech Stack Index](/handbook/business-technology/tech-stack/)** to browse Apps and **[Tech Stack Applications](/handbook/business-technology/tech-stack-applications/)** to manage Apps.
 
-<% data.tech_stack.each do |stack| %>
-<% if stack.title == "Salesforce" %>
-- **Description:** <%= stack.description %>
-- **Provisioner:** <%= stack.provisioner %>
-- **Deprovisioner:** <%= stack.deprovisioner %>
-- **Critical Systems Tier:** <%= stack.critical_systems_tier %>
-<% end %>
-<% end %>
+{{% tech-stack "Salesforce" %}}
 
 ### Implementation
 

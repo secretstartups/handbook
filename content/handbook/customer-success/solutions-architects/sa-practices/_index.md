@@ -9,7 +9,7 @@ title: SA Practices
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 ## SA Practices

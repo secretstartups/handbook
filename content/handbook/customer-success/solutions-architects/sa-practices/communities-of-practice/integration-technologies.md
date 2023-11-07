@@ -3,7 +3,7 @@
 title: "Integration Technologies"
 ---
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 # Integration Technologies

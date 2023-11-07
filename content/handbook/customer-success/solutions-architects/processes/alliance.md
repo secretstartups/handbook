@@ -8,7 +8,7 @@ title: Alliance SA Engagement Model
 
 
 
-<%= partial("handbook/customer-success/solutions-architects/includes/navigation") %>
+{{% include "includes/solutions-architects-navigation.md" %}}
 
 
 ## Alliance Solutions Architect: Role & Responsibilities

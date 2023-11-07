@@ -1,21 +1,10 @@
-
 ---
-
+aliases: /handbook/business-technology/data-team/organization/data-collaboration/data_assets.html
 title: "Business Technology - Data Assets"
 description: "A list of data tools, tables, jobs, dashboards and other data assets used internally at GitLab."
-
 ---
 
-
-
-
-
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
----
-
-This is a listing of the data assets we use at GitLab. 
+This is a listing of the data assets we use at GitLab.
 
 ## Data assets related processes
 
@@ -29,9 +18,4 @@ If you need to request access for any of the following data assets, please refer
 
 ## Data Assets
 
-<% data.data_assets.each do |stack| %>
-## <%= stack.title %>
-
-<%= kramdown(stack.description) if stack.description %>
-
-<% end %>
+{{% data-assets %}}
