@@ -4,14 +4,6 @@ title: "UX Bash"
 description: "A quick and efficient way to identify bugs and improve the user experience"
 ---
 
-
-
-
-
-
-
-### Introduction to the UX Bash
-
 A Bash is a research method where a group of participants, whether diverse or targeted, thoroughly use a feature to efficiently uncover as many pain-points as possible. 
 
 The idea is that each participant will use the feature differently, resulting in a large amount of varied feedback in a short amount of time. Bashes usually take place over 24 hours, enabling asynchronous participation.  
@@ -82,7 +74,3 @@ Bashes are useful when [foundational research](https://about.gitlab.com/handbook
 - Analyze data. This will depend on the data you chose to collect, but this will usually involve categorizing qualitative feedback and summarizing quantitative ratings. ([Example Bash Analysis Document](https://docs.google.com/spreadsheets/d/1jwQklnXPzbEIodXishsQ1eEjuxcvSRxczx1JrVBZhBo/edit#gid=118393419))
 - Share findings with your team. ([Example Issue Update](https://gitlab.com/gitlab-org/ux-research/-/issues/2513#note_1494533098))
 - Gather feedback from participants in order to improve subsequent Bashes. 
-
-
-
-
