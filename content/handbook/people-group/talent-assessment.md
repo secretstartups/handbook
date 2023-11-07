@@ -319,7 +319,7 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the team member's own [Self-Evaluation](#team-member-self-evaluations), if they wished to complete one.
 - Review the Job Family/Families that will be reviewed in detail
 - Review our competencies
-    - Talent Assessment Training (UPDATE IN PROGRESS)
+    - [Talent Assessment Training in LevelUp] (https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
     - [Values competencies](/handbook/competencies/#values-competencies)
     - [Remote work competencies](/handbook/competencies/#remote-work-competencies)
     - [Functional competencies](/handbook/competencies/#functional-competencies) *(if applicable)*
@@ -336,7 +336,6 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session, please watch the training video below:
 
-[LevelUp Training](https://levelup.gitlab.com/access/saml/login/internal-team-members?returnTo=https://levelup.gitlab.com/learn/course/talent-assessment)
 
 #### Topics To Avoid
 
